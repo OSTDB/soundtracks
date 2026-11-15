@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 3: Collector's Edition | 43022 | [43022-fallout-3-collectors-edition.json](./43022-fallout-3-collectors-edition.json) |
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
+| Fallout 3: Operation Anchorage | 10301 | [10301-fallout-3-operation-anchorage.json](./10301-fallout-3-operation-anchorage.json) |
 | Fallout 3: Point Lookout | 10302 | [10302-fallout-3-point-lookout.json](./10302-fallout-3-point-lookout.json) |
 | Fallout 3: Remaster | 267307 | [267307-fallout-3-remaster.json](./267307-fallout-3-remaster.json) |
 | Fallout 3: Survival Edition | 72381 | [72381-fallout-3-survival-edition.json](./72381-fallout-3-survival-edition.json) |
@@ -3637,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extra Record | 142911 | [142911-fate-extra-record.json](./142911-fate-extra-record.json) |
 | Fate/Extra Record: Limited Edition | 416864 | [416864-fate-extra-record-limited-edition.json](./416864-fate-extra-record-limited-edition.json) |
 | Fate/Extra: Limited Edition | 42715 | [42715-fate-extra-limited-edition.json](./42715-fate-extra-limited-edition.json) |
+| Fate/Grand Order | 24493 | [24493-fate-grand-order.json](./24493-fate-grand-order.json) |
 | Fate/Grand Order Arcade | 54898 | [54898-fate-grand-order-arcade.json](./54898-fate-grand-order-arcade.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
 | Fate/Grand Order Lostbelt No. 3: SIN | 414304 | [414304-fate-grand-order-lostbelt-no-3-sin.json](./414304-fate-grand-order-lostbelt-no-3-sin.json) |
@@ -4967,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2002 | 49326 | [49326-fifa-soccer-2002.json](./49326-fifa-soccer-2002.json) |
 | FIFA Soccer 2002: Major League Soccer | 209422 | [209422-fifa-soccer-2002-major-league-soccer.json](./209422-fifa-soccer-2002-major-league-soccer.json) |
 | FIFA Soccer 2002: Major League Soccer | 240267 | [240267-fifa-soccer-2002-major-league-soccer.json](./240267-fifa-soccer-2002-major-league-soccer.json) |
+| FIFA Soccer 2002: Major League Soccer | 701 | [701-fifa-soccer-2002-major-league-soccer.json](./701-fifa-soccer-2002-major-league-soccer.json) |
 | FIFA Soccer 2003 | 209425 | [209425-fifa-soccer-2003.json](./209425-fifa-soccer-2003.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
 | FIFA Soccer 2003 | 43335 | [43335-fifa-soccer-2003.json](./43335-fifa-soccer-2003.json) |
@@ -5744,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Futures Rewritten | 221546 | [221546-final-fantasy-xiv-futures-rewritten.json](./221546-final-fantasy-xiv-futures-rewritten.json) |
 | Final Fantasy XIV: Gods Revel, Lands Tremble | 228886 | [228886-final-fantasy-xiv-gods-revel-lands-tremble.json](./228886-final-fantasy-xiv-gods-revel-lands-tremble.json) |
 | Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
+| Final Fantasy XIV: Heavensward | 14723 | [14723-final-fantasy-xiv-heavensward.json](./14723-final-fantasy-xiv-heavensward.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
 | Final Fantasy XIV: Newfound Adventure | 221548 | [221548-final-fantasy-xiv-newfound-adventure.json](./221548-final-fantasy-xiv-newfound-adventure.json) |
