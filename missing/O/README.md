@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
 | Oil Wars | 129069 | [129069-oil-wars.json](./129069-oil-wars.json) |
 | Oil.exe | 407889 | [407889-oil-exe.json](./407889-oil-exe.json) |
+| Oil's Well | 24392 | [24392-oils-well.json](./24392-oils-well.json) |
 | Oil's Well | 40901 | [40901-oils-well.json](./40901-oils-well.json) |
 | Oilcap | 131046 | [131046-oilcap.json](./131046-oilcap.json) |
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
