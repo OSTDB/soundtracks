@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face of War | 216116 | [216116-face-of-war.json](./216116-face-of-war.json) |
 | Face Off | 40043 | [40043-face-off.json](./40043-face-off.json) |
 | Face Off: A Hot Shot Story | 314189 | [314189-face-off-a-hot-shot-story.json](./314189-face-off-a-hot-shot-story.json) |
+| Face Off! | 50795 | [50795-face-off.json](./50795-face-off.json) |
 | Face on Fire | 143936 | [143936-face-on-fire.json](./143936-face-on-fire.json) |
 | Face Paint Party Salon | 96314 | [96314-face-paint-party-salon.json](./96314-face-paint-party-salon.json) |
 | Face Pilot: Fly With Your Nintendo DSi Camera! | 85135 | [85135-face-pilot-fly-with-your-nintendo-dsi-camera.json](./85135-face-pilot-fly-with-your-nintendo-dsi-camera.json) |
@@ -9997,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
 | Fomon | 333336 | [333336-fomon.json](./333336-fomon.json) |
 | FOnline: Ashes of Phoenix | 146067 | [146067-fonline-ashes-of-phoenix.json](./146067-fonline-ashes-of-phoenix.json) |
+| FOnline: Reloaded | 50785 | [50785-fonline-reloaded.json](./50785-fonline-reloaded.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
 | Fonsermónique’s Culinary Diary | 403314 | [403314-fonsermonique-s-culinary-diary.json](./403314-fonsermonique-s-culinary-diary.json) |
 | Font Quiz | 232059 | [232059-font-quiz.json](./232059-font-quiz.json) |
