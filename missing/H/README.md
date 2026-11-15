@@ -6399,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herc's Adventures | 318269 | [318269-hercs-adventures.json](./318269-hercs-adventures.json) |
 | Hercequary | 56922 | [56922-hercequary.json](./56922-hercequary.json) |
 | Hercules | 180416 | [180416-hercules.json](./180416-hercules.json) |
+| Hercules | 36541 | [36541-hercules.json](./36541-hercules.json) |
 | Hercules | 382856 | [382856-hercules.json](./382856-hercules.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules 2 | 46158 | [46158-hercules-2.json](./46158-hercules-2.json) |
@@ -8557,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Quality Funkin' | 405006 | [405006-high-quality-funkin.json](./405006-high-quality-funkin.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
+| High Roller | 36586 | [36586-high-roller.json](./36586-high-roller.json) |
 | High Roller Penny | 413416 | [413416-high-roller-penny.json](./413416-high-roller-penny.json) |
 | High Roller: Farkle | 216169 | [216169-high-roller-farkle.json](./216169-high-roller-farkle.json) |
 | High Rollers | 67393 | [67393-high-rollers.json](./67393-high-rollers.json) |
