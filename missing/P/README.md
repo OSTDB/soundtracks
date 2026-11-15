@@ -978,7 +978,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam: Don't Fear the Dark | 51107 | [51107-pajama-sam-dont-fear-the-dark.json](./51107-pajama-sam-dont-fear-the-dark.json) |
 | Pajama Sam: Games to Play on Any Day | 17716 | [17716-pajama-sam-games-to-play-on-any-day.json](./17716-pajama-sam-games-to-play-on-any-day.json) |
 | Pajama Sam: No Need to Hide When It's Dark Outside | 192052 | [192052-pajama-sam-no-need-to-hide-when-its-dark-outside.json](./192052-pajama-sam-no-need-to-hide-when-its-dark-outside.json) |
+| Pajama Sam's Games to Play on Any Day | 50896 | [50896-pajama-sams-games-to-play-on-any-day.json](./50896-pajama-sams-games-to-play-on-any-day.json) |
 | Pajama Sam's Lost & Found | 10651 | [10651-pajama-sams-lost-and-found.json](./10651-pajama-sams-lost-and-found.json) |
+| Pajama Sam's One Stop Fun Shop | 50889 | [50889-pajama-sams-one-stop-fun-shop.json](./50889-pajama-sams-one-stop-fun-shop.json) |
 | Pajama Sam's Sock Works | 10652 | [10652-pajama-sams-sock-works.json](./10652-pajama-sams-sock-works.json) |
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
 | Pajithko | 266591 | [266591-pajithko.json](./266591-pajithko.json) |
@@ -4713,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra | 140093 | [140093-penumbra.json](./140093-penumbra.json) |
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
 | Penumbra | 268888 | [268888-penumbra.json](./268888-penumbra.json) |
+| Penumbra Collection | 50883 | [50883-penumbra-collection.json](./50883-penumbra-collection.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Penumbra: Black Plague | 2045 | [2045-penumbra-black-plague.json](./2045-penumbra-black-plague.json) |
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
@@ -4796,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
 | Pepper the Giant Purple Dog | 386897 | [386897-pepper-the-giant-purple-dog.json](./386897-pepper-the-giant-purple-dog.json) |
 | Pepper: The Food Truck Hero | 194099 | [194099-pepper-the-food-truck-hero.json](./194099-pepper-the-food-truck-hero.json) |
+| Pepper's Adventures in Time | 50897 | [50897-peppers-adventures-in-time.json](./50897-peppers-adventures-in-time.json) |
 | Pepper's Castle | 195398 | [195398-peppers-castle.json](./195398-peppers-castle.json) |
 | Pepper's Puzzles | 52085 | [52085-peppers-puzzles.json](./52085-peppers-puzzles.json) |
 | Peppered | 129445 | [129445-peppered.json](./129445-peppered.json) |
@@ -15237,6 +15241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powercut, Inc. | 110151 | [110151-powercut-inc.json](./110151-powercut-inc.json) |
 | Powerdrome | 15344 | [15344-powerdrome.json](./15344-powerdrome.json) |
 | Powered Platformer Bundle | 314861 | [314861-powered-platformer-bundle.json](./314861-powered-platformer-bundle.json) |
+| PowerFist VR | 50893 | [50893-powerfist-vr.json](./50893-powerfist-vr.json) |
 | Powerful Courses | 371123 | [371123-powerful-courses.json](./371123-powerful-courses.json) |
 | Powerful Dabl | 271905 | [271905-powerful-dabl.json](./271905-powerful-dabl.json) |
 | Powerful Golf | 122502 | [122502-powerful-golf.json](./122502-powerful-golf.json) |
