@@ -4168,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in a Mysterious Island | 381768 | [381768-adventure-in-a-mysterious-island.json](./381768-adventure-in-a-mysterious-island.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
 | Adventure in Hender´s Castle | 358581 | [358581-adventure-in-hender-s-castle.json](./358581-adventure-in-hender-s-castle.json) |
+| Adventure in Humongous Cave | 70008 | [70008-adventure-in-humongous-cave.json](./70008-adventure-in-humongous-cave.json) |
 | Adventure in Kana Village | 101314 | [101314-adventure-in-kana-village.json](./101314-adventure-in-kana-village.json) |
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
@@ -9170,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alveron: Withering Roots | 244651 | [244651-alveron-withering-roots.json](./244651-alveron-withering-roots.json) |
 | Alvin and the Chipmunks | 4669 | [4669-alvin-and-the-chipmunks.json](./4669-alvin-and-the-chipmunks.json) |
 | Alvin and the Chipmunks: The Squeakquel | 4671 | [4671-alvin-and-the-chipmunks-the-squeakquel.json](./4671-alvin-and-the-chipmunks-the-squeakquel.json) |
+| Alvin the Android | 70001 | [70001-alvin-the-android.json](./70001-alvin-the-android.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
 | Alvora Tactics | 28771 | [28771-alvora-tactics.json](./28771-alvora-tactics.json) |
@@ -14039,6 +14041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
 | Arcade Archives: Crazy Climber | 69653 | [69653-arcade-archives-crazy-climber.json](./69653-arcade-archives-crazy-climber.json) |
+| Arcade Archives: Crazy Climber 2 | 69980 | [69980-arcade-archives-crazy-climber-2.json](./69980-arcade-archives-crazy-climber-2.json) |
 | Arcade Archives: Crime City | 317264 | [317264-arcade-archives-crime-city.json](./317264-arcade-archives-crime-city.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
 | Arcade Archives: Cue Brick | 303858 | [303858-arcade-archives-cue-brick.json](./303858-arcade-archives-cue-brick.json) |
@@ -15082,6 +15085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcus | 80836 | [80836-arcus.json](./80836-arcus.json) |
 | Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
 | Arcus I-II-III | 46394 | [46394-arcus-i-ii-iii.json](./46394-arcus-i-ii-iii.json) |
+| Arcus II: Silent Symphony | 69988 | [69988-arcus-ii-silent-symphony.json](./69988-arcus-ii-silent-symphony.json) |
 | Arcus III | 98263 | [98263-arcus-iii.json](./98263-arcus-iii.json) |
 | Arcus Odyssey | 16138 | [16138-arcus-odyssey.json](./16138-arcus-odyssey.json) |
 | Arcuz | 161152 | [161152-arcuz.json](./161152-arcuz.json) |
