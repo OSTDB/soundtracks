@@ -910,7 +910,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Gangster City | 151266 | [151266-mafia-gangster-city.json](./151266-mafia-gangster-city.json) |
 | Mafia Hotel | 416006 | [416006-mafia-hotel.json](./416006-mafia-hotel.json) |
 | Mafia II Mobile | 272451 | [272451-mafia-ii-mobile.json](./272451-mafia-ii-mobile.json) |
+| Mafia II: Collector's Edition | 53282 | [53282-mafia-ii-collectors-edition.json](./53282-mafia-ii-collectors-edition.json) |
 | Mafia II: Definitive Edition | 134071 | [134071-mafia-ii-definitive-edition.json](./134071-mafia-ii-definitive-edition.json) |
+| Mafia II: Digital Deluxe Edition | 53286 | [53286-mafia-ii-digital-deluxe-edition.json](./53286-mafia-ii-digital-deluxe-edition.json) |
 | Mafia II: Director's Cut | 47385 | [47385-mafia-ii-directors-cut.json](./47385-mafia-ii-directors-cut.json) |
 | Mafia II: Greaser Pack | 275236 | [275236-mafia-ii-greaser-pack.json](./275236-mafia-ii-greaser-pack.json) |
 | Mafia II: Jimmy's Vendetta | 10525 | [10525-mafia-ii-jimmys-vendetta.json](./10525-mafia-ii-jimmys-vendetta.json) |
@@ -922,6 +924,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia II: War Hero Pack | 275235 | [275235-mafia-ii-war-hero-pack.json](./275235-mafia-ii-war-hero-pack.json) |
 | Mafia III: Collector's Edition | 75679 | [75679-mafia-iii-collectors-edition.json](./75679-mafia-iii-collectors-edition.json) |
 | Mafia III: Definitive Edition | 134073 | [134073-mafia-iii-definitive-edition.json](./134073-mafia-iii-definitive-edition.json) |
+| Mafia III: Deluxe Edition | 53285 | [53285-mafia-iii-deluxe-edition.json](./53285-mafia-iii-deluxe-edition.json) |
+| Mafia III: Family Kick-Back | 53284 | [53284-mafia-iii-family-kick-back.json](./53284-mafia-iii-family-kick-back.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
 | Mafia III: Rivals | 78802 | [78802-mafia-iii-rivals.json](./78802-mafia-iii-rivals.json) |
 | Mafia III: Stones Unturned | 39760 | [39760-mafia-iii-stones-unturned.json](./39760-mafia-iii-stones-unturned.json) |
