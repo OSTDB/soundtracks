@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Dragon | 335058 | [335058-half-dragon.json](./335058-half-dragon.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
 | Half Grip | 413472 | [413472-half-grip.json](./413472-half-grip.json) |
+| Half Haunted | 424534 | [424534-half-haunted.json](./424534-half-haunted.json) |
 | Half Hour Hexagon | 220027 | [220027-half-hour-hexagon.json](./220027-half-hour-hexagon.json) |
 | Half Hour RPG | 415187 | [415187-half-hour-rpg.json](./415187-half-hour-rpg.json) |
 | Half Left | 398187 | [398187-half-left.json](./398187-half-left.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
 | Happy Princess | 77701 | [77701-happy-princess.json](./77701-happy-princess.json) |
 | Happy Princess: Another Fairytale | 77904 | [77904-happy-princess-another-fairytale.json](./77904-happy-princess-another-fairytale.json) |
+| Happy Propaganda | 424529 | [424529-happy-propaganda.json](./424529-happy-propaganda.json) |
 | Happy Puppy | 346396 | [346396-happy-puppy.json](./346396-happy-puppy.json) |
 | Happy Puzzle | 157346 | [157346-happy-puzzle.json](./157346-happy-puzzle.json) |
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
@@ -4197,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Hogur | 54079 | [54079-heavy-hogur.json](./54079-heavy-hogur.json) |
 | Heavy Impact | 30485 | [30485-heavy-impact.json](./30485-heavy-impact.json) |
+| Heavy in the Hand | 424565 | [424565-heavy-in-the-hand.json](./424565-heavy-in-the-hand.json) |
 | Heavy Industries | 176199 | [176199-heavy-industries.json](./176199-heavy-industries.json) |
 | Heavy is the Crown | 180917 | [180917-heavy-is-the-crown.json](./180917-heavy-is-the-crown.json) |
 | Heavy is the Hand that Holds the Six-Shooter | 158266 | [158266-heavy-is-the-hand-that-holds-the-six-shooter.json](./158266-heavy-is-the-hand-that-holds-the-six-shooter.json) |
