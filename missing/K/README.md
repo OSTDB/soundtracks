@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KagamiMochi | 108530 | [108530-kagamimochi.json](./108530-kagamimochi.json) |
 | Kagaribi | 398118 | [398118-kagaribi.json](./398118-kagaribi.json) |
 | Kagawa Manao to Futari de Shogi | 221469 | [221469-kagawa-manao-to-futari-de-shogi.json](./221469-kagawa-manao-to-futari-de-shogi.json) |
+| Kagayake! Kira-kira Senshi Risky Jewel | 66290 | [66290-kagayake-kira-kira-senshi-risky-jewel.json](./66290-kagayake-kira-kira-senshi-risky-jewel.json) |
 | Kage | 400586 | [400586-kage.json](./400586-kage.json) |
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
 | Kage-chara Love-Com | 253668 | [253668-kage-chara-love-com.json](./253668-kage-chara-love-com.json) |
@@ -369,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
 | Kaitei Taisensou!! Treasure World | 281597 | [281597-kaitei-taisensou-treasure-world.json](./281597-kaitei-taisensou-treasure-world.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
+| Kaiten Patissier | 66304 | [66304-kaiten-patissier.json](./66304-kaiten-patissier.json) |
 | Kaiten Puyoman Kuu Carbuncle | 253764 | [253764-kaiten-puyoman-kuu-carbuncle.json](./253764-kaiten-puyoman-kuu-carbuncle.json) |
 | Kaiten Sushi VR | 245809 | [245809-kaiten-sushi-vr.json](./245809-kaiten-sushi-vr.json) |
 | Kaitlin: The Perfect Date | 313622 | [313622-kaitlin-the-perfect-date.json](./313622-kaitlin-the-perfect-date.json) |
