@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisy's Dead | 422691 | [422691-daisys-dead.json](./422691-daisys-dead.json) |
 | Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
 | DaisyPop | 230230 | [230230-daisypop.json](./230230-daisypop.json) |
+| Daitanfuteki: Lucky Travel | 66272 | [66272-daitanfuteki-lucky-travel.json](./66272-daitanfuteki-lucky-travel.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Banchou Portable | 269490 | [269490-daito-giken-koushiki-pachi-slot-simulator-ossu-banchou-portable.json](./269490-daito-giken-koushiki-pachi-slot-simulator-ossu-banchou-portable.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Misao + Maguro Densetsu Portable | 269491 | [269491-daito-giken-koushiki-pachi-slot-simulator-ossu-misao-maguro-densetsu-portable.json](./269491-daito-giken-koushiki-pachi-slot-simulator-ossu-misao-maguro-densetsu-portable.json) |
@@ -7504,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denizen | 227193 | [227193-denizen.json](./227193-denizen.json) |
 | Denizen's Den | 65382 | [65382-denizens-den.json](./65382-denizens-den.json) |
 | Denjarasu Jii-san Jya | 85082 | [85082-denjarasu-jii-san-jya.json](./85082-denjarasu-jii-san-jya.json) |
+| Denji Sentai Megaranger | 66840 | [66840-denji-sentai-megaranger.json](./66840-denji-sentai-megaranger.json) |
 | Denjin Makai | 46782 | [46782-denjin-makai.json](./46782-denjin-makai.json) |
 | Denjirou Sensei no Fushigi na Jikkenshitsu | 269695 | [269695-denjirou-sensei-no-fushigi-na-jikkenshitsu.json](./269695-denjirou-sensei-no-fushigi-na-jikkenshitsu.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
@@ -11942,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King 1 1/2 | 79813 | [79813-disneys-the-lion-king-1-1-2.json](./79813-disneys-the-lion-king-1-1-2.json) |
 | Disney's The Lion King II: Simba's Pride | 109194 | [109194-disneys-the-lion-king-ii-simbas-pride.json](./109194-disneys-the-lion-king-ii-simbas-pride.json) |
+| Disney's The Lion King: Adventures at Pride Rock | 66851 | [66851-disneys-the-lion-king-adventures-at-pride-rock.json](./66851-disneys-the-lion-king-adventures-at-pride-rock.json) |
 | Disney's The Lion King: Simba's Big Adventure | 80295 | [80295-disneys-the-lion-king-simbas-big-adventure.json](./80295-disneys-the-lion-king-simbas-big-adventure.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 259481 | [259481-disneys-the-lion-king-simbas-mighty-adventure.json](./259481-disneys-the-lion-king-simbas-mighty-adventure.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 45228 | [45228-disneys-the-lion-king-simbas-mighty-adventure.json](./45228-disneys-the-lion-king-simbas-mighty-adventure.json) |
@@ -16232,6 +16235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age II: Warrior Item Pack | 368133 | [368133-dragon-age-ii-warrior-item-pack.json](./368133-dragon-age-ii-warrior-item-pack.json) |
 | Dragon Age II: Warrior Item Pack II | 368140 | [368140-dragon-age-ii-warrior-item-pack-ii.json](./368140-dragon-age-ii-warrior-item-pack-ii.json) |
 | Dragon Age Journeys | 67172 | [67172-dragon-age-journeys.json](./67172-dragon-age-journeys.json) |
+| Dragon Age Legends | 66298 | [66298-dragon-age-legends.json](./66298-dragon-age-legends.json) |
 | Dragon Age Legends: Remix 01 | 187130 | [187130-dragon-age-legends-remix-01.json](./187130-dragon-age-legends-remix-01.json) |
 | Dragon Age: Inquisition - Game of the Year Edition | 44545 | [44545-dragon-age-inquisition-game-of-the-year-edition.json](./44545-dragon-age-inquisition-game-of-the-year-edition.json) |
 | Dragon Age: Inquisition - Jaws of Hakkon | 19135 | [19135-dragon-age-inquisition-jaws-of-hakkon.json](./19135-dragon-age-inquisition-jaws-of-hakkon.json) |
@@ -16726,6 +16730,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Master | 193909 | [193909-dragon-master.json](./193909-dragon-master.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Master | 46780 | [46780-dragon-master.json](./46780-dragon-master.json) |
+| Dragon Master Silk | 66291 | [66291-dragon-master-silk.json](./66291-dragon-master-silk.json) |
+| Dragon Master Silk II | 66292 | [66292-dragon-master-silk-ii.json](./66292-dragon-master-silk-ii.json) |
+| Dragon Master Silk: Ryuu Shoukan Musume Episode II | 66293 | [66293-dragon-master-silk-ryuu-shoukan-musume-episode-ii.json](./66293-dragon-master-silk-ryuu-shoukan-musume-episode-ii.json) |
 | Dragon Master Spell Caster | 51118 | [51118-dragon-master-spell-caster.json](./51118-dragon-master-spell-caster.json) |
 | Dragon Masters: War of Legends | 214030 | [214030-dragon-masters-war-of-legends.json](./214030-dragon-masters-war-of-legends.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
@@ -18457,6 +18464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Spark | 231990 | [231990-drift-spark.json](./231990-drift-spark.json) |
 | Drift Spirits | 174631 | [174631-drift-spirits.json](./174631-drift-spirits.json) |
 | Drift Station: Real Driving - Open World Car Game | 216146 | [216146-drift-station-real-driving-open-world-car-game.json](./216146-drift-station-real-driving-open-world-car-game.json) |
+| Drift Street International | 66862 | [66862-drift-street-international.json](./66862-drift-street-international.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
 | Drift Stunt Racing 2019 | 109769 | [109769-drift-stunt-racing-2019.json](./109769-drift-stunt-racing-2019.json) |
 | Drift Sumi-e | 64294 | [64294-drift-sumi-e.json](./64294-drift-sumi-e.json) |
