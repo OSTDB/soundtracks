@@ -3319,6 +3319,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manatsu no Zangai | 285385 | [285385-manatsu-no-zangai.json](./285385-manatsu-no-zangai.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
 | Manaya | 90411 | [90411-manaya.json](./90411-manaya.json) |
+| Manbiki Shoujo | 57839 | [57839-manbiki-shoujo.json](./57839-manbiki-shoujo.json) |
+| Manbiki Shounen | 57844 | [57844-manbiki-shounen.json](./57844-manbiki-shounen.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Mancala | 89473 | [89473-mancala.json](./89473-mancala.json) |
 | Mancala Kalah | 99912 | [99912-mancala-kalah.json](./99912-mancala-kalah.json) |
@@ -17459,6 +17461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bonds | 332578 | [332578-monster-bonds.json](./332578-monster-bonds.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
+| Monster Breakout | 57811 | [57811-monster-breakout.json](./57811-monster-breakout.json) |
 | Monster Breeder | 86498 | [86498-monster-breeder.json](./86498-monster-breeder.json) |
 | Monster Brothel | 336491 | [336491-monster-brothel.json](./336491-monster-brothel.json) |
 | Monster Brother | 287536 | [287536-monster-brother.json](./287536-monster-brother.json) |
@@ -21027,6 +21030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms Vampire Love to Date With Me | 372548 | [372548-ms-vampire-love-to-date-with-me.json](./372548-ms-vampire-love-to-date-with-me.json) |
 | MS_Dos | 407147 | [407147-ms-dos.json](./407147-ms-dos.json) |
 | MS: Space Express | 192285 | [192285-ms-space-express.json](./192285-ms-space-express.json) |
+| Ms. Candyman | 57816 | [57816-ms-candyman.json](./57816-ms-candyman.json) |
 | Ms. Germinator | 63059 | [63059-ms-germinator.json](./63059-ms-germinator.json) |
 | Ms. Han's After-School Tutoring | 167400 | [167400-ms-hans-after-school-tutoring.json](./167400-ms-hans-after-school-tutoring.json) |
 | Ms. Holmes: Five Orange Pips | 187943 | [187943-ms-holmes-five-orange-pips.json](./187943-ms-holmes-five-orange-pips.json) |
