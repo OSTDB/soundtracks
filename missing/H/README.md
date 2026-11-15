@@ -7812,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: Dawn of Prosperity | 57768 | [57768-hidden-expedition-dawn-of-prosperity.json](./57768-hidden-expedition-dawn-of-prosperity.json) |
 | Hidden Expedition: Dawn of Prosperity - Collector's Edition | 31689 | [31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json](./31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json) |
 | Hidden Expedition: Devil's Triangle | 64723 | [64723-hidden-expedition-devils-triangle.json](./64723-hidden-expedition-devils-triangle.json) |
+| Hidden Expedition: Everest | 16177 | [16177-hidden-expedition-everest.json](./16177-hidden-expedition-everest.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
 | Hidden Expedition: Neptune's Gift - Collector's Edition | 357685 | [357685-hidden-expedition-neptunes-gift-collectors-edition.json](./357685-hidden-expedition-neptunes-gift-collectors-edition.json) |
 | Hidden Expedition: New Adventures Steve and Victoria | 249232 | [249232-hidden-expedition-new-adventures-steve-and-victoria.json](./249232-hidden-expedition-new-adventures-steve-and-victoria.json) |
@@ -7828,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Price of Paradise | 187927 | [187927-hidden-expedition-the-price-of-paradise.json](./187927-hidden-expedition-the-price-of-paradise.json) |
 | Hidden Expedition: The Price of Paradise - Collector's Edition | 170182 | [170182-hidden-expedition-the-price-of-paradise-collectors-edition.json](./170182-hidden-expedition-the-price-of-paradise-collectors-edition.json) |
 | Hidden Expedition: The Uncharted Islands | 64721 | [64721-hidden-expedition-the-uncharted-islands.json](./64721-hidden-expedition-the-uncharted-islands.json) |
+| Hidden Expedition: Titanic | 16178 | [16178-hidden-expedition-titanic.json](./16178-hidden-expedition-titanic.json) |
 | Hidden Facade | 291290 | [291290-hidden-facade.json](./291290-hidden-facade.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Farm Top-Down 3D | 195135 | [195135-hidden-farm-top-down-3d.json](./195135-hidden-farm-top-down-3d.json) |
@@ -11936,6 +11938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Rod Mayhem | 320785 | [320785-hot-rod-mayhem.json](./320785-hot-rod-mayhem.json) |
 | Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
 | Hot Rod Racing | 40295 | [40295-hot-rod-racing.json](./40295-hot-rod-racing.json) |
+| Hot Rod: American Street Drag | 16321 | [16321-hot-rod-american-street-drag.json](./16321-hot-rod-american-street-drag.json) |
 | Hot Rod: Garage to Glory | 73365 | [73365-hot-rod-garage-to-glory.json](./73365-hot-rod-garage-to-glory.json) |
 | Hot Routes: VR Football | 122843 | [122843-hot-routes-vr-football.json](./122843-hot-routes-vr-football.json) |
 | Hot Rubber | 15230 | [15230-hot-rubber.json](./15230-hot-rubber.json) |
