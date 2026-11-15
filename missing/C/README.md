@@ -6874,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos: Immortal Era | 224081 | [224081-chaos-immortal-era.json](./224081-chaos-immortal-era.json) |
 | Chaos: In the Darkness | 17767 | [17767-chaos-in-the-darkness.json](./17767-chaos-in-the-darkness.json) |
 | Chaos: The Battle of Wizards | 32390 | [32390-chaos-the-battle-of-wizards.json](./32390-chaos-the-battle-of-wizards.json) |
+| Chaos: The Battle of Wizards | 73896 | [73896-chaos-the-battle-of-wizards.json](./73896-chaos-the-battle-of-wizards.json) |
 | Chaosborn | 351354 | [351354-chaosborn.json](./351354-chaosborn.json) |
 | Chaosground: The Siege for Freedom | 206435 | [206435-chaosground-the-siege-for-freedom.json](./206435-chaosground-the-siege-for-freedom.json) |
 | Chāoshí Kōng zhī Lún | 281408 | [281408-chaoshi-kong-zhi-lun.json](./281408-chaoshi-kong-zhi-lun.json) |
@@ -7461,6 +7462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemistry and Physics | 188623 | [188623-chemistry-and-physics.json](./188623-chemistry-and-physics.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Chemists: Area of infection | 190896 | [190896-chemists-area-of-infection.json](./190896-chemists-area-of-infection.json) |
+| ChemRacer 2713: The Legend of Kid Chem | 73913 | [73913-chemracer-2713-the-legend-of-kid-chem.json](./73913-chemracer-2713-the-legend-of-kid-chem.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
 | ChengDu Mahjong | 219933 | [219933-chengdu-mahjong.json](./219933-chengdu-mahjong.json) |
 | Chénmò Chuánqí | 368436 | [368436-chenmo-chuanqi.json](./368436-chenmo-chuanqi.json) |
@@ -13546,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
 | Color Space | 133735 | [133735-color-space.json](./133735-color-space.json) |
 | Color Space Fever | 385233 | [385233-color-space-fever.json](./385233-color-space-fever.json) |
+| Color Space Invaders | 73905 | [73905-color-space-invaders.json](./73905-color-space-invaders.json) |
 | Color Spin | 96917 | [96917-color-spin.json](./96917-color-spin.json) |
 | Color Splash: Animals | 276677 | [276677-color-splash-animals.json](./276677-color-splash-animals.json) |
 | Color Splash: Birds | 264764 | [264764-color-splash-birds.json](./264764-color-splash-birds.json) |
