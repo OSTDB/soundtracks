@@ -8849,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Blobs | 22157 | [22157-rise-of-the-blobs.json](./22157-rise-of-the-blobs.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
 | Rise of the Cones: Planetary Defense | 383576 | [383576-rise-of-the-cones-planetary-defense.json](./383576-rise-of-the-cones-planetary-defense.json) |
+| Rise of the Dragon | 5428 | [5428-rise-of-the-dragon.json](./5428-rise-of-the-dragon.json) |
 | Rise of the Eternal | 288756 | [288756-rise-of-the-eternal.json](./288756-rise-of-the-eternal.json) |
 | Rise of The Fallen | 102574 | [102574-rise-of-the-fallen.json](./102574-rise-of-the-fallen.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
@@ -9807,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobloxTale: Noob Fight | 262220 | [262220-robloxtale-noob-fight.json](./262220-robloxtale-noob-fight.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
 | Robmembor | 332566 | [332566-robmembor.json](./332566-robmembor.json) |
+| Robo Aleste | 5430 | [5430-robo-aleste.json](./5430-robo-aleste.json) |
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Blaster | 270924 | [270924-robo-blaster.json](./270924-robo-blaster.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
@@ -11907,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms Hadou | 371351 | [371351-romance-of-the-three-kingdoms-hadou.json](./371351-romance-of-the-three-kingdoms-hadou.json) |
 | Romance of the Three Kingdoms II | 350627 | [350627-romance-of-the-three-kingdoms-ii.json](./350627-romance-of-the-three-kingdoms-ii.json) |
 | Romance of the Three Kingdoms II | 7026 | [7026-romance-of-the-three-kingdoms-ii.json](./7026-romance-of-the-three-kingdoms-ii.json) |
+| Romance of the Three Kingdoms III: Dragon of Destiny | 5431 | [5431-romance-of-the-three-kingdoms-iii-dragon-of-destiny.json](./5431-romance-of-the-three-kingdoms-iii-dragon-of-destiny.json) |
 | Romance of the Three Kingdoms IV with Power Up Kit | 91114 | [91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json](./91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 350298 | [350298-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./350298-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 350561 | [350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
