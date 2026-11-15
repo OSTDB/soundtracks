@@ -8406,6 +8406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graahl: Of Feather and Grit | 109549 | [109549-graahl-of-feather-and-grit.json](./109549-graahl-of-feather-and-grit.json) |
 | Graal Online | 59634 | [59634-graal-online.json](./59634-graal-online.json) |
 | Graal Online: Graal Kingdoms | 177651 | [177651-graal-online-graal-kingdoms.json](./177651-graal-online-graal-kingdoms.json) |
+| Graal Seeker | 57849 | [57849-graal-seeker.json](./57849-graal-seeker.json) |
 | GraalOnline Classic | 57224 | [57224-graalonline-classic.json](./57224-graalonline-classic.json) |
 | GraalOnline Classic+ | 38871 | [38871-graalonline-classic.json](./38871-graalonline-classic.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
@@ -11186,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
 | GT Cube | 3938 | [3938-gt-cube.json](./3938-gt-cube.json) |
 | GT Drift: Max Race Car | 108221 | [108221-gt-drift-max-race-car.json](./108221-gt-drift-max-race-car.json) |
+| GT Kai: All Japan Grand Touring Car Championship | 57817 | [57817-gt-kai-all-japan-grand-touring-car-championship.json](./57817-gt-kai-all-japan-grand-touring-car-championship.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT Manager | 283598 | [283598-gt-manager.json](./283598-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
