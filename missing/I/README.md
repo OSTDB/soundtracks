@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ike Ike! Sorena-chan! Shooting Star! | 151775 | [151775-ike-ike-sorena-chan-shooting-star.json](./151775-ike-ike-sorena-chan-shooting-star.json) |
 | Ike! Ike!! Hamster | 314210 | [314210-ike-ike-hamster.json](./314210-ike-ike-hamster.json) |
 | IKEA VR Experience | 33400 | [33400-ikea-vr-experience.json](./33400-ikea-vr-experience.json) |
+| IKEA VR Pancake Kitchen | 43982 | [43982-ikea-vr-pancake-kitchen.json](./43982-ikea-vr-pancake-kitchen.json) |
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
 | Ikeda: The Scrap Hunter E.P. | 120668 | [120668-ikeda-the-scrap-hunter-e-p.json](./120668-ikeda-the-scrap-hunter-e-p.json) |
 | Ikeelya | 379329 | [379329-ikeelya.json](./379329-ikeelya.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Grace of Our Malice | 292063 | [292063-in-the-grace-of-our-malice.json](./292063-in-the-grace-of-our-malice.json) |
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
+| In the Groove | 43609 | [43609-in-the-groove.json](./43609-in-the-groove.json) |
 | In the Groove 2 | 240539 | [240539-in-the-groove-2.json](./240539-in-the-groove-2.json) |
 | In the Groove 2 | 70591 | [70591-in-the-groove-2.json](./70591-in-the-groove-2.json) |
 | In the Hole | 195023 | [195023-in-the-hole.json](./195023-in-the-hole.json) |
@@ -4646,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D: Mountain Vengeance | 71854 | [71854-initial-d-mountain-vengeance.json](./71854-initial-d-mountain-vengeance.json) |
 | Initial D: Perfect Shift Online | 85193 | [85193-initial-d-perfect-shift-online.json](./85193-initial-d-perfect-shift-online.json) |
 | Initial D: Second Stage Typing Game | 62558 | [62558-initial-d-second-stage-typing-game.json](./62558-initial-d-second-stage-typing-game.json) |
+| Initial D: Special Stage | 43588 | [43588-initial-d-special-stage.json](./43588-initial-d-special-stage.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial D: Takahashi Ryosuke no Typing Saisoku Riron | 62557 | [62557-initial-d-takahashi-ryosuke-no-typing-saisoku-riron.json](./62557-initial-d-takahashi-ryosuke-no-typing-saisoku-riron.json) |
 | Initial D: The Arcade | 229408 | [229408-initial-d-the-arcade.json](./229408-initial-d-the-arcade.json) |
@@ -4890,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
 | Innocent Grape | 298399 | [298399-innocent-grape.json](./298399-innocent-grape.json) |
 | Innocent Life: A Futuristic Harvest Moon | 42852 | [42852-innocent-life-a-futuristic-harvest-moon.json](./42852-innocent-life-a-futuristic-harvest-moon.json) |
+| Innocent Life: A Futuristic Harvest Moon - Special Edition | 43595 | [43595-innocent-life-a-futuristic-harvest-moon-special-edition.json](./43595-innocent-life-a-futuristic-harvest-moon-special-edition.json) |
 | Innocent Passage | 187134 | [187134-innocent-passage.json](./187134-innocent-passage.json) |
 | Innocent Stuck-up Girls! | 251517 | [251517-innocent-stuck-up-girls.json](./251517-innocent-stuck-up-girls.json) |
 | Innocent Tears | 73742 | [73742-innocent-tears.json](./73742-innocent-tears.json) |
