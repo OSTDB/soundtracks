@@ -8137,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gor3 | 207475 | [207475-gor3.json](./207475-gor3.json) |
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
 | Goraku-Ou Tango! | 37506 | [37506-goraku-ou-tango.json](./37506-goraku-ou-tango.json) |
+| Goral: Highlander Simulator | 426967 | [426967-goral-highlander-simulator.json](./426967-goral-highlander-simulator.json) |
 | Gorasul: Legacy of the Dragon | 22053 | [22053-gorasul-legacy-of-the-dragon.json](./22053-gorasul-legacy-of-the-dragon.json) |
 | Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
 | Gorb | 29029 | [29029-gorb.json](./29029-gorb.json) |
@@ -9915,6 +9916,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greeded | 266606 | [266606-greeded.json](./266606-greeded.json) |
 | GreedFall: Gold Edition | 145989 | [145989-greedfall-gold-edition.json](./145989-greedfall-gold-edition.json) |
 | GreedFall: The De Vespe Conspiracy | 154771 | [154771-greedfall-the-de-vespe-conspiracy.json](./154771-greedfall-the-de-vespe-conspiracy.json) |
+| GreedFall: The Dying World - Gacane Pioneers Pack | 426965 | [426965-greedfall-the-dying-world-gacane-pioneers-pack.json](./426965-greedfall-the-dying-world-gacane-pioneers-pack.json) |
+| GreedFall: The Dying World - Peren's Black Mass Pack | 426964 | [426964-greedfall-the-dying-world-perens-black-mass-pack.json](./426964-greedfall-the-dying-world-perens-black-mass-pack.json) |
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
 | Greedland | 237194 | [237194-greedland.json](./237194-greedland.json) |
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
@@ -11962,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gum+ | 124590 | [124590-gum.json](./124590-gum.json) |
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
+| Gumball and the Shrink Ray | 426939 | [426939-gumball-and-the-shrink-ray.json](./426939-gumball-and-the-shrink-ray.json) |
 | Gumball Drift | 19058 | [19058-gumball-drift.json](./19058-gumball-drift.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumball in Trick-or-Treat Land | 373763 | [373763-gumball-in-trick-or-treat-land.json](./373763-gumball-in-trick-or-treat-land.json) |
