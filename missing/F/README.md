@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Survivors | 240654 | [240654-fantasy-survivors.json](./240654-fantasy-survivors.json) |
 | Fantasy Sword | 323691 | [323691-fantasy-sword.json](./323691-fantasy-sword.json) |
 | Fantasy Tactics | 334923 | [334923-fantasy-tactics.json](./334923-fantasy-tactics.json) |
+| Fantasy Tales Online | 33546 | [33546-fantasy-tales-online.json](./33546-fantasy-tales-online.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Sextet Vol. 2: Adventurer's Days | 144071 | [144071-fantasy-tavern-sextet-vol-2-adventurers-days.json](./144071-fantasy-tavern-sextet-vol-2-adventurers-days.json) |
 | Fantasy Tavern Sextet: Vol.1 New World Days | 143857 | [143857-fantasy-tavern-sextet-vol-1-new-world-days.json](./143857-fantasy-tavern-sextet-vol-1-new-world-days.json) |
