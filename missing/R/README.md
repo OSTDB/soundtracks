@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiis | 104856 | [104856-radiis.json](./104856-radiis.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
 | Radikal Bikers | 287905 | [287905-radikal-bikers.json](./287905-radikal-bikers.json) |
+| Radikal Bikers | 44801 | [44801-radikal-bikers.json](./44801-radikal-bikers.json) |
 | Radikal Fighters | 306758 | [306758-radikal-fighters.json](./306758-radikal-fighters.json) |
 | Radio Active | 73787 | [73787-radio-active.json](./73787-radio-active.json) |
 | Radio Ball 3D | 248407 | [248407-radio-ball-3d.json](./248407-radio-ball-3d.json) |
@@ -2816,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razor Freestyle Scooter | 249124 | [249124-razor-freestyle-scooter.json](./249124-razor-freestyle-scooter.json) |
 | Razor Freestyle Scooter | 3584 | [3584-razor-freestyle-scooter.json](./3584-razor-freestyle-scooter.json) |
 | Razor Global Domination Pro Tour | 62076 | [62076-razor-global-domination-pro-tour.json](./62076-razor-global-domination-pro-tour.json) |
+| Razor Racing | 44894 | [44894-razor-racing.json](./44894-razor-racing.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
 | Razor2: Hidden Skies | 14972 | [14972-razor2-hidden-skies.json](./14972-razor2-hidden-skies.json) |
@@ -2844,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
 | RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
+| RC Helicopter | 44895 | [44895-rc-helicopter.json](./44895-rc-helicopter.json) |
 | RC Helicopter 3D simulator | 88535 | [88535-rc-helicopter-3d-simulator.json](./88535-rc-helicopter-3d-simulator.json) |
 | RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
 | RC Match 3 | 240648 | [240648-rc-match-3.json](./240648-rc-match-3.json) |
@@ -4197,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Arrows | 13749 | [13749-red-arrows.json](./13749-red-arrows.json) |
 | Red Ash | 60043 | [60043-red-ash.json](./60043-red-ash.json) |
 | Red Ash: The Indelible Legend | 15708 | [15708-red-ash-the-indelible-legend.json](./15708-red-ash-the-indelible-legend.json) |
+| Red Asphalt | 44896 | [44896-red-asphalt.json](./44896-red-asphalt.json) |
 | Red Awe | 375584 | [375584-red-awe.json](./375584-red-awe.json) |
 | Red Babe | 93342 | [93342-red-babe.json](./93342-red-babe.json) |
 | Red Balaclava Weaving Loom | 130645 | [130645-red-balaclava-weaving-loom.json](./130645-red-balaclava-weaving-loom.json) |
@@ -10272,6 +10276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock - A True Story | 70852 | [70852-rock-a-true-story.json](./70852-rock-a-true-story.json) |
 | Rock 'em Sock 'em Fish | 209099 | [209099-rock-em-sock-em-fish.json](./209099-rock-em-sock-em-fish.json) |
 | Rock 'Em Sock 'Em Robots | 146679 | [146679-rock-em-sock-em-robots.json](./146679-rock-em-sock-em-robots.json) |
+| Rock 'em Sock 'em Robots Arena | 44898 | [44898-rock-em-sock-em-robots-arena.json](./44898-rock-em-sock-em-robots-arena.json) |
 | Rock 'N Racing Bundle 3 in 1 | 147689 | [147689-rock-n-racing-bundle-3-in-1.json](./147689-rock-n-racing-bundle-3-in-1.json) |
 | Rock 'N Racing Bundle Grand Prix & Rally | 147793 | [147793-rock-n-racing-bundle-grand-prix-and-rally.json](./147793-rock-n-racing-bundle-grand-prix-and-rally.json) |
 | Rock 'N Racing Bundle Off Road & Grand Prix | 147797 | [147797-rock-n-racing-bundle-off-road-and-grand-prix.json](./147797-rock-n-racing-bundle-off-road-and-grand-prix.json) |
@@ -12400,6 +12405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosario + Vampire Capu 2: The Rhapsody of Love and Dreams | 68398 | [68398-rosario-vampire-capu-2-the-rhapsody-of-love-and-dreams.json](./68398-rosario-vampire-capu-2-the-rhapsody-of-love-and-dreams.json) |
 | Rosario + Vampire: Tanabata no Miss Yokai Gakuen | 58727 | [58727-rosario-vampire-tanabata-no-miss-yokai-gakuen.json](./58727-rosario-vampire-tanabata-no-miss-yokai-gakuen.json) |
 | Rosas are Red | 280777 | [280777-rosas-are-red.json](./280777-rosas-are-red.json) |
+| Rosco McQueen: Firefighter Extreme | 44899 | [44899-rosco-mcqueen-firefighter-extreme.json](./44899-rosco-mcqueen-firefighter-extreme.json) |
 | Roscosmas Landing | 162080 | [162080-roscosmas-landing.json](./162080-roscosmas-landing.json) |
 | Rose | 236374 | [236374-rose.json](./236374-rose.json) |
 | Rose | 275122 | [275122-rose.json](./275122-rose.json) |
@@ -13840,6 +13846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa in Nightmare House | 406433 | [406433-runa-in-nightmare-house.json](./406433-runa-in-nightmare-house.json) |
 | Runa's Date | 117997 | [117997-runas-date.json](./117997-runas-date.json) |
 | Runa's School Story | 114066 | [114066-runas-school-story.json](./114066-runas-school-story.json) |
+| Runabout 2 | 44900 | [44900-runabout-2.json](./44900-runabout-2.json) |
 | Runabout 3D: Drive Impossible | 64850 | [64850-runabout-3d-drive-impossible.json](./64850-runabout-3d-drive-impossible.json) |
 | Runai | 368613 | [368613-runai.json](./368613-runai.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
