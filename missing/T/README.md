@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taigenchi: The Eternal Eclipse | 177926 | [177926-taigenchi-the-eternal-eclipse.json](./177926-taigenchi-the-eternal-eclipse.json) |
 | Tàigǔ Qíngyuán zhī Qīngyún Jiànxiá Chuánqí | 161897 | [161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json](./161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json) |
 | Taiheiki | 184472 | [184472-taiheiki.json](./184472-taiheiki.json) |
+| Taiheiki | 4397 | [4397-taiheiki.json](./4397-taiheiki.json) |
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
 | Taiheiyou no Arashi: Senkan Yamato, Akatsuki ni Shutsugeki su! | 241437 | [241437-taiheiyou-no-arashi-senkan-yamato-akatsuki-ni-shutsugeki-su.json](./241437-taiheiyou-no-arashi-senkan-yamato-akatsuki-ni-shutsugeki-su.json) |
 | Taiheiyou no Arashi: Shijou Saidai no Gekisen Normandy Koubousen | 147317 | [147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json](./147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json) |
@@ -3593,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Super Bowl | 16595 | [16595-tecmo-super-bowl.json](./16595-tecmo-super-bowl.json) |
 | Tecmo Super Bowl | 217714 | [217714-tecmo-super-bowl.json](./217714-tecmo-super-bowl.json) |
 | Tecmo Super Bowl | 237471 | [237471-tecmo-super-bowl.json](./237471-tecmo-super-bowl.json) |
+| Tecmo Super Bowl | 4396 | [4396-tecmo-super-bowl.json](./4396-tecmo-super-bowl.json) |
 | Tecmo Super Bowl | 80373 | [80373-tecmo-super-bowl.json](./80373-tecmo-super-bowl.json) |
 | Tecmo Super Bowl 2015 | 48896 | [48896-tecmo-super-bowl-2015.json](./48896-tecmo-super-bowl-2015.json) |
 | Tecmo Super Bowl 2016 | 48899 | [48899-tecmo-super-bowl-2016.json](./48899-tecmo-super-bowl-2016.json) |
@@ -11082,6 +11084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gardener and the Wild Vines | 141524 | [141524-the-gardener-and-the-wild-vines.json](./141524-the-gardener-and-the-wild-vines.json) |
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
 | The Gardens Between | 27324 | [27324-the-gardens-between.json](./27324-the-gardens-between.json) |
+| The Garfield Show: Threat of the Space Lasagna | 4883 | [4883-the-garfield-show-threat-of-the-space-lasagna.json](./4883-the-garfield-show-threat-of-the-space-lasagna.json) |
 | The Garry Story | 378708 | [378708-the-garry-story.json](./378708-the-garry-story.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gassal | 425882 | [425882-the-gassal.json](./425882-the-gassal.json) |
@@ -13047,6 +13050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters-A 2012 | 38737 | [38737-the-king-of-fighters-a-2012.json](./38737-the-king-of-fighters-a-2012.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
 | The King of Fighters: Dream Match 1999 | 45861 | [45861-the-king-of-fighters-dream-match-1999.json](./45861-the-king-of-fighters-dream-match-1999.json) |
+| The King of Fighters: Evolution | 4361 | [4361-the-king-of-fighters-evolution.json](./4361-the-king-of-fighters-evolution.json) |
 | The King of Fighters: Heat of Battle | 191476 | [191476-the-king-of-fighters-heat-of-battle.json](./191476-the-king-of-fighters-heat-of-battle.json) |
 | The King of Fighters: Kyo | 43841 | [43841-the-king-of-fighters-kyo.json](./43841-the-king-of-fighters-kyo.json) |
 | The King of Fighters: Maximum Impact | 5897 | [5897-the-king-of-fighters-maximum-impact.json](./5897-the-king-of-fighters-maximum-impact.json) |
@@ -27648,6 +27652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Xanadu | 11455 | [11455-tokyo-xanadu.json](./11455-tokyo-xanadu.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
 | Tokyo Xanadu eX+: Limited Edition | 89846 | [89846-tokyo-xanadu-ex-limited-edition.json](./89846-tokyo-xanadu-ex-limited-edition.json) |
+| Tokyo Xtreme Racer 2 | 4359 | [4359-tokyo-xtreme-racer-2.json](./4359-tokyo-xtreme-racer-2.json) |
 | Tokyo Xtreme Racer 3 | 24184 | [24184-tokyo-xtreme-racer-3.json](./24184-tokyo-xtreme-racer-3.json) |
 | Tokyo Xtreme Racer Advance | 49341 | [49341-tokyo-xtreme-racer-advance.json](./49341-tokyo-xtreme-racer-advance.json) |
 | Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
@@ -28271,6 +28276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tongits ZingPlay: Card Game | 357183 | [357183-tongits-zingplay-card-game.json](./357183-tongits-zingplay-card-game.json) |
 | TongTong | 340026 | [340026-tongtong.json](./340026-tongtong.json) |
 | Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
+| Tongue of the Fatman | 4378 | [4378-tongue-of-the-fatman.json](./4378-tongue-of-the-fatman.json) |
 | Tongue Tale | 263736 | [263736-tongue-tale.json](./263736-tongue-tale.json) |
 | Tongueman's Logic | 311704 | [311704-tonguemans-logic.json](./311704-tonguemans-logic.json) |
 | Tongzhuo! Wo Xihuan Ni | 403640 | [403640-tongzhuo-wo-xihuan-ni.json](./403640-tongzhuo-wo-xihuan-ni.json) |
