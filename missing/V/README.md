@@ -4783,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcan: The Tunisian Campaign | 72473 | [72473-vulcan-the-tunisian-campaign.json](./72473-vulcan-the-tunisian-campaign.json) |
 | Vulcanology: The MiniSeries Collection | 70165 | [70165-vulcanology-the-miniseries-collection.json](./70165-vulcanology-the-miniseries-collection.json) |
 | Vulcanus | 91843 | [91843-vulcanus.json](./91843-vulcanus.json) |
+| Vulcanus Seek and Destroy | 42689 | [42689-vulcanus-seek-and-destroy.json](./42689-vulcanus-seek-and-destroy.json) |
 | VulcanVerse | 153619 | [153619-vulcanverse.json](./153619-vulcanverse.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
 | Vulgaria | 207471 | [207471-vulgaria.json](./207471-vulgaria.json) |
