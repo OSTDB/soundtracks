@@ -11405,7 +11405,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
 | Horror Inside the Forest | 266441 | [266441-horror-inside-the-forest.json](./266441-horror-inside-the-forest.json) |
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
-| Horror Legends | 111603 | [111603-horror-legends.json](./111603-horror-legends.json) |
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
 | Horror Manor | 321955 | [321955-horror-manor.json](./321955-horror-manor.json) |
 | Horror Maze | 172996 | [172996-horror-maze.json](./172996-horror-maze.json) |
