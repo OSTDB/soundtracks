@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Claw Party | 405542 | [405542-rabbit-claw-party.json](./405542-rabbit-claw-party.json) |
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
 | Rabbit Evolution Merge | 348420 | [348420-rabbit-evolution-merge.json](./348420-rabbit-evolution-merge.json) |
+| Rabbit Hill | 75250 | [75250-rabbit-hill.json](./75250-rabbit-hill.json) |
 | Rabbit Hole | 151060 | [151060-rabbit-hole.json](./151060-rabbit-hole.json) |
 | Rabbit Hole | 278955 | [278955-rabbit-hole.json](./278955-rabbit-hole.json) |
 | Rabbit Hole | 289347 | [289347-rabbit-hole.json](./289347-rabbit-hole.json) |
@@ -7815,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
 | Ribbon Racer | 110664 | [110664-ribbon-racer.json](./110664-ribbon-racer.json) |
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
+| RibbonChase | 75262 | [75262-ribbonchase.json](./75262-ribbonchase.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Ribby: The Game | 181439 | [181439-ribby-the-game.json](./181439-ribby-the-game.json) |
 | RiBeat! | 267698 | [267698-ribeat.json](./267698-ribeat.json) |
@@ -9121,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Party | 258478 | [258478-rival-party.json](./258478-rival-party.json) |
 | Rival Peak | 141364 | [141364-rival-peak.json](./141364-rival-peak.json) |
 | Rival Pirates | 218608 | [218608-rival-pirates.json](./218608-rival-pirates.json) |
+| Rival Rampage | 75278 | [75278-rival-rampage.json](./75278-rival-rampage.json) |
 | Rival Realms | 70472 | [70472-rival-realms.json](./70472-rival-realms.json) |
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
@@ -11124,7 +11127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Fantasy: Ever-Shifting Worlds | 400385 | [400385-rogue-fantasy-ever-shifting-worlds.json](./400385-rogue-fantasy-ever-shifting-worlds.json) |
 | Rogue Fighter | 32100 | [32100-rogue-fighter.json](./32100-rogue-fighter.json) |
 | Rogue Fist | 291267 | [291267-rogue-fist.json](./291267-rogue-fist.json) |
-| Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Fortune | 415285 | [415285-rogue-fortune.json](./415285-rogue-fortune.json) |
 | Rogue Frontiers | 130099 | [130099-rogue-frontiers.json](./130099-rogue-frontiers.json) |
 | Rogue Galaxy | 11292 | [11292-rogue-galaxy.json](./11292-rogue-galaxy.json) |
