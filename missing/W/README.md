@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warchasm | 126698 | [126698-warchasm.json](./126698-warchasm.json) |
 | Warcher Defenders | 268098 | [268098-warcher-defenders.json](./268098-warcher-defenders.json) |
 | Warchief | 140425 | [140425-warchief.json](./140425-warchief.json) |
+| Warco: The News Game | 65673 | [65673-warco-the-news-game.json](./65673-warco-the-news-game.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft 2000: Nuclear Epidemic | 233549 | [233549-warcraft-2000-nuclear-epidemic.json](./233549-warcraft-2000-nuclear-epidemic.json) |
 | Warcraft Adventures: Lord of the Clans | 11704 | [11704-warcraft-adventures-lord-of-the-clans.json](./11704-warcraft-adventures-lord-of-the-clans.json) |
