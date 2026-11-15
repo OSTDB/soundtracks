@@ -4876,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 14 | 240419 | [240419-fifa-14.json](./240419-fifa-14.json) |
 | FIFA 14 | 240421 | [240421-fifa-14.json](./240421-fifa-14.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
+| FIFA 14 - Ultimate Edition | 422003 | [422003-fifa-14-ultimate-edition.json](./422003-fifa-14-ultimate-edition.json) |
 | FIFA 14 Mobile | 240417 | [240417-fifa-14-mobile.json](./240417-fifa-14-mobile.json) |
 | FIFA 14: Legacy Edition | 240420 | [240420-fifa-14-legacy-edition.json](./240420-fifa-14-legacy-edition.json) |
 | FIFA 14: Legacy Edition | 44009 | [44009-fifa-14-legacy-edition.json](./44009-fifa-14-legacy-edition.json) |
@@ -13788,6 +13789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Hop | 30021 | [30021-frog-hop.json](./30021-frog-hop.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
+| Frog in the Pocket | 422215 | [422215-frog-in-the-pocket.json](./422215-frog-in-the-pocket.json) |
 | Frog In the Well | 221615 | [221615-frog-in-the-well.json](./221615-frog-in-the-well.json) |
 | Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
 | Frog Island | 246030 | [246030-frog-island.json](./246030-frog-island.json) |
