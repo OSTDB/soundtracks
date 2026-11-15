@@ -6479,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest House | 29696 | [29696-rest-house.json](./29696-rest-house.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest House III: Chlorophilia | 247146 | [247146-rest-house-iii-chlorophilia.json](./247146-rest-house-iii-chlorophilia.json) |
+| Rest in Jelly | 68174 | [68174-rest-in-jelly.json](./68174-rest-in-jelly.json) |
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
 | Rest In Peace | 174006 | [174006-rest-in-peace.json](./174006-rest-in-peace.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
@@ -10818,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockRobin | 57542 | [57542-rockrobin.json](./57542-rockrobin.json) |
 | Rocks 'n' Diamonds | 80290 | [80290-rocks-n-diamonds.json](./80290-rocks-n-diamonds.json) |
 | Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
+| Rocks and Rockets | 68196 | [68196-rocks-and-rockets.json](./68196-rocks-and-rockets.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocks Tools Hordes | 391009 | [391009-rocks-tools-hordes.json](./391009-rocks-tools-hordes.json) |
@@ -14139,6 +14141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
 | Runr End | 197538 | [197538-runr-end.json](./197538-runr-end.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
+| RunRunRun | 68177 | [68177-runrunrun.json](./68177-runrunrun.json) |
 | RunStickRun! | 343564 | [343564-runstickrun.json](./343564-runstickrun.json) |
 | Runt | 392177 | [392177-runt.json](./392177-runt.json) |
 | Runt of the Litter | 27586 | [27586-runt-of-the-litter.json](./27586-runt-of-the-litter.json) |
