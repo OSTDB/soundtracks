@@ -3743,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie.io Chill Bundle | 339064 | [339064-indie-io-chill-bundle.json](./339064-indie-io-chill-bundle.json) |
 | IndieAdventure | 181432 | [181432-indieadventure.json](./181432-indieadventure.json) |
 | Indiecalypse | 123802 | [123802-indiecalypse.json](./123802-indiecalypse.json) |
+| Indiemon Battlegrounds | 60697 | [60697-indiemon-battlegrounds.json](./60697-indiemon-battlegrounds.json) |
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
 | Indiemon VS Zombies | 60313 | [60313-indiemon-vs-zombies.json](./60313-indiemon-vs-zombies.json) |
 | Indiemon: Earth Nation | 63411 | [63411-indiemon-earth-nation.json](./63411-indiemon-earth-nation.json) |
