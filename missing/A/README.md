@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Palace | 293942 | [293942-abandoned-palace.json](./293942-abandoned-palace.json) |
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Places 2 | 11849 | [11849-abandoned-places-2.json](./11849-abandoned-places-2.json) |
+| Abandoned Places: A Time for Heroes | 2415 | [2415-abandoned-places-a-time-for-heroes.json](./2415-abandoned-places-a-time-for-heroes.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
 | Abandoned Snowy Castle | 118470 | [118470-abandoned-snowy-castle.json](./118470-abandoned-snowy-castle.json) |
 | Abandoned Souls | 249029 | [249029-abandoned-souls.json](./249029-abandoned-souls.json) |
@@ -7097,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
 | Al Unser Jr.'s Turbo Racing | 8809 | [8809-al-unser-jr-s-turbo-racing.json](./8809-al-unser-jr-s-turbo-racing.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
+| Al-Qadim: The Genie's Curse | 2418 | [2418-al-qadim-the-genies-curse.json](./2418-al-qadim-the-genies-curse.json) |
 | AL: A Choose Your Own Adventure | 179689 | [179689-al-a-choose-your-own-adventure.json](./179689-al-a-choose-your-own-adventure.json) |
 | AL: Artificial Life | 399066 | [399066-al-artificial-life.json](./399066-al-artificial-life.json) |
 | Al's Home | 94570 | [94570-als-home.json](./94570-als-home.json) |
@@ -7438,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
 | Aleryos | 411412 | [411412-aleryos.json](./411412-aleryos.json) |
 | Ales Dash | 102935 | [102935-ales-dash.json](./102935-ales-dash.json) |
+| Aleshar: The World of Ice | 2420 | [2420-aleshar-the-world-of-ice.json](./2420-aleshar-the-world-of-ice.json) |
 | Alessia's Dollhouse | 308044 | [308044-alessias-dollhouse.json](./308044-alessias-dollhouse.json) |
 | Aleste 2 | 41652 | [41652-aleste-2.json](./41652-aleste-2.json) |
 | Aleste Branch | 120663 | [120663-aleste-branch.json](./120663-aleste-branch.json) |
@@ -7922,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Fear | 52031 | [52031-alien-fear.json](./52031-alien-fear.json) |
 | Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
+| Alien Fires: 2199 AD | 2421 | [2421-alien-fires-2199-ad.json](./2421-alien-fires-2199-ad.json) |
 | Alien Fish Finger | 38858 | [38858-alien-fish-finger.json](./38858-alien-fish-finger.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
 | Alien Flex | 153148 | [153148-alien-flex.json](./153148-alien-flex.json) |
@@ -8000,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
 | Alien Life | 405105 | [405105-alien-life.json](./405105-alien-life.json) |
 | Alien Life Lab | 134716 | [134716-alien-life-lab.json](./134716-alien-life-lab.json) |
+| Alien Logic | 2422 | [2422-alien-logic.json](./2422-alien-logic.json) |
 | Alien Looter | 267270 | [267270-alien-looter.json](./267270-alien-looter.json) |
 | Alien Madness | 363161 | [363161-alien-madness.json](./363161-alien-madness.json) |
 | Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
@@ -9186,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternate DiMansion Diary | 115437 | [115437-alternate-dimansion-diary.json](./115437-alternate-dimansion-diary.json) |
 | Alternate Dimensions | 403483 | [403483-alternate-dimensions.json](./403483-alternate-dimensions.json) |
 | Alternate Existence | 393695 | [393695-alternate-existence.json](./393695-alternate-existence.json) |
+| Alternate Reality: The City | 2423 | [2423-alternate-reality-the-city.json](./2423-alternate-reality-the-city.json) |
 | Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
 | Alternate Tales of Ryukyu: Bonds of the Red Sakura Trees | 408706 | [408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json](./408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json) |
 | Alternate Universe | 193519 | [193519-alternate-universe.json](./193519-alternate-universe.json) |
@@ -9667,6 +9673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
+| Amberstar | 2424 | [2424-amberstar.json](./2424-amberstar.json) |
 | Ambidextro | 328138 | [328138-ambidextro.json](./328138-ambidextro.json) |
 | Ambidextrous Psychopath | 158834 | [158834-ambidextrous-psychopath.json](./158834-ambidextrous-psychopath.json) |
 | Ambien | 222596 | [222596-ambien.json](./222596-ambien.json) |
@@ -10280,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
 | Amulet Zero: Optimize | 107984 | [107984-amulet-zero-optimize.json](./107984-amulet-zero-optimize.json) |
+| Amulets & Armor | 2425 | [2425-amulets-and-armor.json](./2425-amulets-and-armor.json) |
 | Amusement Factory | 424010 | [424010-amusement-factory.json](./424010-amusement-factory.json) |
 | Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
 | Amusement Park | 377097 | [377097-amusement-park.json](./377097-amusement-park.json) |
@@ -12834,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
 | Antkeep | 249825 | [249825-antkeep.json](./249825-antkeep.json) |
+| AntKill | 2426 | [2426-antkill.json](./2426-antkill.json) |
 | Antlers | 395635 | [395635-antlers.json](./395635-antlers.json) |
 | Antlion Soccer | 290348 | [290348-antlion-soccer.json](./290348-antlion-soccer.json) |
 | Antlions Everywhere | 268034 | [268034-antlions-everywhere.json](./268034-antlions-everywhere.json) |
@@ -19935,6 +19944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
 | AutoCube | 190770 | [190770-autocube.json](./190770-autocube.json) |
 | AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
+| Autoduel | 2428 | [2428-autoduel.json](./2428-autoduel.json) |
 | Autoescuela Aprueba Conmigo | 86072 | [86072-autoescuela-aprueba-conmigo.json](./86072-autoescuela-aprueba-conmigo.json) |
 | Autoescuela Trainer | 269652 | [269652-autoescuela-trainer.json](./269652-autoescuela-trainer.json) |
 | Autofading Se Disparaître | 257429 | [257429-autofading-se-disparaitre.json](./257429-autofading-se-disparaitre.json) |
