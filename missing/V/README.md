@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VanBay: Mosh it Up | 268935 | [268935-vanbay-mosh-it-up.json](./268935-vanbay-mosh-it-up.json) |
 | Vancouver 2010 | 2709 | [2709-vancouver-2010.json](./2709-vancouver-2010.json) |
 | Vandaan | 249076 | [249076-vandaan.json](./249076-vandaan.json) |
+| Vandal Hearts | 5561 | [5561-vandal-hearts.json](./5561-vandal-hearts.json) |
 | Vandal Hearts II | 6543 | [6543-vandal-hearts-ii.json](./6543-vandal-hearts-ii.json) |
 | Vandal Hearts: Flames of Judgment | 53025 | [53025-vandal-hearts-flames-of-judgment.json](./53025-vandal-hearts-flames-of-judgment.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
