@@ -18697,6 +18697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Soccer | 176532 | [176532-bubble-soccer.json](./176532-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
 | Bubble Squad | 104136 | [104136-bubble-squad.json](./104136-bubble-squad.json) |
+| Bubble Stomp | 421635 | [421635-bubble-stomp.json](./421635-bubble-stomp.json) |
 | Bubble Strike | 106195 | [106195-bubble-strike.json](./106195-bubble-strike.json) |
 | Bubble Struggle | 199207 | [199207-bubble-struggle.json](./199207-bubble-struggle.json) |
 | Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
