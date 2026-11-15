@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat All the Things | 54724 | [54724-eat-all-the-things.json](./54724-eat-all-the-things.json) |
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
+| Eat Beat: Dead Spike-san | 58950 | [58950-eat-beat-dead-spike-san.json](./58950-eat-beat-dead-spike-san.json) |
 | Eat Colors | 190371 | [190371-eat-colors.json](./190371-eat-colors.json) |
 | Eat Fish 3D | 169716 | [169716-eat-fish-3d.json](./169716-eat-fish-3d.json) |
 | Eat Fish, Get Achievements | 214270 | [214270-eat-fish-get-achievements.json](./214270-eat-fish-get-achievements.json) |
@@ -7033,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrian Odyssey V: Beyond the Myth | 18224 | [18224-etrian-odyssey-v-beyond-the-myth.json](./18224-etrian-odyssey-v-beyond-the-myth.json) |
 | Etrom: 20th Anniversary Edition | 258054 | [258054-etrom-20th-anniversary-edition.json](./258054-etrom-20th-anniversary-edition.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
+| Etsuraku Massage-in Hitozuma Zecchou Netori: Sensei ni Momareru to Shikyuu ga Uzukun Desu | 58970 | [58970-etsuraku-massage-in-hitozuma-zecchou-netori-sensei-ni-momareru-to-shikyuu-ga-uzukun-desu.json](./58970-etsuraku-massage-in-hitozuma-zecchou-netori-sensei-ni-momareru-to-shikyuu-ga-uzukun-desu.json) |
 | Etsuraku no Gakuen | 280843 | [280843-etsuraku-no-gakuen.json](./280843-etsuraku-no-gakuen.json) |
 | Ettermag | 176364 | [176364-ettermag.json](./176364-ettermag.json) |
 | Etterna | 74732 | [74732-etterna.json](./74732-etterna.json) |
