@@ -5181,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Ration: Back to 19XX | 258321 | [258321-death-ration-back-to-19xx.json](./258321-death-ration-back-to-19xx.json) |
 | Death Rattle: Evil Onslaught | 215540 | [215540-death-rattle-evil-onslaught.json](./215540-death-rattle-evil-onslaught.json) |
 | Death Rattle: Hell Unleashed | 155391 | [155391-death-rattle-hell-unleashed.json](./155391-death-rattle-hell-unleashed.json) |
+| Death Ray Manta | 64589 | [64589-death-ray-manta.json](./64589-death-ray-manta.json) |
 | Death Realm | 154053 | [154053-death-realm.json](./154053-death-realm.json) |
 | Death Relives | 220010 | [220010-death-relives.json](./220010-death-relives.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
@@ -5980,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Scanner | 287778 | [287778-deep-scanner.json](./287778-deep-scanner.json) |
 | Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
 | Deep Sea | 257824 | [257824-deep-sea.json](./257824-deep-sea.json) |
+| Deep Sea | 64570 | [64570-deep-sea.json](./64570-deep-sea.json) |
 | Deep Sea Adventure: Kaitei Kyuu Panthalassa no Nazo | 341917 | [341917-deep-sea-adventure-kaitei-kyuu-panthalassa-no-nazo.json](./341917-deep-sea-adventure-kaitei-kyuu-panthalassa-no-nazo.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
 | Deep Sea Bubble Shooter: Reflex Challenge | 385862 | [385862-deep-sea-bubble-shooter-reflex-challenge.json](./385862-deep-sea-bubble-shooter-reflex-challenge.json) |
@@ -9490,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Thief | 371300 | [371300-diamond-thief.json](./371300-diamond-thief.json) |
 | Diamond Trail | 14032 | [14032-diamond-trail.json](./14032-diamond-trail.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
+| Diamond Twister | 64599 | [64599-diamond-twister.json](./64599-diamond-twister.json) |
 | Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
 | DiamondFalls | 68578 | [68578-diamondfalls.json](./68578-diamondfalls.json) |
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
@@ -20061,6 +20064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Bar: Gachi Puzzles | 272631 | [272631-dungeon-bar-gachi-puzzles.json](./272631-dungeon-bar-gachi-puzzles.json) |
 | Dungeon Beach | 309353 | [309353-dungeon-beach.json](./309353-dungeon-beach.json) |
 | Dungeon Betwixt | 410933 | [410933-dungeon-betwixt.json](./410933-dungeon-betwixt.json) |
+| Dungeon Blitz | 64586 | [64586-dungeon-blitz.json](./64586-dungeon-blitz.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
 | Dungeon Bodega Simulator | 364032 | [364032-dungeon-bodega-simulator.json](./364032-dungeon-bodega-simulator.json) |
