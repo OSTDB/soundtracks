@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,398" src="https://img.shields.io/badge/soundtracks-3%2C398-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,915" src="https://img.shields.io/badge/games-2%2C915-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 355,002" src="https://img.shields.io/badge/missing-355%2C002-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 355,891" src="https://img.shields.io/badge/missing-355%2C891-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rogue-flight"><img src="https://i.scdn.co/image/ab67616d0000b2731055a3c56f865adc60c7fae6" width="120" height="120" alt="" /></a><br /><sub><b>Rogue Flight</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sunderfolk"><img src="https://i.scdn.co/image/ab67616d0000b273e68bc292c6362491728a38bf" width="120" height="120" alt="" /></a><br /><sub><b>Sunderfolk</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/star-overdrive"><img src="https://i.scdn.co/image/ab67616d0000b2733467267eac2a18f68e3843b7" width="120" height="120" alt="" /></a><br /><sub><b>Star Overdrive</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tempopo"><img src="https://i.scdn.co/image/ab67616d0000b273b8ab483840df55b3714375b5" width="120" height="120" alt="" /></a><br /><sub><b>Tempopo</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/flint-treasure-of-oblivion"><img src="https://i.scdn.co/image/ab67616d0000b273545f92e1a6303af35ef0d869" width="120" height="120" alt="" /></a><br /><sub><b>Flint: Treasure of Oblivion</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/warhammer-40-000-mechanicus-ii"><img src="https://i.scdn.co/image/ab67616d0000b273a586d42957a18c6182591db9" width="120" height="120" alt="" /></a><br /><sub><b>Warhammer 40,000: Mechanicus II</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bonkies"><img src="https://i.scdn.co/image/ab67616d0000b273c65a10d1d9fda64c236fcf73" width="120" height="120" alt="" /></a><br /><sub><b>Bonkies</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/soundfall"><img src="https://i.scdn.co/image/ab67616d0000b2738b6f4455c3096c7e730b16f0" width="120" height="120" alt="" /></a><br /><sub><b>Soundfall</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/falcon-age"><img src="https://i.scdn.co/image/ab67616d0000b273334026d9479e28ff4ee3c3ee" width="120" height="120" alt="" /></a><br /><sub><b>Falcon Age</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/wintermoor-tactics-club"><img src="https://i.scdn.co/image/ab67616d0000b273f095dc8f4444358338c7434c" width="120" height="120" alt="" /></a><br /><sub><b>Wintermoor Tactics Club</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/initial-2-new-stage"><img src="https://i.scdn.co/image/ab67616d0000b273b52dd49e9e95c6237ad117a5" width="120" height="120" alt="" /></a><br /><sub><b>Initial 2: New Stage</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/how-to-date-a-magical-girl"><img src="https://i.scdn.co/image/ab67616d0000b273f9185f389ee646f1ea4aff62" width="120" height="120" alt="" /></a><br /><sub><b>How to Date a Magical Girl!</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/reignbreaker"><img src="https://i.scdn.co/image/ab67616d0000b27333672786a55937eaca7bfdb9" width="120" height="120" alt="" /></a><br /><sub><b>Reignbreaker</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/golden-lap"><img src="https://i.scdn.co/image/ab67616d0000b2737c74b7c755dab24a39b0d522" width="120" height="120" alt="" /></a><br /><sub><b>Golden Lap</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tides-of-tomorrow"><img src="https://i.scdn.co/image/ab67616d0000b273e9c8377e9b62f2f64a549870" width="120" height="120" alt="" /></a><br /><sub><b>Tides of Tomorrow</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/redacted"><img src="https://i.scdn.co/image/ab67616d0000b2733f3706697d184b3686f18006" width="120" height="120" alt="" /></a><br /><sub><b>[Redacted]</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/knights-in-tight-spaces"><img src="https://i.scdn.co/image/ab67616d0000b273e3bdb5e6797c46bd5c354c2e" width="120" height="120" alt="" /></a><br /><sub><b>Knights in Tight Spaces</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-lost-legends-of-redwall-the-scout-anthology"><img src="https://i.scdn.co/image/ab67616d0000b27308fbae713ab0639d96e4c4fa" width="120" height="120" alt="" /></a><br /><sub><b>The Lost Legends of Redwall: The Scout Anthology</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skin-deep"><img src="https://i.scdn.co/image/ab67616d0000b273823d00ae9e464655d1dd1fe5" width="120" height="120" alt="" /></a><br /><sub><b>Skin Deep</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/scp-blackout"><img src="https://i.scdn.co/image/ab67616d0000b2733b04e32bb91abe35c5ad1e83" width="120" height="120" alt="" /></a><br /><sub><b>SCP: Blackout</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/horror-legends"><img src="https://i.scdn.co/image/ab67616d0000b273f5543cf522465ef984ca10de" width="120" height="120" alt="" /></a><br /><sub><b>Horror Legends</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/kings-league-ii"><img src="https://i.scdn.co/image/ab67616d0000b2738a99d9c7bcf3af4e4e9517f4" width="120" height="120" alt="" /></a><br /><sub><b>King's League II</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/groundhog-day-like-father-like-son"><img src="https://i.scdn.co/image/ab67616d0000b27338d6088f8daa24552c86da08" width="120" height="120" alt="" /></a><br /><sub><b>Groundhog Day: Like Father Like Son</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/legal-dungeon"><img src="https://i.scdn.co/image/ab67616d0000b27338c8aa02cd7998bc9352a065" width="120" height="120" alt="" /></a><br /><sub><b>Legal Dungeon</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (355,002 games).
+More in **[missing/](missing/README.md)** (355,891 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,398 soundtracks &middot; last updated 2026-11-15T06:25:48.758Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,398 soundtracks &middot; last updated 2026-11-15T06:41:16.779Z</sub>
