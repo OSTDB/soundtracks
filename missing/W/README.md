@@ -6327,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Horizon | 57027 | [57027-wind-horizon.json](./57027-wind-horizon.json) |
 | Wind in the Willows | 145495 | [145495-wind-in-the-willows.json](./145495-wind-in-the-willows.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
+| Wind of Ebenbourg | 423942 | [423942-wind-of-ebenbourg.json](./423942-wind-of-ebenbourg.json) |
 | Wind of Life | 189866 | [189866-wind-of-life.json](./189866-wind-of-life.json) |
 | Wind of Luck: Arena | 61206 | [61206-wind-of-luck-arena.json](./61206-wind-of-luck-arena.json) |
 | Wind of Shuriken | 148606 | [148606-wind-of-shuriken.json](./148606-wind-of-shuriken.json) |
@@ -8800,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
 | Wordzy | 68415 | [68415-wordzy.json](./68415-wordzy.json) |
 | Worfy Games | 337933 | [337933-worfy-games.json](./337933-worfy-games.json) |
+| Worjong | 423847 | [423847-worjong.json](./423847-worjong.json) |
 | Work and Girls | 158808 | [158808-work-and-girls.json](./158808-work-and-girls.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
