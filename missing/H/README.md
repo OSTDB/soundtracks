@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Extended | 335820 | [335820-half-life-extended.json](./335820-half-life-extended.json) |
 | Half-Life: Field Intensity | 196731 | [196731-half-life-field-intensity.json](./196731-half-life-field-intensity.json) |
 | Half-Life: Game of the Year Edition | 383405 | [383405-half-life-game-of-the-year-edition.json](./383405-half-life-game-of-the-year-edition.json) |
+| Half-Life: Generation | 50095 | [50095-half-life-generation.json](./50095-half-life-generation.json) |
 | Half-Life: Hard Duty | 221802 | [221802-half-life-hard-duty.json](./221802-half-life-hard-duty.json) |
 | Half-Life: Hazardous Course 2 | 196733 | [196733-half-life-hazardous-course-2.json](./196733-half-life-hazardous-course-2.json) |
 | Half-Life: History of Kumertau | 320004 | [320004-half-life-history-of-kumertau.json](./320004-half-life-history-of-kumertau.json) |
@@ -1382,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanabira Ep1: When the Petals Fade Away | 387114 | [387114-hanabira-ep1-when-the-petals-fade-away.json](./387114-hanabira-ep1-when-the-petals-fade-away.json) |
 | Hanaby the Witch | 121289 | [121289-hanaby-the-witch.json](./121289-hanaby-the-witch.json) |
 | Hanaby's Summer Festival | 158815 | [158815-hanabys-summer-festival.json](./158815-hanabys-summer-festival.json) |
+| Hanachirasu | 50177 | [50177-hanachirasu.json](./50177-hanachirasu.json) |
 | Hanafuda | 425188 | [425188-hanafuda.json](./425188-hanafuda.json) |
 | Hanafuda Graffiti: KoiKoi Monogatari | 123292 | [123292-hanafuda-graffiti-koikoi-monogatari.json](./123292-hanafuda-graffiti-koikoi-monogatari.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
@@ -2011,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
 | HappyHazard | 319476 | [319476-happyhazard.json](./319476-happyhazard.json) |
 | HappyKids | 335234 | [335234-happykids.json](./335234-happykids.json) |
+| Happyland Adventures | 50094 | [50094-happyland-adventures.json](./50094-happyland-adventures.json) |
 | Happyland Adventures - Xmas Edition | 138841 | [138841-happyland-adventures-xmas-edition.json](./138841-happyland-adventures-xmas-edition.json) |
 | HappyPlayers | 201186 | [201186-happyplayers.json](./201186-happyplayers.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
@@ -2424,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
 | Harpoon Classic '97 | 94487 | [94487-harpoon-classic-97.json](./94487-harpoon-classic-97.json) |
+| Harpoon II | 50103 | [50103-harpoon-ii.json](./50103-harpoon-ii.json) |
 | Harpoon II: Admiral's Edition | 73780 | [73780-harpoon-ii-admirals-edition.json](./73780-harpoon-ii-admirals-edition.json) |
 | Harpoon III | 130798 | [130798-harpoon-iii.json](./130798-harpoon-iii.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
@@ -6752,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herobotix | 55204 | [55204-herobotix.json](./55204-herobotix.json) |
 | HeroBound: Spirit Champion | 60196 | [60196-herobound-spirit-champion.json](./60196-herobound-spirit-champion.json) |
 | HeroCade | 99516 | [99516-herocade.json](./99516-herocade.json) |
+| HeroClix Online | 50195 | [50195-heroclix-online.json](./50195-heroclix-online.json) |
 | HeroClix TabApp | 64098 | [64098-heroclix-tabapp.json](./64098-heroclix-tabapp.json) |
 | HeroClix TabApp ASM | 64099 | [64099-heroclix-tabapp-asm.json](./64099-heroclix-tabapp-asm.json) |
 | Herod's Lost Tomb | 10409 | [10409-herods-lost-tomb.json](./10409-herods-lost-tomb.json) |
@@ -8445,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higan: Eruthyll | 216031 | [216031-higan-eruthyll.json](./216031-higan-eruthyll.json) |
 | Higanbana | 122634 | [122634-higanbana.json](./122634-higanbana.json) |
 | Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
+| Higanbana | 49631 | [49631-higanbana.json](./49631-higanbana.json) |
 | Higanbana no Saku Yoru ni Extra Credit | 360279 | [360279-higanbana-no-saku-yoru-ni-extra-credit.json](./360279-higanbana-no-saku-yoru-ni-extra-credit.json) |
 | Higanbana no Saku Yoru ni: The First Night | 65719 | [65719-higanbana-no-saku-yoru-ni-the-first-night.json](./65719-higanbana-no-saku-yoru-ni-the-first-night.json) |
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
@@ -8919,6 +8925,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
 | Hikariblade RPG | 88038 | [88038-hikariblade-rpg.json](./88038-hikariblade-rpg.json) |
 | Hikaru Genji: Roller Panic | 41308 | [41308-hikaru-genji-roller-panic.json](./41308-hikaru-genji-roller-panic.json) |
+| Hikaru no Go | 49630 | [49630-hikaru-no-go.json](./49630-hikaru-no-go.json) |
+| Hikaru no Go 2 | 49629 | [49629-hikaru-no-go-2.json](./49629-hikaru-no-go-2.json) |
 | Hikaru no Go: Heian Gensou Ibunroku | 62377 | [62377-hikaru-no-go-heian-gensou-ibunroku.json](./62377-hikaru-no-go-heian-gensou-ibunroku.json) |
 | Hikaru no Go: Insei Choujou Kessen | 62378 | [62378-hikaru-no-go-insei-choujou-kessen.json](./62378-hikaru-no-go-insei-choujou-kessen.json) |
 | Hikaru's Cube | 68202 | [68202-hikarus-cube.json](./68202-hikarus-cube.json) |
@@ -12919,6 +12927,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson 3D Golf | 97679 | [97679-hudson-3d-golf.json](./97679-hudson-3d-golf.json) |
 | Hudson Best Collection Vol. 1: Bomberman Collection | 49496 | [49496-hudson-best-collection-vol-1-bomberman-collection.json](./49496-hudson-best-collection-vol-1-bomberman-collection.json) |
 | Hudson Best Collection Vol. 2: Lode Runner Collection | 49495 | [49495-hudson-best-collection-vol-2-lode-runner-collection.json](./49495-hudson-best-collection-vol-2-lode-runner-collection.json) |
+| Hudson Best Collection Vol. 3: Action Collection | 49627 | [49627-hudson-best-collection-vol-3-action-collection.json](./49627-hudson-best-collection-vol-3-action-collection.json) |
+| Hudson Best Collection Vol. 4: Nazotoki Collection | 49626 | [49626-hudson-best-collection-vol-4-nazotoki-collection.json](./49626-hudson-best-collection-vol-4-nazotoki-collection.json) |
+| Hudson Best Collection Vol. 5: Shooting Collection | 49625 | [49625-hudson-best-collection-vol-5-shooting-collection.json](./49625-hudson-best-collection-vol-5-shooting-collection.json) |
+| Hudson Best Collection Vol. 6: Bouken-jima Collection | 49624 | [49624-hudson-best-collection-vol-6-bouken-jima-collection.json](./49624-hudson-best-collection-vol-6-bouken-jima-collection.json) |
 | Hudson Hawk | 18836 | [18836-hudson-hawk.json](./18836-hudson-hawk.json) |
 | Hudson Hawk | 365689 | [365689-hudson-hawk.json](./365689-hudson-hawk.json) |
 | Hudson Selection Vol. 1: Cubic Lode Runner | 77828 | [77828-hudson-selection-vol-1-cubic-lode-runner.json](./77828-hudson-selection-vol-1-cubic-lode-runner.json) |
@@ -13521,6 +13533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter X Hunter: Kindan no Hihou | 62309 | [62309-hunter-x-hunter-kindan-no-hihou.json](./62309-hunter-x-hunter-kindan-no-hihou.json) |
 | Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
 | Hunter X Hunter: Michikareshi Mono | 65358 | [65358-hunter-x-hunter-michikareshi-mono.json](./65358-hunter-x-hunter-michikareshi-mono.json) |
+| Hunter X Hunter: Minna Tomodachi Daisakusen!! | 49623 | [49623-hunter-x-hunter-minna-tomodachi-daisakusen.json](./49623-hunter-x-hunter-minna-tomodachi-daisakusen.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 1 Neferpitou | 412657 | [412657-hunter-x-hunter-nen-x-impact-additional-character-1-neferpitou.json](./412657-hunter-x-hunter-nen-x-impact-additional-character-1-neferpitou.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
