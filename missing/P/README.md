@@ -5776,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA European Tour | 176028 | [176028-pga-european-tour.json](./176028-pga-european-tour.json) |
 | PGA European Tour | 209984 | [209984-pga-european-tour.json](./209984-pga-european-tour.json) |
 | PGA European Tour Golf | 209983 | [209983-pga-european-tour-golf.json](./209983-pga-european-tour-golf.json) |
+| PGA Golf | 41429 | [41429-pga-golf.json](./41429-pga-golf.json) |
 | PGA Tour '98 | 43734 | [43734-pga-tour-98.json](./43734-pga-tour-98.json) |
 | PGA Tour 2K21 | 133939 | [133939-pga-tour-2k21.json](./133939-pga-tour-2k21.json) |
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
@@ -11188,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Cruise | 380789 | [380789-pleasure-cruise.json](./380789-pleasure-cruise.json) |
 | Pleasure Delving | 395748 | [395748-pleasure-delving.json](./395748-pleasure-delving.json) |
 | Pleasure Goal | 39950 | [39950-pleasure-goal.json](./39950-pleasure-goal.json) |
+| Pleasure Hearts | 41628 | [41628-pleasure-hearts.json](./41628-pleasure-hearts.json) |
 | Pleasure in Dream | 29986 | [29986-pleasure-in-dream.json](./29986-pleasure-in-dream.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
 | Pleasure Party | 206318 | [206318-pleasure-party.json](./206318-pleasure-party.json) |
