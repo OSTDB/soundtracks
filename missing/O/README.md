@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office After Hours | 319730 | [319730-office-after-hours.json](./319730-office-after-hours.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Assistant | 359351 | [359351-office-assistant.json](./359351-office-assistant.json) |
+| Office Battle | 34645 | [34645-office-battle.json](./34645-office-battle.json) |
 | Office Bot Simulator | 345256 | [345256-office-bot-simulator.json](./345256-office-bot-simulator.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Chair Curling | 321220 | [321220-office-chair-curling.json](./321220-office-chair-curling.json) |
