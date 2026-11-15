@@ -7704,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Donut | 185423 | [185423-not-a-donut.json](./185423-not-a-donut.json) |
 | Not a Dream Job | 365041 | [365041-not-a-dream-job.json](./365041-not-a-dream-job.json) |
+| Not a Drill | 421630 | [421630-not-a-drill.json](./421630-not-a-drill.json) |
 | Not A Drone | 424536 | [424536-not-a-drone.json](./424536-not-a-drone.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
 | Not a Happy Family | 143342 | [143342-not-a-happy-family.json](./143342-not-a-happy-family.json) |
