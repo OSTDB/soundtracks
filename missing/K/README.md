@@ -5465,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobito Game Taizen | 416095 | [416095-kobito-game-taizen.json](./416095-kobito-game-taizen.json) |
 | Kobito-zukan: Kobito Kansatsu Set | 299548 | [299548-kobito-zukan-kobito-kansatsu-set.json](./299548-kobito-zukan-kobito-kansatsu-set.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
+| Kobo Deluxe | 50792 | [50792-kobo-deluxe.json](./50792-kobo-deluxe.json) |
 | Kobo Redux | 182651 | [182651-kobo-redux.json](./182651-kobo-redux.json) |
 | Kobold Adventure | 135553 | [135553-kobold-adventure.json](./135553-kobold-adventure.json) |
 | Kobold Castle | 258798 | [258798-kobold-castle.json](./258798-kobold-castle.json) |
