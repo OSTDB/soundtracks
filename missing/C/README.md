@@ -17868,6 +17868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CR Ring: Noroi no 7-Kakan | 61492 | [61492-cr-ring-noroi-no-7-kakan.json](./61492-cr-ring-noroi-no-7-kakan.json) |
 | CR Ring: Unmei no Hi | 60807 | [60807-cr-ring-unmei-no-hi.json](./60807-cr-ring-unmei-no-hi.json) |
 | CR Shinseiki Evangelion: Shito, Futatabi | 78729 | [78729-cr-shinseiki-evangelion-shito-futatabi.json](./78729-cr-shinseiki-evangelion-shito-futatabi.json) |
+| CR Tekken | 62364 | [62364-cr-tekken.json](./62364-cr-tekken.json) |
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
 | Cr33p | 354139 | [354139-cr33p.json](./354139-cr33p.json) |
 | Cr4ckr | 339332 | [339332-cr4ckr.json](./339332-cr4ckr.json) |
