@@ -3702,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Last Crusade | 114760 | [114760-indiana-jones-and-the-last-crusade.json](./114760-indiana-jones-and-the-last-crusade.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 185 | [185-indiana-jones-and-the-last-crusade-the-action-game.json](./185-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 307079 | [307079-indiana-jones-and-the-last-crusade-the-action-game.json](./307079-indiana-jones-and-the-last-crusade-the-action-game.json) |
+| Indiana Jones and the Last Crusade: The Graphic Adventure | 186 | [186-indiana-jones-and-the-last-crusade-the-graphic-adventure.json](./186-indiana-jones-and-the-last-crusade-the-graphic-adventure.json) |
 | Indiana Jones and the Lost Puzzles | 61042 | [61042-indiana-jones-and-the-lost-puzzles.json](./61042-indiana-jones-and-the-lost-puzzles.json) |
 | Indiana Jones and the Passage of Saints | 395733 | [395733-indiana-jones-and-the-passage-of-saints.json](./395733-indiana-jones-and-the-passage-of-saints.json) |
 | Indiana Jones and The Relic of the Viking | 321096 | [321096-indiana-jones-and-the-relic-of-the-viking.json](./321096-indiana-jones-and-the-relic-of-the-viking.json) |
