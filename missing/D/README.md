@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Webhallen Edition | 42996 | [42996-dark-souls-ii-webhallen-edition.json](./42996-dark-souls-ii-webhallen-edition.json) |
 | Dark Souls III: Ashes of Ariandel | 23158 | [23158-dark-souls-iii-ashes-of-ariandel.json](./23158-dark-souls-iii-ashes-of-ariandel.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
+| Dark Souls III: Collector's Edition | 42941 | [42941-dark-souls-iii-collectors-edition.json](./42941-dark-souls-iii-collectors-edition.json) |
 | Dark Souls III: Day One Edition | 89841 | [89841-dark-souls-iii-day-one-edition.json](./89841-dark-souls-iii-day-one-edition.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
@@ -11167,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Rally 2.0: Wales (Rally Location) | 166338 | [166338-dirt-rally-2-0-wales-rally-location.json](./166338-dirt-rally-2-0-wales-rally-location.json) |
 | Dirt Rally 2.0: Yas Marina Circuit, Abu Dhabi (Rallycross Track) | 166341 | [166341-dirt-rally-2-0-yas-marina-circuit-abu-dhabi-rallycross-track.json](./166341-dirt-rally-2-0-yas-marina-circuit-abu-dhabi-rallycross-track.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
+| Dirt Rally: Legend Edition | 42953 | [42953-dirt-rally-legend-edition.json](./42953-dirt-rally-legend-edition.json) |
 | DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
 | Dirt Showdown | 7966 | [7966-dirt-showdown.json](./7966-dirt-showdown.json) |
@@ -16559,6 +16561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse - Time Travel Edition | 118894 | [118894-dragon-ball-xenoverse-time-travel-edition.json](./118894-dragon-ball-xenoverse-time-travel-edition.json) |
 | Dragon Ball: Xenoverse + GT Pack 1 Bundle | 99784 | [99784-dragon-ball-xenoverse-gt-pack-1-bundle.json](./99784-dragon-ball-xenoverse-gt-pack-1-bundle.json) |
 | Dragon Ball: Xenoverse 2 | 19449 | [19449-dragon-ball-xenoverse-2.json](./19449-dragon-ball-xenoverse-2.json) |
+| Dragon Ball: Xenoverse 2 - Collector's Edition | 42934 | [42934-dragon-ball-xenoverse-2-collectors-edition.json](./42934-dragon-ball-xenoverse-2-collectors-edition.json) |
 | Dragon Ball: Xenoverse 2 - Conton City Vote Pack | 223592 | [223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json](./223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json) |
 | Dragon Ball: Xenoverse 2 - Day One Edition | 362979 | [362979-dragon-ball-xenoverse-2-day-one-edition.json](./362979-dragon-ball-xenoverse-2-day-one-edition.json) |
 | Dragon Ball: Xenoverse 2 - Deluxe Edition | 52947 | [52947-dragon-ball-xenoverse-2-deluxe-edition.json](./52947-dragon-ball-xenoverse-2-deluxe-edition.json) |
