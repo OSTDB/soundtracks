@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T01:52:09.092Z",
-  "total_soundtracks": 3378,
+  "generated_at": "2026-11-15T02:26:16.654Z",
+  "total_soundtracks": 3381,
   "games": [
     {
       "igdb_id": 292844,
@@ -35301,6 +35301,20 @@
       ]
     },
     {
+      "igdb_id": 117710,
+      "game_name": "Tank Maniacs",
+      "game_url": "https://ostdb.net/games/tank-maniacs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a8beb12b5512fda8b16cd8d6",
+      "albums": [
+        {
+          "album_name": "Tank Maniacs Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2aFdXzthXcfhjUS8p3FxVB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 121481,
       "game_name": "Tasomachi: Behind the Twilight",
       "game_url": "https://ostdb.net/games/tasomachi-behind-the-twilight",
@@ -37357,6 +37371,20 @@
         {
           "album_name": "The Lightbringer (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2xu4mWuKmsPpx8REEcBCL8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117351,
+      "game_name": "The Long Return",
+      "game_url": "https://ostdb.net/games/the-long-return",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ff48dd91c0d6cfd6d09231d7",
+      "albums": [
+        {
+          "album_name": "The Long Return (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5mgueXtRu8PGOrEeQTD5Eh",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -42023,6 +42051,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/%E9%A2%A8%E8%B5%B7%E4%B9%8B%E6%99%82-%E7%87%95%E9%9B%B2%E5%8D%81%E5%85%AD%E8%81%B2-%E9%81%8A%E6%88%B2%E5%8E%9F%E8%81%B2%E9%9F%B3%E6%A8%82%E8%BC%AF-%E6%B8%85%E6%B2%B3%E5%8D%B7/1849127993?uo=4",
           "album_link_url": "https://album.link/i/1849127993"
+        }
+      ]
+    },
+    {
+      "igdb_id": 117311,
+      "game_name": "Whipseey and the Lost Atlas",
+      "game_url": "https://ostdb.net/games/whipseey-and-the-lost-atlas",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273159b4969dd11d5d7152f2bb9",
+      "albums": [
+        {
+          "album_name": "Whipseey and the Lost Atlas (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7udXWw7aG6Es4scVjfuBJi",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
