@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SC Triple Cat Games Bundle | 333689 | [333689-sc-triple-cat-games-bundle.json](./333689-sc-triple-cat-games-bundle.json) |
 | SC2VN: The eSports Visual Novel | 19076 | [19076-sc2vn-the-esports-visual-novel.json](./19076-sc2vn-the-esports-visual-novel.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
+| Scacco Matto | 56090 | [56090-scacco-matto.json](./56090-scacco-matto.json) |
 | SCAD | 309936 | [309936-scad.json](./309936-scad.json) |
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
 | Scaffold Now | 364811 | [364811-scaffold-now.json](./364811-scaffold-now.json) |
@@ -8288,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes! Toddler Kids Games,Baby Boys Learning Free | 86806 | [86806-shapes-toddler-kids-games-baby-boys-learning-free.json](./86806-shapes-toddler-kids-games-baby-boys-learning-free.json) |
 | Shapes2 | 54478 | [54478-shapes2.json](./54478-shapes2.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
+| Shapes4 | 55429 | [55429-shapes4.json](./55429-shapes4.json) |
 | Shapes5 | 55682 | [55682-shapes5.json](./55682-shapes5.json) |
 | Shapes6 | 56621 | [56621-shapes6.json](./56621-shapes6.json) |
 | Shapes7 | 63743 | [63743-shapes7.json](./63743-shapes7.json) |
@@ -16087,6 +16089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
 | Smash Squad | 113959 | [113959-smash-squad.json](./113959-smash-squad.json) |
 | Smash Star | 188158 | [188158-smash-star.json](./188158-smash-star.json) |
+| Smash Supreme | 56073 | [56073-smash-supreme.json](./56073-smash-supreme.json) |
 | Smash T.V. | 20504 | [20504-smash-t-v.json](./20504-smash-t-v.json) |
 | Smash T.V. | 218326 | [218326-smash-t-v.json](./218326-smash-t-v.json) |
 | Smash T.V. | 218749 | [218749-smash-t-v.json](./218749-smash-t-v.json) |
@@ -17055,6 +17058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper: Path of Vengeance | 26889 | [26889-sniper-path-of-vengeance.json](./26889-sniper-path-of-vengeance.json) |
 | Sniperbot: The Hype Game | 291954 | [291954-sniperbot-the-hype-game.json](./291954-sniperbot-the-hype-game.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
+| Snipers vs Thieves | 56072 | [56072-snipers-vs-thieves.json](./56072-snipers-vs-thieves.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | Snipers: Invisible, Silent, Deadly | 83883 | [83883-snipers-invisible-silent-deadly.json](./83883-snipers-invisible-silent-deadly.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
@@ -34491,6 +34495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Demon Survivors | 210984 | [210984-super-demon-survivors.json](./210984-super-demon-survivors.json) |
 | Super Depressed Bro... | 223087 | [223087-super-depressed-bro.json](./223087-super-depressed-bro.json) |
 | Super Depth | 239567 | [239567-super-depth.json](./239567-super-depth.json) |
+| Super Derby | 56092 | [56092-super-derby.json](./56092-super-derby.json) |
 | Super Destronaut | 31859 | [31859-super-destronaut.json](./31859-super-destronaut.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
