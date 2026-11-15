@@ -8389,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Driver: Truck Parking Simulator | 317901 | [317901-big-city-driver-truck-parking-simulator.json](./317901-big-city-driver-truck-parking-simulator.json) |
 | Big City Rigs: Bus Driver | 25456 | [25456-big-city-rigs-bus-driver.json](./25456-big-city-rigs-bus-driver.json) |
 | Big City Rigs: Garbage Truck | 52462 | [52462-big-city-rigs-garbage-truck.json](./52462-big-city-rigs-garbage-truck.json) |
+| Big City Stories | 24524 | [24524-big-city-stories.json](./24524-big-city-stories.json) |
 | Big Cock Simulator | 156194 | [156194-big-cock-simulator.json](./156194-big-cock-simulator.json) |
 | Big Company: Skytopia | 105526 | [105526-big-company-skytopia.json](./105526-big-company-skytopia.json) |
 | Big Craft Exploration 2 | 105839 | [105839-big-craft-exploration-2.json](./105839-big-craft-exploration-2.json) |
@@ -16093,6 +16094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxxyQuest: The Gathering Storm | 143929 | [143929-boxxyquest-the-gathering-storm.json](./143929-boxxyquest-the-gathering-storm.json) |
 | Boxy & Prisma | 226083 | [226083-boxy-and-prisma.json](./226083-boxy-and-prisma.json) |
 | Boxy Boy | 277524 | [277524-boxy-boy.json](./277524-boxy-boy.json) |
+| Boxy Kingdom | 24536 | [24536-boxy-kingdom.json](./24536-boxy-kingdom.json) |
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxyboy | 94912 | [94912-boxyboy.json](./94912-boxyboy.json) |
 | Boxzle | 85006 | [85006-boxzle.json](./85006-boxzle.json) |
