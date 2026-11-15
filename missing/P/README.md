@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Attack - Devil's Favorite | 66161 | [66161-panic-attack-devils-favorite.json](./66161-panic-attack-devils-favorite.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Bomber | 198029 | [198029-panic-bomber.json](./198029-panic-bomber.json) |
+| Panic Bomber | 20388 | [20388-panic-bomber.json](./20388-panic-bomber.json) |
 | Panic Bomber Original | 198030 | [198030-panic-bomber-original.json](./198030-panic-bomber-original.json) |
 | Panic Button | 71230 | [71230-panic-button.json](./71230-panic-button.json) |
 | Panic Cell | 335750 | [335750-panic-cell.json](./335750-panic-cell.json) |
