@@ -16367,6 +16367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coppy Tour | 369693 | [369693-coppy-tour.json](./369693-coppy-tour.json) |
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops | 321871 | [321871-cops.json](./321871-cops.json) |
+| Cops 'N Robbers | 40278 | [40278-cops-n-robbers.json](./40278-cops-n-robbers.json) |
 | Cops 'n' Robbers | 95488 | [95488-cops-n-robbers.json](./95488-cops-n-robbers.json) |
 | Cops & Robbers Jailbreak | 175865 | [175865-cops-and-robbers-jailbreak.json](./175865-cops-and-robbers-jailbreak.json) |
 | Cops 2170: The Power of Law | 201607 | [201607-cops-2170-the-power-of-law.json](./201607-cops-2170-the-power-of-law.json) |
@@ -18025,6 +18026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracks In Hell | 231172 | [231172-cracks-in-hell.json](./231172-cracks-in-hell.json) |
 | Cracks Where the Light Gets In | 245795 | [245795-cracks-where-the-light-gets-in.json](./245795-cracks-where-the-light-gets-in.json) |
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
+| Crackshot | 40279 | [40279-crackshot.json](./40279-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
 | CrackSword | 397823 | [397823-cracksword.json](./397823-cracksword.json) |
 | Crackwell Unhinged | 69427 | [69427-crackwell-unhinged.json](./69427-crackwell-unhinged.json) |
