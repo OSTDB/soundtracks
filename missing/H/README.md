@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Escapes: Minnie Pets! | 245372 | [245372-hamster-escapes-minnie-pets.json](./245372-hamster-escapes-minnie-pets.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Game | 133734 | [133734-hamster-game.json](./133734-hamster-game.json) |
+| Hamster Games | 421622 | [421622-hamster-games.json](./421622-hamster-games.json) |
 | Hamster Heroes | 4902 | [4902-hamster-heroes.json](./4902-hamster-heroes.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Hustle | 367082 | [367082-hamster-hustle.json](./367082-hamster-hustle.json) |
@@ -5279,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helmet | 91702 | [91702-helmet.json](./91702-helmet.json) |
 | Helmet Head | 391662 | [391662-helmet-head.json](./391662-helmet-head.json) |
 | Helmet Heroes | 31383 | [31383-helmet-heroes.json](./31383-helmet-heroes.json) |
+| Helmet Heroes Reborn | 421538 | [421538-helmet-heroes-reborn.json](./421538-helmet-heroes-reborn.json) |
 | HelmetFire | 351265 | [351265-helmetfire.json](./351265-helmetfire.json) |
 | Helmetman | 238685 | [238685-helmetman.json](./238685-helmetman.json) |
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
@@ -5333,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Frankenstein | 96581 | [96581-helping-frankenstein.json](./96581-helping-frankenstein.json) |
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
+| Helping Your Boyfriend | 421544 | [421544-helping-your-boyfriend.json](./421544-helping-your-boyfriend.json) |
 | Helpless | 153031 | [153031-helpless.json](./153031-helpless.json) |
 | Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
 | Helrift | 373498 | [373498-helrift.json](./373498-helrift.json) |
@@ -9904,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu | 313283 | [313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json](./313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json) |
 | Hokuto no Ken: Shinpan no Sousousei Kengo Retsuden | 77991 | [77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json](./77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json) |
 | Hokuto no Ken: Violence Gekiga Adventure | 64195 | [64195-hokuto-no-ken-violence-gekiga-adventure.json](./64195-hokuto-no-ken-violence-gekiga-adventure.json) |
+| Hokutobu | 421624 | [421624-hokutobu.json](./421624-hokutobu.json) |
 | Hoky | 314692 | [314692-hoky.json](./314692-hoky.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Holbrook Hotel | 307364 | [307364-holbrook-hotel.json](./307364-holbrook-hotel.json) |
