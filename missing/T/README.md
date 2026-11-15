@@ -5292,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive V-Rally | 45844 | [45844-test-drive-v-rally.json](./45844-test-drive-v-rally.json) |
 | Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
 | Test Drive: Ferrari Racing Legends | 7217 | [7217-test-drive-ferrari-racing-legends.json](./7217-test-drive-ferrari-racing-legends.json) |
+| Test Drive: Le Mans | 27556 | [27556-test-drive-le-mans.json](./27556-test-drive-le-mans.json) |
 | Test Drive: Le Mans | 45066 | [45066-test-drive-le-mans.json](./45066-test-drive-le-mans.json) |
 | Test Drive: Off-Road | 46041 | [46041-test-drive-off-road.json](./46041-test-drive-off-road.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
@@ -12937,6 +12938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killing Blade Plus | 234816 | [234816-the-killing-blade-plus.json](./234816-the-killing-blade-plus.json) |
 | The Killing Cloud | 12659 | [12659-the-killing-cloud.json](./12659-the-killing-cloud.json) |
 | The Killing Game of Thirst | 360903 | [360903-the-killing-game-of-thirst.json](./360903-the-killing-game-of-thirst.json) |
+| The Killing Game Show | 12164 | [12164-the-killing-game-show.json](./12164-the-killing-game-show.json) |
 | The Kind Camomille | 138494 | [138494-the-kind-camomille.json](./138494-the-kind-camomille.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The Kindling | 374032 | [374032-the-kindling.json](./374032-the-kindling.json) |
@@ -14961,6 +14963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lovebirds | 113226 | [113226-the-lovebirds.json](./113226-the-lovebirds.json) |
 | The Lovely Estate | 203994 | [203994-the-lovely-estate.json](./203994-the-lovely-estate.json) |
 | The Lover of Me | 184328 | [184328-the-lover-of-me.json](./184328-the-lover-of-me.json) |
+| The Low Road | 28049 | [28049-the-low-road.json](./28049-the-low-road.json) |
 | The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
@@ -18139,6 +18142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: New Allies - Deluxe Pack | 239011 | [239011-the-settlers-new-allies-deluxe-pack.json](./239011-the-settlers-new-allies-deluxe-pack.json) |
 | The Settlers: New Allies - Starter Pack | 294011 | [294011-the-settlers-new-allies-starter-pack.json](./294011-the-settlers-new-allies-starter-pack.json) |
 | The Settlers: Rise of an Empire | 3700 | [3700-the-settlers-rise-of-an-empire.json](./3700-the-settlers-rise-of-an-empire.json) |
+| The Settlers: Rise of an Empire - Gold Edition | 27830 | [27830-the-settlers-rise-of-an-empire-gold-edition.json](./27830-the-settlers-rise-of-an-empire-gold-edition.json) |
 | The Settlers: Rise of an Empire - History Edition | 114448 | [114448-the-settlers-rise-of-an-empire-history-edition.json](./114448-the-settlers-rise-of-an-empire-history-edition.json) |
 | The Settlers: Rise of an Empire - The Eastern Realm | 78531 | [78531-the-settlers-rise-of-an-empire-the-eastern-realm.json](./78531-the-settlers-rise-of-an-empire-the-eastern-realm.json) |
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
@@ -18496,6 +18500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: High-End Loft Stuff | 13117 | [13117-the-sims-3-high-end-loft-stuff.json](./13117-the-sims-3-high-end-loft-stuff.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
 | The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
+| The Sims 3: Katy Perry's Sweet Treats | 13122 | [13122-the-sims-3-katy-perrys-sweet-treats.json](./13122-the-sims-3-katy-perrys-sweet-treats.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
 | The Sims 3: Lucky Palms | 14577 | [14577-the-sims-3-lucky-palms.json](./14577-the-sims-3-lucky-palms.json) |
 | The Sims 3: Lunar Lakes | 14573 | [14573-the-sims-3-lunar-lakes.json](./14573-the-sims-3-lunar-lakes.json) |
