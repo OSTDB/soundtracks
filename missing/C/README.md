@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Clicker | 32444 | [32444-campaign-clicker.json](./32444-campaign-clicker.json) |
 | Campaign Eckmuhl | 127482 | [127482-campaign-eckmuhl.json](./127482-campaign-eckmuhl.json) |
 | Campaign Eylau-Friedland | 144829 | [144829-campaign-eylau-friedland.json](./144829-campaign-eylau-friedland.json) |
+| Campaign Forge | 423332 | [423332-campaign-forge.json](./423332-campaign-forge.json) |
 | Campaign Gettysburg | 182261 | [182261-campaign-gettysburg.json](./182261-campaign-gettysburg.json) |
 | Campaign II | 14372 | [14372-campaign-ii.json](./14372-campaign-ii.json) |
 | Campaign Including 25 Extra Missions | 72048 | [72048-campaign-including-25-extra-missions.json](./72048-campaign-including-25-extra-missions.json) |
@@ -9386,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromadrome 2 | 35009 | [35009-chromadrome-2.json](./35009-chromadrome-2.json) |
 | Chromaestro | 37409 | [37409-chromaestro.json](./37409-chromaestro.json) |
 | ChromaFlow | 414393 | [414393-chromaflow.json](./414393-chromaflow.json) |
+| Chromagami | 423197 | [423197-chromagami.json](./423197-chromagami.json) |
 | ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
 | ChromaGun VR | 118742 | [118742-chromagun-vr.json](./118742-chromagun-vr.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
@@ -9524,6 +9526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
 | Chronicles of Mystery: The Tree of Life | 24354 | [24354-chronicles-of-mystery-the-tree-of-life.json](./24354-chronicles-of-mystery-the-tree-of-life.json) |
 | Chronicles of Osgorth: The Shattered Alliance | 18744 | [18744-chronicles-of-osgorth-the-shattered-alliance.json](./18744-chronicles-of-osgorth-the-shattered-alliance.json) |
+| Chronicles of Prozis | 423339 | [423339-chronicles-of-prozis.json](./423339-chronicles-of-prozis.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles Of Sagrea | 287925 | [287925-chronicles-of-sagrea.json](./287925-chronicles-of-sagrea.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
@@ -20068,6 +20071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
 | Crooked Waters | 96273 | [96273-crooked-waters.json](./96273-crooked-waters.json) |
 | Crooks Like Us | 143032 | [143032-crooks-like-us.json](./143032-crooks-like-us.json) |
+| Crooky: The Game | 423360 | [423360-crooky-the-game.json](./423360-crooky-the-game.json) |
 | Crookz: The Big Heist | 17569 | [17569-crookz-the-big-heist.json](./17569-crookz-the-big-heist.json) |
 | Crop | 397809 | [397809-crop.json](./397809-crop.json) |
 | Crop and Claw | 284991 | [284991-crop-and-claw.json](./284991-crop-and-claw.json) |
@@ -20565,6 +20569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowned | 259055 | [259055-crowned.json](./259055-crowned.json) |
 | Crowned Control | 265383 | [265383-crowned-control.json](./265383-crowned-control.json) |
 | Crowned in Steel | 278482 | [278482-crowned-in-steel.json](./278482-crowned-in-steel.json) |
+| Crowned Sun | 423338 | [423338-crowned-sun.json](./423338-crowned-sun.json) |
 | CrownFall | 82506 | [82506-crownfall.json](./82506-crownfall.json) |
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
 | Crownhold | 414112 | [414112-crownhold.json](./414112-crownhold.json) |
@@ -23143,6 +23148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Velocity Run | 223810 | [223810-cyber-velocity-run.json](./223810-cyber-velocity-run.json) |
 | Cyber Village | 401905 | [401905-cyber-village.json](./401905-cyber-village.json) |
 | Cyber Volley | 291270 | [291270-cyber-volley.json](./291270-cyber-volley.json) |
+| Cyber Volleyball | 423319 | [423319-cyber-volleyball.json](./423319-cyber-volleyball.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War Apocalypse | 166934 | [166934-cyber-war-apocalypse.json](./166934-cyber-war-apocalypse.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
