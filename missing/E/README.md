@@ -3466,9 +3466,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Room: Disaster Strikes | 12424 | [12424-emergency-room-disaster-strikes.json](./12424-emergency-room-disaster-strikes.json) |
 | Emergency Room: Heroic Measures | 201270 | [201270-emergency-room-heroic-measures.json](./201270-emergency-room-heroic-measures.json) |
 | Emergency Room: Life or Death | 69625 | [69625-emergency-room-life-or-death.json](./69625-emergency-room-life-or-death.json) |
+| Emergency Room: Real Life Rescues | 24322 | [24322-emergency-room-real-life-rescues.json](./24322-emergency-room-real-life-rescues.json) |
 | Emergency Rush | 415057 | [415057-emergency-rush.json](./415057-emergency-rush.json) |
 | Emergency Water Landing | 117232 | [117232-emergency-water-landing.json](./117232-emergency-water-landing.json) |
 | Emergency: Fighters for Life | 79837 | [79837-emergency-fighters-for-life.json](./79837-emergency-fighters-for-life.json) |
+| Emergency: Rescue Disaster Squad | 24302 | [24302-emergency-rescue-disaster-squad.json](./24302-emergency-rescue-disaster-squad.json) |
 | Emergency: Road Services Simulator | 217410 | [217410-emergency-road-services-simulator.json](./217410-emergency-road-services-simulator.json) |
 | Emergency! Disaster Rescue Squad | 339374 | [339374-emergency-disaster-rescue-squad.json](./339374-emergency-disaster-rescue-squad.json) |
 | EmergencyCrank | 412485 | [412485-emergencycrank.json](./412485-emergencycrank.json) |
@@ -7689,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlife | 297506 | [297506-everlife.json](./297506-everlife.json) |
 | Everlife: Chapter 2 | 195736 | [195736-everlife-chapter-2.json](./195736-everlife-chapter-2.json) |
 | Everlight | 184987 | [184987-everlight.json](./184987-everlight.json) |
+| Everlight: Of Magic & Power | 24298 | [24298-everlight-of-magic-and-power.json](./24298-everlight-of-magic-and-power.json) |
 | Everlong | 124650 | [124650-everlong.json](./124650-everlong.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | Everlords | 295299 | [295299-everlords.json](./295299-everlords.json) |
