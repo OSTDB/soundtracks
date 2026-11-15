@@ -4184,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of Darkness 2 | 422094 | [422094-dead-of-darkness-2.json](./422094-dead-of-darkness-2.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
 | Dead of Night | 224113 | [224113-dead-of-night.json](./224113-dead-of-night.json) |
+| Dead of Night | 37427 | [37427-dead-of-night.json](./37427-dead-of-night.json) |
 | Dead of Night: Supermarket | 333495 | [333495-dead-of-night-supermarket.json](./333495-dead-of-night-supermarket.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead of the Brain 1 & 2 | 80189 | [80189-dead-of-the-brain-1-and-2.json](./80189-dead-of-the-brain-1-and-2.json) |
@@ -10847,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
 | Dinobasher | 248847 | [248847-dinobasher.json](./248847-dinobasher.json) |
 | Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
+| DinoBlaster | 37415 | [37415-dinoblaster.json](./37415-dinoblaster.json) |
 | Dinoblits | 219244 | [219244-dinoblits.json](./219244-dinoblits.json) |
 | Dinobot and Tiara Present: ApplePop | 240826 | [240826-dinobot-and-tiara-present-applepop.json](./240826-dinobot-and-tiara-present-applepop.json) |
 | DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
@@ -21030,6 +21032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
 | Dungreed | 76816 | [76816-dungreed.json](./76816-dungreed.json) |
 | DunHero | 237242 | [237242-dunhero.json](./237242-dunhero.json) |
+| Dunia: Masters | 37406 | [37406-dunia-masters.json](./37406-dunia-masters.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | DunJaunt | 298473 | [298473-dunjaunt.json](./298473-dunjaunt.json) |
