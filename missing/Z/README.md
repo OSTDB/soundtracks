@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
 | Zooicide | 43124 | [43124-zooicide.json](./43124-zooicide.json) |
 | Zooika | 315383 | [315383-zooika.json](./315383-zooika.json) |
+| Zooistry | 68182 | [68182-zooistry.json](./68182-zooistry.json) |
 | Zook Hero 2 | 311018 | [311018-zook-hero-2.json](./311018-zook-hero-2.json) |
 | Zook Hero 3 | 342980 | [342980-zook-hero-3.json](./342980-zook-hero-3.json) |
 | Zook Hero Z | 231542 | [231542-zook-hero-z.json](./231542-zook-hero-z.json) |
