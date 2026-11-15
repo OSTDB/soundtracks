@@ -15163,6 +15163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjure Strike | 107466 | [107466-conjure-strike.json](./107466-conjure-strike.json) |
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
 | Conjurers | 328362 | [328362-conjurers.json](./328362-conjurers.json) |
+| Conjuror: The Game | 60693 | [60693-conjuror-the-game.json](./60693-conjuror-the-game.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conjury | 275739 | [275739-conjury.json](./275739-conjury.json) |
 | Conjury of Nature | 100536 | [100536-conjury-of-nature.json](./100536-conjury-of-nature.json) |
