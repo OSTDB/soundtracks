@@ -7659,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everfall 2: Idle Dungeon RPG | 390050 | [390050-everfall-2-idle-dungeon-rpg.json](./390050-everfall-2-idle-dungeon-rpg.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
 | Everfront | 400550 | [400550-everfront.json](./400550-everfront.json) |
+| Evergallery: Jigsaw Museum | 424535 | [424535-evergallery-jigsaw-museum.json](./424535-evergallery-jigsaw-museum.json) |
 | Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
 | Evergarden | 269740 | [269740-evergarden.json](./269740-evergarden.json) |
 | Evergarden | 398021 | [398021-evergarden.json](./398021-evergarden.json) |
