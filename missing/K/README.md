@@ -4374,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
 | Kisetsu | 308865 | [308865-kisetsu.json](./308865-kisetsu.json) |
 | Kisha de GO! | 63754 | [63754-kisha-de-go.json](./63754-kisha-de-go.json) |
+| Kishi Densetsu | 45619 | [45619-kishi-densetsu.json](./45619-kishi-densetsu.json) |
 | Kishi Fujii Souta no Shogi Training | 136830 | [136830-kishi-fujii-souta-no-shogi-training.json](./136830-kishi-fujii-souta-no-shogi-training.json) |
 | Kishin Douji Zenki | 46692 | [46692-kishin-douji-zenki.json](./46692-kishin-douji-zenki.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
