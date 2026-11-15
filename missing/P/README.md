@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Simulator 3D | 87303 | [87303-parkour-simulator-3d.json](./87303-parkour-simulator-3d.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | Parkour Trials | 346757 | [346757-parkour-trials.json](./346757-parkour-trials.json) |
+| Parkourier | 420399 | [420399-parkourier.json](./420399-parkourier.json) |
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
 | Parks and Rekt | 257870 | [257870-parks-and-rekt.json](./257870-parks-and-rekt.json) |
 | Parkside: Decayed Soul Manipulation | 264793 | [264793-parkside-decayed-soul-manipulation.json](./264793-parkside-decayed-soul-manipulation.json) |
@@ -3316,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Becoming | 197316 | [197316-path-of-becoming.json](./197316-path-of-becoming.json) |
 | Path of Clicks | 341967 | [341967-path-of-clicks.json](./341967-path-of-clicks.json) |
 | Path of Colors | 243762 | [243762-path-of-colors.json](./243762-path-of-colors.json) |
+| Path of Darkness | 420366 | [420366-path-of-darkness.json](./420366-path-of-darkness.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Diablo | 285286 | [285286-path-of-diablo.json](./285286-path-of-diablo.json) |
 | Path of Disdain | 249822 | [249822-path-of-disdain.json](./249822-path-of-disdain.json) |
@@ -8099,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinecone Grove | 420513 | [420513-pinecone-grove.json](./420513-pinecone-grove.json) |
 | Pinedrop Vale | 358655 | [358655-pinedrop-vale.json](./358655-pinedrop-vale.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
+| Pinetrail | 420401 | [420401-pinetrail.json](./420401-pinetrail.json) |
 | Pinevale Settlements | 319053 | [319053-pinevale-settlements.json](./319053-pinevale-settlements.json) |
 | Pineview Drive | 25295 | [25295-pineview-drive.json](./25295-pineview-drive.json) |
 | Pineview Drive: Homeless | 116487 | [116487-pineview-drive-homeless.json](./116487-pineview-drive-homeless.json) |
@@ -20478,6 +20481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Colony | 266542 | [266542-puzzle-colony.json](./266542-puzzle-colony.json) |
 | Puzzle Company | 348441 | [348441-puzzle-company.json](./348441-puzzle-company.json) |
 | Puzzle Compound | 152189 | [152189-puzzle-compound.json](./152189-puzzle-compound.json) |
+| Puzzle Cottage | 420310 | [420310-puzzle-cottage.json](./420310-puzzle-cottage.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle Craft 2 | 22115 | [22115-puzzle-craft-2.json](./22115-puzzle-craft-2.json) |
