@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Aravorn: An Elven Marriage | 204139 | [204139-tales-of-aravorn-an-elven-marriage.json](./204139-tales-of-aravorn-an-elven-marriage.json) |
 | Tales Of Aravorn: Reign Of War | 293832 | [293832-tales-of-aravorn-reign-of-war.json](./293832-tales-of-aravorn-reign-of-war.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
+| Tales of Arcana | 58978 | [58978-tales-of-arcana.json](./58978-tales-of-arcana.json) |
 | Tales of Arcrath | 379424 | [379424-tales-of-arcrath.json](./379424-tales-of-arcrath.json) |
 | Tales of Argento: Spirit of the Goddess | 379433 | [379433-tales-of-argento-spirit-of-the-goddess.json](./379433-tales-of-argento-spirit-of-the-goddess.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
@@ -34835,6 +34836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit | 12970 | [12970-trivial-pursuit.json](./12970-trivial-pursuit.json) |
 | Trivial Pursuit | 78560 | [78560-trivial-pursuit.json](./78560-trivial-pursuit.json) |
 | Trivial Pursuit | 81544 | [81544-trivial-pursuit.json](./81544-trivial-pursuit.json) |
+| Trivial Pursuit & Friends | 58969 | [58969-trivial-pursuit-and-friends.json](./58969-trivial-pursuit-and-friends.json) |
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
 | Trivial Pursuit Arcade | 131504 | [131504-trivial-pursuit-arcade.json](./131504-trivial-pursuit-arcade.json) |
 | Trivial Pursuit Featuring The Simpsons | 364836 | [364836-trivial-pursuit-featuring-the-simpsons.json](./364836-trivial-pursuit-featuring-the-simpsons.json) |
