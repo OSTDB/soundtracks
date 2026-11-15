@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Mafs | 178307 | [178307-quick-mafs.json](./178307-quick-mafs.json) |
 | Quick Mafs Advanced | 193731 | [193731-quick-mafs-advanced.json](./193731-quick-mafs-advanced.json) |
 | Quick Majik Adventure | 171539 | [171539-quick-majik-adventure.json](./171539-quick-majik-adventure.json) |
+| Quick Math Game | 64607 | [64607-quick-math-game.json](./64607-quick-math-game.json) |
 | Quick Maths: addition and subtraction | 107741 | [107741-quick-maths-addition-and-subtraction.json](./107741-quick-maths-addition-and-subtraction.json) |
 | Quick Move | 246362 | [246362-quick-move.json](./246362-quick-move.json) |
 | Quick Packer 2 | 148667 | [148667-quick-packer-2.json](./148667-quick-packer-2.json) |
