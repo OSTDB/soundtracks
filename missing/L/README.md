@@ -3757,7 +3757,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Leman | 172254 | [172254-leman.json](./172254-leman.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
-| Lemma | 17386 | [17386-lemma.json](./17386-lemma.json) |
 | Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
 | Lemmings | 113439 | [113439-lemmings.json](./113439-lemmings.json) |
 | Lemmings | 238376 | [238376-lemmings.json](./238376-lemmings.json) |
@@ -10204,6 +10203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LTA: Light-years! Thrusters! Action! | 295166 | [295166-lta-light-years-thrusters-action.json](./295166-lta-light-years-thrusters-action.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
+| Lu Ding Ji | 72216 | [72216-lu-ding-ji.json](./72216-lu-ding-ji.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
 | Lu Pei's Dream | 400519 | [400519-lu-peis-dream.json](./400519-lu-peis-dream.json) |
 | Lu Tu | 149300 | [149300-lu-tu.json](./149300-lu-tu.json) |
