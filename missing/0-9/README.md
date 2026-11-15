@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (Not) Just another Space Shooter | 71931 | [71931-not-just-another-space-shooter.json](./71931-not-just-another-space-shooter.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
 | (T)Raumschiff Surprise - Periode 1 | 131283 | [131283-t-raumschiff-surprise-periode-1.json](./131283-t-raumschiff-surprise-periode-1.json) |
+| (The) Barebones Pack | 428760 | [428760-the-barebones-pack.json](./428760-the-barebones-pack.json) |
 | [ Content Deleted ] | 355606 | [355606-content-deleted.json](./355606-content-deleted.json) |
 | [ VOID ] | 384048 | [384048-void.json](./384048-void.json) |
 | [Afantasia] | 346494 | [346494-afantasia.json](./346494-afantasia.json) |
