@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T05:45:56.134Z",
-  "total_soundtracks": 3393,
+  "generated_at": "2026-11-15T05:56:11.247Z",
+  "total_soundtracks": 3396,
   "games": [
     {
       "igdb_id": 292844,
@@ -12153,6 +12153,20 @@
       ]
     },
     {
+      "igdb_id": 107212,
+      "game_name": "Falcon Age",
+      "game_url": "https://ostdb.net/games/falcon-age",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273334026d9479e28ff4ee3c3ee",
+      "albums": [
+        {
+          "album_name": "Falcon Age (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6mzhcI1YVtmQCz36vGbWW9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119313,
       "game_name": "Fall Guys",
       "game_url": "https://ostdb.net/games/fall-guys",
@@ -18122,6 +18136,20 @@
           "album_name": "Infinity Nikki: Wish Carnival Party (《Infinity Nikki》Game Original Soundtracks Vol.7)",
           "spotify_url": "https://open.spotify.com/album/0JpUmmjCDtNTj6QpioIfhx",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 107414,
+      "game_name": "Initial 2: New Stage",
+      "game_url": "https://ostdb.net/games/initial-2-new-stage",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b52dd49e9e95c6237ad117a5",
+      "albums": [
+        {
+          "album_name": "The Initial 2: New Stage (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4hucXP1uYscmCzSrUDxQcX",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -42441,6 +42469,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/winter-burrow-original-soundtrack/1869190008?uo=4",
           "album_link_url": "https://album.link/i/1869190008"
+        }
+      ]
+    },
+    {
+      "igdb_id": 107436,
+      "game_name": "Wintermoor Tactics Club",
+      "game_url": "https://ostdb.net/games/wintermoor-tactics-club",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f095dc8f4444358338c7434c",
+      "albums": [
+        {
+          "album_name": "Wintermoor Tactics Club (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5XgNboXzfrUpaLXwh3jFFw",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
