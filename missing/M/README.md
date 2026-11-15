@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malicious Rebirth | 26584 | [26584-malicious-rebirth.json](./26584-malicious-rebirth.json) |
 | Malignant Survivors | 286943 | [286943-malignant-survivors.json](./286943-malignant-survivors.json) |
 | Malignant Survivors II | 372715 | [372715-malignant-survivors-ii.json](./372715-malignant-survivors-ii.json) |
+| Malignus | 423854 | [423854-malignus.json](./423854-malignus.json) |
 | Maliguard | 278261 | [278261-maliguard.json](./278261-maliguard.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
@@ -6078,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match | 313532 | [313532-match.json](./313532-match.json) |
 | Match | 399912 | [399912-match.json](./399912-match.json) |
 | Match | 90021 | [90021-match.json](./90021-match.json) |
+| Match & Drop: Pachinko Rush | 423848 | [423848-match-and-drop-pachinko-rush.json](./423848-match-and-drop-pachinko-rush.json) |
 | Match & Mastery | 347910 | [347910-match-and-mastery.json](./347910-match-and-mastery.json) |
 | Match & Merge | 232372 | [232372-match-and-merge.json](./232372-match-and-merge.json) |
 | Match & Pop: Bubble Blast Puzzles! | 87533 | [87533-match-and-pop-bubble-blast-puzzles.json](./87533-match-and-pop-bubble-blast-puzzles.json) |
@@ -11602,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexican High School Simulator | 257355 | [257355-mexican-high-school-simulator.json](./257355-mexican-high-school-simulator.json) |
 | Mexican Motor Mafia | 70496 | [70496-mexican-motor-mafia.json](./70496-mexican-motor-mafia.json) |
 | Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
+| Mexican Train | 423950 | [423950-mexican-train.json](./423950-mexican-train.json) |
 | Mexican Train Dominoes 2 | 106070 | [106070-mexican-train-dominoes-2.json](./106070-mexican-train-dominoes-2.json) |
 | Mexican Train Dominoes Gold | 147732 | [147732-mexican-train-dominoes-gold.json](./147732-mexican-train-dominoes-gold.json) |
 | Mexicana: Deadly Holiday | 53326 | [53326-mexicana-deadly-holiday.json](./53326-mexicana-deadly-holiday.json) |
@@ -18799,6 +18802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Basket | 133629 | [133629-moonlight-basket.json](./133629-moonlight-basket.json) |
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight Blade Mobile | 150706 | [150706-moonlight-blade-mobile.json](./150706-moonlight-blade-mobile.json) |
+| Moonlight Castle: Easy Idle Defense | 423935 | [423935-moonlight-castle-easy-idle-defense.json](./423935-moonlight-castle-easy-idle-defense.json) |
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
 | Moonlight Crush | 322327 | [322327-moonlight-crush.json](./322327-moonlight-crush.json) |
@@ -21308,6 +21312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
 | Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
 | Muck | 148397 | [148397-muck.json](./148397-muck.json) |
+| Mucked | 423945 | [423945-mucked.json](./423945-mucked.json) |
 | Mucorales | 285850 | [285850-mucorales.json](./285850-mucorales.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Mud and Blood 2 | 56020 | [56020-mud-and-blood-2.json](./56020-mud-and-blood-2.json) |
@@ -22090,6 +22095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
 | Music Ball | 137865 | [137865-music-ball.json](./137865-music-ball.json) |
 | Music Band Manager | 82312 | [82312-music-band-manager.json](./82312-music-band-manager.json) |
+| Music Band Simulator: Together | 423865 | [423865-music-band-simulator-together.json](./423865-music-band-simulator-together.json) |
 | Music Baseball | 305723 | [305723-music-baseball.json](./305723-music-baseball.json) |
 | Music Bounce | 279167 | [279167-music-bounce.json](./279167-music-bounce.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
@@ -23630,6 +23636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Parkour | 405430 | [405430-my-parkour.json](./405430-my-parkour.json) |
 | My Party Needs an Alchemist | 315036 | [315036-my-party-needs-an-alchemist.json](./315036-my-party-needs-an-alchemist.json) |
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
+| My Penguin Friend | 423920 | [423920-my-penguin-friend.json](./423920-my-penguin-friend.json) |
 | My Perfect Hotel | 216047 | [216047-my-perfect-hotel.json](./216047-my-perfect-hotel.json) |
 | My Perfect Nails | 412237 | [412237-my-perfect-nails.json](./412237-my-perfect-nails.json) |
 | My Personal Alt Waifu | 411247 | [411247-my-personal-alt-waifu.json](./411247-my-personal-alt-waifu.json) |
