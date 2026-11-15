@@ -12057,6 +12057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin Trail | 206588 | [206588-ronin-trail.json](./206588-ronin-trail.json) |
 | Ronin: Digital Special Edition | 124873 | [124873-ronin-digital-special-edition.json](./124873-ronin-digital-special-edition.json) |
+| Ronin: Kage no senshi | 36575 | [36575-ronin-kage-no-senshi.json](./36575-ronin-kage-no-senshi.json) |
 | Ronin: Samurai Redemption | 216936 | [216936-ronin-samurai-redemption.json](./216936-ronin-samurai-redemption.json) |
 | Ronin: Tales of a Ghost | 187117 | [187117-ronin-tales-of-a-ghost.json](./187117-ronin-tales-of-a-ghost.json) |
 | Ronin: The Last Samurai | 174599 | [174599-ronin-the-last-samurai.json](./174599-ronin-the-last-samurai.json) |
