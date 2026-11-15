@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idols Galore! | 92700 | [92700-idols-galore.json](./92700-idols-galore.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
 | Idols Of Starlight | 357436 | [357436-idols-of-starlight.json](./357436-idols-of-starlight.json) |
+| Idoly Pride | 143071 | [143071-idoly-pride.json](./143071-idoly-pride.json) |
 | Idolyaki: From Delinquents to Pop Stars | 173957 | [173957-idolyaki-from-delinquents-to-pop-stars.json](./173957-idolyaki-from-delinquents-to-pop-stars.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idolzzz | 75269 | [75269-idolzzz.json](./75269-idolzzz.json) |
@@ -5564,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Gran Prix | 25331 | [25331-international-gran-prix.json](./25331-international-gran-prix.json) |
 | International Hockey | 94629 | [94629-international-hockey.json](./94629-international-hockey.json) |
 | International Jetpack Conference | 60723 | [60723-international-jetpack-conference.json](./60723-international-jetpack-conference.json) |
+| International Karate + | 8397 | [8397-international-karate.json](./8397-international-karate.json) |
 | International Karate 2000 | 24164 | [24164-international-karate-2000.json](./24164-international-karate-2000.json) |
 | International Karate Advanced | 49292 | [49292-international-karate-advanced.json](./49292-international-karate-advanced.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
