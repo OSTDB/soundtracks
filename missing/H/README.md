@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Battle | 268903 | [268903-hard-battle.json](./268903-hard-battle.json) |
 | Hard Block Girls | 157752 | [157752-hard-block-girls.json](./157752-hard-block-girls.json) |
 | Hard Block Girls: Sex Life | 199814 | [199814-hard-block-girls-sex-life.json](./199814-hard-block-girls-sex-life.json) |
+| Hard Blow | 44815 | [44815-hard-blow.json](./44815-hard-blow.json) |
 | Hard Boiled | 228883 | [228883-hard-boiled.json](./228883-hard-boiled.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Bullet | 139702 | [139702-hard-bullet.json](./139702-hard-bullet.json) |
@@ -6496,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermeticism | 229733 | [229733-hermeticism.json](./229733-hermeticism.json) |
 | Hermeticism | 322015 | [322015-hermeticism.json](./322015-hermeticism.json) |
 | Hermetika VR | 184933 | [184933-hermetika-vr.json](./184933-hermetika-vr.json) |
+| Hermie Hopperhead: Scrap Panic | 44800 | [44800-hermie-hopperhead-scrap-panic.json](./44800-hermie-hopperhead-scrap-panic.json) |
 | Hermina and Culus: Atelier Lilie Another Story | 104981 | [104981-hermina-and-culus-atelier-lilie-another-story.json](./104981-hermina-and-culus-atelier-lilie-another-story.json) |
 | Hermina Lumen is Only Human | 121151 | [121151-hermina-lumen-is-only-human.json](./121151-hermina-lumen-is-only-human.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
