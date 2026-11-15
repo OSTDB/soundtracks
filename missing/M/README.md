@@ -3284,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Khemia 2: Fall of Alchemy Portable Plus | 42740 | [42740-mana-khemia-2-fall-of-alchemy-portable-plus.json](./42740-mana-khemia-2-fall-of-alchemy-portable-plus.json) |
 | Mana Khemia: Alchemists of Al-Revis | 20996 | [20996-mana-khemia-alchemists-of-al-revis.json](./20996-mana-khemia-alchemists-of-al-revis.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
+| Mana Khemia: Student Alliance | 24307 | [24307-mana-khemia-student-alliance.json](./24307-mana-khemia-student-alliance.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
 | Mana Launcher | 197443 | [197443-mana-launcher.json](./197443-mana-launcher.json) |
 | Mana Maker | 156940 | [156940-mana-maker.json](./156940-mana-maker.json) |
@@ -3359,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manchester United Manager 2005 | 22546 | [22546-manchester-united-manager-2005.json](./22546-manchester-united-manager-2005.json) |
 | Manchester United Premier League Champions | 72271 | [72271-manchester-united-premier-league-champions.json](./72271-manchester-united-premier-league-champions.json) |
 | Manchester United: The Double | 71867 | [71867-manchester-united-the-double.json](./71867-manchester-united-the-double.json) |
+| Mancopter | 24376 | [24376-mancopter.json](./24376-mancopter.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
 | Manda no Yume | 201780 | [201780-manda-no-yume.json](./201780-manda-no-yume.json) |
 | Manda: Mario and Ana | 311151 | [311151-manda-mario-and-ana.json](./311151-manda-mario-and-ana.json) |
@@ -17224,6 +17226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Land 3D: Reaper Rush | 30055 | [30055-monkey-land-3d-reaper-rush.json](./30055-monkey-land-3d-reaper-rush.json) |
 | Monkey Lander | 241474 | [241474-monkey-lander.json](./241474-monkey-lander.json) |
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
+| Monkey Madness: Island Escape | 24351 | [24351-monkey-madness-island-escape.json](./24351-monkey-madness-island-escape.json) |
 | Monkey Magic | 145394 | [145394-monkey-magic.json](./145394-monkey-magic.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Magic | 76854 | [76854-monkey-magic.json](./76854-monkey-magic.json) |
