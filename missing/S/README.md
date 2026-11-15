@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable's Grimoire 2 | 347443 | [347443-sables-grimoire-2.json](./347443-sables-grimoire-2.json) |
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
+| SableSyn Protocol | 423337 | [423337-sablesyn-protocol.json](./423337-sablesyn-protocol.json) |
 | Sabnack | 239383 | [239383-sabnack.json](./239383-sabnack.json) |
 | Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
 | Sabotage | 176588 | [176588-sabotage.json](./176588-sabotage.json) |
@@ -4476,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Battle VR | 75719 | [75719-sea-battle-vr.json](./75719-sea-battle-vr.json) |
 | Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
 | Sea Battle: Through the Ages | 86638 | [86638-sea-battle-through-the-ages.json](./86638-sea-battle-through-the-ages.json) |
+| Sea Beast Odyssey | 423359 | [423359-sea-beast-odyssey.json](./423359-sea-beast-odyssey.json) |
 | Sea Bikers Jetski | 368896 | [368896-sea-bikers-jetski.json](./368896-sea-bikers-jetski.json) |
 | Sea Birds: End of an Age | 113528 | [113528-sea-birds-end-of-an-age.json](./113528-sea-birds-end-of-an-age.json) |
 | Sea Blade | 193781 | [193781-sea-blade.json](./193781-sea-blade.json) |
@@ -9153,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shielded Souls: Legendary Love | 246616 | [246616-shielded-souls-legendary-love.json](./246616-shielded-souls-legendary-love.json) |
 | Shielding Color | 309240 | [309240-shielding-color.json](./309240-shielding-color.json) |
+| Shieldlinked | 423361 | [423361-shieldlinked.json](./423361-shieldlinked.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shieldmaiden: Remix Edition | 231239 | [231239-shieldmaiden-remix-edition.json](./231239-shieldmaiden-remix-edition.json) |
 | Shields Defend | 297257 | [297257-shields-defend.json](./297257-shields-defend.json) |
@@ -19189,6 +19192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
 | Song of Iron II | 217637 | [217637-song-of-iron-ii.json](./217637-song-of-iron-ii.json) |
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
+| Song of Larithea | 423318 | [423318-song-of-larithea.json](./423318-song-of-larithea.json) |
 | Song of Life | 174939 | [174939-song-of-life.json](./174939-song-of-life.json) |
 | Song of Memories | 76655 | [76655-song-of-memories.json](./76655-song-of-memories.json) |
 | Song of Morus: Limbo Express | 347492 | [347492-song-of-morus-limbo-express.json](./347492-song-of-morus-limbo-express.json) |
@@ -20527,6 +20531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soratobu Bunbun Baan | 85388 | [85388-soratobu-bunbun-baan.json](./85388-soratobu-bunbun-baan.json) |
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
 | Sorcer Striker | 39960 | [39960-sorcer-striker.json](./39960-sorcer-striker.json) |
+| Sorcerech | 423349 | [423349-sorcerech.json](./423349-sorcerech.json) |
 | Sorcerer | 1948 | [1948-sorcerer.json](./1948-sorcerer.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer Kid Adventure | 403896 | [403896-sorcerer-kid-adventure.json](./403896-sorcerer-kid-adventure.json) |
@@ -38847,6 +38852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
 | Survivor's guilt | 253642 | [253642-survivors-guilt.json](./253642-survivors-guilt.json) |
 | Survivor's Guilt: Survival | 252947 | [252947-survivors-guilt-survival.json](./252947-survivors-guilt-survival.json) |
+| Survivor's Log: N17 Shelter | 423335 | [423335-survivors-log-n17-shelter.json](./423335-survivors-log-n17-shelter.json) |
 | Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
 | Survivors | 223287 | [223287-survivors.json](./223287-survivors.json) |
 | Survivors | 265811 | [265811-survivors.json](./265811-survivors.json) |
