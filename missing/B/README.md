@@ -3946,13 +3946,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Battalions | 34512 | [34512-battle-battalions.json](./34512-battle-battalions.json) |
 | Battle Beach | 323068 | [323068-battle-beach.json](./323068-battle-beach.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
+| Battle Bears -1 | 62362 | [62362-battle-bears-1.json](./62362-battle-bears-1.json) |
 | Battle Bears 1 Mac | 88639 | [88639-battle-bears-1-mac.json](./88639-battle-bears-1-mac.json) |
 | Battle Bears 1: Zombies | 171453 | [171453-battle-bears-1-zombies.json](./171453-battle-bears-1-zombies.json) |
 | Battle Bears Blast | 62321 | [62321-battle-bears-blast.json](./62321-battle-bears-blast.json) |
 | Battle Bears Comics | 62247 | [62247-battle-bears-comics.json](./62247-battle-bears-comics.json) |
+| Battle Bears Fortress | 62330 | [62330-battle-bears-fortress.json](./62330-battle-bears-fortress.json) |
 | Battle Bears Gold | 62423 | [62423-battle-bears-gold.json](./62423-battle-bears-gold.json) |
 | Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
 | Battle Bears Royale | 60837 | [60837-battle-bears-royale.json](./60837-battle-bears-royale.json) |
+| Battle Bears Zero | 62331 | [62331-battle-bears-zero.json](./62331-battle-bears-zero.json) |
 | Battle Bears: GO | 62320 | [62320-battle-bears-go.json](./62320-battle-bears-go.json) |
 | Battle Bears: Zombies | 62329 | [62329-battle-bears-zombies.json](./62329-battle-bears-zombies.json) |
 | Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
@@ -4774,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
 | Battlefront Trench Warriors: Ops of Warfare & Trench Shooter: Warfare Tactics Bundle Collection | 332326 | [332326-battlefront-trench-warriors-ops-of-warfare-and-trench-shooter-warfare-tactics-bundle-collection.json](./332326-battlefront-trench-warriors-ops-of-warfare-and-trench-shooter-warfare-tactics-bundle-collection.json) |
 | Battlefront+ | 327160 | [327160-battlefront.json](./327160-battlefront.json) |
+| Battlegammon | 61828 | [61828-battlegammon.json](./61828-battlegammon.json) |
 | BattleGlide | 301113 | [301113-battleglide.json](./301113-battleglide.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
@@ -17631,6 +17635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | British Horror Bundle | 251277 | [251277-british-horror-bundle.json](./251277-british-horror-bundle.json) |
 | British Lads Hit Each Other With Chairs: A Bitsy Retelling | 135772 | [135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json](./135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json) |
 | British Mario Vs. I.M. Meen | 327501 | [327501-british-mario-vs-i-m-meen.json](./327501-british-mario-vs-i-m-meen.json) |
+| British Open Championship Golf | 62333 | [62333-british-open-championship-golf.json](./62333-british-open-championship-golf.json) |
 | British Super League | 13444 | [13444-british-super-league.json](./13444-british-super-league.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Britney Spears: American Dream | 57972 | [57972-britney-spears-american-dream.json](./57972-britney-spears-american-dream.json) |
