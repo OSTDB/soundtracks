@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Marvel vs. Capcom 3: Community Edition | 406534 | [406534-ultimate-marvel-vs-capcom-3-community-edition.json](./406534-ultimate-marvel-vs-capcom-3-community-edition.json) |
 | Ultimate Match 3D | 282256 | [282256-ultimate-match-3d.json](./282256-ultimate-match-3d.json) |
 | Ultimate Mind Games | 97181 | [97181-ultimate-mind-games.json](./97181-ultimate-mind-games.json) |
+| Ultimate Mini Golf Designer Deluxe Suite | 71104 | [71104-ultimate-mini-golf-designer-deluxe-suite.json](./71104-ultimate-mini-golf-designer-deluxe-suite.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
 | Ultimate Monkey Race | 288547 | [288547-ultimate-monkey-race.json](./288547-ultimate-monkey-race.json) |
 | Ultimate Monster Trucks | 53941 | [53941-ultimate-monster-trucks.json](./53941-ultimate-monster-trucks.json) |
@@ -1644,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undawning: The New Moon | 371047 | [371047-undawning-the-new-moon.json](./371047-undawning-the-new-moon.json) |
 | Undead | 380741 | [380741-undead.json](./380741-undead.json) |
+| Undead | 68200 | [68200-undead.json](./68200-undead.json) |
 | Undead & Beyond | 96889 | [96889-undead-and-beyond.json](./96889-undead-and-beyond.json) |
 | Undead Air | 378554 | [378554-undead-air.json](./378554-undead-air.json) |
 | Undead Arena VR | 241493 | [241493-undead-arena-vr.json](./241493-undead-arena-vr.json) |
@@ -3234,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until You Fall | 115478 | [115478-until-you-fall.json](./115478-until-you-fall.json) |
 | Until You Return to the Earth | 339430 | [339430-until-you-return-to-the-earth.json](./339430-until-you-return-to-the-earth.json) |
 | UntilZombieDown | 287759 | [287759-untilzombiedown.json](./287759-untilzombiedown.json) |
+| Untima IX: Descension | 71109 | [71109-untima-ix-descension.json](./71109-untima-ix-descension.json) |
 | Untime | 372040 | [372040-untime.json](./372040-untime.json) |
 | Untitled | 186022 | [186022-untitled.json](./186022-untitled.json) |
 | Untitled | 218540 | [218540-untitled.json](./218540-untitled.json) |
