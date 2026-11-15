@@ -6147,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper in the Dark | 240047 | [240047-deeper-in-the-dark.json](./240047-deeper-in-the-dark.json) |
 | Deeper Into Space | 134725 | [134725-deeper-into-space.json](./134725-deeper-into-space.json) |
 | Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
+| Deeper Sleep | 123702 | [123702-deeper-sleep.json](./123702-deeper-sleep.json) |
 | Deeper Still | 398088 | [398088-deeper-still.json](./398088-deeper-still.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper Underground | 371179 | [371179-deeper-underground.json](./371179-deeper-underground.json) |
@@ -19423,6 +19424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry | 176804 | [176804-dry.json](./176804-dry.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | Dry Bones | 345935 | [345935-dry-bones.json](./345935-dry-bones.json) |
+| Dry Drowning | 119805 | [119805-dry-drowning.json](./119805-dry-drowning.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Grass | 137736 | [137736-dry-grass.json](./137736-dry-grass.json) |
 | Dry Hazard | 181718 | [181718-dry-hazard.json](./181718-dry-hazard.json) |
