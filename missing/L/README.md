@@ -9692,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Furry Boys: Zodiac Dating App | 330238 | [330238-love-furry-boys-zodiac-dating-app.json](./330238-love-furry-boys-zodiac-dating-app.json) |
 | Love Furry Girls: Zodiac Dating App | 330239 | [330239-love-furry-girls-zodiac-dating-app.json](./330239-love-furry-girls-zodiac-dating-app.json) |
 | Love Game's Wai Wai Tennis | 58520 | [58520-love-games-wai-wai-tennis.json](./58520-love-games-wai-wai-tennis.json) |
+| Love Game's Wai Wai Tennis Plus | 44814 | [44814-love-games-wai-wai-tennis-plus.json](./44814-love-games-wai-wai-tennis-plus.json) |
 | Love Games | 107425 | [107425-love-games.json](./107425-love-games.json) |
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
 | Love Girls | 367598 | [367598-love-girls.json](./367598-love-girls.json) |
