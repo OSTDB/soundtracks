@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthRemnant | 236452 | [236452-earthremnant.json](./236452-earthremnant.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
+| Earthrise: A Guild Investigation | 20550 | [20550-earthrise-a-guild-investigation.json](./20550-earthrise-a-guild-investigation.json) |
 | EarthRoyale | 207454 | [207454-earthroyale.json](./207454-earthroyale.json) |
 | Earths Edge | 403333 | [403333-earths-edge.json](./403333-earths-edge.json) |
 | Earthscaper | 343200 | [343200-earthscaper.json](./343200-earthscaper.json) |
