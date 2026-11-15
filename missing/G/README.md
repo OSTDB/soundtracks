@@ -6457,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobble Fantasy 2003 | 376039 | [376039-gobble-fantasy-2003.json](./376039-gobble-fantasy-2003.json) |
 | Gobble It | 240109 | [240109-gobble-it.json](./240109-gobble-it.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
+| Gobbles | 427590 | [427590-gobbles.json](./427590-gobbles.json) |
 | Gobbo Goes | 74737 | [74737-gobbo-goes.json](./74737-gobbo-goes.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
