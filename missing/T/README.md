@@ -7268,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Birdcage | 105800 | [105800-the-birdcage.json](./105800-the-birdcage.json) |
 | The Birdcage 2 | 117499 | [117499-the-birdcage-2.json](./117499-the-birdcage-2.json) |
 | The Birdcage 3 | 313924 | [313924-the-birdcage-3.json](./313924-the-birdcage-3.json) |
+| The Birds and the Bees | 13970 | [13970-the-birds-and-the-bees.json](./13970-the-birds-and-the-bees.json) |
 | The Birds and the Bees II: Antics | 73610 | [73610-the-birds-and-the-bees-ii-antics.json](./73610-the-birds-and-the-bees-ii-antics.json) |
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Birdwatcher | 198101 | [198101-the-birdwatcher.json](./198101-the-birdwatcher.json) |
@@ -25550,6 +25551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
 | Time Crisis 4 | 7466 | [7466-time-crisis-4.json](./7466-time-crisis-4.json) |
+| Time Crisis 5 | 13895 | [13895-time-crisis-5.json](./13895-time-crisis-5.json) |
 | Time Crisis: 2nd Strike | 21751 | [21751-time-crisis-2nd-strike.json](./21751-time-crisis-2nd-strike.json) |
 | Time Crisis: Crisis Zone | 43287 | [43287-time-crisis-crisis-zone.json](./43287-time-crisis-crisis-zone.json) |
 | Time Crisis: Project Titan | 12899 | [12899-time-crisis-project-titan.json](./12899-time-crisis-project-titan.json) |
