@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate ADOM: Caverns of Chaos | 110243 | [110243-ultimate-adom-caverns-of-chaos.json](./110243-ultimate-adom-caverns-of-chaos.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
 | Ultimate Adventure 4 | 41196 | [41196-ultimate-adventure-4.json](./41196-ultimate-adventure-4.json) |
+| Ultimate Air Combat | 48267 | [48267-ultimate-air-combat.json](./48267-ultimate-air-combat.json) |
 | Ultimate Anime Jigsaw Puzzle | 242015 | [242015-ultimate-anime-jigsaw-puzzle.json](./242015-ultimate-anime-jigsaw-puzzle.json) |
 | Ultimate Apocalypse | 252841 | [252841-ultimate-apocalypse.json](./252841-ultimate-apocalypse.json) |
 | Ultimate Arcade Games | 49262 | [49262-ultimate-arcade-games.json](./49262-ultimate-arcade-games.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Barbarian | 27426 | [27426-ultimate-barbarian.json](./27426-ultimate-barbarian.json) |
 | Ultimate Baseball Online | 23787 | [23787-ultimate-baseball-online.json](./23787-ultimate-baseball-online.json) |
 | Ultimate Baseball Online 2007 | 21413 | [21413-ultimate-baseball-online-2007.json](./21413-ultimate-baseball-online-2007.json) |
+| Ultimate Basketball | 48266 | [48266-ultimate-basketball.json](./48266-ultimate-basketball.json) |
 | Ultimate Battle | 156979 | [156979-ultimate-battle.json](./156979-ultimate-battle.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
 | Ultimate Battle Royale PvP | 90675 | [90675-ultimate-battle-royale-pvp.json](./90675-ultimate-battle-royale-pvp.json) |
@@ -666,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Kept Man Life | 340347 | [340347-ultimate-kept-man-life.json](./340347-ultimate-kept-man-life.json) |
 | Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
 | Ultimate Kungfu Street | 223885 | [223885-ultimate-kungfu-street.json](./223885-ultimate-kungfu-street.json) |
+| Ultimate League Soccer | 48265 | [48265-ultimate-league-soccer.json](./48265-ultimate-league-soccer.json) |
 | Ultimate Legends | 113387 | [113387-ultimate-legends.json](./113387-ultimate-legends.json) |
 | Ultimate Lemon Basket | 411522 | [411522-ultimate-lemon-basket.json](./411522-ultimate-lemon-basket.json) |
 | Ultimate Lion Simulator | 87341 | [87341-ultimate-lion-simulator.json](./87341-ultimate-lion-simulator.json) |
