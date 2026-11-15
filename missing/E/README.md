@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth is a 3D Planet | 50374 | [50374-earth-is-a-3d-planet.json](./50374-earth-is-a-3d-planet.json) |
 | Earth is too small for me | 192266 | [192266-earth-is-too-small-for-me.json](./192266-earth-is-too-small-for-me.json) |
 | Earth Liberation | 30301 | [30301-earth-liberation.json](./30301-earth-liberation.json) |
+| Earth Light | 42248 | [42248-earth-light.json](./42248-earth-light.json) |
 | Earth Light: Luna Strike | 42247 | [42247-earth-light-luna-strike.json](./42247-earth-light-luna-strike.json) |
 | Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
 | Earth Mechanica | 336163 | [336163-earth-mechanica.json](./336163-earth-mechanica.json) |
