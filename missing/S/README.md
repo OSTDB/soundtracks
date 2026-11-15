@@ -4415,6 +4415,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Shin Kamen Rider Rumble | 231290 | [231290-sd-shin-kamen-rider-rumble.json](./231290-sd-shin-kamen-rider-rumble.json) |
 | SD Shin Kamen Rider Rumble SJHU Season Pass | 398294 | [398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json](./398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json) |
 | SD The Great Battle: Aratanaru Chousen | 38321 | [38321-sd-the-great-battle-aratanaru-chousen.json](./38321-sd-the-great-battle-aratanaru-chousen.json) |
+| SD Ultra Battle: Seven Densetsu | 42273 | [42273-sd-ultra-battle-seven-densetsu.json](./42273-sd-ultra-battle-seven-densetsu.json) |
+| SD Ultra Battle: Ultraman Densetsu | 42272 | [42272-sd-ultra-battle-ultraman-densetsu.json](./42272-sd-ultra-battle-ultraman-densetsu.json) |
 | SD Ultraman's Challenge! Maze Island | 289756 | [289756-sd-ultramans-challenge-maze-island.json](./289756-sd-ultramans-challenge-maze-island.json) |
 | SDI | 12848 | [12848-sdi.json](./12848-sdi.json) |
 | SDI | 198646 | [198646-sdi.json](./198646-sdi.json) |
@@ -10044,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi 2 | 282637 | [282637-shogi-2.json](./282637-shogi-2.json) |
 | Shogi 3 | 282638 | [282638-shogi-3.json](./282638-shogi-3.json) |
 | Shogi 3D | 332907 | [332907-shogi-3d.json](./332907-shogi-3d.json) |
+| Shogi Fuurinkazan | 42285 | [42285-shogi-fuurinkazan.json](./42285-shogi-fuurinkazan.json) |
 | Shogi no Hoshi | 45604 | [45604-shogi-no-hoshi.json](./45604-shogi-no-hoshi.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Revolution Gekisashi 13 | 336108 | [336108-shogi-revolution-gekisashi-13.json](./336108-shogi-revolution-gekisashi-13.json) |
@@ -34186,6 +34189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Big Mega Trucks: Arena | 407910 | [407910-super-big-mega-trucks-arena.json](./407910-super-big-mega-trucks-arena.json) |
 | Super Bike | 42157 | [42157-super-bike.json](./42157-super-bike.json) |
 | Super Bike TransAm | 71804 | [71804-super-bike-transam.json](./71804-super-bike-transam.json) |
+| Super Bikkuriman | 42271 | [42271-super-bikkuriman.json](./42271-super-bikkuriman.json) |
 | Super Bikkuriman: Densetsu no Sekiban | 49138 | [49138-super-bikkuriman-densetsu-no-sekiban.json](./49138-super-bikkuriman-densetsu-no-sekiban.json) |
 | Super Billiards | 47511 | [47511-super-billiards.json](./47511-super-billiards.json) |
 | Super Bio-Man | 265603 | [265603-super-bio-man.json](./265603-super-bio-man.json) |
@@ -34675,6 +34679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
 | Super Dungeon Scoundrel | 396609 | [396609-super-dungeon-scoundrel.json](./396609-super-dungeon-scoundrel.json) |
+| Super Dunk Star | 42270 | [42270-super-dunk-star.json](./42270-super-dunk-star.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Amy Freaking Rose | 370489 | [370489-super-duper-amy-freaking-rose.json](./370489-super-duper-amy-freaking-rose.json) |
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
@@ -34707,6 +34712,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Evolution Illustrated: War World | 201725 | [201725-super-evolution-illustrated-war-world.json](./201725-super-evolution-illustrated-war-world.json) |
 | Super Exploding Zoo | 22775 | [22775-super-exploding-zoo.json](./22775-super-exploding-zoo.json) |
 | Super Extra Team Dungeon Game | 287528 | [287528-super-extra-team-dungeon-game.json](./287528-super-extra-team-dungeon-game.json) |
+| Super F1 Circus | 42269 | [42269-super-f1-circus.json](./42269-super-f1-circus.json) |
+| Super F1 Circus 2 | 42268 | [42268-super-f1-circus-2.json](./42268-super-f1-circus-2.json) |
+| Super F1 Circus 3 | 42267 | [42267-super-f1-circus-3.json](./42267-super-f1-circus-3.json) |
+| Super F1 Circus Gaiden | 42266 | [42266-super-f1-circus-gaiden.json](./42266-super-f1-circus-gaiden.json) |
+| Super F1 Circus Limited | 42265 | [42265-super-f1-circus-limited.json](./42265-super-f1-circus-limited.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars | 38320 | [38320-super-famicom-wars.json](./38320-super-famicom-wars.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
@@ -34737,6 +34747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
 | Super Fights | 287562 | [287562-super-fights.json](./287562-super-fights.json) |
 | Super Filovirus Sisters! | 185451 | [185451-super-filovirus-sisters.json](./185451-super-filovirus-sisters.json) |
+| Super Final Match Tennis | 42264 | [42264-super-final-match-tennis.json](./42264-super-final-match-tennis.json) |
 | Super Final Strike | 255736 | [255736-super-final-strike.json](./255736-super-final-strike.json) |
 | Super Fire Pro Wrestling | 38283 | [38283-super-fire-pro-wrestling.json](./38283-super-fire-pro-wrestling.json) |
 | Super Fire Pro Wrestling 2 | 38284 | [38284-super-fire-pro-wrestling-2.json](./38284-super-fire-pro-wrestling-2.json) |
@@ -36436,6 +36447,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Potato Bruh | 110463 | [110463-super-potato-bruh.json](./110463-super-potato-bruh.json) |
 | Super POTUS Trump | 51591 | [51591-super-potus-trump.json](./51591-super-potus-trump.json) |
 | Super Power 2 | 53687 | [53687-super-power-2.json](./53687-super-power-2.json) |
+| Super Power League | 42263 | [42263-super-power-league.json](./42263-super-power-league.json) |
+| Super Power League 2 | 42262 | [42262-super-power-league-2.json](./42262-super-power-league-2.json) |
+| Super Power League 3 | 42261 | [42261-super-power-league-3.json](./42261-super-power-league-3.json) |
 | Super Power League 4 | 44431 | [44431-super-power-league-4.json](./44431-super-power-league-4.json) |
 | Super Power League FX | 65284 | [65284-super-power-league-fx.json](./65284-super-power-league-fx.json) |
 | Super Power Man | 331631 | [331631-super-power-man.json](./331631-super-power-man.json) |
