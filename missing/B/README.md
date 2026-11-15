@@ -16407,6 +16407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Battle Simulator | 369317 | [369317-brainrot-battle-simulator.json](./369317-brainrot-battle-simulator.json) |
 | Brainrot Clicker: Steal All | 401375 | [401375-brainrot-clicker-steal-all.json](./401375-brainrot-clicker-steal-all.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
+| Brainrot Games | 423938 | [423938-brainrot-games.json](./423938-brainrot-games.json) |
 | Brainrot Kart | 349904 | [349904-brainrot-kart.json](./349904-brainrot-kart.json) |
 | Brainrot Online | 388482 | [388482-brainrot-online.json](./388482-brainrot-online.json) |
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
@@ -17891,6 +17892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Signal Badlands: A World of Desert Adventure | 280292 | [280292-broke-signal-badlands-a-world-of-desert-adventure.json](./280292-broke-signal-badlands-a-world-of-desert-adventure.json) |
 | Broke Street | 421847 | [421847-broke-street.json](./421847-broke-street.json) |
 | Broke Wizards | 411184 | [411184-broke-wizards.json](./411184-broke-wizards.json) |
+| Brokeline | 423844 | [423844-brokeline.json](./423844-brokeline.json) |
 | Broken | 114723 | [114723-broken.json](./114723-broken.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
 | Broken | 232213 | [232213-broken.json](./232213-broken.json) |
@@ -17991,6 +17993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Silence | 183151 | [183151-broken-silence.json](./183151-broken-silence.json) |
 | Broken Skies | 181136 | [181136-broken-skies.json](./181136-broken-skies.json) |
 | Broken Sky | 147237 | [147237-broken-sky.json](./147237-broken-sky.json) |
+| Broken Soccer | 423944 | [423944-broken-soccer.json](./423944-broken-soccer.json) |
 | Broken Soul | 245789 | [245789-broken-soul.json](./245789-broken-soul.json) |
 | Broken Space Traveler | 368697 | [368697-broken-space-traveler.json](./368697-broken-space-traveler.json) |
 | Broken Spectre | 242871 | [242871-broken-spectre.json](./242871-broken-spectre.json) |
