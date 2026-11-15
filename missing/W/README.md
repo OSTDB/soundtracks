@@ -6412,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
 | Winds of Revenge | 25905 | [25905-winds-of-revenge.json](./25905-winds-of-revenge.json) |
 | Winds of Valen | 379327 | [379327-winds-of-valen.json](./379327-winds-of-valen.json) |
+| Winds of Valor | 423343 | [423343-winds-of-valor.json](./423343-winds-of-valor.json) |
 | Winds Rhapsody | 142479 | [142479-winds-rhapsody.json](./142479-winds-rhapsody.json) |
 | Winds Up Kitesurfing | 288462 | [288462-winds-up-kitesurfing.json](./288462-winds-up-kitesurfing.json) |
 | Windscape | 24205 | [24205-windscape.json](./24205-windscape.json) |
@@ -6469,6 +6470,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
 | Wing Commander | 312503 | [312503-wing-commander.json](./312503-wing-commander.json) |
+| Wing Commander | 423353 | [423353-wing-commander.json](./423353-wing-commander.json) |
+| Wing Commander | 423354 | [423354-wing-commander.json](./423354-wing-commander.json) |
 | Wing Commander 1+2 | 154172 | [154172-wing-commander-1-2.json](./154172-wing-commander-1-2.json) |
 | Wing Commander 5: Prophecy - Gold Edition | 51779 | [51779-wing-commander-5-prophecy-gold-edition.json](./51779-wing-commander-5-prophecy-gold-edition.json) |
 | Wing Commander Academy | 14484 | [14484-wing-commander-academy.json](./14484-wing-commander-academy.json) |
@@ -9449,6 +9452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
 | World Reformation Club Feels So Good: Busty JKs Mami & Yuu Will Save the Town! | 82214 | [82214-world-reformation-club-feels-so-good-busty-jks-mami-and-yuu-will-save-the-town.json](./82214-world-reformation-club-feels-so-good-busty-jks-mami-and-yuu-will-save-the-town.json) |
 | World Rescue | 109944 | [109944-world-rescue.json](./109944-world-rescue.json) |
+| World Resetter | 423320 | [423320-world-resetter.json](./423320-world-resetter.json) |
 | World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
 | World Riddles: Seven Wonders | 98155 | [98155-world-riddles-seven-wonders.json](./98155-world-riddles-seven-wonders.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
