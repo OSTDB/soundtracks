@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaacar | 169377 | [169377-zaacar.json](./169377-zaacar.json) |
 | ZaaLord | 136236 | [136236-zaalord.json](./136236-zaalord.json) |
 | Zaam | 122146 | [122146-zaam.json](./122146-zaam.json) |
+| Zaark and the Night Team: The Quest for Patterns and The Search for Symbols | 69985 | [69985-zaark-and-the-night-team-the-quest-for-patterns-and-the-search-for-symbols.json](./69985-zaark-and-the-night-team-the-quest-for-patterns-and-the-search-for-symbols.json) |
 | Zaba the Frog | 55800 | [55800-zaba-the-frog.json](./55800-zaba-the-frog.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zabawa Karaoke | 367920 | [367920-zabawa-karaoke.json](./367920-zabawa-karaoke.json) |
