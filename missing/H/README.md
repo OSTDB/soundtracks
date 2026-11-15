@@ -4709,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Miner | 262813 | [262813-hell-miner.json](./262813-hell-miner.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Mission | 188490 | [188490-hell-mission.json](./188490-hell-mission.json) |
+| Hell n' Slash | 426979 | [426979-hell-n-slash.json](./426979-hell-n-slash.json) |
 | Hell O Corn | 223306 | [223306-hell-o-corn.json](./223306-hell-o-corn.json) |
 | Hell O’ Halo | 412473 | [412473-hell-o-halo.json](./412473-hell-o-halo.json) |
 | Hell of a Birthday | 338614 | [338614-hell-of-a-birthday.json](./338614-hell-of-a-birthday.json) |
@@ -11685,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse World | 106123 | [106123-horse-world.json](./106123-horse-world.json) |
 | Horse-o-Chess | 209796 | [209796-horse-o-chess.json](./209796-horse-o-chess.json) |
 | HorseGame | 126324 | [126324-horsegame.json](./126324-horsegame.json) |
+| Horseland | 426971 | [426971-horseland.json](./426971-horseland.json) |
 | Horses | 265637 | [265637-horses.json](./265637-horses.json) |
 | Horses 2025 | 394645 | [394645-horses-2025.json](./394645-horses-2025.json) |
 | Horses 3D | 47637 | [47637-horses-3d.json](./47637-horses-3d.json) |
@@ -12164,6 +12166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
+| Hotar | 426981 | [426981-hotar.json](./426981-hotar.json) |
 | Hotaru | 127498 | [127498-hotaru.json](./127498-hotaru.json) |
 | Hotball | 91663 | [91663-hotball.json](./91663-hotball.json) |
 | HotBlood Drift | 233168 | [233168-hotblood-drift.json](./233168-hotblood-drift.json) |
