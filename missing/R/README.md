@@ -3158,7 +3158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready, Steady, Cook: The Game | 67738 | [67738-ready-steady-cook-the-game.json](./67738-ready-steady-cook-the-game.json) |
 | Ready, Steady, Ship! | 235535 | [235535-ready-steady-ship.json](./235535-ready-steady-ship.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
-| ReadySet Heroes | 116586 | [116586-readyset-heroes.json](./116586-readyset-heroes.json) |
 | Readyyy! | 270757 | [270757-readyyy.json](./270757-readyyy.json) |
 | Reagan Gorbachev | 35414 | [35414-reagan-gorbachev.json](./35414-reagan-gorbachev.json) |
 | Reah: Face the Unknown | 70448 | [70448-reah-face-the-unknown.json](./70448-reah-face-the-unknown.json) |
@@ -5614,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remonstrator | 334019 | [334019-remonstrator.json](./334019-remonstrator.json) |
 | Remont Soyuz | 181172 | [181172-remont-soyuz.json](./181172-remont-soyuz.json) |
 | Remoove | 67909 | [67909-remoove.json](./67909-remoove.json) |
+| Remoove 2 | 68862 | [68862-remoove-2.json](./68862-remoove-2.json) |
 | Remore: Infested Kingdom | 244947 | [244947-remore-infested-kingdom.json](./244947-remore-infested-kingdom.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
