@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Viking Days | 103756 | [103756-viking-days.json](./103756-viking-days.json) |
 | Viking Days Remaster | 327649 | [327649-viking-days-remaster.json](./327649-viking-days-remaster.json) |
+| Viking Democracy | 56693 | [56693-viking-democracy.json](./56693-viking-democracy.json) |
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
 | Viking Escape | 30559 | [30559-viking-escape.json](./30559-viking-escape.json) |
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
@@ -3221,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus L | 128118 | [128118-virus-l.json](./128118-virus-l.json) |
 | Virus LQP-79 | 281244 | [281244-virus-lqp-79.json](./281244-virus-lqp-79.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
+| Virus of Survivors: Life Simulator | 56669 | [56669-virus-of-survivors-life-simulator.json](./56669-virus-of-survivors-life-simulator.json) |
 | Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
 | Virus Petya | 86288 | [86288-virus-petya.json](./86288-virus-petya.json) |
 | Virus Popper | 142210 | [142210-virus-popper.json](./142210-virus-popper.json) |
