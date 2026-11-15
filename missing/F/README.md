@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Hostel | 166628 | [166628-fake-hostel.json](./166628-fake-hostel.json) |
 | Fake Illusions | 137430 | [137430-fake-illusions.json](./137430-fake-illusions.json) |
 | Fake Lay | 98501 | [98501-fake-lay.json](./98501-fake-lay.json) |
+| Fake Me | 429381 | [429381-fake-me.json](./429381-fake-me.json) |
 | Fake News | 184789 | [184789-fake-news.json](./184789-fake-news.json) |
 | Fake Racing | 150861 | [150861-fake-racing.json](./150861-fake-racing.json) |
 | Fake Roads | 399960 | [399960-fake-roads.json](./399960-fake-roads.json) |
@@ -3958,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
 | Fear Me: The Silent | 331355 | [331355-fear-me-the-silent.json](./331355-fear-me-the-silent.json) |
+| Fear Night Tales: Camp Story | 429363 | [429363-fear-night-tales-camp-story.json](./429363-fear-night-tales-camp-story.json) |
 | Fear Night Tales: Do You Like Coffee? | 389521 | [389521-fear-night-tales-do-you-like-coffee.json](./389521-fear-night-tales-do-you-like-coffee.json) |
 | Fear Odyssey | 290887 | [290887-fear-odyssey.json](./290887-fear-odyssey.json) |
 | Fear of Biosec | 332537 | [332537-fear-of-biosec.json](./332537-fear-of-biosec.json) |
@@ -5932,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Paradox | 280351 | [280351-final-paradox.json](./280351-final-paradox.json) |
 | Final Passage | 370844 | [370844-final-passage.json](./370844-final-passage.json) |
 | Final Payload | 394502 | [394502-final-payload.json](./394502-final-payload.json) |
+| Final Pillar | 429356 | [429356-final-pillar.json](./429356-final-pillar.json) |
 | Final Pilot | 152559 | [152559-final-pilot.json](./152559-final-pilot.json) |
 | Final Profit: A Shop RPG | 196721 | [196721-final-profit-a-shop-rpg.json](./196721-final-profit-a-shop-rpg.json) |
 | Final Project | 249676 | [249676-final-project.json](./249676-final-project.json) |
@@ -11115,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not | 47269 | [47269-forget-me-not.json](./47269-forget-me-not.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forget-Me-Not R | 210561 | [210561-forget-me-not-r.json](./210561-forget-me-not-r.json) |
+| ForgeTax | 429391 | [429391-forgetax.json](./429391-forgetax.json) |
 | Forgetful Dictator | 120083 | [120083-forgetful-dictator.json](./120083-forgetful-dictator.json) |
 | Forgetmenots | 341857 | [341857-forgetmenots.json](./341857-forgetmenots.json) |
 | Forgetter | 151280 | [151280-forgetter.json](./151280-forgetter.json) |
