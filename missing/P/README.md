@@ -6321,6 +6321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix | 55015 | [55015-phoenix.json](./55015-phoenix.json) |
 | Phoenix | 71477 | [71477-phoenix.json](./71477-phoenix.json) |
 | Phoenix 2 | 275718 | [275718-phoenix-2.json](./275718-phoenix-2.json) |
+| Phoenix 3 | 4252 | [4252-phoenix-3.json](./4252-phoenix-3.json) |
 | Phoenix Assault | 209970 | [209970-phoenix-assault.json](./209970-phoenix-assault.json) |
 | Phoenix Contract | 322588 | [322588-phoenix-contract.json](./322588-phoenix-contract.json) |
 | Phoenix Drive | 97746 | [97746-phoenix-drive.json](./97746-phoenix-drive.json) |
@@ -20131,6 +20132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
 | Putt-Putt: Pep's Birthday Surprise | 3740 | [3740-putt-putt-peps-birthday-surprise.json](./3740-putt-putt-peps-birthday-surprise.json) |
 | Putt-Putt's Fun House | 242140 | [242140-putt-putts-fun-house.json](./242140-putt-putts-fun-house.json) |
+| Putt-Putt's Fun Pack | 4253 | [4253-putt-putts-fun-pack.json](./4253-putt-putts-fun-pack.json) |
 | Putt.day | 413151 | [413151-putt-day.json](./413151-putt-day.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
 | Putter Golf | 45714 | [45714-putter-golf.json](./45714-putter-golf.json) |
@@ -20163,6 +20165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
 | Puyo Puyo Champions | 109577 | [109577-puyo-puyo-champions.json](./109577-puyo-puyo-champions.json) |
 | Puyo Puyo Chronicle | 57874 | [57874-puyo-puyo-chronicle.json](./57874-puyo-puyo-chronicle.json) |
+| Puyo Puyo Da! | 4353 | [4353-puyo-puyo-da.json](./4353-puyo-puyo-da.json) |
 | Puyo Puyo DX | 251498 | [251498-puyo-puyo-dx.json](./251498-puyo-puyo-dx.json) |
 | Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
 | Puyo Puyo Fever Rhythm | 252126 | [252126-puyo-puyo-fever-rhythm.json](./252126-puyo-puyo-fever-rhythm.json) |
@@ -21041,6 +21044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Exit | 378422 | [378422-pyramid-exit.json](./378422-pyramid-exit.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramid Magic | 45751 | [45751-pyramid-magic.json](./45751-pyramid-magic.json) |
+| Pyramid Magic II | 4374 | [4374-pyramid-magic-ii.json](./4374-pyramid-magic-ii.json) |
 | Pyramid Magic III | 45750 | [45750-pyramid-magic-iii.json](./45750-pyramid-magic-iii.json) |
 | Pyramid Magic Special | 4428 | [4428-pyramid-magic-special.json](./4428-pyramid-magic-special.json) |
 | Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
