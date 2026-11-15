@@ -7237,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Chambers | 253999 | [253999-golden-chambers.json](./253999-golden-chambers.json) |
 | Golden Desire: Fantasy Romance | 357123 | [357123-golden-desire-fantasy-romance.json](./357123-golden-desire-fantasy-romance.json) |
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
+| Golden Eagle | 13295 | [13295-golden-eagle.json](./13295-golden-eagle.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
 | Golden Eggs | 103158 | [103158-golden-eggs.json](./103158-golden-eggs.json) |
 | Golden Fall | 120140 | [120140-golden-fall.json](./120140-golden-fall.json) |
