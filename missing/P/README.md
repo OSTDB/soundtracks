@@ -11549,6 +11549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Land | 255808 | [255808-pocket-land.json](./255808-pocket-land.json) |
 | Pocket Lands | 183473 | [183473-pocket-lands.json](./183473-pocket-lands.json) |
 | Pocket Lands | 377647 | [377647-pocket-lands.json](./377647-pocket-lands.json) |
+| Pocket League Story | 65685 | [65685-pocket-league-story.json](./65685-pocket-league-story.json) |
 | Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
 | Pocket Legends | 22969 | [22969-pocket-legends.json](./22969-pocket-legends.json) |
 | Pocket Legends Adventures | 77609 | [77609-pocket-legends-adventures.json](./77609-pocket-legends-adventures.json) |
