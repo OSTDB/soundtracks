@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
 | Eizoku | 134519 | [134519-eizoku.json](./134519-eizoku.json) |
 | EJ Puzzles: Hooked | 85106 | [85106-ej-puzzles-hooked.json](./85106-ej-puzzles-hooked.json) |
+| Ejay Clubworld | 43610 | [43610-ejay-clubworld.json](./43610-ejay-clubworld.json) |
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
 | Ejected Star | 217120 | [217120-ejected-star.json](./217120-ejected-star.json) |
 | Ejihon Tantei Jimusho | 107588 | [107588-ejihon-tantei-jimusho.json](./107588-ejihon-tantei-jimusho.json) |
