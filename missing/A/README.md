@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Dark | 270865 | [270865-abandoned-dark.json](./270865-abandoned-dark.json) |
 | Abandoned Drive-in | 234018 | [234018-abandoned-drive-in.json](./234018-abandoned-drive-in.json) |
 | Abandoned Ecosystem | 377427 | [377427-abandoned-ecosystem.json](./377427-abandoned-ecosystem.json) |
+| Abandoned Hearts | 427596 | [427596-abandoned-hearts.json](./427596-abandoned-hearts.json) |
 | Abandoned Hospital | 377426 | [377426-abandoned-hospital.json](./377426-abandoned-hospital.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
 | Abandoned Hut | 303117 | [303117-abandoned-hut.json](./303117-abandoned-hut.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abejuela's Power: The Game | 312930 | [312930-abejuelas-power-the-game.json](./312930-abejuelas-power-the-game.json) |
 | Abel | 256472 | [256472-abel.json](./256472-abel.json) |
 | Abel: Shin Mokushiroku Taisen | 299785 | [299785-abel-shin-mokushiroku-taisen.json](./299785-abel-shin-mokushiroku-taisen.json) |
+| Abel's Death: The Gravedigger | 427554 | [427554-abels-death-the-gravedigger.json](./427554-abels-death-the-gravedigger.json) |
 | Abelana's Atom Maker | 157381 | [157381-abelanas-atom-maker.json](./157381-abelanas-atom-maker.json) |
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
 | Abelina | 377433 | [377433-abelina.json](./377433-abelina.json) |
@@ -14963,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcArg | 337968 | [337968-arcarg.json](./337968-arcarg.json) |
 | Arcas Champions | 336158 | [336158-arcas-champions.json](./336158-arcas-champions.json) |
 | Arcatera: The Dark Brotherhood | 24134 | [24134-arcatera-the-dark-brotherhood.json](./24134-arcatera-the-dark-brotherhood.json) |
+| Arcath Tales | 427598 | [427598-arcath-tales.json](./427598-arcath-tales.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
 | Arcatron-Z | 252596 | [252596-arcatron-z.json](./252596-arcatron-z.json) |
 | Arcaxer | 145565 | [145565-arcaxer.json](./145565-arcaxer.json) |
