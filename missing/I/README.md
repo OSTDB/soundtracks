@@ -5230,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Anastasia | 356833 | [356833-instant-anastasia.json](./356833-instant-anastasia.json) |
 | Instant Armory | 303587 | [303587-instant-armory.json](./303587-instant-armory.json) |
 | Instant Artist: Puzzle Mashup | 193016 | [193016-instant-artist-puzzle-mashup.json](./193016-instant-artist-puzzle-mashup.json) |
+| Instant Brain | 47483 | [47483-instant-brain.json](./47483-instant-brain.json) |
 | Instant Chef Party | 139570 | [139570-instant-chef-party.json](./139570-instant-chef-party.json) |
 | Instant Chess | 107029 | [107029-instant-chess.json](./107029-instant-chess.json) |
 | Instant Death | 81999 | [81999-instant-death.json](./81999-instant-death.json) |
