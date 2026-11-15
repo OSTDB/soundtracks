@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: The X | 57725 | [57725-haunted-hotel-the-x.json](./57725-haunted-hotel-the-x.json) |
 | Haunted Hotel: The X - Collector's Edition | 154920 | [154920-haunted-hotel-the-x-collectors-edition.json](./154920-haunted-hotel-the-x-collectors-edition.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
+| Haunted House | 11517 | [11517-haunted-house.json](./11517-haunted-house.json) |
 | Haunted House | 229763 | [229763-haunted-house.json](./229763-haunted-house.json) |
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
@@ -4309,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegemony Rome: Rise of Caesar | 54099 | [54099-hegemony-rome-rise-of-caesar.json](./54099-hegemony-rome-rise-of-caesar.json) |
 | Hegemony Rome: The Rise of Caesar | 10406 | [10406-hegemony-rome-the-rise-of-caesar.json](./10406-hegemony-rome-the-rise-of-caesar.json) |
 | Hegemony Rome: The Rise of Caesar - Bannermen Pack | 265250 | [265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json](./265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json) |
+| Hegemony: Philip of Macedon | 11523 | [11523-hegemony-philip-of-macedon.json](./11523-hegemony-philip-of-macedon.json) |
 | Heggo | 356022 | [356022-heggo.json](./356022-heggo.json) |
 | Hegis' Grasp: Evil Resurrected | 55704 | [55704-hegis-grasp-evil-resurrected.json](./55704-hegis-grasp-evil-resurrected.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
@@ -9730,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
 | Hoccer | 39311 | [39311-hoccer.json](./39311-hoccer.json) |
 | Hock | 427835 | [427835-hock.json](./427835-hock.json) |
+| Hockey | 11534 | [11534-hockey.json](./11534-hockey.json) |
 | Hockey | 131074 | [131074-hockey.json](./131074-hockey.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
