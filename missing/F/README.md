@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farkeep | 171808 | [171808-farkeep.json](./171808-farkeep.json) |
 | Farkle Blast - Best Dice Betting Game | 87929 | [87929-farkle-blast-best-dice-betting-game.json](./87929-farkle-blast-best-dice-betting-game.json) |
 | Farkle Dice | 175607 | [175607-farkle-dice.json](./175607-farkle-dice.json) |
+| Farkle Friends | 68831 | [68831-farkle-friends.json](./68831-farkle-friends.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle mania | 232290 | [232290-farkle-mania.json](./232290-farkle-mania.json) |
 | Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
@@ -10674,6 +10675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force Escape | 91285 | [91285-force-escape.json](./91285-force-escape.json) |
 | Force Fighter | 14076 | [14076-force-fighter.json](./14076-force-fighter.json) |
 | Force Five | 39441 | [39441-force-five.json](./39441-force-five.json) |
+| Force of Arms | 67722 | [67722-force-of-arms.json](./67722-force-of-arms.json) |
 | Force Of Guardians | 325736 | [325736-force-of-guardians.json](./325736-force-of-guardians.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force of Numbers | 309521 | [309521-force-of-numbers.json](./309521-force-of-numbers.json) |
@@ -11217,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Simulator 2023 | 255158 | [255158-forklift-simulator-2023.json](./255158-forklift-simulator-2023.json) |
 | Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
 | Forklift Truck Simulator | 53065 | [53065-forklift-truck-simulator.json](./53065-forklift-truck-simulator.json) |
+| Forklift Truck Simulator 2009 | 67719 | [67719-forklift-truck-simulator-2009.json](./67719-forklift-truck-simulator-2009.json) |
 | Forklift Truck: The Simulation | 10330 | [10330-forklift-truck-the-simulation.json](./10330-forklift-truck-the-simulation.json) |
 | Forklift: Simulator | 344425 | [344425-forklift-simulator.json](./344425-forklift-simulator.json) |
 | Forklift: The Simulation | 125684 | [125684-forklift-the-simulation.json](./125684-forklift-the-simulation.json) |
