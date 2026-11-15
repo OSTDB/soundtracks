@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Atsume 2 | 288044 | [288044-neko-atsume-2.json](./288044-neko-atsume-2.json) |
 | Neko Atsume Purrfect | 279412 | [279412-neko-atsume-purrfect.json](./279412-neko-atsume-purrfect.json) |
 | Neko Atsume VR | 68317 | [68317-neko-atsume-vr.json](./68317-neko-atsume-vr.json) |
+| Neko Atsume: Kitty Collector | 15699 | [15699-neko-atsume-kitty-collector.json](./15699-neko-atsume-kitty-collector.json) |
 | Neko Atsume: Kitty Collector+ | 240858 | [240858-neko-atsume-kitty-collector.json](./240858-neko-atsume-kitty-collector.json) |
 | Neko Beach | 153068 | [153068-neko-beach.json](./153068-neko-beach.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
 | NHL Hockey | 210499 | [210499-nhl-hockey.json](./210499-nhl-hockey.json) |
+| NHL Hockey | 27062 | [27062-nhl-hockey.json](./27062-nhl-hockey.json) |
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
 | NHL Open Ice | 209404 | [209404-nhl-open-ice.json](./209404-nhl-open-ice.json) |
 | NHL Powerplay '96 | 45122 | [45122-nhl-powerplay-96.json](./45122-nhl-powerplay-96.json) |
@@ -5197,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares and Other True Stories | 229725 | [229725-nightmares-and-other-true-stories.json](./229725-nightmares-and-other-true-stories.json) |
 | Nightmares Awake | 340279 | [340279-nightmares-awake.json](./340279-nightmares-awake.json) |
 | Nightmares Before Disney | 242467 | [242467-nightmares-before-disney.json](./242467-nightmares-before-disney.json) |
+| Nightmares from the Deep 2: The Siren's Call | 17139 | [17139-nightmares-from-the-deep-2-the-sirens-call.json](./17139-nightmares-from-the-deep-2-the-sirens-call.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
 | Nightmares from the Deep Collection | 53419 | [53419-nightmares-from-the-deep-collection.json](./53419-nightmares-from-the-deep-collection.json) |
 | Nightmares from the Deep: A Hidden Object Adventure | 124990 | [124990-nightmares-from-the-deep-a-hidden-object-adventure.json](./124990-nightmares-from-the-deep-a-hidden-object-adventure.json) |
