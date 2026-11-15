@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
 | Eclipse: Shine of Dawn | 219246 | [219246-eclipse-shine-of-dawn.json](./219246-eclipse-shine-of-dawn.json) |
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
+| Eclipsed | 33592 | [33592-eclipsed.json](./33592-eclipsed.json) |
 | Eclipsed Realms | 385913 | [385913-eclipsed-realms.json](./385913-eclipsed-realms.json) |
 | Eclipsed Remnant | 385912 | [385912-eclipsed-remnant.json](./385912-eclipsed-remnant.json) |
 | Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
@@ -4137,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Bounty | 135645 | [135645-endless-bounty.json](./135645-endless-bounty.json) |
 | Endless Bullet Heaven | 199694 | [199694-endless-bullet-heaven.json](./199694-endless-bullet-heaven.json) |
 | Endless Bundle | 335610 | [335610-endless-bundle.json](./335610-endless-bundle.json) |
+| Endless Burst | 33547 | [33547-endless-burst.json](./33547-endless-burst.json) |
 | Endless Car Chase | 116773 | [116773-endless-car-chase.json](./116773-endless-car-chase.json) |
 | Endless Casual Drive | 301276 | [301276-endless-casual-drive.json](./301276-endless-casual-drive.json) |
 | Endless Champion | 193931 | [193931-endless-champion.json](./193931-endless-champion.json) |
