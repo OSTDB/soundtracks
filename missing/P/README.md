@@ -2920,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle Hearts | 208570 | [208570-particle-hearts.json](./208570-particle-hearts.json) |
 | Particle Mace | 17304 | [17304-particle-mace.json](./17304-particle-mace.json) |
 | Particle of God | 217223 | [217223-particle-of-god.json](./217223-particle-of-god.json) |
+| Particle Storm | 422212 | [422212-particle-storm.json](./422212-particle-storm.json) |
 | Particle Wars | 123840 | [123840-particle-wars.json](./123840-particle-wars.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particubes | 151086 | [151086-particubes.json](./151086-particubes.json) |
@@ -10362,6 +10363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Mort | 286902 | [286902-planet-mort.json](./286902-planet-mort.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
 | Planet Nine | 417290 | [417290-planet-nine.json](./417290-planet-nine.json) |
+| Planet No More | 422218 | [422218-planet-no-more.json](./422218-planet-no-more.json) |
 | Planet Nomads | 11350 | [11350-planet-nomads.json](./11350-planet-nomads.json) |
 | Planet of a Poisoned Past | 141750 | [141750-planet-of-a-poisoned-past.json](./141750-planet-of-a-poisoned-past.json) |
 | Planet of Blood Thirsty Santa | 125261 | [125261-planet-of-blood-thirsty-santa.json](./125261-planet-of-blood-thirsty-santa.json) |
@@ -20915,6 +20917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
 | Puzzles By Axis | 86415 | [86415-puzzles-by-axis.json](./86415-puzzles-by-axis.json) |
 | Puzzles By Axis Hyper | 104923 | [104923-puzzles-by-axis-hyper.json](./104923-puzzles-by-axis-hyper.json) |
+| Puzzles Desert | 422047 | [422047-puzzles-desert.json](./422047-puzzles-desert.json) |
 | Puzzles Dino | 414501 | [414501-puzzles-dino.json](./414501-puzzles-dino.json) |
 | Puzzles For Clef | 190917 | [190917-puzzles-for-clef.json](./190917-puzzles-for-clef.json) |
 | Puzzles for kids - Animal Puzzles | 93702 | [93702-puzzles-for-kids-animal-puzzles.json](./93702-puzzles-for-kids-animal-puzzles.json) |
