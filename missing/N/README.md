@@ -6446,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
 | No More Snow | 176548 | [176548-no-more-snow.json](./176548-no-more-snow.json) |
+| No More Stumpie-Wumples | 73910 | [73910-no-more-stumpie-wumples.json](./73910-no-more-stumpie-wumples.json) |
 | No More Surffer | 150768 | [150768-no-more-surffer.json](./150768-no-more-surffer.json) |
 | No More Work for Ito | 373056 | [373056-no-more-work-for-ito.json](./373056-no-more-work-for-ito.json) |
 | No Mosaic Girls With Sess-AI 2.0 | 346008 | [346008-no-mosaic-girls-with-sess-ai-2-0.json](./346008-no-mosaic-girls-with-sess-ai-2-0.json) |
