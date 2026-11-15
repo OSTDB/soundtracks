@@ -3847,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pay to Slay | 403878 | [403878-pay-to-slay.json](./403878-pay-to-slay.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | Pay Your Space Debt | 404019 | [404019-pay-your-space-debt.json](./404019-pay-your-space-debt.json) |
+| Pay2Win: The Tricks Exposed | 34100 | [34100-pay2win-the-tricks-exposed.json](./34100-pay2win-the-tricks-exposed.json) |
 | PayaPaya | 243724 | [243724-payapaya.json](./243724-payapaya.json) |
 | Payasos & Balazos | 373828 | [373828-payasos-and-balazos.json](./373828-payasos-and-balazos.json) |
 | Payback | 387404 | [387404-payback.json](./387404-payback.json) |
@@ -10311,6 +10312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Harriers | 72972 | [72972-planet-harriers.json](./72972-planet-harriers.json) |
 | Planet Hoarders | 356953 | [356953-planet-hoarders.json](./356953-planet-hoarders.json) |
 | Planet Hop | 158082 | [158082-planet-hop.json](./158082-planet-hop.json) |
+| Planet Horse | 87449 | [87449-planet-horse.json](./87449-planet-horse.json) |
 | Planet Hotpot | 173241 | [173241-planet-hotpot.json](./173241-planet-hotpot.json) |
 | Planet in the Shadows | 33362 | [33362-planet-in-the-shadows.json](./33362-planet-in-the-shadows.json) |
 | Planet Invasion | 70954 | [70954-planet-invasion.json](./70954-planet-invasion.json) |
@@ -13844,6 +13846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Ping | 238352 | [238352-pong-ping.json](./238352-pong-ping.json) |
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
 | Pong Pong Crows | 367077 | [367077-pong-pong-crows.json](./367077-pong-pong-crows.json) |
+| Pong Pong Egg | 95091 | [95091-pong-pong-egg.json](./95091-pong-pong-egg.json) |
 | Pong Pong's Learning Adventure: Animals | 361609 | [361609-pong-pongs-learning-adventure-animals.json](./361609-pong-pongs-learning-adventure-animals.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
 | Pong Pong's Learning Adventure: Mysteries of Human Body | 188076 | [188076-pong-pongs-learning-adventure-mysteries-of-human-body.json](./188076-pong-pongs-learning-adventure-mysteries-of-human-body.json) |
@@ -19794,6 +19797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Mini Golf and Pool Puzzles Bundle | 266063 | [266063-pure-mini-golf-and-pool-puzzles-bundle.json](./266063-pure-mini-golf-and-pool-puzzles-bundle.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
+| Pure Pinball | 5995 | [5995-pure-pinball.json](./5995-pure-pinball.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
 | Pure Pinball: American Pinball Reborn | 209750 | [209750-pure-pinball-american-pinball-reborn.json](./209750-pure-pinball-american-pinball-reborn.json) |
 | Pure Pool Pro | 347286 | [347286-pure-pool-pro.json](./347286-pure-pool-pro.json) |
