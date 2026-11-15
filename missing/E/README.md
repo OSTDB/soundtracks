@@ -8638,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Planet | 64292 | [64292-exo-planet.json](./64292-exo-planet.json) |
 | EXO-Roid | 408463 | [408463-exo-roid.json](./408463-exo-roid.json) |
 | Exo-Ship Saga | 172537 | [172537-exo-ship-saga.json](./172537-exo-ship-saga.json) |
+| Exo-Squad | 45631 | [45631-exo-squad.json](./45631-exo-squad.json) |
 | Exo-tical | 334866 | [334866-exo-tical.json](./334866-exo-tical.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | Exobiota | 398376 | [398376-exobiota.json](./398376-exobiota.json) |
