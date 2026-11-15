@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie World | 93791 | [93791-zombie-world.json](./93791-zombie-world.json) |
 | Zombie World Apocalypse VR | 127576 | [127576-zombie-world-apocalypse-vr.json](./127576-zombie-world-apocalypse-vr.json) |
 | Zombie World Pixel | 231584 | [231584-zombie-world-pixel.json](./231584-zombie-world-pixel.json) |
+| Zombie Wranglers | 51623 | [51623-zombie-wranglers.json](./51623-zombie-wranglers.json) |
 | Zombie Wrap Simulator | 416341 | [416341-zombie-wrap-simulator.json](./416341-zombie-wrap-simulator.json) |
 | Zombie Zoeds | 35346 | [35346-zombie-zoeds.json](./35346-zombie-zoeds.json) |
 | Zombie Zombie | 316091 | [316091-zombie-zombie.json](./316091-zombie-zombie.json) |
