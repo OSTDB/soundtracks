@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills BMX | 58787 | [58787-mad-skills-bmx.json](./58787-mad-skills-bmx.json) |
 | Mad Skills BMX 2 | 356519 | [356519-mad-skills-bmx-2.json](./356519-mad-skills-bmx-2.json) |
 | Mad Skills BMX 2 | 58785 | [58785-mad-skills-bmx-2.json](./58785-mad-skills-bmx-2.json) |
+| Mad Skills Motocross | 25274 | [25274-mad-skills-motocross.json](./25274-mad-skills-motocross.json) |
 | Mad Skills Motocross 2 | 103626 | [103626-mad-skills-motocross-2.json](./103626-mad-skills-motocross-2.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Mad Skills Motocross: Chasing the Dream | 292230 | [292230-mad-skills-motocross-chasing-the-dream.json](./292230-mad-skills-motocross-chasing-the-dream.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cards Solitaire | 295443 | [295443-magic-cards-solitaire.json](./295443-magic-cards-solitaire.json) |
 | Magic Cards Solitaire 2: The Fountain of Life | 274915 | [274915-magic-cards-solitaire-2-the-fountain-of-life.json](./274915-magic-cards-solitaire-2-the-fountain-of-life.json) |
 | Magic Carousel | 41468 | [41468-magic-carousel.json](./41468-magic-carousel.json) |
+| Magic Carpet | 26003 | [26003-magic-carpet.json](./26003-magic-carpet.json) |
 | Magic Carpet 1001 | 222580 | [222580-magic-carpet-1001.json](./222580-magic-carpet-1001.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Carpet Ride | 289116 | [289116-magic-carpet-ride.json](./289116-magic-carpet-ride.json) |
@@ -7435,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
 | Mech Attack | 364752 | [364752-mech-attack.json](./364752-mech-attack.json) |
 | Mech Battle | 417137 | [417137-mech-battle.json](./417137-mech-battle.json) |
+| Mech Brigade | 26014 | [26014-mech-brigade.json](./26014-mech-brigade.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Builder | 292277 | [292277-mech-builder.json](./292277-mech-builder.json) |
 | Mech Chip | 114087 | [114087-mech-chip.json](./114087-mech-chip.json) |
