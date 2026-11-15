@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Swirl | 259693 | [259693-magical-swirl.json](./259693-magical-swirl.json) |
 | Magical Swordmaiden: Riru's Grand Adventure | 161463 | [161463-magical-swordmaiden-rirus-grand-adventure.json](./161463-magical-swordmaiden-rirus-grand-adventure.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
+| Magical Taluluto-kun | 45616 | [45616-magical-taluluto-kun.json](./45616-magical-taluluto-kun.json) |
 | Magical Taluluto-kun | 49074 | [49074-magical-taluluto-kun.json](./49074-magical-taluluto-kun.json) |
 | Magical Taluluto-kun 2: Magical Adventure | 48432 | [48432-magical-taluluto-kun-2-magical-adventure.json](./48432-magical-taluluto-kun-2-magical-adventure.json) |
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
@@ -2141,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Collection | 110813 | [110813-mahjong-collection.json](./110813-mahjong-collection.json) |
 | Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
 | Mahjong Cop Ryuu: Hakurou no Yabou | 27990 | [27990-mahjong-cop-ryuu-hakurou-no-yabou.json](./27990-mahjong-cop-ryuu-hakurou-no-yabou.json) |
+| Mahjong Cop Ryuu: Shiro Ookami no Yabou | 45614 | [45614-mahjong-cop-ryuu-shiro-ookami-no-yabou.json](./45614-mahjong-cop-ryuu-shiro-ookami-no-yabou.json) |
 | Mahjong Crimes | 91080 | [91080-mahjong-crimes.json](./91080-mahjong-crimes.json) |
 | Mahjong Cub3d | 6846 | [6846-mahjong-cub3d.json](./6846-mahjong-cub3d.json) |
 | Mahjong Daiyogen | 56054 | [56054-mahjong-daiyogen.json](./56054-mahjong-daiyogen.json) |
@@ -12845,6 +12847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
 | Mighty Guy | 205720 | [205720-mighty-guy.json](./205720-mighty-guy.json) |
 | Mighty Heroes | 125995 | [125995-mighty-heroes.json](./125995-mighty-heroes.json) |
+| Mighty Hits | 45487 | [45487-mighty-hits.json](./45487-mighty-hits.json) |
 | Mighty Hits Special | 80172 | [80172-mighty-hits-special.json](./80172-mighty-hits-special.json) |
 | Mighty Jill Off | 72696 | [72696-mighty-jill-off.json](./72696-mighty-jill-off.json) |
 | Mighty Kingdom | 360638 | [360638-mighty-kingdom.json](./360638-mighty-kingdom.json) |
