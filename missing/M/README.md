@@ -13488,6 +13488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Man | 217185 | [217185-mimic-man.json](./217185-mimic-man.json) |
 | Mimic Meadows | 403328 | [403328-mimic-meadows.json](./403328-mimic-meadows.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
+| Mimic Party: Halloween | 422767 | [422767-mimic-party-halloween.json](./422767-mimic-party-halloween.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
 | Mimic Warehouse | 346649 | [346649-mimic-warehouse.json](./346649-mimic-warehouse.json) |
