@@ -8273,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Dizzy Driving | 136999 | [136999-looney-tunes-dizzy-driving.json](./136999-looney-tunes-dizzy-driving.json) |
 | Looney Tunes: Duck Amuck | 8134 | [8134-looney-tunes-duck-amuck.json](./8134-looney-tunes-duck-amuck.json) |
 | Looney Tunes: Road Rally Riot | 217947 | [217947-looney-tunes-road-rally-riot.json](./217947-looney-tunes-road-rally-riot.json) |
+| Looney Tunes: Road Runner | 42286 | [42286-looney-tunes-road-runner.json](./42286-looney-tunes-road-runner.json) |
 | Looney Tunes: Road Runner & Wile E. Coyote | 281879 | [281879-looney-tunes-road-runner-and-wile-e-coyote.json](./281879-looney-tunes-road-runner-and-wile-e-coyote.json) |
 | Looney Tunes: Space Race | 8136 | [8136-looney-tunes-space-race.json](./8136-looney-tunes-space-race.json) |
 | Looney Tunes: Twouble! | 49996 | [49996-looney-tunes-twouble.json](./49996-looney-tunes-twouble.json) |
