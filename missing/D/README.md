@@ -4274,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 3: Scarlet | 112407 | [112407-dead-or-alive-xtreme-3-scarlet.json](./112407-dead-or-alive-xtreme-3-scarlet.json) |
 | Dead or Alive Xtreme 3: Scarlet - Collector's Edition | 136672 | [136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json](./136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Venus | 24198 | [24198-dead-or-alive-xtreme-3-venus.json](./24198-dead-or-alive-xtreme-3-venus.json) |
+| Dead or Alive Xtreme Beach Volleyball | 1390 | [1390-dead-or-alive-xtreme-beach-volleyball.json](./1390-dead-or-alive-xtreme-beach-volleyball.json) |
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
 | Dead or Alive: Code Chronos | 205644 | [205644-dead-or-alive-code-chronos.json](./205644-dead-or-alive-code-chronos.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
@@ -14346,6 +14347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong "Special Edition" | 305301 | [305301-donkey-kong-special-edition.json](./305301-donkey-kong-special-edition.json) |
 | Donkey Kong 2 | 247404 | [247404-donkey-kong-2.json](./247404-donkey-kong-2.json) |
 | Donkey Kong 2: The Rise of Jumpman! | 234768 | [234768-donkey-kong-2-the-rise-of-jumpman.json](./234768-donkey-kong-2-the-rise-of-jumpman.json) |
+| Donkey Kong 3 | 1088 | [1088-donkey-kong-3.json](./1088-donkey-kong-3.json) |
 | Donkey Kong 3 | 145239 | [145239-donkey-kong-3.json](./145239-donkey-kong-3.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
 | Donkey Kong 3 | 231747 | [231747-donkey-kong-3.json](./231747-donkey-kong-3.json) |
