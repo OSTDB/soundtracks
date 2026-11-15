@@ -7212,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Heart: Pylon Wars | 38508 | [38508-demon-heart-pylon-wars.json](./38508-demon-heart-pylon-wars.json) |
 | Demon Hearts | 35313 | [35313-demon-hearts.json](./35313-demon-hearts.json) |
 | Demon Hentai Slayer | 235784 | [235784-demon-hentai-slayer.json](./235784-demon-hentai-slayer.json) |
+| Demon Horde Master | 35004 | [35004-demon-horde-master.json](./35004-demon-horde-master.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter | 117579 | [117579-demon-hunter.json](./117579-demon-hunter.json) |
 | Demon Hunter | 208747 | [208747-demon-hunter.json](./208747-demon-hunter.json) |
@@ -14222,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Worry, I'll Bring the Beer | 307788 | [307788-dont-worry-ill-bring-the-beer.json](./307788-dont-worry-ill-bring-the-beer.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
+| Don'Yoku | 35002 | [35002-donyoku.json](./35002-donyoku.json) |
 | Don´t Hang Up | 374654 | [374654-don-t-hang-up.json](./374654-don-t-hang-up.json) |
 | Dona Vasa | 151953 | [151953-dona-vasa.json](./151953-dona-vasa.json) |
 | Donald & Goofy | 281885 | [281885-donald-and-goofy.json](./281885-donald-and-goofy.json) |
@@ -14861,6 +14863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomed: By the Hour | 276901 | [276901-doomed-by-the-hour.json](./276901-doomed-by-the-hour.json) |
 | Doomed: By the Hour 2 | 276902 | [276902-doomed-by-the-hour-2.json](./276902-doomed-by-the-hour-2.json) |
+| Doomed'n Damned | 34918 | [34918-doomedn-damned.json](./34918-doomedn-damned.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | Doomer Farm | 275943 | [275943-doomer-farm.json](./275943-doomer-farm.json) |
 | Doomer Simulator | 164945 | [164945-doomer-simulator.json](./164945-doomer-simulator.json) |
@@ -16990,6 +16993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Rancher | 356351 | [356351-dragon-rancher.json](./356351-dragon-rancher.json) |
 | Dragon Realms: Towers 'n' Dragons | 193026 | [193026-dragon-realms-towers-n-dragons.json](./193026-dragon-realms-towers-n-dragons.json) |
 | Dragon Riddler | 348661 | [348661-dragon-riddler.json](./348661-dragon-riddler.json) |
+| Dragon Rider | 34972 | [34972-dragon-rider.json](./34972-dragon-rider.json) |
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
 | Dragon Riders: Chronicles of Pern | 132134 | [132134-dragon-riders-chronicles-of-pern.json](./132134-dragon-riders-chronicles-of-pern.json) |
 | Dragon Rising | 149307 | [149307-dragon-rising.json](./149307-dragon-rising.json) |
