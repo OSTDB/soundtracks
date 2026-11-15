@@ -6390,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Oasis | 45793 | [45793-defenders-of-oasis.json](./45793-defenders-of-oasis.json) |
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of Tetsoidea | 74642 | [74642-defenders-of-tetsoidea.json](./74642-defenders-of-tetsoidea.json) |
+| Defenders of Tetsoidea II | 76018 | [76018-defenders-of-tetsoidea-ii.json](./76018-defenders-of-tetsoidea-ii.json) |
 | Defenders of the Atlantic | 179479 | [179479-defenders-of-the-atlantic.json](./179479-defenders-of-the-atlantic.json) |
 | Defenders of the Earth | 12569 | [12569-defenders-of-the-earth.json](./12569-defenders-of-the-earth.json) |
 | Defenders of the Fallen Island | 76406 | [76406-defenders-of-the-fallen-island.json](./76406-defenders-of-the-fallen-island.json) |
@@ -8524,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy School Simulator | 222051 | [222051-destroy-school-simulator.json](./222051-destroy-school-simulator.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
 | Destroy Simulator VR | 235068 | [235068-destroy-simulator-vr.json](./235068-destroy-simulator-vr.json) |
+| Destroy Space Aliens | 76027 | [76027-destroy-space-aliens.json](./76027-destroy-space-aliens.json) |
 | Destroy Spongebob | 347021 | [347021-destroy-spongebob.json](./347021-destroy-spongebob.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
@@ -13226,6 +13228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs.Io | 170075 | [170075-dogs-io.json](./170075-dogs-io.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogsbody | 13600 | [13600-dogsbody.json](./13600-dogsbody.json) |
+| Dogstar | 76030 | [76030-dogstar.json](./76030-dogstar.json) |
 | DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
 | DogTag | 92712 | [92712-dogtag.json](./92712-dogtag.json) |
 | Dogtown Barkery | 115756 | [115756-dogtown-barkery.json](./115756-dogtown-barkery.json) |
@@ -16866,6 +16869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest: Monster Battle Road II Legends | 70667 | [70667-dragon-quest-monster-battle-road-ii-legends.json](./70667-dragon-quest-monster-battle-road-ii-legends.json) |
 | Dragon Quest: Monster Battle Road Victory - V Navigator | 127270 | [127270-dragon-quest-monster-battle-road-victory-v-navigator.json](./127270-dragon-quest-monster-battle-road-victory-v-navigator.json) |
 | Dragon Quest: Monster Parade | 55959 | [55959-dragon-quest-monster-parade.json](./55959-dragon-quest-monster-parade.json) |
+| Dragon Quest: Shounen Yangus to Fushigi no Dungeon | 75986 | [75986-dragon-quest-shounen-yangus-to-fushigi-no-dungeon.json](./75986-dragon-quest-shounen-yangus-to-fushigi-no-dungeon.json) |
 | Dragon Quest: The Adventure of Dai - A Hero's Bonds | 174673 | [174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json](./174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json) |
 | Dragon Question | 152516 | [152516-dragon-question.json](./152516-dragon-question.json) |
 | Dragon Quiz | 73196 | [73196-dragon-quiz.json](./73196-dragon-quiz.json) |
@@ -18842,6 +18846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
 | Drone Hero | 38750 | [38750-drone-hero.json](./38750-drone-hero.json) |
 | Drone Hunter VR | 32746 | [32746-drone-hunter-vr.json](./32746-drone-hunter-vr.json) |
+| Drone Infiltrator | 76047 | [76047-drone-infiltrator.json](./76047-drone-infiltrator.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Master Racing | 245896 | [245896-drone-master-racing.json](./245896-drone-master-racing.json) |
