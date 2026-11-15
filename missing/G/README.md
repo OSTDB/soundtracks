@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Golf | 353445 | [353445-glorious-golf.json](./353445-glorious-golf.json) |
 | Glorious Leader | 61683 | [61683-glorious-leader.json](./61683-glorious-leader.json) |
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
+| Glorious Noon | 75260 | [75260-glorious-noon.json](./75260-glorious-noon.json) |
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glorious Tournius | 139675 | [139675-glorious-tournius.json](./139675-glorious-tournius.json) |
@@ -11487,6 +11488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guide | 109243 | [109243-guide.json](./109243-guide.json) |
 | Guide and Throw | 190835 | [190835-guide-and-throw.json](./190835-guide-and-throw.json) |
 | Guide of the Butterfly | 134939 | [134939-guide-of-the-butterfly.json](./134939-guide-of-the-butterfly.json) |
+| Guide the Ball | 75268 | [75268-guide-the-ball.json](./75268-guide-the-ball.json) |
 | Guide the Ghost | 84494 | [84494-guide-the-ghost.json](./84494-guide-the-ghost.json) |
 | Guide the Light | 175514 | [175514-guide-the-light.json](./175514-guide-the-light.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
