@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaelic Games: Hurling | 73465 | [73465-gaelic-games-hurling.json](./73465-gaelic-games-hurling.json) |
 | Gag | 141932 | [141932-gag.json](./141932-gag.json) |
 | Gag: Het Impotentie-Mysterie | 69607 | [69607-gag-het-impotentie-mysterie.json](./69607-gag-het-impotentie-mysterie.json) |
+| GAG: The Impotent Mystery | 51484 | [51484-gag-the-impotent-mystery.json](./51484-gag-the-impotent-mystery.json) |
 | Gage | 264809 | [264809-gage.json](./264809-gage.json) |
 | Gagged Love | 371154 | [371154-gagged-love.json](./371154-gagged-love.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
@@ -3268,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gengar | 210568 | [210568-gengar.json](./210568-gengar.json) |
 | Genghis Khan | 269523 | [269523-genghis-khan.json](./269523-genghis-khan.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
+| Genghis Khan | 51493 | [51493-genghis-khan.json](./51493-genghis-khan.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 273031 | [273031-genghis-khan-ii-clan-of-the-gray-wolf.json](./273031-genghis-khan-ii-clan-of-the-gray-wolf.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
 | Genghis Khan: Aoki Ookami to Shiroki Mejika IV | 98270 | [98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json](./98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json) |
