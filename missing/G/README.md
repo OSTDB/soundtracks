@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Conflict | 200312 | [200312-galactic-conflict.json](./200312-galactic-conflict.json) |
 | Galactic Conqueror | 14894 | [14894-galactic-conqueror.json](./14894-galactic-conqueror.json) |
+| Galactic Conquerors | 34870 | [34870-galactic-conquerors.json](./34870-galactic-conquerors.json) |
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
 | Galactic Conquest Battle Infinity | 249572 | [249572-galactic-conquest-battle-infinity.json](./249572-galactic-conquest-battle-infinity.json) |
 | Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators of Citadelum | 325357 | [325357-gladiators-of-citadelum.json](./325357-gladiators-of-citadelum.json) |
 | Gladiators of Roma Revixit | 374369 | [374369-gladiators-of-roma-revixit.json](./374369-gladiators-of-roma-revixit.json) |
 | Gladiators of the Arena | 90403 | [90403-gladiators-of-the-arena.json](./90403-gladiators-of-the-arena.json) |
+| Gladiators Online: Death Before Dishonor | 34904 | [34904-gladiators-online-death-before-dishonor.json](./34904-gladiators-online-death-before-dishonor.json) |
 | Gladiators Simulator: The Champions of Liberty | 342399 | [342399-gladiators-simulator-the-champions-of-liberty.json](./342399-gladiators-simulator-the-champions-of-liberty.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladiators VR Tournament | 156816 | [156816-gladiators-vr-tournament.json](./156816-gladiators-vr-tournament.json) |
@@ -7303,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Road | 295853 | [295853-golden-road.json](./295853-golden-road.json) |
 | Golden Royal Blackjack | 70527 | [70527-golden-royal-blackjack.json](./70527-golden-royal-blackjack.json) |
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
+| Golden Rush | 34905 | [34905-golden-rush.json](./34905-golden-rush.json) |
 | Golden Sails | 329144 | [329144-golden-sails.json](./329144-golden-sails.json) |
 | Golden Sand Dream Curse | 359537 | [359537-golden-sand-dream-curse.json](./359537-golden-sand-dream-curse.json) |
 | Golden Scarab | 51680 | [51680-golden-scarab.json](./51680-golden-scarab.json) |
