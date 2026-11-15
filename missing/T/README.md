@@ -14747,7 +14747,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout - Act 2 | 171665 | [171665-the-lost-legends-of-redwall-the-scout-act-2.json](./171665-the-lost-legends-of-redwall-the-scout-act-2.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Legends of Redwall: The Scout - Encore Edition | 237033 | [237033-the-lost-legends-of-redwall-the-scout-encore-edition.json](./237033-the-lost-legends-of-redwall-the-scout-encore-edition.json) |
-| The Lost Legends of Redwall: The Scout Anthology | 287035 | [287035-the-lost-legends-of-redwall-the-scout-anthology.json](./287035-the-lost-legends-of-redwall-the-scout-anthology.json) |
 | The Lost Levels | 271772 | [271772-the-lost-levels.json](./271772-the-lost-levels.json) |
 | The Lost Levels | 406121 | [406121-the-lost-levels.json](./406121-the-lost-levels.json) |
 | The Lost Levels Enhanced | 268342 | [268342-the-lost-levels-enhanced.json](./268342-the-lost-levels-enhanced.json) |
@@ -23268,7 +23267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
 | Tides of Time | 215096 | [215096-tides-of-time.json](./215096-tides-of-time.json) |
 | Tides of Time: The Board Game | 175284 | [175284-tides-of-time-the-board-game.json](./175284-tides-of-time-the-board-game.json) |
-| Tides of Tomorrow | 305036 | [305036-tides-of-tomorrow.json](./305036-tides-of-tomorrow.json) |
 | Tides of Tomorrow: Delta Agent Pack | 399091 | [399091-tides-of-tomorrow-delta-agent-pack.json](./399091-tides-of-tomorrow-delta-agent-pack.json) |
 | Tides of War | 206790 | [206790-tides-of-war.json](./206790-tides-of-war.json) |
 | Tidesworn | 403052 | [403052-tidesworn.json](./403052-tidesworn.json) |
