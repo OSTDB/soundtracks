@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Rose | 288151 | [288151-yellow-rose.json](./288151-yellow-rose.json) |
 | Yellow Sails | 182046 | [182046-yellow-sails.json](./182046-yellow-sails.json) |
 | Yellow Sapphire Hotel: The Little Tales Of | 385012 | [385012-yellow-sapphire-hotel-the-little-tales-of.json](./385012-yellow-sapphire-hotel-the-little-tales-of.json) |
+| Yellow Submarine | 46916 | [46916-yellow-submarine.json](./46916-yellow-submarine.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | Yellowcreek Stories: The Cabin Watcher | 392567 | [392567-yellowcreek-stories-the-cabin-watcher.json](./392567-yellowcreek-stories-the-cabin-watcher.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuusha vs. Dragon | 207797 | [207797-yuusha-vs-dragon.json](./207797-yuusha-vs-dragon.json) |
 | Yuusha-Ou GaoGaiGar: Blockaded Numbers | 57941 | [57941-yuusha-ou-gaogaigar-blockaded-numbers.json](./57941-yuusha-ou-gaogaigar-blockaded-numbers.json) |
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
+| Yuushi no Monshou: Deep Dungeon II | 47516 | [47516-yuushi-no-monshou-deep-dungeon-ii.json](./47516-yuushi-no-monshou-deep-dungeon-ii.json) |
 | Yuushun Rhapsody | 49752 | [49752-yuushun-rhapsody.json](./49752-yuushun-rhapsody.json) |
 | Yuuto Ichika Gets DMCA'd | 195074 | [195074-yuuto-ichika-gets-dmcad.json](./195074-yuuto-ichika-gets-dmcad.json) |
 | Yuuto Ichika Makes Friends | 119231 | [119231-yuuto-ichika-makes-friends.json](./119231-yuuto-ichika-makes-friends.json) |
