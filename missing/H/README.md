@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem of Lust | 359765 | [359765-harem-of-lust.json](./359765-harem-of-lust.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | Harem Survivor | 294147 | [294147-harem-survivor.json](./294147-harem-survivor.json) |
+| Harem Wars | 76053 | [76053-harem-wars.json](./76053-harem-wars.json) |
 | Harem! Ranch Life | 265357 | [265357-harem-ranch-life.json](./265357-harem-ranch-life.json) |
 | HaremKingdom | 176095 | [176095-haremkingdom.json](./176095-haremkingdom.json) |
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
@@ -7163,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
 | Hex Bots | 338313 | [338313-hex-bots.json](./338313-hex-bots.json) |
 | Hex Cats | 273605 | [273605-hex-cats.json](./273605-hex-cats.json) |
+| Hex Commander: Fantasy Heroes | 76001 | [76001-hex-commander-fantasy-heroes.json](./76001-hex-commander-fantasy-heroes.json) |
 | Hex Core | 404773 | [404773-hex-core.json](./404773-hex-core.json) |
 | Hex Defense - VR | 114079 | [114079-hex-defense-vr.json](./114079-hex-defense-vr.json) |
 | Hex Empire | 101917 | [101917-hex-empire.json](./101917-hex-empire.json) |
