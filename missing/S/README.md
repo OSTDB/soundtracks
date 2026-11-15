@@ -10756,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrapnel | 60112 | [60112-shrapnel.json](./60112-shrapnel.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
 | Shrapnel Sentinel | 361915 | [361915-shrapnel-sentinel.json](./361915-shrapnel-sentinel.json) |
+| Shred a Billion | 429388 | [429388-shred-a-billion.json](./429388-shred-a-billion.json) |
 | Shred and Tear: Explosive Kajun | 192702 | [192702-shred-and-tear-explosive-kajun.json](./192702-shred-and-tear-explosive-kajun.json) |
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred It! | 20017 | [20017-shred-it.json](./20017-shred-it.json) |
@@ -18087,6 +18088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoftWar Cyber Fight | 327085 | [327085-softwar-cyber-fight.json](./327085-softwar-cyber-fight.json) |
 | Software CEO | 347464 | [347464-software-ceo.json](./347464-software-ceo.json) |
 | Software Company | 190355 | [190355-software-company.json](./190355-software-company.json) |
+| Software Engineering Course | 429386 | [429386-software-engineering-course.json](./429386-software-engineering-course.json) |
 | Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
 | Software Inc. | 35463 | [35463-software-inc.json](./35463-software-inc.json) |
 | Software Jukebox: Adventure/Fantasy | 78388 | [78388-software-jukebox-adventure-fantasy.json](./78388-software-jukebox-adventure-fantasy.json) |
@@ -30774,6 +30776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormrite | 136567 | [136567-stormrite.json](./136567-stormrite.json) |
 | Storms | 130259 | [130259-storms.json](./130259-storms.json) |
 | Storms 2 | 173007 | [173007-storms-2.json](./173007-storms-2.json) |
+| Storms of Sea | 429382 | [429382-storms-of-sea.json](./429382-storms-of-sea.json) |
 | Storms of Shambhala | 72363 | [72363-storms-of-shambhala.json](./72363-storms-of-shambhala.json) |
 | Stormshot | 219965 | [219965-stormshot.json](./219965-stormshot.json) |
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
@@ -40703,6 +40706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System 15000 | 262189 | [262189-system-15000.json](./262189-system-15000.json) |
 | System 21 | 404057 | [404057-system-21.json](./404057-system-21.json) |
 | System Aimed for Salvation | 184816 | [184816-system-aimed-for-salvation.json](./184816-system-aimed-for-salvation.json) |
+| System Arrival | 429349 | [429349-system-arrival.json](./429349-system-arrival.json) |
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
 | System Clues | 373000 | [373000-system-clues.json](./373000-system-clues.json) |
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
