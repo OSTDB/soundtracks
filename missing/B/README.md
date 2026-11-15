@@ -5070,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
 | Battletoads in Ragnarok's World | 48924 | [48924-battletoads-in-ragnaroks-world.json](./48924-battletoads-in-ragnaroks-world.json) |
 | Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
+| BattleTrucks | 29299 | [29299-battletrucks.json](./29299-battletrucks.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
 | Battleverse Champions | 219972 | [219972-battleverse-champions.json](./219972-battleverse-champions.json) |
 | Battlevoid: Harbinger | 34604 | [34604-battlevoid-harbinger.json](./34604-battlevoid-harbinger.json) |
@@ -9271,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotone | 402649 | [402649-biotone.json](./402649-biotone.json) |
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
+| Biotoxin: The Dark Days | 29305 | [29305-biotoxin-the-dark-days.json](./29305-biotoxin-the-dark-days.json) |
 | Biotronic | 203015 | [203015-biotronic.json](./203015-biotronic.json) |
 | Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
 | Biovoid | 384042 | [384042-biovoid.json](./384042-biovoid.json) |
@@ -16030,6 +16032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | BoyandBox | 129332 | [129332-boyandbox.json](./129332-boyandbox.json) |
 | BoyAndLabyrinth | 93669 | [93669-boyandlabyrinth.json](./93669-boyandlabyrinth.json) |
+| Boyar | 30278 | [30278-boyar.json](./30278-boyar.json) |
 | Boyard | 273188 | [273188-boyard.json](./273188-boyard.json) |
 | Boyband Hell | 288177 | [288177-boyband-hell.json](./288177-boyband-hell.json) |
 | Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
