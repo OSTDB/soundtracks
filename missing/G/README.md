@@ -6267,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Nippon!: My First Trip to Japan | 16675 | [16675-go-go-nippon-my-first-trip-to-japan.json](./16675-go-go-nippon-my-first-trip-to-japan.json) |
 | Go! Go! Pogo Cat! | 137251 | [137251-go-go-pogo-cat.json](./137251-go-go-pogo-cat.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
+| Go! Go! Radio : 8-Bit Edition | 76050 | [76050-go-go-radio-8-bit-edition.json](./76050-go-go-radio-8-bit-edition.json) |
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
 | Go! Go! Tank | 48997 | [48997-go-go-tank.json](./48997-go-go-tank.json) |
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
@@ -12216,6 +12217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungungun | 30905 | [30905-gungungun.json](./30905-gungungun.json) |
 | GunGuru | 250682 | [250682-gunguru.json](./250682-gunguru.json) |
 | Gunhawk | 339018 | [339018-gunhawk.json](./339018-gunhawk.json) |
+| Gunhead | 76062 | [76062-gunhead.json](./76062-gunhead.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
 | GunHed: Aratanaru Tatakai | 48478 | [48478-gunhed-aratanaru-tatakai.json](./48478-gunhed-aratanaru-tatakai.json) |
