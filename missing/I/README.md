@@ -7139,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Spirits | 131857 | [131857-isle-of-spirits.json](./131857-isle-of-spirits.json) |
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
 | Isle of the Crown | 137362 | [137362-isle-of-the-crown.json](./137362-isle-of-the-crown.json) |
+| Isle of the Dead | 878 | [878-isle-of-the-dead.json](./878-isle-of-the-dead.json) |
 | Isle of the Eagle | 368221 | [368221-isle-of-the-eagle.json](./368221-isle-of-the-eagle.json) |
 | Isle of the Jötunn | 263092 | [263092-isle-of-the-jotunn.json](./263092-isle-of-the-jotunn.json) |
 | Isle of Titans | 383087 | [383087-isle-of-titans.json](./383087-isle-of-titans.json) |
