@@ -4308,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Heck, Dude? | 30662 | [30662-what-the-heck-dude.json](./30662-what-the-heck-dude.json) |
 | What the Hell | 263096 | [263096-what-the-hell.json](./263096-what-the-hell.json) |
 | What the hen! | 120244 | [120244-what-the-hen.json](./120244-what-the-hen.json) |
+| What the K-Drama?! | 428141 | [428141-what-the-k-drama.json](./428141-what-the-k-drama.json) |
 | What the Luck? | 382857 | [382857-what-the-luck.json](./382857-what-the-luck.json) |
 | What the Maze | 151369 | [151369-what-the-maze.json](./151369-what-the-maze.json) |
 | What The Pak?! | 292350 | [292350-what-the-pak.json](./292350-what-the-pak.json) |
@@ -8080,6 +8081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Neoran Valley | 393100 | [393100-wonderful-neoran-valley.json](./393100-wonderful-neoran-valley.json) |
 | Wonderful Pink | 228757 | [228757-wonderful-pink.json](./228757-wonderful-pink.json) |
 | Wonderful Purgatory | 369228 | [369228-wonderful-purgatory.json](./369228-wonderful-purgatory.json) |
+| Wonderful Time | 428117 | [428117-wonderful-time.json](./428117-wonderful-time.json) |
 | Wonderful Waking World | 203873 | [203873-wonderful-waking-world.json](./203873-wonderful-waking-world.json) |
 | Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
 | Wonderful World | 124719 | [124719-wonderful-world.json](./124719-wonderful-world.json) |
