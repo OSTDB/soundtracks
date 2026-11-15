@@ -13615,6 +13615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble | 132991 | [132991-rumble.json](./132991-rumble.json) |
 | Rumble | 34287 | [34287-rumble.json](./34287-rumble.json) |
+| Rumble | 426980 | [426980-rumble.json](./426980-rumble.json) |
 | Rumble Academy | 62850 | [62850-rumble-academy.json](./62850-rumble-academy.json) |
 | Rumble Arena | 118228 | [118228-rumble-arena.json](./118228-rumble-arena.json) |
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
