@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku-hime 4: Souha Hyakkei, Hanamamoru Chikai | 313995 | [313995-sangoku-hime-4-souha-hyakkei-hanamamoru-chikai.json](./313995-sangoku-hime-4-souha-hyakkei-hanamamoru-chikai.json) |
 | Sangokushi | 49790 | [49790-sangokushi.json](./49790-sangokushi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
+| Sangokushi 12 | 64573 | [64573-sangokushi-12.json](./64573-sangokushi-12.json) |
 | Sangokushi 12: Power Up Kit | 350585 | [350585-sangokushi-12-power-up-kit.json](./350585-sangokushi-12-power-up-kit.json) |
 | Sangokushi 2 | 60090 | [60090-sangokushi-2.json](./60090-sangokushi-2.json) |
 | Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
@@ -9372,6 +9373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Sangoku Musou Multi Raid 2: HD Edition | 43050 | [43050-shin-sangoku-musou-multi-raid-2-hd-edition.json](./43050-shin-sangoku-musou-multi-raid-2-hd-edition.json) |
 | Shin Sangoku Musou Slash | 64051 | [64051-shin-sangoku-musou-slash.json](./64051-shin-sangoku-musou-slash.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
+| Shin SD Gundam Gaiden: Knight Gundam Monogatari | 64567 | [64567-shin-sd-gundam-gaiden-knight-gundam-monogatari.json](./64567-shin-sd-gundam-gaiden-knight-gundam-monogatari.json) |
 | Shin SD Sengoku-den: Daishogun Retsuden | 38250 | [38250-shin-sd-sengoku-den-daishogun-retsuden.json](./38250-shin-sd-sengoku-den-daishogun-retsuden.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
 | Shin SD Sengokuden: Daishogun Retsuden | 58677 | [58677-shin-sd-sengokuden-daishogun-retsuden.json](./58677-shin-sd-sengokuden-daishogun-retsuden.json) |
@@ -17479,6 +17481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowscape | 364868 | [364868-snowscape.json](./364868-snowscape.json) |
 | Snowscapes | 244145 | [244145-snowscapes.json](./244145-snowscapes.json) |
 | Snowset | 180391 | [180391-snowset.json](./180391-snowset.json) |
+| Snowshine | 64582 | [64582-snowshine.json](./64582-snowshine.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowsted Royale | 228130 | [228130-snowsted-royale.json](./228130-snowsted-royale.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
@@ -19461,6 +19464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frontiers: Sonic’s Birthday Bash | 254487 | [254487-sonic-frontiers-sonic-s-birthday-bash.json](./254487-sonic-frontiers-sonic-s-birthday-bash.json) |
 | Sonic Frontiers: The Final Horizon | 262533 | [262533-sonic-frontiers-the-final-horizon.json](./262533-sonic-frontiers-the-final-horizon.json) |
 | Sonic Frost | 316970 | [316970-sonic-frost.json](./316970-sonic-frost.json) |
+| Sonic Fury | 64588 | [64588-sonic-fury.json](./64588-sonic-fury.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
 | Sonic Fusion | 331072 | [331072-sonic-fusion.json](./331072-sonic-fusion.json) |
 | Sonic Gaiden | 131723 | [131723-sonic-gaiden.json](./131723-sonic-gaiden.json) |
@@ -27454,6 +27458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode III - Revenge of the Sith: Activity Center | 137191 | [137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json](./137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json) |
 | Star Wars: Ewok Adventure | 40636 | [40636-star-wars-ewok-adventure.json](./40636-star-wars-ewok-adventure.json) |
 | Star Wars: Fate of the Old Republic | 381215 | [381215-star-wars-fate-of-the-old-republic.json](./381215-star-wars-fate-of-the-old-republic.json) |
+| Star Wars: First Assault | 64562 | [64562-star-wars-first-assault.json](./64562-star-wars-first-assault.json) |
 | Star Wars: Flight of the Falcon | 6608 | [6608-star-wars-flight-of-the-falcon.json](./6608-star-wars-flight-of-the-falcon.json) |
 | Star Wars: Force Arena | 74866 | [74866-star-wars-force-arena.json](./74866-star-wars-force-arena.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
