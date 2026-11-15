@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs + Watch Dogs 2 Double Pack | 136697 | [136697-watch-dogs-watch-dogs-2-double-pack.json](./136697-watch-dogs-watch-dogs-2-double-pack.json) |
 | Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle | 164573 | [164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json](./164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json) |
 | Watch Dogs 1 + Watch Dogs 2 Standard Editions Bundle | 164703 | [164703-watch-dogs-1-watch-dogs-2-standard-editions-bundle.json](./164703-watch-dogs-1-watch-dogs-2-standard-editions-bundle.json) |
+| Watch Dogs 2: Gold Edition | 42901 | [42901-watch-dogs-2-gold-edition.json](./42901-watch-dogs-2-gold-edition.json) |
 | Watch Dogs 2: Human Conditions | 27349 | [27349-watch-dogs-2-human-conditions.json](./27349-watch-dogs-2-human-conditions.json) |
 | Watch Dogs 2: Mega Pack | 226879 | [226879-watch-dogs-2-mega-pack.json](./226879-watch-dogs-2-mega-pack.json) |
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Complete Edition | 42951 | [42951-watch-dogs-complete-edition.json](./42951-watch-dogs-complete-edition.json) |
 | Watch Dogs: Conspiracy | 26282 | [26282-watch-dogs-conspiracy.json](./26282-watch-dogs-conspiracy.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
+| Watch Dogs: Gold Edition | 42917 | [42917-watch-dogs-gold-edition.json](./42917-watch-dogs-gold-edition.json) |
 | Watch Dogs: Legion - Collector's Edition | 119354 | [119354-watch-dogs-legion-collectors-edition.json](./119354-watch-dogs-legion-collectors-edition.json) |
 | Watch Dogs: Legion - Deluxe Edition | 164616 | [164616-watch-dogs-legion-deluxe-edition.json](./164616-watch-dogs-legion-deluxe-edition.json) |
 | Watch Dogs: Legion - Gold Edition | 119575 | [119575-watch-dogs-legion-gold-edition.json](./119575-watch-dogs-legion-gold-edition.json) |
@@ -7854,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Cyberpilot | 103302 | [103302-wolfenstein-cyberpilot.json](./103302-wolfenstein-cyberpilot.json) |
 | Wolfenstein: Enemy Territory | 2987 | [2987-wolfenstein-enemy-territory.json](./2987-wolfenstein-enemy-territory.json) |
 | Wolfenstein: Enemy Territory Single-Player | 375756 | [375756-wolfenstein-enemy-territory-single-player.json](./375756-wolfenstein-enemy-territory-single-player.json) |
+| Wolfenstein: The New Order - Occupied Edition | 42935 | [42935-wolfenstein-the-new-order-occupied-edition.json](./42935-wolfenstein-the-new-order-occupied-edition.json) |
 | Wolfenstein: The New Order and The Old Blood Double Pack | 136008 | [136008-wolfenstein-the-new-order-and-the-old-blood-double-pack.json](./136008-wolfenstein-the-new-order-and-the-old-blood-double-pack.json) |
 | Wolfenstein: The Two-Pack | 136205 | [136205-wolfenstein-the-two-pack.json](./136205-wolfenstein-the-two-pack.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
@@ -9869,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms United | 47081 | [47081-worms-united.json](./47081-worms-united.json) |
 | Worms v Lemmings | 241157 | [241157-worms-v-lemmings.json](./241157-worms-v-lemmings.json) |
 | Worms W.M.D Mobilize | 245960 | [245960-worms-w-m-d-mobilize.json](./245960-worms-w-m-d-mobilize.json) |
+| Worms WMD All-Stars | 42927 | [42927-worms-wmd-all-stars.json](./42927-worms-wmd-all-stars.json) |
 | Worms World Party | 6294 | [6294-worms-world-party.json](./6294-worms-world-party.json) |
 | Worms World Party Remastered | 20025 | [20025-worms-world-party-remastered.json](./20025-worms-world-party-remastered.json) |
 | Worms: A Space Oddity | 5290 | [5290-worms-a-space-oddity.json](./5290-worms-a-space-oddity.json) |
@@ -10041,6 +10045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 4 | 8316 | [8316-wrc-4.json](./8316-wrc-4.json) |
 | WRC 4 FIA World Rally Championship | 3089 | [3089-wrc-4-fia-world-rally-championship.json](./3089-wrc-4-fia-world-rally-championship.json) |
 | WRC 5 FIA World Rally Championship | 22092 | [22092-wrc-5-fia-world-rally-championship.json](./22092-wrc-5-fia-world-rally-championship.json) |
+| WRC 5: Esports Edition | 42954 | [42954-wrc-5-esports-edition.json](./42954-wrc-5-esports-edition.json) |
 | WRC 5: WRC - eSports Pack 1 | 168739 | [168739-wrc-5-wrc-esports-pack-1.json](./168739-wrc-5-wrc-esports-pack-1.json) |
 | WRC 5: WRC - eSports Pack 2 | 168740 | [168740-wrc-5-wrc-esports-pack-2.json](./168740-wrc-5-wrc-esports-pack-2.json) |
 | WRC 6 FIA World Rally Championship | 19462 | [19462-wrc-6-fia-world-rally-championship.json](./19462-wrc-6-fia-world-rally-championship.json) |
