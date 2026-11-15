@@ -5610,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Likvar: Zoya | 415696 | [415696-likvar-zoya.json](./415696-likvar-zoya.json) |
 | Lil Baby Poop's Nightmares | 231185 | [231185-lil-baby-poops-nightmares.json](./231185-lil-baby-poops-nightmares.json) |
 | Lil Big Invasion | 32818 | [32818-lil-big-invasion.json](./32818-lil-big-invasion.json) |
+| Lil Bub's Hello Earth | 57847 | [57847-lil-bubs-hello-earth.json](./57847-lil-bubs-hello-earth.json) |
 | Lil Doll House | 293472 | [293472-lil-doll-house.json](./293472-lil-doll-house.json) |
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
 | Lil Flutie 3D: Director's Pandemic Edition | 177982 | [177982-lil-flutie-3d-directors-pandemic-edition.json](./177982-lil-flutie-3d-directors-pandemic-edition.json) |
