@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Revo 2 | 238118 | [238118-galaxy-revo-2.json](./238118-galaxy-revo-2.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
 | Galaxy Riders | 56106 | [56106-galaxy-riders.json](./56106-galaxy-riders.json) |
+| Galaxy Robo | 42276 | [42276-galaxy-robo.json](./42276-galaxy-robo.json) |
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
 | Galaxy Rush | 310834 | [310834-galaxy-rush.json](./310834-galaxy-rush.json) |
 | Galaxy Rushroom | 116024 | [116024-galaxy-rushroom.json](./116024-galaxy-rushroom.json) |
@@ -2889,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekisou TomaRunner | 70665 | [70665-gekisou-tomarunner.json](./70665-gekisou-tomarunner.json) |
 | Gekisou! Band Star | 381254 | [381254-gekisou-band-star.json](./381254-gekisou-band-star.json) |
 | Gekisou! Benza Race -Toilet Shooting Star- | 121813 | [121813-gekisou-benza-race-toilet-shooting-star.json](./121813-gekisou-benza-race-toilet-shooting-star.json) |
+| Gekitotsu Dangan Jidousha Kessen: Battle Mobile | 42275 | [42275-gekitotsu-dangan-jidousha-kessen-battle-mobile.json](./42275-gekitotsu-dangan-jidousha-kessen-battle-mobile.json) |
 | Gekitotsu Toma L'Arc: Tomarunner Vs L'Arc-en-Ciel | 44761 | [44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json](./44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json) |
 | Gekitotsu Yonku Battle | 48484 | [48484-gekitotsu-yonku-battle.json](./48484-gekitotsu-yonku-battle.json) |
 | Gekitotsu! Pennant Race | 41679 | [41679-gekitotsu-pennant-race.json](./41679-gekitotsu-pennant-race.json) |
@@ -6279,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Break Steady | 23031 | [23031-go-go-break-steady.json](./23031-go-go-break-steady.json) |
 | Go! Go! Cosmo Cops! | 21211 | [21211-go-go-cosmo-cops.json](./21211-go-go-cosmo-cops.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
+| Go! Go! Dodge League | 42274 | [42274-go-go-dodge-league.json](./42274-go-go-dodge-league.json) |
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
 | Go! Go! Hamster Chef! | 249392 | [249392-go-go-hamster-chef.json](./249392-go-go-hamster-chef.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
