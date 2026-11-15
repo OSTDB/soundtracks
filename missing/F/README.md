@@ -6854,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firegirl: Hack 'n Splash Rescue DX | 204287 | [204287-firegirl-hack-n-splash-rescue-dx.json](./204287-firegirl-hack-n-splash-rescue-dx.json) |
 | FireGrid | 416588 | [416588-firegrid.json](./416588-firegrid.json) |
 | Fireground | 115146 | [115146-fireground.json](./115146-fireground.json) |
+| FireHawk | 48252 | [48252-firehawk.json](./48252-firehawk.json) |
 | Firehawk: Swarmbreakers | 323362 | [323362-firehawk-swarmbreakers.json](./323362-firehawk-swarmbreakers.json) |
 | FireJumpers | 200126 | [200126-firejumpers.json](./200126-firejumpers.json) |
 | FireJumpers Inferno | 159719 | [159719-firejumpers-inferno.json](./159719-firejumpers-inferno.json) |
@@ -7261,9 +7262,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price Outdoor Adventures: Ranger Trail | 79595 | [79595-fisher-price-outdoor-adventures-ranger-trail.json](./79595-fisher-price-outdoor-adventures-ranger-trail.json) |
 | Fisher-Price: Big Action Construction | 324764 | [324764-fisher-price-big-action-construction.json](./324764-fisher-price-big-action-construction.json) |
 | Fisher-Price: Big Action Garage | 70360 | [70360-fisher-price-big-action-garage.json](./70360-fisher-price-big-action-garage.json) |
+| Fisher-Price: Firehouse Rescue | 48250 | [48250-fisher-price-firehouse-rescue.json](./48250-fisher-price-firehouse-rescue.json) |
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
 | Fisher-Price: Learning in Toyland | 69612 | [69612-fisher-price-learning-in-toyland.json](./69612-fisher-price-learning-in-toyland.json) |
 | Fisher-Price: Little People Discovery Airport | 144860 | [144860-fisher-price-little-people-discovery-airport.json](./144860-fisher-price-little-people-discovery-airport.json) |
+| Fisher-Price: Perfect Fit | 48275 | [48275-fisher-price-perfect-fit.json](./48275-fisher-price-perfect-fit.json) |
 | Fisher-Price: Ready for School - Kindergarten | 77007 | [77007-fisher-price-ready-for-school-kindergarten.json](./77007-fisher-price-ready-for-school-kindergarten.json) |
 | Fisher-Price: Time To Play - Dollhouse | 324626 | [324626-fisher-price-time-to-play-dollhouse.json](./324626-fisher-price-time-to-play-dollhouse.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
@@ -10154,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foolhearted | 390309 | [390309-foolhearted.json](./390309-foolhearted.json) |
 | FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
 | Fooling Dead | 392709 | [392709-fooling-dead.json](./392709-fooling-dead.json) |
+| Foolio: Fool your friends | 48336 | [48336-foolio-fool-your-friends.json](./48336-foolio-fool-your-friends.json) |
 | Foolish Earthlings! | 362789 | [362789-foolish-earthlings.json](./362789-foolish-earthlings.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Fools Fortune | 134961 | [134961-fools-fortune.json](./134961-fools-fortune.json) |
