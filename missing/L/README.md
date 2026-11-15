@@ -8488,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hero | 62102 | [62102-loot-hero.json](./62102-loot-hero.json) |
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Heroes 2 | 101874 | [101874-loot-heroes-2.json](./101874-loot-heroes-2.json) |
+| Loot Hole | 429369 | [429369-loot-hole.json](./429369-loot-hole.json) |
 | Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Improvement | 285715 | [285715-loot-improvement.json](./285715-loot-improvement.json) |
 | Loot Keeper | 111994 | [111994-loot-keeper.json](./111994-loot-keeper.json) |
@@ -10897,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Skies: The Pilgrimage | 255949 | [255949-luminous-skies-the-pilgrimage.json](./255949-luminous-skies-the-pilgrimage.json) |
 | Luminous Storia | 374208 | [374208-luminous-storia.json](./374208-luminous-storia.json) |
 | Luminous Threads: A Visual Novel | 306414 | [306414-luminous-threads-a-visual-novel.json](./306414-luminous-threads-a-visual-novel.json) |
+| Luminova | 429343 | [429343-luminova.json](./429343-luminova.json) |
 | Lumins and Shades | 271002 | [271002-lumins-and-shades.json](./271002-lumins-and-shades.json) |
 | Luminus | 169657 | [169657-luminus.json](./169657-luminus.json) |
 | Luminyte | 152720 | [152720-luminyte.json](./152720-luminyte.json) |
