@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart Killer | 312865 | [312865-fart-killer.json](./312865-fart-killer.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Simulator 2018 | 84120 | [84120-fart-simulator-2018.json](./84120-fart-simulator-2018.json) |
+| Fart Together | 421011 | [421011-fart-together.json](./421011-fart-together.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Fartal Error | 365033 | [365033-fartal-error.json](./365033-fartal-error.json) |
 | Fartcore | 374946 | [374946-fartcore.json](./374946-fartcore.json) |
@@ -10441,6 +10442,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 26 Console | 367571 | [367571-football-manager-26-console.json](./367571-football-manager-26-console.json) |
 | Football Manager 26 Mobile | 367576 | [367576-football-manager-26-mobile.json](./367576-football-manager-26-mobile.json) |
 | Football Manager 26 Touch | 367573 | [367573-football-manager-26-touch.json](./367573-football-manager-26-touch.json) |
+| Football Manager 27 Console | 420982 | [420982-football-manager-27-console.json](./420982-football-manager-27-console.json) |
+| Football Manager 27 Mobile | 420983 | [420983-football-manager-27-mobile.json](./420983-football-manager-27-mobile.json) |
 | Football Manager Classic | 23223 | [23223-football-manager-classic.json](./23223-football-manager-classic.json) |
 | Football Manager Handheld 2007 | 269427 | [269427-football-manager-handheld-2007.json](./269427-football-manager-handheld-2007.json) |
 | Football Manager Handheld 2008 | 269428 | [269428-football-manager-handheld-2008.json](./269428-football-manager-handheld-2008.json) |
@@ -13505,6 +13508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Wednesday's Infidelity | 325668 | [325668-friday-night-funkin-wednesdays-infidelity.json](./325668-friday-night-funkin-wednesdays-infidelity.json) |
 | Friday Night Funkin': Yellow | 316026 | [316026-friday-night-funkin-yellow.json](./316026-friday-night-funkin-yellow.json) |
 | Friday Night Knockout | 357671 | [357671-friday-night-knockout.json](./357671-friday-night-knockout.json) |
+| Friday Night Madness: Magnified | 420989 | [420989-friday-night-madness-magnified.json](./420989-friday-night-madness-magnified.json) |
 | Friday Night Monster of Monsters | 393270 | [393270-friday-night-monster-of-monsters.json](./393270-friday-night-monster-of-monsters.json) |
 | Friday Night Pikmin | 308375 | [308375-friday-night-pikmin.json](./308375-friday-night-pikmin.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
