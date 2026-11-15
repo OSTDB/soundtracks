@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing: Breakthrough Gaming Arcade - Challenge Mode Edition | 207052 | [207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json](./207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Racing: Storm Chase | 369232 | [369232-racing-storm-chase.json](./369232-racing-storm-chase.json) |
 | Racingmaybe | 132303 | [132303-racingmaybe.json](./132303-racingmaybe.json) |
+| Racingroovy VS | 58962 | [58962-racingroovy-vs.json](./58962-racingroovy-vs.json) |
 | Rack | 140574 | [140574-rack.json](./140574-rack.json) |
 | Rack 'Em | 94961 | [94961-rack-em.json](./94961-rack-em.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
@@ -7875,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard Benson | 252454 | [252454-richard-benson.json](./252454-richard-benson.json) |
 | Richard Burns Rally | 230466 | [230466-richard-burns-rally.json](./230466-richard-burns-rally.json) |
 | Richard Burns Rally | 6004 | [6004-richard-burns-rally.json](./6004-richard-burns-rally.json) |
+| Richard III Attacks | 58957 | [58957-richard-iii-attacks.json](./58957-richard-iii-attacks.json) |
 | Richard Petty's Talladega | 47187 | [47187-richard-pettys-talladega.json](./47187-richard-pettys-talladega.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
 | Richard Scarry's Best Reading Program Ever | 384182 | [384182-richard-scarrys-best-reading-program-ever.json](./384182-richard-scarrys-best-reading-program-ever.json) |
