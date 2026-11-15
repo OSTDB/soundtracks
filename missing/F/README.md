@@ -14890,6 +14890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funbag Fantasy: Sideboob Story 2 | 131858 | [131858-funbag-fantasy-sideboob-story-2.json](./131858-funbag-fantasy-sideboob-story-2.json) |
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
 | FunBall 3D | 205858 | [205858-funball-3d.json](./205858-funball-3d.json) |
+| Funball Games VR | 74581 | [74581-funball-games-vr.json](./74581-funball-games-vr.json) |
 | FunBox Party | 108652 | [108652-funbox-party.json](./108652-funbox-party.json) |
 | Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
 | Funbrain Math Arcade | 317479 | [317479-funbrain-math-arcade.json](./317479-funbrain-math-arcade.json) |
