@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Kiss from Death | 154248 | [154248-a-kiss-from-death.json](./154248-a-kiss-from-death.json) |
 | A Kiss From Death | 247094 | [247094-a-kiss-from-death.json](./247094-a-kiss-from-death.json) |
 | A Kiss Of Salt Water | 301907 | [301907-a-kiss-of-salt-water.json](./301907-a-kiss-of-salt-water.json) |
+| A Kitchen Sink War | 70524 | [70524-a-kitchen-sink-war.json](./70524-a-kitchen-sink-war.json) |
 | A Kitten Seeks the Moon | 397177 | [397177-a-kitten-seeks-the-moon.json](./397177-a-kitten-seeks-the-moon.json) |
 | A Klance Texting Game | 178471 | [178471-a-klance-texting-game.json](./178471-a-klance-texting-game.json) |
 | A Knife Made of Whispers | 134375 | [134375-a-knife-made-of-whispers.json](./134375-a-knife-made-of-whispers.json) |
@@ -1632,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vampire Romance: Paris Stories | 267511 | [267511-a-vampire-romance-paris-stories.json](./267511-a-vampire-romance-paris-stories.json) |
 | A Vampire Tale | 50283 | [50283-a-vampire-tale.json](./50283-a-vampire-tale.json) |
 | A Vampyre Story | 3116 | [3116-a-vampyre-story.json](./3116-a-vampyre-story.json) |
+| A Vampyre Story 2: A Bat's Tale | 70528 | [70528-a-vampyre-story-2-a-bats-tale.json](./70528-a-vampyre-story-2-a-bats-tale.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
 | A Very Bad Christmas Eve | 148846 | [148846-a-very-bad-christmas-eve.json](./148846-a-very-bad-christmas-eve.json) |
@@ -2128,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abarenbou Princess | 64885 | [64885-abarenbou-princess.json](./64885-abarenbou-princess.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
+| Abashera | 71108 | [71108-abashera.json](./71108-abashera.json) |
 | Abashment | 201766 | [201766-abashment.json](./201766-abashment.json) |
 | Abasralsa | 81962 | [81962-abasralsa.json](./81962-abasralsa.json) |
 | Abathor | 237174 | [237174-abathor.json](./237174-abathor.json) |
@@ -4109,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Chronicles: The Search For Lost Treasure | 11441 | [11441-adventure-chronicles-the-search-for-lost-treasure.json](./11441-adventure-chronicles-the-search-for-lost-treasure.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
 | Adventure Climb VR: Brave the Elements | 209300 | [209300-adventure-climb-vr-brave-the-elements.json](./209300-adventure-climb-vr-brave-the-elements.json) |
+| Adventure Collection: Volume One | 72190 | [72190-adventure-collection-volume-one.json](./72190-adventure-collection-volume-one.json) |
 | AdVenture Communist | 32997 | [32997-adventure-communist.json](./32997-adventure-communist.json) |
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure Cop | 118092 | [118092-adventure-cop.json](./118092-adventure-cop.json) |
@@ -4355,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
 | Adventurer Manager | 11442 | [11442-adventurer-manager.json](./11442-adventurer-manager.json) |
 | Adventurer Manager: Endless Tower | 174160 | [174160-adventurer-manager-endless-tower.json](./174160-adventurer-manager-endless-tower.json) |
+| Adventurer Pets HD | 70532 | [70532-adventurer-pets-hd.json](./70532-adventurer-pets-hd.json) |
 | Adventurer Shop Simulator | 357784 | [357784-adventurer-shop-simulator.json](./357784-adventurer-shop-simulator.json) |
 | Adventurer's Consumer Guide | 8193 | [8193-adventurers-consumer-guide.json](./8193-adventurers-consumer-guide.json) |
 | Adventurer's Gambit: Dungeons of Fortune | 270009 | [270009-adventurers-gambit-dungeons-of-fortune.json](./270009-adventurers-gambit-dungeons-of-fortune.json) |
@@ -5744,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agma.io | 97302 | [97302-agma-io.json](./97302-agma-io.json) |
 | Agni | 192786 | [192786-agni.json](./192786-agni.json) |
 | Agni Fighter | 231825 | [231825-agni-fighter.json](./231825-agni-fighter.json) |
+| Agni: Queen of Darkness | 70525 | [70525-agni-queen-of-darkness.json](./70525-agni-queen-of-darkness.json) |
 | Agni: Village of Calamity | 316461 | [316461-agni-village-of-calamity.json](./316461-agni-village-of-calamity.json) |
 | Agnition: Ignis | 316460 | [316460-agnition-ignis.json](./316460-agnition-ignis.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
@@ -6178,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Attack VR | 231844 | [231844-air-attack-vr.json](./231844-air-attack-vr.json) |
 | Air Ball | 201996 | [201996-air-ball.json](./201996-air-ball.json) |
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
+| Air Battle | 72197 | [72197-air-battle.json](./72197-air-battle.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
 | Air Battle Hockey 3D | 84736 | [84736-air-battle-hockey-3d.json](./84736-air-battle-hockey-3d.json) |
 | Air Battle Mission | 212507 | [212507-air-battle-mission.json](./212507-air-battle-mission.json) |
@@ -7480,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
 | Alfonzo's Arctic Adventure | 122808 | [122808-alfonzos-arctic-adventure.json](./122808-alfonzos-arctic-adventure.json) |
 | Alfonzo's Bowling Challenge | 131789 | [131789-alfonzos-bowling-challenge.json](./131789-alfonzos-bowling-challenge.json) |
+| Alfred Challenge | 72215 | [72215-alfred-challenge.json](./72215-alfred-challenge.json) |
 | Alfred Chicken | 118492 | [118492-alfred-chicken.json](./118492-alfred-chicken.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 76821 | [76821-alfred-chicken.json](./76821-alfred-chicken.json) |
@@ -7575,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Gear Aegis | 83091 | [83091-alice-gear-aegis.json](./83091-alice-gear-aegis.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
+| Alice Greenfingers | 71081 | [71081-alice-greenfingers.json](./71081-alice-greenfingers.json) |
 | Alice Greenfingers 2 | 64732 | [64732-alice-greenfingers-2.json](./64732-alice-greenfingers-2.json) |
 | Alice in CyberCity | 118594 | [118594-alice-in-cybercity.json](./118594-alice-in-cybercity.json) |
 | Alice in Cyberland | 69003 | [69003-alice-in-cyberland.json](./69003-alice-in-cyberland.json) |
@@ -8610,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance Warfare | 23631 | [23631-alliance-warfare.json](./23631-alliance-warfare.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
+| Alliance: The Silent War | 70536 | [70536-alliance-the-silent-war.json](./70536-alliance-the-silent-war.json) |
 | Allie's Story | 399773 | [399773-allies-story.json](./399773-allies-story.json) |
 | Allied Ace Pilots | 69193 | [69193-allied-ace-pilots.json](./69193-allied-ace-pilots.json) |
 | Allied Ambush | 160229 | [160229-allied-ambush.json](./160229-allied-ambush.json) |
@@ -16455,6 +16465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Computer Adventure | 270029 | [270029-arthurs-computer-adventure.json](./270029-arthurs-computer-adventure.json) |
 | Arthur's Dream of the Dragon and the Bear | 128663 | [128663-arthurs-dream-of-the-dragon-and-the-bear.json](./128663-arthurs-dream-of-the-dragon-and-the-bear.json) |
 | Arthur's Kindergarten | 375124 | [375124-arthurs-kindergarten.json](./375124-arthurs-kindergarten.json) |
+| Arthur's Knights II: The Secret of Merlin | 71101 | [71101-arthurs-knights-ii-the-secret-of-merlin.json](./71101-arthurs-knights-ii-the-secret-of-merlin.json) |
 | Arthur's Knights: Tales of Chivalry | 71368 | [71368-arthurs-knights-tales-of-chivalry.json](./71368-arthurs-knights-tales-of-chivalry.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
@@ -16899,6 +16910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Daughter | 349929 | [349929-ashen-daughter.json](./349929-ashen-daughter.json) |
 | Ashen Destiny | 364992 | [364992-ashen-destiny.json](./364992-ashen-destiny.json) |
 | Ashen Dungeon | 374877 | [374877-ashen-dungeon.json](./374877-ashen-dungeon.json) |
+| Ashen Empires | 71069 | [71069-ashen-empires.json](./71069-ashen-empires.json) |
 | Ashen Falls | 78490 | [78490-ashen-falls.json](./78490-ashen-falls.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
