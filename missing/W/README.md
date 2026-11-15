@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
 | War Chess | 93410 | [93410-war-chess.json](./93410-war-chess.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
+| War Clash | 77438 | [77438-war-clash.json](./77438-war-clash.json) |
 | War Clicks | 112427 | [112427-war-clicks.json](./112427-war-clicks.json) |
 | War Commander | 202434 | [202434-war-commander.json](./202434-war-commander.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
