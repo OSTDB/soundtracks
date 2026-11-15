@@ -8110,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Design My Room: Fashion | 107667 | [107667-design-my-room-fashion.json](./107667-design-my-room-fashion.json) |
 | Design Your Own Railroad | 79963 | [79963-design-your-own-railroad.json](./79963-design-your-own-railroad.json) |
 | Designasaurus | 147228 | [147228-designasaurus.json](./147228-designasaurus.json) |
+| Designasaurus II | 73899 | [73899-designasaurus-ii.json](./73899-designasaurus-ii.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Designed to Climb | 316861 | [316861-designed-to-climb.json](./316861-designed-to-climb.json) |
 | Designer City 2 | 263296 | [263296-designer-city-2.json](./263296-designer-city-2.json) |
@@ -8630,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective AnnIntae: Missing Basketball Court | 306394 | [306394-detective-annintae-missing-basketball-court.json](./306394-detective-annintae-missing-basketball-court.json) |
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
+| Detective Barbie in The Mystery of the Carnival Caper | 73016 | [73016-detective-barbie-in-the-mystery-of-the-carnival-caper.json](./73016-detective-barbie-in-the-mystery-of-the-carnival-caper.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
 | Detective Barnett: The Cursed Artifact | 259800 | [259800-detective-barnett-the-cursed-artifact.json](./259800-detective-barnett-the-cursed-artifact.json) |
 | Detective Bass 2: The Case of the Stolen Pearls | 283356 | [283356-detective-bass-2-the-case-of-the-stolen-pearls.json](./283356-detective-bass-2-the-case-of-the-stolen-pearls.json) |
@@ -15869,6 +15871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Livingstone, I Presume? | 127480 | [127480-dr-livingstone-i-presume.json](./127480-dr-livingstone-i-presume.json) |
 | Dr. Lunatic Supreme with Cheese | 79739 | [79739-dr-lunatic-supreme-with-cheese.json](./79739-dr-lunatic-supreme-with-cheese.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
+| Dr. Lutz and the Time Travel Machine | 73908 | [73908-dr-lutz-and-the-time-travel-machine.json](./73908-dr-lutz-and-the-time-travel-machine.json) |
 | Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
 | Dr. Mancell and Mr. Flame | 422124 | [422124-dr-mancell-and-mr-flame.json](./422124-dr-mancell-and-mr-flame.json) |
 | Dr. Maria | 245761 | [245761-dr-maria.json](./245761-dr-maria.json) |
