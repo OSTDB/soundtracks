@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obusite | 178743 | [178743-obusite.json](./178743-obusite.json) |
 | Obverse | 398105 | [398105-obverse.json](./398105-obverse.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
+| Oby Adventure | 426368 | [426368-oby-adventure.json](./426368-oby-adventure.json) |
 | Obzen | 272046 | [272046-obzen.json](./272046-obzen.json) |
 | Ocak | 158875 | [158875-ocak.json](./158875-ocak.json) |
 | Ocarina of Time + Majora's Mask Crossover Randomizer | 231548 | [231548-ocarina-of-time-majoras-mask-crossover-randomizer.json](./231548-ocarina-of-time-majoras-mask-crossover-randomizer.json) |
