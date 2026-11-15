@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
 | Lantern of Worlds: Layla's Quest | 368275 | [368275-lantern-of-worlds-laylas-quest.json](./368275-lantern-of-worlds-laylas-quest.json) |
 | Lantern Push | 391838 | [391838-lantern-push.json](./391838-lantern-push.json) |
+| Lanternfall | 425131 | [425131-lanternfall.json](./425131-lanternfall.json) |
 | Lanternia | 277987 | [277987-lanternia.json](./277987-lanternia.json) |
 | Lanternium | 51447 | [51447-lanternium.json](./51447-lanternium.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
