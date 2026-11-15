@@ -263,6 +263,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
+| Namco Anthology Vol.1 | 44787 | [44787-namco-anthology-vol-1.json](./44787-namco-anthology-vol-1.json) |
+| Namco Anthology Vol.2 | 44786 | [44786-namco-anthology-vol-2.json](./44786-namco-anthology-vol-2.json) |
 | Namco Arcade | 25183 | [25183-namco-arcade.json](./25183-namco-arcade.json) |
 | Namco Classic | 239158 | [239158-namco-classic.json](./239158-namco-classic.json) |
 | Namco Classic | 48414 | [48414-namco-classic.json](./48414-namco-classic.json) |
@@ -301,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Collection 1 | 130689 | [130689-namco-museum-collection-1.json](./130689-namco-museum-collection-1.json) |
 | Namco Museum Collection 2 | 130690 | [130690-namco-museum-collection-2.json](./130690-namco-museum-collection-2.json) |
 | Namco Museum DS | 2646 | [2646-namco-museum-ds.json](./2646-namco-museum-ds.json) |
+| Namco Museum Encore | 44785 | [44785-namco-museum-encore.json](./44785-namco-museum-encore.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Namco Museum Megamix | 5048 | [5048-namco-museum-megamix.json](./5048-namco-museum-megamix.json) |
 | Namco Museum Mini Player | 220134 | [220134-namco-museum-mini-player.json](./220134-namco-museum-mini-player.json) |
@@ -2190,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Legend Baseballer | 364535 | [364535-nekketsu-legend-baseballer.json](./364535-nekketsu-legend-baseballer.json) |
 | Nekketsu Monogatari Advance | 266916 | [266916-nekketsu-monogatari-advance.json](./266916-nekketsu-monogatari-advance.json) |
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
+| Nekketsu Oyako: Hot Blooded Family | 44807 | [44807-nekketsu-oyako-hot-blooded-family.json](./44807-nekketsu-oyako-hot-blooded-family.json) |
 | Nekketsu Renegade Kunio-kun | 191643 | [191643-nekketsu-renegade-kunio-kun.json](./191643-nekketsu-renegade-kunio-kun.json) |
 | Nekketsu Stadium Card Baseball | 385507 | [385507-nekketsu-stadium-card-baseball.json](./385507-nekketsu-stadium-card-baseball.json) |
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
