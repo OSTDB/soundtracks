@@ -3908,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Obliteration 2 | 394113 | [394113-operation-obliteration-2.json](./394113-operation-obliteration-2.json) |
 | Operation Octo | 257695 | [257695-operation-octo.json](./257695-operation-octo.json) |
 | Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
+| Operation Ouch! Clonewards | 429373 | [429373-operation-ouch-clonewards.json](./429373-operation-ouch-clonewards.json) |
 | Operation Outsmart | 165242 | [165242-operation-outsmart.json](./165242-operation-outsmart.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Haste | 289594 | [289594-orion-haste.json](./289594-orion-haste.json) |
 | Orion Prime | 39084 | [39084-orion-prime.json](./39084-orion-prime.json) |
 | Orion Sandbox | 395783 | [395783-orion-sandbox.json](./395783-orion-sandbox.json) |
+| Orion Sandbox 2 | 429355 | [429355-orion-sandbox-2.json](./429355-orion-sandbox-2.json) |
 | Orion Sandbox Enhanced | 109848 | [109848-orion-sandbox-enhanced.json](./109848-orion-sandbox-enhanced.json) |
 | Orion shadow of jerboa | 127339 | [127339-orion-shadow-of-jerboa.json](./127339-orion-shadow-of-jerboa.json) |
 | Orion Trail | 34971 | [34971-orion-trail.json](./34971-orion-trail.json) |
@@ -5089,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
 | Othercell | 119230 | [119230-othercell.json](./119230-othercell.json) |
 | Othercide: Dressed to Kill - Cosmetics Pack | 226528 | [226528-othercide-dressed-to-kill-cosmetics-pack.json](./226528-othercide-dressed-to-kill-cosmetics-pack.json) |
+| Othercrown | 429371 | [429371-othercrown.json](./429371-othercrown.json) |
 | Otherland | 23637 | [23637-otherland.json](./23637-otherland.json) |
 | Otherland | 72560 | [72560-otherland.json](./72560-otherland.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
