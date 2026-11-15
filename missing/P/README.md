@@ -4627,6 +4627,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin's Dogma | 135428 | [135428-penguins-dogma.json](./135428-penguins-dogma.json) |
 | Penguin's Love | 361639 | [361639-penguins-love.json](./361639-penguins-love.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
+| Penguin's Treasure Hunt | 421632 | [421632-penguins-treasure-hunt.json](./421632-penguins-treasure-hunt.json) |
+| Penguin's Treasure Hunt 2 | 421633 | [421633-penguins-treasure-hunt-2.json](./421633-penguins-treasure-hunt-2.json) |
 | PenguinLinks v2 | 253268 | [253268-penguinlinks-v2.json](./253268-penguinlinks-v2.json) |
 | PenguInn | 223951 | [223951-penguinn.json](./223951-penguinn.json) |
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
@@ -10640,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantiquarian | 361257 | [361257-plantiquarian.json](./361257-plantiquarian.json) |
 | Plantolution | 182135 | [182135-plantolution.json](./182135-plantolution.json) |
 | Plantoons | 341570 | [341570-plantoons.json](./341570-plantoons.json) |
+| Plantopia | 421637 | [421637-plantopia.json](./421637-plantopia.json) |
 | Plants | 101330 | [101330-plants.json](./101330-plants.json) |
 | Plants | 185394 | [185394-plants.json](./185394-plants.json) |
 | Plants Huddled Together | 315303 | [315303-plants-huddled-together.json](./315303-plants-huddled-together.json) |
@@ -14219,6 +14222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop the Balloons | 88745 | [88745-pop-the-balloons.json](./88745-pop-the-balloons.json) |
 | Pop the Bubbles | 147710 | [147710-pop-the-bubbles.json](./147710-pop-the-bubbles.json) |
 | Pop the Bubblewrap | 328681 | [328681-pop-the-bubblewrap.json](./328681-pop-the-bubblewrap.json) |
+| Pop the Ghosts | 421615 | [421615-pop-the-ghosts.json](./421615-pop-the-ghosts.json) |
 | Pop the Ice | 107080 | [107080-pop-the-ice.json](./107080-pop-the-ice.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
 | Pop the Lock | 256976 | [256976-pop-the-lock.json](./256976-pop-the-lock.json) |
