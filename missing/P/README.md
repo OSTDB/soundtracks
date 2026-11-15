@@ -430,6 +430,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Challenger | 42237 | [42237-pachinko-challenger.json](./42237-pachinko-challenger.json) |
 | Pachinko CR Daiku no Gen-san GB | 55962 | [55962-pachinko-cr-daiku-no-gen-san-gb.json](./55962-pachinko-cr-daiku-no-gen-san-gb.json) |
 | Pachinko CR Mouretsu Genjin T | 97624 | [97624-pachinko-cr-mouretsu-genjin-t.json](./97624-pachinko-cr-mouretsu-genjin-t.json) |
+| Pachinko Daisakusen 1 | 48838 | [48838-pachinko-daisakusen-1.json](./48838-pachinko-daisakusen-1.json) |
+| Pachinko Daisakusen 2 | 48837 | [48837-pachinko-daisakusen-2.json](./48837-pachinko-daisakusen-2.json) |
 | Pachinko Dream | 386519 | [386519-pachinko-dream.json](./386519-pachinko-dream.json) |
 | Pachinko Fan: Shouri Sengen | 42236 | [42236-pachinko-fan-shouri-sengen.json](./42236-pachinko-fan-shouri-sengen.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
@@ -460,7 +462,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachinko-U.F.O. | 83118 | [83118-pachinko-u-f-o.json](./83118-pachinko-u-f-o.json) |
 | Pachinko! | 80433 | [80433-pachinko.json](./80433-pachinko.json) |
+| Pachio-kun 2 | 48836 | [48836-pachio-kun-2.json](./48836-pachio-kun-2.json) |
+| Pachio-kun 3 | 48835 | [48835-pachio-kun-3.json](./48835-pachio-kun-3.json) |
 | Pachio-kun 3: Pachi-Slot & Pachinko | 59507 | [59507-pachio-kun-3-pachi-slot-and-pachinko.json](./59507-pachio-kun-3-pachi-slot-and-pachinko.json) |
+| Pachio-kun 4 | 48834 | [48834-pachio-kun-4.json](./48834-pachio-kun-4.json) |
+| Pachio-kun 5 | 48833 | [48833-pachio-kun-5.json](./48833-pachio-kun-5.json) |
 | Pachio-kun FX: Maboroshi no Shima Daikessen | 59519 | [59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json](./59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
 | Pachio-kun Juuban Shoubu | 46501 | [46501-pachio-kun-juuban-shoubu.json](./46501-pachio-kun-juuban-shoubu.json) |
@@ -2654,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
 | Paris-Dakar | 112891 | [112891-paris-dakar.json](./112891-paris-dakar.json) |
 | Paris-Dakar Rally | 43469 | [43469-paris-dakar-rally.json](./43469-paris-dakar-rally.json) |
+| Paris-Dakar Rally Special! | 48832 | [48832-paris-dakar-rally-special.json](./48832-paris-dakar-rally-special.json) |
 | Paris-Marseille Racing | 249771 | [249771-paris-marseille-racing.json](./249771-paris-marseille-racing.json) |
 | Paris-Marseille Racing II | 249772 | [249772-paris-marseille-racing-ii.json](./249772-paris-marseille-racing-ii.json) |
 | Paris: Jigsaw Puzzles | 104078 | [104078-paris-jigsaw-puzzles.json](./104078-paris-jigsaw-puzzles.json) |
@@ -4302,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peep | 120658 | [120658-peep.json](./120658-peep.json) |
 | Peep Invasion | 197513 | [197513-peep-invasion.json](./197513-peep-invasion.json) |
 | Peep the Trayton | 187803 | [187803-peep-the-trayton.json](./187803-peep-the-trayton.json) |
+| Peepar Time | 48831 | [48831-peepar-time.json](./48831-peepar-time.json) |
 | Peepaw | 134868 | [134868-peepaw.json](./134868-peepaw.json) |
 | Peepaw's Farm | 164305 | [164305-peepaws-farm.json](./164305-peepaws-farm.json) |
 | Peepers | 248807 | [248807-peepers.json](./248807-peepers.json) |
@@ -5355,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PES Club Manager | 70709 | [70709-pes-club-manager.json](./70709-pes-club-manager.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
 | Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
+| Pescatore | 48830 | [48830-pescatore.json](./48830-pescatore.json) |
 | Pesco | 69748 | [69748-pesco.json](./69748-pesco.json) |
 | Peskit | 346189 | [346189-peskit.json](./346189-peskit.json) |
 | Pesky Humans | 169912 | [169912-pesky-humans.json](./169912-pesky-humans.json) |
@@ -10642,6 +10651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma | 219093 | [219093-plasma.json](./219093-plasma.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
+| Plasma Ball | 48829 | [48829-plasma-ball.json](./48829-plasma-ball.json) |
 | Plasma Drone | 243512 | [243512-plasma-drone.json](./243512-plasma-drone.json) |
 | Plasma Fist | 191945 | [191945-plasma-fist.json](./191945-plasma-fist.json) |
 | Plasma Orb | 293880 | [293880-plasma-orb.json](./293880-plasma-orb.json) |
@@ -15688,6 +15698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President for a Day - Corruption | 35292 | [35292-president-for-a-day-corruption.json](./35292-president-for-a-day-corruption.json) |
 | President for a Day - Floodings | 35291 | [35291-president-for-a-day-floodings.json](./35291-president-for-a-day-floodings.json) |
 | President Forever | 71061 | [71061-president-forever.json](./71061-president-forever.json) |
+| President no Sentaku | 48828 | [48828-president-no-sentaku.json](./48828-president-no-sentaku.json) |
 | President of Steel | 382882 | [382882-president-of-steel.json](./382882-president-of-steel.json) |
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
 | President Rocket Game | 189937 | [189937-president-rocket-game.json](./189937-president-rocket-game.json) |
@@ -16939,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
 | Pro Yakyuu Family Stadium | 218385 | [218385-pro-yakyuu-family-stadium.json](./218385-pro-yakyuu-family-stadium.json) |
 | Pro Yakyuu Family Stadium | 94844 | [94844-pro-yakyuu-family-stadium.json](./94844-pro-yakyuu-family-stadium.json) |
+| Pro Yakyuu Family Stadium '87 | 48827 | [48827-pro-yakyuu-family-stadium-87.json](./48827-pro-yakyuu-family-stadium-87.json) |
 | Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
 | Pro Yakyuu Family Stadium: Home Run Contest | 64027 | [64027-pro-yakyuu-family-stadium-home-run-contest.json](./64027-pro-yakyuu-family-stadium-home-run-contest.json) |
 | Pro Yakyuu Family Stadium: Pennant Race | 64026 | [64026-pro-yakyuu-family-stadium-pennant-race.json](./64026-pro-yakyuu-family-stadium-pennant-race.json) |
@@ -16989,6 +17001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu: Family Stadium '90 | 218387 | [218387-pro-yakyuu-family-stadium-90.json](./218387-pro-yakyuu-family-stadium-90.json) |
 | Pro Yakyuu: Famista Online 2010 | 218396 | [218396-pro-yakyuu-famista-online-2010.json](./218396-pro-yakyuu-famista-online-2010.json) |
 | Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
+| Pro Yakyuu? Satsujin Jiken! | 48826 | [48826-pro-yakyuu-satsujin-jiken.json](./48826-pro-yakyuu-satsujin-jiken.json) |
 | Pro Zombie Soccer | 14715 | [14715-pro-zombie-soccer.json](./14715-pro-zombie-soccer.json) |
 | Pro Zombie Soccer AE | 90347 | [90347-pro-zombie-soccer-ae.json](./90347-pro-zombie-soccer-ae.json) |
 | Pro-Am 64 | 279439 | [279439-pro-am-64.json](./279439-pro-am-64.json) |
@@ -20952,6 +20965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyme's Genocide | 182708 | [182708-pymes-genocide.json](./182708-pymes-genocide.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyo | 177155 | [177155-pyo.json](./177155-pyo.json) |
+| Pyokotan no Daimeiro | 48824 | [48824-pyokotan-no-daimeiro.json](./48824-pyokotan-no-daimeiro.json) |
 | Pyon-pyon Kyaruru no Mahjong-Biyori | 279678 | [279678-pyon-pyon-kyaruru-no-mahjong-biyori.json](./279678-pyon-pyon-kyaruru-no-mahjong-biyori.json) |
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
 | Pyoro + | 250059 | [250059-pyoro.json](./250059-pyoro.json) |
