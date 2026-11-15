@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Revo | 213103 | [213103-galaxy-revo.json](./213103-galaxy-revo.json) |
 | Galaxy Revo 2 | 238118 | [238118-galaxy-revo-2.json](./238118-galaxy-revo-2.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
+| Galaxy Riders | 56106 | [56106-galaxy-riders.json](./56106-galaxy-riders.json) |
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
 | Galaxy Rush | 310834 | [310834-galaxy-rush.json](./310834-galaxy-rush.json) |
 | Galaxy Rushroom | 116024 | [116024-galaxy-rushroom.json](./116024-galaxy-rushroom.json) |
@@ -4815,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigils | 391762 | [391762-gigils.json](./391762-gigils.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gigycube | 165203 | [165203-gigycube.json](./165203-gigycube.json) |
+| Gil's Lucid Dreams | 56688 | [56688-gils-lucid-dreams.json](./56688-gils-lucid-dreams.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilbert Goodmate and the Mushroom of Phungoria | 12431 | [12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json](./12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json) |
 | Gilbert: Escape from Drill | 69159 | [69159-gilbert-escape-from-drill.json](./69159-gilbert-escape-from-drill.json) |
@@ -8123,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
 | GoreBall: Remastered Edition | 179420 | [179420-goreball-remastered-edition.json](./179420-goreball-remastered-edition.json) |
+| Gorebreaker | 56097 | [56097-gorebreaker.json](./56097-gorebreaker.json) |
 | Gorecore | 345199 | [345199-gorecore.json](./345199-gorecore.json) |
 | Gorehounds of Doom | 261440 | [261440-gorehounds-of-doom.json](./261440-gorehounds-of-doom.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
@@ -8198,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
 | Goroons | 99290 | [99290-goroons.json](./99290-goroons.json) |
 | Gorotsuki Paradise | 390046 | [390046-gorotsuki-paradise.json](./390046-gorotsuki-paradise.json) |
+| Gorsd | 56084 | [56084-gorsd.json](./56084-gorsd.json) |
 | Gorufoo | 242876 | [242876-gorufoo.json](./242876-gorufoo.json) |
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
@@ -9771,6 +9775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Tough Bikini 6 | 362403 | [362403-great-tough-bikini-6.json](./362403-great-tough-bikini-6.json) |
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
 | Great Traveler | 294013 | [294013-great-traveler.json](./294013-great-traveler.json) |
+| Great User Wars | 56098 | [56098-great-user-wars.json](./56098-great-user-wars.json) |
 | Great Utopia | 129016 | [129016-great-utopia.json](./129016-great-utopia.json) |
 | Great Wall March | 265212 | [265212-great-wall-march.json](./265212-great-wall-march.json) |
 | Great Wall Street Fortune Hunt | 41545 | [41545-great-wall-street-fortune-hunt.json](./41545-great-wall-street-fortune-hunt.json) |
@@ -11371,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Holme | 211354 | [211354-guardians-of-holme.json](./211354-guardians-of-holme.json) |
 | Guardians of Hyelore | 142534 | [142534-guardians-of-hyelore.json](./142534-guardians-of-hyelore.json) |
 | Guardians of Infinity: To Save Kennedy | 71677 | [71677-guardians-of-infinity-to-save-kennedy.json](./71677-guardians-of-infinity-to-save-kennedy.json) |
+| Guardians of Life VR | 56684 | [56684-guardians-of-life-vr.json](./56684-guardians-of-life-vr.json) |
 | Guardians of Lodino Forest | 138672 | [138672-guardians-of-lodino-forest.json](./138672-guardians-of-lodino-forest.json) |
 | Guardians of Lumen | 149140 | [149140-guardians-of-lumen.json](./149140-guardians-of-lumen.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
