@@ -8701,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost a Hero | 101454 | [101454-almost-a-hero.json](./101454-almost-a-hero.json) |
 | Almost Alive | 105356 | [105356-almost-alive.json](./105356-almost-alive.json) |
 | Almost Dungeon | 303134 | [303134-almost-dungeon.json](./303134-almost-dungeon.json) |
+| Almost Hero | 56692 | [56692-almost-hero.json](./56692-almost-hero.json) |
 | Almost Heroic | 179538 | [179538-almost-heroic.json](./179538-almost-heroic.json) |
 | Almost Home | 424288 | [424288-almost-home.json](./424288-almost-home.json) |
 | Almost Home Now | 200351 | [200351-almost-home-now.json](./200351-almost-home-now.json) |
@@ -16845,6 +16846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASCII Survivors | 398448 | [398448-ascii-survivors.json](./398448-ascii-survivors.json) |
 | Ascii the Brave Cat | 143752 | [143752-ascii-the-brave-cat.json](./143752-ascii-the-brave-cat.json) |
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
+| ASCII Wars | 56674 | [56674-ascii-wars.json](./56674-ascii-wars.json) |
 | Asciicker | 154693 | [154693-asciicker.json](./154693-asciicker.json) |
 | Asciident | 126536 | [126536-asciident.json](./126536-asciident.json) |
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
