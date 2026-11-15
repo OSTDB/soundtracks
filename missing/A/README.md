@@ -5631,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
 | Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
+| Agent Dash | 64565 | [64565-agent-dash.json](./64565-agent-dash.json) |
 | Agent Dunoz | 333433 | [333433-agent-dunoz.json](./333433-agent-dunoz.json) |
 | Agent Emerson | 127618 | [127618-agent-emerson.json](./127618-agent-emerson.json) |
 | Agent Fall | 324981 | [324981-agent-fall.json](./324981-agent-fall.json) |
@@ -20167,6 +20168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenger Bird | 30491 | [30491-avenger-bird.json](./30491-avenger-bird.json) |
 | Avenger Sharks | 249027 | [249027-avenger-sharks.json](./249027-avenger-sharks.json) |
 | Avengers in Galactic Storm | 39361 | [39361-avengers-in-galactic-storm.json](./39361-avengers-in-galactic-storm.json) |
+| Avengers Initiative | 64559 | [64559-avengers-initiative.json](./64559-avengers-initiative.json) |
 | Avengers Squad | 264727 | [264727-avengers-squad.json](./264727-avengers-squad.json) |
 | Avengers: Damage Control | 122760 | [122760-avengers-damage-control.json](./122760-avengers-damage-control.json) |
 | Avengers: Laptop Infantil | 297740 | [297740-avengers-laptop-infantil.json](./297740-avengers-laptop-infantil.json) |
