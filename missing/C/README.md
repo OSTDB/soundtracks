@@ -6608,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Bowling | 131262 | [131262-championship-bowling.json](./131262-championship-bowling.json) |
 | Championship Bowling | 317525 | [317525-championship-bowling.json](./317525-championship-bowling.json) |
 | Championship Bowling | 388576 | [388576-championship-bowling.json](./388576-championship-bowling.json) |
+| Championship Bowling | 4408 | [4408-championship-bowling.json](./4408-championship-bowling.json) |
 | Championship Chess | 146411 | [146411-championship-chess.json](./146411-championship-chess.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Darts | 206910 | [206910-championship-darts.json](./206910-championship-darts.json) |
@@ -12266,6 +12267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
+| Clue | 4380 | [4380-clue.json](./4380-clue.json) |
 | Clue | 77150 | [77150-clue.json](./77150-clue.json) |
 | Clue / Mouse Trap / Perfection / Aggravation | 90926 | [90926-clue-mouse-trap-perfection-aggravation.json](./90926-clue-mouse-trap-perfection-aggravation.json) |
 | Clue Classic | 47075 | [47075-clue-classic.json](./47075-clue-classic.json) |
@@ -13327,6 +13329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Football Revamped | 150058 | [150058-college-football-revamped.json](./150058-college-football-revamped.json) |
 | College Football USA 96 | 46536 | [46536-college-football-usa-96.json](./46536-college-football-usa-96.json) |
 | College Football USA 97 | 46537 | [46537-college-football-usa-97.json](./46537-college-football-usa-97.json) |
+| College Football's National Championship | 4386 | [4386-college-footballs-national-championship.json](./4386-college-footballs-national-championship.json) |
 | College Football's National Championship II | 46535 | [46535-college-footballs-national-championship-ii.json](./46535-college-footballs-national-championship-ii.json) |
 | College Gay Sex: Episode 1 | 297928 | [297928-college-gay-sex-episode-1.json](./297928-college-gay-sex-episode-1.json) |
 | College Gay Sex: Episode 2 | 297933 | [297933-college-gay-sex-episode-2.json](./297933-college-gay-sex-episode-2.json) |
