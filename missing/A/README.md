@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
 | A Pizza Delivery | 328195 | [328195-a-pizza-delivery.json](./328195-a-pizza-delivery.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
+| A Place for Every Potion | 425139 | [425139-a-place-for-every-potion.json](./425139-a-place-for-every-potion.json) |
 | A Place for the Unwilling | 18653 | [18653-a-place-for-the-unwilling.json](./18653-a-place-for-the-unwilling.json) |
 | A Place in the Sun | 305424 | [305424-a-place-in-the-sun.json](./305424-a-place-in-the-sun.json) |
 | A Place of Significance | 414838 | [414838-a-place-of-significance.json](./414838-a-place-of-significance.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Void Society | 319757 | [319757-a-void-society.json](./319757-a-void-society.json) |
 | A Voxel Action | 65411 | [65411-a-voxel-action.json](./65411-a-voxel-action.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
+| A Waddle Quest | 425141 | [425141-a-waddle-quest.json](./425141-a-waddle-quest.json) |
 | A Waddleful Life | 325178 | [325178-a-waddleful-life.json](./325178-a-waddleful-life.json) |
 | A Waffles Fate | 176542 | [176542-a-waffles-fate.json](./176542-a-waffles-fate.json) |
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
@@ -21126,6 +21128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Striker Gunvolt 3: Ex Image Pulses - Merak and Teseo Pack | 238320 | [238320-azure-striker-gunvolt-3-ex-image-pulses-merak-and-teseo-pack.json](./238320-azure-striker-gunvolt-3-ex-image-pulses-merak-and-teseo-pack.json) |
 | Azure Striker Gunvolt 3: Ex Image Pulses - Nova and Desna pack | 265595 | [265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json](./265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json) |
 | Azure Striker Gunvolt Trilogy Enhanced | 335400 | [335400-azure-striker-gunvolt-trilogy-enhanced.json](./335400-azure-striker-gunvolt-trilogy-enhanced.json) |
+| Azure Striker Gunvolt Trilogy Enhanced: Additional Mode - Azure Striker Gunvolt GX | 425154 | [425154-azure-striker-gunvolt-trilogy-enhanced-additional-mode-azure-striker-gunvolt-gx.json](./425154-azure-striker-gunvolt-trilogy-enhanced-additional-mode-azure-striker-gunvolt-gx.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
 | Azure Wing: Rising Gale | 117228 | [117228-azure-wing-rising-gale.json](./117228-azure-wing-rising-gale.json) |
 | Azurea Juncture | 30454 | [30454-azurea-juncture.json](./30454-azurea-juncture.json) |
