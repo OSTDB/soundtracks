@@ -4408,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
 | Lethal Judgment: Origins | 91794 | [91794-lethal-judgment-origins.json](./91794-lethal-judgment-origins.json) |
 | Lethal Justice | 40334 | [40334-lethal-justice.json](./40334-lethal-justice.json) |
+| Lethal Lands | 24397 | [24397-lethal-lands.json](./24397-lethal-lands.json) |
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
 | Lethal Lawns: Competitive Mowing Bloodsport | 93763 | [93763-lethal-lawns-competitive-mowing-bloodsport.json](./93763-lethal-lawns-competitive-mowing-bloodsport.json) |
