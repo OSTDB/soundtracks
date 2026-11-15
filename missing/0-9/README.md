@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
 | 8-Bit Farm | 56729 | [56729-8-bit-farm.json](./56729-8-bit-farm.json) |
 | 8-Bit Hordes | 21414 | [21414-8-bit-hordes.json](./21414-8-bit-hordes.json) |
+| 8-Bit Invaders! | 26593 | [26593-8-bit-invaders.json](./26593-8-bit-invaders.json) |
 | 8-Bit Invaders!: Deluxe Edition | 118504 | [118504-8-bit-invaders-deluxe-edition.json](./118504-8-bit-invaders-deluxe-edition.json) |
 | 8-Bit Jump 4 | 377122 | [377122-8-bit-jump-4.json](./377122-8-bit-jump-4.json) |
 | 8-Bit Mini Mayhem | 65418 | [65418-8-bit-mini-mayhem.json](./65418-8-bit-mini-mayhem.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bitWar: Necropolis | 103112 | [103112-8bitwar-necropolis.json](./103112-8bitwar-necropolis.json) |
 | 8bitWar: Netherworld | 134312 | [134312-8bitwar-netherworld.json](./134312-8bitwar-netherworld.json) |
 | 8bitWar: Origins | 134311 | [134311-8bitwar-origins.json](./134311-8bitwar-origins.json) |
+| 8Days | 27371 | [27371-8days.json](./27371-8days.json) |
 | 8Doors: Arum's Afterlife Adventure | 137635 | [137635-8doors-arums-afterlife-adventure.json](./137635-8doors-arums-afterlife-adventure.json) |
 | 8Floor Bundle | 277722 | [277722-8floor-bundle.json](./277722-8floor-bundle.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
