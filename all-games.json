@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T03:15:55.198Z",
-  "total_soundtracks": 3387,
+  "generated_at": "2026-11-15T03:25:59.965Z",
+  "total_soundtracks": 3388,
   "games": [
     {
       "igdb_id": 292844,
@@ -15723,6 +15723,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/grounded-2-official-game-soundtrack/1829671179?uo=4",
           "album_link_url": "https://album.link/i/1829671179"
+        }
+      ]
+    },
+    {
+      "igdb_id": 114782,
+      "game_name": "Groundhog Day: Like Father Like Son",
+      "game_url": "https://ostdb.net/games/groundhog-day-like-father-like-son",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27338d6088f8daa24552c86da08",
+      "albums": [
+        {
+          "album_name": "Groundhog Day: Like Father Like Son (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0HYp16c9DWZgc1zSn10qAZ",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
