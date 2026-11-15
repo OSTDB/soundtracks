@@ -3212,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Dawn 2 | 404058 | [404058-until-dawn-2.json](./404058-until-dawn-2.json) |
 | Until Dawn Tomorrow | 177726 | [177726-until-dawn-tomorrow.json](./177726-until-dawn-tomorrow.json) |
 | Until Dawn: Extended Edition | 42947 | [42947-until-dawn-extended-edition.json](./42947-until-dawn-extended-edition.json) |
+| Until Dawn: Steelbook Edition | 42946 | [42946-until-dawn-steelbook-edition.json](./42946-until-dawn-steelbook-edition.json) |
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
 | Until Death Do We Part | 416800 | [416800-until-death-do-we-part.json](./416800-until-death-do-we-part.json) |
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
