@@ -16568,6 +16568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoronaFighter | 238254 | [238254-coronafighter.json](./238254-coronafighter.json) |
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
 | Coronation | 91381 | [91381-coronation.json](./91381-coronation.json) |
+| Coronation Street: The Mystery Of The Missing Hotpot Recipe | 65689 | [65689-coronation-street-the-mystery-of-the-missing-hotpot-recipe.json](./65689-coronation-street-the-mystery-of-the-missing-hotpot-recipe.json) |
 | Coronator | 157220 | [157220-coronator.json](./157220-coronator.json) |
 | Coronaviral | 181764 | [181764-coronaviral.json](./181764-coronaviral.json) |
 | Coronavirus | 215444 | [215444-coronavirus.json](./215444-coronavirus.json) |
