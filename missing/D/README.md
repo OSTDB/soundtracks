@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai Sengoku Rance | 278773 | [278773-dai-sengoku-rance.json](./278773-dai-sengoku-rance.json) |
 | Dai Senpu | 44325 | [44325-dai-senpu.json](./44325-dai-senpu.json) |
 | Dai Senryaku VII: Modern Military Tactics | 69530 | [69530-dai-senryaku-vii-modern-military-tactics.json](./69530-dai-senryaku-vii-modern-military-tactics.json) |
+| Dai Senryaku VII: Modern Military Tactics Exceed | 43596 | [43596-dai-senryaku-vii-modern-military-tactics-exceed.json](./43596-dai-senryaku-vii-modern-military-tactics-exceed.json) |
 | Dai-1-kai Satellaview-hai Ikuno Dictus Kinen Junkesshou/Kesshou | 151886 | [151886-dai-1-kai-satellaview-hai-ikuno-dictus-kinen-junkesshou-kesshou.json](./151886-dai-1-kai-satellaview-hai-ikuno-dictus-kinen-junkesshou-kesshou.json) |
 | Dai-2-dan: Pokémon Battle Card e+ - Yuruginai Chikara | 355957 | [355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json](./355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
@@ -1499,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Light: Shard of Faith | 170970 | [170970-dark-and-light-shard-of-faith.json](./170970-dark-and-light-shard-of-faith.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
+| Dark Angel: Vampire Apocalypse | 43607 | [43607-dark-angel-vampire-apocalypse.json](./43607-dark-angel-vampire-apocalypse.json) |
 | Dark Angels | 347041 | [347041-dark-angels.json](./347041-dark-angels.json) |
 | Dark Angels: Masquerade of Shadows | 30383 | [30383-dark-angels-masquerade-of-shadows.json](./30383-dark-angels-masquerade-of-shadows.json) |
 | Dark Apes: The Fate of Devolution | 52513 | [52513-dark-apes-the-fate-of-devolution.json](./52513-dark-apes-the-fate-of-devolution.json) |
@@ -4709,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Station | 96523 | [96523-deadly-station.json](./96523-deadly-station.json) |
 | Deadly step | 121910 | [121910-deadly-step.json](./121910-deadly-step.json) |
 | Deadly Stigma | 106532 | [106532-deadly-stigma.json](./106532-deadly-stigma.json) |
+| Deadly Strike | 43604 | [43604-deadly-strike.json](./43604-deadly-strike.json) |
 | Deadly Survival | 277022 | [277022-deadly-survival.json](./277022-deadly-survival.json) |
 | Deadly Swag | 346871 | [346871-deadly-swag.json](./346871-deadly-swag.json) |
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
@@ -9039,6 +9042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Hunter: Raider | 357372 | [357372-devil-hunter-raider.json](./357372-devil-hunter-raider.json) |
 | Devil Hunters | 240714 | [240714-devil-hunters.json](./240714-devil-hunters.json) |
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
+| Devil in the Capital | 44147 | [44147-devil-in-the-capital.json](./44147-devil-in-the-capital.json) |
 | Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
 | Devil inside | 46940 | [46940-devil-inside.json](./46940-devil-inside.json) |
