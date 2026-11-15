@@ -3989,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Getaway | 62940 | [62940-reckless-getaway.json](./62940-reckless-getaway.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Reckless Racing | 38702 | [38702-reckless-racing.json](./38702-reckless-racing.json) |
+| Reckless Racing 3 | 39265 | [39265-reckless-racing-3.json](./39265-reckless-racing-3.json) |
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reckless Racing Ultimate | 64555 | [64555-reckless-racing-ultimate.json](./64555-reckless-racing-ultimate.json) |
 | Reckless Rally | 276830 | [276830-reckless-rally.json](./276830-reckless-rally.json) |
@@ -8034,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddles And Sieges | 243867 | [243867-riddles-and-sieges.json](./243867-riddles-and-sieges.json) |
 | Riddles of Egypt | 108139 | [108139-riddles-of-egypt.json](./108139-riddles-of-egypt.json) |
 | Riddles of Fate: Into Oblivion | 140145 | [140145-riddles-of-fate-into-oblivion.json](./140145-riddles-of-fate-into-oblivion.json) |
+| Riddles of Fate: Into Oblivion - Collector's Edition | 39266 | [39266-riddles-of-fate-into-oblivion-collectors-edition.json](./39266-riddles-of-fate-into-oblivion-collectors-edition.json) |
 | Riddles of Fate: Memento Mori | 140148 | [140148-riddles-of-fate-memento-mori.json](./140148-riddles-of-fate-memento-mori.json) |
 | Riddles of Fate: Memento Mori - Collector's Edition | 86283 | [86283-riddles-of-fate-memento-mori-collectors-edition.json](./86283-riddles-of-fate-memento-mori-collectors-edition.json) |
 | Riddles of Fate: Wild Hunt | 140149 | [140149-riddles-of-fate-wild-hunt.json](./140149-riddles-of-fate-wild-hunt.json) |
@@ -11511,6 +11513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roliboli | 131924 | [131924-roliboli.json](./131924-roliboli.json) |
 | Rolie Polie Olie POP! | 18223 | [18223-rolie-polie-olie-pop.json](./18223-rolie-polie-olie-pop.json) |
 | Rolie Polie Olie: The Search for Spot | 209366 | [209366-rolie-polie-olie-the-search-for-spot.json](./209366-rolie-polie-olie-the-search-for-spot.json) |
+| Rolie, Polie,Olie Legends 2 | 39237 | [39237-rolie-polie-olie-legends-2.json](./39237-rolie-polie-olie-legends-2.json) |
 | Rolisteam | 54897 | [54897-rolisteam.json](./54897-rolisteam.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
 | Roll | 312812 | [312812-roll.json](./312812-roll.json) |
@@ -12870,6 +12873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
 | Royal Detective: Lord of Statues | 57968 | [57968-royal-detective-lord-of-statues.json](./57968-royal-detective-lord-of-statues.json) |
 | Royal Detective: Queen of Shadows | 140153 | [140153-royal-detective-queen-of-shadows.json](./140153-royal-detective-queen-of-shadows.json) |
+| Royal Detective: Queen of Shadows - Collector's Edition | 39263 | [39263-royal-detective-queen-of-shadows-collectors-edition.json](./39263-royal-detective-queen-of-shadows-collectors-edition.json) |
 | Royal Detective: The Last Charm | 140154 | [140154-royal-detective-the-last-charm.json](./140154-royal-detective-the-last-charm.json) |
 | Royal Detective: The Last Charm - Collector's Edition | 126790 | [126790-royal-detective-the-last-charm-collectors-edition.json](./126790-royal-detective-the-last-charm-collectors-edition.json) |
 | Royal Detective: The Lord of Statues | 140155 | [140155-royal-detective-the-lord-of-statues.json](./140155-royal-detective-the-lord-of-statues.json) |
