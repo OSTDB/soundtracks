@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magi Trials | 33449 | [33449-magi-trials.json](./33449-magi-trials.json) |
 | Magi: Aratanaru Sekai | 222480 | [222480-magi-aratanaru-sekai.json](./222480-magi-aratanaru-sekai.json) |
 | Magi: Hajimari no Meikyuu | 191666 | [191666-magi-hajimari-no-meikyuu.json](./191666-magi-hajimari-no-meikyuu.json) |
+| Magi: Magical Strategy Game | 73895 | [73895-magi-magical-strategy-game.json](./73895-magi-magical-strategy-game.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magi's Dream | 252532 | [252532-magis-dream.json](./252532-magis-dream.json) |
 | Magia Knabino in the Eternal Night | 129326 | [129326-magia-knabino-in-the-eternal-night.json](./129326-magia-knabino-in-the-eternal-night.json) |
@@ -4162,6 +4163,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Communication Kit | 79479 | [79479-mario-artist-communication-kit.json](./79479-mario-artist-communication-kit.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
 | Mario Artist: Graphical Message Maker | 175952 | [175952-mario-artist-graphical-message-maker.json](./175952-mario-artist-graphical-message-maker.json) |
+| Mario Artist: Paint Studio | 73026 | [73026-mario-artist-paint-studio.json](./73026-mario-artist-paint-studio.json) |
+| Mario Artist: Polygon Studio | 73027 | [73027-mario-artist-polygon-studio.json](./73027-mario-artist-polygon-studio.json) |
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
 | Mario Artist: Talent Studio | 44059 | [44059-mario-artist-talent-studio.json](./44059-mario-artist-talent-studio.json) |
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
@@ -12302,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Train Simulator 2 | 10739 | [10739-microsoft-train-simulator-2.json](./10739-microsoft-train-simulator-2.json) |
 | Microsoft Train Simulator: German Railroads Volume One: The Seventies - Along the Bigge Lake | 85987 | [85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json](./85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
+| Microsoft Train Simulator: Heidi-Express | 73918 | [73918-microsoft-train-simulator-heidi-express.json](./73918-microsoft-train-simulator-heidi-express.json) |
 | Microsoft Train Simulator: Pro Train | 209869 | [209869-microsoft-train-simulator-pro-train.json](./209869-microsoft-train-simulator-pro-train.json) |
 | Microsoft Train Simulator: Pro Train II | 209868 | [209868-microsoft-train-simulator-pro-train-ii.json](./209868-microsoft-train-simulator-pro-train-ii.json) |
 | Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
@@ -15531,6 +15535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: ISS | 193696 | [193696-mission-iss.json](./193696-mission-iss.json) |
 | Mission: It's Complicated | 128929 | [128929-mission-its-complicated.json](./128929-mission-its-complicated.json) |
+| Mission: Mainframe | 73212 | [73212-mission-mainframe.json](./73212-mission-mainframe.json) |
 | Mission: Mars | 298646 | [298646-mission-mars.json](./298646-mission-mars.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mission: Santa | 187588 | [187588-mission-santa.json](./187588-mission-santa.json) |
@@ -19524,6 +19529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosby's Confederacy | 14914 | [14914-mosbys-confederacy.json](./14914-mosbys-confederacy.json) |
 | Moscoleta | 308017 | [308017-moscoleta.json](./308017-moscoleta.json) |
 | Moscow Metro Wars | 348415 | [348415-moscow-metro-wars.json](./348415-moscow-metro-wars.json) |
+| Moscow Racer | 73025 | [73025-moscow-racer.json](./73025-moscow-racer.json) |
 | Moscow Rush | 120765 | [120765-moscow-rush.json](./120765-moscow-rush.json) |
 | Moscow to Berlin: Red Siege | 20541 | [20541-moscow-to-berlin-red-siege.json](./20541-moscow-to-berlin-red-siege.json) |
 | Mose Three Kingdoms | 120060 | [120060-mose-three-kingdoms.json](./120060-mose-three-kingdoms.json) |
@@ -19758,6 +19764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motionrec | 290075 | [290075-motionrec.json](./290075-motionrec.json) |
 | MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
 | MotionSports: Play for Real | 2658 | [2658-motionsports-play-for-real.json](./2658-motionsports-play-for-real.json) |
+| MotionX Poker | 73028 | [73028-motionx-poker.json](./73028-motionx-poker.json) |
 | Motivational Hero | 170272 | [170272-motivational-hero.json](./170272-motivational-hero.json) |
 | Motivational Hero Vol. 2 | 193097 | [193097-motivational-hero-vol-2.json](./193097-motivational-hero-vol-2.json) |
 | Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
@@ -21411,6 +21418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy Twist | 397511 | [397511-mummy-twist.json](./397511-mummy-twist.json) |
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
 | Mummy: Egyptian Puzzle | 313460 | [313460-mummy-egyptian-puzzle.json](./313460-mummy-egyptian-puzzle.json) |
+| Mummy: Tomb of the Pharaoh | 73906 | [73906-mummy-tomb-of-the-pharaoh.json](./73906-mummy-tomb-of-the-pharaoh.json) |
 | Mummy's Curse | 24852 | [24852-mummys-curse.json](./24852-mummys-curse.json) |
 | Mumps | 81970 | [81970-mumps.json](./81970-mumps.json) |
 | Mumsaren | 92938 | [92938-mumsaren.json](./92938-mumsaren.json) |
@@ -24665,6 +24673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth: History in the Making | 12187 | [12187-myth-history-in-the-making.json](./12187-myth-history-in-the-making.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
+| Myth: The Total Codex | 73892 | [73892-myth-the-total-codex.json](./73892-myth-the-total-codex.json) |
 | Myth: Twice Born Edition | 341124 | [341124-myth-twice-born-edition.json](./341124-myth-twice-born-edition.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
 | MythBeasts | 390869 | [390869-mythbeasts.json](./390869-mythbeasts.json) |
