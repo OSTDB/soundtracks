@@ -15078,6 +15078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora Kazu: Nobita no Suuji Daibouken | 142282 | [142282-dora-kazu-nobita-no-suuji-daibouken.json](./142282-dora-kazu-nobita-no-suuji-daibouken.json) |
 | Dora Laparoscopic Appendectomy | 343935 | [343935-dora-laparoscopic-appendectomy.json](./343935-dora-laparoscopic-appendectomy.json) |
 | Dora Moji: Nobita no Kanji Daisakusen | 142285 | [142285-dora-moji-nobita-no-kanji-daisakusen.json](./142285-dora-moji-nobita-no-kanji-daisakusen.json) |
+| Dora Saves the Snow Princess | 24304 | [24304-dora-saves-the-snow-princess.json](./24304-dora-saves-the-snow-princess.json) |
 | Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
 | Dora the Explorer | 221672 | [221672-dora-the-explorer.json](./221672-dora-the-explorer.json) |
 | Dora the Explorer | 85887 | [85887-dora-the-explorer.json](./85887-dora-the-explorer.json) |
@@ -16221,6 +16222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
 | Draft Day Sports: College Football 2026 | 366273 | [366273-draft-day-sports-college-football-2026.json](./366273-draft-day-sports-college-football-2026.json) |
+| Draft Day Sports: Pro Basketball 16 | 24359 | [24359-draft-day-sports-pro-basketball-16.json](./24359-draft-day-sports-pro-basketball-16.json) |
 | Draft Day Sports: Pro Basketball 2016 | 58891 | [58891-draft-day-sports-pro-basketball-2016.json](./58891-draft-day-sports-pro-basketball-2016.json) |
 | Draft Day Sports: Pro Basketball 2017 | 30908 | [30908-draft-day-sports-pro-basketball-2017.json](./30908-draft-day-sports-pro-basketball-2017.json) |
 | Draft Day Sports: Pro Basketball 2018 | 75713 | [75713-draft-day-sports-pro-basketball-2018.json](./75713-draft-day-sports-pro-basketball-2018.json) |
@@ -17300,6 +17302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonpaw | 293800 | [293800-dragonpaw.json](./293800-dragonpaw.json) |
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
 | DragonRide VR | 128176 | [128176-dragonride-vr.json](./128176-dragonride-vr.json) |
+| Dragonriders of Pern | 24382 | [24382-dragonriders-of-pern.json](./24382-dragonriders-of-pern.json) |
 | DragonRoad | 371839 | [371839-dragonroad.json](./371839-dragonroad.json) |
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Nature | 290204 | [290204-dragons-and-nature.json](./290204-dragons-and-nature.json) |
