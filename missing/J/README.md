@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry Jobhopper | 122174 | [122174-jerry-jobhopper.json](./122174-jerry-jobhopper.json) |
 | Jerry Lawson Interactive | 228168 | [228168-jerry-lawson-interactive.json](./228168-jerry-lawson-interactive.json) |
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
+| Jerry Rice & Nitus' Dog Football | 33586 | [33586-jerry-rice-and-nitus-dog-football.json](./33586-jerry-rice-and-nitus-dog-football.json) |
 | Jerry the Polar Bear | 100828 | [100828-jerry-the-polar-bear.json](./100828-jerry-the-polar-bear.json) |
 | Jerry Wanker and the Quest to get Laid | 153339 | [153339-jerry-wanker-and-the-quest-to-get-laid.json](./153339-jerry-wanker-and-the-quest-to-get-laid.json) |
 | Jerry's Autowalking Adventure to Rescue His Cheese | 278080 | [278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json](./278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json) |
@@ -2932,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonah Lomu Rugby Challenge 4 | 333520 | [333520-jonah-lomu-rugby-challenge-4.json](./333520-jonah-lomu-rugby-challenge-4.json) |
 | Jonah Lomu Rugby Challenge: Quick Match | 175156 | [175156-jonah-lomu-rugby-challenge-quick-match.json](./175156-jonah-lomu-rugby-challenge-quick-match.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
+| Jonah's Path | 32305 | [32305-jonahs-path.json](./32305-jonahs-path.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
 | Jonas | 91721 | [91721-jonas.json](./91721-jonas.json) |
 | Jonas Sky Scraper | 134926 | [134926-jonas-sky-scraper.json](./134926-jonas-sky-scraper.json) |
