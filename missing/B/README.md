@@ -9078,6 +9078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo! | 389943 | [389943-bingo.json](./389943-bingo.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
 | BingoBango | 107462 | [107462-bingobango.json](./107462-bingobango.json) |
+| Bingone | 421987 | [421987-bingone.json](./421987-bingone.json) |
 | Bingus: My Beloved | 190888 | [190888-bingus-my-beloved.json](./190888-bingus-my-beloved.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
@@ -13556,6 +13557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Tea Merge | 356522 | [356522-boba-tea-merge.json](./356522-boba-tea-merge.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
 | Bobanook! | 390788 | [390788-bobanook.json](./390788-bobanook.json) |
+| Bobarista: One Cup at a Time | 422216 | [422216-bobarista-one-cup-at-a-time.json](./422216-bobarista-one-cup-at-a-time.json) |
 | BobasQuest | 298180 | [298180-bobasquest.json](./298180-bobasquest.json) |
 | Bobber Bop | 125801 | [125801-bobber-bop.json](./125801-bobber-bop.json) |
 | Bobbi Adventure | 200574 | [200574-bobbi-adventure.json](./200574-bobbi-adventure.json) |
@@ -14938,6 +14940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Diver | 68321 | [68321-booty-diver.json](./68321-booty-diver.json) |
 | Booty Farm | 209082 | [209082-booty-farm.json](./209082-booty-farm.json) |
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
+| Booty Hunters! Digital | 422076 | [422076-booty-hunters-digital.json](./422076-booty-hunters-digital.json) |
 | Booty Quest: Match 3 Jewels! | 323071 | [323071-booty-quest-match-3-jewels.json](./323071-booty-quest-match-3-jewels.json) |
 | BootyBuns & 21 | 91035 | [91035-bootybuns-and-21.json](./91035-bootybuns-and-21.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
