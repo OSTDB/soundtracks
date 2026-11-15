@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaggle Brains! | 155873 | [155873-gaggle-brains.json](./155873-gaggle-brains.json) |
 | GagImpact | 390267 | [390267-gagimpact.json](./390267-gagimpact.json) |
 | Gah! | 258508 | [258508-gah.json](./258508-gah.json) |
+| Gahkthun of the Golden Lightning | 27000 | [27000-gahkthun-of-the-golden-lightning.json](./27000-gahkthun-of-the-golden-lightning.json) |
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
 | Gai Travel | 100240 | [100240-gai-travel.json](./100240-gai-travel.json) |
@@ -3957,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Stuffed! | 175655 | [175655-get-stuffed.json](./175655-get-stuffed.json) |
 | Get sword, kill dragon, save princess | 138978 | [138978-get-sword-kill-dragon-save-princess.json](./138978-get-sword-kill-dragon-save-princess.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
+| Get That Thief Runner | 27023 | [27023-get-that-thief-runner.json](./27023-get-that-thief-runner.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get the Banana | 128128 | [128128-get-the-banana.json](./128128-get-the-banana.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
