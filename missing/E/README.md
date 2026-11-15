@@ -8441,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
 | Excite League | 40112 | [40112-excite-league.json](./40112-excite-league.json) |
 | Excite Mahjong | 80200 | [80200-excite-mahjong.json](./80200-excite-mahjong.json) |
+| Excite Mario Bros. | 425809 | [425809-excite-mario-bros.json](./425809-excite-mario-bros.json) |
 | Excite Shoot! | 385804 | [385804-excite-shoot.json](./385804-excite-shoot.json) |
 | Excite Truck | 2635 | [2635-excite-truck.json](./2635-excite-truck.json) |
 | Excitebike | 214457 | [214457-excitebike.json](./214457-excitebike.json) |
