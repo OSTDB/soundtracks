@@ -4793,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark Davis': The Fishing Master | 42499 | [42499-mark-davis-the-fishing-master.json](./42499-mark-davis-the-fishing-master.json) |
 | Mark H. Walker's Lock 'n Load: Heroes of Stalingrad | 129539 | [129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json](./129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json) |
 | Mark Leung: Revenge of the Bitch | 10538 | [10538-mark-leung-revenge-of-the-bitch.json](./10538-mark-leung-revenge-of-the-bitch.json) |
+| Mark My Spell | 420306 | [420306-mark-my-spell.json](./420306-mark-my-spell.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
 | Mark of the Deep | 251771 | [251771-mark-of-the-deep.json](./251771-mark-of-the-deep.json) |
@@ -4810,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark's Life | 150089 | [150089-marks-life.json](./150089-marks-life.json) |
 | Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
 | Mark's Power | 283070 | [283070-marks-power.json](./283070-marks-power.json) |
+| Marked | 420378 | [420378-marked.json](./420378-marked.json) |
 | Marked by King Bs | 202706 | [202706-marked-by-king-bs.json](./202706-marked-by-king-bs.json) |
 | Marked: The Quest for Tripura | 294355 | [294355-marked-the-quest-for-tripura.json](./294355-marked-the-quest-for-tripura.json) |
 | Marker Man Adventures | 47843 | [47843-marker-man-adventures.json](./47843-marker-man-adventures.json) |
@@ -8223,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Cat Studios Collection | 413408 | [413408-mega-cat-studios-collection.json](./413408-mega-cat-studios-collection.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega Cat Studios Collection 2 | 145832 | [145832-mega-cat-studios-collection-2.json](./145832-mega-cat-studios-collection-2.json) |
+| Mega Cat Studios Collection 3 | 420397 | [420397-mega-cat-studios-collection-3.json](./420397-mega-cat-studios-collection-3.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
 | Mega City Police: Digital Collector's Edition | 260024 | [260024-mega-city-police-digital-collectors-edition.json](./260024-mega-city-police-digital-collectors-edition.json) |
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
@@ -19958,6 +19961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotionX Poker | 73028 | [73028-motionx-poker.json](./73028-motionx-poker.json) |
 | Motivational Hero | 170272 | [170272-motivational-hero.json](./170272-motivational-hero.json) |
 | Motivational Hero Vol. 2 | 193097 | [193097-motivational-hero-vol-2.json](./193097-motivational-hero-vol-2.json) |
+| Motives: The Ultimate Problem | 420386 | [420386-motives-the-ultimate-problem.json](./420386-motives-the-ultimate-problem.json) |
 | Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
 | Moto | 252606 | [252606-moto.json](./252606-moto.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
@@ -22059,6 +22063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Madness 2 | 399463 | [399463-mushroom-madness-2.json](./399463-mushroom-madness-2.json) |
 | Mushroom Madness 3 | 399465 | [399465-mushroom-madness-3.json](./399465-mushroom-madness-3.json) |
 | Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
+| Mushroom Marketplace | 420302 | [420302-mushroom-marketplace.json](./420302-mushroom-marketplace.json) |
 | Mushroom Men: Truffle Trouble | 15398 | [15398-mushroom-men-truffle-trouble.json](./15398-mushroom-men-truffle-trouble.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
