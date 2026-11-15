@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadaima Wakusei Kaitakuchuu! | 97409 | [97409-tadaima-wakusei-kaitakuchuu.json](./97409-tadaima-wakusei-kaitakuchuu.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
+| Tadeo Jones | 62906 | [62906-tadeo-jones.json](./62906-tadeo-jones.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
 | Tadpole Tales | 144438 | [144438-tadpole-tales.json](./144438-tadpole-tales.json) |
@@ -3718,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Danger of the Ooze | 19092 | [19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json](./19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json) |
 | Teenage Mutant Ninja Turtles: Dark Horizons | 64790 | [64790-teenage-mutant-ninja-turtles-dark-horizons.json](./64790-teenage-mutant-ninja-turtles-dark-horizons.json) |
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
+| Teenage Mutant Ninja Turtles: Donnie Saves a Princess | 63459 | [63459-teenage-mutant-ninja-turtles-donnie-saves-a-princess.json](./63459-teenage-mutant-ninja-turtles-donnie-saves-a-princess.json) |
 | Teenage Mutant Ninja Turtles: Double Damage | 64244 | [64244-teenage-mutant-ninja-turtles-double-damage.json](./64244-teenage-mutant-ninja-turtles-double-damage.json) |
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
@@ -4384,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou Zero | 38186 | [38186-tengai-makyou-zero.json](./38186-tengai-makyou-zero.json) |
 | Tengai Makyou Zero: Shonen Jump no Shou | 186735 | [186735-tengai-makyou-zero-shonen-jump-no-shou.json](./186735-tengai-makyou-zero-shonen-jump-no-shou.json) |
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
+| Tengai Makyou: Deden no Den | 62914 | [62914-tengai-makyou-deden-no-den.json](./62914-tengai-makyou-deden-no-den.json) |
 | Tengai Makyou: Dennou Karakuri Kakutou-den | 45952 | [45952-tengai-makyou-dennou-karakuri-kakutou-den.json](./45952-tengai-makyou-dennou-karakuri-kakutou-den.json) |
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
 | Tengai Makyou: Kabuki Ittou Ryoudan | 37604 | [37604-tengai-makyou-kabuki-ittou-ryoudan.json](./37604-tengai-makyou-kabuki-ittou-ryoudan.json) |
@@ -6417,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amethyst Stones | 153916 | [153916-the-amethyst-stones.json](./153916-the-amethyst-stones.json) |
 | The Ammonite’s Whisper | 406264 | [406264-the-ammonite-s-whisper.json](./406264-the-ammonite-s-whisper.json) |
 | The Amnesiac: Final Chapter | 270015 | [270015-the-amnesiac-final-chapter.json](./270015-the-amnesiac-final-chapter.json) |
+| The Amory Wars: Fall of the Keywork | 63494 | [63494-the-amory-wars-fall-of-the-keywork.json](./63494-the-amory-wars-fall-of-the-keywork.json) |
 | The Ampoule | 275702 | [275702-the-ampoule.json](./275702-the-ampoule.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Amulet of Darath | 58864 | [58864-the-amulet-of-darath.json](./58864-the-amulet-of-darath.json) |
@@ -9383,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dracula Files | 206187 | [206187-the-dracula-files.json](./206187-the-dracula-files.json) |
 | The Dracula Files | 206988 | [206988-the-dracula-files.json](./206988-the-dracula-files.json) |
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
+| The Dragon & Princess | 63456 | [63456-the-dragon-and-princess.json](./63456-the-dragon-and-princess.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
 | The Dragon Code | 104183 | [104183-the-dragon-code.json](./104183-the-dragon-code.json) |
@@ -30515,6 +30520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Brick Crush | 181974 | [181974-toy-brick-crush.json](./181974-toy-brick-crush.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Car Race | 391353 | [391353-toy-car-race.json](./391353-toy-car-race.json) |
+| Toy Cars | 63464 | [63464-toy-cars.json](./63464-toy-cars.json) |
 | Toy Chase | 156912 | [156912-toy-chase.json](./156912-toy-chase.json) |
 | Toy Chute: Sort Chute Organizer! | 416853 | [416853-toy-chute-sort-chute-organizer.json](./416853-toy-chute-sort-chute-organizer.json) |
 | Toy Clash: Commander of Toys | 169036 | [169036-toy-clash-commander-of-toys.json](./169036-toy-clash-commander-of-toys.json) |
@@ -34162,6 +34168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Argolis | 155733 | [155733-trials-of-argolis.json](./155733-trials-of-argolis.json) |
+| Trials of Ascension | 62910 | [62910-trials-of-ascension.json](./62910-trials-of-ascension.json) |
 | Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
 | Trials of Ashur | 112003 | [112003-trials-of-ashur.json](./112003-trials-of-ashur.json) |
 | Trials of Azra | 32399 | [32399-trials-of-azra.json](./32399-trials-of-azra.json) |
