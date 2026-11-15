@@ -6793,6 +6793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picoracer-2048 | 287324 | [287324-picoracer-2048.json](./287324-picoracer-2048.json) |
 | Picot Ether | 213520 | [213520-picot-ether.json](./213520-picot-ether.json) |
 | PicoTrains | 296255 | [296255-picotrains.json](./296255-picotrains.json) |
+| Picotto Knights | 64554 | [64554-picotto-knights.json](./64554-picotto-knights.json) |
 | Picovania | 284300 | [284300-picovania.json](./284300-picovania.json) |
 | Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
@@ -10740,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Platinum Pinball | 131266 | [131266-platinum-pinball.json](./131266-platinum-pinball.json) |
+| Platinum Solitaire | 64600 | [64600-platinum-solitaire.json](./64600-platinum-solitaire.json) |
 | Platinum Solitaire 3 | 239473 | [239473-platinum-solitaire-3.json](./239473-platinum-solitaire-3.json) |
 | Platinum Sudoku | 263322 | [263322-platinum-sudoku.json](./263322-platinum-sudoku.json) |
 | Platinum Sudoku | 47779 | [47779-platinum-sudoku.json](./47779-platinum-sudoku.json) |
@@ -20283,6 +20285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle City | 54275 | [54275-puzzle-city.json](./54275-puzzle-city.json) |
 | Puzzle Clash Heroes: Neolympia | 109155 | [109155-puzzle-clash-heroes-neolympia.json](./109155-puzzle-clash-heroes-neolympia.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
+| Puzzle Clubhouse: Episode 0 - Lazor Frogs | 64568 | [64568-puzzle-clubhouse-episode-0-lazor-frogs.json](./64568-puzzle-clubhouse-episode-0-lazor-frogs.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
 | Puzzle Collection with Pani Pani | 82559 | [82559-puzzle-collection-with-pani-pani.json](./82559-puzzle-collection-with-pani-pani.json) |
 | Puzzle Collection: Complete Edition | 225760 | [225760-puzzle-collection-complete-edition.json](./225760-puzzle-collection-complete-edition.json) |
