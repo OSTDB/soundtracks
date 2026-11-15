@@ -5049,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Online | 3685 | [3685-hello-kitty-online.json](./3685-hello-kitty-online.json) |
 | Hello Kitty Orchard | 288136 | [288136-hello-kitty-orchard.json](./288136-hello-kitty-orchard.json) |
 | Hello Kitty Pac-Man | 214363 | [214363-hello-kitty-pac-man.json](./214363-hello-kitty-pac-man.json) |
+| Hello Kitty Party | 24342 | [24342-hello-kitty-party.json](./24342-hello-kitty-party.json) |
 | Hello Kitty Pocket Camera | 207263 | [207263-hello-kitty-pocket-camera.json](./207263-hello-kitty-pocket-camera.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
@@ -14175,6 +14176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperball Tachyon | 192533 | [192533-hyperball-tachyon.json](./192533-hyperball-tachyon.json) |
 | Hyperballoid 2: Time Rider | 90499 | [90499-hyperballoid-2-time-rider.json](./90499-hyperballoid-2-time-rider.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
+| Hyperballoid HD | 24340 | [24340-hyperballoid-hd.json](./24340-hyperballoid-hd.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
 | Hyperbase | 199408 | [199408-hyperbase.json](./199408-hyperbase.json) |
 | Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
