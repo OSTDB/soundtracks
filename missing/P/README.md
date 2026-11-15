@@ -7178,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
 | Pigeon's Mission | 287762 | [287762-pigeons-mission.json](./287762-pigeons-mission.json) |
 | Pigeons Attack | 90831 | [90831-pigeons-attack.json](./90831-pigeons-attack.json) |
+| Pigeons Away | 424583 | [424583-pigeons-away.json](./424583-pigeons-away.json) |
 | Pigface | 343054 | [343054-pigface.json](./343054-pigface.json) |
 | Pigface Massacre | 207719 | [207719-pigface-massacre.json](./207719-pigface-massacre.json) |
 | Pigg Life | 355167 | [355167-pigg-life.json](./355167-pigg-life.json) |
