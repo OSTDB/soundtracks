@@ -5393,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Girls 3: Zodiac Signs, Love & Horoscope Dating | 336411 | [336411-beach-girls-3-zodiac-signs-love-and-horoscope-dating.json](./336411-beach-girls-3-zodiac-signs-love-and-horoscope-dating.json) |
 | Beach Girls: Don't Lie in Summer | 203709 | [203709-beach-girls-dont-lie-in-summer.json](./203709-beach-girls-dont-lie-in-summer.json) |
 | Beach Head 2000 | 17451 | [17451-beach-head-2000.json](./17451-beach-head-2000.json) |
+| Beach Head 2002 | 27660 | [27660-beach-head-2002.json](./27660-beach-head-2002.json) |
 | Beach Head: Desert War | 29003 | [29003-beach-head-desert-war.json](./29003-beach-head-desert-war.json) |
 | Beach Invasion 1915: Gallipoli | 347341 | [347341-beach-invasion-1915-gallipoli.json](./347341-beach-invasion-1915-gallipoli.json) |
 | Beach Invasion 1944 | 228204 | [228204-beach-invasion-1944.json](./228204-beach-invasion-1944.json) |
@@ -15083,6 +15084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boring Movies: Scientist | 362311 | [362311-boring-movies-scientist.json](./362311-boring-movies-scientist.json) |
 | Boring Movies: Spooky Bunny | 362308 | [362308-boring-movies-spooky-bunny.json](./362308-boring-movies-spooky-bunny.json) |
 | Boris | 278622 | [278622-boris.json](./278622-boris.json) |
+| Boris and the Dark Survival | 129677 | [129677-boris-and-the-dark-survival.json](./129677-boris-and-the-dark-survival.json) |
 | Boris and the Dark Survival: Symphony of Shadows | 298711 | [298711-boris-and-the-dark-survival-symphony-of-shadows.json](./298711-boris-and-the-dark-survival-symphony-of-shadows.json) |
 | Boris and the Dark Survival: The Unleashed | 298675 | [298675-boris-and-the-dark-survival-the-unleashed.json](./298675-boris-and-the-dark-survival-the-unleashed.json) |
 | Boris and the Dark Survival: The Wolf Trials | 298634 | [298634-boris-and-the-dark-survival-the-wolf-trials.json](./298634-boris-and-the-dark-survival-the-wolf-trials.json) |
