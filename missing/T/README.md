@@ -10974,6 +10974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life: DX Jinsei Game | 93455 | [93455-the-game-of-life-dx-jinsei-game.json](./93455-the-game-of-life-dx-jinsei-game.json) |
 | The Game of Life: DX Jinsei Game II | 97571 | [97571-the-game-of-life-dx-jinsei-game-ii.json](./97571-the-game-of-life-dx-jinsei-game-ii.json) |
 | The Game of Life: DX Jinsei Game III | 364764 | [364764-the-game-of-life-dx-jinsei-game-iii.json](./364764-the-game-of-life-dx-jinsei-game-iii.json) |
+| The Game of Life: DX Jinsei Game IV | 56096 | [56096-the-game-of-life-dx-jinsei-game-iv.json](./56096-the-game-of-life-dx-jinsei-game-iv.json) |
 | The Game of Life: Jinsei Game | 97572 | [97572-the-game-of-life-jinsei-game.json](./97572-the-game-of-life-jinsei-game.json) |
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
@@ -16199,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
 | The Orphaned Soul | 106338 | [106338-the-orphaned-soul.json](./106338-the-orphaned-soul.json) |
 | The Orpheus Ruse | 33910 | [33910-the-orpheus-ruse.json](./33910-the-orpheus-ruse.json) |
+| The Orthodox | 56104 | [56104-the-orthodox.json](./56104-the-orthodox.json) |
 | The Orville: Interactive Fan Experience | 120669 | [120669-the-orville-interactive-fan-experience.json](./120669-the-orville-interactive-fan-experience.json) |
 | The Ostrakon | 425195 | [425195-the-ostrakon.json](./425195-the-ostrakon.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
@@ -36849,6 +36851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Fighters X | 358652 | [358652-twin-fighters-x.json](./358652-twin-fighters-x.json) |
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Flames | 318312 | [318312-twin-flames.json](./318312-twin-flames.json) |
+| Twin Flames | 56077 | [56077-twin-flames.json](./56077-twin-flames.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Gods | 277464 | [277464-twin-gods.json](./277464-twin-gods.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
