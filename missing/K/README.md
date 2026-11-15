@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-16: Story of Steel | 260837 | [260837-k-16-story-of-steel.json](./260837-k-16-story-of-steel.json) |
 | K-9 Cyber Companion | 209848 | [209848-k-9-cyber-companion.json](./209848-k-9-cyber-companion.json) |
 | K-9 Dog Job | 286756 | [286756-k-9-dog-job.json](./286756-k-9-dog-job.json) |
+| K-Booom | 422730 | [422730-k-booom.json](./422730-k-booom.json) |
 | K-Bot | 303610 | [303610-k-bot.json](./303610-k-bot.json) |
 | K-FED: Dancing with Fire | 387928 | [387928-k-fed-dancing-with-fire.json](./387928-k-fed-dancing-with-fire.json) |
 | K-Jo Chases the Cheese | 321653 | [321653-k-jo-chases-the-cheese.json](./321653-k-jo-chases-the-cheese.json) |
@@ -2275,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keypress Express | 420772 | [420772-keypress-express.json](./420772-keypress-express.json) |
 | Keypress Mania | 373544 | [373544-keypress-mania.json](./373544-keypress-mania.json) |
 | Keypybara | 387476 | [387476-keypybara.json](./387476-keypybara.json) |
+| KeyQuack Quest | 422787 | [422787-keyquack-quest.json](./422787-keyquack-quest.json) |
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
 | Keys | 83543 | [83543-keys.json](./83543-keys.json) |
 | Keys and Kastles | 260248 | [260248-keys-and-kastles.json](./260248-keys-and-kastles.json) |
