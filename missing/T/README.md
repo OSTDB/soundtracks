@@ -6296,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agency of Anomalies: Mystic Hospital | 58045 | [58045-the-agency-of-anomalies-mystic-hospital.json](./58045-the-agency-of-anomalies-mystic-hospital.json) |
 | The Agency of Anomalies: Mystic Hospital - Collector's Edition | 32015 | [32015-the-agency-of-anomalies-mystic-hospital-collectors-edition.json](./32015-the-agency-of-anomalies-mystic-hospital-collectors-edition.json) |
 | The Agency of Anomalies: The Last Performance | 58046 | [58046-the-agency-of-anomalies-the-last-performance.json](./58046-the-agency-of-anomalies-the-last-performance.json) |
+| The Agency of Anomalies: The Last Performance - Collector's Edition | 39264 | [39264-the-agency-of-anomalies-the-last-performance-collectors-edition.json](./39264-the-agency-of-anomalies-the-last-performance-collectors-edition.json) |
 | The Agency: Chapter 1 | 32353 | [32353-the-agency-chapter-1.json](./32353-the-agency-chapter-1.json) |
 | The Agency: Chapter 2 | 87939 | [87939-the-agency-chapter-2.json](./87939-the-agency-chapter-2.json) |
 | The Agent | 91767 | [91767-the-agent.json](./91767-the-agent.json) |
@@ -12554,6 +12555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
 | The Island of Dr. Yepstein | 171304 | [171304-the-island-of-dr-yepstein.json](./171304-the-island-of-dr-yepstein.json) |
 | The Island of Earthly Delights | 311919 | [311919-the-island-of-earthly-delights.json](./311919-the-island-of-earthly-delights.json) |
+| The Island of Eternal Struggle | 39277 | [39277-the-island-of-eternal-struggle.json](./39277-the-island-of-eternal-struggle.json) |
 | The Island of Kesmai | 344888 | [344888-the-island-of-kesmai.json](./344888-the-island-of-kesmai.json) |
 | The Island of Killer Cacos | 300741 | [300741-the-island-of-killer-cacos.json](./300741-the-island-of-killer-cacos.json) |
 | The Island of Lost Hope | 73528 | [73528-the-island-of-lost-hope.json](./73528-the-island-of-lost-hope.json) |
@@ -34237,6 +34239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial Takedown | 349798 | [349798-trial-takedown.json](./349798-trial-takedown.json) |
 | Trial Traction | 304852 | [304852-trial-traction.json](./304852-trial-traction.json) |
 | Trial Xtreme | 80437 | [80437-trial-xtreme.json](./80437-trial-xtreme.json) |
+| Trial Xtreme 2 | 39241 | [39241-trial-xtreme-2.json](./39241-trial-xtreme-2.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 | 86931 | [86931-trial-xtreme-4.json](./86931-trial-xtreme-4.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
