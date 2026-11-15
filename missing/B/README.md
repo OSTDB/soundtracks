@@ -10970,6 +10970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Mobile Battle | 79216 | [79216-blazblue-mobile-battle.json](./79216-blazblue-mobile-battle.json) |
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Battle Cards | 61502 | [61502-blazblue-battle-cards.json](./61502-blazblue-battle-cards.json) |
+| BlazBlue: Battle x Puzzle | 58953 | [58953-blazblue-battle-x-puzzle.json](./58953-blazblue-battle-x-puzzle.json) |
 | BlazBlue: Calamity Trigger - Limited Edition | 42964 | [42964-blazblue-calamity-trigger-limited-edition.json](./42964-blazblue-calamity-trigger-limited-edition.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
 | BlazBlue: Central Fiction | 11613 | [11613-blazblue-central-fiction.json](./11613-blazblue-central-fiction.json) |
