@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Titan | 83415 | [83415-mahjong-titan.json](./83415-mahjong-titan.json) |
 | Mahjong Touryuumon | 82265 | [82265-mahjong-touryuumon.json](./82265-mahjong-touryuumon.json) |
 | Mahjong Towers | 341077 | [341077-mahjong-towers.json](./341077-mahjong-towers.json) |
+| Mahjong Towers Eternity | 16179 | [16179-mahjong-towers-eternity.json](./16179-mahjong-towers-eternity.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Travel | 252285 | [252285-mahjong-travel.json](./252285-mahjong-travel.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
@@ -15559,6 +15560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission In Space | 221755 | [221755-mission-in-space.json](./221755-mission-in-space.json) |
 | Mission Indeed 2.0 FPS | 129383 | [129383-mission-indeed-2-0-fps.json](./129383-mission-indeed-2-0-fps.json) |
 | Mission Jupiter | 13015 | [13015-mission-jupiter.json](./13015-mission-jupiter.json) |
+| Mission Kellogg's | 16326 | [16326-mission-kelloggs.json](./16326-mission-kelloggs.json) |
 | Mission LunaTrix | 338048 | [338048-mission-lunatrix.json](./338048-mission-lunatrix.json) |
 | Mission Mars | 147390 | [147390-mission-mars.json](./147390-mission-mars.json) |
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
@@ -18550,6 +18552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Blob | 160024 | [160024-moon-blob.json](./160024-moon-blob.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
 | Moon Break | 358892 | [358892-moon-break.json](./358892-moon-break.json) |
+| Moon Breakers | 16350 | [16350-moon-breakers.json](./16350-moon-breakers.json) |
 | Moon Bride | 376040 | [376040-moon-bride.json](./376040-moon-bride.json) |
 | Moon Buggy | 288672 | [288672-moon-buggy.json](./288672-moon-buggy.json) |
 | Moon Buggy | 40930 | [40930-moon-buggy.json](./40930-moon-buggy.json) |
@@ -19442,6 +19445,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Kold War Pack | 308749 | [308749-mortal-kombat-x-kold-war-pack.json](./308749-mortal-kombat-x-kold-war-pack.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat X: Kollector's Edition | 45150 | [45150-mortal-kombat-x-kollectors-edition.json](./45150-mortal-kombat-x-kollectors-edition.json) |
+| Mortal Kombat X: Kombat Pack | 16130 | [16130-mortal-kombat-x-kombat-pack.json](./16130-mortal-kombat-x-kombat-pack.json) |
+| Mortal Kombat X: Kombat Pack 2 | 16131 | [16131-mortal-kombat-x-kombat-pack-2.json](./16131-mortal-kombat-x-kombat-pack-2.json) |
 | Mortal Kombat X: Krimson Ermac | 308750 | [308750-mortal-kombat-x-krimson-ermac.json](./308750-mortal-kombat-x-krimson-ermac.json) |
 | Mortal Kombat X: Leatherface | 141053 | [141053-mortal-kombat-x-leatherface.json](./141053-mortal-kombat-x-leatherface.json) |
 | Mortal Kombat X: Predator | 164819 | [164819-mortal-kombat-x-predator.json](./164819-mortal-kombat-x-predator.json) |
@@ -23021,6 +23026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
 | My Girlfriend is a Musician | 195171 | [195171-my-girlfriend-is-a-musician.json](./195171-my-girlfriend-is-a-musician.json) |
 | My Girlfriend is a Vamp | 394365 | [394365-my-girlfriend-is-a-vamp.json](./394365-my-girlfriend-is-a-vamp.json) |
+| My Girlfriend is the President | 16322 | [16322-my-girlfriend-is-the-president.json](./16322-my-girlfriend-is-the-president.json) |
 | My Girlfriend is... Centaur | 303103 | [303103-my-girlfriend-is-centaur.json](./303103-my-girlfriend-is-centaur.json) |
 | My Girlfriend Loves a Mystery | 209021 | [209021-my-girlfriend-loves-a-mystery.json](./209021-my-girlfriend-loves-a-mystery.json) |
 | My Girlfriend Loves My Blood | 219715 | [219715-my-girlfriend-loves-my-blood.json](./219715-my-girlfriend-loves-my-blood.json) |
