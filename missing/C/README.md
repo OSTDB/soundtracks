@@ -12869,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Pack | 324419 | [324419-coffee-pack.json](./324419-coffee-pack.json) |
 | Coffee Pixes | 75060 | [75060-coffee-pixes.json](./75060-coffee-pixes.json) |
 | Coffee Please | 322016 | [322016-coffee-please.json](./322016-coffee-please.json) |
+| Coffee Pot Terrarium | 33526 | [33526-coffee-pot-terrarium.json](./33526-coffee-pot-terrarium.json) |
 | Coffee Quake 2: Double Shot | 271194 | [271194-coffee-quake-2-double-shot.json](./271194-coffee-quake-2-double-shot.json) |
 | Coffee Quest VR | 338872 | [338872-coffee-quest-vr.json](./338872-coffee-quest-vr.json) |
 | Coffee Raccoons | 413038 | [413038-coffee-raccoons.json](./413038-coffee-raccoons.json) |
