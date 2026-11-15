@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Zero | 63157 | [63157-a-new-zero.json](./63157-a-new-zero.json) |
 | A Next Level Adventure | 362868 | [362868-a-next-level-adventure.json](./362868-a-next-level-adventure.json) |
 | A nice date | 178749 | [178749-a-nice-date.json](./178749-a-nice-date.json) |
+| A Nifty Game | 20468 | [20468-a-nifty-game.json](./20468-a-nifty-game.json) |
 | A Night Alone | 179859 | [179859-a-night-alone.json](./179859-a-night-alone.json) |
 | A Night At Andy's | 184620 | [184620-a-night-at-andys.json](./184620-a-night-at-andys.json) |
 | A Night at Fanny's | 259781 | [259781-a-night-at-fannys.json](./259781-a-night-at-fannys.json) |
@@ -10803,6 +10804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda | 86149 | [86149-andromeda.json](./86149-andromeda.json) |
 | Andromeda 2 Zombies | 169492 | [169492-andromeda-2-zombies.json](./169492-andromeda-2-zombies.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
+| Andromeda Conquest | 18665 | [18665-andromeda-conquest.json](./18665-andromeda-conquest.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
 | Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
 | Andromeda One Zombies | 170634 | [170634-andromeda-one-zombies.json](./170634-andromeda-one-zombies.json) |
