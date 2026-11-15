@@ -6260,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go, Diego, Go! Great Dinosaur Rescue | 47978 | [47978-go-diego-go-great-dinosaur-rescue.json](./47978-go-diego-go-great-dinosaur-rescue.json) |
 | Go, Diego, Go! Safari Rescue | 209758 | [209758-go-diego-go-safari-rescue.json](./209758-go-diego-go-safari-rescue.json) |
 | Go, Diego, Go! Safari Rescue | 209759 | [209759-go-diego-go-safari-rescue.json](./209759-go-diego-go-safari-rescue.json) |
+| Go, Diego, Go! Safari Rescue | 43581 | [43581-go-diego-go-safari-rescue.json](./43581-go-diego-go-safari-rescue.json) |
 | Go, Diego, Go!: Animal Rescuer | 79460 | [79460-go-diego-go-animal-rescuer.json](./79460-go-diego-go-animal-rescuer.json) |
 | Go, Diego, Go!: Diego's Underwater Adventure | 413701 | [413701-go-diego-go-diegos-underwater-adventure.json](./413701-go-diego-go-diegos-underwater-adventure.json) |
 | Go, Go Cowboy | 149669 | [149669-go-go-cowboy.json](./149669-go-go-cowboy.json) |
@@ -8797,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
 | Grand Prix 500 2 | 80645 | [80645-grand-prix-500-2.json](./80645-grand-prix-500-2.json) |
 | Grand Prix 500 cc | 15229 | [15229-grand-prix-500-cc.json](./15229-grand-prix-500-cc.json) |
+| Grand Prix Challenge | 43600 | [43600-grand-prix-challenge.json](./43600-grand-prix-challenge.json) |
 | Grand Prix Championship 2 | 54064 | [54064-grand-prix-championship-2.json](./54064-grand-prix-championship-2.json) |
 | Grand Prix Circuit | 12124 | [12124-grand-prix-circuit.json](./12124-grand-prix-circuit.json) |
 | Grand Prix Circuit | 278443 | [278443-grand-prix-circuit.json](./278443-grand-prix-circuit.json) |
@@ -11101,6 +11103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growlanser | 21309 | [21309-growlanser.json](./21309-growlanser.json) |
 | Growlanser Collection | 72430 | [72430-growlanser-collection.json](./72430-growlanser-collection.json) |
 | Growlanser Generations | 21311 | [21311-growlanser-generations.json](./21311-growlanser-generations.json) |
+| Growlanser Generations: Deluxe Edition | 43580 | [43580-growlanser-generations-deluxe-edition.json](./43580-growlanser-generations-deluxe-edition.json) |
 | Growlanser II: The Sense of Justice | 21310 | [21310-growlanser-ii-the-sense-of-justice.json](./21310-growlanser-ii-the-sense-of-justice.json) |
 | Growlanser III: The Dual Darkness | 21312 | [21312-growlanser-iii-the-dual-darkness.json](./21312-growlanser-iii-the-dual-darkness.json) |
 | Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
@@ -11226,6 +11229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTA Long Night | 309592 | [309592-gta-long-night.json](./309592-gta-long-night.json) |
 | GTA: La Heist | 121176 | [121176-gta-la-heist.json](./121176-gta-la-heist.json) |
 | GtaGuessr | 322025 | [322025-gtaguessr.json](./322025-gtaguessr.json) |
+| GTC: Africa | 43598 | [43598-gtc-africa.json](./43598-gtc-africa.json) |
 | GTFO | 36646 | [36646-gtfo.json](./36646-gtfo.json) |
 | GTFO: The Final Chapter | 279648 | [279648-gtfo-the-final-chapter.json](./279648-gtfo-the-final-chapter.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
