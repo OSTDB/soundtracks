@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. 2: Project Origin + Reborn | 22985 | [22985-f-e-a-r-2-project-origin-reborn.json](./22985-f-e-a-r-2-project-origin-reborn.json) |
 | F.E.A.R. 2: Reborn | 22886 | [22886-f-e-a-r-2-reborn.json](./22886-f-e-a-r-2-reborn.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
+| F.E.A.R. 360 Recompiled | 428743 | [428743-f-e-a-r-360-recompiled.json](./428743-f-e-a-r-360-recompiled.json) |
 | F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
@@ -3327,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Rampage | 96680 | [96680-fast-food-rampage.json](./96680-fast-food-rampage.json) |
 | Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
 | Fast Food Simulator | 158860 | [158860-fast-food-simulator.json](./158860-fast-food-simulator.json) |
+| Fast Food Squad Hunters | 428750 | [428750-fast-food-squad-hunters.json](./428750-fast-food-squad-hunters.json) |
 | Fast Food Tycoon | 8912 | [8912-fast-food-tycoon.json](./8912-fast-food-tycoon.json) |
 | Fast Food Tycoon 2 | 80335 | [80335-fast-food-tycoon-2.json](./80335-fast-food-tycoon-2.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
@@ -5861,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Football Tactics | 182152 | [182152-final-football-tactics.json](./182152-final-football-tactics.json) |
 | Final Forge | 244296 | [244296-final-forge.json](./244296-final-forge.json) |
 | Final Fortress: Idle Survival | 23276 | [23276-final-fortress-idle-survival.json](./23276-final-fortress-idle-survival.json) |
+| FINAL FORTUNE | 428744 | [428744-final-fortune.json](./428744-final-fortune.json) |
 | Final Frame | 133159 | [133159-final-frame.json](./133159-final-frame.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
 | Final Freeway 2R | 197997 | [197997-final-freeway-2r.json](./197997-final-freeway-2r.json) |
@@ -9990,6 +9993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folders on the Run | 398497 | [398497-folders-on-the-run.json](./398497-folders-on-the-run.json) |
 | Folding Maze | 195700 | [195700-folding-maze.json](./195700-folding-maze.json) |
 | Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
+| Foldlock | 428752 | [428752-foldlock.json](./428752-foldlock.json) |
 | Folds of a Separation | 218609 | [218609-folds-of-a-separation.json](./218609-folds-of-a-separation.json) |
 | Foldy Bird | 393408 | [393408-foldy-bird.json](./393408-foldy-bird.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
@@ -10288,6 +10292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
 | Football Blitz | 31639 | [31639-football-blitz.json](./31639-football-blitz.json) |
+| Football Boardroom | 428731 | [428731-football-boardroom.json](./428731-football-boardroom.json) |
 | Football Boss: Be The Manager | 250178 | [250178-football-boss-be-the-manager.json](./250178-football-boss-be-the-manager.json) |
 | Football Bros | 325229 | [325229-football-bros.json](./325229-football-bros.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
@@ -10456,6 +10461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
 | Football School | 120084 | [120084-football-school.json](./120084-football-school.json) |
+| Football Scout Simulator | 428733 | [428733-football-scout-simulator.json](./428733-football-scout-simulator.json) |
 | Football Seasons | 239117 | [239117-football-seasons.json](./239117-football-seasons.json) |
 | Football Sepak Kick Volleyball | 193907 | [193907-football-sepak-kick-volleyball.json](./193907-football-sepak-kick-volleyball.json) |
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
@@ -10837,6 +10843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreman for Real | 370892 | [370892-foreman-for-real.json](./370892-foreman-for-real.json) |
 | Foreman for Real | 370893 | [370893-foreman-for-real.json](./370893-foreman-for-real.json) |
 | Foreman Frenzy! | 343284 | [343284-foreman-frenzy.json](./343284-foreman-frenzy.json) |
+| Forensic EduSim | 428766 | [428766-forensic-edusim.json](./428766-forensic-edusim.json) |
 | Forensic Science Mystery | 399633 | [399633-forensic-science-mystery.json](./399633-forensic-science-mystery.json) |
 | Forensic: M.E. Protocol | 398451 | [398451-forensic-m-e-protocol.json](./398451-forensic-m-e-protocol.json) |
 | Forensics: Crime Scene Detective | 406712 | [406712-forensics-crime-scene-detective.json](./406712-forensics-crime-scene-detective.json) |
