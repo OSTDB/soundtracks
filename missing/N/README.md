@@ -5531,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nineteen | 187712 | [187712-nineteen.json](./187712-nineteen.json) |
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
 | Ninety Days | 149683 | [149683-ninety-days.json](./149683-ninety-days.json) |
+| Ninety Nine | 28229 | [28229-ninety-nine.json](./28229-ninety-nine.json) |
 | Ninety Nine Dungeons | 398699 | [398699-ninety-nine-dungeons.json](./398699-ninety-nine-dungeons.json) |
 | Ninety Thousand Acres | 321499 | [321499-ninety-thousand-acres.json](./321499-ninety-thousand-acres.json) |
 | Ninety-Nine (99) | 359676 | [359676-ninety-nine-99.json](./359676-ninety-nine-99.json) |
