@@ -5284,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Hope: The Redeemer | 265337 | [265337-light-of-hope-the-redeemer.json](./265337-light-of-hope-the-redeemer.json) |
 | Light of Life | 211818 | [211818-light-of-life.json](./211818-light-of-life.json) |
 | Light of Lithos | 355594 | [355594-light-of-lithos.json](./355594-light-of-lithos.json) |
+| Light of Mine | 74580 | [74580-light-of-mine.json](./74580-light-of-mine.json) |
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
 | Light of the Ancients | 351542 | [351542-light-of-the-ancients.json](./351542-light-of-the-ancients.json) |
@@ -5520,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
 | LightStrike | 29784 | [29784-lightstrike.json](./29784-lightstrike.json) |
 | LightSup! | 259021 | [259021-lightsup.json](./259021-lightsup.json) |
+| LightTrack | 74582 | [74582-lighttrack.json](./74582-lighttrack.json) |
 | LightUp! | 186248 | [186248-lightup.json](./186248-lightup.json) |
 | Lightus | 297747 | [297747-lightus.json](./297747-lightus.json) |
 | Lightvayne: Adventure on Volcanus Island | 322650 | [322650-lightvayne-adventure-on-volcanus-island.json](./322650-lightvayne-adventure-on-volcanus-island.json) |
@@ -8646,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Fallen: Collector's Edition | 28128 | [28128-lords-of-the-fallen-collectors-edition.json](./28128-lords-of-the-fallen-collectors-edition.json) |
 | Lords of the Fallen: Complete Edition | 166990 | [166990-lords-of-the-fallen-complete-edition.json](./166990-lords-of-the-fallen-complete-edition.json) |
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
+| Lords of the Fallen: Demonic Weapon Pack | 75291 | [75291-lords-of-the-fallen-demonic-weapon-pack.json](./75291-lords-of-the-fallen-demonic-weapon-pack.json) |
 | Lords of the Fallen: Digital Deluxe Edition | 53302 | [53302-lords-of-the-fallen-digital-deluxe-edition.json](./53302-lords-of-the-fallen-digital-deluxe-edition.json) |
 | Lords of the Fallen: Game of the Year Edition | 24728 | [24728-lords-of-the-fallen-game-of-the-year-edition.json](./24728-lords-of-the-fallen-game-of-the-year-edition.json) |
 | Lords of the Fallen: Limited Edition | 53298 | [53298-lords-of-the-fallen-limited-edition.json](./53298-lords-of-the-fallen-limited-edition.json) |
@@ -11236,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luv Me Buddies Wonderland | 85264 | [85264-luv-me-buddies-wonderland.json](./85264-luv-me-buddies-wonderland.json) |
 | Luv Me Buddies Wonderland | 85265 | [85265-luv-me-buddies-wonderland.json](./85265-luv-me-buddies-wonderland.json) |
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
+| Luvocious | 75258 | [75258-luvocious.json](./75258-luvocious.json) |
 | LuvSic | 150363 | [150363-luvsic.json](./150363-luvsic.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux | 72442 | [72442-lux.json](./72442-lux.json) |
