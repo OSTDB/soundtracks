@@ -6927,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
 | The Bard's Tale | 3803 | [3803-the-bards-tale.json](./3803-the-bards-tale.json) |
 | The Bard's Tale | 394237 | [394237-the-bards-tale.json](./394237-the-bards-tale.json) |
+| The Bard's Tale Construction Set | 2429 | [2429-the-bards-tale-construction-set.json](./2429-the-bards-tale-construction-set.json) |
 | The Bard's Tale II: The Destiny Knight | 2430 | [2430-the-bards-tale-ii-the-destiny-knight.json](./2430-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale II: The Destiny Knight | 273091 | [273091-the-bards-tale-ii-the-destiny-knight.json](./273091-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale IV | 26986 | [26986-the-bards-tale-iv.json](./26986-the-bards-tale-iv.json) |
@@ -16206,6 +16207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
 | The Operational Art of War II: Elite Edition | 73677 | [73677-the-operational-art-of-war-ii-elite-edition.json](./73677-the-operational-art-of-war-ii-elite-edition.json) |
 | The Operational Art of War II: Flashpoint Kosovo | 70073 | [70073-the-operational-art-of-war-ii-flashpoint-kosovo.json](./70073-the-operational-art-of-war-ii-flashpoint-kosovo.json) |
+| The Operational Art of War II: Modern Battles 1956-2000 | 823 | [823-the-operational-art-of-war-ii-modern-battles-1956-2000.json](./823-the-operational-art-of-war-ii-modern-battles-1956-2000.json) |
 | The Operational Art of War: Century of Warfare | 68844 | [68844-the-operational-art-of-war-century-of-warfare.json](./68844-the-operational-art-of-war-century-of-warfare.json) |
 | The Operative: No One Lives Forever | 897 | [897-the-operative-no-one-lives-forever.json](./897-the-operative-no-one-lives-forever.json) |
 | The Options Menu | 405551 | [405551-the-options-menu.json](./405551-the-options-menu.json) |
@@ -21102,6 +21104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wheel | 185439 | [185439-the-wheel.json](./185439-the-wheel.json) |
 | The Wheel | 280054 | [280054-the-wheel.json](./280054-the-wheel.json) |
 | The Wheel of Fortune | 182396 | [182396-the-wheel-of-fortune.json](./182396-the-wheel-of-fortune.json) |
+| The Wheel of Time | 901 | [901-the-wheel-of-time.json](./901-the-wheel-of-time.json) |
 | The Wheelchair Man | 405965 | [405965-the-wheelchair-man.json](./405965-the-wheelchair-man.json) |
 | The Wheels of Lull | 322469 | [322469-the-wheels-of-lull.json](./322469-the-wheels-of-lull.json) |
 | The Whims of the Gods | 300785 | [300785-the-whims-of-the-gods.json](./300785-the-whims-of-the-gods.json) |
@@ -27768,6 +27771,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
 | Tom Clancy's H.A.W.X 2 | 984 | [984-tom-clancys-h-a-w-x-2.json](./984-tom-clancys-h-a-w-x-2.json) |
 | Tom Clancy's Origin Collection | 53803 | [53803-tom-clancys-origin-collection.json](./53803-tom-clancys-origin-collection.json) |
+| Tom Clancy's Politika | 1856 | [1856-tom-clancys-politika.json](./1856-tom-clancys-politika.json) |
+| Tom Clancy's Rainbow 6: Patriots | 1855 | [1855-tom-clancys-rainbow-6-patriots.json](./1855-tom-clancys-rainbow-6-patriots.json) |
 | Tom Clancy's Rainbow Six | 1842 | [1842-tom-clancys-rainbow-six.json](./1842-tom-clancys-rainbow-six.json) |
 | Tom Clancy's Rainbow Six | 249139 | [249139-tom-clancys-rainbow-six.json](./249139-tom-clancys-rainbow-six.json) |
 | Tom Clancy's Rainbow Six 3 | 305802 | [305802-tom-clancys-rainbow-six-3.json](./305802-tom-clancys-rainbow-six-3.json) |
@@ -27829,11 +27834,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Ultimate Edition | 118898 | [118898-tom-clancys-rainbow-six-siege-ultimate-edition.json](./118898-tom-clancys-rainbow-six-siege-ultimate-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 2 HK SDU Special Edition | 167157 | [167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json](./167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
+| Tom Clancy's Rainbow Six: Critical Hour | 1852 | [1852-tom-clancys-rainbow-six-critical-hour.json](./1852-tom-clancys-rainbow-six-critical-hour.json) |
 | Tom Clancy's Rainbow Six: Lockdown | 312285 | [312285-tom-clancys-rainbow-six-lockdown.json](./312285-tom-clancys-rainbow-six-lockdown.json) |
 | Tom Clancy's Rainbow Six: Lone Wolf | 44989 | [44989-tom-clancys-rainbow-six-lone-wolf.json](./44989-tom-clancys-rainbow-six-lone-wolf.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear | 1843 | [1843-tom-clancys-rainbow-six-rogue-spear.json](./1843-tom-clancys-rainbow-six-rogue-spear.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear | 249165 | [249165-tom-clancys-rainbow-six-rogue-spear.json](./249165-tom-clancys-rainbow-six-rogue-spear.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
+| Tom Clancy's Rainbow Six: Rogue Spear - Urban Operations | 1844 | [1844-tom-clancys-rainbow-six-rogue-spear-urban-operations.json](./1844-tom-clancys-rainbow-six-rogue-spear-urban-operations.json) |
+| Tom Clancy's Rainbow Six: Shadow Vanguard | 1854 | [1854-tom-clancys-rainbow-six-shadow-vanguard.json](./1854-tom-clancys-rainbow-six-shadow-vanguard.json) |
 | Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six: Take-Down – Missions in Korea | 135591 | [135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json](./135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json) |
 | Tom Clancy's Rainbow Six: Vegas | 196507 | [196507-tom-clancys-rainbow-six-vegas.json](./196507-tom-clancys-rainbow-six-vegas.json) |
@@ -27842,6 +27850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Vegas 2 | 1853 | [1853-tom-clancys-rainbow-six-vegas-2.json](./1853-tom-clancys-rainbow-six-vegas-2.json) |
 | Tom Clancy's Rainbow Six: Vegas 2 / Tom Clancy's Ghost Recon: Advanced Warfighter 2 | 130809 | [130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json](./130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Rainbow Six: Vegas Collection | 295251 | [295251-tom-clancys-rainbow-six-vegas-collection.json](./295251-tom-clancys-rainbow-six-vegas-collection.json) |
+| Tom Clancy's ruthless.com | 1858 | [1858-tom-clancys-ruthless-com.json](./1858-tom-clancys-ruthless-com.json) |
 | Tom Clancy's ShadowBreak | 124470 | [124470-tom-clancys-shadowbreak.json](./124470-tom-clancys-shadowbreak.json) |
 | Tom Clancy's Signature Collection | 53823 | [53823-tom-clancys-signature-collection.json](./53823-tom-clancys-signature-collection.json) |
 | Tom Clancy's Splinter Cell | 134350 | [134350-tom-clancys-splinter-cell.json](./134350-tom-clancys-splinter-cell.json) |
