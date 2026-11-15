@@ -16697,6 +16697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Second: End Layer - Deluxe Collector's Edition | 47664 | [47664-bravely-second-end-layer-deluxe-collectors-edition.json](./47664-bravely-second-end-layer-deluxe-collectors-edition.json) |
 | Bravely Second: The Ballad of the Three Cavaliers | 242899 | [242899-bravely-second-the-ballad-of-the-three-cavaliers.json](./242899-bravely-second-the-ballad-of-the-three-cavaliers.json) |
 | BraveMatch | 145965 | [145965-bravematch.json](./145965-bravematch.json) |
+| Bravemech: The Century War | 423336 | [423336-bravemech-the-century-war.json](./423336-bravemech-the-century-war.json) |
 | Braven Arts | 61221 | [61221-braven-arts.json](./61221-braven-arts.json) |
 | BraveNine Story | 232251 | [232251-bravenine-story.json](./232251-bravenine-story.json) |
 | BraverBots | 233032 | [233032-braverbots.json](./233032-braverbots.json) |
@@ -16712,6 +16713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravest Coconut | 310837 | [310837-bravest-coconut.json](./310837-bravest-coconut.json) |
 | Bravest! | 406494 | [406494-bravest.json](./406494-bravest.json) |
 | Bravest! Side Story: Kurimoto Quest | 423618 | [423618-bravest-side-story-kurimoto-quest.json](./423618-bravest-side-story-kurimoto-quest.json) |
+| Bravest!2 | 423341 | [423341-bravest-2.json](./423341-bravest-2.json) |
 | BraveStarr | 13434 | [13434-bravestarr.json](./13434-bravestarr.json) |
 | BraveWorld: Helix Jumper | 103103 | [103103-braveworld-helix-jumper.json](./103103-braveworld-helix-jumper.json) |
 | BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
