@@ -15065,6 +15065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic 51 | 251725 | [251725-arctic-51.json](./251725-arctic-51.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
 | Arctic Adventure: Episodes | 28783 | [28783-arctic-adventure-episodes.json](./28783-arctic-adventure-episodes.json) |
+| Arctic Adventure: Penguin & Seal | 48276 | [48276-arctic-adventure-penguin-and-seal.json](./48276-arctic-adventure-penguin-and-seal.json) |
 | Arctic Adventures | 42780 | [42780-arctic-adventures.json](./42780-arctic-adventures.json) |
 | Arctic Adventures & Story Ice | 60839 | [60839-arctic-adventures-and-story-ice.json](./60839-arctic-adventures-and-story-ice.json) |
 | Arctic Adventures: Polar's Puzzles | 118931 | [118931-arctic-adventures-polars-puzzles.json](./118931-arctic-adventures-polars-puzzles.json) |
