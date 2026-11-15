@@ -21526,6 +21526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | DX-Ball 2 | 19225 | [19225-dx-ball-2.json](./19225-dx-ball-2.json) |
 | DX-Ball 2: 20th Anniversary Edition | 107803 | [107803-dx-ball-2-20th-anniversary-edition.json](./107803-dx-ball-2-20th-anniversary-edition.json) |
+| DXX-Rebirth | 428747 | [428747-dxx-rebirth.json](./428747-dxx-rebirth.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dyad | 9132 | [9132-dyad.json](./9132-dyad.json) |
 | Dyadem | 381352 | [381352-dyadem.json](./381352-dyadem.json) |
