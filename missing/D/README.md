@@ -7856,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion II | 38136 | [38136-derby-stallion-ii.json](./38136-derby-stallion-ii.json) |
 | Derby Stallion III | 38134 | [38134-derby-stallion-iii.json](./38134-derby-stallion-iii.json) |
 | Derby Stallion P | 59387 | [59387-derby-stallion-p.json](./59387-derby-stallion-p.json) |
+| Derby Stallion Zengokuban | 48334 | [48334-derby-stallion-zengokuban.json](./48334-derby-stallion-zengokuban.json) |
 | Derby Time 2006 | 269489 | [269489-derby-time-2006.json](./269489-derby-time-2006.json) |
 | Derby Time Online | 7287 | [7287-derby-time-online.json](./7287-derby-time-online.json) |
 | Derby Tsuku 2 | 283369 | [283369-derby-tsuku-2.json](./283369-derby-tsuku-2.json) |
@@ -15358,6 +15359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dou! | 339065 | [339065-dou.json](./339065-dou.json) |
 | Double | 104921 | [104921-double.json](./104921-double.json) |
 | Double 345 Slots | 232352 | [232352-double-345-slots.json](./232352-double-345-slots.json) |
+| Double Action 53 Volume TWO | 48354 | [48354-double-action-53-volume-two.json](./48354-double-action-53-volume-two.json) |
 | Double Action Bundle: Shing & Corridor Z | 285356 | [285356-double-action-bundle-shing-and-corridor-z.json](./285356-double-action-bundle-shing-and-corridor-z.json) |
 | Double Action: Boogaloo | 17723 | [17723-double-action-boogaloo.json](./17723-double-action-boogaloo.json) |
 | Double Agent | 57164 | [57164-double-agent.json](./57164-double-agent.json) |
@@ -17315,6 +17317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon Might | 39555 | [39555-dragoon-might.json](./39555-dragoon-might.json) |
 | Dragoon X Omega | 48685 | [48685-dragoon-x-omega.json](./48685-dragoon-x-omega.json) |
 | Dragoon X Omega I: Gold Edition - Amnethen Apocalypse | 269776 | [269776-dragoon-x-omega-i-gold-edition-amnethen-apocalypse.json](./269776-dragoon-x-omega-i-gold-edition-amnethen-apocalypse.json) |
+| Dragoon X Omega II | 48344 | [48344-dragoon-x-omega-ii.json](./48344-dragoon-x-omega-ii.json) |
 | Dragoon X Omega II: Easy Mode | 269777 | [269777-dragoon-x-omega-ii-easy-mode.json](./269777-dragoon-x-omega-ii-easy-mode.json) |
 | Dragoon: The Battles of Frederick the Great | 62266 | [62266-dragoon-the-battles-of-frederick-the-great.json](./62266-dragoon-the-battles-of-frederick-the-great.json) |
 | Dragoon's Journey | 229225 | [229225-dragoons-journey.json](./229225-dragoons-journey.json) |
