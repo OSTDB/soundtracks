@@ -5131,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Camellia | 398510 | [398510-white-camellia.json](./398510-white-camellia.json) |
 | White Carve | 182897 | [182897-white-carve.json](./182897-white-carve.json) |
 | White Cat Golf | 188342 | [188342-white-cat-golf.json](./188342-white-cat-golf.json) |
+| White Cat Project | 57296 | [57296-white-cat-project.json](./57296-white-cat-project.json) |
 | White Cat Stories | 346230 | [346230-white-cat-stories.json](./346230-white-cat-stories.json) |
 | White Cat Town Mystery | 287704 | [287704-white-cat-town-mystery.json](./287704-white-cat-town-mystery.json) |
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
