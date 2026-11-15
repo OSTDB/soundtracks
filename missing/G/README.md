@@ -9370,6 +9370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard404 | 365260 | [365260-graveyard404.json](./365260-graveyard404.json) |
 | GraveyardGambit | 308969 | [308969-graveyardgambit.json](./308969-graveyardgambit.json) |
 | Gravezone Arena | 382827 | [382827-gravezone-arena.json](./382827-gravezone-arena.json) |
+| Gravi | 10135 | [10135-gravi.json](./10135-gravi.json) |
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
 | Gravia | 106428 | [106428-gravia.json](./106428-gravia.json) |
 | Graviators | 202460 | [202460-graviators.json](./202460-graviators.json) |
