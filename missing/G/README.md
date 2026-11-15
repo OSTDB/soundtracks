@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GachiTora! Abarenbou Kyoushi in High School | 58051 | [58051-gachitora-abarenbou-kyoushi-in-high-school.json](./58051-gachitora-abarenbou-kyoushi-in-high-school.json) |
 | Gadd Warp | 314572 | [314572-gadd-warp.json](./314572-gadd-warp.json) |
 | Gadget 3 | 255524 | [255524-gadget-3.json](./255524-gadget-3.json) |
+| Gadget and the Gadgetinis | 4866 | [4866-gadget-and-the-gadgetinis.json](./4866-gadget-and-the-gadgetinis.json) |
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
 | Gadget Trial | 137882 | [137882-gadget-trial.json](./137882-gadget-trial.json) |
@@ -1310,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Jiko Chuushinha 2 Gekitou! Tokyo Mahjong Land-hen | 46390 | [46390-gambler-jiko-chuushinha-2-gekitou-tokyo-mahjong-land-hen.json](./46390-gambler-jiko-chuushinha-2-gekitou-tokyo-mahjong-land-hen.json) |
 | Gambler Jiko Chuushinha: Ippatsu Shoubu! | 420493 | [420493-gambler-jiko-chuushinha-ippatsu-shoubu.json](./420493-gambler-jiko-chuushinha-ippatsu-shoubu.json) |
 | Gambler Jiko Chuushinha: Katayama Masayuki no Mahjong Dojo | 107590 | [107590-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json](./107590-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json) |
+| Gambler Jiko Chuushinha: Katayama Masayuki no Mahjong Dojo | 4411 | [4411-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json](./4411-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
 | Gambler's Fallacy | 400594 | [400594-gamblers-fallacy.json](./400594-gamblers-fallacy.json) |
 | Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
@@ -1556,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Party 2 | 70696 | [70696-game-party-2.json](./70696-game-party-2.json) |
 | Game Party 2 Tournament | 23823 | [23823-game-party-2-tournament.json](./23823-game-party-2-tournament.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
+| Game Party Champions | 4881 | [4881-game-party-champions.json](./4881-game-party-champions.json) |
 | Game Party: In Motion | 2659 | [2659-game-party-in-motion.json](./2659-game-party-in-motion.json) |
 | Game Quest: The Backlog Battler | 346715 | [346715-game-quest-the-backlog-battler.json](./346715-game-quest-the-backlog-battler.json) |
 | Game Quotes: The Game | 110457 | [110457-game-quotes-the-game.json](./110457-game-quotes-the-game.json) |
@@ -4659,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters: Twisted Dreams - Director's Cut | 44541 | [44541-giana-sisters-twisted-dreams-directors-cut.json](./44541-giana-sisters-twisted-dreams-directors-cut.json) |
 | Giana Sisters: Twisted Dreams - Owltimate Edition | 78869 | [78869-giana-sisters-twisted-dreams-owltimate-edition.json](./78869-giana-sisters-twisted-dreams-owltimate-edition.json) |
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
+| Giana's Return | 4365 | [4365-gianas-return.json](./4365-gianas-return.json) |
 | Gianluca Vialli's European Manager | 93211 | [93211-gianluca-viallis-european-manager.json](./93211-gianluca-viallis-european-manager.json) |
 | Gianpierino Adventures 2 | 410648 | [410648-gianpierino-adventures-2.json](./410648-gianpierino-adventures-2.json) |
 | GiAnt | 33696 | [33696-giant.json](./33696-giant.json) |
@@ -4678,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Gram: All Japan Pro Wrestling 2 | 45828 | [45828-giant-gram-all-japan-pro-wrestling-2.json](./45828-giant-gram-all-japan-pro-wrestling-2.json) |
 | Giant Hornet | 276661 | [276661-giant-hornet.json](./276661-giant-hornet.json) |
 | Giant Hunter | 400608 | [400608-giant-hunter.json](./400608-giant-hunter.json) |
+| Giant Killers | 4354 | [4354-giant-killers.json](./4354-giant-killers.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
@@ -10294,6 +10299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridcannon Evolution | 123946 | [123946-gridcannon-evolution.json](./123946-gridcannon-evolution.json) |
 | gridCrack | 89250 | [89250-gridcrack.json](./89250-gridcrack.json) |
 | Gridd: Retroenhanced | 30583 | [30583-gridd-retroenhanced.json](./30583-gridd-retroenhanced.json) |
+| Gridders | 4249 | [4249-gridders.json](./4249-gridders.json) |
 | Griddle | 373739 | [373739-griddle.json](./373739-griddle.json) |
 | Griddle Speed Puzzle | 114683 | [114683-griddle-speed-puzzle.json](./114683-griddle-speed-puzzle.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
