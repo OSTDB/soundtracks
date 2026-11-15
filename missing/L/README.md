@@ -9657,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
 | Love at Any Cost | 298909 | [298909-love-at-any-cost.json](./298909-love-at-any-cost.json) |
 | Love at Elevation | 112040 | [112040-love-at-elevation.json](./112040-love-at-elevation.json) |
+| Love at First Frost | 426343 | [426343-love-at-first-frost.json](./426343-love-at-first-frost.json) |
 | Love at First Sight | 342424 | [342424-love-at-first-sight.json](./342424-love-at-first-sight.json) |
 | Love at First Sight | 35697 | [35697-love-at-first-sight.json](./35697-love-at-first-sight.json) |
 | Love At First Squeak | 251068 | [251068-love-at-first-squeak.json](./251068-love-at-first-squeak.json) |
