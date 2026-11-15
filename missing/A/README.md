@@ -12824,6 +12824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anubis Dungeon | 76495 | [76495-anubis-dungeon.json](./76495-anubis-dungeon.json) |
 | Anubis II | 4677 | [4677-anubis-ii.json](./4677-anubis-ii.json) |
+| Anubis of the Moon's Surface | 38017 | [38017-anubis-of-the-moons-surface.json](./38017-anubis-of-the-moons-surface.json) |
 | Anubis' Challenge | 111787 | [111787-anubis-challenge.json](./111787-anubis-challenge.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
