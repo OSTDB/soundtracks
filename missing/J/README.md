@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackass: The Game | 2805 | [2805-jackass-the-game.json](./2805-jackass-the-game.json) |
 | Jackass: The Game DS | 79808 | [79808-jackass-the-game-ds.json](./79808-jackass-the-game-ds.json) |
 | Jacked | 124685 | [124685-jacked.json](./124685-jacked.json) |
+| JackHammer | 51491 | [51491-jackhammer.json](./51491-jackhammer.json) |
 | Jackhammer Tower | 96919 | [96919-jackhammer-tower.json](./96919-jackhammer-tower.json) |
 | Jackie | 231416 | [231416-jackie.json](./231416-jackie.json) |
 | Jackie Chan Adventures | 8154 | [8154-jackie-chan-adventures.json](./8154-jackie-chan-adventures.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenga | 91317 | [91317-jenga.json](./91317-jenga.json) |
 | Jenga Cat | 336649 | [336649-jenga-cat.json](./336649-jenga-cat.json) |
 | Jenga World Tour | 4941 | [4941-jenga-world-tour.json](./4941-jenga-world-tour.json) |
+| Jengo | 52261 | [52261-jengo.json](./52261-jengo.json) |
 | Jenka's Nightmare | 132990 | [132990-jenkas-nightmare.json](./132990-jenkas-nightmare.json) |
 | Jenni's Dong has got it Goin' On: The Jenni Trilogy | 226854 | [226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json](./226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json) |
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
@@ -1722,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of Rome | 181644 | [181644-jewels-of-rome.json](./181644-jewels-of-rome.json) |
 | Jewels of Sinai | 209986 | [209986-jewels-of-sinai.json](./209986-jewels-of-sinai.json) |
 | Jewels of the Ages | 130308 | [130308-jewels-of-the-ages.json](./130308-jewels-of-the-ages.json) |
+| Jewels of the Mysterious Woodland | 52278 | [52278-jewels-of-the-mysterious-woodland.json](./52278-jewels-of-the-mysterious-woodland.json) |
 | Jewels of the Mysterious Woodland: Cat and Children Jewel Match | 171403 | [171403-jewels-of-the-mysterious-woodland-cat-and-children-jewel-match.json](./171403-jewels-of-the-mysterious-woodland-cat-and-children-jewel-match.json) |
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
 | Jewels of the Mysterious Woodland: Mountains & Clouds Jewel Match | 172344 | [172344-jewels-of-the-mysterious-woodland-mountains-and-clouds-jewel-match.json](./172344-jewels-of-the-mysterious-woodland-mountains-and-clouds-jewel-match.json) |
