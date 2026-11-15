@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Wildlife Tours | 415215 | [415215-eldritch-wildlife-tours.json](./415215-eldritch-wildlife-tours.json) |
 | Eldritch World | 137610 | [137610-eldritch-world.json](./137610-eldritch-world.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
+| Eldrius Online | 421018 | [421018-eldrius-online.json](./421018-eldrius-online.json) |
 | Eldrum: Black Dust | 325732 | [325732-eldrum-black-dust.json](./325732-eldrum-black-dust.json) |
 | Eldrum: Red Tide | 219922 | [219922-eldrum-red-tide.json](./219922-eldrum-red-tide.json) |
 | Eldrum: Untold | 202863 | [202863-eldrum-untold.json](./202863-eldrum-untold.json) |
