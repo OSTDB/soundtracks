@@ -14556,6 +14556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust & Roots | 370442 | [370442-rust-and-roots.json](./370442-rust-and-roots.json) |
 | Rust and Resolve | 244213 | [244213-rust-and-resolve.json](./244213-rust-and-resolve.json) |
 | Rust Bucket | 59281 | [59281-rust-bucket.json](./59281-rust-bucket.json) |
+| Rust Dungeon | 421552 | [421552-rust-dungeon.json](./421552-rust-dungeon.json) |
 | Rust in Peace | 271765 | [271765-rust-in-peace.json](./271765-rust-in-peace.json) |
 | Rust Knight | 193948 | [193948-rust-knight.json](./193948-rust-knight.json) |
 | Rust Mobile | 358975 | [358975-rust-mobile.json](./358975-rust-mobile.json) |
