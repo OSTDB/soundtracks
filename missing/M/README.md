@@ -5701,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Ninja: Shuriken Killer | 278330 | [278330-master-ninja-shuriken-killer.json](./278330-master-ninja-shuriken-killer.json) |
 | Master of 4 Swords | 360666 | [360666-master-of-4-swords.json](./360666-master-of-4-swords.json) |
 | Master of A Secret Dream World | 213701 | [213701-master-of-a-secret-dream-world.json](./213701-master-of-a-secret-dream-world.json) |
+| Master of ABC | 51587 | [51587-master-of-abc.json](./51587-master-of-abc.json) |
 | Master of Alchemy | 10540 | [10540-master-of-alchemy.json](./10540-master-of-alchemy.json) |
 | Master of Alchemy - Rise of the Mechanologists | 54208 | [54208-master-of-alchemy-rise-of-the-mechanologists.json](./54208-master-of-alchemy-rise-of-the-mechanologists.json) |
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
@@ -15549,6 +15550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission XAM | 117224 | [117224-mission-xam.json](./117224-mission-xam.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
 | Mission Zero | 208159 | [208159-mission-zero.json](./208159-mission-zero.json) |
+| Mission: Afghanistan | 51615 | [51615-mission-afghanistan.json](./51615-mission-afghanistan.json) |
 | Mission: Aliens | 223736 | [223736-mission-aliens.json](./223736-mission-aliens.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
