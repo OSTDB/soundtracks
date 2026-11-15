@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
 | Liber 2: Lost in time | 240821 | [240821-liber-2-lost-in-time.json](./240821-liber-2-lost-in-time.json) |
+| Libera Wing | 66863 | [66863-libera-wing.json](./66863-libera-wing.json) |
 | Liberal Crime Squad | 70579 | [70579-liberal-crime-squad.json](./70579-liberal-crime-squad.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberated | 116705 | [116705-liberated.json](./116705-liberated.json) |
@@ -5440,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightness | 214035 | [214035-lightness.json](./214035-lightness.json) |
 | Lightning | 221223 | [221223-lightning.json](./221223-lightning.json) |
 | Lightning Angel Litona Liliche | 110133 | [110133-lightning-angel-litona-liliche.json](./110133-lightning-angel-litona-liliche.json) |
+| Lightning Bacchus: The Knight of Iron | 66286 | [66286-lightning-bacchus-the-knight-of-iron.json](./66286-lightning-bacchus-the-knight-of-iron.json) |
 | Lightning Crashes | 281806 | [281806-lightning-crashes.json](./281806-lightning-crashes.json) |
 | Lightning Duru | 254390 | [254390-lightning-duru.json](./254390-lightning-duru.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
