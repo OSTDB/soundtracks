@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tehkan World Cup | 39502 | [39502-tehkan-world-cup.json](./39502-tehkan-world-cup.json) |
 | Tehnodrom | 305968 | [305968-tehnodrom.json](./305968-tehnodrom.json) |
 | Tehodoki Koukan: Gibo & Tomohaha Harem-Hen | 91374 | [91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json](./91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json) |
+| Tehra Dark Warrior | 52902 | [52902-tehra-dark-warrior.json](./52902-tehra-dark-warrior.json) |
 | Teigeki Graph in Sakura Wars | 62124 | [62124-teigeki-graph-in-sakura-wars.json](./62124-teigeki-graph-in-sakura-wars.json) |
 | Teiji ni Kakero Alhaitham: Ore ha Ie ni Kaeritai | 350373 | [350373-teiji-ni-kakero-alhaitham-ore-ha-ie-ni-kaeritai.json](./350373-teiji-ni-kakero-alhaitham-ore-ha-ie-ni-kaeritai.json) |
 | Teiji Taisha Online | 171889 | [171889-teiji-taisha-online.json](./171889-teiji-taisha-online.json) |
