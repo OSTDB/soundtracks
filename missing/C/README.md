@@ -9708,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrysanthemum: On the Way to Sweet Dreams | 391235 | [391235-chrysanthemum-on-the-way-to-sweet-dreams.json](./391235-chrysanthemum-on-the-way-to-sweet-dreams.json) |
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
 | Chrysolite | 277460 | [277460-chrysolite.json](./277460-chrysolite.json) |
+| Chrysopoeia | 422723 | [422723-chrysopoeia.json](./422723-chrysopoeia.json) |
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
 | Chthonic Deities | 271346 | [271346-chthonic-deities.json](./271346-chthonic-deities.json) |
 | Chu | 206554 | [206554-chu.json](./206554-chu.json) |
@@ -12300,6 +12301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clucking Dubbed to Feathers | 268872 | [268872-clucking-dubbed-to-feathers.json](./268872-clucking-dubbed-to-feathers.json) |
 | Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
+| Cluckopia | 422852 | [422852-cluckopia.json](./422852-cluckopia.json) |
 | Clucky's Picnic Adventure | 177692 | [177692-cluckys-picnic-adventure.json](./177692-cluckys-picnic-adventure.json) |
 | Cluckzilla | 181409 | [181409-cluckzilla.json](./181409-cluckzilla.json) |
 | Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
@@ -19913,6 +19915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Blow | 44797 | [44797-critical-blow.json](./44797-critical-blow.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
 | Critical Bypass | 245065 | [245065-critical-bypass.json](./245065-critical-bypass.json) |
+| Critical Corruption Error | 422830 | [422830-critical-corruption-error.json](./422830-critical-corruption-error.json) |
 | Critical Damage | 24732 | [24732-critical-damage.json](./24732-critical-damage.json) |
 | Critical Depth | 43704 | [43704-critical-depth.json](./43704-critical-depth.json) |
 | Critical Descent | 386548 | [386548-critical-descent.json](./386548-critical-descent.json) |
