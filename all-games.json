@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T07:15:57.982Z",
-  "total_soundtracks": 3400,
+  "generated_at": "2026-11-15T07:25:53.700Z",
+  "total_soundtracks": 3401,
   "games": [
     {
       "igdb_id": 292844,
@@ -41052,6 +41052,20 @@
           "album_name": "Vampyr",
           "spotify_url": "https://open.spotify.com/album/1cJ14OJ8a9MZvuPAi5anhd",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 101939,
+      "game_name": "Vector 2",
+      "game_url": "https://ostdb.net/games/vector-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27387a8aafee893242481ae104f",
+      "albums": [
+        {
+          "album_name": "Vector 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Ou0qnMEmUxCkeMJZcex75",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
