@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
 | War in Spain 1936-39 | 388197 | [388197-war-in-spain-1936-39.json](./388197-war-in-spain-1936-39.json) |
 | War in the Caverns | 227722 | [227722-war-in-the-caverns.json](./227722-war-in-the-caverns.json) |
+| War in the Gulf | 48931 | [48931-war-in-the-gulf.json](./48931-war-in-the-gulf.json) |
 | War in the Gulf | 80823 | [80823-war-in-the-gulf.json](./80823-war-in-the-gulf.json) |
 | War in the Pacific | 27643 | [27643-war-in-the-pacific.json](./27643-war-in-the-pacific.json) |
 | War in the Pacific: Admiral's Edition | 129538 | [129538-war-in-the-pacific-admirals-edition.json](./129538-war-in-the-pacific-admirals-edition.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW vs. the World | 18316 | [18316-wcw-vs-the-world.json](./18316-wcw-vs-the-world.json) |
 | WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
 | WCW World Championship Wrestling: The Main Event | 117971 | [117971-wcw-world-championship-wrestling-the-main-event.json](./117971-wcw-world-championship-wrestling-the-main-event.json) |
+| WCW: The Main Event | 48918 | [48918-wcw-the-main-event.json](./48918-wcw-the-main-event.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
 | WCW/nWo Revenge | 3636 | [3636-wcw-nwo-revenge.json](./3636-wcw-nwo-revenge.json) |
