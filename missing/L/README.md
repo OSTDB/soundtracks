@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game 3: Horror | 110456 | [110456-lawnmower-game-3-horror.json](./110456-lawnmower-game-3-horror.json) |
 | Lawnmower Game 4: The Final Cut | 117547 | [117547-lawnmower-game-4-the-final-cut.json](./117547-lawnmower-game-4-the-final-cut.json) |
 | Lawnmower Game Beer | 410012 | [410012-lawnmower-game-beer.json](./410012-lawnmower-game-beer.json) |
+| Lawnmower Game Horrorland | 421024 | [421024-lawnmower-game-horrorland.json](./421024-lawnmower-game-horrorland.json) |
 | Lawnmower Game Jigsaw | 340905 | [340905-lawnmower-game-jigsaw.json](./340905-lawnmower-game-jigsaw.json) |
 | Lawnmower Game Racing 2: Drunken | 340906 | [340906-lawnmower-game-racing-2-drunken.json](./340906-lawnmower-game-racing-2-drunken.json) |
 | Lawnmower Game: 2024 | 340904 | [340904-lawnmower-game-2024.json](./340904-lawnmower-game-2024.json) |
@@ -6465,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Literally Every FNF Mod Ever | 303961 | [303961-literally-every-fnf-mod-ever.json](./303961-literally-every-fnf-mod-ever.json) |
 | Literally Free Will (From Prison) | 180750 | [180750-literally-free-will-from-prison.json](./180750-literally-free-will-from-prison.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
+| LitGirls: Bookbound Dungeons | 421002 | [421002-litgirls-bookbound-dungeons.json](./421002-litgirls-bookbound-dungeons.json) |
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
 | Litha and the Sunhouse | 220394 | [220394-litha-and-the-sunhouse.json](./220394-litha-and-the-sunhouse.json) |
 | Lithium | 199414 | [199414-lithium.json](./199414-lithium.json) |
