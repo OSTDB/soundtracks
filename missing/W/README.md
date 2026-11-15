@@ -8003,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Project J2: Corlo no Mori no Josette | 47748 | [47748-wonder-project-j2-corlo-no-mori-no-josette.json](./47748-wonder-project-j2-corlo-no-mori-no-josette.json) |
 | Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
 | Wonder Stadium | 37467 | [37467-wonder-stadium.json](./37467-wonder-stadium.json) |
+| Wonder Stadium '99 | 37466 | [37466-wonder-stadium-99.json](./37466-wonder-stadium-99.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
 | Wonder Tactics | 59030 | [59030-wonder-tactics.json](./59030-wonder-tactics.json) |
 | Wonder Trek | 186581 | [186581-wonder-trek.json](./186581-wonder-trek.json) |
@@ -8102,6 +8103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonderstructs | 414612 | [414612-wonderstructs.json](./414612-wonderstructs.json) |
+| WonderSwan Handy Sonar | 37465 | [37465-wonderswan-handy-sonar.json](./37465-wonderswan-handy-sonar.json) |
 | Wonderway | 287689 | [287689-wonderway.json](./287689-wonderway.json) |
 | Wonderworld | 327771 | [327771-wonderworld.json](./327771-wonderworld.json) |
 | WonderWorld | 221640 | [221640-wonderworld.json](./221640-wonderworld.json) |
