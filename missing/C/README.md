@@ -8112,6 +8112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Outbreak | 96850 | [96850-chicken-outbreak.json](./96850-chicken-outbreak.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
+| Chicken Police: Into the Hive! | 258037 | [258037-chicken-police-into-the-hive.json](./258037-chicken-police-into-the-hive.json) |
 | Chicken Pox: Scrambled Eggs! | 200074 | [200074-chicken-pox-scrambled-eggs.json](./200074-chicken-pox-scrambled-eggs.json) |
 | Chicken Ranch | 150813 | [150813-chicken-ranch.json](./150813-chicken-ranch.json) |
 | Chicken Range | 84572 | [84572-chicken-range.json](./84572-chicken-range.json) |
@@ -11965,6 +11966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to: Inori no Oka | 196027 | [196027-close-to-inori-no-oka.json](./196027-close-to-inori-no-oka.json) |
 | Close Up Pics - Fun Word Games | 87035 | [87035-close-up-pics-fun-word-games.json](./87035-close-up-pics-fun-word-games.json) |
 | Close Your Eyes | 133323 | [133323-close-your-eyes.json](./133323-close-your-eyes.json) |
+| Close Your Eyes | 35075 | [35075-close-your-eyes.json](./35075-close-your-eyes.json) |
 | Close Your Eyes -Anniversary Remake- | 56654 | [56654-close-your-eyes-anniversary-remake.json](./56654-close-your-eyes-anniversary-remake.json) |
 | Close Your Eyes: The Twisted Puzzle | 163551 | [163551-close-your-eyes-the-twisted-puzzle.json](./163551-close-your-eyes-the-twisted-puzzle.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
@@ -14056,6 +14058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorspace | 254398 | [254398-colorspace.json](./254398-colorspace.json) |
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
 | ColorSweeper | 319413 | [319413-colorsweeper.json](./319413-colorsweeper.json) |
+| Colortone | 35125 | [35125-colortone.json](./35125-colortone.json) |
 | Colortone: Remixed | 189880 | [189880-colortone-remixed.json](./189880-colortone-remixed.json) |
 | Colortoons Chikara | 175535 | [175535-colortoons-chikara.json](./175535-colortoons-chikara.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
@@ -17381,6 +17384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Plicker | 364135 | [364135-cotton-plicker.json](./364135-cotton-plicker.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
+| Cotton Reboot! High Tension! | 329840 | [329840-cotton-reboot-high-tension.json](./329840-cotton-reboot-high-tension.json) |
 | Cotton Rock 'n' Roll: 30th Anniversary - Limited Edition | 153648 | [153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json](./153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json) |
 | Cotton Rock n Roll 2 | 336949 | [336949-cotton-rock-n-roll-2.json](./336949-cotton-rock-n-roll-2.json) |
 | Cotton Rock with You: Oriental Night Dreams | 409886 | [409886-cotton-rock-with-you-oriental-night-dreams.json](./409886-cotton-rock-with-you-oriental-night-dreams.json) |
@@ -20464,6 +20468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Delights Deli | 190120 | [190120-crown-delights-deli.json](./190120-crown-delights-deli.json) |
 | Crown Dungeon | 179627 | [179627-crown-dungeon.json](./179627-crown-dungeon.json) |
 | Crown Four Kingdoms | 124506 | [124506-crown-four-kingdoms.json](./124506-crown-four-kingdoms.json) |
+| Crown Gambit | 258015 | [258015-crown-gambit.json](./258015-crown-gambit.json) |
 | Crown Jewelz | 297103 | [297103-crown-jewelz.json](./297103-crown-jewelz.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
