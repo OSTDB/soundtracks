@@ -6876,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem | 186051 | [186051-mayhem.json](./186051-mayhem.json) |
 | Mayhem | 217254 | [217254-mayhem.json](./217254-mayhem.json) |
 | Mayhem | 403758 | [403758-mayhem.json](./403758-mayhem.json) |
+| Mayhem | 423207 | [423207-mayhem.json](./423207-mayhem.json) |
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
 | Mayhem | 80875 | [80875-mayhem.json](./80875-mayhem.json) |
 | Mayhem 1500 | 269126 | [269126-mayhem-1500.json](./269126-mayhem-1500.json) |
@@ -10371,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MER Innebandy | 186661 | [186661-mer-innebandy.json](./186661-mer-innebandy.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
 | Merauders: A Voyage of Discovery | 296981 | [296981-merauders-a-voyage-of-discovery.json](./296981-merauders-a-voyage-of-discovery.json) |
+| Merc Commander | 423323 | [423323-merc-commander.json](./423323-merc-commander.json) |
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Merc Storia: Ijutsushi to Kane no Neiro | 276006 | [276006-merc-storia-ijutsushi-to-kane-no-neiro.json](./276006-merc-storia-ijutsushi-to-kane-no-neiro.json) |
