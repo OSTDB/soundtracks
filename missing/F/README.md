@@ -10315,6 +10315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2 | 15222 | [15222-football-manager-2.json](./15222-football-manager-2.json) |
+| Football Manager 2000 | 44811 | [44811-football-manager-2000.json](./44811-football-manager-2000.json) |
 | Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
 | Football Manager 2006 | 8971 | [8971-football-manager-2006.json](./8971-football-manager-2006.json) |
 | Football Manager 2007 | 945 | [945-football-manager-2007.json](./945-football-manager-2007.json) |
@@ -10980,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Tunnel | 422084 | [422084-forever-tunnel.json](./422084-forever-tunnel.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
+| Forever With You | 44891 | [44891-forever-with-you.json](./44891-forever-with-you.json) |
 | Forever World Cup Simulator | 312437 | [312437-forever-world-cup-simulator.json](./312437-forever-world-cup-simulator.json) |
 | Forever Worlds | 54035 | [54035-forever-worlds.json](./54035-forever-worlds.json) |
 | Forever Worlds: Enter the Unknown | 73402 | [73402-forever-worlds-enter-the-unknown.json](./73402-forever-worlds-enter-the-unknown.json) |
@@ -15686,6 +15688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Pinball | 98912 | [98912-future-pinball.json](./98912-future-pinball.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
 | Future Proof | 100420 | [100420-future-proof.json](./100420-future-proof.json) |
+| Future Racer | 44812 | [44812-future-racer.json](./44812-future-racer.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
 | Future Rally | 180462 | [180462-future-rally.json](./180462-future-rally.json) |
 | Future Reality | 177302 | [177302-future-reality.json](./177302-future-reality.json) |
