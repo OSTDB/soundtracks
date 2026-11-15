@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Starkadia | 290902 | [290902-legends-of-starkadia.json](./290902-legends-of-starkadia.json) |
 | Legends of Talia: Arcadia | 74461 | [74461-legends-of-talia-arcadia.json](./74461-legends-of-talia-arcadia.json) |
 | Legends of the Brawl | 216599 | [216599-legends-of-the-brawl.json](./216599-legends-of-the-brawl.json) |
+| Legends of the Diamond | 48253 | [48253-legends-of-the-diamond.json](./48253-legends-of-the-diamond.json) |
 | Legends of the East: The Cobra's Eye - Collector's Edition | 381379 | [381379-legends-of-the-east-the-cobras-eye-collectors-edition.json](./381379-legends-of-the-east-the-cobras-eye-collectors-edition.json) |
 | Legends of the Eternal Flame | 256594 | [256594-legends-of-the-eternal-flame.json](./256594-legends-of-the-eternal-flame.json) |
 | Legends of The Internet | 311208 | [311208-legends-of-the-internet.json](./311208-legends-of-the-internet.json) |
@@ -6242,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linx Battle Arena | 55961 | [55961-linx-battle-arena.json](./55961-linx-battle-arena.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Linxy the Lynx | 241677 | [241677-linxy-the-lynx.json](./241677-linxy-the-lynx.json) |
+| Linzexu Banned the Opium | 48343 | [48343-linzexu-banned-the-opium.json](./48343-linzexu-banned-the-opium.json) |
 | Linzy has a Messy Room | 101099 | [101099-linzy-has-a-messy-room.json](./101099-linzy-has-a-messy-room.json) |
 | Lio | 290207 | [290207-lio.json](./290207-lio.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
