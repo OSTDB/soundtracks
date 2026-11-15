@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elzzup | 252876 | [252876-elzzup.json](./252876-elzzup.json) |
 | Em | 187163 | [187163-em.json](./187163-em.json) |
 | Em Busca dos Tesouros | 217589 | [217589-em-busca-dos-tesouros.json](./217589-em-busca-dos-tesouros.json) |
+| Em-8ER | 27056 | [27056-em-8er.json](./27056-em-8er.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | Em-A-Zurvival | 143970 | [143970-em-a-zurvival.json](./143970-em-a-zurvival.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
@@ -7467,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVE Zero: Ark of the Matter | 71277 | [71277-eve-zero-ark-of-the-matter.json](./71277-eve-zero-ark-of-the-matter.json) |
 | Eve-Orb | 82526 | [82526-eve-orb.json](./82526-eve-orb.json) |
 | EVE: Burst Error | 113110 | [113110-eve-burst-error.json](./113110-eve-burst-error.json) |
+| EVE: Burst Error R | 27015 | [27015-eve-burst-error-r.json](./27015-eve-burst-error-r.json) |
 | EVE: Dust 514 | 1320 | [1320-eve-dust-514.json](./1320-eve-dust-514.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
@@ -7647,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Mountain Life Simulator | 217252 | [217252-evergreen-mountain-life-simulator.json](./217252-evergreen-mountain-life-simulator.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
 | Evergreen: The Board Game | 296303 | [296303-evergreen-the-board-game.json](./296303-evergreen-the-board-game.json) |
+| Evergrow | 27095 | [27095-evergrow.json](./27095-evergrow.json) |
 | Evergrow: Paper Forest | 200247 | [200247-evergrow-paper-forest.json](./200247-evergrow-paper-forest.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everguest: The Veiled Inn | 414751 | [414751-everguest-the-veiled-inn.json](./414751-everguest-the-veiled-inn.json) |
