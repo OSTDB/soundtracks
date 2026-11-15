@@ -16284,6 +16284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker: Go! Go! Princess | 64812 | [64812-princess-maker-go-go-princess.json](./64812-princess-maker-go-go-princess.json) |
 | Princess Maker: Legend of Another World | 38182 | [38182-princess-maker-legend-of-another-world.json](./38182-princess-maker-legend-of-another-world.json) |
 | Princess Miner | 383149 | [383149-princess-miner.json](./383149-princess-miner.json) |
+| Princess Minerva | 42287 | [42287-princess-minerva.json](./42287-princess-minerva.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Natasha | 6539 | [6539-princess-natasha.json](./6539-princess-natasha.json) |
 | Princess Natasha: Student Secret Agent | 49432 | [49432-princess-natasha-student-secret-agent.json](./49432-princess-natasha-student-secret-agent.json) |
