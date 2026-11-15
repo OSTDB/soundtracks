@@ -12993,6 +12993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Retro Zero | 182102 | [182102-mighty-retro-zero.json](./182102-mighty-retro-zero.json) |
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
 | Mighty Slap | 261588 | [261588-mighty-slap.json](./261588-mighty-slap.json) |
+| Mighty Smighties | 24554 | [24554-mighty-smighties.json](./24554-mighty-smighties.json) |
 | Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
 | Mighty Switch Force! | 22919 | [22919-mighty-switch-force.json](./22919-mighty-switch-force.json) |
 | Mighty Switch Force! 2 | 20081 | [20081-mighty-switch-force-2.json](./20081-mighty-switch-force-2.json) |
