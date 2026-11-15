@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XO Evolved | 368001 | [368001-xo-evolved.json](./368001-xo-evolved.json) |
 | XO Master | 237956 | [237956-xo-master.json](./237956-xo-master.json) |
 | XO Patterns | 27730 | [27730-xo-patterns.json](./27730-xo-patterns.json) |
+| XO-Planets | 33591 | [33591-xo-planets.json](./33591-xo-planets.json) |
 | Xob | 149609 | [149609-xob.json](./149609-xob.json) |
 | Xobox | 110934 | [110934-xobox.json](./110934-xobox.json) |
 | Xochi's Apothecary | 253486 | [253486-xochis-apothecary.json](./253486-xochis-apothecary.json) |
