@@ -2799,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Suffering | 144394 | [144394-legacy-of-suffering.json](./144394-legacy-of-suffering.json) |
 | Legacy of Svarog | 59050 | [59050-legacy-of-svarog.json](./59050-legacy-of-svarog.json) |
 | Legacy of the Ancients | 19794 | [19794-legacy-of-the-ancients.json](./19794-legacy-of-the-ancients.json) |
+| Legacy of the Ark: Beneath the Broken Sky | 420309 | [420309-legacy-of-the-ark-beneath-the-broken-sky.json](./420309-legacy-of-the-ark-beneath-the-broken-sky.json) |
 | Legacy of the Ark: The Long Awakening | 410014 | [410014-legacy-of-the-ark-the-long-awakening.json](./410014-legacy-of-the-ark-the-long-awakening.json) |
 | Legacy of the Dragonborn | 356218 | [356218-legacy-of-the-dragonborn.json](./356218-legacy-of-the-dragonborn.json) |
 | Legacy of the Elder Star | 33555 | [33555-legacy-of-the-elder-star.json](./33555-legacy-of-the-elder-star.json) |
