@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Squad | 12170 | [12170-laser-squad.json](./12170-laser-squad.json) |
 | Laser Squad Nemesis | 21608 | [21608-laser-squad-nemesis.json](./21608-laser-squad-nemesis.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
+| Laser Strikers | 29324 | [29324-laser-strikers.json](./29324-laser-strikers.json) |
 | Laser Surgeon: The Microscopic Mission | 69552 | [69552-laser-surgeon-the-microscopic-mission.json](./69552-laser-surgeon-the-microscopic-mission.json) |
 | Laser Survivor | 258499 | [258499-laser-survivor.json](./258499-laser-survivor.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
@@ -11338,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
 | Luxor 3 | 4981 | [4981-luxor-3.json](./4981-luxor-3.json) |
 | Luxor Adventures | 7540 | [7540-luxor-adventures.json](./7540-luxor-adventures.json) |
+| Luxor Amun Rising HD | 30153 | [30153-luxor-amun-rising-hd.json](./30153-luxor-amun-rising-hd.json) |
 | Luxor Evolved | 7542 | [7542-luxor-evolved.json](./7542-luxor-evolved.json) |
 | Luxor HD | 35432 | [35432-luxor-hd.json](./35432-luxor-hd.json) |
 | Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
