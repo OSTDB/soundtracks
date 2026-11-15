@@ -11278,11 +11278,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization: Beyond Earth - The Collection | 53608 | [53608-sid-meiers-civilization-beyond-earth-the-collection.json](./53608-sid-meiers-civilization-beyond-earth-the-collection.json) |
 | Sid Meier's CivNet | 21930 | [21930-sid-meiers-civnet.json](./21930-sid-meiers-civnet.json) |
 | Sid Meier's Colonization | 8787 | [8787-sid-meiers-colonization.json](./8787-sid-meiers-colonization.json) |
+| Sid Meier's Gettysburg! | 867 | [867-sid-meiers-gettysburg.json](./867-sid-meiers-gettysburg.json) |
 | Sid Meier's Pirates! | 210477 | [210477-sid-meiers-pirates.json](./210477-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 210478 | [210478-sid-meiers-pirates.json](./210478-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 210479 | [210479-sid-meiers-pirates.json](./210479-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 868 | [868-sid-meiers-pirates.json](./868-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 9231 | [9231-sid-meiers-pirates.json](./9231-sid-meiers-pirates.json) |
+| Sid Meier's Railroad Tycoon Deluxe | 963 | [963-sid-meiers-railroad-tycoon-deluxe.json](./963-sid-meiers-railroad-tycoon-deluxe.json) |
 | Sid Meier's Railroads! | 10743 | [10743-sid-meiers-railroads.json](./10743-sid-meiers-railroads.json) |
 | Sid Meier's Starships | 8714 | [8714-sid-meiers-starships.json](./8714-sid-meiers-starships.json) |
 | Sid the Science Kid: Red Light Green Light | 365073 | [365073-sid-the-science-kid-red-light-green-light.json](./365073-sid-the-science-kid-red-light-green-light.json) |
@@ -15312,6 +15314,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime Masters | 265299 | [265299-slime-masters.json](./265299-slime-masters.json) |
 | Slime Match Adventure | 363056 | [363056-slime-match-adventure.json](./363056-slime-match-adventure.json) |
+| Slime Mori-mori Dragon Quest 3: Daikaizoku to Shippo-dan | 1826 | [1826-slime-mori-mori-dragon-quest-3-daikaizoku-to-shippo-dan.json](./1826-slime-mori-mori-dragon-quest-3-daikaizoku-to-shippo-dan.json) |
+| Slime Mori-mori Dragon Quest: Shougeki no Shippo-dan | 1823 | [1823-slime-mori-mori-dragon-quest-shougeki-no-shippo-dan.json](./1823-slime-mori-mori-dragon-quest-shougeki-no-shippo-dan.json) |
 | Slime Must Grow | 389917 | [389917-slime-must-grow.json](./389917-slime-must-grow.json) |
 | Slime Musume ha Ningen to Tomodachi ni Naritai you da | 308910 | [308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json](./308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json) |
 | Slime Mutation | 244456 | [244456-slime-mutation.json](./244456-slime-mutation.json) |
@@ -29279,6 +29283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Battalion | 6163 | [6163-steel-battalion.json](./6163-steel-battalion.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Battalion: Line of Contact | 6174 | [6174-steel-battalion-line-of-contact.json](./6174-steel-battalion-line-of-contact.json) |
+| Steel Beasts | 882 | [882-steel-beasts.json](./882-steel-beasts.json) |
 | Steel Beasts 2 | 208762 | [208762-steel-beasts-2.json](./208762-steel-beasts-2.json) |
 | Steel Beasts: Gold Edition | 208763 | [208763-steel-beasts-gold-edition.json](./208763-steel-beasts-gold-edition.json) |
 | Steel Beasts: Pro - Personal Edition | 73588 | [73588-steel-beasts-pro-personal-edition.json](./73588-steel-beasts-pro-personal-edition.json) |
@@ -29376,6 +29381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Ocean: Wolves of Deep Sea | 195340 | [195340-steel-ocean-wolves-of-deep-sea.json](./195340-steel-ocean-wolves-of-deep-sea.json) |
 | Steel Panthers | 14438 | [14438-steel-panthers.json](./14438-steel-panthers.json) |
 | Steel Panthers 3: Campaign Disk | 208764 | [208764-steel-panthers-3-campaign-disk.json](./208764-steel-panthers-3-campaign-disk.json) |
+| Steel Panthers II: Modern Battles | 883 | [883-steel-panthers-ii-modern-battles.json](./883-steel-panthers-ii-modern-battles.json) |
 | Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
 | Steel Panthers III: Brigade Command | 14466 | [14466-steel-panthers-iii-brigade-command.json](./14466-steel-panthers-iii-brigade-command.json) |
 | Steel Panthers: Campaign Disk | 72018 | [72018-steel-panthers-campaign-disk.json](./72018-steel-panthers-campaign-disk.json) |
@@ -32203,6 +32209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuart Little: Big City Adventures | 208356 | [208356-stuart-little-big-city-adventures.json](./208356-stuart-little-big-city-adventures.json) |
 | Stuart Little: His Adventures in Numberland | 208357 | [208357-stuart-little-his-adventures-in-numberland.json](./208357-stuart-little-his-adventures-in-numberland.json) |
 | Stuart Little: The Journey Home | 49884 | [49884-stuart-little-the-journey-home.json](./49884-stuart-little-the-journey-home.json) |
+| Stuart Smith's Adventure Construction Set | 2416 | [2416-stuart-smiths-adventure-construction-set.json](./2416-stuart-smiths-adventure-construction-set.json) |
 | Stub Game | 277700 | [277700-stub-game.json](./277700-stub-game.json) |
 | Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
 | Stubbs the Zombie in Rebel Without a Pulse | 79 | [79-stubbs-the-zombie-in-rebel-without-a-pulse.json](./79-stubbs-the-zombie-in-rebel-without-a-pulse.json) |
@@ -34129,6 +34136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Adventure Pals | 59640 | [59640-super-adventure-pals.json](./59640-super-adventure-pals.json) |
 | Super Adventure Pals II | 59635 | [59635-super-adventure-pals-ii.json](./59635-super-adventure-pals-ii.json) |
 | Super Adventure Pals: Battle Arena | 59636 | [59636-super-adventure-pals-battle-arena.json](./59636-super-adventure-pals-battle-arena.json) |
+| Super Adventure Rockman | 1732 | [1732-super-adventure-rockman.json](./1732-super-adventure-rockman.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Agent | 272486 | [272486-super-agent.json](./272486-super-agent.json) |
 | Super Agent: Drunk Kent | 114928 | [114928-super-agent-drunk-kent.json](./114928-super-agent-drunk-kent.json) |
@@ -37594,6 +37602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbeat: Xonic - The X-Otic Limited Edition | 89912 | [89912-superbeat-xonic-the-x-otic-limited-edition.json](./89912-superbeat-xonic-the-x-otic-limited-edition.json) |
 | Superbike | 413993 | [413993-superbike.json](./413993-superbike.json) |
 | Superbike 2000 | 886 | [886-superbike-2000.json](./886-superbike-2000.json) |
+| Superbike 2001 | 887 | [887-superbike-2001.json](./887-superbike-2001.json) |
 | Superbike Challenge | 41145 | [41145-superbike-challenge.json](./41145-superbike-challenge.json) |
 | Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
 | Superbike Masters | 43860 | [43860-superbike-masters.json](./43860-superbike-masters.json) |
@@ -39709,6 +39718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | Switzerland Omelette Deluxe | 351398 | [351398-switzerland-omelette-deluxe.json](./351398-switzerland-omelette-deluxe.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
+| SWIV 3D | 889 | [889-swiv-3d.json](./889-swiv-3d.json) |
 | Swivel on It! | 184701 | [184701-swivel-on-it.json](./184701-swivel-on-it.json) |
 | Swivel Shooter | 176150 | [176150-swivel-shooter.json](./176150-swivel-shooter.json) |
 | SWmud | 228912 | [228912-swmud.json](./228912-swmud.json) |
