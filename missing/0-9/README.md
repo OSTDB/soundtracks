@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games In 1: The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy | 86055 | [86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json](./86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json) |
 | 2 Games in 1!: Archer Maclean's Mercury / Mercury Meltdown | 138010 | [138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json](./138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json) |
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
+| 2 Hits Pack: Sonic Forces/Puyo Puyo Tetris | 77458 | [77458-2-hits-pack-sonic-forces-puyo-puyo-tetris.json](./77458-2-hits-pack-sonic-forces-puyo-puyo-tetris.json) |
 | 2 Hot 2 Handle | 85931 | [85931-2-hot-2-handle.json](./85931-2-hot-2-handle.json) |
 | 2 Hours Later | 358074 | [358074-2-hours-later.json](./358074-2-hours-later.json) |
 | 2 Hours to Kill! | 299427 | [299427-2-hours-to-kill.json](./299427-2-hours-to-kill.json) |
@@ -2666,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
 | 3D Gunstar Heroes | 84662 | [84662-3d-gunstar-heroes.json](./84662-3d-gunstar-heroes.json) |
 | 3D Hardcore Cube | 55329 | [55329-3d-hardcore-cube.json](./55329-3d-hardcore-cube.json) |
+| 3D Hardcore Cube 2 | 76794 | [76794-3d-hardcore-cube-2.json](./76794-3d-hardcore-cube-2.json) |
 | 3D Havoc | 11110 | [11110-3d-havoc.json](./11110-3d-havoc.json) |
 | 3D Hearts Deluxe | 205937 | [205937-3d-hearts-deluxe.json](./205937-3d-hearts-deluxe.json) |
 | 3D Helicopter Coyote Hunter | 205939 | [205939-3d-helicopter-coyote-hunter.json](./205939-3d-helicopter-coyote-hunter.json) |
