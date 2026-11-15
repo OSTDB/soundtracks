@@ -4229,6 +4229,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
 | CastleStorm: Complete Edition | 99924 | [99924-castlestorm-complete-edition.json](./99924-castlestorm-complete-edition.json) |
 | CastleStorm: Definitive Edition | 20294 | [20294-castlestorm-definitive-edition.json](./20294-castlestorm-definitive-edition.json) |
+| CastleStorm: From Outcast to Savior | 50780 | [50780-castlestorm-from-outcast-to-savior.json](./50780-castlestorm-from-outcast-to-savior.json) |
+| CastleStorm: The Warrior Queen | 50779 | [50779-castlestorm-the-warrior-queen.json](./50779-castlestorm-the-warrior-queen.json) |
 | CastleStorm: Virtual Reality | 104782 | [104782-castlestorm-virtual-reality.json](./104782-castlestorm-virtual-reality.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
@@ -6889,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos: The Battle of Wizards | 32390 | [32390-chaos-the-battle-of-wizards.json](./32390-chaos-the-battle-of-wizards.json) |
 | Chaos: The Battle of Wizards | 73896 | [73896-chaos-the-battle-of-wizards.json](./73896-chaos-the-battle-of-wizards.json) |
 | Chaosborn | 351354 | [351354-chaosborn.json](./351354-chaosborn.json) |
+| ChaosEsque Anthology | 50771 | [50771-chaosesque-anthology.json](./50771-chaosesque-anthology.json) |
 | Chaosground: The Siege for Freedom | 206435 | [206435-chaosground-the-siege-for-freedom.json](./206435-chaosground-the-siege-for-freedom.json) |
 | Chāoshí Kōng zhī Lún | 281408 | [281408-chaoshi-kong-zhi-lun.json](./281408-chaoshi-kong-zhi-lun.json) |
 | ChaosTower | 120326 | [120326-chaostower.json](./120326-chaostower.json) |
@@ -15488,6 +15491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constance the Barbarian | 320050 | [320050-constance-the-barbarian.json](./320050-constance-the-barbarian.json) |
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
+| Constantine | 50796 | [50796-constantine.json](./50796-constantine.json) |
 | Constantine | 5787 | [5787-constantine.json](./5787-constantine.json) |
 | Constantine Scores | 328420 | [328420-constantine-scores.json](./328420-constantine-scores.json) |
 | Constella | 335038 | [335038-constella.json](./335038-constella.json) |
@@ -16771,6 +16775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption of Laetitia | 124535 | [124535-corruption-of-laetitia.json](./124535-corruption-of-laetitia.json) |
 | Corruption Town | 280408 | [280408-corruption-town.json](./280408-corruption-town.json) |
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
+| Corrypt | 50797 | [50797-corrypt.json](./50797-corrypt.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
 | Corsair's Madness | 193095 | [193095-corsairs-madness.json](./193095-corsairs-madness.json) |
 | Corsairs Gold | 50354 | [50354-corsairs-gold.json](./50354-corsairs-gold.json) |
