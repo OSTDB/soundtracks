@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas 21 | 245606 | [245606-vegas-21.json](./245606-vegas-21.json) |
 | Vegas Bandit | 77909 | [77909-vegas-bandit.json](./77909-vegas-bandit.json) |
 | Vegas Bowling | 88840 | [88840-vegas-bowling.json](./88840-vegas-bowling.json) |
+| Vegas Casino | 69973 | [69973-vegas-casino.json](./69973-vegas-casino.json) |
 | Vegas Casino | 79373 | [79373-vegas-casino.json](./79373-vegas-casino.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
 | Vegas Casino 2 | 66925 | [66925-vegas-casino-2.json](./66925-vegas-casino-2.json) |
