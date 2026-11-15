@@ -7745,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade: Let it Rip! | 4653 | [4653-beyblade-let-it-rip.json](./4653-beyblade-let-it-rip.json) |
 | Beyblade: Metal Fusion - Battle Fortress | 50936 | [50936-beyblade-metal-fusion-battle-fortress.json](./50936-beyblade-metal-fusion-battle-fortress.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
+| Beyblade: Metal Masters | 60177 | [60177-beyblade-metal-masters.json](./60177-beyblade-metal-masters.json) |
 | Beyond | 111191 | [111191-beyond.json](./111191-beyond.json) |
 | Beyond | 121812 | [121812-beyond.json](./121812-beyond.json) |
 | Beyond | 131452 | [131452-beyond.json](./131452-beyond.json) |
@@ -16522,6 +16523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Second: End Layer - Deluxe Collector's Edition | 47664 | [47664-bravely-second-end-layer-deluxe-collectors-edition.json](./47664-bravely-second-end-layer-deluxe-collectors-edition.json) |
 | Bravely Second: The Ballad of the Three Cavaliers | 242899 | [242899-bravely-second-the-ballad-of-the-three-cavaliers.json](./242899-bravely-second-the-ballad-of-the-three-cavaliers.json) |
 | BraveMatch | 145965 | [145965-bravematch.json](./145965-bravematch.json) |
+| Braven Arts | 61221 | [61221-braven-arts.json](./61221-braven-arts.json) |
 | BraveNine Story | 232251 | [232251-bravenine-story.json](./232251-bravenine-story.json) |
 | BraverBots | 233032 | [233032-braverbots.json](./233032-braverbots.json) |
 | Bravers | 158915 | [158915-bravers.json](./158915-bravers.json) |
