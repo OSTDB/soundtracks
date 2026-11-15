@@ -4330,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Avalanche | 3727 | [3727-kirbys-avalanche.json](./3727-kirbys-avalanche.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
 | Kirby's Block Ball | 3728 | [3728-kirbys-block-ball.json](./3728-kirbys-block-ball.json) |
+| Kirby's Blowout Blast | 28127 | [28127-kirbys-blowout-blast.json](./28127-kirbys-blowout-blast.json) |
 | Kirby's Dream Buffet | 209094 | [209094-kirbys-dream-buffet.json](./209094-kirbys-dream-buffet.json) |
 | Kirby's Dream Collection Special Edition | 84168 | [84168-kirbys-dream-collection-special-edition.json](./84168-kirbys-dream-collection-special-edition.json) |
 | Kirby's Dream Course | 3656 | [3656-kirbys-dream-course.json](./3656-kirbys-dream-course.json) |
