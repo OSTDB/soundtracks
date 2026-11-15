@@ -8775,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
 | Mega Man X: Command Mission | 416112 | [416112-mega-man-x-command-mission.json](./416112-mega-man-x-command-mission.json) |
+| Mega Man X: Corrupted | 75288 | [75288-mega-man-x-corrupted.json](./75288-mega-man-x-corrupted.json) |
 | Mega Man X: Generation | 213895 | [213895-mega-man-x-generation.json](./213895-mega-man-x-generation.json) |
 | Mega Man X: Hard Edition | 268422 | [268422-mega-man-x-hard-edition.json](./268422-mega-man-x-hard-edition.json) |
 | Mega Man X: Hard-Type | 268429 | [268429-mega-man-x-hard-type.json](./268429-mega-man-x-hard-type.json) |
@@ -21242,6 +21243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukuro no Rasen | 389820 | [389820-mukuro-no-rasen.json](./389820-mukuro-no-rasen.json) |
 | Mul-Ty-Player | 315191 | [315191-mul-ty-player.json](./315191-mul-ty-player.json) |
 | Mul.Mash.Tab.Ba.Gal.Gal | 239498 | [239498-mul-mash-tab-ba-gal-gal.json](./239498-mul-mash-tab-ba-gal-gal.json) |
+| Mula: The Cycle of Shadow | 74571 | [74571-mula-the-cycle-of-shadow.json](./74571-mula-the-cycle-of-shadow.json) |
 | Mulaka | 28692 | [28692-mulaka.json](./28692-mulaka.json) |
 | Mulan | 203659 | [203659-mulan.json](./203659-mulan.json) |
 | Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
