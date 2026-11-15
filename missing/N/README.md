@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Inside Drive 2003 | 47358 | [47358-nba-inside-drive-2003.json](./47358-nba-inside-drive-2003.json) |
 | NBA Inside Drive 2004 | 24124 | [24124-nba-inside-drive-2004.json](./24124-nba-inside-drive-2004.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
+| NBA Jam | 256816 | [256816-nba-jam.json](./256816-nba-jam.json) |
 | NBA Jam | 259878 | [259878-nba-jam.json](./259878-nba-jam.json) |
 | NBA Jam | 259879 | [259879-nba-jam.json](./259879-nba-jam.json) |
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
@@ -7157,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad | 174444 | [174444-nomad.json](./174444-nomad.json) |
 | Nomad | 248857 | [248857-nomad.json](./248857-nomad.json) |
 | Nomad | 249433 | [249433-nomad.json](./249433-nomad.json) |
+| Nomad | 35010 | [35010-nomad.json](./35010-nomad.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
 | Nomad | 95511 | [95511-nomad.json](./95511-nomad.json) |
 | Nomad Defender | 278951 | [278951-nomad-defender.json](./278951-nomad-defender.json) |
@@ -8712,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyaz | 311556 | [311556-nyaz.json](./311556-nyaz.json) |
 | Nyctoban | 252204 | [252204-nyctoban.json](./252204-nyctoban.json) |
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
+| Nyctophobia | 35052 | [35052-nyctophobia.json](./35052-nyctophobia.json) |
 | Nyctophobia: Devil Unleashed | 154067 | [154067-nyctophobia-devil-unleashed.json](./154067-nyctophobia-devil-unleashed.json) |
 | Nyctophobia: Fear the Dark | 285444 | [285444-nyctophobia-fear-the-dark.json](./285444-nyctophobia-fear-the-dark.json) |
 | NyctoType | 368797 | [368797-nyctotype.json](./368797-nyctotype.json) |
