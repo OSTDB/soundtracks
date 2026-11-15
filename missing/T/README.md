@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanggal | 293318 | [293318-tanggal.json](./293318-tanggal.json) |
 | Tanggle | 280489 | [280489-tanggle.json](./280489-tanggle.json) |
 | Tanggle's Magic Square | 65312 | [65312-tanggles-magic-square.json](./65312-tanggles-magic-square.json) |
+| Tangiers | 11578 | [11578-tangiers.json](./11578-tangiers.json) |
 | Tangle Bee | 70445 | [70445-tangle-bee.json](./70445-tangle-bee.json) |
 | Tangled | 230404 | [230404-tangled.json](./230404-tangled.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
@@ -4456,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenmei Dice Battle | 181287 | [181287-tenmei-dice-battle.json](./181287-tenmei-dice-battle.json) |
 | TenMinions | 113904 | [113904-tenminions.json](./113904-tenminions.json) |
 | Tennen Yawachichi Megami Flora Ama Ero Shinkon Kozukuri Life: Onee-san no Shikyuu ni, Suki na Dake Sosoide mo Ii Desu wa yo | 280699 | [280699-tennen-yawachichi-megami-flora-ama-ero-shinkon-kozukuri-life-onee-san-no-shikyuu-ni-suki-na-dake-sosoide-mo-ii-desu-wa-yo.json](./280699-tennen-yawachichi-megami-flora-ama-ero-shinkon-kozukuri-life-onee-san-no-shikyuu-ni-suki-na-dake-sosoide-mo-ii-desu-wa-yo.json) |
+| Tennis | 11535 | [11535-tennis.json](./11535-tennis.json) |
 | Tennis | 131451 | [131451-tennis.json](./131451-tennis.json) |
 | Tennis | 131485 | [131485-tennis.json](./131485-tennis.json) |
 | Tennis | 131513 | [131513-tennis.json](./131513-tennis.json) |
@@ -14728,6 +14730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Two Towers | 135736 | [135736-the-lord-of-the-rings-the-two-towers.json](./135736-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: The Two Towers | 248460 | [248460-the-lord-of-the-rings-the-two-towers.json](./248460-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: The Two Towers | 2965 | [2965-the-lord-of-the-rings-the-two-towers.json](./2965-the-lord-of-the-rings-the-two-towers.json) |
+| The Lord of the Rings: The White Council | 11574 | [11574-the-lord-of-the-rings-the-white-council.json](./11574-the-lord-of-the-rings-the-white-council.json) |
 | The Lord of the Rings: Total War | 356262 | [356262-the-lord-of-the-rings-total-war.json](./356262-the-lord-of-the-rings-total-war.json) |
 | The Lord of the Rings: Treason of Isengard | 206258 | [206258-the-lord-of-the-rings-treason-of-isengard.json](./206258-the-lord-of-the-rings-treason-of-isengard.json) |
 | The Lord of the Rings: Trilogy | 353608 | [353608-the-lord-of-the-rings-trilogy.json](./353608-the-lord-of-the-rings-trilogy.json) |
@@ -16585,6 +16588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Woman | 317074 | [317074-the-perfect-woman.json](./317074-the-perfect-woman.json) |
 | The Perfectionist | 110537 | [110537-the-perfectionist.json](./110537-the-perfectionist.json) |
 | The Perilous Voyage | 397435 | [397435-the-perilous-voyage.json](./397435-the-perilous-voyage.json) |
+| The Perils of Man | 11622 | [11622-the-perils-of-man.json](./11622-the-perils-of-man.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
 | The Perils of Willy ZX | 411639 | [411639-the-perils-of-willy-zx.json](./411639-the-perils-of-willy-zx.json) |
 | The Perished | 196930 | [196930-the-perished.json](./196930-the-perished.json) |
@@ -20347,6 +20351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Two Thinkers | 333335 | [333335-the-two-thinkers.json](./333335-the-two-thinkers.json) |
 | The Two Towers | 279652 | [279652-the-two-towers.json](./279652-the-two-towers.json) |
 | The Typing of the Dead | 11605 | [11605-the-typing-of-the-dead.json](./11605-the-typing-of-the-dead.json) |
+| The Typing of the Dead 2 | 11606 | [11606-the-typing-of-the-dead-2.json](./11606-the-typing-of-the-dead-2.json) |
 | The Typing of the Dead: Overkill | 9438 | [9438-the-typing-of-the-dead-overkill.json](./9438-the-typing-of-the-dead-overkill.json) |
 | The Typing of the Dead: Overkill - Dancing with the Dead DLC | 53785 | [53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json](./53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json) |
 | The Typing of the Dead: Overkill - Filth DLC | 53786 | [53786-the-typing-of-the-dead-overkill-filth-dlc.json](./53786-the-typing-of-the-dead-overkill-filth-dlc.json) |
