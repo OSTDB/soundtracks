@@ -5986,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder | 378208 | [378208-intruder.json](./378208-intruder.json) |
 | Intruder | 40011 | [40011-intruder.json](./40011-intruder.json) |
+| Intruder | 62113 | [62113-intruder.json](./62113-intruder.json) |
 | Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
 | Intruder Alert | 279486 | [279486-intruder-alert.json](./279486-intruder-alert.json) |
 | Intruder Alert: Ixian Operations | 33126 | [33126-intruder-alert-ixian-operations.json](./33126-intruder-alert-ixian-operations.json) |
@@ -6590,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man 2 | 4936 | [4936-iron-man-2.json](./4936-iron-man-2.json) |
 | Iron Man 2 | 80414 | [80414-iron-man-2.json](./80414-iron-man-2.json) |
 | Iron Man 3: The Official Game | 63404 | [63404-iron-man-3-the-official-game.json](./63404-iron-man-3-the-official-game.json) |
+| Iron Man and X-O Manowar in Heavy Metal | 20660 | [20660-iron-man-and-x-o-manowar-in-heavy-metal.json](./20660-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 240164 | [240164-iron-man-and-x-o-manowar-in-heavy-metal.json](./240164-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man Nun | 106823 | [106823-iron-man-nun.json](./106823-iron-man-nun.json) |
