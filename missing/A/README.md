@@ -13181,6 +13181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse | 15547 | [15547-apocalypse.json](./15547-apocalypse.json) |
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
 | Apocalypse | 340731 | [340731-apocalypse.json](./340731-apocalypse.json) |
+| Apocalypse Abyss | 60682 | [60682-apocalypse-abyss.json](./60682-apocalypse-abyss.json) |
 | Apocalypse Age: Destruction | 132684 | [132684-apocalypse-age-destruction.json](./132684-apocalypse-age-destruction.json) |
 | Apocalypse Approaches | 335379 | [335379-apocalypse-approaches.json](./335379-apocalypse-approaches.json) |
 | Apocalypse Blitz | 251871 | [251871-apocalypse-blitz.json](./251871-apocalypse-blitz.json) |
