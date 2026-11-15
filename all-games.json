@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T01:21:09.635Z",
-  "total_soundtracks": 3363,
+  "generated_at": "2026-11-15T01:46:27.431Z",
+  "total_soundtracks": 3368,
   "games": [
     {
       "igdb_id": 292844,
@@ -11831,6 +11831,20 @@
       ]
     },
     {
+      "igdb_id": 15071,
+      "game_name": "Evochron Mercenary",
+      "game_url": "https://ostdb.net/games/evochron-mercenary",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736c90d0a9a16463ab51c1d88b",
+      "albums": [
+        {
+          "album_name": "Evochron Mercenary (Original Video Game Soundtrack - 2018 remaster)",
+          "spotify_url": "https://open.spotify.com/album/01bxjk8lYyGLjoHDXwUE9O",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11798,
       "game_name": "Evoland 2",
       "game_url": "https://ostdb.net/games/evoland-2",
@@ -19881,6 +19895,20 @@
       ]
     },
     {
+      "igdb_id": 17386,
+      "game_name": "Lemma",
+      "game_url": "https://ostdb.net/games/lemma",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a7eca83e04f5259405faf717",
+      "albums": [
+        {
+          "album_name": "Lemma Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3Ul4hHHYcZY0OhlfKtcobm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 137111,
       "game_name": "Lemon Cake",
       "game_url": "https://ostdb.net/games/lemon-cake",
@@ -24143,6 +24171,20 @@
       ]
     },
     {
+      "igdb_id": 17571,
+      "game_name": "Neon Struct: Die Augen der Welt",
+      "game_url": "https://ostdb.net/games/neon-struct-die-augen-der-welt",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738d0d4e9433d060306c4a58be",
+      "albums": [
+        {
+          "album_name": "Neon Struct: Die Augen Der Welt (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4vxma8UfdSyZbNHU5wpzQc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 143612,
       "game_name": "Neon White",
       "game_url": "https://ostdb.net/games/neon-white",
@@ -24213,6 +24255,20 @@
         {
           "album_name": "Never Stop Sneakin' (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6o3wn039P9qzIRuqJXKwng",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14176,
+      "game_name": "Nevermind",
+      "game_url": "https://ostdb.net/games/nevermind",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d275d35396175318bab4dc",
+      "albums": [
+        {
+          "album_name": "Nevermind (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7n2V85RKfxnO9fSIBzP6iS",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -35604,6 +35660,20 @@
           "album_name": "Terraria: Otherworld (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4V9VF252QFPNN7nb0Fveq5",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 124029,
+      "game_name": "Tesla Force",
+      "game_url": "https://ostdb.net/games/tesla-force",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e6c3d6d87d59c6a20c9ae65d",
+      "albums": [
+        {
+          "album_name": "Tesla Force OST",
+          "spotify_url": "https://open.spotify.com/album/3YwYPwaybShlODX4L8YOqZ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
