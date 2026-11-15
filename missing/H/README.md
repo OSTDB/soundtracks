@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
 | Hack-R | 413399 | [413399-hack-r.json](./413399-hack-r.json) |
 | Hack, Slash & Backstab | 33600 | [33600-hack-slash-and-backstab.json](./33600-hack-slash-and-backstab.json) |
+| Hack, Slash, Loot | 8951 | [8951-hack-slash-loot.json](./8951-hack-slash-loot.json) |
 | Hack.88 | 120788 | [120788-hack-88.json](./120788-hack-88.json) |
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
@@ -233,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker life simulator | 205750 | [205750-hacker-life-simulator.json](./205750-hacker-life-simulator.json) |
 | Hacker Man | 204004 | [204004-hacker-man.json](./204004-hacker-man.json) |
+| Hacker Online RPG | 87439 | [87439-hacker-online-rpg.json](./87439-hacker-online-rpg.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker Simulator | 178337 | [178337-hacker-simulator.json](./178337-hacker-simulator.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
@@ -1804,6 +1806,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Campers | 29292 | [29292-happy-campers.json](./29292-happy-campers.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
+| Happy Chef | 87446 | [87446-happy-chef.json](./87446-happy-chef.json) |
+| Happy Chef 2 | 87409 | [87409-happy-chef-2.json](./87409-happy-chef-2.json) |
 | Happy Chef 3 | 294803 | [294803-happy-chef-3.json](./294803-happy-chef-3.json) |
 | Happy Chess | 56569 | [56569-happy-chess.json](./56569-happy-chess.json) |
 | Happy Circus | 84490 | [84490-happy-circus.json](./84490-happy-circus.json) |
@@ -3433,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazuki Dies: She Has No Name | 130633 | [130633-hazuki-dies-she-has-no-name.json](./130633-hazuki-dies-she-has-no-name.json) |
 | Hazuki Makimura's Love Story | 221265 | [221265-hazuki-makimuras-love-story.json](./221265-hazuki-makimuras-love-story.json) |
 | Hazuki Makimura's Love Story | 255108 | [255108-hazuki-makimuras-love-story.json](./255108-hazuki-makimuras-love-story.json) |
+| Hazumi | 84528 | [84528-hazumi.json](./84528-hazumi.json) |
 | Hazumino | 267326 | [267326-hazumino.json](./267326-hazumino.json) |
 | Hazy | 150820 | [150820-hazy.json](./150820-hazy.json) |
 | Hazy Days | 184729 | [184729-hazy-days.json](./184729-hazy-days.json) |
@@ -3484,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Ball 2 | 99141 | [99141-head-ball-2.json](./99141-head-ball-2.json) |
 | Head Banger | 70526 | [70526-head-banger.json](./70526-head-banger.json) |
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
+| Head Basketball | 87428 | [87428-head-basketball.json](./87428-head-basketball.json) |
 | Head Basketball: Samir of Morocco | 235573 | [235573-head-basketball-samir-of-morocco.json](./235573-head-basketball-samir-of-morocco.json) |
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
@@ -13733,6 +13739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Seas | 312169 | [312169-hunting-seas.json](./312169-hunting-seas.json) |
 | Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
+| Hunting Shark: Sea Monster 3D | 87421 | [87421-hunting-shark-sea-monster-3d.json](./87421-hunting-shark-sea-monster-3d.json) |
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
 | Hunting Simulator | 27697 | [27697-hunting-simulator.json](./27697-hunting-simulator.json) |
 | Hunting Simulator 2 | 130000 | [130000-hunting-simulator-2.json](./130000-hunting-simulator-2.json) |
