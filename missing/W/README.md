@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Zoo | 61441 | [61441-wildlife-zoo.json](./61441-wildlife-zoo.json) |
 | Wildlife: Forest Survival | 53046 | [53046-wildlife-forest-survival.json](./53046-wildlife-forest-survival.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
+| WildMan | 64015 | [64015-wildman.json](./64015-wildman.json) |
 | Wildmark | 420325 | [420325-wildmark.json](./420325-wildmark.json) |
 | Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
 | Wildrise | 344412 | [344412-wildrise.json](./344412-wildrise.json) |
@@ -8231,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Woodpecker: Escape from Buzz Buzzard Park | 318380 | [318380-woody-woodpecker-escape-from-buzz-buzzard-park.json](./318380-woody-woodpecker-escape-from-buzz-buzzard-park.json) |
 | Woody Woodpecker: Escape from Buzz Buzzard Park | 43561 | [43561-woody-woodpecker-escape-from-buzz-buzzard-park.json](./43561-woody-woodpecker-escape-from-buzz-buzzard-park.json) |
 | Woody's Incredible Journey to the Escape from Eternal Terror | 265684 | [265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json](./265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json) |
+| Woody's World | 64580 | [64580-woodys-world.json](./64580-woodys-world.json) |
 | WoodZone | 107815 | [107815-woodzone.json](./107815-woodzone.json) |
 | Woof and Wool | 422418 | [422418-woof-and-wool.json](./422418-woof-and-wool.json) |
 | Woof Blaster | 34553 | [34553-woof-blaster.json](./34553-woof-blaster.json) |
