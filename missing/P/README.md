@@ -6253,6 +6253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philly Flasher/Cathouse Blues | 70180 | [70180-philly-flasher-cathouse-blues.json](./70180-philly-flasher-cathouse-blues.json) |
 | Philna Fantasy | 266042 | [266042-philna-fantasy.json](./266042-philna-fantasy.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
+| Philophobia: The Fear of Love | 121431 | [121431-philophobia-the-fear-of-love.json](./121431-philophobia-the-fear-of-love.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Philosopher's Quest | 13746 | [13746-philosophers-quest.json](./13746-philosophers-quest.json) |
 | Philosopher's Stone | 205087 | [205087-philosophers-stone.json](./205087-philosophers-stone.json) |
@@ -10010,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Arcade | 128912 | [128912-pizza-time-arcade.json](./128912-pizza-time-arcade.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
+| Pizza Titan Ultra | 56782 | [56782-pizza-titan-ultra.json](./56782-pizza-titan-ultra.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower | 135818 | [135818-pizza-tower.json](./135818-pizza-tower.json) |
 | Pizza Tower '19 Plus | 316318 | [316318-pizza-tower-19-plus.json](./316318-pizza-tower-19-plus.json) |
@@ -10174,6 +10176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane in Hole | 116883 | [116883-plane-in-hole.json](./116883-plane-in-hole.json) |
 | Plane Landing Simulator | 108189 | [108189-plane-landing-simulator.json](./108189-plane-landing-simulator.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
+| Plane Mechanic Simulator | 104569 | [104569-plane-mechanic-simulator.json](./104569-plane-mechanic-simulator.json) |
 | Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
@@ -19866,6 +19869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Explorer | 266587 | [266587-purple-explorer.json](./266587-purple-explorer.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple Game | 316358 | [316358-purple-game.json](./316358-purple-game.json) |
+| Purple Heart | 56890 | [56890-purple-heart.json](./56890-purple-heart.json) |
 | Purple Noise Echo | 120711 | [120711-purple-noise-echo.json](./120711-purple-noise-echo.json) |
 | Purple Orchid | 298840 | [298840-purple-orchid.json](./298840-purple-orchid.json) |
 | Purple Pink Chinese Food | 299237 | [299237-purple-pink-chinese-food.json](./299237-purple-pink-chinese-food.json) |
