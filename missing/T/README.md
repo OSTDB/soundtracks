@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Adventures | 391397 | [391397-tavern-adventures.json](./391397-tavern-adventures.json) |
 | Tavern Brawl: Tactics | 239981 | [239981-tavern-brawl-tactics.json](./239981-tavern-brawl-tactics.json) |
 | Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
+| Tavern Clicker | 426960 | [426960-tavern-clicker.json](./426960-tavern-clicker.json) |
 | Tavern Crawl | 192234 | [192234-tavern-crawl.json](./192234-tavern-crawl.json) |
 | Tavern Crawler | 177362 | [177362-tavern-crawler.json](./177362-tavern-crawler.json) |
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
@@ -3348,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Innocent: The Point of No Return | 65738 | [65738-team-innocent-the-point-of-no-return.json](./65738-team-innocent-the-point-of-no-return.json) |
 | Team Kart Fortress | 371246 | [371246-team-kart-fortress.json](./371246-team-kart-fortress.json) |
 | Team Kirby Clash Deluxe | 28126 | [28126-team-kirby-clash-deluxe.json](./28126-team-kirby-clash-deluxe.json) |
+| Team Liars | 426983 | [426983-team-liars.json](./426983-team-liars.json) |
 | Team Manager | 211706 | [211706-team-manager.json](./211706-team-manager.json) |
 | Team Notion | 61146 | [61146-team-notion.json](./61146-team-notion.json) |
 | Team of Bravery | 270891 | [270891-team-of-bravery.json](./270891-team-of-bravery.json) |
@@ -9515,6 +9517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Of Winning The Lottery | 415826 | [415826-the-dream-of-winning-the-lottery.json](./415826-the-dream-of-winning-the-lottery.json) |
 | The Dream Of Yourself | 320633 | [320633-the-dream-of-yourself.json](./320633-the-dream-of-yourself.json) |
 | The Dream Office | 258299 | [258299-the-dream-office.json](./258299-the-dream-office.json) |
+| The Dream Office: Office Decor Pack | 426968 | [426968-the-dream-office-office-decor-pack.json](./426968-the-dream-office-office-decor-pack.json) |
 | The Dream Sequences | 221586 | [221586-the-dream-sequences.json](./221586-the-dream-sequences.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Team: 3 on 3 Challenge | 80049 | [80049-the-dream-team-3-on-3-challenge.json](./80049-the-dream-team-3-on-3-challenge.json) |
@@ -19626,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Telephone | 256647 | [256647-the-telephone.json](./256647-the-telephone.json) |
 | The Teleport | 154133 | [154133-the-teleport.json](./154133-the-teleport.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
+| The Tell-Tale Hearts | 426984 | [426984-the-tell-tale-hearts.json](./426984-the-tell-tale-hearts.json) |
 | The Telltale Batman Bundle | 118722 | [118722-the-telltale-batman-bundle.json](./118722-the-telltale-batman-bundle.json) |
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
 | The Telltale Undead Survival Bundle | 82408 | [82408-the-telltale-undead-survival-bundle.json](./82408-the-telltale-undead-survival-bundle.json) |
@@ -23505,6 +23509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tides of Time: The Board Game | 175284 | [175284-tides-of-time-the-board-game.json](./175284-tides-of-time-the-board-game.json) |
 | Tides of Tomorrow: Delta Agent Pack | 399091 | [399091-tides-of-tomorrow-delta-agent-pack.json](./399091-tides-of-tomorrow-delta-agent-pack.json) |
 | Tides of War | 206790 | [206790-tides-of-war.json](./206790-tides-of-war.json) |
+| Tidesong | 426926 | [426926-tidesong.json](./426926-tidesong.json) |
 | Tidesworn | 403052 | [403052-tidesworn.json](./403052-tidesworn.json) |
 | TideTurn | 142262 | [142262-tideturn.json](./142262-tideturn.json) |
 | Tidewake | 390854 | [390854-tidewake.json](./390854-tidewake.json) |
@@ -23518,6 +23523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
 | Tidy Farm | 425169 | [425169-tidy-farm.json](./425169-tidy-farm.json) |
 | Tidy Mart | 411999 | [411999-tidy-mart.json](./411999-tidy-mart.json) |
+| Tidy Pills | 426936 | [426936-tidy-pills.json](./426936-tidy-pills.json) |
 | Tidy Shadows | 412004 | [412004-tidy-shadows.json](./412004-tidy-shadows.json) |
 | Tidy Slot Cars | 427242 | [427242-tidy-slot-cars.json](./427242-tidy-slot-cars.json) |
 | Tidy Tidy | 407034 | [407034-tidy-tidy.json](./407034-tidy-tidy.json) |
@@ -28847,6 +28853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toppled | 288099 | [288099-toppled.json](./288099-toppled.json) |
 | TopplePop: Bungee Blockbusters | 124211 | [124211-topplepop-bungee-blockbusters.json](./124211-topplepop-bungee-blockbusters.json) |
 | Toppler | 79002 | [79002-toppler.json](./79002-toppler.json) |
+| Topplio | 426948 | [426948-topplio.json](./426948-topplio.json) |
 | Toppluva | 237005 | [237005-toppluva.json](./237005-toppluva.json) |
 | Topplz | 277714 | [277714-topplz.json](./277714-topplz.json) |
 | Topps Bunt | 79001 | [79001-topps-bunt.json](./79001-topps-bunt.json) |
@@ -33766,6 +33773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashyard | 163192 | [163192-trashyard.json](./163192-trashyard.json) |
 | Trasmoz Legends: Revenge of Trasmoz | 371174 | [371174-trasmoz-legends-revenge-of-trasmoz.json](./371174-trasmoz-legends-revenge-of-trasmoz.json) |
 | Trasmoz Legends: The Curse of Trasmoz | 371175 | [371175-trasmoz-legends-the-curse-of-trasmoz.json](./371175-trasmoz-legends-the-curse-of-trasmoz.json) |
+| Trasssh | 426949 | [426949-trasssh.json](./426949-trasssh.json) |
 | Trasta | 128978 | [128978-trasta.json](./128978-trasta.json) |
 | Tratel64 | 75207 | [75207-tratel64.json](./75207-tratel64.json) |
 | Tratritle | 199674 | [199674-tratritle.json](./199674-tratritle.json) |
