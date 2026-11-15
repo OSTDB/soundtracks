@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecsaform | 140832 | [140832-ecsaform.json](./140832-ecsaform.json) |
 | Ecstasy / Light / Inertia | 256908 | [256908-ecstasy-light-inertia.json](./256908-ecstasy-light-inertia.json) |
 | Ecstatic | 204546 | [204546-ecstatic.json](./204546-ecstatic.json) |
+| Ecstatica | 12423 | [12423-ecstatica.json](./12423-ecstatica.json) |
 | Ecstatica | 414857 | [414857-ecstatica.json](./414857-ecstatica.json) |
 | Ecstatica II | 15479 | [15479-ecstatica-ii.json](./15479-ecstatica-ii.json) |
 | Ecstatica II | 414855 | [414855-ecstatica-ii.json](./414855-ecstatica-ii.json) |
@@ -7006,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Versus | 262831 | [262831-ether-versus.json](./262831-ether-versus.json) |
 | Ether Void | 384030 | [384030-ether-void.json](./384030-ether-void.json) |
 | Etheral | 292971 | [292971-etheral.json](./292971-etheral.json) |
+| Etherborn | 77529 | [77529-etherborn.json](./77529-etherborn.json) |
 | Etherburn | 337391 | [337391-etherburn.json](./337391-etherburn.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal | 307436 | [307436-ethereal.json](./307436-ethereal.json) |
