@@ -3841,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemuria | 207042 | [207042-lemuria.json](./207042-lemuria.json) |
 | Lemuria | 344427 | [344427-lemuria.json](./344427-lemuria.json) |
 | Lemuria: Lost in Space | 26355 | [26355-lemuria-lost-in-space.json](./26355-lemuria-lost-in-space.json) |
+| Lemuria: Lost in Space - VR Edition | 51602 | [51602-lemuria-lost-in-space-vr-edition.json](./51602-lemuria-lost-in-space-vr-edition.json) |
 | Lemurzin | 34116 | [34116-lemurzin.json](./34116-lemurzin.json) |
 | LemWars | 156964 | [156964-lemwars.json](./156964-lemwars.json) |
 | Len Burns Down a School | 371854 | [371854-len-burns-down-a-school.json](./371854-len-burns-down-a-school.json) |
@@ -11094,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lúnhuí Xiūxiān Jué | 157565 | [157565-lunhui-xiuxian-jue.json](./157565-lunhui-xiuxian-jue.json) |
 | Lúnhuí Xiūxiān Zhuàn | 373688 | [373688-lunhui-xiuxian-zhuan.json](./373688-lunhui-xiuxian-zhuan.json) |
 | Lúnhuí Xiūzhēn OL | 163890 | [163890-lunhui-xiuzhen-ol.json](./163890-lunhui-xiuzhen-ol.json) |
+| Lunia | 51619 | [51619-lunia.json](./51619-lunia.json) |
 | Lunia Record | 304511 | [304511-lunia-record.json](./304511-lunia-record.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunia: Record of Lunia War | 78769 | [78769-lunia-record-of-lunia-war.json](./78769-lunia-record-of-lunia-war.json) |
