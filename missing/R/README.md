@@ -5318,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rejection: Den-no Senshi | 386394 | [386394-rejection-den-no-senshi.json](./386394-rejection-den-no-senshi.json) |
 | Rejoice: Aretha Oukoku no Kanata | 42288 | [42288-rejoice-aretha-oukoku-no-kanata.json](./42288-rejoice-aretha-oukoku-no-kanata.json) |
 | Rejoin | 415948 | [415948-rejoin.json](./415948-rejoin.json) |
+| Rejoin Me After Brexit | 423914 | [423914-rejoin-me-after-brexit.json](./423914-rejoin-me-after-brexit.json) |
 | Rejoinder | 192621 | [192621-rejoinder.json](./192621-rejoinder.json) |
 | Rejudgement: ReBlessZwei | 193949 | [193949-rejudgement-reblesszwei.json](./193949-rejudgement-reblesszwei.json) |
 | Rejuvan | 302966 | [302966-rejuvan.json](./302966-rejuvan.json) |
@@ -5743,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Bakumatsu Kareshi: Toki no Kanata de Hanasaku Koi | 163345 | [163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json](./163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json) |
 | Renai Banchou 2: Midnight Lesson!!! | 63413 | [63413-renai-banchou-2-midnight-lesson.json](./63413-renai-banchou-2-midnight-lesson.json) |
 | Renai Banchou! Inochi Mijikashi, Koiseyo Otome! Love is Power | 221887 | [221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json](./221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json) |
+| Renai Jakusha na Osananajimi Shoujo to Renai Kyousha na Kanojo | 423934 | [423934-renai-jakusha-na-osananajimi-shoujo-to-renai-kyousha-na-kanojo.json](./423934-renai-jakusha-na-osananajimi-shoujo-to-renai-kyousha-na-kanojo.json) |
 | Renai Karichaimashita: Emi & Hasumi Mini After Story | 376975 | [376975-renai-karichaimashita-emi-and-hasumi-mini-after-story.json](./376975-renai-karichaimashita-emi-and-hasumi-mini-after-story.json) |
 | Renai Karichaimashita: Koikari - Love For Hire | 174072 | [174072-renai-karichaimashita-koikari-love-for-hire.json](./174072-renai-karichaimashita-koikari-love-for-hire.json) |
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
