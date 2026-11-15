@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
 | Oiligarchy | 101735 | [101735-oiligarchy.json](./101735-oiligarchy.json) |
 | Oilo Oilo | 181407 | [181407-oilo-oilo.json](./181407-oilo-oilo.json) |
+| Oily Man | 28115 | [28115-oily-man.json](./28115-oily-man.json) |
 | Oily Tower | 386982 | [386982-oily-tower.json](./386982-oily-tower.json) |
 | Oimostfonwy | 326562 | [326562-oimostfonwy.json](./326562-oimostfonwy.json) |
 | Oinari Origami | 181171 | [181171-oinari-origami.json](./181171-oinari-origami.json) |
@@ -3768,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Openlid | 257193 | [257193-openlid.json](./257193-openlid.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenMadoola | 403283 | [403283-openmadoola.json](./403283-openmadoola.json) |
+| OpenMinded | 28223 | [28223-openminded.json](./28223-openminded.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
 | OpenMW | 111444 | [111444-openmw.json](./111444-openmw.json) |
 | OpenPop | 184869 | [184869-openpop.json](./184869-openpop.json) |
