@@ -5473,6 +5473,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Bae Violet | 369830 | [369830-hentai-bae-violet.json](./369830-hentai-bae-violet.json) |
 | Hentai Balloons | 161549 | [161549-hentai-balloons.json](./161549-hentai-balloons.json) |
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
+| Hentai Balloons 2: Chef DLC 2 | 426346 | [426346-hentai-balloons-2-chef-dlc-2.json](./426346-hentai-balloons-2-chef-dlc-2.json) |
+| Hentai Balloons 2: Neko DLC 3 | 426345 | [426345-hentai-balloons-2-neko-dlc-3.json](./426345-hentai-balloons-2-neko-dlc-3.json) |
 | Hentai Balls 3D: Heavy Attraction | 380701 | [380701-hentai-balls-3d-heavy-attraction.json](./380701-hentai-balls-3d-heavy-attraction.json) |
 | Hentai Balls 3D: Perfect Motion | 386540 | [386540-hentai-balls-3d-perfect-motion.json](./386540-hentai-balls-3d-perfect-motion.json) |
 | Hentai Balls 3D: Rise of the Curves | 385103 | [385103-hentai-balls-3d-rise-of-the-curves.json](./385103-hentai-balls-3d-rise-of-the-curves.json) |
@@ -5928,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mosaique Vip Room | 212040 | [212040-hentai-mosaique-vip-room.json](./212040-hentai-mosaique-vip-room.json) |
 | Hentai Most Wanted | 366501 | [366501-hentai-most-wanted.json](./366501-hentai-most-wanted.json) |
 | Hentai Muse | 284528 | [284528-hentai-muse.json](./284528-hentai-muse.json) |
+| Hentai Muse: Secretary DLC | 426342 | [426342-hentai-muse-secretary-dlc.json](./426342-hentai-muse-secretary-dlc.json) |
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
 | Hentai Natsuki | 340441 | [340441-hentai-natsuki.json](./340441-hentai-natsuki.json) |
 | Hentai Nazi | 141506 | [141506-hentai-nazi.json](./141506-hentai-nazi.json) |
