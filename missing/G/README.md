@@ -5632,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Conflagration | 142092 | [142092-global-conflagration.json](./142092-global-conflagration.json) |
 | Global Conflict: The Trading Card Game | 264811 | [264811-global-conflict-the-trading-card-game.json](./264811-global-conflict-the-trading-card-game.json) |
 | Global Conflicts: Latin America | 54052 | [54052-global-conflicts-latin-america.json](./54052-global-conflicts-latin-america.json) |
+| Global Conflicts: Palestine | 23073 | [23073-global-conflicts-palestine.json](./23073-global-conflicts-palestine.json) |
 | Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
 | Global Defence Force: Tactics | 5582 | [5582-global-defence-force-tactics.json](./5582-global-defence-force-tactics.json) |
@@ -5807,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Ages - Samurais | 112650 | [112650-glory-ages-samurais.json](./112650-glory-ages-samurais.json) |
 | Glory by Example | 31640 | [31640-glory-by-example.json](./31640-glory-by-example.json) |
 | Glory Days 2 | 21230 | [21230-glory-days-2.json](./21230-glory-days-2.json) |
+| Glory Days 2: Brotherhood of Men | 23074 | [23074-glory-days-2-brotherhood-of-men.json](./23074-glory-days-2-brotherhood-of-men.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
 | Glory Destiny Online | 85806 | [85806-glory-destiny-online.json](./85806-glory-destiny-online.json) |
 | Glory Destiny: Reborn | 340307 | [340307-glory-destiny-reborn.json](./340307-glory-destiny-reborn.json) |
@@ -12449,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Blood: 2D Zombie Shooter | 96025 | [96025-guns-and-blood-2d-zombie-shooter.json](./96025-guns-and-blood-2d-zombie-shooter.json) |
 | Guns and Braps | 127027 | [127027-guns-and-braps.json](./127027-guns-and-braps.json) |
 | Guns and Bullets Bundle | 397734 | [397734-guns-and-bullets-bundle.json](./397734-guns-and-bullets-bundle.json) |
+| Guns and Cards: Leap of Fate | 24364 | [24364-guns-and-cards-leap-of-fate.json](./24364-guns-and-cards-leap-of-fate.json) |
 | Guns and Donuts | 260635 | [260635-guns-and-donuts.json](./260635-guns-and-donuts.json) |
 | Guns and Ghosts | 110676 | [110676-guns-and-ghosts.json](./110676-guns-and-ghosts.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
@@ -12639,6 +12642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Records Cychronicle: Song Pack 6 | 294845 | [294845-gunvolt-records-cychronicle-song-pack-6.json](./294845-gunvolt-records-cychronicle-song-pack-6.json) |
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
+| GunWorld | 24561 | [24561-gunworld.json](./24561-gunworld.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | GunWorld: Xbox One Edition | 82544 | [82544-gunworld-xbox-one-edition.json](./82544-gunworld-xbox-one-edition.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
