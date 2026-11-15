@@ -12195,6 +12195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
 | Simon Clone | 92329 | [92329-simon-clone.json](./92329-simon-clone.json) |
 | Simon HD | 66592 | [66592-simon-hd.json](./66592-simon-hd.json) |
+| Simon Says | 11505 | [11505-simon-says.json](./11505-simon-says.json) |
 | Simon Says | 288364 | [288364-simon-says.json](./288364-simon-says.json) |
 | Simon Says! | 42167 | [42167-simon-says.json](./42167-simon-says.json) |
 | Simon Says... | 76987 | [76987-simon-says.json](./76987-simon-says.json) |
@@ -13612,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skewer'd | 424299 | [424299-skewerd.json](./424299-skewerd.json) |
 | Skewered Up! | 423084 | [423084-skewered-up.json](./423084-skewered-up.json) |
 | SKG Hunt | 392876 | [392876-skg-hunt.json](./392876-skg-hunt.json) |
+| Ski | 11532 | [11532-ski.json](./11532-ski.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
 | Ski and Shoot | 9749 | [9749-ski-and-shoot.json](./9749-ski-and-shoot.json) |
 | Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
@@ -17375,6 +17377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Wave 2 | 401717 | [401717-snow-wave-2.json](./401717-snow-wave-2.json) |
 | Snow Wave Community Project | 314540 | [314540-snow-wave-community-project.json](./314540-snow-wave-community-project.json) |
 | Snow Wave: Avalanche | 206998 | [206998-snow-wave-avalanche.json](./206998-snow-wave-avalanche.json) |
+| Snow White and the 7 Clever Boys | 11618 | [11618-snow-white-and-the-7-clever-boys.json](./11618-snow-white-and-the-7-clever-boys.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
@@ -23199,6 +23202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparx | 120508 | [120508-sparx.json](./120508-sparx.json) |
 | Spase Defense | 323470 | [323470-spase-defense.json](./323470-spase-defense.json) |
 | Spasibo: Spanking Simulation Box | 414008 | [414008-spasibo-spanking-simulation-box.json](./414008-spasibo-spanking-simulation-box.json) |
+| Spasim | 11512 | [11512-spasim.json](./11512-spasim.json) |
 | Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
 | Spaß Taxi | 128396 | [128396-spa-taxi.json](./128396-spa-taxi.json) |
 | Spatial Anomaly | 372358 | [372358-spatial-anomaly.json](./372358-spatial-anomaly.json) |
@@ -28869,6 +28873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statele | 246240 | [246240-statele.json](./246240-statele.json) |
 | StateOS: The Political Sandbox | 417262 | [417262-stateos-the-political-sandbox.json](./417262-stateos-the-political-sandbox.json) |
 | Statera: Aurum | 275955 | [275955-statera-aurum.json](./275955-statera-aurum.json) |
+| States | 11531 | [11531-states.json](./11531-states.json) |
 | States & Capitals | 80084 | [80084-states-and-capitals.json](./80084-states-and-capitals.json) |
 | States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
@@ -32548,6 +32553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submachine: Legacy | 149666 | [149666-submachine-legacy.json](./149666-submachine-legacy.json) |
 | Submansion | 334264 | [334264-submansion.json](./334264-submansion.json) |
+| Submarine | 11520 | [11520-submarine.json](./11520-submarine.json) |
 | Submarine | 274867 | [274867-submarine.json](./274867-submarine.json) |
 | Submarine | 345761 | [345761-submarine.json](./345761-submarine.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
