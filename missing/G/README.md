@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
 | GBS Windows | 341947 | [341947-gbs-windows.json](./341947-gbs-windows.json) |
 | GCS: Salvage Rat | 361928 | [361928-gcs-salvage-rat.json](./361928-gcs-salvage-rat.json) |
+| Gdleen | 38020 | [38020-gdleen.json](./38020-gdleen.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Ge.ne.sis: Down the Road of Tales | 228949 | [228949-ge-ne-sis-down-the-road-of-tales.json](./228949-ge-ne-sis-down-the-road-of-tales.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genjintch Tamagotchi | 229846 | [229846-genjintch-tamagotchi.json](./229846-genjintch-tamagotchi.json) |
 | Genjiro: Samurai Defense | 285973 | [285973-genjiro-samurai-defense.json](./285973-genjiro-samurai-defense.json) |
 | Genjitsukai | 184706 | [184706-genjitsukai.json](./184706-genjitsukai.json) |
+| Genjuu Ryodan | 38019 | [38019-genjuu-ryodan.json](./38019-genjuu-ryodan.json) |
 | Genkai Shikisai Kankaku Test Hard | 266168 | [266168-genkai-shikisai-kankaku-test-hard.json](./266168-genkai-shikisai-kankaku-test-hard.json) |
 | Genkai Tokki Moero Crystal | 60222 | [60222-genkai-tokki-moero-crystal.json](./60222-genkai-tokki-moero-crystal.json) |
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
@@ -3806,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerphyon: The Ender Mansion | 416501 | [416501-gerphyon-the-ender-mansion.json](./416501-gerphyon-the-ender-mansion.json) |
 | Gerritory | 132986 | [132986-gerritory.json](./132986-gerritory.json) |
 | Gerrrms | 146998 | [146998-gerrrms.json](./146998-gerrrms.json) |
+| Gerry Anderson's Thunderbirds: Kokusai Kyuujotai Juudou Seyo!! | 38018 | [38018-gerry-andersons-thunderbirds-kokusai-kyuujotai-juudou-seyo.json](./38018-gerry-andersons-thunderbirds-kokusai-kyuujotai-juudou-seyo.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry Dae | 392838 | [392838-gerry-dae.json](./392838-gerry-dae.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
@@ -4891,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GINAB: Logic and Puzzle Collection in a 3D Style | 83863 | [83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json](./83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json) |
 | Gincana | 286059 | [286059-gincana.json](./286059-gincana.json) |
 | Gindama Oyakata no Jissen Pachinko Hisshouhou | 65199 | [65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json](./65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json) |
+| Gindama Oyakata no Pachinko Hisshouhou | 38016 | [38016-gindama-oyakata-no-pachinko-hisshouhou.json](./38016-gindama-oyakata-no-pachinko-hisshouhou.json) |
 | Ginga Cantina | 362788 | [362788-ginga-cantina.json](./362788-ginga-cantina.json) |
 | Ginga Denshou: Galaxy Odyssey | 41301 | [41301-ginga-denshou-galaxy-odyssey.json](./41301-ginga-denshou-galaxy-odyssey.json) |
 | Ginga Eiyuu Densetsu | 48502 | [48502-ginga-eiyuu-densetsu.json](./48502-ginga-eiyuu-densetsu.json) |
@@ -4905,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Ninkyouden | 38647 | [38647-ginga-ninkyouden.json](./38647-ginga-ninkyouden.json) |
 | Ginga no San-nin | 48503 | [48503-ginga-no-san-nin.json](./48503-ginga-no-san-nin.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
+| Ginga Sengoku Gunyuu-den Rai | 38015 | [38015-ginga-sengoku-gunyuu-den-rai.json](./38015-ginga-sengoku-gunyuu-den-rai.json) |
 | Ginga Tetsudou 999 DS | 122547 | [122547-ginga-tetsudou-999-ds.json](./122547-ginga-tetsudou-999-ds.json) |
 | Ginga Tetsudou no Tabi | 398408 | [398408-ginga-tetsudou-no-tabi.json](./398408-ginga-tetsudou-no-tabi.json) |
 | Gingar Ail | 295847 | [295847-gingar-ail.json](./295847-gingar-ail.json) |
@@ -4945,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gintama Sumaho Battle Chronicle | 381893 | [381893-gintama-sumaho-battle-chronicle.json](./381893-gintama-sumaho-battle-chronicle.json) |
 | Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai-soudatsusen!! | 124566 | [124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json](./124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json) |
 | Gion Corridor | 394285 | [394285-gion-corridor.json](./394285-gion-corridor.json) |
+| Gionbana | 38014 | [38014-gionbana.json](./38014-gionbana.json) |
 | Giovanni's Level Pack 2 | 361661 | [361661-giovannis-level-pack-2.json](./361661-giovannis-level-pack-2.json) |
 | Gioventù Ribelle | 316757 | [316757-gioventu-ribelle.json](./316757-gioventu-ribelle.json) |
 | Giphy World VR | 368242 | [368242-giphy-world-vr.json](./368242-giphy-world-vr.json) |
