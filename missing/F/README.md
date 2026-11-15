@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
 | Farmer Toon | 197005 | [197005-farmer-toon.json](./197005-farmer-toon.json) |
 | Farmer Wars | 150800 | [150800-farmer-wars.json](./150800-farmer-wars.json) |
+| Farmer World Cup | 421620 | [421620-farmer-world-cup.json](./421620-farmer-world-cup.json) |
 | Farmer's Defence | 193081 | [193081-farmers-defence.json](./193081-farmers-defence.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
@@ -7623,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy Dungeon Delving | 230917 | [230917-fishy-dungeon-delving.json](./230917-fishy-dungeon-delving.json) |
 | Fishy Escape | 326546 | [326546-fishy-escape.json](./326546-fishy-escape.json) |
 | Fishy2 | 129381 | [129381-fishy2.json](./129381-fishy2.json) |
+| FishyFishy | 421537 | [421537-fishyfishy.json](./421537-fishyfishy.json) |
 | Fishyphus | 265828 | [265828-fishyphus.json](./265828-fishyphus.json) |
 | Fisk | 81089 | [81089-fisk.json](./81089-fisk.json) |
 | Fiskal Clif | 303744 | [303744-fiskal-clif.json](./303744-fiskal-clif.json) |
@@ -9400,6 +9402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Power: The Adventures of Magical Plants | 324188 | [324188-flower-power-the-adventures-of-magical-plants.json](./324188-flower-power-the-adventures-of-magical-plants.json) |
 | Flower Quest | 182104 | [182104-flower-quest.json](./182104-flower-quest.json) |
 | Flower Shop | 190891 | [190891-flower-shop.json](./190891-flower-shop.json) |
+| Flower Shop | 421550 | [421550-flower-shop.json](./421550-flower-shop.json) |
 | Flower Shop of Broken Wonders | 299174 | [299174-flower-shop-of-broken-wonders.json](./299174-flower-shop-of-broken-wonders.json) |
 | Flower Shop: Big City Break | 209457 | [209457-flower-shop-big-city-break.json](./209457-flower-shop-big-city-break.json) |
 | Flower Shop: Summer In Fairbrook | 9843 | [9843-flower-shop-summer-in-fairbrook.json](./9843-flower-shop-summer-in-fairbrook.json) |
@@ -11308,6 +11311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten World | 105639 | [105639-forgotten-world.json](./105639-forgotten-world.json) |
 | Forgotten Worlds | 6794 | [6794-forgotten-worlds.json](./6794-forgotten-worlds.json) |
 | Forgotten, Not Lost - A Kinetic Novel | 33132 | [33132-forgotten-not-lost-a-kinetic-novel.json](./33132-forgotten-not-lost-a-kinetic-novel.json) |
+| Forgotten: Memory Match | 421621 | [421621-forgotten-memory-match.json](./421621-forgotten-memory-match.json) |
 | Forgotten: The Game | 173967 | [173967-forgotten-the-game.json](./173967-forgotten-the-game.json) |
 | Forgotten: The Source | 414909 | [414909-forgotten-the-source.json](./414909-forgotten-the-source.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
