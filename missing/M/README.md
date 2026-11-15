@@ -7339,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Lead Fire | 169632 | [169632-meat-lead-fire.json](./169632-meat-lead-fire.json) |
 | Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
 | Meat Man | 374003 | [374003-meat-man.json](./374003-meat-man.json) |
+| Meat Puppet | 72187 | [72187-meat-puppet.json](./72187-meat-puppet.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
 | Meat Saw | 193268 | [193268-meat-saw.json](./193268-meat-saw.json) |
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
@@ -11104,6 +11105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
 | Metalstorm Online | 51644 | [51644-metalstorm-online.json](./51644-metalstorm-online.json) |
 | Metaltech: Battledrome | 73516 | [73516-metaltech-battledrome.json](./73516-metaltech-battledrome.json) |
+| Metaltech: Earthsiege | 72226 | [72226-metaltech-earthsiege.json](./72226-metaltech-earthsiege.json) |
 | Metaltech: Earthsiege - Expansion Pack | 73554 | [73554-metaltech-earthsiege-expansion-pack.json](./73554-metaltech-earthsiege-expansion-pack.json) |
 | Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
 | Metalworking | 168632 | [168632-metalworking.json](./168632-metalworking.json) |
@@ -11508,7 +11510,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
 | Mexican High School Simulator | 257355 | [257355-mexican-high-school-simulator.json](./257355-mexican-high-school-simulator.json) |
 | Mexican Motor Mafia | 70496 | [70496-mexican-motor-mafia.json](./70496-mexican-motor-mafia.json) |
-| Mexican Ninja | 347240 | [347240-mexican-ninja.json](./347240-mexican-ninja.json) |
 | Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
 | Mexican Train Dominoes 2 | 106070 | [106070-mexican-train-dominoes-2.json](./106070-mexican-train-dominoes-2.json) |
 | Mexican Train Dominoes Gold | 147732 | [147732-mexican-train-dominoes-gold.json](./147732-mexican-train-dominoes-gold.json) |
@@ -11663,6 +11664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
 | Michael Ninn's Latex: The Game | 70788 | [70788-michael-ninns-latex-the-game.json](./70788-michael-ninns-latex-the-game.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
+| Michael Owen's World League Soccer '99 | 71669 | [71669-michael-owens-world-league-soccer-99.json](./71669-michael-owens-world-league-soccer-99.json) |
 | Michael Phelps: Push the Limit | 19945 | [19945-michael-phelps-push-the-limit.json](./19945-michael-phelps-push-the-limit.json) |
 | Michael Schacht's Web of Power Card Game: The Duel | 175293 | [175293-michael-schachts-web-of-power-card-game-the-duel.json](./175293-michael-schachts-web-of-power-card-game-the-duel.json) |
 | Michael Schumacher Racing World Kart 2002 | 8853 | [8853-michael-schumacher-racing-world-kart-2002.json](./8853-michael-schumacher-racing-world-kart-2002.json) |
@@ -11939,6 +11941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Caribbean | 93433 | [93433-microsoft-caribbean.json](./93433-microsoft-caribbean.json) |
 | Microsoft Casino | 96510 | [96510-microsoft-casino.json](./96510-microsoft-casino.json) |
 | Microsoft Children's Miracle Network Games Bundle | 7069 | [7069-microsoft-childrens-miracle-network-games-bundle.json](./7069-microsoft-childrens-miracle-network-games-bundle.json) |
+| Microsoft Classic Board Games | 72219 | [72219-microsoft-classic-board-games.json](./72219-microsoft-classic-board-games.json) |
 | Microsoft Combat Flight Simulator 2: WWII Pacific Theater | 644 | [644-microsoft-combat-flight-simulator-2-wwii-pacific-theater.json](./644-microsoft-combat-flight-simulator-2-wwii-pacific-theater.json) |
 | Microsoft Combat Flight Simulator 3: Battle for Europe | 23768 | [23768-microsoft-combat-flight-simulator-3-battle-for-europe.json](./23768-microsoft-combat-flight-simulator-3-battle-for-europe.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
@@ -18231,6 +18234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters, Inc. Scream Team | 6514 | [6514-monsters-inc-scream-team.json](./6514-monsters-inc-scream-team.json) |
 | Monsters, Inc.: Pinball Panic | 68735 | [68735-monsters-inc-pinball-panic.json](./68735-monsters-inc-pinball-panic.json) |
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
+| Monsters, Inc.: Wreck Room Arcade - Monster Tag | 72181 | [72181-monsters-inc-wreck-room-arcade-monster-tag.json](./72181-monsters-inc-wreck-room-arcade-monster-tag.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | Monsters! | 36071 | [36071-monsters.json](./36071-monsters.json) |
@@ -19153,6 +19157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mort's Dream Jump | 248010 | [248010-morts-dream-jump.json](./248010-morts-dream-jump.json) |
 | Mortacrust | 323778 | [323778-mortacrust.json](./323778-mortacrust.json) |
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
+| Mortadelo y Filemón: Balones y Patadones | 72182 | [72182-mortadelo-y-filemon-balones-y-patadones.json](./72182-mortadelo-y-filemon-balones-y-patadones.json) |
 | Mortadelo y Filemón: Dos Vaqueros Chapuceros | 277923 | [277923-mortadelo-y-filemon-dos-vaqueros-chapuceros.json](./277923-mortadelo-y-filemon-dos-vaqueros-chapuceros.json) |
 | Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
 | Mortadelo y Filemón: El Sulfato Atómico | 69909 | [69909-mortadelo-y-filemon-el-sulfato-atomico.json](./69909-mortadelo-y-filemon-el-sulfato-atomico.json) |
@@ -19957,6 +19962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Motor Assailant | 148058 | [148058-motor-assailant.json](./148058-motor-assailant.json) |
+| Motor City | 72195 | [72195-motor-city.json](./72195-motor-city.json) |
 | Motor City Online | 23809 | [23809-motor-city-online.json](./23809-motor-city-online.json) |
 | Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
 | Motor City Turf Wars | 426058 | [426058-motor-city-turf-wars.json](./426058-motor-city-turf-wars.json) |
