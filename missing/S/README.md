@@ -6633,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
 | Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
 | Server Preserver | 177139 | [177139-server-preserver.json](./177139-server-preserver.json) |
+| Server Tycoon | 16125 | [16125-server-tycoon.json](./16125-server-tycoon.json) |
 | Server-Admin Simulator | 404189 | [404189-server-admin-simulator.json](./404189-server-admin-simulator.json) |
 | Service Area Simulator | 379065 | [379065-service-area-simulator.json](./379065-service-area-simulator.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
@@ -8307,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
 | Shapeo | 327437 | [327437-shapeo.json](./327437-shapeo.json) |
 | ShapeOminoes | 197721 | [197721-shapeominoes.json](./197721-shapeominoes.json) |
+| Shapeout | 16319 | [16319-shapeout.json](./16319-shapeout.json) |
 | ShapePlacer | 179352 | [179352-shapeplacer.json](./179352-shapeplacer.json) |
 | Shaper | 228037 | [228037-shaper.json](./228037-shaper.json) |
 | Shaper | 240810 | [240810-shaper.json](./240810-shaper.json) |
@@ -13832,6 +13834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipper & Skeeto: Quizkampen 2 | 285637 | [285637-skipper-and-skeeto-quizkampen-2.json](./285637-skipper-and-skeeto-quizkampen-2.json) |
 | Skipper & Skeeto: Tales from Paradise Park | 18992 | [18992-skipper-and-skeeto-tales-from-paradise-park.json](./18992-skipper-and-skeeto-tales-from-paradise-park.json) |
 | Skipper & Skeeto: The Alphabetic Games | 285632 | [285632-skipper-and-skeeto-the-alphabetic-games.json](./285632-skipper-and-skeeto-the-alphabetic-games.json) |
+| Skipper & Skeeto: The Great Treasure Hunt | 16315 | [16315-skipper-and-skeeto-the-great-treasure-hunt.json](./16315-skipper-and-skeeto-the-great-treasure-hunt.json) |
 | Skipper & Skeeto: The Midnight Mystery | 285631 | [285631-skipper-and-skeeto-the-midnight-mystery.json](./285631-skipper-and-skeeto-the-midnight-mystery.json) |
 | Skipper & Skeeto: The Mystery of the Talking Sundial | 285630 | [285630-skipper-and-skeeto-the-mystery-of-the-talking-sundial.json](./285630-skipper-and-skeeto-the-mystery-of-the-talking-sundial.json) |
 | Skipper & Skeeto: The Number Shop | 285633 | [285633-skipper-and-skeeto-the-number-shop.json](./285633-skipper-and-skeeto-the-number-shop.json) |
@@ -24721,6 +24724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
 | Spirit of Revenge: Gem Fury - Collector's Edition | 416510 | [416510-spirit-of-revenge-gem-fury-collectors-edition.json](./416510-spirit-of-revenge-gem-fury-collectors-edition.json) |
 | Spirit of Shotgun | 191985 | [191985-spirit-of-shotgun.json](./191985-spirit-of-shotgun.json) |
+| Spirit of Speed 1937 | 16303 | [16303-spirit-of-speed-1937.json](./16303-spirit-of-speed-1937.json) |
 | Spirit of the Ancient Forest | 43081 | [43081-spirit-of-the-ancient-forest.json](./43081-spirit-of-the-ancient-forest.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
 | Spirit of the Blade | 151480 | [151480-spirit-of-the-blade.json](./151480-spirit-of-the-blade.json) |
