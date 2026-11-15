@@ -8914,7 +8914,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Agartha: Supporter Pack | 241987 | [241987-expedition-agartha-supporter-pack.json](./241987-expedition-agartha-supporter-pack.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
+| Expedition Bonk | 423312 | [423312-expedition-bonk.json](./423312-expedition-bonk.json) |
 | Expedition Chronicles | 333338 | [333338-expedition-chronicles.json](./333338-expedition-chronicles.json) |
+| Expedition of the Guild | 423345 | [423345-expedition-of-the-guild.json](./423345-expedition-of-the-guild.json) |
 | Expedition Oregon | 111423 | [111423-expedition-oregon.json](./111423-expedition-oregon.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
 | Expedition Wildlife | 260618 | [260618-expedition-wildlife.json](./260618-expedition-wildlife.json) |
