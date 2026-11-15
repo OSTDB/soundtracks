@@ -3748,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Stars: The Game | 62015 | [62015-pawn-stars-the-game.json](./62015-pawn-stars-the-game.json) |
 | Pawn Tactics | 26487 | [26487-pawn-tactics.json](./26487-pawn-tactics.json) |
 | Pawn.OS() | 360647 | [360647-pawn-os.json](./360647-pawn-os.json) |
+| Pawnbarian | 122743 | [122743-pawnbarian.json](./122743-pawnbarian.json) |
 | Pawnbroker Simulator | 312463 | [312463-pawnbroker-simulator.json](./312463-pawnbroker-simulator.json) |
 | Pawnchline | 292073 | [292073-pawnchline.json](./292073-pawnchline.json) |
 | Pawndemonium | 194412 | [194412-pawndemonium.json](./194412-pawndemonium.json) |
@@ -6950,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictopix | 26756 | [26756-pictopix.json](./26756-pictopix.json) |
 | Pictopix: Mosaics | 116210 | [116210-pictopix-mosaics.json](./116210-pictopix-mosaics.json) |
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
+| PictoQuest: The Cursed Grids | 121615 | [121615-pictoquest-the-cursed-grids.json](./121615-pictoquest-the-cursed-grids.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
 | Pictorial | 88368 | [88368-pictorial.json](./88368-pictorial.json) |
 | Pictorial 2 | 212408 | [212408-pictorial-2.json](./212408-pictorial-2.json) |
@@ -14307,6 +14309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye: The Rescue | 209330 | [209330-popeye-the-rescue.json](./209330-popeye-the-rescue.json) |
 | Popful Mail | 242129 | [242129-popful-mail.json](./242129-popful-mail.json) |
 | Popful Mail | 242130 | [242130-popful-mail.json](./242130-popful-mail.json) |
+| Popful Mail: Magical Fantasy Adventure | 5412 | [5412-popful-mail-magical-fantasy-adventure.json](./5412-popful-mail-magical-fantasy-adventure.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
 | Popgoes 0 | 238963 | [238963-popgoes-0.json](./238963-popgoes-0.json) |
@@ -15357,6 +15360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerslide | 37231 | [37231-powerslide.json](./37231-powerslide.json) |
 | Powerslide Legends | 152652 | [152652-powerslide-legends.json](./152652-powerslide-legends.json) |
 | PowerSpinners | 58687 | [58687-powerspinners.json](./58687-powerspinners.json) |
+| Powerstar Golf | 5331 | [5331-powerstar-golf.json](./5331-powerstar-golf.json) |
 | Powerstar Golf: Burning Sands | 256747 | [256747-powerstar-golf-burning-sands.json](./256747-powerstar-golf-burning-sands.json) |
 | Powerstar Golf: City Park | 256745 | [256745-powerstar-golf-city-park.json](./256745-powerstar-golf-city-park.json) |
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
@@ -19253,6 +19257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugg | 211911 | [211911-pugg.json](./211911-pugg.json) |
+| Puggsy | 5425 | [5425-puggsy.json](./5425-puggsy.json) |
 | Pugmire: Treasure of the Sea Dogs | 152714 | [152714-pugmire-treasure-of-the-sea-dogs.json](./152714-pugmire-treasure-of-the-sea-dogs.json) |
 | Pugnite | 385992 | [385992-pugnite.json](./385992-pugnite.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
