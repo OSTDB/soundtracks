@@ -6757,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Mǎxìtuán zhī Yè | 154334 | [154334-maxituan-zhi-ye.json](./154334-maxituan-zhi-ye.json) |
 | Maxix Robotics | 236057 | [236057-maxix-robotics.json](./236057-maxix-robotics.json) |
+| Maxluq | 421629 | [421629-maxluq.json](./421629-maxluq.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | Maxon Petting Simulator | 214991 | [214991-maxon-petting-simulator.json](./214991-maxon-petting-simulator.json) |
 | Maxoo 2 | 216412 | [216412-maxoo-2.json](./216412-maxoo-2.json) |
@@ -12599,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Grub Session | 120098 | [120098-midnight-grub-session.json](./120098-midnight-grub-session.json) |
 | Midnight GT: Primary Racer | 73414 | [73414-midnight-gt-primary-racer.json](./73414-midnight-gt-primary-racer.json) |
 | Midnight Guns | 201731 | [201731-midnight-guns.json](./201731-midnight-guns.json) |
+| Midnight Harvest | 421549 | [421549-midnight-harvest.json](./421549-midnight-harvest.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
 | Midnight Heaven | 244728 | [244728-midnight-heaven.json](./244728-midnight-heaven.json) |
 | Midnight Heist | 184953 | [184953-midnight-heist.json](./184953-midnight-heist.json) |
