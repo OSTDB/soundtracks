@@ -4103,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
 | Kingsblood | 216706 | [216706-kingsblood.json](./216706-kingsblood.json) |
 | Kingsborn | 126279 | [126279-kingsborn.json](./126279-kingsborn.json) |
+| Kingsbridge | 425795 | [425795-kingsbridge.json](./425795-kingsbridge.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
 | Kingsguard | 259380 | [259380-kingsguard.json](./259380-kingsguard.json) |
 | Kingsguard | 322290 | [322290-kingsguard.json](./322290-kingsguard.json) |
