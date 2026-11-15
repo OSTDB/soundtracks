@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kahi | 180921 | [180921-kahi.json](./180921-kahi.json) |
 | Kahmate | 207992 | [207992-kahmate.json](./207992-kahmate.json) |
 | Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
+| Kahoots | 42823 | [42823-kahoots.json](./42823-kahoots.json) |
 | Kahoro and Tetra | 321690 | [321690-kahoro-and-tetra.json](./321690-kahoro-and-tetra.json) |
 | Kahuna | 108548 | [108548-kahuna.json](./108548-kahuna.json) |
 | Kai | 302610 | [302610-kai.json](./302610-kai.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
 | Karigurashi Renai: Living on Borrowed Love | 389797 | [389797-karigurashi-renai-living-on-borrowed-love.json](./389797-karigurashi-renai-living-on-borrowed-love.json) |
 | Karim and the 60 Thieves | 348905 | [348905-karim-and-the-60-thieves.json](./348905-karim-and-the-60-thieves.json) |
+| Karimogi | 42822 | [42822-karimogi.json](./42822-karimogi.json) |
 | Karin's Digital Adventure | 213512 | [213512-karins-digital-adventure.json](./213512-karins-digital-adventure.json) |
 | Karin's Instruction | 292757 | [292757-karins-instruction.json](./292757-karins-instruction.json) |
 | Karisvale | 193033 | [193033-karisvale.json](./193033-karisvale.json) |
@@ -6984,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KuruKuru Princess: Tokimeki Figure Mezase! Vancouver | 77135 | [77135-kurukuru-princess-tokimeki-figure-mezase-vancouver.json](./77135-kurukuru-princess-tokimeki-figure-mezase-vancouver.json) |
 | KuruKuru Princess: Yume no White Quartet | 70668 | [70668-kurukuru-princess-yume-no-white-quartet.json](./70668-kurukuru-princess-yume-no-white-quartet.json) |
 | Kurukuru Twinkle: Onegai Ohoshisama | 396331 | [396331-kurukuru-twinkle-onegai-ohoshisama.json](./396331-kurukuru-twinkle-onegai-ohoshisama.json) |
+| Kurulin Fusion | 42821 | [42821-kurulin-fusion.json](./42821-kurulin-fusion.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
 | Kurumi Diary | 233476 | [233476-kurumi-diary.json](./233476-kurumi-diary.json) |
 | Kurumi Miracle | 246140 | [246140-kurumi-miracle.json](./246140-kurumi-miracle.json) |
