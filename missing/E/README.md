@@ -8739,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoide-Z | 41756 | [41756-exoide-z.json](./41756-exoide-z.json) |
 | Exoide-Z Area 5 | 47512 | [47512-exoide-z-area-5.json](./47512-exoide-z-area-5.json) |
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
+| Exolon | 12586 | [12586-exolon.json](./12586-exolon.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
 | Exolotl: Zian | 251995 | [251995-exolotl-zian.json](./251995-exolotl-zian.json) |
 | Exome | 213513 | [213513-exome.json](./213513-exome.json) |
