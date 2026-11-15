@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptune's Pride | 65746 | [65746-neptunes-pride.json](./65746-neptunes-pride.json) |
 | Neptune's Pride II: Triton | 62443 | [62443-neptunes-pride-ii-triton.json](./62443-neptunes-pride-ii-triton.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
+| Neptune's Secret | 65136 | [65136-neptunes-secret.json](./65136-neptunes-secret.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia | 69908 | [69908-neptunia.json](./69908-neptunia.json) |
 | Neptunia Game Maker R:Evolution / Neptunia: Sisters vs. Sisters: Day One Edition - Dual Pack Plus | 300752 | [300752-neptunia-game-maker-r-evolution-neptunia-sisters-vs-sisters-day-one-edition-dual-pack-plus.json](./300752-neptunia-game-maker-r-evolution-neptunia-sisters-vs-sisters-day-one-edition-dual-pack-plus.json) |
@@ -6440,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Noise | 345402 | [345402-no-more-noise.json](./345402-no-more-noise.json) |
 | No More Papers Please | 185237 | [185237-no-more-papers-please.json](./185237-no-more-papers-please.json) |
 | No More Pesticide | 389928 | [389928-no-more-pesticide.json](./389928-no-more-pesticide.json) |
+| No More Plumbers | 65684 | [65684-no-more-plumbers.json](./65684-no-more-plumbers.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
 | No More Regrets | 195857 | [195857-no-more-regrets.json](./195857-no-more-regrets.json) |
