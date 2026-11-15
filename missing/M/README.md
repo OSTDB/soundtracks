@@ -5894,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Tattooverse | 208823 | [208823-master-of-the-tattooverse.json](./208823-master-of-the-tattooverse.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master of the Wizards | 193397 | [193397-master-of-the-wizards.json](./193397-master-of-the-wizards.json) |
+| Master of Treasure | 426373 | [426373-master-of-treasure.json](./426373-master-of-treasure.json) |
 | Master of Vtuber | 267452 | [267452-master-of-vtuber.json](./267452-master-of-vtuber.json) |
 | Master of War: Rule of Power | 199451 | [199451-master-of-war-rule-of-power.json](./199451-master-of-war-rule-of-power.json) |
 | Master of Weapon | 4532 | [4532-master-of-weapon.json](./4532-master-of-weapon.json) |
@@ -16257,6 +16258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam 0079 Card Builder | 79013 | [79013-mobile-suit-gundam-0079-card-builder.json](./79013-mobile-suit-gundam-0079-card-builder.json) |
 | Mobile Suit Gundam AGE: Cosmic Drive | 75722 | [75722-mobile-suit-gundam-age-cosmic-drive.json](./75722-mobile-suit-gundam-age-cosmic-drive.json) |
 | Mobile Suit Gundam AGE: Universe Accel | 75721 | [75721-mobile-suit-gundam-age-universe-accel.json](./75721-mobile-suit-gundam-age-universe-accel.json) |
+| Mobile Suit Gundam Battle Operation 3 | 426387 | [426387-mobile-suit-gundam-battle-operation-3.json](./426387-mobile-suit-gundam-battle-operation-3.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Extreme Vs. 2 OverBoost | 243465 | [243465-mobile-suit-gundam-extreme-vs-2-overboost.json](./243465-mobile-suit-gundam-extreme-vs-2-overboost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
@@ -22799,6 +22801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dark Eden | 325372 | [325372-my-dark-eden.json](./325372-my-dark-eden.json) |
 | My Darkest Moment | 188312 | [188312-my-darkest-moment.json](./188312-my-darkest-moment.json) |
 | My Darkest Witch | 226038 | [226038-my-darkest-witch.json](./226038-my-darkest-witch.json) |
+| My Darling Dark Elf | 426357 | [426357-my-darling-dark-elf.json](./426357-my-darling-dark-elf.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
 | My Daughter Is A Cultist! | 134156 | [134156-my-daughter-is-a-cultist.json](./134156-my-daughter-is-a-cultist.json) |
