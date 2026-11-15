@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Online: Stygian Abyss | 68226 | [68226-ultima-online-stygian-abyss.json](./68226-ultima-online-stygian-abyss.json) |
 | Ultima Online: The Second Age | 70136 | [70136-ultima-online-the-second-age.json](./70136-ultima-online-the-second-age.json) |
 | Ultima Online: Third Dawn | 71942 | [71942-ultima-online-third-dawn.json](./71942-ultima-online-third-dawn.json) |
+| Ultima Online: Time of Legends | 57299 | [57299-ultima-online-time-of-legends.json](./57299-ultima-online-time-of-legends.json) |
 | Ultima Ratio | 109121 | [109121-ultima-ratio.json](./109121-ultima-ratio.json) |
 | Ultima Ratio Regum | 142341 | [142341-ultima-ratio-regum.json](./142341-ultima-ratio-regum.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
