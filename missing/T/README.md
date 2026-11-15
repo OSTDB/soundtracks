@@ -4251,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
 | Temptation | 93800 | [93800-temptation.json](./93800-temptation.json) |
 | Temptation 2 | 97557 | [97557-temptation-2.json](./97557-temptation-2.json) |
+| Temptations | 47499 | [47499-temptations.json](./47499-temptations.json) |
 | Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
 | Tempus | 192223 | [192223-tempus.json](./192223-tempus.json) |
@@ -12521,6 +12522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Irony | 324952 | [324952-the-irony.json](./324952-the-irony.json) |
 | The Irrational World of Damien | 112653 | [112653-the-irrational-world-of-damien.json](./112653-the-irrational-world-of-damien.json) |
 | The Irregular at Magic High School Reloaded Memory | 174649 | [174649-the-irregular-at-magic-high-school-reloaded-memory.json](./174649-the-irregular-at-magic-high-school-reloaded-memory.json) |
+| The Irritating Maze | 47599 | [47599-the-irritating-maze.json](./47599-the-irritating-maze.json) |
 | The Irritatis: The Road | 315755 | [315755-the-irritatis-the-road.json](./315755-the-irritatis-the-road.json) |
 | The Island | 155934 | [155934-the-island.json](./155934-the-island.json) |
 | The Island | 184796 | [184796-the-island.json](./184796-the-island.json) |
@@ -13009,6 +13011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters: Maximum Impact Regulation A | 86164 | [86164-the-king-of-fighters-maximum-impact-regulation-a.json](./86164-the-king-of-fighters-maximum-impact-regulation-a.json) |
 | The King of Fighters: NESTS Collection | 63516 | [63516-the-king-of-fighters-nests-collection.json](./63516-the-king-of-fighters-nests-collection.json) |
 | The King of Fighters: Sky Stage | 79083 | [79083-the-king-of-fighters-sky-stage.json](./79083-the-king-of-fighters-sky-stage.json) |
+| The King of Fighters: Special Edition 2004 | 47592 | [47592-the-king-of-fighters-special-edition-2004.json](./47592-the-king-of-fighters-special-edition-2004.json) |
 | The King of Fighters: World | 26802 | [26802-the-king-of-fighters-world.json](./26802-the-king-of-fighters-world.json) |
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
 | The King of Go | 417352 | [417352-the-king-of-go.json](./417352-the-king-of-go.json) |
@@ -33882,6 +33885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Cutuma 3rd: Family Doctor | 173441 | [173441-treasure-of-cutuma-3rd-family-doctor.json](./173441-treasure-of-cutuma-3rd-family-doctor.json) |
 | Treasure of Nadia | 127644 | [127644-treasure-of-nadia.json](./127644-treasure-of-nadia.json) |
 | Treasure of Ocean | 399435 | [399435-treasure-of-ocean.json](./399435-treasure-of-ocean.json) |
+| Treasure of the Caribbean | 47591 | [47591-treasure-of-the-caribbean.json](./47591-treasure-of-the-caribbean.json) |
 | Treasure of the Caribbean Sea | 416184 | [416184-treasure-of-the-caribbean-sea.json](./416184-treasure-of-the-caribbean-sea.json) |
 | Treasure Of The Giantess | 271275 | [271275-treasure-of-the-giantess.json](./271275-treasure-of-the-giantess.json) |
 | Treasure Park | 53003 | [53003-treasure-park.json](./53003-treasure-park.json) |
