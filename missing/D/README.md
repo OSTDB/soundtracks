@@ -4575,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline Savior | 347016 | [347016-deadline-savior.json](./347016-deadline-savior.json) |
 | Deadlined. | 410485 | [410485-deadlined.json](./410485-deadlined.json) |
 | Deadliners | 46489 | [46489-deadliners.json](./46489-deadliners.json) |
+| Deadlings | 60700 | [60700-deadlings.json](./60700-deadlings.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
 | Deadlist | 387444 | [387444-deadlist.json](./387444-deadlist.json) |
 | Deadlivery Night | 375130 | [375130-deadlivery-night.json](./375130-deadlivery-night.json) |
@@ -9159,6 +9160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeviLevel: Try Again | 353559 | [353559-devilevel-try-again.json](./353559-devilevel-try-again.json) |
 | Devilgotchi | 229844 | [229844-devilgotchi.json](./229844-devilgotchi.json) |
 | Devilian | 11827 | [11827-devilian.json](./11827-devilian.json) |
+| Devilian Online | 60704 | [60704-devilian-online.json](./60704-devilian-online.json) |
 | Devilish | 21546 | [21546-devilish.json](./21546-devilish.json) |
 | Devilish Blind Date | 275965 | [275965-devilish-blind-date.json](./275965-devilish-blind-date.json) |
 | Devilish Candy House | 230324 | [230324-devilish-candy-house.json](./230324-devilish-candy-house.json) |
@@ -11967,6 +11969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid II: Pinball Frenzy | 49919 | [49919-disneys-the-little-mermaid-ii-pinball-frenzy.json](./49919-disneys-the-little-mermaid-ii-pinball-frenzy.json) |
 | Disney's The Little Mermaid II: Return to the Sea | 314908 | [314908-disneys-the-little-mermaid-ii-return-to-the-sea.json](./314908-disneys-the-little-mermaid-ii-return-to-the-sea.json) |
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
+| Disney's The Little Mermaid: Ariel's Undersea Adventure | 60692 | [60692-disneys-the-little-mermaid-ariels-undersea-adventure.json](./60692-disneys-the-little-mermaid-ariels-undersea-adventure.json) |
 | Disney's The Little Mermaid: Magic in Two Kingdoms | 49404 | [49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json](./49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json) |
 | Disney's Tigger Activity Center | 209031 | [209031-disneys-tigger-activity-center.json](./209031-disneys-tigger-activity-center.json) |
 | Disney's Tigger's Honey Hunt | 3613 | [3613-disneys-tiggers-honey-hunt.json](./3613-disneys-tiggers-honey-hunt.json) |
@@ -12633,6 +12636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA Farm | 137533 | [137533-dna-farm.json](./137533-dna-farm.json) |
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
 | DNA Subject: Lucy | 307053 | [307053-dna-subject-lucy.json](./307053-dna-subject-lucy.json) |
+| DNA Warrior | 60689 | [60689-dna-warrior.json](./60689-dna-warrior.json) |
 | DNA: Episode 1 | 280315 | [280315-dna-episode-1.json](./280315-dna-episode-1.json) |
 | DNA: Episode 2 | 292203 | [292203-dna-episode-2.json](./292203-dna-episode-2.json) |
 | DNA: Episode 3 | 289804 | [289804-dna-episode-3.json](./289804-dna-episode-3.json) |
@@ -13567,6 +13571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Blue | 3114 | [3114-dolphin-blue.json](./3114-dolphin-blue.json) |
 | Dolphin Defense | 33193 | [33193-dolphin-defense.json](./33193-dolphin-defense.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
+| Dolphin Island | 60699 | [60699-dolphin-island.json](./60699-dolphin-island.json) |
 | Dolphin Island 2 | 177345 | [177345-dolphin-island-2.json](./177345-dolphin-island-2.json) |
 | Dolphin Island: Underwater Adventures | 122510 | [122510-dolphin-island-underwater-adventures.json](./122510-dolphin-island-underwater-adventures.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
@@ -13923,6 +13928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Bit | 143158 | [143158-dont-get-bit.json](./143158-dont-get-bit.json) |
 | Don't Get Caught | 348027 | [348027-dont-get-caught.json](./348027-dont-get-caught.json) |
 | Don't Get Caught | 353153 | [353153-dont-get-caught.json](./353153-dont-get-caught.json) |
+| Don't Get Crucified | 61224 | [61224-dont-get-crucified.json](./61224-dont-get-crucified.json) |
 | Don't Get Distracted | 204326 | [204326-dont-get-distracted.json](./204326-dont-get-distracted.json) |
 | Don't Get Eaten! | 219751 | [219751-dont-get-eaten.json](./219751-dont-get-eaten.json) |
 | Don't Get Fired! | 242156 | [242156-dont-get-fired.json](./242156-dont-get-fired.json) |
