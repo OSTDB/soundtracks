@@ -2816,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
 | Raziel Dungeon Arena | 225689 | [225689-raziel-dungeon-arena.json](./225689-raziel-dungeon-arena.json) |
 | Razing Core | 417176 | [417176-razing-core.json](./417176-razing-core.json) |
+| Razing Storm | 13897 | [13897-razing-storm.json](./13897-razing-storm.json) |
 | Razion EX | 154695 | [154695-razion-ex.json](./154695-razion-ex.json) |
 | Razor Freestyle Scooter | 249123 | [249123-razor-freestyle-scooter.json](./249123-razor-freestyle-scooter.json) |
 | Razor Freestyle Scooter | 249124 | [249124-razor-freestyle-scooter.json](./249124-razor-freestyle-scooter.json) |
@@ -6122,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Rover | 73509 | [73509-rescue-rover.json](./73509-rescue-rover.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
+| Rescue Shot | 13900 | [13900-rescue-shot.json](./13900-rescue-shot.json) |
 | Rescue Simulator 2014 | 356128 | [356128-rescue-simulator-2014.json](./356128-rescue-simulator-2014.json) |
 | Rescue Squad | 24006 | [24006-rescue-squad.json](./24006-rescue-squad.json) |
 | Rescue Squad Omega | 185387 | [185387-rescue-squad-omega.json](./185387-rescue-squad-omega.json) |
