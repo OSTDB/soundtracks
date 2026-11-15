@@ -4585,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitsune Kitchen | 102376 | [102376-kitsune-kitchen.json](./102376-kitsune-kitchen.json) |
 | Kitsune no Tabiji | 126627 | [126627-kitsune-no-tabiji.json](./126627-kitsune-no-tabiji.json) |
 | Kitsune Quest | 181468 | [181468-kitsune-quest.json](./181468-kitsune-quest.json) |
+| Kitsune Tails | 142469 | [142469-kitsune-tails.json](./142469-kitsune-tails.json) |
 | Kitsune Zero | 213714 | [213714-kitsune-zero.json](./213714-kitsune-zero.json) |
 | Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
 | Kitsune's Paths | 331641 | [331641-kitsunes-paths.json](./331641-kitsunes-paths.json) |
