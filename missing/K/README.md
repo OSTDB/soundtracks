@@ -5804,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koma | 266883 | [266883-koma.json](./266883-koma.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
+| Komandiry Bezdorozhia | 420899 | [420899-komandiry-bezdorozhia.json](./420899-komandiry-bezdorozhia.json) |
 | Komando II | 72225 | [72225-komando-ii.json](./72225-komando-ii.json) |
 | Komatta Shain-chan Kaisha Aru Aru Yutori Satori Z na Illustration Quiz | 233936 | [233936-komatta-shain-chan-kaisha-aru-aru-yutori-satori-z-na-illustration-quiz.json](./233936-komatta-shain-chan-kaisha-aru-aru-yutori-satori-z-na-illustration-quiz.json) |
 | Komayama Kiri ha Zenbu Yari ni Iku | 404250 | [404250-komayama-kiri-ha-zenbu-yari-ni-iku.json](./404250-komayama-kiri-ha-zenbu-yari-ni-iku.json) |
@@ -7196,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoufu Shinbun | 77394 | [77394-kyoufu-shinbun.json](./77394-kyoufu-shinbun.json) |
 | Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File | 336005 | [336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json](./336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json) |
 | Kyoufu Yawa | 397907 | [397907-kyoufu-yawa.json](./397907-kyoufu-yawa.json) |
+| Kyoufu Yawa: Dai-ni-ya | 420906 | [420906-kyoufu-yawa-dai-ni-ya.json](./420906-kyoufu-yawa-dai-ni-ya.json) |
 | Kyoukai | 333311 | [333311-kyoukai.json](./333311-kyoukai.json) |
 | Kyoukai no Shirayuki | 12635 | [12635-kyoukai-no-shirayuki.json](./12635-kyoukai-no-shirayuki.json) |
 | Kyoukai Ryouiki | 263837 | [263837-kyoukai-ryouiki.json](./263837-kyoukai-ryouiki.json) |
