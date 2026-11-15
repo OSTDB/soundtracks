@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questi Quest | 393079 | [393079-questi-quest.json](./393079-questi-quest.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
 | Questing | 341819 | [341819-questing.json](./341819-questing.json) |
+| Questing: A Tick's Tale | 428147 | [428147-questing-a-ticks-tale.json](./428147-questing-a-ticks-tale.json) |
 | Question Cube | 56944 | [56944-question-cube.json](./56944-question-cube.json) |
 | Question Mark | 388254 | [388254-question-mark.json](./388254-question-mark.json) |
 | Question Mark 2 | 359166 | [359166-question-mark-2.json](./359166-question-mark-2.json) |
