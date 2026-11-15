@@ -27387,6 +27387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
 | Star Trek: The Next Generation - Trivia | 131258 | [131258-star-trek-the-next-generation-trivia.json](./131258-star-trek-the-next-generation-trivia.json) |
+| Star Trek: The Promethean Prophecy | 36593 | [36593-star-trek-the-promethean-prophecy.json](./36593-star-trek-the-promethean-prophecy.json) |
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
 | Star Trek: Timelines | 19327 | [19327-star-trek-timelines.json](./19327-star-trek-timelines.json) |
 | Star Trek: Timelines - Steam Fleet Commander Pack | 162713 | [162713-star-trek-timelines-steam-fleet-commander-pack.json](./162713-star-trek-timelines-steam-fleet-commander-pack.json) |
@@ -30888,6 +30889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Lands | 158320 | [158320-strange-lands.json](./158320-strange-lands.json) |
 | Strange Loop | 26433 | [26433-strange-loop.json](./26433-strange-loop.json) |
 | Strange Love: Vampire Boyfriends | 63676 | [63676-strange-love-vampire-boyfriends.json](./63676-strange-love-vampire-boyfriends.json) |
+| Strange Magic Escape | 36567 | [36567-strange-magic-escape.json](./36567-strange-magic-escape.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange Midnight | 164649 | [164649-strange-midnight.json](./164649-strange-midnight.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
@@ -32384,6 +32386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
 | Sub Hunt | 5707 | [5707-sub-hunt.json](./5707-sub-hunt.json) |
 | Sub Hunter | 180661 | [180661-sub-hunter.json](./180661-sub-hunter.json) |
+| Sub Mission | 36589 | [36589-sub-mission.json](./36589-sub-mission.json) |
 | Sub Ninja | 228186 | [228186-sub-ninja.json](./228186-sub-ninja.json) |
 | Sub Optimal Co. | 345047 | [345047-sub-optimal-co.json](./345047-sub-optimal-co.json) |
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
@@ -33714,6 +33717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Shot | 213492 | [213492-sun-shot.json](./213492-sun-shot.json) |
 | Sun Spear | 275523 | [275523-sun-spear.json](./275523-sun-spear.json) |
 | Sun Sport Fishing: Keiryuu-ou | 37889 | [37889-sun-sport-fishing-keiryuu-ou.json](./37889-sun-sport-fishing-keiryuu-ou.json) |
+| Sun Star | 36552 | [36552-sun-star.json](./36552-sun-star.json) |
 | Sun Stones | 256193 | [256193-sun-stones.json](./256193-sun-stones.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
 | Sun Warriors | 155949 | [155949-sun-warriors.json](./155949-sun-warriors.json) |
@@ -35009,6 +35013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super House of Dead Ninjas | 9906 | [9906-super-house-of-dead-ninjas.json](./9906-super-house-of-dead-ninjas.json) |
 | Super House of Dead Ninjas: True Ninja Pack | 263128 | [263128-super-house-of-dead-ninjas-true-ninja-pack.json](./263128-super-house-of-dead-ninjas-true-ninja-pack.json) |
 | Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
+| Super Huey II | 36581 | [36581-super-huey-ii.json](./36581-super-huey-ii.json) |
 | Super Huey III | 70256 | [70256-super-huey-iii.json](./70256-super-huey-iii.json) |
 | Super Huey UH-1X | 46917 | [46917-super-huey-uh-1x.json](./46917-super-huey-uh-1x.json) |
 | Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
