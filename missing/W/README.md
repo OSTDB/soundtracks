@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcana | 265477 | [265477-warcana.json](./265477-warcana.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
+| Warcania | 429374 | [429374-warcania.json](./429374-warcania.json) |
 | Warcat Parade | 293967 | [293967-warcat-parade.json](./293967-warcat-parade.json) |
 | Warchaic | 415175 | [415175-warchaic.json](./415175-warchaic.json) |
 | Warchasm | 126698 | [126698-warchasm.json](./126698-warchasm.json) |
