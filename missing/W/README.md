@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand Wars | 33992 | [33992-wand-wars.json](./33992-wand-wars.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wand Wars: Rise | 114471 | [114471-wand-wars-rise.json](./114471-wand-wars-rise.json) |
+| Wanda: A Beautiful Apocalypse | 24533 | [24533-wanda-a-beautiful-apocalypse.json](./24533-wanda-a-beautiful-apocalypse.json) |
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
 | Wander | 80032 | [80032-wander.json](./80032-wander.json) |
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
