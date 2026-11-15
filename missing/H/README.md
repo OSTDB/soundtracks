@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
 | Habroxia | 122654 | [122654-habroxia.json](./122654-habroxia.json) |
 | Habroxia 2 | 141326 | [141326-habroxia-2.json](./141326-habroxia-2.json) |
+| Habu Meijin no Omoshiro Shogi | 38013 | [38013-habu-meijin-no-omoshiro-shogi.json](./38013-habu-meijin-no-omoshiro-shogi.json) |
 | Habu Yoshiharu Shogi de Kitaeru: Ketsudanryoku DS | 124543 | [124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json](./124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json) |
 | Haccer | 223616 | [223616-haccer.json](./223616-haccer.json) |
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairy Legs | 91880 | [91880-hairy-legs.json](./91880-hairy-legs.json) |
 | Hairy Tales | 22172 | [22172-hairy-tales.json](./22172-hairy-tales.json) |
 | Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
+| Haisei Mahjong Ryouga | 38012 | [38012-haisei-mahjong-ryouga.json](./38012-haisei-mahjong-ryouga.json) |
 | Haishan | 250573 | [250573-haishan.json](./250573-haishan.json) |
 | Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
@@ -1395,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuda Trump Mahjong: Depachika Wayounaka | 49635 | [49635-hanafuda-trump-mahjong-depachika-wayounaka.json](./49635-hanafuda-trump-mahjong-depachika-wayounaka.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanafuda-kyou | 416272 | [416272-hanafuda-kyou.json](./416272-hanafuda-kyou.json) |
+| Hanafuda-ou | 38011 | [38011-hanafuda-ou.json](./38011-hanafuda-ou.json) |
 | Hanafuta no Tora | 358479 | [358479-hanafuta-no-tora.json](./358479-hanafuta-no-tora.json) |
 | Hanagane Kanade Gram: Chapter 1 - Kozakura Yui | 396457 | [396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json](./396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json) |
 | Hanagane Kanade Gram: Chapter 2 - Hananoka Sumire | 396459 | [396459-hanagane-kanade-gram-chapter-2-hananoka-sumire.json](./396459-hanagane-kanade-gram-chapter-2-hananoka-sumire.json) |
@@ -2815,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hataraku Shoujo: Tekipaki Working Love FX | 281928 | [281928-hataraku-shoujo-tekipaki-working-love-fx.json](./281928-hataraku-shoujo-tekipaki-working-love-fx.json) |
 | Hatastrophe | 359914 | [359914-hatastrophe.json](./359914-hatastrophe.json) |
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
+| Hatayama Hacchi no Pro Yakyuu News! Jitsumei-ban | 38010 | [38010-hatayama-hacchi-no-pro-yakyuu-news-jitsumei-ban.json](./38010-hatayama-hacchi-no-pro-yakyuu-news-jitsumei-ban.json) |
 | Hatch | 122383 | [122383-hatch.json](./122383-hatch.json) |
 | Hatch | 169258 | [169258-hatch.json](./169258-hatch.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
@@ -3346,7 +3350,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayato's Journey | 310652 | [310652-hayatos-journey.json](./310652-hayatos-journey.json) |
 | Hayatsubasa | 376872 | [376872-hayatsubasa.json](./376872-hayatsubasa.json) |
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
+| Hayazashi Nidan Morita Shogi | 38009 | [38009-hayazashi-nidan-morita-shogi.json](./38009-hayazashi-nidan-morita-shogi.json) |
 | Hayazashi Nidan Morita Shogi 2 | 350107 | [350107-hayazashi-nidan-morita-shogi-2.json](./350107-hayazashi-nidan-morita-shogi-2.json) |
+| Hayazashi Nidan Morita Shogi 2 | 38008 | [38008-hayazashi-nidan-morita-shogi-2.json](./38008-hayazashi-nidan-morita-shogi-2.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Hayden's Odyssey | 384286 | [384286-haydens-odyssey.json](./384286-haydens-odyssey.json) |
@@ -4228,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
 | Hebeloma | 374862 | [374862-hebeloma.json](./374862-hebeloma.json) |
 | Hebereke | 291621 | [291621-hebereke.json](./291621-hebereke.json) |
+| Hebereke no Oishii Puzzle ha Irimasen ka | 38007 | [38007-hebereke-no-oishii-puzzle-ha-irimasen-ka.json](./38007-hebereke-no-oishii-puzzle-ha-irimasen-ka.json) |
 | Hebereke no Pair Pair Wars | 288020 | [288020-hebereke-no-pair-pair-wars.json](./288020-hebereke-no-pair-pair-wars.json) |
 | Hebereke: Enjoy Edition | 291350 | [291350-hebereke-enjoy-edition.json](./291350-hebereke-enjoy-edition.json) |
 | Hebereke: Rescue O-Chan | 275285 | [275285-hebereke-rescue-o-chan.json](./275285-hebereke-rescue-o-chan.json) |
@@ -4350,10 +4357,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
 | Heisa Byouin | 112555 | [112555-heisa-byouin.json](./112555-heisa-byouin.json) |
 | Heise Biji | 330272 | [330272-heise-biji.json](./330272-heise-biji.json) |
+| Heisei Gunjin Shogi | 38006 | [38006-heisei-gunjin-shogi.json](./38006-heisei-gunjin-shogi.json) |
 | Heisei Inu Monogatari Bow: Pop'n Smash | 38123 | [38123-heisei-inu-monogatari-bow-popn-smash.json](./38123-heisei-inu-monogatari-bow-popn-smash.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Heisei Pistol Show | 176864 | [176864-heisei-pistol-show.json](./176864-heisei-pistol-show.json) |
 | Heisei Shin Onigashima | 170336 | [170336-heisei-shin-onigashima.json](./170336-heisei-shin-onigashima.json) |
+| Heisei Shin Onigashima: Kouhen | 38005 | [38005-heisei-shin-onigashima-kouhen.json](./38005-heisei-shin-onigashima-kouhen.json) |
+| Heisei Shin Onigashima: Zenpen | 38004 | [38004-heisei-shin-onigashima-zenpen.json](./38004-heisei-shin-onigashima-zenpen.json) |
 | Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon | 48467 | [48467-heisei-tensai-bakabon.json](./48467-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
@@ -4390,7 +4400,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiwa Pachinko Graffiti Vol. 1 | 97659 | [97659-heiwa-pachinko-graffiti-vol-1.json](./97659-heiwa-pachinko-graffiti-vol-1.json) |
 | Heiwa Pachinko Graffiti Vol. 2 | 97662 | [97662-heiwa-pachinko-graffiti-vol-2.json](./97662-heiwa-pachinko-graffiti-vol-2.json) |
 | Heiwa Pachinko Soushingeki | 97660 | [97660-heiwa-pachinko-soushingeki.json](./97660-heiwa-pachinko-soushingeki.json) |
+| Heiwa Pachinko World | 38003 | [38003-heiwa-pachinko-world.json](./38003-heiwa-pachinko-world.json) |
+| Heiwa Pachinko World 2 | 38002 | [38002-heiwa-pachinko-world-2.json](./38002-heiwa-pachinko-world-2.json) |
+| Heiwa Pachinko World 3 | 38001 | [38001-heiwa-pachinko-world-3.json](./38001-heiwa-pachinko-world-3.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
+| Heiwa Parlor! Mini 8 | 38000 | [38000-heiwa-parlor-mini-8.json](./38000-heiwa-parlor-mini-8.json) |
 | Heiwa Parlor! Mini 8: Pachinko Jikki Simulation Game | 66865 | [66865-heiwa-parlor-mini-8-pachinko-jikki-simulation-game.json](./66865-heiwa-parlor-mini-8-pachinko-jikki-simulation-game.json) |
 | Heiwa Parlor! Pro: BunDori King Special | 97658 | [97658-heiwa-parlor-pro-bundori-king-special.json](./97658-heiwa-parlor-pro-bundori-king-special.json) |
 | Heiwa Parlor! Pro: Dolphin Ring Special | 97657 | [97657-heiwa-parlor-pro-dolphin-ring-special.json](./97657-heiwa-parlor-pro-dolphin-ring-special.json) |
@@ -6665,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Saga | 298517 | [298517-hero-saga.json](./298517-hero-saga.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
 | Hero Seekers | 378763 | [378763-hero-seekers.json](./378763-hero-seekers.json) |
+| Hero Senki: Project Olympus | 37999 | [37999-hero-senki-project-olympus.json](./37999-hero-senki-project-olympus.json) |
 | Hero Shuugou!! Pinball Party | 228639 | [228639-hero-shuugou-pinball-party.json](./228639-hero-shuugou-pinball-party.json) |
 | Hero Siege | 11708 | [11708-hero-siege.json](./11708-hero-siege.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
@@ -8466,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higanbana no Saku Yoru ni: The First Night | 65719 | [65719-higanbana-no-saku-yoru-ni-the-first-night.json](./65719-higanbana-no-saku-yoru-ni-the-first-night.json) |
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
+| Higashio Osamu Kanshuu Super Pro Yakyuu Stadium | 37998 | [37998-higashio-osamu-kanshuu-super-pro-yakyuu-stadium.json](./37998-higashio-osamu-kanshuu-super-pro-yakyuu-stadium.json) |
 | Higashio Osamu Kanshuu: Pro Yakyuu Stadium '91 | 308105 | [308105-higashio-osamu-kanshuu-pro-yakyuu-stadium-91.json](./308105-higashio-osamu-kanshuu-pro-yakyuu-stadium-91.json) |
 | Higatana | 311386 | [311386-higatana.json](./311386-higatana.json) |
 | Higemaru Makaijima: Nanatsu no Shima Daibouken | 48473 | [48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json](./48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json) |
@@ -9255,6 +9271,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachi-Slot Station 5: Invaders 2000 | 274861 | [274861-hissatsu-pachi-slot-station-5-invaders-2000.json](./274861-hissatsu-pachi-slot-station-5-invaders-2000.json) |
 | Hissatsu Pachinko Boy CR Monster House | 281567 | [281567-hissatsu-pachinko-boy-cr-monster-house.json](./281567-hissatsu-pachinko-boy-cr-monster-house.json) |
 | Hissatsu Pachinko Collection | 176119 | [176119-hissatsu-pachinko-collection.json](./176119-hissatsu-pachinko-collection.json) |
+| Hissatsu Pachinko Collection | 37997 | [37997-hissatsu-pachinko-collection.json](./37997-hissatsu-pachinko-collection.json) |
+| Hissatsu Pachinko Collection 2 | 37996 | [37996-hissatsu-pachinko-collection-2.json](./37996-hissatsu-pachinko-collection-2.json) |
+| Hissatsu Pachinko Collection 3 | 37995 | [37995-hissatsu-pachinko-collection-3.json](./37995-hissatsu-pachinko-collection-3.json) |
+| Hissatsu Pachinko Collection 4 | 37994 | [37994-hissatsu-pachinko-collection-4.json](./37994-hissatsu-pachinko-collection-4.json) |
 | Hissatsu Pachinko Evolution 2: Osomatsu-kun | 58323 | [58323-hissatsu-pachinko-evolution-2-osomatsu-kun.json](./58323-hissatsu-pachinko-evolution-2-osomatsu-kun.json) |
 | Hissatsu Pachinko Station | 58321 | [58321-hissatsu-pachinko-station.json](./58321-hissatsu-pachinko-station.json) |
 | Hissatsu Pachinko Station 2 | 58320 | [58320-hissatsu-pachinko-station-2.json](./58320-hissatsu-pachinko-station-2.json) |
@@ -9270,6 +9290,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Shigoto Nin | 48758 | [48758-hissatsu-shigoto-nin.json](./48758-hissatsu-shigoto-nin.json) |
 | Hissatsu Ura-Kagyou | 332643 | [332643-hissatsu-ura-kagyou.json](./332643-hissatsu-ura-kagyou.json) |
 | Hissatsu! | 269158 | [269158-hissatsu.json](./269158-hissatsu.json) |
+| Hisshou 777 Fighter | 37993 | [37993-hisshou-777-fighter.json](./37993-hisshou-777-fighter.json) |
+| Hisshou 777 Fighter 2: Pachi-Slot Hi Jouhou | 37992 | [37992-hisshou-777-fighter-2-pachi-slot-hi-jouhou.json](./37992-hisshou-777-fighter-2-pachi-slot-hi-jouhou.json) |
+| Hisshou 777 Fighter III: Kokuryuu-ou no Fukkatsu | 37991 | [37991-hisshou-777-fighter-iii-kokuryuu-ou-no-fukkatsu.json](./37991-hisshou-777-fighter-iii-kokuryuu-ou-no-fukkatsu.json) |
 | Hisshou 777 Fighter III: Kuroryuuou no Fukkatsu | 58414 | [58414-hisshou-777-fighter-iii-kuroryuuou-no-fukkatsu.json](./58414-hisshou-777-fighter-iii-kuroryuuou-no-fukkatsu.json) |
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 2: Bomber Powerful & Yume Yume World DX | 78763 | [78763-hisshou-pachinko-pachi-slot-kouryoku-series-vol-2-bomber-powerful-and-yume-yume-world-dx.json](./78763-hisshou-pachinko-pachi-slot-kouryoku-series-vol-2-bomber-powerful-and-yume-yume-world-dx.json) |
@@ -10826,11 +10849,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
 | Honkaku Hanafuda GB | 281568 | [281568-honkaku-hanafuda-gb.json](./281568-honkaku-hanafuda-gb.json) |
+| Honkaku Mahjong: Tetsuman | 37990 | [37990-honkaku-mahjong-tetsuman.json](./37990-honkaku-mahjong-tetsuman.json) |
+| Honkaku Mahjong: Tetsuman II | 37989 | [37989-honkaku-mahjong-tetsuman-ii.json](./37989-honkaku-mahjong-tetsuman-ii.json) |
 | Honkaku Pro Mahjong: Tetsuman Special | 82271 | [82271-honkaku-pro-mahjong-tetsuman-special.json](./82271-honkaku-pro-mahjong-tetsuman-special.json) |
+| Honkaku Shogi: Fuuunji Ryuou | 37988 | [37988-honkaku-shogi-fuuunji-ryuou.json](./37988-honkaku-shogi-fuuunji-ryuou.json) |
 | Honkaku Shogi: Shogi-ou | 228561 | [228561-honkaku-shogi-shogi-ou.json](./228561-honkaku-shogi-shogi-ou.json) |
 | Honkaku Taisen Shogi Ayumu | 97856 | [97856-honkaku-taisen-shogi-ayumu.json](./97856-honkaku-taisen-shogi-ayumu.json) |
 | Honkaku Yon-nin Uchi Mahjong: Mahjong Oh | 228562 | [228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json](./228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json) |
+| Honkakuha Igo: Gosei | 37987 | [37987-honkakuha-igo-gosei.json](./37987-honkakuha-igo-gosei.json) |
 | Honkakuha Taikyoku Shogi: Shogi Club | 44433 | [44433-honkakuha-taikyoku-shogi-shogi-club.json](./44433-honkakuha-taikyoku-shogi-shogi-club.json) |
+| Honke Hanafuda | 37986 | [37986-honke-hanafuda.json](./37986-honke-hanafuda.json) |
+| Honke Sankyo Fever: Jikki Simulation | 37985 | [37985-honke-sankyo-fever-jikki-simulation.json](./37985-honke-sankyo-fever-jikki-simulation.json) |
+| Honke Sankyo Fever: Jikki Simulation 2 | 37984 | [37984-honke-sankyo-fever-jikki-simulation-2.json](./37984-honke-sankyo-fever-jikki-simulation-2.json) |
+| Honke Sankyo Fever: Jikki Simulation 3 | 37983 | [37983-honke-sankyo-fever-jikki-simulation-3.json](./37983-honke-sankyo-fever-jikki-simulation-3.json) |
 | Honked: A Clown Noir | 271018 | [271018-honked-a-clown-noir.json](./271018-honked-a-clown-noir.json) |
 | Honker | 291476 | [291476-honker.json](./291476-honker.json) |
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
@@ -12282,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houkago Cinderella: Complete Limited Edition | 182479 | [182479-houkago-cinderella-complete-limited-edition.json](./182479-houkago-cinderella-complete-limited-edition.json) |
 | Houkago Fight Club | 299633 | [299633-houkago-fight-club.json](./299633-houkago-fight-club.json) |
 | Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
+| Houkago in Beppin Jogakuin | 37982 | [37982-houkago-in-beppin-jogakuin.json](./37982-houkago-in-beppin-jogakuin.json) |
 | Houkago no Futekikakusha | 375768 | [375768-houkago-no-futekikakusha.json](./375768-houkago-no-futekikakusha.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
 | Houkago Shounen | 109060 | [109060-houkago-shounen.json](./109060-houkago-shounen.json) |
