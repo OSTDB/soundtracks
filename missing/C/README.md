@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Games II | 263904 | [263904-california-games-ii.json](./263904-california-games-ii.json) |
 | California Games II | 263906 | [263906-california-games-ii.json](./263906-california-games-ii.json) |
 | California Gold Rush | 23271 | [23271-california-gold-rush.json](./23271-california-gold-rush.json) |
+| California Pro Golf | 50197 | [50197-california-pro-golf.json](./50197-california-pro-golf.json) |
 | California Run | 424262 | [424262-california-run.json](./424262-california-run.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
 | California Super Sports | 85021 | [85021-california-super-sports.json](./85021-california-super-sports.json) |
@@ -3481,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Kings | 269409 | [269409-cart-kings.json](./269409-cart-kings.json) |
 | Cart Legends | 258329 | [258329-cart-legends.json](./258329-cart-legends.json) |
 | Cart Life | 252496 | [252496-cart-life.json](./252496-cart-life.json) |
+| Cart Life | 50179 | [50179-cart-life.json](./50179-cart-life.json) |
 | Cart Panic! OS: E-Commerce Tycoon | 402494 | [402494-cart-panic-os-e-commerce-tycoon.json](./402494-cart-panic-os-e-commerce-tycoon.json) |
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
 | Cart Racing | 93163 | [93163-cart-racing.json](./93163-cart-racing.json) |
@@ -18679,6 +18681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
 | Crazy Chicken Kart 2 | 187627 | [187627-crazy-chicken-kart-2.json](./187627-crazy-chicken-kart-2.json) |
 | Crazy Chicken Kart 2 | 69099 | [69099-crazy-chicken-kart-2.json](./69099-crazy-chicken-kart-2.json) |
+| Crazy Chicken Kart 3 | 50076 | [50076-crazy-chicken-kart-3.json](./50076-crazy-chicken-kart-3.json) |
 | Crazy Chicken Kart Extra | 92853 | [92853-crazy-chicken-kart-extra.json](./92853-crazy-chicken-kart-extra.json) |
 | Crazy Chicken Kart Thunder | 69122 | [69122-crazy-chicken-kart-thunder.json](./69122-crazy-chicken-kart-thunder.json) |
 | Crazy Chicken Mah-Jongg | 144590 | [144590-crazy-chicken-mah-jongg.json](./144590-crazy-chicken-mah-jongg.json) |
