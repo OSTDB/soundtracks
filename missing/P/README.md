@@ -16950,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Wrestling | 18143 | [18143-pro-wrestling.json](./18143-pro-wrestling.json) |
 | Pro Wrestling | 9512 | [9512-pro-wrestling.json](./9512-pro-wrestling.json) |
 | Pro Wrestling Kentei DS | 66990 | [66990-pro-wrestling-kentei-ds.json](./66990-pro-wrestling-kentei-ds.json) |
+| Pro Wrestling Sengokuden 2 | 44816 | [44816-pro-wrestling-sengokuden-2.json](./44816-pro-wrestling-sengokuden-2.json) |
 | Pro Wrestling Sengokuden: Hyper Tag Match | 45107 | [45107-pro-wrestling-sengokuden-hyper-tag-match.json](./45107-pro-wrestling-sengokuden-hyper-tag-match.json) |
 | Pro Wrestling Sim | 151459 | [151459-pro-wrestling-sim.json](./151459-pro-wrestling-sim.json) |
 | Pro Wrestling Tycoon | 413165 | [413165-pro-wrestling-tycoon.json](./413165-pro-wrestling-tycoon.json) |
@@ -20157,6 +20158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
 | Puyo Puyo~n | 3579 | [3579-puyo-puyo-n.json](./3579-puyo-puyo-n.json) |
+| Puyo Puyo~n - Car-kun to Issho | 44803 | [44803-puyo-puyo-n-car-kun-to-issho.json](./44803-puyo-puyo-n-car-kun-to-issho.json) |
 | Puyo! Push Brain | 367926 | [367926-puyo-push-brain.json](./367926-puyo-push-brain.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puyolin | 198873 | [198873-puyolin.json](./198873-puyolin.json) |
