@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of Tiger 2: Blood, Money and Tears | 64350 | [64350-rage-of-tiger-2-blood-money-and-tears.json](./64350-rage-of-tiger-2-blood-money-and-tears.json) |
 | Rage of Towers | 264184 | [264184-rage-of-towers.json](./264184-rage-of-towers.json) |
 | Rage Parking Simulator 2016 | 26955 | [26955-rage-parking-simulator-2016.json](./26955-rage-parking-simulator-2016.json) |
+| Rage Parking Simulator 2017 | 37430 | [37430-rage-parking-simulator-2017.json](./37430-rage-parking-simulator-2017.json) |
 | Rage Pig | 32745 | [32745-rage-pig.json](./32745-rage-pig.json) |
 | Rage Punk | 210545 | [210545-rage-punk.json](./210545-rage-punk.json) |
 | Rage Quest | 75052 | [75052-rage-quest.json](./75052-rage-quest.json) |
@@ -10159,6 +10160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Wars: Metal Mayhem | 50022 | [50022-robot-wars-metal-mayhem.json](./50022-robot-wars-metal-mayhem.json) |
 | Robot Warzone Tactical Assault | 361364 | [361364-robot-warzone-tactical-assault.json](./361364-robot-warzone-tactical-assault.json) |
 | Robot with a Ram Cannon | 357277 | [357277-robot-with-a-ram-cannon.json](./357277-robot-with-a-ram-cannon.json) |
+| Robot Works | 37458 | [37458-robot-works.json](./37458-robot-works.json) |
 | Robot Zombies | 180595 | [180595-robot-zombies.json](./180595-robot-zombies.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robot's Mystery | 76048 | [76048-robots-mystery.json](./76048-robots-mystery.json) |
