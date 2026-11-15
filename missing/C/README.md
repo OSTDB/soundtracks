@@ -9046,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Yakkyou Miracle Nine | 45541 | [45541-chou-yakkyou-miracle-nine.json](./45541-chou-yakkyou-miracle-nine.json) |
 | Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou | 37700 | [37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json](./37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json) |
 | Chou-Kousoku GranDoll | 68898 | [68898-chou-kousoku-grandoll.json](./68898-chou-kousoku-grandoll.json) |
+| Chou-Mahou Tairiku Wozz | 16296 | [16296-chou-mahou-tairiku-wozz.json](./16296-chou-mahou-tairiku-wozz.json) |
 | Chouchou Jiken Rhapsodic | 136524 | [136524-chouchou-jiken-rhapsodic.json](./136524-chouchou-jiken-rhapsodic.json) |
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
 | Chouji Meikyuu Legion | 302247 | [302247-chouji-meikyuu-legion.json](./302247-chouji-meikyuu-legion.json) |
@@ -12559,6 +12560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut Dodge | 52157 | [52157-coconut-dodge.json](./52157-coconut-dodge.json) |
 | Coconut Dodge Revitalised | 52156 | [52156-coconut-dodge-revitalised.json](./52156-coconut-dodge-revitalised.json) |
 | Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
+| Coconut Queen | 16085 | [16085-coconut-queen.json](./16085-coconut-queen.json) |
 | Coconut Simulator | 326453 | [326453-coconut-simulator.json](./326453-coconut-simulator.json) |
 | Coconut Simulator 2 | 374019 | [374019-coconut-simulator-2.json](./374019-coconut-simulator-2.json) |
 | Coconuts | 40622 | [40622-coconuts.json](./40622-coconuts.json) |
@@ -18079,6 +18081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Links VR | 109527 | [109527-cradle-of-links-vr.json](./109527-cradle-of-links-vr.json) |
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
+| Cradle of Persia | 16095 | [16095-cradle-of-persia.json](./16095-cradle-of-persia.json) |
 | Cradle of Persia | 88794 | [88794-cradle-of-persia.json](./88794-cradle-of-persia.json) |
 | Cradle of Rome 2 | 52318 | [52318-cradle-of-rome-2.json](./52318-cradle-of-rome-2.json) |
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
@@ -18500,6 +18503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
 | Crashed Bandicoot | 184342 | [184342-crashed-bandicoot.json](./184342-crashed-bandicoot.json) |
 | Crashed Lander | 19026 | [19026-crashed-lander.json](./19026-crashed-lander.json) |
+| Crasher | 16327 | [16327-crasher.json](./16327-crasher.json) |
 | Crashers of Aetheria | 149332 | [149332-crashers-of-aetheria.json](./149332-crashers-of-aetheria.json) |
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashimals | 268931 | [268931-crashimals.json](./268931-crashimals.json) |
@@ -21018,6 +21022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Ball | 93442 | [93442-crystal-ball.json](./93442-crystal-ball.json) |
 | Crystal Ball Critters | 265445 | [265445-crystal-ball-critters.json](./265445-crystal-ball-critters.json) |
 | Crystal Ball of Firmament | 335189 | [335189-crystal-ball-of-firmament.json](./335189-crystal-ball-of-firmament.json) |
+| Crystal Beans: From Dungeon Explorer | 16297 | [16297-crystal-beans-from-dungeon-explorer.json](./16297-crystal-beans-from-dungeon-explorer.json) |
 | Crystal Blast VR | 243581 | [243581-crystal-blast-vr.json](./243581-crystal-blast-vr.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Breaker Inc. | 419156 | [419156-crystal-breaker-inc.json](./419156-crystal-breaker-inc.json) |
