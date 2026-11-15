@@ -19619,6 +19619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortar Master | 318249 | [318249-mortar-master.json](./318249-mortar-master.json) |
 | Mortar Melon | 84594 | [84594-mortar-melon.json](./84594-mortar-melon.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
+| Mortarot | 421026 | [421026-mortarot.json](./421026-mortarot.json) |
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
 | Morte | 169659 | [169659-morte.json](./169659-morte.json) |
 | Mortem | 29645 | [29645-mortem.json](./29645-mortem.json) |
@@ -19806,6 +19807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mote: The Manuscript | 399293 | [399293-mote-the-manuscript.json](./399293-mote-the-manuscript.json) |
 | Mote: The Old Office | 393179 | [393179-mote-the-old-office.json](./393179-mote-the-old-office.json) |
 | Moteasobaretai | 91566 | [91566-moteasobaretai.json](./91566-moteasobaretai.json) |
+| Motel 51: Papers, Keys & Aliens | 421009 | [421009-motel-51-papers-keys-and-aliens.json](./421009-motel-51-papers-keys-and-aliens.json) |
 | Motel 666 | 186165 | [186165-motel-666.json](./186165-motel-666.json) |
 | Motel Bondage | 385313 | [385313-motel-bondage.json](./385313-motel-bondage.json) |
 | Motel Business Simulator | 367733 | [367733-motel-business-simulator.json](./367733-motel-business-simulator.json) |
