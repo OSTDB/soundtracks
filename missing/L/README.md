@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
 | Land of Zympaia: The New Light | 191047 | [191047-land-of-zympaia-the-new-light.json](./191047-land-of-zympaia-the-new-light.json) |
 | Land Sea Air Squad | 40085 | [40085-land-sea-air-squad.json](./40085-land-sea-air-squad.json) |
+| Land Sliders | 56094 | [56094-land-sliders.json](./56094-land-sliders.json) |
 | Land Snake.io | 87033 | [87033-land-snake-io.json](./87033-land-snake-io.json) |
 | Land War | 115639 | [115639-land-war.json](./115639-land-war.json) |
 | Land-a Panda | 174620 | [174620-land-a-panda.json](./174620-land-a-panda.json) |
@@ -9464,6 +9465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotte | 245815 | [245815-lotte.json](./245815-lotte.json) |
 | Lotte’s Forest: The Tale of Love | 274403 | [274403-lotte-s-forest-the-tale-of-love.json](./274403-lotte-s-forest-the-tale-of-love.json) |
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
+| Lottery Simulator | 56056 | [56056-lottery-simulator.json](./56056-lottery-simulator.json) |
 | Lottery vs. Aliens | 350113 | [350113-lottery-vs-aliens.json](./350113-lottery-vs-aliens.json) |
 | Lottery Winner | 278932 | [278932-lottery-winner.json](./278932-lottery-winner.json) |
 | Lottery World | 341181 | [341181-lottery-world.json](./341181-lottery-world.json) |
@@ -10360,6 +10362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
 | Lucky Birds City | 254889 | [254889-lucky-birds-city.json](./254889-lucky-birds-city.json) |
 | Lucky Block | 414214 | [414214-lucky-block.json](./414214-lucky-block.json) |
+| Lucky Boom | 56082 | [56082-lucky-boom.json](./56082-lucky-boom.json) |
 | Lucky Boy | 193980 | [193980-lucky-boy.json](./193980-lucky-boy.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
 | Lucky Burst | 148823 | [148823-lucky-burst.json](./148823-lucky-burst.json) |
@@ -10773,6 +10776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminaria: Forgotten Echoes | 263297 | [263297-luminaria-forgotten-echoes.json](./263297-luminaria-forgotten-echoes.json) |
 | LuminaRun | 337323 | [337323-luminarun.json](./337323-luminarun.json) |
 | Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
+| Luminary: Rise of the GoonZu | 56065 | [56065-luminary-rise-of-the-goonzu.json](./56065-luminary-rise-of-the-goonzu.json) |
 | Luminas: Parasite Reign | 377204 | [377204-luminas-parasite-reign.json](./377204-luminas-parasite-reign.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
 | Luminator DS | 124476 | [124476-luminator-ds.json](./124476-luminator-ds.json) |
