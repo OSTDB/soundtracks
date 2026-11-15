@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Supercard | 142270 | [142270-nba-supercard.json](./142270-nba-supercard.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NBA The Run | 375887 | [375887-nba-the-run.json](./375887-nba-the-run.json) |
+| NBA The Run: Deluxe Edition | 422006 | [422006-nba-the-run-deluxe-edition.json](./422006-nba-the-run-deluxe-edition.json) |
 | NBA Unrivaled | 47428 | [47428-nba-unrivaled.json](./47428-nba-unrivaled.json) |
 | NBA YoungBoy - Outside Today Piano Tiles | 102831 | [102831-nba-youngboy-outside-today-piano-tiles.json](./102831-nba-youngboy-outside-today-piano-tiles.json) |
 | NBA: King of the Court | 65509 | [65509-nba-king-of-the-court.json](./65509-nba-king-of-the-court.json) |
@@ -5309,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightsoil | 391672 | [391672-nightsoil.json](./391672-nightsoil.json) |
 | Nightsong | 257202 | [257202-nightsong.json](./257202-nightsong.json) |
 | NightSong | 303935 | [303935-nightsong.json](./303935-nightsong.json) |
+| Nightstalkers | 422077 | [422077-nightstalkers.json](./422077-nightstalkers.json) |
 | NightStar | 126130 | [126130-nightstar.json](./126130-nightstar.json) |
 | Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Rogue Wings | 29419 | [29419-nightstar-rogue-wings.json](./29419-nightstar-rogue-wings.json) |
