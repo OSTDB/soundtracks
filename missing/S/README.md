@@ -8823,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepo | 132631 | [132631-sheepo.json](./132631-sheepo.json) |
 | Sheepong | 268841 | [268841-sheepong.json](./268841-sheepong.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
+| Sheeps | 421988 | [421988-sheeps.json](./421988-sheeps.json) |
 | Sheepwith | 114726 | [114726-sheepwith.json](./114726-sheepwith.json) |
 | Sheepy | 300738 | [300738-sheepy.json](./300738-sheepy.json) |
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
@@ -18228,6 +18229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | Sokocrab | 326867 | [326867-sokocrab.json](./326867-sokocrab.json) |
 | Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
+| Sokodice Go | 421994 | [421994-sokodice-go.json](./421994-sokodice-go.json) |
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | Sokofox | 378743 | [378743-sokofox.json](./378743-sokofox.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
@@ -33286,6 +33288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
 | Sugar Sling Showdown | 341685 | [341685-sugar-sling-showdown.json](./341685-sugar-sling-showdown.json) |
 | Sugar Smash: Book of Life | 138447 | [138447-sugar-smash-book-of-life.json](./138447-sugar-smash-book-of-life.json) |
+| Sugar Squad Rumble | 422080 | [422080-sugar-squad-rumble.json](./422080-sugar-squad-rumble.json) |
 | Sugar Story | 190091 | [190091-sugar-story.json](./190091-sugar-story.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
 | Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
@@ -35039,6 +35042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Full Metal | 214979 | [214979-super-full-metal.json](./214979-super-full-metal.json) |
 | Super Fun Maths Science Quiz | 241771 | [241771-super-fun-maths-science-quiz.json](./241771-super-fun-maths-science-quiz.json) |
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
+| Super Fun: Football | 422095 | [422095-super-fun-football.json](./422095-super-fun-football.json) |
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
 | Super Funky Bowling | 220882 | [220882-super-funky-bowling.json](./220882-super-funky-bowling.json) |
 | Super Furball | 35417 | [35417-super-furball.json](./35417-super-furball.json) |
