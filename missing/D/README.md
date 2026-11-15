@@ -5173,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of a Wish | 203297 | [203297-death-of-a-wish.json](./203297-death-of-a-wish.json) |
 | Death of desert | 115601 | [115601-death-of-desert.json](./115601-death-of-desert.json) |
 | Death of Eternity | 260212 | [260212-death-of-eternity.json](./260212-death-of-eternity.json) |
+| Death of Kairos | 422726 | [422726-death-of-kairos.json](./422726-death-of-kairos.json) |
 | Death of Marionette | 274342 | [274342-death-of-marionette.json](./274342-death-of-marionette.json) |
 | Death of Rose | 129319 | [129319-death-of-rose.json](./129319-death-of-rose.json) |
 | Death of the Artificer | 299727 | [299727-death-of-the-artificer.json](./299727-death-of-the-artificer.json) |
@@ -9496,6 +9497,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialed In | 82854 | [82854-dialed-in.json](./82854-dialed-in.json) |
 | Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
 | Dialogue | 220766 | [220766-dialogue.json](./220766-dialogue.json) |
+| Dialogue 1. | 422740 | [422740-dialogue-1.json](./422740-dialogue-1.json) |
+| Dialogue 2. | 422741 | [422741-dialogue-2.json](./422741-dialogue-2.json) |
+| Dialogue 3. | 422742 | [422742-dialogue-3.json](./422742-dialogue-3.json) |
+| Dialogue 4. | 422743 | [422743-dialogue-4.json](./422743-dialogue-4.json) |
+| Dialogue 5. | 422745 | [422745-dialogue-5.json](./422745-dialogue-5.json) |
 | Dialogue Box: The Road Less Traveled | 171330 | [171330-dialogue-box-the-road-less-traveled.json](./171330-dialogue-box-the-road-less-traveled.json) |
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
@@ -12130,6 +12136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispatch: HR Violations Pack | 417758 | [417758-dispatch-hr-violations-pack.json](./417758-dispatch-hr-violations-pack.json) |
 | Dispatched | 415504 | [415504-dispatched.json](./415504-dispatched.json) |
 | Dispatcher | 11348 | [11348-dispatcher.json](./11348-dispatcher.json) |
+| Dispatches 1940 | 422756 | [422756-dispatches-1940.json](./422756-dispatches-1940.json) |
 | Dispel | 272251 | [272251-dispel.json](./272251-dispel.json) |
 | Dispel | 63981 | [63981-dispel.json](./63981-dispel.json) |
 | Dispersal Vectors | 364364 | [364364-dispersal-vectors.json](./364364-dispersal-vectors.json) |
@@ -19058,6 +19065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Racer: Canyons | 55326 | [55326-drone-racer-canyons.json](./55326-drone-racer-canyons.json) |
 | Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
 | Drone Racing Genesis | 307865 | [307865-drone-racing-genesis.json](./307865-drone-racing-genesis.json) |
+| Drone Scout | 422771 | [422771-drone-scout.json](./422771-drone-scout.json) |
 | Drone Sector | 329148 | [329148-drone-sector.json](./329148-drone-sector.json) |
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
