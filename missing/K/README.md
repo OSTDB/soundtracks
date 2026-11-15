@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenka Bancho 2: Full Throttle | 66512 | [66512-kenka-bancho-2-full-throttle.json](./66512-kenka-bancho-2-full-throttle.json) |
 | Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
 | Kenka Bancho 5: Otoko no Hosoku | 63625 | [63625-kenka-bancho-5-otoko-no-hosoku.json](./63625-kenka-bancho-5-otoko-no-hosoku.json) |
+| Kenka Bancho 6: Soul & Blood | 60691 | [60691-kenka-bancho-6-soul-and-blood.json](./60691-kenka-bancho-6-soul-and-blood.json) |
 | Kenka Bancho Bros.: Tokyo Battle Royale | 64878 | [64878-kenka-bancho-bros-tokyo-battle-royale.json](./64878-kenka-bancho-bros-tokyo-battle-royale.json) |
 | Kenka Bancho Otome Double Pack | 400616 | [400616-kenka-bancho-otome-double-pack.json](./400616-kenka-bancho-otome-double-pack.json) |
 | Kenka Bancho: Badass Rumble | 21891 | [21891-kenka-bancho-badass-rumble.json](./21891-kenka-bancho-badass-rumble.json) |
@@ -5679,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokojokoa | 294398 | [294398-kokojokoa.json](./294398-kokojokoa.json) |
 | Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
+| Kokonoe Kokoro | 61223 | [61223-kokonoe-kokoro.json](./61223-kokonoe-kokoro.json) |
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
 | Kokopa's Atlas | 152182 | [152182-kokopas-atlas.json](./152182-kokopas-atlas.json) |
 | Kokoro Appliqué | 407284 | [407284-kokoro-applique.json](./407284-kokoro-applique.json) |
@@ -6907,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurogane Hiroshi no Yosou Daisuki! Kachiuma Densetsu | 48794 | [48794-kurogane-hiroshi-no-yosou-daisuki-kachiuma-densetsu.json](./48794-kurogane-hiroshi-no-yosou-daisuki-kachiuma-densetsu.json) |
 | Kurogane Kaikijong | 336113 | [336113-kurogane-kaikijong.json](./336113-kurogane-kaikijong.json) |
 | Kurogane Kaikitan: Ichigoichie | 194739 | [194739-kurogane-kaikitan-ichigoichie.json](./194739-kurogane-kaikitan-ichigoichie.json) |
+| Kurogane Kaikitan: Senya Ichiya | 61237 | [61237-kurogane-kaikitan-senya-ichiya.json](./61237-kurogane-kaikitan-senya-ichiya.json) |
 | Kurogane no Linebarrels | 56748 | [56748-kurogane-no-linebarrels.json](./56748-kurogane-no-linebarrels.json) |
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
 | Kurohige no Golf Shiyouyo | 49671 | [49671-kurohige-no-golf-shiyouyo.json](./49671-kurohige-no-golf-shiyouyo.json) |
