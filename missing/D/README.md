@@ -12951,6 +12951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge 2 | 312985 | [312985-dodge-2.json](./312985-dodge-2.json) |
 | Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
 | Dodge Blast | 412976 | [412976-dodge-blast.json](./412976-dodge-blast.json) |
+| Dodge Boy | 48954 | [48954-dodge-boy.json](./48954-dodge-boy.json) |
 | Dodge Bubble | 116265 | [116265-dodge-bubble.json](./116265-dodge-bubble.json) |
 | Dodge Club Party | 58693 | [58693-dodge-club-party.json](./58693-dodge-club-party.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
@@ -15413,6 +15414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon | 6787 | [6787-double-dragon.json](./6787-double-dragon.json) |
 | Double Dragon & Kunio-kun: Retro Brawler Bundle | 147789 | [147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json](./147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json) |
 | Double Dragon 3: The Arcade Game | 46277 | [46277-double-dragon-3-the-arcade-game.json](./46277-double-dragon-3-the-arcade-game.json) |
+| Double Dragon 3: The Arcade Game | 48923 | [48923-double-dragon-3-the-arcade-game.json](./48923-double-dragon-3-the-arcade-game.json) |
 | Double Dragon 3: The Rosetta Stone | 10194 | [10194-double-dragon-3-the-rosetta-stone.json](./10194-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 198729 | [198729-double-dragon-3-the-rosetta-stone.json](./198729-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281515 | [281515-double-dragon-3-the-rosetta-stone.json](./281515-double-dragon-3-the-rosetta-stone.json) |
