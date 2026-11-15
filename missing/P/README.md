@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People Will Money | 275445 | [275445-people-will-money.json](./275445-people-will-money.json) |
 | People's Chess | 175248 | [175248-peoples-chess.json](./175248-peoples-chess.json) |
 | People's Committee of Game Development | 180946 | [180946-peoples-committee-of-game-development.json](./180946-peoples-committee-of-game-development.json) |
+| People's General | 829 | [829-peoples-general.json](./829-peoples-general.json) |
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
 | People's Tactics | 69556 | [69556-peoples-tactics.json](./69556-peoples-tactics.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
