@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
 | Idol Knight | 177464 | [177464-idol-knight.json](./177464-idol-knight.json) |
 | Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
+| Idol Magical Girl Chiru Chiru Michiru | 11538 | [11538-idol-magical-girl-chiru-chiru-michiru.json](./11538-idol-magical-girl-chiru-chiru-michiru.json) |
 | Idol Magical Girl Chiru Chiru Michiru Part 1 | 35042 | [35042-idol-magical-girl-chiru-chiru-michiru-part-1.json](./35042-idol-magical-girl-chiru-chiru-michiru-part-1.json) |
 | Idol Magical Girl Chiru Chiru Michiru Part 2 | 35043 | [35043-idol-magical-girl-chiru-chiru-michiru-part-2.json](./35043-idol-magical-girl-chiru-chiru-michiru-part-2.json) |
 | Idol Mahjong Final Romance 4 | 202785 | [202785-idol-mahjong-final-romance-4.json](./202785-idol-mahjong-final-romance-4.json) |
@@ -6688,6 +6689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
 | Ironhive | 255448 | [255448-ironhive.json](./255448-ironhive.json) |
 | IronKnight | 223364 | [223364-ironknight.json](./223364-ironknight.json) |
+| Ironkraft: Road to Hell | 11493 | [11493-ironkraft-road-to-hell.json](./11493-ironkraft-road-to-hell.json) |
 | Ironlaw | 117238 | [117238-ironlaw.json](./117238-ironlaw.json) |
 | Ironlights | 131560 | [131560-ironlights.json](./131560-ironlights.json) |
 | Ironmarked | 301281 | [301281-ironmarked.json](./301281-ironmarked.json) |
