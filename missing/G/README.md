@@ -4706,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Drop Machine: Life Simulator | 390242 | [390242-gift-drop-machine-life-simulator.json](./390242-gift-drop-machine-life-simulator.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift From God | 411770 | [411770-gift-from-god.json](./411770-gift-from-god.json) |
+| Gift from the Gods | 77455 | [77455-gift-from-the-gods.json](./77455-gift-from-the-gods.json) |
 | Gift Giving Up | 141746 | [141746-gift-giving-up.json](./141746-gift-giving-up.json) |
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
 | Gift of Parthax | 96162 | [96162-gift-of-parthax.json](./96162-gift-of-parthax.json) |
@@ -4811,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GilGul | 339990 | [339990-gilgul.json](./339990-gilgul.json) |
 | Gillbert: Guardian of the Grotto | 310499 | [310499-gillbert-guardian-of-the-grotto.json](./310499-gillbert-guardian-of-the-grotto.json) |
 | Gilles | 236328 | [236328-gilles.json](./236328-gilles.json) |
+| Gilligan's Gold | 77460 | [77460-gilligans-gold.json](./77460-gilligans-gold.json) |
 | Gilly and the Isle of Sorrow | 340024 | [340024-gilly-and-the-isle-of-sorrow.json](./340024-gilly-and-the-isle-of-sorrow.json) |
 | Gilroy's Grove | 376456 | [376456-gilroys-grove.json](./376456-gilroys-grove.json) |
 | Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
@@ -11218,6 +11220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guadalcanal Campaign | 23992 | [23992-guadalcanal-campaign.json](./23992-guadalcanal-campaign.json) |
 | Guaishou | 177228 | [177228-guaishou.json](./177228-guaishou.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
+| Guàn Lán Jīngāng: King Kong 10 | 77492 | [77492-guan-lan-jingang-king-kong-10.json](./77492-guan-lan-jingang-king-kong-10.json) |
 | Guāng yǔ Àn zhī Liànqǔ | 126205 | [126205-guang-yu-an-zhi-lianqu.json](./126205-guang-yu-an-zhi-lianqu.json) |
 | Guano | 287488 | [287488-guano.json](./287488-guano.json) |
 | Guano Gladiators | 38733 | [38733-guano-gladiators.json](./38733-guano-gladiators.json) |
