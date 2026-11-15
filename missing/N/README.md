@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Ha_Bits | 311493 | [311493-neo-ha-bits.json](./311493-neo-ha-bits.json) |
 | Neo Harbor Rescue Squad | 312760 | [312760-neo-harbor-rescue-squad.json](./312760-neo-harbor-rescue-squad.json) |
 | Neo Heiankyo Alien | 215371 | [215371-neo-heiankyo-alien.json](./215371-neo-heiankyo-alien.json) |
+| Neo Impossible Bosses | 51489 | [51489-neo-impossible-bosses.json](./51489-neo-impossible-bosses.json) |
 | Neo Junk City | 258341 | [258341-neo-junk-city.json](./258341-neo-junk-city.json) |
 | Neo Light | 423063 | [423063-neo-light.json](./423063-neo-light.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
@@ -4893,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Watch | 418613 | [418613-night-watch.json](./418613-night-watch.json) |
 | Night Watch at Freddie's | 398285 | [398285-night-watch-at-freddies.json](./398285-night-watch-at-freddies.json) |
 | Night Watch at Wilford's | 405929 | [405929-night-watch-at-wilfords.json](./405929-night-watch-at-wilfords.json) |
+| Night Watch Racing | 50887 | [50887-night-watch-racing.json](./50887-night-watch-racing.json) |
 | Night Watcher | 72751 | [72751-night-watcher.json](./72751-night-watcher.json) |
 | Night Witch: 588 | 127245 | [127245-night-witch-588.json](./127245-night-witch-588.json) |
 | Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
