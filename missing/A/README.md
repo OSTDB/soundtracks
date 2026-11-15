@@ -6976,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aker Fern: Rdzeń Szatrisa - The Shatris Core. | 248671 | [248671-aker-fern-rdzen-szatrisa-the-shatris-core.json](./248671-aker-fern-rdzen-szatrisa-the-shatris-core.json) |
 | AkeriaTD | 288749 | [288749-akeriatd.json](./288749-akeriatd.json) |
 | Akeyan Enigma | 389754 | [389754-akeyan-enigma.json](./389754-akeyan-enigma.json) |
+| Akgwi Slash | 422746 | [422746-akgwi-slash.json](./422746-akgwi-slash.json) |
 | Akhena: Age of Evil | 337803 | [337803-akhena-age-of-evil.json](./337803-akhena-age-of-evil.json) |
 | Akhenaten: Rule as Pharaoh | 75027 | [75027-akhenaten-rule-as-pharaoh.json](./75027-akhenaten-rule-as-pharaoh.json) |
 | Akhra: The Treasures | 244715 | [244715-akhra-the-treasures.json](./244715-akhra-the-treasures.json) |
@@ -14144,6 +14145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Aqua Jet | 361238 | [361238-arcade-archives-2-aqua-jet.json](./361238-arcade-archives-2-aqua-jet.json) |
 | Arcade Archives 2: Arkanoid - Revenge of Doh | 417315 | [417315-arcade-archives-2-arkanoid-revenge-of-doh.json](./417315-arcade-archives-2-arkanoid-revenge-of-doh.json) |
 | Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
+| Arcade Archives 2: Balloon Bomber | 422769 | [422769-arcade-archives-2-balloon-bomber.json](./422769-arcade-archives-2-balloon-bomber.json) |
 | Arcade Archives 2: Bermuda Triangle | 382576 | [382576-arcade-archives-2-bermuda-triangle.json](./382576-arcade-archives-2-bermuda-triangle.json) |
 | Arcade Archives 2: Bomb Bee | 378489 | [378489-arcade-archives-2-bomb-bee.json](./378489-arcade-archives-2-bomb-bee.json) |
 | Arcade Archives 2: Bomb Jack Twin | 386175 | [386175-arcade-archives-2-bomb-jack-twin.json](./386175-arcade-archives-2-bomb-jack-twin.json) |
@@ -14154,6 +14156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Dacholer | 419602 | [419602-arcade-archives-2-dacholer.json](./419602-arcade-archives-2-dacholer.json) |
 | Arcade Archives 2: Devastators | 395646 | [395646-arcade-archives-2-devastators.json](./395646-arcade-archives-2-devastators.json) |
+| Arcade Archives 2: Fighting Golf | 422766 | [422766-arcade-archives-2-fighting-golf.json](./422766-arcade-archives-2-fighting-golf.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
@@ -14196,6 +14199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: TX-1 | 411809 | [411809-arcade-archives-2-tx-1.json](./411809-arcade-archives-2-tx-1.json) |
 | Arcade Archives 2: V'Ball | 413937 | [413937-arcade-archives-2-vball.json](./413937-arcade-archives-2-vball.json) |
 | Arcade Archives 2: Wiz | 417316 | [417316-arcade-archives-2-wiz.json](./417316-arcade-archives-2-wiz.json) |
+| Arcade Archives 2: Xevious 3D/G | 422770 | [422770-arcade-archives-2-xevious-3d-g.json](./422770-arcade-archives-2-xevious-3d-g.json) |
 | Arcade Archives VS. The Adventures of Valkyrie | 310367 | [310367-arcade-archives-vs-the-adventures-of-valkyrie.json](./310367-arcade-archives-vs-the-adventures-of-valkyrie.json) |
 | Arcade Archives: 10-Yard Fight | 99168 | [99168-arcade-archives-10-yard-fight.json](./99168-arcade-archives-10-yard-fight.json) |
 | Arcade Archives: 64th. Street | 144662 | [144662-arcade-archives-64th-street.json](./144662-arcade-archives-64th-street.json) |
@@ -20623,6 +20627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakened | 261133 | [261133-awakened.json](./261133-awakened.json) |
 | Awakened | 32300 | [32300-awakened.json](./32300-awakened.json) |
 | Awakened | 94809 | [94809-awakened.json](./94809-awakened.json) |
+| Awakened Beauty | 422757 | [422757-awakened-beauty.json](./422757-awakened-beauty.json) |
 | Awakened Evil | 190077 | [190077-awakened-evil.json](./190077-awakened-evil.json) |
 | Awakened: Dark Space | 141178 | [141178-awakened-dark-space.json](./141178-awakened-dark-space.json) |
 | Awakener | 165513 | [165513-awakener.json](./165513-awakener.json) |
