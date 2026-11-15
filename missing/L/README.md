@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day Lockdown | 272758 | [272758-last-day-lockdown.json](./272758-last-day-lockdown.json) |
 | Last Day of Fear | 77168 | [77168-last-day-of-fear.json](./77168-last-day-of-fear.json) |
 | Last Day of Rome | 119551 | [119551-last-day-of-rome.json](./119551-last-day-of-rome.json) |
+| Last Day of Spring | 124392 | [124392-last-day-of-spring.json](./124392-last-day-of-spring.json) |
 | Last Day of Summer | 216575 | [216575-last-day-of-summer.json](./216575-last-day-of-summer.json) |
 | Last Day of Zombies | 247721 | [247721-last-day-of-zombies.json](./247721-last-day-of-zombies.json) |
 | Last Day on Stroggos | 402832 | [402832-last-day-on-stroggos.json](./402832-last-day-on-stroggos.json) |
@@ -4410,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Enforcers | 4501 | [4501-lethal-enforcers.json](./4501-lethal-enforcers.json) |
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
 | Lethal Enforcers I & II | 77250 | [77250-lethal-enforcers-i-and-ii.json](./77250-lethal-enforcers-i-and-ii.json) |
+| Lethal Enforcers II: Gun Fighters | 5398 | [5398-lethal-enforcers-ii-gun-fighters.json](./5398-lethal-enforcers-ii-gun-fighters.json) |
 | Lethal Gamble 1 Werewolf Puzzle | 170278 | [170278-lethal-gamble-1-werewolf-puzzle.json](./170278-lethal-gamble-1-werewolf-puzzle.json) |
 | Lethal Ghosts | 405777 | [405777-lethal-ghosts.json](./405777-lethal-ghosts.json) |
 | Lethal Honor: Order of the Apocalypse | 161495 | [161495-lethal-honor-order-of-the-apocalypse.json](./161495-lethal-honor-order-of-the-apocalypse.json) |
@@ -7798,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | Logical | 375548 | [375548-logical.json](./375548-logical.json) |
+| Logical Journey of the Zoombinis | 20796 | [20796-logical-journey-of-the-zoombinis.json](./20796-logical-journey-of-the-zoombinis.json) |
 | Logical Now! | 116085 | [116085-logical-now.json](./116085-logical-now.json) |
 | Logical Reasoning of Ritsu | 360235 | [360235-logical-reasoning-of-ritsu.json](./360235-logical-reasoning-of-ritsu.json) |
 | Logical Shino | 233955 | [233955-logical-shino.json](./233955-logical-shino.json) |
@@ -8725,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Rising Sun | 8669 | [8669-lords-of-the-rising-sun.json](./8669-lords-of-the-rising-sun.json) |
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
 | Lords of the Void | 328183 | [328183-lords-of-the-void.json](./328183-lords-of-the-void.json) |
+| Lords of Thunder | 5400 | [5400-lords-of-thunder.json](./5400-lords-of-thunder.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
 | Lords of War | 53315 | [53315-lords-of-war.json](./53315-lords-of-war.json) |
