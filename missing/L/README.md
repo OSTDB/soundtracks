@@ -4971,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
 | Life Force | 261900 | [261900-life-force.json](./261900-life-force.json) |
 | Life Force SNES Port | 377226 | [377226-life-force-snes-port.json](./377226-life-force-snes-port.json) |
+| Life Forge ORPG | 27063 | [27063-life-forge-orpg.json](./27063-life-forge-orpg.json) |
 | Life Gallery | 154326 | [154326-life-gallery.json](./154326-life-gallery.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
