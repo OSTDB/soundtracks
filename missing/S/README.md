@@ -3064,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
 | Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
 | Scarlet Backrooms | 392200 | [392200-scarlet-backrooms.json](./392200-scarlet-backrooms.json) |
+| Scarlet Beret: Murder at the Orphanage | 423948 | [423948-scarlet-beret-murder-at-the-orphanage.json](./423948-scarlet-beret-murder-at-the-orphanage.json) |
 | Scarlet Blade | 1977 | [1977-scarlet-blade.json](./1977-scarlet-blade.json) |
 | Scarlet City of Devils | 356880 | [356880-scarlet-city-of-devils.json](./356880-scarlet-city-of-devils.json) |
 | Scarlet Cross | 314618 | [314618-scarlet-cross.json](./314618-scarlet-cross.json) |
@@ -7339,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sfinx | 228956 | [228956-sfinx.json](./228956-sfinx.json) |
 | SFPD Homicide / Case File: The Body in the Bay | 78441 | [78441-sfpd-homicide-case-file-the-body-in-the-bay.json](./78441-sfpd-homicide-case-file-the-body-in-the-bay.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
+| SFTP: Super Football Tactics Pro | 423921 | [423921-sftp-super-football-tactics-pro.json](./423921-sftp-super-football-tactics-pro.json) |
 | SFX Test | 307447 | [307447-sfx-test.json](./307447-sfx-test.json) |
 | SFZ Project: E0 Deluxe Remake | 351506 | [351506-sfz-project-e0-deluxe-remake.json](./351506-sfz-project-e0-deluxe-remake.json) |
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
@@ -15880,6 +15882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
 | Slymes | 31258 | [31258-slymes.json](./31258-slymes.json) |
 | Slymoids | 42178 | [42178-slymoids.json](./42178-slymoids.json) |
+| Slythe | 423852 | [423852-slythe.json](./423852-slythe.json) |
 | SM | 246747 | [246747-sm.json](./246747-sm.json) |
 | SM Escalation | 97675 | [97675-sm-escalation.json](./97675-sm-escalation.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
@@ -29771,6 +29774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Wars | 128076 | [128076-stellar-wars.json](./128076-stellar-wars.json) |
 | Stellar Watch | 207596 | [207596-stellar-watch.json](./207596-stellar-watch.json) |
 | Stellar Winds | 145830 | [145830-stellar-winds.json](./145830-stellar-winds.json) |
+| Stellar Wing | 423850 | [423850-stellar-wing.json](./423850-stellar-wing.json) |
 | Stellar Wreck | 399421 | [399421-stellar-wreck.json](./399421-stellar-wreck.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
@@ -40481,6 +40485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
 | Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
 | Synestia | 134936 | [134936-synestia.json](./134936-synestia.json) |
+| Synkrift | 423949 | [423949-synkrift.json](./423949-synkrift.json) |
 | Synnergist | 2227 | [2227-synnergist.json](./2227-synnergist.json) |
 | Synnergy Games Bundle | 331474 | [331474-synnergy-games-bundle.json](./331474-synnergy-games-bundle.json) |
 | Synonym | 161587 | [161587-synonym.json](./161587-synonym.json) |
