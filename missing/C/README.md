@@ -9184,6 +9184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Night Archery | 77667 | [77667-christmas-night-archery.json](./77667-christmas-night-archery.json) |
 | Christmas Night Shift | 88666 | [88666-christmas-night-shift.json](./88666-christmas-night-shift.json) |
 | Christmas Nightmare | 277266 | [277266-christmas-nightmare.json](./277266-christmas-nightmare.json) |
+| Christmas Nights into Dreams | 45501 | [45501-christmas-nights-into-dreams.json](./45501-christmas-nights-into-dreams.json) |
 | Christmas Otome | 125412 | [125412-christmas-otome.json](./125412-christmas-otome.json) |
 | Christmas Panic | 187307 | [187307-christmas-panic.json](./187307-christmas-panic.json) |
 | Christmas Patchwork Frozen | 286522 | [286522-christmas-patchwork-frozen.json](./286522-christmas-patchwork-frozen.json) |
@@ -14423,6 +14424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Workshop | 85043 | [85043-comic-workshop.json](./85043-comic-workshop.json) |
 | Comic Workshop 2 | 85042 | [85042-comic-workshop-2.json](./85042-comic-workshop-2.json) |
 | Comicado | 16858 | [16858-comicado.json](./16858-comicado.json) |
+| Comical Machine Gun Joe | 45627 | [45627-comical-machine-gun-joe.json](./45627-comical-machine-gun-joe.json) |
 | ComicBachiCooon!! | 293833 | [293833-comicbachicooon.json](./293833-comicbachicooon.json) |
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
 | Coming From Above! | 338881 | [338881-coming-from-above.json](./338881-coming-from-above.json) |
@@ -16664,6 +16666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
 | Corpse Killer: 25th Anniversary Edition | 119715 | [119715-corpse-killer-25th-anniversary-edition.json](./119715-corpse-killer-25th-anniversary-edition.json) |
+| Corpse Killer: Graveyard Edition | 45492 | [45492-corpse-killer-graveyard-edition.json](./45492-corpse-killer-graveyard-edition.json) |
 | Corpse Mansion | 167353 | [167353-corpse-mansion.json](./167353-corpse-mansion.json) |
 | Corpse Master | 250805 | [250805-corpse-master.json](./250805-corpse-master.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
@@ -17557,6 +17560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Bay | 366943 | [366943-courier-bay.json](./366943-courier-bay.json) |
 | Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
+| Courier Crisis | 45491 | [45491-courier-crisis.json](./45491-courier-crisis.json) |
 | Courier Life Simulator | 380089 | [380089-courier-life-simulator.json](./380089-courier-life-simulator.json) |
 | Courier of the Crypts | 35468 | [35468-courier-of-the-crypts.json](./35468-courier-of-the-crypts.json) |
 | Courier Service Simulator 3D | 92330 | [92330-courier-service-simulator-3d.json](./92330-courier-service-simulator-3d.json) |
@@ -19171,6 +19175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Romances: For the Ladies | 146421 | [146421-creature-romances-for-the-ladies.json](./146421-creature-romances-for-the-ladies.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
 | Creature Rumble | 260547 | [260547-creature-rumble.json](./260547-creature-rumble.json) |
+| Creature Shock: Special Edition | 45490 | [45490-creature-shock-special-edition.json](./45490-creature-shock-special-edition.json) |
 | Creature Summon: Showdown Moment | 286341 | [286341-creature-summon-showdown-moment.json](./286341-creature-summon-showdown-moment.json) |
 | Creature Venture | 24846 | [24846-creature-venture.json](./24846-creature-venture.json) |
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
@@ -20440,6 +20445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | Crows: Burning Edge | 13521 | [13521-crows-burning-edge.json](./13521-crows-burning-edge.json) |
+| Crows: The Battle Action For Sega Saturn | 45473 | [45473-crows-the-battle-action-for-sega-saturn.json](./45473-crows-the-battle-action-for-sega-saturn.json) |
 | Crowscare | 178911 | [178911-crowscare.json](./178911-crowscare.json) |
 | Crowsworn | 146086 | [146086-crowsworn.json](./146086-crowsworn.json) |
 | Crowtel Renovations | 26723 | [26723-crowtel-renovations.json](./26723-crowtel-renovations.json) |
