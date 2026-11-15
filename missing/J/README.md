@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jawbreaker | 198769 | [198769-jawbreaker.json](./198769-jawbreaker.json) |
 | Jawbreaker | 217341 | [217341-jawbreaker.json](./217341-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
+| Jawbreaker II | 42187 | [42187-jawbreaker-ii.json](./42187-jawbreaker-ii.json) |
 | Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
 | Jawlah | 374522 | [374522-jawlah.json](./374522-jawlah.json) |
 | Jawless Fishtank | 348440 | [348440-jawless-fishtank.json](./348440-jawless-fishtank.json) |
@@ -2424,8 +2425,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jishou no Chihei Mendako | 150238 | [150238-jishou-no-chihei-mendako.json](./150238-jishou-no-chihei-mendako.json) |
 | Jissen Billiards | 92297 | [92297-jissen-billiards.json](./92297-jissen-billiards.json) |
 | Jissen Kyoutei | 42643 | [42643-jissen-kyoutei.json](./42643-jissen-kyoutei.json) |
+| Jissen Pachi-Slot Hisshouhou! | 42253 | [42253-jissen-pachi-slot-hisshouhou.json](./42253-jissen-pachi-slot-hisshouhou.json) |
+| Jissen Pachi-Slot Hisshouhou! 2 | 42256 | [42256-jissen-pachi-slot-hisshouhou-2.json](./42256-jissen-pachi-slot-hisshouhou-2.json) |
 | Jissen Pachi-Slot Hisshouhou! Aladdin A | 62355 | [62355-jissen-pachi-slot-hisshouhou-aladdin-a.json](./62355-jissen-pachi-slot-hisshouhou-aladdin-a.json) |
 | Jissen Pachi-Slot Hisshouhou! Aladdin II Evolution | 62356 | [62356-jissen-pachi-slot-hisshouhou-aladdin-ii-evolution.json](./62356-jissen-pachi-slot-hisshouhou-aladdin-ii-evolution.json) |
+| Jissen Pachi-Slot Hisshouhou! Classic | 42255 | [42255-jissen-pachi-slot-hisshouhou-classic.json](./42255-jissen-pachi-slot-hisshouhou-classic.json) |
 | Jissen Pachi-Slot Hisshouhou! Disc Up | 82296 | [82296-jissen-pachi-slot-hisshouhou-disc-up.json](./82296-jissen-pachi-slot-hisshouhou-disc-up.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken | 64182 | [64182-jissen-pachi-slot-hisshouhou-hokuto-no-ken.json](./64182-jissen-pachi-slot-hisshouhou-hokuto-no-ken.json) |
@@ -2453,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider & Gallop | 61917 | [61917-jissen-pachi-slot-hisshouhou-single-kamen-rider-and-gallop.json](./61917-jissen-pachi-slot-hisshouhou-single-kamen-rider-and-gallop.json) |
 | Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider V3 | 61918 | [61918-jissen-pachi-slot-hisshouhou-single-kamen-rider-v3.json](./61918-jissen-pachi-slot-hisshouhou-single-kamen-rider-v3.json) |
 | Jissen Pachi-Slot Hisshouhou! Twin | 42645 | [42645-jissen-pachi-slot-hisshouhou-twin.json](./42645-jissen-pachi-slot-hisshouhou-twin.json) |
+| Jissen Pachi-Slot Hisshouhou! Twin 2 | 42252 | [42252-jissen-pachi-slot-hisshouhou-twin-2.json](./42252-jissen-pachi-slot-hisshouhou-twin-2.json) |
 | Jissen Pachi-Slot Hisshouhou! Ultraman Club ST | 82306 | [82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json](./82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json) |
 | Jissen Pachi-Slot Hisshouhou! Yamasa Densetsu | 67711 | [67711-jissen-pachi-slot-hisshouhou-yamasa-densetsu.json](./67711-jissen-pachi-slot-hisshouhou-yamasa-densetsu.json) |
 | Jissen Pachi-Slot Pachinko Hisshouhou! Wii: Hokuto no Ken - Sammy's Collection | 62595 | [62595-jissen-pachi-slot-pachinko-hisshouhou-wii-hokuto-no-ken-sammys-collection.json](./62595-jissen-pachi-slot-pachinko-hisshouhou-wii-hokuto-no-ken-sammys-collection.json) |
@@ -2462,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
 | Jissen Pachinko Hisshouhou! CR Salaryman Kintarou | 82308 | [82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json](./82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json) |
 | Jissen Yakudatsu Tsumego | 281594 | [281594-jissen-yakudatsu-tsumego.json](./281594-jissen-yakudatsu-tsumego.json) |
+| Jissen! Mahjong Shinan | 42251 | [42251-jissen-mahjong-shinan.json](./42251-jissen-mahjong-shinan.json) |
 | Jissou Land | 262843 | [262843-jissou-land.json](./262843-jissou-land.json) |
 | Jitaku Keibiin no Oshigoto | 358485 | [358485-jitaku-keibiin-no-oshigoto.json](./358485-jitaku-keibiin-no-oshigoto.json) |
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
