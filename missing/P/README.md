@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific | 94135 | [94135-pacific.json](./94135-pacific.json) |
 | Pacific Battle | 195051 | [195051-pacific-battle.json](./195051-pacific-battle.json) |
+| Pacific Coast Hwy | 46915 | [46915-pacific-coast-hwy.json](./46915-pacific-coast-hwy.json) |
 | Pacific Drive: Anomalous Customization Pack | 318169 | [318169-pacific-drive-anomalous-customization-pack.json](./318169-pacific-drive-anomalous-customization-pack.json) |
 | Pacific Drive: Deluxe Edition | 278208 | [278208-pacific-drive-deluxe-edition.json](./278208-pacific-drive-deluxe-edition.json) |
 | Pacific Drive: Friendly Dumpster Customization Pack | 314622 | [314622-pacific-drive-friendly-dumpster-customization-pack.json](./314622-pacific-drive-friendly-dumpster-customization-pack.json) |
@@ -11729,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
 | Pocket Tanks Deluxe | 86841 | [86841-pocket-tanks-deluxe.json](./86841-pocket-tanks-deluxe.json) |
 | Pocket Tarneeb | 317051 | [317051-pocket-tarneeb.json](./317051-pocket-tarneeb.json) |
+| Pocket Tennis | 47601 | [47601-pocket-tennis.json](./47601-pocket-tennis.json) |
 | Pocket Tennis Color | 47609 | [47609-pocket-tennis-color.json](./47609-pocket-tennis-color.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Tour | 413388 | [413388-pocket-tour.json](./413388-pocket-tour.json) |
