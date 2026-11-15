@@ -12190,6 +12190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloob.io | 377974 | [377974-bloob-io.json](./377974-bloob-io.json) |
 | Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
 | Blooby Block | 246862 | [246862-blooby-block.json](./246862-blooby-block.json) |
+| Bloock | 425780 | [425780-bloock.json](./425780-bloock.json) |
 | Blood | 7644 | [7644-blood.json](./7644-blood.json) |
 | Blood 'n Bikinis | 54815 | [54815-blood-n-bikinis.json](./54815-blood-n-bikinis.json) |
 | Blood 'N Bullets | 239778 | [239778-blood-n-bullets.json](./239778-blood-n-bullets.json) |
