@@ -2591,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Metal | 236316 | [236316-raw-metal.json](./236316-raw-metal.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Raw Pursuit | 209311 | [209311-raw-pursuit.json](./209311-raw-pursuit.json) |
+| Raw Recruit | 69976 | [69976-raw-recruit.json](./69976-raw-recruit.json) |
 | Rawbogem | 420029 | [420029-rawbogem.json](./420029-rawbogem.json) |
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
@@ -8543,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Saturn: Deep Weeb | 231361 | [231361-rings-of-saturn-deep-weeb.json](./231361-rings-of-saturn-deep-weeb.json) |
 | Rings of Saturn: Tales from the Rings | 169249 | [169249-rings-of-saturn-tales-from-the-rings.json](./169249-rings-of-saturn-tales-from-the-rings.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
+| Rings of the Magi v2.0 | 69978 | [69978-rings-of-the-magi-v2-0.json](./69978-rings-of-the-magi-v2-0.json) |
 | Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
 | Ringside Hero | 101855 | [101855-ringside-hero.json](./101855-ringside-hero.json) |
 | Ringside Seat | 291973 | [291973-ringside-seat.json](./291973-ringside-seat.json) |
@@ -12617,6 +12619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Simulator 2026 | 370421 | [370421-roulette-simulator-2026.json](./370421-roulette-simulator-2026.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
 | Roun | 84037 | [84037-roun.json](./84037-roun.json) |
+| Round 42 | 70005 | [70005-round-42.json](./70005-round-42.json) |
 | Round 99 | 140300 | [140300-round-99.json](./140300-round-99.json) |
 | Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
 | Round Invaders | 188143 | [188143-round-invaders.json](./188143-round-invaders.json) |
@@ -13980,6 +13983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runestone Keeper | 36026 | [36026-runestone-keeper.json](./36026-runestone-keeper.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runestone: Pathfinders | 292199 | [292199-runestone-pathfinders.json](./292199-runestone-pathfinders.json) |
+| RuneSword 2 | 69997 | [69997-runesword-2.json](./69997-runesword-2.json) |
 | Runet Legend | 310799 | [310799-runet-legend.json](./310799-runet-legend.json) |
 | RuneTech | 101341 | [101341-runetech.json](./101341-runetech.json) |
 | Runeth | 385723 | [385723-runeth.json](./385723-runeth.json) |
