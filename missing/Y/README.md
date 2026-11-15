@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ymn7 | 302401 | [302401-ymn7.json](./302401-ymn7.json) |
 | Yn | 229272 | [229272-yn.json](./229272-yn.json) |
 | Yn Moddey Dhoo | 414389 | [414389-yn-moddey-dhoo.json](./414389-yn-moddey-dhoo.json) |
+| Ynglet | 129802 | [129802-ynglet.json](./129802-ynglet.json) |
 | Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
 | YNN | 222206 | [222206-ynn.json](./222206-ynn.json) |
 | Ynth | 67673 | [67673-ynth.json](./67673-ynth.json) |
