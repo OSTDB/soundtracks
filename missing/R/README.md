@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Sea | 151763 | [151763-rainbow-sea.json](./151763-rainbow-sea.json) |
 | Rainbow Six Mobile | 200333 | [200333-rainbow-six-mobile.json](./200333-rainbow-six-mobile.json) |
 | Rainbow Six: Black Ops | 132046 | [132046-rainbow-six-black-ops.json](./132046-rainbow-six-black-ops.json) |
+| Rainbow Six: Covert Ops Essentials | 1845 | [1845-rainbow-six-covert-ops-essentials.json](./1845-rainbow-six-covert-ops-essentials.json) |
 | Rainbow Six: Raven Shield | 314237 | [314237-rainbow-six-raven-shield.json](./314237-rainbow-six-raven-shield.json) |
 | Rainbow Skies | 52676 | [52676-rainbow-skies.json](./52676-rainbow-skies.json) |
 | Rainbow Skies: Limited Edition | 166232 | [166232-rainbow-skies-limited-edition.json](./166232-rainbow-skies-limited-edition.json) |
@@ -10776,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman | 26446 | [26446-rockman.json](./26446-rockman.json) |
 | Rockman & Crystal | 366622 | [366622-rockman-and-crystal.json](./366622-rockman-and-crystal.json) |
 | Rockman & Forte FC | 320354 | [320354-rockman-and-forte-fc.json](./320354-rockman-and-forte-fc.json) |
+| Rockman & Forte: Mirai kara no Chousensha | 1739 | [1739-rockman-and-forte-mirai-kara-no-chousensha.json](./1739-rockman-and-forte-mirai-kara-no-chousensha.json) |
 | Rockman 2 de Ippatsu Neta | 234374 | [234374-rockman-2-de-ippatsu-neta.json](./234374-rockman-2-de-ippatsu-neta.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Claw | 269886 | [269886-rockman-2-claw.json](./269886-rockman-2-claw.json) |
@@ -10821,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman EXE 4: Kaizou Card - Part 2 | 352764 | [352764-rockman-exe-4-kaizou-card-part-2.json](./352764-rockman-exe-4-kaizou-card-part-2.json) |
 | Rockman EXE 4: Kaizou Card - Part 3 | 352765 | [352765-rockman-exe-4-kaizou-card-part-3.json](./352765-rockman-exe-4-kaizou-card-part-3.json) |
 | Rockman EXE 4: Kaizou Card - Part 4 | 352767 | [352767-rockman-exe-4-kaizou-card-part-4.json](./352767-rockman-exe-4-kaizou-card-part-4.json) |
+| Rockman EXE 4.5: Real Operation | 1769 | [1769-rockman-exe-4-5-real-operation.json](./1769-rockman-exe-4-5-real-operation.json) |
 | Rockman EXE 4.5: Real Operation | 352875 | [352875-rockman-exe-4-5-real-operation.json](./352875-rockman-exe-4-5-real-operation.json) |
 | Rockman EXE 5: Kaizou Card - Part 1 | 352754 | [352754-rockman-exe-5-kaizou-card-part-1.json](./352754-rockman-exe-5-kaizou-card-part-1.json) |
 | Rockman EXE 5: Kaizou Card - Part 2 | 352756 | [352756-rockman-exe-5-kaizou-card-part-2.json](./352756-rockman-exe-5-kaizou-card-part-2.json) |
@@ -10832,9 +10835,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman EXE 6: Dennoujuu Glaga - Beast Link Gate DX Edition | 352777 | [352777-rockman-exe-6-dennoujuu-glaga-beast-link-gate-dx-edition.json](./352777-rockman-exe-6-dennoujuu-glaga-beast-link-gate-dx-edition.json) |
 | Rockman EXE 6: Kaizou Card - Part 1 | 352736 | [352736-rockman-exe-6-kaizou-card-part-1.json](./352736-rockman-exe-6-kaizou-card-part-1.json) |
 | Rockman EXE 6: Kaizou Card - Part 2 | 352738 | [352738-rockman-exe-6-kaizou-card-part-2.json](./352738-rockman-exe-6-kaizou-card-part-2.json) |
+| Rockman EXE Battle Chip Stadium | 1772 | [1772-rockman-exe-battle-chip-stadium.json](./1772-rockman-exe-battle-chip-stadium.json) |
 | Rockman EXE Legend of Network | 265959 | [265959-rockman-exe-legend-of-network.json](./265959-rockman-exe-legend-of-network.json) |
 | RockMan EXE N1 Battle | 37354 | [37354-rockman-exe-n1-battle.json](./37354-rockman-exe-n1-battle.json) |
 | Rockman EXE Phantom of Network | 265957 | [265957-rockman-exe-phantom-of-network.json](./265957-rockman-exe-phantom-of-network.json) |
+| Rockman EXE The Medal Operation | 1771 | [1771-rockman-exe-the-medal-operation.json](./1771-rockman-exe-the-medal-operation.json) |
+| Rockman EXE WS | 1768 | [1768-rockman-exe-ws.json](./1768-rockman-exe-ws.json) |
 | Rockman Exhaust | 199217 | [199217-rockman-exhaust.json](./199217-rockman-exhaust.json) |
 | Rockman Gaiden | 269882 | [269882-rockman-gaiden.json](./269882-rockman-gaiden.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
