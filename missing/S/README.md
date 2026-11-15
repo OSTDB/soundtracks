@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Gankster Pack | 400839 | [400839-saints-row-the-gankster-pack.json](./400839-saints-row-the-gankster-pack.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
 | Saints Row: The Third - Enter the Dominatrix | 94133 | [94133-saints-row-the-third-enter-the-dominatrix.json](./94133-saints-row-the-third-enter-the-dominatrix.json) |
+| Saints Row: The Third - Gangstas in Space | 78453 | [78453-saints-row-the-third-gangstas-in-space.json](./78453-saints-row-the-third-gangstas-in-space.json) |
 | Saints Row: The Third - Genkibowl VII | 78454 | [78454-saints-row-the-third-genkibowl-vii.json](./78454-saints-row-the-third-genkibowl-vii.json) |
 | Saints Row: The Third - The Full Package | 25268 | [25268-saints-row-the-third-the-full-package.json](./25268-saints-row-the-third-the-full-package.json) |
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
@@ -1024,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Scramble! | 205897 | [205897-sakura-scramble.json](./205897-sakura-scramble.json) |
 | Sakura Shadow Monsters | 253169 | [253169-sakura-shadow-monsters.json](./253169-sakura-shadow-monsters.json) |
 | Sakura Shrine Girls | 31619 | [31619-sakura-shrine-girls.json](./31619-sakura-shrine-girls.json) |
+| Sakura Spirit | 17640 | [17640-sakura-spirit.json](./17640-sakura-spirit.json) |
 | Sakura Spirit | 204868 | [204868-sakura-spirit.json](./204868-sakura-spirit.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
 | Sakura Street: Tycoon | 296786 | [296786-sakura-street-tycoon.json](./296786-sakura-street-tycoon.json) |
@@ -3945,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
 | Scramballed! | 241178 | [241178-scramballed.json](./241178-scramballed.json) |
 | Scrambl'd | 137819 | [137819-scrambld.json](./137819-scrambld.json) |
+| Scramble | 1475 | [1475-scramble.json](./1475-scramble.json) |
 | Scramble | 168574 | [168574-scramble.json](./168574-scramble.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 251312 | [251312-scramble.json](./251312-scramble.json) |
@@ -5056,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
 | Secret Files 2: Puritas Cordis | 5146 | [5146-secret-files-2-puritas-cordis.json](./5146-secret-files-2-puritas-cordis.json) |
 | Secret Files 3 | 16397 | [16397-secret-files-3.json](./16397-secret-files-3.json) |
+| Secret Files: Sam Peters | 16725 | [16725-secret-files-sam-peters.json](./16725-secret-files-sam-peters.json) |
 | Secret Files: Tunguska | 5145 | [5145-secret-files-tunguska.json](./5145-secret-files-tunguska.json) |
 | Secret Files: Tunguska - Remastered | 399165 | [399165-secret-files-tunguska-remastered.json](./399165-secret-files-tunguska-remastered.json) |
 | Secret Flirts | 206638 | [206638-secret-flirts.json](./206638-secret-flirts.json) |
@@ -8136,6 +8140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanchuchameru | 233952 | [233952-shanchuchameru.json](./233952-shanchuchameru.json) |
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
 | Shane's Trains | 400325 | [400325-shanes-trains.json](./400325-shanes-trains.json) |
+| Shanghai | 12765 | [12765-shanghai.json](./12765-shanghai.json) |
 | Shanghai | 358738 | [358738-shanghai.json](./358738-shanghai.json) |
 | Shanghai | 64739 | [64739-shanghai.json](./64739-shanghai.json) |
 | Shanghai Advance | 49782 | [49782-shanghai-advance.json](./49782-shanghai-advance.json) |
@@ -11543,6 +11548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Star Saga | 6595 | [6595-sigma-star-saga.json](./6595-sigma-star-saga.json) |
 | Sigma Star Saga DX | 375606 | [375606-sigma-star-saga-dx.json](./375606-sigma-star-saga-dx.json) |
 | Sigma Survivor | 427260 | [427260-sigma-survivor.json](./427260-sigma-survivor.json) |
+| Sigma Theory: Global Cold War | 59079 | [59079-sigma-theory-global-cold-war.json](./59079-sigma-theory-global-cold-war.json) |
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
 | Sigma War Notes | 309833 | [309833-sigma-war-notes.json](./309833-sigma-war-notes.json) |
@@ -14496,6 +14502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | Skyrim Anniversary Edition + Fallout 4 G.O.T.Y. Bundle | 342531 | [342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json](./342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json) |
 | Skyrim Special Edition + Fallout 4 G.O.T.Y Bundle | 164666 | [164666-skyrim-special-edition-fallout-4-g-o-t-y-bundle.json](./164666-skyrim-special-edition-fallout-4-g-o-t-y-bundle.json) |
+| SkyRoads | 19235 | [19235-skyroads.json](./19235-skyroads.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
 | Skyrogue | 184017 | [184017-skyrogue.json](./184017-skyrogue.json) |
 | SkyRunner | 357114 | [357114-skyrunner.json](./357114-skyrunner.json) |
@@ -25860,6 +25867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Drops Gaiden | 390464 | [390464-spy-drops-gaiden.json](./390464-spy-drops-gaiden.json) |
 | Spy Escape | 155840 | [155840-spy-escape.json](./155840-spy-escape.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
+| Spy Fox 2: "Some Assembly Required" | 16591 | [16591-spy-fox-2-some-assembly-required.json](./16591-spy-fox-2-some-assembly-required.json) |
 | Spy Fox 3: Operation Ozone | 7653 | [7653-spy-fox-3-operation-ozone.json](./7653-spy-fox-3-operation-ozone.json) |
 | Spy Fox Dry: Cereal and Cheese Chase - Activity Game | 208772 | [208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json](./208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json) |
 | Spy Fox in "Dry Cereal" | 5204 | [5204-spy-fox-in-dry-cereal.json](./5204-spy-fox-in-dry-cereal.json) |
@@ -28917,6 +28925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static: Investigator Training | 35671 | [35671-static-investigator-training.json](./35671-static-investigator-training.json) |
 | Static: The Beginning | 337744 | [337744-static-the-beginning.json](./337744-static-the-beginning.json) |
 | Statik | 169678 | [169678-statik.json](./169678-statik.json) |
+| Statik | 26683 | [26683-statik.json](./26683-statik.json) |
 | Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
 | Station 13 | 252003 | [252003-station-13.json](./252003-station-13.json) |
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
@@ -32674,6 +32683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubterAlien Rescue | 157504 | [157504-subteralien-rescue.json](./157504-subteralien-rescue.json) |
 | Subterene | 163901 | [163901-subterene.json](./163901-subterene.json) |
 | Subterfuge | 13929 | [13929-subterfuge.json](./13929-subterfuge.json) |
+| Subterrain | 17011 | [17011-subterrain.json](./17011-subterrain.json) |
 | Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
 | Subterranauts | 318348 | [318348-subterranauts.json](./318348-subterranauts.json) |
 | Subterranea | 24435 | [24435-subterranea.json](./24435-subterranea.json) |
@@ -36167,6 +36177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 4: Ballpark Edition | 248341 | [248341-super-mega-baseball-4-ballpark-edition.json](./248341-super-mega-baseball-4-ballpark-edition.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Baseball 4: Peril Point Stadium | 252626 | [252626-super-mega-baseball-4-peril-point-stadium.json](./252626-super-mega-baseball-4-peril-point-stadium.json) |
+| Super Mega Baseball: Extra Innings | 17648 | [17648-super-mega-baseball-extra-innings.json](./17648-super-mega-baseball-extra-innings.json) |
 | Super Mega Bob | 34676 | [34676-super-mega-bob.json](./34676-super-mega-bob.json) |
 | Super Mega Bread | 185485 | [185485-super-mega-bread.json](./185485-super-mega-bread.json) |
 | Super Mega Drive 3: 10 Super Jogos | 302165 | [302165-super-mega-drive-3-10-super-jogos.json](./302165-super-mega-drive-3-10-super-jogos.json) |
