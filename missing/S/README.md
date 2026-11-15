@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi 12 | 64573 | [64573-sangokushi-12.json](./64573-sangokushi-12.json) |
 | Sangokushi 12: Power Up Kit | 350585 | [350585-sangokushi-12-power-up-kit.json](./350585-sangokushi-12-power-up-kit.json) |
 | Sangokushi 2 | 60090 | [60090-sangokushi-2.json](./60090-sangokushi-2.json) |
+| Sangokushi 3 | 45626 | [45626-sangokushi-3.json](./45626-sangokushi-3.json) |
 | Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
 | Sangokushi DS | 59193 | [59193-sangokushi-ds.json](./59193-sangokushi-ds.json) |
 | Sangokushi DS 2 | 59194 | [59194-sangokushi-ds-2.json](./59194-sangokushi-ds-2.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi III | 350289 | [350289-sangokushi-iii.json](./350289-sangokushi-iii.json) |
 | Sangokushi IV: Power Up Kit | 350293 | [350293-sangokushi-iv-power-up-kit.json](./350293-sangokushi-iv-power-up-kit.json) |
 | Sangokushi Nendaiki DX | 290123 | [290123-sangokushi-nendaiki-dx.json](./290123-sangokushi-nendaiki-dx.json) |
+| Sangokushi Retsuden: Ransei no Eiyuu-tachi | 45610 | [45610-sangokushi-retsuden-ransei-no-eiyuu-tachi.json](./45610-sangokushi-retsuden-ransei-no-eiyuu-tachi.json) |
 | Sangokushi Returns | 97459 | [97459-sangokushi-returns.json](./97459-sangokushi-returns.json) |
 | Sangokushi Rumble | 289002 | [289002-sangokushi-rumble.json](./289002-sangokushi-rumble.json) |
 | Sangokushi Seishi: Tenbu Spirits | 37862 | [37862-sangokushi-seishi-tenbu-spirits.json](./37862-sangokushi-seishi-tenbu-spirits.json) |
@@ -2025,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sans Logique | 260179 | [260179-sans-logique.json](./260179-sans-logique.json) |
 | Sans Spielen's Epic Megalovania | 334250 | [334250-sans-spielens-epic-megalovania.json](./334250-sans-spielens-epic-megalovania.json) |
 | Sansagari | 362015 | [362015-sansagari.json](./362015-sansagari.json) |
+| Sansan | 45609 | [45609-sansan.json](./45609-sansan.json) |
 | Sansar | 95117 | [95117-sansar.json](./95117-sansar.json) |
 | Sansara Naga | 48401 | [48401-sansara-naga.json](./48401-sansara-naga.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
@@ -4252,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCUD Race | 39476 | [39476-scud-race.json](./39476-scud-race.json) |
 | SCUD Race Plus | 316974 | [316974-scud-race-plus.json](./316974-scud-race-plus.json) |
 | Scud: Industrial Evolution | 73501 | [73501-scud-industrial-evolution.json](./73501-scud-industrial-evolution.json) |
+| Scud: The Disposable Assassin | 45483 | [45483-scud-the-disposable-assassin.json](./45483-scud-the-disposable-assassin.json) |
 | ScudBuster | 33922 | [33922-scudbuster.json](./33922-scudbuster.json) |
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
 | Scuff Slayer | 385650 | [385650-scuff-slayer.json](./385650-scuff-slayer.json) |
@@ -5530,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega 3D Fukkoku Archives 1-2-3 Triple Pack | 74275 | [74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json](./74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json) |
 | Sega 3D Fukkoku Archives 1+2 Double Pack | 77639 | [77639-sega-3d-fukkoku-archives-1-2-double-pack.json](./77639-sega-3d-fukkoku-archives-1-2-double-pack.json) |
 | Sega 3D Fukkoku Archives 3: Final Stage | 57880 | [57880-sega-3d-fukkoku-archives-3-final-stage.json](./57880-sega-3d-fukkoku-archives-3-final-stage.json) |
+| Sega Ages | 45482 | [45482-sega-ages.json](./45482-sega-ages.json) |
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
 | Sega Ages 2500 Vol. 1: Phantasy Star Generation - 1 | 43454 | [43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json](./43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json) |
 | Sega Ages 2500 Vol. 10: After Burner II | 64900 | [64900-sega-ages-2500-vol-10-after-burner-ii.json](./64900-sega-ages-2500-vol-10-after-burner-ii.json) |
@@ -5644,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
 | Sega Marine Fishing | 45838 | [45838-sega-marine-fishing.json](./45838-sega-marine-fishing.json) |
 | Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
+| Sega Mega Anser | 45612 | [45612-sega-mega-anser.json](./45612-sega-mega-anser.json) |
 | Sega Mega Drive and Genesis Classics | 191344 | [191344-sega-mega-drive-and-genesis-classics.json](./191344-sega-mega-drive-and-genesis-classics.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
@@ -5702,6 +5708,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Water Ski | 39470 | [39470-sega-water-ski.json](./39470-sega-water-ski.json) |
 | Sega World Drivers Championship | 293742 | [293742-sega-world-drivers-championship.json](./293742-sega-world-drivers-championship.json) |
 | Sega World Tournament Golf | 46128 | [46128-sega-world-tournament-golf.json](./46128-sega-world-tournament-golf.json) |
+| Sega Worldwide Soccer '97 | 45498 | [45498-sega-worldwide-soccer-97.json](./45498-sega-worldwide-soccer-97.json) |
+| Sega Worldwide Soccer '98 | 45468 | [45468-sega-worldwide-soccer-98.json](./45468-sega-worldwide-soccer-98.json) |
 | Sega Worldwide Soccer 2000 | 45790 | [45790-sega-worldwide-soccer-2000.json](./45790-sega-worldwide-soccer-2000.json) |
 | Sega Worldwide Soccer 2000: Euro Edition | 46554 | [46554-sega-worldwide-soccer-2000-euro-edition.json](./46554-sega-worldwide-soccer-2000-euro-edition.json) |
 | Sega Worldwide Soccer PC | 95484 | [95484-sega-worldwide-soccer-pc.json](./95484-sega-worldwide-soccer-pc.json) |
@@ -10962,6 +10970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuten Order: Digital Deluxe Edition | 345702 | [345702-shuten-order-digital-deluxe-edition.json](./345702-shuten-order-digital-deluxe-edition.json) |
 | Shutin | 183244 | [183244-shutin.json](./183244-shutin.json) |
 | Shutix | 120230 | [120230-shutix.json](./120230-shutix.json) |
+| Shutokou Battle '97 | 45472 | [45472-shutokou-battle-97.json](./45472-shutokou-battle-97.json) |
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutokou Battle Online | 215852 | [215852-shutokou-battle-online.json](./215852-shutokou-battle-online.json) |
 | Shutokou Battle R | 214789 | [214789-shutokou-battle-r.json](./214789-shutokou-battle-r.json) |
@@ -29371,6 +29380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
 | Steep | 19554 | [19554-steep.json](./19554-steep.json) |
 | Steep and the Crew | 82414 | [82414-steep-and-the-crew.json](./82414-steep-and-the-crew.json) |
+| Steep Slope Sliders | 45481 | [45481-steep-slope-sliders.json](./45481-steep-slope-sliders.json) |
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
 | Steep X Games: Gold Edition | 164854 | [164854-steep-x-games-gold-edition.json](./164854-steep-x-games-gold-edition.json) |
@@ -34253,6 +34263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boy I | 41754 | [41754-super-boy-i.json](./41754-super-boy-i.json) |
 | Super Boy II | 41753 | [41753-super-boy-ii.json](./41753-super-boy-ii.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
+| Super Boy IV | 45625 | [45625-super-boy-iv.json](./45625-super-boy-iv.json) |
 | Super Brain Cube | 159435 | [159435-super-brain-cube.json](./159435-super-brain-cube.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Brain Tease: Football Edition | 123456 | [123456-super-brain-tease-football-edition.json](./123456-super-brain-tease-football-edition.json) |
