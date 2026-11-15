@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Ginsei Shogi Go: New Standard | 83436 | [83436-saikyou-ginsei-shogi-go-new-standard.json](./83436-saikyou-ginsei-shogi-go-new-standard.json) |
 | Saikyou Habu Shogi | 3594 | [3594-saikyou-habu-shogi.json](./3594-saikyou-habu-shogi.json) |
 | Saikyou Horror Akumu no Tobira: imi ga Wakaru to Kowai Nazotoki Toshidensetsu Kaidan Suiri Game | 254926 | [254926-saikyou-horror-akumu-no-tobira-imi-ga-wakaru-to-kowai-nazotoki-toshidensetsu-kaidan-suiri-game.json](./254926-saikyou-horror-akumu-no-tobira-imi-ga-wakaru-to-kowai-nazotoki-toshidensetsu-kaidan-suiri-game.json) |
+| Saikyou no Igo: Meijin he no Michi / Igo Meijin | 76034 | [76034-saikyou-no-igo-meijin-he-no-michi-igo-meijin.json](./76034-saikyou-no-igo-meijin-he-no-michi-igo-meijin.json) |
 | Saikyou Retsuden: Jidai Hashiru | 225658 | [225658-saikyou-retsuden-jidai-hashiru.json](./225658-saikyou-retsuden-jidai-hashiru.json) |
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
@@ -4943,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second World War | 257777 | [257777-second-world-war.json](./257777-second-world-war.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
 | Second-Loop | 300245 | [300245-second-loop.json](./300245-second-loop.json) |
+| Secondhand Lands | 76042 | [76042-secondhand-lands.json](./76042-secondhand-lands.json) |
 | Seconds Between Summer | 364369 | [364369-seconds-between-summer.json](./364369-seconds-between-summer.json) |
 | Seconds from Silence | 122903 | [122903-seconds-from-silence.json](./122903-seconds-from-silence.json) |
 | Seconds in Space | 133217 | [133217-seconds-in-space.json](./133217-seconds-in-space.json) |
@@ -26921,7 +26923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
 | Star Ores Inc. | 347604 | [347604-star-ores-inc.json](./347604-star-ores-inc.json) |
-| Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
 | Star Overdrive: Deluxe DLC | 373467 | [373467-star-overdrive-deluxe-dlc.json](./373467-star-overdrive-deluxe-dlc.json) |
 | Star Overdrive: Deluxe Edition | 330623 | [330623-star-overdrive-deluxe-edition.json](./330623-star-overdrive-deluxe-edition.json) |
 | Star Overdrive: Deluxe Upgrade DLC | 330630 | [330630-star-overdrive-deluxe-upgrade-dlc.json](./330630-star-overdrive-deluxe-upgrade-dlc.json) |
