@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T02:26:16.654Z",
-  "total_soundtracks": 3381,
+  "generated_at": "2026-11-15T02:36:00.092Z",
+  "total_soundtracks": 3383,
   "games": [
     {
       "igdb_id": 292844,
@@ -6415,6 +6415,20 @@
         {
           "album_name": "Children of the Sun (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/53iMyGjQmdy2O4qHIWnyA4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117217,
+      "game_name": "Chippy",
+      "game_url": "https://ostdb.net/games/chippy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f13119fabe368b5370c1ae55",
+      "albums": [
+        {
+          "album_name": "Chippy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1W49F79UwJIg4xwRbvKFrp",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25951,6 +25965,20 @@
         {
           "album_name": "Panzer Paladin (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1aI28z1Wbs93V6jxVLRrmO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117293,
+      "game_name": "Paper Beast",
+      "game_url": "https://ostdb.net/games/paper-beast",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ece6f2bb2ac9d7c11e29aa36",
+      "albums": [
+        {
+          "album_name": "Paper Beast (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4zoeBz3Bx5tav4JGE64ap2",
           "apple_music_url": "",
           "album_link_url": ""
         }
