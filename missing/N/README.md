@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Storm 3 | 7099 | [7099-naruto-shippuden-ultimate-ninja-storm-3.json](./7099-naruto-shippuden-ultimate-ninja-storm-3.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst | 21709 | [21709-naruto-shippuden-ultimate-ninja-storm-3-full-burst.json](./21709-naruto-shippuden-ultimate-ninja-storm-3-full-burst.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 | 11059 | [11059-naruto-shippuden-ultimate-ninja-storm-4.json](./11059-naruto-shippuden-ultimate-ninja-storm-4.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Collector's Edition | 42952 | [42952-naruto-shippuden-ultimate-ninja-storm-4-collectors-edition.json](./42952-naruto-shippuden-ultimate-ninja-storm-4-collectors-edition.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Evolution | 344589 | [344589-naruto-shippuden-ultimate-ninja-storm-4-evolution.json](./344589-naruto-shippuden-ultimate-ninja-storm-4-evolution.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Gaara's Tale Extra Scenario | 168159 | [168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json](./168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto | 46665 | [46665-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.json](./46665-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.json) |
@@ -8014,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Man Flies | 75810 | [75810-now-man-flies.json](./75810-now-man-flies.json) |
 | Now Open! Horror House | 293485 | [293485-now-open-horror-house.json](./293485-now-open-horror-house.json) |
 | Now Showing | 394765 | [394765-now-showing.json](./394765-now-showing.json) |
+| Now Sing 2016 | 42903 | [42903-now-sing-2016.json](./42903-now-sing-2016.json) |
 | Now Streaming | 122351 | [122351-now-streaming.json](./122351-now-streaming.json) |
 | Now Testing: 407 | 148885 | [148885-now-testing-407.json](./148885-now-testing-407.json) |
 | Now That's Sport! | 184179 | [184179-now-thats-sport.json](./184179-now-thats-sport.json) |
