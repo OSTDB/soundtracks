@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ollie and the Merchant of Dreams | 391564 | [391564-ollie-and-the-merchant-of-dreams.json](./391564-ollie-and-the-merchant-of-dreams.json) |
 | Ollie Bonk | 179641 | [179641-ollie-bonk.json](./179641-ollie-bonk.json) |
 | Ollie King | 24494 | [24494-ollie-king.json](./24494-ollie-king.json) |
+| Ollie Ninja Slash | 428120 | [428120-ollie-ninja-slash.json](./428120-ollie-ninja-slash.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | Ollie-Oop | 121995 | [121995-ollie-oop.json](./121995-ollie-oop.json) |
 | Ollie's Arcade | 264964 | [264964-ollies-arcade.json](./264964-ollies-arcade.json) |
