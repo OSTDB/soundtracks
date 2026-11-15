@@ -3037,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hedges | 14107 | [14107-haunted-hedges.json](./14107-haunted-hedges.json) |
 | Haunted Heist | 391023 | [391023-haunted-heist.json](./391023-haunted-heist.json) |
 | Haunted Hell House | 190186 | [190186-haunted-hell-house.json](./190186-haunted-hell-house.json) |
+| Haunted Heroes: Pathfinder Horror Adventures | 24370 | [24370-haunted-heroes-pathfinder-horror-adventures.json](./24370-haunted-heroes-pathfinder-horror-adventures.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 245123 | [245123-haunted-hill.json](./245123-haunted-hill.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
@@ -4031,8 +4032,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heated Battles Shooter | 143005 | [143005-heated-battles-shooter.json](./143005-heated-battles-shooter.json) |
 | Heath Robinson Solutions | 239152 | [239152-heath-robinson-solutions.json](./239152-heath-robinson-solutions.json) |
 | Heath: The Unchosen Path | 120615 | [120615-heath-the-unchosen-path.json](./120615-heath-the-unchosen-path.json) |
+| Heathcliff: Frantic Foto | 24366 | [24366-heathcliff-frantic-foto.json](./24366-heathcliff-frantic-foto.json) |
 | Heathcliff: Fun with Spelling | 325097 | [325097-heathcliff-fun-with-spelling.json](./325097-heathcliff-fun-with-spelling.json) |
 | Heathcliff: Spot On | 84526 | [84526-heathcliff-spot-on.json](./84526-heathcliff-spot-on.json) |
+| Heathcliff: The Fast and The Furriest | 24375 | [24375-heathcliff-the-fast-and-the-furriest.json](./24375-heathcliff-the-fast-and-the-furriest.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
 | Heathen - The sons of the law | 104848 | [104848-heathen-the-sons-of-the-law.json](./104848-heathen-the-sons-of-the-law.json) |
 | Heathen Engineering's Terran | 33909 | [33909-heathen-engineerings-terran.json](./33909-heathen-engineerings-terran.json) |
@@ -7270,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex-Mix | 253246 | [253246-hex-mix.json](./253246-hex-mix.json) |
 | Hex: Origins | 63738 | [63738-hex-origins.json](./63738-hex-origins.json) |
 | HEX: Shards of Fate | 9570 | [9570-hex-shards-of-fate.json](./9570-hex-shards-of-fate.json) |
+| HEX: Shards of Fate - Chronicles of Entrath | 24352 | [24352-hex-shards-of-fate-chronicles-of-entrath.json](./24352-hex-shards-of-fate-chronicles-of-entrath.json) |
 | Hex.Plan.X | 292336 | [292336-hex-plan-x.json](./292336-hex-plan-x.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa | 311377 | [311377-hexa.json](./311377-hexa.json) |
@@ -9189,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
 | Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
 | Hips N Noses | 368826 | [368826-hips-n-noses.json](./368826-hips-n-noses.json) |
+| HipShotDot | 24546 | [24546-hipshotdot.json](./24546-hipshotdot.json) |
 | Hipster Bingo | 26158 | [26158-hipster-bingo.json](./26158-hipster-bingo.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hipster Chess | 256438 | [256438-hipster-chess.json](./256438-hipster-chess.json) |
