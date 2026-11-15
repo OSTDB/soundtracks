@@ -6755,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
 | Retro Bowl College | 267627 | [267627-retro-bowl-college.json](./267627-retro-bowl-college.json) |
 | Retro Cave Flyer | 91701 | [91701-retro-cave-flyer.json](./91701-retro-cave-flyer.json) |
+| Retro Chaos: Together Tidy Up | 425147 | [425147-retro-chaos-together-tidy-up.json](./425147-retro-chaos-together-tidy-up.json) |
 | Retro City Rampage | 8063 | [8063-retro-city-rampage.json](./8063-retro-city-rampage.json) |
 | Retro City Rampage DX | 15276 | [15276-retro-city-rampage-dx.json](./15276-retro-city-rampage-dx.json) |
 | Retro Classix 2-in-1 Pack: Express Raider & Shootout | 147864 | [147864-retro-classix-2-in-1-pack-express-raider-and-shootout.json](./147864-retro-classix-2-in-1-pack-express-raider-and-shootout.json) |
