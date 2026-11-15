@@ -10437,6 +10437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
 | Dim | 329686 | [329686-dim.json](./329686-dim.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
+| Dim Light | 58992 | [58992-dim-light.json](./58992-dim-light.json) |
 | Dim Tower | 217074 | [217074-dim-tower.json](./217074-dim-tower.json) |
 | Dim X: Dimensional Explorer | 354576 | [354576-dim-x-dimensional-explorer.json](./354576-dim-x-dimensional-explorer.json) |
 | Dim-Egion | 179212 | [179212-dim-egion.json](./179212-dim-egion.json) |
@@ -17295,6 +17296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draikai | 250748 | [250748-draikai.json](./250748-draikai.json) |
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
 | Drain Mania | 57166 | [57166-drain-mania.json](./57166-drain-mania.json) |
+| Drain Pipe Contract | 58967 | [58967-drain-pipe-contract.json](./58967-drain-pipe-contract.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
 | Drain Storm | 73938 | [73938-drain-storm.json](./73938-drain-storm.json) |
 | Drain the Galaxy | 423230 | [423230-drain-the-galaxy.json](./423230-drain-the-galaxy.json) |
