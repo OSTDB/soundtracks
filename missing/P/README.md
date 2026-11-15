@@ -11363,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber Pipe Connect | 96824 | [96824-plumber-pipe-connect.json](./96824-plumber-pipe-connect.json) |
 | Plumber Pipe Out | 301164 | [301164-plumber-pipe-out.json](./301164-plumber-pipe-out.json) |
 | Plumber Puzzles | 180965 | [180965-plumber-puzzles.json](./180965-plumber-puzzles.json) |
+| Plumber Simulator | 429375 | [429375-plumber-simulator.json](./429375-plumber-simulator.json) |
 | Plumber Survivors | 292472 | [292472-plumber-survivors.json](./292472-plumber-survivors.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
 | Plumber World | 403752 | [403752-plumber-world.json](./403752-plumber-world.json) |
@@ -16902,6 +16903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Foosball | 63831 | [63831-pro-foosball.json](./63831-pro-foosball.json) |
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
 | Pro Football Agent | 269972 | [269972-pro-football-agent.json](./269972-pro-football-agent.json) |
+| Pro Football Dynasty | 429341 | [429341-pro-football-dynasty.json](./429341-pro-football-dynasty.json) |
 | Pro Football Online | 388173 | [388173-pro-football-online.json](./388173-pro-football-online.json) |
 | Pro Gamer Manager | 34320 | [34320-pro-gamer-manager.json](./34320-pro-gamer-manager.json) |
 | Pro Gamer Manager 2 | 55581 | [55581-pro-gamer-manager-2.json](./55581-pro-gamer-manager-2.json) |
@@ -17853,6 +17855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project M | 382401 | [382401-project-m.json](./382401-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project M EX Remix: Dr. Wario Moveset | 330999 | [330999-project-m-ex-remix-dr-wario-moveset.json](./330999-project-m-ex-remix-dr-wario-moveset.json) |
+| Project M.E.D.S. | 429352 | [429352-project-m-e-d-s.json](./429352-project-m-e-d-s.json) |
 | Project MA | 317422 | [317422-project-ma.json](./317422-project-ma.json) |
 | Project Madison | 183242 | [183242-project-madison.json](./183242-project-madison.json) |
 | Project Madness | 308134 | [308134-project-madness.json](./308134-project-madness.json) |
