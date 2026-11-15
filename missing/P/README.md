@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.I.S. File | 404533 | [404533-p-i-s-file.json](./404533-p-i-s-file.json) |
 | P.J. Pride Pet Detective, Destination: Europe | 209382 | [209382-p-j-pride-pet-detective-destination-europe.json](./209382-p-j-pride-pet-detective-destination-europe.json) |
+| P.J. Pride: Pet Detective | 53441 | [53441-p-j-pride-pet-detective.json](./53441-p-j-pride-pet-detective.json) |
 | P.M.P. Project Murder Party | 176911 | [176911-p-m-p-project-murder-party.json](./176911-p-m-p-project-murder-party.json) |
 | P.N.03 | 4060 | [4060-p-n-03.json](./4060-p-n-03.json) |
 | P.O.D | 399853 | [399853-p-o-d.json](./399853-p-o-d.json) |
@@ -229,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Battle Royale Chompionship | 327012 | [327012-pac-man-battle-royale-chompionship.json](./327012-pac-man-battle-royale-chompionship.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Championship Edition 2 Plus | 85323 | [85323-pac-man-championship-edition-2-plus.json](./85323-pac-man-championship-edition-2-plus.json) |
+| Pac-Man Championship Edition DX: All You Can Eat Edition | 53442 | [53442-pac-man-championship-edition-dx-all-you-can-eat-edition.json](./53442-pac-man-championship-edition-dx-all-you-can-eat-edition.json) |
 | Pac-Man Chomp Mania | 126049 | [126049-pac-man-chomp-mania.json](./126049-pac-man-chomp-mania.json) |
 | Pac-Man Collection | 219433 | [219433-pac-man-collection.json](./219433-pac-man-collection.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
@@ -700,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Page Chronica | 64462 | [64462-page-chronica.json](./64462-page-chronica.json) |
 | Page One | 161595 | [161595-page-one.json](./161595-page-one.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
+| Pageant Princess | 53443 | [53443-pageant-princess.json](./53443-pageant-princess.json) |
 | Pages of Time | 340879 | [340879-pages-of-time.json](./340879-pages-of-time.json) |
 | Pages of Tomorrow | 422834 | [422834-pages-of-tomorrow.json](./422834-pages-of-tomorrow.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
@@ -753,6 +756,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller Universe | 54261 | [54261-painkiller-universe.json](./54261-painkiller-universe.json) |
 | Painkiller: Black Edition | 14805 | [14805-painkiller-black-edition.json](./14805-painkiller-black-edition.json) |
 | Painkiller: Hell & Damnation | 1789 | [1789-painkiller-hell-and-damnation.json](./1789-painkiller-hell-and-damnation.json) |
+| Painkiller: Hell & Damnation - City Critters | 53444 | [53444-painkiller-hell-and-damnation-city-critters.json](./53444-painkiller-hell-and-damnation-city-critters.json) |
+| Painkiller: Hell & Damnation - Demonic Vacation at the Blood Sea | 53445 | [53445-painkiller-hell-and-damnation-demonic-vacation-at-the-blood-sea.json](./53445-painkiller-hell-and-damnation-demonic-vacation-at-the-blood-sea.json) |
+| Painkiller: Hell & Damnation - Full Metal Rocket | 53447 | [53447-painkiller-hell-and-damnation-full-metal-rocket.json](./53447-painkiller-hell-and-damnation-full-metal-rocket.json) |
+| Painkiller: Hell & Damnation - Heaven's Above | 53446 | [53446-painkiller-hell-and-damnation-heavens-above.json](./53446-painkiller-hell-and-damnation-heavens-above.json) |
+| Painkiller: Hell & Damnation - Operation Zombie Bunker | 53448 | [53448-painkiller-hell-and-damnation-operation-zombie-bunker.json](./53448-painkiller-hell-and-damnation-operation-zombie-bunker.json) |
 | Painkiller: Hell & Damnation: Collector's Edition | 25046 | [25046-painkiller-hell-and-damnation-collectors-edition.json](./25046-painkiller-hell-and-damnation-collectors-edition.json) |
 | Painkiller: Hell Wars | 20755 | [20755-painkiller-hell-wars.json](./20755-painkiller-hell-wars.json) |
 | Painkiller: Night Watch Pack | 374737 | [374737-painkiller-night-watch-pack.json](./374737-painkiller-night-watch-pack.json) |
@@ -1613,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Frontlines - Westwall | 361176 | [361176-panzer-corps-2-frontlines-westwall.json](./361176-panzer-corps-2-frontlines-westwall.json) |
 | Panzer Corps 2: Pacific | 167954 | [167954-panzer-corps-2-pacific.json](./167954-panzer-corps-2-pacific.json) |
 | Panzer Corps 2: War Stories - Fall of Poland | 312303 | [312303-panzer-corps-2-war-stories-fall-of-poland.json](./312303-panzer-corps-2-war-stories-fall-of-poland.json) |
+| Panzer Corps Gold | 53450 | [53450-panzer-corps-gold.json](./53450-panzer-corps-gold.json) |
 | Panzer Corps: Afrika Korps | 64281 | [64281-panzer-corps-afrika-korps.json](./64281-panzer-corps-afrika-korps.json) |
 | Panzer Corps: Allied Corps | 124793 | [124793-panzer-corps-allied-corps.json](./124793-panzer-corps-allied-corps.json) |
 | Panzer Corps: Grand Campaign - '39 | 167957 | [167957-panzer-corps-grand-campaign-39.json](./167957-panzer-corps-grand-campaign-39.json) |
@@ -1643,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Elite | 46994 | [46994-panzer-elite.json](./46994-panzer-elite.json) |
 | Panzer Elite Action: Dunes of War | 79025 | [79025-panzer-elite-action-dunes-of-war.json](./79025-panzer-elite-action-dunes-of-war.json) |
 | Panzer Elite Action: Fields of Glory | 5978 | [5978-panzer-elite-action-fields-of-glory.json](./5978-panzer-elite-action-fields-of-glory.json) |
+| Panzer Elite Action: Gold Edition | 53451 | [53451-panzer-elite-action-gold-edition.json](./53451-panzer-elite-action-gold-edition.json) |
 | Panzer Elite: Special Edition | 51857 | [51857-panzer-elite-special-edition.json](./51857-panzer-elite-special-edition.json) |
 | Panzer Front | 22008 | [22008-panzer-front.json](./22008-panzer-front.json) |
 | Panzer Front Ausf.B | 22571 | [22571-panzer-front-ausf-b.json](./22571-panzer-front-ausf-b.json) |
@@ -2261,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Error | 152161 | [152161-paradox-error.json](./152161-paradox-error.json) |
 | Paradox Escape Route | 125732 | [125732-paradox-escape-route.json](./125732-paradox-escape-route.json) |
 | Paradox Factor | 197059 | [197059-paradox-factor.json](./197059-paradox-factor.json) |
+| Paradox Grand Strategy Collection | 53452 | [53452-paradox-grand-strategy-collection.json](./53452-paradox-grand-strategy-collection.json) |
 | Paradox Guardians | 277361 | [277361-paradox-guardians.json](./277361-paradox-guardians.json) |
 | Paradox in the mirror | 170678 | [170678-paradox-in-the-mirror.json](./170678-paradox-in-the-mirror.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
@@ -2954,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Hard Go | 90046 | [90046-party-hard-go.json](./90046-party-hard-go.json) |
 | Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
 | Party Hard Tycoon | 23180 | [23180-party-hard-tycoon.json](./23180-party-hard-tycoon.json) |
+| Party Hard: Collector's Edition | 53453 | [53453-party-hard-collectors-edition.json](./53453-party-hard-collectors-edition.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Harvest | 365751 | [365751-party-harvest.json](./365751-party-harvest.json) |
 | Party Host 85 | 153009 | [153009-party-host-85.json](./153009-party-host-85.json) |
@@ -3536,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrician II: Quest for Power | 7409 | [7409-patrician-ii-quest-for-power.json](./7409-patrician-ii-quest-for-power.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
 | Patrician IV | 7506 | [7506-patrician-iv.json](./7506-patrician-iv.json) |
+| Patrician IV: Gold Edition | 53454 | [53454-patrician-iv-gold-edition.json](./53454-patrician-iv-gold-edition.json) |
 | Patrician IV: Rise of a Dynasty | 10689 | [10689-patrician-iv-rise-of-a-dynasty.json](./10689-patrician-iv-rise-of-a-dynasty.json) |
 | Patrician IV: Steam Special Edition | 90478 | [90478-patrician-iv-steam-special-edition.json](./90478-patrician-iv-steam-special-edition.json) |
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
@@ -4127,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak | 360757 | [360757-peak.json](./360757-peak.json) |
 | Peak Angle | 80729 | [80729-peak-angle.json](./80729-peak-angle.json) |
 | Peak Angle: Drift Online | 30815 | [30815-peak-angle-drift-online.json](./30815-peak-angle-drift-online.json) |
+| Peak Angle: Drift Online - Deluxe Edition | 53456 | [53456-peak-angle-drift-online-deluxe-edition.json](./53456-peak-angle-drift-online-deluxe-edition.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
 | Peak Bleak Blues (And Other Moods) | 120657 | [120657-peak-bleak-blues-and-other-moods.json](./120657-peak-bleak-blues-and-other-moods.json) |
 | Peak Climb | 372041 | [372041-peak-climb.json](./372041-peak-climb.json) |
