@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Crown of the Sunken King | 19924 | [19924-dark-souls-ii-crown-of-the-sunken-king.json](./19924-dark-souls-ii-crown-of-the-sunken-king.json) |
 | Dark Souls II: Seeker of Fire | 238899 | [238899-dark-souls-ii-seeker-of-fire.json](./238899-dark-souls-ii-seeker-of-fire.json) |
 | Dark Souls II: Webhallen Edition | 42996 | [42996-dark-souls-ii-webhallen-edition.json](./42996-dark-souls-ii-webhallen-edition.json) |
+| Dark Souls III: Apocalypse Edition | 41637 | [41637-dark-souls-iii-apocalypse-edition.json](./41637-dark-souls-iii-apocalypse-edition.json) |
 | Dark Souls III: Ashes of Ariandel | 23158 | [23158-dark-souls-iii-ashes-of-ariandel.json](./23158-dark-souls-iii-ashes-of-ariandel.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
 | Dark Souls III: Collector's Edition | 42941 | [42941-dark-souls-iii-collectors-edition.json](./42941-dark-souls-iii-collectors-edition.json) |
@@ -7188,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Engines | 148728 | [148728-demon-engines.json](./148728-demon-engines.json) |
 | Demon Escape: Shadow Realm | 119946 | [119946-demon-escape-shadow-realm.json](./119946-demon-escape-shadow-realm.json) |
 | Demon Eye | 391666 | [391666-demon-eye.json](./391666-demon-eye.json) |
+| Demon Front | 41074 | [41074-demon-front.json](./41074-demon-front.json) |
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
 | Demon Gaze Extra: Digital Deluxe Edition | 199816 | [199816-demon-gaze-extra-digital-deluxe-edition.json](./199816-demon-gaze-extra-digital-deluxe-edition.json) |
@@ -8929,9 +8931,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Malkavian Mod | 275623 | [275623-deus-ex-malkavian-mod.json](./275623-deus-ex-malkavian-mod.json) |
 | Deus Ex: Mankind Divided - A Criminal Past | 26929 | [26929-deus-ex-mankind-divided-a-criminal-past.json](./26929-deus-ex-mankind-divided-a-criminal-past.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
+| Deus Ex: Mankind Divided - Collectors Edition | 41645 | [41645-deus-ex-mankind-divided-collectors-edition.json](./41645-deus-ex-mankind-divided-collectors-edition.json) |
 | Deus Ex: Mankind Divided - Day One Edition | 46024 | [46024-deus-ex-mankind-divided-day-one-edition.json](./46024-deus-ex-mankind-divided-day-one-edition.json) |
 | Deus Ex: Mankind Divided - Desperate Measures | 229860 | [229860-deus-ex-mankind-divided-desperate-measures.json](./229860-deus-ex-mankind-divided-desperate-measures.json) |
 | Deus Ex: Mankind Divided - Digital Deluxe Edition | 164802 | [164802-deus-ex-mankind-divided-digital-deluxe-edition.json](./164802-deus-ex-mankind-divided-digital-deluxe-edition.json) |
+| Deus Ex: Mankind Divided - Steelbook Edition | 41644 | [41644-deus-ex-mankind-divided-steelbook-edition.json](./41644-deus-ex-mankind-divided-steelbook-edition.json) |
 | Deus Ex: Mankind Divided - System Rift | 24465 | [24465-deus-ex-mankind-divided-system-rift.json](./24465-deus-ex-mankind-divided-system-rift.json) |
 | Deus Ex: Mankind Divided - Tactical Pack | 374696 | [374696-deus-ex-mankind-divided-tactical-pack.json](./374696-deus-ex-mankind-divided-tactical-pack.json) |
 | Deus Ex: Nihilum | 213128 | [213128-deus-ex-nihilum.json](./213128-deus-ex-nihilum.json) |
@@ -16413,6 +16417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
+| Dragon Ball Xenoverse: Trunk's Travel Edition | 41641 | [41641-dragon-ball-xenoverse-trunks-travel-edition.json](./41641-dragon-ball-xenoverse-trunks-travel-edition.json) |
 | Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
 | Dragon Ball Z | 2560 | [2560-dragon-ball-z.json](./2560-dragon-ball-z.json) |
 | Dragon Ball Z 2 V | 2565 | [2565-dragon-ball-z-2-v.json](./2565-dragon-ball-z-2-v.json) |
@@ -20758,6 +20763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Bundle | 242666 | [242666-dungeons-and-dragons-bundle.json](./242666-dungeons-and-dragons-bundle.json) |
 | Dungeons & Dragons Collection | 22831 | [22831-dungeons-and-dragons-collection.json](./22831-dungeons-and-dragons-collection.json) |
 | Dungeons & Dragons Computer Fantasy Game | 305446 | [305446-dungeons-and-dragons-computer-fantasy-game.json](./305446-dungeons-and-dragons-computer-fantasy-game.json) |
+| Dungeons & Dragons Computer Fantasy Game | 41426 | [41426-dungeons-and-dragons-computer-fantasy-game.json](./41426-dungeons-and-dragons-computer-fantasy-game.json) |
 | Dungeons & Dragons Fantasy Empires | 50454 | [50454-dungeons-and-dragons-fantasy-empires.json](./50454-dungeons-and-dragons-fantasy-empires.json) |
 | Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition | 348267 | [348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json](./348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
@@ -21582,6 +21588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Blast | 236630 | [236630-dynamite-blast.json](./236630-dynamite-blast.json) |
 | Dynamite Blue | 416795 | [416795-dynamite-blue.json](./416795-dynamite-blue.json) |
 | Dynamite Bomber | 266879 | [266879-dynamite-bomber.json](./266879-dynamite-bomber.json) |
+| Dynamite Bowl | 41661 | [41661-dynamite-bowl.json](./41661-dynamite-bowl.json) |
 | Dynamite Bunny | 96129 | [96129-dynamite-bunny.json](./96129-dynamite-bunny.json) |
 | Dynamite Cop | 36737 | [36737-dynamite-cop.json](./36737-dynamite-cop.json) |
 | Dynamite Dan | 13616 | [13616-dynamite-dan.json](./13616-dynamite-dan.json) |
