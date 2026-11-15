@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
 | Magicolors | 121489 | [121489-magicolors.json](./121489-magicolors.json) |
 | Magicore Anomala | 386825 | [386825-magicore-anomala.json](./386825-magicore-anomala.json) |
+| MagicPaintBrush | 56707 | [56707-magicpaintbrush.json](./56707-magicpaintbrush.json) |
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | Magicsea Online | 349787 | [349787-magicsea-online.json](./349787-magicsea-online.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
@@ -13121,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Militaristic Rain of Terror | 188461 | [188461-militaristic-rain-of-terror.json](./188461-militaristic-rain-of-terror.json) |
 | Military | 129942 | [129942-military.json](./129942-military.json) |
 | Military Action Pack Volume 1 | 80786 | [80786-military-action-pack-volume-1.json](./80786-military-action-pack-volume-1.json) |
+| Military Aircraft | 56664 | [56664-military-aircraft.json](./56664-military-aircraft.json) |
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Battlefield: Enlisted | 404361 | [404361-military-battlefield-enlisted.json](./404361-military-battlefield-enlisted.json) |
@@ -14065,6 +14067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
 | Miner Ultra Adventures 2: Illuminati Trail | 211884 | [211884-miner-ultra-adventures-2-illuminati-trail.json](./211884-miner-ultra-adventures-2-illuminati-trail.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
+| Miner Ultra Shooter | 56662 | [56662-miner-ultra-shooter.json](./56662-miner-ultra-shooter.json) |
 | Miner Ultra Wild Tides | 106494 | [106494-miner-ultra-wild-tides.json](./106494-miner-ultra-wild-tides.json) |
 | Miner Vidis | 305681 | [305681-miner-vidis.json](./305681-miner-vidis.json) |
 | Miner Warfare | 35667 | [35667-miner-warfare.json](./35667-miner-warfare.json) |
@@ -23984,6 +23987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
 | Myeong Wol | 125894 | [125894-myeong-wol.json](./125894-myeong-wol.json) |
 | Myether | 184888 | [184888-myether.json](./184888-myether.json) |
+| MyFactory | 56673 | [56673-myfactory.json](./56673-myfactory.json) |
 | myFishtank | 77583 | [77583-myfishtank.json](./77583-myfishtank.json) |
 | MyFloppy Online! | 203497 | [203497-myfloppy-online.json](./203497-myfloppy-online.json) |
 | MyFreeZoo Mobile | 400619 | [400619-myfreezoo-mobile.json](./400619-myfreezoo-mobile.json) |
