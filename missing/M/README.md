@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross Trial Frontier | 65536 | [65536-macross-trial-frontier.json](./65536-macross-trial-frontier.json) |
 | Macross Triangle Frontier | 66240 | [66240-macross-triangle-frontier.json](./66240-macross-triangle-frontier.json) |
 | Macross Ultimate Frontier | 68013 | [68013-macross-ultimate-frontier.json](./68013-macross-ultimate-frontier.json) |
+| Macross VF-X 2 | 44791 | [44791-macross-vf-x-2.json](./44791-macross-vf-x-2.json) |
 | Macross: Last Frontier | 65467 | [65467-macross-last-frontier.json](./65467-macross-last-frontier.json) |
 | Macross: Shooting Insight | 230620 | [230620-macross-shooting-insight.json](./230620-macross-shooting-insight.json) |
 | Macross: Space Fight | 385323 | [385323-macross-space-fight.json](./385323-macross-space-fight.json) |
@@ -1648,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
 | Magical Drop CPC | 170778 | [170778-magical-drop-cpc.json](./170778-magical-drop-cpc.json) |
+| Magical Drop F: Daibouken Mo Raku Janai! | 44790 | [44790-magical-drop-f-daibouken-mo-raku-janai.json](./44790-magical-drop-f-daibouken-mo-raku-janai.json) |
 | Magical Drop for WonderSwan | 37573 | [37573-magical-drop-for-wonderswan.json](./37573-magical-drop-for-wonderswan.json) |
 | Magical Drop II | 39348 | [39348-magical-drop-ii.json](./39348-magical-drop-ii.json) |
 | Magical Drop III | 39347 | [39347-magical-drop-iii.json](./39347-magical-drop-iii.json) |
@@ -20803,6 +20805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
 | Mr. Driller 2 | 49260 | [49260-mr-driller-2.json](./49260-mr-driller-2.json) |
 | Mr. Driller A: Fushigi na Pacteria | 92644 | [92644-mr-driller-a-fushigi-na-pacteria.json](./92644-mr-driller-a-fushigi-na-pacteria.json) |
+| Mr. Driller G | 44788 | [44788-mr-driller-g.json](./44788-mr-driller-g.json) |
 | Mr. Driller Online | 21356 | [21356-mr-driller-online.json](./21356-mr-driller-online.json) |
 | Mr. Driller W | 50991 | [50991-mr-driller-w.json](./50991-mr-driller-w.json) |
 | Mr. Driller: Drill Land | 4021 | [4021-mr-driller-drill-land.json](./4021-mr-driller-drill-land.json) |
