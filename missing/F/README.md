@@ -6799,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebowl | 268304 | [268304-firebowl.json](./268304-firebowl.json) |
 | Firebox | 177770 | [177770-firebox.json](./177770-firebox.json) |
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
+| Fireboy & Watergirl 2: The Light Temple | 122937 | [122937-fireboy-and-watergirl-2-the-light-temple.json](./122937-fireboy-and-watergirl-2-the-light-temple.json) |
 | Fireboy & Watergirl 3: The Ice Temple | 122938 | [122938-fireboy-and-watergirl-3-the-ice-temple.json](./122938-fireboy-and-watergirl-3-the-ice-temple.json) |
 | Fireboy & Watergirl 4: The Crystal Temple | 122936 | [122936-fireboy-and-watergirl-4-the-crystal-temple.json](./122936-fireboy-and-watergirl-4-the-crystal-temple.json) |
 | Fireboy & Watergirl and Friends | 402120 | [402120-fireboy-and-watergirl-and-friends.json](./402120-fireboy-and-watergirl-and-friends.json) |
