@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Trace | 243849 | [243849-tank-trace.json](./243849-tank-trace.json) |
 | Tank Trax | 73064 | [73064-tank-trax.json](./73064-tank-trax.json) |
 | Tank Tread | 31584 | [31584-tank-tread.json](./31584-tank-tread.json) |
+| Tank Troopers | 27388 | [27388-tank-troopers.json](./27388-tank-troopers.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
 | Tank Universal | 9455 | [9455-tank-universal.json](./9455-tank-universal.json) |
@@ -6052,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
 | The Academy of the Cosmic Realm | 385421 | [385421-the-academy-of-the-cosmic-realm.json](./385421-the-academy-of-the-cosmic-realm.json) |
 | The Academy: Love Potions | 112282 | [112282-the-academy-love-potions.json](./112282-the-academy-love-potions.json) |
+| The Academy: The First Riddle | 143718 | [143718-the-academy-the-first-riddle.json](./143718-the-academy-the-first-riddle.json) |
 | The Accursed Crown | 213221 | [213221-the-accursed-crown.json](./213221-the-accursed-crown.json) |
 | The Accursed Crown of the Giant King | 207077 | [207077-the-accursed-crown-of-the-giant-king.json](./207077-the-accursed-crown-of-the-giant-king.json) |
 | The Accursed Crown of the Giant King: Chapter 2 - The Duchy of Despair | 207774 | [207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json](./207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json) |
@@ -6340,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Akupara Classics Bundle | 223737 | [223737-the-akupara-classics-bundle.json](./223737-the-akupara-classics-bundle.json) |
 | The Alabaster Donut Farm | 134887 | [134887-the-alabaster-donut-farm.json](./134887-the-alabaster-donut-farm.json) |
 | The Albatross | 29728 | [29728-the-albatross.json](./29728-the-albatross.json) |
+| The Albino Hunter | 26717 | [26717-the-albino-hunter.json](./26717-the-albino-hunter.json) |
 | The Albino Hunter: Revamp | 392411 | [392411-the-albino-hunter-revamp.json](./392411-the-albino-hunter-revamp.json) |
 | The Alchemist | 178474 | [178474-the-alchemist.json](./178474-the-alchemist.json) |
 | The Alchemist | 182756 | [182756-the-alchemist.json](./182756-the-alchemist.json) |
@@ -16765,6 +16768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plague | 310978 | [310978-the-plague.json](./310978-the-plague.json) |
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
 | The Plan | 11764 | [11764-the-plan.json](./11764-the-plan.json) |
+| The Plane Effect | 143100 | [143100-the-plane-effect.json](./143100-the-plane-effect.json) |
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Planet Crafter: Toxicity | 373883 | [373883-the-planet-crafter-toxicity.json](./373883-the-planet-crafter-toxicity.json) |
@@ -17715,6 +17719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Romance: Book 1 | 313668 | [313668-the-royal-romance-book-1.json](./313668-the-royal-romance-book-1.json) |
 | The Royal Romance: Book 2 | 313669 | [313669-the-royal-romance-book-2.json](./313669-the-royal-romance-book-2.json) |
 | The Royal Romance: Book 3 | 313670 | [313670-the-royal-romance-book-3.json](./313670-the-royal-romance-book-3.json) |
+| The Royal Trap: The Confines of the Crown | 27098 | [27098-the-royal-trap-the-confines-of-the-crown.json](./27098-the-royal-trap-the-confines-of-the-crown.json) |
 | The Royal Writ | 340830 | [340830-the-royal-writ.json](./340830-the-royal-writ.json) |
 | The RPG | 250819 | [250819-the-rpg.json](./250819-the-rpg.json) |
 | The RPG Engine | 368385 | [368385-the-rpg-engine.json](./368385-the-rpg-engine.json) |
@@ -18028,6 +18033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Weepstone | 360921 | [360921-the-secret-of-weepstone.json](./360921-the-secret-of-weepstone.json) |
 | The Secret of Whispering | 320210 | [320210-the-secret-of-whispering.json](./320210-the-secret-of-whispering.json) |
 | The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
+| The Secret Order 2: Masked Intent | 26647 | [26647-the-secret-order-2-masked-intent.json](./26647-the-secret-order-2-masked-intent.json) |
 | The Secret Order 3: Ancient Times | 33639 | [33639-the-secret-order-3-ancient-times.json](./33639-the-secret-order-3-ancient-times.json) |
 | The Secret Order 4: Beyond Time | 31586 | [31586-the-secret-order-4-beyond-time.json](./31586-the-secret-order-4-beyond-time.json) |
 | The Secret Order 4: Beyond Time - Collector's Edition | 416241 | [416241-the-secret-order-4-beyond-time-collectors-edition.json](./416241-the-secret-order-4-beyond-time-collectors-edition.json) |
@@ -22316,6 +22322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think It Up | 235430 | [235430-think-it-up.json](./235430-think-it-up.json) |
 | Think Like a Block | 379709 | [379709-think-like-a-block.json](./379709-think-like-a-block.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
+| Think of the Children | 27059 | [27059-think-of-the-children.json](./27059-think-of-the-children.json) |
 | Think or Die Collection Pack | 312097 | [312097-think-or-die-collection-pack.json](./312097-think-or-die-collection-pack.json) |
 | Think Quick! | 69222 | [69222-think-quick.json](./69222-think-quick.json) |
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
@@ -25706,6 +25713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
 | Time Management | 366301 | [366301-time-management.json](./366301-time-management.json) |
+| Time Master | 142008 | [142008-time-master.json](./142008-time-master.json) |
 | Time Mysteries 3: The Final Enigma | 17764 | [17764-time-mysteries-3-the-final-enigma.json](./17764-time-mysteries-3-the-final-enigma.json) |
 | Time Mysteries 3: The Final Enigma - Collector's Edition | 416215 | [416215-time-mysteries-3-the-final-enigma-collectors-edition.json](./416215-time-mysteries-3-the-final-enigma-collectors-edition.json) |
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
@@ -28954,6 +28962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormentis | 190320 | [190320-tormentis.json](./190320-tormentis.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor | 243325 | [243325-tormentor.json](./243325-tormentor.json) |
+| Tormentor X Punisher | 27319 | [27319-tormentor-x-punisher.json](./27319-tormentor-x-punisher.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
 | Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
 | Tormentum II | 111364 | [111364-tormentum-ii.json](./111364-tormentum-ii.json) |
@@ -29633,6 +29642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Diablo: Treasure Hunter G | 191487 | [191487-touhou-diablo-treasure-hunter-g.json](./191487-touhou-diablo-treasure-hunter-g.json) |
 | Touhou DollDraft | 164598 | [164598-touhou-dolldraft.json](./164598-touhou-dolldraft.json) |
 | Touhou Doom: Hell on Gensokyo | 148193 | [148193-touhou-doom-hell-on-gensokyo.json](./148193-touhou-doom-hell-on-gensokyo.json) |
+| Touhou Double Focus | 26568 | [26568-touhou-double-focus.json](./26568-touhou-double-focus.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
 | Touhou Dream Duel | 347095 | [347095-touhou-dream-duel.json](./347095-touhou-dream-duel.json) |
 | Touhou Dream Runner | 259437 | [259437-touhou-dream-runner.json](./259437-touhou-dream-runner.json) |
