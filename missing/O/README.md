@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Grid | 96266 | [96266-off-grid.json](./96266-off-grid.json) |
 | Off Grids | 272255 | [272255-off-grids.json](./272255-off-grids.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
+| Off Road Challenge | 3567 | [3567-off-road-challenge.json](./3567-off-road-challenge.json) |
 | Off Road Racing | 367305 | [367305-off-road-racing.json](./367305-off-road-racing.json) |
 | Off Road Rumble | 90344 | [90344-off-road-rumble.json](./90344-off-road-rumble.json) |
 | Off Road Stars | 372693 | [372693-off-road-stars.json](./372693-off-road-stars.json) |
