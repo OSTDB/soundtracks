@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoromatic: Moetto! Kira Kira Maid-san | 72579 | [72579-mahoromatic-moetto-kira-kira-maid-san.json](./72579-mahoromatic-moetto-kira-kira-maid-san.json) |
 | Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
 | Mahou City | 268524 | [268524-mahou-city.json](./268524-mahou-city.json) |
+| Mahou Gakuen Lunar! | 13906 | [13906-mahou-gakuen-lunar.json](./13906-mahou-gakuen-lunar.json) |
 | Mahou Kishi Rayearth 2nd: The Missing Colors | 105046 | [105046-mahou-kishi-rayearth-2nd-the-missing-colors.json](./105046-mahou-kishi-rayearth-2nd-the-missing-colors.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
 | Mahou no Kuni no Cake-ya-san Monogatari | 287265 | [287265-mahou-no-kuni-no-cake-ya-san-monogatari.json](./287265-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
