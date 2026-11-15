@@ -3920,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden 2 | 1414 | [1414-battle-arena-toshinden-2.json](./1414-battle-arena-toshinden-2.json) |
 | Battle Arena Toshinden 2 Plus | 225276 | [225276-battle-arena-toshinden-2-plus.json](./225276-battle-arena-toshinden-2-plus.json) |
 | Battle Arena Toshinden 3 | 1415 | [1415-battle-arena-toshinden-3.json](./1415-battle-arena-toshinden-3.json) |
+| Battle Arena Toshinden Remix | 45494 | [45494-battle-arena-toshinden-remix.json](./45494-battle-arena-toshinden-remix.json) |
 | Battle Arena Toshinden URA: Ultimate Revenge Attack | 77987 | [77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json](./77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json) |
 | Battle Arena VR | 172302 | [172302-battle-arena-vr.json](./172302-battle-arena-vr.json) |
 | Battle Arena: Euro Wars | 110620 | [110620-battle-arena-euro-wars.json](./110620-battle-arena-euro-wars.json) |
@@ -16842,6 +16843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Point | 257351 | [257351-break-point.json](./257351-break-point.json) |
 | Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
 | Break Point | 94456 | [94456-break-point.json](./94456-break-point.json) |
+| Break Point Tennis | 45493 | [45493-break-point-tennis.json](./45493-break-point-tennis.json) |
 | Break Point: Brace & Breach | 405567 | [405567-break-point-brace-and-breach.json](./405567-break-point-brace-and-breach.json) |
 | Break Protocol | 384490 | [384490-break-protocol.json](./384490-break-protocol.json) |
 | Break Robots VR | 190308 | [190308-break-robots-vr.json](./190308-break-robots-vr.json) |
