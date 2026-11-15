@@ -8565,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
 | Destroy | 328290 | [328290-destroy.json](./328290-destroy.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
+| Destroy All Humans! | 119257 | [119257-destroy-all-humans.json](./119257-destroy-all-humans.json) |
 | Destroy All Humans! | 215448 | [215448-destroy-all-humans.json](./215448-destroy-all-humans.json) |
 | Destroy All Humans! | 2651 | [2651-destroy-all-humans.json](./2651-destroy-all-humans.json) |
 | Destroy All Humans! 2 | 215449 | [215449-destroy-all-humans-2.json](./215449-destroy-all-humans-2.json) |
@@ -11929,6 +11930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Chicken Little: Ace in Action | 20627 | [20627-disneys-chicken-little-ace-in-action.json](./20627-disneys-chicken-little-ace-in-action.json) |
 | Disney's Chip 'n Dale Rescue Rangers | 198717 | [198717-disneys-chip-n-dale-rescue-rangers.json](./198717-disneys-chip-n-dale-rescue-rangers.json) |
 | Disney's Chip 'n Dale Rescue Rangers | 6490 | [6490-disneys-chip-n-dale-rescue-rangers.json](./6490-disneys-chip-n-dale-rescue-rangers.json) |
+| Disney's Chip 'n Dale Rescue Rangers 2 | 6518 | [6518-disneys-chip-n-dale-rescue-rangers-2.json](./6518-disneys-chip-n-dale-rescue-rangers-2.json) |
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Classic Games | 205612 | [205612-disneys-classic-games.json](./205612-disneys-classic-games.json) |
@@ -20278,6 +20280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Deck | 293525 | [293525-dungeon-deck.json](./293525-dungeon-deck.json) |
 | Dungeon Defence Simulator 2024 | 280606 | [280606-dungeon-defence-simulator-2024.json](./280606-dungeon-defence-simulator-2024.json) |
 | Dungeon Defender | 394105 | [394105-dungeon-defender.json](./394105-dungeon-defender.json) |
+| Dungeon Defenders | 3043 | [3043-dungeon-defenders.json](./3043-dungeon-defenders.json) |
 | Dungeon Defenders Eternity | 17417 | [17417-dungeon-defenders-eternity.json](./17417-dungeon-defenders-eternity.json) |
 | Dungeon Defenders II | 3202 | [3202-dungeon-defenders-ii.json](./3202-dungeon-defenders-ii.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
@@ -21566,6 +21569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: The Beast - Fire Lotus Weapon Pack | 406281 | [406281-dying-light-the-beast-fire-lotus-weapon-pack.json](./406281-dying-light-the-beast-fire-lotus-weapon-pack.json) |
 | Dying Light: The Beast - Hero of Harran Bundle | 406276 | [406276-dying-light-the-beast-hero-of-harran-bundle.json](./406276-dying-light-the-beast-hero-of-harran-bundle.json) |
 | Dying Light: The Beast - Hunter Essentials | 406278 | [406278-dying-light-the-beast-hunter-essentials.json](./406278-dying-light-the-beast-hunter-essentials.json) |
+| Dying Light: The Following | 15445 | [15445-dying-light-the-following.json](./15445-dying-light-the-following.json) |
 | Dying Light: The Following - Astronaut Bundle | 169250 | [169250-dying-light-the-following-astronaut-bundle.json](./169250-dying-light-the-following-astronaut-bundle.json) |
 | Dying Light: The Following - Enhanced Edition | 21762 | [21762-dying-light-the-following-enhanced-edition.json](./21762-dying-light-the-following-enhanced-edition.json) |
 | Dying Light: The Following - Gun Psycho Bundle | 51768 | [51768-dying-light-the-following-gun-psycho-bundle.json](./51768-dying-light-the-following-gun-psycho-bundle.json) |
