@@ -13063,6 +13063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Tear | 30308 | [30308-blue-tear.json](./30308-blue-tear.json) |
 | Blue the Dino | 21980 | [21980-blue-the-dino.json](./21980-blue-the-dino.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
+| Blue Thunder | 64587 | [64587-blue-thunder.json](./64587-blue-thunder.json) |
 | Blue Time | 128306 | [128306-blue-time.json](./128306-blue-time.json) |
 | Blue Toad Murder Files | 22970 | [22970-blue-toad-murder-files.json](./22970-blue-toad-murder-files.json) |
 | Blue Toad Murder Files: The Mysteries of Little Riddle | 18790 | [18790-blue-toad-murder-files-the-mysteries-of-little-riddle.json](./18790-blue-toad-murder-files-the-mysteries-of-little-riddle.json) |
@@ -13827,6 +13828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bowling 2 | 124189 | [124189-bomb-bowling-2.json](./124189-bomb-bowling-2.json) |
 | Bomb Bowling X | 331461 | [331461-bomb-bowling-x.json](./331461-bomb-bowling-x.json) |
 | Bomb Buddies | 249356 | [249356-bomb-buddies.json](./249356-bomb-buddies.json) |
+| Bomb Buddies | 64576 | [64576-bomb-buddies.json](./64576-bomb-buddies.json) |
 | Bomb Cat | 300776 | [300776-bomb-cat.json](./300776-bomb-cat.json) |
 | Bomb Cat: Wild Cat Mode | 303872 | [303872-bomb-cat-wild-cat-mode.json](./303872-bomb-cat-wild-cat-mode.json) |
 | Bomb Club | 175194 | [175194-bomb-club.json](./175194-bomb-club.json) |
