@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calico Wilder and the Crystal Blade | 416553 | [416553-calico-wilder-and-the-crystal-blade.json](./416553-calico-wilder-and-the-crystal-blade.json) |
 | Calico: Neat Things | 330568 | [330568-calico-neat-things.json](./330568-calico-neat-things.json) |
 | California Escapades | 311542 | [311542-california-escapades.json](./311542-california-escapades.json) |
+| California Games | 11984 | [11984-california-games.json](./11984-california-games.json) |
 | California Games | 154872 | [154872-california-games.json](./154872-california-games.json) |
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
 | California Games | 263877 | [263877-california-games.json](./263877-california-games.json) |
@@ -16043,6 +16044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook-Out: A Sandwich Tale | 138392 | [138392-cook-out-a-sandwich-tale.json](./138392-cook-out-a-sandwich-tale.json) |
 | Cook, Serve, Delicious, Trilogy! | 278655 | [278655-cook-serve-delicious-trilogy.json](./278655-cook-serve-delicious-trilogy.json) |
 | Cook, Serve, Delicious: Remustard! | 259216 | [259216-cook-serve-delicious-remustard.json](./259216-cook-serve-delicious-remustard.json) |
+| Cook, Serve, Delicious! | 11238 | [11238-cook-serve-delicious.json](./11238-cook-serve-delicious.json) |
 | Cook, Serve, Delicious! 1/2 Bundle!! | 301202 | [301202-cook-serve-delicious-1-2-bundle.json](./301202-cook-serve-delicious-1-2-bundle.json) |
 | Cook, Serve, Delicious! 2!! | 23236 | [23236-cook-serve-delicious-2.json](./23236-cook-serve-delicious-2.json) |
 | Cook, Serve, Delicious! 2/3 Bundle!! | 164618 | [164618-cook-serve-delicious-2-3-bundle.json](./164618-cook-serve-delicious-2-3-bundle.json) |
