@@ -1299,12 +1299,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railgun | 110250 | [110250-railgun.json](./110250-railgun.json) |
 | Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
+| Railhold | 420405 | [420405-railhold.json](./420405-railhold.json) |
 | Railink | 329107 | [329107-railink.json](./329107-railink.json) |
 | RailKing's Model Railroad Simulator | 80190 | [80190-railkings-model-railroad-simulator.json](./80190-railkings-model-railroad-simulator.json) |
 | Railkings Model Railroad Simulator | 54311 | [54311-railkings-model-railroad-simulator.json](./54311-railkings-model-railroad-simulator.json) |
 | Railmount | 398748 | [398748-railmount.json](./398748-railmount.json) |
 | Railpunk Mayhem | 292426 | [292426-railpunk-mayhem.json](./292426-railpunk-mayhem.json) |
 | RaiLRhythm | 312147 | [312147-railrhythm.json](./312147-railrhythm.json) |
+| Railriders | 420400 | [420400-railriders.json](./420400-railriders.json) |
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
 | Railroad Corporation 2 | 190449 | [190449-railroad-corporation-2.json](./190449-railroad-corporation-2.json) |
 | Railroad Corporation: All or Nothing | 174164 | [174164-railroad-corporation-all-or-nothing.json](./174164-railroad-corporation-all-or-nothing.json) |
@@ -11618,6 +11620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll or Die | 417252 | [417252-roll-or-die.json](./417252-roll-or-die.json) |
 | Roll Out | 43151 | [43151-roll-out.json](./43151-roll-out.json) |
 | Roll Over Princess | 280116 | [280116-roll-over-princess.json](./280116-roll-over-princess.json) |
+| Roll Pick Go! | 420392 | [420392-roll-pick-go.json](./420392-roll-pick-go.json) |
 | Roll Player | 200527 | [200527-roll-player.json](./200527-roll-player.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll Roll: Random Battler | 254739 | [254739-roll-roll-random-battler.json](./254739-roll-roll-random-battler.json) |
