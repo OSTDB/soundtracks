@@ -4770,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadrigger | 13837 | [13837-deadrigger.json](./13837-deadrigger.json) |
 | Deadrock Divide | 63007 | [63007-deadrock-divide.json](./63007-deadrock-divide.json) |
 | Deadrock Redemption | 294962 | [294962-deadrock-redemption.json](./294962-deadrock-redemption.json) |
+| Deadrock Redemption 2 | 426351 | [426351-deadrock-redemption-2.json](./426351-deadrock-redemption-2.json) |
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
 | DeadRoot | 404919 | [404919-deadroot.json](./404919-deadroot.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
@@ -8299,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Tower Defense | 387825 | [387825-desktop-tower-defense.json](./387825-desktop-tower-defense.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
 | Desktop Tree | 108408 | [108408-desktop-tree.json](./108408-desktop-tree.json) |
+| Desktop Trip | 426340 | [426340-desktop-trip.json](./426340-desktop-trip.json) |
 | Desktop Volleyball | 147834 | [147834-desktop-volleyball.json](./147834-desktop-volleyball.json) |
 | Desktop Waifu | 350870 | [350870-desktop-waifu.json](./350870-desktop-waifu.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
@@ -21129,6 +21131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DunJumb | 280002 | [280002-dunjumb.json](./280002-dunjumb.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
 | Dunjunz | 134123 | [134123-dunjunz.json](./134123-dunjunz.json) |
+| Dunk | 426372 | [426372-dunk.json](./426372-dunk.json) |
 | Dunk a Lot! | 87006 | [87006-dunk-a-lot.json](./87006-dunk-a-lot.json) |
 | Dunk City Dynasty | 250569 | [250569-dunk-city-dynasty.json](./250569-dunk-city-dynasty.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
