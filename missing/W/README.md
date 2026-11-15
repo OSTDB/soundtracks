@@ -4808,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My What? | 31201 | [31201-wheres-my-what.json](./31201-wheres-my-what.json) |
 | Where's Oswald? | 207124 | [207124-wheres-oswald.json](./207124-wheres-oswald.json) |
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
+| Where's Phantom Thief | 75255 | [75255-wheres-phantom-thief.json](./75255-wheres-phantom-thief.json) |
 | Where's Samantha? | 145131 | [145131-wheres-samantha.json](./145131-wheres-samantha.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Where's That Clown?! | 367487 | [367487-wheres-that-clown.json](./367487-wheres-that-clown.json) |
