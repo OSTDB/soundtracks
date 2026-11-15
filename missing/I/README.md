@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Must Run | 42824 | [42824-i-must-run.json](./42824-i-must-run.json) |
 | I Need A Hero | 294890 | [294890-i-need-a-hero.json](./294890-i-need-a-hero.json) |
 | I Need a Name | 192971 | [192971-i-need-a-name.json](./192971-i-need-a-name.json) |
+| I Need Guan Guan | 427564 | [427564-i-need-guan-guan.json](./427564-i-need-guan-guan.json) |
 | I Need Space | 241369 | [241369-i-need-space.json](./241369-i-need-space.json) |
 | I Need to Fix My Dream Car (But I Work at a Junkyard) | 407176 | [407176-i-need-to-fix-my-dream-car-but-i-work-at-a-junkyard.json](./407176-i-need-to-fix-my-dream-car-but-i-work-at-a-junkyard.json) |
 | I need to pee | 181544 | [181544-i-need-to-pee.json](./181544-i-need-to-pee.json) |
