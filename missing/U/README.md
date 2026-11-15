@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unique Identy | 370165 | [370165-unique-identy.json](./370165-unique-identy.json) |
 | Unique Ladies | 339873 | [339873-unique-ladies.json](./339873-unique-ladies.json) |
 | Unique Lady | 370345 | [370345-unique-lady.json](./370345-unique-lady.json) |
+| Unique Sylvie Game | 422748 | [422748-unique-sylvie-game.json](./422748-unique-sylvie-game.json) |
 | Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
