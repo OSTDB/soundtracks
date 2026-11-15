@@ -12297,6 +12297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfire Reborn | 134483 | [134483-gunfire-reborn.json](./134483-gunfire-reborn.json) |
 | Gunfire Reborn: Artisan and Magician | 270764 | [270764-gunfire-reborn-artisan-and-magician.json](./270764-gunfire-reborn-artisan-and-magician.json) |
 | Gunfire Reborn: Echoes From Primal Grove | 399566 | [399566-gunfire-reborn-echoes-from-primal-grove.json](./399566-gunfire-reborn-echoes-from-primal-grove.json) |
+| Gunfire Reborn: Lunar Melody | 425115 | [425115-gunfire-reborn-lunar-melody.json](./425115-gunfire-reborn-lunar-melody.json) |
 | Gunfire Reborn: Realm of Frost and Inkwash | 316833 | [316833-gunfire-reborn-realm-of-frost-and-inkwash.json](./316833-gunfire-reborn-realm-of-frost-and-inkwash.json) |
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
 | Gunflare Epoch | 372968 | [372968-gunflare-epoch.json](./372968-gunflare-epoch.json) |
