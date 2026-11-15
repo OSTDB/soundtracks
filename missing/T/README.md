@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taikou Risshiden V | 172698 | [172698-taikou-risshiden-v.json](./172698-taikou-risshiden-v.json) |
 | Taikou Risshiden V DX | 191519 | [191519-taikou-risshiden-v-dx.json](./191519-taikou-risshiden-v-dx.json) |
 | TaikoVR | 116748 | [116748-taikovr.json](./116748-taikovr.json) |
+| Taiku Mansion | 31242 | [31242-taiku-mansion.json](./31242-taiku-mansion.json) |
 | Taikunda | 401731 | [401731-taikunda.json](./401731-taikunda.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
 | Taikyoku Igo: Heisei Kiin | 37534 | [37534-taikyoku-igo-heisei-kiin.json](./37534-taikyoku-igo-heisei-kiin.json) |
@@ -4400,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebris | 377187 | [377187-tenebris.json](./377187-tenebris.json) |
 | TenebriS | 158128 | [158128-tenebris.json](./158128-tenebris.json) |
 | Tenebris Lake | 288272 | [288272-tenebris-lake.json](./288272-tenebris-lake.json) |
+| Tenebris Pictura | 257055 | [257055-tenebris-pictura.json](./257055-tenebris-pictura.json) |
 | Tenebris Somnia | 216692 | [216692-tenebris-somnia.json](./216692-tenebris-somnia.json) |
 | Tenebris: Terra Incognita | 235777 | [235777-tenebris-terra-incognita.json](./235777-tenebris-terra-incognita.json) |
 | Tenebrix | 403651 | [403651-tenebrix.json](./403651-tenebrix.json) |
@@ -9511,6 +9513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Team: 3 on 3 Challenge | 80049 | [80049-the-dream-team-3-on-3-challenge.json](./80049-the-dream-team-3-on-3-challenge.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
+| The Dreamatorium of Dr. Magnus 2 | 34698 | [34698-the-dreamatorium-of-dr-magnus-2.json](./34698-the-dreamatorium-of-dr-magnus-2.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamcatcher | 119094 | [119094-the-dreamcatcher.json](./119094-the-dreamcatcher.json) |
 | The Dreamer | 323211 | [323211-the-dreamer.json](./323211-the-dreamer.json) |
@@ -15326,6 +15329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memory of Mallet | 310119 | [310119-the-memory-of-mallet.json](./310119-the-memory-of-mallet.json) |
 | The Memory Thieves | 321599 | [321599-the-memory-thieves.json](./321599-the-memory-thieves.json) |
 | The Memphis Chronicles | 405199 | [405199-the-memphis-chronicles.json](./405199-the-memphis-chronicles.json) |
+| The Men of Yoshiwara: Kikuya | 34964 | [34964-the-men-of-yoshiwara-kikuya.json](./34964-the-men-of-yoshiwara-kikuya.json) |
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Menagerie | 80053 | [80053-the-menagerie.json](./80053-the-menagerie.json) |
@@ -15525,6 +15529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mixologist | 315145 | [315145-the-mixologist.json](./315145-the-mixologist.json) |
 | The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
 | The Moaning Words | 60913 | [60913-the-moaning-words.json](./60913-the-moaning-words.json) |
+| The Mobius Machine | 258373 | [258373-the-mobius-machine.json](./258373-the-mobius-machine.json) |
 | The Möbius Strip | 366731 | [366731-the-mobius-strip.json](./366731-the-mobius-strip.json) |
 | The Mobius: Apartment | 322635 | [322635-the-mobius-apartment.json](./322635-the-mobius-apartment.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
@@ -16717,6 +16722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirate King | 152731 | [152731-the-pirate-king.json](./152731-the-pirate-king.json) |
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirate Queen | 127725 | [127725-the-pirate-queen.json](./127725-the-pirate-queen.json) |
+| The Pirate Queen: With Lucy Liu | 258618 | [258618-the-pirate-queen-with-lucy-liu.json](./258618-the-pirate-queen-with-lucy-liu.json) |
 | The Pirate: Caribbean Hunt | 31726 | [31726-the-pirate-caribbean-hunt.json](./31726-the-pirate-caribbean-hunt.json) |
 | The Pirate: Plague of the Dead | 72503 | [72503-the-pirate-plague-of-the-dead.json](./72503-the-pirate-plague-of-the-dead.json) |
 | The Pirate: Republic of Nassau | 396461 | [396461-the-pirate-republic-of-nassau.json](./396461-the-pirate-republic-of-nassau.json) |
@@ -25334,6 +25340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Kart 3D | 108703 | [108703-tiki-kart-3d.json](./108703-tiki-kart-3d.json) |
 | Tiki Kart Island | 96381 | [96381-tiki-kart-island.json](./96381-tiki-kart-island.json) |
 | Tiki Magic Mini Golf | 79961 | [79961-tiki-magic-mini-golf.json](./79961-tiki-magic-mini-golf.json) |
+| Tiki Man | 35065 | [35065-tiki-man.json](./35065-tiki-man.json) |
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Party: Quiz Game with Friends | 211319 | [211319-tiki-party-quiz-game-with-friends.json](./211319-tiki-party-quiz-game-with-friends.json) |
 | Tiki Resort | 92444 | [92444-tiki-resort.json](./92444-tiki-resort.json) |
