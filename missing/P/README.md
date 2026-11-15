@@ -20163,6 +20163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bebop | 104230 | [104230-puzzle-bebop.json](./104230-puzzle-bebop.json) |
 | Puzzle Blast | 373279 | [373279-puzzle-blast.json](./373279-puzzle-blast.json) |
 | Puzzle Blast | 92943 | [92943-puzzle-blast.json](./92943-puzzle-blast.json) |
+| Puzzle Bloc Invasion | 75281 | [75281-puzzle-bloc-invasion.json](./75281-puzzle-bloc-invasion.json) |
 | Puzzle Block - Glow Block Game | 91289 | [91289-puzzle-block-glow-block-game.json](./91289-puzzle-block-glow-block-game.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Defender | 358031 | [358031-puzzle-block-defender.json](./358031-puzzle-block-defender.json) |
@@ -20524,6 +20525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Showdown 4K | 36621 | [36621-puzzle-showdown-4k.json](./36621-puzzle-showdown-4k.json) |
 | Puzzle Shuffle | 77115 | [77115-puzzle-shuffle.json](./77115-puzzle-shuffle.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
+| Puzzle Sisters Foer | 74572 | [74572-puzzle-sisters-foer.json](./74572-puzzle-sisters-foer.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Soccer | 159418 | [159418-puzzle-soccer.json](./159418-puzzle-soccer.json) |
 | Puzzle Spy International | 329773 | [329773-puzzle-spy-international.json](./329773-puzzle-spy-international.json) |
