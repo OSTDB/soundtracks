@@ -6346,7 +6346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Limits Skateboarding | 218007 | [218007-no-limits-skateboarding.json](./218007-no-limits-skateboarding.json) |
 | No Logic | 264650 | [264650-no-logic.json](./264650-no-logic.json) |
 | No Logic Inc. | 349321 | [349321-no-logic-inc.json](./349321-no-logic-inc.json) |
-| No Longer Home | 116408 | [116408-no-longer-home.json](./116408-no-longer-home.json) |
 | No Longer Home: Farewell Edition | 167177 | [167177-no-longer-home-farewell-edition.json](./167177-no-longer-home-farewell-edition.json) |
 | No Longer Home: Friary Road | 213359 | [213359-no-longer-home-friary-road.json](./213359-no-longer-home-friary-road.json) |
 | No Loose Threads | 301918 | [301918-no-loose-threads.json](./301918-no-loose-threads.json) |
