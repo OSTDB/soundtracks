@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamkball | 133803 | [133803-kamkball.json](./133803-kamkball.json) |
 | Kamla | 266813 | [266813-kamla.json](./266813-kamla.json) |
 | Kampf dem Terror | 98977 | [98977-kampf-dem-terror.json](./98977-kampf-dem-terror.json) |
+| Kampfgruppe | 25900 | [25900-kampfgruppe.json](./25900-kampfgruppe.json) |
 | Kamu's Offering | 149232 | [149232-kamus-offering.json](./149232-kamus-offering.json) |
 | Kamui | 10983 | [10983-kamui.json](./10983-kamui.json) |
 | Kamura: Kamigami to Chigiri Shisha | 292095 | [292095-kamura-kamigami-to-chigiri-shisha.json](./292095-kamura-kamigami-to-chigiri-shisha.json) |
@@ -6150,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koron de Jump!! | 270349 | [270349-koron-de-jump.json](./270349-koron-de-jump.json) |
 | Korona:Nemesis | 121281 | [121281-korona-nemesis.json](./121281-korona-nemesis.json) |
 | KoroNeko | 262856 | [262856-koroneko.json](./262856-koroneko.json) |
+| Koronis Rift | 26005 | [26005-koronis-rift.json](./26005-koronis-rift.json) |
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
 | Kororinpa: Marble Mania | 50610 | [50610-kororinpa-marble-mania.json](./50610-kororinpa-marble-mania.json) |
 | Koroshi no Dress | 230235 | [230235-koroshi-no-dress.json](./230235-koroshi-no-dress.json) |
