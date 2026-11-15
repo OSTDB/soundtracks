@@ -4332,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heir of Light Eclipse | 267351 | [267351-heir-of-light-eclipse.json](./267351-heir-of-light-eclipse.json) |
 | Heir of Love | 299422 | [299422-heir-of-love.json](./299422-heir-of-love.json) |
 | Heir of the Dog | 260847 | [260847-heir-of-the-dog.json](./260847-heir-of-the-dog.json) |
+| Heir of Zendor | 45469 | [45469-heir-of-zendor.json](./45469-heir-of-zendor.json) |
 | Heir of Zendor: The Legend and The Land | 66220 | [66220-heir-of-zendor-the-legend-and-the-land.json](./66220-heir-of-zendor-the-legend-and-the-land.json) |
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
 | Heiress | 94827 | [94827-heiress.json](./94827-heiress.json) |
@@ -10834,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Toukyuuji: Dodge Danpei | 272812 | [272812-honoo-no-toukyuuji-dodge-danpei.json](./272812-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 38106 | [38106-honoo-no-toukyuuji-dodge-danpei.json](./38106-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
+| Honoo no Toukyuuji: Dodge Danpei | 45621 | [45621-honoo-no-toukyuuji-dodge-danpei.json](./45621-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei 2 | 58524 | [58524-honoo-no-toukyuuji-dodge-danpei-2.json](./58524-honoo-no-toukyuuji-dodge-danpei-2.json) |
 | Honor and Duty: Arcade Edition | 99530 | [99530-honor-and-duty-arcade-edition.json](./99530-honor-and-duty-arcade-edition.json) |
 | Honor and Duty: D-Day | 115996 | [115996-honor-and-duty-d-day.json](./115996-honor-and-duty-d-day.json) |
@@ -13927,6 +13929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HypeHype | 369889 | [369889-hypehype.json](./369889-hypehype.json) |
 | HypePets | 407495 | [407495-hypepets.json](./407495-hypepets.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
+| Hyper 3-D Pinball | 45489 | [45489-hyper-3-d-pinball.json](./45489-hyper-3-d-pinball.json) |
 | Hyper Aggressive | 275480 | [275480-hyper-aggressive.json](./275480-hyper-aggressive.json) |
 | Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
 | Hyper Arena VR | 84013 | [84013-hyper-arena-vr.json](./84013-hyper-arena-vr.json) |
