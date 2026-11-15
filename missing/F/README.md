@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Voyagers | 400195 | [400195-fantasy-voyagers.json](./400195-fantasy-voyagers.json) |
 | Fantasy Waifu Collector | 369140 | [369140-fantasy-waifu-collector.json](./369140-fantasy-waifu-collector.json) |
 | Fantasy War Heroes: Chilling Fog | 319273 | [319273-fantasy-war-heroes-chilling-fog.json](./319273-fantasy-war-heroes-chilling-fog.json) |
+| Fantasy War Tactics R | 26999 | [26999-fantasy-war-tactics-r.json](./26999-fantasy-war-tactics-r.json) |
 | Fantasy Warlord | 329477 | [329477-fantasy-warlord.json](./329477-fantasy-warlord.json) |
 | Fantasy Wars | 7332 | [7332-fantasy-wars.json](./7332-fantasy-wars.json) |
 | Fantasy Wars: Endless Heroes | 390601 | [390601-fantasy-wars-endless-heroes.json](./390601-fantasy-wars-endless-heroes.json) |
@@ -3808,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Fausts Alptraum | 29972 | [29972-fausts-alptraum.json](./29972-fausts-alptraum.json) |
 | Faux | 115988 | [115988-faux.json](./115988-faux.json) |
+| Faux | 27065 | [27065-faux.json](./27065-faux.json) |
 | Faux Gravity | 327661 | [327661-faux-gravity.json](./327661-faux-gravity.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
@@ -5405,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filthy Lucre | 19590 | [19590-filthy-lucre.json](./19590-filthy-lucre.json) |
 | Filthy Rich | 313881 | [313881-filthy-rich.json](./313881-filthy-rich.json) |
 | Filthy Us: Complete Edition | 274836 | [274836-filthy-us-complete-edition.json](./274836-filthy-us-complete-edition.json) |
+| Filthy, Stinking, Orcs! | 27003 | [27003-filthy-stinking-orcs.json](./27003-filthy-stinking-orcs.json) |
 | Filtration | 372429 | [372429-filtration.json](./372429-filtration.json) |
 | FIM Speedway GP 3 | 54045 | [54045-fim-speedway-gp-3.json](./54045-fim-speedway-gp-3.json) |
 | FIM Speedway Grand Prix | 67678 | [67678-fim-speedway-grand-prix.json](./67678-fim-speedway-grand-prix.json) |
@@ -8315,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Tobari | 206507 | [206507-flappy-tobari.json](./206507-flappy-tobari.json) |
 | Flappy Toss | 266151 | [266151-flappy-toss.json](./266151-flappy-toss.json) |
 | Flappy Trumpadore | 28206 | [28206-flappy-trumpadore.json](./28206-flappy-trumpadore.json) |
+| Flappy Turds: Gangsta Poop Grime Music Edition | 27111 | [27111-flappy-turds-gangsta-poop-grime-music-edition.json](./27111-flappy-turds-gangsta-poop-grime-music-edition.json) |
 | Flappy Typer: Ghost Talk | 421565 | [421565-flappy-typer-ghost-talk.json](./421565-flappy-typer-ghost-talk.json) |
 | Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
