@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakedas | 85480 | [85480-wakedas.json](./85480-wakedas.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
 | Wakerunners | 282934 | [282934-wakerunners.json](./282934-wakerunners.json) |
+| Wakesurfer: Get Gnarly! | 424568 | [424568-wakesurfer-get-gnarly.json](./424568-wakesurfer-get-gnarly.json) |
 | WakeUp! | 52265 | [52265-wakeup.json](./52265-wakeup.json) |
 | Wakey Wakey | 178568 | [178568-wakey-wakey.json](./178568-wakey-wakey.json) |
 | Wakey Wakey | 305729 | [305729-wakey-wakey.json](./305729-wakey-wakey.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaywaY | 76925 | [76925-wayway.json](./76925-wayway.json) |
 | Waznk Zahb | 320275 | [320275-waznk-zahb.json](./320275-waznk-zahb.json) |
 | WB All-Star Mayhem | 428378 | [428378-wb-all-star-mayhem.json](./428378-wb-all-star-mayhem.json) |
+| WB Solitaire | 424540 | [424540-wb-solitaire.json](./424540-wb-solitaire.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC | 172335 | [172335-wc.json](./172335-wc.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
@@ -5032,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Flight | 274738 | [274738-whispered-flight.json](./274738-whispered-flight.json) |
 | Whispered Legends: Tales of Middleport | 405230 | [405230-whispered-legends-tales-of-middleport.json](./405230-whispered-legends-tales-of-middleport.json) |
 | Whispered Promises: 14 Days of Love with Anna | 260320 | [260320-whispered-promises-14-days-of-love-with-anna.json](./260320-whispered-promises-14-days-of-love-with-anna.json) |
+| Whispered Scrolls | 424551 | [424551-whispered-scrolls.json](./424551-whispered-scrolls.json) |
 | Whispered Secrets: Cruise of Misfortune - Collector's Edition | 338697 | [338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json](./338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json) |
 | Whispered Secrets: Cursed Wealth - Collector's Edition | 351714 | [351714-whispered-secrets-cursed-wealth-collectors-edition.json](./351714-whispered-secrets-cursed-wealth-collectors-edition.json) |
 | Whispered Secrets: Dreadful Beauty | 139778 | [139778-whispered-secrets-dreadful-beauty.json](./139778-whispered-secrets-dreadful-beauty.json) |
@@ -9476,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series of Poker: Tournament of Champions | 5288 | [5288-world-series-of-poker-tournament-of-champions.json](./5288-world-series-of-poker-tournament-of-champions.json) |
 | World Series: The Season | 40570 | [40570-world-series-the-season.json](./40570-world-series-the-season.json) |
 | World Serpent | 211064 | [211064-world-serpent.json](./211064-world-serpent.json) |
+| World Simulation: Drive & Fly | 424531 | [424531-world-simulation-drive-and-fly.json](./424531-world-simulation-drive-and-fly.json) |
 | World Simulator 3 | 275415 | [275415-world-simulator-3.json](./275415-world-simulator-3.json) |
 | World Slayer | 28490 | [28490-world-slayer.json](./28490-world-slayer.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
