@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Breakout | 201435 | [201435-ace-breakout.json](./201435-ace-breakout.json) |
 | Ace Campus Club | 161561 | [161561-ace-campus-club.json](./161561-ace-campus-club.json) |
 | Ace Coin BullDozer: Dozer of Coins | 87390 | [87390-ace-coin-bulldozer-dozer-of-coins.json](./87390-ace-coin-bulldozer-dozer-of-coins.json) |
+| Ace Combat 2 | 14750 | [14750-ace-combat-2.json](./14750-ace-combat-2.json) |
 | Ace Combat 3: Electrosphere | 14751 | [14751-ace-combat-3-electrosphere.json](./14751-ace-combat-3-electrosphere.json) |
 | Ace Combat 3: Electrosphere | 306600 | [306600-ace-combat-3-electrosphere.json](./306600-ace-combat-3-electrosphere.json) |
 | Ace Combat 5: Recompiled | 418841 | [418841-ace-combat-5-recompiled.json](./418841-ace-combat-5-recompiled.json) |
@@ -3472,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
 | Action SuperCross | 174453 | [174453-action-supercross.json](./174453-action-supercross.json) |
+| Action Taimanin | 139858 | [139858-action-taimanin.json](./139858-action-taimanin.json) |
 | Action Toys | 193953 | [193953-action-toys.json](./193953-action-toys.json) |
 | Action Turnip | 242896 | [242896-action-turnip.json](./242896-action-turnip.json) |
 | Action Unreal Tournament 2004 | 288927 | [288927-action-unreal-tournament-2004.json](./288927-action-unreal-tournament-2004.json) |
@@ -7473,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
 | Alex Kidd in Miracle World | 26778 | [26778-alex-kidd-in-miracle-world.json](./26778-alex-kidd-in-miracle-world.json) |
 | Alex Kidd in Miracle World 2 | 339438 | [339438-alex-kidd-in-miracle-world-2.json](./339438-alex-kidd-in-miracle-world-2.json) |
+| Alex Kidd in Miracle World DX | 134561 | [134561-alex-kidd-in-miracle-world-dx.json](./134561-alex-kidd-in-miracle-world-dx.json) |
 | Alex Kidd in Miracle World DX: Signature Edition | 249968 | [249968-alex-kidd-in-miracle-world-dx-signature-edition.json](./249968-alex-kidd-in-miracle-world-dx-signature-edition.json) |
 | Alex Kidd in Mushroom World | 413221 | [413221-alex-kidd-in-mushroom-world.json](./413221-alex-kidd-in-mushroom-world.json) |
 | Alex Kidd in Pico World | 279605 | [279605-alex-kidd-in-pico-world.json](./279605-alex-kidd-in-pico-world.json) |
@@ -8139,6 +8142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Virus | 2206 | [2206-alien-virus.json](./2206-alien-virus.json) |
 | Alien vs Predator | 8477 | [8477-alien-vs-predator.json](./8477-alien-vs-predator.json) |
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
+| Alien vs. Predator | 13679 | [13679-alien-vs-predator.json](./13679-alien-vs-predator.json) |
 | Alien vs. Predator | 227688 | [227688-alien-vs-predator.json](./227688-alien-vs-predator.json) |
 | Alien vs. Predator | 82019 | [82019-alien-vs-predator.json](./82019-alien-vs-predator.json) |
 | Alien Wall | 169152 | [169152-alien-wall.json](./169152-alien-wall.json) |
@@ -10440,6 +10444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
 | Anachronic | 265576 | [265576-anachronic.json](./265576-anachronic.json) |
 | Anachronism\> | 151304 | [151304-anachronism.json](./151304-anachronism.json) |
+| Anachronox | 5622 | [5622-anachronox.json](./5622-anachronox.json) |
 | Anaconda | 230673 | [230673-anaconda.json](./230673-anaconda.json) |
 | Anacreon: Imperial Conquest in the Far Future | 57582 | [57582-anacreon-imperial-conquest-in-the-far-future.json](./57582-anacreon-imperial-conquest-in-the-far-future.json) |
 | Anacreon: Reconstruction 4021 | 74083 | [74083-anacreon-reconstruction-4021.json](./74083-anacreon-reconstruction-4021.json) |
