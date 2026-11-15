@@ -5632,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widelands | 47043 | [47043-widelands.json](./47043-widelands.json) |
 | Widen | 305965 | [305965-widen.json](./305965-widen.json) |
 | Widget | 95355 | [95355-widget.json](./95355-widget.json) |
+| Widget Idle | 425126 | [425126-widget-idle.json](./425126-widget-idle.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget RPG | 29005 | [29005-widget-rpg.json](./29005-widget-rpg.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
