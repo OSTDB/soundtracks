@@ -6518,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Lot | 158566 | [158566-heretics-lot.json](./158566-heretics-lot.json) |
 | Heretical | 291293 | [291293-heretical.json](./291293-heretical.json) |
 | HereticOS Mr. Lab | 369363 | [369363-hereticos-mr-lab.json](./369363-hereticos-mr-lab.json) |
+| Heretics Amulet | 422222 | [422222-heretics-amulet.json](./422222-heretics-amulet.json) |
 | HereWith | 236889 | [236889-herewith.json](./236889-herewith.json) |
 | Herezh: Generations of Heroes | 212183 | [212183-herezh-generations-of-heroes.json](./212183-herezh-generations-of-heroes.json) |
 | Herihor | 375140 | [375140-herihor.json](./375140-herihor.json) |
@@ -9647,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Blight | 345434 | [345434-hive-blight.json](./345434-hive-blight.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive Dive | 294352 | [294352-hive-dive.json](./294352-hive-dive.json) |
+| Hive Havoc 3D | 422224 | [422224-hive-havoc-3d.json](./422224-hive-havoc-3d.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
 | Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
@@ -12991,6 +12993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrolfr vs. Evil Skulls | 379721 | [379721-hrolfr-vs-evil-skulls.json](./379721-hrolfr-vs-evil-skulls.json) |
 | Hroogar | 200314 | [200314-hroogar.json](./200314-hroogar.json) |
 | Hrot | 135478 | [135478-hrot.json](./135478-hrot.json) |
+| Hrspwr | 422075 | [422075-hrspwr.json](./422075-hrspwr.json) |
 | HRT Simulator 2023 | 299114 | [299114-hrt-simulator-2023.json](./299114-hrt-simulator-2023.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
