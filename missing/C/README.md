@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Pro Edition | 41625 | [41625-call-of-duty-infinite-warfare-legacy-pro-edition.json](./41625-call-of-duty-infinite-warfare-legacy-pro-edition.json) |
+| Call of Duty: Infinite Warfare - Sabotage | 27032 | [27032-call-of-duty-infinite-warfare-sabotage.json](./27032-call-of-duty-infinite-warfare-sabotage.json) |
 | Call of Duty: Infinite Warfare + Destiny - The Collection | 370987 | [370987-call-of-duty-infinite-warfare-destiny-the-collection.json](./370987-call-of-duty-infinite-warfare-destiny-the-collection.json) |
 | Call of Duty: League - Atlanta FaZe Team Pack 2024 | 281931 | [281931-call-of-duty-league-atlanta-faze-team-pack-2024.json](./281931-call-of-duty-league-atlanta-faze-team-pack-2024.json) |
 | Call of Duty: League - Boston Breach Team Pack 2024 | 281935 | [281935-call-of-duty-league-boston-breach-team-pack-2024.json](./281935-call-of-duty-league-boston-breach-team-pack-2024.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
 | Camera Cafe': Il gioco | 148055 | [148055-camera-cafe-il-gioco.json](./148055-camera-cafe-il-gioco.json) |
 | Camera Lens | 291526 | [291526-camera-lens.json](./291526-camera-lens.json) |
+| Camera Obscura | 26662 | [26662-camera-obscura.json](./26662-camera-obscura.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
 | Cameraman: The Pilot Episode | 349064 | [349064-cameraman-the-pilot-episode.json](./349064-cameraman-the-pilot-episode.json) |
 | CamGirl Simulator | 326461 | [326461-camgirl-simulator.json](./326461-camgirl-simulator.json) |
@@ -10822,6 +10824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clad in Iron: Sakhalin 1904 | 111222 | [111222-clad-in-iron-sakhalin-1904.json](./111222-clad-in-iron-sakhalin-1904.json) |
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
+| Cladun Returns: This is Sengoku! | 27331 | [27331-cladun-returns-this-is-sengoku.json](./27331-cladun-returns-this-is-sengoku.json) |
 | Cladun X2 | 15284 | [15284-cladun-x2.json](./15284-cladun-x2.json) |
 | Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
 | Cladun: This is an RPG | 21576 | [21576-cladun-this-is-an-rpg.json](./21576-cladun-this-is-an-rpg.json) |
