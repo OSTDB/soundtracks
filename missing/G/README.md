@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
 | Gate of Gates | 406750 | [406750-gate-of-gates.json](./406750-gate-of-gates.json) |
+| Gate of Labyrinth | 47514 | [47514-gate-of-labyrinth.json](./47514-gate-of-labyrinth.json) |
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
 | Gate of Nightmares | 174644 | [174644-gate-of-nightmares.json](./174644-gate-of-nightmares.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
@@ -2762,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 3: Raam's Shadow | 21844 | [21844-gears-of-war-3-raams-shadow.json](./21844-gears-of-war-3-raams-shadow.json) |
 | Gears of War 4 and Halo 5: Guardians Bundle | 264941 | [264941-gears-of-war-4-and-halo-5-guardians-bundle.json](./264941-gears-of-war-4-and-halo-5-guardians-bundle.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
+| Gears of War 4: Collector's Edition | 47489 | [47489-gears-of-war-4-collectors-edition.json](./47489-gears-of-war-4-collectors-edition.json) |
 | Gears of War 4: Collector's Edition - Outsider Variant | 89838 | [89838-gears-of-war-4-collectors-edition-outsider-variant.json](./89838-gears-of-war-4-collectors-edition-outsider-variant.json) |
 | Gears of War: E-Day Premium Edition | 407702 | [407702-gears-of-war-e-day-premium-edition.json](./407702-gears-of-war-e-day-premium-edition.json) |
 | Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
