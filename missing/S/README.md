@@ -3347,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholar's Mate | 236595 | [236595-scholars-mate.json](./236595-scholars-mate.json) |
 | Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
+| Scholastic's The Magic School Bus: Space Exploration Game | 46280 | [46280-scholastics-the-magic-school-bus-space-exploration-game.json](./46280-scholastics-the-magic-school-bus-space-exploration-game.json) |
 | School 666 | 293488 | [293488-school-666.json](./293488-school-666.json) |
 | School Bathroom | 346559 | [346559-school-bathroom.json](./346559-school-bathroom.json) |
 | School Booster | 263052 | [263052-school-booster.json](./263052-school-booster.json) |
@@ -17242,6 +17243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros. Jr. | 117967 | [117967-snow-bros-jr.json](./117967-snow-bros-jr.json) |
 | Snow Bros. Special: Anniversary Edition | 325981 | [325981-snow-bros-special-anniversary-edition.json](./325981-snow-bros-special-anniversary-edition.json) |
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
+| Snow Bros.: Nick & Tom | 46173 | [46173-snow-bros-nick-and-tom.json](./46173-snow-bros-nick-and-tom.json) |
 | Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Buddies: Dog Sled Race | 333499 | [333499-snow-buddies-dog-sled-race.json](./333499-snow-buddies-dog-sled-race.json) |
@@ -34136,6 +34138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Racers | 344895 | [344895-super-battle-racers.json](./344895-super-battle-racers.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Battle Skin Panic | 67404 | [67404-super-battle-skin-panic.json](./67404-super-battle-skin-panic.json) |
+| Super Battleship | 46270 | [46270-super-battleship.json](./46270-super-battleship.json) |
 | Super Battletank 2 | 38425 | [38425-super-battletank-2.json](./38425-super-battletank-2.json) |
 | Super Battletoads | 264286 | [264286-super-battletoads.json](./264286-super-battletoads.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
@@ -34278,6 +34281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bub Contest | 221786 | [221786-super-bub-contest.json](./221786-super-bub-contest.json) |
 | Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
 | Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
+| Super Bubble Bobble MD | 46290 | [46290-super-bubble-bobble-md.json](./46290-super-bubble-bobble-md.json) |
 | Super Bubble Pop | 248454 | [248454-super-bubble-pop.json](./248454-super-bubble-pop.json) |
 | Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
 | Super Bubsy | 70261 | [70261-super-bubsy.json](./70261-super-bubsy.json) |
@@ -37229,6 +37233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tank Simulator | 92780 | [92780-super-tank-simulator.json](./92780-super-tank-simulator.json) |
+| Super Tank War | 46289 | [46289-super-tank-war.json](./46289-super-tank-war.json) |
 | Super tanks RPG | 158312 | [158312-super-tanks-rpg.json](./158312-super-tanks-rpg.json) |
 | Super Tanooki Goomba | 323180 | [323180-super-tanooki-goomba.json](./323180-super-tanooki-goomba.json) |
 | Super Teacher: The Crazy School | 209856 | [209856-super-teacher-the-crazy-school.json](./209856-super-teacher-the-crazy-school.json) |
@@ -38139,6 +38144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surgical Strike | 5456 | [5456-surgical-strike.json](./5456-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
+| Surging Aura | 46172 | [46172-surging-aura.json](./46172-surging-aura.json) |
 | Surging Blood | 386891 | [386891-surging-blood.json](./386891-surging-blood.json) |
 | Surging Seas: Power Saga | 256572 | [256572-surging-seas-power-saga.json](./256572-surging-seas-power-saga.json) |
 | Surgit | 302889 | [302889-surgit.json](./302889-surgit.json) |
