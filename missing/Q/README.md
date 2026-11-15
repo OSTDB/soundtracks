@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Persia: Lotfali Khan Zand | 191672 | [191672-quest-of-persia-lotfali-khan-zand.json](./191672-quest-of-persia-lotfali-khan-zand.json) |
 | Quest of Persia: Nader's Blade | 68410 | [68410-quest-of-persia-naders-blade.json](./68410-quest-of-persia-naders-blade.json) |
 | Quest of Persia: The End of Innocence | 191671 | [191671-quest-of-persia-the-end-of-innocence.json](./191671-quest-of-persia-the-end-of-innocence.json) |
+| Quest of Souls | 33536 | [33536-quest-of-souls.json](./33536-quest-of-souls.json) |
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest of the Hero | 348988 | [348988-quest-of-the-hero.json](./348988-quest-of-the-hero.json) |
 | Quest of the Space Beagle | 24678 | [24678-quest-of-the-space-beagle.json](./24678-quest-of-the-space-beagle.json) |
