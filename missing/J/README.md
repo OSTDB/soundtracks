@@ -67,6 +67,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Jikkyou Winning Eleven 97 | 181567 | [181567-j-league-jikkyou-winning-eleven-97.json](./181567-j-league-jikkyou-winning-eleven-97.json) |
 | J.League Live '95 | 266541 | [266541-j-league-live-95.json](./266541-j-league-live-95.json) |
 | J.League Live 64 | 3521 | [3521-j-league-live-64.json](./3521-j-league-live-64.json) |
+| J.League Pocket | 49616 | [49616-j-league-pocket.json](./49616-j-league-pocket.json) |
+| J.League Pocket 2 | 49615 | [49615-j-league-pocket-2.json](./49615-j-league-pocket-2.json) |
 | J.League Pro Soccer Club wo Tsukurou! | 65005 | [65005-j-league-pro-soccer-club-wo-tsukurou.json](./65005-j-league-pro-soccer-club-wo-tsukurou.json) |
 | J.League Pro Soccer Club wo Tsukurou! '04 | 62764 | [62764-j-league-pro-soccer-club-wo-tsukurou-04.json](./62764-j-league-pro-soccer-club-wo-tsukurou-04.json) |
 | J.League Pro Soccer Club wo Tsukurou! 2 | 65006 | [65006-j-league-pro-soccer-club-wo-tsukurou-2.json](./65006-j-league-pro-soccer-club-wo-tsukurou-2.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Pro Soccer Club wo Tsukurou! 6: Pride of J | 62766 | [62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json](./62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json) |
 | J.League Pro Soccer Club wo Tsukurou! 7: Euro + | 65012 | [65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json](./65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json) |
 | J.League Pro Soccer Club wo Tsukurou! 8: Euro + | 62765 | [62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json](./62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json) |
+| J.League Pro Soccer Club wo Tsukurou! Advance | 49614 | [49614-j-league-pro-soccer-club-wo-tsukurou-advance.json](./49614-j-league-pro-soccer-club-wo-tsukurou-advance.json) |
 | J.League Pro Striker | 45745 | [45745-j-league-pro-striker.json](./45745-j-league-pro-striker.json) |
 | J.League Pro Striker 2 | 45727 | [45727-j-league-pro-striker-2.json](./45727-j-league-pro-striker-2.json) |
 | J.League Pro Striker Perfect | 45725 | [45725-j-league-pro-striker-perfect.json](./45725-j-league-pro-striker-perfect.json) |
@@ -102,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Winning Eleven 6 | 220997 | [220997-j-league-winning-eleven-6.json](./220997-j-league-winning-eleven-6.json) |
 | J.League Winning Eleven 8: Asia Championship | 220945 | [220945-j-league-winning-eleven-8-asia-championship.json](./220945-j-league-winning-eleven-8-asia-championship.json) |
 | J.League Winning Eleven 9: Asia Championship | 220948 | [220948-j-league-winning-eleven-9-asia-championship.json](./220948-j-league-winning-eleven-9-asia-championship.json) |
+| J.League Winning Eleven Advance 2002 | 49613 | [49613-j-league-winning-eleven-advance-2002.json](./49613-j-league-winning-eleven-advance-2002.json) |
 | J.League Winning Eleven Tactics | 221002 | [221002-j-league-winning-eleven-tactics.json](./221002-j-league-winning-eleven-tactics.json) |
 | J.League Winning Goal | 48459 | [48459-j-league-winning-goal.json](./48459-j-league-winning-goal.json) |
 | J.M.Rhythm | 288424 | [288424-j-m-rhythm.json](./288424-j-m-rhythm.json) |
@@ -425,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
 | Jaipur: the board game | 91985 | [91985-jaipur-the-board-game.json](./91985-jaipur-the-board-game.json) |
+| Jaja-Kun Jr. Denshouki | 49612 | [49612-jaja-kun-jr-denshouki.json](./49612-jaja-kun-jr-denshouki.json) |
 | JaJaMaru Gekimaden: Maboroshi no Kinmajou | 48458 | [48458-jajamaru-gekimaden-maboroshi-no-kinmajou.json](./48458-jajamaru-gekimaden-maboroshi-no-kinmajou.json) |
 | JaJaMaru Jr: Denshouki Jaleco Memorial | 122912 | [122912-jajamaru-jr-denshouki-jaleco-memorial.json](./122912-jajamaru-jr-denshouki-jaleco-memorial.json) |
 | JaJaMaru Ninpouchou | 48456 | [48456-jajamaru-ninpouchou.json](./48456-jajamaru-ninpouchou.json) |
