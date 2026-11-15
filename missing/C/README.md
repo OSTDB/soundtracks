@@ -3453,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars vs Train | 230939 | [230939-cars-vs-train.json](./230939-cars-vs-train.json) |
 | Cars vs Zombies | 157090 | [157090-cars-vs-zombies.json](./157090-cars-vs-zombies.json) |
 | Cars vs. TNT | 179154 | [179154-cars-vs-tnt.json](./179154-cars-vs-tnt.json) |
+| Cars with Guns: It's About Time | 76792 | [76792-cars-with-guns-its-about-time.json](./76792-cars-with-guns-its-about-time.json) |
 | Cars, Girls and Rock 'n' Roll | 258583 | [258583-cars-girls-and-rock-n-roll.json](./258583-cars-girls-and-rock-n-roll.json) |
 | Cars: Fast as Lightning | 98639 | [98639-cars-fast-as-lightning.json](./98639-cars-fast-as-lightning.json) |
 | Cars: Lightning League | 98637 | [98637-cars-lightning-league.json](./98637-cars-lightning-league.json) |
@@ -5530,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Raider | 235797 | [235797-cave-raider.json](./235797-cave-raider.json) |
 | Cave Ranger | 239619 | [239619-cave-ranger.json](./239619-cave-ranger.json) |
 | Cave Runner | 278638 | [278638-cave-runner.json](./278638-cave-runner.json) |
+| Cave Runner | 76788 | [76788-cave-runner.json](./76788-cave-runner.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
 | Cave Story | 339021 | [339021-cave-story.json](./339021-cave-story.json) |
@@ -16659,6 +16661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
 | Corridor | 92000 | [92000-corridor.json](./92000-corridor.json) |
 | Corridor 13 | 401743 | [401743-corridor-13.json](./401743-corridor-13.json) |
+| Corridor 15 Alpha | 76028 | [76028-corridor-15-alpha.json](./76028-corridor-15-alpha.json) |
 | Corridor 7: Alien Invasion | 8689 | [8689-corridor-7-alien-invasion.json](./8689-corridor-7-alien-invasion.json) |
 | Corridor 8: Galactic Wars | 218648 | [218648-corridor-8-galactic-wars.json](./218648-corridor-8-galactic-wars.json) |
 | Corridor Conflict | 13518 | [13518-corridor-conflict.json](./13518-corridor-conflict.json) |
@@ -17931,6 +17934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackers Revenge IV | 417480 | [417480-crackers-revenge-iv.json](./417480-crackers-revenge-iv.json) |
 | Crackhead | 30567 | [30567-crackhead.json](./30567-crackhead.json) |
 | Crackheads | 396342 | [396342-crackheads.json](./396342-crackheads.json) |
+| Crackin' DJ | 76013 | [76013-crackin-dj.json](./76013-crackin-dj.json) |
 | Crackin' DJ Part 2 | 58429 | [58429-crackin-dj-part-2.json](./58429-crackin-dj-part-2.json) |
 | Crackin' Smackin | 251960 | [251960-crackin-smackin.json](./251960-crackin-smackin.json) |
 | Crackin' Smackin: Customization Set - Pumpkinhead | 304407 | [304407-crackin-smackin-customization-set-pumpkinhead.json](./304407-crackin-smackin-customization-set-pumpkinhead.json) |
