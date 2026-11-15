@@ -5496,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam Car Crash: Drive Simulator 2025 | 376226 | [376226-beam-car-crash-drive-simulator-2025.json](./376226-beam-car-crash-drive-simulator-2025.json) |
 | Beam Cat | 224666 | [224666-beam-cat.json](./224666-beam-cat.json) |
 | Beam Driver | 360048 | [360048-beam-driver.json](./360048-beam-driver.json) |
+| Beam Inc. | 425125 | [425125-beam-inc.json](./425125-beam-inc.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
 | Beam It Up! | 390238 | [390238-beam-it-up.json](./390238-beam-it-up.json) |
 | Beam Me Up, Bro! | 421848 | [421848-beam-me-up-bro.json](./421848-beam-me-up-bro.json) |
@@ -6738,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before | 380013 | [380013-before.json](./380013-before.json) |
 | Before | 8653 | [8653-before.json](./8653-before.json) |
 | Before Akhira | 164147 | [164147-before-akhira.json](./164147-before-akhira.json) |
+| Before All Saints Day | 425161 | [425161-before-all-saints-day.json](./425161-before-all-saints-day.json) |
 | Before Arriving at the Terminal | 123942 | [123942-before-arriving-at-the-terminal.json](./123942-before-arriving-at-the-terminal.json) |
 | Before Began | 157363 | [157363-before-began.json](./157363-before-began.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
@@ -11320,6 +11322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blickel NES | 181446 | [181446-blickel-nes.json](./181446-blickel-nes.json) |
 | Blight | 211161 | [211161-blight.json](./211161-blight.json) |
 | Blight | 314088 | [314088-blight.json](./314088-blight.json) |
+| Blight Brigade | 425162 | [425162-blight-brigade.json](./425162-blight-brigade.json) |
 | Blight Bubbles | 260289 | [260289-blight-bubbles.json](./260289-blight-bubbles.json) |
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
@@ -15574,6 +15577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Ball | 407017 | [407017-bouncy-ball.json](./407017-bouncy-ball.json) |
+| Bouncy Ball Battle | 425134 | [425134-bouncy-ball-battle.json](./425134-bouncy-ball-battle.json) |
 | Bouncy Ball NG | 103703 | [103703-bouncy-ball-ng.json](./103703-bouncy-ball-ng.json) |
 | Bouncy Ball: The Impossible Tile Game | 93824 | [93824-bouncy-ball-the-impossible-tile-game.json](./93824-bouncy-ball-the-impossible-tile-game.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
@@ -16015,6 +16019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxes | 186353 | [186353-boxes.json](./186353-boxes.json) |
 | Boxes | 259756 | [259756-boxes.json](./259756-boxes.json) |
 | Boxes and Cutouts | 367750 | [367750-boxes-and-cutouts.json](./367750-boxes-and-cutouts.json) |
+| Boxes Go Wild | 425157 | [425157-boxes-go-wild.json](./425157-boxes-go-wild.json) |
 | Boxes Inc. | 97231 | [97231-boxes-inc.json](./97231-boxes-inc.json) |
 | Boxes World | 247013 | [247013-boxes-world.json](./247013-boxes-world.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
@@ -18224,6 +18229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brush Hour | 411752 | [411752-brush-hour.json](./411752-brush-hour.json) |
 | Brush Jjaemu | 398581 | [398581-brush-jjaemu.json](./398581-brush-jjaemu.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
+| Brush Rush | 425128 | [425128-brush-rush.json](./425128-brush-rush.json) |
 | Brush Up VR | 30013 | [30013-brush-up-vr.json](./30013-brush-up-vr.json) |
 | BrushHammer Miniature Painter | 406170 | [406170-brushhammer-miniature-painter.json](./406170-brushhammer-miniature-painter.json) |
 | Brushland | 424034 | [424034-brushland.json](./424034-brushland.json) |
@@ -18920,6 +18926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
 | Budgie Genetics Simulator | 219731 | [219731-budgie-genetics-simulator.json](./219731-budgie-genetics-simulator.json) |
+| BudMageddon | 425109 | [425109-budmageddon.json](./425109-budmageddon.json) |
 | Budni | 287359 | [287359-budni.json](./287359-budni.json) |
 | Budo Girl War: Maid | 389777 | [389777-budo-girl-war-maid.json](./389777-budo-girl-war-maid.json) |
 | Buds | 176863 | [176863-buds.json](./176863-buds.json) |
