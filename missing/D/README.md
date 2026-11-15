@@ -10399,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Tamers: ReBorn | 177283 | [177283-digital-tamers-reborn.json](./177283-digital-tamers-reborn.json) |
 | Digital Terrarium: Pogona Virtual Pet | 175846 | [175846-digital-terrarium-pogona-virtual-pet.json](./175846-digital-terrarium-pogona-virtual-pet.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
+| Digital World | 50106 | [50106-digital-world.json](./50106-digital-world.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
 | Digital: A Love Story | 27871 | [27871-digital-a-love-story.json](./27871-digital-a-love-story.json) |
 | DigitalDNA Zombies | 83197 | [83197-digitaldna-zombies.json](./83197-digitaldna-zombies.json) |
