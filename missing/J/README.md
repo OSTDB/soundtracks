@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
 | Jack & The Diamonds | 115457 | [115457-jack-and-the-diamonds.json](./115457-jack-and-the-diamonds.json) |
 | Jack 3 the Future | 281282 | [281282-jack-3-the-future.json](./281282-jack-3-the-future.json) |
+| Jack and Casie | 77469 | [77469-jack-and-casie.json](./77469-jack-and-casie.json) |
 | Jack and Jane Jungle Escape | 147137 | [147137-jack-and-jane-jungle-escape.json](./147137-jack-and-jane-jungle-escape.json) |
 | Jack and Sara: Educational game | 96646 | [96646-jack-and-sara-educational-game.json](./96646-jack-and-sara-educational-game.json) |
 | Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
@@ -475,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jalapeño Newt | 141811 | [141811-jalapeno-newt.json](./141811-jalapeno-newt.json) |
 | Jalebi: A Desi Adda | 233529 | [233529-jalebi-a-desi-adda.json](./233529-jalebi-a-desi-adda.json) |
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
+| Jaleco Brawler's Pack | 77430 | [77430-jaleco-brawlers-pack.json](./77430-jaleco-brawlers-pack.json) |
 | Jaleco Collection 1 | 141037 | [141037-jaleco-collection-1.json](./141037-jaleco-collection-1.json) |
 | Jaleco Collection: Vol.1 | 80756 | [80756-jaleco-collection-vol-1.json](./80756-jaleco-collection-vol-1.json) |
 | Jaleco Rally: Big Run - The Supreme 4WD Challenge | 38169 | [38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json](./38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json) |
@@ -1422,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
 | Jet-Paco: Hyper Special Space Agent! | 48375 | [48375-jet-paco-hyper-special-space-agent.json](./48375-jet-paco-hyper-special-space-agent.json) |
 | Jet-Story 2018 | 104390 | [104390-jet-story-2018.json](./104390-jet-story-2018.json) |
+| Jetball | 77477 | [77477-jetball.json](./77477-jetball.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetbike Gang | 207233 | [207233-jetbike-gang.json](./207233-jetbike-gang.json) |
 | Jetboard Joust | 126670 | [126670-jetboard-joust.json](./126670-jetboard-joust.json) |
@@ -2582,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Montana's NFL Football | 46419 | [46419-joe-montanas-nfl-football.json](./46419-joe-montanas-nfl-football.json) |
 | Joe Quake | 381655 | [381655-joe-quake.json](./381655-joe-quake.json) |
 | Joe Rules: Reloaded | 341950 | [341950-joe-rules-reloaded.json](./341950-joe-rules-reloaded.json) |
+| Joe Story | 77441 | [77441-joe-story.json](./77441-joe-story.json) |
 | Joe vs. The Joneses | 175170 | [175170-joe-vs-the-joneses.json](./175170-joe-vs-the-joneses.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
@@ -2915,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jongbou II | 123668 | [123668-jongbou-ii.json](./123668-jongbou-ii.json) |
 | JongRo 3_Street | 283411 | [283411-jongro-3-street.json](./283411-jongro-3-street.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
+| Jonny and the Jimpys | 77454 | [77454-jonny-and-the-jimpys.json](./77454-jonny-and-the-jimpys.json) |
 | Jonny and the Sweet Fragrance of Feces | 323073 | [323073-jonny-and-the-sweet-fragrance-of-feces.json](./323073-jonny-and-the-sweet-fragrance-of-feces.json) |
 | Jonny Crush | 92047 | [92047-jonny-crush.json](./92047-jonny-crush.json) |
 | Jonny Jump | 116458 | [116458-jonny-jump.json](./116458-jonny-jump.json) |
