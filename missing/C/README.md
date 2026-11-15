@@ -6659,10 +6659,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champs: Battlegrounds | 20117 | [20117-champs-battlegrounds.json](./20117-champs-battlegrounds.json) |
 | Champy the Useless Vampire | 291271 | [291271-champy-the-useless-vampire.json](./291271-champy-the-useless-vampire.json) |
 | Chamrosh | 207600 | [207600-chamrosh.json](./207600-chamrosh.json) |
+| Chanbara | 38615 | [38615-chanbara.json](./38615-chanbara.json) |
 | Chanbara Fighter | 356283 | [356283-chanbara-fighter.json](./356283-chanbara-fighter.json) |
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
+| Chance-kun | 38614 | [38614-chance-kun.json](./38614-chance-kun.json) |
 | Chance's Lucky Escape | 340854 | [340854-chances-lucky-escape.json](./340854-chances-lucky-escape.json) |
 | Chance's Lucky Escape 2 | 417426 | [417426-chances-lucky-escape-2.json](./417426-chances-lucky-escape-2.json) |
 | Chandragupta: Warrior Prince | 58573 | [58573-chandragupta-warrior-prince.json](./58573-chandragupta-warrior-prince.json) |
@@ -7871,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chew-Man-Fu | 42114 | [42114-chew-man-fu.json](./42114-chew-man-fu.json) |
 | Chewbrick | 99147 | [99147-chewbrick.json](./99147-chewbrick.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
+| Chewing Gum | 38613 | [38613-chewing-gum.json](./38613-chewing-gum.json) |
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
 | Chewy: Escape from F5 | 47034 | [47034-chewy-escape-from-f5.json](./47034-chewy-escape-from-f5.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
@@ -8448,9 +8451,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chin chin | 202024 | [202024-chin-chin.json](./202024-chin-chin.json) |
 | Chin Chinny Chin Mouse Cheese Chin Toes | 271096 | [271096-chin-chinny-chin-mouse-cheese-chin-toes.json](./271096-chin-chinny-chin-mouse-cheese-chin-toes.json) |
 | China Crisis | 280463 | [280463-china-crisis.json](./280463-china-crisis.json) |
+| China Gate | 38612 | [38612-china-gate.json](./38612-china-gate.json) |
 | China Miner | 13828 | [13828-china-miner.json](./13828-china-miner.json) |
 | China Miner | 415926 | [415926-china-miner.json](./415926-china-miner.json) |
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
+| China Town | 38609 | [38609-china-town.json](./38609-china-town.json) |
 | China VS Roman | 90410 | [90410-china-vs-roman.json](./90410-china-vs-roman.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
 | China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
@@ -9812,6 +9817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuugen no Hasha: Sangoku Shouseiden | 340811 | [340811-chuugen-no-hasha-sangoku-shouseiden.json](./340811-chuugen-no-hasha-sangoku-shouseiden.json) |
 | Chuugoku Janshi Story: Tonpuu | 48718 | [48718-chuugoku-janshi-story-tonpuu.json](./48718-chuugoku-janshi-story-tonpuu.json) |
 | Chuugoku Senseijutsu | 48717 | [48717-chuugoku-senseijutsu.json](./48717-chuugoku-senseijutsu.json) |
+| Chuugokuryuu II | 38607 | [38607-chuugokuryuu-ii.json](./38607-chuugokuryuu-ii.json) |
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuukara Shisen | 206579 | [206579-chuukara-shisen.json](./206579-chuukara-shisen.json) |
@@ -16324,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoopValor 2056: All Unlimited Edition | 254089 | [254089-coopvalor-2056-all-unlimited-edition.json](./254089-coopvalor-2056-all-unlimited-edition.json) |
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
+| Coors Light Bowling | 38622 | [38622-coors-light-bowling.json](./38622-coors-light-bowling.json) |
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
 | Cooties Attack! | 228182 | [228182-cooties-attack.json](./228182-cooties-attack.json) |
 | Cop 01 | 40022 | [40022-cop-01.json](./40022-cop-01.json) |
@@ -17293,6 +17300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosy Housing | 391768 | [391768-cosy-housing.json](./391768-cosy-housing.json) |
 | CotBot Farm | 100496 | [100496-cotbot-farm.json](./100496-cotbot-farm.json) |
 | CoThrust | 369832 | [369832-cothrust.json](./369832-cothrust.json) |
+| Cotocoto Cottong | 38621 | [38621-cotocoto-cottong.json](./38621-cotocoto-cottong.json) |
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
 | Cotrio | 90725 | [90725-cotrio.json](./90725-cotrio.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
@@ -17475,6 +17483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Birds: Brothership of the Valley | 334986 | [334986-country-birds-brothership-of-the-valley.json](./334986-country-birds-brothership-of-the-valley.json) |
 | Country Bumpkin Yutaka | 244159 | [244159-country-bumpkin-yutaka.json](./244159-country-bumpkin-yutaka.json) |
 | Country Champs | 211903 | [211903-country-champs.json](./211903-country-champs.json) |
+| Country Club | 38620 | [38620-country-club.json](./38620-country-club.json) |
 | Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
 | Country Dance | 50930 | [50930-country-dance.json](./50930-country-dance.json) |
 | Country Dance 2 | 50927 | [50927-country-dance-2.json](./50927-country-dance-2.json) |
