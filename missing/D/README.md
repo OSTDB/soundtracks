@@ -5002,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Code | 195950 | [195950-death-code.json](./195950-death-code.json) |
 | Death Collector | 113128 | [113128-death-collector.json](./113128-death-collector.json) |
+| Death Come True | 127493 | [127493-death-come-true.json](./127493-death-come-true.json) |
 | Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
 | Death Coming | 77550 | [77550-death-coming.json](./77550-death-coming.json) |
 | Death Connection | 62948 | [62948-death-connection.json](./62948-death-connection.json) |
