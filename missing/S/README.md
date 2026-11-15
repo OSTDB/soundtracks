@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saelig | 36643 | [36643-saelig.json](./36643-saelig.json) |
 | Saenai Heroine no Sodatekata: Blessing Flowers | 11777 | [11777-saenai-heroine-no-sodatekata-blessing-flowers.json](./11777-saenai-heroine-no-sodatekata-blessing-flowers.json) |
 | Saenai Kanojo no Sodatekata | 60703 | [60703-saenai-kanojo-no-sodatekata.json](./60703-saenai-kanojo-no-sodatekata.json) |
+| SAF: Secret Armored Force | 50077 | [50077-saf-secret-armored-force.json](./50077-saf-secret-armored-force.json) |
 | Safari | 171771 | [171771-safari.json](./171771-safari.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari | 363626 | [363626-safari.json](./363626-safari.json) |
@@ -1660,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanabi: Collector's Edition | 272293 | [272293-sanabi-collectors-edition.json](./272293-sanabi-collectors-edition.json) |
 | Sanada Juu Yuushi | 48862 | [48862-sanada-juu-yuushi.json](./48862-sanada-juu-yuushi.json) |
 | Sanae Challenge! | 62482 | [62482-sanae-challenge.json](./62482-sanae-challenge.json) |
+| Sanae Challenge! Fusion | 50190 | [50190-sanae-challenge-fusion.json](./50190-sanae-challenge-fusion.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae no Gensoukyou | 207082 | [207082-sanae-no-gensoukyou.json](./207082-sanae-no-gensoukyou.json) |
 | Sanae no Youkai Taiji Shinan | 360893 | [360893-sanae-no-youkai-taiji-shinan.json](./360893-sanae-no-youkai-taiji-shinan.json) |
@@ -2045,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
 | Santa Claus Journey | 242837 | [242837-santa-claus-journey.json](./242837-santa-claus-journey.json) |
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
+| Santa Claus Junior | 50070 | [50070-santa-claus-junior.json](./50070-santa-claus-junior.json) |
 | Santa Claus no Takara-bako | 41250 | [41250-santa-claus-no-takara-bako.json](./41250-santa-claus-no-takara-bako.json) |
 | Santa Claus Saves The Earth | 49237 | [49237-santa-claus-saves-the-earth.json](./49237-santa-claus-saves-the-earth.json) |
 | Santa Claus: Breakthrough Gaming Arcade | 229475 | [229475-santa-claus-breakthrough-gaming-arcade.json](./229475-santa-claus-breakthrough-gaming-arcade.json) |
@@ -13045,6 +13048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sis and Bro The Cyborg Siblings | 292962 | [292962-sis-and-bro-the-cyborg-siblings.json](./292962-sis-and-bro-the-cyborg-siblings.json) |
 | Sisão | 172558 | [172558-sisao.json](./172558-sisao.json) |
 | Sísifo va lentin | 395959 | [395959-sisifo-va-lentin.json](./395959-sisifo-va-lentin.json) |
+| Sispri Gauntlet | 50187 | [50187-sispri-gauntlet.json](./50187-sispri-gauntlet.json) |
 | SisPuri Vanish! | 98066 | [98066-sispuri-vanish.json](./98066-sispuri-vanish.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
 | Sissy's Magical Ponycorn Adventure | 65919 | [65919-sissys-magical-ponycorn-adventure.json](./65919-sissys-magical-ponycorn-adventure.json) |
@@ -27297,6 +27301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
 | Star Trek: Starfleet Academy - Chekov's Lost Missions | 69647 | [69647-star-trek-starfleet-academy-chekovs-lost-missions.json](./69647-star-trek-starfleet-academy-chekovs-lost-missions.json) |
 | Star Trek: Starfleet Academy - Starship Bridge Simulator | 45878 | [45878-star-trek-starfleet-academy-starship-bridge-simulator.json](./45878-star-trek-starfleet-academy-starship-bridge-simulator.json) |
+| Star Trek: Starfleet Command | 50097 | [50097-star-trek-starfleet-command.json](./50097-star-trek-starfleet-command.json) |
 | Star Trek: Starfleet Command - Gold Edition | 33970 | [33970-star-trek-starfleet-command-gold-edition.json](./33970-star-trek-starfleet-command-gold-edition.json) |
 | Star Trek: Starfleet Command - Orion Pirates | 79758 | [79758-star-trek-starfleet-command-orion-pirates.json](./79758-star-trek-starfleet-command-orion-pirates.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
