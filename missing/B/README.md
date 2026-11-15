@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BalloonBoyBob | 129096 | [129096-balloonboybob.json](./129096-balloonboybob.json) |
 | Balloone | 395872 | [395872-balloone.json](./395872-balloone.json) |
 | Ballooni | 240640 | [240640-ballooni.json](./240640-ballooni.json) |
+| Ballooning | 13961 | [13961-ballooning.json](./13961-ballooning.json) |
 | Balloono | 405334 | [405334-balloono.json](./405334-balloono.json) |
 | Balloonrain | 130836 | [130836-balloonrain.json](./130836-balloonrain.json) |
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana-Clicker | 322657 | [322657-banana-clicker.json](./322657-banana-clicker.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
 | Bananab!! | 198052 | [198052-bananab.json](./198052-bananab.json) |
+| Bananaby | 13962 | [13962-bananaby.json](./13962-bananaby.json) |
 | Bananaganza | 366736 | [366736-bananaganza.json](./366736-bananaganza.json) |
 | Bananagrams | 110038 | [110038-bananagrams.json](./110038-bananagrams.json) |
 | BananaGuideline | 125827 | [125827-bananaguideline.json](./125827-bananaguideline.json) |
@@ -3914,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
 | Battle & Crash | 122465 | [122465-battle-and-crash.json](./122465-battle-and-crash.json) |
 | Battle 100 | 103818 | [103818-battle-100.json](./103818-battle-100.json) |
+| Battle 1917 | 13963 | [13963-battle-1917.json](./13963-battle-1917.json) |
 | Battle 19XX | 195667 | [195667-battle-19xx.json](./195667-battle-19xx.json) |
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
 | Battle Academy | 17175 | [17175-battle-academy.json](./17175-battle-academy.json) |
@@ -5464,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaker Creatures | 206254 | [206254-beaker-creatures.json](./206254-beaker-creatures.json) |
 | Beakiez | 94134 | [94134-beakiez.json](./94134-beakiez.json) |
 | Beaks of Rage | 183704 | [183704-beaks-of-rage.json](./183704-beaks-of-rage.json) |
+| Beaky and the Egg Snatchers | 13964 | [13964-beaky-and-the-egg-snatchers.json](./13964-beaky-and-the-egg-snatchers.json) |
 | Bealphareth | 62915 | [62915-bealphareth.json](./62915-bealphareth.json) |
 | Beam | 15700 | [15700-beam.json](./15700-beam.json) |
 | Beam | 233423 | [233423-beam.json](./233423-beam.json) |
@@ -6107,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatBucs | 372024 | [372024-beatbucs.json](./372024-beatbucs.json) |
 | Beatbuddy HD | 175102 | [175102-beatbuddy-hd.json](./175102-beatbuddy-hd.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
+| Beatcha | 13965 | [13965-beatcha.json](./13965-beatcha.json) |
 | Beatcore Zero | 405143 | [405143-beatcore-zero.json](./405143-beatcore-zero.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatcrash | 117866 | [117866-beatcrash.json](./117866-beatcrash.json) |
@@ -6566,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beebtote | 15667 | [15667-beebtote.json](./15667-beebtote.json) |
 | Beebtrek | 15668 | [15668-beebtrek.json](./15668-beebtrek.json) |
+| Beebul | 13966 | [13966-beebul.json](./13966-beebul.json) |
 | Beecarbonize | 240874 | [240874-beecarbonize.json](./240874-beecarbonize.json) |
 | BeeCells | 90386 | [90386-beecells.json](./90386-beecells.json) |
 | BeeCells HD | 175180 | [175180-beecells-hd.json](./175180-beecells-hd.json) |
@@ -8241,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ambitions | 152779 | [152779-big-ambitions.json](./152779-big-ambitions.json) |
 | Big Babies: Argument | 324835 | [324835-big-babies-argument.json](./324835-big-babies-argument.json) |
 | Big Babies: Instructions | 324834 | [324834-big-babies-instructions.json](./324834-big-babies-instructions.json) |
+| Big Bad John | 13967 | [13967-big-bad-john.json](./13967-big-bad-john.json) |
 | Big Bad Pharma | 412656 | [412656-big-bad-pharma.json](./412656-big-bad-pharma.json) |
 | Big Bad Sudoku Book | 267334 | [267334-big-bad-sudoku-book.json](./267334-big-bad-sudoku-book.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
@@ -8273,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Beautiful Van Derby Racing | 366095 | [366095-big-beautiful-van-derby-racing.json](./366095-big-beautiful-van-derby-racing.json) |
 | Big Beautiful Women: Giantess Dating Action | 373174 | [373174-big-beautiful-women-giantess-dating-action.json](./373174-big-beautiful-women-giantess-dating-action.json) |
 | Big Ben | 13814 | [13814-big-ben.json](./13814-big-ben.json) |
+| Big Ben Strikes Again | 13968 | [13968-big-ben-strikes-again.json](./13968-big-ben-strikes-again.json) |
 | Big Bia | 142674 | [142674-big-bia.json](./142674-big-bia.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
 | Big Bird's Egg Catch | 40633 | [40633-big-birds-egg-catch.json](./40633-big-birds-egg-catch.json) |
@@ -8855,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Bob | 245131 | [245131-billy-bob.json](./245131-billy-bob.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
 | Billy Bomber | 124521 | [124521-billy-bomber.json](./124521-billy-bomber.json) |
+| Billy Bong | 13969 | [13969-billy-bong.json](./13969-billy-bong.json) |
 | Billy Bonka | 195563 | [195563-billy-bonka.json](./195563-billy-bonka.json) |
 | Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
@@ -10098,6 +10107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Home 2 | 99059 | [99059-black-home-2.json](./99059-black-home-2.json) |
 | Black Horizon: Armada | 391983 | [391983-black-horizon-armada.json](./391983-black-horizon-armada.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
+| Black Horse | 13971 | [13971-black-horse.json](./13971-black-horse.json) |
 | Black Ice | 17589 | [17589-black-ice.json](./17589-black-ice.json) |
 | Black Ice Mod Advanced | 394546 | [394546-black-ice-mod-advanced.json](./394546-black-ice-mod-advanced.json) |
 | Black ICE/White Noise | 341681 | [341681-black-ice-white-noise.json](./341681-black-ice-white-noise.json) |
@@ -10576,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Wings | 100944 | [100944-blade-and-wings.json](./100944-blade-and-wings.json) |
 | Blade 9 Online | 60964 | [60964-blade-9-online.json](./60964-blade-9-online.json) |
 | Blade Abyss | 246014 | [246014-blade-abyss.json](./246014-blade-abyss.json) |
+| Blade Alley | 13972 | [13972-blade-alley.json](./13972-blade-alley.json) |
 | Blade and Burden | 253315 | [253315-blade-and-burden.json](./253315-blade-and-burden.json) |
 | Blade and Ham | 190244 | [190244-blade-and-ham.json](./190244-blade-and-ham.json) |
 | Blade and Madness | 349996 | [349996-blade-and-madness.json](./349996-blade-and-madness.json) |
@@ -11064,6 +11075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Entropy Effect - Rachel Character Pack | 350338 | [350338-blazblue-entropy-effect-rachel-character-pack.json](./350338-blazblue-entropy-effect-rachel-character-pack.json) |
 | BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | BlazBlue: Entropy Effect x Dead Cells | 339611 | [339611-blazblue-entropy-effect-x-dead-cells.json](./339611-blazblue-entropy-effect-x-dead-cells.json) |
+| Blaze | 13973 | [13973-blaze.json](./13973-blaze.json) |
 | Blaze | 171722 | [171722-blaze.json](./171722-blaze.json) |
 | Blaze | 268823 | [268823-blaze.json](./268823-blaze.json) |
 | Blaze & Blade Busters | 43787 | [43787-blaze-and-blade-busters.json](./43787-blaze-and-blade-busters.json) |
@@ -19452,6 +19464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulls Versus Blazers and the NBA Playoffs | 46284 | [46284-bulls-versus-blazers-and-the-nba-playoffs.json](./46284-bulls-versus-blazers-and-the-nba-playoffs.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bulls vs Lakers and the NBA Playoffs | 46067 | [46067-bulls-vs-lakers-and-the-nba-playoffs.json](./46067-bulls-vs-lakers-and-the-nba-playoffs.json) |
+| Bullseye | 13890 | [13890-bullseye.json](./13890-bullseye.json) |
 | Bullseye | 152485 | [152485-bullseye.json](./152485-bullseye.json) |
 | Bullseye | 213298 | [213298-bullseye.json](./213298-bullseye.json) |
 | Bullseye | 74169 | [74169-bullseye.json](./74169-bullseye.json) |
@@ -19565,6 +19578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumpers & Broadswords | 201117 | [201117-bumpers-and-broadswords.json](./201117-bumpers-and-broadswords.json) |
 | Bumpers & Broadswords Mini | 411357 | [411357-bumpers-and-broadswords-mini.json](./411357-bumpers-and-broadswords-mini.json) |
 | Bumpin' Dungeon | 119211 | [119211-bumpin-dungeon.json](./119211-bumpin-dungeon.json) |
+| Bumping Buggies | 13891 | [13891-bumping-buggies.json](./13891-bumping-buggies.json) |
 | Bumpkin & Sprout | 369531 | [369531-bumpkin-and-sprout.json](./369531-bumpkin-and-sprout.json) |
 | Bumpkin and Sprout | 270025 | [270025-bumpkin-and-sprout.json](./270025-bumpkin-and-sprout.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
