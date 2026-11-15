@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Empires | 70451 | [70451-fantasy-empires.json](./70451-fantasy-empires.json) |
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
 | Fantasy Fairways | 30629 | [30629-fantasy-fairways.json](./30629-fantasy-fairways.json) |
+| Fantasy Fest! | 69593 | [69593-fantasy-fest.json](./69593-fantasy-fest.json) |
 | Fantasy Fight Live! | 141962 | [141962-fantasy-fight-live.json](./141962-fantasy-fight-live.json) |
 | Fantasy Fighters | 200945 | [200945-fantasy-fighters.json](./200945-fantasy-fighters.json) |
 | Fantasy Fighters | 246771 | [246771-fantasy-fighters.json](./246771-fantasy-fighters.json) |
