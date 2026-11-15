@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat Evolution: Toyota Challenge Pack 4 | 156195 | [156195-nascar-heat-evolution-toyota-challenge-pack-4.json](./156195-nascar-heat-evolution-toyota-challenge-pack-4.json) |
 | NASCAR Heat Mobile | 87881 | [87881-nascar-heat-mobile.json](./87881-nascar-heat-mobile.json) |
 | NASCAR Kart Racing | 5053 | [5053-nascar-kart-racing.json](./5053-nascar-kart-racing.json) |
+| NASCAR Legends | 801 | [801-nascar-legends.json](./801-nascar-legends.json) |
 | NASCAR Manager | 233912 | [233912-nascar-manager.json](./233912-nascar-manager.json) |
 | Nascar Racers | 217748 | [217748-nascar-racers.json](./217748-nascar-racers.json) |
 | NASCAR Racers | 26815 | [26815-nascar-racers.json](./26815-nascar-racers.json) |
@@ -900,7 +901,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Racing 2 | 802 | [802-nascar-racing-2.json](./802-nascar-racing-2.json) |
 | NASCAR Racing 2002 Season | 803 | [803-nascar-racing-2002-season.json](./803-nascar-racing-2002-season.json) |
 | NASCAR Racing 2003 Season | 804 | [804-nascar-racing-2003-season.json](./804-nascar-racing-2003-season.json) |
+| NASCAR Racing 3 | 805 | [805-nascar-racing-3.json](./805-nascar-racing-3.json) |
 | NASCAR Racing 3 :Craftsman Truck Series - Expansion Pack | 69538 | [69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json](./69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json) |
+| NASCAR Racing 4 | 806 | [806-nascar-racing-4.json](./806-nascar-racing-4.json) |
 | NASCAR Racing Arcade | 131360 | [131360-nascar-racing-arcade.json](./131360-nascar-racing-arcade.json) |
 | NASCAR Racing: 1999 Edition | 69565 | [69565-nascar-racing-1999-edition.json](./69565-nascar-racing-1999-edition.json) |
 | NASCAR Revolution | 22832 | [22832-nascar-revolution.json](./22832-nascar-revolution.json) |
@@ -7420,6 +7423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norland | 204646 | [204646-norland.json](./204646-norland.json) |
 | Norm Aethos Real | 325923 | [325923-norm-aethos-real.json](./325923-norm-aethos-real.json) |
 | Norm Koger's: The Operational Art of War III | 69928 | [69928-norm-kogers-the-operational-art-of-war-iii.json](./69928-norm-kogers-the-operational-art-of-war-iii.json) |
+| Norm Koger's: The Operational Art of War vol. 1 - 1939-1955 | 896 | [896-norm-kogers-the-operational-art-of-war-vol-1-1939-1955.json](./896-norm-kogers-the-operational-art-of-war-vol-1-1939-1955.json) |
 | Norm of the North: Arctic Dash | 307971 | [307971-norm-of-the-north-arctic-dash.json](./307971-norm-of-the-north-arctic-dash.json) |
 | Norm of the North's Digit Dodge | 232336 | [232336-norm-of-the-norths-digit-dodge.json](./232336-norm-of-the-norths-digit-dodge.json) |
 | Norm: A Serial Killer RPG | 349545 | [349545-norm-a-serial-killer-rpg.json](./349545-norm-a-serial-killer-rpg.json) |
