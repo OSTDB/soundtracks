@@ -7819,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesslands | 211996 | [211996-chesslands.json](./211996-chesslands.json) |
 | Chesslike | 284818 | [284818-chesslike.json](./284818-chesslike.json) |
 | ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
+| Chessmageddon | 429764 | [429764-chessmageddon.json](./429764-chessmageddon.json) |
 | Chessmaster | 206921 | [206921-chessmaster.json](./206921-chessmaster.json) |
 | Chessmaster | 23562 | [23562-chessmaster.json](./23562-chessmaster.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
@@ -17694,6 +17695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
 | Covenant of Gears: The 3 Musketeers | 416513 | [416513-covenant-of-gears-the-3-musketeers.json](./416513-covenant-of-gears-the-3-musketeers.json) |
 | Covenant of Solitude | 200936 | [200936-covenant-of-solitude.json](./200936-covenant-of-solitude.json) |
+| Covenant Tower | 429768 | [429768-covenant-tower.json](./429768-covenant-tower.json) |
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
 | Coveneth | 151373 | [151373-coveneth.json](./151373-coveneth.json) |
