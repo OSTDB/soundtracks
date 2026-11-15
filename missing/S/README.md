@@ -5812,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiko-chan SOS | 123164 | [123164-seiko-chan-sos.json](./123164-seiko-chan-sos.json) |
 | Seiko: High! Low! | 227639 | [227639-seiko-high-low.json](./227639-seiko-high-low.json) |
 | Seikoku 1092: Souhei-den | 351984 | [351984-seikoku-1092-souhei-den.json](./351984-seikoku-1092-souhei-den.json) |
+| Seikyu Let's Go! | 426374 | [426374-seikyu-lets-go.json](./426374-seikyu-lets-go.json) |
 | Seilane | 92130 | [92130-seilane.json](./92130-seilane.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
@@ -19575,6 +19576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Doom 2: 'Bots on Mobius | 374276 | [374276-sonic-doom-2-bots-on-mobius.json](./374276-sonic-doom-2-bots-on-mobius.json) |
 | Sonic Double Pack: Sonic Mania Plus & Sonic Forces | 145254 | [145254-sonic-double-pack-sonic-mania-plus-and-sonic-forces.json](./145254-sonic-double-pack-sonic-mania-plus-and-sonic-forces.json) |
 | Sonic Dream Team | 274840 | [274840-sonic-dream-team.json](./274840-sonic-dream-team.json) |
+| Sonic Dream Team | 426377 | [426377-sonic-dream-team.json](./426377-sonic-dream-team.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Dreamscape | 319507 | [319507-sonic-dreamscape.json](./319507-sonic-dreamscape.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
@@ -24748,6 +24750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Clash | 149877 | [149877-spirit-clash.json](./149877-spirit-clash.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Cleansers | 410635 | [410635-spirit-cleansers.json](./410635-spirit-cleansers.json) |
+| Spirit Companion: My AI Roommate Can't Be This Adorable | 426353 | [426353-spirit-companion-my-ai-roommate-cant-be-this-adorable.json](./426353-spirit-companion-my-ai-roommate-cant-be-this-adorable.json) |
 | Spirit Crossing | 336502 | [336502-spirit-crossing.json](./336502-spirit-crossing.json) |
 | Spirit Detective | 191490 | [191490-spirit-detective.json](./191490-spirit-detective.json) |
 | Spirit Driver | 321272 | [321272-spirit-driver.json](./321272-spirit-driver.json) |
@@ -26529,6 +26532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack 'em High | 86259 | [86259-stack-em-high.json](./86259-stack-em-high.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
+| Stack & Brew | 426358 | [426358-stack-and-brew.json](./426358-stack-and-brew.json) |
 | Stack & Crack | 87030 | [87030-stack-and-crack.json](./87030-stack-and-crack.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
 | Stack & Spell | 416348 | [416348-stack-and-spell.json](./416348-stack-and-spell.json) |
