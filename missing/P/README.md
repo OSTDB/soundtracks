@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mania | 284474 | [284474-pac-mania.json](./284474-pac-mania.json) |
 | Pac-Mania | 284632 | [284632-pac-mania.json](./284632-pac-mania.json) |
 | Pac-Mania | 299838 | [299838-pac-mania.json](./299838-pac-mania.json) |
+| Pac-Manic Miner Man | 38610 | [38610-pac-manic-miner-man.json](./38610-pac-manic-miner-man.json) |
 | Pac-Mazing | 185304 | [185304-pac-mazing.json](./185304-pac-mazing.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac-Motos | 203273 | [203273-pac-motos.json](./203273-pac-motos.json) |
@@ -9717,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelment TD | 277919 | [277919-pixelment-td.json](./277919-pixelment-td.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixelmon | 232731 | [232731-pixelmon.json](./232731-pixelmon.json) |
+| Pixelmon Hunter | 39258 | [39258-pixelmon-hunter.json](./39258-pixelmon-hunter.json) |
 | Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
 | Pixelmon Wingull 2 | 293268 | [293268-pixelmon-wingull-2.json](./293268-pixelmon-wingull-2.json) |
 | Pixelo | 235094 | [235094-pixelo.json](./235094-pixelo.json) |
