@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I3ergsteiger | 379034 | [379034-i3ergsteiger.json](./379034-i3ergsteiger.json) |
 | i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
 | Ia Scatter City | 258949 | [258949-ia-scatter-city.json](./258949-ia-scatter-city.json) |
+| IA/VT Colorful | 26994 | [26994-ia-vt-colorful.json](./26994-ia-vt-colorful.json) |
 | Iactura | 31736 | [31736-iactura.json](./31736-iactura.json) |
 | Iago | 377876 | [377876-iago.json](./377876-iago.json) |
 | IAH: Internet War | 371911 | [371911-iah-internet-war.json](./371911-iah-internet-war.json) |
@@ -6091,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion From Space | 191063 | [191063-invasion-from-space.json](./191063-invasion-from-space.json) |
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
 | Invasion of Alien X: Earth in Crisis | 122723 | [122723-invasion-of-alien-x-earth-in-crisis.json](./122723-invasion-of-alien-x-earth-in-crisis.json) |
+| Invasion of Barbarians | 27020 | [27020-invasion-of-barbarians.json](./27020-invasion-of-barbarians.json) |
 | Invasion of Space | 294681 | [294681-invasion-of-space.json](./294681-invasion-of-space.json) |
 | Invasion Of Space 2 | 317655 | [317655-invasion-of-space-2.json](./317655-invasion-of-space-2.json) |
 | Invasion of the Alien Blobs! | 85624 | [85624-invasion-of-the-alien-blobs.json](./85624-invasion-of-the-alien-blobs.json) |
