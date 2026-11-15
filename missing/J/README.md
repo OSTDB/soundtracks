@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.Edgar Hoover Vs. Kennedy | 135087 | [135087-j-edgar-hoover-vs-kennedy.json](./135087-j-edgar-hoover-vs-kennedy.json) |
 | J.J. & Jeff | 42106 | [42106-j-j-and-jeff.json](./42106-j-j-and-jeff.json) |
 | J.J's Tennis Tour | 237006 | [237006-j-js-tennis-tour.json](./237006-j-js-tennis-tour.json) |
+| J.League '96 Dream Stadium | 37974 | [37974-j-league-96-dream-stadium.json](./37974-j-league-96-dream-stadium.json) |
 | J.League 3D Stage | 234089 | [234089-j-league-3d-stage.json](./234089-j-league-3d-stage.json) |
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
 | J.League Champion Soccer | 46170 | [46170-j-league-champion-soccer.json](./46170-j-league-champion-soccer.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Excite Stage '94: Sanfreece Hiroshima FC | 329703 | [329703-j-league-excite-stage-94-sanfreece-hiroshima-fc.json](./329703-j-league-excite-stage-94-sanfreece-hiroshima-fc.json) |
 | J.League Excite Stage '94: Shimizu S-Pulse | 329712 | [329712-j-league-excite-stage-94-shimizu-s-pulse.json](./329712-j-league-excite-stage-94-shimizu-s-pulse.json) |
 | J.League Excite Stage '94: Verdy Yomiuri | 329700 | [329700-j-league-excite-stage-94-verdy-yomiuri.json](./329700-j-league-excite-stage-94-verdy-yomiuri.json) |
+| J.League Excite Stage '95 | 37973 | [37973-j-league-excite-stage-95.json](./37973-j-league-excite-stage-95.json) |
 | J.League Excite Stage '96 | 42657 | [42657-j-league-excite-stage-96.json](./42657-j-league-excite-stage-96.json) |
 | J.League Excite Stage GB | 65244 | [65244-j-league-excite-stage-gb.json](./65244-j-league-excite-stage-gb.json) |
 | J.League Excite Stage Tactics | 79553 | [79553-j-league-excite-stage-tactics.json](./79553-j-league-excite-stage-tactics.json) |
