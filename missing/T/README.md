@@ -5134,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
 | Terror Strike | 73615 | [73615-terror-strike.json](./73615-terror-strike.json) |
 | Terror Time | 220792 | [220792-terror-time.json](./220792-terror-time.json) |
+| Terror TRAX: Track of the Vampire | 71111 | [71111-terror-trax-track-of-the-vampire.json](./71111-terror-trax-track-of-the-vampire.json) |
 | Terror Trivia | 298522 | [298522-terror-trivia.json](./298522-terror-trivia.json) |
 | Terror Type: A.L.C.H.E.M.Y. | 338318 | [338318-terror-type-a-l-c-h-e-m-y.json](./338318-terror-type-a-l-c-h-e-m-y.json) |
 | Terror World | 101265 | [101265-terror-world.json](./101265-terror-world.json) |
@@ -5191,7 +5192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
 | Tesla Boy: Robot Time Traveller | 241826 | [241826-tesla-boy-robot-time-traveller.json](./241826-tesla-boy-robot-time-traveller.json) |
 | Tesla Breaks the World! | 17652 | [17652-tesla-breaks-the-world.json](./17652-tesla-breaks-the-world.json) |
-| Tesla Force | 124029 | [124029-tesla-force.json](./124029-tesla-force.json) |
 | Tesla Legacy | 209190 | [209190-tesla-legacy.json](./209190-tesla-legacy.json) |
 | Tesla Motors Simulator | 182954 | [182954-tesla-motors-simulator.json](./182954-tesla-motors-simulator.json) |
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
@@ -8143,6 +8143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
 | The Clubies | 263168 | [263168-the-clubies.json](./263168-the-clubies.json) |
 | The Clue Club: Animal Detectives | 207122 | [207122-the-clue-club-animal-detectives.json](./207122-the-clue-club-animal-detectives.json) |
+| The ClueFinders 3rd Grade Adventures: The Mystery of Mathra | 72192 | [72192-the-cluefinders-3rd-grade-adventures-the-mystery-of-mathra.json](./72192-the-cluefinders-3rd-grade-adventures-the-mystery-of-mathra.json) |
 | The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid | 73694 | [73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json](./73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json) |
 | The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
 | The ClueFinders Reading Adventures | 91799 | [91799-the-cluefinders-reading-adventures.json](./91799-the-cluefinders-reading-adventures.json) |
@@ -8347,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cornfield Road | 304161 | [304161-the-cornfield-road.json](./304161-the-cornfield-road.json) |
 | The Coroner Saga | 114335 | [114335-the-coroner-saga.json](./114335-the-coroner-saga.json) |
 | The Coroner Saga: Episode 2 - When night falls | 174534 | [174534-the-coroner-saga-episode-2-when-night-falls.json](./174534-the-coroner-saga-episode-2-when-night-falls.json) |
+| The Corporate Machine | 72206 | [72206-the-corporate-machine.json](./72206-the-corporate-machine.json) |
 | The Corporation | 397161 | [397161-the-corporation.json](./397161-the-corporation.json) |
 | The Corpse | 376714 | [376714-the-corpse.json](./376714-the-corpse.json) |
 | The Corpse Below | 417779 | [417779-the-corpse-below.json](./417779-the-corpse-below.json) |
@@ -8980,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Blue Adventure | 179379 | [179379-the-dead-blue-adventure.json](./179379-the-dead-blue-adventure.json) |
 | The Dead Case | 186139 | [186139-the-dead-case.json](./186139-the-dead-case.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
+| The Dead City | 72210 | [72210-the-dead-city.json](./72210-the-dead-city.json) |
 | The Dead Cloud Forest | 81723 | [81723-the-dead-cloud-forest.json](./81723-the-dead-cloud-forest.json) |
 | The Dead Daughter | 371623 | [371623-the-dead-daughter.json](./371623-the-dead-daughter.json) |
 | The Dead End | 163771 | [163771-the-dead-end.json](./163771-the-dead-end.json) |
@@ -11347,6 +11350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Battle Pocket | 228554 | [228554-the-great-battle-pocket.json](./228554-the-great-battle-pocket.json) |
 | The Great Battle V | 66672 | [66672-the-great-battle-v.json](./66672-the-great-battle-v.json) |
 | The Great Battle VI | 66670 | [66670-the-great-battle-vi.json](./66670-the-great-battle-vi.json) |
+| The Great Battles of Alexander | 72222 | [72222-the-great-battles-of-alexander.json](./72222-the-great-battles-of-alexander.json) |
 | The Great Battles of Caesar | 69819 | [69819-the-great-battles-of-caesar.json](./69819-the-great-battles-of-caesar.json) |
 | The Great Battles of Hannibal | 73519 | [73519-the-great-battles-of-hannibal.json](./73519-the-great-battles-of-hannibal.json) |
 | The Great Bedroom Escape | 385213 | [385213-the-great-bedroom-escape.json](./385213-the-great-bedroom-escape.json) |
@@ -18758,6 +18762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowman Story | 229472 | [229472-the-snowman-story.json](./229472-the-snowman-story.json) |
 | The Snowman's Journey | 148762 | [148762-the-snowmans-journey.json](./148762-the-snowmans-journey.json) |
 | The Snowrider | 397440 | [397440-the-snowrider.json](./397440-the-snowrider.json) |
+| The Soaring Simulator | 72224 | [72224-the-soaring-simulator.json](./72224-the-soaring-simulator.json) |
 | The Sob Island | 217119 | [217119-the-sob-island.json](./217119-the-sob-island.json) |
 | The Soccer Player Manager | 180478 | [180478-the-soccer-player-manager.json](./180478-the-soccer-player-manager.json) |
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
@@ -20167,6 +20172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
 | The Truth About 9th Company | 158978 | [158978-the-truth-about-9th-company.json](./158978-the-truth-about-9th-company.json) |
+| The Truth About Game Development | 72221 | [72221-the-truth-about-game-development.json](./72221-the-truth-about-game-development.json) |
 | The Truth is Out There - Mystery Adventure Pack | 146441 | [146441-the-truth-is-out-there-mystery-adventure-pack.json](./146441-the-truth-is-out-there-mystery-adventure-pack.json) |
 | The Truth Is Up There | 397424 | [397424-the-truth-is-up-there.json](./397424-the-truth-is-up-there.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
@@ -20816,6 +20822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warehouse | 288624 | [288624-the-warehouse.json](./288624-the-warehouse.json) |
 | The Warfare | 417488 | [417488-the-warfare.json](./417488-the-warfare.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
+| The Warhammer Universe Strategy Game Collection | 71112 | [71112-the-warhammer-universe-strategy-game-collection.json](./71112-the-warhammer-universe-strategy-game-collection.json) |
 | The Warhorn | 75097 | [75097-the-warhorn.json](./75097-the-warhorn.json) |
 | The Warlin of Heroes | 148963 | [148963-the-warlin-of-heroes.json](./148963-the-warlin-of-heroes.json) |
 | The Warlock of Firetop Mountain | 73881 | [73881-the-warlock-of-firetop-mountain.json](./73881-the-warlock-of-firetop-mountain.json) |
