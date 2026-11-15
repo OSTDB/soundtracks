@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Guns: Episode 01 - Redemption | 28572 | [28572-western-guns-episode-01-redemption.json](./28572-western-guns-episode-01-redemption.json) |
 | Western Justice | 391777 | [391777-western-justice.json](./391777-western-justice.json) |
 | Western Outlaw: Wanted Dead or Alive | 71096 | [71096-western-outlaw-wanted-dead-or-alive.json](./71096-western-outlaw-wanted-dead-or-alive.json) |
+| Western Press | 35076 | [35076-western-press.json](./35076-western-press.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
@@ -5718,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Alone | 264521 | [264521-wild-alone.json](./264521-wild-alone.json) |
 | Wild Americas | 247979 | [247979-wild-americas.json](./247979-wild-americas.json) |
 | Wild Angels: Episode 1 | 282209 | [282209-wild-angels-episode-1.json](./282209-wild-angels-episode-1.json) |
+| Wild Animal Racing | 34784 | [34784-wild-animal-racing.json](./34784-wild-animal-racing.json) |
 | Wild Animals - Animated Jigsaws | 30862 | [30862-wild-animals-animated-jigsaws.json](./30862-wild-animals-animated-jigsaws.json) |
 | Wild Animals Kingdom Battle Simulator 2018 | 102458 | [102458-wild-animals-kingdom-battle-simulator-2018.json](./102458-wild-animals-kingdom-battle-simulator-2018.json) |
 | Wild Animals Transporter | 294334 | [294334-wild-animals-transporter.json](./294334-wild-animals-transporter.json) |
@@ -6103,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
 | Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
+| Wildshade: Unicorn Champions | 258256 | [258256-wildshade-unicorn-champions.json](./258256-wildshade-unicorn-champions.json) |
 | Wildsilver | 152784 | [152784-wildsilver.json](./152784-wildsilver.json) |
 | Wildsite | 282210 | [282210-wildsite.json](./282210-wildsite.json) |
 | WildSnake | 200365 | [200365-wildsnake.json](./200365-wildsnake.json) |
