@@ -8889,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter Zero | 194068 | [194068-shelter-zero.json](./194068-shelter-zero.json) |
 | Shelter: Complete Edition | 53600 | [53600-shelter-complete-edition.json](./53600-shelter-complete-edition.json) |
 | Shelter: The Heart Edition | 53599 | [53599-shelter-the-heart-edition.json](./53599-shelter-the-heart-edition.json) |
+| Sheltered | 11753 | [11753-sheltered.json](./11753-sheltered.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Deep | 232209 | [232209-sheltered-deep.json](./232209-sheltered-deep.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
@@ -25402,6 +25403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore Origins | 78885 | [78885-spore-origins.json](./78885-spore-origins.json) |
 | Spore Valley | 351497 | [351497-spore-valley.json](./351497-spore-valley.json) |
 | Spore: Creepy and Cute | 70680 | [70680-spore-creepy-and-cute.json](./70680-spore-creepy-and-cute.json) |
+| Spore: Galactic Adventures | 4218 | [4218-spore-galactic-adventures.json](./4218-spore-galactic-adventures.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
@@ -27606,6 +27608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Jedi Hunt | 198911 | [198911-star-wars-episode-i-jedi-hunt.json](./198911-star-wars-episode-i-jedi-hunt.json) |
 | Star Wars: Episode I - Jedi Power Battles | 301490 | [301490-star-wars-episode-i-jedi-power-battles.json](./301490-star-wars-episode-i-jedi-power-battles.json) |
 | Star Wars: Episode I - Jedi Power Battles | 319362 | [319362-star-wars-episode-i-jedi-power-battles.json](./319362-star-wars-episode-i-jedi-power-battles.json) |
+| Star Wars: Episode I - Jedi Power Battles | 6606 | [6606-star-wars-episode-i-jedi-power-battles.json](./6606-star-wars-episode-i-jedi-power-battles.json) |
 | Star Wars: Episode I - Lightsaber Duel | 198912 | [198912-star-wars-episode-i-lightsaber-duel.json](./198912-star-wars-episode-i-lightsaber-duel.json) |
 | Star Wars: Episode I - Naboo Defense | 198914 | [198914-star-wars-episode-i-naboo-defense.json](./198914-star-wars-episode-i-naboo-defense.json) |
 | Star Wars: Episode I - Naboo Escape | 198913 | [198913-star-wars-episode-i-naboo-escape.json](./198913-star-wars-episode-i-naboo-escape.json) |
@@ -33323,6 +33326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikoden I HD Remaster: Gate Rune War | 328110 | [328110-suikoden-i-hd-remaster-gate-rune-war.json](./328110-suikoden-i-hd-remaster-gate-rune-war.json) |
 | Suikoden II | 1454 | [1454-suikoden-ii.json](./1454-suikoden-ii.json) |
 | Suikoden II HD Remaster: Dunan Unification War | 328111 | [328111-suikoden-ii-hd-remaster-dunan-unification-war.json](./328111-suikoden-ii-hd-remaster-dunan-unification-war.json) |
+| Suikoden III | 1448 | [1448-suikoden-iii.json](./1448-suikoden-iii.json) |
 | Suikoden IV | 1449 | [1449-suikoden-iv.json](./1449-suikoden-iv.json) |
 | Suikoden Tierkreis | 1452 | [1452-suikoden-tierkreis.json](./1452-suikoden-tierkreis.json) |
 | Suikoden V | 1456 | [1456-suikoden-v.json](./1456-suikoden-v.json) |
