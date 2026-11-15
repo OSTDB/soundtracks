@@ -3644,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Rock Band | 194934 | [194934-lego-rock-band.json](./194934-lego-rock-band.json) |
 | LEGO Rock Band | 2695 | [2695-lego-rock-band.json](./2695-lego-rock-band.json) |
+| LEGO Scooby-Doo! Escape from Haunted Isle | 56930 | [56930-lego-scooby-doo-escape-from-haunted-isle.json](./56930-lego-scooby-doo-escape-from-haunted-isle.json) |
 | LEGO Soccer Mania | 343452 | [343452-lego-soccer-mania.json](./343452-lego-soccer-mania.json) |
 | LEGO Soccer Mania | 49221 | [49221-lego-soccer-mania.json](./49221-lego-soccer-mania.json) |
 | LEGO Sonic the Hedgehog: Speed Sphere Challenge | 261238 | [261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json](./261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json) |
@@ -5106,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life of Thife | 277125 | [277125-life-of-thife.json](./277125-life-of-thife.json) |
 | Life of Trophy | 172305 | [172305-life-of-trophy.json](./172305-life-of-trophy.json) |
+| Life of Wolf 2014 | 87444 | [87444-life-of-wolf-2014.json](./87444-life-of-wolf-2014.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life on Earth: Reimagined | 277552 | [277552-life-on-earth-reimagined.json](./277552-life-on-earth-reimagined.json) |
 | Life on Mars Remake | 55443 | [55443-life-on-mars-remake.json](./55443-life-on-mars-remake.json) |
@@ -10370,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid: A Game About Dreams | 161471 | [161471-lucid-a-game-about-dreams.json](./161471-lucid-a-game-about-dreams.json) |
 | Lucid: Parables of the Ubermensch | 151384 | [151384-lucid-parables-of-the-ubermensch.json](./151384-lucid-parables-of-the-ubermensch.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
+| Lucidity | 15101 | [15101-lucidity.json](./15101-lucidity.json) |
 | Lucido Cancels Everything | 295309 | [295309-lucido-cancels-everything.json](./295309-lucido-cancels-everything.json) |
 | Lucidscape | 141067 | [141067-lucidscape.json](./141067-lucidscape.json) |
 | Lucidus Mortem | 154075 | [154075-lucidus-mortem.json](./154075-lucidus-mortem.json) |
