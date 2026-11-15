@@ -6101,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingering Souls | 285412 | [285412-lingering-souls.json](./285412-lingering-souls.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
+| Línghuàn Dàoshì | 45618 | [45618-linghuan-daoshi.json](./45618-linghuan-daoshi.json) |
 | Lingjian Mountain | 212548 | [212548-lingjian-mountain.json](./212548-lingjian-mountain.json) |
 | Língjiè Yì Wén Lù | 372425 | [372425-lingjie-yi-wen-lu.json](./372425-lingjie-yi-wen-lu.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
