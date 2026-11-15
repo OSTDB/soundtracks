@@ -15528,6 +15528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fused 240 | 337906 | [337906-fused-240.json](./337906-fused-240.json) |
 | Fuseless | 297107 | [297107-fuseless.json](./297107-fuseless.json) |
 | Fusem | 189784 | [189784-fusem.json](./189784-fusem.json) |
+| Fuser | 131970 | [131970-fuser.json](./131970-fuser.json) |
 | Fuser: VIP Edition | 139827 | [139827-fuser-vip-edition.json](./139827-fuser-vip-edition.json) |
 | FuSha: Overnight Stay | 366292 | [366292-fusha-overnight-stay.json](./366292-fusha-overnight-stay.json) |
 | Fúshēng Mèng | 399047 | [399047-fusheng-meng.json](./399047-fusheng-meng.json) |
