@@ -10470,6 +10470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Simple | 369322 | [369322-blackjack-simple.json](./369322-blackjack-simple.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack Simulator 2025 | 359000 | [359000-blackjack-simulator-2025.json](./359000-blackjack-simulator-2025.json) |
+| Blackjack Simulator 2027 | 426352 | [426352-blackjack-simulator-2027.json](./426352-blackjack-simulator-2027.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
 | Blackjack Thunder | 232276 | [232276-blackjack-thunder.json](./232276-blackjack-thunder.json) |
