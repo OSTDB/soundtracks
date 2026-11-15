@@ -5090,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers Between Worlds | 384869 | [384869-whispers-between-worlds.json](./384869-whispers-between-worlds.json) |
 | Whispers Beyond | 380811 | [380811-whispers-beyond.json](./380811-whispers-beyond.json) |
 | Whispers From Below | 422694 | [422694-whispers-from-below.json](./422694-whispers-from-below.json) |
+| Whispers from the Dark: Grandma's Helper | 420395 | [420395-whispers-from-the-dark-grandmas-helper.json](./420395-whispers-from-the-dark-grandmas-helper.json) |
 | Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
 | Whispers from the Sky | 176543 | [176543-whispers-from-the-sky.json](./176543-whispers-from-the-sky.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
@@ -7319,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchkin | 52271 | [52271-witchkin.json](./52271-witchkin.json) |
 | Witchlight | 348808 | [348808-witchlight.json](./348808-witchlight.json) |
 | Witchling Grove | 384088 | [384088-witchling-grove.json](./384088-witchling-grove.json) |
+| Witchmarked | 420398 | [420398-witchmarked.json](./420398-witchmarked.json) |
 | Witchmarsh | 61527 | [61527-witchmarsh.json](./61527-witchmarsh.json) |
 | Witchmarsh: Tea Party of the Damned | 295424 | [295424-witchmarsh-tea-party-of-the-damned.json](./295424-witchmarsh-tea-party-of-the-damned.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
