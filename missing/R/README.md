@@ -8898,6 +8898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
 | Rising Dusk | 99131 | [99131-rising-dusk.json](./99131-rising-dusk.json) |
+| Rising Eagle: Futuristic Infantry Warfare | 73902 | [73902-rising-eagle-futuristic-infantry-warfare.json](./73902-rising-eagle-futuristic-infantry-warfare.json) |
 | Rising Empires 2 | 176623 | [176623-rising-empires-2.json](./176623-rising-empires-2.json) |
 | Rising Evil VR | 112176 | [112176-rising-evil-vr.json](./112176-rising-evil-vr.json) |
 | Rising Fire | 112515 | [112515-rising-fire.json](./112515-rising-fire.json) |
@@ -10325,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Man | 131199 | [131199-rock-man.json](./131199-rock-man.json) |
 | Rock Manager | 22055 | [22055-rock-manager.json](./22055-rock-manager.json) |
 | Rock n' Bolt | 6127 | [6127-rock-n-bolt.json](./6127-rock-n-bolt.json) |
+| Rock N' Roll Climber | 73017 | [73017-rock-n-roll-climber.json](./73017-rock-n-roll-climber.json) |
 | Rock n' Roll Racing | 6564 | [6564-rock-n-roll-racing.json](./6564-rock-n-roll-racing.json) |
 | Rock n' Roll Racing Hack v16 | 270219 | [270219-rock-n-roll-racing-hack-v16.json](./270219-rock-n-roll-racing-hack-v16.json) |
 | Rock n' Rush Battle Racing | 103348 | [103348-rock-n-rush-battle-racing.json](./103348-rock-n-rush-battle-racing.json) |
