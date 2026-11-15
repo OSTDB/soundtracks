@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
 | Last Days of Tascaria | 99595 | [99595-last-days-of-tascaria.json](./99595-last-days-of-tascaria.json) |
+| Last Days of Tsufana | 421551 | [421551-last-days-of-tsufana.json](./421551-last-days-of-tsufana.json) |
 | Last Days: Survival | 95759 | [95759-last-days-survival.json](./95759-last-days-survival.json) |
 | Last Debt | 179341 | [179341-last-debt.json](./179341-last-debt.json) |
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
@@ -5697,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | lil' Sherman | 127628 | [127628-lil-sherman.json](./127628-lil-sherman.json) |
 | Lil' Snot: Moon Escape | 350883 | [350883-lil-snot-moon-escape.json](./350883-lil-snot-moon-escape.json) |
 | Lil'Johnny Watermelon Smash | 324274 | [324274-liljohnny-watermelon-smash.json](./324274-liljohnny-watermelon-smash.json) |
+| Lila | 421628 | [421628-lila.json](./421628-lila.json) |
 | Lila Colorful | 360225 | [360225-lila-colorful.json](./360225-lila-colorful.json) |
 | Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
