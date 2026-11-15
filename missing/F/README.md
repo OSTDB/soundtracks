@@ -1433,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 3: Remaster | 267307 | [267307-fallout-3-remaster.json](./267307-fallout-3-remaster.json) |
 | Fallout 3: Survival Edition | 72381 | [72381-fallout-3-survival-edition.json](./72381-fallout-3-survival-edition.json) |
 | Fallout 3: The Pitt & Fallout 3: Operation Anchorage | 202170 | [202170-fallout-3-the-pitt-and-fallout-3-operation-anchorage.json](./202170-fallout-3-the-pitt-and-fallout-3-operation-anchorage.json) |
+| Fallout 4 VR | 27922 | [27922-fallout-4-vr.json](./27922-fallout-4-vr.json) |
 | Fallout 4: Anniversary Edition | 375089 | [375089-fallout-4-anniversary-edition.json](./375089-fallout-4-anniversary-edition.json) |
 | Fallout 4: Automatron | 18029 | [18029-fallout-4-automatron.json](./18029-fallout-4-automatron.json) |
 | Fallout 4: Contraptions Workshop | 19532 | [19532-fallout-4-contraptions-workshop.json](./19532-fallout-4-contraptions-workshop.json) |
@@ -11780,10 +11781,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Save the World | 395833 | [395833-fortnite-save-the-world.json](./395833-fortnite-save-the-world.json) |
 | Fortnite: Season 1 | 256925 | [256925-fortnite-season-1.json](./256925-fortnite-season-1.json) |
 | Fortnite: Season 2 | 129878 | [129878-fortnite-season-2.json](./129878-fortnite-season-2.json) |
+| Fortnite: Season 3 | 129877 | [129877-fortnite-season-3.json](./129877-fortnite-season-3.json) |
 | Fortnite: Season 4 | 129876 | [129876-fortnite-season-4.json](./129876-fortnite-season-4.json) |
+| Fortnite: Season 5 | 129875 | [129875-fortnite-season-5.json](./129875-fortnite-season-5.json) |
 | Fortnite: Season 6 | 129874 | [129874-fortnite-season-6.json](./129874-fortnite-season-6.json) |
+| Fortnite: Season 7 | 129873 | [129873-fortnite-season-7.json](./129873-fortnite-season-7.json) |
 | Fortnite: Season 8 | 129872 | [129872-fortnite-season-8.json](./129872-fortnite-season-8.json) |
 | Fortnite: Season 9 | 129871 | [129871-fortnite-season-9.json](./129871-fortnite-season-9.json) |
+| Fortnite: Season X | 129870 | [129870-fortnite-season-x.json](./129870-fortnite-season-x.json) |
 | Fortnite: Shadows Rising Pack | 227105 | [227105-fortnite-shadows-rising-pack.json](./227105-fortnite-shadows-rising-pack.json) |
 | Fortnite: Skull Squad Pack | 272430 | [272430-fortnite-skull-squad-pack.json](./272430-fortnite-skull-squad-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
