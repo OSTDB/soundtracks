@@ -7075,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
 | Chartle | 383786 | [383786-chartle.json](./383786-chartle.json) |
 | Chartreuse Star Adventure | 268671 | [268671-chartreuse-star-adventure.json](./268671-chartreuse-star-adventure.json) |
+| Charumera | 64578 | [64578-charumera.json](./64578-charumera.json) |
 | Chase | 15209 | [15209-chase.json](./15209-chase.json) |
 | Chase | 195500 | [195500-chase.json](./195500-chase.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
@@ -16862,6 +16863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Coliseum | 223515 | [223515-cosmic-coliseum.json](./223515-cosmic-coliseum.json) |
 | Cosmic Collapse | 111567 | [111567-cosmic-collapse.json](./111567-cosmic-collapse.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
+| Cosmic Colony | 64596 | [64596-cosmic-colony.json](./64596-cosmic-colony.json) |
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
 | Cosmic Commute | 229624 | [229624-cosmic-commute.json](./229624-cosmic-commute.json) |
 | Cosmic Commuter | 40598 | [40598-cosmic-commuter.json](./40598-cosmic-commuter.json) |
@@ -18917,6 +18919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Race | 166846 | [166846-crazy-race.json](./166846-crazy-race.json) |
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
 | Crazy Rally | 39939 | [39939-crazy-rally.json](./39939-crazy-rally.json) |
+| Crazy Rings | 64604 | [64604-crazy-rings.json](./64604-crazy-rings.json) |
 | Crazy Road | 90189 | [90189-crazy-road.json](./90189-crazy-road.json) |
 | Crazy Road: Trouble Racer | 246251 | [246251-crazy-road-trouble-racer.json](./246251-crazy-road-trouble-racer.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
@@ -19715,6 +19718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crista Caelestis | 306573 | [306573-crista-caelestis.json](./306573-crista-caelestis.json) |
 | Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
 | Cristiano Ronaldo | 52326 | [52326-cristiano-ronaldo.json](./52326-cristiano-ronaldo.json) |
+| Cristiano Ronaldo Freestyle | 64605 | [64605-cristiano-ronaldo-freestyle.json](./64605-cristiano-ronaldo-freestyle.json) |
 | Cristiano Ronaldo: Kick'n'Run | 314597 | [314597-cristiano-ronaldo-kicknrun.json](./314597-cristiano-ronaldo-kicknrun.json) |
 | Crit Happens! | 345832 | [345832-crit-happens.json](./345832-crit-happens.json) |
 | Critadel | 163659 | [163659-critadel.json](./163659-critadel.json) |
@@ -21014,6 +21018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Maze | 85792 | [85792-crystal-maze.json](./85792-crystal-maze.json) |
 | Crystal Mines | 269731 | [269731-crystal-mines.json](./269731-crystal-mines.json) |
 | Crystal Mines | 48141 | [48141-crystal-mines.json](./48141-crystal-mines.json) |
+| Crystal Mines II: Buried Treasure | 64564 | [64564-crystal-mines-ii-buried-treasure.json](./64564-crystal-mines-ii-buried-treasure.json) |
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal Monsters (2025) | 344048 | [344048-crystal-monsters-2025.json](./344048-crystal-monsters-2025.json) |
@@ -22052,6 +22057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curly Monkey | 159233 | [159233-curly-monkey.json](./159233-curly-monkey.json) |
 | Curly Monkey 2 | 159234 | [159234-curly-monkey-2.json](./159234-curly-monkey-2.json) |
 | Curly Puzzle: World Heritage | 386181 | [386181-curly-puzzle-world-heritage.json](./386181-curly-puzzle-world-heritage.json) |
+| Curly Square | 64560 | [64560-curly-square.json](./64560-curly-square.json) |
 | Curre | 83985 | [83985-curre.json](./83985-curre.json) |
 | Current | 115881 | [115881-current.json](./115881-current.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
