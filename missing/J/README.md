@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jameson: The Pilot | 62464 | [62464-jameson-the-pilot.json](./62464-jameson-the-pilot.json) |
 | Jamestown: Legend of the Lost Colony | 6278 | [6278-jamestown-legend-of-the-lost-colony.json](./6278-jamestown-legend-of-the-lost-colony.json) |
 | Jamestown+ | 23221 | [23221-jamestown.json](./23221-jamestown.json) |
+| JamG | 34947 | [34947-jamg.json](./34947-jamg.json) |
 | Jamhouse | 410029 | [410029-jamhouse.json](./410029-jamhouse.json) |
 | Jamie | 245284 | [245284-jamie.json](./245284-jamie.json) |
 | Jamie Inside | 278613 | [278613-jamie-inside.json](./278613-jamie-inside.json) |
@@ -3346,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judged: A Court Simulator | 112365 | [112365-judged-a-court-simulator.json](./112365-judged-a-court-simulator.json) |
 | Judgement | 182838 | [182838-judgement.json](./182838-judgement.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
+| Judgement | 34916 | [34916-judgement.json](./34916-judgement.json) |
 | Judgement Angel | 367089 | [367089-judgement-angel.json](./367089-judgement-angel.json) |
 | Judgement Silversword | 140313 | [140313-judgement-silversword.json](./140313-judgement-silversword.json) |
 | Judgement Silversword: Rebirth Edition | 37699 | [37699-judgement-silversword-rebirth-edition.json](./37699-judgement-silversword-rebirth-edition.json) |
