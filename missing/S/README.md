@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saru Ga Daisuki | 199197 | [199197-saru-ga-daisuki.json](./199197-saru-ga-daisuki.json) |
 | Saru Get You: Pipo Saru Racer | 66511 | [66511-saru-get-you-pipo-saru-racer.json](./66511-saru-get-you-pipo-saru-racer.json) |
 | Saru Getchu Saru Saru Daisakusen | 79069 | [79069-saru-getchu-saru-saru-daisakusen.json](./79069-saru-getchu-saru-saru-daisakusen.json) |
+| Saru Saru DS | 70520 | [70520-saru-saru-ds.json](./70520-saru-saru-ds.json) |
 | Saru! Get You! 2: Ukki Ukki Disc | 386769 | [386769-saru-get-you-2-ukki-ukki-disc.json](./386769-saru-get-you-2-ukki-ukki-disc.json) |
 | Sarukhstart Takeover | 419198 | [419198-sarukhstart-takeover.json](./419198-sarukhstart-takeover.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
@@ -8416,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Simulator: Ocean Predator Survival | 323113 | [323113-shark-simulator-ocean-predator-survival.json](./323113-shark-simulator-ocean-predator-survival.json) |
 | Shark Simulator: Ocean RPG Survival | 401443 | [401443-shark-simulator-ocean-rpg-survival.json](./401443-shark-simulator-ocean-rpg-survival.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
+| Shark Tale: Fintastic Fun! | 71068 | [71068-shark-tale-fintastic-fun.json](./71068-shark-tale-fintastic-fun.json) |
 | Shark Tale: Fish Eat Fish | 325144 | [325144-shark-tale-fish-eat-fish.json](./325144-shark-tale-fish-eat-fish.json) |
 | Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
 | Shark Turtle | 272479 | [272479-shark-turtle.json](./272479-shark-turtle.json) |
@@ -21524,6 +21526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Commander | 26806 | [26806-space-commander.json](./26806-space-commander.json) |
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
+| Space Commanders | 71083 | [71083-space-commanders.json](./71083-space-commanders.json) |
 | Space Commanders II | 85797 | [85797-space-commanders-ii.json](./85797-space-commanders-ii.json) |
 | Space Company Simulator | 114108 | [114108-space-company-simulator.json](./114108-space-company-simulator.json) |
 | Space Company Simulator | 117891 | [117891-space-company-simulator.json](./117891-space-company-simulator.json) |
@@ -23424,6 +23427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
 | Speed Racer in My Most Dangerous Adventures | 42457 | [42457-speed-racer-in-my-most-dangerous-adventures.json](./42457-speed-racer-in-my-most-dangerous-adventures.json) |
+| Speed Racer in the Challenge of Racer X | 71087 | [71087-speed-racer-in-the-challenge-of-racer-x.json](./71087-speed-racer-in-the-challenge-of-racer-x.json) |
 | Speed Racer: The Videogame | 5176 | [5176-speed-racer-the-videogame.json](./5176-speed-racer-the-videogame.json) |
 | Speed Racing | 247060 | [247060-speed-racing.json](./247060-speed-racing.json) |
 | Speed Rally | 364721 | [364721-speed-rally.json](./364721-speed-rally.json) |
@@ -28558,6 +28562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start With Water | 183498 | [183498-start-with-water.json](./183498-start-with-water.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
 | Start-Up | 57654 | [57654-start-up.json](./57654-start-up.json) |
+| Start-Up 2000 | 71114 | [71114-start-up-2000.json](./71114-start-up-2000.json) |
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
 | Startales | 233152 | [233152-startales.json](./233152-startales.json) |
 | StartBolita | 35421 | [35421-startbolita.json](./35421-startbolita.json) |
@@ -33337,6 +33342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer of Love | 274810 | [274810-summer-of-love.json](./274810-summer-of-love.json) |
 | Summer of Memories | 299498 | [299498-summer-of-memories.json](./299498-summer-of-memories.json) |
 | Summer of Memories Ver. 2: Mystery of the Time Capsule | 365616 | [365616-summer-of-memories-ver-2-mystery-of-the-time-capsule.json](./365616-summer-of-memories-ver-2-mystery-of-the-time-capsule.json) |
+| Summer Olympix | 71079 | [71079-summer-olympix.json](./71079-summer-olympix.json) |
 | Summer Party Time | 255526 | [255526-summer-party-time.json](./255526-summer-party-time.json) |
 | Summer Party Time + Survival Pack Set | 261165 | [261165-summer-party-time-survival-pack-set.json](./261165-summer-party-time-survival-pack-set.json) |
 | Summer Party Time: Survival Pack | 261093 | [261093-summer-party-time-survival-pack.json](./261093-summer-party-time-survival-pack.json) |
