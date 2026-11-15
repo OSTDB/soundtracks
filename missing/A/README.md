@@ -7394,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleste Branch | 120663 | [120663-aleste-branch.json](./120663-aleste-branch.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aleste Collection: Game Gear Micro Limited Edition | 167017 | [167017-aleste-collection-game-gear-micro-limited-edition.json](./167017-aleste-collection-game-gear-micro-limited-edition.json) |
+| Aleste Gaiden | 47517 | [47517-aleste-gaiden.json](./47517-aleste-gaiden.json) |
 | Aletheia: Prophecy of Perseus | 345144 | [345144-aletheia-prophecy-of-perseus.json](./345144-aletheia-prophecy-of-perseus.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
@@ -8187,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines - Collector's Edition | 118042 | [118042-aliens-colonial-marines-collectors-edition.json](./118042-aliens-colonial-marines-collectors-edition.json) |
 | Aliens: Colonial Marines - Collector's Edition Pack | 118184 | [118184-aliens-colonial-marines-collectors-edition-pack.json](./118184-aliens-colonial-marines-collectors-edition-pack.json) |
 | Aliens: Colonial Marines - Extermination Edition | 118049 | [118049-aliens-colonial-marines-extermination-edition.json](./118049-aliens-colonial-marines-extermination-edition.json) |
+| Aliens: Colonial Marines - Limited Edition | 47480 | [47480-aliens-colonial-marines-limited-edition.json](./47480-aliens-colonial-marines-limited-edition.json) |
 | Aliens: Colonial Marines - Limited Edition Pack | 118185 | [118185-aliens-colonial-marines-limited-edition-pack.json](./118185-aliens-colonial-marines-limited-edition-pack.json) |
 | Aliens: Colonial Marines - Movie Map Pack | 118182 | [118182-aliens-colonial-marines-movie-map-pack.json](./118182-aliens-colonial-marines-movie-map-pack.json) |
 | Aliens: Colonial Marines - Reconnaissance Pack | 118183 | [118183-aliens-colonial-marines-reconnaissance-pack.json](./118183-aliens-colonial-marines-reconnaissance-pack.json) |
