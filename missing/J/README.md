@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Holmes: Master of Puppets | 253532 | [253532-jack-holmes-master-of-puppets.json](./253532-jack-holmes-master-of-puppets.json) |
 | Jack Holmes: Master of Puppets - Prologue | 264257 | [264257-jack-holmes-master-of-puppets-prologue.json](./264257-jack-holmes-master-of-puppets-prologue.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
+| Jack Houston and the Necronauts | 64577 | [64577-jack-houston-and-the-necronauts.json](./64577-jack-houston-and-the-necronauts.json) |
 | Jack In Space | 409664 | [409664-jack-in-space.json](./409664-jack-in-space.json) |
 | Jack in the Dark | 51346 | [51346-jack-in-the-dark.json](./51346-jack-in-the-dark.json) |
 | Jack In Town | 129041 | [129041-jack-in-town.json](./129041-jack-in-town.json) |
@@ -2503,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jo & Rubi: A Cozy Expedition | 421593 | [421593-jo-and-rubi-a-cozy-expedition.json](./421593-jo-and-rubi-a-cozy-expedition.json) |
 | Jo and Momo: Forest Rush | 101774 | [101774-jo-and-momo-forest-rush.json](./101774-jo-and-momo-forest-rush.json) |
+| Jo Guest in the Milk Round | 71099 | [71099-jo-guest-in-the-milk-round.json](./71099-jo-guest-in-the-milk-round.json) |
 | Jo Jo Wo | 239824 | [239824-jo-jo-wo.json](./239824-jo-jo-wo.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
 | JO-Rush | 325199 | [325199-jo-rush.json](./325199-jo-rush.json) |
