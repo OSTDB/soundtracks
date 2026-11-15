@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredibug | 361255 | [361255-incredibug.json](./361255-incredibug.json) |
 | Incredicer | 373346 | [373346-incredicer.json](./373346-incredicer.json) |
 | Incredifall | 309542 | [309542-incredifall.json](./309542-incredifall.json) |
+| Incredig | 426952 | [426952-incredig.json](./426952-incredig.json) |
 | IncrediMarble | 130637 | [130637-incredimarble.json](./130637-incredimarble.json) |
 | Incredipede | 16467 | [16467-incredipede.json](./16467-incredipede.json) |
 | IncreKnight | 391822 | [391822-increknight.json](./391822-increknight.json) |
@@ -6552,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Frost | 197030 | [197030-iron-frost.json](./197030-iron-frost.json) |
 | Iron Fuse | 410047 | [410047-iron-fuse.json](./410047-iron-fuse.json) |
+| Iron Grasp | 426945 | [426945-iron-grasp.json](./426945-iron-grasp.json) |
 | Iron Grip: Marauders | 50831 | [50831-iron-grip-marauders.json](./50831-iron-grip-marauders.json) |
 | Iron Grip: Warlord | 8720 | [8720-iron-grip-warlord.json](./8720-iron-grip-warlord.json) |
 | Iron Ground | 104188 | [104188-iron-ground.json](./104188-iron-ground.json) |
