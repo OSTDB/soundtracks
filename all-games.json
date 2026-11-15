@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T01:01:03.099Z",
-  "total_soundtracks": 3345,
+  "generated_at": "2026-11-15T01:06:13.055Z",
+  "total_soundtracks": 3349,
   "games": [
     {
       "igdb_id": 292844,
@@ -1319,6 +1319,20 @@
         {
           "album_name": "Aliens: Fireteam Elite (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6mClqOcembIZ7ZhTvZ8XdW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 400824,
+      "game_name": "Aliens: Fireteam Elite 2",
+      "game_url": "https://ostdb.net/games/aliens-fireteam-elite-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273247cc6efa92052ac89eedb88",
+      "albums": [
+        {
+          "album_name": "Aliens: Fireteam Elite 2 (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3JIMgIgKxQzj6AkjUZk0of",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -2929,6 +2943,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/avatar-frontiers-of-pandora-secrets-of-the/1778719367?uo=4",
           "album_link_url": "https://album.link/i/1778719367"
+        }
+      ]
+    },
+    {
+      "igdb_id": 371949,
+      "game_name": "Avatar: Frontiers of Pandora - From the Ashes",
+      "game_url": "https://ostdb.net/games/avatar-frontiers-of-pandora-from-the-ashes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732530766b2d70dd2bab699368",
+      "albums": [
+        {
+          "album_name": "Avatar: Frontiers of Pandora - From the Ashes (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5saEnttaAShXEbcmsv4ONg",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -15093,6 +15121,20 @@
       ]
     },
     {
+      "igdb_id": 333676,
+      "game_name": "Gorn 2",
+      "game_url": "https://ostdb.net/games/gorn-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730e4d3e9b0e272d6acde9b570",
+      "albums": [
+        {
+          "album_name": "GORN 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Iy11XjFS33fUbAY3Wk1mW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9136,
       "game_name": "Gorogoa",
       "game_url": "https://ostdb.net/games/gorogoa",
@@ -27229,6 +27271,20 @@
         {
           "album_name": "Puyo Puyo 7 Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2nZoPTMgvx0RGcrYbA2aT6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 354547,
+      "game_name": "QQQbeats!!!",
+      "game_url": "https://ostdb.net/games/qqqbeats",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273715a20d6b4db61daa16bfb10",
+      "albums": [
+        {
+          "album_name": "QQQbeats!!! ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/20L9MbxI2b5VRMUTjMvTuS",
           "apple_music_url": "",
           "album_link_url": ""
         }
