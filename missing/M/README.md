@@ -13436,6 +13436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimamo-Roll! | 395969 | [395969-mimamo-roll.json](./395969-mimamo-roll.json) |
 | Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
 | Mimana Iyar Chronicle: First Edition | 42711 | [42711-mimana-iyar-chronicle-first-edition.json](./42711-mimana-iyar-chronicle-first-edition.json) |
+| Mimania | 429755 | [429755-mimania.json](./429755-mimania.json) |
 | MimeDrink: The drinking game | 237003 | [237003-mimedrink-the-drinking-game.json](./237003-mimedrink-the-drinking-game.json) |
 | Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
 | Mimeoverse: Mimeo and the Kleptopus King | 66833 | [66833-mimeoverse-mimeo-and-the-kleptopus-king.json](./66833-mimeoverse-mimeo-and-the-kleptopus-king.json) |
@@ -13753,6 +13754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
 | Mine & Slash | 263856 | [263856-mine-and-slash.json](./263856-mine-and-slash.json) |
 | Mine 18 | 123141 | [123141-mine-18.json](./123141-mine-18.json) |
+| Mine a Little | 429852 | [429852-mine-a-little.json](./429852-mine-a-little.json) |
 | Mine Battles | 236971 | [236971-mine-battles.json](./236971-mine-battles.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Blast! | 232265 | [232265-mine-blast.json](./232265-mine-blast.json) |
