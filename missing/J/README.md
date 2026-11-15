@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Find It 4: Collector's Edition | 332495 | [332495-just-find-it-4-collectors-edition.json](./332495-just-find-it-4-collectors-edition.json) |
 | Just Find It: Collector's Edition | 286884 | [286884-just-find-it-collectors-edition.json](./286884-just-find-it-collectors-edition.json) |
 | Just Fishing | 68764 | [68764-just-fishing.json](./68764-just-fishing.json) |
+| Just Fly | 422093 | [422093-just-fly.json](./422093-just-fly.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
 | Just Forgot to Eat | 415507 | [415507-just-forgot-to-eat.json](./415507-just-forgot-to-eat.json) |
 | Just Freeskiing | 86985 | [86985-just-freeskiing.json](./86985-just-freeskiing.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just One More Link | 384997 | [384997-just-one-more-link.json](./384997-just-one-more-link.json) |
 | Just One More Spell | 387544 | [387544-just-one-more-spell.json](./387544-just-one-more-spell.json) |
 | Just one, must choose | 135050 | [135050-just-one-must-choose.json](./135050-just-one-must-choose.json) |
+| Just Open the Door | 422214 | [422214-just-open-the-door.json](./422214-just-open-the-door.json) |
 | Just Passing | 176344 | [176344-just-passing.json](./176344-just-passing.json) |
 | Just Passing Chapter 2 | 307698 | [307698-just-passing-chapter-2.json](./307698-just-passing-chapter-2.json) |
 | Just Pickin' Apples | 426447 | [426447-just-pickin-apples.json](./426447-just-pickin-apples.json) |
