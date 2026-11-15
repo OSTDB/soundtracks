@@ -17341,6 +17341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed IV: Black Flag - Deluxe Edition | 118927 | [118927-assassins-creed-iv-black-flag-deluxe-edition.json](./118927-assassins-creed-iv-black-flag-deluxe-edition.json) |
 | Assassin's Creed IV: Black Flag - Gold Edition | 52431 | [52431-assassins-creed-iv-black-flag-gold-edition.json](./52431-assassins-creed-iv-black-flag-gold-edition.json) |
 | Assassin's Creed IV: Black Flag - Jackdaw Edition | 100553 | [100553-assassins-creed-iv-black-flag-jackdaw-edition.json](./100553-assassins-creed-iv-black-flag-jackdaw-edition.json) |
+| Assassin's Creed IV: Black Flag - Limited Edition | 42911 | [42911-assassins-creed-iv-black-flag-limited-edition.json](./42911-assassins-creed-iv-black-flag-limited-edition.json) |
 | Assassin's Creed IV: Black Flag - Skull Edition | 44665 | [44665-assassins-creed-iv-black-flag-skull-edition.json](./44665-assassins-creed-iv-black-flag-skull-edition.json) |
 | Assassin's Creed Jade | 216319 | [216319-assassins-creed-jade.json](./216319-assassins-creed-jade.json) |
 | Assassin's Creed Legendary Collection | 164778 | [164778-assassins-creed-legendary-collection.json](./164778-assassins-creed-legendary-collection.json) |
@@ -17480,6 +17481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: The Ezio Collection | 23954 | [23954-assassins-creed-the-ezio-collection.json](./23954-assassins-creed-the-ezio-collection.json) |
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
 | Assassin's Creed: Unity - Bastille Edition | 230498 | [230498-assassins-creed-unity-bastille-edition.json](./230498-assassins-creed-unity-bastille-edition.json) |
+| Assassin's Creed: Unity - Collector's Edition | 42910 | [42910-assassins-creed-unity-collectors-edition.json](./42910-assassins-creed-unity-collectors-edition.json) |
 | Assassin's Creed: Unity - Limited Edition | 136262 | [136262-assassins-creed-unity-limited-edition.json](./136262-assassins-creed-unity-limited-edition.json) |
 | Assassin's Creed: Utopia | 61278 | [61278-assassins-creed-utopia.json](./61278-assassins-creed-utopia.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
