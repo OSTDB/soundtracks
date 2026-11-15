@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
 | Elemgate | 207105 | [207105-elemgate.json](./207105-elemgate.json) |
 | Elemix! | 254998 | [254998-elemix.json](./254998-elemix.json) |
+| Elems | 31305 | [31305-elems.json](./31305-elems.json) |
 | Elena's Journal: To Atlantis | 247960 | [247960-elenas-journal-to-atlantis.json](./247960-elenas-journal-to-atlantis.json) |
 | Elena's Journal: Unfinished Expedition | 207789 | [207789-elenas-journal-unfinished-expedition.json](./207789-elenas-journal-unfinished-expedition.json) |
 | Elendia Ceus | 116054 | [116054-elendia-ceus.json](./116054-elendia-ceus.json) |
@@ -8067,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Officer | 259596 | [259596-evil-officer.json](./259596-evil-officer.json) |
+| Evil Orbs | 31297 | [31297-evil-orbs.json](./31297-evil-orbs.json) |
 | Evil Origin | 348814 | [348814-evil-origin.json](./348814-evil-origin.json) |
 | Evil Park | 54888 | [54888-evil-park.json](./54888-evil-park.json) |
 | Evil Plays Dice | 381370 | [381370-evil-plays-dice.json](./381370-evil-plays-dice.json) |
