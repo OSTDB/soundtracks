@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsessive Revenge | 195284 | [195284-obsessive-revenge.json](./195284-obsessive-revenge.json) |
 | Obsideo | 163148 | [163148-obsideo.json](./163148-obsideo.json) |
 | Obsidian | 141705 | [141705-obsidian.json](./141705-obsidian.json) |
+| Obsidian | 822 | [822-obsidian.json](./822-obsidian.json) |
 | Obsidian Catalyst | 342924 | [342924-obsidian-catalyst.json](./342924-obsidian-catalyst.json) |
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
