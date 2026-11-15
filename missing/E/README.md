@@ -3991,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Gate: The Last Passenger | 311612 | [311612-end-gate-the-last-passenger.json](./311612-end-gate-the-last-passenger.json) |
 | End it, please... | 192483 | [192483-end-it-please.json](./192483-end-it-please.json) |
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
+| End My World | 50783 | [50783-end-my-world.json](./50783-end-my-world.json) |
 | End of Abyss | 347637 | [347637-end-of-abyss.json](./347637-end-of-abyss.json) |
 | End of Aspiration | 207977 | [207977-end-of-aspiration.json](./207977-end-of-aspiration.json) |
 | End of Back World | 275868 | [275868-end-of-back-world.json](./275868-end-of-back-world.json) |
@@ -5083,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Paper Mario | 338735 | [338735-epic-paper-mario.json](./338735-epic-paper-mario.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Epic Party Quest | 207641 | [207641-epic-party-quest.json](./207641-epic-party-quest.json) |
+| Epic Pinball | 50763 | [50763-epic-pinball.json](./50763-epic-pinball.json) |
 | Epic Pinball: The Complete Collection | 155331 | [155331-epic-pinball-the-complete-collection.json](./155331-epic-pinball-the-complete-collection.json) |
 | Epic Pirate | 307723 | [307723-epic-pirate.json](./307723-epic-pirate.json) |
 | Epic Pirates Story | 200019 | [200019-epic-pirates-story.json](./200019-epic-pirates-story.json) |
@@ -5518,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
 | Erotic Dream Puzzle | 312696 | [312696-erotic-dream-puzzle.json](./312696-erotic-dream-puzzle.json) |
 | Erotic Dungeon Survival | 82829 | [82829-erotic-dungeon-survival.json](./82829-erotic-dungeon-survival.json) |
+| Erotic Empire | 50766 | [50766-erotic-empire.json](./50766-erotic-empire.json) |
 | Erotic Fiction for Cyberpunk Sex | 288244 | [288244-erotic-fiction-for-cyberpunk-sex.json](./288244-erotic-fiction-for-cyberpunk-sex.json) |
 | Erotic Fiction for Fuck in Police | 294086 | [294086-erotic-fiction-for-fuck-in-police.json](./294086-erotic-fiction-for-fuck-in-police.json) |
 | Erotic Fiction for Sex Motel | 288887 | [288887-erotic-fiction-for-sex-motel.json](./288887-erotic-fiction-for-sex-motel.json) |
