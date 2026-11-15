@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooze: Creepy Nites | 71746 | [71746-ooze-creepy-nites.json](./71746-ooze-creepy-nites.json) |
 | Ooze: The Escape | 142019 | [142019-ooze-the-escape.json](./142019-ooze-the-escape.json) |
 | Ooze: The Great and Powerful | 265315 | [265315-ooze-the-great-and-powerful.json](./265315-ooze-the-great-and-powerful.json) |
+| Oozengard R-Re-Rebooted | 63492 | [63492-oozengard-r-re-rebooted.json](./63492-oozengard-r-re-rebooted.json) |
 | Oozescape | 191331 | [191331-oozescape.json](./191331-oozescape.json) |
 | Oozi: Earth Adventure | 16738 | [16738-oozi-earth-adventure.json](./16738-oozi-earth-adventure.json) |
 | Oozin' in Space! | 179552 | [179552-oozin-in-space.json](./179552-oozin-in-space.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OS:Memories | 203179 | [203179-os-memories.json](./203179-os-memories.json) |
 | OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
 | OS95 Plus! | 389500 | [389500-os95-plus.json](./389500-os95-plus.json) |
+| Osada | 63472 | [63472-osada.json](./63472-osada.json) |
 | Osaka Kowloonjo | 394451 | [394451-osaka-kowloonjo.json](./394451-osaka-kowloonjo.json) |
 | Osaka's Dream | 325667 | [325667-osakas-dream.json](./325667-osakas-dream.json) |
 | Osakabe | 159144 | [159144-osakabe.json](./159144-osakabe.json) |
