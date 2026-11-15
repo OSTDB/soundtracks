@@ -6028,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seneca 7: A Cyberpunk Odyssey | 201643 | [201643-seneca-7-a-cyberpunk-odyssey.json](./201643-seneca-7-a-cyberpunk-odyssey.json) |
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
 | Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
+| Sengeki Striker | 38603 | [38603-sengeki-striker.json](./38603-sengeki-striker.json) |
 | Sengo Muramasa DX: Guren no Kettou | 145393 | [145393-sengo-muramasa-dx-guren-no-kettou.json](./145393-sengo-muramasa-dx-guren-no-kettou.json) |
 | Sengo Muramasa DX: Guren no Kettou - Limited Edition | 166960 | [166960-sengo-muramasa-dx-guren-no-kettou-limited-edition.json](./166960-sengo-muramasa-dx-guren-no-kettou-limited-edition.json) |
 | Sengoku | 27946 | [27946-sengoku.json](./27946-sengoku.json) |
@@ -10862,6 +10863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Suns | 380348 | [380348-shrouded-suns.json](./380348-shrouded-suns.json) |
 | Shrouded Tales: Collection | 126129 | [126129-shrouded-tales-collection.json](./126129-shrouded-tales-collection.json) |
 | Shrouded Tales: Revenge of Shadows | 139741 | [139741-shrouded-tales-revenge-of-shadows.json](./139741-shrouded-tales-revenge-of-shadows.json) |
+| Shrouded Tales: Revenge of Shadows - Collector's Edition | 39269 | [39269-shrouded-tales-revenge-of-shadows-collectors-edition.json](./39269-shrouded-tales-revenge-of-shadows-collectors-edition.json) |
 | Shrouded Tales: The Spellbound Land | 139743 | [139743-shrouded-tales-the-spellbound-land.json](./139743-shrouded-tales-the-spellbound-land.json) |
 | Shrouded Tales: The Spellbound Land - Collector's Edition | 30401 | [30401-shrouded-tales-the-spellbound-land-collectors-edition.json](./30401-shrouded-tales-the-spellbound-land-collectors-edition.json) |
 | Shroudfall Cove | 309244 | [309244-shroudfall-cove.json](./309244-shroudfall-cove.json) |
@@ -17821,6 +17823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Slam! | 233536 | [233536-soccer-slam.json](./233536-soccer-slam.json) |
 | Soccer Slammers | 85382 | [85382-soccer-slammers.json](./85382-soccer-slammers.json) |
 | Soccer Spirits | 60597 | [60597-soccer-spirits.json](./60597-soccer-spirits.json) |
+| Soccer Spirits 2 | 39236 | [39236-soccer-spirits-2.json](./39236-soccer-spirits-2.json) |
 | Soccer Squad | 291486 | [291486-soccer-squad.json](./291486-soccer-squad.json) |
 | Soccer Star 23 Top Leagues | 239037 | [239037-soccer-star-23-top-leagues.json](./239037-soccer-star-23-top-leagues.json) |
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
