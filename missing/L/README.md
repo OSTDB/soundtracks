@@ -3282,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Solitaire: Diamond Relic | 138396 | [138396-legends-of-solitaire-diamond-relic.json](./138396-legends-of-solitaire-diamond-relic.json) |
 | Legends of Starkadia | 290902 | [290902-legends-of-starkadia.json](./290902-legends-of-starkadia.json) |
 | Legends of Talia: Arcadia | 74461 | [74461-legends-of-talia-arcadia.json](./74461-legends-of-talia-arcadia.json) |
+| Legends of Taria | 425804 | [425804-legends-of-taria.json](./425804-legends-of-taria.json) |
 | Legends of the Brawl | 216599 | [216599-legends-of-the-brawl.json](./216599-legends-of-the-brawl.json) |
 | Legends of the Diamond | 48253 | [48253-legends-of-the-diamond.json](./48253-legends-of-the-diamond.json) |
 | Legends of the East: The Cobra's Eye - Collector's Edition | 381379 | [381379-legends-of-the-east-the-cobras-eye-collectors-edition.json](./381379-legends-of-the-east-the-cobras-eye-collectors-edition.json) |
