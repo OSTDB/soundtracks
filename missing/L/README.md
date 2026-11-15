@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lee Inside TV | 126852 | [126852-lee-inside-tv.json](./126852-lee-inside-tv.json) |
 | Lee Trevino's Fighting Golf | 217735 | [217735-lee-trevinos-fighting-golf.json](./217735-lee-trevinos-fighting-golf.json) |
 | Lee Trevino's Fighting Golf | 48144 | [48144-lee-trevinos-fighting-golf.json](./48144-lee-trevinos-fighting-golf.json) |
+| Lee-Lee's Quest | 54611 | [54611-lee-lees-quest.json](./54611-lee-lees-quest.json) |
 | Lee-Lee's Quest 2 | 165370 | [165370-lee-lees-quest-2.json](./165370-lee-lees-quest-2.json) |
 | Leechcraft | 299674 | [299674-leechcraft.json](./299674-leechcraft.json) |
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
@@ -11017,6 +11018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: Silver Star Story Complete | 13905 | [13905-lunar-silver-star-story-complete.json](./13905-lunar-silver-star-story-complete.json) |
 | Lunar: Silver Star Story Complete | 328113 | [328113-lunar-silver-star-story-complete.json](./328113-lunar-silver-star-story-complete.json) |
 | Lunar: Silver Star Story Complete - Collector's Edition | 44960 | [44960-lunar-silver-star-story-complete-collectors-edition.json](./44960-lunar-silver-star-story-complete-collectors-edition.json) |
+| Lunar: Silver Star Story Touch | 54615 | [54615-lunar-silver-star-story-touch.json](./54615-lunar-silver-star-story-touch.json) |
 | Lunar: The Last Human | 220435 | [220435-lunar-the-last-human.json](./220435-lunar-the-last-human.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
