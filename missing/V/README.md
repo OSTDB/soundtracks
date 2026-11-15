@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
 | Vacation Vexation | 57155 | [57155-vacation-vexation.json](./57155-vacation-vexation.json) |
 | Vacation: DayOff | 160258 | [160258-vacation-dayoff.json](./160258-vacation-dayoff.json) |
+| Vacay Volley | 422765 | [422765-vacay-volley.json](./422765-vacay-volley.json) |
 | VacBot Simulator | 389716 | [389716-vacbot-simulator.json](./389716-vacbot-simulator.json) |
 | Vaccine | 147168 | [147168-vaccine.json](./147168-vaccine.json) |
 | Vaccine | 30698 | [30698-vaccine.json](./30698-vaccine.json) |
