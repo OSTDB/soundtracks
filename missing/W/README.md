@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock's Mountain | 71999 | [71999-warlocks-mountain.json](./71999-warlocks-mountain.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlock's Tower | 213219 | [213219-warlocks-tower.json](./213219-warlocks-tower.json) |
+| Warlock's Tower | 27105 | [27105-warlocks-tower.json](./27105-warlocks-tower.json) |
 | Warlocked | 336577 | [336577-warlocked.json](./336577-warlocked.json) |
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
 | Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
