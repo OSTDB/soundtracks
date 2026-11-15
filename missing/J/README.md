@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jock and the Time Rings | 294211 | [294211-jock-and-the-time-rings.json](./294211-jock-and-the-time-rings.json) |
 | Jock Dummy: Ice Hockey Edition | 251732 | [251732-jock-dummy-ice-hockey-edition.json](./251732-jock-dummy-ice-hockey-edition.json) |
 | Jock Studio | 256404 | [256404-jock-studio.json](./256404-jock-studio.json) |
+| Jockey Grand Prix | 47597 | [47597-jockey-grand-prix.json](./47597-jockey-grand-prix.json) |
 | Jockey Rush | 32099 | [32099-jockey-rush.json](./32099-jockey-rush.json) |
 | Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johann Weiss | 133483 | [133483-johann-weiss.json](./133483-johann-weiss.json) |
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
+| John Anderson's Rally Speedway | 46914 | [46914-john-andersons-rally-speedway.json](./46914-john-andersons-rally-speedway.json) |
 | John Barnes European Football | 12646 | [12646-john-barnes-european-football.json](./12646-john-barnes-european-football.json) |
 | John Black: Memories | 108417 | [108417-john-black-memories.json](./108417-john-black-memories.json) |
 | John Brick | 207787 | [207787-john-brick.json](./207787-john-brick.json) |
@@ -4401,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
 | Just Cause 2: Rico's Signature Gun DLC | 288999 | [288999-just-cause-2-ricos-signature-gun-dlc.json](./288999-just-cause-2-ricos-signature-gun-dlc.json) |
 | Just Cause 3: Bavarium Sea Heist | 22505 | [22505-just-cause-3-bavarium-sea-heist.json](./22505-just-cause-3-bavarium-sea-heist.json) |
+| Just Cause 3: Collector's Edition | 47488 | [47488-just-cause-3-collectors-edition.json](./47488-just-cause-3-collectors-edition.json) |
 | Just Cause 3: Day One Edition | 89844 | [89844-just-cause-3-day-one-edition.json](./89844-just-cause-3-day-one-edition.json) |
 | Just Cause 3: Gold Edition | 25483 | [25483-just-cause-3-gold-edition.json](./25483-just-cause-3-gold-edition.json) |
 | Just Cause 3: Mech Land Assault | 19855 | [19855-just-cause-3-mech-land-assault.json](./19855-just-cause-3-mech-land-assault.json) |
