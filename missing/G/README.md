@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game (not) Over | 333656 | [333656-game-not-over.json](./333656-game-not-over.json) |
 | Game & Console Supermarket: Business Simulator | 334982 | [334982-game-and-console-supermarket-business-simulator.json](./334982-game-and-console-supermarket-business-simulator.json) |
 | Game & Lynx: Critter Championship | 297595 | [297595-game-and-lynx-critter-championship.json](./297595-game-and-lynx-critter-championship.json) |
+| Game & Wario | 1710 | [1710-game-and-wario.json](./1710-game-and-wario.json) |
 | Game & Watch Ball | 76971 | [76971-game-and-watch-ball.json](./76971-game-and-watch-ball.json) |
 | Game & Watch Chef | 84556 | [84556-game-and-watch-chef.json](./84556-game-and-watch-chef.json) |
 | Game & Watch Collection | 78002 | [78002-game-and-watch-collection.json](./78002-game-and-watch-collection.json) |
@@ -7820,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Impression | 177121 | [177121-good-impression.json](./177121-good-impression.json) |
 | Good Intentions | 54070 | [54070-good-intentions.json](./54070-good-intentions.json) |
 | Good Job | 416125 | [416125-good-job.json](./416125-good-job.json) |
+| Good Job! | 131962 | [131962-good-job.json](./131962-good-job.json) |
 | Good Job! | 261259 | [261259-good-job.json](./261259-good-job.json) |
 | Good Kill! | 304708 | [304708-good-kill.json](./304708-good-kill.json) |
 | Good Knight | 140784 | [140784-good-knight.json](./140784-good-knight.json) |
@@ -8177,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorescript | 28889 | [28889-gorescript.json](./28889-gorescript.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Goreticulture | 412773 | [412773-goreticulture.json](./412773-goreticulture.json) |
+| Gorf | 12307 | [12307-gorf.json](./12307-gorf.json) |
 | Gorf | 282064 | [282064-gorf.json](./282064-gorf.json) |
 | Gorf the Frog | 324724 | [324724-gorf-the-frog.json](./324724-gorf-the-frog.json) |
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
@@ -12631,6 +12634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | GunWorld: Xbox One Edition | 82544 | [82544-gunworld-xbox-one-edition.json](./82544-gunworld-xbox-one-edition.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
+| GunZ 2: The Second Duel | 16558 | [16558-gunz-2-the-second-duel.json](./16558-gunz-2-the-second-duel.json) |
 | GunZ: The Duel | 80594 | [80594-gunz-the-duel.json](./80594-gunz-the-duel.json) |
 | Gunzle | 313450 | [313450-gunzle.json](./313450-gunzle.json) |
 | Gunzle: Clover And Claus | 331963 | [331963-gunzle-clover-and-claus.json](./331963-gunzle-clover-and-claus.json) |
