@@ -8395,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Jump King | 261944 | [261944-number-jump-king.json](./261944-number-jump-king.json) |
 | Number Line | 318257 | [318257-number-line.json](./318257-number-line.json) |
 | Number Machine | 350604 | [350604-number-machine.json](./350604-number-machine.json) |
+| Number Magic | 42183 | [42183-number-magic.json](./42183-number-magic.json) |
 | Number Master | 223995 | [223995-number-master.json](./223995-number-master.json) |
 | Number Match | 239099 | [239099-number-match.json](./239099-number-match.json) |
 | Number Match: Number games | 231880 | [231880-number-match-number-games.json](./231880-number-match-number-games.json) |
