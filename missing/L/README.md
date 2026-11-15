@@ -2747,7 +2747,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Heroes | 256876 | [256876-legacy-of-heroes.json](./256876-legacy-of-heroes.json) |
 | Legacy of Kain Collection | 331287 | [331287-legacy-of-kain-collection.json](./331287-legacy-of-kain-collection.json) |
 | Legacy of Kain Soul Reaver 1&2 Remastered - Deluxe Edition | 350802 | [350802-legacy-of-kain-soul-reaver-1-and-2-remastered-deluxe-edition.json](./350802-legacy-of-kain-soul-reaver-1-and-2-remastered-deluxe-edition.json) |
-| Legacy of Kain: Ascendance | 389453 | [389453-legacy-of-kain-ascendance.json](./389453-legacy-of-kain-ascendance.json) |
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
 | Legacy of Kain: Defiance Remastered | 389423 | [389423-legacy-of-kain-defiance-remastered.json](./389423-legacy-of-kain-defiance-remastered.json) |
@@ -3019,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Outlaw Mage | 192865 | [192865-legend-of-the-outlaw-mage.json](./192865-legend-of-the-outlaw-mage.json) |
 | Legend of the Phoenix | 186800 | [186800-legend-of-the-phoenix.json](./186800-legend-of-the-phoenix.json) |
 | Legend Of The Platforms | 370625 | [370625-legend-of-the-platforms.json](./370625-legend-of-the-platforms.json) |
+| Legend of the Purple Tit | 73916 | [73916-legend-of-the-purple-tit.json](./73916-legend-of-the-purple-tit.json) |
 | Legend of the Red Dragon | 73573 | [73573-legend-of-the-red-dragon.json](./73573-legend-of-the-red-dragon.json) |
 | Legend of the Red Dragon II: New World | 71843 | [71843-legend-of-the-red-dragon-ii-new-world.json](./71843-legend-of-the-red-dragon-ii-new-world.json) |
 | Legend of the River King GB | 20514 | [20514-legend-of-the-river-king-gb.json](./20514-legend-of-the-river-king-gb.json) |
