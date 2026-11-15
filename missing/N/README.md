@@ -4853,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Out | 202480 | [202480-night-out.json](./202480-night-out.json) |
 | Night Owls | 336513 | [336513-night-owls.json](./336513-night-owls.json) |
 | Night Pact: Azuru | 271612 | [271612-night-pact-azuru.json](./271612-night-pact-azuru.json) |
+| Night Parking | 420376 | [420376-night-parking.json](./420376-night-parking.json) |
 | Night Patrol Rules | 368271 | [368271-night-patrol-rules.json](./368271-night-patrol-rules.json) |
 | Night People | 378719 | [378719-night-people.json](./378719-night-people.json) |
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
