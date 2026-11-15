@@ -5634,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Steel | 188898 | [188898-global-steel.json](./188898-global-steel.json) |
 | Global Strike | 125896 | [125896-global-strike.json](./125896-global-strike.json) |
 | Global Thermonuclear War | 382997 | [382997-global-thermonuclear-war.json](./382997-global-thermonuclear-war.json) |
+| Global Touring Challenge: Africa | 61821 | [61821-global-touring-challenge-africa.json](./61821-global-touring-challenge-africa.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
 | Globalism | 275864 | [275864-globalism.json](./275864-globalism.json) |
@@ -11625,6 +11626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Petit | 9147 | [9147-guilty-gear-petit.json](./9147-guilty-gear-petit.json) |
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
+| Guilty Gear Vastedge XT | 62360 | [62360-guilty-gear-vastedge-xt.json](./62360-guilty-gear-vastedge-xt.json) |
 | Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
 | Guilty Gear X Plus | 71103 | [71103-guilty-gear-x-plus.json](./71103-guilty-gear-x-plus.json) |
 | Guilty Gear X: Advance Edition | 49168 | [49168-guilty-gear-x-advance-edition.json](./49168-guilty-gear-x-advance-edition.json) |
@@ -12061,6 +12063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbird | 39352 | [39352-gunbird.json](./39352-gunbird.json) |
 | Gunbird 2 | 40150 | [40150-gunbird-2.json](./40150-gunbird-2.json) |
 | Gunbird for Nintendo Switch | 105053 | [105053-gunbird-for-nintendo-switch.json](./105053-gunbird-for-nintendo-switch.json) |
+| Gunbird S for Kakao | 61824 | [61824-gunbird-s-for-kakao.json](./61824-gunbird-s-for-kakao.json) |
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gunblade NY | 39799 | [39799-gunblade-ny.json](./39799-gunblade-ny.json) |
 | Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
@@ -12462,6 +12465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Nova | 231695 | [231695-gunslinger-nova.json](./231695-gunslinger-nova.json) |
 | Gunslinger Solitaire | 296193 | [296193-gunslinger-solitaire.json](./296193-gunslinger-solitaire.json) |
 | Gunslinger Stratos | 19317 | [19317-gunslinger-stratos.json](./19317-gunslinger-stratos.json) |
+| Gunslinger Stratos 2 | 62363 | [62363-gunslinger-stratos-2.json](./62363-gunslinger-stratos-2.json) |
 | Gunslinger Stratos Reloaded | 60591 | [60591-gunslinger-stratos-reloaded.json](./60591-gunslinger-stratos-reloaded.json) |
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
 | Gunslinger Valley | 187387 | [187387-gunslinger-valley.json](./187387-gunslinger-valley.json) |
