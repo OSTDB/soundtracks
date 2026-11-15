@@ -13143,6 +13143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Beings' Extinction Day: 2074 | 316673 | [316673-human-beings-extinction-day-2074.json](./316673-human-beings-extinction-day-2074.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
+| Human Cannonball | 17025 | [17025-human-cannonball.json](./17025-human-cannonball.json) |
 | Human Cargo | 194449 | [194449-human-cargo.json](./194449-human-cargo.json) |
 | Human Chop 2 | 102002 | [102002-human-chop-2.json](./102002-human-chop-2.json) |
 | Human Construction Site | 377803 | [377803-human-construction-site.json](./377803-human-construction-site.json) |
