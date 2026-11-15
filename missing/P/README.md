@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PASS Fortress | 342965 | [342965-pass-fortress.json](./342965-pass-fortress.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Pass Problems | 264555 | [264555-pass-problems.json](./264555-pass-problems.json) |
+| Pass the Blunt | 426382 | [426382-pass-the-blunt.json](./426382-pass-the-blunt.json) |
 | Pass the Bomb | 67946 | [67946-pass-the-bomb.json](./67946-pass-the-bomb.json) |
 | Pass the Fear | 381896 | [381896-pass-the-fear.json](./381896-pass-the-fear.json) |
 | Pass the Mask! | 401051 | [401051-pass-the-mask.json](./401051-pass-the-mask.json) |
@@ -4073,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
 | PC Simulator | 295436 | [295436-pc-simulator.json](./295436-pc-simulator.json) |
 | PC Store Simulator | 346167 | [346167-pc-store-simulator.json](./346167-pc-store-simulator.json) |
+| PC Store Together | 426378 | [426378-pc-store-together.json](./426378-pc-store-together.json) |
 | PC Tycoon 2 | 293047 | [293047-pc-tycoon-2.json](./293047-pc-tycoon-2.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
@@ -17468,6 +17470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Amaranth | 103925 | [103925-project-amaranth.json](./103925-project-amaranth.json) |
 | Project Americas | 261490 | [261490-project-americas.json](./261490-project-americas.json) |
 | Project Anderson & The Legacy of Cthulhu | 25437 | [25437-project-anderson-and-the-legacy-of-cthulhu.json](./25437-project-anderson-and-the-legacy-of-cthulhu.json) |
+| Project Android | 426386 | [426386-project-android.json](./426386-project-android.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
@@ -18557,6 +18560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospice | 374812 | [374812-prospice.json](./374812-prospice.json) |
 | Prosrochennyy | 367756 | [367756-prosrochennyy.json](./367756-prosrochennyy.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
+| Prostitute Empire | 426347 | [426347-prostitute-empire.json](./426347-prostitute-empire.json) |
 | Prostitute Island | 272727 | [272727-prostitute-island.json](./272727-prostitute-island.json) |
 | Prostitute Pimp | 297195 | [297195-prostitute-pimp.json](./297195-prostitute-pimp.json) |
 | Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
