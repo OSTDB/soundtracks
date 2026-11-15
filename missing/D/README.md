@@ -10910,6 +10910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinomod | 160287 | [160287-dinomod.json](./160287-dinomod.json) |
 | Dinomod Enhanced | 308102 | [308102-dinomod-enhanced.json](./308102-dinomod-enhanced.json) |
 | DinoOps | 33334 | [33334-dinoops.json](./33334-dinoops.json) |
+| DinoPark Tycoon | 4338 | [4338-dinopark-tycoon.json](./4338-dinopark-tycoon.json) |
 | Dinopatch | 160286 | [160286-dinopatch.json](./160286-dinopatch.json) |
 | Dinopirates from Inner Space: Brocolation | 364430 | [364430-dinopirates-from-inner-space-brocolation.json](./364430-dinopirates-from-inner-space-brocolation.json) |
 | DinoPlanet VR | 244835 | [244835-dinoplanet-vr.json](./244835-dinoplanet-vr.json) |
@@ -17065,6 +17066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
 | Dragon Slayer IV: Drasle Family | 19113 | [19113-dragon-slayer-iv-drasle-family.json](./19113-dragon-slayer-iv-drasle-family.json) |
 | Dragon Slayer: The Legend of Heroes | 5579 | [5579-dragon-slayer-the-legend-of-heroes.json](./5579-dragon-slayer-the-legend-of-heroes.json) |
+| Dragon Slayer: The Legend of Heroes II | 4393 | [4393-dragon-slayer-the-legend-of-heroes-ii.json](./4393-dragon-slayer-the-legend-of-heroes-ii.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
 | Dragon Sleuth Brittany | 199717 | [199717-dragon-sleuth-brittany.json](./199717-dragon-sleuth-brittany.json) |
 | Dragon Snack | 362966 | [362966-dragon-snack.json](./362966-dragon-snack.json) |
