@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Go Home | 193377 | [193377-rabbids-go-home.json](./193377-rabbids-go-home.json) |
 | Rabbids Go Home | 2190 | [2190-rabbids-go-home.json](./2190-rabbids-go-home.json) |
 | Rabbids Go Phone | 86172 | [86172-rabbids-go-phone.json](./86172-rabbids-go-phone.json) |
+| Rabbids Go Phone Again | 62904 | [62904-rabbids-go-phone-again.json](./62904-rabbids-go-phone-again.json) |
 | Rabbids Heroes | 193378 | [193378-rabbids-heroes.json](./193378-rabbids-heroes.json) |
 | Rabbids Hollywood | 125784 | [125784-rabbids-hollywood.json](./125784-rabbids-hollywood.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Skies | 403149 | [403149-raging-skies.json](./403149-raging-skies.json) |
 | Raging Thunder | 98141 | [98141-raging-thunder.json](./98141-raging-thunder.json) |
 | Raging Thunder II | 66448 | [66448-raging-thunder-ii.json](./66448-raging-thunder-ii.json) |
+| Raging Tiger: The Second Korean War | 63473 | [63473-raging-tiger-the-second-korean-war.json](./63473-raging-tiger-the-second-korean-war.json) |
 | Raging Titan | 31002 | [31002-raging-titan.json](./31002-raging-titan.json) |
 | RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Defense: Hero Legends TD | 83320 | [83320-realm-defense-hero-legends-td.json](./83320-realm-defense-hero-legends-td.json) |
 | Realm Divided | 250744 | [250744-realm-divided.json](./250744-realm-divided.json) |
 | Realm Drifter | 309714 | [309714-realm-drifter.json](./309714-realm-drifter.json) |
+| Realm Explorer | 63460 | [63460-realm-explorer.json](./63460-realm-explorer.json) |
 | Realm Grinder | 36721 | [36721-realm-grinder.json](./36721-realm-grinder.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
 | Realm Lands | 125686 | [125686-realm-lands.json](./125686-realm-lands.json) |
@@ -4212,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bit Ninja | 35424 | [35424-red-bit-ninja.json](./35424-red-bit-ninja.json) |
 | Red Blaster | 344097 | [344097-red-blaster.json](./344097-red-blaster.json) |
 | Red Blood | 52719 | [52719-red-blood.json](./52719-red-blood.json) |
+| Red Blood Online | 63476 | [63476-red-blood-online.json](./63476-red-blood-online.json) |
 | Red Blue | 111197 | [111197-red-blue.json](./111197-red-blue.json) |
 | Red Blue Cell | 327844 | [327844-red-blue-cell.json](./327844-red-blue-cell.json) |
 | Red Book | 270251 | [270251-red-book.json](./270251-red-book.json) |
@@ -13015,12 +13019,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
 | RPG Town | 217297 | [217297-rpg-town.json](./217297-rpg-town.json) |
 | RPG Trifecta Pack | 80266 | [80266-rpg-trifecta-pack.json](./80266-rpg-trifecta-pack.json) |
+| RPG Tsukuuru 2 | 63501 | [63501-rpg-tsukuuru-2.json](./63501-rpg-tsukuuru-2.json) |
 | RPG Tsukuuru 2 Taiou Data: BS Kure-kure Mou Race | 150574 | [150574-rpg-tsukuuru-2-taiou-data-bs-kure-kure-mou-race.json](./150574-rpg-tsukuuru-2-taiou-data-bs-kure-kure-mou-race.json) |
 | RPG Tsukuuru 2 Taiou Data: Jewel of Live 3 | 150579 | [150579-rpg-tsukuuru-2-taiou-data-jewel-of-live-3.json](./150579-rpg-tsukuuru-2-taiou-data-jewel-of-live-3.json) |
 | RPG Tsukuuru 2 Taiou: Alf to Hakase no Daibouken | 150581 | [150581-rpg-tsukuuru-2-taiou-alf-to-hakase-no-daibouken.json](./150581-rpg-tsukuuru-2-taiou-alf-to-hakase-no-daibouken.json) |
 | RPG Tsukuuru 2 Taiou: Organic Stone | 150582 | [150582-rpg-tsukuuru-2-taiou-organic-stone.json](./150582-rpg-tsukuuru-2-taiou-organic-stone.json) |
 | RPG Tsukuuru 2 Taiou: Organic Stone Honpen | 151167 | [151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json](./151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json) |
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
+| RPG Tsukuuru 4 | 63502 | [63502-rpg-tsukuuru-4.json](./63502-rpg-tsukuuru-4.json) |
 | RPG Tsukuuru 95 | 63512 | [63512-rpg-tsukuuru-95.json](./63512-rpg-tsukuuru-95.json) |
 | RPG Tsukuuru Advance | 49795 | [49795-rpg-tsukuuru-advance.json](./49795-rpg-tsukuuru-advance.json) |
 | RPG Tsukuuru Dante 98 | 65619 | [65619-rpg-tsukuuru-dante-98.json](./65619-rpg-tsukuuru-dante-98.json) |
@@ -13828,6 +13834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Runback | 400815 | [400815-runback.json](./400815-runback.json) |
+| RunBot | 62925 | [62925-runbot.json](./62925-runbot.json) |
 | Runbow | 11215 | [11215-runbow.json](./11215-runbow.json) |
 | Runbow: Complete Collection | 53561 | [53561-runbow-complete-collection.json](./53561-runbow-complete-collection.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
@@ -14619,6 +14626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryte: The Eye of Atlantis | 141400 | [141400-ryte-the-eye-of-atlantis.json](./141400-ryte-the-eye-of-atlantis.json) |
 | Rythenia | 151126 | [151126-rythenia.json](./151126-rythenia.json) |
 | Rythm | 112331 | [112331-rythm.json](./112331-rythm.json) |
+| Rytlock's Critter Rampage | 63479 | [63479-rytlocks-critter-rampage.json](./63479-rytlocks-critter-rampage.json) |
 | Rytmik | 85549 | [85549-rytmik.json](./85549-rytmik.json) |
 | Rytmik Retrobits | 84908 | [84908-rytmik-retrobits.json](./84908-rytmik-retrobits.json) |
 | Rytmik Ultimate | 74812 | [74812-rytmik-ultimate.json](./74812-rytmik-ultimate.json) |
