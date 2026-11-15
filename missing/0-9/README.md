@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Brick Breaker Revolution 2 | 66152 | [66152-3d-brick-breaker-revolution-2.json](./66152-3d-brick-breaker-revolution-2.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3d Bridges | 35510 | [35510-3d-bridges.json](./35510-3d-bridges.json) |
+| 3D Bug Attack: Revenge of the Killer Centipedes! | 57824 | [57824-3d-bug-attack-revenge-of-the-killer-centipedes.json](./57824-3d-bug-attack-revenge-of-the-killer-centipedes.json) |
 | 3D Bumper Billiards | 424689 | [424689-3d-bumper-billiards.json](./424689-3d-bumper-billiards.json) |
 | 3D Caveman Rocks & 3D Brick Bustin Madness | 205834 | [205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json](./205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json) |
 | 3D Challenge | 310515 | [310515-3d-challenge.json](./310515-3d-challenge.json) |
