@@ -8439,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excitebike: Bun-bun Mario Battle - Stadium 2 | 179799 | [179799-excitebike-bun-bun-mario-battle-stadium-2.json](./179799-excitebike-bun-bun-mario-battle-stadium-2.json) |
 | Excitebike: Bun-bun Mario Battle - Stadium 3 | 179806 | [179806-excitebike-bun-bun-mario-battle-stadium-3.json](./179806-excitebike-bun-bun-mario-battle-stadium-3.json) |
 | Excitebike: Bun-bun Mario Battle - Stadium 4 | 179811 | [179811-excitebike-bun-bun-mario-battle-stadium-4.json](./179811-excitebike-bun-bun-mario-battle-stadium-4.json) |
+| Excitebike: World Rally | 21046 | [21046-excitebike-world-rally.json](./21046-excitebike-world-rally.json) |
 | Excitebots: Trick Racing | 4836 | [4836-excitebots-trick-racing.json](./4836-excitebots-trick-racing.json) |
 | Exciting Advance Decoding | 369308 | [369308-exciting-advance-decoding.json](./369308-exciting-advance-decoding.json) |
 | Exciting Baseball | 41275 | [41275-exciting-baseball.json](./41275-exciting-baseball.json) |
