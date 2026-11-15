@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
 | Danny's War | 30433 | [30433-dannys-war.json](./30433-dannys-war.json) |
 | Danse Macabre: Crimson Cabaret | 140213 | [140213-danse-macabre-crimson-cabaret.json](./140213-danse-macabre-crimson-cabaret.json) |
+| Danse Macabre: Crimson Cabaret - Collector's Edition | 39267 | [39267-danse-macabre-crimson-cabaret-collectors-edition.json](./39267-danse-macabre-crimson-cabaret-collectors-edition.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
 | Danse Macabre: Deadly Deception - Collector's Edition | 86436 | [86436-danse-macabre-deadly-deception-collectors-edition.json](./86436-danse-macabre-deadly-deception-collectors-edition.json) |
@@ -3107,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Eternity | 271064 | [271064-dawn-of-eternity.json](./271064-dawn-of-eternity.json) |
 | Dawn of Fear | 130452 | [130452-dawn-of-fear.json](./130452-dawn-of-fear.json) |
 | Dawn of Fear | 321242 | [321242-dawn-of-fear.json](./321242-dawn-of-fear.json) |
+| Dawn of Gods | 39255 | [39255-dawn-of-gods.json](./39255-dawn-of-gods.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Griseo | 236336 | [236336-dawn-of-griseo.json](./236336-dawn-of-griseo.json) |
 | Dawn of H'btakh | 46476 | [46476-dawn-of-hbtakh.json](./46476-dawn-of-hbtakh.json) |
@@ -6204,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter 2005 | 264 | [264-deer-hunter-2005.json](./264-deer-hunter-2005.json) |
 | Deer Hunter 2014 | 62525 | [62525-deer-hunter-2014.json](./62525-deer-hunter-2014.json) |
 | Deer Hunter 2016 | 59789 | [59789-deer-hunter-2016.json](./59789-deer-hunter-2016.json) |
+| Deer Hunter 2017 | 39272 | [39272-deer-hunter-2017.json](./39272-deer-hunter-2017.json) |
 | Deer Hunter 2018 | 106291 | [106291-deer-hunter-2018.json](./106291-deer-hunter-2018.json) |
 | Deer Hunter 2018 | 87034 | [87034-deer-hunter-2018.json](./87034-deer-hunter-2018.json) |
 | Deer Hunter 3 Gold | 256 | [256-deer-hunter-3-gold.json](./256-deer-hunter-3-gold.json) |
@@ -6427,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of the West | 132541 | [132541-defenders-of-the-west.json](./132541-defenders-of-the-west.json) |
 | Defenders of Time | 17722 | [17722-defenders-of-time.json](./17722-defenders-of-time.json) |
 | Defenders: Survival and Tower Defense | 135661 | [135661-defenders-survival-and-tower-defense.json](./135661-defenders-survival-and-tower-defense.json) |
+| Defenders: TD Origins | 39246 | [39246-defenders-td-origins.json](./39246-defenders-td-origins.json) |
 | DefenderWorks | 61131 | [61131-defenderworks.json](./61131-defenderworks.json) |
 | Defendguin | 382123 | [382123-defendguin.json](./382123-defendguin.json) |
 | Defendin' De Penguin | 51034 | [51034-defendin-de-penguin.json](./51034-defendin-de-penguin.json) |
@@ -12530,6 +12534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
 | Dizzy Two | 150824 | [150824-dizzy-two.json](./150824-dizzy-two.json) |
 | Dizzy Wizard | 15217 | [15217-dizzy-wizard.json](./15217-dizzy-wizard.json) |
+| Dizzy: Amstrad Action Special Edition | 39168 | [39168-dizzy-amstrad-action-special-edition.json](./39168-dizzy-amstrad-action-special-edition.json) |
 | Dizzy: Crash Edition | 45241 | [45241-dizzy-crash-edition.json](./45241-dizzy-crash-edition.json) |
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
 | Dizzy: The Ultimate Cartoon Adventure | 12357 | [12357-dizzy-the-ultimate-cartoon-adventure.json](./12357-dizzy-the-ultimate-cartoon-adventure.json) |
@@ -15642,6 +15647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
 | Doudy | 132467 | [132467-doudy.json](./132467-doudy.json) |
 | Doug | 198731 | [198731-doug.json](./198731-doug.json) |
+| Doug Dug | 39243 | [39243-doug-dug.json](./39243-doug-dug.json) |
 | Doug From Accounting | 179888 | [179888-doug-from-accounting.json](./179888-doug-from-accounting.json) |
 | Doug Hates His Job | 135606 | [135606-doug-hates-his-job.json](./135606-doug-hates-his-job.json) |
 | Doug Huggem | 294809 | [294809-doug-huggem.json](./294809-doug-huggem.json) |
