@@ -4263,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Map Studio | 190924 | [190924-battle-map-studio.json](./190924-battle-map-studio.json) |
 | Battle Marine | 296703 | [296703-battle-marine.json](./296703-battle-marine.json) |
 | Battle Master | 86222 | [86222-battle-master.json](./86222-battle-master.json) |
+| Battle Master: Kyuukyoku no Senshi-tachi | 42281 | [42281-battle-master-kyuukyoku-no-senshi-tachi.json](./42281-battle-master-kyuukyoku-no-senshi-tachi.json) |
 | Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
 | Battle Mayhem | 328180 | [328180-battle-mayhem.json](./328180-battle-mayhem.json) |
 | Battle Mech Frontier | 116278 | [116278-battle-mech-frontier.json](./116278-battle-mech-frontier.json) |
@@ -18210,6 +18211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Dragon Quest: Dai-3-wa | 179909 | [179909-bs-dragon-quest-dai-3-wa.json](./179909-bs-dragon-quest-dai-3-wa.json) |
 | BS Dragon Quest: Dai-4-wa | 179910 | [179910-bs-dragon-quest-dai-4-wa.json](./179910-bs-dragon-quest-dai-4-wa.json) |
 | BS F-Zero Deluxe | 286625 | [286625-bs-f-zero-deluxe.json](./286625-bs-f-zero-deluxe.json) |
+| BS F-Zero Grand Prix | 42259 | [42259-bs-f-zero-grand-prix.json](./42259-bs-f-zero-grand-prix.json) |
 | BS F-Zero Grand Prix 2 | 151577 | [151577-bs-f-zero-grand-prix-2.json](./151577-bs-f-zero-grand-prix-2.json) |
 | BS F-Zero Grand Prix 2: Dai-1-shuu | 179782 | [179782-bs-f-zero-grand-prix-2-dai-1-shuu.json](./179782-bs-f-zero-grand-prix-2-dai-1-shuu.json) |
 | BS F-Zero Grand Prix 2: Dai-2-shuu | 179785 | [179785-bs-f-zero-grand-prix-2-dai-2-shuu.json](./179785-bs-f-zero-grand-prix-2-dai-2-shuu.json) |
@@ -19800,6 +19802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Boy | 66986 | [66986-burger-boy.json](./66986-burger-boy.json) |
 | Burger Break | 206310 | [206310-burger-break.json](./206310-burger-break.json) |
 | Burger Break: Head to Head | 199163 | [199163-burger-break-head-to-head.json](./199163-burger-break-head-to-head.json) |
+| Burger Builder | 42185 | [42185-burger-builder.json](./42185-burger-builder.json) |
 | Burger Burger | 92545 | [92545-burger-burger.json](./92545-burger-burger.json) |
 | Burger Burger Pocket: Hamburger Simulation | 65644 | [65644-burger-burger-pocket-hamburger-simulation.json](./65644-burger-burger-pocket-hamburger-simulation.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
