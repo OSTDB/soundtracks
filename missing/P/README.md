@@ -17270,6 +17270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress PET: Netto Version | 353154 | [353154-progress-pet-netto-version.json](./353154-progress-pet-netto-version.json) |
 | Progress Quest | 94363 | [94363-progress-quest.json](./94363-progress-quest.json) |
 | Progress Racer RPG | 332872 | [332872-progress-racer-rpg.json](./332872-progress-racer-rpg.json) |
+| Progress to 100 | 58989 | [58989-progress-to-100.json](./58989-progress-to-100.json) |
 | Progress98 | 409400 | [409400-progress98.json](./409400-progress98.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Progressbar95 | 198477 | [198477-progressbar95.json](./198477-progressbar95.json) |
