@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.J's Tennis Tour | 237006 | [237006-j-js-tennis-tour.json](./237006-j-js-tennis-tour.json) |
 | J.League 3D Stage | 234089 | [234089-j-league-3d-stage.json](./234089-j-league-3d-stage.json) |
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
+| J.League Champion Soccer | 46170 | [46170-j-league-champion-soccer.json](./46170-j-league-champion-soccer.json) |
 | J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
 | J.League Eleven Beat 1997 | 3520 | [3520-j-league-eleven-beat-1997.json](./3520-j-league-eleven-beat-1997.json) |
 | J.League Excite Stage '94 | 220813 | [220813-j-league-excite-stage-94.json](./220813-j-league-excite-stage-94.json) |
