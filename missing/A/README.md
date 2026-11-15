@@ -9079,6 +9079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altdeus: Beyond Chronos | 141359 | [141359-altdeus-beyond-chronos.json](./141359-altdeus-beyond-chronos.json) |
 | Altdeus: Beyond Chronos - Episode Yamato | 196096 | [196096-altdeus-beyond-chronos-episode-yamato.json](./196096-altdeus-beyond-chronos-episode-yamato.json) |
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
+| Alte Macht | 25995 | [25995-alte-macht.json](./25995-alte-macht.json) |
 | Alteil | 67716 | [67716-alteil.json](./67716-alteil.json) |
 | Alteil: Horizons | 27736 | [27736-alteil-horizons.json](./27736-alteil-horizons.json) |
 | Alteira | 260727 | [260727-alteira.json](./260727-alteira.json) |
