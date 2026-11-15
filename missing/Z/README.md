@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zephon | 153065 | [153065-zephon.json](./153065-zephon.json) |
 | Zephyr | 2199 | [2199-zephyr.json](./2199-zephyr.json) |
 | Zephyr | 327268 | [327268-zephyr.json](./327268-zephyr.json) |
+| Zephyr Cloud | 428132 | [428132-zephyr-cloud.json](./428132-zephyr-cloud.json) |
 | Zephyr: The Cloud Odyssey | 182707 | [182707-zephyr-the-cloud-odyssey.json](./182707-zephyr-the-cloud-odyssey.json) |
 | Zephyr's Pass | 320282 | [320282-zephyrs-pass.json](./320282-zephyrs-pass.json) |
 | Zephyrus | 163126 | [163126-zephyrus.json](./163126-zephyrus.json) |
