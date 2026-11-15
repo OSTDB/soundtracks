@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eitr | 11181 | [11181-eitr.json](./11181-eitr.json) |
 | Eiyou Tappuri no Kareshi | 301618 | [301618-eiyou-tappuri-no-kareshi.json](./301618-eiyou-tappuri-no-kareshi.json) |
+| Eiyu Senki Gold: A New Conquest | 26022 | [26022-eiyu-senki-gold-a-new-conquest.json](./26022-eiyu-senki-gold-a-new-conquest.json) |
 | Eiyu*Senki - The World Conquest | 11573 | [11573-eiyu-senki-the-world-conquest.json](./11573-eiyu-senki-the-world-conquest.json) |
 | Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition | 267962 | [267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json](./267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json) |
 | Eiyuden Chronicle: Hundred Heroes - Hope of the Alliance: Special HQ Statue | 323249 | [323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json](./323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json) |
@@ -5370,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era7: Game of Truth | 234957 | [234957-era7-game-of-truth.json](./234957-era7-game-of-truth.json) |
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
 | Eradicate | 183769 | [183769-eradicate.json](./183769-eradicate.json) |
+| Eradicated | 26011 | [26011-eradicated.json](./26011-eradicated.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
 | Eragon | 5821 | [5821-eragon.json](./5821-eragon.json) |
