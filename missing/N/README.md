@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsumi Kokochi | 213095 | [213095-natsumi-kokochi.json](./213095-natsumi-kokochi.json) |
 | Natsuno-Kanata: Beyond Summer | 366723 | [366723-natsuno-kanata-beyond-summer.json](./366723-natsuno-kanata-beyond-summer.json) |
 | Natsuno-Kanata: Beyond the Summer | 171738 | [171738-natsuno-kanata-beyond-the-summer.json](./171738-natsuno-kanata-beyond-the-summer.json) |
+| Natsuno-Kanata: Prologue | 429370 | [429370-natsuno-kanata-prologue.json](./429370-natsuno-kanata-prologue.json) |
 | Natsuyasumi | 327917 | [327917-natsuyasumi.json](./327917-natsuyasumi.json) |
 | Natsuyasumi ga Machidooshii | 307833 | [307833-natsuyasumi-ga-machidooshii.json](./307833-natsuyasumi-ga-machidooshii.json) |
 | Natsuyume Nagisa | 396029 | [396029-natsuyume-nagisa.json](./396029-natsuyume-nagisa.json) |
@@ -2694,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Exile | 120652 | [120652-neon-exile.json](./120652-neon-exile.json) |
 | Neon Exploding Bread | 363685 | [363685-neon-exploding-bread.json](./363685-neon-exploding-bread.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
+| Neon Express | 429357 | [429357-neon-express.json](./429357-neon-express.json) |
 | Neon Fantasy: Animals | 248227 | [248227-neon-fantasy-animals.json](./248227-neon-fantasy-animals.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
 | Neon Fantasy: Butterflies | 293493 | [293493-neon-fantasy-butterflies.json](./293493-neon-fantasy-butterflies.json) |
@@ -8161,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NRA Varmint Hunter | 67834 | [67834-nra-varmint-hunter.json](./67834-nra-varmint-hunter.json) |
 | Nrem | 349755 | [349755-nrem.json](./349755-nrem.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
+| Nrisca | 429354 | [429354-nrisca.json](./429354-nrisca.json) |
 | NRL Mascot Mania | 124026 | [124026-nrl-mascot-mania.json](./124026-nrl-mascot-mania.json) |
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
 | NS-Shaft | 259412 | [259412-ns-shaft.json](./259412-ns-shaft.json) |
