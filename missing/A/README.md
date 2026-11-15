@@ -5073,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Dark | 376844 | [376844-after-dark.json](./376844-after-dark.json) |
 | After Dark Games | 85943 | [85943-after-dark-games.json](./85943-after-dark-games.json) |
 | After Dark VR | 187533 | [187533-after-dark-vr.json](./187533-after-dark-vr.json) |
+| After Dark: Tower 47 | 420383 | [420383-after-dark-tower-47.json](./420383-after-dark-tower-47.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
 | After Death | 322236 | [322236-after-death.json](./322236-after-death.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
@@ -5333,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Rome | 25460 | [25460-against-rome.json](./25460-against-rome.json) |
 | Against the Backrooms | 226101 | [226101-against-the-backrooms.json](./226101-against-the-backrooms.json) |
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
+| Against the Dark Moon | 420380 | [420380-against-the-dark-moon.json](./420380-against-the-dark-moon.json) |
 | Against the Gradient | 40711 | [40711-against-the-gradient.json](./40711-against-the-gradient.json) |
 | Against the Horde | 379503 | [379503-against-the-horde.json](./379503-against-the-horde.json) |
 | Against the Light | 412992 | [412992-against-the-light.json](./412992-against-the-light.json) |
@@ -15930,6 +15932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
 | Arktrum | 129916 | [129916-arktrum.json](./129916-arktrum.json) |
 | Arktwend: The Forgotten Realm | 319107 | [319107-arktwend-the-forgotten-realm.json](./319107-arktwend-the-forgotten-realm.json) |
+| Arkvain | 420373 | [420373-arkvain.json](./420373-arkvain.json) |
 | Arkwhale | 303681 | [303681-arkwhale.json](./303681-arkwhale.json) |
 | ArkX | 80170 | [80170-arkx.json](./80170-arkx.json) |
 | Arkyos Angel | 306729 | [306729-arkyos-angel.json](./306729-arkyos-angel.json) |
