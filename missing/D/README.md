@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lord | 175733 | [175733-dark-lord.json](./175733-dark-lord.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
 | Dark Lord | 275969 | [275969-dark-lord.json](./275969-dark-lord.json) |
+| Dark Lord | 36591 | [36591-dark-lord.json](./36591-dark-lord.json) |
 | Dark Lord | 85882 | [85882-dark-lord.json](./85882-dark-lord.json) |
 | Dark Lord Leona | 382484 | [382484-dark-lord-leona.json](./382484-dark-lord-leona.json) |
 | Dark Lord: Peacemaker | 284562 | [284562-dark-lord-peacemaker.json](./284562-dark-lord-peacemaker.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Arba | 220007 | [220007-dawn-of-arba.json](./220007-dawn-of-arba.json) |
 | Dawn of China: Rise of Qin | 109372 | [109372-dawn-of-china-rise-of-qin.json](./109372-dawn-of-china-rise-of-qin.json) |
 | Dawn of Corruption | 148108 | [148108-dawn-of-corruption.json](./148108-dawn-of-corruption.json) |
+| Dawn of Crafting | 36604 | [36604-dawn-of-crafting.json](./36604-dawn-of-crafting.json) |
 | Dawn of Dark Blood | 229210 | [229210-dawn-of-dark-blood.json](./229210-dawn-of-dark-blood.json) |
 | Dawn of Darkness | 275204 | [275204-dawn-of-darkness.json](./275204-dawn-of-darkness.json) |
 | Dawn of Decay | 322616 | [322616-dawn-of-decay.json](./322616-dawn-of-decay.json) |
@@ -21775,6 +21777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysterra | 144573 | [144573-dysterra.json](./144573-dysterra.json) |
 | Dysthanasia | 378381 | [378381-dysthanasia.json](./378381-dysthanasia.json) |
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
+| Dystoa | 36617 | [36617-dystoa.json](./36617-dystoa.json) |
 | Dystobel | 240687 | [240687-dystobel.json](./240687-dystobel.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
