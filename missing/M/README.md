@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama ni Aitai | 138424 | [138424-mama-ni-aitai.json](./138424-mama-ni-aitai.json) |
 | Mama Possum | 83302 | [83302-mama-possum.json](./83302-mama-possum.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
+| Mama Russia Needs You | 44146 | [44146-mama-russia-needs-you.json](./44146-mama-russia-needs-you.json) |
 | Mama Soybean's Delicious Oyster Sauce | 183842 | [183842-mama-soybeans-delicious-oyster-sauce.json](./183842-mama-soybeans-delicious-oyster-sauce.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
 | Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
@@ -11032,6 +11033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 1st Mission (Version D) | 75487 | [75487-metal-slug-1st-mission-version-d.json](./75487-metal-slug-1st-mission-version-d.json) |
 | Metal Slug 2 | 1407 | [1407-metal-slug-2.json](./1407-metal-slug-2.json) |
 | Metal Slug 2001 | 343003 | [343003-metal-slug-2001.json](./343003-metal-slug-2001.json) |
+| Metal Slug 2nd Mission | 43984 | [43984-metal-slug-2nd-mission.json](./43984-metal-slug-2nd-mission.json) |
 | Metal Slug 2nd Mission (Best Collection) | 75489 | [75489-metal-slug-2nd-mission-best-collection.json](./75489-metal-slug-2nd-mission-best-collection.json) |
 | Metal Slug 3 | 191479 | [191479-metal-slug-3.json](./191479-metal-slug-3.json) |
 | Metal Slug 3 | 347159 | [347159-metal-slug-3.json](./347159-metal-slug-3.json) |
@@ -14535,6 +14537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Moni. Dice de Pyon! | 243285 | [243285-mini-moni-dice-de-pyon.json](./243285-mini-moni-dice-de-pyon.json) |
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
 | Mini-Moni. Step Pyon Pyon Pyon | 243282 | [243282-mini-moni-step-pyon-pyon-pyon.json](./243282-mini-moni-step-pyon-pyon-pyon.json) |
+| Mini-Putt | 44151 | [44151-mini-putt.json](./44151-mini-putt.json) |
 | Mini-Tank Arena | 309812 | [309812-mini-tank-arena.json](./309812-mini-tank-arena.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Mini-U: The Bathroom | 91052 | [91052-mini-u-the-bathroom.json](./91052-mini-u-the-bathroom.json) |
@@ -16255,6 +16258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Spirits of Zeon | 320661 | [320661-mobile-suit-gundam-spirits-of-zeon.json](./320661-mobile-suit-gundam-spirits-of-zeon.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Suit Gundam: White Base - The 13th Independent Force | 97394 | [97394-mobile-suit-gundam-white-base-the-13th-independent-force.json](./97394-mobile-suit-gundam-white-base-the-13th-independent-force.json) |
+| Mobile Suit Gundam: Zeonic Front | 43594 | [43594-mobile-suit-gundam-zeonic-front.json](./43594-mobile-suit-gundam-zeonic-front.json) |
 | Mobile Suit Z Gundam: Zenpen Zeta no Kodou | 138328 | [138328-mobile-suit-z-gundam-zenpen-zeta-no-kodou.json](./138328-mobile-suit-z-gundam-zenpen-zeta-no-kodou.json) |
 | Mobile Suit Z-Gundam | 77059 | [77059-mobile-suit-z-gundam.json](./77059-mobile-suit-z-gundam.json) |
 | Mobile Suit Zeta Gundam | 66472 | [66472-mobile-suit-zeta-gundam.json](./66472-mobile-suit-zeta-gundam.json) |
@@ -22324,6 +22328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Moto | 38667 | [38667-mx-moto.json](./38667-mx-moto.json) |
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
+| MX Rider | 43608 | [43608-mx-rider.json](./43608-mx-rider.json) |
 | MX Simulator | 21182 | [21182-mx-simulator.json](./21182-mx-simulator.json) |
 | MX Superfly | 4024 | [4024-mx-superfly.json](./4024-mx-superfly.json) |
 | MX Superfly Featuring Ricky Carmichael | 80067 | [80067-mx-superfly-featuring-ricky-carmichael.json](./80067-mx-superfly-featuring-ricky-carmichael.json) |
