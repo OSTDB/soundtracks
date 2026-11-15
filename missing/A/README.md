@@ -11415,6 +11415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Jigsaw VR | 247971 | [247971-animal-jigsaw-vr.json](./247971-animal-jigsaw-vr.json) |
 | Animal Jumprope A | 229503 | [229503-animal-jumprope-a.json](./229503-animal-jumprope-a.json) |
 | Animal Jumprope B | 229505 | [229505-animal-jumprope-b.json](./229505-animal-jumprope-b.json) |
+| Animal Kaiser Evolution 5 | 63498 | [63498-animal-kaiser-evolution-5.json](./63498-animal-kaiser-evolution-5.json) |
 | Animal Kaiser: The King of Animals | 56998 | [56998-animal-kaiser-the-king-of-animals.json](./56998-animal-kaiser-the-king-of-animals.json) |
 | Animal Kart Racer | 154790 | [154790-animal-kart-racer.json](./154790-animal-kart-racer.json) |
 | Animal Kart Racer 2 | 270464 | [270464-animal-kart-racer-2.json](./270464-animal-kart-racer-2.json) |
@@ -20700,6 +20701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayrton Senna's Super Monaco GP II | 27077 | [27077-ayrton-sennas-super-monaco-gp-ii.json](./27077-ayrton-sennas-super-monaco-gp-ii.json) |
 | Ayse Hairdresser | 293212 | [293212-ayse-hairdresser.json](./293212-ayse-hairdresser.json) |
 | Ayse’s Dog Hairdresser | 293213 | [293213-ayse-s-dog-hairdresser.json](./293213-ayse-s-dog-hairdresser.json) |
+| AYSO Soccer '97 | 62335 | [62335-ayso-soccer-97.json](./62335-ayso-soccer-97.json) |
 | Ayu Mayu Alternative | 401986 | [401986-ayu-mayu-alternative.json](./401986-ayu-mayu-alternative.json) |
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
 | Ayuda: Mystery Adventure | 174255 | [174255-ayuda-mystery-adventure.json](./174255-ayuda-mystery-adventure.json) |
