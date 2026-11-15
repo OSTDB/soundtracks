@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagyan Land 2 | 48549 | [48549-wagyan-land-2.json](./48549-wagyan-land-2.json) |
 | Wagyan Land 3 | 48548 | [48548-wagyan-land-3.json](./48548-wagyan-land-3.json) |
 | Wagyan Paradise | 42425 | [42425-wagyan-paradise.json](./42425-wagyan-paradise.json) |
+| Wahaj: The Firefly's Journey | 429725 | [429725-wahaj-the-fireflys-journey.json](./429725-wahaj-the-fireflys-journey.json) |
 | Wahm | 360709 | [360709-wahm.json](./360709-wahm.json) |
 | Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
 | Wai Wai Jockey Gate-In! | 40532 | [40532-wai-wai-jockey-gate-in.json](./40532-wai-wai-jockey-gate-in.json) |
