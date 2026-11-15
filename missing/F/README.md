@@ -2466,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4 + Far Cry Primal Double Pack | 136307 | [136307-far-cry-4-far-cry-primal-double-pack.json](./136307-far-cry-4-far-cry-primal-double-pack.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
 | Far Cry 4: Arcade Poker | 60379 | [60379-far-cry-4-arcade-poker.json](./60379-far-cry-4-arcade-poker.json) |
+| Far Cry 4: Arena Master | 51481 | [51481-far-cry-4-arena-master.json](./51481-far-cry-4-arena-master.json) |
 | Far Cry 4: Escape From Durgesh Prison | 23225 | [23225-far-cry-4-escape-from-durgesh-prison.json](./23225-far-cry-4-escape-from-durgesh-prison.json) |
 | Far Cry 4: Gold Edition | 53019 | [53019-far-cry-4-gold-edition.json](./53019-far-cry-4-gold-edition.json) |
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
@@ -8897,6 +8898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Frenzy | 343485 | [343485-flipper-frenzy.json](./343485-flipper-frenzy.json) |
 | Flipper Hazard | 44115 | [44115-flipper-hazard.json](./44115-flipper-hazard.json) |
 | Flipper Hazard 2 | 54483 | [54483-flipper-hazard-2.json](./54483-flipper-hazard-2.json) |
+| Flipper Hazard 3 | 51596 | [51596-flipper-hazard-3.json](./51596-flipper-hazard-3.json) |
 | Flipper Hazard 4 | 55239 | [55239-flipper-hazard-4.json](./55239-flipper-hazard-4.json) |
 | Flipper Hazard 4 | 55320 | [55320-flipper-hazard-4.json](./55320-flipper-hazard-4.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
@@ -11335,6 +11337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Classic | 119117 | [119117-formula-classic.json](./119117-formula-classic.json) |
 | Formula Dare | 184429 | [184429-formula-dare.json](./184429-formula-dare.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
+| Formula E Grand Prix | 52273 | [52273-formula-e-grand-prix.json](./52273-formula-e-grand-prix.json) |
 | Formula E powered by Virtually Live | 36639 | [36639-formula-e-powered-by-virtually-live.json](./36639-formula-e-powered-by-virtually-live.json) |
 | Formula Evolution 2024 | 254904 | [254904-formula-evolution-2024.json](./254904-formula-evolution-2024.json) |
 | Formula Evolution 2025 | 385978 | [385978-formula-evolution-2025.json](./385978-formula-evolution-2025.json) |
