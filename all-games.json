@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T01:16:22.145Z",
-  "total_soundtracks": 3360,
+  "generated_at": "2026-11-15T01:21:09.635Z",
+  "total_soundtracks": 3363,
   "games": [
     {
       "igdb_id": 292844,
@@ -11115,6 +11115,20 @@
       ]
     },
     {
+      "igdb_id": 17161,
+      "game_name": "Eidolon",
+      "game_url": "https://ostdb.net/games/eidolon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273149dfa555bc3225ec94b7b9c",
+      "albums": [
+        {
+          "album_name": "Eidolon (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/57l9BcbC7GVcpMuN9XmoDN",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 137451,
       "game_name": "Eiyuden Chronicle: Hundred Heroes",
       "game_url": "https://ostdb.net/games/eiyuden-chronicle-hundred-heroes",
@@ -13355,6 +13369,20 @@
     {
       "igdb_id": 210625,
       "game_name": "Flock",
+      "game_url": "https://ostdb.net/games/flock",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f95f6a27337143d3374c6a68",
+      "albums": [
+        {
+          "album_name": "Flock (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0XpvYZjr8lHD04NdOEcN85",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14929,
+      "game_name": "Flock!",
       "game_url": "https://ostdb.net/games/flock",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273f95f6a27337143d3374c6a68",
       "albums": [
@@ -15793,6 +15821,20 @@
         {
           "album_name": "Guns of Icarus Online (Original Score)",
           "spotify_url": "https://open.spotify.com/album/5U1MOoDPCNIYXsnYAPJNiA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17010,
+      "game_name": "Gunscape",
+      "game_url": "https://ostdb.net/games/gunscape",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273697bf2e05ff906c66aa6a772",
+      "albums": [
+        {
+          "album_name": "Gunscape (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5ZkpeUu4HBx1fR0yc1O6Rc",
           "apple_music_url": "",
           "album_link_url": ""
         }
