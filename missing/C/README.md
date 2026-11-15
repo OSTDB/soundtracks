@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
 | Cardboard Battle Tanks: Desk Division | 371922 | [371922-cardboard-battle-tanks-desk-division.json](./371922-cardboard-battle-tanks-desk-division.json) |
 | Cardboard Box Assembler | 397412 | [397412-cardboard-box-assembler.json](./397412-cardboard-box-assembler.json) |
+| Cardboard Castle | 52484 | [52484-cardboard-castle.json](./52484-cardboard-castle.json) |
 | Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
 | Cardboard Clash | 125904 | [125904-cardboard-clash.json](./125904-cardboard-clash.json) |
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
@@ -8373,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chime Sharp | 17907 | [17907-chime-sharp.json](./17907-chime-sharp.json) |
 | Chime Sharp Game Composer Edition | 122147 | [122147-chime-sharp-game-composer-edition.json](./122147-chime-sharp-game-composer-edition.json) |
+| Chime Super Deluxe | 52162 | [52162-chime-super-deluxe.json](./52162-chime-super-deluxe.json) |
 | Chimera | 13489 | [13489-chimera.json](./13489-chimera.json) |
 | Chimera | 195033 | [195033-chimera.json](./195033-chimera.json) |
 | Chimera | 312718 | [312718-chimera.json](./312718-chimera.json) |
@@ -9618,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
 | Chronotura | 180393 | [180393-chronotura.json](./180393-chronotura.json) |
 | ChronoVenture | 321285 | [321285-chronoventure.json](./321285-chronoventure.json) |
+| Chronovolt | 52161 | [52161-chronovolt.json](./52161-chronovolt.json) |
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 113559 | [113559-chrysalis.json](./113559-chrysalis.json) |
@@ -10035,6 +10038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circles by Powgi | 140413 | [140413-circles-by-powgi.json](./140413-circles-by-powgi.json) |
 | Circles of Hell | 96621 | [96621-circles-of-hell.json](./96621-circles-of-hell.json) |
 | Circles with Grandma | 100645 | [100645-circles-with-grandma.json](./100645-circles-with-grandma.json) |
+| Circles, Circles, Circles | 52160 | [52160-circles-circles-circles.json](./52160-circles-circles-circles.json) |
 | Circles3 | 106293 | [106293-circles3.json](./106293-circles3.json) |
 | Circlet | 366455 | [366455-circlet.json](./366455-circlet.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
@@ -11589,6 +11593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
 | Cliff & Field | 187615 | [187615-cliff-and-field.json](./187615-cliff-and-field.json) |
+| Cliff Diving | 52158 | [52158-cliff-diving.json](./52158-cliff-diving.json) |
 | Cliff Drift | 251335 | [251335-cliff-drift.json](./251335-cliff-drift.json) |
 | Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
 | Cliff Hanger | 24504 | [24504-cliff-hanger.json](./24504-cliff-hanger.json) |
@@ -12508,6 +12513,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
 | Coconut | 314305 | [314305-coconut.json](./314305-coconut.json) |
 | Coconut CEO Idle | 387629 | [387629-coconut-ceo-idle.json](./387629-coconut-ceo-idle.json) |
+| Coconut Dodge | 52157 | [52157-coconut-dodge.json](./52157-coconut-dodge.json) |
+| Coconut Dodge Revitalised | 52156 | [52156-coconut-dodge-revitalised.json](./52156-coconut-dodge-revitalised.json) |
 | Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
 | Coconut Simulator | 326453 | [326453-coconut-simulator.json](./326453-coconut-simulator.json) |
 | Coconut Simulator 2 | 374019 | [374019-coconut-simulator-2.json](./374019-coconut-simulator-2.json) |
@@ -18270,6 +18277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Nitro Kart 3D | 80155 | [80155-crash-bandicoot-nitro-kart-3d.json](./80155-crash-bandicoot-nitro-kart-3d.json) |
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
 | Crash Bandicoot Psyched Out | 222594 | [222594-crash-bandicoot-psyched-out.json](./222594-crash-bandicoot-psyched-out.json) |
+| Crash Bandicoot Racing - 15th Anniversary Edition | 52165 | [52165-crash-bandicoot-racing-15th-anniversary-edition.json](./52165-crash-bandicoot-racing-15th-anniversary-edition.json) |
 | Crash Bandicoot World | 309165 | [309165-crash-bandicoot-world.json](./309165-crash-bandicoot-world.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
 | Crash Bandicoot: Back In Time | 245695 | [245695-crash-bandicoot-back-in-time.json](./245695-crash-bandicoot-back-in-time.json) |
