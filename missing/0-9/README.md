@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Tower | 344046 | [344046-3tower.json](./344046-3tower.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3 Eyes Seima Densetsu | 46397 | [46397-3x3-eyes-seima-densetsu.json](./46397-3x3-eyes-seima-densetsu.json) |
+| 3x3 Eyes: Kyuusei Koushu | 73903 | [73903-3x3-eyes-kyuusei-koushu.json](./73903-3x3-eyes-kyuusei-koushu.json) |
 | 3x3 Eyes: Kyuusei Koushu S | 45450 | [45450-3x3-eyes-kyuusei-koushu-s.json](./45450-3x3-eyes-kyuusei-koushu-s.json) |
 | 3x3 Eyes: Sanjiyan Henjou | 74015 | [74015-3x3-eyes-sanjiyan-henjou.json](./74015-3x3-eyes-sanjiyan-henjou.json) |
 | 3x3 Eyes: Seima Kourin-den | 15886 | [15886-3x3-eyes-seima-kourin-den.json](./15886-3x3-eyes-seima-kourin-den.json) |
