@@ -10064,6 +10064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi-Meikan '92 | 48845 | [48845-shogi-meikan-92.json](./48845-shogi-meikan-92.json) |
 | Shogi-Meikan '93 | 48844 | [48844-shogi-meikan-93.json](./48844-shogi-meikan-93.json) |
 | Shogi: Japanese Chess | 221357 | [221357-shogi-japanese-chess.json](./221357-shogi-japanese-chess.json) |
+| Shogi: Touryuumon | 37453 | [37453-shogi-touryuumon.json](./37453-shogi-touryuumon.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun | 306534 | [306534-shogun.json](./306534-shogun.json) |
@@ -10110,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooper Nova | 296512 | [296512-shooper-nova.json](./296512-shooper-nova.json) |
 | Shoot | 287553 | [287553-shoot.json](./287553-shoot.json) |
 | Shoot 'em up Construction Kit | 131285 | [131285-shoot-em-up-construction-kit.json](./131285-shoot-em-up-construction-kit.json) |
+| Shoot 'm Up | 37432 | [37432-shoot-m-up.json](./37432-shoot-m-up.json) |
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot & Destroy | 318527 | [318527-shoot-and-destroy.json](./318527-shoot-and-destroy.json) |
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
@@ -21926,6 +21928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
 | Space Hero: Intergalactic Titan | 244552 | [244552-space-hero-intergalactic-titan.json](./244552-space-hero-intergalactic-titan.json) |
 | Space Hexcite: Maetel Legend EX | 49808 | [49808-space-hexcite-maetel-legend-ex.json](./49808-space-hexcite-maetel-legend-ex.json) |
+| Space Hit | 37429 | [37429-space-hit.json](./37429-space-hit.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
 | Space Hockey | 121078 | [121078-space-hockey.json](./121078-space-hockey.json) |
 | Space Hodsola | 102481 | [102481-space-hodsola.json](./102481-space-hodsola.json) |
