@@ -11085,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic Quest 2: Return and Revenge | 330119 | [330119-metal-sonic-quest-2-return-and-revenge.json](./330119-metal-sonic-quest-2-return-and-revenge.json) |
 | Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
 | Metal Sonic's Big Adventure | 331077 | [331077-metal-sonics-big-adventure.json](./331077-metal-sonics-big-adventure.json) |
+| Metal Stoker | 42059 | [42059-metal-stoker.json](./42059-metal-stoker.json) |
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
 | Metal Storm X | 257240 | [257240-metal-storm-x.json](./257240-metal-storm-x.json) |
 | Metal Storm: Collector's Edition | 282941 | [282941-metal-storm-collectors-edition.json](./282941-metal-storm-collectors-edition.json) |
@@ -11235,6 +11236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor | 280955 | [280955-meteor.json](./280955-meteor.json) |
 | Meteor 60 Seconds! | 86750 | [86750-meteor-60-seconds.json](./86750-meteor-60-seconds.json) |
 | Meteor Arena | 317087 | [317087-meteor-arena.json](./317087-meteor-arena.json) |
+| Meteor Belt | 42190 | [42190-meteor-belt.json](./42190-meteor-belt.json) |
 | Meteor Blade | 54206 | [54206-meteor-blade.json](./54206-meteor-blade.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
@@ -21437,6 +21439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiple Territory War | 419202 | [419202-multiple-territory-war.json](./419202-multiple-territory-war.json) |
 | Multiple Views Objects | 117220 | [117220-multiple-views-objects.json](./117220-multiple-views-objects.json) |
 | MultipleGamePack | 135544 | [135544-multiplegamepack.json](./135544-multiplegamepack.json) |
+| Multiplication 1 | 42184 | [42184-multiplication-1.json](./42184-multiplication-1.json) |
 | Multiplication Dojo | 93884 | [93884-multiplication-dojo.json](./93884-multiplication-dojo.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Flash Cards Games Fun Math Problems | 91228 | [91228-multiplication-flash-cards-games-fun-math-problems.json](./91228-multiplication-flash-cards-games-fun-math-problems.json) |
