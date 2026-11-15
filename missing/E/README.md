@@ -3803,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empulse | 402471 | [402471-empulse.json](./402471-empulse.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyre: Earls of the Deep Earth | 289529 | [289529-empyre-earls-of-the-deep-earth.json](./289529-empyre-earls-of-the-deep-earth.json) |
+| Empyre: Lords of the Sea Gates | 47518 | [47518-empyre-lords-of-the-sea-gates.json](./47518-empyre-lords-of-the-sea-gates.json) |
 | Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
 | Empyreal Dawn | 224311 | [224311-empyreal-dawn.json](./224311-empyreal-dawn.json) |
 | Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
@@ -8700,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoHarvest | 320077 | [320077-exoharvest.json](./320077-exoharvest.json) |
 | ExoHunters: Galaxy | 235001 | [235001-exohunters-galaxy.json](./235001-exohunters-galaxy.json) |
 | Exoide-Z | 41756 | [41756-exoide-z.json](./41756-exoide-z.json) |
+| Exoide-Z Area 5 | 47512 | [47512-exoide-z-area-5.json](./47512-exoide-z-area-5.json) |
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
 | Exolotl: Zian | 251995 | [251995-exolotl-zian.json](./251995-exolotl-zian.json) |
