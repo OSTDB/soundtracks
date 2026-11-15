@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Round | 260522 | [260522-last-round.json](./260522-last-round.json) |
 | Last Round at the End of the World | 404087 | [404087-last-round-at-the-end-of-the-world.json](./404087-last-round-at-the-end-of-the-world.json) |
 | Last Ruler of Vicissity | 236173 | [236173-last-ruler-of-vicissity.json](./236173-last-ruler-of-vicissity.json) |
+| Last Salaryman: Survival Idle RPG | 428751 | [428751-last-salaryman-survival-idle-rpg.json](./428751-last-salaryman-survival-idle-rpg.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Santa Standing | 77719 | [77719-last-santa-standing.json](./77719-last-santa-standing.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
@@ -4422,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
 | Lethal Judgment: Origins | 91794 | [91794-lethal-judgment-origins.json](./91794-lethal-judgment-origins.json) |
 | Lethal Justice | 40334 | [40334-lethal-justice.json](./40334-lethal-justice.json) |
+| Lethal Justice | 428729 | [428729-lethal-justice.json](./428729-lethal-justice.json) |
 | Lethal Lands | 24397 | [24397-lethal-lands.json](./24397-lethal-lands.json) |
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
@@ -6894,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Planet: Holiday Update | 380572 | [380572-little-planet-holiday-update.json](./380572-little-planet-holiday-update.json) |
 | Little Police | 90745 | [90745-little-police.json](./90745-little-police.json) |
+| Little Pond: A Teacup Prequel | 428780 | [428780-little-pond-a-teacup-prequel.json](./428780-little-pond-a-teacup-prequel.json) |
 | Little Pony Town Adventures | 316925 | [316925-little-pony-town-adventures.json](./316925-little-pony-town-adventures.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
@@ -8561,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
 | Lop: Whitefall | 404633 | [404633-lop-whitefall.json](./404633-lop-whitefall.json) |
+| Lopers | 428764 | [428764-lopers.json](./428764-lopers.json) |
 | Lophead Adventure World | 164661 | [164661-lophead-adventure-world.json](./164661-lophead-adventure-world.json) |
 | Lophis Roguelike-Card RPG game: Darkest Dungeon | 147138 | [147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json](./147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json) |
 | Loplight | 208210 | [208210-loplight.json](./208210-loplight.json) |
