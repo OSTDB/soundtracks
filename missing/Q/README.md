@@ -192,7 +192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QQ Dazzling Dance | 279214 | [279214-qq-dazzling-dance.json](./279214-qq-dazzling-dance.json) |
 | QQ Free Fantasy | 279212 | [279212-qq-free-fantasy.json](./279212-qq-free-fantasy.json) |
 | QQ Speed | 199934 | [199934-qq-speed.json](./199934-qq-speed.json) |
-| QQQbeats!!! | 354547 | [354547-qqqbeats.json](./354547-qqqbeats.json) |
 | QQTang | 240882 | [240882-qqtang.json](./240882-qqtang.json) |
 | QR Code Killer | 123514 | [123514-qr-code-killer.json](./123514-qr-code-killer.json) |
 | QR Dead | 320837 | [320837-qr-dead.json](./320837-qr-dead.json) |
