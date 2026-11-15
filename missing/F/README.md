@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fahrenheit: Indigo Prophecy Remastered | 25009 | [25009-fahrenheit-indigo-prophecy-remastered.json](./25009-fahrenheit-indigo-prophecy-remastered.json) |
 | Fahrenheit: Special Edition | 43281 | [43281-fahrenheit-special-edition.json](./43281-fahrenheit-special-edition.json) |
 | Faif | 128576 | [128576-faif.json](./128576-faif.json) |
+| Fail Factory | 75993 | [75993-fail-factory.json](./75993-fail-factory.json) |
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
 | Fail Fail Succeed | 374651 | [374651-fail-fail-succeed.json](./374651-fail-fail-succeed.json) |
 | Fail Hard | 39225 | [39225-fail-hard.json](./39225-fail-hard.json) |
@@ -6919,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
 | Firey's Candy Bar Adventure | 296227 | [296227-fireys-candy-bar-adventure.json](./296227-fireys-candy-bar-adventure.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
+| Firien Wood | 76010 | [76010-firien-wood.json](./76010-firien-wood.json) |
 | Firing Range | 65055 | [65055-firing-range.json](./65055-firing-range.json) |
 | Firing Vibes | 139680 | [139680-firing-vibes.json](./139680-firing-vibes.json) |
 | Firma | 35232 | [35232-firma.json](./35232-firma.json) |
@@ -8753,7 +8755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
 | Flint | 369680 | [369680-flint.json](./369680-flint.json) |
 | Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
-| Flint: Treasure of Oblivion | 295635 | [295635-flint-treasure-of-oblivion.json](./295635-flint-treasure-of-oblivion.json) |
 | Flint's Hints | 296271 | [296271-flints-hints.json](./296271-flints-hints.json) |
 | Flintlock: The Siege of Dawn - Deluxe Edition | 305332 | [305332-flintlock-the-siege-of-dawn-deluxe-edition.json](./305332-flintlock-the-siege-of-dawn-deluxe-edition.json) |
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
