@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
 | F-18: No Fly Zone | 350299 | [350299-f-18-no-fly-zone.json](./350299-f-18-no-fly-zone.json) |
 | F-19 Stealth Fighter | 10206 | [10206-f-19-stealth-fighter.json](./10206-f-19-stealth-fighter.json) |
+| F-2 Missions: Case One | 427600 | [427600-f-2-missions-case-one.json](./427600-f-2-missions-case-one.json) |
 | F-22 Air Dominance Fighter | 693 | [693-f-22-air-dominance-fighter.json](./693-f-22-air-dominance-fighter.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
 | F-22 Lightning 3 | 71832 | [71832-f-22-lightning-3.json](./71832-f-22-lightning-3.json) |
@@ -9475,6 +9476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Fluff's Adventure: A Tale of Fur and Steel | 303992 | [303992-fluffs-adventure-a-tale-of-fur-and-steel.json](./303992-fluffs-adventure-a-tale-of-fur-and-steel.json) |
 | Fluffhood's Adventure | 185168 | [185168-fluffhoods-adventure.json](./185168-fluffhoods-adventure.json) |
+| Fluffkin Grove | 427579 | [427579-fluffkin-grove.json](./427579-fluffkin-grove.json) |
 | Fluffland | 183421 | [183421-fluffland.json](./183421-fluffland.json) |
 | Fluffles Rainy Day | 280027 | [280027-fluffles-rainy-day.json](./280027-fluffles-rainy-day.json) |
 | Fluffquake Fury | 340087 | [340087-fluffquake-fury.json](./340087-fluffquake-fury.json) |
@@ -10554,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For a Vast Future: Special Edition | 278643 | [278643-for-a-vast-future-special-edition.json](./278643-for-a-vast-future-special-edition.json) |
 | For a Vast Future: Ultimate Edition | 273322 | [273322-for-a-vast-future-ultimate-edition.json](./273322-for-a-vast-future-ultimate-edition.json) |
+| For All Our Souls | 427583 | [427583-for-all-our-souls.json](./427583-for-all-our-souls.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Amerta | 220572 | [220572-for-amerta.json](./220572-for-amerta.json) |
 | For Another Day | 201397 | [201397-for-another-day.json](./201397-for-another-day.json) |
