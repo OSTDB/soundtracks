@@ -10131,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Inc.: Go to Work | 320809 | [320809-black-inc-go-to-work.json](./320809-black-inc-go-to-work.json) |
 | Black Infinity | 158126 | [158126-black-infinity.json](./158126-black-infinity.json) |
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
+| Black Island | 35100 | [35100-black-island.json](./35100-black-island.json) |
 | Black Jack | 145220 | [145220-black-jack.json](./145220-black-jack.json) |
 | Black Jack | 246377 | [246377-black-jack.json](./246377-black-jack.json) |
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
@@ -20566,6 +20567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butler Until Midnight | 238901 | [238901-butler-until-midnight.json](./238901-butler-until-midnight.json) |
 | Butler! Summon the Imps! | 382850 | [382850-butler-summon-the-imps.json](./382850-butler-summon-the-imps.json) |
 | Butou Soujin | 151768 | [151768-butou-soujin.json](./151768-butou-soujin.json) |
+| Butsbal | 35126 | [35126-butsbal.json](./35126-butsbal.json) |
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
 | Butt | 79045 | [79045-butt.json](./79045-butt.json) |
 | Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
