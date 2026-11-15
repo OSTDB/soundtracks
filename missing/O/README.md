@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Go | 241561 | [241561-omega-go.json](./241561-omega-go.json) |
 | Omega Horizon | 228398 | [228398-omega-horizon.json](./228398-omega-horizon.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
+| Omega Labyrinth | 11548 | [11548-omega-labyrinth.json](./11548-omega-labyrinth.json) |
 | Omega Labyrinth Life | 109284 | [109284-omega-labyrinth-life.json](./109284-omega-labyrinth-life.json) |
 | Omega Labyrinth Life: Additional Dungeon - Mystic Omega Spot | 238052 | [238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json](./238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json) |
 | Omega Labyrinth Life: Deluxe Edition | 220916 | [220916-omega-labyrinth-life-deluxe-edition.json](./220916-omega-labyrinth-life-deluxe-edition.json) |
