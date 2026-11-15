@@ -1662,7 +1662,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Lost Crusade | 154795 | [154795-warhammer-40-000-lost-crusade.json](./154795-warhammer-40-000-lost-crusade.json) |
 | Warhammer 40,000: Mechanicus - Heretek | 121158 | [121158-warhammer-40-000-mechanicus-heretek.json](./121158-warhammer-40-000-mechanicus-heretek.json) |
 | Warhammer 40,000: Mechanicus - Omnissiah Edition | 124973 | [124973-warhammer-40-000-mechanicus-omnissiah-edition.json](./124973-warhammer-40-000-mechanicus-omnissiah-edition.json) |
-| Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
 | Warhammer 40,000: Rites of War | 24113 | [24113-warhammer-40-000-rites-of-war.json](./24113-warhammer-40-000-rites-of-war.json) |
 | Warhammer 40,000: Rogue Trader - Collector’s Edition | 251060 | [251060-warhammer-40-000-rogue-trader-collector-s-edition.json](./251060-warhammer-40-000-rogue-trader-collector-s-edition.json) |
@@ -8145,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
 | Wooden Ocean | 55232 | [55232-wooden-ocean.json](./55232-wooden-ocean.json) |
 | Wooden Sen'SeY | 10341 | [10341-wooden-sensey.json](./10341-wooden-sensey.json) |
+| Wooden Ships and Iron Men | 76012 | [76012-wooden-ships-and-iron-men.json](./76012-wooden-ships-and-iron-men.json) |
 | Woodfarer | 180450 | [180450-woodfarer.json](./180450-woodfarer.json) |
 | Woodfel | 121896 | [121896-woodfel.json](./121896-woodfel.json) |
 | WoodHeart | 160160 | [160160-woodheart.json](./160160-woodheart.json) |
@@ -8159,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodland Rush - Domino | 117192 | [117192-woodland-rush-domino.json](./117192-woodland-rush-domino.json) |
 | Woodland Saga | 136727 | [136727-woodland-saga.json](./136727-woodland-saga.json) |
 | Woodland Sonata | 285716 | [285716-woodland-sonata.json](./285716-woodland-sonata.json) |
+| Woodland Terror | 76011 | [76011-woodland-terror.json](./76011-woodland-terror.json) |
 | Woodland Town | 264518 | [264518-woodland-town.json](./264518-woodland-town.json) |
 | Woodland Walker | 228931 | [228931-woodland-walker.json](./228931-woodland-walker.json) |
 | Woodlands | 37022 | [37022-woodlands.json](./37022-woodlands.json) |
@@ -8200,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
 | Woodworm Classic | 306738 | [306738-woodworm-classic.json](./306738-woodworm-classic.json) |
+| Woody Ball | 76009 | [76009-woody-ball.json](./76009-woody-ball.json) |
 | Woody Blox | 74916 | [74916-woody-blox.json](./74916-woody-blox.json) |
 | Woody Chopper | 160269 | [160269-woody-chopper.json](./160269-woody-chopper.json) |
 | Woody Poco | 210801 | [210801-woody-poco.json](./210801-woody-poco.json) |
@@ -8208,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
 | Woody Two-Legs: Attack of the Zombie Pirates | 2073 | [2073-woody-two-legs-attack-of-the-zombie-pirates.json](./2073-woody-two-legs-attack-of-the-zombie-pirates.json) |
 | Woody Woodpecker | 63986 | [63986-woody-woodpecker.json](./63986-woody-woodpecker.json) |
+| Woody Woodpecker | 76008 | [76008-woody-woodpecker.json](./76008-woody-woodpecker.json) |
 | Woody Woodpecker and Friends Volume 1 | 37228 | [37228-woody-woodpecker-and-friends-volume-1.json](./37228-woody-woodpecker-and-friends-volume-1.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
 | Woody Woodpecker and Friends Volume 3 | 37227 | [37227-woody-woodpecker-and-friends-volume-3.json](./37227-woody-woodpecker-and-friends-volume-3.json) |
