@@ -2539,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking: Garage Simulator | 340835 | [340835-car-parking-garage-simulator.json](./340835-car-parking-garage-simulator.json) |
 | Car Parking: New Cars | 226296 | [226296-car-parking-new-cars.json](./226296-car-parking-new-cars.json) |
 | Car Parkour | 246867 | [246867-car-parkour.json](./246867-car-parkour.json) |
+| Car Parkour 2 Together | 420365 | [420365-car-parkour-2-together.json](./420365-car-parkour-2-together.json) |
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
 | Car Physics Simulator | 154085 | [154085-car-physics-simulator.json](./154085-car-physics-simulator.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
@@ -13174,6 +13175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Contours: Intake | 407822 | [407822-cold-contours-intake.json](./407822-cold-contours-intake.json) |
 | Cold Contract | 60601 | [60601-cold-contract.json](./60601-cold-contract.json) |
 | Cold Cuts | 77171 | [77171-cold-cuts.json](./77171-cold-cuts.json) |
+| Cold Dark | 420367 | [420367-cold-dark.json](./420367-cold-dark.json) |
 | Cold Dead Hands | 367606 | [367606-cold-dead-hands.json](./367606-cold-dead-hands.json) |
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Dreams | 286703 | [286703-cold-dreams.json](./286703-cold-dreams.json) |
