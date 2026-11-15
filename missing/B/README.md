@@ -19358,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletstorm VR | 251567 | [251567-bulletstorm-vr.json](./251567-bulletstorm-vr.json) |
 | Bulletstorm: Duke Nukem's Bulletstorm Tour | 174501 | [174501-bulletstorm-duke-nukems-bulletstorm-tour.json](./174501-bulletstorm-duke-nukems-bulletstorm-tour.json) |
 | Bulletstorm: Duke of Switch Edition | 116680 | [116680-bulletstorm-duke-of-switch-edition.json](./116680-bulletstorm-duke-of-switch-edition.json) |
+| Bulletstorm: Epic Edition | 47481 | [47481-bulletstorm-epic-edition.json](./47481-bulletstorm-epic-edition.json) |
 | Bulletstorm: Full Clip Edition Duke Nukem Bundle | 83507 | [83507-bulletstorm-full-clip-edition-duke-nukem-bundle.json](./83507-bulletstorm-full-clip-edition-duke-nukem-bundle.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
