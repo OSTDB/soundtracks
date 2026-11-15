@@ -4986,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraforming Mars: Venus Next | 273965 | [273965-terraforming-mars-venus-next.json](./273965-terraforming-mars-venus-next.json) |
 | Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
 | TerraFront | 422055 | [422055-terrafront.json](./422055-terrafront.json) |
+| Terragearth | 68828 | [68828-terragearth.json](./68828-terragearth.json) |
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
 | TerraGenesis: Landfall | 213339 | [213339-terragenesis-landfall.json](./213339-terragenesis-landfall.json) |
@@ -11783,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
+| The Herbologist | 68191 | [68191-the-herbologist.json](./68191-the-herbologist.json) |
 | The Herd | 345785 | [345785-the-herd.json](./345785-the-herd.json) |
 | The Heretics | 341264 | [341264-the-heretics.json](./341264-the-heretics.json) |
 | The Heritage | 377563 | [377563-the-heritage.json](./377563-the-heritage.json) |
@@ -13247,6 +13249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Comfort | 410653 | [410653-the-last-comfort.json](./410653-the-last-comfort.json) |
 | The Last Commander | 272218 | [272218-the-last-commander.json](./272218-the-last-commander.json) |
 | The Last Companion | 125718 | [125718-the-last-companion.json](./125718-the-last-companion.json) |
+| The Last Conflict | 68190 | [68190-the-last-conflict.json](./68190-the-last-conflict.json) |
 | The Last Conquerors | 189322 | [189322-the-last-conquerors.json](./189322-the-last-conquerors.json) |
 | The Last Contact | 112776 | [112776-the-last-contact.json](./112776-the-last-contact.json) |
 | The Last Corpse Forge: Survivor | 342186 | [342186-the-last-corpse-forge-survivor.json](./342186-the-last-corpse-forge-survivor.json) |
@@ -15440,6 +15443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
 | The MonMon Monster | 41692 | [41692-the-monmon-monster.json](./41692-the-monmon-monster.json) |
 | The Mono-Yellow Madness | 216587 | [216587-the-mono-yellow-madness.json](./216587-the-mono-yellow-madness.json) |
+| The Monopoly Game 2 | 67593 | [67593-the-monopoly-game-2.json](./67593-the-monopoly-game-2.json) |
 | The monotony of carrots | 179936 | [179936-the-monotony-of-carrots.json](./179936-the-monotony-of-carrots.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
@@ -16109,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
 | The Operational Art of War II: Elite Edition | 73677 | [73677-the-operational-art-of-war-ii-elite-edition.json](./73677-the-operational-art-of-war-ii-elite-edition.json) |
 | The Operational Art of War II: Flashpoint Kosovo | 70073 | [70073-the-operational-art-of-war-ii-flashpoint-kosovo.json](./70073-the-operational-art-of-war-ii-flashpoint-kosovo.json) |
+| The Operational Art of War: Century of Warfare | 68844 | [68844-the-operational-art-of-war-century-of-warfare.json](./68844-the-operational-art-of-war-century-of-warfare.json) |
 | The Operative: No One Lives Forever | 897 | [897-the-operative-no-one-lives-forever.json](./897-the-operative-no-one-lives-forever.json) |
 | The Options Menu | 405551 | [405551-the-options-menu.json](./405551-the-options-menu.json) |
 | The Oracle | 71372 | [71372-the-oracle.json](./71372-the-oracle.json) |
@@ -17211,6 +17216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Devil | 184759 | [184759-the-red-devil.json](./184759-the-red-devil.json) |
 | The Red Door | 134903 | [134903-the-red-door.json](./134903-the-red-door.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
+| The Red Front | 68830 | [68830-the-red-front.json](./68830-the-red-front.json) |
 | The Red Hat | 327275 | [327275-the-red-hat.json](./327275-the-red-hat.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
 | The Red Hood: Hunting the Wolf | 379172 | [379172-the-red-hood-hunting-the-wolf.json](./379172-the-red-hood-hunting-the-wolf.json) |
@@ -21656,6 +21662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Their Angelical Understanding | 60117 | [60117-their-angelical-understanding.json](./60117-their-angelical-understanding.json) |
 | Their Eyes | 166000 | [166000-their-eyes.json](./166000-their-eyes.json) |
 | Their Finest Hour: The Battle of Britain | 208 | [208-their-finest-hour-the-battle-of-britain.json](./208-their-finest-hour-the-battle-of-britain.json) |
+| Their Finest Missions: Volume One | 68835 | [68835-their-finest-missions-volume-one.json](./68835-their-finest-missions-volume-one.json) |
 | Their Land | 251880 | [251880-their-land.json](./251880-their-land.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
 | Their Navy Is Their Doom | 319138 | [319138-their-navy-is-their-doom.json](./319138-their-navy-is-their-doom.json) |
@@ -23151,6 +23158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe 3D 2014 HD | 106744 | [106744-tic-tac-toe-3d-2014-hd.json](./106744-tic-tac-toe-3d-2014-hd.json) |
 | Tic Tac Toe Battle Royale | 180712 | [180712-tic-tac-toe-battle-royale.json](./180712-tic-tac-toe-battle-royale.json) |
 | Tic Tac Toe Glow | 223876 | [223876-tic-tac-toe-glow.json](./223876-tic-tac-toe-glow.json) |
+| Tic Tac Toe Lounge | 68833 | [68833-tic-tac-toe-lounge.json](./68833-tic-tac-toe-lounge.json) |
 | Tic Tac Toe Plus | 100991 | [100991-tic-tac-toe-plus.json](./100991-tic-tac-toe-plus.json) |
 | Tic Tac Toe Pro HD | 90049 | [90049-tic-tac-toe-pro-hd.json](./90049-tic-tac-toe-pro-hd.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
