@@ -6220,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceres - Harvest Among The Stars | 388165 | [388165-ceres-harvest-among-the-stars.json](./388165-ceres-harvest-among-the-stars.json) |
 | Ceres M | 193938 | [193938-ceres-m.json](./193938-ceres-m.json) |
 | Ceress and Orea | 96651 | [96651-ceress-and-orea.json](./96651-ceress-and-orea.json) |
+| Cereus | 27047 | [27047-cereus.json](./27047-cereus.json) |
 | Cerevrum | 153337 | [153337-cerevrum.json](./153337-cerevrum.json) |
 | Cerita Jabar Sangkuriang | 214632 | [214632-cerita-jabar-sangkuriang.json](./214632-cerita-jabar-sangkuriang.json) |
 | Cerius | 14001 | [14001-cerius.json](./14001-cerius.json) |
@@ -8970,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Choro-Q Hyper Customable GB | 65637 | [65637-choro-q-hyper-customable-gb.json](./65637-choro-q-hyper-customable-gb.json) |
 | Choro-Q Jet: Rainbow Wings | 43770 | [43770-choro-q-jet-rainbow-wings.json](./43770-choro-q-jet-rainbow-wings.json) |
+| ChoroQ | 27073 | [27073-choroq.json](./27073-choroq.json) |
 | Chorus of Carcosa | 315958 | [315958-chorus-of-carcosa.json](./315958-chorus-of-carcosa.json) |
 | Chorus of the Night | 235395 | [235395-chorus-of-the-night.json](./235395-chorus-of-the-night.json) |
 | Chorus: Day One Edition | 172575 | [172575-chorus-day-one-edition.json](./172575-chorus-day-one-edition.json) |
@@ -16620,6 +16622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corocoro Friends | 402650 | [402650-corocoro-friends.json](./402650-corocoro-friends.json) |
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Coron Land | 38199 | [38199-coron-land.json](./38199-coron-land.json) |
+| Corona Blossom | 26998 | [26998-corona-blossom.json](./26998-corona-blossom.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona Blossom Vol.2 The Truth from Beyond | 31199 | [31199-corona-blossom-vol-2-the-truth-from-beyond.json](./31199-corona-blossom-vol-2-the-truth-from-beyond.json) |
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
