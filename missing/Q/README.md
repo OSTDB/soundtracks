@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quaddro 2 | 90275 | [90275-quaddro-2.json](./90275-quaddro-2.json) |
 | Quaddro 2: Blue Level Pack | 165958 | [165958-quaddro-2-blue-level-pack.json](./165958-quaddro-2-blue-level-pack.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
+| Quadle | 34926 | [34926-quadle.json](./34926-quadle.json) |
 | Quadline | 194181 | [194181-quadline.json](./194181-quadline.json) |
 | Quadnet | 50249 | [50249-quadnet.json](./50249-quadnet.json) |
 | Quadoban | 200027 | [200027-quadoban.json](./200027-quadoban.json) |
