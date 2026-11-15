@@ -2315,7 +2315,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garuka | 40140 | [40140-garuka.json](./40140-garuka.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
 | Garuya and the Kaleidoscope of Syzygy | 307005 | [307005-garuya-and-the-kaleidoscope-of-syzygy.json](./307005-garuya-and-the-kaleidoscope-of-syzygy.json) |
+| Gary Grigsby's Eagle Day to Bombing the Reich | 59529 | [59529-gary-grigsbys-eagle-day-to-bombing-the-reich.json](./59529-gary-grigsbys-eagle-day-to-bombing-the-reich.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
+| Gary Grigsby's War Between the States | 59527 | [59527-gary-grigsbys-war-between-the-states.json](./59527-gary-grigsbys-war-between-the-states.json) |
 | Gary Grigsby's War in Russia | 70767 | [70767-gary-grigsbys-war-in-russia.json](./70767-gary-grigsbys-war-in-russia.json) |
 | Gary Grigsby's War in the East | 24627 | [24627-gary-grigsbys-war-in-the-east.json](./24627-gary-grigsbys-war-in-the-east.json) |
 | Gary Grigsby's War in the East 2 | 143425 | [143425-gary-grigsbys-war-in-the-east-2.json](./143425-gary-grigsbys-war-in-the-east-2.json) |
@@ -2625,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazing from beyond | 83497 | [83497-gazing-from-beyond.json](./83497-gazing-from-beyond.json) |
 | Gazmatera II: America's Least Wanted | 190029 | [190029-gazmatera-ii-americas-least-wanted.json](./190029-gazmatera-ii-americas-least-wanted.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
+| Gazok Age | 58951 | [58951-gazok-age.json](./58951-gazok-age.json) |
 | Gazolinas | 260632 | [260632-gazolinas.json](./260632-gazolinas.json) |
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
 | Gazza's Electronic Football Game | 217945 | [217945-gazzas-electronic-football-game.json](./217945-gazzas-electronic-football-game.json) |
@@ -4724,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
 | Gift of Parthax | 96162 | [96162-gift-of-parthax.json](./96162-gift-of-parthax.json) |
 | Gift of Spring | 82189 | [82189-gift-of-spring.json](./82189-gift-of-spring.json) |
+| Gift Panic | 58968 | [58968-gift-panic.json](./58968-gift-panic.json) |
 | Gift Quest: Christmas Edition | 255643 | [255643-gift-quest-christmas-edition.json](./255643-gift-quest-christmas-edition.json) |
 | Gift Quest: Valentine's Day | 255655 | [255655-gift-quest-valentines-day.json](./255655-gift-quest-valentines-day.json) |
 | Gift Scavenger | 122962 | [122962-gift-scavenger.json](./122962-gift-scavenger.json) |
@@ -10557,6 +10561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimms Echoes | 131722 | [131722-grimms-echoes.json](./131722-grimms-echoes.json) |
 | Grimms Nightmare | 109177 | [109177-grimms-nightmare.json](./109177-grimms-nightmare.json) |
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
+| Grimms Notes Repage | 58966 | [58966-grimms-notes-repage.json](./58966-grimms-notes-repage.json) |
 | GrimmStar | 125331 | [125331-grimmstar.json](./125331-grimmstar.json) |
 | GrimmVeil | 387628 | [387628-grimmveil.json](./387628-grimmveil.json) |
 | Grimmwald Dungeon RPG | 98904 | [98904-grimmwald-dungeon-rpg.json](./98904-grimmwald-dungeon-rpg.json) |
