@@ -8969,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
 | Chou Aniki: Otoko no Tamafuda | 37521 | [37521-chou-aniki-otoko-no-tamafuda.json](./37521-chou-aniki-otoko-no-tamafuda.json) |
 | Chou Aniki: Seinaru Protein Densetsu | 43418 | [43418-chou-aniki-seinaru-protein-densetsu.json](./43418-chou-aniki-seinaru-protein-densetsu.json) |
+| Chou Charisou ~ Atsumete! Choujuu Hunter | 58976 | [58976-chou-charisou-atsumete-choujuu-hunter.json](./58976-chou-charisou-atsumete-choujuu-hunter.json) |
 | Chou Crème Collect Whip | 376875 | [376875-chou-creme-collect-whip.json](./376875-chou-creme-collect-whip.json) |
 | Chou Dengeki Stryker | 23436 | [23436-chou-dengeki-stryker.json](./23436-chou-dengeki-stryker.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
@@ -10036,6 +10037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
 | Circuit | 97944 | [97944-circuit.json](./97944-circuit.json) |
 | Circuit Artist | 338529 | [338529-circuit-artist.json](./338529-circuit-artist.json) |
+| Circuit Beat | 58960 | [58960-circuit-beat.json](./58960-circuit-beat.json) |
 | Circuit Blasters | 221294 | [221294-circuit-blasters.json](./221294-circuit-blasters.json) |
 | Circuit Breaker | 195301 | [195301-circuit-breaker.json](./195301-circuit-breaker.json) |
 | Circuit Breaker | 261233 | [261233-circuit-breaker.json](./261233-circuit-breaker.json) |
@@ -17441,6 +17443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Desert Simulator | 114084 | [114084-country-desert-simulator.json](./114084-country-desert-simulator.json) |
 | Country Desert Simulator: Addon SUV | 172205 | [172205-country-desert-simulator-addon-suv.json](./172205-country-desert-simulator-addon-suv.json) |
 | Country Discoverer | 144842 | [144842-country-discoverer.json](./144842-country-discoverer.json) |
+| Country Friends | 58971 | [58971-country-friends.json](./58971-country-friends.json) |
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
 | Country Hero | 346561 | [346561-country-hero.json](./346561-country-hero.json) |
 | Country Hopper | 398412 | [398412-country-hopper.json](./398412-country-hopper.json) |
