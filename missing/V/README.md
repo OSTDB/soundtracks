@@ -3946,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball | 109446 | [109446-volleyball.json](./109446-volleyball.json) |
 | Volleyball | 287291 | [287291-volleyball.json](./287291-volleyball.json) |
 | Volleyball | 287574 | [287574-volleyball.json](./287574-volleyball.json) |
+| Volleyball Arena | 422078 | [422078-volleyball-arena.json](./422078-volleyball-arena.json) |
 | Volleyball Challenge | 163694 | [163694-volleyball-challenge.json](./163694-volleyball-challenge.json) |
 | Volleyball Challenge | 43244 | [43244-volleyball-challenge.json](./43244-volleyball-challenge.json) |
 | Volleyball Champions 3D | 323322 | [323322-volleyball-champions-3d.json](./323322-volleyball-champions-3d.json) |
