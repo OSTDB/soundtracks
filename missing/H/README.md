@@ -3746,7 +3746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Kingdom: Rebellion | 112824 | [112824-heart-of-the-kingdom-rebellion.json](./112824-heart-of-the-kingdom-rebellion.json) |
 | Heart of the Machine | 217017 | [217017-heart-of-the-machine.json](./217017-heart-of-the-machine.json) |
 | Heart of the Mountain | 405722 | [405722-heart-of-the-mountain.json](./405722-heart-of-the-mountain.json) |
-| Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
 | Heart of the Woods: Collector's Edition | 258876 | [258876-heart-of-the-woods-collectors-edition.json](./258876-heart-of-the-woods-collectors-edition.json) |
 | Heart of Vegas: Casino Slots | 232357 | [232357-heart-of-vegas-casino-slots.json](./232357-heart-of-vegas-casino-slots.json) |
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
@@ -6855,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
 | Heroes of Britannia | 188464 | [188464-heroes-of-britannia.json](./188464-heroes-of-britannia.json) |
 | Heroes of Camelot | 7449 | [7449-heroes-of-camelot.json](./7449-heroes-of-camelot.json) |
+| Heroes of Civilizations | 52266 | [52266-heroes-of-civilizations.json](./52266-heroes-of-civilizations.json) |
 | Heroes of Crown | 214100 | [214100-heroes-of-crown.json](./214100-heroes-of-crown.json) |
 | Heroes of Delum | 27408 | [27408-heroes-of-delum.json](./27408-heroes-of-delum.json) |
 | Heroes of Destiny | 63384 | [63384-heroes-of-destiny.json](./63384-heroes-of-destiny.json) |
