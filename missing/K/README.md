@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kameo: Elements of Power | 279354 | [279354-kameo-elements-of-power.json](./279354-kameo-elements-of-power.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kamer | 129567 | [129567-kamer.json](./129567-kamer.json) |
+| Kami | 13102 | [13102-kami.json](./13102-kami.json) |
 | Kami | 292397 | [292397-kami.json](./292397-kami.json) |
 | Kami | 68978 | [68978-kami.json](./68978-kami.json) |
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
@@ -4277,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby and the Rainbow Curse | 7338 | [7338-kirby-and-the-rainbow-curse.json](./7338-kirby-and-the-rainbow-curse.json) |
 | Kirby and the World Beyond | 417186 | [417186-kirby-and-the-world-beyond.json](./417186-kirby-and-the-world-beyond.json) |
 | Kirby Battle Blitz! | 278474 | [278474-kirby-battle-blitz.json](./278474-kirby-battle-blitz.json) |
+| Kirby Battle Royale | 66788 | [66788-kirby-battle-royale.json](./66788-kirby-battle-royale.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby Family | 248070 | [248070-kirby-family.json](./248070-kirby-family.json) |
 | Kirby Fighters 2 | 139059 | [139059-kirby-fighters-2.json](./139059-kirby-fighters-2.json) |
