@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's GrandSlam Hunting: 2004 Trophies | 209774 | [209774-cabelas-grandslam-hunting-2004-trophies.json](./209774-cabelas-grandslam-hunting-2004-trophies.json) |
 | Cabela's Legendary Adventures | 51037 | [51037-cabelas-legendary-adventures.json](./51037-cabelas-legendary-adventures.json) |
 | Cabela's Monster Bass | 43219 | [43219-cabelas-monster-bass.json](./43219-cabelas-monster-bass.json) |
+| Cabela's Monster Buck Hunter | 24345 | [24345-cabelas-monster-buck-hunter.json](./24345-cabelas-monster-buck-hunter.json) |
 | Cabela's North American Adventures | 7809 | [7809-cabelas-north-american-adventures.json](./7809-cabelas-north-american-adventures.json) |
 | Cabela's Outdoor Adventures | 3844 | [3844-cabelas-outdoor-adventures.json](./3844-cabelas-outdoor-adventures.json) |
 | Cabela's Outdoor Adventures | 91390 | [91390-cabelas-outdoor-adventures.json](./91390-cabelas-outdoor-adventures.json) |
@@ -3372,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Commander | 186799 | [186799-carrier-commander.json](./186799-carrier-commander.json) |
 | Carrier Cuties: Pets in Mechs! | 403371 | [403371-carrier-cuties-pets-in-mechs.json](./403371-carrier-cuties-pets-in-mechs.json) |
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
+| Carrier Force | 24388 | [24388-carrier-force.json](./24388-carrier-force.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landing HD | 103940 | [103940-carrier-landing-hd.json](./103940-carrier-landing-hd.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
@@ -6927,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Void | 83986 | [83986-chaotic-void.json](./83986-chaotic-void.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
 | Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
+| Chaotic: Shadow Warriors | 24339 | [24339-chaotic-shadow-warriors.json](./24339-chaotic-shadow-warriors.json) |
 | ChaoticNightmare | 189827 | [189827-chaoticnightmare.json](./189827-chaoticnightmare.json) |
 | Chaotix CD | 332455 | [332455-chaotix-cd.json](./332455-chaotix-cd.json) |
 | Chaotix Mania | 334064 | [334064-chaotix-mania.json](./334064-chaotix-mania.json) |
@@ -10547,6 +10550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Graves | 284975 | [284975-city-of-graves.json](./284975-city-of-graves.json) |
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
 | City of Heroes: Architect Edition | 286710 | [286710-city-of-heroes-architect-edition.json](./286710-city-of-heroes-architect-edition.json) |
+| City of Heroes: Freedom | 24368 | [24368-city-of-heroes-freedom.json](./24368-city-of-heroes-freedom.json) |
 | City of Heroes: Homecoming | 281858 | [281858-city-of-heroes-homecoming.json](./281858-city-of-heroes-homecoming.json) |
 | City of Hope | 165800 | [165800-city-of-hope.json](./165800-city-of-hope.json) |
 | City of Jade: Imperial Frontier | 102372 | [102372-city-of-jade-imperial-frontier.json](./102372-city-of-jade-imperial-frontier.json) |
