@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Ukubata Tei no Roku Tengu | 221039 | [221039-ukubata-tei-no-roku-tengu.json](./221039-ukubata-tei-no-roku-tengu.json) |
 | Ulala: Idle Adventure | 124346 | [124346-ulala-idle-adventure.json](./124346-ulala-idle-adventure.json) |
+| Ulama: Arena of the Gods | 31272 | [31272-ulama-arena-of-the-gods.json](./31272-ulama-arena-of-the-gods.json) |
 | Uldor Dread Arena | 247096 | [247096-uldor-dread-arena.json](./247096-uldor-dread-arena.json) |
 | UldreVoid | 133206 | [133206-uldrevoid.json](./133206-uldrevoid.json) |
 | Ulia Chronicles | 304913 | [304913-ulia-chronicles.json](./304913-ulia-chronicles.json) |
