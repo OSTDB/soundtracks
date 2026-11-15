@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamasa Digi World 4 | 61323 | [61323-yamasa-digi-world-4.json](./61323-yamasa-digi-world-4.json) |
 | Yamasa Digi World SP | 61324 | [61324-yamasa-digi-world-sp.json](./61324-yamasa-digi-world-sp.json) |
 | Yamasa Digi World SP: Bounty Killer | 398695 | [398695-yamasa-digi-world-sp-bounty-killer.json](./398695-yamasa-digi-world-sp-bounty-killer.json) |
+| Yamasa Digi World: Collaboration SP Pachi-Slot Ridge Racer | 62345 | [62345-yamasa-digi-world-collaboration-sp-pachi-slot-ridge-racer.json](./62345-yamasa-digi-world-collaboration-sp-pachi-slot-ridge-racer.json) |
 | Yamasa Digi World: Tetra Master | 61326 | [61326-yamasa-digi-world-tetra-master.json](./61326-yamasa-digi-world-tetra-master.json) |
 | Yamasen-Chan's Hermit Home Designer | 142336 | [142336-yamasen-chans-hermit-home-designer.json](./142336-yamasen-chans-hermit-home-designer.json) |
 | Yamato | 388242 | [388242-yamato.json](./388242-yamato.json) |
