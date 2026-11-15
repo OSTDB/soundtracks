@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: The Diamond Heist | 167685 | [167685-payday-2-the-diamond-heist.json](./167685-payday-2-the-diamond-heist.json) |
 | Payday 2: The Diamond Store Heist | 167695 | [167695-payday-2-the-diamond-store-heist.json](./167695-payday-2-the-diamond-store-heist.json) |
 | Payday 2: The Election Day Heist | 167697 | [167697-payday-2-the-election-day-heist.json](./167697-payday-2-the-election-day-heist.json) |
+| Payday 2: The Goat Simulator Heist | 16290 | [16290-payday-2-the-goat-simulator-heist.json](./16290-payday-2-the-goat-simulator-heist.json) |
 | Payday 2: The Golden Grin Casino Heist | 167693 | [167693-payday-2-the-golden-grin-casino-heist.json](./167693-payday-2-the-golden-grin-casino-heist.json) |
 | Payday 2: The Overkill Pack | 225176 | [225176-payday-2-the-overkill-pack.json](./225176-payday-2-the-overkill-pack.json) |
 | Payday 2: The Point Break Heists | 167694 | [167694-payday-2-the-point-break-heists.json](./167694-payday-2-the-point-break-heists.json) |
