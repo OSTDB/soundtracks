@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parrygon | 424656 | [424656-parrygon.json](./424656-parrygon.json) |
 | ParryMaster | 374810 | [374810-parrymaster.json](./374810-parrymaster.json) |
 | ParryRobot | 277371 | [277371-parryrobot.json](./277371-parryrobot.json) |
+| Parse | 56683 | [56683-parse.json](./56683-parse.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
 | Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
 | Parsec | 18563 | [18563-parsec.json](./18563-parsec.json) |
@@ -7565,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 361379 | [361379-pinball.json](./361379-pinball.json) |
 | Pinball | 410874 | [410874-pinball.json](./410874-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
+| Pinball | 56075 | [56075-pinball.json](./56075-pinball.json) |
 | Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
 | Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
@@ -14945,6 +14947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
+| Power Balls | 56089 | [56089-power-balls.json](./56089-power-balls.json) |
 | Power Blade | 48079 | [48079-power-blade.json](./48079-power-blade.json) |
 | Power Blazer | 48568 | [48568-power-blazer.json](./48568-power-blazer.json) |
 | Power Block | 130286 | [130286-power-block.json](./130286-power-block.json) |
@@ -17757,6 +17760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Mekuru | 85587 | [85587-project-mekuru.json](./85587-project-mekuru.json) |
 | Project Méliès​​ | 108398 | [108398-project-melies.json](./108398-project-melies.json) |
 | Project Mercenaria | 367390 | [367390-project-mercenaria.json](./367390-project-mercenaria.json) |
+| Project Mercury | 56672 | [56672-project-mercury.json](./56672-project-mercury.json) |
 | Project Michael: The Halloween Nightmare | 272804 | [272804-project-michael-the-halloween-nightmare.json](./272804-project-michael-the-halloween-nightmare.json) |
 | Project Microchip | 392269 | [392269-project-microchip.json](./392269-project-microchip.json) |
 | Project Midas | 424290 | [424290-project-midas.json](./424290-project-midas.json) |
