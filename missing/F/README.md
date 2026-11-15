@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatherhood | 235564 | [235564-fatherhood.json](./235564-fatherhood.json) |
 | Fathers Farm | 377851 | [377851-fathers-farm.json](./377851-fathers-farm.json) |
 | Fathom | 10966 | [10966-fathom.json](./10966-fathom.json) |
+| Fathom | 13892 | [13892-fathom.json](./13892-fathom.json) |
 | Fathom | 400599 | [400599-fathom.json](./400599-fathom.json) |
 | Fathom: The Game of Tiles | 70065 | [70065-fathom-the-game-of-tiles.json](./70065-fathom-the-game-of-tiles.json) |
 | Fathom's End | 396401 | [396401-fathoms-end.json](./396401-fathoms-end.json) |
