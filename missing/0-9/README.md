@@ -3524,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Angels | 196910 | [196910-7-angels.json](./196910-7-angels.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
+| 7 Bones and 7 Stones: The Ritual | 74573 | [74573-7-bones-and-7-stones-the-ritual.json](./74573-7-bones-and-7-stones-the-ritual.json) |
 | 7 Card Games | 84685 | [84685-7-card-games.json](./84685-7-card-games.json) |
 | 7 Card Studs | 251263 | [251263-7-card-studs.json](./251263-7-card-studs.json) |
 | 7 Colors | 11878 | [11878-7-colors.json](./11878-7-colors.json) |
