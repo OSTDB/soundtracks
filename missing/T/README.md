@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Bandits | 207578 | [207578-tactical-bandits.json](./207578-tactical-bandits.json) |
 | Tactical Battle Chronicles: Prelude to a War | 157739 | [157739-tactical-battle-chronicles-prelude-to-a-war.json](./157739-tactical-battle-chronicles-prelude-to-a-war.json) |
 | Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
+| Tactical Blitz Fleet | 428773 | [428773-tactical-blitz-fleet.json](./428773-tactical-blitz-fleet.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
 | Tactical Combat Department | 164059 | [164059-tactical-combat-department.json](./164059-tactical-combat-department.json) |
@@ -35801,6 +35802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust Me | 290356 | [290356-trust-me.json](./290356-trust-me.json) |
 | Trust Me | 373815 | [373815-trust-me.json](./373815-trust-me.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
+| Trust Me Fellow | 428779 | [428779-trust-me-fellow.json](./428779-trust-me-fellow.json) |
 | Trust Me, I Got This! | 176660 | [176660-trust-me-i-got-this.json](./176660-trust-me-i-got-this.json) |
 | Trust Me, I Nailed It | 387826 | [387826-trust-me-i-nailed-it.json](./387826-trust-me-i-nailed-it.json) |
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
@@ -37476,6 +37478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Exhibition Items Pack | 223541 | [223541-two-point-hospital-exhibition-items-pack.json](./223541-two-point-hospital-exhibition-items-pack.json) |
 | Two Point Hospital: Fancy Dress Pack | 223545 | [223545-two-point-hospital-fancy-dress-pack.json](./223545-two-point-hospital-fancy-dress-pack.json) |
 | Two Point Hospital: Full Health Collection | 370588 | [370588-two-point-hospital-full-health-collection.json](./370588-two-point-hospital-full-health-collection.json) |
+| Two Point Hospital: Full Health Collection Upgrade | 428785 | [428785-two-point-hospital-full-health-collection-upgrade.json](./428785-two-point-hospital-full-health-collection-upgrade.json) |
 | Two Point Hospital: Jumbo Edition | 142815 | [142815-two-point-hospital-jumbo-edition.json](./142815-two-point-hospital-jumbo-edition.json) |
 | Two Point Hospital: Off the Grid | 131842 | [131842-two-point-hospital-off-the-grid.json](./131842-two-point-hospital-off-the-grid.json) |
 | Two Point Hospital: Pebberley Island | 116007 | [116007-two-point-hospital-pebberley-island.json](./116007-two-point-hospital-pebberley-island.json) |
