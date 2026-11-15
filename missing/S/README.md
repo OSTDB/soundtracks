@@ -12995,7 +12995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim | 35454 | [35454-siralim.json](./35454-siralim.json) |
-| Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Siralim Ultimate | 133050 | [133050-siralim-ultimate.json](./133050-siralim-ultimate.json) |
 | Siranui: Devilish obscene prison | 97763 | [97763-siranui-devilish-obscene-prison.json](./97763-siranui-devilish-obscene-prison.json) |
 | Sire | 292174 | [292174-sire.json](./292174-sire.json) |
