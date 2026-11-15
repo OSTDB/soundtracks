@@ -4879,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Chains | 12206 | [12206-inner-chains.json](./12206-inner-chains.json) |
 | Inner City Kids | 52245 | [52245-inner-city-kids.json](./52245-inner-city-kids.json) |
 | Inner Darkness | 275373 | [275373-inner-darkness.json](./275373-inner-darkness.json) |
+| Inner Eko | 422724 | [422724-inner-eko.json](./422724-inner-eko.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
 | Inner Growth | 403134 | [403134-inner-growth.json](./403134-inner-growth.json) |
 | Inner Kung Fu Game | 99539 | [99539-inner-kung-fu-game.json](./99539-inner-kung-fu-game.json) |
