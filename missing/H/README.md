@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem of Lust | 359765 | [359765-harem-of-lust.json](./359765-harem-of-lust.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | Harem Survivor | 294147 | [294147-harem-survivor.json](./294147-harem-survivor.json) |
+| Harem Tengoku da to Omottara Yandere Jigoku Datta | 61814 | [61814-harem-tengoku-da-to-omottara-yandere-jigoku-datta.json](./61814-harem-tengoku-da-to-omottara-yandere-jigoku-datta.json) |
 | Harem Wars | 76053 | [76053-harem-wars.json](./76053-harem-wars.json) |
 | Harem! Ranch Life | 265357 | [265357-harem-ranch-life.json](./265357-harem-ranch-life.json) |
 | HaremKingdom | 176095 | [176095-haremkingdom.json](./176095-haremkingdom.json) |
@@ -3803,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartfire | 332388 | [332388-heartfire.json](./332388-heartfire.json) |
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
+| Heartful Simulator Pachi-Slot: ToHeart2 | 62344 | [62344-heartful-simulator-pachi-slot-toheart2.json](./62344-heartful-simulator-pachi-slot-toheart2.json) |
 | Hearth | 109116 | [109116-hearth.json](./109116-hearth.json) |
 | Hearth & Holmes | 275855 | [275855-hearth-and-holmes.json](./275855-hearth-and-holmes.json) |
 | Hearth and Hamlet | 392964 | [392964-hearth-and-hamlet.json](./392964-hearth-and-hamlet.json) |
@@ -5250,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help the Cats | 290657 | [290657-help-the-cats.json](./290657-help-the-cats.json) |
 | Help the Cats to Go Home ! - Use the Cats Food to Help Them ! | 197680 | [197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json](./197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json) |
 | Help the Minotaur | 128056 | [128056-help-the-minotaur.json](./128056-help-the-minotaur.json) |
+| Help Volty | 63486 | [63486-help-volty.json](./63486-help-volty.json) |
 | Help Wanted | 122722 | [122722-help-wanted.json](./122722-help-wanted.json) |
 | Help Wanted: 50 Wacky Jobs! | 21190 | [21190-help-wanted-50-wacky-jobs.json](./21190-help-wanted-50-wacky-jobs.json) |
 | Help Will Come Tomorrow | 121989 | [121989-help-will-come-tomorrow.json](./121989-help-will-come-tomorrow.json) |
@@ -9141,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
 | Hirake! Ponkikki | 48472 | [48472-hirake-ponkikki.json](./48472-hirake-ponkikki.json) |
+| Hirameki Action: Chibikko Wagyan no Daiki na Bouken | 63487 | [63487-hirameki-action-chibikko-wagyan-no-daiki-na-bouken.json](./63487-hirameki-action-chibikko-wagyan-no-daiki-na-bouken.json) |
 | Hirameki Card Battle: Mekuruka | 67843 | [67843-hirameki-card-battle-mekuruka.json](./67843-hirameki-card-battle-mekuruka.json) |
 | Hirameki Puzzle Tetogram | 222178 | [222178-hirameki-puzzle-tetogram.json](./222178-hirameki-puzzle-tetogram.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
@@ -13760,6 +13764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyaku Monogatari: Honto ni Atta Kowai Hanashi | 112569 | [112569-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json](./112569-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
 | Hyaku no Sekai no Monogatari: The Tales on a Watery Wilderness | 48124 | [48124-hyaku-no-sekai-no-monogatari-the-tales-on-a-watery-wilderness.json](./48124-hyaku-no-sekai-no-monogatari-the-tales-on-a-watery-wilderness.json) |
+| Hyaku-nen Senki: Euro Historia | 62365 | [62365-hyaku-nen-senki-euro-historia.json](./62365-hyaku-nen-senki-euro-historia.json) |
 | Hyakubyaku | 412469 | [412469-hyakubyaku.json](./412469-hyakubyaku.json) |
 | Hyakuju Sentai Gaoranger | 43730 | [43730-hyakuju-sentai-gaoranger.json](./43730-hyakuju-sentai-gaoranger.json) |
 | Hyakumasu Dora-san Nobita no Time Battle | 56994 | [56994-hyakumasu-dora-san-nobita-no-time-battle.json](./56994-hyakumasu-dora-san-nobita-no-time-battle.json) |
