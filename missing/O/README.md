@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offworld Trading Company: Blue Chip Ventures | 124835 | [124835-offworld-trading-company-blue-chip-ventures.json](./124835-offworld-trading-company-blue-chip-ventures.json) |
 | Offworld Trading Company: Ceres Initiative | 154480 | [154480-offworld-trading-company-ceres-initiative.json](./154480-offworld-trading-company-ceres-initiative.json) |
 | Offworld Trading Company: Conspicuous Consumption | 124845 | [124845-offworld-trading-company-conspicuous-consumption.json](./124845-offworld-trading-company-conspicuous-consumption.json) |
+| Offworld Trading Company: Gold Edition | 53425 | [53425-offworld-trading-company-gold-edition.json](./53425-offworld-trading-company-gold-edition.json) |
 | Offworld Trading Company: Interdimensional | 167924 | [167924-offworld-trading-company-interdimensional.json](./167924-offworld-trading-company-interdimensional.json) |
 | Offworld Trading Company: Limited Supply | 154477 | [154477-offworld-trading-company-limited-supply.json](./154477-offworld-trading-company-limited-supply.json) |
 | Offworld Trading Company: Market Corrections | 167925 | [167925-offworld-trading-company-market-corrections.json](./167925-offworld-trading-company-market-corrections.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh! Robot: Legendary Mechanic | 356300 | [356300-oh-robot-legendary-mechanic.json](./356300-oh-robot-legendary-mechanic.json) |
 | Oh! RPG! | 33983 | [33983-oh-rpg.json](./33983-oh-rpg.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
+| Oh! You Monster! | 53426 | [53426-oh-you-monster.json](./53426-oh-you-monster.json) |
 | Oh!Ware | 388642 | [388642-oh-ware.json](./388642-oh-ware.json) |
 | Oh? Me | 348513 | [348513-oh-me.json](./348513-oh-me.json) |
 | Oh...Sir! Prototype | 90604 | [90604-oh-sir-prototype.json](./90604-oh-sir-prototype.json) |
@@ -1835,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omar Sharif Bridge | 88800 | [88800-omar-sharif-bridge.json](./88800-omar-sharif-bridge.json) |
 | Omar Sharif Bridge II | 208997 | [208997-omar-sharif-bridge-ii.json](./208997-omar-sharif-bridge-ii.json) |
 | Omar Sharif on Bridge | 73490 | [73490-omar-sharif-on-bridge.json](./73490-omar-sharif-on-bridge.json) |
+| Omar's Oyster Outing | 53427 | [53427-omars-oyster-outing.json](./53427-omars-oyster-outing.json) |
 | Omashu: Snail Racing | 357219 | [357219-omashu-snail-racing.json](./357219-omashu-snail-racing.json) |
 | Omawari-san: Koitsu Desu. - Kai | 376687 | [376687-omawari-san-koitsu-desu-kai.json](./376687-omawari-san-koitsu-desu-kai.json) |
 | Omaze | 151973 | [151973-omaze.json](./151973-omaze.json) |
@@ -1935,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
 | Omerta | 411191 | [411191-omerta.json](./411191-omerta.json) |
 | Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
+| Omerta - Damsel in Distress | 53428 | [53428-omerta-damsel-in-distress.json](./53428-omerta-damsel-in-distress.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
 | Omertà Code: Tycoon Kai | 139852 | [139852-omerta-code-tycoon-kai.json](./139852-omerta-code-tycoon-kai.json) |
 | Omerta: City of Gangsters | 6330 | [6330-omerta-city-of-gangsters.json](./6330-omerta-city-of-gangsters.json) |
@@ -2130,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: OmniNavigation | 155159 | [155159-omsi-2-omninavigation.json](./155159-omsi-2-omninavigation.json) |
 | OMSI 2: Project Numazu | 425194 | [425194-omsi-2-project-numazu.json](./425194-omsi-2-project-numazu.json) |
 | OMSI 2: Projekt Gladbeck | 155148 | [155148-omsi-2-projekt-gladbeck.json](./155148-omsi-2-projekt-gladbeck.json) |
+| OMSI 2: Projekt Gladbeck | 53430 | [53430-omsi-2-projekt-gladbeck.json](./53430-omsi-2-projekt-gladbeck.json) |
 | OMSI 2: Rheinhausen | 155143 | [155143-omsi-2-rheinhausen.json](./155143-omsi-2-rheinhausen.json) |
 | OMSI 2: Saint-Servan | 155137 | [155137-omsi-2-saint-servan.json](./155137-omsi-2-saint-servan.json) |
 | OMSI 2: Steam Edition | 22438 | [22438-omsi-2-steam-edition.json](./22438-omsi-2-steam-edition.json) |
@@ -2464,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Deck Dungeon: Phoenix's Den | 163254 | [163254-one-deck-dungeon-phoenixs-den.json](./163254-one-deck-dungeon-phoenixs-den.json) |
 | One Deck Dungeon: Witch | 163259 | [163259-one-deck-dungeon-witch.json](./163259-one-deck-dungeon-witch.json) |
 | One Deck Galaxy | 257458 | [257458-one-deck-galaxy.json](./257458-one-deck-galaxy.json) |
+| One Dev Army | 53431 | [53431-one-dev-army.json](./53431-one-dev-army.json) |
 | One Die All Dies: No Zuo No Die | 256190 | [256190-one-die-all-dies-no-zuo-no-die.json](./256190-one-die-all-dies-no-zuo-no-die.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
 | One Direction | 263602 | [263602-one-direction.json](./263602-one-direction.json) |
@@ -2769,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Odyssey: Jewelry Pack | 312109 | [312109-one-piece-odyssey-jewelry-pack.json](./312109-one-piece-odyssey-jewelry-pack.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece Odyssey: Traveling Outfit Set | 238380 | [238380-one-piece-odyssey-traveling-outfit-set.json](./238380-one-piece-odyssey-traveling-outfit-set.json) |
+| One Piece Pirate Warriors 3: Gold Edition | 53433 | [53433-one-piece-pirate-warriors-3-gold-edition.json](./53433-one-piece-pirate-warriors-3-gold-edition.json) |
 | One Piece Tetris | 212557 | [212557-one-piece-tetris.json](./212557-one-piece-tetris.json) |
 | One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
 | One Piece: Ambition | 319610 | [319610-one-piece-ambition.json](./319610-one-piece-ambition.json) |
@@ -2776,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Bounty Rush | 75300 | [75300-one-piece-bounty-rush.json](./75300-one-piece-bounty-rush.json) |
 | One Piece: Burning Blood | 18443 | [18443-one-piece-burning-blood.json](./18443-one-piece-burning-blood.json) |
 | One Piece: Burning Blood - Character Pack | 171053 | [171053-one-piece-burning-blood-character-pack.json](./171053-one-piece-burning-blood-character-pack.json) |
+| One Piece: Burning Blood - Gold Edition | 53432 | [53432-one-piece-burning-blood-gold-edition.json](./53432-one-piece-burning-blood-gold-edition.json) |
 | One Piece: Burning Blood - Marineford Edition | 51534 | [51534-one-piece-burning-blood-marineford-edition.json](./51534-one-piece-burning-blood-marineford-edition.json) |
 | One Piece: Burning Blood - Platinum Luffy | 171051 | [171051-one-piece-burning-blood-platinum-luffy.json](./171051-one-piece-burning-blood-platinum-luffy.json) |
 | One Piece: Burning Blood - Wanted | 171048 | [171048-one-piece-burning-blood-wanted.json](./171048-one-piece-burning-blood-wanted.json) |
@@ -4688,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Trail | 34971 | [34971-orion-trail.json](./34971-orion-trail.json) |
 | Orion: A Sci-Fi Visual Novel | 34962 | [34962-orion-a-sci-fi-visual-novel.json](./34962-orion-a-sci-fi-visual-novel.json) |
 | Orion: Dino Beatdown - Jurassic Edition | 93631 | [93631-orion-dino-beatdown-jurassic-edition.json](./93631-orion-dino-beatdown-jurassic-edition.json) |
+| Orion: Prelude - Ultimate Edition | 53434 | [53434-orion-prelude-ultimate-edition.json](./53434-orion-prelude-ultimate-edition.json) |
 | Orion: The Eternal Punishment | 149900 | [149900-orion-the-eternal-punishment.json](./149900-orion-the-eternal-punishment.json) |
 | Orion's Belt Expedition | 341516 | [341516-orions-belt-expedition.json](./341516-orions-belt-expedition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
@@ -5640,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Complete Collection | 164580 | [164580-outbreak-complete-collection.json](./164580-outbreak-complete-collection.json) |
 | Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
+| Outbreak: Deluxe Edition | 53435 | [53435-outbreak-deluxe-edition.json](./53435-outbreak-deluxe-edition.json) |
 | Outbreak: Detective Collection | 313439 | [313439-outbreak-detective-collection.json](./313439-outbreak-detective-collection.json) |
 | Outbreak: Devious Beginnings | 261359 | [261359-outbreak-devious-beginnings.json](./261359-outbreak-devious-beginnings.json) |
 | Outbreak: Endless Nightmares | 147208 | [147208-outbreak-endless-nightmares.json](./147208-outbreak-endless-nightmares.json) |
@@ -5950,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrunner | 28802 | [28802-outrunner.json](./28802-outrunner.json) |
 | Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
 | Outrunner 3 | 113191 | [113191-outrunner-3.json](./113191-outrunner-3.json) |
+| Outrunner: Complete Edition | 53436 | [53436-outrunner-complete-edition.json](./53436-outrunner-complete-edition.json) |
 | Outrunner: Neon Nights | 258371 | [258371-outrunner-neon-nights.json](./258371-outrunner-neon-nights.json) |
 | OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
 | Outsail The Sun | 409600 | [409600-outsail-the-sun.json](./409600-outsail-the-sun.json) |
@@ -6280,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
 | Overlord: Raising Hell | 45 | [45-overlord-raising-hell.json](./45-overlord-raising-hell.json) |
+| Overlord: Ultimate Evil Collection | 53439 | [53439-overlord-ultimate-evil-collection.json](./53439-overlord-ultimate-evil-collection.json) |
 | Overlord's Ambition | 193902 | [193902-overlords-ambition.json](./193902-overlords-ambition.json) |
 | Overlord's New Mansion | 120485 | [120485-overlords-new-mansion.json](./120485-overlords-new-mansion.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
@@ -6567,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oz Dàluàndòu: Mèngxiǎng de Chuánshuō | 394121 | [394121-oz-daluandou-mengxiang-de-chuanshuo.json](./394121-oz-daluandou-mengxiang-de-chuanshuo.json) |
 | Oz Dàluàndòu: NS | 394124 | [394124-oz-daluandou-ns.json](./394124-oz-daluandou-ns.json) |
 | Oz no Mahoutsukai: Another World - RungRung | 63656 | [63656-oz-no-mahoutsukai-another-world-rungrung.json](./63656-oz-no-mahoutsukai-another-world-rungrung.json) |
+| Oz Orwell and the Exorcist | 53440 | [53440-oz-orwell-and-the-exorcist.json](./53440-oz-orwell-and-the-exorcist.json) |
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
 | Oz: Broken Kingdom | 57861 | [57861-oz-broken-kingdom.json](./57861-oz-broken-kingdom.json) |
 | Oz: The Magical Adventure | 78998 | [78998-oz-the-magical-adventure.json](./78998-oz-the-magical-adventure.json) |
