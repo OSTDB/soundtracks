@@ -10970,7 +10970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounded Sim | 321216 | [321216-grounded-sim.json](./321216-grounded-sim.json) |
 | Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | GroundFall | 116928 | [116928-groundfall.json](./116928-groundfall.json) |
-| Groundhog Day: Like Father Like Son | 114782 | [114782-groundhog-day-like-father-like-son.json](./114782-groundhog-day-like-father-like-son.json) |
 | Groundhog Life | 183241 | [183241-groundhog-life.json](./183241-groundhog-life.json) |
 | Groundless | 105455 | [105455-groundless.json](./105455-groundless.json) |
 | Grounds of Glory | 114873 | [114873-grounds-of-glory.json](./114873-grounds-of-glory.json) |
