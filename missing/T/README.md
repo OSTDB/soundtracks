@@ -11148,6 +11148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Genesis Order | 263938 | [263938-the-genesis-order.json](./263938-the-genesis-order.json) |
 | The Genesis Project | 109057 | [109057-the-genesis-project.json](./109057-the-genesis-project.json) |
 | The Genie of the Wonderful Lamp | 319301 | [319301-the-genie-of-the-wonderful-lamp.json](./319301-the-genie-of-the-wonderful-lamp.json) |
+| The Genius Hamster | 427559 | [427559-the-genius-hamster.json](./427559-the-genius-hamster.json) |
 | The Genji and the Heike Clans | 39967 | [39967-the-genji-and-the-heike-clans.json](./39967-the-genji-and-the-heike-clans.json) |
 | The Genji and the Heike Clans | 42036 | [42036-the-genji-and-the-heike-clans.json](./42036-the-genji-and-the-heike-clans.json) |
 | The Gentle Art of Slaughter | 244778 | [244778-the-gentle-art-of-slaughter.json](./244778-the-gentle-art-of-slaughter.json) |
@@ -12047,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horrible Vikings | 66794 | [66794-the-horrible-vikings.json](./66794-the-horrible-vikings.json) |
 | The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
 | The Horror of H.H. Holmes | 116580 | [116580-the-horror-of-h-h-holmes.json](./116580-the-horror-of-h-h-holmes.json) |
+| The Horror of Indoor Fishing | 427563 | [427563-the-horror-of-indoor-fishing.json](./427563-the-horror-of-indoor-fishing.json) |
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
 | The Horror of Salazar House | 136521 | [136521-the-horror-of-salazar-house.json](./136521-the-horror-of-salazar-house.json) |
 | The Horror of Secret Experiments | 238798 | [238798-the-horror-of-secret-experiments.json](./238798-the-horror-of-secret-experiments.json) |
@@ -22050,6 +22052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
+| Thermal Runaway | 427589 | [427589-thermal-runaway.json](./427589-thermal-runaway.json) |
 | Thermo Nuclear War Games | 63749 | [63749-thermo-nuclear-war-games.json](./63749-thermo-nuclear-war-games.json) |
 | Thermo Puzzle | 194381 | [194381-thermo-puzzle.json](./194381-thermo-puzzle.json) |
 | Thermo Sudoku | 153687 | [153687-thermo-sudoku.json](./153687-thermo-sudoku.json) |
@@ -25550,6 +25553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim-Tim 2: The Almighty Gnome | 200354 | [200354-tim-tim-2-the-almighty-gnome.json](./200354-tim-tim-2-the-almighty-gnome.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timagi | 268941 | [268941-timagi.json](./268941-timagi.json) |
+| TimbaDraft | 427573 | [427573-timbadraft.json](./427573-timbadraft.json) |
 | Timber | 25881 | [25881-timber.json](./25881-timber.json) |
 | Timber | 288597 | [288597-timber.json](./288597-timber.json) |
 | Timber & Fortune | 425432 | [425432-timber-and-fortune.json](./425432-timber-and-fortune.json) |
@@ -26701,6 +26705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Arum | 262512 | [262512-titan-arum.json](./262512-titan-arum.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
+| Titan Bash | 427594 | [427594-titan-bash.json](./427594-titan-bash.json) |
 | Titan Brawl | 57544 | [57544-titan-brawl.json](./57544-titan-brawl.json) |
 | Titan Charge | 57785 | [57785-titan-charge.json](./57785-titan-charge.json) |
 | Titan Chaser | 132513 | [132513-titan-chaser.json](./132513-titan-chaser.json) |
@@ -30603,6 +30608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerMancer II | 382337 | [382337-towermancer-ii.json](./382337-towermancer-ii.json) |
 | Towermouth | 419865 | [419865-towermouth.json](./419865-towermouth.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
+| Towerpulse | 427562 | [427562-towerpulse.json](./427562-towerpulse.json) |
 | Towers | 105286 | [105286-towers.json](./105286-towers.json) |
 | Towers | 116967 | [116967-towers.json](./116967-towers.json) |
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
