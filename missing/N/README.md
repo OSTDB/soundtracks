@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.U.D.E.@ Natural Ultimate Digital Experiment | 5940 | [5940-n-u-d-e-natural-ultimate-digital-experiment.json](./5940-n-u-d-e-natural-ultimate-digital-experiment.json) |
 | N.U.T.Z. | 99490 | [99490-n-u-t-z.json](./99490-n-u-t-z.json) |
 | N.Ukeme | 418519 | [418519-n-ukeme.json](./418519-n-ukeme.json) |
+| N.Y. Captor | 40382 | [40382-n-y-captor.json](./40382-n-y-captor.json) |
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
 | N'Oubliez Jamais | 166578 | [166578-noubliez-jamais.json](./166578-noubliez-jamais.json) |
 | N+ | 8749 | [8749-n.json](./8749-n.json) |
