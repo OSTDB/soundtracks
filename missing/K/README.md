@@ -3973,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: New Lands - Skull Island | 140071 | [140071-kingdom-new-lands-skull-island.json](./140071-kingdom-new-lands-skull-island.json) |
 | Kingdom: The Blood | 174852 | [174852-kingdom-the-blood.json](./174852-kingdom-the-blood.json) |
 | Kingdom: The Blood Pledge | 226759 | [226759-kingdom-the-blood-pledge.json](./226759-kingdom-the-blood-pledge.json) |
+| Kingdom: The Far Reaches | 4250 | [4250-kingdom-the-far-reaches.json](./4250-kingdom-the-far-reaches.json) |
 | Kingdom: Two Crowns - Royal Edition | 154953 | [154953-kingdom-two-crowns-royal-edition.json](./154953-kingdom-two-crowns-royal-edition.json) |
 | Kingdom's Architect | 313648 | [313648-kingdoms-architect.json](./313648-kingdoms-architect.json) |
 | Kingdom's Deck | 280095 | [280095-kingdoms-deck.json](./280095-kingdoms-deck.json) |
