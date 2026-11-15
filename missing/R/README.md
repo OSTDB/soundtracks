@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Engineer | 161639 | [161639-railroad-engineer.json](./161639-railroad-engineer.json) |
 | Railroad Ink Challenge | 156127 | [156127-railroad-ink-challenge.json](./156127-railroad-ink-challenge.json) |
 | Railroad Ink Challenge: Forest | 196142 | [196142-railroad-ink-challenge-forest.json](./196142-railroad-ink-challenge-forest.json) |
+| Railroad Lines | 34866 | [34866-railroad-lines.json](./34866-railroad-lines.json) |
 | Railroad Manager | 368398 | [368398-railroad-manager.json](./368398-railroad-manager.json) |
 | Railroad Operator | 89332 | [89332-railroad-operator.json](./89332-railroad-operator.json) |
 | Railroad Pioneer | 71393 | [71393-railroad-pioneer.json](./71393-railroad-pioneer.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raysing! | 423969 | [423969-raysing.json](./423969-raysing.json) |
 | RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
 | RayStorm x RayCrisis HD Collection | 240039 | [240039-raystorm-x-raycrisis-hd-collection.json](./240039-raystorm-x-raycrisis-hd-collection.json) |
+| Raywin | 34891 | [34891-raywin.json](./34891-raywin.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
 | Rayxanber II | 37592 | [37592-rayxanber-ii.json](./37592-rayxanber-ii.json) |
 | Rayxanber III | 37591 | [37591-rayxanber-iii.json](./37591-rayxanber-iii.json) |
@@ -4372,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Frost | 125588 | [125588-red-frost.json](./125588-red-frost.json) |
 | Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
 | Red Fury | 208555 | [208555-red-fury.json](./208555-red-fury.json) |
+| RED Fuse: Rolling Explosive Device | 34931 | [34931-red-fuse-rolling-explosive-device.json](./34931-red-fuse-rolling-explosive-device.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
 | Red Galaxy | 418869 | [418869-red-galaxy.json](./418869-red-galaxy.json) |
 | Red Game Without a Great Name | 15038 | [15038-red-game-without-a-great-name.json](./15038-red-game-without-a-great-name.json) |
@@ -6650,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
 | Retaliation | 34034 | [34034-retaliation.json](./34034-retaliation.json) |
+| Retaliation: Enemy Mine | 34872 | [34872-retaliation-enemy-mine.json](./34872-retaliation-enemy-mine.json) |
 | Retchid | 204889 | [204889-retchid.json](./204889-retchid.json) |
 | reTension | 92085 | [92085-retension.json](./92085-retension.json) |
 | Retention | 36028 | [36028-retention.json](./36028-retention.json) |
