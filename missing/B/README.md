@@ -4105,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Antares | 152943 | [152943-battle-for-antares.json](./152943-battle-for-antares.json) |
 | Battle for Asciion | 388651 | [388651-battle-for-asciion.json](./388651-battle-for-asciion.json) |
 | Battle for Atlantis | 341135 | [341135-battle-for-atlantis.json](./341135-battle-for-atlantis.json) |
+| Battle for Blood | 34878 | [34878-battle-for-blood.json](./34878-battle-for-blood.json) |
 | Battle for Borders | 236802 | [236802-battle-for-borders.json](./236802-battle-for-borders.json) |
 | Battle for Cloud 9 | 337285 | [337285-battle-for-cloud-9.json](./337285-battle-for-cloud-9.json) |
 | Battle For Cosmos | 251890 | [251890-battle-for-cosmos.json](./251890-battle-for-cosmos.json) |
