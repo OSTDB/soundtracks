@@ -2490,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Tripp | 36758 | [36758-kid-tripp.json](./36758-kid-tripp.json) |
 | Kid Tripp + Miles & Kilo | 137821 | [137821-kid-tripp-miles-and-kilo.json](./137821-kid-tripp-miles-and-kilo.json) |
 | Kid Venture | 85917 | [85917-kid-venture.json](./85917-kid-venture.json) |
+| Kid Vid Grid | 77451 | [77451-kid-vid-grid.json](./77451-kid-vid-grid.json) |
 | Kid-Venture 2: Twas the Night Before Christmas | 55830 | [55830-kid-venture-2-twas-the-night-before-christmas.json](./55830-kid-venture-2-twas-the-night-before-christmas.json) |
 | Kid-Venture 3: Old McDonald's Farm | 55827 | [55827-kid-venture-3-old-mcdonalds-farm.json](./55827-kid-venture-3-old-mcdonalds-farm.json) |
 | Kid's - Paints and Colors | 88681 | [88681-kids-paints-and-colors.json](./88681-kids-paints-and-colors.json) |
@@ -4769,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klepto | 19061 | [19061-klepto.json](./19061-klepto.json) |
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
+| KleptoCats | 77480 | [77480-kleptocats.json](./77480-kleptocats.json) |
 | KleptoCats 2 | 92090 | [92090-kleptocats-2.json](./92090-kleptocats-2.json) |
 | KleptoCats 2: Idle Furry Pets | 243099 | [243099-kleptocats-2-idle-furry-pets.json](./243099-kleptocats-2-idle-furry-pets.json) |
 | KleptoCats Cartoon Network | 243707 | [243707-kleptocats-cartoon-network.json](./243707-kleptocats-cartoon-network.json) |
@@ -5653,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
 | Koko Adventure | 54899 | [54899-koko-adventure.json](./54899-koko-adventure.json) |
 | Koko kara Natsu no Innocence! | 327920 | [327920-koko-kara-natsu-no-innocence.json](./327920-koko-kara-natsu-no-innocence.json) |
+| Koko wa Rakuensou | 77446 | [77446-koko-wa-rakuensou.json](./77446-koko-wa-rakuensou.json) |
 | Koko: The Last Leaf | 199288 | [199288-koko-the-last-leaf.json](./199288-koko-the-last-leaf.json) |
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokoa | 305480 | [305480-kokoa.json](./305480-kokoa.json) |
@@ -5844,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong Hero | 231826 | [231826-kong-hero.json](./231826-kong-hero.json) |
 | Kong Horror | 395848 | [395848-kong-horror.json](./395848-kong-horror.json) |
 | Kong II | 228273 | [228273-kong-ii.json](./228273-kong-ii.json) |
+| Kong Strikes Back! | 77453 | [77453-kong-strikes-back.json](./77453-kong-strikes-back.json) |
 | Kong Studios | 368009 | [368009-kong-studios.json](./368009-kong-studios.json) |
 | Kong: King of Atlantis | 49334 | [49334-kong-king-of-atlantis.json](./49334-kong-king-of-atlantis.json) |
 | Kong: Survivor Instinct | 314136 | [314136-kong-survivor-instinct.json](./314136-kong-survivor-instinct.json) |
