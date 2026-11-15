@@ -20037,6 +20037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Farm Online | 59731 | [59731-avatar-farm-online.json](./59731-avatar-farm-online.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Fear | 59732 | [59732-avatar-fear.json](./59732-avatar-fear.json) |
+| Avatar Fighter | 76004 | [76004-avatar-fighter.json](./76004-avatar-fighter.json) |
 | Avatar Generations | 235108 | [235108-avatar-generations.json](./235108-avatar-generations.json) |
 | Avatar Golf | 67044 | [67044-avatar-golf.json](./67044-avatar-golf.json) |
 | Avatar Hamster Attack | 92430 | [92430-avatar-hamster-attack.json](./92430-avatar-hamster-attack.json) |
@@ -20051,6 +20052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Ninja! 2 | 92571 | [92571-avatar-ninja-2.json](./92571-avatar-ninja-2.json) |
 | Avatar of the Wolf | 36829 | [36829-avatar-of-the-wolf.json](./36829-avatar-of-the-wolf.json) |
 | Avatar of War: The Dark Lord | 200296 | [200296-avatar-of-war-the-dark-lord.json](./200296-avatar-of-war-the-dark-lord.json) |
+| Avatar Onslaught | 76002 | [76002-avatar-onslaught.json](./76002-avatar-onslaught.json) |
 | Avatar Onslaught 2 | 77594 | [77594-avatar-onslaught-2.json](./77594-avatar-onslaught-2.json) |
 | Avatar Onslaught: Blizzard | 77510 | [77510-avatar-onslaught-blizzard.json](./77510-avatar-onslaught-blizzard.json) |
 | Avatar Paintball | 77598 | [77598-avatar-paintball.json](./77598-avatar-paintball.json) |
@@ -20064,6 +20066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
 | Avatar Star | 56797 | [56797-avatar-star.json](./56797-avatar-star.json) |
 | Avatar Superstar | 20120 | [20120-avatar-superstar.json](./20120-avatar-superstar.json) |
+| Avatar Survival Games | 76014 | [76014-avatar-survival-games.json](./76014-avatar-survival-games.json) |
 | Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
 | Avatar World | 288155 | [288155-avatar-world.json](./288155-avatar-world.json) |
 | Avatar: Consolidate | 103831 | [103831-avatar-consolidate.json](./103831-avatar-consolidate.json) |
