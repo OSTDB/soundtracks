@@ -5660,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Fit | 2186 | [2186-wii-fit.json](./2186-wii-fit.json) |
 | Wii Fit U | 5325 | [5325-wii-fit-u.json](./5325-wii-fit-u.json) |
 | Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
+| Wii Music | 3244 | [3244-wii-music.json](./3244-wii-music.json) |
 | Wii Party | 2189 | [2189-wii-party.json](./2189-wii-party.json) |
 | Wii Party U | 3106 | [3106-wii-party-u.json](./3106-wii-party-u.json) |
 | Wii Party: World Edition | 136208 | [136208-wii-party-world-edition.json](./136208-wii-party-world-edition.json) |
@@ -5791,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
 | Wild Haven | 320603 | [320603-wild-haven.json](./320603-wild-haven.json) |
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
+| Wild Hearts | 218793 | [218793-wild-hearts.json](./218793-wild-hearts.json) |
 | Wild Hearts S | 338090 | [338090-wild-hearts-s.json](./338090-wild-hearts-s.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Heroes: Fight Together | 424626 | [424626-wild-heroes-fight-together.json](./424626-wild-heroes-fight-together.json) |
@@ -6031,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | Wildfox Surfing Paradise | 196983 | [196983-wildfox-surfing-paradise.json](./196983-wildfox-surfing-paradise.json) |
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
+| Wildfrost | 200899 | [200899-wildfrost.json](./200899-wildfrost.json) |
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
 | Wildhollow | 25496 | [25496-wildhollow.json](./25496-wildhollow.json) |
 | WildIsland | 129038 | [129038-wildisland.json](./129038-wildisland.json) |
@@ -7576,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardology | 67747 | [67747-wizardology.json](./67747-wizardology.json) |
 | WizardPunk | 128124 | [128124-wizardpunk.json](./128124-wizardpunk.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
+| Wizardry 8 | 939 | [939-wizardry-8.json](./939-wizardry-8.json) |
 | Wizardry Asterisk: Hiiro no Fuuin | 70521 | [70521-wizardry-asterisk-hiiro-no-fuuin.json](./70521-wizardry-asterisk-hiiro-no-fuuin.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
 | Wizardry Dimguil | 139301 | [139301-wizardry-dimguil.json](./139301-wizardry-dimguil.json) |
@@ -9485,6 +9489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer: Winning Eleven 10 - Liveware Evolution | 220953 | [220953-world-soccer-winning-eleven-10-liveware-evolution.json](./220953-world-soccer-winning-eleven-10-liveware-evolution.json) |
 | World Soccer: Winning Eleven 2010 - Arcade Championship | 64960 | [64960-world-soccer-winning-eleven-2010-arcade-championship.json](./64960-world-soccer-winning-eleven-2010-arcade-championship.json) |
 | World Soccer: Winning Eleven 2014 | 220986 | [220986-world-soccer-winning-eleven-2014.json](./220986-world-soccer-winning-eleven-2014.json) |
+| World Soccer: Winning Eleven 6 International | 4643 | [4643-world-soccer-winning-eleven-6-international.json](./4643-world-soccer-winning-eleven-6-international.json) |
 | World Soccer: Winning Eleven 6 International | 72574 | [72574-world-soccer-winning-eleven-6-international.json](./72574-world-soccer-winning-eleven-6-international.json) |
 | World Soccer: Winning Eleven 7 | 77321 | [77321-world-soccer-winning-eleven-7.json](./77321-world-soccer-winning-eleven-7.json) |
 | World Soccer: Winning Eleven 7 International | 936 | [936-world-soccer-winning-eleven-7-international.json](./936-world-soccer-winning-eleven-7-international.json) |
