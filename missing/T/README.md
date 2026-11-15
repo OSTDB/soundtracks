@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Berseria Remastered | 378125 | [378125-tales-of-berseria-remastered.json](./378125-tales-of-berseria-remastered.json) |
 | Tales of Berseria Remastered: Deluxe Edition | 378859 | [378859-tales-of-berseria-remastered-deluxe-edition.json](./378859-tales-of-berseria-remastered-deluxe-edition.json) |
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
+| Tales of Berseria: Collector's Edition | 42923 | [42923-tales-of-berseria-collectors-edition.json](./42923-tales-of-berseria-collectors-edition.json) |
 | Tales of Bibliotheca | 294590 | [294590-tales-of-bibliotheca.json](./294590-tales-of-bibliotheca.json) |
 | Tales of Blood and Sand | 59572 | [59572-tales-of-blood-and-sand.json](./59572-tales-of-blood-and-sand.json) |
 | Tales of Bloomrise | 364176 | [364176-tales-of-bloomrise.json](./364176-tales-of-bloomrise.json) |
@@ -1552,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zestiria | 6452 | [6452-tales-of-zestiria.json](./6452-tales-of-zestiria.json) |
 | Tales of Zestiria: Additional Chapter - Alisha's Story | 167990 | [167990-tales-of-zestiria-additional-chapter-alishas-story.json](./167990-tales-of-zestiria-additional-chapter-alishas-story.json) |
+| Tales of Zestiria: Collector's Edition | 42944 | [42944-tales-of-zestiria-collectors-edition.json](./42944-tales-of-zestiria-collectors-edition.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
 | Tales of: Sena | 238649 | [238649-tales-of-sena.json](./238649-tales-of-sena.json) |
 | Tales of: Vesperia + Berseria + Zestiria Bundle | 136127 | [136127-tales-of-vesperia-berseria-zestiria-bundle.json](./136127-tales-of-vesperia-berseria-zestiria-bundle.json) |
@@ -16179,6 +16181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Order of Souls | 60911 | [60911-the-order-of-souls.json](./60911-the-order-of-souls.json) |
 | The Order of the Thorne: The King's Challenge | 17005 | [17005-the-order-of-the-thorne-the-kings-challenge.json](./17005-the-order-of-the-thorne-the-kings-challenge.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
+| The Order: 1886 - Collector's Edition | 42908 | [42908-the-order-1886-collectors-edition.json](./42908-the-order-1886-collectors-edition.json) |
+| The Order: 1886 - Premium Edition | 42909 | [42909-the-order-1886-premium-edition.json](./42909-the-order-1886-premium-edition.json) |
 | The ordinary case of Margaret Luoni | 152819 | [152819-the-ordinary-case-of-margaret-luoni.json](./152819-the-ordinary-case-of-margaret-luoni.json) |
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
 | The Oregon Trail | 191526 | [191526-the-oregon-trail.json](./191526-the-oregon-trail.json) |
@@ -21169,6 +21173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch and the Hundred Knight 2: Limited Edition | 167070 | [167070-the-witch-and-the-hundred-knight-2-limited-edition.json](./167070-the-witch-and-the-hundred-knight-2-limited-edition.json) |
 | The Witch and the Hundred Knight Mobile | 394549 | [394549-the-witch-and-the-hundred-knight-mobile.json](./394549-the-witch-and-the-hundred-knight-mobile.json) |
 | The Witch and the Hundred Knight: Revival Edition | 19796 | [19796-the-witch-and-the-hundred-knight-revival-edition.json](./19796-the-witch-and-the-hundred-knight-revival-edition.json) |
+| The Witch and the Hundred Knight: Revival Edition - Limited Edition | 42922 | [42922-the-witch-and-the-hundred-knight-revival-edition-limited-edition.json](./42922-the-witch-and-the-hundred-knight-revival-edition-limited-edition.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
 | The Witch Blade | 204140 | [204140-the-witch-blade.json](./204140-the-witch-blade.json) |
 | The Witch Doctor | 172316 | [172316-the-witch-doctor.json](./172316-the-witch-doctor.json) |
@@ -27714,6 +27719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Crystal Guard | 183112 | [183112-tom-clancys-rainbow-six-siege-crystal-guard.json](./183112-tom-clancys-rainbow-six-siege-crystal-guard.json) |
 | Tom Clancy's Rainbow Six Siege: Deluxe Edition | 118882 | [118882-tom-clancys-rainbow-six-siege-deluxe-edition.json](./118882-tom-clancys-rainbow-six-siege-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Demon Veil | 198266 | [198266-tom-clancys-rainbow-six-siege-demon-veil.json](./198266-tom-clancys-rainbow-six-siege-demon-veil.json) |
+| Tom Clancy's Rainbow Six Siege: Gold Edition | 42921 | [42921-tom-clancys-rainbow-six-siege-gold-edition.json](./42921-tom-clancys-rainbow-six-siege-gold-edition.json) |
 | Tom Clancy's Rainbow Six Siege: High Calibre | 183114 | [183114-tom-clancys-rainbow-six-siege-high-calibre.json](./183114-tom-clancys-rainbow-six-siege-high-calibre.json) |
 | Tom Clancy's Rainbow Six Siege: North Star | 158944 | [158944-tom-clancys-rainbow-six-siege-north-star.json](./158944-tom-clancys-rainbow-six-siege-north-star.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Black Ice | 24499 | [24499-tom-clancys-rainbow-six-siege-operation-black-ice.json](./24499-tom-clancys-rainbow-six-siege-operation-black-ice.json) |
@@ -27825,6 +27831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
 | Tom Clancy's The Division 3 | 267620 | [267620-tom-clancys-the-division-3.json](./267620-tom-clancys-the-division-3.json) |
 | Tom Clancy's The Division Franchise Bundle | 164857 | [164857-tom-clancys-the-division-franchise-bundle.json](./164857-tom-clancys-the-division-franchise-bundle.json) |
+| Tom Clancy's The Division: Collector's Edition | 42936 | [42936-tom-clancys-the-division-collectors-edition.json](./42936-tom-clancys-the-division-collectors-edition.json) |
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
 | Tom Clancy's The Division: Marine Forces Outfits Pack | 255214 | [255214-tom-clancys-the-division-marine-forces-outfits-pack.json](./255214-tom-clancys-the-division-marine-forces-outfits-pack.json) |
@@ -30164,6 +30171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
 | Tower of Guns | 16880 | [16880-tower-of-guns.json](./16880-tower-of-guns.json) |
 | Tower of Guns: Special Edition | 106230 | [106230-tower-of-guns-special-edition.json](./106230-tower-of-guns-special-edition.json) |
+| Tower of Guns: Steelbook Limited Edition | 42949 | [42949-tower-of-guns-steelbook-limited-edition.json](./42949-tower-of-guns-steelbook-limited-edition.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Hanoi | 306294 | [306294-tower-of-hanoi.json](./306294-tower-of-hanoi.json) |
 | Tower of Hanoi Puzzle | 219893 | [219893-tower-of-hanoi-puzzle.json](./219893-tower-of-hanoi-puzzle.json) |
