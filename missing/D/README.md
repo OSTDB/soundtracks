@@ -6088,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep: Final Mission | 111324 | [111324-deep-final-mission.json](./111324-deep-final-mission.json) |
 | Deep/Wing/Break | 199194 | [199194-deep-wing-break.json](./199194-deep-wing-break.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
+| Deepak Fights Robots | 65661 | [65661-deepak-fights-robots.json](./65661-deepak-fights-robots.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | DeepCover | 317998 | [317998-deepcover.json](./317998-deepcover.json) |
 | Deepcut | 275386 | [275386-deepcut.json](./275386-deepcut.json) |
@@ -9464,6 +9465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
 | Diamond Mind Baseball 9 | 23802 | [23802-diamond-mind-baseball-9.json](./23802-diamond-mind-baseball-9.json) |
 | Diamond Mine | 72531 | [72531-diamond-mine.json](./72531-diamond-mine.json) |
+| Diamond Mine II | 65149 | [65149-diamond-mine-ii.json](./65149-diamond-mine-ii.json) |
 | Diamond Mirage | 151587 | [151587-diamond-mirage.json](./151587-diamond-mirage.json) |
 | Diamond no Kuni no Alice: Wonderful Mirror World | 213845 | [213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json](./213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json) |
 | Diamond no Kuni no Alice: Wonderful Wonder World | 64165 | [64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json](./64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json) |
@@ -17605,6 +17607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadhunter | 221117 | [221117-dreadhunter.json](./221117-dreadhunter.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadlight | 427816 | [427816-dreadlight.json](./427816-dreadlight.json) |
+| Dreadline | 65144 | [65144-dreadline.json](./65144-dreadline.json) |
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | Dreadmiles | 425500 | [425500-dreadmiles.json](./425500-dreadmiles.json) |
 | Dreadmire | 114675 | [114675-dreadmire.json](./114675-dreadmire.json) |
