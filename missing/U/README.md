@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima: Runes of Virtue II | 213767 | [213767-ultima-runes-of-virtue-ii.json](./213767-ultima-runes-of-virtue-ii.json) |
 | Ultima: Runes of Virtue II | 38414 | [38414-ultima-runes-of-virtue-ii.json](./38414-ultima-runes-of-virtue-ii.json) |
 | Ultima: The Black Gate | 42437 | [42437-ultima-the-black-gate.json](./42437-ultima-the-black-gate.json) |
+| Ultima: The False Prophet | 428724 | [428724-ultima-the-false-prophet.json](./428724-ultima-the-false-prophet.json) |
 | Ultima: The Savage Empire | 186734 | [186734-ultima-the-savage-empire.json](./186734-ultima-the-savage-empire.json) |
 | Ultima: Warriors of Destiny | 48096 | [48096-ultima-warriors-of-destiny.json](./48096-ultima-warriors-of-destiny.json) |
 | Ultima: Worlds of Adventure 2 - Martian Dreams | 14443 | [14443-ultima-worlds-of-adventure-2-martian-dreams.json](./14443-ultima-worlds-of-adventure-2-martian-dreams.json) |
