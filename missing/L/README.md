@@ -8088,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Legged Larry | 247445 | [247445-long-legged-larry.json](./247445-long-legged-larry.json) |
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
 | Long Live My Lady! | 354002 | [354002-long-live-my-lady.json](./354002-long-live-my-lady.json) |
+| Long Live Santa! | 76787 | [76787-long-live-santa.json](./76787-long-live-santa.json) |
 | Long Live the Axe | 122858 | [122858-long-live-the-axe.json](./122858-long-live-the-axe.json) |
 | Long Live The Emperor | 419953 | [419953-long-live-the-emperor.json](./419953-long-live-the-emperor.json) |
 | Long Live the King! | 213246 | [213246-long-live-the-king.json](./213246-long-live-the-king.json) |
@@ -8545,6 +8546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
 | Lord of Mask | 256568 | [256568-lord-of-mask.json](./256568-lord-of-mask.json) |
 | Lord of Metal | 348121 | [348121-lord-of-metal.json](./348121-lord-of-metal.json) |
+| Lord of Monsters | 77444 | [77444-lord-of-monsters.json](./77444-lord-of-monsters.json) |
 | Lord of Mysteries | 373593 | [373593-lord-of-mysteries.json](./373593-lord-of-mysteries.json) |
 | Lord of Nazarick | 317316 | [317316-lord-of-nazarick.json](./317316-lord-of-nazarick.json) |
 | Lord of Nightmares | 210204 | [210204-lord-of-nightmares.json](./210204-lord-of-nightmares.json) |
@@ -9040,6 +9042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Loss | 355104 | [355104-lost-in-loss.json](./355104-lost-in-loss.json) |
 | Lost in LS | 328221 | [328221-lost-in-ls.json](./328221-lost-in-ls.json) |
 | Lost in MaLul | 219146 | [219146-lost-in-malul.json](./219146-lost-in-malul.json) |
+| Lost In Maze | 76791 | [76791-lost-in-maze.json](./76791-lost-in-maze.json) |
 | Lost In Memories | 303634 | [303634-lost-in-memories.json](./303634-lost-in-memories.json) |
 | Lost in Memory | 228087 | [228087-lost-in-memory.json](./228087-lost-in-memory.json) |
 | Lost in Nature | 29343 | [29343-lost-in-nature.json](./29343-lost-in-nature.json) |
