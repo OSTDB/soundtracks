@@ -5561,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveDare | 110907 | [110907-cavedare.json](./110907-cavedare.json) |
 | Cavedude | 397940 | [397940-cavedude.json](./397940-cavedude.json) |
+| CaveDuel | 74569 | [74569-caveduel.json](./74569-caveduel.json) |
 | Cavefall | 128851 | [128851-cavefall.json](./128851-cavefall.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
@@ -23159,6 +23160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberspace: Infinite | 150457 | [150457-cyberspace-infinite.json](./150457-cyberspace-infinite.json) |
 | CyberSpeed | 20268 | [20268-cyberspeed.json](./20268-cyberspeed.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
+| CyberSphere Online | 75290 | [75290-cybersphere-online.json](./75290-cybersphere-online.json) |
 | CyberSprawl: Survivors | 422164 | [422164-cybersprawl-survivors.json](./422164-cybersprawl-survivors.json) |
 | Cyberstellar | 195407 | [195407-cyberstellar.json](./195407-cyberstellar.json) |
 | Cyberstorm | 204959 | [204959-cyberstorm.json](./204959-cyberstorm.json) |
@@ -23302,6 +23304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclothymic | 202244 | [202244-cyclothymic.json](./202244-cyclothymic.json) |
 | Cyclotronica | 157233 | [157233-cyclotronica.json](./157233-cyclotronica.json) |
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
+| Cycom: Cybernet Combat | 74574 | [74574-cycom-cybernet-combat.json](./74574-cycom-cybernet-combat.json) |
 | Cydoku | 260276 | [260276-cydoku.json](./260276-cydoku.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
 | Cydonia: Mars - The First Manned Mission | 73421 | [73421-cydonia-mars-the-first-manned-mission.json](./73421-cydonia-mars-the-first-manned-mission.json) |
