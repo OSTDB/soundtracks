@@ -12211,6 +12211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Nintendo Picross Plus | 165121 | [165121-club-nintendo-picross-plus.json](./165121-club-nintendo-picross-plus.json) |
 | Club of fighters | 86537 | [86537-club-of-fighters.json](./86537-club-of-fighters.json) |
 | Club Penguin | 239001 | [239001-club-penguin.json](./239001-club-penguin.json) |
+| Club Penguin | 92589 | [92589-club-penguin.json](./92589-club-penguin.json) |
 | Club Penguin Avalanche | 301351 | [301351-club-penguin-avalanche.json](./301351-club-penguin-avalanche.json) |
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
 | Club Penguin Demake Project | 181860 | [181860-club-penguin-demake-project.json](./181860-club-penguin-demake-project.json) |
@@ -18430,6 +18431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Mole | 223551 | [223551-crash-mole.json](./223551-crash-mole.json) |
 | Crash N Dash | 246986 | [246986-crash-n-dash.json](./246986-crash-n-dash.json) |
 | Crash N. Tense Adventure | 138154 | [138154-crash-n-tense-adventure.json](./138154-crash-n-tense-adventure.json) |
+| Crash Nitro Kart | 1193 | [1193-crash-nitro-kart.json](./1193-crash-nitro-kart.json) |
 | Crash Nitro Kart | 210237 | [210237-crash-nitro-kart.json](./210237-crash-nitro-kart.json) |
 | Crash Nitro Kart | 210238 | [210238-crash-nitro-kart.json](./210238-crash-nitro-kart.json) |
 | Crash Nitro Kart | 222884 | [222884-crash-nitro-kart.json](./222884-crash-nitro-kart.json) |
