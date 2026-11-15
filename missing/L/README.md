@@ -5729,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillysia | 235695 | [235695-lillysia.json](./235695-lillysia.json) |
 | Lilo & Stitch Pinball | 107595 | [107595-lilo-and-stitch-pinball.json](./107595-lilo-and-stitch-pinball.json) |
 | lilPizzaBois | 104944 | [104944-lilpizzabois.json](./104944-lilpizzabois.json) |
+| Lilt | 33618 | [33618-lilt.json](./33618-lilt.json) |
 | Lilt Line | 85248 | [85248-lilt-line.json](./85248-lilt-line.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
