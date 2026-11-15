@@ -4574,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis of Kings | 421202 | [421202-aegis-of-kings.json](./421202-aegis-of-kings.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegis Protocol | 373278 | [373278-aegis-protocol.json](./373278-aegis-protocol.json) |
+| Aegis Vanguard | 423342 | [423342-aegis-vanguard.json](./423342-aegis-vanguard.json) |
 | Aegis Wing | 2601 | [2601-aegis-wing.json](./2601-aegis-wing.json) |
 | Aegis: Guardian of the Fleet | 76146 | [76146-aegis-guardian-of-the-fleet.json](./76146-aegis-guardian-of-the-fleet.json) |
 | Aegis: Innocence | 27067 | [27067-aegis-innocence.json](./27067-aegis-innocence.json) |
@@ -13671,6 +13672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apprentice Deluxe | 278841 | [278841-apprentice-deluxe.json](./278841-apprentice-deluxe.json) |
 | Apprentice II: The Knight's Move | 71371 | [71371-apprentice-ii-the-knights-move.json](./71371-apprentice-ii-the-knights-move.json) |
 | Apprentice Knight-Iona | 132667 | [132667-apprentice-knight-iona.json](./132667-apprentice-knight-iona.json) |
+| Apprentice Mage Gale | 423340 | [423340-apprentice-mage-gale.json](./423340-apprentice-mage-gale.json) |
 | Apprentice of Darkness | 425806 | [425806-apprentice-of-darkness.json](./425806-apprentice-of-darkness.json) |
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
