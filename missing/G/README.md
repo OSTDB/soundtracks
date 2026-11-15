@@ -8174,7 +8174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gormiti: The Lords of Nature! | 51032 | [51032-gormiti-the-lords-of-nature.json](./51032-gormiti-the-lords-of-nature.json) |
 | Gormiti: The Masters of the Gorm Island | 137260 | [137260-gormiti-the-masters-of-the-gorm-island.json](./137260-gormiti-the-masters-of-the-gorm-island.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
-| Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
 | Goro | 59129 | [59129-goro.json](./59129-goro.json) |
 | Goro 2 | 74655 | [74655-goro-2.json](./74655-goro-2.json) |
 | GoRogue | 199795 | [199795-gorogue.json](./199795-gorogue.json) |
@@ -8560,6 +8559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 7: Spec IV | 416116 | [416116-gran-turismo-7-spec-iv.json](./416116-gran-turismo-7-spec-iv.json) |
 | Gran Turismo Concept: 2001 Tokyo | 80163 | [80163-gran-turismo-concept-2001-tokyo.json](./80163-gran-turismo-concept-2001-tokyo.json) |
 | Gran Turismo Concept: 2002 Tokyo-Geneva | 22061 | [22061-gran-turismo-concept-2002-tokyo-geneva.json](./22061-gran-turismo-concept-2002-tokyo-geneva.json) |
+| Gran Turismo Concept: 2002 Tokyo-Seoul | 73022 | [73022-gran-turismo-concept-2002-tokyo-seoul.json](./73022-gran-turismo-concept-2002-tokyo-seoul.json) |
 | Gran Turismo HD | 286868 | [286868-gran-turismo-hd.json](./286868-gran-turismo-hd.json) |
 | Gran Turismo HD Concept | 1598 | [1598-gran-turismo-hd-concept.json](./1598-gran-turismo-hd-concept.json) |
 | Gran Turismo Sport | 14363 | [14363-gran-turismo-sport.json](./14363-gran-turismo-sport.json) |
@@ -10290,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
 | Griefer | 95219 | [95219-griefer.json](./95219-griefer.json) |
 | Griefhelm | 125762 | [125762-griefhelm.json](./125762-griefhelm.json) |
+| Griel's Quest for the Sangraal | 73909 | [73909-griels-quest-for-the-sangraal.json](./73909-griels-quest-for-the-sangraal.json) |
 | Grievance | 135614 | [135614-grievance.json](./135614-grievance.json) |
 | Grieve | 188736 | [188736-grieve.json](./188736-grieve.json) |
 | Grieving: Berduka | 372674 | [372674-grieving-berduka.json](./372674-grieving-berduka.json) |
