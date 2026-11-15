@@ -6422,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resilience of Hearts: Formerly Broken Chains | 178732 | [178732-resilience-of-hearts-formerly-broken-chains.json](./178732-resilience-of-hearts-formerly-broken-chains.json) |
 | Resilience: Wave Survival | 33851 | [33851-resilience-wave-survival.json](./33851-resilience-wave-survival.json) |
 | Resilient | 400390 | [400390-resilient.json](./400390-resilient.json) |
+| Resin | 26004 | [26004-resin.json](./26004-resin.json) |
 | Resist | 185812 | [185812-resist.json](./185812-resist.json) |
 | Resist Mutants | 360708 | [360708-resist-mutants.json](./360708-resist-mutants.json) |
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
