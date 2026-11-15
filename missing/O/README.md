@@ -4772,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ornament Express | 234214 | [234214-ornament-express.json](./234214-ornament-express.json) |
 | Ornament Tower | 404393 | [404393-ornament-tower.json](./404393-ornament-tower.json) |
 | Ornamental | 230739 | [230739-ornamental.json](./230739-ornamental.json) |
+| Ornate Machina: The Thousand Trials | 421022 | [421022-ornate-machina-the-thousand-trials.json](./421022-ornate-machina-the-thousand-trials.json) |
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
 | Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
 | Oroboros | 223259 | [223259-oroboros.json](./223259-oroboros.json) |
