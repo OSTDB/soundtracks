@@ -3408,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva la Toast | 240869 | [240869-viva-la-toast.json](./240869-viva-la-toast.json) |
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
 | Viva Piñata | 7236 | [7236-viva-pinata.json](./7236-viva-pinata.json) |
+| Viva Piñata: Limited Edition | 47478 | [47478-viva-pinata-limited-edition.json](./47478-viva-pinata-limited-edition.json) |
 | Viva Piñata: Party Animals | 7237 | [7237-viva-pinata-party-animals.json](./7237-viva-pinata-party-animals.json) |
 | Viva Piñata: Pocket Paradise | 21357 | [21357-viva-pinata-pocket-paradise.json](./21357-viva-pinata-pocket-paradise.json) |
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
