@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Night | 348863 | [348863-embers-of-the-night.json](./348863-embers-of-the-night.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
 | Embers of the Zombie Battlemage: Halloween - Real Werewolves of Massachusetts | 225927 | [225927-embers-of-the-zombie-battlemage-halloween-real-werewolves-of-massachusetts.json](./225927-embers-of-the-zombie-battlemage-halloween-real-werewolves-of-massachusetts.json) |
+| Embers of War | 423939 | [423939-embers-of-war.json](./423939-embers-of-war.json) |
 | Embers of War | 56608 | [56608-embers-of-war.json](./56608-embers-of-war.json) |
 | Embers: Last Duel | 219840 | [219840-embers-last-duel.json](./219840-embers-last-duel.json) |
 | Embers: Return to Dragonland | 267273 | [267273-embers-return-to-dragonland.json](./267273-embers-return-to-dragonland.json) |
@@ -4016,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encrypt | 137830 | [137830-encrypt.json](./137830-encrypt.json) |
 | Encrypted | 184063 | [184063-encrypted.json](./184063-encrypted.json) |
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
+| Encryption | 423922 | [423922-encryption.json](./423922-encryption.json) |
 | Encycle | 149937 | [149937-encycle.json](./149937-encycle.json) |
 | Encyclopedia Explosica | 185617 | [185617-encyclopedia-explosica.json](./185617-encyclopedia-explosica.json) |
 | Encyclopedia of War: Ancient Battles | 13319 | [13319-encyclopedia-of-war-ancient-battles.json](./13319-encyclopedia-of-war-ancient-battles.json) |
