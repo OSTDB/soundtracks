@@ -2246,6 +2246,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics | 57350 | [57350-fantasy-mosaics.json](./57350-fantasy-mosaics.json) |
 | Fantasy Mosaics 13: Unexpected Visitor | 95579 | [95579-fantasy-mosaics-13-unexpected-visitor.json](./95579-fantasy-mosaics-13-unexpected-visitor.json) |
 | Fantasy Mosaics 14: Fourth Color | 32397 | [32397-fantasy-mosaics-14-fourth-color.json](./32397-fantasy-mosaics-14-fourth-color.json) |
+| Fantasy Mosaics 15: Ancient Land | 37428 | [37428-fantasy-mosaics-15-ancient-land.json](./37428-fantasy-mosaics-15-ancient-land.json) |
+| Fantasy Mosaics 16: Six Colors in Wonderland | 37437 | [37437-fantasy-mosaics-16-six-colors-in-wonderland.json](./37437-fantasy-mosaics-16-six-colors-in-wonderland.json) |
 | Fantasy Mosaics 17: New Palette | 38777 | [38777-fantasy-mosaics-17-new-palette.json](./38777-fantasy-mosaics-17-new-palette.json) |
 | Fantasy Mosaics 18: Explore New Colors | 38778 | [38778-fantasy-mosaics-18-explore-new-colors.json](./38778-fantasy-mosaics-18-explore-new-colors.json) |
 | Fantasy Mosaics 19: Edge of the World | 86281 | [86281-fantasy-mosaics-19-edge-of-the-world.json](./86281-fantasy-mosaics-19-edge-of-the-world.json) |
@@ -4594,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever Golf | 314137 | [314137-fever-golf.json](./314137-fever-golf.json) |
 | Fever Meme | 350483 | [350483-fever-meme.json](./350483-fever-meme.json) |
 | Fever Move | 246279 | [246279-fever-move.json](./246279-fever-move.json) |
+| Fever Sankyo Koushiki Pachinko Simulation for WonderSwan | 37463 | [37463-fever-sankyo-koushiki-pachinko-simulation-for-wonderswan.json](./37463-fever-sankyo-koushiki-pachinko-simulation-for-wonderswan.json) |
 | Fever: Fight the Fever | 155837 | [155837-fever-fight-the-fever.json](./155837-fever-fight-the-fever.json) |
 | Fevercide | 415656 | [415656-fevercide.json](./415656-fevercide.json) |
 | Feverdream: Rainbow Chaser | 333985 | [333985-feverdream-rainbow-chaser.json](./333985-feverdream-rainbow-chaser.json) |
@@ -5868,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Lap 2 | 255651 | [255651-final-lap-2.json](./255651-final-lap-2.json) |
 | Final Lap 2000 | 185719 | [185719-final-lap-2000.json](./185719-final-lap-2000.json) |
 | Final Lap 3 | 337555 | [337555-final-lap-3.json](./337555-final-lap-3.json) |
+| Final Lap Special: GT & Formula Machine | 37450 | [37450-final-lap-special-gt-and-formula-machine.json](./37450-final-lap-special-gt-and-formula-machine.json) |
 | Final Lap Twin | 42124 | [42124-final-lap-twin.json](./42124-final-lap-twin.json) |
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
 | Final Liberation: Warhammer Epic 40,000 | 12521 | [12521-final-liberation-warhammer-epic-40-000.json](./12521-final-liberation-warhammer-epic-40-000.json) |
@@ -5905,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Pilot | 152559 | [152559-final-pilot.json](./152559-final-pilot.json) |
 | Final Profit: A Shop RPG | 196721 | [196721-final-profit-a-shop-rpg.json](./196721-final-profit-a-shop-rpg.json) |
 | Final Project | 249676 | [249676-final-project.json](./249676-final-project.json) |
+| Final Prophet | 37420 | [37420-final-prophet.json](./37420-final-prophet.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
 | Final Quest II | 31037 | [31037-final-quest-ii.json](./31037-final-quest-ii.json) |
 | Final Racing | 206761 | [206761-final-racing.json](./206761-final-racing.json) |
