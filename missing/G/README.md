@@ -4293,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
 | Ghost Mountain Roller Coaster | 157360 | [157360-ghost-mountain-roller-coaster.json](./157360-ghost-mountain-roller-coaster.json) |
 | Ghost Muncher | 38649 | [38649-ghost-muncher.json](./38649-ghost-muncher.json) |
+| Ghost Network: Dark Hacker | 420396 | [420396-ghost-network-dark-hacker.json](./420396-ghost-network-dark-hacker.json) |
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
 | Ghost Ninja: Zombie Beatdown | 401311 | [401311-ghost-ninja-zombie-beatdown.json](./401311-ghost-ninja-zombie-beatdown.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
