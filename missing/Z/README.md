@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zak McKracken and the Alien Mindbenders | 106 | [106-zak-mckracken-and-the-alien-mindbenders.json](./106-zak-mckracken-and-the-alien-mindbenders.json) |
 | Zak McKracken and the Alien Mindbenders Enhanced | 2280 | [2280-zak-mckracken-and-the-alien-mindbenders-enhanced.json](./2280-zak-mckracken-and-the-alien-mindbenders-enhanced.json) |
 | Zak McKracken: A Mansion, a Meteor and the Alien Mindbenders | 328014 | [328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json](./328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json) |
+| Zak McKracken: Between Time and Space | 50192 | [50192-zak-mckracken-between-time-and-space.json](./50192-zak-mckracken-between-time-and-space.json) |
 | Zak's Son | 94673 | [94673-zaks-son.json](./94673-zaks-son.json) |
 | Zakantosh Cardgame | 263038 | [263038-zakantosh-cardgame.json](./263038-zakantosh-cardgame.json) |
 | Zakato: Maan | 146533 | [146533-zakato-maan.json](./146533-zakato-maan.json) |
@@ -2926,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZXombies! | 281532 | [281532-zxombies.json](./281532-zxombies.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
 | Zybex | 47206 | [47206-zybex.json](./47206-zybex.json) |
+| Zyclunt | 50081 | [50081-zyclunt.json](./50081-zyclunt.json) |
 | Zyconix | 154422 | [154422-zyconix.json](./154422-zyconix.json) |
 | Zyconix | 84210 | [84210-zyconix.json](./84210-zyconix.json) |
 | Zykrun | 116714 | [116714-zykrun.json](./116714-zykrun.json) |
