@@ -10600,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Iwo Jima | 95403 | [95403-wwii-iwo-jima.json](./95403-wwii-iwo-jima.json) |
 | WWII: Normandy | 18324 | [18324-wwii-normandy.json](./18324-wwii-normandy.json) |
 | WWII: Rising | 171033 | [171033-wwii-rising.json](./171033-wwii-rising.json) |
+| WWII: Soldier | 43590 | [43590-wwii-soldier.json](./43590-wwii-soldier.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWII: Tank Battles | 43209 | [43209-wwii-tank-battles.json](./43209-wwii-tank-battles.json) |
 | WWII: TD | 108670 | [108670-wwii-td.json](./108670-wwii-td.json) |
