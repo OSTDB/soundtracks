@@ -5687,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decline's Drops: Shoes & Mirrors | 360318 | [360318-declines-drops-shoes-and-mirrors.json](./360318-declines-drops-shoes-and-mirrors.json) |
 | Declutterer | 410686 | [410686-declutterer.json](./410686-declutterer.json) |
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
+| Deco Online | 75299 | [75299-deco-online.json](./75299-deco-online.json) |
 | Deco Tendances | 269689 | [269689-deco-tendances.json](./269689-deco-tendances.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
 | Decocraft | 328128 | [328128-decocraft.json](./328128-decocraft.json) |
@@ -7988,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
 | Desert Commander | 48137 | [48137-desert-commander.json](./48137-desert-commander.json) |
 | Desert Complex | 272115 | [272115-desert-complex.json](./272115-desert-complex.json) |
+| Desert Craft | 74579 | [74579-desert-craft.json](./74579-desert-craft.json) |
 | Desert Craft Exploration | 95888 | [95888-desert-craft-exploration.json](./95888-desert-craft-exploration.json) |
 | Desert Crypt | 268604 | [268604-desert-crypt.json](./268604-desert-crypt.json) |
 | Desert Demolition Starring Road Runner and Wile E. Coyote | 4518 | [4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json](./4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json) |
@@ -20459,6 +20461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
 | Dungeon Rushers | 20395 | [20395-dungeon-rushers.json](./20395-dungeon-rushers.json) |
 | Dungeon Rushers: Deluxe Edition | 52933 | [52933-dungeon-rushers-deluxe-edition.json](./52933-dungeon-rushers-deluxe-edition.json) |
+| Dungeon Rustlers | 75257 | [75257-dungeon-rustlers.json](./75257-dungeon-rustlers.json) |
 | Dungeon Savior | 78870 | [78870-dungeon-savior.json](./78870-dungeon-savior.json) |
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
 | Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
