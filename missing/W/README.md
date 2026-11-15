@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhound | 92758 | [92758-warhound.json](./92758-warhound.json) |
 | Warhounds | 385698 | [385698-warhounds.json](./385698-warhounds.json) |
 | Wari: The Ancient Game of Africa | 69727 | [69727-wari-the-ancient-game-of-africa.json](./69727-wari-the-ancient-game-of-africa.json) |
+| Warin.Space | 58964 | [58964-warin-space.json](./58964-warin-space.json) |
 | Wario and the Magic Map | 250068 | [250068-wario-and-the-magic-map.json](./250068-wario-and-the-magic-map.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
 | Wario Blast: Featuring Bomberman! | 1713 | [1713-wario-blast-featuring-bomberman.json](./1713-wario-blast-featuring-bomberman.json) |
