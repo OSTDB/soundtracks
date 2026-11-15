@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Hands | 411239 | [411239-fast-hands.json](./411239-fast-hands.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
 | Fast Lane Bowling | 198739 | [198739-fast-lane-bowling.json](./198739-fast-lane-bowling.json) |
+| Fast Lane! The Spice Engineering Challenge | 60684 | [60684-fast-lane-the-spice-engineering-challenge.json](./60684-fast-lane-the-spice-engineering-challenge.json) |
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast Manicz | 61270 | [61270-fast-manicz.json](./61270-fast-manicz.json) |
@@ -11742,6 +11743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Forever | 30237 | [30237-fortress-forever.json](./30237-fortress-forever.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress Fury | 371511 | [371511-fortress-fury.json](./371511-fortress-fury.json) |
+| Fortress Fury | 60687 | [60687-fortress-fury.json](./60687-fortress-fury.json) |
 | Fortress Guardian | 394140 | [394140-fortress-guardian.json](./394140-fortress-guardian.json) |
 | Fortress Interior | 272168 | [272168-fortress-interior.json](./272168-fortress-interior.json) |
 | Fortress Legends | 323128 | [323128-fortress-legends.json](./323128-fortress-legends.json) |
