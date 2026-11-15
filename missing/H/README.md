@@ -4151,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenscape | 252442 | [252442-heavenscape.json](./252442-heavenscape.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
 | HeavenSlinger | 228809 | [228809-heavenslinger.json](./228809-heavenslinger.json) |
+| Heavensmith: Dungeon Unbound | 423326 | [423326-heavensmith-dungeon-unbound.json](./423326-heavensmith-dungeon-unbound.json) |
 | HeavensSea | 304914 | [304914-heavenssea.json](./304914-heavenssea.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
 | Heavenstrike Rivals | 26904 | [26904-heavenstrike-rivals.json](./26904-heavenstrike-rivals.json) |
@@ -7117,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes: A Grail Quest | 61211 | [61211-heroes-a-grail-quest.json](./61211-heroes-a-grail-quest.json) |
 | Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
 | Heroes: The Tantalizing Trio | 73457 | [73457-heroes-the-tantalizing-trio.json](./73457-heroes-the-tantalizing-trio.json) |
+| Heroes' Battle Hymn: Demonfire Era | 423314 | [423314-heroes-battle-hymn-demonfire-era.json](./423314-heroes-battle-hymn-demonfire-era.json) |
 | Heroes' Call: A Casual Mmo Guild Sim | 343297 | [343297-heroes-call-a-casual-mmo-guild-sim.json](./343297-heroes-call-a-casual-mmo-guild-sim.json) |
 | Heroes' Tales | 312245 | [312245-heroes-tales.json](./312245-heroes-tales.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
@@ -8699,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
 | High Times | 251915 | [251915-high-times.json](./251915-high-times.json) |
 | High Treason | 129304 | [129304-high-treason.json](./129304-high-treason.json) |
+| High Typer | 423195 | [423195-high-typer.json](./423195-high-typer.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity Arena | 251988 | [251988-high-velocity-arena.json](./251988-high-velocity-arena.json) |
 | High Velocity Bowling | 21816 | [21816-high-velocity-bowling.json](./21816-high-velocity-bowling.json) |
