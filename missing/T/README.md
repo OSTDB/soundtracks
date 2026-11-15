@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails Adventure: Fire of Robollion | 267216 | [267216-tails-adventure-fire-of-robollion.json](./267216-tails-adventure-fire-of-robollion.json) |
 | Tails Adventures GG2SMS | 308195 | [308195-tails-adventures-gg2sms.json](./308195-tails-adventures-gg2sms.json) |
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
+| Tails and the Music Maker | 52142 | [52142-tails-and-the-music-maker.json](./52142-tails-and-the-music-maker.json) |
 | Tails and the Quest of 100 Rings | 246727 | [246727-tails-and-the-quest-of-100-rings.json](./246727-tails-and-the-quest-of-100-rings.json) |
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
@@ -11541,6 +11542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grinch: Christmas Adventures | 256017 | [256017-the-grinch-christmas-adventures.json](./256017-the-grinch-christmas-adventures.json) |
 | The Grinch: Christmas Adventures - Determined to Love Christmas | 370830 | [370830-the-grinch-christmas-adventures-determined-to-love-christmas.json](./370830-the-grinch-christmas-adventures-determined-to-love-christmas.json) |
 | The Grinch: Christmas Adventures - Merry & Mischievous Edition | 370827 | [370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json](./370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json) |
+| The Grinder | 51626 | [51626-the-grinder.json](./51626-the-grinder.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
 | The Grindstone | 369169 | [369169-the-grindstone.json](./369169-the-grindstone.json) |
 | The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
@@ -28587,6 +28589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topang | 143947 | [143947-topang.json](./143947-topang.json) |
 | Topatoi: Spinning Through the Worlds | 52981 | [52981-topatoi-spinning-through-the-worlds.json](./52981-topatoi-spinning-through-the-worlds.json) |
 | Topdeck Automat | 392686 | [392686-topdeck-automat.json](./392686-topdeck-automat.json) |
+| Topdown Showdown | 51600 | [51600-topdown-showdown.json](./51600-topdown-showdown.json) |
 | TopDownFarter | 384003 | [384003-topdownfarter.json](./384003-topdownfarter.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Tophat Quest | 207104 | [207104-tophat-quest.json](./207104-tophat-quest.json) |
@@ -29153,6 +29156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
 | Totally Defenceless | 331801 | [331801-totally-defenceless.json](./331801-totally-defenceless.json) |
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
+| Totally Mayhem | 51601 | [51601-totally-mayhem.json](./51601-totally-mayhem.json) |
 | Totally Normal Boyfriend | 189864 | [189864-totally-normal-boyfriend.json](./189864-totally-normal-boyfriend.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
 | Totally Normal Journey: The Interactive Musical | 157021 | [157021-totally-normal-journey-the-interactive-musical.json](./157021-totally-normal-journey-the-interactive-musical.json) |
