@@ -13172,6 +13172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubido | 260714 | [260714-rubido.json](./260714-rubido.json) |
 | Rubido | 318891 | [318891-rubido.json](./318891-rubido.json) |
 | Rubies in Space | 194371 | [194371-rubies-in-space.json](./194371-rubies-in-space.json) |
+| Rubies of Eventide | 65683 | [65683-rubies-of-eventide.json](./65683-rubies-of-eventide.json) |
 | Rubik's Color | 26258 | [26258-rubiks-color.json](./26258-rubiks-color.json) |
 | Rubik's Cube | 71210 | [71210-rubiks-cube.json](./71210-rubiks-cube.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
