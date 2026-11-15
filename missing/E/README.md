@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclosion | 67106 | [67106-eclosion.json](./67106-eclosion.json) |
 | Eco | 14791 | [14791-eco.json](./14791-eco.json) |
 | Eco | 34939 | [34939-eco.json](./34939-eco.json) |
+| Eco - Battle with Detritus | 68861 | [68861-eco-battle-with-detritus.json](./68861-eco-battle-with-detritus.json) |
 | Eco Balance | 400704 | [400704-eco-balance.json](./400704-eco-balance.json) |
 | Eco Biz Tomorrow | 108137 | [108137-eco-biz-tomorrow.json](./108137-eco-biz-tomorrow.json) |
 | Eco Breaker | 213896 | [213896-eco-breaker.json](./213896-eco-breaker.json) |
@@ -7447,6 +7448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evel Knievel | 200330 | [200330-evel-knievel.json](./200330-evel-knievel.json) |
 | Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
 | Evel Knievel | 349571 | [349571-evel-knievel.json](./349571-evel-knievel.json) |
+| Evel Knievel | 67718 | [67718-evel-knievel.json](./67718-evel-knievel.json) |
 | Evel Knievel 3D Stunt Game | 92760 | [92760-evel-knievel-3d-stunt-game.json](./92760-evel-knievel-3d-stunt-game.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
@@ -9231,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Racing on Highway | 115582 | [115582-extreme-racing-on-highway.json](./115582-extreme-racing-on-highway.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
 | Extreme Reaction | 368148 | [368148-extreme-reaction.json](./368148-extreme-reaction.json) |
+| Extreme Real Reality HD Remix | 68181 | [68181-extreme-real-reality-hd-remix.json](./68181-extreme-real-reality-hd-remix.json) |
 | Extreme Ride Legacy | 342392 | [342392-extreme-ride-legacy.json](./342392-extreme-ride-legacy.json) |
 | Extreme Riding | 271108 | [271108-extreme-riding.json](./271108-extreme-riding.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
