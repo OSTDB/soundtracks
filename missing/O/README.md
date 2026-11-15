@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
 | Omicrox | 361803 | [361803-omicrox.json](./361803-omicrox.json) |
 | Omikron 2: Karma | 248848 | [248848-omikron-2-karma.json](./248848-omikron-2-karma.json) |
+| Omikron 2: Nomad Soul Exodus | 67717 | [67717-omikron-2-nomad-soul-exodus.json](./67717-omikron-2-nomad-soul-exodus.json) |
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
 | Omikron: The Nomad Soul | 248846 | [248846-omikron-the-nomad-soul.json](./248846-omikron-the-nomad-soul.json) |
 | Omina Mortis | 36983 | [36983-omina-mortis.json](./36983-omina-mortis.json) |
@@ -3296,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
 | Onlooker | 186460 | [186460-onlooker.json](./186460-onlooker.json) |
+| Only A | 68188 | [68188-only-a.json](./68188-only-a.json) |
 | Only a Billion?! | 324343 | [324343-only-a-billion.json](./324343-only-a-billion.json) |
 | Only A Dream | 230884 | [230884-only-a-dream.json](./230884-only-a-dream.json) |
 | Only After | 117129 | [117129-only-after.json](./117129-only-after.json) |
@@ -6476,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl Rescue | 221081 | [221081-owl-rescue.json](./221081-owl-rescue.json) |
 | Owl Simulator | 90086 | [90086-owl-simulator.json](./90086-owl-simulator.json) |
 | Owl Watch | 111254 | [111254-owl-watch.json](./111254-owl-watch.json) |
+| Owl's Midnight Journey | 68849 | [68849-owls-midnight-journey.json](./68849-owls-midnight-journey.json) |
 | Owl's Nest | 392736 | [392736-owls-nest.json](./392736-owls-nest.json) |
 | Owlbears | 387518 | [387518-owlbears.json](./387518-owlbears.json) |
 | OwlBox: Fantasy Gaming System | 359861 | [359861-owlbox-fantasy-gaming-system.json](./359861-owlbox-fantasy-gaming-system.json) |
