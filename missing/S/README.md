@@ -5496,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek the Discrepancy | 268337 | [268337-seek-the-discrepancy.json](./268337-seek-the-discrepancy.json) |
 | Seek the Resources | 246365 | [246365-seek-the-resources.json](./246365-seek-the-resources.json) |
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
+| Seek: Light Through Darkness | 420393 | [420393-seek-light-through-darkness.json](./420393-seek-light-through-darkness.json) |
 | SeekBlade | 151782 | [151782-seekblade.json](./151782-seekblade.json) |
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
@@ -8562,6 +8563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shàshí Qíngyīn | 107401 | [107401-shashi-qingyin.json](./107401-shashi-qingyin.json) |
 | Shashingo: Learn Japanese With Photography | 151903 | [151903-shashingo-learn-japanese-with-photography.json](./151903-shashingo-learn-japanese-with-photography.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
+| shatAAAAp! | 420307 | [420307-shataaaap.json](./420307-shataaaap.json) |
 | Shatris: Infinite Puzzles | 151309 | [151309-shatris-infinite-puzzles.json](./151309-shatris-infinite-puzzles.json) |
 | Shatter | 13101 | [13101-shatter.json](./13101-shatter.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
@@ -11930,6 +11932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Dreams - Return to Eden | 39156 | [39156-silicon-dreams-return-to-eden.json](./39156-silicon-dreams-return-to-eden.json) |
 | Silicon Dreams - Snowball | 39157 | [39157-silicon-dreams-snowball.json](./39157-silicon-dreams-snowball.json) |
 | Silicon Dreams - The Worm in Paradise | 39155 | [39155-silicon-dreams-the-worm-in-paradise.json](./39155-silicon-dreams-the-worm-in-paradise.json) |
+| Silicon Empire: Chip Tycoon | 420391 | [420391-silicon-empire-chip-tycoon.json](./420391-silicon-empire-chip-tycoon.json) |
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Foundry | 401759 | [401759-silicon-foundry.json](./401759-silicon-foundry.json) |
 | Silicon Girl | 384581 | [384581-silicon-girl.json](./384581-silicon-girl.json) |
@@ -38014,6 +38017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Chaos | 407502 | [407502-supermarket-chaos.json](./407502-supermarket-chaos.json) |
 | Supermarket Cola Dash Classic | 374666 | [374666-supermarket-cola-dash-classic.json](./374666-supermarket-cola-dash-classic.json) |
 | Supermarket Cola Dash Deluxe! | 374667 | [374667-supermarket-cola-dash-deluxe.json](./374667-supermarket-cola-dash-deluxe.json) |
+| Supermarket Crashout | 420370 | [420370-supermarket-crashout.json](./420370-supermarket-crashout.json) |
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
 | Supermarket Electronic | 416069 | [416069-supermarket-electronic.json](./416069-supermarket-electronic.json) |
 | Supermarket Gas Station Simulator | 413957 | [413957-supermarket-gas-station-simulator.json](./413957-supermarket-gas-station-simulator.json) |
