@@ -10621,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Showdown of the Dungeon | 112204 | [112204-showdown-of-the-dungeon.json](./112204-showdown-of-the-dungeon.json) |
 | Showdown: Legends of Wrestling | 6051 | [6051-showdown-legends-of-wrestling.json](./6051-showdown-legends-of-wrestling.json) |
+| Showdown: Scorpion | 73024 | [73024-showdown-scorpion.json](./73024-showdown-scorpion.json) |
 | Shower Game | 409817 | [409817-shower-game.json](./409817-shower-game.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
@@ -17480,6 +17481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy Path | 185309 | [185309-snowy-path.json](./185309-snowy-path.json) |
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
+| Snowy: Puzzle Islands | 73911 | [73911-snowy-puzzle-islands.json](./73911-snowy-puzzle-islands.json) |
 | Snowy: Space Trip | 69835 | [69835-snowy-space-trip.json](./69835-snowy-space-trip.json) |
 | Snowy: The Bear's Adventures | 73857 | [73857-snowy-the-bears-adventures.json](./73857-snowy-the-bears-adventures.json) |
 | Snowy: Treasure Hunter | 52855 | [52855-snowy-treasure-hunter.json](./52855-snowy-treasure-hunter.json) |
@@ -29359,6 +29361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Cardworks | 332940 | [332940-stellar-cardworks.json](./332940-stellar-cardworks.json) |
 | Stellar Checkpoint | 311593 | [311593-stellar-checkpoint.json](./311593-stellar-checkpoint.json) |
 | Stellar Code | 326775 | [326775-stellar-code.json](./326775-stellar-code.json) |
+| Stellar College Basketball | 73917 | [73917-stellar-college-basketball.json](./73917-stellar-college-basketball.json) |
 | Stellar Commanders | 124379 | [124379-stellar-commanders.json](./124379-stellar-commanders.json) |
 | Stellar Conflicts | 414045 | [414045-stellar-conflicts.json](./414045-stellar-conflicts.json) |
 | Stellar Conquest | 248595 | [248595-stellar-conquest.json](./248595-stellar-conquest.json) |
@@ -33904,6 +33907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Air Combat | 63700 | [63700-super-air-combat.json](./63700-super-air-combat.json) |
 | Super Air Diver 2 | 42364 | [42364-super-air-diver-2.json](./42364-super-air-diver-2.json) |
 | Super Air Zonk | 37609 | [37609-super-air-zonk.json](./37609-super-air-zonk.json) |
+| Super Air Zonk: Rockabilly-Paradise | 73031 | [73031-super-air-zonk-rockabilly-paradise.json](./73031-super-air-zonk-rockabilly-paradise.json) |
 | Super Airline Tycoon | 346520 | [346520-super-airline-tycoon.json](./346520-super-airline-tycoon.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
@@ -38716,6 +38720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp and Luig | 417555 | [417555-swamp-and-luig.json](./417555-swamp-and-luig.json) |
 | Swamp Attack | 87019 | [87019-swamp-attack.json](./87019-swamp-attack.json) |
 | Swamp Attack 2 | 194039 | [194039-swamp-attack-2.json](./194039-swamp-attack-2.json) |
+| Swamp Buggy Racing | 73900 | [73900-swamp-buggy-racing.json](./73900-swamp-buggy-racing.json) |
 | Swamp Castle | 132682 | [132682-swamp-castle.json](./132682-swamp-castle.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swamp Chomp | 23986 | [23986-swamp-chomp.json](./23986-swamp-chomp.json) |
@@ -39844,6 +39849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydney 2000 | 323056 | [323056-sydney-2000.json](./323056-sydney-2000.json) |
 | Sydney 2000 | 8333 | [8333-sydney-2000.json](./8333-sydney-2000.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
+| Sydney Finds Employment | 73210 | [73210-sydney-finds-employment.json](./73210-sydney-finds-employment.json) |
 | Sydney Hunter and the Caverns of Death | 61219 | [61219-sydney-hunter-and-the-caverns-of-death.json](./61219-sydney-hunter-and-the-caverns-of-death.json) |
 | Sydney Hunter and the Curse of the Mayan | 59297 | [59297-sydney-hunter-and-the-curse-of-the-mayan.json](./59297-sydney-hunter-and-the-curse-of-the-mayan.json) |
 | Sydney Hunter and the Sacred Tribe | 56232 | [56232-sydney-hunter-and-the-sacred-tribe.json](./56232-sydney-hunter-and-the-sacred-tribe.json) |
