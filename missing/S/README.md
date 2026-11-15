@@ -4414,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
 | SD Shin Kamen Rider Rumble | 231290 | [231290-sd-shin-kamen-rider-rumble.json](./231290-sd-shin-kamen-rider-rumble.json) |
 | SD Shin Kamen Rider Rumble SJHU Season Pass | 398294 | [398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json](./398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json) |
+| SD Snatcher | 41654 | [41654-sd-snatcher.json](./41654-sd-snatcher.json) |
 | SD The Great Battle: Aratanaru Chousen | 38321 | [38321-sd-the-great-battle-aratanaru-chousen.json](./38321-sd-the-great-battle-aratanaru-chousen.json) |
 | SD Ultra Battle: Seven Densetsu | 42273 | [42273-sd-ultra-battle-seven-densetsu.json](./42273-sd-ultra-battle-seven-densetsu.json) |
 | SD Ultra Battle: Ultraman Densetsu | 42272 | [42272-sd-ultra-battle-ultraman-densetsu.json](./42272-sd-ultra-battle-ultraman-densetsu.json) |
@@ -16989,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 4: Deathstorm Part 2 - Infiltration | 141038 | [141038-sniper-elite-4-deathstorm-part-2-infiltration.json](./141038-sniper-elite-4-deathstorm-part-2-infiltration.json) |
 | Sniper Elite 4: Deathstorm Part 3 - Obliteration | 141039 | [141039-sniper-elite-4-deathstorm-part-3-obliteration.json](./141039-sniper-elite-4-deathstorm-part-3-obliteration.json) |
 | Sniper Elite 4: Digital Deluxe Edition | 54380 | [54380-sniper-elite-4-digital-deluxe-edition.json](./54380-sniper-elite-4-digital-deluxe-edition.json) |
+| Sniper Elite 4: Limited Edition | 41643 | [41643-sniper-elite-4-limited-edition.json](./41643-sniper-elite-4-limited-edition.json) |
 | Sniper Elite 4: Lock and Load Weapons Pack | 410734 | [410734-sniper-elite-4-lock-and-load-weapons-pack.json](./410734-sniper-elite-4-lock-and-load-weapons-pack.json) |
 | Sniper Elite 4: Night Fighter Expansion Pack | 410727 | [410727-sniper-elite-4-night-fighter-expansion-pack.json](./410727-sniper-elite-4-night-fighter-expansion-pack.json) |
 | Sniper Elite 4: Silent Warfare Weapons Pack | 410729 | [410729-sniper-elite-4-silent-warfare-weapons-pack.json](./410729-sniper-elite-4-silent-warfare-weapons-pack.json) |
@@ -40479,6 +40481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter: Logan's Shadow | 250106 | [250106-syphon-filter-logans-shadow.json](./250106-syphon-filter-logans-shadow.json) |
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
+| Syracuse | 41553 | [41553-syracuse.json](./41553-syracuse.json) |
 | Syrak: the War in the Middle-East | 193648 | [193648-syrak-the-war-in-the-middle-east.json](./193648-syrak-the-war-in-the-middle-east.json) |
 | Syren | 30602 | [30602-syren.json](./30602-syren.json) |
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
