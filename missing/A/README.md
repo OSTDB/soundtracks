@@ -7970,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Maze | 156596 | [156596-alien-maze.json](./156596-alien-maze.json) |
 | Alien Mind | 72153 | [72153-alien-mind.json](./72153-alien-mind.json) |
 | Alien Monopoly | 122177 | [122177-alien-monopoly.json](./122177-alien-monopoly.json) |
+| Alien Monster Bowling League | 24333 | [24333-alien-monster-bowling-league.json](./24333-alien-monster-bowling-league.json) |
 | Alien Morgue | 359870 | [359870-alien-morgue.json](./359870-alien-morgue.json) |
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
@@ -11494,6 +11495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Pals Bubble Pop | 147590 | [147590-animal-pals-bubble-pop.json](./147590-animal-pals-bubble-pop.json) |
 | Animal Paradise | 153614 | [153614-animal-paradise.json](./153614-animal-paradise.json) |
+| Animal Paradise | 24326 | [24326-animal-paradise.json](./24326-animal-paradise.json) |
 | Animal Paradise Wild | 122453 | [122453-animal-paradise-wild.json](./122453-animal-paradise-wild.json) |
 | Animal Parkour | 291860 | [291860-animal-parkour.json](./291860-animal-parkour.json) |
 | Animal Party Puzzles: Meet All the Friends | 356524 | [356524-animal-party-puzzles-meet-all-the-friends.json](./356524-animal-party-puzzles-meet-all-the-friends.json) |
@@ -15231,6 +15233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than a 5th Grader? Game Time | 6521 | [6521-are-you-smarter-than-a-5th-grader-game-time.json](./6521-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter Than A 5th Grader?: Back to School | 50741 | [50741-are-you-smarter-than-a-5th-grader-back-to-school.json](./50741-are-you-smarter-than-a-5th-grader-back-to-school.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
+| Are You Smarter Than A 5th Grader?: Make the Grade | 24308 | [24308-are-you-smarter-than-a-5th-grader-make-the-grade.json](./24308-are-you-smarter-than-a-5th-grader-make-the-grade.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
 | Are You Smarter Than Patrick Star? | 383777 | [383777-are-you-smarter-than-patrick-star.json](./383777-are-you-smarter-than-patrick-star.json) |
 | Are You Smarter Than the Crowd? | 194989 | [194989-are-you-smarter-than-the-crowd.json](./194989-are-you-smarter-than-the-crowd.json) |
@@ -18195,6 +18198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Duel Deluxe + Astro Duel 2 | 386215 | [386215-astro-duel-deluxe-astro-duel-2.json](./386215-astro-duel-deluxe-astro-duel-2.json) |
 | Astro Empires | 124660 | [124660-astro-empires.json](./124660-astro-empires.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
+| Astro Escape: Free | 24067 | [24067-astro-escape-free.json](./24067-astro-escape-free.json) |
 | Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
 | Astro Fantasia | 83352 | [83352-astro-fantasia.json](./83352-astro-fantasia.json) |
 | Astro Felix | 372281 | [372281-astro-felix.json](./372281-astro-felix.json) |
