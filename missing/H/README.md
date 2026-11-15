@@ -4240,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebereke no Pair Pair Wars | 288020 | [288020-hebereke-no-pair-pair-wars.json](./288020-hebereke-no-pair-pair-wars.json) |
 | Hebereke: Enjoy Edition | 291350 | [291350-hebereke-enjoy-edition.json](./291350-hebereke-enjoy-edition.json) |
 | Hebereke: Rescue O-Chan | 275285 | [275285-hebereke-rescue-o-chan.json](./275285-hebereke-rescue-o-chan.json) |
+| Hebereke!: March! Red Army Girls' Brigade | 31234 | [31234-hebereke-march-red-army-girls-brigade.json](./31234-hebereke-march-red-army-girls-brigade.json) |
 | Hebereke's Popoitto | 65631 | [65631-heberekes-popoitto.json](./65631-heberekes-popoitto.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi Hebi | 177261 | [177261-hebi-hebi.json](./177261-hebi-hebi.json) |
@@ -13517,6 +13518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
 | Hunt: Showdown: Death's Herald | 241176 | [241176-hunt-showdown-deaths-herald.json](./241176-hunt-showdown-deaths-herald.json) |
 | Hunt: Showdown: Llorona's Heir | 241174 | [241174-hunt-showdown-lloronas-heir.json](./241174-hunt-showdown-lloronas-heir.json) |
+| Hunt: The Unknown Quarry | 31299 | [31299-hunt-the-unknown-quarry.json](./31299-hunt-the-unknown-quarry.json) |
 | Hunt3r | 215305 | [215305-hunt3r.json](./215305-hunt3r.json) |
 | HuntCore | 391807 | [391807-huntcore.json](./391807-huntcore.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
