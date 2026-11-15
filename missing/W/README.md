@@ -6136,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | William and Sly 2 | 377900 | [377900-william-and-sly-2.json](./377900-william-and-sly-2.json) |
 | William and Sly: Classic Collection | 276581 | [276581-william-and-sly-classic-collection.json](./276581-william-and-sly-classic-collection.json) |
 | William and the Lands of Rage | 127621 | [127621-william-and-the-lands-of-rage.json](./127621-william-and-the-lands-of-rage.json) |
+| William Shakespeare's Hamlet: A Murder Mystery | 73901 | [73901-william-shakespeares-hamlet-a-murder-mystery.json](./73901-william-shakespeares-hamlet-a-murder-mystery.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William the Conqueror | 102014 | [102014-william-the-conqueror.json](./102014-william-the-conqueror.json) |
 | William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
