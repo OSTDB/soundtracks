@@ -34925,6 +34925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Patrol | 137768 | [137768-troll-patrol.json](./137768-troll-patrol.json) |
 | Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
 | Troll-A-Mania | 217701 | [217701-troll-a-mania.json](./217701-troll-a-mania.json) |
+| Troll's Tale | 50910 | [50910-trolls-tale.json](./50910-trolls-tale.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
 | Trollbound | 233131 | [233131-trollbound.json](./233131-trollbound.json) |
 | Trolley Dash | 347424 | [347424-trolley-dash.json](./347424-trolley-dash.json) |
