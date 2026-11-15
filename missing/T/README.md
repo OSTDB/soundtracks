@@ -5515,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris-Retro | 380368 | [380368-tetris-retro.json](./380368-tetris-retro.json) |
 | Tetris: Featuring Madilyn Bailey | 145807 | [145807-tetris-featuring-madilyn-bailey.json](./145807-tetris-featuring-madilyn-bailey.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
+| Tetris: N-Blox | 64561 | [64561-tetris-n-blox.json](./64561-tetris-n-blox.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
 | Tetris: The Absolute - The Grand Master 2 | 25023 | [25023-tetris-the-absolute-the-grand-master-2.json](./25023-tetris-the-absolute-the-grand-master-2.json) |
 | Tetris: The Absolute - The Grand Master 2 Plus | 28455 | [28455-tetris-the-absolute-the-grand-master-2-plus.json](./28455-tetris-the-absolute-the-grand-master-2-plus.json) |
@@ -13518,6 +13519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Orpheus | 276758 | [276758-the-last-orpheus.json](./276758-the-last-orpheus.json) |
 | The Last Patient | 29442 | [29442-the-last-patient.json](./29442-the-last-patient.json) |
 | The Last Phoenix | 375447 | [375447-the-last-phoenix.json](./375447-the-last-phoenix.json) |
+| The Last Phoenix | 64572 | [64572-the-last-phoenix.json](./64572-the-last-phoenix.json) |
 | The Last Photon | 33050 | [33050-the-last-photon.json](./33050-the-last-photon.json) |
 | The Last Pirate Adventure: Drake's Treasure | 169404 | [169404-the-last-pirate-adventure-drakes-treasure.json](./169404-the-last-pirate-adventure-drakes-treasure.json) |
 | The Last Pissed Time | 308447 | [308447-the-last-pissed-time.json](./308447-the-last-pissed-time.json) |
@@ -26372,6 +26374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Vinyard | 384488 | [384488-tiny-vinyard.json](./384488-tiny-vinyard.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Visitors | 254656 | [254656-tiny-visitors.json](./254656-tiny-visitors.json) |
+| Tiny War XD | 64591 | [64591-tiny-war-xd.json](./64591-tiny-war-xd.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | Tiny Whaley 2 | 312978 | [312978-tiny-whaley-2.json](./312978-tiny-whaley-2.json) |
 | Tiny Whiny Island | 365923 | [365923-tiny-whiny-island.json](./365923-tiny-whiny-island.json) |
@@ -34222,6 +34225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Heart Gaiden | 77836 | [77836-triangle-heart-gaiden.json](./77836-triangle-heart-gaiden.json) |
 | Triangle Heart: Love Love Omochabako | 77834 | [77834-triangle-heart-love-love-omochabako.json](./77834-triangle-heart-love-love-omochabako.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
+| Triangle Man | 64569 | [64569-triangle-man.json](./64569-triangle-man.json) |
 | Triangle Mania | 118082 | [118082-triangle-mania.json](./118082-triangle-mania.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
 | Triangle Shooter: The Invaders | 175544 | [175544-triangle-shooter-the-invaders.json](./175544-triangle-shooter-the-invaders.json) |
