@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Casino | 68900 | [68900-haunted-casino.json](./68900-haunted-casino.json) |
 | Haunted Castle | 1117 | [1117-haunted-castle.json](./1117-haunted-castle.json) |
 | Haunted Castle | 315360 | [315360-haunted-castle.json](./315360-haunted-castle.json) |
+| Haunted Castle 3: Trevor's Quest | 70002 | [70002-haunted-castle-3-trevors-quest.json](./70002-haunted-castle-3-trevors-quest.json) |
 | Haunted Castle II | 218849 | [218849-haunted-castle-ii.json](./218849-haunted-castle-ii.json) |
 | Haunted Childhood | 73487 | [73487-haunted-childhood.json](./73487-haunted-childhood.json) |
 | Haunted Cities | 128782 | [128782-haunted-cities.json](./128782-haunted-cities.json) |
@@ -3489,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Pain | 181048 | [181048-head-pain.json](./181048-head-pain.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Reattachment Trauma | 271249 | [271249-head-reattachment-trauma.json](./271249-head-reattachment-trauma.json) |
+| Head Rush | 70011 | [70011-head-rush.json](./70011-head-rush.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
 | Head Shot 2 | 67077 | [67077-head-shot-2.json](./67077-head-shot-2.json) |
 | Head Shot God | 79523 | [79523-head-shot-god.json](./79523-head-shot-god.json) |
