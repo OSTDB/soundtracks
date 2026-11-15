@@ -14238,6 +14238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
+| Minesweeper Fun | 87400 | [87400-minesweeper-fun.json](./87400-minesweeper-fun.json) |
 | Minesweeper Game | 398009 | [398009-minesweeper-game.json](./398009-minesweeper-game.json) |
 | Minesweeper Genius | 101496 | [101496-minesweeper-genius.json](./101496-minesweeper-genius.json) |
 | Minesweeper Girl | 247882 | [247882-minesweeper-girl.json](./247882-minesweeper-girl.json) |
@@ -18794,6 +18795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Lady | 62537 | [62537-moonlight-lady.json](./62537-moonlight-lady.json) |
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
 | Moonlight Madness | 70772 | [70772-moonlight-madness.json](./70772-moonlight-madness.json) |
+| Moonlight Mahjong | 87420 | [87420-moonlight-mahjong.json](./87420-moonlight-mahjong.json) |
 | Moonlight Mansion | 132525 | [132525-moonlight-mansion.json](./132525-moonlight-mansion.json) |
 | Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
@@ -22212,6 +22214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mustache Boy | 40384 | [40384-mustache-boy.json](./40384-mustache-boy.json) |
 | Mustache in Hell | 21997 | [21997-mustache-in-hell.json](./21997-mustache-in-hell.json) |
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
+| Mustache Politics Shooter | 75938 | [75938-mustache-politics-shooter.json](./75938-mustache-politics-shooter.json) |
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | MustScream | 357139 | [357139-mustscream.json](./357139-mustscream.json) |
