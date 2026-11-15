@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Bomb | 318753 | [318753-v-bomb.json](./318753-v-bomb.json) |
 | V Burster | 202259 | [202259-v-burster.json](./202259-v-burster.json) |
 | V de Vinagre | 282098 | [282098-v-de-vinagre.json](./282098-v-de-vinagre.json) |
+| V for Victory: D-Day Utah Beach | 50102 | [50102-v-for-victory-d-day-utah-beach.json](./50102-v-for-victory-d-day-utah-beach.json) |
 | V for Victory: Gold-Juno-Sword | 69234 | [69234-v-for-victory-gold-juno-sword.json](./69234-v-for-victory-gold-juno-sword.json) |
 | V for Victory: Market Garden | 70965 | [70965-v-for-victory-market-garden.json](./70965-v-for-victory-market-garden.json) |
 | V Gate | 261790 | [261790-v-gate.json](./261790-v-gate.json) |
@@ -2110,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria 3: Update 1.2 | 240900 | [240900-victoria-3-update-1-2.json](./240900-victoria-3-update-1-2.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victoria Clair and the Mystery Express | 141944 | [141944-victoria-clair-and-the-mystery-express.json](./141944-victoria-clair-and-the-mystery-express.json) |
+| Victoria Complete | 50180 | [50180-victoria-complete.json](./50180-victoria-complete.json) |
 | Victoria II | 11037 | [11037-victoria-ii.json](./11037-victoria-ii.json) |
 | Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
 | Victoria II: Civil War Edition | 124982 | [124982-victoria-ii-civil-war-edition.json](./124982-victoria-ii-civil-war-edition.json) |
