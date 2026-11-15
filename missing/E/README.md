@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
 | Elroi: Defense War | 154324 | [154324-elroi-defense-war.json](./154324-elroi-defense-war.json) |
 | Elroy Goes Bugzerk | 123385 | [123385-elroy-goes-bugzerk.json](./123385-elroy-goes-bugzerk.json) |
+| Elroy Hits the Pavement | 75985 | [75985-elroy-hits-the-pavement.json](./75985-elroy-hits-the-pavement.json) |
 | Elroy's Costume Closet | 125541 | [125541-elroys-costume-closet.json](./125541-elroys-costume-closet.json) |
 | Elsa Gladiac Ultra | 24177 | [24177-elsa-gladiac-ultra.json](./24177-elsa-gladiac-ultra.json) |
 | Else Heart.Break() | 14395 | [14395-else-heart-break.json](./14395-else-heart-break.json) |
@@ -9058,6 +9059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminatus: Rival Species 2 | 350395 | [350395-exterminatus-rival-species-2.json](./350395-exterminatus-rival-species-2.json) |
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
 | External | 370013 | [370013-external.json](./370013-external.json) |
+| External Visions | 76026 | [76026-external-visions.json](./76026-external-visions.json) |
 | External-Dimension: Mainframe | 224896 | [224896-external-dimension-mainframe.json](./224896-external-dimension-mainframe.json) |
 | Externus: Path of the Solari | 137167 | [137167-externus-path-of-the-solari.json](./137167-externus-path-of-the-solari.json) |
 | ExTime: Primal Menace | 245922 | [245922-extime-primal-menace.json](./245922-extime-primal-menace.json) |
