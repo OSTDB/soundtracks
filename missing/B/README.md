@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Blast! | 100502 | [100502-ball-blast.json](./100502-ball-blast.json) |
 | Ball Blaster | 246312 | [246312-ball-blaster.json](./246312-ball-blaster.json) |
 | Ball Blaster | 359386 | [359386-ball-blaster.json](./359386-ball-blaster.json) |
+| Ball Blazing Fantasy | 70006 | [70006-ball-blazing-fantasy.json](./70006-ball-blazing-fantasy.json) |
 | Ball Blitz! | 296615 | [296615-ball-blitz.json](./296615-ball-blitz.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Bounce Progress | 166289 | [166289-ball-bounce-progress.json](./166289-ball-bounce-progress.json) |
@@ -4369,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle Of Witches | 331075 | [331075-battle-of-witches.json](./331075-battle-of-witches.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
+| Battle of Words | 69972 | [69972-battle-of-words.json](./69972-battle-of-words.json) |
 | Battle of Worldviews | 105240 | [105240-battle-of-worldviews.json](./105240-battle-of-worldviews.json) |
 | Battle of Zama | 251792 | [251792-battle-of-zama.json](./251792-battle-of-zama.json) |
 | Battle of Zodiacs | 247703 | [247703-battle-of-zodiacs.json](./247703-battle-of-zodiacs.json) |
@@ -9186,6 +9188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
 | Bios Ex: Yami no Wakusei | 114839 | [114839-bios-ex-yami-no-wakusei.json](./114839-bios-ex-yami-no-wakusei.json) |
 | Bios Fear | 290377 | [290377-bios-fear.json](./290377-bios-fear.json) |
+| Bioscopia: Where Science Conquers Evil | 70007 | [70007-bioscopia-where-science-conquers-evil.json](./70007-bioscopia-where-science-conquers-evil.json) |
 | BioShock | 214790 | [214790-bioshock.json](./214790-bioshock.json) |
 | BioShock | 214791 | [214791-bioshock.json](./214791-bioshock.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
@@ -13072,6 +13075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | Blue's Clues Collection Day | 70690 | [70690-blues-clues-collection-day.json](./70690-blues-clues-collection-day.json) |
 | Blue's Clues Kindergarten | 7973 | [7973-blues-clues-kindergarten.json](./7973-blues-clues-kindergarten.json) |
+| Blue's Clues: Blue Takes You to School | 69970 | [69970-blues-clues-blue-takes-you-to-school.json](./69970-blues-clues-blue-takes-you-to-school.json) |
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
 | Blue's Clues: Blue's Art Time Activities | 73403 | [73403-blues-clues-blues-art-time-activities.json](./73403-blues-clues-blues-art-time-activities.json) |
 | Blue's Clues: Blue's Big Musical | 9701 | [9701-blues-clues-blues-big-musical.json](./9701-blues-clues-blues-big-musical.json) |
@@ -13759,6 +13763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Adventures I | 84285 | [84285-bolo-adventures-i.json](./84285-bolo-adventures-i.json) |
+| Bolo Adventures II | 69999 | [69999-bolo-adventures-ii.json](./69999-bolo-adventures-ii.json) |
 | Bolo Adventures III | 73915 | [73915-bolo-adventures-iii.json](./73915-bolo-adventures-iii.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
 | Bolo Legends: An Epic Adventure | 224903 | [224903-bolo-legends-an-epic-adventure.json](./224903-bolo-legends-an-epic-adventure.json) |
@@ -14713,6 +14718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
 | Booster | 363118 | [363118-booster.json](./363118-booster.json) |
+| Booster Logic | 70010 | [70010-booster-logic.json](./70010-booster-logic.json) |
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Booster Trooper | 14948 | [14948-booster-trooper.json](./14948-booster-trooper.json) |
