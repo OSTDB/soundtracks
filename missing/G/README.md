@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler's Fallacy | 400594 | [400594-gamblers-fallacy.json](./400594-gamblers-fallacy.json) |
 | Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
 | Gamblers Table | 342853 | [342853-gamblers-table.json](./342853-gamblers-table.json) |
+| Gamblin' Geezers | 423947 | [423947-gamblin-geezers.json](./423947-gamblin-geezers.json) |
 | Gambling Apocalypse Kaiji | 61395 | [61395-gambling-apocalypse-kaiji.json](./61395-gambling-apocalypse-kaiji.json) |
 | Gambling Forever | 347789 | [347789-gambling-forever.json](./347789-gambling-forever.json) |
 | Gambling Lord | 64042 | [64042-gambling-lord.json](./64042-gambling-lord.json) |
