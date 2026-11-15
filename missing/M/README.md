@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaLaTang | 364780 | [364780-malatang.json](./364780-malatang.json) |
 | Malatzshia | 56610 | [56610-malatzshia.json](./56610-malatzshia.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
+| Malaya No Hihou | 41650 | [41650-malaya-no-hihou.json](./41650-malaya-no-hihou.json) |
 | Malazar's Inscrutable Tower | 421451 | [421451-malazars-inscrutable-tower.json](./421451-malazars-inscrutable-tower.json) |
 | Malazard: The Master of Magic | 32139 | [32139-malazard-the-master-of-magic.json](./32139-malazard-the-master-of-magic.json) |
 | Malcade | 366997 | [366997-malcade.json](./366997-malcade.json) |
@@ -12393,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mid | 372231 | [372231-mid.json](./372231-mid.json) |
 | Mid or Feed | 129414 | [129414-mid-or-feed.json](./129414-mid-or-feed.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
+| Mid-Garts | 41651 | [41651-mid-garts.json](./41651-mid-garts.json) |
 | Mida's Adventure | 203611 | [203611-midas-adventure.json](./203611-midas-adventure.json) |
 | Midair | 55115 | [55115-midair.json](./55115-midair.json) |
 | Midair 2 | 133680 | [133680-midair-2.json](./133680-midair-2.json) |
@@ -18939,6 +18941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
 | Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
+| Mopiranger | 41629 | [41629-mopiranger.json](./41629-mopiranger.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Moptown Parade | 73425 | [73425-moptown-parade.json](./73425-moptown-parade.json) |
 | Mor | 340726 | [340726-mor.json](./340726-mor.json) |
