@@ -23169,6 +23169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thystle | 146628 | [146628-thystle.json](./146628-thystle.json) |
 | THZ | 238345 | [238345-thz.json](./238345-thz.json) |
 | TI Breakout | 418917 | [418917-ti-breakout.json](./418917-ti-breakout.json) |
+| TI Invaders | 42186 | [42186-ti-invaders.json](./42186-ti-invaders.json) |
 | TI Lander | 421401 | [421401-ti-lander.json](./421401-ti-lander.json) |
 | TI Puck | 421222 | [421222-ti-puck.json](./421222-ti-puck.json) |
 | TI Runner | 419116 | [419116-ti-runner.json](./419116-ti-runner.json) |
@@ -33803,6 +33804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Chest Clicker | 250852 | [250852-treasure-chest-clicker.json](./250852-treasure-chest-clicker.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Clicker | 398041 | [398041-treasure-clicker.json](./398041-treasure-clicker.json) |
+| Treasure Conflix | 42258 | [42258-treasure-conflix.json](./42258-treasure-conflix.json) |
 | Treasure Cove | 409196 | [409196-treasure-cove.json](./409196-treasure-cove.json) |
 | Treasure Cove | 66805 | [66805-treasure-cove.json](./66805-treasure-cove.json) |
 | Treasure Cove! | 100081 | [100081-treasure-cove.json](./100081-treasure-cove.json) |
