@@ -7386,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Gate: Teito Shinshin Taisen - Tokyo Mokushiroku-hen | 153679 | [153679-demons-gate-teito-shinshin-taisen-tokyo-mokushiroku-hen.json](./153679-demons-gate-teito-shinshin-taisen-tokyo-mokushiroku-hen.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Kiss | 138852 | [138852-demons-kiss.json](./138852-demons-kiss.json) |
+| Demon's March | 425775 | [425775-demons-march.json](./425775-demons-march.json) |
 | Demon's Mirror | 152170 | [152170-demons-mirror.json](./152170-demons-mirror.json) |
 | Demon's Nightmare: Ar Ek-Qua Er Seta | 177704 | [177704-demons-nightmare-ar-ek-qua-er-seta.json](./177704-demons-nightmare-ar-ek-qua-er-seta.json) |
 | Demon's Regalia: Colosseum | 296708 | [296708-demons-regalia-colosseum.json](./296708-demons-regalia-colosseum.json) |
@@ -8305,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Waifu | 350870 | [350870-desktop-waifu.json](./350870-desktop-waifu.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
 | Desktop Wooden Fish | 350405 | [350405-desktop-wooden-fish.json](./350405-desktop-wooden-fish.json) |
+| Desktop: Null | 425787 | [425787-desktop-null.json](./425787-desktop-null.json) |
 | Desktopia: A Desktop Village Simulator | 212720 | [212720-desktopia-a-desktop-village-simulator.json](./212720-desktopia-a-desktop-village-simulator.json) |
 | Desktopia: End of the Road | 232453 | [232453-desktopia-end-of-the-road.json](./232453-desktopia-end-of-the-road.json) |
 | Desktoptale | 329657 | [329657-desktoptale.json](./329657-desktoptale.json) |
@@ -13593,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doku's Noodle Empire | 217464 | [217464-dokus-noodle-empire.json](./217464-dokus-noodle-empire.json) |
 | Dokuganryu Masamune | 48525 | [48525-dokuganryu-masamune.json](./48525-dokuganryu-masamune.json) |
 | Dokuro | 17734 | [17734-dokuro.json](./17734-dokuro.json) |
+| Dokuron no Yakata | 425808 | [425808-dokuron-no-yakata.json](./425808-dokuron-no-yakata.json) |
 | Dokutsu Randamu | 384656 | [384656-dokutsu-randamu.json](./384656-dokutsu-randamu.json) |
 | Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
 | Dokyusei: Bangin' Summer | 193074 | [193074-dokyusei-bangin-summer.json](./193074-dokyusei-bangin-summer.json) |
