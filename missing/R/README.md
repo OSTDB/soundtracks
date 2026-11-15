@@ -4437,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Invasion: Tower Defense Blitzkrieg | 64563 | [64563-red-invasion-tower-defense-blitzkrieg.json](./64563-red-invasion-tower-defense-blitzkrieg.json) |
 | Red is Dead | 32020 | [32020-red-is-dead.json](./32020-red-is-dead.json) |
+| Red Is Lava | 420892 | [420892-red-is-lava.json](./420892-red-is-lava.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Jets | 209254 | [209254-red-jets.json](./209254-red-jets.json) |
 | Red Johnson's Chronicles | 21148 | [21148-red-johnsons-chronicles.json](./21148-red-johnsons-chronicles.json) |
