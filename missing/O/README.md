@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Fighting Path | 153095 | [153095-one-piece-fighting-path.json](./153095-one-piece-fighting-path.json) |
 | One Piece: Gear Spirit | 47819 | [47819-one-piece-gear-spirit.json](./47819-one-piece-gear-spirit.json) |
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
+| One Piece: Gigant Battle! 2 - New World | 65688 | [65688-one-piece-gigant-battle-2-new-world.json](./65688-one-piece-gigant-battle-2-new-world.json) |
 | One Piece: Going Baseball - Kaizoku Yakyuu | 49736 | [49736-one-piece-going-baseball-kaizoku-yakyuu.json](./49736-one-piece-going-baseball-kaizoku-yakyuu.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
 | One Piece: Grand Battle | 24266 | [24266-one-piece-grand-battle.json](./24266-one-piece-grand-battle.json) |
@@ -2795,10 +2796,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Grand Battle! 3 | 75752 | [75752-one-piece-grand-battle-3.json](./75752-one-piece-grand-battle-3.json) |
 | One Piece: Grand Cruise | 47292 | [47292-one-piece-grand-cruise.json](./47292-one-piece-grand-cruise.json) |
 | One Piece: Grand Gourmet | 405435 | [405435-one-piece-grand-gourmet.json](./405435-one-piece-grand-gourmet.json) |
+| One Piece: Maboroshi no Grand Line Boukenki! | 65677 | [65677-one-piece-maboroshi-no-grand-line-boukenki.json](./65677-one-piece-maboroshi-no-grand-line-boukenki.json) |
 | One Piece: Maboroshi no Grand Line Boukenki! | 75744 | [75744-one-piece-maboroshi-no-grand-line-boukenki.json](./75744-one-piece-maboroshi-no-grand-line-boukenki.json) |
 | One Piece: Mezase Kaizoku-ou! | 75737 | [75737-one-piece-mezase-kaizoku-ou.json](./75737-one-piece-mezase-kaizoku-ou.json) |
 | One Piece: Mezase Kaizokuou! | 61475 | [61475-one-piece-mezase-kaizokuou.json](./61475-one-piece-mezase-kaizokuou.json) |
 | One Piece: Mezase! King of Berry | 65695 | [65695-one-piece-mezase-king-of-berry.json](./65695-one-piece-mezase-king-of-berry.json) |
+| One Piece: Nanatsu Shima no Daihihou | 65679 | [65679-one-piece-nanatsu-shima-no-daihihou.json](./65679-one-piece-nanatsu-shima-no-daihihou.json) |
 | One Piece: Nanatsu Shima no Daihihou | 75747 | [75747-one-piece-nanatsu-shima-no-daihihou.json](./75747-one-piece-nanatsu-shima-no-daihihou.json) |
 | One Piece: Niji no Shima Densetsu | 65698 | [65698-one-piece-niji-no-shima-densetsu.json](./65698-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Niji no Shima Densetsu | 75741 | [75741-one-piece-niji-no-shima-densetsu.json](./75741-one-piece-niji-no-shima-densetsu.json) |
