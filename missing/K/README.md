@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
 | Kim and Prostitute | 102410 | [102410-kim-and-prostitute.json](./102410-kim-and-prostitute.json) |
+| Kim Jong-Boom | 68179 | [68179-kim-jong-boom.json](./68179-kim-jong-boom.json) |
 | Kim Possible Mission: Improbable | 282357 | [282357-kim-possible-mission-improbable.json](./282357-kim-possible-mission-improbable.json) |
 | Kim Possible: A Sitch in Time - Episode 1: Present | 159199 | [159199-kim-possible-a-sitch-in-time-episode-1-present.json](./159199-kim-possible-a-sitch-in-time-episode-1-present.json) |
 | Kim Possible: A Sitch in Time - Episode 2: Past | 159200 | [159200-kim-possible-a-sitch-in-time-episode-2-past.json](./159200-kim-possible-a-sitch-in-time-episode-2-past.json) |
@@ -6187,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koth | 32330 | [32330-koth.json](./32330-koth.json) |
 | Kotiro | 204152 | [204152-kotiro.json](./204152-kotiro.json) |
 | Koto | 175998 | [175998-koto.json](./175998-koto.json) |
+| Koto Battle: Tengai no Moribito | 67723 | [67723-koto-battle-tengai-no-moribito.json](./67723-koto-battle-tengai-no-moribito.json) |
 | Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
 | Kotoba no Kieta Hi ~Kokoro made Hadaka ni Suru Jun'ai Choukyou~ | 142904 | [142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json](./142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json) |
 | Kotoba no Puzzle Mojipittan Daijiten | 68082 | [68082-kotoba-no-puzzle-mojipittan-daijiten.json](./68082-kotoba-no-puzzle-mojipittan-daijiten.json) |
