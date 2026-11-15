@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Sanctuary | 354982 | [354982-mahjong-sanctuary.json](./354982-mahjong-sanctuary.json) |
 | Mahjong School | 245684 | [245684-mahjong-school.json](./245684-mahjong-school.json) |
 | Mahjong Secrets | 88621 | [88621-mahjong-secrets.json](./88621-mahjong-secrets.json) |
+| Mahjong Sengoku Jidai | 46141 | [46141-mahjong-sengoku-jidai.json](./46141-mahjong-sengoku-jidai.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Senjutsu: Ando Mitsuru Pro no Akuukan Sappou | 383088 | [383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json](./383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json) |
 | Mahjong Sex & Girls | 338479 | [338479-mahjong-sex-and-girls.json](./338479-mahjong-sex-and-girls.json) |
@@ -5930,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Masters of Chess | 29180 | [29180-masters-of-chess.json](./29180-masters-of-chess.json) |
+| Masters of Combat | 46140 | [46140-masters-of-combat.json](./46140-masters-of-combat.json) |
 | Masters Of Conquest | 121930 | [121930-masters-of-conquest.json](./121930-masters-of-conquest.json) |
 | Masters of Fate Bundle: Bio Inc. Redemption & Cultist Simulator: Anthology | 331535 | [331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json](./331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json) |
 | Masters of Madness | 296849 | [296849-masters-of-madness.json](./296849-masters-of-madness.json) |
