@@ -10234,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footage 1985 | 218187 | [218187-footage-1985.json](./218187-footage-1985.json) |
 | Footage of the Battle | 283852 | [283852-footage-of-the-battle.json](./283852-footage-of-the-battle.json) |
 | Football | 115293 | [115293-football.json](./115293-football.json) |
+| Football | 11547 | [11547-football.json](./11547-football.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
 | Football | 171272 | [171272-football.json](./171272-football.json) |
 | Football | 198632 | [198632-football.json](./198632-football.json) |
@@ -13837,6 +13838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
 | Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
+| Frogger 2 | 11483 | [11483-frogger-2.json](./11483-frogger-2.json) |
 | Frogger 2 | 209575 | [209575-frogger-2.json](./209575-frogger-2.json) |
 | Frogger 2 Remake | 335157 | [335157-frogger-2-remake.json](./335157-frogger-2-remake.json) |
 | Frogger 2: Swampy's Revenge | 11466 | [11466-frogger-2-swampys-revenge.json](./11466-frogger-2-swampys-revenge.json) |
@@ -13845,21 +13847,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger Advance: The Great Quest | 6412 | [6412-frogger-advance-the-great-quest.json](./6412-frogger-advance-the-great-quest.json) |
 | Frogger Arcade Game | 96929 | [96929-frogger-arcade-game.json](./96929-frogger-arcade-game.json) |
 | Frogger Beyond | 3922 | [3922-frogger-beyond.json](./3922-frogger-beyond.json) |
+| Frogger Decades | 11476 | [11476-frogger-decades.json](./11476-frogger-decades.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
+| Frogger Free | 11477 | [11477-frogger-free.json](./11477-frogger-free.json) |
 | Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
+| Frogger Hop Trivia | 11472 | [11472-frogger-hop-trivia.json](./11472-frogger-hop-trivia.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
 | Frogger In Toy Town | 117011 | [117011-frogger-in-toy-town.json](./117011-frogger-in-toy-town.json) |
+| Frogger Inferno | 11474 | [11474-frogger-inferno.json](./11474-frogger-inferno.json) |
 | Frogger Pinball | 63920 | [63920-frogger-pinball.json](./63920-frogger-pinball.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Frogger TV Arcade | 220091 | [220091-frogger-tv-arcade.json](./220091-frogger-tv-arcade.json) |
 | Frogger-top: The Tabletop Classic! | 175079 | [175079-frogger-top-the-tabletop-classic.json](./175079-frogger-top-the-tabletop-classic.json) |
 | Frogger: Ancient Shadow | 3924 | [3924-frogger-ancient-shadow.json](./3924-frogger-ancient-shadow.json) |
+| Frogger: Beats n' Bounces | 11473 | [11473-frogger-beats-n-bounces.json](./11473-frogger-beats-n-bounces.json) |
 | Frogger: Helmet Chaos | 11481 | [11481-frogger-helmet-chaos.json](./11481-frogger-helmet-chaos.json) |
+| Frogger: Hyper Arcade Edition | 11478 | [11478-frogger-hyper-arcade-edition.json](./11478-frogger-hyper-arcade-edition.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
 | Frogger: Walkable City | 408851 | [408851-frogger-walkable-city.json](./408851-frogger-walkable-city.json) |
 | Frogger's Adventures 2: The Lost Wand | 11468 | [11468-froggers-adventures-2-the-lost-wand.json](./11468-froggers-adventures-2-the-lost-wand.json) |
 | Frogger's Adventures: Temple of the Frog | 6411 | [6411-froggers-adventures-temple-of-the-frog.json](./6411-froggers-adventures-temple-of-the-frog.json) |
 | Frogger's Adventures: The Rescue | 3923 | [3923-froggers-adventures-the-rescue.json](./3923-froggers-adventures-the-rescue.json) |
+| Frogger's Crackout | 11479 | [11479-froggers-crackout.json](./11479-froggers-crackout.json) |
 | Frogger's Journey: The Forgotten Relic | 11480 | [11480-froggers-journey-the-forgotten-relic.json](./11480-froggers-journey-the-forgotten-relic.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
