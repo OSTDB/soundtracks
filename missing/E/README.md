@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
 | Ecrazeus Castle | 389401 | [389401-ecrazeus-castle.json](./389401-ecrazeus-castle.json) |
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
+| eCribbage | 56067 | [56067-ecribbage.json](./56067-ecribbage.json) |
 | eCrossminton | 116035 | [116035-ecrossminton.json](./116035-ecrossminton.json) |
 | Ecsaform | 140832 | [140832-ecsaform.json](./140832-ecsaform.json) |
 | Ecstasy / Light / Inertia | 256908 | [256908-ecstasy-light-inertia.json](./256908-ecstasy-light-inertia.json) |
@@ -4079,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endgame | 23774 | [23774-endgame.json](./23774-endgame.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endgame of Devil | 259945 | [259945-endgame-of-devil.json](./259945-endgame-of-devil.json) |
+| Endgame Syria | 56102 | [56102-endgame-syria.json](./56102-endgame-syria.json) |
 | Endgame: Road to Salvation | 150319 | [150319-endgame-road-to-salvation.json](./150319-endgame-road-to-salvation.json) |
 | Endgame: Singularity | 92747 | [92747-endgame-singularity.json](./92747-endgame-singularity.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
