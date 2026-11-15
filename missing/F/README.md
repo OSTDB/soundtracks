@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Hero Biography | 119561 | [119561-fantasy-hero-biography.json](./119561-fantasy-hero-biography.json) |
 | Fantasy Hero Manager | 118396 | [118396-fantasy-hero-manager.json](./118396-fantasy-hero-manager.json) |
+| Fantasy Hero: Unsigned Legacy | 36546 | [36546-fantasy-hero-unsigned-legacy.json](./36546-fantasy-hero-unsigned-legacy.json) |
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
 | Fantasy Heroes 2 | 172001 | [172001-fantasy-heroes-2.json](./172001-fantasy-heroes-2.json) |
 | Fantasy Home Design | 109208 | [109208-fantasy-home-design.json](./109208-fantasy-home-design.json) |
@@ -15741,6 +15742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futuretech: Space Combat Academy | 105677 | [105677-futuretech-space-combat-academy.json](./105677-futuretech-space-combat-academy.json) |
 | futureU: The Prep Game for SAT | 59771 | [59771-futureu-the-prep-game-for-sat.json](./59771-futureu-the-prep-game-for-sat.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
+| Futuria | 36580 | [36580-futuria.json](./36580-futuria.json) |
 | Futuridium EP | 88752 | [88752-futuridium-ep.json](./88752-futuridium-ep.json) |
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
 | Futurika Online | 386622 | [386622-futurika-online.json](./386622-futurika-online.json) |
