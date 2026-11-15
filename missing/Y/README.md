@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are standing in a cave... | 57471 | [57471-you-are-standing-in-a-cave.json](./57471-you-are-standing-in-a-cave.json) |
 | You are the Apple of My Eye | 99028 | [99028-you-are-the-apple-of-my-eye.json](./99028-you-are-the-apple-of-my-eye.json) |
 | You Are the Bomb: A Game About Rolling Bombs | 372437 | [372437-you-are-the-bomb-a-game-about-rolling-bombs.json](./372437-you-are-the-bomb-a-game-about-rolling-bombs.json) |
+| You Are the Castle | 66303 | [66303-you-are-the-castle.json](./66303-you-are-the-castle.json) |
 | You Are The Code | 339148 | [339148-you-are-the-code.json](./339148-you-are-the-code.json) |
 | You Are the Dinner | 220733 | [220733-you-are-the-dinner.json](./220733-you-are-the-dinner.json) |
 | You Are the Hero | 362877 | [362877-you-are-the-hero.json](./362877-you-are-the-hero.json) |
