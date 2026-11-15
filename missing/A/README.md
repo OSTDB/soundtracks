@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
 | A Short Odyssey | 294128 | [294128-a-short-odyssey.json](./294128-a-short-odyssey.json) |
+| A Short Sail | 421541 | [421541-a-short-sail.json](./421541-a-short-sail.json) |
 | A Short Tale | 93860 | [93860-a-short-tale.json](./93860-a-short-tale.json) |
 | A Short Tale of Solitude | 169351 | [169351-a-short-tale-of-solitude.json](./169351-a-short-tale-of-solitude.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
@@ -2665,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Lapidary | 411093 | [411093-abyssal-lapidary.json](./411093-abyssal-lapidary.json) |
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
 | Abyssal Merge | 384912 | [384912-abyssal-merge.json](./384912-abyssal-merge.json) |
+| Abyssal Moonlight: Chapter 1 | 421543 | [421543-abyssal-moonlight-chapter-1.json](./421543-abyssal-moonlight-chapter-1.json) |
 | Abyssal Reflections | 288736 | [288736-abyssal-reflections.json](./288736-abyssal-reflections.json) |
 | Abyssal Shade | 337790 | [337790-abyssal-shade.json](./337790-abyssal-shade.json) |
 | Abyssal Soul | 412810 | [412810-abyssal-soul.json](./412810-abyssal-soul.json) |
@@ -6398,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Pressure | 65776 | [65776-air-pressure.json](./65776-air-pressure.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Air Race | 359385 | [359385-air-race.json](./359385-air-race.json) |
+| Air Race Assault | 421641 | [421641-air-race-assault.json](./421641-air-race-assault.json) |
 | Air Race Championship | 143645 | [143645-air-race-championship.json](./143645-air-race-championship.json) |
 | Air Race Speed | 200329 | [200329-air-race-speed.json](./200329-air-race-speed.json) |
 | Air Race Speed | 26663 | [26663-air-race-speed.json](./26663-air-race-speed.json) |
@@ -10770,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
 | Ancient Souls: Starship Renata | 172378 | [172378-ancient-souls-starship-renata.json](./172378-ancient-souls-starship-renata.json) |
 | Ancient Space | 7676 | [7676-ancient-space.json](./7676-ancient-space.json) |
+| Ancient Space Battlecruiser Ragnarok | 421611 | [421611-ancient-space-battlecruiser-ragnarok.json](./421611-ancient-space-battlecruiser-ragnarok.json) |
 | Ancient Spider | 190936 | [190936-ancient-spider.json](./190936-ancient-spider.json) |
 | Ancient Spirits: Columbus' Legacy | 104503 | [104503-ancient-spirits-columbus-legacy.json](./104503-ancient-spirits-columbus-legacy.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
@@ -15859,6 +15863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkansas 2125 | 410031 | [410031-arkansas-2125.json](./410031-arkansas-2125.json) |
 | Arkasha | 86287 | [86287-arkasha.json](./86287-arkasha.json) |
+| Arkatron Adventure | 421612 | [421612-arkatron-adventure.json](./421612-arkatron-adventure.json) |
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
 | ArkCraft: The Rebirth of the World | 312981 | [312981-arkcraft-the-rebirth-of-the-world.json](./312981-arkcraft-the-rebirth-of-the-world.json) |
 | Arkedo Series | 99819 | [99819-arkedo-series.json](./99819-arkedo-series.json) |
