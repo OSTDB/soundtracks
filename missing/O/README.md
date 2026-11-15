@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Silent Night | 376164 | [376164-oh-silent-night.json](./376164-oh-silent-night.json) |
 | Oh Snake! | 182780 | [182780-oh-snake.json](./182780-oh-snake.json) |
 | Oh Snap | 92086 | [92086-oh-snap.json](./92086-oh-snap.json) |
+| Oh Snap! The Photo Charades Game | 64583 | [64583-oh-snap-the-photo-charades-game.json](./64583-oh-snap-the-photo-charades-game.json) |
 | Oh Snow! | 408051 | [408051-oh-snow.json](./408051-oh-snow.json) |
 | Oh So Hero! | 313928 | [313928-oh-so-hero.json](./313928-oh-so-hero.json) |
 | Oh So Lucky! Doctor : A Surgery Soap Opera | 131783 | [131783-oh-so-lucky-doctor-a-surgery-soap-opera.json](./131783-oh-so-lucky-doctor-a-surgery-soap-opera.json) |
