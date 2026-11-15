@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T07:35:56.114Z",
-  "total_soundtracks": 3402,
+  "generated_at": "2026-11-15T07:55:55.741Z",
+  "total_soundtracks": 3403,
   "games": [
     {
       "igdb_id": 292844,
@@ -41359,6 +41359,20 @@
         {
           "album_name": "Voidwrought (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6zR97gOTN6SMMj8xzt2jmx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 96558,
+      "game_name": "Vox Machinae",
+      "game_url": "https://ostdb.net/games/vox-machinae",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ae9ce85eb5566c25c07810c4",
+      "albums": [
+        {
+          "album_name": "Vox Machinae (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5M3QUkfx0ZrNGuVfQLiJfb",
           "apple_music_url": "",
           "album_link_url": ""
         }
