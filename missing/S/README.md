@@ -14650,6 +14650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashzone | 356014 | [356014-slashzone.json](./356014-slashzone.json) |
 | Slask's Adventure | 259921 | [259921-slasks-adventure.json](./259921-slasks-adventure.json) |
 | Slate | 312714 | [312714-slate.json](./312714-slate.json) |
+| Slater & Charlie Go Camping | 50888 | [50888-slater-and-charlie-go-camping.json](./50888-slater-and-charlie-go-camping.json) |
 | Slaugher League | 141529 | [141529-slaugher-league.json](./141529-slaugher-league.json) |
 | Slaughter | 26174 | [26174-slaughter.json](./26174-slaughter.json) |
 | Slaughter | 383031 | [383031-slaughter.json](./383031-slaughter.json) |
@@ -25280,6 +25281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore 2D Creature Creator | 265898 | [265898-spore-2d-creature-creator.json](./265898-spore-2d-creature-creator.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
+| Spore Creature Creator | 50794 | [50794-spore-creature-creator.json](./50794-spore-creature-creator.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
 | Spore Creatures | 127556 | [127556-spore-creatures.json](./127556-spore-creatures.json) |
 | Spore Creatures | 22587 | [22587-spore-creatures.json](./22587-spore-creatures.json) |
@@ -38638,6 +38640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SushiVR | 158910 | [158910-sushivr.json](./158910-sushivr.json) |
 | Susie's Buttons and Baubles | 246536 | [246536-susies-buttons-and-baubles.json](./246536-susies-buttons-and-baubles.json) |
 | Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
+| Suske the Robber | 50784 | [50784-suske-the-robber.json](./50784-suske-the-robber.json) |
 | Suspect | 12625 | [12625-suspect.json](./12625-suspect.json) |
 | Suspect Enemy | 161942 | [161942-suspect-enemy.json](./161942-suspect-enemy.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
