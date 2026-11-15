@@ -23082,6 +23082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Zone | 39977 | [39977-thunder-zone.json](./39977-thunder-zone.json) |
 | Thunder's Leaves | 126736 | [126736-thunders-leaves.json](./126736-thunders-leaves.json) |
 | Thunderax 9K | 213061 | [213061-thunderax-9k.json](./213061-thunderax-9k.json) |
+| Thunderball! | 41552 | [41552-thunderball.json](./41552-thunderball.json) |
 | Thunderballs | 114042 | [114042-thunderballs.json](./114042-thunderballs.json) |
 | Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
@@ -30820,6 +30821,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field | 266663 | [266663-track-and-field.json](./266663-track-and-field.json) |
 | Track & Field | 280482 | [280482-track-and-field.json](./280482-track-and-field.json) |
 | Track & Field | 6439 | [6439-track-and-field.json](./6439-track-and-field.json) |
+| Track & Field 1 | 41659 | [41659-track-and-field-1.json](./41659-track-and-field-1.json) |
+| Track & Field 2 | 41658 | [41658-track-and-field-2.json](./41658-track-and-field-2.json) |
 | Track & Field II | 20903 | [20903-track-and-field-ii.json](./20903-track-and-field-ii.json) |
 | Track & Field in Barcelona | 48893 | [48893-track-and-field-in-barcelona.json](./48893-track-and-field-in-barcelona.json) |
 | Track & Field: Running Type | 218294 | [218294-track-and-field-running-type.json](./218294-track-and-field-running-type.json) |
@@ -33167,6 +33170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquilizer Gun | 61396 | [61396-tranquilizer-gun.json](./61396-tranquilizer-gun.json) |
 | Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
 | Trans Agent X | 239829 | [239829-trans-agent-x.json](./239829-trans-agent-x.json) |
+| Trans American Rally | 41551 | [41551-trans-american-rally.json](./41551-trans-american-rally.json) |
 | Trans Coming Out Simulator 2018 | 176927 | [176927-trans-coming-out-simulator-2018.json](./176927-trans-coming-out-simulator-2018.json) |
 | Trans Goetia | 239529 | [239529-trans-goetia.json](./239529-trans-goetia.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
