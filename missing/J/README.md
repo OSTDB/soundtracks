@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Shot | 285657 | [285657-jelly-shot.json](./285657-jelly-shot.json) |
 | Jelly slice! | 200864 | [200864-jelly-slice.json](./200864-jelly-slice.json) |
 | Jelly Solitaire | 89790 | [89790-jelly-solitaire.json](./89790-jelly-solitaire.json) |
+| Jelly Tots | 28270 | [28270-jelly-tots.json](./28270-jelly-tots.json) |
 | Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
 | Jelly Wants More | 105377 | [105377-jelly-wants-more.json](./105377-jelly-wants-more.json) |
@@ -3087,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Through Memories | 110666 | [110666-journey-through-memories.json](./110666-journey-through-memories.json) |
 | Journey Through the Nightmare Realm II | 347683 | [347683-journey-through-the-nightmare-realm-ii.json](./347683-journey-through-the-nightmare-realm-ii.json) |
 | Journey Through the Undead | 348198 | [348198-journey-through-the-undead.json](./348198-journey-through-the-undead.json) |
+| Journey to Alien Worlds | 28299 | [28299-journey-to-alien-worlds.json](./28299-journey-to-alien-worlds.json) |
 | Journey to Ascension | 388688 | [388688-journey-to-ascension.json](./388688-journey-to-ascension.json) |
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
 | Journey to Candy Mountain | 364234 | [364234-journey-to-candy-mountain.json](./364234-journey-to-candy-mountain.json) |
@@ -4450,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Click the Button | 264738 | [264738-just-click-the-button.json](./264738-just-click-the-button.json) |
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
 | Just Coffee with the Café Guy | 417582 | [417582-just-coffee-with-the-cafe-guy.json](./417582-just-coffee-with-the-cafe-guy.json) |
+| Just Colored | 28117 | [28117-just-colored.json](./28117-just-colored.json) |
 | Just Crow Things | 264321 | [264321-just-crow-things.json](./264321-just-crow-things.json) |
 | Just Dance | 2704 | [2704-just-dance.json](./2704-just-dance.json) |
 | Just Dance 2 | 241440 | [241440-just-dance-2.json](./241440-just-dance-2.json) |
