@@ -3916,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werner Flaschbier | 91939 | [91939-werner-flaschbier.json](./91939-werner-flaschbier.json) |
 | Werner Waffenwerke: Arms Tycoon | 322606 | [322606-werner-waffenwerke-arms-tycoon.json](./322606-werner-waffenwerke-arms-tycoon.json) |
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
+| Werther Quest | 30274 | [30274-werther-quest.json](./30274-werther-quest.json) |
 | Werthit | 342888 | [342888-werthit.json](./342888-werthit.json) |
 | Wes Craven's Principles of Fear | 291017 | [291017-wes-cravens-principles-of-fear.json](./291017-wes-cravens-principles-of-fear.json) |
 | WEscape | 108323 | [108323-wescape.json](./108323-wescape.json) |
@@ -5039,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Silence | 99915 | [99915-whispered-secrets-silence.json](./99915-whispered-secrets-silence.json) |
 | Whispered Secrets: Song of Sorrow - Collector's Edition | 361251 | [361251-whispered-secrets-song-of-sorrow-collectors-edition.json](./361251-whispered-secrets-song-of-sorrow-collectors-edition.json) |
 | Whispered Secrets: The Story of Tideville | 139782 | [139782-whispered-secrets-the-story-of-tideville.json](./139782-whispered-secrets-the-story-of-tideville.json) |
+| Whispered Secrets: The Story of Tideville - Collector's Edition | 30280 | [30280-whispered-secrets-the-story-of-tideville-collectors-edition.json](./30280-whispered-secrets-the-story-of-tideville-collectors-edition.json) |
 | Whispered Secrets: Tying the Knot | 268927 | [268927-whispered-secrets-tying-the-knot.json](./268927-whispered-secrets-tying-the-knot.json) |
 | Whispered Secrets: Tying the Knot - Collector's Edition | 193550 | [193550-whispered-secrets-tying-the-knot-collectors-edition.json](./193550-whispered-secrets-tying-the-knot-collectors-edition.json) |
 | Whispered Stories: Sandman | 175803 | [175803-whispered-stories-sandman.json](./175803-whispered-stories-sandman.json) |
