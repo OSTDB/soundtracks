@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
 | SD Gundam World: Gachapon Senshi 5 - Battle of Universal Century | 48855 | [48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json](./48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json) |
 | SD Gundam: Battle V Gundam | 218241 | [218241-sd-gundam-battle-v-gundam.json](./218241-sd-gundam-battle-v-gundam.json) |
+| SD Gundam: Dimension War | 20791 | [20791-sd-gundam-dimension-war.json](./20791-sd-gundam-dimension-war.json) |
 | SD Gundam: Emotional Jam | 37492 | [37492-sd-gundam-emotional-jam.json](./37492-sd-gundam-emotional-jam.json) |
 | SD Gundam: Final Battle | 218242 | [218242-sd-gundam-final-battle.json](./218242-sd-gundam-final-battle.json) |
 | SD Gundam: Gashapon Senki Episode 1 | 37490 | [37490-sd-gundam-gashapon-senki-episode-1.json](./37490-sd-gundam-gashapon-senki-episode-1.json) |
@@ -7761,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow's Light | 210969 | [210969-shadows-light.json](./210969-shadows-light.json) |
 | Shadowalker | 223007 | [223007-shadowalker.json](./223007-shadowalker.json) |
 | ShadoWave | 212188 | [212188-shadowave.json](./212188-shadowave.json) |
+| Shadowbane | 20473 | [20473-shadowbane.json](./20473-shadowbane.json) |
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
 | Shadowbane: Throne of Oblivion | 66366 | [66366-shadowbane-throne-of-oblivion.json](./66366-shadowbane-throne-of-oblivion.json) |
 | Shadowbender | 143848 | [143848-shadowbender.json](./143848-shadowbender.json) |
@@ -22084,6 +22086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
 | Space Invaders: The Beat Attacker | 64076 | [64076-space-invaders-the-beat-attacker.json](./64076-space-invaders-the-beat-attacker.json) |
 | Space Invaders: The Original Game | 210577 | [210577-space-invaders-the-original-game.json](./210577-space-invaders-the-original-game.json) |
+| Space Invaders: Virtual Collection | 20792 | [20792-space-invaders-virtual-collection.json](./20792-space-invaders-virtual-collection.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
 | Space Invaders: World War | 64069 | [64069-space-invaders-world-war.json](./64069-space-invaders-world-war.json) |
 | Space Invasion | 194252 | [194252-space-invasion.json](./194252-space-invasion.json) |
@@ -31720,6 +31723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
 | Street Warriors Online | 34067 | [34067-street-warriors-online.json](./34067-street-warriors-online.json) |
 | Street Wise: A Teenager's Story | 295760 | [295760-street-wise-a-teenagers-story.json](./295760-street-wise-a-teenagers-story.json) |
+| Street Wrestler | 20721 | [20721-street-wrestler.json](./20721-street-wrestler.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
 | Street's Disciple | 235414 | [235414-streets-disciple.json](./235414-streets-disciple.json) |
 | Streetball 2: On Fire | 256168 | [256168-streetball-2-on-fire.json](./256168-streetball-2-on-fire.json) |
@@ -37250,6 +37254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stardust HD Impact Mode | 140056 | [140056-super-stardust-hd-impact-mode.json](./140056-super-stardust-hd-impact-mode.json) |
 | Super Stardust HD Solo Add-on Pack | 140058 | [140058-super-stardust-hd-solo-add-on-pack.json](./140058-super-stardust-hd-solo-add-on-pack.json) |
 | Super Stardust HD Team Add-on Pack | 140057 | [140057-super-stardust-hd-team-add-on-pack.json](./140057-super-stardust-hd-team-add-on-pack.json) |
+| Super Stardust Portable | 20600 | [20600-super-stardust-portable.json](./20600-super-stardust-portable.json) |
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
 | Super Starfish | 105423 | [105423-super-starfish.json](./105423-super-starfish.json) |
