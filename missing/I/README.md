@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous: Precinct Assault | 374313 | [374313-infamous-precinct-assault.json](./374313-infamous-precinct-assault.json) |
 | Infamous: Second Son - Cole's Legacy | 210087 | [210087-infamous-second-son-coles-legacy.json](./210087-infamous-second-son-coles-legacy.json) |
 | Infamous: Second Son - Collector's Edition | 147293 | [147293-infamous-second-son-collectors-edition.json](./147293-infamous-second-son-collectors-edition.json) |
+| Infamous: Second Son - Limited Edition | 42940 | [42940-infamous-second-son-limited-edition.json](./42940-infamous-second-son-limited-edition.json) |
 | Infamous: Special Edition | 44669 | [44669-infamous-special-edition.json](./44669-infamous-special-edition.json) |
 | Infans Solaris | 54130 | [54130-infans-solaris.json](./54130-infans-solaris.json) |
 | Infanticide | 158541 | [158541-infanticide.json](./158541-infanticide.json) |
@@ -6263,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
 | Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
+| Invizimals: The Resistance | 42687 | [42687-invizimals-the-resistance.json](./42687-invizimals-the-resistance.json) |
 | Invizimals: The Trilogy | 148657 | [148657-invizimals-the-trilogy.json](./148657-invizimals-the-trilogy.json) |
 | Invocation: Ghost Photography | 390057 | [390057-invocation-ghost-photography.json](./390057-invocation-ghost-photography.json) |
 | Invocation: The Festival of Souls | 221084 | [221084-invocation-the-festival-of-souls.json](./221084-invocation-the-festival-of-souls.json) |
