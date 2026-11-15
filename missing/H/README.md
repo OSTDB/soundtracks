@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Qatar | 370432 | [370432-hajwala-qatar.json](./370432-hajwala-qatar.json) |
 | Hakabyou: Kuwabiyau | 108146 | [108146-hakabyou-kuwabiyau.json](./108146-hakabyou-kuwabiyau.json) |
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
+| Hakai-ou: King of Crusher | 65147 | [65147-hakai-ou-king-of-crusher.json](./65147-hakai-ou-king-of-crusher.json) |
 | Håkan Bråkan | 399387 | [399387-hakan-brakan.json](./399387-hakan-brakan.json) |
 | Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiwa Pachinko Graffiti Vol. 2 | 97662 | [97662-heiwa-pachinko-graffiti-vol-2.json](./97662-heiwa-pachinko-graffiti-vol-2.json) |
 | Heiwa Pachinko Soushingeki | 97660 | [97660-heiwa-pachinko-soushingeki.json](./97660-heiwa-pachinko-soushingeki.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
+| Heiwa Parlor! Mini 8: Pachinko Jikki Simulation Game | 66865 | [66865-heiwa-parlor-mini-8-pachinko-jikki-simulation-game.json](./66865-heiwa-parlor-mini-8-pachinko-jikki-simulation-game.json) |
 | Heiwa Parlor! Pro: BunDori King Special | 97658 | [97658-heiwa-parlor-pro-bundori-king-special.json](./97658-heiwa-parlor-pro-bundori-king-special.json) |
 | Heiwa Parlor! Pro: Dolphin Ring Special | 97657 | [97657-heiwa-parlor-pro-dolphin-ring-special.json](./97657-heiwa-parlor-pro-dolphin-ring-special.json) |
 | Heiwa Parlor! Pro: Fujiko ni Omakase Special | 97655 | [97655-heiwa-parlor-pro-fujiko-ni-omakase-special.json](./97655-heiwa-parlor-pro-fujiko-ni-omakase-special.json) |
@@ -5017,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Tamagotchi | 230066 | [230066-hello-kitty-tamagotchi.json](./230066-hello-kitty-tamagotchi.json) |
 | Hello Kitty to Dear Daniel no Dream Adventure | 57558 | [57558-hello-kitty-to-dear-daniel-no-dream-adventure.json](./57558-hello-kitty-to-dear-daniel-no-dream-adventure.json) |
 | Hello Kitty to Issho: Block Crash 1 2 3 | 63041 | [63041-hello-kitty-to-issho-block-crash-1-2-3.json](./63041-hello-kitty-to-issho-block-crash-1-2-3.json) |
+| Hello Kitty to Issho: Block Crash V | 65664 | [65664-hello-kitty-to-issho-block-crash-v.json](./65664-hello-kitty-to-issho-block-crash-v.json) |
 | Hello Kitty to Issho: Block Crash Z | 80708 | [80708-hello-kitty-to-issho-block-crash-z.json](./80708-hello-kitty-to-issho-block-crash-z.json) |
 | Hello Kitty to McDonald de Asobo! | 80707 | [80707-hello-kitty-to-mcdonald-de-asobo.json](./80707-hello-kitty-to-mcdonald-de-asobo.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
@@ -13806,6 +13809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydra | 12152 | [12152-hydra.json](./12152-hydra.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
 | Hydra | 316565 | [316565-hydra.json](./316565-hydra.json) |
+| Hydra Castle Labyrinth | 65135 | [65135-hydra-castle-labyrinth.json](./65135-hydra-castle-labyrinth.json) |
 | Hydra Heli 2 | 390066 | [390066-hydra-heli-2.json](./390066-hydra-heli-2.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
 | Hydra Slayer | 33776 | [33776-hydra-slayer.json](./33776-hydra-slayer.json) |
