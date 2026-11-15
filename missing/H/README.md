@@ -7605,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexvade | 75903 | [75903-hexvade.json](./75903-hexvade.json) |
 | Hexwell | 418573 | [418573-hexwell.json](./418573-hexwell.json) |
 | HexWind | 365690 | [365690-hexwind.json](./365690-hexwind.json) |
+| Hexwood | 422725 | [422725-hexwood.json](./422725-hexwood.json) |
 | Hexworld | 180794 | [180794-hexworld.json](./180794-hexworld.json) |
 | Hexx: Heresy of the Wizard | 2513 | [2513-hexx-heresy-of-the-wizard.json](./2513-hexx-heresy-of-the-wizard.json) |
 | Hexxagon | 14479 | [14479-hexxagon.json](./14479-hexxagon.json) |
