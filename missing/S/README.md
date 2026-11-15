@@ -11891,6 +11891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
+| Silicon Warrior | 24381 | [24381-silicon-warrior.json](./24381-silicon-warrior.json) |
 | Silicon Wasteland | 290834 | [290834-silicon-wasteland.json](./290834-silicon-wasteland.json) |
 | Silicon Zephyr | 258652 | [258652-silicon-zephyr.json](./258652-silicon-zephyr.json) |
 | Silicon Zeroes | 55390 | [55390-silicon-zeroes.json](./55390-silicon-zeroes.json) |
@@ -17164,6 +17165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoggle | 172458 | [172458-snoggle.json](./172458-snoggle.json) |
 | Snoik! | 230729 | [230729-snoik.json](./230729-snoik.json) |
 | Snok | 87132 | [87132-snok.json](./87132-snok.json) |
+| Snokie | 24383 | [24383-snokie.json](./24383-snokie.json) |
 | Snolf 3 & Knolf | 143734 | [143734-snolf-3-and-knolf.json](./143734-snolf-3-and-knolf.json) |
 | Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
 | Snolf Zero: The Prequel | 143735 | [143735-snolf-zero-the-prequel.json](./143735-snolf-zero-the-prequel.json) |
@@ -27124,6 +27126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Raiders | 239518 | [239518-star-raiders.json](./239518-star-raiders.json) |
 | Star Raiders | 25925 | [25925-star-raiders.json](./25925-star-raiders.json) |
 | Star Raiders II | 28713 | [28713-star-raiders-ii.json](./28713-star-raiders-ii.json) |
+| Star Ranger | 24395 | [24395-star-ranger.json](./24395-star-ranger.json) |
 | Star Rangers | 22612 | [22612-star-rangers.json](./22612-star-rangers.json) |
 | Star Rangers | 251860 | [251860-star-rangers.json](./251860-star-rangers.json) |
 | Star Rangers | 70074 | [70074-star-rangers.json](./70074-star-rangers.json) |
@@ -33212,6 +33215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
 | Sugu Suro Duo: New Pulsar R&V | 142693 | [142693-sugu-suro-duo-new-pulsar-r-and-v.json](./142693-sugu-suro-duo-new-pulsar-r-and-v.json) |
 | Suguri | 80489 | [80489-suguri.json](./80489-suguri.json) |
+| Suguri: Perfect Edition | 24337 | [24337-suguri-perfect-edition.json](./24337-suguri-perfect-edition.json) |
 | Suguru Nature | 147617 | [147617-suguru-nature.json](./147617-suguru-nature.json) |
 | Sugy the Christmas elf | 83206 | [83206-sugy-the-christmas-elf.json](./83206-sugy-the-christmas-elf.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
@@ -33692,6 +33696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
 | Sumo Tanks | 266458 | [266458-sumo-tanks.json](./266458-sumo-tanks.json) |
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
+| Sumo Titanium | 24358 | [24358-sumo-titanium.json](./24358-sumo-titanium.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumomo Theatre | 254872 | [254872-sumomo-theatre.json](./254872-sumomo-theatre.json) |
 | Sumomomo Momomo ~Shijou Saikyou no Yome~ Keishou Shimasho!? Koi no Hanamuko Soudatsusen!! | 77556 | [77556-sumomomo-momomo-shijou-saikyou-no-yome-keishou-shimasho-koi-no-hanamuko-soudatsusen.json](./77556-sumomomo-momomo-shijou-saikyou-no-yome-keishou-shimasho-koi-no-hanamuko-soudatsusen.json) |
