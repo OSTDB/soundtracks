@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jantei: Battle Cos-Player | 260905 | [260905-jantei-battle-cos-player.json](./260905-jantei-battle-cos-player.json) |
 | January | 124545 | [124545-january.json](./124545-january.json) |
 | January Uprising: Strategy Game | 397293 | [397293-january-uprising-strategy-game.json](./397293-january-uprising-strategy-game.json) |
+| Janus VR | 29315 | [29315-janus-vr.json](./29315-janus-vr.json) |
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
 | Janyuuki Goku Randa | 44409 | [44409-janyuuki-goku-randa.json](./44409-janyuuki-goku-randa.json) |
 | Japan Food Adventure - Tokyo | 100316 | [100316-japan-food-adventure-tokyo.json](./100316-japan-food-adventure-tokyo.json) |
@@ -4083,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
 | Juniper Burning | 280121 | [280121-juniper-burning.json](./280121-juniper-burning.json) |
 | Juniper Fishing | 404497 | [404497-juniper-fishing.json](./404497-juniper-fishing.json) |
+| Juniper Theory | 30285 | [30285-juniper-theory.json](./30285-juniper-theory.json) |
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
 | Juniper's Knot | 55796 | [55796-junipers-knot.json](./55796-junipers-knot.json) |
 | Junjou de Karen: Meymay Kishi-dan - Spectral Force Seishoujo Gaiden | 61255 | [61255-junjou-de-karen-meymay-kishi-dan-spectral-force-seishoujo-gaiden.json](./61255-junjou-de-karen-meymay-kishi-dan-spectral-force-seishoujo-gaiden.json) |
