@@ -3959,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volt Recharge | 301069 | [301069-volt-recharge.json](./301069-volt-recharge.json) |
 | Volt Snake | 413058 | [413058-volt-snake.json](./413058-volt-snake.json) |
 | Volt Ventures Idle | 361988 | [361988-volt-ventures-idle.json](./361988-volt-ventures-idle.json) |
+| Volt: Battery on the Loose | 61823 | [61823-volt-battery-on-the-loose.json](./61823-volt-battery-on-the-loose.json) |
 | Volta-X | 130525 | [130525-volta-x.json](./130525-volta-x.json) |
 | Voltage | 131193 | [131193-voltage.json](./131193-voltage.json) |
 | Voltage | 88029 | [88029-voltage.json](./88029-voltage.json) |
