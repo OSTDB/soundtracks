@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Soccer '98 | 323620 | [323620-backyard-soccer-98.json](./323620-backyard-soccer-98.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
 | Backyard Soccer: MLS Edition | 69634 | [69634-backyard-soccer-mls-edition.json](./69634-backyard-soccer-mls-edition.json) |
+| Backyard Sports Football 2007 | 6315 | [6315-backyard-sports-football-2007.json](./6315-backyard-sports-football-2007.json) |
 | Backyard Sports Football: Rookie Rush | 47408 | [47408-backyard-sports-football-rookie-rush.json](./47408-backyard-sports-football-rookie-rush.json) |
 | Backyard Sports: Baseball 2007 | 49243 | [49243-backyard-sports-baseball-2007.json](./49243-backyard-sports-baseball-2007.json) |
 | Backyard Sports: Baseball 2007 | 72798 | [72798-backyard-sports-baseball-2007.json](./72798-backyard-sports-baseball-2007.json) |
@@ -3388,8 +3389,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bases Loaded | 242041 | [242041-bases-loaded.json](./242041-bases-loaded.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
 | Bases Loaded '96: Double Header | 46099 | [46099-bases-loaded-96-double-header.json](./46099-bases-loaded-96-double-header.json) |
+| Bases Loaded 3 | 10124 | [10124-bases-loaded-3.json](./10124-bases-loaded-3.json) |
 | Bases Loaded 4 | 10257 | [10257-bases-loaded-4.json](./10257-bases-loaded-4.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
+| Bases Loaded II: Second Season | 10122 | [10122-bases-loaded-ii-second-season.json](./10122-bases-loaded-ii-second-season.json) |
 | Bash Arena | 233450 | [233450-bash-arena.json](./233450-bash-arena.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
 | Bash Land | 61201 | [61201-bash-land.json](./61201-bash-land.json) |
@@ -4954,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles Pirates: HQ | 102666 | [102666-battles-pirates-hq.json](./102666-battles-pirates-hq.json) |
 | BattleSail | 391974 | [391974-battlesail.json](./391974-battlesail.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
+| Battlesheep | 10042 | [10042-battlesheep.json](./10042-battlesheep.json) |
 | Battleship | 154988 | [154988-battleship.json](./154988-battleship.json) |
 | Battleship | 205779 | [205779-battleship.json](./205779-battleship.json) |
 | Battleship | 206249 | [206249-battleship.json](./206249-battleship.json) |
@@ -5055,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestrike: Force of Resistance | 8345 | [8345-battlestrike-force-of-resistance.json](./8345-battlestrike-force-of-resistance.json) |
 | Battlestrike: Shadow of Stalingrad | 27464 | [27464-battlestrike-shadow-of-stalingrad.json](./27464-battlestrike-shadow-of-stalingrad.json) |
 | Battlestrike: The Road to Berlin | 204593 | [204593-battlestrike-the-road-to-berlin.json](./204593-battlestrike-the-road-to-berlin.json) |
+| Battlestrike: The Siege | 10043 | [10043-battlestrike-the-siege.json](./10043-battlestrike-the-siege.json) |
 | Battlestrike: Western and Eastern Front | 205909 | [205909-battlestrike-western-and-eastern-front.json](./205909-battlestrike-western-and-eastern-front.json) |
 | BattleSwarm: Field of Honor | 67707 | [67707-battleswarm-field-of-honor.json](./67707-battleswarm-field-of-honor.json) |
 | BattleSweeper | 92617 | [92617-battlesweeper.json](./92617-battlesweeper.json) |
@@ -8909,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
 | Bimsy Dreams | 183419 | [183419-bimsy-dreams.json](./183419-bimsy-dreams.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
+| Bin Weevils Arty Arcade | 10045 | [10045-bin-weevils-arty-arcade.json](./10045-bin-weevils-arty-arcade.json) |
 | Binairo | 291971 | [291971-binairo.json](./291971-binairo.json) |
 | Binaries | 18207 | [18207-binaries.json](./18207-binaries.json) |
 | Binarion | 242600 | [242600-binarion.json](./242600-binarion.json) |
@@ -9165,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biologger | 151380 | [151380-biologger.json](./151380-biologger.json) |
 | Biologica! | 68775 | [68775-biologica.json](./68775-biologica.json) |
 | Biological Incident | 322622 | [322622-biological-incident.json](./322622-biological-incident.json) |
+| Biology Battle | 10046 | [10046-biology-battle.json](./10046-biology-battle.json) |
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | Bioma | 179945 | [179945-bioma.json](./179945-bioma.json) |
@@ -10770,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blair Witch VR | 164320 | [164320-blair-witch-vr.json](./164320-blair-witch-vr.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
 | Blair Witch: Oculus Quest Edition | 193692 | [193692-blair-witch-oculus-quest-edition.json](./193692-blair-witch-oculus-quest-edition.json) |
+| Blake & Mortimer: The Tables of Babylon | 10051 | [10051-blake-and-mortimer-the-tables-of-babylon.json](./10051-blake-and-mortimer-the-tables-of-babylon.json) |
 | Blake and Mortimer: The Curse of the Thirty Denarii | 89374 | [89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json](./89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json) |
 | Blake Stone: Aliens of Gold | 8489 | [8489-blake-stone-aliens-of-gold.json](./8489-blake-stone-aliens-of-gold.json) |
 | Blake Stone: Planet Strike | 8490 | [8490-blake-stone-planet-strike.json](./8490-blake-stone-planet-strike.json) |
@@ -11542,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
 | Blob Factory | 407300 | [407300-blob-factory.json](./407300-blob-factory.json) |
+| Blob from Space | 10054 | [10054-blob-from-space.json](./10054-blob-from-space.json) |
 | Blob Game | 61772 | [61772-blob-game.json](./61772-blob-game.json) |
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
 | Blob Lander | 149762 | [149762-blob-lander.json](./149762-blob-lander.json) |
@@ -15603,6 +15612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundel | 33230 | [33230-boundel.json](./33230-boundel.json) |
 | Bounden | 61876 | [61876-bounden.json](./61876-bounden.json) |
 | Bounder | 13428 | [13428-bounder.json](./13428-bounder.json) |
+| Bounders and Cads | 10062 | [10062-bounders-and-cads.json](./10062-bounders-and-cads.json) |
 | Boundland | 329511 | [329511-boundland.json](./329511-boundland.json) |
 | Boundless | 14365 | [14365-boundless.json](./14365-boundless.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
@@ -17499,6 +17509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
 | Bridge Hopper | 71918 | [71918-bridge-hopper.json](./71918-bridge-hopper.json) |
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
+| Bridge It | 10064 | [10064-bridge-it.json](./10064-bridge-it.json) |
 | Bridge It + | 30230 | [30230-bridge-it.json](./30230-bridge-it.json) |
 | Bridge Maker | 291398 | [291398-bridge-maker.json](./291398-bridge-maker.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
@@ -19632,6 +19643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
 | Bungee Ferret Tossing | 334421 | [334421-bungee-ferret-tossing.json](./334421-bungee-ferret-tossing.json) |
+| Bungee Jumping Simulator | 10066 | [10066-bungee-jumping-simulator.json](./10066-bungee-jumping-simulator.json) |
 | Bungee Run | 295472 | [295472-bungee-run.json](./295472-bungee-run.json) |
 | Bungee Stickmen+ | 212612 | [212612-bungee-stickmen.json](./212612-bungee-stickmen.json) |
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
@@ -20277,6 +20289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
 | Bus Simulator 18: Official Map Extension | 163354 | [163354-bus-simulator-18-official-map-extension.json](./163354-bus-simulator-18-official-map-extension.json) |
 | Bus Simulator 18: Setra Bus Pack 1 | 224124 | [224124-bus-simulator-18-setra-bus-pack-1.json](./224124-bus-simulator-18-setra-bus-pack-1.json) |
+| Bus Simulator 2 | 10069 | [10069-bus-simulator-2.json](./10069-bus-simulator-2.json) |
 | Bus Simulator 2008 | 83869 | [83869-bus-simulator-2008.json](./83869-bus-simulator-2008.json) |
 | Bus Simulator 2009 | 412381 | [412381-bus-simulator-2009.json](./412381-bus-simulator-2009.json) |
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
