@@ -151,7 +151,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [OPT-OUT]: Uncanny | 153742 | [153742-opt-out-uncanny.json](./153742-opt-out-uncanny.json) |
 | [REC] Desolation | 333760 | [333760-rec-desolation.json](./333760-rec-desolation.json) |
 | [REC] Paroxysm | 302905 | [302905-rec-paroxysm.json](./302905-rec-paroxysm.json) |
-| [Redacted] | 292844 | [292844-redacted.json](./292844-redacted.json) |
 | [Redacted] | 396399 | [396399-redacted.json](./396399-redacted.json) |
 | [Redacted] Techbase | 315736 | [315736-redacted-techbase.json](./315736-redacted-techbase.json) |
 | [Redacted] the Safehouse | 398337 | [398337-redacted-the-safehouse.json](./398337-redacted-the-safehouse.json) |
