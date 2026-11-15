@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Fish: Abyssrium Pole | 223003 | [223003-tap-tap-fish-abyssrium-pole.json](./223003-tap-tap-fish-abyssrium-pole.json) |
 | Tap Tap Glee | 64779 | [64779-tap-tap-glee.json](./64779-tap-tap-glee.json) |
 | Tap Tap Goose | 413077 | [413077-tap-tap-goose.json](./413077-tap-tap-goose.json) |
+| Tap Tap Infinity | 34996 | [34996-tap-tap-infinity.json](./34996-tap-tap-infinity.json) |
 | Tap Tap Loot | 386351 | [386351-tap-tap-loot.json](./386351-tap-tap-loot.json) |
 | Tap Tap Movie | 74829 | [74829-tap-tap-movie.json](./74829-tap-tap-movie.json) |
 | Tap Tap Muppets | 64781 | [64781-tap-tap-muppets.json](./64781-tap-tap-muppets.json) |
@@ -4244,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
 | Temporal Riff | 215864 | [215864-temporal-riff.json](./215864-temporal-riff.json) |
+| Temporal Shift | 34899 | [34899-temporal-shift.json](./34899-temporal-shift.json) |
 | Temporal Shift: Flow of Eternity | 316935 | [316935-temporal-shift-flow-of-eternity.json](./316935-temporal-shift-flow-of-eternity.json) |
 | Temporal Shore | 244016 | [244016-temporal-shore.json](./244016-temporal-shore.json) |
 | Temporal Sprint | 190439 | [190439-temporal-sprint.json](./190439-temporal-sprint.json) |
@@ -9834,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empty Eyes | 385967 | [385967-the-empty-eyes.json](./385967-the-empty-eyes.json) |
 | The Empty Halls | 386809 | [386809-the-empty-halls.json](./386809-the-empty-halls.json) |
 | The Empty House: A Dementia Interactive Experience | 342014 | [342014-the-empty-house-a-dementia-interactive-experience.json](./342014-the-empty-house-a-dementia-interactive-experience.json) |
+| The Empty Inn | 34869 | [34869-the-empty-inn.json](./34869-the-empty-inn.json) |
 | The Empty Kingdom | 102033 | [102033-the-empty-kingdom.json](./102033-the-empty-kingdom.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
 | The Emulator | 113306 | [113306-the-emulator.json](./113306-the-emulator.json) |
@@ -13122,6 +13125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knights of Dice | 184469 | [184469-the-knights-of-dice.json](./184469-the-knights-of-dice.json) |
 | The Knights of the Cross | 394556 | [394556-the-knights-of-the-cross.json](./394556-the-knights-of-the-cross.json) |
 | The Knights Quest | 143467 | [143467-the-knights-quest.json](./143467-the-knights-quest.json) |
+| The Knobbly Crook | 35008 | [35008-the-knobbly-crook.json](./35008-the-knobbly-crook.json) |
 | The Knocker | 416754 | [416754-the-knocker.json](./416754-the-knocker.json) |
 | The Knowledge of Hermit | 272894 | [272894-the-knowledge-of-hermit.json](./272894-the-knowledge-of-hermit.json) |
 | The Koala Brothers: Outback Adventures | 49398 | [49398-the-koala-brothers-outback-adventures.json](./49398-the-koala-brothers-outback-adventures.json) |
@@ -17965,6 +17969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
 | The secret of the stone | 164150 | [164150-the-secret-of-the-stone.json](./164150-the-secret-of-the-stone.json) |
 | The Secret of Timberland | 278361 | [278361-the-secret-of-timberland.json](./278361-the-secret-of-timberland.json) |
+| The Secret of Tremendous Corporation | 34994 | [34994-the-secret-of-tremendous-corporation.json](./34994-the-secret-of-tremendous-corporation.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
 | The Secret of Velmora | 363105 | [363105-the-secret-of-velmora.json](./363105-the-secret-of-velmora.json) |
 | The Secret of Weepstone | 360921 | [360921-the-secret-of-weepstone.json](./360921-the-secret-of-weepstone.json) |
