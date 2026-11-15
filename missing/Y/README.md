@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeetus | 276582 | [276582-yeetus.json](./276582-yeetus.json) |
 | YeGung | 306238 | [306238-yegung.json](./306238-yegung.json) |
 | Yeh Yeh Tennis | 58519 | [58519-yeh-yeh-tennis.json](./58519-yeh-yeh-tennis.json) |
+| Yehuelu Online | 425797 | [425797-yehuelu-online.json](./425797-yehuelu-online.json) |
 | YEKO | 394811 | [394811-yeko.json](./394811-yeko.json) |
 | Yelaxot | 59065 | [59065-yelaxot.json](./59065-yelaxot.json) |
 | Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
 | YIIK: A Postmodern RPG | 30206 | [30206-yiik-a-postmodern-rpg.json](./30206-yiik-a-postmodern-rpg.json) |
 | YIIK: I.V | 228310 | [228310-yiik-i-v.json](./228310-yiik-i-v.json) |
+| Yījǐn Huánxiāng | 425813 | [425813-yijin-huanxiang.json](./425813-yijin-huanxiang.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
 | Yin and Yang | 182608 | [182608-yin-and-yang.json](./182608-yin-and-yang.json) |
 | Yin Peach Blossom | 326935 | [326935-yin-peach-blossom.json](./326935-yin-peach-blossom.json) |
