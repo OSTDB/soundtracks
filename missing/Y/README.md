@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
 | Yagzz! | 343336 | [343336-yagzz.json](./343336-yagzz.json) |
 | Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. | 11741 | [11741-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru.json](./11741-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru.json) |
+| Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. & Zoku Omatome Set | 77499 | [77499-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-and-zoku-omatome-set.json](./77499-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-and-zoku-omatome-set.json) |
 | Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. Kan | 231405 | [231405-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.json](./231405-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.json) |
 | Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. Zoku | 11752 | [11752-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.json](./11752-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.json) |
 | Yahoo Pool | 86051 | [86051-yahoo-pool.json](./86051-yahoo-pool.json) |
@@ -329,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yapori Advance | 392747 | [392747-yapori-advance.json](./392747-yapori-advance.json) |
 | Yapori Dimensões | 420773 | [420773-yapori-dimensoes.json](./420773-yapori-dimensoes.json) |
 | Yapori Minigames | 302772 | [302772-yapori-minigames.json](./302772-yapori-minigames.json) |
+| YAPP: Yet Another Puzzle Platformer | 75273 | [75273-yapp-yet-another-puzzle-platformer.json](./75273-yapp-yet-another-puzzle-platformer.json) |
 | YAPP2: Yet Another Pushing Puzzler 2 | 105195 | [105195-yapp2-yet-another-pushing-puzzler-2.json](./105195-yapp2-yet-another-pushing-puzzler-2.json) |
 | Yappie! Knockout | 256115 | [256115-yappie-knockout.json](./256115-yappie-knockout.json) |
 | Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
