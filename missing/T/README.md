@@ -5560,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrx 360: Eons of Time | 385994 | [385994-tetrx-360-eons-of-time.json](./385994-tetrx-360-eons-of-time.json) |
 | Tetsoidea Eternal | 52074 | [52074-tetsoidea-eternal.json](./52074-tetsoidea-eternal.json) |
 | Tetsu 1: Densha de Battle! | 265849 | [265849-tetsu-1-densha-de-battle.json](./265849-tetsu-1-densha-de-battle.json) |
+| Tetsu Ikuzawa Kanshuu Meisha Retsuden: Greatest 70's | 57833 | [57833-tetsu-ikuzawa-kanshuu-meisha-retsuden-greatest-70s.json](./57833-tetsu-ikuzawa-kanshuu-meisha-retsuden-greatest-70s.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Musume DS: Terminal Memory | 71883 | [71883-tetsudou-musume-ds-terminal-memory.json](./71883-tetsudou-musume-ds-terminal-memory.json) |
 | Tetsudou Nippon! Memorial: JR Tokai KiHa 85 Tokkyuu Nanki-hen | 356242 | [356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json](./356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json) |
@@ -12011,6 +12012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 331052 | [331052-the-house.json](./331052-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
 | The House 2 | 249610 | [249610-the-house-2.json](./249610-the-house-2.json) |
+| The House Abandon | 57860 | [57860-the-house-abandon.json](./57860-the-house-abandon.json) |
 | The House Always Wins | 378526 | [378526-the-house-always-wins.json](./378526-the-house-always-wins.json) |
 | The House Always Wins | 400471 | [400471-the-house-always-wins.json](./400471-the-house-always-wins.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
@@ -20941,6 +20943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Wrath | 117329 | [117329-the-way-of-wrath.json](./117329-the-way-of-wrath.json) |
 | The Way Remastered | 96202 | [96202-the-way-remastered.json](./96202-the-way-remastered.json) |
 | The Way The Gingerbread Cookie Crumbles | 311027 | [311027-the-way-the-gingerbread-cookie-crumbles.json](./311027-the-way-the-gingerbread-cookie-crumbles.json) |
+| The Way Things Work | 57831 | [57831-the-way-things-work.json](./57831-the-way-things-work.json) |
 | The Way to Defeat the Archfiend | 87974 | [87974-the-way-to-defeat-the-archfiend.json](./87974-the-way-to-defeat-the-archfiend.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Way We All Go | 345102 | [345102-the-way-we-all-go.json](./345102-the-way-we-all-go.json) |
