@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
 | RandoJumper | 308148 | [308148-randojumper.json](./308148-randojumper.json) |
+| Random Access Murder | 33598 | [33598-random-access-murder.json](./33598-random-access-murder.json) |
 | Random Access Rememberer | 184697 | [184697-random-access-rememberer.json](./184697-random-access-rememberer.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Blacksmith Game | 157241 | [157241-random-blacksmith-game.json](./157241-random-blacksmith-game.json) |
@@ -14629,6 +14630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RWSD | 352286 | [352286-rwsd.json](./352286-rwsd.json) |
 | RX Racing 2021 Pro | 391934 | [391934-rx-racing-2021-pro.json](./391934-rx-racing-2021-pro.json) |
 | RX Racing 2022 Pro | 386412 | [386412-rx-racing-2022-pro.json](./386412-rx-racing-2022-pro.json) |
+| RX squad | 32310 | [32310-rx-squad.json](./32310-rx-squad.json) |
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
 | Rxcovery | 83358 | [83358-rxcovery.json](./83358-rxcovery.json) |
