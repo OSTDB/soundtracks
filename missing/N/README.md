@@ -2836,7 +2836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Striker | 348305 | [348305-neon-striker.json](./348305-neon-striker.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
 | Neon Struct: Desperation Column | 187444 | [187444-neon-struct-desperation-column.json](./187444-neon-struct-desperation-column.json) |
-| Neon Struct: Die Augen der Welt | 17571 | [17571-neon-struct-die-augen-der-welt.json](./17571-neon-struct-die-augen-der-welt.json) |
 | Neon Sundown | 193421 | [193421-neon-sundown.json](./193421-neon-sundown.json) |
 | Neon Sunset | 412055 | [412055-neon-sunset.json](./412055-neon-sunset.json) |
 | Neon Survivor | 418542 | [418542-neon-survivor.json](./418542-neon-survivor.json) |
@@ -5782,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Saga | 198177 | [198177-ninja-saga.json](./198177-ninja-saga.json) |
 | Ninja Savior | 268496 | [268496-ninja-savior.json](./268496-ninja-savior.json) |
 | Ninja Scarf | 150983 | [150983-ninja-scarf.json](./150983-ninja-scarf.json) |
+| Ninja Scooter Simulator | 71105 | [71105-ninja-scooter-simulator.json](./71105-ninja-scooter-simulator.json) |
 | Ninja Scroller | 181762 | [181762-ninja-scroller.json](./181762-ninja-scroller.json) |
 | Ninja Senki | 92465 | [92465-ninja-senki.json](./92465-ninja-senki.json) |
 | Ninja Senki DX | 20082 | [20082-ninja-senki-dx.json](./20082-ninja-senki-dx.json) |
