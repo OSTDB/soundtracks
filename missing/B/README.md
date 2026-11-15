@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
 | Bad Teeth Doctor | 100376 | [100376-bad-teeth-doctor.json](./100376-bad-teeth-doctor.json) |
+| Bad Thoughts | 68168 | [68168-bad-thoughts.json](./68168-bad-thoughts.json) |
 | Bad Time Bug in Apartment 309 | 378846 | [378846-bad-time-bug-in-apartment-309.json](./378846-bad-time-bug-in-apartment-309.json) |
 | Bad Time Simulator (Sans Fight) | 298723 | [298723-bad-time-simulator-sans-fight.json](./298723-bad-time-simulator-sans-fight.json) |
 | Bad Time Trio | 321532 | [321532-bad-time-trio.json](./321532-bad-time-trio.json) |
@@ -7145,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Jordan: Paranormal Investigator - Case 2: The Lost Galleon of the Salton Sea | 71216 | [71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json](./71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json) |
 | Ben Jordan: Paranormal Investigator - Case 3: The Sorceress of Smailholm | 79117 | [79117-ben-jordan-paranormal-investigator-case-3-the-sorceress-of-smailholm.json](./79117-ben-jordan-paranormal-investigator-case-3-the-sorceress-of-smailholm.json) |
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
+| Ben Jordan: Paranormal Investigator - Case 5: Land of the Rising Dead | 68854 | [68854-ben-jordan-paranormal-investigator-case-5-land-of-the-rising-dead.json](./68854-ben-jordan-paranormal-investigator-case-5-land-of-the-rising-dead.json) |
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
 | Ben Jordan: Paranormal Investigator - Case 8: Relics of the Past | 127125 | [127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json](./127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json) |
 | Ben Jordan: Paranormal Warrior Within - Case 1: Wrath of the Skunk Ape | 69428 | [69428-ben-jordan-paranormal-warrior-within-case-1-wrath-of-the-skunk-ape.json](./69428-ben-jordan-paranormal-warrior-within-case-1-wrath-of-the-skunk-ape.json) |
@@ -10653,6 +10655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of the Righteous | 34026 | [34026-blades-of-the-righteous.json](./34026-blades-of-the-righteous.json) |
 | Blades of the Three Kingdoms: Return | 172544 | [172544-blades-of-the-three-kingdoms-return.json](./172544-blades-of-the-three-kingdoms-return.json) |
 | Blades of Thunder | 49309 | [49309-blades-of-thunder.json](./49309-blades-of-thunder.json) |
+| Blades of Thunder II | 67584 | [67584-blades-of-thunder-ii.json](./67584-blades-of-thunder-ii.json) |
 | Blades of Time: Dismal Swamp | 155038 | [155038-blades-of-time-dismal-swamp.json](./155038-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Dismal Swamp | 170418 | [170418-blades-of-time-dismal-swamp.json](./170418-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
@@ -10807,6 +10810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Off | 46841 | [46841-blast-off.json](./46841-blast-off.json) |
 | Blast Off Far Away | 203910 | [203910-blast-off-far-away.json](./203910-blast-off-far-away.json) |
 | Blast Off! Summer Showdown | 412117 | [412117-blast-off-summer-showdown.json](./412117-blast-off-summer-showdown.json) |
+| Blast Out | 68855 | [68855-blast-out.json](./68855-blast-out.json) |
 | Blast Processed | 350551 | [350551-blast-processed.json](./350551-blast-processed.json) |
 | Blast Pulser | 179121 | [179121-blast-pulser.json](./179121-blast-pulser.json) |
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
@@ -11675,6 +11679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Party | 259985 | [259985-block-party.json](./259985-block-party.json) |
 | Block Party DX! | 349575 | [349575-block-party-dx.json](./349575-block-party-dx.json) |
 | Block Party Sports | 95719 | [95719-block-party-sports.json](./95719-block-party-sports.json) |
+| Block Party: 20 Games | 67585 | [67585-block-party-20-games.json](./67585-block-party-20-games.json) |
 | Block Pieces | 302025 | [302025-block-pieces.json](./302025-block-pieces.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
@@ -12786,6 +12791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
 | Blow Away Survivors | 250507 | [250507-blow-away-survivors.json](./250507-blow-away-survivors.json) |
 | Blow Everything Up | 204654 | [204654-blow-everything-up.json](./204654-blow-everything-up.json) |
+| Blow Everything Up! Net 2007 | 68824 | [68824-blow-everything-up-net-2007.json](./68824-blow-everything-up-net-2007.json) |
 | Blow Fish Music Quiz | 195441 | [195441-blow-fish-music-quiz.json](./195441-blow-fish-music-quiz.json) |
 | Blow Fly2: Overlimit | 291295 | [291295-blow-fly2-overlimit.json](./291295-blow-fly2-overlimit.json) |
 | Blow it up | 150867 | [150867-blow-it-up.json](./150867-blow-it-up.json) |
@@ -19768,6 +19774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Master | 147581 | [147581-burger-master.json](./147581-burger-master.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
+| Burger on Acid | 68829 | [68829-burger-on-acid.json](./68829-burger-on-acid.json) |
 | Burger Paradise International | 65642 | [65642-burger-paradise-international.json](./65642-burger-paradise-international.json) |
 | Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
 | Burger Please! | 245208 | [245208-burger-please.json](./245208-burger-please.json) |
