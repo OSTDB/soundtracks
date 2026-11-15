@@ -8601,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer | 238894 | [238894-destroyer.json](./238894-destroyer.json) |
 | Destroyer | 26410 | [26410-destroyer.json](./26410-destroyer.json) |
 | Destroyer | 312254 | [312254-destroyer.json](./312254-destroyer.json) |
+| Destroyer | 31283 | [31283-destroyer.json](./31283-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destroyer Command | 23456 | [23456-destroyer-command.json](./23456-destroyer-command.json) |
 | Destroyer For Windows | 312840 | [312840-destroyer-for-windows.json](./312840-destroyer-for-windows.json) |
@@ -9891,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die For Metal | 197703 | [197703-die-for-metal.json](./197703-die-for-metal.json) |
 | Die for Pay | 389385 | [389385-die-for-pay.json](./389385-die-for-pay.json) |
 | Die for the Economy! | 325314 | [325314-die-for-the-economy.json](./325314-die-for-the-economy.json) |
+| Die for the Empire | 31126 | [31126-die-for-the-empire.json](./31126-die-for-the-empire.json) |
 | Die For The Lich | 354913 | [354913-die-for-the-lich.json](./354913-die-for-the-lich.json) |
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
