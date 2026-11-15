@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaxxon | 2753 | [2753-zaxxon.json](./2753-zaxxon.json) |
 | Zaxxon | 309341 | [309341-zaxxon.json](./309341-zaxxon.json) |
 | Zaxxon 3-D | 46104 | [46104-zaxxon-3-d.json](./46104-zaxxon-3-d.json) |
+| Zaxxon Escape | 64553 | [64553-zaxxon-escape.json](./64553-zaxxon-escape.json) |
 | Zaxxon's Motherbase 2000 | 19764 | [19764-zaxxons-motherbase-2000.json](./19764-zaxxons-motherbase-2000.json) |
 | Zaya: Rise to the Gods | 383331 | [383331-zaya-rise-to-the-gods.json](./383331-zaya-rise-to-the-gods.json) |
 | Zayed the Leader | 100140 | [100140-zayed-the-leader.json](./100140-zayed-the-leader.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Parkour Runner Plus | 364047 | [364047-zombie-parkour-runner-plus.json](./364047-zombie-parkour-runner-plus.json) |
 | Zombie Party | 258556 | [258556-zombie-party.json](./258556-zombie-party.json) |
 | Zombie Party | 27113 | [27113-zombie-party.json](./27113-zombie-party.json) |
+| Zombie Pets | 64579 | [64579-zombie-pets.json](./64579-zombie-pets.json) |
 | Zombie Pinball | 33114 | [33114-zombie-pinball.json](./33114-zombie-pinball.json) |
 | Zombie Pirate Robot Attack | 175261 | [175261-zombie-pirate-robot-attack.json](./175261-zombie-pirate-robot-attack.json) |
 | Zombie Pirates | 15028 | [15028-zombie-pirates.json](./15028-zombie-pirates.json) |
