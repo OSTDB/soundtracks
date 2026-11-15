@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idols Of Starlight | 357436 | [357436-idols-of-starlight.json](./357436-idols-of-starlight.json) |
 | Idolyaki: From Delinquents to Pop Stars | 173957 | [173957-idolyaki-from-delinquents-to-pop-stars.json](./173957-idolyaki-from-delinquents-to-pop-stars.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
+| Idolzzz | 75269 | [75269-idolzzz.json](./75269-idolzzz.json) |
 | iDork | 91471 | [91471-idork.json](./91471-idork.json) |
 | Idra and the Little Fish | 229637 | [229637-idra-and-the-little-fish.json](./229637-idra-and-the-little-fish.json) |
 | Idrscape | 393237 | [393237-idrscape.json](./393237-idrscape.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Integrated | 323652 | [323652-integrated.json](./323652-integrated.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Integrity | 387500 | [387500-integrity.json](./387500-integrity.json) |
+| Integrity | 75272 | [75272-integrity.json](./75272-integrity.json) |
 | Integuments: Shadow of Shrek | 367700 | [367700-integuments-shadow-of-shrek.json](./367700-integuments-shadow-of-shrek.json) |
 | Intel Discovered | 64470 | [64470-intel-discovered.json](./64470-intel-discovered.json) |
 | Intelektronica | 400468 | [400468-intelektronica.json](./400468-intelektronica.json) |
