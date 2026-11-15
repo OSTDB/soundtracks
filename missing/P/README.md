@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packet.Breach() | 259113 | [259113-packet-breach.json](./259113-packet-breach.json) |
 | Packets, Please! | 180358 | [180358-packets-please.json](./180358-packets-please.json) |
 | PacketStorm | 115868 | [115868-packetstorm.json](./115868-packetstorm.json) |
+| Packfall Chain Arena | 428146 | [428146-packfall-chain-arena.json](./428146-packfall-chain-arena.json) |
 | Packin' | 342180 | [342180-packin.json](./342180-packin.json) |
 | Packing House | 184475 | [184475-packing-house.json](./184475-packing-house.json) |
 | Packing Life | 373318 | [373318-packing-life.json](./373318-packing-life.json) |
@@ -17925,6 +17926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nimbus: Code Mirai | 68315 | [68315-project-nimbus-code-mirai.json](./68315-project-nimbus-code-mirai.json) |
 | Project Nimbus: Complete Edition | 117739 | [117739-project-nimbus-complete-edition.json](./117739-project-nimbus-complete-edition.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
+| Project Nine Tails | 428138 | [428138-project-nine-tails.json](./428138-project-nine-tails.json) |
 | Project Noah | 201892 | [201892-project-noah.json](./201892-project-noah.json) |
 | Project Noah | 223981 | [223981-project-noah.json](./223981-project-noah.json) |
 | Project Nomads | 50245 | [50245-project-nomads.json](./50245-project-nomads.json) |
@@ -20906,6 +20908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles in Otter Space | 381530 | [381530-puzzles-in-otter-space.json](./381530-puzzles-in-otter-space.json) |
 | Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
 | Puzzles of the World | 377645 | [377645-puzzles-of-the-world.json](./377645-puzzles-of-the-world.json) |
+| Puzzles Trees | 428145 | [428145-puzzles-trees.json](./428145-puzzles-trees.json) |
 | Puzzles Under the Hill | 32409 | [32409-puzzles-under-the-hill.json](./32409-puzzles-under-the-hill.json) |
 | Puzzles with Cats | 159551 | [159551-puzzles-with-cats.json](./159551-puzzles-with-cats.json) |
 | Puzzles with Nature | 203795 | [203795-puzzles-with-nature.json](./203795-puzzles-with-nature.json) |
