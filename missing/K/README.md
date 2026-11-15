@@ -2095,6 +2095,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Catch | 182803 | [182803-kero-catch.json](./182803-kero-catch.json) |
 | Kero Kero 7 | 72284 | [72284-kero-kero-7.json](./72284-kero-kero-7.json) |
 | Kero Kero Cowboy | 341144 | [341144-kero-kero-cowboy.json](./341144-kero-kero-cowboy.json) |
+| Kero Kero Keroppi no Daibouken | 48351 | [48351-kero-kero-keroppi-no-daibouken.json](./48351-kero-kero-keroppi-no-daibouken.json) |
+| Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi | 48350 | [48350-kero-kero-keroppi-no-daibouken-2-donuts-ike-ha-oosawagi.json](./48350-kero-kero-keroppi-no-daibouken-2-donuts-ike-ha-oosawagi.json) |
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
 | Kero Kero Keroppi no Mahou no Kuni Densetsu | 230327 | [230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json](./230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json) |
 | Kero Kero Keroppi to Origami no Tabibito | 125960 | [125960-kero-kero-keroppi-to-origami-no-tabibito.json](./125960-kero-kero-keroppi-to-origami-no-tabibito.json) |
