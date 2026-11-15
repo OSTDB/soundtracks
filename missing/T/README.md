@@ -5808,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time in '88 | 181345 | [181345-that-time-in-88.json](./181345-that-time-in-88.json) |
 | That Time My School Was Invaded by Dimensional Snakes and Now I'm Bound to a Multiverse Protector! | 401267 | [401267-that-time-my-school-was-invaded-by-dimensional-snakes-and-now-im-bound-to-a-multiverse-protector.json](./401267-that-time-my-school-was-invaded-by-dimensional-snakes-and-now-im-bound-to-a-multiverse-protector.json) |
 | That Tiny Spaceship | 102351 | [102351-that-tiny-spaceship.json](./102351-that-tiny-spaceship.json) |
+| That Trivia Game | 61825 | [61825-that-trivia-game.json](./61825-that-trivia-game.json) |
 | That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
 | That Way! | 290573 | [290573-that-way.json](./290573-that-way.json) |
 | That Which Binds Us | 102981 | [102981-that-which-binds-us.json](./102981-that-which-binds-us.json) |
@@ -13794,6 +13795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Dark Witch Renovation: Day Stage | 172090 | [172090-the-legend-of-dark-witch-renovation-day-stage.json](./172090-the-legend-of-dark-witch-renovation-day-stage.json) |
 | The Legend of Darkness | 323608 | [323608-the-legend-of-darkness.json](./323608-the-legend-of-darkness.json) |
 | The Legend of Demon-Slaying Heroes | 355213 | [355213-the-legend-of-demon-slaying-heroes.json](./355213-the-legend-of-demon-slaying-heroes.json) |
+| The Legend of Doodle | 61817 | [61817-the-legend-of-doodle.json](./61817-the-legend-of-doodle.json) |
 | The Legend of Doom | 231448 | [231448-the-legend-of-doom.json](./231448-the-legend-of-doom.json) |
 | The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
 | The Legend of Edgar | 124032 | [124032-the-legend-of-edgar.json](./124032-the-legend-of-edgar.json) |
@@ -29256,6 +29258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Battle Tank Tag Combat | 36774 | [36774-touch-battle-tank-tag-combat.json](./36774-touch-battle-tank-tag-combat.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch Darts | 21434 | [21434-touch-darts.json](./21434-touch-darts.json) |
+| Touch de Rakushou! Pachi-Slot Sengen: Rio de Carnival | 62349 | [62349-touch-de-rakushou-pachi-slot-sengen-rio-de-carnival.json](./62349-touch-de-rakushou-pachi-slot-sengen-rio-de-carnival.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
 | Touch Detective | 20578 | [20578-touch-detective.json](./20578-touch-detective.json) |
 | Touch Detective 2 1/2 | 21237 | [21237-touch-detective-2-1-2.json](./21237-touch-detective-2-1-2.json) |
