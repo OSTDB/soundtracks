@@ -4706,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teomim Island | 148134 | [148134-teomim-island.json](./148134-teomim-island.json) |
 | Teon: All Fair Hardcore ARPG | 83271 | [83271-teon-all-fair-hardcore-arpg.json](./83271-teon-all-fair-hardcore-arpg.json) |
+| TEOT: The End OF Tomorrow | 31276 | [31276-teot-the-end-of-tomorrow.json](./31276-teot-the-end-of-tomorrow.json) |
 | Tep the Destroyer | 180000 | [180000-tep-the-destroyer.json](./180000-tep-the-destroyer.json) |
 | Teppen | 120484 | [120484-teppen.json](./120484-teppen.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
@@ -7115,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bell | 120254 | [120254-the-bell.json](./120254-the-bell.json) |
 | The Bell Echoes | 304655 | [304655-the-bell-echoes.json](./304655-the-bell-echoes.json) |
 | The Bell of Time | 303940 | [303940-the-bell-of-time.json](./303940-the-bell-of-time.json) |
+| The Bellows | 31238 | [31238-the-bellows.json](./31238-the-bellows.json) |
 | The Bells | 13392 | [13392-the-bells.json](./13392-the-bells.json) |
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
@@ -16724,6 +16726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Planet Crafter: Toxicity | 373883 | [373883-the-planet-crafter-toxicity.json](./373883-the-planet-crafter-toxicity.json) |
+| The Planet of the Vicious Creatures | 31257 | [31257-the-planet-of-the-vicious-creatures.json](./31257-the-planet-of-the-vicious-creatures.json) |
 | The Planetarian | 377887 | [377887-the-planetarian.json](./377887-the-planetarian.json) |
 | The Planetary Archive | 406744 | [406744-the-planetary-archive.json](./406744-the-planetary-archive.json) |
 | The Planets | 251367 | [251367-the-planets.json](./251367-the-planets.json) |
@@ -19872,6 +19875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower | 288930 | [288930-the-tower.json](./288930-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
 | The Tower | 86462 | [86462-the-tower.json](./86462-the-tower.json) |
+| The Tower - Fantogame | 31231 | [31231-the-tower-fantogame.json](./31231-the-tower-fantogame.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower Assassin's Creed | 97806 | [97806-the-tower-assassins-creed.json](./97806-the-tower-assassins-creed.json) |
 | The Tower at Tortenna | 136552 | [136552-the-tower-at-tortenna.json](./136552-the-tower-at-tortenna.json) |
@@ -30921,6 +30925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks of Triumph Retro Blast | 252889 | [252889-tracks-of-triumph-retro-blast.json](./252889-tracks-of-triumph-retro-blast.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracks of Triumph: Industrial Zone | 32351 | [32351-tracks-of-triumph-industrial-zone.json](./32351-tracks-of-triumph-industrial-zone.json) |
+| Tracks of Triumph: Summertime | 31294 | [31294-tracks-of-triumph-summertime.json](./31294-tracks-of-triumph-summertime.json) |
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
 | Tracks: The Train Set Game - Sci-Fi Pack | 225481 | [225481-tracks-the-train-set-game-sci-fi-pack.json](./225481-tracks-the-train-set-game-sci-fi-pack.json) |
 | Tracks: The Train Set Game - Suburban Pack | 225482 | [225482-tracks-the-train-set-game-suburban-pack.json](./225482-tracks-the-train-set-game-suburban-pack.json) |
