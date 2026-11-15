@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kauil's Treasure | 144567 | [144567-kauils-treasure.json](./144567-kauils-treasure.json) |
 | Kaun Banega Crorepati | 263465 | [263465-kaun-banega-crorepati.json](./263465-kaun-banega-crorepati.json) |
 | Kauna | 344885 | [344885-kauna.json](./344885-kauna.json) |
+| Kautic | 29323 | [29323-kautic.json](./29323-kautic.json) |
 | Kava | 305059 | [305059-kava.json](./305059-kava.json) |
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
@@ -2976,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Klowns From Outer Space: Infernal Tracker - Slappy | 322734 | [322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json](./322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json) |
 | Killer Klowns from Outer Space: The Game | 214411 | [214411-killer-klowns-from-outer-space-the-game.json](./214411-killer-klowns-from-outer-space-the-game.json) |
 | Killer Klowns From Outer Space: The Game - Digital Deluxe Edition | 303285 | [303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json](./303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json) |
+| Killer Klownz | 30268 | [30268-killer-klownz.json](./30268-killer-klownz.json) |
 | Killer Kong | 251149 | [251149-killer-kong.json](./251149-killer-kong.json) |
 | Killer Koobs | 224078 | [224078-killer-koobs.json](./224078-killer-koobs.json) |
 | Killer Loop | 45210 | [45210-killer-loop.json](./45210-killer-loop.json) |
