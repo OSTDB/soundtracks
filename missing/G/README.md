@@ -6888,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
+| Gods of Drifting | 87425 | [87425-gods-of-drifting.json](./87425-gods-of-drifting.json) |
 | Gods of Egypt: Secrets of the Lost Kingdom | 174747 | [174747-gods-of-egypt-secrets-of-the-lost-kingdom.json](./174747-gods-of-egypt-secrets-of-the-lost-kingdom.json) |
 | Gods of Fire | 309483 | [309483-gods-of-fire.json](./309483-gods-of-fire.json) |
 | Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
