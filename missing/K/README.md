@@ -3165,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
 | Kimiheokuru Sora No Hana | 111145 | [111145-kimiheokuru-sora-no-hana.json](./111145-kimiheokuru-sora-no-hana.json) |
 | Kimikare: Shingakki | 222624 | [222624-kimikare-shingakki.json](./222624-kimikare-shingakki.json) |
+| KimiKiss | 70540 | [70540-kimikiss.json](./70540-kimikiss.json) |
 | KimiKiss: Chotto Matome Gekijou | 411517 | [411517-kimikiss-chotto-matome-gekijou.json](./411517-kimikiss-chotto-matome-gekijou.json) |
 | KimiKiss: Chotto Omake Gekijou | 411521 | [411521-kimikiss-chotto-omake-gekijou.json](./411521-kimikiss-chotto-omake-gekijou.json) |
 | KimiMuzi: The Merciless Queen of the Pigs | 381774 | [381774-kimimuzi-the-merciless-queen-of-the-pigs.json](./381774-kimimuzi-the-merciless-queen-of-the-pigs.json) |
@@ -5321,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout Daddy | 128958 | [128958-knockout-daddy.json](./128958-knockout-daddy.json) |
 | Knockout Home Fitness | 153507 | [153507-knockout-home-fitness.json](./153507-knockout-home-fitness.json) |
 | Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
+| Knockout Kings | 71110 | [71110-knockout-kings.json](./71110-knockout-kings.json) |
 | Knockout Kings 2000 | 10687 | [10687-knockout-kings-2000.json](./10687-knockout-kings-2000.json) |
 | Knockout Kings 2001 | 44747 | [44747-knockout-kings-2001.json](./44747-knockout-kings-2001.json) |
 | Knockout Kings 2002 | 23462 | [23462-knockout-kings-2002.json](./23462-knockout-kings-2002.json) |
@@ -5731,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koma | 266883 | [266883-koma.json](./266883-koma.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
+| Komando II | 72225 | [72225-komando-ii.json](./72225-komando-ii.json) |
 | Komatta Shain-chan Kaisha Aru Aru Yutori Satori Z na Illustration Quiz | 233936 | [233936-komatta-shain-chan-kaisha-aru-aru-yutori-satori-z-na-illustration-quiz.json](./233936-komatta-shain-chan-kaisha-aru-aru-yutori-satori-z-na-illustration-quiz.json) |
 | Komayama Kiri ha Zenbu Yari ni Iku | 404250 | [404250-komayama-kiri-ha-zenbu-yari-ni-iku.json](./404250-komayama-kiri-ha-zenbu-yari-ni-iku.json) |
 | Kombat Fighters: King of the Kards | 390567 | [390567-kombat-fighters-king-of-the-kards.json](./390567-kombat-fighters-king-of-the-kards.json) |
