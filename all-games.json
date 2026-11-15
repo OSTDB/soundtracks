@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T07:25:53.700Z",
-  "total_soundtracks": 3401,
+  "generated_at": "2026-11-15T07:35:56.114Z",
+  "total_soundtracks": 3402,
   "games": [
     {
       "igdb_id": 292844,
@@ -31707,6 +31707,20 @@
         {
           "album_name": "Sins of a Solar Empire: Rebellion Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7xuAvuOZH36yFfosvVy6wM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 100422,
+      "game_name": "Siralim 3",
+      "game_url": "https://ostdb.net/games/siralim-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734fec97327780a2bea64b0311",
+      "albums": [
+        {
+          "album_name": "Siralim 3 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Eumo54vpYGw6RMpp7qeV4",
           "apple_music_url": "",
           "album_link_url": ""
         }
