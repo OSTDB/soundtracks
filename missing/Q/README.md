@@ -93,7 +93,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QB-3 | 258812 | [258812-qb-3.json](./258812-qb-3.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | QBeez 2 | 304318 | [304318-qbeez-2.json](./304318-qbeez-2.json) |
-| Qbeh-1: The Atlas Cube | 10746 | [10746-qbeh-1-the-atlas-cube.json](./10746-qbeh-1-the-atlas-cube.json) |
 | Qbics Paint | 36755 | [36755-qbics-paint.json](./36755-qbics-paint.json) |
 | Qbik | 75761 | [75761-qbik.json](./75761-qbik.json) |
 | Qbike | 28869 | [28869-qbike.json](./28869-qbike.json) |
@@ -897,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for Conquest | 123728 | [123728-quest-for-conquest.json](./123728-quest-for-conquest.json) |
 | Quest For Corgi Butts | 328050 | [328050-quest-for-corgi-butts.json](./328050-quest-for-corgi-butts.json) |
 | Quest for Eclair | 311322 | [311322-quest-for-eclair.json](./311322-quest-for-eclair.json) |
+| Quest for Fame | 72208 | [72208-quest-for-fame.json](./72208-quest-for-fame.json) |
 | Quest For Fame | 209748 | [209748-quest-for-fame.json](./209748-quest-for-fame.json) |
 | Quest For Glory Anthology | 209747 | [209747-quest-for-glory-anthology.json](./209747-quest-for-glory-anthology.json) |
 | Quest for Glory Collection | 32009 | [32009-quest-for-glory-collection.json](./32009-quest-for-glory-collection.json) |
@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Master | 252350 | [252350-quest-master.json](./252350-quest-master.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest Master's Realm: Land of the Phoenix | 317077 | [317077-quest-masters-realm-land-of-the-phoenix.json](./317077-quest-masters-realm-land-of-the-phoenix.json) |
+| Quest of D | 65686 | [65686-quest-of-d.json](./65686-quest-of-d.json) |
 | Quest of Dungeloria | 293057 | [293057-quest-of-dungeloria.json](./293057-quest-of-dungeloria.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
 | Quest of Dungeons | 414880 | [414880-quest-of-dungeons.json](./414880-quest-of-dungeons.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Movie! | 232112 | [232112-quiz-movie.json](./232112-quiz-movie.json) |
 | Quiz Nana-iro Dreams | 70655 | [70655-quiz-nana-iro-dreams.json](./70655-quiz-nana-iro-dreams.json) |
 | Quiz Night Tonight! | 30719 | [30719-quiz-night-tonight.json](./30719-quiz-night-tonight.json) |
+| Quiz Nihon Mukashi Banashi: Athena no Hatena | 65139 | [65139-quiz-nihon-mukashi-banashi-athena-no-hatena.json](./65139-quiz-nihon-mukashi-banashi-athena-no-hatena.json) |
 | Quiz Parampaa | 275528 | [275528-quiz-parampaa.json](./275528-quiz-parampaa.json) |
 | Quiz Party | 84835 | [84835-quiz-party.json](./84835-quiz-party.json) |
 | Quiz Planet | 317007 | [317007-quiz-planet.json](./317007-quiz-planet.json) |
