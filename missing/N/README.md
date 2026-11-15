@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
 | Neo Atlas 2 | 166365 | [166365-neo-atlas-2.json](./166365-neo-atlas-2.json) |
 | Neo Atlas 3 | 166366 | [166366-neo-atlas-3.json](./166366-neo-atlas-3.json) |
+| Neo Baccarat | 47605 | [47605-neo-baccarat.json](./47605-neo-baccarat.json) |
 | Neo Bananas | 423957 | [423957-neo-bananas.json](./423957-neo-bananas.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Bomberman | 39463 | [39463-neo-bomberman.json](./39463-neo-bomberman.json) |
@@ -2469,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Contra | 20208 | [20208-neo-contra.json](./20208-neo-contra.json) |
 | Neo Dance | 265488 | [265488-neo-dance.json](./265488-neo-dance.json) |
 | Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
+| Neo Dragon's Wild | 47606 | [47606-neo-dragons-wild.json](./47606-neo-dragons-wild.json) |
 | Neo Drift Out: New Technology | 39600 | [39600-neo-drift-out-new-technology.json](./39600-neo-drift-out-new-technology.json) |
 | Neo Geo Arcade 2 | 371539 | [371539-neo-geo-arcade-2.json](./371539-neo-geo-arcade-2.json) |
 | Neo Geo Arcade 3 | 371540 | [371540-neo-geo-arcade-3.json](./371540-neo-geo-arcade-3.json) |
@@ -2513,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Turf Masters | 20323 | [20323-neo-turf-masters.json](./20323-neo-turf-masters.json) |
 | Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
+| Neo Twenty One | 47607 | [47607-neo-twenty-one.json](./47607-neo-twenty-one.json) |
 | Neo Utopia Project | 228858 | [228858-neo-utopia-project.json](./228858-neo-utopia-project.json) |
 | Neo XYX | 45814 | [45814-neo-xyx.json](./45814-neo-xyx.json) |
 | Neo-Brutalism of Tomorrow | 176644 | [176644-neo-brutalism-of-tomorrow.json](./176644-neo-brutalism-of-tomorrow.json) |
@@ -3506,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New 3D Golf Simulation: Eight Lakes G.C. | 97292 | [97292-new-3d-golf-simulation-eight-lakes-g-c.json](./97292-new-3d-golf-simulation-eight-lakes-g-c.json) |
 | New 3D Golf Simulation: Harukanaru Augusta | 45746 | [45746-new-3d-golf-simulation-harukanaru-augusta.json](./45746-new-3d-golf-simulation-harukanaru-augusta.json) |
 | New 3D Golf Simulation: T&E Selection | 97291 | [97291-new-3d-golf-simulation-t-and-e-selection.json](./97291-new-3d-golf-simulation-t-and-e-selection.json) |
+| New 3D Golf Simulation: Waialae no Kiseki | 46161 | [46161-new-3d-golf-simulation-waialae-no-kiseki.json](./46161-new-3d-golf-simulation-waialae-no-kiseki.json) |
 | New Active Object | 326002 | [326002-new-active-object.json](./326002-new-active-object.json) |
 | New Adam & Eve | 47544 | [47544-new-adam-and-eve.json](./47544-new-adam-and-eve.json) |
 | New Adult Reality | 113457 | [113457-new-adult-reality.json](./113457-new-adult-reality.json) |
@@ -4111,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Football | 64743 | [64743-nfl-football.json](./64743-nfl-football.json) |
 | NFL Football | 78935 | [78935-nfl-football.json](./78935-nfl-football.json) |
 | NFL Football | 78936 | [78936-nfl-football.json](./78936-nfl-football.json) |
+| NFL Football '94 Starring Joe Montana | 46268 | [46268-nfl-football-94-starring-joe-montana.json](./46268-nfl-football-94-starring-joe-montana.json) |
 | NFL Football Trivia Challenge | 46414 | [46414-nfl-football-trivia-challenge.json](./46414-nfl-football-trivia-challenge.json) |
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
 | NFL Full Contact | 43708 | [43708-nfl-full-contact.json](./43708-nfl-full-contact.json) |
@@ -4154,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Retro Bowl '26 | 362065 | [362065-nfl-retro-bowl-26.json](./362065-nfl-retro-bowl-26.json) |
 | NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
 | NFL Rush Zone | 230392 | [230392-nfl-rush-zone.json](./230392-nfl-rush-zone.json) |
+| NFL Sports Talk Football '93 | 46267 | [46267-nfl-sports-talk-football-93.json](./46267-nfl-sports-talk-football-93.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | NFL Street | 4041 | [4041-nfl-street.json](./4041-nfl-street.json) |
 | NFL Street 2 | 4042 | [4042-nfl-street-2.json](./4042-nfl-street-2.json) |
@@ -5038,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Castle | 229428 | [229428-nightmare-castle.json](./229428-nightmare-castle.json) |
 | Nightmare Cave | 121964 | [121964-nightmare-cave.json](./121964-nightmare-cave.json) |
 | Nightmare Circus | 327111 | [327111-nightmare-circus.json](./327111-nightmare-circus.json) |
+| Nightmare Circus | 46177 | [46177-nightmare-circus.json](./46177-nightmare-circus.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
