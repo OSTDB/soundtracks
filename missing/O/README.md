@@ -5008,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
 | Otaku no Omocha in Acolyte | 97489 | [97489-otaku-no-omocha-in-acolyte.json](./97489-otaku-no-omocha-in-acolyte.json) |
 | Otaku no Omocha in High Priest | 108944 | [108944-otaku-no-omocha-in-high-priest.json](./108944-otaku-no-omocha-in-high-priest.json) |
+| Otaku no Seiza: An Adventure in the Otaku Galaxy | 48345 | [48345-otaku-no-seiza-an-adventure-in-the-otaku-galaxy.json](./48345-otaku-no-seiza-an-adventure-in-the-otaku-galaxy.json) |
 | Otaku Puzzle | 367624 | [367624-otaku-puzzle.json](./367624-otaku-puzzle.json) |
 | Otaku Puzzle! | 268044 | [268044-otaku-puzzle.json](./268044-otaku-puzzle.json) |
 | Otaku Simulator | 304069 | [304069-otaku-simulator.json](./304069-otaku-simulator.json) |
