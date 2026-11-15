@@ -4800,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klocki | 20472 | [20472-klocki.json](./20472-klocki.json) |
 | Kloinks! | 335051 | [335051-kloinks.json](./335051-kloinks.json) |
 | Klomanager: Regurgitated | 195974 | [195974-klomanager-regurgitated.json](./195974-klomanager-regurgitated.json) |
+| Klomanager: Spül mir das Lied vom Kot | 69979 | [69979-klomanager-spul-mir-das-lied-vom-kot.json](./69979-klomanager-spul-mir-das-lied-vom-kot.json) |
 | Klondike | 131071 | [131071-klondike.json](./131071-klondike.json) |
 | Klondike | 14503 | [14503-klondike.json](./14503-klondike.json) |
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
