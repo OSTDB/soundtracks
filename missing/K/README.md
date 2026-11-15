@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabe wo Norikoete | 206562 | [206562-kabe-wo-norikoete.json](./206562-kabe-wo-norikoete.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kabenaguri | 367724 | [367724-kabenaguri.json](./367724-kabenaguri.json) |
+| Kabi-Island: Gold in Island | 62340 | [62340-kabi-island-gold-in-island.json](./62340-kabi-island-gold-in-island.json) |
 | Kabitis | 32615 | [32615-kabitis.json](./32615-kabitis.json) |
 | Kabitis 2 | 122041 | [122041-kabitis-2.json](./122041-kabitis-2.json) |
 | Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
@@ -5858,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
 | Kong | 228270 | [228270-kong.json](./228270-kong.json) |
 | Kong | 275224 | [275224-kong.json](./275224-kong.json) |
+| Kong | 62338 | [62338-kong.json](./62338-kong.json) |
 | Kong Adventure | 108228 | [108228-kong-adventure.json](./108228-kong-adventure.json) |
 | Kong Attacks | 209822 | [209822-kong-attacks.json](./209822-kong-attacks.json) |
 | Kong Hero | 231826 | [231826-kong-hero.json](./231826-kong-hero.json) |
@@ -6423,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
 | Krazy Kobra | 94620 | [94620-krazy-kobra.json](./94620-krazy-kobra.json) |
+| Krazy Kong | 62336 | [62336-krazy-kong.json](./62336-krazy-kong.json) |
 | Krazy Kreatures | 10503 | [10503-krazy-kreatures.json](./10503-krazy-kreatures.json) |
 | Kreatives Gehirntraining | 92003 | [92003-kreatives-gehirntraining.json](./92003-kreatives-gehirntraining.json) |
 | Kreatur Bout | 391825 | [391825-kreatur-bout.json](./391825-kreatur-bout.json) |
