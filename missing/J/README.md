@@ -3726,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpdrive | 36361 | [36361-jumpdrive.json](./36361-jumpdrive.json) |
 | Jumper | 182368 | [182368-jumper.json](./182368-jumper.json) |
 | Jumper | 205099 | [205099-jumper.json](./205099-jumper.json) |
+| Jumper | 43578 | [43578-jumper.json](./43578-jumper.json) |
 | Jumper 2B | 110257 | [110257-jumper-2b.json](./110257-jumper-2b.json) |
 | Jumper Jape | 26156 | [26156-jumper-jape.json](./26156-jumper-jape.json) |
 | Jumper Jon | 95547 | [95547-jumper-jon.json](./95547-jumper-jon.json) |
