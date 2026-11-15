@@ -10102,6 +10102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shole Soccer | 421860 | [421860-shole-soccer.json](./421860-shole-soccer.json) |
 | Shonen Adventure: The Dual Blades Hero | 164859 | [164859-shonen-adventure-the-dual-blades-hero.json](./164859-shonen-adventure-the-dual-blades-hero.json) |
 | Shonen Idle | 101908 | [101908-shonen-idle.json](./101908-shonen-idle.json) |
+| Shonen Idle Z | 32320 | [32320-shonen-idle-z.json](./32320-shonen-idle-z.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
 | Shonen Jump's Shaman King: Master of Spirits 2 | 6591 | [6591-shonen-jumps-shaman-king-master-of-spirits-2.json](./6591-shonen-jumps-shaman-king-master-of-spirits-2.json) |
 | Shong | 223285 | [223285-shong.json](./223285-shong.json) |
@@ -17777,6 +17778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Love | 108786 | [108786-soccer-love.json](./108786-soccer-love.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
 | Soccer Manager | 282639 | [282639-soccer-manager.json](./282639-soccer-manager.json) |
+| Soccer Manager | 33584 | [33584-soccer-manager.json](./33584-soccer-manager.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
@@ -23932,6 +23934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
 | Spellrune: Realm of Portals | 107697 | [107697-spellrune-realm-of-portals.json](./107697-spellrune-realm-of-portals.json) |
+| Spells 'n' Stuff | 33365 | [33365-spells-n-stuff.json](./33365-spells-n-stuff.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells & Secrets + Stranded Sails | 336047 | [336047-spells-and-secrets-stranded-sails.json](./336047-spells-and-secrets-stranded-sails.json) |
 | Spells and Fellas | 223049 | [223049-spells-and-fellas.json](./223049-spells-and-fellas.json) |
@@ -24873,6 +24876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash | 384564 | [384564-splash.json](./384564-splash.json) |
 | Splash | 94289 | [94289-splash.json](./94289-splash.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
+| Splash Bash | 32309 | [32309-splash-bash.json](./32309-splash-bash.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Blast Panic | 31996 | [31996-splash-blast-panic.json](./31996-splash-blast-panic.json) |
 | Splash Carnival | 290210 | [290210-splash-carnival.json](./290210-splash-carnival.json) |
@@ -25700,6 +25704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint RPG | 119430 | [119430-sprint-rpg.json](./119430-sprint-rpg.json) |
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
 | Sprint.Fire | 235655 | [235655-sprint-fire.json](./235655-sprint-fire.json) |
+| Sprinter | 33543 | [33543-sprinter.json](./33543-sprinter.json) |
 | Sprinter Monogatari: Mezase!! Ikkaku Senkin | 37849 | [37849-sprinter-monogatari-mezase-ikkaku-senkin.json](./37849-sprinter-monogatari-mezase-ikkaku-senkin.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
@@ -31627,6 +31632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All - The 70s Bundle | 225945 | [225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json](./225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json) |
 | Street Outlaws: The List | 122442 | [122442-street-outlaws-the-list.json](./122442-street-outlaws-the-list.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
+| Street Posse Showdown | 33589 | [33589-street-posse-showdown.json](./33589-street-posse-showdown.json) |
 | Street Power Football | 134708 | [134708-street-power-football.json](./134708-street-power-football.json) |
 | Street Pursuit | 266174 | [266174-street-pursuit.json](./266174-street-pursuit.json) |
 | Street Race Kings | 296328 | [296328-street-race-kings.json](./296328-street-race-kings.json) |
@@ -31854,6 +31860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Remastered | 110447 | [110447-strike-force-remastered.json](./110447-strike-force-remastered.json) |
 | Strike Force: Arctic Storm | 31352 | [31352-strike-force-arctic-storm.json](./31352-strike-force-arctic-storm.json) |
 | Strike Force: Cobra | 36670 | [36670-strike-force-cobra.json](./36670-strike-force-cobra.json) |
+| Strike Force: Desert Thunder | 33531 | [33531-strike-force-desert-thunder.json](./33531-strike-force-desert-thunder.json) |
 | Strike Force: Dragon VIP | 97208 | [97208-strike-force-dragon-vip.json](./97208-strike-force-dragon-vip.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
 | Strike Master Apocalypse | 127507 | [127507-strike-master-apocalypse.json](./127507-strike-master-apocalypse.json) |
@@ -35286,6 +35293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
 | Super Kit: To the Top | 207643 | [207643-super-kit-to-the-top.json](./207643-super-kit-to-the-top.json) |
 | Super Kittens | 138489 | [138489-super-kittens.json](./138489-super-kittens.json) |
+| Super Kitty Boing Boing | 33567 | [33567-super-kitty-boing-boing.json](./33567-super-kitty-boing-boing.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
 | Super Knight World | 293882 | [293882-super-knight-world.json](./293882-super-knight-world.json) |
