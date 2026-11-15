@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Clash | 77438 | [77438-war-clash.json](./77438-war-clash.json) |
 | War Clicks | 112427 | [112427-war-clicks.json](./112427-war-clicks.json) |
 | War Commander | 202434 | [202434-war-commander.json](./202434-war-commander.json) |
+| War Commander | 54605 | [54605-war-commander.json](./54605-war-commander.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
 | War Cube | 31342 | [31342-war-cube.json](./31342-war-cube.json) |
 | War Diary | 2620 | [2620-war-diary.json](./2620-war-diary.json) |
