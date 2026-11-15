@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | Fastest Gun in the West | 177664 | [177664-fastest-gun-in-the-west.json](./177664-fastest-gun-in-the-west.json) |
 | Fastest Hands in the Wasd | 167922 | [167922-fastest-hands-in-the-wasd.json](./167922-fastest-hands-in-the-wasd.json) |
+| Fastest Lap | 48944 | [48944-fastest-lap.json](./48944-fastest-lap.json) |
 | Fastest on the Buzzer | 254630 | [254630-fastest-on-the-buzzer.json](./254630-fastest-on-the-buzzer.json) |
 | Fastest on the Buzzer | 256025 | [256025-fastest-on-the-buzzer.json](./256025-fastest-on-the-buzzer.json) |
 | FastFly | 349895 | [349895-fastfly.json](./349895-fastfly.json) |
@@ -6632,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Guardian | 277780 | [277780-fire-guardian.json](./277780-fire-guardian.json) |
 | Fire Guild | 143978 | [143978-fire-guild.json](./143978-fire-guild.json) |
 | Fire Hawk | 40135 | [40135-fire-hawk.json](./40135-fire-hawk.json) |
+| Fire Hawk: Thexder - The Second Contact | 50193 | [50193-fire-hawk-thexder-the-second-contact.json](./50193-fire-hawk-thexder-the-second-contact.json) |
 | Fire Heat | 201976 | [201976-fire-heat.json](./201976-fire-heat.json) |
 | Fire Hero: Pixel Rescue | 332967 | [332967-fire-hero-pixel-rescue.json](./332967-fire-hero-pixel-rescue.json) |
 | Fire Hoops | 94413 | [94413-fire-hoops.json](./94413-fire-hoops.json) |
@@ -8636,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicker | 348871 | [348871-flicker.json](./348871-flicker.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
 | Flicker of Hope | 138345 | [138345-flicker-of-hope.json](./138345-flicker-of-hope.json) |
+| Flickers | 50200 | [50200-flickers.json](./50200-flickers.json) |
 | Flicklash | 259540 | [259540-flicklash.json](./259540-flicklash.json) |
 | Flickle | 383393 | [383393-flickle.json](./383393-flickle.json) |
 | FlickSync - Mad Hatter VR | 95260 | [95260-flicksync-mad-hatter-vr.json](./95260-flicksync-mad-hatter-vr.json) |
