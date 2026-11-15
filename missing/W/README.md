@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Zone | 421413 | [421413-war-zone.json](./421413-war-zone.json) |
 | War Zone II | 421414 | [421414-war-zone-ii.json](./421414-war-zone-ii.json) |
 | War Zone Soldier: Battle Royale Shooter | 273303 | [273303-war-zone-soldier-battle-royale-shooter.json](./273303-war-zone-soldier-battle-royale-shooter.json) |
+| War-Copter | 36564 | [36564-war-copter.json](./36564-war-copter.json) |
 | War-Gene | 156776 | [156776-war-gene.json](./156776-war-gene.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War-Torn Dreams | 132983 | [132983-war-torn-dreams.json](./132983-war-torn-dreams.json) |
@@ -2358,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarShape | 338396 | [338396-warshape.json](./338396-warshape.json) |
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
+| Warship | 36590 | [36590-warship.json](./36590-warship.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | WarShip | 278001 | [278001-warship.json](./278001-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
