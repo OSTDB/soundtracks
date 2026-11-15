@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
 | Kawasaki Quad Bikes | 4951 | [4951-kawasaki-quad-bikes.json](./4951-kawasaki-quad-bikes.json) |
 | Kawasaki Snowmobiles | 4952 | [4952-kawasaki-snowmobiles.json](./4952-kawasaki-snowmobiles.json) |
+| Kawasaki Superbike Challenge | 27071 | [27071-kawasaki-superbike-challenge.json](./27071-kawasaki-superbike-challenge.json) |
 | Kawasaki Superbike Challenge | 46540 | [46540-kawasaki-superbike-challenge.json](./46540-kawasaki-superbike-challenge.json) |
 | Kawatare | 255450 | [255450-kawatare.json](./255450-kawatare.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
@@ -2710,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kijin-mura no Kiken na Inshuu: Dangerous Village Tradition | 270782 | [270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json](./270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json) |
 | Kijutsu Rider | 331639 | [331639-kijutsu-rider.json](./331639-kijutsu-rider.json) |
 | Kika & Daigo: A Curious Tale | 128111 | [128111-kika-and-daigo-a-curious-tale.json](./128111-kika-and-daigo-a-curious-tale.json) |
+| Kikai | 27006 | [27006-kikai.json](./27006-kikai.json) |
 | Kikai | 366180 | [366180-kikai.json](./366180-kikai.json) |
 | Kikai Shushi: MachinE SeeD | 366021 | [366021-kikai-shushi-machine-seed.json](./366021-kikai-shushi-machine-seed.json) |
 | Kikai: The Silent Cat | 261221 | [261221-kikai-the-silent-cat.json](./261221-kikai-the-silent-cat.json) |
