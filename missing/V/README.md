@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V tylu vraga: Diversanty 3 | 383941 | [383941-v-tylu-vraga-diversanty-3.json](./383941-v-tylu-vraga-diversanty-3.json) |
 | V-Air Traffic Control | 251958 | [251958-v-air-traffic-control.json](./251958-v-air-traffic-control.json) |
 | V-Ball: Beach Volley Heroes | 72234 | [72234-v-ball-beach-volley-heroes.json](./72234-v-ball-beach-volley-heroes.json) |
+| V-Buddy UltraDeluxe | 426350 | [426350-v-buddy-ultradeluxe.json](./426350-v-buddy-ultradeluxe.json) |
 | V-Dash Dungeon | 406230 | [406230-v-dash-dungeon.json](./406230-v-dash-dungeon.json) |
 | V-Fighter 2000 | 191143 | [191143-v-fighter-2000.json](./191143-v-fighter-2000.json) |
 | V-Frogger | 46517 | [46517-v-frogger.json](./46517-v-frogger.json) |
@@ -3615,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoiceActress | 275158 | [275158-voiceactress.json](./275158-voiceactress.json) |
 | VoiceATC Simulator | 401763 | [401763-voiceatc-simulator.json](./401763-voiceatc-simulator.json) |
 | Voiceless | 288482 | [288482-voiceless.json](./288482-voiceless.json) |
+| Voiceless | 426396 | [426396-voiceless.json](./426396-voiceless.json) |
 | Voiceless Elegy | 382175 | [382175-voiceless-elegy.json](./382175-voiceless-elegy.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
 | VoiceOS | 284741 | [284741-voiceos.json](./284741-voiceos.json) |
