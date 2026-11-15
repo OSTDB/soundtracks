@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
 | Datepixel: A Nopixel Dating Sim | 184205 | [184205-datepixel-a-nopixel-dating-sim.json](./184205-datepixel-a-nopixel-dating-sim.json) |
 | Dates & Wires | 153522 | [153522-dates-and-wires.json](./153522-dates-and-wires.json) |
+| Dath | 32293 | [32293-dath.json](./32293-dath.json) |
 | Dátí Yīngxióng: Xìbāo Shēngwùxué | 115250 | [115250-dati-yingxiong-xibao-shengwuxue.json](./115250-dati-yingxiong-xibao-shengwuxue.json) |
 | Datiddle | 240979 | [240979-datiddle.json](./240979-datiddle.json) |
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
@@ -6303,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend 99 | 309935 | [309935-defend-99.json](./309935-defend-99.json) |
 | Defend Against Cats | 388169 | [388169-defend-against-cats.json](./388169-defend-against-cats.json) |
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
+| Defend Felinearth | 33614 | [33614-defend-felinearth.json](./33614-defend-felinearth.json) |
 | Defend from Candyland! | 186675 | [186675-defend-from-candyland.json](./186675-defend-from-candyland.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defend Home | 129435 | [129435-defend-home.json](./129435-defend-home.json) |
@@ -17606,6 +17608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn Down | 117448 | [117448-drawn-down.json](./117448-drawn-down.json) |
 | Drawn Down Abyss | 123730 | [123730-drawn-down-abyss.json](./123730-drawn-down-abyss.json) |
+| Drawn Story | 33578 | [33578-drawn-story.json](./33578-drawn-story.json) |
 | Drawn Tale | 346210 | [346210-drawn-tale.json](./346210-drawn-tale.json) |
 | Drawn to Death | 11076 | [11076-drawn-to-death.json](./11076-drawn-to-death.json) |
 | Drawn to Drift | 373727 | [373727-drawn-to-drift.json](./373727-drawn-to-drift.json) |
@@ -21458,6 +21461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dyad | 9132 | [9132-dyad.json](./9132-dyad.json) |
 | Dyadem | 381352 | [381352-dyadem.json](./381352-dyadem.json) |
+| Dyadic | 33540 | [33540-dyadic.json](./33540-dyadic.json) |
 | Dyadin | 84450 | [84450-dyadin.json](./84450-dyadin.json) |
 | Dyana Moto | 74671 | [74671-dyana-moto.json](./74671-dyana-moto.json) |
 | Dyar Beach | 225404 | [225404-dyar-beach.json](./225404-dyar-beach.json) |
