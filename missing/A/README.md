@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actionauts | 40658 | [40658-actionauts.json](./40658-actionauts.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
+| Actionloop Twist | 23044 | [23044-actionloop-twist.json](./23044-actionloop-twist.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | ActionSwing | 89784 | [89784-actionswing.json](./89784-actionswing.json) |
 | Activate | 231819 | [231819-activate.json](./231819-activate.json) |
@@ -4052,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advanced T-Robots | 322052 | [322052-advanced-t-robots.json](./322052-advanced-t-robots.json) |
 | Advanced Tactical Fighter II | 8899 | [8899-advanced-tactical-fighter-ii.json](./8899-advanced-tactical-fighter-ii.json) |
+| Advanced Tactics Gold | 36292 | [36292-advanced-tactics-gold.json](./36292-advanced-tactics-gold.json) |
 | Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
 | Advanced V.G. 2 | 44799 | [44799-advanced-v-g-2.json](./44799-advanced-v-g-2.json) |
@@ -5736,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Walker: Secret Journey | 32184 | [32184-agent-walker-secret-journey.json](./32184-agent-walker-secret-journey.json) |
 | Agent Wonky | 96366 | [96366-agent-wonky.json](./96366-agent-wonky.json) |
 | Agent X | 159525 | [159525-agent-x.json](./159525-agent-x.json) |
+| Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agent X II: The Mad Prof's Back! | 13294 | [13294-agent-x-ii-the-mad-profs-back.json](./13294-agent-x-ii-the-mad-profs-back.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
@@ -14907,6 +14910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
 | ArcaneBound | 423283 | [423283-arcanebound.json](./423283-arcanebound.json) |
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
+| ArcaneSoul | 24555 | [24555-arcanesoul.json](./24555-arcanesoul.json) |
 | Arcangel: The Legacy of Peace | 52407 | [52407-arcangel-the-legacy-of-peace.json](./52407-arcangel-the-legacy-of-peace.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
 | Arcania: Gothic 4 | 3234 | [3234-arcania-gothic-4.json](./3234-arcania-gothic-4.json) |
