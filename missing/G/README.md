@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy-X | 214041 | [214041-galaxy-x.json](./214041-galaxy-x.json) |
 | Galaxy's Extreme | 169760 | [169760-galaxys-extreme.json](./169760-galaxys-extreme.json) |
 | GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
+| GalaxyQuest | 421535 | [421535-galaxyquest.json](./421535-galaxyquest.json) |
 | GalaxySpace VR | 149553 | [149553-galaxyspace-vr.json](./149553-galaxyspace-vr.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | GalaxyWak | 282103 | [282103-galaxywak.json](./282103-galaxywak.json) |
@@ -4587,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of Tabor: Florida Man DLC | 393139 | [393139-ghosts-of-tabor-florida-man-dlc.json](./393139-ghosts-of-tabor-florida-man-dlc.json) |
 | Ghosts of Tabor: Legacy | 412321 | [412321-ghosts-of-tabor-legacy.json](./412321-ghosts-of-tabor-legacy.json) |
 | Ghosts of Tabor: Taran Tactical JW3 | 273829 | [273829-ghosts-of-tabor-taran-tactical-jw3.json](./273829-ghosts-of-tabor-taran-tactical-jw3.json) |
+| Ghosts of the Mountain Pass | 421634 | [421634-ghosts-of-the-mountain-pass.json](./421634-ghosts-of-the-mountain-pass.json) |
 | Ghosts of the Past: Bones of Meadows Town - Collector's Edition | 381378 | [381378-ghosts-of-the-past-bones-of-meadows-town-collectors-edition.json](./381378-ghosts-of-the-past-bones-of-meadows-town-collectors-edition.json) |
 | Ghosts of the Tozai Line | 416661 | [416661-ghosts-of-the-tozai-line.json](./416661-ghosts-of-the-tozai-line.json) |
 | Ghosts of Trastevere | 372652 | [372652-ghosts-of-trastevere.json](./372652-ghosts-of-trastevere.json) |
