@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Woods 2 | 71121 | [71121-dark-woods-2.json](./71121-dark-woods-2.json) |
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
 | Dark Woods MMO | 136564 | [136564-dark-woods-mmo.json](./136564-dark-woods-mmo.json) |
+| Dark Workshop Simulator | 428129 | [428129-dark-workshop-simulator.json](./428129-dark-workshop-simulator.json) |
 | Dark World | 129517 | [129517-dark-world.json](./129517-dark-world.json) |
 | Dark Worlds - Age of Wars | 90343 | [90343-dark-worlds-age-of-wars.json](./90343-dark-worlds-age-of-wars.json) |
 | Dark Wraith | 313999 | [313999-dark-wraith.json](./313999-dark-wraith.json) |
@@ -6165,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepest Grievances | 397865 | [397865-deepest-grievances.json](./397865-deepest-grievances.json) |
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
+| Deepest Research | 428134 | [428134-deepest-research.json](./428134-deepest-research.json) |
 | Deepest Sword | 146544 | [146544-deepest-sword.json](./146544-deepest-sword.json) |
 | Deepest Trench | 310281 | [310281-deepest-trench.json](./310281-deepest-trench.json) |
 | Deepest Valley | 395832 | [395832-deepest-valley.json](./395832-deepest-valley.json) |
@@ -21121,6 +21123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjonquest: Temple of Apshai | 68778 | [68778-dunjonquest-temple-of-apshai.json](./68778-dunjonquest-temple-of-apshai.json) |
 | Dunjonquest: The Datestones of Ryn | 18746 | [18746-dunjonquest-the-datestones-of-ryn.json](./18746-dunjonquest-the-datestones-of-ryn.json) |
 | Dunjonquest: Upper Reaches of Apshai | 69915 | [69915-dunjonquest-upper-reaches-of-apshai.json](./69915-dunjonquest-upper-reaches-of-apshai.json) |
+| Dunjourney | 428106 | [428106-dunjourney.json](./428106-dunjourney.json) |
 | DunJumb | 280002 | [280002-dunjumb.json](./280002-dunjumb.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
 | Dunjunz | 134123 | [134123-dunjunz.json](./134123-dunjunz.json) |
