@@ -3806,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Age | 35838 | [35838-marble-age.json](./35838-marble-age.json) |
 | Marble Age: Remastered | 139653 | [139653-marble-age-remastered.json](./139653-marble-age-remastered.json) |
 | Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
+| Marble Arena | 1019 | [1019-marble-arena.json](./1019-marble-arena.json) |
 | Marble Arena 2 | 1018 | [1018-marble-arena-2.json](./1018-marble-arena-2.json) |
 | Marble Ball Friends | 196959 | [196959-marble-ball-friends.json](./196959-marble-ball-friends.json) |
 | Marble Ball Racing | 158904 | [158904-marble-ball-racing.json](./158904-marble-ball-racing.json) |
