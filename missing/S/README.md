@@ -17013,6 +17013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper | 195845 | [195845-sniper.json](./195845-sniper.json) |
 | Sniper | 287559 | [287559-sniper.json](./287559-sniper.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
+| Sniper 3D Assassin | 59486 | [59486-sniper-3d-assassin.json](./59486-sniper-3d-assassin.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Being Patriotic | 171778 | [171778-sniper-and-spotter-being-patriotic.json](./171778-sniper-and-spotter-being-patriotic.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
@@ -25748,6 +25749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint | 246481 | [246481-sprint.json](./246481-sprint.json) |
 | Sprint | 359441 | [359441-sprint.json](./359441-sprint.json) |
 | Sprint 1 | 18393 | [18393-sprint-1.json](./18393-sprint-1.json) |
+| Sprint 2 | 61314 | [61314-sprint-2.json](./61314-sprint-2.json) |
 | Sprint 4 | 61312 | [61312-sprint-4.json](./61312-sprint-4.json) |
 | Sprint 8 | 61311 | [61311-sprint-8.json](./61311-sprint-8.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
@@ -27448,6 +27450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Strategic Operations Simulator | 12319 | [12319-star-trek-strategic-operations-simulator.json](./12319-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
+| Star Trek: Tactical Assault | 20610 | [20610-star-trek-tactical-assault.json](./20610-star-trek-tactical-assault.json) |
 | Star Trek: The Game Show | 69228 | [69228-star-trek-the-game-show.json](./69228-star-trek-the-game-show.json) |
 | Star Trek: The Kobayashi Alternative | 26019 | [26019-star-trek-the-kobayashi-alternative.json](./26019-star-trek-the-kobayashi-alternative.json) |
 | Star Trek: The Mobile Game | 125127 | [125127-star-trek-the-mobile-game.json](./125127-star-trek-the-mobile-game.json) |
