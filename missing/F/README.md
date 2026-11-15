@@ -8701,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Time | 347681 | [347681-flight-time.json](./347681-flight-time.json) |
 | Flight to Eternity | 28969 | [28969-flight-to-eternity.json](./28969-flight-to-eternity.json) |
 | Flight Unlimited | 3352 | [3352-flight-unlimited.json](./3352-flight-unlimited.json) |
+| Flight Unlimited 2K16 | 77440 | [77440-flight-unlimited-2k16.json](./77440-flight-unlimited-2k16.json) |
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
 | Flight Unlimited 2K18 | 43104 | [43104-flight-unlimited-2k18.json](./43104-flight-unlimited-2k18.json) |
 | Flight Unlimited Helicopter | 174488 | [174488-flight-unlimited-helicopter.json](./174488-flight-unlimited-helicopter.json) |
@@ -14445,6 +14446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
 | Fruity Puzzler | 293368 | [293368-fruity-puzzler.json](./293368-fruity-puzzler.json) |
 | Fruity Rogue | 327702 | [327702-fruity-rogue.json](./327702-fruity-rogue.json) |
+| Fruity Smoothie | 76789 | [76789-fruity-smoothie.json](./76789-fruity-smoothie.json) |
 | Frukt | 391456 | [391456-frukt.json](./391456-frukt.json) |
 | Frupu VR Fruit Punch | 250717 | [250717-frupu-vr-fruit-punch.json](./250717-frupu-vr-fruit-punch.json) |
 | Frustrain | 138849 | [138849-frustrain.json](./138849-frustrain.json) |
