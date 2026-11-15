@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Mezase! King of Berry | 65695 | [65695-one-piece-mezase-king-of-berry.json](./65695-one-piece-mezase-king-of-berry.json) |
 | One Piece: Nanatsu Shima no Daihihou | 65679 | [65679-one-piece-nanatsu-shima-no-daihihou.json](./65679-one-piece-nanatsu-shima-no-daihihou.json) |
 | One Piece: Nanatsu Shima no Daihihou | 75747 | [75747-one-piece-nanatsu-shima-no-daihihou.json](./75747-one-piece-nanatsu-shima-no-daihihou.json) |
+| One Piece: Niji no Shima Densetsu | 37448 | [37448-one-piece-niji-no-shima-densetsu.json](./37448-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Niji no Shima Densetsu | 65698 | [65698-one-piece-niji-no-shima-densetsu.json](./65698-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Niji no Shima Densetsu | 75741 | [75741-one-piece-niji-no-shima-densetsu.json](./75741-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
@@ -2859,6 +2860,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Tobidase Kaizoku-dan! | 75740 | [75740-one-piece-tobidase-kaizoku-dan.json](./75740-one-piece-tobidase-kaizoku-dan.json) |
 | One Piece: Treasure Battle! | 75746 | [75746-one-piece-treasure-battle.json](./75746-one-piece-treasure-battle.json) |
 | One Piece: Treasure Cruise | 18376 | [18376-one-piece-treasure-cruise.json](./18376-one-piece-treasure-cruise.json) |
+| One Piece: Treasure Wars | 37447 | [37447-one-piece-treasure-wars.json](./37447-one-piece-treasure-wars.json) |
+| One Piece: Treasure Wars 2 - Buggyland he Youkoso | 37446 | [37446-one-piece-treasure-wars-2-buggyland-he-youkoso.json](./37446-one-piece-treasure-wars-2-buggyland-he-youkoso.json) |
 | One Piece: Treasure Wars 2 - Buggyland he Youkoso | 75748 | [75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json](./75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json) |
 | One Piece: Unlimited Adventure | 5084 | [5084-one-piece-unlimited-adventure.json](./5084-one-piece-unlimited-adventure.json) |
 | One Piece: Unlimited Cruise 1 - The Treasure Beneath the Waves | 21123 | [21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json](./21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json) |
