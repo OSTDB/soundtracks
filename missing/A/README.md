@@ -10455,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
 | Analog: Skin off | 354739 | [354739-analog-skin-off.json](./354739-analog-skin-off.json) |
+| Analogic | 11506 | [11506-analogic.json](./11506-analogic.json) |
 | Analogue: A Hate Story | 10037 | [10037-analogue-a-hate-story.json](./10037-analogue-a-hate-story.json) |
 | Analytical World | 156845 | [156845-analytical-world.json](./156845-analytical-world.json) |
 | Anamnesia: Part 1 - Am I my Body? | 284151 | [284151-anamnesia-part-1-am-i-my-body.json](./284151-anamnesia-part-1-am-i-my-body.json) |
@@ -10993,6 +10994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
 | Angel Squad | 216082 | [216082-angel-squad.json](./216082-angel-squad.json) |
 | Angel Star Road: Champion Carnival | 125488 | [125488-angel-star-road-champion-carnival.json](./125488-angel-star-road-champion-carnival.json) |
+| Angel Stone | 11609 | [11609-angel-stone.json](./11609-angel-stone.json) |
 | Angel Sweet | 261446 | [261446-angel-sweet.json](./261446-angel-sweet.json) |
 | Angel Symphony | 251051 | [251051-angel-symphony.json](./251051-angel-symphony.json) |
 | Angel Tear: Goddess Betrayed | 291845 | [291845-angel-tear-goddess-betrayed.json](./291845-angel-tear-goddess-betrayed.json) |
@@ -12709,6 +12711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti Terrorist Shooting Game | 400654 | [400654-anti-terrorist-shooting-game.json](./400654-anti-terrorist-shooting-game.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
+| Anti-Aircraft | 11553 | [11553-anti-aircraft.json](./11553-anti-aircraft.json) |
 | Anti-Anti | 411924 | [411924-anti-anti.json](./411924-anti-anti.json) |
 | Anti-Ballistic-Missile | 145245 | [145245-anti-ballistic-missile.json](./145245-anti-ballistic-missile.json) |
 | Anti-binary | 176945 | [176945-anti-binary.json](./176945-anti-binary.json) |
