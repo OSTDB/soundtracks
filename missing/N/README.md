@@ -6225,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Turtles | 371518 | [371518-nitro-turtles.json](./371518-nitro-turtles.json) |
 | Nitro Type | 56235 | [56235-nitro-type.json](./56235-nitro-type.json) |
 | Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
+| NitroBreakers | 426946 | [426946-nitrobreakers.json](./426946-nitrobreakers.json) |
 | NitroClash.io | 83294 | [83294-nitroclash-io.json](./83294-nitroclash-io.json) |
 | Nitrogen Narcosis | 325979 | [325979-nitrogen-narcosis.json](./325979-nitrogen-narcosis.json) |
 | Nitroglycerin | 272104 | [272104-nitroglycerin.json](./272104-nitroglycerin.json) |
@@ -6509,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Kings | 134963 | [134963-no-more-kings.json](./134963-no-more-kings.json) |
 | No More Light | 151479 | [151479-no-more-light.json](./151479-no-more-light.json) |
 | No More Money | 232233 | [232233-no-more-money.json](./232233-no-more-money.json) |
+| No More Monsters | 426928 | [426928-no-more-monsters.json](./426928-no-more-monsters.json) |
 | No More Noise | 345402 | [345402-no-more-noise.json](./345402-no-more-noise.json) |
 | No More Papers Please | 185237 | [185237-no-more-papers-please.json](./185237-no-more-papers-please.json) |
 | No More Pesticide | 389928 | [389928-no-more-pesticide.json](./389928-no-more-pesticide.json) |
