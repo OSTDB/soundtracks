@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zekkyou Senshi: Sakeburein | 210806 | [210806-zekkyou-senshi-sakeburein.json](./210806-zekkyou-senshi-sakeburein.json) |
 | Zeko | 150287 | [150287-zeko.json](./150287-zeko.json) |
 | Zektor | 24638 | [24638-zektor.json](./24638-zektor.json) |
+| Zelanites: The Onslaught | 13262 | [13262-zelanites-the-onslaught.json](./13262-zelanites-the-onslaught.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 1 / Metroid 1 Combo Randomizer | 152749 | [152749-zelda-1-metroid-1-combo-randomizer.json](./152749-zelda-1-metroid-1-combo-randomizer.json) |
 | Zelda 2 DX | 323022 | [323022-zelda-2-dx.json](./323022-zelda-2-dx.json) |
