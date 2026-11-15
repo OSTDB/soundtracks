@@ -8493,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NumX | 341491 | [341491-numx.json](./341491-numx.json) |
 | Nun | 106825 | [106825-nun.json](./106825-nun.json) |
 | Nun Attack | 38956 | [38956-nun-attack.json](./38956-nun-attack.json) |
+| Nun Attack Origins: Yuki | 39276 | [39276-nun-attack-origins-yuki.json](./39276-nun-attack-origins-yuki.json) |
 | Nun Attack Origins: Yuki's Silent Quest | 61139 | [61139-nun-attack-origins-yukis-silent-quest.json](./61139-nun-attack-origins-yukis-silent-quest.json) |
 | Nun Attack: Run & Gun | 38993 | [38993-nun-attack-run-and-gun.json](./38993-nun-attack-run-and-gun.json) |
 | Nun Massacre | 112215 | [112215-nun-massacre.json](./112215-nun-massacre.json) |
