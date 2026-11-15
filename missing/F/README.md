@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
 | Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
+| FarmWoozy | 56086 | [56086-farmwoozy.json](./56086-farmwoozy.json) |
 | Farmyard Fun | 40686 | [40686-farmyard-fun.json](./40686-farmyard-fun.json) |
 | Farmyard Haven | 295690 | [295690-farmyard-haven.json](./295690-farmyard-haven.json) |
 | Farmyard Pals Jigsaw Puzzles | 357881 | [357881-farmyard-pals-jigsaw-puzzles.json](./357881-farmyard-pals-jigsaw-puzzles.json) |
@@ -5410,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Boss | 224257 | [224257-final-boss.json](./224257-final-boss.json) |
 | Final Boss | 410170 | [410170-final-boss.json](./410170-final-boss.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
+| Final Clash | 56085 | [56085-final-clash.json](./56085-final-clash.json) |
 | Final Clash: Buried Treasures | 109547 | [109547-final-clash-buried-treasures.json](./109547-final-clash-buried-treasures.json) |
 | Final Clue Oakloon | 285409 | [285409-final-clue-oakloon.json](./285409-final-clue-oakloon.json) |
 | Final Combat | 195066 | [195066-final-combat.json](./195066-final-combat.json) |
@@ -10041,6 +10043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Inc: Home of the Supply | 370470 | [370470-food-inc-home-of-the-supply.json](./370470-food-inc-home-of-the-supply.json) |
 | Food Industry | 143889 | [143889-food-industry.json](./143889-food-industry.json) |
 | Food Magician | 253410 | [253410-food-magician.json](./253410-food-magician.json) |
+| Food Mahjong | 56656 | [56656-food-mahjong.json](./56656-food-mahjong.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Network: Cook or Be Cooked | 4858 | [4858-food-network-cook-or-be-cooked.json](./4858-food-network-cook-or-be-cooked.json) |
