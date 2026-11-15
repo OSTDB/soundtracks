@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake & Lunnye Devitsy | 50829 | [50829-wake-and-lunnye-devitsy.json](./50829-wake-and-lunnye-devitsy.json) |
 | Wake Cup | 292446 | [292446-wake-cup.json](./292446-wake-cup.json) |
 | Wake Explorer | 347473 | [347473-wake-explorer.json](./347473-wake-explorer.json) |
+| Wake Inside | 425798 | [425798-wake-inside.json](./425798-wake-inside.json) |
 | Wake Me Up If You Need Me | 299568 | [299568-wake-me-up-if-you-need-me.json](./299568-wake-me-up-if-you-need-me.json) |
 | Wake of Ragnarok | 211274 | [211274-wake-of-ragnarok.json](./211274-wake-of-ragnarok.json) |
 | Wake Out of Twilight | 150286 | [150286-wake-out-of-twilight.json](./150286-wake-out-of-twilight.json) |
@@ -7612,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry I-II-III: The Story of Llylgamyn | 42528 | [42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json](./42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json) |
 | Wizardry II: Llylgamyn no Isan | 50047 | [50047-wizardry-ii-llylgamyn-no-isan.json](./50047-wizardry-ii-llylgamyn-no-isan.json) |
 | Wizardry III & IV | 123081 | [123081-wizardry-iii-and-iv.json](./123081-wizardry-iii-and-iv.json) |
+| Wizardry III: Diamond no Kishi | 425767 | [425767-wizardry-iii-diamond-no-kishi.json](./425767-wizardry-iii-diamond-no-kishi.json) |
 | Wizardry III: Diamond no Kishi | 50046 | [50046-wizardry-iii-diamond-no-kishi.json](./50046-wizardry-iii-diamond-no-kishi.json) |
 | Wizardry Level C | 267783 | [267783-wizardry-level-c.json](./267783-wizardry-level-c.json) |
 | Wizardry Online | 27131 | [27131-wizardry-online.json](./27131-wizardry-online.json) |
