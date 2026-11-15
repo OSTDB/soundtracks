@@ -5641,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Twist Classic | 249956 | [249956-text-twist-classic.json](./249956-text-twist-classic.json) |
 | Text Twist Pro | 69109 | [69109-text-twist-pro.json](./69109-text-twist-pro.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
+| Text Wormhole | 74570 | [74570-text-wormhole.json](./74570-text-wormhole.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
 | Text Zedventure | 91533 | [91533-text-zedventure.json](./91533-text-zedventure.json) |
 | Text: Russia | 160233 | [160233-text-russia.json](./160233-text-russia.json) |
@@ -6575,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arena | 271408 | [271408-the-arena.json](./271408-the-arena.json) |
 | The Arena | 374033 | [374033-the-arena.json](./374033-the-arena.json) |
 | The Arena Guy | 151029 | [151029-the-arena-guy.json](./151029-the-arena-guy.json) |
+| The Arena of Gladiators | 75259 | [75259-the-arena-of-gladiators.json](./75259-the-arena-of-gladiators.json) |
 | The Arena Pit | 263735 | [263735-the-arena-pit.json](./263735-the-arena-pit.json) |
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
@@ -14060,6 +14062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ancient Dungeon | 229619 | [229619-the-legend-of-zelda-ancient-dungeon.json](./229619-the-legend-of-zelda-ancient-dungeon.json) |
 | The Legend of Zelda: Book of Mudora | 243614 | [243614-the-legend-of-zelda-book-of-mudora.json](./243614-the-legend-of-zelda-book-of-mudora.json) |
 | The Legend of Zelda: Breath of the Wild - Collector's Edition | 136841 | [136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json](./136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json) |
+| The Legend of Zelda: Breath of the Wild - Explorer's Edition | 75295 | [75295-the-legend-of-zelda-breath-of-the-wild-explorers-edition.json](./75295-the-legend-of-zelda-breath-of-the-wild-explorers-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Hyrule Rebalance | 250327 | [250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json](./250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json) |
 | The Legend of Zelda: Breath of the Wild - Islands Expansion | 250324 | [250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json](./250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
@@ -19257,6 +19260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
 | The Surrogate | 90764 | [90764-the-surrogate.json](./90764-the-surrogate.json) |
 | The Survival Horror Bundle | 301767 | [301767-the-survival-horror-bundle.json](./301767-the-survival-horror-bundle.json) |
+| The Survival Test VR: Defend to Death | 74575 | [74575-the-survival-test-vr-defend-to-death.json](./74575-the-survival-test-vr-defend-to-death.json) |
 | The Survivalists | 127305 | [127305-the-survivalists.json](./127305-the-survivalists.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
 | The Survivalists: Monkey Business | 171180 | [171180-the-survivalists-monkey-business.json](./171180-the-survivalists-monkey-business.json) |
@@ -22992,6 +22996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderballs | 114042 | [114042-thunderballs.json](./114042-thunderballs.json) |
 | Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
+| Thunderbird Strike | 75251 | [75251-thunderbird-strike.json](./75251-thunderbird-strike.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
 | Thunderbirds | 26272 | [26272-thunderbirds.json](./26272-thunderbirds.json) |
@@ -25480,6 +25485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Keeper | 198459 | [198459-time-keeper.json](./198459-time-keeper.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
 | Time Killers: CatchOut | 74634 | [74634-time-killers-catchout.json](./74634-time-killers-catchout.json) |
+| Time Killers: Spot Race | 75264 | [75264-time-killers-spot-race.json](./75264-time-killers-spot-race.json) |
 | Time Killing of God | 98603 | [98603-time-killing-of-god.json](./98603-time-killing-of-god.json) |
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
 | Time Knight Adventures | 164322 | [164322-time-knight-adventures.json](./164322-time-knight-adventures.json) |
@@ -29146,6 +29152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totem Force | 115983 | [115983-totem-force.json](./115983-totem-force.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
 | Totem Smash | 344235 | [344235-totem-smash.json](./344235-totem-smash.json) |
+| Totem Spirits | 75293 | [75293-totem-spirits.json](./75293-totem-spirits.json) |
 | Totem Teller | 82284 | [82284-totem-teller.json](./82284-totem-teller.json) |
 | Totem Topple | 59524 | [59524-totem-topple.json](./59524-totem-topple.json) |
 | Totem Tribe | 9113 | [9113-totem-tribe.json](./9113-totem-tribe.json) |
@@ -29840,6 +29847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toushin Gent | 319209 | [319209-toushin-gent.json](./319209-toushin-gent.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tousui Kitan | 97698 | [97698-tousui-kitan.json](./97698-tousui-kitan.json) |
+| Tout Savoir Grande Section Maternelle | 75276 | [75276-tout-savoir-grande-section-maternelle.json](./75276-tout-savoir-grande-section-maternelle.json) |
 | Tout Savoir: 3E | 150237 | [150237-tout-savoir-3e.json](./150237-tout-savoir-3e.json) |
 | Tout Savoir: 5E | 148663 | [148663-tout-savoir-5e.json](./148663-tout-savoir-5e.json) |
 | Tout Savoir: 6E | 148180 | [148180-tout-savoir-6e.json](./148180-tout-savoir-6e.json) |
@@ -34927,6 +34935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tronica GK 10: Goal Keeper | 245603 | [245603-tronica-gk-10-goal-keeper.json](./245603-tronica-gk-10-goal-keeper.json) |
 | Tronika | 58147 | [58147-tronika.json](./58147-tronika.json) |
 | Tronix Carnival Games | 330061 | [330061-tronix-carnival-games.json](./330061-tronix-carnival-games.json) |
+| Tronix Defender | 75274 | [75274-tronix-defender.json](./75274-tronix-defender.json) |
 | Trooops! | 403325 | [403325-trooops.json](./403325-trooops.json) |
 | Trooper | 277692 | [277692-trooper.json](./277692-trooper.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
