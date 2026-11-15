@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft and the Guardian of Light: Raziel and Kain Character Pack | 168453 | [168453-lara-croft-and-the-guardian-of-light-raziel-and-kain-character-pack.json](./168453-lara-croft-and-the-guardian-of-light-raziel-and-kain-character-pack.json) |
 | Lara Croft and the Temple of Osiris | 7325 | [7325-lara-croft-and-the-temple-of-osiris.json](./7325-lara-croft-and-the-temple-of-osiris.json) |
 | Lara Croft and the Temple of Osiris: Deus Ex Pack | 226870 | [226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json](./226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json) |
+| Lara Croft and the Temple of Osiris: Gold Edition | 42930 | [42930-lara-croft-and-the-temple-of-osiris-gold-edition.json](./42930-lara-croft-and-the-temple-of-osiris-gold-edition.json) |
 | Lara Croft and the Temple of Osiris: Icy Death Pack | 226871 | [226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json](./226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json) |
 | Lara Croft and the Temple of Osiris: Legend Pack | 226872 | [226872-lara-croft-and-the-temple-of-osiris-legend-pack.json](./226872-lara-croft-and-the-temple-of-osiris-legend-pack.json) |
 | Lara Croft and the Temple of Osiris: Twisted Gears Pack | 226873 | [226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json](./226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json) |
