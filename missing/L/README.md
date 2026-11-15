@@ -6509,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bear Has Fun | 89053 | [89053-little-bear-has-fun.json](./89053-little-bear-has-fun.json) |
 | Little Bear Rainy Day Activities | 280772 | [280772-little-bear-rainy-day-activities.json](./280772-little-bear-rainy-day-activities.json) |
 | Little Bears | 210191 | [210191-little-bears.json](./210191-little-bears.json) |
+| Little Beast in the Big Maze | 428136 | [428136-little-beast-in-the-big-maze.json](./428136-little-beast-in-the-big-maze.json) |
 | Little Beetle Bottle Battle | 183016 | [183016-little-beetle-bottle-battle.json](./183016-little-beetle-bottle-battle.json) |
 | Little Betty: Gold Rush | 372997 | [372997-little-betty-gold-rush.json](./372997-little-betty-gold-rush.json) |
 | Little Big Adventure: Purple Empire | 339154 | [339154-little-big-adventure-purple-empire.json](./339154-little-big-adventure-purple-empire.json) |
