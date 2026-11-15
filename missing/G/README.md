@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Busters | 39735 | [39735-gang-busters.json](./39735-gang-busters.json) |
 | Gang District | 126776 | [126776-gang-district.json](./126776-gang-district.json) |
+| Gang Domination | 64593 | [64593-gang-domination.json](./64593-gang-domination.json) |
 | Gang Garrison 2 | 51308 | [51308-gang-garrison-2.json](./51308-gang-garrison-2.json) |
 | Gang Human Wrestling | 193816 | [193816-gang-human-wrestling.json](./193816-gang-human-wrestling.json) |
 | Gang Lords | 344818 | [344818-gang-lords.json](./344818-gang-lords.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Scramble | 209842 | [209842-ghost-scramble.json](./209842-ghost-scramble.json) |
 | Ghost Scramble | 212500 | [212500-ghost-scramble.json](./212500-ghost-scramble.json) |
 | Ghost Sector | 335826 | [335826-ghost-sector.json](./335826-ghost-sector.json) |
+| Ghost Seed | 64584 | [64584-ghost-seed.json](./64584-ghost-seed.json) |
 | Ghost Seeker Hunter Simulation | 270495 | [270495-ghost-seeker-hunter-simulation.json](./270495-ghost-seeker-hunter-simulation.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
 | Ghost Ship | 287518 | [287518-ghost-ship.json](./287518-ghost-ship.json) |
@@ -11071,6 +11073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growlanser III: The Dual Darkness | 21312 | [21312-growlanser-iii-the-dual-darkness.json](./21312-growlanser-iii-the-dual-darkness.json) |
 | Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
+| Growlanser IV: Wayfarer of Time Return | 64603 | [64603-growlanser-iv-wayfarer-of-time-return.json](./64603-growlanser-iv-wayfarer-of-time-return.json) |
 | Growlanser VI: Precarious World | 21314 | [21314-growlanser-vi-precarious-world.json](./21314-growlanser-vi-precarious-world.json) |
 | Growlanser: Heritage of War | 21308 | [21308-growlanser-heritage-of-war.json](./21308-growlanser-heritage-of-war.json) |
 | Growling In My Demise | 233597 | [233597-growling-in-my-demise.json](./233597-growling-in-my-demise.json) |
