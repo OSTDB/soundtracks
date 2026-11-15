@@ -3151,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farseer's Domain | 144898 | [144898-farseers-domain.json](./144898-farseers-domain.json) |
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
 | Farsiders | 235983 | [235983-farsiders.json](./235983-farsiders.json) |
+| FarSky | 17164 | [17164-farsky.json](./17164-farsky.json) |
 | Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
 | Farstorm | 109329 | [109329-farstorm.json](./109329-farstorm.json) |
 | Fart Cat! | 64867 | [64867-fart-cat.json](./64867-fart-cat.json) |
@@ -3341,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast or Dead VR | 215568 | [215568-fast-or-dead-vr.json](./215568-fast-or-dead-vr.json) |
 | Fast Racing | 99330 | [99330-fast-racing.json](./99330-fast-racing.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
+| Fast Racing Neo | 14886 | [14886-fast-racing-neo.json](./14886-fast-racing-neo.json) |
 | Fast Riders: Unlimited Road | 228054 | [228054-fast-riders-unlimited-road.json](./228054-fast-riders-unlimited-road.json) |
 | Fast RMX | 26816 | [26816-fast-rmx.json](./26816-fast-rmx.json) |
 | Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
