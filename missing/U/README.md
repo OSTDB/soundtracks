@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Kingdom Survivors | 303063 | [303063-undead-kingdom-survivors.json](./303063-undead-kingdom-survivors.json) |
 | Undead Knights | 23358 | [23358-undead-knights.json](./23358-undead-knights.json) |
 | Undead Legion | 110246 | [110246-undead-legion.json](./110246-undead-legion.json) |
+| Undead Legions | 50782 | [50782-undead-legions.json](./50782-undead-legions.json) |
 | Undead Legions II | 106353 | [106353-undead-legions-ii.json](./106353-undead-legions-ii.json) |
 | Undead Line | 46178 | [46178-undead-line.json](./46178-undead-line.json) |
 | Undead Lovers | 299619 | [299619-undead-lovers.json](./299619-undead-lovers.json) |
