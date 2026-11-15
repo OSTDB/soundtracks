@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Conspiracy: Shooter | 174750 | [174750-zombie-conspiracy-shooter.json](./174750-zombie-conspiracy-shooter.json) |
 | Zombie Cookin' | 350764 | [350764-zombie-cookin.json](./350764-zombie-cookin.json) |
 | Zombie Craft | 189916 | [189916-zombie-craft.json](./189916-zombie-craft.json) |
+| Zombie Crawlers | 424559 | [424559-zombie-crawlers.json](./424559-zombie-crawlers.json) |
 | Zombie Crisis | 292119 | [292119-zombie-crisis.json](./292119-zombie-crisis.json) |
 | Zombie Crisis | 86515 | [86515-zombie-crisis.json](./86515-zombie-crisis.json) |
 | Zombie Crisis 3D | 91113 | [91113-zombie-crisis-3d.json](./91113-zombie-crisis-3d.json) |
