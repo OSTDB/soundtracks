@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pixel Survival | 233419 | [233419-magic-pixel-survival.json](./233419-magic-pixel-survival.json) |
 | Magic Planet Snack | 283547 | [283547-magic-planet-snack.json](./283547-magic-planet-snack.json) |
 | Magic Planet Snack Deluxe | 63481 | [63481-magic-planet-snack-deluxe.json](./63481-magic-planet-snack-deluxe.json) |
+| Magic Pockets | 12181 | [12181-magic-pockets.json](./12181-magic-pockets.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
 | Magic Potion Explorer | 33550 | [33550-magic-potion-explorer.json](./33550-magic-potion-explorer.json) |
@@ -3987,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarchMallows | 420613 | [420613-marchmallows.json](./420613-marchmallows.json) |
 | MarchQuest | 110255 | [110255-marchquest.json](./110255-marchquest.json) |
 | Marcianito Go | 228470 | [228470-marcianito-go.json](./228470-marcianito-go.json) |
+| Marco & The Galaxy Dragon | 128160 | [128160-marco-and-the-galaxy-dragon.json](./128160-marco-and-the-galaxy-dragon.json) |
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
 | Marco Polo | 84022 | [84022-marco-polo.json](./84022-marco-polo.json) |
 | Marco Polo Bridge Incident | 213398 | [213398-marco-polo-bridge-incident.json](./213398-marco-polo-bridge-incident.json) |
@@ -12765,6 +12767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
 | Midway Arcade | 93496 | [93496-midway-arcade.json](./93496-midway-arcade.json) |
 | Midway Arcade Origins | 7070 | [7070-midway-arcade-origins.json](./7070-midway-arcade-origins.json) |
+| Midway Arcade Treasures | 4007 | [4007-midway-arcade-treasures.json](./4007-midway-arcade-treasures.json) |
 | Midway Arcade Treasures 2 | 4008 | [4008-midway-arcade-treasures-2.json](./4008-midway-arcade-treasures-2.json) |
 | Midway Arcade Treasures: Deluxe Edition | 73419 | [73419-midway-arcade-treasures-deluxe-edition.json](./73419-midway-arcade-treasures-deluxe-edition.json) |
 | Midway Arcade Treasures: Extended Play | 71407 | [71407-midway-arcade-treasures-extended-play.json](./71407-midway-arcade-treasures-extended-play.json) |
