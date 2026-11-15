@@ -2641,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Million Coins | 424284 | [424284-one-million-coins.json](./424284-one-million-coins.json) |
 | One Million Kisses | 417967 | [417967-one-million-kisses.json](./417967-one-million-kisses.json) |
 | One Million Miles | 223610 | [223610-one-million-miles.json](./223610-one-million-miles.json) |
+| One Million Skeletons | 427601 | [427601-one-million-skeletons.json](./427601-one-million-skeletons.json) |
 | One Million Stars | 333652 | [333652-one-million-stars.json](./333652-one-million-stars.json) |
 | One Million Worlds | 114599 | [114599-one-million-worlds.json](./114599-one-million-worlds.json) |
 | One Mind | 390594 | [390594-one-mind.json](./390594-one-mind.json) |
@@ -3685,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open For Business | 399958 | [399958-open-for-business.json](./399958-open-for-business.json) |
 | Open Fortress | 134576 | [134576-open-fortress.json](./134576-open-fortress.json) |
 | Open Gizmy Zimy | 400186 | [400186-open-gizmy-zimy.json](./400186-open-gizmy-zimy.json) |
+| Open Headcount | 427599 | [427599-open-headcount.json](./427599-open-headcount.json) |
 | Open Heart: Book 1 | 313721 | [313721-open-heart-book-1.json](./313721-open-heart-book-1.json) |
 | Open Heart: Second Year | 313722 | [313722-open-heart-second-year.json](./313722-open-heart-second-year.json) |
 | Open Heart: Third Year | 313723 | [313723-open-heart-third-year.json](./313723-open-heart-third-year.json) |
