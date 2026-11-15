@@ -8171,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Panther's Magic Island | 66845 | [66845-pink-panthers-magic-island.json](./66845-pink-panthers-magic-island.json) |
 | Pink Panther's Shapes and Colors | 66847 | [66847-pink-panthers-shapes-and-colors.json](./66847-pink-panthers-shapes-and-colors.json) |
 | Pink Pong | 287585 | [287585-pink-pong.json](./287585-pink-pong.json) |
+| Pink Pong | 43586 | [43586-pink-pong.json](./43586-pink-pong.json) |
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
 | Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
 | Pink Rose | 185169 | [185169-pink-rose.json](./185169-pink-rose.json) |
@@ -18999,6 +19000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | Psyvariar: Medium Unit | 137925 | [137925-psyvariar-medium-unit.json](./137925-psyvariar-medium-unit.json) |
 | Psyworld | 79785 | [79785-psyworld.json](./79785-psyworld.json) |
+| PT 109 | 44150 | [44150-pt-109.json](./44150-pt-109.json) |
 | PT Boats: South Gambit | 15770 | [15770-pt-boats-south-gambit.json](./15770-pt-boats-south-gambit.json) |
 | PT-109 | 71181 | [71181-pt-109.json](./71181-pt-109.json) |
 | PTCS: A Post Traumatic Christmas Special | 312624 | [312624-ptcs-a-post-traumatic-christmas-special.json](./312624-ptcs-a-post-traumatic-christmas-special.json) |
