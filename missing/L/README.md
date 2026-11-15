@@ -11000,7 +11000,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunaria Story | 61770 | [61770-lunaria-story.json](./61770-lunaria-story.json) |
 | Lunaris | 353947 | [353947-lunaris.json](./353947-lunaris.json) |
 | Lunarium | 301234 | [301234-lunarium.json](./301234-lunarium.json) |
-| Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
 | LunarLux | 134188 | [134188-lunarlux.json](./134188-lunarlux.json) |
 | Lunarpunk | 256565 | [256565-lunarpunk.json](./256565-lunarpunk.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
