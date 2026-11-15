@@ -11932,6 +11932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire - Search for the Journal | 71876 | [71876-disneys-atlantis-the-lost-empire-search-for-the-journal.json](./71876-disneys-atlantis-the-lost-empire-search-for-the-journal.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
+| Disney's Atlantis: The Lost Empire / Disney's Hercules Bundle | 423968 | [423968-disneys-atlantis-the-lost-empire-disneys-hercules-bundle.json](./423968-disneys-atlantis-the-lost-empire-disneys-hercules-bundle.json) |
 | Disney's Beauty and the Beast | 19097 | [19097-disneys-beauty-and-the-beast.json](./19097-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast | 198696 | [198696-disneys-beauty-and-the-beast.json](./198696-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast | 280811 | [280811-disneys-beauty-and-the-beast.json](./280811-disneys-beauty-and-the-beast.json) |
@@ -19230,6 +19231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droste Detective | 385018 | [385018-droste-detective.json](./385018-droste-detective.json) |
 | Droste Effect | 286322 | [286322-droste-effect.json](./286322-droste-effect.json) |
 | Drought | 261442 | [261442-drought.json](./261442-drought.json) |
+| Drova II | 423846 | [423846-drova-ii.json](./423846-drova-ii.json) |
 | Drova: Forsaken Kin | 141490 | [141490-drova-forsaken-kin.json](./141490-drova-forsaken-kin.json) |
 | Drow Space Shooter | 360557 | [360557-drow-space-shooter.json](./360557-drow-space-shooter.json) |
 | Drown in Yesterday's Sea | 411780 | [411780-drown-in-yesterdays-sea.json](./411780-drown-in-yesterdays-sea.json) |
@@ -19457,6 +19459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
 | Dry Voices: who are you? | 128746 | [128746-dry-voices-who-are-you.json](./128746-dry-voices-who-are-you.json) |
 | Dryad | 164163 | [164163-dryad.json](./164163-dryad.json) |
+| DryadDash | 423918 | [423918-dryaddash.json](./423918-dryaddash.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
 | Dryft City Kyngs | 236158 | [236158-dryft-city-kyngs.json](./236158-dryft-city-kyngs.json) |
 | Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
