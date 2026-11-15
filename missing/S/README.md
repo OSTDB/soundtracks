@@ -7283,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
 | SGarden | 180050 | [180050-sgarden.json](./180050-sgarden.json) |
 | SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
+| SGI Dogfight | 56710 | [56710-sgi-dogfight.json](./56710-sgi-dogfight.json) |
 | Sgrizam | 85748 | [85748-sgrizam.json](./85748-sgrizam.json) |
 | SGS Afrika Korps | 161542 | [161542-sgs-afrika-korps.json](./161542-sgs-afrika-korps.json) |
 | SGS Afrika Korps: Tunisia | 174061 | [174061-sgs-afrika-korps-tunisia.json](./174061-sgs-afrika-korps-tunisia.json) |
@@ -28621,6 +28622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starters Orders 4 Horse Racing: Jumps Edition | 175566 | [175566-starters-orders-4-horse-racing-jumps-edition.json](./175566-starters-orders-4-horse-racing-jumps-edition.json) |
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
+| Startide | 56685 | [56685-startide.json](./56685-startide.json) |
 | Starting a Village from Zero | 405140 | [405140-starting-a-village-from-zero.json](./405140-starting-a-village-from-zero.json) |
 | Starting Blocks | 272808 | [272808-starting-blocks.json](./272808-starting-blocks.json) |
 | Starting Life In Another World Naked | 208421 | [208421-starting-life-in-another-world-naked.json](./208421-starting-life-in-another-world-naked.json) |
