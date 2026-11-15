@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Quest | 27488 | [27488-dark-quest.json](./27488-dark-quest.json) |
 | Dark Quest 1 & 2 | 154194 | [154194-dark-quest-1-and-2.json](./154194-dark-quest-1-and-2.json) |
+| Dark Quest 2 | 27487 | [27487-dark-quest-2.json](./27487-dark-quest-2.json) |
 | Dark Quest 3 | 246295 | [246295-dark-quest-3.json](./246295-dark-quest-3.json) |
 | Dark Quest 4 | 345656 | [345656-dark-quest-4.json](./345656-dark-quest-4.json) |
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
