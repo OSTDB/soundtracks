@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden Football | 131420 | [131420-madden-football.json](./131420-madden-football.json) |
 | Madden Football 64 | 3536 | [3536-madden-football-64.json](./3536-madden-football-64.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
+| Madden NFL '94 | 4381 | [4381-madden-nfl-94.json](./4381-madden-nfl-94.json) |
 | Madden NFL '95 | 282501 | [282501-madden-nfl-95.json](./282501-madden-nfl-95.json) |
 | Madden NFL 06 | 243002 | [243002-madden-nfl-06.json](./243002-madden-nfl-06.json) |
 | Madden NFL 06 | 243003 | [243003-madden-nfl-06.json](./243003-madden-nfl-06.json) |
@@ -4944,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Industries | 30778 | [30778-mars-industries.json](./30778-mars-industries.json) |
 | Mars Lives!! | 322612 | [322612-mars-lives.json](./322612-mars-lives.json) |
 | Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
+| Mars Matrix | 4356 | [4356-mars-matrix.json](./4356-mars-matrix.json) |
 | Mars Mayhem: Shooter Simulator Warfare | 306751 | [306751-mars-mayhem-shooter-simulator-warfare.json](./306751-mars-mayhem-shooter-simulator-warfare.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Mirage | 341214 | [341214-mars-mirage.json](./341214-mars-mirage.json) |
@@ -6647,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel | 294640 | [294640-max-steel.json](./294640-max-steel.json) |
 | Max Steel: Combate | 294639 | [294639-max-steel-combate.json](./294639-max-steel-combate.json) |
 | Max Steel: Covert Missions | 200965 | [200965-max-steel-covert-missions.json](./200965-max-steel-covert-missions.json) |
+| Max Steel: Covert Missions | 4352 | [4352-max-steel-covert-missions.json](./4352-max-steel-covert-missions.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
@@ -10183,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meng Jun Gan Si Dui | 319846 | [319846-meng-jun-gan-si-dui.json](./319846-meng-jun-gan-si-dui.json) |
 | Mèng Luò Fánchén | 148881 | [148881-meng-luo-fanchen.json](./148881-meng-luo-fanchen.json) |
 | Mènghuàn Jiānghú | 148576 | [148576-menghuan-jianghu.json](./148576-menghuan-jianghu.json) |
+| Menghuan Shuiguo Pan: 777 Casino | 4392 | [4392-menghuan-shuiguo-pan-777-casino.json](./4392-menghuan-shuiguo-pan-777-casino.json) |
 | Mènghuàn Shuǐguǒ Pán: 777 Casino | 86066 | [86066-menghuan-shuiguo-pan-777-casino.json](./86066-menghuan-shuiguo-pan-777-casino.json) |
 | Mèngyá | 118031 | [118031-mengya.json](./118031-mengya.json) |
 | Menhera & Troll | 344713 | [344713-menhera-and-troll.json](./344713-menhera-and-troll.json) |
@@ -10884,6 +10888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Eye 2 | 308247 | [308247-metal-eye-2.json](./308247-metal-eye-2.json) |
 | Metal Factions | 141558 | [141558-metal-factions.json](./141558-metal-factions.json) |
 | Metal Faith | 161166 | [161166-metal-faith.json](./161166-metal-faith.json) |
+| Metal Fangs | 4398 | [4398-metal-fangs.json](./4398-metal-fangs.json) |
 | Metal Fatigue | 24128 | [24128-metal-fatigue.json](./24128-metal-fatigue.json) |
 | Metal Fight Beyblade DS | 69169 | [69169-metal-fight-beyblade-ds.json](./69169-metal-fight-beyblade-ds.json) |
 | Metal Fight Beyblade Portable: Chouzetsu Tensei! Vulcan Horuseus | 65197 | [65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json](./65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json) |
@@ -11930,6 +11935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcivilization | 236229 | [236229-microcivilization.json](./236229-microcivilization.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
+| Microcosm | 4255 | [4255-microcosm.json](./4255-microcosm.json) |
 | Microcosmum 2 | 158865 | [158865-microcosmum-2.json](./158865-microcosmum-2.json) |
 | Microcosmum 2: Mission Generator - Abyss | 317748 | [317748-microcosmum-2-mission-generator-abyss.json](./317748-microcosmum-2-mission-generator-abyss.json) |
 | Microcosmum: Survival of Cells | 34896 | [34896-microcosmum-survival-of-cells.json](./34896-microcosmum-survival-of-cells.json) |
@@ -12762,6 +12768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway's Greatest Arcade Hits | 209512 | [209512-midways-greatest-arcade-hits.json](./209512-midways-greatest-arcade-hits.json) |
 | Midway's Greatest Arcade Hits: Volume 1 | 286966 | [286966-midways-greatest-arcade-hits-volume-1.json](./286966-midways-greatest-arcade-hits-volume-1.json) |
 | Midway's Greatest Arcade Hits: Volume 1 | 47679 | [47679-midways-greatest-arcade-hits-volume-1.json](./47679-midways-greatest-arcade-hits-volume-1.json) |
+| Midway's Greatest Arcade Hits: Volume 2 | 4360 | [4360-midways-greatest-arcade-hits-volume-2.json](./4360-midways-greatest-arcade-hits-volume-2.json) |
 | Midwest 90: Rapid City | 217135 | [217135-midwest-90-rapid-city.json](./217135-midwest-90-rapid-city.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwest Goodbye | 414183 | [414183-midwest-goodbye.json](./414183-midwest-goodbye.json) |
