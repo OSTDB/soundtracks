@@ -6113,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue HQ: The Tycoon | 118670 | [118670-rescue-hq-the-tycoon.json](./118670-rescue-hq-the-tycoon.json) |
 | Rescue HQ: The Tycoon - Coastguard | 155039 | [155039-rescue-hq-the-tycoon-coastguard.json](./155039-rescue-hq-the-tycoon-coastguard.json) |
 | Rescue Love Revenge | 34576 | [34576-rescue-love-revenge.json](./34576-rescue-love-revenge.json) |
+| Rescue Lucy | 32587 | [32587-rescue-lucy.json](./32587-rescue-lucy.json) |
 | Rescue Lucy 2 | 121098 | [121098-rescue-lucy-2.json](./121098-rescue-lucy-2.json) |
 | Rescue Mael! | 185105 | [185105-rescue-mael.json](./185105-rescue-mael.json) |
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
@@ -8412,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftstorm | 244671 | [244671-riftstorm.json](./244671-riftstorm.json) |
 | Riftstrider | 293009 | [293009-riftstrider.json](./293009-riftstrider.json) |
+| Riftsworn | 429727 | [429727-riftsworn.json](./429727-riftsworn.json) |
 | Riftwalker | 112730 | [112730-riftwalker.json](./112730-riftwalker.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
@@ -11167,6 +11169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Citadel | 299379 | [299379-rogue-citadel.json](./299379-rogue-citadel.json) |
 | Rogue City: Casual Top Down Shooter | 266434 | [266434-rogue-city-casual-top-down-shooter.json](./266434-rogue-city-casual-top-down-shooter.json) |
 | Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
+| Rogue Collector | 429761 | [429761-rogue-collector.json](./429761-rogue-collector.json) |
 | Rogue Command | 187101 | [187101-rogue-command.json](./187101-rogue-command.json) |
 | Rogue Company | 122235 | [122235-rogue-company.json](./122235-rogue-company.json) |
 | Rogue Company Mobile | 175694 | [175694-rogue-company-mobile.json](./175694-rogue-company-mobile.json) |
