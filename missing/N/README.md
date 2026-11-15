@@ -5395,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nildigo | 347788 | [347788-nildigo.json](./347788-nildigo.json) |
 | Nile Kawa no Yoake | 130470 | [130470-nile-kawa-no-yoake.json](./130470-nile-kawa-no-yoake.json) |
 | Nile: An Ancient Egyptian Quest | 71042 | [71042-nile-an-ancient-egyptian-quest.json](./71042-nile-an-ancient-egyptian-quest.json) |
+| Nile: Passage to Egypt | 69989 | [69989-nile-passage-to-egypt.json](./69989-nile-passage-to-egypt.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
 | Nillhana | 82252 | [82252-nillhana.json](./82252-nillhana.json) |
 | Nils Holgerssons wunderbare Reise | 325680 | [325680-nils-holgerssons-wunderbare-reise.json](./325680-nils-holgerssons-wunderbare-reise.json) |
