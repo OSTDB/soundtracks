@@ -5334,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikhil Murthy's Syphilisation | 165742 | [165742-nikhil-murthys-syphilisation.json](./165742-nikhil-murthys-syphilisation.json) |
 | Nikhoj | 183166 | [183166-nikhoj.json](./183166-nikhoj.json) |
 | Niki in the Ship | 172916 | [172916-niki-in-the-ship.json](./172916-niki-in-the-ship.json) |
+| Niki: Rock 'n' Ball | 70522 | [70522-niki-rock-n-ball.json](./70522-niki-rock-n-ball.json) |
 | Nikita: Speedy Pirates | 253732 | [253732-nikita-speedy-pirates.json](./253732-nikita-speedy-pirates.json) |
 | Nikita: The Mystery of the Hidden Treasure | 77552 | [77552-nikita-the-mystery-of-the-hidden-treasure.json](./77552-nikita-the-mystery-of-the-hidden-treasure.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
