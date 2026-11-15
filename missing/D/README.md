@@ -15940,6 +15940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
 | Dr. Doe's Chemistry Quiz | 205624 | [205624-dr-does-chemistry-quiz.json](./205624-dr-does-chemistry-quiz.json) |
 | Dr. Dolittle | 43255 | [43255-dr-dolittle.json](./43255-dr-dolittle.json) |
+| Dr. Doyle & The Mystery of the Cloche Hat | 28314 | [28314-dr-doyle-and-the-mystery-of-the-cloche-hat.json](./28314-dr-doyle-and-the-mystery-of-the-cloche-hat.json) |
 | Dr. Drago's Madcap Chase | 73682 | [73682-dr-dragos-madcap-chase.json](./73682-dr-dragos-madcap-chase.json) |
 | Dr. Driving | 263404 | [263404-dr-driving.json](./263404-dr-driving.json) |
 | Dr. Dude | 92441 | [92441-dr-dude.json](./92441-dr-dude.json) |
