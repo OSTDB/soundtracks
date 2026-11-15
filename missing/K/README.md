@@ -5790,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koloro | 29966 | [29966-koloro.json](./29966-koloro.json) |
 | Koloss | 258806 | [258806-koloss.json](./258806-koloss.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
+| Kolteka | 425155 | [425155-kolteka.json](./425155-kolteka.json) |
 | Koltera | 287138 | [287138-koltera.json](./287138-koltera.json) |
 | Koltera 2 | 392207 | [392207-koltera-2.json](./392207-koltera-2.json) |
 | Kolumno | 111641 | [111641-kolumno.json](./111641-kolumno.json) |
