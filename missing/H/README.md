@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habbo | 27522 | [27522-habbo.json](./27522-habbo.json) |
 | Habbo Hotel: Origins | 306033 | [306033-habbo-hotel-origins.json](./306033-habbo-hotel-origins.json) |
+| Habbo Islands | 61225 | [61225-habbo-islands.json](./61225-habbo-islands.json) |
 | HaberDashers | 155907 | [155907-haberdashers.json](./155907-haberdashers.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitants | 302868 | [302868-habitants.json](./302868-habitants.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
 | Heartbeat | 176978 | [176978-heartbeat.json](./176978-heartbeat.json) |
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
+| Heartbeat Boxing | 61241 | [61241-heartbeat-boxing.json](./61241-heartbeat-boxing.json) |
 | Heartbeat Girlfriend | 278100 | [278100-heartbeat-girlfriend.json](./278100-heartbeat-girlfriend.json) |
 | Heartbeat Hospital: Love, Lies, and Betrayal | 249510 | [249510-heartbeat-hospital-love-lies-and-betrayal.json](./249510-heartbeat-hospital-love-lies-and-betrayal.json) |
 | Heartbeat House: Hong Kong | 386218 | [386218-heartbeat-house-hong-kong.json](./386218-heartbeat-house-hong-kong.json) |
@@ -8402,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideaway | 195946 | [195946-hideaway.json](./195946-hideaway.json) |
 | Hideaways Lost Island | 53212 | [53212-hideaways-lost-island.json](./53212-hideaways-lost-island.json) |
 | Hideaways: Foggy Valley | 84519 | [84519-hideaways-foggy-valley.json](./84519-hideaways-foggy-valley.json) |
+| Hideboh: Tap Dance Hero | 61236 | [61236-hideboh-tap-dance-hero.json](./61236-hideboh-tap-dance-hero.json) |
 | Hideko | 326201 | [326201-hideko.json](./326201-hideko.json) |
 | Hiden Inyou Kikouhou: Ca Da | 286595 | [286595-hiden-inyou-kikouhou-ca-da.json](./286595-hiden-inyou-kikouhou-ca-da.json) |
 | Hiden Ruin | 233889 | [233889-hiden-ruin.json](./233889-hiden-ruin.json) |
@@ -13943,6 +13946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Fighter Boost Mode ON | 98895 | [98895-hyper-fighter-boost-mode-on.json](./98895-hyper-fighter-boost-mode-on.json) |
 | Hyper Fighters | 10423 | [10423-hyper-fighters.json](./10423-hyper-fighters.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
+| Hyper Final Match Tennis | 61245 | [61245-hyper-final-match-tennis.json](./61245-hyper-final-match-tennis.json) |
 | Hyper Flex | 288178 | [288178-hyper-flex.json](./288178-hyper-flex.json) |
 | Hyper Flight | 117486 | [117486-hyper-flight.json](./117486-hyper-flight.json) |
 | Hyper Flux | 293571 | [293571-hyper-flux.json](./293571-hyper-flux.json) |
