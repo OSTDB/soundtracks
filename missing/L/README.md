@@ -3589,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Ninjago: Ride Ninja | 100445 | [100445-lego-ninjago-ride-ninja.json](./100445-lego-ninjago-ride-ninja.json) |
 | LEGO Ninjago: Rise of the snakes | 187123 | [187123-lego-ninjago-rise-of-the-snakes.json](./187123-lego-ninjago-rise-of-the-snakes.json) |
 | LEGO Ninjago: Shadow of Ronin | 19006 | [19006-lego-ninjago-shadow-of-ronin.json](./19006-lego-ninjago-shadow-of-ronin.json) |
+| LEGO Ninjago: Skybound | 69467 | [69467-lego-ninjago-skybound.json](./69467-lego-ninjago-skybound.json) |
 | LEGO Ninjago: Spinjitzu Scavenger Hunt | 187122 | [187122-lego-ninjago-spinjitzu-scavenger-hunt.json](./187122-lego-ninjago-spinjitzu-scavenger-hunt.json) |
 | LEGO Ninjago: Spinjitzu Smash | 251420 | [251420-lego-ninjago-spinjitzu-smash.json](./251420-lego-ninjago-spinjitzu-smash.json) |
 | LEGO Ninjago: Spinjitzu Smash DX | 343140 | [343140-lego-ninjago-spinjitzu-smash-dx.json](./343140-lego-ninjago-spinjitzu-smash-dx.json) |
@@ -3598,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
 | LEGO Ninjago: Viper Smash | 343132 | [343132-lego-ninjago-viper-smash.json](./343132-lego-ninjago-viper-smash.json) |
 | LEGO Ninjago: Viper Smash ZX | 343133 | [343133-lego-ninjago-viper-smash-zx.json](./343133-lego-ninjago-viper-smash-zx.json) |
+| LEGO Ninjago: Wu Cru | 69468 | [69468-lego-ninjago-wu-cru.json](./69468-lego-ninjago-wu-cru.json) |
 | LEGO Orient Expedition: The Quest for the Golden Dragon | 210319 | [210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json](./210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json) |
 | LEGO Party! | 347661 | [347661-lego-party.json](./347661-lego-party.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
@@ -4760,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liars Maze | 225248 | [225248-liars-maze.json](./225248-liars-maze.json) |
 | Liars Race in Lost Ruins | 224968 | [224968-liars-race-in-lost-ruins.json](./224968-liars-race-in-lost-ruins.json) |
 | Liars Village | 143248 | [143248-liars-village.json](./143248-liars-village.json) |
+| Liath: WorldSpiral | 69594 | [69594-liath-worldspiral.json](./69594-liath-worldspiral.json) |
 | Libbet the Boulder Girl | 309224 | [309224-libbet-the-boulder-girl.json](./309224-libbet-the-boulder-girl.json) |
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
