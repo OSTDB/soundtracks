@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candyman: Be My Victim Demake | 234378 | [234378-candyman-be-my-victim-demake.json](./234378-candyman-be-my-victim-demake.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
+| CandyPop | 427587 | [427587-candypop.json](./427587-candypop.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
 | CandySnake | 334789 | [334789-candysnake.json](./334789-candysnake.json) |
 | CandySnake 2 | 107463 | [107463-candysnake-2.json](./107463-candysnake-2.json) |
@@ -10211,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirro Investigates: The Chilling Truth Behind Deck 13!! | 188547 | [188547-cirro-investigates-the-chilling-truth-behind-deck-13.json](./188547-cirro-investigates-the-chilling-truth-behind-deck-13.json) |
 | Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
+| Cirtemin | 427572 | [427572-cirtemin.json](./427572-cirtemin.json) |
 | Cis Penance: Transgender Lives in Wait in the UK | 199807 | [199807-cis-penance-transgender-lives-in-wait-in-the-uk.json](./199807-cis-penance-transgender-lives-in-wait-in-the-uk.json) |
 | Cisco Heat | 12005 | [12005-cisco-heat.json](./12005-cisco-heat.json) |
 | Cisini Stories | 318338 | [318338-cisini-stories.json](./318338-cisini-stories.json) |
