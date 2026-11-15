@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
 | Majin Woman | 106148 | [106148-majin-woman.json](./106148-majin-woman.json) |
+| MajiTen: Maji de Tenshi wo Tsukutte Mita | 64602 | [64602-majiten-maji-de-tenshi-wo-tsukutte-mita.json](./64602-majiten-maji-de-tenshi-wo-tsukutte-mita.json) |
 | Majjam | 353755 | [353755-majjam.json](./353755-majjam.json) |
 | Majo | 413181 | [413181-majo.json](./413181-majo.json) |
 | Majo Archive | 288404 | [288404-majo-archive.json](./288404-majo-archive.json) |
@@ -17816,6 +17817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
 | Monster Legends: Collect Them! | 259888 | [259888-monster-legends-collect-them.json](./259888-monster-legends-collect-them.json) |
+| Monster Life | 64594 | [64594-monster-life.json](./64594-monster-life.json) |
 | Monster Lily | 390568 | [390568-monster-lily.json](./390568-monster-lily.json) |
 | Monster Line of Defense | 258887 | [258887-monster-line-of-defense.json](./258887-monster-line-of-defense.json) |
 | Monster Logic | 115362 | [115362-monster-logic.json](./115362-monster-logic.json) |
@@ -24456,6 +24458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: The Four Aces & Mystery Trackers: Silent Hollow | 200955 | [200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json](./200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json) |
 | Mystery Trackers: The Secret of Watch Hill | 187957 | [187957-mystery-trackers-the-secret-of-watch-hill.json](./187957-mystery-trackers-the-secret-of-watch-hill.json) |
 | Mystery Trackers: The Shrouded Village | 416698 | [416698-mystery-trackers-the-shrouded-village.json](./416698-mystery-trackers-the-shrouded-village.json) |
+| Mystery Trackers: The Void | 64581 | [64581-mystery-trackers-the-void.json](./64581-mystery-trackers-the-void.json) |
 | Mystery Trackers: The Void - Collector's Edition | 31337 | [31337-mystery-trackers-the-void-collectors-edition.json](./31337-mystery-trackers-the-void-collectors-edition.json) |
 | Mystery Trackers: Train to Hellswich | 187965 | [187965-mystery-trackers-train-to-hellswich.json](./187965-mystery-trackers-train-to-hellswich.json) |
 | Mystery Trackers: Train to Hellswich - Collector's Edition | 169278 | [169278-mystery-trackers-train-to-hellswich-collectors-edition.json](./169278-mystery-trackers-train-to-hellswich-collectors-edition.json) |
