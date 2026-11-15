@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal Cookout: Lines | 238982 | [238982-cannibal-cookout-lines.json](./238982-cannibal-cookout-lines.json) |
 | Cannibal Court | 395205 | [395205-cannibal-court.json](./395205-cannibal-court.json) |
 | Cannibal Crossing | 140364 | [140364-cannibal-crossing.json](./140364-cannibal-crossing.json) |
+| Cannibal Cuisine | 125671 | [125671-cannibal-cuisine.json](./125671-cannibal-cuisine.json) |
 | Cannibal Date | 388499 | [388499-cannibal-date.json](./388499-cannibal-date.json) |
 | Cannibal Harvest | 334645 | [334645-cannibal-harvest.json](./334645-cannibal-harvest.json) |
 | Cannibal Island | 13990 | [13990-cannibal-island.json](./13990-cannibal-island.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
 | Captain ToonHead vs. The Punks from Outer Space | 157712 | [157712-captain-toonhead-vs-the-punks-from-outer-space.json](./157712-captain-toonhead-vs-the-punks-from-outer-space.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
+| Captain Tsubasa | 5369 | [5369-captain-tsubasa.json](./5369-captain-tsubasa.json) |
 | Captain Tsubasa | 78088 | [78088-captain-tsubasa.json](./78088-captain-tsubasa.json) |
 | Captain Tsubasa II: World Fighters | 388427 | [388427-captain-tsubasa-ii-world-fighters.json](./388427-captain-tsubasa-ii-world-fighters.json) |
 | Captain Tsubasa II: World Fighters - 2026 Japan National Team & World Youth Jersey Set | 407291 | [407291-captain-tsubasa-ii-world-fighters-2026-japan-national-team-and-world-youth-jersey-set.json](./407291-captain-tsubasa-ii-world-fighters-2026-japan-national-team-and-world-youth-jersey-set.json) |
@@ -12498,6 +12500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
 | Cobra Club | 141387 | [141387-cobra-club.json](./141387-cobra-club.json) |
 | Cobra Command | 290272 | [290272-cobra-command.json](./290272-cobra-command.json) |
+| Cobra Command | 5371 | [5371-cobra-command.json](./5371-cobra-command.json) |
 | Cobra Command | 69496 | [69496-cobra-command.json](./69496-cobra-command.json) |
 | Cobra Command / Sol-Feace | 259205 | [259205-cobra-command-sol-feace.json](./259205-cobra-command-sol-feace.json) |
 | Cobra Force | 13500 | [13500-cobra-force.json](./13500-cobra-force.json) |
