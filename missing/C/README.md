@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan Manager | 420495 | [420495-caravan-manager.json](./420495-caravan-manager.json) |
 | Caravan Quest: Discover America | 336983 | [336983-caravan-quest-discover-america.json](./336983-caravan-quest-discover-america.json) |
 | Caravan Racers | 323854 | [323854-caravan-racers.json](./323854-caravan-racers.json) |
+| Caravan Shooting Collection | 42280 | [42280-caravan-shooting-collection.json](./42280-caravan-shooting-collection.json) |
 | Caravan Stories | 109279 | [109279-caravan-stories.json](./109279-caravan-stories.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Caravan Trade Tycoon | 138673 | [138673-caravan-trade-tycoon.json](./138673-caravan-trade-tycoon.json) |
@@ -13321,6 +13322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Slam | 282963 | [282963-college-slam.json](./282963-college-slam.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Slam | 4541 | [4541-college-slam.json](./4541-college-slam.json) |
+| College Slam 2017 | 42284 | [42284-college-slam-2017.json](./42284-college-slam-2017.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Collidalot | 111148 | [111148-collidalot.json](./111148-collidalot.json) |
 | Collide | 87772 | [87772-collide.json](./87772-collide.json) |
