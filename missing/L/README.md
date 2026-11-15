@@ -9250,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands 2: The Four Horsemen | 146930 | [146930-lost-lands-2-the-four-horsemen.json](./146930-lost-lands-2-the-four-horsemen.json) |
 | Lost Lands Collection | 53293 | [53293-lost-lands-collection.json](./53293-lost-lands-collection.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
+| Lost Lands: A Hidden Object Adventure | 34696 | [34696-lost-lands-a-hidden-object-adventure.json](./34696-lost-lands-a-hidden-object-adventure.json) |
 | Lost Lands: Dark Overlord | 35078 | [35078-lost-lands-dark-overlord.json](./35078-lost-lands-dark-overlord.json) |
 | Lost Lands: Ice Spell | 105285 | [105285-lost-lands-ice-spell.json](./105285-lost-lands-ice-spell.json) |
 | Lost Lands: Mahjong | 33702 | [33702-lost-lands-mahjong.json](./33702-lost-lands-mahjong.json) |
