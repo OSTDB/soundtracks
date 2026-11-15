@@ -6817,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares: Enhanced Edition - The Residence | 373461 | [373461-little-nightmares-enhanced-edition-the-residence.json](./373461-little-nightmares-enhanced-edition-the-residence.json) |
 | Little Nightmares: Fox Mask | 274645 | [274645-little-nightmares-fox-mask.json](./274645-little-nightmares-fox-mask.json) |
 | Little Nightmares: Secrets of the Maw - Expansion Pass | 36838 | [36838-little-nightmares-secrets-of-the-maw-expansion-pass.json](./36838-little-nightmares-secrets-of-the-maw-expansion-pass.json) |
+| Little Nightmares: Six Edition | 41642 | [41642-little-nightmares-six-edition.json](./41642-little-nightmares-six-edition.json) |
 | Little Nightmares: Tengu Mask | 274646 | [274646-little-nightmares-tengu-mask.json](./274646-little-nightmares-tengu-mask.json) |
 | Little Nightmares: The Depths | 36834 | [36834-little-nightmares-the-depths.json](./36834-little-nightmares-the-depths.json) |
 | Little Nightmares: The Residence | 36837 | [36837-little-nightmares-the-residence.json](./36837-little-nightmares-the-residence.json) |
