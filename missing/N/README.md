@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromage | 305706 | [305706-necromage.json](./305706-necromage.json) |
 | Necromance-chan | 151791 | [151791-necromance-chan.json](./151791-necromance-chan.json) |
 | Necromancer | 145147 | [145147-necromancer.json](./145147-necromancer.json) |
+| Necromancer | 18661 | [18661-necromancer.json](./18661-necromancer.json) |
 | Necromancer | 313953 | [313953-necromancer.json](./313953-necromancer.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nested | 350086 | [350086-nested.json](./350086-nested.json) |
 | Nested Lands | 270136 | [270136-nested-lands.json](./270136-nested-lands.json) |
 | Nested Rooms | 186812 | [186812-nested-rooms.json](./186812-nested-rooms.json) |
+| Nester's Funky Bowling | 20387 | [20387-nesters-funky-bowling.json](./20387-nesters-funky-bowling.json) |
 | Nestify | 403936 | [403936-nestify.json](./403936-nestify.json) |
 | Nestle Close | 97620 | [97620-nestle-close.json](./97620-nestle-close.json) |
 | Nestle Close 2 | 97618 | [97618-nestle-close-2.json](./97618-nestle-close-2.json) |
@@ -4300,6 +4302,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Eastside Hockey Manager 2005 | 80334 | [80334-nhl-eastside-hockey-manager-2005.json](./80334-nhl-eastside-hockey-manager-2005.json) |
 | NHL Eastside Hockey Manager 2007 | 70454 | [70454-nhl-eastside-hockey-manager-2007.json](./70454-nhl-eastside-hockey-manager-2007.json) |
 | NHL Face Off '97 | 43696 | [43696-nhl-face-off-97.json](./43696-nhl-face-off-97.json) |
+| NHL FaceOff | 20428 | [20428-nhl-faceoff.json](./20428-nhl-faceoff.json) |
+| NHL FaceOff 2000 | 20432 | [20432-nhl-faceoff-2000.json](./20432-nhl-faceoff-2000.json) |
+| NHL FaceOff 2001 | 20433 | [20433-nhl-faceoff-2001.json](./20433-nhl-faceoff-2001.json) |
+| NHL FaceOff 2003 | 20434 | [20434-nhl-faceoff-2003.json](./20434-nhl-faceoff-2003.json) |
+| NHL FaceOff 98 | 20430 | [20430-nhl-faceoff-98.json](./20430-nhl-faceoff-98.json) |
+| NHL FaceOff 99 | 20431 | [20431-nhl-faceoff-99.json](./20431-nhl-faceoff-99.json) |
 | NHL Hitz 2002 | 4046 | [4046-nhl-hitz-2002.json](./4046-nhl-hitz-2002.json) |
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
@@ -6307,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Escape | 45769 | [45769-no-escape.json](./45769-no-escape.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
+| No Escape! | 18672 | [18672-no-escape.json](./18672-no-escape.json) |
 | No Excavation Needed | 184552 | [184552-no-excavation-needed.json](./184552-no-excavation-needed.json) |
 | No Exit | 370749 | [370749-no-exit.json](./370749-no-exit.json) |
 | No Exit | 374356 | [374356-no-exit.json](./374356-no-exit.json) |
@@ -7912,6 +7921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Assault | 26151 | [26151-nova-assault.json](./26151-nova-assault.json) |
 | Nova Assault | 389402 | [389402-nova-assault.json](./389402-nova-assault.json) |
 | Nova Battles | 205584 | [205584-nova-battles.json](./205584-nova-battles.json) |
+| Nova Blast | 18674 | [18674-nova-blast.json](./18674-nova-blast.json) |
 | Nova Blitz | 34801 | [34801-nova-blitz.json](./34801-nova-blitz.json) |
 | Nova Chasers | 397094 | [397094-nova-chasers.json](./397094-nova-chasers.json) |
 | Nova City Original | 230270 | [230270-nova-city-original.json](./230270-nova-city-original.json) |
