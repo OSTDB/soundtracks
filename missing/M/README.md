@@ -12316,6 +12316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Train Simulator: Heidi-Express | 73918 | [73918-microsoft-train-simulator-heidi-express.json](./73918-microsoft-train-simulator-heidi-express.json) |
 | Microsoft Train Simulator: Pro Train | 209869 | [209869-microsoft-train-simulator-pro-train.json](./209869-microsoft-train-simulator-pro-train.json) |
 | Microsoft Train Simulator: Pro Train II | 209868 | [209868-microsoft-train-simulator-pro-train-ii.json](./209868-microsoft-train-simulator-pro-train-ii.json) |
+| Microsoft Train Simulator: Regional Pack - USA and Canada | 68832 | [68832-microsoft-train-simulator-regional-pack-usa-and-canada.json](./68832-microsoft-train-simulator-regional-pack-usa-and-canada.json) |
 | Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
 | Microsoft Treasure Hunt | 57872 | [57872-microsoft-treasure-hunt.json](./57872-microsoft-treasure-hunt.json) |
 | Microsoft Ultimate Word Games | 55994 | [55994-microsoft-ultimate-word-games.json](./55994-microsoft-ultimate-word-games.json) |
@@ -12779,6 +12780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty & Ray in Sonic the Hedgehog 2 | 201720 | [201720-mighty-and-ray-in-sonic-the-hedgehog-2.json](./201720-mighty-and-ray-in-sonic-the-hedgehog-2.json) |
 | Mighty Action Heroes | 288660 | [288660-mighty-action-heroes.json](./288660-mighty-action-heroes.json) |
+| Mighty Action RPG | 68848 | [68848-mighty-action-rpg.json](./68848-mighty-action-rpg.json) |
 | Mighty Action X | 221009 | [221009-mighty-action-x.json](./221009-mighty-action-x.json) |
 | Mighty Alpha Droid | 56384 | [56384-mighty-alpha-droid.json](./56384-mighty-alpha-droid.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
@@ -17826,6 +17828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker II: Uru no Hiken | 318677 | [318677-monster-maker-ii-uru-no-hiken.json](./318677-monster-maker-ii-uru-no-hiken.json) |
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
+| Monster Maker Kids: Ou-sama ni Naritai | 67592 | [67592-monster-maker-kids-ou-sama-ni-naritai.json](./67592-monster-maker-kids-ou-sama-ni-naritai.json) |
 | Monster Maker: 7-tsu no Hihou | 48420 | [48420-monster-maker-7-tsu-no-hihou.json](./48420-monster-maker-7-tsu-no-hihou.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Man | 310998 | [310998-monster-man.json](./310998-monster-man.json) |
@@ -21065,6 +21068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSX Baseball | 94321 | [94321-msx-baseball.json](./94321-msx-baseball.json) |
 | MSX Baseball II | 80059 | [80059-msx-baseball-ii.json](./80059-msx-baseball-ii.json) |
 | MSX Copycat | 352337 | [352337-msx-copycat.json](./352337-msx-copycat.json) |
+| MSX Rugby | 68860 | [68860-msx-rugby.json](./68860-msx-rugby.json) |
 | MSX Soccer | 94680 | [94680-msx-soccer.json](./94680-msx-soccer.json) |
 | MSX-21 | 97805 | [97805-msx-21.json](./97805-msx-21.json) |
 | MSX-Dino | 267559 | [267559-msx-dino.json](./267559-msx-dino.json) |
