@@ -21013,7 +21013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulsland: Last Fight | 215718 | [215718-soulsland-last-fight.json](./215718-soulsland-last-fight.json) |
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
-| Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
 | Soulsmith | 89561 | [89561-soulsmith.json](./89561-soulsmith.json) |
 | Soulssss | 336952 | [336952-soulssss.json](./336952-soulssss.json) |
 | Soulstar | 5453 | [5453-soulstar.json](./5453-soulstar.json) |
@@ -21282,7 +21281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet City | 19866 | [19866-soviet-city.json](./19866-soviet-city.json) |
 | Soviet Hentai | 167409 | [167409-soviet-hentai.json](./167409-soviet-hentai.json) |
-| Soviet Jump Game | 127188 | [127188-soviet-jump-game.json](./127188-soviet-jump-game.json) |
 | Soviet Jump Game: Founder's Pack | 226915 | [226915-soviet-jump-game-founders-pack.json](./226915-soviet-jump-game-founders-pack.json) |
 | Soviet Jump Game: Kaiju Chaos Bundle | 226914 | [226914-soviet-jump-game-kaiju-chaos-bundle.json](./226914-soviet-jump-game-kaiju-chaos-bundle.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
