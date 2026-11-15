@@ -4243,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Killer Bismarck 3D | 106215 | [106215-battle-killer-bismarck-3d.json](./106215-battle-killer-bismarck-3d.json) |
 | Battle Kingdom | 419147 | [419147-battle-kingdom.json](./419147-battle-kingdom.json) |
 | Battle Kitty | 322249 | [322249-battle-kitty.json](./322249-battle-kitty.json) |
+| Battle Knights | 32325 | [32325-battle-knights.json](./32325-battle-knights.json) |
 | Battle Konchuuden | 242867 | [242867-battle-konchuuden.json](./242867-battle-konchuuden.json) |
 | Battle Lane Vol. 5 | 40028 | [40028-battle-lane-vol-5.json](./40028-battle-lane-vol-5.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
