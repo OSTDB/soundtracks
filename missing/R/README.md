@@ -3430,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
 | Real Wrestling Fighting Game | 266255 | [266255-real-wrestling-fighting-game.json](./266255-real-wrestling-fighting-game.json) |
 | Real Zombie War Simulator | 237297 | [237297-real-zombie-war-simulator.json](./237297-real-zombie-war-simulator.json) |
+| Real-Galaxy | 56087 | [56087-real-galaxy.json](./56087-real-galaxy.json) |
 | Real-Gostop VR | 293664 | [293664-real-gostop-vr.json](./293664-real-gostop-vr.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | Real-time Tactical 2D | 162054 | [162054-real-time-tactical-2d.json](./162054-real-time-tactical-2d.json) |
