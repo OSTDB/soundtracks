@@ -3,9 +3,23 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T00:21:06.340Z",
-  "total_soundtracks": 3327,
+  "generated_at": "2026-11-15T00:26:46.874Z",
+  "total_soundtracks": 3336,
   "games": [
+    {
+      "igdb_id": 292844,
+      "game_name": "[Redacted]",
+      "game_url": "https://ostdb.net/games/redacted",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733f3706697d184b3686f18006",
+      "albums": [
+        {
+          "album_name": "[REDACTED] (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6PC15BlCr8XSHfGsZIWFzy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
     {
       "igdb_id": 7522,
       "game_name": "0 A.D.",
@@ -9975,6 +9989,20 @@
       ]
     },
     {
+      "igdb_id": 287870,
+      "game_name": "Don't Stop, Girlypop!",
+      "game_url": "https://ostdb.net/games/dont-stop-girlypop",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731399d693efaab23f301e45ed",
+      "albums": [
+        {
+          "album_name": "Don't Stop, Girlypop! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3UfwDFwjcbzjkuFz1RWoOi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 55080,
       "game_name": "Donut County",
       "game_url": "https://ostdb.net/games/donut-county",
@@ -14939,6 +14967,20 @@
       ]
     },
     {
+      "igdb_id": 294353,
+      "game_name": "Golden Lap",
+      "game_url": "https://ostdb.net/games/golden-lap",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737c74b7c755dab24a39b0d522",
+      "albums": [
+        {
+          "album_name": "Golden Lap (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3xZHl5Zh81zVXbfCocfl78",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1638,
       "game_name": "GoldenEye 007",
       "game_url": "https://ostdb.net/games/goldeneye-007",
@@ -19043,6 +19085,20 @@
       ]
     },
     {
+      "igdb_id": 292879,
+      "game_name": "Knights in Tight Spaces",
+      "game_url": "https://ostdb.net/games/knights-in-tight-spaces",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e3bdb5e6797c46bd5c354c2e",
+      "albums": [
+        {
+          "album_name": "Knights in Tight Spaces (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1a0Gl3I9lxERVwIxvJ173n",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 10126,
       "game_name": "Knights of Pen and Paper II",
       "game_url": "https://ostdb.net/games/knights-of-pen-and-paper-ii",
@@ -21415,6 +21471,20 @@
         {
           "album_name": "Massive Chalice (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2qInh9XMnHXDFXINUun5CO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 285367,
+      "game_name": "Masters of Light",
+      "game_url": "https://ostdb.net/games/masters-of-light",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b569d013ecf78af6864491f5",
+      "albums": [
+        {
+          "album_name": "Masters of Light (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5A0GynmG9QolBB0TSL3VAQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -29461,6 +29531,20 @@
       ]
     },
     {
+      "igdb_id": 266681,
+      "game_name": "SaGa: Emerald Beyond",
+      "game_url": "https://ostdb.net/games/saga-emerald-beyond",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273304bcaf2d352f42b8b842ad8",
+      "albums": [
+        {
+          "album_name": "SaGa Emerald Beyond Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0sBtGk7stIfjNJer81gTkZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 165346,
       "game_name": "Saints Row",
       "game_url": "https://ostdb.net/games/saints-row",
@@ -36775,6 +36859,20 @@
       ]
     },
     {
+      "igdb_id": 287035,
+      "game_name": "The Lost Legends of Redwall: The Scout Anthology",
+      "game_url": "https://ostdb.net/games/the-lost-legends-of-redwall-the-scout-anthology",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27308fbae713ab0639d96e4c4fa",
+      "albums": [
+        {
+          "album_name": "The Lost Legends of Redwall™: The Scout Anthology (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0g14DrDK7BAQoUSLfARmaP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 19536,
       "game_name": "The Lost World: Jurassic Park",
       "game_url": "https://ostdb.net/games/the-lost-world-jurassic-park",
@@ -38031,6 +38129,20 @@
         {
           "album_name": "Through the Woods (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4gzmWmXnvsYuY6J1YxkfmD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 305036,
+      "game_name": "Tides of Tomorrow",
+      "game_url": "https://ostdb.net/games/tides-of-tomorrow",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e9c8377e9b62f2f64a549870",
+      "albums": [
+        {
+          "album_name": "Tides of Tomorrow (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/65mMHcfydKq9QVaUfrZMY5",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -42659,6 +42771,20 @@
         {
           "album_name": "ZERO PARADES: For Dead Spies (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1NbwZ1IWNCIxylLFEB8QST",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 280184,
+      "game_name": "Zet Zillions",
+      "game_url": "https://ostdb.net/games/zet-zillions",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c31515981e6ab937268a1d03",
+      "albums": [
+        {
+          "album_name": "Zet Zillions (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6W4R3Cy5Zxhdq7F2UkFvpe",
           "apple_music_url": "",
           "album_link_url": ""
         }
