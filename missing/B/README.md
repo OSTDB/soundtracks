@@ -16128,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Drain | 319857 | [319857-brain-drain.json](./319857-brain-drain.json) |
+| Brain Drain | 48957 | [48957-brain-drain.json](./48957-brain-drain.json) |
 | Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
 | Brain Exam with Benefits | 286737 | [286737-brain-exam-with-benefits.json](./286737-brain-exam-with-benefits.json) |
 | Brain Exam with Benefits 2 | 207489 | [207489-brain-exam-with-benefits-2.json](./207489-brain-exam-with-benefits-2.json) |
