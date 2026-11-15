@@ -6142,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match: Isekai Journey | 417613 | [417613-match-isekai-journey.json](./417613-match-isekai-journey.json) |
 | Match! The 12 CZ Wars | 372064 | [372064-match-the-12-cz-wars.json](./372064-match-the-12-cz-wars.json) |
 | Match3 mania! | 168495 | [168495-match3-mania.json](./168495-match3-mania.json) |
+| Match5 - free puzzle game! | 28116 | [28116-match5-free-puzzle-game.json](./28116-match5-free-puzzle-game.json) |
 | Matcha | 211159 | [211159-matcha.json](./211159-matcha.json) |
 | Matcha Warriors | 129394 | [129394-matcha-warriors.json](./129394-matcha-warriors.json) |
 | Matchball Tennis | 54207 | [54207-matchball-tennis.json](./54207-matchball-tennis.json) |
@@ -21399,6 +21400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi-Path | 310343 | [310343-multi-path.json](./310343-multi-path.json) |
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
 | Multi-Quest | 81614 | [81614-multi-quest.json](./81614-multi-quest.json) |
+| Multi-User Dungeon | 28235 | [28235-multi-user-dungeon.json](./28235-multi-user-dungeon.json) |
 | Multi-User Dungeon 2 | 92106 | [92106-multi-user-dungeon-2.json](./92106-multi-user-dungeon-2.json) |
 | Multi-Users in Middle-earth | 136790 | [136790-multi-users-in-middle-earth.json](./136790-multi-users-in-middle-earth.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
