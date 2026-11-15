@@ -1729,6 +1729,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakushou! Pachi-Slot Sengen 5: Rio Paradise | 62353 | [62353-rakushou-pachi-slot-sengen-5-rio-paradise.json](./62353-rakushou-pachi-slot-sengen-5-rio-paradise.json) |
 | Rakushou! Pachi-Slot Sengen 6: Rio 2 Cruising Vanadis | 62351 | [62351-rakushou-pachi-slot-sengen-6-rio-2-cruising-vanadis.json](./62351-rakushou-pachi-slot-sengen-6-rio-2-cruising-vanadis.json) |
 | Rakuten | 189371 | [189371-rakuten.json](./189371-rakuten.json) |
+| Ralaephemera | 422727 | [422727-ralaephemera.json](./422727-ralaephemera.json) |
+| Ralasutura | 422729 | [422729-ralasutura.json](./422729-ralasutura.json) |
 | Raldi's Crackhouse | 285343 | [285343-raldis-crackhouse.json](./285343-raldis-crackhouse.json) |
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
@@ -3005,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Gals Panic | 124197 | [124197-re-gals-panic.json](./124197-re-gals-panic.json) |
 | Re:in | 166467 | [166467-re-in.json](./166467-re-in.json) |
 | Re:Infinite | 196587 | [196587-re-infinite.json](./196587-re-infinite.json) |
+| Re:Integral | 422854 | [422854-re-integral.json](./422854-re-integral.json) |
 | RE:Jump Boy | 159529 | [159529-re-jump-boy.json](./159529-re-jump-boy.json) |
 | Re:Kinder | 46991 | [46991-re-kinder.json](./46991-re-kinder.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
