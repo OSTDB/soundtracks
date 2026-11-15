@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdomonium | 157975 | [157975-kingdomonium.json](./157975-kingdomonium.json) |
 | Kingdoms | 259165 | [259165-kingdoms.json](./259165-kingdoms.json) |
 | Kingdoms | 34284 | [34284-kingdoms.json](./34284-kingdoms.json) |
+| Kingdoms & Lords | 64595 | [64595-kingdoms-and-lords.json](./64595-kingdoms-and-lords.json) |
 | Kingdoms and Castles | 26651 | [26651-kingdoms-and-castles.json](./26651-kingdoms-and-castles.json) |
 | Kingdoms and Slaves | 201713 | [201713-kingdoms-and-slaves.json](./201713-kingdoms-and-slaves.json) |
 | Kingdoms at War | 61455 | [61455-kingdoms-at-war.json](./61455-kingdoms-at-war.json) |
