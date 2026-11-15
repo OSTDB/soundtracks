@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
+| Racer 8 | 9009 | [9009-racer-8.json](./9009-racer-8.json) |
 | Racer Mini Yonku: Japan Cup | 17590 | [17590-racer-mini-yonku-japan-cup.json](./17590-racer-mini-yonku-japan-cup.json) |
 | Racer Overdrive | 373188 | [373188-racer-overdrive.json](./373188-racer-overdrive.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
 | RC Match 3 | 240648 | [240648-rc-match-3.json](./240648-rc-match-3.json) |
 | RC Mini Racers | 88405 | [88405-rc-mini-racers.json](./88405-rc-mini-racers.json) |
+| RC Mini Racing | 87406 | [87406-rc-mini-racing.json](./87406-rc-mini-racing.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
 | RC Plane | 249652 | [249652-rc-plane.json](./249652-rc-plane.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
@@ -5818,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rennsport | 230191 | [230191-rennsport.json](./230191-rennsport.json) |
 | Rennsport: Deluxe Edition | 368528 | [368528-rennsport-deluxe-edition.json](./368528-rennsport-deluxe-edition.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
+| Renoir | 8919 | [8919-renoir.json](./8919-renoir.json) |
 | Renounced | 340703 | [340703-renounced.json](./340703-renounced.json) |
 | Renova | 169723 | [169723-renova.json](./169723-renova.json) |
 | Renovation Plan | 272596 | [272596-renovation-plan.json](./272596-renovation-plan.json) |
@@ -10201,6 +10204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotan Wars | 138005 | [138005-robotan-wars.json](./138005-robotan-wars.json) |
 | Robotech: Battlecry | 4090 | [4090-robotech-battlecry.json](./4090-robotech-battlecry.json) |
 | Robotech: Crystal Dreams | 44035 | [44035-robotech-crystal-dreams.json](./44035-robotech-crystal-dreams.json) |
+| Robotech: Invasion | 6015 | [6015-robotech-invasion.json](./6015-robotech-invasion.json) |
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga HD Edition | 146993 | [146993-robotech-the-macross-saga-hd-edition.json](./146993-robotech-the-macross-saga-hd-edition.json) |
@@ -13232,6 +13236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Dinghy | 101733 | [101733-rubber-dinghy.json](./101733-rubber-dinghy.json) |
 | Rubber Duck Race Simulator | 356535 | [356535-rubber-duck-race-simulator.json](./356535-rubber-duck-race-simulator.json) |
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
+| Rubber Ducky and the Rainbow Gun | 34093 | [34093-rubber-ducky-and-the-rainbow-gun.json](./34093-rubber-ducky-and-the-rainbow-gun.json) |
 | Rubber Ducky Massacre | 145876 | [145876-rubber-ducky-massacre.json](./145876-rubber-ducky-massacre.json) |
 | Rubber Head Bob | 314537 | [314537-rubber-head-bob.json](./314537-rubber-head-bob.json) |
 | Rubber Hose Rampage | 285259 | [285259-rubber-hose-rampage.json](./285259-rubber-hose-rampage.json) |
@@ -13368,6 +13373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rug Rats | 292037 | [292037-rug-rats.json](./292037-rug-rats.json) |
 | Rugby | 77083 | [77083-rugby.json](./77083-rugby.json) |
 | Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
+| Rugby 06 | 6018 | [6018-rugby-06.json](./6018-rugby-06.json) |
 | Rugby 15 | 10788 | [10788-rugby-15.json](./10788-rugby-15.json) |
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
@@ -13378,6 +13384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
 | Rugby Boss | 77526 | [77526-rugby-boss.json](./77526-rugby-boss.json) |
 | Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
+| Rugby Challenge 2006 | 6020 | [6020-rugby-challenge-2006.json](./6020-rugby-challenge-2006.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Challenge 4 | 138843 | [138843-rugby-challenge-4.json](./138843-rugby-challenge-4.json) |
@@ -13773,6 +13780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Kelvin: Penguin Escape | 257797 | [257797-run-kelvin-penguin-escape.json](./257797-run-kelvin-penguin-escape.json) |
 | Run Kitty Run | 122445 | [122445-run-kitty-run.json](./122445-run-kitty-run.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
+| Run Like Hell: Hunt or Be Hunted | 6011 | [6011-run-like-hell-hunt-or-be-hunted.json](./6011-run-like-hell-hunt-or-be-hunted.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
 | Run Like Hell!: Heart Breaker | 393434 | [393434-run-like-hell-heart-breaker.json](./393434-run-like-hell-heart-breaker.json) |
@@ -14655,6 +14663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruza | 222696 | [222696-ruza.json](./222696-ruza.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
+| Ruzar: The Life Stone | 15196 | [15196-ruzar-the-life-stone.json](./15196-ruzar-the-life-stone.json) |
 | Ruzh Delta Z | 35230 | [35230-ruzh-delta-z.json](./35230-ruzh-delta-z.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
