@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Heroes | 256876 | [256876-legacy-of-heroes.json](./256876-legacy-of-heroes.json) |
 | Legacy of Kain Collection | 331287 | [331287-legacy-of-kain-collection.json](./331287-legacy-of-kain-collection.json) |
 | Legacy of Kain Soul Reaver 1&2 Remastered - Deluxe Edition | 350802 | [350802-legacy-of-kain-soul-reaver-1-and-2-remastered-deluxe-edition.json](./350802-legacy-of-kain-soul-reaver-1-and-2-remastered-deluxe-edition.json) |
+| Legacy of Kain: Antologia | 50762 | [50762-legacy-of-kain-antologia.json](./50762-legacy-of-kain-antologia.json) |
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
 | Legacy of Kain: Defiance Remastered | 389423 | [389423-legacy-of-kain-defiance-remastered.json](./389423-legacy-of-kain-defiance-remastered.json) |
@@ -5883,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Limit of Defense | 76261 | [76261-limit-of-defense.json](./76261-limit-of-defense.json) |
 | Limit Shoot | 383321 | [383321-limit-shoot.json](./383321-limit-shoot.json) |
+| Limit Theory | 50790 | [50790-limit-theory.json](./50790-limit-theory.json) |
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
 | Limit's Escape Room Games 2 | 211631 | [211631-limits-escape-room-games-2.json](./211631-limits-escape-room-games-2.json) |
