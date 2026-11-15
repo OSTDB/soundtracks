@@ -2844,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
 | One Piece: Round the Land! | 43401 | [43401-one-piece-round-the-land.json](./43401-one-piece-round-the-land.json) |
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
+| One Piece: Super Grand Battle! X | 61240 | [61240-one-piece-super-grand-battle-x.json](./61240-one-piece-super-grand-battle-x.json) |
 | One Piece: Thousand Storm | 26734 | [26734-one-piece-thousand-storm.json](./26734-one-piece-thousand-storm.json) |
 | One Piece: Tobidase Kaizoku-dan! | 75740 | [75740-one-piece-tobidase-kaizoku-dan.json](./75740-one-piece-tobidase-kaizoku-dan.json) |
 | One Piece: Treasure Battle! | 75746 | [75746-one-piece-treasure-battle.json](./75746-one-piece-treasure-battle.json) |
@@ -5131,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otoko Orgy at Maid Boy Manor | 289518 | [289518-otoko-orgy-at-maid-boy-manor.json](./289518-otoko-orgy-at-maid-boy-manor.json) |
+| Otoko Yuukaku | 60690 | [60690-otoko-yuukaku.json](./60690-otoko-yuukaku.json) |
 | Otokomizu | 111783 | [111783-otokomizu.json](./111783-otokomizu.json) |
 | Otokonoko Fishing | 283848 | [283848-otokonoko-fishing.json](./283848-otokonoko-fishing.json) |
 | Otomaid @ Cafe | 191361 | [191361-otomaid-cafe.json](./191361-otomaid-cafe.json) |
