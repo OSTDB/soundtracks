@@ -4460,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
 | Cat Burglar | 380058 | [380058-cat-burglar.json](./380058-cat-burglar.json) |
 | Cat Burglar: A Tail of Purrsuit | 101231 | [101231-cat-burglar-a-tail-of-purrsuit.json](./101231-cat-burglar-a-tail-of-purrsuit.json) |
+| Cat Busters | 56064 | [56064-cat-busters.json](./56064-cat-busters.json) |
 | Cat Busters: Collections | 144120 | [144120-cat-busters-collections.json](./144120-cat-busters-collections.json) |
 | Cat Cafe | 409371 | [409371-cat-cafe.json](./409371-cat-cafe.json) |
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
@@ -6518,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Jockey: G1 Jockey & Gallop Racer | 20148 | [20148-champion-jockey-g1-jockey-and-gallop-racer.json](./20148-champion-jockey-g1-jockey-and-gallop-racer.json) |
 | Champion Jockey: Special | 54567 | [54567-champion-jockey-special.json](./54567-champion-jockey-special.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
+| Champion League | 56091 | [56091-champion-league.json](./56091-champion-league.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
 | Champion of Fighters | 266061 | [266061-champion-of-fighters.json](./266061-champion-of-fighters.json) |
 | Champion of the Gods | 34854 | [34854-champion-of-the-gods.json](./34854-champion-of-the-gods.json) |
@@ -8752,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choices: Stories You Play | 88758 | [88758-choices-stories-you-play.json](./88758-choices-stories-you-play.json) |
 | Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
 | Chojiro | 253147 | [253147-chojiro.json](./253147-chojiro.json) |
+| Choju Giga Wars | 56103 | [56103-choju-giga-wars.json](./56103-choju-giga-wars.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
 | Choker: Chess & Poker | 144646 | [144646-choker-chess-and-poker.json](./144646-choker-chess-and-poker.json) |
 | Chokkan Asonde Rilakkuma | 279117 | [279117-chokkan-asonde-rilakkuma.json](./279117-chokkan-asonde-rilakkuma.json) |
@@ -16283,6 +16286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooped Up | 242071 | [242071-cooped-up.json](./242071-cooped-up.json) |
 | Cooped Up! | 181429 | [181429-cooped-up.json](./181429-cooped-up.json) |
 | Cooper's Cleanup | 208666 | [208666-coopers-cleanup.json](./208666-coopers-cleanup.json) |
+| Cooper's Internet Adventure | 56108 | [56108-coopers-internet-adventure.json](./56108-coopers-internet-adventure.json) |
 | Cooperacing | 207910 | [207910-cooperacing.json](./207910-cooperacing.json) |
 | Cooperate with Yourself | 371338 | [371338-cooperate-with-yourself.json](./371338-cooperate-with-yourself.json) |
 | Cooperative Chess | 157105 | [157105-cooperative-chess.json](./157105-cooperative-chess.json) |
