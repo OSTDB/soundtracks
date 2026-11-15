@@ -9067,6 +9067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shi Shi Shindoro Mu | 91575 | [91575-shi-shi-shindoro-mu.json](./91575-shi-shi-shindoro-mu.json) |
 | Shi Shi Te Na O: Even in Death | 335823 | [335823-shi-shi-te-na-o-even-in-death.json](./335823-shi-shi-te-na-o-even-in-death.json) |
 | Shí zhī Fēi | 119565 | [119565-shi-zhi-fei.json](./119565-shi-zhi-fei.json) |
+| Shi-Kin-Joh | 4410 | [4410-shi-kin-joh.json](./4410-shi-kin-joh.json) |
 | Shi-Ro | 110064 | [110064-shi-ro.json](./110064-shi-ro.json) |
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
@@ -22513,6 +22514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shrooms RollPlay | 219588 | [219588-space-shrooms-rollplay.json](./219588-space-shrooms-rollplay.json) |
 | Space Shuttle | 201089 | [201089-space-shuttle.json](./201089-space-shuttle.json) |
 | Space Shuttle | 346100 | [346100-space-shuttle.json](./346100-space-shuttle.json) |
+| Space Shuttle | 4343 | [4343-space-shuttle.json](./4343-space-shuttle.json) |
 | Space Shuttle 3-in-1 | 385809 | [385809-space-shuttle-3-in-1.json](./385809-space-shuttle-3-in-1.json) |
 | Space Shuttle Landing | 90779 | [90779-space-shuttle-landing.json](./90779-space-shuttle-landing.json) |
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
