@@ -8510,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers | 71190 | [71190-chinese-checkers.json](./71190-chinese-checkers.json) |
 | Chinese Checkers | 88719 | [88719-chinese-checkers.json](./88719-chinese-checkers.json) |
 | Chinese Checkers | 91326 | [91326-chinese-checkers.json](./91326-chinese-checkers.json) |
+| Chinese Checkers - Dames Chinoises | 87440 | [87440-chinese-checkers-dames-chinoises.json](./87440-chinese-checkers-dames-chinoises.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Checkers Master | 91251 | [91251-chinese-checkers-master.json](./91251-chinese-checkers-master.json) |
 | Chinese Chess - Best Xiangqi | 102839 | [102839-chinese-chess-best-xiangqi.json](./102839-chinese-chess-best-xiangqi.json) |
@@ -10502,6 +10503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Hunter | 37718 | [37718-city-hunter.json](./37718-city-hunter.json) |
 | City Idle | 244354 | [244354-city-idle.json](./244354-city-idle.json) |
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
+| City Island 3 - Building Sim | 87426 | [87426-city-island-3-building-sim.json](./87426-city-island-3-building-sim.json) |
 | City Island 4 | 88498 | [88498-city-island-4.json](./88498-city-island-4.json) |
 | City Island 6: Building Life | 293302 | [293302-city-island-6-building-life.json](./293302-city-island-6-building-life.json) |
 | City Island: Paradise Sim | 181653 | [181653-city-island-paradise-sim.json](./181653-city-island-paradise-sim.json) |
@@ -12267,6 +12269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck Frenzy | 278915 | [278915-cluck-frenzy.json](./278915-cluck-frenzy.json) |
 | Cluck In Traffic: Cars Royale! | 264966 | [264966-cluck-in-traffic-cars-royale.json](./264966-cluck-in-traffic-cars-royale.json) |
 | Cluck to the Top! | 373594 | [373594-cluck-to-the-top.json](./373594-cluck-to-the-top.json) |
+| Cluck Yegger in Escape from the Planet of the Poultroid | 34101 | [34101-cluck-yegger-in-escape-from-the-planet-of-the-poultroid.json](./34101-cluck-yegger-in-escape-from-the-planet-of-the-poultroid.json) |
 | Cluck Yegger in Escape from the Planet of the Poultroid | 59607 | [59607-cluck-yegger-in-escape-from-the-planet-of-the-poultroid.json](./59607-cluck-yegger-in-escape-from-the-planet-of-the-poultroid.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
 | Cluck: Hat Pack 3 | 248394 | [248394-cluck-hat-pack-3.json](./248394-cluck-hat-pack-3.json) |
@@ -13512,6 +13515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Breakers 2 | 338877 | [338877-color-breakers-2.json](./338877-color-breakers-2.json) |
 | Color Bump 3D | 305840 | [305840-color-bump-3d.json](./305840-color-bump-3d.json) |
 | Color Buster | 79006 | [79006-color-buster.json](./79006-color-buster.json) |
+| Color By | 34102 | [34102-color-by.json](./34102-color-by.json) |
 | Color by Number | 171229 | [171229-color-by-number.json](./171229-color-by-number.json) |
 | Color by Number - Modern Art | 102240 | [102240-color-by-number-modern-art.json](./102240-color-by-number-modern-art.json) |
 | Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
@@ -15303,6 +15307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Four | 91265 | [91265-connect-four.json](./91265-connect-four.json) |
 | Connect Four / Perfection / Trouble | 77638 | [77638-connect-four-perfection-trouble.json](./77638-connect-four-perfection-trouble.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
+| Connect Fun - Four in a Row | 87417 | [87417-connect-fun-four-in-a-row.json](./87417-connect-fun-four-in-a-row.json) |
 | Connect It! | 147778 | [147778-connect-it.json](./147778-connect-it.json) |
 | Connect Legend of Autumn | 280553 | [280553-connect-legend-of-autumn.json](./280553-connect-legend-of-autumn.json) |
 | Connect Lines | 399781 | [399781-connect-lines.json](./399781-connect-lines.json) |
@@ -16603,6 +16608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Race | 292773 | [292773-corgi-race.json](./292773-corgi-race.json) |
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
+| Corgi Warlock | 34106 | [34106-corgi-warlock.json](./34106-corgi-warlock.json) |
 | Corgi's Travel | 300537 | [300537-corgis-travel.json](./300537-corgis-travel.json) |
 | Corgi´s Travel: A Miniature Journey | 365340 | [365340-corgi-s-travel-a-miniature-journey.json](./365340-corgi-s-travel-a-miniature-journey.json) |
 | CorgiSpace | 381084 | [381084-corgispace.json](./381084-corgispace.json) |
@@ -19006,6 +19012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Monster | 280096 | [280096-crazy-monster.json](./280096-crazy-monster.json) |
 | Crazy Monster Truck Escape | 87135 | [87135-crazy-monster-truck-escape.json](./87135-crazy-monster-truck-escape.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
+| Crazy Monster Trucks | 87405 | [87405-crazy-monster-trucks.json](./87405-crazy-monster-trucks.json) |
 | Crazy Mosquito | 113579 | [113579-crazy-mosquito.json](./113579-crazy-mosquito.json) |
 | Crazy Moto | 359187 | [359187-crazy-moto.json](./359187-crazy-moto.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
