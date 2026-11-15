@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khnum Fire | 370211 | [370211-khnum-fire.json](./370211-khnum-fire.json) |
 | Khodam: The Contract | 320437 | [320437-khodam-the-contract.json](./320437-khodam-the-contract.json) |
 | Khok | 362732 | [362732-khok.json](./362732-khok.json) |
+| Kholat | 7965 | [7965-kholat.json](./7965-kholat.json) |
 | Kholin Echo | 415311 | [415311-kholin-echo.json](./415311-kholin-echo.json) |
 | Khoros | 200516 | [200516-khoros.json](./200516-khoros.json) |
 | Khorus | 257057 | [257057-khorus.json](./257057-khorus.json) |
@@ -4318,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
 | Kirby: Sweet Mocha | 313394 | [313394-kirby-sweet-mocha.json](./313394-kirby-sweet-mocha.json) |
 | Kirby: The Dreamland Effect | 323921 | [323921-kirby-the-dreamland-effect.json](./323921-kirby-the-dreamland-effect.json) |
+| Kirby: Triple Deluxe | 5440 | [5440-kirby-triple-deluxe.json](./5440-kirby-triple-deluxe.json) |
 | Kirby: Wacky Episode | 315520 | [315520-kirby-wacky-episode.json](./315520-kirby-wacky-episode.json) |
 | Kirby's Adventure | 3717 | [3717-kirbys-adventure.json](./3717-kirbys-adventure.json) |
 | Kirby's Adventure 2 | 136041 | [136041-kirbys-adventure-2.json](./136041-kirbys-adventure-2.json) |
