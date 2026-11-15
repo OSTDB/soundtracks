@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Europe Train Sim 2 | 272398 | [272398-eastern-europe-train-sim-2.json](./272398-eastern-europe-train-sim-2.json) |
 | Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
 | Eastern Front | 260544 | [260544-eastern-front.json](./260544-eastern-front.json) |
+| Eastern Front | 73914 | [73914-eastern-front.json](./73914-eastern-front.json) |
 | Eastern Front (1941) | 24799 | [24799-eastern-front-1941.json](./24799-eastern-front-1941.json) |
 | Eastern Heroes | 295816 | [295816-eastern-heroes.json](./295816-eastern-heroes.json) |
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
@@ -5387,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eredia 2: The Great War | 266437 | [266437-eredia-2-the-great-war.json](./266437-eredia-2-the-great-war.json) |
 | Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
+| Erementar Gerad: Matoe, Suifu no Ken | 73018 | [73018-erementar-gerad-matoe-suifu-no-ken.json](./73018-erementar-gerad-matoe-suifu-no-ken.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
 | Erenshor | 245825 | [245825-erenshor.json](./245825-erenshor.json) |
 | Erentis, l'académie de magie | 295087 | [295087-erentis-lacademie-de-magie.json](./295087-erentis-lacademie-de-magie.json) |
