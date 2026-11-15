@@ -6282,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Force Gear | 125271 | [125271-air-force-gear.json](./125271-air-force-gear.json) |
 | Air Force Missions | 320380 | [320380-air-force-missions.json](./320380-air-force-missions.json) |
 | Air Force Special Ops: Nightfall | 315907 | [315907-air-force-special-ops-nightfall.json](./315907-air-force-special-ops-nightfall.json) |
+| Air Forte | 16183 | [16183-air-forte.json](./16183-air-forte.json) |
 | Air Fortress | 8791 | [8791-air-fortress.json](./8791-air-fortress.json) |
 | Air Fryer Sim | 200554 | [200554-air-fryer-sim.json](./200554-air-fryer-sim.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
@@ -9129,6 +9130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteredblood+ | 398990 | [398990-alteredblood.json](./398990-alteredblood.json) |
 | AlterEgo | 178545 | [178545-alterego.json](./178545-alterego.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
+| AlterEgo: Browser-Based Life Simulation Game | 16304 | [16304-alterego-browser-based-life-simulation-game.json](./16304-alterego-browser-based-life-simulation-game.json) |
 | Alterhavoc | 283904 | [283904-alterhavoc.json](./283904-alterhavoc.json) |
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
 | Alterity Experience | 123711 | [123711-alterity-experience.json](./123711-alterity-experience.json) |
