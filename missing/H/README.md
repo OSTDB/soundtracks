@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Burns Red | 132099 | [132099-heaven-burns-red.json](./132099-heaven-burns-red.json) |
 | Heaven Crawler | 305084 | [305084-heaven-crawler.json](./305084-heaven-crawler.json) |
 | Heaven Does Not Respond | 373598 | [373598-heaven-does-not-respond.json](./373598-heaven-does-not-respond.json) |
+| Heaven Does Not Respond 2 | 428740 | [428740-heaven-does-not-respond-2.json](./428740-heaven-does-not-respond-2.json) |
 | Heaven Dust | 120069 | [120069-heaven-dust.json](./120069-heaven-dust.json) |
 | Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
@@ -10432,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home for Friends: Loving Paws - Collector's Edition | 401142 | [401142-home-for-friends-loving-paws-collectors-edition.json](./401142-home-for-friends-loving-paws-collectors-edition.json) |
 | Home for the Holidays | 313814 | [313814-home-for-the-holidays.json](./313814-home-for-the-holidays.json) |
 | Home Free | 13563 | [13563-home-free.json](./13563-home-free.json) |
+| Home From Work | 428768 | [428768-home-from-work.json](./428768-home-from-work.json) |
 | Home From Work 2 | 213371 | [213371-home-from-work-2.json](./213371-home-from-work-2.json) |
 | Home From Work 3 | 213372 | [213372-home-from-work-3.json](./213372-home-from-work-3.json) |
 | Home Game | 166385 | [166385-home-game.json](./166385-home-game.json) |
