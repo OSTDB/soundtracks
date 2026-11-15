@@ -12712,6 +12712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundAbout | 407955 | [407955-roundabout.json](./407955-roundabout.json) |
 | Roundabout 3 | 210567 | [210567-roundabout-3.json](./210567-roundabout-3.json) |
 | Roundabout Deluxe Edition Content | 119971 | [119971-roundabout-deluxe-edition-content.json](./119971-roundabout-deluxe-edition-content.json) |
+| Roundabout Free | 27079 | [27079-roundabout-free.json](./27079-roundabout-free.json) |
 | Roundball: 2 on 2 Challenge | 48203 | [48203-roundball-2-on-2-challenge.json](./48203-roundball-2-on-2-challenge.json) |
 | Rounded | 156011 | [156011-rounded.json](./156011-rounded.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
