@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daniel's Violent Doom | 355049 | [355049-daniels-violent-doom.json](./355049-daniels-violent-doom.json) |
 | Danielle's Plant Game | 337380 | [337380-danielles-plant-game.json](./337380-danielles-plant-game.json) |
 | Danjigoku | 276122 | [276122-danjigoku.json](./276122-danjigoku.json) |
+| Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Infinite Combate | 77500 | [77500-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-infinite-combate.json](./77500-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-infinite-combate.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
 | Dank Armada | 417198 | [417198-dank-armada.json](./417198-dank-armada.json) |
@@ -1296,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danko and treasure map | 29990 | [29990-danko-and-treasure-map.json](./29990-danko-and-treasure-map.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | DanMachi Battle Chronicle | 263485 | [263485-danmachi-battle-chronicle.json](./263485-danmachi-battle-chronicle.json) |
+| DanMachi: Cross Istoria | 77498 | [77498-danmachi-cross-istoria.json](./77498-danmachi-cross-istoria.json) |
 | DanMachi: Memoria Freese | 47158 | [47158-danmachi-memoria-freese.json](./47158-danmachi-memoria-freese.json) |
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Amanojaku: Gold Rush | 207156 | [207156-danmaku-amanojaku-gold-rush.json](./207156-danmaku-amanojaku-gold-rush.json) |
@@ -2813,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data East Arcade Classics | 4793 | [4793-data-east-arcade-classics.json](./4793-data-east-arcade-classics.json) |
 | Data East Arcade Collection #1 | 155216 | [155216-data-east-arcade-collection-1.json](./155216-data-east-arcade-collection-1.json) |
 | Data East Arcade Pack #1 | 155215 | [155215-data-east-arcade-pack-1.json](./155215-data-east-arcade-pack-1.json) |
+| Data East Classic Collection | 77431 | [77431-data-east-classic-collection.json](./77431-data-east-classic-collection.json) |
 | Data East Co-op Pack #1 | 155214 | [155214-data-east-co-op-pack-1.json](./155214-data-east-co-op-pack-1.json) |
 | Data East Collection 1 | 130815 | [130815-data-east-collection-1.json](./130815-data-east-collection-1.json) |
 | Data East's Arcade Alley | 84185 | [84185-data-easts-arcade-alley.json](./84185-data-easts-arcade-alley.json) |
@@ -12749,6 +12752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doc the Destroyer | 39737 | [39737-doc-the-destroyer.json](./39737-doc-the-destroyer.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
 | Doca 2 | 111375 | [111375-doca-2.json](./111375-doca-2.json) |
+| Docchi Mecha! | 77445 | [77445-docchi-mecha.json](./77445-docchi-mecha.json) |
 | Docchi no I ga suki desu ka? | 284121 | [284121-docchi-no-i-ga-suki-desu-ka.json](./284121-docchi-no-i-ga-suki-desu-ka.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
