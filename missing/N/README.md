@@ -5525,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
+| Nine Lives Hospital | 423357 | [423357-nine-lives-hospital.json](./423357-nine-lives-hospital.json) |
 | Nine Lives Ninja: Explore! | 293798 | [293798-nine-lives-ninja-explore.json](./293798-nine-lives-ninja-explore.json) |
 | Nine Lives or Less | 204058 | [204058-nine-lives-or-less.json](./204058-nine-lives-or-less.json) |
 | Nine Men's Morris | 94798 | [94798-nine-mens-morris.json](./94798-nine-mens-morris.json) |
@@ -6342,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No End | 350397 | [350397-no-end.json](./350397-no-end.json) |
 | No End in Sight | 140223 | [140223-no-end-in-sight.json](./140223-no-end-in-sight.json) |
 | No Entry | 378605 | [378605-no-entry.json](./378605-no-entry.json) |
+| No ESC | 423327 | [423327-no-esc.json](./423327-no-esc.json) |
 | No Escape | 45769 | [45769-no-escape.json](./45769-no-escape.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
@@ -6400,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Internet Connection | 185315 | [185315-no-internet-connection.json](./185315-no-internet-connection.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
+| No King in Hell | 423324 | [423324-no-king-in-hell.json](./423324-no-king-in-hell.json) |
 | No King No Kingdom | 75606 | [75606-no-king-no-kingdom.json](./75606-no-king-no-kingdom.json) |
 | No King No Kingdom II | 272964 | [272964-no-king-no-kingdom-ii.json](./272964-no-king-no-kingdom-ii.json) |
 | No King No Kingdom VR | 110684 | [110684-no-king-no-kingdom-vr.json](./110684-no-king-no-kingdom-vr.json) |
