@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T07:55:55.741Z",
-  "total_soundtracks": 3403,
+  "generated_at": "2026-11-15T08:06:08.589Z",
+  "total_soundtracks": 3405,
   "games": [
     {
       "igdb_id": 292844,
@@ -25269,6 +25269,20 @@
       ]
     },
     {
+      "igdb_id": 96353,
+      "game_name": "Odium to the Core",
+      "game_url": "https://ostdb.net/games/odium-to-the-core",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b953eca4fec15d6fb609d17c",
+      "albums": [
+        {
+          "album_name": "Odium to the Core (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7BdPfNbpO245MrBwN9ZFwl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 516,
       "game_name": "Of Orcs and Men",
       "game_url": "https://ostdb.net/games/of-orcs-and-men",
@@ -42706,6 +42720,20 @@
           "album_name": "Wolfenstein: Youngblood (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0DU8ApvJxO9FjSIR7NQ5Ga",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 96500,
+      "game_name": "World of Demons",
+      "game_url": "https://ostdb.net/games/world-of-demons",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734742ca2e92859e7f4dee36a8",
+      "albums": [
+        {
+          "album_name": "World of Demons - 百鬼魔道 Original Soundtrack Selection",
+          "spotify_url": "https://open.spotify.com/album/6MU2CaVPvRmBOj6ZxBIZll",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
