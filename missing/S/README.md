@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown: Wan-Fu | 155205 | [155205-samurai-shodown-wan-fu.json](./155205-samurai-shodown-wan-fu.json) |
 | Samurai Shodown: Warden | 155206 | [155206-samurai-shodown-warden.json](./155206-samurai-shodown-warden.json) |
 | Samurai Shodown: Warriors Rage | 45053 | [45053-samurai-shodown-warriors-rage.json](./45053-samurai-shodown-warriors-rage.json) |
+| Samurai Shodown! | 47586 | [47586-samurai-shodown.json](./47586-samurai-shodown.json) |
 | Samurai Shodown! 2 | 81513 | [81513-samurai-shodown-2.json](./81513-samurai-shodown-2.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Siege | 38868 | [38868-samurai-siege.json](./38868-samurai-siege.json) |
@@ -9661,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsengumi: Bakumatsu Genshikou | 163346 | [163346-shinsengumi-bakumatsu-genshikou.json](./163346-shinsengumi-bakumatsu-genshikou.json) |
 | Shinsengumi: Bakumatsu Gensou Renai Kitan | 163347 | [163347-shinsengumi-bakumatsu-gensou-renai-kitan.json](./163347-shinsengumi-bakumatsu-gensou-renai-kitan.json) |
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
+| Shinsetsu Samurai Spirits: Bushido Retsuden | 47587 | [47587-shinsetsu-samurai-spirits-bushido-retsuden.json](./47587-shinsetsu-samurai-spirits-bushido-retsuden.json) |
 | Shinsetsu Shiawase Usagi 2 | 306917 | [306917-shinsetsu-shiawase-usagi-2.json](./306917-shinsetsu-shiawase-usagi-2.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshaku Tsurugi no Machi no Ihoujin Kuro no Kyuuden | 141989 | [141989-shinshaku-tsurugi-no-machi-no-ihoujin-kuro-no-kyuuden.json](./141989-shinshaku-tsurugi-no-machi-no-ihoujin-kuro-no-kyuuden.json) |
@@ -21525,6 +21527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Calibur | 382562 | [382562-space-calibur.json](./382562-space-calibur.json) |
 | Space Camel | 171246 | [171246-space-camel.json](./171246-space-camel.json) |
 | Space Camp | 208867 | [208867-space-camp.json](./208867-space-camp.json) |
+| Space Camp | 47502 | [47502-space-camp.json](./47502-space-camp.json) |
 | Space Camp | 68734 | [68734-space-camp.json](./68734-space-camp.json) |
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
 | Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
@@ -26822,6 +26825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Duality | 418603 | [418603-star-duality.json](./418603-star-duality.json) |
 | Star Duel | 245122 | [245122-star-duel.json](./245122-star-duel.json) |
+| Star Dust | 47501 | [47501-star-dust.json](./47501-star-dust.json) |
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Dynasties | 122934 | [122934-star-dynasties.json](./122934-star-dynasties.json) |
@@ -28563,6 +28567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Kingdom | 73732 | [73732-starship-kingdom.json](./73732-starship-kingdom.json) |
 | Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
 | Starship Quasar | 136537 | [136537-starship-quasar.json](./136537-starship-quasar.json) |
+| Starship Rendezvous | 47508 | [47508-starship-rendezvous.json](./47508-starship-rendezvous.json) |
 | Starship Rubicon | 35191 | [35191-starship-rubicon.json](./35191-starship-rubicon.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
 | Starship Scarwolf | 371933 | [371933-starship-scarwolf.json](./371933-starship-scarwolf.json) |
@@ -34154,6 +34159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bike | 42157 | [42157-super-bike.json](./42157-super-bike.json) |
 | Super Bike TransAm | 71804 | [71804-super-bike-transam.json](./71804-super-bike-transam.json) |
 | Super Bikkuriman: Densetsu no Sekiban | 49138 | [49138-super-bikkuriman-densetsu-no-sekiban.json](./49138-super-bikkuriman-densetsu-no-sekiban.json) |
+| Super Billiards | 47511 | [47511-super-billiards.json](./47511-super-billiards.json) |
 | Super Bio-Man | 265603 | [265603-super-bio-man.json](./265603-super-bio-man.json) |
 | Super Bird | 267966 | [267966-super-bird.json](./267966-super-bird.json) |
 | Super Birdie Rush | 37843 | [37843-super-birdie-rush.json](./37843-super-birdie-rush.json) |
@@ -34941,6 +34947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super House of Dead Ninjas: True Ninja Pack | 263128 | [263128-super-house-of-dead-ninjas-true-ninja-pack.json](./263128-super-house-of-dead-ninjas-true-ninja-pack.json) |
 | Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
 | Super Huey III | 70256 | [70256-super-huey-iii.json](./70256-super-huey-iii.json) |
+| Super Huey UH-1X | 46917 | [46917-super-huey-uh-1x.json](./46917-super-huey-uh-1x.json) |
 | Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
 | Super Hyper Hippo | 315889 | [315889-super-hyper-hippo.json](./315889-super-hyper-hippo.json) |
@@ -36475,6 +36482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Raft Boat Together | 233704 | [233704-super-raft-boat-together.json](./233704-super-raft-boat-together.json) |
 | Super Raft Boat VR | 154881 | [154881-super-raft-boat-vr.json](./154881-super-raft-boat-vr.json) |
 | Super Raiden | 44306 | [44306-super-raiden.json](./44306-super-raiden.json) |
+| Super Rambo Special | 47503 | [47503-super-rambo-special.json](./47503-super-rambo-special.json) |
 | Super Ramp Skater | 296006 | [296006-super-ramp-skater.json](./296006-super-ramp-skater.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
@@ -36644,6 +36652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Run World | 223017 | [223017-super-run-world.json](./223017-super-run-world.json) |
 | Super Runabout: San Francisco Edition | 45804 | [45804-super-runabout-san-francisco-edition.json](./45804-super-runabout-san-francisco-edition.json) |
+| Super Runner | 47507 | [47507-super-runner.json](./47507-super-runner.json) |
 | Super Runner VR | 193631 | [193631-super-runner-vr.json](./193631-super-runner-vr.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Ryu World | 172687 | [172687-super-ryu-world.json](./172687-super-ryu-world.json) |
@@ -37271,6 +37280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Treasure Arena | 25931 | [25931-super-treasure-arena.json](./25931-super-treasure-arena.json) |
 | Super Trench Attack 2 | 34840 | [34840-super-trench-attack-2.json](./34840-super-trench-attack-2.json) |
 | Super Trench Attack! | 17592 | [17592-super-trench-attack.json](./17592-super-trench-attack.json) |
+| Super Tritorn | 47500 | [47500-super-tritorn.json](./47500-super-tritorn.json) |
 | Super Troll Islands | 42448 | [42448-super-troll-islands.json](./42448-super-troll-islands.json) |
 | Super Trolley | 68348 | [68348-super-trolley.json](./68348-super-trolley.json) |
 | Super Trucks Racing | 43352 | [43352-super-trucks-racing.json](./43352-super-trucks-racing.json) |
