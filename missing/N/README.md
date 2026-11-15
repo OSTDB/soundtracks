@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Super Wars | 37359 | [37359-namco-super-wars.json](./37359-namco-super-wars.json) |
 | Namco Tennis Smash Court | 74301 | [74301-namco-tennis-smash-court.json](./74301-namco-tennis-smash-court.json) |
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
+| Namco X Capcom | 11595 | [11595-namco-x-capcom.json](./11595-namco-x-capcom.json) |
 | Namco: Featuring Ms. Pac-Man | 219417 | [219417-namco-featuring-ms-pac-man.json](./219417-namco-featuring-ms-pac-man.json) |
 | Namco: Featuring Pac-Man | 219416 | [219416-namco-featuring-pac-man.json](./219416-namco-featuring-pac-man.json) |
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
@@ -3116,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Gain: Stories | 120881 | [120881-net-gain-stories.json](./120881-net-gain-stories.json) |
 | Net Gin Rummy | 93047 | [93047-net-gin-rummy.json](./93047-net-gin-rummy.json) |
 | Net Guardian: Dai Kyo Utage | 65277 | [65277-net-guardian-dai-kyo-utage.json](./65277-net-guardian-dai-kyo-utage.json) |
+| Net High | 11519 | [11519-net-high.json](./11519-net-high.json) |
 | Net Invaders | 116427 | [116427-net-invaders.json](./116427-net-invaders.json) |
 | Net King's Call | 143514 | [143514-net-kings-call.json](./143514-net-kings-call.json) |
 | Net Knight | 199282 | [199282-net-knight.json](./199282-net-knight.json) |
