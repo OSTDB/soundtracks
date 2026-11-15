@@ -8324,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
 | Aliro1 | 381680 | [381680-aliro1.json](./381680-aliro1.json) |
 | Alis: World Reborn | 409410 | [409410-alis-world-reborn.json](./409410-alis-world-reborn.json) |
+| Alisa | 130320 | [130320-alisa.json](./130320-alisa.json) |
 | Alisa Quest | 146060 | [146060-alisa-quest.json](./146060-alisa-quest.json) |
 | Alisa: Developer's Cut | 282157 | [282157-alisa-developers-cut.json](./282157-alisa-developers-cut.json) |
 | Alisa: The Parting | 321313 | [321313-alisa-the-parting.json](./321313-alisa-the-parting.json) |
