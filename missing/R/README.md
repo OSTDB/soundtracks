@@ -5104,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regenti Rebelia | 330071 | [330071-regenti-rebelia.json](./330071-regenti-rebelia.json) |
 | Regeria Hope Episode 1 | 33403 | [33403-regeria-hope-episode-1.json](./33403-regeria-hope-episode-1.json) |
 | Regex Game | 347410 | [347410-regex-game.json](./347410-regex-game.json) |
+| Reggie Jackson Baseball | 45630 | [45630-reggie-jackson-baseball.json](./45630-reggie-jackson-baseball.json) |
 | Reggie, His Cousin, Two Scientists and Most Likely the End of the World | 291276 | [291276-reggie-his-cousin-two-scientists-and-most-likely-the-end-of-the-world.json](./291276-reggie-his-cousin-two-scientists-and-most-likely-the-end-of-the-world.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
