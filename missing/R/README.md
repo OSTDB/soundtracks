@@ -7618,6 +7618,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
 | rFactor | 9493 | [9493-rfactor.json](./9493-rfactor.json) |
 | rFactor 2 | 9494 | [9494-rfactor-2.json](./9494-rfactor-2.json) |
+| Rfactor Rally | 50201 | [50201-rfactor-rally.json](./50201-rfactor-rally.json) |
+| Rfactor touring | 50198 | [50198-rfactor-touring.json](./50198-rfactor-touring.json) |
 | Rflex | 34677 | [34677-rflex.json](./34677-rflex.json) |
 | RFS: Real Flight Simulator | 144649 | [144649-rfs-real-flight-simulator.json](./144649-rfs-real-flight-simulator.json) |
 | RFVR | 189989 | [189989-rfvr.json](./189989-rfvr.json) |
@@ -11467,6 +11469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolan's Quest | 56854 | [56854-rolans-quest.json](./56854-rolans-quest.json) |
 | Roland Ahoy! | 39147 | [39147-roland-ahoy.json](./39147-roland-ahoy.json) |
 | Roland Garros 1997 | 93090 | [93090-roland-garros-1997.json](./93090-roland-garros-1997.json) |
+| Roland Garros French Open | 50071 | [50071-roland-garros-french-open.json](./50071-roland-garros-french-open.json) |
 | Roland Garros French Open 2000 | 94379 | [94379-roland-garros-french-open-2000.json](./94379-roland-garros-french-open-2000.json) |
 | Roland Garros French Open 2002 | 244012 | [244012-roland-garros-french-open-2002.json](./244012-roland-garros-french-open-2002.json) |
 | Roland Garros Paris 2005: Powered by Smash Court Tennis | 383415 | [383415-roland-garros-paris-2005-powered-by-smash-court-tennis.json](./383415-roland-garros-paris-2005-powered-by-smash-court-tennis.json) |
