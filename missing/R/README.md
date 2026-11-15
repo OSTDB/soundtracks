@@ -4845,10 +4845,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
 | Reel Deal Casino: Valley of the Kings | 209210 | [209210-reel-deal-casino-valley-of-the-kings.json](./209210-reel-deal-casino-valley-of-the-kings.json) |
 | Reel Deal Poker Challenge | 66727 | [66727-reel-deal-poker-challenge.json](./66727-reel-deal-poker-challenge.json) |
+| Reel Deal Slots & Video Poker | 77485 | [77485-reel-deal-slots-and-video-poker.json](./77485-reel-deal-slots-and-video-poker.json) |
 | Reel Deal Slots 2nd Vol. | 77524 | [77524-reel-deal-slots-2nd-vol.json](./77524-reel-deal-slots-2nd-vol.json) |
 | Reel Deal Slots Adventure | 131294 | [131294-reel-deal-slots-adventure.json](./131294-reel-deal-slots-adventure.json) |
 | Reel Deal Slots Adventure III: World Tour | 25465 | [25465-reel-deal-slots-adventure-iii-world-tour.json](./25465-reel-deal-slots-adventure-iii-world-tour.json) |
+| Reel Deal Slots: Adventure III - World Tour | 77483 | [77483-reel-deal-slots-adventure-iii-world-tour.json](./77483-reel-deal-slots-adventure-iii-world-tour.json) |
+| Reel Deal Slots: American Adventure | 77462 | [77462-reel-deal-slots-american-adventure.json](./77462-reel-deal-slots-american-adventure.json) |
 | Reel Deal Slots: Blackbeard's Revenge | 131128 | [131128-reel-deal-slots-blackbeards-revenge.json](./131128-reel-deal-slots-blackbeards-revenge.json) |
+| Reel Deal Slots: Gods of Olympus | 77482 | [77482-reel-deal-slots-gods-of-olympus.json](./77482-reel-deal-slots-gods-of-olympus.json) |
+| Reel Deal Slots: Mysteries of Cleopatra | 77484 | [77484-reel-deal-slots-mysteries-of-cleopatra.json](./77484-reel-deal-slots-mysteries-of-cleopatra.json) |
+| Reel Deal Slots: Nickel Alley | 77467 | [77467-reel-deal-slots-nickel-alley.json](./77467-reel-deal-slots-nickel-alley.json) |
+| Reel Deal Slots: Treasures of the Far East | 77486 | [77486-reel-deal-slots-treasures-of-the-far-east.json](./77486-reel-deal-slots-treasures-of-the-far-east.json) |
 | Reel Deal Vegas Casino Experience | 77612 | [77612-reel-deal-vegas-casino-experience.json](./77612-reel-deal-vegas-casino-experience.json) |
 | Reel Fishing | 45088 | [45088-reel-fishing.json](./45088-reel-fishing.json) |
 | Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
@@ -8539,6 +8546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringworld: Revenge of the Patriarch | 46727 | [46727-ringworld-revenge-of-the-patriarch.json](./46727-ringworld-revenge-of-the-patriarch.json) |
 | Ringwyrm | 410985 | [410985-ringwyrm.json](./410985-ringwyrm.json) |
 | Rinji Shuuden | 222085 | [222085-rinji-shuuden.json](./222085-rinji-shuuden.json) |
+| Rinkan Gakkou | 77449 | [77449-rinkan-gakkou.json](./77449-rinkan-gakkou.json) |
 | Rinlo | 133133 | [133133-rinlo.json](./133133-rinlo.json) |
 | Rinne | 182316 | [182316-rinne.json](./182316-rinne.json) |
 | Rinne | 263333 | [263333-rinne.json](./263333-rinne.json) |
@@ -11425,6 +11433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roland Garros: French Open 2001 | 136617 | [136617-roland-garros-french-open-2001.json](./136617-roland-garros-french-open-2001.json) |
 | Roland in the Caves | 13027 | [13027-roland-in-the-caves.json](./13027-roland-in-the-caves.json) |
 | Roland in Time | 39148 | [39148-roland-in-time.json](./39148-roland-in-time.json) |
+| Roland's Ratrace | 77456 | [77456-rolands-ratrace.json](./77456-rolands-ratrace.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
 | Rolando 2: Quest for the Golden Orchid | 22994 | [22994-rolando-2-quest-for-the-golden-orchid.json](./22994-rolando-2-quest-for-the-golden-orchid.json) |
 | Rolando 3 | 92640 | [92640-rolando-3.json](./92640-rolando-3.json) |
