@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T04:35:59.821Z",
-  "total_soundtracks": 3392,
+  "generated_at": "2026-11-15T05:45:56.134Z",
+  "total_soundtracks": 3393,
   "games": [
     {
       "igdb_id": 292844,
@@ -17413,6 +17413,20 @@
         {
           "album_name": "Hover: Revolt of Gamers (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2hQ7OcR3x4NizO80CNnOuB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 107882,
+      "game_name": "How to Date a Magical Girl!",
+      "game_url": "https://ostdb.net/games/how-to-date-a-magical-girl",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f9185f389ee646f1ea4aff62",
+      "albums": [
+        {
+          "album_name": "How to Date a Magical Girl (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6wDbihLLCGOBRF5ygUjm4v",
           "apple_music_url": "",
           "album_link_url": ""
         }
