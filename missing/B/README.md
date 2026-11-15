@@ -3596,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bastard Bonds | 19724 | [19724-bastard-bonds.json](./19724-bastard-bonds.json) |
 | Bastard Little Zombie | 133697 | [133697-bastard-little-zombie.json](./133697-bastard-little-zombie.json) |
 | Bastard!! Ankoku no Hakaishin | 65403 | [65403-bastard-ankoku-no-hakaishin.json](./65403-bastard-ankoku-no-hakaishin.json) |
+| Bastard!! Utsuro Naru Kamigami no Utsuwa | 44806 | [44806-bastard-utsuro-naru-kamigami-no-utsuwa.json](./44806-bastard-utsuro-naru-kamigami-no-utsuwa.json) |
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastet | 56985 | [56985-bastet.json](./56985-bastet.json) |
@@ -18080,6 +18081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruno: Lost In Nightmares | 301080 | [301080-bruno-lost-in-nightmares.json](./301080-bruno-lost-in-nightmares.json) |
 | Brunswick Circuit Pro Bowling | 10607 | [10607-brunswick-circuit-pro-bowling.json](./10607-brunswick-circuit-pro-bowling.json) |
 | Brunswick Circuit Pro Bowling 2 | 66023 | [66023-brunswick-circuit-pro-bowling-2.json](./66023-brunswick-circuit-pro-bowling-2.json) |
+| Brunswick Circut Pro Bowling | 44805 | [44805-brunswick-circut-pro-bowling.json](./44805-brunswick-circut-pro-bowling.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
 | Brunswick Pro Pool 3D II | 206688 | [206688-brunswick-pro-pool-3d-ii.json](./206688-brunswick-pro-pool-3d-ii.json) |
