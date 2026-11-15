@@ -15561,6 +15561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futari de! Nyanko Daisensou | 136595 | [136595-futari-de-nyanko-daisensou.json](./136595-futari-de-nyanko-daisensou.json) |
 | Futari ha Haipuri | 97718 | [97718-futari-ha-haipuri.json](./97718-futari-ha-haipuri.json) |
 | Futari ha Precure: Arienai! Yume no Sono ha Daimeikyuu | 49569 | [49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json](./49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json) |
+| Futari ha Pretty Cure | 66843 | [66843-futari-ha-pretty-cure.json](./66843-futari-ha-pretty-cure.json) |
 | Futari ha Pretty Cure Max Heart | 125788 | [125788-futari-ha-pretty-cure-max-heart.json](./125788-futari-ha-pretty-cure-max-heart.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
