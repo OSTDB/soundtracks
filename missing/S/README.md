@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarab: Duji Tower | 30637 | [30637-sarab-duji-tower.json](./30637-sarab-duji-tower.json) |
 | Saraba Gekiyaki: Encore | 226110 | [226110-saraba-gekiyaki-encore.json](./226110-saraba-gekiyaki-encore.json) |
 | Saraba Kegoorushima | 411632 | [411632-saraba-kegoorushima.json](./411632-saraba-kegoorushima.json) |
+| Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi | 68825 | [68825-saraba-uchuu-senkan-yamato-ai-no-senshi-tachi.json](./68825-saraba-uchuu-senkan-yamato-ai-no-senshi-tachi.json) |
 | Saracen | 39744 | [39744-saracen.json](./39744-saracen.json) |
 | Sarah & Duck - Day at the Park | 102505 | [102505-sarah-and-duck-day-at-the-park.json](./102505-sarah-and-duck-day-at-the-park.json) |
 | Sarah & Duck: The Big Sleepover | 102524 | [102524-sarah-and-duck-the-big-sleepover.json](./102524-sarah-and-duck-the-big-sleepover.json) |
@@ -10380,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Match | 264014 | [264014-shopping-match.json](./264014-shopping-match.json) |
 | Shopping Nightmare | 232230 | [232230-shopping-nightmare.json](./232230-shopping-nightmare.json) |
 | Shopping Simulator | 302793 | [302793-shopping-simulator.json](./302793-shopping-simulator.json) |
+| Shopping Simulator Multiplayer | 68180 | [68180-shopping-simulator-multiplayer.json](./68180-shopping-simulator-multiplayer.json) |
 | Shopping Sort | 303046 | [303046-shopping-sort.json](./303046-shopping-sort.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
 | Shopping Street | 399460 | [399460-shopping-street.json](./399460-shopping-street.json) |
@@ -16605,6 +16607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
 | Snake Sphere | 415033 | [415033-snake-sphere.json](./415033-snake-sphere.json) |
 | Snake Switch | 232600 | [232600-snake-switch.json](./232600-snake-switch.json) |
+| Snake Treasure Chest | 68846 | [68846-snake-treasure-chest.json](./68846-snake-treasure-chest.json) |
 | Snake Ultimate | 418403 | [418403-snake-ultimate.json](./418403-snake-ultimate.json) |
 | Snake VR | 78551 | [78551-snake-vr.json](./78551-snake-vr.json) |
 | Snake VS Block Math | 86730 | [86730-snake-vs-block-math.json](./86730-snake-vs-block-math.json) |
@@ -21525,6 +21528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Commander | 212159 | [212159-space-commander.json](./212159-space-commander.json) |
 | Space Commander | 26806 | [26806-space-commander.json](./26806-space-commander.json) |
+| Space Commander 9 | 68822 | [68822-space-commander-9.json](./68822-space-commander-9.json) |
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
 | Space Commanders | 71083 | [71083-space-commanders.json](./71083-space-commanders.json) |
@@ -24492,6 +24496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire of Glory | 227947 | [227947-spire-of-glory.json](./227947-spire-of-glory.json) |
 | Spire of Glory | 227985 | [227985-spire-of-glory.json](./227985-spire-of-glory.json) |
 | Spire of Lust & Fetish | 257953 | [257953-spire-of-lust-and-fetish.json](./257953-spire-of-lust-and-fetish.json) |
+| Spire of Sorcery | 68170 | [68170-spire-of-sorcery.json](./68170-spire-of-sorcery.json) |
 | Spire, Surge, and Sea | 359111 | [359111-spire-surge-and-sea.json](./359111-spire-surge-and-sea.json) |
 | Spirefall | 412044 | [412044-spirefall.json](./412044-spirefall.json) |
 | Spires of Morosith: Gossamer Sundered | 345458 | [345458-spires-of-morosith-gossamer-sundered.json](./345458-spires-of-morosith-gossamer-sundered.json) |
@@ -30131,6 +30136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stocks: Main Force Simulator | 374337 | [374337-stocks-main-force-simulator.json](./374337-stocks-main-force-simulator.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
 | Stocksynd House | 128767 | [128767-stocksynd-house.json](./128767-stocksynd-house.json) |
+| StockUp | 68176 | [68176-stockup.json](./68176-stockup.json) |
 | Stockwave Online | 373042 | [373042-stockwave-online.json](./373042-stockwave-online.json) |
 | Stockwrk7 | 221475 | [221475-stockwrk7.json](./221475-stockwrk7.json) |
 | StoicScape | 289255 | [289255-stoicscape.json](./289255-stoicscape.json) |
@@ -31984,6 +31990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strush | 84423 | [84423-strush.json](./84423-strush.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
+| Stryker in the Crypts of Trogan | 68856 | [68856-stryker-in-the-crypts-of-trogan.json](./68856-stryker-in-the-crypts-of-trogan.json) |
 | Stryker's Run | 5876 | [5876-strykers-run.json](./5876-strykers-run.json) |
 | Stryx | 12784 | [12784-stryx.json](./12784-stryx.json) |
 | STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
@@ -38926,6 +38933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweeper | 379822 | [379822-sweeper.json](./379822-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepers Mine | 252914 | [252914-sweepers-mine.json](./252914-sweepers-mine.json) |
+| SweeperVR | 68192 | [68192-sweepervr.json](./68192-sweepervr.json) |
 | Sweeping the Ruins | 154886 | [154886-sweeping-the-ruins.json](./154886-sweeping-the-ruins.json) |
 | Sweeping the World | 226107 | [226107-sweeping-the-world.json](./226107-sweeping-the-world.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
