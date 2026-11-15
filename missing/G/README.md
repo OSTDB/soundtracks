@@ -10937,6 +10937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Undertale DLC Pack 01 | 361705 | [361705-groove-coaster-undertale-dlc-pack-01.json](./361705-groove-coaster-undertale-dlc-pack-01.json) |
 | Groove Coaster: Undertale DLC Pack 02 | 361615 | [361615-groove-coaster-undertale-dlc-pack-02.json](./361615-groove-coaster-undertale-dlc-pack-02.json) |
 | Groove Coaster: Visionnerz | 361448 | [361448-groove-coaster-visionnerz.json](./361448-groove-coaster-visionnerz.json) |
+| Groove Coaster: Wai Wai Party!!!! | 122118 | [122118-groove-coaster-wai-wai-party.json](./122118-groove-coaster-wai-wai-party.json) |
 | Groove Coaster: Wai Wai Party!!!! - Chrono Circle + Music Diver Pack | 255220 | [255220-groove-coaster-wai-wai-party-chrono-circle-music-diver-pack.json](./255220-groove-coaster-wai-wai-party-chrono-circle-music-diver-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Dempagumi.inc Pack | 237998 | [237998-groove-coaster-wai-wai-party-dempagumi-inc-pack.json](./237998-groove-coaster-wai-wai-party-dempagumi-inc-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - DJMax Respect Pack | 237937 | [237937-groove-coaster-wai-wai-party-djmax-respect-pack.json](./237937-groove-coaster-wai-wai-party-djmax-respect-pack.json) |
@@ -12069,6 +12070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
 | Gun Mayhem 2 | 194802 | [194802-gun-mayhem-2.json](./194802-gun-mayhem-2.json) |
 | Gun Mayhem Redux | 102021 | [102021-gun-mayhem-redux.json](./102021-gun-mayhem-redux.json) |
+| Gun Metal | 5858 | [5858-gun-metal.json](./5858-gun-metal.json) |
 | Gun Miner | 128135 | [128135-gun-miner.json](./128135-gun-miner.json) |
 | Gun Monkey! | 406559 | [406559-gun-monkey.json](./406559-gun-monkey.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
