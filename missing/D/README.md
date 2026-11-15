@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Return of the Salt Princess - Collector's Edition | 93792 | [93792-dark-parables-return-of-the-salt-princess-collectors-edition.json](./93792-dark-parables-return-of-the-salt-princess-collectors-edition.json) |
 | Dark Parables: Rise of the Snow Queen | 139793 | [139793-dark-parables-rise-of-the-snow-queen.json](./139793-dark-parables-rise-of-the-snow-queen.json) |
 | Dark Parables: Rise of the Snow Queen - Collector's Edition | 32380 | [32380-dark-parables-rise-of-the-snow-queen-collectors-edition.json](./32380-dark-parables-rise-of-the-snow-queen-collectors-edition.json) |
+| Dark Parables: The Exiled Prince | 27027 | [27027-dark-parables-the-exiled-prince.json](./27027-dark-parables-the-exiled-prince.json) |
 | Dark Parables: The Exiled Prince - Collector's Edition | 32381 | [32381-dark-parables-the-exiled-prince-collectors-edition.json](./32381-dark-parables-the-exiled-prince-collectors-edition.json) |
 | Dark Parables: The Final Cinderella | 139794 | [139794-dark-parables-the-final-cinderella.json](./139794-dark-parables-the-final-cinderella.json) |
 | Dark Parables: The Final Cinderella - Collector's Edition | 32779 | [32779-dark-parables-the-final-cinderella-collectors-edition.json](./32779-dark-parables-the-final-cinderella-collectors-edition.json) |
