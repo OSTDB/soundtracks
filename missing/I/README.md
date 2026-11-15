@@ -5637,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Evolution | 272209 | [272209-internet-cafe-evolution.json](./272209-internet-cafe-evolution.json) |
 | Internet Cafe Manager 2025 | 323306 | [323306-internet-cafe-manager-2025.json](./323306-internet-cafe-manager-2025.json) |
 | Internet Cafe Mini Games 10 in 1 | 267852 | [267852-internet-cafe-mini-games-10-in-1.json](./267852-internet-cafe-mini-games-10-in-1.json) |
+| Internet Cafe Simulator | 125426 | [125426-internet-cafe-simulator.json](./125426-internet-cafe-simulator.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Cafe Tycoon | 410715 | [410715-internet-cafe-tycoon.json](./410715-internet-cafe-tycoon.json) |
 | Internet Checkers | 298734 | [298734-internet-checkers.json](./298734-internet-checkers.json) |
