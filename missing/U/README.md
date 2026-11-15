@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uridium Plus & Paradroid: Competition Edition | 137262 | [137262-uridium-plus-and-paradroid-competition-edition.json](./137262-uridium-plus-and-paradroid-competition-edition.json) |
 | Uridongne Goyangi Chrreul Joahae: Gillyangi Meokbang Choseongkwijeu | 221313 | [221313-uridongne-goyangi-chrreul-joahae-gillyangi-meokbang-choseongkwijeu.json](./221313-uridongne-goyangi-chrreul-joahae-gillyangi-meokbang-choseongkwijeu.json) |
 | Uriel's Chasm | 9733 | [9733-uriels-chasm.json](./9733-uriels-chasm.json) |
+| Uriel's Chasm 2: את | 27004 | [27004-uriels-chasm-2.json](./27004-uriels-chasm-2.json) |
 | Uriel's Chasm 3: Gelshock | 116704 | [116704-uriels-chasm-3-gelshock.json](./116704-uriels-chasm-3-gelshock.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
 | Urine Trouble: Pee V Pee | 423657 | [423657-urine-trouble-pee-v-pee.json](./423657-urine-trouble-pee-v-pee.json) |
