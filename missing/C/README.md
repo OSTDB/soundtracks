@@ -19769,6 +19769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criteria | 326203 | [326203-criteria.json](./326203-criteria.json) |
 | Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
+| Critical Blow | 44797 | [44797-critical-blow.json](./44797-critical-blow.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
 | Critical Bypass | 245065 | [245065-critical-bypass.json](./245065-critical-bypass.json) |
 | Critical Damage | 24732 | [24732-critical-damage.json](./24732-critical-damage.json) |
@@ -20645,6 +20646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders of Light | 79455 | [79455-crusaders-of-light.json](./79455-crusaders-of-light.json) |
 | Crusaders of Might and Magic | 11376 | [11376-crusaders-of-might-and-magic.json](./11376-crusaders-of-might-and-magic.json) |
+| Crusaders of Might and Magic | 44809 | [44809-crusaders-of-might-and-magic.json](./44809-crusaders-of-might-and-magic.json) |
 | Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
 | Crusaders Quest : Mini | 379602 | [379602-crusaders-quest-mini.json](./379602-crusaders-quest-mini.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
