@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangry | 291440 | [291440-hangry.json](./291440-hangry.json) |
 | Hangry Bear | 275853 | [275853-hangry-bear.json](./275853-hangry-bear.json) |
 | Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
+| Hangsim | 71668 | [71668-hangsim.json](./71668-hangsim.json) |
 | Hangtime! | 373342 | [373342-hangtime.json](./373342-hangtime.json) |
 | HangTogether | 161633 | [161633-hangtogether.json](./161633-hangtogether.json) |
 | Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrys Restaurant | 66388 | [66388-harrys-restaurant.json](./66388-harrys-restaurant.json) |
 | Harsh | 81994 | [81994-harsh.json](./81994-harsh.json) |
 | Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
+| HarshGame | 72202 | [72202-harshgame.json](./72202-harshgame.json) |
 | Harshlands | 228879 | [228879-harshlands.json](./228879-harshlands.json) |
 | Hart's Toil | 300213 | [300213-harts-toil.json](./300213-harts-toil.json) |
 | Hartacon Tactics | 21983 | [21983-hartacon-tactics.json](./21983-hartacon-tactics.json) |
@@ -8237,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Stroke: APRM | 209902 | [209902-hidden-stroke-aprm.json](./209902-hidden-stroke-aprm.json) |
 | Hidden Superhero Cats: Bonus Level | 296509 | [296509-hidden-superhero-cats-bonus-level.json](./296509-hidden-superhero-cats-bonus-level.json) |
 | Hidden Survivor | 131402 | [131402-hidden-survivor.json](./131402-hidden-survivor.json) |
+| Hidden Swap Buttons | 72227 | [72227-hidden-swap-buttons.json](./72227-hidden-swap-buttons.json) |
 | Hidden Tactics | 296514 | [296514-hidden-tactics.json](./296514-hidden-tactics.json) |
 | Hidden Tails | 390571 | [390571-hidden-tails.json](./390571-hidden-tails.json) |
 | Hidden Tales | 233482 | [233482-hidden-tales.json](./233482-hidden-tales.json) |
