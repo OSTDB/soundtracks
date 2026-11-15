@@ -4573,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Rivals | 27978 | [27978-aeon-rivals.json](./27978-aeon-rivals.json) |
 | Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
+| Aeon's Dawn | 36574 | [36574-aeons-dawn.json](./36574-aeons-dawn.json) |
 | Aeon's End | 119854 | [119854-aeons-end.json](./119854-aeons-end.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeon's End: The Nameless | 172300 | [172300-aeons-end-the-nameless.json](./172300-aeons-end-the-nameless.json) |
@@ -5082,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School: A Vocaloid RPG | 178202 | [178202-after-school-a-vocaloid-rpg.json](./178202-after-school-a-vocaloid-rpg.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
 | After Shadows | 189225 | [189225-after-shadows.json](./189225-after-shadows.json) |
+| After Shock | 36565 | [36565-after-shock.json](./36565-after-shock.json) |
 | After Solitary | 223864 | [223864-after-solitary.json](./223864-after-solitary.json) |
 | After Story: Witch Dragon | 309552 | [309552-after-story-witch-dragon.json](./309552-after-story-witch-dragon.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
@@ -6510,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airhead Games | 340724 | [340724-airhead-games.json](./340724-airhead-games.json) |
 | Airhead Hockey | 351428 | [351428-airhead-hockey.json](./351428-airhead-hockey.json) |
 | Airheads Jump | 344007 | [344007-airheads-jump.json](./344007-airheads-jump.json) |
+| Airheart | 36585 | [36585-airheart.json](./36585-airheart.json) |
 | Airheart: Tales of Broken Wings | 26422 | [26422-airheart-tales-of-broken-wings.json](./26422-airheart-tales-of-broken-wings.json) |
 | Airheart: The Deluxe Edition | 52570 | [52570-airheart-the-deluxe-edition.json](./52570-airheart-the-deluxe-edition.json) |
 | Airhounds | 167484 | [167484-airhounds.json](./167484-airhounds.json) |
@@ -13348,6 +13351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollyon | 423211 | [423211-apollyon.json](./423211-apollyon.json) |
 | Apollyon: River of Life | 158365 | [158365-apollyon-river-of-life.json](./158365-apollyon-river-of-life.json) |
 | Apologies, for what it's worth. | 181809 | [181809-apologies-for-what-its-worth.json](./181809-apologies-for-what-its-worth.json) |
+| Apology Simulator | 36603 | [36603-apology-simulator.json](./36603-apology-simulator.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
 | Apolune | 114476 | [114476-apolune.json](./114476-apolune.json) |
 | Apolune 2 | 149511 | [149511-apolune-2.json](./149511-apolune-2.json) |
