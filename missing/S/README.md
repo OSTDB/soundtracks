@@ -575,7 +575,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga Onirica: Angelic Engine | 411912 | [411912-saga-onirica-angelic-engine.json](./411912-saga-onirica-angelic-engine.json) |
 | Saga Star | 413203 | [413203-saga-star.json](./413203-saga-star.json) |
 | Saga the Mouse | 325188 | [325188-saga-the-mouse.json](./325188-saga-the-mouse.json) |
-| SaGa: Emerald Beyond | 266681 | [266681-saga-emerald-beyond.json](./266681-saga-emerald-beyond.json) |
 | Saga: Rage of the Vikings | 46968 | [46968-saga-rage-of-the-vikings.json](./46968-saga-rage-of-the-vikings.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
