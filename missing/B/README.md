@@ -5145,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
 | Battojutsu | 147766 | [147766-battojutsu.json](./147766-battojutsu.json) |
 | Battow: Mages And Monsters | 327027 | [327027-battow-mages-and-monsters.json](./327027-battow-mages-and-monsters.json) |
+| Battropica | 429365 | [429365-battropica.json](./429365-battropica.json) |
 | Batty | 71849 | [71849-batty.json](./71849-batty.json) |
 | Batty Builders | 293716 | [293716-batty-builders.json](./293716-batty-builders.json) |
 | Batty Jumpers | 123257 | [123257-batty-jumpers.json](./123257-batty-jumpers.json) |
@@ -17368,6 +17369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker: Space Outlaw | 140555 | [140555-brick-breaker-space-outlaw.json](./140555-brick-breaker-space-outlaw.json) |
 | Brick Brook | 414725 | [414725-brick-brook.json](./414725-brick-brook.json) |
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
+| Brick Buddies | 429347 | [429347-brick-buddies.json](./429347-brick-buddies.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick Buster | 421387 | [421387-brick-buster.json](./421387-brick-buster.json) |
 | Brick Buster | 99893 | [99893-brick-buster.json](./99893-brick-buster.json) |
@@ -19685,6 +19687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungee Run | 295472 | [295472-bungee-run.json](./295472-bungee-run.json) |
 | Bungee Stickmen+ | 212612 | [212612-bungee-stickmen.json](./212612-bungee-stickmen.json) |
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
+| Bungle Brawl: Couch Co-op Party | 429342 | [429342-bungle-brawl-couch-co-op-party.json](./429342-bungle-brawl-couch-co-op-party.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
 | Bungo Bash | 377332 | [377332-bungo-bash.json](./377332-bungo-bash.json) |
 | Bungo Stray Dogs: Tales of the Lost | 105830 | [105830-bungo-stray-dogs-tales-of-the-lost.json](./105830-bungo-stray-dogs-tales-of-the-lost.json) |
