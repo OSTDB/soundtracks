@@ -9448,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo: The Abyss | 399033 | [399033-diablo-the-abyss.json](./399033-diablo-the-abyss.json) |
 | Diablo: The Hell 2 | 248386 | [248386-diablo-the-hell-2.json](./248386-diablo-the-hell-2.json) |
 | DiabloSlayer | 101207 | [101207-diabloslayer.json](./101207-diabloslayer.json) |
+| Diabolical | 34096 | [34096-diabolical.json](./34096-diabolical.json) |
 | Diabolical Pitch | 19904 | [19904-diabolical-pitch.json](./19904-diabolical-pitch.json) |
 | Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
