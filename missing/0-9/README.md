@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Button 2 Language | 401606 | [401606-1-button-2-language.json](./401606-1-button-2-language.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
 | 1 Date Danger | 255815 | [255815-1-date-danger.json](./255815-1-date-danger.json) |
+| 1 Day | 424544 | [424544-1-day.json](./424544-1-day.json) |
 | 1 Day a Mosquito | 308198 | [308198-1-day-a-mosquito.json](./308198-1-day-a-mosquito.json) |
 | 1 Day Later: Escape Zombie Hospital | 228162 | [228162-1-day-later-escape-zombie-hospital.json](./228162-1-day-later-escape-zombie-hospital.json) |
 | 1 Fast Fight | 315347 | [315347-1-fast-fight.json](./315347-1-fast-fight.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Skulls of the Toltecs | 2204 | [2204-3-skulls-of-the-toltecs.json](./2204-3-skulls-of-the-toltecs.json) |
 | 3 Slices | 132105 | [132105-3-slices.json](./132105-3-slices.json) |
 | 3 Stars of Destiny | 9933 | [9933-3-stars-of-destiny.json](./9933-3-stars-of-destiny.json) |
+| 3 Switch Problem | 424572 | [424572-3-switch-problem.json](./424572-3-switch-problem.json) |
 | 3 Tactical Lines | 158538 | [158538-3-tactical-lines.json](./158538-3-tactical-lines.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
 | 3-2-1, Rattle Battle! | 51056 | [51056-3-2-1-rattle-battle.json](./51056-3-2-1-rattle-battle.json) |
@@ -3600,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Mages | 33448 | [33448-7-mages.json](./33448-7-mages.json) |
 | 7 Mages Complete | 52541 | [52541-7-mages-complete.json](./52541-7-mages-complete.json) |
 | 7 Meters Away: Oscar and the Cell of the Soul | 308955 | [308955-7-meters-away-oscar-and-the-cell-of-the-soul.json](./308955-7-meters-away-oscar-and-the-cell-of-the-soul.json) |
+| 7 Millimeters | 424563 | [424563-7-millimeters.json](./424563-7-millimeters.json) |
 | 7 Minutes in Hell | 317776 | [317776-7-minutes-in-hell.json](./317776-7-minutes-in-hell.json) |
 | 7 Nights Later | 376143 | [376143-7-nights-later.json](./376143-7-nights-later.json) |
 | 7 Nights with Vroombi | 377402 | [377402-7-nights-with-vroombi.json](./377402-7-nights-with-vroombi.json) |
