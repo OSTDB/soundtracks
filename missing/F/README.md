@@ -9507,6 +9507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
 | FlushFall | 369355 | [369355-flushfall.json](./369355-flushfall.json) |
 | Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
+| Flute Master | 34991 | [34991-flute-master.json](./34991-flute-master.json) |
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
 | Flute of Gobelin | 368420 | [368420-flute-of-gobelin.json](./368420-flute-of-gobelin.json) |
