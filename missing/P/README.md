@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Aruze Oukoku: e-CUP | 47613 | [47613-pachi-slot-aruze-oukoku-e-cup.json](./47613-pachi-slot-aruze-oukoku-e-cup.json) |
 | Pachi-Slot Biohazard 5 | 61488 | [61488-pachi-slot-biohazard-5.json](./61488-pachi-slot-biohazard-5.json) |
 | Pachi-Slot Biohazard 6 | 83114 | [83114-pachi-slot-biohazard-6.json](./83114-pachi-slot-biohazard-6.json) |
+| Pachi-Slot Devil May Cry 4 | 62352 | [62352-pachi-slot-devil-may-cry-4.json](./62352-pachi-slot-devil-may-cry-4.json) |
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
 | Pachi-Slot Kanzen Kōryaku: Onihama Bakusō Gurentai - Gekitō-hen | 56718 | [56718-pachi-slot-kanzen-koryaku-onihama-bakuso-gurentai-gekito-hen.json](./56718-pachi-slot-kanzen-koryaku-onihama-bakuso-gurentai-gekito-hen.json) |
@@ -415,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Shoubushi | 66870 | [66870-pachi-slot-shoubushi.json](./66870-pachi-slot-shoubushi.json) |
 | Pachi-Slot Teiou: Dream Slot - Heiwa SP | 97640 | [97640-pachi-slot-teiou-dream-slot-heiwa-sp.json](./97640-pachi-slot-teiou-dream-slot-heiwa-sp.json) |
 | Pachi-Slot Teiou: Golgo 13 Las Vegas | 100262 | [100262-pachi-slot-teiou-golgo-13-las-vegas.json](./100262-pachi-slot-teiou-golgo-13-las-vegas.json) |
+| Pachi-Slot Tekken 2nd | 62359 | [62359-pachi-slot-tekken-2nd.json](./62359-pachi-slot-tekken-2nd.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
@@ -14257,6 +14259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popo & Rob | 341561 | [341561-popo-and-rob.json](./341561-popo-and-rob.json) |
 | Popo Ball - popstar! once you start, you can't stop | 96329 | [96329-popo-ball-popstar-once-you-start-you-cant-stop.json](./96329-popo-ball-popstar-once-you-start-you-cant-stop.json) |
 | Popo Team | 195067 | [195067-popo-team.json](./195067-popo-team.json) |
+| Popo Team | 62337 | [62337-popo-team.json](./62337-popo-team.json) |
 | Popo's Tower | 136731 | [136731-popos-tower.json](./136731-popos-tower.json) |
 | Popol Maya | 178182 | [178182-popol-maya.json](./178182-popol-maya.json) |
 | PoPoLoCrois Monogatari | 63015 | [63015-popolocrois-monogatari.json](./63015-popolocrois-monogatari.json) |
@@ -19685,6 +19688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purely x Cation | 396498 | [396498-purely-x-cation.json](./396498-purely-x-cation.json) |
 | Purenista | 309597 | [309597-purenista.json](./309597-purenista.json) |
 | Purepuri Niizuma wa Boku no Tannin | 97543 | [97543-purepuri-niizuma-wa-boku-no-tannin.json](./97543-purepuri-niizuma-wa-boku-no-tannin.json) |
+| PureSim Baseball | 61820 | [61820-puresim-baseball.json](./61820-puresim-baseball.json) |
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate | 193718 | [193718-pureskate.json](./193718-pureskate.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
@@ -20143,6 +20147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons X: God Chapter | 125344 | [125344-puzzle-and-dragons-x-god-chapter.json](./125344-puzzle-and-dragons-x-god-chapter.json) |
 | Puzzle & Dragons Z | 62121 | [62121-puzzle-and-dragons-z.json](./62121-puzzle-and-dragons-z.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
+| Puzzle & Dragons: Battle Tournament | 61816 | [61816-puzzle-and-dragons-battle-tournament.json](./61816-puzzle-and-dragons-battle-tournament.json) |
 | Puzzle & Dragons: Super Mario Bros. Edition | 59517 | [59517-puzzle-and-dragons-super-mario-bros-edition.json](./59517-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Glory | 13105 | [13105-puzzle-and-glory.json](./13105-puzzle-and-glory.json) |
 | Puzzle & Heroes | 110225 | [110225-puzzle-and-heroes.json](./110225-puzzle-and-heroes.json) |
