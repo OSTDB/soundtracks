@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Doll U | 61171 | [61171-i-doll-u.json](./61171-i-doll-u.json) |
 | I Don't Belong | 186159 | [186159-i-dont-belong.json](./186159-i-dont-belong.json) |
 | I Don't Care: About Your Cliché Scene Vampire Bullshit | 184682 | [184682-i-dont-care-about-your-cliche-scene-vampire-bullshit.json](./184682-i-dont-care-about-your-cliche-scene-vampire-bullshit.json) |
+| I Don't Do Quests Anymore... | 423843 | [423843-i-dont-do-quests-anymore.json](./423843-i-dont-do-quests-anymore.json) |
 | I Don't Fall | 301709 | [301709-i-dont-fall.json](./301709-i-dont-fall.json) |
 | I Don't Know How to Have Hotpot Alone | 129601 | [129601-i-dont-know-how-to-have-hotpot-alone.json](./129601-i-dont-know-how-to-have-hotpot-alone.json) |
 | I Don't Know Which Name I Should Give This Game | 159048 | [159048-i-dont-know-which-name-i-should-give-this-game.json](./159048-i-dont-know-which-name-i-should-give-this-game.json) |
@@ -6241,9 +6242,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Presents: Atom Eve | 260366 | [260366-invincible-presents-atom-eve.json](./260366-invincible-presents-atom-eve.json) |
 | Invincible Tiger: The Legend of Han Tao | 15937 | [15937-invincible-tiger-the-legend-of-han-tao.json](./15937-invincible-tiger-the-legend-of-han-tao.json) |
 | Invincible Vs: Undercover and Overdressed - Skin Bundle | 411382 | [411382-invincible-vs-undercover-and-overdressed-skin-bundle.json](./411382-invincible-vs-undercover-and-overdressed-skin-bundle.json) |
+| Invincible Vs.: Angstrom - Multitudes Skin | 423931 | [423931-invincible-vs-angstrom-multitudes-skin.json](./423931-invincible-vs-angstrom-multitudes-skin.json) |
+| Invincible Vs.: Angstrom Levy - Additional Fighter | 423929 | [423929-invincible-vs-angstrom-levy-additional-fighter.json](./423929-invincible-vs-angstrom-levy-additional-fighter.json) |
+| Invincible Vs.: Atom Eve - Everyday Eve Skin | 423930 | [423930-invincible-vs-atom-eve-everyday-eve-skin.json](./423930-invincible-vs-atom-eve-everyday-eve-skin.json) |
 | Invincible Vs.: Bots & Monsters - Skin Bundle | 411380 | [411380-invincible-vs-bots-and-monsters-skin-bundle.json](./411380-invincible-vs-bots-and-monsters-skin-bundle.json) |
 | Invincible Vs.: Deluxe Edition | 400037 | [400037-invincible-vs-deluxe-edition.json](./400037-invincible-vs-deluxe-edition.json) |
 | Invincible Vs.: Dupli-Kate - Hidden Zero Skin | 411386 | [411386-invincible-vs-dupli-kate-hidden-zero-skin.json](./411386-invincible-vs-dupli-kate-hidden-zero-skin.json) |
+| Invincible Vs.: Like Father, Like Son - Skin Bundle | 423928 | [423928-invincible-vs-like-father-like-son-skin-bundle.json](./423928-invincible-vs-like-father-like-son-skin-bundle.json) |
 | Invincible Vs.: Rex Splode - Towel Skin | 411385 | [411385-invincible-vs-rex-splode-towel-skin.json](./411385-invincible-vs-rex-splode-towel-skin.json) |
 | Invincible Vs.: The Immortal - Additional Fighter | 410817 | [410817-invincible-vs-the-immortal-additional-fighter.json](./410817-invincible-vs-the-immortal-additional-fighter.json) |
 | Invincible Vs.: The Immortal - Honest Abe Skin | 411384 | [411384-invincible-vs-the-immortal-honest-abe-skin.json](./411384-invincible-vs-the-immortal-honest-abe-skin.json) |
@@ -7049,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of the Damned | 185469 | [185469-island-of-the-damned.json](./185469-island-of-the-damned.json) |
 | Island of the Lost | 159429 | [159429-island-of-the-lost.json](./159429-island-of-the-lost.json) |
 | Island of Winds | 171529 | [171529-island-of-winds.json](./171529-island-of-winds.json) |
+| Island Off Outer Dancing | 423936 | [423936-island-off-outer-dancing.json](./423936-island-off-outer-dancing.json) |
 | Island Off Outer Darkness | 352349 | [352349-island-off-outer-darkness.json](./352349-island-off-outer-darkness.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
 | Island Party Chaos | 298232 | [298232-island-party-chaos.json](./298232-island-party-chaos.json) |
