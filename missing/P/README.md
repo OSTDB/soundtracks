@@ -406,11 +406,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Kenkyuu | 37900 | [37900-pachi-slot-kenkyuu.json](./37900-pachi-slot-kenkyuu.json) |
 | Pachi-slot Kids 3 | 344043 | [344043-pachi-slot-kids-3.json](./344043-pachi-slot-kids-3.json) |
 | Pachi-Slot King! Kagaku Ninja-Tai Gatchaman | 62232 | [62232-pachi-slot-king-kagaku-ninja-tai-gatchaman.json](./62232-pachi-slot-king-kagaku-ninja-tai-gatchaman.json) |
+| Pachi-Slot Land: Pachi Pachi Coin no Densetsu | 66871 | [66871-pachi-slot-land-pachi-pachi-coin-no-densetsu.json](./66871-pachi-slot-land-pachi-pachi-coin-no-densetsu.json) |
 | Pachi-Slot Land: Pachi-pachi Coin no Densetsu | 37899 | [37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json](./37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json) |
 | Pachi-Slot Love Story | 37898 | [37898-pachi-slot-love-story.json](./37898-pachi-slot-love-story.json) |
 | Pachi-Slot Monogatari: Paru Kougyou Special | 37897 | [37897-pachi-slot-monogatari-paru-kougyou-special.json](./37897-pachi-slot-monogatari-paru-kougyou-special.json) |
 | Pachi-Slot Monogatari: Universal Special | 37896 | [37896-pachi-slot-monogatari-universal-special.json](./37896-pachi-slot-monogatari-universal-special.json) |
 | Pachi-slot Musou Orochi | 98133 | [98133-pachi-slot-musou-orochi.json](./98133-pachi-slot-musou-orochi.json) |
+| Pachi-Slot Shoubushi | 66870 | [66870-pachi-slot-shoubushi.json](./66870-pachi-slot-shoubushi.json) |
 | Pachi-Slot Teiou: Dream Slot - Heiwa SP | 97640 | [97640-pachi-slot-teiou-dream-slot-heiwa-sp.json](./97640-pachi-slot-teiou-dream-slot-heiwa-sp.json) |
 | Pachi-Slot Teiou: Golgo 13 Las Vegas | 100262 | [100262-pachi-slot-teiou-golgo-13-las-vegas.json](./100262-pachi-slot-teiou-golgo-13-las-vegas.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
@@ -434,10 +436,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Kuunyan | 383507 | [383507-pachinko-kuunyan.json](./383507-pachinko-kuunyan.json) |
 | Pachinko Life | 402978 | [402978-pachinko-life.json](./402978-pachinko-life.json) |
 | Pachinko Maruhi Hisshouhou | 42235 | [42235-pachinko-maruhi-hisshouhou.json](./42235-pachinko-maruhi-hisshouhou.json) |
+| Pachinko Monogatari 2: Nagoya Shachihoko no Teiou | 66869 | [66869-pachinko-monogatari-2-nagoya-shachihoko-no-teiou.json](./66869-pachinko-monogatari-2-nagoya-shachihoko-no-teiou.json) |
 | Pachinko Monogatari: Pachi-Slot mo Aru de yo!! | 42234 | [42234-pachinko-monogatari-pachi-slot-mo-aru-de-yo.json](./42234-pachinko-monogatari-pachi-slot-mo-aru-de-yo.json) |
 | Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
 | Pachinko Pocket Parlor Guide | 75502 | [75502-pachinko-pocket-parlor-guide.json](./75502-pachinko-pocket-parlor-guide.json) |
 | Pachinko Ren Chan Tengoku | 42232 | [42232-pachinko-ren-chan-tengoku.json](./42232-pachinko-ren-chan-tengoku.json) |
+| Pachinko Ren-chan Tengoku: Super CR Special | 66868 | [66868-pachinko-ren-chan-tengoku-super-cr-special.json](./66868-pachinko-ren-chan-tengoku-super-cr-special.json) |
 | Pachinko Saiyuuki | 97627 | [97627-pachinko-saiyuuki.json](./97627-pachinko-saiyuuki.json) |
 | Pachinko Sexy Reaction | 83307 | [83307-pachinko-sexy-reaction.json](./83307-pachinko-sexy-reaction.json) |
 | Pachinko Sexy Reaction 2 | 83305 | [83305-pachinko-sexy-reaction-2.json](./83305-pachinko-sexy-reaction-2.json) |
@@ -447,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Time | 131141 | [131141-pachinko-time.json](./131141-pachinko-time.json) |
 | Pachinko Wars | 42230 | [42230-pachinko-wars.json](./42230-pachinko-wars.json) |
 | Pachinko Wars 2 | 42229 | [42229-pachinko-wars-2.json](./42229-pachinko-wars-2.json) |
+| Pachinko Wars II | 66867 | [66867-pachinko-wars-ii.json](./66867-pachinko-wars-ii.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachinko-U.F.O. | 83118 | [83118-pachinko-u-f-o.json](./83118-pachinko-u-f-o.json) |
 | Pachinko! | 80433 | [80433-pachinko.json](./80433-pachinko.json) |
@@ -2796,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkside: Decayed Soul Manipulation | 264793 | [264793-parkside-decayed-soul-manipulation.json](./264793-parkside-decayed-soul-manipulation.json) |
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
+| Parky and the Yellow Submarine | 66314 | [66314-parky-and-the-yellow-submarine.json](./66314-parky-and-the-yellow-submarine.json) |
 | Parley Nightmare | 206392 | [206392-parley-nightmare.json](./206392-parley-nightmare.json) |
 | Parliament | 350474 | [350474-parliament.json](./350474-parliament.json) |
 | Parliament of Hell 1796 | 344487 | [344487-parliament-of-hell-1796.json](./344487-parliament-of-hell-1796.json) |
@@ -2809,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parlor! Mini 5 | 37891 | [37891-parlor-mini-5.json](./37891-parlor-mini-5.json) |
 | Parlor! Mini 6 | 37878 | [37878-parlor-mini-6.json](./37878-parlor-mini-6.json) |
 | Parlor! Mini 7 | 37877 | [37877-parlor-mini-7.json](./37877-parlor-mini-7.json) |
+| Parlor! Mini 7: Pachinko Jikki Simulation Game | 66864 | [66864-parlor-mini-7-pachinko-jikki-simulation-game.json](./66864-parlor-mini-7-pachinko-jikki-simulation-game.json) |
 | Parlor! Pro 64: Pachinko Jikki Simulation | 3571 | [3571-parlor-pro-64-pachinko-jikki-simulation.json](./3571-parlor-pro-64-pachinko-jikki-simulation.json) |
 | Parlour Games | 46135 | [46135-parlour-games.json](./46135-parlour-games.json) |
 | Parman: Haunted School Guard | 381537 | [381537-parman-haunted-school-guard.json](./381537-parman-haunted-school-guard.json) |
@@ -4677,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penthouse Interactive: Virtual Photo Shoot Vol. 1 | 254498 | [254498-penthouse-interactive-virtual-photo-shoot-vol-1.json](./254498-penthouse-interactive-virtual-photo-shoot-vol-1.json) |
 | Pentimento | 391022 | [391022-pentimento.json](./391022-pentimento.json) |
 | Pentium | 92073 | [92073-pentium.json](./92073-pentium.json) |
+| Pentium 2: Little Goddess | 66289 | [66289-pentium-2-little-goddess.json](./66289-pentium-2-little-goddess.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Pentominon | 102859 | [102859-pentominon.json](./102859-pentominon.json) |
 | Pentominon Transctiption | 102864 | [102864-pentominon-transctiption.json](./102864-pentominon-transctiption.json) |
@@ -4733,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepe Pillz | 393523 | [393523-pepe-pillz.json](./393523-pepe-pillz.json) |
 | Pepe Porcupine | 32408 | [32408-pepe-porcupine.json](./32408-pepe-porcupine.json) |
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
+| Pepe's Puzzles | 66854 | [66854-pepes-puzzles.json](./66854-pepes-puzzles.json) |
 | Pepe's Revenge | 320061 | [320061-pepes-revenge.json](./320061-pepes-revenge.json) |
 | PepeFrog | 195451 | [195451-pepefrog.json](./195451-pepefrog.json) |
 | Pepeizq's Cities | 115888 | [115888-pepeizqs-cities.json](./115888-pepeizqs-cities.json) |
@@ -8117,6 +8126,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Panther | 8105 | [8105-pink-panther.json](./8105-pink-panther.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
 | Pink Panther: Pinkadelic Pursuit | 8108 | [8108-pink-panther-pinkadelic-pursuit.json](./8108-pink-panther-pinkadelic-pursuit.json) |
+| Pink Panther's Magic Island | 66845 | [66845-pink-panthers-magic-island.json](./66845-pink-panthers-magic-island.json) |
+| Pink Panther's Shapes and Colors | 66847 | [66847-pink-panthers-shapes-and-colors.json](./66847-pink-panthers-shapes-and-colors.json) |
 | Pink Pong | 287585 | [287585-pink-pong.json](./287585-pink-pong.json) |
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
 | Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
@@ -9807,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
 | Pixxle: A Pixel Puzzle Game | 91147 | [91147-pixxle-a-pixel-puzzle-game.json](./91147-pixxle-a-pixel-puzzle-game.json) |
 | Pixxxel | 213523 | [213523-pixxxel.json](./213523-pixxxel.json) |
+| Pixy Garden: Yousei Densetsu | 66275 | [66275-pixy-garden-yousei-densetsu.json](./66275-pixy-garden-yousei-densetsu.json) |
 | Pixy-Pic-Xel | 110438 | [110438-pixy-pic-xel.json](./110438-pixy-pic-xel.json) |
 | Pixygarden | 137285 | [137285-pixygarden.json](./137285-pixygarden.json) |
 | PixZomb | 334808 | [334808-pixzomb.json](./334808-pixzomb.json) |
@@ -11569,6 +11581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Monster | 213127 | [213127-pocket-monster.json](./213127-pocket-monster.json) |
 | Pocket Monster | 45692 | [45692-pocket-monster.json](./45692-pocket-monster.json) |
 | Pocket Monster II | 45691 | [45691-pocket-monster-ii.json](./45691-pocket-monster-ii.json) |
+| Pocket Monsters Advanced Generation: Hiragana Katakana Kakechatta! | 66844 | [66844-pocket-monsters-advanced-generation-hiragana-katakana-kakechatta.json](./66844-pocket-monsters-advanced-generation-hiragana-katakana-kakechatta.json) |
 | Pocket Monsters Advanced Generation: Minna de Pico Pokémon Waiwai Battle! | 63048 | [63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json](./63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json) |
 | Pocket Monsters Advanced Generation: Pokémon Suuji Battle!! | 181505 | [181505-pocket-monsters-advanced-generation-pokemon-suuji-battle.json](./181505-pocket-monsters-advanced-generation-pokemon-suuji-battle.json) |
 | Pocket Monsters Best Wishes!: Chinou Ikusei - Pokémon Daiundoukai | 181507 | [181507-pocket-monsters-best-wishes-chinou-ikusei-pokemon-daiundoukai.json](./181507-pocket-monsters-best-wishes-chinou-ikusei-pokemon-daiundoukai.json) |
@@ -13772,6 +13785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
 | Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
+| Ponjalla no Houkago: Sadoubu(re) Hen | 66271 | [66271-ponjalla-no-houkago-sadoubu-re-hen.json](./66271-ponjalla-no-houkago-sadoubu-re-hen.json) |
 | Ponjan Wii | 142692 | [142692-ponjan-wii.json](./142692-ponjan-wii.json) |
 | Ponk's Jam | 157437 | [157437-ponks-jam.json](./157437-ponks-jam.json) |
 | Ponk's Jam: The Tulip Thief | 258902 | [258902-ponks-jam-the-tulip-thief.json](./258902-ponks-jam-the-tulip-thief.json) |
