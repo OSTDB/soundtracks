@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tazz | 293321 | [293321-tazz.json](./293321-tazz.json) |
 | TBH: Task Bar Hero | 372510 | [372510-tbh-task-bar-hero.json](./372510-tbh-task-bar-hero.json) |
 | TBmsTF | 281361 | [281361-tbmstf.json](./281361-tbmstf.json) |
+| TBS All Star Kanshasai Vol. 1: Chou Gouka! Quiz Ketteiban | 422761 | [422761-tbs-all-star-kanshasai-vol-1-chou-gouka-quiz-ketteiban.json](./422761-tbs-all-star-kanshasai-vol-1-chou-gouka-quiz-ketteiban.json) |
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
 | TBTE: The Button Tycoon Experience | 390554 | [390554-tbte-the-button-tycoon-experience.json](./390554-tbte-the-button-tycoon-experience.json) |
 | TC Strikers 1 | 169805 | [169805-tc-strikers-1.json](./169805-tc-strikers-1.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Subject | 325984 | [325984-test-subject.json](./325984-test-subject.json) |
 | Test Subject 901 | 108039 | [108039-test-subject-901.json](./108039-test-subject-901.json) |
+| Test Subject Arena 2 | 422718 | [422718-test-subject-arena-2.json](./422718-test-subject-arena-2.json) |
 | Test Subject Blue | 172473 | [172473-test-subject-blue.json](./172473-test-subject-blue.json) |
 | Test Subject Complete | 172475 | [172475-test-subject-complete.json](./172475-test-subject-complete.json) |
 | Test Subject Green | 172474 | [172474-test-subject-green.json](./172474-test-subject-green.json) |
@@ -14720,6 +14722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
 | The Loop VR | 97919 | [97919-the-loop-vr.json](./97919-the-loop-vr.json) |
 | The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
+| The Looping Summer Time | 422739 | [422739-the-looping-summer-time.json](./422739-the-looping-summer-time.json) |
 | The Loopler | 377087 | [377087-the-loopler.json](./377087-the-loopler.json) |
 | The Looter | 126817 | [126817-the-looter.json](./126817-the-looter.json) |
 | The Lorax: Truffula Shuffula | 271068 | [271068-the-lorax-truffula-shuffula.json](./271068-the-lorax-truffula-shuffula.json) |
@@ -20561,6 +20564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfamiliars | 411922 | [411922-the-unfamiliars.json](./411922-the-unfamiliars.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
+| The Unforgettable Gem Hunt! | 422752 | [422752-the-unforgettable-gem-hunt.json](./422752-the-unforgettable-gem-hunt.json) |
 | The Unfortunate Fortune-Teller | 182653 | [182653-the-unfortunate-fortune-teller.json](./182653-the-unfortunate-fortune-teller.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
 | The Ungrateful Son | 340593 | [340593-the-ungrateful-son.json](./340593-the-ungrateful-son.json) |
@@ -28797,6 +28801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
 | Top Speed | 40468 | [40468-top-speed.json](./40468-top-speed.json) |
+| Top Speed | 422760 | [422760-top-speed.json](./422760-top-speed.json) |
 | Top Speed 2 | 119378 | [119378-top-speed-2.json](./119378-top-speed-2.json) |
 | Top Speed 2: Drag Rivals & Nitro Racing | 200464 | [200464-top-speed-2-drag-rivals-and-nitro-racing.json](./200464-top-speed-2-drag-rivals-and-nitro-racing.json) |
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
@@ -34429,6 +34434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of the Gods | 102310 | [102310-trial-of-the-gods.json](./102310-trial-of-the-gods.json) |
 | Trial of the Gods: Ariadne's Journey | 416188 | [416188-trial-of-the-gods-ariadnes-journey.json](./416188-trial-of-the-gods-ariadnes-journey.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
+| Trial of the Sorcerer | 422736 | [422736-trial-of-the-sorcerer.json](./422736-trial-of-the-sorcerer.json) |
 | Trial of the Tower God | 185290 | [185290-trial-of-the-tower-god.json](./185290-trial-of-the-tower-god.json) |
 | Trial of the Towers | 116763 | [116763-trial-of-the-towers.json](./116763-trial-of-the-towers.json) |
 | Trial of Titans | 196387 | [196387-trial-of-titans.json](./196387-trial-of-titans.json) |
@@ -37648,6 +37654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyler | 34770 | [34770-tyler.json](./34770-tyler.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
 | Tyler: Model 005 | 29943 | [29943-tyler-model-005.json](./29943-tyler-model-005.json) |
+| Tyler’s Deal | 422755 | [422755-tyler-s-deal.json](./422755-tyler-s-deal.json) |
 | Tyler's White Lie | 339465 | [339465-tylers-white-lie.json](./339465-tylers-white-lie.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type | 372371 | [372371-type.json](./372371-type.json) |
