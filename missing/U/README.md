@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underswap: The Reckoning | 329667 | [329667-underswap-the-reckoning.json](./329667-underswap-the-reckoning.json) |
 | Undertaker | 370746 | [370746-undertaker.json](./370746-undertaker.json) |
 | Undertaker | 380744 | [380744-undertaker.json](./380744-undertaker.json) |
+| Undertaker's | 37413 | [37413-undertakers.json](./37413-undertakers.json) |
 | Undertale 10th Anniversary | 369443 | [369443-undertale-10th-anniversary.json](./369443-undertale-10th-anniversary.json) |
 | Undertale 2 | 178026 | [178026-undertale-2.json](./178026-undertale-2.json) |
 | Undertale 2: Overtale | 232519 | [232519-undertale-2-overtale.json](./232519-undertale-2-overtale.json) |
