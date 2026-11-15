@@ -7127,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
 | Demon Blade | 235012 | [235012-demon-blade.json](./235012-demon-blade.json) |
+| Demon Blade VR | 68189 | [68189-demon-blade-vr.json](./68189-demon-blade-vr.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
 | Demon Blue | 12570 | [12570-demon-blue.json](./12570-demon-blue.json) |
 | Demon Bluff | 341980 | [341980-demon-bluff.json](./341980-demon-bluff.json) |
