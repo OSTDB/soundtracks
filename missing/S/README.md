@@ -3738,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Adams' Graphic Adventure #5: The Count | 71580 | [71580-scott-adams-graphic-adventure-5-the-count.json](./71580-scott-adams-graphic-adventure-5-the-count.json) |
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
+| Scott in Space | 34888 | [34888-scott-in-space.json](./34888-scott-in-space.json) |
 | Scott Pilgrim Versus | 278300 | [278300-scott-pilgrim-versus.json](./278300-scott-pilgrim-versus.json) |
 | Scott Pilgrim vs. the World: The Game - Complete Edition | 138765 | [138765-scott-pilgrim-vs-the-world-the-game-complete-edition.json](./138765-scott-pilgrim-vs-the-world-the-game-complete-edition.json) |
 | Scott Pilgrim vs. the World: The Game - Knives Chau Add-on Pack | 165490 | [165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json](./165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
 | Seena | 368170 | [368170-seena.json](./368170-seena.json) |
 | SeeNa | 62590 | [62590-seena.json](./62590-seena.json) |
+| Seep Universe | 34910 | [34910-seep-universe.json](./34910-seep-universe.json) |
 | Seer | 397381 | [397381-seer.json](./397381-seer.json) |
 | Seer's Gambit | 265301 | [265301-seers-gambit.json](./265301-seers-gambit.json) |
 | Seers of Ages Past 1: The Harbinger of Mah | 285884 | [285884-seers-of-ages-past-1-the-harbinger-of-mah.json](./285884-seers-of-ages-past-1-the-harbinger-of-mah.json) |
@@ -11559,6 +11561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal Pit | 402651 | [402651-signal-pit.json](./402651-signal-pit.json) |
 | Signal Simulator | 99625 | [99625-signal-simulator.json](./99625-signal-simulator.json) |
+| Signal to Noise | 34995 | [34995-signal-to-noise.json](./34995-signal-to-noise.json) |
 | Signal Veil | 421169 | [421169-signal-veil.json](./421169-signal-veil.json) |
 | Signal Zero | 405137 | [405137-signal-zero.json](./405137-signal-zero.json) |
 | Signal Zero | 405139 | [405139-signal-zero.json](./405139-signal-zero.json) |
@@ -22714,6 +22717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space X Collector | 166168 | [166168-space-x-collector.json](./166168-space-x-collector.json) |
 | Space X: Galaxy War of Air Force | 99369 | [99369-space-x-galaxy-war-of-air-force.json](./99369-space-x-galaxy-war-of-air-force.json) |
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
+| Space Xonix | 34938 | [34938-space-xonix.json](./34938-space-xonix.json) |
 | Space Yandere | 174062 | [174062-space-yandere.json](./174062-space-yandere.json) |
 | Space Yugoslav 2D | 358618 | [358618-space-yugoslav-2d.json](./358618-space-yugoslav-2d.json) |
 | Space Zap | 23244 | [23244-space-zap.json](./23244-space-zap.json) |
@@ -23012,6 +23016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spammerina | 309879 | [309879-spammerina.json](./309879-spammerina.json) |
 | Spamware | 333048 | [333048-spamware.json](./333048-spamware.json) |
 | Span of Dream | 400328 | [400328-span-of-dream.json](./400328-span-of-dream.json) |
+| Spandex Force: Champion Rising | 34998 | [34998-spandex-force-champion-rising.json](./34998-spandex-force-champion-rising.json) |
 | Spangled | 243713 | [243713-spangled.json](./243713-spangled.json) |
 | Spanish 101 | 93542 | [93542-spanish-101.json](./93542-spanish-101.json) |
 | Spanish Civil War | 59318 | [59318-spanish-civil-war.json](./59318-spanish-civil-war.json) |
@@ -27912,6 +27917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardom: Your Quest For Fame | 73373 | [73373-stardom-your-quest-for-fame.json](./73373-stardom-your-quest-for-fame.json) |
 | Stardome | 244687 | [244687-stardome.json](./244687-stardome.json) |
 | Stardream | 349984 | [349984-stardream.json](./349984-stardream.json) |
+| Stardrift Nomads | 34970 | [34970-stardrift-nomads.json](./34970-stardrift-nomads.json) |
 | StarDrive | 10889 | [10889-stardrive.json](./10889-stardrive.json) |
 | StarDrive 2 | 13660 | [13660-stardrive-2.json](./13660-stardrive-2.json) |
 | StarDrive 2: Deluxe Edition | 53661 | [53661-stardrive-2-deluxe-edition.json](./53661-stardrive-2-deluxe-edition.json) |
