@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//Frägment | 11811 | [11811-hack-fragment.json](./11811-hack-fragment.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
 | .Hack//G.U. Last Recode: Premium Edition | 166181 | [166181-hack-g-u-last-recode-premium-edition.json](./166181-hack-g-u-last-recode-premium-edition.json) |
+| .Hack//G.U. Vol. 1: Rebirth | 11987 | [11987-hack-g-u-vol-1-rebirth.json](./11987-hack-g-u-vol-1-rebirth.json) |
 | .Hack//G.U. Vol. 1: Rebirth HD | 182460 | [182460-hack-g-u-vol-1-rebirth-hd.json](./182460-hack-g-u-vol-1-rebirth-hd.json) |
 | .Hack//G.U. Vol. 2: Reminisce | 11988 | [11988-hack-g-u-vol-2-reminisce.json](./11988-hack-g-u-vol-2-reminisce.json) |
 | .Hack//G.U. Vol. 2: Reminisce HD | 182462 | [182462-hack-g-u-vol-2-reminisce-hd.json](./182462-hack-g-u-vol-2-reminisce-hd.json) |
@@ -2493,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30s Quest Tile | 181476 | [181476-30s-quest-tile.json](./181476-30s-quest-tile.json) |
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30th Century Post Office | 28304 | [28304-30th-century-post-office.json](./28304-30th-century-post-office.json) |
+| 30XX | 129944 | [129944-30xx.json](./129944-30xx.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 | 83702 | [83702-31.json](./83702-31.json) |
 | 31 Full Games for Everyone | 415384 | [415384-31-full-games-for-everyone.json](./415384-31-full-games-for-everyone.json) |
@@ -3065,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 x 4 Dream Racing | 9935 | [9935-4-x-4-dream-racing.json](./9935-4-x-4-dream-racing.json) |
 | 4-4-2 Soccer | 45317 | [45317-4-4-2-soccer.json](./45317-4-4-2-soccer.json) |
 | 4-Block Dungeon | 122347 | [122347-4-block-dungeon.json](./122347-4-block-dungeon.json) |
+| 4-D Boxing | 12497 | [12497-4-d-boxing.json](./12497-4-d-boxing.json) |
 | 4-D Warriors | 39453 | [39453-4-d-warriors.json](./39453-4-d-warriors.json) |
 | 4-in-1 Award Winning Indie Gems | 331453 | [331453-4-in-1-award-winning-indie-gems.json](./331453-4-in-1-award-winning-indie-gems.json) |
 | 4-In-1 Electronic Computer Games | 245576 | [245576-4-in-1-electronic-computer-games.json](./245576-4-in-1-electronic-computer-games.json) |
