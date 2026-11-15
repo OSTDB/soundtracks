@@ -12812,6 +12812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Nanxiangzi | 288826 | [288826-codename-nanxiangzi.json](./288826-codename-nanxiangzi.json) |
 | Codename: Ocean Keeper | 297366 | [297366-codename-ocean-keeper.json](./297366-codename-ocean-keeper.json) |
+| Codename: Outbreak | 9283 | [9283-codename-outbreak.json](./9283-codename-outbreak.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
 | Codename: Panzers - Phase One | 640 | [640-codename-panzers-phase-one.json](./640-codename-panzers-phase-one.json) |
 | Codename: Panzers - Phase Two | 20203 | [20203-codename-panzers-phase-two.json](./20203-codename-panzers-phase-two.json) |
@@ -13271,6 +13272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsion | 193001 | [193001-collapsion.json](./193001-collapsion.json) |
 | Collapsle | 425420 | [425420-collapsle.json](./425420-collapsle.json) |
 | Collapsus | 99413 | [99413-collapsus.json](./99413-collapsus.json) |
+| Collar x Malice | 12634 | [12634-collar-x-malice.json](./12634-collar-x-malice.json) |
 | Collar x Malice: The V-Day Incident! | 384664 | [384664-collar-x-malice-the-v-day-incident.json](./384664-collar-x-malice-the-v-day-incident.json) |
 | Collar x Malice: Unlimited | 69344 | [69344-collar-x-malice-unlimited.json](./69344-collar-x-malice-unlimited.json) |
 | Collar X Malice: Unlimited - Limited Edition | 136207 | [136207-collar-x-malice-unlimited-limited-edition.json](./136207-collar-x-malice-unlimited-limited-edition.json) |
