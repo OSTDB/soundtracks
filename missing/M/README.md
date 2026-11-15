@@ -9389,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaSphere | 34846 | [34846-megasphere.json](./34846-megasphere.json) |
 | Megastore Simulator | 372969 | [372969-megastore-simulator.json](./372969-megastore-simulator.json) |
 | Megastore: Tidy Up Together | 412653 | [412653-megastore-tidy-up-together.json](./412653-megastore-tidy-up-together.json) |
+| Megastructure | 428143 | [428143-megastructure.json](./428143-megastructure.json) |
 | Megasuki: Love Through Lenses with Ayumu Sakura | 416598 | [416598-megasuki-love-through-lenses-with-ayumu-sakura.json](./416598-megasuki-love-through-lenses-with-ayumu-sakura.json) |
 | Megasuki: Love Through Lenses with Otoha Inami | 416599 | [416599-megasuki-love-through-lenses-with-otoha-inami.json](./416599-megasuki-love-through-lenses-with-otoha-inami.json) |
 | Megasuki: Love Through Lenses with Yuuki Hoshino | 416597 | [416597-megasuki-love-through-lenses-with-yuuki-hoshino.json](./416597-megasuki-love-through-lenses-with-yuuki-hoshino.json) |
@@ -15777,6 +15778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mists of Noyah | 129667 | [129667-mists-of-noyah.json](./129667-mists-of-noyah.json) |
 | MistsBook | 296371 | [296371-mistsbook.json](./296371-mistsbook.json) |
 | Mistward | 270524 | [270524-mistward.json](./270524-mistward.json) |
+| Mistwater | 428107 | [428107-mistwater.json](./428107-mistwater.json) |
 | Mistwilds | 349306 | [349306-mistwilds.json](./349306-mistwilds.json) |
 | Mistwinter Bay | 227026 | [227026-mistwinter-bay.json](./227026-mistwinter-bay.json) |
 | Mistwood Heroes | 29936 | [29936-mistwood-heroes.json](./29936-mistwood-heroes.json) |
@@ -20915,6 +20917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Dubstep | 68322 | [68322-mr-dubstep.json](./68322-mr-dubstep.json) |
 | Mr. E | 240578 | [240578-mr-e.json](./240578-mr-e.json) |
+| Mr. E's Magic Maze | 428102 | [428102-mr-es-magic-maze.json](./428102-mr-es-magic-maze.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
 | Mr. Fat's Chopstick Challenge | 410441 | [410441-mr-fats-chopstick-challenge.json](./410441-mr-fats-chopstick-challenge.json) |
