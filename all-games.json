@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T04:26:07.522Z",
-  "total_soundtracks": 3391,
+  "generated_at": "2026-11-15T04:35:59.821Z",
+  "total_soundtracks": 3392,
   "games": [
     {
       "igdb_id": 292844,
@@ -31693,6 +31693,20 @@
         {
           "album_name": "Skeleton Boomerang (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1k7VWZCmGFsVQwKwWqQktk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111061,
+      "game_name": "Skin Deep",
+      "game_url": "https://ostdb.net/games/skin-deep",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273823d00ae9e464655d1dd1fe5",
+      "albums": [
+        {
+          "album_name": "Skin Deep (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4rghkJuaJhGIAqqGzOvm2O",
           "apple_music_url": "",
           "album_link_url": ""
         }
