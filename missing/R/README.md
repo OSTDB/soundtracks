@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok | 71704 | [71704-ragnarok.json](./71704-ragnarok.json) |
 | Ragnarok Age of Heroes | 305964 | [305964-ragnarok-age-of-heroes.json](./305964-ragnarok-age-of-heroes.json) |
 | Ragnarok Arena | 214383 | [214383-ragnarok-arena.json](./214383-ragnarok-arena.json) |
+| Ragnarok Battle Offline | 50778 | [50778-ragnarok-battle-offline.json](./50778-ragnarok-battle-offline.json) |
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
 | Ragnarok Battle Offline: Extra Scenario 3 | 126301 | [126301-ragnarok-battle-offline-extra-scenario-3.json](./126301-ragnarok-battle-offline-extra-scenario-3.json) |
@@ -3797,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Supplies | 359451 | [359451-rebel-supplies.json](./359451-rebel-supplies.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
 | Rebel Transmute | 128766 | [128766-rebel-transmute.json](./128766-rebel-transmute.json) |
+| Rebel Trucker: Cajun Blood Money | 50911 | [50911-rebel-trucker-cajun-blood-money.json](./50911-rebel-trucker-cajun-blood-money.json) |
 | Rebel Wings | 35051 | [35051-rebel-wings.json](./35051-rebel-wings.json) |
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
 | Rebel! Pure Love Fighters! | 153027 | [153027-rebel-pure-love-fighters.json](./153027-rebel-pure-love-fighters.json) |
@@ -5629,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of the Precursors | 133756 | [133756-remnants-of-the-precursors.json](./133756-remnants-of-the-precursors.json) |
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
+| Remnith | 52280 | [52280-remnith.json](./52280-remnith.json) |
 | Remonstrator | 334019 | [334019-remonstrator.json](./334019-remonstrator.json) |
 | Remont Soyuz | 181172 | [181172-remont-soyuz.json](./181172-remont-soyuz.json) |
 | Remoove | 67909 | [67909-remoove.json](./67909-remoove.json) |
@@ -8409,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigonauts | 16382 | [16382-rigonauts.json](./16382-rigonauts.json) |
 | Rigor Mortis | 124509 | [124509-rigor-mortis.json](./124509-rigor-mortis.json) |
 | RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
+| Rigs of Rods | 50775 | [50775-rigs-of-rods.json](./50775-rigs-of-rods.json) |
 | Rigs: Mechanized Combat League | 11253 | [11253-rigs-mechanized-combat-league.json](./11253-rigs-mechanized-combat-league.json) |
 | Riichi Advanced | 335766 | [335766-riichi-advanced.json](./335766-riichi-advanced.json) |
 | Riichi Mahjong | 403729 | [403729-riichi-mahjong.json](./403729-riichi-mahjong.json) |
@@ -11037,6 +11041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
 | Rodland of Pipes | 311830 | [311830-rodland-of-pipes.json](./311830-rodland-of-pipes.json) |
+| Rodney's Funscreen | 50890 | [50890-rodneys-funscreen.json](./50890-rodneys-funscreen.json) |
 | Rodney's Funscreen 2 Extreme | 257256 | [257256-rodneys-funscreen-2-extreme.json](./257256-rodneys-funscreen-2-extreme.json) |
 | Rodney's Wonder Window | 78226 | [78226-rodneys-wonder-window.json](./78226-rodneys-wonder-window.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
@@ -13848,6 +13853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Star | 316522 | [316522-runaway-star.json](./316522-runaway-star.json) |
 | Runaway Toad | 200068 | [200068-runaway-toad.json](./200068-runaway-toad.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
+| Runaway Train | 50894 | [50894-runaway-train.json](./50894-runaway-train.json) |
 | Runaway Train 2D | 400908 | [400908-runaway-train-2d.json](./400908-runaway-train-2d.json) |
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
