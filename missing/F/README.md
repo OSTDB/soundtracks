@@ -2468,10 +2468,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
 | Far Cry 4: Arcade Poker | 60379 | [60379-far-cry-4-arcade-poker.json](./60379-far-cry-4-arcade-poker.json) |
 | Far Cry 4: Arena Master | 51481 | [51481-far-cry-4-arena-master.json](./51481-far-cry-4-arena-master.json) |
+| Far Cry 4: Complete Edition | 42955 | [42955-far-cry-4-complete-edition.json](./42955-far-cry-4-complete-edition.json) |
 | Far Cry 4: Escape From Durgesh Prison | 23225 | [23225-far-cry-4-escape-from-durgesh-prison.json](./23225-far-cry-4-escape-from-durgesh-prison.json) |
 | Far Cry 4: Gold Edition | 53019 | [53019-far-cry-4-gold-edition.json](./53019-far-cry-4-gold-edition.json) |
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
+| Far Cry 4: Limited Edition | 42943 | [42943-far-cry-4-limited-edition.json](./42943-far-cry-4-limited-edition.json) |
 | Far Cry 4: Overrun | 168585 | [168585-far-cry-4-overrun.json](./168585-far-cry-4-overrun.json) |
 | Far Cry 4: Season Pass | 142907 | [142907-far-cry-4-season-pass.json](./142907-far-cry-4-season-pass.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
