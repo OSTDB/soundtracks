@@ -4709,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
 | Cat Simulator | 18014 | [18014-cat-simulator.json](./18014-cat-simulator.json) |
 | Cat Simulator | 283154 | [283154-cat-simulator.json](./283154-cat-simulator.json) |
+| Cat Simulator | 429338 | [429338-cat-simulator.json](./429338-cat-simulator.json) |
 | Cat Simulator 2 | 306469 | [306469-cat-simulator-2.json](./306469-cat-simulator-2.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Simulator 3D: Pets and Friends | 87300 | [87300-cat-simulator-3d-pets-and-friends.json](./87300-cat-simulator-3d-pets-and-friends.json) |
@@ -10868,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clam Man 2: Open Mic | 150779 | [150779-clam-man-2-open-mic.json](./150779-clam-man-2-open-mic.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clamber | 414398 | [414398-clamber.json](./414398-clamber.json) |
+| Clamber | 429367 | [429367-clamber.json](./429367-clamber.json) |
 | Clampship | 244413 | [244413-clampship.json](./244413-clampship.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Duramont | 357160 | [357160-clan-duramont.json](./357160-clan-duramont.json) |
@@ -15039,6 +15041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
 | Conan: Hall of Volta | 25820 | [25820-conan-hall-of-volta.json](./25820-conan-hall-of-volta.json) |
+| Conan: The Black Pyramid | 429372 | [429372-conan-the-black-pyramid.json](./429372-conan-the-black-pyramid.json) |
 | Conarium | 24856 | [24856-conarium.json](./24856-conarium.json) |
 | Conatus: Forgotten Depths | 412216 | [412216-conatus-forgotten-depths.json](./412216-conatus-forgotten-depths.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
