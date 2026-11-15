@@ -6654,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
 | Retaliation | 34034 | [34034-retaliation.json](./34034-retaliation.json) |
+| Retaliation Path of Rome | 31268 | [31268-retaliation-path-of-rome.json](./31268-retaliation-path-of-rome.json) |
 | Retaliation: Enemy Mine | 34872 | [34872-retaliation-enemy-mine.json](./34872-retaliation-enemy-mine.json) |
 | Retchid | 204889 | [204889-retchid.json](./204889-retchid.json) |
 | reTension | 92085 | [92085-retension.json](./92085-retension.json) |
@@ -10068,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot II: Das Labyrinth im Wald | 71314 | [71314-robot-ii-das-labyrinth-im-wald.json](./71314-robot-ii-das-labyrinth-im-wald.json) |
 | Robot III: Insel der Heiligen Prüfung | 73444 | [73444-robot-iii-insel-der-heiligen-prufung.json](./73444-robot-iii-insel-der-heiligen-prufung.json) |
+| Robot Incursion | 31275 | [31275-robot-incursion.json](./31275-robot-incursion.json) |
 | Robot Invasion | 169814 | [169814-robot-invasion.json](./169814-robot-invasion.json) |
 | Robot Island | 127727 | [127727-robot-island.json](./127727-robot-island.json) |
 | Robot IV: Operation ExtraTax | 70796 | [70796-robot-iv-operation-extratax.json](./70796-robot-iv-operation-extratax.json) |
@@ -11429,6 +11431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogues Like Us | 32357 | [32357-rogues-like-us.json](./32357-rogues-like-us.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
 | Rogues of Titan | 366346 | [366346-rogues-of-titan.json](./366346-rogues-of-titan.json) |
+| Rogues or Heroes | 31221 | [31221-rogues-or-heroes.json](./31221-rogues-or-heroes.json) |
 | Rogues' Tales | 174779 | [174779-rogues-tales.json](./174779-rogues-tales.json) |
 | Roguescape | 131936 | [131936-roguescape.json](./131936-roguescape.json) |
 | RogueScape | 404080 | [404080-roguescape.json](./404080-roguescape.json) |
