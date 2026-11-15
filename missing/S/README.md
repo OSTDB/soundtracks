@@ -9003,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
 | Sherlock Holmes Consulting Detective: The Case of Banker's Final Debt | 259177 | [259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json](./259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json) |
 | Sherlock Holmes Consulting Detective: The Case of the Mummy's Curse | 35139 | [35139-sherlock-holmes-consulting-detective-the-case-of-the-mummys-curse.json](./35139-sherlock-holmes-consulting-detective-the-case-of-the-mummys-curse.json) |
+| Sherlock Holmes Consulting Detective: The Case of the Mystified Murderess | 35063 | [35063-sherlock-holmes-consulting-detective-the-case-of-the-mystified-murderess.json](./35063-sherlock-holmes-consulting-detective-the-case-of-the-mystified-murderess.json) |
 | Sherlock Holmes Consulting Detective: The Case of the Tin Soldier | 35062 | [35062-sherlock-holmes-consulting-detective-the-case-of-the-tin-soldier.json](./35062-sherlock-holmes-consulting-detective-the-case-of-the-tin-soldier.json) |
 | Sherlock Holmes Consulting Detective: Volume III | 73685 | [73685-sherlock-holmes-consulting-detective-volume-iii.json](./73685-sherlock-holmes-consulting-detective-volume-iii.json) |
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
@@ -25036,6 +25037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
 | Spleen | 118140 | [118140-spleen.json](./118140-spleen.json) |
 | Spleen | 419990 | [419990-spleen.json](./419990-spleen.json) |
+| Splendor | 35058 | [35058-splendor.json](./35058-splendor.json) |
 | Splendor & Misery | 385439 | [385439-splendor-and-misery.json](./385439-splendor-and-misery.json) |
 | Splendor Blast | 40164 | [40164-splendor-blast.json](./40164-splendor-blast.json) |
 | Splendor Blast II | 267759 | [267759-splendor-blast-ii.json](./267759-splendor-blast-ii.json) |
@@ -25315,6 +25317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
 | Spooky Bodies | 343392 | [343392-spooky-bodies.json](./343392-spooky-bodies.json) |
+| Spooky Bonus | 34804 | [34804-spooky-bonus.json](./34804-spooky-bonus.json) |
 | Spooky Bricks | 192582 | [192582-spooky-bricks.json](./192582-spooky-bricks.json) |
 | Spooky Bundle: From Shadow & Apocalipsis | 267773 | [267773-spooky-bundle-from-shadow-and-apocalipsis.json](./267773-spooky-bundle-from-shadow-and-apocalipsis.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
