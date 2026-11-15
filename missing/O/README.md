@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean City Racing: Redux | 36294 | [36294-ocean-city-racing-redux.json](./36294-ocean-city-racing-redux.json) |
 | Ocean Classics Volume 1 | 109909 | [109909-ocean-classics-volume-1.json](./109909-ocean-classics-volume-1.json) |
 | Ocean Commander | 51016 | [51016-ocean-commander.json](./51016-ocean-commander.json) |
+| Ocean Conqueror | 54625 | [54625-ocean-conqueror.json](./54625-ocean-conqueror.json) |
 | Ocean Current Punk | 190845 | [190845-ocean-current-punk.json](./190845-ocean-current-punk.json) |
 | Ocean Depths | 359735 | [359735-ocean-depths.json](./359735-ocean-depths.json) |
 | Ocean Diver | 412703 | [412703-ocean-diver.json](./412703-ocean-diver.json) |
