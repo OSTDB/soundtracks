@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Kittens | 97064 | [97064-mahjong-kittens.json](./97064-mahjong-kittens.json) |
 | Mahjong Kuru Jidai: AV Gal Seifukuhen | 254452 | [254452-mahjong-kuru-jidai-av-gal-seifukuhen.json](./254452-mahjong-kuru-jidai-av-gal-seifukuhen.json) |
 | Mahjong Kyo Retsuden | 75450 | [75450-mahjong-kyo-retsuden.json](./75450-mahjong-kyo-retsuden.json) |
+| Mahjong Kyouretsuden | 47590 | [47590-mahjong-kyouretsuden.json](./47590-mahjong-kyouretsuden.json) |
 | Mahjong Kyoushitsu | 130623 | [130623-mahjong-kyoushitsu.json](./130623-mahjong-kyoushitsu.json) |
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Lonely Island: Majong Star Tower Deluxe | 232387 | [232387-mahjong-lonely-island-majong-star-tower-deluxe.json](./232387-mahjong-lonely-island-majong-star-tower-deluxe.json) |
@@ -5840,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Skills | 193862 | [193862-master-of-skills.json](./193862-master-of-skills.json) |
 | Master of Squad | 223382 | [223382-master-of-squad.json](./223382-master-of-squad.json) |
 | Master of Survival Bundle | 213333 | [213333-master-of-survival-bundle.json](./213333-master-of-survival-bundle.json) |
+| Master of Syougi | 47600 | [47600-master-of-syougi.json](./47600-master-of-syougi.json) |
 | Master of Syougi | 75451 | [75451-master-of-syougi.json](./75451-master-of-syougi.json) |
 | Master of Syougi Color | 75452 | [75452-master-of-syougi-color.json](./75452-master-of-syougi-color.json) |
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
@@ -14860,6 +14862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna to Daikoukai Frontier | 64628 | [64628-minna-to-daikoukai-frontier.json](./64628-minna-to-daikoukai-frontier.json) |
 | Minnade Counter Fight | 132332 | [132332-minnade-counter-fight.json](./132332-minnade-counter-fight.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
+| Minnasanno Okagesamadesu! Daisugorokutaikai | 47594 | [47594-minnasanno-okagesamadesu-daisugorokutaikai.json](./47594-minnasanno-okagesamadesu-daisugorokutaikai.json) |
 | Minnesota Fats: Pool Legend | 4465 | [4465-minnesota-fats-pool-legend.json](./4465-minnesota-fats-pool-legend.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
 | Minnie & Friends: Yume no Kuni wo Sagashite | 282232 | [282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json](./282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json) |
