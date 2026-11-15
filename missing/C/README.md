@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candivity: Space Edition | 336436 | [336436-candivity-space-edition.json](./336436-candivity-space-edition.json) |
 | Candivity: Under Water DLC | 346004 | [346004-candivity-under-water-dlc.json](./346004-candivity-under-water-dlc.json) |
 | Candle | 19289 | [19289-candle.json](./19289-candle.json) |
+| Candle | 422207 | [422207-candle.json](./422207-candle.json) |
 | Candle Fire Run! | 262319 | [262319-candle-fire-run.json](./262319-candle-fire-run.json) |
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
 | Candle In Darkness | 158551 | [158551-candle-in-darkness.json](./158551-candle-in-darkness.json) |
