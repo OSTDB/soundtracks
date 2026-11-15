@@ -7065,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eufloria 2 | 413631 | [413631-eufloria-2.json](./413631-eufloria-2.json) |
 | Eufloria Classic | 321480 | [321480-eufloria-classic.json](./321480-eufloria-classic.json) |
 | Eufloria HD | 15395 | [15395-eufloria-hd.json](./15395-eufloria-hd.json) |
+| Eufloria HD: Deluxe Edition | 54005 | [54005-eufloria-hd-deluxe-edition.json](./54005-eufloria-hd-deluxe-edition.json) |
 | Eugene's Dream: The Daily Ins And Outs Of A Sane Robot In An Insane World | 160069 | [160069-eugenes-dream-the-daily-ins-and-outs-of-a-sane-robot-in-an-insane-world.json](./160069-eugenes-dream-the-daily-ins-and-outs-of-a-sane-robot-in-an-insane-world.json) |
 | Eugenia's Pursuit: The Hidden Legacy | 291417 | [291417-eugenias-pursuit-the-hidden-legacy.json](./291417-eugenias-pursuit-the-hidden-legacy.json) |
 | Eugenics | 18426 | [18426-eugenics.json](./18426-eugenics.json) |
@@ -7172,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Wielton Trailer Pack | 256992 | [256992-euro-truck-simulator-2-wielton-trailer-pack.json](./256992-euro-truck-simulator-2-wielton-trailer-pack.json) |
 | Euro Truck Simulator 2: XF Tuning Pack | 224305 | [224305-euro-truck-simulator-2-xf-tuning-pack.json](./224305-euro-truck-simulator-2-xf-tuning-pack.json) |
 | Euro Truck Simulator 2022 | 197843 | [197843-euro-truck-simulator-2022.json](./197843-euro-truck-simulator-2022.json) |
+| Euro Truck Simulator: Gold Edition | 54006 | [54006-euro-truck-simulator-gold-edition.json](./54006-euro-truck-simulator-gold-edition.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
 | Eurobi Racing | 112940 | [112940-eurobi-racing.json](./112940-eurobi-racing.json) |
 | EuroCops | 62984 | [62984-eurocops.json](./62984-eurocops.json) |
@@ -7180,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EuroDrive: Greece | 413822 | [413822-eurodrive-greece.json](./413822-eurodrive-greece.json) |
 | Eurofighter Typhoon | 10281 | [10281-eurofighter-typhoon.json](./10281-eurofighter-typhoon.json) |
 | EuroGoal 2012 | 343818 | [343818-eurogoal-2012.json](./343818-eurogoal-2012.json) |
+| Euroleague Basketball Manager | 54007 | [54007-euroleague-basketball-manager.json](./54007-euroleague-basketball-manager.json) |
 | EuroLeague Football | 24130 | [24130-euroleague-football.json](./24130-euroleague-football.json) |
 | Europa | 130893 | [130893-europa.json](./130893-europa.json) |
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
@@ -7300,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Football Dynasty 2023 | 217084 | [217084-european-football-dynasty-2023.json](./217084-european-football-dynasty-2023.json) |
+| European Football Manager | 54008 | [54008-european-football-manager.json](./54008-european-football-manager.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Mystery: Flowers of Death - Collector's Edition | 89408 | [89408-european-mystery-flowers-of-death-collectors-edition.json](./89408-european-mystery-flowers-of-death-collectors-edition.json) |
 | European Mystery: Flowers of Death HD | 93827 | [93827-european-mystery-flowers-of-death-hd.json](./93827-european-mystery-flowers-of-death-hd.json) |
@@ -7901,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything is Mayo | 121326 | [121326-everything-is-mayo.json](./121326-everything-is-mayo.json) |
 | Everything is Peachy | 31646 | [31646-everything-is-peachy.json](./31646-everything-is-peachy.json) |
 | Everything Must Fall | 28132 | [28132-everything-must-fall.json](./28132-everything-must-fall.json) |
+| Everything Nice | 54009 | [54009-everything-nice.json](./54009-everything-nice.json) |
 | Everything Store | 391194 | [391194-everything-store.json](./391194-everything-store.json) |
 | Everything Will Be Fine! | 393969 | [393969-everything-will-be-fine.json](./393969-everything-will-be-fine.json) |
 | Everything Will Flow | 105708 | [105708-everything-will-flow.json](./105708-everything-will-flow.json) |
@@ -8236,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolvedustry | 135623 | [135623-evolvedustry.json](./135623-evolvedustry.json) |
 | Evolver | 192592 | [192592-evolver.json](./192592-evolver.json) |
 | Evolver | 356224 | [356224-evolver.json](./356224-evolver.json) |
+| Evoly | 54010 | [54010-evoly.json](./54010-evoly.json) |
 | EvoMon | 217083 | [217083-evomon.json](./217083-evomon.json) |
 | Evomon World | 418642 | [418642-evomon-world.json](./418642-evomon-world.json) |
 | Evons | 408718 | [408718-evons.json](./408718-evons.json) |
@@ -8749,6 +8755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcism:Nuo Rituals | 390564 | [390564-exorcism-nuo-rituals.json](./390564-exorcism-nuo-rituals.json) |
 | Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
+| Exorcist | 54011 | [54011-exorcist.json](./54011-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
 | Exorcist 3: Inception of Darkness | 201905 | [201905-exorcist-3-inception-of-darkness.json](./201905-exorcist-3-inception-of-darkness.json) |
 | Exorcist Candy | 410567 | [410567-exorcist-candy.json](./410567-exorcist-candy.json) |
@@ -8962,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore or Die | 271528 | [271528-explore-or-die.json](./271528-explore-or-die.json) |
 | Explore the Backrooms | 258811 | [258811-explore-the-backrooms.json](./258811-explore-the-backrooms.json) |
 | Explore the Grotto | 307580 | [307580-explore-the-grotto.json](./307580-explore-the-grotto.json) |
+| Explore the World | 54013 | [54013-explore-the-world.json](./54013-explore-the-world.json) |
 | Explore Titanic | 86853 | [86853-explore-titanic.json](./86853-explore-titanic.json) |
 | Explorer | 131269 | [131269-explorer.json](./131269-explorer.json) |
 | Explorer | 13653 | [13653-explorer.json](./13653-explorer.json) |
