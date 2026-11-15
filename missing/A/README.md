@@ -6560,6 +6560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirMech: Wastelands | 54816 | [54816-airmech-wastelands.json](./54816-airmech-wastelands.json) |
 | Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
 | Airoheart | 142513 | [142513-airoheart.json](./142513-airoheart.json) |
+| Airon Ball | 37433 | [37433-airon-ball.json](./37433-airon-ball.json) |
 | Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
 | AironBall: The Loop | 51589 | [51589-aironball-the-loop.json](./51589-aironball-the-loop.json) |
