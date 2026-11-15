@@ -6462,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Greece TD | 30984 | [30984-defense-of-greece-td.json](./30984-defense-of-greece-td.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
+| Defense of Roman Britain | 52898 | [52898-defense-of-roman-britain.json](./52898-defense-of-roman-britain.json) |
 | Defense of the Ancients | 2283 | [2283-defense-of-the-ancients.json](./2283-defense-of-the-ancients.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
 | Defense of the Dauntless | 298284 | [298284-defense-of-the-dauntless.json](./298284-defense-of-the-dauntless.json) |
@@ -6503,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defiance & Mr. Good Looking | 140856 | [140856-defiance-and-mr-good-looking.json](./140856-defiance-and-mr-good-looking.json) |
 | Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
 | Defiance: Collector's Edition | 43021 | [43021-defiance-collectors-edition.json](./43021-defiance-collectors-edition.json) |
+| Defiance: Gold Edition | 52897 | [52897-defiance-gold-edition.json](./52897-defiance-gold-edition.json) |
 | Defiant Ascent | 375439 | [375439-defiant-ascent.json](./375439-defiant-ascent.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
 | Deficis | 35070 | [35070-deficis.json](./35070-deficis.json) |
@@ -6825,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Simulator | 391247 | [391247-delivery-simulator.json](./391247-delivery-simulator.json) |
 | Delivery Survivors | 412913 | [412913-delivery-survivors.json](./412913-delivery-survivors.json) |
 | Delivery to Graveyard Manor | 377618 | [377618-delivery-to-graveyard-manor.json](./377618-delivery-to-graveyard-manor.json) |
+| Delivery Truck Simulator 2010 | 52896 | [52896-delivery-truck-simulator-2010.json](./52896-delivery-truck-simulator-2010.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | DeliveryGuy | 177793 | [177793-deliveryguy.json](./177793-deliveryguy.json) |
 | Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
@@ -7029,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demeter: The Asklepios Chronicles | 279398 | [279398-demeter-the-asklepios-chronicles.json](./279398-demeter-the-asklepios-chronicles.json) |
 | Demetria Spirit | 166843 | [166843-demetria-spirit.json](./166843-demetria-spirit.json) |
 | Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
+| Demetrios: The BIG Cynical Adventure - Deluxe Edition | 52895 | [52895-demetrios-the-big-cynical-adventure-deluxe-edition.json](./52895-demetrios-the-big-cynical-adventure-deluxe-edition.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
 | Demi | 137817 | [137817-demi.json](./137817-demi.json) |
@@ -10439,6 +10443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diluvian Ultra | 162254 | [162254-diluvian-ultra.json](./162254-diluvian-ultra.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Diluvian Winds | 165278 | [165278-diluvian-winds.json](./165278-diluvian-winds.json) |
+| Diluvion: Fleet Edition | 52905 | [52905-diluvion-fleet-edition.json](./52905-diluvion-fleet-edition.json) |
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
 | Dim | 329686 | [329686-dim.json](./329686-dim.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
@@ -10884,6 +10889,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
 | Dinosaur Hunt First Blood | 51975 | [51975-dinosaur-hunt-first-blood.json](./51975-dinosaur-hunt-first-blood.json) |
 | Dinosaur Hunt Puzzle | 103645 | [103645-dinosaur-hunt-puzzle.json](./103645-dinosaur-hunt-puzzle.json) |
+| Dinosaur Hunt: Gold Edition | 52904 | [52904-dinosaur-hunt-gold-edition.json](./52904-dinosaur-hunt-gold-edition.json) |
+| Dinosaur Hunt: Special Edition | 52903 | [52903-dinosaur-hunt-special-edition.json](./52903-dinosaur-hunt-special-edition.json) |
 | Dinosaur Hunt: Vampires, Gargoyles, Mutants Hunter Expansion Pack | 169320 | [169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json](./169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json) |
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
 | Dinosaur Hunter 2018 | 105858 | [105858-dinosaur-hunter-2018.json](./105858-dinosaur-hunter-2018.json) |
@@ -11341,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Rise of the Elves | 11404 | [11404-disciples-ii-rise-of-the-elves.json](./11404-disciples-ii-rise-of-the-elves.json) |
 | Disciples II: Rise of the Elves Gold | 224495 | [224495-disciples-ii-rise-of-the-elves-gold.json](./224495-disciples-ii-rise-of-the-elves-gold.json) |
 | Disciples II: Servants of the Dark | 11402 | [11402-disciples-ii-servants-of-the-dark.json](./11402-disciples-ii-servants-of-the-dark.json) |
+| Disciples III: Gold Edition | 52900 | [52900-disciples-iii-gold-edition.json](./52900-disciples-iii-gold-edition.json) |
 | Disciples III: Reincarnation | 9823 | [9823-disciples-iii-reincarnation.json](./9823-disciples-iii-reincarnation.json) |
 | Disciples III: Renaissance | 9824 | [9824-disciples-iii-renaissance.json](./9824-disciples-iii-renaissance.json) |
 | Disciples III: Resurrection | 16276 | [16276-disciples-iii-resurrection.json](./16276-disciples-iii-resurrection.json) |
@@ -11561,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored 2: Limited Edition | 255606 | [255606-dishonored-2-limited-edition.json](./255606-dishonored-2-limited-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
+| Dishonored: Complete Collection | 52899 | [52899-dishonored-complete-collection.json](./52899-dishonored-complete-collection.json) |
 | Dishonored: Death of the Outsider Deluxe Bundle | 83510 | [83510-dishonored-death-of-the-outsider-deluxe-bundle.json](./83510-dishonored-death-of-the-outsider-deluxe-bundle.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Dishonored: Definitive Edition | 41590 | [41590-dishonored-definitive-edition.json](./41590-dishonored-definitive-edition.json) |
