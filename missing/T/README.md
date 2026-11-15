@@ -7489,6 +7489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bonfire: Forsaken Lands | 84535 | [84535-the-bonfire-forsaken-lands.json](./84535-the-bonfire-forsaken-lands.json) |
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
 | The Bonte Room 2 | 316829 | [316829-the-bonte-room-2.json](./316829-the-bonte-room-2.json) |
+| The Boo Club | 421016 | [421016-the-boo-club.json](./421016-the-boo-club.json) |
 | The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
 | The Boo-chelor | 372668 | [372668-the-boo-chelor.json](./372668-the-boo-chelor.json) |
 | The Boogie Man | 46987 | [46987-the-boogie-man.json](./46987-the-boogie-man.json) |
@@ -9869,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empanada Protocol | 207359 | [207359-the-empanada-protocol.json](./207359-the-empanada-protocol.json) |
 | The Empathy Algorithm | 387999 | [387999-the-empathy-algorithm.json](./387999-the-empathy-algorithm.json) |
 | The Emperor and State | 278977 | [278977-the-emperor-and-state.json](./278977-the-emperor-and-state.json) |
+| The Emperor Penguin Incident | 421004 | [421004-the-emperor-penguin-incident.json](./421004-the-emperor-penguin-incident.json) |
 | The Emperor Penguin Keita | 243496 | [243496-the-emperor-penguin-keita.json](./243496-the-emperor-penguin-keita.json) |
 | The Emperor's Mad Dash | 346529 | [346529-the-emperors-mad-dash.json](./346529-the-emperors-mad-dash.json) |
 | The Emperor's Mahjong | 70922 | [70922-the-emperors-mahjong.json](./70922-the-emperors-mahjong.json) |
@@ -19380,6 +19382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
 | The Suicide of Rachel Foster | 121947 | [121947-the-suicide-of-rachel-foster.json](./121947-the-suicide-of-rachel-foster.json) |
 | The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
+| The Suitcase Agents | 420894 | [420894-the-suitcase-agents.json](./420894-the-suitcase-agents.json) |
 | The Suite Life of Zack & Cody: Circle of Spies | 47775 | [47775-the-suite-life-of-zack-and-cody-circle-of-spies.json](./47775-the-suite-life-of-zack-and-cody-circle-of-spies.json) |
 | The Suite Life of Zack & Cody: Maddie's Snack Encounter | 281326 | [281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json](./281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json) |
 | The Suite Life of Zack & Cody: Pizza Party Pickup! | 281323 | [281323-the-suite-life-of-zack-and-cody-pizza-party-pickup.json](./281323-the-suite-life-of-zack-and-cody-pizza-party-pickup.json) |
@@ -23563,6 +23566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up | 412006 | [412006-tidy-up.json](./412006-tidy-up.json) |
 | Tidy Up History | 412000 | [412000-tidy-up-history.json](./412000-tidy-up-history.json) |
 | Tidy up the Backrooms | 420916 | [420916-tidy-up-the-backrooms.json](./420916-tidy-up-the-backrooms.json) |
+| Tidy Up the Flower Shop | 420898 | [420898-tidy-up-the-flower-shop.json](./420898-tidy-up-the-flower-shop.json) |
 | Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
@@ -27306,6 +27310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby: The Brick Breaker | 416227 | [416227-toby-the-brick-breaker.json](./416227-toby-the-brick-breaker.json) |
 | Toby: The Secret Mine | 20342 | [20342-toby-the-secret-mine.json](./20342-toby-the-secret-mine.json) |
+| Toby's Carrot Patch | 421020 | [421020-tobys-carrot-patch.json](./421020-tobys-carrot-patch.json) |
 | Toby's Island | 54728 | [54728-tobys-island.json](./54728-tobys-island.json) |
 | Toby's Nose | 58704 | [58704-tobys-nose.json](./58704-tobys-nose.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
@@ -29430,6 +29435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
 | Totally Mayhem | 51601 | [51601-totally-mayhem.json](./51601-totally-mayhem.json) |
 | Totally Normal Boyfriend | 189864 | [189864-totally-normal-boyfriend.json](./189864-totally-normal-boyfriend.json) |
+| Totally Normal Cat Shelter | 421010 | [421010-totally-normal-cat-shelter.json](./421010-totally-normal-cat-shelter.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
 | Totally Normal Journey: The Interactive Musical | 157021 | [157021-totally-normal-journey-the-interactive-musical.json](./157021-totally-normal-journey-the-interactive-musical.json) |
 | Totally Not Sumo | 306043 | [306043-totally-not-sumo.json](./306043-totally-not-sumo.json) |
