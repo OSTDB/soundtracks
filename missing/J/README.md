@@ -4621,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Survive | 18093 | [18093-just-survive.json](./18093-just-survive.json) |
 | Just Survive | 279565 | [279565-just-survive.json](./279565-just-survive.json) |
 | Just Survive Test Server | 83885 | [83885-just-survive-test-server.json](./83885-just-survive-test-server.json) |
+| Just Tactics | 63454 | [63454-just-tactics.json](./63454-just-tactics.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
 | Just the Boss Fights | 337366 | [337366-just-the-boss-fights.json](./337366-just-the-boss-fights.json) |
