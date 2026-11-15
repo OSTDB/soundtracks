@@ -8954,6 +8954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Colony | 262875 | [262875-pixel-colony.json](./262875-pixel-colony.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
 | Pixel Coloring Paint | 283262 | [283262-pixel-coloring-paint.json](./283262-pixel-coloring-paint.json) |
+| Pixel Coloring World | 425124 | [425124-pixel-coloring-world.json](./425124-pixel-coloring-world.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
 | Pixel Combat: Zombie Shooter | 377270 | [377270-pixel-combat-zombie-shooter.json](./377270-pixel-combat-zombie-shooter.json) |
 | Pixel Cross Stitch Color by Number - Christmas Pack | 334573 | [334573-pixel-cross-stitch-color-by-number-christmas-pack.json](./334573-pixel-cross-stitch-color-by-number-christmas-pack.json) |
@@ -15994,6 +15995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride of Nations: The Scramble for Africa | 119949 | [119949-pride-of-nations-the-scramble-for-africa.json](./119949-pride-of-nations-the-scramble-for-africa.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Pride Run | 104131 | [104131-pride-run.json](./104131-pride-run.json) |
+| Prideblood: Born of Claws | 425127 | [425127-prideblood-born-of-claws.json](./425127-prideblood-born-of-claws.json) |
 | Priest | 99688 | [99688-priest.json](./99688-priest.json) |
 | Priest Simulator: Heavy Duty | 188962 | [188962-priest-simulator-heavy-duty.json](./188962-priest-simulator-heavy-duty.json) |
 | Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
