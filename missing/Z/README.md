@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zargon | 106302 | [106302-zargon.json](./106302-zargon.json) |
 | Zargs | 286184 | [286184-zargs.json](./286184-zargs.json) |
+| Zarhold | 423943 | [423943-zarhold.json](./423943-zarhold.json) |
 | Zaria | 386069 | [386069-zaria.json](./386069-zaria.json) |
 | Zarie: The Story of Sin | 266575 | [266575-zarie-the-story-of-sin.json](./266575-zarie-the-story-of-sin.json) |
 | Zarjas | 142525 | [142525-zarjas.json](./142525-zarjas.json) |
