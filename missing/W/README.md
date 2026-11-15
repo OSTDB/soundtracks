@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbears Mission 03: An Oceanic Problem | 237499 | [237499-warbears-mission-03-an-oceanic-problem.json](./237499-warbears-mission-03-an-oceanic-problem.json) |
 | Warbears: Bedtime City | 237498 | [237498-warbears-bedtime-city.json](./237498-warbears-bedtime-city.json) |
 | Warbirds | 121927 | [121927-warbirds.json](./121927-warbirds.json) |
+| WarBirds | 930 | [930-warbirds.json](./930-warbirds.json) |
 | WarBirds 2012 | 53143 | [53143-warbirds-2012.json](./53143-warbirds-2012.json) |
 | WarBirds Dawn of Aces, World War I Air Combat | 32386 | [32386-warbirds-dawn-of-aces-world-war-i-air-combat.json](./32386-warbirds-dawn-of-aces-world-war-i-air-combat.json) |
 | WarBirds Dogfights | 33757 | [33757-warbirds-dogfights.json](./33757-warbirds-dogfights.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords II | 50357 | [50357-warlords-ii.json](./50357-warlords-ii.json) |
 | Warlords II Deluxe | 50356 | [50356-warlords-ii-deluxe.json](./50356-warlords-ii-deluxe.json) |
 | Warlords II: Scenario Builder | 100044 | [100044-warlords-ii-scenario-builder.json](./100044-warlords-ii-scenario-builder.json) |
+| Warlords III: Darklords Rising | 931 | [931-warlords-iii-darklords-rising.json](./931-warlords-iii-darklords-rising.json) |
 | Warlords III: Frontier | 401822 | [401822-warlords-iii-frontier.json](./401822-warlords-iii-frontier.json) |
 | Warlords IV: Heroes of Etheria | 24182 | [24182-warlords-iv-heroes-of-etheria.json](./24182-warlords-iv-heroes-of-etheria.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
