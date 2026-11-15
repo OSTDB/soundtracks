@@ -6197,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links Expansion Pack | 85753 | [85753-links-expansion-pack.json](./85753-links-expansion-pack.json) |
 | Links Expansion Pack Volume 2 | 201921 | [201921-links-expansion-pack-volume-2.json](./201921-links-expansion-pack-volume-2.json) |
 | Links Extreme | 68777 | [68777-links-extreme.json](./68777-links-extreme.json) |
+| Links LS 1997 | 50105 | [50105-links-ls-1997.json](./50105-links-ls-1997.json) |
 | Links LS 1999 | 772 | [772-links-ls-1999.json](./772-links-ls-1999.json) |
 | Links LS 2000 | 47120 | [47120-links-ls-2000.json](./47120-links-ls-2000.json) |
 | Links LS 2000: 10 Course Pack | 131270 | [131270-links-ls-2000-10-course-pack.json](./131270-links-ls-2000-10-course-pack.json) |
@@ -8153,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lóng zhī Gǔ: Huáijiù Fú | 398574 | [398574-long-zhi-gu-huaijiu-fu.json](./398574-long-zhi-gu-huaijiu-fu.json) |
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
 | Longborn | 236745 | [236745-longborn.json](./236745-longborn.json) |
+| Longbow 2 | 50100 | [50100-longbow-2.json](./50100-longbow-2.json) |
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
 | LongCat | 123539 | [123539-longcat.json](./123539-longcat.json) |
 | Longcat Journey | 290314 | [290314-longcat-journey.json](./290314-longcat-journey.json) |
