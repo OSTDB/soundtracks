@@ -13494,6 +13494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Samual | 191972 | [191972-the-last-of-samual.json](./191972-the-last-of-samual.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
 | The Last of The Core | 241850 | [241850-the-last-of-the-core.json](./241850-the-last-of-the-core.json) |
+| The Last of the Disciples | 54623 | [54623-the-last-of-the-disciples.json](./54623-the-last-of-the-disciples.json) |
 | The Last of the Lords of Ice | 345188 | [345188-the-last-of-the-lords-of-ice.json](./345188-the-last-of-the-lords-of-ice.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
 | The Last of the Survivors | 333647 | [333647-the-last-of-the-survivors.json](./333647-the-last-of-the-survivors.json) |
@@ -36159,6 +36160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Vision | 249519 | [249519-tunnel-vision.json](./249519-tunnel-vision.json) |
 | Tunnel Vision | 271425 | [271425-tunnel-vision.json](./271425-tunnel-vision.json) |
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
+| Tunnel Vision | 54624 | [54624-tunnel-vision.json](./54624-tunnel-vision.json) |
 | Tunnel VR | 125699 | [125699-tunnel-vr.json](./125699-tunnel-vr.json) |
 | Tunnelborn | 419149 | [419149-tunnelborn.json](./419149-tunnelborn.json) |
 | Tunneler | 14439 | [14439-tunneler.json](./14439-tunneler.json) |
