@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felt That: Boxing | 347117 | [347117-felt-that-boxing.json](./347117-felt-that-boxing.json) |
 | Felt Tip Circus | 33906 | [33906-felt-tip-circus.json](./33906-felt-tip-circus.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
+| Felzi | 423350 | [423350-felzi.json](./423350-felzi.json) |
 | Female Knight Fllay: Tentacle Party | 97285 | [97285-female-knight-fllay-tentacle-party.json](./97285-female-knight-fllay-tentacle-party.json) |
 | Female Nation Takeover: josei Kokka Nottori Keikaku - Touzoku no Ore ga Ou ni naru | 260696 | [260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json](./260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json) |
 | Female Swordsman | 360573 | [360573-female-swordsman.json](./360573-female-swordsman.json) |
