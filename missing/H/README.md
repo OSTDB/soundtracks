@@ -7140,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Songs: The Remix! | 369057 | [369057-heroic-songs-the-remix.json](./369057-heroic-songs-the-remix.json) |
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
 | Heroic Tale | 180364 | [180364-heroic-tale.json](./180364-heroic-tale.json) |
+| Heroic Tale Value! | 425772 | [425772-heroic-tale-value.json](./425772-heroic-tale-value.json) |
 | Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
 | Heroic: Magic Duel | 120504 | [120504-heroic-magic-duel.json](./120504-heroic-magic-duel.json) |
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
