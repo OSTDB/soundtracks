@@ -4729,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
 | Battlefield 1914 | 188322 | [188322-battlefield-1914.json](./188322-battlefield-1914.json) |
 | Battlefield 1918 | 317836 | [317836-battlefield-1918.json](./317836-battlefield-1918.json) |
+| Battlefield 1942: Secret Weapons of WWII | 346 | [346-battlefield-1942-secret-weapons-of-wwii.json](./346-battlefield-1942-secret-weapons-of-wwii.json) |
 | Battlefield 1942: The Complete Collection | 284924 | [284924-battlefield-1942-the-complete-collection.json](./284924-battlefield-1942-the-complete-collection.json) |
 | Battlefield 1942: The Road to Rome | 345 | [345-battlefield-1942-the-road-to-rome.json](./345-battlefield-1942-the-road-to-rome.json) |
 | Battlefield 1942: World War II Anthology | 136467 | [136467-battlefield-1942-world-war-ii-anthology.json](./136467-battlefield-1942-world-war-ii-anthology.json) |
@@ -10956,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
 | Blaster Force | 409270 | [409270-blaster-force.json](./409270-blaster-force.json) |
 | Blaster Lilo | 113868 | [113868-blaster-lilo.json](./113868-blaster-lilo.json) |
+| Blaster Master | 2367 | [2367-blaster-master.json](./2367-blaster-master.json) |
 | Blaster Master 2 | 46238 | [46238-blaster-master-2.json](./46238-blaster-master-2.json) |
 | Blaster Master Boy | 7790 | [7790-blaster-master-boy.json](./7790-blaster-master-boy.json) |
 | Blaster Master SNES Port | 377231 | [377231-blaster-master-snes-port.json](./377231-blaster-master-snes-port.json) |
