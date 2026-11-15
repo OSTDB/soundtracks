@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Escape | 167457 | [167457-last-escape.json](./167457-last-escape.json) |
 | Last Escape: Dead Complex | 276553 | [276553-last-escape-dead-complex.json](./276553-last-escape-dead-complex.json) |
 | Last Escort 2: Shin'ya no Amai Ibara | 220570 | [220570-last-escort-2-shinya-no-amai-ibara.json](./220570-last-escort-2-shinya-no-amai-ibara.json) |
+| Last Escort: Club Katze | 56704 | [56704-last-escort-club-katze.json](./56704-last-escort-club-katze.json) |
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
 | Last Evil | 135638 | [135638-last-evil.json](./135638-last-evil.json) |
@@ -7688,6 +7689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Challenge | 81913 | [81913-log-challenge.json](./81913-log-challenge.json) |
 | Log Drive Runner | 32946 | [32946-log-drive-runner.json](./32946-log-drive-runner.json) |
 | Log Drop | 419064 | [419064-log-drop.json](./419064-log-drop.json) |
+| Log Jammers | 56695 | [56695-log-jammers.json](./56695-log-jammers.json) |
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Log Riders | 387547 | [387547-log-riders.json](./387547-log-riders.json) |
 | Log Run | 317429 | [317429-log-run.json](./317429-log-run.json) |
@@ -9799,6 +9801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love M01 | 338299 | [338299-love-m01.json](./338299-love-m01.json) |
 | Love Mansion | 346672 | [346672-love-mansion.json](./346672-love-mansion.json) |
 | Love Mart | 348226 | [348226-love-mart.json](./348226-love-mart.json) |
+| Love Match Tennis | 56712 | [56712-love-match-tennis.json](./56712-love-match-tennis.json) |
 | Love Me | 346741 | [346741-love-me.json](./346741-love-me.json) |
 | Love Me Forever | 128199 | [128199-love-me-forever.json](./128199-love-me-forever.json) |
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
