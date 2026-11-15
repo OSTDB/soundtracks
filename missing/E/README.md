@@ -4834,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter: The Grinch | 282622 | [282622-enter-the-grinch.json](./282622-enter-the-grinch.json) |
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
 | Enterchained | 184850 | [184850-enterchained.json](./184850-enterchained.json) |
+| Entered | 420301 | [420301-entered.json](./420301-entered.json) |
 | Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
 | Enterprise | 245485 | [245485-enterprise.json](./245485-enterprise.json) |
 | Enterprise | 252181 | [252181-enterprise.json](./252181-enterprise.json) |
@@ -8560,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
 | Exile: Wicked Phenomenon | 44315 | [44315-exile-wicked-phenomenon.json](./44315-exile-wicked-phenomenon.json) |
 | Exiled | 283090 | [283090-exiled.json](./283090-exiled.json) |
+| Exiled Ark | 420368 | [420368-exiled-ark.json](./420368-exiled-ark.json) |
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
 | Exiled Into Darkness | 291788 | [291788-exiled-into-darkness.json](./291788-exiled-into-darkness.json) |
 | Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
@@ -8569,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiles | 106063 | [106063-exiles.json](./106063-exiles.json) |
 | Exiles | 382136 | [382136-exiles.json](./382136-exiles.json) |
 | Exiles of Embermark | 95549 | [95549-exiles-of-embermark.json](./95549-exiles-of-embermark.json) |
+| Exiles of the Dark Dungeon | 420304 | [420304-exiles-of-the-dark-dungeon.json](./420304-exiles-of-the-dark-dungeon.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Exilium | 237135 | [237135-exilium.json](./237135-exilium.json) |
 | Exilium | 258318 | [258318-exilium.json](./258318-exilium.json) |
@@ -8963,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experiment | 265909 | [265909-experiment.json](./265909-experiment.json) |
 | Experiment | 357738 | [357738-experiment.json](./357738-experiment.json) |
 | Experiment 12 | 128826 | [128826-experiment-12.json](./128826-experiment-12.json) |
+| Experiment 15 | 420390 | [420390-experiment-15.json](./420390-experiment-15.json) |
 | Experiment 28 | 344789 | [344789-experiment-28.json](./344789-experiment-28.json) |
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
 | Experiment 427 | 305308 | [305308-experiment-427.json](./305308-experiment-427.json) |
