@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Dino Survival | 211558 | [211558-day-of-the-dino-survival.json](./211558-day-of-the-dino-survival.json) |
 | Day of the Fish | 320628 | [320628-day-of-the-fish.json](./320628-day-of-the-fish.json) |
 | Day of the Hamster | 304068 | [304068-day-of-the-hamster.json](./304068-day-of-the-hamster.json) |
+| Day of the Idea | 37981 | [37981-day-of-the-idea.json](./37981-day-of-the-idea.json) |
 | Day of the Infected | 112510 | [112510-day-of-the-infected.json](./112510-day-of-the-infected.json) |
 | Day of the Lords | 271056 | [271056-day-of-the-lords.json](./271056-day-of-the-lords.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
