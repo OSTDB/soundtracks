@@ -3618,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paul & Tita | 183733 | [183733-paul-and-tita.json](./183733-paul-and-tita.json) |
 | Paul Blart: Mall Cop - Mall Maze | 280707 | [280707-paul-blart-mall-cop-mall-maze.json](./280707-paul-blart-mall-cop-mall-maze.json) |
 | Paul Maximus Fuel Tycoon | 354716 | [354716-paul-maximus-fuel-tycoon.json](./354716-paul-maximus-fuel-tycoon.json) |
+| Paul McCartney's Give My Regards to Broad Street | 25994 | [25994-paul-mccartneys-give-my-regards-to-broad-street.json](./25994-paul-mccartneys-give-my-regards-to-broad-street.json) |
 | Paul Moose in Space World | 242700 | [242700-paul-moose-in-space-world.json](./242700-paul-moose-in-space-world.json) |
 | Paul Pixel - The Awakening | 25863 | [25863-paul-pixel-the-awakening.json](./25863-paul-pixel-the-awakening.json) |
 | Paul Quest Gold Edition | 325699 | [325699-paul-quest-gold-edition.json](./325699-paul-quest-gold-edition.json) |
@@ -5149,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perraw - FPS Clone War | 34309 | [34309-perraw-fps-clone-war.json](./34309-perraw-fps-clone-war.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
 | Perry Cooking American Hamburger | 365024 | [365024-perry-cooking-american-hamburger.json](./365024-perry-cooking-american-hamburger.json) |
+| Perry Mason: The Case of the Mandarin Murder | 26018 | [26018-perry-mason-the-case-of-the-mandarin-murder.json](./26018-perry-mason-the-case-of-the-mandarin-murder.json) |
 | Perry Pig Jump | 114458 | [114458-perry-pig-jump.json](./114458-perry-pig-jump.json) |
 | Perry Rhodan: Myth of the Illochim | 50389 | [50389-perry-rhodan-myth-of-the-illochim.json](./50389-perry-rhodan-myth-of-the-illochim.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
@@ -16962,6 +16964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis Tour | 259930 | [259930-pro-tennis-tour.json](./259930-pro-tennis-tour.json) |
 | Pro Tennis Tour 2 | 145881 | [145881-pro-tennis-tour-2.json](./145881-pro-tennis-tour-2.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
+| Pro Tennis WTA Tour | 26024 | [26024-pro-tennis-wta-tour.json](./26024-pro-tennis-wta-tour.json) |
 | Pro Tennis: World Court | 44320 | [44320-pro-tennis-world-court.json](./44320-pro-tennis-world-court.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Virtual Racing | 356510 | [356510-pro-virtual-racing.json](./356510-pro-virtual-racing.json) |
