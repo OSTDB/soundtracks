@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2 RTX | 262537 | [262537-half-life-2-rtx.json](./262537-half-life-2-rtx.json) |
 | Half-Life 2 Substance | 366609 | [366609-half-life-2-substance.json](./366609-half-life-2-substance.json) |
 | Half-Life 2: Aftermath | 314127 | [314127-half-life-2-aftermath.json](./314127-half-life-2-aftermath.json) |
+| Half-Life 2: All Good Things | 423842 | [423842-half-life-2-all-good-things.json](./423842-half-life-2-all-good-things.json) |
 | Half-Life 2: Alone Mod | 323932 | [323932-half-life-2-alone-mod.json](./323932-half-life-2-alone-mod.json) |
 | Half-Life 2: Calamity | 185975 | [185975-half-life-2-calamity.json](./185975-half-life-2-calamity.json) |
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
@@ -9922,6 +9923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
 | Hold the Door! | 32054 | [32054-hold-the-door.json](./32054-hold-the-door.json) |
 | Hold the Dots! | 153044 | [153044-hold-the-dots.json](./153044-hold-the-dots.json) |
+| Hold the Levee | 423840 | [423840-hold-the-levee.json](./423840-hold-the-levee.json) |
 | Hold the Line | 220377 | [220377-hold-the-line.json](./220377-hold-the-line.json) |
 | Hold The Line | 395363 | [395363-hold-the-line.json](./395363-hold-the-line.json) |
 | Hold The Line | 408209 | [408209-hold-the-line.json](./408209-hold-the-line.json) |
