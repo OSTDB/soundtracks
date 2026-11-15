@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am on Fire | 188421 | [188421-i-am-on-fire.json](./188421-i-am-on-fire.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
 | I Am Part-time Worker!! | 303549 | [303549-i-am-part-time-worker.json](./303549-i-am-part-time-worker.json) |
+| I Am Plague | 422000 | [422000-i-am-plague.json](./422000-i-am-plague.json) |
 | I am Playr | 63173 | [63173-i-am-playr.json](./63173-i-am-playr.json) |
 | I am queer, am I legit ? | 179940 | [179940-i-am-queer-am-i-legit.json](./179940-i-am-queer-am-i-legit.json) |
 | I am Rabbit | 256727 | [256727-i-am-rabbit.json](./256727-i-am-rabbit.json) |
@@ -4820,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
 | Inkling Cats: Beneath the dreams | 323635 | [323635-inkling-cats-beneath-the-dreams.json](./323635-inkling-cats-beneath-the-dreams.json) |
 | Inklings | 32800 | [32800-inklings.json](./32800-inklings.json) |
+| Inkmotes | 421990 | [421990-inkmotes.json](./421990-inkmotes.json) |
 | Inko Beasts | 334974 | [334974-inko-beasts.json](./334974-inko-beasts.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkognito for iPad | 175081 | [175081-inkognito-for-ipad.json](./175081-inkognito-for-ipad.json) |
