@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Armageddon | 136557 | [136557-magic-the-gathering-armageddon.json](./136557-magic-the-gathering-armageddon.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers | 81444 | [81444-magic-the-gathering-duels-of-the-planeswalkers.json](./81444-magic-the-gathering-duels-of-the-planeswalkers.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2012 | 16173 | [16173-magic-the-gathering-duels-of-the-planeswalkers-2012.json](./16173-magic-the-gathering-duels-of-the-planeswalkers-2012.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 1 | 362462 | [362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json](./362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 2 | 362463 | [362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json](./362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 3 | 362464 | [362464-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-3.json](./362464-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-3.json) |
@@ -7773,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Allied Assault - War Chest | 51836 | [51836-medal-of-honor-allied-assault-war-chest.json](./51836-medal-of-honor-allied-assault-war-chest.json) |
 | Medal of Honor: Complete Collection | 120544 | [120544-medal-of-honor-complete-collection.json](./120544-medal-of-honor-complete-collection.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
+| Medal of Honor: Heroes 2 | 1315 | [1315-medal-of-honor-heroes-2.json](./1315-medal-of-honor-heroes-2.json) |
 | Medal of Honor: Infiltrator | 1317 | [1317-medal-of-honor-infiltrator.json](./1317-medal-of-honor-infiltrator.json) |
 | Medal of Honor: Limited Edition | 42995 | [42995-medal-of-honor-limited-edition.json](./42995-medal-of-honor-limited-edition.json) |
 | Medal of Honor: Pacific Assault - Director's Edition | 131852 | [131852-medal-of-honor-pacific-assault-directors-edition.json](./131852-medal-of-honor-pacific-assault-directors-edition.json) |
@@ -9701,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltopia | 351357 | [351357-meltopia.json](./351357-meltopia.json) |
 | Meltwater | 130717 | [130717-meltwater.json](./130717-meltwater.json) |
 | Melty Amethyst | 307869 | [307869-melty-amethyst.json](./307869-melty-amethyst.json) |
+| Melty Blood | 72858 | [72858-melty-blood.json](./72858-melty-blood.json) |
 | Melty Blood Actress Again | 22984 | [22984-melty-blood-actress-again.json](./22984-melty-blood-actress-again.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
 | Melty Blood Re-Act | 145125 | [145125-melty-blood-re-act.json](./145125-melty-blood-re-act.json) |
@@ -17736,6 +17739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter | 69721 | [69721-monster-hunter.json](./69721-monster-hunter.json) |
 | Monster Hunter 2 | 43668 | [43668-monster-hunter-2.json](./43668-monster-hunter-2.json) |
 | Monster Hunter 3 Ultimate | 2271 | [2271-monster-hunter-3-ultimate.json](./2271-monster-hunter-3-ultimate.json) |
+| Monster Hunter 4 | 65676 | [65676-monster-hunter-4.json](./65676-monster-hunter-4.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Diary: Poka Poka Airu Village G | 65178 | [65178-monster-hunter-diary-poka-poka-airu-village-g.json](./65178-monster-hunter-diary-poka-poka-airu-village-g.json) |
 | Monster Hunter Diary: Poka Poka Palico Village DX | 84600 | [84600-monster-hunter-diary-poka-poka-palico-village-dx.json](./84600-monster-hunter-diary-poka-poka-palico-village-dx.json) |
@@ -17923,6 +17927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
 | Monster Lover: Balasque | 247708 | [247708-monster-lover-balasque.json](./247708-monster-lover-balasque.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
+| Monster Loves You! | 15414 | [15414-monster-loves-you.json](./15414-monster-loves-you.json) |
 | Monster Luv Radio | 302217 | [302217-monster-luv-radio.json](./302217-monster-luv-radio.json) |
 | Monster Madness Online | 62533 | [62533-monster-madness-online.json](./62533-monster-madness-online.json) |
 | Monster Madness: Battle for Suburbia | 7076 | [7076-monster-madness-battle-for-suburbia.json](./7076-monster-madness-battle-for-suburbia.json) |
