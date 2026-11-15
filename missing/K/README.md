@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikaze | 328057 | [328057-kamikaze.json](./328057-kamikaze.json) |
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze cabbie | 39813 | [39813-kamikaze-cabbie.json](./39813-kamikaze-cabbie.json) |
+| Kamikaze Cube | 56661 | [56661-kamikaze-cube.json](./56661-kamikaze-cube.json) |
 | Kamikaze Cube 2 | 106160 | [106160-kamikaze-cube-2.json](./106160-kamikaze-cube-2.json) |
 | Kamikaze Empire | 411652 | [411652-kamikaze-empire.json](./411652-kamikaze-empire.json) |
 | Kamikaze Kommittee Ouka 2 | 153536 | [153536-kamikaze-kommittee-ouka-2.json](./153536-kamikaze-kommittee-ouka-2.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kigurumi Kombat | 74757 | [74757-kigurumi-kombat.json](./74757-kigurumi-kombat.json) |
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
 | Kiiroi Hana | 158615 | [158615-kiiroi-hana.json](./158615-kiiroi-hana.json) |
+| Kiite Oboeru Eitango: Alc No Kikutan Advanced | 56711 | [56711-kiite-oboeru-eitango-alc-no-kikutan-advanced.json](./56711-kiite-oboeru-eitango-alc-no-kikutan-advanced.json) |
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kijin-mura no Kiken na Inshuu: Dangerous Village Tradition | 270782 | [270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json](./270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json) |
 | Kijutsu Rider | 331639 | [331639-kijutsu-rider.json](./331639-kijutsu-rider.json) |
@@ -3847,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Corrupts | 149380 | [149380-kingdom-of-corrupts.json](./149380-kingdom-of-corrupts.json) |
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
 | Kingdom of Doom | 279276 | [279276-kingdom-of-doom.json](./279276-kingdom-of-doom.json) |
+| Kingdom of Drakkar | 56709 | [56709-kingdom-of-drakkar.json](./56709-kingdom-of-drakkar.json) |
 | Kingdom of Drift | 208498 | [208498-kingdom-of-drift.json](./208498-kingdom-of-drift.json) |
 | Kingdom of Explorers | 240971 | [240971-kingdom-of-explorers.json](./240971-kingdom-of-explorers.json) |
 | Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
@@ -6863,6 +6866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuon | 10909 | [10909-kuon.json](./10909-kuon.json) |
 | Kuon no Kanata | 299080 | [299080-kuon-no-kanata.json](./299080-kuon-no-kanata.json) |
 | Kuon no Kizuna | 85811 | [85811-kuon-no-kizuna.json](./85811-kuon-no-kizuna.json) |
+| Kuon No Kizuna: Sairin Mikotonori | 56715 | [56715-kuon-no-kizuna-sairin-mikotonori.json](./56715-kuon-no-kizuna-sairin-mikotonori.json) |
 | Kuon no Kizuna: Sairinshou | 64659 | [64659-kuon-no-kizuna-sairinshou.json](./64659-kuon-no-kizuna-sairinshou.json) |
 | Kupala | 392713 | [392713-kupala.json](./392713-kupala.json) |
 | Kupala Night | 298505 | [298505-kupala-night.json](./298505-kupala-night.json) |
