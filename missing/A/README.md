@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Letter to Luna | 297417 | [297417-a-letter-to-luna.json](./297417-a-letter-to-luna.json) |
 | A Letter to You! | 157438 | [157438-a-letter-to-you.json](./157438-a-letter-to-you.json) |
 | A Life in Music | 314381 | [314381-a-life-in-music.json](./314381-a-life-in-music.json) |
+| A Life M36 Planet | 41646 | [41646-a-life-m36-planet.json](./41646-a-life-m36-planet.json) |
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
 | A Light In Chorus | 20876 | [20876-a-light-in-chorus.json](./20876-a-light-in-chorus.json) |
 | A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
@@ -3622,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addams Family Pinball | 356275 | [356275-addams-family-pinball.json](./356275-addams-family-pinball.json) |
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | AddicDead | 372625 | [372625-addicdead.json](./372625-addicdead.json) |
+| Addicta Ball | 41647 | [41647-addicta-ball.json](./41647-addicta-ball.json) |
 | Addictaball | 14152 | [14152-addictaball.json](./14152-addictaball.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addiction Solitaire | 370437 | [370437-addiction-solitaire.json](./370437-addiction-solitaire.json) |
@@ -7149,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albacete Warrior | 152237 | [152237-albacete-warrior.json](./152237-albacete-warrior.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatross | 86147 | [86147-albatross.json](./86147-albatross.json) |
+| Albatross II: Masters' History | 41664 | [41664-albatross-ii-masters-history.json](./41664-albatross-ii-masters-history.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatross: Tournament Golf | 41665 | [41665-albatross-tournament-golf.json](./41665-albatross-tournament-golf.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
@@ -7393,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleryos | 411412 | [411412-aleryos.json](./411412-aleryos.json) |
 | Ales Dash | 102935 | [102935-ales-dash.json](./102935-ales-dash.json) |
 | Alessia's Dollhouse | 308044 | [308044-alessias-dollhouse.json](./308044-alessias-dollhouse.json) |
+| Aleste 2 | 41652 | [41652-aleste-2.json](./41652-aleste-2.json) |
 | Aleste Branch | 120663 | [120663-aleste-branch.json](./120663-aleste-branch.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aleste Collection: Game Gear Micro Limited Edition | 167017 | [167017-aleste-collection-game-gear-micro-limited-edition.json](./167017-aleste-collection-game-gear-micro-limited-edition.json) |
@@ -18917,6 +18921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atheris | 389167 | [389167-atheris.json](./389167-atheris.json) |
 | Athletic Ball | 41797 | [41797-athletic-ball.json](./41797-athletic-ball.json) |
 | Athletic Director Simulator 4000 | 381779 | [381779-athletic-director-simulator-4000.json](./381779-athletic-director-simulator-4000.json) |
+| Athletic Land | 41662 | [41662-athletic-land.json](./41662-athletic-land.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
 | Athletics 2: Summer Sports | 87339 | [87339-athletics-2-summer-sports.json](./87339-athletics-2-summer-sports.json) |
