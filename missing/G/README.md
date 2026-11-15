@@ -10658,6 +10658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire of Syvnta | 264745 | [264745-grimoire-of-syvnta.json](./264745-grimoire-of-syvnta.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
+| Grimoire: Manastorm | 9904 | [9904-grimoire-manastorm.json](./9904-grimoire-manastorm.json) |
 | Grimoire: Manastorm - Earth Class | 170331 | [170331-grimoire-manastorm-earth-class.json](./170331-grimoire-manastorm-earth-class.json) |
 | Grimoire: Manastorm - Fire Class | 170329 | [170329-grimoire-manastorm-fire-class.json](./170329-grimoire-manastorm-fire-class.json) |
 | Grimoire: Manastorm - Ice Class | 155257 | [155257-grimoire-manastorm-ice-class.json](./155257-grimoire-manastorm-ice-class.json) |
