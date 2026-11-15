@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
 | Zombie Attack! | 343582 | [343582-zombie-attack.json](./343582-zombie-attack.json) |
 | Zombie Avenger | 233461 | [233461-zombie-avenger.json](./233461-zombie-avenger.json) |
+| Zombie Avengers-Stickman War Z | 39274 | [39274-zombie-avengers-stickman-war-z.json](./39274-zombie-avengers-stickman-war-z.json) |
 | Zombie Balloon Heads | 234132 | [234132-zombie-balloon-heads.json](./234132-zombie-balloon-heads.json) |
 | Zombie Balloon Heads 2 | 234141 | [234141-zombie-balloon-heads-2.json](./234141-zombie-balloon-heads-2.json) |
 | Zombie Balloon Heads 3 | 234143 | [234143-zombie-balloon-heads-3.json](./234143-zombie-balloon-heads-3.json) |
