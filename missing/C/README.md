@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpathian Night Starring Bela Lugosi | 330234 | [330234-carpathian-night-starring-bela-lugosi.json](./330234-carpathian-night-starring-bela-lugosi.json) |
 | Carpathian Skies | 310706 | [310706-carpathian-skies.json](./310706-carpathian-skies.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
+| Carpe Deal 'Em | 31293 | [31293-carpe-deal-em.json](./31293-carpe-deal-em.json) |
 | Carpe Diem | 33949 | [33949-carpe-diem.json](./33949-carpe-diem.json) |
 | Carpe Diem Project | 226297 | [226297-carpe-diem-project.json](./226297-carpe-diem-project.json) |
 | Carpe Diem: Reboot | 58360 | [58360-carpe-diem-reboot.json](./58360-carpe-diem-reboot.json) |
@@ -6196,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
 | Cerberus: Orbital watch | 126392 | [126392-cerberus-orbital-watch.json](./126392-cerberus-orbital-watch.json) |
 | Cerbirds | 180448 | [180448-cerbirds.json](./180448-cerbirds.json) |
+| Cerdocornio | 31306 | [31306-cerdocornio.json](./31306-cerdocornio.json) |
 | Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
 | Cereal Friend | 420169 | [420169-cereal-friend.json](./420169-cereal-friend.json) |
 | Cereal Killer | 326634 | [326634-cereal-killer.json](./326634-cereal-killer.json) |
@@ -7668,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Kids | 72303 | [72303-chess-kids.json](./72303-chess-kids.json) |
 | Chess Kingdom | 165895 | [165895-chess-kingdom.json](./165895-chess-kingdom.json) |
 | Chess Knight | 90847 | [90847-chess-knight.json](./90847-chess-knight.json) |
+| Chess Knight 2 | 31313 | [31313-chess-knight-2.json](./31313-chess-knight-2.json) |
 | Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
 | Chess Knights: High Noon | 149168 | [149168-chess-knights-high-noon.json](./149168-chess-knights-high-noon.json) |
 | Chess Knights: Shinobi | 148133 | [148133-chess-knights-shinobi.json](./148133-chess-knights-shinobi.json) |
@@ -13183,6 +13186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cole's Christmas 2024: GoonQuest | 327419 | [327419-coles-christmas-2024-goonquest.json](./327419-coles-christmas-2024-goonquest.json) |
 | Colecionador Show do Milhão | 222352 | [222352-colecionador-show-do-milhao.json](./222352-colecionador-show-do-milhao.json) |
 | ColecoVision Flashback | 245651 | [245651-colecovision-flashback.json](./245651-colecovision-flashback.json) |
+| ColecoVision Flashback | 31247 | [31247-colecovision-flashback.json](./31247-colecovision-flashback.json) |
 | Colette's Fall Festival | 384481 | [384481-colettes-fall-festival.json](./384481-colettes-fall-festival.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colibricks | 99681 | [99681-colibricks.json](./99681-colibricks.json) |
@@ -15538,6 +15542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
 | Constraint Zone | 360217 | [360217-constraint-zone.json](./360217-constraint-zone.json) |
 | Constricted VR | 29531 | [29531-constricted-vr.json](./29531-constricted-vr.json) |
+| Constricting Cubes | 31128 | [31128-constricting-cubes.json](./31128-constricting-cubes.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Constrictor | 78383 | [78383-constrictor.json](./78383-constrictor.json) |
 | Construct | 129059 | [129059-construct.json](./129059-construct.json) |
@@ -18995,6 +19000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Rocket | 362001 | [362001-crazy-rocket.json](./362001-crazy-rocket.json) |
 | Crazy Saloon VR | 30560 | [30560-crazy-saloon-vr.json](./30560-crazy-saloon-vr.json) |
 | Crazy Santa | 368978 | [368978-crazy-santa.json](./368978-crazy-santa.json) |
+| Crazy Sapper 3D | 31279 | [31279-crazy-sapper-3d.json](./31279-crazy-sapper-3d.json) |
 | Crazy Sapper 3D: Classic Mode | 170963 | [170963-crazy-sapper-3d-classic-mode.json](./170963-crazy-sapper-3d-classic-mode.json) |
 | Crazy School Games | 356386 | [356386-crazy-school-games.json](./356386-crazy-school-games.json) |
 | Crazy School Simulator | 114228 | [114228-crazy-school-simulator.json](./114228-crazy-school-simulator.json) |
@@ -21755,6 +21761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
 | Cubot: The Complexity of Simplicity | 9812 | [9812-cubot-the-complexity-of-simplicity.json](./9812-cubot-the-complexity-of-simplicity.json) |
 | Cuboton | 187589 | [187589-cuboton.json](./187589-cuboton.json) |
+| Cubotrox | 31312 | [31312-cubotrox.json](./31312-cubotrox.json) |
 | Cubots: The Origins | 94138 | [94138-cubots-the-origins.json](./94138-cubots-the-origins.json) |
 | Cubounce | 402697 | [402697-cubounce.json](./402697-cubounce.json) |
 | Cubox: Awakening of Gods | 168156 | [168156-cubox-awakening-of-gods.json](./168156-cubox-awakening-of-gods.json) |
