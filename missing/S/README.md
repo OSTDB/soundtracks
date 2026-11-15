@@ -7983,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shady Contractor | 420057 | [420057-shady-contractor.json](./420057-shady-contractor.json) |
 | Shady Job | 410622 | [410622-shady-job.json](./410622-shady-job.json) |
+| Shady Knight | 125289 | [125289-shady-knight.json](./125289-shady-knight.json) |
 | Shady Lewd Kart | 201954 | [201954-shady-lewd-kart.json](./201954-shady-lewd-kart.json) |
 | Shady Lewd Kart: Wild Woody Character Pack | 295113 | [295113-shady-lewd-kart-wild-woody-character-pack.json](./295113-shady-lewd-kart-wild-woody-character-pack.json) |
 | Shady Mission | 53602 | [53602-shady-mission.json](./53602-shady-mission.json) |
@@ -27308,6 +27309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
 | Star Storm | 125790 | [125790-star-storm.json](./125790-star-storm.json) |
 | Star Story: The Horizon Escape | 27005 | [27005-star-story-the-horizon-escape.json](./27005-star-story-the-horizon-escape.json) |
+| Star Strike | 5705 | [5705-star-strike.json](./5705-star-strike.json) |
 | Star Strike | 85878 | [85878-star-strike.json](./85878-star-strike.json) |
 | Star Striker | 13762 | [13762-star-striker.json](./13762-star-striker.json) |
 | Star Striker | 384151 | [384151-star-striker.json](./384151-star-striker.json) |
@@ -36837,6 +36839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sami Roll 2 | 290751 | [290751-super-sami-roll-2.json](./290751-super-sami-roll-2.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
 | Super Samurai Rampage | 54500 | [54500-super-samurai-rampage.json](./54500-super-samurai-rampage.json) |
+| Super Sanctum TD | 5598 | [5598-super-sanctum-td.json](./5598-super-sanctum-td.json) |
 | Super Sangokushi | 42226 | [42226-super-sangokushi.json](./42226-super-sangokushi.json) |
 | Super Sans Race Running | 221710 | [221710-super-sans-race-running.json](./221710-super-sans-race-running.json) |
 | Super Santa Kicker | 407511 | [407511-super-santa-kicker.json](./407511-super-santa-kicker.json) |
