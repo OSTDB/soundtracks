@@ -4834,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers: Precision Expert Pack | 167660 | [167660-helldivers-precision-expert-pack.json](./167660-helldivers-precision-expert-pack.json) |
 | Helldivers: Ranger Pack | 167662 | [167662-helldivers-ranger-pack.json](./167662-helldivers-ranger-pack.json) |
 | Helldivers: Specialist Pack | 167659 | [167659-helldivers-specialist-pack.json](./167659-helldivers-specialist-pack.json) |
+| Helldivers: Super Earth Ultimate Edition | 42926 | [42926-helldivers-super-earth-ultimate-edition.json](./42926-helldivers-super-earth-ultimate-edition.json) |
 | Helldivers: Support Pack | 267988 | [267988-helldivers-support-pack.json](./267988-helldivers-support-pack.json) |
 | Helldivers: Terrain Specialist Pack | 167656 | [167656-helldivers-terrain-specialist-pack.json](./167656-helldivers-terrain-specialist-pack.json) |
 | Helldivers: Turning Up the Heat | 267989 | [267989-helldivers-turning-up-the-heat.json](./267989-helldivers-turning-up-the-heat.json) |
@@ -9503,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Sniper | 19488 | [19488-hitman-sniper.json](./19488-hitman-sniper.json) |
 | Hitman: Sniper Assassin | 99073 | [99073-hitman-sniper-assassin.json](./99073-hitman-sniper-assassin.json) |
 | Hitman: Sniper Challenge | 5567 | [5567-hitman-sniper-challenge.json](./5567-hitman-sniper-challenge.json) |
+| Hitman: The Complete First Season - Steelbook Edition | 42915 | [42915-hitman-the-complete-first-season-steelbook-edition.json](./42915-hitman-the-complete-first-season-steelbook-edition.json) |
 | Hitmasters | 220177 | [220177-hitmasters.json](./220177-hitmasters.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme | 401201 | [401201-hitme.json](./401201-hitme.json) |
@@ -11289,6 +11291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Walker | 330256 | [330256-horizon-walker.json](./330256-horizon-walker.json) |
 | Horizon Worlds | 144650 | [144650-horizon-worlds.json](./144650-horizon-worlds.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
+| Horizon Zero Dawn: Collector's Edition | 42920 | [42920-horizon-zero-dawn-collectors-edition.json](./42920-horizon-zero-dawn-collectors-edition.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
 | Horizon Zero Dawn: Limited Edition | 136150 | [136150-horizon-zero-dawn-limited-edition.json](./136150-horizon-zero-dawn-limited-edition.json) |
 | Horizon Zero Dawn: The Frozen Wilds | 37083 | [37083-horizon-zero-dawn-the-frozen-wilds.json](./37083-horizon-zero-dawn-the-frozen-wilds.json) |
