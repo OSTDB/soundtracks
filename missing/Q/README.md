@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for Runia | 160106 | [160106-quest-for-runia.json](./160106-quest-for-runia.json) |
 | Quest for Saddam | 209746 | [209746-quest-for-saddam.json](./209746-quest-for-saddam.json) |
 | Quest for Sarah | 242838 | [242838-quest-for-sarah.json](./242838-quest-for-sarah.json) |
+| Quest for Sleeping Beauty | 43568 | [43568-quest-for-sleeping-beauty.json](./43568-quest-for-sleeping-beauty.json) |
 | Quest for Tanda | 229905 | [229905-quest-for-tanda.json](./229905-quest-for-tanda.json) |
 | Quest for the Book of Truth | 181207 | [181207-quest-for-the-book-of-truth.json](./181207-quest-for-the-book-of-truth.json) |
 | Quest for the Code | 185633 | [185633-quest-for-the-code.json](./185633-quest-for-the-code.json) |
