@@ -2625,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as the Island Princess | 258862 | [258862-barbie-as-the-island-princess.json](./258862-barbie-as-the-island-princess.json) |
 | Barbie as the Island Princess | 3309 | [3309-barbie-as-the-island-princess.json](./3309-barbie-as-the-island-princess.json) |
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
+| Barbie Beach Vacation | 71080 | [71080-barbie-beach-vacation.json](./71080-barbie-beach-vacation.json) |
 | Barbie Beauty Boutique | 72386 | [72386-barbie-beauty-boutique.json](./72386-barbie-beauty-boutique.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
 | Barbie Color Creations | 261705 | [261705-barbie-color-creations.json](./261705-barbie-color-creations.json) |
@@ -3041,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Blaster | 11866 | [11866-barnyard-blaster.json](./11866-barnyard-blaster.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
+| Barnyard Invasion | 71107 | [71107-barnyard-invasion.json](./71107-barnyard-invasion.json) |
 | Barnyard Mahjong | 90736 | [90736-barnyard-mahjong.json](./90736-barnyard-mahjong.json) |
 | Barnyard Mahjong 3 | 32156 | [32156-barnyard-mahjong-3.json](./32156-barnyard-mahjong-3.json) |
 | Barnyard Puzzles For Kids | 90754 | [90754-barnyard-puzzles-for-kids.json](./90754-barnyard-puzzles-for-kids.json) |
@@ -3075,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baroque Shooting: Reversed | 378350 | [378350-baroque-shooting-reversed.json](./378350-baroque-shooting-reversed.json) |
 | Baroque Syndrome | 73872 | [73872-baroque-syndrome.json](./73872-baroque-syndrome.json) |
 | Baroque the Tower | 410810 | [410810-baroque-the-tower.json](./410810-baroque-the-tower.json) |
+| Baroque Typing | 71098 | [71098-baroque-typing.json](./71098-baroque-typing.json) |
 | Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
 | Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
 | Baroque: Become a Meta-Being Revive | 378351 | [378351-baroque-become-a-meta-being-revive.json](./378351-baroque-become-a-meta-being-revive.json) |
@@ -3175,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart Simpson's Escape from Camp Deadly | 2829 | [2829-bart-simpsons-escape-from-camp-deadly.json](./2829-bart-simpsons-escape-from-camp-deadly.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
+| Bartender DS | 70539 | [70539-bartender-ds.json](./70539-bartender-ds.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
 | Bartender Life Simulator | 390052 | [390052-bartender-life-simulator.json](./390052-bartender-life-simulator.json) |
 | Bartender Simulator | 217058 | [217058-bartender-simulator.json](./217058-bartender-simulator.json) |
@@ -4851,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
 | Battler Brawlers | 95622 | [95622-battler-brawlers.json](./95622-battler-brawlers.json) |
 | Battlerace | 201591 | [201591-battlerace.json](./201591-battlerace.json) |
+| Battlerace | 72220 | [72220-battlerace.json](./72220-battlerace.json) |
 | Battlerace Support Package | 323242 | [323242-battlerace-support-package.json](./323242-battlerace-support-package.json) |
 | BattleReign | 234546 | [234546-battlereign.json](./234546-battlereign.json) |
 | BattleRise: Kingdom of Champions | 108098 | [108098-battlerise-kingdom-of-champions.json](./108098-battlerise-kingdom-of-champions.json) |
@@ -9875,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Border II | 374564 | [374564-black-border-ii.json](./374564-black-border-ii.json) |
 | Black Border Patrol Simulator | 139646 | [139646-black-border-patrol-simulator.json](./139646-black-border-patrol-simulator.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
+| Black Box | 71063 | [71063-black-box.json](./71063-black-box.json) |
 | Black Box Challenge | 108811 | [108811-black-box-challenge.json](./108811-black-box-challenge.json) |
 | Black Box Chess | 116897 | [116897-black-box-chess.json](./116897-black-box-chess.json) |
 | Black Box Jumper | 184301 | [184301-black-box-jumper.json](./184301-black-box-jumper.json) |
@@ -11917,6 +11923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
 | Blockstorm | 20920 | [20920-blockstorm.json](./20920-blockstorm.json) |
 | Blockstory | 137030 | [137030-blockstory.json](./137030-blockstory.json) |
+| Blocksum | 71095 | [71095-blocksum.json](./71095-blocksum.json) |
 | Blocksworld | 306940 | [306940-blocksworld.json](./306940-blocksworld.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
 | Blocksy | 292059 | [292059-blocksy.json](./292059-blocksy.json) |
