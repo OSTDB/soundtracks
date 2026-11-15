@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
 | Famicom Detective Club: The Girl Who Stands Behind | 122245 | [122245-famicom-detective-club-the-girl-who-stands-behind.json](./122245-famicom-detective-club-the-girl-who-stands-behind.json) |
 | Famicom Detective Club: The Missing Heir | 122244 | [122244-famicom-detective-club-the-missing-heir.json](./122244-famicom-detective-club-the-missing-heir.json) |
+| Famicom Detective Club: The Two-Case Collection | 143741 | [143741-famicom-detective-club-the-two-case-collection.json](./143741-famicom-detective-club-the-two-case-collection.json) |
 | Famicom Doubutsu Seitai Zukan! Katte ni Shirokuma: Mori wo Sukue no Maki! | 48501 | [48501-famicom-doubutsu-seitai-zukan-katte-ni-shirokuma-mori-wo-sukue-no-maki.json](./48501-famicom-doubutsu-seitai-zukan-katte-ni-shirokuma-mori-wo-sukue-no-maki.json) |
 | Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
 | Famicom Grand Prix II: 3D Hot Rally | 41256 | [41256-famicom-grand-prix-ii-3d-hot-rally.json](./41256-famicom-grand-prix-ii-3d-hot-rally.json) |
@@ -2592,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FAR: Universe Bundle | 253791 | [253791-far-universe-bundle.json](./253791-far-universe-bundle.json) |
 | Fara | 123272 | [123272-fara.json](./123272-fara.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
+| Faraday Protocol | 143423 | [143423-faraday-protocol.json](./143423-faraday-protocol.json) |
 | Faraday's Flaw | 310583 | [310583-faradays-flaw.json](./310583-faradays-flaw.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Farathan | 149703 | [149703-farathan.json](./149703-farathan.json) |
@@ -8892,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
 | Flip Trickster: Parkour Simulator | 96708 | [96708-flip-trickster-parkour-simulator.json](./96708-flip-trickster-parkour-simulator.json) |
 | Flip Trip | 233108 | [233108-flip-trip.json](./233108-flip-trip.json) |
+| Flip Wars | 27505 | [27505-flip-wars.json](./27505-flip-wars.json) |
 | Flip Words | 54040 | [54040-flip-words.json](./54040-flip-words.json) |
 | Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
 | Flip Words 2 | 54039 | [54039-flip-words-2.json](./54039-flip-words-2.json) |
