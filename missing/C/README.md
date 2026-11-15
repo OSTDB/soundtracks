@@ -12917,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Golf | 252420 | [252420-coffee-golf.json](./252420-coffee-golf.json) |
 | Coffee House Chaos! | 206983 | [206983-coffee-house-chaos.json](./206983-coffee-house-chaos.json) |
 | Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
+| Coffee Keeper | 426935 | [426935-coffee-keeper.json](./426935-coffee-keeper.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
 | Coffee Mahjong | 70886 | [70886-coffee-mahjong.json](./70886-coffee-mahjong.json) |
@@ -16025,6 +16026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conversations We Have In My Head | 181750 | [181750-conversations-we-have-in-my-head.json](./181750-conversations-we-have-in-my-head.json) |
 | Conversations with Emma | 135459 | [135459-conversations-with-emma.json](./135459-conversations-with-emma.json) |
 | Conversations With My Anxiety | 134993 | [134993-conversations-with-my-anxiety.json](./134993-conversations-with-my-anxiety.json) |
+| Conversations with My Imaginary Friends | 426933 | [426933-conversations-with-my-imaginary-friends.json](./426933-conversations-with-my-imaginary-friends.json) |
 | Converse Hardcore Hoops | 208790 | [208790-converse-hardcore-hoops.json](./208790-converse-hardcore-hoops.json) |
 | Converter | 145806 | [145806-converter.json](./145806-converter.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
