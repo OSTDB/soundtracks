@@ -8156,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Drive Island | 332959 | [332959-long-drive-island.json](./332959-long-drive-island.json) |
 | Long Drive North | 320382 | [320382-long-drive-north.json](./320382-long-drive-north.json) |
 | Long Drop | 204176 | [204176-long-drop.json](./204176-long-drop.json) |
+| Long Exposure | 424552 | [424552-long-exposure.json](./424552-long-exposure.json) |
 | Long Gone | 216609 | [216609-long-gone.json](./216609-long-gone.json) |
 | Long Hike with a Cute Girl | 277103 | [277103-long-hike-with-a-cute-girl.json](./277103-long-hike-with-a-cute-girl.json) |
 | Lóng Hún Dàmàoxiǎn | 367129 | [367129-long-hun-damaoxian.json](./367129-long-hun-damaoxian.json) |
