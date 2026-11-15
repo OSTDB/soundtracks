@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Point Ski Jumping | 128905 | [128905-k-point-ski-jumping.json](./128905-k-point-ski-jumping.json) |
 | K-Pop & Rock Band Manager | 207090 | [207090-k-pop-and-rock-band-manager.json](./207090-k-pop-and-rock-band-manager.json) |
 | K-Pop Academy | 297664 | [297664-k-pop-academy.json](./297664-k-pop-academy.json) |
+| K-Pop Dance Festival | 63485 | [63485-k-pop-dance-festival.json](./63485-k-pop-dance-festival.json) |
 | K-Pop Fandom Korean Quiz | 401102 | [401102-k-pop-fandom-korean-quiz.json](./401102-k-pop-fandom-korean-quiz.json) |
 | K-POP Idol Producer | 228944 | [228944-k-pop-idol-producer.json](./228944-k-pop-idol-producer.json) |
 | K-Pop Idol Stories: Road to Debut | 212197 | [212197-k-pop-idol-stories-road-to-debut.json](./212197-k-pop-idol-stories-road-to-debut.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazoete | 130030 | [130030-kazoete.json](./130030-kazoete.json) |
 | Kazoku Gokko | 396474 | [396474-kazoku-gokko.json](./396474-kazoku-gokko.json) |
 | Kazoku Keikaku | 56773 | [56773-kazoku-keikaku.json](./56773-kazoku-keikaku.json) |
+| Kazoku Keikaku Re:Tsumugu Ito | 62912 | [62912-kazoku-keikaku-re-tsumugu-ito.json](./62912-kazoku-keikaku-re-tsumugu-ito.json) |
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
 | Kazoo | 279442 | [279442-kazoo.json](./279442-kazoo.json) |
