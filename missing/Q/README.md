@@ -1300,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Present Variety Q-Sama!! DS Pressure Study x Atama ga Yoku naru Drill SP | 133798 | [133798-quiz-present-variety-q-sama-ds-pressure-study-x-atama-ga-yoku-naru-drill-sp.json](./133798-quiz-present-variety-q-sama-ds-pressure-study-x-atama-ga-yoku-naru-drill-sp.json) |
 | Quiz Pro: Guess Pictures | 367687 | [367687-quiz-pro-guess-pictures.json](./367687-quiz-pro-guess-pictures.json) |
 | Quiz Pro!: General Knowledge | 367106 | [367106-quiz-pro-general-knowledge.json](./367106-quiz-pro-general-knowledge.json) |
+| Quiz Project Q: Cutie Project & Battle 10000 | 48825 | [48825-quiz-project-q-cutie-project-and-battle-10000.json](./48825-quiz-project-q-cutie-project-and-battle-10000.json) |
 | Quiz Quest | 246097 | [246097-quiz-quest.json](./246097-quiz-quest.json) |
 | Quiz Racer | 297331 | [297331-quiz-racer.json](./297331-quiz-racer.json) |
 | Quiz Realm | 198360 | [198360-quiz-realm.json](./198360-quiz-realm.json) |
