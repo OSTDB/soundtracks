@@ -9560,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
 | Love Across Izumi | 131327 | [131327-love-across-izumi.json](./131327-love-across-izumi.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
+| Love Alchemy: A Heart In Winter | 53292 | [53292-love-alchemy-a-heart-in-winter.json](./53292-love-alchemy-a-heart-in-winter.json) |
 | Love All My Girls | 406866 | [406866-love-all-my-girls.json](./406866-love-all-my-girls.json) |
 | Love All You Have Left | 74615 | [74615-love-all-you-have-left.json](./74615-love-all-you-have-left.json) |
 | Love Alone Death | 272613 | [272613-love-alone-death.json](./272613-love-alone-death.json) |
@@ -9722,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in the Dark | 261573 | [261573-love-in-the-dark.json](./261573-love-in-the-dark.json) |
 | Love in the Distance | 143212 | [143212-love-in-the-distance.json](./143212-love-in-the-distance.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
+| Love in the Glen: Deluxe Edition | 53291 | [53291-love-in-the-glen-deluxe-edition.json](./53291-love-in-the-glen-deluxe-edition.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
 | Love in the Time of Spellphage | 364524 | [364524-love-in-the-time-of-spellphage.json](./364524-love-in-the-time-of-spellphage.json) |
 | Love In the Valley | 284745 | [284745-love-in-the-valley.json](./284745-love-in-the-valley.json) |
@@ -9745,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is in the Space | 119096 | [119096-love-is-in-the-space.json](./119096-love-is-in-the-space.json) |
 | Love is Our Specialty! | 210520 | [210520-love-is-our-specialty.json](./210520-love-is-our-specialty.json) |
 | Love is Strange | 178526 | [178526-love-is-strange.json](./178526-love-is-strange.json) |
+| Love is the Plan, the Plan is Death | 53290 | [53290-love-is-the-plan-the-plan-is-death.json](./53290-love-is-the-plan-the-plan-is-death.json) |
 | Love is Trauma | 393419 | [393419-love-is-trauma.json](./393419-love-is-trauma.json) |
 | Love Is... | 321619 | [321619-love-is.json](./321619-love-is.json) |
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
@@ -10795,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines: Advanced Pack | 93825 | [93825-lumines-advanced-pack.json](./93825-lumines-advanced-pack.json) |
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
+| Luminesca | 53289 | [53289-luminesca.json](./53289-luminesca.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminescence | 343594 | [343594-luminescence.json](./343594-luminescence.json) |
 | Luminescence | 95160 | [95160-luminescence.json](./95160-luminescence.json) |
