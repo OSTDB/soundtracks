@@ -10435,6 +10435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
 | Wuxia archive: Crisis escape | 109330 | [109330-wuxia-archive-crisis-escape.json](./109330-wuxia-archive-crisis-escape.json) |
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
+| Wuxia Survivor | 426359 | [426359-wuxia-survivor.json](./426359-wuxia-survivor.json) |
 | Wuxia TowerDefence | 196598 | [196598-wuxia-towerdefence.json](./196598-wuxia-towerdefence.json) |
 | Wuxia World | 317043 | [317043-wuxia-world.json](./317043-wuxia-world.json) |
 | Wuxia: Founding Schools | 292165 | [292165-wuxia-founding-schools.json](./292165-wuxia-founding-schools.json) |
