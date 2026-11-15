@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haikyuu!! Cross Team Match! | 136910 | [136910-haikyuu-cross-team-match.json](./136910-haikyuu-cross-team-match.json) |
 | Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
+| Hail Mary | 420404 | [420404-hail-mary.json](./420404-hail-mary.json) |
 | Hail the Devourer | 392600 | [392600-hail-the-devourer.json](./392600-hail-the-devourer.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
 | Hail to the King | 114265 | [114265-hail-to-the-king.json](./114265-hail-to-the-king.json) |
