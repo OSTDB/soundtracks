@@ -7828,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caretaker | 184766 | [184766-the-caretaker.json](./184766-the-caretaker.json) |
 | The Caretaker | 32429 | [32429-the-caretaker.json](./32429-the-caretaker.json) |
 | The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
+| The Caribbean Sail | 61889 | [61889-the-caribbean-sail.json](./61889-the-caribbean-sail.json) |
 | The Caribbean Sail: Fantasy Toggle | 144166 | [144166-the-caribbean-sail-fantasy-toggle.json](./144166-the-caribbean-sail-fantasy-toggle.json) |
 | The Caribbean Sail: Route Planing | 144165 | [144165-the-caribbean-sail-route-planing.json](./144165-the-caribbean-sail-route-planing.json) |
 | The Caribou Trail | 391848 | [391848-the-caribou-trail.json](./391848-the-caribou-trail.json) |
@@ -10692,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones | 277144 | [277144-the-flintstones.json](./277144-the-flintstones.json) |
 | The Flintstones | 47227 | [47227-the-flintstones.json](./47227-the-flintstones.json) |
 | The Flintstones | 51942 | [51942-the-flintstones.json](./51942-the-flintstones.json) |
+| The Flintstones | 59872 | [59872-the-flintstones.json](./59872-the-flintstones.json) |
 | The Flintstones in Viva Rock Vegas | 316930 | [316930-the-flintstones-in-viva-rock-vegas.json](./316930-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones: Bedrock Bowling | 44987 | [44987-the-flintstones-bedrock-bowling.json](./44987-the-flintstones-bedrock-bowling.json) |
@@ -13710,6 +13712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
 | The Last Stand: Aftermath | 133375 | [133375-the-last-stand-aftermath.json](./133375-the-last-stand-aftermath.json) |
+| The Last Stand: Dead Zone | 59516 | [59516-the-last-stand-dead-zone.json](./59516-the-last-stand-dead-zone.json) |
 | The Last Stand: Union City | 61586 | [61586-the-last-stand-union-city.json](./61586-the-last-stand-union-city.json) |
 | The Last Star | 214810 | [214810-the-last-star.json](./214810-the-last-star.json) |
 | The Last Star Walker: Season 1 | 385793 | [385793-the-last-star-walker-season-1.json](./385793-the-last-star-walker-season-1.json) |
@@ -17808,6 +17811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sagittarian | 381771 | [381771-the-sagittarian.json](./381771-the-sagittarian.json) |
 | The Sagittarian 2 | 381772 | [381772-the-sagittarian-2.json](./381772-the-sagittarian-2.json) |
 | The Sagittarian 4: Bayou | 393146 | [393146-the-sagittarian-4-bayou.json](./393146-the-sagittarian-4-bayou.json) |
+| The Sailor's Dream | 61229 | [61229-the-sailors-dream.json](./61229-the-sailors-dream.json) |
 | The Sailor’s Guide to Game Design | 263140 | [263140-the-sailor-s-guide-to-game-design.json](./263140-the-sailor-s-guide-to-game-design.json) |
 | The Saint | 387384 | [387384-the-saint.json](./387384-the-saint.json) |
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
@@ -27683,6 +27687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Xanadu | 11455 | [11455-tokyo-xanadu.json](./11455-tokyo-xanadu.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
 | Tokyo Xanadu eX+: Limited Edition | 89846 | [89846-tokyo-xanadu-ex-limited-edition.json](./89846-tokyo-xanadu-ex-limited-edition.json) |
+| Tokyo Xtreme Racer | 20710 | [20710-tokyo-xtreme-racer.json](./20710-tokyo-xtreme-racer.json) |
 | Tokyo Xtreme Racer 2 | 4359 | [4359-tokyo-xtreme-racer-2.json](./4359-tokyo-xtreme-racer-2.json) |
 | Tokyo Xtreme Racer 3 | 24184 | [24184-tokyo-xtreme-racer-3.json](./24184-tokyo-xtreme-racer-3.json) |
 | Tokyo Xtreme Racer Advance | 49341 | [49341-tokyo-xtreme-racer-advance.json](./49341-tokyo-xtreme-racer-advance.json) |
@@ -28826,6 +28831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tora Tora! | 172257 | [172257-tora-tora.json](./172257-tora-tora.json) |
 | Tora's Garden | 274312 | [274312-toras-garden.json](./274312-toras-garden.json) |
 | Toradora Portable! | 42752 | [42752-toradora-portable.json](./42752-toradora-portable.json) |
+| Toram Online | 57985 | [57985-toram-online.json](./57985-toram-online.json) |
 | Toran | 115828 | [115828-toran.json](./115828-toran.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
 | Torarete Tamaruka!? | 46291 | [46291-torarete-tamaruka.json](./46291-torarete-tamaruka.json) |
@@ -34751,6 +34757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trimps | 131042 | [131042-trimps.json](./131042-trimps.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
+| Trine 2 Director's Cut | 20845 | [20845-trine-2-directors-cut.json](./20845-trine-2-directors-cut.json) |
 | Trine 2: Complete Story | 38932 | [38932-trine-2-complete-story.json](./38932-trine-2-complete-story.json) |
 | Trine 2: Goblin Menace | 20837 | [20837-trine-2-goblin-menace.json](./20837-trine-2-goblin-menace.json) |
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
@@ -35087,6 +35094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
 | Trog | 46505 | [46505-trog.json](./46505-trog.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
+| Trog! | 48270 | [48270-trog.json](./48270-trog.json) |
 | Trogday Micro Game | 200949 | [200949-trogday-micro-game.json](./200949-trogday-micro-game.json) |
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trogloxene | 178256 | [178256-trogloxene.json](./178256-trogloxene.json) |
@@ -37521,6 +37529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twyla | 260534 | [260534-twyla.json](./260534-twyla.json) |
 | TX Poker: Texas Holdem Online | 359912 | [359912-tx-poker-texas-holdem-online.json](./359912-tx-poker-texas-holdem-online.json) |
 | TX-1 | 24434 | [24434-tx-1.json](./24434-tx-1.json) |
+| TxK | 10061 | [10061-txk.json](./10061-txk.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Ty the Tasmanian Tiger | 1322 | [1322-ty-the-tasmanian-tiger.json](./1322-ty-the-tasmanian-tiger.json) |
 | Ty the Tasmanian Tiger 2: Bush Rescue | 210497 | [210497-ty-the-tasmanian-tiger-2-bush-rescue.json](./210497-ty-the-tasmanian-tiger-2-bush-rescue.json) |
