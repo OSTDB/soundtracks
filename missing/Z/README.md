@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Must Dead! | 344886 | [344886-zombie-must-dead.json](./344886-zombie-must-dead.json) |
 | Zombie Mutant DNA | 128959 | [128959-zombie-mutant-dna.json](./128959-zombie-mutant-dna.json) |
 | Zombie Mutant Run | 262338 | [262338-zombie-mutant-run.json](./262338-zombie-mutant-run.json) |
+| Zombie Mystery: 100 Hidden Cats | 425132 | [425132-zombie-mystery-100-hidden-cats.json](./425132-zombie-mystery-100-hidden-cats.json) |
 | Zombie Nation | 48201 | [48201-zombie-nation.json](./48201-zombie-nation.json) |
 | Zombie Neighborhood | 150475 | [150475-zombie-neighborhood.json](./150475-zombie-neighborhood.json) |
 | Zombie Night | 276140 | [276140-zombie-night.json](./276140-zombie-night.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie TD | 251354 | [251354-zombie-td.json](./251354-zombie-td.json) |
 | Zombie TD | 277086 | [277086-zombie-td.json](./277086-zombie-td.json) |
 | Zombie Teacher | 99608 | [99608-zombie-teacher.json](./99608-zombie-teacher.json) |
+| Zombie Tide Arena | 425145 | [425145-zombie-tide-arena.json](./425145-zombie-tide-arena.json) |
 | Zombie Tide Incoming Final Defense | 329596 | [329596-zombie-tide-incoming-final-defense.json](./329596-zombie-tide-incoming-final-defense.json) |
 | Zombie Tornado Game | 235230 | [235230-zombie-tornado-game.json](./235230-zombie-tornado-game.json) |
 | Zombie Total War | 152876 | [152876-zombie-total-war.json](./152876-zombie-total-war.json) |
