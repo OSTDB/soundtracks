@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Sequence | 128156 | [128156-unexpected-sequence.json](./128156-unexpected-sequence.json) |
 | Unexpected Tasks | 416987 | [416987-unexpected-tasks.json](./416987-unexpected-tasks.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
+| Unexplored | 27373 | [27373-unexplored.json](./27373-unexplored.json) |
 | Unexplored 2: The Wayfarer's Legacy | 119343 | [119343-unexplored-2-the-wayfarers-legacy.json](./119343-unexplored-2-the-wayfarers-legacy.json) |
 | Unexplored: Mithril Run | 155020 | [155020-unexplored-mithril-run.json](./155020-unexplored-mithril-run.json) |
 | Unexplored: Ripley Run | 155022 | [155022-unexplored-ripley-run.json](./155022-unexplored-ripley-run.json) |
