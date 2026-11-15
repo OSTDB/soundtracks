@@ -9910,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
 | Holdfast: American Revolution | 400489 | [400489-holdfast-american-revolution.json](./400489-holdfast-american-revolution.json) |
 | Holdfast: Frontlines WW1 | 193625 | [193625-holdfast-frontlines-ww1.json](./193625-holdfast-frontlines-ww1.json) |
+| Holdfast: Nations At War | 28164 | [28164-holdfast-nations-at-war.json](./28164-holdfast-nations-at-war.json) |
 | Holdfast: Nations At War - Napoleon's Rise | 286538 | [286538-holdfast-nations-at-war-napoleons-rise.json](./286538-holdfast-nations-at-war-napoleons-rise.json) |
 | Holding It | 378537 | [378537-holding-it.json](./378537-holding-it.json) |
 | Holding Keys | 255839 | [255839-holding-keys.json](./255839-holding-keys.json) |
@@ -10301,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy plague | 181271 | [181271-holy-plague.json](./181271-holy-plague.json) |
 | Holy Potatoes! A Bundle?! | 119104 | [119104-holy-potatoes-a-bundle.json](./119104-holy-potatoes-a-bundle.json) |
 | Holy Potatoes! A Spy Story?! | 96384 | [96384-holy-potatoes-a-spy-story.json](./96384-holy-potatoes-a-spy-story.json) |
+| Holy Potatoes! A Weapon Shop?! | 12880 | [12880-holy-potatoes-a-weapon-shop.json](./12880-holy-potatoes-a-weapon-shop.json) |
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
 | Holy Potatoes! Compedium: Badge Edition | 139833 | [139833-holy-potatoes-compedium-badge-edition.json](./139833-holy-potatoes-compedium-badge-edition.json) |
 | Holy Potatoes! Compendium | 137674 | [137674-holy-potatoes-compendium.json](./137674-holy-potatoes-compendium.json) |
