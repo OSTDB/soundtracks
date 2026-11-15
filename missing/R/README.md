@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red 777 | 271355 | [271355-red-777.json](./271355-red-777.json) |
 | Red Ace Squadron Pro | 63182 | [63182-red-ace-squadron-pro.json](./63182-red-ace-squadron-pro.json) |
 | Red Adventure | 149729 | [149729-red-adventure.json](./149729-red-adventure.json) |
+| Red Alarm | 20790 | [20790-red-alarm.json](./20790-red-alarm.json) |
 | Red Aleph | 185395 | [185395-red-aleph.json](./185395-red-aleph.json) |
 | Red Alert | 282458 | [282458-red-alert.json](./282458-red-alert.json) |
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
@@ -10131,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
 | Robot Street Fighting Games | 304074 | [304074-robot-street-fighting-games.json](./304074-robot-street-fighting-games.json) |
 | Robot Tactics: Real Time Super Robot Wars | 108538 | [108538-robot-tactics-real-time-super-robot-wars.json](./108538-robot-tactics-real-time-super-robot-wars.json) |
+| Robot Tank | 18675 | [18675-robot-tank.json](./18675-robot-tank.json) |
 | Robot TD | 258917 | [258917-robot-td.json](./258917-robot-td.json) |
 | Robot terminator | 120704 | [120704-robot-terminator.json](./120704-robot-terminator.json) |
 | Robot Tormod | 236094 | [236094-robot-tormod.json](./236094-robot-tormod.json) |
