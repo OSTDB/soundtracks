@@ -2664,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssdia | 363049 | [363049-abyssdia.json](./363049-abyssdia.json) |
 | Abyssey | 259501 | [259501-abyssey.json](./259501-abyssey.json) |
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
+| Abyssia | 39261 | [39261-abyssia.json](./39261-abyssia.json) |
 | Abyssmare | 254032 | [254032-abyssmare.json](./254032-abyssmare.json) |
 | Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
@@ -3113,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
 | Aces Over Europe | 12386 | [12386-aces-over-europe.json](./12386-aces-over-europe.json) |
 | Aces Slots Riches of Olympus | 95321 | [95321-aces-slots-riches-of-olympus.json](./95321-aces-slots-riches-of-olympus.json) |
+| Aces Spades | 39169 | [39169-aces-spades.json](./39169-aces-spades.json) |
 | Aces Under the Moonlight | 202543 | [202543-aces-under-the-moonlight.json](./202543-aces-under-the-moonlight.json) |
 | Aces Up Solitaire card game | 90400 | [90400-aces-up-solitaire-card-game.json](./90400-aces-up-solitaire-card-game.json) |
 | Aces Up: Easthaven Solitaire | 106745 | [106745-aces-up-easthaven-solitaire.json](./106745-aces-up-easthaven-solitaire.json) |
@@ -8178,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Versus Predator: Gold Edition | 80034 | [80034-aliens-versus-predator-gold-edition.json](./80034-aliens-versus-predator-gold-edition.json) |
 | Aliens versus Predator: Millennium | 80035 | [80035-aliens-versus-predator-millennium.json](./80035-aliens-versus-predator-millennium.json) |
 | Aliens vs. Ghosts | 208331 | [208331-aliens-vs-ghosts.json](./208331-aliens-vs-ghosts.json) |
+| Aliens vs. Pinball | 39249 | [39249-aliens-vs-pinball.json](./39249-aliens-vs-pinball.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
 | Aliens vs. Predator: Bughunt Map Pack | 223834 | [223834-aliens-vs-predator-bughunt-map-pack.json](./223834-aliens-vs-predator-bughunt-map-pack.json) |
@@ -12529,6 +12532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Nation | 21197 | [21197-ant-nation.json](./21197-ant-nation.json) |
 | Ant Queen | 32809 | [32809-ant-queen.json](./32809-ant-queen.json) |
+| Ant Raid | 39242 | [39242-ant-raid.json](./39242-ant-raid.json) |
 | Ant Run | 73925 | [73925-ant-run.json](./73925-ant-run.json) |
 | Ant secret | 280405 | [280405-ant-secret.json](./280405-ant-secret.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
@@ -13544,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apt. Map | 227438 | [227438-apt-map.json](./227438-apt-map.json) |
 | Aptamirror | 425825 | [425825-aptamirror.json](./425825-aptamirror.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
+| Aptoide | 39268 | [39268-aptoide.json](./39268-aptoide.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
 | APUS: Bird Simulator | 326487 | [326487-apus-bird-simulator.json](./326487-apus-bird-simulator.json) |
 | Apventure to Atlantis | 23291 | [23291-apventure-to-atlantis.json](./23291-apventure-to-atlantis.json) |
@@ -15799,6 +15804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArmA II: Reinforcements | 77286 | [77286-arma-ii-reinforcements.json](./77286-arma-ii-reinforcements.json) |
 | ArmA Mobile Ops | 125918 | [125918-arma-mobile-ops.json](./125918-arma-mobile-ops.json) |
 | Arma Reforger | 201789 | [201789-arma-reforger.json](./201789-arma-reforger.json) |
+| Arma Tactics THD | 39247 | [39247-arma-tactics-thd.json](./39247-arma-tactics-thd.json) |
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Arma: Cold War Assault | 9775 | [9775-arma-cold-war-assault.json](./9775-arma-cold-war-assault.json) |
 | ARMA: Gold Edition | 27937 | [27937-arma-gold-edition.json](./27937-arma-gold-edition.json) |
@@ -17466,6 +17472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Odyssey - Medusa Edition | 109423 | [109423-assassins-creed-odyssey-medusa-edition.json](./109423-assassins-creed-odyssey-medusa-edition.json) |
 | Assassin's Creed: Odyssey - Spartan Edition | 125126 | [125126-assassins-creed-odyssey-spartan-edition.json](./125126-assassins-creed-odyssey-spartan-edition.json) |
 | Assassin's Creed: Odyssey - Ultimate Edition | 27567 | [27567-assassins-creed-odyssey-ultimate-edition.json](./27567-assassins-creed-odyssey-ultimate-edition.json) |
+| Assassin's Creed: Origins - Dawn of the Creed Edition | 39046 | [39046-assassins-creed-origins-dawn-of-the-creed-edition.json](./39046-assassins-creed-origins-dawn-of-the-creed-edition.json) |
 | Assassin's Creed: Origins - Dawn of the Creed Legendary Edition | 39047 | [39047-assassins-creed-origins-dawn-of-the-creed-legendary-edition.json](./39047-assassins-creed-origins-dawn-of-the-creed-legendary-edition.json) |
 | Assassin's Creed: Origins - Deluxe Edition | 39034 | [39034-assassins-creed-origins-deluxe-edition.json](./39034-assassins-creed-origins-deluxe-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
@@ -18905,6 +18912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena Cykes: Ace Attorney - Locks on the Heart | 306604 | [306604-athena-cykes-ace-attorney-locks-on-the-heart.json](./306604-athena-cykes-ace-attorney-locks-on-the-heart.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
 | Athena In Wonderland | 39710 | [39710-athena-in-wonderland.json](./39710-athena-in-wonderland.json) |
+| Athena No Hatena? | 38606 | [38606-athena-no-hatena.json](./38606-athena-no-hatena.json) |
 | Athena no Kateiban: Family Games | 285988 | [285988-athena-no-kateiban-family-games.json](./285988-athena-no-kateiban-family-games.json) |
 | Athena Trivia | 147540 | [147540-athena-trivia.json](./147540-athena-trivia.json) |
 | Athena, the rabbit: Jigsaw Puzzle | 162206 | [162206-athena-the-rabbit-jigsaw-puzzle.json](./162206-athena-the-rabbit-jigsaw-puzzle.json) |
@@ -18945,6 +18953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
+| Atlantic City Action | 38605 | [38605-atlantic-city-action.json](./38605-atlantic-city-action.json) |
 | Atlantic Edge | 107935 | [107935-atlantic-edge.json](./107935-atlantic-edge.json) |
 | Atlantic Fleet | 34012 | [34012-atlantic-fleet.json](./34012-atlantic-fleet.json) |
 | Atlantic Journey: The Lost Brother | 175797 | [175797-atlantic-journey-the-lost-brother.json](./175797-atlantic-journey-the-lost-brother.json) |
@@ -19072,6 +19081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
 | Atomic Bomberman | 18153 | [18153-atomic-bomberman.json](./18153-atomic-bomberman.json) |
 | Atomic Bot: Survivor of Planets | 297361 | [297361-atomic-bot-survivor-of-planets.json](./297361-atomic-bot-survivor-of-planets.json) |
+| Atomic Boy | 38604 | [38604-atomic-boy.json](./38604-atomic-boy.json) |
 | Atomic Brawl | 62867 | [62867-atomic-brawl.json](./62867-atomic-brawl.json) |
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
