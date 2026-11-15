@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Garegga Rev.2016: Premium Edition | 166996 | [166996-battle-garegga-rev-2016-premium-edition.json](./166996-battle-garegga-rev-2016-premium-edition.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear | 286626 | [286626-battle-gear.json](./286626-battle-gear.json) |
+| Battle Gear | 57828 | [57828-battle-gear.json](./57828-battle-gear.json) |
 | Battle Gear 2 | 286627 | [286627-battle-gear-2.json](./286627-battle-gear-2.json) |
 | Battle Gear 3 | 286628 | [286628-battle-gear-3.json](./286628-battle-gear-3.json) |
 | Battle Gear 3 | 91877 | [91877-battle-gear-3.json](./91877-battle-gear-3.json) |
@@ -7360,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernadette and the Demon Circus | 129449 | [129449-bernadette-and-the-demon-circus.json](./129449-bernadette-and-the-demon-circus.json) |
 | Bernard Arnault Sauve La France | 144238 | [144238-bernard-arnault-sauve-la-france.json](./144238-bernard-arnault-sauve-la-france.json) |
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
+| Bernband | 57850 | [57850-bernband.json](./57850-bernband.json) |
 | Bernd das Brot und die Unmöglichen | 129882 | [129882-bernd-das-brot-und-die-unmoglichen.json](./129882-bernd-das-brot-und-die-unmoglichen.json) |
 | Bernie Needs Love | 35168 | [35168-bernie-needs-love.json](./35168-bernie-needs-love.json) |
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
@@ -8654,6 +8656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biker Mice from Mars | 217747 | [217747-biker-mice-from-mars.json](./217747-biker-mice-from-mars.json) |
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
 | Biker Mice From Mars | 176054 | [176054-biker-mice-from-mars.json](./176054-biker-mice-from-mars.json) |
+| Biker Mice: Mars Attack! | 57845 | [57845-biker-mice-mars-attack.json](./57845-biker-mice-mars-attack.json) |
 | Biker Street 2D | 213812 | [213812-biker-street-2d.json](./213812-biker-street-2d.json) |
 | Bikers | 280488 | [280488-bikers.json](./280488-bikers.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
@@ -10001,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Friday | 367121 | [367121-black-friday.json](./367121-black-friday.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Future '88 | 74561 | [74561-black-future-88.json](./74561-black-future-88.json) |
+| Black Geyser: Couriers of Darkness | 57853 | [57853-black-geyser-couriers-of-darkness.json](./57853-black-geyser-couriers-of-darkness.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
 | Black Goat | 355193 | [355193-black-goat.json](./355193-black-goat.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
@@ -14144,6 +14148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing!! 2: A Graffiti Paradise | 225700 | [225700-bombing-2-a-graffiti-paradise.json](./225700-bombing-2-a-graffiti-paradise.json) |
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
 | Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
+| Bombix | 57842 | [57842-bombix.json](./57842-bombix.json) |
 | Bombjour | 107459 | [107459-bombjour.json](./107459-bombjour.json) |
 | BomBliss | 263865 | [263865-bombliss.json](./263865-bombliss.json) |
 | BombMachine Gunzohg | 365336 | [365336-bombmachine-gunzohg.json](./365336-bombmachine-gunzohg.json) |
