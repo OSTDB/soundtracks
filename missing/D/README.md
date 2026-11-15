@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy's Little Helper | 91084 | [91084-daddys-little-helper.json](./91084-daddys-little-helper.json) |
 | Daddy's Long Milk Run | 340719 | [340719-daddys-long-milk-run.json](./340719-daddys-long-milk-run.json) |
 | Daddy's Messy Day - Help Daddy While Mommy's away | 97052 | [97052-daddys-messy-day-help-daddy-while-mommys-away.json](./97052-daddys-messy-day-help-daddy-while-mommys-away.json) |
+| DaDee | 425123 | [425123-dadee.json](./425123-dadee.json) |
 | Dadi | 200534 | [200534-dadi.json](./200534-dadi.json) |
 | Dadi Kingdom | 416622 | [416622-dadi-kingdom.json](./416622-dadi-kingdom.json) |
 | Dadish | 134427 | [134427-dadish.json](./134427-dadish.json) |
@@ -16299,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft of Darkness | 137247 | [137247-draft-of-darkness.json](./137247-draft-of-darkness.json) |
 | Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
 | Draft: In the Woods | 240611 | [240611-draft-in-the-woods.json](./240611-draft-in-the-woods.json) |
+| Draftfall | 425120 | [425120-draftfall.json](./425120-draftfall.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
 | Drafting Towers | 181812 | [181812-drafting-towers.json](./181812-drafting-towers.json) |
 | DraftPunk | 388916 | [388916-draftpunk.json](./388916-draftpunk.json) |
