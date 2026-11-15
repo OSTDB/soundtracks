@@ -20633,6 +20633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uprising | 263365 | [263365-the-uprising.json](./263365-the-uprising.json) |
 | The Upturned | 172905 | [172905-the-upturned.json](./172905-the-upturned.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
+| The Urbexan Files | 428101 | [428101-the-urbexan-files.json](./428101-the-urbexan-files.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Use of Life | 151784 | [151784-the-use-of-life.json](./151784-the-use-of-life.json) |
@@ -37166,6 +37167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Sprouts | 176594 | [176594-twin-sprouts.json](./176594-twin-sprouts.json) |
 | Twin Squash | 40490 | [40490-twin-squash.json](./40490-twin-squash.json) |
 | Twin Stick | 278345 | [278345-twin-stick.json](./278345-twin-stick.json) |
+| Twin Stick Checkers | 428108 | [428108-twin-stick-checkers.json](./428108-twin-stick-checkers.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Stick Heroes 2 | 240632 | [240632-twin-stick-heroes-2.json](./240632-twin-stick-heroes-2.json) |
 | Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
