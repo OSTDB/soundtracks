@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 11517 | [11517-haunted-house.json](./11517-haunted-house.json) |
 | Haunted House | 229763 | [229763-haunted-house.json](./229763-haunted-house.json) |
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
+| Haunted House | 258160 | [258160-haunted-house.json](./258160-haunted-house.json) |
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
@@ -7815,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
 | Hidden Expedition: A King's Line | 187923 | [187923-hidden-expedition-a-kings-line.json](./187923-hidden-expedition-a-kings-line.json) |
 | Hidden Expedition: A King's Line - Collector's Edition | 170202 | [170202-hidden-expedition-a-kings-line-collectors-edition.json](./170202-hidden-expedition-a-kings-line-collectors-edition.json) |
+| Hidden Expedition: Amazon | 16176 | [16176-hidden-expedition-amazon.json](./16176-hidden-expedition-amazon.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
 | Hidden Expedition: Crown of Solomon - Collector's Edition | 22080 | [22080-hidden-expedition-crown-of-solomon-collectors-edition.json](./22080-hidden-expedition-crown-of-solomon-collectors-edition.json) |
 | Hidden Expedition: Dawn of Prosperity | 57768 | [57768-hidden-expedition-dawn-of-prosperity.json](./57768-hidden-expedition-dawn-of-prosperity.json) |
