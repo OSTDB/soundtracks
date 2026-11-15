@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facing | 384162 | [384162-facing.json](./384162-facing.json) |
 | Facing Demons | 332882 | [332882-facing-demons.json](./332882-facing-demons.json) |
 | Facing Demons: Chara Battle | 305263 | [305263-facing-demons-chara-battle.json](./305263-facing-demons-chara-battle.json) |
+| Facing the Empire | 71090 | [71090-facing-the-empire.json](./71090-facing-the-empire.json) |
 | Facing the Rain | 324718 | [324718-facing-the-rain.json](./324718-facing-the-rain.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
 | Facist | 61515 | [61515-facist.json](./61515-facist.json) |
@@ -10376,6 +10377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Strike | 68338 | [68338-football-strike.json](./68338-football-strike.json) |
 | Football Striker 2024 | 304264 | [304264-football-striker-2024.json](./304264-football-striker-2024.json) |
 | Football Striker 2025 | 335834 | [335834-football-striker-2025.json](./335834-football-striker-2025.json) |
+| Football Strip | 71088 | [71088-football-strip.json](./71088-football-strip.json) |
 | Football Sumos | 175149 | [175149-football-sumos.json](./175149-football-sumos.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Superstars | 16413 | [16413-football-superstars.json](./16413-football-superstars.json) |
