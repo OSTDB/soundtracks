@@ -15361,6 +15361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
 | Areia: Pathway to Dawn | 95151 | [95151-areia-pathway-to-dawn.json](./95151-areia-pathway-to-dawn.json) |
 | Arel Wars | 38727 | [38727-arel-wars.json](./38727-arel-wars.json) |
+| Arelite Core | 27031 | [27031-arelite-core.json](./27031-arelite-core.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arelt City | 138456 | [138456-arelt-city.json](./138456-arelt-city.json) |
 | Aren't Grim Reapers Supposed to be Scary | 289048 | [289048-arent-grim-reapers-supposed-to-be-scary.json](./289048-arent-grim-reapers-supposed-to-be-scary.json) |
@@ -18897,6 +18898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Meruru Plus: The Apprentice of Arland | 42706 | [42706-atelier-meruru-plus-the-apprentice-of-arland.json](./42706-atelier-meruru-plus-the-apprentice-of-arland.json) |
 | Atelier Meruru: The Apprentice of Arland | 7277 | [7277-atelier-meruru-the-apprentice-of-arland.json](./7277-atelier-meruru-the-apprentice-of-arland.json) |
 | Atelier Meruru: The Apprentice of Arland DX | 105032 | [105032-atelier-meruru-the-apprentice-of-arland-dx.json](./105032-atelier-meruru-the-apprentice-of-arland-dx.json) |
+| Atelier Mysterious Trilogy DX | 143282 | [143282-atelier-mysterious-trilogy-dx.json](./143282-atelier-mysterious-trilogy-dx.json) |
 | Atelier Mysterious Trilogy DX: Premium Box | 143284 | [143284-atelier-mysterious-trilogy-dx-premium-box.json](./143284-atelier-mysterious-trilogy-dx-premium-box.json) |
 | Atelier Mysterious Trilogy DX: Special Collection Box | 143283 | [143283-atelier-mysterious-trilogy-dx-special-collection-box.json](./143283-atelier-mysterious-trilogy-dx-special-collection-box.json) |
 | Atelier Online: Alchemists of Braceir | 196529 | [196529-atelier-online-alchemists-of-braceir.json](./196529-atelier-online-alchemists-of-braceir.json) |
