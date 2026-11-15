@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
 | TCG World | 193544 | [193544-tcg-world.json](./193544-tcg-world.json) |
 | Tcheco in the Castle of Lucio | 35037 | [35037-tcheco-in-the-castle-of-lucio.json](./35037-tcheco-in-the-castle-of-lucio.json) |
+| Tchia | 134324 | [134324-tchia.json](./134324-tchia.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
 | Tchin | 311518 | [311518-tchin.json](./311518-tchin.json) |
@@ -5875,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's My Village! | 417639 | [417639-thats-my-village.json](./417639-thats-my-village.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
 | That’s Not My Mom | 409739 | [409739-that-s-not-my-mom.json](./409739-that-s-not-my-mom.json) |
+| That's Not My Neighbor | 288935 | [288935-thats-not-my-neighbor.json](./288935-thats-not-my-neighbor.json) |
 | That's Not Your Neighbor | 380939 | [380939-thats-not-your-neighbor.json](./380939-thats-not-your-neighbor.json) |
 | That's Pretty Clever | 119814 | [119814-thats-pretty-clever.json](./119814-thats-pretty-clever.json) |
 | That's QT | 256319 | [256319-thats-qt.json](./256319-thats-qt.json) |
@@ -11138,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gerbil Experiment | 244223 | [244223-the-gerbil-experiment.json](./244223-the-gerbil-experiment.json) |
 | The Get Out Kids | 123696 | [123696-the-get-out-kids.json](./123696-the-get-out-kids.json) |
 | The Get Up | 185441 | [185441-the-get-up.json](./185441-the-get-up.json) |
+| The Getaway | 8237 | [8237-the-getaway.json](./8237-the-getaway.json) |
 | The Getaway 3 | 79609 | [79609-the-getaway-3.json](./79609-the-getaway-3.json) |
 | The Getaway: Black Monday | 8238 | [8238-the-getaway-black-monday.json](./8238-the-getaway-black-monday.json) |
 | The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
@@ -12488,6 +12491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inner Friend | 104280 | [104280-the-inner-friend.json](./104280-the-inner-friend.json) |
 | The Inner Light | 177754 | [177754-the-inner-light.json](./177754-the-inner-light.json) |
 | The Inner Sea | 33517 | [33517-the-inner-sea.json](./33517-the-inner-sea.json) |
+| The Inner World | 7144 | [7144-the-inner-world.json](./7144-the-inner-world.json) |
 | The Inner World 1 + 2 Bundle | 349613 | [349613-the-inner-world-1-2-bundle.json](./349613-the-inner-world-1-2-bundle.json) |
 | The Inner World 2 | 99344 | [99344-the-inner-world-2.json](./99344-the-inner-world-2.json) |
 | The Inner World: The Last Wind Monk | 29065 | [29065-the-inner-world-the-last-wind-monk.json](./29065-the-inner-world-the-last-wind-monk.json) |
@@ -14004,6 +14008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend Of Kuro | 333273 | [333273-the-legend-of-kuro.json](./333273-the-legend-of-kuro.json) |
 | The Legend of Kusakari | 23421 | [23421-the-legend-of-kusakari.json](./23421-the-legend-of-kusakari.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
+| The Legend of Kyrandia 2: The Hand of Fate | 1283 | [1283-the-legend-of-kyrandia-2-the-hand-of-fate.json](./1283-the-legend-of-kyrandia-2-the-hand-of-fate.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy HD Remastered: Deluxe Edition | 270259 | [270259-the-legend-of-legacy-hd-remastered-deluxe-edition.json](./270259-the-legend-of-legacy-hd-remastered-deluxe-edition.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
@@ -21380,6 +21385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonder Pets!: Save the Animals! | 124088 | [124088-the-wonder-pets-save-the-animals.json](./124088-the-wonder-pets-save-the-animals.json) |
 | The Wonder Stone | 208137 | [208137-the-wonder-stone.json](./208137-the-wonder-stone.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
+| The Wonderful 101 | 2639 | [2639-the-wonderful-101.json](./2639-the-wonderful-101.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
 | The Wonderful 101: Remastered | 129240 | [129240-the-wonderful-101-remastered.json](./129240-the-wonderful-101-remastered.json) |
 | The Wonderful 101: Remastered - The Prince Vorkken | 196065 | [196065-the-wonderful-101-remastered-the-prince-vorkken.json](./196065-the-wonderful-101-remastered-the-prince-vorkken.json) |
@@ -27838,6 +27844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Year 2 HK SDU Special Edition | 167157 | [167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json](./167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
 | Tom Clancy's Rainbow Six: Critical Hour | 1852 | [1852-tom-clancys-rainbow-six-critical-hour.json](./1852-tom-clancys-rainbow-six-critical-hour.json) |
+| Tom Clancy's Rainbow Six: Lockdown | 1851 | [1851-tom-clancys-rainbow-six-lockdown.json](./1851-tom-clancys-rainbow-six-lockdown.json) |
 | Tom Clancy's Rainbow Six: Lockdown | 312285 | [312285-tom-clancys-rainbow-six-lockdown.json](./312285-tom-clancys-rainbow-six-lockdown.json) |
 | Tom Clancy's Rainbow Six: Lone Wolf | 44989 | [44989-tom-clancys-rainbow-six-lone-wolf.json](./44989-tom-clancys-rainbow-six-lone-wolf.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear | 1843 | [1843-tom-clancys-rainbow-six-rogue-spear.json](./1843-tom-clancys-rainbow-six-rogue-spear.json) |
@@ -28378,6 +28385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 Street | 23754 | [23754-tony-hawks-pro-skater-4-street.json](./23754-tony-hawks-pro-skater-4-street.json) |
 | Tony Hawk's Pro Skater 5 | 10090 | [10090-tony-hawks-pro-skater-5.json](./10090-tony-hawks-pro-skater-5.json) |
+| Tony Hawk's Pro Skater HD | 1382 | [1382-tony-hawks-pro-skater-hd.json](./1382-tony-hawks-pro-skater-hd.json) |
 | Tony Hawk's Pro Skater HD: Revert Pack | 346921 | [346921-tony-hawks-pro-skater-hd-revert-pack.json](./346921-tony-hawks-pro-skater-hd-revert-pack.json) |
 | Tony Hawk's Project 8 | 344862 | [344862-tony-hawks-project-8.json](./344862-tony-hawks-project-8.json) |
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
@@ -28924,6 +28932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
 | Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
 | Tormentum II | 111364 | [111364-tormentum-ii.json](./111364-tormentum-ii.json) |
+| Tormentum: Dark Sorrow | 9035 | [9035-tormentum-dark-sorrow.json](./9035-tormentum-dark-sorrow.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
 | Torn | 60675 | [60675-torn.json](./60675-torn.json) |
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
@@ -34348,6 +34357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Fusion: Riders of the Rustlands | 25293 | [25293-trials-fusion-riders-of-the-rustlands.json](./25293-trials-fusion-riders-of-the-rustlands.json) |
 | Trials Fusion: The Awesome Max Edition | 11160 | [11160-trials-fusion-the-awesome-max-edition.json](./11160-trials-fusion-the-awesome-max-edition.json) |
 | Trials Fusion: Welcome to the Abyss | 165424 | [165424-trials-fusion-welcome-to-the-abyss.json](./165424-trials-fusion-welcome-to-the-abyss.json) |
+| Trials HD | 2145 | [2145-trials-hd.json](./2145-trials-hd.json) |
 | Trials HD: Big Thrills | 22950 | [22950-trials-hd-big-thrills.json](./22950-trials-hd-big-thrills.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
