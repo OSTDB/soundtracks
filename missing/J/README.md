@@ -3609,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Jam! | 89022 | [89022-jump-jam.json](./89022-jump-jam.json) |
 | Jump Jerboa | 196616 | [196616-jump-jerboa.json](./196616-jump-jerboa.json) |
 | Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
+| Jump Jet | 26027 | [26027-jump-jet.json](./26027-jump-jet.json) |
 | Jump Journey | 215589 | [215589-jump-journey.json](./215589-jump-journey.json) |
 | Jump Jump | 405337 | [405337-jump-jump.json](./405337-jump-jump.json) |
 | Jump Jump Cyberpunk | 242603 | [242603-jump-jump-cyberpunk.json](./242603-jump-jump-cyberpunk.json) |
