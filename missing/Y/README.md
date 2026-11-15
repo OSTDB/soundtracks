@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youmu's Cube Adventure | 365153 | [365153-youmus-cube-adventure.json](./365153-youmus-cube-adventure.json) |
 | Young Archaeologist | 155831 | [155831-young-archaeologist.json](./155831-young-archaeologist.json) |
 | Young Bird Endless Flight | 333526 | [333526-young-bird-endless-flight.json](./333526-young-bird-endless-flight.json) |
+| Young Cathedral | 427574 | [427574-young-cathedral.json](./427574-young-cathedral.json) |
 | Young Conker | 330693 | [330693-young-conker.json](./330693-young-conker.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
 | Young Detectives: Animals | 312509 | [312509-young-detectives-animals.json](./312509-young-detectives-animals.json) |
