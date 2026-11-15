@@ -5871,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Man | 277695 | [277695-final-man.json](./277695-final-man.json) |
 | Final Match | 99730 | [99730-final-match.json](./99730-final-match.json) |
+| Final Match Tennis | 42060 | [42060-final-match-tennis.json](./42060-final-match-tennis.json) |
 | Final Memories | 322543 | [322543-final-memories.json](./322543-final-memories.json) |
 | Final Meteor | 58598 | [58598-final-meteor.json](./58598-final-meteor.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
@@ -5945,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Stepasy | 395463 | [395463-final-stepasy.json](./395463-final-stepasy.json) |
 | Final Storm | 74661 | [74661-final-storm.json](./74661-final-storm.json) |
 | Final Strategy | 390997 | [390997-final-strategy.json](./390997-final-strategy.json) |
+| Final Stretch | 42277 | [42277-final-stretch.json](./42277-final-stretch.json) |
 | Final Stretch: Horse Racing Sim | 73972 | [73972-final-stretch-horse-racing-sim.json](./73972-final-stretch-horse-racing-sim.json) |
 | Final Strike | 19059 | [19059-final-strike.json](./19059-final-strike.json) |
 | Final Sword | 135636 | [135636-final-sword.json](./135636-final-sword.json) |
