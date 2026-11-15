@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tab + Notch | 401091 | [401091-tab-notch.json](./401091-tab-notch.json) |
 | Tab-Bot | 202005 | [202005-tab-bot.json](./202005-tab-bot.json) |
 | Tabaluga | 85895 | [85895-tabaluga.json](./85895-tabaluga.json) |
+| Tabaluga Final X | 50072 | [50072-tabaluga-final-x.json](./50072-tabaluga-final-x.json) |
 | Tabbers | 185873 | [185873-tabbers.json](./185873-tabbers.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
 | Tabbris Yor | 156936 | [156936-tabbris-yor.json](./156936-tabbris-yor.json) |
@@ -8274,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complete Carriers at War | 281299 | [281299-the-complete-carriers-at-war.json](./281299-the-complete-carriers-at-war.json) |
 | The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
 | The Complete Movie Games Collection | 336051 | [336051-the-complete-movie-games-collection.json](./336051-the-complete-movie-games-collection.json) |
+| The Complete Ultima VII | 50194 | [50194-the-complete-ultima-vii.json](./50194-the-complete-ultima-vii.json) |
 | The Complete Universal Military Simulator | 137480 | [137480-the-complete-universal-military-simulator.json](./137480-the-complete-universal-military-simulator.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
 | The Complex Chapter 1: Who, What, Where? | 379406 | [379406-the-complex-chapter-1-who-what-where.json](./379406-the-complex-chapter-1-who-what-where.json) |
@@ -11404,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fantasy Struggle | 95150 | [95150-the-great-fantasy-struggle.json](./95150-the-great-fantasy-struggle.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
+| The Great Fighter | 50078 | [50078-the-great-fighter.json](./50078-the-great-fighter.json) |
 | The Great Fire of London | 14100 | [14100-the-great-fire-of-london.json](./14100-the-great-fire-of-london.json) |
 | The Great Fleece | 315914 | [315914-the-great-fleece.json](./315914-the-great-fleece.json) |
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
@@ -17003,6 +17006,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen of Duellist Gaiden | 63912 | [63912-the-queen-of-duellist-gaiden.json](./63912-the-queen-of-duellist-gaiden.json) |
 | The Queen of Duellist Gaiden α | 63911 | [63911-the-queen-of-duellist-gaiden.json](./63911-the-queen-of-duellist-gaiden.json) |
 | The Queen of Duellist Gaiden α+ | 63914 | [63914-the-queen-of-duellist-gaiden.json](./63914-the-queen-of-duellist-gaiden.json) |
+| The Queen of Heart '98 | 50183 | [50183-the-queen-of-heart-98.json](./50183-the-queen-of-heart-98.json) |
+| The Queen of Heart '99: Dream Match Never Ends | 50185 | [50185-the-queen-of-heart-99-dream-match-never-ends.json](./50185-the-queen-of-heart-99-dream-match-never-ends.json) |
+| The Queen of Heart 2001 ~Party's Breaker~ | 50184 | [50184-the-queen-of-heart-2001-partys-breaker.json](./50184-the-queen-of-heart-2001-partys-breaker.json) |
 | The Queen of Hearts Maze Game | 25153 | [25153-the-queen-of-hearts-maze-game.json](./25153-the-queen-of-hearts-maze-game.json) |
 | The Queen of Phalli | 392986 | [392986-the-queen-of-phalli.json](./392986-the-queen-of-phalli.json) |
 | The Queen of Snakes | 408090 | [408090-the-queen-of-snakes.json](./408090-the-queen-of-snakes.json) |
@@ -25627,6 +25633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Shared | 276720 | [276720-time-shared.json](./276720-time-shared.json) |
 | Time Shock | 398721 | [398721-time-shock.json](./398721-time-shock.json) |
 | Time Skip | 96615 | [96615-time-skip.json](./96615-time-skip.json) |
+| Time Slaughter | 50082 | [50082-time-slaughter.json](./50082-time-slaughter.json) |
 | Time Slip | 266647 | [266647-time-slip.json](./266647-time-slip.json) |
 | Time Slip | 42442 | [42442-time-slip.json](./42442-time-slip.json) |
 | Time Sliper | 346788 | [346788-time-sliper.json](./346788-time-sliper.json) |
@@ -28260,6 +28267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony La Russa Baseball | 78789 | [78789-tony-la-russa-baseball.json](./78789-tony-la-russa-baseball.json) |
 | Tony La Russa Baseball '95 | 95378 | [95378-tony-la-russa-baseball-95.json](./95378-tony-la-russa-baseball-95.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
+| Tony La Russa Baseball 3 | 50101 | [50101-tony-la-russa-baseball-3.json](./50101-tony-la-russa-baseball-3.json) |
 | Tony La Russa Baseball 4 | 62323 | [62323-tony-la-russa-baseball-4.json](./62323-tony-la-russa-baseball-4.json) |
 | Tony La Russa's Ultimate Baseball | 95470 | [95470-tony-la-russas-ultimate-baseball.json](./95470-tony-la-russas-ultimate-baseball.json) |
 | Tony La Russa's Ultimate Baseball: Ultimate Expansion Disk - Great Teams 1901-1968 Disk | 72150 | [72150-tony-la-russas-ultimate-baseball-ultimate-expansion-disk-great-teams-1901-1968-disk.json](./72150-tony-la-russas-ultimate-baseball-ultimate-expansion-disk-great-teams-1901-1968-disk.json) |
@@ -28932,6 +28940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Club Manager 2005 | 6210 | [6210-total-club-manager-2005.json](./6210-total-club-manager-2005.json) |
 | Total Conflict: Resistance | 199677 | [199677-total-conflict-resistance.json](./199677-total-conflict-resistance.json) |
 | Total Conflict: Resistance - Eastern Airborne Forces | 304418 | [304418-total-conflict-resistance-eastern-airborne-forces.json](./304418-total-conflict-resistance-eastern-airborne-forces.json) |
+| Total Conquest | 50090 | [50090-total-conquest.json](./50090-total-conquest.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Control | 288583 | [288583-total-control.json](./288583-total-control.json) |
 | Total Control Football | 78782 | [78782-total-control-football.json](./78782-total-control-football.json) |
