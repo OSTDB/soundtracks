@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
 | Paparazzi | 81503 | [81503-paparazzi.json](./81503-paparazzi.json) |
 | Paparazzi Simulator | 127428 | [127428-paparazzi-simulator.json](./127428-paparazzi-simulator.json) |
+| Paparazzi!: Tales of Tinseltown | 69990 | [69990-paparazzi-tales-of-tinseltown.json](./69990-paparazzi-tales-of-tinseltown.json) |
 | Papaya Plaza | 403774 | [403774-papaya-plaza.json](./403774-papaya-plaza.json) |
 | Papaye Bang Bang VR | 256181 | [256181-papaye-bang-bang-vr.json](./256181-papaye-bang-bang-vr.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
@@ -5747,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 96 | 4285 | [4285-pga-tour-96.json](./4285-pga-tour-96.json) |
 | PGA Tour 96 TPC at Sawgrass Championship Course | 209982 | [209982-pga-tour-96-tpc-at-sawgrass-championship-course.json](./209982-pga-tour-96-tpc-at-sawgrass-championship-course.json) |
 | PGA Tour 96: Wentworth | 209981 | [209981-pga-tour-96-wentworth.json](./209981-pga-tour-96-wentworth.json) |
+| PGA Tour Gold | 69971 | [69971-pga-tour-gold.json](./69971-pga-tour-gold.json) |
 | PGA Tour Golf | 12714 | [12714-pga-tour-golf.json](./12714-pga-tour-golf.json) |
 | PGA Tour Golf | 217729 | [217729-pga-tour-golf.json](./217729-pga-tour-golf.json) |
 | PGA Tour Golf | 245425 | [245425-pga-tour-golf.json](./245425-pga-tour-golf.json) |
@@ -10078,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Attack | 204155 | [204155-plane-attack.json](./204155-plane-attack.json) |
 | Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
 | Plane Control | 88689 | [88689-plane-control.json](./88689-plane-control.json) |
+| Plane Crazy | 69981 | [69981-plane-crazy.json](./69981-plane-crazy.json) |
 | Plane Crazy Championship Edition | 378691 | [378691-plane-crazy-championship-edition.json](./378691-plane-crazy-championship-edition.json) |
 | Plane Destroyer | 329627 | [329627-plane-destroyer.json](./329627-plane-destroyer.json) |
 | Plane Flight Simulator | 380171 | [380171-plane-flight-simulator.json](./380171-plane-flight-simulator.json) |
