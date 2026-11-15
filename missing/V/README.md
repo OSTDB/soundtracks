@@ -4028,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoo Chronicles: The First Sign | 63601 | [63601-voodoo-chronicles-the-first-sign.json](./63601-voodoo-chronicles-the-first-sign.json) |
 | Voodoo Chronicles: The First Sign HD - Director's Cut Edition | 24762 | [24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json](./24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json) |
 | Voodoo Detective | 197519 | [197519-voodoo-detective.json](./197519-voodoo-detective.json) |
+| Voodoo Dice | 16167 | [16167-voodoo-dice.json](./16167-voodoo-dice.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
 | Voodoo Fishin' | 350020 | [350020-voodoo-fishin.json](./350020-voodoo-fishin.json) |
 | Voodoo Girl: Queen of the Darned | 70286 | [70286-voodoo-girl-queen-of-the-darned.json](./70286-voodoo-girl-queen-of-the-darned.json) |
