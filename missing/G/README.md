@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Chaos | 420481 | [420481-garage-chaos.json](./420481-garage-chaos.json) |
 | Garage Escape | 74709 | [74709-garage-escape.json](./74709-garage-escape.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
+| Garage Inc | 65650 | [65650-garage-inc.json](./65650-garage-inc.json) |
 | Garage Master 2018 | 104906 | [104906-garage-master-2018.json](./104906-garage-master-2018.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Mechanic Simulator 3D | 315895 | [315895-garage-mechanic-simulator-3d.json](./315895-garage-mechanic-simulator-3d.json) |
@@ -9510,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Grid | 407685 | [407685-gravity-grid.json](./407685-gravity-grid.json) |
 | Gravity Grove | 409385 | [409385-gravity-grove.json](./409385-gravity-grove.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
+| Gravity Guy | 65682 | [65682-gravity-guy.json](./65682-gravity-guy.json) |
 | Gravity Guy 2 | 64142 | [64142-gravity-guy-2.json](./64142-gravity-guy-2.json) |
 | Gravity Guy Race | 237733 | [237733-gravity-guy-race.json](./237733-gravity-guy-race.json) |
 | Gravity Heroes | 116512 | [116512-gravity-heroes.json](./116512-gravity-heroes.json) |
