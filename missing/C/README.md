@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Ghosts - Devastation | 20936 | [20936-call-of-duty-ghosts-devastation.json](./20936-call-of-duty-ghosts-devastation.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Ghosts - Gold Edition | 100000 | [100000-call-of-duty-ghosts-gold-edition.json](./100000-call-of-duty-ghosts-gold-edition.json) |
+| Call of Duty: Ghosts - Hardened Edition | 47493 | [47493-call-of-duty-ghosts-hardened-edition.json](./47493-call-of-duty-ghosts-hardened-edition.json) |
 | Call of Duty: Ghosts - Invasion | 20870 | [20870-call-of-duty-ghosts-invasion.json](./20870-call-of-duty-ghosts-invasion.json) |
 | Call of Duty: Ghosts - Nemesis | 20872 | [20872-call-of-duty-ghosts-nemesis.json](./20872-call-of-duty-ghosts-nemesis.json) |
 | Call of Duty: Ghosts - Onslaught | 20935 | [20935-call-of-duty-ghosts-onslaught.json](./20935-call-of-duty-ghosts-onslaught.json) |
@@ -7192,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChatBoss | 400506 | [400506-chatboss.json](./400506-chatboss.json) |
 | Chatbotaged | 208471 | [208471-chatbotaged.json](./208471-chatbotaged.json) |
 | ChatChat | 80226 | [80226-chatchat.json](./80226-chatchat.json) |
+| Chateau Garden | 47581 | [47581-chateau-garden.json](./47581-chateau-garden.json) |
 | Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
 | Château Royale Jigsaw | 357875 | [357875-chateau-royale-jigsaw.json](./357875-chateau-royale-jigsaw.json) |
 | Château Royale Jigsaw: Expansion Pack 1 | 357876 | [357876-chateau-royale-jigsaw-expansion-pack-1.json](./357876-chateau-royale-jigsaw-expansion-pack-1.json) |
@@ -12413,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster Mania | 306926 | [306926-coaster-mania.json](./306926-coaster-mania.json) |
 | Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
+| Coaster Race | 47519 | [47519-coaster-race.json](./47519-coaster-race.json) |
 | Coaster Racer | 386082 | [386082-coaster-racer.json](./386082-coaster-racer.json) |
 | Coaster Works | 6725 | [6725-coaster-works.json](./6725-coaster-works.json) |
 | Coasterama | 372830 | [372830-coasterama.json](./372830-coasterama.json) |
@@ -20095,6 +20098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
+| Crossed Swords II | 47588 | [47588-crossed-swords-ii.json](./47588-crossed-swords-ii.json) |
 | Crossed Tiles | 391696 | [391696-crossed-tiles.json](./391696-crossed-tiles.json) |
 | Crossed Wires | 291191 | [291191-crossed-wires.json](./291191-crossed-wires.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
@@ -21054,6 +21058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Maze | 85792 | [85792-crystal-maze.json](./85792-crystal-maze.json) |
 | Crystal Mines | 269731 | [269731-crystal-mines.json](./269731-crystal-mines.json) |
 | Crystal Mines | 48141 | [48141-crystal-mines.json](./48141-crystal-mines.json) |
+| Crystal Mines II | 46921 | [46921-crystal-mines-ii.json](./46921-crystal-mines-ii.json) |
 | Crystal Mines II: Buried Treasure | 64564 | [64564-crystal-mines-ii-buried-treasure.json](./64564-crystal-mines-ii-buried-treasure.json) |
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
