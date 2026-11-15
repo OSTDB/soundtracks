@@ -27027,6 +27027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: First Departure | 24299 | [24299-star-ocean-first-departure.json](./24299-star-ocean-first-departure.json) |
 | Star Ocean: First Departure R | 119057 | [119057-star-ocean-first-departure-r.json](./119057-star-ocean-first-departure-r.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
+| Star Ocean: Integrity and Faithlessness - Limited Edition | 42956 | [42956-star-ocean-integrity-and-faithlessness-limited-edition.json](./42956-star-ocean-integrity-and-faithlessness-limited-edition.json) |
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Divine Force - Digital Deluxe Edition | 225378 | [225378-star-ocean-the-divine-force-digital-deluxe-edition.json](./225378-star-ocean-the-divine-force-digital-deluxe-edition.json) |
