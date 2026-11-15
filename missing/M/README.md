@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machiavelli the Prince | 14463 | [14463-machiavelli-the-prince.json](./14463-machiavelli-the-prince.json) |
 | Machiavelli's Ascent | 68549 | [68549-machiavellis-ascent.json](./68549-machiavellis-ascent.json) |
 | Machiavellian Suns | 101877 | [101877-machiavellian-suns.json](./101877-machiavellian-suns.json) |
+| MachiaVillain | 27497 | [27497-machiavillain.json](./27497-machiavillain.json) |
 | Machick | 293342 | [293342-machick.json](./293342-machick.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machick 2: Journey to the East | 381066 | [381066-machick-2-journey-to-the-east.json](./381066-machick-2-journey-to-the-east.json) |
@@ -3052,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Malicious | 26582 | [26582-malicious.json](./26582-malicious.json) |
 | Malicious Dinner | 125523 | [125523-malicious-dinner.json](./125523-malicious-dinner.json) |
+| Malicious Fallen | 26499 | [26499-malicious-fallen.json](./26499-malicious-fallen.json) |
 | Malicious Mages | 216652 | [216652-malicious-mages.json](./216652-malicious-mages.json) |
 | Malicious Payload | 114509 | [114509-malicious-payload.json](./114509-malicious-payload.json) |
 | Malicious Rebirth | 26584 | [26584-malicious-rebirth.json](./26584-malicious-rebirth.json) |
