@@ -13524,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Gateball | 42092 | [42092-appare-gateball.json](./42092-appare-gateball.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
+| Apparently an Apprentice Alchemist | 428144 | [428144-apparently-an-apprentice-alchemist.json](./428144-apparently-an-apprentice-alchemist.json) |
 | Apparition | 151958 | [151958-apparition.json](./151958-apparition.json) |
 | Apparition | 75926 | [75926-apparition.json](./75926-apparition.json) |
 | Apparition Finder | 138887 | [138887-apparition-finder.json](./138887-apparition-finder.json) |
@@ -13765,6 +13766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquamarine: Explorer's Edition | 390486 | [390486-aquamarine-explorers-edition.json](./390486-aquamarine-explorers-edition.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | Aquamorphosis | 242716 | [242716-aquamorphosis.json](./242716-aquamorphosis.json) |
+| Aquamorta | 428127 | [428127-aquamorta.json](./428127-aquamorta.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
 | Aquanaut | 14168 | [14168-aquanaut.json](./14168-aquanaut.json) |
 | Aquanaut | 153788 | [153788-aquanaut.json](./153788-aquanaut.json) |
