@@ -22773,6 +22773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Cycle | 130047 | [130047-cyber-cycle.json](./130047-cyber-cycle.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
 | Cyber Daisenryaku | 69002 | [69002-cyber-daisenryaku.json](./69002-cyber-daisenryaku.json) |
+| Cyber Danganronpa VR: The Class Trial | 54622 | [54622-cyber-danganronpa-vr-the-class-trial.json](./54622-cyber-danganronpa-vr-the-class-trial.json) |
 | Cyber Defense 2088 | 154896 | [154896-cyber-defense-2088.json](./154896-cyber-defense-2088.json) |
 | Cyber Detective | 244570 | [244570-cyber-detective.json](./244570-cyber-detective.json) |
 | Cyber Diver | 176721 | [176721-cyber-diver.json](./176721-cyber-diver.json) |
