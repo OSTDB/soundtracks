@@ -7317,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benjo 10 | 401371 | [401371-benjo-10.json](./401371-benjo-10.json) |
 | Benjy Adventure | 417675 | [417675-benjy-adventure.json](./417675-benjy-adventure.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
+| Benkei Gaiden: Suna no Shou | 16140 | [16140-benkei-gaiden-suna-no-shou.json](./16140-benkei-gaiden-suna-no-shou.json) |
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
 | Bennu | 94057 | [94057-bennu.json](./94057-bennu.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
@@ -14462,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
 | Bonny's Adventure | 28258 | [28258-bonnys-adventure.json](./28258-bonnys-adventure.json) |
 | Bonobros | 251900 | [251900-bonobros.json](./251900-bonobros.json) |
+| Bonogurashi | 16307 | [16307-bonogurashi.json](./16307-bonogurashi.json) |
 | Bonoru Adventures | 303360 | [303360-bonoru-adventures.json](./303360-bonoru-adventures.json) |
 | Bonsai | 33529 | [33529-bonsai.json](./33529-bonsai.json) |
 | Bonsai Blast | 65235 | [65235-bonsai-blast.json](./65235-bonsai-blast.json) |
@@ -14579,6 +14581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Hours: Perpetual Edition | 262111 | [262111-book-of-hours-perpetual-edition.json](./262111-book-of-hours-perpetual-edition.json) |
 | Book of Hours: Perpetual Edition DLC | 262230 | [262230-book-of-hours-perpetual-edition-dlc.json](./262230-book-of-hours-perpetual-edition-dlc.json) |
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
+| Book of Legends | 16160 | [16160-book-of-legends.json](./16160-book-of-legends.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
 | Book of Merlin | 33767 | [33767-book-of-merlin.json](./33767-book-of-merlin.json) |
@@ -19141,6 +19144,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-a-Bear Workshop: Welcome to Hugsville | 47913 | [47913-build-a-bear-workshop-welcome-to-hugsville.json](./47913-build-a-bear-workshop-welcome-to-hugsville.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
 | Build-A-Delivery | 257337 | [257337-build-a-delivery.json](./257337-build-a-delivery.json) |
+| Build-A-Lot 2: Town of the Year | 16087 | [16087-build-a-lot-2-town-of-the-year.json](./16087-build-a-lot-2-town-of-the-year.json) |
+| Build-A-Lot 3: Passport to Europe | 16088 | [16088-build-a-lot-3-passport-to-europe.json](./16088-build-a-lot-3-passport-to-europe.json) |
 | Build-a-lot 3: Passport to Europe HD | 175586 | [175586-build-a-lot-3-passport-to-europe-hd.json](./175586-build-a-lot-3-passport-to-europe-hd.json) |
 | Build-A-Lot 4: Power Source | 16089 | [16089-build-a-lot-4-power-source.json](./16089-build-a-lot-4-power-source.json) |
 | Build-a-lot 4: Power Source HD | 99722 | [99722-build-a-lot-4-power-source-hd.json](./99722-build-a-lot-4-power-source-hd.json) |
@@ -19813,6 +19818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
 | Burai II: Yami Koutei no Gyakushuu | 70764 | [70764-burai-ii-yami-koutei-no-gyakushuu.json](./70764-burai-ii-yami-koutei-no-gyakushuu.json) |
 | Burai: Gekan Kanketsu-hen | 65292 | [65292-burai-gekan-kanketsu-hen.json](./65292-burai-gekan-kanketsu-hen.json) |
+| Burai: Hachigyoku no Yuushi Densetsu | 16293 | [16293-burai-hachigyoku-no-yuushi-densetsu.json](./16293-burai-hachigyoku-no-yuushi-densetsu.json) |
 | Burai: Joukan | 65293 | [65293-burai-joukan.json](./65293-burai-joukan.json) |
 | Buraigun: Galaxy Storm | 151561 | [151561-buraigun-galaxy-storm.json](./151561-buraigun-galaxy-storm.json) |
 | Burak Bahar's Unseen Anchor | 83594 | [83594-burak-bahars-unseen-anchor.json](./83594-burak-bahars-unseen-anchor.json) |
@@ -20327,6 +20333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
 | Bushgame: The Anti-Bush Video Game | 71928 | [71928-bushgame-the-anti-bush-video-game.json](./71928-bushgame-the-anti-bush-video-game.json) |
 | Bushi | 186997 | [186997-bushi.json](./186997-bushi.json) |
+| Bushi Seiryuu-den: Futari no Yuusha | 16294 | [16294-bushi-seiryuu-den-futari-no-yuusha.json](./16294-bushi-seiryuu-den-futari-no-yuusha.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
 | Bushido | 177656 | [177656-bushido.json](./177656-bushido.json) |
 | Bushido Ball | 318661 | [318661-bushido-ball.json](./318661-bushido-ball.json) |
