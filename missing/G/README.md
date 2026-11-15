@@ -1832,11 +1832,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Kira-kira Douchuu - Boku ga Dancer ni Natta Wake | 77854 | [77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json](./77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json) |
 | Ganbare Goemon: Kuru Nara Koi! - Ayashi Geikka no Kuroi Kage | 68750 | [68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json](./68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json) |
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
+| Ganbare Goemon: Ooedo Daikaiten | 44794 | [44794-ganbare-goemon-ooedo-daikaiten.json](./44794-ganbare-goemon-ooedo-daikaiten.json) |
 | Ganbare Goemon: Sarawareta Ebisumaru! | 62493 | [62493-ganbare-goemon-sarawareta-ebisumaru.json](./62493-ganbare-goemon-sarawareta-ebisumaru.json) |
 | Ganbare Goemon: Seikuushi Dynamites Arawaru!! | 50053 | [50053-ganbare-goemon-seikuushi-dynamites-arawaru.json](./50053-ganbare-goemon-seikuushi-dynamites-arawaru.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Tentekomai-mai Meikyuu-kan | 186467 | [186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json](./186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
+| Ganbare Goemon: Uchuu Kaizoku Akogingu | 44808 | [44808-ganbare-goemon-uchuu-kaizoku-akogingu.json](./44808-ganbare-goemon-uchuu-kaizoku-akogingu.json) |
 | Ganbare Goemon: Yukihime Kyuushutsu Emaki | 371833 | [371833-ganbare-goemon-yukihime-kyuushutsu-emaki.json](./371833-ganbare-goemon-yukihime-kyuushutsu-emaki.json) |
 | Ganbare Goemon!: Karakuri Douchuu | 41718 | [41718-ganbare-goemon-karakuri-douchuu.json](./41718-ganbare-goemon-karakuri-douchuu.json) |
 | Ganbare Golf Boys | 44330 | [44330-ganbare-golf-boys.json](./44330-ganbare-golf-boys.json) |
