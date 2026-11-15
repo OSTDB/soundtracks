@@ -3754,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. 5: Clone Tag Team 2 | 146279 | [146279-new-super-mario-bros-5-clone-tag-team-2.json](./146279-new-super-mario-bros-5-clone-tag-team-2.json) |
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
 | New Super Mario Bros. DS Co-Op | 294785 | [294785-new-super-mario-bros-ds-co-op.json](./294785-new-super-mario-bros-ds-co-op.json) |
+| New Super Mario Bros. DS: Vanilla+ | 426399 | [426399-new-super-mario-bros-ds-vanilla.json](./426399-new-super-mario-bros-ds-vanilla.json) |
 | New Super Mario Bros. F | 255602 | [255602-new-super-mario-bros-f.json](./255602-new-super-mario-bros-f.json) |
 | New Super Mario Bros. Legacy | 313387 | [313387-new-super-mario-bros-legacy.json](./313387-new-super-mario-bros-legacy.json) |
 | New Super Mario Bros. Mii | 175961 | [175961-new-super-mario-bros-mii.json](./175961-new-super-mario-bros-mii.json) |
@@ -6448,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Endurance | 221534 | [221534-no-mans-sky-endurance.json](./221534-no-mans-sky-endurance.json) |
 | No Man's Sky: Exo Mech | 222090 | [222090-no-mans-sky-exo-mech.json](./222090-no-mans-sky-exo-mech.json) |
 | No Man's Sky: Expeditions | 221635 | [221635-no-mans-sky-expeditions.json](./221635-no-mans-sky-expeditions.json) |
+| No Man's Sky: Forsaken | 426339 | [426339-no-mans-sky-forsaken.json](./426339-no-mans-sky-forsaken.json) |
 | No Man's Sky: Foundation | 222782 | [222782-no-mans-sky-foundation.json](./222782-no-mans-sky-foundation.json) |
 | No Man's Sky: Fractal | 239278 | [239278-no-mans-sky-fractal.json](./239278-no-mans-sky-fractal.json) |
 | No Man's Sky: Frontiers | 221607 | [221607-no-mans-sky-frontiers.json](./221607-no-mans-sky-frontiers.json) |
