@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Brawl | 258662 | [258662-god-brawl.json](./258662-god-brawl.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
 | God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
+| God Candle | 428110 | [428110-god-candle.json](./428110-god-candle.json) |
 | God Codex | 423662 | [423662-god-codex.json](./423662-god-codex.json) |
 | God Cop Bad Cop | 157518 | [157518-god-cop-bad-cop.json](./157518-god-cop-bad-cop.json) |
 | God Crafter | 309456 | [309456-god-crafter.json](./309456-god-crafter.json) |
@@ -7849,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Luck, Little Truck! | 422106 | [422106-good-luck-little-truck.json](./422106-good-luck-little-truck.json) |
 | Good Luck, Stay Safe | 217118 | [217118-good-luck-stay-safe.json](./217118-good-luck-stay-safe.json) |
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
+| Good Meat | 428150 | [428150-good-meat.json](./428150-good-meat.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
 | Good Morning | 84579 | [84579-good-morning.json](./84579-good-morning.json) |
