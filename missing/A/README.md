@@ -17506,6 +17506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: The Master Assassin's Edition | 308856 | [308856-assassins-creed-ii-the-master-assassins-edition.json](./308856-assassins-creed-ii-the-master-assassins-edition.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
+| Assassin's Creed III + Rebel Collection | 422005 | [422005-assassins-creed-iii-rebel-collection.json](./422005-assassins-creed-iii-rebel-collection.json) |
 | Assassin's Creed III Mobile | 68530 | [68530-assassins-creed-iii-mobile.json](./68530-assassins-creed-iii-mobile.json) |
 | Assassin's Creed III Remastered | 109532 | [109532-assassins-creed-iii-remastered.json](./109532-assassins-creed-iii-remastered.json) |
 | Assassin's Creed III Remastered | 237701 | [237701-assassins-creed-iii-remastered.json](./237701-assassins-creed-iii-remastered.json) |
@@ -19756,6 +19757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmented Future | 284546 | [284546-augmented-future.json](./284546-augmented-future.json) |
 | Augmentors | 112252 | [112252-augmentors.json](./112252-augmentors.json) |
 | Augur | 128811 | [128811-augur.json](./128811-augur.json) |
+| Augur | 421992 | [421992-augur.json](./421992-augur.json) |
 | Augur & Haruspex | 183377 | [183377-augur-and-haruspex.json](./183377-augur-and-haruspex.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
 | Augury | 146397 | [146397-augury.json](./146397-augury.json) |
