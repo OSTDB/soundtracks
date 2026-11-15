@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palingenesis | 329082 | [329082-palingenesis.json](./329082-palingenesis.json) |
 | Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
 | Palisade | 135455 | [135455-palisade.json](./135455-palisade.json) |
+| Palisade | 429734 | [429734-palisade.json](./429734-palisade.json) |
 | Palisade Guardian | 387946 | [387946-palisade-guardian.json](./387946-palisade-guardian.json) |
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palitron | 58199 | [58199-palitron.json](./58199-palitron.json) |
@@ -6475,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photogeist Albums: Stayfer River Saga | 379414 | [379414-photogeist-albums-stayfer-river-saga.json](./379414-photogeist-albums-stayfer-river-saga.json) |
 | Photogenic | 283558 | [283558-photogenic.json](./283558-photogenic.json) |
 | Photogenic Minds: Identity | 213543 | [213543-photogenic-minds-identity.json](./213543-photogenic-minds-identity.json) |
+| Photoghost | 429746 | [429746-photoghost.json](./429746-photoghost.json) |
 | Photographer's Life Simulator | 346716 | [346716-photographers-life-simulator.json](./346716-photographers-life-simulator.json) |
 | Photographic Memory Test | 308506 | [308506-photographic-memory-test.json](./308506-photographic-memory-test.json) |
 | Photography | 342104 | [342104-photography.json](./342104-photography.json) |
@@ -8881,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Adventure | 152995 | [152995-pixel-adventure.json](./152995-pixel-adventure.json) |
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
 | Pixel Anarchy Online | 137974 | [137974-pixel-anarchy-online.json](./137974-pixel-anarchy-online.json) |
+| Pixel Ant: Colony Feast | 429767 | [429767-pixel-ant-colony-feast.json](./429767-pixel-ant-colony-feast.json) |
 | Pixel Aquarium | 400536 | [400536-pixel-aquarium.json](./400536-pixel-aquarium.json) |
 | Pixel Arcade | 319281 | [319281-pixel-arcade.json](./319281-pixel-arcade.json) |
 | Pixel Arcade | 52027 | [52027-pixel-arcade.json](./52027-pixel-arcade.json) |
@@ -10354,6 +10357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of Luck | 137238 | [137238-planet-of-luck.json](./137238-planet-of-luck.json) |
 | Planet of Lust | 71086 | [71086-planet-of-lust.json](./71086-planet-of-lust.json) |
+| Planet of Mubu | 29320 | [29320-planet-of-mubu.json](./29320-planet-of-mubu.json) |
 | Planet of Pirates | 115533 | [115533-planet-of-pirates.json](./115533-planet-of-pirates.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
 | Planet of the Apes | 282414 | [282414-planet-of-the-apes.json](./282414-planet-of-the-apes.json) |
