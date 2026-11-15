@@ -4406,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Journey | 31345 | [31345-vr-journey.json](./31345-vr-journey.json) |
 | VR Jurassic Escape | 146971 | [146971-vr-jurassic-escape.json](./146971-vr-jurassic-escape.json) |
 | VR Jurassic island roller coaster | 208645 | [208645-vr-jurassic-island-roller-coaster.json](./208645-vr-jurassic-island-roller-coaster.json) |
+| VR Kanojo | 75900 | [75900-vr-kanojo.json](./75900-vr-kanojo.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
 | VR Karts | 35536 | [35536-vr-karts.json](./35536-vr-karts.json) |
 | VR Karts SteamVR | 34002 | [34002-vr-karts-steamvr.json](./34002-vr-karts-steamvr.json) |
