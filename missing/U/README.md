@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Zone | 241828 | [241828-undead-zone.json](./241828-undead-zone.json) |
 | Undead: Rise of Betrayed King | 278503 | [278503-undead-rise-of-betrayed-king.json](./278503-undead-rise-of-betrayed-king.json) |
 | Undead's Building | 117972 | [117972-undeads-building.json](./117972-undeads-building.json) |
+| Undeadline | 41630 | [41630-undeadline.json](./41630-undeadline.json) |
 | Undeadly | 152564 | [152564-undeadly.json](./152564-undeadly.json) |
 | Undeads | 281913 | [281913-undeads.json](./281913-undeads.json) |
 | Undeads vs. Humans | 192497 | [192497-undeads-vs-humans.json](./192497-undeads-vs-humans.json) |
