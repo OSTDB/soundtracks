@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icha Icha Steady | 410608 | [410608-icha-icha-steady.json](./410608-icha-icha-steady.json) |
 | Icha x2 Study Yuno: Dear Future | 410609 | [410609-icha-x2-study-yuno-dear-future.json](./410609-icha-x2-study-yuno-dear-future.json) |
 | Icharko | 277255 | [277255-icharko.json](./277255-icharko.json) |
+| iChess 3D | 87448 | [87448-ichess-3d.json](./87448-ichess-3d.json) |
 | iChess Park | 175054 | [175054-ichess-park.json](./175054-ichess-park.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
 | Ichigeki Nyuukon! Panda Ball | 206506 | [206506-ichigeki-nyuukon-panda-ball.json](./206506-ichigeki-nyuukon-panda-ball.json) |
@@ -1402,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ideal | 340519 | [340519-ideal.json](./340519-ideal.json) |
 | Ideal Gas | 236755 | [236755-ideal-gas.json](./236755-ideal-gas.json) |
 | Ideal Nightmare | 212001 | [212001-ideal-nightmare.json](./212001-ideal-nightmare.json) |
+| Ideal Solitaire | 87395 | [87395-ideal-solitaire.json](./87395-ideal-solitaire.json) |
 | Idemitsu: Space College - Easy Physics and Chemisty of Dangerous Goods | 122116 | [122116-idemitsu-space-college-easy-physics-and-chemisty-of-dangerous-goods.json](./122116-idemitsu-space-college-easy-physics-and-chemisty-of-dangerous-goods.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Identikit | 210062 | [210062-identikit.json](./210062-identikit.json) |
@@ -5101,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside & Limbo Bundle | 165866 | [165866-inside-and-limbo-bundle.json](./165866-inside-and-limbo-bundle.json) |
 | Inside a Dead Skyscraper | 316687 | [316687-inside-a-dead-skyscraper.json](./316687-inside-a-dead-skyscraper.json) |
 | Inside a Dungeon | 244661 | [244661-inside-a-dungeon.json](./244661-inside-a-dungeon.json) |
+| Inside a Star-filled Sky | 15137 | [15137-inside-a-star-filled-sky.json](./15137-inside-a-star-filled-sky.json) |
 | Inside Darkness | 396703 | [396703-inside-darkness.json](./396703-inside-darkness.json) |
 | Inside Depth 6 | 144581 | [144581-inside-depth-6.json](./144581-inside-depth-6.json) |
 | Inside Explorer | 148966 | [148966-inside-explorer.json](./148966-inside-explorer.json) |
