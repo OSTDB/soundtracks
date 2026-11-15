@@ -10330,6 +10330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band: Country Track Pack | 68407 | [68407-rock-band-country-track-pack.json](./68407-rock-band-country-track-pack.json) |
 | Rock Band: Japan | 250664 | [250664-rock-band-japan.json](./250664-rock-band-japan.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
+| Rock Band: Track Pack - Volume 1 | 43593 | [43593-rock-band-track-pack-volume-1.json](./43593-rock-band-track-pack-volume-1.json) |
 | Rock Band: Track Pack - Volume 2 | 80287 | [80287-rock-band-track-pack-volume-2.json](./80287-rock-band-track-pack-volume-2.json) |
 | Rock Blast | 47778 | [47778-rock-blast.json](./47778-rock-blast.json) |
 | Rock Boshers DX | 22112 | [22112-rock-boshers-dx.json](./22112-rock-boshers-dx.json) |
@@ -13847,6 +13848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa's Date | 117997 | [117997-runas-date.json](./117997-runas-date.json) |
 | Runa's School Story | 114066 | [114066-runas-school-story.json](./114066-runas-school-story.json) |
 | Runabout 2 | 44900 | [44900-runabout-2.json](./44900-runabout-2.json) |
+| Runabout 3: Neo Age | 43599 | [43599-runabout-3-neo-age.json](./43599-runabout-3-neo-age.json) |
 | Runabout 3D: Drive Impossible | 64850 | [64850-runabout-3d-drive-impossible.json](./64850-runabout-3d-drive-impossible.json) |
 | Runai | 368613 | [368613-runai.json](./368613-runai.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
@@ -13965,6 +13967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Rune: Halls of Valhalla | 70737 | [70737-rune-halls-of-valhalla.json](./70737-rune-halls-of-valhalla.json) |
+| Rune: Viking Warlord | 43582 | [43582-rune-viking-warlord.json](./43582-rune-viking-warlord.json) |
 | Runeboard | 408402 | [408402-runeboard.json](./408402-runeboard.json) |
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
 | Runeborn | 317052 | [317052-runeborn.json](./317052-runeborn.json) |
