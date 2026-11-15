@@ -4705,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Sub-Zero | 164818 | [164818-injustice-2-sub-zero.json](./164818-injustice-2-sub-zero.json) |
 | Injustice 2: The Atom | 165044 | [165044-injustice-2-the-atom.json](./165044-injustice-2-the-atom.json) |
 | Injustice 2: TMNT | 164834 | [164834-injustice-2-tmnt.json](./164834-injustice-2-tmnt.json) |
+| Injustice 2: Ultimate Edition | 41636 | [41636-injustice-2-ultimate-edition.json](./41636-injustice-2-ultimate-edition.json) |
 | Injustice 3 | 139807 | [139807-injustice-3.json](./139807-injustice-3.json) |
 | Injustice Arcade | 212781 | [212781-injustice-arcade.json](./212781-injustice-arcade.json) |
 | Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
