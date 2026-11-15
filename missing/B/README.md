@@ -11876,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocked-Out! | 305805 | [305805-blocked-out.json](./305805-blocked-out.json) |
 | Blocked! | 207580 | [207580-blocked.json](./207580-blocked.json) |
 | Blockee | 171130 | [171130-blockee.json](./171130-blockee.json) |
+| Blocken | 40277 | [40277-blocken.json](./40277-blocken.json) |
 | Blocker | 15678 | [15678-blocker.json](./15678-blocker.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
@@ -13074,6 +13075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Screen Adventures | 31519 | [31519-blue-screen-adventures.json](./31519-blue-screen-adventures.json) |
 | Blue Seed: Kushinada Hirokuden | 45409 | [45409-blue-seed-kushinada-hirokuden.json](./45409-blue-seed-kushinada-hirokuden.json) |
+| Blue Shark | 40276 | [40276-blue-shark.json](./40276-blue-shark.json) |
 | Blue Sheep | 34306 | [34306-blue-sheep.json](./34306-blue-sheep.json) |
 | Blue Shutter | 367528 | [367528-blue-shutter.json](./367528-blue-shutter.json) |
 | Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
@@ -14703,6 +14705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
 | Boomer Grandma | 372379 | [372379-boomer-grandma.json](./372379-boomer-grandma.json) |
 | Boomer Rampage | 81828 | [81828-boomer-rampage.json](./81828-boomer-rampage.json) |
+| Boomer Rang'r | 40275 | [40275-boomer-rangr.json](./40275-boomer-rangr.json) |
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Slayers | 193587 | [193587-boomer-slayers.json](./193587-boomer-slayers.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
@@ -14988,6 +14991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | Boredom Survivors | 365264 | [365264-boredom-survivors.json](./365264-boredom-survivors.json) |
 | Borefest | 248228 | [248228-borefest.json](./248228-borefest.json) |
+| Borench | 40274 | [40274-borench.json](./40274-borench.json) |
 | Borewicz | 387066 | [387066-borewicz.json](./387066-borewicz.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Borfesu to 5-Jin no Akuma | 41731 | [41731-borfesu-to-5-jin-no-akuma.json](./41731-borfesu-to-5-jin-no-akuma.json) |
