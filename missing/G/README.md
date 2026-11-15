@@ -10001,6 +10001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Pond Town | 384294 | [384294-green-pond-town.json](./384294-green-pond-town.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
 | Green Rabbit | 194790 | [194790-green-rabbit.json](./194790-green-rabbit.json) |
+| Green Ranch | 32307 | [32307-green-ranch.json](./32307-green-ranch.json) |
 | Green Reaper | 246915 | [246915-green-reaper.json](./246915-green-reaper.json) |
 | Green Revival | 340325 | [340325-green-revival.json](./340325-green-revival.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
