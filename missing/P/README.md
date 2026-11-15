@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramorfosi | 274369 | [274369-paramorfosi.json](./274369-paramorfosi.json) |
 | Paramount Hero | 212843 | [212843-paramount-hero.json](./212843-paramount-hero.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
+| Paranautical Activity | 20981 | [20981-paranautical-activity.json](./20981-paranautical-activity.json) |
 | Paranautical Activity: Deluxe Atonement Edition | 21864 | [21864-paranautical-activity-deluxe-atonement-edition.json](./21864-paranautical-activity-deluxe-atonement-edition.json) |
 | Paranecro | 201459 | [201459-paranecro.json](./201459-paranecro.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
 | Paranoia: The Game Edition | 255574 | [255574-paranoia-the-game-edition.json](./255574-paranoia-the-game-edition.json) |
 | Paranoia: The Official Video Game | 90105 | [90105-paranoia-the-official-video-game.json](./90105-paranoia-the-official-video-game.json) |
+| Paranoiac | 62118 | [62118-paranoiac.json](./62118-paranoiac.json) |
 | Paranoiac: Remake Version | 198042 | [198042-paranoiac-remake-version.json](./198042-paranoiac-remake-version.json) |
 | Paranoiak | 208326 | [208326-paranoiak.json](./208326-paranoiak.json) |
 | ParanoiaScape | 123266 | [123266-paranoiascape.json](./123266-paranoiascape.json) |
