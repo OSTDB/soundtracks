@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 2: Pizza Party! for Mac | 87750 | [87750-farm-frenzy-2-pizza-party-for-mac.json](./87750-farm-frenzy-2-pizza-party-for-mac.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
+| Farm Frenzy 3: American Pie | 16094 | [16094-farm-frenzy-3-american-pie.json](./16094-farm-frenzy-3-american-pie.json) |
 | Farm Frenzy 3: Ancient Rome | 88412 | [88412-farm-frenzy-3-ancient-rome.json](./88412-farm-frenzy-3-ancient-rome.json) |
 | Farm Frenzy 3: Ancient Rome HD | 103750 | [103750-farm-frenzy-3-ancient-rome-hd.json](./103750-farm-frenzy-3-ancient-rome-hd.json) |
 | Farm Frenzy 3: Ice Age | 54032 | [54032-farm-frenzy-3-ice-age.json](./54032-farm-frenzy-3-ice-age.json) |
@@ -2768,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Gone Fishing | 54028 | [54028-farm-frenzy-gone-fishing.json](./54028-farm-frenzy-gone-fishing.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
 | Farm Frenzy: Hurricane Season | 35453 | [35453-farm-frenzy-hurricane-season.json](./35453-farm-frenzy-hurricane-season.json) |
+| Farm Frenzy: Pizza Party | 16092 | [16092-farm-frenzy-pizza-party.json](./16092-farm-frenzy-pizza-party.json) |
 | Farm Frenzy: Refreshed | 143155 | [143155-farm-frenzy-refreshed.json](./143155-farm-frenzy-refreshed.json) |
 | Farm Frenzy: Refreshed - Collector's Edition | 177101 | [177101-farm-frenzy-refreshed-collectors-edition.json](./177101-farm-frenzy-refreshed-collectors-edition.json) |
 | Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
@@ -10957,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forester Simulator | 158241 | [158241-forester-simulator.json](./158241-forester-simulator.json) |
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
 | Forester: First Step | 359160 | [359160-forester-first-step.json](./359160-forester-first-step.json) |
+| Forestia : la grande aventure | 16314 | [16314-forestia-la-grande-aventure.json](./16314-forestia-la-grande-aventure.json) |
 | Forestia Junior | 125581 | [125581-forestia-junior.json](./125581-forestia-junior.json) |
 | Forestia Révoltozoo | 389663 | [389663-forestia-revoltozoo.json](./389663-forestia-revoltozoo.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
@@ -13204,6 +13207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
 | Freeze Climbing | 28596 | [28596-freeze-climbing.json](./28596-freeze-climbing.json) |
 | Freeze Line | 423266 | [423266-freeze-line.json](./423266-freeze-line.json) |
+| Freeze Tag Fun Pack #1 | 16100 | [16100-freeze-tag-fun-pack-1.json](./16100-freeze-tag-fun-pack-1.json) |
 | Freeze the Core | 187292 | [187292-freeze-the-core.json](./187292-freeze-the-core.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze Whiz | 239436 | [239436-freeze-whiz.json](./239436-freeze-whiz.json) |
