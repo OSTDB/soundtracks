@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball 2003 | 132053 | [132053-backyard-baseball-2003.json](./132053-backyard-baseball-2003.json) |
 | Backyard Baseball 2005 | 205906 | [205906-backyard-baseball-2005.json](./205906-backyard-baseball-2005.json) |
 | Backyard Baseball 2006 | 132054 | [132054-backyard-baseball-2006.json](./132054-backyard-baseball-2006.json) |
+| Backyard Baseball 2009 | 73032 | [73032-backyard-baseball-2009.json](./73032-backyard-baseball-2009.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
 | Backyard Basketball 2001 | 50297 | [50297-backyard-basketball-2001.json](./50297-backyard-basketball-2001.json) |
@@ -13751,6 +13752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Adventures I | 84285 | [84285-bolo-adventures-i.json](./84285-bolo-adventures-i.json) |
+| Bolo Adventures III | 73915 | [73915-bolo-adventures-iii.json](./73915-bolo-adventures-iii.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
 | Bolo Legends: An Epic Adventure | 224903 | [224903-bolo-legends-an-epic-adventure.json](./224903-bolo-legends-an-epic-adventure.json) |
 | Bolsheviktion 2: Yurovsky's Revenge | 412479 | [412479-bolsheviktion-2-yurovskys-revenge.json](./412479-bolsheviktion-2-yurovskys-revenge.json) |
@@ -14072,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Selection | 56467 | [56467-bomberman-selection.json](./56467-bomberman-selection.json) |
 | Bomberman Story DS | 66613 | [66613-bomberman-story-ds.json](./66613-bomberman-story-ds.json) |
 | Bomberman Touch 2: Volcano Party | 162747 | [162747-bomberman-touch-2-volcano-party.json](./162747-bomberman-touch-2-volcano-party.json) |
+| Bomberman Touch: The Legend of Mystic Bomb | 73033 | [73033-bomberman-touch-the-legend-of-mystic-bomb.json](./73033-bomberman-touch-the-legend-of-mystic-bomb.json) |
 | Bomberman Tournament | 6334 | [6334-bomberman-tournament.json](./6334-bomberman-tournament.json) |
 | Bomberman Tower | 260870 | [260870-bomberman-tower.json](./260870-bomberman-tower.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
@@ -16454,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
 | Brave x Junction | 342093 | [342093-brave-x-junction.json](./342093-brave-x-junction.json) |
 | Brave: A Warrior's Tale | 4729 | [4729-brave-a-warriors-tale.json](./4729-brave-a-warriors-tale.json) |
+| Brave: Shaman's Challenge | 73023 | [73023-brave-shamans-challenge.json](./73023-brave-shamans-challenge.json) |
 | Brave: The Search for Spirit Dancer | 20689 | [20689-brave-the-search-for-spirit-dancer.json](./20689-brave-the-search-for-spirit-dancer.json) |
 | Braveboy | 333036 | [333036-braveboy.json](./333036-braveboy.json) |
 | BraveCart | 347864 | [347864-bravecart.json](./347864-bravecart.json) |
