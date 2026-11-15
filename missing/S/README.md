@@ -7066,6 +7066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Hotel Simulator | 253312 | [253312-sex-hotel-simulator.json](./253312-sex-hotel-simulator.json) |
 | Sex Hotel Simulator 18+ | 296600 | [296600-sex-hotel-simulator-18.json](./296600-sex-hotel-simulator-18.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
+| Sex Idler | 428149 | [428149-sex-idler.json](./428149-sex-idler.json) |
 | Sex in Space | 275709 | [275709-sex-in-space.json](./275709-sex-in-space.json) |
 | Sex In The Block | 313644 | [313644-sex-in-the-block.json](./313644-sex-in-the-block.json) |
 | Sex in the Sky | 256479 | [256479-sex-in-the-sky.json](./256479-sex-in-the-sky.json) |
@@ -19124,6 +19125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonar | 268046 | [268046-sonar.json](./268046-sonar.json) |
 | Sonar | 418276 | [418276-sonar.json](./418276-sonar.json) |
+| Sonar & Silence | 428133 | [428133-sonar-and-silence.json](./428133-sonar-and-silence.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
 | Sonar Scout | 319043 | [319043-sonar-scout.json](./319043-sonar-scout.json) |
 | Sonar Shock | 280376 | [280376-sonar-shock.json](./280376-sonar-shock.json) |
@@ -23224,6 +23226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
 | Sparrow Shop | 384196 | [384196-sparrow-shop.json](./384196-sparrow-shop.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
+| Sparrow Trails | 428116 | [428116-sparrow-trails.json](./428116-sparrow-trails.json) |
 | Sparrow Warfare | 368183 | [368183-sparrow-warfare.json](./368183-sparrow-warfare.json) |
 | Sparrows | 197795 | [197795-sparrows.json](./197795-sparrows.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
@@ -31914,6 +31917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strewn Runes | 187273 | [187273-strewn-runes.json](./187273-strewn-runes.json) |
 | Strexy Slayers | 276167 | [276167-strexy-slayers.json](./276167-strexy-slayers.json) |
 | Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
+| Strich Gauntlet | 428130 | [428130-strich-gauntlet.json](./428130-strich-gauntlet.json) |
 | Strid | 110402 | [110402-strid.json](./110402-strid.json) |
 | Strid: Full Edition | 170800 | [170800-strid-full-edition.json](./170800-strid-full-edition.json) |
 | Stride | 132959 | [132959-stride.json](./132959-stride.json) |
