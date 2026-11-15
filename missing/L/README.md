@@ -7668,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner: The Bungeling Strikes Back | 375137 | [375137-lode-runner-the-bungeling-strikes-back.json](./375137-lode-runner-the-bungeling-strikes-back.json) |
 | Lode Runner: The Dig Fight | 40371 | [40371-lode-runner-the-dig-fight.json](./40371-lode-runner-the-dig-fight.json) |
 | Lode Runner: The Legend Returns | 46964 | [46964-lode-runner-the-legend-returns.json](./46964-lode-runner-the-legend-returns.json) |
+| Lode Runner's Rescue | 26016 | [26016-lode-runners-rescue.json](./26016-lode-runners-rescue.json) |
 | Loded Depths | 373797 | [373797-loded-depths.json](./373797-loded-depths.json) |
 | Lodestar | 158033 | [158033-lodestar.json](./158033-lodestar.json) |
 | Lodestone: The crazy cave adventures of mad Stony Tony and his encounter with the exploding rolling stones | 130188 | [130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json](./130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json) |
