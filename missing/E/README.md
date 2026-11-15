@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EatToFight | 185611 | [185611-eattofight.json](./185611-eattofight.json) |
 | Eatventure | 208978 | [208978-eatventure.json](./208978-eatventure.json) |
 | Eatvolve | 146481 | [146481-eatvolve.json](./146481-eatvolve.json) |
+| EatWell | 52268 | [52268-eatwell.json](./52268-eatwell.json) |
 | EB Worlds | 153618 | [153618-eb-worlds.json](./153618-eb-worlds.json) |
 | Eba & Egg: A Hatch Trip | 54967 | [54967-eba-and-egg-a-hatch-trip.json](./54967-eba-and-egg-a-hatch-trip.json) |
 | eBall | 117546 | [117546-eball.json](./117546-eball.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoGenesis | 292745 | [292745-ecogenesis.json](./292745-ecogenesis.json) |
 | EcoGnomix | 259108 | [259108-ecognomix.json](./259108-ecognomix.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
+| Ecolibrium | 52170 | [52170-ecolibrium.json](./52170-ecolibrium.json) |
 | Ecollapse 2030: the world is ending and also you are a penguin | 180857 | [180857-ecollapse-2030-the-world-is-ending-and-also-you-are-a-penguin.json](./180857-ecollapse-2030-the-world-is-ending-and-also-you-are-a-penguin.json) |
 | EcoMahjong | 247652 | [247652-ecomahjong.json](./247652-ecomahjong.json) |
 | Ecoman | 134920 | [134920-ecoman.json](./134920-ecoman.json) |
@@ -2746,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
 | Elevator Action 3D | 286679 | [286679-elevator-action-3d.json](./286679-elevator-action-3d.json) |
 | Elevator Action 500 | 394313 | [394313-elevator-action-500.json](./394313-elevator-action-500.json) |
+| Elevator Action Deluxe | 52169 | [52169-elevator-action-deluxe.json](./52169-elevator-action-deluxe.json) |
 | Elevator Action EX | 50017 | [50017-elevator-action-ex.json](./50017-elevator-action-ex.json) |
 | Elevator Action Returns | 11729 | [11729-elevator-action-returns.json](./11729-elevator-action-returns.json) |
 | Elevator Action: Death Parade | 69123 | [69123-elevator-action-death-parade.json](./69123-elevator-action-death-parade.json) |
@@ -3033,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ells Tales: Egg | 302053 | [302053-ells-tales-egg.json](./302053-ells-tales-egg.json) |
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
 | Elly | 147048 | [147048-elly.json](./147048-elly.json) |
+| Elly the Jelly | 51607 | [51607-elly-the-jelly.json](./51607-elly-the-jelly.json) |
 | Elly's Adventure | 315203 | [315203-ellys-adventure.json](./315203-ellys-adventure.json) |
 | Elly's Cake Cafe | 167549 | [167549-ellys-cake-cafe.json](./167549-ellys-cake-cafe.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
@@ -3701,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire XP | 89590 | [89590-empire-xp.json](./89590-empire-xp.json) |
 | Empire Z | 106738 | [106738-empire-z.json](./106738-empire-z.json) |
 | Empire Z: Endless War | 87904 | [87904-empire-z-endless-war.json](./87904-empire-z-endless-war.json) |
+| Empire: Alpha Complex | 52168 | [52168-empire-alpha-complex.json](./52168-empire-alpha-complex.json) |
 | Empire: Four Kingdoms | 38893 | [38893-empire-four-kingdoms.json](./38893-empire-four-kingdoms.json) |
 | Empire: Galaxy Burning | 274622 | [274622-empire-galaxy-burning.json](./274622-empire-galaxy-burning.json) |
 | Empire: Sound of the North | 311511 | [311511-empire-sound-of-the-north.json](./311511-empire-sound-of-the-north.json) |
@@ -4071,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ender Story: Chapter 1 | 80903 | [80903-ender-story-chapter-1.json](./80903-ender-story-chapter-1.json) |
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
 | Ender's Delight | 344023 | [344023-enders-delight.json](./344023-enders-delight.json) |
+| Ender's Game: Battle Room | 52167 | [52167-enders-game-battle-room.json](./52167-enders-game-battle-room.json) |
 | Enderal: Forgotten Stories | 109367 | [109367-enderal-forgotten-stories.json](./109367-enderal-forgotten-stories.json) |
 | Enderal: Forgotten Stories - Special Edition | 153743 | [153743-enderal-forgotten-stories-special-edition.json](./153743-enderal-forgotten-stories-special-edition.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
