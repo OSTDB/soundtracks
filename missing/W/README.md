@@ -7683,6 +7683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards of Waverly Place | 44065 | [44065-wizards-of-waverly-place.json](./44065-wizards-of-waverly-place.json) |
 | Wizards of Waverly Place: Spellbound | 24309 | [24309-wizards-of-waverly-place-spellbound.json](./24309-wizards-of-waverly-place-spellbound.json) |
 | Wizards Quest: Adventure in the Kingdom | 274940 | [274940-wizards-quest-adventure-in-the-kingdom.json](./274940-wizards-quest-adventure-in-the-kingdom.json) |
+| Wizards Rule | 422738 | [422738-wizards-rule.json](./422738-wizards-rule.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
 | Wizards, Knights & Archers | 220719 | [220719-wizards-knights-and-archers.json](./220719-wizards-knights-and-archers.json) |
@@ -8495,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Play | 344825 | [344825-word-play.json](./344825-word-play.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
 | Word Puzzle | 21913 | [21913-word-puzzle.json](./21913-word-puzzle.json) |
+| Word Puzzle Master | 422754 | [422754-word-puzzle-master.json](./422754-word-puzzle-master.json) |
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Puzzles by Powgi | 59522 | [59522-word-puzzles-by-powgi.json](./59522-word-puzzles-by-powgi.json) |
 | Word Puzzles by Powgi: Deluxe Edition | 140414 | [140414-word-puzzles-by-powgi-deluxe-edition.json](./140414-word-puzzles-by-powgi-deluxe-edition.json) |
@@ -8670,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordGirl Word Hunt | 106944 | [106944-wordgirl-word-hunt.json](./106944-wordgirl-word-hunt.json) |
 | Wordgraphy | 233050 | [233050-wordgraphy.json](./233050-wordgraphy.json) |
 | WordGrid Search | 409306 | [409306-wordgrid-search.json](./409306-wordgrid-search.json) |
+| Wordguess | 422764 | [422764-wordguess.json](./422764-wordguess.json) |
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
