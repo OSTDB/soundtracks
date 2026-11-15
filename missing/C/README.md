@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Underpants' Mischievous Mazemaster 2001 | 425853 | [425853-captain-underpants-mischievous-mazemaster-2001.json](./425853-captain-underpants-mischievous-mazemaster-2001.json) |
 | Captain Velvet Meteor: The Jump+ Dimensions | 194946 | [194946-captain-velvet-meteor-the-jump-dimensions.json](./194946-captain-velvet-meteor-the-jump-dimensions.json) |
 | Captain Verdeterre's Plunder | 216438 | [216438-captain-verdeterres-plunder.json](./216438-captain-verdeterres-plunder.json) |
+| Captain vs. Sky Pirates | 68847 | [68847-captain-vs-sky-pirates.json](./68847-captain-vs-sky-pirates.json) |
 | Captain vs. Sky Pirates: Evil Village | 171178 | [171178-captain-vs-sky-pirates-evil-village.json](./171178-captain-vs-sky-pirates-evil-village.json) |
 | Captain vs. Sky Pirates: Forest | 171176 | [171176-captain-vs-sky-pirates-forest.json](./171176-captain-vs-sky-pirates-forest.json) |
 | Captain vs. Sky Pirates: Moon Base | 171177 | [171177-captain-vs-sky-pirates-moon-base.json](./171177-captain-vs-sky-pirates-moon-base.json) |
@@ -2270,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captive: You Are My Idol | 303392 | [303392-captive-you-are-my-idol.json](./303392-captive-you-are-my-idol.json) |
 | Captivity | 31075 | [31075-captivity.json](./31075-captivity.json) |
 | Captivity Horror Multiplayer | 276348 | [276348-captivity-horror-multiplayer.json](./276348-captivity-horror-multiplayer.json) |
+| Captivus | 68841 | [68841-captivus.json](./68841-captivus.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
 | Captor Clash | 213684 | [213684-captor-clash.json](./213684-captor-clash.json) |
 | Captroon | 213248 | [213248-captroon.json](./213248-captroon.json) |
@@ -8548,7 +8550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chipped | 329313 | [329313-chipped.json](./329313-chipped.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | Chipper and Sons Lumber Co. Deluxe | 411095 | [411095-chipper-and-sons-lumber-co-deluxe.json](./411095-chipper-and-sons-lumber-co-deluxe.json) |
-| Chippy | 117217 | [117217-chippy.json](./117217-chippy.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chippy's Escape from Seaberry Keep | 224681 | [224681-chippys-escape-from-seaberry-keep.json](./224681-chippys-escape-from-seaberry-keep.json) |
 | Chippy's Stash | 336877 | [336877-chippys-stash.json](./336877-chippys-stash.json) |
