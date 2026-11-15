@@ -28802,7 +28802,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormentum II | 111364 | [111364-tormentum-ii.json](./111364-tormentum-ii.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
 | Torn | 60675 | [60675-torn.json](./60675-torn.json) |
-| Torn | 90106 | [90106-torn.json](./90106-torn.json) |
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
 | Torn Apart | 108097 | [108097-torn-apart.json](./108097-torn-apart.json) |
 | Torn Asunder | 108018 | [108018-torn-asunder.json](./108018-torn-asunder.json) |
