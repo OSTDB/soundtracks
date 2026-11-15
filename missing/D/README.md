@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku Exceed II | 83308 | [83308-daisenryaku-exceed-ii.json](./83308-daisenryaku-exceed-ii.json) |
 | Daisenryaku Expert | 44421 | [44421-daisenryaku-expert.json](./44421-daisenryaku-expert.json) |
 | Daisenryaku Expert WWII: War in Europe | 44420 | [44420-daisenryaku-expert-wwii-war-in-europe.json](./44420-daisenryaku-expert-wwii-war-in-europe.json) |
+| Daisenryaku G | 46293 | [46293-daisenryaku-g.json](./46293-daisenryaku-g.json) |
 | Daisenryaku II: Campaign Version | 41781 | [41781-daisenryaku-ii-campaign-version.json](./41781-daisenryaku-ii-campaign-version.json) |
 | Daisenryaku III '90 | 242519 | [242519-daisenryaku-iii-90.json](./242519-daisenryaku-iii-90.json) |
 | Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
@@ -13780,6 +13781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominot | 389023 | [389023-dominot.json](./389023-dominot.json) |
 | Dominova | 343699 | [343699-dominova.json](./343699-dominova.json) |
 | Dominus | 172081 | [172081-dominus.json](./172081-dominus.json) |
+| Dominus | 46154 | [46154-dominus.json](./46154-dominus.json) |
 | Dominus 2 | 106421 | [106421-dominus-2.json](./106421-dominus-2.json) |
 | Dominus Automa | 372769 | [372769-dominus-automa.json](./372769-dominus-automa.json) |
 | Dominus Diabolicus | 294764 | [294764-dominus-diabolicus.json](./294764-dominus-diabolicus.json) |
