@@ -12294,6 +12294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Hearts | 245057 | [245057-microsoft-hearts.json](./245057-microsoft-hearts.json) |
 | Microsoft Hearts | 51353 | [51353-microsoft-hearts.json](./51353-microsoft-hearts.json) |
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
+| Microsoft Jackpot | 60702 | [60702-microsoft-jackpot.json](./60702-microsoft-jackpot.json) |
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
 | Microsoft Mahjong | 8977 | [8977-microsoft-mahjong.json](./8977-microsoft-mahjong.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
