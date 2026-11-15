@@ -2955,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
 | Elite: Dangerous - Legendary Edition | 136034 | [136034-elite-dangerous-legendary-edition.json](./136034-elite-dangerous-legendary-edition.json) |
 | Elite: Dangerous - Odyssey | 134873 | [134873-elite-dangerous-odyssey.json](./134873-elite-dangerous-odyssey.json) |
+| Elite: The New Kind | 69998 | [69998-elite-the-new-kind.json](./69998-elite-the-new-kind.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 2001 | 94376 | [94376-elitserien-2001.json](./94376-elitserien-2001.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
@@ -5252,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | Epsylon | 220014 | [220014-epsylon.json](./220014-epsylon.json) |
 | Epyka | 327930 | [327930-epyka.json](./327930-epyka.json) |
+| Epyx Epics | 69969 | [69969-epyx-epics.json](./69969-epyx-epics.json) |
 | Epyx Rogue | 309074 | [309074-epyx-rogue.json](./309074-epyx-rogue.json) |
 | Epyx Summer Games | 76131 | [76131-epyx-summer-games.json](./76131-epyx-summer-games.json) |
 | Epyx Winter Games | 78929 | [78929-epyx-winter-games.json](./78929-epyx-winter-games.json) |
@@ -5755,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Death Moon | 116407 | [116407-escape-from-death-moon.json](./116407-escape-from-death-moon.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
+| Escape from Delirium | 69975 | [69975-escape-from-delirium.json](./69975-escape-from-delirium.json) |
 | Escape from Demon Island | 262794 | [262794-escape-from-demon-island.json](./262794-escape-from-demon-island.json) |
 | Escape From Dimension-3 | 236722 | [236722-escape-from-dimension-3.json](./236722-escape-from-dimension-3.json) |
 | Escape from Dinosaur Island | 150815 | [150815-escape-from-dinosaur-island.json](./150815-escape-from-dinosaur-island.json) |
