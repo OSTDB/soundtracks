@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nene Interactive Suicide | 393304 | [393304-nene-interactive-suicide.json](./393304-nene-interactive-suicide.json) |
 | Neneko Neko Hako Neko Puzzle Game | 151776 | [151776-neneko-neko-hako-neko-puzzle-game.json](./151776-neneko-neko-hako-neko-puzzle-game.json) |
 | NeNeKoNeKo | 394761 | [394761-nenekoneko.json](./394761-nenekoneko.json) |
+| Nenemixes | 420984 | [420984-nenemixes.json](./420984-nenemixes.json) |
 | Nenene Noble | 314800 | [314800-nenene-noble.json](./314800-nenene-noble.json) |
 | Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
 | Nensha | 261481 | [261481-nensha.json](./261481-nensha.json) |
