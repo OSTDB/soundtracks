@@ -5841,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | AH-64 Apache Air Assault | 55974 | [55974-ah-64-apache-air-assault.json](./55974-ah-64-apache-air-assault.json) |
 | AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
+| AH-64D Longbow Gold | 50104 | [50104-ah-64d-longbow-gold.json](./50104-ah-64d-longbow-gold.json) |
 | AH-64D Longbow: Flash Point Korea | 73686 | [73686-ah-64d-longbow-flash-point-korea.json](./73686-ah-64d-longbow-flash-point-korea.json) |
 | Ah-Hoy! | 176293 | [176293-ah-hoy.json](./176293-ah-hoy.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
@@ -6513,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirJet Fighter: Sky Assault | 357723 | [357723-airjet-fighter-sky-assault.json](./357723-airjet-fighter-sky-assault.json) |
 | AirKano: Dr. M no Yabou | 275934 | [275934-airkano-dr-m-no-yabou.json](./275934-airkano-dr-m-no-yabou.json) |
 | Airlift | 15591 | [15591-airlift.json](./15591-airlift.json) |
+| Airlift Rescue | 50088 | [50088-airlift-rescue.json](./50088-airlift-rescue.json) |
 | Airline | 15592 | [15592-airline.json](./15592-airline.json) |
 | Airline | 319565 | [319565-airline.json](./319565-airline.json) |
 | Airline 69 II: Krasser's Revenge | 134571 | [134571-airline-69-ii-krassers-revenge.json](./134571-airline-69-ii-krassers-revenge.json) |
@@ -7325,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
 | Aldian of Ancients | 317384 | [317384-aldian-of-ancients.json](./317384-aldian-of-ancients.json) |
+| Aldo Again | 50087 | [50087-aldo-again.json](./50087-aldo-again.json) |
 | Aldo: Memory of the Kingdom | 318114 | [318114-aldo-memory-of-the-kingdom.json](./318114-aldo-memory-of-the-kingdom.json) |
 | Aldo's Adventure | 14475 | [14475-aldos-adventure.json](./14475-aldos-adventure.json) |
 | Aldo's Assault | 138627 | [138627-aldos-assault.json](./138627-aldos-assault.json) |
@@ -16776,6 +16779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendance | 258241 | [258241-ascendance.json](./258241-ascendance.json) |
 | Ascendance Fighters | 318000 | [318000-ascendance-fighters.json](./318000-ascendance-fighters.json) |
 | Ascendance Unbound | 380841 | [380841-ascendance-unbound.json](./380841-ascendance-unbound.json) |
+| Ascendancy | 50089 | [50089-ascendancy.json](./50089-ascendancy.json) |
 | Ascendant | 264917 | [264917-ascendant.json](./264917-ascendant.json) |
 | Ascendant | 9222 | [9222-ascendant.json](./9222-ascendant.json) |
 | Ascendant Dawn | 310276 | [310276-ascendant-dawn.json](./310276-ascendant-dawn.json) |
@@ -17190,6 +17194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
 | Aspen Ski! | 315332 | [315332-aspen-ski.json](./315332-aspen-ski.json) |
 | Aspen: Uncanny Home | 171730 | [171730-aspen-uncanny-home.json](./171730-aspen-uncanny-home.json) |
+| Aspetra | 50085 | [50085-aspetra.json](./50085-aspetra.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
 | Asphalt 3: Street Rules | 23295 | [23295-asphalt-3-street-rules.json](./23295-asphalt-3-street-rules.json) |
 | Asphalt 3: Street Rules 3D | 222684 | [222684-asphalt-3-street-rules-3d.json](./222684-asphalt-3-street-rules-3d.json) |
@@ -18257,6 +18262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
 | AstroCore Mining | 356348 | [356348-astrocore-mining.json](./356348-astrocore-mining.json) |
+| Astrocounter of Crescents | 50080 | [50080-astrocounter-of-crescents.json](./50080-astrocounter-of-crescents.json) |
 | Astrocraft | 418889 | [418889-astrocraft.json](./418889-astrocraft.json) |
 | Astrodelia | 290827 | [290827-astrodelia.json](./290827-astrodelia.json) |
 | Astroderps | 32323 | [32323-astroderps.json](./32323-astroderps.json) |
@@ -20257,6 +20263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond 4: Shadow of the Mist | 33732 | [33732-aveyond-4-shadow-of-the-mist.json](./33732-aveyond-4-shadow-of-the-mist.json) |
 | Aveyond: Ean's Quest | 52437 | [52437-aveyond-eans-quest.json](./52437-aveyond-eans-quest.json) |
 | Aveyond: Gates of Night | 52436 | [52436-aveyond-gates-of-night.json](./52436-aveyond-gates-of-night.json) |
+| Aveyond: Lord of Twilight | 50172 | [50172-aveyond-lord-of-twilight.json](./50172-aveyond-lord-of-twilight.json) |
 | Aveyond: Rhen's Quest | 52435 | [52435-aveyond-rhens-quest.json](./52435-aveyond-rhens-quest.json) |
 | Aveyond: The Darkthrop Prophecy | 17821 | [17821-aveyond-the-darkthrop-prophecy.json](./17821-aveyond-the-darkthrop-prophecy.json) |
 | Aveyond: The Lost Orb | 17820 | [17820-aveyond-the-lost-orb.json](./17820-aveyond-the-lost-orb.json) |
