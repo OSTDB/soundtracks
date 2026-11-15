@@ -3666,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
 | Batiman | 295595 | [295595-batiman.json](./295595-batiman.json) |
 | Batla | 36058 | [36058-batla.json](./36058-batla.json) |
+| Batla Shooter | 50178 | [50178-batla-shooter.json](./50178-batla-shooter.json) |
 | Batla: Tank | 172260 | [172260-batla-tank.json](./172260-batla-tank.json) |
 | Batlight Runner | 183100 | [183100-batlight-runner.json](./183100-batlight-runner.json) |
 | Batloff: Cyprus | 123391 | [123391-batloff-cyprus.json](./123391-batloff-cyprus.json) |
@@ -3964,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bears: GO | 62320 | [62320-battle-bears-go.json](./62320-battle-bears-go.json) |
 | Battle Bears: Zombies | 62329 | [62329-battle-bears-zombies.json](./62329-battle-bears-zombies.json) |
 | Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
+| Battle Beast | 50083 | [50083-battle-beast.json](./50083-battle-beast.json) |
 | Battle Beaster | 77563 | [77563-battle-beaster.json](./77563-battle-beaster.json) |
 | Battle Beaster 2 | 376728 | [376728-battle-beaster-2.json](./376728-battle-beaster-2.json) |
 | Battle Beat | 395762 | [395762-battle-beat.json](./395762-battle-beat.json) |
