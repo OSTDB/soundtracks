@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
 | Mad Birds | 359086 | [359086-mad-birds.json](./359086-mad-birds.json) |
 | Mad Blocker | 94032 | [94032-mad-blocker.json](./94032-mad-blocker.json) |
+| Mad Blocker Alpha: Revenge of the Fluzzles | 42820 | [42820-mad-blocker-alpha-revenge-of-the-fluzzles.json](./42820-mad-blocker-alpha-revenge-of-the-fluzzles.json) |
 | Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
 | Mad Bulldozer | 143931 | [143931-mad-bulldozer.json](./143931-mad-bulldozer.json) |
@@ -5224,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
+| Marvel Pinball: Epic Collection Vol. 1 | 42902 | [42902-marvel-pinball-epic-collection-vol-1.json](./42902-marvel-pinball-epic-collection-vol-1.json) |
 | Marvel Putt Golf | 237699 | [237699-marvel-putt-golf.json](./237699-marvel-putt-golf.json) |
 | Marvel Putt Golf II | 239373 | [239373-marvel-putt-golf-ii.json](./239373-marvel-putt-golf-ii.json) |
 | Marvel Puzzle Quest | 7084 | [7084-marvel-puzzle-quest.json](./7084-marvel-puzzle-quest.json) |
@@ -7260,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me in the Office | 220412 | [220412-me-in-the-office.json](./220412-me-in-the-office.json) |
 | Me is King | 212521 | [212521-me-is-king.json](./212521-me-is-king.json) |
 | Me llow | 201334 | [201334-me-llow.json](./201334-me-llow.json) |
+| Me Monstar: Hear Me Roar! | 42819 | [42819-me-monstar-hear-me-roar.json](./42819-me-monstar-hear-me-roar.json) |
 | Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
 | Me Myself & Die | 184360 | [184360-me-myself-and-die.json](./184360-me-myself-and-die.json) |
 | Me Red: The Ultimate Adventure | 294884 | [294884-me-red-the-ultimate-adventure.json](./294884-me-red-the-ultimate-adventure.json) |
@@ -7633,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
 | MechoEcho | 33730 | [33730-mechoecho.json](./33730-mechoecho.json) |
 | Mechone | 151321 | [151321-mechone.json](./151321-mechone.json) |
+| Mechowars | 42818 | [42818-mechowars.json](./42818-mechowars.json) |
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | Mechrunner | 19246 | [19246-mechrunner.json](./19246-mechrunner.json) |
 | Mechs and Mercs: Black Talons | 8721 | [8721-mechs-and-mercs-black-talons.json](./8721-mechs-and-mercs-black-talons.json) |
@@ -10927,6 +10931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid V: Ground Zeroes + The Phantom Pain | 136680 | [136680-metal-gear-solid-v-ground-zeroes-the-phantom-pain.json](./136680-metal-gear-solid-v-ground-zeroes-the-phantom-pain.json) |
 | Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
 | Metal Gear Solid V: The Definitive Subsistence Update | 377209 | [377209-metal-gear-solid-v-the-definitive-subsistence-update.json](./377209-metal-gear-solid-v-the-definitive-subsistence-update.json) |
+| Metal Gear Solid V: The Phantom Pain - Collector's Edition | 42945 | [42945-metal-gear-solid-v-the-phantom-pain-collectors-edition.json](./42945-metal-gear-solid-v-the-phantom-pain-collectors-edition.json) |
 | Metal Gear Solid V: The Phantom Pain - Day One Edition | 136221 | [136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json](./136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
 | Metal Gear Solid: Digital Graphic Novel | 77232 | [77232-metal-gear-solid-digital-graphic-novel.json](./77232-metal-gear-solid-digital-graphic-novel.json) |
@@ -12925,6 +12930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty No. 9 | 5327 | [5327-mighty-no-9.json](./5327-mighty-no-9.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
 | Mighty No. 9: Ray Expansion | 169525 | [169525-mighty-no-9-ray-expansion.json](./169525-mighty-no-9-ray-expansion.json) |
+| Mighty No. 9: Signature Edition | 42905 | [42905-mighty-no-9-signature-edition.json](./42905-mighty-no-9-signature-edition.json) |
 | Mighty No.(9) | 134853 | [134853-mighty-no-9.json](./134853-mighty-no-9.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
