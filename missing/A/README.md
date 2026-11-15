@@ -3410,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Hall of Fame | 137511 | [137511-action-hall-of-fame.json](./137511-action-hall-of-fame.json) |
 | Action Hero | 313769 | [313769-action-hero.json](./313769-action-hero.json) |
 | Action Hero | 66714 | [66714-action-hero.json](./66714-action-hero.json) |
+| Action Hero 3D: Wild Dog | 66310 | [66310-action-hero-3d-wild-dog.json](./66310-action-hero-3d-wild-dog.json) |
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
 | Action Janken | 404997 | [404997-action-janken.json](./404997-action-janken.json) |
@@ -7129,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaturka | 388665 | [388665-alaturka.json](./388665-alaturka.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
 | Alawar Hidden Realms Bundle | 99790 | [99790-alawar-hidden-realms-bundle.json](./99790-alawar-hidden-realms-bundle.json) |
+| Alawishus Pixel | 66281 | [66281-alawishus-pixel.json](./66281-alawishus-pixel.json) |
 | Alawon: Life of a Game Composer | 400274 | [400274-alawon-life-of-a-game-composer.json](./400274-alawon-life-of-a-game-composer.json) |
 | Albacete Warrior | 152237 | [152237-albacete-warrior.json](./152237-albacete-warrior.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
@@ -16223,6 +16225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
 | Arrow Point | 108726 | [108726-arrow-point.json](./108726-arrow-point.json) |
 | Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
+| Arrow Run | 66856 | [66856-arrow-run.json](./66856-arrow-run.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | Arrow Spam | 197986 | [197986-arrow-spam.json](./197986-arrow-spam.json) |
 | Arrow Survival: 15 Seconds | 372080 | [372080-arrow-survival-15-seconds.json](./372080-arrow-survival-15-seconds.json) |
