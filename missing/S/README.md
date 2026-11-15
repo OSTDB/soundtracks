@@ -6853,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Nations | 119823 | [119823-seven-nations.json](./119823-seven-nations.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
 | Seven Nights Ghost | 247856 | [247856-seven-nights-ghost.json](./247856-seven-nights-ghost.json) |
+| Seven Nights of the Black Tide | 427597 | [427597-seven-nights-of-the-black-tide.json](./427597-seven-nights-of-the-black-tide.json) |
 | Seven Nights With Hanako | 414574 | [414574-seven-nights-with-hanako.json](./414574-seven-nights-with-hanako.json) |
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
 | Seven Online Gamers: Offline | 77707 | [77707-seven-online-gamers-offline.json](./77707-seven-online-gamers-offline.json) |
@@ -11924,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Scars | 382829 | [382829-silicon-scars.json](./382829-silicon-scars.json) |
 | Silicon Scramble | 280490 | [280490-silicon-scramble.json](./280490-silicon-scramble.json) |
 | Silicon Scream | 242887 | [242887-silicon-scream.json](./242887-silicon-scream.json) |
+| Silicon Souls | 427576 | [427576-silicon-souls.json](./427576-silicon-souls.json) |
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
@@ -18102,6 +18104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soggy Froggy | 417431 | [417431-soggy-froggy.json](./417431-soggy-froggy.json) |
 | Soglia | 383748 | [383748-soglia.json](./383748-soglia.json) |
 | Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
+| Sogul: Den of the Deep | 427577 | [427577-sogul-den-of-the-deep.json](./427577-sogul-den-of-the-deep.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
 | Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
 | SOI's Singleplayer Adventure | 135473 | [135473-sois-singleplayer-adventure.json](./135473-sois-singleplayer-adventure.json) |
@@ -30637,6 +30640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Store Manager: Cellular Edition | 34019 | [34019-store-manager-cellular-edition.json](./34019-store-manager-cellular-edition.json) |
 | Store Simulator | 285670 | [285670-store-simulator.json](./285670-store-simulator.json) |
 | Store Simulator 2018 | 405476 | [405476-store-simulator-2018.json](./405476-store-simulator-2018.json) |
+| Store Simulator Pettikkada | 427575 | [427575-store-simulator-pettikkada.json](./427575-store-simulator-pettikkada.json) |
 | Store Story | 250794 | [250794-store-story.json](./250794-store-story.json) |
 | Store Wars: Multiplayer Shop Simulator | 326350 | [326350-store-wars-multiplayer-shop-simulator.json](./326350-store-wars-multiplayer-shop-simulator.json) |
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
@@ -34096,6 +34100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
 | Sunset Moon | 375207 | [375207-sunset-moon.json](./375207-sunset-moon.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
+| Sunset of Death | 427567 | [427567-sunset-of-death.json](./427567-sunset-of-death.json) |
 | Sunset Over Imdahl | 124652 | [124652-sunset-over-imdahl.json](./124652-sunset-over-imdahl.json) |
 | Sunset Over Savannah | 60103 | [60103-sunset-over-savannah.json](./60103-sunset-over-savannah.json) |
 | Sunset Overdrive: Dawn of the Rise of the Fallen Machines | 21934 | [21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json](./21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json) |
