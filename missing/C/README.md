@@ -9335,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromacore | 365332 | [365332-chromacore.json](./365332-chromacore.json) |
 | Chromadi | 367931 | [367931-chromadi.json](./367931-chromadi.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
+| Chromaestro | 37409 | [37409-chromaestro.json](./37409-chromaestro.json) |
 | ChromaFlow | 414393 | [414393-chromaflow.json](./414393-chromaflow.json) |
 | ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
 | ChromaGun VR | 118742 | [118742-chromagun-vr.json](./118742-chromagun-vr.json) |
