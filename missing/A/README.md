@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A False Saint, An Honest Rogue | 56937 | [56937-a-false-saint-an-honest-rogue.json](./56937-a-false-saint-an-honest-rogue.json) |
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
 | A Familiar World | 367615 | [367615-a-familiar-world.json](./367615-a-familiar-world.json) |
+| A Family of Grave Diggers | 34948 | [34948-a-family-of-grave-diggers.json](./34948-a-family-of-grave-diggers.json) |
 | A Farewell To AI | 355858 | [355858-a-farewell-to-ai.json](./355858-a-farewell-to-ai.json) |
 | A Farewell to Dragons | 20667 | [20667-a-farewell-to-dragons.json](./20667-a-farewell-to-dragons.json) |
 | A Fascinating Story | 297057 | [297057-a-fascinating-story.json](./297057-a-fascinating-story.json) |
@@ -4903,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affairs of the Court: Choice of Romance - Play as the Consort | 224490 | [224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json](./224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json) |
 | Affairs of the Court: Deluxe Edition | 52574 | [52574-affairs-of-the-court-deluxe-edition.json](./52574-affairs-of-the-court-deluxe-edition.json) |
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
+| Affected Zone Tactics | 34860 | [34860-affected-zone-tactics.json](./34860-affected-zone-tactics.json) |
 | Affected: The Manor | 72421 | [72421-affected-the-manor.json](./72421-affected-the-manor.json) |
 | Affection: San Shimai to Juusha no Shoujo | 329476 | [329476-affection-san-shimai-to-juusha-no-shoujo.json](./329476-affection-san-shimai-to-juusha-no-shoujo.json) |
 | Affectionate Annie | 271669 | [271669-affectionate-annie.json](./271669-affectionate-annie.json) |
@@ -12931,6 +12933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOA Academy | 271877 | [271877-aoa-academy.json](./271877-aoa-academy.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | AOD: Art of Defense | 150369 | [150369-aod-art-of-defense.json](./150369-aod-art-of-defense.json) |
+| AoF Chess Club 2.0 | 34879 | [34879-aof-chess-club-2-0.json](./34879-aof-chess-club-2-0.json) |
 | AoF World Online | 36041 | [36041-aof-world-online.json](./36041-aof-world-online.json) |
 | Aoharu Distortion: Chapter.1 | 397975 | [397975-aoharu-distortion-chapter-1.json](./397975-aoharu-distortion-chapter-1.json) |
 | Aoharu Distortion: Chapter.2 | 397976 | [397976-aoharu-distortion-chapter-2.json](./397976-aoharu-distortion-chapter-2.json) |
@@ -18205,6 +18208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Loopers | 381523 | [381523-astro-loopers.json](./381523-astro-loopers.json) |
 | Astro Looter | 304469 | [304469-astro-looter.json](./304469-astro-looter.json) |
+| Astro Lords | 34868 | [34868-astro-lords.json](./34868-astro-lords.json) |
 | Astro Lords: Oort Cloud | 35194 | [35194-astro-lords-oort-cloud.json](./35194-astro-lords-oort-cloud.json) |
 | Astro Maths | 15605 | [15605-astro-maths.json](./15605-astro-maths.json) |
 | Astro Maze | 367767 | [367767-astro-maze.json](./367767-astro-maze.json) |
@@ -19419,6 +19423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Drift & Tricks | 83879 | [83879-atv-drift-and-tricks.json](./83879-atv-drift-and-tricks.json) |
 | ATV Drift & Tricks: Definitive Edition | 118553 | [118553-atv-drift-and-tricks-definitive-edition.json](./118553-atv-drift-and-tricks-definitive-edition.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
+| ATV GP | 34865 | [34865-atv-gp.json](./34865-atv-gp.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
 | ATV Mania | 57848 | [57848-atv-mania.json](./57848-atv-mania.json) |
 | ATV Monster Racing Simulator Rally Cross | 262239 | [262239-atv-monster-racing-simulator-rally-cross.json](./262239-atv-monster-racing-simulator-rally-cross.json) |
