@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic of Spring | 195561 | [195561-magic-of-spring.json](./195561-magic-of-spring.json) |
 | Magic or Machinations | 253115 | [253115-magic-or-machinations.json](./253115-magic-or-machinations.json) |
 | Magic Orbs | 125332 | [125332-magic-orbs.json](./125332-magic-orbs.json) |
+| Magic Orbz | 27002 | [27002-magic-orbz.json](./27002-magic-orbz.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
 | Magic Panda: Toy Match | 175025 | [175025-magic-panda-toy-match.json](./175025-magic-panda-toy-match.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
@@ -8219,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
 | Mega Fruit | 366139 | [366139-mega-fruit.json](./366139-mega-fruit.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
+| Mega Games 2 | 27074 | [27074-mega-games-2.json](./27074-mega-games-2.json) |
 | Mega Games 3 | 60328 | [60328-mega-games-3.json](./60328-mega-games-3.json) |
 | Mega Games 6 | 56847 | [56847-mega-games-6.json](./56847-mega-games-6.json) |
 | Mega Games 6 Vol. 2 | 56843 | [56843-mega-games-6-vol-2.json](./56843-mega-games-6-vol-2.json) |
@@ -9785,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoir | 97173 | [97173-memoir.json](./97173-memoir.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
+| Memoir En Code: Reissue | 27044 | [27044-memoir-en-code-reissue.json](./27044-memoir-en-code-reissue.json) |
 | Memoir of Phantom's Fortitude | 134852 | [134852-memoir-of-phantoms-fortitude.json](./134852-memoir-of-phantoms-fortitude.json) |
 | Mémoire 0079 | 257276 | [257276-memoire-0079.json](./257276-memoire-0079.json) |
 | Mémoire d'Arumac | 167983 | [167983-memoire-darumac.json](./167983-memoire-darumac.json) |
@@ -11513,6 +11516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metronium | 120820 | [120820-metronium.json](./120820-metronium.json) |
 | Metronome | 79577 | [79577-metronome.json](./79577-metronome.json) |
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
+| Metronomeer | 27021 | [27021-metronomeer.json](./27021-metronomeer.json) |
 | Metrophobia | 333425 | [333425-metrophobia.json](./333425-metrophobia.json) |
 | Metroplex Zero | 188885 | [188885-metroplex-zero.json](./188885-metroplex-zero.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
@@ -19671,6 +19675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosquito | 394426 | [394426-mosquito.json](./394426-mosquito.json) |
 | Mosquito Alive | 241563 | [241563-mosquito-alive.json](./241563-mosquito-alive.json) |
 | Mosquito Must Die | 243842 | [243842-mosquito-must-die.json](./243842-mosquito-must-die.json) |
+| Mosquito Popper | 27022 | [27022-mosquito-popper.json](./27022-mosquito-popper.json) |
 | Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
 | Mosquitoes and zombies | 132410 | [132410-mosquitoes-and-zombies.json](./132410-mosquitoes-and-zombies.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
