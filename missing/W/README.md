@@ -7952,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
 | Women's Soccer Manager | 102899 | [102899-womens-soccer-manager.json](./102899-womens-soccer-manager.json) |
+| Women's Volleyball | 24325 | [24325-womens-volleyball.json](./24325-womens-volleyball.json) |
 | Womp The Abyssal | 349771 | [349771-womp-the-abyssal.json](./349771-womp-the-abyssal.json) |
 | Won't You Be My Laser? | 31899 | [31899-wont-you-be-my-laser.json](./31899-wont-you-be-my-laser.json) |
 | Won't you come knocking | 183357 | [183357-wont-you-come-knocking.json](./183357-wont-you-come-knocking.json) |
