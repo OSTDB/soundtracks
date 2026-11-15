@@ -5083,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Party Land | 405453 | [405453-hello-kitty-party-land.json](./405453-hello-kitty-party-land.json) |
 | Hello Kitty: Picnic with Sanrio Friends | 7437 | [7437-hello-kitty-picnic-with-sanrio-friends.json](./7437-hello-kitty-picnic-with-sanrio-friends.json) |
 | Hello Kitty: Puzzle Party | 83207 | [83207-hello-kitty-puzzle-party.json](./83207-hello-kitty-puzzle-party.json) |
+| Hello Kitty: Roller Rescue | 3691 | [3691-hello-kitty-roller-rescue.json](./3691-hello-kitty-roller-rescue.json) |
 | Hello Kitty: School Bus | 206194 | [206194-hello-kitty-school-bus.json](./206194-hello-kitty-school-bus.json) |
 | Hello Kitty: Seaside Holiday | 218355 | [218355-hello-kitty-seaside-holiday.json](./218355-hello-kitty-seaside-holiday.json) |
 | Hello Kitty: Sweet Little Shops | 206159 | [206159-hello-kitty-sweet-little-shops.json](./206159-hello-kitty-sweet-little-shops.json) |
