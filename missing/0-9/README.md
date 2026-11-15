@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
 | 2048 3x3 4x4 5x5 6x6 7x7 8x8 9x9 10x10 | 316547 | [316547-2048-3x3-4x4-5x5-6x6-7x7-8x8-9x9-10x10.json](./316547-2048-3x3-4x4-5x5-6x6-7x7-8x8-9x9-10x10.json) |
 | 2048 5x5 | 87383 | [87383-2048-5x5.json](./87383-2048-5x5.json) |
+| 2048 6x6 | 87423 | [87423-2048-6x6.json](./87423-2048-6x6.json) |
 | 2048 7x7 | 231839 | [231839-2048-7x7.json](./231839-2048-7x7.json) |
 | 2048 8x8 | 250216 | [250216-2048-8x8.json](./250216-2048-8x8.json) |
 | 2048 9x9 | 250236 | [250236-2048-9x9.json](./250236-2048-9x9.json) |
@@ -2009,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Snake | 315813 | [315813-2048-snake.json](./315813-2048-snake.json) |
 | 2048 Solitaire | 104352 | [104352-2048-solitaire.json](./104352-2048-solitaire.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
+| 2048 Tile! | 87404 | [87404-2048-tile.json](./87404-2048-tile.json) |
 | 2048 Units of /vr/ | 273064 | [273064-2048-units-of-vr.json](./273064-2048-units-of-vr.json) |
 | 2048-F8 | 268503 | [268503-2048-f8.json](./268503-2048-f8.json) |
 | 2048: Bee the Swarm | 58695 | [58695-2048-bee-the-swarm.json](./58695-2048-bee-the-swarm.json) |
