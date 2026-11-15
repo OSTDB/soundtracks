@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
 | Cap'n Crunch's Crunchling Adventure | 135737 | [135737-capn-crunchs-crunchling-adventure.json](./135737-capn-crunchs-crunchling-adventure.json) |
 | Cap'n Magneto | 344336 | [344336-capn-magneto.json](./344336-capn-magneto.json) |
+| Cap'n Marcela parrot charmer | 28344 | [28344-capn-marcela-parrot-charmer.json](./28344-capn-marcela-parrot-charmer.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
 | Capacity | 182041 | [182041-capacity.json](./182041-capacity.json) |
 | Capacity | 380051 | [380051-capacity.json](./380051-capacity.json) |
@@ -14386,6 +14387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Moon: The Journey Begins | 339845 | [339845-comet-moon-the-journey-begins.json](./339845-comet-moon-the-journey-begins.json) |
 | Comet Racer | 212418 | [212418-comet-racer.json](./212418-comet-racer.json) |
 | Comet Rogue | 323487 | [323487-comet-rogue.json](./323487-comet-rogue.json) |
+| Comet Strike | 28308 | [28308-comet-strike.json](./28308-comet-strike.json) |
 | Comet Summoner | 131942 | [131942-comet-summoner.json](./131942-comet-summoner.json) |
 | Comet Summoner Time Trial Version | 253759 | [253759-comet-summoner-time-trial-version.json](./253759-comet-summoner-time-trial-version.json) |
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
@@ -21751,6 +21753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubixx | 377995 | [377995-cubixx.json](./377995-cubixx.json) |
 | Cubixx HD | 20632 | [20632-cubixx-hd.json](./20632-cubixx-hd.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
+| Cublast HD | 28328 | [28328-cublast-hd.json](./28328-cublast-hd.json) |
 | Cubo | 346290 | [346290-cubo.json](./346290-cubo.json) |
 | Cubo ao Topo | 167348 | [167348-cubo-ao-topo.json](./167348-cubo-ao-topo.json) |
 | Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
