@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Wild Fairy Tale | 152696 | [152696-mad-wild-fairy-tale.json](./152696-mad-wild-fairy-tale.json) |
+| Mad Wizard: A Candelabra Chronicle | 48912 | [48912-mad-wizard-a-candelabra-chronicle.json](./48912-mad-wizard-a-candelabra-chronicle.json) |
 | Mad World Survivors | 295295 | [295295-mad-world-survivors.json](./295295-mad-world-survivors.json) |
 | Mad World: Age of Darkness | 197594 | [197594-mad-world-age-of-darkness.json](./197594-mad-world-age-of-darkness.json) |
 | Mad Xmas | 277696 | [277696-mad-xmas.json](./277696-mad-xmas.json) |
@@ -20959,6 +20960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Shootem Breaks Out! | 266210 | [266210-mr-shootem-breaks-out.json](./266210-mr-shootem-breaks-out.json) |
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
 | Mr. Sleepy Man | 172821 | [172821-mr-sleepy-man.json](./172821-mr-sleepy-man.json) |
+| Mr. Splash | 48913 | [48913-mr-splash.json](./48913-mr-splash.json) |
 | Mr. Stackman | 395215 | [395215-mr-stackman.json](./395215-mr-stackman.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
@@ -24603,6 +24605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Miracles - Strategy card board game | 56647 | [56647-mystic-miracles-strategy-card-board-game.json](./56647-mystic-miracles-strategy-card-board-game.json) |
 | Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
 | Mystic Nights | 69523 | [69523-mystic-nights.json](./69523-mystic-nights.json) |
+| Mystic Origins | 48937 | [48937-mystic-origins.json](./48937-mystic-origins.json) |
 | Mystic Pathways | 342150 | [342150-mystic-pathways.json](./342150-mystic-pathways.json) |
 | Mystic Pathways: Crystal Quest | 356507 | [356507-mystic-pathways-crystal-quest.json](./356507-mystic-pathways-crystal-quest.json) |
 | Mystic Pillars | 127589 | [127589-mystic-pillars.json](./127589-mystic-pillars.json) |
@@ -24617,6 +24620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
 | Mystic Saga | 174953 | [174953-mystic-saga.json](./174953-mystic-saga.json) |
 | Mystic Saga | 34123 | [34123-mystic-saga.json](./34123-mystic-saga.json) |
+| Mystic Searches | 48938 | [48938-mystic-searches.json](./48938-mystic-searches.json) |
 | Mystic Shroom | 387061 | [387061-mystic-shroom.json](./387061-mystic-shroom.json) |
 | Mystic Stickerbook | 345252 | [345252-mystic-stickerbook.json](./345252-mystic-stickerbook.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
