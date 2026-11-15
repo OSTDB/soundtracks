@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T00:36:12.228Z",
-  "total_soundtracks": 3341,
+  "generated_at": "2026-11-15T00:56:06.121Z",
+  "total_soundtracks": 3344,
   "games": [
     {
       "igdb_id": 292844,
@@ -14897,6 +14897,20 @@
       ]
     },
     {
+      "igdb_id": 358248,
+      "game_name": "Godbreakers",
+      "game_url": "https://ostdb.net/games/godbreakers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730cc32bbd111c23ac9199ce1a",
+      "albums": [
+        {
+          "album_name": "Godbreakers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3B4ecSAoa2V0wLm7E8rG7J",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 127343,
       "game_name": "Godfall",
       "game_url": "https://ostdb.net/games/godfall",
@@ -29111,6 +29125,20 @@
       ]
     },
     {
+      "igdb_id": 318086,
+      "game_name": "Rogue Flight",
+      "game_url": "https://ostdb.net/games/rogue-flight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731055a3c56f865adc60c7fae6",
+      "albums": [
+        {
+          "album_name": "Rogue Flight (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/41ix3BCqzjRl3oNNTC1m25",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3221,
       "game_name": "Rogue Legacy",
       "game_url": "https://ostdb.net/games/rogue-legacy",
@@ -34115,6 +34143,20 @@
         {
           "album_name": "Summer Pockets REFLECTION BLUE Original SoundTrack",
           "spotify_url": "https://open.spotify.com/album/7o04O9eha4RSyBn7t1xAXt",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 319359,
+      "game_name": "Sunderfolk",
+      "game_url": "https://ostdb.net/games/sunderfolk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e68bc292c6362491728a38bf",
+      "albums": [
+        {
+          "album_name": "Sunderfolk (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4FH9LTX3kmiwJiv9FobWy9",
           "apple_music_url": "",
           "album_link_url": ""
         }
