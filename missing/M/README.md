@@ -14336,6 +14336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini craft story | 98783 | [98783-mini-craft-story.json](./98783-mini-craft-story.json) |
 | Mini Crafty | 147392 | [147392-mini-crafty.json](./147392-mini-crafty.json) |
 | Mini Crawler | 326077 | [326077-mini-crawler.json](./326077-mini-crawler.json) |
+| Mini Crime City | 429392 | [429392-mini-crime-city.json](./429392-mini-crime-city.json) |
 | Mini Crossword | 384254 | [384254-mini-crossword.json](./384254-mini-crossword.json) |
 | Mini Crossword Puzzles | 233098 | [233098-mini-crossword-puzzles.json](./233098-mini-crossword-puzzles.json) |
 | Mini Crush Casino | 232274 | [232274-mini-crush-casino.json](./232274-mini-crush-casino.json) |
@@ -19746,6 +19747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss: The Forgotten Relic | 401893 | [401893-moss-the-forgotten-relic.json](./401893-moss-the-forgotten-relic.json) |
 | Moss: The Twilight Garden | 162204 | [162204-moss-the-twilight-garden.json](./162204-moss-the-twilight-garden.json) |
 | Mossasis | 248978 | [248978-mossasis.json](./248978-mossasis.json) |
+| Mossback | 429358 | [429358-mossback.json](./429358-mossback.json) |
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
 | Mossen Seikkailut | 132319 | [132319-mossen-seikkailut.json](./132319-mossen-seikkailut.json) |
 | Mossfield Archives | 305030 | [305030-mossfield-archives.json](./305030-mossfield-archives.json) |
