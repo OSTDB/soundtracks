@@ -4276,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Mass Attack | 3724 | [3724-kirby-mass-attack.json](./3724-kirby-mass-attack.json) |
 | Kirby no Omochabako: Arrange Ball | 134455 | [134455-kirby-no-omochabako-arrange-ball.json](./134455-kirby-no-omochabako-arrange-ball.json) |
 | Kirby no Omochabako: Ball Rally | 134457 | [134457-kirby-no-omochabako-ball-rally.json](./134457-kirby-no-omochabako-ball-rally.json) |
+| Kirby no Omochabako: Baseball | 42257 | [42257-kirby-no-omochabako-baseball.json](./42257-kirby-no-omochabako-baseball.json) |
 | Kirby no Omochabako: Cannonball | 134454 | [134454-kirby-no-omochabako-cannonball.json](./134454-kirby-no-omochabako-cannonball.json) |
 | Kirby no Omochabako: Guru-guru Ball | 134453 | [134453-kirby-no-omochabako-guru-guru-ball.json](./134453-kirby-no-omochabako-guru-guru-ball.json) |
 | Kirby no Omochabako: Hoshi Kuzushi | 42217 | [42217-kirby-no-omochabako-hoshi-kuzushi.json](./42217-kirby-no-omochabako-hoshi-kuzushi.json) |
@@ -5019,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Rider | 26290 | [26290-knight-rider.json](./26290-knight-rider.json) |
 | Knight Rider | 72808 | [72808-knight-rider.json](./72808-knight-rider.json) |
 | Knight Rider 2: The Game | 22370 | [22370-knight-rider-2-the-game.json](./22370-knight-rider-2-the-game.json) |
+| Knight Rider Special | 42058 | [42058-knight-rider-special.json](./42058-knight-rider-special.json) |
 | Knight Rider: The Game | 22369 | [22369-knight-rider-the-game.json](./22369-knight-rider-the-game.json) |
 | Knight Run: Reconquista | 199988 | [199988-knight-run-reconquista.json](./199988-knight-run-reconquista.json) |
 | Knight Runaway | 190948 | [190948-knight-runaway.json](./190948-knight-runaway.json) |
