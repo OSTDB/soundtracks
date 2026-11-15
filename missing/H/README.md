@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamventure | 424296 | [424296-hamventure.json](./424296-hamventure.json) |
 | Han d'Islande | 405500 | [405500-han-dislande.json](./405500-han-dislande.json) |
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
+| Han Seimei Senki Andorogynus | 41663 | [41663-han-seimei-senki-andorogynus.json](./41663-han-seimei-senki-andorogynus.json) |
 | Hàn Shì Xióngfēng | 154395 | [154395-han-shi-xiongfeng.json](./154395-han-shi-xiongfeng.json) |
 | Hàn Wǔ Dàdì Zhuán | 155708 | [155708-han-wu-dadi-zhuan.json](./155708-han-wu-dadi-zhuan.json) |
 | Han-Gyaku-Sei Million Arthur | 96139 | [96139-han-gyaku-sei-million-arthur.json](./96139-han-gyaku-sei-million-arthur.json) |
@@ -14080,6 +14081,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Sports | 278589 | [278589-hyper-sports.json](./278589-hyper-sports.json) |
 | Hyper Sports | 278590 | [278590-hyper-sports.json](./278590-hyper-sports.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
+| Hyper Sports 1 | 41657 | [41657-hyper-sports-1.json](./41657-hyper-sports-1.json) |
+| Hyper Sports 2 | 41656 | [41656-hyper-sports-2.json](./41656-hyper-sports-2.json) |
+| Hyper Sports 3 | 41655 | [41655-hyper-sports-3.json](./41655-hyper-sports-3.json) |
 | Hyper Sports R | 103343 | [103343-hyper-sports-r.json](./103343-hyper-sports-r.json) |
 | Hyper Square | 345275 | [345275-hyper-square.json](./345275-hyper-square.json) |
 | Hyper Streak | 106947 | [106947-hyper-streak.json](./106947-hyper-streak.json) |
