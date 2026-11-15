@@ -10783,6 +10783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Weapon Holly | 264162 | [264162-ancient-weapon-holly.json](./264162-ancient-weapon-holly.json) |
 | Ancient Wind Spread | 270784 | [270784-ancient-wind-spread.json](./270784-ancient-wind-spread.json) |
 | Ancient Witch Arena | 215659 | [215659-ancient-witch-arena.json](./215659-ancient-witch-arena.json) |
+| Ancient Wonders: Atlantis | 429387 | [429387-ancient-wonders-atlantis.json](./429387-ancient-wonders-atlantis.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
 | Ancient Wonders: Pharaoh's Tomb | 253313 | [253313-ancient-wonders-pharaohs-tomb.json](./253313-ancient-wonders-pharaohs-tomb.json) |
 | Ancient World War | 155730 | [155730-ancient-world-war.json](./155730-ancient-world-war.json) |
@@ -14132,6 +14133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Prehistoric Isle | 426412 | [426412-arcade-archives-2-prehistoric-isle.json](./426412-arcade-archives-2-prehistoric-isle.json) |
 | Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
 | Arcade Archives 2: Rave Racer | 388443 | [388443-arcade-archives-2-rave-racer.json](./388443-arcade-archives-2-rave-racer.json) |
+| Arcade Archives 2: Rezon | 429337 | [429337-arcade-archives-2-rezon.json](./429337-arcade-archives-2-rezon.json) |
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
 | Arcade Archives 2: Satan of Saturn | 415720 | [415720-arcade-archives-2-satan-of-saturn.json](./415720-arcade-archives-2-satan-of-saturn.json) |
@@ -16266,6 +16268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Robots | 68533 | [68533-army-of-robots.json](./68533-army-of-robots.json) |
 | Army of Squirrels | 54721 | [54721-army-of-squirrels.json](./54721-army-of-squirrels.json) |
 | Army of Tactics | 281437 | [281437-army-of-tactics.json](./281437-army-of-tactics.json) |
+| Army of Tentacles: (Not) A Cthulhu Dating Sim - 10th Anniversary Edition | 429385 | [429385-army-of-tentacles-not-a-cthulhu-dating-sim-10th-anniversary-edition.json](./429385-army-of-tentacles-not-a-cthulhu-dating-sim-10th-anniversary-edition.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 | 172207 | [172207-army-of-tentacles-not-a-cthulhu-dating-sim-2.json](./172207-army-of-tentacles-not-a-cthulhu-dating-sim-2.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
@@ -17396,6 +17399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Aspire: Ina's Tale | 172672 | [172672-aspire-inas-tale.json](./172672-aspire-inas-tale.json) |
+| Aspiring Artist | 429353 | [429353-aspiring-artist.json](./429353-aspiring-artist.json) |
 | Aspiring Light | 161583 | [161583-aspiring-light.json](./161583-aspiring-light.json) |
 | Aspis | 346933 | [346933-aspis.json](./346933-aspis.json) |
 | ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
@@ -20018,6 +20022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automata Ecosystem: Cellular Automata Simulation | 202527 | [202527-automata-ecosystem-cellular-automata-simulation.json](./202527-automata-ecosystem-cellular-automata-simulation.json) |
 | Automata Empire | 33947 | [33947-automata-empire.json](./33947-automata-empire.json) |
 | Automata Streetcar | 303903 | [303903-automata-streetcar.json](./303903-automata-streetcar.json) |
+| Automate Death | 429360 | [429360-automate-death.json](./429360-automate-death.json) |
 | Automate Defend Repeat | 258069 | [258069-automate-defend-repeat.json](./258069-automate-defend-repeat.json) |
 | Automate It | 295288 | [295288-automate-it.json](./295288-automate-it.json) |
 | Automatic Flips | 409754 | [409754-automatic-flips.json](./409754-automatic-flips.json) |
