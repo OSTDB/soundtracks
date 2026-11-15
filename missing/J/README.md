@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbo Airport Story | 219930 | [219930-jumbo-airport-story.json](./219930-jumbo-airport-story.json) |
 | Jumbo Egg Hunt (Fun Easter Egg Hunting Adventure) | 91051 | [91051-jumbo-egg-hunt-fun-easter-egg-hunting-adventure.json](./91051-jumbo-egg-hunt-fun-easter-egg-hunting-adventure.json) |
 | Jumbo Jet Pilot | 60676 | [60676-jumbo-jet-pilot.json](./60676-jumbo-jet-pilot.json) |
+| Jumbo Ozaki no Hole in One Professional | 48340 | [48340-jumbo-ozaki-no-hole-in-one-professional.json](./48340-jumbo-ozaki-no-hole-in-one-professional.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumbo: Jewel of Realms | 197165 | [197165-jumbo-jewel-of-realms.json](./197165-jumbo-jewel-of-realms.json) |
 | Jumbot | 364782 | [364782-jumbot.json](./364782-jumbot.json) |
