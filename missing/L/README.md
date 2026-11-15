@@ -2864,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Egypt: Jewels of the Gods | 275970 | [275970-legend-of-egypt-jewels-of-the-gods.json](./275970-legend-of-egypt-jewels-of-the-gods.json) |
 | Legend of Egypt: Jewels of the Gods 2 | 184532 | [184532-legend-of-egypt-jewels-of-the-gods-2.json](./184532-legend-of-egypt-jewels-of-the-gods-2.json) |
 | Legend of Egypt: Pharaoh's Garden 2 - The Sacred Crocodile | 227100 | [227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
+| Legend of Egypt: Pharaohs Garden | 68197 | [68197-legend-of-egypt-pharaohs-garden.json](./68197-legend-of-egypt-pharaohs-garden.json) |
 | Legend of Egypt: Pharaohs Garden 2 - The sacred crocodile | 215339 | [215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Elements | 368160 | [368160-legend-of-elements.json](./368160-legend-of-elements.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
@@ -5232,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Cube | 100529 | [100529-light-cube.json](./100529-light-cube.json) |
 | Light Cubed | 121443 | [121443-light-cubed.json](./121443-light-cubed.json) |
 | Light Cycle | 96525 | [96525-light-cycle.json](./96525-light-cycle.json) |
+| Light Cycles | 67586 | [67586-light-cycles.json](./67586-light-cycles.json) |
 | Light Dark | 273573 | [273573-light-dark.json](./273573-light-dark.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Dude | 344070 | [344070-light-dude.json](./344070-light-dude.json) |
@@ -6030,6 +6032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linelight | 27034 | [27034-linelight.json](./27034-linelight.json) |
 | Linelith | 199313 | [199313-linelith.json](./199313-linelith.json) |
 | LineMaze | 272612 | [272612-linemaze.json](./272612-linemaze.json) |
+| Linench | 68820 | [68820-linench.json](./68820-linench.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Linerunner | 396269 | [396269-linerunner.json](./396269-linerunner.json) |
 | Lines | 272054 | [272054-lines.json](./272054-lines.json) |
@@ -9098,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Fire | 383142 | [383142-lost-in-the-fire.json](./383142-lost-in-the-fire.json) |
 | Lost in the Fogbound Deadwood | 406512 | [406512-lost-in-the-fogbound-deadwood.json](./406512-lost-in-the-fogbound-deadwood.json) |
 | Lost in the Forest | 277672 | [277672-lost-in-the-forest.json](./277672-lost-in-the-forest.json) |
+| Lost in the Forest | 68198 | [68198-lost-in-the-forest.json](./68198-lost-in-the-forest.json) |
 | Lost in the Grotto: Thievery | 344517 | [344517-lost-in-the-grotto-thievery.json](./344517-lost-in-the-grotto-thievery.json) |
 | Lost in the Hole | 401605 | [401605-lost-in-the-hole.json](./401605-lost-in-the-hole.json) |
 | Lost in the Maze of Those Memories I Wander and Nervously Laugh | 364243 | [364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json](./364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json) |
