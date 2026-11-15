@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemonhunter | 185124 | [185124-lemonhunter.json](./185124-lemonhunter.json) |
 | Lemonia The Last Castle | 384217 | [384217-lemonia-the-last-castle.json](./384217-lemonia-the-last-castle.json) |
 | Lemons Must Die | 70408 | [70408-lemons-must-die.json](./70408-lemons-must-die.json) |
+| Lemony Fresh | 422217 | [422217-lemony-fresh.json](./422217-lemony-fresh.json) |
 | Lemony Snicket's A Series of Unfortunate Events | 248492 | [248492-lemony-snickets-a-series-of-unfortunate-events.json](./248492-lemony-snickets-a-series-of-unfortunate-events.json) |
 | Lemony Snicket's A Series of Unfortunate Events | 248493 | [248493-lemony-snickets-a-series-of-unfortunate-events.json](./248493-lemony-snickets-a-series-of-unfortunate-events.json) |
 | Lempo | 214175 | [214175-lempo.json](./214175-lempo.json) |
@@ -4469,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethis: Daring Discoverers | 28360 | [28360-lethis-daring-discoverers.json](./28360-lethis-daring-discoverers.json) |
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
+| Leticulus | 421998 | [421998-leticulus.json](./421998-leticulus.json) |
 | Letifer | 267831 | [267831-letifer.json](./267831-letifer.json) |
 | Letina's Odyssey | 211881 | [211881-letinas-odyssey.json](./211881-letinas-odyssey.json) |
 | Letiste | 273192 | [273192-letiste.json](./273192-letiste.json) |
@@ -6472,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lithoi: Trials of Memory | 172002 | [172002-lithoi-trials-of-memory.json](./172002-lithoi-trials-of-memory.json) |
 | Litil Divil | 10516 | [10516-litil-divil.json](./10516-litil-divil.json) |
 | Litlip | 387281 | [387281-litlip.json](./387281-litlip.json) |
+| Litmustest | 422208 | [422208-litmustest.json](./422208-litmustest.json) |
 | Litter Factory | 376409 | [376409-litter-factory.json](./376409-litter-factory.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
@@ -6522,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Backrooms | 403917 | [403917-little-big-backrooms.json](./403917-little-big-backrooms.json) |
 | Little Big City | 273832 | [273832-little-big-city.json](./273832-little-big-city.json) |
 | Little Big Eater | 180624 | [180624-little-big-eater.json](./180624-little-big-eater.json) |
+| Little Big Ghost Hunter | 422211 | [422211-little-big-ghost-hunter.json](./422211-little-big-ghost-hunter.json) |
 | Little Big Guy | 148123 | [148123-little-big-guy.json](./148123-little-big-guy.json) |
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
 | Little Big Monsters | 149945 | [149945-little-big-monsters.json](./149945-little-big-monsters.json) |
@@ -11355,6 +11359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
 | Luvocious | 75258 | [75258-luvocious.json](./75258-luvocious.json) |
 | LuvSic | 150363 | [150363-luvsic.json](./150363-luvsic.json) |
+| Luvu: Your Desktop Pet | 422210 | [422210-luvu-your-desktop-pet.json](./422210-luvu-your-desktop-pet.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux | 72442 | [72442-lux.json](./72442-lux.json) |
 | Lux Alliance | 37003 | [37003-lux-alliance.json](./37003-lux-alliance.json) |
