@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
 | Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
 | Paign | 388159 | [388159-paign.json](./388159-paign.json) |
+| Pail in the Court of the Demon King | 428748 | [428748-pail-in-the-court-of-the-demon-king.json](./428748-pail-in-the-court-of-the-demon-king.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
 | Pain | 199771 | [199771-pain.json](./199771-pain.json) |
 | Pain | 231332 | [231332-pain.json](./231332-pain.json) |
@@ -2141,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par for the Dungeon | 258280 | [258280-par-for-the-dungeon.json](./258280-par-for-the-dungeon.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
+| Par Under Review | 428778 | [428778-par-under-review.json](./428778-par-under-review.json) |
 | Para Academy | 414210 | [414210-para-academy.json](./414210-para-academy.json) |
 | Para Bellum | 139658 | [139658-para-bellum.json](./139658-para-bellum.json) |
 | Para Bellum | 297877 | [297877-para-bellum.json](./297877-para-bellum.json) |
@@ -4389,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
 | Peggle Fevers | 413527 | [413527-peggle-fevers.json](./413527-peggle-fevers.json) |
+| Peggle Frights | 428758 | [428758-peggle-frights.json](./428758-peggle-frights.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
 | Peggle: Dual Shot | 21257 | [21257-peggle-dual-shot.json](./21257-peggle-dual-shot.json) |
 | Peggle: World of Warcraft Edition | 77022 | [77022-peggle-world-of-warcraft-edition.json](./77022-peggle-world-of-warcraft-edition.json) |
@@ -5388,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PES Club Manager | 70709 | [70709-pes-club-manager.json](./70709-pes-club-manager.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
 | Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
+| Pesca La Micro | 428753 | [428753-pesca-la-micro.json](./428753-pesca-la-micro.json) |
 | Pescatore | 48830 | [48830-pescatore.json](./48830-pescatore.json) |
 | Pesco | 69748 | [69748-pesco.json](./69748-pesco.json) |
 | Peskit | 346189 | [346189-peskit.json](./346189-peskit.json) |
@@ -9886,6 +9890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixPuzzle | 241702 | [241702-pixpuzzle.json](./241702-pixpuzzle.json) |
 | PixReveal | 416604 | [416604-pixreveal.json](./416604-pixreveal.json) |
 | Pixross | 142195 | [142195-pixross.json](./142195-pixross.json) |
+| Pixross Remastered | 428739 | [428739-pixross-remastered.json](./428739-pixross-remastered.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
 | Pixsteps: Gamified Pedometer | 251338 | [251338-pixsteps-gamified-pedometer.json](./251338-pixsteps-gamified-pedometer.json) |
 | Pixtalgia | 242018 | [242018-pixtalgia.json](./242018-pixtalgia.json) |
@@ -9904,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Blocks Chick Hunt | 409142 | [409142-piyo-blocks-chick-hunt.json](./409142-piyo-blocks-chick-hunt.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
+| Piyo Wars | 428749 | [428749-piyo-wars.json](./428749-piyo-wars.json) |
 | Piyokoro | 280072 | [280072-piyokoro.json](./280072-piyokoro.json) |
 | Piyomori DX | 248986 | [248986-piyomori-dx.json](./248986-piyomori-dx.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
@@ -9949,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Deliciozo | 54286 | [54286-pizza-deliciozo.json](./54286-pizza-deliciozo.json) |
+| Pizza Delivery | 428772 | [428772-pizza-delivery.json](./428772-pizza-delivery.json) |
 | Pizza Delivery 3000 | 193576 | [193576-pizza-delivery-3000.json](./193576-pizza-delivery-3000.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Delivery Boy | 50972 | [50972-pizza-delivery-boy.json](./50972-pizza-delivery-boy.json) |
@@ -11701,6 +11708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pack: Strategy Games | 84719 | [84719-pocket-pack-strategy-games.json](./84719-pocket-pack-strategy-games.json) |
 | Pocket Pack: Words & Numbers | 85346 | [85346-pocket-pack-words-and-numbers.json](./85346-pocket-pack-words-and-numbers.json) |
 | Pocket Pandas | 114730 | [114730-pocket-pandas.json](./114730-pocket-pandas.json) |
+| Pocket Parade | 428722 | [428722-pocket-parade.json](./428722-pocket-parade.json) |
 | Pocket Penguin: A Game Boy Style Adventure | 157831 | [157831-pocket-penguin-a-game-boy-style-adventure.json](./157831-pocket-penguin-a-game-boy-style-adventure.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
 | Pocket Pets | 122503 | [122503-pocket-pets.json](./122503-pocket-pets.json) |
