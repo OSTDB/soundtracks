@@ -3791,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
 | Marble Craze | 94485 | [94485-marble-craze.json](./94485-marble-craze.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
+| Marble Drop | 69994 | [69994-marble-drop.json](./69994-marble-drop.json) |
 | Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
 | Marble Flow | 319311 | [319311-marble-flow.json](./319311-marble-flow.json) |
@@ -10060,6 +10061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black 3 | 65003 | [65003-men-in-black-3.json](./65003-men-in-black-3.json) |
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
 | Men in Black II: Crossfire | 79736 | [79736-men-in-black-ii-crossfire.json](./79736-men-in-black-ii-crossfire.json) |
+| Men in Black: Alien Assault | 69996 | [69996-men-in-black-alien-assault.json](./69996-men-in-black-alien-assault.json) |
 | Men in Black: First Assignment | 119418 | [119418-men-in-black-first-assignment.json](./119418-men-in-black-first-assignment.json) |
 | Men In Black: Galaxy Defenders | 194045 | [194045-men-in-black-galaxy-defenders.json](./194045-men-in-black-galaxy-defenders.json) |
 | Men in Black: Global Invasion | 119167 | [119167-men-in-black-global-invasion.json](./119167-men-in-black-global-invasion.json) |
@@ -18239,6 +18241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters, Inc. Scream Arena | 4020 | [4020-monsters-inc-scream-arena.json](./4020-monsters-inc-scream-arena.json) |
 | Monsters, Inc. Scream Team | 6514 | [6514-monsters-inc-scream-team.json](./6514-monsters-inc-scream-team.json) |
 | Monsters, Inc.: Pinball Panic | 68735 | [68735-monsters-inc-pinball-panic.json](./68735-monsters-inc-pinball-panic.json) |
+| Monsters, Inc.: Wreck Room Arcade - Bowling for Screams | 69595 | [69595-monsters-inc-wreck-room-arcade-bowling-for-screams.json](./69595-monsters-inc-wreck-room-arcade-bowling-for-screams.json) |
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
 | Monsters, Inc.: Wreck Room Arcade - Monster Tag | 72181 | [72181-monsters-inc-wreck-room-arcade-monster-tag.json](./72181-monsters-inc-wreck-room-arcade-monster-tag.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
@@ -21343,6 +21346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Drone Simulator | 267839 | [267839-multiplayer-drone-simulator.json](./267839-multiplayer-drone-simulator.json) |
 | Multiplayer Game Maker | 335445 | [335445-multiplayer-game-maker.json](./335445-multiplayer-game-maker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
+| MultiPlayer Mania: Action | 69974 | [69974-multiplayer-mania-action.json](./69974-multiplayer-mania-action.json) |
 | Multiplayer Mercs | 255275 | [255275-multiplayer-mercs.json](./255275-multiplayer-mercs.json) |
 | Multiplayer Military | 249326 | [249326-multiplayer-military.json](./249326-multiplayer-military.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
