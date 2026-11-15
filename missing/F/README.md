@@ -5967,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | Final Zone | 344288 | [344288-final-zone.json](./344288-final-zone.json) |
 | Final Zone II | 44314 | [44314-final-zone-ii.json](./44314-final-zone-ii.json) |
+| Final Zone Wolf | 47513 | [47513-final-zone-wolf.json](./47513-final-zone-wolf.json) |
 | FinalAdventure | 118811 | [118811-finaladventure.json](./118811-finaladventure.json) |
 | FinalCypher | 237032 | [237032-finalcypher.json](./237032-finalcypher.json) |
 | FinalFire | 99049 | [99049-finalfire.json](./99049-finalfire.json) |
@@ -12719,6 +12720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franny Answers | 346286 | [346286-franny-answers.json](./346286-franny-answers.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
 | Frantic | 387920 | [387920-frantic.json](./387920-frantic.json) |
+| Frantic | 47510 | [47510-frantic.json](./47510-frantic.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Fall | 197985 | [197985-frantic-fall.json](./197985-frantic-fall.json) |
