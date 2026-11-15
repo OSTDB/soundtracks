@@ -14080,7 +14080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stop in Red Wood | 378387 | [378387-dont-stop-in-red-wood.json](./378387-dont-stop-in-red-wood.json) |
 | Don’t Stop Smiling | 384146 | [384146-don-t-stop-smiling.json](./384146-don-t-stop-smiling.json) |
 | Don't Stop You'll Die | 211794 | [211794-dont-stop-youll-die.json](./211794-dont-stop-youll-die.json) |
-| Don't Stop, Girlypop! | 287870 | [287870-dont-stop-girlypop.json](./287870-dont-stop-girlypop.json) |
 | Don't Take It Personally, Babe, It Just Ain't Your Story | 66033 | [66033-dont-take-it-personally-babe-it-just-aint-your-story.json](./66033-dont-take-it-personally-babe-it-just-aint-your-story.json) |
 | Don't Take It Personally, I Just Don't Like You | 246924 | [246924-dont-take-it-personally-i-just-dont-like-you.json](./246924-dont-take-it-personally-i-just-dont-like-you.json) |
 | Don't Take it Personally, I Just Don't Like You: The Camping Trip | 134780 | [134780-dont-take-it-personally-i-just-dont-like-you-the-camping-trip.json](./134780-dont-take-it-personally-i-just-dont-like-you-the-camping-trip.json) |
