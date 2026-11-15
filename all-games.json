@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T00:56:06.121Z",
-  "total_soundtracks": 3344,
+  "generated_at": "2026-11-15T01:01:03.099Z",
+  "total_soundtracks": 3345,
   "games": [
     {
       "igdb_id": 292844,
@@ -19553,6 +19553,20 @@
         {
           "album_name": "Leaving Lyndow (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/624KizLKd9JFfZGPK4EgJc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 389453,
+      "game_name": "Legacy of Kain: Ascendance",
+      "game_url": "https://ostdb.net/games/legacy-of-kain-ascendance",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc77f7f9fc6244ab794cdc97",
+      "albums": [
+        {
+          "album_name": "Legacy of Kain: Ascendance (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2fgayKQB0wuC4xRCCNoLBK",
           "apple_music_url": "",
           "album_link_url": ""
         }
