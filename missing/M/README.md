@@ -9583,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody's Melon Mania | 311977 | [311977-melodys-melon-mania.json](./311977-melodys-melon-mania.json) |
 | Melodyssey | 204510 | [204510-melodyssey.json](./204510-melodyssey.json) |
 | MelodyVerse | 188849 | [188849-melodyverse.json](./188849-melodyverse.json) |
+| Melolune | 75983 | [75983-melolune.json](./75983-melolune.json) |
 | MeloMisterio: Play Your Melody | 351783 | [351783-melomisterio-play-your-melody.json](./351783-melomisterio-play-your-melody.json) |
 | Melon | 214441 | [214441-melon.json](./214441-melon.json) |
 | Melon | 314248 | [314248-melon.json](./314248-melon.json) |
@@ -11029,6 +11030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug: Super Vehicle-001 | 191477 | [191477-metal-slug-super-vehicle-001.json](./191477-metal-slug-super-vehicle-001.json) |
 | Metal Slug: Super Vehicle-001 | 269931 | [269931-metal-slug-super-vehicle-001.json](./269931-metal-slug-super-vehicle-001.json) |
 | Metal Soldier Isaac II | 40353 | [40353-metal-soldier-isaac-ii.json](./40353-metal-soldier-isaac-ii.json) |
+| Metal Soldiers 2 | 76020 | [76020-metal-soldiers-2.json](./76020-metal-soldiers-2.json) |
 | Metal Soldiers 3 | 206126 | [206126-metal-soldiers-3.json](./206126-metal-soldiers-3.json) |
 | Metal Sonic | 330575 | [330575-metal-sonic.json](./330575-metal-sonic.json) |
 | Metal Sonic Hyperdrive | 45685 | [45685-metal-sonic-hyperdrive.json](./45685-metal-sonic-hyperdrive.json) |
@@ -14082,6 +14084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
 | MineSorter | 298545 | [298545-minesorter.json](./298545-minesorter.json) |
+| MineStickman | 76025 | [76025-minestickman.json](./76025-minestickman.json) |
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
 | MineSweep | 96878 | [96878-minesweep.json](./96878-minesweep.json) |
 | Minesweeper | 234164 | [234164-minesweeper.json](./234164-minesweeper.json) |
@@ -18151,6 +18154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterMind | 304210 | [304210-monstermind.json](./304210-monstermind.json) |
 | Monstermoerder | 150716 | [150716-monstermoerder.json](./150716-monstermoerder.json) |
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
+| Monsterplants vs Bowling : Arcade Edition | 76029 | [76029-monsterplants-vs-bowling-arcade-edition.json](./76029-monsterplants-vs-bowling-arcade-edition.json) |
 | Monsterpocalypse | 58108 | [58108-monsterpocalypse.json](./58108-monsterpocalypse.json) |
 | Monsterra | 235266 | [235266-monsterra.json](./235266-monsterra.json) |
 | MonsterReaver | 209913 | [209913-monsterreaver.json](./209913-monsterreaver.json) |
@@ -24606,6 +24610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mySudoku | 87571 | [87571-mysudoku.json](./87571-mysudoku.json) |
 | MyTale | 219979 | [219979-mytale.json](./219979-mytale.json) |
 | MyTavern | 295328 | [295328-mytavern.json](./295328-mytavern.json) |
+| MyTD | 76056 | [76056-mytd.json](./76056-mytd.json) |
 | MyTeardrop | 319097 | [319097-myteardrop.json](./319097-myteardrop.json) |
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 123394 | [123394-myth.json](./123394-myth.json) |
