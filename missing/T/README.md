@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
 | Tandis | 144176 | [144176-tandis.json](./144176-tandis.json) |
 | Tane o Maku Tori | 20174 | [20174-tane-o-maku-tori.json](./20174-tane-o-maku-tori.json) |
+| Tane Wo Maku Tori | 37464 | [37464-tane-wo-maku-tori.json](./37464-tane-wo-maku-tori.json) |
 | Tanetsuke de Hame Ana Kagu ni Naru Namaiki Ojou-sama-tachi: Joshi Ryou o Harama Seifuku! Shirokujichuu Gokujou Mesu Niku ni Tsutsumarete Zaajiru Suteru Dake no Seikatsu | 59024 | [59024-tanetsuke-de-hame-ana-kagu-ni-naru-namaiki-ojou-sama-tachi-joshi-ryou-o-harama-seifuku-shirokujichuu-gokujou-mesu-niku-ni-tsutsumarete-zaajiru-suteru-dake-no-seikatsu.json](./59024-tanetsuke-de-hame-ana-kagu-ni-naru-namaiki-ojou-sama-tachi-joshi-ryou-o-harama-seifuku-shirokujichuu-gokujou-mesu-niku-ni-tsutsumarete-zaajiru-suteru-dake-no-seikatsu.json) |
 | Tanezuke Bokujou Gakuen: Gakuen Marugoto Goshujin-sama no Kachiku Buhi ♪ Yaritai Houdai Haramase Shiikushite Kudasai! | 59023 | [59023-tanezuke-bokujou-gakuen-gakuen-marugoto-goshujin-sama-no-kachiku-buhi-yaritai-houdai-haramase-shiikushite-kudasai.json](./59023-tanezuke-bokujou-gakuen-gakuen-marugoto-goshujin-sama-no-kachiku-buhi-yaritai-houdai-haramase-shiikushite-kudasai.json) |
 | Tang Chi | 206613 | [206613-tang-chi.json](./206613-tang-chi.json) |
@@ -5596,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsujin 28-gou | 37474 | [37474-tetsujin-28-gou.json](./37474-tetsujin-28-gou.json) |
 | Tetsujin 28-Gou | 227116 | [227116-tetsujin-28-gou.json](./227116-tetsujin-28-gou.json) |
 | Tetsujou no Reigyo | 395110 | [395110-tetsujou-no-reigyo.json](./395110-tetsujou-no-reigyo.json) |
+| Tetsuman | 37454 | [37454-tetsuman.json](./37454-tetsuman.json) |
 | Tetsuman Gaiden | 242861 | [242861-tetsuman-gaiden.json](./242861-tetsuman-gaiden.json) |
 | Tetsumi Mahjong | 266004 | [266004-tetsumi-mahjong.json](./266004-tetsumi-mahjong.json) |
 | Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
@@ -15237,6 +15239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meat Factory | 359657 | [359657-the-meat-factory.json](./359657-the-meat-factory.json) |
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
 | The Mech is on Fire | 184823 | [184823-the-mech-is-on-fire.json](./184823-the-mech-is-on-fire.json) |
+| The Mechanical Room VR | 37412 | [37412-the-mechanical-room-vr.json](./37412-the-mechanical-room-vr.json) |
 | The Mechanical World of Dr. Gearbox | 128138 | [128138-the-mechanical-world-of-dr-gearbox.json](./128138-the-mechanical-world-of-dr-gearbox.json) |
 | The Mechsmith Run=Dim | 227976 | [227976-the-mechsmith-run-dim.json](./227976-the-mechsmith-run-dim.json) |
 | The Medic | 150306 | [150306-the-medic.json](./150306-the-medic.json) |
@@ -22245,6 +22248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think: Train Your Brain | 124092 | [124092-think-train-your-brain.json](./124092-think-train-your-brain.json) |
 | Think! | 142363 | [142363-think.json](./142363-think.json) |
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
+| ThinkAhead | 37421 | [37421-thinkahead.json](./37421-thinkahead.json) |
 | ThinkExplosive | 265274 | [265274-thinkexplosive.json](./265274-thinkexplosive.json) |
 | ThinkFast | 133005 | [133005-thinkfast.json](./133005-thinkfast.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
@@ -35595,6 +35599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
+| Trump Collection: Bottom Up Teki Trump Seikatsu | 37455 | [37455-trump-collection-bottom-up-teki-trump-seikatsu.json](./37455-trump-collection-bottom-up-teki-trump-seikatsu.json) |
 | Trump Escape | 89357 | [89357-trump-escape.json](./89357-trump-escape.json) |
 | Trump Horror | 343023 | [343023-trump-horror.json](./343023-trump-horror.json) |
 | Trump Island | 364045 | [364045-trump-island.json](./364045-trump-island.json) |
@@ -36239,6 +36244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Run | 274171 | [274171-tunnel-run.json](./274171-tunnel-run.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
+| Tunnel Runner VR | 37436 | [37436-tunnel-runner-vr.json](./37436-tunnel-runner-vr.json) |
 | Tunnel Rush | 92037 | [92037-tunnel-rush.json](./92037-tunnel-rush.json) |
 | Tunnel Tail | 64755 | [64755-tunnel-tail.json](./64755-tunnel-tail.json) |
 | Tunnel Terror | 69514 | [69514-tunnel-terror.json](./69514-tunnel-terror.json) |
