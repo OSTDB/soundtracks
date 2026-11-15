@@ -13472,6 +13472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Arena | 33785 | [33785-mimic-arena.json](./33785-mimic-arena.json) |
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
 | Mimic Dungeon | 273707 | [273707-mimic-dungeon.json](./273707-mimic-dungeon.json) |
+| Mimic Hunger | 427566 | [427566-mimic-hunger.json](./427566-mimic-hunger.json) |
 | Mimic Hunter | 36703 | [36703-mimic-hunter.json](./36703-mimic-hunter.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
 | Mimic Logic | 253406 | [253406-mimic-logic.json](./253406-mimic-logic.json) |
@@ -18282,6 +18283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster Zero | 77555 | [77555-monster-zero.json](./77555-monster-zero.json) |
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
+| Monster: Chronicles of Blood | 427552 | [427552-monster-chronicles-of-blood.json](./427552-monster-chronicles-of-blood.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
 | Monster! Bass Fishing | 49324 | [49324-monster-bass-fishing.json](./49324-monster-bass-fishing.json) |
 | Monster's Fair | 60660 | [60660-monsters-fair.json](./60660-monsters-fair.json) |
@@ -20600,6 +20602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out: Movers in Paradise | 143880 | [143880-moving-out-movers-in-paradise.json](./143880-moving-out-movers-in-paradise.json) |
 | Moving Out: The Employees of the Month Pack | 223729 | [223729-moving-out-the-employees-of-the-month-pack.json](./223729-moving-out-the-employees-of-the-month-pack.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
+| Moving Pieces | 427584 | [427584-moving-pieces.json](./427584-moving-pieces.json) |
 | Moving Puzzle: Cats | 71865 | [71865-moving-puzzle-cats.json](./71865-moving-puzzle-cats.json) |
 | Moving Puzzle: Jungle World | 93298 | [93298-moving-puzzle-jungle-world.json](./93298-moving-puzzle-jungle-world.json) |
 | Moving Shadows | 223728 | [223728-moving-shadows.json](./223728-moving-shadows.json) |
@@ -20881,6 +20884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bubble | 319437 | [319437-mr-bubble.json](./319437-mr-bubble.json) |
 | Mr. Bullfrog | 198831 | [198831-mr-bullfrog.json](./198831-mr-bullfrog.json) |
 | Mr. Bump | 137833 | [137833-mr-bump.json](./137833-mr-bump.json) |
+| Mr. Bunny | 427580 | [427580-mr-bunny.json](./427580-mr-bunny.json) |
 | Mr. Buttman's Grand Opening | 263122 | [263122-mr-buttmans-grand-opening.json](./263122-mr-buttmans-grand-opening.json) |
 | Mr. Capital! | 278082 | [278082-mr-capital.json](./278082-mr-capital.json) |
 | Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
