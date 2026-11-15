@@ -4450,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Isle of Stars | 375203 | [375203-cat-and-isle-of-stars.json](./375203-cat-and-isle-of-stars.json) |
 | Cat and Ladder Climb | 252877 | [252877-cat-and-ladder-climb.json](./252877-cat-and-ladder-climb.json) |
 | Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
+| Cat and Mouse | 11533 | [11533-cat-and-mouse.json](./11533-cat-and-mouse.json) |
 | Cat and Mouse | 291280 | [291280-cat-and-mouse.json](./291280-cat-and-mouse.json) |
 | Cat and Rat | 405278 | [405278-cat-and-rat.json](./405278-cat-and-rat.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
@@ -16732,6 +16733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party: Cross Fear | 135889 | [135889-corpse-party-cross-fear.json](./135889-corpse-party-cross-fear.json) |
 | Corpse Party: Rebuilt | 151849 | [151849-corpse-party-rebuilt.json](./151849-corpse-party-rebuilt.json) |
 | Corpse Party: Sweet Sachiko's Hysteric Birthday Bash | 116560 | [116560-corpse-party-sweet-sachikos-hysteric-birthday-bash.json](./116560-corpse-party-sweet-sachikos-hysteric-birthday-bash.json) |
+| Corpse Party: The Anthology - Sachiko's Game of Love: Hysteric Birthday 2U | 11608 | [11608-corpse-party-the-anthology-sachikos-game-of-love-hysteric-birthday-2u.json](./11608-corpse-party-the-anthology-sachikos-game-of-love-hysteric-birthday-2u.json) |
 | Corpse Reviver | 134865 | [134865-corpse-reviver.json](./134865-corpse-reviver.json) |
 | Corpse-Party | 148220 | [148220-corpse-party.json](./148220-corpse-party.json) |
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
@@ -18304,6 +18306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash | 171273 | [171273-crash.json](./171273-crash.json) |
 | Crash | 39514 | [39514-crash.json](./39514-crash.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
+| Crash 'N Score | 11554 | [11554-crash-n-score.json](./11554-crash-n-score.json) |
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash 'N' Burn Turbo | 241108 | [241108-crash-n-burn-turbo.json](./241108-crash-n-burn-turbo.json) |
 | Crash 'n' the Boys: Street Challenge | 48291 | [48291-crash-n-the-boys-street-challenge.json](./48291-crash-n-the-boys-street-challenge.json) |
