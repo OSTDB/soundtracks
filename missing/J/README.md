@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk Jigsaw Puzzle | 163406 | [163406-jack-and-the-beanstalk-jigsaw-puzzle.json](./163406-jack-and-the-beanstalk-jigsaw-puzzle.json) |
 | Jack and the Beanstalk: A Hidden Story | 368037 | [368037-jack-and-the-beanstalk-a-hidden-story.json](./368037-jack-and-the-beanstalk-a-hidden-story.json) |
+| Jack Attack | 24379 | [24379-jack-attack.json](./24379-jack-attack.json) |
 | Jack Attack | 408715 | [408715-jack-attack.json](./408715-jack-attack.json) |
 | Jack Attack 2 | 210045 | [210045-jack-attack-2.json](./210045-jack-attack-2.json) |
 | Jack Axe | 113414 | [113414-jack-axe.json](./113414-jack-axe.json) |
@@ -4191,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Lander | 18777 | [18777-jupiter-lander.json](./18777-jupiter-lander.json) |
 | Jupiter Lander | 86198 | [86198-jupiter-lander.json](./86198-jupiter-lander.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
+| Jupiter Mission 1999 | 24387 | [24387-jupiter-mission-1999.json](./24387-jupiter-mission-1999.json) |
 | Jupiter Moons: Mecha | 136500 | [136500-jupiter-moons-mecha.json](./136500-jupiter-moons-mecha.json) |
 | Jupiter Probe | 15089 | [15089-jupiter-probe.json](./15089-jupiter-probe.json) |
 | Jupiter Scope | 245066 | [245066-jupiter-scope.json](./245066-jupiter-scope.json) |
