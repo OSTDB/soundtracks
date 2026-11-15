@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazaretto | 36454 | [36454-lazaretto.json](./36454-lazaretto.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
+| Lazarus | 28273 | [28273-lazarus.json](./28273-lazarus.json) |
 | Lazarus A.D. 2222 | 258384 | [258384-lazarus-a-d-2222.json](./258384-lazarus-a-d-2222.json) |
 | Lazarus Doom | 198354 | [198354-lazarus-doom.json](./198354-lazarus-doom.json) |
 | Lazarus Trials: Trial 101 | 173877 | [173877-lazarus-trials-trial-101.json](./173877-lazarus-trials-trial-101.json) |
@@ -2426,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: The Gatherer | 182309 | [182309-league-of-light-the-gatherer.json](./182309-league-of-light-the-gatherer.json) |
 | League of Light: The Gatherer - Collector's Edition | 182310 | [182310-league-of-light-the-gatherer-collectors-edition.json](./182310-league-of-light-the-gatherer-collectors-edition.json) |
 | League of Light: Wicked Harvest | 108204 | [108204-league-of-light-wicked-harvest.json](./108204-league-of-light-wicked-harvest.json) |
+| League of Light: Wicked Harvest - Collector's Edition | 28332 | [28332-league-of-light-wicked-harvest-collectors-edition.json](./28332-league-of-light-wicked-harvest-collectors-edition.json) |
 | League of Maidens | 38786 | [38786-league-of-maidens.json](./38786-league-of-maidens.json) |
 | League of Maidens: Standard Edition | 343745 | [343745-league-of-maidens-standard-edition.json](./343745-league-of-maidens-standard-edition.json) |
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
@@ -5618,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like the Shooting Stars | 420194 | [420194-like-the-shooting-stars.json](./420194-like-the-shooting-stars.json) |
 | Like Them | 177258 | [177258-like-them.json](./177258-like-them.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
+| Like vampire like son | 28340 | [28340-like-vampire-like-son.json](./28340-like-vampire-like-son.json) |
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
 | Like2Be | 384343 | [384343-like2be.json](./384343-like2be.json) |
@@ -8185,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lóngmíng Punk | 154411 | [154411-longming-punk.json](./154411-longming-punk.json) |
 | LongPath | 150436 | [150436-longpath.json](./150436-longpath.json) |
 | Longphort | 164112 | [164112-longphort.json](./164112-longphort.json) |
+| Longshot Universe | 28259 | [28259-longshot-universe.json](./28259-longshot-universe.json) |
 | LongStory | 74495 | [74495-longstory.json](./74495-longstory.json) |
 | LongStory 2 | 253480 | [253480-longstory-2.json](./253480-longstory-2.json) |
 | Longsword Tabletop Tactics | 41045 | [41045-longsword-tabletop-tactics.json](./41045-longsword-tabletop-tactics.json) |
@@ -10683,6 +10687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luka Tim Incident | 318624 | [318624-luka-tim-incident.json](./318624-luka-tim-incident.json) |
 | Luke | 310612 | [310612-luke.json](./310612-luke.json) |
 | Luke & Rebecca | 111455 | [111455-luke-and-rebecca.json](./111455-luke-and-rebecca.json) |
+| Luke deluxe | 28335 | [28335-luke-deluxe.json](./28335-luke-deluxe.json) |
 | Luke Jump | 412498 | [412498-luke-jump.json](./412498-luke-jump.json) |
 | Luke Sidewalker | 30856 | [30856-luke-sidewalker.json](./30856-luke-sidewalker.json) |
 | Luke The Hybrid | 341188 | [341188-luke-the-hybrid.json](./341188-luke-the-hybrid.json) |
