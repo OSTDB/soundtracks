@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Arcade | 278491 | [278491-basketball-arcade.json](./278491-basketball-arcade.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
 | Basketball Arena | 143827 | [143827-basketball-arena.json](./143827-basketball-arena.json) |
+| Basketball Babe VR | 31264 | [31264-basketball-babe-vr.json](./31264-basketball-babe-vr.json) |
 | Basketball Baby | 186838 | [186838-basketball-baby.json](./186838-basketball-baby.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
 | Basketball Challenge | 14498 | [14498-basketball-challenge.json](./14498-basketball-challenge.json) |
@@ -13444,6 +13445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob's Dragon Hunt | 2435 | [2435-bobs-dragon-hunt.json](./2435-bobs-dragon-hunt.json) |
 | Bob's Fears | 381283 | [381283-bobs-fears.json](./381283-bobs-fears.json) |
 | Bob's Full House | 13416 | [13416-bobs-full-house.json](./13416-bobs-full-house.json) |
+| Bob's Game | 31240 | [31240-bobs-game.json](./31240-bobs-game.json) |
 | Bob's Island | 374855 | [374855-bobs-island.json](./374855-bobs-island.json) |
 | Bob's Journey | 224899 | [224899-bobs-journey.json](./224899-bobs-journey.json) |
 | Bob's Mansion | 267490 | [267490-bobs-mansion.json](./267490-bobs-mansion.json) |
@@ -16638,6 +16640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl King | 208214 | [208214-brawl-king.json](./208214-brawl-king.json) |
 | Brawl Me Blues | 350350 | [350350-brawl-me-blues.json](./350350-brawl-me-blues.json) |
 | Brawl Minus | 139163 | [139163-brawl-minus.json](./139163-brawl-minus.json) |
+| Brawl of Ages | 31246 | [31246-brawl-of-ages.json](./31246-brawl-of-ages.json) |
 | Brawl of America | 310856 | [310856-brawl-of-america.json](./310856-brawl-of-america.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
