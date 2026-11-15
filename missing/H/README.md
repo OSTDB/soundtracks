@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Quidditch Champions - Deluxe Edition | 318003 | [318003-harry-potter-quidditch-champions-deluxe-edition.json](./318003-harry-potter-quidditch-champions-deluxe-edition.json) |
 | Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
 | Harry Potter: Quidditch World Cup | 166523 | [166523-harry-potter-quidditch-world-cup.json](./166523-harry-potter-quidditch-world-cup.json) |
+| Harry Potter: Quidditch World Cup | 3944 | [3944-harry-potter-quidditch-world-cup.json](./3944-harry-potter-quidditch-world-cup.json) |
 | Harry Potter: Skurge Challenge | 305737 | [305737-harry-potter-skurge-challenge.json](./305737-harry-potter-skurge-challenge.json) |
 | Harry Potter: Spells | 66432 | [66432-harry-potter-spells.json](./66432-harry-potter-spells.json) |
 | Harry Potter: Wizards Unite | 75563 | [75563-harry-potter-wizards-unite.json](./75563-harry-potter-wizards-unite.json) |
@@ -12175,6 +12176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Dash: Suite Success Deluxe | 175305 | [175305-hotel-dash-suite-success-deluxe.json](./175305-hotel-dash-suite-success-deluxe.json) |
 | Hotel Detective | 71468 | [71468-hotel-detective.json](./71468-hotel-detective.json) |
 | Hotel Dracula | 81139 | [81139-hotel-dracula.json](./81139-hotel-dracula.json) |
+| Hotel Dusk: Room 215 | 9249 | [9249-hotel-dusk-room-215.json](./9249-hotel-dusk-room-215.json) |
 | Hotel Elera | 423040 | [423040-hotel-elera.json](./423040-hotel-elera.json) |
 | Hotel Empire Tycoon | 234464 | [234464-hotel-empire-tycoon.json](./234464-hotel-empire-tycoon.json) |
 | Hotel Empire: Check Inn | 413097 | [413097-hotel-empire-check-inn.json](./413097-hotel-empire-check-inn.json) |
