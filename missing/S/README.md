@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samhain | 178419 | [178419-samhain.json](./178419-samhain.json) |
 | Samhain | 179687 | [179687-samhain.json](./179687-samhain.json) |
 | Samhain | 267442 | [267442-samhain.json](./267442-samhain.json) |
+| Samhain World | 28316 | [28316-samhain-world.json](./28316-samhain-world.json) |
 | Sami | 367959 | [367959-sami.json](./367959-sami.json) |
 | Sami's Pet Care | 364405 | [364405-samis-pet-care.json](./364405-samis-pet-care.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
@@ -16932,6 +16933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky IT Support | 211572 | [211572-sneaky-it-support.json](./211572-sneaky-it-support.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
+| Sneaky Ninja | 28275 | [28275-sneaky-ninja.json](./28275-sneaky-ninja.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
 | Sneaky Purr | 422479 | [422479-sneaky-purr.json](./422479-sneaky-purr.json) |
 | Sneaky Rat | 219415 | [219415-sneaky-rat.json](./219415-sneaky-rat.json) |
@@ -24662,6 +24664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Glaive | 365395 | [365395-spirit-glaive.json](./365395-spirit-glaive.json) |
 | Spirit Guardian | 392215 | [392215-spirit-guardian.json](./392215-spirit-guardian.json) |
 | Spirit Guardians | 285687 | [285687-spirit-guardians.json](./285687-spirit-guardians.json) |
+| Spirit Guide Crucible | 28271 | [28271-spirit-guide-crucible.json](./28271-spirit-guide-crucible.json) |
 | Spirit Harem | 295341 | [295341-spirit-harem.json](./295341-spirit-harem.json) |
 | Spirit Hunter: Death Mark | 26624 | [26624-spirit-hunter-death-mark.json](./26624-spirit-hunter-death-mark.json) |
 | Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
@@ -30606,6 +30609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Racer G | 125823 | [125823-storm-racer-g.json](./125823-storm-racer-g.json) |
 | Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
 | Storm Rider 2 | 240536 | [240536-storm-rider-2.json](./240536-storm-rider-2.json) |
+| Storm Riders | 28265 | [28265-storm-riders.json](./28265-storm-riders.json) |
 | Storm Rush | 200098 | [200098-storm-rush.json](./200098-storm-rush.json) |
 | Storm Seas | 358577 | [358577-storm-seas.json](./358577-storm-seas.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
