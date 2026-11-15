@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamkball | 133803 | [133803-kamkball.json](./133803-kamkball.json) |
 | Kamla | 266813 | [266813-kamla.json](./266813-kamla.json) |
 | Kampf dem Terror | 98977 | [98977-kampf-dem-terror.json](./98977-kampf-dem-terror.json) |
+| Kampf dem Virus | 421627 | [421627-kampf-dem-virus.json](./421627-kampf-dem-virus.json) |
 | Kampfgruppe | 25900 | [25900-kampfgruppe.json](./25900-kampfgruppe.json) |
 | Kamu's Offering | 149232 | [149232-kamus-offering.json](./149232-kamus-offering.json) |
 | Kamui | 10983 | [10983-kamui.json](./10983-kamui.json) |
