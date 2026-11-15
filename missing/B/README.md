@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Origins - New Millennium Skins Pack | 75532 | [75532-batman-arkham-origins-new-millennium-skins-pack.json](./75532-batman-arkham-origins-new-millennium-skins-pack.json) |
 | Batman: Arkham Origins - Season Pass | 75529 | [75529-batman-arkham-origins-season-pass.json](./75529-batman-arkham-origins-season-pass.json) |
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
+| Batman: Arkham Underworld | 54606 | [54606-batman-arkham-underworld.json](./54606-batman-arkham-underworld.json) |
 | Batman: Arkham VR | 19563 | [19563-batman-arkham-vr.json](./19563-batman-arkham-vr.json) |
 | Batman: Back Street Brawl | 284216 | [284216-batman-back-street-brawl.json](./284216-batman-back-street-brawl.json) |
 | Batman: Caped Crusader - Chronicles | 411219 | [411219-batman-caped-crusader-chronicles.json](./411219-batman-caped-crusader-chronicles.json) |
@@ -11613,6 +11614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block City Wars: Mafia Town | 86930 | [86930-block-city-wars-mafia-town.json](./86930-block-city-wars-mafia-town.json) |
 | Block City: Bus Edition | 193216 | [193216-block-city-bus-edition.json](./193216-block-city-bus-edition.json) |
 | Block Collide | 180023 | [180023-block-collide.json](./180023-block-collide.json) |
+| Block Combine | 54602 | [54602-block-combine.json](./54602-block-combine.json) |
 | Block Competition | 100564 | [100564-block-competition.json](./100564-block-competition.json) |
 | Block Control | 278436 | [278436-block-control.json](./278436-block-control.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
