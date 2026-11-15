@@ -8171,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | PinPow | 379801 | [379801-pinpow.json](./379801-pinpow.json) |
 | PinRogue | 406935 | [406935-pinrogue.json](./406935-pinrogue.json) |
+| Pins 4 | 68187 | [68187-pins-4.json](./68187-pins-4.json) |
 | PinScape | 412707 | [412707-pinscape.json](./412707-pinscape.json) |
 | Pinsky Protocol | 360881 | [360881-pinsky-protocol.json](./360881-pinsky-protocol.json) |
 | Pinta's Quest | 227748 | [227748-pintas-quest.json](./227748-pintas-quest.json) |
@@ -20444,6 +20445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou | 37871 | [37871-puzzle-nintama-rantarou.json](./37871-puzzle-nintama-rantarou.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
+| Puzzle Nintama Rantarou: Ninjutsu Gakuen Puzzle Taikai no Dan | 67587 | [67587-puzzle-nintama-rantarou-ninjutsu-gakuen-puzzle-taikai-no-dan.json](./67587-puzzle-nintama-rantarou-ninjutsu-gakuen-puzzle-taikai-no-dan.json) |
 | Puzzle Noid | 106465 | [106465-puzzle-noid.json](./106465-puzzle-noid.json) |
 | Puzzle of Insects | 295993 | [295993-puzzle-of-insects.json](./295993-puzzle-of-insects.json) |
 | Puzzle of Jellies | 9731 | [9731-puzzle-of-jellies.json](./9731-puzzle-of-jellies.json) |
