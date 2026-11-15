@@ -12190,6 +12190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hustle | 216516 | [216516-the-hustle.json](./216516-the-hustle.json) |
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
 | The Hustlers | 306412 | [306412-the-hustlers.json](./306412-the-hustlers.json) |
+| The Hybrid Front | 45620 | [45620-the-hybrid-front.json](./45620-the-hybrid-front.json) |
 | The Hydra | 194230 | [194230-the-hydra.json](./194230-the-hydra.json) |
 | The Hydra Experiment | 275369 | [275369-the-hydra-experiment.json](./275369-the-hydra-experiment.json) |
 | The Hypnic Chain | 336729 | [336729-the-hypnic-chain.json](./336729-the-hypnic-chain.json) |
@@ -19704,6 +19705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Threat of North | 112157 | [112157-the-threat-of-north.json](./112157-the-threat-of-north.json) |
 | The Three Cardinals | 408709 | [408709-the-three-cardinals.json](./408709-the-three-cardinals.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
+| The Three Dragon Story | 45623 | [45623-the-three-dragon-story.json](./45623-the-three-dragon-story.json) |
 | The Three Kingdoms Era in China 2000 Years Ago | 405287 | [405287-the-three-kingdoms-era-in-china-2000-years-ago.json](./405287-the-three-kingdoms-era-in-china-2000-years-ago.json) |
 | The Three Kingdoms Era in China 2000 Years Ago: God Pass | 308860 | [308860-the-three-kingdoms-era-in-china-2000-years-ago-god-pass.json](./308860-the-three-kingdoms-era-in-china-2000-years-ago-god-pass.json) |
 | The Three Kingdoms of China | 115489 | [115489-the-three-kingdoms-of-china.json](./115489-the-three-kingdoms-of-china.json) |
@@ -22642,6 +22644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Defilements | 190307 | [190307-three-defilements.json](./190307-three-defilements.json) |
 | Three Digits | 24037 | [24037-three-digits.json](./24037-three-digits.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
+| Three Dirty Dwarves | 45480 | [45480-three-dirty-dwarves.json](./45480-three-dirty-dwarves.json) |
 | Three Doors: Labyrinth of Fear | 338974 | [338974-three-doors-labyrinth-of-fear.json](./338974-three-doors-labyrinth-of-fear.json) |
 | Three Fairies' Hoppin' Flappin' Great Journey! | 165726 | [165726-three-fairies-hoppin-flappin-great-journey.json](./165726-three-fairies-hoppin-flappin-great-journey.json) |
 | Three Feet From Death | 381093 | [381093-three-feet-from-death.json](./381093-three-feet-from-death.json) |
