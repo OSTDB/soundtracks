@@ -8927,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Vult Arena: Fastest 3rd person gameplay ever! | 74264 | [74264-deus-vult-arena-fastest-3rd-person-gameplay-ever.json](./74264-deus-vult-arena-fastest-3rd-person-gameplay-ever.json) |
 | Deus Vult II | 139765 | [139765-deus-vult-ii.json](./139765-deus-vult-ii.json) |
 | Deus Vult VR | 107634 | [107634-deus-vult-vr.json](./107634-deus-vult-vr.json) |
+| Deuterium Wars | 57843 | [57843-deuterium-wars.json](./57843-deuterium-wars.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Deutonium | 137367 | [137367-deutonium.json](./137367-deutonium.json) |
 | Deutsch 1.-4: Klasse - Fit fuers Gymnasium | 269746 | [269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json](./269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json) |
@@ -17147,6 +17148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
 | Dragon's Wrath | 114136 | [114136-dragons-wrath.json](./114136-dragons-wrath.json) |
+| Dragona | 57840 | [57840-dragona.json](./57840-dragona.json) |
 | Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
 | Dragonary | 154779 | [154779-dragonary.json](./154779-dragonary.json) |
 | Dragonball Evolution: The Game | 2571 | [2571-dragonball-evolution-the-game.json](./2571-dragonball-evolution-the-game.json) |
