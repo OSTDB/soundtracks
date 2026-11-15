@@ -5629,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
 | Age of Wonders 4: Herald of Glory | 371134 | [371134-age-of-wonders-4-herald-of-glory.json](./371134-age-of-wonders-4-herald-of-glory.json) |
+| Age of Wonders 4: Pre-Order Content Pack | 428738 | [428738-age-of-wonders-4-pre-order-content-pack.json](./428738-age-of-wonders-4-pre-order-content-pack.json) |
 | Age of Wonders 4: Premium Edition | 240573 | [240573-age-of-wonders-4-premium-edition.json](./240573-age-of-wonders-4-premium-edition.json) |
 | Age of Wonders 4: Primal Fury | 288837 | [288837-age-of-wonders-4-primal-fury.json](./288837-age-of-wonders-4-primal-fury.json) |
 | Age of Wonders 4: Rise from Ruin | 371022 | [371022-age-of-wonders-4-rise-from-ruin.json](./371022-age-of-wonders-4-rise-from-ruin.json) |
