@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earn to Die HD | 86888 | [86888-earn-to-die-hd.json](./86888-earn-to-die-hd.json) |
 | Earn to Die Rogue | 300653 | [300653-earn-to-die-rogue.json](./300653-earn-to-die-rogue.json) |
 | Earn Your Legacy | 404078 | [404078-earn-your-legacy.json](./404078-earn-your-legacy.json) |
+| Earnest Evans | 5377 | [5377-earnest-evans.json](./5377-earnest-evans.json) |
 | Earnest Evans Collection | 375602 | [375602-earnest-evans-collection.json](./375602-earnest-evans-collection.json) |
 | Ears and Burgers | 174295 | [174295-ears-and-burgers.json](./174295-ears-and-burgers.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
