@@ -5882,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
 | Master RNG | 341216 | [341216-master-rng.json](./341216-master-rng.json) |
+| Master Shot VR | 29329 | [29329-master-shot-vr.json](./29329-master-shot-vr.json) |
 | Master Show VR | 403968 | [403968-master-show-vr.json](./403968-master-show-vr.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
 | Master Spy | 24583 | [24583-master-spy.json](./24583-master-spy.json) |
@@ -10809,6 +10810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaForce | 264373 | [264373-metaforce.json](./264373-metaforce.json) |
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
+| Metagalactic Blitz | 30286 | [30286-metagalactic-blitz.json](./30286-metagalactic-blitz.json) |
 | Metagalactic Llamas Battle at the Edge of Time | 41188 | [41188-metagalactic-llamas-battle-at-the-edge-of-time.json](./41188-metagalactic-llamas-battle-at-the-edge-of-time.json) |
 | Metagates | 224526 | [224526-metagates.json](./224526-metagates.json) |
 | MetaGods | 191501 | [191501-metagods.json](./191501-metagods.json) |
@@ -15297,6 +15299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misha | 371009 | [371009-misha.json](./371009-misha.json) |
 | Misha | 414031 | [414031-misha.json](./414031-misha.json) |
 | Misha Adventures | 166792 | [166792-misha-adventures.json](./166792-misha-adventures.json) |
+| Mishap 2: An Intentional Haunting | 30144 | [30144-mishap-2-an-intentional-haunting.json](./30144-mishap-2-an-intentional-haunting.json) |
 | Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | MiSide | 255777 | [255777-miside.json](./255777-miside.json) |
@@ -16158,6 +16161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobia's Trip | 364602 | [364602-mobias-trip.json](./364602-mobias-trip.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Armor | 43777 | [43777-mobile-armor.json](./43777-mobile-armor.json) |
+| Mobile Astro | 30265 | [30265-mobile-astro.json](./30265-mobile-astro.json) |
 | Mobile Astro: EX Pack | 227029 | [227029-mobile-astro-ex-pack.json](./227029-mobile-astro-ex-pack.json) |
 | Mobile Ball | 109476 | [109476-mobile-ball.json](./109476-mobile-ball.json) |
 | Mobile Buncha | 363129 | [363129-mobile-buncha.json](./363129-mobile-buncha.json) |
