@@ -11056,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Animals | 406795 | [406795-angry-animals.json](./406795-angry-animals.json) |
 | Angry Anna: Christmas Quest | 281605 | [281605-angry-anna-christmas-quest.json](./281605-angry-anna-christmas-quest.json) |
 | Angry Anna: Halloween Quest 2 | 281607 | [281607-angry-anna-halloween-quest-2.json](./281607-angry-anna-halloween-quest-2.json) |
+| Angry Armies | 65674 | [65674-angry-armies.json](./65674-angry-armies.json) |
 | Angry Arrows | 34755 | [34755-angry-arrows.json](./34755-angry-arrows.json) |
 | Angry Ball VR | 112961 | [112961-angry-ball-vr.json](./112961-angry-ball-vr.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
@@ -11166,6 +11167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Faic | 407667 | [407667-angry-faic.json](./407667-angry-faic.json) |
 | Angry Farm | 121146 | [121146-angry-farm.json](./121146-angry-farm.json) |
+| Angry Fish | 65138 | [65138-angry-fish.json](./65138-angry-fish.json) |
 | Angry Fish: Deep Sea | 62787 | [62787-angry-fish-deep-sea.json](./62787-angry-fish-deep-sea.json) |
 | Angry Fish: Halloween | 62785 | [62785-angry-fish-halloween.json](./62785-angry-fish-halloween.json) |
 | Angry food | 128121 | [128121-angry-food.json](./128121-angry-food.json) |
@@ -15772,6 +15774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada 2526 | 15027 | [15027-armada-2526.json](./15027-armada-2526.json) |
 | Armada 2526: Gold Edition | 30223 | [30223-armada-2526-gold-edition.json](./30223-armada-2526-gold-edition.json) |
 | Armada 2526: Supernova | 15039 | [15039-armada-2526-supernova.json](./15039-armada-2526-supernova.json) |
+| Armada F/X Racers | 65681 | [65681-armada-f-x-racers.json](./65681-armada-f-x-racers.json) |
 | Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
 | Armada Online | 60410 | [60410-armada-online.json](./60410-armada-online.json) |
 | Armada Pet Wars | 373140 | [373140-armada-pet-wars.json](./373140-armada-pet-wars.json) |
@@ -20725,6 +20728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azaran: The Demon Bottle | 359913 | [359913-azaran-the-demon-bottle.json](./359913-azaran-the-demon-bottle.json) |
 | Azarashi | 181538 | [181538-azarashi.json](./181538-azarashi.json) |
 | Azarashi Dentetsu | 142074 | [142074-azarashi-dentetsu.json](./142074-azarashi-dentetsu.json) |
+| Azarashi Sentai Inazuma: Doki-doki Daisakusen | 65672 | [65672-azarashi-sentai-inazuma-doki-doki-daisakusen.json](./65672-azarashi-sentai-inazuma-doki-doki-daisakusen.json) |
 | Azarine Heart | 219719 | [219719-azarine-heart.json](./219719-azarine-heart.json) |
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
 | Azato Kawaii Ayase-chan! | 402458 | [402458-azato-kawaii-ayase-chan.json](./402458-azato-kawaii-ayase-chan.json) |
