@@ -4061,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex | 210342 | [210342-vortex.json](./210342-vortex.json) |
 | Vortex | 286183 | [286183-vortex.json](./286183-vortex.json) |
 | Vortex | 324730 | [324730-vortex.json](./324730-vortex.json) |
+| Vortex | 34955 | [34955-vortex.json](./34955-vortex.json) |
 | Vortex | 411634 | [411634-vortex.json](./411634-vortex.json) |
 | Vortex | 417487 | [417487-vortex.json](./417487-vortex.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
