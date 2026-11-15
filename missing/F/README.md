@@ -9377,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowerless Gardenia | 118629 | [118629-flowerless-gardenia.json](./118629-flowerless-gardenia.json) |
 | Flowerpatch | 153579 | [153579-flowerpatch.json](./153579-flowerpatch.json) |
 | Flowerpeer | 253667 | [253667-flowerpeer.json](./253667-flowerpeer.json) |
+| Flowerpop Adventures | 20754 | [20754-flowerpop-adventures.json](./20754-flowerpop-adventures.json) |
 | FlowerRock | 301227 | [301227-flowerrock.json](./301227-flowerrock.json) |
 | Flowers 2 by Powgi | 140419 | [140419-flowers-2-by-powgi.json](./140419-flowers-2-by-powgi.json) |
 | Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
@@ -15277,6 +15278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furius Legacy | 209763 | [209763-furius-legacy.json](./209763-furius-legacy.json) |
 | FuriusAO | 133635 | [133635-furiusao.json](./133635-furiusao.json) |
 | Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
+| Furmins | 20475 | [20475-furmins.json](./20475-furmins.json) |
 | FurnCap | 145985 | [145985-furncap.json](./145985-furncap.json) |
 | Furni-Chore | 383879 | [383879-furni-chore.json](./383879-furni-chore.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
