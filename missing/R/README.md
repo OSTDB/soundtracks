@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R'lyeh Assault | 230194 | [230194-rlyeh-assault.json](./230194-rlyeh-assault.json) |
 | R(IV)P-1 | 399343 | [399343-r-iv-p-1.json](./399343-r-iv-p-1.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
+| R/C Helicopter: Indoor Flight Simulation | 61826 | [61826-r-c-helicopter-indoor-flight-simulation.json](./61826-r-c-helicopter-indoor-flight-simulation.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R/C Stunt Copter | 44953 | [44953-r-c-stunt-copter.json](./44953-r-c-stunt-copter.json) |
 | R/nosleep: The Night Shift at Paradise Valley Pool | 326899 | [326899-r-nosleep-the-night-shift-at-paradise-valley-pool.json](./326899-r-nosleep-the-night-shift-at-paradise-valley-pool.json) |
@@ -1707,6 +1708,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakugaki Special | 137919 | [137919-rakugaki-special.json](./137919-rakugaki-special.json) |
 | Rakugakids | 3581 | [3581-rakugakids.json](./3581-rakugakids.json) |
 | Rakugo Sentai Kaigyaaku | 411426 | [411426-rakugo-sentai-kaigyaaku.json](./411426-rakugo-sentai-kaigyaaku.json) |
+| Rakushou! Pachi-Slot Sengen | 62350 | [62350-rakushou-pachi-slot-sengen.json](./62350-rakushou-pachi-slot-sengen.json) |
+| Rakushou! Pachi-Slot Sengen 2 | 62348 | [62348-rakushou-pachi-slot-sengen-2.json](./62348-rakushou-pachi-slot-sengen-2.json) |
+| Rakushou! Pachi-Slot Sengen 3 | 62347 | [62347-rakushou-pachi-slot-sengen-3.json](./62347-rakushou-pachi-slot-sengen-3.json) |
+| Rakushou! Pachi-Slot Sengen 4 | 62346 | [62346-rakushou-pachi-slot-sengen-4.json](./62346-rakushou-pachi-slot-sengen-4.json) |
+| Rakushou! Pachi-Slot Sengen 5: Rio Paradise | 62353 | [62353-rakushou-pachi-slot-sengen-5-rio-paradise.json](./62353-rakushou-pachi-slot-sengen-5-rio-paradise.json) |
+| Rakushou! Pachi-Slot Sengen 6: Rio 2 Cruising Vanadis | 62351 | [62351-rakushou-pachi-slot-sengen-6-rio-2-cruising-vanadis.json](./62351-rakushou-pachi-slot-sengen-6-rio-2-cruising-vanadis.json) |
 | Rakuten | 189371 | [189371-rakuten.json](./189371-rakuten.json) |
 | Raldi's Crackhouse | 285343 | [285343-raldis-crackhouse.json](./285343-raldis-crackhouse.json) |
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
@@ -12202,6 +12209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommate 3: Ryouko Kaze no Kagayaku Asa ni | 420462 | [420462-roommate-3-ryouko-kaze-no-kagayaku-asa-ni.json](./420462-roommate-3-ryouko-kaze-no-kagayaku-asa-ni.json) |
 | Roommate Complete Box | 71078 | [71078-roommate-complete-box.json](./71078-roommate-complete-box.json) |
 | Roommate: Asami - Oku-sama wa Joshikousei | 330582 | [330582-roommate-asami-oku-sama-wa-joshikousei.json](./330582-roommate-asami-oku-sama-wa-joshikousei.json) |
+| Roommate: Inoue Ryoko | 62361 | [62361-roommate-inoue-ryoko.json](./62361-roommate-inoue-ryoko.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Roommates | 9885 | [9885-roommates.json](./9885-roommates.json) |
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
