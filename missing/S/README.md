@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Vessels | 108012 | [108012-savage-vessels.json](./108012-savage-vessels.json) |
 | Savage Warriors | 46929 | [46929-savage-warriors.json](./46929-savage-warriors.json) |
 | Savage Worlds | 58078 | [58078-savage-worlds.json](./58078-savage-worlds.json) |
+| Savage XR | 54604 | [54604-savage-xr.json](./54604-savage-xr.json) |
 | Savage: Resurrection | 19277 | [19277-savage-resurrection.json](./19277-savage-resurrection.json) |
 | Savage: The Battle for Newerth | 2247 | [2247-savage-the-battle-for-newerth.json](./2247-savage-the-battle-for-newerth.json) |
 | Savage: The Shard of Gosen | 34332 | [34332-savage-the-shard-of-gosen.json](./34332-savage-the-shard-of-gosen.json) |
@@ -21517,6 +21518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cat Digger | 418287 | [418287-space-cat-digger.json](./418287-space-cat-digger.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
 | Space Cats | 293527 | [293527-space-cats.json](./293527-space-cats.json) |
+| Space Cats In Space! | 54603 | [54603-space-cats-in-space.json](./54603-space-cats-in-space.json) |
 | Space Cats Saga: Chapter I | 196023 | [196023-space-cats-saga-chapter-i.json](./196023-space-cats-saga-chapter-i.json) |
 | Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
 | Space Cats Tactics | 151688 | [151688-space-cats-tactics.json](./151688-space-cats-tactics.json) |
@@ -33646,6 +33648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
 | Sunburnt | 183681 | [183681-sunburnt.json](./183681-sunburnt.json) |
 | Sunburnt | 86483 | [86483-sunburnt.json](./86483-sunburnt.json) |
+| Sunburst | 54626 | [54626-sunburst.json](./54626-sunburst.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower | 90533 | [90533-suncore-chronicles-the-tower.json](./90533-suncore-chronicles-the-tower.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
