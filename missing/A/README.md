@@ -9756,6 +9756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Angst: Steam Deluxe Edition | 68845 | [68845-american-angst-steam-deluxe-edition.json](./68845-american-angst-steam-deluxe-edition.json) |
 | American Art Jigsaw Puzzle | 90289 | [90289-american-art-jigsaw-puzzle.json](./90289-american-art-jigsaw-puzzle.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
+| American Baseball | 46153 | [46153-american-baseball.json](./46153-american-baseball.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Battle Dome | 44451 | [44451-american-battle-dome.json](./44451-american-battle-dome.json) |
 | American Billiards | 94656 | [94656-american-billiards.json](./94656-american-billiards.json) |
@@ -9845,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Pool II | 90932 | [90932-american-pool-ii.json](./90932-american-pool-ii.json) |
 | American Popstar: Road to Celebrity | 68234 | [68234-american-popstar-road-to-celebrity.json](./68234-american-popstar-road-to-celebrity.json) |
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
+| American Pro Football | 46152 | [46152-american-pro-football.json](./46152-american-pro-football.json) |
 | American Racing Games Collection | 142032 | [142032-american-racing-games-collection.json](./142032-american-racing-games-collection.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Rodeo: Bull Rider 2000 | 202055 | [202055-american-rodeo-bull-rider-2000.json](./202055-american-rodeo-bull-rider-2000.json) |
@@ -14576,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Shop Simulator | 388791 | [388791-arcade-shop-simulator.json](./388791-arcade-shop-simulator.json) |
 | Arcade Simulator | 118001 | [118001-arcade-simulator.json](./118001-arcade-simulator.json) |
 | Arcade Slots: AGAW Edition | 61931 | [61931-arcade-slots-agaw-edition.json](./61931-arcade-slots-agaw-edition.json) |
+| Arcade Smash Hits | 46151 | [46151-arcade-smash-hits.json](./46151-arcade-smash-hits.json) |
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade Space Shooter 2 in 1 | 152522 | [152522-arcade-space-shooter-2-in-1.json](./152522-arcade-space-shooter-2-in-1.json) |
@@ -16335,6 +16338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Academy: Home Studio | 21839 | [21839-art-academy-home-studio.json](./21839-art-academy-home-studio.json) |
 | Art Academy: Second Semester | 84766 | [84766-art-academy-second-semester.json](./84766-art-academy-second-semester.json) |
 | Art Academy: Sketchpad | 51185 | [51185-art-academy-sketchpad.json](./51185-art-academy-sketchpad.json) |
+| Art Alive | 46288 | [46288-art-alive.json](./46288-art-alive.json) |
 | Art Apart | 206011 | [206011-art-apart.json](./206011-art-apart.json) |
 | Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
