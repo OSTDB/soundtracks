@@ -6929,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kur | 130250 | [130250-kur.json](./130250-kur.json) |
 | Kur Tu Teci, Gailīti Manu? | 307170 | [307170-kur-tu-teci-gailiti-manu.json](./307170-kur-tu-teci-gailiti-manu.json) |
 | Kur, Pelīte, Tu Tecēji? | 305384 | [305384-kur-pelite-tu-teceji.json](./305384-kur-pelite-tu-teceji.json) |
+| Kur: Endless Descent | 424548 | [424548-kur-endless-descent.json](./424548-kur-endless-descent.json) |
 | Kura5: Bonds of the Undying | 139235 | [139235-kura5-bonds-of-the-undying.json](./139235-kura5-bonds-of-the-undying.json) |
 | Kuraburo Kai | 32094 | [32094-kuraburo-kai.json](./32094-kuraburo-kai.json) |
 | Kurage Life | 368103 | [368103-kurage-life.json](./368103-kurage-life.json) |
