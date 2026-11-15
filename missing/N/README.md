@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Realms | 99527 | [99527-nebula-realms.json](./99527-nebula-realms.json) |
 | Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
 | Nebula Within | 137871 | [137871-nebula-within.json](./137871-nebula-within.json) |
+| Nebula: Sole Survivor | 58949 | [58949-nebula-sole-survivor.json](./58949-nebula-sole-survivor.json) |
 | Nebula's Descent | 253893 | [253893-nebulas-descent.json](./253893-nebulas-descent.json) |
 | Nebulae | 405253 | [405253-nebulae.json](./405253-nebulae.json) |
 | Nebulae | 409243 | [409243-nebulae.json](./409243-nebulae.json) |
@@ -6649,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No! Stalgia! No! | 421592 | [421592-no-stalgia-no.json](./421592-no-stalgia-no.json) |
 | No!Ah!'s Ark | 163795 | [163795-no-ah-s-ark.json](./163795-no-ah-s-ark.json) |
 | No. 10: Full Confidence | 414178 | [414178-no-10-full-confidence.json](./414178-no-10-full-confidence.json) |
+| No. 11 Downing Street: The Adventures of Ninja Nanny & Sherrloch Sheltie | 59526 | [59526-no-11-downing-street-the-adventures-of-ninja-nanny-and-sherrloch-sheltie.json](./59526-no-11-downing-street-the-adventures-of-ninja-nanny-and-sherrloch-sheltie.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
 | No.13813 | 403923 | [403923-no-13813.json](./403923-no-13813.json) |
 | No.8 High School | 333506 | [333506-no-8-high-school.json](./333506-no-8-high-school.json) |
