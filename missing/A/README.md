@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About a Boy: Deluxe Edition | 325392 | [325392-about-a-boy-deluxe-edition.json](./325392-about-a-boy-deluxe-edition.json) |
 | About a Girl | 361004 | [361004-about-a-girl.json](./361004-about-a-girl.json) |
 | About an Elf | 187860 | [187860-about-an-elf.json](./187860-about-an-elf.json) |
+| About Elise | 33366 | [33366-about-elise.json](./33366-about-elise.json) |
 | About Emma | 179038 | [179038-about-emma.json](./179038-about-emma.json) |
 | About Face | 307085 | [307085-about-face.json](./307085-about-face.json) |
 | About Fishing | 380410 | [380410-about-fishing.json](./380410-about-fishing.json) |
@@ -2397,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abscission | 257612 | [257612-abscission.json](./257612-abscission.json) |
 | Abscond | 76345 | [76345-abscond.json](./76345-abscond.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
+| Absence | 33571 | [33571-absence.json](./33571-absence.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
 | Absence of Light | 244523 | [244523-absence-of-light.json](./244523-absence-of-light.json) |
 | Absence of Light | 344811 | [344811-absence-of-light.json](./344811-absence-of-light.json) |
@@ -12609,6 +12611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Antheads: It Came from the Desert II | 1061 | [1061-antheads-it-came-from-the-desert-ii.json](./1061-antheads-it-came-from-the-desert-ii.json) |
+| Anthelion | 32308 | [32308-anthelion.json](./32308-anthelion.json) |
 | Anthem of Roses | 55067 | [55067-anthem-of-roses.json](./55067-anthem-of-roses.json) |
 | Anthem: Legion of Dawn Edition | 103276 | [103276-anthem-legion-of-dawn-edition.json](./103276-anthem-legion-of-dawn-edition.json) |
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
@@ -20433,6 +20436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken: Hentai Dice | 306328 | [306328-awaken-hentai-dice.json](./306328-awaken-hentai-dice.json) |
 | Awaken: Underwater Odyssey | 133951 | [133951-awaken-underwater-odyssey.json](./133951-awaken-underwater-odyssey.json) |
 | Awakened | 261133 | [261133-awakened.json](./261133-awakened.json) |
+| Awakened | 32300 | [32300-awakened.json](./32300-awakened.json) |
 | Awakened | 94809 | [94809-awakened.json](./94809-awakened.json) |
 | Awakened Evil | 190077 | [190077-awakened-evil.json](./190077-awakened-evil.json) |
 | Awakened: Dark Space | 141178 | [141178-awakened-dark-space.json](./141178-awakened-dark-space.json) |
