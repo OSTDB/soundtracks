@@ -6653,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KubeBird | 185918 | [185918-kubebird.json](./185918-kubebird.json) |
 | Kubes | 252418 | [252418-kubes.json](./252418-kubes.json) |
 | Kubes | 67633 | [67633-kubes.json](./67633-kubes.json) |
+| Kubi Meguri | 423925 | [423925-kubi-meguri.json](./423925-kubi-meguri.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubic | 58107 | [58107-kubic.json](./58107-kubic.json) |
 | Kubics | 284751 | [284751-kubics.json](./284751-kubics.json) |
