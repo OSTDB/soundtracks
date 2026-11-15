@@ -5428,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetri-Pentix | 87930 | [87930-tetri-pentix.json](./87930-tetri-pentix.json) |
 | Tetri3D | 88285 | [88285-tetri3d.json](./88285-tetri3d.json) |
 | Tetrible | 184434 | [184434-tetrible.json](./184434-tetrible.json) |
+| Tetric | 421999 | [421999-tetric.json](./421999-tetric.json) |
 | Tetrigram | 195489 | [195489-tetrigram.json](./195489-tetrigram.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
@@ -9173,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
 | The Delirium Vacation | 126794 | [126794-the-delirium-vacation.json](./126794-the-delirium-vacation.json) |
 | The Deliverer | 180643 | [180643-the-deliverer.json](./180643-the-deliverer.json) |
+| The Delivery Guy | 422085 | [422085-the-delivery-guy.json](./422085-the-delivery-guy.json) |
 | The DeLuca Family: Season 1 | 297721 | [297721-the-deluca-family-season-1.json](./297721-the-deluca-family-season-1.json) |
 | The Delusion of Dream | 180437 | [180437-the-delusion-of-dream.json](./180437-the-delusion-of-dream.json) |
 | The Delusions of Maximillian Wurst | 243646 | [243646-the-delusions-of-maximillian-wurst.json](./243646-the-delusions-of-maximillian-wurst.json) |
@@ -13189,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight's Challenge | 350369 | [350369-the-knights-challenge.json](./350369-the-knights-challenge.json) |
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
 | The Knight's Path | 258981 | [258981-the-knights-path.json](./258981-the-knights-path.json) |
+| The Knight's Tour | 422008 | [422008-the-knights-tour.json](./422008-the-knights-tour.json) |
 | The Knightling | 313587 | [313587-the-knightling.json](./313587-the-knightling.json) |
 | The Knights of Dice | 184469 | [184469-the-knights-of-dice.json](./184469-the-knights-of-dice.json) |
 | The Knights of the Cross | 394556 | [394556-the-knights-of-the-cross.json](./394556-the-knights-of-the-cross.json) |
@@ -20384,6 +20387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Truth is Out There - Mystery Adventure Pack | 146441 | [146441-the-truth-is-out-there-mystery-adventure-pack.json](./146441-the-truth-is-out-there-mystery-adventure-pack.json) |
 | The Truth Is Up There | 397424 | [397424-the-truth-is-up-there.json](./397424-the-truth-is-up-there.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
+| The Truth Written by the Stars | 421986 | [421986-the-truth-written-by-the-stars.json](./421986-the-truth-written-by-the-stars.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
 | The Tubby Custard Bubble Game | 307841 | [307841-the-tubby-custard-bubble-game.json](./307841-the-tubby-custard-bubble-game.json) |
 | The Tube | 47148 | [47148-the-tube.json](./47148-the-tube.json) |
@@ -27842,6 +27846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon Breakpoint: Sentinel Corp. Pack | 399903 | [399903-tom-clancys-ghost-recon-breakpoint-sentinel-corp-pack.json](./399903-tom-clancys-ghost-recon-breakpoint-sentinel-corp-pack.json) |
 | Tom Clancy's Ghost Recon Commander | 77976 | [77976-tom-clancys-ghost-recon-commander.json](./77976-tom-clancys-ghost-recon-commander.json) |
 | Tom Clancy's Ghost Recon Predator | 1302 | [1302-tom-clancys-ghost-recon-predator.json](./1302-tom-clancys-ghost-recon-predator.json) |
+| Tom Clancy's Ghost Recon: Breakpoint - Aurora Edition | 422007 | [422007-tom-clancys-ghost-recon-breakpoint-aurora-edition.json](./422007-tom-clancys-ghost-recon-breakpoint-aurora-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Limited Edition | 120557 | [120557-tom-clancys-ghost-recon-breakpoint-limited-edition.json](./120557-tom-clancys-ghost-recon-breakpoint-limited-edition.json) |
@@ -34329,6 +34334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenchlore | 148464 | [148464-trenchlore.json](./148464-trenchlore.json) |
 | Trenchpunk | 299700 | [299700-trenchpunk.json](./299700-trenchpunk.json) |
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
+| Trenchworms | 421985 | [421985-trenchworms.json](./421985-trenchworms.json) |
 | Trend Ballz | 146077 | [146077-trend-ballz.json](./146077-trend-ballz.json) |
 | Trending Pharaoh | 109515 | [109515-trending-pharaoh.json](./109515-trending-pharaoh.json) |
 | Trendpoker 3D Community Edition | 76437 | [76437-trendpoker-3d-community-edition.json](./76437-trendpoker-3d-community-edition.json) |
