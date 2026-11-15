@@ -20172,6 +20172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mots Croises, La Selection Des Meilleurs Mots Croises, Tele 7 Jeux | 144075 | [144075-mots-croises-la-selection-des-meilleurs-mots-croises-tele-7-jeux.json](./144075-mots-croises-la-selection-des-meilleurs-mots-croises-tele-7-jeux.json) |
 | Mottainai Ghost | 339980 | [339980-mottainai-ghost.json](./339980-mottainai-ghost.json) |
 | Motte Island | 20064 | [20064-motte-island.json](./20064-motte-island.json) |
+| Motteke Oh! Dorobou | 37919 | [37919-motteke-oh-dorobou.json](./37919-motteke-oh-dorobou.json) |
 | Motteke Tamago | 42015 | [42015-motteke-tamago.json](./42015-motteke-tamago.json) |
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
 | Motteke Tamago with Ganbare Kamonohashi | 247571 | [247571-motteke-tamago-with-ganbare-kamonohashi.json](./247571-motteke-tamago-with-ganbare-kamonohashi.json) |
@@ -20330,6 +20331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourningwood Lodge 2: Hidden Voice | 375487 | [375487-mourningwood-lodge-2-hidden-voice.json](./375487-mourningwood-lodge-2-hidden-voice.json) |
 | Mournwake: Across the Styx | 422846 | [422846-mournwake-across-the-styx.json](./422846-mournwake-across-the-styx.json) |
 | Mouryou Senki Madara | 48418 | [48418-mouryou-senki-madara.json](./48418-mouryou-senki-madara.json) |
+| Mouryou Senki Madara 2 | 37918 | [37918-mouryou-senki-madara-2.json](./37918-mouryou-senki-madara-2.json) |
 | Mouse | 367884 | [367884-mouse.json](./367884-mouse.json) |
 | Mouse (Sneaking) | 81968 | [81968-mouse-sneaking.json](./81968-mouse-sneaking.json) |
 | Mouse & Crane | 302243 | [302243-mouse-and-crane.json](./302243-mouse-and-crane.json) |
