@@ -13184,6 +13184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Jigsaw from Japan | 397868 | [397868-dog-jigsaw-from-japan.json](./397868-dog-jigsaw-from-japan.json) |
 | Dog Knowse Chapter 1: The Dame | 249790 | [249790-dog-knowse-chapter-1-the-dame.json](./249790-dog-knowse-chapter-1-the-dame.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
+| Dog Man: Bark in Action | 417896 | [417896-dog-man-bark-in-action.json](./417896-dog-man-bark-in-action.json) |
 | Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
 | Dog Mendonca | 175274 | [175274-dog-mendonca.json](./175274-dog-mendonca.json) |
 | Dog of Bay | 123265 | [123265-dog-of-bay.json](./123265-dog-of-bay.json) |
@@ -14470,10 +14471,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong: Original Edition | 85097 | [85097-donkey-kong-original-edition.json](./85097-donkey-kong-original-edition.json) |
 | Donkey Kong/Donkey Kong Jr./Mario Bros. | 131900 | [131900-donkey-kong-donkey-kong-jr-mario-bros.json](./131900-donkey-kong-donkey-kong-jr-mario-bros.json) |
 | Donkey Konga | 256803 | [256803-donkey-konga.json](./256803-donkey-konga.json) |
+| Donkey Konga | 256804 | [256804-donkey-konga.json](./256804-donkey-konga.json) |
 | Donkey Konga | 328664 | [328664-donkey-konga.json](./328664-donkey-konga.json) |
 | Donkey Konga | 3889 | [3889-donkey-konga.json](./3889-donkey-konga.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga 2 | 256806 | [256806-donkey-konga-2.json](./256806-donkey-konga-2.json) |
+| Donkey Konga 2 | 256807 | [256807-donkey-konga-2.json](./256807-donkey-konga-2.json) |
 | Donkey Konga 2 | 328668 | [328668-donkey-konga-2.json](./328668-donkey-konga-2.json) |
 | Donkey Konga 2: Hit Song Parade! | 3890 | [3890-donkey-konga-2-hit-song-parade.json](./3890-donkey-konga-2-hit-song-parade.json) |
 | Donkey Konga 3: Tabehoudai! Haru Mogitate 50 Kyoku | 3891 | [3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json](./3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json) |
@@ -20517,6 +20520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon ni Seisoku Da! | 381695 | [381695-dungeon-ni-seisoku-da.json](./381695-dungeon-ni-seisoku-da.json) |
 | Dungeon Nightmares | 57070 | [57070-dungeon-nightmares.json](./57070-dungeon-nightmares.json) |
 | Dungeon Nightmares 1+2 Collection | 147142 | [147142-dungeon-nightmares-1-2-collection.json](./147142-dungeon-nightmares-1-2-collection.json) |
+| Dungeon Nightmares II: The Memory | 34935 | [34935-dungeon-nightmares-ii-the-memory.json](./34935-dungeon-nightmares-ii-the-memory.json) |
 | Dungeon No Dungeon | 144019 | [144019-dungeon-no-dungeon.json](./144019-dungeon-no-dungeon.json) |
 | Dungeon No Dungeon: Blood Knight | 171023 | [171023-dungeon-no-dungeon-blood-knight.json](./171023-dungeon-no-dungeon-blood-knight.json) |
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
