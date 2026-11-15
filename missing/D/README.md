@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous | 17429 | [17429-dangerous.json](./17429-dangerous.json) |
 | Dangerous | 197646 | [197646-dangerous.json](./197646-dangerous.json) |
 | Dangerous adventure | 284996 | [284996-dangerous-adventure.json](./284996-dangerous-adventure.json) |
+| Dangerous Adventure 2 | 56078 | [56078-dangerous-adventure-2.json](./56078-dangerous-adventure-2.json) |
 | Dangerous Arena | 294945 | [294945-dangerous-arena.json](./294945-dangerous-arena.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Bullets | 36624 | [36624-dangerous-bullets.json](./36624-dangerous-bullets.json) |
@@ -4120,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Letters | 276358 | [276358-dead-letters.json](./276358-dead-letters.json) |
 | Dead Light | 100921 | [100921-dead-light.json](./100921-dead-light.json) |
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
+| Dead Line | 55435 | [55435-dead-line.json](./55435-dead-line.json) |
 | Dead Link | 427853 | [427853-dead-link.json](./427853-dead-link.json) |
 | Dead Link: Pages Torn | 75808 | [75808-dead-link-pages-torn.json](./75808-dead-link-pages-torn.json) |
 | Dead Mall | 342614 | [342614-dead-mall.json](./342614-dead-mall.json) |
@@ -5025,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
 | Death Fighter 2: Necro Fighter | 56205 | [56205-death-fighter-2-necro-fighter.json](./56205-death-fighter-2-necro-fighter.json) |
+| Death Fighter 3: Mort Battel | 56105 | [56105-death-fighter-3-mort-battel.json](./56105-death-fighter-3-mort-battel.json) |
 | Death Fighter 4 | 55968 | [55968-death-fighter-4.json](./55968-death-fighter-4.json) |
 | Death Fighter V.2 | 268907 | [268907-death-fighter-v-2.json](./268907-death-fighter-v-2.json) |
 | Death Finder | 303464 | [303464-death-finder.json](./303464-death-finder.json) |
@@ -12169,6 +12172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distorted Travesty | 54745 | [54745-distorted-travesty.json](./54745-distorted-travesty.json) |
 | Distorted Travesty 2: The Sequel to the Prequel | 54746 | [54746-distorted-travesty-2-the-sequel-to-the-prequel.json](./54746-distorted-travesty-2-the-sequel-to-the-prequel.json) |
+| Distorted Travesty 3: Saved Game | 56069 | [56069-distorted-travesty-3-saved-game.json](./56069-distorted-travesty-3-saved-game.json) |
 | Distorted world | 157030 | [157030-distorted-world.json](./157030-distorted-world.json) |
 | Distorted: Night Shift Anomalies | 420693 | [420693-distorted-night-shift-anomalies.json](./420693-distorted-night-shift-anomalies.json) |
 | Distorted: The Living Manor | 395640 | [395640-distorted-the-living-manor.json](./395640-distorted-the-living-manor.json) |
@@ -12974,6 +12978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodgeBall World | 226384 | [226384-dodgeball-world.json](./226384-dodgeball-world.json) |
 | DodgeBall: Unleashed | 130071 | [130071-dodgeball-unleashed.json](./130071-dodgeball-unleashed.json) |
 | DodgeBlock | 172420 | [172420-dodgeblock.json](./172420-dodgeblock.json) |
+| DodgeBox! | 56076 | [56076-dodgebox.json](./56076-dodgebox.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
 | Dodgecore | 408450 | [408450-dodgecore.json](./408450-dodgecore.json) |
 | DodgeCraft | 325101 | [325101-dodgecraft.json](./325101-dodgecraft.json) |
@@ -17025,6 +17030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
 | Dragon Valor | 27351 | [27351-dragon-valor.json](./27351-dragon-valor.json) |
 | Dragon View | 42635 | [42635-dragon-view.json](./42635-dragon-view.json) |
+| Dragon Village 2 | 56101 | [56101-dragon-village-2.json](./56101-dragon-village-2.json) |
 | Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
 | Dragon Village Collection | 266259 | [266259-dragon-village-collection.json](./266259-dragon-village-collection.json) |
 | Dragon Village NEW | 169126 | [169126-dragon-village-new.json](./169126-dragon-village-new.json) |
