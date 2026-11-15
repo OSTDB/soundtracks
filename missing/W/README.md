@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallsurf | 320074 | [320074-wallsurf.json](./320074-wallsurf.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
 | Wally and the Fantastic Predators | 121922 | [121922-wally-and-the-fantastic-predators.json](./121922-wally-and-the-fantastic-predators.json) |
+| Wally Kong | 62339 | [62339-wally-kong.json](./62339-wally-kong.json) |
 | Wally the Seal 2 | 320255 | [320255-wally-the-seal-2.json](./320255-wally-the-seal-2.json) |
 | Wally wo Sagase! | 40530 | [40530-wally-wo-sagase.json](./40530-wally-wo-sagase.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
@@ -4582,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where | 94855 | [94855-where.json](./94855-where.json) |
 | Where Adabanas Grow: An Asian Sim Date | 423251 | [423251-where-adabanas-grow-an-asian-sim-date.json](./423251-where-adabanas-grow-an-asian-sim-date.json) |
 | Where Ages Go | 179885 | [179885-where-ages-go.json](./179885-where-ages-go.json) |
+| Where am I? | 61819 | [61819-where-am-i.json](./61819-where-am-i.json) |
 | Where Am I?: GeoGuess Game | 333996 | [333996-where-am-i-geoguess-game.json](./333996-where-am-i-geoguess-game.json) |
 | Where Angels Cry: Hell Broke Loose | 22084 | [22084-where-angels-cry-hell-broke-loose.json](./22084-where-angels-cry-hell-broke-loose.json) |
 | Where Angels Cry: Tears of the Fallen | 140144 | [140144-where-angels-cry-tears-of-the-fallen.json](./140144-where-angels-cry-tears-of-the-fallen.json) |
