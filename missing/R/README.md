@@ -9418,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
 | Road of Fury | 251299 | [251299-road-of-fury.json](./251299-road-of-fury.json) |
 | Road of Fury 2 | 102022 | [102022-road-of-fury-2.json](./102022-road-of-fury-2.json) |
+| Road of the Dead | 54609 | [54609-road-of-the-dead.json](./54609-road-of-the-dead.json) |
 | Road of the Dead 2 | 54583 | [54583-road-of-the-dead-2.json](./54583-road-of-the-dead-2.json) |
 | Road Patrol Truck | 104227 | [104227-road-patrol-truck.json](./104227-road-patrol-truck.json) |
 | Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
