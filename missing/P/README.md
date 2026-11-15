@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacifish: Recast | 330090 | [330090-pacifish-recast.json](./330090-pacifish-recast.json) |
 | Pacifist Outside | 180591 | [180591-pacifist-outside.json](./180591-pacifist-outside.json) |
 | Pacifix War Iwo Jima | 231922 | [231922-pacifix-war-iwo-jima.json](./231922-pacifix-war-iwo-jima.json) |
+| Pacify | 114455 | [114455-pacify.json](./114455-pacify.json) |
 | Pacit | 219344 | [219344-pacit.json](./219344-pacit.json) |
 | Pack | 342659 | [342659-pack.json](./342659-pack.json) |
 | Pack 2 Games Pony Friends 2 + My Riding Stables: Life with Horses | 147465 | [147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json](./147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json) |
@@ -16810,6 +16811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2008 | 220967 | [220967-pro-evolution-soccer-2008.json](./220967-pro-evolution-soccer-2008.json) |
 | Pro Evolution Soccer 2008 | 220968 | [220968-pro-evolution-soccer-2008.json](./220968-pro-evolution-soccer-2008.json) |
 | Pro Evolution Soccer 2008 | 220969 | [220969-pro-evolution-soccer-2008.json](./220969-pro-evolution-soccer-2008.json) |
+| Pro Evolution Soccer 2008 | 4647 | [4647-pro-evolution-soccer-2008.json](./4647-pro-evolution-soccer-2008.json) |
 | Pro Evolution Soccer 2009 | 220956 | [220956-pro-evolution-soccer-2009.json](./220956-pro-evolution-soccer-2009.json) |
 | Pro Evolution Soccer 2009 | 220972 | [220972-pro-evolution-soccer-2009.json](./220972-pro-evolution-soccer-2009.json) |
 | Pro Evolution Soccer 2009 | 220973 | [220973-pro-evolution-soccer-2009.json](./220973-pro-evolution-soccer-2009.json) |
@@ -16832,6 +16834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2012 | 220981 | [220981-pro-evolution-soccer-2012.json](./220981-pro-evolution-soccer-2012.json) |
 | Pro Evolution Soccer 2012 | 220982 | [220982-pro-evolution-soccer-2012.json](./220982-pro-evolution-soccer-2012.json) |
 | Pro Evolution Soccer 2012 | 240465 | [240465-pro-evolution-soccer-2012.json](./240465-pro-evolution-soccer-2012.json) |
+| Pro Evolution Soccer 2012 | 4651 | [4651-pro-evolution-soccer-2012.json](./4651-pro-evolution-soccer-2012.json) |
 | Pro Evolution Soccer 2012 3D | 47628 | [47628-pro-evolution-soccer-2012-3d.json](./47628-pro-evolution-soccer-2012-3d.json) |
 | Pro Evolution Soccer 2013 | 220961 | [220961-pro-evolution-soccer-2013.json](./220961-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer 2013 | 220983 | [220983-pro-evolution-soccer-2013.json](./220983-pro-evolution-soccer-2013.json) |
