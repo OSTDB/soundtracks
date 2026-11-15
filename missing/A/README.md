@@ -5469,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: 25th Anniversary Collection | 227089 | [227089-age-of-empires-25th-anniversary-collection.json](./227089-age-of-empires-25th-anniversary-collection.json) |
 | Age of Empires: Castle Siege | 8575 | [8575-age-of-empires-castle-siege.json](./8575-age-of-empires-castle-siege.json) |
 | Age of Empires: Collector's Edition | 50321 | [50321-age-of-empires-collectors-edition.json](./50321-age-of-empires-collectors-edition.json) |
+| Age of Empires: Definitive Edition | 37059 | [37059-age-of-empires-definitive-edition.json](./37059-age-of-empires-definitive-edition.json) |
 | Age of Empires: Gold Edition | 47076 | [47076-age-of-empires-gold-edition.json](./47076-age-of-empires-gold-edition.json) |
 | Age of Empires: Mythologies | 21221 | [21221-age-of-empires-mythologies.json](./21221-age-of-empires-mythologies.json) |
 | Age of Empires: Online | 5571 | [5571-age-of-empires-online.json](./5571-age-of-empires-online.json) |
@@ -11440,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
 | Animal Color Cross | 84755 | [84755-animal-color-cross.json](./84755-animal-color-cross.json) |
 | Animal Coloring Book for Kids & Toddlers: Unicorns | 402570 | [402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json](./402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json) |
+| Animal Company | 318395 | [318395-animal-company.json](./318395-animal-company.json) |
 | Animal Connect Fusion | 330494 | [330494-animal-connect-fusion.json](./330494-animal-connect-fusion.json) |
 | Animal Couple | 334801 | [334801-animal-couple.json](./334801-animal-couple.json) |
 | Animal Cove: Match 3 Adventure | 108854 | [108854-animal-cove-match-3-adventure.json](./108854-animal-cove-match-3-adventure.json) |
@@ -12140,6 +12142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
 | Anno 1503: Treasures, Monsters & Pirates | 8224 | [8224-anno-1503-treasures-monsters-and-pirates.json](./8224-anno-1503-treasures-monsters-and-pirates.json) |
 | Anno 1602 A.D. | 180271 | [180271-anno-1602-a-d.json](./180271-anno-1602-a-d.json) |
+| Anno 1602: Creation of a New World | 303 | [303-anno-1602-creation-of-a-new-world.json](./303-anno-1602-creation-of-a-new-world.json) |
 | Anno 1602: Creation of a New World - Gold Edition | 248357 | [248357-anno-1602-creation-of-a-new-world-gold-edition.json](./248357-anno-1602-creation-of-a-new-world-gold-edition.json) |
 | Anno 1602: Creation of a New World - New Islands, New Adventure | 138084 | [138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json](./138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json) |
 | Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
@@ -15863,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Wrestling Clicker | 231983 | [231983-arm-wrestling-clicker.json](./231983-arm-wrestling-clicker.json) |
 | Arm Wrestling Reborn | 190004 | [190004-arm-wrestling-reborn.json](./190004-arm-wrestling-reborn.json) |
 | ARM: Planetary Prospectors Asteroid Resource Mining | 19051 | [19051-arm-planetary-prospectors-asteroid-resource-mining.json](./19051-arm-planetary-prospectors-asteroid-resource-mining.json) |
+| Arma 2 | 572 | [572-arma-2.json](./572-arma-2.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
 | Arma 2: Combined Operations | 24314 | [24314-arma-2-combined-operations.json](./24314-arma-2-combined-operations.json) |
@@ -17396,6 +17400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Bundle: Assassin's Creed Valhalla, Assassin's Creed Odyssey, and Assassin's Creed Origins | 164698 | [164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json](./164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json) |
 | Assassin's Creed Chronicles: China | 8223 | [8223-assassins-creed-chronicles-china.json](./8223-assassins-creed-chronicles-china.json) |
 | Assassin's Creed Chronicles: India | 14902 | [14902-assassins-creed-chronicles-india.json](./14902-assassins-creed-chronicles-india.json) |
+| Assassin's Creed Chronicles: Russia | 14903 | [14903-assassins-creed-chronicles-russia.json](./14903-assassins-creed-chronicles-russia.json) |
 | Assassin's Creed Ezio Auditore Pack | 219007 | [219007-assassins-creed-ezio-auditore-pack.json](./219007-assassins-creed-ezio-auditore-pack.json) |
 | Assassin's Creed I+II Welcome Pack | 145406 | [145406-assassins-creed-i-ii-welcome-pack.json](./145406-assassins-creed-i-ii-welcome-pack.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
@@ -17509,6 +17514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Syndicate: Victorian Legends Pack | 248416 | [248416-assassins-creed-syndicate-victorian-legends-pack.json](./248416-assassins-creed-syndicate-victorian-legends-pack.json) |
 | Assassin's Creed Triple Pack: Black Flag, Unity, Syndicate | 164674 | [164674-assassins-creed-triple-pack-black-flag-unity-syndicate.json](./164674-assassins-creed-triple-pack-black-flag-unity-syndicate.json) |
 | Assassin's Creed Unity: Arno's Chronicles | 251353 | [251353-assassins-creed-unity-arnos-chronicles.json](./251353-assassins-creed-unity-arnos-chronicles.json) |
+| Assassin's Creed Unity: Dead Kings | 8219 | [8219-assassins-creed-unity-dead-kings.json](./8219-assassins-creed-unity-dead-kings.json) |
 | Assassin's Creed Unity: Revolutionary Armaments Pack | 250579 | [250579-assassins-creed-unity-revolutionary-armaments-pack.json](./250579-assassins-creed-unity-revolutionary-armaments-pack.json) |
 | Assassin's Creed Unity: Secrets of the Revolution | 239352 | [239352-assassins-creed-unity-secrets-of-the-revolution.json](./239352-assassins-creed-unity-secrets-of-the-revolution.json) |
 | Assassin's Creed Unity: The Chemical Revolution | 222679 | [222679-assassins-creed-unity-the-chemical-revolution.json](./222679-assassins-creed-unity-the-chemical-revolution.json) |
