@@ -8694,6 +8694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Academy II: Attack of the Sequel | 126834 | [126834-grand-academy-ii-attack-of-the-sequel.json](./126834-grand-academy-ii-attack-of-the-sequel.json) |
 | Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
 | Grand Ages: Medieval | 11814 | [11814-grand-ages-medieval.json](./11814-grand-ages-medieval.json) |
+| Grand Ages: Medieval - Limited Special Edition | 42950 | [42950-grand-ages-medieval-limited-special-edition.json](./42950-grand-ages-medieval-limited-special-edition.json) |
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
 | Grand Ages: Rome - Reign of Augustus | 10375 | [10375-grand-ages-rome-reign-of-augustus.json](./10375-grand-ages-rome-reign-of-augustus.json) |
@@ -11697,6 +11698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Sign | 19645 | [19645-guilty-gear-xrd-sign.json](./19645-guilty-gear-xrd-sign.json) |
 | Guilty Gear Xrd: Sign - Character Colors Christmas Set | 315513 | [315513-guilty-gear-xrd-sign-character-colors-christmas-set.json](./315513-guilty-gear-xrd-sign-character-colors-christmas-set.json) |
 | Guilty Gear Xrd: Sign - Character Colors PlayStation Plus Set | 332655 | [332655-guilty-gear-xrd-sign-character-colors-playstation-plus-set.json](./332655-guilty-gear-xrd-sign-character-colors-playstation-plus-set.json) |
+| Guilty Gear Xrd: Sign - Limited Edition | 42907 | [42907-guilty-gear-xrd-sign-limited-edition.json](./42907-guilty-gear-xrd-sign-limited-edition.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
 | Guilty Gear XX Accent Core Plus | 5642 | [5642-guilty-gear-xx-accent-core-plus.json](./5642-guilty-gear-xx-accent-core-plus.json) |
 | Guilty Gear XX Slash | 9144 | [9144-guilty-gear-xx-slash.json](./9144-guilty-gear-xx-slash.json) |
