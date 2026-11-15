@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
 | Capt'n Kidd | 13463 | [13463-captn-kidd.json](./13463-captn-kidd.json) |
 | Captain & Company | 278790 | [278790-captain-and-company.json](./278790-captain-and-company.json) |
+| Captain 13 Beyond the Hero | 68185 | [68185-captain-13-beyond-the-hero.json](./68185-captain-13-beyond-the-hero.json) |
 | Captain 25 | 346086 | [346086-captain-25.json](./346086-captain-25.json) |
 | Captain A-Hole's Guide To Getting Old(er) | 279681 | [279681-captain-a-holes-guide-to-getting-old-er.json](./279681-captain-a-holes-guide-to-getting-old-er.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
@@ -5130,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catie in MeowmeowLand | 158105 | [158105-catie-in-meowmeowland.json](./158105-catie-in-meowmeowland.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catio Simulator | 368989 | [368989-catio-simulator.json](./368989-catio-simulator.json) |
+| Catistry | 68183 | [68183-catistry.json](./68183-catistry.json) |
 | Catizens | 153167 | [153167-catizens.json](./153167-catizens.json) |
 | Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
 | Catjinni Survivors | 341805 | [341805-catjinni-survivors.json](./341805-catjinni-survivors.json) |
@@ -15341,6 +15343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Elysium 5 | 155913 | [155913-conquest-of-elysium-5.json](./155913-conquest-of-elysium-5.json) |
 | Conquest of Empires | 192578 | [192578-conquest-of-empires.json](./192578-conquest-of-empires.json) |
 | Conquest of Empires 2 | 272191 | [272191-conquest-of-empires-2.json](./272191-conquest-of-empires-2.json) |
+| Conquest of Gerazania | 68827 | [68827-conquest-of-gerazania.json](./68827-conquest-of-gerazania.json) |
 | Conquest of Helios | 204202 | [204202-conquest-of-helios.json](./204202-conquest-of-helios.json) |
 | Conquest of Japan | 73770 | [73770-conquest-of-japan.json](./73770-conquest-of-japan.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
@@ -20028,6 +20031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossCode: Deluxe Edition | 164797 | [164797-crosscode-deluxe-edition.json](./164797-crosscode-deluxe-edition.json) |
 | Crosscountry BC | 399085 | [399085-crosscountry-bc.json](./399085-crosscountry-bc.json) |
 | Crosscountry California | 399068 | [399068-crosscountry-california.json](./399068-crosscountry-california.json) |
+| Crosscountry Canada | 67591 | [67591-crosscountry-canada.json](./67591-crosscountry-canada.json) |
 | Crosscountry Canada 2 | 97591 | [97591-crosscountry-canada-2.json](./97591-crosscountry-canada-2.json) |
 | Crosscountry Canada Photo Safari | 399084 | [399084-crosscountry-canada-photo-safari.json](./399084-crosscountry-canada-photo-safari.json) |
 | Crosscountry Canada Platinum | 399076 | [399076-crosscountry-canada-platinum.json](./399076-crosscountry-canada-platinum.json) |
