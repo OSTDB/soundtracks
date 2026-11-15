@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
 | 3-D Ultra Lionel Train Town Deluxe | 73627 | [73627-3-d-ultra-lionel-train-town-deluxe.json](./73627-3-d-ultra-lionel-train-town-deluxe.json) |
 | 3-D Ultra Minigolf | 136087 | [136087-3-d-ultra-minigolf.json](./136087-3-d-ultra-minigolf.json) |
+| 3-D Ultra Minigolf Deluxe | 72194 | [72194-3-d-ultra-minigolf-deluxe.json](./72194-3-d-ultra-minigolf-deluxe.json) |
 | 3-D Ultra NASCAR Pinball | 50469 | [50469-3-d-ultra-nascar-pinball.json](./50469-3-d-ultra-nascar-pinball.json) |
 | 3-D Ultra Pinball | 50472 | [50472-3-d-ultra-pinball.json](./50472-3-d-ultra-pinball.json) |
 | 3-D Ultra Pinball: Creep Night | 50471 | [50471-3-d-ultra-pinball-creep-night.json](./50471-3-d-ultra-pinball-creep-night.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
 | 3D Snowboard Resort Designer | 205950 | [205950-3d-snowboard-resort-designer.json](./205950-3d-snowboard-resort-designer.json) |
 | 3D Soccer | 281223 | [281223-3d-soccer.json](./281223-3d-soccer.json) |
+| 3D Solitaire | 64597 | [64597-3d-solitaire.json](./64597-3d-solitaire.json) |
 | 3D Sonic Action | 331719 | [331719-3d-sonic-action.json](./331719-3d-sonic-action.json) |
 | 3D Sonic the Hedgehog | 84656 | [84656-3d-sonic-the-hedgehog.json](./84656-3d-sonic-the-hedgehog.json) |
 | 3D Space Harrier | 47687 | [47687-3d-space-harrier.json](./47687-3d-space-harrier.json) |
@@ -3758,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8:11 | 186427 | [186427-8-11.json](./186427-8-11.json) |
 | 8/8/88 Needle AL | 199699 | [199699-8-8-88-needle-al.json](./199699-8-8-88-needle-al.json) |
 | 80 Clicks | 109115 | [109115-80-clicks.json](./109115-80-clicks.json) |
+| 80 Days | 68859 | [68859-80-days.json](./68859-80-days.json) |
 | 80 Days | 9053 | [9053-80-days.json](./9053-80-days.json) |
 | 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
