@@ -4373,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
 | Red Frame | 403320 | [403320-red-frame.json](./403320-red-frame.json) |
 | Red Frontier | 374885 | [374885-red-frontier.json](./374885-red-frontier.json) |
+| RED Frontier | 11576 | [11576-red-frontier.json](./11576-red-frontier.json) |
 | Red Frontier 2 | 133026 | [133026-red-frontier-2.json](./133026-red-frontier-2.json) |
 | Red Frost | 125588 | [125588-red-frost.json](./125588-red-frost.json) |
 | Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
@@ -12671,6 +12672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoughTrain | 180867 | [180867-roughtrain.json](./180867-roughtrain.json) |
 | Rougien | 292097 | [292097-rougien.json](./292097-rougien.json) |
 | Rougle | 231558 | [231558-rougle.json](./231558-rougle.json) |
+| Roulette | 11521 | [11521-roulette.json](./11521-roulette.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
 | Roulette 3D | 95231 | [95231-roulette-3d.json](./95231-roulette-3d.json) |
