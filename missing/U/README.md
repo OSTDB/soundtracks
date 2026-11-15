@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
 | Ultima VII: Part Two - Serpent Isle | 9574 | [9574-ultima-vii-part-two-serpent-isle.json](./9574-ultima-vii-part-two-serpent-isle.json) |
 | Ultima VII: Part Two - Serpent Isle: The Silver Seed | 80383 | [80383-ultima-vii-part-two-serpent-isle-the-silver-seed.json](./80383-ultima-vii-part-two-serpent-isle-the-silver-seed.json) |
+| Ultima VII: The Black Gate | 6165 | [6165-ultima-vii-the-black-gate.json](./6165-ultima-vii-the-black-gate.json) |
 | Ultima VII: The Complete Edition | 102055 | [102055-ultima-vii-the-complete-edition.json](./102055-ultima-vii-the-complete-edition.json) |
 | Ultima VII: The Forge of Virtue | 71218 | [71218-ultima-vii-the-forge-of-virtue.json](./71218-ultima-vii-the-forge-of-virtue.json) |
 | Ultima VIII: Gold Edition | 102056 | [102056-ultima-viii-gold-edition.json](./102056-ultima-viii-gold-edition.json) |
@@ -3218,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Dawn 2 | 404058 | [404058-until-dawn-2.json](./404058-until-dawn-2.json) |
 | Until Dawn Tomorrow | 177726 | [177726-until-dawn-tomorrow.json](./177726-until-dawn-tomorrow.json) |
 | Until Dawn: Extended Edition | 42947 | [42947-until-dawn-extended-edition.json](./42947-until-dawn-extended-edition.json) |
+| Until Dawn: Rush of Blood | 14366 | [14366-until-dawn-rush-of-blood.json](./14366-until-dawn-rush-of-blood.json) |
 | Until Dawn: Steelbook Edition | 42946 | [42946-until-dawn-steelbook-edition.json](./42946-until-dawn-steelbook-edition.json) |
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
 | Until Death Do We Part | 416800 | [416800-until-death-do-we-part.json](./416800-until-death-do-we-part.json) |
