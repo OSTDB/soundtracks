@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Driver: Grid | 2159 | [2159-race-driver-grid.json](./2159-race-driver-grid.json) |
 | Race Driver: Grid | 248560 | [248560-race-driver-grid.json](./248560-race-driver-grid.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
+| Race Drivin' | 12840 | [12840-race-drivin.json](./12840-race-drivin.json) |
 | Race Drivin' | 307062 | [307062-race-drivin.json](./307062-race-drivin.json) |
 | Race Drivin' | 307063 | [307063-race-drivin.json](./307063-race-drivin.json) |
 | Race Drivin' (SA-1 Enhanced Version) | 300273 | [300273-race-drivin-sa-1-enhanced-version.json](./300273-race-drivin-sa-1-enhanced-version.json) |
@@ -10642,6 +10643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
 | Rocket Poker | 302396 | [302396-rocket-poker.json](./302396-rocket-poker.json) |
 | Rocket Power: Beach Bandits | 243188 | [243188-rocket-power-beach-bandits.json](./243188-rocket-power-beach-bandits.json) |
+| Rocket Power: Beach Bandits | 4092 | [4092-rocket-power-beach-bandits.json](./4092-rocket-power-beach-bandits.json) |
 | Rocket Power: Dream Scheme | 8092 | [8092-rocket-power-dream-scheme.json](./8092-rocket-power-dream-scheme.json) |
 | Rocket Power: Extreme Arcade Games | 8096 | [8096-rocket-power-extreme-arcade-games.json](./8096-rocket-power-extreme-arcade-games.json) |
 | Rocket Power: Gettin' Air | 8093 | [8093-rocket-power-gettin-air.json](./8093-rocket-power-gettin-air.json) |
@@ -11053,6 +11055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
 | Rod of Asclepius | 392006 | [392006-rod-of-asclepius.json](./392006-rod-of-asclepius.json) |
 | Rod Roll | 329102 | [329102-rod-roll.json](./329102-rod-roll.json) |
+| Rod-Land | 12845 | [12845-rod-land.json](./12845-rod-land.json) |
 | Rod-Land | 292796 | [292796-rod-land.json](./292796-rod-land.json) |
 | Rod-Land | 293157 | [293157-rod-land.json](./293157-rod-land.json) |
 | ROD: Revolt of Defense | 31933 | [31933-rod-revolt-of-defense.json](./31933-rod-revolt-of-defense.json) |
@@ -11922,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms VIII with Power Up Kit | 55811 | [55811-romance-of-the-three-kingdoms-viii-with-power-up-kit.json](./55811-romance-of-the-three-kingdoms-viii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms X | 7493 | [7493-romance-of-the-three-kingdoms-x.json](./7493-romance-of-the-three-kingdoms-x.json) |
 | Romance of the Three Kingdoms X: Power Up Kit | 350631 | [350631-romance-of-the-three-kingdoms-x-power-up-kit.json](./350631-romance-of-the-three-kingdoms-x-power-up-kit.json) |
+| Romance of the Three Kingdoms XI | 5129 | [5129-romance-of-the-three-kingdoms-xi.json](./5129-romance-of-the-three-kingdoms-xi.json) |
 | Romance of the Three Kingdoms XII with Power Up Kit | 82407 | [82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json](./82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms XII: Competition Edition | 219028 | [219028-romance-of-the-three-kingdoms-xii-competition-edition.json](./219028-romance-of-the-three-kingdoms-xii-competition-edition.json) |
 | Romance of the Three Kingdoms XII: Power Up Kit | 350634 | [350634-romance-of-the-three-kingdoms-xii-power-up-kit.json](./350634-romance-of-the-three-kingdoms-xii-power-up-kit.json) |
