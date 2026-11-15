@@ -9523,6 +9523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tree Defender | 409607 | [409607-world-tree-defender.json](./409607-world-tree-defender.json) |
 | World Tree Inferno | 347198 | [347198-world-tree-inferno.json](./347198-world-tree-inferno.json) |
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
+| World Trigger: Smash Borders | 27029 | [27029-world-trigger-smash-borders.json](./27029-world-trigger-smash-borders.json) |
 | World Trophy Soccer | 4390 | [4390-world-trophy-soccer.json](./4390-world-trophy-soccer.json) |
 | World Truck Driving Simulator | 103891 | [103891-world-truck-driving-simulator.json](./103891-world-truck-driving-simulator.json) |
 | World Truck Racing | 9364 | [9364-world-truck-racing.json](./9364-world-truck-racing.json) |
@@ -10173,6 +10174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
 | Wrestle Kingdom 2: Pro Wrestling Sekai Taisen | 44715 | [44715-wrestle-kingdom-2-pro-wrestling-sekai-taisen.json](./44715-wrestle-kingdom-2-pro-wrestling-sekai-taisen.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
+| Wrestle War | 27076 | [27076-wrestle-war.json](./27076-wrestle-war.json) |
 | Wrestleball | 398938 | [398938-wrestleball.json](./398938-wrestleball.json) |
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
 | Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
