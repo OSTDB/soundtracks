@@ -558,10 +558,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
 | Backgammon Master | 346110 | [346110-backgammon-master.json](./346110-backgammon-master.json) |
 | Backgammon Masters | 87285 | [87285-backgammon-masters.json](./87285-backgammon-masters.json) |
+| Backgammon Masters Online | 87413 | [87413-backgammon-masters-online.json](./87413-backgammon-masters-online.json) |
 | Backgammon NJ HD | 91981 | [91981-backgammon-nj-hd.json](./91981-backgammon-nj-hd.json) |
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
 | Backgammon Pro for Nintendo Switch | 245986 | [245986-backgammon-pro-for-nintendo-switch.json](./245986-backgammon-pro-for-nintendo-switch.json) |
 | Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
+| Backgammon Reloaded | 87396 | [87396-backgammon-reloaded.json](./87396-backgammon-reloaded.json) |
 | Backgammon Reloaded 3D | 93821 | [93821-backgammon-reloaded-3d.json](./93821-backgammon-reloaded-3d.json) |
 | Backgammon Royale | 12397 | [12397-backgammon-royale.json](./12397-backgammon-royale.json) |
 | Backgammon, Chess & Checkers | 111142 | [111142-backgammon-chess-and-checkers.json](./111142-backgammon-chess-and-checkers.json) |
@@ -3490,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
 | Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
 | Basketball FRVR | 305414 | [305414-basketball-frvr.json](./305414-basketball-frvr.json) |
+| BasketBall Fun | 87399 | [87399-basketball-fun.json](./87399-basketball-fun.json) |
 | Basketball General Manager | 87526 | [87526-basketball-general-manager.json](./87526-basketball-general-manager.json) |
 | Basketball GM | 82242 | [82242-basketball-gm.json](./82242-basketball-gm.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
@@ -4063,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess Enhanced | 144453 | [144453-battle-chess-enhanced.json](./144453-battle-chess-enhanced.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
+| Battle Chess: Game of Kings | 15152 | [15152-battle-chess-game-of-kings.json](./15152-battle-chess-game-of-kings.json) |
 | Battle Chess: Special Edition | 51707 | [51707-battle-chess-special-edition.json](./51707-battle-chess-special-edition.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
 | Battle Circuit | 38545 | [38545-battle-circuit.json](./38545-battle-circuit.json) |
@@ -4302,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mech Frontier | 116278 | [116278-battle-mech-frontier.json](./116278-battle-mech-frontier.json) |
 | Battle Mine Sweeper | 144136 | [144136-battle-mine-sweeper.json](./144136-battle-mine-sweeper.json) |
 | Battle Minesweeper Online | 300772 | [300772-battle-minesweeper-online.json](./300772-battle-minesweeper-online.json) |
+| Battle Monkeys | 87398 | [87398-battle-monkeys.json](./87398-battle-monkeys.json) |
 | Battle Monkeys: Fully Loaded | 100059 | [100059-battle-monkeys-fully-loaded.json](./100059-battle-monkeys-fully-loaded.json) |
 | Battle Mons | 413073 | [413073-battle-mons.json](./413073-battle-mons.json) |
 | Battle Monsters | 243835 | [243835-battle-monsters.json](./243835-battle-monsters.json) |
@@ -10443,6 +10448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack Hands | 133518 | [133518-blackjack-hands.json](./133518-blackjack-hands.json) |
+| Blackjack HD | 87408 | [87408-blackjack-hd.json](./87408-blackjack-hd.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
 | Blackjack Master | 86689 | [86689-blackjack-master.json](./86689-blackjack-master.json) |
 | BlackJack Math | 167427 | [167427-blackjack-math.json](./167427-blackjack-math.json) |
@@ -12958,6 +12964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxorz | 135849 | [135849-bloxorz.json](./135849-bloxorz.json) |
 | Bloxorz | 403450 | [403450-bloxorz.json](./403450-bloxorz.json) |
 | Bloxorz: Roll the Block | 105786 | [105786-bloxorz-roll-the-block.json](./105786-bloxorz-roll-the-block.json) |
+| Bloxorz: Rolling Block | 87427 | [87427-bloxorz-rolling-block.json](./87427-bloxorz-rolling-block.json) |
 | Bloxpath | 333347 | [333347-bloxpath.json](./333347-bloxpath.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
 | Bloxtacle Course | 267485 | [267485-bloxtacle-course.json](./267485-bloxtacle-course.json) |
@@ -13769,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boink | 292275 | [292275-boink.json](./292275-boink.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
 | Boinkgame | 228865 | [228865-boinkgame.json](./228865-boinkgame.json) |
+| Boinks | 75935 | [75935-boinks.json](./75935-boinks.json) |
 | Boitatá: Wilderness Reborn | 415179 | [415179-boitata-wilderness-reborn.json](./415179-boitata-wilderness-reborn.json) |
 | Bojan | 406672 | [406672-bojan.json](./406672-bojan.json) |
 | Bok | 187149 | [187149-bok.json](./187149-bok.json) |
@@ -18529,6 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bounce | 133478 | [133478-bubble-bounce.json](./133478-bubble-bounce.json) |
 | Bubble Box: 6 In 1 | 253257 | [253257-bubble-box-6-in-1.json](./253257-bubble-box-6-in-1.json) |
 | Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
+| Bubble Breaker Adventure | 87414 | [87414-bubble-breaker-adventure.json](./87414-bubble-breaker-adventure.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubble Ball | 169610 | [169610-bubble-bubble-ball.json](./169610-bubble-bubble-ball.json) |
@@ -18649,6 +18658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter! Extreme | 216079 | [216079-bubble-shooter-extreme.json](./216079-bubble-shooter-extreme.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Shooting Robots | 266138 | [266138-bubble-shooting-robots.json](./266138-bubble-shooting-robots.json) |
+| Bubble Shootix | 87402 | [87402-bubble-shootix.json](./87402-bubble-shootix.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
 | Bubble Soccer | 176532 | [176532-bubble-soccer.json](./176532-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
