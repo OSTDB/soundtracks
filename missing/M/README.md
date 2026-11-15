@@ -5908,7 +5908,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Chess | 29180 | [29180-masters-of-chess.json](./29180-masters-of-chess.json) |
 | Masters Of Conquest | 121930 | [121930-masters-of-conquest.json](./121930-masters-of-conquest.json) |
 | Masters of Fate Bundle: Bio Inc. Redemption & Cultist Simulator: Anthology | 331535 | [331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json](./331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json) |
-| Masters of Light | 285367 | [285367-masters-of-light.json](./285367-masters-of-light.json) |
 | Masters of Madness | 296849 | [296849-masters-of-madness.json](./296849-masters-of-madness.json) |
 | Masters of Magic | 418672 | [418672-masters-of-magic.json](./418672-masters-of-magic.json) |
 | Masters of Mayhem | 314266 | [314266-masters-of-mayhem.json](./314266-masters-of-mayhem.json) |
