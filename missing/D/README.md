@@ -3981,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
 | Dead Earth: Combat Shooter 3D | 246597 | [246597-dead-earth-combat-shooter-3d.json](./246597-dead-earth-combat-shooter-3d.json) |
 | Dead Echo | 410377 | [410377-dead-echo.json](./410377-dead-echo.json) |
+| Dead Effect | 17159 | [17159-dead-effect.json](./17159-dead-effect.json) |
 | Dead Effect 2 | 18078 | [18078-dead-effect-2.json](./18078-dead-effect-2.json) |
 | Dead Effect 2 VR | 38968 | [38968-dead-effect-2-vr.json](./38968-dead-effect-2-vr.json) |
 | Dead Effect 2 VR: Cybermagic | 170969 | [170969-dead-effect-2-vr-cybermagic.json](./170969-dead-effect-2-vr-cybermagic.json) |
@@ -6667,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
 | Déja Vu PD | 395281 | [395281-deja-vu-pd.json](./395281-deja-vu-pd.json) |
+| Déjà Vu: A Nightmare Comes True!! | 12043 | [12043-deja-vu-a-nightmare-comes-true.json](./12043-deja-vu-a-nightmare-comes-true.json) |
 | Deja Vu: Collector's Edition | 167905 | [167905-deja-vu-collectors-edition.json](./167905-deja-vu-collectors-edition.json) |
 | Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
 | Deja Vu: The Backrooms | 260373 | [260373-deja-vu-the-backrooms.json](./260373-deja-vu-the-backrooms.json) |
@@ -8954,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Human Revolution - Director's Cut | 9740 | [9740-deus-ex-human-revolution-directors-cut.json](./9740-deus-ex-human-revolution-directors-cut.json) |
 | Deus Ex: Human Revolution - Limited Edition | 46713 | [46713-deus-ex-human-revolution-limited-edition.json](./46713-deus-ex-human-revolution-limited-edition.json) |
 | Deus Ex: Human Revolution - The Missing Link | 9533 | [9533-deus-ex-human-revolution-the-missing-link.json](./9533-deus-ex-human-revolution-the-missing-link.json) |
+| Deus Ex: Human Revolution - Ultimate Edition | 75568 | [75568-deus-ex-human-revolution-ultimate-edition.json](./75568-deus-ex-human-revolution-ultimate-edition.json) |
 | Deus Ex: Insurrection | 8287 | [8287-deus-ex-insurrection.json](./8287-deus-ex-insurrection.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
 | Deus Ex: Lay D Denton Project | 332135 | [332135-deus-ex-lay-d-denton-project.json](./332135-deus-ex-lay-d-denton-project.json) |
@@ -11316,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
 | Disaster Report | 11695 | [11695-disaster-report.json](./11695-disaster-report.json) |
+| Disaster Report 4: Summer Memories | 14693 | [14693-disaster-report-4-summer-memories.json](./14693-disaster-report-4-summer-memories.json) |
 | Disaster Response Force | 414736 | [414736-disaster-response-force.json](./414736-disaster-response-force.json) |
 | Disaster Response Unit | 64149 | [64149-disaster-response-unit.json](./64149-disaster-response-unit.json) |
 | Disaster Slayer | 302191 | [302191-disaster-slayer.json](./302191-disaster-slayer.json) |
@@ -13095,6 +13099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodoGo! Challenge | 85094 | [85094-dodogo-challenge.json](./85094-dodogo-challenge.json) |
 | DodoGo! Robo | 85093 | [85093-dodogo-robo.json](./85093-dodogo-robo.json) |
 | Dodolly Tales | 274320 | [274320-dodolly-tales.json](./274320-dodolly-tales.json) |
+| DoDonPachi | 1666 | [1666-dodonpachi.json](./1666-dodonpachi.json) |
 | DoDonPachi Dai-Ou-Jou Re:Incarnation | 262133 | [262133-dodonpachi-dai-ou-jou-re-incarnation.json](./262133-dodonpachi-dai-ou-jou-re-incarnation.json) |
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
 | DoDonPachi Daifukkatsu Black Label | 77997 | [77997-dodonpachi-daifukkatsu-black-label.json](./77997-dodonpachi-daifukkatsu-black-label.json) |
@@ -15267,6 +15272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorifto Challenge | 96623 | [96623-dorifto-challenge.json](./96623-dorifto-challenge.json) |
 | Dorifto! | 421208 | [421208-dorifto.json](./421208-dorifto.json) |
 | Doritos Crash Course | 18041 | [18041-doritos-crash-course.json](./18041-doritos-crash-course.json) |
+| Doritos Crash Course 2 | 18042 | [18042-doritos-crash-course-2.json](./18042-doritos-crash-course-2.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Doritos Crash Course: City Lights | 349720 | [349720-doritos-crash-course-city-lights.json](./349720-doritos-crash-course-city-lights.json) |
 | Dork | 223198 | [223198-dork.json](./223198-dork.json) |
@@ -15482,6 +15488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon | 281505 | [281505-double-dragon.json](./281505-double-dragon.json) |
 | Double Dragon | 333417 | [333417-double-dragon.json](./333417-double-dragon.json) |
 | Double Dragon | 6787 | [6787-double-dragon.json](./6787-double-dragon.json) |
+| Double Dragon | 71231 | [71231-double-dragon.json](./71231-double-dragon.json) |
 | Double Dragon & Kunio-kun: Retro Brawler Bundle | 147789 | [147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json](./147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json) |
 | Double Dragon 3: The Arcade Game | 46277 | [46277-double-dragon-3-the-arcade-game.json](./46277-double-dragon-3-the-arcade-game.json) |
 | Double Dragon 3: The Arcade Game | 48923 | [48923-double-dragon-3-the-arcade-game.json](./48923-double-dragon-3-the-arcade-game.json) |
@@ -19603,6 +19610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
 | Duck Dash | 365615 | [365615-duck-dash.json](./365615-duck-dash.json) |
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
+| Duck Detective: The Ghost of Glamping | 325174 | [325174-duck-detective-the-ghost-of-glamping.json](./325174-duck-detective-the-ghost-of-glamping.json) |
 | Duck Dodgers Starring Daffy Duck | 3336 | [3336-duck-dodgers-starring-daffy-duck.json](./3336-duck-dodgers-starring-daffy-duck.json) |
 | Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
 | Duck Duchy | 164168 | [164168-duck-duchy.json](./164168-duck-duchy.json) |
@@ -20652,6 +20660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
 | Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
 | Dungeon Siege: Legends of Aranna | 9271 | [9271-dungeon-siege-legends-of-aranna.json](./9271-dungeon-siege-legends-of-aranna.json) |
+| Dungeon Siege: Throne of Agony | 9270 | [9270-dungeon-siege-throne-of-agony.json](./9270-dungeon-siege-throne-of-agony.json) |
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
 | Dungeon Slayer | 129380 | [129380-dungeon-slayer.json](./129380-dungeon-slayer.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
