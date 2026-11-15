@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T01:46:27.431Z",
-  "total_soundtracks": 3368,
+  "generated_at": "2026-11-15T01:52:09.092Z",
+  "total_soundtracks": 3378,
   "games": [
     {
       "igdb_id": 292844,
@@ -8407,6 +8407,34 @@
       ]
     },
     {
+      "igdb_id": 120562,
+      "game_name": "Dawn of the Monsters",
+      "game_url": "https://ostdb.net/games/dawn-of-the-monsters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27331b8a23e3a155c3b450ba9df",
+      "albums": [
+        {
+          "album_name": "Dawn of the Monsters (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5D1aYmTW4QWglH2mrD5hyi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122643,
+      "game_name": "Day of Dragons",
+      "game_url": "https://ostdb.net/games/day-of-dragons",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a99b56a3479110edd815b6fe",
+      "albums": [
+        {
+          "album_name": "Day of Dragons (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0YwN0bLJ6elVZYXs5qG8Aw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152844,
       "game_name": "Daymare: 1994 Sandcastle",
       "game_url": "https://ostdb.net/games/daymare-1994-sandcastle",
@@ -11715,6 +11743,20 @@
         {
           "album_name": "Eternights (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6tGnxDFsbbWFgwy2iqiYfQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120480,
+      "game_name": "Ethereal Enigma",
+      "game_url": "https://ostdb.net/games/ethereal-enigma",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273260f297f84f684990c58e506",
+      "albums": [
+        {
+          "album_name": "Ethereal Enigma (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/07640DpHLqxjGcVzjQtf8k",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -16509,6 +16551,20 @@
       ]
     },
     {
+      "igdb_id": 120868,
+      "game_name": "Hayfever",
+      "game_url": "https://ostdb.net/games/hayfever",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f0ee0c6484ec4f757e878a30",
+      "albums": [
+        {
+          "album_name": "Hayfever (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5nKoJBSpEKW63GpMYgOhwp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 154290,
       "game_name": "Heading Out",
       "game_url": "https://ostdb.net/games/heading-out",
@@ -20927,6 +20983,20 @@
         {
           "album_name": "Lunacid (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1xB4jG5LrAmXZVR4Bc2FLI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 119622,
+      "game_name": "Lunark",
+      "game_url": "https://ostdb.net/games/lunark",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27364154fabfc450089454a80d7",
+      "albums": [
+        {
+          "album_name": "LUNARK (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0BOL61e82SUVZmUYBI2t7D",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26531,6 +26601,20 @@
       ]
     },
     {
+      "igdb_id": 119336,
+      "game_name": "Pixel Ripped 1995",
+      "game_url": "https://ostdb.net/games/pixel-ripped-1995",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e876f2ea6942f554c5ccb0b",
+      "albums": [
+        {
+          "album_name": "Pixel Ripped 1995 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7uVl05PEcyrgyTp2FCsKN7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 95386,
       "game_name": "PixelJunk Monsters 2",
       "game_url": "https://ostdb.net/games/pixeljunk-monsters-2",
@@ -28187,6 +28271,20 @@
         {
           "album_name": "Red Trigger (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/64LyDpyI6nrIcWbOVu9oof",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121768,
+      "game_name": "Red Wings: Aces of the Sky",
+      "game_url": "https://ostdb.net/games/red-wings-aces-of-the-sky",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735b561a8a75983f66e6f7307a",
+      "albums": [
+        {
+          "album_name": "Red Wings: Aces of the Sky (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Zzxh4EMSYwbbza0PuVqub",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -36083,6 +36181,20 @@
       ]
     },
     {
+      "igdb_id": 123570,
+      "game_name": "The Bonfire 2: Uncharted Shores",
+      "game_url": "https://ostdb.net/games/the-bonfire-2-uncharted-shores",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b30495f21e2d16b53023808c",
+      "albums": [
+        {
+          "album_name": "The Bonfire 2: Uncharted Shores (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4OSOPl5xAaEWDdZ7b09Kbw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 33370,
       "game_name": "The Bottom of the Well",
       "game_url": "https://ostdb.net/games/the-bottom-of-the-well",
@@ -38479,6 +38591,20 @@
         {
           "album_name": "This Is The Police (Original Game Soundtrack) [Deluxe Edition]",
           "spotify_url": "https://open.spotify.com/album/5l6oS6KkNYnEpyai0huc5L",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 119502,
+      "game_name": "This Is the Zodiac Speaking",
+      "game_url": "https://ostdb.net/games/this-is-the-zodiac-speaking",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cad242ce62664b156f1fa2cf",
+      "albums": [
+        {
+          "album_name": "This is The Zodiac Speaking (the original game soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1zH669qGMsVhJq5RFXgm3O",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -43163,6 +43289,20 @@
         {
           "album_name": "Yuppie Psycho (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4gK9ahoEVy0db5Qn0VNSqj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122344,
+      "game_name": "Yurukill: The Calumniation Games",
+      "game_url": "https://ostdb.net/games/yurukill-the-calumniation-games",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739ecbf9be4b2a1ba7f3762e89",
+      "albums": [
+        {
+          "album_name": "Yurukill: The Calumniation Games Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1c3hbTUGA9SdBy06D85dVf",
           "apple_music_url": "",
           "album_link_url": ""
         }
