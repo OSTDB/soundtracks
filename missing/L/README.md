@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady's Escape | 367388 | [367388-ladys-escape.json](./367388-ladys-escape.json) |
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
 | Lady's Tourney | 385620 | [385620-ladys-tourney.json](./385620-ladys-tourney.json) |
+| Ladybird Galaxy | 70523 | [70523-ladybird-galaxy.json](./70523-ladybird-galaxy.json) |
 | Ladybird Reflect | 96161 | [96161-ladybird-reflect.json](./96161-ladybird-reflect.json) |
 | LadyBug | 141525 | [141525-ladybug.json](./141525-ladybug.json) |
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
