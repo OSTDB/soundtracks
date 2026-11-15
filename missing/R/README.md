@@ -8463,7 +8463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimo-Cocoron | 98366 | [98366-rimo-cocoron.json](./98366-rimo-cocoron.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | Rimrunner | 41131 | [41131-rimrunner.json](./41131-rimrunner.json) |
-| Rims Racing | 135668 | [135668-rims-racing.json](./135668-rims-racing.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
 | Rims Racing: Bahrain International Circuit | 174477 | [174477-rims-racing-bahrain-international-circuit.json](./174477-rims-racing-bahrain-international-circuit.json) |
 | RiMS Racing: European Manufacturers Deluxe Edition | 186363 | [186363-rims-racing-european-manufacturers-deluxe-edition.json](./186363-rims-racing-european-manufacturers-deluxe-edition.json) |
