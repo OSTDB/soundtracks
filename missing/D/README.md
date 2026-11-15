@@ -11681,6 +11681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disk NG 2 | 220148 | [220148-disk-ng-2.json](./220148-disk-ng-2.json) |
 | Disk Station #0 | 78958 | [78958-disk-station-0.json](./78958-disk-station-0.json) |
 | Disk-0 Madness | 255074 | [255074-disk-0-madness.json](./255074-disk-0-madness.json) |
+| Disk-Y | 424533 | [424533-disk-y.json](./424533-disk-y.json) |
 | Diskophoros | 177233 | [177233-diskophoros.json](./177233-diskophoros.json) |
 | Dislocation | 68151 | [68151-dislocation.json](./68151-dislocation.json) |
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
@@ -13726,6 +13727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dome no Yabou F1 GP Nippon no Chousen | 386522 | [386522-dome-no-yabou-f1-gp-nippon-no-chousen.json](./386522-dome-no-yabou-f1-gp-nippon-no-chousen.json) |
 | Dome RPG | 284872 | [284872-dome-rpg.json](./284872-dome-rpg.json) |
 | Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
+| Dome: Become Thyself | 424578 | [424578-dome-become-thyself.json](./424578-dome-become-thyself.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
 | DomenyX Generations | 222744 | [222744-domenyx-generations.json](./222744-domenyx-generations.json) |
@@ -21500,6 +21502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Rampart | 375288 | [375288-dwarven-rampart.json](./375288-dwarven-rampart.json) |
 | Dwarven Realm | 292625 | [292625-dwarven-realm.json](./292625-dwarven-realm.json) |
 | Dwarven Realms | 215873 | [215873-dwarven-realms.json](./215873-dwarven-realms.json) |
+| Dwarven Shift 98 | 424553 | [424553-dwarven-shift-98.json](./424553-dwarven-shift-98.json) |
 | Dwarven Skykeep | 119769 | [119769-dwarven-skykeep.json](./119769-dwarven-skykeep.json) |
 | Dwarven Towers | 203578 | [203578-dwarven-towers.json](./203578-dwarven-towers.json) |
 | Dwarven Village: Dark Siege Td | 348847 | [348847-dwarven-village-dark-siege-td.json](./348847-dwarven-village-dark-siege-td.json) |
