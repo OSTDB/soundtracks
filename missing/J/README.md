@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Longbow Gold | 73363 | [73363-janes-combat-simulations-longbow-gold.json](./73363-janes-combat-simulations-longbow-gold.json) |
 | Jane's Combat Simulations: Naval Warfare Collection | 73637 | [73637-janes-combat-simulations-naval-warfare-collection.json](./73637-janes-combat-simulations-naval-warfare-collection.json) |
 | Jane's Combat Simulations: U.S. Navy Fighters '97 | 50346 | [50346-janes-combat-simulations-u-s-navy-fighters-97.json](./50346-janes-combat-simulations-u-s-navy-fighters-97.json) |
+| Jane's Combat Simulations: WWII Fighters | 950 | [950-janes-combat-simulations-wwii-fighters.json](./950-janes-combat-simulations-wwii-fighters.json) |
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
 | Jane's Hotel | 180079 | [180079-janes-hotel.json](./180079-janes-hotel.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
