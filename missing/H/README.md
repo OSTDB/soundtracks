@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Lesson: First Lesson | 64753 | [64753-happy-lesson-first-lesson.json](./64753-happy-lesson-first-lesson.json) |
 | Happy Little Farm | 405906 | [405906-happy-little-farm.json](./405906-happy-little-farm.json) |
 | Happy Live, Show Up! | 194472 | [194472-happy-live-show-up.json](./194472-happy-live-show-up.json) |
+| Happy Manager | 57838 | [57838-happy-manager.json](./57838-happy-manager.json) |
 | Happy Margaret! | 60479 | [60479-happy-margaret.json](./60479-happy-margaret.json) |
 | Happy Marriage Project: Starting from 9 Years Old | 151095 | [151095-happy-marriage-project-starting-from-9-years-old.json](./151095-happy-marriage-project-starting-from-9-years-old.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
@@ -2770,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashire! Chuukan Kanrishoku | 254930 | [254930-hashire-chuukan-kanrishoku.json](./254930-hashire-chuukan-kanrishoku.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
 | Hashiriya Drifter: Car Racing, Drift, Drag Remaster | 377007 | [377007-hashiriya-drifter-car-racing-drift-drag-remaster.json](./377007-hashiriya-drifter-car-racing-drift-drag-remaster.json) |
+| Hashiriya: Ookami-tachi no Densetsu | 57832 | [57832-hashiriya-ookami-tachi-no-densetsu.json](./57832-hashiriya-ookami-tachi-no-densetsu.json) |
 | Hashrine | 271026 | [271026-hashrine.json](./271026-hashrine.json) |
 | Hashtag Bacon | 248409 | [248409-hashtag-bacon.json](./248409-hashtag-bacon.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
@@ -4683,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Pages | 161610 | [161610-hell-pages.json](./161610-hell-pages.json) |
 | Hell Pub | 150339 | [150339-hell-pub.json](./150339-hell-pub.json) |
 | Hell Punk Awakening | 196990 | [196990-hell-punk-awakening.json](./196990-hell-punk-awakening.json) |
+| Hell Raiser | 57813 | [57813-hell-raiser.json](./57813-hell-raiser.json) |
 | Hell Revealations | 275570 | [275570-hell-revealations.json](./275570-hell-revealations.json) |
 | Hell Revealed | 138759 | [138759-hell-revealed.json](./138759-hell-revealed.json) |
 | Hell Revealed II | 139895 | [139895-hell-revealed-ii.json](./139895-hell-revealed-ii.json) |
@@ -12659,7 +12662,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
 | How to Cope with Boredom and Loneliness | 91280 | [91280-how-to-cope-with-boredom-and-loneliness.json](./91280-how-to-cope-with-boredom-and-loneliness.json) |
 | How to create a witch | 380544 | [380544-how-to-create-a-witch.json](./380544-how-to-create-a-witch.json) |
-| How to Date a Magical Girl! | 107882 | [107882-how-to-date-a-magical-girl.json](./107882-how-to-date-a-magical-girl.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
 | How to Date an Entity (and stay alive) | 330072 | [330072-how-to-date-an-entity-and-stay-alive.json](./330072-how-to-date-an-entity-and-stay-alive.json) |
 | How to Destroy a City | 408080 | [408080-how-to-destroy-a-city.json](./408080-how-to-destroy-a-city.json) |
@@ -12851,6 +12853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HR2 | 178540 | [178540-hr2.json](./178540-hr2.json) |
 | Hrana | 395461 | [395461-hrana.json](./395461-hrana.json) |
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
+| Hresvelgr | 57835 | [57835-hresvelgr.json](./57835-hresvelgr.json) |
 | Hrima | 191383 | [191383-hrima.json](./191383-hrima.json) |
 | HRmageddon | 397409 | [397409-hrmageddon.json](./397409-hrmageddon.json) |
 | HRO: Adventures of a Humanoid Resources Officer | 171750 | [171750-hro-adventures-of-a-humanoid-resources-officer.json](./171750-hro-adventures-of-a-humanoid-resources-officer.json) |
