@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bāo Qīngtiān | 84440 | [84440-bao-qingtian.json](./84440-bao-qingtian.json) |
 | Baobabs Mausoleum Ep. 2 1313 Barnabas Dead End Drive | 81164 | [81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json](./81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json) |
 | Baobabs Mausoleum Ep.3: Un Pato en Muertoburgo | 125060 | [125060-baobabs-mausoleum-ep-3-un-pato-en-muertoburgo.json](./125060-baobabs-mausoleum-ep-3-un-pato-en-muertoburgo.json) |
+| Baobabs Mausoleum: Country of Woods & Creepy Tales | 28228 | [28228-baobabs-mausoleum-country-of-woods-and-creepy-tales.json](./28228-baobabs-mausoleum-country-of-woods-and-creepy-tales.json) |
 | Baobabs Mausoleum: Grindhouse Edition | 142820 | [142820-baobabs-mausoleum-grindhouse-edition.json](./142820-baobabs-mausoleum-grindhouse-edition.json) |
 | Bàodǎ Méngshǔ | 155940 | [155940-baoda-mengshu.json](./155940-baoda-mengshu.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
@@ -3770,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
 | Batman: Arkham Knight - Season Pass | 25970 | [25970-batman-arkham-knight-season-pass.json](./25970-batman-arkham-knight-season-pass.json) |
 | Batman: Arkham Knight - Special Edition Steelbook | 41611 | [41611-batman-arkham-knight-special-edition-steelbook.json](./41611-batman-arkham-knight-special-edition-steelbook.json) |
+| Batman: Arkham Knight - The Serious Edition | 28251 | [28251-batman-arkham-knight-the-serious-edition.json](./28251-batman-arkham-knight-the-serious-edition.json) |
 | Batman: Arkham Origins - Black Mask Challenge Pack | 75534 | [75534-batman-arkham-origins-black-mask-challenge-pack.json](./75534-batman-arkham-origins-black-mask-challenge-pack.json) |
 | Batman: Arkham Origins - Cold, Cold Heart | 10028 | [10028-batman-arkham-origins-cold-cold-heart.json](./10028-batman-arkham-origins-cold-cold-heart.json) |
 | Batman: Arkham Origins - Collector's Edition | 43020 | [43020-batman-arkham-origins-collectors-edition.json](./43020-batman-arkham-origins-collectors-edition.json) |
@@ -7403,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Mayhem | 158546 | [158546-berry-mayhem.json](./158546-berry-mayhem.json) |
 | Berry People | 237762 | [237762-berry-people.json](./237762-berry-people.json) |
 | Berry Tree | 68726 | [68726-berry-tree.json](./68726-berry-tree.json) |
+| BerryMaker: DNA Soda factory | 28306 | [28306-berrymaker-dna-soda-factory.json](./28306-berrymaker-dna-soda-factory.json) |
 | Berrywitched | 200792 | [200792-berrywitched.json](./200792-berrywitched.json) |
 | Berrywitched! | 330215 | [330215-berrywitched.json](./330215-berrywitched.json) |
 | Berrywitched! The Harvest | 374169 | [374169-berrywitched-the-harvest.json](./374169-berrywitched-the-harvest.json) |
@@ -12837,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom’s Grove: An English-learning Game | 393243 | [393243-blossom-s-grove-an-english-learning-game.json](./393243-blossom-s-grove-an-english-learning-game.json) |
 | Blossoming Ruins | 375208 | [375208-blossoming-ruins.json](./375208-blossoming-ruins.json) |
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
+| Blossoms Bloom Brightest | 28326 | [28326-blossoms-bloom-brightest.json](./28326-blossoms-bloom-brightest.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blouncy | 278558 | [278558-blouncy.json](./278558-blouncy.json) |
 | Blow | 94834 | [94834-blow.json](./94834-blow.json) |
@@ -14430,6 +14434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie's Bakery | 219034 | [219034-bonnies-bakery.json](./219034-bonnies-bakery.json) |
 | Bonnie's Bookstore | 248604 | [248604-bonnies-bookstore.json](./248604-bonnies-bookstore.json) |
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
+| Bonny's Adventure | 28258 | [28258-bonnys-adventure.json](./28258-bonnys-adventure.json) |
 | Bonobros | 251900 | [251900-bonobros.json](./251900-bonobros.json) |
 | Bonoru Adventures | 303360 | [303360-bonoru-adventures.json](./303360-bonoru-adventures.json) |
 | Bonsai | 33529 | [33529-bonsai.json](./33529-bonsai.json) |
@@ -15172,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanica: Earthbound | 59824 | [59824-botanica-earthbound.json](./59824-botanica-earthbound.json) |
 | Botanica: Earthbound - Collector's Edition | 76480 | [76480-botanica-earthbound-collectors-edition.json](./76480-botanica-earthbound-collectors-edition.json) |
 | Botanica: Into the Unknown | 140287 | [140287-botanica-into-the-unknown.json](./140287-botanica-into-the-unknown.json) |
+| Botanica: Into the Unknown - Collector's Edition | 28254 | [28254-botanica-into-the-unknown-collectors-edition.json](./28254-botanica-into-the-unknown-collectors-edition.json) |
 | Botanical Chronicle | 266287 | [266287-botanical-chronicle.json](./266287-botanical-chronicle.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanical Warden | 258332 | [258332-botanical-warden.json](./258332-botanical-warden.json) |
@@ -19157,6 +19163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Rush 2 | 101801 | [101801-building-rush-2.json](./101801-building-rush-2.json) |
 | Building Simulator | 46454 | [46454-building-simulator.json](./46454-building-simulator.json) |
 | Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
+| Building the Great Wall of China 2 | 28268 | [28268-building-the-great-wall-of-china-2.json](./28268-building-the-great-wall-of-china-2.json) |
 | Building the Universe | 132402 | [132402-building-the-universe.json](./132402-building-the-universe.json) |
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
 | Buildmark | 148942 | [148942-buildmark.json](./148942-buildmark.json) |
