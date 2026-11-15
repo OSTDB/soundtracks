@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Puzzle 4: Hashi wo Kakero | 218989 | [218989-nikoli-no-puzzle-4-hashi-wo-kakero.json](./218989-nikoli-no-puzzle-4-hashi-wo-kakero.json) |
 | Nikoli no Puzzle 4: Heyawake | 218990 | [218990-nikoli-no-puzzle-4-heyawake.json](./218990-nikoli-no-puzzle-4-heyawake.json) |
 | Nikoli no Puzzle 4: Hitori ni Shitekure | 218899 | [218899-nikoli-no-puzzle-4-hitori-ni-shitekure.json](./218899-nikoli-no-puzzle-4-hitori-ni-shitekure.json) |
+| Nikoli no Puzzle 4: Kakuro | 61231 | [61231-nikoli-no-puzzle-4-kakuro.json](./61231-nikoli-no-puzzle-4-kakuro.json) |
 | Nikoli no Puzzle 4: Masyu | 218898 | [218898-nikoli-no-puzzle-4-masyu.json](./218898-nikoli-no-puzzle-4-masyu.json) |
 | Nikoli no Puzzle 4: Museum | 58615 | [58615-nikoli-no-puzzle-4-museum.json](./58615-nikoli-no-puzzle-4-museum.json) |
 | Nikoli no Puzzle 4: Numberlink | 218901 | [218901-nikoli-no-puzzle-4-numberlink.json](./218901-nikoli-no-puzzle-4-numberlink.json) |
