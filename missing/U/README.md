@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Dreams | 127209 | [127209-underworld-dreams.json](./127209-underworld-dreams.json) |
 | Underworld Dreams: The False King | 192360 | [192360-underworld-dreams-the-false-king.json](./192360-underworld-dreams-the-false-king.json) |
 | Underworld Dungeon | 31540 | [31540-underworld-dungeon.json](./31540-underworld-dungeon.json) |
+| Underworld Empire | 39256 | [39256-underworld-empire.json](./39256-underworld-empire.json) |
 | Underworld Explorers | 336592 | [336592-underworld-explorers.json](./336592-underworld-explorers.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Idle | 148982 | [148982-underworld-idle.json](./148982-underworld-idle.json) |
