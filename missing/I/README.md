@@ -6968,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Adventure | 175769 | [175769-island-adventure.json](./175769-island-adventure.json) |
 | Island Adventure 3: Penultimate Climax | 302637 | [302637-island-adventure-3-penultimate-climax.json](./302637-island-adventure-3-penultimate-climax.json) |
 | Island and Factories | 148821 | [148821-island-and-factories.json](./148821-island-and-factories.json) |
+| Island Architect | 424556 | [424556-island-architect.json](./424556-island-architect.json) |
 | Island Artist | 185581 | [185581-island-artist.json](./185581-island-artist.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
