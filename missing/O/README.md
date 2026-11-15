@@ -3539,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
 | OO.Inc | 113310 | [113310-oo-inc.json](./113310-oo-inc.json) |
 | Ooble Gardens | 371845 | [371845-ooble-gardens.json](./371845-ooble-gardens.json) |
+| Ooblets | 27366 | [27366-ooblets.json](./27366-ooblets.json) |
 | Oodlescape - The Apocalypse | 29598 | [29598-oodlescape-the-apocalypse.json](./29598-oodlescape-the-apocalypse.json) |
 | Ooe | 166397 | [166397-ooe.json](./166397-ooe.json) |
 | Ooedo Blacksmith | 143445 | [143445-ooedo-blacksmith.json](./143445-ooedo-blacksmith.json) |
