@@ -1464,9 +1464,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
 | Kawã na Terra dos Indígenas Maraguá | 283099 | [283099-kawa-na-terra-dos-indigenas-maragua.json](./283099-kawa-na-terra-dos-indigenas-maragua.json) |
 | Kawa no Kuma-san | 108132 | [108132-kawa-no-kuma-san.json](./108132-kawa-no-kuma-san.json) |
+| Kawa no Nushi Tsuri | 20511 | [20511-kawa-no-nushi-tsuri.json](./20511-kawa-no-nushi-tsuri.json) |
+| Kawa no Nushi Tsuri 2 | 20513 | [20513-kawa-no-nushi-tsuri-2.json](./20513-kawa-no-nushi-tsuri-2.json) |
 | Kawa no Nushi Tsuri 3 | 275930 | [275930-kawa-no-nushi-tsuri-3.json](./275930-kawa-no-nushi-tsuri-3.json) |
+| Kawa no Nushi Tsuri 3 & 4 | 20519 | [20519-kawa-no-nushi-tsuri-3-and-4.json](./20519-kawa-no-nushi-tsuri-3-and-4.json) |
 | Kawa no Nushi Tsuri 4 | 275931 | [275931-kawa-no-nushi-tsuri-4.json](./275931-kawa-no-nushi-tsuri-4.json) |
+| Kawa no Nushi Tsuri 5: Fushigi no Mori kara | 20517 | [20517-kawa-no-nushi-tsuri-5-fushigi-no-mori-kara.json](./20517-kawa-no-nushi-tsuri-5-fushigi-no-mori-kara.json) |
 | Kawa no Nushi Tsuri: Hikyou wo Motomete | 61853 | [61853-kawa-no-nushi-tsuri-hikyou-wo-motomete.json](./61853-kawa-no-nushi-tsuri-hikyou-wo-motomete.json) |
+| Kawa no Nushi Tsuri: Shizen-ha | 20512 | [20512-kawa-no-nushi-tsuri-shizen-ha.json](./20512-kawa-no-nushi-tsuri-shizen-ha.json) |
 | Kawaida's Journey | 124512 | [124512-kawaidas-journey.json](./124512-kawaidas-journey.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
