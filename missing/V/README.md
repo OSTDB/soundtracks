@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Unserious Game | 346502 | [346502-very-unserious-game.json](./346502-very-unserious-game.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
+| Verytex | 46162 | [46162-verytex.json](./46162-verytex.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Verz | 161497 | [161497-verz.json](./161497-verz.json) |
 | Verzaken! | 74982 | [74982-verzaken.json](./74982-verzaken.json) |
