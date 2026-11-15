@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Ninja vs. 100 Mann | 359568 | [359568-banana-ninja-vs-100-mann.json](./359568-banana-ninja-vs-100-mann.json) |
 | Banana of Doom | 366714 | [366714-banana-of-doom.json](./366714-banana-of-doom.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
+| Banana Prince | 9264 | [9264-banana-prince.json](./9264-banana-prince.json) |
 | Banana Quest | 222847 | [222847-banana-quest.json](./222847-banana-quest.json) |
 | Banana Quest | 276910 | [276910-banana-quest.json](./276910-banana-quest.json) |
 | Banana Ragdoll | 336750 | [336750-banana-ragdoll.json](./336750-banana-ragdoll.json) |
@@ -14971,6 +14972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2 VR: BAMF DLC Pack | 166010 | [166010-borderlands-2-vr-bamf-dlc-pack.json](./166010-borderlands-2-vr-bamf-dlc-pack.json) |
 | Borderlands 2: Captain Scarlett and Her Pirate's Booty | 13920 | [13920-borderlands-2-captain-scarlett-and-her-pirates-booty.json](./13920-borderlands-2-captain-scarlett-and-her-pirates-booty.json) |
 | Borderlands 2: Commander Lilith and the Fight for Sanctuary | 119267 | [119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json](./119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json) |
+| Borderlands 2: Creature Slaughterdome | 75690 | [75690-borderlands-2-creature-slaughterdome.json](./75690-borderlands-2-creature-slaughterdome.json) |
 | Borderlands 2: Deluxe Vault Hunter's Edition | 45277 | [45277-borderlands-2-deluxe-vault-hunters-edition.json](./45277-borderlands-2-deluxe-vault-hunters-edition.json) |
 | Borderlands 2: Game of the Year Edition | 47461 | [47461-borderlands-2-game-of-the-year-edition.json](./47461-borderlands-2-game-of-the-year-edition.json) |
 | Borderlands 2: How Marcus Saved Mercenary Day | 13926 | [13926-borderlands-2-how-marcus-saved-mercenary-day.json](./13926-borderlands-2-how-marcus-saved-mercenary-day.json) |
@@ -16244,6 +16246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain IQTopia | 342341 | [342341-brain-iqtopia.json](./342341-brain-iqtopia.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Jam | 83695 | [83695-brain-jam.json](./83695-brain-jam.json) |
+| Brain Lord | 16288 | [16288-brain-lord.json](./16288-brain-lord.json) |
 | Brain Machine | 51494 | [51494-brain-machine.json](./51494-brain-machine.json) |
 | Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
 | Brain Meltdown: Into Despair | 141274 | [141274-brain-meltdown-into-despair.json](./141274-brain-meltdown-into-despair.json) |
@@ -17930,6 +17933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Psyche | 326003 | [326003-broken-psyche.json](./326003-broken-psyche.json) |
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
 | Broken Race | 372099 | [372099-broken-race.json](./372099-broken-race.json) |
+| Broken Reality | 76930 | [76930-broken-reality.json](./76930-broken-reality.json) |
 | Broken Reality 2000 | 226272 | [226272-broken-reality-2000.json](./226272-broken-reality-2000.json) |
 | Broken Realm | 64082 | [64082-broken-realm.json](./64082-broken-realm.json) |
 | Broken Relic | 342896 | [342896-broken-relic.json](./342896-broken-relic.json) |
@@ -20680,6 +20684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! The Big Quiz | 18716 | [18716-buzz-the-big-quiz.json](./18716-buzz-the-big-quiz.json) |
 | Buzz! The Hollywood Quiz | 23065 | [23065-buzz-the-hollywood-quiz.json](./23065-buzz-the-hollywood-quiz.json) |
 | Buzz! The Mega Quiz | 23089 | [23089-buzz-the-mega-quiz.json](./23089-buzz-the-mega-quiz.json) |
+| Buzz! The Music Quiz | 18715 | [18715-buzz-the-music-quiz.json](./18715-buzz-the-music-quiz.json) |
 | Buzz! The Schools Quiz | 93404 | [93404-buzz-the-schools-quiz.json](./93404-buzz-the-schools-quiz.json) |
 | Buzz! The Sports Quiz | 43520 | [43520-buzz-the-sports-quiz.json](./43520-buzz-the-sports-quiz.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
