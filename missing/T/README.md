@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiyaki Fabulous Museum of Fish | 321266 | [321266-taiyaki-fabulous-museum-of-fish.json](./321266-taiyaki-fabulous-museum-of-fish.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Otsuge | 209949 | [209949-taiyou-no-otsuge.json](./209949-taiyou-no-otsuge.json) |
+| Taiyou no Shinden: Asteka II | 48271 | [48271-taiyou-no-shinden-asteka-ii.json](./48271-taiyou-no-shinden-asteka-ii.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
 | Taiyou no Yuusha Fighbird | 48391 | [48391-taiyou-no-yuusha-fighbird.json](./48391-taiyou-no-yuusha-fighbird.json) |
 | Taiyou no Yuusha Fighbird GB | 49136 | [49136-taiyou-no-yuusha-fighbird-gb.json](./49136-taiyou-no-yuusha-fighbird-gb.json) |
@@ -4330,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau | 298800 | [298800-tenchi-wo-kurau.json](./298800-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau II: Sekiheki no Tatakai | 45019 | [45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json](./45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json) |
+| Tenchi wo Kurau II: Shokatsu Koumei-den | 48346 | [48346-tenchi-wo-kurau-ii-shokatsu-koumei-den.json](./48346-tenchi-wo-kurau-ii-shokatsu-koumei-den.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tencho no Igo | 65565 | [65565-tencho-no-igo.json](./65565-tencho-no-igo.json) |
 | Tenchou's Deadline Dash! | 385442 | [385442-tenchous-deadline-dash.json](./385442-tenchous-deadline-dash.json) |
@@ -17047,6 +17049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest Giver | 75960 | [75960-the-quest-giver.json](./75960-the-quest-giver.json) |
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
 | The Quest of Agravain | 74006 | [74006-the-quest-of-agravain.json](./74006-the-quest-of-agravain.json) |
+| The Quest of Ki | 48353 | [48353-the-quest-of-ki.json](./48353-the-quest-of-ki.json) |
 | The Quest of Kwirk's Castle | 73180 | [73180-the-quest-of-kwirks-castle.json](./73180-the-quest-of-kwirks-castle.json) |
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
@@ -20330,6 +20333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Sonic Bundle | 165855 | [165855-the-ultimate-sonic-bundle.json](./165855-the-ultimate-sonic-bundle.json) |
 | The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
 | The Ultimate Strategy Game Collection I | 137184 | [137184-the-ultimate-strategy-game-collection-i.json](./137184-the-ultimate-strategy-game-collection-i.json) |
+| The Ultimate Stuntman | 48264 | [48264-the-ultimate-stuntman.json](./48264-the-ultimate-stuntman.json) |
 | The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
 | The Ultimate Trivia Challenge | 74205 | [74205-the-ultimate-trivia-challenge.json](./74205-the-ultimate-trivia-challenge.json) |
@@ -21483,6 +21487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
 | The Young Captain | 302192 | [302192-the-young-captain.json](./302192-the-young-captain.json) |
 | The Young Gabriel King Chronicles | 122221 | [122221-the-young-gabriel-king-chronicles.json](./122221-the-young-gabriel-king-chronicles.json) |
+| The Young Indiana Jones Chronicles | 48254 | [48254-the-young-indiana-jones-chronicles.json](./48254-the-young-indiana-jones-chronicles.json) |
 | The young mathematician: Easy difficulty | 109395 | [109395-the-young-mathematician-easy-difficulty.json](./109395-the-young-mathematician-easy-difficulty.json) |
 | The Young Ones | 40933 | [40933-the-young-ones.json](./40933-the-young-ones.json) |
 | The Youthdrainers | 34701 | [34701-the-youthdrainers.json](./34701-the-youthdrainers.json) |
@@ -22979,6 +22984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumpies | 66730 | [66730-thumpies.json](./66730-thumpies.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
 | Thunder | 249655 | [249655-thunder.json](./249655-thunder.json) |
+| Thunder & Lightning | 48273 | [48273-thunder-and-lightning.json](./48273-thunder-and-lightning.json) |
 | Thunder Age | 302549 | [302549-thunder-age.json](./302549-thunder-age.json) |
 | Thunder Alley | 49340 | [49340-thunder-alley.json](./49340-thunder-alley.json) |
 | Thunder and Line-ing | 389707 | [389707-thunder-and-line-ing.json](./389707-thunder-and-line-ing.json) |
@@ -23920,6 +23926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Heli | 4606 | [4606-tiger-heli.json](./4606-tiger-heli.json) |
 | Tiger Hunt | 41977 | [41977-tiger-hunt.json](./41977-tiger-hunt.json) |
 | Tiger Hunt | 68695 | [68695-tiger-hunt.json](./68695-tiger-hunt.json) |
+| Tiger Jenny | 48337 | [48337-tiger-jenny.json](./48337-tiger-jenny.json) |
 | Tiger Knight | 137043 | [137043-tiger-knight.json](./137043-tiger-knight.json) |
 | Tiger Knight: Battle Royale | 167209 | [167209-tiger-knight-battle-royale.json](./167209-tiger-knight-battle-royale.json) |
 | Tiger Man | 247036 | [247036-tiger-man.json](./247036-tiger-man.json) |
@@ -25299,6 +25306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles II | 212603 | [212603-tiles-ii.json](./212603-tiles-ii.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
+| Tiles of Fate | 48272 | [48272-tiles-of-fate.json](./48272-tiles-of-fate.json) |
 | Tiles of Hope: Matching Games | 331373 | [331373-tiles-of-hope-matching-games.json](./331373-tiles-of-hope-matching-games.json) |
 | Tiles of the Dragon | 71416 | [71416-tiles-of-the-dragon.json](./71416-tiles-of-the-dragon.json) |
 | Tiles of the Simpsons | 334954 | [334954-tiles-of-the-simpsons.json](./334954-tiles-of-the-simpsons.json) |
@@ -26565,6 +26573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Tactics | 163135 | [163135-titan-tactics.json](./163135-titan-tactics.json) |
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
 | Titan Throne | 102474 | [102474-titan-throne.json](./102474-titan-throne.json) |
+| Titan Warriors | 48335 | [48335-titan-warriors.json](./48335-titan-warriors.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
 | Titan: The Ascension | 244152 | [244152-titan-the-ascension.json](./244152-titan-the-ascension.json) |
 | Titan's Shadow Killers | 420071 | [420071-titans-shadow-killers.json](./420071-titans-shadow-killers.json) |
@@ -34972,6 +34981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolls and Tribulations | 25942 | [25942-trolls-and-tribulations.json](./25942-trolls-and-tribulations.json) |
 | Trolls and Tribulations: Omega | 178554 | [178554-trolls-and-tribulations-omega.json](./178554-trolls-and-tribulations-omega.json) |
 | Trolls de Troy: La Cité de la mort rose | 388737 | [388737-trolls-de-troy-la-cite-de-la-mort-rose.json](./388737-trolls-de-troy-la-cite-de-la-mort-rose.json) |
+| Trolls on Treasure Island | 48269 | [48269-trolls-on-treasure-island.json](./48269-trolls-on-treasure-island.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
 | Trolls Smash | 109076 | [109076-trolls-smash.json](./109076-trolls-smash.json) |
 | Trolls Vs. Vikings 2 | 114620 | [114620-trolls-vs-vikings-2.json](./114620-trolls-vs-vikings-2.json) |
