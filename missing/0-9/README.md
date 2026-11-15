@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
 | 1428: Shadows over Silesia - Tourney at the Bear Rock | 289334 | [289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json](./289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json) |
 | 144 | 370382 | [370382-144.json](./370382-144.json) |
+| 1453: Fall of Constantinople | 425119 | [425119-1453-fall-of-constantinople.json](./425119-1453-fall-of-constantinople.json) |
 | 1483 Anno Domini | 409431 | [409431-1483-anno-domini.json](./409431-1483-anno-domini.json) |
 | 1492 | 309159 | [309159-1492.json](./309159-1492.json) |
 | 1492: Anno Domini | 402829 | [402829-1492-anno-domini.json](./402829-1492-anno-domini.json) |
