@@ -3189,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust | 278132 | [278132-joust.json](./278132-joust.json) |
 | Joust | 287078 | [287078-joust.json](./287078-joust.json) |
 | Joust 2: Survival of the Fittest | 39371 | [39371-joust-2-survival-of-the-fittest.json](./39371-joust-2-survival-of-the-fittest.json) |
+| Joust Champions | 425164 | [425164-joust-champions.json](./425164-joust-champions.json) |
 | Joust In Love | 176221 | [176221-joust-in-love.json](./176221-joust-in-love.json) |
 | Joust Legend | 60567 | [60567-joust-legend.json](./60567-joust-legend.json) |
 | Joust Pong | 40762 | [40762-joust-pong.json](./40762-joust-pong.json) |
