@@ -10323,6 +10323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Wow Wildlife Adventure | 400179 | [400179-planet-wow-wildlife-adventure.json](./400179-planet-wow-wildlife-adventure.json) |
 | Planet X: Space Shooter VR | 104609 | [104609-planet-x-space-shooter-vr.json](./104609-planet-x-space-shooter-vr.json) |
 | Planet X16 | 285453 | [285453-planet-x16.json](./285453-planet-x16.json) |
+| Planet X2 | 77432 | [77432-planet-x2.json](./77432-planet-x2.json) |
 | Planet X3 | 103211 | [103211-planet-x3.json](./103211-planet-x3.json) |
 | Planet Zero | 181629 | [181629-planet-zero.json](./181629-planet-zero.json) |
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
@@ -12962,6 +12963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
 | Poker Hands Bullshit | 388639 | [388639-poker-hands-bullshit.json](./388639-poker-hands-bullshit.json) |
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
+| Poker Heat | 77434 | [77434-poker-heat.json](./77434-poker-heat.json) |
 | Poker Kingdom | 232360 | [232360-poker-kingdom.json](./232360-poker-kingdom.json) |
 | Poker Ladies | 39397 | [39397-poker-ladies.json](./39397-poker-ladies.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
@@ -19032,6 +19034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puckman Pockimon Genie 2000 | 382664 | [382664-puckman-pockimon-genie-2000.json](./382664-puckman-pockimon-genie-2000.json) |
 | Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
+| Pud Pud in Weird World | 77461 | [77461-pud-pud-in-weird-world.json](./77461-pud-pud-in-weird-world.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Puddies | 256601 | [256601-puddies.json](./256601-puddies.json) |
 | Pudding | 264725 | [264725-pudding.json](./264725-pudding.json) |
