@@ -15151,7 +15151,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Domain | 268623 | [268623-the-masters-domain.json](./268623-the-masters-domain.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
-| The Masterplan | 10995 | [10995-the-masterplan.json](./10995-the-masterplan.json) |
 | The Masters of Kin | 40360 | [40360-the-masters-of-kin.json](./40360-the-masters-of-kin.json) |
 | The Masters: Survival | 188571 | [188571-the-masters-survival.json](./188571-the-masters-survival.json) |
 | The Match | 301545 | [301545-the-match.json](./301545-the-match.json) |
