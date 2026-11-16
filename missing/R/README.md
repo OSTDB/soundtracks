@@ -11571,6 +11571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguerooms New Management | 420934 | [420934-roguerooms-new-management.json](./420934-roguerooms-new-management.json) |
 | Rogues & Fate | 411255 | [411255-rogues-and-fate.json](./411255-rogues-and-fate.json) |
 | Rogues Adventure | 155401 | [155401-rogues-adventure.json](./155401-rogues-adventure.json) |
+| Rogues Don't Cry | 244443 | [244443-rogues-dont-cry.json](./244443-rogues-dont-cry.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues Like Us | 32357 | [32357-rogues-like-us.json](./32357-rogues-like-us.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
@@ -11925,6 +11926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | Rolling Voltorb | 70084 | [70084-rolling-voltorb.json](./70084-rolling-voltorb.json) |
 | Rolling Wheels | 308993 | [308993-rolling-wheels.json](./308993-rolling-wheels.json) |
+| Rolling with Katamari | 243428 | [243428-rolling-with-katamari.json](./243428-rolling-with-katamari.json) |
 | RollingBall | 344265 | [344265-rollingball.json](./344265-rollingball.json) |
 | RollingBall | 89433 | [89433-rollingball.json](./89433-rollingball.json) |
 | RollingBall: Unlimited World | 96428 | [96428-rollingball-unlimited-world.json](./96428-rollingball-unlimited-world.json) |
@@ -13114,6 +13116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Quest Online | 309547 | [309547-royal-quest-online.json](./309547-royal-quest-online.json) |
 | Royal Rampage | 370127 | [370127-royal-rampage.json](./370127-royal-rampage.json) |
 | Royal Randomizer | 342162 | [342162-royal-randomizer.json](./342162-royal-randomizer.json) |
+| Royal Razzle | 244437 | [244437-royal-razzle.json](./244437-royal-razzle.json) |
 | Royal Rescue | 133201 | [133201-royal-rescue.json](./133201-royal-rescue.json) |
 | Royal Rescue SRPG | 137786 | [137786-royal-rescue-srpg.json](./137786-royal-rescue-srpg.json) |
 | Royal Revolt II | 77538 | [77538-royal-revolt-ii.json](./77538-royal-revolt-ii.json) |
