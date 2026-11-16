@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrologium | 372404 | [372404-necrologium.json](./372404-necrologium.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
 | Necromage | 305706 | [305706-necromage.json](./305706-necromage.json) |
+| Necromance | 347935 | [347935-necromance.json](./347935-necromance.json) |
 | Necromance-chan | 151791 | [151791-necromance-chan.json](./151791-necromance-chan.json) |
 | Necromancer | 145147 | [145147-necromancer.json](./145147-necromancer.json) |
 | Necromancer | 18661 | [18661-necromancer.json](./18661-necromancer.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nectaris GB | 49094 | [49094-nectaris-gb.json](./49094-nectaris-gb.json) |
 | Nectaris: Military Madness | 356101 | [356101-nectaris-military-madness.json](./356101-nectaris-military-madness.json) |
 | Nectarmare | 297154 | [297154-nectarmare.json](./297154-nectarmare.json) |
+| NectorX | 360801 | [360801-nectorx.json](./360801-nectorx.json) |
 | Necuratu | 309721 | [309721-necuratu.json](./309721-necuratu.json) |
 | Ned | 253305 | [253305-ned.json](./253305-ned.json) |
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
@@ -4959,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Trap | 2486 | [2486-night-trap.json](./2486-night-trap.json) |
 | Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
+| Night Turns to Day | 360819 | [360819-night-turns-to-day.json](./360819-night-turns-to-day.json) |
 | Night Vigil | 289548 | [289548-night-vigil.json](./289548-night-vigil.json) |
 | Night Vigil | 31848 | [31848-night-vigil.json](./31848-night-vigil.json) |
 | Night Vision | 145788 | [145788-night-vision.json](./145788-night-vision.json) |
@@ -8440,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nullnest | 428384 | [428384-nullnest.json](./428384-nullnest.json) |
 | Nullore: Beginning | 171651 | [171651-nullore-beginning.json](./171651-nullore-beginning.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
+| Nullpoint Protocol | 360789 | [360789-nullpoint-protocol.json](./360789-nullpoint-protocol.json) |
 | Nullpointer | 68446 | [68446-nullpointer.json](./68446-nullpointer.json) |
 | Nullpomino | 330075 | [330075-nullpomino.json](./330075-nullpomino.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
