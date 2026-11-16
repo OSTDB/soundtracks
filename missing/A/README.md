@@ -2312,7 +2312,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal world: Season One | 96881 | [96881-abnormal-world-season-one.json](./96881-abnormal-world-season-one.json) |
 | Abnormality | 316442 | [316442-abnormality.json](./316442-abnormality.json) |
 | Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
-| Abo Khashem | 86362 | [86362-abo-khashem.json](./86362-abo-khashem.json) |
 | Abo Mando | 33826 | [33826-abo-mando.json](./33826-abo-mando.json) |
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
 | Abobi's Guide | 419622 | [419622-abobis-guide.json](./419622-abobis-guide.json) |
@@ -4284,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
 | Adventure of Kanjiro Chapter 1 | 410401 | [410401-adventure-of-kanjiro-chapter-1.json](./410401-adventure-of-kanjiro-chapter-1.json) |
+| Adventure of Kanjiro Chapter 2 | 417893 | [417893-adventure-of-kanjiro-chapter-2.json](./417893-adventure-of-kanjiro-chapter-2.json) |
 | Adventure of Leek | 191068 | [191068-adventure-of-leek.json](./191068-adventure-of-leek.json) |
 | Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
 | Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherdrift | 384194 | [384194-aetherdrift.json](./384194-aetherdrift.json) |
 | Aethereus | 93639 | [93639-aethereus.json](./93639-aethereus.json) |
 | Aetherfall | 348587 | [348587-aetherfall.json](./348587-aetherfall.json) |
+| Aetherfall | 417884 | [417884-aetherfall.json](./417884-aetherfall.json) |
 | Aetherglen | 347806 | [347806-aetherglen.json](./347806-aetherglen.json) |
 | Aetheria Online | 114597 | [114597-aetheria-online.json](./114597-aetheria-online.json) |
 | Aetheria: Whispers of the Forest Moon | 316453 | [316453-aetheria-whispers-of-the-forest-moon.json](./316453-aetheria-whispers-of-the-forest-moon.json) |
@@ -6167,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Climb | 195577 | [195577-aim-climb.json](./195577-aim-climb.json) |
 | Aim Down Screen | 283888 | [283888-aim-down-screen.json](./283888-aim-down-screen.json) |
 | Aim Expert | 235049 | [235049-aim-expert.json](./235049-aim-expert.json) |
+| Aim for 1 Million! Influencer Dream | 417873 | [417873-aim-for-1-million-influencer-dream.json](./417873-aim-for-1-million-influencer-dream.json) |
 | Aim for the Top! Gunbuster | 57987 | [57987-aim-for-the-top-gunbuster.json](./57987-aim-for-the-top-gunbuster.json) |
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
