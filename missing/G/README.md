@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis | 144583 | [144583-genesis.json](./144583-genesis.json) |
 | Genesis | 24508 | [24508-genesis.json](./24508-genesis.json) |
 | Genesis | 318161 | [318161-genesis.json](./318161-genesis.json) |
+| Genesis | 334397 | [334397-genesis.json](./334397-genesis.json) |
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
@@ -6247,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Mania: Extended Edition | 328761 | [328761-go-kart-mania-extended-edition.json](./328761-go-kart-mania-extended-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Kart Mania: Prime Edition | 328762 | [328762-go-kart-mania-prime-edition.json](./328762-go-kart-mania-prime-edition.json) |
+| Go Kart Mania: Value Edition | 335540 | [335540-go-kart-mania-value-edition.json](./335540-go-kart-mania-value-edition.json) |
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
 | Go Kart Run! | 132302 | [132302-go-kart-run.json](./132302-go-kart-run.json) |
 | Go Kart Safari | 175190 | [175190-go-kart-safari.json](./175190-go-kart-safari.json) |
