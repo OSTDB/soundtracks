@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
 | Office Leveling | 406366 | [406366-office-leveling.json](./406366-office-leveling.json) |
 | Office Life | 154258 | [154258-office-life.json](./154258-office-life.json) |
+| Office Life | 267026 | [267026-office-life.json](./267026-office-life.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
 | Office Lovers | 32319 | [32319-office-lovers.json](./32319-office-lovers.json) |
 | Office Madness 2: Corporation | 200026 | [200026-office-madness-2-corporation.json](./200026-office-madness-2-corporation.json) |
@@ -4326,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Decay | 60774 | [60774-orbital-decay.json](./60774-orbital-decay.json) |
 | Orbital Defence Command | 163188 | [163188-orbital-defence-command.json](./163188-orbital-defence-command.json) |
 | Orbital Defender | 178635 | [178635-orbital-defender.json](./178635-orbital-defender.json) |
+| Orbital Defense Force | 267042 | [267042-orbital-defense-force.json](./267042-orbital-defense-force.json) |
 | Orbital Descent | 339275 | [339275-orbital-descent.json](./339275-orbital-descent.json) |
 | Orbital Dogfight VR | 117661 | [117661-orbital-dogfight-vr.json](./117661-orbital-dogfight-vr.json) |
 | Orbital Drift | 403954 | [403954-orbital-drift.json](./403954-orbital-drift.json) |
