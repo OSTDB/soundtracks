@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Abyss | 331783 | [331783-pale-abyss.json](./331783-pale-abyss.json) |
 | Pale Cachexia | 145865 | [145865-pale-cachexia.json](./145865-pale-cachexia.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
+| Pale Cinder | 242187 | [242187-pale-cinder.json](./242187-pale-cinder.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
 | Pale Echoes | 35068 | [35068-pale-echoes.json](./35068-pale-echoes.json) |
 | Pale Lands VR | 86636 | [86636-pale-lands-vr.json](./86636-pale-lands-vr.json) |
@@ -8306,6 +8307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinkalicious | 9746 | [9746-pinkalicious.json](./9746-pinkalicious.json) |
 | Pinkalicious Party | 89767 | [89767-pinkalicious-party.json](./89767-pinkalicious-party.json) |
 | Pinkalicious/Silverlicious 2-Pack | 9747 | [9747-pinkalicious-silverlicious-2-pack.json](./9747-pinkalicious-silverlicious-2-pack.json) |
+| Pinkatana | 242275 | [242275-pinkatana.json](./242275-pinkatana.json) |
 | PinKeep | 381179 | [381179-pinkeep.json](./381179-pinkeep.json) |
 | Pinkie | 77426 | [77426-pinkie.json](./77426-pinkie.json) |
 | Pinkman | 31643 | [31643-pinkman.json](./31643-pinkman.json) |
@@ -11878,6 +11880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket RPG | 61075 | [61075-pocket-rpg.json](./61075-pocket-rpg.json) |
 | Pocket Rumble | 27534 | [27534-pocket-rumble.json](./27534-pocket-rumble.json) |
 | Pocket Runners | 97264 | [97264-pocket-runners.json](./97264-pocket-runners.json) |
+| Pocket Rush | 242192 | [242192-pocket-rush.json](./242192-pocket-rush.json) |
 | Pocket Sakura | 198648 | [198648-pocket-sakura.json](./198648-pocket-sakura.json) |
 | Pocket Sheep | 181588 | [181588-pocket-sheep.json](./181588-pocket-sheep.json) |
 | Pocket Shooter Hardcore | 57691 | [57691-pocket-shooter-hardcore.json](./57691-pocket-shooter-hardcore.json) |
@@ -13701,6 +13704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Impulse | 288073 | [288073-poly-impulse.json](./288073-poly-impulse.json) |
 | Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
+| Poly Jigsaw: Animals | 242282 | [242282-poly-jigsaw-animals.json](./242282-poly-jigsaw-animals.json) |
 | Poly Jigsaw: Birds | 240660 | [240660-poly-jigsaw-birds.json](./240660-poly-jigsaw-birds.json) |
 | Poly Jigsaw: Butterflies | 243859 | [243859-poly-jigsaw-butterflies.json](./243859-poly-jigsaw-butterflies.json) |
 | Poly Jigsaw: Cats | 238132 | [238132-poly-jigsaw-cats.json](./238132-poly-jigsaw-cats.json) |
@@ -13795,6 +13799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyClassic: Wild | 163897 | [163897-polyclassic-wild.json](./163897-polyclassic-wild.json) |
 | Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
 | PolyCore Defense | 148630 | [148630-polycore-defense.json](./148630-polycore-defense.json) |
+| PolyCraft | 242269 | [242269-polycraft.json](./242269-polycraft.json) |
 | Polycrusher | 31626 | [31626-polycrusher.json](./31626-polycrusher.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
@@ -15748,6 +15753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Wolf Predator | 197587 | [197587-predator-hunting-grounds-wolf-predator.json](./197587-predator-hunting-grounds-wolf-predator.json) |
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
 | Predator: Hunting Grounds: Oni Predator | 361905 | [361905-predator-hunting-grounds-oni-predator.json](./361905-predator-hunting-grounds-oni-predator.json) |
+| Predators | 242273 | [242273-predators.json](./242273-predators.json) |
 | Predators | 377350 | [377350-predators.json](./377350-predators.json) |
 | Predators | 79534 | [79534-predators.json](./79534-predators.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
@@ -18679,6 +18685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propagation VR | 139182 | [139182-propagation-vr.json](./139182-propagation-vr.json) |
 | Propagation: Paradise Hotel | 190483 | [190483-propagation-paradise-hotel.json](./190483-propagation-paradise-hotel.json) |
+| Propel Man | 242287 | [242287-propel-man.json](./242287-propel-man.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Propeller King | 207674 | [207674-propeller-king.json](./207674-propeller-king.json) |
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
