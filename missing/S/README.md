@@ -8453,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard of Inovar | 54671 | [54671-shard-of-inovar.json](./54671-shard-of-inovar.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
+| Shard Plushie.exe | 342958 | [342958-shard-plushie-exe.json](./342958-shard-plushie-exe.json) |
 | Shard Seekers | 267823 | [267823-shard-seekers.json](./267823-shard-seekers.json) |
 | Shard Shuffle | 288052 | [288052-shard-shuffle.json](./288052-shard-shuffle.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
@@ -32334,6 +32335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip 'Em II: Facka's Game | 385896 | [385896-strip-em-ii-fackas-game.json](./385896-strip-em-ii-fackas-game.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
 | Strip Battle | 296990 | [296990-strip-battle.json](./296990-strip-battle.json) |
+| Strip Battle Action Cards | 344592 | [344592-strip-battle-action-cards.json](./344592-strip-battle-action-cards.json) |
 | Strip Black Jack: At the Pub | 174115 | [174115-strip-black-jack-at-the-pub.json](./174115-strip-black-jack-at-the-pub.json) |
 | Strip Black Jack: Cyber Sex | 385230 | [385230-strip-black-jack-cyber-sex.json](./385230-strip-black-jack-cyber-sex.json) |
 | Strip Black Jack: Hot Gym | 169297 | [169297-strip-black-jack-hot-gym.json](./169297-strip-black-jack-hot-gym.json) |
@@ -37549,7 +37551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Splash 3D | 70486 | [70486-super-splash-3d.json](./70486-super-splash-3d.json) |
 | Super Splash League | 361780 | [361780-super-splash-league.json](./361780-super-splash-league.json) |
 | Super SplashTube Bros. | 368259 | [368259-super-splashtube-bros.json](./368259-super-splashtube-bros.json) |
-| Super Splatters | 9696 | [9696-super-splatters.json](./9696-super-splatters.json) |
 | Super SpongeBob 2 | 382398 | [382398-super-spongebob-2.json](./382398-super-spongebob-2.json) |
 | Super SpongeBob Kart | 42203 | [42203-super-spongebob-kart.json](./42203-super-spongebob-kart.json) |
 | Super Spooky 64 | 300255 | [300255-super-spooky-64.json](./300255-super-spooky-64.json) |
