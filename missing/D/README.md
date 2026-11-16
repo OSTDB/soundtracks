@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
 | Dating App Simulator | 365607 | [365607-dating-app-simulator.json](./365607-dating-app-simulator.json) |
 | Dating App Simulator | 380235 | [380235-dating-app-simulator.json](./380235-dating-app-simulator.json) |
+| Dating is Hell | 401239 | [401239-dating-is-hell.json](./401239-dating-is-hell.json) |
 | Dating Izzie | 247925 | [247925-dating-izzie.json](./247925-dating-izzie.json) |
 | Dating Killmulator | 324646 | [324646-dating-killmulator.json](./324646-dating-killmulator.json) |
 | Dating Life 2: Emily X Miley | 159956 | [159956-dating-life-2-emily-x-miley.json](./159956-dating-life-2-emily-x-miley.json) |
@@ -16302,6 +16303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula X: Nocturne In the Moonlight - Ultimate | 324813 | [324813-dracula-x-nocturne-in-the-moonlight-ultimate.json](./324813-dracula-x-nocturne-in-the-moonlight-ultimate.json) |
 | Dracula: A Gothic RPG | 146744 | [146744-dracula-a-gothic-rpg.json](./146744-dracula-a-gothic-rpg.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
+| Dracula: Dark Reign | 399937 | [399937-dracula-dark-reign.json](./399937-dracula-dark-reign.json) |
 | Dracula: Love Kills | 16688 | [16688-dracula-love-kills.json](./16688-dracula-love-kills.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Reign of Terror | 16479 | [16479-dracula-reign-of-terror.json](./16479-dracula-reign-of-terror.json) |
@@ -18305,6 +18307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamfear | 414140 | [414140-dreamfear.json](./414140-dreamfear.json) |
 | Dreamflight VR | 35399 | [35399-dreamflight-vr.json](./35399-dreamflight-vr.json) |
 | DreamFly | 128047 | [128047-dreamfly.json](./128047-dreamfly.json) |
+| DreamForge | 401210 | [401210-dreamforge.json](./401210-dreamforge.json) |
 | DreamGallery | 131968 | [131968-dreamgallery.json](./131968-dreamgallery.json) |
 | Dreamgame | 229487 | [229487-dreamgame.json](./229487-dreamgame.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
