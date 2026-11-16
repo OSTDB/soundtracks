@@ -9626,6 +9626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Samurai | 204812 | [204812-pixel-samurai.json](./204812-pixel-samurai.json) |
 | Pixel Sand | 28378 | [28378-pixel-sand.json](./28378-pixel-sand.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
+| Pixel Sentry | 367639 | [367639-pixel-sentry.json](./367639-pixel-sentry.json) |
 | Pixel Session Vol. 1 | 134204 | [134204-pixel-session-vol-1.json](./134204-pixel-session-vol-1.json) |
 | Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
