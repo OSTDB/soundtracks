@@ -18969,6 +18969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Chuǎng Tōngguān | 390695 | [390695-bubu-chuang-tongguan.json](./390695-bubu-chuang-tongguan.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
+| Bubu Kong Goes Bananas | 267049 | [267049-bubu-kong-goes-bananas.json](./267049-bubu-kong-goes-bananas.json) |
 | Bubumbu | 290561 | [290561-bubumbu.json](./290561-bubumbu.json) |
 | Buca! | 327975 | [327975-buca.json](./327975-buca.json) |
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
