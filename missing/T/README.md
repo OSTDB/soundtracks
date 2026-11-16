@@ -27226,6 +27226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
 | Toadette's Christmas Adventure | 215198 | [215198-toadettes-christmas-adventure.json](./215198-toadettes-christmas-adventure.json) |
 | Toadette's Sweets Gallery | 294781 | [294781-toadettes-sweets-gallery.json](./294781-toadettes-sweets-gallery.json) |
+| Toadforce | 416399 | [416399-toadforce.json](./416399-toadforce.json) |
 | Toadled: Eating Frenzy | 370362 | [370362-toadled-eating-frenzy.json](./370362-toadled-eating-frenzy.json) |
 | Toado | 92867 | [92867-toado.json](./92867-toado.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
@@ -27830,6 +27831,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tolom | 346361 | [346361-tolom.json](./346361-tolom.json) |
 | Tölt | 350931 | [350931-tolt.json](./350931-tolt.json) |
 | Toltec and the Mysteries of the Secret Island | 111401 | [111401-toltec-and-the-mysteries-of-the-secret-island.json](./111401-toltec-and-the-mysteries-of-the-secret-island.json) |
+| Tolteka | 416401 | [416401-tolteka.json](./416401-tolteka.json) |
+| Tom | 416404 | [416404-tom.json](./416404-tom.json) |
 | Tom & Jerry 2 | 123248 | [123248-tom-and-jerry-2.json](./123248-tom-and-jerry-2.json) |
 | Tom & Jerry in Dynamice | 343181 | [343181-tom-and-jerry-in-dynamice.json](./343181-tom-and-jerry-in-dynamice.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
@@ -33431,6 +33434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Neuronica | 247801 | [247801-trans-neuronica.json](./247801-trans-neuronica.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
+| Trans-Atlantic Balloon Challenge | 416415 | [416415-trans-atlantic-balloon-challenge.json](./416415-trans-atlantic-balloon-challenge.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
 | Trans-Siberian Legends | 288386 | [288386-trans-siberian-legends.json](./288386-trans-siberian-legends.json) |
 | Trans-Siberian Legends: Beautiful Girls | 298088 | [298088-trans-siberian-legends-beautiful-girls.json](./298088-trans-siberian-legends-beautiful-girls.json) |
@@ -33647,6 +33651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trantor: The Last Stormtrooper | 39097 | [39097-trantor-the-last-stormtrooper.json](./39097-trantor-the-last-stormtrooper.json) |
 | Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
 | Tranzient | 119095 | [119095-tranzient.json](./119095-tranzient.json) |
+| Trap | 416426 | [416426-trap.json](./416426-trap.json) |
 | Trap | 98772 | [98772-trap.json](./98772-trap.json) |
 | Trap Adventure | 153040 | [153040-trap-adventure.json](./153040-trap-adventure.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
@@ -34186,6 +34191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of the Caribbean | 47591 | [47591-treasure-of-the-caribbean.json](./47591-treasure-of-the-caribbean.json) |
 | Treasure of the Caribbean Sea | 416184 | [416184-treasure-of-the-caribbean-sea.json](./416184-treasure-of-the-caribbean-sea.json) |
 | Treasure Of The Giantess | 271275 | [271275-treasure-of-the-giantess.json](./271275-treasure-of-the-giantess.json) |
+| Treasure of the Phoenix | 416434 | [416434-treasure-of-the-phoenix.json](./416434-treasure-of-the-phoenix.json) |
 | Treasure Park | 53003 | [53003-treasure-park.json](./53003-treasure-park.json) |
 | Treasure Party | 369003 | [369003-treasure-party.json](./369003-treasure-party.json) |
 | Treasure Protector | 309479 | [309479-treasure-protector.json](./309479-treasure-protector.json) |
@@ -34603,6 +34609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trianguluv | 29307 | [29307-trianguluv.json](./29307-trianguluv.json) |
 | Trianthology: Sanmenkyou no Kuni no Alice | 108771 | [108771-trianthology-sanmenkyou-no-kuni-no-alice.json](./108771-trianthology-sanmenkyou-no-kuni-no-alice.json) |
 | Triarchy | 377667 | [377667-triarchy.json](./377667-triarchy.json) |
+| Triaxos | 416436 | [416436-triaxos.json](./416436-triaxos.json) |
 | Triazzle Island | 64788 | [64788-triazzle-island.json](./64788-triazzle-island.json) |
 | TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal | 193166 | [193166-tribal.json](./193166-tribal.json) |
@@ -35858,6 +35865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
 | Trump Loves Waifus | 156562 | [156562-trump-loves-waifus.json](./156562-trump-loves-waifus.json) |
 | Trump Quest | 299492 | [299492-trump-quest.json](./299492-trump-quest.json) |
+| Trump Savings Tycoon | 416394 | [416394-trump-savings-tycoon.json](./416394-trump-savings-tycoon.json) |
 | Trump Simulator 2025 | 334305 | [334305-trump-simulator-2025.json](./334305-trump-simulator-2025.json) |
 | Trump Simulator VR | 30827 | [30827-trump-simulator-vr.json](./30827-trump-simulator-vr.json) |
 | Trump Tariff | 338606 | [338606-trump-tariff.json](./338606-trump-tariff.json) |
@@ -37748,6 +37756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typeds | 181542 | [181542-typeds.json](./181542-typeds.json) |
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
+| TypeGG | 416437 | [416437-typegg.json](./416437-typegg.json) |
 | Typegrinder | 407716 | [407716-typegrinder.json](./407716-typegrinder.json) |
 | Typeoids | 387477 | [387477-typeoids.json](./387477-typeoids.json) |
 | TypeOut | 228061 | [228061-typeout.json](./228061-typeout.json) |
