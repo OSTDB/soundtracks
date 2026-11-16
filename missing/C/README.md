@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
 | Cage: Along With Us | 381289 | [381289-cage-along-with-us.json](./381289-cage-along-with-us.json) |
 | Cage: Open | 193307 | [193307-cage-open.json](./193307-cage-open.json) |
+| Cage: Story of Lust | 314079 | [314079-cage-story-of-lust.json](./314079-cage-story-of-lust.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Caged | 248844 | [248844-caged.json](./248844-caged.json) |
 | Caged Beast | 207696 | [207696-caged-beast.json](./207696-caged-beast.json) |
