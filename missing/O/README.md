@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Blades & Tails | 187655 | [187655-of-blades-and-tails.json](./187655-of-blades-and-tails.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Blood and Shadows | 183109 | [183109-of-blood-and-shadows.json](./183109-of-blood-and-shadows.json) |
+| Of Bricks and Patterns | 406362 | [406362-of-bricks-and-patterns.json](./406362-of-bricks-and-patterns.json) |
 | Of Carrots and Blood | 33604 | [33604-of-carrots-and-blood.json](./33604-of-carrots-and-blood.json) |
 | Of Crowns & Chains | 377546 | [377546-of-crowns-and-chains.json](./377546-of-crowns-and-chains.json) |
 | Of Dice and Minions | 420800 | [420800-of-dice-and-minions.json](./420800-of-dice-and-minions.json) |
@@ -1070,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Keeper | 412199 | [412199-office-keeper.json](./412199-office-keeper.json) |
 | Office Kissing | 239978 | [239978-office-kissing.json](./239978-office-kissing.json) |
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
+| Office Leveling | 406366 | [406366-office-leveling.json](./406366-office-leveling.json) |
 | Office Life | 154258 | [154258-office-life.json](./154258-office-life.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
 | Office Lovers | 32319 | [32319-office-lovers.json](./32319-office-lovers.json) |
@@ -3638,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oopstacles | 174648 | [174648-oopstacles.json](./174648-oopstacles.json) |
 | Oopz-Oofs | 310026 | [310026-oopz-oofs.json](./310026-oopz-oofs.json) |
 | Oort Online | 9551 | [9551-oort-online.json](./9551-oort-online.json) |
+| Oort Protocol: Perihelion | 406961 | [406961-oort-protocol-perihelion.json](./406961-oort-protocol-perihelion.json) |
 | Oortbound | 421824 | [421824-oortbound.json](./421824-oortbound.json) |
 | Ooshige! Momohana Hanten | 227376 | [227376-ooshige-momohana-hanten.json](./227376-ooshige-momohana-hanten.json) |
 | OOTP Baseball Go 23 | 211280 | [211280-ootp-baseball-go-23.json](./211280-ootp-baseball-go-23.json) |
@@ -4333,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbiter | 15330 | [15330-orbiter.json](./15330-orbiter.json) |
 | Orbiter 2016 | 139258 | [139258-orbiter-2016.json](./139258-orbiter-2016.json) |
 | Orbiterrion | 153359 | [153359-orbiterrion.json](./153359-orbiterrion.json) |
+| OrbitFix | 406966 | [406966-orbitfix.json](./406966-orbitfix.json) |
 | Orbitmine | 398502 | [398502-orbitmine.json](./398502-orbitmine.json) |
 | Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
 | Orbitous | 362383 | [362383-orbitous.json](./362383-orbitous.json) |
@@ -6524,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
 | Ovrdark: A Do Not Open Story | 258122 | [258122-ovrdark-a-do-not-open-story.json](./258122-ovrdark-a-do-not-open-story.json) |
 | Ovrlrd | 218223 | [218223-ovrlrd.json](./218223-ovrlrd.json) |
+| Ovrshade | 406925 | [406925-ovrshade.json](./406925-ovrshade.json) |
 | OVRshot | 84071 | [84071-ovrshot.json](./84071-ovrshot.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
