@@ -6979,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Drifting | 87425 | [87425-gods-of-drifting.json](./87425-gods-of-drifting.json) |
 | Gods of Egypt: Secrets of the Lost Kingdom | 174747 | [174747-gods-of-egypt-secrets-of-the-lost-kingdom.json](./174747-gods-of-egypt-secrets-of-the-lost-kingdom.json) |
 | Gods of Fire | 309483 | [309483-gods-of-fire.json](./309483-gods-of-fire.json) |
+| Gods of Gravity | 230570 | [230570-gods-of-gravity.json](./230570-gods-of-gravity.json) |
 | Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
 | Gods of Havoc: Into the Void | 120650 | [120650-gods-of-havoc-into-the-void.json](./120650-gods-of-havoc-into-the-void.json) |
 | Gods of Havoc: Into the Void - Rise of the AI | 171412 | [171412-gods-of-havoc-into-the-void-rise-of-the-ai.json](./171412-gods-of-havoc-into-the-void-rise-of-the-ai.json) |
@@ -11249,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Big or Go Home: Ultimate Edition | 171132 | [171132-grow-big-or-go-home-ultimate-edition.json](./171132-grow-big-or-go-home-ultimate-edition.json) |
 | Grow Cannon | 269055 | [269055-grow-cannon.json](./269055-grow-cannon.json) |
+| Grow Castle | 230585 | [230585-grow-castle.json](./230585-grow-castle.json) |
 | Grow Comeback | 106289 | [106289-grow-comeback.json](./106289-grow-comeback.json) |
 | Grow Cube | 175827 | [175827-grow-cube.json](./175827-grow-cube.json) |
 | Grow Defense | 150378 | [150378-grow-defense.json](./150378-grow-defense.json) |
