@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T06:35:56.670Z",
-  "total_soundtracks": 3419,
+  "generated_at": "2026-11-16T07:05:57.510Z",
+  "total_soundtracks": 3421,
   "games": [
     {
       "igdb_id": 292844,
@@ -10333,6 +10333,20 @@
         {
           "album_name": "DOOMBLADE (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6Kz4y4nm5IqrtXdup2Vjnv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 58406,
+      "game_name": "Doomsday Clicker",
+      "game_url": "https://ostdb.net/games/doomsday-clicker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273750e99fe011d9b07297fb842",
+      "albums": [
+        {
+          "album_name": "Doomsday Clicker (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2zMkL20W6QhChXFOSQXt5R",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -34255,6 +34269,20 @@
         {
           "album_name": "Stellaris: Megacorp (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/311OOzX7zp064DwXsd9e71",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 57944,
+      "game_name": "Steppy Pants",
+      "game_url": "https://ostdb.net/games/steppy-pants",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e517926a0cbdca055f9a1cbb",
+      "albums": [
+        {
+          "album_name": "Steppy Pants (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ewFpymPQl264EUNXjQZiv",
           "apple_music_url": "",
           "album_link_url": ""
         }
