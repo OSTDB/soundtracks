@@ -6470,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautycopter | 139164 | [139164-beautycopter.json](./139164-beautycopter.json) |
 | BeautyDarling | 378847 | [378847-beautydarling.json](./378847-beautydarling.json) |
 | Beaux-Arts | 372623 | [372623-beaux-arts.json](./372623-beaux-arts.json) |
+| Beavageddon | 347921 | [347921-beavageddon.json](./347921-beavageddon.json) |
 | Beaver Clicker | 211097 | [211097-beaver-clicker.json](./211097-beaver-clicker.json) |
 | Beaver Creek | 360060 | [360060-beaver-creek.json](./360060-beaver-creek.json) |
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
@@ -7675,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Best. Game. Ever. | 210476 | [210476-best-game-ever.json](./210476-best-game-ever.json) |
 | Bestanden! Dein Weg zum Führerschein (German Highway Code) | 286805 | [286805-bestanden-dein-weg-zum-fuhrerschein-german-highway-code.json](./286805-bestanden-dein-weg-zum-fuhrerschein-german-highway-code.json) |
+| Bestia Forge | 346847 | [346847-bestia-forge.json](./346847-bestia-forge.json) |
 | Bestial Reception | 261567 | [261567-bestial-reception.json](./261567-bestial-reception.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
 | Bestiario | 296847 | [296847-bestiario.json](./296847-bestiario.json) |
@@ -8933,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billionaire | 95202 | [95202-billionaire.json](./95202-billionaire.json) |
 | Billionaire Banshee | 141026 | [141026-billionaire-banshee.json](./141026-billionaire-banshee.json) |
 | Billionaire Dad Luxury Life Real Family Games | 102851 | [102851-billionaire-dad-luxury-life-real-family-games.json](./102851-billionaire-dad-luxury-life-real-family-games.json) |
+| Billionaire in the Oil Boom | 349003 | [349003-billionaire-in-the-oil-boom.json](./349003-billionaire-in-the-oil-boom.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionaire Lovers | 154155 | [154155-billionaire-lovers.json](./154155-billionaire-lovers.json) |
 | Billionaire Simulator | 403074 | [403074-billionaire-simulator.json](./403074-billionaire-simulator.json) |
@@ -12542,6 +12545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Spear | 163208 | [163208-blood-spear.json](./163208-blood-spear.json) |
 | Blood Sport | 13243 | [13243-blood-sport.json](./13243-blood-sport.json) |
 | Blood Storm | 405339 | [405339-blood-storm.json](./405339-blood-storm.json) |
+| Blood Storm: Alien Purge | 347926 | [347926-blood-storm-alien-purge.json](./347926-blood-storm-alien-purge.json) |
 | Blood Strike | 239920 | [239920-blood-strike.json](./239920-blood-strike.json) |
 | Blood Sunset | 244657 | [244657-blood-sunset.json](./244657-blood-sunset.json) |
 | Blood Sword | 340348 | [340348-blood-sword.json](./340348-blood-sword.json) |
@@ -13647,6 +13651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobber Bop | 125801 | [125801-bobber-bop.json](./125801-bobber-bop.json) |
 | Bobbi Adventure | 200574 | [200574-bobbi-adventure.json](./200574-bobbi-adventure.json) |
 | Bobbi_Cities | 68771 | [68771-bobbi-cities.json](./68771-bobbi-cities.json) |
+| Bobbies Evolution | 346850 | [346850-bobbies-evolution.json](./346850-bobbies-evolution.json) |
 | Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
 | Bobble Bunch: Ultimate Pet Adventure | 236994 | [236994-bobble-bunch-ultimate-pet-adventure.json](./236994-bobble-bunch-ultimate-pet-adventure.json) |
@@ -15064,6 +15069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Borbs | 411526 | [411526-borbs.json](./411526-borbs.json) |
 | Börd Killer | 352478 | [352478-bord-killer.json](./352478-bord-killer.json) |
+| Border Base | 347953 | [347953-border-base.json](./347953-border-base.json) |
 | Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
 | Border Break: Sega Network Robot Wars | 78434 | [78434-border-break-sega-network-robot-wars.json](./78434-border-break-sega-network-robot-wars.json) |
