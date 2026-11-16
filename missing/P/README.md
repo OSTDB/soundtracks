@@ -9754,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelbator | 112625 | [112625-pixelbator.json](./112625-pixelbator.json) |
 | Pixelbit Snooker & Pool | 76173 | [76173-pixelbit-snooker-and-pool.json](./76173-pixelbit-snooker-and-pool.json) |
 | Pixelbit World | 419792 | [419792-pixelbit-world.json](./419792-pixelbit-world.json) |
+| Pixelborn | 280985 | [280985-pixelborn.json](./280985-pixelborn.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
 | Pixelcalypse: Pixel Art Game | 145128 | [145128-pixelcalypse-pixel-art-game.json](./145128-pixelcalypse-pixel-art-game.json) |
@@ -13269,6 +13270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Tower Defense | 309709 | [309709-poker-tower-defense.json](./309709-poker-tower-defense.json) |
 | Poker Town | 398819 | [398819-poker-town.json](./398819-poker-town.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
+| Poker Warlords | 281071 | [281071-poker-warlords.json](./281071-poker-warlords.json) |
 | Poker With Bob | 22102 | [22102-poker-with-bob.json](./22102-poker-with-bob.json) |
 | Poker with Words | 232279 | [232279-poker-with-words.json](./232279-poker-with-words.json) |
 | Poker World | 55683 | [55683-poker-world.json](./55683-poker-world.json) |
