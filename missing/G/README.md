@@ -5704,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Gladiators | 6828 | [6828-global-gladiators.json](./6828-global-gladiators.json) |
 | Global Hero | 390155 | [390155-global-hero.json](./390155-global-hero.json) |
 | Global Infection | 117433 | [117433-global-infection.json](./117433-global-infection.json) |
+| Global Magnates: Shipping Tycoon | 337877 | [337877-global-magnates-shipping-tycoon.json](./337877-global-magnates-shipping-tycoon.json) |
 | Global Offensive Mobile | 175005 | [175005-global-offensive-mobile.json](./175005-global-offensive-mobile.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
 | Global Ops: Commando Libya | 10365 | [10365-global-ops-commando-libya.json](./10365-global-ops-commando-libya.json) |
@@ -6454,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator | 204123 | [204123-goat-simulator.json](./204123-goat-simulator.json) |
 | Goat Simulator 3: Baadlands: Furry Road | 374977 | [374977-goat-simulator-3-baadlands-furry-road.json](./374977-goat-simulator-3-baadlands-furry-road.json) |
 | Goat Simulator 3: Buck to the Future Pack | 397296 | [397296-goat-simulator-3-buck-to-the-future-pack.json](./397296-goat-simulator-3-buck-to-the-future-pack.json) |
+| Goat Simulator 3: Gifts from the Rifts | 337883 | [337883-goat-simulator-3-gifts-from-the-rifts.json](./337883-goat-simulator-3-gifts-from-the-rifts.json) |
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
 | Goat Simulator 3: Hocus Pocus Pack | 343568 | [343568-goat-simulator-3-hocus-pocus-pack.json](./343568-goat-simulator-3-hocus-pocus-pack.json) |
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
@@ -6461,6 +6463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Pre-Udder Edition | 204913 | [204913-goat-simulator-3-pre-udder-edition.json](./204913-goat-simulator-3-pre-udder-edition.json) |
 | Goat Simulator 3: Super Duper Pack | 343569 | [343569-goat-simulator-3-super-duper-pack.json](./343569-goat-simulator-3-super-duper-pack.json) |
 | Goat Simulator 3: Ticket to Dizzyworld | 420793 | [420793-goat-simulator-3-ticket-to-dizzyworld.json](./420793-goat-simulator-3-ticket-to-dizzyworld.json) |
+| Goat Simulator 3: Untitled Expansion | 337884 | [337884-goat-simulator-3-untitled-expansion.json](./337884-goat-simulator-3-untitled-expansion.json) |
 | Goat Simulator GoatZ | 23190 | [23190-goat-simulator-goatz.json](./23190-goat-simulator-goatz.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
