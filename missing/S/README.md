@@ -5092,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret High School 8: 100 Years Love Story Diaries | 95807 | [95807-secret-high-school-8-100-years-love-story-diaries.json](./95807-secret-high-school-8-100-years-love-story-diaries.json) |
 | Secret High School 8:Old Diary | 93849 | [93849-secret-high-school-8-old-diary.json](./93849-secret-high-school-8-old-diary.json) |
 | Secret High School 9: Zac & Bella's Wedding | 100966 | [100966-secret-high-school-9-zac-and-bellas-wedding.json](./100966-secret-high-school-9-zac-and-bellas-wedding.json) |
+| Secret Hitler Online | 416412 | [416412-secret-hitler-online.json](./416412-secret-hitler-online.json) |
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret in Story | 40870 | [40870-secret-in-story.json](./40870-secret-in-story.json) |
@@ -8478,6 +8479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark | 110852 | [110852-shark.json](./110852-shark.json) |
 | Shark | 311952 | [311952-shark.json](./311952-shark.json) |
 | Shark | 313931 | [313931-shark.json](./313931-shark.json) |
+| Shark | 416432 | [416432-shark.json](./416432-shark.json) |
 | Shark | 98687 | [98687-shark.json](./98687-shark.json) |
 | Shark Adventure | 192041 | [192041-shark-adventure.json](./192041-shark-adventure.json) |
 | Shark Adventure | 212392 | [212392-shark-adventure.json](./212392-shark-adventure.json) |
@@ -13063,6 +13065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinsFromGod 2 | 184779 | [184779-sinsfromgod-2.json](./184779-sinsfromgod-2.json) |
 | SinsFromGod Remake | 212647 | [212647-sinsfromgod-remake.json](./212647-sinsfromgod-remake.json) |
 | SinSiege | 347043 | [347043-sinsiege.json](./347043-sinsiege.json) |
+| SinsKiller | 416459 | [416459-sinskiller.json](./416459-sinskiller.json) |
 | Sint Nicolaas | 122964 | [122964-sint-nicolaas.json](./122964-sint-nicolaas.json) |
 | Sinta: Escape from Ixerron Keep | 389347 | [389347-sinta-escape-from-ixerron-keep.json](./389347-sinta-escape-from-ixerron-keep.json) |
 | Sintel: The Game | 61722 | [61722-sintel-the-game.json](./61722-sintel-the-game.json) |
@@ -21633,6 +21636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle Arena | 170429 | [170429-space-battle-arena.json](./170429-space-battle-arena.json) |
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
+| Space Battle Cats | 416419 | [416419-space-battle-cats.json](./416419-space-battle-cats.json) |
 | Space Battle Core | 33651 | [33651-space-battle-core.json](./33651-space-battle-core.json) |
 | Space Battle Meteor | 276911 | [276911-space-battle-meteor.json](./276911-space-battle-meteor.json) |
 | Space Battle Royale | 264000 | [264000-space-battle-royale.json](./264000-space-battle-royale.json) |
@@ -25239,6 +25243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sponge Art | 223910 | [223910-sponge-art.json](./223910-sponge-art.json) |
 | Sponge Bridges | 423887 | [423887-sponge-bridges.json](./423887-sponge-bridges.json) |
 | Sponge Hospital. Five Nights at Bob 3D | 99362 | [99362-sponge-hospital-five-nights-at-bob-3d.json](./99362-sponge-hospital-five-nights-at-bob-3d.json) |
+| Sponge Hospital. Five Nights at Bob-Verse | 416403 | [416403-sponge-hospital-five-nights-at-bob-verse.json](./416403-sponge-hospital-five-nights-at-bob-verse.json) |
 | Sponge or Lime | 403295 | [403295-sponge-or-lime.json](./403295-sponge-or-lime.json) |
 | Sponge Pop | 243824 | [243824-sponge-pop.json](./243824-sponge-pop.json) |
 | Spongebob & Patrick: Dirty Bubble Busters | 338942 | [338942-spongebob-and-patrick-dirty-bubble-busters.json](./338942-spongebob-and-patrick-dirty-bubble-busters.json) |
@@ -27095,6 +27100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Armada | 234943 | [234943-star-fox-armada.json](./234943-star-fox-armada.json) |
 | Star Fox Command | 20556 | [20556-star-fox-command.json](./20556-star-fox-command.json) |
 | Star Fox Conquest | 314563 | [314563-star-fox-conquest.json](./314563-star-fox-conquest.json) |
+| Star Fox Enhanced | 416433 | [416433-star-fox-enhanced.json](./416433-star-fox-enhanced.json) |
 | Star Fox EX: Exploration Showcase | 233556 | [233556-star-fox-ex-exploration-showcase.json](./233556-star-fox-ex-exploration-showcase.json) |
 | Star Fox Game Watch | 178106 | [178106-star-fox-game-watch.json](./178106-star-fox-game-watch.json) |
 | Star Fox Guard | 19687 | [19687-star-fox-guard.json](./19687-star-fox-guard.json) |
