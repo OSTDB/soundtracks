@@ -3980,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rich Quick 101 | 414665 | [414665-get-rich-quick-101.json](./414665-get-rich-quick-101.json) |
 | Get Rich Slow | 250779 | [250779-get-rich-slow.json](./250779-get-rich-slow.json) |
 | Get Rich! | 180704 | [180704-get-rich.json](./180704-get-rich.json) |
+| Get Rid | 389162 | [389162-get-rid.json](./389162-get-rid.json) |
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
 | Get Ride! AM Driver: Soukoku no Shinjitsu | 191488 | [191488-get-ride-am-driver-soukoku-no-shinjitsu.json](./191488-get-ride-am-driver-soukoku-no-shinjitsu.json) |
 | Get Ride! AMDriver: Senkou no Hero Tanjou | 49605 | [49605-get-ride-amdriver-senkou-no-hero-tanjou.json](./49605-get-ride-amdriver-senkou-no-hero-tanjou.json) |
