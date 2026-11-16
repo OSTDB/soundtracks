@@ -3214,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnfall | 129925 | [129925-dawnfall.json](./129925-dawnfall.json) |
 | Dawnfolk | 245754 | [245754-dawnfolk.json](./245754-dawnfolk.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
+| Dawngazer | 419735 | [419735-dawngazer.json](./419735-dawngazer.json) |
 | Dawngrown | 148578 | [148578-dawngrown.json](./148578-dawngrown.json) |
 | Dawnhold | 415622 | [415622-dawnhold.json](./415622-dawnhold.json) |
 | Dawning | 63465 | [63465-dawning.json](./63465-dawning.json) |
@@ -8341,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolate Wastes: Vendor Chronicles | 30314 | [30314-desolate-wastes-vendor-chronicles.json](./30314-desolate-wastes-vendor-chronicles.json) |
 | Desolate: Clone Catastrophe | 93730 | [93730-desolate-clone-catastrophe.json](./93730-desolate-clone-catastrophe.json) |
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
+| Desolated: The Crying Fate | 419736 | [419736-desolated-the-crying-fate.json](./419736-desolated-the-crying-fate.json) |
 | Desolation | 238648 | [238648-desolation.json](./238648-desolation.json) |
 | Desolation | 246009 | [246009-desolation.json](./246009-desolation.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
@@ -9450,6 +9452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Season of Blood | 262536 | [262536-diablo-iv-season-of-blood.json](./262536-diablo-iv-season-of-blood.json) |
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
 | Diablo IV: Season of Hatred Rising | 314387 | [314387-diablo-iv-season-of-hatred-rising.json](./314387-diablo-iv-season-of-hatred-rising.json) |
+| Diablo IV: Season of Hell's Legacy | 419729 | [419729-diablo-iv-season-of-hells-legacy.json](./419729-diablo-iv-season-of-hells-legacy.json) |
 | Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
 | Diablo IV: Season of Reckoning | 403538 | [403538-diablo-iv-season-of-reckoning.json](./403538-diablo-iv-season-of-reckoning.json) |
 | Diablo IV: Season of Slaughter | 393963 | [393963-diablo-iv-season-of-slaughter.json](./393963-diablo-iv-season-of-slaughter.json) |
@@ -19616,6 +19619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dub Club | 201061 | [201061-dub-club.json](./201061-dub-club.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dub Night Live | 414919 | [414919-dub-night-live.json](./414919-dub-night-live.json) |
+| Dub Party | 419808 | [419808-dub-party.json](./419808-dub-party.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
 | Dubai | 257296 | [257296-dubai.json](./257296-dubai.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
