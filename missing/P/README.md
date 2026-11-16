@@ -4725,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penny-Punching Princess | 26009 | [26009-penny-punching-princess.json](./26009-penny-punching-princess.json) |
 | Penny's Path | 161608 | [161608-pennys-path.json](./161608-pennys-path.json) |
+| Pennylooter | 337864 | [337864-pennylooter.json](./337864-pennylooter.json) |
 | Pennzoil Build-N-Race: Speed Demons | 69092 | [69092-pennzoil-build-n-race-speed-demons.json](./69092-pennzoil-build-n-race-speed-demons.json) |
 | Penrose | 219368 | [219368-penrose.json](./219368-penrose.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
@@ -16239,6 +16240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primordia | 7635 | [7635-primordia.json](./7635-primordia.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
 | Primordial Darkness | 75324 | [75324-primordial-darkness.json](./75324-primordial-darkness.json) |
+| Primordial Empire | 337859 | [337859-primordial-empire.json](./337859-primordial-empire.json) |
 | Primordial Fate | 342537 | [342537-primordial-fate.json](./342537-primordial-fate.json) |
 | Primordial Genesis | 293043 | [293043-primordial-genesis.json](./293043-primordial-genesis.json) |
 | Primordial Nation | 297856 | [297856-primordial-nation.json](./297856-primordial-nation.json) |
