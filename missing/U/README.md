@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unboxing: 1-Bit Paradox | 348572 | [348572-unboxing-1-bit-paradox.json](./348572-unboxing-1-bit-paradox.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
 | Unbreachable | 399831 | [399831-unbreachable.json](./399831-unbreachable.json) |
+| Unbreaded | 295731 | [295731-unbreaded.json](./295731-unbreaded.json) |
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
 | Unbreakable Vr Runner | 32314 | [32314-unbreakable-vr-runner.json](./32314-unbreakable-vr-runner.json) |
 | Unbridled Dungeon | 140702 | [140702-unbridled-dungeon.json](./140702-unbridled-dungeon.json) |
@@ -1749,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Syndrome Episode 2 | 152020 | [152020-undead-syndrome-episode-2.json](./152020-undead-syndrome-episode-2.json) |
 | Undead Tide: Light's Defense | 396186 | [396186-undead-tide-lights-defense.json](./396186-undead-tide-lights-defense.json) |
 | Undead Tower Crusade | 200246 | [200246-undead-tower-crusade.json](./200246-undead-tower-crusade.json) |
+| Undead Tower Defense | 295732 | [295732-undead-tower-defense.json](./295732-undead-tower-defense.json) |
 | Undead Trail: Haunting Shadows | 304851 | [304851-undead-trail-haunting-shadows.json](./304851-undead-trail-haunting-shadows.json) |
 | Undead Tread | 374879 | [374879-undead-tread.json](./374879-undead-tread.json) |
 | Undead Under Night Rain | 199267 | [199267-undead-under-night-rain.json](./199267-undead-under-night-rain.json) |
@@ -1775,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
 | Undecember | 175015 | [175015-undecember.json](./175015-undecember.json) |
 | Undeclaration of Human Rights | 370441 | [370441-undeclaration-of-human-rights.json](./370441-undeclaration-of-human-rights.json) |
+| Undefeatable | 295733 | [295733-undefeatable.json](./295733-undefeatable.json) |
 | Undefeated | 121220 | [121220-undefeated.json](./121220-undefeated.json) |
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefeated | 409862 | [409862-undefeated.json](./409862-undefeated.json) |
@@ -3650,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UpWords, Boggle, Hangman & Word Hunter Collection | 84291 | [84291-upwords-boggle-hangman-and-word-hunter-collection.json](./84291-upwords-boggle-hangman-and-word-hunter-collection.json) |
 | UpWorld | 275499 | [275499-upworld.json](./275499-upworld.json) |
 | Upworm | 371943 | [371943-upworm.json](./371943-upworm.json) |
+| Ur | 295725 | [295725-ur.json](./295725-ur.json) |
 | Ur Game: The Game of Ancient Gods | 164200 | [164200-ur-game-the-game-of-ancient-gods.json](./164200-ur-game-the-game-of-ancient-gods.json) |
 | UR Racing | 200097 | [200097-ur-racing.json](./200097-ur-racing.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
