@@ -2855,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Simulator 3D | 87303 | [87303-parkour-simulator-3d.json](./87303-parkour-simulator-3d.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | Parkour Trials | 346757 | [346757-parkour-trials.json](./346757-parkour-trials.json) |
+| Parkour with Friends | 269242 | [269242-parkour-with-friends.json](./269242-parkour-with-friends.json) |
 | Parkourier | 420399 | [420399-parkourier.json](./420399-parkourier.json) |
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
 | Parks and Rekt | 257870 | [257870-parks-and-rekt.json](./257870-parks-and-rekt.json) |
@@ -3719,7 +3720,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol World: Rescue Knights - Costume Pack | 272225 | [272225-paw-patrol-world-rescue-knights-costume-pack.json](./272225-paw-patrol-world-rescue-knights-costume-pack.json) |
 | Paw Patrol World: The Mighty Movie - Costume Pack | 272230 | [272230-paw-patrol-world-the-mighty-movie-costume-pack.json](./272230-paw-patrol-world-the-mighty-movie-costume-pack.json) |
 | Paw Patrol World: Ultimate Rescue - Costume Pack | 272229 | [272229-paw-patrol-world-ultimate-rescue-costume-pack.json](./272229-paw-patrol-world-ultimate-rescue-costume-pack.json) |
-| Paw Patrol: Dino World | 398427 | [398427-paw-patrol-dino-world.json](./398427-paw-patrol-dino-world.json) |
 | Paw Patrol: Grand Prix | 202417 | [202417-paw-patrol-grand-prix.json](./202417-paw-patrol-grand-prix.json) |
 | Paw Patrol: Grand Prix - Complete Edition | 283585 | [283585-paw-patrol-grand-prix-complete-edition.json](./283585-paw-patrol-grand-prix-complete-edition.json) |
 | Paw Patrol: Grand Prix - Pup Treat Arena | 241408 | [241408-paw-patrol-grand-prix-pup-treat-arena.json](./241408-paw-patrol-grand-prix-pup-treat-arena.json) |
@@ -4947,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perdita | 285390 | [285390-perdita.json](./285390-perdita.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
 | Perdition | 262208 | [262208-perdition.json](./262208-perdition.json) |
+| Perdition | 273054 | [273054-perdition.json](./273054-perdition.json) |
 | Perdition's Flames | 290349 | [290349-perditions-flames.json](./290349-perditions-flames.json) |
 | Perdition's Gate | 65733 | [65733-perditions-gate.json](./65733-perditions-gate.json) |
 | Perdition's Gate Resurgence | 329215 | [329215-perditions-gate-resurgence.json](./329215-perditions-gate-resurgence.json) |
@@ -10536,7 +10537,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
 | Planet Zoo | 117717 | [117717-planet-zoo.json](./117717-planet-zoo.json) |
-| Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
 | Planet Zoo: Africa Pack | 226998 | [226998-planet-zoo-africa-pack.json](./226998-planet-zoo-africa-pack.json) |
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Arctic Pack | 226996 | [226996-planet-zoo-arctic-pack.json](./226996-planet-zoo-arctic-pack.json) |
@@ -10740,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies | 259406 | [259406-plants-vs-zombies.json](./259406-plants-vs-zombies.json) |
 | Plants vs. Zombies | 259408 | [259408-plants-vs-zombies.json](./259408-plants-vs-zombies.json) |
 | Plants vs. Zombies | 264243 | [264243-plants-vs-zombies.json](./264243-plants-vs-zombies.json) |
+| Plants vs. Zombies | 270242 | [270242-plants-vs-zombies.json](./270242-plants-vs-zombies.json) |
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
@@ -16592,7 +16593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny 1 & 2: Exploded and Reloaded | 133809 | [133809-prinny-1-and-2-exploded-and-reloaded.json](./133809-prinny-1-and-2-exploded-and-reloaded.json) |
 | Prinny 1•2: Exploded and Reloaded - Just Desserts Edition | 136215 | [136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json](./136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json) |
 | Prinny 2: Dawn of Operation Panties, Dood! | 21769 | [21769-prinny-2-dawn-of-operation-panties-dood.json](./21769-prinny-2-dawn-of-operation-panties-dood.json) |
-| Prinny Party: Going Overboard! | 394548 | [394548-prinny-party-going-overboard.json](./394548-prinny-party-going-overboard.json) |
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 | 144217 | [144217-prinny-presents-nis-classics-vol-1.json](./144217-prinny-presents-nis-classics-vol-1.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
@@ -21121,7 +21121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Languages: German/English | 115493 | [115493-puzzling-languages-german-english.json](./115493-puzzling-languages-german-english.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
 | Puzzling Places | 144870 | [144870-puzzling-places.json](./144870-puzzling-places.json) |
-| Puzzling Places: 3D Jigsaw Sim | 398031 | [398031-puzzling-places-3d-jigsaw-sim.json](./398031-puzzling-places-3d-jigsaw-sim.json) |
 | Puzzling Places: A Painter's Dream | 379661 | [379661-puzzling-places-a-painters-dream.json](./379661-puzzling-places-a-painters-dream.json) |
 | Puzzling Places: A Sunny Stroll in Barcelos | 353486 | [353486-puzzling-places-a-sunny-stroll-in-barcelos.json](./353486-puzzling-places-a-sunny-stroll-in-barcelos.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
