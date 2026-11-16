@@ -7557,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Hot Pot Time! | 264935 | [264935-its-hot-pot-time.json](./264935-its-hot-pot-time.json) |
 | It's John's House | 371773 | [371773-its-johns-house.json](./371773-its-johns-house.json) |
 | It's Just A Jump! | 360836 | [360836-its-just-a-jump.json](./360836-its-just-a-jump.json) |
+| It's Just A Prank | 306827 | [306827-its-just-a-prank.json](./306827-its-just-a-prank.json) |
 | It's Just the End of the World, Love | 179860 | [179860-its-just-the-end-of-the-world-love.json](./179860-its-just-the-end-of-the-world-love.json) |
 | It's Just TIC TAC TOE | 101704 | [101704-its-just-tic-tac-toe.json](./101704-its-just-tic-tac-toe.json) |
 | It's Kooky | 186408 | [186408-its-kooky.json](./186408-its-kooky.json) |
