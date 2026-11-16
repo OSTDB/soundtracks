@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Felix Tennis | 45102 | [45102-baby-felix-tennis.json](./45102-baby-felix-tennis.json) |
 | Baby Felix's Activity Center | 200377 | [200377-baby-felixs-activity-center.json](./200377-baby-felixs-activity-center.json) |
 | Baby Felix's Shuffle Puck | 200375 | [200375-baby-felixs-shuffle-puck.json](./200375-baby-felixs-shuffle-puck.json) |
+| Baby Flash Cards: Car Sounds | 233145 | [233145-baby-flash-cards-car-sounds.json](./233145-baby-flash-cards-car-sounds.json) |
 | Baby Frogs | 269347 | [269347-baby-frogs.json](./269347-baby-frogs.json) |
 | Baby Game Plan 0-3 | 379611 | [379611-baby-game-plan-0-3.json](./379611-baby-game-plan-0-3.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
@@ -3544,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
 | Basketball FRVR | 305414 | [305414-basketball-frvr.json](./305414-basketball-frvr.json) |
 | BasketBall Fun | 87399 | [87399-basketball-fun.json](./87399-basketball-fun.json) |
+| Basketball Games! | 232080 | [232080-basketball-games.json](./232080-basketball-games.json) |
 | Basketball General Manager | 87526 | [87526-basketball-general-manager.json](./87526-basketball-general-manager.json) |
 | Basketball GM | 82242 | [82242-basketball-gm.json](./82242-basketball-gm.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
@@ -15485,6 +15487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots & Mods | 291725 | [291725-bots-and-mods.json](./291725-bots-and-mods.json) |
 | Bots Are Stupid | 151103 | [151103-bots-are-stupid.json](./151103-bots-are-stupid.json) |
+| Bots Boom Bang | 233144 | [233144-bots-boom-bang.json](./233144-bots-boom-bang.json) |
 | Bots Can Feel Too | 200045 | [200045-bots-can-feel-too.json](./200045-bots-can-feel-too.json) |
 | Bots Chaos | 243595 | [243595-bots-chaos.json](./243595-bots-chaos.json) |
 | Bots City | 207690 | [207690-bots-city.json](./207690-bots-city.json) |
@@ -20341,6 +20344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn-9 | 404870 | [404870-burn-9.json](./404870-burn-9.json) |
 | Burn-Out | 181283 | [181283-burn-out.json](./181283-burn-out.json) |
 | Burn, Clown, Burn! | 74940 | [74940-burn-clown-burn.json](./74940-burn-clown-burn.json) |
+| Burn: Multiplayer quiz game | 232188 | [232188-burn-multiplayer-quiz-game.json](./232188-burn-multiplayer-quiz-game.json) |
 | Burn:Cycle | 45942 | [45942-burn-cycle.json](./45942-burn-cycle.json) |
 | Burn! SuperTrucks | 142836 | [142836-burn-supertrucks.json](./142836-burn-supertrucks.json) |
 | Burn. Pulse. Detach. | 143115 | [143115-burn-pulse-detach.json](./143115-burn-pulse-detach.json) |
