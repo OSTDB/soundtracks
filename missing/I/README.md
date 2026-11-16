@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Guns | 219866 | [219866-immortal-guns.json](./219866-immortal-guns.json) |
+| Immortal Heart | 299058 | [299058-immortal-heart.json](./299058-immortal-heart.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
 | Immortal Hero | 194131 | [194131-immortal-hero.json](./194131-immortal-hero.json) |
 | Immortal Heroes | 75712 | [75712-immortal-heroes.json](./75712-immortal-heroes.json) |
@@ -3153,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Between | 210433 | [210433-in-between.json](./210433-in-between.json) |
 | In Between All Times | 370080 | [370080-in-between-all-times.json](./370080-in-between-all-times.json) |
 | In Between Games | 82003 | [82003-in-between-games.json](./82003-in-between-games.json) |
+| In Between Love & Death | 299037 | [299037-in-between-love-and-death.json](./299037-in-between-love-and-death.json) |
 | In Blood | 120749 | [120749-in-blood.json](./120749-in-blood.json) |
 | In Bred With Rednex | 66088 | [66088-in-bred-with-rednex.json](./66088-in-bred-with-rednex.json) |
 | In Car Speed Test: Cops Edition | 88361 | [88361-in-car-speed-test-cops-edition.json](./88361-in-car-speed-test-cops-edition.json) |
