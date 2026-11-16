@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfaria II | 42345 | [42345-elfaria-ii.json](./42345-elfaria-ii.json) |
 | Elfazar's Hat | 318713 | [318713-elfazars-hat.json](./318713-elfazars-hat.json) |
 | Elfblade | 152209 | [152209-elfblade.json](./152209-elfblade.json) |
+| Elfboarders | 267114 | [267114-elfboarders.json](./267114-elfboarders.json) |
 | Elfenberg | 291681 | [291681-elfenberg.json](./291681-elfenberg.json) |
 | Elfengard Hunter Slayer | 302443 | [302443-elfengard-hunter-slayer.json](./302443-elfengard-hunter-slayer.json) |
 | Elfenwelt | 73243 | [73243-elfenwelt.json](./73243-elfenwelt.json) |
