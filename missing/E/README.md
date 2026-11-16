@@ -3938,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Katya and the Mystery of the Lost Wizard | 64708 | [64708-enchanted-katya-and-the-mystery-of-the-lost-wizard.json](./64708-enchanted-katya-and-the-mystery-of-the-lost-wizard.json) |
 | Enchanted Kingdom: A Dark Seed | 104492 | [104492-enchanted-kingdom-a-dark-seed.json](./104492-enchanted-kingdom-a-dark-seed.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
+| Enchanted Kingdom: Arcadian Backwoods - Collector's Edition | 416417 | [416417-enchanted-kingdom-arcadian-backwoods-collectors-edition.json](./416417-enchanted-kingdom-arcadian-backwoods-collectors-edition.json) |
 | Enchanted Kingdom: Descent of the Elders - Collector's Edition | 170996 | [170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json](./170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json) |
 | Enchanted Kingdom: Frost Curse - Collector's Edition | 164955 | [164955-enchanted-kingdom-frost-curse-collectors-edition.json](./164955-enchanted-kingdom-frost-curse-collectors-edition.json) |
 | Enchanted Kingdom: Master of Riddles - Collector's Edition | 426073 | [426073-enchanted-kingdom-master-of-riddles-collectors-edition.json](./426073-enchanted-kingdom-master-of-riddles-collectors-edition.json) |
