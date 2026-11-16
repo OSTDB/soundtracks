@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanfu | 278786 | [278786-sanfu.json](./278786-sanfu.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sang: The Desert Blade | 211869 | [211869-sang-the-desert-blade.json](./211869-sang-the-desert-blade.json) |
+| Sanga | 246136 | [246136-sanga.json](./246136-sanga.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
 | Sangi | 272589 | [272589-sangi.json](./272589-sangi.json) |
 | Sango 2 | 24748 | [24748-sango-2.json](./24748-sango-2.json) |
@@ -17893,6 +17894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Golf! | 343714 | [343714-soccer-golf.json](./343714-soccer-golf.json) |
 | Soccer Hero 2019 | 223913 | [223913-soccer-hero-2019.json](./223913-soccer-hero-2019.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
+| Soccer Heroes RPG | 246130 | [246130-soccer-heroes-rpg.json](./246130-soccer-heroes-rpg.json) |
 | Soccer Hit | 196436 | [196436-soccer-hit.json](./196436-soccer-hit.json) |
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
 | Soccer Is Football | 395970 | [395970-soccer-is-football.json](./395970-soccer-is-football.json) |
@@ -28897,6 +28899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starway Fleet | 29103 | [29103-starway-fleet.json](./29103-starway-fleet.json) |
 | Starway VR | 111373 | [111373-starway-vr.json](./111373-starway-vr.json) |
 | Starway: BaRaider | 223328 | [223328-starway-baraider.json](./223328-starway-baraider.json) |
+| Starweave | 249426 | [249426-starweave.json](./249426-starweave.json) |
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
 | Starwhal | 6781 | [6781-starwhal.json](./6781-starwhal.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
@@ -39735,6 +39738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
 | Swingers | 345811 | [345811-swingers.json](./345811-swingers.json) |
 | Swingers | 98116 | [98116-swingers.json](./98116-swingers.json) |
+| Swingggggg | 249424 | [249424-swingggggg.json](./249424-swingggggg.json) |
 | SwingHard | 310010 | [310010-swinghard.json](./310010-swinghard.json) |
 | Swingin Swiggins | 30632 | [30632-swingin-swiggins.json](./30632-swingin-swiggins.json) |
 | Swingin' | 333700 | [333700-swingin.json](./333700-swingin.json) |
@@ -39757,6 +39761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe Brick Breaker | 233415 | [233415-swipe-brick-breaker.json](./233415-swipe-brick-breaker.json) |
 | Swipe Brick Breaker: The Blast | 108574 | [108574-swipe-brick-breaker-the-blast.json](./108574-swipe-brick-breaker-the-blast.json) |
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
+| Swipe Fight! | 248253 | [248253-swipe-fight.json](./248253-swipe-fight.json) |
 | Swipe Fruit Smash | 103770 | [103770-swipe-fruit-smash.json](./103770-swipe-fruit-smash.json) |
 | Swipe Link | 264969 | [264969-swipe-link.json](./264969-swipe-link.json) |
 | Swipe Manager: Soccer 2018 | 252313 | [252313-swipe-manager-soccer-2018.json](./252313-swipe-manager-soccer-2018.json) |
