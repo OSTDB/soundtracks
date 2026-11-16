@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
 | Hardware Excalibur | 301632 | [301632-hardware-excalibur.json](./301632-hardware-excalibur.json) |
 | Hardware Hustle | 289115 | [289115-hardware-hustle.json](./289115-hardware-hustle.json) |
+| Hardware Simulator | 403855 | [403855-hardware-simulator.json](./403855-hardware-simulator.json) |
 | Hardware Store Simulator | 322819 | [322819-hardware-store-simulator.json](./322819-hardware-store-simulator.json) |
 | Hardware Store: Tidy Up | 419885 | [419885-hardware-store-tidy-up.json](./419885-hardware-store-tidy-up.json) |
 | Hardware Tycoon | 181235 | [181235-hardware-tycoon.json](./181235-hardware-tycoon.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven's Compass | 259161 | [259161-havens-compass.json](./259161-havens-compass.json) |
 | Haven's Embers | 190970 | [190970-havens-embers.json](./190970-havens-embers.json) |
 | Havendock | 208652 | [208652-havendock.json](./208652-havendock.json) |
+| Havenfall is for Lovers | 402579 | [402579-havenfall-is-for-lovers.json](./402579-havenfall-is-for-lovers.json) |
 | HavenFlower: Regrets Of | 380219 | [380219-havenflower-regrets-of.json](./380219-havenflower-regrets-of.json) |
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
 | Havenless | 138385 | [138385-havenless.json](./138385-havenless.json) |
@@ -6043,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
 | Hentai Puzzle Party | 366511 | [366511-hentai-puzzle-party.json](./366511-hentai-puzzle-party.json) |
 | Hentai Puzzle Quest | 241870 | [241870-hentai-puzzle-quest.json](./241870-hentai-puzzle-quest.json) |
+| Hentai Puzzle Simulator | 402580 | [402580-hentai-puzzle-simulator.json](./402580-hentai-puzzle-simulator.json) |
 | Hentai Puzzle Simulator 2 | 403716 | [403716-hentai-puzzle-simulator-2.json](./403716-hentai-puzzle-simulator-2.json) |
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle Universe | 235268 | [235268-hentai-puzzle-universe.json](./235268-hentai-puzzle-universe.json) |
