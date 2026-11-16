@@ -6352,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Boys! | 172837 | [172837-wind-boys.json](./172837-wind-boys.json) |
 | Wind Breaker: Furyou-tachi no Eiyuutan | 326789 | [326789-wind-breaker-furyou-tachi-no-eiyuutan.json](./326789-wind-breaker-furyou-tachi-no-eiyuutan.json) |
 | Wind Child | 34632 | [34632-wind-child.json](./34632-wind-child.json) |
+| Wind Chill | 372904 | [372904-wind-chill.json](./372904-wind-chill.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
 | Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
 | Wind Fantasy SP: The Moment of Sealing The God | 246567 | [246567-wind-fantasy-sp-the-moment-of-sealing-the-god.json](./246567-wind-fantasy-sp-the-moment-of-sealing-the-god.json) |
@@ -7098,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishbringer | 1950 | [1950-wishbringer.json](./1950-wishbringer.json) |
 | Wished on guilt | 262828 | [262828-wished-on-guilt.json](./262828-wished-on-guilt.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
+| Wishfarers | 369786 | [369786-wishfarers.json](./369786-wishfarers.json) |
 | Wishful Journey: Love Across Time | 291185 | [291185-wishful-journey-love-across-time.json](./291185-wishful-journey-love-across-time.json) |
 | Wishful Thinking | 229678 | [229678-wishful-thinking.json](./229678-wishful-thinking.json) |
 | Wishful Thinking | 313822 | [313822-wishful-thinking.json](./313822-wishful-thinking.json) |
@@ -7897,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Territory | 155825 | [155825-wolf-territory.json](./155825-wolf-territory.json) |
 | Wolf The Lone Hunt | 274968 | [274968-wolf-the-lone-hunt.json](./274968-wolf-the-lone-hunt.json) |
 | Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
+| Wolf With Inn | 373965 | [373965-wolf-with-inn.json](./373965-wolf-with-inn.json) |
 | Wolf: The Evolution Story | 108350 | [108350-wolf-the-evolution-story.json](./108350-wolf-the-evolution-story.json) |
 | Wolf's Fury | 117234 | [117234-wolfs-fury.json](./117234-wolfs-fury.json) |
 | Wolf's Gang | 142430 | [142430-wolfs-gang.json](./142430-wolfs-gang.json) |
@@ -9176,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Blind | 359214 | [359214-world-of-blind.json](./359214-world-of-blind.json) |
 | World of Blocks | 273388 | [273388-world-of-blocks.json](./273388-world-of-blocks.json) |
 | World of bombs | 163802 | [163802-world-of-bombs.json](./163802-world-of-bombs.json) |
+| World of BoreCraft | 367328 | [367328-world-of-borecraft.json](./367328-world-of-borecraft.json) |
 | World of Buh | 216821 | [216821-world-of-buh.json](./216821-world-of-buh.json) |
 | World of Busking | 197130 | [197130-world-of-busking.json](./197130-world-of-busking.json) |
 | World of Clashes | 415362 | [415362-world-of-clashes.json](./415362-world-of-clashes.json) |
