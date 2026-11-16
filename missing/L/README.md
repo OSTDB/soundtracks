@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Train Home: Legion Tales | 289512 | [289512-last-train-home-legion-tales.json](./289512-last-train-home-legion-tales.json) |
 | Last Train Outta' Wormtown | 244593 | [244593-last-train-outta-wormtown.json](./244593-last-train-outta-wormtown.json) |
 | Last Train to Tranz-Central | 153595 | [153595-last-train-to-tranz-central.json](./153595-last-train-to-tranz-central.json) |
+| Last Train to Yotsuya | 417076 | [417076-last-train-to-yotsuya.json](./417076-last-train-to-yotsuya.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Upload | 419136 | [419136-last-upload.json](./419136-last-upload.json) |
 | Last Vanguard | 199290 | [199290-last-vanguard.json](./199290-last-vanguard.json) |
@@ -5908,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Skies | 364244 | [364244-liminal-skies.json](./364244-liminal-skies.json) |
 | Liminal Sorting | 416092 | [416092-liminal-sorting.json](./416092-liminal-sorting.json) |
 | Liminal Space | 250824 | [250824-liminal-space.json](./250824-liminal-space.json) |
+| Liminal Space Holiday | 417087 | [417087-liminal-space-holiday.json](./417087-liminal-space-holiday.json) |
 | Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
 | Liminal Spaces: Outside The Backrooms | 341524 | [341524-liminal-spaces-outside-the-backrooms.json](./341524-liminal-spaces-outside-the-backrooms.json) |
 | Liminal State | 391558 | [391558-liminal-state.json](./391558-liminal-state.json) |
@@ -11040,6 +11042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Chrysalis | 406077 | [406077-lunar-chrysalis.json](./406077-lunar-chrysalis.json) |
 | Lunar City Builder | 296963 | [296963-lunar-city-builder.json](./296963-lunar-city-builder.json) |
 | Lunar Command | 73499 | [73499-lunar-command.json](./73499-lunar-command.json) |
+| Lunar Crypt | 417068 | [417068-lunar-crypt.json](./417068-lunar-crypt.json) |
 | Lunar Depot 38 | 266934 | [266934-lunar-depot-38.json](./266934-lunar-depot-38.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
