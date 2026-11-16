@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. Re:tune | 327964 | [327964-d-c-re-tune.json](./327964-d-c-re-tune.json) |
 | D.C. S#*!storm | 86547 | [86547-d-c-s-storm.json](./86547-d-c-s-storm.json) |
 | D.C.: Da Capo | 84314 | [84314-d-c-da-capo.json](./84314-d-c-da-capo.json) |
+| D.C.: Da Capo - Onsen-hen | 416440 | [416440-d-c-da-capo-onsen-hen.json](./416440-d-c-da-capo-onsen-hen.json) |
 | D.C.4: Da Capo 4 | 136926 | [136926-d-c-4-da-capo-4.json](./136926-d-c-4-da-capo-4.json) |
 | D.C.4: Da Capo 4 - Fortunate Departures | 207920 | [207920-d-c-4-da-capo-4-fortunate-departures.json](./207920-d-c-4-da-capo-4-fortunate-departures.json) |
 | D.C.4: Da Capo 4 - Limited Edition | 167044 | [167044-d-c-4-da-capo-4-limited-edition.json](./167044-d-c-4-da-capo-4-limited-edition.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Angels: Masquerade of Shadows | 30383 | [30383-dark-angels-masquerade-of-shadows.json](./30383-dark-angels-masquerade-of-shadows.json) |
 | Dark Apes: The Fate of Devolution | 52513 | [52513-dark-apes-the-fate-of-devolution.json](./52513-dark-apes-the-fate-of-devolution.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
+| Dark Are the Crypts: The Lost Idea | 417728 | [417728-dark-are-the-crypts-the-lost-idea.json](./417728-dark-are-the-crypts-the-lost-idea.json) |
 | Dark Arena | 6367 | [6367-dark-arena.json](./6367-dark-arena.json) |
 | Dark Arms: Beast Buster 1999 | 43997 | [43997-dark-arms-beast-buster-1999.json](./43997-dark-arms-beast-buster-1999.json) |
 | Dark Army Resurrection | 250328 | [250328-dark-army-resurrection.json](./250328-dark-army-resurrection.json) |
@@ -2022,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rail | 410670 | [410670-dark-rail.json](./410670-dark-rail.json) |
 | Dark Realm 2: Princess of Ice | 46957 | [46957-dark-realm-2-princess-of-ice.json](./46957-dark-realm-2-princess-of-ice.json) |
 | Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
+| Dark Realm: Lord of the Winds - Collector's Edition | 416409 | [416409-dark-realm-lord-of-the-winds-collectors-edition.json](./416409-dark-realm-lord-of-the-winds-collectors-edition.json) |
 | Dark Realm: Princess of Ice - Collector's Edition | 59147 | [59147-dark-realm-princess-of-ice-collectors-edition.json](./59147-dark-realm-princess-of-ice-collectors-edition.json) |
 | Dark Realm: Princess of Ice HD | 99308 | [99308-dark-realm-princess-of-ice-hd.json](./99308-dark-realm-princess-of-ice-hd.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
@@ -2049,12 +2052,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Roll: Free Kick Challenge | 157943 | [157943-dark-roll-free-kick-challenge.json](./157943-dark-roll-free-kick-challenge.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Ashville - Collector's Edition | 132432 | [132432-dark-romance-ashville-collectors-edition.json](./132432-dark-romance-ashville-collectors-edition.json) |
+| Dark Romance: Curse of Bluebeard | 417827 | [417827-dark-romance-curse-of-bluebeard.json](./417827-dark-romance-curse-of-bluebeard.json) |
 | Dark Romance: Curse of Bluebeard - Collector's Edition | 146516 | [146516-dark-romance-curse-of-bluebeard-collectors-edition.json](./146516-dark-romance-curse-of-bluebeard-collectors-edition.json) |
 | Dark Romance: Heart of the Beast | 140116 | [140116-dark-romance-heart-of-the-beast.json](./140116-dark-romance-heart-of-the-beast.json) |
 | Dark Romance: Heart of the Beast - Collector's Edition | 95242 | [95242-dark-romance-heart-of-the-beast-collectors-edition.json](./95242-dark-romance-heart-of-the-beast-collectors-edition.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
 | Dark Romance: Hunchback of Notre-Dame | 140117 | [140117-dark-romance-hunchback-of-notre-dame.json](./140117-dark-romance-hunchback-of-notre-dame.json) |
 | Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
+| Dark Romance: Kingdom of Death - Collector's Edition | 417828 | [417828-dark-romance-kingdom-of-death-collectors-edition.json](./417828-dark-romance-kingdom-of-death-collectors-edition.json) |
 | Dark Romance: Kingdom of Death HD | 88810 | [88810-dark-romance-kingdom-of-death-hd.json](./88810-dark-romance-kingdom-of-death-hd.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
 | Dark Romance: Sleepy Hollow | 181647 | [181647-dark-romance-sleepy-hollow.json](./181647-dark-romance-sleepy-hollow.json) |
@@ -2117,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Signs | 94283 | [94283-dark-signs.json](./94283-dark-signs.json) |
 | Dark Silence | 370933 | [370933-dark-silence.json](./370933-dark-silence.json) |
 | Dark Siren | 227716 | [227716-dark-siren.json](./227716-dark-siren.json) |
+| Dark Sisterhood: The Initiation | 417830 | [417830-dark-sisterhood-the-initiation.json](./417830-dark-sisterhood-the-initiation.json) |
 | Dark Skeleton Survival | 118636 | [118636-dark-skeleton-survival.json](./118636-dark-skeleton-survival.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
 | Dark Skies: The Nemansk Incident | 126971 | [126971-dark-skies-the-nemansk-incident.json](./126971-dark-skies-the-nemansk-incident.json) |
@@ -2258,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tower | 26475 | [26475-dark-tower.json](./26475-dark-tower.json) |
 | Dark Tower | 29182 | [29182-dark-tower.json](./29182-dark-tower.json) |
 | Dark Town : Invisible Danger | 75015 | [75015-dark-town-invisible-danger.json](./75015-dark-town-invisible-danger.json) |
+| Dark Town Secrets: Lost Lulu | 417841 | [417841-dark-town-secrets-lost-lulu.json](./417841-dark-town-secrets-lost-lulu.json) |
 | Dark Town Secrets: Lost Lulu - Collector's Edition | 389078 | [389078-dark-town-secrets-lost-lulu-collectors-edition.json](./389078-dark-town-secrets-lost-lulu-collectors-edition.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
 | Dark Train: Coupe | 51436 | [51436-dark-train-coupe.json](./51436-dark-train-coupe.json) |
@@ -2459,9 +2466,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Fear: Eerie Shadows | 271658 | [271658-darkness-and-fear-eerie-shadows.json](./271658-darkness-and-fear-eerie-shadows.json) |
 | Darkness and Flame | 291651 | [291651-darkness-and-flame.json](./291651-darkness-and-flame.json) |
 | Darkness and Flame: Born of Fire | 31292 | [31292-darkness-and-flame-born-of-fire.json](./31292-darkness-and-flame-born-of-fire.json) |
+| Darkness and Flame: Born of Fire - Collector's Edition | 417842 | [417842-darkness-and-flame-born-of-fire-collectors-edition.json](./417842-darkness-and-flame-born-of-fire-collectors-edition.json) |
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
+| Darkness and Flame: Enemy in Reflection - Collector's Edition | 417843 | [417843-darkness-and-flame-enemy-in-reflection-collectors-edition.json](./417843-darkness-and-flame-enemy-in-reflection-collectors-edition.json) |
 | Darkness and Flame: Missing Memories | 75079 | [75079-darkness-and-flame-missing-memories.json](./75079-darkness-and-flame-missing-memories.json) |
+| Darkness and Flame: Missing Memories - Collector's Edition | 417844 | [417844-darkness-and-flame-missing-memories-collectors-edition.json](./417844-darkness-and-flame-missing-memories-collectors-edition.json) |
 | Darkness and Flame: The Dark Side | 113410 | [113410-darkness-and-flame-the-dark-side.json](./113410-darkness-and-flame-the-dark-side.json) |
+| Darkness and Flame: The Dark Side - Collector's Edition | 417845 | [417845-darkness-and-flame-the-dark-side-collectors-edition.json](./417845-darkness-and-flame-the-dark-side-collectors-edition.json) |
 | Darkness and Light | 159152 | [159152-darkness-and-light.json](./159152-darkness-and-light.json) |
 | Darkness and Sorrow 5 Game Pack Hidden Object | 145115 | [145115-darkness-and-sorrow-5-game-pack-hidden-object.json](./145115-darkness-and-sorrow-5-game-pack-hidden-object.json) |
 | Darkness Anomaly | 57351 | [57351-darkness-anomaly.json](./57351-darkness-anomaly.json) |
@@ -3136,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Hell | 236604 | [236604-dawn-of-hell.json](./236604-dawn-of-hell.json) |
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Heroes | 396838 | [396838-dawn-of-heroes.json](./396838-dawn-of-heroes.json) |
+| Dawn of Hope: Skyline Adventure - Collector's Edition | 417846 | [417846-dawn-of-hope-skyline-adventure-collectors-edition.json](./417846-dawn-of-hope-skyline-adventure-collectors-edition.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
 | Dawn of Horror | 405800 | [405800-dawn-of-horror.json](./405800-dawn-of-horror.json) |
 | Dawn of Insolence | 271110 | [271110-dawn-of-insolence.json](./271110-dawn-of-insolence.json) |
@@ -4335,6 +4347,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: Brassfield Manor | 22126 | [22126-dead-reckoning-brassfield-manor.json](./22126-dead-reckoning-brassfield-manor.json) |
 | Dead Reckoning: Brassfield Manor - Collector's Edition | 55782 | [55782-dead-reckoning-brassfield-manor-collectors-edition.json](./55782-dead-reckoning-brassfield-manor-collectors-edition.json) |
 | Dead Reckoning: Broadbeach Cove - Collector's Edition | 426061 | [426061-dead-reckoning-broadbeach-cove-collectors-edition.json](./426061-dead-reckoning-broadbeach-cove-collectors-edition.json) |
+| Dead Reckoning: Death Between the Lines | 417847 | [417847-dead-reckoning-death-between-the-lines.json](./417847-dead-reckoning-death-between-the-lines.json) |
+| Dead Reckoning: Death Between the Lines - Collector's Edition | 417848 | [417848-dead-reckoning-death-between-the-lines-collectors-edition.json](./417848-dead-reckoning-death-between-the-lines-collectors-edition.json) |
 | Dead Reckoning: Knowledge | 101957 | [101957-dead-reckoning-knowledge.json](./101957-dead-reckoning-knowledge.json) |
 | Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
 | Dead Reckoning: Silvermoon Isle | 140127 | [140127-dead-reckoning-silvermoon-isle.json](./140127-dead-reckoning-silvermoon-isle.json) |
@@ -5994,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Madness | 177109 | [177109-deep-madness.json](./177109-deep-madness.json) |
 | Deep Maze | 262832 | [262832-deep-maze.json](./262832-deep-maze.json) |
 | Deep Mine | 274024 | [274024-deep-mine.json](./274024-deep-mine.json) |
+| Deep miner | 417894 | [417894-deep-miner.json](./417894-deep-miner.json) |
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
 | Deep Night Detective | 165440 | [165440-deep-night-detective.json](./165440-deep-night-detective.json) |
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
@@ -10762,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Chomp | 351695 | [351695-dino-chomp.json](./351695-dino-chomp.json) |
 | Dino Citadel | 365977 | [365977-dino-citadel.json](./365977-dino-citadel.json) |
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
+| Dino Cleanup | 416395 | [416395-dino-cleanup.json](./416395-dino-cleanup.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis | 329772 | [329772-dino-crisis.json](./329772-dino-crisis.json) |
 | Dino Crisis 2 | 329776 | [329776-dino-crisis-2.json](./329776-dino-crisis-2.json) |
@@ -10844,6 +10860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Nest | 147331 | [147331-dino-nest.json](./147331-dino-nest.json) |
 | Dino Nite | 156231 | [156231-dino-nite.json](./156231-dino-nite.json) |
 | Dino Numbers | 128485 | [128485-dino-numbers.json](./128485-dino-numbers.json) |
+| Dino Odyssey | 417895 | [417895-dino-odyssey.json](./417895-dino-odyssey.json) |
 | Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
 | Dino Park | 290253 | [290253-dino-park.json](./290253-dino-park.json) |
 | Dino Party | 382519 | [382519-dino-party.json](./382519-dino-party.json) |
@@ -15443,6 +15460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoTeam | 223205 | [223205-doteam.json](./223205-doteam.json) |
 | Doterminism | 200538 | [200538-doterminism.json](./200538-doterminism.json) |
 | Dotgeon | 237232 | [237232-dotgeon.json](./237232-dotgeon.json) |
+| Doti Golf | 417897 | [417897-doti-golf.json](./417897-doti-golf.json) |
 | DotLine | 109418 | [109418-dotline.json](./109418-dotline.json) |
 | DotMan | 85098 | [85098-dotman.json](./85098-dotman.json) |
 | DotMatrixx | 91288 | [91288-dotmatrixx.json](./91288-dotmatrixx.json) |
@@ -18607,6 +18625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Clash Online Racing | 227241 | [227241-drift-clash-online-racing.json](./227241-drift-clash-online-racing.json) |
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
 | Drift Club | 413582 | [413582-drift-club.json](./413582-drift-club.json) |
+| Drift Club: Street Legends | 417898 | [417898-drift-club-street-legends.json](./417898-drift-club-street-legends.json) |
 | Drift Desert Race | 339570 | [339570-drift-desert-race.json](./339570-drift-desert-race.json) |
 | Drift Draft Destroy | 240927 | [240927-drift-draft-destroy.json](./240927-drift-draft-destroy.json) |
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
@@ -19630,6 +19649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dub Night Live | 414919 | [414919-dub-night-live.json](./414919-dub-night-live.json) |
 | Dub Party | 419808 | [419808-dub-party.json](./419808-dub-party.json) |
+| Dub Rumble | 416456 | [416456-dub-rumble.json](./416456-dub-rumble.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
 | Dubai | 257296 | [257296-dubai.json](./257296-dubai.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
