@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Ukubata Tei no Roku Tengu | 221039 | [221039-ukubata-tei-no-roku-tengu.json](./221039-ukubata-tei-no-roku-tengu.json) |
+| Ukungu | 239947 | [239947-ukungu.json](./239947-ukungu.json) |
 | Ulala: Idle Adventure | 124346 | [124346-ulala-idle-adventure.json](./124346-ulala-idle-adventure.json) |
 | Ulama: Arena of the Gods | 31272 | [31272-ulama-arena-of-the-gods.json](./31272-ulama-arena-of-the-gods.json) |
 | Uldor Dread Arena | 247096 | [247096-uldor-dread-arena.json](./247096-uldor-dread-arena.json) |
@@ -4062,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uVolley | 149921 | [149921-uvolley.json](./149921-uvolley.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | UvsU: You vs. You | 375250 | [375250-uvsu-you-vs-you.json](./375250-uvsu-you-vs-you.json) |
+| Uwagaki Ai | 239838 | [239838-uwagaki-ai.json](./239838-uwagaki-ai.json) |
 | Uwaiteru | 341650 | [341650-uwaiteru.json](./341650-uwaiteru.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
 | Uwasa no Midori-kun!! Futari no Midori!? | 124113 | [124113-uwasa-no-midori-kun-futari-no-midori.json](./124113-uwasa-no-midori-kun-futari-no-midori.json) |
