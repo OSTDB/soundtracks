@@ -3209,6 +3209,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untamed Isles | 186017 | [186017-untamed-isles.json](./186017-untamed-isles.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
 | Untamed Tactics | 158184 | [158184-untamed-tactics.json](./158184-untamed-tactics.json) |
+| Untamed Tactics: Digital Collector's Edition | 264841 | [264841-untamed-tactics-digital-collectors-edition.json](./264841-untamed-tactics-digital-collectors-edition.json) |
+| Untamed Tactics: Humblewood Edition | 264842 | [264842-untamed-tactics-humblewood-edition.json](./264842-untamed-tactics-humblewood-edition.json) |
 | Untamed: Life of a Cougar | 35017 | [35017-untamed-life-of-a-cougar.json](./35017-untamed-life-of-a-cougar.json) |
 | Untangle | 163236 | [163236-untangle.json](./163236-untangle.json) |
 | Untangle | 338820 | [338820-untangle.json](./338820-untangle.json) |
