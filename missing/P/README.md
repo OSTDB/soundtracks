@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pairs & Perils | 315042 | [315042-pairs-and-perils.json](./315042-pairs-and-perils.json) |
 | Pairs and Rotors | 67394 | [67394-pairs-and-rotors.json](./67394-pairs-and-rotors.json) |
 | Pairs II | 365629 | [365629-pairs-ii.json](./365629-pairs-ii.json) |
+| Pairvo | 386753 | [386753-pairvo.json](./386753-pairvo.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
 | Paisible Soirée au Fil d'Étoiles | 178514 | [178514-paisible-soiree-au-fil-detoiles.json](./178514-paisible-soiree-au-fil-detoiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
@@ -10560,6 +10561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Strike | 237178 | [237178-planetary-strike.json](./237178-planetary-strike.json) |
 | Planetary Taxi | 279558 | [279558-planetary-taxi.json](./279558-planetary-taxi.json) |
 | Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
+| PlanetBase 2 | 387787 | [387787-planetbase-2.json](./387787-planetbase-2.json) |
 | PlanetBlight | 244132 | [244132-planetblight.json](./244132-planetblight.json) |
 | Planetbound | 41926 | [41926-planetbound.json](./41926-planetbound.json) |
 | PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
