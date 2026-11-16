@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning With the PooYoos: Episode 3 | 66008 | [66008-learning-with-the-pooyoos-episode-3.json](./66008-learning-with-the-pooyoos-episode-3.json) |
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
+| Leash | 384412 | [384412-leash.json](./384412-leash.json) |
 | Leashed Soul | 38038 | [38038-leashed-soul.json](./38038-leashed-soul.json) |
 | Leashed Soul - Survive & Rebuild Beydo Block World | 38046 | [38046-leashed-soul-survive-and-rebuild-beydo-block-world.json](./38046-leashed-soul-survive-and-rebuild-beydo-block-world.json) |
 | Leashed Soul: Survive & Rebuild Beydo Block World | 38044 | [38044-leashed-soul-survive-and-rebuild-beydo-block-world.json](./38044-leashed-soul-survive-and-rebuild-beydo-block-world.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Xenia | 134186 | [134186-legend-of-xenia.json](./134186-legend-of-xenia.json) |
 | Legend of Xenia 2 | 134185 | [134185-legend-of-xenia-2.json](./134185-legend-of-xenia-2.json) |
 | Legend of Xenia 3D | 177338 | [177338-legend-of-xenia-3d.json](./177338-legend-of-xenia-3d.json) |
+| Legend of Xion: Royal Story | 367633 | [367633-legend-of-xion-royal-story.json](./367633-legend-of-xion-royal-story.json) |
 | Legend of Yashiyu | 173772 | [173772-legend-of-yashiyu.json](./173772-legend-of-yashiyu.json) |
 | Legend of Yashiyu 2 | 172773 | [172773-legend-of-yashiyu-2.json](./172773-legend-of-yashiyu-2.json) |
 | Legend of Yashiyu 3 | 173773 | [173773-legend-of-yashiyu-3.json](./173773-legend-of-yashiyu-3.json) |
@@ -3256,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
+| Legends of Hiro | 379278 | [379278-legends-of-hiro.json](./379278-legends-of-hiro.json) |
 | Legends Of Hiro | 355794 | [355794-legends-of-hiro.json](./355794-legends-of-hiro.json) |
 | Legends of Horror | 209414 | [209414-legends-of-horror.json](./209414-legends-of-horror.json) |
 | Legends of Iconoclast 2: Unfinished Business | 276384 | [276384-legends-of-iconoclast-2-unfinished-business.json](./276384-legends-of-iconoclast-2-unfinished-business.json) |
@@ -3900,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lendas da Amazônia | 381287 | [381287-lendas-da-amazonia.json](./381287-lendas-da-amazonia.json) |
 | Lendas do Pebol: Mythic Football | 231180 | [231180-lendas-do-pebol-mythic-football.json](./231180-lendas-do-pebol-mythic-football.json) |
 | Lendele | 182744 | [182744-lendele.json](./182744-lendele.json) |
+| Lendlease | 370022 | [370022-lendlease.json](./370022-lendlease.json) |
 | Lěngxiě Zhèng Shǎizǐ | 157365 | [157365-lengxie-zheng-shaizi.json](./157365-lengxie-zheng-shaizi.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
@@ -4881,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liblade | 181032 | [181032-liblade.json](./181032-liblade.json) |
 | Libra of the Vampire Princess | 37392 | [37392-libra-of-the-vampire-princess.json](./37392-libra-of-the-vampire-princess.json) |
 | Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld | 90627 | [90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json](./90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json) |
+| Libra: There Are Two | 379272 | [379272-libra-there-are-two.json](./379272-libra-there-are-two.json) |
 | Librarian | 172292 | [172292-librarian.json](./172292-librarian.json) |
 | Librarian of Aquademia: The Forbidden Grimoire | 402690 | [402690-librarian-of-aquademia-the-forbidden-grimoire.json](./402690-librarian-of-aquademia-the-forbidden-grimoire.json) |
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
@@ -11077,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Chrysalis | 406077 | [406077-lunar-chrysalis.json](./406077-lunar-chrysalis.json) |
 | Lunar City Builder | 296963 | [296963-lunar-city-builder.json](./296963-lunar-city-builder.json) |
 | Lunar Command | 73499 | [73499-lunar-command.json](./73499-lunar-command.json) |
+| Lunar Crypt | 367863 | [367863-lunar-crypt.json](./367863-lunar-crypt.json) |
 | Lunar Crypt | 417068 | [417068-lunar-crypt.json](./417068-lunar-crypt.json) |
 | Lunar Depot 38 | 266934 | [266934-lunar-depot-38.json](./266934-lunar-depot-38.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
