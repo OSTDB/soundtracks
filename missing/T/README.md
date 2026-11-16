@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarek | 149491 | [149491-tarek.json](./149491-tarek.json) |
 | Tarepanda no Gunpey | 37476 | [37476-tarepanda-no-gunpey.json](./37476-tarepanda-no-gunpey.json) |
 | Targ | 24828 | [24828-targ.json](./24828-targ.json) |
+| Targeosity Horror | 287916 | [287916-targeosity-horror.json](./287916-targeosity-horror.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 68146 | [68146-target.json](./68146-target.json) |
@@ -6015,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 50 States Quiz | 103441 | [103441-the-50-states-quiz.json](./103441-the-50-states-quiz.json) |
 | The 52 Fragments | 278362 | [278362-the-52-fragments.json](./278362-the-52-fragments.json) |
 | The 5th Fleet | 70770 | [70770-the-5th-fleet.json](./70770-the-5th-fleet.json) |
+| The 6-Digit Computer | 288924 | [288924-the-6-digit-computer.json](./288924-the-6-digit-computer.json) |
 | The 60 Second Syndrome | 402097 | [402097-the-60-second-syndrome.json](./402097-the-60-second-syndrome.json) |
 | The 64 kb challenge: Limitless | 260140 | [260140-the-64-kb-challenge-limitless.json](./260140-the-64-kb-challenge-limitless.json) |
 | The 64 kb challenge: Vanilla | 260139 | [260139-the-64-kb-challenge-vanilla.json](./260139-the-64-kb-challenge-vanilla.json) |
@@ -6810,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Attraction to All Things Uncertain | 273729 | [273729-the-attraction-to-all-things-uncertain.json](./273729-the-attraction-to-all-things-uncertain.json) |
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Augury House | 188471 | [188471-the-augury-house.json](./188471-the-augury-house.json) |
+| The August Before | 287801 | [287801-the-august-before.json](./287801-the-august-before.json) |
 | The Aurora Chronicles | 383203 | [383203-the-aurora-chronicles.json](./383203-the-aurora-chronicles.json) |
 | The Aurora Wager | 11747 | [11747-the-aurora-wager.json](./11747-the-aurora-wager.json) |
 | The Aurora World | 218274 | [218274-the-aurora-world.json](./218274-the-aurora-world.json) |
@@ -12573,6 +12576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Machine Mega Pack | 155304 | [155304-the-incredible-machine-mega-pack.json](./155304-the-incredible-machine-mega-pack.json) |
 | The Incredible Machine: Even More Contraptions | 71062 | [71062-the-incredible-machine-even-more-contraptions.json](./71062-the-incredible-machine-even-more-contraptions.json) |
 | The Incredible Maze | 21792 | [21792-the-incredible-maze.json](./21792-the-incredible-maze.json) |
+| The Incredible Shrinking Character | 287836 | [287836-the-incredible-shrinking-character.json](./287836-the-incredible-shrinking-character.json) |
 | The Incredible Toon Machine | 13778 | [13778-the-incredible-toon-machine.json](./13778-the-incredible-toon-machine.json) |
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
 | The Incredibles | 210442 | [210442-the-incredibles.json](./210442-the-incredibles.json) |
@@ -17270,6 +17274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
 | The Quacken | 180181 | [180181-the-quacken.json](./180181-the-quacken.json) |
 | The Quaddle Family Mysteries 1: The Case of the Scarce Scarab - Lobby / Kitchen | 278214 | [278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json](./278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json) |
+| The Quantum Conflict | 287806 | [287806-the-quantum-conflict.json](./287806-the-quantum-conflict.json) |
 | The Quarantine | 327118 | [327118-the-quarantine.json](./327118-the-quarantine.json) |
 | The Quarantine Sector | 371429 | [371429-the-quarantine-sector.json](./371429-the-quarantine-sector.json) |
 | The Quarry: '50s Throwback Character Outfits | 224517 | [224517-the-quarry-50s-throwback-character-outfits.json](./224517-the-quarry-50s-throwback-character-outfits.json) |
@@ -25801,6 +25806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Trails Alpine Puzzle: Expansion Pack 3 | 358008 | [358008-timber-trails-alpine-puzzle-expansion-pack-3.json](./358008-timber-trails-alpine-puzzle-expansion-pack-3.json) |
 | Timber Truck: Chaos Coop | 412754 | [412754-timber-truck-chaos-coop.json](./412754-timber-truck-chaos-coop.json) |
 | Timber Wars | 339305 | [339305-timber-wars.json](./339305-timber-wars.json) |
+| Timber! | 287830 | [287830-timber.json](./287830-timber.json) |
 | Timber! The Logging Experts | 30595 | [30595-timber-the-logging-experts.json](./30595-timber-the-logging-experts.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberflow: Sawmill Simulator | 378693 | [378693-timberflow-sawmill-simulator.json](./378693-timberflow-sawmill-simulator.json) |
@@ -25968,6 +25974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Lords | 396898 | [396898-time-lords.json](./396898-time-lords.json) |
 | Time Machine | 158795 | [158795-time-machine.json](./158795-time-machine.json) |
 | Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
+| Time Machine Bronzeville | 287805 | [287805-time-machine-bronzeville.json](./287805-time-machine-bronzeville.json) |
 | Time Machine I - Secret of the Knights | 69469 | [69469-time-machine-i-secret-of-the-knights.json](./69469-time-machine-i-secret-of-the-knights.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
