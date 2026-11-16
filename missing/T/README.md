@@ -20407,6 +20407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Truth is Out There - Mystery Adventure Pack | 146441 | [146441-the-truth-is-out-there-mystery-adventure-pack.json](./146441-the-truth-is-out-there-mystery-adventure-pack.json) |
 | The Truth Is Up There | 397424 | [397424-the-truth-is-up-there.json](./397424-the-truth-is-up-there.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
+| The Truth of the Empty Room | 417862 | [417862-the-truth-of-the-empty-room.json](./417862-the-truth-of-the-empty-room.json) |
 | The Truth Written by the Stars | 421986 | [421986-the-truth-written-by-the-stars.json](./421986-the-truth-written-by-the-stars.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
 | The Tubby Custard Bubble Game | 307841 | [307841-the-tubby-custard-bubble-game.json](./307841-the-tubby-custard-bubble-game.json) |
@@ -26233,6 +26234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker Toy Tanks | 371948 | [371948-tinker-toy-tanks.json](./371948-tinker-toy-tanks.json) |
 | Tinker Toy Theatre | 371951 | [371951-tinker-toy-theatre.json](./371951-tinker-toy-theatre.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
+| Tinker's Nook | 417074 | [417074-tinkers-nook.json](./417074-tinkers-nook.json) |
 | Tinkercore | 316686 | [316686-tinkercore.json](./316686-tinkercore.json) |
 | Tinkering Is Enough | 390579 | [390579-tinkering-is-enough.json](./390579-tinkering-is-enough.json) |
 | Tinkerlands | 326020 | [326020-tinkerlands.json](./326020-tinkerlands.json) |
@@ -29111,6 +29113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
 | Toro | 202982 | [202982-toro.json](./202982-toro.json) |
 | Toro | 34099 | [34099-toro.json](./34099-toro.json) |
+| Toro 2 | 417861 | [417861-toro-2.json](./417861-toro-2.json) |
 | Toro and Friends: Onsen Town | 119233 | [119233-toro-and-friends-onsen-town.json](./119233-toro-and-friends-onsen-town.json) |
 | Toro Farcito e la maledizione della Piramide | 394691 | [394691-toro-farcito-e-la-maledizione-della-piramide.json](./394691-toro-farcito-e-la-maledizione-della-piramide.json) |
 | Toro to Kyuujitsu | 178328 | [178328-toro-to-kyuujitsu.json](./178328-toro-to-kyuujitsu.json) |
@@ -30305,6 +30308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Deckfense | 332189 | [332189-tower-deckfense.json](./332189-tower-deckfense.json) |
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
 | Tower Defence Engineer | 323248 | [323248-tower-defence-engineer.json](./323248-tower-defence-engineer.json) |
+| Tower Defender Jet Mech | 417130 | [417130-tower-defender-jet-mech.json](./417130-tower-defender-jet-mech.json) |
 | Tower Defender: Hero Wars | 207270 | [207270-tower-defender-hero-wars.json](./207270-tower-defender-hero-wars.json) |
 | Tower Defense | 213813 | [213813-tower-defense.json](./213813-tower-defense.json) |
 | Tower Defense - Fantasy Tower Game | 29352 | [29352-tower-defense-fantasy-tower-game.json](./29352-tower-defense-fantasy-tower-game.json) |
@@ -34141,6 +34145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island: The Gold Bag | 210210 | [210210-treasure-island-the-gold-bag.json](./210210-treasure-island-the-gold-bag.json) |
 | Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
 | Treasure Islands | 144727 | [144727-treasure-islands.json](./144727-treasure-islands.json) |
+| Treasure Isle | 417723 | [417723-treasure-isle.json](./417723-treasure-isle.json) |
 | Treasure Isle | 92402 | [92402-treasure-isle.json](./92402-treasure-isle.json) |
 | Treasure Journey | 337044 | [337044-treasure-journey.json](./337044-treasure-journey.json) |
 | Treasure Knight | 285363 | [285363-treasure-knight.json](./285363-treasure-knight.json) |
