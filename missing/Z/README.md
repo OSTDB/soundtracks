@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Za Bee Avoid Game | 96934 | [96934-za-bee-avoid-game.json](./96934-za-bee-avoid-game.json) |
 | Za češtiny ve hrách! | 282187 | [282187-za-cestiny-ve-hrach.json](./282187-za-cestiny-ve-hrach.json) |
 | Zaacar | 169377 | [169377-zaacar.json](./169377-zaacar.json) |
+| Zaag | 335529 | [335529-zaag.json](./335529-zaag.json) |
 | ZaaLord | 136236 | [136236-zaalord.json](./136236-zaalord.json) |
 | Zaam | 122146 | [122146-zaam.json](./122146-zaam.json) |
 | Zaark and the Night Team: The Quest for Patterns and The Search for Symbols | 69985 | [69985-zaark-and-the-night-team-the-quest-for-patterns-and-the-search-for-symbols.json](./69985-zaark-and-the-night-team-the-quest-for-patterns-and-the-search-for-symbols.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeitgeist | 374957 | [374957-zeitgeist.json](./374957-zeitgeist.json) |
 | Zeitghast | 266010 | [266010-zeitghast.json](./266010-zeitghast.json) |
 | Zeitz Machz: Rhapsody | 293142 | [293142-zeitz-machz-rhapsody.json](./293142-zeitz-machz-rhapsody.json) |
+| Zeizen | 328702 | [328702-zeizen.json](./328702-zeizen.json) |
 | Zeke's Peak | 119491 | [119491-zekes-peak.json](./119491-zekes-peak.json) |
 | Zekertune | 350318 | [350318-zekertune.json](./350318-zekertune.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
@@ -1277,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zexion | 331175 | [331175-zexion.json](./331175-zexion.json) |
 | Zezenia Online | 32195 | [32195-zezenia-online.json](./32195-zezenia-online.json) |
 | ZFrag | 177375 | [177375-zfrag.json](./177375-zfrag.json) |
+| Zgadnij co to? | 328707 | [328707-zgadnij-co-to.json](./328707-zgadnij-co-to.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
 | Zgirls II: Last One | 174892 | [174892-zgirls-ii-last-one.json](./174892-zgirls-ii-last-one.json) |
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
@@ -2089,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Rampage | 102400 | [102400-zombie-rampage.json](./102400-zombie-rampage.json) |
 | Zombie Recall VR | 372645 | [372645-zombie-recall-vr.json](./372645-zombie-recall-vr.json) |
 | Zombie Redbox | 112187 | [112187-zombie-redbox.json](./112187-zombie-redbox.json) |
+| Zombie Restaurant | 318092 | [318092-zombie-restaurant.json](./318092-zombie-restaurant.json) |
 | Zombie Retro Simulation | 177273 | [177273-zombie-retro-simulation.json](./177273-zombie-retro-simulation.json) |
 | Zombie Riot | 36711 | [36711-zombie-riot.json](./36711-zombie-riot.json) |
 | Zombie Road Rage | 326535 | [326535-zombie-road-rage.json](./326535-zombie-road-rage.json) |
@@ -2830,10 +2834,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zug Simulator 2013 | 52299 | [52299-zug-simulator-2013.json](./52299-zug-simulator-2013.json) |
+| Zugnaex | 319264 | [319264-zugnaex.json](./319264-zugnaex.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
 | Zugzwang | 207015 | [207015-zugzwang.json](./207015-zugzwang.json) |
 | Zugzwang | 376431 | [376431-zugzwang.json](./376431-zugzwang.json) |
 | Zui's Witch Academy | 338311 | [338311-zuis-witch-academy.json](./338311-zuis-witch-academy.json) |
+| Zuido | 334374 | [334374-zuido.json](./334374-zuido.json) |
 | Zuìhòu de Xiūxiānzhě | 375416 | [375416-zuihou-de-xiuxianzhe.json](./375416-zuihou-de-xiuxianzhe.json) |
 | Zuìzhōng Huànxiǎng | 340183 | [340183-zuizhong-huanxiang.json](./340183-zuizhong-huanxiang.json) |
 | Zuìzhōng Huànxiǎng: Guāngmíng Piān | 340165 | [340165-zuizhong-huanxiang-guangming-pian.json](./340165-zuizhong-huanxiang-guangming-pian.json) |
