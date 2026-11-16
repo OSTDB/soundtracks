@@ -4581,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Trek | 399036 | [399036-letter-trek.json](./399036-letter-trek.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
 | Letter Wizard | 175856 | [175856-letter-wizard.json](./175856-letter-wizard.json) |
+| Letter Wizard Arcade | 233201 | [233201-letter-wizard-arcade.json](./233201-letter-wizard-arcade.json) |
 | Letter Zap! | 70430 | [70430-letter-zap.json](./70430-letter-zap.json) |
 | Letter-Setter | 55452 | [55452-letter-setter.json](./55452-letter-setter.json) |
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
