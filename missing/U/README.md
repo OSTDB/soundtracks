@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undying: Halloween 2023 Free DLC | 274656 | [274656-undying-halloween-2023-free-dlc.json](./274656-undying-halloween-2023-free-dlc.json) |
 | Undying: Kowloon in Red | 406313 | [406313-undying-kowloon-in-red.json](./406313-undying-kowloon-in-red.json) |
 | Undying: Reject | 322483 | [322483-undying-reject.json](./322483-undying-reject.json) |
+| Undying: Skin Pack - Series 1 | 279976 | [279976-undying-skin-pack-series-1.json](./279976-undying-skin-pack-series-1.json) |
 | Undying: The Beast | 322482 | [322482-undying-the-beast.json](./322482-undying-the-beast.json) |
 | Une affaire en or | 93012 | [93012-une-affaire-en-or.json](./93012-une-affaire-en-or.json) |
 | Unearned Bounty | 25715 | [25715-unearned-bounty.json](./25715-unearned-bounty.json) |
