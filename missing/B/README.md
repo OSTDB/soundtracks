@@ -6103,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Street | 99879 | [99879-beat-street.json](./99879-beat-street.json) |
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
 | Beat Survival: Expansion | 261047 | [261047-beat-survival-expansion.json](./261047-beat-survival-expansion.json) |
+| Beat Swiper | 360791 | [360791-beat-swiper.json](./360791-beat-swiper.json) |
 | Beat the Art Breaker | 96564 | [96564-beat-the-art-breaker.json](./96564-beat-the-art-breaker.json) |
 | Beat the Beat Up! | 147555 | [147555-beat-the-beat-up.json](./147555-beat-the-beat-up.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
@@ -11484,7 +11485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind Touch | 346760 | [346760-blind-touch.json](./346760-blind-touch.json) |
 | Blind Touch VR | 412610 | [412610-blind-touch-vr.json](./412610-blind-touch-vr.json) |
-| Blind Trust | 32672 | [32672-blind-trust.json](./32672-blind-trust.json) |
 | Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
 | Blind Witch -Peek Window- | 52061 | [52061-blind-witch-peek-window.json](./52061-blind-witch-peek-window.json) |
@@ -13859,7 +13859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boiled | 392010 | [392010-boiled.json](./392010-boiled.json) |
 | Boiler & Blood | 428105 | [428105-boiler-and-blood.json](./428105-boiler-and-blood.json) |
 | Boiler Room | 415378 | [415378-boiler-room.json](./415378-boiler-room.json) |
-| Boiling Bolt | 32983 | [32983-boiling-bolt.json](./32983-boiling-bolt.json) |
 | Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
 | Boiling Point: Road to Hell | 9508 | [9508-boiling-point-road-to-hell.json](./9508-boiling-point-road-to-hell.json) |
 | Boiling Steel: Preface | 128081 | [128081-boiling-steel-preface.json](./128081-boiling-steel-preface.json) |
