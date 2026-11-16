@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Days Sim Date | 198242 | [198242-idol-days-sim-date.json](./198242-idol-days-sim-date.json) |
 | Idol Death Game TV | 79169 | [79169-idol-death-game-tv.json](./79169-idol-death-game-tv.json) |
 | Idol Fantasy | 89556 | [89556-idol-fantasy.json](./89556-idol-fantasy.json) |
+| Idol Hacked! | 370024 | [370024-idol-hacked.json](./370024-idol-hacked.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hanafuda Fan Club | 37664 | [37664-idol-hanafuda-fan-club.json](./37664-idol-hanafuda-fan-club.json) |
 | Idol Hands | 10432 | [10432-idol-hands.json](./10432-idol-hands.json) |
@@ -2831,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortalis | 286309 | [286309-immortalis.json](./286309-immortalis.json) |
 | Immortalis | 62944 | [62944-immortalis.json](./62944-immortalis.json) |
 | Immortality | 355212 | [355212-immortality.json](./355212-immortality.json) |
+| Immortality Factory | 369500 | [369500-immortality-factory.json](./369500-immortality-factory.json) |
 | Immortality Paradox | 267999 | [267999-immortality-paradox.json](./267999-immortality-paradox.json) |
 | ImmorTall | 385641 | [385641-immortall.json](./385641-immortall.json) |
 | Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
@@ -4164,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernulia | 300973 | [300973-infernulia.json](./300973-infernulia.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
 | Infernum Peak | 144527 | [144527-infernum-peak.json](./144527-infernum-peak.json) |
+| Infernum VR | 371181 | [371181-infernum-vr.json](./371181-infernum-vr.json) |
 | Inferos Numine: Descent Into Darkness | 211092 | [211092-inferos-numine-descent-into-darkness.json](./211092-inferos-numine-descent-into-darkness.json) |
 | Infest | 244608 | [244608-infest.json](./244608-infest.json) |
 | Infestation | 9119 | [9119-infestation.json](./9119-infestation.json) |
@@ -5042,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insaniquarium! Deluxe | 8323 | [8323-insaniquarium-deluxe.json](./8323-insaniquarium-deluxe.json) |
 | Insanis: The 2D Cube Puzzle | 282390 | [282390-insanis-the-2d-cube-puzzle.json](./282390-insanis-the-2d-cube-puzzle.json) |
 | Insanitation | 346527 | [346527-insanitation.json](./346527-insanitation.json) |
+| Insanitorium: Don’t Be Afraid | 372905 | [372905-insanitorium-don-t-be-afraid.json](./372905-insanitorium-don-t-be-afraid.json) |
 | Insanity | 206574 | [206574-insanity.json](./206574-insanity.json) |
 | Insanity | 281350 | [281350-insanity.json](./281350-insanity.json) |
 | Insanity | 412105 | [412105-insanity.json](./412105-insanity.json) |
@@ -5465,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interactive Portraits: Trans People in Japan | 134988 | [134988-interactive-portraits-trans-people-in-japan.json](./134988-interactive-portraits-trans-people-in-japan.json) |
 | Interactive Sailing | 143543 | [143543-interactive-sailing.json](./143543-interactive-sailing.json) |
 | Interactive Sex: BDSM | 371354 | [371354-interactive-sex-bdsm.json](./371354-interactive-sex-bdsm.json) |
+| Interactive Sex: Futanari BDSM | 370021 | [370021-interactive-sex-futanari-bdsm.json](./370021-interactive-sex-futanari-bdsm.json) |
 | Interactive Sex: Threesome | 382009 | [382009-interactive-sex-threesome.json](./382009-interactive-sex-threesome.json) |
 | Interactive Storybook DS: Series 1 | 123235 | [123235-interactive-storybook-ds-series-1.json](./123235-interactive-storybook-ds-series-1.json) |
 | Interactive Storybook DS: Series 2 | 123234 | [123234-interactive-storybook-ds-series-2.json](./123234-interactive-storybook-ds-series-2.json) |
@@ -5528,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalacto-1 | 304369 | [304369-intergalacto-1.json](./304369-intergalacto-1.json) |
 | Interim | 392289 | [392289-interim.json](./392289-interim.json) |
 | Interim Apex | 381263 | [381263-interim-apex.json](./381263-interim-apex.json) |
+| Interim Crossroads | 371765 | [371765-interim-crossroads.json](./371765-interim-crossroads.json) |
 | InterImperium | 338703 | [338703-interimperium.json](./338703-interimperium.json) |
 | Interior Designer | 295882 | [295882-interior-designer.json](./295882-interior-designer.json) |
 | Interior Worlds | 223460 | [223460-interior-worlds.json](./223460-interior-worlds.json) |
@@ -7529,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Harvest Time! | 169595 | [169595-its-harvest-time.json](./169595-its-harvest-time.json) |
 | It's Hasegawa-san!? | 370474 | [370474-its-hasegawa-san.json](./370474-its-hasegawa-san.json) |
 | It's Hot Pot Time! | 264935 | [264935-its-hot-pot-time.json](./264935-its-hot-pot-time.json) |
+| It's John's House | 371773 | [371773-its-johns-house.json](./371773-its-johns-house.json) |
 | It's Just A Jump! | 360836 | [360836-its-just-a-jump.json](./360836-its-just-a-jump.json) |
 | It's Just the End of the World, Love | 179860 | [179860-its-just-the-end-of-the-world-love.json](./179860-its-just-the-end-of-the-world-love.json) |
 | It's Just TIC TAC TOE | 101704 | [101704-its-just-tic-tac-toe.json](./101704-its-just-tic-tac-toe.json) |
