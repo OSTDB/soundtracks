@@ -6321,6 +6321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
 | BeatShips | 117241 | [117241-beatships.json](./117241-beatships.json) |
 | BeatShooter | 309736 | [309736-beatshooter.json](./309736-beatshooter.json) |
+| BeatShot | 244448 | [244448-beatshot.json](./244448-beatshot.json) |
 | Beatsplosion! for Kinect | 57303 | [57303-beatsplosion-for-kinect.json](./57303-beatsplosion-for-kinect.json) |
 | Beatstar | 166521 | [166521-beatstar.json](./166521-beatstar.json) |
 | Beatstar: Ariana Grande, Zedd - "Break Free" | 358768 | [358768-beatstar-ariana-grande-zedd-break-free.json](./358768-beatstar-ariana-grande-zedd-break-free.json) |
@@ -9815,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Halloween Edition | 223567 | [223567-bit-orchard-animal-valley-halloween-edition.json](./223567-bit-orchard-animal-valley-halloween-edition.json) |
 | Bit Orchard: Animal Valley - Happy Edition | 253069 | [253069-bit-orchard-animal-valley-happy-edition.json](./253069-bit-orchard-animal-valley-happy-edition.json) |
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
+| Bit Orchard: Animal Valley - Platinum Edition | 243355 | [243355-bit-orchard-animal-valley-platinum-edition.json](./243355-bit-orchard-animal-valley-platinum-edition.json) |
 | Bit Orchard: Animal Valley - Premium Edition | 233926 | [233926-bit-orchard-animal-valley-premium-edition.json](./233926-bit-orchard-animal-valley-premium-edition.json) |
 | Bit Orchard: Animal Valley - Special Edition | 227702 | [227702-bit-orchard-animal-valley-special-edition.json](./227702-bit-orchard-animal-valley-special-edition.json) |
 | Bit Orchard: Animal Valley - Superb Edition | 264945 | [264945-bit-orchard-animal-valley-superb-edition.json](./264945-bit-orchard-animal-valley-superb-edition.json) |
@@ -12670,6 +12672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
 | BloodCrypt | 184242 | [184242-bloodcrypt.json](./184242-bloodcrypt.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
+| BloodDome99 | 244440 | [244440-blooddome99.json](./244440-blooddome99.json) |
 | Bloodecay | 256668 | [256668-bloodecay.json](./256668-bloodecay.json) |
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
 | Bloodface | 348705 | [348705-bloodface.json](./348705-bloodface.json) |
@@ -16469,6 +16472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Memory: Complete Edition | 246877 | [246877-brain-memory-complete-edition.json](./246877-brain-memory-complete-edition.json) |
+| Brain Memory: Definitive Edition | 243354 | [243354-brain-memory-definitive-edition.json](./243354-brain-memory-definitive-edition.json) |
 | Brain Memory: Director's Cut | 261365 | [261365-brain-memory-directors-cut.json](./261365-brain-memory-directors-cut.json) |
 | Brain Memory: Game of the Year Edition | 266167 | [266167-brain-memory-game-of-the-year-edition.json](./266167-brain-memory-game-of-the-year-edition.json) |
 | Brain Memory: Happy Edition | 272416 | [272416-brain-memory-happy-edition.json](./272416-brain-memory-happy-edition.json) |
