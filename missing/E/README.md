@@ -8657,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit the Backrooms | 265121 | [265121-exit-the-backrooms.json](./265121-exit-the-backrooms.json) |
 | Exit the Lot | 349814 | [349814-exit-the-lot.json](./349814-exit-the-lot.json) |
 | Exit the Shadow | 180570 | [180570-exit-the-shadow.json](./180570-exit-the-shadow.json) |
+| Exit Through the Dungeon | 409147 | [409147-exit-through-the-dungeon.json](./409147-exit-through-the-dungeon.json) |
 | Exit Together | 333662 | [333662-exit-together.json](./333662-exit-together.json) |
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
 | Exit VR | 51713 | [51713-exit-vr.json](./51713-exit-vr.json) |
