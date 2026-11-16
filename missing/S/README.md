@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Deathland | 377630 | [377630-sad-virus-deathland.json](./377630-sad-virus-deathland.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
 | Sad Virus Forest | 387751 | [387751-sad-virus-forest.json](./387751-sad-virus-forest.json) |
+| Sad Virus Horror | 370023 | [370023-sad-virus-horror.json](./370023-sad-virus-horror.json) |
 | Sad Virus Jungle | 397646 | [397646-sad-virus-jungle.json](./397646-sad-virus-jungle.json) |
 | Sad Virus Land | 366318 | [366318-sad-virus-land.json](./366318-sad-virus-land.json) |
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
@@ -3646,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! Classic Creep Capers | 2858 | [2858-scooby-doo-classic-creep-capers.json](./2858-scooby-doo-classic-creep-capers.json) |
 | Scooby-Doo! First Frights | 2862 | [2862-scooby-doo-first-frights.json](./2862-scooby-doo-first-frights.json) |
 | Scooby-Doo! in the Ghosts of Pirate Beach | 141457 | [141457-scooby-doo-in-the-ghosts-of-pirate-beach.json](./141457-scooby-doo-in-the-ghosts-of-pirate-beach.json) |
+| Scooby-Doo! Mystery Incorporated: Crystal Cove Online | 371784 | [371784-scooby-doo-mystery-incorporated-crystal-cove-online.json](./371784-scooby-doo-mystery-incorporated-crystal-cove-online.json) |
 | Scooby-Doo! Mystery Mayhem | 2861 | [2861-scooby-doo-mystery-mayhem.json](./2861-scooby-doo-mystery-mayhem.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo! Night of 100 Frights | 2860 | [2860-scooby-doo-night-of-100-frights.json](./2860-scooby-doo-night-of-100-frights.json) |
@@ -4321,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
 | Sculptorgeist | 128742 | [128742-sculptorgeist.json](./128742-sculptorgeist.json) |
 | SculptrVR | 359909 | [359909-sculptrvr.json](./359909-sculptrvr.json) |
+| Sculpture | 371793 | [371793-sculpture.json](./371793-sculpture.json) |
 | Sculpture Hentai Edition | 367891 | [367891-sculpture-hentai-edition.json](./367891-sculpture-hentai-edition.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
@@ -13688,6 +13691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Skera VR | 237026 | [237026-skera-vr.json](./237026-skera-vr.json) |
+| Skerda Armor | 371799 | [371799-skerda-armor.json](./371799-skerda-armor.json) |
 | Sketch | 199762 | [199762-sketch.json](./199762-sketch.json) |
 | Sketch | 245121 | [245121-sketch.json](./245121-sketch.json) |
 | Sketch Crawler | 189353 | [189353-sketch-crawler.json](./189353-sketch-crawler.json) |
@@ -21732,6 +21736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bit Attack | 19046 | [19046-space-bit-attack.json](./19046-space-bit-attack.json) |
 | Space Bits | 24550 | [24550-space-bits.json](./24550-space-bits.json) |
 | Space Blade | 266598 | [266598-space-blade.json](./266598-space-blade.json) |
+| Space Blast | 371794 | [371794-space-blast.json](./371794-space-blast.json) |
 | Space Blast Zom A Matching Game | 147642 | [147642-space-blast-zom-a-matching-game.json](./147642-space-blast-zom-a-matching-game.json) |
 | Space Blaster (Lines) | 169881 | [169881-space-blaster-lines.json](./169881-space-blaster-lines.json) |
 | Space Blaster 8 Bit | 100478 | [100478-space-blaster-8-bit.json](./100478-space-blaster-8-bit.json) |
@@ -28412,6 +28417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Alliance | 172849 | [172849-starlight-alliance.json](./172849-starlight-alliance.json) |
 | Starlight and the Silver Key | 237211 | [237211-starlight-and-the-silver-key.json](./237211-starlight-and-the-silver-key.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
+| Starlight Blade | 371775 | [371775-starlight-blade.json](./371775-starlight-blade.json) |
 | Starlight City | 223239 | [223239-starlight-city.json](./223239-starlight-city.json) |
 | Starlight Cove | 415987 | [415987-starlight-cove.json](./415987-starlight-cove.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
@@ -35752,6 +35758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mari All Star - Mari Collection Games | 100809 | [100809-super-mari-all-star-mari-collection-games.json](./100809-super-mari-all-star-mari-collection-games.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario | 238096 | [238096-super-mario.json](./238096-super-mario.json) |
+| Super Mario _4 | 371785 | [371785-super-mario-4.json](./371785-super-mario-4.json) |
 | Super Mario /v/orld | 373567 | [373567-super-mario-v-orld.json](./373567-super-mario-v-orld.json) |
 | Super Mario /v/orld 2: Moot Point | 333702 | [333702-super-mario-v-orld-2-moot-point.json](./333702-super-mario-v-orld-2-moot-point.json) |
 | Super Mario /v/orld: New Vegas | 234146 | [234146-super-mario-v-orld-new-vegas.json](./234146-super-mario-v-orld-new-vegas.json) |
@@ -38240,6 +38247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova | 100090 | [100090-supernova.json](./100090-supernova.json) |
 | Supernova | 11463 | [11463-supernova.json](./11463-supernova.json) |
 | Supernova | 198095 | [198095-supernova.json](./198095-supernova.json) |
+| Supernova | 371790 | [371790-supernova.json](./371790-supernova.json) |
 | SuperNova | 410006 | [410006-supernova.json](./410006-supernova.json) |
 | Supernova Shards | 274705 | [274705-supernova-shards.json](./274705-supernova-shards.json) |
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
