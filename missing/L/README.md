@@ -10642,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luenna: School of the Magi | 380197 | [380197-luenna-school-of-the-magi.json](./380197-luenna-school-of-the-magi.json) |
 | Luffi: Homebound | 292998 | [292998-luffi-homebound.json](./292998-luffi-homebound.json) |
 | Luffy: Way Back Home | 152616 | [152616-luffy-way-back-home.json](./152616-luffy-way-back-home.json) |
+| Lufia I & II: The Sinistrals Saga | 419024 | [419024-lufia-i-and-ii-the-sinistrals-saga.json](./419024-lufia-i-and-ii-the-sinistrals-saga.json) |
 | Lufia II: Rise of the Sinistrals | 1178 | [1178-lufia-ii-rise-of-the-sinistrals.json](./1178-lufia-ii-rise-of-the-sinistrals.json) |
 | Lufia V: For the Savior | 398373 | [398373-lufia-v-for-the-savior.json](./398373-lufia-v-for-the-savior.json) |
 | Lufia: Beginning of a Legend | 67818 | [67818-lufia-beginning-of-a-legend.json](./67818-lufia-beginning-of-a-legend.json) |
@@ -10650,6 +10651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
 | Luft: Onward and Upward | 96307 | [96307-luft-onward-and-upward.json](./96307-luft-onward-and-upward.json) |
+| Luftrauser | 419129 | [419129-luftrauser.json](./419129-luftrauser.json) |
 | Luftrausers | 5628 | [5628-luftrausers.json](./5628-luftrausers.json) |
 | LuftrauserZ | 196370 | [196370-luftrauserz.json](./196370-luftrauserz.json) |
 | Luftwaffe Airstrike | 146433 | [146433-luftwaffe-airstrike.json](./146433-luftwaffe-airstrike.json) |
