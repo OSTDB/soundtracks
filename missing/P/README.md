@@ -3862,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pay to Jump | 137832 | [137832-pay-to-jump.json](./137832-pay-to-jump.json) |
 | Pay to Slay | 403878 | [403878-pay-to-slay.json](./403878-pay-to-slay.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
+| Pay your Deeds | 415592 | [415592-pay-your-deeds.json](./415592-pay-your-deeds.json) |
 | Pay Your Space Debt | 404019 | [404019-pay-your-space-debt.json](./404019-pay-your-space-debt.json) |
 | Pay2Win: The Tricks Exposed | 34100 | [34100-pay2win-the-tricks-exposed.json](./34100-pay2win-the-tricks-exposed.json) |
 | PayaPaya | 243724 | [243724-payapaya.json](./243724-payapaya.json) |
@@ -14903,6 +14904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Flowers in Full Bloom | 139252 | [139252-potato-flowers-in-full-bloom.json](./139252-potato-flowers-in-full-bloom.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
 | Potato Mash! | 238593 | [238593-potato-mash.json](./238593-potato-mash.json) |
+| Potato Panic | 415715 | [415715-potato-panic.json](./415715-potato-panic.json) |
 | Potato Party: Hash It Out | 144943 | [144943-potato-party-hash-it-out.json](./144943-potato-party-hash-it-out.json) |
 | Potato Party: The Potatomancer | 189063 | [189063-potato-party-the-potatomancer.json](./189063-potato-party-the-potatomancer.json) |
 | Potato Peeling | 354762 | [354762-potato-peeling.json](./354762-potato-peeling.json) |
