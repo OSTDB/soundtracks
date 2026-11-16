@@ -4127,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess: Special Edition | 51707 | [51707-battle-chess-special-edition.json](./51707-battle-chess-special-edition.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
 | Battle Circuit | 38545 | [38545-battle-circuit.json](./38545-battle-circuit.json) |
+| Battle City | 228787 | [228787-battle-city.json](./228787-battle-city.json) |
 | Battle City | 4596 | [4596-battle-city.json](./4596-battle-city.json) |
 | Battle City Remake | 299365 | [299365-battle-city-remake.json](./299365-battle-city-remake.json) |
 | Battle Clash | 283977 | [283977-battle-clash.json](./283977-battle-clash.json) |
@@ -12632,6 +12633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Within: Path of Vengeance | 337833 | [337833-blood-within-path-of-vengeance.json](./337833-blood-within-path-of-vengeance.json) |
 | Blood Within: Star's Shadow Armor | 323244 | [323244-blood-within-stars-shadow-armor.json](./323244-blood-within-stars-shadow-armor.json) |
 | Blood Within: Thunderstorm Armor | 323246 | [323246-blood-within-thunderstorm-armor.json](./323246-blood-within-thunderstorm-armor.json) |
+| Blood Wizard Odyssey | 228768 | [228768-blood-wizard-odyssey.json](./228768-blood-wizard-odyssey.json) |
 | Blood World | 419082 | [419082-blood-world.json](./419082-blood-world.json) |
 | Blood X Thirsty | 338258 | [338258-blood-x-thirsty.json](./338258-blood-x-thirsty.json) |
 | Blood Zero | 71847 | [71847-blood-zero.json](./71847-blood-zero.json) |
