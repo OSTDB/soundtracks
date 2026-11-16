@@ -8977,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Bits | 204127 | [204127-lost-bits.json](./204127-lost-bits.json) |
 | Lost Bits | 256702 | [256702-lost-bits.json](./256702-lost-bits.json) |
 | Lost Blade | 208171 | [208171-lost-blade.json](./208171-lost-blade.json) |
+| Lost boat: VR Underwater Discovery | 339530 | [339530-lost-boat-vr-underwater-discovery.json](./339530-lost-boat-vr-underwater-discovery.json) |
 | Lost Borderline | 97071 | [97071-lost-borderline.json](./97071-lost-borderline.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Bros | 33691 | [33691-lost-bros.json](./33691-lost-bros.json) |
