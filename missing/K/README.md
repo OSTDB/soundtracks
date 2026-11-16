@@ -5368,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knobel Spass | 91594 | [91594-knobel-spass.json](./91594-knobel-spass.json) |
 | Knoblins | 303217 | [303217-knoblins.json](./303217-knoblins.json) |
 | Knobswitch | 99533 | [99533-knobswitch.json](./99533-knobswitch.json) |
+| Knock | 305652 | [305652-knock.json](./305652-knock.json) |
 | Knock 'Em Down! Bowling | 114201 | [114201-knock-em-down-bowling.json](./114201-knock-em-down-bowling.json) |
 | Knock 'Em Downs | 242851 | [242851-knock-em-downs.json](./242851-knock-em-downs.json) |
 | Knock 'Em Downs: Worlds Fair | 209826 | [209826-knock-em-downs-worlds-fair.json](./209826-knock-em-downs-worlds-fair.json) |
