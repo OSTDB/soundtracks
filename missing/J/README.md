@@ -4392,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just A Memory! | 168119 | [168119-just-a-memory.json](./168119-just-a-memory.json) |
 | Just a Phrase by Powgi | 140412 | [140412-just-a-phrase-by-powgi.json](./140412-just-a-phrase-by-powgi.json) |
 | Just a Regular Arcade | 235281 | [235281-just-a-regular-arcade.json](./235281-just-a-regular-arcade.json) |
+| Just a Regular Night Patrol | 410505 | [410505-just-a-regular-night-patrol.json](./410505-just-a-regular-night-patrol.json) |
 | Just A Shadow Game | 326918 | [326918-just-a-shadow-game.json](./326918-just-a-shadow-game.json) |
 | Just a Simple Turn-based RPG | 390180 | [390180-just-a-simple-turn-based-rpg.json](./390180-just-a-simple-turn-based-rpg.json) |
 | Just a Stupid Room | 415817 | [415817-just-a-stupid-room.json](./415817-just-a-stupid-room.json) |
