@@ -6130,6 +6130,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find It! World Heritage Adventure | 376235 | [376235-find-it-world-heritage-adventure.json](./376235-find-it-world-heritage-adventure.json) |
 | Find Kittens 10: Valentines Day | 389710 | [389710-find-kittens-10-valentines-day.json](./389710-find-kittens-10-valentines-day.json) |
 | Find Kittens 11: Dollhouse | 399546 | [399546-find-kittens-11-dollhouse.json](./399546-find-kittens-11-dollhouse.json) |
+| Find Kittens 12: Pirates | 416396 | [416396-find-kittens-12-pirates.json](./416396-find-kittens-12-pirates.json) |
+| Find Kittens 13: Cave Town | 416397 | [416397-find-kittens-13-cave-town.json](./416397-find-kittens-13-cave-town.json) |
 | Find Kittens 2: Crafts | 324237 | [324237-find-kittens-2-crafts.json](./324237-find-kittens-2-crafts.json) |
 | Find Kittens 3: Steampunk | 337519 | [337519-find-kittens-3-steampunk.json](./337519-find-kittens-3-steampunk.json) |
 | Find Kittens 4: Aetherpunk | 358948 | [358948-find-kittens-4-aetherpunk.json](./358948-find-kittens-4-aetherpunk.json) |
@@ -12457,6 +12459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy Jumper 2: Winter Adventures | 255648 | [255648-foxy-jumper-2-winter-adventures.json](./255648-foxy-jumper-2-winter-adventures.json) |
 | Foxy Land | 341734 | [341734-foxy-land.json](./341734-foxy-land.json) |
 | Foxy Land 2 | 215554 | [215554-foxy-land-2.json](./215554-foxy-land-2.json) |
+| Foxy Succubus Maker | 416406 | [416406-foxy-succubus-maker.json](./416406-foxy-succubus-maker.json) |
 | Foxy Tales | 276674 | [276674-foxy-tales.json](./276674-foxy-tales.json) |
 | Foxy the First Steps | 409412 | [409412-foxy-the-first-steps.json](./409412-foxy-the-first-steps.json) |
 | Foxy Trouble | 374444 | [374444-foxy-trouble.json](./374444-foxy-trouble.json) |
