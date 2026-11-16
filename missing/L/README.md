@@ -6668,6 +6668,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fighter 2 Remastered | 319474 | [319474-little-fighter-2-remastered.json](./319474-little-fighter-2-remastered.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
 | Little Fighters on Stream | 146528 | [146528-little-fighters-on-stream.json](./146528-little-fighters-on-stream.json) |
+| Little Fin | 409153 | [409153-little-fin.json](./409153-little-fin.json) |
+| Little Fins | 409152 | [409152-little-fins.json](./409152-little-fins.json) |
 | Little Fire Girl | 157825 | [157825-little-fire-girl.json](./157825-little-fire-girl.json) |
 | Little Fire Girl Fights Final Boss | 298673 | [298673-little-fire-girl-fights-final-boss.json](./298673-little-fire-girl-fights-final-boss.json) |
 | Little Fish Seek to Live On | 370189 | [370189-little-fish-seek-to-live-on.json](./370189-little-fish-seek-to-live-on.json) |
@@ -7671,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locodriver 9 | 83119 | [83119-locodriver-9.json](./83119-locodriver-9.json) |
 | Locoland | 35676 | [35676-locoland.json](./35676-locoland.json) |
 | Locole | 232592 | [232592-locole.json](./232592-locole.json) |
+| Locom | 409151 | [409151-locom.json](./409151-locom.json) |
 | Locomalito Arcade Legends | 278198 | [278198-locomalito-arcade-legends.json](./278198-locomalito-arcade-legends.json) |
 | Locomancer | 32840 | [32840-locomancer.json](./32840-locomancer.json) |
 | LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
