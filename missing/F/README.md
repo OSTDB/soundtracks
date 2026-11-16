@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tennis 3D | 63701 | [63701-family-tennis-3d.json](./63701-family-tennis-3d.json) |
 | Family Tennis Advance | 49581 | [49581-family-tennis-advance.json](./49581-family-tennis-advance.json) |
 | Family Tetris | 251359 | [251359-family-tetris.json](./251359-family-tetris.json) |
+| Family Ties | 281068 | [281068-family-ties.json](./281068-family-ties.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Trainer | 142814 | [142814-family-trainer.json](./142814-family-trainer.json) |
 | Family Trainer: Fuuun! Takeshi-jou 2 | 64499 | [64499-family-trainer-fuuun-takeshi-jou-2.json](./64499-family-trainer-fuuun-takeshi-jou-2.json) |
@@ -5603,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Collection | 41855 | [41855-final-fantasy-collection.json](./41855-final-fantasy-collection.json) |
 | Final Fantasy Digital Card Game | 113632 | [113632-final-fantasy-digital-card-game.json](./113632-final-fantasy-digital-card-game.json) |
 | Final Fantasy Dimensions | 19080 | [19080-final-fantasy-dimensions.json](./19080-final-fantasy-dimensions.json) |
+| Final Fantasy Elements | 281143 | [281143-final-fantasy-elements.json](./281143-final-fantasy-elements.json) |
 | Final Fantasy Essence | 323350 | [323350-final-fantasy-essence.json](./323350-final-fantasy-essence.json) |
 | Final Fantasy Explorers-Force | 27410 | [27410-final-fantasy-explorers-force.json](./27410-final-fantasy-explorers-force.json) |
 | Final Fantasy Fables: Chocobo Tales | 41830 | [41830-final-fantasy-fables-chocobo-tales.json](./41830-final-fantasy-fables-chocobo-tales.json) |
@@ -13559,6 +13561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Just Sayori | 351548 | [351548-friday-night-funkin-just-sayori.json](./351548-friday-night-funkin-just-sayori.json) |
 | Friday Night Funkin': Just Yuri | 351550 | [351550-friday-night-funkin-just-yuri.json](./351550-friday-night-funkin-just-yuri.json) |
 | Friday Night Funkin': Mario's Madness | 202414 | [202414-friday-night-funkin-marios-madness.json](./202414-friday-night-funkin-marios-madness.json) |
+| Friday Night Funkin': Mario's Madness v2 | 280994 | [280994-friday-night-funkin-marios-madness-v2.json](./280994-friday-night-funkin-marios-madness-v2.json) |
 | Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
 | Friday Night Funkin': Pibby Corrupted | 280717 | [280717-friday-night-funkin-pibby-corrupted.json](./280717-friday-night-funkin-pibby-corrupted.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
