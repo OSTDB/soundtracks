@@ -16808,6 +16808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Teacher Trouble | 269997 | [269997-arthurs-teacher-trouble.json](./269997-arthurs-teacher-trouble.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
 | Arthurian Legends | 14444 | [14444-arthurian-legends.json](./14444-arthurian-legends.json) |
+| Articrafty | 329860 | [329860-articrafty.json](./329860-articrafty.json) |
 | Artifact | 288042 | [288042-artifact.json](./288042-artifact.json) |
 | Artifact | 54572 | [54572-artifact.json](./54572-artifact.json) |
 | Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
