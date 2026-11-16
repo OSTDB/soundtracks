@@ -9788,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber County | 102067 | [102067-amber-county.json](./102067-amber-county.json) |
 | Amber Effect | 174693 | [174693-amber-effect.json](./174693-amber-effect.json) |
 | Amber Eyes | 422836 | [422836-amber-eyes.json](./422836-amber-eyes.json) |
+| Amber Halls | 242289 | [242289-amber-halls.json](./242289-amber-halls.json) |
 | Amber Island | 210903 | [210903-amber-island.json](./210903-amber-island.json) |
 | Amber Isle | 152188 | [152188-amber-isle.json](./152188-amber-isle.json) |
 | Amber Isle: Deluxe Edition | 330195 | [330195-amber-isle-deluxe-edition.json](./330195-amber-isle-deluxe-edition.json) |
