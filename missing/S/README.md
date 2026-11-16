@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Momoko no Ukiuki Carnival | 6583 | [6583-sakura-momoko-no-ukiuki-carnival.json](./6583-sakura-momoko-no-ukiuki-carnival.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
+| Sakura Moyu: As the Night's, Reincarnation | 363610 | [363610-sakura-moyu-as-the-nights-reincarnation.json](./363610-sakura-moyu-as-the-nights-reincarnation.json) |
 | Sakura no Gakkou | 181829 | [181829-sakura-no-gakkou.json](./181829-sakura-no-gakkou.json) |
 | Sakura no Kumo * Scarlet no Koi | 144891 | [144891-sakura-no-kumo-scarlet-no-koi.json](./144891-sakura-no-kumo-scarlet-no-koi.json) |
 | Sakura no Kumo: Scarlet no Koi | 171265 | [171265-sakura-no-kumo-scarlet-no-koi.json](./171265-sakura-no-kumo-scarlet-no-koi.json) |
@@ -17003,6 +17004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
 | Snapimals | 96832 | [96832-snapimals.json](./96832-snapimals.json) |
 | Snapkid's | 49812 | [49812-snapkids.json](./49812-snapkids.json) |
+| Snaplt | 363588 | [363588-snaplt.json](./363588-snaplt.json) |
 | Snapped Distance | 362580 | [362580-snapped-distance.json](./362580-snapped-distance.json) |
 | Snapper | 13757 | [13757-snapper.json](./13757-snapper.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
@@ -23906,6 +23908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Challenge 2025 | 346262 | [346262-speedway-challenge-2025.json](./346262-speedway-challenge-2025.json) |
 | Speedway Challenge Career | 107685 | [107685-speedway-challenge-career.json](./107685-speedway-challenge-career.json) |
 | Speedway Challenge League | 46477 | [46477-speedway-challenge-league.json](./46477-speedway-challenge-league.json) |
+| Speedway Club Manager 25 | 363583 | [363583-speedway-club-manager-25.json](./363583-speedway-club-manager-25.json) |
 | Speedway Heroes | 60951 | [60951-speedway-heroes.json](./60951-speedway-heroes.json) |
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
 | Speedway Legends: Overdrive Racing | 332338 | [332338-speedway-legends-overdrive-racing.json](./332338-speedway-legends-overdrive-racing.json) |
@@ -30745,6 +30748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop and Move | 150360 | [150360-stop-and-move.json](./150360-stop-and-move.json) |
 | Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
 | Stop Ball | 273013 | [273013-stop-ball.json](./273013-stop-ball.json) |
+| Stop Breaking My Castle! | 363582 | [363582-stop-breaking-my-castle.json](./363582-stop-breaking-my-castle.json) |
 | Stop Burying Me Alive, Beautiful! | 270154 | [270154-stop-burying-me-alive-beautiful.json](./270154-stop-burying-me-alive-beautiful.json) |
 | Stop Cats | 116739 | [116739-stop-cats.json](./116739-stop-cats.json) |
 | Stop Dead | 254037 | [254037-stop-dead.json](./254037-stop-dead.json) |
