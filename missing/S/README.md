@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadness & Solitude | 61149 | [61149-sadness-and-solitude.json](./61149-sadness-and-solitude.json) |
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
+| Sadturn | 281063 | [281063-sadturn.json](./281063-sadturn.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
 | Saechi's Adventure | 316043 | [316043-saechis-adventure.json](./316043-saechis-adventure.json) |
 | Saeki Chizu Shiki Yumemihada: Dream Skincare | 68435 | [68435-saeki-chizu-shiki-yumemihada-dream-skincare.json](./68435-saeki-chizu-shiki-yumemihada-dream-skincare.json) |
@@ -13467,6 +13468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Sides Of Obscurity | 270905 | [270905-six-sides-of-obscurity.json](./270905-six-sides-of-obscurity.json) |
 | Six Sides of the World | 34930 | [34930-six-sides-of-the-world.json](./34930-six-sides-of-the-world.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
+| Six Six | 280997 | [280997-six-six.json](./280997-six-six.json) |
 | Six Souls: Requiem for Forgotten Birds | 263642 | [263642-six-souls-requiem-for-forgotten-birds.json](./263642-six-souls-requiem-for-forgotten-birds.json) |
 | Six Temples | 123785 | [123785-six-temples.json](./123785-six-temples.json) |
 | Six textures | 271297 | [271297-six-textures.json](./271297-six-textures.json) |
@@ -13901,6 +13903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi | 329090 | [329090-skibidi.json](./329090-skibidi.json) |
 | Skibidi Backrooms | 273427 | [273427-skibidi-backrooms.json](./273427-skibidi-backrooms.json) |
 | Skibidi Battle: Toilets Attack | 257581 | [257581-skibidi-battle-toilets-attack.json](./257581-skibidi-battle-toilets-attack.json) |
+| Skibidi Friends | 280990 | [280990-skibidi-friends.json](./280990-skibidi-friends.json) |
 | Skibidi Gyatrooms | 328709 | [328709-skibidi-gyatrooms.json](./328709-skibidi-gyatrooms.json) |
 | Skibidi Jeffrey: I Want to Cum Inside Femboy Hitler | 366629 | [366629-skibidi-jeffrey-i-want-to-cum-inside-femboy-hitler.json](./366629-skibidi-jeffrey-i-want-to-cum-inside-femboy-hitler.json) |
 | Skibidi Mahr Simulator 64 | 339822 | [339822-skibidi-mahr-simulator-64.json](./339822-skibidi-mahr-simulator-64.json) |
@@ -19647,6 +19650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Secret Rings | 5167 | [5167-sonic-and-the-secret-rings.json](./5167-sonic-and-the-secret-rings.json) |
 | Sonic and the Sunken Temple | 326159 | [326159-sonic-and-the-sunken-temple.json](./326159-sonic-and-the-sunken-temple.json) |
 | Sonic and the World Rings | 331982 | [331982-sonic-and-the-world-rings.json](./331982-sonic-and-the-world-rings.json) |
+| Sonic Anniversary | 281079 | [281079-sonic-anniversary.json](./281079-sonic-anniversary.json) |
 | Sonic Anniversary | 319496 | [319496-sonic-anniversary.json](./319496-sonic-anniversary.json) |
 | Sonic Arcus 2D | 319463 | [319463-sonic-arcus-2d.json](./319463-sonic-arcus-2d.json) |
 | Sonic Arena | 265884 | [265884-sonic-arena.json](./265884-sonic-arena.json) |
@@ -27457,6 +27461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
 | Star of Providence: Into Oblivion | 358816 | [358816-star-of-providence-into-oblivion.json](./358816-star-of-providence-into-oblivion.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
+| Star of Quiz | 281081 | [281081-star-of-quiz.json](./281081-star-of-quiz.json) |
 | Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
 | Star Ores Inc. | 347604 | [347604-star-ores-inc.json](./347604-star-ores-inc.json) |
 | Star Overdrive: Deluxe DLC | 373467 | [373467-star-overdrive-deluxe-dlc.json](./373467-star-overdrive-deluxe-dlc.json) |
@@ -33667,6 +33672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sui Mario | 268353 | [268353-sui-mario.json](./268353-sui-mario.json) |
 | Sui Mario 2 | 268354 | [268354-sui-mario-2.json](./268354-sui-mario-2.json) |
 | Suí Yuán Xiūxiān | 367465 | [367465-sui-yuan-xiuxian.json](./367465-sui-yuan-xiuxian.json) |
+| Suibotsu Haikyo no Piano Droid | 282174 | [282174-suibotsu-haikyo-no-piano-droid.json](./282174-suibotsu-haikyo-no-piano-droid.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
@@ -36951,6 +36957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pipeline | 24662 | [24662-super-pipeline.json](./24662-super-pipeline.json) |
 | Super Pipeline 2 | 13039 | [13039-super-pipeline-2.json](./13039-super-pipeline-2.json) |
 | Super Pipeline II | 39135 | [39135-super-pipeline-ii.json](./39135-super-pipeline-ii.json) |
+| Super Piracy Quest | 281083 | [281083-super-piracy-quest.json](./281083-super-piracy-quest.json) |
 | Super Pitfall | 48233 | [48233-super-pitfall.json](./48233-super-pitfall.json) |
 | Super Pitfall II | 285408 | [285408-super-pitfall-ii.json](./285408-super-pitfall-ii.json) |
 | Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
@@ -40326,6 +40333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
 | Sword Coast Legends: Rage of Demons | 19477 | [19477-sword-coast-legends-rage-of-demons.json](./19477-sword-coast-legends-rage-of-demons.json) |
 | Sword Collector | 245787 | [245787-sword-collector.json](./245787-sword-collector.json) |
+| Sword Dance | 282180 | [282180-sword-dance.json](./282180-sword-dance.json) |
 | Sword Dancer | 117673 | [117673-sword-dancer.json](./117673-sword-dancer.json) |
 | Sword Dancer Zoukangou | 64309 | [64309-sword-dancer-zoukangou.json](./64309-sword-dancer-zoukangou.json) |
 | Sword Dancer: Kyoujin no Megami | 343961 | [343961-sword-dancer-kyoujin-no-megami.json](./343961-sword-dancer-kyoujin-no-megami.json) |
