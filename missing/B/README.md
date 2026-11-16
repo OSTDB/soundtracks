@@ -4296,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Live: Halloween Live | 179764 | [179764-battle-live-halloween-live.json](./179764-battle-live-halloween-live.json) |
 | Battle Live! School of idols | 350676 | [350676-battle-live-school-of-idols.json](./350676-battle-live-school-of-idols.json) |
+| Battle Live! The Idol School Collection | 408343 | [408343-battle-live-the-idol-school-collection.json](./408343-battle-live-the-idol-school-collection.json) |
 | Battle Lode Runner | 42086 | [42086-battle-lode-runner.json](./42086-battle-lode-runner.json) |
 | Battle Lust | 152615 | [152615-battle-lust.json](./152615-battle-lust.json) |
 | Battle Mage | 236729 | [236729-battle-mage.json](./236729-battle-mage.json) |
@@ -5235,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BB Adventure | 368823 | [368823-bb-adventure.json](./368823-bb-adventure.json) |
 | BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
 | BB Carom Billiard | 103117 | [103117-bb-carom-billiard.json](./103117-bb-carom-billiard.json) |
+| BB TwinPack | 408313 | [408313-bb-twinpack.json](./408313-bb-twinpack.json) |
 | BBA Ghost Story: Ward Edition | 358254 | [358254-bba-ghost-story-ward-edition.json](./358254-bba-ghost-story-ward-edition.json) |
 | Bball Destiny | 424627 | [424627-bball-destiny.json](./424627-bball-destiny.json) |
 | BBB: Boost Boom Boots | 362792 | [362792-bbb-boost-boom-boots.json](./362792-bbb-boost-boom-boots.json) |
@@ -9137,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Soup | 72354 | [72354-bio-soup.json](./72354-bio-soup.json) |
 | Bio Spheres | 13402 | [13402-bio-spheres.json](./13402-bio-spheres.json) |
 | Bio Worm | 134359 | [134359-bio-worm.json](./134359-bio-worm.json) |
+| Bio-Defense | 408354 | [408354-bio-defense.json](./408354-bio-defense.json) |
 | Bio-Hazard | 313593 | [313593-bio-hazard.json](./313593-bio-hazard.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
 | Bio-Morph Encyclopedia | 274060 | [274060-bio-morph-encyclopedia.json](./274060-bio-morph-encyclopedia.json) |
@@ -17975,6 +17978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Dimensions | 212599 | [212599-broken-dimensions.json](./212599-broken-dimensions.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
+| Broken Dreams | 408176 | [408176-broken-dreams.json](./408176-broken-dreams.json) |
 | Broken Drive | 416958 | [416958-broken-drive.json](./416958-broken-drive.json) |
 | Broken Dungeon | 149116 | [149116-broken-dungeon.json](./149116-broken-dungeon.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
