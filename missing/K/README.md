@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katakoi Contrast: Way of Parting Vol.1 | 116380 | [116380-katakoi-contrast-way-of-parting-vol-1.json](./116380-katakoi-contrast-way-of-parting-vol-1.json) |
 | Katakoi Contrast: Way of Parting Vol.2 | 240475 | [240475-katakoi-contrast-way-of-parting-vol-2.json](./240475-katakoi-contrast-way-of-parting-vol-2.json) |
 | Katakoi Contrast: Way of Parting Vol.3 | 240477 | [240477-katakoi-contrast-way-of-parting-vol-3.json](./240477-katakoi-contrast-way-of-parting-vol-3.json) |
+| Katakoi no Tsuki Extra | 416453 | [416453-katakoi-no-tsuki-extra.json](./416453-katakoi-no-tsuki-extra.json) |
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
 | Katamar1k | 284302 | [284302-katamar1k.json](./284302-katamar1k.json) |
 | Katamari | 284763 | [284763-katamari.json](./284763-katamari.json) |
