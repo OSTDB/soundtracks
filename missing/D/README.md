@@ -6197,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
 | Deep Voyage | 97244 | [97244-deep-voyage.json](./97244-deep-voyage.json) |
 | Deep VR | 18217 | [18217-deep-vr.json](./18217-deep-vr.json) |
+| Deep Water | 334375 | [334375-deep-water.json](./334375-deep-water.json) |
 | Deep Water | 85965 | [85965-deep-water.json](./85965-deep-water.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deep Within the Mist | 359344 | [359344-deep-within-the-mist.json](./359344-deep-within-the-mist.json) |
@@ -7009,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Vector | 332859 | [332859-delta-vector.json](./332859-delta-vector.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
 | Delta Wing | 28562 | [28562-delta-wing.json](./28562-delta-wing.json) |
+| Delta Z. INC | 334384 | [334384-delta-z-inc.json](./334384-delta-z-inc.json) |
 | Delta Zero | 189346 | [189346-delta-zero.json](./189346-delta-zero.json) |
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
@@ -10056,6 +10058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Hard with a Vengeance | 245292 | [245292-die-hard-with-a-vengeance.json](./245292-die-hard-with-a-vengeance.json) |
 | Die Hard: Nakatomi Plaza | 18219 | [18219-die-hard-nakatomi-plaza.json](./18219-die-hard-nakatomi-plaza.json) |
 | Die Hard: Vendetta | 3876 | [3876-die-hard-vendetta.json](./3876-die-hard-vendetta.json) |
+| Die Harder | 334392 | [334392-die-harder.json](./334392-die-harder.json) |
 | Die Höhlenwelt Saga: Der Leuchtende Kristall | 80021 | [80021-die-hohlenwelt-saga-der-leuchtende-kristall.json](./80021-die-hohlenwelt-saga-der-leuchtende-kristall.json) |
 | Die in the Dark | 105284 | [105284-die-in-the-dark.json](./105284-die-in-the-dark.json) |
 | Die in the Dungeon | 147285 | [147285-die-in-the-dungeon.json](./147285-die-in-the-dungeon.json) |
@@ -10680,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Shift | 272106 | [272106-dimension-shift.json](./272106-dimension-shift.json) |
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
 | Dimension Shifter | 187555 | [187555-dimension-shifter.json](./187555-dimension-shifter.json) |
+| Dimension Soldier | 335530 | [335530-dimension-soldier.json](./335530-dimension-soldier.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
 | Dimension Warrior | 334232 | [334232-dimension-warrior.json](./334232-dimension-warrior.json) |
@@ -13616,6 +13620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Love and Literature | 336270 | [336270-doki-doki-love-and-literature.json](./336270-doki-doki-love-and-literature.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Mario 64 | 243906 | [243906-doki-doki-mario-64.json](./243906-doki-doki-mario-64.json) |
+| Doki Doki MC's Revenge | 332723 | [332723-doki-doki-mcs-revenge.json](./332723-doki-doki-mcs-revenge.json) |
 | Doki Doki Meme Club | 257599 | [257599-doki-doki-meme-club.json](./257599-doki-doki-meme-club.json) |
 | Doki Doki Meme Club 2: Rise of The Dark Memes | 336243 | [336243-doki-doki-meme-club-2-rise-of-the-dark-memes.json](./336243-doki-doki-meme-club-2-rise-of-the-dark-memes.json) |
 | Doki Doki Memories of Nothing | 333832 | [333832-doki-doki-memories-of-nothing.json](./333832-doki-doki-memories-of-nothing.json) |
@@ -22039,6 +22044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyschronia: Chronos Alternate - Episode II: The Eleventh Hour | 276037 | [276037-dyschronia-chronos-alternate-episode-ii-the-eleventh-hour.json](./276037-dyschronia-chronos-alternate-episode-ii-the-eleventh-hour.json) |
 | Dyschronia: Chronos Alternate - Episode III: End of Hallucinations | 253185 | [253185-dyschronia-chronos-alternate-episode-iii-end-of-hallucinations.json](./253185-dyschronia-chronos-alternate-episode-iii-end-of-hallucinations.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
+| Dysfunct | 334363 | [334363-dysfunct.json](./334363-dysfunct.json) |
 | Dysfunctional Systems: Learning to Manage Chaos | 16647 | [16647-dysfunctional-systems-learning-to-manage-chaos.json](./16647-dysfunctional-systems-learning-to-manage-chaos.json) |
 | Dysfunctional Systems: Orientation | 51951 | [51951-dysfunctional-systems-orientation.json](./51951-dysfunctional-systems-orientation.json) |
 | Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
