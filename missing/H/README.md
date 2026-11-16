@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Shift-Two | 247554 | [247554-half-life-shift-two.json](./247554-half-life-shift-two.json) |
 | Half-Life: Soldier | 221803 | [221803-half-life-soldier.json](./221803-half-life-soldier.json) |
 | Half-Life: Source | 6744 | [6744-half-life-source.json](./6744-half-life-source.json) |
+| Half-Life: Source Fixed | 255320 | [255320-half-life-source-fixed.json](./255320-half-life-source-fixed.json) |
 | Half-Life: Sum | 218736 | [218736-half-life-sum.json](./218736-half-life-sum.json) |
 | Half-Life: The Alpha Unit | 221883 | [221883-half-life-the-alpha-unit.json](./221883-half-life-the-alpha-unit.json) |
 | Half-Life: The Challenger Deep 2 | 196853 | [196853-half-life-the-challenger-deep-2.json](./196853-half-life-the-challenger-deep-2.json) |
@@ -3211,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Shores | 172898 | [172898-haunted-shores.json](./172898-haunted-shores.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
+| Haunted Station | 258168 | [258168-haunted-station.json](./258168-haunted-station.json) |
 | Haunted Stories | 188751 | [188751-haunted-stories.json](./188751-haunted-stories.json) |
 | Haunted Streamer | 331236 | [331236-haunted-streamer.json](./331236-haunted-streamer.json) |
 | Haunted Theme Park Hidden Object | 99503 | [99503-haunted-theme-park-hidden-object.json](./99503-haunted-theme-park-hidden-object.json) |
@@ -8787,6 +8789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Stakes: Texas Hold'Em | 67219 | [67219-high-stakes-texas-holdem.json](./67219-high-stakes-texas-holdem.json) |
 | High Steel | 12610 | [12610-high-steel.json](./12610-high-steel.json) |
 | High Strangeness | 10093 | [10093-high-strangeness.json](./10093-high-strangeness.json) |
+| High Strategy: Oradros | 258154 | [258154-high-strategy-oradros.json](./258154-high-strategy-oradros.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
 | High Tech Low Life | 207426 | [207426-high-tech-low-life.json](./207426-high-tech-low-life.json) |
@@ -9576,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
 | Hitler on the Moon | 154766 | [154766-hitler-on-the-moon.json](./154766-hitler-on-the-moon.json) |
+| Hitler Waifu | 255292 | [255292-hitler-waifu.json](./255292-hitler-waifu.json) |
 | Hitler: BDSM Bunker | 393699 | [393699-hitler-bdsm-bunker.json](./393699-hitler-bdsm-bunker.json) |
 | Hitm3 | 291870 | [291870-hitm3.json](./291870-hitm3.json) |
 | Hitmaker Tycoon | 395704 | [395704-hitmaker-tycoon.json](./395704-hitmaker-tycoon.json) |
@@ -12493,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotshot | 94623 | [94623-hotshot.json](./94623-hotshot.json) |
 | Hotshots | 390116 | [390116-hotshots.json](./390116-hotshots.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
+| Hotspace station | 255300 | [255300-hotspace-station.json](./255300-hotspace-station.json) |
 | Hotspot Football | 58190 | [58190-hotspot-football.json](./58190-hotspot-football.json) |
 | Hottaaman no Chisoko Tanken | 48466 | [48466-hottaaman-no-chisoko-tanken.json](./48466-hottaaman-no-chisoko-tanken.json) |
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
