@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waffle Cone Willie | 311888 | [311888-waffle-cone-willie.json](./311888-waffle-cone-willie.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
 | Waffle Kitty | 356967 | [356967-waffle-kitty.json](./356967-waffle-kitty.json) |
+| Waffle Painter | 379263 | [379263-waffle-painter.json](./379263-waffle-painter.json) |
 | Waffle Painter | 383699 | [383699-waffle-painter.json](./383699-waffle-painter.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
 | Waffles' Cranked Stories | 382500 | [382500-waffles-cranked-stories.json](./382500-waffles-cranked-stories.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wantame Music Channel: Doko Demo Style | 370291 | [370291-wantame-music-channel-doko-demo-style.json](./370291-wantame-music-channel-doko-demo-style.json) |
 | Wanted | 311763 | [311763-wanted.json](./311763-wanted.json) |
 | Wanted | 325069 | [325069-wanted.json](./325069-wanted.json) |
+| Wanted | 378087 | [378087-wanted.json](./378087-wanted.json) |
 | Wanted | 40528 | [40528-wanted.json](./40528-wanted.json) |
 | Wanted | 72380 | [72380-wanted.json](./72380-wanted.json) |
 | Wanted | 75090 | [75090-wanted.json](./75090-wanted.json) |
@@ -10127,6 +10129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of Earth | 72289 | [72289-wrath-of-earth.json](./72289-wrath-of-earth.json) |
 | Wrath of Loki: VR Adventure | 23892 | [23892-wrath-of-loki-vr-adventure.json](./23892-wrath-of-loki-vr-adventure.json) |
+| Wrath of Mynah | 379273 | [379273-wrath-of-mynah.json](./379273-wrath-of-mynah.json) |
 | Wrath of Olympus | 60232 | [60232-wrath-of-olympus.json](./60232-wrath-of-olympus.json) |
 | Wrath of Psychobos | 349944 | [349944-wrath-of-psychobos.json](./349944-wrath-of-psychobos.json) |
 | Wrath of Sweetheart | 399350 | [399350-wrath-of-sweetheart.json](./399350-wrath-of-sweetheart.json) |
