@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Quest Bundle | 280418 | [280418-queens-quest-bundle.json](./280418-queens-quest-bundle.json) |
 | Queen's Quest Collection | 53489 | [53489-queens-quest-collection.json](./53489-queens-quest-collection.json) |
 | Queen's Quest: Tower of Darkness | 34747 | [34747-queens-quest-tower-of-darkness.json](./34747-queens-quest-tower-of-darkness.json) |
+| Queen's Revenge | 334398 | [334398-queens-revenge.json](./334398-queens-revenge.json) |
 | Queen's Revolution: The Romance in Upheavals | 170628 | [170628-queens-revolution-the-romance-in-upheavals.json](./170628-queens-revolution-the-romance-in-upheavals.json) |
 | Queen's River | 344559 | [344559-queens-river.json](./344559-queens-river.json) |
 | Queen's Tales: Sins of the Past | 98522 | [98522-queens-tales-sins-of-the-past.json](./98522-queens-tales-sins-of-the-past.json) |
@@ -852,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queens | 242695 | [242695-queens.json](./242695-queens.json) |
 | Queens | 320636 | [320636-queens.json](./320636-queens.json) |
 | Queens Blade | 137380 | [137380-queens-blade.json](./137380-queens-blade.json) |
+| Queens Casino | 334381 | [334381-queens-casino.json](./334381-queens-casino.json) |
 | Queens Climax | 385303 | [385303-queens-climax.json](./385303-queens-climax.json) |
 | Queens Garden: Sakura Season | 133151 | [133151-queens-garden-sakura-season.json](./133151-queens-garden-sakura-season.json) |
 | Queens Master | 342547 | [342547-queens-master.json](./342547-queens-master.json) |
@@ -1111,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Yoga Training | 47877 | [47877-quick-yoga-training.json](./47877-quick-yoga-training.json) |
 | Quick-Change | 176953 | [176953-quick-change.json](./176953-quick-change.json) |
 | Quick, Draw! | 205795 | [205795-quick-draw.json](./205795-quick-draw.json) |
+| Quick, Quack! | 335552 | [335552-quick-quack.json](./335552-quick-quack.json) |
 | Quick! Mom's Home! | 107013 | [107013-quick-moms-home.json](./107013-quick-moms-home.json) |
 | Quick! Save the world | 381623 | [381623-quick-save-the-world.json](./381623-quick-save-the-world.json) |
 | QuickBite Express | 314200 | [314200-quickbite-express.json](./314200-quickbite-express.json) |
