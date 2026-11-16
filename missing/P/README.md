@@ -3486,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
 | Pathfinder: The Dragon's Demand | 408341 | [408341-pathfinder-the-dragons-demand.json](./408341-pathfinder-the-dragons-demand.json) |
 | Pathfinder: Wrath of the Righteous | 127254 | [127254-pathfinder-wrath-of-the-righteous.json](./127254-pathfinder-wrath-of-the-righteous.json) |
+| Pathfinder: Wrath of the Righteous - A Dance of Masks | 306135 | [306135-pathfinder-wrath-of-the-righteous-a-dance-of-masks.json](./306135-pathfinder-wrath-of-the-righteous-a-dance-of-masks.json) |
 | Pathfinder: Wrath of the Righteous - A Visitor from Distant Lands | 193129 | [193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json](./193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json) |
 | Pathfinder: Wrath of the Righteous - Cloud Version | 219312 | [219312-pathfinder-wrath-of-the-righteous-cloud-version.json](./219312-pathfinder-wrath-of-the-righteous-cloud-version.json) |
 | Pathfinder: Wrath of the Righteous - Commander Edition | 166283 | [166283-pathfinder-wrath-of-the-righteous-commander-edition.json](./166283-pathfinder-wrath-of-the-righteous-commander-edition.json) |
@@ -13091,6 +13092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Volt White 2 | 261895 | [261895-pokemon-volt-white-2.json](./261895-pokemon-volt-white-2.json) |
 | Pokémon Volt White 2 Redux | 259198 | [259198-pokemon-volt-white-2-redux.json](./259198-pokemon-volt-white-2-redux.json) |
+| Pokémon Voyager | 306157 | [306157-pokemon-voyager.json](./306157-pokemon-voyager.json) |
 | Pokémon VR: Ash's Room | 115731 | [115731-pokemon-vr-ashs-room.json](./115731-pokemon-vr-ashs-room.json) |
 | Pokémon Wack | 146556 | [146556-pokemon-wack.json](./146556-pokemon-wack.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
