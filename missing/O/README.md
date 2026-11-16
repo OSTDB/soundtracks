@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblige of Chaos | 212964 | [212964-oblige-of-chaos.json](./212964-oblige-of-chaos.json) |
 | Oblin Party | 280294 | [280294-oblin-party.json](./280294-oblin-party.json) |
 | Oblings | 387705 | [387705-oblings.json](./387705-oblings.json) |
+| Oblitacrater | 334364 | [334364-oblitacrater.json](./334364-oblitacrater.json) |
 | Obliteracy | 107375 | [107375-obliteracy.json](./107375-obliteracy.json) |
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
 | Obliterate Everything 2 | 416769 | [416769-obliterate-everything-2.json](./416769-obliterate-everything-2.json) |
@@ -1044,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offensive Combat: Redux! | 54697 | [54697-offensive-combat-redux.json](./54697-offensive-combat-redux.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
+| Office 29 | 325743 | [325743-office-29.json](./325743-office-29.json) |
 | Office 5 | 372953 | [372953-office-5.json](./372953-office-5.json) |
 | Office Aberrations | 366543 | [366543-office-aberrations.json](./366543-office-aberrations.json) |
 | Office Affairs | 258819 | [258819-office-affairs.json](./258819-office-affairs.json) |
@@ -1335,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Ship Arena | 107756 | [107756-oh-ship-arena.json](./107756-oh-ship-arena.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
 | Oh Shit Boulder | 211691 | [211691-oh-shit-boulder.json](./211691-oh-shit-boulder.json) |
+| Oh Shit I'm Dreaming Again | 324020 | [324020-oh-shit-im-dreaming-again.json](./324020-oh-shit-im-dreaming-again.json) |
 | Oh Shit! | 70242 | [70242-oh-shit.json](./70242-oh-shit.json) |
 | Oh Silent Night | 376164 | [376164-oh-silent-night.json](./376164-oh-silent-night.json) |
 | Oh Snake! | 182780 | [182780-oh-snake.json](./182780-oh-snake.json) |
@@ -1398,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
 | Ohenro-San: Hosshin no Dojo | 111996 | [111996-ohenro-san-hosshin-no-dojo.json](./111996-ohenro-san-hosshin-no-dojo.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
+| Ohio Distinctive Software Vol. 1 | 315174 | [315174-ohio-distinctive-software-vol-1.json](./315174-ohio-distinctive-software-vol-1.json) |
 | Ohio John: Get Out! | 165790 | [165790-ohio-john-get-out.json](./165790-ohio-john-get-out.json) |
 | Ohka Bots | 233831 | [233831-ohka-bots.json](./233831-ohka-bots.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
@@ -2281,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
 | On the Run | 57778 | [57778-on-the-run.json](./57778-on-the-run.json) |
 | On the Run: Rogue Heroes | 285296 | [285296-on-the-run-rogue-heroes.json](./285296-on-the-run-rogue-heroes.json) |
+| On the Stairs | 324035 | [324035-on-the-stairs.json](./324035-on-the-stairs.json) |
 | On the Tiles | 54578 | [54578-on-the-tiles.json](./54578-on-the-tiles.json) |
 | On the Trail of the Whitetail | 127993 | [127993-on-the-trail-of-the-whitetail.json](./127993-on-the-trail-of-the-whitetail.json) |
 | On the Train | 392124 | [392124-on-the-train.json](./392124-on-the-train.json) |
@@ -3194,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
 | OneTry | 388951 | [388951-onetry.json](./388951-onetry.json) |
 | Oneway.exe | 244971 | [244971-oneway-exe.json](./244971-oneway-exe.json) |
+| OneyPlays Lost In Kickassia | 316316 | [316316-oneyplays-lost-in-kickassia.json](./316316-oneyplays-lost-in-kickassia.json) |
 | OneyPlays Lost In Kickassia Disc 2 | 316317 | [316317-oneyplays-lost-in-kickassia-disc-2.json](./316317-oneyplays-lost-in-kickassia-disc-2.json) |
 | ONF: Tatakau Rasetsu he | 301935 | [301935-onf-tatakau-rasetsu-he.json](./301935-onf-tatakau-rasetsu-he.json) |
 | Ong-Bak: The Video Game | 65443 | [65443-ong-bak-the-video-game.json](./65443-ong-bak-the-video-game.json) |
@@ -4156,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle Pine | 181674 | [181674-oracle-pine.json](./181674-oracle-pine.json) |
 | Oracle Trials | 157011 | [157011-oracle-trials.json](./157011-oracle-trials.json) |
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
+| Oracle's Inn | 335528 | [335528-oracles-inn.json](./335528-oracles-inn.json) |
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
 | Oraga Land Shusai: Best Farmer Shuukaku-Sai | 44382 | [44382-oraga-land-shusai-best-farmer-shuukaku-sai.json](./44382-oraga-land-shusai-best-farmer-shuukaku-sai.json) |
 | Oraiah | 148628 | [148628-oraiah.json](./148628-oraiah.json) |
