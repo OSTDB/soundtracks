@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatır Batır | 426015 | [426015-yat-r-bat-r.json](./426015-yat-r-bat-r.json) |
 | Yatohime Zankikou | 77699 | [77699-yatohime-zankikou.json](./77699-yatohime-zankikou.json) |
 | Yatohime Zankikou Extra Kimagure Karasu to Yanchahime | 77927 | [77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json](./77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json) |
+| Yatohime Zankikou: Ken no Maki | 337852 | [337852-yatohime-zankikou-ken-no-maki.json](./337852-yatohime-zankikou-ken-no-maki.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yatsuakari | 361942 | [361942-yatsuakari.json](./361942-yatsuakari.json) |
 | Yatsumeguri | 309055 | [309055-yatsumeguri.json](./309055-yatsumeguri.json) |
