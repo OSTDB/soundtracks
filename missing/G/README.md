@@ -7652,6 +7652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf vs. Zombies | 244852 | [244852-golf-vs-zombies.json](./244852-golf-vs-zombies.json) |
 | Golf vs. Zombies | 310526 | [310526-golf-vs-zombies.json](./310526-golf-vs-zombies.json) |
+| Golf with Guns | 287826 | [287826-golf-with-guns.json](./287826-golf-with-guns.json) |
 | Golf with the Lads | 250881 | [250881-golf-with-the-lads.json](./250881-golf-with-the-lads.json) |
 | Golf With Your Friends | 24985 | [24985-golf-with-your-friends.json](./24985-golf-with-your-friends.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
@@ -9714,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Panda | 114263 | [114263-gravity-panda.json](./114263-gravity-panda.json) |
 | Gravity Pilot! | 194366 | [194366-gravity-pilot.json](./194366-gravity-pilot.json) |
 | Gravity Power | 28390 | [28390-gravity-power.json](./28390-gravity-power.json) |
+| Gravity Pro | 287799 | [287799-gravity-pro.json](./287799-gravity-pro.json) |
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
 | Gravity puzzles | 81844 | [81844-gravity-puzzles.json](./81844-gravity-puzzles.json) |
 | Gravity Quest | 39764 | [39764-gravity-quest.json](./39764-gravity-quest.json) |
@@ -10007,6 +10009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
 | Greedland | 237194 | [237194-greedland.json](./237194-greedland.json) |
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
+| Greedshot | 287812 | [287812-greedshot.json](./287812-greedshot.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
 | Greedy | 403879 | [403879-greedy.json](./403879-greedy.json) |
@@ -12245,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Ugly | 190920 | [190920-gun-ugly.json](./190920-gun-ugly.json) |
 | Gun Up | 382596 | [382596-gun-up.json](./382596-gun-up.json) |
 | Gun vs. Bottles | 233442 | [233442-gun-vs-bottles.json](./233442-gun-vs-bottles.json) |
+| Gun vs. Zombies | 287809 | [287809-gun-vs-zombies.json](./287809-gun-vs-zombies.json) |
 | Gun Warrior: The Rider From Nowhere | 27537 | [27537-gun-warrior-the-rider-from-nowhere.json](./27537-gun-warrior-the-rider-from-nowhere.json) |
 | Gun Witch | 142183 | [142183-gun-witch.json](./142183-gun-witch.json) |
 | Gun X Gunner | 384153 | [384153-gun-x-gunner.json](./384153-gun-x-gunner.json) |
