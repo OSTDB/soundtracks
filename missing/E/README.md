@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | easy! A deluxe brainteaser! | 100613 | [100613-easy-a-deluxe-brainteaser.json](./100613-easy-a-deluxe-brainteaser.json) |
 | EasyAim Trainer | 339648 | [339648-easyaim-trainer.json](./339648-easyaim-trainer.json) |
 | EasyChemistryLab | 202755 | [202755-easychemistrylab.json](./202755-easychemistrylab.json) |
+| EasyCraft Online | 398620 | [398620-easycraft-online.json](./398620-easycraft-online.json) |
 | Easyland | 309231 | [309231-easyland.json](./309231-easyland.json) |
 | Easyland 2 | 328065 | [328065-easyland-2.json](./328065-easyland-2.json) |
 | Easyland 3 | 379973 | [379973-easyland-3.json](./379973-easyland-3.json) |
@@ -3361,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Evening | 290593 | [290593-embers-of-the-evening.json](./290593-embers-of-the-evening.json) |
 | Embers of the Gods | 403648 | [403648-embers-of-the-gods.json](./403648-embers-of-the-gods.json) |
 | Embers of the Night | 348863 | [348863-embers-of-the-night.json](./348863-embers-of-the-night.json) |
+| Embers of the Uncrowned | 399316 | [399316-embers-of-the-uncrowned.json](./399316-embers-of-the-uncrowned.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
 | Embers of the Zombie Battlemage: Halloween - Real Werewolves of Massachusetts | 225927 | [225927-embers-of-the-zombie-battlemage-halloween-real-werewolves-of-massachusetts.json](./225927-embers-of-the-zombie-battlemage-halloween-real-werewolves-of-massachusetts.json) |
 | Embers of War | 423939 | [423939-embers-of-war.json](./423939-embers-of-war.json) |
@@ -9150,6 +9152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Exspelled | 414723 | [414723-exspelled.json](./414723-exspelled.json) |
 | ExSpire | 158315 | [158315-exspire.json](./158315-exspire.json) |
+| Exstetra | 399308 | [399308-exstetra.json](./399308-exstetra.json) |
 | Exstetra | 6769 | [6769-exstetra.json](./6769-exstetra.json) |
 | Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
 | Exsys | 126230 | [126230-exsys.json](./126230-exsys.json) |
