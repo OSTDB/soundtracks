@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Lazlo: Leaky Lake Games | 2808 | [2808-camp-lazlo-leaky-lake-games.json](./2808-camp-lazlo-leaky-lake-games.json) |
 | Camp Lazlo: Squirreled Away | 416333 | [416333-camp-lazlo-squirreled-away.json](./416333-camp-lazlo-squirreled-away.json) |
 | Camp Life: Wilderness Survival 2025 | 362209 | [362209-camp-life-wilderness-survival-2025.json](./362209-camp-life-wilderness-survival-2025.json) |
+| Camp Manager Simulator | 417092 | [417092-camp-manager-simulator.json](./417092-camp-manager-simulator.json) |
 | Camp McTex Lake | 136530 | [136530-camp-mctex-lake.json](./136530-camp-mctex-lake.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Golf | 165738 | [165738-casual-golf.json](./165738-casual-golf.json) |
 | Casual Mahjong | 293478 | [293478-casual-mahjong.json](./293478-casual-mahjong.json) |
 | Casual Mania! | 206903 | [206903-casual-mania.json](./206903-casual-mania.json) |
+| Casual Mystery Solving Bite-Sized Mysteries | 417871 | [417871-casual-mystery-solving-bite-sized-mysteries.json](./417871-casual-mystery-solving-bite-sized-mysteries.json) |
 | Casual Penalty | 100462 | [100462-casual-penalty.json](./100462-casual-penalty.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
 | Casual Pro Wrestling | 189306 | [189306-casual-pro-wrestling.json](./189306-casual-pro-wrestling.json) |
@@ -4460,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Ace | 134881 | [134881-cat-ace.json](./134881-cat-ace.json) |
 | Cat Adoption Tales | 390739 | [390739-cat-adoption-tales.json](./390739-cat-adoption-tales.json) |
 | Cat Adventure | 187566 | [187566-cat-adventure.json](./187566-cat-adventure.json) |
+| Cat Adventure | 417882 | [417882-cat-adventure.json](./417882-cat-adventure.json) |
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
 | Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
@@ -4997,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Me If You Can | 351088 | [351088-catch-me-if-you-can.json](./351088-catch-me-if-you-can.json) |
 | Catch Me Not | 421613 | [421613-catch-me-not.json](./421613-catch-me-not.json) |
 | Catch Me! | 199706 | [199706-catch-me.json](./199706-catch-me.json) |
+| Catch Meow if You Can | 417837 | [417837-catch-meow-if-you-can.json](./417837-catch-meow-if-you-can.json) |
 | Catch Mind | 125870 | [125870-catch-mind.json](./125870-catch-mind.json) |
 | Catch My Color | 295275 | [295275-catch-my-color.json](./295275-catch-my-color.json) |
 | Catch of the day | 302072 | [302072-catch-of-the-day.json](./302072-catch-of-the-day.json) |
@@ -6360,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Bikes: Mega Ramp Stunts | 100835 | [100835-chained-bikes-mega-ramp-stunts.json](./100835-chained-bikes-mega-ramp-stunts.json) |
 | Chained Cars | 401380 | [401380-chained-cars.json](./401380-chained-cars.json) |
 | Chained Cucumber | 270541 | [270541-chained-cucumber.json](./270541-chained-cucumber.json) |
+| Chained Drivers | 417890 | [417890-chained-drivers.json](./417890-chained-drivers.json) |
 | Chained Echoes: Ashes of Elrant | 324936 | [324936-chained-echoes-ashes-of-elrant.json](./324936-chained-echoes-ashes-of-elrant.json) |
 | Chained Heroes | 322435 | [322435-chained-heroes.json](./322435-chained-heroes.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
@@ -10514,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Driving Simulator 2 | 164764 | [164764-city-driving-simulator-2.json](./164764-city-driving-simulator-2.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
 | City Eater | 206421 | [206421-city-eater.json](./206421-city-eater.json) |
+| City Escape | 417128 | [417128-city-escape.json](./417128-city-escape.json) |
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
 | City Eye | 87967 | [87967-city-eye.json](./87967-city-eye.json) |
@@ -11235,6 +11241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Solitaire НD | 87921 | [87921-classic-solitaire-d.json](./87921-classic-solitaire-d.json) |
 | Classic Sonic 3D Adventure | 324961 | [324961-classic-sonic-3d-adventure.json](./324961-classic-sonic-3d-adventure.json) |
 | Classic Sonic Bundle | 276083 | [276083-classic-sonic-bundle.json](./276083-classic-sonic-bundle.json) |
+| Classic Sonic Collection | 417116 | [417116-classic-sonic-collection.json](./417116-classic-sonic-collection.json) |
 | Classic Sonic Improvement | 246691 | [246691-classic-sonic-improvement.json](./246691-classic-sonic-improvement.json) |
 | Classic Space Adventure | 367357 | [367357-classic-space-adventure.json](./367357-classic-space-adventure.json) |
 | Classic Sport Driving | 142575 | [142575-classic-sport-driving.json](./142575-classic-sport-driving.json) |
@@ -11449,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleany's Window Service | 277555 | [277555-cleanys-window-service.json](./277555-cleanys-window-service.json) |
 | Clear Can | 241708 | [241708-clear-can.json](./241708-clear-can.json) |
 | Clear for Action | 24675 | [24675-clear-for-action.json](./24675-clear-for-action.json) |
+| Clear It You Can | 417891 | [417891-clear-it-you-can.json](./417891-clear-it-you-can.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
 | Clear Office | 338080 | [338080-clear-office.json](./338080-clear-office.json) |
 | Clear Plan | 271070 | [271070-clear-plan.json](./271070-clear-plan.json) |
@@ -13090,6 +13098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin idle | 379844 | [379844-coin-idle.json](./379844-coin-idle.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
+| Coin maker simulator | 417119 | [417119-coin-maker-simulator.json](./417119-coin-maker-simulator.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
 | Coin Operated Carnage | 208518 | [208518-coin-operated-carnage.json](./208518-coin-operated-carnage.json) |
 | Coin Pickers | 127804 | [127804-coin-pickers.json](./127804-coin-pickers.json) |
@@ -13639,6 +13648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Lim | 236141 | [236141-color-lim.json](./236141-color-lim.json) |
 | Color Lines | 370392 | [370392-color-lines.json](./370392-color-lines.json) |
+| Color Lines | 417881 | [417881-color-lines.json](./417881-color-lines.json) |
 | Color Lines | 50119 | [50119-color-lines.json](./50119-color-lines.json) |
 | Color Lines - Classic Puzzle | 103142 | [103142-color-lines-classic-puzzle.json](./103142-color-lines-classic-puzzle.json) |
 | Color Madness | 367049 | [367049-color-madness.json](./367049-color-madness.json) |
@@ -15582,6 +15592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Ninja Gaiden III - The Ancient Ship of Doom | 399298 | [399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Console Archives: Ninja-Kid II | 395248 | [395248-console-archives-ninja-kid-ii.json](./395248-console-archives-ninja-kid-ii.json) |
 | Console Archives: Nobunaga's Ambition | 394383 | [394383-console-archives-nobunagas-ambition.json](./394383-console-archives-nobunagas-ambition.json) |
+| Console Archives: Nobunaga's Ambition II | 417859 | [417859-console-archives-nobunagas-ambition-ii.json](./417859-console-archives-nobunagas-ambition-ii.json) |
 | Console Archives: Rhapsody - A Musical Adventure | 409617 | [409617-console-archives-rhapsody-a-musical-adventure.json](./409617-console-archives-rhapsody-a-musical-adventure.json) |
 | Console Archives: Rhapsody II - Ballad of the Little Princess | 415220 | [415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json](./415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json) |
 | Console Archives: Rohga - Armor Force | 400163 | [400163-console-archives-rohga-armor-force.json](./400163-console-archives-rohga-armor-force.json) |
@@ -20989,6 +21000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
 | Crypt Robbery | 333285 | [333285-crypt-robbery.json](./333285-crypt-robbery.json) |
+| Crypt Runner | 417081 | [417081-crypt-runner.json](./417081-crypt-runner.json) |
 | Crypt Stalker | 140858 | [140858-crypt-stalker.json](./140858-crypt-stalker.json) |
 | Crypt Stalker: Boss Rush+ | 303873 | [303873-crypt-stalker-boss-rush.json](./303873-crypt-stalker-boss-rush.json) |
 | Crypt Stalker: Deluxe Edition | 303843 | [303843-crypt-stalker-deluxe-edition.json](./303843-crypt-stalker-deluxe-edition.json) |
