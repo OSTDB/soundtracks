@@ -3524,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: The Exquisite Night Chimes | 257476 | [257476-genshin-impact-the-exquisite-night-chimes.json](./257476-genshin-impact-the-exquisite-night-chimes.json) |
 | Genshin Impact: The Immovable God and the Eternal Euthymia | 257027 | [257027-genshin-impact-the-immovable-god-and-the-eternal-euthymia.json](./257027-genshin-impact-the-immovable-god-and-the-eternal-euthymia.json) |
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
+| Genshin Impact: The Rainbow Destined to Burn | 316892 | [316892-genshin-impact-the-rainbow-destined-to-burn.json](./316892-genshin-impact-the-rainbow-destined-to-burn.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genshin Impact: Truth Amongst the Pages of Purana | 400877 | [400877-genshin-impact-truth-amongst-the-pages-of-purana.json](./400877-genshin-impact-truth-amongst-the-pages-of-purana.json) |
 | Genshin Impact: Two Worlds Aflame, the Crimson Night Fades | 296820 | [296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json](./296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json) |
@@ -11650,6 +11651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Door | 301513 | [301513-guess-the-door.json](./301513-guess-the-door.json) |
 | Guess the Flag! | 305905 | [305905-guess-the-flag.json](./305905-guess-the-flag.json) |
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
+| Guess the Intro | 316887 | [316887-guess-the-intro.json](./316887-guess-the-intro.json) |
 | Guess the Line | 232738 | [232738-guess-the-line.json](./232738-guess-the-line.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
