@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day on Stroggos | 402832 | [402832-last-day-on-stroggos.json](./402832-last-day-on-stroggos.json) |
 | Last Day On The Ship | 395657 | [395657-last-day-on-the-ship.json](./395657-last-day-on-the-ship.json) |
 | Last Day Rules: Survival | 174717 | [174717-last-day-rules-survival.json](./174717-last-day-rules-survival.json) |
+| Last Day to Die | 310302 | [310302-last-day-to-die.json](./310302-last-day-to-die.json) |
 | Last Day: Zombie Survival VR | 199484 | [199484-last-day-zombie-survival-vr.json](./199484-last-day-zombie-survival-vr.json) |
 | Last Days | 154316 | [154316-last-days.json](./154316-last-days.json) |
 | Last Days | 217205 | [217205-last-days.json](./217205-last-days.json) |
@@ -7132,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 2: Cross-Controller Pack | 308671 | [308671-littlebigplanet-2-cross-controller-pack.json](./308671-littlebigplanet-2-cross-controller-pack.json) |
 | LittleBigPlanet 2: DC Comics Premium Level Pack | 308673 | [308673-littlebigplanet-2-dc-comics-premium-level-pack.json](./308673-littlebigplanet-2-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet 2: Move Pack | 308657 | [308657-littlebigplanet-2-move-pack.json](./308657-littlebigplanet-2-move-pack.json) |
+| LittleBigPlanet 2: Muppets Premium Level Kit | 308658 | [308658-littlebigplanet-2-muppets-premium-level-kit.json](./308658-littlebigplanet-2-muppets-premium-level-kit.json) |
 | LittleBigPlanet 2: Raven Costume | 344728 | [344728-littlebigplanet-2-raven-costume.json](./344728-littlebigplanet-2-raven-costume.json) |
 | LittleBigPlanet 2: Special Edition | 21717 | [21717-littlebigplanet-2-special-edition.json](./21717-littlebigplanet-2-special-edition.json) |
 | LittleBigPlanet 2: The Nightmare Before Christmas Level Kit | 308678 | [308678-littlebigplanet-2-the-nightmare-before-christmas-level-kit.json](./308678-littlebigplanet-2-the-nightmare-before-christmas-level-kit.json) |
