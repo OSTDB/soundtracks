@@ -3883,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic | 150777 | [150777-rebels-under-the-spell-of-magic.json](./150777-rebels-under-the-spell-of-magic.json) |
 | Rebels: Under the Spell of Magic - Chapter 2 | 193149 | [193149-rebels-under-the-spell-of-magic-chapter-2.json](./193149-rebels-under-the-spell-of-magic-chapter-2.json) |
+| Rebels: Under the Spell of Magic - Chapter 3 | 235962 | [235962-rebels-under-the-spell-of-magic-chapter-3.json](./235962-rebels-under-the-spell-of-magic-chapter-3.json) |
 | Rebels: Under the Spell of Magic - Chapter 4 | 267285 | [267285-rebels-under-the-spell-of-magic-chapter-4.json](./267285-rebels-under-the-spell-of-magic-chapter-4.json) |
 | Rebels: Under the Spell of Magic - Chapter 5 | 384218 | [384218-rebels-under-the-spell-of-magic-chapter-5.json](./384218-rebels-under-the-spell-of-magic-chapter-5.json) |
 | Rebelstar | 23078 | [23078-rebelstar.json](./23078-rebelstar.json) |
@@ -7107,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Fire | 4339 | [4339-return-fire.json](./4339-return-fire.json) |
 | Return Fire 2 | 73404 | [73404-return-fire-2.json](./73404-return-fire-2.json) |
 | Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
+| Return From Core | 235900 | [235900-return-from-core.json](./235900-return-from-core.json) |
 | Return Home | 115872 | [115872-return-home.json](./115872-return-home.json) |
 | Return Journey | 318340 | [318340-return-journey.json](./318340-return-journey.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
@@ -7767,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhapsody II: Ballad of the Little Princess | 238937 | [238937-rhapsody-ii-ballad-of-the-little-princess.json](./238937-rhapsody-ii-ballad-of-the-little-princess.json) |
 | Rhapsody III: Memories of Marl Kingdom | 238548 | [238548-rhapsody-iii-memories-of-marl-kingdom.json](./238548-rhapsody-iii-memories-of-marl-kingdom.json) |
 | Rhapsody in Scarlet | 416111 | [416111-rhapsody-in-scarlet.json](./416111-rhapsody-in-scarlet.json) |
+| Rhapsody of the Moon Rabbit | 236039 | [236039-rhapsody-of-the-moon-rabbit.json](./236039-rhapsody-of-the-moon-rabbit.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
 | Rhapsody: A Musical Adventure | 16997 | [16997-rhapsody-a-musical-adventure.json](./16997-rhapsody-a-musical-adventure.json) |
 | Rhapsody: A Musical Adventure | 315651 | [315651-rhapsody-a-musical-adventure.json](./315651-rhapsody-a-musical-adventure.json) |
@@ -7940,6 +7943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhyTime! | 421195 | [421195-rhytime.json](./421195-rhytime.json) |
 | Rhyup | 113899 | [113899-rhyup.json](./113899-rhyup.json) |
 | Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
+| Ria | 237712 | [237712-ria.json](./237712-ria.json) |
 | Ria Action Adventure | 197737 | [197737-ria-action-adventure.json](./197737-ria-action-adventure.json) |
 | Ria's Hook | 95213 | [95213-rias-hook.json](./95213-rias-hook.json) |
 | Riaaf the Spider | 44114 | [44114-riaaf-the-spider.json](./44114-riaaf-the-spider.json) |
@@ -10242,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rogue | 155294 | [155294-robot-rogue.json](./155294-robot-rogue.json) |
 | Robot Roller-Derby Disco Dodgeball | 12877 | [12877-robot-roller-derby-disco-dodgeball.json](./12877-robot-roller-derby-disco-dodgeball.json) |
 | Robot Ron | 266648 | [266648-robot-ron.json](./266648-robot-ron.json) |
+| Robot Room Cleaner | 235961 | [235961-robot-room-cleaner.json](./235961-robot-room-cleaner.json) |
 | Robot Rubble | 41479 | [41479-robot-rubble.json](./41479-robot-rubble.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
 | Robot Rumpus | 293305 | [293305-robot-rumpus.json](./293305-robot-rumpus.json) |
@@ -14144,6 +14149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune II: Wolf Armor + Weapon Set | 224423 | [224423-rune-ii-wolf-armor-weapon-set.json](./224423-rune-ii-wolf-armor-weapon-set.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Infinite | 195025 | [195025-rune-infinite.json](./195025-rune-infinite.json) |
+| Rune It Out | 235898 | [235898-rune-it-out.json](./235898-rune-it-out.json) |
 | Rune Jade | 77572 | [77572-rune-jade.json](./77572-rune-jade.json) |
 | Rune Knights | 138412 | [138412-rune-knights.json](./138412-rune-knights.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
