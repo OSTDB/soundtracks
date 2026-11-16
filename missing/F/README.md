@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fadeout: Underground | 154747 | [154747-fadeout-underground.json](./154747-fadeout-underground.json) |
 | Faderhead's Fist Full of Fuck You 2.0 | 97688 | [97688-faderheads-fist-full-of-fuck-you-2-0.json](./97688-faderheads-fist-full-of-fuck-you-2-0.json) |
 | FadeZone | 121283 | [121283-fadezone.json](./121283-fadezone.json) |
+| Fadin's Vacation | 369511 | [369511-fadins-vacation.json](./369511-fadins-vacation.json) |
 | Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
 | Fading | 77179 | [77179-fading.json](./77179-fading.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
@@ -7222,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish & Ships | 419042 | [419042-fish-and-ships.json](./419042-fish-and-ships.json) |
 | Fish & Trip | 97492 | [97492-fish-and-trip.json](./97492-fish-and-trip.json) |
 | Fish and Chill | 349795 | [349795-fish-and-chill.json](./349795-fish-and-chill.json) |
+| Fish and Chips | 367637 | [367637-fish-and-chips.json](./367637-fish-and-chips.json) |
 | Fish and Fight | 163867 | [163867-fish-and-fight.json](./163867-fish-and-fight.json) |
 | Fish and Groove | 151101 | [151101-fish-and-groove.json](./151101-fish-and-groove.json) |
 | Fish Bone | 226156 | [226156-fish-bone.json](./226156-fish-bone.json) |
@@ -10217,6 +10219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Park Manager | 333260 | [333260-food-park-manager.json](./333260-food-park-manager.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
 | Food Processing Simulator | 374904 | [374904-food-processing-simulator.json](./374904-food-processing-simulator.json) |
+| Food Rush | 367642 | [367642-food-rush.json](./367642-food-rush.json) |
 | Food Store Simulator | 413448 | [413448-food-store-simulator.json](./413448-food-store-simulator.json) |
 | Food Stranding | 150448 | [150448-food-stranding.json](./150448-food-stranding.json) |
 | Food Street: Restaurant Game | 249666 | [249666-food-street-restaurant-game.json](./249666-food-street-restaurant-game.json) |
