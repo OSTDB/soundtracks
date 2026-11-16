@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T10:11:45.722Z",
-  "total_soundtracks": 3450,
+  "generated_at": "2026-11-16T10:16:49.215Z",
+  "total_soundtracks": 3456,
   "games": [
     {
       "igdb_id": 292844,
@@ -1347,6 +1347,20 @@
         {
           "album_name": "Alien: Isolation (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7mZJK1B3ym6z4Nwrga6eYJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26835,
+      "game_name": "Aliens Go Home Run!",
+      "game_url": "https://ostdb.net/games/aliens-go-home-run",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27389bb1df3ad409144fa1a1b68",
+      "albums": [
+        {
+          "album_name": "Aliens Go Home Run! (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/07Wl82ZdkeQtn0a1rUyLRo",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4849,6 +4863,20 @@
         {
           "album_name": "Bloody Roar 2 (Original Soundtrack) [Remastered]",
           "spotify_url": "https://open.spotify.com/album/3azeLYDqSU5XJITCXoCMPn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28003,
+      "game_name": "Bloody Trapland 2: Curiosity",
+      "game_url": "https://ostdb.net/games/bloody-trapland-2-curiosity",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732760cb4b1cb79314b3618cbb",
+      "albums": [
+        {
+          "album_name": "Bloody Trapland 2: Curiosity (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4zlcPZpN0Q9kZKVnhOVeYg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14213,6 +14241,20 @@
       ]
     },
     {
+      "igdb_id": 27711,
+      "game_name": "Freaky Awesome",
+      "game_url": "https://ostdb.net/games/freaky-awesome",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273630021d439972cff5e4d1023",
+      "albums": [
+        {
+          "album_name": "Freaky Awesome (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2henD3XBKDBzBkrsmuU99t",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115925,
       "game_name": "Freedom Finger",
       "game_url": "https://ostdb.net/games/freedom-finger",
@@ -16199,6 +16241,20 @@
         {
           "album_name": "Gunbrella (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5koXoCmzFwAXaq002LMUs8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27084,
+      "game_name": "Gunman Taco Truck",
+      "game_url": "https://ostdb.net/games/gunman-taco-truck",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d01c8c87c2f9ad09ad013809",
+      "albums": [
+        {
+          "album_name": "Gunman Taco Truck (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2RrXI945weAFCpvzLXIwlw",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25763,6 +25819,20 @@
         {
           "album_name": "Omen Exitio: Plague (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/72ASrNJwWcRYJ4f6AqDMum",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27070,
+      "game_name": "Omen of Sorrow",
+      "game_url": "https://ostdb.net/games/omen-of-sorrow",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27381a366ff8df9086d7d899588",
+      "albums": [
+        {
+          "album_name": "Omen of Sorrow (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Izouze0ygGTM4gHjpCR18",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -43336,6 +43406,20 @@
           "album_name": "Wolfenstein: Youngblood (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0DU8ApvJxO9FjSIR7NQ5Ga",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27042,
+      "game_name": "Wonder Wickets",
+      "game_url": "https://ostdb.net/games/wonder-wickets",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273139b5bfa2f773b8eb8ba0a66",
+      "albums": [
+        {
+          "album_name": "Wonder Wickets (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0iqeQPSjRHiBOHwaXBex95",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
