@@ -4563,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
 | When Eyes Close | 360745 | [360745-when-eyes-close.json](./360745-when-eyes-close.json) |
 | When God Left Us | 247802 | [247802-when-god-left-us.json](./247802-when-god-left-us.json) |
+| When Heaven Knocks | 330042 | [330042-when-heaven-knocks.json](./330042-when-heaven-knocks.json) |
 | When Hell Freezes Over | 407416 | [407416-when-hell-freezes-over.json](./407416-when-hell-freezes-over.json) |
 | When Honor Dies | 216831 | [216831-when-honor-dies.json](./216831-when-honor-dies.json) |
 | When I Die | 187741 | [187741-when-i-die.json](./187741-when-i-die.json) |
@@ -5794,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Blood | 18875 | [18875-wild-blood.json](./18875-wild-blood.json) |
 | Wild Blue Skies | 335296 | [335296-wild-blue-skies.json](./335296-wild-blue-skies.json) |
 | Wild Boar Digging | 423642 | [423642-wild-boar-digging.json](./423642-wild-boar-digging.json) |
+| Wild Boar Survival | 334373 | [334373-wild-boar-survival.json](./334373-wild-boar-survival.json) |
 | Wild Boater | 254983 | [254983-wild-boater.json](./254983-wild-boater.json) |
 | Wild Bullets | 119292 | [119292-wild-bullets.json](./119292-wild-bullets.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
@@ -9899,6 +9901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Food | 326736 | [326736-worm-food.json](./326736-worm-food.json) |
 | Worm Game | 231396 | [231396-worm-game.json](./231396-worm-game.json) |
 | Worm Game | 278101 | [278101-worm-game.json](./278101-worm-game.json) |
+| Worm Girlfriend Dating Simulator | 329896 | [329896-worm-girlfriend-dating-simulator.json](./329896-worm-girlfriend-dating-simulator.json) |
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
 | Worm in Horror Place | 392856 | [392856-worm-in-horror-place.json](./392856-worm-in-horror-place.json) |
 | Worm Nom Nom | 182978 | [182978-worm-nom-nom.json](./182978-worm-nom-nom.json) |
