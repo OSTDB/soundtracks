@@ -12368,6 +12368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: National Park Pack | 262527 | [262527-anno-1800-national-park-pack.json](./262527-anno-1800-national-park-pack.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
+| Anno 1800: Pedestrian Zone Pack | 226525 | [226525-anno-1800-pedestrian-zone-pack.json](./226525-anno-1800-pedestrian-zone-pack.json) |
 | Anno 1800: Pioneers Edition | 110485 | [110485-anno-1800-pioneers-edition.json](./110485-anno-1800-pioneers-edition.json) |
 | Anno 1800: Pirate Cove Pack | 317336 | [317336-anno-1800-pirate-cove-pack.json](./317336-anno-1800-pirate-cove-pack.json) |
 | Anno 1800: Royal Edition | 136141 | [136141-anno-1800-royal-edition.json](./136141-anno-1800-royal-edition.json) |
@@ -17082,6 +17083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arvoch Alliance | 15114 | [15114-arvoch-alliance.json](./15114-arvoch-alliance.json) |
 | Arvoch Alliance SE | 394424 | [394424-arvoch-alliance-se.json](./394424-arvoch-alliance-se.json) |
 | Arvoch Conflict | 15113 | [15113-arvoch-conflict.json](./15113-arvoch-conflict.json) |
+| Arvoesine | 228773 | [228773-arvoesine.json](./228773-arvoesine.json) |
 | ArvusForge | 390724 | [390724-arvusforge.json](./390724-arvusforge.json) |
 | Arwinia | 141074 | [141074-arwinia.json](./141074-arwinia.json) |
 | Arx Fatalis | 602 | [602-arx-fatalis.json](./602-arx-fatalis.json) |
