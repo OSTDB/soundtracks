@@ -8361,6 +8361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossip Girl - School Queen | 87480 | [87480-gossip-girl-school-queen.json](./87480-gossip-girl-school-queen.json) |
 | Gossip Girl: Party | 238903 | [238903-gossip-girl-party.json](./238903-gossip-girl-party.json) |
 | Gossip Harbor: Merge Game | 212511 | [212511-gossip-harbor-merge-game.json](./212511-gossip-harbor-merge-game.json) |
+| Gossip School | 299056 | [299056-gossip-school.json](./299056-gossip-school.json) |
 | Gossipdle | 378256 | [378256-gossipdle.json](./378256-gossipdle.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
 | Gost of Time | 211849 | [211849-gost-of-time.json](./211849-gost-of-time.json) |
