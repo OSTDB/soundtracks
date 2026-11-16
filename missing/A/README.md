@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Matter of Caos: Episode 4 | 101913 | [101913-a-matter-of-caos-episode-4.json](./101913-a-matter-of-caos-episode-4.json) |
 | A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
 | A Matter of Murder: Second Stab | 422054 | [422054-a-matter-of-murder-second-stab.json](./422054-a-matter-of-murder-second-stab.json) |
+| A Matter of Pain | 406978 | [406978-a-matter-of-pain.json](./406978-a-matter-of-pain.json) |
 | A Matter of Principle | 226218 | [226218-a-matter-of-principle.json](./226218-a-matter-of-principle.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
 | A Matter Of Time | 280575 | [280575-a-matter-of-time.json](./280575-a-matter-of-time.json) |
@@ -7362,6 +7363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemistry | 171813 | [171813-alchemistry.json](./171813-alchemistry.json) |
 | Alchemists | 316465 | [316465-alchemists.json](./316465-alchemists.json) |
 | Alchemists' Garden | 199908 | [199908-alchemists-garden.json](./199908-alchemists-garden.json) |
+| Alchemix | 406967 | [406967-alchemix.json](./406967-alchemix.json) |
 | Alchemixum | 423634 | [423634-alchemixum.json](./423634-alchemixum.json) |
 | Alchemortis | 388779 | [388779-alchemortis.json](./388779-alchemortis.json) |
 | Alchemos | 190041 | [190041-alchemos.json](./190041-alchemos.json) |
