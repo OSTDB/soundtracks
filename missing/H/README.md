@@ -5595,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clara | 384583 | [384583-hentai-clara.json](./384583-hentai-clara.json) |
 | Hentai Class | 301673 | [301673-hentai-class.json](./301673-hentai-class.json) |
 | Hentai Cleopatra | 370009 | [370009-hentai-cleopatra.json](./370009-hentai-cleopatra.json) |
+| Hentai Clicker | 292697 | [292697-hentai-clicker.json](./292697-hentai-clicker.json) |
 | Hentai Clicker | 328706 | [328706-hentai-clicker.json](./328706-hentai-clicker.json) |
 | Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
@@ -6202,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: GOTY Edition | 301187 | [301187-hentai-stars-goty-edition.json](./301187-hentai-stars-goty-edition.json) |
 | Hentai Stars: Happy Edition | 304783 | [304783-hentai-stars-happy-edition.json](./304783-hentai-stars-happy-edition.json) |
 | Hentai Stars: Idol Tsubaki | 268590 | [268590-hentai-stars-idol-tsubaki.json](./268590-hentai-stars-idol-tsubaki.json) |
+| Hentai Stars: Legendary Edition | 291639 | [291639-hentai-stars-legendary-edition.json](./291639-hentai-stars-legendary-edition.json) |
 | Hentai Stars: Lonely Kitty Ran | 288299 | [288299-hentai-stars-lonely-kitty-ran.json](./288299-hentai-stars-lonely-kitty-ran.json) |
 | Hentai Stars: Magnificent Edition | 310430 | [310430-hentai-stars-magnificent-edition.json](./310430-hentai-stars-magnificent-edition.json) |
 | Hentai Stars: Night Rider Ran | 268583 | [268583-hentai-stars-night-rider-ran.json](./268583-hentai-stars-night-rider-ran.json) |
@@ -13502,6 +13504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Doors | 357711 | [357711-hundred-doors.json](./357711-hundred-doors.json) |
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
 | Hundred Fires: The Rising of Red Star | 195957 | [195957-hundred-fires-the-rising-of-red-star.json](./195957-hundred-fires-the-rising-of-red-star.json) |
+| Hundred Fires: The rising of red star - Episode 2 | 290057 | [290057-hundred-fires-the-rising-of-red-star-episode-2.json](./290057-hundred-fires-the-rising-of-red-star-episode-2.json) |
 | Hundred Fires: The Rising of Red Star - Episode 3 | 264808 | [264808-hundred-fires-the-rising-of-red-star-episode-3.json](./264808-hundred-fires-the-rising-of-red-star-episode-3.json) |
 | Hundred Fires: The Rising of Red Star Episode 2 | 400067 | [400067-hundred-fires-the-rising-of-red-star-episode-2.json](./400067-hundred-fires-the-rising-of-red-star-episode-2.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
