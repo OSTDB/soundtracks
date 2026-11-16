@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladrão de Corpos | 293560 | [293560-ladrao-de-corpos.json](./293560-ladrao-de-corpos.json) |
 | Lady & Lonely Boy: Ojou-sama to Bocchi-kun | 308619 | [308619-lady-and-lonely-boy-ojou-sama-to-bocchi-kun.json](./308619-lady-and-lonely-boy-ojou-sama-to-bocchi-kun.json) |
 | Lady and Blade | 121869 | [121869-lady-and-blade.json](./121869-lady-and-blade.json) |
+| Lady and the Papyrus | 392528 | [392528-lady-and-the-papyrus.json](./392528-lady-and-the-papyrus.json) |
 | Lady At The Costco Gave Me Her Extra Hot Dog Soda Combo | 399751 | [399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json](./399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
 | Lady Bono!! Dynamites | 242339 | [242339-lady-bono-dynamites.json](./242339-lady-bono-dynamites.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Will | 33240 | [33240-last-will.json](./33240-last-will.json) |
 | Last Window: The Secret of Cape West | 22958 | [22958-last-window-the-secret-of-cape-west.json](./22958-last-window-the-secret-of-cape-west.json) |
 | Last Wings | 26365 | [26365-last-wings.json](./26365-last-wings.json) |
+| Last Winter | 393675 | [393675-last-winter.json](./393675-last-winter.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
 | Last Wish | 259194 | [259194-last-wish.json](./259194-last-wish.json) |
 | Last Wood | 104562 | [104562-last-wood.json](./104562-last-wood.json) |
@@ -5172,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life with a Homunculus | 364408 | [364408-life-with-a-homunculus.json](./364408-life-with-a-homunculus.json) |
 | Life with Horses 3D | 85251 | [85251-life-with-horses-3d.json](./85251-life-with-horses-3d.json) |
 | Life with Mary | 150513 | [150513-life-with-mary.json](./150513-life-with-mary.json) |
+| Life Without Reason in a Different World | 392525 | [392525-life-without-reason-in-a-different-world.json](./392525-life-without-reason-in-a-different-world.json) |
 | Life Without You | 316727 | [316727-life-without-you.json](./316727-life-without-you.json) |
 | Life-Term | 354581 | [354581-life-term.json](./354581-life-term.json) |
 | Life-Winner Cong's Double Dragon Dream | 173874 | [173874-life-winner-congs-double-dragon-dream.json](./173874-life-winner-congs-double-dragon-dream.json) |
@@ -11380,8 +11383,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Professor | 369158 | [369158-lustful-professor.json](./369158-lustful-professor.json) |
 | Lustful Pussies | 204179 | [204179-lustful-pussies.json](./204179-lustful-pussies.json) |
 | Lustful Roommates | 367287 | [367287-lustful-roommates.json](./367287-lustful-roommates.json) |
+| Lustful Survival | 392535 | [392535-lustful-survival.json](./392535-lustful-survival.json) |
 | Lustful Tribe | 153038 | [153038-lustful-tribe.json](./153038-lustful-tribe.json) |
 | Lustless | 241251 | [241251-lustless.json](./241251-lustless.json) |
+| Lustlock Labyrinth | 392537 | [392537-lustlock-labyrinth.json](./392537-lustlock-labyrinth.json) |
 | Lustpunk 69 | 418720 | [418720-lustpunk-69.json](./418720-lustpunk-69.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
 | Lustration: A Detective Story | 427288 | [427288-lustration-a-detective-story.json](./427288-lustration-a-detective-story.json) |
