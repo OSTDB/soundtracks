@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OhShape | 124406 | [124406-ohshape.json](./124406-ohshape.json) |
 | OhShape Ultimate | 299488 | [299488-ohshape-ultimate.json](./299488-ohshape-ultimate.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
+| Oi Katamari Damacy-Kun | 243429 | [243429-oi-katamari-damacy-kun.json](./243429-oi-katamari-damacy-kun.json) |
 | Oi, Innkeep! | 96121 | [96121-oi-innkeep.json](./96121-oi-innkeep.json) |
 | Oi, Innkeep! - Chronicles! | 115567 | [115567-oi-innkeep-chronicles.json](./115567-oi-innkeep-chronicles.json) |
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
