@@ -5757,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globulos Mania | 62447 | [62447-globulos-mania.json](./62447-globulos-mania.json) |
 | Globulos Party | 66981 | [66981-globulos-party.json](./66981-globulos-party.json) |
 | Globulous | 411987 | [411987-globulous.json](./411987-globulous.json) |
+| Globulus | 354655 | [354655-globulus.json](./354655-globulus.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
 | Glocal Hexcite | 37529 | [37529-glocal-hexcite.json](./37529-glocal-hexcite.json) |
 | Glocal Hexcite | 419400 | [419400-glocal-hexcite.json](./419400-glocal-hexcite.json) |
@@ -6581,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Quest: Completed Edition | 295416 | [295416-goblin-quest-completed-edition.json](./295416-goblin-quest-completed-edition.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Quest: Remake | 313534 | [313534-goblin-quest-remake.json](./313534-goblin-quest-remake.json) |
+| Goblin Quest: Void | 351331 | [351331-goblin-quest-void.json](./351331-goblin-quest-void.json) |
 | Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
 | Goblin Rush | 149647 | [149647-goblin-rush.json](./149647-goblin-rush.json) |
 | Goblin Shaman | 348914 | [348914-goblin-shaman.json](./348914-goblin-shaman.json) |
@@ -8554,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrabBag | 107936 | [107936-grabbag.json](./107936-grabbag.json) |
 | Grabbed by the Ghoulies | 324860 | [324860-grabbed-by-the-ghoulies.json](./324860-grabbed-by-the-ghoulies.json) |
 | Grabbed by the Ghoulies | 5849 | [5849-grabbed-by-the-ghoulies.json](./5849-grabbed-by-the-ghoulies.json) |
+| Grabber | 354656 | [354656-grabber.json](./354656-grabber.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabbles | 61741 | [61741-grabbles.json](./61741-grabbles.json) |
 | Grabe 4x4 | 233310 | [233310-grabe-4x4.json](./233310-grabe-4x4.json) |
