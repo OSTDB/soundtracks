@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barmark | 114665 | [114665-barmark.json](./114665-barmark.json) |
 | Barmy Burgers | 41185 | [41185-barmy-burgers.json](./41185-barmy-burgers.json) |
 | Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
+| Barn 51 | 300561 | [300561-barn-51.json](./300561-barn-51.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
 | Barn Finders | 114437 | [114437-barn-finders.json](./114437-barn-finders.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
@@ -20607,6 +20608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushy Man | 371295 | [371295-bushy-man.json](./371295-bushy-man.json) |
 | Busin 0: Wizardry Alternative Neo | 59213 | [59213-busin-0-wizardry-alternative-neo.json](./59213-busin-0-wizardry-alternative-neo.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
+| Business Affairs | 299061 | [299061-business-affairs.json](./299061-business-affairs.json) |
 | Business Boardwalk | 146812 | [146812-business-boardwalk.json](./146812-business-boardwalk.json) |
 | Business Clicker | 83364 | [83364-business-clicker.json](./83364-business-clicker.json) |
 | Business Empire | 235374 | [235374-business-empire.json](./235374-business-empire.json) |
