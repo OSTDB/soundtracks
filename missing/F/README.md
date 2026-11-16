@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fawn the Florist | 374109 | [374109-fawn-the-florist.json](./374109-fawn-the-florist.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
 | Fawnix | 65069 | [65069-fawnix.json](./65069-fawnix.json) |
+| FawnRun | 287819 | [287819-fawnrun.json](./287819-fawnrun.json) |
 | Fax | 39535 | [39535-fax.json](./39535-fax.json) |
 | Fax 2 | 407847 | [407847-fax-2.json](./407847-fax-2.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
