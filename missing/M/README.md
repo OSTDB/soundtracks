@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Father | 3203 | [3203-mad-father.json](./3203-mad-father.json) |
 | Mad Fighter | 133199 | [133199-mad-fighter.json](./133199-mad-fighter.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
+| Mad Freebording Snowboarding Free | 232079 | [232079-mad-freebording-snowboarding-free.json](./232079-mad-freebording-snowboarding-free.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
 | Mad Games Tycoon 2 | 142661 | [142661-mad-games-tycoon-2.json](./142661-mad-games-tycoon-2.json) |
 | Mad Gardener: Zombie Massacre | 81129 | [81129-mad-gardener-zombie-massacre.json](./81129-mad-gardener-zombie-massacre.json) |
@@ -3657,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manos: The Hands of Choice | 343399 | [343399-manos-the-hands-of-choice.json](./343399-manos-the-hands-of-choice.json) |
 | Manos: The Hands of Fate | 11526 | [11526-manos-the-hands-of-fate.json](./11526-manos-the-hands-of-fate.json) |
 | Manpuku | 266407 | [266407-manpuku.json](./266407-manpuku.json) |
+| Mans Not Hot | 233146 | [233146-mans-not-hot.json](./233146-mans-not-hot.json) |
 | ManServant: Gay Visual Novel | 229115 | [229115-manservant-gay-visual-novel.json](./229115-manservant-gay-visual-novel.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
@@ -6836,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxwell's Puzzling Demon | 289521 | [289521-maxwells-puzzling-demon.json](./289521-maxwells-puzzling-demon.json) |
 | Maxwell's Wicked Dollhouse | 215617 | [215617-maxwells-wicked-dollhouse.json](./215617-maxwells-wicked-dollhouse.json) |
 | Maxwell's World | 281504 | [281504-maxwells-world.json](./281504-maxwells-world.json) |
+| MaxWord | 232074 | [232074-maxword.json](./232074-maxword.json) |
 | Maxx GP | 94403 | [94403-maxx-gp.json](./94403-maxx-gp.json) |
 | Maxxed Out Racing | 64210 | [64210-maxxed-out-racing.json](./64210-maxxed-out-racing.json) |
 | Maxxed Out Racing: Nitro | 43394 | [43394-maxxed-out-racing-nitro.json](./43394-maxxed-out-racing-nitro.json) |
@@ -8184,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet and Fuck Kingdom | 341222 | [341222-meet-and-fuck-kingdom.json](./341222-meet-and-fuck-kingdom.json) |
 | Meet and Fuck Leila | 221557 | [221557-meet-and-fuck-leila.json](./221557-meet-and-fuck-leila.json) |
 | Meet and Fuck My Favorite Teacher | 221618 | [221618-meet-and-fuck-my-favorite-teacher.json](./221618-meet-and-fuck-my-favorite-teacher.json) |
+| Meet Ball Girls | 233142 | [233142-meet-ball-girls.json](./233142-meet-ball-girls.json) |
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
 | Meet Cute: A Sweet New Chapter | 337681 | [337681-meet-cute-a-sweet-new-chapter.json](./337681-meet-cute-a-sweet-new-chapter.json) |
 | Meet Cute: Beach | 207417 | [207417-meet-cute-beach.json](./207417-meet-cute-beach.json) |
@@ -18556,6 +18560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Come Out | 177765 | [177765-monsters-come-out.json](./177765-monsters-come-out.json) |
 | Monsters Domain | 187056 | [187056-monsters-domain.json](./187056-monsters-domain.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
+| Monsters have feelings too! | 232192 | [232192-monsters-have-feelings-too.json](./232192-monsters-have-feelings-too.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
 | Monsters in Cards | 380844 | [380844-monsters-in-cards.json](./380844-monsters-in-cards.json) |
 | MonsterS in haha Island | 54464 | [54464-monsters-in-haha-island.json](./54464-monsters-in-haha-island.json) |
