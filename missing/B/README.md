@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bars | 178480 | [178480-bars.json](./178480-bars.json) |
 | Bars and Balance | 74672 | [74672-bars-and-balance.json](./74672-bars-and-balance.json) |
 | Bars of Black and White | 263669 | [263669-bars-of-black-and-white.json](./263669-bars-of-black-and-white.json) |
+| Bart Bash | 307354 | [307354-bart-bash.json](./307354-bart-bash.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart Bike Fun | 365247 | [365247-bart-bike-fun.json](./365247-bart-bike-fun.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
