@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
 | Gem Excavator | 223943 | [223943-gem-excavator.json](./223943-gem-excavator.json) |
 | Gem Forge | 30867 | [30867-gem-forge.json](./30867-gem-forge.json) |
+| Gem Galaxy | 272978 | [272978-gem-galaxy.json](./272978-gem-galaxy.json) |
 | Gem Gem Monster | 228551 | [228551-gem-gem-monster.json](./228551-gem-gem-monster.json) |
 | Gem Hunter | 29057 | [29057-gem-hunter.json](./29057-gem-hunter.json) |
 | Gem Hunter | 304160 | [304160-gem-hunter.json](./304160-gem-hunter.json) |
@@ -4193,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Buster:Village | 401063 | [401063-ghost-buster-village.json](./401063-ghost-buster-village.json) |
 | Ghost Cam | 224801 | [224801-ghost-cam.json](./224801-ghost-cam.json) |
 | Ghost Car | 385440 | [385440-ghost-car.json](./385440-ghost-car.json) |
+| Ghost Carver | 272986 | [272986-ghost-carver.json](./272986-ghost-carver.json) |
 | Ghost Case | 174696 | [174696-ghost-case.json](./174696-ghost-case.json) |
 | Ghost Case | 415228 | [415228-ghost-case.json](./415228-ghost-case.json) |
 | Ghost Cash Collect | 150704 | [150704-ghost-cash-collect.json](./150704-ghost-cash-collect.json) |
@@ -4672,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
 | Ghoul School | 48163 | [48163-ghoul-school.json](./48163-ghoul-school.json) |
+| Ghoul Smash | 272989 | [272989-ghoul-smash.json](./272989-ghoul-smash.json) |
 | Ghoul Yeah Bunny | 250741 | [250741-ghoul-yeah-bunny.json](./250741-ghoul-yeah-bunny.json) |
 | Ghoulboy | 76023 | [76023-ghoulboy.json](./76023-ghoulboy.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
@@ -7051,7 +7054,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
 | Godzilla: Battle Line | 145860 | [145860-godzilla-battle-line.json](./145860-godzilla-battle-line.json) |
 | Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
-| Godzilla: Destroy All Monsters Melee Remastered | 404939 | [404939-godzilla-destroy-all-monsters-melee-remastered.json](./404939-godzilla-destroy-all-monsters-melee-remastered.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
 | Godzilla: Domination! | 49298 | [49298-godzilla-domination.json](./49298-godzilla-domination.json) |
 | Godzilla: Kaiju Collection | 135560 | [135560-godzilla-kaiju-collection.json](./135560-godzilla-kaiju-collection.json) |
@@ -7833,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
 | Goo! Goo! Soundy | 73039 | [73039-goo-goo-soundy.json](./73039-goo-goo-soundy.json) |
+| Goob | 272990 | [272990-goob.json](./272990-goob.json) |
 | Goob Wants an Android Girlfriend | 390244 | [390244-goob-wants-an-android-girlfriend.json](./390244-goob-wants-an-android-girlfriend.json) |
 | Gooba Ball | 300696 | [300696-gooba-ball.json](./300696-gooba-ball.json) |
 | GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
@@ -10289,6 +10292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Area | 240765 | [240765-grey-area.json](./240765-grey-area.json) |
 | Grey Block | 190454 | [190454-grey-block.json](./190454-grey-block.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
+| Grey Cat | 272988 | [272988-grey-cat.json](./272988-grey-cat.json) |
 | Grey Cat | 401701 | [401701-grey-cat.json](./401701-grey-cat.json) |
 | Grey Cloaks of Aron: The Sleeping Village | 417236 | [417236-grey-cloaks-of-aron-the-sleeping-village.json](./417236-grey-cloaks-of-aron-the-sleeping-village.json) |
 | Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
@@ -10916,6 +10920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grocery Store Tycoon | 297116 | [297116-grocery-store-tycoon.json](./297116-grocery-store-tycoon.json) |
 | Grocket | 192741 | [192741-grocket.json](./192741-grocket.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
+| Grog | 272987 | [272987-grog.json](./272987-grog.json) |
 | Grog | 276924 | [276924-grog.json](./276924-grog.json) |
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
 | Grogger | 289122 | [289122-grogger.json](./289122-grogger.json) |
@@ -11910,7 +11915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Season Pass 1 | 254962 | [254962-guilty-gear-strive-season-pass-1.json](./254962-guilty-gear-strive-season-pass-1.json) |
 | Guilty Gear: Strive - Season Pass 2 | 254967 | [254967-guilty-gear-strive-season-pass-2.json](./254967-guilty-gear-strive-season-pass-2.json) |
 | Guilty Gear: Strive - Season Pass 4 | 309271 | [309271-guilty-gear-strive-season-pass-4.json](./309271-guilty-gear-strive-season-pass-4.json) |
-| Guilty Gear: Strive - Season Pass 5 | 397773 | [397773-guilty-gear-strive-season-pass-5.json](./397773-guilty-gear-strive-season-pass-5.json) |
 | Guilty Gear: Strive - Special Colors for Sol and Ky | 254507 | [254507-guilty-gear-strive-special-colors-for-sol-and-ky.json](./254507-guilty-gear-strive-special-colors-for-sol-and-ky.json) |
 | Guilty Gear: Strive - Ultimate Edition | 139986 | [139986-guilty-gear-strive-ultimate-edition.json](./139986-guilty-gear-strive-ultimate-edition.json) |
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
