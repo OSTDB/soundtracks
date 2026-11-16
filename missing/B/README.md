@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Rush 2 | 322656 | [322656-ball-rush-2.json](./322656-ball-rush-2.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Scooping Friends | 342307 | [342307-ball-scooping-friends.json](./342307-ball-scooping-friends.json) |
+| Ball Scratch Simulator | 414648 | [414648-ball-scratch-simulator.json](./414648-ball-scratch-simulator.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
 | Ball Shoot! | 87364 | [87364-ball-shoot.json](./87364-ball-shoot.json) |
 | Ball Shot: Fling to Hoop | 75555 | [75555-ball-shot-fling-to-hoop.json](./75555-ball-shot-fling-to-hoop.json) |
@@ -10133,6 +10134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole Assault | 46405 | [46405-black-hole-assault.json](./46405-black-hole-assault.json) |
 | Black Hole Escape | 293515 | [293515-black-hole-escape.json](./293515-black-hole-escape.json) |
 | Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
+| Black Hole Grow Forever | 415379 | [415379-black-hole-grow-forever.json](./415379-black-hole-grow-forever.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
 | Black Hole Havoc | 340852 | [340852-black-hole-havoc.json](./340852-black-hole-havoc.json) |
 | Black Hole Hazard | 32515 | [32515-black-hole-hazard.json](./32515-black-hole-hazard.json) |
@@ -13789,6 +13791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boiled | 392010 | [392010-boiled.json](./392010-boiled.json) |
 | Boiler & Blood | 428105 | [428105-boiler-and-blood.json](./428105-boiler-and-blood.json) |
+| Boiler Room | 415378 | [415378-boiler-room.json](./415378-boiler-room.json) |
 | Boiling Bolt | 32983 | [32983-boiling-bolt.json](./32983-boiling-bolt.json) |
 | Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
 | Boiling Point: Road to Hell | 9508 | [9508-boiling-point-road-to-hell.json](./9508-boiling-point-road-to-hell.json) |
