@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night With Natalie | 371045 | [371045-a-night-with-natalie.json](./371045-a-night-with-natalie.json) |
 | A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
 | A Night With Neil | 243602 | [243602-a-night-with-neil.json](./243602-a-night-with-neil.json) |
+| A Night With: Bartender | 310318 | [310318-a-night-with-bartender.json](./310318-a-night-with-bartender.json) |
 | A Night With: Brazilian Waifu | 342818 | [342818-a-night-with-brazilian-waifu.json](./342818-a-night-with-brazilian-waifu.json) |
 | A Night With: Emily | 331294 | [331294-a-night-with-emily.json](./331294-a-night-with-emily.json) |
 | A Night With: Spirit | 318180 | [318180-a-night-with-spirit.json](./318180-a-night-with-spirit.json) |
@@ -7822,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Burger Shop | 223485 | [223485-alices-burger-shop.json](./223485-alices-burger-shop.json) |
 | Alice's Desktop Adventure | 416353 | [416353-alices-desktop-adventure.json](./416353-alices-desktop-adventure.json) |
 | Alice's Gaze | 405818 | [405818-alices-gaze.json](./405818-alices-gaze.json) |
+| Alice's Hanny Hanny Crush! | 312475 | [312475-alices-hanny-hanny-crush.json](./312475-alices-hanny-hanny-crush.json) |
 | Alice's Jigsaw: Time Travel | 163005 | [163005-alices-jigsaw-time-travel.json](./163005-alices-jigsaw-time-travel.json) |
 | Alice's Jigsaw: Time Travel 2 | 163001 | [163001-alices-jigsaw-time-travel-2.json](./163001-alices-jigsaw-time-travel-2.json) |
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
@@ -18750,6 +18752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrox: Hostile Space Excavation | 34133 | [34133-astrox-hostile-space-excavation.json](./34133-astrox-hostile-space-excavation.json) |
 | Astrozombies | 138617 | [138617-astrozombies.json](./138617-astrozombies.json) |
 | Astrozone | 104240 | [104240-astrozone.json](./104240-astrozone.json) |
+| Astrum Vanguard | 310299 | [310299-astrum-vanguard.json](./310299-astrum-vanguard.json) |
 | Astrumis: Survive Together | 321058 | [321058-astrumis-survive-together.json](./321058-astrumis-survive-together.json) |
 | Astrune Academy | 303834 | [303834-astrune-academy.json](./303834-astrune-academy.json) |
 | Astyanax | 215084 | [215084-astyanax.json](./215084-astyanax.json) |
