@@ -7932,6 +7932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Luck Citizen | 305777 | [305777-good-luck-citizen.json](./305777-good-luck-citizen.json) |
 | Good Luck Crossing | 344393 | [344393-good-luck-crossing.json](./344393-good-luck-crossing.json) |
 | Good Luck Have Fun | 202723 | [202723-good-luck-have-fun.json](./202723-good-luck-have-fun.json) |
+| Good Luck My Lord | 258225 | [258225-good-luck-my-lord.json](./258225-good-luck-my-lord.json) |
 | Good Luck Seducing an Ace Witch | 310520 | [310520-good-luck-seducing-an-ace-witch.json](./310520-good-luck-seducing-an-ace-witch.json) |
 | Good Luck, Little Truck! | 422106 | [422106-good-luck-little-truck.json](./422106-good-luck-little-truck.json) |
 | Good Luck, Stay Safe | 217118 | [217118-good-luck-stay-safe.json](./217118-good-luck-stay-safe.json) |
@@ -8405,6 +8406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotchaball | 252006 | [252006-gotchaball.json](./252006-gotchaball.json) |
 | Gotchi Guardians | 354980 | [354980-gotchi-guardians.json](./354980-gotchi-guardians.json) |
+| Gote to Handa | 261472 | [261472-gote-to-handa.json](./261472-gote-to-handa.json) |
 | Goth Dating Sim 2022 | 192221 | [192221-goth-dating-sim-2022.json](./192221-goth-dating-sim-2022.json) |
 | Goth Obsession | 401266 | [401266-goth-obsession.json](./401266-goth-obsession.json) |
 | Gotha | 92102 | [92102-gotha.json](./92102-gotha.json) |
