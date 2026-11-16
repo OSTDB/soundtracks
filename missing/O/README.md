@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
 | Onward: Asylum | 314556 | [314556-onward-asylum.json](./314556-onward-asylum.json) |
 | Onward! Autobattles | 422108 | [422108-onward-autobattles.json](./422108-onward-autobattles.json) |
+| Onwards and Upwards | 401215 | [401215-onwards-and-upwards.json](./401215-onwards-and-upwards.json) |
 | Onwelt | 278881 | [278881-onwelt.json](./278881-onwelt.json) |
 | Onyanko Town | 48405 | [48405-onyanko-town.json](./48405-onyanko-town.json) |
 | Onychomp: Lush Journey | 296300 | [296300-onychomp-lush-journey.json](./296300-onychomp-lush-journey.json) |
