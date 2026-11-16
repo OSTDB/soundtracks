@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am A I | 188597 | [188597-i-am-a-i.json](./188597-i-am-a-i.json) |
 | I am a Man | 135120 | [135120-i-am-a-man.json](./135120-i-am-a-man.json) |
 | I am a Princess from Another World | 364231 | [364231-i-am-a-princess-from-another-world.json](./364231-i-am-a-princess-from-another-world.json) |
+| I Am a Rock | 389236 | [389236-i-am-a-rock.json](./389236-i-am-a-rock.json) |
 | I am a Senior Official | 368696 | [368696-i-am-a-senior-official.json](./368696-i-am-a-senior-official.json) |
 | I am a Serial Killer | 257819 | [257819-i-am-a-serial-killer.json](./257819-i-am-a-serial-killer.json) |
 | I Am a Teacher: Super Mario Sweater | 41246 | [41246-i-am-a-teacher-super-mario-sweater.json](./41246-i-am-a-teacher-super-mario-sweater.json) |
@@ -4775,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Gods Among Us - Zombie Mode | 75455 | [75455-injustice-gods-among-us-zombie-mode.json](./75455-injustice-gods-among-us-zombie-mode.json) |
 | Ink | 14580 | [14580-ink.json](./14580-ink.json) |
 | Ink | 155774 | [155774-ink.json](./155774-ink.json) |
+| Ink & Cursor | 391362 | [391362-ink-and-cursor.json](./391362-ink-and-cursor.json) |
 | Ink & Paper: DoodleCut | 238796 | [238796-ink-and-paper-doodlecut.json](./238796-ink-and-paper-doodlecut.json) |
 | Ink & Paper: DoodleCut - Animals DLC | 385181 | [385181-ink-and-paper-doodlecut-animals-dlc.json](./385181-ink-and-paper-doodlecut-animals-dlc.json) |
 | Ink & Paper: DoodleCut - Complete Edition | 385202 | [385202-ink-and-paper-doodlecut-complete-edition.json](./385202-ink-and-paper-doodlecut-complete-edition.json) |
