@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paravox | 299089 | [299089-paravox.json](./299089-paravox.json) |
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
 | ParaWorld | 9926 | [9926-paraworld.json](./9926-paraworld.json) |
+| Paraxima | 399304 | [399304-paraxima.json](./399304-paraxima.json) |
 | Parcel | 17699 | [17699-parcel.json](./17699-parcel.json) |
 | Parcel Corps | 252860 | [252860-parcel-corps.json](./252860-parcel-corps.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
@@ -7814,6 +7815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | PinBall Escape | 397282 | [397282-pinball-escape.json](./397282-pinball-escape.json) |
+| Pinball Extravaganza | 399161 | [399161-pinball-extravaganza.json](./399161-pinball-extravaganza.json) |
 | Pinball Fantasies | 242310 | [242310-pinball-fantasies.json](./242310-pinball-fantasies.json) |
 | Pinball Fantasies | 6023 | [6023-pinball-fantasies.json](./6023-pinball-fantasies.json) |
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
