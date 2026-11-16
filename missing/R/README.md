@@ -7639,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revomon | 153597 | [153597-revomon.json](./153597-revomon.json) |
 | Revs | 13750 | [13750-revs.json](./13750-revs.json) |
 | Revs+ | 44126 | [44126-revs.json](./44126-revs.json) |
+| Revue Starlight El Dorado | 230580 | [230580-revue-starlight-el-dorado.json](./230580-revue-starlight-el-dorado.json) |
 | Revue Starlight Re Live | 117187 | [117187-revue-starlight-re-live.json](./117187-revue-starlight-re-live.json) |
 | Revv Racing | 172500 | [172500-revv-racing.json](./172500-revv-racing.json) |
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
@@ -12697,6 +12698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosy Manga | 167386 | [167386-rosy-manga.json](./167386-rosy-manga.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | rOt | 88231 | [88231-rot.json](./88231-rot.json) |
+| Rot | 230560 | [230560-rot.json](./230560-rot.json) |
 | Rot | 399759 | [399759-rot.json](./399759-rot.json) |
 | rOt 2 | 107519 | [107519-rot-2.json](./107519-rot-2.json) |
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
