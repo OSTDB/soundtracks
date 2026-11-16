@@ -6789,6 +6789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
 | No.13813 | 403923 | [403923-no-13813.json](./403923-no-13813.json) |
 | No.8 High School | 333506 | [333506-no-8-high-school.json](./333506-no-8-high-school.json) |
+| No.9 | 297388 | [297388-no-9.json](./297388-no-9.json) |
 | No.Break Brick | 244643 | [244643-no-break-brick.json](./244643-no-break-brick.json) |
 | No.HazedHeart | 272963 | [272963-no-hazedheart.json](./272963-no-hazedheart.json) |
 | No.L85 | 148763 | [148763-no-l85.json](./148763-no-l85.json) |
