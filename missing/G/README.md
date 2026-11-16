@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garou: Mark of the Wolves | 10605 | [10605-garou-mark-of-the-wolves.json](./10605-garou-mark-of-the-wolves.json) |
 | Garouden Breakblow | 78509 | [78509-garouden-breakblow.json](./78509-garouden-breakblow.json) |
 | Garouden Breakblow: Fist or Twist | 66497 | [66497-garouden-breakblow-fist-or-twist.json](./66497-garouden-breakblow-fist-or-twist.json) |
+| Garret | 214086 | [214086-garret.json](./214086-garret.json) |
 | Garrett the Slug | 70613 | [70613-garrett-the-slug.json](./70613-garrett-the-slug.json) |
 | Garrick's Hollow | 414702 | [414702-garricks-hollow.json](./414702-garricks-hollow.json) |
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
