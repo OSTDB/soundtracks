@@ -5893,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seize the Clay | 118957 | [118957-seize-the-clay.json](./118957-seize-the-clay.json) |
 | Seize The Elixir | 377941 | [377941-seize-the-elixir.json](./377941-seize-the-elixir.json) |
 | Seize the Night | 193812 | [193812-seize-the-night.json](./193812-seize-the-night.json) |
+| Seizure | 394917 | [394917-seizure.json](./394917-seizure.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
 | SeizureDome | 93095 | [93095-seizuredome.json](./93095-seizuredome.json) |
 | Seja Como Eu | 179829 | [179829-seja-como-eu.json](./179829-seja-como-eu.json) |
@@ -8438,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard Seekers | 267823 | [267823-shard-seekers.json](./267823-shard-seekers.json) |
 | Shard Shuffle | 288052 | [288052-shard-shuffle.json](./288052-shard-shuffle.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
+| Shard Squad - Wind Character Pack | 394955 | [394955-shard-squad-wind-character-pack.json](./394955-shard-squad-wind-character-pack.json) |
 | Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
 | Shardbreakers | 351254 | [351254-shardbreakers.json](./351254-shardbreakers.json) |
 | Sharded World | 223192 | [223192-sharded-world.json](./223192-sharded-world.json) |
@@ -9793,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiny | 23956 | [23956-shiny.json](./23956-shiny.json) |
 | Shiny Gauntlet | 33215 | [33215-shiny-gauntlet.json](./33215-shiny-gauntlet.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
+| Shiny Recollection: First Step | 394954 | [394954-shiny-recollection-first-step.json](./394954-shiny-recollection-first-step.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny Ski Resort | 103936 | [103936-shiny-ski-resort.json](./103936-shiny-ski-resort.json) |
 | Shiny Stones | 360696 | [360696-shiny-stones.json](./360696-shiny-stones.json) |
@@ -16228,6 +16231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Court: Warm Up | 183737 | [183737-smash-court-warm-up.json](./183737-smash-court-warm-up.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Crates | 160025 | [160025-smash-crates.json](./160025-smash-crates.json) |
+| Smash Crusaders | 394970 | [394970-smash-crusaders.json](./394970-smash-crusaders.json) |
 | Smash Cup | 292337 | [292337-smash-cup.json](./292337-smash-cup.json) |
 | Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
 | Smash Derby | 36776 | [36776-smash-derby.json](./36776-smash-derby.json) |
@@ -28894,6 +28898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starships Unlimited | 72128 | [72128-starships-unlimited.json](./72128-starships-unlimited.json) |
 | Starshot | 151181 | [151181-starshot.json](./151181-starshot.json) |
 | Starshot | 374184 | [374184-starshot.json](./374184-starshot.json) |
+| Starshot Idle | 394950 | [394950-starshot-idle.json](./394950-starshot-idle.json) |
 | Starshot: Space Circus Fever | 3605 | [3605-starshot-space-circus-fever.json](./3605-starshot-space-circus-fever.json) |
 | Starsiege | 11228 | [11228-starsiege.json](./11228-starsiege.json) |
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
