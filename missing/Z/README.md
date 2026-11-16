@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dash | 221551 | [221551-zombie-dash.json](./221551-zombie-dash.json) |
 | Zombie Dash | 328390 | [328390-zombie-dash.json](./328390-zombie-dash.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
+| Zombie Dead Smasher | 248252 | [248252-zombie-dead-smasher.json](./248252-zombie-dead-smasher.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
 | Zombie Death Day | 270010 | [270010-zombie-death-day.json](./270010-zombie-death-day.json) |
 | Zombie Death Quota | 197501 | [197501-zombie-death-quota.json](./197501-zombie-death-quota.json) |
