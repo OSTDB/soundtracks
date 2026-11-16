@@ -2501,7 +2501,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap of Faith | 139130 | [139130-leap-of-faith.json](./139130-leap-of-faith.json) |
 | Leap of Faith | 394617 | [394617-leap-of-faith.json](./394617-leap-of-faith.json) |
 | Leap Of Faith | 333127 | [333127-leap-of-faith.json](./333127-leap-of-faith.json) |
-| Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Leaf | 131923 | [131923-leap-of-leaf.json](./131923-leap-of-leaf.json) |
 | Leap of Legends | 251796 | [251796-leap-of-legends.json](./251796-leap-of-legends.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
