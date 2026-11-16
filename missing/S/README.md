@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealubbers | 350750 | [350750-sealubbers.json](./350750-sealubbers.json) |
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
+| Seaman 3DS | 264822 | [264822-seaman-3ds.json](./264822-seaman-3ds.json) |
 | Seaman Count | 79662 | [79662-seaman-count.json](./79662-seaman-count.json) |
 | Seamless | 204585 | [204585-seamless.json](./204585-seamless.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
@@ -6145,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Musou 4-II: Treasure Box | 167021 | [167021-sengoku-musou-4-ii-treasure-box.json](./167021-sengoku-musou-4-ii-treasure-box.json) |
 | Sengoku Musou Shoot | 61497 | [61497-sengoku-musou-shoot.json](./61497-sengoku-musou-shoot.json) |
 | Sengoku Neet | 127477 | [127477-sengoku-neet.json](./127477-sengoku-neet.json) |
+| Sengoku Night Blood | 264834 | [264834-sengoku-night-blood.json](./264834-sengoku-night-blood.json) |
 | Sengoku Ninja Tai | 83391 | [83391-sengoku-ninja-tai.json](./83391-sengoku-ninja-tai.json) |
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
@@ -13765,6 +13767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Shooter: Survival FPS | 275646 | [275646-skibidi-shooter-survival-fps.json](./275646-skibidi-shooter-survival-fps.json) |
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
 | Skibidi Toilet Attack | 264461 | [264461-skibidi-toilet-attack.json](./264461-skibidi-toilet-attack.json) |
+| Skibidi Toilet Hero | 263703 | [263703-skibidi-toilet-hero.json](./263703-skibidi-toilet-hero.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skibidi Toilet India | 276076 | [276076-skibidi-toilet-india.json](./276076-skibidi-toilet-india.json) |
 | Skibidi Toilet Killer | 266925 | [266925-skibidi-toilet-killer.json](./266925-skibidi-toilet-killer.json) |
@@ -22899,6 +22902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebus | 149251 | [149251-spacebus.json](./149251-spacebus.json) |
 | SpaceCab | 368777 | [368777-spacecab.json](./368777-spacecab.json) |
 | Spacecaps | 349658 | [349658-spacecaps.json](./349658-spacecaps.json) |
+| Spacecat Simulator | 262701 | [262701-spacecat-simulator.json](./262701-spacecat-simulator.json) |
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | Spacechase | 18503 | [18503-spacechase.json](./18503-spacechase.json) |
