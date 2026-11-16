@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Like Being With You | 236989 | [236989-i-like-being-with-you.json](./236989-i-like-being-with-you.json) |
 | I Like the Flowers | 121801 | [121801-i-like-the-flowers.json](./121801-i-like-the-flowers.json) |
 | I Like Walking Very Much | 126447 | [126447-i-like-walking-very-much.json](./126447-i-like-walking-very-much.json) |
+| I Live Under Your House. | 219862 | [219862-i-live-under-your-house.json](./219862-i-live-under-your-house.json) |
 | I Looked Out | 355801 | [355801-i-looked-out.json](./355801-i-looked-out.json) |
 | I Lost My Eggs: Easter | 387329 | [387329-i-lost-my-eggs-easter.json](./387329-i-lost-my-eggs-easter.json) |
 | I Lost My Luggage | 155653 | [155653-i-lost-my-luggage.json](./155653-i-lost-my-luggage.json) |
@@ -2379,9 +2380,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
 | IL-2 Sturmovik: Achtung Spitfire! Campaign | 285718 | [285718-il-2-sturmovik-achtung-spitfire-campaign.json](./285718-il-2-sturmovik-achtung-spitfire-campaign.json) |
 | IL-2 Sturmovik: Battle of Stalingrad | 17995 | [17995-il-2-sturmovik-battle-of-stalingrad.json](./17995-il-2-sturmovik-battle-of-stalingrad.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Arado Ar 234 B-2 Collector Plane | 219852 | [219852-il-2-sturmovik-battle-of-stalingrad-arado-ar-234-b-2-collector-plane.json](./219852-il-2-sturmovik-battle-of-stalingrad-arado-ar-234-b-2-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Battle of Bodenplatte | 139045 | [139045-il-2-sturmovik-battle-of-stalingrad-battle-of-bodenplatte.json](./139045-il-2-sturmovik-battle-of-stalingrad-battle-of-bodenplatte.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Battle of Kuban | 170098 | [170098-il-2-sturmovik-battle-of-stalingrad-battle-of-kuban.json](./170098-il-2-sturmovik-battle-of-stalingrad-battle-of-kuban.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Battle of Moscow | 170101 | [170101-il-2-sturmovik-battle-of-stalingrad-battle-of-moscow.json](./170101-il-2-sturmovik-battle-of-stalingrad-battle-of-moscow.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Battle of Normandy | 219855 | [219855-il-2-sturmovik-battle-of-stalingrad-battle-of-normandy.json](./219855-il-2-sturmovik-battle-of-stalingrad-battle-of-normandy.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Bf 109 G-6 Collector Plane | 170105 | [170105-il-2-sturmovik-battle-of-stalingrad-bf-109-g-6-collector-plane.json](./170105-il-2-sturmovik-battle-of-stalingrad-bf-109-g-6-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Blazing Steppe Campaign | 170110 | [170110-il-2-sturmovik-battle-of-stalingrad-blazing-steppe-campaign.json](./170110-il-2-sturmovik-battle-of-stalingrad-blazing-steppe-campaign.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Desert Wings - Tobruk | 170116 | [170116-il-2-sturmovik-battle-of-stalingrad-desert-wings-tobruk.json](./170116-il-2-sturmovik-battle-of-stalingrad-desert-wings-tobruk.json) |
@@ -2402,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Battle of Stalingrad - P-40E-1 Collector Plane | 170095 | [170095-il-2-sturmovik-battle-of-stalingrad-p-40e-1-collector-plane.json](./170095-il-2-sturmovik-battle-of-stalingrad-p-40e-1-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Polikarpov U-2VS | 170094 | [170094-il-2-sturmovik-battle-of-stalingrad-polikarpov-u-2vs.json](./170094-il-2-sturmovik-battle-of-stalingrad-polikarpov-u-2vs.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.VB Collector Plane | 170107 | [170107-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-vb-collector-plane.json](./170107-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-vb-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIV Collector Plane | 219859 | [219859-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xiv-collector-plane.json](./219859-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xiv-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIVe with Teardrop Canopy | 243160 | [243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json](./243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Steel Birds Campaign | 227633 | [227633-il-2-sturmovik-battle-of-stalingrad-steel-birds-campaign.json](./227633-il-2-sturmovik-battle-of-stalingrad-steel-birds-campaign.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Ta 152 H-1 Collector Plane | 321944 | [321944-il-2-sturmovik-battle-of-stalingrad-ta-152-h-1-collector-plane.json](./321944-il-2-sturmovik-battle-of-stalingrad-ta-152-h-1-collector-plane.json) |
