@@ -9759,7 +9759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly! II | 68973 | [68973-fly-ii.json](./68973-fly-ii.json) |
 | Fly!!! | 233254 | [233254-fly.json](./233254-fly.json) |
 | Fly. Die. Cry. | 26478 | [26478-fly-die-cry.json](./26478-fly-die-cry.json) |
-| Fly'n | 10327 | [10327-flyn.json](./10327-flyn.json) |
 | Fly&Ride Collection | 277728 | [277728-fly-and-ride-collection.json](./277728-fly-and-ride-collection.json) |
 | Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
