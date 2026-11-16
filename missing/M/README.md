@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic and Legend: Star Seekers | 255831 | [255831-magic-and-legend-star-seekers.json](./255831-magic-and-legend-star-seekers.json) |
+| Magic and Machines | 242188 | [242188-magic-and-machines.json](./242188-magic-and-machines.json) |
 | Magic and Metal Zero: Tower of Metal | 182720 | [182720-magic-and-metal-zero-tower-of-metal.json](./182720-magic-and-metal-zero-tower-of-metal.json) |
 | Magic Archer: Monster Islands | 234475 | [234475-magic-archer-monster-islands.json](./234475-magic-archer-monster-islands.json) |
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
@@ -12752,6 +12753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Manor | 134721 | [134721-midnight-manor.json](./134721-midnight-manor.json) |
 | Midnight Mansion | 365804 | [365804-midnight-mansion.json](./365804-midnight-mansion.json) |
 | Midnight Margo | 276827 | [276827-midnight-margo.json](./276827-midnight-margo.json) |
+| Midnight Market | 242186 | [242186-midnight-market.json](./242186-midnight-market.json) |
 | Midnight Mayhem | 300814 | [300814-midnight-mayhem.json](./300814-midnight-mayhem.json) |
 | Midnight Mazesoba | 374754 | [374754-midnight-mazesoba.json](./374754-midnight-mazesoba.json) |
 | Midnight Memoria | 403160 | [403160-midnight-memoria.json](./403160-midnight-memoria.json) |
@@ -13412,6 +13414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkTea Time | 373150 | [373150-milktea-time.json](./373150-milktea-time.json) |
 | Milkteeth | 369454 | [369454-milkteeth.json](./369454-milkteeth.json) |
 | MilkwaySubway | 285323 | [285323-milkwaysubway.json](./285323-milkwaysubway.json) |
+| Milky Animals | 242179 | [242179-milky-animals.json](./242179-milky-animals.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
 | Milky Boobs | 75923 | [75923-milky-boobs.json](./75923-milky-boobs.json) |
@@ -17870,6 +17873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Evolution | 191066 | [191066-monster-evolution.json](./191066-monster-evolution.json) |
 | Monster evolution: hit and smash | 101955 | [101955-monster-evolution-hit-and-smash.json](./101955-monster-evolution-hit-and-smash.json) |
 | Monster F****r One: Vampire | 110858 | [110858-monster-f-r-one-vampire.json](./110858-monster-f-r-one-vampire.json) |
+| Monster Factory | 242280 | [242280-monster-factory.json](./242280-monster-factory.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Fantasy | 407994 | [407994-monster-fantasy.json](./407994-monster-fantasy.json) |
 | Monster Farm | 108078 | [108078-monster-farm.json](./108078-monster-farm.json) |
@@ -20686,6 +20690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
 | Mousebound | 139290 | [139290-mousebound.json](./139290-mousebound.json) |
 | Mouseburg: Pursuit of Power | 362586 | [362586-mouseburg-pursuit-of-power.json](./362586-mouseburg-pursuit-of-power.json) |
+| Mousebusters | 242276 | [242276-mousebusters.json](./242276-mousebusters.json) |
 | MouseCraft | 8992 | [8992-mousecraft.json](./8992-mousecraft.json) |
 | Mousegun | 326723 | [326723-mousegun.json](./326723-mousegun.json) |
 | Mousegun | 366381 | [366381-mousegun.json](./366381-mousegun.json) |
@@ -23572,6 +23577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life | 379307 | [379307-my-life.json](./379307-my-life.json) |
 | My Life | 41155 | [41155-my-life.json](./41155-my-life.json) |
 | My Life as a Cat | 289535 | [289535-my-life-as-a-cat.json](./289535-my-life-as-a-cat.json) |
+| My Life as a Cult Leader | 242184 | [242184-my-life-as-a-cult-leader.json](./242184-my-life-as-a-cult-leader.json) |
 | My Life as a Teenage Robot: Techno Tennis | 335724 | [335724-my-life-as-a-teenage-robot-techno-tennis.json](./335724-my-life-as-a-teenage-robot-techno-tennis.json) |
 | My Life as a Vampire's Maid | 408507 | [408507-my-life-as-a-vampires-maid.json](./408507-my-life-as-a-vampires-maid.json) |
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
