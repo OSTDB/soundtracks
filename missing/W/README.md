@@ -10115,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath: Aeon of Ruin | 115873 | [115873-wrath-aeon-of-ruin.json](./115873-wrath-aeon-of-ruin.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
 | Wrathbreaker | 417856 | [417856-wrathbreaker.json](./417856-wrathbreaker.json) |
+| Wrathflame | 415557 | [415557-wrathflame.json](./415557-wrathflame.json) |
 | Wrathline | 414738 | [414738-wrathline.json](./414738-wrathline.json) |
 | WRC 10 | 145735 | [145735-wrc-10.json](./145735-wrc-10.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
