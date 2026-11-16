@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Guys | 345423 | [345423-car-guys.json](./345423-car-guys.json) |
 | Car Heist Simulator: Thief Mechanic | 328564 | [328564-car-heist-simulator-thief-mechanic.json](./328564-car-heist-simulator-thief-mechanic.json) |
 | Car Hunt | 277659 | [277659-car-hunt.json](./277659-car-hunt.json) |
+| Car Hustle Simulator | 418451 | [418451-car-hustle-simulator.json](./418451-car-hustle-simulator.json) |
 | Car II: Grandprix | 239570 | [239570-car-ii-grandprix.json](./239570-car-ii-grandprix.json) |
 | Car Jack Streets | 44498 | [44498-car-jack-streets.json](./44498-car-jack-streets.json) |
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat in a Jam: City Secrets | 402602 | [402602-cat-in-a-jam-city-secrets.json](./402602-cat-in-a-jam-city-secrets.json) |
 | Cat in Japan | 95987 | [95987-cat-in-japan.json](./95987-cat-in-japan.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
+| Cat in Temple | 418369 | [418369-cat-in-temple.json](./418369-cat-in-temple.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
 | Cat in the Box | 410181 | [410181-cat-in-the-box.json](./410181-cat-in-the-box.json) |
 | Cat Inside | 108343 | [108343-cat-inside.json](./108343-cat-inside.json) |
@@ -8857,6 +8859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomperman | 62964 | [62964-chomperman.json](./62964-chomperman.json) |
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
 | Chompsters | 141602 | [141602-chompsters.json](./141602-chompsters.json) |
+| Chompston | 418458 | [418458-chompston.json](./418458-chompston.json) |
 | Chompy Chomp Chomp | 8425 | [8425-chompy-chomp-chomp.json](./8425-chompy-chomp-chomp.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
 | Chompy Party | 416515 | [416515-chompy-party.json](./416515-chompy-party.json) |
@@ -11435,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleansed | 405295 | [405295-cleansed.json](./405295-cleansed.json) |
 | CleanSheet | 191967 | [191967-cleansheet.json](./191967-cleansheet.json) |
 | CleanSheet 2 | 404382 | [404382-cleansheet-2.json](./404382-cleansheet-2.json) |
+| Cleansing Day | 418442 | [418442-cleansing-day.json](./418442-cleansing-day.json) |
 | Cleansuit | 74460 | [74460-cleansuit.json](./74460-cleansuit.json) |
 | CleanTwin | 346462 | [346462-cleantwin.json](./346462-cleantwin.json) |
 | Cleanup Crew | 169823 | [169823-cleanup-crew.json](./169823-cleanup-crew.json) |
@@ -16215,6 +16219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Diamond Edition | 390904 | [390904-cooking-arena-diamond-edition.json](./390904-cooking-arena-diamond-edition.json) |
 | Cooking Arena: Elite Edition | 409964 | [409964-cooking-arena-elite-edition.json](./409964-cooking-arena-elite-edition.json) |
 | Cooking Arena: Food Truck Tycoon Asian Cuisine | 260035 | [260035-cooking-arena-food-truck-tycoon-asian-cuisine.json](./260035-cooking-arena-food-truck-tycoon-asian-cuisine.json) |
+| Cooking Arena: Grand Edition | 418338 | [418338-cooking-arena-grand-edition.json](./418338-cooking-arena-grand-edition.json) |
 | Cooking Arena: Legendary Edition | 401353 | [401353-cooking-arena-legendary-edition.json](./401353-cooking-arena-legendary-edition.json) |
 | Cooking Arena: Pancake Bar Tycoon | 260039 | [260039-cooking-arena-pancake-bar-tycoon.json](./260039-cooking-arena-pancake-bar-tycoon.json) |
 | Cooking Arena: Pizza Bar Tycoon | 260038 | [260038-cooking-arena-pizza-bar-tycoon.json](./260038-cooking-arena-pizza-bar-tycoon.json) |
