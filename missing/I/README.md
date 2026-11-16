@@ -5779,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Expedition | 246818 | [246818-interstellar-expedition.json](./246818-interstellar-expedition.json) |
 | Interstellar Flames | 284383 | [284383-interstellar-flames.json](./284383-interstellar-flames.json) |
 | Interstellar Flames 2 | 70574 | [70574-interstellar-flames-2.json](./70574-interstellar-flames-2.json) |
+| Interstellar Flight | 363592 | [363592-interstellar-flight.json](./363592-interstellar-flight.json) |
 | Interstellar Highway Robbery | 180793 | [180793-interstellar-highway-robbery.json](./180793-interstellar-highway-robbery.json) |
 | Interstellar Holy Spirit | 372128 | [372128-interstellar-holy-spirit.json](./372128-interstellar-holy-spirit.json) |
 | Interstellar Impact | 270090 | [270090-interstellar-impact.json](./270090-interstellar-impact.json) |
