@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Girl VR | 418749 | [418749-real-girl-vr.json](./418749-real-girl-vr.json) |
 | Real Girls: Burning Whisper | 417278 | [417278-real-girls-burning-whisper.json](./417278-real-girls-burning-whisper.json) |
 | Real Girls: Midnight Desire | 420648 | [420648-real-girls-midnight-desire.json](./420648-real-girls-midnight-desire.json) |
+| Real Girls: Velvet Flame | 417864 | [417864-real-girls-velvet-flame.json](./417864-real-girls-velvet-flame.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
 | Real Hair Salon | 95304 | [95304-real-hair-salon.json](./95304-real-hair-salon.json) |
 | Real Hentai | 323099 | [323099-real-hentai.json](./323099-real-hentai.json) |
@@ -5543,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
 | Rem | 225427 | [225427-rem.json](./225427-rem.json) |
+| REM | 417094 | [417094-rem.json](./417094-rem.json) |
 | REM Cycles | 171170 | [171170-rem-cycles.json](./171170-rem-cycles.json) |
 | REM Hemispheres | 408701 | [408701-rem-hemispheres.json](./408701-rem-hemispheres.json) |
 | Rem Psycho | 318334 | [318334-rem-psycho.json](./318334-rem-psycho.json) |
@@ -6948,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrobomber | 25520 | [25520-retrobomber.json](./25520-retrobomber.json) |
 | Retrobooster | 17574 | [17574-retrobooster.json](./17574-retrobooster.json) |
 | Retrobot | 415659 | [415659-retrobot.json](./415659-retrobot.json) |
+| Retrobot: 2085 | 417863 | [417863-retrobot-2085.json](./417863-retrobot-2085.json) |
 | Retrobound | 149506 | [149506-retrobound.json](./149506-retrobound.json) |
 | Retroboy | 60639 | [60639-retroboy.json](./60639-retroboy.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
@@ -9722,6 +9725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roarr!: Jurassic Edition | 111909 | [111909-roarr-jurassic-edition.json](./111909-roarr-jurassic-edition.json) |
 | Roary the Racing Car | 223113 | [223113-roary-the-racing-car.json](./223113-roary-the-racing-car.json) |
 | Roary the Racing Car: Rollin' Road | 67617 | [67617-roary-the-racing-car-rollin-road.json](./67617-roary-the-racing-car-rollin-road.json) |
+| Roast and Toast | 417069 | [417069-roast-and-toast.json](./417069-roast-and-toast.json) |
 | Roast Party | 98368 | [98368-roast-party.json](./98368-roast-party.json) |
 | Roast Together | 204011 | [204011-roast-together.json](./204011-roast-together.json) |
 | Roasting Report: A Narcotics Murder | 154091 | [154091-roasting-report-a-narcotics-murder.json](./154091-roasting-report-a-narcotics-murder.json) |
@@ -10344,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rochinko | 366572 | [366572-rochinko.json](./366572-rochinko.json) |
 | Rock - A True Story | 70852 | [70852-rock-a-true-story.json](./70852-rock-a-true-story.json) |
 | Rock 'em Sock 'em Fish | 209099 | [209099-rock-em-sock-em-fish.json](./209099-rock-em-sock-em-fish.json) |
+| Rock 'em Sock 'em Mechas | 417129 | [417129-rock-em-sock-em-mechas.json](./417129-rock-em-sock-em-mechas.json) |
 | Rock 'Em Sock 'Em Robots | 146679 | [146679-rock-em-sock-em-robots.json](./146679-rock-em-sock-em-robots.json) |
 | Rock 'em Sock 'em Robots Arena | 44898 | [44898-rock-em-sock-em-robots-arena.json](./44898-rock-em-sock-em-robots-arena.json) |
 | Rock 'N Racing Bundle 3 in 1 | 147689 | [147689-rock-n-racing-bundle-3-in-1.json](./147689-rock-n-racing-bundle-3-in-1.json) |
