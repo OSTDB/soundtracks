@@ -3220,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scatch 2x1 | 294889 | [294889-scatch-2x1.json](./294889-scatch-2x1.json) |
 | Scatch: The Painter Cat | 195960 | [195960-scatch-the-painter-cat.json](./195960-scatch-the-painter-cat.json) |
 | Scatter | 114247 | [114247-scatter.json](./114247-scatter.json) |
+| Scattered | 400026 | [400026-scattered.json](./400026-scattered.json) |
 | Scattered Ashes | 268966 | [268966-scattered-ashes.json](./268966-scattered-ashes.json) |
 | Scattered Thoughts | 317798 | [317798-scattered-thoughts.json](./317798-scattered-thoughts.json) |
 | Scattered Wings | 398578 | [398578-scattered-wings.json](./398578-scattered-wings.json) |
