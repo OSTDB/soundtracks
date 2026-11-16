@@ -3514,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Bonus Set | 387682 | [387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json](./387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Edition | 387683 | [387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json](./387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Early Purchase Bonus Set | 387684 | [387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json](./387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json) |
+| Fatal Frame II: Crimson Butterfly Remake - Silent Hill f Costume Set | 397362 | [397362-fatal-frame-ii-crimson-butterfly-remake-silent-hill-f-costume-set.json](./397362-fatal-frame-ii-crimson-butterfly-remake-silent-hill-f-costume-set.json) |
 | Fatal Frame III: The Tormented | 5107 | [5107-fatal-frame-iii-the-tormented.json](./5107-fatal-frame-iii-the-tormented.json) |
 | Fatal Frame: Maiden of Black Water | 152397 | [152397-fatal-frame-maiden-of-black-water.json](./152397-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Maiden of Black Water - 20th Anniversary Celebration DLC | 238335 | [238335-fatal-frame-maiden-of-black-water-20th-anniversary-celebration-dlc.json](./238335-fatal-frame-maiden-of-black-water-20th-anniversary-celebration-dlc.json) |
@@ -8806,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of the Fireflies | 22339 | [22339-flight-of-the-fireflies.json](./22339-flight-of-the-fireflies.json) |
 | Flight of the Icarus | 9842 | [9842-flight-of-the-icarus.json](./9842-flight-of-the-icarus.json) |
 | Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
+| Flight of the Monarch | 397338 | [397338-flight-of-the-monarch.json](./397338-flight-of-the-monarch.json) |
 | Flight of the Paladin | 34387 | [34387-flight-of-the-paladin.json](./34387-flight-of-the-paladin.json) |
 | Flight of the Season | 397414 | [397414-flight-of-the-season.json](./397414-flight-of-the-season.json) |
 | Flight Path 737 | 12952 | [12952-flight-path-737.json](./12952-flight-path-737.json) |
@@ -14978,6 +14980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist: Iron & Flame | 185826 | [185826-fullmetal-alchemist-iron-and-flame.json](./185826-fullmetal-alchemist-iron-and-flame.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
+| Fullmetal Alchemist: State Alchemy Exam | 397354 | [397354-fullmetal-alchemist-state-alchemy-exam.json](./397354-fullmetal-alchemist-state-alchemy-exam.json) |
 | Fullmetal Alchemist: Stray Rondo | 57444 | [57444-fullmetal-alchemist-stray-rondo.json](./57444-fullmetal-alchemist-stray-rondo.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
 | Fullmetal Alchemist: Trading Card Game | 47697 | [47697-fullmetal-alchemist-trading-card-game.json](./47697-fullmetal-alchemist-trading-card-game.json) |
