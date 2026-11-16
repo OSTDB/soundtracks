@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath | 350666 | [350666-oath.json](./350666-oath.json) |
 | Oath Eternal | 409858 | [409858-oath-eternal.json](./409858-oath-eternal.json) |
 | Oath MMORPG | 124532 | [124532-oath-mmorpg.json](./124532-oath-mmorpg.json) |
+| Oath of Genesis | 367868 | [367868-oath-of-genesis.json](./367868-oath-of-genesis.json) |
 | Oath of Miko | 171470 | [171470-oath-of-miko.json](./171470-oath-of-miko.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oath of the Necromancer | 328330 | [328330-oath-of-the-necromancer.json](./328330-oath-of-the-necromancer.json) |
@@ -218,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey Your Pirate Queen! | 282655 | [282655-obey-your-pirate-queen.json](./282655-obey-your-pirate-queen.json) |
 | Obey! The Game | 251705 | [251705-obey-the-game.json](./251705-obey-the-game.json) |
 | ObeyE | 376000 | [376000-obeye.json](./376000-obeye.json) |
+| Obfuscation | 372922 | [372922-obfuscation.json](./372922-obfuscation.json) |
 | Obgob | 349739 | [349739-obgob.json](./349739-obgob.json) |
 | Obgoose | 183866 | [183866-obgoose.json](./183866-obgoose.json) |
 | Obi3011 | 309901 | [309901-obi3011.json](./309901-obi3011.json) |
@@ -866,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey Reborn | 286430 | [286430-odyssey-reborn.json](./286430-odyssey-reborn.json) |
 | Odyssey RPG | 357714 | [357714-odyssey-rpg.json](./357714-odyssey-rpg.json) |
 | Odyssey RPG | 62634 | [62634-odyssey-rpg.json](./62634-odyssey-rpg.json) |
+| Odyssey Times: A Quest for Adventure | 372918 | [372918-odyssey-times-a-quest-for-adventure.json](./372918-odyssey-times-a-quest-for-adventure.json) |
 | Odyssey to the Frozen Legion | 333299 | [333299-odyssey-to-the-frozen-legion.json](./333299-odyssey-to-the-frozen-legion.json) |
 | Odyssey VR | 75617 | [75617-odyssey-vr.json](./75617-odyssey-vr.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
@@ -3649,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oort Protocol: Perihelion | 406961 | [406961-oort-protocol-perihelion.json](./406961-oort-protocol-perihelion.json) |
 | Oortbound | 421824 | [421824-oortbound.json](./421824-oortbound.json) |
 | Ooshige! Momohana Hanten | 227376 | [227376-ooshige-momohana-hanten.json](./227376-ooshige-momohana-hanten.json) |
+| OOTP Baseball 26 Go! | 367635 | [367635-ootp-baseball-26-go.json](./367635-ootp-baseball-26-go.json) |
 | OOTP Baseball Go 23 | 211280 | [211280-ootp-baseball-go-23.json](./211280-ootp-baseball-go-23.json) |
 | OOTP Baseball Go! | 141512 | [141512-ootp-baseball-go.json](./141512-ootp-baseball-go.json) |
 | Ooumi Nobunaga Den: Geten II | 419450 | [419450-ooumi-nobunaga-den-geten-ii.json](./419450-ooumi-nobunaga-den-geten-ii.json) |
