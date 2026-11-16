@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Seasons | 175627 | [175627-sacred-seasons.json](./175627-sacred-seasons.json) |
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
 | Sacred Siren | 121913 | [121913-sacred-siren.json](./121913-sacred-siren.json) |
+| Sacred Soul | 384464 | [384464-sacred-soul.json](./384464-sacred-soul.json) |
 | Sacred Stones | 96387 | [96387-sacred-stones.json](./96387-sacred-stones.json) |
 | Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
 | Sacred Treasure | 101779 | [101779-sacred-treasure.json](./101779-sacred-treasure.json) |
@@ -9679,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinmai Kyoushi | 320835 | [320835-shinmai-kyoushi.json](./320835-shinmai-kyoushi.json) |
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
 | Shinnyuushain Tooru-Kun | 6133 | [6133-shinnyuushain-tooru-kun.json](./6133-shinnyuushain-tooru-kun.json) |
+| Shino's Insatiable Pursuit of Knowledge | 384461 | [384461-shinos-insatiable-pursuit-of-knowledge.json](./384461-shinos-insatiable-pursuit-of-knowledge.json) |
 | Shinobi | 10219 | [10219-shinobi.json](./10219-shinobi.json) |
 | Shinobi | 198618 | [198618-shinobi.json](./198618-shinobi.json) |
 | Shinobi | 213084 | [213084-shinobi.json](./213084-shinobi.json) |
@@ -21402,6 +21404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souno's Curse | 169130 | [169130-sounos-curse.json](./169130-sounos-curse.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup | 33676 | [33676-soup.json](./33676-soup.json) |
+| Soup Adventure | 384409 | [384409-soup-adventure.json](./384409-soup-adventure.json) |
 | Soup Boy Goes to the Soup Convention | 320712 | [320712-soup-boy-goes-to-the-soup-convention.json](./320712-soup-boy-goes-to-the-soup-convention.json) |
 | Soup-of-War | 362243 | [362243-soup-of-war.json](./362243-soup-of-war.json) |
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
@@ -31865,6 +31868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
 | Street Gol: Gold Edition | 120520 | [120520-street-gol-gold-edition.json](./120520-street-gol-gold-edition.json) |
+| Street Grabbing of Territory | 384442 | [384442-street-grabbing-of-territory.json](./384442-street-grabbing-of-territory.json) |
 | Street Hacker | 146457 | [146457-street-hacker.json](./146457-street-hacker.json) |
 | Street Harrier | 266328 | [266328-street-harrier.json](./266328-street-harrier.json) |
 | Street Hawk | 26215 | [26215-street-hawk.json](./26215-street-hawk.json) |
@@ -37406,6 +37410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash T.V. | 218750 | [218750-super-smash-t-v.json](./218750-super-smash-t-v.json) |
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
 | Super Smash War | 390279 | [390279-super-smash-war.json](./390279-super-smash-war.json) |
+| Super Smiling Dungeon | 384447 | [384447-super-smiling-dungeon.json](./384447-super-smiling-dungeon.json) |
 | Super Snail | 260198 | [260198-super-snail.json](./260198-super-snail.json) |
 | Super Snake | 71997 | [71997-super-snake.json](./71997-super-snake.json) |
 | Super Snake 3D | 134940 | [134940-super-snake-3d.json](./134940-super-snake-3d.json) |
