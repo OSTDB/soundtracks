@@ -3080,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party PooperZ | 273776 | [273776-party-pooperz.json](./273776-party-pooperz.json) |
 | Party Pop Bubblyz | 387722 | [387722-party-pop-bubblyz.json](./387722-party-pop-bubblyz.json) |
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
+| Party Popteenies Surprise | 254185 | [254185-party-popteenies-surprise.json](./254185-party-popteenies-surprise.json) |
 | Party Print 'N Play | 79607 | [79607-party-print-n-play.json](./79607-party-print-n-play.json) |
 | Party Project | 273981 | [273981-party-project.json](./273981-party-project.json) |
 | Party Quest | 220623 | [220623-party-quest.json](./220623-party-quest.json) |
@@ -3433,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Gaea | 189324 | [189324-path-to-gaea.json](./189324-path-to-gaea.json) |
 | Path to Heaven | 148026 | [148026-path-to-heaven.json](./148026-path-to-heaven.json) |
+| Path to Knighthood | 255301 | [255301-path-to-knighthood.json](./255301-path-to-knighthood.json) |
 | Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
 | Path to Magehood | 286941 | [286941-path-to-magehood.json](./286941-path-to-magehood.json) |
 | Path to Mnemosyne | 68450 | [68450-path-to-mnemosyne.json](./68450-path-to-mnemosyne.json) |
@@ -8051,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
 | Pinball Madness 4 | 69788 | [69788-pinball-madness-4.json](./69788-pinball-madness-4.json) |
 | Pinball Magic | 38053 | [38053-pinball-magic.json](./38053-pinball-magic.json) |
+| Pinball Mania | 258146 | [258146-pinball-mania.json](./258146-pinball-mania.json) |
 | Pinball Mania | 49073 | [49073-pinball-mania.json](./49073-pinball-mania.json) |
 | Pinball Mania Plus | 314912 | [314912-pinball-mania-plus.json](./314912-pinball-mania-plus.json) |
 | Pinball Maniacs | 253262 | [253262-pinball-maniacs.json](./253262-pinball-maniacs.json) |
@@ -16179,6 +16182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Dominion | 148664 | [148664-primal-dominion.json](./148664-primal-dominion.json) |
 | Primal Dungeon | 158008 | [158008-primal-dungeon.json](./158008-primal-dungeon.json) |
 | Primal Dungeon Adventure | 394575 | [394575-primal-dungeon-adventure.json](./394575-primal-dungeon-adventure.json) |
+| Primal Earth | 258155 | [258155-primal-earth.json](./258155-primal-earth.json) |
 | Primal Echo | 374822 | [374822-primal-echo.json](./374822-primal-echo.json) |
 | Primal Fears | 15300 | [15300-primal-fears.json](./15300-primal-fears.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
@@ -19739,6 +19743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puncherman!: First Day | 246799 | [246799-puncherman-first-day.json](./246799-puncherman-first-day.json) |
 | Punchgolf | 291035 | [291035-punchgolf.json](./291035-punchgolf.json) |
 | Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
+| Punchimals | 258233 | [258233-punchimals.json](./258233-punchimals.json) |
 | Punching a Concrete Wall | 399013 | [399013-punching-a-concrete-wall.json](./399013-punching-a-concrete-wall.json) |
 | Punching a Dirty Wizard | 417247 | [417247-punching-a-dirty-wizard.json](./417247-punching-a-dirty-wizard.json) |
 | Punching Bags | 93139 | [93139-punching-bags.json](./93139-punching-bags.json) |
