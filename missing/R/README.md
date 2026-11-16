@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain & Sacrifice | 395119 | [395119-rain-and-sacrifice.json](./395119-rain-and-sacrifice.json) |
 | Rain and Red Roses | 184057 | [184057-rain-and-red-roses.json](./184057-rain-and-red-roses.json) |
 | Rain and Respite | 361031 | [361031-rain-and-respite.json](./361031-rain-and-respite.json) |
+| Rain and the Wolf | 337879 | [337879-rain-and-the-wolf.json](./337879-rain-and-the-wolf.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
 | Rain City | 120066 | [120066-rain-city.json](./120066-rain-city.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid-Shot | 22096 | [22096-rapid-shot.json](./22096-rapid-shot.json) |
 | RapidBrogue | 201259 | [201259-rapidbrogue.json](./201259-rapidbrogue.json) |
 | Rapidfire | 263354 | [263354-rapidfire.json](./263354-rapidfire.json) |
+| RapidFire | 337869 | [337869-rapidfire.json](./337869-rapidfire.json) |
 | Rapidfire 2 | 263355 | [263355-rapidfire-2.json](./263355-rapidfire-2.json) |
 | Rapidfire 3 | 263356 | [263356-rapidfire-3.json](./263356-rapidfire-3.json) |
 | Rapis the Bullet | 260621 | [260621-rapis-the-bullet.json](./260621-rapis-the-bullet.json) |
@@ -4907,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reed the Robotanist Plus | 211642 | [211642-reed-the-robotanist-plus.json](./211642-reed-the-robotanist-plus.json) |
 | Reederei | 94336 | [94336-reederei.json](./94336-reederei.json) |
 | Reeelz | 348952 | [348952-reeelz.json](./348952-reeelz.json) |
+| Reef Defense | 344610 | [344610-reef-defense.json](./344610-reef-defense.json) |
 | Reef Escape | 56807 | [56807-reef-escape.json](./56807-reef-escape.json) |
 | Reef Light Conundrum | 285405 | [285405-reef-light-conundrum.json](./285405-reef-light-conundrum.json) |
 | Reef Rescue: Match 3 Adventure | 90960 | [90960-reef-rescue-match-3-adventure.json](./90960-reef-rescue-match-3-adventure.json) |
@@ -6891,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro One - Part 2 | 78809 | [78809-retro-one-part-2.json](./78809-retro-one-part-2.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
 | Retro Parking | 31129 | [31129-retro-parking.json](./31129-retro-parking.json) |
+| Retro Pistol Hero | 337891 | [337891-retro-pistol-hero.json](./337891-retro-pistol-hero.json) |
 | Retro Pixel Castles | 138064 | [138064-retro-pixel-castles.json](./138064-retro-pixel-castles.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Pocket Rocket | 208459 | [208459-retro-pocket-rocket.json](./208459-retro-pocket-rocket.json) |
@@ -9041,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Islands | 19242 | [19242-rising-islands.json](./19242-rising-islands.json) |
 | Rising Islands: Collector's Edition | 53515 | [53515-rising-islands-collectors-edition.json](./53515-rising-islands-collectors-edition.json) |
 | Rising Lands | 94667 | [94667-rising-lands.json](./94667-rising-lands.json) |
+| Rising Legion | 337870 | [337870-rising-legion.json](./337870-rising-legion.json) |
 | Rising Lords | 106119 | [106119-rising-lords.json](./106119-rising-lords.json) |
 | Rising Lovers | 299424 | [299424-rising-lovers.json](./299424-rising-lovers.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
@@ -12365,6 +12370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roomba Rampage | 182141 | [182141-roomba-rampage.json](./182141-roomba-rampage.json) |
 | Roomba Ruckus | 301789 | [301789-roomba-ruckus.json](./301789-roomba-ruckus.json) |
+| Roomballs | 336804 | [336804-roomballs.json](./336804-roomballs.json) |
 | Roombattle | 185264 | [185264-roombattle.json](./185264-roombattle.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
 | Roomelier | 426376 | [426376-roomelier.json](./426376-roomelier.json) |
