@@ -10409,6 +10409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World: Next Order | 225498 | [225498-digimon-world-next-order.json](./225498-digimon-world-next-order.json) |
 | Digimon Yolei and Hawkmon | 198725 | [198725-digimon-yolei-and-hawkmon.json](./198725-digimon-yolei-and-hawkmon.json) |
 | Digimon: Battle Spirit | 6374 | [6374-digimon-battle-spirit.json](./6374-digimon-battle-spirit.json) |
+| Digimon: Boom Bubble | 399305 | [399305-digimon-boom-bubble.json](./399305-digimon-boom-bubble.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
 | Digimon: Quest to Save the Net | 338409 | [338409-digimon-quest-to-save-the-net.json](./338409-digimon-quest-to-save-the-net.json) |
 | Digimon: Source Code | 374314 | [374314-digimon-source-code.json](./374314-digimon-source-code.json) |
@@ -15821,6 +15822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukoku Soshite... | 227429 | [227429-doukoku-soshite.json](./227429-doukoku-soshite.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
 | Doukutsu Randamu | 216421 | [216421-doukutsu-randamu.json](./216421-doukutsu-randamu.json) |
+| Doukutsu-rs | 399245 | [399245-doukutsu-rs.json](./399245-doukutsu-rs.json) |
 | Doukyonin: Under One Roof | 415595 | [415595-doukyonin-under-one-roof.json](./415595-doukyonin-under-one-roof.json) |
 | Doukyuu Re-Mix Billiard Multiple | 286489 | [286489-doukyuu-re-mix-billiard-multiple.json](./286489-doukyuu-re-mix-billiard-multiple.json) |
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
@@ -17628,6 +17630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draughts | 310988 | [310988-draughts.json](./310988-draughts.json) |
 | Draughts | 379618 | [379618-draughts.json](./379618-draughts.json) |
 | Draughts Genius | 137731 | [137731-draughts-genius.json](./137731-draughts-genius.json) |
+| Dravenmoor | 399223 | [399223-dravenmoor.json](./399223-dravenmoor.json) |
 | Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
