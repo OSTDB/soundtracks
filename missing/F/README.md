@@ -3763,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fates: Determination | 224823 | [224823-fates-determination.json](./224823-fates-determination.json) |
 | Fateweaver: Smash or Pass | 238598 | [238598-fateweaver-smash-or-pass.json](./238598-fateweaver-smash-or-pass.json) |
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
+| FateZ | 413296 | [413296-fatez.json](./413296-fatez.json) |
 | Fathammer Classics Pack | 70439 | [70439-fathammer-classics-pack.json](./70439-fathammer-classics-pack.json) |
 | Father | 244847 | [244847-father.json](./244847-father.json) |
 | Father | 368401 | [368401-father.json](./368401-father.json) |
@@ -8356,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy KFP | 253135 | [253135-flappy-kfp.json](./253135-flappy-kfp.json) |
 | Flappy Limited '85 | 47528 | [47528-flappy-limited-85.json](./47528-flappy-limited-85.json) |
 | Flappy Lovers 2 | 235140 | [235140-flappy-lovers-2.json](./235140-flappy-lovers-2.json) |
+| Flappy maman | 413329 | [413329-flappy-maman.json](./413329-flappy-maman.json) |
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
 | Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
 | Flappy Monster | 187908 | [187908-flappy-monster.json](./187908-flappy-monster.json) |
@@ -15921,6 +15923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu Uso: Snow World End | 379634 | [379634-fuyu-uso-snow-world-end.json](./379634-fuyu-uso-snow-world-end.json) |
 | Fuyuiro no Muffler | 97742 | [97742-fuyuiro-no-muffler.json](./97742-fuyuiro-no-muffler.json) |
 | Fuyukara, Kururu. | 213134 | [213134-fuyukara-kururu.json](./213134-fuyukara-kururu.json) |
+| Fuyukuru.: Winter winds, adieu? | 413334 | [413334-fuyukuru-winter-winds-adieu.json](./413334-fuyukuru-winter-winds-adieu.json) |
 | Fuyuu | 278801 | [278801-fuyuu.json](./278801-fuyuu.json) |
 | Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
 | Fuz | 121835 | [121835-fuz.json](./121835-fuz.json) |
