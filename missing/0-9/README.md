@@ -3491,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 65536-in-1 | 309143 | [309143-65536-in-1.json](./309143-65536-in-1.json) |
 | 65536: Super 2048 | 95316 | [95316-65536-super-2048.json](./95316-65536-super-2048.json) |
 | 66 | 400754 | [400754-66.json](./400754-66.json) |
+| 66 Balls | 232139 | [232139-66-balls.json](./232139-66-balls.json) |
 | 66 Bricks | 241353 | [241353-66-bricks.json](./241353-66-bricks.json) |
 | 66 Confessions of St.Pinel Castle | 365634 | [365634-66-confessions-of-st-pinel-castle.json](./365634-66-confessions-of-st-pinel-castle.json) |
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
@@ -3993,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
 | 99 Waves to Die | 35492 | [35492-99-waves-to-die.json](./35492-99-waves-to-die.json) |
 | 99 Ways to Die | 313838 | [313838-99-ways-to-die.json](./313838-99-ways-to-die.json) |
+| 99.99% 3D: Fill the Ball | 232146 | [232146-99-99-3d-fill-the-ball.json](./232146-99-99-3d-fill-the-ball.json) |
 | 99% | 359669 | [359669-99.json](./359669-99.json) |
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
