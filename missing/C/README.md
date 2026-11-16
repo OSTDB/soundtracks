@@ -17978,6 +17978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cows&Co | 207799 | [207799-cows-and-co.json](./207799-cows-and-co.json) |
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cowz.io | 352143 | [352143-cowz-io.json](./352143-cowz-io.json) |
+| Coxeta | 351303 | [351303-coxeta.json](./351303-coxeta.json) |
 | Coyote | 163796 | [163796-coyote.json](./163796-coyote.json) |
 | Coyote: An Old West Vignette | 292443 | [292443-coyote-an-old-west-vignette.json](./292443-coyote-an-old-west-vignette.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
@@ -23125,6 +23126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Gunner | 208095 | [208095-cyber-gunner.json](./208095-cyber-gunner.json) |
 | Cyber Hacker | 197980 | [197980-cyber-hacker.json](./197980-cyber-hacker.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
+| Cyber Haze | 351328 | [351328-cyber-haze.json](./351328-cyber-haze.json) |
 | Cyber Heart | 247977 | [247977-cyber-heart.json](./247977-cyber-heart.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber Hentai | 149430 | [149430-cyber-hentai.json](./149430-cyber-hentai.json) |
