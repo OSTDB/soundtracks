@@ -7058,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluge: Raintime | 390063 | [390063-deluge-raintime.json](./390063-deluge-raintime.json) |
 | Deluge: Sermon for the Dead | 237187 | [237187-deluge-sermon-for-the-dead.json](./237187-deluge-sermon-for-the-dead.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
+| Deluge: Threnody of Crashing Waves - Ina After Story | 342951 | [342951-deluge-threnody-of-crashing-waves-ina-after-story.json](./342951-deluge-threnody-of-crashing-waves-ina-after-story.json) |
 | Delunky: Endless Descent | 177861 | [177861-delunky-endless-descent.json](./177861-delunky-endless-descent.json) |
 | Delusion | 127698 | [127698-delusion.json](./127698-delusion.json) |
 | Delusion | 185828 | [185828-delusion.json](./185828-delusion.json) |
@@ -7480,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demondemon Demon Tamer | 370456 | [370456-demondemon-demon-tamer.json](./370456-demondemon-demon-tamer.json) |
 | Demoneye-X | 40311 | [40311-demoneye-x.json](./40311-demoneye-x.json) |
 | Demonfear | 144407 | [144407-demonfear.json](./144407-demonfear.json) |
+| Demonfo | 344609 | [344609-demonfo.json](./344609-demonfo.json) |
 | Demong Hunter | 146745 | [146745-demong-hunter.json](./146745-demong-hunter.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
@@ -8541,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Lightfall - Season of the Witch | 262531 | [262531-destiny-2-lightfall-season-of-the-witch.json](./262531-destiny-2-lightfall-season-of-the-witch.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
 | Destiny 2: Reclamation Silver Bundle | 373476 | [373476-destiny-2-reclamation-silver-bundle.json](./373476-destiny-2-reclamation-silver-bundle.json) |
+| Destiny 2: Renegades | 342959 | [342959-destiny-2-renegades.json](./342959-destiny-2-renegades.json) |
 | Destiny 2: Revenant | 319116 | [319116-destiny-2-revenant.json](./319116-destiny-2-revenant.json) |
 | Destiny 2: Revenant Silver Bundle | 326684 | [326684-destiny-2-revenant-silver-bundle.json](./326684-destiny-2-revenant-silver-bundle.json) |
 | Destiny 2: Season of the Splicer Silver Bundle | 147893 | [147893-destiny-2-season-of-the-splicer-silver-bundle.json](./147893-destiny-2-season-of-the-splicer-silver-bundle.json) |
@@ -9054,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Exia | 396741 | [396741-deus-exia.json](./396741-deus-exia.json) |
 | Deus Lo Veult | 146677 | [146677-deus-lo-veult.json](./146677-deus-lo-veult.json) |
 | Deus Machina Demonbane | 97094 | [97094-deus-machina-demonbane.json](./97094-deus-machina-demonbane.json) |
+| Deus Mantle | 342306 | [342306-deus-mantle.json](./342306-deus-mantle.json) |
 | Deus Novum | 211495 | [211495-deus-novum.json](./211495-deus-novum.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult | 139763 | [139763-deus-vult.json](./139763-deus-vult.json) |
@@ -15723,6 +15727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double the Meat | 52765 | [52765-double-the-meat.json](./52765-double-the-meat.json) |
 | Double Time | 187281 | [187281-double-time.json](./187281-double-time.json) |
 | Double Time Dash | 183323 | [183323-double-time-dash.json](./183323-double-time-dash.json) |
+| Double Trip | 342957 | [342957-double-trip.json](./342957-double-trip.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
 | Double Trouble: Sexy Academy | 386182 | [386182-double-trouble-sexy-academy.json](./386182-double-trouble-sexy-academy.json) |
@@ -16334,6 +16339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: A Gothic RPG | 146744 | [146744-dracula-a-gothic-rpg.json](./146744-dracula-a-gothic-rpg.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Dark Reign | 399937 | [399937-dracula-dark-reign.json](./399937-dracula-dark-reign.json) |
+| Dracula: End of Days | 344601 | [344601-dracula-end-of-days.json](./344601-dracula-end-of-days.json) |
 | Dracula: Love Kills | 16688 | [16688-dracula-love-kills.json](./16688-dracula-love-kills.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Reign of Terror | 16479 | [16479-dracula-reign-of-terror.json](./16479-dracula-reign-of-terror.json) |
@@ -16432,6 +16438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag n Merge Numbers | 127788 | [127788-drag-n-merge-numbers.json](./127788-drag-n-merge-numbers.json) |
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
 | Drag Race | 68157 | [68157-drag-race.json](./68157-drag-race.json) |
+| Drag Race / Desert Fox | 344608 | [344608-drag-race-desert-fox.json](./344608-drag-race-desert-fox.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
 | Drag Racer USA | 43229 | [43229-drag-racer-usa.json](./43229-drag-racer-usa.json) |
 | Drag Racer V3 | 165118 | [165118-drag-racer-v3.json](./165118-drag-racer-v3.json) |
@@ -20502,6 +20509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dreams (Female Protagonist) | 126752 | [126752-dungeon-dreams-female-protagonist.json](./126752-dungeon-dreams-female-protagonist.json) |
 | Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
 | Dungeon Dreams Wanderers | 373997 | [373997-dungeon-dreams-wanderers.json](./373997-dungeon-dreams-wanderers.json) |
+| Dungeon Drops | 344599 | [344599-dungeon-drops.json](./344599-dungeon-drops.json) |
 | Dungeon Dueler | 197093 | [197093-dungeon-dueler.json](./197093-dungeon-dueler.json) |
 | Dungeon Dungeon! | 224631 | [224631-dungeon-dungeon.json](./224631-dungeon-dungeon.json) |
 | Dungeon Duos | 83939 | [83939-dungeon-duos.json](./83939-dungeon-duos.json) |
