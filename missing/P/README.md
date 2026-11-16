@@ -4055,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Engine Game Box | 261908 | [261908-pc-engine-game-box.json](./261908-pc-engine-game-box.json) |
 | PC Engine Mini | 215423 | [215423-pc-engine-mini.json](./215423-pc-engine-mini.json) |
+| PC Fish: Taskbar Aquarium | 415357 | [415357-pc-fish-taskbar-aquarium.json](./415357-pc-fish-taskbar-aquarium.json) |
 | PC Fit | 60383 | [60383-pc-fit.json](./60383-pc-fit.json) |
 | PC Fútbol | 144013 | [144013-pc-futbol.json](./144013-pc-futbol.json) |
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
@@ -21227,6 +21228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyromasters | 387292 | [387292-pyromasters.json](./387292-pyromasters.json) |
 | PyroMind | 103051 | [103051-pyromind.json](./103051-pyromind.json) |
 | PyroNinja: Fire Dodge | 127411 | [127411-pyroninja-fire-dodge.json](./127411-pyroninja-fire-dodge.json) |
+| Pyrosaurus | 415128 | [415128-pyrosaurus.json](./415128-pyrosaurus.json) |
 | PyroSlam: VR Table Tennis | 238359 | [238359-pyroslam-vr-table-tennis.json](./238359-pyroslam-vr-table-tennis.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
