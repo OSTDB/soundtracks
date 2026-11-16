@@ -10211,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
 | Circular | 205092 | [205092-circular.json](./205092-circular.json) |
 | Circular Defense | 284964 | [284964-circular-defense.json](./284964-circular-defense.json) |
+| Circular Fallacy | 362502 | [362502-circular-fallacy.json](./362502-circular-fallacy.json) |
 | Circular Fever | 284972 | [284972-circular-fever.json](./284972-circular-fever.json) |
 | Circular Logic Games | 264702 | [264702-circular-logic-games.json](./264702-circular-logic-games.json) |
 | Circulario | 200228 | [200228-circulario.json](./200228-circulario.json) |
@@ -15704,6 +15705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constelleum | 217099 | [217099-constelleum.json](./217099-constelleum.json) |
 | Consternation II | 169640 | [169640-consternation-ii.json](./169640-consternation-ii.json) |
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
+| Constracktion | 362505 | [362505-constracktion.json](./362505-constracktion.json) |
 | Constraint Zone | 360217 | [360217-constraint-zone.json](./360217-constraint-zone.json) |
 | Constricted VR | 29531 | [29531-constricted-vr.json](./29531-constricted-vr.json) |
 | Constricting Cubes | 31128 | [31128-constricting-cubes.json](./31128-constricting-cubes.json) |
