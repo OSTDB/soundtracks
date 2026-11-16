@@ -17224,6 +17224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
 | Dragon Raja: The Farewell Passage | 411333 | [411333-dragon-raja-the-farewell-passage.json](./411333-dragon-raja-the-farewell-passage.json) |
 | Dragon Rancher | 356351 | [356351-dragon-rancher.json](./356351-dragon-rancher.json) |
+| Dragon Realms | 329884 | [329884-dragon-realms.json](./329884-dragon-realms.json) |
 | Dragon Realms: Towers 'n' Dragons | 193026 | [193026-dragon-realms-towers-n-dragons.json](./193026-dragon-realms-towers-n-dragons.json) |
 | Dragon Riddler | 348661 | [348661-dragon-riddler.json](./348661-dragon-riddler.json) |
 | Dragon Rider | 34972 | [34972-dragon-rider.json](./34972-dragon-rider.json) |
