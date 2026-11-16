@@ -3571,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weedcraft Inc + Ruinarch: Devil Lettuce Bundle | 288858 | [288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json](./288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json) |
 | Weedcraft Inc + Terraformers: Aim High Bundle | 272181 | [272181-weedcraft-inc-terraformers-aim-high-bundle.json](./272181-weedcraft-inc-terraformers-aim-high-bundle.json) |
 | Weeds Social Club | 55013 | [55013-weeds-social-club.json](./55013-weeds-social-club.json) |
+| Weedy's World | 310778 | [310778-weedys-world.json](./310778-weedys-world.json) |
 | Weefager | 282216 | [282216-weefager.json](./282216-weefager.json) |
 | Weegee May Cry | 323998 | [323998-weegee-may-cry.json](./323998-weegee-may-cry.json) |
 | Weekday Warrior | 214390 | [214390-weekday-warrior.json](./214390-weekday-warrior.json) |
@@ -4496,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Time MUD | 229107 | [229107-wheel-of-time-mud.json](./229107-wheel-of-time-mud.json) |
 | Wheel of Wealth 3D | 113428 | [113428-wheel-of-wealth-3d.json](./113428-wheel-of-wealth-3d.json) |
 | Wheel of Words: Crossword | 332171 | [332171-wheel-of-words-crossword.json](./332171-wheel-of-words-crossword.json) |
+| Wheel Riders | 308602 | [308602-wheel-riders.json](./308602-wheel-riders.json) |
 | Wheel Riders Online | 76119 | [76119-wheel-riders-online.json](./76119-wheel-riders-online.json) |
 | Wheel Runner | 280137 | [280137-wheel-runner.json](./280137-wheel-runner.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
@@ -4613,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Crow Sings | 341748 | [341748-when-the-crow-sings.json](./341748-when-the-crow-sings.json) |
 | When the Devil Takes Hold | 235799 | [235799-when-the-devil-takes-hold.json](./235799-when-the-devil-takes-hold.json) |
 | When the Embers Wake | 381581 | [381581-when-the-embers-wake.json](./381581-when-the-embers-wake.json) |
+| When The King Speaks | 310315 | [310315-when-the-king-speaks.json](./310315-when-the-king-speaks.json) |
 | When the Light Dies | 258000 | [258000-when-the-light-dies.json](./258000-when-the-light-dies.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Moon Falls, We Speak | 390677 | [390677-when-the-moon-falls-we-speak.json](./390677-when-the-moon-falls-we-speak.json) |
@@ -5206,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Breath: Perfect Edition | 125290 | [125290-white-breath-perfect-edition.json](./125290-white-breath-perfect-edition.json) |
 | White Camellia | 398510 | [398510-white-camellia.json](./398510-white-camellia.json) |
 | White Carve | 182897 | [182897-white-carve.json](./182897-white-carve.json) |
+| White Cat Adventure Team | 312482 | [312482-white-cat-adventure-team.json](./312482-white-cat-adventure-team.json) |
 | White Cat Golf | 188342 | [188342-white-cat-golf.json](./188342-white-cat-golf.json) |
 | White Cat Project | 57296 | [57296-white-cat-project.json](./57296-white-cat-project.json) |
 | White Cat Stories | 346230 | [346230-white-cat-stories.json](./346230-white-cat-stories.json) |
