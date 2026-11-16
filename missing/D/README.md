@@ -2292,7 +2292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Vengeance | 51368 | [51368-dark-vengeance.json](./51368-dark-vengeance.json) |
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
-| Dark Void Zero | 10166 | [10166-dark-void-zero.json](./10166-dark-void-zero.json) |
 | Dark Walk | 241873 | [241873-dark-walk.json](./241873-dark-walk.json) |
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
 | Dark War Online | 155783 | [155783-dark-war-online.json](./155783-dark-war-online.json) |
@@ -20960,7 +20959,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
 | Dungeonloop | 401092 | [401092-dungeonloop.json](./401092-dungeonloop.json) |
 | Dungeonman | 149223 | [149223-dungeonman.json](./149223-dungeonman.json) |
-| Dungeonmans | 17192 | [17192-dungeonmans.json](./17192-dungeonmans.json) |
 | Dungeonmans: Pay2Lose | 168162 | [168162-dungeonmans-pay2lose.json](./168162-dungeonmans-pay2lose.json) |
 | DungeonMaze | 89012 | [89012-dungeonmaze.json](./89012-dungeonmaze.json) |
 | Dungeonoid | 147652 | [147652-dungeonoid.json](./147652-dungeonoid.json) |
