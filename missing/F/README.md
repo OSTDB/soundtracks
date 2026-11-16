@@ -11115,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge | 280963 | [280963-forge.json](./280963-forge.json) |
 | Forge | 326884 | [326884-forge.json](./326884-forge.json) |
 | Forge & Flame | 387257 | [387257-forge-and-flame.json](./387257-forge-and-flame.json) |
+| Forge & Fleet | 415597 | [415597-forge-and-fleet.json](./415597-forge-and-fleet.json) |
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
 | Forge and Fight | 118768 | [118768-forge-and-fight.json](./118768-forge-and-fight.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
