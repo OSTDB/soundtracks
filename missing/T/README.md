@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAD: That Alien Dude | 94060 | [94060-tad-that-alien-dude.json](./94060-tad-that-alien-dude.json) |
 | Tadahito: Story of Ellis | 152049 | [152049-tadahito-story-of-ellis.json](./152049-tadahito-story-of-ellis.json) |
 | Tadaima Wakusei Kaitakuchuu! | 97409 | [97409-tadaima-wakusei-kaitakuchuu.json](./97409-tadaima-wakusei-kaitakuchuu.json) |
+| Tadaima Yuusha Boshuuchuu | 419056 | [419056-tadaima-yuusha-boshuuchuu.json](./419056-tadaima-yuusha-boshuuchuu.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
 | Tadeo Jones | 62906 | [62906-tadeo-jones.json](./62906-tadeo-jones.json) |
@@ -12035,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Line | 335122 | [335122-the-hollow-line.json](./335122-the-hollow-line.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
+| The Hollowing | 419039 | [419039-the-hollowing.json](./419039-the-hollowing.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
 | The Holy Chalice | 190402 | [190402-the-holy-chalice.json](./190402-the-holy-chalice.json) |
 | The Holy Chalice | 194890 | [194890-the-holy-chalice.json](./194890-the-holy-chalice.json) |
@@ -18084,6 +18086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
+| The Secret of the Secret Room | 419048 | [419048-the-secret-of-the-secret-room.json](./419048-the-secret-of-the-secret-room.json) |
 | The secret of the stone | 164150 | [164150-the-secret-of-the-stone.json](./164150-the-secret-of-the-stone.json) |
 | The Secret of Timberland | 278361 | [278361-the-secret-of-timberland.json](./278361-the-secret-of-timberland.json) |
 | The Secret of Tremendous Corporation | 34994 | [34994-the-secret-of-tremendous-corporation.json](./34994-the-secret-of-tremendous-corporation.json) |
@@ -19677,6 +19680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tempest | 217775 | [217775-the-tempest.json](./217775-the-tempest.json) |
 | The Template | 359009 | [359009-the-template.json](./359009-the-template.json) |
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
+| The Temple | 419146 | [419146-the-temple.json](./419146-the-temple.json) |
 | The Temple Of | 224414 | [224414-the-temple-of.json](./224414-the-temple-of.json) |
 | The Temple of Adventure | 165406 | [165406-the-temple-of-adventure.json](./165406-the-temple-of-adventure.json) |
 | The Temple of Blooooood | 272166 | [272166-the-temple-of-blooooood.json](./272166-the-temple-of-blooooood.json) |
@@ -30796,6 +30800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Crusaders | 214895 | [214895-toxic-crusaders.json](./214895-toxic-crusaders.json) |
 | Toxic Crusaders | 252349 | [252349-toxic-crusaders.json](./252349-toxic-crusaders.json) |
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
+| Toxic Frontier | 419041 | [419041-toxic-frontier.json](./419041-toxic-frontier.json) |
 | Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
 | Toxic Harvest | 393286 | [393286-toxic-harvest.json](./393286-toxic-harvest.json) |
 | Toxic Jump | 392636 | [392636-toxic-jump.json](./392636-toxic-jump.json) |
@@ -31217,6 +31222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic | 312583 | [312583-traffic.json](./312583-traffic.json) |
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic | 92787 | [92787-traffic.json](./92787-traffic.json) |
+| Traffic Architect | 419013 | [419013-traffic-architect.json](./419013-traffic-architect.json) |
 | Traffic Brains 2 | 235560 | [235560-traffic-brains-2.json](./235560-traffic-brains-2.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
