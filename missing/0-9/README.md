@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100! | 99089 | [99089-100.json](./99089-100.json) |
 | 100% Accurate Youtuber Simulator | 376884 | [376884-100-accurate-youtuber-simulator.json](./376884-100-accurate-youtuber-simulator.json) |
 | 100% Challenge | 243469 | [243469-100-challenge.json](./243469-100-challenge.json) |
+| 100% Clean Inc. | 372901 | [372901-100-clean-inc.json](./372901-100-clean-inc.json) |
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
 | 100% Golf | 246270 | [246270-100-golf.json](./246270-100-golf.json) |
 | 100% Hidden Objects | 88626 | [88626-100-hidden-objects.json](./88626-100-hidden-objects.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Advance | 313462 | [313462-2048-advance.json](./313462-2048-advance.json) |
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
+| 2048 Art | 367330 | [367330-2048-art.json](./367330-2048-art.json) |
 | 2048 Attack on Titan | 316546 | [316546-2048-attack-on-titan.json](./316546-2048-attack-on-titan.json) |
 | 2048 Balls 3D | 175991 | [175991-2048-balls-3d.json](./175991-2048-balls-3d.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
@@ -2266,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2nd Obakeidoro! Fest Bundle | 328985 | [328985-2nd-obakeidoro-fest-bundle.json](./328985-2nd-obakeidoro-fest-bundle.json) |
 | 2nd Shot | 358084 | [358084-2nd-shot.json](./358084-2nd-shot.json) |
 | 2nd Space | 2362 | [2362-2nd-space.json](./2362-2nd-space.json) |
+| 2Person | 371759 | [371759-2person.json](./371759-2person.json) |
 | 2Pupp | 203862 | [203862-2pupp.json](./203862-2pupp.json) |
 | 2Puzzle It: Fantasy | 84585 | [84585-2puzzle-it-fantasy.json](./84585-2puzzle-it-fantasy.json) |
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
@@ -2388,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Switch Problem | 424572 | [424572-3-switch-problem.json](./424572-3-switch-problem.json) |
 | 3 Tactical Lines | 158538 | [158538-3-tactical-lines.json](./158538-3-tactical-lines.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
+| 3 Triplets, 18 Tits | 367335 | [367335-3-triplets-18-tits.json](./367335-3-triplets-18-tits.json) |
 | 3-2-1, Rattle Battle! | 51056 | [51056-3-2-1-rattle-battle.json](./51056-3-2-1-rattle-battle.json) |
 | 3-Bit Explorer | 326037 | [326037-3-bit-explorer.json](./326037-3-bit-explorer.json) |
 | 3-byou Banana | 288734 | [288734-3-byou-banana.json](./288734-3-byou-banana.json) |
@@ -2753,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MahJongg | 84661 | [84661-3d-mahjongg.json](./84661-3d-mahjongg.json) |
 | 3D Mania | 79028 | [79028-3d-mania.json](./79028-3d-mania.json) |
 | 3D Marble Flip | 71437 | [71437-3d-marble-flip.json](./71437-3d-marble-flip.json) |
+| 3D Massage | 367334 | [367334-3d-massage.json](./367334-3d-massage.json) |
 | 3D Math: Ultra | 172206 | [172206-3d-math-ultra.json](./172206-3d-math-ultra.json) |
 | 3D Maze | 382548 | [382548-3d-maze.json](./382548-3d-maze.json) |
 | 3D Maze | 382550 | [382550-3d-maze.json](./382550-3d-maze.json) |
@@ -3566,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Lily Hot | 190929 | [190929-69-lily-hot.json](./190929-69-lily-hot.json) |
 | 69 Love | 337782 | [337782-69-love.json](./337782-69-love.json) |
 | 69 Mary Love | 192630 | [192630-69-mary-love.json](./192630-69-mary-love.json) |
+| 69 Megumi Love | 367336 | [367336-69-megumi-love.json](./367336-69-megumi-love.json) |
 | 69 Mizuki Love | 196121 | [196121-69-mizuki-love.json](./196121-69-mizuki-love.json) |
 | 69 Moriko Love | 192686 | [192686-69-moriko-love.json](./192686-69-moriko-love.json) |
 | 69 Naomi Hot | 223068 | [223068-69-naomi-hot.json](./223068-69-naomi-hot.json) |
@@ -3664,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7: Molmorth no Kiheitai | 70459 | [70459-7-molmorth-no-kiheitai.json](./70459-7-molmorth-no-kiheitai.json) |
 | 7:45, Densha Nite. | 285897 | [285897-7-45-densha-nite.json](./285897-7-45-densha-nite.json) |
 | 7.62mm | 79155 | [79155-7-62mm.json](./79155-7-62mm.json) |
+| 7.7 Gate | 371777 | [371777-7-7-gate.json](./371777-7-7-gate.json) |
 | 7'Scarlet | 12639 | [12639-7scarlet.json](./12639-7scarlet.json) |
 | 7° Continente | 397054 | [397054-7-continente.json](./397054-7-continente.json) |
 | 70 Seconds Survival | 106394 | [106394-70-seconds-survival.json](./106394-70-seconds-survival.json) |
@@ -4047,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Bricks Wizard Academy | 8619 | [8619-99-bricks-wizard-academy.json](./8619-99-bricks-wizard-academy.json) |
 | 99 brushes or less | 309200 | [309200-99-brushes-or-less.json](./309200-99-brushes-or-less.json) |
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
+| 99 Days | 372900 | [372900-99-days.json](./372900-99-days.json) |
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
 | 99 Fails | 239125 | [239125-99-fails.json](./239125-99-fails.json) |
 | 99 Managers Futsal Edition | 359667 | [359667-99-managers-futsal-edition.json](./359667-99-managers-futsal-edition.json) |
