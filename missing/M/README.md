@@ -6369,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
 | Math Ninja HD | 87208 | [87208-math-ninja-hd.json](./87208-math-ninja-hd.json) |
 | Math Olympiad | 276572 | [276572-math-olympiad.json](./276572-math-olympiad.json) |
+| Math Pals: Dino Academy | 402577 | [402577-math-pals-dino-academy.json](./402577-math-pals-dino-academy.json) |
 | Math Pals: Monster Mania | 420695 | [420695-math-pals-monster-mania.json](./420695-math-pals-monster-mania.json) |
 | Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
 | Math Party Fezgugel | 360699 | [360699-math-party-fezgugel.json](./360699-math-party-fezgugel.json) |
@@ -14257,6 +14258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineSorter | 298545 | [298545-minesorter.json](./298545-minesorter.json) |
 | MineStickman | 76025 | [76025-minestickman.json](./76025-minestickman.json) |
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
+| Minestrike | 403849 | [403849-minestrike.json](./403849-minestrike.json) |
 | MineSweep | 96878 | [96878-minesweep.json](./96878-minesweep.json) |
 | Minesweeper | 234164 | [234164-minesweeper.json](./234164-minesweeper.json) |
 | Minesweeper | 245020 | [245020-minesweeper.json](./245020-minesweeper.json) |
@@ -14417,6 +14419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Fish | 61482 | [61482-mini-fish.json](./61482-mini-fish.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
+| Mini Football Legends | 405195 | [405195-mini-football-legends.json](./405195-mini-football-legends.json) |
 | Mini Gal4Xy | 117456 | [117456-mini-gal4xy.json](./117456-mini-gal4xy.json) |
 | Mini Game Collection | 40668 | [40668-mini-game-collection.json](./40668-mini-game-collection.json) |
 | Mini Game Compil 2 | 381731 | [381731-mini-game-compil-2.json](./381731-mini-game-compil-2.json) |
@@ -14709,6 +14712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minicraft | 269923 | [269923-minicraft.json](./269923-minicraft.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
 | Minicraft Deluxe | 131716 | [131716-minicraft-deluxe.json](./131716-minicraft-deluxe.json) |
+| Minicraft PSP | 405191 | [405191-minicraft-psp.json](./405191-minicraft-psp.json) |
 | Minicraft Shooter | 157444 | [157444-minicraft-shooter.json](./157444-minicraft-shooter.json) |
 | Minicraft+ | 131717 | [131717-minicraft.json](./131717-minicraft.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
@@ -15452,6 +15456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Chocolate Eater | 304259 | [304259-miss-chocolate-eater.json](./304259-miss-chocolate-eater.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
 | Miss Clue: Peril In Pemberley! | 229888 | [229888-miss-clue-peril-in-pemberley.json](./229888-miss-clue-peril-in-pemberley.json) |
+| Miss Clue: Secret of the Haunted Garden | 405176 | [405176-miss-clue-secret-of-the-haunted-garden.json](./405176-miss-clue-secret-of-the-haunted-garden.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
 | Miss Fisher and the Deathly Maze | 26783 | [26783-miss-fisher-and-the-deathly-maze.json](./26783-miss-fisher-and-the-deathly-maze.json) |
 | Miss Inconspicuous Maid Girl Cleaning Co. | 327905 | [327905-miss-inconspicuous-maid-girl-cleaning-co.json](./327905-miss-inconspicuous-maid-girl-cleaning-co.json) |
@@ -17939,6 +17944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter: World - Collector's Edition | 81289 | [81289-monster-hunter-world-collectors-edition.json](./81289-monster-hunter-world-collectors-edition.json) |
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
 | Monster Hunter: World - Iceborne Deluxe Kit | 148509 | [148509-monster-hunter-world-iceborne-deluxe-kit.json](./148509-monster-hunter-world-iceborne-deluxe-kit.json) |
+| Monster Hunter: World - Iceborne Free Content Collection Pack | 403842 | [403842-monster-hunter-world-iceborne-free-content-collection-pack.json](./403842-monster-hunter-world-iceborne-free-content-collection-pack.json) |
 | Monster Hunter: World - Iceborne: Complete Handler Costume Pack | 164577 | [164577-monster-hunter-world-iceborne-complete-handler-costume-pack.json](./164577-monster-hunter-world-iceborne-complete-handler-costume-pack.json) |
 | Monster Hunter: World - Iceborne: Master Edition Digital Deluxe | 164814 | [164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json](./164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json) |
 | Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
@@ -18905,6 +18911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
 | Moonlit Reaper | 341721 | [341721-moonlit-reaper.json](./341721-moonlit-reaper.json) |
 | MoonLite | 417255 | [417255-moonlite.json](./417255-moonlite.json) |
+| Moonlords: Tides of Battle | 405174 | [405174-moonlords-tides-of-battle.json](./405174-moonlords-tides-of-battle.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
 | Moonman | 208569 | [208569-moonman.json](./208569-moonman.json) |
 | MoonMan Adventures | 305923 | [305923-moonman-adventures.json](./305923-moonman-adventures.json) |
