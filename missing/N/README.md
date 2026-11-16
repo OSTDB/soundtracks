@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napolitan Hotel 2D | 411228 | [411228-napolitan-hotel-2d.json](./411228-napolitan-hotel-2d.json) |
 | Napped | 219648 | [219648-napped.json](./219648-napped.json) |
 | Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
+| Nappy Knight | 409173 | [409173-nappy-knight.json](./409173-nappy-knight.json) |
 | NAR - Not Another Royale | 113276 | [113276-nar-not-another-royale.json](./113276-nar-not-another-royale.json) |
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
 | Naraba: The Labyrinth of Light | 206781 | [206781-naraba-the-labyrinth-of-light.json](./206781-naraba-the-labyrinth-of-light.json) |
@@ -5193,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
 | Nightmare Retro | 422472 | [422472-nightmare-retro.json](./422472-nightmare-retro.json) |
 | Nightmare Rooms VR | 207753 | [207753-nightmare-rooms-vr.json](./207753-nightmare-rooms-vr.json) |
+| Nightmare Rotation | 409170 | [409170-nightmare-rotation.json](./409170-nightmare-rotation.json) |
 | Nightmare Roulette Pack | 418347 | [418347-nightmare-roulette-pack.json](./418347-nightmare-roulette-pack.json) |
 | Nightmare Shift | 179716 | [179716-nightmare-shift.json](./179716-nightmare-shift.json) |
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
