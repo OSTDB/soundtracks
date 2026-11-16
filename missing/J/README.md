@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack & Bob Remastered | 316308 | [316308-jack-and-bob-remastered.json](./316308-jack-and-bob-remastered.json) |
 | Jack & Detective | 197468 | [197468-jack-and-detective.json](./197468-jack-and-detective.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
+| Jack & Kenne | 236045 | [236045-jack-and-kenne.json](./236045-jack-and-kenne.json) |
 | Jack & the Beanstalk | 284214 | [284214-jack-and-the-beanstalk.json](./284214-jack-and-the-beanstalk.json) |
 | Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
 | Jack & The Diamonds | 115457 | [115457-jack-and-the-diamonds.json](./115457-jack-and-the-diamonds.json) |
@@ -1504,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Dog | 103969 | [103969-jetpack-dog.json](./103969-jetpack-dog.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
 | Jetpack Fighter | 24052 | [24052-jetpack-fighter.json](./24052-jetpack-fighter.json) |
+| Jetpack George! | 235958 | [235958-jetpack-george.json](./235958-jetpack-george.json) |
 | Jetpack Guy | 223397 | [223397-jetpack-guy.json](./223397-jetpack-guy.json) |
 | Jetpack Heroes | 65165 | [65165-jetpack-heroes.json](./65165-jetpack-heroes.json) |
 | Jetpack Jack | 150890 | [150890-jetpack-jack.json](./150890-jetpack-jack.json) |
