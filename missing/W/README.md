@@ -8326,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
 | Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
+| Woodworm | 381485 | [381485-woodworm.json](./381485-woodworm.json) |
 | Woodworm Classic | 306738 | [306738-woodworm-classic.json](./306738-woodworm-classic.json) |
 | Woody Ball | 76009 | [76009-woody-ball.json](./76009-woody-ball.json) |
 | Woody Blox | 74916 | [74916-woody-blox.json](./74916-woody-blox.json) |
@@ -10437,6 +10438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WuKong Up | 288452 | [288452-wukong-up.json](./288452-wukong-up.json) |
 | Wukong's Child: Monkey King Myth | 317268 | [317268-wukongs-child-monkey-king-myth.json](./317268-wukongs-child-monkey-king-myth.json) |
 | Wukong's Pool | 312532 | [312532-wukongs-pool.json](./312532-wukongs-pool.json) |
+| WuKung: A Legendary Adventure | 381494 | [381494-wukung-a-legendary-adventure.json](./381494-wukung-a-legendary-adventure.json) |
 | Wulfram | 64092 | [64092-wulfram.json](./64092-wulfram.json) |
 | Wulfram II | 71227 | [71227-wulfram-ii.json](./71227-wulfram-ii.json) |
 | Wulin Chess | 155938 | [155938-wulin-chess.json](./155938-wulin-chess.json) |
