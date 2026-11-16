@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Pigeons 4 | 377680 | [377680-i-commissioned-some-pigeons-4.json](./377680-i-commissioned-some-pigeons-4.json) |
 | I Commissioned Some Snails | 288783 | [288783-i-commissioned-some-snails.json](./288783-i-commissioned-some-snails.json) |
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
+| I Commissioned Some Snails 3 | 334356 | [334356-i-commissioned-some-snails-3.json](./334356-i-commissioned-some-snails-3.json) |
 | I Commissioned Some Snails 4 | 360653 | [360653-i-commissioned-some-snails-4.json](./360653-i-commissioned-some-snails-4.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Contemplated the Sun of Limbo | 143549 | [143549-i-contemplated-the-sun-of-limbo.json](./143549-i-contemplated-the-sun-of-limbo.json) |
@@ -4408,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
 | Infinite Survival | 96624 | [96624-infinite-survival.json](./96624-infinite-survival.json) |
 | Infinite Survivor | 303582 | [303582-infinite-survivor.json](./303582-infinite-survivor.json) |
+| Infinite Switch | 324030 | [324030-infinite-switch.json](./324030-infinite-switch.json) |
 | Infinite Tanks | 30759 | [30759-infinite-tanks.json](./30759-infinite-tanks.json) |
 | Infinite Tanks WWII | 150266 | [150266-infinite-tanks-wwii.json](./150266-infinite-tanks-wwii.json) |
 | Infinite Tournament Paintball | 161626 | [161626-infinite-tournament-paintball.json](./161626-infinite-tournament-paintball.json) |
@@ -5799,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Orphan | 178634 | [178634-interstellar-orphan.json](./178634-interstellar-orphan.json) |
 | Interstellar Pilot | 207860 | [207860-interstellar-pilot.json](./207860-interstellar-pilot.json) |
 | Interstellar Pilot 2 | 236167 | [236167-interstellar-pilot-2.json](./236167-interstellar-pilot-2.json) |
+| Interstellar Pioneering | 318108 | [318108-interstellar-pioneering.json](./318108-interstellar-pioneering.json) |
 | Interstellar Plunderer | 287003 | [287003-interstellar-plunderer.json](./287003-interstellar-plunderer.json) |
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
 | Interstellar Rangers | 268827 | [268827-interstellar-rangers.json](./268827-interstellar-rangers.json) |
@@ -5932,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Flames: Retro Truck Pack 1 | 255162 | [255162-into-the-flames-retro-truck-pack-1.json](./255162-into-the-flames-retro-truck-pack-1.json) |
 | Into The Flames: Spooky Pack | 285606 | [285606-into-the-flames-spooky-pack.json](./285606-into-the-flames-spooky-pack.json) |
 | Into the Fold: Nala Junction | 345282 | [345282-into-the-fold-nala-junction.json](./345282-into-the-fold-nala-junction.json) |
+| Into the Forest: Out of Your Mind | 335539 | [335539-into-the-forest-out-of-your-mind.json](./335539-into-the-forest-out-of-your-mind.json) |
 | Into the Gloom | 10441 | [10441-into-the-gloom.json](./10441-into-the-gloom.json) |
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
@@ -7115,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
 | Island Raiders: War of Legends | 323150 | [323150-island-raiders-war-of-legends.json](./323150-island-raiders-war-of-legends.json) |
 | Island Realms | 54118 | [54118-island-realms.json](./54118-island-realms.json) |
+| Island Rescue | 335548 | [335548-island-rescue.json](./335548-island-rescue.json) |
 | Island Restoration | 392569 | [392569-island-restoration.json](./392569-island-restoration.json) |
 | Island Robot Farm | 344883 | [344883-island-robot-farm.json](./344883-island-robot-farm.json) |
 | Island Rush | 274053 | [274053-island-rush.json](./274053-island-rush.json) |
@@ -7841,6 +7846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWO: Bloodbath in the Bonins | 32979 | [32979-iwo-bloodbath-in-the-bonins.json](./32979-iwo-bloodbath-in-the-bonins.json) |
 | IwoCon 2 | 235778 | [235778-iwocon-2.json](./235778-iwocon-2.json) |
 | IwoCon 2021 | 141005 | [141005-iwocon-2021.json](./141005-iwocon-2021.json) |
+| IWWHIIWWHITOMIROTPG: The Game! | 320491 | [320491-iwwhiiwwhitomirotpg-the-game.json](./320491-iwwhiiwwhitomirotpg-the-game.json) |
 | Ixion | 282777 | [282777-ixion.json](./282777-ixion.json) |
 | Ixion | 40345 | [40345-ixion.json](./40345-ixion.json) |
 | Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
