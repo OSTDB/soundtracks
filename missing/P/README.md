@@ -20303,7 +20303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Saves the Stew | 128779 | [128779-putt-putt-saves-the-stew.json](./128779-putt-putt-saves-the-stew.json) |
 | Putt-Putt Saves the Zoo | 3736 | [3736-putt-putt-saves-the-zoo.json](./3736-putt-putt-saves-the-zoo.json) |
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
-| Putt-Putt: Pep's Birthday Surprise | 3740 | [3740-putt-putt-peps-birthday-surprise.json](./3740-putt-putt-peps-birthday-surprise.json) |
 | Putt-Putt's Fun House | 242140 | [242140-putt-putts-fun-house.json](./242140-putt-putts-fun-house.json) |
 | Putt-Putt's Fun Pack | 4253 | [4253-putt-putts-fun-pack.json](./4253-putt-putts-fun-pack.json) |
 | Putt.day | 413151 | [413151-putt-day.json](./413151-putt-day.json) |
