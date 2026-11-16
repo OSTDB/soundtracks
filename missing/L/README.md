@@ -7700,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
 | Locus Alba | 395985 | [395985-locus-alba.json](./395985-locus-alba.json) |
 | Locus Solus | 32243 | [32243-locus-solus.json](./32243-locus-solus.json) |
+| Locust City: An Elysium Story | 411854 | [411854-locust-city-an-elysium-story.json](./411854-locust-city-an-elysium-story.json) |
 | Locust Hunter | 310821 | [310821-locust-hunter.json](./310821-locust-hunter.json) |
 | Locust, U.S.A. | 143275 | [143275-locust-u-s-a.json](./143275-locust-u-s-a.json) |
 | Lode Runner | 166708 | [166708-lode-runner.json](./166708-lode-runner.json) |
@@ -8210,6 +8211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Road | 108233 | [108233-long-road.json](./108233-long-road.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
 | Long Run | 273572 | [273572-long-run.json](./273572-long-run.json) |
+| Long Shadow | 411845 | [411845-long-shadow.json](./411845-long-shadow.json) |
 | Lóng Shén de Xīnniáng Wàizhuàn: Yù Líng Qǐ Tán | 373692 | [373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json](./373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json) |
 | Long Since The Eschaton | 319072 | [319072-long-since-the-eschaton.json](./319072-long-since-the-eschaton.json) |
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
