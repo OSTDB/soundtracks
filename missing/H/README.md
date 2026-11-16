@@ -9842,6 +9842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hodgepodge Hunch | 249082 | [249082-hodgepodge-hunch.json](./249082-hodgepodge-hunch.json) |
 | Hodgepodge Hunch: Premium Pack - Sakura | 298260 | [298260-hodgepodge-hunch-premium-pack-sakura.json](./298260-hodgepodge-hunch-premium-pack-sakura.json) |
 | Hodj 'n' Podj | 79050 | [79050-hodj-n-podj.json](./79050-hodj-n-podj.json) |
+| Hodka | 419028 | [419028-hodka.json](./419028-hodka.json) |
 | Hodl Simulator | 159570 | [159570-hodl-simulator.json](./159570-hodl-simulator.json) |
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
