@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
 | War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
+| War Glory | 396150 | [396150-war-glory.json](./396150-war-glory.json) |
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
 | War Grid Hero | 367925 | [367925-war-grid-hero.json](./367925-war-grid-hero.json) |
 | War Grids | 335598 | [335598-war-grids.json](./335598-war-grids.json) |
@@ -4370,6 +4371,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's done is Done | 316005 | [316005-whats-done-is-done.json](./316005-whats-done-is-done.json) |
 | What’s Father’s Father Called? | 393541 | [393541-what-s-father-s-father-called.json](./393541-what-s-father-s-father-called.json) |
 | What's for Dinner? | 363045 | [363045-whats-for-dinner.json](./363045-whats-for-dinner.json) |
+| What's for Dinner? | 396170 | [396170-whats-for-dinner.json](./396170-whats-for-dinner.json) |
+| What's for Dinner? 2 | 396171 | [396171-whats-for-dinner-2.json](./396171-whats-for-dinner-2.json) |
 | What's Her face | 201271 | [201271-whats-her-face.json](./201271-whats-her-face.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What’s in the Box? | 383452 | [383452-what-s-in-the-box.json](./383452-what-s-in-the-box.json) |
@@ -4684,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Humans Shouldn't Go | 107445 | [107445-where-humans-shouldnt-go.json](./107445-where-humans-shouldnt-go.json) |
 | Where I Belong | 258683 | [258683-where-i-belong.json](./258683-where-i-belong.json) |
 | Where I Lived | 224463 | [224463-where-i-lived.json](./224463-where-i-lived.json) |
+| Where in America is Carmen Sandiego?: The Great Amtrak Train Adventure | 396177 | [396177-where-in-america-is-carmen-sandiego-the-great-amtrak-train-adventure.json](./396177-where-in-america-is-carmen-sandiego-the-great-amtrak-train-adventure.json) |
 | Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
 | Where in Europe is Carmen Sandiego? | 12824 | [12824-where-in-europe-is-carmen-sandiego.json](./12824-where-in-europe-is-carmen-sandiego.json) |
 | Where in Hell is Carmen Santiago? | 341700 | [341700-where-in-hell-is-carmen-santiago.json](./341700-where-in-hell-is-carmen-santiago.json) |
@@ -8178,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
 | Wonders of the World: Collector's Edition | 338065 | [338065-wonders-of-the-world-collectors-edition.json](./338065-wonders-of-the-world-collectors-edition.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
+| Wonders Puzzle | 395314 | [395314-wonders-puzzle.json](./395314-wonders-puzzle.json) |
 | Wondershot | 33830 | [33830-wondershot.json](./33830-wondershot.json) |
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
