@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, You Touch My Balls | 377910 | [377910-oh-you-touch-my-balls.json](./377910-oh-you-touch-my-balls.json) |
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
 | Oh! Fuse Box | 243528 | [243528-oh-fuse-box.json](./243528-oh-fuse-box.json) |
+| Oh! Gacchiman Kyuukyoku no Omega Chinpou to Momige 26 | 222548 | [222548-oh-gacchiman-kyuukyoku-no-omega-chinpou-to-momige-26.json](./222548-oh-gacchiman-kyuukyoku-no-omega-chinpou-to-momige-26.json) |
 | Oh! Jaemi | 59284 | [59284-oh-jaemi.json](./59284-oh-jaemi.json) |
 | Oh! Mochi! | 148815 | [148815-oh-mochi.json](./148815-oh-mochi.json) |
 | OH! My Office | 223992 | [223992-oh-my-office.json](./223992-oh-my-office.json) |
@@ -4972,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OSgrid | 64483 | [64483-osgrid.json](./64483-osgrid.json) |
 | Oshaberi Inko Club | 49734 | [49734-oshaberi-inko-club.json](./49734-oshaberi-inko-club.json) |
 | Oshaberi King! Komyuryoku Shindan Game | 396441 | [396441-oshaberi-king-komyuryoku-shindan-game.json](./396441-oshaberi-king-komyuryoku-shindan-game.json) |
+| Oshaberi Usagi Mechakawa Oshare Collection | 222434 | [222434-oshaberi-usagi-mechakawa-oshare-collection.json](./222434-oshaberi-usagi-mechakawa-oshare-collection.json) |
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
 | Oshare de Kawaii Koinu to Asobo!: Machi-hen | 141148 | [141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json](./141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json) |
 | Oshare Majo Love and Berry: Cute ni Oshare | 300423 | [300423-oshare-majo-love-and-berry-cute-ni-oshare.json](./300423-oshare-majo-love-and-berry-cute-ni-oshare.json) |
