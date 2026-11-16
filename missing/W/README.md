@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to QiQu Club | 400226 | [400226-welcome-to-qiqu-club.json](./400226-welcome-to-qiqu-club.json) |
 | Welcome to Quiet Haven | 122728 | [122728-welcome-to-quiet-haven.json](./122728-welcome-to-quiet-haven.json) |
 | Welcome to Scott's Story in the World of Our Church and Halloween: Visual Novel | 225588 | [225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
+| Welcome to Silverscale Lake! | 297407 | [297407-welcome-to-silverscale-lake.json](./297407-welcome-to-silverscale-lake.json) |
 | Welcome to Sushi Tree | 316612 | [316612-welcome-to-sushi-tree.json](./316612-welcome-to-sushi-tree.json) |
 | Welcome to the Adamant Maintenance Monitoring Terminal | 186599 | [186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json](./186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
