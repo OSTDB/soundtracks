@@ -414,6 +414,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima III: Exodus | 417852 | [417852-ultima-iii-exodus.json](./417852-ultima-iii-exodus.json) |
 | Ultima IV | 400033 | [400033-ultima-iv.json](./400033-ultima-iv.json) |
 | Ultima IV: Quest of the Avatar | 2878 | [2878-ultima-iv-quest-of-the-avatar.json](./2878-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400011 | [400011-ultima-iv-quest-of-the-avatar.json](./400011-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400012 | [400012-ultima-iv-quest-of-the-avatar.json](./400012-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400015 | [400015-ultima-iv-quest-of-the-avatar.json](./400015-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400016 | [400016-ultima-iv-quest-of-the-avatar.json](./400016-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400017 | [400017-ultima-iv-quest-of-the-avatar.json](./400017-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400019 | [400019-ultima-iv-quest-of-the-avatar.json](./400019-ultima-iv-quest-of-the-avatar.json) |
 | Ultima IV: Quest of the Avatar | 400030 | [400030-ultima-iv-quest-of-the-avatar.json](./400030-ultima-iv-quest-of-the-avatar.json) |
 | Ultima IV: Quest of the Avatar | 400031 | [400031-ultima-iv-quest-of-the-avatar.json](./400031-ultima-iv-quest-of-the-avatar.json) |
 | Ultima IV: Quest of the Avatar | 400032 | [400032-ultima-iv-quest-of-the-avatar.json](./400032-ultima-iv-quest-of-the-avatar.json) |
@@ -1416,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unanimy | 211756 | [211756-unanimy.json](./211756-unanimy.json) |
 | Unannounced Survival Game | 125919 | [125919-unannounced-survival-game.json](./125919-unannounced-survival-game.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
+| Unarchived | 401217 | [401217-unarchived.json](./401217-unarchived.json) |
 | Unarmed Area | 191153 | [191153-unarmed-area.json](./191153-unarmed-area.json) |
 | Unattached: City of Shadows | 372440 | [372440-unattached-city-of-shadows.json](./372440-unattached-city-of-shadows.json) |
 | Unauthorised | 393570 | [393570-unauthorised.json](./393570-unauthorised.json) |
@@ -2890,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmourned | 330058 | [330058-unmourned.json](./330058-unmourned.json) |
 | Unmurk | 350386 | [350386-unmurk.json](./350386-unmurk.json) |
 | Unnamed | 130139 | [130139-unnamed.json](./130139-unnamed.json) |
+| Unnamed | 401242 | [401242-unnamed.json](./401242-unnamed.json) |
 | Unnamed Adventure | 126713 | [126713-unnamed-adventure.json](./126713-unnamed-adventure.json) |
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
 | Unnamed El Shaddai Project | 93535 | [93535-unnamed-el-shaddai-project.json](./93535-unnamed-el-shaddai-project.json) |
