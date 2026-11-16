@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroads Online: Pioneer Edition | 324772 | [324772-railroads-online-pioneer-edition.json](./324772-railroads-online-pioneer-edition.json) |
 | RailRoadVR | 120582 | [120582-railroadvr.json](./120582-railroadvr.json) |
 | Rails | 101017 | [101017-rails.json](./101017-rails.json) |
+| Rails & Rivals | 398621 | [398621-rails-and-rivals.json](./398621-rails-and-rivals.json) |
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
 | Rails Lite | 91277 | [91277-rails-lite.json](./91277-rails-lite.json) |
 | Rails West | 24661 | [24661-rails-west.json](./24661-rails-west.json) |
@@ -5898,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renzo Racer | 38812 | [38812-renzo-racer.json](./38812-renzo-racer.json) |
 | Reoguna | 425435 | [425435-reoguna.json](./425435-reoguna.json) |
 | Reouija Sleepover | 214436 | [214436-reouija-sleepover.json](./214436-reouija-sleepover.json) |
+| Reoxia | 399240 | [399240-reoxia.json](./399240-reoxia.json) |
 | Repair Adventure | 265531 | [265531-repair-adventure.json](./265531-repair-adventure.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
 | Repair Programming | 181140 | [181140-repair-programming.json](./181140-repair-programming.json) |
