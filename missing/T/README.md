@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Team | 278353 | [278353-tank-team.json](./278353-tank-team.json) |
 | Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
 | Tank Top Tactics | 212842 | [212842-tank-top-tactics.json](./212842-tank-top-tactics.json) |
+| Tank Top: Royale | 419804 | [419804-tank-top-royale.json](./419804-tank-top-royale.json) |
 | Tank Trace | 243849 | [243849-tank-trace.json](./243849-tank-trace.json) |
 | Tank Trax | 73064 | [73064-tank-trax.json](./73064-tank-trax.json) |
 | Tank Tread | 31584 | [31584-tank-tread.json](./31584-tank-tread.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
 | TCG Card Shop Master | 322506 | [322506-tcg-card-shop-master.json](./322506-tcg-card-shop-master.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
+| TCG Collector Fantasy | 419822 | [419822-tcg-collector-fantasy.json](./419822-tcg-collector-fantasy.json) |
 | TCG Empire: Card Shop Simulator | 322508 | [322508-tcg-empire-card-shop-simulator.json](./322508-tcg-empire-card-shop-simulator.json) |
 | TCG Master Trader | 368362 | [368362-tcg-master-trader.json](./368362-tcg-master-trader.json) |
 | TCG Multiplayer Card Shop Simulator | 322643 | [322643-tcg-multiplayer-card-shop-simulator.json](./322643-tcg-multiplayer-card-shop-simulator.json) |
@@ -8474,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Count of Monte Clicker | 339082 | [339082-the-count-of-monte-clicker.json](./339082-the-count-of-monte-clicker.json) |
 | The Count of Monte Cristo | 207123 | [207123-the-count-of-monte-cristo.json](./207123-the-count-of-monte-cristo.json) |
 | The Count of Monte Cristo | 380899 | [380899-the-count-of-monte-cristo.json](./380899-the-count-of-monte-cristo.json) |
+| The Countdown | 419815 | [419815-the-countdown.json](./419815-the-countdown.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
 | The Counterattack of Sacrifice | 117230 | [117230-the-counterattack-of-sacrifice.json](./117230-the-counterattack-of-sacrifice.json) |
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
@@ -8781,6 +8784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Heart: Book 2 | 313734 | [313734-the-cursed-heart-book-2.json](./313734-the-cursed-heart-book-2.json) |
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
 | The Cursed Hour | 339209 | [339209-the-cursed-hour.json](./339209-the-cursed-hour.json) |
+| The Cursed Island: Mask of Baragus - Collector's Edition | 419823 | [419823-the-cursed-island-mask-of-baragus-collectors-edition.json](./419823-the-cursed-island-mask-of-baragus-collectors-edition.json) |
 | The Cursed Knight | 236441 | [236441-the-cursed-knight.json](./236441-the-cursed-knight.json) |
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
 | The Cursed Legacy | 287312 | [287312-the-cursed-legacy.json](./287312-the-cursed-legacy.json) |
@@ -15752,6 +15756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Murder of Adrian Elkwood | 70851 | [70851-the-murder-of-adrian-elkwood.json](./70851-the-murder-of-adrian-elkwood.json) |
 | The Murder of Ava Monroe | 377685 | [377685-the-murder-of-ava-monroe.json](./377685-the-murder-of-ava-monroe.json) |
 | The Murder of Dale Decker | 290105 | [290105-the-murder-of-dale-decker.json](./290105-the-murder-of-dale-decker.json) |
+| The Murder of Jessica Channing | 419728 | [419728-the-murder-of-jessica-channing.json](./419728-the-murder-of-jessica-channing.json) |
 | The Murder of Sherlock Holmes | 293582 | [293582-the-murder-of-sherlock-holmes.json](./293582-the-murder-of-sherlock-holmes.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
 | The Murder of Yesterday | 405714 | [405714-the-murder-of-yesterday.json](./405714-the-murder-of-yesterday.json) |
@@ -16547,6 +16552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paribneur Combination | 189138 | [189138-the-paribneur-combination.json](./189138-the-paribneur-combination.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Park | 11649 | [11649-the-park.json](./11649-the-park.json) |
+| The Park Keeper | 419731 | [419731-the-park-keeper.json](./419731-the-park-keeper.json) |
 | The Park Ranger | 401248 | [401248-the-park-ranger.json](./401248-the-park-ranger.json) |
 | The Parking Lot | 232743 | [232743-the-parking-lot.json](./232743-the-parking-lot.json) |
 | The Parrot that Summons Demons | 232817 | [232817-the-parrot-that-summons-demons.json](./232817-the-parrot-that-summons-demons.json) |
@@ -23027,6 +23033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
 | ThroneBreaker | 363662 | [363662-thronebreaker.json](./363662-thronebreaker.json) |
 | Thronefall | 236547 | [236547-thronefall.json](./236547-thronefall.json) |
+| Thronefall: Craaghelm | 419816 | [419816-thronefall-craaghelm.json](./419816-thronefall-craaghelm.json) |
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
 | Throrbs | 420208 | [420208-throrbs.json](./420208-throrbs.json) |
@@ -25521,6 +25528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles Shooter Puzzle Cube | 128315 | [128315-tiles-shooter-puzzle-cube.json](./128315-tiles-shooter-puzzle-cube.json) |
 | Tiles Town | 240118 | [240118-tiles-town.json](./240118-tiles-town.json) |
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
+| Tilescapes: Blast | 419840 | [419840-tilescapes-blast.json](./419840-tilescapes-blast.json) |
 | Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
 | Tilesweeper | 104139 | [104139-tilesweeper.json](./104139-tilesweeper.json) |
 | TileSwitcher | 202028 | [202028-tileswitcher.json](./202028-tileswitcher.json) |
