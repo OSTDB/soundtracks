@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Luminaria | 165355 | [165355-tales-of-luminaria.json](./165355-tales-of-luminaria.json) |
 | Tales of Lunar Scales | 331735 | [331735-tales-of-lunar-scales.json](./331735-tales-of-lunar-scales.json) |
 | Tales of Lunea | 74713 | [74713-tales-of-lunea.json](./74713-tales-of-lunea.json) |
+| Tales of Lyfael | 344596 | [344596-tales-of-lyfael.json](./344596-tales-of-lyfael.json) |
 | Tales of Mahabharata | 105559 | [105559-tales-of-mahabharata.json](./105559-tales-of-mahabharata.json) |
 | Tales of Maj'Eyal | 8796 | [8796-tales-of-majeyal.json](./8796-tales-of-majeyal.json) |
 | Tales of Maj'Eyal: Ashes of Urh'Rok | 8797 | [8797-tales-of-majeyal-ashes-of-urhrok.json](./8797-tales-of-majeyal-ashes-of-urhrok.json) |
@@ -9894,6 +9895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elevator Breakdown | 337700 | [337700-the-elevator-breakdown.json](./337700-the-elevator-breakdown.json) |
 | The Elevator Game | 176256 | [176256-the-elevator-game.json](./176256-the-elevator-game.json) |
 | The Elevator Game with Catgirls | 188990 | [188990-the-elevator-game-with-catgirls.json](./188990-the-elevator-game-with-catgirls.json) |
+| The Elevator: Beyond the Doors | 344593 | [344593-the-elevator-beyond-the-doors.json](./344593-the-elevator-beyond-the-doors.json) |
 | The Elf Maiden | 201489 | [201489-the-elf-maiden.json](./201489-the-elf-maiden.json) |
 | The Elf's Lewd Training | 150857 | [150857-the-elfs-lewd-training.json](./150857-the-elfs-lewd-training.json) |
 | The Elfin Wars | 93942 | [93942-the-elfin-wars.json](./93942-the-elfin-wars.json) |
@@ -10139,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
 | The ever-changing case of the unpaid rent | 182689 | [182689-the-ever-changing-case-of-the-unpaid-rent.json](./182689-the-ever-changing-case-of-the-unpaid-rent.json) |
 | The Ever-Changing Jianghu | 280080 | [280080-the-ever-changing-jianghu.json](./280080-the-ever-changing-jianghu.json) |
+| The EverFloating Island | 344594 | [344594-the-everfloating-island.json](./344594-the-everfloating-island.json) |
 | The Everlasting Lovestory at the Windcap | 322019 | [322019-the-everlasting-lovestory-at-the-windcap.json](./322019-the-everlasting-lovestory-at-the-windcap.json) |
 | The Everloom | 377901 | [377901-the-everloom.json](./377901-the-everloom.json) |
 | The Everything Building | 371167 | [371167-the-everything-building.json](./371167-the-everything-building.json) |
@@ -20001,6 +20004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
 | The Time Has Come | 177873 | [177873-the-time-has-come.json](./177873-the-time-has-come.json) |
 | The Time I Have Left | 194735 | [194735-the-time-i-have-left.json](./194735-the-time-i-have-left.json) |
+| The Time Intern | 342949 | [342949-the-time-intern.json](./342949-the-time-intern.json) |
 | The Time Machine | 24689 | [24689-the-time-machine.json](./24689-the-time-machine.json) |
 | The Time Machine | 278354 | [278354-the-time-machine.json](./278354-the-time-machine.json) |
 | The Time Machine: Trapped in Time | 93704 | [93704-the-time-machine-trapped-in-time.json](./93704-the-time-machine-trapped-in-time.json) |
@@ -23198,6 +23202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Anything: Zombie Invaders | 373090 | [373090-throw-anything-zombie-invaders.json](./373090-throw-anything-zombie-invaders.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
+| Throw Home | 338967 | [338967-throw-home.json](./338967-throw-home.json) |
 | Throw It | 149926 | [149926-throw-it.json](./149926-throw-it.json) |
 | Throw it! Dinosaur Panic | 308665 | [308665-throw-it-dinosaur-panic.json](./308665-throw-it-dinosaur-panic.json) |
 | Throw Knife | 88562 | [88562-throw-knife.json](./88562-throw-knife.json) |
@@ -27482,6 +27487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
 | Today is the End of the World | 270359 | [270359-today-is-the-end-of-the-world.json](./270359-today-is-the-end-of-the-world.json) |
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
+| Today, I'm Harvesting You | 344615 | [344615-today-im-harvesting-you.json](./344615-today-im-harvesting-you.json) |
 | Today's Ako-chan | 83688 | [83688-todays-ako-chan.json](./83688-todays-ako-chan.json) |
 | Today's Menu | 389111 | [389111-todays-menu.json](./389111-todays-menu.json) |
 | Todd is Late | 383583 | [383583-todd-is-late.json](./383583-todd-is-late.json) |
