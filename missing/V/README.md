@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Saga | 336470 | [336470-valiant-saga.json](./336470-valiant-saga.json) |
 | Valiant Tactics | 137277 | [137277-valiant-tactics.json](./137277-valiant-tactics.json) |
 | Valiant Tactics EX | 290665 | [290665-valiant-tactics-ex.json](./290665-valiant-tactics-ex.json) |
+| Valiant Villagers | 342938 | [342938-valiant-villagers.json](./342938-valiant-villagers.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
 | Valiant: Resurrection | 35281 | [35281-valiant-resurrection.json](./35281-valiant-resurrection.json) |
 | Valiantia | 149760 | [149760-valiantia.json](./149760-valiantia.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires Live | 79011 | [79011-vampires-live.json](./79011-vampires-live.json) |
 | Vampires of the 99th Night | 382735 | [382735-vampires-of-the-99th-night.json](./382735-vampires-of-the-99th-night.json) |
 | Vampires v. Zombies | 206260 | [206260-vampires-v-zombies.json](./206260-vampires-v-zombies.json) |
+| Vampires vs. Mechas | 334376 | [334376-vampires-vs-mechas.json](./334376-vampires-vs-mechas.json) |
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlord Rising - Moonweaver's Edition | 401971 | [401971-vampires-bloodlord-rising-moonweavers-edition.json](./401971-vampires-bloodlord-rising-moonweavers-edition.json) |
@@ -2986,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
 | Virtual Crime Scene: Apartment 213 | 363643 | [363643-virtual-crime-scene-apartment-213.json](./363643-virtual-crime-scene-apartment-213.json) |
 | Virtual Darling: VR | 289914 | [289914-virtual-darling-vr.json](./289914-virtual-darling-vr.json) |
+| Virtual Death | 315186 | [315186-virtual-death.json](./315186-virtual-death.json) |
 | Virtual Debating Chamber | 119833 | [119833-virtual-debating-chamber.json](./119833-virtual-debating-chamber.json) |
 | Virtual Deep Sea Fishing | 206060 | [206060-virtual-deep-sea-fishing.json](./206060-virtual-deep-sea-fishing.json) |
 | Virtual Dodgeball | 231517 | [231517-virtual-dodgeball.json](./231517-virtual-dodgeball.json) |
@@ -4094,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
 | Voronica Cleans House: a Vore Adventure | 146603 | [146603-voronica-cleans-house-a-vore-adventure.json](./146603-voronica-cleans-house-a-vore-adventure.json) |
 | Voronium - Locust Sols | 106411 | [106411-voronium-locust-sols.json](./106411-voronium-locust-sols.json) |
+| Vorozhey | 348993 | [348993-vorozhey.json](./348993-vorozhey.json) |
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
 | Vortex | 168527 | [168527-vortex.json](./168527-vortex.json) |
