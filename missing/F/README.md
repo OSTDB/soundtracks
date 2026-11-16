@@ -6857,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
 | Fire Squad | 212425 | [212425-fire-squad.json](./212425-fire-squad.json) |
 | Fire Station Renovation | 211256 | [211256-fire-station-renovation.json](./211256-fire-station-renovation.json) |
+| Fire Storm | 215411 | [215411-fire-storm.json](./215411-fire-storm.json) |
 | Fire Story | 205869 | [205869-fire-story.json](./205869-fire-story.json) |
 | Fire Strike | 317044 | [317044-fire-strike.json](./317044-fire-strike.json) |
 | Fire Survival | 172360 | [172360-fire-survival.json](./172360-fire-survival.json) |
@@ -10084,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog | 257153 | [257153-fog.json](./257153-fog.json) |
 | FOG ...Seek the hidden truth | 126323 | [126323-fog-seek-the-hidden-truth.json](./126323-fog-seek-the-hidden-truth.json) |
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
+| Fog and Sea | 215419 | [215419-fog-and-sea.json](./215419-fog-and-sea.json) |
 | Fog and Sea | 304478 | [304478-fog-and-sea.json](./304478-fog-and-sea.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
