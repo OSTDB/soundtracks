@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Rogue Trader - Deluxe Edition | 279888 | [279888-warhammer-40-000-rogue-trader-deluxe-edition.json](./279888-warhammer-40-000-rogue-trader-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Pack | 303282 | [303282-warhammer-40-000-rogue-trader-deluxe-pack.json](./303282-warhammer-40-000-rogue-trader-deluxe-pack.json) |
 | Warhammer 40,000: Rogue Trader - Lex Imperialis | 344662 | [344662-warhammer-40-000-rogue-trader-lex-imperialis.json](./344662-warhammer-40-000-rogue-trader-lex-imperialis.json) |
+| Warhammer 40,000: Rogue Trader - Processional of the Damned | 406371 | [406371-warhammer-40-000-rogue-trader-processional-of-the-damned.json](./406371-warhammer-40-000-rogue-trader-processional-of-the-damned.json) |
 | Warhammer 40,000: Rogue Trader - The Infinite Museion | 393038 | [393038-warhammer-40-000-rogue-trader-the-infinite-museion.json](./393038-warhammer-40-000-rogue-trader-the-infinite-museion.json) |
 | Warhammer 40,000: Rogue Trader - The Shovel DLC | 342189 | [342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json](./342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json) |
 | Warhammer 40,000: Rogue Trader - Void Shadows | 302168 | [302168-warhammer-40-000-rogue-trader-void-shadows.json](./302168-warhammer-40-000-rogue-trader-void-shadows.json) |
@@ -4081,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet VR | 395366 | [395366-wet-vr.json](./395366-wet-vr.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
+| Wet Wealth | 406370 | [406370-wet-wealth.json](./406370-wet-wealth.json) |
 | Wet Whispers: Anime Shift Puzzles | 332362 | [332362-wet-whispers-anime-shift-puzzles.json](./332362-wet-whispers-anime-shift-puzzles.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
@@ -8604,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Sudoku - Tapestry Twist | 89531 | [89531-word-sudoku-tapestry-twist.json](./89531-word-sudoku-tapestry-twist.json) |
 | Word Sudoku by Powgi | 111346 | [111346-word-sudoku-by-powgi.json](./111346-word-sudoku-by-powgi.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
+| Word Sweep | 406970 | [406970-word-sweep.json](./406970-word-sweep.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Symphony | 205882 | [205882-word-symphony.json](./205882-word-symphony.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
