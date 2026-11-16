@@ -10691,6 +10691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Abyss | 246014 | [246014-blade-abyss.json](./246014-blade-abyss.json) |
 | Blade Alley | 13972 | [13972-blade-alley.json](./13972-blade-alley.json) |
 | Blade and Burden | 253315 | [253315-blade-and-burden.json](./253315-blade-and-burden.json) |
+| Blade and Dragon VR | 363595 | [363595-blade-and-dragon-vr.json](./363595-blade-and-dragon-vr.json) |
 | Blade and Ham | 190244 | [190244-blade-and-ham.json](./190244-blade-and-ham.json) |
 | Blade and Madness | 349996 | [349996-blade-and-madness.json](./349996-blade-and-madness.json) |
 | Blade and Wings: Future Fantasy 3D Anime MMORPG Game | 110819 | [110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json](./110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json) |
