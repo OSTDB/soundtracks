@@ -8335,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man & Bass | 1726 | [1726-mega-man-and-bass.json](./1726-mega-man-and-bass.json) |
 | Mega Man & Bass: Player Switching | 358600 | [358600-mega-man-and-bass-player-switching.json](./358600-mega-man-and-bass-player-switching.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
+| Mega Man 1 GM2 Remake | 316313 | [316313-mega-man-1-gm2-remake.json](./316313-mega-man-1-gm2-remake.json) |
 | Mega Man 10 | 1723 | [1723-mega-man-10.json](./1723-mega-man-10.json) |
 | Mega Man 10: Bass Mode | 255821 | [255821-mega-man-10-bass-mode.json](./255821-mega-man-10-bass-mode.json) |
 | Mega Man 10: Endless Attack | 255826 | [255826-mega-man-10-endless-attack.json](./255826-mega-man-10-endless-attack.json) |
@@ -8344,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 11 | 76723 | [76723-mega-man-11.json](./76723-mega-man-11.json) |
 | Mega Man 11: Amiibo Edition | 178398 | [178398-mega-man-11-amiibo-edition.json](./178398-mega-man-11-amiibo-edition.json) |
 | Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
+| Mega Man 15: The Robot Apocalypse | 316314 | [316314-mega-man-15-the-robot-apocalypse.json](./316314-mega-man-15-the-robot-apocalypse.json) |
 | Mega Man 2 | 198812 | [198812-mega-man-2.json](./198812-mega-man-2.json) |
 | Mega Man 2 | 217935 | [217935-mega-man-2.json](./217935-mega-man-2.json) |
 | Mega Man 2 | 236705 | [236705-mega-man-2.json](./236705-mega-man-2.json) |
@@ -10977,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Combat: Falcon's Revenge | 44461 | [44461-metal-combat-falcons-revenge.json](./44461-metal-combat-falcons-revenge.json) |
 | Metal Commando | 151364 | [151364-metal-commando.json](./151364-metal-commando.json) |
 | Metal Country | 116933 | [116933-metal-country.json](./116933-metal-country.json) |
+| Metal Crash | 316315 | [316315-metal-crash.json](./316315-metal-crash.json) |
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Dead | 17433 | [17433-metal-dead.json](./17433-metal-dead.json) |
 | Metal Detecting Days | 414078 | [414078-metal-detecting-days.json](./414078-metal-detecting-days.json) |
@@ -16028,6 +16031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixatro | 390611 | [390611-mixatro.json](./390611-mixatro.json) |
 | Mixberry MGC 105 | 245434 | [245434-mixberry-mgc-105.json](./245434-mixberry-mgc-105.json) |
 | MixCD | 408070 | [408070-mixcd.json](./408070-mixcd.json) |
+| Mixcity Swap | 316312 | [316312-mixcity-swap.json](./316312-mixcity-swap.json) |
 | Mixed Estate | 111229 | [111229-mixed-estate.json](./111229-mixed-estate.json) |
 | Mixed Feelings | 185228 | [185228-mixed-feelings.json](./185228-mixed-feelings.json) |
 | Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
@@ -22270,6 +22274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Band Manager | 82312 | [82312-music-band-manager.json](./82312-music-band-manager.json) |
 | Music Band Simulator: Together | 423865 | [423865-music-band-simulator-together.json](./423865-music-band-simulator-together.json) |
 | Music Baseball | 305723 | [305723-music-baseball.json](./305723-music-baseball.json) |
+| Music Blitz | 316886 | [316886-music-blitz.json](./316886-music-blitz.json) |
 | Music Bounce | 279167 | [279167-music-bounce.json](./279167-music-bounce.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
 | Music Box: Electro Pop | 316232 | [316232-music-box-electro-pop.json](./316232-music-box-electro-pop.json) |
