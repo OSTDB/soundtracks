@@ -20814,6 +20814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul | 196565 | [196565-soul.json](./196565-soul.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul | 76174 | [76174-soul.json](./76174-soul.json) |
+| Soul & Brittle | 413345 | [413345-soul-and-brittle.json](./413345-soul-and-brittle.json) |
 | Soul & Sword | 42533 | [42533-soul-and-sword.json](./42533-soul-and-sword.json) |
 | Soul #531 | 292497 | [292497-soul-531.json](./292497-soul-531.json) |
 | Soul After | 226018 | [226018-soul-after.json](./226018-soul-after.json) |
@@ -30729,6 +30730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
 | Storefront Simulator | 326349 | [326349-storefront-simulator.json](./326349-storefront-simulator.json) |
+| Storehand | 413301 | [413301-storehand.json](./413301-storehand.json) |
 | Storekeeper Revenge | 220507 | [220507-storekeeper-revenge.json](./220507-storekeeper-revenge.json) |
 | Storia Online | 425988 | [425988-storia-online.json](./425988-storia-online.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
@@ -40789,6 +40791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter 2: Recompiled | 412769 | [412769-syphon-filter-2-recompiled.json](./412769-syphon-filter-2-recompiled.json) |
 | Syphon Filter 3 | 231777 | [231777-syphon-filter-3.json](./231777-syphon-filter-3.json) |
 | Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
+| Syphon Filter PC | 413355 | [413355-syphon-filter-pc.json](./413355-syphon-filter-pc.json) |
 | Syphon Filter: Combat Ops | 72191 | [72191-syphon-filter-combat-ops.json](./72191-syphon-filter-combat-ops.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Dark Mirror | 242307 | [242307-syphon-filter-dark-mirror.json](./242307-syphon-filter-dark-mirror.json) |
