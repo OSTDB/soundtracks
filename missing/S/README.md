@@ -3226,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Turnaround | 231815 | [231815-scary-turnaround.json](./231815-scary-turnaround.json) |
 | Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
 | Scary Wife HD | 195746 | [195746-scary-wife-hd.json](./195746-scary-wife-hd.json) |
+| Scary World | 328700 | [328700-scary-world.json](./328700-scary-world.json) |
 | Scaryfish III | 71786 | [71786-scaryfish-iii.json](./71786-scaryfish-iii.json) |
 | Scarygirl Illustration Kit | 85364 | [85364-scarygirl-illustration-kit.json](./85364-scarygirl-illustration-kit.json) |
 | Scarytales: All Hail King Mongo | 118642 | [118642-scarytales-all-hail-king-mongo.json](./118642-scarytales-all-hail-king-mongo.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotland Yard Interactive | 46567 | [46567-scotland-yard-interactive.json](./46567-scotland-yard-interactive.json) |
 | Scotland Yard: Hunting Mister X | 312078 | [312078-scotland-yard-hunting-mister-x.json](./312078-scotland-yard-hunting-mister-x.json) |
 | Scotland Yard: Hunting Mr. X | 22269 | [22269-scotland-yard-hunting-mr-x.json](./22269-scotland-yard-hunting-mr-x.json) |
+| Scotophobia | 320514 | [320514-scotophobia.json](./320514-scotophobia.json) |
 | Scott Adams Scoops | 70319 | [70319-scott-adams-scoops.json](./70319-scott-adams-scoops.json) |
 | Scott Adams' Graphic Adventure #1: Adventureland | 73138 | [73138-scott-adams-graphic-adventure-1-adventureland.json](./73138-scott-adams-graphic-adventure-1-adventureland.json) |
 | Scott Adams' Graphic Adventure #2: Pirate Adventure | 56114 | [56114-scott-adams-graphic-adventure-2-pirate-adventure.json](./56114-scott-adams-graphic-adventure-2-pirate-adventure.json) |
@@ -7529,6 +7531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Assault: Tenchu | 79709 | [79709-shadow-assault-tenchu.json](./79709-shadow-assault-tenchu.json) |
 | Shadow Asylum | 180610 | [180610-shadow-asylum.json](./180610-shadow-asylum.json) |
 | Shadow at school | 359854 | [359854-shadow-at-school.json](./359854-shadow-at-school.json) |
+| Shadow Baptism | 328694 | [328694-shadow-baptism.json](./328694-shadow-baptism.json) |
 | Shadow Bashing | 339862 | [339862-shadow-bashing.json](./339862-shadow-bashing.json) |
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
 | Shadow Bike Stunt Race 3d: Moto Bike Games | 100972 | [100972-shadow-bike-stunt-race-3d-moto-bike-games.json](./100972-shadow-bike-stunt-race-3d-moto-bike-games.json) |
@@ -10140,6 +10143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmubedi Boo | 147665 | [147665-shmubedi-boo.json](./147665-shmubedi-boo.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | SHMUP | 393007 | [393007-shmup.json](./393007-shmup.json) |
+| Shmup 3-in-1 Bundle | 324039 | [324039-shmup-3-in-1-bundle.json](./324039-shmup-3-in-1-bundle.json) |
 | Shmup Arena | 137831 | [137831-shmup-arena.json](./137831-shmup-arena.json) |
 | Shmup Ball | 186052 | [186052-shmup-ball.json](./186052-shmup-ball.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
@@ -10254,6 +10258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shoku Pain | 415986 | [415986-shoku-pain.json](./415986-shoku-pain.json) |
+| Shokudo Underworld | 324045 | [324045-shokudo-underworld.json](./324045-shokudo-underworld.json) |
 | Shokugeki no Soma: Yuujou to Kizuna no Hitosara | 222523 | [222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json](./222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json) |
 | Shokuho | 356163 | [356163-shokuho.json](./356163-shokuho.json) |
 | Shokujinki | 151908 | [151908-shokujinki.json](./151908-shokujinki.json) |
@@ -13878,6 +13883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi | 329090 | [329090-skibidi.json](./329090-skibidi.json) |
 | Skibidi Backrooms | 273427 | [273427-skibidi-backrooms.json](./273427-skibidi-backrooms.json) |
 | Skibidi Battle: Toilets Attack | 257581 | [257581-skibidi-battle-toilets-attack.json](./257581-skibidi-battle-toilets-attack.json) |
+| Skibidi Gyatrooms | 328709 | [328709-skibidi-gyatrooms.json](./328709-skibidi-gyatrooms.json) |
 | Skibidi Jeffrey: I Want to Cum Inside Femboy Hitler | 366629 | [366629-skibidi-jeffrey-i-want-to-cum-inside-femboy-hitler.json](./366629-skibidi-jeffrey-i-want-to-cum-inside-femboy-hitler.json) |
 | Skibidi Mahr Simulator 64 | 339822 | [339822-skibidi-mahr-simulator-64.json](./339822-skibidi-mahr-simulator-64.json) |
 | Skibidi Mahrt Kart: TrackMahrnia | 376088 | [376088-skibidi-mahrt-kart-trackmahrnia.json](./376088-skibidi-mahrt-kart-trackmahrnia.json) |
@@ -14123,6 +14129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Candy Match | 110000 | [110000-skull-candy-match.json](./110000-skull-candy-match.json) |
 | Skull Chainz | 167516 | [167516-skull-chainz.json](./167516-skull-chainz.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
+| Skull Fang | 320502 | [320502-skull-fang.json](./320502-skull-fang.json) |
 | Skull Fang | 62341 | [62341-skull-fang.json](./62341-skull-fang.json) |
 | Skull Feast | 90162 | [90162-skull-feast.json](./90162-skull-feast.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
@@ -16334,6 +16341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Island | 105785 | [105785-smash-island.json](./105785-smash-island.json) |
 | Smash It | 104176 | [104176-smash-it.json](./104176-smash-it.json) |
 | Smash it Up! | 67850 | [67850-smash-it-up.json](./67850-smash-it-up.json) |
+| Smash It Wild | 322876 | [322876-smash-it-wild.json](./322876-smash-it-wild.json) |
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Kingdom | 228129 | [228129-smash-kingdom.json](./228129-smash-kingdom.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
@@ -17610,6 +17618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Wave 2 | 401717 | [401717-snow-wave-2.json](./401717-snow-wave-2.json) |
 | Snow Wave Community Project | 314540 | [314540-snow-wave-community-project.json](./314540-snow-wave-community-project.json) |
 | Snow Wave: Avalanche | 206998 | [206998-snow-wave-avalanche.json](./206998-snow-wave-avalanche.json) |
+| Snow Way Home | 324021 | [324021-snow-way-home.json](./324021-snow-way-home.json) |
 | Snow White and the 7 Clever Boys | 11618 | [11618-snow-white-and-the-7-clever-boys.json](./11618-snow-white-and-the-7-clever-boys.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
@@ -21183,6 +21192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Taker | 235618 | [235618-soul-taker.json](./235618-soul-taker.json) |
 | Soul Tamer | 421547 | [421547-soul-tamer.json](./421547-soul-tamer.json) |
+| Soul TCG | 325741 | [325741-soul-tcg.json](./325741-soul-tcg.json) |
 | Soul Tech: Millennium | 116052 | [116052-soul-tech-millennium.json](./116052-soul-tech-millennium.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tide | 194707 | [194707-soul-tide.json](./194707-soul-tide.json) |
@@ -24091,6 +24101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spell Welders | 199689 | [199689-spell-welders.json](./199689-spell-welders.json) |
 | Spell Wizard | 340097 | [340097-spell-wizard.json](./340097-spell-wizard.json) |
+| Spellagis | 319260 | [319260-spellagis.json](./319260-spellagis.json) |
 | Spellagories | 208784 | [208784-spellagories.json](./208784-spellagories.json) |
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium | 250164 | [250164-spellarium.json](./250164-spellarium.json) |
@@ -30797,6 +30808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones Keeper II: Chaos Lord | 331038 | [331038-stones-keeper-ii-chaos-lord.json](./331038-stones-keeper-ii-chaos-lord.json) |
 | Stones Keeper: Director's Cut | 419645 | [419645-stones-keeper-directors-cut.json](./419645-stones-keeper-directors-cut.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
+| Stones of Flesh | 322864 | [322864-stones-of-flesh.json](./322864-stones-of-flesh.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
 | Stones of Power | 365030 | [365030-stones-of-power.json](./365030-stones-of-power.json) |
 | Stones of Rome | 74149 | [74149-stones-of-rome.json](./74149-stones-of-rome.json) |
@@ -34042,6 +34054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoned By Accident | 302181 | [302181-summoned-by-accident.json](./302181-summoned-by-accident.json) |
 | Summoned Hero | 258810 | [258810-summoned-hero.json](./258810-summoned-hero.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
+| Summoner | 320489 | [320489-summoner.json](./320489-summoner.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
 | Summoner Arise! | 258239 | [258239-summoner-arise.json](./258239-summoner-arise.json) |
 | Summoner Fantasy | 241822 | [241822-summoner-fantasy.json](./241822-summoner-fantasy.json) |
@@ -36316,6 +36329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey Autumn Isles | 342088 | [342088-super-mario-odyssey-autumn-isles.json](./342088-super-mario-odyssey-autumn-isles.json) |
 | Super Mario Odyssey DS | 314552 | [314552-super-mario-odyssey-ds.json](./314552-super-mario-odyssey-ds.json) |
 | Super Mario Odyssey F.L.U.D.D. | 235169 | [235169-super-mario-odyssey-f-l-u-d-d.json](./235169-super-mario-odyssey-f-l-u-d-d.json) |
+| Super Mario Odyssey Manhunt | 328708 | [328708-super-mario-odyssey-manhunt.json](./328708-super-mario-odyssey-manhunt.json) |
 | Super Mario Odyssey Online | 208811 | [208811-super-mario-odyssey-online.json](./208811-super-mario-odyssey-online.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: 2D Mario in 3D! | 247533 | [247533-super-mario-odyssey-2d-mario-in-3d.json](./247533-super-mario-odyssey-2d-mario-in-3d.json) |
@@ -39694,6 +39708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Cinema | 339468 | [339468-sweet-cinema.json](./339468-sweet-cinema.json) |
 | Sweet Clockwork | 413832 | [413832-sweet-clockwork.json](./413832-sweet-clockwork.json) |
 | Sweet Clown: Gozen San-ji no Okashi na Doukeshi | 59989 | [59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json](./59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json) |
+| Sweet Coffee Shop | 319246 | [319246-sweet-coffee-shop.json](./319246-sweet-coffee-shop.json) |
 | Sweet Collector | 188497 | [188497-sweet-collector.json](./188497-sweet-collector.json) |
 | Sweet Cookie Pie | 49803 | [49803-sweet-cookie-pie.json](./49803-sweet-cookie-pie.json) |
 | Sweet Cruise | 339467 | [339467-sweet-cruise.json](./339467-sweet-cruise.json) |
