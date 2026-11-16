@@ -5070,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner | 309253 | [309253-after-burner.json](./309253-after-burner.json) |
 | After Burner | 365007 | [365007-after-burner.json](./365007-after-burner.json) |
 | After Burner | 365008 | [365008-after-burner.json](./365008-after-burner.json) |
+| After Burner | 365009 | [365009-after-burner.json](./365009-after-burner.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365089 | [365089-after-burner.json](./365089-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
 | Agryos: Recovering Eden | 188744 | [188744-agryos-recovering-eden.json](./188744-agryos-recovering-eden.json) |
 | Agtnan: Monster Shutdown Sequence | 116022 | [116022-agtnan-monster-shutdown-sequence.json](./116022-agtnan-monster-shutdown-sequence.json) |
+| Agu | 363586 | [363586-agu.json](./363586-agu.json) |
 | Aguante Imaginario | 107240 | [107240-aguante-imaginario.json](./107240-aguante-imaginario.json) |
 | Agujero | 296846 | [296846-agujero.json](./296846-agujero.json) |
 | Aguni: Unmei no Saki | 413839 | [413839-aguni-unmei-no-saki.json](./413839-aguni-unmei-no-saki.json) |
