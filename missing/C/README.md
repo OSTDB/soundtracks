@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cacau: Mistério da Ilha Perdida | 137896 | [137896-cacau-misterio-da-ilha-perdida.json](./137896-cacau-misterio-da-ilha-perdida.json) |
 | Caccia al Ladro | 305461 | [305461-caccia-al-ladro.json](./305461-caccia-al-ladro.json) |
 | Caccia al Ladro/Heathcliff | 305279 | [305279-caccia-al-ladro-heathcliff.json](./305279-caccia-al-ladro-heathcliff.json) |
+| Cache Grabbers | 239946 | [239946-cache-grabbers.json](./239946-cache-grabbers.json) |
 | Cache Overload | 212908 | [212908-cache-overload.json](./212908-cache-overload.json) |
 | Cache-Cache | 176428 | [176428-cache-cache.json](./176428-cache-cache.json) |
 | Cacho Quest | 318534 | [318534-cacho-quest.json](./318534-cacho-quest.json) |
@@ -7947,6 +7948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessVR | 32332 | [32332-chessvr.json](./32332-chessvr.json) |
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
 | Chessy | 92006 | [92006-chessy.json](./92006-chessy.json) |
+| Chest | 239847 | [239847-chest.json](./239847-chest.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
 | Chest & Blade | 420009 | [420009-chest-and-blade.json](./420009-chest-and-blade.json) |
 | Chest Buster | 410552 | [410552-chest-buster.json](./410552-chest-buster.json) |
