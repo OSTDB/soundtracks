@@ -1511,7 +1511,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Rays: Mirrage Prison | 242153 | [242153-tales-of-the-rays-mirrage-prison.json](./242153-tales-of-the-rays-mirrage-prison.json) |
 | Tales of the Rays: Recollection | 242630 | [242630-tales-of-the-rays-recollection.json](./242630-tales-of-the-rays-recollection.json) |
 | Tales of the Tavern | 304568 | [304568-tales-of-the-tavern.json](./304568-tales-of-the-tavern.json) |
-| Tales of the Tempest | 19096 | [19096-tales-of-the-tempest.json](./19096-tales-of-the-tempest.json) |
 | Tales of the Tiny Planet | 43123 | [43123-tales-of-the-tiny-planet.json](./43123-tales-of-the-tiny-planet.json) |
 | Tales of the Traveling Swordsman | 60026 | [60026-tales-of-the-traveling-swordsman.json](./60026-tales-of-the-traveling-swordsman.json) |
 | Tales of the Uncanny | 321248 | [321248-tales-of-the-uncanny.json](./321248-tales-of-the-uncanny.json) |
@@ -10923,6 +10922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Journey Through Time | 133641 | [133641-the-forgotten-journey-through-time.json](./133641-the-forgotten-journey-through-time.json) |
 | The Forgotten Land | 126112 | [126112-the-forgotten-land.json](./126112-the-forgotten-land.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
+| The Forgotten Mine | 349010 | [349010-the-forgotten-mine.json](./349010-the-forgotten-mine.json) |
 | The Forgotten Nightmare | 322334 | [322334-the-forgotten-nightmare.json](./322334-the-forgotten-nightmare.json) |
 | The Forgotten Nightmare Series | 409390 | [409390-the-forgotten-nightmare-series.json](./409390-the-forgotten-nightmare-series.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
@@ -12032,6 +12032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The Hilarious Three Kingdoms 2 | 390858 | [390858-the-hilarious-three-kingdoms-2.json](./390858-the-hilarious-three-kingdoms-2.json) |
+| The Hilltop Funeral | 349005 | [349005-the-hilltop-funeral.json](./349005-the-hilltop-funeral.json) |
 | The Hilltop Mansion | 149878 | [149878-the-hilltop-mansion.json](./149878-the-hilltop-mansion.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
 | The Hip Hop Dance Experience | 15561 | [15561-the-hip-hop-dance-experience.json](./15561-the-hip-hop-dance-experience.json) |
@@ -29597,6 +29598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Spies! Mall Brawl | 185796 | [185796-totally-spies-mall-brawl.json](./185796-totally-spies-mall-brawl.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totally Spies! Totally Party | 5238 | [5238-totally-spies-totally-party.json](./5238-totally-spies-totally-party.json) |
+| Totally Spies!: My Secret Diary | 348995 | [348995-totally-spies-my-secret-diary.json](./348995-totally-spies-my-secret-diary.json) |
 | Totally Spies!: Swamp Monster Blues | 206090 | [206090-totally-spies-swamp-monster-blues.json](./206090-totally-spies-swamp-monster-blues.json) |
 | Totally Spies!: Total Swamp Romp | 206079 | [206079-totally-spies-total-swamp-romp.json](./206079-totally-spies-total-swamp-romp.json) |
 | Totally Spies!: Zombie Jamboree! | 206091 | [206091-totally-spies-zombie-jamboree.json](./206091-totally-spies-zombie-jamboree.json) |
