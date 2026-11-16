@@ -2057,7 +2057,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balsa Model Flight Simulator | 111892 | [111892-balsa-model-flight-simulator.json](./111892-balsa-model-flight-simulator.json) |
 | Balseo: The Sea Beyond | 387642 | [387642-balseo-the-sea-beyond.json](./387642-balseo-the-sea-beyond.json) |
 | Baltazar the Familiar | 317298 | [317298-baltazar-the-familiar.json](./317298-baltazar-the-familiar.json) |
-| Balthazar's Dream | 26240 | [26240-balthazars-dream.json](./26240-balthazars-dream.json) |
 | Baltic 1985 | 70290 | [70290-baltic-1985.json](./70290-baltic-1985.json) |
 | Baltic 1985: Corridor to Berlin | 24389 | [24389-baltic-1985-corridor-to-berlin.json](./24389-baltic-1985-corridor-to-berlin.json) |
 | Baltic Folk | 298494 | [298494-baltic-folk.json](./298494-baltic-folk.json) |
