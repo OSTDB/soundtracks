@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Futanari Pool Party | 211364 | [211364-jigsaw-puzzle-futanari-pool-party.json](./211364-jigsaw-puzzle-futanari-pool-party.json) |
 | Jigsaw Puzzle: Futanari Roomate | 286735 | [286735-jigsaw-puzzle-futanari-roomate.json](./286735-jigsaw-puzzle-futanari-roomate.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
+| Jigsaw Puzzle: Kyou no Wanko | 268175 | [268175-jigsaw-puzzle-kyou-no-wanko.json](./268175-jigsaw-puzzle-kyou-no-wanko.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
 | Jigsaw Puzzle: Pixel Art Master | 162209 | [162209-jigsaw-puzzle-pixel-art-master.json](./162209-jigsaw-puzzle-pixel-art-master.json) |
 | Jigsaw Puzzle: Pro Edition | 162230 | [162230-jigsaw-puzzle-pro-edition.json](./162230-jigsaw-puzzle-pro-edition.json) |
@@ -2409,8 +2410,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game for Nintendo Switch | 254467 | [254467-jinsei-game-for-nintendo-switch.json](./254467-jinsei-game-for-nintendo-switch.json) |
 | Jinsei Game Q: DS Heisei no Dekigoto | 269782 | [269782-jinsei-game-q-ds-heisei-no-dekigoto.json](./269782-jinsei-game-q-ds-heisei-no-dekigoto.json) |
 | Jinsei Game Q: DS Shouwa no Dekigoto | 269783 | [269783-jinsei-game-q-ds-shouwa-no-dekigoto.json](./269783-jinsei-game-q-ds-shouwa-no-dekigoto.json) |
+| Jinsei Game Wii | 268176 | [268176-jinsei-game-wii.json](./268176-jinsei-game-wii.json) |
 | Jinsei Game Wii EX | 56083 | [56083-jinsei-game-wii-ex.json](./56083-jinsei-game-wii-ex.json) |
 | Jinsei Game: Happy Family | 97570 | [97570-jinsei-game-happy-family.json](./97570-jinsei-game-happy-family.json) |
+| Jinsei Game: Happy Family - Gotouchi Neta Zouryou Shiage | 268177 | [268177-jinsei-game-happy-family-gotouchi-neta-zouryou-shiage.json](./268177-jinsei-game-happy-family-gotouchi-neta-zouryou-shiage.json) |
 | Jinsei Game: Happy Step | 344633 | [344633-jinsei-game-happy-step.json](./344633-jinsei-game-happy-step.json) |
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinsei Owata no Daibouken | 285132 | [285132-jinsei-owata-no-daibouken.json](./285132-jinsei-owata-no-daibouken.json) |
@@ -2832,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Join 4 | 232301 | [232301-join-4.json](./232301-join-4.json) |
 | Join It | 256246 | [256246-join-it.json](./256246-join-it.json) |
 | Join Now! | 180928 | [180928-join-now.json](./180928-join-now.json) |
+| Join Our Cult n Chill | 269241 | [269241-join-our-cult-n-chill.json](./269241-join-our-cult-n-chill.json) |
 | Join Rush Attack | 172945 | [172945-join-rush-attack.json](./172945-join-rush-attack.json) |
 | Join the Pack | 207988 | [207988-join-the-pack.json](./207988-join-the-pack.json) |
 | Join Tiles: Anatolian Game to Play | 260720 | [260720-join-tiles-anatolian-game-to-play.json](./260720-join-tiles-anatolian-game-to-play.json) |
@@ -2877,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All-Star Battle R - Season Pass 2 | 254685 | [254685-jojos-bizarre-adventure-all-star-battle-r-season-pass-2.json](./254685-jojos-bizarre-adventure-all-star-battle-r-season-pass-2.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Ultimate Edition | 254057 | [254057-jojos-bizarre-adventure-all-star-battle-r-ultimate-edition.json](./254057-jojos-bizarre-adventure-all-star-battle-r-ultimate-edition.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Wonder of U | 279860 | [279860-jojos-bizarre-adventure-all-star-battle-r-wonder-of-u.json](./279860-jojos-bizarre-adventure-all-star-battle-r-wonder-of-u.json) |
+| JoJo's Bizarre Adventure: All-Star Battle R - Yuya Fungami | 272972 | [272972-jojos-bizarre-adventure-all-star-battle-r-yuya-fungami.json](./272972-jojos-bizarre-adventure-all-star-battle-r-yuya-fungami.json) |
 | JoJo's Bizarre Adventure: Diamond Records | 75966 | [75966-jojos-bizarre-adventure-diamond-records.json](./75966-jojos-bizarre-adventure-diamond-records.json) |
 | JoJo's Bizarre Adventure: Eyes of Heaven | 11565 | [11565-jojos-bizarre-adventure-eyes-of-heaven.json](./11565-jojos-bizarre-adventure-eyes-of-heaven.json) |
 | JoJo's Bizarre Adventure: Golden Spirit | 413426 | [413426-jojos-bizarre-adventure-golden-spirit.json](./413426-jojos-bizarre-adventure-golden-spirit.json) |
