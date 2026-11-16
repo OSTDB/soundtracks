@@ -8462,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Eradine | 88065 | [88065-shards-of-eradine.json](./88065-shards-of-eradine.json) |
 | Shards of Feyra | 149183 | [149183-shards-of-feyra.json](./149183-shards-of-feyra.json) |
 | Shards of God | 256947 | [256947-shards-of-god.json](./256947-shards-of-god.json) |
+| Shards of Her | 252979 | [252979-shards-of-her.json](./252979-shards-of-her.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Mistfrost | 424278 | [424278-shards-of-mistfrost.json](./424278-shards-of-mistfrost.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
@@ -22430,6 +22431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pinball | 356942 | [356942-space-pinball.json](./356942-space-pinball.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
 | Space Pioneer | 95073 | [95073-space-pioneer.json](./95073-space-pioneer.json) |
+| Space Pirate | 253047 | [253047-space-pirate.json](./253047-space-pirate.json) |
 | Space Pirate Amai | 107513 | [107513-space-pirate-amai.json](./107513-space-pirate-amai.json) |
 | Space Pirate Dernshous | 229320 | [229320-space-pirate-dernshous.json](./229320-space-pirate-dernshous.json) |
 | Space Pirate King | 149769 | [149769-space-pirate-king.json](./149769-space-pirate-king.json) |
@@ -24262,6 +24264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spicy Strip Poker | 385691 | [385691-spicy-strip-poker.json](./385691-spicy-strip-poker.json) |
 | Spidded | 172951 | [172951-spidded.json](./172951-spidded.json) |
 | Spider | 230674 | [230674-spider.json](./230674-spider.json) |
+| Spider | 253082 | [253082-spider.json](./253082-spider.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
 | Spider | 88407 | [88407-spider.json](./88407-spider.json) |
@@ -25744,6 +25747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spreadsheets and Nothing More | 356951 | [356951-spreadsheets-and-nothing-more.json](./356951-spreadsheets-and-nothing-more.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
 | Spready | 302009 | [302009-spready.json](./302009-spready.json) |
+| Spreen Game | 253051 | [253051-spreen-game.json](./253051-spreen-game.json) |
 | Sprig | 425990 | [425990-sprig.json](./425990-sprig.json) |
 | Spriggan | 280118 | [280118-spriggan.json](./280118-spriggan.json) |
 | Spriggan Mark 2: Re-Terraform Project | 37616 | [37616-spriggan-mark-2-re-terraform-project.json](./37616-spriggan-mark-2-re-terraform-project.json) |
