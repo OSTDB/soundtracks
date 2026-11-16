@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bone To Pick | 325297 | [325297-a-bone-to-pick.json](./325297-a-bone-to-pick.json) |
 | A Boney Night | 313569 | [313569-a-boney-night.json](./313569-a-boney-night.json) |
 | A Bonnie Odyssey | 252351 | [252351-a-bonnie-odyssey.json](./252351-a-bonnie-odyssey.json) |
+| A Bonte Christmas | 239956 | [239956-a-bonte-christmas.json](./239956-a-bonte-christmas.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Book of Beasts and Buddies | 111773 | [111773-a-book-of-beasts-and-buddies.json](./111773-a-book-of-beasts-and-buddies.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
@@ -1812,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A World of Keflings: Sugar, Spice and Not So Nice | 377854 | [377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json](./377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json) |
 | A World of Keflings: The Curse of the Zombiesaurus | 375530 | [375530-a-world-of-keflings-the-curse-of-the-zombiesaurus.json](./375530-a-world-of-keflings-the-curse-of-the-zombiesaurus.json) |
 | A World of Wishes | 260754 | [260754-a-world-of-wishes.json](./260754-a-world-of-wishes.json) |
+| A World to Win | 239842 | [239842-a-world-to-win.json](./239842-a-world-to-win.json) |
 | A World With No Colour | 122257 | [122257-a-world-with-no-colour.json](./122257-a-world-with-no-colour.json) |
 | A World With out You | 239205 | [239205-a-world-with-out-you.json](./239205-a-world-with-out-you.json) |
 | A World Without... Videogames | 352373 | [352373-a-world-without-videogames.json](./352373-a-world-without-videogames.json) |
