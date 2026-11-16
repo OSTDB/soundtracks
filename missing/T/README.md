@@ -4374,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu: Stealth Assassins | 4113 | [4113-tenchu-stealth-assassins.json](./4113-tenchu-stealth-assassins.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
 | Tenchu: Wrath of Heaven | 6194 | [6194-tenchu-wrath-of-heaven.json](./6194-tenchu-wrath-of-heaven.json) |
+| Tend | 213653 | [213653-tend.json](./213653-tend.json) |
 | Tender | 179112 | [179112-tender.json](./179112-tender.json) |
 | Tender Feelings Like Water | 202567 | [202567-tender-feelings-like-water.json](./202567-tender-feelings-like-water.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
@@ -35543,6 +35544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucker's Dynasty - Cuba Libre | 122002 | [122002-truckers-dynasty-cuba-libre.json](./122002-truckers-dynasty-cuba-libre.json) |
 | Truckers Delight Episode 1 | 79034 | [79034-truckers-delight-episode-1.json](./79034-truckers-delight-episode-1.json) |
 | Truckers Double Pack | 142764 | [142764-truckers-double-pack.json](./142764-truckers-double-pack.json) |
+| Truckers of Europe 3 | 214087 | [214087-truckers-of-europe-3.json](./214087-truckers-of-europe-3.json) |
 | Truckful | 309799 | [309799-truckful.json](./309799-truckful.json) |
 | Truckin' | 41450 | [41450-truckin.json](./41450-truckin.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
