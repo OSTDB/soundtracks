@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalism Lab | 27295 | [27295-capitalism-lab.json](./27295-capitalism-lab.json) |
 | Capitalism Plus | 9209 | [9209-capitalism-plus.json](./9209-capitalism-plus.json) |
+| CapitalismCraft | 287807 | [287807-capitalismcraft.json](./287807-capitalismcraft.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | Capitals | 211476 | [211476-capitals.json](./211476-capitals.json) |
 | Capitals | 60074 | [60074-capitals.json](./60074-capitals.json) |
@@ -23815,6 +23816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
 | Cyrus | 94310 | [94310-cyrus.json](./94310-cyrus.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
+| Cyrus The Virus | 287813 | [287813-cyrus-the-virus.json](./287813-cyrus-the-virus.json) |
 | CyTale | 261056 | [261056-cytale.json](./261056-cytale.json) |
 | Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
 | Cythera | 131044 | [131044-cythera.json](./131044-cythera.json) |
