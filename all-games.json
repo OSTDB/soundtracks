@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T03:16:04.387Z",
-  "total_soundtracks": 3413,
+  "generated_at": "2026-11-16T04:05:55.218Z",
+  "total_soundtracks": 3414,
   "games": [
     {
       "igdb_id": 292844,
@@ -43556,6 +43556,20 @@
           "album_name": "Yandere Simulator Original Soundtrack 2022",
           "spotify_url": "https://open.spotify.com/album/37jeKu6MdvCIUD5iviRW7l",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 74993,
+      "game_name": "Yeah Jam Fury: U, Me, Everybody!",
+      "game_url": "https://ostdb.net/games/yeah-jam-fury-u-me-everybody",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eb9058a172b64598d77f455b",
+      "albums": [
+        {
+          "album_name": "Yeah Jam Fury U Me Everybody (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1RwjMcCQGQSNFVNIprkWZ5",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
