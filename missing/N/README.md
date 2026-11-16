@@ -5168,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare in San Vicente | 419786 | [419786-nightmare-in-san-vicente.json](./419786-nightmare-in-san-vicente.json) |
 | Nightmare in Squidville | 255627 | [255627-nightmare-in-squidville.json](./255627-nightmare-in-squidville.json) |
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
+| Nightmare in the Old Mansion | 303911 | [303911-nightmare-in-the-old-mansion.json](./303911-nightmare-in-the-old-mansion.json) |
 | Nightmare Inside | 227610 | [227610-nightmare-inside.json](./227610-nightmare-inside.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Journey | 331056 | [331056-nightmare-journey.json](./331056-nightmare-journey.json) |
@@ -5598,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Tiles | 233876 | [233876-nine-tiles.json](./233876-nine-tiles.json) |
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
 | Nine To Five (am) | 318701 | [318701-nine-to-five-am.json](./318701-nine-to-five-am.json) |
+| Nine Treasures of Liuyin | 303909 | [303909-nine-treasures-of-liuyin.json](./303909-nine-treasures-of-liuyin.json) |
 | Nine Trials | 114290 | [114290-nine-trials.json](./114290-nine-trials.json) |
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Witches: Family Disruption | 112201 | [112201-nine-witches-family-disruption.json](./112201-nine-witches-family-disruption.json) |
