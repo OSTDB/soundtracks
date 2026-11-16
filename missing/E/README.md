@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eador: Masters of the Broken World - Allied Forces | 9206 | [9206-eador-masters-of-the-broken-world-allied-forces.json](./9206-eador-masters-of-the-broken-world-allied-forces.json) |
 | Eager For Den | 158891 | [158891-eager-for-den.json](./158891-eager-for-den.json) |
 | Eagle | 13626 | [13626-eagle.json](./13626-eagle.json) |
+| Eagle | 280983 | [280983-eagle.json](./280983-eagle.json) |
 | Eagle Empire | 40915 | [40915-eagle-empire.json](./40915-eagle-empire.json) |
 | Eagle Eye Golf | 20583 | [20583-eagle-eye-golf.json](./20583-eagle-eye-golf.json) |
 | Eagle Eye Mysteries | 70962 | [70962-eagle-eye-mysteries.json](./70962-eagle-eye-mysteries.json) |
@@ -4297,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Horde | 105890 | [105890-endless-horde.json](./105890-endless-horde.json) |
 | Endless Horizon | 99674 | [99674-endless-horizon.json](./99674-endless-horizon.json) |
 | Endless Horizons | 334382 | [334382-endless-horizons.json](./334382-endless-horizons.json) |
+| Endless Immortal Journey | 282178 | [282178-endless-immortal-journey.json](./282178-endless-immortal-journey.json) |
 | Endless Inside | 76297 | [76297-endless-inside.json](./76297-endless-inside.json) |
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
@@ -7082,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternower | 132404 | [132404-eternower.json](./132404-eternower.json) |
 | Eternum | 209628 | [209628-eternum.json](./209628-eternum.json) |
 | Eternum Ao | 255413 | [255413-eternum-ao.json](./255413-eternum-ao.json) |
+| Eternum Dreamland | 282176 | [282176-eternum-dreamland.json](./282176-eternum-dreamland.json) |
 | Eternum Ex | 111128 | [111128-eternum-ex.json](./111128-eternum-ex.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan Lit 2 | 180404 | [180404-ethan-lit-2.json](./180404-ethan-lit-2.json) |
@@ -9432,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Racing Line | 407036 | [407036-extreme-racing-line.json](./407036-extreme-racing-line.json) |
 | Extreme Racing on Highway | 115582 | [115582-extreme-racing-on-highway.json](./115582-extreme-racing-on-highway.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
+| Extreme Rally Run | 280979 | [280979-extreme-rally-run.json](./280979-extreme-rally-run.json) |
 | Extreme Reaction | 368148 | [368148-extreme-reaction.json](./368148-extreme-reaction.json) |
 | Extreme Real Reality HD Remix | 68181 | [68181-extreme-real-reality-hd-remix.json](./68181-extreme-real-reality-hd-remix.json) |
 | Extreme Ride Legacy | 342392 | [342392-extreme-ride-legacy.json](./342392-extreme-ride-legacy.json) |
