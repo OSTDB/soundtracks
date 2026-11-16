@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3 | 356091 | [356091-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-3.json](./356091-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-3.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4 | 356097 | [356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json](./356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5 | 356098 | [356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json](./356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json) |
+| Taiko no Tatsujin: Rhythm Festival - Anime Songs Collection | 356321 | [356321-taiko-no-tatsujin-rhythm-festival-anime-songs-collection.json](./356321-taiko-no-tatsujin-rhythm-festival-anime-songs-collection.json) |
 | Taiko no Tatsujin: Rhythm Festival - Classical Pack | 376440 | [376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json](./376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Collector's Edition | 207396 | [207396-taiko-no-tatsujin-rhythm-festival-collectors-edition.json](./207396-taiko-no-tatsujin-rhythm-festival-collectors-edition.json) |
 | Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack | 356256 | [356256-taiko-no-tatsujin-rhythm-festival-crayon-shin-chan-theme-songs-pack.json](./356256-taiko-no-tatsujin-rhythm-festival-crayon-shin-chan-theme-songs-pack.json) |
@@ -618,13 +619,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko No Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 7 | 409007 | [409007-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-7.json](./409007-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-7.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kagamine Rin, Kagamine Len Pack | 360066 | [360066-taiko-no-tatsujin-rhythm-festival-kagamine-rin-kagamine-len-pack.json](./360066-taiko-no-tatsujin-rhythm-festival-kagamine-rin-kagamine-len-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kamen Rider Opening Theme Songs Pack | 328994 | [328994-taiko-no-tatsujin-rhythm-festival-kamen-rider-opening-theme-songs-pack.json](./328994-taiko-no-tatsujin-rhythm-festival-kamen-rider-opening-theme-songs-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Kasane Teto Pack | 356318 | [356318-taiko-no-tatsujin-rhythm-festival-kasane-teto-pack.json](./356318-taiko-no-tatsujin-rhythm-festival-kasane-teto-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kawaii Pop Idol Pack | 376441 | [376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json](./376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1 | 356121 | [356121-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-1.json](./356121-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2 | 356123 | [356123-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-2.json](./356123-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-2.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3 | 356124 | [356124-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-3.json](./356124-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-3.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 4 | 380191 | [380191-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-4.json](./380191-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-4.json) |
 | Taiko no Tatsujin: Rhythm Festival - Namco Game Music Pack | 356125 | [356125-taiko-no-tatsujin-rhythm-festival-namco-game-music-pack.json](./356125-taiko-no-tatsujin-rhythm-festival-namco-game-music-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - One Piece Anime 25th Anniversary Collab. Pack | 356320 | [356320-taiko-no-tatsujin-rhythm-festival-one-piece-anime-25th-anniversary-collab-pack.json](./356320-taiko-no-tatsujin-rhythm-festival-one-piece-anime-25th-anniversary-collab-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - One Piece Anime Songs Pack | 356186 | [356186-taiko-no-tatsujin-rhythm-festival-one-piece-anime-songs-pack.json](./356186-taiko-no-tatsujin-rhythm-festival-one-piece-anime-songs-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Pops Collection | 356319 | [356319-taiko-no-tatsujin-rhythm-festival-pops-collection.json](./356319-taiko-no-tatsujin-rhythm-festival-pops-collection.json) |
 | Taiko no Tatsujin: Rhythm Festival - Spy x Family Pack | 356122 | [356122-taiko-no-tatsujin-rhythm-festival-spy-x-family-pack.json](./356122-taiko-no-tatsujin-rhythm-festival-spy-x-family-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Studio Ghibli Pack | 356119 | [356119-taiko-no-tatsujin-rhythm-festival-studio-ghibli-pack.json](./356119-taiko-no-tatsujin-rhythm-festival-studio-ghibli-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Studio Ghibli Pack Vol. 2 | 356120 | [356120-taiko-no-tatsujin-rhythm-festival-studio-ghibli-pack-vol-2.json](./356120-taiko-no-tatsujin-rhythm-festival-studio-ghibli-pack-vol-2.json) |
@@ -20732,7 +20736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unsolved | 377341 | [377341-the-unsolved.json](./377341-the-unsolved.json) |
 | The Unsolved | 418549 | [418549-the-unsolved.json](./418549-the-unsolved.json) |
 | The Unsolved | 66216 | [66216-the-unsolved.json](./66216-the-unsolved.json) |
-| The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
 | The Unstoppables | 368176 | [368176-the-unstoppables.json](./368176-the-unstoppables.json) |
 | The Unstoppables 2 | 368245 | [368245-the-unstoppables-2.json](./368245-the-unstoppables-2.json) |
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
@@ -30353,7 +30356,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towards Gold and Glory | 97006 | [97006-towards-gold-and-glory.json](./97006-towards-gold-and-glory.json) |
 | Towards the Enduring Light | 131712 | [131712-towards-the-enduring-light.json](./131712-towards-the-enduring-light.json) |
 | Towards the Light | 407512 | [407512-towards-the-light.json](./407512-towards-the-light.json) |
-| Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
 | Towards the Pantheon: Escaping Eternity | 59145 | [59145-towards-the-pantheon-escaping-eternity.json](./59145-towards-the-pantheon-escaping-eternity.json) |
 | Towards the Sky | 144749 | [144749-towards-the-sky.json](./144749-towards-the-sky.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
