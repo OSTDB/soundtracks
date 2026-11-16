@@ -3460,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
 | Manga Oku no Hosomichi | 299635 | [299635-manga-oku-no-hosomichi.json](./299635-manga-oku-no-hosomichi.json) |
 | Manga Puzzle | 21463 | [21463-manga-puzzle.json](./21463-manga-puzzle.json) |
+| Manga RPG | 305667 | [305667-manga-rpg.json](./305667-manga-rpg.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Manga-Ka Debut Monogatari DS: Akogare! Manga Ka Ikusei Game | 261105 | [261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json](./261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json) |
 | Manga-ka Debut Monogatari: Akogare! Manga Ka Ikusei Game! | 49700 | [49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json](./49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json) |
@@ -9805,6 +9806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood: Twi-Lumina | 400268 | [400268-melty-blood-twi-lumina.json](./400268-melty-blood-twi-lumina.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
+| Melty Blood: Type Lumina - DLC: Aoko Aozaki Round Announcements | 302294 | [302294-melty-blood-type-lumina-dlc-aoko-aozaki-round-announcements.json](./302294-melty-blood-type-lumina-dlc-aoko-aozaki-round-announcements.json) |
 | Melty Blood: Type Lumina - Melty Blood Archives | 153649 | [153649-melty-blood-type-lumina-melty-blood-archives.json](./153649-melty-blood-type-lumina-melty-blood-archives.json) |
 | Melty Blood: Type Lumina - Powered Ciel Playable Character | 197842 | [197842-melty-blood-type-lumina-powered-ciel-playable-character.json](./197842-melty-blood-type-lumina-powered-ciel-playable-character.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
