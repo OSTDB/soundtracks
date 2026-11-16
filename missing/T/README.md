@@ -3827,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeenStyle Championship Cheerleading | 206909 | [206909-teenstyle-championship-cheerleading.json](./206909-teenstyle-championship-cheerleading.json) |
 | Teeny Dungeon | 245798 | [245798-teeny-dungeon.json](./245798-teeny-dungeon.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
+| Teeny Quests | 406375 | [406375-teeny-quests.json](./406375-teeny-quests.json) |
 | Teeny Tidy | 352152 | [352152-teeny-tidy.json](./352152-teeny-tidy.json) |
 | Teeny Tiny Harbors | 319217 | [319217-teeny-tiny-harbors.json](./319217-teeny-tiny-harbors.json) |
 | Teeny Tiny Tarot | 182878 | [182878-teeny-tiny-tarot.json](./182878-teeny-tiny-tarot.json) |
@@ -20579,6 +20580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Underkeep | 271351 | [271351-the-underkeep.json](./271351-the-underkeep.json) |
 | The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
+| The Undermind | 406973 | [406973-the-undermind.json](./406973-the-undermind.json) |
 | The Unders_core | 207085 | [207085-the-unders-core.json](./207085-the-unders-core.json) |
 | The Undersea | 273819 | [273819-the-undersea.json](./273819-the-undersea.json) |
 | The Underside | 242468 | [242468-the-underside.json](./242468-the-underside.json) |
@@ -27325,6 +27327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobi Tsukihime | 169159 | [169159-tobi-tsukihime.json](./169159-tobi-tsukihime.json) |
 | Tobi: Path of Truth | 251947 | [251947-tobi-path-of-truth.json](./251947-tobi-path-of-truth.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
+| Tobias and the Dark Sceptres | 406364 | [406364-tobias-and-the-dark-sceptres.json](./406364-tobias-and-the-dark-sceptres.json) |
 | Tobichiyon X | 311750 | [311750-tobichiyon-x.json](./311750-tobichiyon-x.json) |
 | Tobidase! Trouble Hanafuda Douchuuki | 269512 | [269512-tobidase-trouble-hanafuda-douchuuki.json](./269512-tobidase-trouble-hanafuda-douchuuki.json) |
 | Tobii Horizon | 236870 | [236870-tobii-horizon.json](./236870-tobii-horizon.json) |
@@ -34562,6 +34565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Innocence | 336237 | [336237-trials-of-innocence.json](./336237-trials-of-innocence.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
 | Trials of Luna | 383795 | [383795-trials-of-luna.json](./383795-trials-of-luna.json) |
+| Trials of Mary | 406962 | [406962-trials-of-mary.json](./406962-trials-of-mary.json) |
 | Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
 | Trials of Proelium Remastered | 348891 | [348891-trials-of-proelium-remastered.json](./348891-trials-of-proelium-remastered.json) |
@@ -37695,6 +37699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TWP Spine of the World | 68419 | [68419-twp-spine-of-the-world.json](./68419-twp-spine-of-the-world.json) |
 | TWS: Training and War Simulation | 244027 | [244027-tws-training-and-war-simulation.json](./244027-tws-training-and-war-simulation.json) |
 | Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
+| TwwwT: The Witches Who Weave Timelines | 406971 | [406971-twwwt-the-witches-who-weave-timelines.json](./406971-twwwt-the-witches-who-weave-timelines.json) |
 | Twyla | 260534 | [260534-twyla.json](./260534-twyla.json) |
 | TX Poker: Texas Holdem Online | 359912 | [359912-tx-poker-texas-holdem-online.json](./359912-tx-poker-texas-holdem-online.json) |
 | TX-1 | 24434 | [24434-tx-1.json](./24434-tx-1.json) |
@@ -37835,6 +37840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing of Ys | 252843 | [252843-typing-of-ys.json](./252843-typing-of-ys.json) |
 | Typing Ougi: Hokuto no Ken Gekiuchi | 64193 | [64193-typing-ougi-hokuto-no-ken-gekiuchi.json](./64193-typing-ougi-hokuto-no-ken-gekiuchi.json) |
 | Typing Quest | 144571 | [144571-typing-quest.json](./144571-typing-quest.json) |
+| Typing Renai Hakusho: Boys Be... | 406985 | [406985-typing-renai-hakusho-boys-be.json](./406985-typing-renai-hakusho-boys-be.json) |
 | Typing Ritual | 388430 | [388430-typing-ritual.json](./388430-typing-ritual.json) |
 | Typing Shuugyou: Hokuto no Ken Gekiuchi Zero | 64189 | [64189-typing-shuugyou-hokuto-no-ken-gekiuchi-zero.json](./64189-typing-shuugyou-hokuto-no-ken-gekiuchi-zero.json) |
 | Typing Space Harrier | 108887 | [108887-typing-space-harrier.json](./108887-typing-space-harrier.json) |
