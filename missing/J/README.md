@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Simulator: The 2050 Archives | 12596 | [12596-job-simulator-the-2050-archives.json](./12596-job-simulator-the-2050-archives.json) |
 | Job the Leprechaun | 210435 | [210435-job-the-leprechaun.json](./210435-job-the-leprechaun.json) |
 | Job the Leprechaun | 34849 | [34849-job-the-leprechaun.json](./34849-job-the-leprechaun.json) |
+| Jobby | 413335 | [413335-jobby.json](./413335-jobby.json) |
 | Jobhunt | 178465 | [178465-jobhunt.json](./178465-jobhunt.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
 | Jobmania: Eternal Dungeon | 176883 | [176883-jobmania-eternal-dungeon.json](./176883-jobmania-eternal-dungeon.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonah Considers What Is Asked of Him | 375384 | [375384-jonah-considers-what-is-asked-of-him.json](./375384-jonah-considers-what-is-asked-of-him.json) |
 | Jonah Lomu Rugby | 2401 | [2401-jonah-lomu-rugby.json](./2401-jonah-lomu-rugby.json) |
 | Jonah Lomu Rugby Challenge 4 | 333520 | [333520-jonah-lomu-rugby-challenge-4.json](./333520-jonah-lomu-rugby-challenge-4.json) |
+| Jonah Lomu Rugby Challenge 4 Remastered | 413311 | [413311-jonah-lomu-rugby-challenge-4-remastered.json](./413311-jonah-lomu-rugby-challenge-4-remastered.json) |
 | Jonah Lomu Rugby Challenge: Quick Match | 175156 | [175156-jonah-lomu-rugby-challenge-quick-match.json](./175156-jonah-lomu-rugby-challenge-quick-match.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonah's Path | 32305 | [32305-jonahs-path.json](./32305-jonahs-path.json) |
