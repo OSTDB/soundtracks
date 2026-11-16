@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
 | Verse Unknown | 396341 | [396341-verse-unknown.json](./396341-verse-unknown.json) |
 | Verse VR | 354339 | [354339-verse-vr.json](./354339-verse-vr.json) |
+| Versebound | 279918 | [279918-versebound.json](./279918-versebound.json) |
 | Verses | 359524 | [359524-verses.json](./359524-verses.json) |
 | Verses of Enchantment | 211982 | [211982-verses-of-enchantment.json](./211982-verses-of-enchantment.json) |
 | Verses of Hope | 313199 | [313199-verses-of-hope.json](./313199-verses-of-hope.json) |
@@ -3626,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice Fantasia: Ushinawareta Voice Power | 54950 | [54950-voice-fantasia-ushinawareta-voice-power.json](./54950-voice-fantasia-ushinawareta-voice-power.json) |
 | Voice from Beyond | 197208 | [197208-voice-from-beyond.json](./197208-voice-from-beyond.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
+| Voice Love on Air | 279843 | [279843-voice-love-on-air.json](./279843-voice-love-on-air.json) |
 | Voice Mimicry Show | 310440 | [310440-voice-mimicry-show.json](./310440-voice-mimicry-show.json) |
 | Voice of Belldona | 318300 | [318300-voice-of-belldona.json](./318300-voice-of-belldona.json) |
 | Voice of Cards Trilogy | 242664 | [242664-voice-of-cards-trilogy.json](./242664-voice-of-cards-trilogy.json) |
