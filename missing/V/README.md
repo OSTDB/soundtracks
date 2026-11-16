@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Cameraman 2: Phuket, Thailand / Pickup Compilation | 307993 | [307993-virtual-cameraman-2-phuket-thailand-pickup-compilation.json](./307993-virtual-cameraman-2-phuket-thailand-pickup-compilation.json) |
 | Virtual Cameraman Part 1: Sawada Naomi and Juri Anna | 227811 | [227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json](./227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json) |
 | Virtual Cameraman Part 2: Kawai Natsumi and Tachihara Kimi | 227812 | [227812-virtual-cameraman-part-2-kawai-natsumi-and-tachihara-kimi.json](./227812-virtual-cameraman-part-2-kawai-natsumi-and-tachihara-kimi.json) |
+| Virtual Cameraman Part 3: Sugimoto Yumika | 218021 | [218021-virtual-cameraman-part-3-sugimoto-yumika.json](./218021-virtual-cameraman-part-3-sugimoto-yumika.json) |
 | Virtual Cameraman Part 4: Toya Shiori | 217878 | [217878-virtual-cameraman-part-4-toya-shiori.json](./217878-virtual-cameraman-part-4-toya-shiori.json) |
 | Virtual Cameraman Part 5: Anzo Ari | 216769 | [216769-virtual-cameraman-part-5-anzo-ari.json](./216769-virtual-cameraman-part-5-anzo-ari.json) |
 | Virtual Campus | 384352 | [384352-virtual-campus.json](./384352-virtual-campus.json) |
@@ -3251,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus: The Game | 47119 | [47119-virus-the-game.json](./47119-virus-the-game.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
 | Virus.exe | 131409 | [131409-virus-exe.json](./131409-virus-exe.json) |
+| Virush | 217584 | [217584-virush.json](./217584-virush.json) |
 | Virush | 36969 | [36969-virush.json](./36969-virush.json) |
 | VirusRush + Hazard of the Ages | 314176 | [314176-virusrush-hazard-of-the-ages.json](./314176-virusrush-hazard-of-the-ages.json) |
 | ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
