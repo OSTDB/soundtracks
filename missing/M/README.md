@@ -6686,6 +6686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne 2 | 196252 | [196252-max-payne-2.json](./196252-max-payne-2.json) |
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
 | Max Payne 3: Special Edition | 42972 | [42972-max-payne-3-special-edition.json](./42972-max-payne-3-special-edition.json) |
+| Max Payne Bundle | 362533 | [362533-max-payne-bundle.json](./362533-max-payne-bundle.json) |
 | Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
 | Max Payne@University | 218649 | [218649-max-payne-university.json](./218649-max-payne-university.json) |
 | Max Pirate | 340162 | [340162-max-pirate.json](./340162-max-pirate.json) |
@@ -25101,6 +25102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
 | Mythical Hearts | 299027 | [299027-mythical-hearts.json](./299027-mythical-hearts.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
+| Mythical Mayhem | 362496 | [362496-mythical-mayhem.json](./362496-mythical-mayhem.json) |
 | Mythical Mayhem: Judgment Night Expansion | 362597 | [362597-mythical-mayhem-judgment-night-expansion.json](./362597-mythical-mayhem-judgment-night-expansion.json) |
 | Mythical Mayhem: Twisting Sands Expansion | 362596 | [362596-mythical-mayhem-twisting-sands-expansion.json](./362596-mythical-mayhem-twisting-sands-expansion.json) |
 | Mythical Party | 292747 | [292747-mythical-party.json](./292747-mythical-party.json) |
