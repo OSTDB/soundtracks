@@ -16001,6 +16001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Tetris | 3339 | [3339-the-new-tetris.json](./3339-the-new-tetris.json) |
 | The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
 | The New York Times Simulator | 294777 | [294777-the-new-york-times-simulator.json](./294777-the-new-york-times-simulator.json) |
+| The Newspapers of the Day | 391372 | [391372-the-newspapers-of-the-day.json](./391372-the-newspapers-of-the-day.json) |
 | The Newton Mystery | 208332 | [208332-the-newton-mystery.json](./208332-the-newton-mystery.json) |
 | The NewZealand Story | 274066 | [274066-the-newzealand-story.json](./274066-the-newzealand-story.json) |
 | The NewZealand Story | 274068 | [274068-the-newzealand-story.json](./274068-the-newzealand-story.json) |
