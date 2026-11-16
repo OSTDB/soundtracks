@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalkuhue | 417977 | [417977-kalkuhue.json](./417977-kalkuhue.json) |
 | Kallax | 217284 | [217284-kallax.json](./217284-kallax.json) |
 | Kalling Kingdom | 130731 | [130731-kalling-kingdom.json](./130731-kalling-kingdom.json) |
+| Kallio | 337873 | [337873-kallio.json](./337873-kallio.json) |
 | Kalma | 349470 | [349470-kalma.json](./349470-kalma.json) |
 | Kalonline | 32613 | [32613-kalonline.json](./32613-kalonline.json) |
 | Kalpa | 170466 | [170466-kalpa.json](./170466-kalpa.json) |
