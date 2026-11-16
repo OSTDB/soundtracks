@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man/Woman | 181747 | [181747-man-woman.json](./181747-man-woman.json) |
 | Mana | 280309 | [280309-mana.json](./280309-mana.json) |
 | Mana Balls | 116190 | [116190-mana-balls.json](./116190-mana-balls.json) |
+| Mana Battle | 379279 | [379279-mana-battle.json](./379279-mana-battle.json) |
 | Mana Blast | 138415 | [138415-mana-blast.json](./138415-mana-blast.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
@@ -3415,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mane | 158171 | [158171-mane.json](./158171-mane.json) |
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
 | Maneater | 110851 | [110851-maneater.json](./110851-maneater.json) |
+| Maneater | 384426 | [384426-maneater.json](./384426-maneater.json) |
 | Maneater | 46800 | [46800-maneater.json](./46800-maneater.json) |
 | Maneater 2 | 416101 | [416101-maneater-2.json](./416101-maneater-2.json) |
 | Maneater and the Golden Teacher | 199394 | [199394-maneater-and-the-golden-teacher.json](./199394-maneater-and-the-golden-teacher.json) |
@@ -3422,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
 | Maneki Mania | 411088 | [411088-maneki-mania.json](./411088-maneki-mania.json) |
 | Maneki's Curse | 33384 | [33384-manekis-curse.json](./33384-manekis-curse.json) |
+| Manekin: The Lost Island | 379280 | [379280-manekin-the-lost-island.json](./379280-manekin-the-lost-island.json) |
 | Manes | 70083 | [70083-manes.json](./70083-manes.json) |
 | Maneuver | 285905 | [285905-maneuver.json](./285905-maneuver.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
@@ -8000,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
 | Medieval Machines Builder: First Siege | 277261 | [277261-medieval-machines-builder-first-siege.json](./277261-medieval-machines-builder-first-siege.json) |
+| Medieval Marathon: A Quest for Gold | 384423 | [384423-medieval-marathon-a-quest-for-gold.json](./384423-medieval-marathon-a-quest-for-gold.json) |
 | Medieval March | 292343 | [292343-medieval-march.json](./292343-medieval-march.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
 | Medieval Market Simulator | 399660 | [399660-medieval-market-simulator.json](./399660-medieval-market-simulator.json) |
@@ -10315,6 +10319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Craft | 392235 | [392235-meow-craft.json](./392235-meow-craft.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Delivery: Fish Frenzy | 334996 | [334996-meow-delivery-fish-frenzy.json](./334996-meow-delivery-fish-frenzy.json) |
+| Meow Dream Home | 384451 | [384451-meow-dream-home.json](./384451-meow-dream-home.json) |
 | Meow Express | 186685 | [186685-meow-express.json](./186685-meow-express.json) |
 | Meow Garden | 333906 | [333906-meow-garden.json](./333906-meow-garden.json) |
 | Meow Go | 76501 | [76501-meow-go.json](./76501-meow-go.json) |
@@ -12063,6 +12068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron | 13673 | [13673-micron.json](./13673-micron.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
+| Micron Survivor | 378104 | [378104-micron-survivor.json](./378104-micron-survivor.json) |
 | Micronaut One | 53149 | [53149-micronaut-one.json](./53149-micronaut-one.json) |
 | Micronomicon: Heroes | 116919 | [116919-micronomicon-heroes.json](./116919-micronomicon-heroes.json) |
 | Microodyssey | 161528 | [161528-microodyssey.json](./161528-microodyssey.json) |
@@ -15433,6 +15439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misha | 371009 | [371009-misha.json](./371009-misha.json) |
 | Misha | 414031 | [414031-misha.json](./414031-misha.json) |
 | Misha Adventures | 166792 | [166792-misha-adventures.json](./166792-misha-adventures.json) |
+| Mishaka Ubivaka | 378119 | [378119-mishaka-ubivaka.json](./378119-mishaka-ubivaka.json) |
 | Mishap 2: An Intentional Haunting | 30144 | [30144-mishap-2-an-intentional-haunting.json](./30144-mishap-2-an-intentional-haunting.json) |
 | Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
@@ -24154,6 +24161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Vet Practice 3D - In the Country | 84709 | [84709-my-vet-practice-3d-in-the-country.json](./84709-my-vet-practice-3d-in-the-country.json) |
 | My Vet Practice: Marine Patrol | 29415 | [29415-my-vet-practice-marine-patrol.json](./29415-my-vet-practice-marine-patrol.json) |
 | My Video Game Girlfriend | 206000 | [206000-my-video-game-girlfriend.json](./206000-my-video-game-girlfriend.json) |
+| My Video Playlist | 379254 | [379254-my-video-playlist.json](./379254-my-video-playlist.json) |
 | My Village Life | 166506 | [166506-my-village-life.json](./166506-my-village-life.json) |
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
 | My Virgin Roommate | 264800 | [264800-my-virgin-roommate.json](./264800-my-virgin-roommate.json) |
