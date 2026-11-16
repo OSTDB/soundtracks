@@ -7474,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef & Friends: Recipe for Success | 309262 | [309262-chef-and-friends-recipe-for-success.json](./309262-chef-and-friends-recipe-for-success.json) |
 | Chef Bacon | 420571 | [420571-chef-bacon.json](./420571-chef-bacon.json) |
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
+| Chef Boyardee Saucy Shot | 396163 | [396163-chef-boyardee-saucy-shot.json](./396163-chef-boyardee-saucy-shot.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Chen | 142648 | [142648-chef-chen.json](./142648-chef-chen.json) |
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
@@ -16256,6 +16257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Pizza Bar Tycoon | 260038 | [260038-cooking-arena-pizza-bar-tycoon.json](./260038-cooking-arena-pizza-bar-tycoon.json) |
 | Cooking Arena: Platinum Edition | 386800 | [386800-cooking-arena-platinum-edition.json](./386800-cooking-arena-platinum-edition.json) |
 | Cooking Arena: Salad Bar Tycoon | 260041 | [260041-cooking-arena-salad-bar-tycoon.json](./260041-cooking-arena-salad-bar-tycoon.json) |
+| Cooking Arena: Super Edition | 396137 | [396137-cooking-arena-super-edition.json](./396137-cooking-arena-super-edition.json) |
 | Cooking Arena: Sushi Master | 308810 | [308810-cooking-arena-sushi-master.json](./308810-cooking-arena-sushi-master.json) |
 | Cooking Arena: Sushi Time! | 260040 | [260040-cooking-arena-sushi-time.json](./260040-cooking-arena-sushi-time.json) |
 | Cooking Arena: Sweet Bakery Tycoon | 260036 | [260036-cooking-arena-sweet-bakery-tycoon.json](./260036-cooking-arena-sweet-bakery-tycoon.json) |
