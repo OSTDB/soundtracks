@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbangers: Fright or Flight | 279539 | [279539-headbangers-fright-or-flight.json](./279539-headbangers-fright-or-flight.json) |
 | HeadBangers: Pigeon Pass | 269380 | [269380-headbangers-pigeon-pass.json](./269380-headbangers-pigeon-pass.json) |
 | HeadBangers: Rhythm Royale - Digital Deluxe Edition | 269379 | [269379-headbangers-rhythm-royale-digital-deluxe-edition.json](./269379-headbangers-rhythm-royale-digital-deluxe-edition.json) |
+| Headbonk | 249409 | [249409-headbonk.json](./249409-headbonk.json) |
 | Headbutt Factory | 118507 | [118507-headbutt-factory.json](./118507-headbutt-factory.json) |
 | Headcase | 282855 | [282855-headcase.json](./282855-headcase.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
@@ -3695,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
 | Healer's Yell | 374038 | [374038-healers-yell.json](./374038-healers-yell.json) |
 | Healing Animal | 149663 | [149663-healing-animal.json](./149663-healing-animal.json) |
+| Healing Beat | 249422 | [249422-healing-beat.json](./249422-healing-beat.json) |
 | Healing Days: Toshi no Sa Kanojo to no Ama Ama Seikatsu | 402719 | [402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json](./402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healing Simulator | 195000 | [195000-healing-simulator.json](./195000-healing-simulator.json) |
