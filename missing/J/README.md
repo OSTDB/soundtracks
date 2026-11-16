@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelry Master Twinkle | 270347 | [270347-jewelry-master-twinkle.json](./270347-jewelry-master-twinkle.json) |
 | Jewelry Nights Arcadia: The Ends of the World | 337943 | [337943-jewelry-nights-arcadia-the-ends-of-the-world.json](./337943-jewelry-nights-arcadia-the-ends-of-the-world.json) |
 | Jewels 20 | 73583 | [73583-jewels-20.json](./73583-jewels-20.json) |
+| Jewels Blitz 5 | 213662 | [213662-jewels-blitz-5.json](./213662-jewels-blitz-5.json) |
 | Jewels Collection | 246553 | [246553-jewels-collection.json](./246553-jewels-collection.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels Fantasy | 100837 | [100837-jewels-fantasy.json](./100837-jewels-fantasy.json) |
