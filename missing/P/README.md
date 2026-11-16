@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Cat | 313948 | [313948-pac-cat.json](./313948-pac-cat.json) |
 | Pac Droids | 94590 | [94590-pac-droids.json](./94590-pac-droids.json) |
 | Pac Girl | 25146 | [25146-pac-girl.json](./25146-pac-girl.json) |
+| Pac Man | 363616 | [363616-pac-man.json](./363616-pac-man.json) |
 | Pac Man's Sky | 179778 | [179778-pac-mans-sky.json](./179778-pac-mans-sky.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Mr | 100293 | [100293-pac-mr.json](./100293-pac-mr.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panama Joe | 93302 | [93302-panama-joe.json](./93302-panama-joe.json) |
 | Panasonic Prime Smash! | 340350 | [340350-panasonic-prime-smash.json](./340350-panasonic-prime-smash.json) |
 | Pancake | 305467 | [305467-pancake.json](./305467-pancake.json) |
+| Pancake | 363617 | [363617-pancake.json](./363617-pancake.json) |
 | Pancake and Milkshake! | 196388 | [196388-pancake-and-milkshake.json](./196388-pancake-and-milkshake.json) |
 | Pancake Bar Tycoon | 147152 | [147152-pancake-bar-tycoon.json](./147152-pancake-bar-tycoon.json) |
 | Pancake Bar Tycoon: Deluxe Edition | 221502 | [221502-pancake-bar-tycoon-deluxe-edition.json](./221502-pancake-bar-tycoon-deluxe-edition.json) |
@@ -2177,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachronism: Order of Chaos | 21999 | [21999-parachronism-order-of-chaos.json](./21999-parachronism-order-of-chaos.json) |
 | Parachute | 145158 | [145158-parachute.json](./145158-parachute.json) |
 | Parachute | 231725 | [231725-parachute.json](./231725-parachute.json) |
+| Parachute | 363618 | [363618-parachute.json](./363618-parachute.json) |
 | Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
 | Parachute Drop | 191447 | [191447-parachute-drop.json](./191447-parachute-drop.json) |
@@ -7383,6 +7386,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: No.031 - Teku-teku Pikmin: Zou no Ashi | 363768 | [363768-pikmin-puzzle-card-e-no-031-teku-teku-pikmin-zou-no-ashi.json](./363768-pikmin-puzzle-card-e-no-031-teku-teku-pikmin-zou-no-ashi.json) |
 | Pikmin Puzzle Card e+: No.032 - Tsunagete Pikmin: Damagumo Cannon | 363769 | [363769-pikmin-puzzle-card-e-no-032-tsunagete-pikmin-damagumo-cannon.json](./363769-pikmin-puzzle-card-e-no-032-tsunagete-pikmin-damagumo-cannon.json) |
 | Pikmin Puzzle Card e+: No.033 - Hikkonuki Pikmin: Tamago Mushi | 363770 | [363770-pikmin-puzzle-card-e-no-033-hikkonuki-pikmin-tamago-mushi.json](./363770-pikmin-puzzle-card-e-no-033-hikkonuki-pikmin-tamago-mushi.json) |
+| Pikmin Puzzle Card e+: No.034 - Hikkonuki Pikmin: Shakomodoki | 363771 | [363771-pikmin-puzzle-card-e-no-034-hikkonuki-pikmin-shakomodoki.json](./363771-pikmin-puzzle-card-e-no-034-hikkonuki-pikmin-shakomodoki.json) |
+| Pikmin Puzzle Card e+: No.035 - Tsunagete Pikmin: Saraimushi | 363772 | [363772-pikmin-puzzle-card-e-no-035-tsunagete-pikmin-saraimushi.json](./363772-pikmin-puzzle-card-e-no-035-tsunagete-pikmin-saraimushi.json) |
+| Pikmin Puzzle Card e+: No.036 - Tsunagete Pikmin: Totetsuchi Hokashi | 363773 | [363773-pikmin-puzzle-card-e-no-036-tsunagete-pikmin-totetsuchi-hokashi.json](./363773-pikmin-puzzle-card-e-no-036-tsunagete-pikmin-totetsuchi-hokashi.json) |
+| Pikmin Puzzle Card e+: No.037 - Teku-teku Pikmin: Sakure Urame | 363774 | [363774-pikmin-puzzle-card-e-no-037-teku-teku-pikmin-sakure-urame.json](./363774-pikmin-puzzle-card-e-no-037-teku-teku-pikmin-sakure-urame.json) |
 | Pikmin Puzzle Card e+: No.038 - Teku-teku Pikmin: Kamado Fuma | 363775 | [363775-pikmin-puzzle-card-e-no-038-teku-teku-pikmin-kamado-fuma.json](./363775-pikmin-puzzle-card-e-no-038-teku-teku-pikmin-kamado-fuma.json) |
 | Pikmin Puzzle Card e+: No.039 - Tsunagete Pikmin: Ko Manman | 363776 | [363776-pikmin-puzzle-card-e-no-039-tsunagete-pikmin-ko-manman.json](./363776-pikmin-puzzle-card-e-no-039-tsunagete-pikmin-ko-manman.json) |
 | Pikmin Puzzle Card e+: No.04 - Hikkonuki Pikmin: Aka Ko Chappy | 353515 | [353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json](./353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json) |
@@ -9808,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
 | Pixelmon Wingull 2 | 293268 | [293268-pixelmon-wingull-2.json](./293268-pixelmon-wingull-2.json) |
 | Pixelo | 235094 | [235094-pixelo.json](./235094-pixelo.json) |
+| Pixelo | 363589 | [363589-pixelo.json](./363589-pixelo.json) |
 | Pixelogic | 233258 | [233258-pixelogic.json](./233258-pixelogic.json) |
 | Pixeloids | 32373 | [32373-pixeloids.json](./32373-pixeloids.json) |
 | PixelOrb | 184302 | [184302-pixelorb.json](./184302-pixelorb.json) |
@@ -14637,6 +14645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal 3 64 | 135217 | [135217-portal-3-64.json](./135217-portal-3-64.json) |
 | Portal 64 | 261713 | [261713-portal-64.json](./261713-portal-64.json) |
 | Portal 64: Still Alive | 377846 | [377846-portal-64-still-alive.json](./377846-portal-64-still-alive.json) |
+| Portal Advance | 365011 | [365011-portal-advance.json](./365011-portal-advance.json) |
 | Portal Bagley: Aperture Remote Terminal | 344153 | [344153-portal-bagley-aperture-remote-terminal.json](./344153-portal-bagley-aperture-remote-terminal.json) |
 | Portal Balls | 325880 | [325880-portal-balls.json](./325880-portal-balls.json) |
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
@@ -17956,6 +17965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Makeover | 191772 | [191772-project-makeover.json](./191772-project-makeover.json) |
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
 | Project Mallow | 37416 | [37416-project-mallow.json](./37416-project-mallow.json) |
+| Project Manager: Initiation | 363584 | [363584-project-manager-initiation.json](./363584-project-manager-initiation.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
 | Project Maverick | 267873 | [267873-project-maverick.json](./267873-project-maverick.json) |
@@ -18724,6 +18734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol 11: Episode 1 | 278115 | [278115-protocol-11-episode-1.json](./278115-protocol-11-episode-1.json) |
 | Protocol 11: Super Cute Alien Legacy Edition | 278116 | [278116-protocol-11-super-cute-alien-legacy-edition.json](./278116-protocol-11-super-cute-alien-legacy-edition.json) |
 | Protocol 86: Chernobyl | 419177 | [419177-protocol-86-chernobyl.json](./419177-protocol-86-chernobyl.json) |
+| Protocol Aegirum | 363581 | [363581-protocol-aegirum.json](./363581-protocol-aegirum.json) |
 | Protocol Aftertime | 210751 | [210751-protocol-aftertime.json](./210751-protocol-aftertime.json) |
 | Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
 | Protocol Delta | 258648 | [258648-protocol-delta.json](./258648-protocol-delta.json) |
