@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tayutama 2: You're the only one | 153694 | [153694-tayutama-2-youre-the-only-one.json](./153694-tayutama-2-youre-the-only-one.json) |
 | Tayutama 2: You're the only one | 30612 | [30612-tayutama-2-youre-the-only-one.json](./30612-tayutama-2-youre-the-only-one.json) |
 | Tayutama: It's happy days | 362212 | [362212-tayutama-its-happy-days.json](./362212-tayutama-its-happy-days.json) |
+| Tayutama: Kiss on my Deity | 328703 | [328703-tayutama-kiss-on-my-deity.json](./328703-tayutama-kiss-on-my-deity.json) |
 | Tayutama: Kiss on My Deity | 403095 | [403095-tayutama-kiss-on-my-deity.json](./403095-tayutama-kiss-on-my-deity.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
@@ -5912,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's Exactly What a Wolf Would Say! | 419755 | [419755-thats-exactly-what-a-wolf-would-say.json](./419755-thats-exactly-what-a-wolf-would-say.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Mahjong! | 30811 | [30811-thats-mahjong.json](./30811-thats-mahjong.json) |
+| That's My Exploit Keeper! | 324017 | [324017-thats-my-exploit-keeper.json](./324017-thats-my-exploit-keeper.json) |
 | That's My Family: Family Fun Night | 241102 | [241102-thats-my-family-family-fun-night.json](./241102-thats-my-family-family-fun-night.json) |
 | That's My Seat | 387467 | [387467-thats-my-seat.json](./387467-thats-my-seat.json) |
 | That's My Space | 250740 | [250740-thats-my-space.json](./250740-thats-my-space.json) |
@@ -6212,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
 | The Adventures of Captain Becky | 311710 | [311710-the-adventures-of-captain-becky.json](./311710-the-adventures-of-captain-becky.json) |
 | The Adventures of Captain Comic | 9528 | [9528-the-adventures-of-captain-comic.json](./9528-the-adventures-of-captain-comic.json) |
+| The Adventures Of Captain J | 322875 | [322875-the-adventures-of-captain-j.json](./322875-the-adventures-of-captain-j.json) |
 | The Adventures of Captain Potato | 107396 | [107396-the-adventures-of-captain-potato.json](./107396-the-adventures-of-captain-potato.json) |
 | The Adventures of Catto Boi | 228831 | [228831-the-adventures-of-catto-boi.json](./228831-the-adventures-of-catto-boi.json) |
 | The Adventures of Catto Boi | 306897 | [306897-the-adventures-of-catto-boi.json](./306897-the-adventures-of-catto-boi.json) |
@@ -11886,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted: Hells Reach - The Fog | 197620 | [197620-the-haunted-hells-reach-the-fog.json](./197620-the-haunted-hells-reach-the-fog.json) |
 | The Haunted: Hells Reach - The Island | 193226 | [193226-the-haunted-hells-reach-the-island.json](./193226-the-haunted-hells-reach-the-island.json) |
 | The Haunting | 133000 | [133000-the-haunting.json](./133000-the-haunting.json) |
+| The Haunting Eyes | 328696 | [328696-the-haunting-eyes.json](./328696-the-haunting-eyes.json) |
 | The Haunting of Billy | 33471 | [33471-the-haunting-of-billy.json](./33471-the-haunting-of-billy.json) |
 | The Haunting of Braidwood Manor | 313813 | [313813-the-haunting-of-braidwood-manor.json](./313813-the-haunting-of-braidwood-manor.json) |
 | The Haunting of Joni Evers | 290008 | [290008-the-haunting-of-joni-evers.json](./290008-the-haunting-of-joni-evers.json) |
@@ -11955,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hellblade Bundle | 317402 | [317402-the-hellblade-bundle.json](./317402-the-hellblade-bundle.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
+| The Hellspawn Spectrum | 328711 | [328711-the-hellspawn-spectrum.json](./328711-the-hellspawn-spectrum.json) |
 | The Helm | 14111 | [14111-the-helm.json](./14111-the-helm.json) |
 | The Help Desk | 149493 | [149493-the-help-desk.json](./149493-the-help-desk.json) |
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
@@ -15095,6 +15100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Love: Date Simulator with Girls | 271863 | [271863-the-love-date-simulator-with-girls.json](./271863-the-love-date-simulator-with-girls.json) |
 | The Love's Ordeal | 360625 | [360625-the-loves-ordeal.json](./360625-the-loves-ordeal.json) |
 | The Lovebirds | 113226 | [113226-the-lovebirds.json](./113226-the-lovebirds.json) |
+| The Loveland Frog | 325738 | [325738-the-loveland-frog.json](./325738-the-loveland-frog.json) |
 | The Lovely Estate | 203994 | [203994-the-lovely-estate.json](./203994-the-lovely-estate.json) |
 | The Lover of Me | 184328 | [184328-the-lover-of-me.json](./184328-the-lover-of-me.json) |
 | The Low Road | 28049 | [28049-the-low-road.json](./28049-the-low-road.json) |
@@ -15446,6 +15452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Memological Dungeon | 357705 | [357705-the-memological-dungeon.json](./357705-the-memological-dungeon.json) |
 | The Memories That Shape Us | 327371 | [327371-the-memories-that-shape-us.json](./327371-the-memories-that-shape-us.json) |
+| The Memory In Walden Pond | 319256 | [319256-the-memory-in-walden-pond.json](./319256-the-memory-in-walden-pond.json) |
 | The Memory Library | 414404 | [414404-the-memory-library.json](./414404-the-memory-library.json) |
 | The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
 | The Memory of Mallet | 310119 | [310119-the-memory-of-mallet.json](./310119-the-memory-of-mallet.json) |
@@ -15664,6 +15671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moment of Panic | 404165 | [404165-the-moment-of-panic.json](./404165-the-moment-of-panic.json) |
 | The Moment of Silence | 18171 | [18171-the-moment-of-silence.json](./18171-the-moment-of-silence.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
+| The Moments Before Death | 319254 | [319254-the-moments-before-death.json](./319254-the-moments-before-death.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
 | The Monad | 372610 | [372610-the-monad.json](./372610-the-monad.json) |
 | The Monarch | 258645 | [258645-the-monarch.json](./258645-the-monarch.json) |
@@ -19417,6 +19425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strange Box | 237186 | [237186-the-strange-box.json](./237186-the-strange-box.json) |
 | The Strange Case of Mei Lysel Andi | 257543 | [257543-the-strange-case-of-mei-lysel-andi.json](./257543-the-strange-case-of-mei-lysel-andi.json) |
 | The strange case of the serpent | 328322 | [328322-the-strange-case-of-the-serpent.json](./328322-the-strange-case-of-the-serpent.json) |
+| The Strange City | 322877 | [322877-the-strange-city.json](./322877-the-strange-city.json) |
 | The Strange Men Anthology | 345349 | [345349-the-strange-men-anthology.json](./345349-the-strange-men-anthology.json) |
 | The Strange Story of Brian Fisher: Chapter 1 | 126829 | [126829-the-strange-story-of-brian-fisher-chapter-1.json](./126829-the-strange-story-of-brian-fisher-chapter-1.json) |
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
@@ -19750,6 +19759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
 | The Tearoom | 141722 | [141722-the-tearoom.json](./141722-the-tearoom.json) |
 | The Technician | 9663 | [9663-the-technician.json](./9663-the-technician.json) |
+| The Technomagical Method | 318105 | [318105-the-technomagical-method.json](./318105-the-technomagical-method.json) |
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Telephone | 256647 | [256647-the-telephone.json](./256647-the-telephone.json) |
@@ -19806,6 +19816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Termination | 167344 | [167344-the-termination.json](./167344-the-termination.json) |
 | The Terminator | 198940 | [198940-the-terminator.json](./198940-the-terminator.json) |
 | The Terminator | 234211 | [234211-the-terminator.json](./234211-the-terminator.json) |
+| The Terminator | 327473 | [327473-the-terminator.json](./327473-the-terminator.json) |
 | The Terminator | 327476 | [327476-the-terminator.json](./327476-the-terminator.json) |
 | The Terminator | 327478 | [327478-the-terminator.json](./327478-the-terminator.json) |
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
@@ -22309,6 +22320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
 | They Come In Waves | 265273 | [265273-they-come-in-waves.json](./265273-they-come-in-waves.json) |
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
+| They Do Not Die | 319245 | [319245-they-do-not-die.json](./319245-they-do-not-die.json) |
 | They Don't Sleep | 212094 | [212094-they-dont-sleep.json](./212094-they-dont-sleep.json) |
 | They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
@@ -22647,6 +22659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Adam | 384560 | [384560-this-is-adam.json](./384560-this-is-adam.json) |
 | This Is Crying | 253127 | [253127-this-is-crying.json](./253127-this-is-crying.json) |
 | This Is Fine | 177325 | [177325-this-is-fine.json](./177325-this-is-fine.json) |
+| This is Fine: Maximum Cope | 318099 | [318099-this-is-fine-maximum-cope.json](./318099-this-is-fine-maximum-cope.json) |
 | This is Football | 70158 | [70158-this-is-football.json](./70158-this-is-football.json) |
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
@@ -22803,6 +22816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thome Wake | 287371 | [287371-thome-wake.json](./287371-thome-wake.json) |
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
+| Thor: Bring the Thunder | 327472 | [327472-thor-bring-the-thunder.json](./327472-thor-bring-the-thunder.json) |
 | Thor: God of Thunder | 21142 | [21142-thor-god-of-thunder.json](./21142-thor-god-of-thunder.json) |
 | Thor: God of Thunder | 400413 | [400413-thor-god-of-thunder.json](./400413-thor-god-of-thunder.json) |
 | Thor: God of Thunder | 5219 | [5219-thor-god-of-thunder.json](./5219-thor-god-of-thunder.json) |
@@ -25595,6 +25609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Tempest | 373338 | [373338-tile-tempest.json](./373338-tile-tempest.json) |
 | Tile Tides | 351537 | [351537-tile-tides.json](./351537-tile-tides.json) |
+| Tile To Tile | 319244 | [319244-tile-to-tile.json](./319244-tile-to-tile.json) |
 | Tile Town | 220519 | [220519-tile-town.json](./220519-tile-town.json) |
 | Tile Trials | 392196 | [392196-tile-trials.json](./392196-tile-trials.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
@@ -30378,6 +30393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Toward the Moon | 288577 | [288577-toward-the-moon.json](./288577-toward-the-moon.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
+| Towards Future | 320622 | [320622-towards-future.json](./320622-towards-future.json) |
 | Towards Gold and Glory | 97006 | [97006-towards-gold-and-glory.json](./97006-towards-gold-and-glory.json) |
 | Towards the Enduring Light | 131712 | [131712-towards-the-enduring-light.json](./131712-towards-the-enduring-light.json) |
 | Towards the Light | 407512 | [407512-towards-the-light.json](./407512-towards-the-light.json) |
