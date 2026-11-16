@@ -5180,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Mirelha | 227015 | [227015-otherworld-legends-mirelha.json](./227015-otherworld-legends-mirelha.json) |
 | Otherworld Legends: Ourania | 274598 | [274598-otherworld-legends-ourania.json](./274598-otherworld-legends-ourania.json) |
 | Otherworld Legends: Sinistar Ruthven | 274600 | [274600-otherworld-legends-sinistar-ruthven.json](./274600-otherworld-legends-sinistar-ruthven.json) |
+| Otherworld Legends: Skin - Mint & Sea Salt Millefeuille | 279978 | [279978-otherworld-legends-skin-mint-and-sea-salt-millefeuille.json](./279978-otherworld-legends-skin-mint-and-sea-salt-millefeuille.json) |
 | Otherworld Legends: Skin - Striker Dragoneer | 286984 | [286984-otherworld-legends-skin-striker-dragoneer.json](./286984-otherworld-legends-skin-striker-dragoneer.json) |
 | Otherworld Legends: Skin - Sunclipse | 286985 | [286985-otherworld-legends-skin-sunclipse.json](./286985-otherworld-legends-skin-sunclipse.json) |
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
