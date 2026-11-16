@@ -5489,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles Baseball | 198600 | [198600-knuckles-baseball.json](./198600-knuckles-baseball.json) |
 | Knuckles Generation | 330526 | [330526-knuckles-generation.json](./330526-knuckles-generation.json) |
 | Knuckles Minehunt | 326839 | [326839-knuckles-minehunt.json](./326839-knuckles-minehunt.json) |
+| Knuckles Quest | 316310 | [316310-knuckles-quest.json](./316310-knuckles-quest.json) |
 | Knuckles Soccer | 198591 | [198591-knuckles-soccer.json](./198591-knuckles-soccer.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 264457 | [264457-knuckles-the-echidna-in-sonic-the-hedgehog.json](./264457-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
@@ -5949,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koneko mo Issho | 244002 | [244002-koneko-mo-issho.json](./244002-koneko-mo-issho.json) |
 | Koneko Monogatari: The Adventures of Chatran | 41271 | [41271-koneko-monogatari-the-adventures-of-chatran.json](./41271-koneko-monogatari-the-adventures-of-chatran.json) |
 | Koneko Neko Neko | 108173 | [108173-koneko-neko-neko.json](./108173-koneko-neko-neko.json) |
+| Koneko no Daibouken | 328699 | [328699-koneko-no-daibouken.json](./328699-koneko-no-daibouken.json) |
 | Konekomi Castle | 384444 | [384444-konekomi-castle.json](./384444-konekomi-castle.json) |
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
