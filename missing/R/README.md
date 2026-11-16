@@ -4104,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
 | Reconnect: The Heart of Darkness | 148272 | [148272-reconnect-the-heart-of-darkness.json](./148272-reconnect-the-heart-of-darkness.json) |
+| Reconnected | 306835 | [306835-reconnected.json](./306835-reconnected.json) |
 | Reconnecting | 369292 | [369292-reconnecting.json](./369292-reconnecting.json) |
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
 | Reconquer Online | 319734 | [319734-reconquer-online.json](./319734-reconquer-online.json) |
@@ -6662,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Wing Syndrome | 177125 | [177125-restless-wing-syndrome.json](./177125-restless-wing-syndrome.json) |
 | Restless World | 74719 | [74719-restless-world.json](./74719-restless-world.json) |
 | Restlos | 400708 | [400708-restlos.json](./400708-restlos.json) |
+| Restock | 307358 | [307358-restock.json](./307358-restock.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restock Master | 426012 | [426012-restock-master.json](./426012-restock-master.json) |
 | Restorart: Horizon Bay Collector's Edition | 344416 | [344416-restorart-horizon-bay-collectors-edition.json](./344416-restorart-horizon-bay-collectors-edition.json) |
@@ -7947,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
 | Ribbon | 121779 | [121779-ribbon.json](./121779-ribbon.json) |
+| Ribbon Hero 2: Clippy's Second Chance | 307359 | [307359-ribbon-hero-2-clippys-second-chance.json](./307359-ribbon-hero-2-clippys-second-chance.json) |
 | Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
 | Ribbon Racer | 110664 | [110664-ribbon-racer.json](./110664-ribbon-racer.json) |
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
