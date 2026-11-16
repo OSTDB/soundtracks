@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
 | Faceez | 85130 | [85130-faceez.json](./85130-faceez.json) |
 | Faceez: Monsters! | 85131 | [85131-faceez-monsters.json](./85131-faceez-monsters.json) |
+| Facehand | 269251 | [269251-facehand.json](./269251-facehand.json) |
 | Faceless | 293539 | [293539-faceless.json](./293539-faceless.json) |
 | Faceless | 320882 | [320882-faceless.json](./320882-faceless.json) |
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Lords: Condemnation | 80150 | [80150-fallen-lords-condemnation.json](./80150-fallen-lords-condemnation.json) |
 | Fallen Mage | 30727 | [30727-fallen-mage.json](./30727-fallen-mage.json) |
 | Fallen Mage (Restocked) | 82329 | [82329-fallen-mage-restocked.json](./82329-fallen-mage-restocked.json) |
+| Fallen Ninja | 269252 | [269252-fallen-ninja.json](./269252-fallen-ninja.json) |
 | Fallen Oaks | 53027 | [53027-fallen-oaks.json](./53027-fallen-oaks.json) |
 | Fallen of the Round | 174243 | [174243-fallen-of-the-round.json](./174243-fallen-of-the-round.json) |
 | Fallen Overlord | 272922 | [272922-fallen-overlord.json](./272922-fallen-overlord.json) |
@@ -4695,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feylin | 164188 | [164188-feylin.json](./164188-feylin.json) |
 | Feyna's Quest | 198426 | [198426-feynas-quest.json](./198426-feynas-quest.json) |
 | Feyruna - Fairy Forest | 73134 | [73134-feyruna-fairy-forest.json](./73134-feyruna-fairy-forest.json) |
+| Feywing | 269254 | [269254-feywing.json](./269254-feywing.json) |
 | Feywood Wanderers | 351371 | [351371-feywood-wanderers.json](./351371-feywood-wanderers.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
 | Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
@@ -11028,6 +11031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Legends: The Call of Love - Collector's Edition | 76916 | [76916-forest-legends-the-call-of-love-collectors-edition.json](./76916-forest-legends-the-call-of-love-collectors-edition.json) |
 | Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
 | Forest Life | 234019 | [234019-forest-life.json](./234019-forest-life.json) |
+| Forest Life | 269171 | [269171-forest-life.json](./269171-forest-life.json) |
 | Forest Lookout | 410057 | [410057-forest-lookout.json](./410057-forest-lookout.json) |
 | Forest Loop | 389520 | [389520-forest-loop.json](./389520-forest-loop.json) |
 | Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
@@ -11311,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill Mementoes | 87980 | [87980-forgotten-hill-mementoes.json](./87980-forgotten-hill-mementoes.json) |
 | Forgotten Hill Pico | 388678 | [388678-forgotten-hill-pico.json](./388678-forgotten-hill-pico.json) |
 | Forgotten Hill Tales | 142330 | [142330-forgotten-hill-tales.json](./142330-forgotten-hill-tales.json) |
+| Forgotten Hill The Third Axis | 269253 | [269253-forgotten-hill-the-third-axis.json](./269253-forgotten-hill-the-third-axis.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
 | Forgotten Hill: Puppeteer | 101796 | [101796-forgotten-hill-puppeteer.json](./101796-forgotten-hill-puppeteer.json) |
 | Forgotten Hill: Surgery | 101764 | [101764-forgotten-hill-surgery.json](./101764-forgotten-hill-surgery.json) |
@@ -12299,6 +12304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundation of Nightmares | 81061 | [81061-foundation-of-nightmares.json](./81061-foundation-of-nightmares.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Foundation's Waste | 15223 | [15223-foundations-waste.json](./15223-foundations-waste.json) |
+| Foundations | 269259 | [269259-foundations.json](./269259-foundations.json) |
 | Foundations | 382131 | [382131-foundations.json](./382131-foundations.json) |
 | Founder of the Final Cult | 309175 | [309175-founder-of-the-final-cult.json](./309175-founder-of-the-final-cult.json) |
 | Founders' Fortune | 120455 | [120455-founders-fortune.json](./120455-founders-fortune.json) |
@@ -14305,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Wars: World War II | 90521 | [90521-front-wars-world-war-ii.json](./90521-front-wars-world-war-ii.json) |
 | Frontactics | 405187 | [405187-frontactics.json](./405187-frontactics.json) |
 | Frontal Attack | 116157 | [116157-frontal-attack.json](./116157-frontal-attack.json) |
+| Frontball Planet | 269258 | [269258-frontball-planet.json](./269258-frontball-planet.json) |
 | Fronte del Basket 2007/2008 | 98952 | [98952-fronte-del-basket-2007-2008.json](./98952-fronte-del-basket-2007-2008.json) |
 | Fronteeland | 366347 | [366347-fronteeland.json](./366347-fronteeland.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
@@ -14597,6 +14604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
 | Fruit Collector | 343501 | [343501-fruit-collector.json](./343501-fruit-collector.json) |
+| Fruit Conflict | 269257 | [269257-fruit-conflict.json](./269257-fruit-conflict.json) |
 | Fruit Couple | 334798 | [334798-fruit-couple.json](./334798-fruit-couple.json) |
 | Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
 | Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
@@ -15479,6 +15487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furitsu Metatopology Daigaku Fuzoku Joshi Koukou | 308286 | [308286-furitsu-metatopology-daigaku-fuzoku-joshi-koukou.json](./308286-furitsu-metatopology-daigaku-fuzoku-joshi-koukou.json) |
 | Furius Legacy | 209763 | [209763-furius-legacy.json](./209763-furius-legacy.json) |
 | FuriusAO | 133635 | [133635-furiusao.json](./133635-furiusao.json) |
+| FuriusAO | 269256 | [269256-furiusao.json](./269256-furiusao.json) |
 | Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
 | Furmins | 20475 | [20475-furmins.json](./20475-furmins.json) |
 | FurnCap | 145985 | [145985-furncap.json](./145985-furncap.json) |
@@ -15896,6 +15905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Bike Simulator | 13061 | [13061-future-bike-simulator.json](./13061-future-bike-simulator.json) |
 | Future Boy | 71842 | [71842-future-boy.json](./71842-future-boy.json) |
 | Future Breach 64 | 244682 | [244682-future-breach-64.json](./244682-future-breach-64.json) |
+| Future Breach: Youngblood | 269255 | [269255-future-breach-youngblood.json](./269255-future-breach-youngblood.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
 | Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
 | Future Card Buddyfight: Yuujou no Bakunetsu Fight! | 222457 | [222457-future-card-buddyfight-yuujou-no-bakunetsu-fight.json](./222457-future-card-buddyfight-yuujou-no-bakunetsu-fight.json) |
