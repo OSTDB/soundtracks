@@ -9634,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Race: Endless Retro Racing | 232243 | [232243-pixel-race-endless-retro-racing.json](./232243-pixel-race-endless-retro-racing.json) |
 | Pixel Rain | 406479 | [406479-pixel-rain.json](./406479-pixel-rain.json) |
 | Pixel Rampage | 358334 | [358334-pixel-rampage.json](./358334-pixel-rampage.json) |
+| Pixel Ranger | 239940 | [239940-pixel-ranger.json](./239940-pixel-ranger.json) |
 | Pixel Restorer | 312026 | [312026-pixel-restorer.json](./312026-pixel-restorer.json) |
 | Pixel Restorer: Image Folder 1 | 353414 | [353414-pixel-restorer-image-folder-1.json](./353414-pixel-restorer-image-folder-1.json) |
 | Pixel Restorer: Image Folder 10 | 353426 | [353426-pixel-restorer-image-folder-10.json](./353426-pixel-restorer-image-folder-10.json) |
@@ -12030,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Girlfriend | 238133 | [238133-pogo-girlfriend.json](./238133-pogo-girlfriend.json) |
 | Pogo Island | 21401 | [21401-pogo-island.json](./21401-pogo-island.json) |
 | Pogo Joe | 23937 | [23937-pogo-joe.json](./23937-pogo-joe.json) |
+| Pogo Joins the Circus | 239839 | [239839-pogo-joins-the-circus.json](./239839-pogo-joins-the-circus.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
 | Pogo Mini-Golf | 354989 | [354989-pogo-mini-golf.json](./354989-pogo-mini-golf.json) |
 | Pogo Panic | 373341 | [373341-pogo-panic.json](./373341-pogo-panic.json) |
@@ -13110,6 +13112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Villain Jam | 354642 | [354642-pokemon-villain-jam.json](./354642-pokemon-villain-jam.json) |
 | Pokémon Vintage White | 213154 | [213154-pokemon-vintage-white.json](./213154-pokemon-vintage-white.json) |
 | Pokémon Violet + The Hidden Treasure of Area Zero | 240084 | [240084-pokemon-violet-the-hidden-treasure-of-area-zero.json](./240084-pokemon-violet-the-hidden-treasure-of-area-zero.json) |
+| Pokémon Violet: The Hidden Treasure of Area Zero | 239934 | [239934-pokemon-violet-the-hidden-treasure-of-area-zero.json](./239934-pokemon-violet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 1: The Teal Mask | 239930 | [239930-pokemon-violet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json](./239930-pokemon-violet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Void | 199996 | [199996-pokemon-void.json](./199996-pokemon-void.json) |
@@ -13370,6 +13373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
 | Polandball Go | 376047 | [376047-polandball-go.json](./376047-polandball-go.json) |
 | Polandball: Can into Space! | 19679 | [19679-polandball-can-into-space.json](./19679-polandball-can-into-space.json) |
+| Polandball: Not Safe for World | 239941 | [239941-polandball-not-safe-for-world.json](./239941-polandball-not-safe-for-world.json) |
 | Polandball: The Black Apocalypse | 374345 | [374345-polandball-the-black-apocalypse.json](./374345-polandball-the-black-apocalypse.json) |
 | Polanie | 50460 | [50460-polanie.json](./50460-polanie.json) |
 | Polar | 171689 | [171689-polar.json](./171689-polar.json) |
@@ -14954,6 +14958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
 | Postbird in Provence | 185225 | [185225-postbird-in-provence.json](./185225-postbird-in-provence.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
+| Postcard Puzzle | 239945 | [239945-postcard-puzzle.json](./239945-postcard-puzzle.json) |
 | Postcard Through Time | 417581 | [417581-postcard-through-time.json](./417581-postcard-through-time.json) |
 | Postcards Collector | 115194 | [115194-postcards-collector.json](./115194-postcards-collector.json) |
 | Postcards from the Apocalypse | 386552 | [386552-postcards-from-the-apocalypse.json](./386552-postcards-from-the-apocalypse.json) |
