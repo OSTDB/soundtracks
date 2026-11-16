@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banebush | 327141 | [327141-banebush.json](./327141-banebush.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang | 285674 | [285674-bang.json](./285674-bang.json) |
+| Bang | 354672 | [354672-bang.json](./354672-bang.json) |
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
 | Bang Attack | 51088 | [51088-bang-attack.json](./51088-bang-attack.json) |
@@ -14636,6 +14637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonzai Bounce | 232341 | [232341-bonzai-bounce.json](./232341-bonzai-bounce.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
 | Bonze Adventure | 38539 | [38539-bonze-adventure.json](./38539-bonze-adventure.json) |
+| Bonzi's Solitaire | 351300 | [351300-bonzis-solitaire.json](./351300-bonzis-solitaire.json) |
 | Bonzo The Brave: Be Brave | 299269 | [299269-bonzo-the-brave-be-brave.json](./299269-bonzo-the-brave-be-brave.json) |
 | Bonzo: Escape from Olympus | 274258 | [274258-bonzo-escape-from-olympus.json](./274258-bonzo-escape-from-olympus.json) |
 | Boo & Friends: Spot the Difference | 59060 | [59060-boo-and-friends-spot-the-difference.json](./59060-boo-and-friends-spot-the-difference.json) |
