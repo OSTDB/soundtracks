@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
 | Jack & The Diamonds | 115457 | [115457-jack-and-the-diamonds.json](./115457-jack-and-the-diamonds.json) |
 | Jack 3 the Future | 281282 | [281282-jack-3-the-future.json](./281282-jack-3-the-future.json) |
+| Jack and Bursh | 287815 | [287815-jack-and-bursh.json](./287815-jack-and-bursh.json) |
 | Jack and Casie | 77469 | [77469-jack-and-casie.json](./77469-jack-and-casie.json) |
 | Jack and Jane Jungle Escape | 147137 | [147137-jack-and-jane-jungle-escape.json](./147137-jack-and-jane-jungle-escape.json) |
 | Jack and Sara: Educational game | 96646 | [96646-jack-and-sara-educational-game.json](./96646-jack-and-sara-educational-game.json) |
