@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T10:26:48.759Z",
-  "total_soundtracks": 3461,
+  "generated_at": "2026-11-16T10:36:13.109Z",
+  "total_soundtracks": 3464,
   "games": [
     {
       "igdb_id": 292844,
@@ -4690,6 +4690,20 @@
           "album_name": "Blasphemous (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1oGyVpRrssPhtz23UDTYYS",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22034,
+      "game_name": "Blasting Agent: Ultimate Edition",
+      "game_url": "https://ostdb.net/games/blasting-agent-ultimate-edition",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736f01a81f0a0936f33facc7d4",
+      "albums": [
+        {
+          "album_name": "Blasting Agent: Ultimate Edition Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3SyY9psXnnOTMsugFqCoyY",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -9985,6 +9999,20 @@
       ]
     },
     {
+      "igdb_id": 22700,
+      "game_name": "Disc Room",
+      "game_url": "https://ostdb.net/games/disc-room",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c0ecb7424b37dbf5edea945d",
+      "albums": [
+        {
+          "album_name": "Disc Room (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2VuR2gfy6eTqbYQSSyrlMY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152125,
       "game_name": "Disciples: Liberation",
       "game_url": "https://ostdb.net/games/disciples-liberation",
@@ -10913,6 +10941,20 @@
         {
           "album_name": "Dressmaker (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6fnw6HIwQtMUSDmRN3ci9B",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 23332,
+      "game_name": "Drift Into Eternity",
+      "game_url": "https://ostdb.net/games/drift-into-eternity",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27396269737bc53b3846d1aea69",
+      "albums": [
+        {
+          "album_name": "Drift into Eternity (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4pJd1xK9V4kRavJQMwO7C9",
           "apple_music_url": "",
           "album_link_url": ""
         }
