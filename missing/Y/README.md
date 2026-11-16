@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have 293 Keys | 230768 | [230768-you-have-293-keys.json](./230768-you-have-293-keys.json) |
 | You Have A Delivery | 328038 | [328038-you-have-a-delivery.json](./328038-you-have-a-delivery.json) |
 | You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
+| You Have Billions Invested in Generative AI | 381478 | [381478-you-have-billions-invested-in-generative-ai.json](./381478-you-have-billions-invested-in-generative-ai.json) |
 | You Have My Support | 321563 | [321563-you-have-my-support.json](./321563-you-have-my-support.json) |
 | You Have No Legs | 242831 | [242831-you-have-no-legs.json](./242831-you-have-no-legs.json) |
 | You Have No Time | 244854 | [244854-you-have-no-time.json](./244854-you-have-no-time.json) |
