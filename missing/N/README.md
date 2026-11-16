@@ -7048,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne FX | 363126 | [363126-nocturne-fx.json](./363126-nocturne-fx.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
+| Nocturne of Nightmares | 299043 | [299043-nocturne-of-nightmares.json](./299043-nocturne-of-nightmares.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
 | Nocturne: Prelude | 129986 | [129986-nocturne-prelude.json](./129986-nocturne-prelude.json) |
 | Nocturne: Rebirth | 122548 | [122548-nocturne-rebirth.json](./122548-nocturne-rebirth.json) |
