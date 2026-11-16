@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
 | Papyrus : La Vengeance d'Aker | 56874 | [56874-papyrus-la-vengeance-daker.json](./56874-papyrus-la-vengeance-daker.json) |
 | Papyrus: Le Secret de la Cité Perdue | 56866 | [56866-papyrus-le-secret-de-la-cite-perdue.json](./56866-papyrus-le-secret-de-la-cite-perdue.json) |
+| Papyrus's Big Christmas Adventure | 233823 | [233823-papyruss-big-christmas-adventure.json](./233823-papyruss-big-christmas-adventure.json) |
 | Paqa | 210777 | [210777-paqa.json](./210777-paqa.json) |
 | Paqman | 308984 | [308984-paqman.json](./308984-paqman.json) |
 | Paquerette Down the Bunburrows | 193565 | [193565-paquerette-down-the-bunburrows.json](./193565-paquerette-down-the-bunburrows.json) |
@@ -11479,6 +11480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber 3D | 55529 | [55529-plumber-3d.json](./55529-plumber-3d.json) |
 | Plumber 994 | 96816 | [96816-plumber-994.json](./96816-plumber-994.json) |
 | Plumber Bundle 3 in 1 | 251122 | [251122-plumber-bundle-3-in-1.json](./251122-plumber-bundle-3-in-1.json) |
+| Plumber Crack | 232078 | [232078-plumber-crack.json](./232078-plumber-crack.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
 | Plumber Hero | 192079 | [192079-plumber-hero.json](./192079-plumber-hero.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
@@ -12847,6 +12849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pearl Randomizer | 329889 | [329889-pokemon-pearl-randomizer.json](./329889-pokemon-pearl-randomizer.json) |
 | Pokémon Pearl Version | 1518 | [1518-pokemon-pearl-version.json](./1518-pokemon-pearl-version.json) |
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
+| Pokémon Perfect Crystal | 233826 | [233826-pokemon-perfect-crystal.json](./233826-pokemon-perfect-crystal.json) |
 | Pokémon Peridot | 383194 | [383194-pokemon-peridot.json](./383194-pokemon-peridot.json) |
 | Pokémon Periwinkle Version: Special Blobbos Edition | 290234 | [290234-pokemon-periwinkle-version-special-blobbos-edition.json](./290234-pokemon-periwinkle-version-special-blobbos-edition.json) |
 | Pokémon Pesadilla | 254529 | [254529-pokemon-pesadilla.json](./254529-pokemon-pesadilla.json) |
