@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Strike | 100457 | [100457-balloon-strike.json](./100457-balloon-strike.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloon Up | 108578 | [108578-balloon-up.json](./108578-balloon-up.json) |
+| Balloon Warfare | 337882 | [337882-balloon-warfare.json](./337882-balloon-warfare.json) |
 | Balloonacy | 13372 | [13372-balloonacy.json](./13372-balloonacy.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
@@ -10185,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
 | Black Helm: Desolated Forest | 422400 | [422400-black-helm-desolated-forest.json](./422400-black-helm-desolated-forest.json) |
 | Black Hole | 245160 | [245160-black-hole.json](./245160-black-hole.json) |
+| Black Hole | 337894 | [337894-black-hole.json](./337894-black-hole.json) |
 | Black Hole | 46790 | [46790-black-hole.json](./46790-black-hole.json) |
 | Black Hole | 84924 | [84924-black-hole.json](./84924-black-hole.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
