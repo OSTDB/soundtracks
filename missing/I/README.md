@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I See Your Pain | 52253 | [52253-i-see-your-pain.json](./52253-i-see-your-pain.json) |
 | I Seek! Where is "Picto"-san? | 280584 | [280584-i-seek-where-is-picto-san.json](./280584-i-seek-where-is-picto-san.json) |
 | I Sell Lemonade | 373996 | [373996-i-sell-lemonade.json](./373996-i-sell-lemonade.json) |
+| I Shall Name the Dead | 408315 | [408315-i-shall-name-the-dead.json](./408315-i-shall-name-the-dead.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Shouldn’t Have Drawn That! | 382713 | [382713-i-shouldn-t-have-drawn-that.json](./382713-i-shouldn-t-have-drawn-that.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
@@ -5173,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Mirror | 132456 | [132456-inside-the-mirror.json](./132456-inside-the-mirror.json) |
 | Inside the Park Baseball | 23800 | [23800-inside-the-park-baseball.json](./23800-inside-the-park-baseball.json) |
 | Inside The Park VR | 393106 | [393106-inside-the-park-vr.json](./393106-inside-the-park-vr.json) |
+| Inside the Shadows | 408319 | [408319-inside-the-shadows.json](./408319-inside-the-shadows.json) |
 | Inside the Toy | 255442 | [255442-inside-the-toy.json](./255442-inside-the-toy.json) |
 | Inside the Void | 167706 | [167706-inside-the-void.json](./167706-inside-the-void.json) |
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
