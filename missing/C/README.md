@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Trail | 113901 | [113901-carrier-trail.json](./113901-carrier-trail.json) |
 | Carrier Wing Ypsilon | 392439 | [392439-carrier-wing-ypsilon.json](./392439-carrier-wing-ypsilon.json) |
 | Carrier: Fortress at Sea | 38824 | [38824-carrier-fortress-at-sea.json](./38824-carrier-fortress-at-sea.json) |
+| Carriers at War | 281002 | [281002-carriers-at-war.json](./281002-carriers-at-war.json) |
 | Carriers at War | 71213 | [71213-carriers-at-war.json](./71213-carriers-at-war.json) |
 | Carriers at War 1941-1945: Fleet Carrier Operations in the Pacific | 25615 | [25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json](./25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json) |
 | Carriers at War II | 94536 | [94536-carriers-at-war-ii.json](./94536-carriers-at-war-ii.json) |
@@ -8429,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChildStory | 152529 | [152529-childstory.json](./152529-childstory.json) |
 | Chili Con Carnage | 23111 | [23111-chili-con-carnage.json](./23111-chili-con-carnage.json) |
 | Chili the Chipmunk Pinball Adventure | 116188 | [116188-chili-the-chipmunk-pinball-adventure.json](./116188-chili-the-chipmunk-pinball-adventure.json) |
+| Chili Time | 281069 | [281069-chili-time.json](./281069-chili-time.json) |
 | Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chilie: The First Encounter | 26275 | [26275-chilie-the-first-encounter.json](./26275-chilie-the-first-encounter.json) |
@@ -17442,6 +17444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmophony | 35252 | [35252-cosmophony.json](./35252-cosmophony.json) |
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
 | CosmoPlayerZ | 219481 | [219481-cosmoplayerz.json](./219481-cosmoplayerz.json) |
+| Cosmopolis | 280982 | [280982-cosmopolis.json](./280982-cosmopolis.json) |
 | Cosmopolitan | 269749 | [269749-cosmopolitan.json](./269749-cosmopolitan.json) |
 | Cosmopoly | 207653 | [207653-cosmopoly.json](./207653-cosmopoly.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
@@ -17659,6 +17662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Force | 4773 | [4773-counter-force.json](./4773-counter-force.json) |
 | Counter Force: Tactical Warfare | 300735 | [300735-counter-force-tactical-warfare.json](./300735-counter-force-tactical-warfare.json) |
 | Counter Knights | 175873 | [175873-counter-knights.json](./175873-counter-knights.json) |
+| Counter Mark 2 Saga: Seven Sacred Heroes | 282181 | [282181-counter-mark-2-saga-seven-sacred-heroes.json](./282181-counter-mark-2-saga-seven-sacred-heroes.json) |
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Protocol: Origins | 420682 | [420682-counter-protocol-origins.json](./420682-counter-protocol-origins.json) |
@@ -20796,6 +20800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crude Survivor TD | 370890 | [370890-crude-survivor-td.json](./370890-crude-survivor-td.json) |
 | Crudelis | 33952 | [33952-crudelis.json](./33952-crudelis.json) |
 | Crüe Ball | 46282 | [46282-crue-ball.json](./46282-crue-ball.json) |
+| Cruel | 280998 | [280998-cruel.json](./280998-cruel.json) |
 | Cruel | 282123 | [282123-cruel.json](./282123-cruel.json) |
 | Cruel Arena | 34967 | [34967-cruel-arena.json](./34967-cruel-arena.json) |
 | Cruel Bands Career | 121990 | [121990-cruel-bands-career.json](./121990-cruel-bands-career.json) |
