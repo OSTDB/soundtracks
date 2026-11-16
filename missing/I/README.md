@@ -5856,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dark | 6613 | [6613-into-the-dark.json](./6613-into-the-dark.json) |
 | Into the Dark: Narakan | 198009 | [198009-into-the-dark-narakan.json](./198009-into-the-dark-narakan.json) |
 | Into the Dark: Ultimate Trash Edition | 69429 | [69429-into-the-dark-ultimate-trash-edition.json](./69429-into-the-dark-ultimate-trash-edition.json) |
+| Into the Darkness | 419145 | [419145-into-the-darkness.json](./419145-into-the-darkness.json) |
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
 | Into the Dataswarm | 363144 | [363144-into-the-dataswarm.json](./363144-into-the-dataswarm.json) |
 | Into the Dead | 20911 | [20911-into-the-dead.json](./20911-into-the-dead.json) |
@@ -5959,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intonight | 302978 | [302978-intonight.json](./302978-intonight.json) |
 | Intown Nightmares | 290581 | [290581-intown-nightmares.json](./290581-intown-nightmares.json) |
 | Intoxicated Driver | 286136 | [286136-intoxicated-driver.json](./286136-intoxicated-driver.json) |
+| Intoxico | 419175 | [419175-intoxico.json](./419175-intoxico.json) |
 | Intra | 332673 | [332673-intra.json](./332673-intra.json) |
 | Intra Corpus | 158876 | [158876-intra-corpus.json](./158876-intra-corpus.json) |
 | Intra-System: Trust Issues | 194282 | [194282-intra-system-trust-issues.json](./194282-intra-system-trust-issues.json) |
