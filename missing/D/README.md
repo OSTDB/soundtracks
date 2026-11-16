@@ -5979,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
 | Deep Dungeon III: Yuushi he no Tabi | 48514 | [48514-deep-dungeon-iii-yuushi-he-no-tabi.json](./48514-deep-dungeon-iii-yuushi-he-no-tabi.json) |
 | Deep Dungeon IV: Kuro no Youjutsushi | 48513 | [48513-deep-dungeon-iv-kuro-no-youjutsushi.json](./48513-deep-dungeon-iv-kuro-no-youjutsushi.json) |
+| Deep Dungeon Knight | 337892 | [337892-deep-dungeon-knight.json](./337892-deep-dungeon-knight.json) |
 | Deep Dungeon: Gym | 117558 | [117558-deep-dungeon-gym.json](./117558-deep-dungeon-gym.json) |
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
 | Deep Dweller | 176739 | [176739-deep-dweller.json](./176739-deep-dweller.json) |
@@ -19867,6 +19868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
 | Duck Maze | 48132 | [48132-duck-maze.json](./48132-duck-maze.json) |
 | Duck Mission | 204837 | [204837-duck-mission.json](./204837-duck-mission.json) |
+| Duck N Roll | 337889 | [337889-duck-n-roll.json](./337889-duck-n-roll.json) |
 | Duck n' Dodge | 68359 | [68359-duck-n-dodge.json](./68359-duck-n-dodge.json) |
 | Duck Norris Tales | 372044 | [372044-duck-norris-tales.json](./372044-duck-norris-tales.json) |
 | Duck Nukem: Four Feathers | 230210 | [230210-duck-nukem-four-feathers.json](./230210-duck-nukem-four-feathers.json) |
