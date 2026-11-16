@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolutely Unstoppable MineRun | 84861 | [84861-absolutely-unstoppable-minerun.json](./84861-absolutely-unstoppable-minerun.json) |
 | Absolutely: A True Crime Story | 117996 | [117996-absolutely-a-true-crime-story.json](./117996-absolutely-a-true-crime-story.json) |
+| Absolution | 334380 | [334380-absolution.json](./334380-absolution.json) |
 | Absolution | 412708 | [412708-absolution.json](./412708-absolution.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
 | Absolution's Apple | 228164 | [228164-absolutions-apple.json](./228164-absolutions-apple.json) |
@@ -6360,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
 | Air Force Gear | 125271 | [125271-air-force-gear.json](./125271-air-force-gear.json) |
 | Air Force Missions | 320380 | [320380-air-force-missions.json](./320380-air-force-missions.json) |
+| Air Force One Pinball | 334393 | [334393-air-force-one-pinball.json](./334393-air-force-one-pinball.json) |
 | Air Force Special Ops: Nightfall | 315907 | [315907-air-force-special-ops-nightfall.json](./315907-air-force-special-ops-nightfall.json) |
 | Air Forte | 16183 | [16183-air-forte.json](./16183-air-forte.json) |
 | Air Fortress | 8791 | [8791-air-fortress.json](./8791-air-fortress.json) |
@@ -19548,6 +19550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
 | Attack Hole: Hero Edition | 349593 | [349593-attack-hole-hero-edition.json](./349593-attack-hole-hero-edition.json) |
+| Attack Hole: Heroes DLC | 335561 | [335561-attack-hole-heroes-dlc.json](./335561-attack-hole-heroes-dlc.json) |
 | Attack Hole: Monster Edition | 343515 | [343515-attack-hole-monster-edition.json](./343515-attack-hole-monster-edition.json) |
 | Attack Hole: Monsters DLC | 335562 | [335562-attack-hole-monsters-dlc.json](./335562-attack-hole-monsters-dlc.json) |
 | Attack of Insects | 56655 | [56655-attack-of-insects.json](./56655-attack-of-insects.json) |
