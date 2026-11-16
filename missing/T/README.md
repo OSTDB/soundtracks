@@ -6525,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angel Factory | 409860 | [409860-the-angel-factory.json](./409860-the-angel-factory.json) |
 | The Angel Inn | 124362 | [124362-the-angel-inn.json](./124362-the-angel-inn.json) |
 | The Angel's Devil Tail: One More Question 2 | 379016 | [379016-the-angels-devil-tail-one-more-question-2.json](./379016-the-angels-devil-tail-one-more-question-2.json) |
+| The Angel's Mandate | 399228 | [399228-the-angels-mandate.json](./399228-the-angels-mandate.json) |
 | The Angel's Tears | 383663 | [383663-the-angels-tears.json](./383663-the-angels-tears.json) |
 | The Anglerfish Project | 260079 | [260079-the-anglerfish-project.json](./260079-the-anglerfish-project.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
@@ -10386,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
 | The Fancy Pants Adventures: World 1 Remix | 140859 | [140859-the-fancy-pants-adventures-world-1-remix.json](./140859-the-fancy-pants-adventures-world-1-remix.json) |
 | The Fancy Pants Adventures: World 2 | 66009 | [66009-the-fancy-pants-adventures-world-2.json](./66009-the-fancy-pants-adventures-world-2.json) |
+| The Fancy Pants Adventures: World 2 Remaster | 398669 | [398669-the-fancy-pants-adventures-world-2-remaster.json](./398669-the-fancy-pants-adventures-world-2-remaster.json) |
 | The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
 | The Fang | 156068 | [156068-the-fang.json](./156068-the-fang.json) |
 | The Fangs Huntress | 148462 | [148462-the-fangs-huntress.json](./148462-the-fangs-huntress.json) |
@@ -16461,6 +16463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
 | The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
 | The Outpost Nine: Episode 1 | 109084 | [109084-the-outpost-nine-episode-1.json](./109084-the-outpost-nine-episode-1.json) |
+| The Outpost: Outer Frontier | 399239 | [399239-the-outpost-outer-frontier.json](./399239-the-outpost-outer-frontier.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
 | The Outsider | 180560 | [180560-the-outsider.json](./180560-the-outsider.json) |
 | The Outsider | 370069 | [370069-the-outsider.json](./370069-the-outsider.json) |
@@ -21214,6 +21217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Well | 169799 | [169799-the-well.json](./169799-the-well.json) |
 | The Well | 379828 | [379828-the-well.json](./379828-the-well.json) |
 | The Well | 72520 | [72520-the-well.json](./72520-the-well.json) |
+| The Well Is Not Empty | 398618 | [398618-the-well-is-not-empty.json](./398618-the-well-is-not-empty.json) |
 | The Well of Essenwood | 290903 | [290903-the-well-of-essenwood.json](./290903-the-well-of-essenwood.json) |
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
@@ -23068,6 +23072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
 | Throrbs | 420208 | [420208-throrbs.json](./420208-throrbs.json) |
 | Throttle Powah VR | 36976 | [36976-throttle-powah-vr.json](./36976-throttle-powah-vr.json) |
+| Throttle Trace | 399244 | [399244-throttle-trace.json](./399244-throttle-trace.json) |
 | Through | 338969 | [338969-through.json](./338969-through.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned 2: The Forest | 31779 | [31779-through-abandoned-2-the-forest.json](./31779-through-abandoned-2-the-forest.json) |
@@ -29574,6 +29579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totoge | 262732 | [262732-totoge.json](./262732-totoge.json) |
 | Totomi Trainer | 338955 | [338955-totomi-trainer.json](./338955-totomi-trainer.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
+| Totopia | 399234 | [399234-totopia.json](./399234-totopia.json) |
 | Tots Town - House | 97151 | [97151-tots-town-house.json](./97151-tots-town-house.json) |
 | Totsugeki 64 | 203396 | [203396-totsugeki-64.json](./203396-totsugeki-64.json) |
 | Totsugeki Kikan (Karakuri) Megadasu!! | 92213 | [92213-totsugeki-kikan-karakuri-megadasu.json](./92213-totsugeki-kikan-karakuri-megadasu.json) |
