@@ -6186,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh's Ascent | 73633 | [73633-pharaohs-ascent.json](./73633-pharaohs-ascent.json) |
 | Pharaoh's Challenge | 146572 | [146572-pharaohs-challenge.json](./146572-pharaohs-challenge.json) |
 | Pharaoh's Curse | 40659 | [40659-pharaohs-curse.json](./40659-pharaohs-curse.json) |
+| Pharaoh's Leap | 365331 | [365331-pharaohs-leap.json](./365331-pharaohs-leap.json) |
 | Pharaoh's Mystery | 25390 | [25390-pharaohs-mystery.json](./25390-pharaohs-mystery.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Pyramid | 296547 | [296547-pharaohs-pyramid.json](./296547-pharaohs-pyramid.json) |
@@ -10904,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlatinumS | 285802 | [285802-platinums.json](./285802-platinums.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
+| Plato Shoot | 367332 | [367332-plato-shoot.json](./367332-plato-shoot.json) |
 | Plato's Universe | 184231 | [184231-platos-universe.json](./184231-platos-universe.json) |
 | Platonic | 192728 | [192728-platonic.json](./192728-platonic.json) |
 | Platonic Archetypes of Dice | 260906 | [260906-platonic-archetypes-of-dice.json](./260906-platonic-archetypes-of-dice.json) |
@@ -15978,6 +15980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Neko | 159243 | [159243-pretty-neko.json](./159243-pretty-neko.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
 | Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
+| Pretty Peculiar Lovers | 366746 | [366746-pretty-peculiar-lovers.json](./366746-pretty-peculiar-lovers.json) |
 | Pretty Pet Salon | 267626 | [267626-pretty-pet-salon.json](./267626-pretty-pet-salon.json) |
 | Pretty Please | 177384 | [177384-pretty-please.json](./177384-pretty-please.json) |
 | Pretty Princess Party | 135339 | [135339-pretty-princess-party.json](./135339-pretty-princess-party.json) |
