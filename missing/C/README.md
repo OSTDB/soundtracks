@@ -11077,6 +11077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Swords and Beams | 338530 | [338530-clash-of-swords-and-beams.json](./338530-clash-of-swords-and-beams.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Elements | 275390 | [275390-clash-of-the-elements.json](./275390-clash-of-the-elements.json) |
+| Clash of the Kings | 384438 | [384438-clash-of-the-kings.json](./384438-clash-of-the-kings.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Clash of the Monsters | 33804 | [33804-clash-of-the-monsters.json](./33804-clash-of-the-monsters.json) |
 | Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
@@ -11584,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
 | Click for Humanity | 348004 | [348004-click-for-humanity.json](./348004-click-for-humanity.json) |
 | Click For Points | 223315 | [223315-click-for-points.json](./223315-click-for-points.json) |
+| Click Frenzy | 384434 | [384434-click-frenzy.json](./384434-click-frenzy.json) |
 | Click Here | 264761 | [264761-click-here.json](./264761-click-here.json) |
 | Click Legends | 118597 | [118597-click-legends.json](./118597-click-legends.json) |
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
@@ -13418,6 +13420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Bowl | 249183 | [249183-college-bowl.json](./249183-college-bowl.json) |
 | College Brawl 2 | 233505 | [233505-college-brawl-2.json](./233505-college-brawl-2.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
+| College Dept: The Game | 384429 | [384429-college-dept-the-game.json](./384429-college-dept-the-game.json) |
 | College Diaries | 301626 | [301626-college-diaries.json](./301626-college-diaries.json) |
 | College Escape | 338465 | [338465-college-escape.json](./338465-college-escape.json) |
 | College Football Revamped | 150058 | [150058-college-football-revamped.json](./150058-college-football-revamped.json) |
@@ -15630,6 +15633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: The Legend of Kage | 409281 | [409281-console-archives-the-legend-of-kage.json](./409281-console-archives-the-legend-of-kage.json) |
 | Console Archives: Toujin Makyou-den - Heracles no Eikou | 402567 | [402567-console-archives-toujin-makyou-den-heracles-no-eikou.json](./402567-console-archives-toujin-makyou-den-heracles-no-eikou.json) |
 | Console Archives: Touki Denshou Angel Eyes | 415385 | [415385-console-archives-touki-denshou-angel-eyes.json](./415385-console-archives-touki-denshou-angel-eyes.json) |
+| Console Archives: UFO - A Day in the Life | 388476 | [388476-console-archives-ufo-a-day-in-the-life.json](./388476-console-archives-ufo-a-day-in-the-life.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console Colour: Minnie Mouse | 406817 | [406817-console-colour-minnie-mouse.json](./406817-console-colour-minnie-mouse.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
@@ -16833,6 +16837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Box Racers | 176586 | [176586-corpse-box-racers.json](./176586-corpse-box-racers.json) |
 | Corpse Burger | 420595 | [420595-corpse-burger.json](./420595-corpse-burger.json) |
 | Corpse Carnival | 321302 | [321302-corpse-carnival.json](./321302-corpse-carnival.json) |
+| Corpse Carnival | 381484 | [381484-corpse-carnival.json](./381484-corpse-carnival.json) |
 | Corpse Castle | 138671 | [138671-corpse-castle.json](./138671-corpse-castle.json) |
 | Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
