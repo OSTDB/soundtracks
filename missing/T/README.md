@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T10X Car Simulator | 256718 | [256718-t10x-car-simulator.json](./256718-t10x-car-simulator.json) |
 | T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
 | T2: The Arcade Game | 12861 | [12861-t2-the-arcade-game.json](./12861-t2-the-arcade-game.json) |
+| T2: The Arcade Game | 228788 | [228788-t2-the-arcade-game.json](./228788-t2-the-arcade-game.json) |
 | T2: The Arcade Game | 242314 | [242314-t2-the-arcade-game.json](./242314-t2-the-arcade-game.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | T2SD | 131461 | [131461-t2sd.json](./131461-t2sd.json) |
@@ -6700,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
 | The Ascent: Cyber Edition | 193530 | [193530-the-ascent-cyber-edition.json](./193530-the-ascent-cyber-edition.json) |
 | The Ascent: Cyber Heist | 213148 | [213148-the-ascent-cyber-heist.json](./213148-the-ascent-cyber-heist.json) |
+| The Ascent: Cyber Warrior Pack | 226904 | [226904-the-ascent-cyber-warrior-pack.json](./226904-the-ascent-cyber-warrior-pack.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
 | The Ascent: Ultimate Edition | 417184 | [417184-the-ascent-ultimate-edition.json](./417184-the-ascent-ultimate-edition.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
@@ -8181,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Cleaning Game | 327333 | [327333-the-cleaning-game.json](./327333-the-cleaning-game.json) |
 | The Cleansing | 68583 | [68583-the-cleansing.json](./68583-the-cleansing.json) |
+| The Cleft of Dimensions | 228803 | [228803-the-cleft-of-dimensions.json](./228803-the-cleft-of-dimensions.json) |
 | The Cliffhanger: Edward Randy | 39927 | [39927-the-cliffhanger-edward-randy.json](./39927-the-cliffhanger-edward-randy.json) |
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climb | 394960 | [394960-the-climb.json](./394960-the-climb.json) |
@@ -13152,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight of Queen | 145738 | [145738-the-knight-of-queen.json](./145738-the-knight-of-queen.json) |
 | The Knight of the Castles | 184453 | [184453-the-knight-of-the-castles.json](./184453-the-knight-of-the-castles.json) |
 | The Knight of the Crimson Tower | 228895 | [228895-the-knight-of-the-crimson-tower.json](./228895-the-knight-of-the-crimson-tower.json) |
+| The Knight of the Crimson Tower: The Hunter's Moon | 226902 | [226902-the-knight-of-the-crimson-tower-the-hunters-moon.json](./226902-the-knight-of-the-crimson-tower-the-hunters-moon.json) |
 | The Knight of Thistledown | 318461 | [318461-the-knight-of-thistledown.json](./318461-the-knight-of-thistledown.json) |
 | The Knight of Turn | 192667 | [192667-the-knight-of-turn.json](./192667-the-knight-of-turn.json) |
 | The Knight Witch: Deluxe Edition | 228195 | [228195-the-knight-witch-deluxe-edition.json](./228195-the-knight-witch-deluxe-edition.json) |
@@ -17744,6 +17748,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish 2 | 39434 | [39434-the-rumble-fish-2.json](./39434-the-rumble-fish-2.json) |
 | The Rumble Fish 2 + Greed | 225504 | [225504-the-rumble-fish-2-greed.json](./225504-the-rumble-fish-2-greed.json) |
 | The Rumble Fish 2: Additional Character - Beatrice | 226309 | [226309-the-rumble-fish-2-additional-character-beatrice.json](./226309-the-rumble-fish-2-additional-character-beatrice.json) |
+| The Rumble Fish 2: Additional Character - Greed | 226901 | [226901-the-rumble-fish-2-additional-character-greed.json](./226901-the-rumble-fish-2-additional-character-greed.json) |
+| The Rumble Fish 2: Additional Character - Hazama | 226900 | [226900-the-rumble-fish-2-additional-character-hazama.json](./226900-the-rumble-fish-2-additional-character-hazama.json) |
 | The Rumble Fish 2: Collector's Edition | 222947 | [222947-the-rumble-fish-2-collectors-edition.json](./222947-the-rumble-fish-2-collectors-edition.json) |
 | The Rumble Fish 2: Deluxe Edition | 251601 | [251601-the-rumble-fish-2-deluxe-edition.json](./251601-the-rumble-fish-2-deluxe-edition.json) |
 | The Rumble Fish 2: Greed | 225511 | [225511-the-rumble-fish-2-greed.json](./225511-the-rumble-fish-2-greed.json) |
@@ -18563,6 +18569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Growing Together | 234545 | [234545-the-sims-4-growing-together.json](./234545-the-sims-4-growing-together.json) |
 | The Sims 4: Grunge Revival Kit | 252609 | [252609-the-sims-4-grunge-revival-kit.json](./252609-the-sims-4-grunge-revival-kit.json) |
 | The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
+| The Sims 4: Holiday Celebration Pack | 226898 | [226898-the-sims-4-holiday-celebration-pack.json](./226898-the-sims-4-holiday-celebration-pack.json) |
 | The Sims 4: Home Chef Hustle Stuff Pack | 269160 | [269160-the-sims-4-home-chef-hustle-stuff-pack.json](./269160-the-sims-4-home-chef-hustle-stuff-pack.json) |
 | The Sims 4: Horse Ranch | 253116 | [253116-the-sims-4-horse-ranch.json](./253116-the-sims-4-horse-ranch.json) |
 | The Sims 4: Incheon Arrivals Kit | 178212 | [178212-the-sims-4-incheon-arrivals-kit.json](./178212-the-sims-4-incheon-arrivals-kit.json) |
@@ -25634,6 +25641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Knight Adventures | 164322 | [164322-time-knight-adventures.json](./164322-time-knight-adventures.json) |
 | Time Knight vs. Zombies | 253828 | [253828-time-knight-vs-zombies.json](./253828-time-knight-vs-zombies.json) |
 | Time Leap | 68395 | [68395-time-leap.json](./68395-time-leap.json) |
+| Time Leap Paradise Super Live: Encore Pack | 226899 | [226899-time-leap-paradise-super-live-encore-pack.json](./226899-time-leap-paradise-super-live-encore-pack.json) |
 | Time Leap Paradise Super Live! | 31077 | [31077-time-leap-paradise-super-live.json](./31077-time-leap-paradise-super-live.json) |
 | Time Limit | 40478 | [40478-time-limit.json](./40478-time-limit.json) |
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
@@ -26955,6 +26963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To The Death | 286025 | [286025-to-the-death.json](./286025-to-the-death.json) |
 | To the Dragon Cave | 201937 | [201937-to-the-dragon-cave.json](./201937-to-the-dragon-cave.json) |
 | To the Dungeon! | 255075 | [255075-to-the-dungeon.json](./255075-to-the-dungeon.json) |
+| To the Earth | 226897 | [226897-to-the-earth.json](./226897-to-the-earth.json) |
 | To the Earth | 48117 | [48117-to-the-earth.json](./48117-to-the-earth.json) |
 | To the Eden | 362398 | [362398-to-the-eden.json](./362398-to-the-eden.json) |
 | To the Edge of the Sky | 102534 | [102534-to-the-edge-of-the-sky.json](./102534-to-the-edge-of-the-sky.json) |
@@ -27336,6 +27345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Boom | 373805 | [373805-toilet-boom.json](./373805-toilet-boom.json) |
 | Toilet Bullies | 418718 | [418718-toilet-bullies.json](./418718-toilet-bullies.json) |
 | Toilet Chronicles | 199576 | [199576-toilet-chronicles.json](./199576-toilet-chronicles.json) |
+| Toilet Chronicles: Staff Only | 228801 | [228801-toilet-chronicles-staff-only.json](./228801-toilet-chronicles-staff-only.json) |
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
@@ -29433,6 +29443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Solitaire | 78757 | [78757-touch-solitaire.json](./78757-touch-solitaire.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
 | Touch Sudoku | 259416 | [259416-touch-sudoku.json](./259416-touch-sudoku.json) |
+| Touch the Balls VR | 226896 | [226896-touch-the-balls-vr.json](./226896-touch-the-balls-vr.json) |
 | Touch The Bubbles 4 | 320631 | [320631-touch-the-bubbles-4.json](./320631-touch-the-bubbles-4.json) |
 | Touch the Color | 230887 | [230887-touch-the-color.json](./230887-touch-the-color.json) |
 | Touch the Dead | 20702 | [20702-touch-the-dead.json](./20702-touch-the-dead.json) |
@@ -32280,6 +32291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley 2: Workshop Gems - Amethyst | 401595 | [401595-train-valley-2-workshop-gems-amethyst.json](./401595-train-valley-2-workshop-gems-amethyst.json) |
 | Train Valley 2: Workshop Gems - Emerald | 227119 | [227119-train-valley-2-workshop-gems-emerald.json](./227119-train-valley-2-workshop-gems-emerald.json) |
 | Train Valley 2: Workshop Gems - Ruby | 219540 | [219540-train-valley-2-workshop-gems-ruby.json](./219540-train-valley-2-workshop-gems-ruby.json) |
+| Train Valley 2: Workshop Gems - Sapphire | 226526 | [226526-train-valley-2-workshop-gems-sapphire.json](./226526-train-valley-2-workshop-gems-sapphire.json) |
 | Train Valley Collection | 270317 | [270317-train-valley-collection.json](./270317-train-valley-collection.json) |
 | Train Valley Collection: Deluxe Edition | 270318 | [270318-train-valley-collection-deluxe-edition.json](./270318-train-valley-collection-deluxe-edition.json) |
 | Train Valley Origins | 331197 | [331197-train-valley-origins.json](./331197-train-valley-origins.json) |
@@ -36655,6 +36667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | TurretMaster | 75954 | [75954-turretmaster.json](./75954-turretmaster.json) |
 | Turretz | 96809 | [96809-turretz.json](./96809-turretz.json) |
+| Turrican | 228789 | [228789-turrican.json](./228789-turrican.json) |
 | Turrican | 5164 | [5164-turrican.json](./5164-turrican.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
 | Turrican Anthology Vol. 1 | 137324 | [137324-turrican-anthology-vol-1.json](./137324-turrican-anthology-vol-1.json) |
