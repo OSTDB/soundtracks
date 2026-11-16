@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am a Rock | 389236 | [389236-i-am-a-rock.json](./389236-i-am-a-rock.json) |
 | I am a Senior Official | 368696 | [368696-i-am-a-senior-official.json](./368696-i-am-a-senior-official.json) |
 | I am a Serial Killer | 257819 | [257819-i-am-a-serial-killer.json](./257819-i-am-a-serial-killer.json) |
+| I Am A Stick | 357483 | [357483-i-am-a-stick.json](./357483-i-am-a-stick.json) |
 | I Am a Teacher: Super Mario Sweater | 41246 | [41246-i-am-a-teacher-super-mario-sweater.json](./41246-i-am-a-teacher-super-mario-sweater.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
 | I Am a Tree. You Are Not. Ha Ha. | 176408 | [176408-i-am-a-tree-you-are-not-ha-ha.json](./176408-i-am-a-tree-you-are-not-ha-ha.json) |
@@ -927,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Russia | 155772 | [155772-im-russia.json](./155772-im-russia.json) |
 | I'm Scared of Girls | 139697 | [139697-im-scared-of-girls.json](./139697-im-scared-of-girls.json) |
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
+| I'm Sleep! | 360786 | [360786-im-sleep.json](./360786-im-sleep.json) |
 | I'm Sorry | 40053 | [40053-im-sorry.json](./40053-im-sorry.json) |
 | I'm Still Here | 114862 | [114862-im-still-here.json](./114862-im-still-here.json) |
 | I'm Still Here | 367039 | [367039-im-still-here.json](./367039-im-still-here.json) |
@@ -3778,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Heroes Collection 4 | 332139 | [332139-indie-heroes-collection-4.json](./332139-indie-heroes-collection-4.json) |
 | Indie Hoverboard Racing | 400577 | [400577-indie-hoverboard-racing.json](./400577-indie-hoverboard-racing.json) |
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
+| Indie Kumas | 351312 | [351312-indie-kumas.json](./351312-indie-kumas.json) |
 | Indie Nights | 274481 | [274481-indie-nights.json](./274481-indie-nights.json) |
 | Indie Nights: Nightmare in Yellow Pine | 277289 | [277289-indie-nights-nightmare-in-yellow-pine.json](./277289-indie-nights-nightmare-in-yellow-pine.json) |
 | Indie Platformer Bundle: Run & Jump Guy + Pancho's Mission | 331531 | [331531-indie-platformer-bundle-run-and-jump-guy-panchos-mission.json](./331531-indie-platformer-bundle-run-and-jump-guy-panchos-mission.json) |
@@ -4267,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Brick Breaker | 152989 | [152989-infinite-brick-breaker.json](./152989-infinite-brick-breaker.json) |
 | Infinite Canyon | 232604 | [232604-infinite-canyon.json](./232604-infinite-canyon.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
+| Infinite Cards | 358540 | [358540-infinite-cards.json](./358540-infinite-cards.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Children | 114864 | [114864-infinite-children.json](./114864-infinite-children.json) |
 | Infinite Chili Sauce | 115551 | [115551-infinite-chili-sauce.json](./115551-infinite-chili-sauce.json) |
