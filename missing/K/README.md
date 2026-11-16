@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamigami: Clash of the Gods | 190378 | [190378-kamigami-clash-of-the-gods.json](./190378-kamigami-clash-of-the-gods.json) |
 | Kamigami: Spirits of the Nature | 258004 | [258004-kamigami-spirits-of-the-nature.json](./258004-kamigami-spirits-of-the-nature.json) |
 | Kamigawa: A Visual Novel | 191327 | [191327-kamigawa-a-visual-novel.json](./191327-kamigawa-a-visual-novel.json) |
+| Kamigoroshi | 312477 | [312477-kamigoroshi.json](./312477-kamigoroshi.json) |
 | Kamihi yori: Tokiori-hen | 288827 | [288827-kamihi-yori-tokiori-hen.json](./288827-kamihi-yori-tokiori-hen.json) |
 | Kamihime Project R | 98529 | [98529-kamihime-project-r.json](./98529-kamihime-project-r.json) |
 | Kamiji | 264056 | [264056-kamiji.json](./264056-kamiji.json) |
@@ -3154,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiln: Stickers of the Gods Sticker Pack | 407413 | [407413-kiln-stickers-of-the-gods-sticker-pack.json](./407413-kiln-stickers-of-the-gods-sticker-pack.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
 | Kiloblocks | 289409 | [289409-kiloblocks.json](./289409-kiloblocks.json) |
+| Kilonova | 310776 | [310776-kilonova.json](./310776-kilonova.json) |
 | Kiloparsec Uprising | 275095 | [275095-kiloparsec-uprising.json](./275095-kiloparsec-uprising.json) |
 | Kiloton | 330911 | [330911-kiloton.json](./330911-kiloton.json) |
 | Kilroy Was Here | 188459 | [188459-kilroy-was-here.json](./188459-kilroy-was-here.json) |
