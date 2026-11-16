@@ -4814,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark's Power | 283070 | [283070-marks-power.json](./283070-marks-power.json) |
 | Marked | 420378 | [420378-marked.json](./420378-marked.json) |
 | Marked by King Bs | 202706 | [202706-marked-by-king-bs.json](./202706-marked-by-king-bs.json) |
+| Marked for Mayhem | 419040 | [419040-marked-for-mayhem.json](./419040-marked-for-mayhem.json) |
 | Marked: The Quest for Tripura | 294355 | [294355-marked-the-quest-for-tripura.json](./294355-marked-the-quest-for-tripura.json) |
 | Marker Man Adventures | 47843 | [47843-marker-man-adventures.json](./47843-marker-man-adventures.json) |
 | Markerboard Jungle: Frogs | 159747 | [159747-markerboard-jungle-frogs.json](./159747-markerboard-jungle-frogs.json) |
@@ -6250,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mate in Eleven | 364104 | [364104-mate-in-eleven.json](./364104-mate-in-eleven.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Mate'Morphosis | 373343 | [373343-matemorphosis.json](./373343-matemorphosis.json) |
+| Mateki Densetsu Astralius | 419018 | [419018-mateki-densetsu-astralius.json](./419018-mateki-densetsu-astralius.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Matelotes | 415182 | [415182-matelotes.json](./415182-matelotes.json) |
 | Matemágica | 250528 | [250528-matemagica.json](./250528-matemagica.json) |
@@ -13156,6 +13158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
 | Mikuri Sacrament | 314810 | [314810-mikuri-sacrament.json](./314810-mikuri-sacrament.json) |
 | Mil Rosas | 154849 | [154849-mil-rosas.json](./154849-mil-rosas.json) |
+| Mil3ab | 419034 | [419034-mil3ab.json](./419034-mil3ab.json) |
 | Mila & Zug | 390496 | [390496-mila-and-zug.json](./390496-mila-and-zug.json) |
 | Milandra | 42306 | [42306-milandra.json](./42306-milandra.json) |
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
@@ -15170,6 +15173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai no Uta to, Tsunagaru Hitomi | 228352 | [228352-mirai-no-uta-to-tsunagaru-hitomi.json](./228352-mirai-no-uta-to-tsunagaru-hitomi.json) |
 | Mirai Senshi: Lios | 48426 | [48426-mirai-senshi-lios.json](./48426-mirai-senshi-lios.json) |
 | Mirai Shinwa Jarvas | 48425 | [48425-mirai-shinwa-jarvas.json](./48425-mirai-shinwa-jarvas.json) |
+| Mirai Shounen Conan | 419022 | [419022-mirai-shounen-conan.json](./419022-mirai-shounen-conan.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
 | Mirai Shounen Conan Digital Library | 268513 | [268513-mirai-shounen-conan-digital-library.json](./268513-mirai-shounen-conan-digital-library.json) |
 | Mirai: Future | 161708 | [161708-mirai-future.json](./161708-mirai-future.json) |
@@ -23020,6 +23024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First PC Game | 388442 | [388442-my-first-pc-game.json](./388442-my-first-pc-game.json) |
 | My First Quantum Translocator | 320248 | [320248-my-first-quantum-translocator.json](./320248-my-first-quantum-translocator.json) |
 | My First Rayman | 193374 | [193374-my-first-rayman.json](./193374-my-first-rayman.json) |
+| My First Reading & Spelling Words | 419004 | [419004-my-first-reading-and-spelling-words.json](./419004-my-first-reading-and-spelling-words.json) |
 | My First Songs | 84631 | [84631-my-first-songs.json](./84631-my-first-songs.json) |
 | My First Songs | 84715 | [84715-my-first-songs.json](./84715-my-first-songs.json) |
 | My First Songs 2 | 84630 | [84630-my-first-songs-2.json](./84630-my-first-songs-2.json) |
