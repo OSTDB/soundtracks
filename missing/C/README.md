@@ -5220,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
 | Catnip Cosmos | 403294 | [403294-catnip-cosmos.json](./403294-catnip-cosmos.json) |
 | Catnip Dreams | 284795 | [284795-catnip-dreams.json](./284795-catnip-dreams.json) |
+| Catnip Wars | 415589 | [415589-catnip-wars.json](./415589-catnip-wars.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato the Cat | 174940 | [174940-cato-the-cat.json](./174940-cato-the-cat.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
@@ -22308,6 +22309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curre | 83985 | [83985-curre.json](./83985-curre.json) |
 | Current | 115881 | [115881-current.json](./115881-current.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
+| Current Draw | 415599 | [415599-current-draw.json](./415599-current-draw.json) |
 | Current: The Flow | 374713 | [374713-current-the-flow.json](./374713-current-the-flow.json) |
 | Currently Unstable | 260206 | [260206-currently-unstable.json](./260206-currently-unstable.json) |
 | Currents | 305316 | [305316-currents.json](./305316-currents.json) |
