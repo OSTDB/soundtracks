@@ -5540,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seekers of Sahul | 236356 | [236356-seekers-of-sahul.json](./236356-seekers-of-sahul.json) |
 | Seekers of Skyveil | 291335 | [291335-seekers-of-skyveil.json](./291335-seekers-of-skyveil.json) |
+| Seekers of the Ancient | 395321 | [395321-seekers-of-the-ancient.json](./395321-seekers-of-the-ancient.json) |
 | Seekers: Enlightenment | 311921 | [311921-seekers-enlightenment.json](./311921-seekers-enlightenment.json) |
 | Seeking Adventure | 331970 | [331970-seeking-adventure.json](./331970-seeking-adventure.json) |
 | Seeking Asylum: Revelations | 216205 | [216205-seeking-asylum-revelations.json](./216205-seeking-asylum-revelations.json) |
@@ -5817,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seigi no Mikata Giga Trust | 331192 | [331192-seigi-no-mikata-giga-trust.json](./331192-seigi-no-mikata-giga-trust.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
+| Seijaku no Kaze | 396735 | [396735-seijaku-no-kaze.json](./396735-seijaku-no-kaze.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
 | Seijuu Maden Beasts & Blades | 38247 | [38247-seijuu-maden-beasts-and-blades.json](./38247-seijuu-maden-beasts-and-blades.json) |
 | Seika no Mori | 77703 | [77703-seika-no-mori.json](./77703-seika-no-mori.json) |
@@ -9271,6 +9273,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
 | Shiju Hachi: Kari | 112532 | [112532-shiju-hachi-kari.json](./112532-shiju-hachi-kari.json) |
 | Shika-Q | 374504 | [374504-shika-q.json](./374504-shika-q.json) |
+| Shika-Q: Battle Pass Set | 396145 | [396145-shika-q-battle-pass-set.json](./396145-shika-q-battle-pass-set.json) |
+| Shika-Q: Deluxe Edition | 396141 | [396141-shika-q-deluxe-edition.json](./396141-shika-q-deluxe-edition.json) |
+| Shika-Q: Nexus Battle Pass | 396146 | [396146-shika-q-nexus-battle-pass.json](./396146-shika-q-nexus-battle-pass.json) |
+| Shika-Q: Nexus Edition | 396142 | [396142-shika-q-nexus-edition.json](./396142-shika-q-nexus-edition.json) |
+| Shika-Q: Premium Battle Pass | 396147 | [396147-shika-q-premium-battle-pass.json](./396147-shika-q-premium-battle-pass.json) |
+| Shika-Q: Premium Edition | 396143 | [396143-shika-q-premium-edition.json](./396143-shika-q-premium-edition.json) |
 | Shikaku by Nikoli | 406982 | [406982-shikaku-by-nikoli.json](./406982-shikaku-by-nikoli.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
 | Shikaku Shapes | 147662 | [147662-shikaku-shapes.json](./147662-shikaku-shapes.json) |
@@ -13970,6 +13978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish Squad | 280377 | [280377-skirmish-squad.json](./280377-skirmish-squad.json) |
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
 | Skitchin' | 27075 | [27075-skitchin.json](./27075-skitchin.json) |
+| Skits Cooks | 396175 | [396175-skits-cooks.json](./396175-skits-cooks.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skittles | 148170 | [148170-skittles.json](./148170-skittles.json) |
 | Skizz | 301857 | [301857-skizz.json](./301857-skizz.json) |
@@ -16646,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMYS: Retro Blocks | 311090 | [311090-smys-retro-blocks.json](./311090-smys-retro-blocks.json) |
 | SMYS: Retro Blocks | 311091 | [311091-smys-retro-blocks.json](./311091-smys-retro-blocks.json) |
 | SMYS: Show Me Your Stairs | 199437 | [199437-smys-show-me-your-stairs.json](./199437-smys-show-me-your-stairs.json) |
+| Snaaaake! | 396817 | [396817-snaaaake.json](./396817-snaaaake.json) |
 | Snaaker & Friends | 169393 | [169393-snaaker-and-friends.json](./169393-snaaker-and-friends.json) |
 | Snacats | 177239 | [177239-snacats.json](./177239-snacats.json) |
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
@@ -17387,6 +17397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snot and Fluff | 110002 | [110002-snot-and-fluff.json](./110002-snot-and-fluff.json) |
 | Snot Pop! | 412499 | [412499-snot-pop.json](./412499-snot-pop.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
+| Snotrocket | 396157 | [396157-snotrocket.json](./396157-snotrocket.json) |
 | Snotty's Sewer | 253845 | [253845-snottys-sewer.json](./253845-snottys-sewer.json) |
 | SnOut | 148275 | [148275-snout.json](./148275-snout.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
@@ -33400,6 +33411,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugardew Island: Christmas Bundle | 385187 | [385187-sugardew-island-christmas-bundle.json](./385187-sugardew-island-christmas-bundle.json) |
 | Sugardew Island: Christmas Costume | 385178 | [385178-sugardew-island-christmas-costume.json](./385178-sugardew-island-christmas-costume.json) |
 | Sugardew Island: Complete Bundle | 401587 | [401587-sugardew-island-complete-bundle.json](./401587-sugardew-island-complete-bundle.json) |
+| Sugardew Island: Easter Bundle | 396149 | [396149-sugardew-island-easter-bundle.json](./396149-sugardew-island-easter-bundle.json) |
+| Sugardew Island: Easter Costume | 396148 | [396148-sugardew-island-easter-costume.json](./396148-sugardew-island-easter-costume.json) |
 | Sugardew Island: Halloween Bundle | 373981 | [373981-sugardew-island-halloween-bundle.json](./373981-sugardew-island-halloween-bundle.json) |
 | Sugardew Island: Halloween Costume | 373992 | [373992-sugardew-island-halloween-costume.json](./373992-sugardew-island-halloween-costume.json) |
 | Sugardew Island: Vintage Farmer Bundle | 390923 | [390923-sugardew-island-vintage-farmer-bundle.json](./390923-sugardew-island-vintage-farmer-bundle.json) |
@@ -34529,6 +34542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Blob Blaster | 287604 | [287604-super-blob-blaster.json](./287604-super-blob-blaster.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
 | Super Block | 71182 | [71182-super-block.json](./71182-super-block.json) |
+| Super Block Blitz | 396753 | [396753-super-block-blitz.json](./396753-super-block-blitz.json) |
 | Super Block Boy and Friends | 333165 | [333165-super-block-boy-and-friends.json](./333165-super-block-boy-and-friends.json) |
 | Super Block Crush | 236340 | [236340-super-block-crush.json](./236340-super-block-crush.json) |
 | Super Block Jump | 306497 | [306497-super-block-jump.json](./306497-super-block-jump.json) |
@@ -39288,6 +39302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan Song | 318921 | [318921-swan-song.json](./318921-swan-song.json) |
 | Swan Song | 46977 | [46977-swan-song.json](./46977-swan-song.json) |
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
+| Swanfield Survival | 395322 | [395322-swanfield-survival.json](./395322-swanfield-survival.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
 | Swann's Song | 345889 | [345889-swanns-song.json](./345889-swanns-song.json) |
 | Swans At The Welkin | 390718 | [390718-swans-at-the-welkin.json](./390718-swans-at-the-welkin.json) |
