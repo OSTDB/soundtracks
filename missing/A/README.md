@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Road Home | 29890 | [29890-a-long-road-home.json](./29890-a-long-road-home.json) |
 | A Long Stroll | 126775 | [126775-a-long-stroll.json](./126775-a-long-stroll.json) |
+| A Long Survive | 279913 | [279913-a-long-survive.json](./279913-a-long-survive.json) |
 | A long Time | 158358 | [158358-a-long-time.json](./158358-a-long-time.json) |
 | A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
 | A Long Time Ago | 214238 | [214238-a-long-time-ago.json](./214238-a-long-time-ago.json) |
@@ -3380,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Globe | 214243 | [214243-across-the-globe.json](./214243-across-the-globe.json) |
 | Across the Line | 32345 | [32345-across-the-line.json](./32345-across-the-line.json) |
 | Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
+| Across the Obelisk: Amelia, the Queen | 279975 | [279975-across-the-obelisk-amelia-the-queen.json](./279975-across-the-obelisk-amelia-the-queen.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
 | Across the Obelisk: Nenukil, the Engineer | 301192 | [301192-across-the-obelisk-nenukil-the-engineer.json](./301192-across-the-obelisk-nenukil-the-engineer.json) |
@@ -8380,6 +8382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: The Computer Game | 36810 | [36810-aliens-the-computer-game.json](./36810-aliens-the-computer-game.json) |
 | Aliens: The Roguelike | 73710 | [73710-aliens-the-roguelike.json](./73710-aliens-the-roguelike.json) |
 | Aliens: The Roguelike | 73712 | [73712-aliens-the-roguelike.json](./73712-aliens-the-roguelike.json) |
+| Aliens'n Tanks | 279823 | [279823-aliensn-tanks.json](./279823-aliensn-tanks.json) |
 | Aliens&Asteroids | 52767 | [52767-aliens-and-asteroids.json](./52767-aliens-and-asteroids.json) |
 | Alienstein | 217081 | [217081-alienstein.json](./217081-alienstein.json) |
 | AlienSunny | 393539 | [393539-aliensunny.json](./393539-aliensunny.json) |
@@ -8880,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almazuela Picross | 403877 | [403877-almazuela-picross.json](./403877-almazuela-picross.json) |
 | Almazy | 170077 | [170077-almazy.json](./170077-almazy.json) |
 | Almazz | 13799 | [13799-almazz.json](./13799-almazz.json) |
+| Almeria's Conection | 279822 | [279822-almerias-conection.json](./279822-almerias-conection.json) |
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
 | Almighty: Kill Your Gods | 134781 | [134781-almighty-kill-your-gods.json](./134781-almighty-kill-your-gods.json) |
 | Almirante Graf Spee | 39098 | [39098-almirante-graf-spee.json](./39098-almirante-graf-spee.json) |
@@ -13491,6 +13495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Hunters | 104991 | [104991-apocalypse-hunters.json](./104991-apocalypse-hunters.json) |
 | Apocalypse II | 42434 | [42434-apocalypse-ii.json](./42434-apocalypse-ii.json) |
+| Apocalypse Inc | 279845 | [279845-apocalypse-inc.json](./279845-apocalypse-inc.json) |
 | Apocalypse Intern | 420223 | [420223-apocalypse-intern.json](./420223-apocalypse-intern.json) |
 | Apocalypse Island | 157392 | [157392-apocalypse-island.json](./157392-apocalypse-island.json) |
 | Apocalypse Island | 337958 | [337958-apocalypse-island.json](./337958-apocalypse-island.json) |
