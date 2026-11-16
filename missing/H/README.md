@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halftime Adventures | 373218 | [373218-halftime-adventures.json](./373218-halftime-adventures.json) |
 | Halftime Builders | 247416 | [247416-halftime-builders.json](./247416-halftime-builders.json) |
 | Halftime Heroes | 193400 | [193400-halftime-heroes.json](./193400-halftime-heroes.json) |
+| Halftime Manager | 415571 | [415571-halftime-manager.json](./415571-halftime-manager.json) |
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Deadline | 412738 | [412738-harvest-deadline.json](./412738-harvest-deadline.json) |
 | Harvest Dice Profit | 413995 | [413995-harvest-dice-profit.json](./413995-harvest-dice-profit.json) |
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
+| Harvest Exit Plan | 415563 | [415563-harvest-exit-plan.json](./415563-harvest-exit-plan.json) |
 | Harvest Green | 138429 | [138429-harvest-green.json](./138429-harvest-green.json) |
 | Harvest Green | 158759 | [158759-harvest-green.json](./158759-harvest-green.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
