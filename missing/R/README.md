@@ -4289,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull Doodle Art: Global VR Gallery | 91294 | [91294-red-bull-doodle-art-global-vr-gallery.json](./91294-red-bull-doodle-art-global-vr-gallery.json) |
 | Red Bull Flugtag Flight Lab | 337431 | [337431-red-bull-flugtag-flight-lab.json](./337431-red-bull-flugtag-flight-lab.json) |
 | Red Bull Free Skiing | 86820 | [86820-red-bull-free-skiing.json](./86820-red-bull-free-skiing.json) |
+| Red Bull GeoGamers | 408345 | [408345-red-bull-geogamers.json](./408345-red-bull-geogamers.json) |
 | Red Bull MotoCross 2D | 198136 | [198136-red-bull-motocross-2d.json](./198136-red-bull-motocross-2d.json) |
 | Red Bull Pac-Man | 219441 | [219441-red-bull-pac-man.json](./219441-red-bull-pac-man.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
@@ -4900,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reefland | 190351 | [190351-reefland.json](./190351-reefland.json) |
 | Reefland Odyssey | 244192 | [244192-reefland-odyssey.json](./244192-reefland-odyssey.json) |
 | Reefling | 414170 | [414170-reefling.json](./414170-reefling.json) |
+| Reefsong | 408333 | [408333-reefsong.json](./408333-reefsong.json) |
 | Reek | 128094 | [128094-reek.json](./128094-reek.json) |
 | Reek N' Havok | 167254 | [167254-reek-n-havok.json](./167254-reek-n-havok.json) |
 | Reel | 205100 | [205100-reel.json](./205100-reel.json) |
@@ -12562,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Rose Riddle: The Fairytale Detective - Collector's Edition | 177086 | [177086-rose-riddle-the-fairytale-detective-collectors-edition.json](./177086-rose-riddle-the-fairytale-detective-collectors-edition.json) |
 | Rose Seed Replica | 167381 | [167381-rose-seed-replica.json](./167381-rose-seed-replica.json) |
+| Rose:Ruin | 408320 | [408320-rose-ruin.json](./408320-rose-ruin.json) |
 | Rosebaker's Icy Treats | 55495 | [55495-rosebakers-icy-treats.json](./55495-rosebakers-icy-treats.json) |
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
 | Rosebound | 412697 | [412697-rosebound.json](./412697-rosebound.json) |
