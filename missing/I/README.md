@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
 | I Commissioned Some Snails 3 | 334356 | [334356-i-commissioned-some-snails-3.json](./334356-i-commissioned-some-snails-3.json) |
 | I Commissioned Some Snails 4 | 360653 | [360653-i-commissioned-some-snails-4.json](./360653-i-commissioned-some-snails-4.json) |
+| I commissioned some stickmen | 287915 | [287915-i-commissioned-some-stickmen.json](./287915-i-commissioned-some-stickmen.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Contemplated the Sun of Limbo | 143549 | [143549-i-contemplated-the-sun-of-limbo.json](./143549-i-contemplated-the-sun-of-limbo.json) |
 | I Crave The Wind's Bite | 324057 | [324057-i-crave-the-winds-bite.json](./324057-i-crave-the-winds-bite.json) |
@@ -4360,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Mirror | 231159 | [231159-infinite-mirror.json](./231159-infinite-mirror.json) |
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
 | Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
+| Infinite Monkeys | 285169 | [285169-infinite-monkeys.json](./285169-infinite-monkeys.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
 | Infinite Museum | 405804 | [405804-infinite-museum.json](./405804-infinite-museum.json) |
 | Infinite Onslaught | 332295 | [332295-infinite-onslaught.json](./332295-infinite-onslaught.json) |
@@ -7131,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Realms | 54118 | [54118-island-realms.json](./54118-island-realms.json) |
 | Island Rescue | 335548 | [335548-island-rescue.json](./335548-island-rescue.json) |
 | Island Restoration | 392569 | [392569-island-restoration.json](./392569-island-restoration.json) |
+| Island Rise | 287816 | [287816-island-rise.json](./287816-island-rise.json) |
 | Island Robot Farm | 344883 | [344883-island-robot-farm.json](./344883-island-robot-farm.json) |
 | Island Rush | 274053 | [274053-island-rush.json](./274053-island-rush.json) |
 | Island Saga | 123933 | [123933-island-saga.json](./123933-island-saga.json) |
