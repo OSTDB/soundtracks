@@ -18699,6 +18699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Eater | 59659 | [59659-moon-eater.json](./59659-moon-eater.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
+| Moon Fete | 406965 | [406965-moon-fete.json](./406965-moon-fete.json) |
 | Moon Finder | 315434 | [315434-moon-finder.json](./315434-moon-finder.json) |
 | Moon Flight | 84340 | [84340-moon-flight.json](./84340-moon-flight.json) |
 | Moon Games: Lunar Slalom | 100757 | [100757-moon-games-lunar-slalom.json](./100757-moon-games-lunar-slalom.json) |
