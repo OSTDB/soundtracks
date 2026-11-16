@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T11:21:32.468Z",
-  "total_soundtracks": 3482,
+  "generated_at": "2026-11-16T11:26:21.282Z",
+  "total_soundtracks": 3486,
   "games": [
     {
       "igdb_id": 292844,
@@ -1169,6 +1169,20 @@
         {
           "album_name": "AI LIMIT (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1Y8M4SdL9IMyLlPdqosb5D",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11340,
+      "game_name": "AIPD",
+      "game_url": "https://ostdb.net/games/aipd",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c11d6a0768931f6f90651ee",
+      "albums": [
+        {
+          "album_name": "AIPD (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1JDEP0vcZRmh2cm3r58XXS",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13941,6 +13955,20 @@
       ]
     },
     {
+      "igdb_id": 10327,
+      "game_name": "Fly'n",
+      "game_url": "https://ostdb.net/games/flyn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27334e691f86973d9f569c50a4b",
+      "albums": [
+        {
+          "album_name": "FLY'n (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Opd0Pa7Xar8V2vjhN7sgD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 310121,
       "game_name": "FlyKnight",
       "game_url": "https://ostdb.net/games/flyknight",
@@ -19661,6 +19689,20 @@
       ]
     },
     {
+      "igdb_id": 11546,
+      "game_name": "Killer Instinct: Season 3",
+      "game_url": "https://ostdb.net/games/killer-instinct-season-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e037267de79fae9288a3f3d9",
+      "albums": [
+        {
+          "album_name": "Killer Instinct Season 3: Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3Fw5BGA4GBLtxFWU8BJnCG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6748,
       "game_name": "Killing Floor 2",
       "game_url": "https://ostdb.net/games/killing-floor-2",
@@ -23651,6 +23693,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/minekos-night-market-original-game-soundtrack/1736348740?uo=4",
           "album_link_url": "https://album.link/i/1736348740"
+        }
+      ]
+    },
+    {
+      "igdb_id": 10550,
+      "game_name": "Miner Wars 2081",
+      "game_url": "https://ostdb.net/games/miner-wars-2081",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d47c5dec51fed0665927fc27",
+      "albums": [
+        {
+          "album_name": "Miner Wars 2081 (Official Soundtrack, Vol. 1.0)",
+          "spotify_url": "https://open.spotify.com/album/3yG9RxQamVCEeF3cwK1HOb",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
