@@ -5529,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Knights of Cross and Rose | 341814 | [341814-age-of-empires-iv-knights-of-cross-and-rose.json](./341814-age-of-empires-iv-knights-of-cross-and-rose.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
+| Age of Empires IV: The Sultans Ascend | 262704 | [262704-age-of-empires-iv-the-sultans-ascend.json](./262704-age-of-empires-iv-the-sultans-ascend.json) |
 | Age of Empires IV: Yue Fei's Legacy | 400928 | [400928-age-of-empires-iv-yue-feis-legacy.json](./400928-age-of-empires-iv-yue-feis-legacy.json) |
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
 | Age of Empires Mobile: PC Edition | 408535 | [408535-age-of-empires-mobile-pc-edition.json](./408535-age-of-empires-mobile-pc-edition.json) |
