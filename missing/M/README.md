@@ -7076,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
 | Maze IV | 259217 | [259217-maze-iv.json](./259217-maze-iv.json) |
 | Maze Keeper | 310345 | [310345-maze-keeper.json](./310345-maze-keeper.json) |
+| Maze Knight | 269179 | [269179-maze-knight.json](./269179-maze-knight.json) |
 | Maze Land | 92143 | [92143-maze-land.json](./92143-maze-land.json) |
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
 | Maze Lovers Memorial | 367469 | [367469-maze-lovers-memorial.json](./367469-maze-lovers-memorial.json) |
@@ -23396,6 +23397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: Pack 7 Present Mic | 193195 | [193195-my-hero-ones-justice-2-pack-7-present-mic.json](./193195-my-hero-ones-justice-2-pack-7-present-mic.json) |
 | My Hero One's Justice 2: Pack 8 Kurogiri | 193194 | [193194-my-hero-ones-justice-2-pack-8-kurogiri.json](./193194-my-hero-ones-justice-2-pack-8-kurogiri.json) |
 | My Hero One's Justice 2: Plus Ultra Edition | 136147 | [136147-my-hero-ones-justice-2-plus-ultra-edition.json](./136147-my-hero-ones-justice-2-plus-ultra-edition.json) |
+| My Hero One's Justice 2: Ultimate Edition | 269169 | [269169-my-hero-ones-justice-2-ultimate-edition.json](./269169-my-hero-ones-justice-2-ultimate-edition.json) |
 | My Hero One's Justice 2: Villainous Wear Set | 225464 | [225464-my-hero-ones-justice-2-villainous-wear-set.json](./225464-my-hero-ones-justice-2-villainous-wear-set.json) |
 | My Hero One's Justice 2: Weekend Clothes 1-A Lively Set | 228025 | [228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json](./228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json) |
 | My Hero One's Justice 2: Weekend Clothes 1-A Serious Set | 225377 | [225377-my-hero-ones-justice-2-weekend-clothes-1-a-serious-set.json](./225377-my-hero-ones-justice-2-weekend-clothes-1-a-serious-set.json) |
