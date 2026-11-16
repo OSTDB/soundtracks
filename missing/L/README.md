@@ -8269,6 +8269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look over the Edge | 198017 | [198017-look-over-the-edge.json](./198017-look-over-the-edge.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
 | Look Twice | 417974 | [417974-look-twice.json](./417974-look-twice.json) |
+| Look Up | 419725 | [419725-look-up.json](./419725-look-up.json) |
 | Look Up and Go | 404493 | [404493-look-up-and-go.json](./404493-look-up-and-go.json) |
 | Look_in_Dark | 304061 | [304061-look-in-dark.json](./304061-look-in-dark.json) |
 | Look, Your Loot! | 153624 | [153624-look-your-loot.json](./153624-look-your-loot.json) |
@@ -8474,6 +8475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose Nozzles | 219915 | [219915-loose-nozzles.json](./219915-loose-nozzles.json) |
 | Loose or Escape | 279017 | [279017-loose-or-escape.json](./279017-loose-or-escape.json) |
+| Loose Screws | 419821 | [419821-loose-screws.json](./419821-loose-screws.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loosepo | 184538 | [184538-loosepo.json](./184538-loosepo.json) |
 | Loot & Ledger | 373055 | [373055-loot-and-ledger.json](./373055-loot-and-ledger.json) |
