@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Factory Roguelike | 379570 | [379570-a-factory-roguelike.json](./379570-a-factory-roguelike.json) |
 | A Fading Melody | 68650 | [68650-a-fading-melody.json](./68650-a-fading-melody.json) |
 | A Faerie's Tale | 299783 | [299783-a-faeries-tale.json](./299783-a-faeries-tale.json) |
+| A Failure to Launch | 403139 | [403139-a-failure-to-launch.json](./403139-a-failure-to-launch.json) |
 | A Fairy Tale | 300035 | [300035-a-fairy-tale.json](./300035-a-fairy-tale.json) |
 | A Fairy Tale | 84729 | [84729-a-fairy-tale.json](./84729-a-fairy-tale.json) |
 | A Fairy Tale of Lotus | 142977 | [142977-a-fairy-tale-of-lotus.json](./142977-a-fairy-tale-of-lotus.json) |
@@ -10491,6 +10492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | an Orc's Tale: Kriegsruf | 94050 | [94050-an-orcs-tale-kriegsruf.json](./94050-an-orcs-tale-kriegsruf.json) |
 | An Ordinary Sonic Fangame | 329320 | [329320-an-ordinary-sonic-fangame.json](./329320-an-ordinary-sonic-fangame.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
+| An Ordinary Top-Down Shooter | 403856 | [403856-an-ordinary-top-down-shooter.json](./403856-an-ordinary-top-down-shooter.json) |
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
 | An Other Golf Game | 308117 | [308117-an-other-golf-game.json](./308117-an-other-golf-game.json) |
 | An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
@@ -12160,6 +12162,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna vs. the A.I. Maze | 199755 | [199755-anna-vs-the-a-i-maze.json](./199755-anna-vs-the-a-i-maze.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
 | Anna: Extended Edition | 9977 | [9977-anna-extended-edition.json](./9977-anna-extended-edition.json) |
+| Anna: Hard Exam | 403167 | [403167-anna-hard-exam.json](./403167-anna-hard-exam.json) |
+| Anna: Hard Exam 3 | 403175 | [403175-anna-hard-exam-3.json](./403175-anna-hard-exam-3.json) |
 | Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Bakery Shop | 422138 | [422138-annas-bakery-shop.json](./422138-annas-bakery-shop.json) |
