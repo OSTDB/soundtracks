@@ -2723,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | University Love Affair | 235883 | [235883-university-love-affair.json](./235883-university-love-affair.json) |
 | University of Problems | 356442 | [356442-university-of-problems.json](./356442-university-of-problems.json) |
+| University of the Dead | 299057 | [299057-university-of-the-dead.json](./299057-university-of-the-dead.json) |
 | University Speedrun Simulator | 352505 | [352505-university-speedrun-simulator.json](./352505-university-speedrun-simulator.json) |
 | University Stories | 207657 | [207657-university-stories.json](./207657-university-stories.json) |
 | University Tycoon | 230630 | [230630-university-tycoon.json](./230630-university-tycoon.json) |
@@ -2956,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno Online | 242116 | [242116-uno-online.json](./242116-uno-online.json) |
 | Uno Rush | 22534 | [22534-uno-rush.json](./22534-uno-rush.json) |
 | UNO Undercover | 206269 | [206269-uno-undercover.json](./206269-uno-undercover.json) |
+| Uno Wonder | 320503 | [320503-uno-wonder.json](./320503-uno-wonder.json) |
 | Uno x Anime | 387575 | [387575-uno-x-anime.json](./387575-uno-x-anime.json) |
 | Uno: 50th Anniversary | 151937 | [151937-uno-50th-anniversary.json](./151937-uno-50th-anniversary.json) |
 | Uno: Arcade Edition | 346722 | [346722-uno-arcade-edition.json](./346722-uno-arcade-edition.json) |
