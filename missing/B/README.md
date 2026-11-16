@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardia | 324049 | [324049-bardia.json](./324049-bardia.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
+| Bards College Expansion | 315161 | [315161-bards-college-expansion.json](./315161-bards-college-expansion.json) |
 | Bardy's Maze: The World's First Zard-PG | 232804 | [232804-bardys-maze-the-worlds-first-zard-pg.json](./232804-bardys-maze-the-worlds-first-zard-pg.json) |
 | Bardysh: Kromeford no Juunin | 167075 | [167075-bardysh-kromeford-no-juunin.json](./167075-bardysh-kromeford-no-juunin.json) |
 | Bare Bones | 371787 | [371787-bare-bones.json](./371787-bare-bones.json) |
