@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haex | 404685 | [404685-haex.json](./404685-haex.json) |
 | Hafermann | 177297 | [177297-hafermann.json](./177297-hafermann.json) |
 | Haffy DX | 336168 | [336168-haffy-dx.json](./336168-haffy-dx.json) |
+| HAFO: Horse Around, Find Out | 408330 | [408330-hafo-horse-around-find-out.json](./408330-hafo-horse-around-find-out.json) |
 | Haftsin Maker | 182092 | [182092-haftsin-maker.json](./182092-haftsin-maker.json) |
 | Hag | 245946 | [245946-hag.json](./245946-hag.json) |
 | Hag's Castle | 105115 | [105115-hags-castle.json](./105115-hags-castle.json) |
@@ -3231,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting Record: Sins of Lust | 320818 | [320818-haunting-record-sins-of-lust.json](./320818-haunting-record-sins-of-lust.json) |
 | Haunting Starring Polterguy | 8100 | [8100-haunting-starring-polterguy.json](./8100-haunting-starring-polterguy.json) |
 | Haunting: The Rosefield Manor | 318994 | [318994-haunting-the-rosefield-manor.json](./318994-haunting-the-rosefield-manor.json) |
+| Hauntmates | 408332 | [408332-hauntmates.json](./408332-hauntmates.json) |
 | Hauntred Factory Skibidi Poppy Freedy | 267310 | [267310-hauntred-factory-skibidi-poppy-freedy.json](./267310-hauntred-factory-skibidi-poppy-freedy.json) |
 | Hauntrick | 334176 | [334176-hauntrick.json](./334176-hauntrick.json) |
 | Hauntsfield | 253112 | [253112-hauntsfield.json](./253112-hauntsfield.json) |
@@ -6404,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Nightmares: Redacted | 212265 | [212265-her-nightmares-redacted.json](./212265-her-nightmares-redacted.json) |
 | Her Pantyhose | 369300 | [369300-her-pantyhose.json](./369300-her-pantyhose.json) |
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
+| Her Red Cosmos | 407606 | [407606-her-red-cosmos.json](./407606-her-red-cosmos.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
 | Her Sign | 183390 | [183390-her-sign.json](./183390-her-sign.json) |
 | Her Tears Were My Light | 109163 | [109163-her-tears-were-my-light.json](./109163-her-tears-were-my-light.json) |
