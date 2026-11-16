@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch Party | 55619 | [55619-launch-party.json](./55619-launch-party.json) |
 | Launch Squad | 31405 | [31405-launch-squad.json](./31405-launch-squad.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
+| Launch Them All | 413354 | [413354-launch-them-all.json](./413354-launch-them-all.json) |
 | Launch Window | 412486 | [412486-launch-window.json](./412486-launch-window.json) |
 | Launched! | 132408 | [132408-launched.json](./132408-launched.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Petit Raccoon | 388944 | [388944-le-petit-raccoon.json](./388944-le-petit-raccoon.json) |
 | Le Plan Spectral | 346368 | [346368-le-plan-spectral.json](./346368-le-plan-spectral.json) |
 | Le Pompier | 346064 | [346064-le-pompier.json](./346064-le-pompier.json) |
+| Le Repaire | 413326 | [413326-le-repaire.json](./413326-le-repaire.json) |
 | Le Réprobateur | 28016 | [28016-le-reprobateur.json](./28016-le-reprobateur.json) |
 | Le Sanglot des Cigales R: Tomes 5 et 6 | 276055 | [276055-le-sanglot-des-cigales-r-tomes-5-et-6.json](./276055-le-sanglot-des-cigales-r-tomes-5-et-6.json) |
 | Le Sanglot des Cigales: Tomes 1 et 2 | 276054 | [276054-le-sanglot-des-cigales-tomes-1-et-2.json](./276054-le-sanglot-des-cigales-tomes-1-et-2.json) |
@@ -4408,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Tap: Tap Runner | 56899 | [56899-lets-tap-tap-runner.json](./56899-lets-tap-tap-runner.json) |
 | Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
 | Let's Tidy Up!: Konbini | 412002 | [412002-lets-tidy-up-konbini.json](./412002-lets-tidy-up-konbini.json) |
+| Let's Tidy Up!: Treasure | 413295 | [413295-lets-tidy-up-treasure.json](./413295-lets-tidy-up-treasure.json) |
 | Let's Watch Steamboat Willie | 319001 | [319001-lets-watch-steamboat-willie.json](./319001-lets-watch-steamboat-willie.json) |
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
 | Let's zig zag | 81655 | [81655-lets-zig-zag.json](./81655-lets-zig-zag.json) |
