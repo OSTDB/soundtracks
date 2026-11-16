@@ -6262,7 +6262,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion: Upheaval | 60271 | [60271-aion-upheaval.json](./60271-aion-upheaval.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | Aious: World's End | 177333 | [177333-aious-worlds-end.json](./177333-aious-worlds-end.json) |
-| AIPD | 11340 | [11340-aipd.json](./11340-aipd.json) |
 | Aiphobia | 379520 | [379520-aiphobia.json](./379520-aiphobia.json) |
 | Aipom's Great Pirate Adventure | 414465 | [414465-aipoms-great-pirate-adventure.json](./414465-aipoms-great-pirate-adventure.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
