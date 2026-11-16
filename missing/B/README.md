@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back in Time | 367896 | [367896-back-in-time.json](./367896-back-in-time.json) |
 | Back in Time | 57995 | [57995-back-in-time.json](./57995-back-in-time.json) |
 | Back in Time Part II: Back to the Nineties | 57996 | [57996-back-in-time-part-ii-back-to-the-nineties.json](./57996-back-in-time-part-ii-back-to-the-nineties.json) |
+| Back into the Coffin | 272992 | [272992-back-into-the-coffin.json](./272992-back-into-the-coffin.json) |
 | Back Light | 319864 | [319864-back-light.json](./319864-back-light.json) |
 | Back of Beyond | 367921 | [367921-back-of-beyond.json](./367921-back-of-beyond.json) |
 | Back of Space | 171436 | [171436-back-of-space.json](./171436-back-of-space.json) |
@@ -2706,7 +2707,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Pet Rescue | 200589 | [200589-barbie-pet-rescue.json](./200589-barbie-pet-rescue.json) |
 | Barbie Photo Designer | 200606 | [200606-barbie-photo-designer.json](./200606-barbie-photo-designer.json) |
 | Barbie Project Friendship | 312287 | [312287-barbie-project-friendship.json](./312287-barbie-project-friendship.json) |
-| Barbie Rewind | 405096 | [405096-barbie-rewind.json](./405096-barbie-rewind.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie Super Model GG2SMS | 369482 | [369482-barbie-super-model-gg2sms.json](./369482-barbie-super-model-gg2sms.json) |
@@ -4538,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Realms | 606 | [606-battle-realms.json](./606-battle-realms.json) |
 | Battle Realms + Winter of the Wolf | 126115 | [126115-battle-realms-winter-of-the-wolf.json](./126115-battle-realms-winter-of-the-wolf.json) |
 | Battle Realms: Zen Edition | 137532 | [137532-battle-realms-zen-edition.json](./137532-battle-realms-zen-edition.json) |
+| Battle Record: Graizor | 272991 | [272991-battle-record-graizor.json](./272991-battle-record-graizor.json) |
 | Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
 | Battle Recruits | 252564 | [252564-battle-recruits.json](./252564-battle-recruits.json) |
 | Battle Riders | 28281 | [28281-battle-riders.json](./28281-battle-riders.json) |
@@ -12425,7 +12426,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Drive | 380025 | [380025-blood-drive.json](./380025-blood-drive.json) |
 | Blood Drive | 6922 | [6922-blood-drive.json](./6922-blood-drive.json) |
 | Blood Drop | 151911 | [151911-blood-drop.json](./151911-blood-drop.json) |
-| Blood Dungeon | 404724 | [404724-blood-dungeon.json](./404724-blood-dungeon.json) |
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
 | Blood Exile | 226106 | [226106-blood-exile.json](./226106-blood-exile.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
@@ -16457,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Complete Edition | 246877 | [246877-brain-memory-complete-edition.json](./246877-brain-memory-complete-edition.json) |
 | Brain Memory: Director's Cut | 261365 | [261365-brain-memory-directors-cut.json](./261365-brain-memory-directors-cut.json) |
 | Brain Memory: Game of the Year Edition | 266167 | [266167-brain-memory-game-of-the-year-edition.json](./266167-brain-memory-game-of-the-year-edition.json) |
+| Brain Memory: Happy Edition | 272416 | [272416-brain-memory-happy-edition.json](./272416-brain-memory-happy-edition.json) |
 | Brain Memory: Legendary Edition | 249562 | [249562-brain-memory-legendary-edition.json](./249562-brain-memory-legendary-edition.json) |
 | Brain Memory: Magnificent Edition | 279194 | [279194-brain-memory-magnificent-edition.json](./279194-brain-memory-magnificent-edition.json) |
 | Brain Memory: Platinum Edition | 256763 | [256763-brain-memory-platinum-edition.json](./256763-brain-memory-platinum-edition.json) |
