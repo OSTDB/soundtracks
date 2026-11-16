@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat's Lair | 356766 | [356766-rats-lair.json](./356766-rats-lair.json) |
 | Ratano | 269853 | [269853-ratano.json](./269853-ratano.json) |
 | Ratatan | 259339 | [259339-ratatan.json](./259339-ratatan.json) |
+| Ratatan: Digital Deluxe Edition | 418336 | [418336-ratatan-digital-deluxe-edition.json](./418336-ratatan-digital-deluxe-edition.json) |
 | Ratatata | 367546 | [367546-ratatata.json](./367546-ratatata.json) |
 | Ratatouille | 210731 | [210731-ratatouille.json](./210731-ratatouille.json) |
 | Ratatouille | 230446 | [230446-ratatouille.json](./230446-ratatouille.json) |
@@ -4169,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursion | 296738 | [296738-recursion.json](./296738-recursion.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
 | Recursion Deluxe | 33924 | [33924-recursion-deluxe.json](./33924-recursion-deluxe.json) |
+| Recursion: Alignment | 418368 | [418368-recursion-alignment.json](./418368-recursion-alignment.json) |
 | Recursive | 382590 | [382590-recursive.json](./382590-recursive.json) |
 | Recursive Dragon | 103648 | [103648-recursive-dragon.json](./103648-recursive-dragon.json) |
 | Recursive Hate: Spider Hell | 155289 | [155289-recursive-hate-spider-hell.json](./155289-recursive-hate-spider-hell.json) |
@@ -12029,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing SaGa 3 | 11313 | [11313-romancing-saga-3.json](./11313-romancing-saga-3.json) |
 | Romancing SaGa 3: Destinies United | 415836 | [415836-romancing-saga-3-destinies-united.json](./415836-romancing-saga-3-destinies-united.json) |
+| Romancing SaGa 3: Destinies United - Digital Deluxe Version | 418348 | [418348-romancing-saga-3-destinies-united-digital-deluxe-version.json](./418348-romancing-saga-3-destinies-united-digital-deluxe-version.json) |
 | Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
 | Romancing SaGa: Minstrel Song Remastered | 203315 | [203315-romancing-saga-minstrel-song-remastered.json](./203315-romancing-saga-minstrel-song-remastered.json) |
 | Romancing SaGa: Minstrel Song Remastered International Special Edition | 391997 | [391997-romancing-saga-minstrel-song-remastered-international-special-edition.json](./391997-romancing-saga-minstrel-song-remastered-international-special-edition.json) |
@@ -12210,6 +12213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
 | Rookie Hero | 182045 | [182045-rookie-hero.json](./182045-rookie-hero.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
+| Rookie Raiders | 418378 | [418378-rookie-raiders.json](./418378-rookie-raiders.json) |
 | Rookie Rook | 425439 | [425439-rookie-rook.json](./425439-rookie-rook.json) |
 | Rookie Table Tennis | 328445 | [328445-rookie-table-tennis.json](./328445-rookie-table-tennis.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
