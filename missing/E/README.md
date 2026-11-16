@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Shadow of the Erdtree Deluxe Edition | 287984 | [287984-elden-ring-shadow-of-the-erdtree-deluxe-edition.json](./287984-elden-ring-shadow-of-the-erdtree-deluxe-edition.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elden Ring: Tarnished Edition | 338079 | [338079-elden-ring-tarnished-edition.json](./338079-elden-ring-tarnished-edition.json) |
+| Elden Ring: Tarnished Pack | 415376 | [415376-elden-ring-tarnished-pack.json](./415376-elden-ring-tarnished-pack.json) |
 | Elden Ring: The Convergence | 260990 | [260990-elden-ring-the-convergence.json](./260990-elden-ring-the-convergence.json) |
 | Elden Shell: Mortal Ring | 194075 | [194075-elden-shell-mortal-ring.json](./194075-elden-shell-mortal-ring.json) |
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
@@ -4186,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Cold Journey | 263813 | [263813-endless-cold-journey.json](./263813-endless-cold-journey.json) |
 | Endless Combat | 72365 | [72365-endless-combat.json](./72365-endless-combat.json) |
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
+| Endless Coven | 414653 | [414653-endless-coven.json](./414653-endless-coven.json) |
 | Endless Crawler | 149310 | [149310-endless-crawler.json](./149310-endless-crawler.json) |
 | Endless Crimes of the Future | 300581 | [300581-endless-crimes-of-the-future.json](./300581-endless-crimes-of-the-future.json) |
 | Endless Crusade | 98492 | [98492-endless-crusade.json](./98492-endless-crusade.json) |
