@@ -8458,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiller | 247378 | [247378-chiller.json](./247378-chiller.json) |
 | Chilli Con Valley | 187200 | [187200-chilli-con-valley.json](./187200-chilli-con-valley.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
+| Chillin' by the Fire | 358531 | [358531-chillin-by-the-fire.json](./358531-chillin-by-the-fire.json) |
 | Chilling Devotion | 386074 | [386074-chilling-devotion.json](./386074-chilling-devotion.json) |
 | Chilling Silence | 391390 | [391390-chilling-silence.json](./391390-chilling-silence.json) |
 | Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
@@ -13025,6 +13026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Shop Simulator | 217070 | [217070-coffee-shop-simulator.json](./217070-coffee-shop-simulator.json) |
 | Coffee Shop Simulator | 356970 | [356970-coffee-shop-simulator.json](./356970-coffee-shop-simulator.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
+| Coffee Simulator | 359621 | [359621-coffee-simulator.json](./359621-coffee-simulator.json) |
 | Coffee Simulator Tycoon | 301175 | [301175-coffee-simulator-tycoon.json](./301175-coffee-simulator-tycoon.json) |
 | Coffee Stack | 212506 | [212506-coffee-stack.json](./212506-coffee-stack.json) |
 | Coffee Talk 1+2 Double Pack Edition | 270576 | [270576-coffee-talk-1-2-double-pack-edition.json](./270576-coffee-talk-1-2-double-pack-edition.json) |
@@ -13153,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Pusher | 95262 | [95262-coin-pusher.json](./95262-coin-pusher.json) |
 | Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
 | Coin Pusher Live | 280382 | [280382-coin-pusher-live.json](./280382-coin-pusher-live.json) |
+| Coin Pusher Reloaded | 358520 | [358520-coin-pusher-reloaded.json](./358520-coin-pusher-reloaded.json) |
 | Coin Pusher World | 150004 | [150004-coin-pusher-world.json](./150004-coin-pusher-world.json) |
 | Coin Pusher World: 2 Bed 4 Pusher World | 286144 | [286144-coin-pusher-world-2-bed-4-pusher-world.json](./286144-coin-pusher-world-2-bed-4-pusher-world.json) |
 | Coin Rush | 181054 | [181054-coin-rush.json](./181054-coin-rush.json) |
@@ -14559,6 +14562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comfy Maps | 300627 | [300627-comfy-maps.json](./300627-comfy-maps.json) |
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
 | Comic Bakery | 13831 | [13831-comic-bakery.json](./13831-comic-bakery.json) |
+| Comic Book Cody | 358545 | [358545-comic-book-cody.json](./358545-comic-book-cody.json) |
 | Comic Book Hero: The Greatest Cape | 33993 | [33993-comic-book-hero-the-greatest-cape.json](./33993-comic-book-hero-the-greatest-cape.json) |
 | Comic Book Legends | 259672 | [259672-comic-book-legends.json](./259672-comic-book-legends.json) |
 | Comic Book Store Simulator | 359699 | [359699-comic-book-store-simulator.json](./359699-comic-book-store-simulator.json) |
@@ -15011,7 +15015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Composer | 187316 | [187316-composer.json](./187316-composer.json) |
 | Compost | 170638 | [170638-compost.json](./170638-compost.json) |
-| Compound | 28927 | [28927-compound.json](./28927-compound.json) |
 | Compound Fracture | 143560 | [143560-compound-fracture.json](./143560-compound-fracture.json) |
 | Compound Word Puzzles | 353557 | [353557-compound-word-puzzles.json](./353557-compound-word-puzzles.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
@@ -15835,6 +15838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Map: Slowpoke | 354608 | [354608-construction-action-map-slowpoke.json](./354608-construction-action-map-slowpoke.json) |
 | Construction: Action - Map: Stantler | 354633 | [354633-construction-action-map-stantler.json](./354633-construction-action-map-stantler.json) |
 | Construction: Action - Map: Starmie | 354622 | [354622-construction-action-map-starmie.json](./354622-construction-action-map-starmie.json) |
+| Construction: Action - Map: Staryu | 360787 | [360787-construction-action-map-staryu.json](./360787-construction-action-map-staryu.json) |
 | Construction: Action - Map: Vileplume | 354599 | [354599-construction-action-map-vileplume.json](./354599-construction-action-map-vileplume.json) |
 | Construction: Action - Map: Vulpix | 354609 | [354609-construction-action-map-vulpix.json](./354609-construction-action-map-vulpix.json) |
 | Construction: Action - Map: Xatu | 354602 | [354602-construction-action-map-xatu.json](./354602-construction-action-map-xatu.json) |
