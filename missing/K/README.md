@@ -4832,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KKuTu Korea | 112247 | [112247-kkutu-korea.json](./112247-kkutu-korea.json) |
 | KKuTuDotNet | 143754 | [143754-kkutudotnet.json](./143754-kkutudotnet.json) |
 | KKuTuIO | 218742 | [218742-kkutuio.json](./218742-kkutuio.json) |
+| Klabater Bundle: The Amazing American Circus, Moonshine Inc., Heliborne and Crossroads Inn | 269170 | [269170-klabater-bundle-the-amazing-american-circus-moonshine-inc-heliborne-and-crossroads-inn.json](./269170-klabater-bundle-the-amazing-american-circus-moonshine-inc-heliborne-and-crossroads-inn.json) |
 | Klabater Complete Bundle | 401940 | [401940-klabater-complete-bundle.json](./401940-klabater-complete-bundle.json) |
 | Klabi | 33029 | [33029-klabi.json](./33029-klabi.json) |
 | Klac | 119456 | [119456-klac.json](./119456-klac.json) |
