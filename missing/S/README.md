@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvagers | 365885 | [365885-salvagers.json](./365885-salvagers.json) |
 | Salvagette | 174475 | [174475-salvagette.json](./174475-salvagette.json) |
 | Salvando la Isla Perdida | 223195 | [223195-salvando-la-isla-perdida.json](./223195-salvando-la-isla-perdida.json) |
+| Salvare | 415604 | [415604-salvare.json](./415604-salvare.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
 | Salvation Denied | 395837 | [395837-salvation-denied.json](./395837-salvation-denied.json) |
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
@@ -2448,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satoyama Note: Spring Walk | 330660 | [330660-satoyama-note-spring-walk.json](./330660-satoyama-note-spring-walk.json) |
 | Satryn | 145304 | [145304-satryn.json](./145304-satryn.json) |
 | Satryn Deluxe | 186106 | [186106-satryn-deluxe.json](./186106-satryn-deluxe.json) |
+| Satsubatsu Succubus | 415710 | [415710-satsubatsu-succubus.json](./415710-satsubatsu-succubus.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Satsuki-iro no Sora ni | 412795 | [412795-satsuki-iro-no-sora-ni.json](./412795-satsuki-iro-no-sora-ni.json) |
 | Sattelite | 340662 | [340662-sattelite.json](./340662-sattelite.json) |
@@ -4186,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble | 86248 | [86248-scribble.json](./86248-scribble.json) |
 | Scribble Adventure Unlimited | 107126 | [107126-scribble-adventure-unlimited.json](./107126-scribble-adventure-unlimited.json) |
 | Scribble Fight | 157354 | [157354-scribble-fight.json](./157354-scribble-fight.json) |
+| Scribble Grounds | 415586 | [415586-scribble-grounds.json](./415586-scribble-grounds.json) |
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
 | Scribble Hunt | 409358 | [409358-scribble-hunt.json](./409358-scribble-hunt.json) |
 | Scribble It! | 120649 | [120649-scribble-it.json](./120649-scribble-it.json) |
@@ -17929,6 +17932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Penalty Kicks | 106861 | [106861-soccer-penalty-kicks.json](./106861-soccer-penalty-kicks.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Physics Fight | 219901 | [219901-soccer-physics-fight.json](./219901-soccer-physics-fight.json) |
+| Soccer Pinball | 415561 | [415561-soccer-pinball.json](./415561-soccer-pinball.json) |
 | Soccer Pinball | 80790 | [80790-soccer-pinball.json](./80790-soccer-pinball.json) |
 | Soccer Pinball Thrills | 35135 | [35135-soccer-pinball-thrills.json](./35135-soccer-pinball-thrills.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
@@ -23162,6 +23166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
 | Spaghetti Celesti | 421214 | [421214-spaghetti-celesti.json](./421214-spaghetti-celesti.json) |
 | Spaghetti Western Shooter | 268381 | [268381-spaghetti-western-shooter.json](./268381-spaghetti-western-shooter.json) |
+| Spaghetti Western Simulator | 415577 | [415577-spaghetti-western-simulator.json](./415577-spaghetti-western-simulator.json) |
 | SpaghettiKart | 350955 | [350955-spaghettikart.json](./350955-spaghettikart.json) |
 | SpAIceRocks | 340192 | [340192-spaicerocks.json](./340192-spaicerocks.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
@@ -31824,6 +31829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street Masters | 175196 | [175196-street-masters.json](./175196-street-masters.json) |
 | Street Ninja | 217946 | [217946-street-ninja.json](./217946-street-ninja.json) |
+| Street of Dreams | 415712 | [415712-street-of-dreams.json](./415712-street-of-dreams.json) |
 | Street of Sanctuary VR | 30051 | [30051-street-of-sanctuary-vr.json](./30051-street-of-sanctuary-vr.json) |
 | Street of Secrets | 244590 | [244590-street-of-secrets.json](./244590-street-of-secrets.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
