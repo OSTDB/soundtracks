@@ -5734,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezz: Portals | 155249 | [155249-tezz-portals.json](./155249-tezz-portals.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFC: The Fertile Crescent | 126101 | [126101-tfc-the-fertile-crescent.json](./126101-tfc-the-fertile-crescent.json) |
+| TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age | 407605 | [407605-tfc2-the-fertile-crescent-2-collapse-of-the-bronze-age.json](./407605-tfc2-the-fertile-crescent-2-collapse-of-the-bronze-age.json) |
 | TFM: The First Men | 125535 | [125535-tfm-the-first-men.json](./125535-tfm-the-first-men.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
@@ -12186,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House That Dripped Blood | 203186 | [203186-the-house-that-dripped-blood.json](./203186-the-house-that-dripped-blood.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The House the Dead Built | 231802 | [231802-the-house-the-dead-built.json](./231802-the-house-the-dead-built.json) |
+| The House They Left Behind | 408340 | [408340-the-house-they-left-behind.json](./408340-the-house-they-left-behind.json) |
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
 | The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
 | The House: A Maple Street Story | 363681 | [363681-the-house-a-maple-street-story.json](./363681-the-house-a-maple-street-story.json) |
@@ -14972,6 +14974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Song | 365931 | [365931-the-lost-song.json](./365931-the-lost-song.json) |
 | The Lost Soul | 345781 | [345781-the-lost-soul.json](./345781-the-lost-soul.json) |
 | The Lost Souls | 33236 | [33236-the-lost-souls.json](./33236-the-lost-souls.json) |
+| The Lost Souls | 408363 | [408363-the-lost-souls.json](./408363-the-lost-souls.json) |
 | The Lost Streamer | 413791 | [413791-the-lost-streamer.json](./413791-the-lost-streamer.json) |
 | The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
 | The Lost Tape: Cellar | 286344 | [286344-the-lost-tape-cellar.json](./286344-the-lost-tape-cellar.json) |
@@ -18759,6 +18762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Castaway Stories | 13140 | [13140-the-sims-castaway-stories.json](./13140-the-sims-castaway-stories.json) |
 | The Sims DJ | 67879 | [67879-the-sims-dj.json](./67879-the-sims-dj.json) |
 | The Sims Medieval | 202064 | [202064-the-sims-medieval.json](./202064-the-sims-medieval.json) |
+| The Sims Medieval | 408282 | [408282-the-sims-medieval.json](./408282-the-sims-medieval.json) |
 | The Sims Medieval: Deluxe Edition | 202062 | [202062-the-sims-medieval-deluxe-edition.json](./202062-the-sims-medieval-deluxe-edition.json) |
 | The Sims Medieval: Limited Edition | 281804 | [281804-the-sims-medieval-limited-edition.json](./281804-the-sims-medieval-limited-edition.json) |
 | The Sims Medieval: Pirates and Nobles | 13137 | [13137-the-sims-medieval-pirates-and-nobles.json](./13137-the-sims-medieval-pirates-and-nobles.json) |
@@ -20677,6 +20681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untold Legacy | 75991 | [75991-the-untold-legacy.json](./75991-the-untold-legacy.json) |
 | The Untold Legends: Baba Yaga | 336582 | [336582-the-untold-legends-baba-yaga.json](./336582-the-untold-legends-baba-yaga.json) |
 | The Untold Story of Hengshui School | 96841 | [96841-the-untold-story-of-hengshui-school.json](./96841-the-untold-story-of-hengshui-school.json) |
+| The Untold Tales of the Vocaloids | 408356 | [408356-the-untold-tales-of-the-vocaloids.json](./408356-the-untold-tales-of-the-vocaloids.json) |
 | The Untouchable | 62285 | [62285-the-untouchable.json](./62285-the-untouchable.json) |
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
