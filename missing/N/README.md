@@ -6524,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
 | No Man's Sky: Atlas Rises | 222780 | [222780-no-mans-sky-atlas-rises.json](./222780-no-mans-sky-atlas-rises.json) |
 | No Man's Sky: Beacon | 347077 | [347077-no-mans-sky-beacon.json](./347077-no-mans-sky-beacon.json) |
+| No Man's Sky: Beyond | 222577 | [222577-no-mans-sky-beyond.json](./222577-no-mans-sky-beyond.json) |
 | No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
 | No Man's Sky: Cosmos | 417160 | [417160-no-mans-sky-cosmos.json](./417160-no-mans-sky-cosmos.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
