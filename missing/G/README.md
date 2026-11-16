@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambol | 68217 | [68217-gambol.json](./68217-gambol.json) |
 | Gambol 2 | 328061 | [328061-gambol-2.json](./328061-gambol-2.json) |
 | Gambonanza | 335721 | [335721-gambonanza.json](./335721-gambonanza.json) |
+| Gambys | 358522 | [358522-gambys.json](./358522-gambys.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game (not) Over | 333656 | [333656-game-not-over.json](./333656-game-not-over.json) |
 | Game & Console Supermarket: Business Simulator | 334982 | [334982-game-and-console-supermarket-business-simulator.json](./334982-game-and-console-supermarket-business-simulator.json) |
@@ -12459,7 +12460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunman Clive HD Collection | 60063 | [60063-gunman-clive-hd-collection.json](./60063-gunman-clive-hd-collection.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
 | Gunman Drift | 369525 | [369525-gunman-drift.json](./369525-gunman-drift.json) |
-| Gunman Taco Truck | 27084 | [27084-gunman-taco-truck.json](./27084-gunman-taco-truck.json) |
 | Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
 | Gunmancer | 164963 | [164963-gunmancer.json](./164963-gunmancer.json) |
 | GunMania | 328953 | [328953-gunmania.json](./328953-gunmania.json) |
