@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Essentials | 42959 | [42959-capcom-essentials.json](./42959-capcom-essentials.json) |
 | Capcom Fighting All-Stars | 77245 | [77245-capcom-fighting-all-stars.json](./77245-capcom-fighting-all-stars.json) |
 | Capcom Fighting Bundle | 207898 | [207898-capcom-fighting-bundle.json](./207898-capcom-fighting-bundle.json) |
+| Capcom Fighting Collection 1 & 2 Bundle | 342943 | [342943-capcom-fighting-collection-1-and-2-bundle.json](./342943-capcom-fighting-collection-1-and-2-bundle.json) |
 | Capcom Fighting Evolution | 99551 | [99551-capcom-fighting-evolution.json](./99551-capcom-fighting-evolution.json) |
 | Capcom Generations | 43897 | [43897-capcom-generations.json](./43897-capcom-generations.json) |
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cappuccino Assassino Shooter | 350189 | [350189-cappuccino-assassino-shooter.json](./350189-cappuccino-assassino-shooter.json) |
 | Cappuccino: The Refill | 271781 | [271781-cappuccino-the-refill.json](./271781-cappuccino-the-refill.json) |
 | Cappuchino Spoontforce Deluxe VI: Girl of the Boiling Fury | 181872 | [181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json](./181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json) |
+| Cappy & Tappy: Temples of Peril | 342948 | [342948-cappy-and-tappy-temples-of-peril.json](./342948-cappy-and-tappy-temples-of-peril.json) |
 | Capri Care | 328137 | [328137-capri-care.json](./328137-capri-care.json) |
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
 | Capricious | 183824 | [183824-capricious.json](./183824-capricious.json) |
@@ -5587,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave In | 303399 | [303399-cave-in.json](./303399-cave-in.json) |
 | Cave Looters | 410829 | [410829-cave-looters.json](./410829-cave-looters.json) |
+| Cave Maze | 344619 | [344619-cave-maze.json](./344619-cave-maze.json) |
 | Cave Nightmare | 161620 | [161620-cave-nightmare.json](./161620-cave-nightmare.json) |
 | Cave Noire | 49076 | [49076-cave-noire.json](./49076-cave-noire.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
@@ -12479,6 +12482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
 | Clutchball | 129409 | [129409-clutchball.json](./129409-clutchball.json) |
 | Clutchtime: Basketball Deckbuilder | 322291 | [322291-clutchtime-basketball-deckbuilder.json](./322291-clutchtime-basketball-deckbuilder.json) |
+| Clutchtime: Tournament Edition | 344605 | [344605-clutchtime-tournament-edition.json](./344605-clutchtime-tournament-edition.json) |
 | Clutter | 314534 | [314534-clutter.json](./314534-clutter.json) |
 | Clutter 1000 | 149844 | [149844-clutter-1000.json](./149844-clutter-1000.json) |
 | Clutter 12: It's About Time - Collector's Edition | 195433 | [195433-clutter-12-its-about-time-collectors-edition.json](./195433-clutter-12-its-about-time-collectors-edition.json) |
@@ -16046,6 +16050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contradiction | 76229 | [76229-contradiction.json](./76229-contradiction.json) |
 | Contradiction 8Bit | 164767 | [164767-contradiction-8bit.json](./164767-contradiction-8bit.json) |
 | Contradiction: Spot the Liar! | 11333 | [11333-contradiction-spot-the-liar.json](./11333-contradiction-spot-the-liar.json) |
+| Contraindication | 342950 | [342950-contraindication.json](./342950-contraindication.json) |
 | Contraption | 13513 | [13513-contraption.json](./13513-contraption.json) |
 | Contraption | 57121 | [57121-contraption.json](./57121-contraption.json) |
 | Contraption Maker | 9802 | [9802-contraption-maker.json](./9802-contraption-maker.json) |
@@ -16731,6 +16736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corey Coolbrew | 135323 | [135323-corey-coolbrew.json](./135323-corey-coolbrew.json) |
 | Corg of the Dead | 133383 | [133383-corg-of-the-dead.json](./133383-corg-of-the-dead.json) |
 | Corgi | 202671 | [202671-corgi.json](./202671-corgi.json) |
+| Corgi Conquest | 344598 | [344598-corgi-conquest.json](./344598-corgi-conquest.json) |
 | Corgi Cove | 223514 | [223514-corgi-cove.json](./223514-corgi-cove.json) |
 | Corgi Flop | 63525 | [63525-corgi-flop.json](./63525-corgi-flop.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
@@ -17683,6 +17689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
 | Counting Sheep | 403246 | [403246-counting-sheep.json](./403246-counting-sheep.json) |
+| Counting Spices | 337887 | [337887-counting-spices.json](./337887-counting-spices.json) |
 | Counting Star | 221315 | [221315-counting-star.json](./221315-counting-star.json) |
 | Countless Army | 250720 | [250720-countless-army.json](./250720-countless-army.json) |
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
@@ -20126,6 +20133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc Mobile: Pinball | 55949 | [55949-croc-mobile-pinball.json](./55949-croc-mobile-pinball.json) |
 | Croc Mobile: Volcanic Panic | 55965 | [55965-croc-mobile-volcanic-panic.json](./55965-croc-mobile-volcanic-panic.json) |
 | Croc Royale | 363067 | [363067-croc-royale.json](./363067-croc-royale.json) |
+| Croc: Legend of the Gobbos | 337885 | [337885-croc-legend-of-the-gobbos.json](./337885-croc-legend-of-the-gobbos.json) |
 | Croc: Legend of the Gobbos | 7901 | [7901-croc-legend-of-the-gobbos.json](./7901-croc-legend-of-the-gobbos.json) |
 | Croc's Dynamite Blast | 377008 | [377008-crocs-dynamite-blast.json](./377008-crocs-dynamite-blast.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
@@ -22578,6 +22586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 15 | 365050 | [365050-cursed-house-15.json](./365050-cursed-house-15.json) |
 | Cursed House 16 | 407845 | [407845-cursed-house-16.json](./407845-cursed-house-16.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
+| Cursed House 3 | 337860 | [337860-cursed-house-3.json](./337860-cursed-house-3.json) |
 | Cursed House 4 | 312038 | [312038-cursed-house-4.json](./312038-cursed-house-4.json) |
 | Cursed House 5 | 313665 | [313665-cursed-house-5.json](./313665-cursed-house-5.json) |
 | Cursed House 6 | 419591 | [419591-cursed-house-6.json](./419591-cursed-house-6.json) |
