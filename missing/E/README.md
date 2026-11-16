@@ -7691,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergrow | 27095 | [27095-evergrow.json](./27095-evergrow.json) |
 | Evergrow: Paper Forest | 200247 | [200247-evergrow-paper-forest.json](./200247-evergrow-paper-forest.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
+| Evergrowing | 419733 | [419733-evergrowing.json](./419733-evergrowing.json) |
 | Everguest: The Veiled Inn | 414751 | [414751-everguest-the-veiled-inn.json](./414751-everguest-the-veiled-inn.json) |
 | Everhaven | 311063 | [311063-everhaven.json](./311063-everhaven.json) |
 | EverHero | 93693 | [93693-everhero.json](./93693-everhero.json) |
