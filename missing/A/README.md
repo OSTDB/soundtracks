@@ -10956,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Then He Went to the Tower | 183376 | [183376-and-then-he-went-to-the-tower.json](./183376-and-then-he-went-to-the-tower.json) |
 | And Then There Was No Light | 361598 | [361598-and-then-there-was-no-light.json](./361598-and-then-there-was-no-light.json) |
 | And Then We Go Party At The Shore | 409875 | [409875-and-then-we-go-party-at-the-shore.json](./409875-and-then-we-go-party-at-the-shore.json) |
+| And Then You Come to a House Not Unlike the Previous One | 215823 | [215823-and-then-you-come-to-a-house-not-unlike-the-previous-one.json](./215823-and-then-you-come-to-a-house-not-unlike-the-previous-one.json) |
 | And These Iron Limbs Exiled From Heaven | 278486 | [278486-and-these-iron-limbs-exiled-from-heaven.json](./278486-and-these-iron-limbs-exiled-from-heaven.json) |
 | And When Your Goal Is Nearest | 425181 | [425181-and-when-your-goal-is-nearest.json](./425181-and-when-your-goal-is-nearest.json) |
 | And Yet It Hurt | 229628 | [229628-and-yet-it-hurt.json](./229628-and-yet-it-hurt.json) |
@@ -15255,6 +15256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Master | 150744 | [150744-archer-master.json](./150744-archer-master.json) |
 | Archer of Den | 382734 | [382734-archer-of-den.json](./382734-archer-of-den.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
+| Archer Peerless | 215410 | [215410-archer-peerless.json](./215410-archer-peerless.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
 | Archer Training | 283931 | [283931-archer-training.json](./283931-archer-training.json) |
 | Archer VR | 133082 | [133082-archer-vr.json](./133082-archer-vr.json) |
