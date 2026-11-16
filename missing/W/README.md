@@ -3373,6 +3373,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Rearing | 338389 | [338389-weapon-rearing.json](./338389-weapon-rearing.json) |
 | Weapon Shop Decillionaire | 275817 | [275817-weapon-shop-decillionaire.json](./275817-weapon-shop-decillionaire.json) |
 | Weapon Shop Fantasy | 29348 | [29348-weapon-shop-fantasy.json](./29348-weapon-shop-fantasy.json) |
+| Weapon Throwing RPG | 397964 | [397964-weapon-throwing-rpg.json](./397964-weapon-throwing-rpg.json) |
+| Weapon Throwing RPG 2 | 397966 | [397966-weapon-throwing-rpg-2.json](./397966-weapon-throwing-rpg-2.json) |
 | Weaponeer | 219490 | [219490-weaponeer.json](./219490-weaponeer.json) |
 | Weaponeers | 382595 | [382595-weaponeers.json](./382595-weaponeers.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
@@ -9110,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World In Danger | 27178 | [27178-world-in-danger.json](./27178-world-in-danger.json) |
 | World in fire | 284833 | [284833-world-in-fire.json](./284833-world-in-fire.json) |
 | World In The Abyss | 379107 | [379107-world-in-the-abyss.json](./379107-world-in-the-abyss.json) |
+| World Inverted | 397335 | [397335-world-inverted.json](./397335-world-inverted.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
 | World Jockey | 37650 | [37650-world-jockey.json](./37650-world-jockey.json) |
 | World Jongg | 205875 | [205875-world-jongg.json](./205875-world-jongg.json) |
@@ -10018,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Chess: Esther Sauce | 183423 | [183423-worst-chess-esther-sauce.json](./183423-worst-chess-esther-sauce.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
+| Worst Game Ever | 397356 | [397356-worst-game-ever.json](./397356-worst-game-ever.json) |
 | Worst Game in World | 394238 | [394238-worst-game-in-world.json](./394238-worst-game-in-world.json) |
 | Worst Guest | 82555 | [82555-worst-guest.json](./82555-worst-guest.json) |
 | Worst Idea | 295402 | [295402-worst-idea.json](./295402-worst-idea.json) |
