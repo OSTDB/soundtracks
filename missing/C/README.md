@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You See What I See?: Dream Machine | 312210 | [312210-can-you-see-what-i-see-dream-machine.json](./312210-can-you-see-what-i-see-dream-machine.json) |
 | Can You Survive the Scream House? | 419120 | [419120-can-you-survive-the-scream-house.json](./419120-can-you-survive-the-scream-house.json) |
 | Can You Survive?: Survival World | 95825 | [95825-can-you-survive-survival-world.json](./95825-can-you-survive-survival-world.json) |
+| Can Your Lemon | 242175 | [242175-can-your-lemon.json](./242175-can-your-lemon.json) |
 | Can Your Otaku Cabinet Grow a Beautiful Girl? | 419802 | [419802-can-your-otaku-cabinet-grow-a-beautiful-girl.json](./419802-can-your-otaku-cabinet-grow-a-beautiful-girl.json) |
 | Can Your Pet | 215086 | [215086-can-your-pet.json](./215086-can-your-pet.json) |
 | Can Your Pet 2: Returns | 240842 | [240842-can-your-pet-2-returns.json](./240842-can-your-pet-2-returns.json) |
@@ -1627,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
 | Candy's Adventure: Speedrunners Copy | 416989 | [416989-candys-adventure-speedrunners-copy.json](./416989-candys-adventure-speedrunners-copy.json) |
 | Candy's Custom Night | 336343 | [336343-candys-custom-night.json](./336343-candys-custom-night.json) |
+| Candy's Town | 242279 | [242279-candys-town.json](./242279-candys-town.json) |
 | Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
 | Candyboy | 236351 | [236351-candyboy.json](./236351-candyboy.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
@@ -5430,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
+| CatSacks | 242178 | [242178-catsacks.json](./242178-catsacks.json) |
 | Catsapults | 102908 | [102908-catsapults.json](./102908-catsapults.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | Catsby | 29514 | [29514-catsby.json](./29514-catsby.json) |
@@ -19231,6 +19234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Oce | 143544 | [143544-crazy-oce.json](./143544-crazy-oce.json) |
 | Crazy Office Dentist | 175540 | [175540-crazy-office-dentist.json](./175540-crazy-office-dentist.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
+| Crazy Open Car | 242198 | [242198-crazy-open-car.json](./242198-crazy-open-car.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Otto | 32506 | [32506-crazy-otto.json](./32506-crazy-otto.json) |
 | Crazy Painter | 37219 | [37219-crazy-painter.json](./37219-crazy-painter.json) |
@@ -20283,6 +20287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropshots | 185009 | [185009-cropshots.json](./185009-cropshots.json) |
 | Cropsmare! | 287998 | [287998-cropsmare.json](./287998-cropsmare.json) |
 | Croquet | 95342 | [95342-croquet.json](./95342-croquet.json) |
+| Croquet Clash | 242199 | [242199-croquet-clash.json](./242199-croquet-clash.json) |
 | Croquet Conundrum | 319662 | [319662-croquet-conundrum.json](./319662-croquet-conundrum.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
 | Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
