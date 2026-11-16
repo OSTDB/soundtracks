@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killbot! | 396395 | [396395-killbot.json](./396395-killbot.json) |
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
 | Killbox | 55702 | [55702-killbox.json](./55702-killbox.json) |
+| Killbug | 246064 | [246064-killbug.json](./246064-killbug.json) |
 | KillCam Blablublas Battle Royale | 374911 | [374911-killcam-blablublas-battle-royale.json](./374911-killcam-blablublas-battle-royale.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
 | Killdozer Simulator | 291386 | [291386-killdozer-simulator.json](./291386-killdozer-simulator.json) |
