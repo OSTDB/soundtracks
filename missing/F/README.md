@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud HD | 90067 | [90067-family-feud-hd.json](./90067-family-feud-hd.json) |
 | Family Feud II | 209244 | [209244-family-feud-ii.json](./209244-family-feud-ii.json) |
 | Family Feud Live! | 91127 | [91127-family-feud-live.json](./91127-family-feud-live.json) |
+| Family Feud Pocket | 405193 | [405193-family-feud-pocket.json](./405193-family-feud-pocket.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
 | Family Feud: Battle of the Sexes | 358962 | [358962-family-feud-battle-of-the-sexes.json](./358962-family-feud-battle-of-the-sexes.json) |
@@ -3173,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farseer's Domain | 144898 | [144898-farseers-domain.json](./144898-farseers-domain.json) |
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
 | Farsiders | 235983 | [235983-farsiders.json](./235983-farsiders.json) |
+| Farsight | 403852 | [403852-farsight.json](./403852-farsight.json) |
 | FarSky | 17164 | [17164-farsky.json](./17164-farsky.json) |
 | Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
 | Farstorm | 109329 | [109329-farstorm.json](./109329-farstorm.json) |
@@ -14228,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Runner | 92576 | [92576-front-runner.json](./92576-front-runner.json) |
 | Front Wars | 35279 | [35279-front-wars.json](./35279-front-wars.json) |
 | Front Wars: World War II | 90521 | [90521-front-wars-world-war-ii.json](./90521-front-wars-world-war-ii.json) |
+| Frontactics | 405187 | [405187-frontactics.json](./405187-frontactics.json) |
 | Frontal Attack | 116157 | [116157-frontal-attack.json](./116157-frontal-attack.json) |
 | Fronte del Basket 2007/2008 | 98952 | [98952-fronte-del-basket-2007-2008.json](./98952-fronte-del-basket-2007-2008.json) |
 | Fronteeland | 366347 | [366347-fronteeland.json](./366347-fronteeland.json) |
