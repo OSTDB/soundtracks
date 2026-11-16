@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
 | Darkstalkers Resurrection | 20013 | [20013-darkstalkers-resurrection.json](./20013-darkstalkers-resurrection.json) |
 | Darkstalkers: The Night Warriors | 20009 | [20009-darkstalkers-the-night-warriors.json](./20009-darkstalkers-the-night-warriors.json) |
+| Darkstar | 419125 | [419125-darkstar.json](./419125-darkstar.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | DarkStar One: Broken Alliance | 20414 | [20414-darkstar-one-broken-alliance.json](./20414-darkstar-one-broken-alliance.json) |
 | DarkStar One: Nintendo Switch Edition | 301101 | [301101-darkstar-one-nintendo-switch-edition.json](./301101-darkstar-one-nintendo-switch-edition.json) |
@@ -5882,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Core | 12568 | [12568-deep-core.json](./12568-deep-core.json) |
 | Deep Corp | 390993 | [390993-deep-corp.json](./390993-deep-corp.json) |
 | Deep Cover | 182957 | [182957-deep-cover.json](./182957-deep-cover.json) |
+| Deep Cover: Black Operations | 419054 | [419054-deep-cover-black-operations.json](./419054-deep-cover-black-operations.json) |
 | Deep Crafter | 318306 | [318306-deep-crafter.json](./318306-deep-crafter.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Cuts | 306937 | [306937-deep-cuts.json](./306937-deep-cuts.json) |
@@ -12127,6 +12129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
 | Disorder | 309728 | [309728-disorder.json](./309728-disorder.json) |
+| Disorder | 419031 | [419031-disorder.json](./419031-disorder.json) |
 | DisOrder in the Court | 271098 | [271098-disorder-in-the-court.json](./271098-disorder-in-the-court.json) |
 | Disorder: Save Your Family | 307243 | [307243-disorder-save-your-family.json](./307243-disorder-save-your-family.json) |
 | Disorder6 | 63124 | [63124-disorder6.json](./63124-disorder6.json) |
@@ -12729,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK64: Rekongpiled | 408549 | [408549-dk64-rekongpiled.json](./408549-dk64-rekongpiled.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | DKC X Mario | 309141 | [309141-dkc-x-mario.json](./309141-dkc-x-mario.json) |
+| DKC3Recomp | 419012 | [419012-dkc3recomp.json](./419012-dkc3recomp.json) |
 | DKDC: Donkey Kong Distortion Country | 162830 | [162830-dkdc-donkey-kong-distortion-country.json](./162830-dkdc-donkey-kong-distortion-country.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
 | DKO: Divine Knockout - Founders Edition | 228850 | [228850-dko-divine-knockout-founders-edition.json](./228850-dko-divine-knockout-founders-edition.json) |
@@ -16337,6 +16341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
 | Draftycar 2 | 351666 | [351666-draftycar-2.json](./351666-draftycar-2.json) |
 | Drag | 132351 | [132351-drag.json](./132351-drag.json) |
+| Drag and Conquer | 419057 | [419057-drag-and-conquer.json](./419057-drag-and-conquer.json) |
 | Drag and Drop | 226045 | [226045-drag-and-drop.json](./226045-drag-and-drop.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
 | Drag Battle | 249688 | [249688-drag-battle.json](./249688-drag-battle.json) |
@@ -21267,6 +21272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durak! | 56649 | [56649-durak.json](./56649-durak.json) |
 | Duralumin Wind | 80914 | [80914-duralumin-wind.json](./80914-duralumin-wind.json) |
 | Durandal | 246705 | [246705-durandal.json](./246705-durandal.json) |
+| Durandal Done Different | 419186 | [419186-durandal-done-different.json](./419186-durandal-done-different.json) |
 | Durango: Wild Lands | 26918 | [26918-durango-wild-lands.json](./26918-durango-wild-lands.json) |
 | Durarara!! 3-way Standoff | 66353 | [66353-durarara-3-way-standoff.json](./66353-durarara-3-way-standoff.json) |
 | Durarara!! 3way Standoff: Alley | 269424 | [269424-durarara-3way-standoff-alley.json](./269424-durarara-3way-standoff-alley.json) |
@@ -21365,6 +21371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
 | Dust Rapture | 420317 | [420317-dust-rapture.json](./420317-dust-rapture.json) |
 | Dust Remains | 199316 | [199316-dust-remains.json](./199316-dust-remains.json) |
+| Dust Till Dawn | 419036 | [419036-dust-till-dawn.json](./419036-dust-till-dawn.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
 | Dust to Dust | 382967 | [382967-dust-to-dust.json](./382967-dust-to-dust.json) |
 | Dust to Dust | 385854 | [385854-dust-to-dust.json](./385854-dust-to-dust.json) |
