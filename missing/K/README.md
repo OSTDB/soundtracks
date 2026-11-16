@@ -4473,9 +4473,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Monster | 366906 | [366906-kiss-monster.json](./366906-kiss-monster.json) |
 | Kiss Monster 2 | 366915 | [366915-kiss-monster-2.json](./366915-kiss-monster-2.json) |
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
+| Kiss of Darkness | 299042 | [299042-kiss-of-darkness.json](./299042-kiss-of-darkness.json) |
 | Kiss of Death | 313875 | [313875-kiss-of-death.json](./313875-kiss-of-death.json) |
 | Kiss of Murder: Another Story of Manhattan Requiem | 74889 | [74889-kiss-of-murder-another-story-of-manhattan-requiem.json](./74889-kiss-of-murder-another-story-of-manhattan-requiem.json) |
 | Kiss of Revenge | 238413 | [238413-kiss-of-revenge.json](./238413-kiss-of-revenge.json) |
+| Kiss of the Wendigo | 299049 | [299049-kiss-of-the-wendigo.json](./299049-kiss-of-the-wendigo.json) |
 | Kiss of War | 166461 | [166461-kiss-of-war.json](./166461-kiss-of-war.json) |
 | Kiss or Kill | 401578 | [401578-kiss-or-kill.json](./401578-kiss-or-kill.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
