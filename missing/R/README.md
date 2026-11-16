@@ -6668,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restock | 307358 | [307358-restock.json](./307358-restock.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restock Master | 426012 | [426012-restock-master.json](./426012-restock-master.json) |
+| RestorArt: Fairwood Hills - Collector's Edition | 294314 | [294314-restorart-fairwood-hills-collectors-edition.json](./294314-restorart-fairwood-hills-collectors-edition.json) |
 | Restorart: Horizon Bay Collector's Edition | 344416 | [344416-restorart-horizon-bay-collectors-edition.json](./344416-restorart-horizon-bay-collectors-edition.json) |
 | Restoration | 426414 | [426414-restoration.json](./426414-restoration.json) |
 | Restoration | 55356 | [55356-restoration.json](./55356-restoration.json) |
