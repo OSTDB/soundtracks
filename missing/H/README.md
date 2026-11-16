@@ -751,7 +751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halftime Manager | 415571 | [415571-halftime-manager.json](./415571-halftime-manager.json) |
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
-| Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
 | Halfway Home | 111259 | [111259-halfway-home.json](./111259-halfway-home.json) |
 | Halfway House | 140726 | [140726-halfway-house.json](./140726-halfway-house.json) |
 | Halfway to Dawn | 249362 | [249362-halfway-to-dawn.json](./249362-halfway-to-dawn.json) |
@@ -2440,7 +2439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harobots | 37504 | [37504-harobots.json](./37504-harobots.json) |
 | Harobots Action!! | 58061 | [58061-harobots-action.json](./58061-harobots-action.json) |
 | Harobots: Robo Hero Battling!! | 49634 | [49634-harobots-robo-hero-battling.json](./49634-harobots-robo-hero-battling.json) |
-| Harold | 7865 | [7865-harold.json](./7865-harold.json) |
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
 | Harold Rabbit: Finder of Lost Things | 333141 | [333141-harold-rabbit-finder-of-lost-things.json](./333141-harold-rabbit-finder-of-lost-things.json) |
@@ -10253,11 +10251,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowpoint | 7607 | [7607-hollowpoint.json](./7607-hollowpoint.json) |
 | Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
 | Hollowsk 1999 3D | 193601 | [193601-hollowsk-1999-3d.json](./193601-hollowsk-1999-3d.json) |
+| Hollowspire | 342940 | [342940-hollowspire.json](./342940-hollowspire.json) |
 | Holly 2: Magic Land | 24768 | [24768-holly-2-magic-land.json](./24768-holly-2-magic-land.json) |
 | Holly Hobbie & Friends | 67752 | [67752-holly-hobbie-and-friends.json](./67752-holly-hobbie-and-friends.json) |
 | Holly-Day Ice-Spionage | 285501 | [285501-holly-day-ice-spionage.json](./285501-holly-day-ice-spionage.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Holly: A Christmas Tale Deluxe | 54086 | [54086-holly-a-christmas-tale-deluxe.json](./54086-holly-a-christmas-tale-deluxe.json) |
+| Holly's Hunt | 342960 | [342960-hollys-hunt.json](./342960-hollys-hunt.json) |
 | Holly's Wedding Salon 2 | 97062 | [97062-hollys-wedding-salon-2.json](./97062-hollys-wedding-salon-2.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywhoot | 107011 | [107011-hollywhoot.json](./107011-hollywhoot.json) |
@@ -10467,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 263263 | [263263-home.json](./263263-home.json) |
 | Home | 280198 | [280198-home.json](./280198-home.json) |
 | Home | 331351 | [331351-home.json](./331351-home.json) |
+| Home | 342945 | [342945-home.json](./342945-home.json) |
 | Home | 372448 | [372448-home.json](./372448-home.json) |
 | Home - A VR Spacewalk | 75678 | [75678-home-a-vr-spacewalk.json](./75678-home-a-vr-spacewalk.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
@@ -13739,6 +13740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
 | Hunter Revenge | 235648 | [235648-hunter-revenge.json](./235648-hunter-revenge.json) |
+| Hunter Roulette | 346845 | [346845-hunter-roulette.json](./346845-hunter-roulette.json) |
 | Hunter Shooting Camp | 154903 | [154903-hunter-shooting-camp.json](./154903-hunter-shooting-camp.json) |
 | Hunter Simulator VR: Wild Hunting | 391345 | [391345-hunter-simulator-vr-wild-hunting.json](./391345-hunter-simulator-vr-wild-hunting.json) |
 | Hunter Story | 70817 | [70817-hunter-story.json](./70817-hunter-story.json) |
