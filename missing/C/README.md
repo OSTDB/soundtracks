@@ -16601,6 +16601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Keeper | 152127 | [152127-core-keeper.json](./152127-core-keeper.json) |
 | Core Keeper: Bags & Blasts | 335161 | [335161-core-keeper-bags-and-blasts.json](./335161-core-keeper-bags-and-blasts.json) |
+| Core Keeper: Riders of the Underground | 419038 | [419038-core-keeper-riders-of-the-underground.json](./419038-core-keeper-riders-of-the-underground.json) |
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
 | Core Lords | 245889 | [245889-core-lords.json](./245889-core-lords.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
@@ -19953,6 +19954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
 | Critical Strike | 92010 | [92010-critical-strike.json](./92010-critical-strike.json) |
 | Critical Strike Modern: SWAT Shooter Ops | 370566 | [370566-critical-strike-modern-swat-shooter-ops.json](./370566-critical-strike-modern-swat-shooter-ops.json) |
+| Critical Strike Portable | 419166 | [419166-critical-strike-portable.json](./419166-critical-strike-portable.json) |
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
 | Critical Strike: Dead or Survival | 108218 | [108218-critical-strike-dead-or-survival.json](./108218-critical-strike-dead-or-survival.json) |
 | Critical Upload | 298442 | [298442-critical-upload.json](./298442-critical-upload.json) |
