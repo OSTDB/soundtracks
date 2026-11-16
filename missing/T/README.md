@@ -2648,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapiei Mahjongg 25,000 | 146962 | [146962-tapiei-mahjongg-25-000.json](./146962-tapiei-mahjongg-25-000.json) |
 | Tapioca Rider | 108193 | [108193-tapioca-rider.json](./108193-tapioca-rider.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
+| TapKick 2014 | 232076 | [232076-tapkick-2014.json](./232076-tapkick-2014.json) |
 | TapKO | 336323 | [336323-tapko.json](./336323-tapko.json) |
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
 | TapMan | 302993 | [302993-tapman.json](./302993-tapman.json) |
@@ -4907,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Forma: Tower Combat | 348539 | [348539-terra-forma-tower-combat.json](./348539-terra-forma-tower-combat.json) |
 | Terra Formars: Akaki Hoshi no Gekito | 80339 | [80339-terra-formars-akaki-hoshi-no-gekito.json](./80339-terra-formars-akaki-hoshi-no-gekito.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
+| Terra Incognita | 233822 | [233822-terra-incognita.json](./233822-terra-incognita.json) |
 | Terra Incognita ~ Chapter One: The Descendant | 35808 | [35808-terra-incognita-chapter-one-the-descendant.json](./35808-terra-incognita-chapter-one-the-descendant.json) |
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
 | Terra Inferno | 321952 | [321952-terra-inferno.json](./321952-terra-inferno.json) |
@@ -6454,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amnesiac: Final Chapter | 270015 | [270015-the-amnesiac-final-chapter.json](./270015-the-amnesiac-final-chapter.json) |
 | The Amory Wars: Fall of the Keywork | 63494 | [63494-the-amory-wars-fall-of-the-keywork.json](./63494-the-amory-wars-fall-of-the-keywork.json) |
 | The Ampoule | 275702 | [275702-the-ampoule.json](./275702-the-ampoule.json) |
+| The Amulet | 232751 | [232751-the-amulet.json](./232751-the-amulet.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Amulet of Darath | 58864 | [58864-the-amulet-of-darath.json](./58864-the-amulet-of-darath.json) |
 | The Amusement | 380581 | [380581-the-amusement.json](./380581-the-amusement.json) |
@@ -17457,6 +17460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return of the King | 287767 | [287767-the-return-of-the-king.json](./287767-the-return-of-the-king.json) |
 | The Return to Bloody Nights | 244000 | [244000-the-return-to-bloody-nights.json](./244000-the-return-to-bloody-nights.json) |
 | The Return To Freddy's 2 | 401704 | [401704-the-return-to-freddys-2.json](./401704-the-return-to-freddys-2.json) |
+| The Return to Freddy's 2: Winter Wonderland | 233824 | [233824-the-return-to-freddys-2-winter-wonderland.json](./233824-the-return-to-freddys-2-winter-wonderland.json) |
 | The Return to Freddy's Classic | 272805 | [272805-the-return-to-freddys-classic.json](./272805-the-return-to-freddys-classic.json) |
 | The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
 | The Reunion: Rediscovering Lost Love | 342353 | [342353-the-reunion-rediscovering-lost-love.json](./342353-the-reunion-rediscovering-lost-love.json) |
@@ -17657,6 +17661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rooster Files | 382502 | [382502-the-rooster-files.json](./382502-the-rooster-files.json) |
 | The Rooster's Chess | 163689 | [163689-the-roosters-chess.json](./163689-the-roosters-chess.json) |
 | The Roots | 203621 | [203621-the-roots.json](./203621-the-roots.json) |
+| The Roots | 232747 | [232747-the-roots.json](./232747-the-roots.json) |
 | The Roots: Gates of Chaos | 47566 | [47566-the-roots-gates-of-chaos.json](./47566-the-roots-gates-of-chaos.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Roottrees Are Dead | 288983 | [288983-the-roottrees-are-dead.json](./288983-the-roottrees-are-dead.json) |
@@ -19515,6 +19520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Telephone | 256647 | [256647-the-telephone.json](./256647-the-telephone.json) |
 | The Teleport | 154133 | [154133-the-teleport.json](./154133-the-teleport.json) |
+| The Telescopium Incident | 232748 | [232748-the-telescopium-incident.json](./232748-the-telescopium-incident.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
 | The Tell-Tale Hearts | 426984 | [426984-the-tell-tale-hearts.json](./426984-the-tell-tale-hearts.json) |
 | The Telltale Batman Bundle | 118722 | [118722-the-telltale-batman-bundle.json](./118722-the-telltale-batman-bundle.json) |
@@ -19594,6 +19600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
 | The Terror Room | 376491 | [376491-the-terror-room.json](./376491-the-terror-room.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
+| The Terry Pebble Show | 232749 | [232749-the-terry-pebble-show.json](./232749-the-terry-pebble-show.json) |
 | The Test Game | 309922 | [309922-the-test-game.json](./309922-the-test-game.json) |
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
 | The Test of Insanity | 308043 | [308043-the-test-of-insanity.json](./308043-the-test-of-insanity.json) |
@@ -19665,6 +19672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chainsaw Massacre | 18848 | [18848-the-texas-chainsaw-massacre.json](./18848-the-texas-chainsaw-massacre.json) |
 | The Textorcist: Amen Edition | 196300 | [196300-the-textorcist-amen-edition.json](./196300-the-textorcist-amen-edition.json) |
 | The Textorcist: The Village | 194985 | [194985-the-textorcist-the-village.json](./194985-the-textorcist-the-village.json) |
+| The Thackleton Traveler | 232750 | [232750-the-thackleton-traveler.json](./232750-the-thackleton-traveler.json) |
 | The Thaumaturge: Deluxe Edition | 322282 | [322282-the-thaumaturge-deluxe-edition.json](./322282-the-thaumaturge-deluxe-edition.json) |
 | The Theater | 153622 | [153622-the-theater.json](./153622-the-theater.json) |
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
@@ -19807,6 +19815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tomb | 85905 | [85905-the-tomb.json](./85905-the-tomb.json) |
 | The Tomb of Chak Toh Ich`ak | 271962 | [271962-the-tomb-of-chak-toh-ich-ak.json](./271962-the-tomb-of-chak-toh-ich-ak.json) |
 | The Tomb of Corruption | 289954 | [289954-the-tomb-of-corruption.json](./289954-the-tomb-of-corruption.json) |
+| The Tomb of Dracula | 232752 | [232752-the-tomb-of-dracula.json](./232752-the-tomb-of-dracula.json) |
 | The Tomb Raider & Soul Reaver Remastered Bundle | 378838 | [378838-the-tomb-raider-and-soul-reaver-remastered-bundle.json](./378838-the-tomb-raider-and-soul-reaver-remastered-bundle.json) |
 | The Tomb Raider Trilogy | 7470 | [7470-the-tomb-raider-trilogy.json](./7470-the-tomb-raider-trilogy.json) |
 | The Tomb: Pinball | 79664 | [79664-the-tomb-pinball.json](./79664-the-tomb-pinball.json) |
@@ -20169,11 +20178,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Travels of the Dung Beetle | 177448 | [177448-the-travels-of-the-dung-beetle.json](./177448-the-travels-of-the-dung-beetle.json) |
 | The Travelyan Home | 133225 | [133225-the-travelyan-home.json](./133225-the-travelyan-home.json) |
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
+| The Treasure of Loch Inch | 232753 | [232753-the-treasure-of-loch-inch.json](./232753-the-treasure-of-loch-inch.json) |
 | The Treasure of Neverland | 319304 | [319304-the-treasure-of-neverland.json](./319304-the-treasure-of-neverland.json) |
 | The treasure of the lost temple | 104953 | [104953-the-treasure-of-the-lost-temple.json](./104953-the-treasure-of-the-lost-temple.json) |
 | The Treasure of the Monkey on the Island | 421749 | [421749-the-treasure-of-the-monkey-on-the-island.json](./421749-the-treasure-of-the-monkey-on-the-island.json) |
 | The Treasure of Usas | 18921 | [18921-the-treasure-of-usas.json](./18921-the-treasure-of-usas.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
+| The Treasured Medallion | 232755 | [232755-the-treasured-medallion.json](./232755-the-treasured-medallion.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
 | The Treasures of Montezuma | 327489 | [327489-the-treasures-of-montezuma.json](./327489-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma | 327491 | [327491-the-treasures-of-montezuma.json](./327491-the-treasures-of-montezuma.json) |
@@ -25435,6 +25446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Guy | 416217 | [416217-timber-guy.json](./416217-timber-guy.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Panic | 373804 | [373804-timber-panic.json](./373804-timber-panic.json) |
+| Timber Roller | 232077 | [232077-timber-roller.json](./232077-timber-roller.json) |
 | Timber Rush | 389705 | [389705-timber-rush.json](./389705-timber-rush.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Timber Story | 189272 | [189272-timber-story.json](./189272-timber-story.json) |
