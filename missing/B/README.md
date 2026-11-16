@@ -5532,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bead | 90636 | [90636-bead.json](./90636-bead.json) |
 | Beads of orange glass | 205106 | [205106-beads-of-orange-glass.json](./205106-beads-of-orange-glass.json) |
 | BeadsPopper | 258827 | [258827-beadspopper.json](./258827-beadspopper.json) |
+| Beak Blades | 297382 | [297382-beak-blades.json](./297382-beak-blades.json) |
 | Beak Island Visitor Center | 339964 | [339964-beak-island-visitor-center.json](./339964-beak-island-visitor-center.json) |
 | Beak Squadron | 113233 | [113233-beak-squadron.json](./113233-beak-squadron.json) |
 | Beaked Buccaneer | 302070 | [302070-beaked-buccaneer.json](./302070-beaked-buccaneer.json) |
