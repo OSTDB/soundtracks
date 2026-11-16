@@ -3489,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid Army | 389485 | [389485-vivid-army.json](./389485-vivid-army.json) |
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
 | Vivid Days | 418076 | [418076-vivid-days.json](./418076-vivid-days.json) |
+| Vivid Dolls | 306823 | [306823-vivid-dolls.json](./306823-vivid-dolls.json) |
 | Vivid Intrusion | 399379 | [399379-vivid-intrusion.json](./399379-vivid-intrusion.json) |
 | Vivid Knight | 148301 | [148301-vivid-knight.json](./148301-vivid-knight.json) |
 | Vivid Relapse | 232239 | [232239-vivid-relapse.json](./232239-vivid-relapse.json) |
