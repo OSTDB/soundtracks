@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Woods | 275656 | [275656-emerald-woods.json](./275656-emerald-woods.json) |
 | Emeraldia | 83423 | [83423-emeraldia.json](./83423-emeraldia.json) |
 | Emeraldium | 294207 | [294207-emeraldium.json](./294207-emeraldium.json) |
+| Emerge | 262710 | [262710-emerge.json](./262710-emerge.json) |
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
 | Emergence | 130878 | [130878-emergence.json](./130878-emergence.json) |
