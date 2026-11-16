@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope | 81780 | [81780-last-hope.json](./81780-last-hope.json) |
 | Last Hope - Tower Defense | 33735 | [33735-last-hope-tower-defense.json](./33735-last-hope-tower-defense.json) |
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
+| Last Hope Bunker: Zombie Survival | 258226 | [258226-last-hope-bunker-zombie-survival.json](./258226-last-hope-bunker-zombie-survival.json) |
 | Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
 | Last Hope Sniper | 208218 | [208218-last-hope-sniper.json](./208218-last-hope-sniper.json) |
 | Last Hope Z - VR | 117822 | [117822-last-hope-z-vr.json](./117822-last-hope-z-vr.json) |
@@ -7239,6 +7240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live checkpoint | 127677 | [127677-live-checkpoint.json](./127677-live-checkpoint.json) |
 | Live Cycling Manager 2 | 197760 | [197760-live-cycling-manager-2.json](./197760-live-cycling-manager-2.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
+| Live Cycling Manager 2023 | 255314 | [255314-live-cycling-manager-2023.json](./255314-live-cycling-manager-2023.json) |
 | Live Day | 302320 | [302320-live-day.json](./302320-live-day.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live Factory | 238119 | [238119-live-factory.json](./238119-live-factory.json) |
@@ -8528,6 +8530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopsters | 367079 | [367079-loopsters.json](./367079-loopsters.json) |
 | Loopstructor | 296978 | [296978-loopstructor.json](./296978-loopstructor.json) |
 | Looptide | 386912 | [386912-looptide.json](./386912-looptide.json) |
+| Loopush | 258163 | [258163-loopush.json](./258163-loopush.json) |
 | Loopwood | 274670 | [274670-loopwood.json](./274670-loopwood.json) |
 | LoopWorlds Free | 106761 | [106761-loopworlds-free.json](./106761-loopworlds-free.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
@@ -11306,6 +11309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LuoYang | 291278 | [291278-luoyang.json](./291278-luoyang.json) |
 | Lup | 34161 | [34161-lup.json](./34161-lup.json) |
 | Lupa | 190319 | [190319-lupa.json](./190319-lupa.json) |
+| Lupin 3sei | 255401 | [255401-lupin-3sei.json](./255401-lupin-3sei.json) |
 | Lupin III | 290867 | [290867-lupin-iii.json](./290867-lupin-iii.json) |
 | Lupin III | 46760 | [46760-lupin-iii.json](./46760-lupin-iii.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
