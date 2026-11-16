@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Feet Two | 345552 | [345552-happy-feet-two.json](./345552-happy-feet-two.json) |
 | Happy Feet Two: Erik's Adventure | 65354 | [65354-happy-feet-two-eriks-adventure.json](./65354-happy-feet-two-eriks-adventure.json) |
 | Happy Fishing | 61559 | [61559-happy-fishing.json](./61559-happy-fishing.json) |
+| Happy Flappy | 341719 | [341719-happy-flappy.json](./341719-happy-flappy.json) |
 | Happy Flip Cube | 204827 | [204827-happy-flip-cube.json](./204827-happy-flip-cube.json) |
 | Happy Fox | 89280 | [89280-happy-fox.json](./89280-happy-fox.json) |
 | Happy Fret | 92695 | [92695-happy-fret.json](./92695-happy-fret.json) |
@@ -12496,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
 | Hounded | 347083 | [347083-hounded.json](./347083-hounded.json) |
 | Hounds: The Last Hope | 35373 | [35373-hounds-the-last-hope.json](./35373-hounds-the-last-hope.json) |
+| Hounimal | 341720 | [341720-hounimal.json](./341720-hounimal.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of Redemption | 379785 | [379785-hour-of-redemption.json](./379785-hour-of-redemption.json) |
 | Hour of Survival: Zombie Craft | 309913 | [309913-hour-of-survival-zombie-craft.json](./309913-hour-of-survival-zombie-craft.json) |
