@@ -1471,6 +1471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Empyrean | 119348 | [119348-warframe-empyrean.json](./119348-warframe-empyrean.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Iceblade of Narin | 419360 | [419360-warframe-iceblade-of-narin.json](./419360-warframe-iceblade-of-narin.json) |
+| Warframe: Initiate Pack | 223713 | [223713-warframe-initiate-pack.json](./223713-warframe-initiate-pack.json) |
+| Warframe: Initiate Pack II | 223714 | [223714-warframe-initiate-pack-ii.json](./223714-warframe-initiate-pack-ii.json) |
 | Warframe: Initiate Power Pack | 374143 | [374143-warframe-initiate-power-pack.json](./374143-warframe-initiate-power-pack.json) |
 | Warframe: Isleweaver | 421816 | [421816-warframe-isleweaver.json](./421816-warframe-isleweaver.json) |
 | Warframe: Jade Chorus Pack | 318444 | [318444-warframe-jade-chorus-pack.json](./318444-warframe-jade-chorus-pack.json) |
@@ -1485,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Sanctuary | 202147 | [202147-warframe-sanctuary.json](./202147-warframe-sanctuary.json) |
 | Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Sisters of Parvos | 198686 | [198686-warframe-sisters-of-parvos.json](./198686-warframe-sisters-of-parvos.json) |
+| Warframe: Sisters of Parvos Riptid Pack | 223710 | [223710-warframe-sisters-of-parvos-riptid-pack.json](./223710-warframe-sisters-of-parvos-riptid-pack.json) |
 | Warframe: Sisters of Parvos Waverider Pack | 227081 | [227081-warframe-sisters-of-parvos-waverider-pack.json](./227081-warframe-sisters-of-parvos-waverider-pack.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
 | Warframe: TennoCon 2024 Digital Pack | 294972 | [294972-warframe-tennocon-2024-digital-pack.json](./294972-warframe-tennocon-2024-digital-pack.json) |
@@ -1493,6 +1496,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Jovian Concord | 198496 | [198496-warframe-the-jovian-concord.json](./198496-warframe-the-jovian-concord.json) |
 | Warframe: The Mad Cephalon | 201162 | [201162-warframe-the-mad-cephalon.json](./201162-warframe-the-mad-cephalon.json) |
 | Warframe: The New War | 187118 | [187118-warframe-the-new-war.json](./187118-warframe-the-new-war.json) |
+| Warframe: The New War - Reckoning Pack | 223712 | [223712-warframe-the-new-war-reckoning-pack.json](./223712-warframe-the-new-war-reckoning-pack.json) |
+| Warframe: The New War - Resistance Pack | 223711 | [223711-warframe-the-new-war-resistance-pack.json](./223711-warframe-the-new-war-resistance-pack.json) |
 | Warframe: The Old Blood | 198498 | [198498-warframe-the-old-blood.json](./198498-warframe-the-old-blood.json) |
 | Warframe: The Old Peace | 356126 | [356126-warframe-the-old-peace.json](./356126-warframe-the-old-peace.json) |
 | Warframe: The Sacrifice | 103321 | [103321-warframe-the-sacrifice.json](./103321-warframe-the-sacrifice.json) |
@@ -3231,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari REROLL+ Royal Reverie: Special Edition | 251688 | [251688-we-love-katamari-reroll-royal-reverie-special-edition.json](./251688-we-love-katamari-reroll-royal-reverie-special-edition.json) |
 | We Love Mind Control Rocket | 358725 | [358725-we-love-mind-control-rocket.json](./358725-we-love-mind-control-rocket.json) |
 | We Met in May | 119482 | [119482-we-met-in-may.json](./119482-we-met-in-may.json) |
+| We Might Die | 224732 | [224732-we-might-die.json](./224732-we-might-die.json) |
 | We Must Praise Our Glorious Leader the Flumf | 111403 | [111403-we-must-praise-our-glorious-leader-the-flumf.json](./111403-we-must-praise-our-glorious-leader-the-flumf.json) |
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need More Guns | 277778 | [277778-we-need-more-guns.json](./277778-we-need-more-guns.json) |
