@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes Of The City | 393443 | [393443-echoes-of-the-city.json](./393443-echoes-of-the-city.json) |
 | Echoes of the Core | 365840 | [365840-echoes-of-the-core.json](./365840-echoes-of-the-core.json) |
 | Echoes of the Court | 366349 | [366349-echoes-of-the-court.json](./366349-echoes-of-the-court.json) |
+| Echoes of the Cove | 381480 | [381480-echoes-of-the-cove.json](./381480-echoes-of-the-cove.json) |
 | Echoes of The Deep | 294501 | [294501-echoes-of-the-deep.json](./294501-echoes-of-the-deep.json) |
 | Echoes of the Divine Tree | 336763 | [336763-echoes-of-the-divine-tree.json](./336763-echoes-of-the-divine-tree.json) |
 | Echoes of the Emergent | 288686 | [288686-echoes-of-the-emergent.json](./288686-echoes-of-the-emergent.json) |
@@ -1882,6 +1883,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egnaro | 209769 | [209769-egnaro.json](./209769-egnaro.json) |
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
 | Ego | 113129 | [113129-ego.json](./113129-ego.json) |
+| Ego | 380308 | [380308-ego.json](./380308-ego.json) |
+| Ego | 380309 | [380309-ego.json](./380309-ego.json) |
 | Ego :: Exit Protocol | 368285 | [368285-ego-exit-protocol.json](./368285-ego-exit-protocol.json) |
 | Ego Death | 158364 | [158364-ego-death.json](./158364-ego-death.json) |
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
@@ -1911,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egret II Mini: Arcade Memories Vol. I | 229835 | [229835-egret-ii-mini-arcade-memories-vol-i.json](./229835-egret-ii-mini-arcade-memories-vol-i.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
 | Egria: Guardian Sword II | 65726 | [65726-egria-guardian-sword-ii.json](./65726-egria-guardian-sword-ii.json) |
+| Egypt | 380310 | [380310-egypt.json](./380310-egypt.json) |
 | Egypt | 94952 | [94952-egypt.json](./94952-egypt.json) |
 | Egypt 1156 B.C.: Tomb of the Pharaoh | 50398 | [50398-egypt-1156-b-c-tomb-of-the-pharaoh.json](./50398-egypt-1156-b-c-tomb-of-the-pharaoh.json) |
 | Egypt Blocks Puzzle | 180038 | [180038-egypt-blocks-puzzle.json](./180038-egypt-blocks-puzzle.json) |
@@ -2208,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elandrake | 421837 | [421837-elandrake.json](./421837-elandrake.json) |
 | Elansar | 33705 | [33705-elansar.json](./33705-elansar.json) |
 | Elara | 273768 | [273768-elara.json](./273768-elara.json) |
+| Elara | 380313 | [380313-elara.json](./380313-elara.json) |
 | Elara and the Machine | 370169 | [370169-elara-and-the-machine.json](./370169-elara-and-the-machine.json) |
 | Elara's Light | 318127 | [318127-elaras-light.json](./318127-elaras-light.json) |
 | Elarel | 83922 | [83922-elarel.json](./83922-elarel.json) |
@@ -2429,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElectricScribe | 44222 | [44222-electricscribe.json](./44222-electricscribe.json) |
 | ElectricVLab | 107367 | [107367-electricvlab.json](./107367-electricvlab.json) |
 | Electrified | 168238 | [168238-electrified.json](./168238-electrified.json) |
+| Electrified | 380312 | [380312-electrified.json](./380312-electrified.json) |
 | Electrify | 167503 | [167503-electrify.json](./167503-electrify.json) |
 | ElectriX: Electro Mechanic Simulator | 37411 | [37411-electrix-electro-mechanic-simulator.json](./37411-electrix-electro-mechanic-simulator.json) |
 | Electro Air Hockey | 323960 | [323960-electro-air-hockey.json](./323960-electro-air-hockey.json) |
@@ -2553,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
 | Elemensional Rift | 123261 | [123261-elemensional-rift.json](./123261-elemensional-rift.json) |
+| Elemensional Rift | 380311 | [380311-elemensional-rift.json](./380311-elemensional-rift.json) |
 | Element | 339732 | [339732-element.json](./339732-element.json) |
 | Element | 33996 | [33996-element.json](./33996-element.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
@@ -3135,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elong Plug | 235686 | [235686-elong-plug.json](./235686-elong-plug.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
 | Eloquent | 339742 | [339742-eloquent.json](./339742-eloquent.json) |
+| Eloquent | 380314 | [380314-eloquent.json](./380314-eloquent.json) |
 | Eloquent Countenance | 200531 | [200531-eloquent-countenance.json](./200531-eloquent-countenance.json) |
 | Eloriasha | 242751 | [242751-eloriasha.json](./242751-eloriasha.json) |
 | Elowen's Light | 217042 | [217042-elowens-light.json](./217042-elowens-light.json) |
@@ -3155,6 +3163,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere | 182783 | [182783-elsewhere.json](./182783-elsewhere.json) |
+| Elsewhere | 380315 | [380315-elsewhere.json](./380315-elsewhere.json) |
+| Elsewhere | 380316 | [380316-elsewhere.json](./380316-elsewhere.json) |
 | Elsewhere | 407070 | [407070-elsewhere.json](./407070-elsewhere.json) |
 | Elsewhere Battles | 429757 | [429757-elsewhere-battles.json](./429757-elsewhere-battles.json) |
 | Elsewhere Electric | 336146 | [336146-elsewhere-electric.json](./336146-elsewhere-electric.json) |
@@ -3346,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberglass | 154983 | [154983-emberglass.json](./154983-emberglass.json) |
 | Emberheart | 129760 | [129760-emberheart.json](./129760-emberheart.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
+| Emberhold | 380317 | [380317-emberhold.json](./380317-emberhold.json) |
 | Emberlight | 118207 | [118207-emberlight.json](./118207-emberlight.json) |
 | Emberlight | 344271 | [344271-emberlight.json](./344271-emberlight.json) |
 | Emberline | 402588 | [402588-emberline.json](./402588-emberline.json) |
@@ -3423,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Eyes | 168394 | [168394-emerald-eyes.json](./168394-emerald-eyes.json) |
 | Emerald Fighters | 321922 | [321922-emerald-fighters.json](./321922-emerald-fighters.json) |
 | Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
+| Emerald Geography | 384436 | [384436-emerald-geography.json](./384436-emerald-geography.json) |
 | Emerald Glazed Bundle | 82383 | [82383-emerald-glazed-bundle.json](./82383-emerald-glazed-bundle.json) |
 | Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
 | Emerald Huntress | 379298 | [379298-emerald-huntress.json](./379298-emerald-huntress.json) |
@@ -3519,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerland Solitaire Journey | 99099 | [99099-emerland-solitaire-journey.json](./99099-emerland-solitaire-journey.json) |
 | Emerland Solitaire: Endless Journey | 32079 | [32079-emerland-solitaire-endless-journey.json](./32079-emerland-solitaire-endless-journey.json) |
 | Emery | 261672 | [261672-emery.json](./261672-emery.json) |
+| Emery | 380320 | [380320-emery.json](./380320-emery.json) |
 | Emery Hearts | 286226 | [286226-emery-hearts.json](./286226-emery-hearts.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
 | EmFPS | 93882 | [93882-emfps.json](./93882-emfps.json) |
@@ -4218,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dream | 253341 | [253341-endless-dream.json](./253341-endless-dream.json) |
 | Endless Dream | 55547 | [55547-endless-dream.json](./55547-endless-dream.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
+| Endless Drive | 380319 | [380319-endless-drive.json](./380319-endless-drive.json) |
 | Endless Dungeon: Day One Edition | 234210 | [234210-endless-dungeon-day-one-edition.json](./234210-endless-dungeon-day-one-edition.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
 | Endless Dungeon: Last Wish Edition | 263319 | [263319-endless-dungeon-last-wish-edition.json](./263319-endless-dungeon-last-wish-edition.json) |
@@ -4409,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless wandering | 182770 | [182770-endless-wandering.json](./182770-endless-wandering.json) |
 | Endless War | 190829 | [190829-endless-war.json](./190829-endless-war.json) |
 | Endless War | 234911 | [234911-endless-war.json](./234911-endless-war.json) |
+| Endless War | 380318 | [380318-endless-war.json](./380318-endless-war.json) |
 | Endless War 2 | 234916 | [234916-endless-war-2.json](./234916-endless-war-2.json) |
 | Endless War 3 | 234920 | [234920-endless-war-3.json](./234920-endless-war-3.json) |
 | Endless War 4 | 234921 | [234921-endless-war-4.json](./234921-endless-war-4.json) |
@@ -4646,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnHanced | 110901 | [110901-enhanced.json](./110901-enhanced.json) |
 | Enhanced Celestials | 334025 | [334025-enhanced-celestials.json](./334025-enhanced-celestials.json) |
 | Enhanced Militarized Zone | 362474 | [362474-enhanced-militarized-zone.json](./362474-enhanced-militarized-zone.json) |
+| Enhanced: Vengeance | 380322 | [380322-enhanced-vengeance.json](./380322-enhanced-vengeance.json) |
 | Enhansa Edition | 330677 | [330677-enhansa-edition.json](./330677-enhansa-edition.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
 | Enherjar Synergy: Aplankhan & Sioykos | 192156 | [192156-enherjar-synergy-aplankhan-and-sioykos.json](./192156-enherjar-synergy-aplankhan-and-sioykos.json) |
@@ -4871,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enthusia: Professional Racing | 19818 | [19818-enthusia-professional-racing.json](./19818-enthusia-professional-racing.json) |
 | Entities | 264921 | [264921-entities.json](./264921-entities.json) |
 | Entities | 273969 | [273969-entities.json](./273969-entities.json) |
+| Entities | 380323 | [380323-entities.json](./380323-entities.json) |
 | Entities Declassified: Winter Hungers | 427822 | [427822-entities-declassified-winter-hungers.json](./427822-entities-declassified-winter-hungers.json) |
 | Entities' Repose | 298820 | [298820-entities-repose.json](./298820-entities-repose.json) |
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
@@ -4917,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy | 339755 | [339755-entropy.json](./339755-entropy.json) |
 | Entropy | 344255 | [344255-entropy.json](./344255-entropy.json) |
 | Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
+| Entropy | 380327 | [380327-entropy.json](./380327-entropy.json) |
 | Entropy | 388659 | [388659-entropy.json](./388659-entropy.json) |
 | Entropy | 402532 | [402532-entropy.json](./402532-entropy.json) |
 | Entropy | 402533 | [402533-entropy.json](./402533-entropy.json) |
@@ -4933,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy's Fall | 27592 | [27592-entropys-fall.json](./27592-entropys-fall.json) |
 | Entry | 207567 | [207567-entry.json](./207567-entry.json) |
 | Entry Denied | 347499 | [347499-entry-denied.json](./347499-entry-denied.json) |
+| Entry Denied | 380326 | [380326-entry-denied.json](./380326-entry-denied.json) |
 | Entschuldigung | 30087 | [30087-entschuldigung.json](./30087-entschuldigung.json) |
 | Entwine | 318349 | [318349-entwine.json](./318349-entwine.json) |
 | Entwined | 7380 | [7380-entwined.json](./7380-entwined.json) |
@@ -5023,8 +5042,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemera | 161567 | [161567-ephemera.json](./161567-ephemera.json) |
 | Ephemera of Evalynn Cott | 135494 | [135494-ephemera-of-evalynn-cott.json](./135494-ephemera-of-evalynn-cott.json) |
 | Ephemeral | 184354 | [184354-ephemeral.json](./184354-ephemeral.json) |
+| Ephemeral | 380325 | [380325-ephemeral.json](./380325-ephemeral.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
+| Ephemeral Frame | 381481 | [381481-ephemeral-frame.json](./381481-ephemeral-frame.json) |
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Night | 339757 | [339757-ephemeral-night.json](./339757-ephemeral-night.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
@@ -5483,8 +5504,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erewhon | 422708 | [422708-erewhon.json](./422708-erewhon.json) |
 | Ergastulum | 75580 | [75580-ergastulum.json](./75580-ergastulum.json) |
 | Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
+| Ergenekon | 380324 | [380324-ergenekon.json](./380324-ergenekon.json) |
 | Ergo | 152799 | [152799-ergo.json](./152799-ergo.json) |
 | Ergo Sum | 354816 | [354816-ergo-sum.json](./354816-ergo-sum.json) |
+| Ergo Sum | 380321 | [380321-ergo-sum.json](./380321-ergo-sum.json) |
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
 | Eric & Yannik X | 318519 | [318519-eric-and-yannik-x.json](./318519-eric-and-yannik-x.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
@@ -5873,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Hard Drive | 193020 | [193020-escape-from-hard-drive.json](./193020-escape-from-hard-drive.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
 | Escape from Heaven | 183808 | [183808-escape-from-heaven.json](./183808-escape-from-heaven.json) |
+| Escape From Hell | 380328 | [380328-escape-from-hell.json](./380328-escape-from-hell.json) |
 | Escape From Hell | 71681 | [71681-escape-from-hell.json](./71681-escape-from-hell.json) |
 | Escape from Helltowers | 346891 | [346891-escape-from-helltowers.json](./346891-escape-from-helltowers.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
@@ -6023,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
 | Escape From The Island | 295066 | [295066-escape-from-the-island.json](./295066-escape-from-the-island.json) |
+| Escape From The Island | 380330 | [380330-escape-from-the-island.json](./380330-escape-from-the-island.json) |
 | Escape from the Lockdown: The Demon Fortress | 166061 | [166061-escape-from-the-lockdown-the-demon-fortress.json](./166061-escape-from-the-lockdown-the-demon-fortress.json) |
 | Escape from the Lost World | 133676 | [133676-escape-from-the-lost-world.json](./133676-escape-from-the-lost-world.json) |
 | Escape from the Marble Monster | 216733 | [216733-escape-from-the-marble-monster.json](./216733-escape-from-the-marble-monster.json) |
@@ -6327,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Kreegan | 295226 | [295226-escape-the-kreegan.json](./295226-escape-the-kreegan.json) |
 | Escape the Lab | 126938 | [126938-escape-the-lab.json](./126938-escape-the-lab.json) |
 | Escape the Labyrinth | 109317 | [109317-escape-the-labyrinth.json](./109317-escape-the-labyrinth.json) |
+| Escape The Labyrinth | 380331 | [380331-escape-the-labyrinth.json](./380331-escape-the-labyrinth.json) |
 | Escape the Laser Trap | 332926 | [332926-escape-the-laser-trap.json](./332926-escape-the-laser-trap.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
@@ -6377,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Virus: Swarm Survival | 23678 | [23678-escape-the-virus-swarm-survival.json](./23678-escape-the-virus-swarm-survival.json) |
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
+| Escape the Void | 380332 | [380332-escape-the-void.json](./380332-escape-the-void.json) |
 | Escape The Void | 302196 | [302196-escape-the-void.json](./302196-escape-the-void.json) |
 | Escape The Zoo | 424699 | [424699-escape-the-zoo.json](./424699-escape-the-zoo.json) |
 | Escape This | 32762 | [32762-escape-this.json](./32762-escape-this.json) |
@@ -6690,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence Defenders | 102288 | [102288-essence-defenders.json](./102288-essence-defenders.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
+| Essence Hunters | 384446 | [384446-essence-hunters.json](./384446-essence-hunters.json) |
 | Essence of Illumination: The Beginning | 89672 | [89672-essence-of-illumination-the-beginning.json](./89672-essence-of-illumination-the-beginning.json) |
 | Essence of the Tjikko | 191491 | [191491-essence-of-the-tjikko.json](./191491-essence-of-the-tjikko.json) |
 | Essence of Time | 149115 | [149115-essence-of-time.json](./149115-essence-of-time.json) |
@@ -7002,6 +7030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity | 313863 | [313863-eternity.json](./313863-eternity.json) |
 | Eternity | 321453 | [321453-eternity.json](./321453-eternity.json) |
 | Eternity | 364005 | [364005-eternity.json](./364005-eternity.json) |
+| Eternity | 380333 | [380333-eternity.json](./380333-eternity.json) |
 | Eternity | 387968 | [387968-eternity.json](./387968-eternity.json) |
 | Eternity | 407870 | [407870-eternity.json](./407870-eternity.json) |
 | Eternity Breaker | 376662 | [376662-eternity-breaker.json](./376662-eternity-breaker.json) |
@@ -7987,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything Is Crab | 363945 | [363945-everything-is-crab.json](./363945-everything-is-crab.json) |
 | Everything is Crab: Supporter Pack | 400873 | [400873-everything-is-crab-supporter-pack.json](./400873-everything-is-crab-supporter-pack.json) |
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
+| Everything Is Fine | 380329 | [380329-everything-is-fine.json](./380329-everything-is-fine.json) |
 | Everything Is For Humanity | 190810 | [190810-everything-is-for-humanity.json](./190810-everything-is-for-humanity.json) |
 | Everything is Garbage | 140390 | [140390-everything-is-garbage.json](./140390-everything-is-garbage.json) |
 | Everything is Going to be OK | 75861 | [75861-everything-is-going-to-be-ok.json](./75861-everything-is-going-to-be-ok.json) |
@@ -8116,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Journey: Plan A | 263639 | [263639-evil-journey-plan-a.json](./263639-evil-journey-plan-a.json) |
 | Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
 | Evil Lands | 120564 | [120564-evil-lands.json](./120564-evil-lands.json) |
+| Evil Leafy Maze Game: Deluxe | 381491 | [381491-evil-leafy-maze-game-deluxe.json](./381491-evil-leafy-maze-game-deluxe.json) |
 | Evil Lurks Below | 340161 | [340161-evil-lurks-below.json](./340161-evil-lurks-below.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Mansion | 172924 | [172924-evil-mansion.json](./172924-evil-mansion.json) |
@@ -8254,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoke | 111613 | [111613-evoke.json](./111613-evoke.json) |
 | Evoke | 199211 | [199211-evoke.json](./199211-evoke.json) |
+| Evoker | 380340 | [380340-evoker.json](./380340-evoker.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | Evol Online | 122784 | [122784-evol-online.json](./122784-evol-online.json) |
 | Evoland | 2029 | [2029-evoland.json](./2029-evoland.json) |
@@ -8629,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existential Dilogy | 199819 | [199819-existential-dilogy.json](./199819-existential-dilogy.json) |
 | Existential Dread | 265996 | [265996-existential-dread.json](./265996-existential-dread.json) |
 | Exit | 21938 | [21938-exit.json](./21938-exit.json) |
+| Exit | 380337 | [380337-exit.json](./380337-exit.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
 | Exit 2 | 195319 | [195319-exit-2.json](./195319-exit-2.json) |
@@ -8799,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoMiner | 208197 | [208197-exominer.json](./208197-exominer.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
 | Exon | 239375 | [239375-exon.json](./239375-exon.json) |
+| Exon | 380338 | [380338-exon.json](./380338-exon.json) |
 | Exone Rift | 383671 | [383671-exone-rift.json](./383671-exone-rift.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
@@ -8854,6 +8888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
 | Exorcism:Nuo Rituals | 390564 | [390564-exorcism-nuo-rituals.json](./390564-exorcism-nuo-rituals.json) |
 | Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
+| Exorcist | 380339 | [380339-exorcist.json](./380339-exorcist.json) |
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
 | Exorcist | 54011 | [54011-exorcist.json](./54011-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
@@ -8887,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exostation | 224303 | [224303-exostation.json](./224303-exostation.json) |
 | Exostorm | 35725 | [35725-exostorm.json](./35725-exostorm.json) |
 | Exosuit | 290864 | [290864-exosuit.json](./290864-exosuit.json) |
+| Exosystem | 380335 | [380335-exosystem.json](./380335-exosystem.json) |
 | ExoSystem | 10425 | [10425-exosystem.json](./10425-exosystem.json) |
 | Exot | 338041 | [338041-exot.json](./338041-exot.json) |
 | ExoTanks MOBA | 119528 | [119528-exotanks-moba.json](./119528-exotanks-moba.json) |
@@ -9176,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extermination | 10914 | [10914-extermination.json](./10914-extermination.json) |
 | Extermination | 130828 | [130828-extermination.json](./130828-extermination.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
+| Extermination | 380336 | [380336-extermination.json](./380336-extermination.json) |
 | Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
 | Extermination Cars Stadium | 219402 | [219402-extermination-cars-stadium.json](./219402-extermination-cars-stadium.json) |
 | Extermination Day | 256703 | [256703-extermination-day.json](./256703-extermination-day.json) |
@@ -9611,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
 | Ezekial S. Jackson's Amazing Truckology | 201743 | [201743-ezekial-s-jacksons-amazing-truckology.json](./201743-ezekial-s-jacksons-amazing-truckology.json) |
 | Ezekiel | 273722 | [273722-ezekiel.json](./273722-ezekiel.json) |
+| Ezekiel | 380334 | [380334-ezekiel.json](./380334-ezekiel.json) |
 | Ezekiel: Noa and the Automaton Urbis | 398495 | [398495-ezekiel-noa-and-the-automaton-urbis.json](./398495-ezekiel-noa-and-the-automaton-urbis.json) |
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
 | Ezerath Mini | 286558 | [286558-ezerath-mini.json](./286558-ezerath-mini.json) |
