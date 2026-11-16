@@ -2531,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
 | Maidlien | 130587 | [130587-maidlien.json](./130587-maidlien.json) |
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
+| Maido Hanafuda | 222429 | [222429-maido-hanafuda.json](./222429-maido-hanafuda.json) |
 | Maido Hebo Shogi | 222199 | [222199-maido-hebo-shogi.json](./222199-maido-hebo-shogi.json) |
 | Maido Manie | 274858 | [274858-maido-manie.json](./274858-maido-manie.json) |
 | Maids Girls | 389773 | [389773-maids-girls.json](./389773-maids-girls.json) |
@@ -3670,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of Memories | 266097 | [266097-mansion-of-memories.json](./266097-mansion-of-memories.json) |
 | Mansion of Relics | 420047 | [420047-mansion-of-relics.json](./420047-mansion-of-relics.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
+| Mansion Percussion | 222433 | [222433-mansion-percussion.json](./222433-mansion-percussion.json) |
 | Mansion Restorator | 309769 | [309769-mansion-restorator.json](./309769-mansion-restorator.json) |
 | Mansion Tour | 225561 | [225561-mansion-tour.json](./225561-mansion-tour.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
@@ -11039,6 +11041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Fatigue | 24128 | [24128-metal-fatigue.json](./24128-metal-fatigue.json) |
 | Metal Fight Beyblade DS | 69169 | [69169-metal-fight-beyblade-ds.json](./69169-metal-fight-beyblade-ds.json) |
 | Metal Fight Beyblade Portable: Chouzetsu Tensei! Vulcan Horuseus | 65197 | [65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json](./65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json) |
+| Metal Fight Beyblade: 4D x Zero-G Ultimate Tournament | 222495 | [222495-metal-fight-beyblade-4d-x-zero-g-ultimate-tournament.json](./222495-metal-fight-beyblade-4d-x-zero-g-ultimate-tournament.json) |
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
 | Metal Fighter | 48171 | [48171-metal-fighter.json](./48171-metal-fighter.json) |
 | Metal Fighter Miku | 107633 | [107633-metal-fighter-miku.json](./107633-metal-fighter-miku.json) |
@@ -15067,6 +15070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna Atsumore! Igo Kyoushitsu | 377944 | [377944-minna-atsumore-igo-kyoushitsu.json](./377944-minna-atsumore-igo-kyoushitsu.json) |
 | Minna de Asobo: Shanghai DS 2 | 71570 | [71570-minna-de-asobo-shanghai-ds-2.json](./71570-minna-de-asobo-shanghai-ds-2.json) |
 | Minna de Asobou: Koinu de Kururin | 408865 | [408865-minna-de-asobou-koinu-de-kururin.json](./408865-minna-de-asobou-koinu-de-kururin.json) |
+| Minna de Auto Racing 3D | 222432 | [222432-minna-de-auto-racing-3d.json](./222432-minna-de-auto-racing-3d.json) |
 | Minna De Daifugo | 222446 | [222446-minna-de-daifugo.json](./222446-minna-de-daifugo.json) |
 | Minna de Hayaoshi Quiz | 238971 | [238971-minna-de-hayaoshi-quiz.json](./238971-minna-de-hayaoshi-quiz.json) |
 | Minna de Jibun no Setsumeisho: B-Kata, A-Kata, AB-Kata, O-Kata | 92353 | [92353-minna-de-jibun-no-setsumeisho-b-kata-a-kata-ab-kata-o-kata.json](./92353-minna-de-jibun-no-setsumeisho-b-kata-a-kata-ab-kata-o-kata.json) |
@@ -22262,6 +22266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama HD | 47442 | [47442-mushihimesama-hd.json](./47442-mushihimesama-hd.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushijingi: Mezase! Saikyou no Mushinushi | 377529 | [377529-mushijingi-mezase-saikyou-no-mushinushi.json](./377529-mushijingi-mezase-saikyou-no-mushinushi.json) |
+| Mushikera Sensha | 222439 | [222439-mushikera-sensha.json](./222439-mushikera-sensha.json) |
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
 | Mushishi: Amefuru Sato | 147012 | [147012-mushishi-amefuru-sato.json](./147012-mushishi-amefuru-sato.json) |
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
