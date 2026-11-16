@@ -4515,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2024 Edition | 252986 | [252986-just-dance-2024-edition.json](./252986-just-dance-2024-edition.json) |
 | Just Dance 2024 Edition: Deluxe Edition | 272411 | [272411-just-dance-2024-edition-deluxe-edition.json](./272411-just-dance-2024-edition-deluxe-edition.json) |
 | Just Dance 2024 Edition: Ultimate Edition | 272412 | [272412-just-dance-2024-edition-ultimate-edition.json](./272412-just-dance-2024-edition-ultimate-edition.json) |
+| Just Dance 2025 Edition | 306150 | [306150-just-dance-2025-edition.json](./306150-just-dance-2025-edition.json) |
 | Just Dance 2025: Deluxe Edition | 320685 | [320685-just-dance-2025-deluxe-edition.json](./320685-just-dance-2025-deluxe-edition.json) |
 | Just Dance 2025: Ultimate Edition | 320686 | [320686-just-dance-2025-ultimate-edition.json](./320686-just-dance-2025-ultimate-edition.json) |
 | Just Dance 2026 Edition | 358527 | [358527-just-dance-2026-edition.json](./358527-just-dance-2026-edition.json) |
