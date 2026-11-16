@@ -14264,7 +14264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Wild Tides | 106494 | [106494-miner-ultra-wild-tides.json](./106494-miner-ultra-wild-tides.json) |
 | Miner Vidis | 305681 | [305681-miner-vidis.json](./305681-miner-vidis.json) |
 | Miner Warfare | 35667 | [35667-miner-warfare.json](./35667-miner-warfare.json) |
-| Miner Wars 2081 | 10550 | [10550-miner-wars-2081.json](./10550-miner-wars-2081.json) |
 | Miner Wars Arena | 16409 | [16409-miner-wars-arena.json](./16409-miner-wars-arena.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Miner's Delight + | 348597 | [348597-miners-delight.json](./348597-miners-delight.json) |
