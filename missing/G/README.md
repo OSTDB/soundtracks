@@ -11740,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Dungeoneering: Pirates Cove Adventure Pack | 155287 | [155287-guild-of-dungeoneering-pirates-cove-adventure-pack.json](./155287-guild-of-dungeoneering-pirates-cove-adventure-pack.json) |
 | Guild of Dungeoneering: Ultimate Edition | 152105 | [152105-guild-of-dungeoneering-ultimate-edition.json](./152105-guild-of-dungeoneering-ultimate-edition.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
+| Guild of Guardians | 297391 | [297391-guild-of-guardians.json](./297391-guild-of-guardians.json) |
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild of Monsters | 369175 | [369175-guild-of-monsters.json](./369175-guild-of-monsters.json) |
