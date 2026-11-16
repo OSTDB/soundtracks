@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Stock Car 2012 | 63210 | [63210-game-stock-car-2012.json](./63210-game-stock-car-2012.json) |
 | Game Stock Car 2013 | 62132 | [62132-game-stock-car-2013.json](./62132-game-stock-car-2013.json) |
 | Game Store Chronicle | 359047 | [359047-game-store-chronicle.json](./359047-game-store-chronicle.json) |
+| Game Store Cleanup | 417100 | [417100-game-store-cleanup.json](./417100-game-store-cleanup.json) |
 | Game Store Simulator | 266999 | [266999-game-store-simulator.json](./266999-game-store-simulator.json) |
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studies | 311959 | [311959-game-studies.json](./311959-game-studies.json) |
