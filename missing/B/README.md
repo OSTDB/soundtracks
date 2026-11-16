@@ -15048,6 +15048,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Ultimate Edition | 140899 | [140899-borderlands-3-ultimate-edition.json](./140899-borderlands-3-ultimate-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
 | Borderlands 4: Bounty Pack 2 - Legend of the Stone Demon | 396307 | [396307-borderlands-4-bounty-pack-2-legend-of-the-stone-demon.json](./396307-borderlands-4-bounty-pack-2-legend-of-the-stone-demon.json) |
+| Borderlands 4: Bounty Pack 3 - A Zane to Kill For | 418471 | [418471-borderlands-4-bounty-pack-3-a-zane-to-kill-for.json](./418471-borderlands-4-bounty-pack-3-a-zane-to-kill-for.json) |
+| Borderlands 4: Bounty Pack 4 - Murders & Acquisitions | 418472 | [418472-borderlands-4-bounty-pack-4-murders-and-acquisitions.json](./418472-borderlands-4-bounty-pack-4-murders-and-acquisitions.json) |
+| Borderlands 4: Bounty Pack 5 - Amara and the Vile Shadows | 418474 | [418474-borderlands-4-bounty-pack-5-amara-and-the-vile-shadows.json](./418474-borderlands-4-bounty-pack-5-amara-and-the-vile-shadows.json) |
 | Borderlands 4: Firehawk's Fury Weapon Skin | 368181 | [368181-borderlands-4-firehawks-fury-weapon-skin.json](./368181-borderlands-4-firehawks-fury-weapon-skin.json) |
 | Borderlands 4: Gilded Glory Pack | 396327 | [396327-borderlands-4-gilded-glory-pack.json](./396327-borderlands-4-gilded-glory-pack.json) |
 | Borderlands 4: Ornate Order Pack | 368179 | [368179-borderlands-4-ornate-order-pack.json](./368179-borderlands-4-ornate-order-pack.json) |
@@ -20037,6 +20040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shop HD | 88997 | [88997-burger-shop-hd.json](./88997-burger-shop-hd.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
 | Burger Shot | 362186 | [362186-burger-shot.json](./362186-burger-shot.json) |
+| Burger Smash | 418488 | [418488-burger-smash.json](./418488-burger-smash.json) |
 | Burger Station | 338453 | [338453-burger-station.json](./338453-burger-station.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
 | Burger Takeout | 297940 | [297940-burger-takeout.json](./297940-burger-takeout.json) |
@@ -20477,6 +20481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Shark | 157294 | [157294-business-shark.json](./157294-business-shark.json) |
 | Business Simulator | 380826 | [380826-business-simulator.json](./380826-business-simulator.json) |
 | Business Simulator 2026 | 311544 | [311544-business-simulator-2026.json](./311544-business-simulator-2026.json) |
+| Business Simulator Collection | 418346 | [418346-business-simulator-collection.json](./418346-business-simulator-collection.json) |
 | Business Superstar Idle Tycoon | 262346 | [262346-business-superstar-idle-tycoon.json](./262346-business-superstar-idle-tycoon.json) |
 | Business Tour Deluxe | 173128 | [173128-business-tour-deluxe.json](./173128-business-tour-deluxe.json) |
 | Business Tour: Crazy Heroes - Mr. and Mrs. Balloonski | 170239 | [170239-business-tour-crazy-heroes-mr-and-mrs-balloonski.json](./170239-business-tour-crazy-heroes-mr-and-mrs-balloonski.json) |
