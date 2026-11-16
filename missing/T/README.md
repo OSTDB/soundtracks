@@ -18874,6 +18874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
 | The Slugger | 94482 | [94482-the-slugger.json](./94482-the-slugger.json) |
+| The Slugs! | 418464 | [418464-the-slugs.json](./418464-the-slugs.json) |
 | The Slush Force | 235691 | [235691-the-slush-force.json](./235691-the-slush-force.json) |
 | The Sly Collection | 7458 | [7458-the-sly-collection.json](./7458-the-sly-collection.json) |
 | The Sly Fox | 122948 | [122948-the-sly-fox.json](./122948-the-sly-fox.json) |
@@ -21013,6 +21014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
 | The Wandering | 352768 | [352768-the-wandering.json](./352768-the-wandering.json) |
 | The Wandering Demon Blade | 288625 | [288625-the-wandering-demon-blade.json](./288625-the-wandering-demon-blade.json) |
+| The Wandering Earth: The Last Full Moon | 418487 | [418487-the-wandering-earth-the-last-full-moon.json](./418487-the-wandering-earth-the-last-full-moon.json) |
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
 | The Wandering Spire | 418424 | [418424-the-wandering-spire.json](./418424-the-wandering-spire.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
@@ -22435,6 +22437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinky Dailies | 380657 | [380657-thinky-dailies.json](./380657-thinky-dailies.json) |
 | Thinky Dailies: Season 1 | 388215 | [388215-thinky-dailies-season-1.json](./388215-thinky-dailies-season-1.json) |
 | Thinky Dailies: Season 2 | 393808 | [393808-thinky-dailies-season-2.json](./393808-thinky-dailies-season-2.json) |
+| Thinky Dailies: Season 4 | 418373 | [418373-thinky-dailies-season-4.json](./418373-thinky-dailies-season-4.json) |
 | Thinnest Judgment | 119991 | [119991-thinnest-judgment.json](./119991-thinnest-judgment.json) |
 | Thirayan | 201551 | [201551-thirayan.json](./201551-thirayan.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
@@ -22517,6 +22520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Game is Simple | 416121 | [416121-this-game-is-simple.json](./416121-this-game-is-simple.json) |
 | This Game is Trash | 158831 | [158831-this-game-is-trash.json](./158831-this-game-is-trash.json) |
 | This Game Might Improve Your Memory | 149695 | [149695-this-game-might-improve-your-memory.json](./149695-this-game-might-improve-your-memory.json) |
+| This Game Socks | 418450 | [418450-this-game-socks.json](./418450-this-game-socks.json) |
 | This Game Will End In 205 Clicks. | 359013 | [359013-this-game-will-end-in-205-clicks.json](./359013-this-game-will-end-in-205-clicks.json) |
 | This Girl Does Not Exist | 215727 | [215727-this-girl-does-not-exist.json](./215727-this-girl-does-not-exist.json) |
 | This Grand Life | 59250 | [59250-this-grand-life.json](./59250-this-grand-life.json) |
@@ -28206,6 +28210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Hunter Skin | 406544 | [406544-tomb-raider-hunter-skin.json](./406544-tomb-raider-hunter-skin.json) |
 | Tomb Raider: HX AP-15 | 406542 | [406542-tomb-raider-hx-ap-15.json](./406542-tomb-raider-hx-ap-15.json) |
 | Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
+| Tomb Raider: Legacy of Atlantis - Deluxe Edition | 418337 | [418337-tomb-raider-legacy-of-atlantis-deluxe-edition.json](./418337-tomb-raider-legacy-of-atlantis-deluxe-edition.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 146718 | [146718-tomb-raider-legend.json](./146718-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248535 | [248535-tomb-raider-legend.json](./248535-tomb-raider-legend.json) |
