@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazzpunk: Director's Cut | 24415 | [24415-jazzpunk-directors-cut.json](./24415-jazzpunk-directors-cut.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
 | Jazzy Billiards | 67110 | [67110-jazzy-billiards.json](./67110-jazzy-billiards.json) |
+| Jazzy the Frog Goes Home for the Holidays | 239852 | [239852-jazzy-the-frog-goes-home-for-the-holidays.json](./239852-jazzy-the-frog-goes-home-for-the-holidays.json) |
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
 | JB Hunter: Adventure | 223394 | [223394-jb-hunter-adventure.json](./223394-jb-hunter-adventure.json) |
 | JB: The Super Bass | 38167 | [38167-jb-the-super-bass.json](./38167-jb-the-super-bass.json) |
