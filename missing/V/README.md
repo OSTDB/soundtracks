@@ -3887,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voids & Vessels | 335772 | [335772-voids-and-vessels.json](./335772-voids-and-vessels.json) |
 | Voids Adrift | 144103 | [144103-voids-adrift.json](./144103-voids-adrift.json) |
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
+| Voidsayer | 287802 | [287802-voidsayer.json](./287802-voidsayer.json) |
 | Voidseekers | 253814 | [253814-voidseekers.json](./253814-voidseekers.json) |
 | Voidship: Redux | 244312 | [244312-voidship-redux.json](./244312-voidship-redux.json) |
 | Voidside | 235547 | [235547-voidside.json](./235547-voidside.json) |
