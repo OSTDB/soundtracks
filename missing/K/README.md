@@ -5601,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kofun ha Ikiteiru: Maholova Club no Shitai Sagashi | 206563 | [206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json](./206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json) |
 | Kogaion | 410646 | [410646-kogaion.json](./410646-kogaion.json) |
 | Koganei-sou to Konjiki no Agehachou | 394580 | [394580-koganei-sou-to-konjiki-no-agehachou.json](./394580-koganei-sou-to-konjiki-no-agehachou.json) |
+| Koganei-sou to Konjiki no Agehachou: First Press Limited Special Edition | 397956 | [397956-koganei-sou-to-konjiki-no-agehachou-first-press-limited-special-edition.json](./397956-koganei-sou-to-konjiki-no-agehachou-first-press-limited-special-edition.json) |
 | Koganei-sou to Konjiki no Agehachou: Sprite Limited Edition | 416020 | [416020-koganei-sou-to-konjiki-no-agehachou-sprite-limited-edition.json](./416020-koganei-sou-to-konjiki-no-agehachou-sprite-limited-edition.json) |
 | Kogarashi | 204173 | [204173-kogarashi.json](./204173-kogarashi.json) |
 | Kogasa's Lunar Fright Mission | 134848 | [134848-kogasas-lunar-fright-mission.json](./134848-kogasas-lunar-fright-mission.json) |
