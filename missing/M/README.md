@@ -7590,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha and Tank Fighting | 149365 | [149365-mecha-and-tank-fighting.json](./149365-mecha-and-tank-fighting.json) |
 | Mecha Arena | 321494 | [321494-mecha-arena.json](./321494-mecha-arena.json) |
 | Mecha Attack | 214103 | [214103-mecha-attack.json](./214103-mecha-attack.json) |
+| Mecha Blade | 236036 | [236036-mecha-blade.json](./236036-mecha-blade.json) |
 | Mecha Blitz | 274798 | [274798-mecha-blitz.json](./274798-mecha-blitz.json) |
 | Mecha Destruction | 157944 | [157944-mecha-destruction.json](./157944-mecha-destruction.json) |
 | Mecha Domination | 304957 | [304957-mecha-domination.json](./304957-mecha-domination.json) |
