@@ -5440,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Cattle Quest | 341744 | [341744-cattle-quest.json](./341744-cattle-quest.json) |
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
+| Catto Boi Collection | 366142 | [366142-catto-boi-collection.json](./366142-catto-boi-collection.json) |
 | Catto Boi Forever | 398086 | [398086-catto-boi-forever.json](./398086-catto-boi-forever.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
 | Catto Pew Pew! | 212527 | [212527-catto-pew-pew.json](./212527-catto-pew-pew.json) |
@@ -13446,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Gay Sex: Episode 3 | 297930 | [297930-college-gay-sex-episode-3.json](./297930-college-gay-sex-episode-3.json) |
 | College Gay Sex: Episode 4 | 311416 | [311416-college-gay-sex-episode-4.json](./311416-college-gay-sex-episode-4.json) |
 | College Gay Sex: Episode 5 | 338876 | [338876-college-gay-sex-episode-5.json](./338876-college-gay-sex-episode-5.json) |
+| College Gay Sex: Episode 6 | 367329 | [367329-college-gay-sex-episode-6.json](./367329-college-gay-sex-episode-6.json) |
 | College Gay Sex: Episode 7 | 371061 | [371061-college-gay-sex-episode-7.json](./371061-college-gay-sex-episode-7.json) |
 | College Gay Sex: Episode 8 | 371063 | [371063-college-gay-sex-episode-8.json](./371063-college-gay-sex-episode-8.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
