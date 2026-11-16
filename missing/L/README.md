@@ -7909,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logical Shino | 233955 | [233955-logical-shino.json](./233955-logical-shino.json) |
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
+| Logicats | 244451 | [244451-logicats.json](./244451-logicats.json) |
 | LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
 | LogicPro Adventure | 91504 | [91504-logicpro-adventure.json](./91504-logicpro-adventure.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
@@ -11340,6 +11341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LuPR: Lunar Post Recruit | 189268 | [189268-lupr-lunar-post-recruit.json](./189268-lupr-lunar-post-recruit.json) |
 | Lupus in Fabula | 41903 | [41903-lupus-in-fabula.json](./41903-lupus-in-fabula.json) |
 | Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
+| Lurch | 244436 | [244436-lurch.json](./244436-lurch.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
 | Lure | 180207 | [180207-lure.json](./180207-lure.json) |
 | Lure of the Temptress | 8482 | [8482-lure-of-the-temptress.json](./8482-lure-of-the-temptress.json) |
