@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Racing | 113213 | [113213-easy-racing.json](./113213-easy-racing.json) |
 | Easy Red | 75944 | [75944-easy-red.json](./75944-easy-red.json) |
 | Easy Red 2 | 166920 | [166920-easy-red-2.json](./166920-easy-red-2.json) |
+| Easy Red 2: Ardennes 1940 & 1944 | 272983 | [272983-easy-red-2-ardennes-1940-and-1944.json](./272983-easy-red-2-ardennes-1940-and-1944.json) |
 | Easy Red 2: Normandy | 268595 | [268595-easy-red-2-normandy.json](./268595-easy-red-2-normandy.json) |
 | Easy Red 2: Stalingrad | 231286 | [231286-easy-red-2-stalingrad.json](./231286-easy-red-2-stalingrad.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Reality: Ring of Destiny - Collector's Edition | 397139 | [397139-edge-of-reality-ring-of-destiny-collectors-edition.json](./397139-edge-of-reality-ring-of-destiny-collectors-edition.json) |
 | Edge of Reality: The Legend of Greenbush | 397151 | [397151-edge-of-reality-the-legend-of-greenbush.json](./397151-edge-of-reality-the-legend-of-greenbush.json) |
 | Edge of Reality: The Legend of Greenbush Collector's Edition | 339726 | [339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json](./339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json) |
+| Edge of Realm | 269180 | [269180-edge-of-realm.json](./269180-edge-of-realm.json) |
 | Edge of Sanity | 214504 | [214504-edge-of-sanity.json](./214504-edge-of-sanity.json) |
 | Edge of Sanity: Eldritch Edition | 331265 | [331265-edge-of-sanity-eldritch-edition.json](./331265-edge-of-sanity-eldritch-edition.json) |
 | Edge of Sanity: Supporter Pack | 324416 | [324416-edge-of-sanity-supporter-pack.json](./324416-edge-of-sanity-supporter-pack.json) |
@@ -2731,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements Voice Series vol.4 Yuri Shiratori - Rainbow Harmony | 63945 | [63945-elements-voice-series-vol-4-yuri-shiratori-rainbow-harmony.json](./63945-elements-voice-series-vol-4-yuri-shiratori-rainbow-harmony.json) |
 | Elements Voice Series Vol.5 Mariko Kouda: Welcome to the Marikotown! | 63938 | [63938-elements-voice-series-vol-5-mariko-kouda-welcome-to-the-marikotown.json](./63938-elements-voice-series-vol-5-mariko-kouda-welcome-to-the-marikotown.json) |
 | Elements: Epic Heroes | 34257 | [34257-elements-epic-heroes.json](./34257-elements-epic-heroes.json) |
+| Elements: Path of the Wizard | 272982 | [272982-elements-path-of-the-wizard.json](./272982-elements-path-of-the-wizard.json) |
 | Elements: Soul of Fire | 35972 | [35972-elements-soul-of-fire.json](./35972-elements-soul-of-fire.json) |
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementum | 80768 | [80768-elementum.json](./80768-elementum.json) |
@@ -3400,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embershade | 323259 | [323259-embershade.json](./323259-embershade.json) |
 | EmberStride | 374137 | [374137-emberstride.json](./374137-emberstride.json) |
 | Embervale.TV | 239577 | [239577-embervale-tv.json](./239577-embervale-tv.json) |
+| Emberville | 272981 | [272981-emberville.json](./272981-emberville.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
 | Emberwall | 417300 | [417300-emberwall.json](./417300-emberwall.json) |
 | Emberward | 260224 | [260224-emberward.json](./260224-emberward.json) |
@@ -8180,6 +8184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
 | Evil Heart Fever | 143984 | [143984-evil-heart-fever.json](./143984-evil-heart-fever.json) |
 | Evil Holiday | 287193 | [287193-evil-holiday.json](./287193-evil-holiday.json) |
+| Evil Hunt: The bad never sleeps | 269249 | [269249-evil-hunt-the-bad-never-sleeps.json](./269249-evil-hunt-the-bad-never-sleeps.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
 | Evil Inside | 144419 | [144419-evil-inside.json](./144419-evil-inside.json) |
@@ -8846,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus of Souls | 217161 | [217161-exodus-of-souls.json](./217161-exodus-of-souls.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
 | Exodus Wars: Fractured Empire | 17336 | [17336-exodus-wars-fractured-empire.json](./17336-exodus-wars-fractured-empire.json) |
+| Exodus: Black Sun | 272984 | [272984-exodus-black-sun.json](./272984-exodus-black-sun.json) |
 | Exodus: Creepy Time | 309303 | [309303-exodus-creepy-time.json](./309303-exodus-creepy-time.json) |
 | Exodus: Journey to the Promised Land | 11164 | [11164-exodus-journey-to-the-promised-land.json](./11164-exodus-journey-to-the-promised-land.json) |
 | Exodus: Proxima Centauri | 106323 | [106323-exodus-proxima-centauri.json](./106323-exodus-proxima-centauri.json) |
@@ -9335,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extraordinary Detective Marshall | 299728 | [299728-extraordinary-detective-marshall.json](./299728-extraordinary-detective-marshall.json) |
 | Extraordinary Ones | 115391 | [115391-extraordinary-ones.json](./115391-extraordinary-ones.json) |
 | Extraordinary: Immortal | 276134 | [276134-extraordinary-immortal.json](./276134-extraordinary-immortal.json) |
+| Extraordinary: Soul | 269250 | [269250-extraordinary-soul.json](./269250-extraordinary-soul.json) |
 | Extrapower Attack of Darkforce | 191751 | [191751-extrapower-attack-of-darkforce.json](./191751-extrapower-attack-of-darkforce.json) |
 | Extrapower Giant Fist | 191749 | [191749-extrapower-giant-fist.json](./191749-extrapower-giant-fist.json) |
 | Extrapower Star Resistance | 191696 | [191696-extrapower-star-resistance.json](./191696-extrapower-star-resistance.json) |
