@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | Daimei no nai Game Rigakkkai | 236746 | [236746-daimei-no-nai-game-rigakkkai.json](./236746-daimei-no-nai-game-rigakkkai.json) |
 | Daimon Comics: Herofrenia | 373266 | [373266-daimon-comics-herofrenia.json](./373266-daimon-comics-herofrenia.json) |
+| Daimon Guardian | 391360 | [391360-daimon-guardian.json](./391360-daimon-guardian.json) |
 | Daimonin | 57863 | [57863-daimonin.json](./57863-daimonin.json) |
 | Daimu | 364543 | [364543-daimu.json](./364543-daimu.json) |
 | Dain Squares | 380617 | [380617-dain-squares.json](./380617-dain-squares.json) |
@@ -10199,6 +10200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug Revival | 187086 | [187086-dig-dug-revival.json](./187086-dig-dug-revival.json) |
 | Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
+| Dig for Riches | 391365 | [391365-dig-for-riches.json](./391365-dig-for-riches.json) |
 | Dig for TCG Cards With Your Friends | 409765 | [409765-dig-for-tcg-cards-with-your-friends.json](./409765-dig-for-tcg-cards-with-your-friends.json) |
 | Dig for Your Lives | 410513 | [410513-dig-for-your-lives.json](./410513-dig-for-your-lives.json) |
 | Dig Girl | 260197 | [260197-dig-girl.json](./260197-dig-girl.json) |
@@ -17981,6 +17983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Club Gogo. | 147304 | [147304-dream-club-gogo.json](./147304-dream-club-gogo.json) |
 | Dream Club Zero | 6972 | [6972-dream-club-zero.json](./6972-dream-club-zero.json) |
 | Dream Coaster VR | 52258 | [52258-dream-coaster-vr.json](./52258-dream-coaster-vr.json) |
+| Dream Corps | 390299 | [390299-dream-corps.json](./390299-dream-corps.json) |
 | Dream Crafter | 317510 | [317510-dream-crafter.json](./317510-dream-crafter.json) |
 | Dream Cycle | 165345 | [165345-dream-cycle.json](./165345-dream-cycle.json) |
 | Dream Daddy: A Dad Dating Simulator | 38045 | [38045-dream-daddy-a-dad-dating-simulator.json](./38045-dream-daddy-a-dad-dating-simulator.json) |
@@ -19228,6 +19231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop It: Block Paradise! | 85104 | [85104-drop-it-block-paradise.json](./85104-drop-it-block-paradise.json) |
 | Drop It: Block Paradise! - Builder Edition | 296875 | [296875-drop-it-block-paradise-builder-edition.json](./296875-drop-it-block-paradise-builder-edition.json) |
 | Drop It! Jelly Man | 324284 | [324284-drop-it-jelly-man.json](./324284-drop-it-jelly-man.json) |
+| Drop Jump | 391358 | [391358-drop-jump.json](./391358-drop-jump.json) |
 | Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
@@ -20263,6 +20267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dung Beetle | 75116 | [75116-dung-beetle.json](./75116-dung-beetle.json) |
 | Dung Beetle Adventure | 266622 | [266622-dung-beetle-adventure.json](./266622-dung-beetle-adventure.json) |
 | Dung Beetle Strike | 158804 | [158804-dung-beetle-strike.json](./158804-dung-beetle-strike.json) |
+| Dung Ho! | 391376 | [391376-dung-ho.json](./391376-dung-ho.json) |
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
 | Dungekon Online | 426636 | [426636-dungekon-online.json](./426636-dungekon-online.json) |
 | Dungellion | 111258 | [111258-dungellion.json](./111258-dungellion.json) |
