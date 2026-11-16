@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Commerce Simulator 2025 | 329331 | [329331-e-commerce-simulator-2025.json](./329331-e-commerce-simulator-2025.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-FCC | 311742 | [311742-e-fcc.json](./311742-e-fcc.json) |
+| E-Genes: Funtball | 255411 | [255411-e-genes-funtball.json](./255411-e-genes-funtball.json) |
 | E-Girl Next Door | 211508 | [211508-e-girl-next-door.json](./211508-e-girl-next-door.json) |
 | E-Girl RoomMate | 290908 | [290908-e-girl-roommate.json](./290908-e-girl-roommate.json) |
 | E-gon Adventures | 340538 | [340538-e-gon-adventures.json](./340538-e-gon-adventures.json) |
