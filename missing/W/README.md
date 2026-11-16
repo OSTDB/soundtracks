@@ -3806,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Sushi Tree | 316612 | [316612-welcome-to-sushi-tree.json](./316612-welcome-to-sushi-tree.json) |
 | Welcome to the Adamant Maintenance Monitoring Terminal | 186599 | [186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json](./186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
+| Welcome to the Anime Club | 278755 | [278755-welcome-to-the-anime-club.json](./278755-welcome-to-the-anime-club.json) |
 | Welcome to the Backrooms | 197191 | [197191-welcome-to-the-backrooms.json](./197191-welcome-to-the-backrooms.json) |
 | Welcome To The Backrooms | 345766 | [345766-welcome-to-the-backrooms.json](./345766-welcome-to-the-backrooms.json) |
 | Welcome to the Ballroom | 137577 | [137577-welcome-to-the-ballroom.json](./137577-welcome-to-the-ballroom.json) |
@@ -5148,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
 | Whispers in the West | 190112 | [190112-whispers-in-the-west.json](./190112-whispers-in-the-west.json) |
+| Whispers in the West: Two Bad Sisters | 279974 | [279974-whispers-in-the-west-two-bad-sisters.json](./279974-whispers-in-the-west-two-bad-sisters.json) |
 | Whispers in the Wood | 328198 | [328198-whispers-in-the-wood.json](./328198-whispers-in-the-wood.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
 | Whispers of a Machine: Blue Edition | 124894 | [124894-whispers-of-a-machine-blue-edition.json](./124894-whispers-of-a-machine-blue-edition.json) |
