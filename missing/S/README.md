@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
 | Scream Machines | 65887 | [65887-scream-machines.json](./65887-scream-machines.json) |
+| Scream Note | 408316 | [408316-scream-note.json](./408316-scream-note.json) |
 | Scream of the Viking | 113615 | [113615-scream-of-the-viking.json](./113615-scream-of-the-viking.json) |
 | Scream of the Viking 2 | 113871 | [113871-scream-of-the-viking-2.json](./113871-scream-of-the-viking-2.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
@@ -12688,6 +12689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
 | Simulation 101 | 209368 | [209368-simulation-101.json](./209368-simulation-101.json) |
 | Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
+| Simulation Baseball | 408255 | [408255-simulation-baseball.json](./408255-simulation-baseball.json) |
 | Simulation Failure | 137315 | [137315-simulation-failure.json](./137315-simulation-failure.json) |
 | Simulation Gold Bundle: Flight Fishing Construction | 295694 | [295694-simulation-gold-bundle-flight-fishing-construction.json](./295694-simulation-gold-bundle-flight-fishing-construction.json) |
 | Simulation Platinum Bundle: Bus Construction Firefighting Lawn Mowing | 303879 | [303879-simulation-platinum-bundle-bus-construction-firefighting-lawn-mowing.json](./303879-simulation-platinum-bundle-bus-construction-firefighting-lawn-mowing.json) |
@@ -25859,6 +25861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
 | Springshot | 263575 | [263575-springshot.json](./263575-springshot.json) |
 | Springtale | 135353 | [135353-springtale.json](./135353-springtale.json) |
+| SpringTale | 408339 | [408339-springtale.json](./408339-springtale.json) |
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
 | Springtime Hike | 264231 | [264231-springtime-hike.json](./264231-springtime-hike.json) |
 | Springtime Mahjongg 2 | 215258 | [215258-springtime-mahjongg-2.json](./215258-springtime-mahjongg-2.json) |
@@ -29081,6 +29084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statik | 26683 | [26683-statik.json](./26683-statik.json) |
 | Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
 | Station 13 | 252003 | [252003-station-13.json](./252003-station-13.json) |
+| Station 141 | 408364 | [408364-station-141.json](./408364-station-141.json) |
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
 | Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
 | Station 228 | 75786 | [75786-station-228.json](./75786-station-228.json) |
@@ -30360,6 +30364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stigma: Dragonfly | 393988 | [393988-stigma-dragonfly.json](./393988-stigma-dragonfly.json) |
 | Stigma: The Salem Legacy | 373686 | [373686-stigma-the-salem-legacy.json](./373686-stigma-the-salem-legacy.json) |
 | Stigma: Unnamed | 385774 | [385774-stigma-unnamed.json](./385774-stigma-unnamed.json) |
+| Stigmata | 408366 | [408366-stigmata.json](./408366-stigmata.json) |
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
 | Stigmatized Property | 123864 | [123864-stigmatized-property.json](./123864-stigmatized-property.json) |
 | Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
@@ -39200,6 +39205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Svoboda | 100101 | [100101-svoboda.json](./100101-svoboda.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
 | Swabby | 312224 | [312224-swabby.json](./312224-swabby.json) |
+| Swaddle | 408318 | [408318-swaddle.json](./408318-swaddle.json) |
 | Swag | 428737 | [428737-swag.json](./428737-swag.json) |
 | Swag & Sorcery | 107482 | [107482-swag-and-sorcery.json](./107482-swag-and-sorcery.json) |
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
