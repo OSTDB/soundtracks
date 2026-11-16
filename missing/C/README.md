@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | Capitals | 211476 | [211476-capitals.json](./211476-capitals.json) |
 | Capitals | 60074 | [60074-capitals.json](./60074-capitals.json) |
+| Capitals Battle | 233202 | [233202-capitals-battle.json](./233202-capitals-battle.json) |
 | Capitals Quizzer | 89582 | [89582-capitals-quizzer.json](./89582-capitals-quizzer.json) |
 | Capitals Quizzer: Countries Mode | 257440 | [257440-capitals-quizzer-countries-mode.json](./257440-capitals-quizzer-countries-mode.json) |
 | Capitals Quizzer: Currency Mode | 257461 | [257461-capitals-quizzer-currency-mode.json](./257461-capitals-quizzer-currency-mode.json) |
@@ -3548,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart World Series | 43834 | [43834-cart-world-series.json](./43834-cart-world-series.json) |
 | Carta Bellum | 416346 | [416346-carta-bellum.json](./416346-carta-bellum.json) |
 | Carta Marina | 215500 | [215500-carta-marina.json](./215500-carta-marina.json) |
+| Carta Nostra | 233143 | [233143-carta-nostra.json](./233143-carta-nostra.json) |
 | Cartacombs | 114858 | [114858-cartacombs.json](./114858-cartacombs.json) |
 | Cartagra | 337383 | [337383-cartagra.json](./337383-cartagra.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
