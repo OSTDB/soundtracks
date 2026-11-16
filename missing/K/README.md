@@ -1345,9 +1345,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katamari Amore | 6460 | [6460-katamari-amore.json](./6460-katamari-amore.json) |
 | Katamari Damacy | 6453 | [6453-katamari-damacy.json](./6453-katamari-damacy.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
+| Katamari Damacy Mobile 2 | 243431 | [243431-katamari-damacy-mobile-2.json](./243431-katamari-damacy-mobile-2.json) |
+| Katamari Damacy Mobile+ | 243430 | [243430-katamari-damacy-mobile.json](./243430-katamari-damacy-mobile.json) |
 | Katamari Damacy Reroll | 109458 | [109458-katamari-damacy-reroll.json](./109458-katamari-damacy-reroll.json) |
 | Katamari Damacy Reroll & We Love Katamari Reroll + Royal Reverie | 255503 | [255503-katamari-damacy-reroll-and-we-love-katamari-reroll-royal-reverie.json](./255503-katamari-damacy-reroll-and-we-love-katamari-reroll-royal-reverie.json) |
 | Katamari Damacy Rolling Live | 335137 | [335137-katamari-damacy-rolling-live.json](./335137-katamari-damacy-rolling-live.json) |
+| Katamari Damacy-Kun | 243427 | [243427-katamari-damacy-kun.json](./243427-katamari-damacy-kun.json) |
 | Katamari Online | 68242 | [68242-katamari-online.json](./68242-katamari-online.json) |
 | Katan.io | 125869 | [125869-katan-io.json](./125869-katan-io.json) |
 | Katana | 216338 | [216338-katana.json](./216338-katana.json) |
@@ -5620,6 +5623,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koen Hunter | 97769 | [97769-koen-hunter.json](./97769-koen-hunter.json) |
 | Koenchu! The Tale of the Voice Actress: You, the Sky, and that Summer | 82714 | [82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json](./82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json) |
 | Koewotayorini | 90006 | [90006-koewotayorini.json](./90006-koewotayorini.json) |
+| Koewotayorini SP | 243445 | [243445-koewotayorini-sp.json](./243445-koewotayorini-sp.json) |
+| Koewotayorini: Last Game | 243446 | [243446-koewotayorini-last-game.json](./243446-koewotayorini-last-game.json) |
 | Koezaru ha Akai Hana After Disc: Ayanasu Mirai | 222118 | [222118-koezaru-ha-akai-hana-after-disc-ayanasu-mirai.json](./222118-koezaru-ha-akai-hana-after-disc-ayanasu-mirai.json) |
 | Koezaru ha Akai Hana: Koi ha Tsuki ni Michibikareru | 130001 | [130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json](./130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json) |
 | Koezaru wa Akai Hana: Taiga ha Mirai wo Tsumugu | 222117 | [222117-koezaru-wa-akai-hana-taiga-ha-mirai-wo-tsumugu.json](./222117-koezaru-wa-akai-hana-taiga-ha-mirai-wo-tsumugu.json) |
