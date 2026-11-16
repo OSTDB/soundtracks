@@ -212,11 +212,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
 | uFactory | 115232 | [115232-ufactory.json](./115232-ufactory.json) |
 | UFB 2: Fight & Wrestling Games | 251343 | [251343-ufb-2-fight-and-wrestling-games.json](./251343-ufb-2-fight-and-wrestling-games.json) |
-| UFC | 21720 | [21720-ufc.json](./21720-ufc.json) |
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
 | UFC 4: Fighter Bundle | 227087 | [227087-ufc-4-fighter-bundle.json](./227087-ufc-4-fighter-bundle.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
-| UFC Personal Trainer: The Ultimate Fitness System | 22948 | [22948-ufc-personal-trainer-the-ultimate-fitness-system.json](./22948-ufc-personal-trainer-the-ultimate-fitness-system.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFC Undisputed 3 | 7229 | [7229-ufc-undisputed-3.json](./7229-ufc-undisputed-3.json) |
 | UFC Undisputed Forever | 410484 | [410484-ufc-undisputed-forever.json](./410484-ufc-undisputed-forever.json) |
@@ -317,10 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugby Mumba 3 | 183092 | [183092-ugby-mumba-3.json](./183092-ugby-mumba-3.json) |
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
-| Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
 | Ugh! | 81518 | [81518-ugh.json](./81518-ugh.json) |
-| Ugly | 140815 | [140815-ugly.json](./140815-ugly.json) |
-| Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Dot | 56070 | [56070-ugly-dot.json](./56070-ugly-dot.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
@@ -471,7 +466,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima: The False Prophet | 428724 | [428724-ultima-the-false-prophet.json](./428724-ultima-the-false-prophet.json) |
 | Ultima: The Savage Empire | 186734 | [186734-ultima-the-savage-empire.json](./186734-ultima-the-savage-empire.json) |
 | Ultima: Warriors of Destiny | 48096 | [48096-ultima-warriors-of-destiny.json](./48096-ultima-warriors-of-destiny.json) |
-| Ultima: Worlds of Adventure 2 - Martian Dreams | 14443 | [14443-ultima-worlds-of-adventure-2-martian-dreams.json](./14443-ultima-worlds-of-adventure-2-martian-dreams.json) |
 | UltiMage | 385191 | [385191-ultimage.json](./385191-ultimage.json) |
 | Ultimagus | 29845 | [29845-ultimagus.json](./29845-ultimagus.json) |
 | UltiMahjong | 289928 | [289928-ultimahjong.json](./289928-ultimahjong.json) |
@@ -624,7 +618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator: Thailand DLC | 164521 | [164521-ultimate-fishing-simulator-thailand-dlc.json](./164521-ultimate-fishing-simulator-thailand-dlc.json) |
 | Ultimate Fishing Simulator: VR DLC | 164523 | [164523-ultimate-fishing-simulator-vr-dlc.json](./164523-ultimate-fishing-simulator-vr-dlc.json) |
 | Ultimate Fishing Supermarket Simulator 3D | 309637 | [309637-ultimate-fishing-supermarket-simulator-3d.json](./309637-ultimate-fishing-supermarket-simulator-3d.json) |
-| Ultimate Flash Sonic | 140408 | [140408-ultimate-flash-sonic.json](./140408-ultimate-flash-sonic.json) |
 | Ultimate Flickball Arena | 122021 | [122021-ultimate-flickball-arena.json](./122021-ultimate-flickball-arena.json) |
 | Ultimate Flight Pack | 138317 | [138317-ultimate-flight-pack.json](./138317-ultimate-flight-pack.json) |
 | Ultimate Flight Simulator Pro | 233895 | [233895-ultimate-flight-simulator-pro.json](./233895-ultimate-flight-simulator-pro.json) |
@@ -916,7 +909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Word Search 2: Letter Boxed | 31678 | [31678-ultimate-word-search-2-letter-boxed.json](./31678-ultimate-word-search-2-letter-boxed.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimate Zombie Death Ball | 194815 | [194815-ultimate-zombie-death-ball.json](./194815-ultimate-zombie-death-ball.json) |
-| Ultimate Zombie Defense | 127723 | [127723-ultimate-zombie-defense.json](./127723-ultimate-zombie-defense.json) |
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | UltimateBingoMachine | 98724 | [98724-ultimatebingomachine.json](./98724-ultimatebingomachine.json) |
 | Ultimator | 288549 | [288549-ultimator.json](./288549-ultimator.json) |
@@ -1186,7 +1178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultratank | 120679 | [120679-ultratank.json](./120679-ultratank.json) |
 | Ultratap | 390219 | [390219-ultratap.json](./390219-ultratap.json) |
 | Ultratoro 2 | 238800 | [238800-ultratoro-2.json](./238800-ultratoro-2.json) |
-| Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
 | Ultraverse Prime | 46407 | [46407-ultraverse-prime.json](./46407-ultraverse-prime.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
 | Ultraviolet Dawn | 239974 | [239974-ultraviolet-dawn.json](./239974-ultraviolet-dawn.json) |
@@ -1272,7 +1263,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbrella Girl | 279545 | [279545-umbrella-girl.json](./279545-umbrella-girl.json) |
 | Umesawa Yukari no Igo Seminar | 54939 | [54939-umesawa-yukari-no-igo-seminar.json](./54939-umesawa-yukari-no-igo-seminar.json) |
 | Umezawa Yukari no Taikyoku Igo - Heisei Kiin II | 286087 | [286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json](./286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json) |
-| Umfend | 111034 | [111034-umfend.json](./111034-umfend.json) |
 | Umi no Nushi Tsuri | 37774 | [37774-umi-no-nushi-tsuri.json](./37774-umi-no-nushi-tsuri.json) |
 | Umi no Nushi Tsuri 2 | 61848 | [61848-umi-no-nushi-tsuri-2.json](./61848-umi-no-nushi-tsuri-2.json) |
 | Umi no Nushi Tsuri: Takara-jima ni Mukatte | 61850 | [61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json](./61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json) |
@@ -1285,9 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umidorino Gaku no Seishin Kanteiroku | 308879 | [308879-umidorino-gaku-no-seishin-kanteiroku.json](./308879-umidorino-gaku-no-seishin-kanteiroku.json) |
 | Umigame | 226579 | [226579-umigame.json](./226579-umigame.json) |
 | Umigari | 372200 | [372200-umigari.json](./372200-umigari.json) |
-| Umihara Kawase | 15928 | [15928-umihara-kawase.json](./15928-umihara-kawase.json) |
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
-| Umihara Kawase Fresh! | 108155 | [108155-umihara-kawase-fresh.json](./108155-umihara-kawase-fresh.json) |
 | Umihara Kawase Portable | 42847 | [42847-umihara-kawase-portable.json](./42847-umihara-kawase-portable.json) |
 | Umihara Kawase Shun | 45227 | [45227-umihara-kawase-shun.json](./45227-umihara-kawase-shun.json) |
 | Umihara Kawase Shun: Second Edition Complete | 63752 | [63752-umihara-kawase-shun-second-edition-complete.json](./63752-umihara-kawase-shun-second-edition-complete.json) |
@@ -1357,7 +1345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko When They Cry: Episode 6 - Dawn of the Golden Witch | 272314 | [272314-umineko-when-they-cry-episode-6-dawn-of-the-golden-witch.json](./272314-umineko-when-they-cry-episode-6-dawn-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 7 - Requiem of the Golden Witch | 272316 | [272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json](./272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 8 - Twilight of the Golden Witch | 272318 | [272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json](./272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json) |
-| Umineko When They Cry: Question Arcs | 124948 | [124948-umineko-when-they-cry-question-arcs.json](./124948-umineko-when-they-cry-question-arcs.json) |
 | Umineko: Golden Fantasia | 76137 | [76137-umineko-golden-fantasia.json](./76137-umineko-golden-fantasia.json) |
 | Umineko: Golden Forgery | 403537 | [403537-umineko-golden-forgery.json](./403537-umineko-golden-forgery.json) |
 | Umineko: Letter to the Golden Witch | 382661 | [382661-umineko-letter-to-the-golden-witch.json](./382661-umineko-letter-to-the-golden-witch.json) |
@@ -1388,7 +1375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMS: The Universal Military Simulator - Vietnam | 72460 | [72460-ums-the-universal-military-simulator-vietnam.json](./72460-ums-the-universal-military-simulator-vietnam.json) |
 | Umurangi Generation VR | 279410 | [279410-umurangi-generation-vr.json](./279410-umurangi-generation-vr.json) |
 | Umurangi Generation: Macro | 139015 | [139015-umurangi-generation-macro.json](./139015-umurangi-generation-macro.json) |
-| Umurangi Generation: Special Edition | 151766 | [151766-umurangi-generation-special-edition.json](./151766-umurangi-generation-special-edition.json) |
 | Un indien dans la ville | 117973 | [117973-un-indien-dans-la-ville.json](./117973-un-indien-dans-la-ville.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un Lugar Otro Que El Cielo | 271430 | [271430-un-lugar-otro-que-el-cielo.json](./271430-un-lugar-otro-que-el-cielo.json) |
@@ -1441,13 +1427,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbaitable | 417442 | [417442-unbaitable.json](./417442-unbaitable.json) |
 | Unbalance | 55786 | [55786-unbalance.json](./55786-unbalance.json) |
 | Unbearable | 202427 | [202427-unbearable.json](./202427-unbearable.json) |
-| Unbeatable | 144859 | [144859-unbeatable.json](./144859-unbeatable.json) |
 | Unbeatable Professional me with 100 Girlfriends | 280655 | [280655-unbeatable-professional-me-with-100-girlfriends.json](./280655-unbeatable-professional-me-with-100-girlfriends.json) |
 | Unbeatable Professional Me With 100 Girlfriends! | 282257 | [282257-unbeatable-professional-me-with-100-girlfriends.json](./282257-unbeatable-professional-me-with-100-girlfriends.json) |
 | Unbeatable Wilderness | 111417 | [111417-unbeatable-wilderness.json](./111417-unbeatable-wilderness.json) |
 | Unbeatable: Breakout Edition | 402444 | [402444-unbeatable-breakout-edition.json](./402444-unbeatable-breakout-edition.json) |
 | Unbeatable: The Jamie Paige Content Companion | 408174 | [408174-unbeatable-the-jamie-paige-content-companion.json](./408174-unbeatable-the-jamie-paige-content-companion.json) |
-| Unbeatable: White Label | 146969 | [146969-unbeatable-white-label.json](./146969-unbeatable-white-label.json) |
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
 | Unbelievaboom! | 232815 | [232815-unbelievaboom.json](./232815-unbelievaboom.json) |
 | Unbeliever | 151431 | [151431-unbeliever.json](./151431-unbeliever.json) |
@@ -1488,7 +1472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbound Drift | 407900 | [407900-unbound-drift.json](./407900-unbound-drift.json) |
 | Unbound Eternity | 338592 | [338592-unbound-eternity.json](./338592-unbound-eternity.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
-| Unbox | 19001 | [19001-unbox.json](./19001-unbox.json) |
 | Unbox The Cats | 337009 | [337009-unbox-the-cats.json](./337009-unbox-the-cats.json) |
 | Unbox the Room | 304642 | [304642-unbox-the-room.json](./304642-unbox-the-room.json) |
 | Unbox your Workspace | 398308 | [398308-unbox-your-workspace.json](./398308-unbox-your-workspace.json) |
@@ -1513,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbroken Warrior | 104366 | [104366-unbroken-warrior.json](./104366-unbroken-warrior.json) |
 | Unbroken: The Awakening | 247829 | [247829-unbroken-the-awakening.json](./247829-unbroken-the-awakening.json) |
 | Unbuild | 150063 | [150063-unbuild.json](./150063-unbuild.json) |
+| UNC: Pathfinder | 267048 | [267048-unc-pathfinder.json](./267048-unc-pathfinder.json) |
 | Uncanny | 105432 | [105432-uncanny.json](./105432-uncanny.json) |
 | Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
@@ -1562,7 +1546,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted SchoolBoy Hacker | 409305 | [409305-uncharted-schoolboy-hacker.json](./409305-uncharted-schoolboy-hacker.json) |
 | Uncharted Sectors | 375254 | [375254-uncharted-sectors.json](./375254-uncharted-sectors.json) |
 | Uncharted Space: Project 3062 | 204891 | [204891-uncharted-space-project-3062.json](./204891-uncharted-space-project-3062.json) |
-| Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
 | Uncharted Tides: Port Royal | 400940 | [400940-uncharted-tides-port-royal.json](./400940-uncharted-tides-port-royal.json) |
 | Uncharted Waters | 340800 | [340800-uncharted-waters.json](./340800-uncharted-waters.json) |
 | Uncharted Waters | 351120 | [351120-uncharted-waters.json](./351120-uncharted-waters.json) |
@@ -1582,7 +1565,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
 | Uncharted World | 383409 | [383409-uncharted-world.json](./383409-uncharted-world.json) |
 | Uncharted: Drake's Fortune Remastered | 41878 | [41878-uncharted-drakes-fortune-remastered.json](./41878-uncharted-drakes-fortune-remastered.json) |
-| Uncharted: Fight for Fortune | 19583 | [19583-uncharted-fight-for-fortune.json](./19583-uncharted-fight-for-fortune.json) |
 | Uncharted: Fight for Fortune - Among Thieves Expansion | 381859 | [381859-uncharted-fight-for-fortune-among-thieves-expansion.json](./381859-uncharted-fight-for-fortune-among-thieves-expansion.json) |
 | Uncharted: Fight for Fortune - Drake's Deception Expansion | 381860 | [381860-uncharted-fight-for-fortune-drakes-deception-expansion.json](./381860-uncharted-fight-for-fortune-drakes-deception-expansion.json) |
 | Uncharted: Fortune Hunter | 19609 | [19609-uncharted-fortune-hunter.json](./19609-uncharted-fortune-hunter.json) |
@@ -1779,7 +1761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undecember | 175015 | [175015-undecember.json](./175015-undecember.json) |
 | Undeclaration of Human Rights | 370441 | [370441-undeclaration-of-human-rights.json](./370441-undeclaration-of-human-rights.json) |
 | Undefeatable | 295733 | [295733-undefeatable.json](./295733-undefeatable.json) |
-| Undefeated | 121220 | [121220-undefeated.json](./121220-undefeated.json) |
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefeated | 409862 | [409862-undefeated.json](./409862-undefeated.json) |
 | Undefeated: Genesis | 264303 | [264303-undefeated-genesis.json](./264303-undefeated-genesis.json) |
@@ -1816,7 +1797,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
 | Under Defeat | 321604 | [321604-under-defeat.json](./321604-under-defeat.json) |
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
-| Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
 | Under Development | 131344 | [131344-under-development.json](./131344-under-development.json) |
@@ -1853,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Rooms | 349070 | [349070-under-rooms.json](./349070-under-rooms.json) |
 | Under Shelter | 146550 | [146550-under-shelter.json](./146550-under-shelter.json) |
 | Under Siege | 203591 | [203591-under-siege.json](./203591-under-siege.json) |
+| Under Siege | 267047 | [267047-under-siege.json](./267047-under-siege.json) |
 | Under Siege | 383347 | [383347-under-siege.json](./383347-under-siege.json) |
 | Under Siege | 52990 | [52990-under-siege.json](./52990-under-siege.json) |
 | Under Siege | 95467 | [95467-under-siege.json](./95467-under-siege.json) |
@@ -1897,7 +1878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Rainbow: Prologue | 129010 | [129010-under-the-rainbow-prologue.json](./129010-under-the-rainbow-prologue.json) |
 | Under the Red Sky | 358253 | [358253-under-the-red-sky.json](./358253-under-the-red-sky.json) |
 | Under the River | 391026 | [391026-under-the-river.json](./391026-under-the-river.json) |
-| Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
 | Under the Sea | 166877 | [166877-under-the-sea.json](./166877-under-the-sea.json) |
 | Under the Sea: A Hidden World of Wonders | 330222 | [330222-under-the-sea-a-hidden-world-of-wonders.json](./330222-under-the-sea-a-hidden-world-of-wonders.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
@@ -2021,7 +2001,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Garage | 156087 | [156087-underground-garage.json](./156087-underground-garage.json) |
 | Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
 | Underground Hangovers | 146470 | [146470-underground-hangovers.json](./146470-underground-hangovers.json) |
-| Underground Keeper | 22727 | [22727-underground-keeper.json](./22727-underground-keeper.json) |
 | Underground Keeper II | 171732 | [171732-underground-keeper-ii.json](./171732-underground-keeper-ii.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Lords | 197051 | [197051-underground-lords.json](./197051-underground-lords.json) |
@@ -2046,7 +2025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Undergrowth: VR Maze | 149266 | [149266-undergrowth-vr-maze.json](./149266-undergrowth-vr-maze.json) |
 | Underhaul | 298827 | [298827-underhaul.json](./298827-underhaul.json) |
-| Underhell | 121214 | [121214-underhell.json](./121214-underhell.json) |
 | Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
 | UnderHolo | 364613 | [364613-underholo.json](./364613-underholo.json) |
@@ -2208,7 +2186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld | 380745 | [380745-underworld.json](./380745-underworld.json) |
 | Underworld Adventure | 384566 | [384566-underworld-adventure.json](./384566-underworld-adventure.json) |
 | Underworld Adventures | 256715 | [256715-underworld-adventures.json](./256715-underworld-adventures.json) |
-| Underworld Ascendant | 19466 | [19466-underworld-ascendant.json](./19466-underworld-ascendant.json) |
 | Underworld Awakening | 84101 | [84101-underworld-awakening.json](./84101-underworld-awakening.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
 | Underworld Debt Roulette | 214909 | [214909-underworld-debt-roulette.json](./214909-underworld-debt-roulette.json) |
@@ -2237,7 +2214,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld: The Eternal War | 43567 | [43567-underworld-the-eternal-war.json](./43567-underworld-the-eternal-war.json) |
 | Underworld: The Shelter | 249590 | [249590-underworld-the-shelter.json](./249590-underworld-the-shelter.json) |
 | Underworlds | 67816 | [67816-underworlds.json](./67816-underworlds.json) |
-| Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Underzone | 132460 | [132460-underzone.json](./132460-underzone.json) |
 | Undesirable Elements | 272129 | [272129-undesirable-elements.json](./272129-undesirable-elements.json) |
 | Undesired Catch | 316947 | [316947-undesired-catch.json](./316947-undesired-catch.json) |
@@ -2250,7 +2226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
 | Undiscovered Technology of the Pharaohs | 283553 | [283553-undiscovered-technology-of-the-pharaohs.json](./283553-undiscovered-technology-of-the-pharaohs.json) |
 | Undiscovered World: The Incan Sun | 416165 | [416165-undiscovered-world-the-incan-sun.json](./416165-undiscovered-world-the-incan-sun.json) |
-| Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed Champ | 112735 | [112735-undisputed-champ.json](./112735-undisputed-champ.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
 | Undisputed: The Iron and Steel Pack | 343576 | [343576-undisputed-the-iron-and-steel-pack.json](./343576-undisputed-the-iron-and-steel-pack.json) |
@@ -2272,7 +2247,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undungeon Arena | 141971 | [141971-undungeon-arena.json](./141971-undungeon-arena.json) |
 | Undusted: Letters from the Past | 295734 | [295734-undusted-letters-from-the-past.json](./295734-undusted-letters-from-the-past.json) |
 | UnDuster | 281911 | [281911-unduster.json](./281911-unduster.json) |
-| Undying | 119360 | [119360-undying.json](./119360-undying.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
 | Undying Flame | 404173 | [404173-undying-flame.json](./404173-undying-flame.json) |
 | Undying Flower | 329481 | [329481-undying-flower.json](./329481-undying-flower.json) |
@@ -2336,7 +2310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Tasks | 416987 | [416987-unexpected-tasks.json](./416987-unexpected-tasks.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | Unexplored | 27373 | [27373-unexplored.json](./27373-unexplored.json) |
-| Unexplored 2: The Wayfarer's Legacy | 119343 | [119343-unexplored-2-the-wayfarers-legacy.json](./119343-unexplored-2-the-wayfarers-legacy.json) |
 | Unexplored: Mithril Run | 155020 | [155020-unexplored-mithril-run.json](./155020-unexplored-mithril-run.json) |
 | Unexplored: Ripley Run | 155022 | [155022-unexplored-ripley-run.json](./155022-unexplored-ripley-run.json) |
 | Unexplored: The Dark Ritual | 155021 | [155021-unexplored-the-dark-ritual.json](./155021-unexplored-the-dark-ritual.json) |
@@ -2415,7 +2388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unguided | 362485 | [362485-unguided.json](./362485-unguided.json) |
 | Unguided Order | 379032 | [379032-unguided-order.json](./379032-unguided-order.json) |
 | Ungus | 229659 | [229659-ungus.json](./229659-ungus.json) |
-| Unhack | 35978 | [35978-unhack.json](./35978-unhack.json) |
 | Unhack 2 | 33530 | [33530-unhack-2.json](./33530-unhack-2.json) |
 | Unhack: Destruction | 172365 | [172365-unhack-destruction.json](./172365-unhack-destruction.json) |
 | Unhackable | 226581 | [226581-unhackable.json](./226581-unhackable.json) |
@@ -2430,7 +2402,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappy Raccoon | 221431 | [221431-unhappy-raccoon.json](./221431-unhappy-raccoon.json) |
 | Unharvest | 420600 | [420600-unharvest.json](./420600-unharvest.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
-| Unheard | 109148 | [109148-unheard.json](./109148-unheard.json) |
 | Unheard Screams: King Leopold II's Rule Over the Congo | 35383 | [35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json](./35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
 | Unheard: Voices of Crime Edition | 237752 | [237752-unheard-voices-of-crime-edition.json](./237752-unheard-voices-of-crime-edition.json) |
@@ -2567,7 +2538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unique Ladies | 339873 | [339873-unique-ladies.json](./339873-unique-ladies.json) |
 | Unique Lady | 370345 | [370345-unique-lady.json](./370345-unique-lady.json) |
 | Unique Sylvie Game | 422748 | [422748-unique-sylvie-game.json](./422748-unique-sylvie-game.json) |
-| Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
@@ -2642,7 +2612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity-Chan: Desktop Companion | 395040 | [395040-unity-chan-desktop-companion.json](./395040-unity-chan-desktop-companion.json) |
 | Unity-chan's Action Shooting | 362813 | [362813-unity-chans-action-shooting.json](./362813-unity-chans-action-shooting.json) |
 | Unitystation | 82365 | [82365-unitystation.json](./82365-unitystation.json) |
-| Unium | 35532 | [35532-unium.json](./35532-unium.json) |
 | UniUni Union | 63418 | [63418-uniuni-union.json](./63418-uniuni-union.json) |
 | Univ: Ai Omatase | 428376 | [428376-univ-ai-omatase.json](./428376-univ-ai-omatase.json) |
 | UniverCity | 106455 | [106455-univercity.json](./106455-univercity.json) |
@@ -2876,7 +2845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlucky Day | 406513 | [406513-unlucky-day.json](./406513-unlucky-day.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
-| Unlucky Seven | 29783 | [29783-unlucky-seven.json](./29783-unlucky-seven.json) |
 | Unlucky Sniper | 195397 | [195397-unlucky-sniper.json](./195397-unlucky-sniper.json) |
 | Unlucky Swordsmith | 420508 | [420508-unlucky-swordsmith.json](./420508-unlucky-swordsmith.json) |
 | Unmaker | 217452 | [217452-unmaker.json](./217452-unmaker.json) |
@@ -2900,10 +2868,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmatched: Digital Edition - Soho | 248701 | [248701-unmatched-digital-edition-soho.json](./248701-unmatched-digital-edition-soho.json) |
 | Unmatched: Digital Edition - Yukon | 248715 | [248715-unmatched-digital-edition-yukon.json](./248715-unmatched-digital-edition-yukon.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
-| Unmechanical | 16368 | [16368-unmechanical.json](./16368-unmechanical.json) |
 | Unmechanical: Extended Edition | 20310 | [20310-unmechanical-extended-edition.json](./20310-unmechanical-extended-edition.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
-| UnMetal | 132312 | [132312-unmetal.json](./132312-unmetal.json) |
 | UnMetal: Collector's Edition | 240034 | [240034-unmetal-collectors-edition.json](./240034-unmetal-collectors-edition.json) |
 | UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
 | Unmetaverse | 190251 | [190251-unmetaverse.json](./190251-unmetaverse.json) |
@@ -3087,7 +3053,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Trail: In the name of the Strongest, 30 Hunters Forced to Evolve | 292936 | [292936-unreal-trail-in-the-name-of-the-strongest-30-hunters-forced-to-evolve.json](./292936-unreal-trail-in-the-name-of-the-strongest-30-hunters-forced-to-evolve.json) |
 | Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
-| UnReal World | 18283 | [18283-unreal-world.json](./18283-unreal-world.json) |
 | Unreal Wukong | 309843 | [309843-unreal-wukong.json](./309843-unreal-wukong.json) |
 | Unreal Zombies | 346552 | [346552-unreal-zombies.json](./346552-unreal-zombies.json) |
 | Unreal: Operation Na Pali | 261021 | [261021-unreal-operation-na-pali.json](./261021-unreal-operation-na-pali.json) |
@@ -3193,7 +3158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
 | Unspoken Chronicles : Nora | 117302 | [117302-unspoken-chronicles-nora.json](./117302-unspoken-chronicles-nora.json) |
 | Unspoken Echoes | 346528 | [346528-unspoken-echoes.json](./346528-unspoken-echoes.json) |
-| Unspottable | 129693 | [129693-unspottable.json](./129693-unspottable.json) |
 | UnStabbed - Knife Circus | 114699 | [114699-unstabbed-knife-circus.json](./114699-unstabbed-knife-circus.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
@@ -3213,7 +3177,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstoppable | 197640 | [197640-unstoppable.json](./197640-unstoppable.json) |
 | Unstoppable | 255131 | [255131-unstoppable.json](./255131-unstoppable.json) |
 | Unstoppable | 58216 | [58216-unstoppable.json](./58216-unstoppable.json) |
-| Unstoppable Gorg | 1057 | [1057-unstoppable-gorg.json](./1057-unstoppable-gorg.json) |
 | Unstoppable Hamster | 81884 | [81884-unstoppable-hamster.json](./81884-unstoppable-hamster.json) |
 | Unstoppable Man | 161554 | [161554-unstoppable-man.json](./161554-unstoppable-man.json) |
 | Unstoppable: Breakout | 304929 | [304929-unstoppable-breakout.json](./304929-unstoppable-breakout.json) |
@@ -3269,7 +3232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Dawn: Steelbook Edition | 42946 | [42946-until-dawn-steelbook-edition.json](./42946-until-dawn-steelbook-edition.json) |
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
 | Until Death Do We Part | 416800 | [416800-until-death-do-we-part.json](./416800-until-death-do-we-part.json) |
-| Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until It's Undone | 185345 | [185345-until-its-undone.json](./185345-until-its-undone.json) |
 | Until It’s Undone: Unmastered | 282260 | [282260-until-it-s-undone-unmastered.json](./282260-until-it-s-undone-unmastered.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
@@ -3295,7 +3257,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Then: Deluxe Edition | 407104 | [407104-until-then-deluxe-edition.json](./407104-until-then-deluxe-edition.json) |
 | Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
 | Until Tomorrow | 182022 | [182022-until-tomorrow.json](./182022-until-tomorrow.json) |
-| Until We Die | 127240 | [127240-until-we-die.json](./127240-until-we-die.json) |
 | Until You Fall | 115478 | [115478-until-you-fall.json](./115478-until-you-fall.json) |
 | Until You Return to the Earth | 339430 | [339430-until-you-return-to-the-earth.json](./339430-until-you-return-to-the-earth.json) |
 | UntilZombieDown | 287759 | [287759-untilzombiedown.json](./287759-untilzombiedown.json) |
@@ -3412,7 +3373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
 | Unusual Farm Operations | 335395 | [335395-unusual-farm-operations.json](./335395-unusual-farm-operations.json) |
-| Unusual Findings | 153890 | [153890-unusual-findings.json](./153890-unusual-findings.json) |
 | Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
 | Unusual Night Shift | 248828 | [248828-unusual-night-shift.json](./248828-unusual-night-shift.json) |
 | Unusual Quest | 272885 | [272885-unusual-quest.json](./272885-unusual-quest.json) |
@@ -3492,7 +3452,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Hike | 286992 | [286992-up-hike.json](./286992-up-hike.json) |
 | Up in the Air | 129931 | [129931-up-in-the-air.json](./129931-up-in-the-air.json) |
 | Up Island | 328188 | [328188-up-island.json](./328188-up-island.json) |
-| Up Left Out | 103375 | [103375-up-left-out.json](./103375-up-left-out.json) |
 | Up N' Down | 264198 | [264198-up-n-down.json](./264198-up-n-down.json) |
 | Up on the Rooftop | 130235 | [130235-up-on-the-rooftop.json](./130235-up-on-the-rooftop.json) |
 | Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
@@ -3554,7 +3513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade! Inc. | 394309 | [394309-upgrade-inc.json](./394309-upgrade-inc.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
-| UpGun | 152406 | [152406-upgun.json](./152406-upgun.json) |
 | Uph! | 157123 | [157123-uph.json](./157123-uph.json) |
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
@@ -3880,7 +3838,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urthwurm | 100045 | [100045-urthwurm.json](./100045-urthwurm.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
-| URU: Complete Chronicles | 16202 | [16202-uru-complete-chronicles.json](./16202-uru-complete-chronicles.json) |
 | Uru: The Path of the Shell | 73216 | [73216-uru-the-path-of-the-shell.json](./73216-uru-the-path-of-the-shell.json) |
 | Uru: To D'ni | 71127 | [71127-uru-to-dni.json](./71127-uru-to-dni.json) |
 | Urubu | 199464 | [199464-urubu.json](./199464-urubu.json) |
@@ -4064,7 +4021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia | 377298 | [377298-utopia.json](./377298-utopia.json) |
 | Utopia | 390549 | [390549-utopia.json](./390549-utopia.json) |
 | Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
-| Utopia 9: A Volatile Vacation | 20360 | [20360-utopia-9-a-volatile-vacation.json](./20360-utopia-9-a-volatile-vacation.json) |
 | Utopia City | 36659 | [36659-utopia-city.json](./36659-utopia-city.json) |
 | Utopia Gatekeeper | 412617 | [412617-utopia-gatekeeper.json](./412617-utopia-gatekeeper.json) |
 | Utopia Must Fall | 301870 | [301870-utopia-must-fall.json](./301870-utopia-must-fall.json) |
@@ -4075,7 +4031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia, an Essay | 139554 | [139554-utopia-an-essay.json](./139554-utopia-an-essay.json) |
 | Utopia: Birth of The Heroes | 388394 | [388394-utopia-birth-of-the-heroes.json](./388394-utopia-birth-of-the-heroes.json) |
 | Utopia: Origin | 182176 | [182176-utopia-origin.json](./182176-utopia-origin.json) |
-| Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
 | Utopian Mining | 408744 | [408744-utopian-mining.json](./408744-utopian-mining.json) |
 | Utopias: Navigating Without Coordinates | 132635 | [132635-utopias-navigating-without-coordinates.json](./132635-utopias-navigating-without-coordinates.json) |
 | Utopos | 156635 | [156635-utopos.json](./156635-utopos.json) |
