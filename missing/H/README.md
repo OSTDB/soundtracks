@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Drivin' | 308121 | [308121-hard-drivin.json](./308121-hard-drivin.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
 | Hard Dunk | 40350 | [40350-hard-dunk.json](./40350-hard-dunk.json) |
+| Hard Edge: War Zone | 399313 | [399313-hard-edge-war-zone.json](./399313-hard-edge-war-zone.json) |
 | Hard Era: The Fantasy Defence | 55572 | [55572-hard-era-the-fantasy-defence.json](./55572-hard-era-the-fantasy-defence.json) |
 | Hard Evidence: Marilyn Monroe Files | 7619 | [7619-hard-evidence-marilyn-monroe-files.json](./7619-hard-evidence-marilyn-monroe-files.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
@@ -6542,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Fork: The Savior's Descent | 320280 | [320280-heretics-fork-the-saviors-descent.json](./320280-heretics-fork-the-saviors-descent.json) |
 | Heretic's Hope | 216329 | [216329-heretics-hope.json](./216329-heretics-hope.json) |
 | Heretic's Lot | 158566 | [158566-heretics-lot.json](./158566-heretics-lot.json) |
+| Heretic's Rapture | 399242 | [399242-heretics-rapture.json](./399242-heretics-rapture.json) |
 | Heretical | 291293 | [291293-heretical.json](./291293-heretical.json) |
 | HereticOS Mr. Lab | 369363 | [369363-hereticos-mr-lab.json](./369363-hereticos-mr-lab.json) |
 | Heretics Amulet | 422222 | [422222-heretics-amulet.json](./422222-heretics-amulet.json) |
@@ -6738,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Ring | 195602 | [195602-hero-ring.json](./195602-hero-ring.json) |
 | Hero Road Online | 367851 | [367851-hero-road-online.json](./367851-hero-road-online.json) |
 | Hero Royale | 181144 | [181144-hero-royale.json](./181144-hero-royale.json) |
+| Hero RPG | 399137 | [399137-hero-rpg.json](./399137-hero-rpg.json) |
 | Hero Rush: Mad King | 72417 | [72417-hero-rush-mad-king.json](./72417-hero-rush-mad-king.json) |
 | Hero Saga | 298517 | [298517-hero-saga.json](./298517-hero-saga.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
@@ -12253,6 +12256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Afterlife | 128907 | [128907-hotel-afterlife.json](./128907-hotel-afterlife.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
+| Hotel Barcelona: Late Check-Out DLC - From Dusk Valley to Grandall Estate. | 399310 | [399310-hotel-barcelona-late-check-out-dlc-from-dusk-valley-to-grandall-estate.json](./399310-hotel-barcelona-late-check-out-dlc-from-dusk-valley-to-grandall-estate.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
 | Hotel Blue Rose no 99 no Heya | 330989 | [330989-hotel-blue-rose-no-99-no-heya.json](./330989-hotel-blue-rose-no-99-no-heya.json) |
 | Hotel Boom! | 251789 | [251789-hotel-boom.json](./251789-hotel-boom.json) |
