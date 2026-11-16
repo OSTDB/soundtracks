@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginary Bad Friend | 328154 | [328154-imaginary-bad-friend.json](./328154-imaginary-bad-friend.json) |
 | Imaginary Chaos Fight | 340509 | [340509-imaginary-chaos-fight.json](./340509-imaginary-chaos-fight.json) |
 | Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
+| Imaginary Friend Institution | 378114 | [378114-imaginary-friend-institution.json](./378114-imaginary-friend-institution.json) |
 | Imaginary Friends | 133689 | [133689-imaginary-friends.json](./133689-imaginary-friends.json) |
 | Imaginary Future | 282163 | [282163-imaginary-future.json](./282163-imaginary-future.json) |
 | Imaginary Future: Expansion | 282164 | [282164-imaginary-future-expansion.json](./282164-imaginary-future-expansion.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine Babyz | 4926 | [4926-imagine-babyz.json](./4926-imagine-babyz.json) |
 | Imagine Earth: Galaxies | 365584 | [365584-imagine-earth-galaxies.json](./365584-imagine-earth-galaxies.json) |
 | Imagine Fashion Party | 4927 | [4927-imagine-fashion-party.json](./4927-imagine-fashion-party.json) |
+| Imagine Future | 378115 | [378115-imagine-future.json](./378115-imagine-future.json) |
 | Imagine Island | 341607 | [341607-imagine-island.json](./341607-imagine-island.json) |
 | Imagine Lifetimes | 128937 | [128937-imagine-lifetimes.json](./128937-imagine-lifetimes.json) |
 | Imagine Nations | 62521 | [62521-imagine-nations.json](./62521-imagine-nations.json) |
@@ -3525,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incident In Oakwood | 285413 | [285413-incident-in-oakwood.json](./285413-incident-in-oakwood.json) |
 | Incident Mahjong | 320828 | [320828-incident-mahjong.json](./320828-incident-mahjong.json) |
 | Incident Survival | 297871 | [297871-incident-survival.json](./297871-incident-survival.json) |
+| Incidente em Varginha Remastered | 379285 | [379285-incidente-em-varginha-remastered.json](./379285-incidente-em-varginha-remastered.json) |
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
 | Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
 | Incision | 166062 | [166062-incision.json](./166062-incision.json) |
