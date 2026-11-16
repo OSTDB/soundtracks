@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handyman | 216202 | [216202-handyman.json](./216202-handyman.json) |
 | Handyman Corporation | 190392 | [190392-handyman-corporation.json](./190392-handyman-corporation.json) |
 | Handyman Fantasy | 368078 | [368078-handyman-fantasy.json](./368078-handyman-fantasy.json) |
+| Handyman Flipper: House Stories | 411166 | [411166-handyman-flipper-house-stories.json](./411166-handyman-flipper-house-stories.json) |
 | Handyman Legend | 220032 | [220032-handyman-legend.json](./220032-handyman-legend.json) |
 | Handyman: House Repair and Flip | 378758 | [378758-handyman-house-repair-and-flip.json](./378758-handyman-house-repair-and-flip.json) |
 | Handyworker's Tale | 176590 | [176590-handyworkers-tale.json](./176590-handyworkers-tale.json) |
