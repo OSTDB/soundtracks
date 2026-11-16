@@ -10512,6 +10512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Gods Tap Tour | 58140 | [58140-rock-gods-tap-tour.json](./58140-rock-gods-tap-tour.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
 | Rock Hero EXE 5 | 343008 | [343008-rock-hero-exe-5.json](./343008-rock-hero-exe-5.json) |
+| Rock Hero: Guitar Legend | 233147 | [233147-rock-hero-guitar-legend.json](./233147-rock-hero-guitar-legend.json) |
 | Rock Hopper | 180893 | [180893-rock-hopper.json](./180893-rock-hopper.json) |
 | Rock Hoppers | 210119 | [210119-rock-hoppers.json](./210119-rock-hoppers.json) |
 | Rock in Code | 104142 | [104142-rock-in-code.json](./104142-rock-in-code.json) |
@@ -12543,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
 | Rope Apple Golf | 232130 | [232130-rope-apple-golf.json](./232130-rope-apple-golf.json) |
 | Rope Around | 119243 | [119243-rope-around.json](./119243-rope-around.json) |
+| Rope Basketball | 232132 | [232132-rope-basketball.json](./232132-rope-basketball.json) |
 | Rope Bowling | 232958 | [232958-rope-bowling.json](./232958-rope-bowling.json) |
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope Dancer | 359320 | [359320-rope-dancer.json](./359320-rope-dancer.json) |
