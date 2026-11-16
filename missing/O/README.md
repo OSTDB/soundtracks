@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
 | Occultic;Nine | 11774 | [11774-occultic-nine.json](./11774-occultic-nine.json) |
+| Occultic;Nine: New World | 264833 | [264833-occultic-nine-new-world.json](./264833-occultic-nine-new-world.json) |
 | Occultism | 347478 | [347478-occultism.json](./347478-occultism.json) |
 | Occultism Interrogation: The Ritual of Little Nightmares | 164922 | [164922-occultism-interrogation-the-ritual-of-little-nightmares.json](./164922-occultism-interrogation-the-ritual-of-little-nightmares.json) |
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
