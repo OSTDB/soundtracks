@@ -11037,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Rush Classic | 132346 | [132346-blast-rush-classic.json](./132346-blast-rush-classic.json) |
 | Blast Rush LS | 342939 | [342939-blast-rush-ls.json](./342939-blast-rush-ls.json) |
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
+| Blast Them All | 284020 | [284020-blast-them-all.json](./284020-blast-them-all.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
 | Blast Valley | 93817 | [93817-blast-valley.json](./93817-blast-valley.json) |
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
@@ -11532,6 +11533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
 | Blinding Blade | 114492 | [114492-blinding-blade.json](./114492-blinding-blade.json) |
 | Blinding Dark | 10053 | [10053-blinding-dark.json](./10053-blinding-dark.json) |
+| Blinding Light | 284021 | [284021-blinding-light.json](./284021-blinding-light.json) |
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blinding Silence | 92270 | [92270-blinding-silence.json](./92270-blinding-silence.json) |
@@ -11825,12 +11827,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Collide | 180023 | [180023-block-collide.json](./180023-block-collide.json) |
 | Block Combine | 54602 | [54602-block-combine.json](./54602-block-combine.json) |
 | Block Competition | 100564 | [100564-block-competition.json](./100564-block-competition.json) |
+| Block Connector | 284022 | [284022-block-connector.json](./284022-block-connector.json) |
 | Block Control | 278436 | [278436-block-control.json](./278436-block-control.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
 | Block Craft Racing | 248273 | [248273-block-craft-racing.json](./248273-block-craft-racing.json) |
 | Block Dash Adventure | 164294 | [164294-block-dash-adventure.json](./164294-block-dash-adventure.json) |
+| Block Defend | 284023 | [284023-block-defend.json](./284023-block-defend.json) |
 | Block Destruction | 150986 | [150986-block-destruction.json](./150986-block-destruction.json) |
 | Block Destruction | 56391 | [56391-block-destruction.json](./56391-block-destruction.json) |
 | Block Dizzy | 235099 | [235099-block-dizzy.json](./235099-block-dizzy.json) |
@@ -11874,6 +11878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Hole | 40029 | [40029-block-hole.json](./40029-block-hole.json) |
 | Block Hopper | 224343 | [224343-block-hopper.json](./224343-block-hopper.json) |
 | Block Hopper | 283388 | [283388-block-hopper.json](./283388-block-hopper.json) |
+| Block Hunter | 284024 | [284024-block-hunter.json](./284024-block-hunter.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block in the Lock | 297690 | [297690-block-in-the-lock.json](./297690-block-in-the-lock.json) |
 | Block it | 348714 | [348714-block-it.json](./348714-block-it.json) |
