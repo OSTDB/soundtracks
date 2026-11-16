@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Mechanic Simulator | 149870 | [149870-offroad-mechanic-simulator.json](./149870-offroad-mechanic-simulator.json) |
 | Offroad Mini Racing | 143547 | [143547-offroad-mini-racing.json](./143547-offroad-mini-racing.json) |
 | Offroad Moto Bike | 232464 | [232464-offroad-moto-bike.json](./232464-offroad-moto-bike.json) |
+| Offroad MotorBike VR | 292699 | [292699-offroad-motorbike-vr.json](./292699-offroad-motorbike-vr.json) |
 | Offroad Night Racing | 193301 | [193301-offroad-night-racing.json](./193301-offroad-night-racing.json) |
 | Offroad Oil Tanker Hill Drivin | 108488 | [108488-offroad-oil-tanker-hill-drivin.json](./108488-offroad-oil-tanker-hill-drivin.json) |
 | Offroad Outlaws | 87365 | [87365-offroad-outlaws.json](./87365-offroad-outlaws.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Angels Pack | 324408 | [324408-one-night-burlesque-angels-pack.json](./324408-one-night-burlesque-angels-pack.json) |
 | One Night: Burlesque - Complete + | 324446 | [324446-one-night-burlesque-complete.json](./324446-one-night-burlesque-complete.json) |
 | One Night: Burlesque - Complete Edition | 295674 | [295674-one-night-burlesque-complete-edition.json](./295674-one-night-burlesque-complete-edition.json) |
+| One Night: Burlesque - Definitive Edition | 291638 | [291638-one-night-burlesque-definitive-edition.json](./291638-one-night-burlesque-definitive-edition.json) |
 | One Night: Burlesque - Deluxe Edition | 278646 | [278646-one-night-burlesque-deluxe-edition.json](./278646-one-night-burlesque-deluxe-edition.json) |
 | One Night: Burlesque - Director's Cut | 304790 | [304790-one-night-burlesque-directors-cut.json](./304790-one-night-burlesque-directors-cut.json) |
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
