@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardner | 41082 | [41082-wardner.json](./41082-wardner.json) |
 | Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
 | WarDogs: Red's Return | 146427 | [146427-wardogs-reds-return.json](./146427-wardogs-reds-return.json) |
+| Wardogs: Supporter Edition | 413303 | [413303-wardogs-supporter-edition.json](./413303-wardogs-supporter-edition.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
 | Wardoll | 339304 | [339304-wardoll.json](./339304-wardoll.json) |
 | WarDoom Wargame | 273393 | [273393-wardoom-wargame.json](./273393-wardoom-wargame.json) |
@@ -7125,6 +7126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch and Spirit | 149909 | [149909-witch-and-spirit.json](./149909-witch-and-spirit.json) |
 | Witch Arcana | 223893 | [223893-witch-arcana.json](./223893-witch-arcana.json) |
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
+| Witch Cabin Cleanup | 413299 | [413299-witch-cabin-cleanup.json](./413299-witch-cabin-cleanup.json) |
 | Witch Challenge | 294394 | [294394-witch-challenge.json](./294394-witch-challenge.json) |
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
 | Witch College 2 | 129994 | [129994-witch-college-2.json](./129994-witch-college-2.json) |
