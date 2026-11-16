@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagonis | 177856 | [177856-octagonis.json](./177856-octagonis.json) |
 | Octalide | 428781 | [428781-octalide.json](./428781-octalide.json) |
 | Octamari Rescue | 32844 | [32844-octamari-rescue.json](./32844-octamari-rescue.json) |
+| Octameta | 287804 | [287804-octameta.json](./287804-octameta.json) |
 | Octane Remix | 134307 | [134307-octane-remix.json](./134307-octane-remix.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
@@ -5410,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Ephemeral Nights | 377032 | [377032-our-ephemeral-nights.json](./377032-our-ephemeral-nights.json) |
 | Our Exciting Summer Camp | 343549 | [343549-our-exciting-summer-camp.json](./343549-our-exciting-summer-camp.json) |
 | Our Eyes See No Evil | 361841 | [361841-our-eyes-see-no-evil.json](./361841-our-eyes-see-no-evil.json) |
+| Our Fantastic Wonderland | 287839 | [287839-our-fantastic-wonderland.json](./287839-our-fantastic-wonderland.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
 | Our Fantasy Quest + More Quests Pack | 227708 | [227708-our-fantasy-quest-more-quests-pack.json](./227708-our-fantasy-quest-more-quests-pack.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
