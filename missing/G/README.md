@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pocket Dating | 290734 | [290734-galactic-pocket-dating.json](./290734-galactic-pocket-dating.json) |
 | Galactic Police 1: Lost | 372179 | [372179-galactic-police-1-lost.json](./372179-galactic-police-1-lost.json) |
 | Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
+| Galactic Prospectors | 346852 | [346852-galactic-prospectors.json](./346852-galactic-prospectors.json) |
 | Galactic Protection Squad: Episode 1 | 132884 | [132884-galactic-protection-squad-episode-1.json](./132884-galactic-protection-squad-episode-1.json) |
 | Galactic Protector | 45652 | [45652-galactic-protector.json](./45652-galactic-protector.json) |
 | Galactic Racing Online | 192475 | [192475-galactic-racing-online.json](./192475-galactic-racing-online.json) |
@@ -9960,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Crystal | 198382 | [198382-greed-crystal.json](./198382-greed-crystal.json) |
 | Greed for Glory: War Strategy | 323140 | [323140-greed-for-glory-war-strategy.json](./323140-greed-for-glory-war-strategy.json) |
 | Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
+| Greed Grid | 347932 | [347932-greed-grid.json](./347932-greed-grid.json) |
 | Greed Hunters | 244637 | [244637-greed-hunters.json](./244637-greed-hunters.json) |
 | Greed Is Bad | 189340 | [189340-greed-is-bad.json](./189340-greed-is-bad.json) |
 | Greed is Good | 263065 | [263065-greed-is-good.json](./263065-greed-is-good.json) |
