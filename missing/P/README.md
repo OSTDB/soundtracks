@@ -8741,6 +8741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Maverta | 187731 | [187731-pirates-of-the-maverta.json](./187731-pirates-of-the-maverta.json) |
 | Pirates of the Polygon Sea | 32562 | [32562-pirates-of-the-polygon-sea.json](./32562-pirates-of-the-polygon-sea.json) |
 | Pirates of the Sea | 165770 | [165770-pirates-of-the-sea.json](./165770-pirates-of-the-sea.json) |
+| Pirates of the Seven Seas | 264256 | [264256-pirates-of-the-seven-seas.json](./264256-pirates-of-the-seven-seas.json) |
 | Pirates of Treasure Island | 73436 | [73436-pirates-of-treasure-island.json](./73436-pirates-of-treasure-island.json) |
 | Pirates on Deck VR | 126750 | [126750-pirates-on-deck-vr.json](./126750-pirates-on-deck-vr.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
@@ -10624,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetFriend | 133879 | [133879-planetfriend.json](./133879-planetfriend.json) |
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
 | Planeticus | 264264 | [264264-planeticus.json](./264264-planeticus.json) |
+| Planetiles | 262627 | [262627-planetiles.json](./262627-planetiles.json) |
 | Planetiny | 351168 | [351168-planetiny.json](./351168-planetiny.json) |
 | Planetka | 292972 | [292972-planetka.json](./292972-planetka.json) |
 | Planetkillerz: Death of a world in five acts. | 188429 | [188429-planetkillerz-death-of-a-world-in-five-acts.json](./188429-planetkillerz-death-of-a-world-in-five-acts.json) |
@@ -17712,6 +17714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Capture: Legacy | 362486 | [362486-project-capture-legacy.json](./362486-project-capture-legacy.json) |
 | Project CarnEvil | 250698 | [250698-project-carnevil.json](./250698-project-carnevil.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
+| Project CARS | 264830 | [264830-project-cars.json](./264830-project-cars.json) |
 | Project CARS 2 | 26709 | [26709-project-cars-2.json](./26709-project-cars-2.json) |
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
 | Project Cars 2: Limited Edition | 100548 | [100548-project-cars-2-limited-edition.json](./100548-project-cars-2-limited-edition.json) |
