@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump 'n' Run VR | 187768 | [187768-jump-n-run-vr.json](./187768-jump-n-run-vr.json) |
 | Jump & Escape | 179368 | [179368-jump-and-escape.json](./179368-jump-and-escape.json) |
 | Jump & Fall | 369168 | [369168-jump-and-fall.json](./369168-jump-and-fall.json) |
+| Jump & Hook | 334394 | [334394-jump-and-hook.json](./334394-jump-and-hook.json) |
 | Jump & Shoot | 113327 | [113327-jump-and-shoot.json](./113327-jump-and-shoot.json) |
 | Jump & Splash | 87129 | [87129-jump-and-splash.json](./87129-jump-and-splash.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
@@ -3669,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Over the Age Collection | 200500 | [200500-jump-over-the-age-collection.json](./200500-jump-over-the-age-collection.json) |
 | Jump Pals | 291704 | [291704-jump-pals.json](./291704-jump-pals.json) |
 | Jump Penguin Final | 279256 | [279256-jump-penguin-final.json](./279256-jump-penguin-final.json) |
+| Jump Potato | 334361 | [334361-jump-potato.json](./334361-jump-potato.json) |
 | Jump Protocol | 411816 | [411816-jump-protocol.json](./411816-jump-protocol.json) |
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
 | Jump Queen | 266119 | [266119-jump-queen.json](./266119-jump-queen.json) |
@@ -3690,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Tale | 235513 | [235513-jump-tale.json](./235513-jump-tale.json) |
 | Jump Tanks | 36330 | [36330-jump-tanks.json](./36330-jump-tanks.json) |
 | Jump the Car | 212618 | [212618-jump-the-car.json](./212618-jump-the-car.json) |
+| Jump The Clock | 335531 | [335531-jump-the-clock.json](./335531-jump-the-clock.json) |
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
 | Jump the Gun | 227450 | [227450-jump-the-gun.json](./227450-jump-the-gun.json) |
 | Jump the Track | 341994 | [341994-jump-the-track.json](./341994-jump-the-track.json) |
@@ -4169,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Builder Simulator | 390537 | [390537-junkyard-builder-simulator.json](./390537-junkyard-builder-simulator.json) |
 | Junkyard Builder: King Of Scrap | 414445 | [414445-junkyard-builder-king-of-scrap.json](./414445-junkyard-builder-king-of-scrap.json) |
 | Junkyard Dive | 260932 | [260932-junkyard-dive.json](./260932-junkyard-dive.json) |
+| Junkyard Empire Simulator | 334378 | [334378-junkyard-empire-simulator.json](./334378-junkyard-empire-simulator.json) |
 | Junkyard File | 392683 | [392683-junkyard-file.json](./392683-junkyard-file.json) |
 | Junkyard Frog | 334742 | [334742-junkyard-frog.json](./334742-junkyard-frog.json) |
 | Junkyard Fury | 173024 | [173024-junkyard-fury.json](./173024-junkyard-fury.json) |
