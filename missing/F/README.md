@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felt That: Boxing | 347117 | [347117-felt-that-boxing.json](./347117-felt-that-boxing.json) |
 | Felt Tip Circus | 33906 | [33906-felt-tip-circus.json](./33906-felt-tip-circus.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
+| Feluna Base | 258234 | [258234-feluna-base.json](./258234-feluna-base.json) |
 | Felzi | 423350 | [423350-felzi.json](./423350-felzi.json) |
 | Female Knight Fllay: Tentacle Party | 97285 | [97285-female-knight-fllay-tentacle-party.json](./97285-female-knight-fllay-tentacle-party.json) |
 | Female Nation Takeover: josei Kokka Nottori Keikaku - Touzoku no Ore ga Ou ni naru | 260696 | [260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json](./260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json) |
@@ -6482,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingun Forever! | 320298 | [320298-fingun-forever.json](./320298-fingun-forever.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
 | Finis Actus | 389730 | [389730-finis-actus.json](./389730-finis-actus.json) |
+| Finish Report | 255306 | [255306-finish-report.json](./255306-finish-report.json) |
 | Finish Your Meatballs! | 427236 | [427236-finish-your-meatballs.json](./427236-finish-your-meatballs.json) |
 | Finished! | 249765 | [249765-finished.json](./249765-finished.json) |
 | Finishline | 320096 | [320096-finishline.json](./320096-finishline.json) |
@@ -11064,6 +11066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of the Dead | 133060 | [133060-forest-of-the-dead.json](./133060-forest-of-the-dead.json) |
 | Forest of the Forgotten Children | 104420 | [104420-forest-of-the-forgotten-children.json](./104420-forest-of-the-forgotten-children.json) |
 | Forest Offroad Driving Simulator | 270568 | [270568-forest-offroad-driving-simulator.json](./270568-forest-offroad-driving-simulator.json) |
+| Forest Phantoms | 255302 | [255302-forest-phantoms.json](./255302-forest-phantoms.json) |
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Problems | 161705 | [161705-forest-problems.json](./161705-forest-problems.json) |
@@ -12564,6 +12567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Bullet Storm | 356531 | [356531-fps-bullet-storm.json](./356531-fps-bullet-storm.json) |
 | FPS Chess 2 | 415132 | [415132-fps-chess-2.json](./415132-fps-chess-2.json) |
 | FPS Chess: Ignition | 415131 | [415131-fps-chess-ignition.json](./415131-fps-chess-ignition.json) |
+| FPS Commando Gun Shooting Game | 254186 | [254186-fps-commando-gun-shooting-game.json](./254186-fps-commando-gun-shooting-game.json) |
 | FPS Dinosaurs | 399659 | [399659-fps-dinosaurs.json](./399659-fps-dinosaurs.json) |
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
 | FPS Infinite | 334154 | [334154-fps-infinite.json](./334154-fps-infinite.json) |
@@ -15939,6 +15943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Mirror | 217407 | [217407-future-mirror.json](./217407-future-mirror.json) |
 | Future Ninja | 164756 | [164756-future-ninja.json](./164756-future-ninja.json) |
 | Future Noir | 123671 | [123671-future-noir.json](./123671-future-noir.json) |
+| Future Offline | 255289 | [255289-future-offline.json](./255289-future-offline.json) |
 | Future Perfect | 36415 | [36415-future-perfect.json](./36415-future-perfect.json) |
 | Future Pinball | 98912 | [98912-future-pinball.json](./98912-future-pinball.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
