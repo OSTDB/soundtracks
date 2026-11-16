@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Fall | 119909 | [119909-ball-fall.json](./119909-ball-fall.json) |
 | Ball Fighter | 84778 | [84778-ball-fighter.json](./84778-ball-fighter.json) |
 | Ball Game | 193275 | [193275-ball-game.json](./193275-ball-game.json) |
+| Ball Game | 320512 | [320512-ball-game.json](./320512-ball-game.json) |
 | Ball Game | 336498 | [336498-ball-game.json](./336498-ball-game.json) |
 | Ball Game | 416033 | [416033-ball-game.json](./416033-ball-game.json) |
 | Ball Game | 75197 | [75197-ball-game.json](./75197-ball-game.json) |
@@ -2076,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamb | 182860 | [182860-bamb.json](./182860-bamb.json) |
 | Bamba's Snack Quest | 141093 | [141093-bambas-snack-quest.json](./141093-bambas-snack-quest.json) |
 | Bambas! | 325345 | [325345-bambas.json](./325345-bambas.json) |
+| Bambi: A Life in the Woods | 319325 | [319325-bambi-a-life-in-the-woods.json](./319325-bambi-a-life-in-the-woods.json) |
 | Bambie | 257002 | [257002-bambie.json](./257002-bambie.json) |
 | Bambino Rally 3 | 32678 | [32678-bambino-rally-3.json](./32678-bambino-rally-3.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
@@ -2566,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bara Blackjack | 207169 | [207169-bara-blackjack.json](./207169-bara-blackjack.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara Giants | 149108 | [149108-bara-giants.json](./149108-bara-giants.json) |
+| Bara Labs | 319258 | [319258-bara-labs.json](./319258-bara-labs.json) |
 | Bara ni Kakusareshi Verite | 12642 | [12642-bara-ni-kakusareshi-verite.json](./12642-bara-ni-kakusareshi-verite.json) |
 | Bara no Ki ni Bara no Hanasaku Fandisk | 218954 | [218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json](./218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
@@ -2963,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardcard | 214479 | [214479-bardcard.json](./214479-bardcard.json) |
 | Bardella and the Curse of Silence | 399167 | [399167-bardella-and-the-curse-of-silence.json](./399167-bardella-and-the-curse-of-silence.json) |
 | Bardi: Real Viking | 344875 | [344875-bardi-real-viking.json](./344875-bardi-real-viking.json) |
+| Bardia | 324049 | [324049-bardia.json](./324049-bardia.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
 | Bardy's Maze: The World's First Zard-PG | 232804 | [232804-bardys-maze-the-worlds-first-zard-pg.json](./232804-bardys-maze-the-worlds-first-zard-pg.json) |
@@ -3671,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Attack | 13810 | [13810-bat-attack.json](./13810-bat-attack.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
+| Bat Bots | 322874 | [322874-bat-bots.json](./322874-bat-bots.json) |
 | Bat Boy | 172891 | [172891-bat-boy.json](./172891-bat-boy.json) |
 | Bat Boy | 364347 | [364347-bat-boy.json](./364347-bat-boy.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
@@ -4226,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle for Treasure | 264715 | [264715-battle-for-treasure.json](./264715-battle-for-treasure.json) |
 | Battle for Troy | 27463 | [27463-battle-for-troy.json](./27463-battle-for-troy.json) |
+| Battle For Vera | 320482 | [320482-battle-for-vera.json](./320482-battle-for-vera.json) |
 | Battle for Wesnoth | 2365 | [2365-battle-for-wesnoth.json](./2365-battle-for-wesnoth.json) |
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
 | Battle for Wesnoth Legacy | 207873 | [207873-battle-for-wesnoth-legacy.json](./207873-battle-for-wesnoth-legacy.json) |
@@ -11680,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Wars | 385365 | [385365-blob-wars.json](./385365-blob-wars.json) |
 | Blob Wars: Attrition | 144887 | [144887-blob-wars-attrition.json](./144887-blob-wars-attrition.json) |
 | Blob Wars: Metal Blob Solid | 178552 | [178552-blob-wars-metal-blob-solid.json](./178552-blob-wars-metal-blob-solid.json) |
+| Blob-Y | 320509 | [320509-blob-y.json](./320509-blob-y.json) |
 | Blob.io | 168514 | [168514-blob-io.json](./168514-blob-io.json) |
 | Blob's Adventure | 344389 | [344389-blobs-adventure.json](./344389-blobs-adventure.json) |
 | Blob's Adventure | 395875 | [395875-blobs-adventure.json](./395875-blobs-adventure.json) |
@@ -12038,6 +12045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockchain Tycoon | 93796 | [93796-blockchain-tycoon.json](./93796-blockchain-tycoon.json) |
 | Blockd Blast | 239239 | [239239-blockd-blast.json](./239239-blockd-blast.json) |
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
+| Blockdock | 320516 | [320516-blockdock.json](./320516-blockdock.json) |
 | BlockDodge | 106882 | [106882-blockdodge.json](./106882-blockdodge.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blockdude | 260909 | [260909-blockdude.json](./260909-blockdude.json) |
@@ -13248,6 +13256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection: Second Light Additional Map - Atelier Ryza Collab Dungeon | 396319 | [396319-blue-reflection-second-light-additional-map-atelier-ryza-collab-dungeon.json](./396319-blue-reflection-second-light-additional-map-atelier-ryza-collab-dungeon.json) |
 | Blue Reflection: Special Event | 396303 | [396303-blue-reflection-special-event.json](./396303-blue-reflection-special-event.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
+| Blue Revolver: Double Action | 324016 | [324016-blue-revolver-double-action.json](./324016-blue-revolver-double-action.json) |
 | Blue Ribbon Darts | 159275 | [159275-blue-ribbon-darts.json](./159275-blue-ribbon-darts.json) |
 | Blue Ribbon Show Jumper | 52472 | [52472-blue-ribbon-show-jumper.json](./52472-blue-ribbon-show-jumper.json) |
 | Blue Rider | 25742 | [25742-blue-rider.json](./25742-blue-rider.json) |
@@ -14966,6 +14975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boondoggle | 364422 | [364422-boondoggle.json](./364422-boondoggle.json) |
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boong?!: Die ultimatiefe Fußballsimulation | 100056 | [100056-boong-die-ultimatiefe-fu-ballsimulation.json](./100056-boong-die-ultimatiefe-fu-ballsimulation.json) |
+| BooniePlanet | 324023 | [324023-boonieplanet.json](./324023-boonieplanet.json) |
 | Boonk Gang | 95129 | [95129-boonk-gang.json](./95129-boonk-gang.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Boons & Burdens | 275412 | [275412-boons-and-burdens.json](./275412-boons-and-burdens.json) |
@@ -15234,6 +15244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boring Movies: Public Domainers | 362312 | [362312-boring-movies-public-domainers.json](./362312-boring-movies-public-domainers.json) |
 | Boring Movies: Scientist | 362311 | [362311-boring-movies-scientist.json](./362311-boring-movies-scientist.json) |
 | Boring Movies: Spooky Bunny | 362308 | [362308-boring-movies-spooky-bunny.json](./362308-boring-movies-spooky-bunny.json) |
+| BoringFly | 320567 | [320567-boringfly.json](./320567-boringfly.json) |
 | Boris | 278622 | [278622-boris.json](./278622-boris.json) |
 | Boris and the Dark Survival | 129677 | [129677-boris-and-the-dark-survival.json](./129677-boris-and-the-dark-survival.json) |
 | Boris and the Dark Survival: Symphony of Shadows | 298711 | [298711-boris-and-the-dark-survival-symphony-of-shadows.json](./298711-boris-and-the-dark-survival-symphony-of-shadows.json) |
@@ -15577,6 +15588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce | 131371 | [131371-bounce.json](./131371-bounce.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
+| Bounce | 328714 | [328714-bounce.json](./328714-bounce.json) |
 | Bounce | 376801 | [376801-bounce.json](./376801-bounce.json) |
 | Bounce | 95270 | [95270-bounce.json](./95270-bounce.json) |
 | Bounce & Break | 85002 | [85002-bounce-and-break.json](./85002-bounce-and-break.json) |
@@ -20171,6 +20183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
 | Burger Wars | 338454 | [338454-burger-wars.json](./338454-burger-wars.json) |
 | Burger Wars | 66112 | [66112-burger-wars.json](./66112-burger-wars.json) |
+| Burger Witch | 318107 | [318107-burger-witch.json](./318107-burger-witch.json) |
 | Burger World | 181794 | [181794-burger-world.json](./181794-burger-world.json) |
 | Burger Yum! | 233995 | [233995-burger-yum.json](./233995-burger-yum.json) |
 | Burger Zombies | 253502 | [253502-burger-zombies.json](./253502-burger-zombies.json) |
@@ -21009,6 +21022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ByteBurst | 281977 | [281977-byteburst.json](./281977-byteburst.json) |
 | Bytecollector | 349621 | [349621-bytecollector.json](./349621-bytecollector.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
+| Byterage | 319252 | [319252-byterage.json](./319252-byterage.json) |
 | ByteRogue | 344990 | [344990-byterogue.json](./344990-byterogue.json) |
 | Bytes and Knights | 341761 | [341761-bytes-and-knights.json](./341761-bytes-and-knights.json) |
 | Bytes and Knights Adventure | 402433 | [402433-bytes-and-knights-adventure.json](./402433-bytes-and-knights-adventure.json) |
