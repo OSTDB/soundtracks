@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamile: The Fall | 122058 | [122058-kamile-the-fall.json](./122058-kamile-the-fall.json) |
 | Kamilia | 336672 | [336672-kamilia.json](./336672-kamilia.json) |
 | Kamimachi Site - Dating story | 118287 | [118287-kamimachi-site-dating-story.json](./118287-kamimachi-site-dating-story.json) |
+| Kaminari | 371796 | [371796-kaminari.json](./371796-kaminari.json) |
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
 | Kaminazo: Mirai kara no Omoi de | 222261 | [222261-kaminazo-mirai-kara-no-omoi-de.json](./222261-kaminazo-mirai-kara-no-omoi-de.json) |
 | Kamio Recoil | 30476 | [30476-kamio-recoil.json](./30476-kamio-recoil.json) |
@@ -807,6 +808,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kane County | 59704 | [59704-kane-county.json](./59704-kane-county.json) |
 | Kane no naru Ki | 298287 | [298287-kane-no-naru-ki.json](./298287-kane-no-naru-ki.json) |
 | Kane TV: The Game | 316332 | [316332-kane-tv-the-game.json](./316332-kane-tv-the-game.json) |
+| Kane's Advocacy | 384421 | [384421-kanes-advocacy.json](./384421-kanes-advocacy.json) |
+| Kane's Plight | 384415 | [384415-kanes-plight.json](./384415-kanes-plight.json) |
 | Kane's Shadow | 133169 | [133169-kanes-shadow.json](./133169-kanes-shadow.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
 | Kang | 396587 | [396587-kang.json](./396587-kang.json) |
@@ -5237,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Beasts & Magic | 234290 | [234290-knights-beasts-and-magic.json](./234290-knights-beasts-and-magic.json) |
 | Knights Chronicle | 103584 | [103584-knights-chronicle.json](./103584-knights-chronicle.json) |
 | Knights College | 142272 | [142272-knights-college.json](./142272-knights-college.json) |
+| Knights College 2 | 379275 | [379275-knights-college-2.json](./379275-knights-college-2.json) |
 | Knights Combo | 299403 | [299403-knights-combo.json](./299403-knights-combo.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
 | Knights Contract | 7039 | [7039-knights-contract.json](./7039-knights-contract.json) |
@@ -5940,6 +5944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koneko mo Issho | 244002 | [244002-koneko-mo-issho.json](./244002-koneko-mo-issho.json) |
 | Koneko Monogatari: The Adventures of Chatran | 41271 | [41271-koneko-monogatari-the-adventures-of-chatran.json](./41271-koneko-monogatari-the-adventures-of-chatran.json) |
 | Koneko Neko Neko | 108173 | [108173-koneko-neko-neko.json](./108173-koneko-neko-neko.json) |
+| Konekomi Castle | 384444 | [384444-konekomi-castle.json](./384444-konekomi-castle.json) |
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
 | Kong | 228270 | [228270-kong.json](./228270-kong.json) |
