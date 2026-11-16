@@ -12679,6 +12679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journalist | 280111 | [280111-the-journalist.json](./280111-the-journalist.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
+| The Journey | 242197 | [242197-the-journey.json](./242197-the-journey.json) |
 | The Journey | 263358 | [263358-the-journey.json](./263358-the-journey.json) |
 | The Journey Back | 34708 | [34708-the-journey-back.json](./34708-the-journey-back.json) |
 | The Journey Down Trilogy | 103209 | [103209-the-journey-down-trilogy.json](./103209-the-journey-down-trilogy.json) |
@@ -21141,6 +21142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wine Hunt: Aim Fidelity | 257975 | [257975-the-wine-hunt-aim-fidelity.json](./257975-the-wine-hunt-aim-fidelity.json) |
 | The Wine Story | 203685 | [203685-the-wine-story.json](./203685-the-wine-story.json) |
 | The Wing of Madoola | 65699 | [65699-the-wing-of-madoola.json](./65699-the-wing-of-madoola.json) |
+| The Wingless Bee | 242283 | [242283-the-wingless-bee.json](./242283-the-wingless-bee.json) |
 | The Wings of Dawn | 236555 | [236555-the-wings-of-dawn.json](./236555-the-wings-of-dawn.json) |
 | The Winning Secret of the Newbie Strategist Princess | 259171 | [259171-the-winning-secret-of-the-newbie-strategist-princess.json](./259171-the-winning-secret-of-the-newbie-strategist-princess.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
@@ -35854,6 +35856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
 | TSE: Reloaded | 288553 | [288553-tse-reloaded.json](./288553-tse-reloaded.json) |
 | Tserof | 288552 | [288552-tserof.json](./288552-tserof.json) |
+| Tsetseg's Adventure | 242183 | [242183-tsetsegs-adventure.json](./242183-tsetsegs-adventure.json) |
 | TSI Cycles | 125274 | [125274-tsi-cycles.json](./125274-tsi-cycles.json) |
 | Tsioque | 34700 | [34700-tsioque.json](./34700-tsioque.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
@@ -36363,6 +36366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
 | Turbo Racing | 238801 | [238801-turbo-racing.json](./238801-turbo-racing.json) |
+| Turbo Racing: New Cars | 242284 | [242284-turbo-racing-new-cars.json](./242284-turbo-racing-new-cars.json) |
 | Turbo Shell | 165272 | [165272-turbo-shell.json](./165272-turbo-shell.json) |
 | Turbo Shot | 186984 | [186984-turbo-shot.json](./186984-turbo-shot.json) |
 | Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
