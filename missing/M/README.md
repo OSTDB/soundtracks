@@ -12038,7 +12038,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microbial Mayhem | 268989 | [268989-microbial-mayhem.json](./268989-microbial-mayhem.json) |
 | Microbial Sector | 321825 | [321825-microbial-sector.json](./321825-microbial-sector.json) |
 | Microbian | 376078 | [376078-microbian.json](./376078-microbian.json) |
-| MicroBot | 21082 | [21082-microbot.json](./21082-microbot.json) |
 | Microbrewery Tycoon | 190337 | [190337-microbrewery-tycoon.json](./190337-microbrewery-tycoon.json) |
 | MicroBuddies | 196712 | [196712-microbuddies.json](./196712-microbuddies.json) |
 | Microchess | 85752 | [85752-microchess.json](./85752-microchess.json) |
