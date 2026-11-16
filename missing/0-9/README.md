@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | ​ARZA: Adrenaline Rush Zombie Assault | 179884 | [179884-arza-adrenaline-rush-zombie-assault.json](./179884-arza-adrenaline-rush-zombie-assault.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
+| Čendovy Patálie | 243439 | [243439-cendovy-patalie.json](./243439-cendovy-patalie.json) |
 | Çimen Adventures: Story Teller | 338528 | [338528-cimen-adventures-story-teller.json](./338528-cimen-adventures-story-teller.json) |
 | Čtyřka | 416576 | [416576-ctyrka.json](./416576-ctyrka.json) |
 | ​Cubeetle: Game of Creation | 179877 | [179877-cubeetle-game-of-creation.json](./179877-cubeetle-game-of-creation.json) |
