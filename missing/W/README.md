@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Was it a Cat I Saw? | 207203 | [207203-was-it-a-cat-i-saw.json](./207203-was-it-a-cat-i-saw.json) |
 | Was It Worth It? | 152811 | [152811-was-it-worth-it.json](./152811-was-it-worth-it.json) |
 | WAS: The Hourglass of Lepidoptera | 139044 | [139044-was-the-hourglass-of-lepidoptera.json](./139044-was-the-hourglass-of-lepidoptera.json) |
+| Was/Were | 287841 | [287841-was-were.json](./287841-was-were.json) |
 | Wasabi | 407993 | [407993-wasabi.json](./407993-wasabi.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | Wasard | 264512 | [264512-wasard.json](./264512-wasard.json) |
@@ -3831,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the World of Zippy the Circle: Visual Novel | 228764 | [228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json](./228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome to the Yokai Inn | 298924 | [298924-welcome-to-the-yokai-inn.json](./298924-welcome-to-the-yokai-inn.json) |
+| Welcome to Ukraine | 287829 | [287829-welcome-to-ukraine.json](./287829-welcome-to-ukraine.json) |
 | Welcome to Victorville | 419641 | [419641-welcome-to-victorville.json](./419641-welcome-to-victorville.json) |
 | Welcome to West Feedback | 60764 | [60764-welcome-to-west-feedback.json](./60764-welcome-to-west-feedback.json) |
 | Welcome to Your Immune System | 189992 | [189992-welcome-to-your-immune-system.json](./189992-welcome-to-your-immune-system.json) |
