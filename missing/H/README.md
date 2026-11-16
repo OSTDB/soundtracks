@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Empire: A Bouquet for the Princess | 30918 | [30918-happy-empire-a-bouquet-for-the-princess.json](./30918-happy-empire-a-bouquet-for-the-princess.json) |
 | Happy Endings | 418081 | [418081-happy-endings.json](./418081-happy-endings.json) |
 | Happy Endings | 82209 | [82209-happy-endings.json](./82209-happy-endings.json) |
+| Happy Engine | 392529 | [392529-happy-engine.json](./392529-happy-engine.json) |
 | Happy Fall | 274388 | [274388-happy-fall.json](./274388-happy-fall.json) |
 | Happy Farm | 246337 | [246337-happy-farm.json](./246337-happy-farm.json) |
 | Happy Farm | 62236 | [62236-happy-farm.json](./62236-happy-farm.json) |
@@ -3707,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
 | Heart | 285573 | [285573-heart.json](./285573-heart.json) |
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
+| Heart & Steel: The Forsworn | 392527 | [392527-heart-and-steel-the-forsworn.json](./392527-heart-and-steel-the-forsworn.json) |
 | Heart a La Mode | 178784 | [178784-heart-a-la-mode.json](./178784-heart-a-la-mode.json) |
 | Heart Abyss | 197240 | [197240-heart-abyss.json](./197240-heart-abyss.json) |
 | Heart Agency | 185191 | [185191-heart-agency.json](./185191-heart-agency.json) |
@@ -3954,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
 | Hearts Deluxe | 118736 | [118736-hearts-deluxe.json](./118736-hearts-deluxe.json) |
 | Hearts Gone Black | 410042 | [410042-hearts-gone-black.json](./410042-hearts-gone-black.json) |
+| Hearts in Hades: Divine Passion | 392526 | [392526-hearts-in-hades-divine-passion.json](./392526-hearts-in-hades-divine-passion.json) |
 | Hearts in Open Water | 428122 | [428122-hearts-in-open-water.json](./428122-hearts-in-open-water.json) |
 | Hearts in Orbit: When Stars Align | 295860 | [295860-hearts-in-orbit-when-stars-align.json](./295860-hearts-in-orbit-when-stars-align.json) |
 | Hearts in Sirence | 298972 | [298972-hearts-in-sirence.json](./298972-hearts-in-sirence.json) |
@@ -5678,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry 2 | 167414 | [167414-hentai-furry-2.json](./167414-hentai-furry-2.json) |
 | Hentai Furry 3 | 221516 | [221516-hentai-furry-3.json](./221516-hentai-furry-3.json) |
 | Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
+| Hentai Furry Cat | 392521 | [392521-hentai-furry-cat.json](./392521-hentai-furry-cat.json) |
 | Hentai Furry Cow | 384584 | [384584-hentai-furry-cow.json](./384584-hentai-furry-cow.json) |
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
 | Hentai Furry Milf | 384701 | [384701-hentai-furry-milf.json](./384701-hentai-furry-milf.json) |
@@ -11018,6 +11022,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
 | Hoo-Boy | 56660 | [56660-hoo-boy.json](./56660-hoo-boy.json) |
 | Hood | 426054 | [426054-hood.json](./426054-hood.json) |
+| Hood Episode 1 | 393032 | [393032-hood-episode-1.json](./393032-hood-episode-1.json) |
+| Hood Episode 2 | 393035 | [393035-hood-episode-2.json](./393035-hood-episode-2.json) |
+| Hood Episode 3 | 393039 | [393039-hood-episode-3.json](./393039-hood-episode-3.json) |
+| Hood Episode 4 | 393077 | [393077-hood-episode-4.json](./393077-hood-episode-4.json) |
 | Hood Ninja | 321932 | [321932-hood-ninja.json](./321932-hood-ninja.json) |
 | Hood RPG | 326099 | [326099-hood-rpg.json](./326099-hood-rpg.json) |
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
