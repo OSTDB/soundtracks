@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T00:35:56.733Z",
-  "total_soundtracks": 3408,
+  "generated_at": "2026-11-16T00:55:58.066Z",
+  "total_soundtracks": 3409,
   "games": [
     {
       "igdb_id": 292844,
@@ -15877,6 +15877,20 @@
         {
           "album_name": "Guild Wars 2: Secrets of the Obscure (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2VwkMkRHsIbxBZhV9Of0cx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 86376,
+      "game_name": "Guilt Battle Arena",
+      "game_url": "https://ostdb.net/games/guilt-battle-arena",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273114ce63a1d6c5181d3dc3f94",
+      "albums": [
+        {
+          "album_name": "Guilt Battle Arena (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7qp666Sr01ehISfsIAZSUd",
           "apple_music_url": "",
           "album_link_url": ""
         }
