@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball-it Hell | 302492 | [302492-ball-it-hell.json](./302492-ball-it-hell.json) |
 | Ball.io | 171880 | [171880-ball-io.json](./171880-ball-io.json) |
 | Ball's Journey | 92113 | [92113-balls-journey.json](./92113-balls-journey.json) |
+| Balla Machina | 381475 | [381475-balla-machina.json](./381475-balla-machina.json) |
 | Ballad of Angels | 310927 | [310927-ballad-of-angels.json](./310927-ballad-of-angels.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballad of Ba'al | 189181 | [189181-ballad-of-baal.json](./189181-ballad-of-baal.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
 | Beneath the Nexus | 152610 | [152610-beneath-the-nexus.json](./152610-beneath-the-nexus.json) |
 | Beneath the Pyramids | 280883 | [280883-beneath-the-pyramids.json](./280883-beneath-the-pyramids.json) |
+| Beneath the Quiet: Where It Ends | 381488 | [381488-beneath-the-quiet-where-it-ends.json](./381488-beneath-the-quiet-where-it-ends.json) |
 | Beneath The Rooftop Sky | 337696 | [337696-beneath-the-rooftop-sky.json](./337696-beneath-the-rooftop-sky.json) |
 | Beneath the shadows | 178377 | [178377-beneath-the-shadows.json](./178377-beneath-the-shadows.json) |
 | Beneath The Six | 360474 | [360474-beneath-the-six.json](./360474-beneath-the-six.json) |
