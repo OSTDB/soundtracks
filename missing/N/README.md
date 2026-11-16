@@ -6533,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Relics | 336874 | [336874-no-mans-sky-relics.json](./336874-no-mans-sky-relics.json) |
 | No Man's Sky: Remnant | 389261 | [389261-no-mans-sky-remnant.json](./389261-no-mans-sky-remnant.json) |
 | No Man's Sky: Sentinel | 221606 | [221606-no-mans-sky-sentinel.json](./221606-no-mans-sky-sentinel.json) |
+| No Man's Sky: Singularity | 252342 | [252342-no-mans-sky-singularity.json](./252342-no-mans-sky-singularity.json) |
 | No Man's Sky: Starborn Phoenix Ship | 325562 | [325562-no-mans-sky-starborn-phoenix-ship.json](./325562-no-mans-sky-starborn-phoenix-ship.json) |
 | No Man's Sky: Synthesis | 222424 | [222424-no-mans-sky-synthesis.json](./222424-no-mans-sky-synthesis.json) |
 | No Man's Sky: The Swarm | 403195 | [403195-no-mans-sky-the-swarm.json](./403195-no-mans-sky-the-swarm.json) |
@@ -8015,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
 | Noun Town Language Learning | 168611 | [168611-noun-town-language-learning.json](./168611-noun-town-language-learning.json) |
 | Noun Town: Learn & Chill | 408986 | [408986-noun-town-learn-and-chill.json](./408986-noun-town-learn-and-chill.json) |
+| Noun Town: VR Language Learning | 253052 | [253052-noun-town-vr-language-learning.json](./253052-noun-town-vr-language-learning.json) |
 | Nounai Este IQ Sapuri DS | 360305 | [360305-nounai-este-iq-sapuri-ds.json](./360305-nounai-este-iq-sapuri-ds.json) |
 | Nounishpunk | 264649 | [264649-nounishpunk.json](./264649-nounishpunk.json) |
 | Nouns Crown | 302040 | [302040-nouns-crown.json](./302040-nouns-crown.json) |
