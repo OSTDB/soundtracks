@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Thalanos | 123883 | [123883-path-of-thalanos.json](./123883-path-of-thalanos.json) |
 | Path of the Abyss | 216571 | [216571-path-of-the-abyss.json](./216571-path-of-the-abyss.json) |
 | Path of the Bogatyr | 356569 | [356569-path-of-the-bogatyr.json](./356569-path-of-the-bogatyr.json) |
+| Path of The Builder | 324034 | [324034-path-of-the-builder.json](./324034-path-of-the-builder.json) |
 | Path of the Dead | 185335 | [185335-path-of-the-dead.json](./185335-path-of-the-dead.json) |
 | Path of the Heart | 364885 | [364885-path-of-the-heart.json](./364885-path-of-the-heart.json) |
 | Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
 | Pawapuro GB | 229570 | [229570-pawapuro-gb.json](./229570-pawapuro-gb.json) |
+| Pawapuro Puzzle | 325740 | [325740-pawapuro-puzzle.json](./325740-pawapuro-puzzle.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
 | Pawapuro Success Legends | 67133 | [67133-pawapuro-success-legends.json](./67133-pawapuro-success-legends.json) |
 | Pawapuro-kun Pocket | 63219 | [63219-pawapuro-kun-pocket.json](./63219-pawapuro-kun-pocket.json) |
@@ -7579,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
 | Pillow of Stone | 176641 | [176641-pillow-of-stone.json](./176641-pillow-of-stone.json) |
 | Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
+| Pillow Pinky | 310774 | [310774-pillow-pinky.json](./310774-pillow-pinky.json) |
 | Pillow Simulator | 155956 | [155956-pillow-simulator.json](./155956-pillow-simulator.json) |
 | Pillow Talk at the End of All Things. | 264401 | [264401-pillow-talk-at-the-end-of-all-things.json](./264401-pillow-talk-at-the-end-of-all-things.json) |
 | Pillowfight Girls | 350196 | [350196-pillowfight-girls.json](./350196-pillowfight-girls.json) |
@@ -8116,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindable Crystal Ball | 247283 | [247283-pindable-crystal-ball.json](./247283-pindable-crystal-ball.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
+| PinDrop | 310307 | [310307-pindrop.json](./310307-pindrop.json) |
 | Pine | 338225 | [338225-pine.json](./338225-pine.json) |
 | Pine | 56470 | [56470-pine.json](./56470-pine.json) |
 | Pine Applin | 73441 | [73441-pine-applin.json](./73441-pine-applin.json) |
@@ -10225,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plagueworld | 119810 | [119810-plagueworld.json](./119810-plagueworld.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plaid - A Unique Puzzle Game | 101193 | [101193-plaid-a-unique-puzzle-game.json](./101193-plaid-a-unique-puzzle-game.json) |
+| Plain | 322873 | [322873-plain.json](./322873-plain.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
 | Plain Song | 368501 | [368501-plain-song.json](./368501-plain-song.json) |
 | Plain Song: Christmas Special | 368544 | [368544-plain-song-christmas-special.json](./368544-plain-song-christmas-special.json) |
