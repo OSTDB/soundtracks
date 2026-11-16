@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in Pocket | 122579 | [122579-war-in-pocket.json](./122579-war-in-pocket.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
+| War in Space | 280973 | [280973-war-in-space.json](./280973-war-in-space.json) |
 | War in Spain 1936-39 | 388197 | [388197-war-in-spain-1936-39.json](./388197-war-in-spain-1936-39.json) |
 | War in the Caverns | 227722 | [227722-war-in-the-caverns.json](./227722-war-in-the-caverns.json) |
 | War in the Gulf | 48931 | [48931-war-in-the-gulf.json](./48931-war-in-the-gulf.json) |
