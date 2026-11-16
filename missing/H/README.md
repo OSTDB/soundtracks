@@ -12772,6 +12772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Do You Do It? | 60443 | [60443-how-do-you-do-it.json](./60443-how-do-you-do-it.json) |
 | How Do You Know Mr. Blue? | 115757 | [115757-how-do-you-know-mr-blue.json](./115757-how-do-you-know-mr-blue.json) |
 | How do you like it, Elon Musk? | 113364 | [113364-how-do-you-like-it-elon-musk.json](./113364-how-do-you-like-it-elon-musk.json) |
+| How Do You Like Your Pain? | 401238 | [401238-how-do-you-like-your-pain.json](./401238-how-do-you-like-your-pain.json) |
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Does Into Game? | 406921 | [406921-how-does-into-game.json](./406921-how-does-into-game.json) |
 | How does it work!? | 158347 | [158347-how-does-it-work.json](./158347-how-does-it-work.json) |
