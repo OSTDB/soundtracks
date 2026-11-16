@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattobi! Takuhai Kun | 37682 | [37682-kattobi-takuhai-kun.json](./37682-kattobi-takuhai-kun.json) |
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
+| Katuba's Poacher | 258232 | [258232-katubas-poacher.json](./258232-katubas-poacher.json) |
 | Katy & Bob: Cake Café | 113341 | [113341-katy-and-bob-cake-cafe.json](./113341-katy-and-bob-cake-cafe.json) |
 | Katy & Bob: Safari Café | 91236 | [91236-katy-and-bob-safari-cafe.json](./91236-katy-and-bob-safari-cafe.json) |
 | Katy & Bob: Way Back Home | 54157 | [54157-katy-and-bob-way-back-home.json](./54157-katy-and-bob-way-back-home.json) |
@@ -3389,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur II: The Role-Playing Wargame | 7586 | [7586-king-arthur-ii-the-role-playing-wargame.json](./7586-king-arthur-ii-the-role-playing-wargame.json) |
 | King Arthur II: The Role-Playing Wargame + Dead Legions | 313230 | [313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json](./313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json) |
 | King Arthur Is Dead | 385299 | [385299-king-arthur-is-dead.json](./385299-king-arthur-is-dead.json) |
+| King Arthur Project | 252341 | [252341-king-arthur-project.json](./252341-king-arthur-project.json) |
 | King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
 | King Arthur: Knight's Tale | 139883 | [139883-king-arthur-knights-tale.json](./139883-king-arthur-knights-tale.json) |
 | King Arthur: Knight's Tale - Brigands Skirmish Pack | 227717 | [227717-king-arthur-knights-tale-brigands-skirmish-pack.json](./227717-king-arthur-knights-tale-brigands-skirmish-pack.json) |
