@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Droid | 95810 | [95810-virtual-droid.json](./95810-virtual-droid.json) |
 | Virtual Duck Hunt | 382521 | [382521-virtual-duck-hunt.json](./382521-virtual-duck-hunt.json) |
 | Virtual Earth Online | 106642 | [106642-virtual-earth-online.json](./106642-virtual-earth-online.json) |
+| Virtual Encore | 415363 | [415363-virtual-encore.json](./415363-virtual-encore.json) |
 | Virtual Escape - The Play Room | 131875 | [131875-virtual-escape-the-play-room.json](./131875-virtual-escape-the-play-room.json) |
 | Virtual Escape: Digital World | 167838 | [167838-virtual-escape-digital-world.json](./167838-virtual-escape-digital-world.json) |
 | Virtual Expo 2025 Japan | 373170 | [373170-virtual-expo-2025-japan.json](./373170-virtual-expo-2025-japan.json) |
@@ -3368,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vital Bracelet Arena | 270627 | [270627-vital-bracelet-arena.json](./270627-vital-bracelet-arena.json) |
 | Vital Bracelet Digital Monster | 336184 | [336184-vital-bracelet-digital-monster.json](./336184-vital-bracelet-digital-monster.json) |
 | Vital Charge | 400312 | [400312-vital-charge.json](./400312-vital-charge.json) |
+| Vital Decisions | 415366 | [415366-vital-decisions.json](./415366-vital-decisions.json) |
 | Vital Device: Entrapped by the Queen | 124497 | [124497-vital-device-entrapped-by-the-queen.json](./124497-vital-device-entrapped-by-the-queen.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
 | Vital Light | 38838 | [38838-vital-light.json](./38838-vital-light.json) |
