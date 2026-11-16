@@ -3322,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embedded VR | 183686 | [183686-embedded-vr.json](./183686-embedded-vr.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Ember Crusade IV | 188880 | [188880-ember-crusade-iv.json](./188880-ember-crusade-iv.json) |
+| Ember Fall | 363596 | [363596-ember-fall.json](./363596-ember-fall.json) |
 | Ember Island | 391189 | [391189-ember-island.json](./391189-ember-island.json) |
 | Ember Kaboom | 33291 | [33291-ember-kaboom.json](./33291-ember-kaboom.json) |
 | Ember Knight Solitaire | 156107 | [156107-ember-knight-solitaire.json](./156107-ember-knight-solitaire.json) |
@@ -6313,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Baby Alarm | 344625 | [344625-escape-the-baby-alarm.json](./344625-escape-the-baby-alarm.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
 | Escape the Barn | 169509 | [169509-escape-the-barn.json](./169509-escape-the-barn.json) |
+| Escape the Beach | 363600 | [363600-escape-the-beach.json](./363600-escape-the-beach.json) |
 | Escape the Boardgame | 336719 | [336719-escape-the-boardgame.json](./336719-escape-the-boardgame.json) |
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
 | Escape the Challenge | 120973 | [120973-escape-the-challenge.json](./120973-escape-the-challenge.json) |
