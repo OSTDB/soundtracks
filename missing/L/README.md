@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LavaCat Run | 77416 | [77416-lavacat-run.json](./77416-lavacat-run.json) |
 | Lavalads | 402268 | [402268-lavalads.json](./402268-lavalads.json) |
 | Lavalamp | 150372 | [150372-lavalamp.json](./150372-lavalamp.json) |
+| LavaLoop | 305664 | [305664-lavaloop.json](./305664-lavaloop.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
 | Lavender | 186625 | [186625-lavender.json](./186625-lavender.json) |
 | Lavender Field | 347353 | [347353-lavender-field.json](./347353-lavender-field.json) |
@@ -9398,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Meow | 295619 | [295619-lost-meow.json](./295619-lost-meow.json) |
 | Lost Meridian | 270491 | [270491-lost-meridian.json](./270491-lost-meridian.json) |
 | Lost Mind | 405022 | [405022-lost-mind.json](./405022-lost-mind.json) |
+| Lost Moment | 305651 | [305651-lost-moment.json](./305651-lost-moment.json) |
 | Lost Museum: Echoes of the Chromageists | 416055 | [416055-lost-museum-echoes-of-the-chromageists.json](./416055-lost-museum-echoes-of-the-chromageists.json) |
 | Lost my Collection of 100 Shells | 359574 | [359574-lost-my-collection-of-100-shells.json](./359574-lost-my-collection-of-100-shells.json) |
 | Lost My Collection of 600 Stars | 364959 | [364959-lost-my-collection-of-600-stars.json](./364959-lost-my-collection-of-600-stars.json) |
