@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Stars | 104105 | [104105-tank-stars.json](./104105-tank-stars.json) |
 | Tank Stars 2 | 188344 | [188344-tank-stars-2.json](./188344-tank-stars-2.json) |
 | Tank Storage | 258448 | [258448-tank-storage.json](./258448-tank-storage.json) |
+| Tank Strike | 258161 | [258161-tank-strike.json](./258161-tank-strike.json) |
 | Tank Strike | 76609 | [76609-tank-strike.json](./76609-tank-strike.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank survival Game | 110985 | [110985-tank-survival-game.json](./110985-tank-survival-game.json) |
@@ -4214,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo | 74385 | [74385-tempo.json](./74385-tempo.json) |
 | Tempo Cube | 279916 | [279916-tempo-cube.json](./279916-tempo-cube.json) |
 | Tempo Jr. | 19761 | [19761-tempo-jr.json](./19761-tempo-jr.json) |
+| Tempo Mayhem | 255290 | [255290-tempo-mayhem.json](./255290-tempo-mayhem.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempo Punk | 212148 | [212148-tempo-punk.json](./212148-tempo-punk.json) |
 | Tempo Quest | 103049 | [103049-tempo-quest.json](./103049-tempo-quest.json) |
@@ -14203,6 +14205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Navi Trackers | 91680 | [91680-the-legend-of-zelda-navi-trackers.json](./91680-the-legend-of-zelda-navi-trackers.json) |
 | The Legend of Zelda: Navi’s Quest | 330579 | [330579-the-legend-of-zelda-navi-s-quest.json](./330579-the-legend-of-zelda-navi-s-quest.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
+| The Legend of Zelda: New Awakening | 255400 | [255400-the-legend-of-zelda-new-awakening.json](./255400-the-legend-of-zelda-new-awakening.json) |
 | The Legend of Zelda: New Beginnings | 322102 | [322102-the-legend-of-zelda-new-beginnings.json](./322102-the-legend-of-zelda-new-beginnings.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
 | The Legend of Zelda: Ocarina of Time | 405460 | [405460-the-legend-of-zelda-ocarina-of-time.json](./405460-the-legend-of-zelda-ocarina-of-time.json) |
@@ -33170,6 +33173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans Goetia | 239529 | [239529-trans-goetia.json](./239529-trans-goetia.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Neuronica | 247801 | [247801-trans-neuronica.json](./247801-trans-neuronica.json) |
+| Trans Ops | 258151 | [258151-trans-ops.json](./258151-trans-ops.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Atlantic Balloon Challenge | 416415 | [416415-trans-atlantic-balloon-challenge.json](./416415-trans-atlantic-balloon-challenge.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
@@ -33464,6 +33468,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped on the Balcony | 327480 | [327480-trapped-on-the-balcony.json](./327480-trapped-on-the-balcony.json) |
 | Trapped Out | 338612 | [338612-trapped-out.json](./338612-trapped-out.json) |
 | Trapped Part One: The White Rabbit | 257854 | [257854-trapped-part-one-the-white-rabbit.json](./257854-trapped-part-one-the-white-rabbit.json) |
+| Trapped Part Three: The Labyrinth | 258150 | [258150-trapped-part-three-the-labyrinth.json](./258150-trapped-part-three-the-labyrinth.json) |
+| Trapped Part Two: The Dark | 258149 | [258149-trapped-part-two-the-dark.json](./258149-trapped-part-two-the-dark.json) |
 | Trapped Souls | 30026 | [30026-trapped-souls.json](./30026-trapped-souls.json) |
 | Trapped Summoner | 38495 | [38495-trapped-summoner.json](./38495-trapped-summoner.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
@@ -34992,6 +34998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll's Tale | 50910 | [50910-trolls-tale.json](./50910-trolls-tale.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
 | Trollbound | 233131 | [233131-trollbound.json](./233131-trollbound.json) |
+| Trolley | 255294 | [255294-trolley.json](./255294-trolley.json) |
 | Trolley Dash | 347424 | [347424-trolley-dash.json](./347424-trolley-dash.json) |
 | Trolley Delayma | 267294 | [267294-trolley-delayma.json](./267294-trolley-delayma.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
