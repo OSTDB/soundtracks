@@ -17151,6 +17151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Shooter VR | 266589 | [266589-pro-shooter-vr.json](./266589-pro-shooter-vr.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
 | Pro Skater 2D | 30648 | [30648-pro-skater-2d.json](./30648-pro-skater-2d.json) |
+| Pro Skiing | 246129 | [246129-pro-skiing.json](./246129-pro-skiing.json) |
 | Pro Snooker & Pool 2018 | 87554 | [87554-pro-snooker-and-pool-2018.json](./87554-pro-snooker-and-pool-2018.json) |
 | Pro Soccer | 385779 | [385779-pro-soccer.json](./385779-pro-soccer.json) |
 | Pro Soccer | 83350 | [83350-pro-soccer.json](./83350-pro-soccer.json) |
