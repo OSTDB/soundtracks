@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Essential DLC Bundle | 284862 | [284862-generation-zero-essential-dlc-bundle.json](./284862-generation-zero-essential-dlc-bundle.json) |
 | Generation Zero: Fnix Rising | 150087 | [150087-generation-zero-fnix-rising.json](./150087-generation-zero-fnix-rising.json) |
 | Generation Zero: Gold Bundle | 284859 | [284859-generation-zero-gold-bundle.json](./284859-generation-zero-gold-bundle.json) |
+| Generation Zero: Heavy Weapons Pack | 306825 | [306825-generation-zero-heavy-weapons-pack.json](./306825-generation-zero-heavy-weapons-pack.json) |
 | Generation Zero: Motorbikes Pack | 234917 | [234917-generation-zero-motorbikes-pack.json](./234917-generation-zero-motorbikes-pack.json) |
 | Generation Zero: Reinforced Flakmoped Pack | 280141 | [280141-generation-zero-reinforced-flakmoped-pack.json](./280141-generation-zero-reinforced-flakmoped-pack.json) |
 | Generation Zero: Resistance Bundle | 164785 | [164785-generation-zero-resistance-bundle.json](./164785-generation-zero-resistance-bundle.json) |
@@ -12353,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Tri Age | 65903 | [65903-gundam-tri-age.json](./65903-gundam-tri-age.json) |
 | Gundam Try Age SP | 58539 | [58539-gundam-try-age-sp.json](./58539-gundam-try-age-sp.json) |
 | Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
+| Gundam Versus: Navi - Olga, Atra, Fumitan | 306846 | [306846-gundam-versus-navi-olga-atra-fumitan.json](./306846-gundam-versus-navi-olga-atra-fumitan.json) |
 | Gundam Versus: Premium G Sound Edition | 136696 | [136696-gundam-versus-premium-g-sound-edition.json](./136696-gundam-versus-premium-g-sound-edition.json) |
 | Gundam Virtual Modeler Light | 108785 | [108785-gundam-virtual-modeler-light.json](./108785-gundam-virtual-modeler-light.json) |
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
@@ -12478,6 +12480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunman | 172650 | [172650-gunman.json](./172650-gunman.json) |
 | Gunman and the Witch | 129295 | [129295-gunman-and-the-witch.json](./129295-gunman-and-the-witch.json) |
 | Gunman Chronicles | 8319 | [8319-gunman-chronicles.json](./8319-gunman-chronicles.json) |
+| Gunman Clive | 306159 | [306159-gunman-clive.json](./306159-gunman-clive.json) |
 | Gunman Clive | 8599 | [8599-gunman-clive.json](./8599-gunman-clive.json) |
 | Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
 | Gunman Clive Game Boy Edition | 194831 | [194831-gunman-clive-game-boy-edition.json](./194831-gunman-clive-game-boy-edition.json) |
