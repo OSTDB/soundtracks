@@ -5000,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
 | Nightclub Shufflepuck | 91516 | [91516-nightclub-shufflepuck.json](./91516-nightclub-shufflepuck.json) |
 | NightClub Simulator | 293119 | [293119-nightclub-simulator.json](./293119-nightclub-simulator.json) |
+| Nightcrawler | 389244 | [389244-nightcrawler.json](./389244-nightcrawler.json) |
 | NightCrawler | 288822 | [288822-nightcrawler.json](./288822-nightcrawler.json) |
 | Nightcrawler VR Bowling | 37400 | [37400-nightcrawler-vr-bowling.json](./37400-nightcrawler-vr-bowling.json) |
 | NightCry | 19132 | [19132-nightcry.json](./19132-nightcry.json) |
@@ -5401,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niji-iro Dodge Ball: Otome-tachi no Seishun | 65646 | [65646-niji-iro-dodge-ball-otome-tachi-no-seishun.json](./65646-niji-iro-dodge-ball-otome-tachi-no-seishun.json) |
 | Nìjiàn 2 | 164947 | [164947-nijian-2.json](./164947-nijian-2.json) |
 | Nijica | 344420 | [344420-nijica.json](./344420-nijica.json) |
+| Nijiiro Twinkle | 389243 | [389243-nijiiro-twinkle.json](./389243-nijiiro-twinkle.json) |
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
 | Nijowari: Where Angels Fall | 126262 | [126262-nijowari-where-angels-fall.json](./126262-nijowari-where-angels-fall.json) |
 | Nijuu Yuumu | 167127 | [167127-nijuu-yuumu.json](./167127-nijuu-yuumu.json) |
