@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on the Zone | 157300 | [157300-raid-on-the-zone.json](./157300-raid-on-the-zone.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
 | Raid on Tri City: Second Wave | 289129 | [289129-raid-on-tri-city-second-wave.json](./289129-raid-on-tri-city-second-wave.json) |
+| Raid One: 1 vs 5 Online Boss Battle | 403854 | [403854-raid-one-1-vs-5-online-boss-battle.json](./403854-raid-one-1-vs-5-online-boss-battle.json) |
 | Raid over Moscow | 18168 | [18168-raid-over-moscow.json](./18168-raid-over-moscow.json) |
 | Raid over Moscow | 251636 | [251636-raid-over-moscow.json](./251636-raid-over-moscow.json) |
 | Raid Run | 302869 | [302869-raid-run.json](./302869-raid-run.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain of Reflections: Set Free | 138971 | [138971-rain-of-reflections-set-free.json](./138971-rain-of-reflections-set-free.json) |
 | Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
 | Rain on Your Parade | 129057 | [129057-rain-on-your-parade.json](./129057-rain-on-your-parade.json) |
+| Rain on Your Parade + Cleaning Up! | 402586 | [402586-rain-on-your-parade-cleaning-up.json](./402586-rain-on-your-parade-cleaning-up.json) |
 | Rain on Your Parade + Just Crow Things | 331909 | [331909-rain-on-your-parade-just-crow-things.json](./331909-rain-on-your-parade-just-crow-things.json) |
 | Rain on Your Parade + Levels and Features DLC! | 199818 | [199818-rain-on-your-parade-levels-and-features-dlc.json](./199818-rain-on-your-parade-levels-and-features-dlc.json) |
 | Rain on Your Parade: Rain on Your DLC | 199914 | [199914-rain-on-your-parade-rain-on-your-dlc.json](./199914-rain-on-your-parade-rain-on-your-dlc.json) |
@@ -14584,6 +14586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RussianPunk 2007 | 157070 | [157070-russianpunk-2007.json](./157070-russianpunk-2007.json) |
 | Russiaphobia | 182605 | [182605-russiaphobia.json](./182605-russiaphobia.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
+| Russkie Strip-Shashki | 403973 | [403973-russkie-strip-shashki.json](./403973-russkie-strip-shashki.json) |
 | Russpuppy Kid Books | 256051 | [256051-russpuppy-kid-books.json](./256051-russpuppy-kid-books.json) |
 | Russpuppy Kid Games | 107522 | [107522-russpuppy-kid-games.json](./107522-russpuppy-kid-games.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
@@ -14727,6 +14730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruzh Delta Z | 35230 | [35230-ruzh-delta-z.json](./35230-ruzh-delta-z.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
+| RV Co-Op Roadtrip | 405192 | [405192-rv-co-op-roadtrip.json](./405192-rv-co-op-roadtrip.json) |
 | RV Drive There Co-op | 389069 | [389069-rv-drive-there-co-op.json](./389069-rv-drive-there-co-op.json) |
 | RV Escape | 210286 | [210286-rv-escape.json](./210286-rv-escape.json) |
 | RV Kingdom 0x0297 | 260563 | [260563-rv-kingdom-0x0297.json](./260563-rv-kingdom-0x0297.json) |
