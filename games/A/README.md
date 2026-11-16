@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc69db7e50ad3c61af6ce700" width="60" /> | [A Blind Legend](https://ostdb.net/games/a-blind-legend) | **A Blind Legend (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7clBRLqropxEOFTNhy7LDb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27321510a1e5ae26e315cd695a1" width="60" /> | [A Certain Incremental Exoplanet](https://ostdb.net/games/a-certain-incremental-exoplanet) | **A Certain Incremental Exoplanet (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/20RfU61YP13reEutn8CVgM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc592615e775dde7b9a69992" width="60" /> | [A Gentlemen's Dispute](https://ostdb.net/games/a-gentlemens-dispute) | **A Gentlemen's Dispute (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1iuM0SGDod0QHlLr4Ewhso) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/af/95/8aaf9512-b9c3-1e66-be69-0f9b7c217c77/859723515090_cover.jpg/600x600bb.jpg" width="60" /> | [A Hat in Time](https://ostdb.net/games/a-hat-in-time) | **A Hat in Time (Original Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/a-hat-in-time-original-game-soundtrack/1299393881?uo=4) · [Album](https://album.link/i/1299393881) |
