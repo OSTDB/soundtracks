@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon City of Desires | 260155 | [260155-neon-city-of-desires.json](./260155-neon-city-of-desires.json) |
 | Neon City Riders | 51949 | [51949-neon-city-riders.json](./51949-neon-city-riders.json) |
 | Neon City Riders: Super-Powered Edition | 169181 | [169181-neon-city-riders-super-powered-edition.json](./169181-neon-city-riders-super-powered-edition.json) |
+| Neon City Survivor | 236026 | [236026-neon-city-survivor.json](./236026-neon-city-survivor.json) |
 | Neon Clash: Echoes of the Lost | 276732 | [276732-neon-clash-echoes-of-the-lost.json](./276732-neon-clash-echoes-of-the-lost.json) |
 | Neon Coliseum | 55612 | [55612-neon-coliseum.json](./55612-neon-coliseum.json) |
 | Neon Colony | 349212 | [349212-neon-colony.json](./349212-neon-colony.json) |
@@ -3235,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netherspace | 190942 | [190942-netherspace.json](./190942-netherspace.json) |
 | Netherspace 2 | 186474 | [186474-netherspace-2.json](./186474-netherspace-2.json) |
 | Netherspire | 403686 | [403686-netherspire.json](./403686-netherspire.json) |
+| Netherverse | 235529 | [235529-netherverse.json](./235529-netherverse.json) |
 | Netherworld | 113403 | [113403-netherworld.json](./113403-netherworld.json) |
 | Netherworld Covenant | 317973 | [317973-netherworld-covenant.json](./317973-netherworld-covenant.json) |
 | Netherworld: Beyond Time I Stand | 172507 | [172507-netherworld-beyond-time-i-stand.json](./172507-netherworld-beyond-time-i-stand.json) |
@@ -5388,6 +5390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightwatch at the Museum | 415874 | [415874-nightwatch-at-the-museum.json](./415874-nightwatch-at-the-museum.json) |
 | Nightwatch: Nightmare Creatures | 275361 | [275361-nightwatch-nightmare-creatures.json](./275361-nightwatch-nightmare-creatures.json) |
 | Nightwater | 386296 | [386296-nightwater.json](./386296-nightwater.json) |
+| Nightway | 236585 | [236585-nightway.json](./236585-nightway.json) |
 | Nightwolf: Survive the Megadome | 68995 | [68995-nightwolf-survive-the-megadome.json](./68995-nightwolf-survive-the-megadome.json) |
 | NightZ | 30711 | [30711-nightz.json](./30711-nightz.json) |
 | NightZero:Mistiltein | 125356 | [125356-nightzero-mistiltein.json](./125356-nightzero-mistiltein.json) |
