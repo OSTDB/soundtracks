@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamaghost Jump!I Can't Believe It's Not Exorcism! | 307690 | [307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json](./307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamago de Puzzle | 230485 | [230485-tamago-de-puzzle.json](./230485-tamago-de-puzzle.json) |
+| Tamagoneko | 244442 | [244442-tamagoneko.json](./244442-tamagoneko.json) |
 | Tamagopanda no Muchuu Land ni Youkoso!: Waku-waku Taiken Stamp Rally 100 | 327706 | [327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json](./327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json) |
 | Tamagorudo | 181423 | [181423-tamagorudo.json](./181423-tamagorudo.json) |
 | Tamagorudo: Floor O | 347384 | [347384-tamagorudo-floor-o.json](./347384-tamagorudo-floor-o.json) |
@@ -3705,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles Basketball | 218932 | [218932-teenage-mutant-ninja-turtles-basketball.json](./218932-teenage-mutant-ninja-turtles-basketball.json) |
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
+| Teenage Mutant Ninja Turtles HD | 243435 | [243435-teenage-mutant-ninja-turtles-hd.json](./243435-teenage-mutant-ninja-turtles-hd.json) |
 | Teenage Mutant Ninja Turtles II: Splinter Speaks | 218929 | [218929-teenage-mutant-ninja-turtles-ii-splinter-speaks.json](./218929-teenage-mutant-ninja-turtles-ii-splinter-speaks.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
 | Teenage Mutant Ninja Turtles III: Radical Rescue | 48927 | [48927-teenage-mutant-ninja-turtles-iii-radical-rescue.json](./48927-teenage-mutant-ninja-turtles-iii-radical-rescue.json) |
@@ -5161,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorbane | 152966 | [152966-terrorbane.json](./152966-terrorbane.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
+| Terrordactyl Carnivore | 243437 | [243437-terrordactyl-carnivore.json](./243437-terrordactyl-carnivore.json) |
 | Terrordrome: Reign of the Legends | 103050 | [103050-terrordrome-reign-of-the-legends.json](./103050-terrordrome-reign-of-the-legends.json) |
 | Terrordrome: Rise of the Boogeymen | 47036 | [47036-terrordrome-rise-of-the-boogeymen.json](./47036-terrordrome-rise-of-the-boogeymen.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
@@ -9218,6 +9221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil Game: Action Puzzle Game | 286911 | [286911-the-devil-game-action-puzzle-game.json](./286911-the-devil-game-action-puzzle-game.json) |
 | The Devil Haunts Me | 113225 | [113225-the-devil-haunts-me.json](./113225-the-devil-haunts-me.json) |
 | The Devil Inside | 11786 | [11786-the-devil-inside.json](./11786-the-devil-inside.json) |
+| The Devil Lives Down Here | 244450 | [244450-the-devil-lives-down-here.json](./244450-the-devil-lives-down-here.json) |
 | The Devil on G-String | 26789 | [26789-the-devil-on-g-string.json](./26789-the-devil-on-g-string.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
@@ -12671,6 +12675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jolly Gangs Spooky Adventure | 53752 | [53752-the-jolly-gangs-spooky-adventure.json](./53752-the-jolly-gangs-spooky-adventure.json) |
 | The Jongg CD | 80184 | [80184-the-jongg-cd.json](./80184-the-jongg-cd.json) |
 | The Joogle Bros. | 391396 | [391396-the-joogle-bros.json](./391396-the-joogle-bros.json) |
+| The JOTA Collection | 243363 | [243363-the-jota-collection.json](./243363-the-jota-collection.json) |
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journalist | 280111 | [280111-the-journalist.json](./280111-the-journalist.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
@@ -13362,6 +13367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door: Complete Edition | 118676 | [118676-the-last-door-complete-edition.json](./118676-the-last-door-complete-edition.json) |
 | The Last Door: Legacy Edition | 204909 | [204909-the-last-door-legacy-edition.json](./204909-the-last-door-legacy-edition.json) |
 | The Last Door: Season 2 - Collector's Edition | 34468 | [34468-the-last-door-season-2-collectors-edition.json](./34468-the-last-door-season-2-collectors-edition.json) |
+| The Last Dragon Slayer | 243359 | [243359-the-last-dragon-slayer.json](./243359-the-last-dragon-slayer.json) |
 | The Last Dream | 88841 | [88841-the-last-dream.json](./88841-the-last-dream.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
 | The Last Drive: 2335 | 359607 | [359607-the-last-drive-2335.json](./359607-the-last-drive-2335.json) |
@@ -21593,6 +21599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm: Final Bar Line - Live A Live Pack | 354519 | [354519-theatrhythm-final-bar-line-live-a-live-pack.json](./354519-theatrhythm-final-bar-line-live-a-live-pack.json) |
 | Theatrhythm: Final Bar Line - Mana Pack | 255229 | [255229-theatrhythm-final-bar-line-mana-pack.json](./255229-theatrhythm-final-bar-line-mana-pack.json) |
 | Theatrhythm: Final Bar Line - Mana Pack Vol. 2 | 268537 | [268537-theatrhythm-final-bar-line-mana-pack-vol-2.json](./268537-theatrhythm-final-bar-line-mana-pack-vol-2.json) |
+| Theatrhythm: Final Bar Line - NieR Pack | 243365 | [243365-theatrhythm-final-bar-line-nier-pack.json](./243365-theatrhythm-final-bar-line-nier-pack.json) |
 | Theatrhythm: Final Bar Line - NieR Pack Vol. 2 | 354544 | [354544-theatrhythm-final-bar-line-nier-pack-vol-2.json](./354544-theatrhythm-final-bar-line-nier-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - Octopath Traveler Pack | 354512 | [354512-theatrhythm-final-bar-line-octopath-traveler-pack.json](./354512-theatrhythm-final-bar-line-octopath-traveler-pack.json) |
 | Theatrhythm: Final Bar Line - Premium Digital Deluxe Edition | 219487 | [219487-theatrhythm-final-bar-line-premium-digital-deluxe-edition.json](./219487-theatrhythm-final-bar-line-premium-digital-deluxe-edition.json) |
@@ -37537,6 +37544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Space Harrier | 108887 | [108887-typing-space-harrier.json](./108887-typing-space-harrier.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
+| Typing Tempo | 243432 | [243432-typing-tempo.json](./243432-typing-tempo.json) |
 | Typing Warrior | 134563 | [134563-typing-warrior.json](./134563-typing-warrior.json) |
 | Typing with Ghostie | 424819 | [424819-typing-with-ghostie.json](./424819-typing-with-ghostie.json) |
 | Typing with Jester | 32239 | [32239-typing-with-jester.json](./32239-typing-with-jester.json) |
