@@ -11239,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation All-Stars Battle Royale: Zeus | 313040 | [313040-playstation-all-stars-battle-royale-zeus.json](./313040-playstation-all-stars-battle-royale-zeus.json) |
 | PlayStation All-Stars Island | 16596 | [16596-playstation-all-stars-island.json](./16596-playstation-all-stars-island.json) |
 | PlayStation Classic | 213365 | [213365-playstation-classic.json](./213365-playstation-classic.json) |
+| PlayStation Classic | 215412 | [215412-playstation-classic.json](./215412-playstation-classic.json) |
 | PlayStation Home | 80196 | [80196-playstation-home.json](./80196-playstation-home.json) |
 | PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
 | PlayStation Move Ape Escape | 20630 | [20630-playstation-move-ape-escape.json](./20630-playstation-move-ape-escape.json) |
@@ -16439,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
 | Prince Rystiya's Starship | 341556 | [341556-prince-rystiyas-starship.json](./341556-prince-rystiyas-starship.json) |
 | Princes of Darkness | 356034 | [356034-princes-of-darkness.json](./356034-princes-of-darkness.json) |
+| Princes of Light | 215406 | [215406-princes-of-light.json](./215406-princes-of-light.json) |
 | Princes of Qing | 402961 | [402961-princes-of-qing.json](./402961-princes-of-qing.json) |
 | Princesa das Nuvens | 259458 | [259458-princesa-das-nuvens.json](./259458-princesa-das-nuvens.json) |
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
