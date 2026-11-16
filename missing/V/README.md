@@ -3853,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Voidpet Dungeon | 338658 | [338658-voidpet-dungeon.json](./338658-voidpet-dungeon.json) |
 | Voidpixel | 138496 | [138496-voidpixel.json](./138496-voidpixel.json) |
+| Voidrave | 406955 | [406955-voidrave.json](./406955-voidrave.json) |
 | VoidReaver | 392408 | [392408-voidreaver.json](./392408-voidreaver.json) |
 | Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
 | Voidronaut | 359152 | [359152-voidronaut.json](./359152-voidronaut.json) |
