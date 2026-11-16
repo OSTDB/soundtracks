@@ -9743,6 +9743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ebb and Flow of the Tide | 146196 | [146196-the-ebb-and-flow-of-the-tide.json](./146196-the-ebb-and-flow-of-the-tide.json) |
 | The Ecdysis | 204846 | [204846-the-ecdysis.json](./204846-the-ecdysis.json) |
 | The Echo | 353970 | [353970-the-echo.json](./353970-the-echo.json) |
+| The Echo Escape | 294311 | [294311-the-echo-escape.json](./294311-the-echo-escape.json) |
 | The Echo Paradox | 285811 | [285811-the-echo-paradox.json](./285811-the-echo-paradox.json) |
 | The Echo Whispers | 261652 | [261652-the-echo-whispers.json](./261652-the-echo-whispers.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
@@ -34547,6 +34548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
 | Tren0 | 81974 | [81974-tren0.json](./81974-tren0.json) |
 | Trench Assault | 115195 | [115195-trench-assault.json](./115195-trench-assault.json) |
+| Trench Defender | 294309 | [294309-trench-defender.json](./294309-trench-defender.json) |
 | Trench Face | 365220 | [365220-trench-face.json](./365220-trench-face.json) |
 | Trench Foot | 148157 | [148157-trench-foot.json](./148157-trench-foot.json) |
 | Trench Foot | 271577 | [271577-trench-foot.json](./271577-trench-foot.json) |
@@ -36020,6 +36022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Skate | 29010 | [29010-true-skate.json](./29010-true-skate.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Stalker | 280962 | [280962-true-stalker.json](./280962-true-stalker.json) |
+| True Story Time | 294317 | [294317-true-story-time.json](./294317-true-story-time.json) |
 | True Surf | 110577 | [110577-true-surf.json](./110577-true-surf.json) |
 | True Survivor | 131693 | [131693-true-survivor.json](./131693-true-survivor.json) |
 | True Survivors Bundle | 250556 | [250556-true-survivors-bundle.json](./250556-true-survivors-bundle.json) |
