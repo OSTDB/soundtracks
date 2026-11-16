@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T11:46:39.415Z",
-  "total_soundtracks": 3499,
+  "generated_at": "2026-11-16T12:41:08.427Z",
+  "total_soundtracks": 3500,
   "games": [
     {
       "igdb_id": 292844,
@@ -6737,6 +6737,20 @@
         {
           "album_name": "Chippy (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1W49F79UwJIg4xwRbvKFrp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 403821,
+      "game_name": "Chivalware",
+      "game_url": "https://ostdb.net/games/chivalware",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273acf9c3f9c158a99cf0e4a859",
+      "albums": [
+        {
+          "album_name": "Chivalware (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4959XteIVdRXEKhvFT1DfM",
           "apple_music_url": "",
           "album_link_url": ""
         }
