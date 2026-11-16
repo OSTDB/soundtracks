@@ -4198,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peachy Derby: Mirai - Manor Owner | 333748 | [333748-peachy-derby-mirai-manor-owner.json](./333748-peachy-derby-mirai-manor-owner.json) |
 | Peachy Derby: Natsuki - Back to School | 333747 | [333747-peachy-derby-natsuki-back-to-school.json](./333747-peachy-derby-natsuki-back-to-school.json) |
 | Peachy Derby: Natsuki - From Outspace | 333746 | [333746-peachy-derby-natsuki-from-outspace.json](./333746-peachy-derby-natsuki-from-outspace.json) |
+| Peachy Derby: Rush Edition | 335542 | [335542-peachy-derby-rush-edition.json](./335542-peachy-derby-rush-edition.json) |
 | Peachy Derby: Saori - Grey Investigator | 333745 | [333745-peachy-derby-saori-grey-investigator.json](./333745-peachy-derby-saori-grey-investigator.json) |
 | Peachy Derby: Yuko - Black Investigator | 333744 | [333744-peachy-derby-yuko-black-investigator.json](./333744-peachy-derby-yuko-black-investigator.json) |
 | Peadle X Oligator | 417661 | [417661-peadle-x-oligator.json](./417661-peadle-x-oligator.json) |
@@ -5188,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permanent: Hope & Vacuum | 293803 | [293803-permanent-hope-and-vacuum.json](./293803-permanent-hope-and-vacuum.json) |
 | PermaNight | 220463 | [220463-permanight.json](./220463-permanight.json) |
 | Permia - Duels | 9717 | [9717-permia-duels.json](./9717-permia-duels.json) |
+| Permission to Dock | 334386 | [334386-permission-to-dock.json](./334386-permission-to-dock.json) |
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
 | Permit Pending | 425397 | [425397-permit-pending.json](./425397-permit-pending.json) |
 | Permuter | 325902 | [325902-permuter.json](./325902-permuter.json) |
@@ -5838,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PewPew! | 171373 | [171373-pewpew.json](./171373-pewpew.json) |
 | PewPewSide | 101758 | [101758-pewpewside.json](./101758-pewpewside.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
+| Pexit 8 | 330043 | [330043-pexit-8.json](./330043-pexit-8.json) |
 | Peyton's Post-Op Visits | 183908 | [183908-peytons-post-op-visits.json](./183908-peytons-post-op-visits.json) |
 | Pferd & Pony - Mein Pferdehof | 125959 | [125959-pferd-and-pony-mein-pferdehof.json](./125959-pferd-and-pony-mein-pferdehof.json) |
 | Pferd & Pony: Mein Pferdehof & Lass uns Reiten 2 | 137895 | [137895-pferd-and-pony-mein-pferdehof-and-lass-uns-reiten-2.json](./137895-pferd-and-pony-mein-pferdehof-and-lass-uns-reiten-2.json) |
@@ -6897,6 +6900,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico's School | 58587 | [58587-picos-school.json](./58587-picos-school.json) |
 | Pico's School: Love Conquers All | 383761 | [383761-picos-school-love-conquers-all.json](./383761-picos-school-love-conquers-all.json) |
 | Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
+| Picobreed | 335535 | [335535-picobreed.json](./335535-picobreed.json) |
+| Picodex: A Pokemon Battle Sim | 335521 | [335521-picodex-a-pokemon-battle-sim.json](./335521-picodex-a-pokemon-battle-sim.json) |
 | Picofender | 424868 | [424868-picofender.json](./424868-picofender.json) |
 | Picogori 2025 | 360453 | [360453-picogori-2025.json](./360453-picogori-2025.json) |
 | PicoHot | 134203 | [134203-picohot.json](./134203-picohot.json) |
@@ -7048,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture Puzzle Girls: Slide & Match | 417313 | [417313-picture-puzzle-girls-slide-and-match.json](./417313-picture-puzzle-girls-slide-and-match.json) |
 | Picture Quiz: Logos | 334428 | [334428-picture-quiz-logos.json](./334428-picture-quiz-logos.json) |
+| Picture the Difference! | 335551 | [335551-picture-the-difference.json](./335551-picture-the-difference.json) |
 | Picture the Difference! 2 | 362207 | [362207-picture-the-difference-2.json](./362207-picture-the-difference-2.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
@@ -9997,6 +10003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon: Complete Edition | 222235 | [222235-pizza-bar-tycoon-complete-edition.json](./222235-pizza-bar-tycoon-complete-edition.json) |
 | Pizza Bar Tycoon: Deluxe Edition | 211309 | [211309-pizza-bar-tycoon-deluxe-edition.json](./211309-pizza-bar-tycoon-deluxe-edition.json) |
 | Pizza Bar Tycoon: Discovery Edition | 330205 | [330205-pizza-bar-tycoon-discovery-edition.json](./330205-pizza-bar-tycoon-discovery-edition.json) |
+| Pizza Bar Tycoon: Elite Edition | 335543 | [335543-pizza-bar-tycoon-elite-edition.json](./335543-pizza-bar-tycoon-elite-edition.json) |
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
 | Pizza Bar Tycoon: Expansion Pack 2 | 237978 | [237978-pizza-bar-tycoon-expansion-pack-2.json](./237978-pizza-bar-tycoon-expansion-pack-2.json) |
 | Pizza Bar Tycoon: Extended Edition | 237864 | [237864-pizza-bar-tycoon-extended-edition.json](./237864-pizza-bar-tycoon-extended-edition.json) |
@@ -12427,8 +12434,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Black & White 3: Genesis | 241775 | [241775-pokemon-black-and-white-3-genesis.json](./241775-pokemon-black-and-white-3-genesis.json) |
 | Pokémon Black 2 /White 2 Deluxe | 335436 | [335436-pokemon-black-2-white-2-deluxe.json](./335436-pokemon-black-2-white-2-deluxe.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
+| Pokémon Black 2 Randomizer | 329897 | [329897-pokemon-black-2-randomizer.json](./329897-pokemon-black-2-randomizer.json) |
 | Pokemon Black 2: DE | 265984 | [265984-pokemon-black-2-de.json](./265984-pokemon-black-2-de.json) |
 | Pokémon Black Pearl Emerald | 397764 | [397764-pokemon-black-pearl-emerald.json](./397764-pokemon-black-pearl-emerald.json) |
+| Pokémon Black Randomizer | 329894 | [329894-pokemon-black-randomizer.json](./329894-pokemon-black-randomizer.json) |
 | Pokémon Black Version 2 | 8284 | [8284-pokemon-black-version-2.json](./8284-pokemon-black-version-2.json) |
 | Pokémon Black/White Redux | 335435 | [335435-pokemon-black-white-redux.json](./335435-pokemon-black-white-redux.json) |
 | Pokémon Blaze Black | 141482 | [141482-pokemon-blaze-black.json](./141482-pokemon-blaze-black.json) |
@@ -12439,6 +12448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
 | Pokémon Blue Chrome | 323763 | [323763-pokemon-blue-chrome.json](./323763-pokemon-blue-chrome.json) |
 | Pokémon Blue Kaizo | 268065 | [268065-pokemon-blue-kaizo.json](./268065-pokemon-blue-kaizo.json) |
+| Pokémon Blue Randomizer | 329874 | [329874-pokemon-blue-randomizer.json](./329874-pokemon-blue-randomizer.json) |
 | Pokemon Bois | 250467 | [250467-pokemon-bois.json](./250467-pokemon-bois.json) |
 | Pokémon Box: Ruby & Sapphire | 93046 | [93046-pokemon-box-ruby-and-sapphire.json](./93046-pokemon-box-ruby-and-sapphire.json) |
 | Pokemon Breeder | 196863 | [196863-pokemon-breeder.json](./196863-pokemon-breeder.json) |
@@ -12527,6 +12537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Crystal Inheritance | 408208 | [408208-pokemon-crystal-inheritance.json](./408208-pokemon-crystal-inheritance.json) |
 | Pokémon Crystal Kaizo | 210705 | [210705-pokemon-crystal-kaizo.json](./210705-pokemon-crystal-kaizo.json) |
 | Pokémon Crystal Legacy | 269946 | [269946-pokemon-crystal-legacy.json](./269946-pokemon-crystal-legacy.json) |
+| Pokémon Crystal Randomizer | 329880 | [329880-pokemon-crystal-randomizer.json](./329880-pokemon-crystal-randomizer.json) |
 | Pokémon Crystal Ultimate | 221660 | [221660-pokemon-crystal-ultimate.json](./221660-pokemon-crystal-ultimate.json) |
 | Pokémon CrystalDust | 346232 | [346232-pokemon-crystaldust.json](./346232-pokemon-crystaldust.json) |
 | Pokémon Cursed Version | 384834 | [384834-pokemon-cursed-version.json](./384834-pokemon-cursed-version.json) |
@@ -12546,6 +12557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon DerErif | 269909 | [269909-pokemon-dererif.json](./269909-pokemon-dererif.json) |
 | Pokémon Desolation | 140695 | [140695-pokemon-desolation.json](./140695-pokemon-desolation.json) |
 | Pokémon Diamond | 163099 | [163099-pokemon-diamond.json](./163099-pokemon-diamond.json) |
+| Pokémon Diamond Randomizer | 329888 | [329888-pokemon-diamond-randomizer.json](./329888-pokemon-diamond-randomizer.json) |
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Divine Sword | 197432 | [197432-pokemon-divine-sword.json](./197432-pokemon-divine-sword.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
@@ -12602,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokémon Fire Black | 399254 | [399254-pokemon-fire-black.json](./399254-pokemon-fire-black.json) |
 | Pokémon Fire Red Extended | 305997 | [305997-pokemon-fire-red-extended.json](./305997-pokemon-fire-red-extended.json) |
+| Pokémon Fire Red Randomizer | 329885 | [329885-pokemon-fire-red-randomizer.json](./329885-pokemon-fire-red-randomizer.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
 | Pokémon FireRed VR Missions | 214216 | [214216-pokemon-firered-vr-missions.json](./214216-pokemon-firered-vr-missions.json) |
@@ -12660,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: World of Wonders | 383000 | [383000-pokemon-go-world-of-wonders.json](./383000-pokemon-go-world-of-wonders.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
 | Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
+| Pokémon Gold Randomizer | 329877 | [329877-pokemon-gold-randomizer.json](./329877-pokemon-gold-randomizer.json) |
 | Pokémon Golden Shield | 396519 | [396519-pokemon-golden-shield.json](./396519-pokemon-golden-shield.json) |
 | Pokémon Grand Colosseum | 212982 | [212982-pokemon-grand-colosseum.json](./212982-pokemon-grand-colosseum.json) |
 | Pokémon Grand Dad Version | 242950 | [242950-pokemon-grand-dad-version.json](./242950-pokemon-grand-dad-version.json) |
@@ -12667,8 +12681,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokémon Gray | 228904 | [228904-pokemon-gray.json](./228904-pokemon-gray.json) |
 | Pokémon GS Chronicles | 163125 | [163125-pokemon-gs-chronicles.json](./163125-pokemon-gs-chronicles.json) |
+| Pokemon GSC Card Flip | 335533 | [335533-pokemon-gsc-card-flip.json](./335533-pokemon-gsc-card-flip.json) |
 | Pokemon Heads & Tails | 240006 | [240006-pokemon-heads-and-tails.json](./240006-pokemon-heads-and-tails.json) |
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
+| Pokémon Heart Gold Randomizer | 329891 | [329891-pokemon-heart-gold-randomizer.json](./329891-pokemon-heart-gold-randomizer.json) |
 | Pokémon HeartGold Generations | 360245 | [360245-pokemon-heartgold-generations.json](./360245-pokemon-heartgold-generations.json) |
 | Pokémon Hearth | 377553 | [377553-pokemon-hearth.json](./377553-pokemon-hearth.json) |
 | Pokémon Hero | 314728 | [314728-pokemon-hero.json](./314728-pokemon-hero.json) |
@@ -12703,6 +12719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Keishou | 312313 | [312313-pokemon-keishou.json](./312313-pokemon-keishou.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
 | Pokémon Lazy Green | 343374 | [343374-pokemon-lazy-green.json](./343374-pokemon-lazy-green.json) |
+| Pokémon Leaf Green Randomizer | 329886 | [329886-pokemon-leaf-green-randomizer.json](./329886-pokemon-leaf-green-randomizer.json) |
 | Pokémon League of Legends | 229045 | [229045-pokemon-league-of-legends.json](./229045-pokemon-league-of-legends.json) |
 | Pokémon Legends: Arceus | 144054 | [144054-pokemon-legends-arceus.json](./144054-pokemon-legends-arceus.json) |
 | Pokémon Legends: Arceus - Daybreak | 221843 | [221843-pokemon-legends-arceus-daybreak.json](./221843-pokemon-legends-arceus-daybreak.json) |
@@ -12794,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
 | Pokémon PC Master | 181508 | [181508-pokemon-pc-master.json](./181508-pokemon-pc-master.json) |
 | Pokémon Peach Version | 359916 | [359916-pokemon-peach-version.json](./359916-pokemon-peach-version.json) |
+| Pokémon Pearl Randomizer | 329889 | [329889-pokemon-pearl-randomizer.json](./329889-pokemon-pearl-randomizer.json) |
 | Pokémon Pearl Version | 1518 | [1518-pokemon-pearl-version.json](./1518-pokemon-pearl-version.json) |
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
 | Pokémon Peridot | 383194 | [383194-pokemon-peridot.json](./383194-pokemon-peridot.json) |
@@ -12821,6 +12839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Plastic Pyrite | 409024 | [409024-pokemon-plastic-pyrite.json](./409024-pokemon-plastic-pyrite.json) |
 | Pokémon Platinum Kaizo | 417294 | [417294-pokemon-platinum-kaizo.json](./417294-pokemon-platinum-kaizo.json) |
+| Pokémon Platinum Randomizer | 329890 | [329890-pokemon-platinum-randomizer.json](./329890-pokemon-platinum-randomizer.json) |
 | Pokémon Platinum Redux​ | 337416 | [337416-pokemon-platinum-redux.json](./337416-pokemon-platinum-redux.json) |
 | Pokémon Platinum Version PC Port | 403089 | [403089-pokemon-platinum-version-pc-port.json](./403089-pokemon-platinum-version-pc-port.json) |
 | Pokémon Play It! | 80213 | [80213-pokemon-play-it.json](./80213-pokemon-play-it.json) |
@@ -12873,6 +12892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Recharged Yellow | 308400 | [308400-pokemon-recharged-yellow.json](./308400-pokemon-recharged-yellow.json) |
 | Pokémon Recordkeepers | 376582 | [376582-pokemon-recordkeepers.json](./376582-pokemon-recordkeepers.json) |
 | Pokémon Red Full Color | 213036 | [213036-pokemon-red-full-color.json](./213036-pokemon-red-full-color.json) |
+| Pokémon Red Randomizer | 329873 | [329873-pokemon-red-randomizer.json](./329873-pokemon-red-randomizer.json) |
 | Pokémon Red, White, and Blue | 165582 | [165582-pokemon-red-white-and-blue.json](./165582-pokemon-red-white-and-blue.json) |
 | Pokémon Red++ | 146561 | [146561-pokemon-red.json](./146561-pokemon-red.json) |
 | Pokémon Refined Gold | 226210 | [226210-pokemon-refined-gold.json](./226210-pokemon-refined-gold.json) |
@@ -12896,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ruby Destiny: Life of Guardians | 129824 | [129824-pokemon-ruby-destiny-life-of-guardians.json](./129824-pokemon-ruby-destiny-life-of-guardians.json) |
 | Pokémon Ruby Destiny: Reign of Legends | 129825 | [129825-pokemon-ruby-destiny-reign-of-legends.json](./129825-pokemon-ruby-destiny-reign-of-legends.json) |
 | Pokémon Ruby Destiny: Rescue Rangers | 129826 | [129826-pokemon-ruby-destiny-rescue-rangers.json](./129826-pokemon-ruby-destiny-rescue-rangers.json) |
+| Pokémon Ruby Randomizer | 329882 | [329882-pokemon-ruby-randomizer.json](./329882-pokemon-ruby-randomizer.json) |
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
 | Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
@@ -12911,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sage | 250200 | [250200-pokemon-sage.json](./250200-pokemon-sage.json) |
 | Pokémon Saiph | 214220 | [214220-pokemon-saiph.json](./214220-pokemon-saiph.json) |
 | Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
+| Pokémon Sapphire Randomizer | 329883 | [329883-pokemon-sapphire-randomizer.json](./329883-pokemon-sapphire-randomizer.json) |
 | Pokémon Sapphire Version | 342998 | [342998-pokemon-sapphire-version.json](./342998-pokemon-sapphire-version.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Say Tap? | 76863 | [76863-pokemon-say-tap.json](./76863-pokemon-say-tap.json) |
@@ -12938,6 +12960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shuffle | 8592 | [8592-pokemon-shuffle.json](./8592-pokemon-shuffle.json) |
 | Pokémon Sienna | 194774 | [194774-pokemon-sienna.json](./194774-pokemon-sienna.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
+| Pokémon Silver Randomizer | 329878 | [329878-pokemon-silver-randomizer.json](./329878-pokemon-silver-randomizer.json) |
 | Pokémon Sinking Sapphire | 163228 | [163228-pokemon-sinking-sapphire.json](./163228-pokemon-sinking-sapphire.json) |
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
 | Pokémon Sleep | 123089 | [123089-pokemon-sleep.json](./123089-pokemon-sleep.json) |
@@ -12951,6 +12974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sombras de Arceus | 314718 | [314718-pokemon-sombras-de-arceus.json](./314718-pokemon-sombras-de-arceus.json) |
 | Pokémon Sors | 214221 | [214221-pokemon-sors.json](./214221-pokemon-sors.json) |
 | Pokémon Sors 2 | 360194 | [360194-pokemon-sors-2.json](./360194-pokemon-sors-2.json) |
+| Pokémon Soul Silver Randomizer | 329892 | [329892-pokemon-soul-silver-randomizer.json](./329892-pokemon-soul-silver-randomizer.json) |
 | Pokémon SoulGold | 414034 | [414034-pokemon-soulgold.json](./414034-pokemon-soulgold.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
@@ -13070,6 +13094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Waves | 393104 | [393104-pokemon-waves.json](./393104-pokemon-waves.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
 | Pokémon White 2 Randomizer | 329898 | [329898-pokemon-white-2-randomizer.json](./329898-pokemon-white-2-randomizer.json) |
+| Pokémon White Randomizer | 329895 | [329895-pokemon-white-randomizer.json](./329895-pokemon-white-randomizer.json) |
 | Pokémon White Version 2 | 8353 | [8353-pokemon-white-version-2.json](./8353-pokemon-white-version-2.json) |
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
@@ -13077,6 +13102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Xenoverse: Per Aspera Ad Astra | 218201 | [218201-pokemon-xenoverse-per-aspera-ad-astra.json](./218201-pokemon-xenoverse-per-aspera-ad-astra.json) |
 | Pokémon XG: NeXt Gen | 208508 | [208508-pokemon-xg-next-gen.json](./208508-pokemon-xg-next-gen.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
+| Pokémon Yellow Randomizer | 329876 | [329876-pokemon-yellow-randomizer.json](./329876-pokemon-yellow-randomizer.json) |
 | Pokémon Yellow: Cramorant Edition | 251360 | [251360-pokemon-yellow-cramorant-edition.json](./251360-pokemon-yellow-cramorant-edition.json) |
 | Pokémon Z | 314724 | [314724-pokemon-z.json](./314724-pokemon-z.json) |
 | Pokémon Zany Cards | 43174 | [43174-pokemon-zany-cards.json](./43174-pokemon-zany-cards.json) |
@@ -14796,6 +14822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Position | 127822 | [127822-position.json](./127822-position.json) |
+| Positive! Hapili Link | 334370 | [334370-positive-hapili-link.json](./334370-positive-hapili-link.json) |
 | Positron | 35107 | [35107-positron.json](./35107-positron.json) |
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
 | PositronX | 88302 | [88302-positronx.json](./88302-positronx.json) |
@@ -19795,6 +19822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
 | Puppeteer: Control | 261836 | [261836-puppeteer-control.json](./261836-puppeteer-control.json) |
+| Puppeteer: No Strings Attached | 334360 | [334360-puppeteer-no-strings-attached.json](./334360-puppeteer-no-strings-attached.json) |
 | Puppeteer's Curse | 285499 | [285499-puppeteers-curse.json](./285499-puppeteers-curse.json) |
 | Puppeteers | 192996 | [192996-puppeteers.json](./192996-puppeteers.json) |
 | Puppetmaker | 201739 | [201739-puppetmaker.json](./201739-puppetmaker.json) |
