@@ -14641,6 +14641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pornoman | 311012 | [311012-pornoman.json](./311012-pornoman.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Pororo Sports Day | 394387 | [394387-pororo-sports-day.json](./394387-pororo-sports-day.json) |
+| Poroto | 287823 | [287823-poroto.json](./287823-poroto.json) |
 | Porp | 133656 | [133656-porp.json](./133656-porp.json) |
 | Porpetha | 249882 | [249882-porpetha.json](./249882-porpetha.json) |
 | Porradaria 2: Pagode of the Night | 33840 | [33840-porradaria-2-pagode-of-the-night.json](./33840-porradaria-2-pagode-of-the-night.json) |
@@ -18374,6 +18375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Waves | 114434 | [114434-project-waves.json](./114434-project-waves.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
 | Project Wiki | 67794 | [67794-project-wiki.json](./67794-project-wiki.json) |
+| Project Windfall | 287818 | [287818-project-windfall.json](./287818-project-windfall.json) |
 | Project Windless | 389432 | [389432-project-windless.json](./389432-project-windless.json) |
 | Project Wingman: Frontline 59 | 270216 | [270216-project-wingman-frontline-59.json](./270216-project-wingman-frontline-59.json) |
 | Project Winter Mobile | 199947 | [199947-project-winter-mobile.json](./199947-project-winter-mobile.json) |
