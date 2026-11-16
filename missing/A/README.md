@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wind-Shaped Love | 415768 | [415768-a-wind-shaped-love.json](./415768-a-wind-shaped-love.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter Away | 383084 | [383084-a-winter-away.json](./383084-a-winter-away.json) |
+| A Winter Haunting | 283956 | [283956-a-winter-haunting.json](./283956-a-winter-haunting.json) |
 | A Winter Story | 181085 | [181085-a-winter-story.json](./181085-a-winter-story.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wise Use of Time | 34579 | [34579-a-wise-use-of-time.json](./34579-a-wise-use-of-time.json) |
@@ -11639,6 +11640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Friends: The Secret Egg | 342332 | [342332-animal-friends-the-secret-egg.json](./342332-animal-friends-the-secret-egg.json) |
 | Animal Fun for Toddlers and Kids | 147587 | [147587-animal-fun-for-toddlers-and-kids.json](./147587-animal-fun-for-toddlers-and-kids.json) |
 | Animal Fun Puzzle: Preschool and kindergarten learning and fun game for toddlers and kids | 400192 | [400192-animal-fun-puzzle-preschool-and-kindergarten-learning-and-fun-game-for-toddlers-and-kids.json](./400192-animal-fun-puzzle-preschool-and-kindergarten-learning-and-fun-game-for-toddlers-and-kids.json) |
+| Animal Game | 283923 | [283923-animal-game.json](./283923-animal-game.json) |
 | Animal Game | 377099 | [377099-animal-game.json](./377099-animal-game.json) |
 | Animal Games | 419587 | [419587-animal-games.json](./419587-animal-games.json) |
 | Animal Games 3D | 227557 | [227557-animal-games-3d.json](./227557-animal-games-3d.json) |
@@ -11722,6 +11724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzles Games: little boys & girls puzzle | 87217 | [87217-animal-puzzles-games-little-boys-and-girls-puzzle.json](./87217-animal-puzzles-games-little-boys-and-girls-puzzle.json) |
 | Animal Quest | 70175 | [70175-animal-quest.json](./70175-animal-quest.json) |
 | Animal Quest: The Battle for Green Hollow | 342333 | [342333-animal-quest-the-battle-for-green-hollow.json](./342333-animal-quest-the-battle-for-green-hollow.json) |
+| Animal Race Party | 283925 | [283925-animal-race-party.json](./283925-animal-race-party.json) |
 | Animal Race Run VR | 303155 | [303155-animal-race-run-vr.json](./303155-animal-race-run-vr.json) |
 | Animal Records | 100520 | [100520-animal-records.json](./100520-animal-records.json) |
 | Animal Relay A | 229502 | [229502-animal-relay-a.json](./229502-animal-relay-a.json) |
@@ -11745,6 +11748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Seasons | 82179 | [82179-animal-seasons.json](./82179-animal-seasons.json) |
 | Animal Shake | 295510 | [295510-animal-shake.json](./295510-animal-shake.json) |
 | Animal Shelter | 327688 | [327688-animal-shelter.json](./327688-animal-shelter.json) |
+| Animal Shelter 2 | 283926 | [283926-animal-shelter-2.json](./283926-animal-shelter-2.json) |
 | Animal Shelter 2: Hunting Dogs Pack | 399968 | [399968-animal-shelter-2-hunting-dogs-pack.json](./399968-animal-shelter-2-hunting-dogs-pack.json) |
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
@@ -11814,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalia: The Quiz Game | 68752 | [68752-animalia-the-quiz-game.json](./68752-animalia-the-quiz-game.json) |
 | Animalism | 267290 | [267290-animalism.json](./267290-animalism.json) |
 | Animalistic | 211048 | [211048-animalistic.json](./211048-animalistic.json) |
+| Animalistic Worlds | 283924 | [283924-animalistic-worlds.json](./283924-animalistic-worlds.json) |
 | Animalistic: Last Man on Earth | 279253 | [279253-animalistic-last-man-on-earth.json](./279253-animalistic-last-man-on-earth.json) |
 | Animality | 29914 | [29914-animality.json](./29914-animality.json) |
 | Animalkind | 346348 | [346348-animalkind.json](./346348-animalkind.json) |
@@ -13412,6 +13417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Shockwave | 314909 | [314909-apex-legends-shockwave.json](./314909-apex-legends-shockwave.json) |
 | Apex Legends: Takeover | 333785 | [333785-apex-legends-takeover.json](./333785-apex-legends-takeover.json) |
 | Apex Legends: Upheaval | 300464 | [300464-apex-legends-upheaval.json](./300464-apex-legends-upheaval.json) |
+| Apex Ninja | 283941 | [283941-apex-ninja.json](./283941-apex-ninja.json) |
 | Apex Path: Bolt | 381885 | [381885-apex-path-bolt.json](./381885-apex-path-bolt.json) |
 | Apex Point | 217477 | [217477-apex-point.json](./217477-apex-point.json) |
 | Apex Race Manager 2019 | 233116 | [233116-apex-race-manager-2019.json](./233116-apex-race-manager-2019.json) |
@@ -13498,6 +13504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Night | 74683 | [74683-apocalypse-night.json](./74683-apocalypse-night.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
 | Apocalypse Party | 277650 | [277650-apocalypse-party.json](./277650-apocalypse-party.json) |
+| Apocalypse Party & 20 Minutes Till Dawn: Free Thanking DLC | 283940 | [283940-apocalypse-party-and-20-minutes-till-dawn-free-thanking-dlc.json](./283940-apocalypse-party-and-20-minutes-till-dawn-free-thanking-dlc.json) |
 | Apocalypse PD! | 355961 | [355961-apocalypse-pd.json](./355961-apocalypse-pd.json) |
 | Apocalypse Rider | 102889 | [102889-apocalypse-rider.json](./102889-apocalypse-rider.json) |
 | Apocalypse Run! | 251794 | [251794-apocalypse-run.json](./251794-apocalypse-run.json) |
@@ -13688,6 +13695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Climbers | 321030 | [321030-apple-climbers.json](./321030-apple-climbers.json) |
 | Apple Faces Up | 414101 | [414101-apple-faces-up.json](./414101-apple-faces-up.json) |
 | Apple Grove Picking Games | 116098 | [116098-apple-grove-picking-games.json](./116098-apple-grove-picking-games.json) |
+| Apple Hero | 283939 | [283939-apple-hero.json](./283939-apple-hero.json) |
 | Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
@@ -13948,6 +13956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapolis SOS | 267398 | [267398-aquapolis-sos.json](./267398-aquapolis-sos.json) |
 | Aquaponics Life | 76120 | [76120-aquaponics-life.json](./76120-aquaponics-life.json) |
 | Aquarelle | 156573 | [156573-aquarelle.json](./156573-aquarelle.json) |
+| AquaRevive | 283938 | [283938-aquarevive.json](./283938-aquarevive.json) |
 | Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
 | Aquaria | 7406 | [7406-aquaria.json](./7406-aquaria.json) |
 | Aquarian Age: Tokyo Wars | 419084 | [419084-aquarian-age-tokyo-wars.json](./419084-aquarian-age-tokyo-wars.json) |
@@ -15066,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Walker | 154998 | [154998-arcane-walker.json](./154998-arcane-walker.json) |
 | Arcane Warlords | 247950 | [247950-arcane-warlords.json](./247950-arcane-warlords.json) |
 | Arcane Waters | 152824 | [152824-arcane-waters.json](./152824-arcane-waters.json) |
+| Arcane Weave | 283936 | [283936-arcane-weave.json](./283936-arcane-weave.json) |
 | Arcane Whispers: The Last Stand | 425805 | [425805-arcane-whispers-the-last-stand.json](./425805-arcane-whispers-the-last-stand.json) |
 | Arcane Wilds | 237228 | [237228-arcane-wilds.json](./237228-arcane-wilds.json) |
 | Arcane Worlds | 16923 | [16923-arcane-worlds.json](./16923-arcane-worlds.json) |
@@ -15074,6 +15084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
 | ArcaneBound | 423283 | [423283-arcanebound.json](./423283-arcanebound.json) |
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
+| ArcaneOutpost | 283935 | [283935-arcaneoutpost.json](./283935-arcaneoutpost.json) |
 | ArcaneSoul | 24555 | [24555-arcanesoul.json](./24555-arcanesoul.json) |
 | Arcangel: The Legacy of Peace | 52407 | [52407-arcangel-the-legacy-of-peace.json](./52407-arcangel-the-legacy-of-peace.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
@@ -15202,6 +15213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer of Den | 382734 | [382734-archer-of-den.json](./382734-archer-of-den.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
+| Archer Training | 283931 | [283931-archer-training.json](./283931-archer-training.json) |
 | Archer VR | 133082 | [133082-archer-vr.json](./133082-archer-vr.json) |
 | Archer: Danger Phone | 138558 | [138558-archer-danger-phone.json](./138558-archer-danger-phone.json) |
 | Archer: Sheshou | 246990 | [246990-archer-sheshou.json](./246990-archer-sheshou.json) |
@@ -15214,6 +15226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers | 76381 | [76381-archers.json](./76381-archers.json) |
 | Archers Dream | 254633 | [254633-archers-dream.json](./254633-archers-dream.json) |
+| Archers on the Hunt | 283937 | [283937-archers-on-the-hunt.json](./283937-archers-on-the-hunt.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
@@ -15289,6 +15302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipelagos 2000 | 94602 | [94602-archipelagos-2000.json](./94602-archipelagos-2000.json) |
 | Archipeo | 407384 | [407384-archipeo.json](./407384-archipeo.json) |
 | ArchiTac | 131782 | [131782-architac.json](./131782-architac.json) |
+| Architech | 283932 | [283932-architech.json](./283932-architech.json) |
 | Architect | 182900 | [182900-architect.json](./182900-architect.json) |
 | Architect | 236091 | [236091-architect.json](./236091-architect.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
@@ -15329,6 +15343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon Ultra | 47028 | [47028-archon-ultra.json](./47028-archon-ultra.json) |
 | Archon-9: Alien Defense | 150249 | [150249-archon-9-alien-defense.json](./150249-archon-9-alien-defense.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
+| Archons | 283933 | [283933-archons.json](./283933-archons.json) |
 | Archons of Doom | 155865 | [155865-archons-of-doom.json](./155865-archons-of-doom.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Archquest | 154056 | [154056-archquest.json](./154056-archquest.json) |
@@ -15505,12 +15520,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
 | Are! Mo Kore? Mo Momotarou | 386524 | [386524-are-mo-kore-mo-momotarou.json](./386524-are-mo-kore-mo-momotarou.json) |
 | Area 19 | 289545 | [289545-area-19.json](./289545-area-19.json) |
+| Area 37 | 283929 | [283929-area-37.json](./283929-area-37.json) |
 | Area 4643 | 112756 | [112756-area-4643.json](./112756-area-4643.json) |
 | Area 51 | 199022 | [199022-area-51.json](./199022-area-51.json) |
 | Area 51 | 200152 | [200152-area-51.json](./200152-area-51.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
 | Area 51 | 39769 | [39769-area-51.json](./39769-area-51.json) |
 | Area 51 | 5729 | [5729-area-51.json](./5729-area-51.json) |
+| Area 51: Beyond The Wall | 283928 | [283928-area-51-beyond-the-wall.json](./283928-area-51-beyond-the-wall.json) |
 | Area 51: Defence | 391044 | [391044-area-51-defence.json](./391044-area-51-defence.json) |
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
 | Area 51: Site 4 | 39836 | [39836-area-51-site-4.json](./39836-area-51-site-4.json) |
@@ -15966,6 +15983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Chinese Edition | 268493 | [268493-arkanoid-chinese-edition.json](./268493-arkanoid-chinese-edition.json) |
 | Arkanoid: Doh It Again | 42636 | [42636-arkanoid-doh-it-again.json](./42636-arkanoid-doh-it-again.json) |
 | Arkanoid: Eternal Battle | 204506 | [204506-arkanoid-eternal-battle.json](./204506-arkanoid-eternal-battle.json) |
+| Arkanoid: Eternal Battle - Battle Royale F2P Edition | 283930 | [283930-arkanoid-eternal-battle-battle-royale-f2p-edition.json](./283930-arkanoid-eternal-battle-battle-royale-f2p-edition.json) |
 | Arkanoid: Eternal Battle - Limited Edition | 219425 | [219425-arkanoid-eternal-battle-limited-edition.json](./219425-arkanoid-eternal-battle-limited-edition.json) |
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
@@ -16257,6 +16275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Battalion | 205753 | [205753-armored-battalion.json](./205753-armored-battalion.json) |
 | Armored Battle Crew | 111339 | [111339-armored-battle-crew.json](./111339-armored-battle-crew.json) |
 | Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
+| Armored Brigade II | 283943 | [283943-armored-brigade-ii.json](./283943-armored-brigade-ii.json) |
 | Armored Brigade Nation Pack: Czechoslovakia - Netherlands | 155224 | [155224-armored-brigade-nation-pack-czechoslovakia-netherlands.json](./155224-armored-brigade-nation-pack-czechoslovakia-netherlands.json) |
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
 | Armored Brigade Nation Pack: Italy - Yugoslavia | 155058 | [155058-armored-brigade-nation-pack-italy-yugoslavia.json](./155058-armored-brigade-nation-pack-italy-yugoslavia.json) |
@@ -16604,6 +16623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrows: Puzzle Escape | 383565 | [383565-arrows-puzzle-escape.json](./383565-arrows-puzzle-escape.json) |
 | Arrowscapades | 401766 | [401766-arrowscapades.json](./401766-arrowscapades.json) |
 | Arrowscapes: Arrows Puzzle | 392368 | [392368-arrowscapes-arrows-puzzle.json](./392368-arrowscapes-arrows-puzzle.json) |
+| Arrowstorm Ascendant | 283944 | [283944-arrowstorm-ascendant.json](./283944-arrowstorm-ascendant.json) |
 | Arrrrrr! | 72310 | [72310-arrrrrr.json](./72310-arrrrrr.json) |
 | Arruyo | 201561 | [201561-arruyo.json](./201561-arruyo.json) |
 | Ars Demonium Invocatum | 350230 | [350230-ars-demonium-invocatum.json](./350230-ars-demonium-invocatum.json) |
@@ -16620,6 +16640,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal Demon | 123518 | [123518-arsenal-demon.json](./123518-arsenal-demon.json) |
 | Arsenal of Democracy | 2009 | [2009-arsenal-of-democracy.json](./2009-arsenal-of-democracy.json) |
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
+| Arsenal Online: Customization Pack | 283945 | [283945-arsenal-online-customization-pack.json](./283945-arsenal-online-customization-pack.json) |
+| Arsenal Online: Skins Pack | 283946 | [283946-arsenal-online-skins-pack.json](./283946-arsenal-online-skins-pack.json) |
+| Arsenal Online: Super Weapons Pack | 283947 | [283947-arsenal-online-super-weapons-pack.json](./283947-arsenal-online-super-weapons-pack.json) |
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
 | Arsene Bomber: Cosmic | 291261 | [291261-arsene-bomber-cosmic.json](./291261-arsene-bomber-cosmic.json) |
 | Arsène Lupin: Gentleman Bomber | 150180 | [150180-arsene-lupin-gentleman-bomber.json](./150180-arsene-lupin-gentleman-bomber.json) |
@@ -17028,6 +17051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As A Vampire | 382553 | [382553-as-a-vampire.json](./382553-as-a-vampire.json) |
 | As Above AtumRa So Below | 235772 | [235772-as-above-atumra-so-below.json](./235772-as-above-atumra-so-below.json) |
 | As Above So Below | 217455 | [217455-as-above-so-below.json](./217455-as-above-so-below.json) |
+| As Above So Below | 283942 | [283942-as-above-so-below.json](./283942-as-above-so-below.json) |
 | As Aventuras da Abelhinha Maya | 273877 | [273877-as-aventuras-da-abelhinha-maya.json](./273877-as-aventuras-da-abelhinha-maya.json) |
 | As Aventuras da TV Colosso | 92887 | [92887-as-aventuras-da-tv-colosso.json](./92887-as-aventuras-da-tv-colosso.json) |
 | As Aventuras de Hércules Vol. 2: A Hidra de Lerna | 286927 | [286927-as-aventuras-de-hercules-vol-2-a-hidra-de-lerna.json](./286927-as-aventuras-de-hercules-vol-2-a-hidra-de-lerna.json) |
@@ -17099,6 +17123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend | 251866 | [251866-ascend.json](./251866-ascend.json) |
 | Ascend | 341279 | [341279-ascend.json](./341279-ascend.json) |
 | Ascend | 425840 | [425840-ascend.json](./425840-ascend.json) |
+| Ascend Factory | 283962 | [283962-ascend-factory.json](./283962-ascend-factory.json) |
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
 | Ascend of Arlo | 252011 | [252011-ascend-of-arlo.json](./252011-ascend-of-arlo.json) |
 | Ascend The Well | 367864 | [367864-ascend-the-well.json](./367864-ascend-the-well.json) |
@@ -17263,6 +17288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash Pines: The Motel | 361695 | [361695-ash-pines-the-motel.json](./361695-ash-pines-the-motel.json) |
 | Ash Road: Infection | 371160 | [371160-ash-road-infection.json](./371160-ash-road-infection.json) |
 | Ash Survival | 362763 | [362763-ash-survival.json](./362763-ash-survival.json) |
+| Ash the Cat | 283964 | [283964-ash-the-cat.json](./283964-ash-the-cat.json) |
 | Ash Warden | 361767 | [361767-ash-warden.json](./361767-ash-warden.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | Asha | 189915 | [189915-asha.json](./189915-asha.json) |
@@ -17934,6 +17960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: Challengers Pack | 252416 | [252416-assetto-corsa-competizione-challengers-pack.json](./252416-assetto-corsa-competizione-challengers-pack.json) |
 | Assetto Corsa Competizione: Day One Edition | 171275 | [171275-assetto-corsa-competizione-day-one-edition.json](./171275-assetto-corsa-competizione-day-one-edition.json) |
 | Assetto Corsa Competizione: GT Racing Game Bundle | 288862 | [288862-assetto-corsa-competizione-gt-racing-game-bundle.json](./288862-assetto-corsa-competizione-gt-racing-game-bundle.json) |
+| Assetto Corsa Competizione: GT2 Pack | 283965 | [283965-assetto-corsa-competizione-gt2-pack.json](./283965-assetto-corsa-competizione-gt2-pack.json) |
 | Assetto Corsa Competizione: GT4 Pack DLC | 165873 | [165873-assetto-corsa-competizione-gt4-pack-dlc.json](./165873-assetto-corsa-competizione-gt4-pack-dlc.json) |
 | Assetto Corsa Competizione: Intercontinental GT Pack | 164853 | [164853-assetto-corsa-competizione-intercontinental-gt-pack.json](./164853-assetto-corsa-competizione-intercontinental-gt-pack.json) |
 | Assetto Corsa EVO | 266155 | [266155-assetto-corsa-evo.json](./266155-assetto-corsa-evo.json) |
@@ -18287,6 +18314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
 | Astra Space Defender | 401820 | [401820-astra-space-defender.json](./401820-astra-space-defender.json) |
 | Astra Squad | 394131 | [394131-astra-squad.json](./394131-astra-squad.json) |
+| Astra Strike | 283966 | [283966-astra-strike.json](./283966-astra-strike.json) |
 | Astra Superstars | 39603 | [39603-astra-superstars.json](./39603-astra-superstars.json) |
 | Astra Vortex | 370906 | [370906-astra-vortex.json](./370906-astra-vortex.json) |
 | Astra Wing | 384825 | [384825-astra-wing.json](./384825-astra-wing.json) |
@@ -18865,6 +18893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Eve's Wake | 140808 | [140808-at-eves-wake.json](./140808-at-eves-wake.json) |
 | At Fate's End | 348205 | [348205-at-fates-end.json](./348205-at-fates-end.json) |
 | At Hell's Gate | 383148 | [383148-at-hells-gate.json](./383148-at-hells-gate.json) |
+| At His Grave | 283952 | [283952-at-his-grave.json](./283952-at-his-grave.json) |
 | At Home | 116270 | [116270-at-home.json](./116270-at-home.json) |
 | At Home | 230234 | [230234-at-home.json](./230234-at-home.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
@@ -19331,6 +19360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis: Underwater Tycoon | 24091 | [24091-atlantis-underwater-tycoon.json](./24091-atlantis-underwater-tycoon.json) |
 | Atlas | 113116 | [113116-atlas.json](./113116-atlas.json) |
 | Atlas | 324945 | [324945-atlas.json](./324945-atlas.json) |
+| Atlas Ablaze | 283951 | [283951-atlas-ablaze.json](./283951-atlas-ablaze.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Brave | 341775 | [341775-atlas-brave.json](./341775-atlas-brave.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
@@ -19350,6 +19380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Reactor: Necrolancer Freelancer Six Pack | 224436 | [224436-atlas-reactor-necrolancer-freelancer-six-pack.json](./224436-atlas-reactor-necrolancer-freelancer-six-pack.json) |
 | Atlas Reactor: Ultimate Reactor Pack | 52429 | [52429-atlas-reactor-ultimate-reactor-pack.json](./52429-atlas-reactor-ultimate-reactor-pack.json) |
 | Atlas Rogues | 140950 | [140950-atlas-rogues.json](./140950-atlas-rogues.json) |
+| Atlas Wars | 283950 | [283950-atlas-wars.json](./283950-atlas-wars.json) |
 | Atlas Wept | 169854 | [169854-atlas-wept.json](./169854-atlas-wept.json) |
 | Atlas: Groundbreaking Adventures | 109478 | [109478-atlas-groundbreaking-adventures.json](./109478-atlas-groundbreaking-adventures.json) |
 | Atlas: The Gift of Aramai | 169902 | [169902-atlas-the-gift-of-aramai.json](./169902-atlas-the-gift-of-aramai.json) |
@@ -20038,10 +20069,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auryn Quest | 94591 | [94591-auryn-quest.json](./94591-auryn-quest.json) |
 | Ausbruch | 271943 | [271943-ausbruch.json](./271943-ausbruch.json) |
 | Ausencia de Color | 395956 | [395956-ausencia-de-color.json](./395956-ausencia-de-color.json) |
+| Auspicious Light | 283953 | [283953-auspicious-light.json](./283953-auspicious-light.json) |
 | Aussie Battler Tanks | 116703 | [116703-aussie-battler-tanks.json](./116703-aussie-battler-tanks.json) |
 | Aussie Bogan Hero | 244401 | [244401-aussie-bogan-hero.json](./244401-aussie-bogan-hero.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
+| Aussie Rules Coach | 283955 | [283955-aussie-rules-coach.json](./283955-aussie-rules-coach.json) |
 | Aussie Rules Evolution 2 | 354182 | [354182-aussie-rules-evolution-2.json](./354182-aussie-rules-evolution-2.json) |
 | Aussie Rules Footy | 9107 | [9107-aussie-rules-footy.json](./9107-aussie-rules-footy.json) |
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
@@ -20188,6 +20221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autocraft | 17178 | [17178-autocraft.json](./17178-autocraft.json) |
 | Autocraft | 265563 | [265563-autocraft.json](./265563-autocraft.json) |
 | Autocrash | 13353 | [13353-autocrash.json](./13353-autocrash.json) |
+| Autocrats | 283954 | [283954-autocrats.json](./283954-autocrats.json) |
 | Autocross Madness | 96274 | [96274-autocross-madness.json](./96274-autocross-madness.json) |
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
 | AutoCube | 190770 | [190770-autocube.json](./190770-autocube.json) |
@@ -20254,6 +20288,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista 2: Adrenaline Pack Pt2 | 352745 | [352745-automobilista-2-adrenaline-pack-pt2.json](./352745-automobilista-2-adrenaline-pack-pt2.json) |
 | Automobilista 2: Brazilian Racing Legends Pack Pt1 | 263265 | [263265-automobilista-2-brazilian-racing-legends-pack-pt1.json](./263265-automobilista-2-brazilian-racing-legends-pack-pt1.json) |
 | Automobilista 2: Circuit de Barcelona-Catalunya | 252694 | [252694-automobilista-2-circuit-de-barcelona-catalunya.json](./252694-automobilista-2-circuit-de-barcelona-catalunya.json) |
+| Automobilista 2: Circuit des 24 Heures du Mans | 283961 | [283961-automobilista-2-circuit-des-24-heures-du-mans.json](./283961-automobilista-2-circuit-des-24-heures-du-mans.json) |
+| Automobilista 2: Endurance Pack Pt1 | 283960 | [283960-automobilista-2-endurance-pack-pt1.json](./283960-automobilista-2-endurance-pack-pt1.json) |
 | Automobilista 2: Endurance Pack Pt2 | 352739 | [352739-automobilista-2-endurance-pack-pt2.json](./352739-automobilista-2-endurance-pack-pt2.json) |
 | Automobilista 2: Formula HiTech | 278171 | [278171-automobilista-2-formula-hitech.json](./278171-automobilista-2-formula-hitech.json) |
 | Automobilista 2: Historical Track Pack Pt1 | 263275 | [263275-automobilista-2-historical-track-pack-pt1.json](./263275-automobilista-2-historical-track-pack-pt1.json) |
@@ -20391,6 +20427,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalan | 416943 | [416943-avalan.json](./416943-avalan.json) |
 | Avalanca | 250706 | [250706-avalanca.json](./250706-avalanca.json) |
+| Avalanca: Divinity - Belfy Bastion | 283959 | [283959-avalanca-divinity-belfy-bastion.json](./283959-avalanca-divinity-belfy-bastion.json) |
+| Avalanca: Mythos | 283958 | [283958-avalanca-mythos.json](./283958-avalanca-mythos.json) |
 | Avalanche | 228674 | [228674-avalanche.json](./228674-avalanche.json) |
 | Avalanche | 233850 | [233850-avalanche.json](./233850-avalanche.json) |
 | Avalanche | 370979 | [370979-avalanche.json](./370979-avalanche.json) |
@@ -20551,6 +20589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar's Demise | 263488 | [263488-avatars-demise.json](./263488-avatars-demise.json) |
 | Avatar's Rock | 59727 | [59727-avatars-rock.json](./59727-avatars-rock.json) |
 | Avatara | 231984 | [231984-avatara.json](./231984-avatara.json) |
+| AvatarCard | 283957 | [283957-avatarcard.json](./283957-avatarcard.json) |
 | Avatarika | 29692 | [29692-avatarika.json](./29692-avatarika.json) |
 | Avatars on the Edge | 399222 | [399222-avatars-on-the-edge.json](./399222-avatars-on-the-edge.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
