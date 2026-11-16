@@ -5896,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
 | Celerity | 185903 | [185903-celerity.json](./185903-celerity.json) |
 | Celeros | 294351 | [294351-celeros.json](./294351-celeros.json) |
+| Celery | 409149 | [409149-celery.json](./409149-celery.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celestay Craft&Slowlife | 399260 | [399260-celestay-craft-and-slowlife.json](./399260-celestay-craft-and-slowlife.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
@@ -8199,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickenhare and the Treasure of Spiking-Beard | 341670 | [341670-chickenhare-and-the-treasure-of-spiking-beard.json](./341670-chickenhare-and-the-treasure-of-spiking-beard.json) |
 | Chickenman | 172259 | [172259-chickenman.json](./172259-chickenman.json) |
 | Chickenoidz Super Party | 217358 | [217358-chickenoidz-super-party.json](./217358-chickenoidz-super-party.json) |
+| ChickenPlaguePolice | 410509 | [410509-chickenplaguepolice.json](./410509-chickenplaguepolice.json) |
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
 | Chickens | 94352 | [94352-chickens.json](./94352-chickens.json) |
 | Chickens 2 | 19234 | [19234-chickens-2.json](./19234-chickens-2.json) |
