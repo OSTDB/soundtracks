@@ -8291,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gospel Drift | 425836 | [425836-gospel-drift.json](./425836-gospel-drift.json) |
 | Gospel of Abaddon | 148789 | [148789-gospel-of-abaddon.json](./148789-gospel-of-abaddon.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
+| Gospodar's Tales | 419052 | [419052-gospodars-tales.json](./419052-gospodars-tales.json) |
 | Gossamer | 212184 | [212184-gossamer.json](./212184-gossamer.json) |
 | Gossamer | 387109 | [387109-gossamer.json](./387109-gossamer.json) |
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
