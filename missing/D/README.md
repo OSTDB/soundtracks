@@ -17198,6 +17198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest IX: Sentinels of the Starry Skies | 1820 | [1820-dragon-quest-ix-sentinels-of-the-starry-skies.json](./1820-dragon-quest-ix-sentinels-of-the-starry-skies.json) |
 | Dragon Quest Keshi Keshi | 194015 | [194015-dragon-quest-keshi-keshi.json](./194015-dragon-quest-keshi-keshi.json) |
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
+| Dragon Quest Monsters | 228790 | [228790-dragon-quest-monsters.json](./228790-dragon-quest-monsters.json) |
 | Dragon Quest Monsters 1+2 | 24853 | [24853-dragon-quest-monsters-1-2.json](./24853-dragon-quest-monsters-1-2.json) |
 | Dragon Quest Monsters 2: Iru and Luca's Marvelous Mysterious Key | 24854 | [24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json](./24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json) |
 | Dragon Quest Monsters: Caravan Heart | 6388 | [6388-dragon-quest-monsters-caravan-heart.json](./6388-dragon-quest-monsters-caravan-heart.json) |
