@@ -3155,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Baboon: Bosses Update | 412689 | [412689-scary-baboon-bosses-update.json](./412689-scary-baboon-bosses-update.json) |
 | Scary Baboon: Spooky Baboon | 423407 | [423407-scary-baboon-spooky-baboon.json](./423407-scary-baboon-spooky-baboon.json) |
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
+| Scary Bingo | 340658 | [340658-scary-bingo.json](./340658-scary-bingo.json) |
 | Scary Bosses and Nice Sprites | 307525 | [307525-scary-bosses-and-nice-sprites.json](./307525-scary-bosses-and-nice-sprites.json) |
 | Scary Brawl | 57389 | [57389-scary-brawl.json](./57389-scary-brawl.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
@@ -3185,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Library | 263383 | [263383-scary-library.json](./263383-scary-library.json) |
 | Scary Loop | 264194 | [264194-scary-loop.json](./264194-scary-loop.json) |
 | Scary Loop | 376083 | [376083-scary-loop.json](./376083-scary-loop.json) |
+| Scary Magic Zombie | 340656 | [340656-scary-magic-zombie.json](./340656-scary-magic-zombie.json) |
 | Scary Manager In Supermarket | 106657 | [106657-scary-manager-in-supermarket.json](./106657-scary-manager-in-supermarket.json) |
 | Scary Mansion Horror House HD | 208677 | [208677-scary-mansion-horror-house-hd.json](./208677-scary-mansion-horror-house-hd.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
@@ -3762,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scorpion Simulator | 96600 | [96600-scorpion-simulator.json](./96600-scorpion-simulator.json) |
+| Scorpion Solitaire | 340655 | [340655-scorpion-solitaire.json](./340655-scorpion-solitaire.json) |
 | Scorpion's Curse | 295376 | [295376-scorpions-curse.json](./295376-scorpions-curse.json) |
 | Scorpius | 267609 | [267609-scorpius.json](./267609-scorpius.json) |
 | Scorzle | 370354 | [370354-scorzle.json](./370354-scorzle.json) |
@@ -3830,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP Clicker | 183859 | [183859-scp-clicker.json](./183859-scp-clicker.json) |
 | SCP Containment Breach | 242403 | [242403-scp-containment-breach.json](./242403-scp-containment-breach.json) |
 | SCP Containment Breach: HD Edition | 385651 | [385651-scp-containment-breach-hd-edition.json](./385651-scp-containment-breach-hd-edition.json) |
+| SCP Fatal Flee | 340654 | [340654-scp-fatal-flee.json](./340654-scp-fatal-flee.json) |
 | SCP Foundation: ITTLG - Chapter 1 | 196101 | [196101-scp-foundation-ittlg-chapter-1.json](./196101-scp-foundation-ittlg-chapter-1.json) |
 | SCP Foundation: Universe Horror | 330049 | [330049-scp-foundation-universe-horror.json](./330049-scp-foundation-universe-horror.json) |
 | SCP Horror Series 2 | 273576 | [273576-scp-horror-series-2.json](./273576-scp-horror-series-2.json) |
@@ -4074,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraponauts | 247863 | [247863-scraponauts.json](./247863-scraponauts.json) |
 | Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
+| Scrapped | 340653 | [340653-scrapped.json](./340653-scrapped.json) |
 | Scrapper | 82399 | [82399-scrapper.json](./82399-scrapper.json) |
 | Scrappers | 132114 | [132114-scrappers.json](./132114-scrappers.json) |
 | Scrappers Paradise | 424867 | [424867-scrappers-paradise.json](./424867-scrappers-paradise.json) |
@@ -5121,6 +5126,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret High School 8:Old Diary | 93849 | [93849-secret-high-school-8-old-diary.json](./93849-secret-high-school-8-old-diary.json) |
 | Secret High School 9: Zac & Bella's Wedding | 100966 | [100966-secret-high-school-9-zac-and-bellas-wedding.json](./100966-secret-high-school-9-zac-and-bellas-wedding.json) |
 | Secret Hitler Online | 416412 | [416412-secret-hitler-online.json](./416412-secret-hitler-online.json) |
+| Secret Horny Santa | 340651 | [340651-secret-horny-santa.json](./340651-secret-horny-santa.json) |
+| Secret Hot Springs Girl | 340650 | [340650-secret-hot-springs-girl.json](./340650-secret-hot-springs-girl.json) |
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret in Story | 40870 | [40870-secret-in-story.json](./40870-secret-in-story.json) |
@@ -5229,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Thursday | 312926 | [312926-secret-thursday.json](./312926-secret-thursday.json) |
 | Secret Ties | 58077 | [58077-secret-ties.json](./58077-secret-ties.json) |
 | Secret Tower | 186761 | [186761-secret-tower.json](./186761-secret-tower.json) |
+| Secret Toy | 340649 | [340649-secret-toy.json](./340649-secret-toy.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
 | Secret Trouble | 166493 | [166493-secret-trouble.json](./166493-secret-trouble.json) |
 | Secret Weapons of the Luftwaffe | 204 | [204-secret-weapons-of-the-luftwaffe.json](./204-secret-weapons-of-the-luftwaffe.json) |
@@ -6042,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Selling Sunlight | 68479 | [68479-selling-sunlight.json](./68479-selling-sunlight.json) |
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
+| Sellsword Saga | 340648 | [340648-sellsword-saga.json](./340648-sellsword-saga.json) |
 | Sellsword VR | 55686 | [55686-sellsword-vr.json](./55686-sellsword-vr.json) |
 | Selma and the Wisp | 32265 | [32265-selma-and-the-wisp.json](./32265-selma-and-the-wisp.json) |
 | Selobus Fantasy | 195654 | [195654-selobus-fantasy.json](./195654-selobus-fantasy.json) |
@@ -6105,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seneca 7: A Cyberpunk Odyssey | 201643 | [201643-seneca-7-a-cyberpunk-odyssey.json](./201643-seneca-7-a-cyberpunk-odyssey.json) |
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
 | Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
+| Senet: Households | 340647 | [340647-senet-households.json](./340647-senet-households.json) |
 | Sengeki Striker | 38603 | [38603-sengeki-striker.json](./38603-sengeki-striker.json) |
 | Sengo Muramasa DX: Guren no Kettou | 145393 | [145393-sengo-muramasa-dx-guren-no-kettou.json](./145393-sengo-muramasa-dx-guren-no-kettou.json) |
 | Sengo Muramasa DX: Guren no Kettou - Limited Edition | 166960 | [166960-sengo-muramasa-dx-guren-no-kettou-limited-edition.json](./166960-sengo-muramasa-dx-guren-no-kettou-limited-edition.json) |
@@ -6998,7 +7008,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewerlust | 400980 | [400980-sewerlust.json](./400980-sewerlust.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
+| Sewers Adventures | 340646 | [340646-sewers-adventures.json](./340646-sewers-adventures.json) |
 | Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
+| Sewing Stuff | 340645 | [340645-sewing-stuff.json](./340645-sewing-stuff.json) |
 | Sex | 185852 | [185852-sex.json](./185852-sex.json) |
 | Sex | 77074 | [77074-sex.json](./77074-sex.json) |
 | Sex * Royale: The world that desires and pleasures interweave | 83093 | [83093-sex-royale-the-world-that-desires-and-pleasures-interweave.json](./83093-sex-royale-the-world-that-desires-and-pleasures-interweave.json) |
@@ -7034,11 +7046,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: Vampire Express Train | 224966 | [224966-sex-adventures-vampire-express-train.json](./224966-sex-adventures-vampire-express-train.json) |
 | Sex Advice Succubus | 239526 | [239526-sex-advice-succubus.json](./239526-sex-advice-succubus.json) |
 | Sex Airlines | 311576 | [311576-sex-airlines.json](./311576-sex-airlines.json) |
+| Sex Amnesia: Lover Sim | 340644 | [340644-sex-amnesia-lover-sim.json](./340644-sex-amnesia-lover-sim.json) |
 | Sex and Morning | 379330 | [379330-sex-and-morning.json](./379330-sex-and-morning.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
 | Sex and Zombies | 228199 | [228199-sex-and-zombies.json](./228199-sex-and-zombies.json) |
 | Sex Any Cost but Free | 369144 | [369144-sex-any-cost-but-free.json](./369144-sex-any-cost-but-free.json) |
+| Sex Apartment | 340643 | [340643-sex-apartment.json](./340643-sex-apartment.json) |
 | Sex Apartments | 284538 | [284538-sex-apartments.json](./284538-sex-apartments.json) |
 | Sex Apocalypse | 173867 | [173867-sex-apocalypse.json](./173867-sex-apocalypse.json) |
 | Sex Apocalypse 2 | 270915 | [270915-sex-apocalypse-2.json](./270915-sex-apocalypse-2.json) |
@@ -7053,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex City | 284537 | [284537-sex-city.json](./284537-sex-city.json) |
 | Sex City: 2069 | 259087 | [259087-sex-city-2069.json](./259087-sex-city-2069.json) |
 | Sex Clicker | 367030 | [367030-sex-clicker.json](./367030-sex-clicker.json) |
+| Sex Clinic 18+ | 340640 | [340640-sex-clinic-18.json](./340640-sex-clinic-18.json) |
 | Sex Club Simulator | 326353 | [326353-sex-club-simulator.json](./326353-sex-club-simulator.json) |
 | Sex Coach: Hot Yoga | 254038 | [254038-sex-coach-hot-yoga.json](./254038-sex-coach-hot-yoga.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
@@ -7071,8 +7086,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Empire: Episode 1 | 368533 | [368533-sex-empire-episode-1.json](./368533-sex-empire-episode-1.json) |
 | Sex Escape: Ecstasies of Two | 83169 | [83169-sex-escape-ecstasies-of-two.json](./83169-sex-escape-ecstasies-of-two.json) |
 | Sex Euphoria | 283349 | [283349-sex-euphoria.json](./283349-sex-euphoria.json) |
+| Sex Exit | 340639 | [340639-sex-exit.json](./340639-sex-exit.json) |
 | Sex Faculty | 288956 | [288956-sex-faculty.json](./288956-sex-faculty.json) |
 | Sex Feets | 289516 | [289516-sex-feets.json](./289516-sex-feets.json) |
+| Sex Formula | 340638 | [340638-sex-formula.json](./340638-sex-formula.json) |
 | Sex Game - BDSM - Episode 1 | 382157 | [382157-sex-game-bdsm-episode-1.json](./382157-sex-game-bdsm-episode-1.json) |
 | Sex Game - BDSM - Episode 3 | 382155 | [382155-sex-game-bdsm-episode-3.json](./382155-sex-game-bdsm-episode-3.json) |
 | Sex Game - BDSM - Episode 4 | 382395 | [382395-sex-game-bdsm-episode-4.json](./382395-sex-game-bdsm-episode-4.json) |
@@ -7116,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Halloween | 296601 | [296601-sex-halloween.json](./296601-sex-halloween.json) |
 | Sex Hell | 224831 | [224831-sex-hell.json](./224831-sex-hell.json) |
 | SEX HELP | 295647 | [295647-sex-help.json](./295647-sex-help.json) |
+| Sex Hospital | 340637 | [340637-sex-hospital.json](./340637-sex-hospital.json) |
 | Sex Hotel Simulator | 253312 | [253312-sex-hotel-simulator.json](./253312-sex-hotel-simulator.json) |
 | Sex Hotel Simulator 18+ | 296600 | [296600-sex-hotel-simulator-18.json](./296600-sex-hotel-simulator-18.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
@@ -7126,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Industry XXX | 311175 | [311175-sex-industry-xxx.json](./311175-sex-industry-xxx.json) |
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
+| Sex Interview: Ice Cream | 340636 | [340636-sex-interview-ice-cream.json](./340636-sex-interview-ice-cream.json) |
 | Sex Kitten Sim-Date | 293289 | [293289-sex-kitten-sim-date.json](./293289-sex-kitten-sim-date.json) |
 | Sex Kitten Sim-Date 2 | 305119 | [305119-sex-kitten-sim-date-2.json](./305119-sex-kitten-sim-date-2.json) |
 | Sex Kitten Sim-Date 3 | 305117 | [305117-sex-kitten-sim-date-3.json](./305117-sex-kitten-sim-date-3.json) |
@@ -7154,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex On Fire | 389761 | [389761-sex-on-fire.json](./389761-sex-on-fire.json) |
 | Sex On The Beach | 301651 | [301651-sex-on-the-beach.json](./301651-sex-on-the-beach.json) |
 | Sex On The Beach | 376820 | [376820-sex-on-the-beach.json](./376820-sex-on-the-beach.json) |
+| Sex Over | 340634 | [340634-sex-over.json](./340634-sex-over.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: College Girls | 270916 | [270916-sex-play-college-girls.json](./270916-sex-play-college-girls.json) |
 | Sex Play: Naughty Doctor | 267204 | [267204-sex-play-naughty-doctor.json](./267204-sex-play-naughty-doctor.json) |
@@ -7161,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
 | Sex Poker | 417405 | [417405-sex-poker.json](./417405-sex-poker.json) |
+| Sex Police | 340632 | [340632-sex-police.json](./340632-sex-police.json) |
 | Sex Prison | 175795 | [175795-sex-prison.json](./175795-sex-prison.json) |
 | Sex Prison VR | 368090 | [368090-sex-prison-vr.json](./368090-sex-prison-vr.json) |
 | Sex Quest | 167387 | [167387-sex-quest.json](./167387-sex-quest.json) |
@@ -7170,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Room 2: 18+ | 245725 | [245725-sex-room-2-18.json](./245725-sex-room-2-18.json) |
 | Sex Room 3 | 268243 | [268243-sex-room-3.json](./268243-sex-room-3.json) |
 | Sex Room: 18+ | 235270 | [235270-sex-room-18.json](./235270-sex-room-18.json) |
+| Sex Route 69 | 340631 | [340631-sex-route-69.json](./340631-sex-route-69.json) |
 | Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
 | Sex Search 2: Ultimate | 204430 | [204430-sex-search-2-ultimate.json](./204430-sex-search-2-ultimate.json) |
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
@@ -7207,6 +7229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Yoga Class | 257884 | [257884-sex-simulator-yoga-class.json](./257884-sex-simulator-yoga-class.json) |
 | Sex Simulator: Yoga Girls | 259949 | [259949-sex-simulator-yoga-girls.json](./259949-sex-simulator-yoga-girls.json) |
 | Sex Slaves | 301655 | [301655-sex-slaves.json](./301655-sex-slaves.json) |
+| Sex Sport College | 340630 | [340630-sex-sport-college.json](./340630-sex-sport-college.json) |
 | Sex Standing | 243320 | [243320-sex-standing.json](./243320-sex-standing.json) |
 | Sex Story: Cuckold Life - Episode 1 | 367277 | [367277-sex-story-cuckold-life-episode-1.json](./367277-sex-story-cuckold-life-episode-1.json) |
 | Sex Story: Cuckold Life - Episode 2 | 263170 | [263170-sex-story-cuckold-life-episode-2.json](./263170-sex-story-cuckold-life-episode-2.json) |
@@ -7222,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Ruby and Hunter - Episode 3 | 254368 | [254368-sex-story-ruby-and-hunter-episode-3.json](./254368-sex-story-ruby-and-hunter-episode-3.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
 | Sex Story: Ruby and Hunter - Episode 5 | 260453 | [260453-sex-story-ruby-and-hunter-episode-5.json](./260453-sex-story-ruby-and-hunter-episode-5.json) |
+| Sex Summer Camp | 340629 | [340629-sex-summer-camp.json](./340629-sex-summer-camp.json) |
 | Sex Summer Seduction VR | 384686 | [384686-sex-summer-seduction-vr.json](./384686-sex-summer-seduction-vr.json) |
 | Sex Survivals | 253852 | [253852-sex-survivals.json](./253852-sex-survivals.json) |
 | Sex Teacher | 226140 | [226140-sex-teacher.json](./226140-sex-teacher.json) |
@@ -7248,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex-Slave Doctor | 104182 | [104182-sex-slave-doctor.json](./104182-sex-slave-doctor.json) |
 | Sex-Slave Doctor | 97845 | [97845-sex-slave-doctor.json](./97845-sex-slave-doctor.json) |
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
+| Sex, Camera, Action! | 340642 | [340642-sex-camera-action.json](./340642-sex-camera-action.json) |
 | Sex, Drugs and Cyberpunk | 368093 | [368093-sex-drugs-and-cyberpunk.json](./368093-sex-drugs-and-cyberpunk.json) |
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
 | Sex, Love & Girls | 235689 | [235689-sex-love-and-girls.json](./235689-sex-love-and-girls.json) |
@@ -7281,9 +7306,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Sword Master | 270913 | [270913-sexual-sword-master.json](./270913-sexual-sword-master.json) |
 | Sexual Void | 400606 | [400606-sexual-void.json](./400606-sexual-void.json) |
 | Sexuality in Ancient Rome | 385238 | [385238-sexuality-in-ancient-rome.json](./385238-sexuality-in-ancient-rome.json) |
+| Sexuality with Girlfriends: Kello & Cammy | 340628 | [340628-sexuality-with-girlfriends-kello-and-cammy.json](./340628-sexuality-with-girlfriends-kello-and-cammy.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
 | Sexxnator: Adult Sandbox RPG | 385235 | [385235-sexxnator-adult-sandbox-rpg.json](./385235-sexxnator-adult-sandbox-rpg.json) |
+| Sexxx Girls | 340627 | [340627-sexxx-girls.json](./340627-sexxx-girls.json) |
 | Sexy Adventures on Porn Island | 78389 | [78389-sexy-adventures-on-porn-island.json](./78389-sexy-adventures-on-porn-island.json) |
 | Sexy Airlines | 140834 | [140834-sexy-airlines.json](./140834-sexy-airlines.json) |
 | Sexy Anime Puzzle Game: A Hentai Girl Puzzle Adventure | 366537 | [366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json](./366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json) |
@@ -7304,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Breakout | 284240 | [284240-sexy-breakout.json](./284240-sexy-breakout.json) |
 | Sexy Caravan | 169099 | [169099-sexy-caravan.json](./169099-sexy-caravan.json) |
 | Sexy Chicken Girl Kisses Rotten Rabbit Man | 385353 | [385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json](./385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json) |
+| Sexy Christmas | 340626 | [340626-sexy-christmas.json](./340626-sexy-christmas.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Cyberpunk Puzzle | 244881 | [244881-sexy-cyberpunk-puzzle.json](./244881-sexy-cyberpunk-puzzle.json) |
 | Sexy Demon Transformation! | 58979 | [58979-sexy-demon-transformation.json](./58979-sexy-demon-transformation.json) |
@@ -7334,7 +7362,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
 | Sexy Memory | 367293 | [367293-sexy-memory.json](./367293-sexy-memory.json) |
+| Sexy Memory Puzzle: BDSM Restroom | 340625 | [340625-sexy-memory-puzzle-bdsm-restroom.json](./340625-sexy-memory-puzzle-bdsm-restroom.json) |
+| Sexy Memory Puzzle: Dildo Girl | 340624 | [340624-sexy-memory-puzzle-dildo-girl.json](./340624-sexy-memory-puzzle-dildo-girl.json) |
+| Sexy Memory Puzzle: Futanari BDSM | 340623 | [340623-sexy-memory-puzzle-futanari-bdsm.json](./340623-sexy-memory-puzzle-futanari-bdsm.json) |
+| Sexy Memory Puzzle: Futanari Doctor | 340622 | [340622-sexy-memory-puzzle-futanari-doctor.json](./340622-sexy-memory-puzzle-futanari-doctor.json) |
+| Sexy Memory Puzzle: Futanari Gloryhole | 340621 | [340621-sexy-memory-puzzle-futanari-gloryhole.json](./340621-sexy-memory-puzzle-futanari-gloryhole.json) |
+| Sexy Memory Puzzle: Futanari Jail | 340620 | [340620-sexy-memory-puzzle-futanari-jail.json](./340620-sexy-memory-puzzle-futanari-jail.json) |
+| Sexy Memory Puzzle: Futanari Pool | 340619 | [340619-sexy-memory-puzzle-futanari-pool.json](./340619-sexy-memory-puzzle-futanari-pool.json) |
+| Sexy Memory Puzzle: Futanari Sauna | 340618 | [340618-sexy-memory-puzzle-futanari-sauna.json](./340618-sexy-memory-puzzle-futanari-sauna.json) |
+| Sexy Memory Puzzle: Futanari Striptease | 340617 | [340617-sexy-memory-puzzle-futanari-striptease.json](./340617-sexy-memory-puzzle-futanari-striptease.json) |
 | Sexy Memory Puzzle: Gamer Girl | 312685 | [312685-sexy-memory-puzzle-gamer-girl.json](./312685-sexy-memory-puzzle-gamer-girl.json) |
+| Sexy Memory Puzzle: Gay Affair | 340616 | [340616-sexy-memory-puzzle-gay-affair.json](./340616-sexy-memory-puzzle-gay-affair.json) |
+| Sexy Memory Puzzle: Gay BDSM | 340615 | [340615-sexy-memory-puzzle-gay-bdsm.json](./340615-sexy-memory-puzzle-gay-bdsm.json) |
+| Sexy Memory Puzzle: Gay Gloryhole | 340614 | [340614-sexy-memory-puzzle-gay-gloryhole.json](./340614-sexy-memory-puzzle-gay-gloryhole.json) |
+| Sexy Memory Puzzle: Gay Gym | 340613 | [340613-sexy-memory-puzzle-gay-gym.json](./340613-sexy-memory-puzzle-gay-gym.json) |
+| Sexy Memory Puzzle: Gay Jail | 340612 | [340612-sexy-memory-puzzle-gay-jail.json](./340612-sexy-memory-puzzle-gay-jail.json) |
+| Sexy Memory Puzzle: Gay Pool | 340611 | [340611-sexy-memory-puzzle-gay-pool.json](./340611-sexy-memory-puzzle-gay-pool.json) |
 | Sexy Memory Puzzle: Kawaii | 384873 | [384873-sexy-memory-puzzle-kawaii.json](./384873-sexy-memory-puzzle-kawaii.json) |
 | Sexy Memory Puzzle: Kinky Workout | 340608 | [340608-sexy-memory-puzzle-kinky-workout.json](./340608-sexy-memory-puzzle-kinky-workout.json) |
 | Sexy Memory Puzzle: Pool Girls | 340607 | [340607-sexy-memory-puzzle-pool-girls.json](./340607-sexy-memory-puzzle-pool-girls.json) |
