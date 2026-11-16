@@ -3578,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acuaria Pet Desktop | 377113 | [377113-acuaria-pet-desktop.json](./377113-acuaria-pet-desktop.json) |
 | Acucalypse | 75537 | [75537-acucalypse.json](./75537-acucalypse.json) |
 | Aculeata | 280675 | [280675-aculeata.json](./280675-aculeata.json) |
+| Aculto | 386746 | [386746-aculto.json](./386746-aculto.json) |
 | Acute Art VR Museum | 87945 | [87945-acute-art-vr-museum.json](./87945-acute-art-vr-museum.json) |
 | ACUVAC: A Suck And Blow Adventure | 318561 | [318561-acuvac-a-suck-and-blow-adventure.json](./318561-acuvac-a-suck-and-blow-adventure.json) |
 | Acyntha-roids | 401362 | [401362-acyntha-roids.json](./401362-acyntha-roids.json) |
@@ -10166,6 +10167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amigo VR | 28675 | [28675-amigo-vr.json](./28675-amigo-vr.json) |
 | Amigo: Kebab Simulator | 243141 | [243141-amigo-kebab-simulator.json](./243141-amigo-kebab-simulator.json) |
+| Amigo: The Broken Loop | 387789 | [387789-amigo-the-broken-loop.json](./387789-amigo-the-broken-loop.json) |
 | Amiha's Nightmare Castle | 212756 | [212756-amihas-nightmare-castle.json](./212756-amihas-nightmare-castle.json) |
 | Amihailu in Dreamland | 32219 | [32219-amihailu-in-dreamland.json](./32219-amihailu-in-dreamland.json) |
 | Amiibo Tap: Nintendo's Greatest Bits | 60431 | [60431-amiibo-tap-nintendos-greatest-bits.json](./60431-amiibo-tap-nintendos-greatest-bits.json) |
@@ -18758,6 +18760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum | 356277 | [356277-asylum.json](./356277-asylum.json) |
 | Asylum | 86391 | [86391-asylum.json](./86391-asylum.json) |
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
+| Asylum 1966 | 387981 | [387981-asylum-1966.json](./387981-asylum-1966.json) |
 | Asylum 45 | 384666 | [384666-asylum-45.json](./384666-asylum-45.json) |
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum Denied | 382849 | [382849-asylum-denied.json](./382849-asylum-denied.json) |
