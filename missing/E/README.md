@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Survivors | 244234 | [244234-elemental-survivors.json](./244234-elemental-survivors.json) |
 | Elemental Survivors: Roguelike | 236472 | [236472-elemental-survivors-roguelike.json](./236472-elemental-survivors-roguelike.json) |
 | Elemental Tiles | 180631 | [180631-elemental-tiles.json](./180631-elemental-tiles.json) |
+| Elemental Towers | 346842 | [346842-elemental-towers.json](./346842-elemental-towers.json) |
 | Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
 | Elemental War 2 | 159268 | [159268-elemental-war-2.json](./159268-elemental-war-2.json) |
 | Elemental War Clash | 343448 | [343448-elemental-war-clash.json](./343448-elemental-war-clash.json) |
@@ -3712,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Earth III | 1606 | [1606-empire-earth-iii.json](./1606-empire-earth-iii.json) |
 | Empire Earth: The Art of Conquest | 1609 | [1609-empire-earth-the-art-of-conquest.json](./1609-empire-earth-the-art-of-conquest.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
+| Empire Game | 346841 | [346841-empire-game.json](./346841-empire-game.json) |
 | Empire Game: Pixel Hero | 364053 | [364053-empire-game-pixel-hero.json](./364053-empire-game-pixel-hero.json) |
 | Empire Heroes: Sudoku Puzzle | 58135 | [58135-empire-heroes-sudoku-puzzle.json](./58135-empire-heroes-sudoku-puzzle.json) |
 | Empire Hike | 395767 | [395767-empire-hike.json](./395767-empire-hike.json) |
@@ -4327,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Night: The Darkness Within | 344663 | [344663-endless-night-the-darkness-within.json](./344663-endless-night-the-darkness-within.json) |
 | Endless Nightbreak: Blood Horde | 379818 | [379818-endless-nightbreak-blood-horde.json](./379818-endless-nightbreak-blood-horde.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
+| Endless Nightmare 6: Reborn | 358560 | [358560-endless-nightmare-6-reborn.json](./358560-endless-nightmare-6-reborn.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
 | Endless Nights RPG | 223628 | [223628-endless-nights-rpg.json](./223628-endless-nights-rpg.json) |
@@ -4673,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma | 188625 | [188625-enigma.json](./188625-enigma.json) |
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
 | Enigma | 257825 | [257825-enigma.json](./257825-enigma.json) |
+| Enigma | 360804 | [360804-enigma.json](./360804-enigma.json) |
 | Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
 | Enigma Adventure Studio | 131133 | [131133-enigma-adventure-studio.json](./131133-enigma-adventure-studio.json) |
 | Enigma Agency: The Case of Shadows | 63441 | [63441-enigma-agency-the-case-of-shadows.json](./63441-enigma-agency-the-case-of-shadows.json) |
@@ -5523,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ericanskinsmonsters | 277444 | [277444-ericanskinsmonsters.json](./277444-ericanskinsmonsters.json) |
 | Erich Sann | 227248 | [227248-erich-sann.json](./227248-erich-sann.json) |
 | Erick Golden | 335713 | [335713-erick-golden.json](./335713-erick-golden.json) |
+| Eridani Survivors | 347925 | [347925-eridani-survivors.json](./347925-eridani-survivors.json) |
 | Eridle. | 421180 | [421180-eridle.json](./421180-eridle.json) |
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
 | Erie | 63380 | [63380-erie.json](./63380-erie.json) |
@@ -5847,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Castle Frankenstein | 305982 | [305982-escape-from-castle-frankenstein.json](./305982-escape-from-castle-frankenstein.json) |
 | Escape From Castle Matsumoto | 322910 | [322910-escape-from-castle-matsumoto.json](./322910-escape-from-castle-matsumoto.json) |
 | Escape From Castle Orochi | 319839 | [319839-escape-from-castle-orochi.json](./319839-escape-from-castle-orochi.json) |
+| Escape From Chancellor's Chambers | 348996 | [348996-escape-from-chancellors-chambers.json](./348996-escape-from-chancellors-chambers.json) |
 | Escape from Chernobyl: Jailbreak | 121873 | [121873-escape-from-chernobyl-jailbreak.json](./121873-escape-from-chernobyl-jailbreak.json) |
 | Escape from Classroom | 120018 | [120018-escape-from-classroom.json](./120018-escape-from-classroom.json) |
 | Escape From Clive | 339767 | [339767-escape-from-clive.json](./339767-escape-from-clive.json) |
