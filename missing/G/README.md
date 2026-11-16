@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gasketball | 60316 | [60316-gasketball.json](./60316-gasketball.json) |
 | Gaslamp Cases 10: The Loch Ness Enigma | 336995 | [336995-gaslamp-cases-10-the-loch-ness-enigma.json](./336995-gaslamp-cases-10-the-loch-ness-enigma.json) |
 | Gaslamp Cases 11: The Haunting of Fogley Manor | 355807 | [355807-gaslamp-cases-11-the-haunting-of-fogley-manor.json](./355807-gaslamp-cases-11-the-haunting-of-fogley-manor.json) |
+| Gaslamp Cases 15: The Shattered Eclipse | 415578 | [415578-gaslamp-cases-15-the-shattered-eclipse.json](./415578-gaslamp-cases-15-the-shattered-eclipse.json) |
 | Gaslamp Cases 16: The Final Curtain | 416468 | [416468-gaslamp-cases-16-the-final-curtain.json](./416468-gaslamp-cases-16-the-final-curtain.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
 | Gaslamp Cases 3: Ancient Secrets | 193039 | [193039-gaslamp-cases-3-ancient-secrets.json](./193039-gaslamp-cases-3-ancient-secrets.json) |
@@ -10454,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
 | Grilled | 149459 | [149459-grilled.json](./149459-grilled.json) |
 | Grilled Dogs: Grillar - Es Geht Um Die Wurst | 241084 | [241084-grilled-dogs-grillar-es-geht-um-die-wurst.json](./241084-grilled-dogs-grillar-es-geht-um-die-wurst.json) |
+| Grilled Poppycock | 415596 | [415596-grilled-poppycock.json](./415596-grilled-poppycock.json) |
 | Grilluminati | 410614 | [410614-grilluminati.json](./410614-grilluminati.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 261740 | [261740-grim.json](./261740-grim.json) |
