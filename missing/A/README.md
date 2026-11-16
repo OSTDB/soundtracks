@@ -16022,6 +16022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma Tactics THD | 39247 | [39247-arma-tactics-thd.json](./39247-arma-tactics-thd.json) |
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Arma: Cold War Assault | 9775 | [9775-arma-cold-war-assault.json](./9775-arma-cold-war-assault.json) |
+| Arma: Cold War Assault Remastered | 408335 | [408335-arma-cold-war-assault-remastered.json](./408335-arma-cold-war-assault-remastered.json) |
 | ARMA: Gold Edition | 27937 | [27937-arma-gold-edition.json](./27937-arma-gold-edition.json) |
 | Arma: Queen's Gambit | 15870 | [15870-arma-queens-gambit.json](./15870-arma-queens-gambit.json) |
 | ArmaCulture | 148310 | [148310-armaculture.json](./148310-armaculture.json) |
