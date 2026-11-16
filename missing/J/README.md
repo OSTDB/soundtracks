@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
 | Jack Houston and the Necronauts | 64577 | [64577-jack-houston-and-the-necronauts.json](./64577-jack-houston-and-the-necronauts.json) |
 | Jack In Space | 409664 | [409664-jack-in-space.json](./409664-jack-in-space.json) |
+| Jack in the Box | 313613 | [313613-jack-in-the-box.json](./313613-jack-in-the-box.json) |
 | Jack in the Dark | 51346 | [51346-jack-in-the-dark.json](./51346-jack-in-the-dark.json) |
 | Jack In Town | 129041 | [129041-jack-in-town.json](./129041-jack-in-town.json) |
 | Jack Is Missing | 108374 | [108374-jack-is-missing.json](./108374-jack-is-missing.json) |
@@ -3848,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Man: Mine | 380608 | [380608-jumping-man-mine.json](./380608-jumping-man-mine.json) |
 | Jumping Master | 115590 | [115590-jumping-master.json](./115590-jumping-master.json) |
 | Jumping Mellow | 133202 | [133202-jumping-mellow.json](./133202-jumping-mellow.json) |
+| Jumping Ninja | 324031 | [324031-jumping-ninja.json](./324031-jumping-ninja.json) |
 | Jumping Ninja Battle | 345695 | [345695-jumping-ninja-battle.json](./345695-jumping-ninja-battle.json) |
 | Jumping Orb | 295888 | [295888-jumping-orb.json](./295888-jumping-orb.json) |
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
@@ -4769,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justin Time Go Play! | 102230 | [102230-justin-time-go-play.json](./102230-justin-time-go-play.json) |
 | Justin Wack and the Big Time Hack | 121639 | [121639-justin-wack-and-the-big-time-hack.json](./121639-justin-wack-and-the-big-time-hack.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
+| Justine et la Pierre de Feu | 324025 | [324025-justine-et-la-pierre-de-feu.json](./324025-justine-et-la-pierre-de-feu.json) |
 | JustJump! | 370174 | [370174-justjump.json](./370174-justjump.json) |
 | JustMatching | 317723 | [317723-justmatching.json](./317723-justmatching.json) |
 | JustN | 119665 | [119665-justn.json](./119665-justn.json) |
