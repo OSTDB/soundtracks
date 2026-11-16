@@ -10149,6 +10149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Anime Puzzle: Christmas | 369696 | [369696-lovely-anime-puzzle-christmas.json](./369696-lovely-anime-puzzle-christmas.json) |
 | Lovely Anime Puzzle: Easter | 397639 | [397639-lovely-anime-puzzle-easter.json](./397639-lovely-anime-puzzle-easter.json) |
 | Lovely Anime Puzzle: Lunar | 382091 | [382091-lovely-anime-puzzle-lunar.json](./382091-lovely-anime-puzzle-lunar.json) |
+| Lovely Anime Puzzle: Patrick | 366151 | [366151-lovely-anime-puzzle-patrick.json](./366151-lovely-anime-puzzle-patrick.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
 | Lovely Anime Puzzle: Summer | 385868 | [385868-lovely-anime-puzzle-summer.json](./385868-lovely-anime-puzzle-summer.json) |
 | Lovely Anime Puzzle: Valentine | 329163 | [329163-lovely-anime-puzzle-valentine.json](./329163-lovely-anime-puzzle-valentine.json) |
@@ -10677,6 +10678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludus | 128123 | [128123-ludus.json](./128123-ludus.json) |
 | Ludus Latrunculorum | 384163 | [384163-ludus-latrunculorum.json](./384163-ludus-latrunculorum.json) |
 | Ludus Magnatus: Gladiator Manager Simulator | 390751 | [390751-ludus-magnatus-gladiator-manager-simulator.json](./390751-ludus-magnatus-gladiator-manager-simulator.json) |
+| Ludus Manager | 366747 | [366747-ludus-manager.json](./366747-ludus-manager.json) |
 | Ludus Mortis | 224699 | [224699-ludus-mortis.json](./224699-ludus-mortis.json) |
 | Ludus Vetitus | 292766 | [292766-ludus-vetitus.json](./292766-ludus-vetitus.json) |
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
