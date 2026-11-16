@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble: Champion Edition | 209016 | [209016-scrabble-champion-edition.json](./209016-scrabble-champion-edition.json) |
 | Scrabble: Crossword Game | 45054 | [45054-scrabble-crossword-game.json](./45054-scrabble-crossword-game.json) |
 | Scrabble: Deluxe Edition | 145290 | [145290-scrabble-deluxe-edition.json](./145290-scrabble-deluxe-edition.json) |
+| Scrabbled Eggs | 232193 | [232193-scrabbled-eggs.json](./232193-scrabbled-eggs.json) |
 | Scrabbleman | 302782 | [302782-scrabbleman.json](./302782-scrabbleman.json) |
 | Scrabdackle | 141167 | [141167-scrabdackle.json](./141167-scrabdackle.json) |
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
@@ -4098,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream | 183211 | [183211-scream.json](./183211-scream.json) |
 | Scream 4 | 77204 | [77204-scream-4.json](./77204-scream-4.json) |
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
+| Scream Barbellman | 232134 | [232134-scream-barbellman.json](./232134-scream-barbellman.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
 | Scream Machines | 65887 | [65887-scream-machines.json](./65887-scream-machines.json) |
@@ -16751,6 +16753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Byte | 18507 | [18507-snake-byte.json](./18507-snake-byte.json) |
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
+| Snake Champions | 232133 | [232133-snake-champions.json](./232133-snake-champions.json) |
 | Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
 | Snake Charmer | 83705 | [83705-snake-charmer.json](./83705-snake-charmer.json) |
 | Snake Charmer - TPS Snek | 81038 | [81038-snake-charmer-tps-snek.json](./81038-snake-charmer-tps-snek.json) |
