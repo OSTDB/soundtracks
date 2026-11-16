@@ -3733,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Fate of Atlantis | 389762 | [389762-indiana-jones-and-the-fate-of-atlantis.json](./389762-indiana-jones-and-the-fate-of-atlantis.json) |
 | Indiana Jones and the Fate of Atlantis: Special Edition | 22037 | [22037-indiana-jones-and-the-fate-of-atlantis-special-edition.json](./22037-indiana-jones-and-the-fate-of-atlantis-special-edition.json) |
 | Indiana Jones and the Fate of Atlantis: The Action Game | 12155 | [12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json](./12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json) |
+| Indiana Jones and the Gold of Genghis Khan | 279831 | [279831-indiana-jones-and-the-gold-of-genghis-khan.json](./279831-indiana-jones-and-the-gold-of-genghis-khan.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
 | Indiana Jones and the Great Circle: Digital Premium Upgrade | 332027 | [332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json](./332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json) |
 | Indiana Jones and The Great Circle: Premium Edition | 317815 | [317815-indiana-jones-and-the-great-circle-premium-edition.json](./317815-indiana-jones-and-the-great-circle-premium-edition.json) |
