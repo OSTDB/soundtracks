@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamera: The Time Adventure | 66081 | [66081-gamera-the-time-adventure.json](./66081-gamera-the-time-adventure.json) |
 | Gamerbots: Third-Robot Shooting | 144036 | [144036-gamerbots-third-robot-shooting.json](./144036-gamerbots-third-robot-shooting.json) |
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
+| Gamers Club Repeat | 419809 | [419809-gamers-club-repeat.json](./419809-gamers-club-repeat.json) |
 | Gamers Pack | 72043 | [72043-gamers-pack.json](./72043-gamers-pack.json) |
 | Gamers Unknown Survival | 54484 | [54484-gamers-unknown-survival.json](./54484-gamers-unknown-survival.json) |
 | Gamers' Delight | 131737 | [131737-gamers-delight.json](./131737-gamers-delight.json) |
@@ -9127,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny Simulator | 103568 | [103568-granny-simulator.json](./103568-granny-simulator.json) |
 | Granny Smith | 61081 | [61081-granny-smith.json](./61081-granny-smith.json) |
 | Granny Strikes Back | 403086 | [403086-granny-strikes-back.json](./403086-granny-strikes-back.json) |
+| Granny Survival Escape | 419832 | [419832-granny-survival-escape.json](./419832-granny-survival-escape.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
 | Granny: Chapter Two | 127767 | [127767-granny-chapter-two.json](./127767-granny-chapter-two.json) |
 | Granny: Escape Together | 324118 | [324118-granny-escape-together.json](./324118-granny-escape-together.json) |
