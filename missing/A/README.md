@@ -12063,6 +12063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni 6 3D | 389041 | [389041-anime-uni-6-3d.json](./389041-anime-uni-6-3d.json) |
 | Anime Uni 7: A Happy Valentine | 389351 | [389351-anime-uni-7-a-happy-valentine.json](./389351-anime-uni-7-a-happy-valentine.json) |
 | Anime Uni St. Patrick’s Puzzle | 394996 | [394996-anime-uni-st-patrick-s-puzzle.json](./394996-anime-uni-st-patrick-s-puzzle.json) |
+| Anime Uni: April Fools Puzzle | 397341 | [397341-anime-uni-april-fools-puzzle.json](./397341-anime-uni-april-fools-puzzle.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime vs. Evil: Apocalypse | 238081 | [238081-anime-vs-evil-apocalypse.json](./238081-anime-vs-evil-apocalypse.json) |
 | Anime Waifu Simulator: Sakura Garden | 334990 | [334990-anime-waifu-simulator-sakura-garden.json](./334990-anime-waifu-simulator-sakura-garden.json) |
@@ -12468,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous;Code: Limited Edition | 201045 | [201045-anonymous-code-limited-edition.json](./201045-anonymous-code-limited-edition.json) |
 | Anonymous;Code: Steelbook Launch Edition | 209836 | [209836-anonymous-code-steelbook-launch-edition.json](./209836-anonymous-code-steelbook-launch-edition.json) |
 | Anopek | 154066 | [154066-anopek.json](./154066-anopek.json) |
+| Anopsia | 397960 | [397960-anopsia.json](./397960-anopsia.json) |
 | Anorak City | 308468 | [308468-anorak-city.json](./308468-anorak-city.json) |
 | Anord | 136541 | [136541-anord.json](./136541-anord.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
@@ -13813,7 +13815,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Rush | 66736 | [66736-aqua-rush.json](./66736-aqua-rush.json) |
 | Aqua Slug | 175837 | [175837-aqua-slug.json](./175837-aqua-slug.json) |
 | Aqua Teen Hunger Force Destruct-O-Thon | 400514 | [400514-aqua-teen-hunger-force-destruct-o-thon.json](./400514-aqua-teen-hunger-force-destruct-o-thon.json) |
+| Aqua Teen Hunger Force in Space Combat | 397331 | [397331-aqua-teen-hunger-force-in-space-combat.json](./397331-aqua-teen-hunger-force-in-space-combat.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
+| Aqua Teen Hunger Force: Dead Evil | 397357 | [397357-aqua-teen-hunger-force-dead-evil.json](./397357-aqua-teen-hunger-force-dead-evil.json) |
+| Aqua Teen Hunger Force: Studio Shakedown | 397336 | [397336-aqua-teen-hunger-force-studio-shakedown.json](./397336-aqua-teen-hunger-force-studio-shakedown.json) |
 | Aqua TV | 80908 | [80908-aqua-tv.json](./80908-aqua-tv.json) |
 | Aqua-Mix | 278012 | [278012-aqua-mix.json](./278012-aqua-mix.json) |
 | Aqua-World: Umi Monogatari | 45432 | [45432-aqua-world-umi-monogatari.json](./45432-aqua-world-umi-monogatari.json) |
