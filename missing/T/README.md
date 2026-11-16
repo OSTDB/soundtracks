@@ -12996,6 +12996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Key of Avalon | 308055 | [308055-the-key-of-avalon.json](./308055-the-key-of-avalon.json) |
 | The Key of hope | 32389 | [32389-the-key-of-hope.json](./32389-the-key-of-hope.json) |
 | The Key of Rednow | 163403 | [163403-the-key-of-rednow.json](./163403-the-key-of-rednow.json) |
+| The Key Riddle | 384432 | [384432-the-key-riddle.json](./384432-the-key-riddle.json) |
 | The Key to Forgotten Souls | 395177 | [395177-the-key-to-forgotten-souls.json](./395177-the-key-to-forgotten-souls.json) |
 | The Key to Home | 75948 | [75948-the-key-to-home.json](./75948-the-key-to-home.json) |
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
@@ -14794,9 +14795,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Mithril Edition | 207000 | [207000-the-lord-of-the-rings-online-mithril-edition.json](./207000-the-lord-of-the-rings-online-mithril-edition.json) |
 | The Lord of the Rings Online: Mordor | 46778 | [46778-the-lord-of-the-rings-online-mordor.json](./46778-the-lord-of-the-rings-online-mordor.json) |
 | The Lord of the Rings Online: Quad Pack | 169321 | [169321-the-lord-of-the-rings-online-quad-pack.json](./169321-the-lord-of-the-rings-online-quad-pack.json) |
+| The Lord of the Rings Online: Quest Pack: Central Gondor | 384411 | [384411-the-lord-of-the-rings-online-quest-pack-central-gondor.json](./384411-the-lord-of-the-rings-online-quest-pack-central-gondor.json) |
+| The Lord of the Rings Online: Quest Pack: East Gondor | 384414 | [384414-the-lord-of-the-rings-online-quest-pack-east-gondor.json](./384414-the-lord-of-the-rings-online-quest-pack-east-gondor.json) |
 | The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer | 384536 | [384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json](./384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json) |
+| The Lord of the Rings Online: Quest Pack: Old Anórien | 384418 | [384418-the-lord-of-the-rings-online-quest-pack-old-anorien.json](./384418-the-lord-of-the-rings-online-quest-pack-old-anorien.json) |
 | The Lord of the Rings Online: Quest Pack: The Vales of Anduin | 384540 | [384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json](./384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json) |
 | The Lord of the Rings Online: Quest Pack: Where Dragons Dwell | 384539 | [384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json](./384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json) |
+| The Lord of the Rings Online: Region Pack: Far Anórien | 384422 | [384422-the-lord-of-the-rings-online-region-pack-far-anorien.json](./384422-the-lord-of-the-rings-online-region-pack-far-anorien.json) |
 | The Lord of the Rings Online: Riders of Rohan | 19098 | [19098-the-lord-of-the-rings-online-riders-of-rohan.json](./19098-the-lord-of-the-rings-online-riders-of-rohan.json) |
 | The Lord of the Rings Online: Riders of Rohan - Heroic Edition Live | 95570 | [95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json](./95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json) |
 | The Lord of the Rings Online: Rise of Isengard | 24290 | [24290-the-lord-of-the-rings-online-rise-of-isengard.json](./24290-the-lord-of-the-rings-online-rise-of-isengard.json) |
@@ -18443,6 +18448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shores of Stellaluna | 357001 | [357001-the-shores-of-stellaluna.json](./357001-the-shores-of-stellaluna.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Short Story of a Drifting Labyrinth | 82341 | [82341-the-short-story-of-a-drifting-labyrinth.json](./82341-the-short-story-of-a-drifting-labyrinth.json) |
+| The Short Story Of A Riftkeeper | 384441 | [384441-the-short-story-of-a-riftkeeper.json](./384441-the-short-story-of-a-riftkeeper.json) |
 | The Short Trip | 328973 | [328973-the-short-trip.json](./328973-the-short-trip.json) |
 | The Shortest Journey | 327327 | [327327-the-shortest-journey.json](./327327-the-shortest-journey.json) |
 | The Shouboutai | 124081 | [124081-the-shouboutai.json](./124081-the-shouboutai.json) |
@@ -21391,6 +21397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch and the Hundred Knight: Revival Edition | 19796 | [19796-the-witch-and-the-hundred-knight-revival-edition.json](./19796-the-witch-and-the-hundred-knight-revival-edition.json) |
 | The Witch and the Hundred Knight: Revival Edition - Limited Edition | 42922 | [42922-the-witch-and-the-hundred-knight-revival-edition-limited-edition.json](./42922-the-witch-and-the-hundred-knight-revival-edition-limited-edition.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
+| The Witch and the Warrior | 384437 | [384437-the-witch-and-the-warrior.json](./384437-the-witch-and-the-warrior.json) |
 | The Witch Blade | 204140 | [204140-the-witch-blade.json](./204140-the-witch-blade.json) |
 | The Witch Doctor | 172316 | [172316-the-witch-doctor.json](./172316-the-witch-doctor.json) |
 | The Witch Eye | 169770 | [169770-the-witch-eye.json](./169770-the-witch-eye.json) |
@@ -26414,6 +26421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Dwellings | 428390 | [428390-tiny-dwellings.json](./428390-tiny-dwellings.json) |
 | Tiny Echo | 36743 | [36743-tiny-echo.json](./36743-tiny-echo.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
+| Tiny Elf | 384428 | [384428-tiny-elf.json](./384428-tiny-elf.json) |
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
 | Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
 | Tiny Explorer | 412064 | [412064-tiny-explorer.json](./412064-tiny-explorer.json) |
@@ -37439,6 +37447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Edge Extreme Snowboarding | 3622 | [3622-twisted-edge-extreme-snowboarding.json](./3622-twisted-edge-extreme-snowboarding.json) |
 | Twisted Fate | 382728 | [382728-twisted-fate.json](./382728-twisted-fate.json) |
 | Twisted Games | 427810 | [427810-twisted-games.json](./427810-twisted-games.json) |
+| Twisted Grove | 381482 | [381482-twisted-grove.json](./381482-twisted-grove.json) |
 | Twisted Insurrection | 219009 | [219009-twisted-insurrection.json](./219009-twisted-insurrection.json) |
 | Twisted Jam | 329238 | [329238-twisted-jam.json](./329238-twisted-jam.json) |
 | Twisted Joke | 273548 | [273548-twisted-joke.json](./273548-twisted-joke.json) |
