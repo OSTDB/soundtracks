@@ -18974,6 +18974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atan | 283967 | [283967-atan.json](./283967-atan.json) |
 | Ataque dos vermes | 230639 | [230639-ataque-dos-vermes.json](./230639-ataque-dos-vermes.json) |
 | Ataque Marino | 113459 | [113459-ataque-marino.json](./113459-ataque-marino.json) |
+| Ataraxie | 267030 | [267030-ataraxie.json](./267030-ataraxie.json) |
 | Atarayo no Kanojo | 370558 | [370558-atarayo-no-kanojo.json](./370558-atarayo-no-kanojo.json) |
 | Atari | 220069 | [220069-atari.json](./220069-atari.json) |
 | Atari | 220073 | [220073-atari.json](./220073-atari.json) |
