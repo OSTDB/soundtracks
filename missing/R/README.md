@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbitmaiden Softbook | 267604 | [267604-rabbitmaiden-softbook.json](./267604-rabbitmaiden-softbook.json) |
 | Rabbitoad | 203663 | [203663-rabbitoad.json](./203663-rabbitoad.json) |
 | Rabbitra 2 | 291846 | [291846-rabbitra-2.json](./291846-rabbitra-2.json) |
+| Rabbits Also Kill: Rezero | 419801 | [419801-rabbits-also-kill-rezero.json](./419801-rabbits-also-kill-rezero.json) |
 | Rabbits and Magic | 315787 | [315787-rabbits-and-magic.json](./315787-rabbits-and-magic.json) |
 | Rabbits Hunt | 405881 | [405881-rabbits-hunt.json](./405881-rabbits-hunt.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
@@ -7757,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm 'n' Face | 123290 | [123290-rhythm-n-face.json](./123290-rhythm-n-face.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Action Gatsby | 184340 | [184340-rhythm-action-gatsby.json](./184340-rhythm-action-gatsby.json) |
+| Rhythm Aero | 419806 | [419806-rhythm-aero.json](./419806-rhythm-aero.json) |
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
 | Rhythm Bang | 224683 | [224683-rhythm-bang.json](./224683-rhythm-bang.json) |
 | Rhythm Banki | 204245 | [204245-rhythm-banki.json](./204245-rhythm-banki.json) |
