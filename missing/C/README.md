@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Commander: Zombie Island | 201942 | [201942-call-of-commander-zombie-island.json](./201942-call-of-commander-zombie-island.json) |
 | Call of Corona: Micro Warfare | 137750 | [137750-call-of-corona-micro-warfare.json](./137750-call-of-corona-micro-warfare.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
+| Call of Cthulhu | 268174 | [268174-call-of-cthulhu.json](./268174-call-of-cthulhu.json) |
 | Call of Cthulhu | 9176 | [9176-call-of-cthulhu.json](./9176-call-of-cthulhu.json) |
 | Call of Cthulhu: Dark Corners of the Earth | 2964 | [2964-call-of-cthulhu-dark-corners-of-the-earth.json](./2964-call-of-cthulhu-dark-corners-of-the-earth.json) |
 | Call of Cthulhu: Shadow of the Comet | 34783 | [34783-call-of-cthulhu-shadow-of-the-comet.json](./34783-call-of-cthulhu-shadow-of-the-comet.json) |
@@ -19386,6 +19387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cream Flower Catch | 162522 | [162522-cream-flower-catch.json](./162522-cream-flower-catch.json) |
 | Cream Lemon: Star Trap | 270728 | [270728-cream-lemon-star-trap.json](./270728-cream-lemon-star-trap.json) |
 | Cream Me | 158397 | [158397-cream-me.json](./158397-cream-me.json) |
+| Cream Party | 269260 | [269260-cream-party.json](./269260-cream-party.json) |
 | Cream Soda Club | 249940 | [249940-cream-soda-club.json](./249940-cream-soda-club.json) |
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
 | Cream Wolf | 396973 | [396973-cream-wolf.json](./396973-cream-wolf.json) |
