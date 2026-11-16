@@ -4044,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclaim Earth | 303934 | [303934-reclaim-earth.json](./303934-reclaim-earth.json) |
 | Reclaim The Living | 293576 | [293576-reclaim-the-living.json](./293576-reclaim-the-living.json) |
 | Reclaim the Sea | 216954 | [216954-reclaim-the-sea.json](./216954-reclaim-the-sea.json) |
+| Reclaimer | 394967 | [394967-reclaimer.json](./394967-reclaimer.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclaimers | 339706 | [339706-reclaimers.json](./339706-reclaimers.json) |
 | Reclaiming the Lost | 340716 | [340716-reclaiming-the-lost.json](./340716-reclaiming-the-lost.json) |
@@ -8501,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigs: Mechanized Combat League | 11253 | [11253-rigs-mechanized-combat-league.json](./11253-rigs-mechanized-combat-league.json) |
 | Riichi Advanced | 335766 | [335766-riichi-advanced.json](./335766-riichi-advanced.json) |
 | Riichi Mahjong | 403729 | [403729-riichi-mahjong.json](./403729-riichi-mahjong.json) |
+| RIIIP | 394922 | [394922-riiip.json](./394922-riiip.json) |
 | RiiMajor | 294771 | [294771-riimajor.json](./294771-riimajor.json) |
 | RIIP | 394445 | [394445-riip.json](./394445-riip.json) |
 | RiiPlay | 294784 | [294784-riiplay.json](./294784-riiplay.json) |
@@ -12286,6 +12288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Escape in Voxels | 200440 | [200440-room-escape-in-voxels.json](./200440-room-escape-in-voxels.json) |
 | Room Escape: Prisoners Hero | 222068 | [222068-room-escape-prisoners-hero.json](./222068-room-escape-prisoners-hero.json) |
 | Room Escape: Scary Horror Game | 232026 | [232026-room-escape-scary-horror-game.json](./232026-room-escape-scary-horror-game.json) |
+| Room Escape: Secret Code | 394961 | [394961-room-escape-secret-code.json](./394961-room-escape-secret-code.json) |
 | Room Escape: Strange Case 2 | 285859 | [285859-room-escape-strange-case-2.json](./285859-room-escape-strange-case-2.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
