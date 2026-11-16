@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGT Slots Kitty Glitter | 87322 | [87322-igt-slots-kitty-glitter.json](./87322-igt-slots-kitty-glitter.json) |
 | IGT Slots Paradise Garden | 17793 | [17793-igt-slots-paradise-garden.json](./17793-igt-slots-paradise-garden.json) |
 | IGT Slots: Lucky Larry's Lobstermania | 65716 | [65716-igt-slots-lucky-larrys-lobstermania.json](./65716-igt-slots-lucky-larrys-lobstermania.json) |
+| IGTAP: An Incremental Game That's Also a Platformer | 394928 | [394928-igtap-an-incremental-game-thats-also-a-platformer.json](./394928-igtap-an-incremental-game-thats-also-a-platformer.json) |
 | IguaRPG | 242410 | [242410-iguarpg.json](./242410-iguarpg.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | iGun Pro | 88473 | [88473-igun-pro.json](./88473-igun-pro.json) |
@@ -7218,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islets Defense | 322054 | [322054-islets-defense.json](./322054-islets-defense.json) |
 | Isleward | 145941 | [145941-isleward.json](./145941-isleward.json) |
 | Isly | 185010 | [185010-isly.json](./185010-isly.json) |
+| Ismene | 394921 | [394921-ismene.json](./394921-ismene.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
