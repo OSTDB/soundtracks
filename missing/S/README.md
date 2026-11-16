@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Kid | 50005 | [50005-samurai-kid.json](./50005-samurai-kid.json) |
 | Samurai Kirby | 134459 | [134459-samurai-kirby.json](./134459-samurai-kirby.json) |
 | Samurai Lantern | 112238 | [112238-samurai-lantern.json](./112238-samurai-lantern.json) |
+| Samurai Legacy | 235530 | [235530-samurai-legacy.json](./235530-samurai-legacy.json) |
 | Samurai Legends | 214132 | [214132-samurai-legends.json](./214132-samurai-legends.json) |
 | Samurai Love Ballad: Party | 238893 | [238893-samurai-love-ballad-party.json](./238893-samurai-love-ballad-party.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
@@ -10563,6 +10564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Fuse | 412068 | [412068-short-fuse.json](./412068-short-fuse.json) |
 | Short Haired Girls | 271876 | [271876-short-haired-girls.json](./271876-short-haired-girls.json) |
 | Short Hop Laser | 172976 | [172976-short-hop-laser.json](./172976-short-hop-laser.json) |
+| Short Horror Story | 236044 | [236044-short-horror-story.json](./236044-short-horror-story.json) |
 | Short Life | 108798 | [108798-short-life.json](./108798-short-life.json) |
 | Short Maps for Short People | 281356 | [281356-short-maps-for-short-people.json](./281356-short-maps-for-short-people.json) |
 | Short Maps for Short People 2 | 281357 | [281357-short-maps-for-short-people-2.json](./281357-short-maps-for-short-people-2.json) |
@@ -14309,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Revolver | 342154 | [342154-sky-revolver.json](./342154-sky-revolver.json) |
 | Sky Rhythm | 328909 | [328909-sky-rhythm.json](./328909-sky-rhythm.json) |
 | Sky Ride | 54559 | [54559-sky-ride.json](./54559-sky-ride.json) |
+| Sky Rider | 234368 | [234368-sky-rider.json](./234368-sky-rider.json) |
 | Sky Road | 76383 | [76383-sky-road.json](./76383-sky-road.json) |
 | Sky Robo | 327321 | [327321-sky-robo.json](./327321-sky-robo.json) |
 | Sky Roll! | 147653 | [147653-sky-roll.json](./147653-sky-roll.json) |
@@ -26249,6 +26252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squareboy vs Bullies | 74815 | [74815-squareboy-vs-bullies.json](./74815-squareboy-vs-bullies.json) |
 | Squareboy vs Bullies: Arena Edition | 75345 | [75345-squareboy-vs-bullies-arena-edition.json](./75345-squareboy-vs-bullies-arena-edition.json) |
 | SquareCells | 25209 | [25209-squarecells.json](./25209-squarecells.json) |
+| Squared | 236043 | [236043-squared.json](./236043-squared.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared Notebook Fight | 377413 | [377413-squared-notebook-fight.json](./377413-squared-notebook-fight.json) |
 | Squared Straight | 374819 | [374819-squared-straight.json](./374819-squared-straight.json) |
@@ -29665,6 +29669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Docks | 327978 | [327978-stellar-docks.json](./327978-stellar-docks.json) |
 | Stellar Docks: Deep Space | 335959 | [335959-stellar-docks-deep-space.json](./335959-stellar-docks-deep-space.json) |
 | Stellar Dream | 393843 | [393843-stellar-dream.json](./393843-stellar-dream.json) |
+| Stellar Echoes | 236035 | [236035-stellar-echoes.json](./236035-stellar-echoes.json) |
 | Stellar Echoes: Boxing Champion | 263747 | [263747-stellar-echoes-boxing-champion.json](./263747-stellar-echoes-boxing-champion.json) |
 | Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
@@ -34374,6 +34379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battleship | 46270 | [46270-super-battleship.json](./46270-super-battleship.json) |
 | Super Battletank 2 | 38425 | [38425-super-battletank-2.json](./38425-super-battletank-2.json) |
 | Super Battletoads | 264286 | [264286-super-battletoads.json](./264286-super-battletoads.json) |
+| Super Bawk Bawk Chicken | 236041 | [236041-super-bawk-bawk-chicken.json](./236041-super-bawk-bawk-chicken.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Bear Adventure | 148427 | [148427-super-bear-adventure.json](./148427-super-bear-adventure.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
@@ -40482,6 +40488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndoy | 251064 | [251064-syndoy.json](./251064-syndoy.json) |
 | Syndream | 402689 | [402689-syndream.json](./402689-syndream.json) |
 | Syndrome VR | 74263 | [74263-syndrome-vr.json](./74263-syndrome-vr.json) |
+| Syndrome: Deluxe Edition | 238163 | [238163-syndrome-deluxe-edition.json](./238163-syndrome-deluxe-edition.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
 | Syndrome: Ultimate Edition | 231234 | [231234-syndrome-ultimate-edition.json](./231234-syndrome-ultimate-edition.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
