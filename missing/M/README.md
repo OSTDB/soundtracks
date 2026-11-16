@@ -11253,6 +11253,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphor: ReFantazio - Atlus Brand 35th Anniversary Edition | 344026 | [344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json](./344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json) |
 | Metaphor: ReFantazio - Collector's Edition | 300481 | [300481-metaphor-refantazio-collectors-edition.json](./300481-metaphor-refantazio-collectors-edition.json) |
 | Metaphor: ReFantazio - Launch Edition | 300480 | [300480-metaphor-refantazio-launch-edition.json](./300480-metaphor-refantazio-launch-edition.json) |
+| Metaphor: ReFantazio: Etrian Odyssey Class Costumes (7) & Battle BGM Set | 418350 | [418350-metaphor-refantazio-etrian-odyssey-class-costumes-7-and-battle-bgm-set.json](./418350-metaphor-refantazio-etrian-odyssey-class-costumes-7-and-battle-bgm-set.json) |
+| Metaphor: ReFantazio: Persona 2 Seven Sisters High School Uniform (7), Battle BGM & Battle Jingle Set | 418351 | [418351-metaphor-refantazio-persona-2-seven-sisters-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json](./418351-metaphor-refantazio-persona-2-seven-sisters-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json) |
+| Metaphor: ReFantazio: Persona 3 Gekkoukan High School Uniform (7), Battle BGM & Battle Jingle Set | 418352 | [418352-metaphor-refantazio-persona-3-gekkoukan-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json](./418352-metaphor-refantazio-persona-3-gekkoukan-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json) |
+| Metaphor: ReFantazio: Persona 4 Golden Yasogami High School Uniform (7), Battle BGM & Battle Jingle Set | 418353 | [418353-metaphor-refantazio-persona-4-golden-yasogami-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json](./418353-metaphor-refantazio-persona-4-golden-yasogami-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json) |
+| Metaphor: ReFantazio: Persona 5 Shujin Academy School Uniform (7), Battle BGM & Battle Jingle Set | 418354 | [418354-metaphor-refantazio-persona-5-shujin-academy-school-uniform-7-battle-bgm-and-battle-jingle-set.json](./418354-metaphor-refantazio-persona-5-shujin-academy-school-uniform-7-battle-bgm-and-battle-jingle-set.json) |
+| Metaphor: ReFantazio: Persona St. Hermelin High School Uniform (7), Battle BGM & Battle Jingle Set | 418355 | [418355-metaphor-refantazio-persona-st-hermelin-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json](./418355-metaphor-refantazio-persona-st-hermelin-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json) |
+| Metaphor: ReFantazio: Shin Megami Tensei IV Samurai Garb (7), Battle BGM & Battle Jingle Set | 418356 | [418356-metaphor-refantazio-shin-megami-tensei-iv-samurai-garb-7-battle-bgm-and-battle-jingle-set.json](./418356-metaphor-refantazio-shin-megami-tensei-iv-samurai-garb-7-battle-bgm-and-battle-jingle-set.json) |
+| Metaphor: ReFantazio: Shin Megami Tensei V Jouin High School Uniform (7), Battle BGM & Battle Jingle Set | 418357 | [418357-metaphor-refantazio-shin-megami-tensei-v-jouin-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json](./418357-metaphor-refantazio-shin-megami-tensei-v-jouin-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json) |
 | Metaphora: The Moonycat Quest | 116019 | [116019-metaphora-the-moonycat-quest.json](./116019-metaphora-the-moonycat-quest.json) |
 | MetaphOrder | 180680 | [180680-metaphorder.json](./180680-metaphorder.json) |
 | MetaPhysical | 155737 | [155737-metaphysical.json](./155737-metaphysical.json) |
@@ -12662,6 +12670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Mysteries: Witches of Abraham | 140191 | [140191-midnight-mysteries-witches-of-abraham.json](./140191-midnight-mysteries-witches-of-abraham.json) |
 | Midnight Mysteries: Witches of Abraham - Collector's Edition | 36150 | [36150-midnight-mysteries-witches-of-abraham-collectors-edition.json](./36150-midnight-mysteries-witches-of-abraham-collectors-edition.json) |
 | Midnight Myths | 307195 | [307195-midnight-myths.json](./307195-midnight-myths.json) |
+| Midnight News Report | 418437 | [418437-midnight-news-report.json](./418437-midnight-news-report.json) |
 | Midnight of Despair | 291167 | [291167-midnight-of-despair.json](./291167-midnight-of-despair.json) |
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
@@ -19966,6 +19975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
 | MotionSports: Play for Real | 2658 | [2658-motionsports-play-for-real.json](./2658-motionsports-play-for-real.json) |
 | MotionX Poker | 73028 | [73028-motionx-poker.json](./73028-motionx-poker.json) |
+| Motivation Monsters | 418453 | [418453-motivation-monsters.json](./418453-motivation-monsters.json) |
 | Motivational Hero | 170272 | [170272-motivational-hero.json](./170272-motivational-hero.json) |
 | Motivational Hero Vol. 2 | 193097 | [193097-motivational-hero-vol-2.json](./193097-motivational-hero-vol-2.json) |
 | Motives: The Ultimate Problem | 420386 | [420386-motives-the-ultimate-problem.json](./420386-motives-the-ultimate-problem.json) |
@@ -21983,6 +21993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MuseSwipr | 229604 | [229604-museswipr.json](./229604-museswipr.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
+| Museum Disarter | 418492 | [418492-museum-disarter.json](./418492-museum-disarter.json) |
 | Museum Keeper | 291328 | [291328-museum-keeper.json](./291328-museum-keeper.json) |
 | Museum Madness | 46937 | [46937-museum-madness.json](./46937-museum-madness.json) |
 | Museum Magnate | 348585 | [348585-museum-magnate.json](./348585-museum-magnate.json) |
