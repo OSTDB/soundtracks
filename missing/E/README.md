@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports Active More Workouts | 22981 | [22981-ea-sports-active-more-workouts.json](./22981-ea-sports-active-more-workouts.json) |
 | EA Sports Active NFL Training Camp | 4828 | [4828-ea-sports-active-nfl-training-camp.json](./4828-ea-sports-active-nfl-training-camp.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
+| EA Sports College Football 25: Deluxe Edition | 300563 | [300563-ea-sports-college-football-25-deluxe-edition.json](./300563-ea-sports-college-football-25-deluxe-edition.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
 | EA Sports College Football 26: Deluxe Edition | 343158 | [343158-ea-sports-college-football-26-deluxe-edition.json](./343158-ea-sports-college-football-26-deluxe-edition.json) |
 | EA Sports College Football 27 | 400601 | [400601-ea-sports-college-football-27.json](./400601-ea-sports-college-football-27.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Billiards | 79584 | [79584-electronic-billiards.json](./79584-electronic-billiards.json) |
 | Electronic Championship Golf | 245499 | [245499-electronic-championship-golf.json](./245499-electronic-championship-golf.json) |
 | Electronic City Tycoon | 212504 | [212504-electronic-city-tycoon.json](./212504-electronic-city-tycoon.json) |
+| Electronic Emotions! | 299055 | [299055-electronic-emotions.json](./299055-electronic-emotions.json) |
 | Electronic Evolution | 217153 | [217153-electronic-evolution.json](./217153-electronic-evolution.json) |
 | Electronic Football | 225531 | [225531-electronic-football.json](./225531-electronic-football.json) |
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
