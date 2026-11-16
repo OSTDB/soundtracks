@@ -3669,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independence Day Break | 153593 | [153593-independence-day-break.json](./153593-independence-day-break.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
+| Independence Day: Festive Finds | 409161 | [409161-independence-day-festive-finds.json](./409161-independence-day-festive-finds.json) |
 | Independence War 2: Edge of Chaos | 758 | [758-independence-war-2-edge-of-chaos.json](./758-independence-war-2-edge-of-chaos.json) |
 | Independence War: Defiance | 62990 | [62990-independence-war-defiance.json](./62990-independence-war-defiance.json) |
 | Independence War: Deluxe Edition | 36201 | [36201-independence-war-deluxe-edition.json](./36201-independence-war-deluxe-edition.json) |
@@ -7219,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iso-Sphere | 34146 | [34146-iso-sphere.json](./34146-iso-sphere.json) |
 | ISO/2004 | 402492 | [402492-iso-2004.json](./402492-iso-2004.json) |
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
+| Isoball 2 | 409157 | [409157-isoball-2.json](./409157-isoball-2.json) |
 | Isoball 3 | 409239 | [409239-isoball-3.json](./409239-isoball-3.json) |
 | IsoBoom | 55504 | [55504-isoboom.json](./55504-isoboom.json) |
 | IsoChess | 236779 | [236779-isochess.json](./236779-isochess.json) |
