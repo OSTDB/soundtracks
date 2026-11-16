@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of FireWork | 274972 | [274972-call-of-firework.json](./274972-call-of-firework.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
+| Call of Girls | 397324 | [397324-call-of-girls.json](./397324-call-of-girls.json) |
 | Call of Glory: Critical Warfare | 345719 | [345719-call-of-glory-critical-warfare.json](./345719-call-of-glory-critical-warfare.json) |
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
 | Call of Gods | 46946 | [46946-call-of-gods.json](./46946-call-of-gods.json) |
@@ -3178,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carl the Caveman: Christmas Adventures | 281421 | [281421-carl-the-caveman-christmas-adventures.json](./281421-carl-the-caveman-christmas-adventures.json) |
 | Carl und Cari: Trubel in Tierstadt | 309871 | [309871-carl-und-cari-trubel-in-tierstadt.json](./309871-carl-und-cari-trubel-in-tierstadt.json) |
 | Carl's Alien Shooting | 324327 | [324327-carls-alien-shooting.json](./324327-carls-alien-shooting.json) |
+| Carl's Freakin' Strip Poker | 397330 | [397330-carls-freakin-strip-poker.json](./397330-carls-freakin-strip-poker.json) |
 | CarLife Simulator | 254000 | [254000-carlife-simulator.json](./254000-carlife-simulator.json) |
 | Carlo Adventure Legend | 138618 | [138618-carlo-adventure-legend.json](./138618-carlo-adventure-legend.json) |
 | Carlos | 92798 | [92798-carlos.json](./92798-carlos.json) |
@@ -12881,6 +12883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Kids Next Door - Operation T.R.I.C.K. or T.R.E.A.T. | 185825 | [185825-codename-kids-next-door-operation-t-r-i-c-k-or-t-r-e-a-t.json](./185825-codename-kids-next-door-operation-t-r-i-c-k-or-t-r-e-a-t.json) |
 | Codename: Kids Next Door - Operation: G.R.A.D.U.A.T.E.S. | 242161 | [242161-codename-kids-next-door-operation-g-r-a-d-u-a-t-e-s.json](./242161-codename-kids-next-door-operation-g-r-a-d-u-a-t-e-s.json) |
 | Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
+| Codename: Kids Next Door - Protect and Swerve | 397339 | [397339-codename-kids-next-door-protect-and-swerve.json](./397339-codename-kids-next-door-protect-and-swerve.json) |
 | Codename: Lovania | 384246 | [384246-codename-lovania.json](./384246-codename-lovania.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Nanxiangzi | 288826 | [288826-codename-nanxiangzi.json](./288826-codename-nanxiangzi.json) |
@@ -23602,6 +23605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclone | 14023 | [14023-cyclone.json](./14023-cyclone.json) |
 | Cyclone | 197556 | [197556-cyclone.json](./197556-cyclone.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
+| Cyclone Unlimited | 397358 | [397358-cyclone-unlimited.json](./397358-cyclone-unlimited.json) |
 | CyClones | 8693 | [8693-cyclones.json](./8693-cyclones.json) |
 | Cyclones Playground | 108055 | [108055-cyclones-playground.json](./108055-cyclones-playground.json) |
 | Cyclopean II: The Dreamlands | 369652 | [369652-cyclopean-ii-the-dreamlands.json](./369652-cyclopean-ii-the-dreamlands.json) |
