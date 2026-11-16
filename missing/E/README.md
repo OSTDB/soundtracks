@@ -7088,6 +7088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethanol in dungeon | 118253 | [118253-ethanol-in-dungeon.json](./118253-ethanol-in-dungeon.json) |
 | Ethel | 290728 | [290728-ethel.json](./290728-ethel.json) |
 | Etheldia Pepper | 150424 | [150424-etheldia-pepper.json](./150424-etheldia-pepper.json) |
+| Ether | 290068 | [290068-ether.json](./290068-ether.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether | 79659 | [79659-ether.json](./79659-ether.json) |
 | Ether @ Net | 260910 | [260910-ether-net.json](./260910-ether-net.json) |
