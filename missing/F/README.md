@@ -12076,6 +12076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
 | Forward | 99024 | [99024-forward.json](./99024-forward.json) |
 | Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
+| Forward Brave | 279917 | [279917-forward-brave.json](./279917-forward-brave.json) |
 | Forward Defense | 201372 | [201372-forward-defense.json](./201372-forward-defense.json) |
 | Forward Line | 104191 | [104191-forward-line.json](./104191-forward-line.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
@@ -14445,6 +14446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostbite Frenzy: Flower Hat | 380228 | [380228-frostbite-frenzy-flower-hat.json](./380228-frostbite-frenzy-flower-hat.json) |
 | Frostbite Friends | 316179 | [316179-frostbite-friends.json](./316179-frostbite-friends.json) |
 | Frostbite: Deadly Climate | 105360 | [105360-frostbite-deadly-climate.json](./105360-frostbite-deadly-climate.json) |
+| Frostbiter | 279911 | [279911-frostbiter.json](./279911-frostbiter.json) |
 | Frostbitten | 199101 | [199101-frostbitten.json](./199101-frostbitten.json) |
 | Frostborn | 126073 | [126073-frostborn.json](./126073-frostborn.json) |
 | Frostborn | 381040 | [381040-frostborn.json](./381040-frostborn.json) |
