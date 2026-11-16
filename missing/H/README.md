@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haggle Battle | 363321 | [363321-haggle-battle.json](./363321-haggle-battle.json) |
 | Haggle Simulator | 407370 | [407370-haggle-simulator.json](./407370-haggle-simulator.json) |
 | Hagia Sophia VR Experience | 150491 | [150491-hagia-sophia-vr-experience.json](./150491-hagia-sophia-vr-experience.json) |
+| Hagitore! Datsui Chouhan Bakuchi | 416461 | [416461-hagitore-datsui-chouhan-bakuchi.json](./416461-hagitore-datsui-chouhan-bakuchi.json) |
 | Hags Castle | 105824 | [105824-hags-castle.json](./105824-hags-castle.json) |
 | Hagun Sangokushi | 95923 | [95923-hagun-sangokushi.json](./95923-hagun-sangokushi.json) |
 | Hagwalla Legend | 283760 | [283760-hagwalla-legend.json](./283760-hagwalla-legend.json) |
@@ -3925,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartomics: Valkyries | 109610 | [109610-heartomics-valkyries.json](./109610-heartomics-valkyries.json) |
 | Heartreasure | 175945 | [175945-heartreasure.json](./175945-heartreasure.json) |
 | Heartreasure 2: Underground | 175946 | [175946-heartreasure-2-underground.json](./175946-heartreasure-2-underground.json) |
+| Heartreasure: Recolor the World | 416427 | [416427-heartreasure-recolor-the-world.json](./416427-heartreasure-recolor-the-world.json) |
 | Heartreasure: Stellar Journey | 382357 | [382357-heartreasure-stellar-journey.json](./382357-heartreasure-stellar-journey.json) |
 | Heartreave | 427235 | [427235-heartreave.json](./427235-heartreave.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
