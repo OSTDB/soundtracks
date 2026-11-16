@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Garden: Halloween | 75261 | [75261-queens-garden-halloween.json](./75261-queens-garden-halloween.json) |
 | Queen's Gate: Spiral Chaos | 66176 | [66176-queens-gate-spiral-chaos.json](./66176-queens-gate-spiral-chaos.json) |
 | Queen's Golf | 47504 | [47504-queens-golf.json](./47504-queens-golf.json) |
+| Queen’s Guard | 371797 | [371797-queen-s-guard.json](./371797-queen-s-guard.json) |
 | Queen's Loyalty | 298640 | [298640-queens-loyalty.json](./298640-queens-loyalty.json) |
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
 | Queen's Quest 2: Stories of Forgotten Past - Collector's Edition | 343352 | [343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json](./343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json) |
