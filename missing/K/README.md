@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keypybara | 387476 | [387476-keypybara.json](./387476-keypybara.json) |
 | KeyQuack Quest | 422787 | [422787-keyquack-quest.json](./422787-keyquack-quest.json) |
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
+| Keys | 401208 | [401208-keys.json](./401208-keys.json) |
 | Keys | 83543 | [83543-keys.json](./83543-keys.json) |
 | Keys and Kastles | 260248 | [260248-keys-and-kastles.json](./260248-keys-and-kastles.json) |
 | Keys of a Gamespace | 330689 | [330689-keys-of-a-gamespace.json](./330689-keys-of-a-gamespace.json) |
