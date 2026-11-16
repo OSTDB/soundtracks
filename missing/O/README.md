@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omar Sharif on Bridge | 73490 | [73490-omar-sharif-on-bridge.json](./73490-omar-sharif-on-bridge.json) |
 | Omar's Oyster Outing | 53427 | [53427-omars-oyster-outing.json](./53427-omars-oyster-outing.json) |
 | Omashu: Snail Racing | 357219 | [357219-omashu-snail-racing.json](./357219-omashu-snail-racing.json) |
+| Omatsuri Quest Hippare-Q | 246127 | [246127-omatsuri-quest-hippare-q.json](./246127-omatsuri-quest-hippare-q.json) |
 | Omawari-san: Koitsu Desu. - Kai | 376687 | [376687-omawari-san-koitsu-desu-kai.json](./376687-omawari-san-koitsu-desu-kai.json) |
 | Omaze | 151973 | [151973-omaze.json](./151973-omaze.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
@@ -3591,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OO.Inc | 113310 | [113310-oo-inc.json](./113310-oo-inc.json) |
 | Ooble Gardens | 371845 | [371845-ooble-gardens.json](./371845-ooble-gardens.json) |
 | Ooblets | 27366 | [27366-ooblets.json](./27366-ooblets.json) |
+| Oodee's Passion | 249407 | [249407-oodees-passion.json](./249407-oodees-passion.json) |
 | Oodlescape - The Apocalypse | 29598 | [29598-oodlescape-the-apocalypse.json](./29598-oodlescape-the-apocalypse.json) |
 | Ooe | 166397 | [166397-ooe.json](./166397-ooe.json) |
 | Ooedo Blacksmith | 143445 | [143445-ooedo-blacksmith.json](./143445-ooedo-blacksmith.json) |
