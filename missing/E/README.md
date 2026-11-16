@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Early Bird | 368229 | [368229-early-bird.json](./368229-early-bird.json) |
 | Early Bird Gets the Space Worm | 390469 | [390469-early-bird-gets-the-space-worm.json](./390469-early-bird-gets-the-space-worm.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
+| Early Man Run | 332727 | [332727-early-man-run.json](./332727-early-man-run.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
 | Early Quest | 160127 | [160127-early-quest.json](./160127-early-quest.json) |
 | Early Quest 2 | 174042 | [174042-early-quest-2.json](./174042-early-quest-2.json) |
@@ -1727,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Elthlead PC-8801mkIISR | 412116 | [412116-eggconsole-elthlead-pc-8801mkiisr.json](./412116-eggconsole-elthlead-pc-8801mkiisr.json) |
 | Eggconsole Fray PC-9801 | 351228 | [351228-eggconsole-fray-pc-9801.json](./351228-eggconsole-fray-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
+| Eggconsole Gulkave MSX | 335545 | [335545-eggconsole-gulkave-msx.json](./335545-eggconsole-gulkave-msx.json) |
 | Eggconsole Hajya No Fuuin PC-8801 | 371417 | [371417-eggconsole-hajya-no-fuuin-pc-8801.json](./371417-eggconsole-hajya-no-fuuin-pc-8801.json) |
 | Eggconsole Harry Fox PC-8801 | 409926 | [409926-eggconsole-harry-fox-pc-8801.json](./409926-eggconsole-harry-fox-pc-8801.json) |
 | Eggconsole Hercules PC-8801mkIISR | 402573 | [402573-eggconsole-hercules-pc-8801mkiisr.json](./402573-eggconsole-hercules-pc-8801mkiisr.json) |
@@ -4289,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
 | Endless Horde | 105890 | [105890-endless-horde.json](./105890-endless-horde.json) |
 | Endless Horizon | 99674 | [99674-endless-horizon.json](./99674-endless-horizon.json) |
+| Endless Horizons | 334382 | [334382-endless-horizons.json](./334382-endless-horizons.json) |
 | Endless Inside | 76297 | [76297-endless-inside.json](./76297-endless-inside.json) |
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
@@ -7543,13 +7546,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: 20th Anniversary Collector's Edition | 330639 | [330639-eve-online-20th-anniversary-collectors-edition.json](./330639-eve-online-20th-anniversary-collectors-edition.json) |
 | Eve Online: Apocrypha | 329789 | [329789-eve-online-apocrypha.json](./329789-eve-online-apocrypha.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
+| Eve Online: Castor | 329863 | [329863-eve-online-castor.json](./329863-eve-online-castor.json) |
 | Eve Online: Citadel | 329907 | [329907-eve-online-citadel.json](./329907-eve-online-citadel.json) |
+| Eve Online: Cold War | 329868 | [329868-eve-online-cold-war.json](./329868-eve-online-cold-war.json) |
 | EVE Online: Commissioned Officer Edition | 209218 | [209218-eve-online-commissioned-officer-edition.json](./209218-eve-online-commissioned-officer-edition.json) |
 | Eve Online: Crucible | 329791 | [329791-eve-online-crucible.json](./329791-eve-online-crucible.json) |
 | Eve Online: Dominion | 329792 | [329792-eve-online-dominion.json](./329792-eve-online-dominion.json) |
 | Eve Online: Eclipse - Quadrant 2 | 329918 | [329918-eve-online-eclipse-quadrant-2.json](./329918-eve-online-eclipse-quadrant-2.json) |
+| Eve Online: Empyrean Age | 329879 | [329879-eve-online-empyrean-age.json](./329879-eve-online-empyrean-age.json) |
 | Eve Online: Equinox | 329933 | [329933-eve-online-equinox.json](./329933-eve-online-equinox.json) |
 | EVE Online: Equinox Era pack | 316396 | [316396-eve-online-equinox-era-pack.json](./316396-eve-online-equinox-era-pack.json) |
+| Eve Online: Exodus | 329867 | [329867-eve-online-exodus.json](./329867-eve-online-exodus.json) |
 | Eve Online: Gateway | 329920 | [329920-eve-online-gateway.json](./329920-eve-online-gateway.json) |
 | Eve Online: Havoc | 329931 | [329931-eve-online-havoc.json](./329931-eve-online-havoc.json) |
 | Eve Online: Incarna | 329794 | [329794-eve-online-incarna.json](./329794-eve-online-incarna.json) |
@@ -7561,8 +7568,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: New Dawn | 329927 | [329927-eve-online-new-dawn.json](./329927-eve-online-new-dawn.json) |
 | Eve Online: Odyssey | 329904 | [329904-eve-online-odyssey.json](./329904-eve-online-odyssey.json) |
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
+| Eve Online: Red Moon Rising | 329870 | [329870-eve-online-red-moon-rising.json](./329870-eve-online-red-moon-rising.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
 | Eve Online: Revelations | 21391 | [21391-eve-online-revelations.json](./21391-eve-online-revelations.json) |
+| Eve Online: Revelations II | 329872 | [329872-eve-online-revelations-ii.json](./329872-eve-online-revelations-ii.json) |
 | Eve Online: Revenant | 329685 | [329685-eve-online-revenant.json](./329685-eve-online-revenant.json) |
 | Eve Online: Rubicon | 329906 | [329906-eve-online-rubicon.json](./329906-eve-online-rubicon.json) |
 | Eve Online: Special Edition | 329788 | [329788-eve-online-special-edition.json](./329788-eve-online-special-edition.json) |
