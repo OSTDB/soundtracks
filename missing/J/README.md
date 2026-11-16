@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
 | Jumphobia: Homeward Bound | 190170 | [190170-jumphobia-homeward-bound.json](./190170-jumphobia-homeward-bound.json) |
+| Jumphobia: Player's Pack | 403840 | [403840-jumphobia-players-pack.json](./403840-jumphobia-players-pack.json) |
 | Jumpilla | 187693 | [187693-jumpilla.json](./187693-jumpilla.json) |
 | Jumpin' Derby | 42421 | [42421-jumpin-derby.json](./42421-jumpin-derby.json) |
 | Jumpin' Jack | 331068 | [331068-jumpin-jack.json](./331068-jumpin-jack.json) |
