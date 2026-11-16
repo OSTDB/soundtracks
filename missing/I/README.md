@@ -2866,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imola Grand Prix | 387457 | [387457-imola-grand-prix.json](./387457-imola-grand-prix.json) |
 | Imomushi | 270856 | [270856-imomushi.json](./270856-imomushi.json) |
 | Imoto | 174051 | [174051-imoto.json](./174051-imoto.json) |
+| Imoto No Yume | 392522 | [392522-imoto-no-yume.json](./392522-imoto-no-yume.json) |
 | Imouto Daisakusen: Project i-mote | 97398 | [97398-imouto-daisakusen-project-i-mote.json](./97398-imouto-daisakusen-project-i-mote.json) |
 | Imouto Ikenie | 108125 | [108125-imouto-ikenie.json](./108125-imouto-ikenie.json) |
 | Imouto no Seiiki | 59880 | [59880-imouto-no-seiiki.json](./59880-imouto-no-seiiki.json) |
@@ -7602,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italo-Doom | 224529 | [224529-italo-doom.json](./224529-italo-doom.json) |
 | Italy '90 Soccer | 140489 | [140489-italy-90-soccer.json](./140489-italy-90-soccer.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
+| Itanshinmonkan no Aijaku | 393656 | [393656-itanshinmonkan-no-aijaku.json](./393656-itanshinmonkan-no-aijaku.json) |
 | Itareri Zukuseri | 244968 | [244968-itareri-zukuseri.json](./244968-itareri-zukuseri.json) |
 | Itaru Slot | 131138 | [131138-itaru-slot.json](./131138-itaru-slot.json) |
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
