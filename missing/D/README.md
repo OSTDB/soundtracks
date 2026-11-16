@@ -2106,7 +2106,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Savior | 46058 | [46058-dark-savior.json](./46058-dark-savior.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
-| Dark Scrolls | 395294 | [395294-dark-scrolls.json](./395294-dark-scrolls.json) |
 | Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
 | Dark Sea | 357529 | [357529-dark-sea.json](./357529-dark-sea.json) |
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
@@ -6497,7 +6496,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
 | Defender of the Crown: Extended Collector's Edition | 93660 | [93660-defender-of-the-crown-extended-collectors-edition.json](./93660-defender-of-the-crown-extended-collectors-edition.json) |
 | Defender of the Crown: Heroes Live Forever | 8676 | [8676-defender-of-the-crown-heroes-live-forever.json](./8676-defender-of-the-crown-heroes-live-forever.json) |
-| Defender of the Crown: The Legend Returns | 394671 | [394671-defender-of-the-crown-the-legend-returns.json](./394671-defender-of-the-crown-the-legend-returns.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
 | Defender of the Kingdom | 379851 | [379851-defender-of-the-kingdom.json](./379851-defender-of-the-kingdom.json) |
 | Defender of the Oasis | 214634 | [214634-defender-of-the-oasis.json](./214634-defender-of-the-oasis.json) |
@@ -6979,6 +6977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delphiniums Rise | 247862 | [247862-delphiniums-rise.json](./247862-delphiniums-rise.json) |
 | Delphyq | 102062 | [102062-delphyq.json](./102062-delphyq.json) |
 | Delta | 13839 | [13839-delta.json](./13839-delta.json) |
+| Delta | 277462 | [277462-delta.json](./277462-delta.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
 | Delta 78 | 356333 | [356333-delta-78.json](./356333-delta-78.json) |
@@ -16878,6 +16877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Super Pack 3 | 168745 | [168745-dragon-ball-xenoverse-2-super-pack-3.json](./168745-dragon-ball-xenoverse-2-super-pack-3.json) |
 | Dragon Ball: Xenoverse 2 - Super Pack 4 | 168746 | [168746-dragon-ball-xenoverse-2-super-pack-4.json](./168746-dragon-ball-xenoverse-2-super-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
+| Dragon Ball: Xenoverse 2 - Ultimate Edition | 272415 | [272415-dragon-ball-xenoverse-2-ultimate-edition.json](./272415-dragon-ball-xenoverse-2-ultimate-edition.json) |
 | Dragon Ball: Xenoverse 2 - Ultra Pack 1 | 168742 | [168742-dragon-ball-xenoverse-2-ultra-pack-1.json](./168742-dragon-ball-xenoverse-2-ultra-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Ultra Pack 2 | 213083 | [213083-dragon-ball-xenoverse-2-ultra-pack-2.json](./213083-dragon-ball-xenoverse-2-ultra-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Ultra Pack Set | 164822 | [164822-dragon-ball-xenoverse-2-ultra-pack-set.json](./164822-dragon-ball-xenoverse-2-ultra-pack-set.json) |
@@ -18444,6 +18444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamgame | 229487 | [229487-dreamgame.json](./229487-dreamgame.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
 | DreamHack Beyond | 150568 | [150568-dreamhack-beyond.json](./150568-dreamhack-beyond.json) |
+| Dreamhaven | 278020 | [278020-dreamhaven.json](./278020-dreamhaven.json) |
 | DreamHero | 373118 | [373118-dreamhero.json](./373118-dreamhero.json) |
 | Dreamhouse: The Game | 156981 | [156981-dreamhouse-the-game.json](./156981-dreamhouse-the-game.json) |
 | Dreamhunter: The Prophecy | 419632 | [419632-dreamhunter-the-prophecy.json](./419632-dreamhunter-the-prophecy.json) |
