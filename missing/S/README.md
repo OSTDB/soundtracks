@@ -26111,6 +26111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout: Idle Garden | 116529 | [116529-sprout-idle-garden.json](./116529-sprout-idle-garden.json) |
 | Sprout's Meadow | 414110 | [414110-sprouts-meadow.json](./414110-sprouts-meadow.json) |
 | SproutBound | 368152 | [368152-sproutbound.json](./368152-sproutbound.json) |
+| Sprouted Pixel Dungeon | 314086 | [314086-sprouted-pixel-dungeon.json](./314086-sprouted-pixel-dungeon.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sproutmart: Farm & Grocery Sim | 356298 | [356298-sproutmart-farm-and-grocery-sim.json](./356298-sproutmart-farm-and-grocery-sim.json) |
 | Sprouts Adventure | 146464 | [146464-sprouts-adventure.json](./146464-sprouts-adventure.json) |
