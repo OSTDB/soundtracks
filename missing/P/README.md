@@ -2609,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasomnia | 238846 | [238846-parasomnia.json](./238846-parasomnia.json) |
 | Parasomnia | 302412 | [302412-parasomnia.json](./302412-parasomnia.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
+| Parasomnia Verum 2 | 403843 | [403843-parasomnia-verum-2.json](./403843-parasomnia-verum-2.json) |
 | Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
 | Parasomnum | 269981 | [269981-parasomnum.json](./269981-parasomnum.json) |
 | Paratives | 235412 | [235412-paratives.json](./235412-paratives.json) |
@@ -5287,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
 | Persona 4 GB | 308189 | [308189-persona-4-gb.json](./308189-persona-4-gb.json) |
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
+| Persona 4 Revival: Digital Deluxe Edition | 405184 | [405184-persona-4-revival-digital-deluxe-edition.json](./405184-persona-4-revival-digital-deluxe-edition.json) |
 | Persona 4 Revival: Digital Premium Edition | 407470 | [407470-persona-4-revival-digital-premium-edition.json](./407470-persona-4-revival-digital-premium-edition.json) |
 | Persona 4 Revival: Limited Box | 405121 | [405121-persona-4-revival-limited-box.json](./405121-persona-4-revival-limited-box.json) |
 | Persona 4 Revival: Steelbook Edition | 422015 | [422015-persona-4-revival-steelbook-edition.json](./422015-persona-4-revival-steelbook-edition.json) |
@@ -6483,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Finish | 110533 | [110533-photo-finish.json](./110533-photo-finish.json) |
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
+| Photo Girls: No Retouch | 402576 | [402576-photo-girls-no-retouch.json](./402576-photo-girls-no-retouch.json) |
 | Photo Girls: Raw Photo | 399784 | [399784-photo-girls-raw-photo.json](./399784-photo-girls-raw-photo.json) |
 | Photo Girls: Secret Footage | 396862 | [396862-photo-girls-secret-footage.json](./396862-photo-girls-secret-footage.json) |
 | Photo Hunt - Spot the Differences | 104727 | [104727-photo-hunt-spot-the-differences.json](./104727-photo-hunt-spot-the-differences.json) |
@@ -14132,6 +14135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooool | 298765 | [298765-pooool.json](./298765-pooool.json) |
 | Poop | 314318 | [314318-poop.json](./314318-poop.json) |
 | Poop | 314398 | [314398-poop.json](./314398-poop.json) |
+| Poop & Scoop: Just Crow Things + Cleaning Up! | 402585 | [402585-poop-and-scoop-just-crow-things-cleaning-up.json](./402585-poop-and-scoop-just-crow-things-cleaning-up.json) |
 | Poop City | 367185 | [367185-poop-city.json](./367185-poop-city.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
 | Poop Collector | 196169 | [196169-poop-collector.json](./196169-poop-collector.json) |
@@ -18716,6 +18720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
 | Protocol: 47 | 229902 | [229902-protocol-47.json](./229902-protocol-47.json) |
 | Protocol: Annihilation | 400169 | [400169-protocol-annihilation.json](./400169-protocol-annihilation.json) |
+| Protocol: Bullet Hell | 403237 | [403237-protocol-bullet-hell.json](./403237-protocol-bullet-hell.json) |
 | Protocol: Chapter 1 - Limbo | 415150 | [415150-protocol-chapter-1-limbo.json](./415150-protocol-chapter-1-limbo.json) |
 | Protocol: Children of War | 215325 | [215325-protocol-children-of-war.json](./215325-protocol-children-of-war.json) |
 | Protocol: Hyperspace Dive‪r‬ | 144008 | [144008-protocol-hyperspace-dive-r.json](./144008-protocol-hyperspace-dive-r.json) |
