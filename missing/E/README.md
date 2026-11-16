@@ -4449,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Void | 148894 | [148894-endless-void.json](./148894-endless-void.json) |
 | Endless Void: Idle Tower Defence | 418365 | [418365-endless-void-idle-tower-defence.json](./418365-endless-void-idle-tower-defence.json) |
 | Endless Voyage | 150090 | [150090-endless-voyage.json](./150090-endless-voyage.json) |
+| Endless Wander | 248254 | [248254-endless-wander.json](./248254-endless-wander.json) |
 | Endless wandering | 182770 | [182770-endless-wandering.json](./182770-endless-wandering.json) |
 | Endless War | 190829 | [190829-endless-war.json](./190829-endless-war.json) |
 | Endless War | 234911 | [234911-endless-war.json](./234911-endless-war.json) |
