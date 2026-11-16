@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamentum | 115588 | [115588-lamentum.json](./115588-lamentum.json) |
 | Lamentum: Digital Deluxe | 336142 | [336142-lamentum-digital-deluxe.json](./336142-lamentum-digital-deluxe.json) |
 | Lamers | 78215 | [78215-lamers.json](./78215-lamers.json) |
+| Lamha | 416398 | [416398-lamha.json](./416398-lamha.json) |
 | Lami: A Cup of Code & Coffee | 341680 | [341680-lami-a-cup-of-code-and-coffee.json](./341680-lami-a-cup-of-code-and-coffee.json) |
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
 | Lamia Must Die | 34902 | [34902-lamia-must-die.json](./34902-lamia-must-die.json) |
