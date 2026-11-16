@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Express | 429357 | [429357-neon-express.json](./429357-neon-express.json) |
 | Neon Fantasy: Animals | 248227 | [248227-neon-fantasy-animals.json](./248227-neon-fantasy-animals.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
+| Neon Fantasy: Boys | 255296 | [255296-neon-fantasy-boys.json](./255296-neon-fantasy-boys.json) |
 | Neon Fantasy: Butterflies | 293493 | [293493-neon-fantasy-butterflies.json](./293493-neon-fantasy-butterflies.json) |
 | Neon Fantasy: Cats | 267842 | [267842-neon-fantasy-cats.json](./267842-neon-fantasy-cats.json) |
 | Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
@@ -3906,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
 | New York Mysteries 5: Power of Art | 418315 | [418315-new-york-mysteries-5-power-of-art.json](./418315-new-york-mysteries-5-power-of-art.json) |
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
+| New York Mysteries: Power of Art | 255307 | [255307-new-york-mysteries-power-of-art.json](./255307-new-york-mysteries-power-of-art.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
 | New York Mysteries: Secrets of the Mafia | 35163 | [35163-new-york-mysteries-secrets-of-the-mafia.json](./35163-new-york-mysteries-secrets-of-the-mafia.json) |
 | New York Mysteries: Secrets of the Mafia - Collector's Edition | 88837 | [88837-new-york-mysteries-secrets-of-the-mafia-collectors-edition.json](./88837-new-york-mysteries-secrets-of-the-mafia-collectors-edition.json) |
@@ -8243,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Npower Test Series | 263467 | [263467-npower-test-series.json](./263467-npower-test-series.json) |
 | NPOZ The Game | 260746 | [260746-npoz-the-game.json](./260746-npoz-the-game.json) |
 | NPPL Championship Paintball 2009 | 5079 | [5079-nppl-championship-paintball-2009.json](./5079-nppl-championship-paintball-2009.json) |
+| Nqc: Non Qualia Character | 258235 | [258235-nqc-non-qualia-character.json](./258235-nqc-non-qualia-character.json) |
 | NRA Gun Club | 20575 | [20575-nra-gun-club.json](./20575-nra-gun-club.json) |
 | NRA High Power Competition | 67835 | [67835-nra-high-power-competition.json](./67835-nra-high-power-competition.json) |
 | NRA Varmint Hunter | 67834 | [67834-nra-varmint-hunter.json](./67834-nra-varmint-hunter.json) |
