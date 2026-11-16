@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
 | Edict | 331043 | [331043-edict.json](./331043-edict.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
+| Edicts of the Truthsinger: The Orb of Artemagus | 417840 | [417840-edicts-of-the-truthsinger-the-orb-of-artemagus.json](./417840-edicts-of-the-truthsinger-the-orb-of-artemagus.json) |
 | Edifice | 406145 | [406145-edifice.json](./406145-edifice.json) |
 | Edifice of Fiends | 167499 | [167499-edifice-of-fiends.json](./167499-edifice-of-fiends.json) |
 | Edingir Odyssey | 249004 | [249004-edingir-odyssey.json](./249004-edingir-odyssey.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Zanac MSX | 328734 | [328734-eggconsole-zanac-msx.json](./328734-eggconsole-zanac-msx.json) |
 | Eggconsole Zodiac PC-8801 | 406070 | [406070-eggconsole-zodiac-pc-8801.json](./406070-eggconsole-zodiac-pc-8801.json) |
 | Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
+| Eggconsole: Borfes and the Five Demons MSX | 417870 | [417870-eggconsole-borfes-and-the-five-demons-msx.json](./417870-eggconsole-borfes-and-the-five-demons-msx.json) |
 | Eggconsole: Hydlide 3 - PC-8801mkIISR | 287588 | [287588-eggconsole-hydlide-3-pc-8801mkiisr.json](./287588-eggconsole-hydlide-3-pc-8801mkiisr.json) |
 | Eggconsole: Hydlide 3 S.V. - PC-9801 | 356532 | [356532-eggconsole-hydlide-3-s-v-pc-9801.json](./356532-eggconsole-hydlide-3-s-v-pc-9801.json) |
 | Eggdog Extended | 284196 | [284196-eggdog-extended.json](./284196-eggdog-extended.json) |
@@ -4628,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engram | 367457 | [367457-engram.json](./367457-engram.json) |
 | Engraven | 309460 | [309460-engraven.json](./309460-engraven.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
+| Enhance Complete Collection | 417876 | [417876-enhance-complete-collection.json](./417876-enhance-complete-collection.json) |
 | EnHanced | 110901 | [110901-enhanced.json](./110901-enhanced.json) |
 | Enhanced Celestials | 334025 | [334025-enhanced-celestials.json](./334025-enhanced-celestials.json) |
 | Enhanced Militarized Zone | 362474 | [362474-enhanced-militarized-zone.json](./362474-enhanced-militarized-zone.json) |
@@ -6860,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Lands | 69208 | [69208-eternal-lands.json](./69208-eternal-lands.json) |
 | Eternal League | 320106 | [320106-eternal-league.json](./320106-eternal-league.json) |
 | Eternal Legend | 45794 | [45794-eternal-legend.json](./45794-eternal-legend.json) |
+| Eternal Levels | 417086 | [417086-eternal-levels.json](./417086-eternal-levels.json) |
 | Eternal Light | 300736 | [300736-eternal-light.json](./300736-eternal-light.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
@@ -7685,6 +7689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen Avenue | 63578 | [63578-evergreen-avenue.json](./63578-evergreen-avenue.json) |
 | Evergreen Blues | 123794 | [123794-evergreen-blues.json](./123794-evergreen-blues.json) |
 | Evergreen Meadow | 390495 | [390495-evergreen-meadow.json](./390495-evergreen-meadow.json) |
+| Evergreen Quest | 417869 | [417869-evergreen-quest.json](./417869-evergreen-quest.json) |
 | Evergreen South | 285691 | [285691-evergreen-south.json](./285691-evergreen-south.json) |
 | Evergreen Tavern | 349537 | [349537-evergreen-tavern.json](./349537-evergreen-tavern.json) |
 | Evergreen Valley: The Parkour Game | 398292 | [398292-evergreen-valley-the-parkour-game.json](./398292-evergreen-valley-the-parkour-game.json) |
