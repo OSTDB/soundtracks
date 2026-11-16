@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
 | Needle Eye | 392965 | [392965-needle-eye.json](./392965-needle-eye.json) |
 | Needle in a Haystack | 417152 | [417152-needle-in-a-haystack.json](./417152-needle-in-a-haystack.json) |
+| Needle In A Haystack | 417115 | [417115-needle-in-a-haystack.json](./417115-needle-in-a-haystack.json) |
 | Needle in a Haystack: A Time for Goats | 417153 | [417153-needle-in-a-haystack-a-time-for-goats.json](./417153-needle-in-a-haystack-a-time-for-goats.json) |
 | Needle Of Anger | 254671 | [254671-needle-of-anger.json](./254671-needle-of-anger.json) |
 | Needle Sleep | 394239 | [394239-needle-sleep.json](./394239-needle-sleep.json) |
@@ -4012,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Floor | 276974 | [276974-next-floor.json](./276974-next-floor.json) |
 | Next Generation Soccer Coach | 173025 | [173025-next-generation-soccer-coach.json](./173025-next-generation-soccer-coach.json) |
 | Next Generation Tennis 2003 | 43443 | [43443-next-generation-tennis-2003.json](./43443-next-generation-tennis-2003.json) |
+| Next Girl, Please | 417732 | [417732-next-girl-please.json](./417732-next-girl-please.json) |
 | Next Hand Master | 128214 | [128214-next-hand-master.json](./128214-next-hand-master.json) |
 | Next Hero | 90037 | [90037-next-hero.json](./90037-next-hero.json) |
 | Next In Line | 366958 | [366958-next-in-line.json](./366958-next-in-line.json) |
