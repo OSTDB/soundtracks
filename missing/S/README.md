@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Hime 6 | 406363 | [406363-sakura-hime-6.json](./406363-sakura-hime-6.json) |
 | Sakura In Gameland | 147073 | [147073-sakura-in-gameland.json](./147073-sakura-in-gameland.json) |
 | Sakura in Paris | 253615 | [253615-sakura-in-paris.json](./253615-sakura-in-paris.json) |
+| Sakura Isekai Adventure | 297387 | [297387-sakura-isekai-adventure.json](./297387-sakura-isekai-adventure.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
 | Sakura Isekai Adventure 3 | 340669 | [340669-sakura-isekai-adventure-3.json](./340669-sakura-isekai-adventure-3.json) |
 | Sakura Kakumei: Hana Saku Otome-tachi | 181556 | [181556-sakura-kakumei-hana-saku-otome-tachi.json](./181556-sakura-kakumei-hana-saku-otome-tachi.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Ground Zero | 133853 | [133853-scp-ground-zero.json](./133853-scp-ground-zero.json) |
 | SCP: Hellworks | 296461 | [296461-scp-hellworks.json](./296461-scp-hellworks.json) |
 | SCP: Hours to Go | 296462 | [296462-scp-hours-to-go.json](./296462-scp-hours-to-go.json) |
+| SCP: Infohazard | 297397 | [297397-scp-infohazard.json](./297397-scp-infohazard.json) |
 | SCP: Intrusion | 207603 | [207603-scp-intrusion.json](./207603-scp-intrusion.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Keter | 190925 | [190925-scp-keter.json](./190925-scp-keter.json) |
@@ -7710,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Depth | 273428 | [273428-shadow-of-the-depth.json](./273428-shadow-of-the-depth.json) |
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
 | Shadow Of The Devil | 253855 | [253855-shadow-of-the-devil.json](./253855-shadow-of-the-devil.json) |
+| Shadow of the Elders | 297398 | [297398-shadow-of-the-elders.json](./297398-shadow-of-the-elders.json) |
 | Shadow of the Eternals | 19790 | [19790-shadow-of-the-eternals.json](./19790-shadow-of-the-eternals.json) |
 | Shadow of the Five Moons: Code of the Ninja | 371427 | [371427-shadow-of-the-five-moons-code-of-the-ninja.json](./371427-shadow-of-the-five-moons-code-of-the-ninja.json) |
 | Shadow of The Forerunner | 379567 | [379567-shadow-of-the-forerunner.json](./379567-shadow-of-the-forerunner.json) |
@@ -10323,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot on Sight | 127460 | [127460-shoot-on-sight.json](./127460-shoot-on-sight.json) |
 | Shoot or Date | 303215 | [303215-shoot-or-date.json](./303215-shoot-or-date.json) |
 | Shoot or Die | 310809 | [310809-shoot-or-die.json](./310809-shoot-or-die.json) |
+| Shoot or Shout | 297380 | [297380-shoot-or-shout.json](./297380-shoot-or-shout.json) |
 | Shoot Out | 373501 | [373501-shoot-out.json](./373501-shoot-out.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
@@ -11091,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
 | Shuffleboard | 359747 | [359747-shuffleboard.json](./359747-shuffleboard.json) |
 | Shuffleboard 2023 | 231900 | [231900-shuffleboard-2023.json](./231900-shuffleboard-2023.json) |
+| Shuffleboard Dungeon | 297402 | [297402-shuffleboard-dungeon.json](./297402-shuffleboard-dungeon.json) |
 | Shuffled Nightmares | 132602 | [132602-shuffled-nightmares.json](./132602-shuffled-nightmares.json) |
 | Shuffled Sky | 278121 | [278121-shuffled-sky.json](./278121-shuffled-sky.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
@@ -15270,6 +15275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The Forest | 321403 | [321403-slendrina-must-die-the-forest.json](./321403-slendrina-must-die-the-forest.json) |
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina Must Die: The School | 321411 | [321411-slendrina-must-die-the-school.json](./321411-slendrina-must-die-the-school.json) |
+| Slendrina Remake | 297827 | [297827-slendrina-remake.json](./297827-slendrina-remake.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendrina: Asylum | 102520 | [102520-slendrina-asylum.json](./102520-slendrina-asylum.json) |
 | Slendrina: The Cellar | 94098 | [94098-slendrina-the-cellar.json](./94098-slendrina-the-cellar.json) |
@@ -16468,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy City | 99919 | [99919-smashy-city.json](./99919-smashy-city.json) |
 | Smashy Dash 2 | 100996 | [100996-smashy-dash-2.json](./100996-smashy-dash-2.json) |
 | Smashy Drift | 100784 | [100784-smashy-drift.json](./100784-smashy-drift.json) |
+| Smashy Duo | 297392 | [297392-smashy-duo.json](./297392-smashy-duo.json) |
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
 | Smashy Road: Wanted | 58364 | [58364-smashy-road-wanted.json](./58364-smashy-road-wanted.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
@@ -22905,6 +22912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
 | Space Sweep & Invaders | 423227 | [423227-space-sweep-and-invaders.json](./423227-space-sweep-and-invaders.json) |
 | Space Sweeper | 59795 | [59795-space-sweeper.json](./59795-space-sweeper.json) |
+| Space Syrup | 297404 | [297404-space-syrup.json](./297404-space-syrup.json) |
 | Space Tactics | 41100 | [41100-space-tactics.json](./41100-space-tactics.json) |
 | Space Tail | 361876 | [361876-space-tail.json](./361876-space-tail.json) |
 | Space Tail: Every Journey Leads Home | 216885 | [216885-space-tail-every-journey-leads-home.json](./216885-space-tail-every-journey-leads-home.json) |
@@ -24126,6 +24134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellarium 3 | 290122 | [290122-spellarium-3.json](./290122-spellarium-3.json) |
 | Spellarium 4 | 293703 | [293703-spellarium-4.json](./293703-spellarium-4.json) |
 | Spellarium 5 | 295476 | [295476-spellarium-5.json](./295476-spellarium-5.json) |
+| Spellarium 6 | 297374 | [297374-spellarium-6.json](./297374-spellarium-6.json) |
 | Spellarium 7: Match 3 Puzzle | 166038 | [166038-spellarium-7-match-3-puzzle.json](./166038-spellarium-7-match-3-puzzle.json) |
 | Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
 | Spellarium 9 | 237867 | [237867-spellarium-9.json](./237867-spellarium-9.json) |
@@ -27257,6 +27266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fetchers | 126573 | [126573-star-fetchers.json](./126573-star-fetchers.json) |
 | Star Fetchers : Episode 1 | 220500 | [220500-star-fetchers-episode-1.json](./220500-star-fetchers-episode-1.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
+| Star Fetus | 297376 | [297376-star-fetus.json](./297376-star-fetus.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
 | Star Fields | 32371 | [32371-star-fields.json](./32371-star-fields.json) |
 | Star Fight | 30681 | [30681-star-fight.json](./30681-star-fight.json) |
@@ -35524,6 +35534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
 | Super Infiniboss: The Gauntlet | 316553 | [316553-super-infiniboss-the-gauntlet.json](./316553-super-infiniboss-the-gauntlet.json) |
 | Super Intentional Bugs | 135476 | [135476-super-intentional-bugs.json](./135476-super-intentional-bugs.json) |
+| Super Interdimensional Labyrinth Party (For Cats) | 297400 | [297400-super-interdimensional-labyrinth-party-for-cats.json](./297400-super-interdimensional-labyrinth-party-for-cats.json) |
 | Super Intergalactic Gang | 33866 | [33866-super-intergalactic-gang.json](./33866-super-intergalactic-gang.json) |
 | Super Intern Story | 164212 | [164212-super-intern-story.json](./164212-super-intern-story.json) |
 | Super International Cricket | 42456 | [42456-super-international-cricket.json](./42456-super-international-cricket.json) |
