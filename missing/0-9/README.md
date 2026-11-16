@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Pin: Champions Alley | 97356 | [97356-10-pin-champions-alley.json](./97356-10-pin-champions-alley.json) |
 | 10 Puzzle | 82571 | [82571-10-puzzle.json](./82571-10-puzzle.json) |
 | 10 Score | 103580 | [103580-10-score.json](./103580-10-score.json) |
+| 10 Second Backdoor | 264831 | [264831-10-second-backdoor.json](./264831-10-second-backdoor.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
 | 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
 | 10 Second Ninja | 9848 | [9848-10-second-ninja.json](./9848-10-second-ninja.json) |
@@ -2923,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 1 | 269049 | [269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json](./269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 2 | 276857 | [276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json](./276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Part 2 | 276858 | [276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json](./276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json) |
+| 3on3 FreeStyle: Battle Pass 2023 Summer Part 2 | 262625 | [262625-3on3-freestyle-battle-pass-2023-summer-part-2.json](./262625-3on3-freestyle-battle-pass-2023-summer-part-2.json) |
 | 3on3 FreeStyle: Beginner's Starter Kit | 377373 | [377373-3on3-freestyle-beginners-starter-kit.json](./377373-3on3-freestyle-beginners-starter-kit.json) |
 | 3on3 FreeStyle: Character Access Pass | 377372 | [377372-3on3-freestyle-character-access-pass.json](./377372-3on3-freestyle-character-access-pass.json) |
 | 3on3 FreeStyle: Crossplay 4th Anniversary Gift Pack | 377371 | [377371-3on3-freestyle-crossplay-4th-anniversary-gift-pack.json](./377371-3on3-freestyle-crossplay-4th-anniversary-gift-pack.json) |
@@ -3272,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 More Minutes | 215271 | [215271-5-more-minutes.json](./215271-5-more-minutes.json) |
 | 5 Nights at Bobr Kurwa | 335223 | [335223-5-nights-at-bobr-kurwa.json](./335223-5-nights-at-bobr-kurwa.json) |
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
+| 5 Nights at Guillem's | 264829 | [264829-5-nights-at-guillems.json](./264829-5-nights-at-guillems.json) |
 | 5 Nights at Hoax Freddy's | 277810 | [277810-5-nights-at-hoax-freddys.json](./277810-5-nights-at-hoax-freddys.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Nights at Timokha 5: Island | 373050 | [373050-5-nights-at-timokha-5-island.json](./373050-5-nights-at-timokha-5-island.json) |
@@ -3472,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 625 Sandwich Stacker | 133765 | [133765-625-sandwich-stacker.json](./133765-625-sandwich-stacker.json) |
 | 63 Days | 296541 | [296541-63-days.json](./296541-63-days.json) |
 | 63 Days: The Home Army Edition | 323899 | [323899-63-days-the-home-army-edition.json](./323899-63-days-the-home-army-edition.json) |
+| 63 Little Pieces | 264835 | [264835-63-little-pieces.json](./264835-63-little-pieces.json) |
 | 64 GB: Not 2048 | 232493 | [232493-64-gb-not-2048.json](./232493-64-gb-not-2048.json) |
 | 64 Hanafuda: Tenshi no Yakusoku | 47682 | [47682-64-hanafuda-tenshi-no-yakusoku.json](./47682-64-hanafuda-tenshi-no-yakusoku.json) |
 | 64 Oozumou | 3433 | [3433-64-oozumou.json](./3433-64-oozumou.json) |
