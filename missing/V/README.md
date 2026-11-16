@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vessels | 141520 | [141520-vessels.json](./141520-vessels.json) |
 | Vessels | 375938 | [375938-vessels.json](./375938-vessels.json) |
 | Vessels of Decay | 143715 | [143715-vessels-of-decay.json](./143715-vessels-of-decay.json) |
+| Vessels: Noiret Mansion | 408365 | [408365-vessels-noiret-mansion.json](./408365-vessels-noiret-mansion.json) |
 | Vest A Life | 302186 | [302186-vest-a-life.json](./302186-vest-a-life.json) |
 | Vesta | 76845 | [76845-vesta.json](./76845-vesta.json) |
 | Vesta: Limited Edition | 166267 | [166267-vesta-limited-edition.json](./166267-vesta-limited-edition.json) |
