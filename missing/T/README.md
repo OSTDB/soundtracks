@@ -16453,6 +16453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Park Ranger | 401248 | [401248-the-park-ranger.json](./401248-the-park-ranger.json) |
 | The Parking Lot | 232743 | [232743-the-parking-lot.json](./232743-the-parking-lot.json) |
 | The Parrot that Summons Demons | 232817 | [232817-the-parrot-that-summons-demons.json](./232817-the-parrot-that-summons-demons.json) |
+| The Participants | 262709 | [262709-the-participants.json](./262709-the-participants.json) |
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
 | The Partners | 27621 | [27621-the-partners.json](./27621-the-partners.json) |
 | The Party | 135782 | [135782-the-party.json](./135782-the-party.json) |
@@ -28724,6 +28725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torbjorn and the Birthday Cake Mishap | 420786 | [420786-torbjorn-and-the-birthday-cake-mishap.json](./420786-torbjorn-and-the-birthday-cake-mishap.json) |
 | Torc: Legend Of The Ogre Crown | 362968 | [362968-torc-legend-of-the-ogre-crown.json](./362968-torc-legend-of-the-ogre-crown.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
+| Torch | 262707 | [262707-torch.json](./262707-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
 | Torch Cave | 32060 | [32060-torch-cave.json](./32060-torch-cave.json) |
 | Torch Cave 2 | 31086 | [31086-torch-cave-2.json](./31086-torch-cave-2.json) |
@@ -31385,6 +31387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Cargo Line Vol. 2 - Aggregates | 310370 | [310370-train-sim-world-4-cargo-line-vol-2-aggregates.json](./310370-train-sim-world-4-cargo-line-vol-2-aggregates.json) |
 | Train Sim World 4: Cathcart Circle Line - Glasgow - Newton & Neilston | 332114 | [332114-train-sim-world-4-cathcart-circle-line-glasgow-newton-and-neilston.json](./332114-train-sim-world-4-cathcart-circle-line-glasgow-newton-and-neilston.json) |
 | Train Sim World 4: Clinchfield Railroad - Elkhorn - Dante | 332115 | [332115-train-sim-world-4-clinchfield-railroad-elkhorn-dante.json](./332115-train-sim-world-4-clinchfield-railroad-elkhorn-dante.json) |
+| Train Sim World 4: Deluxe Edition | 262631 | [262631-train-sim-world-4-deluxe-edition.json](./262631-train-sim-world-4-deluxe-edition.json) |
 | Train Sim World 4: East Coast Main Line - Peterborough - Doncaster Route | 269354 | [269354-train-sim-world-4-east-coast-main-line-peterborough-doncaster-route.json](./269354-train-sim-world-4-east-coast-main-line-peterborough-doncaster-route.json) |
 | Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack | 288920 | [288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json](./288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json) |
 | Train Sim World 4: Fife Circle Line - Edinburgh: Markinch via Dunfermline & Kirkcaldy Route | 290905 | [290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json](./290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json) |
@@ -31398,6 +31401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
 | Train Sim World 4: Semmeringbahn - Wiener Neustadt - Mürzzuschlag Route | 298259 | [298259-train-sim-world-4-semmeringbahn-wiener-neustadt-murzzuschlag-route.json](./298259-train-sim-world-4-semmeringbahn-wiener-neustadt-murzzuschlag-route.json) |
+| Train Sim World 4: Special Edition | 262632 | [262632-train-sim-world-4-special-edition.json](./262632-train-sim-world-4-special-edition.json) |
 | Train Sim World 4: Spirit of Steam - Liverpool Lime Street - Crewe | 332117 | [332117-train-sim-world-4-spirit-of-steam-liverpool-lime-street-crewe.json](./332117-train-sim-world-4-spirit-of-steam-liverpool-lime-street-crewe.json) |
 | Train Sim World 4: UK Regional Edition | 268835 | [268835-train-sim-world-4-uk-regional-edition.json](./268835-train-sim-world-4-uk-regional-edition.json) |
 | Train Sim World 4: USA Regional Edition | 268838 | [268838-train-sim-world-4-usa-regional-edition.json](./268838-train-sim-world-4-usa-regional-edition.json) |
