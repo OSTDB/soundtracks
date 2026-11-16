@@ -18154,6 +18154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Lands: Tower Defense | 281971 | [281971-broken-lands-tower-defense.json](./281971-broken-lands-tower-defense.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
 | Broken Legends | 152644 | [152644-broken-legends.json](./152644-broken-legends.json) |
+| Broken Legs | 217582 | [217582-broken-legs.json](./217582-broken-legs.json) |
 | Broken Lens | 226014 | [226014-broken-lens.json](./226014-broken-lens.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
 | Broken Lights | 421851 | [421851-broken-lights.json](./421851-broken-lights.json) |
@@ -21094,6 +21095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
 | Byteworld | 372398 | [372398-byteworld.json](./372398-byteworld.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
+| Byzantine Perspective | 217583 | [217583-byzantine-perspective.json](./217583-byzantine-perspective.json) |
 | Byzantine: The Betrayal | 25457 | [25457-byzantine-the-betrayal.json](./25457-byzantine-the-betrayal.json) |
 | BZFlag | 121833 | [121833-bzflag.json](./121833-bzflag.json) |
 | Bzzzt | 133446 | [133446-bzzzt.json](./133446-bzzzt.json) |
