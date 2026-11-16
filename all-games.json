@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T11:31:02.293Z",
-  "total_soundtracks": 3487,
+  "generated_at": "2026-11-16T11:36:51.529Z",
+  "total_soundtracks": 3495,
   "games": [
     {
       "igdb_id": 292844,
@@ -471,6 +471,20 @@
         {
           "album_name": "A Year of Springs Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5cEVIMMdKOGZLOWEyGQc58",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8623,
+      "game_name": "A-Men",
+      "game_url": "https://ostdb.net/games/a-men",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27364c1d0ee9a802cc711c940a9",
+      "albums": [
+        {
+          "album_name": "A-Men OST",
+          "spotify_url": "https://open.spotify.com/album/45Hwo9PXltkcTB9uA7m1XA",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -2404,6 +2418,20 @@
           "album_name": "Ashen (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6259,
+      "game_name": "Ashen",
+      "game_url": "https://ostdb.net/games/ashen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ea6604b612adde6f00d8af04",
+      "albums": [
+        {
+          "album_name": "Ashen (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -12197,6 +12225,20 @@
       ]
     },
     {
+      "igdb_id": 8923,
+      "game_name": "Etherium",
+      "game_url": "https://ostdb.net/games/etherium",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730f61ffd373d13e64ccfe1b11",
+      "albums": [
+        {
+          "album_name": "Etherium (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6beCHg0h1gaTi1bpQ1vPHh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 342919,
       "game_name": "Europa Universalis V",
       "game_url": "https://ostdb.net/games/europa-universalis-v",
@@ -16643,6 +16685,20 @@
       ]
     },
     {
+      "igdb_id": 8800,
+      "game_name": "Halfway",
+      "game_url": "https://ostdb.net/games/halfway",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27320dbe5355c62223b6a5b9966",
+      "albums": [
+        {
+          "album_name": "Halfway Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7gD4WSEVqg4mA9EMAl1MOq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 25361,
       "game_name": "Halloween Forever",
       "game_url": "https://ostdb.net/games/halloween-forever",
@@ -17021,6 +17077,20 @@
         {
           "album_name": "Hardspace: Shipbreaker (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6RpXswMAN808e4apXHMlQ2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7865,
+      "game_name": "Harold",
+      "game_url": "https://ostdb.net/games/harold",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27399935293aeae418f095debe8",
+      "albums": [
+        {
+          "album_name": "Harold - Original Funny Tracks (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6gepWsRJQ8EdprpfovoLBw",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24717,6 +24787,20 @@
       ]
     },
     {
+      "igdb_id": 6037,
+      "game_name": "Naughty Bear: Panic in Paradise",
+      "game_url": "https://ostdb.net/games/naughty-bear-panic-in-paradise",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e09eb6a3ce99cd592f35c2db",
+      "albums": [
+        {
+          "album_name": "Naughty Bear: Panic in Paradise (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2qOFKd7dkIUAGlz2eTCKqb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 255788,
       "game_name": "NBA 2K24",
       "game_url": "https://ostdb.net/games/nba-2k24",
@@ -27659,6 +27743,20 @@
         {
           "album_name": "Planet of Lana (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/26vBjTqpavqsGycyHgr3ux",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8982,
+      "game_name": "Planet Stronghold",
+      "game_url": "https://ostdb.net/games/planet-stronghold",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27386e093d4d19b2bbc656ea2d3",
+      "albums": [
+        {
+          "album_name": "Planet Stronghold Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/315dKRmTNz4MeAlLQ7u5up",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -35981,6 +36079,20 @@
         {
           "album_name": "Super Motherload OST",
           "spotify_url": "https://open.spotify.com/album/5huaCrlbrMOvro817ryhOS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9696,
+      "game_name": "Super Splatters",
+      "game_url": "https://ostdb.net/games/super-splatters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27390d8a16c9494c6b4f0b31ced",
+      "albums": [
+        {
+          "album_name": "Super Splatters (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1lpmVWBN76K49GFOu1XC3V",
           "apple_music_url": "",
           "album_link_url": ""
         }
