@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
 | Balloonatics | 83622 | [83622-balloonatics.json](./83622-balloonatics.json) |
 | BalloonBoyBob | 129096 | [129096-balloonboybob.json](./129096-balloonboybob.json) |
+| BalloonBreaker | 310781 | [310781-balloonbreaker.json](./310781-balloonbreaker.json) |
 | Balloone | 395872 | [395872-balloone.json](./395872-balloone.json) |
 | Ballooni | 240640 | [240640-ballooni.json](./240640-ballooni.json) |
 | Ballooning | 13961 | [13961-ballooning.json](./13961-ballooning.json) |
@@ -19174,6 +19175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
 | Bug Riders: The Race of Kings | 45041 | [45041-bug-riders-the-race-of-kings.json](./45041-bug-riders-the-race-of-kings.json) |
 | Bug Simulator | 137352 | [137352-bug-simulator.json](./137352-bug-simulator.json) |
+| Bug Splash TD | 310319 | [310319-bug-splash-td.json](./310319-bug-splash-td.json) |
 | Bug Splatt | 104807 | [104807-bug-splatt.json](./104807-bug-splatt.json) |
 | Bug Squad | 58725 | [58725-bug-squad.json](./58725-bug-squad.json) |
 | Bug Star | 200938 | [200938-bug-star.json](./200938-bug-star.json) |
