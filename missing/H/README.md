@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
 | Hashiriya Drifter: Car Racing, Drift, Drag Remaster | 377007 | [377007-hashiriya-drifter-car-racing-drift-drag-remaster.json](./377007-hashiriya-drifter-car-racing-drift-drag-remaster.json) |
 | Hashiriya: Ookami-tachi no Densetsu | 57832 | [57832-hashiriya-ookami-tachi-no-densetsu.json](./57832-hashiriya-ookami-tachi-no-densetsu.json) |
+| Hashiwokakero by Nikoli | 406983 | [406983-hashiwokakero-by-nikoli.json](./406983-hashiwokakero-by-nikoli.json) |
 | Hashrine | 271026 | [271026-hashrine.json](./271026-hashrine.json) |
 | Hashtag Bacon | 248409 | [248409-hashtag-bacon.json](./248409-hashtag-bacon.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
@@ -7651,6 +7652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Duggee: We Love Animals | 96184 | [96184-hey-duggee-we-love-animals.json](./96184-hey-duggee-we-love-animals.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
 | Hey Stranger! I Dare You to Love Me! | 212201 | [212201-hey-stranger-i-dare-you-to-love-me.json](./212201-hey-stranger-i-dare-you-to-love-me.json) |
+| Hey Tom! | 406972 | [406972-hey-tom.json](./406972-hey-tom.json) |
 | Hey Turtle | 125035 | [125035-hey-turtle.json](./125035-hey-turtle.json) |
 | Hey You, Pikachu! | 2642 | [2642-hey-you-pikachu.json](./2642-hey-you-pikachu.json) |
 | Hey You, Pikachu! Demake | 413223 | [413223-hey-you-pikachu-demake.json](./413223-hey-you-pikachu-demake.json) |
@@ -13270,6 +13272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Resource | 295319 | [295319-human-resource.json](./295319-human-resource.json) |
 | Human Resource Machine | 14545 | [14545-human-resource-machine.json](./14545-human-resource-machine.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
+| Human Resources | 406958 | [406958-human-resources.json](./406958-human-resources.json) |
 | Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
 | Human Sacrifice | 115817 | [115817-human-sacrifice.json](./115817-human-sacrifice.json) |
