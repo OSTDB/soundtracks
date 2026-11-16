@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
 | Veilborn | 374945 | [374945-veilborn.json](./374945-veilborn.json) |
 | Veilborne Sacrament | 375532 | [375532-veilborne-sacrament.json](./375532-veilborne-sacrament.json) |
+| Veilcrest: Trial of The Arcane | 305661 | [305661-veilcrest-trial-of-the-arcane.json](./305661-veilcrest-trial-of-the-arcane.json) |
 | Veiled | 134795 | [134795-veiled.json](./134795-veiled.json) |
 | Veiled | 172509 | [172509-veiled.json](./172509-veiled.json) |
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
