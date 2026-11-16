@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odesa Combined | 300578 | [300578-odesa-combined.json](./300578-odesa-combined.json) |
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
+| Odezza: Power Chess | 390300 | [390300-odezza-power-chess.json](./390300-odezza-power-chess.json) |
 | Odglos | 178486 | [178486-odglos.json](./178486-odglos.json) |
 | ODIA | 135709 | [135709-odia.json](./135709-odia.json) |
 | OdiChat | 258498 | [258498-odichat.json](./258498-odichat.json) |
@@ -4920,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscillate | 149110 | [149110-oscillate.json](./149110-oscillate.json) |
 | Oscillation | 262313 | [262313-oscillation.json](./262313-oscillation.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
+| Oscillia: The Shattered Planet | 390303 | [390303-oscillia-the-shattered-planet.json](./390303-oscillia-the-shattered-planet.json) |
 | Oscura | 61937 | [61937-oscura.json](./61937-oscura.json) |
 | Oscura: Lost Light | 17784 | [17784-oscura-lost-light.json](./17784-oscura-lost-light.json) |
 | Oscura: Second Shadow | 60654 | [60654-oscura-second-shadow.json](./60654-oscura-second-shadow.json) |
@@ -5866,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlanders | 328052 | [328052-outlanders.json](./328052-outlanders.json) |
 | Outlanders | 48363 | [48363-outlanders.json](./48363-outlanders.json) |
 | Outlanders 2: Second Nature | 305131 | [305131-outlanders-2-second-nature.json](./305131-outlanders-2-second-nature.json) |
+| Outlanders: Exiles of Veridion | 390297 | [390297-outlanders-exiles-of-veridion.json](./390297-outlanders-exiles-of-veridion.json) |
 | Outlanders: Flood and Fire | 235589 | [235589-outlanders-flood-and-fire.json](./235589-outlanders-flood-and-fire.json) |
 | Outlanders: Heir of the Roads | 236879 | [236879-outlanders-heir-of-the-roads.json](./236879-outlanders-heir-of-the-roads.json) |
 | Outlanders: Home is Where the Heart is | 277431 | [277431-outlanders-home-is-where-the-heart-is.json](./277431-outlanders-home-is-where-the-heart-is.json) |
