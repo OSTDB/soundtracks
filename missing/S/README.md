@@ -25463,6 +25463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Truth or Square | 5190 | [5190-spongebobs-truth-or-square.json](./5190-spongebobs-truth-or-square.json) |
 | SpongeBob’s Undersea Odyssey | 381368 | [381368-spongebob-s-undersea-odyssey.json](./381368-spongebob-s-undersea-odyssey.json) |
 | Spongedrake Unleashed 3D | 336458 | [336458-spongedrake-unleashed-3d.json](./336458-spongedrake-unleashed-3d.json) |
+| SpongeDude | 367871 | [367871-spongedude.json](./367871-spongedude.json) |
 | SpongeGlock SquarePants | 188815 | [188815-spongeglock-squarepants.json](./188815-spongeglock-squarepants.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
 | Sponsor-A-Planet | 155710 | [155710-sponsor-a-planet.json](./155710-sponsor-a-planet.json) |
@@ -31918,6 +31919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Life Simulator | 374347 | [374347-street-life-simulator.json](./374347-street-life-simulator.json) |
+| Street Lords | 367695 | [367695-street-lords.json](./367695-street-lords.json) |
 | Street Machine | 60259 | [60259-street-machine.json](./60259-street-machine.json) |
 | Street Massacre | 155899 | [155899-street-massacre.json](./155899-street-massacre.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
@@ -33068,6 +33070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Simulator | 277684 | [277684-succubus-simulator.json](./277684-succubus-simulator.json) |
 | Succubus Spell | 369287 | [369287-succubus-spell.json](./369287-succubus-spell.json) |
 | Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
+| Succubus Summon | 367697 | [367697-succubus-summon.json](./367697-succubus-summon.json) |
 | Succubus Temptation | 416377 | [416377-succubus-temptation.json](./416377-succubus-temptation.json) |
 | Succubus Throne | 385254 | [385254-succubus-throne.json](./385254-succubus-throne.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
@@ -39083,6 +39086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Clicker | 235440 | [235440-sushi-clicker.json](./235440-sushi-clicker.json) |
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
 | Sushi Courier! | 405924 | [405924-sushi-courier.json](./405924-sushi-courier.json) |
+| Sushi Delivery | 369509 | [369509-sushi-delivery.json](./369509-sushi-delivery.json) |
 | Sushi Dojo | 359915 | [359915-sushi-dojo.json](./359915-sushi-dojo.json) |
 | Sushi Drop | 240115 | [240115-sushi-drop.json](./240115-sushi-drop.json) |
 | Sushi Factory | 241199 | [241199-sushi-factory.json](./241199-sushi-factory.json) |
