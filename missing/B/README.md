@@ -6395,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Unveiled: Gisele Level Pack | 312101 | [312101-beauties-unveiled-gisele-level-pack.json](./312101-beauties-unveiled-gisele-level-pack.json) |
 | Beauties Unveiled: Hot Edition | 298568 | [298568-beauties-unveiled-hot-edition.json](./298568-beauties-unveiled-hot-edition.json) |
 | Beauties Unveiled: NoirPetal Level Pack | 284508 | [284508-beauties-unveiled-noirpetal-level-pack.json](./284508-beauties-unveiled-noirpetal-level-pack.json) |
+| Beauties Unveiled: Premium Edition | 291640 | [291640-beauties-unveiled-premium-edition.json](./291640-beauties-unveiled-premium-edition.json) |
 | Beauties! They're All After Me | 306240 | [306240-beauties-theyre-all-after-me.json](./306240-beauties-theyre-all-after-me.json) |
 | Beauties' Thrilling Shots | 417872 | [417872-beauties-thrilling-shots.json](./417872-beauties-thrilling-shots.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
@@ -9743,6 +9744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! | 38275 | [38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json](./38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json) |
 | Bismarck: Death of a Battleship | 15674 | [15674-bismarck-death-of-a-battleship.json](./15674-bismarck-death-of-a-battleship.json) |
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
+| Bismark | 293253 | [293253-bismark.json](./293253-bismark.json) |
 | Bison Battle Machine | 297906 | [297906-bison-battle-machine.json](./297906-bison-battle-machine.json) |
 | Bisounours Party: Adventure | 380385 | [380385-bisounours-party-adventure.json](./380385-bisounours-party-adventure.json) |
 | Bisque Doll | 168533 | [168533-bisque-doll.json](./168533-bisque-doll.json) |
