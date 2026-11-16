@@ -6400,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defective | 55730 | [55730-defective.json](./55730-defective.json) |
 | Defective Holiday | 133630 | [133630-defective-holiday.json](./133630-defective-holiday.json) |
 | Defector | 96397 | [96397-defector.json](./96397-defector.json) |
+| Defectum | 249414 | [249414-defectum.json](./249414-defectum.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence Mission | 246324 | [246324-defence-mission.json](./246324-defence-mission.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
@@ -13743,6 +13744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkaebi Kiugi: Bangchihyeong Geim | 228166 | [228166-dokkaebi-kiugi-bangchihyeong-geim.json](./228166-dokkaebi-kiugi-bangchihyeong-geim.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
+| Doko Demo Issho Portable | 246063 | [246063-doko-demo-issho-portable.json](./246063-doko-demo-issho-portable.json) |
 | Doko Demo Issho: Let's Gakkou! | 72561 | [72561-doko-demo-issho-lets-gakkou.json](./72561-doko-demo-issho-lets-gakkou.json) |
 | Doko Demo Issho: Toro to Nagareboshi | 194511 | [194511-doko-demo-issho-toro-to-nagareboshi.json](./194511-doko-demo-issho-toro-to-nagareboshi.json) |
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
@@ -21339,6 +21341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of the dead | 96639 | [96639-dungeons-of-the-dead.json](./96639-dungeons-of-the-dead.json) |
 | Dungeons of the Deep | 151396 | [151396-dungeons-of-the-deep.json](./151396-dungeons-of-the-deep.json) |
 | Dungeons of the Fallen | 105025 | [105025-dungeons-of-the-fallen.json](./105025-dungeons-of-the-fallen.json) |
+| Dungeons of the Obelisk | 251151 | [251151-dungeons-of-the-obelisk.json](./251151-dungeons-of-the-obelisk.json) |
 | Dungeons of the Unforgiven | 73616 | [73616-dungeons-of-the-unforgiven.json](./73616-dungeons-of-the-unforgiven.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
 | Dungeons, Amethysts, Alchemists 'N' Everythin' | 12576 | [12576-dungeons-amethysts-alchemists-n-everythin.json](./12576-dungeons-amethysts-alchemists-n-everythin.json) |
