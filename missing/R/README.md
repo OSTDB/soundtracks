@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Rescue | 380831 | [380831-rail-rescue.json](./380831-rail-rescue.json) |
 | Rail Rescue: Puzzle Lines - Challenge Edition | 401350 | [401350-rail-rescue-puzzle-lines-challenge-edition.json](./401350-rail-rescue-puzzle-lines-challenge-edition.json) |
 | Rail Rescue: Puzzle Lines - Challenge Track | 393899 | [393899-rail-rescue-puzzle-lines-challenge-track.json](./393899-rail-rescue-puzzle-lines-challenge-track.json) |
+| Rail Rescue: Puzzle Lines - Complete Edition | 396139 | [396139-rail-rescue-puzzle-lines-complete-edition.json](./396139-rail-rescue-puzzle-lines-complete-edition.json) |
 | Rail Rescue: Puzzle Lines - Quest Track | 393900 | [393900-rail-rescue-puzzle-lines-quest-track.json](./393900-rail-rescue-puzzle-lines-quest-track.json) |
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
 | Rail Romanesque Origin | 280057 | [280057-rail-romanesque-origin.json](./280057-rail-romanesque-origin.json) |
@@ -2272,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor Evolution | 378715 | [378715-raptor-evolution.json](./378715-raptor-evolution.json) |
 | Raptor Evolution: Celestosaurus | 378716 | [378716-raptor-evolution-celestosaurus.json](./378716-raptor-evolution-celestosaurus.json) |
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
+| Raptor Evolution: Godly Edition | 396140 | [396140-raptor-evolution-godly-edition.json](./396140-raptor-evolution-godly-edition.json) |
 | Raptor Evolution: Gold Edition | 404283 | [404283-raptor-evolution-gold-edition.json](./404283-raptor-evolution-gold-edition.json) |
 | Raptor Evolution: Infermadon | 378718 | [378718-raptor-evolution-infermadon.json](./378718-raptor-evolution-infermadon.json) |
 | Raptor Evolution: Vectoraptor | 378717 | [378717-raptor-evolution-vectoraptor.json](./378717-raptor-evolution-vectoraptor.json) |
