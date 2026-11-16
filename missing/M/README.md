@@ -11142,6 +11142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug X | 18840 | [18840-metal-slug-x.json](./18840-metal-slug-x.json) |
 | Metal Slug X | 191478 | [191478-metal-slug-x.json](./191478-metal-slug-x.json) |
 | Metal Slug XX | 21760 | [21760-metal-slug-xx.json](./21760-metal-slug-xx.json) |
+| Metal Slug XX: Recompiled | 408842 | [408842-metal-slug-xx-recompiled.json](./408842-metal-slug-xx-recompiled.json) |
 | Metal Slug Zero Online | 137929 | [137929-metal-slug-zero-online.json](./137929-metal-slug-zero-online.json) |
 | Metal Slug: Attack | 59100 | [59100-metal-slug-attack.json](./59100-metal-slug-attack.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
@@ -21142,6 +21143,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
 | Mr. Sleepy Man | 172821 | [172821-mr-sleepy-man.json](./172821-mr-sleepy-man.json) |
 | Mr. Splash | 48913 | [48913-mr-splash.json](./48913-mr-splash.json) |
+| Mr. Splibox | 409144 | [409144-mr-splibox.json](./409144-mr-splibox.json) |
+| Mr. Splibox 2 | 409146 | [409146-mr-splibox-2.json](./409146-mr-splibox-2.json) |
 | Mr. Stackman | 395215 | [395215-mr-stackman.json](./395215-mr-stackman.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
@@ -21653,6 +21656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muma Rope | 226678 | [226678-muma-rope.json](./226678-muma-rope.json) |
 | Mumba IV: Egypt Jewels | 156636 | [156636-mumba-iv-egypt-jewels.json](./156636-mumba-iv-egypt-jewels.json) |
 | Mumbai Gullies | 154126 | [154126-mumbai-gullies.json](./154126-mumbai-gullies.json) |
+| Mumbai Jets Traffic | 408983 | [408983-mumbai-jets-traffic.json](./408983-mumbai-jets-traffic.json) |
 | Mumble Pines: The Arrival | 371032 | [371032-mumble-pines-the-arrival.json](./371032-mumble-pines-the-arrival.json) |
 | Mumbo Shuffle | 398547 | [398547-mumbo-shuffle.json](./398547-mumbo-shuffle.json) |
 | Mummies Rising | 59733 | [59733-mummies-rising.json](./59733-mummies-rising.json) |
@@ -21935,6 +21939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
 | Murdo's Quest | 201464 | [201464-murdos-quest.json](./201464-murdos-quest.json) |
 | Murdoc's Operation Rejuvination | 354761 | [354761-murdocs-operation-rejuvination.json](./354761-murdocs-operation-rejuvination.json) |
+| Murdok | 409164 | [409164-murdok.json](./409164-murdok.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
 | Murgatroyds | 57417 | [57417-murgatroyds.json](./57417-murgatroyds.json) |
 | Murgles | 121370 | [121370-murgles.json](./121370-murgles.json) |
