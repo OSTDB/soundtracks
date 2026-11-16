@@ -10277,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
 | Citadel Zero | 410470 | [410470-citadel-zero.json](./410470-citadel-zero.json) |
 | Citadel: Forged With Fire | 47823 | [47823-citadel-forged-with-fire.json](./47823-citadel-forged-with-fire.json) |
+| Citadel: Gunship Sandbox MMO | 413314 | [413314-citadel-gunship-sandbox-mmo.json](./413314-citadel-gunship-sandbox-mmo.json) |
 | Citadel's Keeper | 295103 | [295103-citadels-keeper.json](./295103-citadels-keeper.json) |
 | Citadelic | 235911 | [235911-citadelic.json](./235911-citadelic.json) |
 | Citadels | 2804 | [2804-citadels.json](./2804-citadels.json) |
@@ -17928,6 +17929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Adventures | 353574 | [353574-cozy-adventures.json](./353574-cozy-adventures.json) |
 | Cozy Aquarium | 339315 | [339315-cozy-aquarium.json](./339315-cozy-aquarium.json) |
 | Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
+| Cozy Banker | 413294 | [413294-cozy-banker.json](./413294-cozy-banker.json) |
 | Cozy Bay Hike | 395219 | [395219-cozy-bay-hike.json](./395219-cozy-bay-hike.json) |
 | Cozy Beach | 341408 | [341408-cozy-beach.json](./341408-cozy-beach.json) |
 | Cozy Builder | 379667 | [379667-cozy-builder.json](./379667-cozy-builder.json) |
@@ -21213,6 +21215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
 | Crystal Cove | 174470 | [174470-crystal-cove.json](./174470-crystal-cove.json) |
 | Crystal Covenant | 363092 | [363092-crystal-covenant.json](./363092-crystal-covenant.json) |
+| Crystal Crazy | 413328 | [413328-crystal-crazy.json](./413328-crystal-crazy.json) |
 | Crystal Crepes: Tales of Food and Magic | 379426 | [379426-crystal-crepes-tales-of-food-and-magic.json](./379426-crystal-crepes-tales-of-food-and-magic.json) |
 | Crystal Crisis | 101152 | [101152-crystal-crisis.json](./101152-crystal-crisis.json) |
 | Crystal Crush | 70620 | [70620-crystal-crush.json](./70620-crystal-crush.json) |
