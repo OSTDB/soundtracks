@@ -15823,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
 | Consumption Line | 365924 | [365924-consumption-line.json](./365924-consumption-line.json) |
+| Consumption Model | 401956 | [401956-consumption-model.json](./401956-consumption-model.json) |
 | Contact | 187113 | [187113-contact.json](./187113-contact.json) |
 | Contact | 20581 | [20581-contact.json](./20581-contact.json) |
 | Contact | 243837 | [243837-contact.json](./243837-contact.json) |
@@ -18584,6 +18585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Racing Nitro-Fueled: Winter Festival Grand Prix | 324841 | [324841-crash-team-racing-nitro-fueled-winter-festival-grand-prix.json](./324841-crash-team-racing-nitro-fueled-winter-festival-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Xfinity Flash Kart | 325134 | [325134-crash-team-racing-nitro-fueled-xfinity-flash-kart.json](./325134-crash-team-racing-nitro-fueled-xfinity-flash-kart.json) |
 | Crash Team Racing: Christmas Team Racing | 408977 | [408977-crash-team-racing-christmas-team-racing.json](./408977-crash-team-racing-christmas-team-racing.json) |
+| Crash Team Racing: Lolo Racing GP | 405189 | [405189-crash-team-racing-lolo-racing-gp.json](./405189-crash-team-racing-lolo-racing-gp.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
 | Crash Team Racing: Unlimited | 360136 | [360136-crash-team-racing-unlimited.json](./360136-crash-team-racing-unlimited.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
