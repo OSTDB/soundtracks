@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palette | 185576 | [185576-palette.json](./185576-palette.json) |
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
+| Palette: Cards & Chaos | 347947 | [347947-palette-cards-and-chaos.json](./347947-palette-cards-and-chaos.json) |
 | Palette: Glass Shard Mosaic | 410046 | [410046-palette-glass-shard-mosaic.json](./410046-palette-glass-shard-mosaic.json) |
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palhaços | 230664 | [230664-palhacos.json](./230664-palhacos.json) |
@@ -6306,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
 | Philly Flasher/Cathouse Blues | 70180 | [70180-philly-flasher-cathouse-blues.json](./70180-philly-flasher-cathouse-blues.json) |
 | Philna Fantasy | 266042 | [266042-philna-fantasy.json](./266042-philna-fantasy.json) |
+| PhiloDeka | 347924 | [347924-philodeka.json](./347924-philodeka.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
 | Philophobia: The Fear of Love | 121431 | [121431-philophobia-the-fear-of-love.json](./121431-philophobia-the-fear-of-love.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
@@ -20276,7 +20278,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrika 1st.Cut: The Reason She Must Perish | 291199 | [291199-putrika-1st-cut-the-reason-she-must-perish.json](./291199-putrika-1st-cut-the-reason-she-must-perish.json) |
 | Putrika 2nd.Cut: For the Exquisite Attire | 352368 | [352368-putrika-2nd-cut-for-the-exquisite-attire.json](./352368-putrika-2nd-cut-for-the-exquisite-attire.json) |
 | Putt & Putter | 19505 | [19505-putt-and-putter.json](./19505-putt-and-putter.json) |
+| Putt Down | 347949 | [347949-putt-down.json](./347949-putt-down.json) |
 | Putt Golf | 242458 | [242458-putt-golf.json](./242458-putt-golf.json) |
+| Putt It in Orbit | 347922 | [347922-putt-it-in-orbit.json](./347922-putt-it-in-orbit.json) |
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
 | Putt Party | 250223 | [250223-putt-party.json](./250223-putt-party.json) |
 | Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
