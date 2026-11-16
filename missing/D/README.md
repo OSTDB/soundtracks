@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Duel | 230011 | [230011-dark-duel.json](./230011-dark-duel.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
+| Dark Dungeon Mind Mess | 388473 | [388473-dark-dungeon-mind-mess.json](./388473-dark-dungeon-mind-mess.json) |
 | Dark Dungeon Warrior | 238120 | [238120-dark-dungeon-warrior.json](./238120-dark-dungeon-warrior.json) |
 | Dark Dungeons | 41187 | [41187-dark-dungeons.json](./41187-dark-dungeons.json) |
 | Dark Dynasty: The Siege of Londor | 317522 | [317522-dark-dynasty-the-siege-of-londor.json](./317522-dark-dynasty-the-siege-of-londor.json) |
@@ -9914,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Did You Hear That? | 159945 | [159945-did-you-hear-that.json](./159945-did-you-hear-that.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
+| Did You Visit CommutatorApply | 387031 | [387031-did-you-visit-commutatorapply.json](./387031-did-you-visit-commutatorapply.json) |
 | Didactic Jesus Game | 224333 | [224333-didactic-jesus-game.json](./224333-didactic-jesus-game.json) |
 | Dìdào Zhàn | 397993 | [397993-didao-zhan.json](./397993-didao-zhan.json) |
 | Didaskalia | 276900 | [276900-didaskalia.json](./276900-didaskalia.json) |
@@ -11558,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconsolate | 74167 | [74167-disconsolate.json](./74167-disconsolate.json) |
 | Discontinue | 119858 | [119858-discontinue.json](./119858-discontinue.json) |
 | Discontrolled | 299565 | [299565-discontrolled.json](./299565-discontrolled.json) |
+| Discontrolled | 386743 | [386743-discontrolled.json](./386743-discontrolled.json) |
 | Discopup | 327986 | [327986-discopup.json](./327986-discopup.json) |
 | Discord Times | 93112 | [93112-discord-times.json](./93112-discord-times.json) |
 | Discordia | 55960 | [55960-discordia.json](./55960-discordia.json) |
@@ -14654,6 +14657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doobie | 341112 | [341112-doobie.json](./341112-doobie.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
+| Doodieman Voodoo | 387970 | [387970-doodieman-voodoo.json](./387970-doodieman-voodoo.json) |
 | Doodle | 136587 | [136587-doodle.json](./136587-doodle.json) |
 | Doodle | 340659 | [340659-doodle.json](./340659-doodle.json) |
 | Doodle Adventure of Chameleon | 274317 | [274317-doodle-adventure-of-chameleon.json](./274317-doodle-adventure-of-chameleon.json) |
@@ -15823,6 +15827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douguo Keju | 111805 | [111805-douguo-keju.json](./111805-douguo-keju.json) |
 | Dòuhún Dàlù | 156770 | [156770-douhun-dalu.json](./156770-douhun-dalu.json) |
 | Doujin Jigsaw Puzzle | 334806 | [334806-doujin-jigsaw-puzzle.json](./334806-doujin-jigsaw-puzzle.json) |
+| Doujining | 387894 | [387894-doujining.json](./387894-doujining.json) |
 | Doujins and Dragons | 186158 | [186158-doujins-and-dragons.json](./186158-doujins-and-dragons.json) |
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
 | Doukoku Soshite... | 227429 | [227429-doukoku-soshite.json](./227429-doukoku-soshite.json) |
@@ -21173,6 +21178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Hinterberg: Episode Renaud | 358904 | [358904-dungeons-of-hinterberg-episode-renaud.json](./358904-dungeons-of-hinterberg-episode-renaud.json) |
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
 | Dungeons of Kairn | 229287 | [229287-dungeons-of-kairn.json](./229287-dungeons-of-kairn.json) |
+| Dungeons of Kong | 387900 | [387900-dungeons-of-kong.json](./387900-dungeons-of-kong.json) |
 | Dungeons of Kragmor | 17006 | [17006-dungeons-of-kragmor.json](./17006-dungeons-of-kragmor.json) |
 | Dungeons of Kremlin | 69958 | [69958-dungeons-of-kremlin.json](./69958-dungeons-of-kremlin.json) |
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
