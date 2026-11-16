@@ -12829,6 +12829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
 | Roulette Simulator 2026 | 370421 | [370421-roulette-simulator-2026.json](./370421-roulette-simulator-2026.json) |
+| Roulette to Hell | 305655 | [305655-roulette-to-hell.json](./305655-roulette-to-hell.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
 | Roun | 84037 | [84037-roun.json](./84037-roun.json) |
 | Round 42 | 70005 | [70005-round-42.json](./70005-round-42.json) |
@@ -13371,6 +13372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rube Works: The Official Rube Goldberg Invention Game | 17212 | [17212-rube-works-the-official-rube-goldberg-invention-game.json](./17212-rube-works-the-official-rube-goldberg-invention-game.json) |
 | Rube-like Gold-berger | 364606 | [364606-rube-like-gold-berger.json](./364606-rube-like-gold-berger.json) |
 | Rube's Lab | 96571 | [96571-rubes-lab.json](./96571-rubes-lab.json) |
+| Rubedo: The Occult Dawn | 303910 | [303910-rubedo-the-occult-dawn.json](./303910-rubedo-the-occult-dawn.json) |
 | Rubek | 25069 | [25069-rubek.json](./25069-rubek.json) |
 | Rubelike | 176377 | [176377-rubelike.json](./176377-rubelike.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
