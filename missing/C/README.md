@@ -14099,6 +14099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Fairy Tales Pack | 162606 | [162606-coloring-pixels-fairy-tales-pack.json](./162606-coloring-pixels-fairy-tales-pack.json) |
 | Coloring Pixels: Fantasy Maps Pack | 351622 | [351622-coloring-pixels-fantasy-maps-pack.json](./351622-coloring-pixels-fantasy-maps-pack.json) |
 | Coloring Pixels: Farm Pack | 162613 | [162613-coloring-pixels-farm-pack.json](./162613-coloring-pixels-farm-pack.json) |
+| Coloring Pixels: Flag 2 Pack | 214068 | [214068-coloring-pixels-flag-2-pack.json](./214068-coloring-pixels-flag-2-pack.json) |
 | Coloring Pixels: Flag Pack | 162607 | [162607-coloring-pixels-flag-pack.json](./162607-coloring-pixels-flag-pack.json) |
 | Coloring Pixels: Flowers Pack | 162591 | [162591-coloring-pixels-flowers-pack.json](./162591-coloring-pixels-flowers-pack.json) |
 | Coloring Pixels: Folklore | 383924 | [383924-coloring-pixels-folklore.json](./383924-coloring-pixels-folklore.json) |
@@ -16299,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Invaders | 133124 | [133124-cookie-invaders.json](./133124-cookie-invaders.json) |
 | Cookie Jam | 140739 | [140739-cookie-jam.json](./140739-cookie-jam.json) |
 | Cookie Jam Blast | 86780 | [86780-cookie-jam-blast.json](./86780-cookie-jam-blast.json) |
+| Cookie Jelly Match | 214092 | [214092-cookie-jelly-match.json](./214092-cookie-jelly-match.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Monster Munch | 40587 | [40587-cookie-monster-munch.json](./40587-cookie-monster-munch.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
@@ -23003,6 +23005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Hoop Master | 212446 | [212446-cute-hoop-master.json](./212446-cute-hoop-master.json) |
 | Cute Ice! | 277958 | [277958-cute-ice.json](./277958-cute-ice.json) |
 | Cute Invaders | 172808 | [172808-cute-invaders.json](./172808-cute-invaders.json) |
+| Cute Jump | 214088 | [214088-cute-jump.json](./214088-cute-jump.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
 | Cute Kitty | 251127 | [251127-cute-kitty.json](./251127-cute-kitty.json) |
 | Cute Knight | 72589 | [72589-cute-knight.json](./72589-cute-knight.json) |
