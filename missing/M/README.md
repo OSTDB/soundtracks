@@ -10687,6 +10687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Catch: Transform Sirens into Anime Girls | 409684 | [409684-mermaid-catch-transform-sirens-into-anime-girls.json](./409684-mermaid-catch-transform-sirens-into-anime-girls.json) |
 | Mermaid City | 310658 | [310658-mermaid-city.json](./310658-mermaid-city.json) |
 | Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
+| Mermaid Garden | 408331 | [408331-mermaid-garden.json](./408331-mermaid-garden.json) |
 | Mermaid Gothic | 59101 | [59101-mermaid-gothic.json](./59101-mermaid-gothic.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Life | 400533 | [400533-mermaid-life.json](./400533-mermaid-life.json) |
