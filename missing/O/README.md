@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room Dungeon | 182164 | [182164-one-room-dungeon.json](./182164-one-room-dungeon.json) |
 | One Room Dungeon | 319069 | [319069-one-room-dungeon.json](./319069-one-room-dungeon.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
+| One Room Nightmare | 305658 | [305658-one-room-nightmare.json](./305658-one-room-nightmare.json) |
 | One Room VR: Yui Edition | 200266 | [200266-one-room-vr-yui-edition.json](./200266-one-room-vr-yui-edition.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One Room: Yui Hanasaka Memorial | 326122 | [326122-one-room-yui-hanasaka-memorial.json](./326122-one-room-yui-hanasaka-memorial.json) |
