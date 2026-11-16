@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calavera: Day of the Dead | 140306 | [140306-calavera-day-of-the-dead.json](./140306-calavera-day-of-the-dead.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
 | Calc+- | 361459 | [361459-calc.json](./361459-calc.json) |
+| Calcification | 330037 | [330037-calcification.json](./330037-calcification.json) |
 | Calcio Championship | 69630 | [69630-calcio-championship.json](./69630-calcio-championship.json) |
 | Calciobit | 49522 | [49522-calciobit.json](./49522-calciobit.json) |
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
@@ -7038,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge! | 182784 | [182784-charge.json](./182784-charge.json) |
 | Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
 | Charge! | 249975 | [249975-charge.json](./249975-charge.json) |
+| Charge! | 335536 | [335536-charge.json](./335536-charge.json) |
 | Charge! | 380071 | [380071-charge.json](./380071-charge.json) |
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
 | Charged: RC Racing | 224906 | [224906-charged-rc-racing.json](./224906-charged-rc-racing.json) |
@@ -11970,6 +11972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Rabbit | 319814 | [319814-clockwork-rabbit.json](./319814-clockwork-rabbit.json) |
 | Clockwork Revolution | 252840 | [252840-clockwork-revolution.json](./252840-clockwork-revolution.json) |
 | Clockwork Survivors | 223512 | [223512-clockwork-survivors.json](./223512-clockwork-survivors.json) |
+| Clockwork Sword | 334354 | [334354-clockwork-sword.json](./334354-clockwork-sword.json) |
 | Clockwork Tales: Of Glass and Ink | 17141 | [17141-clockwork-tales-of-glass-and-ink.json](./17141-clockwork-tales-of-glass-and-ink.json) |
 | Clockworld: Aroll's Legacy | 195358 | [195358-clockworld-arolls-legacy.json](./195358-clockworld-arolls-legacy.json) |
 | Clodhoppers | 117586 | [117586-clodhoppers.json](./117586-clodhoppers.json) |
@@ -13855,6 +13858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorboration | 390884 | [390884-colorboration.json](./390884-colorboration.json) |
 | Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
+| Colorbox Mustard | 330035 | [330035-colorbox-mustard.json](./330035-colorbox-mustard.json) |
 | ColorClimb | 183761 | [183761-colorclimb.json](./183761-colorclimb.json) |
 | ColorCode | 55481 | [55481-colorcode.json](./55481-colorcode.json) |
 | ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
