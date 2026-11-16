@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ham-Spin | 385634 | [385634-ham-spin.json](./385634-ham-spin.json) |
 | Ham: The Game | 388449 | [388449-ham-the-game.json](./388449-ham-the-game.json) |
 | Ham's Kitchen | 323822 | [323822-hams-kitchen.json](./323822-hams-kitchen.json) |
+| Hamachi the Psychotic Killer | 223655 | [223655-hamachi-the-psychotic-killer.json](./223655-hamachi-the-psychotic-killer.json) |
 | Hamam: The Steaming Backrooms | 387445 | [387445-hamam-the-steaming-backrooms.json](./387445-hamam-the-steaming-backrooms.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamayumishi: The Night Parade of a Hundred Yokai | 416271 | [416271-hamayumishi-the-night-parade-of-a-hundred-yokai.json](./416271-hamayumishi-the-night-parade-of-a-hundred-yokai.json) |
