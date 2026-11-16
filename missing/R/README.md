@@ -3674,7 +3674,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Fortune | 377661 | [377661-realms-of-fortune.json](./377661-realms-of-fortune.json) |
 | Realms of Illusion: Sentinel | 25485 | [25485-realms-of-illusion-sentinel.json](./25485-realms-of-illusion-sentinel.json) |
 | Realms of Madness | 280261 | [280261-realms-of-madness.json](./280261-realms-of-madness.json) |
-| Realms of Magic | 76686 | [76686-realms-of-magic.json](./76686-realms-of-magic.json) |
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Resurgence | 423222 | [423222-realms-of-resurgence.json](./423222-realms-of-resurgence.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
