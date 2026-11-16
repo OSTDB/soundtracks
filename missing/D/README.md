@@ -4967,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
 | Deardrops Distortion | 125741 | [125741-deardrops-distortion.json](./125741-deardrops-distortion.json) |
 | Dearend | 151793 | [151793-dearend.json](./151793-dearend.json) |
+| Dearest Lucy | 413343 | [413343-dearest-lucy.json](./413343-dearest-lucy.json) |
 | Dearest You | 179889 | [179889-dearest-you.json](./179889-dearest-you.json) |
 | Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
@@ -5754,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckzin | 400043 | [400043-deckzin.json](./400043-deckzin.json) |
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
 | Declared New Apocalypse | 261486 | [261486-declared-new-apocalypse.json](./261486-declared-new-apocalypse.json) |
+| Déclic | 413353 | [413353-declic.json](./413353-declic.json) |
 | Decline | 204865 | [204865-decline.json](./204865-decline.json) |
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 405959 | [405959-decline.json](./405959-decline.json) |
@@ -7598,6 +7600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengenki Days | 287358 | [287358-dengenki-days.json](./287358-dengenki-days.json) |
 | Denial | 132354 | [132354-denial.json](./132354-denial.json) |
 | Denis Adventures | 53961 | [53961-denis-adventures.json](./53961-denis-adventures.json) |
+| Denis le Tomate | 413332 | [413332-denis-le-tomate.json](./413332-denis-le-tomate.json) |
 | Denis McCrane's Ski Jumping Challenge: Sarajevo 1983 | 413858 | [413858-denis-mccranes-ski-jumping-challenge-sarajevo-1983.json](./413858-denis-mccranes-ski-jumping-challenge-sarajevo-1983.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
 | Denizen | 14028 | [14028-denizen.json](./14028-denizen.json) |
