@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SantaCorps: Snow Patrol | 210837 | [210837-santacorps-snow-patrol.json](./210837-santacorps-snow-patrol.json) |
 | SantaCraft | 141733 | [141733-santacraft.json](./141733-santacraft.json) |
 | SantaFly | 92838 | [92838-santafly.json](./92838-santafly.json) |
+| Santaower Defense | 310771 | [310771-santaower-defense.json](./310771-santaower-defense.json) |
 | Santaquest | 382846 | [382846-santaquest.json](./382846-santaquest.json) |
 | Santas Basement | 245808 | [245808-santas-basement.json](./245808-santas-basement.json) |
 | Santas Christmas Escape VR | 288229 | [288229-santas-christmas-escape-vr.json](./288229-santas-christmas-escape-vr.json) |
@@ -4482,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Ultraman's Challenge! Maze Island | 289756 | [289756-sd-ultramans-challenge-maze-island.json](./289756-sd-ultramans-challenge-maze-island.json) |
 | SDI | 12848 | [12848-sdi.json](./12848-sdi.json) |
 | SDI | 198646 | [198646-sdi.json](./198646-sdi.json) |
+| Sdies | 310783 | [310783-sdies.json](./310783-sdies.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
 | SDK Spriter | 84859 | [84859-sdk-spriter.json](./84859-sdk-spriter.json) |
 | SDS Star Divers | 242710 | [242710-sds-star-divers.json](./242710-sds-star-divers.json) |
@@ -8858,6 +8860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep & Love | 390700 | [390700-sheep-and-love.json](./390700-sheep-and-love.json) |
 | Sheep & Socks | 397969 | [397969-sheep-and-socks.json](./397969-sheep-and-socks.json) |
 | Sheep a Sheep | 223917 | [223917-sheep-a-sheep.json](./223917-sheep-a-sheep.json) |
+| Sheep Adventure | 310317 | [310317-sheep-adventure.json](./310317-sheep-adventure.json) |
 | Sheep and Gates | 347591 | [347591-sheep-and-gates.json](./347591-sheep-and-gates.json) |
 | Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
 | Sheep Collision | 116083 | [116083-sheep-collision.json](./116083-sheep-collision.json) |
@@ -9905,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Graveyard Simulator 2: Floating Cities | 337530 | [337530-ship-graveyard-simulator-2-floating-cities.json](./337530-ship-graveyard-simulator-2-floating-cities.json) |
 | Ship Graveyard Simulator 2: Steam Ships | 337529 | [337529-ship-graveyard-simulator-2-steam-ships.json](./337529-ship-graveyard-simulator-2-steam-ships.json) |
 | Ship Graveyard Simulator 2: Steel Giants | 289843 | [289843-ship-graveyard-simulator-2-steel-giants.json](./289843-ship-graveyard-simulator-2-steel-giants.json) |
+| Ship Graveyard Simulator 2: Submarines | 312471 | [312471-ship-graveyard-simulator-2-submarines.json](./312471-ship-graveyard-simulator-2-submarines.json) |
 | Ship Graveyard Simulator 2: Warships DLC | 277940 | [277940-ship-graveyard-simulator-2-warships-dlc.json](./277940-ship-graveyard-simulator-2-warships-dlc.json) |
 | Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
 | Ship Graveyard Simulator Collection | 331407 | [331407-ship-graveyard-simulator-collection.json](./331407-ship-graveyard-simulator-collection.json) |
@@ -10239,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun | 400720 | [400720-shogun.json](./400720-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
 | Shogun Curse | 289779 | [289779-shogun-curse.json](./289779-shogun-curse.json) |
+| Shogun Samurai Tycoon | 308659 | [308659-shogun-samurai-tycoon.json](./308659-shogun-samurai-tycoon.json) |
 | Shogun Soul: Legendary Puzzle | 330615 | [330615-shogun-soul-legendary-puzzle.json](./330615-shogun-soul-legendary-puzzle.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
@@ -12063,6 +12068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Souls | 427576 | [427576-silicon-souls.json](./427576-silicon-souls.json) |
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
+| Silicon Valley SImulator: 1980s | 310314 | [310314-silicon-valley-simulator-1980s.json](./310314-silicon-valley-simulator-1980s.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silicon Warrior | 24381 | [24381-silicon-warrior.json](./24381-silicon-warrior.json) |
 | Silicon Wasteland | 290834 | [290834-silicon-wasteland.json](./290834-silicon-wasteland.json) |
@@ -18437,6 +18443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoTerm | 379050 | [379050-sokoterm.json](./379050-sokoterm.json) |
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
 | SokoWinter | 187401 | [187401-sokowinter.json](./187401-sokowinter.json) |
+| Sokubaku Kanojo to Pet na Boku: I'm Your Pet | 312485 | [312485-sokubaku-kanojo-to-pet-na-boku-im-your-pet.json](./312485-sokubaku-kanojo-to-pet-na-boku-im-your-pet.json) |
 | Sokudoku Master | 83468 | [83468-sokudoku-master.json](./83468-sokudoku-master.json) |
 | Sol | 258519 | [258519-sol.json](./258519-sol.json) |
 | Sol 0: Mars Colonization | 34823 | [34823-sol-0-mars-colonization.json](./34823-sol-0-mars-colonization.json) |
@@ -32777,6 +32784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stylish Sprint | 79748 | [79748-stylish-sprint.json](./79748-stylish-sprint.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
 | Stylist | 255632 | [255632-stylist.json](./255632-stylist.json) |
+| Stylist Girl | 308662 | [308662-stylist-girl.json](./308662-stylist-girl.json) |
 | Stylist Girl - Make Me Gorgeous! | 107550 | [107550-stylist-girl-make-me-gorgeous.json](./107550-stylist-girl-make-me-gorgeous.json) |
 | Stylist Girl: Complete Edition | 313214 | [313214-stylist-girl-complete-edition.json](./313214-stylist-girl-complete-edition.json) |
 | Stylist Girl: Summer Time | 309065 | [309065-stylist-girl-summer-time.json](./309065-stylist-girl-summer-time.json) |
@@ -34189,6 +34197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SunAge | 21496 | [21496-sunage.json](./21496-sunage.json) |
 | Sunbay City Stories: Tina from the Grand Auto Workshop | 400408 | [400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json](./400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json) |
 | Sunbeam | 260263 | [260263-sunbeam.json](./260263-sunbeam.json) |
+| Sunbeam Feast | 310308 | [310308-sunbeam-feast.json](./310308-sunbeam-feast.json) |
 | Sunberry Care Center | 349105 | [349105-sunberry-care-center.json](./349105-sunberry-care-center.json) |
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
