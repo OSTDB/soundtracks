@@ -10386,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Go | 76501 | [76501-meow-go.json](./76501-meow-go.json) |
 | Meow Hunter | 319263 | [319263-meow-hunter.json](./319263-meow-hunter.json) |
 | Meow Lab | 149349 | [149349-meow-lab.json](./149349-meow-lab.json) |
+| Meow Legion | 244435 | [244435-meow-legion.json](./244435-meow-legion.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
 | Meow Match | 103743 | [103743-meow-match.json](./103743-meow-match.json) |
 | Meow Meow Invasion | 323139 | [323139-meow-meow-invasion.json](./323139-meow-meow-invasion.json) |
@@ -16915,6 +16916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
 | Mojito the Cat: Deluxe Edition | 226780 | [226780-mojito-the-cat-deluxe-edition.json](./226780-mojito-the-cat-deluxe-edition.json) |
 | Mojito the Cat: Director's Cut | 267233 | [267233-mojito-the-cat-directors-cut.json](./267233-mojito-the-cat-directors-cut.json) |
+| Mojito the Cat: Easter | 243356 | [243356-mojito-the-cat-easter.json](./243356-mojito-the-cat-easter.json) |
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
 | Mojito the Cat: Extended Edition | 232995 | [232995-mojito-the-cat-extended-edition.json](./232995-mojito-the-cat-extended-edition.json) |
 | Mojito the Cat: Halloween | 403425 | [403425-mojito-the-cat-halloween.json](./403425-mojito-the-cat-halloween.json) |
@@ -17053,6 +17055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
 | Mòlù Tiáosèbǎn | 155883 | [155883-molu-tiaoseban.json](./155883-molu-tiaoseban.json) |
 | Molytropia: Cloud in Shape of Hurt | 220679 | [220679-molytropia-cloud-in-shape-of-hurt.json](./220679-molytropia-cloud-in-shape-of-hurt.json) |
+| Molytropia: Dead Stars Still Shine Here | 244447 | [244447-molytropia-dead-stars-still-shine-here.json](./244447-molytropia-dead-stars-still-shine-here.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom | 319278 | [319278-mom.json](./319278-mom.json) |
 | Mom and Cake | 244105 | [244105-mom-and-cake.json](./244105-mom-and-cake.json) |
