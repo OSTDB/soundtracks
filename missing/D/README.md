@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Color | 289543 | [289543-dark-color.json](./289543-dark-color.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
+| Dark Compass | 371774 | [371774-dark-compass.json](./371774-dark-compass.json) |
 | Dark Conflict | 266992 | [266992-dark-conflict.json](./266992-dark-conflict.json) |
 | Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
 | Dark Continent | 369150 | [369150-dark-continent.json](./369150-dark-continent.json) |
@@ -3217,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Pioneer | 57536 | [57536-dawn-pioneer.json](./57536-dawn-pioneer.json) |
 | Dawn Raider | 291939 | [291939-dawn-raider.json](./291939-dawn-raider.json) |
 | Dawn Sanatorium | 412693 | [412693-dawn-sanatorium.json](./412693-dawn-sanatorium.json) |
+| Dawn vs Dusk | 367634 | [367634-dawn-vs-dusk.json](./367634-dawn-vs-dusk.json) |
 | Dawn Will Come | 176952 | [176952-dawn-will-come.json](./176952-dawn-will-come.json) |
 | Dawn, P.I. | 148200 | [148200-dawn-p-i.json](./148200-dawn-p-i.json) |
 | Dawn: A New Beginning | 68212 | [68212-dawn-a-new-beginning.json](./68212-dawn-a-new-beginning.json) |
@@ -5451,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathOmen | 189013 | [189013-deathomen.json](./189013-deathomen.json) |
 | Deathopolis | 126481 | [126481-deathopolis.json](./126481-deathopolis.json) |
 | Deathpit 3000 | 74576 | [74576-deathpit-3000.json](./74576-deathpit-3000.json) |
+| Deathplane | 372917 | [372917-deathplane.json](./372917-deathplane.json) |
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | Deathroids | 166907 | [166907-deathroids.json](./166907-deathroids.json) |
@@ -7024,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Hypothesis | 329606 | [329606-deltarune-hypothesis.json](./329606-deltarune-hypothesis.json) |
 | Deltarune: Internal Demons | 330253 | [330253-deltarune-internal-demons.json](./330253-deltarune-internal-demons.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
+| Deltarune: Plugged Dream | 371755 | [371755-deltarune-plugged-dream.json](./371755-deltarune-plugged-dream.json) |
 | Deltarune: Reimagined - Angelic Altercation | 351779 | [351779-deltarune-reimagined-angelic-altercation.json](./351779-deltarune-reimagined-angelic-altercation.json) |
 | Deltarune: Rouxls Kaard | 270732 | [270732-deltarune-rouxls-kaard.json](./270732-deltarune-rouxls-kaard.json) |
 | Deltarune: Soulblazers | 402111 | [402111-deltarune-soulblazers.json](./402111-deltarune-soulblazers.json) |
@@ -14202,6 +14206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Lose Face! | 407676 | [407676-dont-lose-face.json](./407676-dont-lose-face.json) |
 | Don't Lose Your Head | 128714 | [128714-dont-lose-your-head.json](./128714-dont-lose-your-head.json) |
 | Don’t Lose Your Ship | 337357 | [337357-don-t-lose-your-ship.json](./337357-don-t-lose-your-ship.json) |
+| Don’t Make Her Open Her Eyes! | 371771 | [371771-don-t-make-her-open-her-eyes.json](./371771-don-t-make-her-open-her-eyes.json) |
 | Don't Make Love | 74587 | [74587-dont-make-love.json](./74587-dont-make-love.json) |
 | Don't Melt the Snowman | 280134 | [280134-dont-melt-the-snowman.json](./280134-dont-melt-the-snowman.json) |
 | Don't Mess Up | 29992 | [29992-dont-mess-up.json](./29992-dont-mess-up.json) |
@@ -14363,6 +14368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Worry, I'll Bring the Beer | 307788 | [307788-dont-worry-ill-bring-the-beer.json](./307788-dont-worry-ill-bring-the-beer.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
+| Don’tGetCaught | 371764 | [371764-don-tgetcaught.json](./371764-don-tgetcaught.json) |
 | Don'Yoku | 35002 | [35002-donyoku.json](./35002-donyoku.json) |
 | Don´t Hang Up | 374654 | [374654-don-t-hang-up.json](./374654-don-t-hang-up.json) |
 | Dona Vasa | 151953 | [151953-dona-vasa.json](./151953-dona-vasa.json) |
