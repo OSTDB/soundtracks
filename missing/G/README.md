@@ -2557,7 +2557,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gathera | 405563 | [405563-gathera.json](./405563-gathera.json) |
 | Gatherers | 208179 | [208179-gatherers.json](./208179-gatherers.json) |
 | Gathering Our Childhoods | 249756 | [249756-gathering-our-childhoods.json](./249756-gathering-our-childhoods.json) |
-| Gathering Sky | 35590 | [35590-gathering-sky.json](./35590-gathering-sky.json) |
 | Gatherings | 301483 | [301483-gatherings.json](./301483-gatherings.json) |
 | Gatherlands | 391427 | [391427-gatherlands.json](./391427-gatherlands.json) |
 | GatherX | 362937 | [362937-gatherx.json](./362937-gatherx.json) |
@@ -8670,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Saga Idle: Knights x Knights | 319994 | [319994-gran-saga-idle-knights-x-knights.json](./319994-gran-saga-idle-knights-x-knights.json) |
 | Gran Skrea Online | 97589 | [97589-gran-skrea-online.json](./97589-gran-skrea-online.json) |
 | Gran Text Auto | 60046 | [60046-gran-text-auto.json](./60046-gran-text-auto.json) |
+| Gran Theft Lure | 360796 | [360796-gran-theft-lure.json](./360796-gran-theft-lure.json) |
 | Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Trak 20 | 174658 | [174658-gran-trak-20.json](./174658-gran-trak-20.json) |
@@ -10149,6 +10149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenfinger! | 252129 | [252129-greenfinger.json](./252129-greenfinger.json) |
 | GreenFlame | 76656 | [76656-greenflame.json](./76656-greenflame.json) |
 | Greeng 2D Dungeon | 107493 | [107493-greeng-2d-dungeon.json](./107493-greeng-2d-dungeon.json) |
+| GreenGrass | 360798 | [360798-greengrass.json](./360798-greengrass.json) |
 | GreenGrocer Simulator | 310285 | [310285-greengrocer-simulator.json](./310285-greengrocer-simulator.json) |
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
 | Greengrocer's | 311631 | [311631-greengrocers.json](./311631-greengrocers.json) |
