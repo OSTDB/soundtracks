@@ -4596,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Spider: Vengeance | 30981 | [30981-red-spider-vengeance.json](./30981-red-spider-vengeance.json) |
 | Red Spider: Vengeance Remastered | 371969 | [371969-red-spider-vengeance-remastered.json](./371969-red-spider-vengeance-remastered.json) |
 | Red Spider3: A Heroine Never Dies | 100709 | [100709-red-spider3-a-heroine-never-dies.json](./100709-red-spider3-a-heroine-never-dies.json) |
+| Red Spiral 1993 | 406963 | [406963-red-spiral-1993.json](./406963-red-spiral-1993.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape | 159387 | [159387-red-square-escape.json](./159387-red-square-escape.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
@@ -9976,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop Versus the Terminator | 44464 | [44464-robocop-versus-the-terminator.json](./44464-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
 | Robocop vs. Predator | 281502 | [281502-robocop-vs-predator.json](./281502-robocop-vs-predator.json) |
+| RoboCop: Prime Directives | 406976 | [406976-robocop-prime-directives.json](./406976-robocop-prime-directives.json) |
 | RoboCop: Rogue City | 154775 | [154775-robocop-rogue-city.json](./154775-robocop-rogue-city.json) |
 | RoboCop: Rogue City - Alex Murphy Edition | 271282 | [271282-robocop-rogue-city-alex-murphy-edition.json](./271282-robocop-rogue-city-alex-murphy-edition.json) |
 | RoboCop: Rogue City - Alex Murphy Pack | 275073 | [275073-robocop-rogue-city-alex-murphy-pack.json](./275073-robocop-rogue-city-alex-murphy-pack.json) |
