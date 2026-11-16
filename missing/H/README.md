@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Hear The Bell Toll | 357719 | [357719-hear-the-bell-toll.json](./357719-hear-the-bell-toll.json) |
 | Hear the Picture | 241589 | [241589-hear-the-picture.json](./241589-hear-the-picture.json) |
+| Hear Your Path | 213656 | [213656-hear-your-path.json](./213656-hear-your-path.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
 | Heard There Was A Chosen One | 148009 | [148009-heard-there-was-a-chosen-one.json](./148009-heard-there-was-a-chosen-one.json) |
 | Heardle | 193526 | [193526-heardle.json](./193526-heardle.json) |
@@ -4465,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Hustle: The Unrecord Bank Job | 310851 | [310851-heist-hustle-the-unrecord-bank-job.json](./310851-heist-hustle-the-unrecord-bank-job.json) |
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
 | Heist Man | 344239 | [344239-heist-man.json](./344239-heist-man.json) |
+| Heist Master | 213652 | [213652-heist-master.json](./213652-heist-master.json) |
 | Heist Night | 59831 | [59831-heist-night.json](./59831-heist-night.json) |
 | Heist of Fools | 416349 | [416349-heist-of-fools.json](./416349-heist-of-fools.json) |
 | Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
@@ -8429,6 +8431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
 | Hidden Stroke II: APRM | 209903 | [209903-hidden-stroke-ii-aprm.json](./209903-hidden-stroke-ii-aprm.json) |
 | Hidden Stroke: APRM | 209902 | [209902-hidden-stroke-aprm.json](./209902-hidden-stroke-aprm.json) |
+| Hidden Stuff | 214075 | [214075-hidden-stuff.json](./214075-hidden-stuff.json) |
 | Hidden Superhero Cats: Bonus Level | 296509 | [296509-hidden-superhero-cats-bonus-level.json](./296509-hidden-superhero-cats-bonus-level.json) |
 | Hidden Survivor | 131402 | [131402-hidden-survivor.json](./131402-hidden-survivor.json) |
 | Hidden Swap Buttons | 72227 | [72227-hidden-swap-buttons.json](./72227-hidden-swap-buttons.json) |
