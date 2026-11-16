@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Godzilla Game | 184973 | [184973-yet-another-godzilla-game.json](./184973-yet-another-godzilla-game.json) |
 | Yet Another Hard Game | 166888 | [166888-yet-another-hard-game.json](./166888-yet-another-hard-game.json) |
 | Yet Another Hentai Puzzle | 295323 | [295323-yet-another-hentai-puzzle.json](./295323-yet-another-hentai-puzzle.json) |
+| Yet Another Hentai Puzzle: Cyberpunk | 319257 | [319257-yet-another-hentai-puzzle-cyberpunk.json](./319257-yet-another-hentai-puzzle-cyberpunk.json) |
 | Yet Another Hentai Puzzle: PTSD | 245846 | [245846-yet-another-hentai-puzzle-ptsd.json](./245846-yet-another-hentai-puzzle-ptsd.json) |
 | Yet Another Hero Legend | 118988 | [118988-yet-another-hero-legend.json](./118988-yet-another-hero-legend.json) |
 | Yet Another Hero Story | 120105 | [120105-yet-another-hero-story.json](./120105-yet-another-hero-story.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YinYang Street | 240130 | [240130-yinyang-street.json](./240130-yinyang-street.json) |
 | YinYang Street: Separate Ways | 345818 | [345818-yinyang-street-separate-ways.json](./345818-yinyang-street-separate-ways.json) |
 | Yip Quest | 277101 | [277101-yip-quest.json](./277101-yip-quest.json) |
+| Yippee Skater | 328710 | [328710-yippee-skater.json](./328710-yippee-skater.json) |
 | Yippy Cube | 208270 | [208270-yippy-cube.json](./208270-yippy-cube.json) |
 | Yiqi Huijia ba | 407679 | [407679-yiqi-huijia-ba.json](./407679-yiqi-huijia-ba.json) |
 | YiShi | 295135 | [295135-yishi.json](./295135-yishi.json) |
@@ -1245,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can't Fuck on an Empty Stomach | 118145 | [118145-you-cant-fuck-on-an-empty-stomach.json](./118145-you-cant-fuck-on-an-empty-stomach.json) |
 | You Can't Save Her | 320410 | [320410-you-cant-save-her.json](./320410-you-cant-save-her.json) |
 | You Can't Scare Me | 316908 | [316908-you-cant-scare-me.json](./316908-you-cant-scare-me.json) |
+| You Can't See Ghosts! | 318089 | [318089-you-cant-see-ghosts.json](./318089-you-cant-see-ghosts.json) |
 | You Can't Win This Game | 361263 | [361263-you-cant-win-this-game.json](./361263-you-cant-win-this-game.json) |
 | You Cannot Go Back! | 201990 | [201990-you-cannot-go-back.json](./201990-you-cannot-go-back.json) |
 | You Cans Do It! | 183680 | [183680-you-cans-do-it.json](./183680-you-cans-do-it.json) |
