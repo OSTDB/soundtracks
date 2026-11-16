@@ -3432,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Kingdom! | 401798 | [401798-carrot-kingdom.json](./401798-carrot-kingdom.json) |
 | Carrot Munch | 116456 | [116456-carrot-munch.json](./116456-carrot-munch.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
+| Carrot Overload | 394937 | [394937-carrot-overload.json](./394937-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot Rescue | 284622 | [284622-carrot-rescue.json](./284622-carrot-rescue.json) |
 | Carrot Revenge | 219222 | [219222-carrot-revenge.json](./219222-carrot-revenge.json) |
@@ -9590,6 +9591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronime Puzzle: Girls | 407844 | [407844-chronime-puzzle-girls.json](./407844-chronime-puzzle-girls.json) |
 | Chronique des Silencieux | 218671 | [218671-chronique-des-silencieux.json](./218671-chronique-des-silencieux.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
+| Chronis | 394957 | [394957-chronis.json](./394957-chronis.json) |
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
 | Chrono | 306284 | [306284-chrono.json](./306284-chrono.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
@@ -15121,6 +15123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConC.E.R.Ned | 260513 | [260513-conc-e-r-ned.json](./260513-conc-e-r-ned.json) |
 | Concave Shooter | 186166 | [186166-concave-shooter.json](./186166-concave-shooter.json) |
 | Concealed | 139783 | [139783-concealed.json](./139783-concealed.json) |
+| Concealed | 394976 | [394976-concealed.json](./394976-concealed.json) |
 | Concealed Intent | 35142 | [35142-concealed-intent.json](./35142-concealed-intent.json) |
 | Concealment | 147066 | [147066-concealment.json](./147066-concealment.json) |
 | Concentration | 108544 | [108544-concentration.json](./108544-concentration.json) |
