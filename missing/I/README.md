@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Area 51 | 355889 | [355889-idle-area-51.json](./355889-idle-area-51.json) |
 | Idle Armada | 156750 | [156750-idle-armada.json](./156750-idle-armada.json) |
 | Idle Army Base | 135406 | [135406-idle-army-base.json](./135406-idle-army-base.json) |
+| Idle Asterix | 347940 | [347940-idle-asterix.json](./347940-idle-asterix.json) |
 | Idle Asteroids | 419194 | [419194-idle-asteroids.json](./419194-idle-asteroids.json) |
 | Idle Awakening: Mages Path | 346654 | [346654-idle-awakening-mages-path.json](./346654-idle-awakening-mages-path.json) |
 | Idle Awards 2 | 101701 | [101701-idle-awards-2.json](./101701-idle-awards-2.json) |
@@ -5716,7 +5717,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | InterPlanet | 77721 | [77721-interplanet.json](./77721-interplanet.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
-| Interplanetary | 17083 | [17083-interplanetary.json](./17083-interplanetary.json) |
 | Interplanetary Gardener | 151290 | [151290-interplanetary-gardener.json](./151290-interplanetary-gardener.json) |
 | Interplanetary Hunter | 52293 | [52293-interplanetary-hunter.json](./52293-interplanetary-hunter.json) |
 | Interplanetary Survey Simulator | 346929 | [346929-interplanetary-survey-simulator.json](./346929-interplanetary-survey-simulator.json) |
@@ -5802,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Rift | 35476 | [35476-interstellar-rift.json](./35476-interstellar-rift.json) |
 | Interstellar Rogue | 119457 | [119457-interstellar-rogue.json](./119457-interstellar-rogue.json) |
 | Interstellar Sentinel | 252027 | [252027-interstellar-sentinel.json](./252027-interstellar-sentinel.json) |
+| Interstellar Sentinel 2 | 347927 | [347927-interstellar-sentinel-2.json](./347927-interstellar-sentinel-2.json) |
 | Interstellar Space: Genesis | 110011 | [110011-interstellar-space-genesis.json](./110011-interstellar-space-genesis.json) |
 | Interstellar Space: Genesis - Evolving Empires | 200502 | [200502-interstellar-space-genesis-evolving-empires.json](./200502-interstellar-space-genesis-evolving-empires.json) |
 | Interstellar Space: Genesis - Natural Law | 155230 | [155230-interstellar-space-genesis-natural-law.json](./155230-interstellar-space-genesis-natural-law.json) |
@@ -6571,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Conflict | 140777 | [140777-iron-conflict.json](./140777-iron-conflict.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
 | Iron Corbo: Kung Fu Janitor | 145138 | [145138-iron-corbo-kung-fu-janitor.json](./145138-iron-corbo-kung-fu-janitor.json) |
+| Iron Core: Mech Survivor | 349008 | [349008-iron-core-mech-survivor.json](./349008-iron-core-mech-survivor.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
 | Iron Crypticle | 47981 | [47981-iron-crypticle.json](./47981-iron-crypticle.json) |
@@ -7069,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island M | 142516 | [142516-island-m.json](./142516-island-m.json) |
 | Island Maker | 383738 | [383738-island-maker.json](./383738-island-maker.json) |
 | Island Marauder | 126371 | [126371-island-marauder.json](./126371-island-marauder.json) |
+| Island Market Simulator | 349004 | [349004-island-market-simulator.json](./349004-island-market-simulator.json) |
 | Island Master | 264680 | [264680-island-master.json](./264680-island-master.json) |
 | Island Maze | 110918 | [110918-island-maze.json](./110918-island-maze.json) |
 | Island Miner | 419748 | [419748-island-miner.json](./419748-island-miner.json) |
@@ -7222,6 +7225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
 | Isle Vatra | 161521 | [161521-isle-vatra.json](./161521-isle-vatra.json) |
 | Isles | 209323 | [209323-isles.json](./209323-isles.json) |
+| Isles & Tiles | 347931 | [347931-isles-and-tiles.json](./347931-isles-and-tiles.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Arcana | 422652 | [422652-isles-of-arcana.json](./422652-isles-of-arcana.json) |
 | Isles of Cubes | 155276 | [155276-isles-of-cubes.json](./155276-isles-of-cubes.json) |
