@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Chopping Trees | 403786 | [403786-a-game-about-chopping-trees.json](./403786-a-game-about-chopping-trees.json) |
 | A Game About Clicking Crystals | 379509 | [379509-a-game-about-clicking-crystals.json](./379509-a-game-about-clicking-crystals.json) |
 | A Game About Creating The Universe | 402230 | [402230-a-game-about-creating-the-universe.json](./402230-a-game-about-creating-the-universe.json) |
+| A Game About Cutting A Tree | 347917 | [347917-a-game-about-cutting-a-tree.json](./347917-a-game-about-cutting-a-tree.json) |
 | A Game About Digging A Hole | 325554 | [325554-a-game-about-digging-a-hole.json](./325554-a-game-about-digging-a-hole.json) |
 | A Game About Digging A Hole Together | 420890 | [420890-a-game-about-digging-a-hole-together.json](./420890-a-game-about-digging-a-hole-together.json) |
 | A Game About Dodging Balls | 389708 | [389708-a-game-about-dodging-balls.json](./389708-a-game-about-dodging-balls.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Wands | 321410 | [321410-ace-of-wands.json](./321410-ace-of-wands.json) |
 | Ace of Words | 34543 | [34543-ace-of-words.json](./34543-ace-of-words.json) |
 | Ace Online | 78841 | [78841-ace-online.json](./78841-ace-online.json) |
+| Ace Overheat | 347952 | [347952-ace-overheat.json](./347952-ace-overheat.json) |
 | Ace Pilot Europe | 223212 | [223212-ace-pilot-europe.json](./223212-ace-pilot-europe.json) |
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
@@ -17993,7 +17995,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix | 265030 | [265030-asterix.json](./265030-asterix.json) |
 | Astérix | 7757 | [7757-asterix.json](./7757-asterix.json) |
 | Asterix & Cleopatra | 347915 | [347915-asterix-and-cleopatra.json](./347915-asterix-and-cleopatra.json) |
+| Asterix & Cleopatra | 347918 | [347918-asterix-and-cleopatra.json](./347918-asterix-and-cleopatra.json) |
 | Asterix & Friends | 23621 | [23621-asterix-and-friends.json](./23621-asterix-and-friends.json) |
+| Asterix & Obelix | 347929 | [347929-asterix-and-obelix.json](./347929-asterix-and-obelix.json) |
 | Astérix & Obélix | 14452 | [14452-asterix-and-obelix.json](./14452-asterix-and-obelix.json) |
 | Astérix & Obélix | 228475 | [228475-asterix-and-obelix.json](./228475-asterix-and-obelix.json) |
 | Astérix & Obélix | 347901 | [347901-asterix-and-obelix.json](./347901-asterix-and-obelix.json) |
@@ -18029,11 +18033,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix and the Magic Cauldron | 13339 | [13339-asterix-and-the-magic-cauldron.json](./13339-asterix-and-the-magic-cauldron.json) |
 | Astérix and the Power of the Gods | 19781 | [19781-asterix-and-the-power-of-the-gods.json](./19781-asterix-and-the-power-of-the-gods.json) |
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
+| Astérix and the Vikings | 347936 | [347936-asterix-and-the-vikings.json](./347936-asterix-and-the-vikings.json) |
 | Asterix at the Olympic Games | 348117 | [348117-asterix-at-the-olympic-games.json](./348117-asterix-at-the-olympic-games.json) |
 | Asterix at the Olympic Games | 4681 | [4681-asterix-at-the-olympic-games.json](./4681-asterix-at-the-olympic-games.json) |
 | Asterix Brain Trainer | 67236 | [67236-asterix-brain-trainer.json](./67236-asterix-brain-trainer.json) |
 | Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
 | Asterix Maxi Collection | 331410 | [331410-asterix-maxi-collection.json](./331410-asterix-maxi-collection.json) |
+| Astérix und Obélix: Die Odyssee | 347938 | [347938-asterix-und-obelix-die-odyssee.json](./347938-asterix-und-obelix-die-odyssee.json) |
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
 | Astérix: Hunt for the Boars | 305276 | [305276-asterix-hunt-for-the-boars.json](./305276-asterix-hunt-for-the-boars.json) |
 | Astérix: Hunt for the Boars | 347903 | [347903-asterix-hunt-for-the-boars.json](./347903-asterix-hunt-for-the-boars.json) |
