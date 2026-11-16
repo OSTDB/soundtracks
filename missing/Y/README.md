@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're in the Movies | 7258 | [7258-youre-in-the-movies.json](./7258-youre-in-the-movies.json) |
 | You're Just Imagining It | 294666 | [294666-youre-just-imagining-it.json](./294666-youre-just-imagining-it.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
+| You're My Favorite Person | 368409 | [368409-youre-my-favorite-person.json](./368409-youre-my-favorite-person.json) |
 | You're My Hero | 55934 | [55934-youre-my-hero.json](./55934-youre-my-hero.json) |
 | You're My Penguin | 254650 | [254650-youre-my-penguin.json](./254650-youre-my-penguin.json) |
 | You're Not a Rogue | 141657 | [141657-youre-not-a-rogue.json](./141657-youre-not-a-rogue.json) |
@@ -1546,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Boyfriend | 165460 | [165460-your-boyfriend.json](./165460-your-boyfriend.json) |
 | Your Bum is Talking | 70814 | [70814-your-bum-is-talking.json](./70814-your-bum-is-talking.json) |
 | Your Bunny Wrote | 76102 | [76102-your-bunny-wrote.json](./76102-your-bunny-wrote.json) |
+| Your Butt | 371767 | [371767-your-butt.json](./371767-your-butt.json) |
 | Your Call | 259993 | [259993-your-call.json](./259993-your-call.json) |
 | Your Call Football | 100654 | [100654-your-call-football.json](./100654-your-call-football.json) |
 | Your Canvas | 387638 | [387638-your-canvas.json](./387638-your-canvas.json) |
