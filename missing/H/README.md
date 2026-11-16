@@ -3757,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Of Evil: Source | 334847 | [334847-heart-of-evil-source.json](./334847-heart-of-evil-source.json) |
 | Heart of Fantasy | 404441 | [404441-heart-of-fantasy.json](./404441-heart-of-fantasy.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
+| Heart of Fire | 413305 | [413305-heart-of-fire.json](./413305-heart-of-fire.json) |
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
 | Heart of Homunculus | 362237 | [362237-heart-of-homunculus.json](./362237-heart-of-homunculus.json) |
 | Heart of Ice by Dave Morris | 359334 | [359334-heart-of-ice-by-dave-morris.json](./359334-heart-of-ice-by-dave-morris.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HedgeHogers | 175099 | [175099-hedgehogers.json](./175099-hedgehogers.json) |
 | Hedgehogs in Space | 54080 | [54080-hedgehogs-in-space.json](./54080-hedgehogs-in-space.json) |
 | Hedgehot: Battle Strike | 217498 | [217498-hedgehot-battle-strike.json](./217498-hedgehot-battle-strike.json) |
+| Hedgemaze | 413340 | [413340-hedgemaze.json](./413340-hedgemaze.json) |
 | Hedgephysics ++ | 326545 | [326545-hedgephysics.json](./326545-hedgephysics.json) |
 | Hedgerow | 178875 | [178875-hedgerow.json](./178875-hedgerow.json) |
 | HedgeWars | 28346 | [28346-hedgewars.json](./28346-hedgewars.json) |
