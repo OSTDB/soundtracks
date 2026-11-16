@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | Rapanui | 93471 | [93471-rapanui.json](./93471-rapanui.json) |
+| Rapax | 334390 | [334390-rapax.json](./334390-rapax.json) |
 | Raphael | 194281 | [194281-raphael.json](./194281-raphael.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid | 100305 | [100305-rapid.json](./100305-rapid.json) |
@@ -7830,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Hero | 152869 | [152869-rhythm-hero.json](./152869-rhythm-hero.json) |
 | Rhythm Hive | 143148 | [143148-rhythm-hive.json](./143148-rhythm-hive.json) |
+| Rhythm Hotel | 334359 | [334359-rhythm-hotel.json](./334359-rhythm-hotel.json) |
 | Rhythm Journey | 188305 | [188305-rhythm-journey.json](./188305-rhythm-journey.json) |
 | Rhythm Jungle | 174481 | [174481-rhythm-jungle.json](./174481-rhythm-jungle.json) |
 | Rhythm Knights | 153929 | [153929-rhythm-knights.json](./153929-rhythm-knights.json) |
@@ -9582,6 +9584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Star | 359384 | [359384-road-star.json](./359384-road-star.json) |
 | Road Stomp | 274590 | [274590-road-stomp.json](./274590-road-stomp.json) |
 | Road Stones | 223409 | [223409-road-stones.json](./223409-road-stones.json) |
+| Road Storm | 335525 | [335525-road-storm.json](./335525-road-storm.json) |
 | Road Story | 241819 | [241819-road-story.json](./241819-road-story.json) |
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
@@ -9697,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Da Vinci: In Search of Origins | 414691 | [414691-roads-of-da-vinci-in-search-of-origins.json](./414691-roads-of-da-vinci-in-search-of-origins.json) |
 | Roads of Destiny | 192517 | [192517-roads-of-destiny.json](./192517-roads-of-destiny.json) |
 | Roads of Middle Ages 2: Collector's Edition | 416381 | [416381-roads-of-middle-ages-2-collectors-edition.json](./416381-roads-of-middle-ages-2-collectors-edition.json) |
+| Roads of Rage | 334369 | [334369-roads-of-rage.json](./334369-roads-of-rage.json) |
 | Roads of Rome | 34266 | [34266-roads-of-rome.json](./34266-roads-of-rome.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
