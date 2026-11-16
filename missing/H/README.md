@@ -13298,6 +13298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: På Nye Eventyr - Del 2 | 64506 | [64506-hugo-pa-nye-eventyr-del-2.json](./64506-hugo-pa-nye-eventyr-del-2.json) |
 | Hugo: Penguin Battle | 210540 | [210540-hugo-penguin-battle.json](./210540-hugo-penguin-battle.json) |
 | Hugo: Retro Mania | 64498 | [64498-hugo-retro-mania.json](./64498-hugo-retro-mania.json) |
+| Hugo: Scylla's Revenge | 230588 | [230588-hugo-scyllas-revenge.json](./230588-hugo-scyllas-revenge.json) |
 | Hugo: Smakkaball | 210614 | [210614-hugo-smakkaball.json](./210614-hugo-smakkaball.json) |
 | Hugo: The Bewitched Rollercoaster | 286609 | [286609-hugo-the-bewitched-rollercoaster.json](./286609-hugo-the-bewitched-rollercoaster.json) |
 | Hugo: The Evil Mirror | 345154 | [345154-hugo-the-evil-mirror.json](./345154-hugo-the-evil-mirror.json) |
