@@ -4077,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Boys | 419073 | [419073-battle-boys.json](./419073-battle-boys.json) |
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
+| Battle Bros. | 235963 | [235963-battle-bros.json](./235963-battle-bros.json) |
 | Battle Brothers: Beasts & Exploration | 113990 | [113990-battle-brothers-beasts-and-exploration.json](./113990-battle-brothers-beasts-and-exploration.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
 | Battle Brothers: Complete Edition | 187045 | [187045-battle-brothers-complete-edition.json](./187045-battle-brothers-complete-edition.json) |
@@ -6157,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Mons! | 153135 | [153135-beat-the-mons.json](./153135-beat-the-mons.json) |
 | Beat the Nettles! | 382714 | [382714-beat-the-nettles.json](./382714-beat-the-nettles.json) |
 | Beat the Nightmare: Evil Dreams Simulator VR | 172236 | [172236-beat-the-nightmare-evil-dreams-simulator-vr.json](./172236-beat-the-nightmare-evil-dreams-simulator-vr.json) |
+| Beat the Soul Z | 237714 | [237714-beat-the-soul-z.json](./237714-beat-the-soul-z.json) |
 | Beat the Wall | 323848 | [323848-beat-the-wall.json](./323848-beat-the-wall.json) |
 | Beat Them All | 166676 | [166676-beat-them-all.json](./166676-beat-them-all.json) |
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
@@ -6576,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becoming Pablo | 361852 | [361852-becoming-pablo.json](./361852-becoming-pablo.json) |
 | Becoming Saint | 320411 | [320411-becoming-saint.json](./320411-becoming-saint.json) |
 | Becoming Your Beautiful Cousin | 254923 | [254923-becoming-your-beautiful-cousin.json](./254923-becoming-your-beautiful-cousin.json) |
+| Becrowned | 235901 | [235901-becrowned.json](./235901-becrowned.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Bounce | 313125 | [313125-bed-bounce.json](./313125-bed-bounce.json) |
 | Bed Bugs! | 15665 | [15665-bed-bugs.json](./15665-bed-bugs.json) |
@@ -11108,6 +11111,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Zero II: Empress from "Dragon Marked For Death" | 169044 | [169044-blaster-master-zero-ii-empress-from-dragon-marked-for-death.json](./169044-blaster-master-zero-ii-empress-from-dragon-marked-for-death.json) |
 | Blaster Master Zero III | 145058 | [145058-blaster-master-zero-iii.json](./145058-blaster-master-zero-iii.json) |
 | Blaster Master Zero Trilogy: MetaFight Chronicle - Limited Edition | 166977 | [166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json](./166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json) |
+| Blaster Master Zero: Ex Character - Ekoro | 238159 | [238159-blaster-master-zero-ex-character-ekoro.json](./238159-blaster-master-zero-ex-character-ekoro.json) |
+| Blaster Master Zero: Ex Character - Gunvolt | 238160 | [238160-blaster-master-zero-ex-character-gunvolt.json](./238160-blaster-master-zero-ex-character-gunvolt.json) |
 | Blaster Master Zero: EX Character - Shantae | 171205 | [171205-blaster-master-zero-ex-character-shantae.json](./171205-blaster-master-zero-ex-character-shantae.json) |
 | Blaster Master Zero: EX Character - Shovel Knight | 171206 | [171206-blaster-master-zero-ex-character-shovel-knight.json](./171206-blaster-master-zero-ex-character-shovel-knight.json) |
 | Blaster Master: Blasting Again | 45096 | [45096-blaster-master-blasting-again.json](./45096-blaster-master-blasting-again.json) |
@@ -14879,6 +14884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | BooM | 259424 | [259424-boom.json](./259424-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
+| Boom 42 | 236586 | [236586-boom-42.json](./236586-boom-42.json) |
 | Boom Adventures | 233659 | [233659-boom-adventures.json](./233659-boom-adventures.json) |
 | Boom and Rum | 370412 | [370412-boom-and-rum.json](./370412-boom-and-rum.json) |
 | Boom Arena | 261988 | [261988-boom-arena.json](./261988-boom-arena.json) |
