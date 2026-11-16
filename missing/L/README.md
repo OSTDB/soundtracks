@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
 | Last Night in Tokyo | 148050 | [148050-last-night-in-tokyo.json](./148050-last-night-in-tokyo.json) |
 | Last Night in Zombie Village | 231182 | [231182-last-night-in-zombie-village.json](./231182-last-night-in-zombie-village.json) |
+| Last Night Last Call | 399241 | [399241-last-night-last-call.json](./399241-last-night-last-call.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last Night on Actaeon | 237141 | [237141-last-night-on-actaeon.json](./237141-last-night-on-actaeon.json) |
 | Last Night Shift | 273471 | [273471-last-night-shift.json](./273471-last-night-shift.json) |
@@ -7702,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoSoccer 2 | 300540 | [300540-locosoccer-2.json](./300540-locosoccer-2.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locospotter | 83128 | [83128-locospotter.json](./83128-locospotter.json) |
+| Locostation | 399311 | [399311-locostation.json](./399311-locostation.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
 | Locum Tenens | 383870 | [383870-locum-tenens.json](./383870-locum-tenens.json) |
 | Locura | 265334 | [265334-locura.json](./265334-locura.json) |
@@ -7766,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi: A Year to Fulfill my Dream.mp3 | 214260 | [214260-lofi-a-year-to-fulfill-my-dream-mp3.json](./214260-lofi-a-year-to-fulfill-my-dream-mp3.json) |
 | LofiDrop | 427283 | [427283-lofidrop.json](./427283-lofidrop.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
+| Lofsöng | 399232 | [399232-lofsong.json](./399232-lofsong.json) |
 | Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
 | Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
 | Loftlock | 301455 | [301455-loftlock.json](./301455-loftlock.json) |
@@ -8827,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Lorn's Lure: Danny's Song | 321662 | [321662-lorns-lure-dannys-song.json](./321662-lorns-lure-dannys-song.json) |
+| Lorn's Lure: Parkour Map Pack | 399300 | [399300-lorns-lure-parkour-map-pack.json](./399300-lorns-lure-parkour-map-pack.json) |
 | Lorna | 46936 | [46936-lorna.json](./46936-lorna.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Lornsword Winter Chronicle | 117358 | [117358-lornsword-winter-chronicle.json](./117358-lornsword-winter-chronicle.json) |
