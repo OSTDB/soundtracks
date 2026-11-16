@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Two Kingdoms | 29264 | [29264-a-tale-of-two-kingdoms.json](./29264-a-tale-of-two-kingdoms.json) |
 | A Tale of Two Lovers | 271116 | [271116-a-tale-of-two-lovers.json](./271116-a-tale-of-two-lovers.json) |
 | A Tale of Wind and Sea | 365385 | [365385-a-tale-of-wind-and-sea.json](./365385-a-tale-of-wind-and-sea.json) |
+| A Tangle of Snakes | 411879 | [411879-a-tangle-of-snakes.json](./411879-a-tangle-of-snakes.json) |
 | A Tangled Path | 177757 | [177757-a-tangled-path.json](./177757-a-tangled-path.json) |
 | A Tarot Reading | 183787 | [183787-a-tarot-reading.json](./183787-a-tarot-reading.json) |
 | A Taste for Blood | 273726 | [273726-a-taste-for-blood.json](./273726-a-taste-for-blood.json) |
