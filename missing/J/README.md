@@ -4719,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Wak and Beats | 233959 | [233959-just-wak-and-beats.json](./233959-just-wak-and-beats.json) |
 | Just Walk | 303603 | [303603-just-walk.json](./303603-just-walk.json) |
 | Just War Trains | 313752 | [313752-just-war-trains.json](./313752-just-war-trains.json) |
+| Just Wing It | 294312 | [294312-just-wing-it.json](./294312-just-wing-it.json) |
 | Just Work | 364788 | [364788-just-work.json](./364788-just-work.json) |
 | Just Xiangqi | 235701 | [235701-just-xiangqi.json](./235701-just-xiangqi.json) |
 | Just You | 303602 | [303602-just-you.json](./303602-just-you.json) |
