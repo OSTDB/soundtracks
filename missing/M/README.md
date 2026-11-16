@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainichi Danjo Irekawari Seikatsu?! My Body Your Body | 312483 | [312483-mainichi-danjo-irekawari-seikatsu-my-body-your-body.json](./312483-mainichi-danjo-irekawari-seikatsu-my-body-your-body.json) |
 | Mainichi ga Ecchi | 356055 | [356055-mainichi-ga-ecchi.json](./356055-mainichi-ga-ecchi.json) |
 | Mainichi Issho | 72566 | [72566-mainichi-issho.json](./72566-mainichi-issho.json) |
+| Mainichi Issho Portable | 246065 | [246065-mainichi-issho-portable.json](./246065-mainichi-issho-portable.json) |
 | Mainichi Kedamono!! Love Ero Momoiro School Life | 77925 | [77925-mainichi-kedamono-love-ero-momoiro-school-life.json](./77925-mainichi-kedamono-love-ero-momoiro-school-life.json) |
 | Mainichi Kotsu-kotsu Ore Tower | 395856 | [395856-mainichi-kotsu-kotsu-ore-tower.json](./395856-mainichi-kotsu-kotsu-ore-tower.json) |
 | Mainichi Nekoyoubi | 136622 | [136622-mainichi-nekoyoubi.json](./136622-mainichi-nekoyoubi.json) |
@@ -18928,6 +18929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase Down | 102984 | [102984-moonbase-down.json](./102984-moonbase-down.json) |
 | Moonbase IO | 23340 | [23340-moonbase-io.json](./23340-moonbase-io.json) |
 | Moonbase Lambda | 272959 | [272959-moonbase-lambda.json](./272959-moonbase-lambda.json) |
+| MoonBeam | 250566 | [250566-moonbeam.json](./250566-moonbeam.json) |
 | MoonBeam | 313535 | [313535-moonbeam.json](./313535-moonbeam.json) |
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
