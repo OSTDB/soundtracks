@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ham Ham Monster EX | 287260 | [287260-ham-ham-monster-ex.json](./287260-ham-ham-monster-ex.json) |
 | Ham Hole | 403358 | [403358-ham-hole.json](./403358-ham-hole.json) |
 | Ham on the Run! | 269335 | [269335-ham-on-the-run.json](./269335-ham-on-the-run.json) |
+| Ham Pafe: Hamster no Sweets Puzzle | 312474 | [312474-ham-pafe-hamster-no-sweets-puzzle.json](./312474-ham-pafe-hamster-no-sweets-puzzle.json) |
 | Ham Supi | 199769 | [199769-ham-supi.json](./199769-ham-supi.json) |
 | Ham Tank! | 420576 | [420576-ham-tank.json](./420576-ham-tank.json) |
 | Ham-Master | 125081 | [125081-ham-master.json](./125081-ham-master.json) |
@@ -6023,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Pair | 366508 | [366508-hentai-pair.json](./366508-hentai-pair.json) |
 | Hentai Pansuto | 286724 | [286724-hentai-pansuto.json](./286724-hentai-pansuto.json) |
 | Hentai Panty: Private Collection | 413364 | [413364-hentai-panty-private-collection.json](./413364-hentai-panty-private-collection.json) |
+| Hentai Paradise Vol. 1 | 308661 | [308661-hentai-paradise-vol-1.json](./308661-hentai-paradise-vol-1.json) |
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
 | Hentai Paradise Vol. 3 | 316263 | [316263-hentai-paradise-vol-3.json](./316263-hentai-paradise-vol-3.json) |
 | Hentai Paradise Vol. 4 | 316262 | [316262-hentai-paradise-vol-4.json](./316262-hentai-paradise-vol-4.json) |
@@ -11202,6 +11204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoozuki no Yakusai | 376674 | [376674-hoozuki-no-yakusai.json](./376674-hoozuki-no-yakusai.json) |
 | Hop | 86964 | [86964-hop.json](./86964-hop.json) |
 | Hop - Endless Arcade Hopper | 87167 | [87167-hop-endless-arcade-hopper.json](./87167-hop-endless-arcade-hopper.json) |
+| Hop 'n' Marty | 310323 | [310323-hop-n-marty.json](./310323-hop-n-marty.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
 | Hop Ball: Hop to Crush Slices | 108723 | [108723-hop-ball-hop-to-crush-slices.json](./108723-hop-ball-hop-to-crush-slices.json) |
