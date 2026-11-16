@@ -16966,7 +16966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arx, After the Reckoning | 228694 | [228694-arx-after-the-reckoning.json](./228694-arx-after-the-reckoning.json) |
 | Arx: End of Sun | 386114 | [386114-arx-end-of-sun.json](./386114-arx-end-of-sun.json) |
 | Arxon | 93062 | [93062-arxon.json](./93062-arxon.json) |
-| Ary and the Secret of Seasons | 54645 | [54645-ary-and-the-secret-of-seasons.json](./54645-ary-and-the-secret-of-seasons.json) |
 | Arya Vaiv | 69710 | [69710-arya-vaiv.json](./69710-arya-vaiv.json) |
 | Aryze | 419625 | [419625-aryze.json](./419625-aryze.json) |
 | Arzea | 400009 | [400009-arzea.json](./400009-arzea.json) |
@@ -19350,6 +19349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic | 324958 | [324958-atomic.json](./324958-atomic.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Adam: Episode 1 | 79801 | [79801-atomic-adam-episode-1.json](./79801-atomic-adam-episode-1.json) |
+| Atomic Age | 372913 | [372913-atomic-age.json](./372913-atomic-age.json) |
 | Atomic Arena | 293568 | [293568-atomic-arena.json](./293568-atomic-arena.json) |
 | Atomic Betty | 6312 | [6312-atomic-betty.json](./6312-atomic-betty.json) |
 | Atomic Betty 2 | 202191 | [202191-atomic-betty-2.json](./202191-atomic-betty-2.json) |
