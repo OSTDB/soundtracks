@@ -7142,7 +7142,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma No Akumu: Ar Eq-Kua Er Seta | 338133 | [338133-akuma-no-akumu-ar-eq-kua-er-seta.json](./338133-akuma-no-akumu-ar-eq-kua-er-seta.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
-| Akuma Rise | 395965 | [395965-akuma-rise.json](./395965-akuma-rise.json) |
 | Akuma Shitsuji to Kuroi Neko | 367762 | [367762-akuma-shitsuji-to-kuroi-neko.json](./367762-akuma-shitsuji-to-kuroi-neko.json) |
 | Akuma-kun: Makai no Wana | 48605 | [48605-akuma-kun-makai-no-wana.json](./48605-akuma-kun-makai-no-wana.json) |
 | Akuma-kun: Taose! Cerberus | 385756 | [385756-akuma-kun-taose-cerberus.json](./385756-akuma-kun-taose-cerberus.json) |
@@ -7589,6 +7588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex: An Adventure Between the Ages | 348544 | [348544-alex-an-adventure-between-the-ages.json](./348544-alex-an-adventure-between-the-ages.json) |
 | Alex: Virus Composer | 364154 | [364154-alex-virus-composer.json](./364154-alex-virus-composer.json) |
 | Alex's Caves | 316145 | [316145-alexs-caves.json](./316145-alexs-caves.json) |
+| Alex's Hope & Alex's Solitude | 272993 | [272993-alexs-hope-and-alexs-solitude.json](./272993-alexs-hope-and-alexs-solitude.json) |
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
 | Alex's Mobs | 334021 | [334021-alexs-mobs.json](./334021-alexs-mobs.json) |
 | Alex's Sketchbook World | 359618 | [359618-alexs-sketchbook-world.json](./359618-alexs-sketchbook-world.json) |
@@ -7944,6 +7944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bloom | 411508 | [411508-alien-bloom.json](./411508-alien-bloom.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Boom Boom | 247917 | [247917-alien-boom-boom.json](./247917-alien-boom-boom.json) |
+| Alien Bounty | 272994 | [272994-alien-bounty.json](./272994-alien-bounty.json) |
 | Alien Break-In | 13303 | [13303-alien-break-in.json](./13303-alien-break-in.json) |
 | Alien Breaker | 98130 | [98130-alien-breaker.json](./98130-alien-breaker.json) |
 | Alien Breaker Deluxe | 225515 | [225515-alien-breaker-deluxe.json](./225515-alien-breaker-deluxe.json) |
@@ -8801,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alleymental | 424570 | [424570-alleymental.json](./424570-alleymental.json) |
 | AlleyRat | 342175 | [342175-alleyrat.json](./342175-alleyrat.json) |
 | Alleys | 102508 | [102508-alleys.json](./102508-alleys.json) |
+| Alleys | 273056 | [273056-alleys.json](./273056-alleys.json) |
 | AlleyStrat | 342176 | [342176-alleystrat.json](./342176-alleystrat.json) |
 | Alleyway | 7751 | [7751-alleyway.json](./7751-alleyway.json) |
 | Alleyway DX | 279682 | [279682-alleyway-dx.json](./279682-alleyway-dx.json) |
@@ -12288,7 +12290,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 117: Pax Romana - Echoes of Kassandra Pack | 421817 | [421817-anno-117-pax-romana-echoes-of-kassandra-pack.json](./421817-anno-117-pax-romana-echoes-of-kassandra-pack.json) |
 | Anno 117: Pax Romana - Gold Edition | 377778 | [377778-anno-117-pax-romana-gold-edition.json](./377778-anno-117-pax-romana-gold-edition.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
-| Anno 117: Pax Romana - Prophecies of Ash | 400218 | [400218-anno-117-pax-romana-prophecies-of-ash.json](./400218-anno-117-pax-romana-prophecies-of-ash.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
 | Anno 117: Pax Romana – The Hippodrome | 414760 | [414760-anno-117-pax-romana-the-hippodrome.json](./414760-anno-117-pax-romana-the-hippodrome.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
@@ -15969,6 +15970,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 273046 | [273046-arkanoid.json](./273046-arkanoid.json) |
 | Arkanoid | 273047 | [273047-arkanoid.json](./273047-arkanoid.json) |
 | Arkanoid | 273048 | [273048-arkanoid.json](./273048-arkanoid.json) |
+| Arkanoid | 273049 | [273049-arkanoid.json](./273049-arkanoid.json) |
+| Arkanoid | 273051 | [273051-arkanoid.json](./273051-arkanoid.json) |
 | Arkanoid | 309173 | [309173-arkanoid.json](./309173-arkanoid.json) |
 | Arkanoid | 311341 | [311341-arkanoid.json](./311341-arkanoid.json) |
 | Arkanoid | 326864 | [326864-arkanoid.json](./326864-arkanoid.json) |
@@ -15978,7 +15981,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid 4000 | 73605 | [73605-arkanoid-4000.json](./73605-arkanoid-4000.json) |
 | Arkanoid DS | 21495 | [21495-arkanoid-ds.json](./21495-arkanoid-ds.json) |
 | Arkanoid For Painters | 106337 | [106337-arkanoid-for-painters.json](./106337-arkanoid-for-painters.json) |
+| Arkanoid II | 273050 | [273050-arkanoid-ii.json](./273050-arkanoid-ii.json) |
 | Arkanoid II | 273063 | [273063-arkanoid-ii.json](./273063-arkanoid-ii.json) |
+| Arkanoid II: Revenge of Doh | 273057 | [273057-arkanoid-ii-revenge-of-doh.json](./273057-arkanoid-ii-revenge-of-doh.json) |
+| Arkanoid II: Revenge of Doh | 273060 | [273060-arkanoid-ii-revenge-of-doh.json](./273060-arkanoid-ii-revenge-of-doh.json) |
 | Arkanoid II: Revenge of Doh | 273066 | [273066-arkanoid-ii-revenge-of-doh.json](./273066-arkanoid-ii-revenge-of-doh.json) |
 | Arkanoid Live! | 72559 | [72559-arkanoid-live.json](./72559-arkanoid-live.json) |
 | Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
@@ -15993,6 +15999,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Eternal Battle - Battle Royale F2P Edition | 283930 | [283930-arkanoid-eternal-battle-battle-royale-f2p-edition.json](./283930-arkanoid-eternal-battle-battle-royale-f2p-edition.json) |
 | Arkanoid: Eternal Battle - Limited Edition | 219425 | [219425-arkanoid-eternal-battle-limited-edition.json](./219425-arkanoid-eternal-battle-limited-edition.json) |
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
+| Arkanoid: Revenge of Doh | 273052 | [273052-arkanoid-revenge-of-doh.json](./273052-arkanoid-revenge-of-doh.json) |
+| Arkanoid: Revenge of Doh | 273053 | [273053-arkanoid-revenge-of-doh.json](./273053-arkanoid-revenge-of-doh.json) |
+| Arkanoid: Revenge of Doh | 273055 | [273055-arkanoid-revenge-of-doh.json](./273055-arkanoid-revenge-of-doh.json) |
+| Arkanoid: Revenge of Doh | 273058 | [273058-arkanoid-revenge-of-doh.json](./273058-arkanoid-revenge-of-doh.json) |
+| Arkanoid: Revenge of Doh | 273062 | [273062-arkanoid-revenge-of-doh.json](./273062-arkanoid-revenge-of-doh.json) |
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkansas 2125 | 410031 | [410031-arkansas-2125.json](./410031-arkansas-2125.json) |
@@ -20831,6 +20842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakeness | 410673 | [410673-awakeness.json](./410673-awakeness.json) |
 | Awakening | 105765 | [105765-awakening.json](./105765-awakening.json) |
 | Awakening | 264059 | [264059-awakening.json](./264059-awakening.json) |
+| Awakening | 273061 | [273061-awakening.json](./273061-awakening.json) |
 | Awakening | 377505 | [377505-awakening.json](./377505-awakening.json) |
 | Awakening Automata | 174766 | [174766-awakening-automata.json](./174766-awakening-automata.json) |
 | Awakening of Celestial | 101385 | [101385-awakening-of-celestial.json](./101385-awakening-of-celestial.json) |
