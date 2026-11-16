@@ -4881,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Day | 70461 | [70461-liberation-day.json](./70461-liberation-day.json) |
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberation Mutagenix | 166829 | [166829-liberation-mutagenix.json](./166829-liberation-mutagenix.json) |
+| Liberation Special Forces | 225983 | [225983-liberation-special-forces.json](./225983-liberation-special-forces.json) |
 | Liberation: Captive II | 12665 | [12665-liberation-captive-ii.json](./12665-liberation-captive-ii.json) |
 | LiberationTeam | 391936 | [391936-liberationteam.json](./391936-liberationteam.json) |
 | Liberator | 15250 | [15250-liberator.json](./15250-liberator.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | License to Breed | 262579 | [262579-license-to-breed.json](./262579-license-to-breed.json) |
 | License To Clone | 319689 | [319689-license-to-clone.json](./319689-license-to-clone.json) |
 | License to Grill | 366800 | [366800-license-to-grill.json](./366800-license-to-grill.json) |
+| Lich Clicker | 224675 | [224675-lich-clicker.json](./224675-lich-clicker.json) |
 | Lich Defense 2 | 244817 | [244817-lich-defense-2.json](./244817-lich-defense-2.json) |
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lich Lords | 407890 | [407890-lich-lords.json](./407890-lich-lords.json) |
