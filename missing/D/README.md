@@ -10120,6 +10120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Young | 33758 | [33758-die-young.json](./33758-die-young.json) |
 | Die Young: Prologue | 118781 | [118781-die-young-prologue.json](./118781-die-young-prologue.json) |
 | Die Zuschauer | 405657 | [405657-die-zuschauer.json](./405657-die-zuschauer.json) |
+| Die-abolical | 306844 | [306844-die-abolical.json](./306844-die-abolical.json) |
 | Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
 | Die, A.I | 203191 | [203191-die-a-i.json](./203191-die-a-i.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
@@ -11920,6 +11921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hotshots: Disney's 101 Dalmatians | 228661 | [228661-disney-hotshots-disneys-101-dalmatians.json](./228661-disney-hotshots-disneys-101-dalmatians.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
+| Disney Illusion Island: Mystery in Monoth | 306161 | [306161-disney-illusion-island-mystery-in-monoth.json](./306161-disney-illusion-island-mystery-in-monoth.json) |
 | Disney Infinity | 300594 | [300594-disney-infinity.json](./300594-disney-infinity.json) |
 | Disney Infinity 2.0 Spider-Man Playset | 263922 | [263922-disney-infinity-2-0-spider-man-playset.json](./263922-disney-infinity-2-0-spider-man-playset.json) |
 | Disney Infinity 2.0: Gold Edition | 30978 | [30978-disney-infinity-2-0-gold-edition.json](./30978-disney-infinity-2-0-gold-edition.json) |
@@ -14826,6 +14828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
+| Doodle Hunt: Search Hidden Items | 306837 | [306837-doodle-hunt-search-hidden-items.json](./306837-doodle-hunt-search-hidden-items.json) |
 | Doodle Jamboree | 54451 | [54451-doodle-jamboree.json](./54451-doodle-jamboree.json) |
 | Doodle Jump | 28729 | [28729-doodle-jump.json](./28729-doodle-jump.json) |
 | Doodle Jump 2 | 186583 | [186583-doodle-jump-2.json](./186583-doodle-jump-2.json) |
@@ -16681,6 +16684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
+| Dragon Ball Xenoverse: Movie Costume Pack | 306847 | [306847-dragon-ball-xenoverse-movie-costume-pack.json](./306847-dragon-ball-xenoverse-movie-costume-pack.json) |
 | Dragon Ball Xenoverse: Trunk's Travel Edition | 41641 | [41641-dragon-ball-xenoverse-trunks-travel-edition.json](./41641-dragon-ball-xenoverse-trunks-travel-edition.json) |
 | Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
 | Dragon Ball Z | 2560 | [2560-dragon-ball-z.json](./2560-dragon-ball-z.json) |
