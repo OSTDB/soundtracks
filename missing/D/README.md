@@ -3494,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona USA Deluxe | 73482 | [73482-daytona-usa-deluxe.json](./73482-daytona-usa-deluxe.json) |
 | Daytona USA: Championship Circuit Edition | 45500 | [45500-daytona-usa-championship-circuit-edition.json](./45500-daytona-usa-championship-circuit-edition.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
+| DayZ: Badlands | 351327 | [351327-dayz-badlands.json](./351327-dayz-badlands.json) |
 | DayZ: Cool Edition | 331815 | [331815-dayz-cool-edition.json](./331815-dayz-cool-edition.json) |
 | DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
 | DayZ: Livonia | 122663 | [122663-dayz-livonia.json](./122663-dayz-livonia.json) |
@@ -11792,6 +11793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Classic Games: Aladdin, The Lion King and The Jungle Book | 241721 | [241721-disney-classic-games-aladdin-the-lion-king-and-the-jungle-book.json](./241721-disney-classic-games-aladdin-the-lion-king-and-the-jungle-book.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
 | Disney Coloring Book | 290321 | [290321-disney-coloring-book.json](./290321-disney-coloring-book.json) |
+| Disney Coloring World | 351311 | [351311-disney-coloring-world.json](./351311-disney-coloring-world.json) |
 | Disney Crossy Road | 58672 | [58672-disney-crossy-road.json](./58672-disney-crossy-road.json) |
 | Disney Dreamlight Valley: A Festival of Friendship | 237836 | [237836-disney-dreamlight-valley-a-festival-of-friendship.json](./237836-disney-dreamlight-valley-a-festival-of-friendship.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle | 279238 | [279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json](./279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json) |
@@ -20395,6 +20397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
 | Dungeon Clicker | 150405 | [150405-dungeon-clicker.json](./150405-dungeon-clicker.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
+| Dungeon CompAInions | 351317 | [351317-dungeon-compainions.json](./351317-dungeon-compainions.json) |
 | Dungeon Companion | 393205 | [393205-dungeon-companion.json](./393205-dungeon-companion.json) |
 | Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
