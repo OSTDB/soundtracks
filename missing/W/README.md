@@ -1740,10 +1740,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40K Bundle | 335613 | [335613-warhammer-40k-bundle.json](./335613-warhammer-40k-bundle.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
 | Warhammer Age of Sigmar: Realm War | 109557 | [109557-warhammer-age-of-sigmar-realm-war.json](./109557-warhammer-age-of-sigmar-realm-war.json) |
+| Warhammer Age of Sigmar: Realms of Ruin - Deluxe Edition | 262634 | [262634-warhammer-age-of-sigmar-realms-of-ruin-deluxe-edition.json](./262634-warhammer-age-of-sigmar-realms-of-ruin-deluxe-edition.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - Gaunt Summoner | 295728 | [295728-warhammer-age-of-sigmar-realms-of-ruin-gaunt-summoner.json](./295728-warhammer-age-of-sigmar-realms-of-ruin-gaunt-summoner.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - Kurdoss Valentian, The Craven King | 295729 | [295729-warhammer-age-of-sigmar-realms-of-ruin-kurdoss-valentian-the-craven-king.json](./295729-warhammer-age-of-sigmar-realms-of-ruin-kurdoss-valentian-the-craven-king.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Gobsprakk, The Mouth of Mork Pack | 279093 | [279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json](./279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Yndrasta, Celestial Spear Pack | 279094 | [279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json](./279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json) |
+| Warhammer Age of Sigmar: Realms of Ruin - Ultimate Edition | 262633 | [262633-warhammer-age-of-sigmar-realms-of-ruin-ultimate-edition.json](./262633-warhammer-age-of-sigmar-realms-of-ruin-ultimate-edition.json) |
 | Warhammer Age of Sigmar: Soul Arena | 148984 | [148984-warhammer-age-of-sigmar-soul-arena.json](./148984-warhammer-age-of-sigmar-soul-arena.json) |
 | Warhammer Age of Sigmar: Storm Ground | 137328 | [137328-warhammer-age-of-sigmar-storm-ground.json](./137328-warhammer-age-of-sigmar-storm-ground.json) |
 | Warhammer Age of Sigmar: Tempestfall | 145080 | [145080-warhammer-age-of-sigmar-tempestfall.json](./145080-warhammer-age-of-sigmar-tempestfall.json) |
@@ -2430,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartune Ultra | 392881 | [392881-wartune-ultra.json](./392881-wartune-ultra.json) |
 | Warui Kami | 225501 | [225501-warui-kami.json](./225501-warui-kami.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
+| WarWar Battle Kingdom | 262626 | [262626-warwar-battle-kingdom.json](./262626-warwar-battle-kingdom.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | WarWizard | 233329 | [233329-warwizard.json](./233329-warwizard.json) |
 | Waryong Three Kingdoms | 208741 | [208741-waryong-three-kingdoms.json](./208741-waryong-three-kingdoms.json) |
@@ -5869,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Season | 47125 | [47125-wild-season.json](./47125-wild-season.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
+| Wild Shot | 262628 | [262628-wild-shot.json](./262628-wild-shot.json) |
 | Wild Shot: Animal Savior | 348196 | [348196-wild-shot-animal-savior.json](./348196-wild-shot-animal-savior.json) |
 | Wild Snake | 49055 | [49055-wild-snake.json](./49055-wild-snake.json) |
 | Wild Snap | 367577 | [367577-wild-snap.json](./367577-wild-snap.json) |
