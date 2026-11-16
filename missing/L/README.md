@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Caverns 2 | 57079 | [57079-lazy-caverns-2.json](./57079-lazy-caverns-2.json) |
 | Lazy Caverns Attack!! | 57078 | [57078-lazy-caverns-attack.json](./57078-lazy-caverns-attack.json) |
 | Lazy Chess | 142734 | [142734-lazy-chess.json](./142734-lazy-chess.json) |
+| Lazy Chimps | 337900 | [337900-lazy-chimps.json](./337900-lazy-chimps.json) |
 | Lazy Climbers | 400464 | [400464-lazy-climbers.json](./400464-lazy-climbers.json) |
 | Lazy Devil's game life | 95257 | [95257-lazy-devils-game-life.json](./95257-lazy-devils-game-life.json) |
 | Lazy Dog | 336322 | [336322-lazy-dog.json](./336322-lazy-dog.json) |
@@ -7764,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loe: Legend of Enomoto | 278072 | [278072-loe-legend-of-enomoto.json](./278072-loe-legend-of-enomoto.json) |
 | Loek | 129976 | [129976-loek.json](./129976-loek.json) |
 | Lofelia's Cozy Corner | 416097 | [416097-lofelias-cozy-corner.json](./416097-lofelias-cozy-corner.json) |
+| Lofi aquarium | 337865 | [337865-lofi-aquarium.json](./337865-lofi-aquarium.json) |
 | Lofi Ball | 256276 | [256276-lofi-ball.json](./256276-lofi-ball.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofi Ball: Dungeon | 256278 | [256278-lofi-ball-dungeon.json](./256278-lofi-ball-dungeon.json) |
@@ -11247,6 +11249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lúnhuí Xiūzhēn OL | 163890 | [163890-lunhui-xiuzhen-ol.json](./163890-lunhui-xiuzhen-ol.json) |
 | Lunia | 51619 | [51619-lunia.json](./51619-lunia.json) |
 | Lunia Record | 304511 | [304511-lunia-record.json](./304511-lunia-record.json) |
+| Lunia Z Global | 337868 | [337868-lunia-z-global.json](./337868-lunia-z-global.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunia: Record of Lunia War | 78769 | [78769-lunia-record-of-lunia-war.json](./78769-lunia-record-of-lunia-war.json) |
 | Lunic: Possession | 289049 | [289049-lunic-possession.json](./289049-lunic-possession.json) |
@@ -11262,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luntik Knows the World | 268371 | [268371-luntik-knows-the-world.json](./268371-luntik-knows-the-world.json) |
 | Luntik Learns Letters | 268373 | [268373-luntik-learns-letters.json](./268373-luntik-learns-letters.json) |
 | Luntik Learns Numbers | 268369 | [268369-luntik-learns-numbers.json](./268369-luntik-learns-numbers.json) |
+| Luntik: Matematika dlya malishey | 337901 | [337901-luntik-matematika-dlya-malishey.json](./337901-luntik-matematika-dlya-malishey.json) |
 | Lunyatic Invaders | 409117 | [409117-lunyatic-invaders.json](./409117-lunyatic-invaders.json) |
 | Luobu | 271067 | [271067-luobu.json](./271067-luobu.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
