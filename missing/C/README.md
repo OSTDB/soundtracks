@@ -22304,6 +22304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling | 246171 | [246171-curling.json](./246171-curling.json) |
 | Curling | 359188 | [359188-curling.json](./359188-curling.json) |
 | Curling | 359306 | [359306-curling.json](./359306-curling.json) |
+| Curling | 406352 | [406352-curling.json](./406352-curling.json) |
 | Curling 2010 | 230688 | [230688-curling-2010.json](./230688-curling-2010.json) |
 | Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
 | Curling 2012 | 52334 | [52334-curling-2012.json](./52334-curling-2012.json) |
@@ -22800,6 +22801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Chaos Demon Nyanbaba | 232907 | [232907-cute-chaos-demon-nyanbaba.json](./232907-cute-chaos-demon-nyanbaba.json) |
 | Cute Chess | 190253 | [190253-cute-chess.json](./190253-cute-chess.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
+| Cute Country | 406358 | [406358-cute-country.json](./406358-cute-country.json) |
 | Cute Critters Pet Kitty | 278488 | [278488-cute-critters-pet-kitty.json](./278488-cute-critters-pet-kitty.json) |
 | Cute Cute Cuties | 368065 | [368065-cute-cute-cuties.json](./368065-cute-cute-cuties.json) |
 | Cute Dark Elves | 150740 | [150740-cute-dark-elves.json](./150740-cute-dark-elves.json) |
@@ -23457,6 +23459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSpeed | 20268 | [20268-cyberspeed.json](./20268-cyberspeed.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberSphere Online | 75290 | [75290-cybersphere-online.json](./75290-cybersphere-online.json) |
+| Cybersport Manager | 406361 | [406361-cybersport-manager.json](./406361-cybersport-manager.json) |
 | CyberSprawl: Survivors | 422164 | [422164-cybersprawl-survivors.json](./422164-cybersprawl-survivors.json) |
 | Cyberstellar | 195407 | [195407-cyberstellar.json](./195407-cyberstellar.json) |
 | Cyberstorm | 204959 | [204959-cyberstorm.json](./204959-cyberstorm.json) |
