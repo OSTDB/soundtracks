@@ -4614,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
 | Sea of Thieves: Deluxe Edition | 241859 | [241859-sea-of-thieves-deluxe-edition.json](./241859-sea-of-thieves-deluxe-edition.json) |
 | Sea of Thieves: Festival of the Damned | 129487 | [129487-sea-of-thieves-festival-of-the-damned.json](./129487-sea-of-thieves-festival-of-the-damned.json) |
+| Sea of Thieves: Fights & Festivals - Season 19 | 408995 | [408995-sea-of-thieves-fights-and-festivals-season-19.json](./408995-sea-of-thieves-fights-and-festivals-season-19.json) |
 | Sea of Thieves: Forsaken Shores | 103285 | [103285-sea-of-thieves-forsaken-shores.json](./103285-sea-of-thieves-forsaken-shores.json) |
 | Sea of Thieves: Reaper's Rule - Season 16 | 354373 | [354373-sea-of-thieves-reapers-rule-season-16.json](./354373-sea-of-thieves-reapers-rule-season-16.json) |
 | Sea of Thieves: Season 1 | 144847 | [144847-sea-of-thieves-season-1.json](./144847-sea-of-thieves-season-1.json) |
@@ -28190,6 +28191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall: Inferno of Worlds | 348113 | [348113-starfall-inferno-of-worlds.json](./348113-starfall-inferno-of-worlds.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfallen | 60261 | [60261-starfallen.json](./60261-starfallen.json) |
+| Starfallen: Strength | 409154 | [409154-starfallen-strength.json](./409154-starfallen-strength.json) |
 | Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
 | Starfell | 333430 | [333430-starfell.json](./333430-starfell.json) |
 | Starfell | 372792 | [372792-starfell.json](./372792-starfell.json) |
@@ -34151,6 +34153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Doll | 316542 | [316542-sunrise-doll.json](./316542-sunrise-doll.json) |
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise Eiyuutan | 274293 | [274293-sunrise-eiyuutan.json](./274293-sunrise-eiyuutan.json) |
+| Sunrise Eiyuutan 2 | 409800 | [409800-sunrise-eiyuutan-2.json](./409800-sunrise-eiyuutan-2.json) |
 | Sunrise Eiyuutan 3 | 409802 | [409802-sunrise-eiyuutan-3.json](./409802-sunrise-eiyuutan-3.json) |
 | Sunrise Eiyuutan R | 274074 | [274074-sunrise-eiyuutan-r.json](./274074-sunrise-eiyuutan-r.json) |
 | Sunrise GP | 245893 | [245893-sunrise-gp.json](./245893-sunrise-gp.json) |
@@ -39323,6 +39326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Madness | 326868 | [326868-swarm-madness.json](./326868-swarm-madness.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
 | Swarm of the Plague Babies | 178789 | [178789-swarm-of-the-plague-babies.json](./178789-swarm-of-the-plague-babies.json) |
+| Swarm of the Sea | 409169 | [409169-swarm-of-the-sea.json](./409169-swarm-of-the-sea.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
 | Swarm Racer 3000 | 330077 | [330077-swarm-racer-3000.json](./330077-swarm-racer-3000.json) |
 | Swarm Rampage | 91577 | [91577-swarm-rampage.json](./91577-swarm-rampage.json) |
