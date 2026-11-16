@@ -2616,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainframent | 361373 | [361373-mainframent.json](./361373-mainframent.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
+| Mainichi Danjo Irekawari Seikatsu?! My Body Your Body | 312483 | [312483-mainichi-danjo-irekawari-seikatsu-my-body-your-body.json](./312483-mainichi-danjo-irekawari-seikatsu-my-body-your-body.json) |
 | Mainichi ga Ecchi | 356055 | [356055-mainichi-ga-ecchi.json](./356055-mainichi-ga-ecchi.json) |
 | Mainichi Issho | 72566 | [72566-mainichi-issho.json](./72566-mainichi-issho.json) |
 | Mainichi Kedamono!! Love Ero Momoiro School Life | 77925 | [77925-mainichi-kedamono-love-ero-momoiro-school-life.json](./77925-mainichi-kedamono-love-ero-momoiro-school-life.json) |
@@ -10647,6 +10648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Kuya Island | 208157 | [208157-merge-kuya-island.json](./208157-merge-kuya-island.json) |
 | Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
 | Merge Magic! | 140763 | [140763-merge-magic.json](./140763-merge-magic.json) |
+| Merge Mango | 310301 | [310301-merge-mango.json](./310301-merge-mango.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
 | Merge Master | 269367 | [269367-merge-master.json](./269367-merge-master.json) |
@@ -14454,6 +14456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Car Racing 2 | 172864 | [172864-mini-car-racing-2.json](./172864-mini-car-racing-2.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
 | Mini Cars Puzzle | 262804 | [262804-mini-cars-puzzle.json](./262804-mini-cars-puzzle.json) |
+| Mini City | 310304 | [310304-mini-city.json](./310304-mini-city.json) |
 | Mini City Craft | 103684 | [103684-mini-city-craft.json](./103684-mini-city-craft.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Coins | 412336 | [412336-mini-coins.json](./412336-mini-coins.json) |
@@ -18609,6 +18612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
+| Monsuta | 310320 | [310320-monsuta.json](./310320-monsuta.json) |
 | MonSweeper | 179095 | [179095-monsweeper.json](./179095-monsweeper.json) |
 | Montabi | 347027 | [347027-montabi.json](./347027-montabi.json) |
 | Montague's Mount | 10555 | [10555-montagues-mount.json](./10555-montagues-mount.json) |
@@ -23685,6 +23689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Magical Girlfriends | 210775 | [210775-my-magical-girlfriends.json](./210775-my-magical-girlfriends.json) |
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
+| My Maid Girls | 310773 | [310773-my-maid-girls.json](./310773-my-maid-girls.json) |
 | My Maitê | 152515 | [152515-my-maite.json](./152515-my-maite.json) |
 | My Make Believe Castle | 329472 | [329472-my-make-believe-castle.json](./329472-my-make-believe-castle.json) |
 | My Make Believe Treasure Isle | 329471 | [329471-my-make-believe-treasure-isle.json](./329471-my-make-believe-treasure-isle.json) |
