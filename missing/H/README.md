@@ -5075,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Happy Town | 96208 | [96208-hello-kitty-happy-town.json](./96208-hello-kitty-happy-town.json) |
 | Hello Kitty Island Adventure: City Town | 398073 | [398073-hello-kitty-island-adventure-city-town.json](./398073-hello-kitty-island-adventure-city-town.json) |
 | Hello Kitty Island Adventure: Deluxe Edition | 330200 | [330200-hello-kitty-island-adventure-deluxe-edition.json](./330200-hello-kitty-island-adventure-deluxe-edition.json) |
+| Hello Kitty Island Adventure: Wheatflour Wonderland | 358533 | [358533-hello-kitty-island-adventure-wheatflour-wonderland.json](./358533-hello-kitty-island-adventure-wheatflour-wonderland.json) |
 | Hello Kitty Jewel Town | 279607 | [279607-hello-kitty-jewel-town.json](./279607-hello-kitty-jewel-town.json) |
 | Hello Kitty Kawaii Town | 250129 | [250129-hello-kitty-kawaii-town.json](./250129-hello-kitty-kawaii-town.json) |
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
@@ -12151,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Infinite Rush: Just for Fun Pack | 421206 | [421206-hot-wheels-infinite-rush-just-for-fun-pack.json](./421206-hot-wheels-infinite-rush-just-for-fun-pack.json) |
 | Hot Wheels Infinite Rush: Power & Pace Pack | 411830 | [411830-hot-wheels-infinite-rush-power-and-pace-pack.json](./411830-hot-wheels-infinite-rush-power-and-pace-pack.json) |
 | Hot Wheels Infinite Rush: Vehicle Pass | 421207 | [421207-hot-wheels-infinite-rush-vehicle-pass.json](./421207-hot-wheels-infinite-rush-vehicle-pass.json) |
+| Hot Wheels Let’s Race: Ultimate Speed | 360793 | [360793-hot-wheels-let-s-race-ultimate-speed.json](./360793-hot-wheels-let-s-race-ultimate-speed.json) |
 | Hot Wheels Let's Race: Ultimate Speed - Deluxe Edition | 371436 | [371436-hot-wheels-lets-race-ultimate-speed-deluxe-edition.json](./371436-hot-wheels-lets-race-ultimate-speed-deluxe-edition.json) |
 | Hot Wheels Let's Race: Ultimate Speed - High Voltage Speed Pack | 371438 | [371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json](./371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json) |
 | Hot Wheels Micro Racers | 163632 | [163632-hot-wheels-micro-racers.json](./163632-hot-wheels-micro-racers.json) |
