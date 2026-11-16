@@ -5526,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighting Climbing | 195391 | [195391-lighting-climbing.json](./195391-lighting-climbing.json) |
 | Lighting End VR | 29677 | [29677-lighting-end-vr.json](./29677-lighting-end-vr.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
+| Lightist | 294315 | [294315-lightist.json](./294315-lightist.json) |
 | Lightkeeper | 375543 | [375543-lightkeeper.json](./375543-lightkeeper.json) |
 | Lightkeeper's Curse | 370374 | [370374-lightkeepers-curse.json](./370374-lightkeepers-curse.json) |
 | Lightless: The 21st Sacrifice | 135482 | [135482-lightless-the-21st-sacrifice.json](./135482-lightless-the-21st-sacrifice.json) |
