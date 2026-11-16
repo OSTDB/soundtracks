@@ -11060,6 +11060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Elf | 122057 | [122057-forest-of-elf.json](./122057-forest-of-elf.json) |
 | Forest of Evil | 119817 | [119817-forest-of-evil.json](./119817-forest-of-evil.json) |
 | Forest of Fear | 298478 | [298478-forest-of-fear.json](./298478-forest-of-fear.json) |
+| Forest of Frequencies | 233253 | [233253-forest-of-frequencies.json](./233253-forest-of-frequencies.json) |
 | Forest of Lesbians | 254726 | [254726-forest-of-lesbians.json](./254726-forest-of-lesbians.json) |
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
