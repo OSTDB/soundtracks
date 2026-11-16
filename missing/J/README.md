@@ -3971,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Horse Show Jumping | 87510 | [87510-jumpy-horse-show-jumping.json](./87510-jumpy-horse-show-jumping.json) |
 | Jumpy Hunt | 114866 | [114866-jumpy-hunt.json](./114866-jumpy-hunt.json) |
 | Jumpy Jack | 343977 | [343977-jumpy-jack.json](./343977-jumpy-jack.json) |
+| Jumpy Jumptime | 310775 | [310775-jumpy-jumptime.json](./310775-jumpy-jumptime.json) |
 | Jumpy Kitten | 101672 | [101672-jumpy-kitten.json](./101672-jumpy-kitten.json) |
 | Jumpy Mia | 195008 | [195008-jumpy-mia.json](./195008-jumpy-mia.json) |
 | Jumpy Paws: World Adventures | 258022 | [258022-jumpy-paws-world-adventures.json](./258022-jumpy-paws-world-adventures.json) |
