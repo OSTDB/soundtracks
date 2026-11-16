@@ -13385,6 +13385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chase: Big City Race | 95913 | [95913-police-chase-big-city-race.json](./95913-police-chase-big-city-race.json) |
 | Police Chief | 426624 | [426624-police-chief.json](./426624-police-chief.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
+| Police Connection | 419032 | [419032-police-connection.json](./419032-police-connection.json) |
 | Police Cop Hot Pursuit | 256758 | [256758-police-cop-hot-pursuit.json](./256758-police-cop-hot-pursuit.json) |
 | Police Department 3D | 216107 | [216107-police-department-3d.json](./216107-police-department-3d.json) |
 | Police Detective: Tokyo Beat | 381362 | [381362-police-detective-tokyo-beat.json](./381362-police-detective-tokyo-beat.json) |
@@ -20149,6 +20150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put In Bad | 131330 | [131330-put-in-bad.json](./131330-put-in-bad.json) |
 | Put it here | 291498 | [291498-put-it-here.json](./291498-put-it-here.json) |
+| Put My Gun Down! | 419021 | [419021-put-my-gun-down.json](./419021-put-my-gun-down.json) |
 | Put One In for Johnny Minn | 366710 | [366710-put-one-in-for-johnny-minn.json](./366710-put-one-in-for-johnny-minn.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put Pud Nudli's Adventure | 202512 | [202512-put-pud-nudlis-adventure.json](./202512-put-pud-nudlis-adventure.json) |
