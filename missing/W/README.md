@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War on the Sea | 143137 | [143137-war-on-the-sea.json](./143137-war-on-the-sea.json) |
 | War on the Southern Front | 59183 | [59183-war-on-the-southern-front.json](./59183-war-on-the-southern-front.json) |
 | War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
+| War on Wheels | 394910 | [394910-war-on-wheels.json](./394910-war-on-wheels.json) |
 | War Online Pacific | 113122 | [113122-war-online-pacific.json](./113122-war-online-pacific.json) |
 | War Operation: Full Contact | 220530 | [220530-war-operation-full-contact.json](./220530-war-operation-full-contact.json) |
 | War Operations | 17715 | [17715-war-operations.json](./17715-war-operations.json) |
@@ -7738,6 +7739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wizdom Academy | 279478 | [279478-wizdom-academy.json](./279478-wizdom-academy.json) |
+| Wizdy Pets | 394972 | [394972-wizdy-pets.json](./394972-wizdy-pets.json) |
 | Wizened Dream | 286938 | [286938-wizened-dream.json](./286938-wizened-dream.json) |
 | Wizherd | 422032 | [422032-wizherd.json](./422032-wizherd.json) |
 | Wizhood | 43092 | [43092-wizhood.json](./43092-wizhood.json) |
