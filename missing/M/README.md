@@ -6598,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
 | Maui | 36598 | [36598-maui.json](./36598-maui.json) |
+| Maui Mallard in Cold Shadow | 217587 | [217587-maui-mallard-in-cold-shadow.json](./217587-maui-mallard-in-cold-shadow.json) |
 | Maui Mallard in Cold Shadow | 8448 | [8448-maui-mallard-in-cold-shadow.json](./8448-maui-mallard-in-cold-shadow.json) |
 | Maui Pong | 403930 | [403930-maui-pong.json](./403930-maui-pong.json) |
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
@@ -19713,6 +19714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 199431 | [199431-mortal-kombat-trilogy.json](./199431-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
+| Mortal Kombat Trilogy: Giga Fighters - Your Virtual Fighter | 218020 | [218020-mortal-kombat-trilogy-giga-fighters-your-virtual-fighter.json](./218020-mortal-kombat-trilogy-giga-fighters-your-virtual-fighter.json) |
 | Mortal Kombat vs DC Universe: Silver Shield Combo Pack | 136302 | [136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json](./136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json) |
 | Mortal Kombat vs. DC Universe | 1617 | [1617-mortal-kombat-vs-dc-universe.json](./1617-mortal-kombat-vs-dc-universe.json) |
 | Mortal Kombat vs. DC Universe: Kollector's Edition | 43005 | [43005-mortal-kombat-vs-dc-universe-kollectors-edition.json](./43005-mortal-kombat-vs-dc-universe-kollectors-edition.json) |
