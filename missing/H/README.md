@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.I.S.T.O.R.Y T.O.R.C.H.K.A 2 | 82322 | [82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json](./82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
 | H.I.V.E. | 201014 | [201014-h-i-v-e.json](./201014-h-i-v-e.json) |
+| H.O.A Simulator | 410507 | [410507-h-o-a-simulator.json](./410507-h-o-a-simulator.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
 | H.U.R.L. | 11680 | [11680-h-u-r-l.json](./11680-h-u-r-l.json) |
