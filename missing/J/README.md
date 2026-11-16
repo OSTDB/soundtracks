@@ -3716,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Up, Jerry! | 246820 | [246820-jump-up-jerry.json](./246820-jump-up-jerry.json) |
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
 | Jump Us | 187269 | [187269-jump-us.json](./187269-jump-us.json) |
+| Jump Verse | 361925 | [361925-jump-verse.json](./361925-jump-verse.json) |
 | Jump Warrior | 182799 | [182799-jump-warrior.json](./182799-jump-warrior.json) |
 | Jump Warrior | 220388 | [220388-jump-warrior.json](./220388-jump-warrior.json) |
 | Jump With Dragons | 158338 | [158338-jump-with-dragons.json](./158338-jump-with-dragons.json) |
