@@ -4715,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Cement Factory C64 | 289585 | [289585-marios-cement-factory-c64.json](./289585-marios-cement-factory-c64.json) |
 | Mario's Deadly Flight | 323183 | [323183-marios-deadly-flight.json](./323183-marios-deadly-flight.json) |
 | Mario's Deadly Flight 2 | 323184 | [323184-marios-deadly-flight-2.json](./323184-marios-deadly-flight-2.json) |
+| Mario's Driving Range | 283927 | [283927-marios-driving-range.json](./283927-marios-driving-range.json) |
 | Mario's Early Years! CD-ROM Collection | 200782 | [200782-marios-early-years-cd-rom-collection.json](./200782-marios-early-years-cd-rom-collection.json) |
 | Mario's Early Years! Fun with Letters | 42502 | [42502-marios-early-years-fun-with-letters.json](./42502-marios-early-years-fun-with-letters.json) |
 | Mario's Early Years! Fun with Numbers | 42501 | [42501-marios-early-years-fun-with-numbers.json](./42501-marios-early-years-fun-with-numbers.json) |
