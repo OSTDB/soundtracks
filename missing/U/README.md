@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uda Game | 187224 | [187224-uda-game.json](./187224-uda-game.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | Udder | 361080 | [361080-udder.json](./361080-udder.json) |
+| Udder Invasion | 394915 | [394915-udder-invasion.json](./394915-udder-invasion.json) |
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
 | Uden at prale - det er Harry | 127973 | [127973-uden-at-prale-det-er-harry.json](./127973-uden-at-prale-det-er-harry.json) |
 | UDLR_Modify | 291919 | [291919-udlr-modify.json](./291919-udlr-modify.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Citadel | 115122 | [115122-undead-citadel.json](./115122-undead-citadel.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Darlings: No Cure for Love | 80611 | [80611-undead-darlings-no-cure-for-love.json](./80611-undead-darlings-no-cure-for-love.json) |
+| Undead Defense TD | 394918 | [394918-undead-defense-td.json](./394918-undead-defense-td.json) |
 | Undead Development | 55406 | [55406-undead-development.json](./55406-undead-development.json) |
 | Undead Development 2 | 150396 | [150396-undead-development-2.json](./150396-undead-development-2.json) |
 | Undead Eatery | 129842 | [129842-undead-eatery.json](./129842-undead-eatery.json) |
