@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale | 269419 | [269419-fairy-tale.json](./269419-fairy-tale.json) |
 | Fairy Tale Busters | 56571 | [56571-fairy-tale-busters.json](./56571-fairy-tale-busters.json) |
 | Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
+| Fairy Tale Encore | 417753 | [417753-fairy-tale-encore.json](./417753-fairy-tale-encore.json) |
 | Fairy Tale Ending Encore | 207164 | [207164-fairy-tale-ending-encore.json](./207164-fairy-tale-ending-encore.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tale Mysteries 2: The Beanstalk | 34440 | [34440-fairy-tale-mysteries-2-the-beanstalk.json](./34440-fairy-tale-mysteries-2-the-beanstalk.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Life | 115239 | [115239-farming-life.json](./115239-farming-life.json) |
 | Farming Life 40 | 371208 | [371208-farming-life-40.json](./371208-farming-life-40.json) |
 | Farming Life Simulator | 373655 | [373655-farming-life-simulator.json](./373655-farming-life-simulator.json) |
+| Farming Life: Agriculture Simulator | 417857 | [417857-farming-life-agriculture-simulator.json](./417857-farming-life-agriculture-simulator.json) |
 | Farming Moomoo | 214299 | [214299-farming-moomoo.json](./214299-farming-moomoo.json) |
 | Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
 | Farming PRO 2015 | 88257 | [88257-farming-pro-2015.json](./88257-farming-pro-2015.json) |
@@ -7694,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Adventures Bundle | 227109 | [227109-fit-adventures-bundle.json](./227109-fit-adventures-bundle.json) |
 | Fit and Fry | 342148 | [342148-fit-and-fry.json](./342148-fit-and-fry.json) |
 | Fit and Grow | 421424 | [421424-fit-and-grow.json](./421424-fit-and-grow.json) |
+| Fit Beat Combat | 417860 | [417860-fit-beat-combat.json](./417860-fit-beat-combat.json) |
 | Fit Boxing: Touken Ranbu - Shutsujin! Exercise Honmaru | 417191 | [417191-fit-boxing-touken-ranbu-shutsujin-exercise-honmaru.json](./417191-fit-boxing-touken-ranbu-shutsujin-exercise-honmaru.json) |
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit Fantasy | 144268 | [144268-fit-fantasy.json](./144268-fit-fantasy.json) |
@@ -10045,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Tale | 15409 | [15409-folk-tale.json](./15409-folk-tale.json) |
 | Folk Tales: Ala Geyik | 333296 | [333296-folk-tales-ala-geyik.json](./333296-folk-tales-ala-geyik.json) |
 | Folk Tales: Alageyik | 360768 | [360768-folk-tales-alageyik.json](./360768-folk-tales-alageyik.json) |
+| Folk-Tography | 417107 | [417107-folk-tography.json](./417107-folk-tography.json) |
 | Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
 | Folklore Fishing | 379419 | [379419-folklore-fishing.json](./379419-folklore-fishing.json) |
 | Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
