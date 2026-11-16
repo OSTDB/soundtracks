@@ -7481,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
 | Demon's Den | 265503 | [265503-demons-den.json](./265503-demons-den.json) |
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
+| Demon's Gamble | 239866 | [239866-demons-gamble.json](./239866-demons-gamble.json) |
 | Demon's Gate: Teito Shinshin Taisen - Tokyo Mokushiroku-hen | 153679 | [153679-demons-gate-teito-shinshin-taisen-tokyo-mokushiroku-hen.json](./153679-demons-gate-teito-shinshin-taisen-tokyo-mokushiroku-hen.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Kiss | 138852 | [138852-demons-kiss.json](./138852-demons-kiss.json) |
@@ -13154,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Ood Escape | 250480 | [250480-doctor-who-ood-escape.json](./250480-doctor-who-ood-escape.json) |
 | Doctor Who: Return to Earth | 4813 | [4813-doctor-who-return-to-earth.json](./4813-doctor-who-return-to-earth.json) |
 | Doctor Who: Say What You See | 301934 | [301934-doctor-who-say-what-you-see.json](./301934-doctor-who-say-what-you-see.json) |
+| Doctor Who: Slitheen Surfer | 239936 | [239936-doctor-who-slitheen-surfer.json](./239936-doctor-who-slitheen-surfer.json) |
 | Doctor Who: Sonic De-Cloaker | 250486 | [250486-doctor-who-sonic-de-cloaker.json](./250486-doctor-who-sonic-de-cloaker.json) |
 | Doctor Who: Split | 398627 | [398627-doctor-who-split.json](./398627-doctor-who-split.json) |
 | Doctor Who: SuDocWho | 237837 | [237837-doctor-who-sudocwho.json](./237837-doctor-who-sudocwho.json) |
