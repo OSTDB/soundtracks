@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate League Soccer | 48265 | [48265-ultimate-league-soccer.json](./48265-ultimate-league-soccer.json) |
 | Ultimate Legends | 113387 | [113387-ultimate-legends.json](./113387-ultimate-legends.json) |
 | Ultimate Lemon Basket | 411522 | [411522-ultimate-lemon-basket.json](./411522-ultimate-lemon-basket.json) |
+| Ultimate Level Builder | 401954 | [401954-ultimate-level-builder.json](./401954-ultimate-level-builder.json) |
 | Ultimate Lion Simulator | 87341 | [87341-ultimate-lion-simulator.json](./87341-ultimate-lion-simulator.json) |
 | Ultimate Logic Puzzle Collection | 115163 | [115163-ultimate-logic-puzzle-collection.json](./115163-ultimate-logic-puzzle-collection.json) |
 | Ultimate Logic Puzzle Collection: Pack 1 | 163490 | [163490-ultimate-logic-puzzle-collection-pack-1.json](./163490-ultimate-logic-puzzle-collection-pack-1.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko: Golden Fantasia | 76137 | [76137-umineko-golden-fantasia.json](./76137-umineko-golden-fantasia.json) |
 | Umineko: Golden Forgery | 403537 | [403537-umineko-golden-forgery.json](./403537-umineko-golden-forgery.json) |
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
+| Umineko: When They Cry - Saku | 401952 | [401952-umineko-when-they-cry-saku.json](./401952-umineko-when-they-cry-saku.json) |
 | Umiro | 90720 | [90720-umiro.json](./90720-umiro.json) |
 | Umisen Yamasen | 258877 | [258877-umisen-yamasen.json](./258877-umisen-yamasen.json) |
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
@@ -4058,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utter Takedown | 244607 | [244607-utter-takedown.json](./244607-utter-takedown.json) |
 | Utterance | 410721 | [410721-utterance.json](./410721-utterance.json) |
 | UtuRoom | 416648 | [416648-uturoom.json](./416648-uturoom.json) |
+| UTXMP | 403197 | [403197-utxmp.json](./403197-utxmp.json) |
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
 | Uurnog | 27402 | [27402-uurnog.json](./27402-uurnog.json) |
 | Uurnog Uurnlimited | 55228 | [55228-uurnog-uurnlimited.json](./55228-uurnog-uurnlimited.json) |
