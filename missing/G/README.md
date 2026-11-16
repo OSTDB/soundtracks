@@ -3969,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rich or Die 2 | 123661 | [123661-get-rich-or-die-2.json](./123661-get-rich-or-die-2.json) |
 | Get Rich or Die Gaming | 34627 | [34627-get-rich-or-die-gaming.json](./34627-get-rich-or-die-gaming.json) |
 | Get Rich Quick | 350751 | [350751-get-rich-quick.json](./350751-get-rich-quick.json) |
+| Get Rich Quick 101 | 414665 | [414665-get-rich-quick-101.json](./414665-get-rich-quick-101.json) |
 | Get Rich Slow | 250779 | [250779-get-rich-slow.json](./250779-get-rich-slow.json) |
 | Get Rich! | 180704 | [180704-get-rich.json](./180704-get-rich.json) |
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
