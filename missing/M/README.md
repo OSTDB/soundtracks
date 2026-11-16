@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Knight: Apocalypse | 20588 | [20588-mage-knight-apocalypse.json](./20588-mage-knight-apocalypse.json) |
 | Mage Knight: Destiny's Soldier | 20576 | [20576-mage-knight-destinys-soldier.json](./20576-mage-knight-destinys-soldier.json) |
 | Mage Lords of Brams | 215608 | [215608-mage-lords-of-brams.json](./215608-mage-lords-of-brams.json) |
+| Mage Mail | 415609 | [415609-mage-mail.json](./415609-mage-mail.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage Mania | 254736 | [254736-mage-mania.json](./254736-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
@@ -9991,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 331940 | [331940-memory.json](./331940-memory.json) |
 | Memory | 333837 | [333837-memory.json](./333837-memory.json) |
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
+| Memory | 416026 | [416026-memory.json](./416026-memory.json) |
 | Memory | 94507 | [94507-memory.json](./94507-memory.json) |
 | Memory | 95230 | [95230-memory.json](./95230-memory.json) |
 | Memory Adventures in the Jungle | 336481 | [336481-memory-adventures-in-the-jungle.json](./336481-memory-adventures-in-the-jungle.json) |
@@ -15377,6 +15379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
 | Misfitz | 375350 | [375350-misfitz.json](./375350-misfitz.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
+| Misfortuna | 415591 | [415591-misfortuna.json](./415591-misfortuna.json) |
 | Misfortunate Tadpole | 184675 | [184675-misfortunate-tadpole.json](./184675-misfortunate-tadpole.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
 | Misfortune Advance | 203222 | [203222-misfortune-advance.json](./203222-misfortune-advance.json) |
