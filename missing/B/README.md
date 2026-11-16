@@ -5546,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
 | Beanball | 361464 | [361464-beanball.json](./361464-beanball.json) |
 | Beandejo | 381529 | [381529-beandejo.json](./381529-beandejo.json) |
+| Beanieland | 413341 | [413341-beanieland.json](./413341-beanieland.json) |
 | BeanKind by Ketnipz | 249657 | [249657-beankind-by-ketnipz.json](./249657-beankind-by-ketnipz.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
@@ -10107,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
 | Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
 | Black Friday | 367121 | [367121-black-friday.json](./367121-black-friday.json) |
+| Black Friday Janitor: Clean the Whole Mall | 413300 | [413300-black-friday-janitor-clean-the-whole-mall.json](./413300-black-friday-janitor-clean-the-whole-mall.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Future '88 | 74561 | [74561-black-future-88.json](./74561-black-future-88.json) |
 | Black Geyser: Couriers of Darkness | 57853 | [57853-black-geyser-couriers-of-darkness.json](./57853-black-geyser-couriers-of-darkness.json) |
@@ -18822,6 +18824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubsy 3D | 7806 | [7806-bubsy-3d.json](./7806-bubsy-3d.json) |
 | Bubsy 3D: Bubsy Visits the James Turrell Retrospective | 62466 | [62466-bubsy-3d-bubsy-visits-the-james-turrell-retrospective.json](./62466-bubsy-3d-bubsy-visits-the-james-turrell-retrospective.json) |
 | Bubsy 3D: ReFurBished | 361113 | [361113-bubsy-3d-refurbished.json](./361113-bubsy-3d-refurbished.json) |
+| Bubsy 4D: The Black Hole Update | 413302 | [413302-bubsy-4d-the-black-hole-update.json](./413302-bubsy-4d-the-black-hole-update.json) |
 | Bubsy II | 307065 | [307065-bubsy-ii.json](./307065-bubsy-ii.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
