@@ -12628,6 +12628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
 | Rosen's Brigade | 297441 | [297441-rosens-brigade.json](./297441-rosens-brigade.json) |
 | Rosenkreuzstilette | 27181 | [27181-rosenkreuzstilette.json](./27181-rosenkreuzstilette.json) |
+| Rosenkreuzstilette Bundle | 290054 | [290054-rosenkreuzstilette-bundle.json](./290054-rosenkreuzstilette-bundle.json) |
 | Rosenkreuzstilette Freudenstachel | 76865 | [76865-rosenkreuzstilette-freudenstachel.json](./76865-rosenkreuzstilette-freudenstachel.json) |
 | Rosepine Hotel | 390991 | [390991-rosepine-hotel.json](./390991-rosepine-hotel.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
