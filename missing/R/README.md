@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.C. Pro-Am | 9155 | [9155-r-c-pro-am.json](./9155-r-c-pro-am.json) |
 | R.C.T. Eizou Play | 243471 | [243471-r-c-t-eizou-play.json](./243471-r-c-t-eizou-play.json) |
 | R.E.A.C.T | 195595 | [195595-r-e-a-c-t.json](./195595-r-e-a-c-t.json) |
+| R.E.A.P.E.R. Corp. | 372919 | [372919-r-e-a-p-e-r-corp.json](./372919-r-e-a-p-e-r-corp.json) |
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
 | R.E.G.O | 411917 | [411917-r-e-g-o.json](./411917-r-e-g-o.json) |
 | R.E.M. Rage | 359103 | [359103-r-e-m-rage.json](./359103-r-e-m-rage.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:cord Noah: Fractal of Oblivion | 402327 | [402327-re-cord-noah-fractal-of-oblivion.json](./402327-re-cord-noah-fractal-of-oblivion.json) |
 | Re:Curse | 247352 | [247352-re-curse.json](./247352-re-curse.json) |
+| Re:Curse | 372916 | [372916-re-curse.json](./372916-re-curse.json) |
 | Re:D Cherish! | 273298 | [273298-re-d-cherish.json](./273298-re-d-cherish.json) |
 | Re:D Cherish! | 356544 | [356544-re-d-cherish.json](./356544-re-d-cherish.json) |
 | Re:D Cherish! SS: Desperado's One Operation | 370696 | [370696-re-d-cherish-ss-desperados-one-operation.json](./370696-re-d-cherish-ss-desperados-one-operation.json) |
@@ -3956,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Dodgeball Evolved | 117181 | [117181-rebound-dodgeball-evolved.json](./117181-rebound-dodgeball-evolved.json) |
 | Rebound Gun | 247914 | [247914-rebound-gun.json](./247914-rebound-gun.json) |
+| Rebound Hell | 373967 | [373967-rebound-hell.json](./373967-rebound-hell.json) |
 | Rebound Hockey | 232325 | [232325-rebound-hockey.json](./232325-rebound-hockey.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
@@ -5455,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relentless | 111883 | [111883-relentless.json](./111883-relentless.json) |
 | Relentless | 129699 | [129699-relentless.json](./129699-relentless.json) |
 | Relentless | 46736 | [46736-relentless.json](./46736-relentless.json) |
+| Relentless Dark | 372915 | [372915-relentless-dark.json](./372915-relentless-dark.json) |
 | Relentless Expanse | 322762 | [322762-relentless-expanse.json](./322762-relentless-expanse.json) |
 | Relentless Frontier | 164196 | [164196-relentless-frontier.json](./164196-relentless-frontier.json) |
 | Relentless Impetus | 310849 | [310849-relentless-impetus.json](./310849-relentless-impetus.json) |
@@ -6960,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro World | 3229 | [3229-retro-world.json](./3229-retro-world.json) |
 | Retro-Bit Generations | 275244 | [275244-retro-bit-generations.json](./275244-retro-bit-generations.json) |
 | Retro-Pixel Castles | 17933 | [17933-retro-pixel-castles.json](./17933-retro-pixel-castles.json) |
+| Retro-Pixel Color Palette: Color by Number | 367640 | [367640-retro-pixel-color-palette-color-by-number.json](./367640-retro-pixel-color-palette-color-by-number.json) |
 | Retro/Grade | 16431 | [16431-retro-grade.json](./16431-retro-grade.json) |
 | Retro/Grade + Soundtrack | 121420 | [121420-retro-grade-soundtrack.json](./121420-retro-grade-soundtrack.json) |
 | Retro64 | 198234 | [198234-retro64.json](./198234-retro64.json) |
@@ -9939,6 +9944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo-War | 85824 | [85824-robo-war.json](./85824-robo-war.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoBo: The Allectric Idventurer | 211283 | [211283-robo-the-allectric-idventurer.json](./211283-robo-the-allectric-idventurer.json) |
+| Robo's Sandbox | 371757 | [371757-robos-sandbox.json](./371757-robos-sandbox.json) |
 | Robo's World: The Zarnok Fortress | 33671 | [33671-robos-world-the-zarnok-fortress.json](./33671-robos-world-the-zarnok-fortress.json) |
 | Robo50 | 211744 | [211744-robo50.json](./211744-robo50.json) |
 | RoboArena | 133125 | [133125-roboarena.json](./133125-roboarena.json) |
@@ -11386,6 +11392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Rollout | 305708 | [305708-rogue-rollout.json](./305708-rogue-rollout.json) |
 | Rogue Rubber | 340689 | [340689-rogue-rubber.json](./340689-rogue-rubber.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
+| Rogue Runner | 372931 | [372931-rogue-runner.json](./372931-rogue-runner.json) |
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
 | Rogue Seas | 176830 | [176830-rogue-seas.json](./176830-rogue-seas.json) |
 | Rogue Sentry | 142987 | [142987-rogue-sentry.json](./142987-rogue-sentry.json) |
