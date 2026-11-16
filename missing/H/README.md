@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker's Beat | 35560 | [35560-hackers-beat.json](./35560-hackers-beat.json) |
 | Hacker’s Journey | 411625 | [411625-hacker-s-journey.json](./411625-hacker-s-journey.json) |
 | Hacker's Life | 271030 | [271030-hackers-life.json](./271030-hackers-life.json) |
+| Hacker's Restart | 367696 | [367696-hackers-restart.json](./367696-hackers-restart.json) |
 | Hacker9 | 218180 | [218180-hacker9.json](./218180-hacker9.json) |
 | HackeRPG | 280125 | [280125-hackerpg.json](./280125-hackerpg.json) |
 | Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
@@ -2893,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatomo Battles the Yomi Demons | 281316 | [281316-hatomo-battles-the-yomi-demons.json](./281316-hatomo-battles-the-yomi-demons.json) |
 | Hatone | 260620 | [260620-hatone.json](./260620-hatone.json) |
 | Hatred | 7857 | [7857-hatred.json](./7857-hatred.json) |
+| Hatred and Blood | 371769 | [371769-hatred-and-blood.json](./371769-hatred-and-blood.json) |
 | Hatris | 265016 | [265016-hatris.json](./265016-hatris.json) |
 | Hatris | 265017 | [265017-hatris.json](./265017-hatris.json) |
 | Hatris | 40063 | [40063-hatris.json](./40063-hatris.json) |
@@ -6106,6 +6108,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sea Battle | 190793 | [190793-hentai-sea-battle.json](./190793-hentai-sea-battle.json) |
 | Hentai Secrets | 237563 | [237563-hentai-secrets.json](./237563-hentai-secrets.json) |
 | Hentai Secrets | 286392 | [286392-hentai-secrets.json](./286392-hentai-secrets.json) |
+| Hentai Secrets: Moonlight Kiss | 373971 | [373971-hentai-secrets-moonlight-kiss.json](./373971-hentai-secrets-moonlight-kiss.json) |
+| Hentai Secrets: Romantic Charm | 373970 | [373970-hentai-secrets-romantic-charm.json](./373970-hentai-secrets-romantic-charm.json) |
+| Hentai Secrets: Velvet Touch | 373969 | [373969-hentai-secrets-velvet-touch.json](./373969-hentai-secrets-velvet-touch.json) |
 | Hentai Seed | 131063 | [131063-hentai-seed.json](./131063-hentai-seed.json) |
 | Hentai Seek | 366514 | [366514-hentai-seek.json](./366514-hentai-seek.json) |
 | Hentai Seek Girl | 366515 | [366515-hentai-seek-girl.json](./366515-hentai-seek-girl.json) |
@@ -6348,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai X Thief | 384687 | [384687-hentai-x-thief.json](./384687-hentai-x-thief.json) |
 | Hentai XXX Plus: Jigsaws Vol 1 | 288317 | [288317-hentai-xxx-plus-jigsaws-vol-1.json](./288317-hentai-xxx-plus-jigsaws-vol-1.json) |
 | Hentai XXX Plus: Jigsaws Vol 2 | 162988 | [162988-hentai-xxx-plus-jigsaws-vol-2.json](./162988-hentai-xxx-plus-jigsaws-vol-2.json) |
+| Hentai Yumiko | 370019 | [370019-hentai-yumiko.json](./370019-hentai-yumiko.json) |
 | Hentai Yuri Wet Adventure | 112002 | [112002-hentai-yuri-wet-adventure.json](./112002-hentai-yuri-wet-adventure.json) |
 | Hentai Zarhuna | 384690 | [384690-hentai-zarhuna.json](./384690-hentai-zarhuna.json) |
 | Hentai Zodiac Puzzle | 213723 | [213723-hentai-zodiac-puzzle.json](./213723-hentai-zodiac-puzzle.json) |
@@ -8297,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Sleeping Beauty | 195423 | [195423-hidden-objects-sleeping-beauty.json](./195423-hidden-objects-sleeping-beauty.json) |
 | Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive | 107677 | [107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json](./107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json) |
 | Hidden Objects: The big journey | 215283 | [215283-hidden-objects-the-big-journey.json](./215283-hidden-objects-the-big-journey.json) |
+| Hidden Objects: The Mystery House | 367641 | [367641-hidden-objects-the-mystery-house.json](./367641-hidden-objects-the-mystery-house.json) |
 | Hidden Objects: The Room - My Wallet: The Big House | 91238 | [91238-hidden-objects-the-room-my-wallet-the-big-house.json](./91238-hidden-objects-the-room-my-wallet-the-big-house.json) |
 | Hidden Objects: The Witches of Pumpkin Avenue | 91200 | [91200-hidden-objects-the-witches-of-pumpkin-avenue.json](./91200-hidden-objects-the-witches-of-pumpkin-avenue.json) |
 | Hidden Objects: Tranquil Valley | 193618 | [193618-hidden-objects-tranquil-valley.json](./193618-hidden-objects-tranquil-valley.json) |
@@ -9202,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hina-chan Snowtime | 208260 | [208260-hina-chan-snowtime.json](./208260-hina-chan-snowtime.json) |
 | Hina-chan's Big Trade! Millionaire Lunch | 186858 | [186858-hina-chans-big-trade-millionaire-lunch.json](./186858-hina-chans-big-trade-millionaire-lunch.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
+| Hina-chan's Sticker Survival | 371766 | [371766-hina-chans-sticker-survival.json](./371766-hina-chans-sticker-survival.json) |
 | Hinadori no Saezuri | 407963 | [407963-hinadori-no-saezuri.json](./407963-hinadori-no-saezuri.json) |
 | Hinakoi | 199950 | [199950-hinakoi.json](./199950-hinakoi.json) |
 | Hinami Bay | 243554 | [243554-hinami-bay.json](./243554-hinami-bay.json) |
@@ -9468,6 +9476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit 2 | 193871 | [193871-hit-2.json](./193871-hit-2.json) |
 | Hit A Plane | 325066 | [325066-hit-a-plane.json](./325066-hit-a-plane.json) |
 | Hit and Boom | 211811 | [211811-hit-and-boom.json](./211811-hit-and-boom.json) |
+| Hit and Stand Blackjack | 367858 | [367858-hit-and-stand-blackjack.json](./367858-hit-and-stand-blackjack.json) |
 | Hit Back | 143658 | [143658-hit-back.json](./143658-hit-back.json) |
 | Hit Back | 342406 | [342406-hit-back.json](./342406-hit-back.json) |
 | Hit Confirmed | 164318 | [164318-hit-confirmed.json](./164318-hit-confirmed.json) |
@@ -10281,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holmes Sherlock & Mycroft | 247367 | [247367-holmes-sherlock-and-mycroft.json](./247367-holmes-sherlock-and-mycroft.json) |
 | Holmgang: Memories of the Forgotten | 132293 | [132293-holmgang-memories-of-the-forgotten.json](./132293-holmgang-memories-of-the-forgotten.json) |
 | Holo & Veil | 236079 | [236079-holo-and-veil.json](./236079-holo-and-veil.json) |
+| Holo ADV: SakuraSingularity.exe | 369498 | [369498-holo-adv-sakurasingularity-exe.json](./369498-holo-adv-sakurasingularity-exe.json) |
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Bike 3D | 293670 | [293670-holo-bike-3d.json](./293670-holo-bike-3d.json) |
 | Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
@@ -10654,6 +10664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Life | 248162 | [248162-homeless-life.json](./248162-homeless-life.json) |
 | Homeless Life Simulator | 372744 | [372744-homeless-life-simulator.json](./372744-homeless-life-simulator.json) |
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
+| Homeless Simulator | 367872 | [367872-homeless-simulator.json](./367872-homeless-simulator.json) |
 | Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
 | Homeless Story 2: Police Mayhem | 367919 | [367919-homeless-story-2-police-mayhem.json](./367919-homeless-story-2-police-mayhem.json) |
 | Homeless: Life Simulator | 207987 | [207987-homeless-life-simulator.json](./207987-homeless-life-simulator.json) |
