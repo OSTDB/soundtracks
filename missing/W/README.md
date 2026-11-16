@@ -8995,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Snooker 2003 | 14547 | [14547-world-championship-snooker-2003.json](./14547-world-championship-snooker-2003.json) |
 | World Championship Snooker 2004 | 70728 | [70728-world-championship-snooker-2004.json](./70728-world-championship-snooker-2004.json) |
 | World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
+| World Championship Soccer | 300560 | [300560-world-championship-soccer.json](./300560-world-championship-soccer.json) |
 | World Championship Soccer II | 46686 | [46686-world-championship-soccer-ii.json](./46686-world-championship-soccer-ii.json) |
 | World Championship Spelling | 205880 | [205880-world-championship-spelling.json](./205880-world-championship-spelling.json) |
 | World Chef | 101407 | [101407-world-chef.json](./101407-world-chef.json) |
