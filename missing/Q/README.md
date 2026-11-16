@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q&Q Answers | 130889 | [130889-q-and-q-answers.json](./130889-q-and-q-answers.json) |
 | Q1K3 | 170355 | [170355-q1k3.json](./170355-q1k3.json) |
 | Q2 Humanity | 261635 | [261635-q2-humanity.json](./261635-q2-humanity.json) |
+| Q2Jump | 306164 | [306164-q2jump.json](./306164-q2jump.json) |
 | Q4Max | 252081 | [252081-q4max.json](./252081-q4max.json) |
 | Q73 | 229560 | [229560-q73.json](./229560-q73.json) |
 | QA Simulator | 393238 | [393238-qa-simulator.json](./393238-qa-simulator.json) |
