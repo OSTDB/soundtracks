@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kingdom War | 216693 | [216693-magic-kingdom-war.json](./216693-magic-kingdom-war.json) |
 | Magic Kingdom War DLC-1 | 220609 | [220609-magic-kingdom-war-dlc-1.json](./220609-magic-kingdom-war-dlc-1.json) |
 | Magic Kingdom War DLC-2 | 220610 | [220610-magic-kingdom-war-dlc-2.json](./220610-magic-kingdom-war-dlc-2.json) |
+| Magic Kittens Merge | 417867 | [417867-magic-kittens-merge.json](./417867-magic-kittens-merge.json) |
 | Magic Klondike | 232561 | [232561-magic-klondike.json](./232561-magic-klondike.json) |
 | Magic Knight | 92209 | [92209-magic-knight.json](./92209-magic-knight.json) |
 | Magic Knight Grand Charion | 305482 | [305482-magic-knight-grand-charion.json](./305482-magic-knight-grand-charion.json) |
@@ -7465,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Anarchy | 34018 | [34018-mech-anarchy.json](./34018-mech-anarchy.json) |
 | Mech Arena | 192558 | [192558-mech-arena.json](./192558-mech-arena.json) |
 | Mech Arena | 254093 | [254093-mech-arena.json](./254093-mech-arena.json) |
+| Mech Arena | 417122 | [417122-mech-arena.json](./417122-mech-arena.json) |
 | Mech Arena Shooter Battle | 380843 | [380843-mech-arena-shooter-battle.json](./380843-mech-arena-shooter-battle.json) |
 | Mech Arena: Robot Showdown | 146375 | [146375-mech-arena-robot-showdown.json](./146375-mech-arena-robot-showdown.json) |
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
@@ -11499,6 +11501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Mother | 372197 | [372197-metroid-mother.json](./372197-metroid-mother.json) |
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Oil Spill | 165290 | [165290-metroid-oil-spill.json](./165290-metroid-oil-spill.json) |
+| Metroid Planet R23B | 417796 | [417796-metroid-planet-r23b.json](./417796-metroid-planet-r23b.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
 | Metroid Prime | 134257 | [134257-metroid-prime.json](./134257-metroid-prime.json) |
 | Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
@@ -15401,6 +15404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miskatonic Diaries | 201631 | [201631-miskatonic-diaries.json](./201631-miskatonic-diaries.json) |
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
+| MISL: Major Indoor Soccer League | 417833 | [417833-misl-major-indoor-soccer-league.json](./417833-misl-major-indoor-soccer-league.json) |
 | Mislead | 108547 | [108547-mislead.json](./108547-mislead.json) |
 | Misled Madness | 290217 | [290217-misled-madness.json](./290217-misled-madness.json) |
 | Misled Puzzled | 185373 | [185373-misled-puzzled.json](./185373-misled-puzzled.json) |
@@ -15708,6 +15712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Thunderbolt | 103044 | [103044-mission-thunderbolt.json](./103044-mission-thunderbolt.json) |
 | Mission: Wolf | 68815 | [68815-mission-wolf.json](./68815-mission-wolf.json) |
 | Mission:Amazing | 128341 | [128341-mission-amazing.json](./128341-mission-amazing.json) |
+| Mission.exe | 417124 | [417124-mission-exe.json](./417124-mission-exe.json) |
 | Missionchief | 125500 | [125500-missionchief.json](./125500-missionchief.json) |
 | MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
 | Mississauga Tycoon | 368416 | [368416-mississauga-tycoon.json](./368416-mississauga-tycoon.json) |
@@ -16550,6 +16555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Puzzle | 155250 | [155250-modern-puzzle.json](./155250-modern-puzzle.json) |
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
 | Modern Sonic Adventure 2: The Trial | 350564 | [350564-modern-sonic-adventure-2-the-trial.json](./350564-modern-sonic-adventure-2-the-trial.json) |
+| Modern Sonic Collection | 417117 | [417117-modern-sonic-collection.json](./417117-modern-sonic-collection.json) |
 | Modern Strike Online | 36958 | [36958-modern-strike-online.json](./36958-modern-strike-online.json) |
 | Modern Tales: Age of Invention | 74152 | [74152-modern-tales-age-of-invention.json](./74152-modern-tales-age-of-invention.json) |
 | Modern Tanks: War Tank | 213810 | [213810-modern-tanks-war-tank.json](./213810-modern-tanks-war-tank.json) |
@@ -18406,6 +18412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters University | 137564 | [137564-monsters-university.json](./137564-monsters-university.json) |
 | Monsters University | 404650 | [404650-monsters-university.json](./404650-monsters-university.json) |
 | Monsters University: Hide and Sneak | 205615 | [205615-monsters-university-hide-and-sneak.json](./205615-monsters-university-hide-and-sneak.json) |
+| Monsters V Machines 2 | 417131 | [417131-monsters-v-machines-2.json](./417131-monsters-v-machines-2.json) |
 | Monsters Versus Pals | 207460 | [207460-monsters-versus-pals.json](./207460-monsters-versus-pals.json) |
 | Monsters vs. Aliens | 248558 | [248558-monsters-vs-aliens.json](./248558-monsters-vs-aliens.json) |
 | Monsters vs. Aliens | 248559 | [248559-monsters-vs-aliens.json](./248559-monsters-vs-aliens.json) |
@@ -21993,6 +22000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MuseSwipr | 229604 | [229604-museswipr.json](./229604-museswipr.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
+| Museum 8 | 417111 | [417111-museum-8.json](./417111-museum-8.json) |
 | Museum Disarter | 418492 | [418492-museum-disarter.json](./418492-museum-disarter.json) |
 | Museum Keeper | 291328 | [291328-museum-keeper.json](./291328-museum-keeper.json) |
 | Museum Madness | 46937 | [46937-museum-madness.json](./46937-museum-madness.json) |
@@ -23667,6 +23675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Paper Boat | 34979 | [34979-my-paper-boat.json](./34979-my-paper-boat.json) |
 | My Parents are Aliens | 325556 | [325556-my-parents-are-aliens.json](./325556-my-parents-are-aliens.json) |
 | My Parkour | 405430 | [405430-my-parkour.json](./405430-my-parkour.json) |
+| My Party Is Grinding | 417108 | [417108-my-party-is-grinding.json](./417108-my-party-is-grinding.json) |
 | My Party Needs an Alchemist | 315036 | [315036-my-party-needs-an-alchemist.json](./315036-my-party-needs-an-alchemist.json) |
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
 | My Penguin Friend | 423920 | [423920-my-penguin-friend.json](./423920-my-penguin-friend.json) |
