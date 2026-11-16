@@ -10101,7 +10101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WPCA: World Phasebound Control Authority | 394524 | [394524-wpca-world-phasebound-control-authority.json](./394524-wpca-world-phasebound-control-authority.json) |
 | WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
 | Wracing | 385722 | [385722-wracing.json](./385722-wracing.json) |
-| Wrack | 5596 | [5596-wrack.json](./5596-wrack.json) |
 | Wrack: Exoverse | 87560 | [87560-wrack-exoverse.json](./87560-wrack-exoverse.json) |
 | Wrack: Reclamation | 344806 | [344806-wrack-reclamation.json](./344806-wrack-reclamation.json) |
 | Wrain | 302348 | [302348-wrain.json](./302348-wrain.json) |
