@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
 | Japanese Hiragana & Katakana Review DS | 342834 | [342834-japanese-hiragana-and-katakana-review-ds.json](./342834-japanese-hiragana-and-katakana-review-ds.json) |
 | Japanese House Exploration | 308893 | [308893-japanese-house-exploration.json](./308893-japanese-house-exploration.json) |
+| Japanese Jello | 396169 | [396169-japanese-jello.json](./396169-japanese-jello.json) |
 | Japanese Level Design Collab | 381999 | [381999-japanese-level-design-collab.json](./381999-japanese-level-design-collab.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Mah-jongg | 100711 | [100711-japanese-mah-jongg.json](./100711-japanese-mah-jongg.json) |
