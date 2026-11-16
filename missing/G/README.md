@@ -5497,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
 | Glasswinged Ascension | 46484 | [46484-glasswinged-ascension.json](./46484-glasswinged-ascension.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
+| GLave | 393072 | [393072-glave.json](./393072-glave.json) |
 | Glaxxons | 92945 | [92945-glaxxons.json](./92945-glaxxons.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Glaze Cup: Journey to the West | 164156 | [164156-glaze-cup-journey-to-the-west.json](./164156-glaze-cup-journey-to-the-west.json) |
@@ -11679,6 +11680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Ball | 56912 | [56912-guild-ball.json](./56912-guild-ball.json) |
 | Guild Battalion | 297117 | [297117-guild-battalion.json](./297117-guild-battalion.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
+| Guild Dungeons | 393034 | [393034-guild-dungeons.json](./393034-guild-dungeons.json) |
 | Guild Encounters | 377623 | [377623-guild-encounters.json](./377623-guild-encounters.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
 | Guild Keeper | 247842 | [247842-guild-keeper.json](./247842-guild-keeper.json) |
