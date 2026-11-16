@@ -34737,6 +34737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cubiform | 292492 | [292492-super-cubiform.json](./292492-super-cubiform.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Cucho | 122607 | [122607-super-cucho.json](./122607-super-cucho.json) |
+| Super Cucumber | 224728 | [224728-super-cucumber.json](./224728-super-cucumber.json) |
 | Super Cult Tycoon 2 Deluxe Edition | 218620 | [218620-super-cult-tycoon-2-deluxe-edition.json](./218620-super-cult-tycoon-2-deluxe-edition.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
