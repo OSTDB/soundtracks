@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absorb Invader | 303328 | [303328-absorb-invader.json](./303328-absorb-invader.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
 | Absorbed | 101852 | [101852-absorbed.json](./101852-absorbed.json) |
+| Absorber | 255311 | [255311-absorber.json](./255311-absorber.json) |
 | Absorption | 113984 | [113984-absorption.json](./113984-absorption.json) |
 | Abst Clicker Farm | 264381 | [264381-abst-clicker-farm.json](./264381-abst-clicker-farm.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
@@ -3665,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adamant Heart | 386633 | [386633-adamant-heart.json](./386633-adamant-heart.json) |
 | Adamanta View | 189328 | [189328-adamanta-view.json](./189328-adamanta-view.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
+| Adamgelion | 255298 | [255298-adamgelion.json](./255298-adamgelion.json) |
 | Adams Ascending | 113210 | [113210-adams-ascending.json](./113210-adams-ascending.json) |
 | Adamstown | 197167 | [197167-adamstown.json](./197167-adamstown.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
@@ -18459,6 +18461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralis | 376870 | [376870-astralis.json](./376870-astralis.json) |
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralith | 395380 | [395380-astralith.json](./395380-astralith.json) |
+| Astrality | 255295 | [255295-astrality.json](./255295-astrality.json) |
 | Astralode Freeminers | 132350 | [132350-astralode-freeminers.json](./132350-astralode-freeminers.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astralojia: Episode 1 | 119982 | [119982-astralojia-episode-1.json](./119982-astralojia-episode-1.json) |
