@@ -9014,6 +9014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shep Hard | 281439 | [281439-shep-hard.json](./281439-shep-hard.json) |
 | Shepard Fairey VR: Damaged | 110899 | [110899-shepard-fairey-vr-damaged.json](./110899-shepard-fairey-vr-damaged.json) |
 | Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
+| Shepherd | 242189 | [242189-shepherd.json](./242189-shepherd.json) |
 | Shepherd | 361423 | [361423-shepherd.json](./361423-shepherd.json) |
 | Shepherd Dog | 249021 | [249021-shepherd-dog.json](./249021-shepherd-dog.json) |
 | Shepherd Knight | 372123 | [372123-shepherd-knight.json](./372123-shepherd-knight.json) |
@@ -14172,6 +14173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dominion | 292561 | [292561-sky-dominion.json](./292561-sky-dominion.json) |
 | Sky Dreamer | 247284 | [247284-sky-dreamer.json](./247284-sky-dreamer.json) |
 | Sky Dreamer | 346865 | [346865-sky-dreamer.json](./346865-sky-dreamer.json) |
+| Sky Driver | 242195 | [242195-sky-driver.json](./242195-sky-driver.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky End Market | 333460 | [333460-sky-end-market.json](./333460-sky-end-market.json) |
