@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
 | Dances and Girls | 160084 | [160084-dances-and-girls.json](./160084-dances-and-girls.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
+| Dances with Destiny | 299039 | [299039-dances-with-destiny.json](./299039-dances-with-destiny.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
 | DanceWall Remix | 17484 | [17484-dancewall-remix.json](./17484-dancewall-remix.json) |
 | Danchi Days | 321579 | [321579-danchi-days.json](./321579-danchi-days.json) |
@@ -7183,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigod Kiugi | 245267 | [245267-demigod-kiugi.json](./245267-demigod-kiugi.json) |
 | Demigoddess! | 335418 | [335418-demigoddess.json](./335418-demigoddess.json) |
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
+| Demigods of Destiny | 299044 | [299044-demigods-of-destiny.json](./299044-demigods-of-destiny.json) |
 | DemiKids: Dark Version | 19884 | [19884-demikids-dark-version.json](./19884-demikids-dark-version.json) |
 | DemiKids: Light Version | 49185 | [49185-demikids-light-version.json](./49185-demikids-light-version.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
@@ -8531,6 +8533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destind: Mr. Almost Right | 239209 | [239209-destind-mr-almost-right.json](./239209-destind-mr-almost-right.json) |
 | Destined | 100708 | [100708-destined.json](./100708-destined.json) |
 | Destined Corp: Awakening | 349974 | [349974-destined-corp-awakening.json](./349974-destined-corp-awakening.json) |
+| Destined Memories | 299048 | [299048-destined-memories.json](./299048-destined-memories.json) |
 | Destined Notes: The Written Fate | 415435 | [415435-destined-notes-the-written-fate.json](./415435-destined-notes-the-written-fate.json) |
 | Destined to Die | 155419 | [155419-destined-to-die.json](./155419-destined-to-die.json) |
 | Destined to Love: Ikemen Samurai Romances | 163230 | [163230-destined-to-love-ikemen-samurai-romances.json](./163230-destined-to-love-ikemen-samurai-romances.json) |
