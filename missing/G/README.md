@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaggl | 306442 | [306442-gaggl.json](./306442-gaggl.json) |
 | Gaggle Brains! | 155873 | [155873-gaggle-brains.json](./155873-gaggle-brains.json) |
+| Gaghiakuza Breakout | 418496 | [418496-gaghiakuza-breakout.json](./418496-gaghiakuza-breakout.json) |
 | GagImpact | 390267 | [390267-gagimpact.json](./390267-gagimpact.json) |
 | Gah! | 258508 | [258508-gah.json](./258508-gah.json) |
 | Gahkthun of the Golden Lightning | 27000 | [27000-gahkthun-of-the-golden-lightning.json](./27000-gahkthun-of-the-golden-lightning.json) |
@@ -2350,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's World At War | 22455 | [22455-gary-grigsbys-world-at-war.json](./22455-gary-grigsbys-world-at-war.json) |
 | Gary Grigsby's World at War: A World Divided | 208494 | [208494-gary-grigsbys-world-at-war-a-world-divided.json](./208494-gary-grigsbys-world-at-war-a-world-divided.json) |
 | Gary Lineker's Hot-Shot! | 107607 | [107607-gary-linekers-hot-shot.json](./107607-gary-linekers-hot-shot.json) |
+| Gary Lineker's Superskills | 418476 | [418476-gary-linekers-superskills.json](./418476-gary-linekers-superskills.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gary: Dark Secrets | 376172 | [376172-gary-dark-secrets.json](./376172-gary-dark-secrets.json) |
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
@@ -3163,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genemon | 178546 | [178546-genemon.json](./178546-genemon.json) |
 | GeneRacing | 169800 | [169800-generacing.json](./169800-generacing.json) |
 | General Chaos | 10149 | [10149-general-chaos.json](./10149-general-chaos.json) |
+| General Chaos: Major Snafu | 418364 | [418364-general-chaos-major-snafu.json](./418364-general-chaos-major-snafu.json) |
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
 | General Command | 346475 | [346475-general-command.json](./346475-general-command.json) |
 | General Conflict | 64463 | [64463-general-conflict.json](./64463-general-conflict.json) |
@@ -3743,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geopoly | 235170 | [235170-geopoly.json](./235170-geopoly.json) |
 | GeoQuiz | 143015 | [143015-geoquiz.json](./143015-geoquiz.json) |
 | Georg Glaxo | 300554 | [300554-georg-glaxo.json](./300554-georg-glaxo.json) |
+| Georganism | 418459 | [418459-georganism.json](./418459-georganism.json) |
 | George | 178759 | [178759-george.json](./178759-george.json) |
 | George and the Printer | 179672 | [179672-george-and-the-printer.json](./179672-george-and-the-printer.json) |
 | George Foreman's KO Boxing | 275022 | [275022-george-foremans-ko-boxing.json](./275022-george-foremans-ko-boxing.json) |
@@ -3905,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get in Timelessness | 358241 | [358241-get-in-timelessness.json](./358241-get-in-timelessness.json) |
 | Get into Backrooms | 213209 | [213209-get-into-backrooms.json](./213209-get-into-backrooms.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
+| Get It Out | 418510 | [418510-get-it-out.json](./418510-get-it-out.json) |
 | Get It Up! | 357211 | [357211-get-it-up.json](./357211-get-it-up.json) |
 | Get it, Hero! | 165842 | [165842-get-it-hero.json](./165842-get-it-hero.json) |
 | Get Lit | 400420 | [400420-get-lit.json](./400420-get-lit.json) |
@@ -5350,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiatorerna | 400040 | [400040-gladiatorerna.json](./400040-gladiatorerna.json) |
 | Gladiatori | 188893 | [188893-gladiatori.json](./188893-gladiatori.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
+| Gladiators | 418479 | [418479-gladiators.json](./418479-gladiators.json) |
 | Gladiators and Glory | 226567 | [226567-gladiators-and-glory.json](./226567-gladiators-and-glory.json) |
 | Gladiators Arena | 247226 | [247226-gladiators-arena.json](./247226-gladiators-arena.json) |
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
@@ -6955,6 +6961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godslayer Arena | 295851 | [295851-godslayer-arena.json](./295851-godslayer-arena.json) |
 | Godslayer: One | 169035 | [169035-godslayer-one.json](./169035-godslayer-one.json) |
 | Godspeed | 271131 | [271131-godspeed.json](./271131-godspeed.json) |
+| Godspeed Gunslinger | 418481 | [418481-godspeed-gunslinger.json](./418481-godspeed-gunslinger.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godstone | 187822 | [187822-godstone.json](./187822-godstone.json) |
@@ -7714,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomu | 188432 | [188432-gomu.json](./188432-gomu.json) |
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gon: Baku-baku Baku-baku Adventure | 6785 | [6785-gon-baku-baku-baku-baku-adventure.json](./6785-gon-baku-baku-baku-baku-adventure.json) |
+| GON: God Of Nothing | 418377 | [418377-gon-god-of-nothing.json](./418377-gon-god-of-nothing.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
 | Gondola's Adventure | 141707 | [141707-gondolas-adventure.json](./141707-gondolas-adventure.json) |
 | Gondola's Adventure: Single Player & Local Multiplayer | 256046 | [256046-gondolas-adventure-single-player-and-local-multiplayer.json](./256046-gondolas-adventure-single-player-and-local-multiplayer.json) |
@@ -10235,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Scout | 139213 | [139213-grey-scout.json](./139213-grey-scout.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
 | Grey Tower | 171230 | [171230-grey-tower.json](./171230-grey-tower.json) |
+| Grey Verge | 418512 | [418512-grey-verge.json](./418512-grey-verge.json) |
 | Grey Wake | 349511 | [349511-grey-wake.json](./349511-grey-wake.json) |
 | Grey Wolf | 56499 | [56499-grey-wolf.json](./56499-grey-wolf.json) |
 | Grey Zone | 68620 | [68620-grey-zone.json](./68620-grey-zone.json) |
