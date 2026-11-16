@@ -20200,6 +20200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
 | DumbSquad | 258266 | [258266-dumbsquad.json](./258266-dumbsquad.json) |
+| Dumbz Snake | 367324 | [367324-dumbz-snake.json](./367324-dumbz-snake.json) |
 | Dumdum | 379922 | [379922-dumdum.json](./379922-dumdum.json) |
 | Dumdum Afterthoughts | 401721 | [401721-dumdum-afterthoughts.json](./401721-dumdum-afterthoughts.json) |
 | Dummb | 249040 | [249040-dummb.json](./249040-dummb.json) |
