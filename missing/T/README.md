@@ -16445,6 +16445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paddy Field | 328934 | [328934-the-paddy-field.json](./328934-the-paddy-field.json) |
 | The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
 | The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
+| The Pagemaster | 218022 | [218022-the-pagemaster.json](./218022-the-pagemaster.json) |
 | The Pagemaster | 49032 | [49032-the-pagemaster.json](./49032-the-pagemaster.json) |
 | The Pahelika Collection - Revelations and Secret Legends | 25474 | [25474-the-pahelika-collection-revelations-and-secret-legends.json](./25474-the-pahelika-collection-revelations-and-secret-legends.json) |
 | The Paige Files | 255635 | [255635-the-paige-files.json](./255635-the-paige-files.json) |
