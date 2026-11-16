@@ -13535,6 +13535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
 | Mimic Warehouse | 346649 | [346649-mimic-warehouse.json](./346649-mimic-warehouse.json) |
 | MimiCries | 265324 | [265324-mimicries.json](./265324-mimicries.json) |
+| Mimicrune | 395316 | [395316-mimicrune.json](./395316-mimicrune.json) |
 | Mimicry | 166825 | [166825-mimicry.json](./166825-mimicry.json) |
 | Mimicry | 194053 | [194053-mimicry.json](./194053-mimicry.json) |
 | Mimicry | 342757 | [342757-mimicry.json](./342757-mimicry.json) |
@@ -20053,6 +20054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer Advance | 6515 | [6515-moto-racer-advance.json](./6515-moto-racer-advance.json) |
 | Moto Racer Collection | 36248 | [36248-moto-racer-collection.json](./36248-moto-racer-collection.json) |
 | Moto Racer DS | 10564 | [10564-moto-racer-ds.json](./10564-moto-racer-ds.json) |
+| Moto Racer Highway Traffic | 396132 | [396132-moto-racer-highway-traffic.json](./396132-moto-racer-highway-traffic.json) |
 | Moto Racer Simulator GT Games | 256759 | [256759-moto-racer-simulator-gt-games.json](./256759-moto-racer-simulator-gt-games.json) |
 | Moto Racer World Tour | 10562 | [10562-moto-racer-world-tour.json](./10562-moto-racer-world-tour.json) |
 | Moto Racing 3D | 87081 | [87081-moto-racing-3d.json](./87081-moto-racing-3d.json) |
@@ -23949,6 +23951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Summer Adventure: Memories of Another Life | 257842 | [257842-my-summer-adventure-memories-of-another-life.json](./257842-my-summer-adventure-memories-of-another-life.json) |
 | My Summer Adventure: Memories of Another Life - Day 1 | 240809 | [240809-my-summer-adventure-memories-of-another-life-day-1.json](./240809-my-summer-adventure-memories-of-another-life-day-1.json) |
 | My Summer Car | 21453 | [21453-my-summer-car.json](./21453-my-summer-car.json) |
+| My Summer Cottage | 396151 | [396151-my-summer-cottage.json](./396151-my-summer-cottage.json) |
 | My Summer Drive | 342210 | [342210-my-summer-drive.json](./342210-my-summer-drive.json) |
 | My Summer Jobs: Dialing for Dreams! | 238513 | [238513-my-summer-jobs-dialing-for-dreams.json](./238513-my-summer-jobs-dialing-for-dreams.json) |
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
