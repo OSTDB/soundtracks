@@ -5267,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Salem: The Phantom Cab DLC | 377112 | [377112-secrets-of-salem-the-phantom-cab-dlc.json](./377112-secrets-of-salem-the-phantom-cab-dlc.json) |
 | Secrets of Shadows | 310246 | [310246-secrets-of-shadows.json](./310246-secrets-of-shadows.json) |
 | Secrets of Soil | 148738 | [148738-secrets-of-soil.json](./148738-secrets-of-soil.json) |
+| Secrets of Suburbia | 372920 | [372920-secrets-of-suburbia.json](./372920-secrets-of-suburbia.json) |
 | Secrets of Tatjana | 45885 | [45885-secrets-of-tatjana.json](./45885-secrets-of-tatjana.json) |
 | Secrets of Temple Isle | 216847 | [216847-secrets-of-temple-isle.json](./216847-secrets-of-temple-isle.json) |
 | Secrets of the Acropolis | 271978 | [271978-secrets-of-the-acropolis.json](./271978-secrets-of-the-acropolis.json) |
@@ -10793,6 +10794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown of the Dungeon | 112204 | [112204-showdown-of-the-dungeon.json](./112204-showdown-of-the-dungeon.json) |
 | Showdown: Legends of Wrestling | 6051 | [6051-showdown-legends-of-wrestling.json](./6051-showdown-legends-of-wrestling.json) |
 | Showdown: Scorpion | 73024 | [73024-showdown-scorpion.json](./73024-showdown-scorpion.json) |
+| Showdown! Mahjong Tutorial Included | 373964 | [373964-showdown-mahjong-tutorial-included.json](./373964-showdown-mahjong-tutorial-included.json) |
 | ShowdownVR | 31251 | [31251-showdownvr.json](./31251-showdownvr.json) |
 | Shower Game | 409817 | [409817-shower-game.json](./409817-shower-game.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
@@ -13593,7 +13595,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skel and Defense | 304319 | [304319-skel-and-defense.json](./304319-skel-and-defense.json) |
 | Skel Dungeon | 320572 | [320572-skel-dungeon.json](./320572-skel-dungeon.json) |
 | Skelagon | 85807 | [85807-skelagon.json](./85807-skelagon.json) |
-| Skelattack | 54837 | [54837-skelattack.json](./54837-skelattack.json) |
 | Skele Magic | 182944 | [182944-skele-magic.json](./182944-skele-magic.json) |
 | Skeleboy | 393848 | [393848-skeleboy.json](./393848-skeleboy.json) |
 | Skelecool: Remnants | 411028 | [411028-skelecool-remnants.json](./411028-skelecool-remnants.json) |
@@ -15503,6 +15504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Time TD | 153404 | [153404-slime-time-td.json](./153404-slime-time-td.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
+| Slime Town | 372906 | [372906-slime-town.json](./372906-slime-town.json) |
 | Slime Trials | 280760 | [280760-slime-trials.json](./280760-slime-trials.json) |
 | Slime Trials | 340361 | [340361-slime-trials.json](./340361-slime-trials.json) |
 | Slime Up | 149804 | [149804-slime-up.json](./149804-slime-up.json) |
@@ -17015,6 +17017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot Girls | 364970 | [364970-snapshot-girls.json](./364970-snapshot-girls.json) |
 | Snapshot Girls 2 | 366772 | [366772-snapshot-girls-2.json](./366772-snapshot-girls-2.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
+| Snapshot Girls 4 | 373976 | [373976-snapshot-girls-4.json](./373976-snapshot-girls-4.json) |
 | Snapshot Girls 5 | 374897 | [374897-snapshot-girls-5.json](./374897-snapshot-girls-5.json) |
 | Snapshot Girls 6 | 375409 | [375409-snapshot-girls-6.json](./375409-snapshot-girls-6.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
@@ -20786,6 +20789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorting Inc | 333805 | [333805-sorting-inc.json](./333805-sorting-inc.json) |
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | Sorting Sortilege | 176213 | [176213-sorting-sortilege.json](./176213-sorting-sortilege.json) |
+| Sortlandia | 372921 | [372921-sortlandia.json](./372921-sortlandia.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
 | Sortzy States | 413224 | [413224-sortzy-states.json](./413224-sortzy-states.json) |
 | Sorvice | 70879 | [70879-sorvice.json](./70879-sorvice.json) |
@@ -39995,6 +39999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
 | Switchblade: Epic Pack | 252187 | [252187-switchblade-epic-pack.json](./252187-switchblade-epic-pack.json) |
 | Switchboard | 234052 | [234052-switchboard.json](./234052-switchboard.json) |
+| Switchboard | 373966 | [373966-switchboard.json](./373966-switchboard.json) |
 | Switchboard Copper | 184293 | [184293-switchboard-copper.json](./184293-switchboard-copper.json) |
 | Switchboard Heights | 145917 | [145917-switchboard-heights.json](./145917-switchboard-heights.json) |
 | Switchboard Shuffle | 407018 | [407018-switchboard-shuffle.json](./407018-switchboard-shuffle.json) |
