@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A True History of the Adamant Gambit | 188586 | [188586-a-true-history-of-the-adamant-gambit.json](./188586-a-true-history-of-the-adamant-gambit.json) |
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
 | A True Western Romance | 212650 | [212650-a-true-western-romance.json](./212650-a-true-western-romance.json) |
+| A Turd in The Dark | 379287 | [379287-a-turd-in-the-dark.json](./379287-a-turd-in-the-dark.json) |
 | A Turd: The Game | 205213 | [205213-a-turd-the-game.json](./205213-a-turd-the-game.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout Called Justice | 306606 | [306606-a-turnabout-called-justice.json](./306606-a-turnabout-called-justice.json) |
@@ -6772,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
 | Airship Asunder | 32599 | [32599-airship-asunder.json](./32599-airship-asunder.json) |
 | Airship Climber | 402622 | [402622-airship-climber.json](./402622-airship-climber.json) |
+| Airship Combat 3D | 378107 | [378107-airship-combat-3d.json](./378107-airship-combat-3d.json) |
 | Airship Commander | 31432 | [31432-airship-commander.json](./31432-airship-commander.json) |
 | Airship Defender | 270326 | [270326-airship-defender.json](./270326-airship-defender.json) |
 | Airship Dragoon | 17561 | [17561-airship-dragoon.json](./17561-airship-dragoon.json) |
@@ -7164,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AL: Artificial Life | 399066 | [399066-al-artificial-life.json](./399066-al-artificial-life.json) |
 | Al's Home | 94570 | [94570-als-home.json](./94570-als-home.json) |
 | Al's Weather Rokies | 61474 | [61474-als-weather-rokies.json](./61474-als-weather-rokies.json) |
+| Al'ulA | 379294 | [379294-alula.json](./379294-alula.json) |
 | Ala | 336731 | [336731-ala.json](./336731-ala.json) |
 | Ala Mobile | 372093 | [372093-ala-mobile.json](./372093-ala-mobile.json) |
 | Ala Mobile GP | 175736 | [175736-ala-mobile-gp.json](./175736-ala-mobile-gp.json) |
@@ -10453,6 +10456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Easy Lay | 178476 | [178476-an-easy-lay.json](./178476-an-easy-lay.json) |
 | An Ecospace of Epochs | 417210 | [417210-an-ecospace-of-epochs.json](./417210-an-ecospace-of-epochs.json) |
 | An Egg Can Dream | 126923 | [126923-an-egg-can-dream.json](./126923-an-egg-can-dream.json) |
+| An Eggstremely Hard Game | 378071 | [378071-an-eggstremely-hard-game.json](./378071-an-eggstremely-hard-game.json) |
 | An Elaborate History of Chess | 250293 | [250293-an-elaborate-history-of-chess.json](./250293-an-elaborate-history-of-chess.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
@@ -11205,6 +11209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anger Birds | 259407 | [259407-anger-birds.json](./259407-anger-birds.json) |
 | Anger of Peace 5 | 273753 | [273753-anger-of-peace-5.json](./273753-anger-of-peace-5.json) |
 | Anger of Stick 2 | 299011 | [299011-anger-of-stick-2.json](./299011-anger-of-stick-2.json) |
+| Anger of Stick 3 | 379270 | [379270-anger-of-stick-3.json](./379270-anger-of-stick-3.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
 | Anger of Stick 5: Zombie | 331159 | [331159-anger-of-stick-5-zombie.json](./331159-anger-of-stick-5-zombie.json) |
 | Angeraze | 361954 | [361954-angeraze.json](./361954-angeraze.json) |
@@ -11248,6 +11253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Anglerfish | 190954 | [190954-anglerfish.json](./190954-anglerfish.json) |
 | Angles | 89390 | [89390-angles.json](./89390-angles.json) |
+| Angles of Death | 384433 | [384433-angles-of-death.json](./384433-angles-of-death.json) |
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
 | Angmngthoo | 275188 | [275188-angmngthoo.json](./275188-angmngthoo.json) |
 | Angola '86 | 251882 | [251882-angola-86.json](./251882-angola-86.json) |
@@ -11313,7 +11319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Journey | 185229 | [185229-angry-birds-journey.json](./185229-angry-birds-journey.json) |
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
 | Angry Birds Legends | 199980 | [199980-angry-birds-legends.json](./199980-angry-birds-legends.json) |
-| Angry Birds Match | 56590 | [56590-angry-birds-match.json](./56590-angry-birds-match.json) |
 | Angry Birds Match World | 377794 | [377794-angry-birds-match-world.json](./377794-angry-birds-match-world.json) |
 | Angry Birds Matching | 325566 | [325566-angry-birds-matching.json](./325566-angry-birds-matching.json) |
 | Angry Birds McDonald's | 202075 | [202075-angry-birds-mcdonalds.json](./202075-angry-birds-mcdonalds.json) |
@@ -16747,6 +16752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthorse Exhibition | 184003 | [184003-arthorse-exhibition.json](./184003-arthorse-exhibition.json) |
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
 | Arthur & Susan: Almost Detectives | 270534 | [270534-arthur-and-susan-almost-detectives.json](./270534-arthur-and-susan-almost-detectives.json) |
+| Arthur and His Companions | 384430 | [384430-arthur-and-his-companions.json](./384430-arthur-and-his-companions.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
 | Arthur Conan Doyle's The Lost World | 406669 | [406669-arthur-conan-doyles-the-lost-world.json](./406669-arthur-conan-doyles-the-lost-world.json) |
