@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
 | Case White | 177768 | [177768-case-white.json](./177768-case-white.json) |
 | Case Zero | 306321 | [306321-case-zero.json](./306321-case-zero.json) |
+| Case: Online | 294313 | [294313-case-online.json](./294313-case-online.json) |
 | Casebook 1899: The Leipzig Murders | 195304 | [195304-casebook-1899-the-leipzig-murders.json](./195304-casebook-1899-the-leipzig-murders.json) |
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
@@ -19046,6 +19047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Derby Racing | 169522 | [169522-crazy-derby-racing.json](./169522-crazy-derby-racing.json) |
 | Crazy Designer | 239789 | [239789-crazy-designer.json](./239789-crazy-designer.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
+| Crazy Destruction | 294316 | [294316-crazy-destruction.json](./294316-crazy-destruction.json) |
 | Crazy Digger | 407508 | [407508-crazy-digger.json](./407508-crazy-digger.json) |
 | Crazy Digger 2 | 407509 | [407509-crazy-digger-2.json](./407509-crazy-digger-2.json) |
 | Crazy Digger 2 Level Pack | 407510 | [407510-crazy-digger-2-level-pack.json](./407510-crazy-digger-2-level-pack.json) |
@@ -21731,6 +21733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
 | Cube Land | 422773 | [422773-cube-land.json](./422773-cube-land.json) |
 | Cube Land Arena | 33288 | [33288-cube-land-arena.json](./33288-cube-land-arena.json) |
+| Cube Lands: The Final Wish | 294321 | [294321-cube-lands-the-final-wish.json](./294321-cube-lands-the-final-wish.json) |
 | Cube Life: Island Survival | 60151 | [60151-cube-life-island-survival.json](./60151-cube-life-island-survival.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
 | Cube Life: Island Survival HD | 85062 | [85062-cube-life-island-survival-hd.json](./85062-cube-life-island-survival-hd.json) |
