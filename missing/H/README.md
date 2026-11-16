@@ -4058,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
 | Heat and Run | 130120 | [130120-heat-and-run.json](./130120-heat-and-run.json) |
 | Heat Death | 191653 | [191653-heat-death.json](./191653-heat-death.json) |
+| Heat Death: Survival Train | 279839 | [279839-heat-death-survival-train.json](./279839-heat-death-survival-train.json) |
 | Heat Division: Rescue Team | 266103 | [266103-heat-division-rescue-team.json](./266103-heat-division-rescue-team.json) |
 | Heat Game Network | 94421 | [94421-heat-game-network.json](./94421-heat-game-network.json) |
 | Heat Gear: Race & Drift World | 193847 | [193847-heat-gear-race-and-drift-world.json](./193847-heat-gear-race-and-drift-world.json) |
@@ -4739,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Red Army Cossack | 371024 | [371024-hell-let-loose-red-army-cossack.json](./371024-hell-let-loose-red-army-cossack.json) |
 | Hell Let Loose: Red Devils | 312015 | [312015-hell-let-loose-red-devils.json](./312015-hell-let-loose-red-devils.json) |
 | Hell Let Loose: Red Marshall | 371222 | [371222-hell-let-loose-red-marshall.json](./371222-hell-let-loose-red-marshall.json) |
+| Hell Let Loose: Red Skies | 279979 | [279979-hell-let-loose-red-skies.json](./279979-hell-let-loose-red-skies.json) |
 | Hell Let Loose: Red Steel | 248427 | [248427-hell-let-loose-red-steel.json](./248427-hell-let-loose-red-steel.json) |
 | Hell Let Loose: Silver Vanguard | 371225 | [371225-hell-let-loose-silver-vanguard.json](./371225-hell-let-loose-silver-vanguard.json) |
 | Hell Let Loose: Skull Bucket | 371227 | [371227-hell-let-loose-skull-bucket.json](./371227-hell-let-loose-skull-bucket.json) |
@@ -6421,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
 | Hepta Beats | 157347 | [157347-hepta-beats.json](./157347-hepta-beats.json) |
 | Heptagon | 149788 | [149788-heptagon.json](./149788-heptagon.json) |
+| Heptic Arena | 279915 | [279915-heptic-arena.json](./279915-heptic-arena.json) |
 | Heptrix | 84523 | [84523-heptrix.json](./84523-heptrix.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
@@ -8083,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Greed Collection | 393209 | [393209-hidden-object-greed-collection.json](./393209-hidden-object-greed-collection.json) |
 | Hidden Object Hunt | 277446 | [277446-hidden-object-hunt.json](./277446-hidden-object-hunt.json) |
 | Hidden Object Hunt Classic | 172900 | [172900-hidden-object-hunt-classic.json](./172900-hidden-object-hunt-classic.json) |
+| Hidden Object Legends: Deadly Love - Collector's Edition | 279841 | [279841-hidden-object-legends-deadly-love-collectors-edition.json](./279841-hidden-object-legends-deadly-love-collectors-edition.json) |
 | Hidden Object Mania! | 146496 | [146496-hidden-object-mania.json](./146496-hidden-object-mania.json) |
 | Hidden Object Mysteries 3 | 198089 | [198089-hidden-object-mysteries-3.json](./198089-hidden-object-mysteries-3.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
