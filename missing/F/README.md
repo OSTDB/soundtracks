@@ -4199,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Ducks | 128867 | [128867-feed-the-ducks.json](./128867-feed-the-ducks.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
+| Feed the fish | 415358 | [415358-feed-the-fish.json](./415358-feed-the-fish.json) |
 | Feed The Flames | 375335 | [375335-feed-the-flames.json](./375335-feed-the-flames.json) |
 | Feed the Forest | 402224 | [402224-feed-the-forest.json](./402224-feed-the-forest.json) |
 | Feed The Frog King: Incremental TD | 417583 | [417583-feed-the-frog-king-incremental-td.json](./417583-feed-the-frog-king-incremental-td.json) |
@@ -7170,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First World War | 59322 | [59322-first-world-war.json](./59322-first-world-war.json) |
 | First-Person Bundle | 82545 | [82545-first-person-bundle.json](./82545-first-person-bundle.json) |
 | First-Person Data Explorer | 363622 | [363622-first-person-data-explorer.json](./363622-first-person-data-explorer.json) |
+| First-Person Jigsaw | 415354 | [415354-first-person-jigsaw.json](./415354-first-person-jigsaw.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | First! Person Shooter | 333228 | [333228-first-person-shooter.json](./333228-first-person-shooter.json) |
 | FirstPlanet | 114552 | [114552-firstplanet.json](./114552-firstplanet.json) |
@@ -12476,6 +12478,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPJ's Ang Probinsyano | 83707 | [83707-fpjs-ang-probinsyano.json](./83707-fpjs-ang-probinsyano.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
 | FPS Bullet Storm | 356531 | [356531-fps-bullet-storm.json](./356531-fps-bullet-storm.json) |
+| FPS Chess 2 | 415132 | [415132-fps-chess-2.json](./415132-fps-chess-2.json) |
+| FPS Chess: Ignition | 415131 | [415131-fps-chess-ignition.json](./415131-fps-chess-ignition.json) |
 | FPS Dinosaurs | 399659 | [399659-fps-dinosaurs.json](./399659-fps-dinosaurs.json) |
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
 | FPS Infinite | 334154 | [334154-fps-infinite.json](./334154-fps-infinite.json) |
