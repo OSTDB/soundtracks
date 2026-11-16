@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Sword: Ryakudatsusareta 10-nin no Otome | 42050 | [42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json](./42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json) |
 | Lady Thalia and the Masterpiece of Moldavia | 290396 | [290396-lady-thalia-and-the-masterpiece-of-moldavia.json](./290396-lady-thalia-and-the-masterpiece-of-moldavia.json) |
 | Lady Thalia and the Rose of Rocroi | 290395 | [290395-lady-thalia-and-the-rose-of-rocroi.json](./290395-lady-thalia-and-the-rose-of-rocroi.json) |
+| Lady Thalia and the Seraskier Sapphires | 230564 | [230564-lady-thalia-and-the-seraskier-sapphires.json](./230564-lady-thalia-and-the-seraskier-sapphires.json) |
 | Lady Tut | 23961 | [23961-lady-tut.json](./23961-lady-tut.json) |
 | Lady's Escape | 367388 | [367388-ladys-escape.json](./367388-ladys-escape.json) |
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
@@ -10238,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Heroines | 123879 | [123879-lovely-heroines.json](./123879-lovely-heroines.json) |
 | Lovely Horror: Ochame na Yuurei | 269414 | [269414-lovely-horror-ochame-na-yuurei.json](./269414-lovely-horror-ochame-na-yuurei.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
+| Lovely Kana | 230029 | [230029-lovely-kana.json](./230029-lovely-kana.json) |
 | Lovely Kitchen | 146585 | [146585-lovely-kitchen.json](./146585-lovely-kitchen.json) |
 | Lovely Kitchen | 153134 | [153134-lovely-kitchen.json](./153134-lovely-kitchen.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
