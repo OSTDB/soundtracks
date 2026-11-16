@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2d: Block Mesa | 177694 | [177694-half-life-2d-block-mesa.json](./177694-half-life-2d-block-mesa.json) |
 | Half-Life 3 | 28029 | [28029-half-life-3.json](./28029-half-life-3.json) |
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
+| Half-Life Arena | 379260 | [379260-half-life-arena.json](./379260-half-life-arena.json) |
 | Half-Life Deathmatch: Source | 19348 | [19348-half-life-deathmatch-source.json](./19348-half-life-deathmatch-source.json) |
 | Half-Life Decay: Solo Mission | 196081 | [196081-half-life-decay-solo-mission.json](./196081-half-life-decay-solo-mission.json) |
 | Half-Life FX: Single | 323781 | [323781-half-life-fx-single.json](./323781-half-life-fx-single.json) |
@@ -7021,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Maidan 2 | 113902 | [113902-heroes-of-maidan-2.json](./113902-heroes-of-maidan-2.json) |
 | Heroes of Maidan 3 | 127754 | [127754-heroes-of-maidan-3.json](./127754-heroes-of-maidan-3.json) |
 | Heroes of Mavia | 280426 | [280426-heroes-of-mavia.json](./280426-heroes-of-mavia.json) |
+| Heroes of Megatoweropolis: Operation Bluelight | 378074 | [378074-heroes-of-megatoweropolis-operation-bluelight.json](./378074-heroes-of-megatoweropolis-operation-bluelight.json) |
 | Heroes of Might & Magic III: HD Edition | 20052 | [20052-heroes-of-might-and-magic-iii-hd-edition.json](./20052-heroes-of-might-and-magic-iii-hd-edition.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
 | Heroes of Might and Magic | 143578 | [143578-heroes-of-might-and-magic.json](./143578-heroes-of-might-and-magic.json) |
@@ -8615,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Frontier | 15832 | [15832-high-frontier.json](./15832-high-frontier.json) |
 | High Frontier 4 All | 404412 | [404412-high-frontier-4-all.json](./404412-high-frontier-4-all.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
+| High Functioning | 378066 | [378066-high-functioning.json](./378066-high-functioning.json) |
 | High Für 3 Score | 243019 | [243019-high-fur-3-score.json](./243019-high-fur-3-score.json) |
 | High Gravity | 421218 | [421218-high-gravity.json](./421218-high-gravity.json) |
 | High Grenadier | 108766 | [108766-high-grenadier.json](./108766-high-grenadier.json) |
@@ -10200,6 +10203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Mind: The Lost Puppy | 169625 | [169625-hollow-mind-the-lost-puppy.json](./169625-hollow-mind-the-lost-puppy.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
+| Hollow Mire: Shadow of Breken House | 378080 | [378080-hollow-mire-shadow-of-breken-house.json](./378080-hollow-mire-shadow-of-breken-house.json) |
 | Hollow Mission | 242960 | [242960-hollow-mission.json](./242960-hollow-mission.json) |
 | Hollow Ones | 422102 | [422102-hollow-ones.json](./422102-hollow-ones.json) |
 | Hollow Overhaul | 317521 | [317521-hollow-overhaul.json](./317521-hollow-overhaul.json) |
@@ -11532,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo: Present For You | 401167 | [401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json](./401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json) |
 | Horoboshi-hime | 320826 | [320826-horoboshi-hime.json](./320826-horoboshi-hime.json) |
 | Hororo Meguru's Bing!! Ball | 292974 | [292974-hororo-megurus-bing-ball.json](./292974-hororo-megurus-bing-ball.json) |
+| Horos: Web of Shadows | 379259 | [379259-horos-web-of-shadows.json](./379259-horos-web-of-shadows.json) |
 | Horoscopicus | 220380 | [220380-horoscopicus.json](./220380-horoscopicus.json) |
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
 | Horresco Referens | 119876 | [119876-horresco-referens.json](./119876-horresco-referens.json) |
@@ -11684,6 +11689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Adventure: Tale of Etria | 364455 | [364455-horse-adventure-tale-of-etria.json](./364455-horse-adventure-tale-of-etria.json) |
 | Horse and Go Seek | 197041 | [197041-horse-and-go-seek.json](./197041-horse-and-go-seek.json) |
 | Horse Blocks - Puzzle Games | 100719 | [100719-horse-blocks-puzzle-games.json](./100719-horse-blocks-puzzle-games.json) |
+| Horse Breaker | 378103 | [378103-horse-breaker.json](./378103-horse-breaker.json) |
 | Horse Camp | 209884 | [209884-horse-camp.json](./209884-horse-camp.json) |
 | Horse Club Adventures | 144526 | [144526-horse-club-adventures.json](./144526-horse-club-adventures.json) |
 | Horse Club Adventures 2: Gold Edition | 252625 | [252625-horse-club-adventures-2-gold-edition.json](./252625-horse-club-adventures-2-gold-edition.json) |
@@ -12756,6 +12762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
 | Hovercraft: Getaway | 211245 | [211245-hovercraft-getaway.json](./211245-hovercraft-getaway.json) |
 | Hovercraft: Takedown | 106049 | [106049-hovercraft-takedown.json](./106049-hovercraft-takedown.json) |
+| Hovercrafts x Nihilism | 379252 | [379252-hovercrafts-x-nihilism.json](./379252-hovercrafts-x-nihilism.json) |
 | Hovercrash: Turbo Boost Racing | 251119 | [251119-hovercrash-turbo-boost-racing.json](./251119-hovercrash-turbo-boost-racing.json) |
 | Hoverdrive | 419103 | [419103-hoverdrive.json](./419103-hoverdrive.json) |
 | Hoverflow | 167420 | [167420-hoverflow.json](./167420-hoverflow.json) |
@@ -12809,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Fennec Fox Built a Home | 95522 | [95522-how-fennec-fox-built-a-home.json](./95522-how-fennec-fox-built-a-home.json) |
 | How Fish Is Made | 187151 | [187151-how-fish-is-made.json](./187151-how-fish-is-made.json) |
 | How I Escaped Futa Prison | 235810 | [235810-how-i-escaped-futa-prison.json](./235810-how-i-escaped-futa-prison.json) |
+| How I Flex With AI | 379274 | [379274-how-i-flex-with-ai.json](./379274-how-i-flex-with-ai.json) |
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
 | How I Learned to Stop Worrying and Enjoy the End of the World | 262721 | [262721-how-i-learned-to-stop-worrying-and-enjoy-the-end-of-the-world.json](./262721-how-i-learned-to-stop-worrying-and-enjoy-the-end-of-the-world.json) |
 | How I Met My Healthy Hentai Neighbors! | 354754 | [354754-how-i-met-my-healthy-hentai-neighbors.json](./354754-how-i-met-my-healthy-hentai-neighbors.json) |
@@ -14061,6 +14069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydro Thunder Go | 65923 | [65923-hydro-thunder-go.json](./65923-hydro-thunder-go.json) |
 | Hydroactive | 76372 | [76372-hydroactive.json](./76372-hydroactive.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
+| Hydrofoil Surfing | 379251 | [379251-hydrofoil-surfing.json](./379251-hydrofoil-surfing.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
 | Hydrogen | 295875 | [295875-hydrogen.json](./295875-hydrogen.json) |
 | Hydrogen Game | 295201 | [295201-hydrogen-game.json](./295201-hydrogen-game.json) |
