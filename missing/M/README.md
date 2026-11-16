@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | Make your Adventure | 135011 | [135011-make-your-adventure.json](./135011-make-your-adventure.json) |
 | Make Your Choice | 338623 | [338623-make-your-choice.json](./338623-make-your-choice.json) |
+| Make Your Country Dominate Again | 339546 | [339546-make-your-country-dominate-again.json](./339546-make-your-country-dominate-again.json) |
 | Make Your Country Great Again | 309541 | [309541-make-your-country-great-again.json](./309541-make-your-country-great-again.json) |
 | Make Your Kingdom | 112781 | [112781-make-your-kingdom.json](./112781-make-your-kingdom.json) |
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
