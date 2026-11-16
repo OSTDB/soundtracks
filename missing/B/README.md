@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bashful Adoration | 325342 | [325342-bashful-adoration.json](./325342-bashful-adoration.json) |
 | Bashi Blocks | 42830 | [42830-bashi-blocks.json](./42830-bashi-blocks.json) |
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
+| Bashnya | 378105 | [378105-bashnya.json](./378105-bashnya.json) |
 | Basho's Frogger | 219502 | [219502-bashos-frogger.json](./219502-bashos-frogger.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | Bashville | 87981 | [87981-bashville.json](./87981-bashville.json) |
@@ -3520,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Court VR | 354905 | [354905-basketball-court-vr.json](./354905-basketball-court-vr.json) |
 | Basketball Crew 2k18: Dunk Stars Street Battle! | 216094 | [216094-basketball-crew-2k18-dunk-stars-street-battle.json](./216094-basketball-crew-2k18-dunk-stars-street-battle.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
+| Basketball Dunk! | 378108 | [378108-basketball-dunk.json](./378108-basketball-dunk.json) |
 | Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
 | Basketball FRVR | 305414 | [305414-basketball-frvr.json](./305414-basketball-frvr.json) |
 | BasketBall Fun | 87399 | [87399-basketball-fun.json](./87399-basketball-fun.json) |
@@ -3532,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Hoop | 106437 | [106437-basketball-hoop.json](./106437-basketball-hoop.json) |
 | Basketball Legends 24 | 320758 | [320758-basketball-legends-24.json](./320758-basketball-legends-24.json) |
 | Basketball Madness | 132961 | [132961-basketball-madness.json](./132961-basketball-madness.json) |
+| Basketball Mania | 378111 | [378111-basketball-mania.json](./378111-basketball-mania.json) |
 | Basketball NBA 17 | 99105 | [99105-basketball-nba-17.json](./99105-basketball-nba-17.json) |
 | Basketball Nightmare | 45667 | [45667-basketball-nightmare.json](./45667-basketball-nightmare.json) |
 | Basketball Odyssey | 246269 | [246269-basketball-odyssey.json](./246269-basketball-odyssey.json) |
@@ -7288,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benchmark | 319424 | [319424-benchmark.json](./319424-benchmark.json) |
 | Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
 | Bend-jo | 362934 | [362934-bend-jo.json](./362934-bend-jo.json) |
+| Bend1 | 379257 | [379257-bend1.json](./379257-bend1.json) |
 | Bender 2: Bend Harder | 319163 | [319163-bender-2-bend-harder.json](./319163-bender-2-bend-harder.json) |
 | Bender Kills Planet Express | 276539 | [276539-bender-kills-planet-express.json](./276539-bender-kills-planet-express.json) |
 | Benderman VR | 264730 | [264730-benderman-vr.json](./264730-benderman-vr.json) |
@@ -8778,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Xtreme | 101680 | [101680-bike-xtreme.json](./101680-bike-xtreme.json) |
 | Bikeflyter | 142643 | [142643-bikeflyter.json](./142643-bikeflyter.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
+| Bikepacking Simulator | 378076 | [378076-bikepacking-simulator.json](./378076-bikepacking-simulator.json) |
 | Bikepark: The Riders Game | 60945 | [60945-bikepark-the-riders-game.json](./60945-bikepark-the-riders-game.json) |
 | Biker Bash | 84990 | [84990-biker-bash.json](./84990-biker-bash.json) |
 | Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
@@ -9169,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Soup | 72354 | [72354-bio-soup.json](./72354-bio-soup.json) |
 | Bio Spheres | 13402 | [13402-bio-spheres.json](./13402-bio-spheres.json) |
 | Bio Worm | 134359 | [134359-bio-worm.json](./134359-bio-worm.json) |
+| Bio-Breaker | 378070 | [378070-bio-breaker.json](./378070-bio-breaker.json) |
 | Bio-Defense | 408354 | [408354-bio-defense.json](./408354-bio-defense.json) |
 | Bio-Hazard | 313593 | [313593-bio-hazard.json](./313593-bio-hazard.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
@@ -10989,6 +10995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Out | 68855 | [68855-blast-out.json](./68855-blast-out.json) |
 | Blast Processed | 350551 | [350551-blast-processed.json](./350551-blast-processed.json) |
 | Blast Pulser | 179121 | [179121-blast-pulser.json](./179121-blast-pulser.json) |
+| Blast Racer | 379261 | [379261-blast-racer.json](./379261-blast-racer.json) |
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
 | Blast Radius | 360660 | [360660-blast-radius.json](./360660-blast-radius.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
@@ -13317,6 +13324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlueberryNova | 95254 | [95254-blueberrynova.json](./95254-blueberrynova.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
 | Bluebird of Happiness | 213470 | [213470-bluebird-of-happiness.json](./213470-bluebird-of-happiness.json) |
+| BlueBirdRP | 378083 | [378083-bluebirdrp.json](./378083-bluebirdrp.json) |
 | Blueblood Arena | 400913 | [400913-blueblood-arena.json](./400913-blueblood-arena.json) |
 | BlueBoi | 127558 | [127558-blueboi.json](./127558-blueboi.json) |
 | BlueBoi Remastered | 134908 | [134908-blueboi-remastered.json](./134908-blueboi-remastered.json) |
@@ -13483,6 +13491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardbite | 424829 | [424829-boardbite.json](./424829-boardbite.json) |
 | Boarder Zone | 288071 | [288071-boarder-zone.json](./288071-boarder-zone.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
+| Boardfall Zero | 376408 | [376408-boardfall-zero.json](./376408-boardfall-zero.json) |
 | Boarding Denied | 422118 | [422118-boarding-denied.json](./422118-boarding-denied.json) |
 | Boardland | 285914 | [285914-boardland.json](./285914-boardland.json) |
 | Boardlike | 376538 | [376538-boardlike.json](./376538-boardlike.json) |
@@ -14246,6 +14255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman | 287647 | [287647-bomberman.json](./287647-bomberman.json) |
 | Bomberman | 3445 | [3445-bomberman.json](./3445-bomberman.json) |
 | Bomberman | 3446 | [3446-bomberman.json](./3446-bomberman.json) |
+| BomberMan | 379264 | [379264-bomberman.json](./379264-bomberman.json) |
 | Bomberman '08 | 198191 | [198191-bomberman-08.json](./198191-bomberman-08.json) |
 | Bomberman '93 | 42097 | [42097-bomberman-93.json](./42097-bomberman-93.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
@@ -14564,6 +14574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk Jam! | 309234 | [309234-bonk-jam.json](./309234-bonk-jam.json) |
 | Bonk Market | 420374 | [420374-bonk-market.json](./420374-bonk-market.json) |
 | Bonk the Ball! | 181602 | [181602-bonk-the-ball.json](./181602-bonk-the-ball.json) |
+| Bonk the Boykisser | 379281 | [379281-bonk-the-boykisser.json](./379281-bonk-the-boykisser.json) |
 | Bonk The Goblins! | 325232 | [325232-bonk-the-goblins.json](./325232-bonk-the-goblins.json) |
 | Bonk the Rat | 338436 | [338436-bonk-the-rat.json](./338436-bonk-the-rat.json) |
 | Bonk the Rat | 338437 | [338437-bonk-the-rat.json](./338437-bonk-the-rat.json) |
