@@ -10792,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cityscape Sprint | 208676 | [208676-cityscape-sprint.json](./208676-cityscape-sprint.json) |
 | Cityscapes | 386554 | [386554-cityscapes.json](./386554-cityscapes.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
+| CitySpotter | 400023 | [400023-cityspotter.json](./400023-cityspotter.json) |
 | Citystate | 84003 | [84003-citystate.json](./84003-citystate.json) |
 | Citystate II | 142168 | [142168-citystate-ii.json](./142168-citystate-ii.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
@@ -12193,6 +12194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clout Up | 106067 | [106067-clout-up.json](./106067-clout-up.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Cloven Crania Meadow | 52503 | [52503-cloven-crania-meadow.json](./52503-cloven-crania-meadow.json) |
+| Clover | 401233 | [401233-clover.json](./401233-clover.json) |
 | Clover | 92025 | [92025-clover.json](./92025-clover.json) |
 | Clover Cove | 385119 | [385119-clover-cove.json](./385119-clover-cove.json) |
 | Clover Cuby | 267340 | [267340-clover-cuby.json](./267340-clover-cuby.json) |
@@ -17601,6 +17603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CounterBlocks | 170828 | [170828-counterblocks.json](./170828-counterblocks.json) |
 | Counterclocking | 245849 | [245849-counterclocking.json](./245849-counterclocking.json) |
 | Counterfeit | 185572 | [185572-counterfeit.json](./185572-counterfeit.json) |
+| Counterfeit Café | 401211 | [401211-counterfeit-cafe.json](./401211-counterfeit-cafe.json) |
 | Counterfeit Monkey | 2944 | [2944-counterfeit-monkey.json](./2944-counterfeit-monkey.json) |
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Counterhero: Chapter 1 | 178002 | [178002-counterhero-chapter-1.json](./178002-counterhero-chapter-1.json) |
