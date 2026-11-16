@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Dash Dungeon | 406230 | [406230-v-dash-dungeon.json](./406230-v-dash-dungeon.json) |
 | V-Fighter 2000 | 191143 | [191143-v-fighter-2000.json](./191143-v-fighter-2000.json) |
 | V-Frogger | 46517 | [46517-v-frogger.json](./46517-v-frogger.json) |
+| V-Girl Aori | 367338 | [367338-v-girl-aori.json](./367338-v-girl-aori.json) |
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
 | V-Gunn | 269477 | [269477-v-gunn.json](./269477-v-gunn.json) |
 | V-Hunter Puzzler DX | 238714 | [238714-v-hunter-puzzler-dx.json](./238714-v-hunter-puzzler-dx.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of the Volcano | 191214 | [191214-veil-of-the-volcano.json](./191214-veil-of-the-volcano.json) |
 | Veil of Time | 423373 | [423373-veil-of-time.json](./423373-veil-of-time.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
+| Veil Play | 384439 | [384439-veil-play.json](./384439-veil-play.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
 | Veil Transfer | 318733 | [318733-veil-transfer.json](./318733-veil-transfer.json) |
@@ -1730,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermin God: SCP Horror Game | 235157 | [235157-vermin-god-scp-horror-game.json](./235157-vermin-god-scp-horror-game.json) |
 | Vermin Hunter | 120774 | [120774-vermin-hunter.json](./120774-vermin-hunter.json) |
 | Vermin Kids | 301793 | [301793-vermin-kids.json](./301793-vermin-kids.json) |
+| Vermination | 379286 | [379286-vermination.json](./379286-vermination.json) |
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
 | Verminest | 141262 | [141262-verminest.json](./141262-verminest.json) |
 | Verminsteel | 392842 | [392842-verminsteel.json](./392842-verminsteel.json) |
@@ -2474,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Trickshot: Full Game | 168083 | [168083-viking-trickshot-full-game.json](./168083-viking-trickshot-full-game.json) |
 | Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Venture | 419007 | [419007-viking-venture.json](./419007-viking-venture.json) |
+| Viking Ventures | 371779 | [371779-viking-ventures.json](./371779-viking-ventures.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
 | Viking Warrior | 142655 | [142655-viking-warrior.json](./142655-viking-warrior.json) |
 | Viking: Battle for Asgard | 7234 | [7234-viking-battle-for-asgard.json](./7234-viking-battle-for-asgard.json) |
@@ -2954,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Bomberman | 234006 | [234006-virtual-bomberman.json](./234006-virtual-bomberman.json) |
 | Virtual Bowling | 20988 | [20988-virtual-bowling.json](./20988-virtual-bowling.json) |
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
+| Virtual Boy Mario | 379269 | [379269-virtual-boy-mario.json](./379269-virtual-boy-mario.json) |
 | Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
 | Virtual Cameraman | 307992 | [307992-virtual-cameraman.json](./307992-virtual-cameraman.json) |
 | Virtual Cameraman 2: Phuket, Thailand / Pickup Compilation | 307993 | [307993-virtual-cameraman-2-phuket-thailand-pickup-compilation.json](./307993-virtual-cameraman-2-phuket-thailand-pickup-compilation.json) |
@@ -3893,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidwalkers: The Gates of Hell - Death to the Heretics! | 208338 | [208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json](./208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json) |
 | Voidwalkers: The Gates of Hell - Hell's Dungeon | 205036 | [205036-voidwalkers-the-gates-of-hell-hells-dungeon.json](./205036-voidwalkers-the-gates-of-hell-hells-dungeon.json) |
 | Voidwalkers: The Gates of Hell - The Devil's Towers | 205856 | [205856-voidwalkers-the-gates-of-hell-the-devils-towers.json](./205856-voidwalkers-the-gates-of-hell-the-devils-towers.json) |
+| Voidwatch | 372908 | [372908-voidwatch.json](./372908-voidwatch.json) |
 | Voidwell | 384040 | [384040-voidwell.json](./384040-voidwell.json) |
 | Voidwood | 413180 | [413180-voidwood.json](./413180-voidwood.json) |
 | Voidzone | 384034 | [384034-voidzone.json](./384034-voidzone.json) |
@@ -4420,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Horror | 99273 | [99273-vr-horror.json](./99273-vr-horror.json) |
 | VR Horror Survival Zombie Battle | 169261 | [169261-vr-horror-survival-zombie-battle.json](./169261-vr-horror-survival-zombie-battle.json) |
 | VR Hot | 171128 | [171128-vr-hot.json](./171128-vr-hot.json) |
+| VR Hourse Racing Sweetie | 384450 | [384450-vr-hourse-racing-sweetie.json](./384450-vr-hourse-racing-sweetie.json) |
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
 | VR Hurl | 54479 | [54479-vr-hurl.json](./54479-vr-hurl.json) |
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
