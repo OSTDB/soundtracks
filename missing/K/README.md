@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
 | King-Dom | 105739 | [105739-king-dom.json](./105739-king-dom.json) |
 | King, Witch and Dragon | 217170 | [217170-king-witch-and-dragon.json](./217170-king-witch-and-dragon.json) |
+| King: A Bullet-Hell RPG | 242271 | [242271-king-a-bullet-hell-rpg.json](./242271-king-a-bullet-hell-rpg.json) |
 | King's Amusements | 382139 | [382139-kings-amusements.json](./382139-kings-amusements.json) |
 | King's Beat | 365973 | [365973-kings-beat.json](./365973-kings-beat.json) |
 | King's Blade | 226868 | [226868-kings-blade.json](./226868-kings-blade.json) |
@@ -6139,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Adventures in Russia | 156547 | [156547-korean-adventures-in-russia.json](./156547-korean-adventures-in-russia.json) |
 | Korean BBQ Simulator | 219892 | [219892-korean-bbq-simulator.json](./219892-korean-bbq-simulator.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
+| Korean Drama Girl Adventures | 242193 | [242193-korean-drama-girl-adventures.json](./242193-korean-drama-girl-adventures.json) |
 | Korean Drone Flying Tour Anmyeon Temple | 368755 | [368755-korean-drone-flying-tour-anmyeon-temple.json](./368755-korean-drone-flying-tour-anmyeon-temple.json) |
 | Korean Drone Flying Tour Ansan-si | 345971 | [345971-korean-drone-flying-tour-ansan-si.json](./345971-korean-drone-flying-tour-ansan-si.json) |
 | Korean Drone Flying Tour Anyang-si | 354185 | [354185-korean-drone-flying-tour-anyang-si.json](./354185-korean-drone-flying-tour-anyang-si.json) |
