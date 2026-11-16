@@ -4168,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temple of Spikes: The Legend | 90441 | [90441-temple-of-spikes-the-legend.json](./90441-temple-of-spikes-the-legend.json) |
 | Temple of Starlight | 213315 | [213315-temple-of-starlight.json](./213315-temple-of-starlight.json) |
+| Temple of Steel | 236030 | [236030-temple-of-steel.json](./236030-temple-of-steel.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
 | Temple of Terror | 36840 | [36840-temple-of-terror.json](./36840-temple-of-terror.json) |
 | Temple of Teuthis v1 | 271525 | [271525-temple-of-teuthis-v1.json](./271525-temple-of-teuthis-v1.json) |
@@ -12323,6 +12324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immaculate Drag | 187194 | [187194-the-immaculate-drag.json](./187194-the-immaculate-drag.json) |
 | The Immemorial Order | 290005 | [290005-the-immemorial-order.json](./290005-the-immemorial-order.json) |
 | The Immemorial Order II Sisters of Darkness | 331051 | [331051-the-immemorial-order-ii-sisters-of-darkness.json](./331051-the-immemorial-order-ii-sisters-of-darkness.json) |
+| The Immolate | 235528 | [235528-the-immolate.json](./235528-the-immolate.json) |
 | The Immolation Apartment | 412904 | [412904-the-immolation-apartment.json](./412904-the-immolation-apartment.json) |
 | The Immortal | 187982 | [187982-the-immortal.json](./187982-the-immortal.json) |
 | The Immortal | 199522 | [199522-the-immortal.json](./199522-the-immortal.json) |
@@ -30026,6 +30028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towards the Pantheon: Escaping Eternity | 59145 | [59145-towards-the-pantheon-escaping-eternity.json](./59145-towards-the-pantheon-escaping-eternity.json) |
 | Towards the Sky | 144749 | [144749-towards-the-sky.json](./144749-towards-the-sky.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
+| Towards the Unknown | 236033 | [236033-towards-the-unknown.json](./236033-towards-the-unknown.json) |
 | Towars | 348000 | [348000-towars.json](./348000-towars.json) |
 | Towayami | 134273 | [134273-towayami.json](./134273-towayami.json) |
 | Towel Day | 322831 | [322831-towel-day.json](./322831-towel-day.json) |
@@ -33803,6 +33806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
 | Treachery in Beatdown City | 62700 | [62700-treachery-in-beatdown-city.json](./62700-treachery-in-beatdown-city.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
+| Treachery in Beatdown City: Ultra Remix | 235527 | [235527-treachery-in-beatdown-city-ultra-remix.json](./235527-treachery-in-beatdown-city-ultra-remix.json) |
 | Tread Heavy | 402947 | [402947-tread-heavy.json](./402947-tread-heavy.json) |
 | Tread Marks | 54181 | [54181-tread-marks.json](./54181-tread-marks.json) |
 | Treadmillasaurus Rex | 377740 | [377740-treadmillasaurus-rex.json](./377740-treadmillasaurus-rex.json) |
