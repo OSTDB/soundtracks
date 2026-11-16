@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
 | Nature Escapes: Collector's Edition | 233796 | [233796-nature-escapes-collectors-edition.json](./233796-nature-escapes-collectors-edition.json) |
 | Nature Flight Module | 377997 | [377997-nature-flight-module.json](./377997-nature-flight-module.json) |
+| Nature Hike | 419812 | [419812-nature-hike.json](./419812-nature-hike.json) |
 | Nature Hunter | 113917 | [113917-nature-hunter.json](./113917-nature-hunter.json) |
 | Nature is Hungry | 247137 | [247137-nature-is-hungry.json](./247137-nature-is-hungry.json) |
 | Nature Jurassic Module | 377998 | [377998-nature-jurassic-module.json](./377998-nature-jurassic-module.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuroforge | 389534 | [389534-neuroforge.json](./389534-neuroforge.json) |
 | NeuroHex: Hacking, Spying, Sabotage | 129029 | [129029-neurohex-hacking-spying-sabotage.json](./129029-neurohex-hacking-spying-sabotage.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
+| Neuromana | 419819 | [419819-neuromana.json](./419819-neuromana.json) |
 | Neuromancer | 14485 | [14485-neuromancer.json](./14485-neuromancer.json) |
 | NeuroMatrix | 81114 | [81114-neuromatrix.json](./81114-neuromatrix.json) |
 | Neuromira: First Death | 374216 | [374216-neuromira-first-death.json](./374216-neuromira-first-death.json) |
@@ -3472,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverout | 29791 | [29791-neverout.json](./29791-neverout.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
 | NeverRage | 266973 | [266973-neverrage.json](./266973-neverrage.json) |
+| Neverscape | 419739 | [419739-neverscape.json](./419739-neverscape.json) |
 | Neverseas | 301808 | [301808-neverseas.json](./301808-neverseas.json) |
 | Neversong & Pinstripe | 144728 | [144728-neversong-and-pinstripe.json](./144728-neversong-and-pinstripe.json) |
 | Neversong: Collector's Edition | 139840 | [139840-neversong-collectors-edition.json](./139840-neversong-collectors-edition.json) |
