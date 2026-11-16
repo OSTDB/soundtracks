@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Tactics | 19482 | [19482-x-tactics.json](./19482-x-tactics.json) |
 | X-Team | 127631 | [127631-x-team.json](./127631-x-team.json) |
 | X-Tension | 9317 | [9317-x-tension.json](./9317-x-tension.json) |
+| X-Terminator | 417730 | [417730-x-terminator.json](./417730-x-terminator.json) |
 | X-Town 3D game | 96124 | [96124-x-town-3d-game.json](./96124-x-town-3d-game.json) |
 | X-Treme Express | 44696 | [44696-x-treme-express.json](./44696-x-treme-express.json) |
 | X-treme Quads | 66924 | [66924-x-treme-quads.json](./66924-x-treme-quads.json) |
@@ -1197,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xyla and the 'Shrooms of Doom | 129696 | [129696-xyla-and-the-shrooms-of-doom.json](./129696-xyla-and-the-shrooms-of-doom.json) |
 | Xyleron | 257556 | [257556-xyleron.json](./257556-xyleron.json) |
 | Xylith | 130102 | [130102-xylith.json](./130102-xylith.json) |
+| Xylometazoline | 401951 | [401951-xylometazoline.json](./401951-xylometazoline.json) |
 | Xyonix | 39807 | [39807-xyonix.json](./39807-xyonix.json) |
 | Xyphoe's Nightmare | 402885 | [402885-xyphoes-nightmare.json](./402885-xyphoes-nightmare.json) |
 | Xyphoe’s Nightmare | 354587 | [354587-xyphoe-s-nightmare.json](./354587-xyphoe-s-nightmare.json) |
