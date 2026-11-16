@@ -3768,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateful End: True Case Files | 132918 | [132918-fateful-end-true-case-files.json](./132918-fateful-end-true-case-files.json) |
+| Fateful Forces | 299038 | [299038-fateful-forces.json](./299038-fateful-forces.json) |
 | Fateful Lore | 135313 | [135313-fateful-lore.json](./135313-fateful-lore.json) |
 | Fateful Mages | 242968 | [242968-fateful-mages.json](./242968-fateful-mages.json) |
 | Fateholder Quest | 148625 | [148625-fateholder-quest.json](./148625-fateholder-quest.json) |
@@ -11493,6 +11494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formosa Duel | 64048 | [64048-formosa-duel.json](./64048-formosa-duel.json) |
 | Formula | 363652 | [363652-formula.json](./363652-formula.json) |
 | Formula 1 | 217961 | [217961-formula-1.json](./217961-formula-1.json) |
+| Formula 1 | 300564 | [300564-formula-1.json](./300564-formula-1.json) |
 | Formula 1 | 300566 | [300566-formula-1.json](./300566-formula-1.json) |
 | Formula 1 | 8294 | [8294-formula-1.json](./8294-formula-1.json) |
 | Formula 1 98 | 8296 | [8296-formula-1-98.json](./8296-formula-1-98.json) |
@@ -13474,6 +13476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freshly fried shrimps seemed hot additionally named noth | 55644 | [55644-freshly-fried-shrimps-seemed-hot-additionally-named-noth.json](./55644-freshly-fried-shrimps-seemed-hot-additionally-named-noth.json) |
 | Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
 | Freshly-Picked Tingle's Rosy Rupeeland | 11607 | [11607-freshly-picked-tingles-rosy-rupeeland.json](./11607-freshly-picked-tingles-rosy-rupeeland.json) |
+| Freshman Fantasies | 299053 | [299053-freshman-fantasies.json](./299053-freshman-fantasies.json) |
 | Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
 | Freshman Year | 35405 | [35405-freshman-year.json](./35405-freshman-year.json) |
 | Freshwater Fishing Simulator | 68987 | [68987-freshwater-fishing-simulator.json](./68987-freshwater-fishing-simulator.json) |
