@@ -3847,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fauna | 376503 | [376503-fauna.json](./376503-fauna.json) |
 | Faunamorph | 257965 | [257965-faunamorph.json](./257965-faunamorph.json) |
 | Fauneroes | 348541 | [348541-fauneroes.json](./348541-fauneroes.json) |
+| Fausse Commune | 387788 | [387788-fausse-commune.json](./387788-fausse-commune.json) |
 | Fausseté Amour | 37628 | [37628-faussete-amour.json](./37628-faussete-amour.json) |
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
 | Faust's Folly | 54952 | [54952-fausts-folly.json](./54952-fausts-folly.json) |
@@ -6676,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Tales of Kotor | 297700 | [297700-fire-emblem-tales-of-kotor.json](./297700-fire-emblem-tales-of-kotor.json) |
 | Fire Emblem: Terror of the Forest | 213704 | [213704-fire-emblem-terror-of-the-forest.json](./213704-fire-emblem-terror-of-the-forest.json) |
 | Fire Emblem: The Binding Blade - Project Ember | 181560 | [181560-fire-emblem-the-binding-blade-project-ember.json](./181560-fire-emblem-the-binding-blade-project-ember.json) |
+| Fire Emblem: The Blazing Blade if | 387659 | [387659-fire-emblem-the-blazing-blade-if.json](./387659-fire-emblem-the-blazing-blade-if.json) |
 | Fire Emblem: The Dark Amulet | 382588 | [382588-fire-emblem-the-dark-amulet.json](./382588-fire-emblem-the-dark-amulet.json) |
 | Fire Emblem: The Dragon Herald | 214535 | [214535-fire-emblem-the-dragon-herald.json](./214535-fire-emblem-the-dragon-herald.json) |
 | Fire Emblem: The Four Kings | 214494 | [214494-fire-emblem-the-four-kings.json](./214494-fire-emblem-the-four-kings.json) |
