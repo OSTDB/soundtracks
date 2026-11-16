@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Duel | 382663 | [382663-kart-duel.json](./382663-kart-duel.json) |
 | Kart Evolution 2025 | 345816 | [345816-kart-evolution-2025.json](./345816-kart-evolution-2025.json) |
 | Kart Fighter | 48577 | [48577-kart-fighter.json](./48577-kart-fighter.json) |
+| Kart Heros Ultra | 306128 | [306128-kart-heros-ultra.json](./306128-kart-heros-ultra.json) |
 | Kart kids | 129433 | [129433-kart-kids.json](./129433-kart-kids.json) |
 | Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
@@ -1810,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers of Vyrellia | 383332 | [383332-keepers-of-vyrellia.json](./383332-keepers-of-vyrellia.json) |
 | Keepers: Fractured Realities | 399398 | [399398-keepers-fractured-realities.json](./399398-keepers-fractured-realities.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
+| Keeping SNES Alive | 306132 | [306132-keeping-snes-alive.json](./306132-keeping-snes-alive.json) |
 | Keeping You Close | 419320 | [419320-keeping-you-close.json](./419320-keeping-you-close.json) |
 | Keeplanet | 83967 | [83967-keeplanet.json](./83967-keeplanet.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
@@ -6115,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kore VR | 244170 | [244170-kore-vr.json](./244170-kore-vr.json) |
 | Korea Dynasty | 231591 | [231591-korea-dynasty.json](./231591-korea-dynasty.json) |
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
+| Korea. IL-2 Series | 306843 | [306843-korea-il-2-series.json](./306843-korea-il-2-series.json) |
 | Korean Adventures in Russia | 156547 | [156547-korean-adventures-in-russia.json](./156547-korean-adventures-in-russia.json) |
 | Korean BBQ Simulator | 219892 | [219892-korean-bbq-simulator.json](./219892-korean-bbq-simulator.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
