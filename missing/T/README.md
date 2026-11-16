@@ -6890,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms, The Way Back Up | 320079 | [320079-the-backrooms-the-way-back-up.json](./320079-the-backrooms-the-way-back-up.json) |
 | The Backrooms: Anomaly Containment Unit | 339219 | [339219-the-backrooms-anomaly-containment-unit.json](./339219-the-backrooms-anomaly-containment-unit.json) |
 | The Backrooms: Deeper | 201535 | [201535-the-backrooms-deeper.json](./201535-the-backrooms-deeper.json) |
+| The Backrooms: Descent | 290049 | [290049-the-backrooms-descent.json](./290049-the-backrooms-descent.json) |
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
 | The Backrooms: Expedition | 357678 | [357678-the-backrooms-expedition.json](./357678-the-backrooms-expedition.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
@@ -7185,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
 | The Beatles: Rock Band | 2693 | [2693-the-beatles-rock-band.json](./2693-the-beatles-rock-band.json) |
 | The beauties&zombies of beach for VR | 74623 | [74623-the-beauties-and-zombies-of-beach-for-vr.json](./74623-the-beauties-and-zombies-of-beach-for-vr.json) |
+| The Beautiful Island | 290050 | [290050-the-beautiful-island.json](./290050-the-beautiful-island.json) |
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty | 301707 | [301707-the-beauty.json](./301707-the-beauty.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
@@ -7204,6 +7206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bell | 120254 | [120254-the-bell.json](./120254-the-bell.json) |
 | The Bell Echoes | 304655 | [304655-the-bell-echoes.json](./304655-the-bell-echoes.json) |
 | The Bell of Time | 303940 | [303940-the-bell-of-time.json](./303940-the-bell-of-time.json) |
+| The Belligerence | 290051 | [290051-the-belligerence.json](./290051-the-belligerence.json) |
 | The Bellows | 31238 | [31238-the-bellows.json](./31238-the-bellows.json) |
 | The Bells | 13392 | [13392-the-bells.json](./13392-the-bells.json) |
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
@@ -7254,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BFG Game | 58282 | [58282-the-bfg-game.json](./58282-the-bfg-game.json) |
 | The Biba Collection | 96932 | [96932-the-biba-collection.json](./96932-the-biba-collection.json) |
 | The Bibites | 183260 | [183260-the-bibites.json](./183260-the-bibites.json) |
+| The Bibites: Digital Life | 290048 | [290048-the-bibites-digital-life.json](./290048-the-bibites-digital-life.json) |
 | The Bible | 327071 | [327071-the-bible.json](./327071-the-bible.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Bible Game | 5746 | [5746-the-bible-game.json](./5746-the-bible-game.json) |
@@ -7408,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
 | The Black Sanctum | 36909 | [36909-the-black-sanctum.json](./36909-the-black-sanctum.json) |
 | The Black Shift | 406736 | [406736-the-black-shift.json](./406736-the-black-shift.json) |
+| The Black Siege | 290047 | [290047-the-black-siege.json](./290047-the-black-siege.json) |
 | The Black Signal | 351709 | [351709-the-black-signal.json](./351709-the-black-signal.json) |
 | The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
 | The Black Vault | 329140 | [329140-the-black-vault.json](./329140-the-black-vault.json) |
@@ -7695,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Bright In The Screen | 311323 | [311323-the-bright-in-the-screen.json](./311323-the-bright-in-the-screen.json) |
 | The Bright Path | 337498 | [337498-the-bright-path.json](./337498-the-bright-path.json) |
+| The Bright Star Of Seraph-Katis | 290046 | [290046-the-bright-star-of-seraph-katis.json](./290046-the-bright-star-of-seraph-katis.json) |
 | The Brimstone Project: Odyssey Live | 279715 | [279715-the-brimstone-project-odyssey-live.json](./279715-the-brimstone-project-odyssey-live.json) |
 | The Brink | 104810 | [104810-the-brink.json](./104810-the-brink.json) |
 | The Brink | 117461 | [117461-the-brink.json](./117461-the-brink.json) |
@@ -7785,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Butcher | 127149 | [127149-the-butcher.json](./127149-the-butcher.json) |
 | The Butcher | 203534 | [203534-the-butcher.json](./203534-the-butcher.json) |
 | The Butler | 395292 | [395292-the-butler.json](./395292-the-butler.json) |
+| The Butler Did It | 290045 | [290045-the-butler-did-it.json](./290045-the-butler-did-it.json) |
 | The Butterbies | 180097 | [180097-the-butterbies.json](./180097-the-butterbies.json) |
 | The Butterfly Collector | 339213 | [339213-the-butterfly-collector.json](./339213-the-butterfly-collector.json) |
 | The Butterfly Dreams | 319021 | [319021-the-butterfly-dreams.json](./319021-the-butterfly-dreams.json) |
@@ -22851,6 +22858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
 | Thomaz | 44244 | [44244-thomaz.json](./44244-thomaz.json) |
 | Thome Wake | 287371 | [287371-thome-wake.json](./287371-thome-wake.json) |
+| Thong Girl: The Video Game | 290060 | [290060-thong-girl-the-video-game.json](./290060-thong-girl-the-video-game.json) |
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: Bring the Thunder | 327472 | [327472-thor-bring-the-thunder.json](./327472-thor-bring-the-thunder.json) |
