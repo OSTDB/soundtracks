@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabritas Pac-Man | 219449 | [219449-sabritas-pac-man.json](./219449-sabritas-pac-man.json) |
 | Sacabambaspis Chronicle | 272591 | [272591-sacabambaspis-chronicle.json](./272591-sacabambaspis-chronicle.json) |
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
+| Saccharine | 360803 | [360803-saccharine.json](./360803-saccharine.json) |
 | Saccharine Echo | 390578 | [390578-saccharine-echo.json](./390578-saccharine-echo.json) |
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
@@ -9617,7 +9618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force Cross Exlesia Zenith | 321327 | [321327-shining-force-cross-exlesia-zenith.json](./321327-shining-force-cross-exlesia-zenith.json) |
 | Shining Force Cross Raid | 62091 | [62091-shining-force-cross-raid.json](./62091-shining-force-cross-raid.json) |
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
-| Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
 | Shining Force Gaiden: Ensei - Jashin no Kuni he | 46307 | [46307-shining-force-gaiden-ensei-jashin-no-kuni-he.json](./46307-shining-force-gaiden-ensei-jashin-no-kuni-he.json) |
 | Shining Force Gaiden: Final Conflict | 3200 | [3200-shining-force-gaiden-final-conflict.json](./3200-shining-force-gaiden-final-conflict.json) |
 | Shining Force III | 28396 | [28396-shining-force-iii.json](./28396-shining-force-iii.json) |
@@ -10653,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Chicken | 288803 | [288803-shotgun-chicken.json](./288803-shotgun-chicken.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
+| Shotgun Dreams | 360820 | [360820-shotgun-dreams.json](./360820-shotgun-dreams.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun Farmers | 29242 | [29242-shotgun-farmers.json](./29242-shotgun-farmers.json) |
 | Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
