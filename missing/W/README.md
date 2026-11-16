@@ -9501,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Process | 156600 | [156600-world-process.json](./156600-world-process.json) |
 | World Puzzle | 157290 | [157290-world-puzzle.json](./157290-world-puzzle.json) |
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
+| World Quest: Hidden Cities | 337856 | [337856-world-quest-hidden-cities.json](./337856-world-quest-hidden-cities.json) |
 | World Quiz | 153018 | [153018-world-quiz.json](./153018-world-quiz.json) |
 | World Racing | 205843 | [205843-world-racing.json](./205843-world-racing.json) |
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
