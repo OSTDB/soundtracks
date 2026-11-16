@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferni: Hope & Fear | 292358 | [292358-inferni-hope-and-fear.json](./292358-inferni-hope-and-fear.json) |
 | Infernitos | 325784 | [325784-infernitos.json](./325784-infernitos.json) |
 | Infernitos: Fiery Dishes | 353957 | [353957-infernitos-fiery-dishes.json](./353957-infernitos-fiery-dishes.json) |
+| Infernity: The Devil's Arena | 344612 | [344612-infernity-the-devils-arena.json](./344612-infernity-the-devils-arena.json) |
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
 | Inferno | 117270 | [117270-inferno.json](./117270-inferno.json) |
 | Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
@@ -4657,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ingot Rush | 174220 | [174220-ingot-rush.json](./174220-ingot-rush.json) |
 | Ingredienta | 169809 | [169809-ingredienta.json](./169809-ingredienta.json) |
 | Ingredients for the Chaos | 195409 | [195409-ingredients-for-the-chaos.json](./195409-ingredients-for-the-chaos.json) |
+| Ingress | 337871 | [337871-ingress.json](./337871-ingress.json) |
 | Ingress | 9253 | [9253-ingress.json](./9253-ingress.json) |
 | Ingression | 207244 | [207244-ingression.json](./207244-ingression.json) |
 | Ingrid's Back! | 15493 | [15493-ingrids-back.json](./15493-ingrids-back.json) |
@@ -5077,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insatia | 30298 | [30298-insatia.json](./30298-insatia.json) |
 | Insatiable Creatures | 184594 | [184594-insatiable-creatures.json](./184594-insatiable-creatures.json) |
 | InScape | 176315 | [176315-inscape.json](./176315-inscape.json) |
+| Inscrutable Fortress | 337890 | [337890-inscrutable-fortress.json](./337890-inscrutable-fortress.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
 | InseAquarium: Crazy Aqurium | 88517 | [88517-inseaquarium-crazy-aqurium.json](./88517-inseaquarium-crazy-aqurium.json) |
 | Inseco | 415084 | [415084-inseco.json](./415084-inseco.json) |
