@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas: Make It Big | 15725 | [15725-vegas-make-it-big.json](./15725-vegas-make-it-big.json) |
 | VegasTowers | 92553 | [92553-vegastowers.json](./92553-vegastowers.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
+| Vegelypse | 388472 | [388472-vegelypse.json](./388472-vegelypse.json) |
 | Vegemancer | 374576 | [374576-vegemancer.json](./374576-vegemancer.json) |
 | VegeMine | 272192 | [272192-vegemine.json](./272192-vegemine.json) |
 | Vegetaball | 103605 | [103605-vegetaball.json](./103605-vegetaball.json) |
@@ -2069,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vice Signalling | 412097 | [412097-vice-signalling.json](./412097-vice-signalling.json) |
 | Vice Thief Simulator: 80s Nostalgia | 365344 | [365344-vice-thief-simulator-80s-nostalgia.json](./365344-vice-thief-simulator-80s-nostalgia.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
+| Vice Versa | 387762 | [387762-vice-versa.json](./387762-vice-versa.json) |
 | Vice Vision Runner | 414262 | [414262-vice-vision-runner.json](./414262-vice-vision-runner.json) |
 | Vice: Magic City Mayhem | 331378 | [331378-vice-magic-city-mayhem.json](./331378-vice-magic-city-mayhem.json) |
 | Vice: Project Doom | 48262 | [48262-vice-project-doom.json](./48262-vice-project-doom.json) |
