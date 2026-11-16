@@ -3568,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patients | 424820 | [424820-patients.json](./424820-patients.json) |
 | PatientX: Survivalist | 98689 | [98689-patientx-survivalist.json](./98689-patientx-survivalist.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
+| Patintero | 412025 | [412025-patintero.json](./412025-patintero.json) |
 | Patisserie Palette | 185418 | [185418-patisserie-palette.json](./185418-patisserie-palette.json) |
 | Patisserie Simulator | 391443 | [391443-patisserie-simulator.json](./391443-patisserie-simulator.json) |
 | Patito Feo | 269500 | [269500-patito-feo.json](./269500-patito-feo.json) |
