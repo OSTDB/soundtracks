@@ -5312,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Ski | 156707 | [156707-death-ski.json](./156707-death-ski.json) |
 | Death Skid Marks | 17897 | [17897-death-skid-marks.json](./17897-death-skid-marks.json) |
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
+| Death Slayer | 255288 | [255288-death-slayer.json](./255288-death-slayer.json) |
 | Death Slayer V | 180013 | [180013-death-slayer-v.json](./180013-death-slayer-v.json) |
 | Death Space | 111406 | [111406-death-space.json](./111406-death-space.json) |
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
@@ -7336,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter | 117579 | [117579-demon-hunter.json](./117579-demon-hunter.json) |
 | Demon Hunter | 208747 | [208747-demon-hunter.json](./208747-demon-hunter.json) |
+| Demon Hunter | 255308 | [255308-demon-hunter.json](./255308-demon-hunter.json) |
 | Demon Hunter | 299350 | [299350-demon-hunter.json](./299350-demon-hunter.json) |
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
@@ -16381,6 +16383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconian | 416868 | [416868-draconian.json](./416868-draconian.json) |
 | Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
 | Draconian: Conquest of Dawnbird | 363141 | [363141-draconian-conquest-of-dawnbird.json](./363141-draconian-conquest-of-dawnbird.json) |
+| Draconiano | 255316 | [255316-draconiano.json](./255316-draconiano.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
@@ -18249,6 +18252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Mirror | 164966 | [164966-dream-mirror.json](./164966-dream-mirror.json) |
 | Dream Mists | 293544 | [293544-dream-mists.json](./293544-dream-mists.json) |
 | Dream Mysteries: Case of the Red Fox | 294201 | [294201-dream-mysteries-case-of-the-red-fox.json](./294201-dream-mysteries-case-of-the-red-fox.json) |
+| Dream Of a Square | 255293 | [255293-dream-of-a-square.json](./255293-dream-of-a-square.json) |
 | Dream of a Sunflower | 230165 | [230165-dream-of-a-sunflower.json](./230165-dream-of-a-sunflower.json) |
 | Dream of Anastasia | 299601 | [299601-dream-of-anastasia.json](./299601-dream-of-anastasia.json) |
 | Dream of Bells | 147022 | [147022-dream-of-bells.json](./147022-dream-of-bells.json) |
@@ -19167,6 +19171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Simulator 2013 | 10249 | [10249-driving-simulator-2013.json](./10249-driving-simulator-2013.json) |
 | Driving Speed HD | 232332 | [232332-driving-speed-hd.json](./232332-driving-speed-hd.json) |
 | Driving Speed Pro | 261946 | [261946-driving-speed-pro.json](./261946-driving-speed-pro.json) |
+| Driving Strikers | 255303 | [255303-driving-strikers.json](./255303-driving-strikers.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
 | Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
 | Driving World: Aspen | 148096 | [148096-driving-world-aspen.json](./148096-driving-world-aspen.json) |
