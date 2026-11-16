@@ -5465,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
 | Relic | 260886 | [260886-relic.json](./260886-relic.json) |
 | Relic | 338301 | [338301-relic.json](./338301-relic.json) |
+| Relic | 393037 | [393037-relic.json](./393037-relic.json) |
 | Relic & Ruin | 420036 | [420036-relic-and-ruin.json](./420036-relic-and-ruin.json) |
 | Relic Abyss | 307089 | [307089-relic-abyss.json](./307089-relic-abyss.json) |
 | Relic Adventure | 188508 | [188508-relic-adventure.json](./188508-relic-adventure.json) |
@@ -6761,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrievable | 187106 | [187106-retrievable.json](./187106-retrievable.json) |
 | Retrieval | 303741 | [303741-retrieval.json](./303741-retrieval.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
+| Retriever | 393057 | [393057-retriever.json](./393057-retriever.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
 | ReTrime | 414466 | [414466-retrime.json](./414466-retrime.json) |
 | Retris | 258360 | [258360-retris.json](./258360-retris.json) |
