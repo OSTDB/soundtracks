@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kedama no Gonjiro: Fit & Run | 194064 | [194064-kedama-no-gonjiro-fit-and-run.json](./194064-kedama-no-gonjiro-fit-and-run.json) |
 | Kedama's Adventure | 202516 | [202516-kedamas-adventure.json](./202516-kedamas-adventure.json) |
 | Kedemara: The Orphan's Ballad | 127545 | [127545-kedemara-the-orphans-ballad.json](./127545-kedemara-the-orphans-ballad.json) |
+| Keeb Quest: Typing Battles | 413313 | [413313-keeb-quest-typing-battles.json](./413313-keeb-quest-typing-battles.json) |
 | Keebee | 348162 | [348162-keebee.json](./348162-keebee.json) |
 | Keebo's Adventure | 293277 | [293277-keebos-adventure.json](./293277-keebos-adventure.json) |
 | Keef the Thief: A Boy and His Lockpick | 8930 | [8930-keef-the-thief-a-boy-and-his-lockpick.json](./8930-keef-the-thief-a-boy-and-his-lockpick.json) |
@@ -2149,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kessler Effect | 132520 | [132520-kessler-effect.json](./132520-kessler-effect.json) |
 | Kessler Syndrome | 247887 | [247887-kessler-syndrome.json](./247887-kessler-syndrome.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
+| Kesu-Ji | 413324 | [413324-kesu-ji.json](./413324-kesu-ji.json) |
 | Ketamina | 249848 | [249848-ketamina.json](./249848-ketamina.json) |
 | Ketchapp Soccer | 241575 | [241575-ketchapp-soccer.json](./241575-ketchapp-soccer.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
@@ -4434,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisou Shinden: Gen-Kaiser | 264422 | [264422-kisou-shinden-gen-kaiser.json](./264422-kisou-shinden-gen-kaiser.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
+| Kiss and Cry | 413327 | [413327-kiss-and-cry.json](./413327-kiss-and-cry.json) |
 | Kiss Ato | 147429 | [147429-kiss-ato.json](./147429-kiss-ato.json) |
 | Kiss Ato | 148357 | [148357-kiss-ato.json](./148357-kiss-ato.json) |
 | Kiss Before Midnight | 253644 | [253644-kiss-before-midnight.json](./253644-kiss-before-midnight.json) |
@@ -5901,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konayuki Fururi: Yuzuhara-chou Curling-bu | 402066 | [402066-konayuki-fururi-yuzuhara-chou-curling-bu.json](./402066-konayuki-fururi-yuzuhara-chou-curling-bu.json) |
 | Konayuki Fururi: Yuzuhara-chou Curling-bu Gaiden - Saeko no Kayoizuma Nikki | 402067 | [402067-konayuki-fururi-yuzuhara-chou-curling-bu-gaiden-saeko-no-kayoizuma-nikki.json](./402067-konayuki-fururi-yuzuhara-chou-curling-bu-gaiden-saeko-no-kayoizuma-nikki.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
+| Konbini Cleanup | 413298 | [413298-konbini-cleanup.json](./413298-konbini-cleanup.json) |
 | Konbini Life | 178879 | [178879-konbini-life.json](./178879-konbini-life.json) |
 | Konbini Simulator | 383871 | [383871-konbini-simulator.json](./383871-konbini-simulator.json) |
 | Konbini's World | 381591 | [381591-konbinis-world.json](./381591-konbinis-world.json) |
