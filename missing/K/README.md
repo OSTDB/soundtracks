@@ -6123,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Daedunsan | 386371 | [386371-korean-drone-flying-tour-daedunsan.json](./386371-korean-drone-flying-tour-daedunsan.json) |
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
 | Korean Drone Flying Tour Deokjeok-do | 347376 | [347376-korean-drone-flying-tour-deokjeok-do.json](./347376-korean-drone-flying-tour-deokjeok-do.json) |
+| Korean Drone Flying Tour Deulkkoch Arboretum | 366750 | [366750-korean-drone-flying-tour-deulkkoch-arboretum.json](./366750-korean-drone-flying-tour-deulkkoch-arboretum.json) |
 | Korean Drone Flying Tour Donggeom-do | 342423 | [342423-korean-drone-flying-tour-donggeom-do.json](./342423-korean-drone-flying-tour-donggeom-do.json) |
 | Korean Drone Flying Tour Dongmak Beach | 342422 | [342422-korean-drone-flying-tour-dongmak-beach.json](./342422-korean-drone-flying-tour-dongmak-beach.json) |
 | Korean Drone Flying Tour East River | 332357 | [332357-korean-drone-flying-tour-east-river.json](./332357-korean-drone-flying-tour-east-river.json) |
@@ -6151,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Okcheon-gun | 377004 | [377004-korean-drone-flying-tour-okcheon-gun.json](./377004-korean-drone-flying-tour-okcheon-gun.json) |
 | Korean Drone Flying Tour Okgyecheon | 411818 | [411818-korean-drone-flying-tour-okgyecheon.json](./411818-korean-drone-flying-tour-okgyecheon.json) |
 | Korean Drone Flying Tour Ongnam Lake Park | 354186 | [354186-korean-drone-flying-tour-ongnam-lake-park.json](./354186-korean-drone-flying-tour-ongnam-lake-park.json) |
+| Korean Drone Flying Tour Paldang Water Fog Park | 366749 | [366749-korean-drone-flying-tour-paldang-water-fog-park.json](./366749-korean-drone-flying-tour-paldang-water-fog-park.json) |
 | Korean Drone Flying Tour Pocheon-si | 351221 | [351221-korean-drone-flying-tour-pocheon-si.json](./351221-korean-drone-flying-tour-pocheon-si.json) |
 | Korean Drone Flying Tour Sang-jog-am | 357720 | [357720-korean-drone-flying-tour-sang-jog-am.json](./357720-korean-drone-flying-tour-sang-jog-am.json) |
 | Korean Drone Flying Tour Siheung-si | 345972 | [345972-korean-drone-flying-tour-siheung-si.json](./345972-korean-drone-flying-tour-siheung-si.json) |
