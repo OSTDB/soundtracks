@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
 | Kagura Douchuuki | 91969 | [91969-kagura-douchuuki.json](./91969-kagura-douchuuki.json) |
 | Kagura Genesis: Kuon's Story | 277258 | [277258-kagura-genesis-kuons-story.json](./277258-kagura-genesis-kuons-story.json) |
+| Kagura Survivors x Summer Memories | 417099 | [417099-kagura-survivors-x-summer-memories.json](./417099-kagura-survivors-x-summer-memories.json) |
 | Kagura Survivors: Endless Night | 243538 | [243538-kagura-survivors-endless-night.json](./243538-kagura-survivors-endless-night.json) |
 | Kagura's Dreamland | 156767 | [156767-kaguras-dreamland.json](./156767-kaguras-dreamland.json) |
 | Kaguya | 357821 | [357821-kaguya.json](./357821-kaguya.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karagon | 190048 | [190048-karagon.json](./190048-karagon.json) |
 | Karakage The Sky Shadow | 356934 | [356934-karakage-the-sky-shadow.json](./356934-karakage-the-sky-shadow.json) |
 | Karakai Simuation Game | 133248 | [133248-karakai-simuation-game.json](./133248-karakai-simuation-game.json) |
+| Karakam: Call of the Dark Manor | 417071 | [417071-karakam-call-of-the-dark-manor.json](./417071-karakam-call-of-the-dark-manor.json) |
 | Karakara | 19811 | [19811-karakara.json](./19811-karakara.json) |
 | Karakara 2 | 75797 | [75797-karakara-2.json](./75797-karakara-2.json) |
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
