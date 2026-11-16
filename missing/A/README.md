@@ -8575,7 +8575,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
 | All My Dreams are the Same! | 277670 | [277670-all-my-dreams-are-the-same.json](./277670-all-my-dreams-are-the-same.json) |
 | All My Friends Are Frogs | 183375 | [183375-all-my-friends-are-frogs.json](./183375-all-my-friends-are-frogs.json) |
-| All My Gods | 34406 | [34406-all-my-gods.json](./34406-all-my-gods.json) |
 | All My Heart, Banjo | 375776 | [375776-all-my-heart-banjo.json](./375776-all-my-heart-banjo.json) |
 | All My Neighbors Are Dead | 404623 | [404623-all-my-neighbors-are-dead.json](./404623-all-my-neighbors-are-dead.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
