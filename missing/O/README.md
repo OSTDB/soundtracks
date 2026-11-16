@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
 | Olympus Griddlers | 108546 | [108546-olympus-griddlers.json](./108546-olympus-griddlers.json) |
+| Olympus Rangers | 399236 | [399236-olympus-rangers.json](./399236-olympus-rangers.json) |
 | Olympus Rising | 408496 | [408496-olympus-rising.json](./408496-olympus-rising.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
 | Olympus Rising: Ragnarok | 408499 | [408499-olympus-rising-ragnarok.json](./408499-olympus-rising-ragnarok.json) |
@@ -2271,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Road | 179664 | [179664-on-the-road.json](./179664-on-the-road.json) |
 | On the Road | 225522 | [225522-on-the-road.json](./225522-on-the-road.json) |
 | On the Roadside | 185586 | [185586-on-the-roadside.json](./185586-on-the-roadside.json) |
+| On the Rocks | 399243 | [399243-on-the-rocks.json](./399243-on-the-rocks.json) |
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
 | On the Run | 57778 | [57778-on-the-run.json](./57778-on-the-run.json) |
 | On the Run: Rogue Heroes | 285296 | [285296-on-the-run-rogue-heroes.json](./285296-on-the-run-rogue-heroes.json) |
