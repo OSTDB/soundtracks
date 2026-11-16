@@ -10150,6 +10150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Executioner: Watchmaker's Son | 170839 | [170839-the-executioner-watchmakers-son.json](./170839-the-executioner-watchmakers-son.json) |
 | The Executive | 90812 | [90812-the-executive.json](./90812-the-executive.json) |
 | The Executive: Movie Industry Tycoon | 301553 | [301553-the-executive-movie-industry-tycoon.json](./301553-the-executive-movie-industry-tycoon.json) |
+| The Exegesis of John the Martyr | 401213 | [401213-the-exegesis-of-john-the-martyr.json](./401213-the-exegesis-of-john-the-martyr.json) |
 | The Exhibit | 360035 | [360035-the-exhibit.json](./360035-the-exhibit.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
 | The Exiled | 26241 | [26241-the-exiled.json](./26241-the-exiled.json) |
@@ -12574,6 +12575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inquisitor: Book 1 - The Plague | 17089 | [17089-the-inquisitor-book-1-the-plague.json](./17089-the-inquisitor-book-1-the-plague.json) |
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
 | The Inquisitor: Deluxe Edition | 279150 | [279150-the-inquisitor-deluxe-edition.json](./279150-the-inquisitor-deluxe-edition.json) |
+| The Insanity Box | 400014 | [400014-the-insanity-box.json](./400014-the-insanity-box.json) |
 | The Insect Massacre | 59680 | [59680-the-insect-massacre.json](./59680-the-insect-massacre.json) |
 | The Insector | 187652 | [187652-the-insector.json](./187652-the-insector.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
@@ -21149,6 +21151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Home | 307686 | [307686-the-way-home.json](./307686-the-way-home.json) |
 | The Way Home | 362293 | [362293-the-way-home.json](./362293-the-way-home.json) |
 | The Way Home | 397849 | [397849-the-way-home.json](./397849-the-way-home.json) |
+| The Way Home | 401227 | [401227-the-way-home.json](./401227-the-way-home.json) |
 | The Way Home: A Typing Adventure | 287441 | [287441-the-way-home-a-typing-adventure.json](./287441-the-way-home-a-typing-adventure.json) |
 | The Way Home: Dungeon Cat | 193711 | [193711-the-way-home-dungeon-cat.json](./193711-the-way-home-dungeon-cat.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
@@ -27052,6 +27055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be or Not to Be | 17870 | [17870-to-be-or-not-to-be.json](./17870-to-be-or-not-to-be.json) |
 | To Be or Not to Be | 224929 | [224929-to-be-or-not-to-be.json](./224929-to-be-or-not-to-be.json) |
 | To Be Seen is To Be Loved | 397947 | [397947-to-be-seen-is-to-be-loved.json](./397947-to-be-seen-is-to-be-loved.json) |
+| To Be With Him | 401221 | [401221-to-be-with-him.json](./401221-to-be-with-him.json) |
 | To Be With You | 138677 | [138677-to-be-with-you.json](./138677-to-be-with-you.json) |
 | To Be With You | 143823 | [143823-to-be-with-you.json](./143823-to-be-with-you.json) |
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
