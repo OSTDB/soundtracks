@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger Hunt Find Hidden Objects | 393890 | [393890-scavenger-hunt-find-hidden-objects.json](./393890-scavenger-hunt-find-hidden-objects.json) |
 | Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
 | Scavenger Hunt: Switzerland | 253256 | [253256-scavenger-hunt-switzerland.json](./253256-scavenger-hunt-switzerland.json) |
+| Scavenger Mouse | 418486 | [418486-scavenger-mouse.json](./418486-scavenger-mouse.json) |
 | Scavenger of Dunomini | 185952 | [185952-scavenger-of-dunomini.json](./185952-scavenger-of-dunomini.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavenger SV-4 | 82347 | [82347-scavenger-sv-4.json](./82347-scavenger-sv-4.json) |
@@ -11468,6 +11469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegecraft Defender Zero | 251259 | [251259-siegecraft-defender-zero.json](./251259-siegecraft-defender-zero.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegefall | 58924 | [58924-siegefall.json](./58924-siegefall.json) |
+| Siegelock | 418366 | [418366-siegelock.json](./418366-siegelock.json) |
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
 | Siegeturtle | 364242 | [364242-siegeturtle.json](./364242-siegeturtle.json) |
 | SiegeVR | 90784 | [90784-siegevr.json](./90784-siegevr.json) |
@@ -19617,6 +19619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dynamo | 320357 | [320357-sonic-dynamo.json](./320357-sonic-dynamo.json) |
 | Sonic Eclipse | 316339 | [316339-sonic-eclipse.json](./316339-sonic-eclipse.json) |
 | Sonic Eclipse | 335166 | [335166-sonic-eclipse.json](./335166-sonic-eclipse.json) |
+| Sonic Eggstreme | 418478 | [418478-sonic-eggstreme.json](./418478-sonic-eggstreme.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic Emerald Madness | 316340 | [316340-sonic-emerald-madness.json](./316340-sonic-emerald-madness.json) |
 | Sonic Encore | 265070 | [265070-sonic-encore.json](./265070-sonic-encore.json) |
@@ -23242,6 +23245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle Piglet | 212795 | [212795-sparkle-piglet.json](./212795-sparkle-piglet.json) |
 | Sparkle Piglet Adventure | 234490 | [234490-sparkle-piglet-adventure.json](./234490-sparkle-piglet-adventure.json) |
 | Sparkle Pop | 363361 | [363361-sparkle-pop.json](./363361-sparkle-pop.json) |
+| Sparkle Saga | 418484 | [418484-sparkle-saga.json](./418484-sparkle-saga.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparkle Unleashed | 20953 | [20953-sparkle-unleashed.json](./20953-sparkle-unleashed.json) |
 | Sparkle Zero | 33416 | [33416-sparkle-zero.json](./33416-sparkle-zero.json) |
@@ -23382,6 +23386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearmint Mountain | 183495 | [183495-spearmint-mountain.json](./183495-spearmint-mountain.json) |
 | Spearrowblade | 383057 | [383057-spearrowblade.json](./383057-spearrowblade.json) |
 | Spears 'n' Spades | 52059 | [52059-spears-n-spades.json](./52059-spears-n-spades.json) |
+| Spears & Spirits | 418444 | [418444-spears-and-spirits.json](./418444-spears-and-spirits.json) |
 | Spears of a Heart: Elusive Rhythms | 192569 | [192569-spears-of-a-heart-elusive-rhythms.json](./192569-spears-of-a-heart-elusive-rhythms.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
@@ -31392,6 +31397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strayed: Toon Revolver | 382419 | [382419-strayed-toon-revolver.json](./382419-strayed-toon-revolver.json) |
 | Straying Rules | 403922 | [403922-straying-rules.json](./403922-straying-rules.json) |
 | Straylight | 128105 | [128105-straylight.json](./128105-straylight.json) |
+| Strays & Wild West Collection | 418349 | [418349-strays-and-wild-west-collection.json](./418349-strays-and-wild-west-collection.json) |
 | Strays of Rage | 341679 | [341679-strays-of-rage.json](./341679-strays-of-rage.json) |
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
 | StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
@@ -31498,6 +31504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Basketball Club: Sport Throw Simulator | 273314 | [273314-street-basketball-club-sport-throw-simulator.json](./273314-street-basketball-club-sport-throw-simulator.json) |
 | Street Basketball Superstars | 227371 | [227371-street-basketball-superstars.json](./227371-street-basketball-superstars.json) |
 | Street Basketball: Premium Edition | 411839 | [411839-street-basketball-premium-edition.json](./411839-street-basketball-premium-edition.json) |
+| Street Basketball: Silver Edition | 418341 | [418341-street-basketball-silver-edition.json](./418341-street-basketball-silver-edition.json) |
 | Street Beat | 69836 | [69836-street-beat.json](./69836-street-beat.json) |
 | Street Bike Fury | 363086 | [363086-street-bike-fury.json](./363086-street-bike-fury.json) |
 | Street Bike: Full Blast HD | 20742 | [20742-street-bike-full-blast-hd.json](./20742-street-bike-full-blast-hd.json) |
