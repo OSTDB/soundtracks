@@ -3338,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We’re In Trouble | 405340 | [405340-we-re-in-trouble.json](./405340-we-re-in-trouble.json) |
 | We're Party Together! | 237145 | [237145-were-party-together.json](./237145-were-party-together.json) |
 | We're Tethered Together | 269195 | [269195-were-tethered-together.json](./269195-were-tethered-together.json) |
+| We're Women, After All | 401234 | [401234-were-women-after-all.json](./401234-were-women-after-all.json) |
 | We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
 | Weable | 54467 | [54467-weable.json](./54467-weable.json) |
 | Weable 2 | 83816 | [83816-weable-2.json](./83816-weable-2.json) |
@@ -5772,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
 | Wild Beyond | 124510 | [124510-wild-beyond.json](./124510-wild-beyond.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
+| Wild Biker Boys | 401220 | [401220-wild-biker-boys.json](./401220-wild-biker-boys.json) |
 | Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
 | Wild Blood | 18875 | [18875-wild-blood.json](./18875-wild-blood.json) |
 | Wild Blue Skies | 335296 | [335296-wild-blue-skies.json](./335296-wild-blue-skies.json) |
