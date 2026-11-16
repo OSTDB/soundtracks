@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAG: Tower Attack Game | 251864 | [251864-tag-tower-attack-game.json](./251864-tag-tower-attack-game.json) |
 | Tag! You're Dead | 358987 | [358987-tag-youre-dead.json](./358987-tag-youre-dead.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
+| Taga no Hazureta Bisque Doll | 358517 | [358517-taga-no-hazureta-bisque-doll.json](./358517-taga-no-hazureta-bisque-doll.json) |
 | Tagablock | 414704 | [414704-tagablock.json](./414704-tagablock.json) |
 | Tagalon | 362471 | [362471-tagalon.json](./362471-tagalon.json) |
 | TAGAP 2: The Apocalyptic Game About Penguins | 63087 | [63087-tagap-2-the-apocalyptic-game-about-penguins.json](./63087-tagap-2-the-apocalyptic-game-about-penguins.json) |
@@ -8235,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Climb: North | 26269 | [26269-the-climb-north.json](./26269-the-climb-north.json) |
 | The Climber | 52069 | [52069-the-climber.json](./52069-the-climber.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
+| The Clingy Ghost | 358519 | [358519-the-clingy-ghost.json](./358519-the-clingy-ghost.json) |
 | The Clique: Diss and Make-Up | 122439 | [122439-the-clique-diss-and-make-up.json](./122439-the-clique-diss-and-make-up.json) |
 | The Clique: Queen Teen | 76969 | [76969-the-clique-queen-teen.json](./76969-the-clique-queen-teen.json) |
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
@@ -11949,7 +11951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hentai Memory | 369296 | [369296-the-hentai-memory.json](./369296-the-hentai-memory.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
-| The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
 | The Herbologist | 68191 | [68191-the-herbologist.json](./68191-the-herbologist.json) |
 | The Herd | 345785 | [345785-the-herd.json](./345785-the-herd.json) |
 | The Heretics | 341264 | [341264-the-heretics.json](./341264-the-heretics.json) |
@@ -35234,6 +35235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Crack 2 | 110707 | [110707-trivia-crack-2.json](./110707-trivia-crack-2.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
+| Trivia Crack Kingdoms | 358554 | [358554-trivia-crack-kingdoms.json](./358554-trivia-crack-kingdoms.json) |
 | Trivia Crack World | 278352 | [278352-trivia-crack-world.json](./278352-trivia-crack-world.json) |
 | Trivia Deal | 288551 | [288551-trivia-deal.json](./288551-trivia-deal.json) |
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
@@ -37408,6 +37410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinetroid | 306584 | [306584-twinetroid.json](./306584-twinetroid.json) |
 | Twinfold | 112441 | [112441-twinfold.json](./112441-twinfold.json) |
 | TwinForce | 31536 | [31536-twinforce.json](./31536-twinforce.json) |
+| TwinGo! | 358521 | [358521-twingo.json](./358521-twingo.json) |
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twiniwt | 95630 | [95630-twiniwt.json](./95630-twiniwt.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
