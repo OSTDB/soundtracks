@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halftime Manager | 415571 | [415571-halftime-manager.json](./415571-halftime-manager.json) |
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
+| Halfway Down | 269244 | [269244-halfway-down.json](./269244-halfway-down.json) |
 | Halfway Home | 111259 | [111259-halfway-home.json](./111259-halfway-home.json) |
 | Halfway House | 140726 | [140726-halfway-house.json](./140726-halfway-house.json) |
 | Halfway to Dawn | 249362 | [249362-halfway-to-dawn.json](./249362-halfway-to-dawn.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanoi Puzzles: Magnetrix | 159744 | [159744-hanoi-puzzles-magnetrix.json](./159744-hanoi-puzzles-magnetrix.json) |
 | Hanoi Puzzles: Solid Match | 156520 | [156520-hanoi-puzzles-solid-match.json](./156520-hanoi-puzzles-solid-match.json) |
 | Hanoi Puzzles: Spin Match | 237188 | [237188-hanoi-puzzles-spin-match.json](./237188-hanoi-puzzles-spin-match.json) |
+| Hans | 269243 | [269243-hans.json](./269243-hans.json) |
 | Hans | 336953 | [336953-hans.json](./336953-hans.json) |
 | Hans Christian Andersen: The Ugly Prince Duckling | 70120 | [70120-hans-christian-andersen-the-ugly-prince-duckling.json](./70120-hans-christian-andersen-the-ugly-prince-duckling.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
@@ -7867,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats in Santa's Realm | 279125 | [279125-hidden-cats-in-santas-realm.json](./279125-hidden-cats-in-santas-realm.json) |
 | Hidden Cats in Spooky Town | 266771 | [266771-hidden-cats-in-spooky-town.json](./266771-hidden-cats-in-spooky-town.json) |
 | Hidden Cats in Spooky Village | 375577 | [375577-hidden-cats-in-spooky-village.json](./375577-hidden-cats-in-spooky-village.json) |
+| Hidden Cats In Street Market | 269237 | [269237-hidden-cats-in-street-market.json](./269237-hidden-cats-in-street-market.json) |
 | Hidden Cats in Tokyo | 318961 | [318961-hidden-cats-in-tokyo.json](./318961-hidden-cats-in-tokyo.json) |
 | Hidden Cats in Town | 244274 | [244274-hidden-cats-in-town.json](./244274-hidden-cats-in-town.json) |
 | Hidden Cats In White Sand Village | 367036 | [367036-hidden-cats-in-white-sand-village.json](./367036-hidden-cats-in-white-sand-village.json) |
@@ -10246,6 +10249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Mind: The Lost Puppy | 169625 | [169625-hollow-mind-the-lost-puppy.json](./169625-hollow-mind-the-lost-puppy.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
+| Hollow Mine | 269238 | [269238-hollow-mine.json](./269238-hollow-mine.json) |
 | Hollow Mire: Shadow of Breken House | 378080 | [378080-hollow-mire-shadow-of-breken-house.json](./378080-hollow-mire-shadow-of-breken-house.json) |
 | Hollow Mission | 242960 | [242960-hollow-mission.json](./242960-hollow-mission.json) |
 | Hollow Ones | 422102 | [422102-hollow-ones.json](./422102-hollow-ones.json) |
@@ -11736,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horroyale | 158414 | [158414-horroyale.json](./158414-horroyale.json) |
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
+| Horse & Pony: My Riding Stables | 268170 | [268170-horse-and-pony-my-riding-stables.json](./268170-horse-and-pony-my-riding-stables.json) |
 | Horse 2 | 339396 | [339396-horse-2.json](./339396-horse-2.json) |
 | Horse Adventure: Tale of Etria | 364455 | [364455-horse-adventure-tale-of-etria.json](./364455-horse-adventure-tale-of-etria.json) |
 | Horse and Go Seek | 197041 | [197041-horse-and-go-seek.json](./197041-horse-and-go-seek.json) |
@@ -13305,6 +13310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hújù 101 | 148174 | [148174-huju-101.json](./148174-huju-101.json) |
 | Hula Wii: Hula de Hajimeru - Bi to Kenkou! | 141473 | [141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json](./141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
+| Hula Wii: Tanoshiku Hula wo Odorou!! | 268171 | [268171-hula-wii-tanoshiku-hula-wo-odorou.json](./268171-hula-wii-tanoshiku-hula-wo-odorou.json) |
 | Hulabear | 56394 | [56394-hulabear.json](./56394-hulabear.json) |
 | Hulala Baby | 115323 | [115323-hulala-baby.json](./115323-hulala-baby.json) |
 | Huldufólk | 214794 | [214794-huldufolk.json](./214794-huldufolk.json) |
@@ -14572,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Harvest | 211010 | [211010-hyperspace-harvest.json](./211010-hyperspace-harvest.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
+| Hyperspace Nebula | 269239 | [269239-hyperspace-nebula.json](./269239-hyperspace-nebula.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hyperspace Striker | 348480 | [348480-hyperspace-striker.json](./348480-hyperspace-striker.json) |
 | Hyperspace Throw Patrol | 184991 | [184991-hyperspace-throw-patrol.json](./184991-hyperspace-throw-patrol.json) |
