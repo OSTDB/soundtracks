@@ -1679,7 +1679,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Runner | 201735 | [201735-egg-runner.json](./201735-egg-runner.json) |
 | Egg Splash | 89194 | [89194-egg-splash.json](./89194-egg-splash.json) |
 | Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
+| Egg Summoner | 337875 | [337875-egg-summoner.json](./337875-egg-summoner.json) |
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
+| Egg Surprise: No more clicks! | 337893 | [337893-egg-surprise-no-more-clicks.json](./337893-egg-surprise-no-more-clicks.json) |
 | Egg Tales | 58749 | [58749-egg-tales.json](./58749-egg-tales.json) |
 | Egg Teacher VR | 110103 | [110103-egg-teacher-vr.json](./110103-egg-teacher-vr.json) |
 | Egg Time | 31213 | [31213-egg-time.json](./31213-egg-time.json) |
@@ -3276,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysion | 100062 | [100062-elysion.json](./100062-elysion.json) |
 | Elysion | 48509 | [48509-elysion.json](./48509-elysion.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
+| Elysion: Eien no Sanctuary | 337855 | [337855-elysion-eien-no-sanctuary.json](./337855-elysion-eien-no-sanctuary.json) |
 | Elysion: Eien no Sanctuary | 77756 | [77756-elysion-eien-no-sanctuary.json](./77756-elysion-eien-no-sanctuary.json) |
 | Elysion: Feeling of Release | 222366 | [222366-elysion-feeling-of-release.json](./222366-elysion-feeling-of-release.json) |
 | Elysium | 266763 | [266763-elysium.json](./266763-elysium.json) |
@@ -3653,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
 | Emojikara: A Clever Emoji Match Game | 58681 | [58681-emojikara-a-clever-emoji-match-game.json](./58681-emojikara-a-clever-emoji-match-game.json) |
 | Emojis Battle | 346863 | [346863-emojis-battle.json](./346863-emojis-battle.json) |
+| EmojiShooter | 337878 | [337878-emojishooter.json](./337878-emojishooter.json) |
 | Emojly: Emoji Logic Puzzles | 232120 | [232120-emojly-emoji-logic-puzzles.json](./232120-emojly-emoji-logic-puzzles.json) |
 | Emokunai Kiss | 214344 | [214344-emokunai-kiss.json](./214344-emokunai-kiss.json) |
 | Emolga and the Mail Trials | 340959 | [340959-emolga-and-the-mail-trials.json](./340959-emolga-and-the-mail-trials.json) |
