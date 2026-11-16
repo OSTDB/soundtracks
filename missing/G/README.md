@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
+| Gekido | 264838 | [264838-gekido.json](./264838-gekido.json) |
 | Gekido | 4128 | [4128-gekido.json](./4128-gekido.json) |
 | Gekido Advance: Kintaro's Revenge | 6418 | [6418-gekido-advance-kintaros-revenge.json](./6418-gekido-advance-kintaros-revenge.json) |
 | Gekido: Kintaro's Revenge | 89771 | [89771-gekido-kintaros-revenge.json](./89771-gekido-kintaros-revenge.json) |
@@ -6635,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
 | Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
 | Goblin's Journey | 240635 | [240635-goblins-journey.json](./240635-goblins-journey.json) |
+| Goblin's Mystic War | 264815 | [264815-goblins-mystic-war.json](./264815-goblins-mystic-war.json) |
 | Goblin's Shop | 110690 | [110690-goblins-shop.json](./110690-goblins-shop.json) |
 | Goblin's WAY Jigsaw Challenge | 110198 | [110198-goblins-way-jigsaw-challenge.json](./110198-goblins-way-jigsaw-challenge.json) |
 | Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
@@ -7352,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Idol Investigations: The Curse of the Last Reaper | 369787 | [369787-golden-idol-investigations-the-curse-of-the-last-reaper.json](./369787-golden-idol-investigations-the-curse-of-the-last-reaper.json) |
 | Golden Idol Investigations: The Lemurian Phoenix | 342844 | [342844-golden-idol-investigations-the-lemurian-phoenix.json](./342844-golden-idol-investigations-the-lemurian-phoenix.json) |
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
+| Golden Idol Mysteries : Game + DLC Bundle | 264843 | [264843-golden-idol-mysteries-game-dlc-bundle.json](./264843-golden-idol-mysteries-game-dlc-bundle.json) |
 | Golden Idol Mysteries: DLC Bundle | 268569 | [268569-golden-idol-mysteries-dlc-bundle.json](./268569-golden-idol-mysteries-dlc-bundle.json) |
 | Golden Idol Mysteries: The Lemurian Vampire | 264300 | [264300-golden-idol-mysteries-the-lemurian-vampire.json](./264300-golden-idol-mysteries-the-lemurian-vampire.json) |
 | Golden Jetpackman | 193210 | [193210-golden-jetpackman.json](./193210-golden-jetpackman.json) |
@@ -7706,8 +7709,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfing Greats | 40325 | [40325-golfing-greats.json](./40325-golfing-greats.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
 | Golfing In Aether | 199271 | [199271-golfing-in-aether.json](./199271-golfing-in-aether.json) |
+| Golfing in Aether: Autumn | 264819 | [264819-golfing-in-aether-autumn.json](./264819-golfing-in-aether-autumn.json) |
 | Golfing In Aether: Cauldron | 313008 | [313008-golfing-in-aether-cauldron.json](./313008-golfing-in-aether-cauldron.json) |
+| Golfing in Aether: Deluxe Edition | 264817 | [264817-golfing-in-aether-deluxe-edition.json](./264817-golfing-in-aether-deluxe-edition.json) |
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
+| Golfing in Aether: Leviathan | 264818 | [264818-golfing-in-aether-leviathan.json](./264818-golfing-in-aether-leviathan.json) |
 | Golfing In Aether: Winter | 235954 | [235954-golfing-in-aether-winter.json](./235954-golfing-in-aether-winter.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfing World | 14097 | [14097-golfing-world.json](./14097-golfing-world.json) |
@@ -11616,6 +11622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guava Juice: Tub Tapper | 101162 | [101162-guava-juice-tub-tapper.json](./101162-guava-juice-tub-tapper.json) |
 | Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
 | Guazu: The Rescue | 152531 | [152531-guazu-the-rescue.json](./152531-guazu-the-rescue.json) |
+| Gubbins | 262630 | [262630-gubbins.json](./262630-gubbins.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
 | Gubble | 317757 | [317757-gubble.json](./317757-gubble.json) |
 | Gubble | 44937 | [44937-gubble.json](./44937-gubble.json) |
@@ -11917,9 +11924,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Another Story | 254515 | [254515-guilty-gear-strive-another-story.json](./254515-guilty-gear-strive-another-story.json) |
 | Guilty Gear: Strive - Blazing Edition | 309283 | [309283-guilty-gear-strive-blazing-edition.json](./309283-guilty-gear-strive-blazing-edition.json) |
 | Guilty Gear: Strive - Daredevil Edition | 263513 | [263513-guilty-gear-strive-daredevil-edition.json](./263513-guilty-gear-strive-daredevil-edition.json) |
+| Guilty Gear: Strive - Guilty Gear 25th Anniversary: Appreciation Color Pack | 264824 | [264824-guilty-gear-strive-guilty-gear-25th-anniversary-appreciation-color-pack.json](./264824-guilty-gear-strive-guilty-gear-25th-anniversary-appreciation-color-pack.json) |
+| Guilty Gear: Strive - Guilty Gear 25th Anniversary: Special Additional Color Pack | 264825 | [264825-guilty-gear-strive-guilty-gear-25th-anniversary-special-additional-color-pack.json](./264825-guilty-gear-strive-guilty-gear-25th-anniversary-special-additional-color-pack.json) |
 | Guilty Gear: Strive - Nintendo Switch Edition | 315335 | [315335-guilty-gear-strive-nintendo-switch-edition.json](./315335-guilty-gear-strive-nintendo-switch-edition.json) |
+| Guilty Gear: Strive - Season 3 Character Additional Colors | 264828 | [264828-guilty-gear-strive-season-3-character-additional-colors.json](./264828-guilty-gear-strive-season-3-character-additional-colors.json) |
 | Guilty Gear: Strive - Season Pass 1 | 254962 | [254962-guilty-gear-strive-season-pass-1.json](./254962-guilty-gear-strive-season-pass-1.json) |
 | Guilty Gear: Strive - Season Pass 2 | 254967 | [254967-guilty-gear-strive-season-pass-2.json](./254967-guilty-gear-strive-season-pass-2.json) |
+| Guilty Gear: Strive - Season Pass 3 | 264832 | [264832-guilty-gear-strive-season-pass-3.json](./264832-guilty-gear-strive-season-pass-3.json) |
 | Guilty Gear: Strive - Season Pass 4 | 309271 | [309271-guilty-gear-strive-season-pass-4.json](./309271-guilty-gear-strive-season-pass-4.json) |
 | Guilty Gear: Strive - Special Colors for Sol and Ky | 254507 | [254507-guilty-gear-strive-special-colors-for-sol-and-ky.json](./254507-guilty-gear-strive-special-colors-for-sol-and-ky.json) |
 | Guilty Gear: Strive - Ultimate Edition | 139986 | [139986-guilty-gear-strive-ultimate-edition.json](./139986-guilty-gear-strive-ultimate-edition.json) |
