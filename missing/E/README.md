@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo's Esker | 132405 | [132405-echos-esker.json](./132405-echos-esker.json) |
 | Echo's Inc | 386312 | [386312-echos-inc.json](./386312-echos-inc.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
+| Echobreaker | 396159 | [396159-echobreaker.json](./396159-echobreaker.json) |
 | Echocalypse: Scarlet Covenant | 208198 | [208198-echocalypse-scarlet-covenant.json](./208198-echocalypse-scarlet-covenant.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
 | Echochrome | 18050 | [18050-echochrome.json](./18050-echochrome.json) |
