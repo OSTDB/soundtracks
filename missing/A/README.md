@@ -62,7 +62,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
 | A Blastastic Love Story: KiriBaku | 178750 | [178750-a-blastastic-love-story-kiribaku.json](./178750-a-blastastic-love-story-kiribaku.json) |
 | A Bleaker Predicklement | 106014 | [106014-a-bleaker-predicklement.json](./106014-a-bleaker-predicklement.json) |
-| A Blind Legend | 33641 | [33641-a-blind-legend.json](./33641-a-blind-legend.json) |
 | A Blind Spot | 342330 | [342330-a-blind-spot.json](./342330-a-blind-spot.json) |
 | A Blinding Void | 142508 | [142508-a-blinding-void.json](./142508-a-blinding-void.json) |
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
@@ -2706,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abyssus Scroll | 338532 | [338532-abyssus-scroll.json](./338532-abyssus-scroll.json) |
 | Abyssus: Brineguard Pack | 379084 | [379084-abyssus-brineguard-pack.json](./379084-abyssus-brineguard-pack.json) |
+| Abyssus: Brinehunter Pack | 360792 | [360792-abyssus-brinehunter-pack.json](./360792-abyssus-brinehunter-pack.json) |
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | ABZoo | 14203 | [14203-abzoo.json](./14203-abzoo.json) |
@@ -15128,6 +15128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheAge | 6451 | [6451-archeage.json](./6451-archeage.json) |
 | ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
+| ArcheAge War | 358536 | [358536-archeage-war.json](./358536-archeage-war.json) |
 | ArcheAge: Unchained | 125340 | [125340-archeage-unchained.json](./125340-archeage-unchained.json) |
 | ArcheAge: Unchained - Garden of the Gods | 167336 | [167336-archeage-unchained-garden-of-the-gods.json](./167336-archeage-unchained-garden-of-the-gods.json) |
 | Archean | 301128 | [301128-archean.json](./301128-archean.json) |
