@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Surreality | 226241 | [226241-backrooms-surreality.json](./226241-backrooms-surreality.json) |
 | Backrooms: The Deep Dark | 407814 | [407814-backrooms-the-deep-dark.json](./407814-backrooms-the-deep-dark.json) |
 | Backrooms: The Game | 231587 | [231587-backrooms-the-game.json](./231587-backrooms-the-game.json) |
+| Backrooms: The Incident | 417090 | [417090-backrooms-the-incident.json](./417090-backrooms-the-incident.json) |
 | Backrooms: The Labyrinth | 309802 | [309802-backrooms-the-labyrinth.json](./309802-backrooms-the-labyrinth.json) |
 | Backrooms: The Lost Circus | 335054 | [335054-backrooms-the-lost-circus.json](./335054-backrooms-the-lost-circus.json) |
 | Backrooms: The Next Level | 353784 | [353784-backrooms-the-next-level.json](./353784-backrooms-the-next-level.json) |
@@ -6134,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatbuddy HD | 175102 | [175102-beatbuddy-hd.json](./175102-beatbuddy-hd.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
 | Beatcha | 13965 | [13965-beatcha.json](./13965-beatcha.json) |
+| BeatChip '95 | 417851 | [417851-beatchip-95.json](./417851-beatchip-95.json) |
 | Beatcore Zero | 405143 | [405143-beatcore-zero.json](./405143-beatcore-zero.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatcrash | 117866 | [117866-beatcrash.json](./117866-beatcrash.json) |
@@ -6340,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Unveiled: Hot Edition | 298568 | [298568-beauties-unveiled-hot-edition.json](./298568-beauties-unveiled-hot-edition.json) |
 | Beauties Unveiled: NoirPetal Level Pack | 284508 | [284508-beauties-unveiled-noirpetal-level-pack.json](./284508-beauties-unveiled-noirpetal-level-pack.json) |
 | Beauties! They're All After Me | 306240 | [306240-beauties-theyre-all-after-me.json](./306240-beauties-theyre-all-after-me.json) |
+| Beauties' Thrilling Shots | 417872 | [417872-beauties-thrilling-shots.json](./417872-beauties-thrilling-shots.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
 | Beautiful Anime Puzzles: Rainy Days | 342337 | [342337-beautiful-anime-puzzles-rainy-days.json](./342337-beautiful-anime-puzzles-rainy-days.json) |
 | Beautiful Blood | 299657 | [299657-beautiful-blood.json](./299657-beautiful-blood.json) |
@@ -11328,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blickel NES | 181446 | [181446-blickel-nes.json](./181446-blickel-nes.json) |
 | Blight | 211161 | [211161-blight.json](./211161-blight.json) |
 | Blight | 314088 | [314088-blight.json](./314088-blight.json) |
+| Blight | 417127 | [417127-blight.json](./417127-blight.json) |
 | Blight Brigade | 425162 | [425162-blight-brigade.json](./425162-blight-brigade.json) |
 | Blight Bubbles | 260289 | [260289-blight-bubbles.json](./260289-blight-bubbles.json) |
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
@@ -11619,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobbo | 13975 | [13975-blobbo.json](./13975-blobbo.json) |
 | Blobbs Remastered | 335810 | [335810-blobbs-remastered.json](./335810-blobbs-remastered.json) |
 | Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
+| Blobby and the Milkshake | 417078 | [417078-blobby-and-the-milkshake.json](./417078-blobby-and-the-milkshake.json) |
 | Blobby Jump | 194287 | [194287-blobby-jump.json](./194287-blobby-jump.json) |
 | Blobby Online | 58458 | [58458-blobby-online.json](./58458-blobby-online.json) |
 | Blobby Tennis | 36475 | [36475-blobby-tennis.json](./36475-blobby-tennis.json) |
@@ -11861,6 +11866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Sandbox World | 99873 | [99873-block-sandbox-world.json](./99873-block-sandbox-world.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Shop | 283387 | [283387-block-shop.json](./283387-block-shop.json) |
+| Block Shop | 417883 | [417883-block-shop.json](./417883-block-shop.json) |
 | Block Siege VR | 309482 | [309482-block-siege-vr.json](./309482-block-siege-vr.json) |
 | Block Sky Rise | 370623 | [370623-block-sky-rise.json](./370623-block-sky-rise.json) |
 | Block Slender-Man 2: The Forest of Soul Harvest Hunter - Pocket Edition | 101016 | [101016-block-slender-man-2-the-forest-of-soul-harvest-hunter-pocket-edition.json](./101016-block-slender-man-2-the-forest-of-soul-harvest-hunter-pocket-edition.json) |
@@ -13195,6 +13201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Stinger | 6715 | [6715-blue-stinger.json](./6715-blue-stinger.json) |
 | Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
 | Blue Submarine No. 6: Time and Tide | 66288 | [66288-blue-submarine-no-6-time-and-tide.json](./66288-blue-submarine-no-6-time-and-tide.json) |
+| Blue Sun | 417091 | [417091-blue-sun.json](./417091-blue-sun.json) |
 | Blue Sun Saga | 416863 | [416863-blue-sun-saga.json](./416863-blue-sun-saga.json) |
 | Blue Swift Wind | 378362 | [378362-blue-swift-wind.json](./378362-blue-swift-wind.json) |
 | Blue Swirl | 297526 | [297526-blue-swirl.json](./297526-blue-swirl.json) |
@@ -14879,6 +14886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boop a Cat | 303356 | [303356-boop-a-cat.json](./303356-boop-a-cat.json) |
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
+| Booper Bowling | 417838 | [417838-booper-bowling.json](./417838-booper-bowling.json) |
 | Booper, Get Home! | 38949 | [38949-booper-get-home.json](./38949-booper-get-home.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
 | Boopineer | 164121 | [164121-boopineer.json](./164121-boopineer.json) |
@@ -19020,6 +19028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Drop | 399215 | [399215-bug-drop.json](./399215-bug-drop.json) |
 | Bug Drop! | 200055 | [200055-bug-drop.json](./200055-bug-drop.json) |
 | Bug Error 404: Anime Boys Not Found | 416065 | [416065-bug-error-404-anime-boys-not-found.json](./416065-bug-error-404-anime-boys-not-found.json) |
+| Bug Error 404: Anime Girls Not Found | 417889 | [417889-bug-error-404-anime-girls-not-found.json](./417889-bug-error-404-anime-girls-not-found.json) |
 | Bug Explorers | 200478 | [200478-bug-explorers.json](./200478-bug-explorers.json) |
 | Bug Eyes | 15690 | [15690-bug-eyes.json](./15690-bug-eyes.json) |
 | Bug Fables: Aphid Festival | 145560 | [145560-bug-fables-aphid-festival.json](./145560-bug-fables-aphid-festival.json) |
