@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
 | Danshi Ryou Himitsu no Idol | 394941 | [394941-danshi-ryou-himitsu-no-idol.json](./394941-danshi-ryou-himitsu-no-idol.json) |
 | Danshikou de Atta Kowai Hanashi | 210822 | [210822-danshikou-de-atta-kowai-hanashi.json](./210822-danshikou-de-atta-kowai-hanashi.json) |
+| DanSparkling | 253083 | [253083-dansparkling.json](./253083-dansparkling.json) |
 | Dante: RPG Construction Tool | 63511 | [63511-dante-rpg-construction-tool.json](./63511-dante-rpg-construction-tool.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
 | Dante's Forest | 30999 | [30999-dantes-forest.json](./30999-dantes-forest.json) |
@@ -5577,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debug Life | 339322 | [339322-debug-life.json](./339322-debug-life.json) |
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
 | Debug Quest | 185057 | [185057-debug-quest.json](./185057-debug-quest.json) |
+| Debug Quest | 252973 | [252973-debug-quest.json](./252973-debug-quest.json) |
 | Debugger 3.16: Hack'n'Run | 36039 | [36039-debugger-3-16-hacknrun.json](./36039-debugger-3-16-hacknrun.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
@@ -7446,6 +7448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Still Alive | 306344 | [306344-demon-still-alive.json](./306344-demon-still-alive.json) |
 | Demon Street | 387560 | [387560-demon-street.json](./387560-demon-street.json) |
 | Demon Strikes Back | 156647 | [156647-demon-strikes-back.json](./156647-demon-strikes-back.json) |
+| Demon Subduing Master | 252977 | [252977-demon-subduing-master.json](./252977-demon-subduing-master.json) |
 | Demon Survival | 226756 | [226756-demon-survival.json](./226756-demon-survival.json) |
 | Demon Swield | 387820 | [387820-demon-swield.json](./387820-demon-swield.json) |
 | Demon Sword | 48065 | [48065-demon-sword.json](./48065-demon-sword.json) |
