@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Sports | 51106 | [51106-vacation-sports.json](./51106-vacation-sports.json) |
 | Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
 | Vacation Vexation | 57155 | [57155-vacation-vexation.json](./57155-vacation-vexation.json) |
+| Vacation Wonders: Hidden Quest - Collector's Edition | 416411 | [416411-vacation-wonders-hidden-quest-collectors-edition.json](./416411-vacation-wonders-hidden-quest-collectors-edition.json) |
 | Vacation: DayOff | 160258 | [160258-vacation-dayoff.json](./160258-vacation-dayoff.json) |
 | Vacay Volley | 422765 | [422765-vacay-volley.json](./422765-vacay-volley.json) |
 | VacBot Simulator | 389716 | [389716-vacbot-simulator.json](./389716-vacbot-simulator.json) |
@@ -540,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie: Dawn of Ragnarok | 230946 | [230946-valkyrie-dawn-of-ragnarok.json](./230946-valkyrie-dawn-of-ragnarok.json) |
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
 | Valkyrie: The Magical Odyssey | 300590 | [300590-valkyrie-the-magical-odyssey.json](./300590-valkyrie-the-magical-odyssey.json) |
+| ValkyrieRecomp | 416439 | [416439-valkyrierecomp.json](./416439-valkyrierecomp.json) |
 | Valkyrius | 9434 | [9434-valkyrius.json](./9434-valkyrius.json) |
 | Valkyrius Prime | 32340 | [32340-valkyrius-prime.json](./32340-valkyrius-prime.json) |
 | Valla | 394379 | [394379-valla.json](./394379-valla.json) |
