@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T10:16:49.215Z",
-  "total_soundtracks": 3456,
+  "generated_at": "2026-11-16T10:26:48.759Z",
+  "total_soundtracks": 3461,
   "games": [
     {
       "igdb_id": 292844,
@@ -3345,6 +3345,20 @@
         {
           "album_name": "Ballads at Midnight (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6oQpjqKP6ZSi422hnNs60b",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26240,
+      "game_name": "Balthazar's Dream",
+      "game_url": "https://ostdb.net/games/balthazars-dream",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398f01e30fff25bf1dfb8236a",
+      "albums": [
+        {
+          "album_name": "Balthazar's Dream (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4kaYQ4Idm1YrUljuDruj29",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -11211,6 +11225,20 @@
       ]
     },
     {
+      "igdb_id": 25229,
+      "game_name": "Dwarrows",
+      "game_url": "https://ostdb.net/games/dwarrows",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27357f9fa90ff36785835b82af8",
+      "albums": [
+        {
+          "album_name": "Dwarrows (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0GVhLyopZabykScxQ3rdMl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3042,
       "game_name": "Dying Light",
       "game_url": "https://ostdb.net/games/dying-light",
@@ -16319,6 +16347,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/habromania-original-game-soundtrack/1846580881?uo=4",
           "album_link_url": "https://album.link/i/1846580881"
+        }
+      ]
+    },
+    {
+      "igdb_id": 24441,
+      "game_name": "Hackmud",
+      "game_url": "https://ostdb.net/games/hackmud",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273793e55af935c942a5074cf0d",
+      "albums": [
+        {
+          "album_name": "Hackmud: Volume 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5hC1Zyj7wp3olaN989PNDz",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -39195,6 +39237,20 @@
       ]
     },
     {
+      "igdb_id": 25908,
+      "game_name": "The Unspoken",
+      "game_url": "https://ostdb.net/games/the-unspoken",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e3bbe5ff58a859a32902bb8",
+      "albums": [
+        {
+          "album_name": "The Unspoken (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6pt9fvNTKMO4LKU4jxiwLz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2158,
       "game_name": "The Urbz: Sims in the City",
       "game_url": "https://ostdb.net/games/the-urbz-sims-in-the-city",
@@ -40251,6 +40307,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/towa-and-the-guardians-of-the/1843022579?uo=4",
           "album_link_url": "https://album.link/i/1843022579"
+        }
+      ]
+    },
+    {
+      "igdb_id": 25316,
+      "game_name": "Towards the Pantheon",
+      "game_url": "https://ostdb.net/games/towards-the-pantheon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27395df78767adce970e8c362a5",
+      "albums": [
+        {
+          "album_name": "Towards the Pantheon (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1VSeQir8u5z5TuHv1sTOIb",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
