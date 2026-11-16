@@ -12978,7 +12978,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakshow: Episode 1 | 167912 | [167912-freakshow-episode-1.json](./167912-freakshow-episode-1.json) |
 | Freakshow: Episode 2 | 167909 | [167909-freakshow-episode-2.json](./167909-freakshow-episode-2.json) |
 | Freakshow: Episode 3 | 167910 | [167910-freakshow-episode-3.json](./167910-freakshow-episode-3.json) |
-| Freaky Awesome | 27711 | [27711-freaky-awesome.json](./27711-freaky-awesome.json) |
 | Freaky Clown: Town Mystery | 142171 | [142171-freaky-clown-town-mystery.json](./142171-freaky-clown-town-mystery.json) |
 | Freaky Creatures | 209565 | [209565-freaky-creatures.json](./209565-freaky-creatures.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
