@@ -8113,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Maze: The Enemy of Abyss | 174498 | [174498-evil-maze-the-enemy-of-abyss.json](./174498-evil-maze-the-enemy-of-abyss.json) |
 | Evil Minds: Dirty Charades! | 106346 | [106346-evil-minds-dirty-charades.json](./106346-evil-minds-dirty-charades.json) |
 | Evil Mineswifter | 222707 | [222707-evil-mineswifter.json](./222707-evil-mineswifter.json) |
+| Evil Moon: Unspoken | 413358 | [413358-evil-moon-unspoken.json](./413358-evil-moon-unspoken.json) |
 | Evil Mountains | 276675 | [276675-evil-mountains.json](./276675-evil-mountains.json) |
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
