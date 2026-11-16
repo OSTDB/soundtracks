@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1.44MB Rescue | 424686 | [424686-1-44mb-rescue.json](./424686-1-44mb-rescue.json) |
 | 1.5-Hour Community Build Project | 308481 | [308481-1-5-hour-community-build-project.json](./308481-1-5-hour-community-build-project.json) |
 | 1.96.9 All Update | 334940 | [334940-1-96-9-all-update.json](./334940-1-96-9-all-update.json) |
+| 1/1 Kareshi Kanojo | 399306 | [399306-1-1-kareshi-kanojo.json](./399306-1-1-kareshi-kanojo.json) |
 | 1/16384 | 411764 | [411764-1-16384.json](./411764-1-16384.json) |
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
 | 1/2 Halfway | 141267 | [141267-1-2-halfway.json](./141267-1-2-halfway.json) |
