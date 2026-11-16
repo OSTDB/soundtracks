@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Stars | 359397 | [359397-falling-stars.json](./359397-falling-stars.json) |
 | Falling Stars: War of Empires | 33562 | [33562-falling-stars-war-of-empires.json](./33562-falling-stars-war-of-empires.json) |
 | Falling Stars... And Other Celestial Objects | 295618 | [295618-falling-stars-and-other-celestial-objects.json](./295618-falling-stars-and-other-celestial-objects.json) |
+| Falling Thingies | 347951 | [347951-falling-thingies.json](./347951-falling-thingies.json) |
 | Falling to Heaven | 197052 | [197052-falling-to-heaven.json](./197052-falling-to-heaven.json) |
 | Falling Tower | 253955 | [253955-falling-tower.json](./253955-falling-tower.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
@@ -6328,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Chuchu | 371630 | [371630-finding-chuchu.json](./371630-finding-chuchu.json) |
 | Finding Cinderella | 207171 | [207171-finding-cinderella.json](./207171-finding-cinderella.json) |
+| Finding Cool Sticks | 347923 | [347923-finding-cool-sticks.json](./347923-finding-cool-sticks.json) |
 | Finding Doggy | 54043 | [54043-finding-doggy.json](./54043-finding-doggy.json) |
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
@@ -6447,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingerbones | 13142 | [13142-fingerbones.json](./13142-fingerbones.json) |
 | Fingerbox | 401628 | [401628-fingerbox.json](./401628-fingerbox.json) |
 | Fingercrafts | 216259 | [216259-fingercrafts.json](./216259-fingercrafts.json) |
+| Fingerdance | 346840 | [346840-fingerdance.json](./346840-fingerdance.json) |
 | FingerLaserX | 420913 | [420913-fingerlaserx.json](./420913-fingerlaserx.json) |
 | Fingernail Floss | 257917 | [257917-fingernail-floss.json](./257917-fingernail-floss.json) |
 | Fingers Malone | 330014 | [330014-fingers-malone.json](./330014-fingers-malone.json) |
@@ -7647,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishTDX | 277734 | [277734-fishtdx.json](./277734-fishtdx.json) |
 | Fishticuffs | 142681 | [142681-fishticuffs.json](./142681-fishticuffs.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
+| Fishtopia | 346844 | [346844-fishtopia.json](./346844-fishtopia.json) |
 | Fishtopia Tycoon 2 | 101916 | [101916-fishtopia-tycoon-2.json](./101916-fishtopia-tycoon-2.json) |
 | Fishtronomy | 304934 | [304934-fishtronomy.json](./304934-fishtronomy.json) |
 | Fishu | 409120 | [409120-fishu.json](./409120-fishu.json) |
@@ -9607,6 +9611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluida | 291814 | [291814-fluida.json](./291814-fluida.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
+| Flummy | 348991 | [348991-flummy.json](./348991-flummy.json) |
 | Flunkerne: Kaos og Kalypso | 131864 | [131864-flunkerne-kaos-og-kalypso.json](./131864-flunkerne-kaos-og-kalypso.json) |
 | Flunkerne: På Månen | 285337 | [285337-flunkerne-pa-manen.json](./285337-flunkerne-pa-manen.json) |
 | Flunkerne: Pirater | 285338 | [285338-flunkerne-pirater.json](./285338-flunkerne-pirater.json) |
@@ -11849,6 +11854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 6 - Mini Season 2: The Simpsons | 375706 | [375706-fortnite-chapter-6-mini-season-2-the-simpsons.json](./375706-fortnite-chapter-6-mini-season-2-the-simpsons.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
 | Fortnite: Chapter 6 - Season 2: Lawless | 332192 | [332192-fortnite-chapter-6-season-2-lawless.json](./332192-fortnite-chapter-6-season-2-lawless.json) |
+| Fortnite: Chapter 6 - Season 3: Super | 347930 | [347930-fortnite-chapter-6-season-3-super.json](./347930-fortnite-chapter-6-season-3-super.json) |
 | Fortnite: Chapter 6 - Season 4: Shock 'N Awesome | 360278 | [360278-fortnite-chapter-6-season-4-shock-n-awesome.json](./360278-fortnite-chapter-6-season-4-shock-n-awesome.json) |
 | Fortnite: Chapter 7 - Season 1: Pacific Break | 379299 | [379299-fortnite-chapter-7-season-1-pacific-break.json](./379299-fortnite-chapter-7-season-1-pacific-break.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
