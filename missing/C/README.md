@@ -16649,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
+| Cops N' Zombies | 224731 | [224731-cops-n-zombies.json](./224731-cops-n-zombies.json) |
 | Cops: On Patrol | 57984 | [57984-cops-on-patrol.json](./57984-cops-on-patrol.json) |
 | Copta Snatch | 73865 | [73865-copta-snatch.json](./73865-copta-snatch.json) |
 | Copter | 14010 | [14010-copter.json](./14010-copter.json) |
@@ -17209,6 +17210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cowabunnies | 265866 | [265866-cosmic-cowabunnies.json](./265866-cosmic-cowabunnies.json) |
 | Cosmic Cowboy | 303434 | [303434-cosmic-cowboy.json](./303434-cosmic-cowboy.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
+| Cosmic Crashers | 224730 | [224730-cosmic-crashers.json](./224730-cosmic-crashers.json) |
 | Cosmic Creeps | 18547 | [18547-cosmic-creeps.json](./18547-cosmic-creeps.json) |
 | Cosmic Crisis | 40877 | [40877-cosmic-crisis.json](./40877-cosmic-crisis.json) |
 | Cosmic Critters | 263121 | [263121-cosmic-critters.json](./263121-cosmic-critters.json) |
