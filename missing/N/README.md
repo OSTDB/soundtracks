@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need Know What Know | 405970 | [405970-need-know-what-know.json](./405970-need-know-what-know.json) |
 | Need More Speed | 108092 | [108092-need-more-speed.json](./108092-need-more-speed.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
+| Need to Go Deeper | 367636 | [367636-need-to-go-deeper.json](./367636-need-to-go-deeper.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Need Two Survive | 325903 | [325903-need-two-survive.json](./325903-need-two-survive.json) |
 | Need: No End | 390312 | [390312-need-no-end.json](./390312-need-no-end.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negotiation | 128710 | [128710-negotiation.json](./128710-negotiation.json) |
 | Negotiation Love | 369108 | [369108-negotiation-love.json](./369108-negotiation-love.json) |
 | Negotiations Have Failed! | 374179 | [374179-negotiations-have-failed.json](./374179-negotiations-have-failed.json) |
+| NEH | 379276 | [379276-neh.json](./379276-neh.json) |
 | Nehahra | 195994 | [195994-nehahra.json](./195994-nehahra.json) |
 | Nehan 2: Darkness Fantasy | 320889 | [320889-nehan-2-darkness-fantasy.json](./320889-nehan-2-darkness-fantasy.json) |
 | Nehan: Kanzenban | 320888 | [320888-nehan-kanzenban.json](./320888-nehan-kanzenban.json) |
