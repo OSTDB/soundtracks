@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panoplia: The Full Armor of God | 68205 | [68205-panoplia-the-full-armor-of-god.json](./68205-panoplia-the-full-armor-of-god.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panoptic | 30932 | [30932-panoptic.json](./30932-panoptic.json) |
+| Panoptic II | 396152 | [396152-panoptic-ii.json](./396152-panoptic-ii.json) |
 | Panopticon | 371242 | [371242-panopticon.json](./371242-panopticon.json) |
 | Panopticon: Path of Reflections | 53449 | [53449-panopticon-path-of-reflections.json](./53449-panopticon-path-of-reflections.json) |
 | Panoptique | 274279 | [274279-panoptique.json](./274279-panoptique.json) |
@@ -10183,6 +10184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Squad | 113873 | [113873-plague-squad.json](./113873-plague-squad.json) |
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
 | Plague: London 1665 | 244733 | [244733-plague-london-1665.json](./244733-plague-london-1665.json) |
+| Plagueborn | 395317 | [395317-plagueborn.json](./395317-plagueborn.json) |
 | Plagueborn Survivor | 276980 | [276980-plagueborn-survivor.json](./276980-plagueborn-survivor.json) |
 | Plaguemon: Kado | 247371 | [247371-plaguemon-kado.json](./247371-plaguemon-kado.json) |
 | Plaguemon: Lost Diaries | 247362 | [247362-plaguemon-lost-diaries.json](./247362-plaguemon-lost-diaries.json) |
