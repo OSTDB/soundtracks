@@ -8105,6 +8105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bezirk | 109876 | [109876-bezirk.json](./109876-bezirk.json) |
 | Bezoff | 284131 | [284131-bezoff.json](./284131-bezoff.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
+| BFDI Blast! | 399225 | [399225-bfdi-blast.json](./399225-bfdi-blast.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
 | BFDI: Four's Kitchen | 385942 | [385942-bfdi-fours-kitchen.json](./385942-bfdi-fours-kitchen.json) |
 | BFDIA 5b | 191631 | [191631-bfdia-5b.json](./191631-bfdia-5b.json) |
@@ -13116,6 +13117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Force | 50236 | [50236-blue-force.json](./50236-blue-force.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
 | Blue Funk | 234668 | [234668-blue-funk.json](./234668-blue-funk.json) |
+| Blue Fury | 399226 | [399226-blue-fury.json](./399226-blue-fury.json) |
 | Blue Hawaii Aniki's Soft Ore Demand Debut | 365262 | [365262-blue-hawaii-anikis-soft-ore-demand-debut.json](./365262-blue-hawaii-anikis-soft-ore-demand-debut.json) |
 | Blue Hawk | 39875 | [39875-blue-hawk.json](./39875-blue-hawk.json) |
 | Blue Hill Wendigo | 343217 | [343217-blue-hill-wendigo.json](./343217-blue-hill-wendigo.json) |
