@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Rising: Haunted Nights Castle Pack | 272217 | [272217-v-rising-haunted-nights-castle-pack.json](./272217-v-rising-haunted-nights-castle-pack.json) |
 | V Rising: Invaders of Oakvale | 339621 | [339621-v-rising-invaders-of-oakvale.json](./339621-v-rising-invaders-of-oakvale.json) |
 | V Rising: Legacy of Castlevania | 296842 | [296842-v-rising-legacy-of-castlevania.json](./296842-v-rising-legacy-of-castlevania.json) |
+| V Rising: Legacy of Castlevania - Premium Pack | 297394 | [297394-v-rising-legacy-of-castlevania-premium-pack.json](./297394-v-rising-legacy-of-castlevania-premium-pack.json) |
 | V Rising: Razer Night Serpent Pack | 297495 | [297495-v-rising-razer-night-serpent-pack.json](./297495-v-rising-razer-night-serpent-pack.json) |
 | V Rising: Secrets of Gloomrot | 249516 | [249516-v-rising-secrets-of-gloomrot.json](./249516-v-rising-secrets-of-gloomrot.json) |
 | V Rising: Sinister Evolution Pack | 297497 | [297497-v-rising-sinister-evolution-pack.json](./297497-v-rising-sinister-evolution-pack.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van Helsing | 248620 | [248620-van-helsing.json](./248620-van-helsing.json) |
 | Van Helsing | 6226 | [6226-van-helsing.json](./6226-van-helsing.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
+| Van Helsing: Hunter or Hunted | 297399 | [297399-van-helsing-hunter-or-hunted.json](./297399-van-helsing-hunter-or-hunted.json) |
 | Van Life Simulator | 282264 | [282264-van-life-simulator.json](./282264-van-life-simulator.json) |
 | Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
 | Van Pershing | 194186 | [194186-van-pershing.json](./194186-van-pershing.json) |
@@ -1918,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vessel | 8382 | [8382-vessel.json](./8382-vessel.json) |
 | Vessel Blue | 238638 | [238638-vessel-blue.json](./238638-vessel-blue.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
+| Vesseled | 297409 | [297409-vesseled.json](./297409-vesseled.json) |
 | Vessels | 141520 | [141520-vessels.json](./141520-vessels.json) |
 | Vessels | 375938 | [375938-vessels.json](./375938-vessels.json) |
 | Vessels of Decay | 143715 | [143715-vessels-of-decay.json](./143715-vessels-of-decay.json) |
