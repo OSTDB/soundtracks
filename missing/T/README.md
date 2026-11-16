@@ -14078,6 +14078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: A Tear of Vermillion | 10943 | [10943-the-legend-of-heroes-a-tear-of-vermillion.json](./10943-the-legend-of-heroes-a-tear-of-vermillion.json) |
 | The Legend of Heroes: Akatsuki no Kiseki | 74267 | [74267-the-legend-of-heroes-akatsuki-no-kiseki.json](./74267-the-legend-of-heroes-akatsuki-no-kiseki.json) |
 | The Legend of Heroes: Akatsuki no Kiseki Mobile | 199963 | [199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json](./199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json) |
+| The Legend of Heroes: Ao no Kiseki | 284036 | [284036-the-legend-of-heroes-ao-no-kiseki.json](./284036-the-legend-of-heroes-ao-no-kiseki.json) |
 | The Legend of Heroes: Ao no Kiseki Evolution | 202822 | [202822-the-legend-of-heroes-ao-no-kiseki-evolution.json](./202822-the-legend-of-heroes-ao-no-kiseki-evolution.json) |
 | The Legend of Heroes: Hajimari no Kiseki - Platinum Master Box | 136782 | [136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json](./136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json) |
 | The Legend of Heroes: Kuro no Kiseki - Spriggan Edition | 151925 | [151925-the-legend-of-heroes-kuro-no-kiseki-spriggan-edition.json](./151925-the-legend-of-heroes-kuro-no-kiseki-spriggan-edition.json) |
@@ -22984,6 +22985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threads of Magic | 177879 | [177879-threads-of-magic.json](./177879-threads-of-magic.json) |
 | Threads of Time | 317820 | [317820-threads-of-time.json](./317820-threads-of-time.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
+| Threads of You: Beyond the Bay | 284034 | [284034-threads-of-you-beyond-the-bay.json](./284034-threads-of-you-beyond-the-bay.json) |
 | ThreadSpace: Hyperbol | 14802 | [14802-threadspace-hyperbol.json](./14802-threadspace-hyperbol.json) |
 | Threat | 94410 | [94410-threat.json](./94410-threat.json) |
 | Threat Actor | 245745 | [245745-threat-actor.json](./245745-threat-actor.json) |
