@@ -6093,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiball | 32852 | [32852-aiball.json](./32852-aiball.json) |
 | Aibeya | 121520 | [121520-aibeya.json](./121520-aibeya.json) |
 | Aibeya 2 | 150039 | [150039-aibeya-2.json](./150039-aibeya-2.json) |
+| Aibeya 3 | 398622 | [398622-aibeya-3.json](./398622-aibeya-3.json) |
 | Aibeya: Premium Limited Edition | 166265 | [166265-aibeya-premium-limited-edition.json](./166265-aibeya-premium-limited-edition.json) |
 | Aibou DS | 269543 | [269543-aibou-ds.json](./269543-aibou-ds.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
@@ -14129,6 +14130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc of Alchemist | 106684 | [106684-arc-of-alchemist.json](./106684-arc-of-alchemist.json) |
 | Arc of Alchemist: Limited Edition | 167040 | [167040-arc-of-alchemist-limited-edition.json](./167040-arc-of-alchemist-limited-edition.json) |
 | Arc of Doom | 66571 | [66571-arc-of-doom.json](./66571-arc-of-doom.json) |
+| Arc of Icarus | 399237 | [399237-arc-of-icarus.json](./399237-arc-of-icarus.json) |
 | Arc of Templar | 95926 | [95926-arc-of-templar.json](./95926-arc-of-templar.json) |
 | Arc Rise Fantasia | 4678 | [4678-arc-rise-fantasia.json](./4678-arc-rise-fantasia.json) |
 | Arc Savior | 107856 | [107856-arc-savior.json](./107856-arc-savior.json) |
@@ -15762,6 +15764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
 | ARise | 95777 | [95777-arise.json](./95777-arise.json) |
 | Arise + What Lies in the Multiverse Bundle | 216364 | [216364-arise-what-lies-in-the-multiverse-bundle.json](./216364-arise-what-lies-in-the-multiverse-bundle.json) |
+| Arise Dark Lord | 398616 | [398616-arise-dark-lord.json](./398616-arise-dark-lord.json) |
 | Arise from Shadows | 215523 | [215523-arise-from-shadows.json](./215523-arise-from-shadows.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen | 120603 | [120603-arisen.json](./120603-arisen.json) |
@@ -20464,6 +20467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar's Rock | 59727 | [59727-avatars-rock.json](./59727-avatars-rock.json) |
 | Avatara | 231984 | [231984-avatara.json](./231984-avatara.json) |
 | Avatarika | 29692 | [29692-avatarika.json](./29692-avatarika.json) |
+| Avatars on the Edge | 399222 | [399222-avatars-on-the-edge.json](./399222-avatars-on-the-edge.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avathar: The Legend of Green Dragon | 62066 | [62066-avathar-the-legend-of-green-dragon.json](./62066-avathar-the-legend-of-green-dragon.json) |
 | Avatour | 337559 | [337559-avatour.json](./337559-avatour.json) |
