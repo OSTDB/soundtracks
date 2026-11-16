@@ -9389,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lures | 387302 | [387302-lost-lures.json](./387302-lost-lures.json) |
 | Lost Luxury | 268896 | [268896-lost-luxury.json](./268896-lost-luxury.json) |
 | Lost Manor | 302190 | [302190-lost-manor.json](./302190-lost-manor.json) |
+| Lost Mansion | 279836 | [279836-lost-mansion.json](./279836-lost-mansion.json) |
 | Lost Marbles | 204178 | [204178-lost-marbles.json](./204178-lost-marbles.json) |
 | Lost Marbles | 36365 | [36365-lost-marbles.json](./36365-lost-marbles.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
