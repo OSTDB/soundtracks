@@ -5452,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass | 14094 | [14094-glass.json](./14094-glass.json) |
 | Glass | 166487 | [166487-glass.json](./166487-glass.json) |
 | Glass | 171995 | [171995-glass.json](./171995-glass.json) |
+| Glass | 255312 | [255312-glass.json](./255312-glass.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
 | Glass Breaker | 108116 | [108116-glass-breaker.json](./108116-glass-breaker.json) |
 | Glass Bridge | 215580 | [215580-glass-bridge.json](./215580-glass-bridge.json) |
@@ -10364,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greystone | 92926 | [92926-greystone.json](./92926-greystone.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grezzo 2 | 146678 | [146678-grezzo-2.json](./146678-grezzo-2.json) |
+| Grezzodue 2 | 255403 | [255403-grezzodue-2.json](./255403-grezzodue-2.json) |
 | Gribblin Defense | 297115 | [297115-gribblin-defense.json](./297115-gribblin-defense.json) |
 | Gribbly's Day Out | 28474 | [28474-gribblys-day-out.json](./28474-gribblys-day-out.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
@@ -11411,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GT Rivals | 410437 | [410437-gt-rivals.json](./410437-gt-rivals.json) |
 | GT-R 400 | 25287 | [25287-gt-r-400.json](./25287-gt-r-400.json) |
+| Gt-r Car Simulator | 254184 | [254184-gt-r-car-simulator.json](./254184-gt-r-car-simulator.json) |
 | GT-R Touring | 232412 | [232412-gt-r-touring.json](./232412-gt-r-touring.json) |
 | GTA Long Night | 309592 | [309592-gta-long-night.json](./309592-gta-long-night.json) |
 | GTA: La Heist | 121176 | [121176-gta-la-heist.json](./121176-gta-la-heist.json) |
