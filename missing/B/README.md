@@ -10005,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiuBiu Jungle | 118209 | [118209-biubiu-jungle.json](./118209-biubiu-jungle.json) |
 | Bivoj | 232263 | [232263-bivoj.json](./232263-bivoj.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
+| Biyoushi Debut Monogatari: Top Sutairisuto wo Mezasou! | 222546 | [222546-biyoushi-debut-monogatari-top-sutairisuto-wo-mezasou.json](./222546-biyoushi-debut-monogatari-top-sutairisuto-wo-mezasou.json) |
 | Biz Builder Delux | 147773 | [147773-biz-builder-delux.json](./147773-biz-builder-delux.json) |
 | Biz Nouryoku DS Series: Wagokoro no Moto | 269723 | [269723-biz-nouryoku-ds-series-wagokoro-no-moto.json](./269723-biz-nouryoku-ds-series-wagokoro-no-moto.json) |
 | Biz Nouryoku Series: Miryoku Kaikaku | 269722 | [269722-biz-nouryoku-series-miryoku-kaikaku.json](./269722-biz-nouryoku-series-miryoku-kaikaku.json) |
