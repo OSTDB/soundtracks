@@ -5139,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Elysium | 282205 | [282205-whispers-of-elysium.json](./282205-whispers-of-elysium.json) |
 | Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
 | Whispers of Gold | 236426 | [236426-whispers-of-gold.json](./236426-whispers-of-gold.json) |
+| Whispers of Kelsden | 362499 | [362499-whispers-of-kelsden.json](./362499-whispers-of-kelsden.json) |
 | Whispers of Mexico: La Noche de la Casada | 356785 | [356785-whispers-of-mexico-la-noche-de-la-casada.json](./356785-whispers-of-mexico-la-noche-de-la-casada.json) |
 | Whispers of Orange Island | 421365 | [421365-whispers-of-orange-island.json](./421365-whispers-of-orange-island.json) |
 | Whispers of Prague: The Executioner's Last Cut | 287708 | [287708-whispers-of-prague-the-executioners-last-cut.json](./287708-whispers-of-prague-the-executioners-last-cut.json) |
