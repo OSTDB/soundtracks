@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Fish | 292234 | [292234-tears-of-fish.json](./292234-tears-of-fish.json) |
 | Tears of Luna | 169593 | [169593-tears-of-luna.json](./169593-tears-of-luna.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
+| Tears of Metal | 305011 | [305011-tears-of-metal.json](./305011-tears-of-metal.json) |
 | Tears of the Maker | 349443 | [349443-tears-of-the-maker.json](./349443-tears-of-the-maker.json) |
 | Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
 | Tears of Vanfell | 316867 | [316867-tears-of-vanfell.json](./316867-tears-of-vanfell.json) |
@@ -7824,6 +7825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cage | 109836 | [109836-the-cage.json](./109836-the-cage.json) |
 | The Cages: Pro Style Batting Practice | 51038 | [51038-the-cages-pro-style-batting-practice.json](./51038-the-cages-pro-style-batting-practice.json) |
 | The Caiysware Collection | 53709 | [53709-the-caiysware-collection.json](./53709-the-caiysware-collection.json) |
+| The Cake | 305660 | [305660-the-cake.json](./305660-the-cake.json) |
 | The Cake Adventure | 251919 | [251919-the-cake-adventure.json](./251919-the-cake-adventure.json) |
 | The Cake is Alive | 330811 | [330811-the-cake-is-alive.json](./330811-the-cake-is-alive.json) |
 | The Cake Mistake | 422689 | [422689-the-cake-mistake.json](./422689-the-cake-mistake.json) |
@@ -18882,6 +18884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Makin' Magic | 5533 | [5533-the-sims-makin-magic.json](./5533-the-sims-makin-magic.json) |
 | The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
 | The Simulation | 295157 | [295157-the-simulation.json](./295157-the-simulation.json) |
+| The Simulation | 305014 | [305014-the-simulation.json](./305014-the-simulation.json) |
 | The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
 | The Sin | 148329 | [148329-the-sin.json](./148329-the-sin.json) |
 | The Sin Collector: Repentless | 169773 | [169773-the-sin-collector-repentless.json](./169773-the-sin-collector-repentless.json) |
@@ -22172,6 +22175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There May be Ninety-Nine of Us, but We Have to Win in Ninety-Nine Turns! | 156211 | [156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json](./156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json) |
 | There Ought to Be A Word | 128414 | [128414-there-ought-to-be-a-word.json](./128414-there-ought-to-be-a-word.json) |
 | There Shall Be Lancing | 144231 | [144231-there-shall-be-lancing.json](./144231-there-shall-be-lancing.json) |
+| There She Goes, Wriggle Nightbug! | 305013 | [305013-there-she-goes-wriggle-nightbug.json](./305013-there-she-goes-wriggle-nightbug.json) |
 | There Swings a Skull | 165248 | [165248-there-swings-a-skull.json](./165248-there-swings-a-skull.json) |
 | There Swings a Skull: Grim Tidings | 200528 | [200528-there-swings-a-skull-grim-tidings.json](./200528-there-swings-a-skull-grim-tidings.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
@@ -27850,10 +27854,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Coffee: Grinding in the Pandemic | 310311 | [310311-tokyo-coffee-grinding-in-the-pandemic.json](./310311-tokyo-coffee-grinding-in-the-pandemic.json) |
 | Tokyo College Girls: The Nerd & Queen Bees | 345594 | [345594-tokyo-college-girls-the-nerd-and-queen-bees.json](./345594-tokyo-college-girls-the-nerd-and-queen-bees.json) |
 | Tokyo Cooking | 300915 | [300915-tokyo-cooking.json](./300915-tokyo-cooking.json) |
+| Tokyo Cooking: Cherry Blossom Set | 302302 | [302302-tokyo-cooking-cherry-blossom-set.json](./302302-tokyo-cooking-cherry-blossom-set.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
 | Tokyo Cooking: Definitive Edition | 328799 | [328799-tokyo-cooking-definitive-edition.json](./328799-tokyo-cooking-definitive-edition.json) |
 | Tokyo Cooking: Deluxe Edition | 328800 | [328800-tokyo-cooking-deluxe-edition.json](./328800-tokyo-cooking-deluxe-edition.json) |
 | Tokyo Cooking: Extended Edition | 328801 | [328801-tokyo-cooking-extended-edition.json](./328801-tokyo-cooking-extended-edition.json) |
+| Tokyo Cooking: Majestic Fuji Set | 302288 | [302288-tokyo-cooking-majestic-fuji-set.json](./302288-tokyo-cooking-majestic-fuji-set.json) |
+| Tokyo Cooking: Oceanic Fish Set | 302289 | [302289-tokyo-cooking-oceanic-fish-set.json](./302289-tokyo-cooking-oceanic-fish-set.json) |
 | Tokyo Cooking: Premium Edition | 328802 | [328802-tokyo-cooking-premium-edition.json](./328802-tokyo-cooking-premium-edition.json) |
 | Tokyo Cooking: Special Edition | 328803 | [328803-tokyo-cooking-special-edition.json](./328803-tokyo-cooking-special-edition.json) |
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
@@ -34024,6 +34031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashville | 29546 | [29546-trashville.json](./29546-trashville.json) |
 | Trashworld Chaos | 323480 | [323480-trashworld-chaos.json](./323480-trashworld-chaos.json) |
 | Trashyard | 163192 | [163192-trashyard.json](./163192-trashyard.json) |
+| Trasmoz Legends | 305648 | [305648-trasmoz-legends.json](./305648-trasmoz-legends.json) |
 | Trasmoz Legends: Revenge of Trasmoz | 371174 | [371174-trasmoz-legends-revenge-of-trasmoz.json](./371174-trasmoz-legends-revenge-of-trasmoz.json) |
 | Trasmoz Legends: The Curse of Trasmoz | 371175 | [371175-trasmoz-legends-the-curse-of-trasmoz.json](./371175-trasmoz-legends-the-curse-of-trasmoz.json) |
 | Trasssh | 426949 | [426949-trasssh.json](./426949-trasssh.json) |
