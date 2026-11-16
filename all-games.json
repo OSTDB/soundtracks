@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T08:11:04.336Z",
-  "total_soundtracks": 3424,
+  "generated_at": "2026-11-16T08:26:02.304Z",
+  "total_soundtracks": 3425,
   "games": [
     {
       "igdb_id": 292844,
@@ -40428,6 +40428,20 @@
           "album_name": "Twin Mirror (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1BMj0m4SIwLyvVic7DvPhg",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 51594,
+      "game_name": "TwinCop",
+      "game_url": "https://ostdb.net/games/twincop",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27308cedf840ce2b3202a2b2e83",
+      "albums": [
+        {
+          "album_name": "TwinCop (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4yy7VlpfThAtNDGddTHWHe",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
