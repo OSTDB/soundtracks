@@ -4348,6 +4348,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 96 | 11650 | [11650-nhl-96.json](./11650-nhl-96.json) |
 | NHL 96 | 299310 | [299310-nhl-96.json](./299310-nhl-96.json) |
 | NHL 96 | 299311 | [299311-nhl-96.json](./299311-nhl-96.json) |
+| NHL 97 | 242264 | [242264-nhl-97.json](./242264-nhl-97.json) |
+| NHL 97 | 242265 | [242265-nhl-97.json](./242265-nhl-97.json) |
+| NHL 97 | 242266 | [242266-nhl-97.json](./242266-nhl-97.json) |
 | NHL 97 | 817 | [817-nhl-97.json](./817-nhl-97.json) |
 | NHL 99 | 3561 | [3561-nhl-99.json](./3561-nhl-99.json) |
 | NHL All-Star Hockey | 19732 | [19732-nhl-all-star-hockey.json](./19732-nhl-all-star-hockey.json) |
@@ -5112,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare at Famine Springs | 301144 | [301144-nightmare-at-famine-springs.json](./301144-nightmare-at-famine-springs.json) |
 | Nightmare at the lighthouse | 54454 | [54454-nightmare-at-the-lighthouse.json](./54454-nightmare-at-the-lighthouse.json) |
 | Nightmare Before Blackgate | 399096 | [399096-nightmare-before-blackgate.json](./399096-nightmare-before-blackgate.json) |
+| Nightmare Before Disney | 242277 | [242277-nightmare-before-disney.json](./242277-nightmare-before-disney.json) |
 | Nightmare Before Disney 2 April Fools | 272471 | [272471-nightmare-before-disney-2-april-fools.json](./272471-nightmare-before-disney-2-april-fools.json) |
 | Nightmare Before Disney 3 | 387808 | [387808-nightmare-before-disney-3.json](./387808-nightmare-before-disney-3.json) |
 | Nightmare Before Disney: Halloween Edition | 270751 | [270751-nightmare-before-disney-halloween-edition.json](./270751-nightmare-before-disney-halloween-edition.json) |
