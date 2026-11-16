@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuri to Marin ha Iyashite Agetai | 401180 | [401180-yuuri-to-marin-ha-iyashite-agetai.json](./401180-yuuri-to-marin-ha-iyashite-agetai.json) |
 | Yuurou: Transient Sands | 327422 | [327422-yuurou-transient-sands.json](./327422-yuurou-transient-sands.json) |
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
+| Yuusha 30 Fun | 396721 | [396721-yuusha-30-fun.json](./396721-yuusha-30-fun.json) |
 | Yuusha Exkaiser: Geister wo Taose! | 284453 | [284453-yuusha-exkaiser-geister-wo-taose.json](./284453-yuusha-exkaiser-geister-wo-taose.json) |
 | Yuusha no Densetsu no Yuusha | 279511 | [279511-yuusha-no-densetsu-no-yuusha.json](./279511-yuusha-no-densetsu-no-yuusha.json) |
 | Yuusha no Kuse ni Konamaiki da Dash!! | 223973 | [223973-yuusha-no-kuse-ni-konamaiki-da-dash.json](./223973-yuusha-no-kuse-ni-konamaiki-da-dash.json) |
