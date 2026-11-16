@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onraid | 31752 | [31752-onraid.json](./31752-onraid.json) |
 | Onrush: Digital Deluxe Edition | 91319 | [91319-onrush-digital-deluxe-edition.json](./91319-onrush-digital-deluxe-edition.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
+| Onryo | 366150 | [366150-onryo.json](./366150-onryo.json) |
 | Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
 | Onsei Kanjou Sokuteiki: Kokoro Scan | 314324 | [314324-onsei-kanjou-sokuteiki-kokoro-scan.json](./314324-onsei-kanjou-sokuteiki-kokoro-scan.json) |
 | Onsen Master | 122192 | [122192-onsen-master.json](./122192-onsen-master.json) |
