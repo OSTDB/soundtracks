@@ -8413,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HiddenLight | 291424 | [291424-hiddenlight.json](./291424-hiddenlight.json) |
 | HiddenObjects Grimm's Fairy Tales | 105502 | [105502-hiddenobjects-grimms-fairy-tales.json](./105502-hiddenobjects-grimms-fairy-tales.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
+| Hiddensaurs | 418360 | [418360-hiddensaurs.json](./418360-hiddensaurs.json) |
 | HiddenSet | 311872 | [311872-hiddenset.json](./311872-hiddenset.json) |
 | Hiddenverse: Ariadna Dreaming | 203374 | [203374-hiddenverse-ariadna-dreaming.json](./203374-hiddenverse-ariadna-dreaming.json) |
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
