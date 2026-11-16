@@ -6205,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
 | Inversion Day | 404345 | [404345-inversion-day.json](./404345-inversion-day.json) |
 | Inversion Institute | 220038 | [220038-inversion-institute.json](./220038-inversion-institute.json) |
+| Inversion: The Single Path | 402578 | [402578-inversion-the-single-path.json](./402578-inversion-the-single-path.json) |
 | Inversus Deluxe | 54590 | [54590-inversus-deluxe.json](./54590-inversus-deluxe.json) |
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
