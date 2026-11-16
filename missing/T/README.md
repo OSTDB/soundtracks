@@ -4660,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi | 328184 | [328184-tenshi.json](./328184-tenshi.json) |
 | Tenshi Doumei | 63390 | [63390-tenshi-doumei.json](./63390-tenshi-doumei.json) |
 | Tenshi Na Konamaiki | 167121 | [167121-tenshi-na-konamaiki.json](./167121-tenshi-na-konamaiki.json) |
+| Tenshi no Bon Kaeri | 394952 | [394952-tenshi-no-bon-kaeri.json](./394952-tenshi-no-bon-kaeri.json) |
 | Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
 | Tenshi no Kakera: The Lost Article of Memory | 382246 | [382246-tenshi-no-kakera-the-lost-article-of-memory.json](./382246-tenshi-no-kakera-the-lost-article-of-memory.json) |
 | Tenshi no Oshigoto: Their Wishes Afterward | 336494 | [336494-tenshi-no-oshigoto-their-wishes-afterward.json](./336494-tenshi-no-oshigoto-their-wishes-afterward.json) |
@@ -8205,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleansing | 68583 | [68583-the-cleansing.json](./68583-the-cleansing.json) |
 | The Cliffhanger: Edward Randy | 39927 | [39927-the-cliffhanger-edward-randy.json](./39927-the-cliffhanger-edward-randy.json) |
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
+| The Climb | 394960 | [394960-the-climb.json](./394960-the-climb.json) |
 | The Climb 2 | 144372 | [144372-the-climb-2.json](./144372-the-climb-2.json) |
 | The Climb: North | 26269 | [26269-the-climb-north.json](./26269-the-climb-north.json) |
 | The Climber | 52069 | [52069-the-climber.json](./52069-the-climber.json) |
@@ -11513,6 +11515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Emu War of 1932 | 336566 | [336566-the-great-emu-war-of-1932.json](./336566-the-great-emu-war-of-1932.json) |
 | The Great Escape | 28852 | [28852-the-great-escape.json](./28852-the-great-escape.json) |
 | The Great Escape | 310406 | [310406-the-great-escape.json](./310406-the-great-escape.json) |
+| The Great Exhibition of 1851 in VR | 394973 | [394973-the-great-exhibition-of-1851-in-vr.json](./394973-the-great-exhibition-of-1851-in-vr.json) |
 | The Great Fantasy Struggle | 95150 | [95150-the-great-fantasy-struggle.json](./95150-the-great-fantasy-struggle.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
@@ -15032,6 +15035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lotus Holidays | 199715 | [199715-the-lotus-holidays.json](./199715-the-lotus-holidays.json) |
 | The Loud House: Outta Control | 194336 | [194336-the-loud-house-outta-control.json](./194336-the-loud-house-outta-control.json) |
 | The Love | 121942 | [121942-the-love.json](./121942-the-love.json) |
+| The Love Between Litchis and Elm | 394946 | [394946-the-love-between-litchis-and-elm.json](./394946-the-love-between-litchis-and-elm.json) |
 | The Love Boat: Puzzle Cruise | 138678 | [138678-the-love-boat-puzzle-cruise.json](./138678-the-love-boat-puzzle-cruise.json) |
 | The Love Boat: Second Chances | 114515 | [114515-the-love-boat-second-chances.json](./114515-the-love-boat-second-chances.json) |
 | The Love Bot | 53758 | [53758-the-love-bot.json](./53758-the-love-bot.json) |
@@ -33663,6 +33667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Tycoon | 5504 | [5504-transport-tycoon.json](./5504-transport-tycoon.json) |
 | Transport Tycoon | 5505 | [5505-transport-tycoon.json](./5505-transport-tycoon.json) |
 | Transport Tycoon Deluxe | 5502 | [5502-transport-tycoon-deluxe.json](./5502-transport-tycoon-deluxe.json) |
+| Transport Tycoon Deluxe + OpenTTD | 394947 | [394947-transport-tycoon-deluxe-openttd.json](./394947-transport-tycoon-deluxe-openttd.json) |
 | Transport-inators of Doooom! | 230298 | [230298-transport-inators-of-doooom.json](./230298-transport-inators-of-doooom.json) |
 | Transporter | 272896 | [272896-transporter.json](./272896-transporter.json) |
 | Transporter | 338951 | [338951-transporter.json](./338951-transporter.json) |
@@ -33874,6 +33879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Wars | 356708 | [356708-trash-wars.json](./356708-trash-wars.json) |
 | Trash: Tale of Wastetown | 408393 | [408393-trash-tale-of-wastetown.json](./408393-trash-tale-of-wastetown.json) |
 | TrashBox | 102664 | [102664-trashbox.json](./102664-trashbox.json) |
+| Trashcan Man | 394936 | [394936-trashcan-man.json](./394936-trashcan-man.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashed | 143592 | [143592-trashed.json](./143592-trashed.json) |
 | Trashmageddon: Recycled | 397449 | [397449-trashmageddon-recycled.json](./397449-trashmageddon-recycled.json) |
