@@ -9715,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Have No Eyes | 399433 | [399433-dice-have-no-eyes.json](./399433-dice-have-no-eyes.json) |
 | Dice Hero: The Unoriginal Story | 234673 | [234673-dice-hero-the-unoriginal-story.json](./234673-dice-hero-the-unoriginal-story.json) |
 | Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
+| Dice Hoarder | 414657 | [414657-dice-hoarder.json](./414657-dice-hoarder.json) |
 | Dice Hunter: Quest of the Dicemancer | 122544 | [122544-dice-hunter-quest-of-the-dicemancer.json](./122544-dice-hunter-quest-of-the-dicemancer.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
 | Dice is the Way | 238659 | [238659-dice-is-the-way.json](./238659-dice-is-the-way.json) |
@@ -11460,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discarnate | 265628 | [265628-discarnate.json](./265628-discarnate.json) |
 | Discarnate: Locust | 286932 | [286932-discarnate-locust.json](./286932-discarnate-locust.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
+| Discharge Pending | 414655 | [414655-discharge-pending.json](./414655-discharge-pending.json) |
 | Dischord | 119001 | [119001-dischord.json](./119001-dischord.json) |
 | Discin | 295797 | [295797-discin.json](./295797-discin.json) |
 | Discing With Friends | 420471 | [420471-discing-with-friends.json](./420471-discing-with-friends.json) |
@@ -15099,6 +15101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors | 223422 | [223422-doors.json](./223422-doors.json) |
 | Doors | 339295 | [339295-doors.json](./339295-doors.json) |
 | Doors | 411310 | [411310-doors.json](./411310-doors.json) |
+| Doors | 415145 | [415145-doors.json](./415145-doors.json) |
 | Doors & Loot | 253467 | [253467-doors-and-loot.json](./253467-doors-and-loot.json) |
 | Doors & Rooms | 112745 | [112745-doors-and-rooms.json](./112745-doors-and-rooms.json) |
 | Doors & Rooms: Perfect Escape | 181587 | [181587-doors-and-rooms-perfect-escape.json](./181587-doors-and-rooms-perfect-escape.json) |
@@ -21410,6 +21413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust: A Tale of the Wired West | 21868 | [21868-dust-a-tale-of-the-wired-west.json](./21868-dust-a-tale-of-the-wired-west.json) |
 | Dust: An Elysian Tail | 2130 | [2130-dust-an-elysian-tail.json](./2130-dust-an-elysian-tail.json) |
 | Dust: Undefined | 302041 | [302041-dust-undefined.json](./302041-dust-undefined.json) |
+| Dustbloom | 415355 | [415355-dustbloom.json](./415355-dustbloom.json) |
 | Dustborn: Deluxe Edition | 284478 | [284478-dustborn-deluxe-edition.json](./284478-dustborn-deluxe-edition.json) |
 | Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
 | Dustbound | 333468 | [333468-dustbound.json](./333468-dustbound.json) |
