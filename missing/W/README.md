@@ -4087,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wetcat | 273712 | [273712-wetcat.json](./273712-wetcat.json) |
 | Wetland | 379401 | [379401-wetland.json](./379401-wetland.json) |
 | Wetlands | 78844 | [78844-wetlands.json](./78844-wetlands.json) |
+| Wetline: Fire Break | 408325 | [408325-wetline-fire-break.json](./408325-wetline-fire-break.json) |
 | Wetory | 216843 | [216843-wetory.json](./216843-wetory.json) |
 | Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
 | Wetrix | 3637 | [3637-wetrix.json](./3637-wetrix.json) |
@@ -5723,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wikipedia Quest | 402504 | [402504-wikipedia-quest.json](./402504-wikipedia-quest.json) |
 | Wikipedia Speedrun | 315397 | [315397-wikipedia-speedrun.json](./315397-wikipedia-speedrun.json) |
 | Wikipedia Speedruns | 230092 | [230092-wikipedia-speedruns.json](./230092-wikipedia-speedruns.json) |
+| WikiRace | 408211 | [408211-wikirace.json](./408211-wikirace.json) |
 | WikiRNG | 420048 | [420048-wikirng.json](./420048-wikirng.json) |
 | Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
@@ -7046,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish - Israfil Saga | 94897 | [94897-wish-israfil-saga.json](./94897-wish-israfil-saga.json) |
 | Wish -tale of the sixteenth night of lunar month- | 34684 | [34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json](./34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json) |
 | Wish a Wish | 253810 | [253810-wish-a-wish.json](./253810-wish-a-wish.json) |
+| Wish Creatures | 407607 | [407607-wish-creatures.json](./407607-wish-creatures.json) |
 | Wish Eater | 288464 | [288464-wish-eater.json](./288464-wish-eater.json) |
 | Wish Giver | 110921 | [110921-wish-giver.json](./110921-wish-giver.json) |
 | Wish Giver | 112189 | [112189-wish-giver.json](./112189-wish-giver.json) |
