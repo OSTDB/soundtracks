@@ -8640,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Lands | 272725 | [272725-shattered-lands.json](./272725-shattered-lands.json) |
 | Shattered Lands | 346660 | [346660-shattered-lands.json](./346660-shattered-lands.json) |
 | Shattered Lands: Towers of Perdition | 228386 | [228386-shattered-lands-towers-of-perdition.json](./228386-shattered-lands-towers-of-perdition.json) |
+| Shattered Legacy | 255297 | [255297-shattered-legacy.json](./255297-shattered-legacy.json) |
 | Shattered Legion | 180108 | [180108-shattered-legion.json](./180108-shattered-legion.json) |
 | Shattered Light | 73869 | [73869-shattered-light.json](./73869-shattered-light.json) |
 | Shattered Lights | 118800 | [118800-shattered-lights.json](./118800-shattered-lights.json) |
@@ -14226,6 +14227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Invaders | 346096 | [346096-sky-invaders.json](./346096-sky-invaders.json) |
 | Sky Invaders | 87403 | [87403-sky-invaders.json](./87403-sky-invaders.json) |
 | Sky is Arrows | 62128 | [62128-sky-is-arrows.json](./62128-sky-is-arrows.json) |
+| Sky Is Arrows: Celestial Bow Item Chest | 255310 | [255310-sky-is-arrows-celestial-bow-item-chest.json](./255310-sky-is-arrows-celestial-bow-item-chest.json) |
 | Sky is Arrows: Dragon Bracer Item Chest | 252231 | [252231-sky-is-arrows-dragon-bracer-item-chest.json](./252231-sky-is-arrows-dragon-bracer-item-chest.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Islands | 267317 | [267317-sky-islands.json](./267317-sky-islands.json) |
@@ -19305,6 +19307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songspot | 414935 | [414935-songspot.json](./414935-songspot.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | SongTrivia 2: Guess the song | 197449 | [197449-songtrivia-2-guess-the-song.json](./197449-songtrivia-2-guess-the-song.json) |
+| Sonho TrapStar | 255398 | [255398-sonho-trapstar.json](./255398-sonho-trapstar.json) |
 | Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
 | Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
 | Sonic | 198585 | [198585-sonic.json](./198585-sonic.json) |
@@ -30189,6 +30192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman: Waves Of Doom | 378533 | [378533-stickman-waves-of-doom.json](./378533-stickman-waves-of-doom.json) |
 | Stickman.io | 99678 | [99678-stickman-io.json](./99678-stickman-io.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
+| Stickman's Bad Luck | 255315 | [255315-stickmans-bad-luck.json](./255315-stickmans-bad-luck.json) |
 | Stickman's Rainbow | 117125 | [117125-stickmans-rainbow.json](./117125-stickmans-rainbow.json) |
 | Stickman's Rainbow | 117127 | [117127-stickmans-rainbow.json](./117127-stickmans-rainbow.json) |
 | StickmanQuiz | 310867 | [310867-stickmanquiz.json](./310867-stickmanquiz.json) |
@@ -38408,6 +38412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SurgePoint | 410310 | [410310-surgepoint.json](./410310-surgepoint.json) |
 | Surgery Simulator 3D - 2 | 188379 | [188379-surgery-simulator-3d-2.json](./188379-surgery-simulator-3d-2.json) |
 | Surgical Robot Simulator | 170543 | [170543-surgical-robot-simulator.json](./170543-surgical-robot-simulator.json) |
+| Surgical Strike | 255321 | [255321-surgical-strike.json](./255321-surgical-strike.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surgical Strike | 5456 | [5456-surgical-strike.json](./5456-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
@@ -39931,6 +39936,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Last Recollection - Black Swordsman Swords Skins Set | 275831 | [275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json](./275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json) |
 | Sword Art Online: Last Recollection - Deluxe Edition | 271125 | [271125-sword-art-online-last-recollection-deluxe-edition.json](./271125-sword-art-online-last-recollection-deluxe-edition.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
+| Sword Art Online: Last Recollection - Ritual of Bonds: Vol. 1 | 255393 | [255393-sword-art-online-last-recollection-ritual-of-bonds-vol-1.json](./255393-sword-art-online-last-recollection-ritual-of-bonds-vol-1.json) |
+| Sword Art Online: Last Recollection - Ritual of Bonds: Vol. 2 | 255394 | [255394-sword-art-online-last-recollection-ritual-of-bonds-vol-2.json](./255394-sword-art-online-last-recollection-ritual-of-bonds-vol-2.json) |
 | Sword Art Online: Lost Song | 11842 | [11842-sword-art-online-lost-song.json](./11842-sword-art-online-lost-song.json) |
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Memory Defrag | 25650 | [25650-sword-art-online-memory-defrag.json](./25650-sword-art-online-memory-defrag.json) |
