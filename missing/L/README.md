@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lead on Mars | 61728 | [61728-lead-on-mars.json](./61728-lead-on-mars.json) |
 | Lead Soldier | 270616 | [270616-lead-soldier.json](./270616-lead-soldier.json) |
 | Lead The Dragon | 356349 | [356349-lead-the-dragon.json](./356349-lead-the-dragon.json) |
+| Lead the Light | 394966 | [394966-lead-the-light.json](./394966-lead-the-light.json) |
 | Lead the Meerkats | 85244 | [85244-lead-the-meerkats.json](./85244-lead-the-meerkats.json) |
 | Lead the Way | 196693 | [196693-lead-the-way.json](./196693-lead-the-way.json) |
 | Lead to Fire | 61154 | [61154-lead-to-fire.json](./61154-lead-to-fire.json) |
@@ -9579,6 +9580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotto Life | 190370 | [190370-lotto-life.json](./190370-lotto-life.json) |
+| Lotto' Boxes | 394964 | [394964-lotto-boxes.json](./394964-lotto-boxes.json) |
 | Lottso! | 201928 | [201928-lottso.json](./201928-lottso.json) |
 | Lottso! Deluxe | 201927 | [201927-lottso-deluxe.json](./201927-lottso-deluxe.json) |
 | Lottso! Express | 201929 | [201929-lottso-express.json](./201929-lottso-express.json) |
@@ -10793,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulanda | 363006 | [363006-lulanda.json](./363006-lulanda.json) |
 | Lull Aby | 121221 | [121221-lull-aby.json](./121221-lull-aby.json) |
 | Lull Away | 184339 | [184339-lull-away.json](./184339-lull-away.json) |
+| Lull: Rest After Crying | 394978 | [394978-lull-rest-after-crying.json](./394978-lull-rest-after-crying.json) |
 | Lullabies Made of Static | 389250 | [389250-lullabies-made-of-static.json](./389250-lullabies-made-of-static.json) |
 | Lullaby | 151864 | [151864-lullaby.json](./151864-lullaby.json) |
 | Lullaby | 203654 | [203654-lullaby.json](./203654-lullaby.json) |
