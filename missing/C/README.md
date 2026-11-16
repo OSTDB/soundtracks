@@ -8720,7 +8720,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry Quest: Sword and Flame - Collector's Edition | 361431 | [361431-chivalry-quest-sword-and-flame-collectors-edition.json](./361431-chivalry-quest-sword-and-flame-collectors-edition.json) |
 | Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
 | Chivalry: Medieval Warfare | 2358 | [2358-chivalry-medieval-warfare.json](./2358-chivalry-medieval-warfare.json) |
-| Chivalware | 403821 | [403821-chivalware.json](./403821-chivalware.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chiyoda | 418114 | [418114-chiyoda.json](./418114-chiyoda.json) |
 | Chiyokagi | 222356 | [222356-chiyokagi.json](./222356-chiyokagi.json) |
