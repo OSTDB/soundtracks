@@ -9099,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Airports | 154759 | [154759-world-of-airports.json](./154759-world-of-airports.json) |
 | World of Anikids | 52123 | [52123-world-of-anikids.json](./52123-world-of-anikids.json) |
 | World of Animals: Pets 'n Pals Collection | 24712 | [24712-world-of-animals-pets-n-pals-collection.json](./24712-world-of-animals-pets-n-pals-collection.json) |
+| World of Anterra | 215413 | [215413-world-of-anterra.json](./215413-world-of-anterra.json) |
 | World of Art: Learn with Jigsaw Puzzles | 162216 | [162216-world-of-art-learn-with-jigsaw-puzzles.json](./162216-world-of-art-learn-with-jigsaw-puzzles.json) |
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
 | World of Asgabas | 169504 | [169504-world-of-asgabas.json](./169504-world-of-asgabas.json) |
