@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt of the Earth | 401516 | [401516-salt-of-the-earth.json](./401516-salt-of-the-earth.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | Salt Thrust | 75393 | [75393-salt-thrust.json](./75393-salt-thrust.json) |
+| Salt vs. Pepper | 391375 | [391375-salt-vs-pepper.json](./391375-salt-vs-pepper.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Saltaria | 290195 | [290195-saltaria.json](./290195-saltaria.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
@@ -13661,6 +13662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
 | Skelly Selest | 96277 | [96277-skelly-selest.json](./96277-skelly-selest.json) |
 | Skelly Selest & Straimium Immortaly Double Pack | 146996 | [146996-skelly-selest-and-straimium-immortaly-double-pack.json](./146996-skelly-selest-and-straimium-immortaly-double-pack.json) |
+| Skelly's Skirmish | 391357 | [391357-skellys-skirmish.json](./391357-skellys-skirmish.json) |
 | Skelost | 146419 | [146419-skelost.json](./146419-skelost.json) |
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
 | Skelton Zone Traveler Emergence | 188732 | [188732-skelton-zone-traveler-emergence.json](./188732-skelton-zone-traveler-emergence.json) |
@@ -18346,6 +18348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol 0: Mars Colonization | 34823 | [34823-sol-0-mars-colonization.json](./34823-sol-0-mars-colonization.json) |
 | Sol 3000 | 193052 | [193052-sol-3000.json](./193052-sol-3000.json) |
 | Sol 705 | 160175 | [160175-sol-705.json](./160175-sol-705.json) |
+| Sol and Mani the Artifact | 390302 | [390302-sol-and-mani-the-artifact.json](./390302-sol-and-mani-the-artifact.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
 | Sol Apocalypse | 289833 | [289833-sol-apocalypse.json](./289833-sol-apocalypse.json) |
 | Sol Bianca | 94511 | [94511-sol-bianca.json](./94511-sol-bianca.json) |
