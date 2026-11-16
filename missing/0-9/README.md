@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1 Volt | 175021 | [175021-1-volt.json](./175021-1-volt.json) |
 | 1 Vs 1 | 28641 | [28641-1-vs-1.json](./28641-1-vs-1.json) |
+| 1 vs. 1 Football Tournament | 312481 | [312481-1-vs-1-football-tournament.json](./312481-1-vs-1-football-tournament.json) |
 | 1 vs. 100 | 138101 | [138101-1-vs-100.json](./138101-1-vs-100.json) |
 | 1 vs. 100 | 220070 | [220070-1-vs-100.json](./220070-1-vs-100.json) |
 | 1 vs. 100 | 74406 | [74406-1-vs-100.json](./74406-1-vs-100.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-800-Monsters | 179563 | [179563-1-800-monsters.json](./179563-1-800-monsters.json) |
 | 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
+| 1-Bit Explorer | 290071 | [290071-1-bit-explorer.json](./290071-1-bit-explorer.json) |
 | 1-Bit Halloween | 290072 | [290072-1-bit-halloween.json](./290072-1-bit-halloween.json) |
 | 1-Bit Ninja | 65888 | [65888-1-bit-ninja.json](./65888-1-bit-ninja.json) |
 | 1-Bit Return | 248280 | [248280-1-bit-return.json](./248280-1-bit-return.json) |
@@ -1186,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 112 Operator: Pandemic Outbreak | 168948 | [168948-112-operator-pandemic-outbreak.json](./168948-112-operator-pandemic-outbreak.json) |
 | 112 Operator: The Last Duty | 168946 | [168946-112-operator-the-last-duty.json](./168946-112-operator-the-last-duty.json) |
 | 112 Operator: Water Operations | 168947 | [168947-112-operator-water-operations.json](./168947-112-operator-water-operations.json) |
+| 112 Reddings Helikopter | 290064 | [290064-112-reddings-helikopter.json](./290064-112-reddings-helikopter.json) |
 | 1125899906842624 | 253218 | [253218-1125899906842624.json](./253218-1125899906842624.json) |
 | 112th Seed | 138458 | [138458-112th-seed.json](./138458-112th-seed.json) |
 | 114 Miles to Doctor Noodles Farm | 250501 | [250501-114-miles-to-doctor-noodles-farm.json](./250501-114-miles-to-doctor-noodles-farm.json) |
@@ -1498,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 180 Files: The Aegis Project | 132419 | [132419-180-files-the-aegis-project.json](./132419-180-files-the-aegis-project.json) |
 | 180 Minutes Pour Vivre | 257420 | [257420-180-minutes-pour-vivre.json](./257420-180-minutes-pour-vivre.json) |
 | 180 Seconds | 203861 | [203861-180-seconds.json](./203861-180-seconds.json) |
+| 180 Seconds: A Firefighter's Call | 312480 | [312480-180-seconds-a-firefighters-call.json](./312480-180-seconds-a-firefighters-call.json) |
 | 180! Darts | 261965 | [261965-180-darts.json](./261965-180-darts.json) |
 | 180° | 406392 | [406392-180.json](./406392-180.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
@@ -1744,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games In 1: The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy | 86055 | [86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json](./86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json) |
 | 2 Games in 1!: Archer Maclean's Mercury / Mercury Meltdown | 138010 | [138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json](./138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json) |
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
+| 2 Games: Tomorrow Never Dies / The World Is Not Enough | 290065 | [290065-2-games-tomorrow-never-dies-the-world-is-not-enough.json](./290065-2-games-tomorrow-never-dies-the-world-is-not-enough.json) |
 | 2 Hits Pack: Sonic Forces/Puyo Puyo Tetris | 77458 | [77458-2-hits-pack-sonic-forces-puyo-puyo-tetris.json](./77458-2-hits-pack-sonic-forces-puyo-puyo-tetris.json) |
 | 2 Hot 2 Handle | 85931 | [85931-2-hot-2-handle.json](./85931-2-hot-2-handle.json) |
 | 2 Hours Later | 358074 | [358074-2-hours-later.json](./358074-2-hours-later.json) |
@@ -2823,7 +2828,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Building | 270864 | [270864-3d-puzzle-building.json](./270864-3d-puzzle-building.json) |
 | 3D Puzzle: Castle | 200970 | [200970-3d-puzzle-castle.json](./200970-3d-puzzle-castle.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
+| 3D Puzzle: Courtyard | 312478 | [312478-3d-puzzle-courtyard.json](./312478-3d-puzzle-courtyard.json) |
 | 3D Puzzle: Desert Wind | 253424 | [253424-3d-puzzle-desert-wind.json](./253424-3d-puzzle-desert-wind.json) |
+| 3D Puzzle: Deserted Village | 312479 | [312479-3d-puzzle-deserted-village.json](./312479-3d-puzzle-deserted-village.json) |
 | 3D Puzzle: Factory | 283076 | [283076-3d-puzzle-factory.json](./283076-3d-puzzle-factory.json) |
 | 3D Puzzle: Farm House | 197877 | [197877-3d-puzzle-farm-house.json](./197877-3d-puzzle-farm-house.json) |
 | 3D Puzzle: Farming | 253426 | [253426-3d-puzzle-farming.json](./253426-3d-puzzle-farming.json) |
