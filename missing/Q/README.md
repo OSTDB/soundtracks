@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Simulator | 171736 | [171736-quarantine-simulator.json](./171736-quarantine-simulator.json) |
 | Quarantine Wing: Horror | 412571 | [412571-quarantine-wing-horror.json](./412571-quarantine-wing-horror.json) |
 | Quarantine Zombies | 373349 | [373349-quarantine-zombies.json](./373349-quarantine-zombies.json) |
+| Quarantine Zone: Miami Zero | 419027 | [419027-quarantine-zone-miami-zero.json](./419027-quarantine-zone-miami-zero.json) |
 | Quarantine Zone: The Last Check | 342760 | [342760-quarantine-zone-the-last-check.json](./342760-quarantine-zone-the-last-check.json) |
 | Quarantine-Z | 258541 | [258541-quarantine-z.json](./258541-quarantine-z.json) |
 | Quarantine: Global Pandemic | 164047 | [164047-quarantine-global-pandemic.json](./164047-quarantine-global-pandemic.json) |
@@ -1254,6 +1255,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Academy | 398689 | [398689-quiz-academy.json](./398689-quiz-academy.json) |
 | Quiz Animania | 209744 | [209744-quiz-animania.json](./209744-quiz-animania.json) |
 | Quiz Avenue | 371015 | [371015-quiz-avenue.json](./371015-quiz-avenue.json) |
+| Quiz Avenue II | 419037 | [419037-quiz-avenue-ii.json](./419037-quiz-avenue-ii.json) |
+| Quiz Avenue III | 419045 | [419045-quiz-avenue-iii.json](./419045-quiz-avenue-iii.json) |
 | Quiz Brain Workout | 358626 | [358626-quiz-brain-workout.json](./358626-quiz-brain-workout.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Carnival 2 -Meguriai Version- | 106284 | [106284-quiz-carnival-2-meguriai-version.json](./106284-quiz-carnival-2-meguriai-version.json) |
@@ -1264,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
 | Quiz Daisousa Sen: The Last Count Down | 75510 | [75510-quiz-daisousa-sen-the-last-count-down.json](./75510-quiz-daisousa-sen-the-last-count-down.json) |
+| Quiz de Gakuensai | 419046 | [419046-quiz-de-gakuensai.json](./419046-quiz-de-gakuensai.json) |
 | Quiz Econosaurus | 97677 | [97677-quiz-econosaurus.json](./97677-quiz-econosaurus.json) |
 | Quiz en Français | 90325 | [90325-quiz-en-francais.json](./90325-quiz-en-francais.json) |
 | Quiz Express | 241339 | [241339-quiz-express.json](./241339-quiz-express.json) |
