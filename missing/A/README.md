@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Labyrinth | 60096 | [60096-adventure-bar-labyrinth.json](./60096-adventure-bar-labyrinth.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
+| Adventure Beaks | 230536 | [230536-adventure-beaks.json](./230536-adventure-beaks.json) |
 | Adventure Beyond Time | 88979 | [88979-adventure-beyond-time.json](./88979-adventure-beyond-time.json) |
 | Adventure Bit | 159576 | [159576-adventure-bit.json](./159576-adventure-bit.json) |
 | Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
@@ -12983,6 +12984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antipaint | 199294 | [199294-antipaint.json](./199294-antipaint.json) |
 | Antipathy | 198436 | [198436-antipathy.json](./198436-antipathy.json) |
 | Antipathy | 326668 | [326668-antipathy.json](./326668-antipathy.json) |
+| Antipathy: Friday Night Funkin' | 230024 | [230024-antipathy-friday-night-funkin.json](./230024-antipathy-friday-night-funkin.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | AntiPodal | 342658 | [342658-antipodal.json](./342658-antipodal.json) |
 | Antipole | 79151 | [79151-antipole.json](./79151-antipole.json) |
