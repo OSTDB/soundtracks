@@ -6416,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Man: Nusunda Baiku De Kirihiraku!! | 261115 | [261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json](./261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json) |
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
+| Chainsaw the Children | 393085 | [393085-chainsaw-the-children.json](./393085-chainsaw-the-children.json) |
 | Chainsaw Warrior: Lords of the Night | 17543 | [17543-chainsaw-warrior-lords-of-the-night.json](./17543-chainsaw-warrior-lords-of-the-night.json) |
 | Chainsaw Warrior: Total Darkness Edition | 52709 | [52709-chainsaw-warrior-total-darkness-edition.json](./52709-chainsaw-warrior-total-darkness-edition.json) |
 | ChainSki | 215505 | [215505-chainski.json](./215505-chainski.json) |
@@ -9552,6 +9553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Mystery: The Legend of the Sacred Treasure | 105441 | [105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json](./105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json) |
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
 | Chronicles of Mystery: The Tree of Life | 24354 | [24354-chronicles-of-mystery-the-tree-of-life.json](./24354-chronicles-of-mystery-the-tree-of-life.json) |
+| Chronicles of Omniluxia | 393668 | [393668-chronicles-of-omniluxia.json](./393668-chronicles-of-omniluxia.json) |
 | Chronicles of Osgorth: The Shattered Alliance | 18744 | [18744-chronicles-of-osgorth-the-shattered-alliance.json](./18744-chronicles-of-osgorth-the-shattered-alliance.json) |
 | Chronicles of Prozis | 423339 | [423339-chronicles-of-prozis.json](./423339-chronicles-of-prozis.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
@@ -20894,6 +20896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Castle Legacy Collection | 191138 | [191138-crush-the-castle-legacy-collection.json](./191138-crush-the-castle-legacy-collection.json) |
 | Crush the Castle Players Pack | 399453 | [399453-crush-the-castle-players-pack.json](./399453-crush-the-castle-players-pack.json) |
 | Crush the Castle TD | 399451 | [399451-crush-the-castle-td.json](./399451-crush-the-castle-td.json) |
+| Crush the Castle: Adventures | 393619 | [393619-crush-the-castle-adventures.json](./393619-crush-the-castle-adventures.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | Crush the Jelly | 200253 | [200253-crush-the-jelly.json](./200253-crush-the-jelly.json) |
 | Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
