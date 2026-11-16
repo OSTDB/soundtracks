@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 jeux en 1 I Titeuf: Ze Gag Machine + Titeuf: Méga-Compet' | 82103 | [82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json](./82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json) |
 | 2 Lane Racers | 239430 | [239430-2-lane-racers.json](./239430-2-lane-racers.json) |
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
+| 2 Many Pixels | 236037 | [236037-2-many-pixels.json](./236037-2-many-pixels.json) |
 | 2 Minute Football QB Legend | 415040 | [415040-2-minute-football-qb-legend.json](./415040-2-minute-football-qb-legend.json) |
 | 2 Minutes 16 Seconds | 367672 | [367672-2-minutes-16-seconds.json](./367672-2-minutes-16-seconds.json) |
 | 2 Minutes in Space | 311679 | [311679-2-minutes-in-space.json](./311679-2-minutes-in-space.json) |
