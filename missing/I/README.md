@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Line of My Heart | 189973 | [189973-in-the-line-of-my-heart.json](./189973-in-the-line-of-my-heart.json) |
 | In the Long Run: The Game | 104525 | [104525-in-the-long-run-the-game.json](./104525-in-the-long-run-the-game.json) |
 | In the Loop | 364678 | [364678-in-the-loop.json](./364678-in-the-loop.json) |
+| In The Middle | 384445 | [384445-in-the-middle.json](./384445-in-the-middle.json) |
 | In The Middle Of | 371500 | [371500-in-the-middle-of.json](./371500-in-the-middle-of.json) |
 | In the Middle of Ages | 383334 | [383334-in-the-middle-of-ages.json](./383334-in-the-middle-of-ages.json) |
 | In the Middle of the Night | 142542 | [142542-in-the-middle-of-the-night.json](./142542-in-the-middle-of-the-night.json) |
@@ -4118,6 +4119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Radiation | 136634 | [136634-infernal-radiation.json](./136634-infernal-radiation.json) |
 | Infernal Road | 224036 | [224036-infernal-road.json](./224036-infernal-road.json) |
 | Infernal Runner | 39069 | [39069-infernal-runner.json](./39069-infernal-runner.json) |
+| Infernal Veil I | 384463 | [384463-infernal-veil-i.json](./384463-infernal-veil-i.json) |
+| Infernal Veil II | 384465 | [384465-infernal-veil-ii.json](./384465-infernal-veil-ii.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
 | Infernales | 59237 | [59237-infernales.json](./59237-infernales.json) |
@@ -5546,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interminal | 185565 | [185565-interminal.json](./185565-interminal.json) |
 | Intermundia: Dungeons, Polygons & Magic | 333001 | [333001-intermundia-dungeons-polygons-and-magic.json](./333001-intermundia-dungeons-polygons-and-magic.json) |
 | Intern Astronaut | 58556 | [58556-intern-astronaut.json](./58556-intern-astronaut.json) |
+| Intern Fox | 384424 | [384424-intern-fox.json](./384424-intern-fox.json) |
 | Intern Ian | 180363 | [180363-intern-ian.json](./180363-intern-ian.json) |
 | Intern Pursuit Game | 151363 | [151363-intern-pursuit-game.json](./151363-intern-pursuit-game.json) |
 | Intern: An Intern's Guide to Maintaining Internal Rage | 200697 | [200697-intern-an-interns-guide-to-maintaining-internal-rage.json](./200697-intern-an-interns-guide-to-maintaining-internal-rage.json) |
