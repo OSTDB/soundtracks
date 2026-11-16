@@ -2683,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raycast Racer | 185508 | [185508-raycast-racer.json](./185508-raycast-racer.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | RayCity | 388167 | [388167-raycity.json](./388167-raycity.json) |
+| Raycord Legends | 419140 | [419140-raycord-legends.json](./419140-raycord-legends.json) |
 | RayCrisis: Series Termination | 45036 | [45036-raycrisis-series-termination.json](./45036-raycrisis-series-termination.json) |
 | Rayer Shoot | 266673 | [266673-rayer-shoot.json](./266673-rayer-shoot.json) |
 | Rayflector | 243609 | [243609-rayflector.json](./243609-rayflector.json) |
@@ -3549,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Dog: DLC | 282170 | [282170-really-dog-dlc.json](./282170-really-dog-dlc.json) |
 | Really Fast Rat | 349528 | [349528-really-fast-rat.json](./349528-really-fast-rat.json) |
 | Really Happy Mouse | 241409 | [241409-really-happy-mouse.json](./241409-really-happy-mouse.json) |
+| Really Illegal Golf | 419023 | [419023-really-illegal-golf.json](./419023-really-illegal-golf.json) |
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
 | Really Scary | 233347 | [233347-really-scary.json](./233347-really-scary.json) |
 | Really Simple Golf | 303712 | [303712-really-simple-golf.json](./303712-really-simple-golf.json) |
