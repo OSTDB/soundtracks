@@ -408,6 +408,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima III: Exodus | 2867 | [2867-ultima-iii-exodus.json](./2867-ultima-iii-exodus.json) |
 | Ultima III: Exodus | 417818 | [417818-ultima-iii-exodus.json](./417818-ultima-iii-exodus.json) |
 | Ultima III: Exodus | 417824 | [417824-ultima-iii-exodus.json](./417824-ultima-iii-exodus.json) |
+| Ultima III: Exodus | 417832 | [417832-ultima-iii-exodus.json](./417832-ultima-iii-exodus.json) |
+| Ultima III: Exodus | 417834 | [417834-ultima-iii-exodus.json](./417834-ultima-iii-exodus.json) |
+| Ultima III: Exodus | 417850 | [417850-ultima-iii-exodus.json](./417850-ultima-iii-exodus.json) |
+| Ultima III: Exodus | 417852 | [417852-ultima-iii-exodus.json](./417852-ultima-iii-exodus.json) |
 | Ultima IV | 400033 | [400033-ultima-iv.json](./400033-ultima-iv.json) |
 | Ultima IV: Quest of the Avatar | 2878 | [2878-ultima-iv-quest-of-the-avatar.json](./2878-ultima-iv-quest-of-the-avatar.json) |
 | Ultima IV: Quest of the Avatar | 400030 | [400030-ultima-iv-quest-of-the-avatar.json](./400030-ultima-iv-quest-of-the-avatar.json) |
@@ -1083,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultracore: Collector's Edition | 116153 | [116153-ultracore-collectors-edition.json](./116153-ultracore-collectors-edition.json) |
 | UltraCorps | 62245 | [62245-ultracorps.json](./62245-ultracorps.json) |
 | Ultradian | 265132 | [265132-ultradian.json](./265132-ultradian.json) |
+| Ultradimensional | 417088 | [417088-ultradimensional.json](./417088-ultradimensional.json) |
 | Ultrafeminine | 411305 | [411305-ultrafeminine.json](./411305-ultrafeminine.json) |
 | Ultraflow | 11130 | [11130-ultraflow.json](./11130-ultraflow.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
@@ -1493,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
 | Uncanny Desire | 378153 | [378153-uncanny-desire.json](./378153-uncanny-desire.json) |
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
+| Uncanny Reports: Shift Delivery | 417072 | [417072-uncanny-reports-shift-delivery.json](./417072-uncanny-reports-shift-delivery.json) |
 | Uncanny Tales: 1992 | 348579 | [348579-uncanny-tales-1992.json](./348579-uncanny-tales-1992.json) |
 | Uncanny Tales: Cold Road | 340276 | [340276-uncanny-tales-cold-road.json](./340276-uncanny-tales-cold-road.json) |
 | Uncanny Tales: The Watcher | 390221 | [390221-uncanny-tales-the-watcher.json](./390221-uncanny-tales-the-watcher.json) |
