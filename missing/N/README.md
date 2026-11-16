@@ -5758,9 +5758,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden II | 6782 | [6782-ninja-gaiden-ii.json](./6782-ninja-gaiden-ii.json) |
 | Ninja Gaiden II Black | 329132 | [329132-ninja-gaiden-ii-black.json](./329132-ninja-gaiden-ii-black.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 15540 | [15540-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./15540-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
+| Ninja Gaiden II: The Dark Sword of Chaos | 239927 | [239927-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./239927-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 241734 | [241734-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./241734-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
+| Ninja Gaiden III: The Ancient Ship of Doom | 239928 | [239928-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./239928-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 40853 | [40853-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./40853-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Ninja Gaiden Shadow | 48929 | [48929-ninja-gaiden-shadow.json](./48929-ninja-gaiden-shadow.json) |
 | Ninja Gaiden Sigma | 5974 | [5974-ninja-gaiden-sigma.json](./5974-ninja-gaiden-sigma.json) |
@@ -8015,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nou wo Kitaeru! Nyanko Shashin de Machigai-sagashi | 266166 | [266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json](./266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json) |
 | Nou wo Kitaeru! Zekkei Shashin de Machigai-sagashi | 261371 | [261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json](./261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
+| Noughts & Crosses | 239943 | [239943-noughts-and-crosses.json](./239943-noughts-and-crosses.json) |
 | Noukin Mahoutsukai ha Shingaku Shitai | 282611 | [282611-noukin-mahoutsukai-ha-shingaku-shitai.json](./282611-noukin-mahoutsukai-ha-shingaku-shitai.json) |
 | Noukk | 197757 | [197757-noukk.json](./197757-noukk.json) |
 | Noukou Aibu to Honban Satsuei: Ojisan to no Noumitsu Sex ni Ochiru Kyonyuu Idol | 108172 | [108172-noukou-aibu-to-honban-satsuei-ojisan-to-no-noumitsu-sex-ni-ochiru-kyonyuu-idol.json](./108172-noukou-aibu-to-honban-satsuei-ojisan-to-no-noumitsu-sex-ni-ochiru-kyonyuu-idol.json) |
