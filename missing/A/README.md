@@ -16102,6 +16102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
 | Armament 2028 | 99380 | [99380-armament-2028.json](./99380-armament-2028.json) |
+| Armaphract | 371795 | [371795-armaphract.json](./371795-armaphract.json) |
 | Armatus | 378225 | [378225-armatus.json](./378225-armatus.json) |
 | Armchair Commander | 267865 | [267865-armchair-commander.json](./267865-armchair-commander.json) |
 | Armchair Detective | 343162 | [343162-armchair-detective.json](./343162-armchair-detective.json) |
