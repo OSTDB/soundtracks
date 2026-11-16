@@ -18295,6 +18295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Yoake | 379795 | [379795-project-yoake.json](./379795-project-yoake.json) |
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
 | Project Z: The beginning of the end - Chapter I | 369280 | [369280-project-z-the-beginning-of-the-end-chapter-i.json](./369280-project-z-the-beginning-of-the-end-chapter-i.json) |
+| Project Zarya | 413339 | [413339-project-zarya.json](./413339-project-zarya.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
 | Project Zero 2: Wii Edition | 14409 | [14409-project-zero-2-wii-edition.json](./14409-project-zero-2-wii-edition.json) |
 | Project Zero Deaths | 119375 | [119375-project-zero-deaths.json](./119375-project-zero-deaths.json) |
@@ -18810,6 +18811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Provisional Detective | 188796 | [188796-provisional-detective.json](./188796-provisional-detective.json) |
 | Provocator | 37223 | [37223-provocator.json](./37223-provocator.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
+| Prow Z | 413306 | [413306-prow-z.json](./413306-prow-z.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
 | Proxi | 94984 | [94984-proxi.json](./94984-proxi.json) |
@@ -18922,6 +18924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
 | Psoltrix | 299547 | [299547-psoltrix.json](./299547-psoltrix.json) |
 | PSoul | 317114 | [317114-psoul.json](./317114-psoul.json) |
+| PSP Revolution | 413342 | [413342-psp-revolution.json](./413342-psp-revolution.json) |
 | PSP1G: The Incident 2 | 287467 | [287467-psp1g-the-incident-2.json](./287467-psp1g-the-incident-2.json) |
 | Psps Dream Mart | 394109 | [394109-psps-dream-mart.json](./394109-psps-dream-mart.json) |
 | PSS-61 | 263675 | [263675-pss-61.json](./263675-pss-61.json) |
