@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D World Boxing | 11874 | [11874-3d-world-boxing.json](./11874-3d-world-boxing.json) |
 | 3D World Soccer | 12496 | [12496-3d-world-soccer.json](./12496-3d-world-soccer.json) |
 | 3D World Tennis | 11875 | [11875-3d-world-tennis.json](./11875-3d-world-tennis.json) |
+| 3D Xmas Adventure: Santa's Rescue | 246066 | [246066-3d-xmas-adventure-santas-rescue.json](./246066-3d-xmas-adventure-santas-rescue.json) |
 | 3D-Dungeon | 409220 | [409220-3d-dungeon.json](./409220-3d-dungeon.json) |
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
 | 3D-Pac Plus | 122636 | [122636-3d-pac-plus.json](./122636-3d-pac-plus.json) |
