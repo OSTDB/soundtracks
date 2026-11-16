@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
 | Yami no Koe II | 308248 | [308248-yami-no-koe-ii.json](./308248-yami-no-koe-ii.json) |
 | Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
+| Yami Protocol | 340635 | [340635-yami-protocol.json](./340635-yami-protocol.json) |
 | Yami wo Hashiru Yaiba no Kirameki | 376965 | [376965-yami-wo-hashiru-yaiba-no-kirameki.json](./376965-yami-wo-hashiru-yaiba-no-kirameki.json) |
 | Yami-iro no Maju | 242070 | [242070-yami-iro-no-maju.json](./242070-yami-iro-no-maju.json) |
 | Yamigatari: For3st | 391021 | [391021-yamigatari-for3st.json](./391021-yamigatari-for3st.json) |
