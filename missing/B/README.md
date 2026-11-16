@@ -13861,6 +13861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
 | Boidtrancer | 295625 | [295625-boidtrancer.json](./295625-boidtrancer.json) |
+| Boiiing Boiiing | 334388 | [334388-boiiing-boiiing.json](./334388-boiiing-boiiing.json) |
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boiled | 392010 | [392010-boiled.json](./392010-boiled.json) |
@@ -14055,6 +14056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bom! | 295952 | [295952-bom.json](./295952-bom.json) |
 | Bomb | 164633 | [164633-bomb.json](./164633-bomb.json) |
 | Bomb | 188203 | [188203-bomb.json](./188203-bomb.json) |
+| Bomb | 335522 | [335522-bomb.json](./335522-bomb.json) |
 | Bomb | 36309 | [36309-bomb.json](./36309-bomb.json) |
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Alley | 21917 | [21917-bomb-alley.json](./21917-bomb-alley.json) |
@@ -14639,6 +14641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
 | Bonx | 92059 | [92059-bonx.json](./92059-bonx.json) |
 | Bony Bones Adventures | 303358 | [303358-bony-bones-adventures.json](./303358-bony-bones-adventures.json) |
+| Bony Odyssey | 334357 | [334357-bony-odyssey.json](./334357-bony-odyssey.json) |
 | Bonza Jigsaw | 101158 | [101158-bonza-jigsaw.json](./101158-bonza-jigsaw.json) |
 | Bonza Phrases | 268814 | [268814-bonza-phrases.json](./268814-bonza-phrases.json) |
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
@@ -14771,6 +14774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Shooter | 348294 | [348294-book-shooter.json](./348294-book-shooter.json) |
 | Book Shop Simulator | 378749 | [378749-book-shop-simulator.json](./378749-book-shop-simulator.json) |
 | Book Smugglers | 291522 | [291522-book-smugglers.json](./291522-book-smugglers.json) |
+| Book Supermarket: Library Manager Simulator | 335547 | [335547-book-supermarket-library-manager-simulator.json](./335547-book-supermarket-library-manager-simulator.json) |
 | Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
 | Book Travelers III: A Gothic Story - Collector's Edition | 364516 | [364516-book-travelers-iii-a-gothic-story-collectors-edition.json](./364516-book-travelers-iii-a-gothic-story-collectors-edition.json) |
 | Book Travelers: A Victorian Story | 241681 | [241681-book-travelers-a-victorian-story.json](./241681-book-travelers-a-victorian-story.json) |
@@ -15980,6 +15984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
+| Bowmen | 335527 | [335527-bowmen.json](./335527-bowmen.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
 | Bowser Blast | 307410 | [307410-bowser-blast.json](./307410-bowser-blast.json) |
 | Bowser Gets Clever: Insert Subtitle Here | 316299 | [316299-bowser-gets-clever-insert-subtitle-here.json](./316299-bowser-gets-clever-insert-subtitle-here.json) |
@@ -17696,6 +17701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Project | 9785 | [9785-bridge-project.json](./9785-bridge-project.json) |
 | Bridge Quest | 280715 | [280715-bridge-quest.json](./280715-bridge-quest.json) |
 | Bridge Race | 229877 | [229877-bridge-race.json](./229877-bridge-race.json) |
+| Bridge Race & Stacky Dash | 335560 | [335560-bridge-race-and-stacky-dash.json](./335560-bridge-race-and-stacky-dash.json) |
 | Bridge Race: Complete Edition | 343703 | [343703-bridge-race-complete-edition.json](./343703-bridge-race-complete-edition.json) |
 | Bridge Race: Horror Edition | 376249 | [376249-bridge-race-horror-edition.json](./376249-bridge-race-horror-edition.json) |
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
