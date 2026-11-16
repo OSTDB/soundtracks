@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LearnEng | 110595 | [110595-learneng.json](./110595-learneng.json) |
 | LearnEng - The Word Maker | 110856 | [110856-learneng-the-word-maker.json](./110856-learneng-the-word-maker.json) |
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
+| Learning English With Takako | 242262 | [242262-learning-english-with-takako.json](./242262-learning-english-with-takako.json) |
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
 | Learning Factory: Curious Mind Edition | 221489 | [221489-learning-factory-curious-mind-edition.json](./221489-learning-factory-curious-mind-edition.json) |
 | Learning Factory: True Engineer Edition | 221488 | [221488-learning-factory-true-engineer-edition.json](./221488-learning-factory-true-engineer-edition.json) |
@@ -6241,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link 'n' Launch | 67157 | [67157-link-n-launch.json](./67157-link-n-launch.json) |
 | Link and Spell | 269082 | [269082-link-and-spell.json](./269082-link-and-spell.json) |
 | Link Bomb Party | 221747 | [221747-link-bomb-party.json](./221747-link-bomb-party.json) |
+| Link Devicer 2074 | 242260 | [242260-link-devicer-2074.json](./242260-link-devicer-2074.json) |
 | Link Dragon | 46167 | [46167-link-dragon.json](./46167-link-dragon.json) |
 | Link Lab | 406511 | [406511-link-lab.json](./406511-link-lab.json) |
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
@@ -6879,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Monk | 73534 | [73534-little-monk.json](./73534-little-monk.json) |
 | Little Monkey King's Big Quest | 265137 | [265137-little-monkey-kings-big-quest.json](./265137-little-monkey-kings-big-quest.json) |
 | Little Monkeys Eat Bananas | 151030 | [151030-little-monkeys-eat-bananas.json](./151030-little-monkeys-eat-bananas.json) |
+| Little Monki | 242182 | [242182-little-monki.json](./242182-little-monki.json) |
 | Little Monster | 258375 | [258375-little-monster.json](./258375-little-monster.json) |
 | Little Monster Games | 87243 | [87243-little-monster-games.json](./87243-little-monster-games.json) |
 | Little Monster Private Eye: The Mummy Mystery | 63495 | [63495-little-monster-private-eye-the-mummy-mystery.json](./63495-little-monster-private-eye-the-mummy-mystery.json) |
