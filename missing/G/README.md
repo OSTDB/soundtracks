@@ -9879,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Escape | 24454 | [24454-great-escape.json](./24454-great-escape.json) |
 | Great eSports Manager | 55485 | [55485-great-esports-manager.json](./55485-great-esports-manager.json) |
 | Great Feats of Ancient Russ | 298236 | [298236-great-feats-of-ancient-russ.json](./298236-great-feats-of-ancient-russ.json) |
+| Great Filter | 279838 | [279838-great-filter.json](./279838-great-filter.json) |
 | Great Flame | 273770 | [273770-great-flame.json](./273770-great-flame.json) |
 | Great Football | 46144 | [46144-great-football.json](./46144-great-football.json) |
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
