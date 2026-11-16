@@ -5851,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Knight | 133897 | [133897-ninja-knight.json](./133897-ninja-knight.json) |
 | Ninja Kunoichi | 169763 | [169763-ninja-kunoichi.json](./169763-ninja-kunoichi.json) |
+| Ninja Launcher | 230584 | [230584-ninja-launcher.json](./230584-ninja-launcher.json) |
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
 | Ninja Legends | 116922 | [116922-ninja-legends.json](./116922-ninja-legends.json) |
 | Ninja Lexx | 157436 | [157436-ninja-lexx.json](./157436-ninja-lexx.json) |
