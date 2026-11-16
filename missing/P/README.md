@@ -8244,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pingy the Ping Idle RPG | 409098 | [409098-pingy-the-ping-idle-rpg.json](./409098-pingy-the-ping-idle-rpg.json) |
+| Pinhead Adventures | 294308 | [294308-pinhead-adventures.json](./294308-pinhead-adventures.json) |
 | Pinheads Bowling VR | 30430 | [30430-pinheads-bowling-vr.json](./30430-pinheads-bowling-vr.json) |
 | Pinhi! | 231143 | [231143-pinhi.json](./231143-pinhi.json) |
 | Pinhole Universe | 268273 | [268273-pinhole-universe.json](./268273-pinhole-universe.json) |
@@ -17984,6 +17985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kunlun | 368051 | [368051-project-kunlun.json](./368051-project-kunlun.json) |
 | Project Kuragava | 196920 | [196920-project-kuragava.json](./196920-project-kuragava.json) |
 | Project Kyzen | 312960 | [312960-project-kyzen.json](./312960-project-kyzen.json) |
+| Project L33t | 294322 | [294322-project-l33t.json](./294322-project-l33t.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Lambda | 117291 | [117291-project-lambda.json](./117291-project-lambda.json) |
 | Project Lambro: Part One | 340107 | [340107-project-lambro-part-one.json](./340107-project-lambro-part-one.json) |
