@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
 | Paper Wars: Cannon Fodder! | 78423 | [78423-paper-wars-cannon-fodder.json](./78423-paper-wars-cannon-fodder.json) |
 | Paper Wings | 57269 | [57269-paper-wings.json](./57269-paper-wings.json) |
+| Paper Work | 279920 | [279920-paper-work.json](./279920-paper-work.json) |
 | Paper World - Spot the Differences | 106887 | [106887-paper-world-spot-the-differences.json](./106887-paper-world-spot-the-differences.json) |
 | Paper World Escape | 315685 | [315685-paper-world-escape.json](./315685-paper-world-escape.json) |
 | Paper World Escape 2 | 315686 | [315686-paper-world-escape-2.json](./315686-paper-world-escape-2.json) |
@@ -5469,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pester | 35632 | [35632-pester.json](./35632-pester.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pesterquest | 122062 | [122062-pesterquest.json](./122062-pesterquest.json) |
+| Pesterquest Rewritten | 279826 | [279826-pesterquest-rewritten.json](./279826-pesterquest-rewritten.json) |
 | Pestersim | 276955 | [276955-pestersim.json](./276955-pestersim.json) |
 | Pesticide | 224971 | [224971-pesticide.json](./224971-pesticide.json) |
 | Pesticide Not Required | 257978 | [257978-pesticide-not-required.json](./257978-pesticide-not-required.json) |
@@ -12560,6 +12562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
 | Pokémon Dark Horizon | 399964 | [399964-pokemon-dark-horizon.json](./399964-pokemon-dark-horizon.json) |
 | Pokémon Dark Rising II | 354921 | [354921-pokemon-dark-rising-ii.json](./354921-pokemon-dark-rising-ii.json) |
+| Pokémon Dark Worship | 279835 | [279835-pokemon-dark-worship.json](./279835-pokemon-dark-worship.json) |
 | Pokémon Darkness | 275505 | [275505-pokemon-darkness.json](./275505-pokemon-darkness.json) |
 | Pokémon DarkViolet Version | 194827 | [194827-pokemon-darkviolet-version.json](./194827-pokemon-darkviolet-version.json) |
 | Pokémon Dash | 18594 | [18594-pokemon-dash.json](./18594-pokemon-dash.json) |
