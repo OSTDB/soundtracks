@@ -9736,6 +9736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltdown Crew | 417195 | [417195-meltdown-crew.json](./417195-meltdown-crew.json) |
 | Meltdown Masters | 415885 | [415885-meltdown-masters.json](./415885-meltdown-masters.json) |
 | Meltdown Moon | 64003 | [64003-meltdown-moon.json](./64003-meltdown-moon.json) |
+| Melted Kingdoms | 389246 | [389246-melted-kingdoms.json](./389246-melted-kingdoms.json) |
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
 | Melted Valor | 373454 | [373454-melted-valor.json](./373454-melted-valor.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
@@ -12810,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight's Blessing | 35245 | [35245-midnights-blessing.json](./35245-midnights-blessing.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
+| Midnight's Curse | 389239 | [389239-midnights-curse.json](./389239-midnights-curse.json) |
 | MidnightKing | 231565 | [231565-midnightking.json](./231565-midnightking.json) |
 | Midnightland | 81940 | [81940-midnightland.json](./81940-midnightland.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
@@ -14640,6 +14642,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Transport | 129742 | [129742-mini-transport.json](./129742-mini-transport.json) |
 | Mini Treasure Girl | 291066 | [291066-mini-treasure-girl.json](./291066-mini-treasure-girl.json) |
 | Mini Up | 390290 | [390290-mini-up.json](./390290-mini-up.json) |
+| Mini Up: Capsi Skin | 390291 | [390291-mini-up-capsi-skin.json](./390291-mini-up-capsi-skin.json) |
+| Mini Up: Cepa Skin | 390295 | [390295-mini-up-cepa-skin.json](./390295-mini-up-cepa-skin.json) |
+| Mini Up: Frutex Skin | 390293 | [390293-mini-up-frutex-skin.json](./390293-mini-up-frutex-skin.json) |
+| Mini Up: Lyco Skin | 390294 | [390294-mini-up-lyco-skin.json](./390294-mini-up-lyco-skin.json) |
+| Mini Up: Supporter Pack | 390292 | [390292-mini-up-supporter-pack.json](./390292-mini-up-supporter-pack.json) |
 | Mini War: Three Kingdoms | 171456 | [171456-mini-war-three-kingdoms.json](./171456-mini-war-three-kingdoms.json) |
 | Mini Warrior Defense | 404217 | [404217-mini-warrior-defense.json](./404217-mini-warrior-defense.json) |
 | Mini Warriors | 227457 | [227457-mini-warriors.json](./227457-mini-warriors.json) |
