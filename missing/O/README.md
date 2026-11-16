@@ -5819,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
+| Outer Ring Explorer | 381492 | [381492-outer-ring-explorer.json](./381492-outer-ring-explorer.json) |
 | Outer Space | 243173 | [243173-outer-space.json](./243173-outer-space.json) |
 | Outer Space Bar | 398133 | [398133-outer-space-bar.json](./398133-outer-space-bar.json) |
 | Outer Space Casino | 131140 | [131140-outer-space-casino.json](./131140-outer-space-casino.json) |
