@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Page One | 161595 | [161595-page-one.json](./161595-page-one.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pageant Princess | 53443 | [53443-pageant-princess.json](./53443-pageant-princess.json) |
+| Pager | 305656 | [305656-pager.json](./305656-pager.json) |
 | Pages of Time | 340879 | [340879-pages-of-time.json](./340879-pages-of-time.json) |
 | Pages of Tomorrow | 422834 | [422834-pages-of-tomorrow.json](./422834-pages-of-tomorrow.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
 | Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
 | Paint It: Spooky Edition | 273608 | [273608-paint-it-spooky-edition.json](./273608-paint-it-spooky-edition.json) |
+| Paint It: Yummy Pack | 302290 | [302290-paint-it-yummy-pack.json](./302290-paint-it-yummy-pack.json) |
 | Paint Match | 257190 | [257190-paint-match.json](./257190-paint-match.json) |
 | Paint Monsters | 266057 | [266057-paint-monsters.json](./266057-paint-monsters.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
@@ -9177,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Kingdom Fighter | 203720 | [203720-pixel-game-maker-series-kingdom-fighter.json](./203720-pixel-game-maker-series-kingdom-fighter.json) |
 | Pixel Game Maker Series: Lunlun Super Hero Babies Plus NewGames | 330616 | [330616-pixel-game-maker-series-lunlun-super-hero-babies-plus-newgames.json](./330616-pixel-game-maker-series-lunlun-super-hero-babies-plus-newgames.json) |
 | Pixel Game Maker Series: LunLun Superherobabys DX | 283263 | [283263-pixel-game-maker-series-lunlun-superherobabys-dx.json](./283263-pixel-game-maker-series-lunlun-superherobabys-dx.json) |
+| Pixel Game Maker Series: Moon Viewing Jump Rabbit | 302287 | [302287-pixel-game-maker-series-moon-viewing-jump-rabbit.json](./302287-pixel-game-maker-series-moon-viewing-jump-rabbit.json) |
 | Pixel Game Maker Series: Ninja Otedama R | 247487 | [247487-pixel-game-maker-series-ninja-otedama-r.json](./247487-pixel-game-maker-series-ninja-otedama-r.json) |
 | Pixel Game Maker Series: Ninja Runner | 270811 | [270811-pixel-game-maker-series-ninja-runner.json](./270811-pixel-game-maker-series-ninja-runner.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
@@ -11601,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pneumata | 223183 | [223183-pneumata.json](./223183-pneumata.json) |
 | Pneumata VR | 253173 | [253173-pneumata-vr.json](./253173-pneumata-vr.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
+| Pneumatic Panic | 305659 | [305659-pneumatic-panic.json](./305659-pneumatic-panic.json) |
 | PneumaticCraft: Repressurized | 294671 | [294671-pneumaticcraft-repressurized.json](./294671-pneumaticcraft-repressurized.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
 | Pnevmo-Capsula: Domiki | 155872 | [155872-pnevmo-capsula-domiki.json](./155872-pnevmo-capsula-domiki.json) |
@@ -13393,6 +13397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaris | 251308 | [251308-polaris.json](./251308-polaris.json) |
 | Polaris | 276428 | [276428-polaris.json](./276428-polaris.json) |
 | Polaris | 276429 | [276429-polaris.json](./276429-polaris.json) |
+| Polaris | 305654 | [305654-polaris.json](./305654-polaris.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polaris Chord | 263343 | [263343-polaris-chord.json](./263343-polaris-chord.json) |
 | Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
