@@ -9147,6 +9147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Twins | 12184 | [12184-mega-twins.json](./12184-mega-twins.json) |
 | Mega Typhoon | 245245 | [245245-mega-typhoon.json](./245245-mega-typhoon.json) |
 | Mega Veg Man | 148538 | [148538-mega-veg-man.json](./148538-mega-veg-man.json) |
+| Mega Virus Collection | 215409 | [215409-mega-virus-collection.json](./215409-mega-virus-collection.json) |
 | Mega Win Casino Slots | 85285 | [85285-mega-win-casino-slots.json](./85285-mega-win-casino-slots.json) |
 | Mega Words | 85284 | [85284-mega-words.json](./85284-mega-words.json) |
 | Mega World Smash | 54215 | [54215-mega-world-smash.json](./54215-mega-world-smash.json) |
@@ -21087,6 +21088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MR Racer Stunt Mania | 349888 | [349888-mr-racer-stunt-mania.json](./349888-mr-racer-stunt-mania.json) |
 | Mr Rex's Zealous Adventure | 237023 | [237023-mr-rexs-zealous-adventure.json](./237023-mr-rexs-zealous-adventure.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
+| Mr Secret Agent | 215408 | [215408-mr-secret-agent.json](./215408-mr-secret-agent.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Speedy | 60300 | [60300-mr-speedy.json](./60300-mr-speedy.json) |
 | Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
