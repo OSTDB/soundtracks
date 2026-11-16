@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lucky Hunt With: Myrina | 410504 | [410504-a-lucky-hunt-with-myrina.json](./410504-a-lucky-hunt-with-myrina.json) |
 | A Lullaby of Colors | 114901 | [114901-a-lullaby-of-colors.json](./114901-a-lullaby-of-colors.json) |
 | A Machine That Kills You | 307340 | [307340-a-machine-that-kills-you.json](./307340-a-machine-that-kills-you.json) |
+| A Mad Christmas Carol | 394929 | [394929-a-mad-christmas-carol.json](./394929-a-mad-christmas-carol.json) |
 | A Mafia Escape | 351034 | [351034-a-mafia-escape.json](./351034-a-mafia-escape.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Friday Night: Vs. Holy Quintet | 327857 | [327857-a-magical-friday-night-vs-holy-quintet.json](./327857-a-magical-friday-night-vs-holy-quintet.json) |
