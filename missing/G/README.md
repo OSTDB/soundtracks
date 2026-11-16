@@ -12781,6 +12781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
 | Gunter Abstrauer | 322771 | [322771-gunter-abstrauer.json](./322771-gunter-abstrauer.json) |
 | Guntica | 137411 | [137411-guntica.json](./137411-guntica.json) |
+| Guntner | 232754 | [232754-guntner.json](./232754-guntner.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | Guntu Western Front June, 1944 | 62288 | [62288-guntu-western-front-june-1944.json](./62288-guntu-western-front-june-1944.json) |
 | Gunvari Collection + Time Crisis | 57233 | [57233-gunvari-collection-time-crisis.json](./57233-gunvari-collection-time-crisis.json) |
