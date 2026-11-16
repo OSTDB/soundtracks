@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lucky Hunt With Daphne | 370579 | [370579-a-lucky-hunt-with-daphne.json](./370579-a-lucky-hunt-with-daphne.json) |
 | A Lucky Hunt With: Elara | 392958 | [392958-a-lucky-hunt-with-elara.json](./392958-a-lucky-hunt-with-elara.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
+| A Lucky Hunt With: Myrina | 410504 | [410504-a-lucky-hunt-with-myrina.json](./410504-a-lucky-hunt-with-myrina.json) |
 | A Lullaby of Colors | 114901 | [114901-a-lullaby-of-colors.json](./114901-a-lullaby-of-colors.json) |
 | A Machine That Kills You | 307340 | [307340-a-machine-that-kills-you.json](./307340-a-machine-that-kills-you.json) |
 | A Mafia Escape | 351034 | [351034-a-mafia-escape.json](./351034-a-mafia-escape.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aa Yakyuu Jinsei Icchokusen | 48669 | [48669-aa-yakyuu-jinsei-icchokusen.json](./48669-aa-yakyuu-jinsei-icchokusen.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | Aa! Megami-sama! | 230013 | [230013-aa-megami-sama.json](./230013-aa-megami-sama.json) |
+| Aa! Megami-sama! | 408946 | [408946-aa-megami-sama.json](./408946-aa-megami-sama.json) |
 | AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
 | AAA Clock | 176072 | [176072-aaa-clock.json](./176072-aaa-clock.json) |
 | AAA Clock 2 | 314522 | [314522-aaa-clock-2.json](./314522-aaa-clock-2.json) |
@@ -2358,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above | 406287 | [406287-above.json](./406287-above.json) |
 | Above | 91138 | [91138-above.json](./91138-above.json) |
 | Above & Below | 52289 | [52289-above-and-below.json](./52289-above-and-below.json) |
+| Above Average Guy | 408821 | [408821-above-average-guy.json](./408821-above-average-guy.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | Above Earth | 121257 | [121257-above-earth.json](./121257-above-earth.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
@@ -4955,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affected: The Manor | 72421 | [72421-affected-the-manor.json](./72421-affected-the-manor.json) |
 | Affection: San Shimai to Juusha no Shoujo | 329476 | [329476-affection-san-shimai-to-juusha-no-shoujo.json](./329476-affection-san-shimai-to-juusha-no-shoujo.json) |
 | Affectionate Annie | 271669 | [271669-affectionate-annie.json](./271669-affectionate-annie.json) |
+| Affictionate | 409159 | [409159-affictionate.json](./409159-affictionate.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 122063 | [122063-affinity.json](./122063-affinity.json) |
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
@@ -7499,6 +7503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleste Gaiden | 47517 | [47517-aleste-gaiden.json](./47517-aleste-gaiden.json) |
 | Aletheia: Prophecy of Perseus | 345144 | [345144-aletheia-prophecy-of-perseus.json](./345144-aletheia-prophecy-of-perseus.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
+| Alethra | 409165 | [409165-alethra.json](./409165-alethra.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
 | Alette 0: Red Moon of April | 184813 | [184813-alette-0-red-moon-of-april.json](./184813-alette-0-red-moon-of-april.json) |
 | Alette If | 184811 | [184811-alette-if.json](./184811-alette-if.json) |
@@ -7802,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
 | Alice's Mom's Rescue | 34504 | [34504-alices-moms-rescue.json](./34504-alices-moms-rescue.json) |
 | Alice's Moo-vie night | 185359 | [185359-alices-moo-vie-night.json](./185359-alices-moo-vie-night.json) |
+| Alice's Night at the Mansion | 409171 | [409171-alices-night-at-the-mansion.json](./409171-alices-night-at-the-mansion.json) |
 | Alice's Patchwork | 33485 | [33485-alices-patchwork.json](./33485-alices-patchwork.json) |
 | Alice's Patchworks 2 | 31438 | [31438-alices-patchworks-2.json](./31438-alices-patchworks-2.json) |
 | Alice's Space Adventure | 57910 | [57910-alices-space-adventure.json](./57910-alices-space-adventure.json) |
@@ -11317,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Star Wars HD | 102600 | [102600-angry-birds-star-wars-hd.json](./102600-angry-birds-star-wars-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
 | Angry Birds Starburst | 215948 | [215948-angry-birds-starburst.json](./215948-angry-birds-starburst.json) |
+| Angry Birds Telepizza | 408817 | [408817-angry-birds-telepizza.json](./408817-angry-birds-telepizza.json) |
 | Angry Birds Tennis | 199901 | [199901-angry-birds-tennis.json](./199901-angry-birds-tennis.json) |
 | Angry Birds Time Travel | 195453 | [195453-angry-birds-time-travel.json](./195453-angry-birds-time-travel.json) |
 | Angry Birds Transformers | 23427 | [23427-angry-birds-transformers.json](./23427-angry-birds-transformers.json) |
@@ -14060,6 +14067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Forge and Flame | 20357 | [20357-aralon-forge-and-flame.json](./20357-aralon-forge-and-flame.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
+| Aralsk 7 | 410511 | [410511-aralsk-7.json](./410511-aralsk-7.json) |
 | Aralunis | 333833 | [333833-aralunis.json](./333833-aralunis.json) |
 | Aramo | 401062 | [401062-aramo.json](./401062-aramo.json) |
 | Aran's Bike Trip | 154799 | [154799-arans-bike-trip.json](./154799-arans-bike-trip.json) |
@@ -17226,6 +17234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
 | Ashes Cricket 2013 | 8550 | [8550-ashes-cricket-2013.json](./8550-ashes-cricket-2013.json) |
 | Ashes Nomad | 408126 | [408126-ashes-nomad.json](./408126-ashes-nomad.json) |
+| Ashes of Alice | 409167 | [409167-ashes-of-alice.json](./409167-ashes-of-alice.json) |
 | Ashes of Ambition | 393693 | [393693-ashes-of-ambition.json](./393693-ashes-of-ambition.json) |
 | Ashes of Arcanum | 264687 | [264687-ashes-of-arcanum.json](./264687-ashes-of-arcanum.json) |
 | Ashes of Arcanum: Antique Pack | 313674 | [313674-ashes-of-arcanum-antique-pack.json](./313674-ashes-of-arcanum-antique-pack.json) |
