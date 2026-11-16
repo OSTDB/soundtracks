@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T01:05:57.614Z",
-  "total_soundtracks": 3410,
+  "generated_at": "2026-11-16T03:16:04.387Z",
+  "total_soundtracks": 3413,
   "games": [
     {
       "igdb_id": 292844,
@@ -3459,6 +3459,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/batman-arkham-shadow-original-video-game-soundtrack/1794869007?uo=4",
           "album_link_url": "https://album.link/i/1794869007"
+        }
+      ]
+    },
+    {
+      "igdb_id": 78159,
+      "game_name": "Battery Jam",
+      "game_url": "https://ostdb.net/games/battery-jam",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c083d0433904ce5833c2812",
+      "albums": [
+        {
+          "album_name": "Battery Jam (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4nS6HE1yS8xU17EZZjIXRo",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -28369,6 +28383,20 @@
       ]
     },
     {
+      "igdb_id": 76686,
+      "game_name": "Realms of Magic",
+      "game_url": "https://ostdb.net/games/realms-of-magic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735c6c144a75fb6e31e8b7dfb4",
+      "albums": [
+        {
+          "album_name": "Realms of Magic (Original Game Soundtrack) [Complete Edition]",
+          "spotify_url": "https://open.spotify.com/album/1WWe8E88eQqoIUDwnzlxef",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 314265,
       "game_name": "Reanimal",
       "game_url": "https://ostdb.net/games/reanimal",
@@ -38071,6 +38099,20 @@
         {
           "album_name": "The Pedestrian: Original Video Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7tsHKss5CyMo1b0wX7pesZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 76587,
+      "game_name": "The Pirate's Fate",
+      "game_url": "https://ostdb.net/games/the-pirates-fate",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735b4397a35419cbb69c6f0546",
+      "albums": [
+        {
+          "album_name": "The Pirate's Fate (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/70LnL31kQyBBdkCRlZiNkW",
           "apple_music_url": "",
           "album_link_url": ""
         }
