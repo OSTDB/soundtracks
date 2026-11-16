@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
 | Zadette | 142654 | [142654-zadette.json](./142654-zadette.json) |
+| Zaero | 261478 | [261478-zaero.json](./261478-zaero.json) |
 | Zaero for Quake II | 92810 | [92810-zaero-for-quake-ii.json](./92810-zaero-for-quake-ii.json) |
 | Zaetherfall | 375223 | [375223-zaetherfall.json](./375223-zaetherfall.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
