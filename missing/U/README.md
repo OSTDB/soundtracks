@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Super Powers Old Maid: 3Days | 185217 | [185217-ultimate-super-powers-old-maid-3days.json](./185217-ultimate-super-powers-old-maid-3days.json) |
 | Ultimate Surfing | 49984 | [49984-ultimate-surfing.json](./49984-ultimate-surfing.json) |
 | Ultimate Survivors | 321047 | [321047-ultimate-survivors.json](./321047-ultimate-survivors.json) |
+| Ultimate Swing Golf | 297393 | [297393-ultimate-swing-golf.json](./297393-ultimate-swing-golf.json) |
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
 | Ultimate Tag | 344256 | [344256-ultimate-tag.json](./344256-ultimate-tag.json) |
 | Ultimate Tank Experience | 184863 | [184863-ultimate-tank-experience.json](./184863-ultimate-tank-experience.json) |
@@ -3220,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsung Ballads | 244618 | [244618-unsung-ballads.json](./244618-unsung-ballads.json) |
 | Unsung Cascade | 402744 | [402744-unsung-cascade.json](./402744-unsung-cascade.json) |
 | Unsung Empires: The Cholas | 244379 | [244379-unsung-empires-the-cholas.json](./244379-unsung-empires-the-cholas.json) |
+| Unsung Empires: The Cholas II Legacy of Rajendra Chola | 297825 | [297825-unsung-empires-the-cholas-ii-legacy-of-rajendra-chola.json](./297825-unsung-empires-the-cholas-ii-legacy-of-rajendra-chola.json) |
 | Unsung Escape | 356830 | [356830-unsung-escape.json](./356830-unsung-escape.json) |
 | Unsung Heroes 1898 | 352886 | [352886-unsung-heroes-1898.json](./352886-unsung-heroes-1898.json) |
 | Unsung Heroes: The Golden Mask | 124146 | [124146-unsung-heroes-the-golden-mask.json](./124146-unsung-heroes-the-golden-mask.json) |
