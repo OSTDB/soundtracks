@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
 | Zapping "Satsui" | 307991 | [307991-zapping-satsui.json](./307991-zapping-satsui.json) |
+| Zaque's Game | 295712 | [295712-zaques-game.json](./295712-zaques-game.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
 | Zara the Fastest Fairy | 117959 | [117959-zara-the-fastest-fairy.json](./117959-zara-the-fastest-fairy.json) |
 | Zaraq | 319054 | [319054-zaraq.json](./319054-zaraq.json) |
@@ -2227,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Train | 199984 | [199984-zombie-train.json](./199984-zombie-train.json) |
 | Zombie Train | 240101 | [240101-zombie-train.json](./240101-zombie-train.json) |
 | Zombie Training Simulator | 33451 | [33451-zombie-training-simulator.json](./33451-zombie-training-simulator.json) |
+| Zombie Treasure Land | 312489 | [312489-zombie-treasure-land.json](./312489-zombie-treasure-land.json) |
 | Zombie Trigger | 31737 | [31737-zombie-trigger.json](./31737-zombie-trigger.json) |
 | Zombie Tsunami | 38031 | [38031-zombie-tsunami.json](./38031-zombie-tsunami.json) |
 | Zombie Tycoon | 9295 | [9295-zombie-tycoon.json](./9295-zombie-tycoon.json) |
@@ -2287,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieGirl 2: The Lovers | 137335 | [137335-zombiegirl-2-the-lovers.json](./137335-zombiegirl-2-the-lovers.json) |
 | ZombieGirl Side:S Sister | 137336 | [137336-zombiegirl-side-s-sister.json](./137336-zombiegirl-side-s-sister.json) |
 | Zombiegrinder 60000 | 11343 | [11343-zombiegrinder-60000.json](./11343-zombiegrinder-60000.json) |
+| Zombiehood | 312490 | [312490-zombiehood.json](./312490-zombiehood.json) |
 | ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
 | Zombieland: Double Tap - Road Trip | 121232 | [121232-zombieland-double-tap-road-trip.json](./121232-zombieland-double-tap-road-trip.json) |
@@ -2436,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombocalypse Now! | 374914 | [374914-zombocalypse-now.json](./374914-zombocalypse-now.json) |
 | Zombocity | 233809 | [233809-zombocity.json](./233809-zombocity.json) |
 | Zombocity | 377128 | [377128-zombocity.json](./377128-zombocity.json) |
+| Zombodesert | 295713 | [295713-zombodesert.json](./295713-zombodesert.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
 | ZomboidGuessr | 298763 | [298763-zomboidguessr.json](./298763-zomboidguessr.json) |
 | Zombonic | 408076 | [408076-zombonic.json](./408076-zombonic.json) |
@@ -2517,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone of The Enders: The 2nd Runner Mars | 68284 | [68284-zone-of-the-enders-the-2nd-runner-mars.json](./68284-zone-of-the-enders-the-2nd-runner-mars.json) |
 | Zone of the Enders: The Fist of Mars | 1474 | [1474-zone-of-the-enders-the-fist-of-mars.json](./1474-zone-of-the-enders-the-fist-of-mars.json) |
 | Zone of War | 153028 | [153028-zone-of-war.json](./153028-zone-of-war.json) |
+| Zone One | 312488 | [312488-zone-one.json](./312488-zone-one.json) |
 | Zone Raiders | 2198 | [2198-zone-raiders.json](./2198-zone-raiders.json) |
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
@@ -2540,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zonk | 396956 | [396956-zonk.json](./396956-zonk.json) |
 | Zonnebloem | 228968 | [228968-zonnebloem.json](./228968-zonnebloem.json) |
 | ZOnOt'S Challenge | 175545 | [175545-zonots-challenge.json](./175545-zonots-challenge.json) |
+| ZonZon | 312487 | [312487-zonzon.json](./312487-zonzon.json) |
 | Zoo | 257574 | [257574-zoo.json](./257574-zoo.json) |
 | Zôo | 359764 | [359764-zoo.json](./359764-zoo.json) |
 | Zoo 2: Animal Park | 104759 | [104759-zoo-2-animal-park.json](./104759-zoo-2-animal-park.json) |
@@ -2815,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Zruce Adventures | 194718 | [194718-zruce-adventures.json](./194718-zruce-adventures.json) |
 | ZRun | 95366 | [95366-zrun.json](./95366-zrun.json) |
+| Zrust | 312486 | [312486-zrust.json](./312486-zrust.json) |
 | zStrike | 97046 | [97046-zstrike.json](./97046-zstrike.json) |
 | ZSX4 Guitarpocalypse | 80375 | [80375-zsx4-guitarpocalypse.json](./80375-zsx4-guitarpocalypse.json) |
 | Ztar Attack 0.5: Mario Escape from the Jail | 182287 | [182287-ztar-attack-0-5-mario-escape-from-the-jail.json](./182287-ztar-attack-0-5-mario-escape-from-the-jail.json) |
