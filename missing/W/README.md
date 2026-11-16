@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wands Alliances | 204345 | [204345-wands-alliances.json](./204345-wands-alliances.json) |
 | Wands and Witches | 140835 | [140835-wands-and-witches.json](./140835-wands-and-witches.json) |
 | Wandsmith | 396464 | [396464-wandsmith.json](./396464-wandsmith.json) |
+| Wane | 419033 | [419033-wane.json](./419033-wane.json) |
 | Wanech's C.A.N. | 365926 | [365926-wanechs-c-a-n.json](./365926-wanechs-c-a-n.json) |
 | Wanech's Z.O.O. | 369907 | [369907-wanechs-z-o-o.json](./369907-wanechs-z-o-o.json) |
 | Wang fried | 190843 | [190843-wang-fried.json](./190843-wang-fried.json) |
@@ -3764,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Paradize: Zombot Edition | 288857 | [288857-welcome-to-paradize-zombot-edition.json](./288857-welcome-to-paradize-zombot-edition.json) |
 | Welcome to Pinehills | 165673 | [165673-welcome-to-pinehills.json](./165673-welcome-to-pinehills.json) |
 | Welcome to Planet E1d0r4d0! | 279858 | [279858-welcome-to-planet-e1d0r4d0.json](./279858-welcome-to-planet-e1d0r4d0.json) |
+| Welcome to Ponyville | 419148 | [419148-welcome-to-ponyville.json](./419148-welcome-to-ponyville.json) |
 | Welcome to Primrose Lake | 121817 | [121817-welcome-to-primrose-lake.json](./121817-welcome-to-primrose-lake.json) |
 | Welcome to Primrose Lake 2 | 275102 | [275102-welcome-to-primrose-lake-2.json](./275102-welcome-to-primrose-lake-2.json) |
 | Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
