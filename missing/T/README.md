@@ -8479,6 +8479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Count of Monte Clicker | 339082 | [339082-the-count-of-monte-clicker.json](./339082-the-count-of-monte-clicker.json) |
 | The Count of Monte Cristo | 207123 | [207123-the-count-of-monte-cristo.json](./207123-the-count-of-monte-cristo.json) |
 | The Count of Monte Cristo | 380899 | [380899-the-count-of-monte-cristo.json](./380899-the-count-of-monte-cristo.json) |
+| The Count’s Descent | 414652 | [414652-the-count-s-descent.json](./414652-the-count-s-descent.json) |
 | The Countdown | 419815 | [419815-the-countdown.json](./419815-the-countdown.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
 | The Counterattack of Sacrifice | 117230 | [117230-the-counterattack-of-sacrifice.json](./117230-the-counterattack-of-sacrifice.json) |
@@ -12380,6 +12381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Idolmaster: Stella Stage - Stella Box | 136683 | [136683-the-idolmaster-stella-stage-stella-box.json](./136683-the-idolmaster-stella-stage-stella-box.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
+| The Ignition Protocol | 414650 | [414650-the-ignition-protocol.json](./414650-the-ignition-protocol.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illogical Journey of the Zambonis | 165439 | [165439-the-illogical-journey-of-the-zambonis.json](./165439-the-illogical-journey-of-the-zambonis.json) |
 | The Illusion | 159379 | [159379-the-illusion.json](./159379-the-illusion.json) |
@@ -19069,6 +19071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
 | The Sound of Fireworks: The Haiku | 160266 | [160266-the-sound-of-fireworks-the-haiku.json](./160266-the-sound-of-fireworks-the-haiku.json) |
 | The Sound of Piano | 410190 | [410190-the-sound-of-piano.json](./410190-the-sound-of-piano.json) |
+| The Sounding Dark | 414675 | [414675-the-sounding-dark.json](./414675-the-sounding-dark.json) |
 | The Source | 249923 | [249923-the-source.json](./249923-the-source.json) |
 | The Source | 276141 | [276141-the-source.json](./276141-the-source.json) |
 | The source of evil | 29790 | [29790-the-source-of-evil.json](./29790-the-source-of-evil.json) |
@@ -28615,6 +28618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
 | Too Many Super Shotguns | 251633 | [251633-too-many-super-shotguns.json](./251633-too-many-super-shotguns.json) |
+| Too Many Toys! | 415373 | [415373-too-many-toys.json](./415373-too-many-toys.json) |
 | Too Many Weapons | 37023 | [37023-too-many-weapons.json](./37023-too-many-weapons.json) |
 | Too Many Zombies! | 148610 | [148610-too-many-zombies.json](./148610-too-many-zombies.json) |
 | Too Much Baggage | 420480 | [420480-too-much-baggage.json](./420480-too-much-baggage.json) |
@@ -29040,6 +29044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
 | Torikago no Marriage: Hatsukoi no Tsubasa | 136528 | [136528-torikago-no-marriage-hatsukoi-no-tsubasa.json](./136528-torikago-no-marriage-hatsukoi-no-tsubasa.json) |
 | Torikago no Mukougawa | 268665 | [268665-torikago-no-mukougawa.json](./268665-torikago-no-mukougawa.json) |
+| Torikago Seven Days | 414649 | [414649-torikago-seven-days.json](./414649-torikago-seven-days.json) |
 | Toriki: The Castaway Island | 338957 | [338957-toriki-the-castaway-island.json](./338957-toriki-the-castaway-island.json) |
 | Toriko: Gourmet ga Battle | 63650 | [63650-toriko-gourmet-ga-battle.json](./63650-toriko-gourmet-ga-battle.json) |
 | Toriko: Gourmet Monsters! | 79277 | [79277-toriko-gourmet-monsters.json](./79277-toriko-gourmet-monsters.json) |
@@ -37021,6 +37026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
 | TV Yarou Nanana: Get the Scoop! | 180992 | [180992-tv-yarou-nanana-get-the-scoop.json](./180992-tv-yarou-nanana-get-the-scoop.json) |
 | TV-Chan's Great Escape! | 358639 | [358639-tv-chans-great-escape.json](./358639-tv-chans-great-escape.json) |
+| TV-Chan's Great Escape!: GB | 414669 | [414669-tv-chans-great-escape-gb.json](./414669-tv-chans-great-escape-gb.json) |
 | TV189 | 112004 | [112004-tv189.json](./112004-tv189.json) |
 | TV1998 | 257354 | [257354-tv1998.json](./257354-tv1998.json) |
 | TVDJ | 78391 | [78391-tvdj.json](./78391-tvdj.json) |
