@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Down XR | 269013 | [269013-falling-down-xr.json](./269013-falling-down-xr.json) |
 | Falling Duke Nukem | 369758 | [369758-falling-duke-nukem.json](./369758-falling-duke-nukem.json) |
 | Falling Elevator | 201486 | [201486-falling-elevator.json](./201486-falling-elevator.json) |
+| Falling Face Fragments | 378110 | [378110-falling-face-fragments.json](./378110-falling-face-fragments.json) |
 | Falling Flower | 340055 | [340055-falling-flower.json](./340055-falling-flower.json) |
 | Falling for Autumn | 384479 | [384479-falling-for-autumn.json](./384479-falling-for-autumn.json) |
 | Falling for Beans | 275539 | [275539-falling-for-beans.json](./275539-falling-for-beans.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25 | 306822 | [306822-farming-simulator-25.json](./306822-farming-simulator-25.json) |
 | Farming Simulator 25: Highlands Fishing Edition | 352917 | [352917-farming-simulator-25-highlands-fishing-edition.json](./352917-farming-simulator-25-highlands-fishing-edition.json) |
 | Farming Simulator 25: Highlands Fishing Expansion | 352887 | [352887-farming-simulator-25-highlands-fishing-expansion.json](./352887-farming-simulator-25-highlands-fishing-expansion.json) |
+| Farming Simulator 25: JCB - WFT | 378100 | [378100-farming-simulator-25-jcb-wft.json](./378100-farming-simulator-25-jcb-wft.json) |
 | Farming Simulator 25: MacDon Pack | 352882 | [352882-farming-simulator-25-macdon-pack.json](./352882-farming-simulator-25-macdon-pack.json) |
 | Farming Simulator 25: New Holland CR11 Gold Edition | 352881 | [352881-farming-simulator-25-new-holland-cr11-gold-edition.json](./352881-farming-simulator-25-new-holland-cr11-gold-edition.json) |
 | Farming Simulator 25: NEXAT Pack | 352884 | [352884-farming-simulator-25-nexat-pack.json](./352884-farming-simulator-25-nexat-pack.json) |
@@ -3102,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Straw Harvest Pack | 360753 | [360753-farming-simulator-25-straw-harvest-pack.json](./360753-farming-simulator-25-straw-harvest-pack.json) |
 | Farming Simulator 25: Year 1 Bundle | 331551 | [331551-farming-simulator-25-year-1-bundle.json](./331551-farming-simulator-25-year-1-bundle.json) |
 | Farming Simulator 25: Year 1 Season Pass | 352888 | [352888-farming-simulator-25-year-1-season-pass.json](./352888-farming-simulator-25-year-1-season-pass.json) |
+| Farming Simulator 25: Year 2 Season Pass | 378101 | [378101-farming-simulator-25-year-2-season-pass.json](./378101-farming-simulator-25-year-2-season-pass.json) |
 | Farming Simulator C64 Edition | 110482 | [110482-farming-simulator-c64-edition.json](./110482-farming-simulator-c64-edition.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
 | Farming Simulator Kids | 287580 | [287580-farming-simulator-kids.json](./287580-farming-simulator-kids.json) |
@@ -6031,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Stretch | 42277 | [42277-final-stretch.json](./42277-final-stretch.json) |
 | Final Stretch: Horse Racing Sim | 73972 | [73972-final-stretch-horse-racing-sim.json](./73972-final-stretch-horse-racing-sim.json) |
 | Final Strike | 19059 | [19059-final-strike.json](./19059-final-strike.json) |
+| Final Strikyu | 379266 | [379266-final-strikyu.json](./379266-final-strikyu.json) |
 | Final Sword | 135636 | [135636-final-sword.json](./135636-final-sword.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
@@ -9129,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
 | Float Night | 111521 | [111521-float-night.json](./111521-float-night.json) |
 | Float Survival Simulator: Ocean Survivor | 324184 | [324184-float-survival-simulator-ocean-survivor.json](./324184-float-survival-simulator-ocean-survivor.json) |
+| Float Your Goat | 378096 | [378096-float-your-goat.json](./378096-float-your-goat.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
 | Float: Journey of Flower | 175104 | [175104-float-journey-of-flower.json](./175104-float-journey-of-flower.json) |
 | Floater | 396310 | [396310-floater.json](./396310-floater.json) |
@@ -14007,6 +14012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggies at the Zoo | 265459 | [265459-froggies-at-the-zoo.json](./265459-froggies-at-the-zoo.json) |
 | Froggin Up | 236128 | [236128-froggin-up.json](./236128-froggin-up.json) |
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
+| Froggin' Around | 376406 | [376406-froggin-around.json](./376406-froggin-around.json) |
 | Frogging Up | 378753 | [378753-frogging-up.json](./378753-frogging-up.json) |
 | Froggle | 407506 | [407506-froggle.json](./407506-froggle.json) |
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
@@ -15324,6 +15330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
 | Funny Yo 2 | 163248 | [163248-funny-yo-2.json](./163248-funny-yo-2.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
+| FunnyPizzaLand: Unplugged | 379267 | [379267-funnypizzaland-unplugged.json](./379267-funnypizzaland-unplugged.json) |
 | Funocracy | 340725 | [340725-funocracy.json](./340725-funocracy.json) |
 | Funorbit | 415857 | [415857-funorbit.json](./415857-funorbit.json) |
 | FunPack 3D | 96543 | [96543-funpack-3d.json](./96543-funpack-3d.json) |
