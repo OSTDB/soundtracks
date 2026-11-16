@@ -8598,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Warp | 377139 | [377139-word-warp.json](./377139-word-warp.json) |
 | Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
+| Word Wars | 220229 | [220229-word-wars.json](./220229-word-wars.json) |
 | Word Weasel | 200157 | [200157-word-weasel.json](./200157-word-weasel.json) |
 | Word Web by Powgi | 266526 | [266526-word-web-by-powgi.json](./266526-word-web-by-powgi.json) |
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
