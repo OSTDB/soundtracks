@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Quest Garden: Cherry Blossom | 338058 | [338058-zen-quest-garden-cherry-blossom.json](./338058-zen-quest-garden-cherry-blossom.json) |
 | Zen Rage | 319223 | [319223-zen-rage.json](./319223-zen-rage.json) |
 | Zen Shards | 165239 | [165239-zen-shards.json](./165239-zen-shards.json) |
+| Zen Simulator | 371768 | [371768-zen-simulator.json](./371768-zen-simulator.json) |
 | Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
 | Zen Trails | 173074 | [173074-zen-trails.json](./173074-zen-trails.json) |
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
@@ -2546,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Leap | 259961 | [259961-zoo-leap.json](./259961-zoo-leap.json) |
 | Zoo Life | 219191 | [219191-zoo-life.json](./219191-zoo-life.json) |
 | Zoo Life Simulator | 371825 | [371825-zoo-life-simulator.json](./371825-zoo-life-simulator.json) |
+| Zoo Manager Simulator | 367699 | [367699-zoo-manager-simulator.json](./367699-zoo-manager-simulator.json) |
 | Zoo Maniacs Pinball | 97136 | [97136-zoo-maniacs-pinball.json](./97136-zoo-maniacs-pinball.json) |
 | Zoo Master | 133392 | [133392-zoo-master.json](./133392-zoo-master.json) |
 | Zoo Match | 84928 | [84928-zoo-match.json](./84928-zoo-match.json) |
