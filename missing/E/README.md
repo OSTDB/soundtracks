@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echofall | 391560 | [391560-echofall.json](./391560-echofall.json) |
 | Echograph | 370967 | [370967-echograph.json](./370967-echograph.json) |
+| Echograve | 397346 | [397346-echograve.json](./397346-echograve.json) |
 | Echoic Memory | 151965 | [151965-echoic-memory.json](./151965-echoic-memory.json) |
 | Echoing Silence | 332957 | [332957-echoing-silence.json](./332957-echoing-silence.json) |
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
@@ -7734,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlasting Alchemists | 298999 | [298999-everlasting-alchemists.json](./298999-everlasting-alchemists.json) |
 | Everlasting Curse | 394547 | [394547-everlasting-curse.json](./394547-everlasting-curse.json) |
 | Everlasting Flowers | 261194 | [261194-everlasting-flowers.json](./261194-everlasting-flowers.json) |
+| Everlasting Flowers: First Press Limited Special Edition | 397955 | [397955-everlasting-flowers-first-press-limited-special-edition.json](./397955-everlasting-flowers-first-press-limited-special-edition.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
 | Everlasting Snooze | 297879 | [297879-everlasting-snooze.json](./297879-everlasting-snooze.json) |
 | Everlasting Song | 331741 | [331741-everlasting-song.json](./331741-everlasting-song.json) |
