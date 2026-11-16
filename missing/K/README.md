@@ -3622,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Solomon's Lost Mines | 209832 | [209832-king-solomons-lost-mines.json](./209832-king-solomons-lost-mines.json) |
 | King Solomon's Mines | 323289 | [323289-king-solomons-mines.json](./323289-king-solomons-mines.json) |
 | King Solomon's Trivia Challenge | 209831 | [209831-king-solomons-trivia-challenge.json](./209831-king-solomons-trivia-challenge.json) |
+| King Static | 272974 | [272974-king-static.json](./272974-king-static.json) |
 | King Story: Prologue | 253551 | [253551-king-story-prologue.json](./253551-king-story-prologue.json) |
 | King Tide | 109081 | [109081-king-tide.json](./109081-king-tide.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
@@ -3949,7 +3950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush 5: Alliance TD - Dragon Wars | 402086 | [402086-kingdom-rush-5-alliance-td-dragon-wars.json](./402086-kingdom-rush-5-alliance-td-dragon-wars.json) |
 | Kingdom Rush 5: Alliance TD - Wukong's Journey | 382581 | [382581-kingdom-rush-5-alliance-td-wukongs-journey.json](./382581-kingdom-rush-5-alliance-td-wukongs-journey.json) |
 | Kingdom Rush 5: Alliance TD+ | 355895 | [355895-kingdom-rush-5-alliance-td.json](./355895-kingdom-rush-5-alliance-td.json) |
-| Kingdom Rush 6: Genesis TD | 394375 | [394375-kingdom-rush-6-genesis-td.json](./394375-kingdom-rush-6-genesis-td.json) |
 | Kingdom Rush Frontiers | 6006 | [6006-kingdom-rush-frontiers.json](./6006-kingdom-rush-frontiers.json) |
 | Kingdom Rush Frontiers HD | 88258 | [88258-kingdom-rush-frontiers-hd.json](./88258-kingdom-rush-frontiers-hd.json) |
 | Kingdom Rush HD | 88320 | [88320-kingdom-rush-hd.json](./88320-kingdom-rush-hd.json) |
@@ -5157,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightczech: The beginning | 145446 | [145446-knightczech-the-beginning.json](./145446-knightczech-the-beginning.json) |
 | Knighted | 148079 | [148079-knighted.json](./148079-knighted.json) |
 | Knightess | 262943 | [262943-knightess.json](./262943-knightess.json) |
+| Knightess in Debt | 272973 | [272973-knightess-in-debt.json](./272973-knightess-in-debt.json) |
 | Knightess Layla: The Humiliating Life of a Seed Bed | 82687 | [82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json](./82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json) |
 | Knightess Leticia | 82685 | [82685-knightess-leticia.json](./82685-knightess-leticia.json) |
 | Knightfall | 387936 | [387936-knightfall.json](./387936-knightfall.json) |
