@@ -11739,7 +11739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilt | 236090 | [236090-guilt.json](./236090-guilt.json) |
 | Guilt | 341099 | [341099-guilt.json](./341099-guilt.json) |
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
-| Guilt Battle Arena | 86376 | [86376-guilt-battle-arena.json](./86376-guilt-battle-arena.json) |
 | Guilt Free | 150445 | [150445-guilt-free.json](./150445-guilt-free.json) |
 | Guilt: The Deathless | 118073 | [118073-guilt-the-deathless.json](./118073-guilt-the-deathless.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
