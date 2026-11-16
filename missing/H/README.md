@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headhunters: Bang Bang | 323694 | [323694-headhunters-bang-bang.json](./323694-headhunters-bang-bang.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
 | Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
+| Heading Over It with The Twins | 334367 | [334367-heading-over-it-with-the-twins.json](./334367-heading-over-it-with-the-twins.json) |
 | Headkicker II: The Final Kick | 397332 | [397332-headkicker-ii-the-final-kick.json](./397332-headkicker-ii-the-final-kick.json) |
 | Headland | 100440 | [100440-headland.json](./100440-headland.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
@@ -5653,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Direct-Her | 263192 | [263192-hentai-direct-her.json](./263192-hentai-direct-her.json) |
 | Hentai Doctor 2049 | 236085 | [236085-hentai-doctor-2049.json](./236085-hentai-doctor-2049.json) |
 | Hentai Dojo | 107111 | [107111-hentai-dojo.json](./107111-hentai-dojo.json) |
+| Hentai Dolls | 334389 | [334389-hentai-dolls.json](./334389-hentai-dolls.json) |
 | Hentai Dream | 208371 | [208371-hentai-dream.json](./208371-hentai-dream.json) |
 | Hentai Dreams | 111804 | [111804-hentai-dreams.json](./111804-hentai-dreams.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
