@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Bling | 238532 | [238532-elden-bling.json](./238532-elden-bling.json) |
 | Elden Gunfire | 286346 | [286346-elden-gunfire.json](./286346-elden-gunfire.json) |
 | Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
+| Elden Ring Demake | 408334 | [408334-elden-ring-demake.json](./408334-elden-ring-demake.json) |
 | Elden Ring GB | 206519 | [206519-elden-ring-gb.json](./206519-elden-ring-gb.json) |
 | Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
 | Elden Ring Nightreign: Collector's Edition | 331167 | [331167-elden-ring-nightreign-collectors-edition.json](./331167-elden-ring-nightreign-collectors-edition.json) |
@@ -2628,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
 | Elemental Realms | 258665 | [258665-elemental-realms.json](./258665-elemental-realms.json) |
 | Elemental Roll | 195355 | [195355-elemental-roll.json](./195355-elemental-roll.json) |
+| Elemental Run | 408321 | [408321-elemental-run.json](./408321-elemental-run.json) |
 | Elemental Rush | 360689 | [360689-elemental-rush.json](./360689-elemental-rush.json) |
 | Elemental Saga | 361301 | [361301-elemental-saga.json](./361301-elemental-saga.json) |
 | Elemental Seasons | 323147 | [323147-elemental-seasons.json](./323147-elemental-seasons.json) |
@@ -3896,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
 | Enamored Risks | 132440 | [132440-enamored-risks.json](./132440-enamored-risks.json) |
 | EnantiO | 206233 | [206233-enantio.json](./206233-enantio.json) |
+| Enarian Online | 408369 | [408369-enarian-online.json](./408369-enarian-online.json) |
 | Enarian: Orbital Command | 415158 | [415158-enarian-orbital-command.json](./415158-enarian-orbital-command.json) |
 | Enatus Radi | 212216 | [212216-enatus-radi.json](./212216-enatus-radi.json) |
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
@@ -6669,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espresso Tycoon & Prison Simulator | 332010 | [332010-espresso-tycoon-and-prison-simulator.json](./332010-espresso-tycoon-and-prison-simulator.json) |
 | Espresso Tycoon & Tank Mechanic Simulator | 331926 | [331926-espresso-tycoon-and-tank-mechanic-simulator.json](./331926-espresso-tycoon-and-tank-mechanic-simulator.json) |
 | Espresso Tycoon & Thief Simulator | 331903 | [331903-espresso-tycoon-and-thief-simulator.json](./331903-espresso-tycoon-and-thief-simulator.json) |
+| Esquip | 408336 | [408336-esquip.json](./408336-esquip.json) |
 | Essays on Empathy | 146473 | [146473-essays-on-empathy.json](./146473-essays-on-empathy.json) |
 | Esse mundo é um Colosso | 230758 | [230758-esse-mundo-e-um-colosso.json](./230758-esse-mundo-e-um-colosso.json) |
 | Esse Proxy | 152082 | [152082-esse-proxy.json](./152082-esse-proxy.json) |
