@@ -2139,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Burnout | 390223 | [390223-santas-burnout.json](./390223-santas-burnout.json) |
+| Santa's busy day | 279921 | [279921-santas-busy-day.json](./279921-santas-busy-day.json) |
 | Santa's Chimney Quest | 279018 | [279018-santas-chimney-quest.json](./279018-santas-chimney-quest.json) |
 | Santa's Christmas Adventure | 323100 | [323100-santas-christmas-adventure.json](./323100-santas-christmas-adventure.json) |
 | Santa's Christmas Gift Quest | 332340 | [332340-santas-christmas-gift-quest.json](./332340-santas-christmas-gift-quest.json) |
@@ -15538,6 +15539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Labs 3 | 243307 | [243307-slime-labs-3.json](./243307-slime-labs-3.json) |
 | Slime Land Adventures | 220056 | [220056-slime-land-adventures.json](./220056-slime-land-adventures.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
+| Slime Link | 279837 | [279837-slime-link.json](./279837-slime-link.json) |
 | Slime LOL | 130177 | [130177-slime-lol.json](./130177-slime-lol.json) |
 | Slime Maker Factory: Fun Play | 106522 | [106522-slime-maker-factory-fun-play.json](./106522-slime-maker-factory-fun-play.json) |
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
@@ -28675,6 +28677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starri | 247839 | [247839-starri.json](./247839-starri.json) |
+| StarRunner | 279825 | [279825-starrunner.json](./279825-starrunner.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Fly | 237585 | [237585-starry-fly.json](./237585-starry-fly.json) |
 | Starry Garden: Animal Park | 210365 | [210365-starry-garden-animal-park.json](./210365-starry-garden-animal-park.json) |
@@ -33598,6 +33601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
 | Sugar, Sugar 3 | 101910 | [101910-sugar-sugar-3.json](./101910-sugar-sugar-3.json) |
 | Sugar, Sugar: The Christmas Special | 319429 | [319429-sugar-sugar-the-christmas-special.json](./319429-sugar-sugar-the-christmas-special.json) |
+| Sugar,sugar,sugarcoat | 279846 | [279846-sugar-sugar-sugarcoat.json](./279846-sugar-sugar-sugarcoat.json) |
 | Sugar's Delight | 172445 | [172445-sugars-delight.json](./172445-sugars-delight.json) |
 | Sugarbound | 334288 | [334288-sugarbound.json](./334288-sugarbound.json) |
 | Sugarbunnies Wii: Youkoso Bunnies Field he | 409015 | [409015-sugarbunnies-wii-youkoso-bunnies-field-he.json](./409015-sugarbunnies-wii-youkoso-bunnies-field-he.json) |
