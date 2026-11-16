@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack and Sara: Educational game | 96646 | [96646-jack-and-sara-educational-game.json](./96646-jack-and-sara-educational-game.json) |
 | Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
+| Jack and the Beanstalk | 415377 | [415377-jack-and-the-beanstalk.json](./415377-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk Jigsaw Puzzle | 163406 | [163406-jack-and-the-beanstalk-jigsaw-puzzle.json](./163406-jack-and-the-beanstalk-jigsaw-puzzle.json) |
 | Jack and the Beanstalk: A Hidden Story | 368037 | [368037-jack-and-the-beanstalk-a-hidden-story.json](./368037-jack-and-the-beanstalk-a-hidden-story.json) |
 | Jack Attack | 24379 | [24379-jack-attack.json](./24379-jack-attack.json) |
@@ -1719,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelinx | 187002 | [187002-jewelinx.json](./187002-jewelinx.json) |
 | JeweliX | 54142 | [54142-jewelix.json](./54142-jewelix.json) |
 | Jewellust | 61030 | [61030-jewellust.json](./61030-jewellust.json) |
+| Jewelmix | 414679 | [414679-jewelmix.json](./414679-jewelmix.json) |
 | Jewelpet: Kawaii Mahou no Fantasy | 269787 | [269787-jewelpet-kawaii-mahou-no-fantasy.json](./269787-jewelpet-kawaii-mahou-no-fantasy.json) |
 | Jewelpet: Magical Dance in Style Deco! | 6831 | [6831-jewelpet-magical-dance-in-style-deco.json](./6831-jewelpet-magical-dance-in-style-deco.json) |
 | Jewelpet: Mahou no DS Kirapikarin | 67227 | [67227-jewelpet-mahou-no-ds-kirapikarin.json](./67227-jewelpet-mahou-no-ds-kirapikarin.json) |
