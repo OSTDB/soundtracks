@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Bad Christmas Eve | 148846 | [148846-a-very-bad-christmas-eve.json](./148846-a-very-bad-christmas-eve.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
 | A Very Corporate Escape Room | 207571 | [207571-a-very-corporate-escape-room.json](./207571-a-very-corporate-escape-room.json) |
+| A Very Dark Ride in the Proximity of the House of Mirrors | 303907 | [303907-a-very-dark-ride-in-the-proximity-of-the-house-of-mirrors.json](./303907-a-very-dark-ride-in-the-proximity-of-the-house-of-mirrors.json) |
 | A Very Long Rope to the Top of the Sky | 124616 | [124616-a-very-long-rope-to-the-top-of-the-sky.json](./124616-a-very-long-rope-to-the-top-of-the-sky.json) |
 | A Very Merry Nightmare | 338182 | [338182-a-very-merry-nightmare.json](./338182-a-very-merry-nightmare.json) |
 | A Very Ordinary Elevator Simulator | 332777 | [332777-a-very-ordinary-elevator-simulator.json](./332777-a-very-ordinary-elevator-simulator.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Sheriff | 324154 | [324154-adult-sheriff.json](./324154-adult-sheriff.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adult VR Game Room | 211833 | [211833-adult-vr-game-room.json](./211833-adult-vr-game-room.json) |
+| Adulting | 305657 | [305657-adulting.json](./305657-adulting.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
 | Adv770 | 305203 | [305203-adv770.json](./305203-adv770.json) |
@@ -9081,6 +9083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Protocol | 2539 | [2539-alpha-protocol.json](./2539-alpha-protocol.json) |
 | Alpha Response | 345614 | [345614-alpha-response.json](./345614-alpha-response.json) |
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
+| Alpha Rooms | 305669 | [305669-alpha-rooms.json](./305669-alpha-rooms.json) |
 | Alpha Runner | 34815 | [34815-alpha-runner.json](./34815-alpha-runner.json) |
 | Alpha Runner 2 | 369206 | [369206-alpha-runner-2.json](./369206-alpha-runner-2.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
@@ -20635,6 +20638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avia: Tropic Edition | 393432 | [393432-avia-tropic-edition.json](./393432-avia-tropic-edition.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
 | Avian | 186476 | [186476-avian.json](./186476-avian.json) |
+| Avian Colony | 303906 | [303906-avian-colony.json](./303906-avian-colony.json) |
 | Avian Enigma | 309902 | [309902-avian-enigma.json](./309902-avian-enigma.json) |
 | Avian Knights | 242345 | [242345-avian-knights.json](./242345-avian-knights.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
