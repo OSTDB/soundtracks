@@ -7445,6 +7445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blighted Core | 385945 | [385945-the-blighted-core.json](./385945-the-blighted-core.json) |
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blind of the New World | 150049 | [150049-the-blind-of-the-new-world.json](./150049-the-blind-of-the-new-world.json) |
+| The Blind Swordsman | 301147 | [301147-the-blind-swordsman.json](./301147-the-blind-swordsman.json) |
 | The Blinking Room | 405767 | [405767-the-blinking-room.json](./405767-the-blinking-room.json) |
 | The Blizzard 30-Year Celebration Collection | 147715 | [147715-the-blizzard-30-year-celebration-collection.json](./147715-the-blizzard-30-year-celebration-collection.json) |
 | The Blob | 94341 | [94341-the-blob.json](./94341-the-blob.json) |
@@ -10502,6 +10503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fate of the Bombiwa | 218075 | [218075-the-fate-of-the-bombiwa.json](./218075-the-fate-of-the-bombiwa.json) |
 | The Fate of the Bully | 121102 | [121102-the-fate-of-the-bully.json](./121102-the-fate-of-the-bully.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
+| The Fate of Wonderland | 299050 | [299050-the-fate-of-wonderland.json](./299050-the-fate-of-wonderland.json) |
 | The Fateful Encounter | 299604 | [299604-the-fateful-encounter.json](./299604-the-fateful-encounter.json) |
 | The Fateful Saint’s Love | 254944 | [254944-the-fateful-saint-s-love.json](./254944-the-fateful-saint-s-love.json) |
 | The Fates of Twinion | 2521 | [2521-the-fates-of-twinion.json](./2521-the-fates-of-twinion.json) |
@@ -12224,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
 | The House of Evil Grandmother | 242743 | [242743-the-house-of-evil-grandmother.json](./242743-the-house-of-evil-grandmother.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
+| The House of Grudge | 299052 | [299052-the-house-of-grudge.json](./299052-the-house-of-grudge.json) |
 | The House of Hamelin | 370598 | [370598-the-house-of-hamelin.json](./370598-the-house-of-hamelin.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
 | The House of Mr Chocolate | 142963 | [142963-the-house-of-mr-chocolate.json](./142963-the-house-of-mr-chocolate.json) |
@@ -16163,6 +16166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare Of Arrival Chapter 1 | 298561 | [298561-the-nightmare-of-arrival-chapter-1.json](./298561-the-nightmare-of-arrival-chapter-1.json) |
 | The Nightmare of Druaga: Fushigino Dungeon | 43659 | [43659-the-nightmare-of-druaga-fushigino-dungeon.json](./43659-the-nightmare-of-druaga-fushigino-dungeon.json) |
 | The Nightmare of Pandemic: Kyle's Story | 339801 | [339801-the-nightmare-of-pandemic-kyles-story.json](./339801-the-nightmare-of-pandemic-kyles-story.json) |
+| The Nightmare of the Air Balloon | 301153 | [301153-the-nightmare-of-the-air-balloon.json](./301153-the-nightmare-of-the-air-balloon.json) |
 | The Nightmare: Serial Killers | 262321 | [262321-the-nightmare-serial-killers.json](./262321-the-nightmare-serial-killers.json) |
 | The Nightmares at The Krusty Krab | 382988 | [382988-the-nightmares-at-the-krusty-krab.json](./382988-the-nightmares-at-the-krusty-krab.json) |
 | The Nights on Arcade | 267073 | [267073-the-nights-on-arcade.json](./267073-the-nights-on-arcade.json) |
@@ -16796,6 +16800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Person Living Next Door | 409509 | [409509-the-person-living-next-door.json](./409509-the-person-living-next-door.json) |
 | The Personal Reasons | 217476 | [217476-the-personal-reasons.json](./217476-the-personal-reasons.json) |
 | The Pest | 193035 | [193035-the-pest.json](./193035-the-pest.json) |
+| The Pet Doctor's Secret | 299046 | [299046-the-pet-doctors-secret.json](./299046-the-pet-doctors-secret.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | the Peter Navarre Crecy Evaluation | 77729 | [77729-the-peter-navarre-crecy-evaluation.json](./77729-the-peter-navarre-crecy-evaluation.json) |
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
@@ -19226,6 +19231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spell | 113759 | [113759-the-spell.json](./113759-the-spell.json) |
 | The Spell | 416239 | [416239-the-spell.json](./416239-the-spell.json) |
 | The Spell Brigade | 297683 | [297683-the-spell-brigade.json](./297683-the-spell-brigade.json) |
+| The Spellbinding Kiss | 299054 | [299054-the-spellbinding-kiss.json](./299054-the-spellbinding-kiss.json) |
 | The Spellbinding Kiss | 299534 | [299534-the-spellbinding-kiss.json](./299534-the-spellbinding-kiss.json) |
 | The Spellswapper | 277449 | [277449-the-spellswapper.json](./277449-the-spellswapper.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
@@ -19663,6 +19669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
 | The Swords of Ditto | 36798 | [36798-the-swords-of-ditto.json](./36798-the-swords-of-ditto.json) |
 | The Swords of Ditto: Mormo's Curse | 117974 | [117974-the-swords-of-ditto-mormos-curse.json](./117974-the-swords-of-ditto-mormos-curse.json) |
+| The Swords of First Light | 299034 | [299034-the-swords-of-first-light.json](./299034-the-swords-of-first-light.json) |
 | The Swordsman | 346926 | [346926-the-swordsman.json](./346926-the-swordsman.json) |
 | The Swordsmen X | 106137 | [106137-the-swordsmen-x.json](./106137-the-swordsmen-x.json) |
 | The Swordsmen X: Green-bamboo pack | 246761 | [246761-the-swordsmen-x-green-bamboo-pack.json](./246761-the-swordsmen-x-green-bamboo-pack.json) |
@@ -37258,6 +37265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
 | Twenty | 59389 | [59389-twenty.json](./59389-twenty.json) |
 | Twenty Days | 381891 | [381891-twenty-days.json](./381891-twenty-days.json) |
+| Twenty One | 301156 | [301156-twenty-one.json](./301156-twenty-one.json) |
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
 | Twenty Six | 346662 | [346662-twenty-six.json](./346662-twenty-six.json) |
 | Twenty Wargame Classics | 94367 | [94367-twenty-wargame-classics.json](./94367-twenty-wargame-classics.json) |
@@ -37287,6 +37295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twikkel.io | 133605 | [133605-twikkel-io.json](./133605-twikkel-io.json) |
 | Twilight | 206534 | [206534-twilight.json](./206534-twilight.json) |
 | Twilight | 368956 | [368956-twilight.json](./368956-twilight.json) |
+| Twilight Academy | 299067 | [299067-twilight-academy.json](./299067-twilight-academy.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
 | Twilight Array | 267790 | [267790-twilight-array.json](./267790-twilight-array.json) |
 | Twilight Bastion | 296693 | [296693-twilight-bastion.json](./296693-twilight-bastion.json) |
