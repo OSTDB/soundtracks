@@ -4657,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organic Engine | 212794 | [212794-organic-engine.json](./212794-organic-engine.json) |
 | Organic Engine Escape | 315675 | [315675-organic-engine-escape.json](./315675-organic-engine-escape.json) |
 | Organic Evolution | 408603 | [408603-organic-evolution.json](./408603-organic-evolution.json) |
+| Organic Growth | 297403 | [297403-organic-growth.json](./297403-organic-growth.json) |
 | Organic Panic | 36418 | [36418-organic-panic.json](./36418-organic-panic.json) |
 | Organised Crime | 204795 | [204795-organised-crime.json](./204795-organised-crime.json) |
 | Organish Seagreen | 363930 | [363930-organish-seagreen.json](./363930-organish-seagreen.json) |
@@ -6662,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyatu | 227737 | [227737-oyatu.json](./227737-oyatu.json) |
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
 | Oyster VR | 200870 | [200870-oyster-vr.json](./200870-oyster-vr.json) |
+| Oyster Wars | 297383 | [297383-oyster-wars.json](./297383-oyster-wars.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Oz | 376127 | [376127-oz.json](./376127-oz.json) |
 | Oz Dàluàndòu: Mèngxiǎng de Chuánshuō | 394121 | [394121-oz-daluandou-mengxiang-de-chuanshuo.json](./394121-oz-daluandou-mengxiang-de-chuanshuo.json) |
