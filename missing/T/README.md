@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tacticalunderground Arcade | 154366 | [154366-tacticalunderground-arcade.json](./154366-tacticalunderground-arcade.json) |
 | TactiCats | 197511 | [197511-tacticats.json](./197511-tacticats.json) |
+| Tacticell Arena | 392533 | [392533-tacticell-arena.json](./392533-tacticell-arena.json) |
 | TacticFront | 350303 | [350303-tacticfront.json](./350303-tacticfront.json) |
 | Tactichord: Glam Strategy | 375435 | [375435-tactichord-glam-strategy.json](./375435-tactichord-glam-strategy.json) |
 | Tactician | 40448 | [40448-tactician.json](./40448-tactician.json) |
@@ -8078,6 +8079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chickenator | 25381 | [25381-the-chickenator.json](./25381-the-chickenator.json) |
 | The Chikafag and Chika | 165133 | [165133-the-chikafag-and-chika.json](./165133-the-chikafag-and-chika.json) |
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
+| The Children of Brinn | 393078 | [393078-the-children-of-brinn.json](./393078-the-children-of-brinn.json) |
 | The Children of Clay | 320420 | [320420-the-children-of-clay.json](./320420-the-children-of-clay.json) |
 | The Children of Magia | 393014 | [393014-the-children-of-magia.json](./393014-the-children-of-magia.json) |
 | The Children of The Woods: Lost Tape | 285891 | [285891-the-children-of-the-woods-lost-tape.json](./285891-the-children-of-the-woods-lost-tape.json) |
@@ -12305,6 +12307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hustle | 216516 | [216516-the-hustle.json](./216516-the-hustle.json) |
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
 | The Hustlers | 306412 | [306412-the-hustlers.json](./306412-the-hustlers.json) |
+| The Hut in Ayre Forest | 393076 | [393076-the-hut-in-ayre-forest.json](./393076-the-hut-in-ayre-forest.json) |
 | The Hybrid Front | 45620 | [45620-the-hybrid-front.json](./45620-the-hybrid-front.json) |
 | The Hydra | 194230 | [194230-the-hydra.json](./194230-the-hydra.json) |
 | The Hydra Experiment | 275369 | [275369-the-hydra-experiment.json](./275369-the-hydra-experiment.json) |
@@ -17903,7 +17906,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sage's Spirit: Shining Flame | 373197 | [373197-the-sages-spirit-shining-flame.json](./373197-the-sages-spirit-shining-flame.json) |
 | The Sagittarian | 381771 | [381771-the-sagittarian.json](./381771-the-sagittarian.json) |
 | The Sagittarian 2 | 381772 | [381772-the-sagittarian-2.json](./381772-the-sagittarian-2.json) |
+| The Sagittarian 3 | 393029 | [393029-the-sagittarian-3.json](./393029-the-sagittarian-3.json) |
 | The Sagittarian 4: Bayou | 393146 | [393146-the-sagittarian-4-bayou.json](./393146-the-sagittarian-4-bayou.json) |
+| The Sagittarian 4: Berger | 393056 | [393056-the-sagittarian-4-berger.json](./393056-the-sagittarian-4-berger.json) |
 | The Sailor's Dream | 61229 | [61229-the-sailors-dream.json](./61229-the-sailors-dream.json) |
 | The Sailor’s Guide to Game Design | 263140 | [263140-the-sailor-s-guide-to-game-design.json](./263140-the-sailor-s-guide-to-game-design.json) |
 | The Saint | 387384 | [387384-the-saint.json](./387384-the-saint.json) |
