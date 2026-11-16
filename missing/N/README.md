@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautical Dispute | 258261 | [258261-nautical-dispute.json](./258261-nautical-dispute.json) |
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
+| Nautical Voyage Simulator | 332725 | [332725-nautical-voyage-simulator.json](./332725-nautical-voyage-simulator.json) |
 | Nauticalypse | 159495 | [159495-nauticalypse.json](./159495-nauticalypse.json) |
 | Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
 | Nauticrawl | 116363 | [116363-nauticrawl.json](./116363-nauticrawl.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Necros no Yousai | 332213 | [332213-necros-no-yousai.json](./332213-necros-no-yousai.json) |
 | Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
+| Necrosis: Dawn of Dread | 330038 | [330038-necrosis-dawn-of-dread.json](./330038-necrosis-dawn-of-dread.json) |
 | Necrosis: Reconfigurated | 138551 | [138551-necrosis-reconfigurated.json](./138551-necrosis-reconfigurated.json) |
 | Necroslayer | 265818 | [265818-necroslayer.json](./265818-necroslayer.json) |
 | Necrosmith | 204262 | [204262-necrosmith.json](./204262-necrosmith.json) |
@@ -2181,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighboring Islands | 28423 | [28423-neighboring-islands.json](./28423-neighboring-islands.json) |
 | Neighbors | 192653 | [192653-neighbors.json](./192653-neighbors.json) |
 | Neighbors | 312128 | [312128-neighbors.json](./312128-neighbors.json) |
+| Neighbors | 330036 | [330036-neighbors.json](./330036-neighbors.json) |
 | Neighbors: Suburban Warfare | 207595 | [207595-neighbors-suburban-warfare.json](./207595-neighbors-suburban-warfare.json) |
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
 | Neighbourhood Loot | 126751 | [126751-neighbourhood-loot.json](./126751-neighbourhood-loot.json) |
