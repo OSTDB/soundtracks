@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galatea | 85923 | [85923-galatea.json](./85923-galatea.json) |
 | Galatic Hero Agency: Mind Matters | 114741 | [114741-galatic-hero-agency-mind-matters.json](./114741-galatic-hero-agency-mind-matters.json) |
 | Galatic Management | 123898 | [123898-galatic-management.json](./123898-galatic-management.json) |
+| Galatico | 378117 | [378117-galatico.json](./378117-galatico.json) |
 | Galatron | 110199 | [110199-galatron.json](./110199-galatron.json) |
 | Galaversal Supremacy | 69174 | [69174-galaversal-supremacy.json](./69174-galaversal-supremacy.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of Eden | 86298 | [86298-gears-of-eden.json](./86298-gears-of-eden.json) |
 | Gears of Fate | 297584 | [297584-gears-of-fate.json](./297584-gears-of-fate.json) |
 | Gears of Freedom | 414092 | [414092-gears-of-freedom.json](./414092-gears-of-freedom.json) |
+| Gears Of Glory | 379283 | [379283-gears-of-glory.json](./379283-gears-of-glory.json) |
 | Gears of Phantasm: Destiny Tailored - Act I | 195549 | [195549-gears-of-phantasm-destiny-tailored-act-i.json](./195549-gears-of-phantasm-destiny-tailored-act-i.json) |
 | Gears of War 2: All Fronts Collection | 299072 | [299072-gears-of-war-2-all-fronts-collection.json](./299072-gears-of-war-2-all-fronts-collection.json) |
 | Gears of War 2: Combustible Map Pack | 299997 | [299997-gears-of-war-2-combustible-map-pack.json](./299997-gears-of-war-2-combustible-map-pack.json) |
@@ -5763,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GloGo | 81611 | [81611-glogo.json](./81611-glogo.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Glompa | 296853 | [296853-glompa.json](./296853-glompa.json) |
+| Glonk | 379290 | [379290-glonk.json](./379290-glonk.json) |
 | Gloo Storm | 194864 | [194864-gloo-storm.json](./194864-gloo-storm.json) |
 | Glooky: Cursors in the City | 414724 | [414724-glooky-cursors-in-the-city.json](./414724-glooky-cursors-in-the-city.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
@@ -6377,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
 | Go! Puzzle | 39753 | [39753-go-puzzle.json](./39753-go-puzzle.json) |
 | Go! Save The Queen! | 289864 | [289864-go-save-the-queen.json](./289864-go-save-the-queen.json) |
+| Go! Sloth | 378095 | [378095-go-sloth.json](./378095-go-sloth.json) |
 | Go! Sports Ski | 72936 | [72936-go-sports-ski.json](./72936-go-sports-ski.json) |
 | Go! Sports Skydiving | 21815 | [21815-go-sports-skydiving.json](./21815-go-sports-skydiving.json) |
 | Go! Sudoku | 38464 | [38464-go-sudoku.json](./38464-go-sudoku.json) |
