@@ -5816,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: The Legend Returns | 221538 | [221538-final-fantasy-xiv-the-legend-returns.json](./221538-final-fantasy-xiv-the-legend-returns.json) |
 | Final Fantasy XIV: The Promise of Tomorrow | 350547 | [350547-final-fantasy-xiv-the-promise-of-tomorrow.json](./350547-final-fantasy-xiv-the-promise-of-tomorrow.json) |
 | Final Fantasy XIV: Through the Maelstrom | 221523 | [221523-final-fantasy-xiv-through-the-maelstrom.json](./221523-final-fantasy-xiv-through-the-maelstrom.json) |
+| Final Fantasy XIV: Trail to the Heavens | 394974 | [394974-final-fantasy-xiv-trail-to-the-heavens.json](./394974-final-fantasy-xiv-trail-to-the-heavens.json) |
 | Final Fantasy XIV: Under the Moonlight | 221540 | [221540-final-fantasy-xiv-under-the-moonlight.json](./221540-final-fantasy-xiv-under-the-moonlight.json) |
 | Final Fantasy XIV: Vows of Virtue, Deeds of Cruelty | 221543 | [221543-final-fantasy-xiv-vows-of-virtue-deeds-of-cruelty.json](./221543-final-fantasy-xiv-vows-of-virtue-deeds-of-cruelty.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
@@ -7798,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five A Day | 9135 | [9135-five-a-day.json](./9135-five-a-day.json) |
 | Five A Side Football 2023 | 212390 | [212390-five-a-side-football-2023.json](./212390-five-a-side-football-2023.json) |
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
+| Five Arcade | 394916 | [394916-five-arcade.json](./394916-five-arcade.json) |
 | Five Biggest Accomplishments | 381518 | [381518-five-biggest-accomplishments.json](./381518-five-biggest-accomplishments.json) |
 | Five Card Draw Poker | 279819 | [279819-five-card-draw-poker.json](./279819-five-card-draw-poker.json) |
 | Five Card Quest | 212379 | [212379-five-card-quest.json](./212379-five-card-quest.json) |
@@ -7936,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Into Madness | 303290 | [303290-five-nights-at-freddys-into-madness.json](./303290-five-nights-at-freddys-into-madness.json) |
 | Five Nights at Freddy's: Into the Pit | 283679 | [283679-five-nights-at-freddys-into-the-pit.json](./283679-five-nights-at-freddys-into-the-pit.json) |
 | Five Nights at Freddy's: Killer Night | 240312 | [240312-five-nights-at-freddys-killer-night.json](./240312-five-nights-at-freddys-killer-night.json) |
+| Five Nights at Freddy's: Legacy | 394975 | [394975-five-nights-at-freddys-legacy.json](./394975-five-nights-at-freddys-legacy.json) |
 | Five Nights at Freddy's: NES | 366102 | [366102-five-nights-at-freddys-nes.json](./366102-five-nights-at-freddys-nes.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Original Series | 164662 | [164662-five-nights-at-freddys-original-series.json](./164662-five-nights-at-freddys-original-series.json) |
