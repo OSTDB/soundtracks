@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VDSC Battle Royal | 243487 | [243487-vdsc-battle-royal.json](./243487-vdsc-battle-royal.json) |
 | Vec Sports Boxing | 273284 | [273284-vec-sports-boxing.json](./273284-vec-sports-boxing.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
+| Vecchio Furioso | 410506 | [410506-vecchio-furioso.json](./410506-vecchio-furioso.json) |
 | Veccol | 111535 | [111535-veccol.json](./111535-veccol.json) |
 | Veccy Bird | 311978 | [311978-veccy-bird.json](./311978-veccy-bird.json) |
 | Vecdrift | 273711 | [273711-vecdrift.json](./273711-vecdrift.json) |
