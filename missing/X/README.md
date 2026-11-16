@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane Flight Simulator | 196325 | [196325-x-plane-flight-simulator.json](./196325-x-plane-flight-simulator.json) |
 | X-Plane: Starship | 255743 | [255743-x-plane-starship.json](./255743-x-plane-starship.json) |
 | X-Point | 115378 | [115378-x-point.json](./115378-x-point.json) |
+| X-Race | 318101 | [318101-x-race.json](./318101-x-race.json) |
 | X-Racer | 220730 | [220730-x-racer.json](./220730-x-racer.json) |
 | X-Racing | 220633 | [220633-x-racing.json](./220633-x-racing.json) |
 | X-Ray & Dilligas | 144319 | [144319-x-ray-and-dilligas.json](./144319-x-ray-and-dilligas.json) |
@@ -926,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xingchenbian Online | 367952 | [367952-xingchenbian-online.json](./367952-xingchenbian-online.json) |
 | Xìngcúnzhě Lèyuán | 165655 | [165655-xingcunzhe-leyuan.json](./165655-xingcunzhe-leyuan.json) |
 | Xīngjì Shéngé | 196875 | [196875-xingji-shenge.json](./196875-xingji-shenge.json) |
+| Xīnnián | 387982 | [387982-xinnian.json](./387982-xinnian.json) |
 | Xio: Survival | 193496 | [193496-xio-survival.json](./193496-xio-survival.json) |
 | Xion | 41913 | [41913-xion.json](./41913-xion.json) |
 | Xion Leak | 216815 | [216815-xion-leak.json](./216815-xion-leak.json) |
