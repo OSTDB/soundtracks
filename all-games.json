@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T10:36:13.109Z",
-  "total_soundtracks": 3464,
+  "generated_at": "2026-11-16T10:56:21.046Z",
+  "total_soundtracks": 3468,
   "games": [
     {
       "igdb_id": 292844,
@@ -23195,6 +23195,20 @@
       ]
     },
     {
+      "igdb_id": 21082,
+      "game_name": "MicroBot",
+      "game_url": "https://ostdb.net/games/microbot",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273229b27fdc6c37d37d9727e98",
+      "albums": [
+        {
+          "album_name": "Microbot (Original Videogame Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0DOWWXs5RUylV3cgX8fmaU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3025,
       "game_name": "Middle-earth: Shadow of Mordor",
       "game_url": "https://ostdb.net/games/middle-earth-shadow-of-mordor",
@@ -31001,6 +31015,20 @@
         {
           "album_name": "Saturday Morning RPG Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7Bngl4kbdxnmrWiXgEGz5n",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21421,
+      "game_name": "SBK-07 Superbike World Championship",
+      "game_url": "https://ostdb.net/games/sbk-07-superbike-world-championship",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734fa1a310f9889b995abc8fe6",
+      "albums": [
+        {
+          "album_name": "SBK 07: Superbike World Championship Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4qBdl3ubM49miE7wtJ6nB5",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -41021,6 +41049,20 @@
       ]
     },
     {
+      "igdb_id": 21101,
+      "game_name": "Unbound Saga",
+      "game_url": "https://ostdb.net/games/unbound-saga",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27374fd7d4021522461d16d7d27",
+      "albums": [
+        {
+          "album_name": "Unbound Saga: Official Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1juGyVAaiDFT8BAZoue6jk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 89597,
       "game_name": "Unbound: Worlds Apart",
       "game_url": "https://ostdb.net/games/unbound-worlds-apart",
@@ -44633,6 +44675,20 @@
         {
           "album_name": "Zork: Grand Inquisitor (Music from the Interactive Video Game)",
           "spotify_url": "https://open.spotify.com/album/4NKNBAZ0R2Yr8yLNlphYw0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21472,
+      "game_name": "Zubo",
+      "game_url": "https://ostdb.net/games/zubo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273980f58d5f080195c2ae000d8",
+      "albums": [
+        {
+          "album_name": "Zubo (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ErkVMBH5cJtXoiNR2aWCH",
           "apple_music_url": "",
           "album_link_url": ""
         }
