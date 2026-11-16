@@ -6850,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Up Together | 416103 | [416103-fire-up-together.json](./416103-fire-up-together.json) |
 | Fire Up: Football Manager | 347236 | [347236-fire-up-football-manager.json](./347236-fire-up-football-manager.json) |
 | Fire Up! | 87659 | [87659-fire-up.json](./87659-fire-up.json) |
+| Fire Water Green | 267121 | [267121-fire-water-green.json](./267121-fire-water-green.json) |
 | Fire With Fire: Online Tower Attack and Defense | 35714 | [35714-fire-with-fire-online-tower-attack-and-defense.json](./35714-fire-with-fire-online-tower-attack-and-defense.json) |
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
 | Fire-Brigade: The Battle for Kiev - 1943 | 13060 | [13060-fire-brigade-the-battle-for-kiev-1943.json](./13060-fire-brigade-the-battle-for-kiev-1943.json) |
