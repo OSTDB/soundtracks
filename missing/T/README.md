@@ -10441,6 +10441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast and The Furious: Super Bikes | 72919 | [72919-the-fast-and-the-furious-super-bikes.json](./72919-the-fast-and-the-furious-super-bikes.json) |
 | The Fast and The Furious: Tokyo | 222719 | [222719-the-fast-and-the-furious-tokyo.json](./222719-the-fast-and-the-furious-tokyo.json) |
 | The Fast and the Furious: Tokyo Drift | 23083 | [23083-the-fast-and-the-furious-tokyo-drift.json](./23083-the-fast-and-the-furious-tokyo-drift.json) |
+| The Fast Food Nation Game | 396165 | [396165-the-fast-food-nation-game.json](./396165-the-fast-food-nation-game.json) |
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
 | The Fastest Fist | 30912 | [30912-the-fastest-fist.json](./30912-the-fastest-fist.json) |
 | The Fat Cat Fest | 332317 | [332317-the-fat-cat-fest.json](./332317-the-fat-cat-fest.json) |
@@ -16276,6 +16277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Chapter 1 | 211578 | [211578-the-one-chapter-1.json](./211578-the-one-chapter-1.json) |
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
 | The One Fork Restaurant | 175255 | [175255-the-one-fork-restaurant.json](./175255-the-one-fork-restaurant.json) |
+| The One Fork Restaurant DX | 396174 | [396174-the-one-fork-restaurant-dx.json](./396174-the-one-fork-restaurant-dx.json) |
 | The One Penny Adventure | 211039 | [211039-the-one-penny-adventure.json](./211039-the-one-penny-adventure.json) |
 | The One Spell | 182706 | [182706-the-one-spell.json](./182706-the-one-spell.json) |
 | The One Way Challenge | 259413 | [259413-the-one-way-challenge.json](./259413-the-one-way-challenge.json) |
