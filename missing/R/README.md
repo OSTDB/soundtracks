@@ -6518,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance is Fruitile | 117621 | [117621-resistance-is-fruitile.json](./117621-resistance-is-fruitile.json) |
 | Resistance Rocks | 270711 | [270711-resistance-rocks.json](./270711-resistance-rocks.json) |
 | Resistance TD | 132463 | [132463-resistance-td.json](./132463-resistance-td.json) |
+| Resistance: Retribution | 287835 | [287835-resistance-retribution.json](./287835-resistance-retribution.json) |
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | ReSizE | 72398 | [72398-resize.json](./72398-resize.json) |
@@ -10548,6 +10549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock Star Manager | 186680 | [186680-rock-star-manager.json](./186680-rock-star-manager.json) |
 | Rock Star Simulator | 171752 | [171752-rock-star-simulator.json](./171752-rock-star-simulator.json) |
+| Rock Tetrus | 287827 | [287827-rock-tetrus.json](./287827-rock-tetrus.json) |
 | Rock the Goat | 239615 | [239615-rock-the-goat.json](./239615-rock-the-goat.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
