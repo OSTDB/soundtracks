@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.U.R.L. | 11680 | [11680-h-u-r-l.json](./11680-h-u-r-l.json) |
 | H.Z.T. | 366091 | [366091-h-z-t.json](./366091-h-z-t.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
+| H&SB2: Twilight Gem - Hunter's Quest | 276890 | [276890-h-and-sb2-twilight-gem-hunters-quest.json](./276890-h-and-sb2-twilight-gem-hunters-quest.json) |
 | H+H=H2 | 395374 | [395374-h-h-h2.json](./395374-h-h-h2.json) |
 | H0st | 88058 | [88058-h0st.json](./88058-h0st.json) |
 | H1-Mod | 313565 | [313565-h1-mod.json](./313565-h1-mod.json) |
@@ -2712,7 +2713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Back to Nature | 239201 | [239201-harvest-moon-back-to-nature.json](./239201-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Boy & Girl | 42889 | [42889-harvest-moon-boy-and-girl.json](./42889-harvest-moon-boy-and-girl.json) |
-| Harvest Moon: Echoes of Teradea | 400976 | [400976-harvest-moon-echoes-of-teradea.json](./400976-harvest-moon-echoes-of-teradea.json) |
 | Harvest Moon: Frantic Farming | 47791 | [47791-harvest-moon-frantic-farming.json](./47791-harvest-moon-frantic-farming.json) |
 | Harvest Moon: Friends of Mineral Town | 3383 | [3383-harvest-moon-friends-of-mineral-town.json](./3383-harvest-moon-friends-of-mineral-town.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
@@ -8470,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World 10 Top-Down 3D | 277826 | [277826-hidden-world-10-top-down-3d.json](./277826-hidden-world-10-top-down-3d.json) |
 | Hidden World 3 Top-Down 3D | 237810 | [237810-hidden-world-3-top-down-3d.json](./237810-hidden-world-3-top-down-3d.json) |
 | Hidden World 4 Top-Down 3D | 241531 | [241531-hidden-world-4-top-down-3d.json](./241531-hidden-world-4-top-down-3d.json) |
+| Hidden World 5 Top-Down 3D | 272977 | [272977-hidden-world-5-top-down-3d.json](./272977-hidden-world-5-top-down-3d.json) |
 | Hidden World 6 Top-Down 3D | 274054 | [274054-hidden-world-6-top-down-3d.json](./274054-hidden-world-6-top-down-3d.json) |
 | Hidden World 7 Top-Down 3D | 275858 | [275858-hidden-world-7-top-down-3d.json](./275858-hidden-world-7-top-down-3d.json) |
 | Hidden World 8 Top-Down 3D | 275947 | [275947-hidden-world-8-top-down-3d.json](./275947-hidden-world-8-top-down-3d.json) |
@@ -8591,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideyoshi Shooooooot! | 64632 | [64632-hideyoshi-shooooooot.json](./64632-hideyoshi-shooooooot.json) |
 | Hiding | 364849 | [364849-hiding.json](./364849-hiding.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
+| Hiding Star | 272976 | [272976-hiding-star.json](./272976-hiding-star.json) |
 | Hidiom | 158933 | [158933-hidiom.json](./158933-hidiom.json) |
 | Hierofanía | 147199 | [147199-hierofania.json](./147199-hierofania.json) |
 | Hierofanía 2 | 147212 | [147212-hierofania-2.json](./147212-hierofania-2.json) |
@@ -11411,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horace | 120323 | [120323-horace.json](./120323-horace.json) |
 | Horace and the Spiders | 28518 | [28518-horace-and-the-spiders.json](./28518-horace-and-the-spiders.json) |
 | Horace Goes Skiing | 13881 | [13881-horace-goes-skiing.json](./13881-horace-goes-skiing.json) |
+| Horace Hagfish | 272975 | [272975-horace-hagfish.json](./272975-horace-hagfish.json) |
 | Horace to the Rescue | 242035 | [242035-horace-to-the-rescue.json](./242035-horace-to-the-rescue.json) |
 | Horace: First Trip | 123724 | [123724-horace-first-trip.json](./123724-horace-first-trip.json) |
 | Horas Extra Terrestres | 298989 | [298989-horas-extra-terrestres.json](./298989-horas-extra-terrestres.json) |
