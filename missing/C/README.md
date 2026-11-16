@@ -9019,6 +9019,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter HD | 15158 | [15158-choplifter-hd.json](./15158-choplifter-hd.json) |
 | Choplifter HD: Arrowhead Chopper | 170746 | [170746-choplifter-hd-arrowhead-chopper.json](./170746-choplifter-hd-arrowhead-chopper.json) |
 | Choplifter II: Rescue Survive | 7823 | [7823-choplifter-ii-rescue-survive.json](./7823-choplifter-ii-rescue-survive.json) |
+| Choplifter III | 228779 | [228779-choplifter-iii.json](./228779-choplifter-iii.json) |
+| Choplifter III: Rescue Survive | 228780 | [228780-choplifter-iii-rescue-survive.json](./228780-choplifter-iii-rescue-survive.json) |
 | Choplifter III: Rescue Survive | 7824 | [7824-choplifter-iii-rescue-survive.json](./7824-choplifter-iii-rescue-survive.json) |
 | Choplifter! | 282062 | [282062-choplifter.json](./282062-choplifter.json) |
 | Choplifter! | 343884 | [343884-choplifter.json](./343884-choplifter.json) |
@@ -20617,6 +20619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crossword Puzzle - Redstone | 88992 | [88992-crossword-puzzle-redstone.json](./88992-crossword-puzzle-redstone.json) |
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
+| Crossword World Puzzle | 228771 | [228771-crossword-world-puzzle.json](./228771-crossword-world-puzzle.json) |
 | Crossworders' Dictionary and Gazetteer 4 | 88651 | [88651-crossworders-dictionary-and-gazetteer-4.json](./88651-crossworders-dictionary-and-gazetteer-4.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
 | CrossworDS | 47766 | [47766-crosswords.json](./47766-crosswords.json) |
@@ -21662,6 +21665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 154271 | [154271-cube.json](./154271-cube.json) |
 | Cube | 193595 | [193595-cube.json](./193595-cube.json) |
 | Cube | 208470 | [208470-cube.json](./208470-cube.json) |
+| Cube | 228802 | [228802-cube.json](./228802-cube.json) |
 | Cube | 229157 | [229157-cube.json](./229157-cube.json) |
 | Cube | 249776 | [249776-cube.json](./249776-cube.json) |
 | Cube | 254847 | [254847-cube.json](./254847-cube.json) |
