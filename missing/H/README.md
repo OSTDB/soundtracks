@@ -5349,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help! I'm Haunted | 111442 | [111442-help-im-haunted.json](./111442-help-im-haunted.json) |
 | Help! I'm Turning Into a Mermaid! | 407892 | [407892-help-im-turning-into-a-mermaid.json](./407892-help-im-turning-into-a-mermaid.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
+| Help! My Childhood Friend is Now My Boss and He Wants Me To Be His Bride?! | 394971 | [394971-help-my-childhood-friend-is-now-my-boss-and-he-wants-me-to-be-his-bride.json](./394971-help-my-childhood-friend-is-now-my-boss-and-he-wants-me-to-be-his-bride.json) |
 | Help! My Giant Goth Girlfriend Is Insane | 418858 | [418858-help-my-giant-goth-girlfriend-is-insane.json](./418858-help-my-giant-goth-girlfriend-is-insane.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
 | Help! No Brake | 223761 | [223761-help-no-brake.json](./223761-help-no-brake.json) |
@@ -9682,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive | 94858 | [94858-hive.json](./94858-hive.json) |
 | Hive and Seek | 304176 | [304176-hive-and-seek.json](./304176-hive-and-seek.json) |
 | Hive Blight | 345434 | [345434-hive-blight.json](./345434-hive-blight.json) |
+| Hive Commando | 394968 | [394968-hive-commando.json](./394968-hive-commando.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive Dive | 294352 | [294352-hive-dive.json](./294352-hive-dive.json) |
 | Hive Havoc 3D | 422224 | [422224-hive-havoc-3d.json](./422224-hive-havoc-3d.json) |
