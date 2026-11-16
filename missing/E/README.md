@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
 | Echo Isle | 388459 | [388459-echo-isle.json](./388459-echo-isle.json) |
 | Echo Lake | 30570 | [30570-echo-lake.json](./30570-echo-lake.json) |
+| Echo Mates | 418511 | [418511-echo-mates.json](./418511-echo-mates.json) |
 | Echo Maze | 373356 | [373356-echo-maze.json](./373356-echo-maze.json) |
 | Echo Night | 9514 | [9514-echo-night.json](./9514-echo-night.json) |
 | Echo Night 2: Nemuri no Shihaisha | 43882 | [43882-echo-night-2-nemuri-no-shihaisha.json](./43882-echo-night-2-nemuri-no-shihaisha.json) |
@@ -3258,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
 | Elysium | 365227 | [365227-elysium.json](./365227-elysium.json) |
 | Elysium | 408857 | [408857-elysium.json](./408857-elysium.json) |
+| Elysium | 418441 | [418441-elysium.json](./418441-elysium.json) |
 | Elysium | 95487 | [95487-elysium.json](./95487-elysium.json) |
 | Elysium Above | 155740 | [155740-elysium-above.json](./155740-elysium-above.json) |
 | Elysium City | 212768 | [212768-elysium-city.json](./212768-elysium-city.json) |
@@ -4388,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
 | Endless Vine | 374798 | [374798-endless-vine.json](./374798-endless-vine.json) |
 | Endless Void | 148894 | [148894-endless-void.json](./148894-endless-void.json) |
+| Endless Void: Idle Tower Defence | 418365 | [418365-endless-void-idle-tower-defence.json](./418365-endless-void-idle-tower-defence.json) |
 | Endless Voyage | 150090 | [150090-endless-voyage.json](./150090-endless-voyage.json) |
 | Endless wandering | 182770 | [182770-endless-wandering.json](./182770-endless-wandering.json) |
 | Endless War | 190829 | [190829-endless-war.json](./190829-endless-war.json) |
