@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic | 302039 | [302039-ballistic.json](./302039-ballistic.json) |
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
 | Ballistic Baseball | 122761 | [122761-ballistic-baseball.json](./122761-ballistic-baseball.json) |
+| Ballistic Biscuit | 393082 | [393082-ballistic-biscuit.json](./393082-ballistic-biscuit.json) |
 | Ballistic Brews | 415866 | [415866-ballistic-brews.json](./415866-ballistic-brews.json) |
 | Ballistic Craft | 128300 | [128300-ballistic-craft.json](./128300-ballistic-craft.json) |
 | Ballistic M.A.D.ness | 156887 | [156887-ballistic-m-a-d-ness.json](./156887-ballistic-m-a-d-ness.json) |
