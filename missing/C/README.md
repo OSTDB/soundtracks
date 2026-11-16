@@ -23210,6 +23210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
 | Cyber Hunter | 117145 | [117145-cyber-hunter.json](./117145-cyber-hunter.json) |
 | Cyber Hunter: Awakening | 157479 | [157479-cyber-hunter-awakening.json](./157479-cyber-hunter-awakening.json) |
+| Cyber Hunters | 253066 | [253066-cyber-hunters.json](./253066-cyber-hunters.json) |
 | Cyber Illusion | 146724 | [146724-cyber-illusion.json](./146724-cyber-illusion.json) |
 | Cyber Internet Club Simulator | 296501 | [296501-cyber-internet-club-simulator.json](./296501-cyber-internet-club-simulator.json) |
 | Cyber Knight | 16471 | [16471-cyber-knight.json](./16471-cyber-knight.json) |
