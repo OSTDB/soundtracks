@@ -5147,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrene | 133845 | [133845-terrene.json](./133845-terrene.json) |
 | Terrene: An Evidence of Life Game | 169429 | [169429-terrene-an-evidence-of-life-game.json](./169429-terrene-an-evidence-of-life-game.json) |
 | Terreno di Caccia | 405971 | [405971-terreno-di-caccia.json](./405971-terreno-di-caccia.json) |
+| Terres | 297386 | [297386-terres.json](./297386-terres.json) |
 | Terres: Supporter Pack | 323240 | [323240-terres-supporter-pack.json](./323240-terres-supporter-pack.json) |
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
