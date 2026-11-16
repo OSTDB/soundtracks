@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night At Freddy's | 273951 | [273951-one-night-at-freddys.json](./273951-one-night-at-freddys.json) |
 | One Night At Herobrine's | 280446 | [280446-one-night-at-herobrines.json](./280446-one-night-at-herobrines.json) |
 | One Night at Preddiz's | 145228 | [145228-one-night-at-preddizs.json](./145228-one-night-at-preddizs.json) |
+| One Night At The Shack | 310310 | [310310-one-night-at-the-shack.json](./310310-one-night-at-the-shack.json) |
 | One Night at the Steeze | 343838 | [343838-one-night-at-the-steeze.json](./343838-one-night-at-the-steeze.json) |
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
@@ -5443,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
 | Our Light Affliction: Spider's Covenant | 408537 | [408537-our-light-affliction-spiders-covenant.json](./408537-our-light-affliction-spiders-covenant.json) |
 | Our Little Chase | 231702 | [231702-our-little-chase.json](./231702-our-little-chase.json) |
+| Our Little Friend | 310770 | [310770-our-little-friend.json](./310770-our-little-friend.json) |
 | Our Lonely Flesh | 113953 | [113953-our-lonely-flesh.json](./113953-our-lonely-flesh.json) |
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Love Will Grow | 33946 | [33946-our-love-will-grow.json](./33946-our-love-will-grow.json) |
