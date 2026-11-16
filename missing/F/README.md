@@ -6820,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firearms | 229495 | [229495-firearms.json](./229495-firearms.json) |
 | Firearms Factory | 190836 | [190836-firearms-factory.json](./190836-firearms-factory.json) |
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
+| Firearms: Source | 408283 | [408283-firearms-source.json](./408283-firearms-source.json) |
 | Fireball | 18565 | [18565-fireball.json](./18565-fireball.json) |
 | Fireball | 374834 | [374834-fireball.json](./374834-fireball.json) |
 | Fireball | 377327 | [377327-fireball.json](./377327-fireball.json) |
@@ -8647,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
 | Flesh Farm | 370665 | [370665-flesh-farm.json](./370665-flesh-farm.json) |
 | Flesh Feast | 93408 | [93408-flesh-feast.json](./93408-flesh-feast.json) |
+| Flesh Fossil | 408317 | [408317-flesh-fossil.json](./408317-flesh-fossil.json) |
 | Flesh Made Fear | 331184 | [331184-flesh-made-fear.json](./331184-flesh-made-fear.json) |
 | Flesh Made Fear: 1998 Theme | 375802 | [375802-flesh-made-fear-1998-theme.json](./375802-flesh-made-fear-1998-theme.json) |
 | Flesh Made Fear: Summer in Rotwood | 375804 | [375804-flesh-made-fear-summer-in-rotwood.json](./375804-flesh-made-fear-summer-in-rotwood.json) |
