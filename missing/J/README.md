@@ -4820,6 +4820,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juutatsu Kihei Drag-Arms | 366495 | [366495-juutatsu-kihei-drag-arms.json](./366495-juutatsu-kihei-drag-arms.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
+| Juuzaengi: Engetsu Sangokuden | 222556 | [222556-juuzaengi-engetsu-sangokuden.json](./222556-juuzaengi-engetsu-sangokuden.json) |
+| Juuzaengi: Engetsu Sangokuden 2 | 222559 | [222559-juuzaengi-engetsu-sangokuden-2.json](./222559-juuzaengi-engetsu-sangokuden-2.json) |
 | Juvei Quest | 48449 | [48449-juvei-quest.json](./48449-juvei-quest.json) |
 | Juvenate | 366104 | [366104-juvenate.json](./366104-juvenate.json) |
 | Juvenile God | 123562 | [123562-juvenile-god.json](./123562-juvenile-god.json) |
