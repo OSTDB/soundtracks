@@ -4485,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbreaker Corps | 417193 | [417193-ghostbreaker-corps.json](./417193-ghostbreaker-corps.json) |
 | GhostBros | 262820 | [262820-ghostbros.json](./262820-ghostbros.json) |
 | Ghostbusters | 18815 | [18815-ghostbusters.json](./18815-ghostbusters.json) |
+| Ghostbusters | 290056 | [290056-ghostbusters.json](./290056-ghostbusters.json) |
 | Ghostbusters | 347005 | [347005-ghostbusters.json](./347005-ghostbusters.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
 | Ghostbusters | 6054 | [6054-ghostbusters.json](./6054-ghostbusters.json) |
@@ -7314,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Balloon | 412063 | [412063-golden-balloon.json](./412063-golden-balloon.json) |
 | Golden Balls | 78081 | [78081-golden-balls.json](./78081-golden-balls.json) |
 | Golden Basket | 73598 | [73598-golden-basket.json](./73598-golden-basket.json) |
+| Golden Bazaar: Game of Tycoon! | 291636 | [291636-golden-bazaar-game-of-tycoon.json](./291636-golden-bazaar-game-of-tycoon.json) |
 | Golden Boy | 172331 | [172331-golden-boy.json](./172331-golden-boy.json) |
 | Golden Bros | 194152 | [194152-golden-bros.json](./194152-golden-bros.json) |
 | Golden Chambers | 253999 | [253999-golden-chambers.json](./253999-golden-chambers.json) |
