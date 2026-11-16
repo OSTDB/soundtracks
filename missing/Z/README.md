@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Pilot | 36673 | [36673-z-pilot.json](./36673-z-pilot.json) |
 | Z-Race | 144005 | [144005-z-race.json](./144005-z-race.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
+| Z-Sector | 413310 | [413310-z-sector.json](./413310-z-sector.json) |
 | Z-Stop | 212654 | [212654-z-stop.json](./212654-z-stop.json) |
 | Z-Tack | 24455 | [24455-z-tack.json](./24455-z-tack.json) |
 | z-Tech | 60708 | [60708-z-tech.json](./60708-z-tech.json) |
