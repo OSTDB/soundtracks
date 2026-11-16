@@ -6441,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Quest VR : The Search for the Crown of Calculation | 339302 | [339302-math-quest-vr-the-search-for-the-crown-of-calculation.json](./339302-math-quest-vr-the-search-for-the-crown-of-calculation.json) |
 | Math Quiz | 287256 | [287256-math-quiz.json](./287256-math-quiz.json) |
 | Math Quiz Games - Best way to Learn and have Fun | 103696 | [103696-math-quiz-games-best-way-to-learn-and-have-fun.json](./103696-math-quiz-games-best-way-to-learn-and-have-fun.json) |
+| Math Rabbit | 228786 | [228786-math-rabbit.json](./228786-math-rabbit.json) |
 | Math Rabbit: Deluxe! | 73669 | [73669-math-rabbit-deluxe.json](./73669-math-rabbit-deluxe.json) |
 | Math Race | 98722 | [98722-math-race.json](./98722-math-race.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
@@ -12021,6 +12022,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines | 250474 | [250474-micro-machines.json](./250474-micro-machines.json) |
 | Micro Machines | 2703 | [2703-micro-machines.json](./2703-micro-machines.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
+| Micro Machines 2: Turbo Tournament | 228791 | [228791-micro-machines-2-turbo-tournament.json](./228791-micro-machines-2-turbo-tournament.json) |
+| Micro Machines 2: Turbo Tournament | 228792 | [228792-micro-machines-2-turbo-tournament.json](./228792-micro-machines-2-turbo-tournament.json) |
 | Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
 | Micro Machines 64 Turbo | 8497 | [8497-micro-machines-64-turbo.json](./8497-micro-machines-64-turbo.json) |
 | Micro Machines Military | 8513 | [8513-micro-machines-military.json](./8513-micro-machines-military.json) |
@@ -13712,6 +13715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Castle I | 69688 | [69688-mind-castle-i.json](./69688-mind-castle-i.json) |
 | Mind Castle II | 339702 | [339702-mind-castle-ii.json](./339702-mind-castle-ii.json) |
 | Mind Challengers | 44365 | [44365-mind-challengers.json](./44365-mind-challengers.json) |
+| Mind Color | 229392 | [229392-mind-color.json](./229392-mind-color.json) |
 | Mind Construct | 256439 | [256439-mind-construct.json](./256439-mind-construct.json) |
 | Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
@@ -19815,6 +19819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Void | 336628 | [336628-mortal-void.json](./336628-mortal-void.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
 | Mortal Wrestle Fight Pro | 99991 | [99991-mortal-wrestle-fight-pro.json](./99991-mortal-wrestle-fight-pro.json) |
+| Mortalis | 229393 | [229393-mortalis.json](./229393-mortalis.json) |
 | Mortalis Meltdown | 291807 | [291807-mortalis-meltdown.json](./291807-mortalis-meltdown.json) |
 | Mortality | 425426 | [425426-mortality.json](./425426-mortality.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
