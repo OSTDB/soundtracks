@@ -3800,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lem-Amaze! | 126570 | [126570-lem-amaze.json](./126570-lem-amaze.json) |
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Leman | 172254 | [172254-leman.json](./172254-leman.json) |
+| LeManager | 415569 | [415569-lemanager.json](./415569-lemanager.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
 | Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
 | Lemmings | 113439 | [113439-lemmings.json](./113439-lemmings.json) |
@@ -5128,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life on Mars Remake | 55443 | [55443-life-on-mars-remake.json](./55443-life-on-mars-remake.json) |
 | Life on Mars: Genesis | 265456 | [265456-life-on-mars-genesis.json](./265456-life-on-mars-genesis.json) |
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
+| Life on Neptune | 415556 | [415556-life-on-neptune.json](./415556-life-on-neptune.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
 | Life on the Edge | 204604 | [204604-life-on-the-edge.json](./204604-life-on-the-edge.json) |
 | Life on the Floating Island | 83082 | [83082-life-on-the-floating-island.json](./83082-life-on-the-floating-island.json) |
@@ -9299,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
 | Lost Lands: The Golden Curse | 33754 | [33754-lost-lands-the-golden-curse.json](./33754-lost-lands-the-golden-curse.json) |
 | Lost Lands: The Wanderer | 28654 | [28654-lost-lands-the-wanderer.json](./28654-lost-lands-the-wanderer.json) |
+| Lost Legacy: An Animania Story | 415603 | [415603-lost-legacy-an-animania-story.json](./415603-lost-legacy-an-animania-story.json) |
 | Lost Legacy: The Awakening of the Seals | 273765 | [273765-lost-legacy-the-awakening-of-the-seals.json](./273765-lost-legacy-the-awakening-of-the-seals.json) |
 | Lost Legend | 104822 | [104822-lost-legend.json](./104822-lost-legend.json) |
 | Lost Legends: The Pharaoh's Tomb | 43135 | [43135-lost-legends-the-pharaohs-tomb.json](./43135-lost-legends-the-pharaohs-tomb.json) |
