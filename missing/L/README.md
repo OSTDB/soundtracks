@@ -3867,6 +3867,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243686 | [243686-lemmings-and-oh-no-more-lemmings.json](./243686-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 80535 | [80535-lemmings-and-oh-no-more-lemmings.json](./80535-lemmings-and-oh-no-more-lemmings.json) |
+| Lemmings 2: The Tribes | 228775 | [228775-lemmings-2-the-tribes.json](./228775-lemmings-2-the-tribes.json) |
+| Lemmings 2: The Tribes | 228776 | [228776-lemmings-2-the-tribes.json](./228776-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 243941 | [243941-lemmings-2-the-tribes.json](./243941-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 243988 | [243988-lemmings-2-the-tribes.json](./243988-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 243989 | [243989-lemmings-2-the-tribes.json](./243989-lemmings-2-the-tribes.json) |
