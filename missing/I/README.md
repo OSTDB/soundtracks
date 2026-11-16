@@ -3561,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incrate | 325378 | [325378-incrate.json](./325378-incrate.json) |
 | InCrazyBall | 360490 | [360490-incrazyball.json](./360490-incrazyball.json) |
 | Increase World | 367996 | [367996-increase-world.json](./367996-increase-world.json) |
+| Increbraintal | 386752 | [386752-increbraintal.json](./386752-increbraintal.json) |
 | Incredeck | 415973 | [415973-incredeck.json](./415973-incredeck.json) |
 | Incrediball: The Seven Sapphires | 71984 | [71984-incrediball-the-seven-sapphires.json](./71984-incrediball-the-seven-sapphires.json) |
 | Incredibasketball | 24773 | [24773-incredibasketball.json](./24773-incredibasketball.json) |
