@@ -9839,6 +9839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobo Brawl | 237478 | [237478-hobo-brawl.json](./237478-hobo-brawl.json) |
 | Hobo Cat Adventures | 149396 | [149396-hobo-cat-adventures.json](./149396-hobo-cat-adventures.json) |
 | Hobo life simulator | 105671 | [105671-hobo-life-simulator.json](./105671-hobo-life-simulator.json) |
+| Hobo Life: Greg's Christmas | 306842 | [306842-hobo-life-gregs-christmas.json](./306842-hobo-life-gregs-christmas.json) |
 | Hobo Soccer | 92594 | [92594-hobo-soccer.json](./92594-hobo-soccer.json) |
 | Hobo with a Shotgun | 63872 | [63872-hobo-with-a-shotgun.json](./63872-hobo-with-a-shotgun.json) |
 | Hobo: Life Business Simulator | 234009 | [234009-hobo-life-business-simulator.json](./234009-hobo-life-business-simulator.json) |
