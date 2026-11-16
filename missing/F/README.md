@@ -8011,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At Furry's | 223349 | [223349-five-nights-at-furrys.json](./223349-five-nights-at-furrys.json) |
 | Five Nights at FuzzBoob's: Definitive Edition | 240483 | [240483-five-nights-at-fuzzboobs-definitive-edition.json](./240483-five-nights-at-fuzzboobs-definitive-edition.json) |
 | Five Nights At Ghost House | 175737 | [175737-five-nights-at-ghost-house.json](./175737-five-nights-at-ghost-house.json) |
+| Five Nights at Glitchsakens: Jankest Delivery | 243447 | [243447-five-nights-at-glitchsakens-jankest-delivery.json](./243447-five-nights-at-glitchsakens-jankest-delivery.json) |
 | Five Nights at Granny | 102554 | [102554-five-nights-at-granny.json](./102554-five-nights-at-granny.json) |
 | Five Nights at Grasos's | 387586 | [387586-five-nights-at-grasoss.json](./387586-five-nights-at-grasoss.json) |
 | Five Nights at Haunted House | 281468 | [281468-five-nights-at-haunted-house.json](./281468-five-nights-at-haunted-house.json) |
