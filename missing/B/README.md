@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Island Hunt | 401564 | [401564-banana-island-hunt.json](./401564-banana-island-hunt.json) |
 | Banana Islands | 73773 | [73773-banana-islands.json](./73773-banana-islands.json) |
 | Banana Keeper | 391998 | [391998-banana-keeper.json](./391998-banana-keeper.json) |
+| Banana Kingdom | 415708 | [415708-banana-kingdom.json](./415708-banana-kingdom.json) |
 | Banana Kong | 63881 | [63881-banana-kong.json](./63881-banana-kong.json) |
 | Banana Kong 2 | 209711 | [209711-banana-kong-2.json](./209711-banana-kong-2.json) |
 | Banana Kong Blast | 375828 | [375828-banana-kong-blast.json](./375828-banana-kong-blast.json) |
@@ -6618,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeftacular | 32831 | [32831-beeftacular.json](./32831-beeftacular.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beefurious, Shura! | 294675 | [294675-beefurious-shura.json](./294675-beefurious-shura.json) |
+| Beefy Boi | 415572 | [415572-beefy-boi.json](./415572-beefy-boi.json) |
 | Beefy Brad the Muscle Man | 265735 | [265735-beefy-brad-the-muscle-man.json](./265735-beefy-brad-the-muscle-man.json) |
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
 | Beehive Bedlam | 262021 | [262021-beehive-bedlam.json](./262021-beehive-bedlam.json) |
@@ -8257,6 +8259,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
 | Big Adventure: Trip to Europe 11 | 417373 | [417373-big-adventure-trip-to-europe-11.json](./417373-big-adventure-trip-to-europe-11.json) |
 | Big Adventure: Trip to Europe 11 - Collector's Edition | 407097 | [407097-big-adventure-trip-to-europe-11-collectors-edition.json](./407097-big-adventure-trip-to-europe-11-collectors-edition.json) |
+| Big Adventure: Trip to Europe 13 | 415581 | [415581-big-adventure-trip-to-europe-13.json](./415581-big-adventure-trip-to-europe-13.json) |
+| Big Adventure: Trip to Europe 13 - Collector's Edition | 415582 | [415582-big-adventure-trip-to-europe-13-collectors-edition.json](./415582-big-adventure-trip-to-europe-13-collectors-edition.json) |
 | Big Adventure: Trip to Europe 2 | 219376 | [219376-big-adventure-trip-to-europe-2.json](./219376-big-adventure-trip-to-europe-2.json) |
 | Big Adventure: Trip to Europe 2 - Collector's Edition | 219205 | [219205-big-adventure-trip-to-europe-2-collectors-edition.json](./219205-big-adventure-trip-to-europe-2-collectors-edition.json) |
 | Big Adventure: Trip to Europe 3 | 417375 | [417375-big-adventure-trip-to-europe-3.json](./417375-big-adventure-trip-to-europe-3.json) |
@@ -12819,6 +12823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom Again | 408260 | [408260-bloom-again.json](./408260-bloom-again.json) |
 | Bloom Barrage | 240206 | [240206-bloom-barrage.json](./240206-bloom-barrage.json) |
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
+| Bloom Busters | 415600 | [415600-bloom-busters.json](./415600-bloom-busters.json) |
 | Bloom Control | 419407 | [419407-bloom-control.json](./419407-bloom-control.json) |
 | Bloom Defender | 252054 | [252054-bloom-defender.json](./252054-bloom-defender.json) |
 | Bloom Echo | 303363 | [303363-bloom-echo.json](./303363-bloom-echo.json) |
@@ -15653,6 +15658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound by Bones | 346558 | [346558-bound-by-bones.json](./346558-bound-by-bones.json) |
 | Bound By Broadcast | 306432 | [306432-bound-by-broadcast.json](./306432-bound-by-broadcast.json) |
 | Bound by Desire | 367203 | [367203-bound-by-desire.json](./367203-bound-by-desire.json) |
+| Bound by Destiny | 415711 | [415711-bound-by-destiny.json](./415711-bound-by-destiny.json) |
 | Bound By Havoc | 384646 | [384646-bound-by-havoc.json](./384646-bound-by-havoc.json) |
 | Bound by Love | 186837 | [186837-bound-by-love.json](./186837-bound-by-love.json) |
 | Bound City | 357519 | [357519-bound-city.json](./357519-bound-city.json) |
