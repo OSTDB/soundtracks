@@ -3407,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
 | Mandela Invasion: Alternates | 425995 | [425995-mandela-invasion-alternates.json](./425995-mandela-invasion-alternates.json) |
+| Mandela Syndrome | 267039 | [267039-mandela-syndrome.json](./267039-mandela-syndrome.json) |
 | Mandemon | 259510 | [259510-mandemon.json](./259510-mandemon.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
 | Mandew vs the Colorless Curse | 156840 | [156840-mandew-vs-the-colorless-curse.json](./156840-mandew-vs-the-colorless-curse.json) |
@@ -11695,6 +11696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meu | 121259 | [121259-meu.json](./121259-meu.json) |
 | Meu mundo | 120919 | [120919-meu-mundo.json](./120919-meu-mundo.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
+| Meurtre Au Florian | 266969 | [266969-meurtre-au-florian.json](./266969-meurtre-au-florian.json) |
 | Mevo and the Grooveriders | 7963 | [7963-mevo-and-the-grooveriders.json](./7963-mevo-and-the-grooveriders.json) |
 | Mew Mew Chamber for Steam | 90543 | [90543-mew-mew-chamber-for-steam.json](./90543-mew-mew-chamber-for-steam.json) |
 | Mew Mew Power: Cyniclon Invasion | 328424 | [328424-mew-mew-power-cyniclon-invasion.json](./328424-mew-mew-power-cyniclon-invasion.json) |
@@ -16526,6 +16528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobilmo | 109964 | [109964-mobilmo.json](./109964-mobilmo.json) |
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
+| Mobius | 267119 | [267119-mobius.json](./267119-mobius.json) |
 | Mobius | 404583 | [404583-mobius.json](./404583-mobius.json) |
 | Mobius & Elegy Belongs to Nobody | 127432 | [127432-mobius-and-elegy-belongs-to-nobody.json](./127432-mobius-and-elegy-belongs-to-nobody.json) |
 | Mobius Band | 217491 | [217491-mobius-band.json](./217491-mobius-band.json) |
@@ -17680,6 +17683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monoshiri Quiz Sekai no Konchuu | 278203 | [278203-monoshiri-quiz-sekai-no-konchuu.json](./278203-monoshiri-quiz-sekai-no-konchuu.json) |
 | Monoshiri Quiz: Sekai no Doubutsu | 253230 | [253230-monoshiri-quiz-sekai-no-doubutsu.json](./253230-monoshiri-quiz-sekai-no-doubutsu.json) |
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
+| Monotonia | 267031 | [267031-monotonia.json](./267031-monotonia.json) |
 | Monotonia: EXP_01 | 228514 | [228514-monotonia-exp-01.json](./228514-monotonia-exp-01.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
 | Monovert DX | 115350 | [115350-monovert-dx.json](./115350-monovert-dx.json) |
@@ -20727,6 +20731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
 | Move the Box | 254892 | [254892-move-the-box.json](./254892-move-the-box.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
+| Move The Chains: Season 1 | 267034 | [267034-move-the-chains-season-1.json](./267034-move-the-chains-season-1.json) |
 | Move the Pin: Classic Logic Puzzle | 249575 | [249575-move-the-pin-classic-logic-puzzle.json](./249575-move-the-pin-classic-logic-puzzle.json) |
 | Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
 | Move Together! | 425417 | [425417-move-together.json](./425417-move-together.json) |
@@ -21631,6 +21636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
 | Mukimuki Nyankos | 426032 | [426032-mukimuki-nyankos.json](./426032-mukimuki-nyankos.json) |
 | Mukiz | 350361 | [350361-mukiz.json](./350361-mukiz.json) |
+| Mukke | 267053 | [267053-mukke.json](./267053-mukke.json) |
 | Mukogawa | 344319 | [344319-mukogawa.json](./344319-mukogawa.json) |
 | Mukon M | 214380 | [214380-mukon-m.json](./214380-mukon-m.json) |
 | Mukou no Yume | 329905 | [329905-mukou-no-yume.json](./329905-mukou-no-yume.json) |
@@ -21776,6 +21782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiverse Mercenaries | 220918 | [220918-multiverse-mercenaries.json](./220918-multiverse-mercenaries.json) |
 | Multiverse Racer | 185509 | [185509-multiverse-racer.json](./185509-multiverse-racer.json) |
 | Multiversepool | 223745 | [223745-multiversepool.json](./223745-multiversepool.json) |
+| Multiverser | 266968 | [266968-multiverser.json](./266968-multiverser.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
 | MultiVersus: Founder's Pack - Premium Edition | 212308 | [212308-multiversus-founders-pack-premium-edition.json](./212308-multiversus-founders-pack-premium-edition.json) |
 | MultiVersus: Founder's Pack - Standard Edition | 212307 | [212307-multiversus-founders-pack-standard-edition.json](./212307-multiversus-founders-pack-standard-edition.json) |
@@ -23072,6 +23079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
 | My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
 | My Donut Days | 87717 | [87717-my-donut-days.json](./87717-my-donut-days.json) |
+| My Douchey Boss Has a Gentle Twin Brother?! | 267032 | [267032-my-douchey-boss-has-a-gentle-twin-brother.json](./267032-my-douchey-boss-has-a-gentle-twin-brother.json) |
 | My Downtown | 153981 | [153981-my-downtown.json](./153981-my-downtown.json) |
 | My Dragon Girlfriend | 222650 | [222650-my-dragon-girlfriend.json](./222650-my-dragon-girlfriend.json) |
 | My Dragon Party | 197258 | [197258-my-dragon-party.json](./197258-my-dragon-party.json) |
@@ -23272,6 +23280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
 | My Furry Neighbour | 165831 | [165831-my-furry-neighbour.json](./165831-my-furry-neighbour.json) |
 | My Furry Protogen | 204165 | [204165-my-furry-protogen.json](./204165-my-furry-protogen.json) |
+| My Furry Protogen 2 | 267051 | [267051-my-furry-protogen-2.json](./267051-my-furry-protogen-2.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Stepmom | 393374 | [393374-my-furry-stepmom.json](./393374-my-furry-stepmom.json) |
 | My Furry Succubus | 253899 | [253899-my-furry-succubus.json](./253899-my-furry-succubus.json) |
