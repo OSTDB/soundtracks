@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings and Castles | 94154 | [94154-kings-and-castles.json](./94154-kings-and-castles.json) |
 | Kings and Catapults | 215647 | [215647-kings-and-catapults.json](./215647-kings-and-catapults.json) |
 | Kings and Generals: A Divided Loyalty | 60249 | [60249-kings-and-generals-a-divided-loyalty.json](./60249-kings-and-generals-a-divided-loyalty.json) |
+| Kings And Goblins | 294323 | [294323-kings-and-goblins.json](./294323-kings-and-goblins.json) |
 | Kings and Heroes | 18552 | [18552-kings-and-heroes.json](./18552-kings-and-heroes.json) |
 | Kings and Legends | 62791 | [62791-kings-and-legends.json](./62791-kings-and-legends.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
