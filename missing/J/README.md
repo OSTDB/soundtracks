@@ -3538,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: The Mobile Game | 98191 | [98191-jumanji-the-mobile-game.json](./98191-jumanji-the-mobile-game.json) |
 | Jumanji: The Video Game | 119226 | [119226-jumanji-the-video-game.json](./119226-jumanji-the-video-game.json) |
 | Jumanji: The VR Adventure | 82350 | [82350-jumanji-the-vr-adventure.json](./82350-jumanji-the-vr-adventure.json) |
+| Jumanji: Wild Adventures | 253061 | [253061-jumanji-wild-adventures.json](./253061-jumanji-wild-adventures.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
 | Jumba's Lab | 338408 | [338408-jumbas-lab.json](./338408-jumbas-lab.json) |
 | Jumble | 245461 | [245461-jumble.json](./245461-jumble.json) |
@@ -4525,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2023 Edition: Ultimate Edition | 227574 | [227574-just-dance-2023-edition-ultimate-edition.json](./227574-just-dance-2023-edition-ultimate-edition.json) |
 | Just Dance 2024 Edition | 252986 | [252986-just-dance-2024-edition.json](./252986-just-dance-2024-edition.json) |
 | Just Dance 2024 Edition: Deluxe Edition | 272411 | [272411-just-dance-2024-edition-deluxe-edition.json](./272411-just-dance-2024-edition-deluxe-edition.json) |
+| Just Dance 2024 Edition: Limited Edition | 253056 | [253056-just-dance-2024-edition-limited-edition.json](./253056-just-dance-2024-edition-limited-edition.json) |
 | Just Dance 2024 Edition: Ultimate Edition | 272412 | [272412-just-dance-2024-edition-ultimate-edition.json](./272412-just-dance-2024-edition-ultimate-edition.json) |
 | Just Dance 2025 Edition | 306150 | [306150-just-dance-2025-edition.json](./306150-just-dance-2025-edition.json) |
 | Just Dance 2025: Deluxe Edition | 320685 | [320685-just-dance-2025-deluxe-edition.json](./320685-just-dance-2025-deluxe-edition.json) |
