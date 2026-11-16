@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey: The Legend of Nemesis | 57383 | [57383-odyssey-the-legend-of-nemesis.json](./57383-odyssey-the-legend-of-nemesis.json) |
 | Odyssey: The Search for Ulysses | 24156 | [24156-odyssey-the-search-for-ulysses.json](./24156-odyssey-the-search-for-ulysses.json) |
 | Odyssian Blaze | 190993 | [190993-odyssian-blaze.json](./190993-odyssian-blaze.json) |
+| Oedipus / Antigone | 378078 | [378078-oedipus-antigone.json](./378078-oedipus-antigone.json) |
 | Oedipus Dating Sim | 89660 | [89660-oedipus-dating-sim.json](./89660-oedipus-dating-sim.json) |
 | Oedipus In My Inventory | 124597 | [124597-oedipus-in-my-inventory.json](./124597-oedipus-in-my-inventory.json) |
 | Oedo Developer | 369089 | [369089-oedo-developer.json](./369089-oedo-developer.json) |
