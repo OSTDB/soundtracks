@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvesters | 412676 | [412676-harvesters.json](./412676-harvesters.json) |
 | Harvey Birdman: Attorney at Law | 4907 | [4907-harvey-birdman-attorney-at-law.json](./4907-harvey-birdman-attorney-at-law.json) |
 | Harvey Birdman: File Frenzy | 396381 | [396381-harvey-birdman-file-frenzy.json](./396381-harvey-birdman-file-frenzy.json) |
+| Harvey Birdman: I Object! | 397347 | [397347-harvey-birdman-i-object.json](./397347-harvey-birdman-i-object.json) |
 | Harvey Headbanger | 14106 | [14106-harvey-headbanger.json](./14106-harvey-headbanger.json) |
 | Harvey Norman: Windsor Queensland - Super Shareware: Games Volume 1 | 333858 | [333858-harvey-norman-windsor-queensland-super-shareware-games-volume-1.json](./333858-harvey-norman-windsor-queensland-super-shareware-games-volume-1.json) |
 | Harvey's Hundreds | 329310 | [329310-harveys-hundreds.json](./329310-harveys-hundreds.json) |
@@ -3521,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Coach v3 | 70477 | [70477-head-coach-v3.json](./70477-head-coach-v3.json) |
 | Head Collector VR | 309436 | [309436-head-collector-vr.json](./309436-head-collector-vr.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
+| Head Games | 397345 | [397345-head-games.json](./397345-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
 | Head Goal: Soccer Online | 54447 | [54447-head-goal-soccer-online.json](./54447-head-goal-soccer-online.json) |
 | Head Hunters | 250980 | [250980-head-hunters.json](./250980-head-hunters.json) |
@@ -3594,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headhunters: Bang Bang | 323694 | [323694-headhunters-bang-bang.json](./323694-headhunters-bang-bang.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
 | Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
+| Headkicker II: The Final Kick | 397332 | [397332-headkicker-ii-the-final-kick.json](./397332-headkicker-ii-the-final-kick.json) |
 | Headland | 100440 | [100440-headland.json](./100440-headland.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
 | Headless Chicken | 260503 | [260503-headless-chicken.json](./260503-headless-chicken.json) |
@@ -10513,6 +10516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
 | Home Maid: Owari no Tachi | 70581 | [70581-home-maid-owari-no-tachi.json](./70581-home-maid-owari-no-tachi.json) |
 | Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
+| Home Movies: Look Alive! | 397333 | [397333-home-movies-look-alive.json](./397333-home-movies-look-alive.json) |
 | Home of the Yokai | 289601 | [289601-home-of-the-yokai.json](./289601-home-of-the-yokai.json) |
 | Home Office | 154062 | [154062-home-office.json](./154062-home-office.json) |
 | Home Office Hell | 178785 | [178785-home-office-hell.json](./178785-home-office-hell.json) |
