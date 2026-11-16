@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Sweeper | 89618 | [89618-easter-sweeper.json](./89618-easter-sweeper.json) |
 | Easter! | 292733 | [292733-easter.json](./292733-easter.json) |
 | Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
+| Eastern Adventures | 419006 | [419006-eastern-adventures.json](./419006-eastern-adventures.json) |
 | Eastern Block Summer | 410735 | [410735-eastern-block-summer.json](./410735-eastern-block-summer.json) |
 | Eastern Cuisine Tycoon | 318947 | [318947-eastern-cuisine-tycoon.json](./318947-eastern-cuisine-tycoon.json) |
 | Eastern Dream | 414546 | [414546-eastern-dream.json](./414546-eastern-dream.json) |
