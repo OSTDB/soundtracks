@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jianghu Diary | 340893 | [340893-jianghu-diary.json](./340893-jianghu-diary.json) |
 | JiangHu Record of Another World | 120707 | [120707-jianghu-record-of-another-world.json](./120707-jianghu-record-of-another-world.json) |
 | Jianghu Simulator | 194062 | [194062-jianghu-simulator.json](./194062-jianghu-simulator.json) |
+| Jianghu Survivor | 230589 | [230589-jianghu-survivor.json](./230589-jianghu-survivor.json) |
 | Jiānghú Xíng | 154763 | [154763-jianghu-xing.json](./154763-jianghu-xing.json) |
 | Jiānghú Yúshēng: Yuánqǐ | 395753 | [395753-jianghu-yusheng-yuanqi.json](./395753-jianghu-yusheng-yuanqi.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
