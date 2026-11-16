@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Everywhere 2 | 174068 | [174068-zombies-everywhere-2.json](./174068-zombies-everywhere-2.json) |
 | Zombies Everywhere 3 | 405736 | [405736-zombies-everywhere-3.json](./405736-zombies-everywhere-3.json) |
 | Zombies Everywhere! Augmented Reality Apocalypse (Halloween Edition) | 102652 | [102652-zombies-everywhere-augmented-reality-apocalypse-halloween-edition.json](./102652-zombies-everywhere-augmented-reality-apocalypse-halloween-edition.json) |
+| Zombies Hate to Die | 381477 | [381477-zombies-hate-to-die.json](./381477-zombies-hate-to-die.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
 | Zombies in Metropolis | 230898 | [230898-zombies-in-metropolis.json](./230898-zombies-in-metropolis.json) |
 | Zombies in Space | 143602 | [143602-zombies-in-space.json](./143602-zombies-in-space.json) |
