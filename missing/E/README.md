@@ -3767,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
 | Empire of Sin: Day One Edition | 176888 | [176888-empire-of-sin-day-one-edition.json](./176888-empire-of-sin-day-one-edition.json) |
 | Empire of Sin: Deluxe Edition | 143486 | [143486-empire-of-sin-deluxe-edition.json](./143486-empire-of-sin-deluxe-edition.json) |
+| Empire of Sin: Deluxe Pack | 238158 | [238158-empire-of-sin-deluxe-pack.json](./238158-empire-of-sin-deluxe-pack.json) |
 | Empire of Sin: Hunt For Aurora | 202743 | [202743-empire-of-sin-hunt-for-aurora.json](./202743-empire-of-sin-hunt-for-aurora.json) |
 | Empire of Sin: Make It Count | 193431 | [193431-empire-of-sin-make-it-count.json](./193431-empire-of-sin-make-it-count.json) |
 | Empire of Sin: Premium Edition | 143487 | [143487-empire-of-sin-premium-edition.json](./143487-empire-of-sin-premium-edition.json) |
@@ -3979,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted in the Moonlight | 238427 | [238427-enchanted-in-the-moonlight.json](./238427-enchanted-in-the-moonlight.json) |
 | Enchanted in the Moonlight: Fated Romance - A Foxy Butler!? | 238156 | [238156-enchanted-in-the-moonlight-fated-romance-a-foxy-butler.json](./238156-enchanted-in-the-moonlight-fated-romance-a-foxy-butler.json) |
 | Enchanted in the Moonlight: Fated Romance - Love in the Time of Blogging | 238155 | [238155-enchanted-in-the-moonlight-fated-romance-love-in-the-time-of-blogging.json](./238155-enchanted-in-the-moonlight-fated-romance-love-in-the-time-of-blogging.json) |
+| Enchanted in the Moonlight: Fated Romance - Paws or Claws? | 238157 | [238157-enchanted-in-the-moonlight-fated-romance-paws-or-claws.json](./238157-enchanted-in-the-moonlight-fated-romance-paws-or-claws.json) |
 | Enchanted in the Moonlight: Fated Romance - The Dear Bird's Call | 238154 | [238154-enchanted-in-the-moonlight-fated-romance-the-dear-birds-call.json](./238154-enchanted-in-the-moonlight-fated-romance-the-dear-birds-call.json) |
 | Enchanted in the Moonlight: Fated Romance - The Weight of Love | 238153 | [238153-enchanted-in-the-moonlight-fated-romance-the-weight-of-love.json](./238153-enchanted-in-the-moonlight-fated-romance-the-weight-of-love.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo | 119510 | [119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json](./119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json) |
@@ -4064,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
 | Encounter Dinosaurs | 327696 | [327696-encounter-dinosaurs.json](./327696-encounter-dinosaurs.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
+| Encounter of island | 236024 | [236024-encounter-of-island.json](./236024-encounter-of-island.json) |
 | Encounter the Light | 150802 | [150802-encounter-the-light.json](./150802-encounter-the-light.json) |
 | Encounter: A 8-Bit Noir Adventure | 371192 | [371192-encounter-a-8-bit-noir-adventure.json](./371192-encounter-a-8-bit-noir-adventure.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
@@ -4152,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End War RTS: Alien invasion | 174463 | [174463-end-war-rts-alien-invasion.json](./174463-end-war-rts-alien-invasion.json) |
 | End's beginning | 310715 | [310715-ends-beginning.json](./310715-ends-beginning.json) |
 | End's Reach | 325331 | [325331-ends-reach.json](./325331-ends-reach.json) |
+| Endalor | 235959 | [235959-endalor.json](./235959-endalor.json) |
 | Endangered | 32077 | [32077-endangered.json](./32077-endangered.json) |
 | Endangered Proposition | 119599 | [119599-endangered-proposition.json](./119599-endangered-proposition.json) |
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
