@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
 | S#arp Shooter | 31220 | [31220-s-arp-shooter.json](./31220-s-arp-shooter.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
+| S0lavita | 379256 | [379256-s0lavita.json](./379256-s0lavita.json) |
 | S0urce.io | 108129 | [108129-s0urce-io.json](./108129-s0urce-io.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
 | S2: Silent Storm - Gold Edition | 51870 | [51870-s2-silent-storm-gold-edition.json](./51870-s2-silent-storm-gold-edition.json) |
@@ -16025,6 +16026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64RT | 307740 | [307740-sm64rt.json](./307740-sm64rt.json) |
 | SM74&EE | 378288 | [378288-sm74-and-ee.json](./378288-sm74-and-ee.json) |
 | Små Ord | 319184 | [319184-sma-ord.json](./319184-sma-ord.json) |
+| SMA2 Micro-Hack: The Return to Dinosaur Land | 379268 | [379268-sma2-micro-hack-the-return-to-dinosaur-land.json](./379268-sma2-micro-hack-the-return-to-dinosaur-land.json) |
 | Smack | 300836 | [300836-smack.json](./300836-smack.json) |
 | Smack it! Punch Champion | 376763 | [376763-smack-it-punch-champion.json](./376763-smack-it-punch-champion.json) |
 | Smack Monkey | 332989 | [332989-smack-monkey.json](./332989-smack-monkey.json) |
@@ -25483,6 +25485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
 | Spooktective | 117953 | [117953-spooktective.json](./117953-spooktective.json) |
 | Spooktober Visual Novel Jam! | 315994 | [315994-spooktober-visual-novel-jam.json](./315994-spooktober-visual-novel-jam.json) |
+| Spookular Game | 378084 | [378084-spookular-game.json](./378084-spookular-game.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookville: Cabin Escape | 291298 | [291298-spookville-cabin-escape.json](./291298-spookville-cabin-escape.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
@@ -30623,6 +30626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Crawler Plus | 335041 | [335041-stone-crawler-plus.json](./335041-stone-crawler-plus.json) |
 | Stone Creek | 421786 | [421786-stone-creek.json](./421786-stone-creek.json) |
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
+| Stone Eternal | 378079 | [378079-stone-eternal.json](./378079-stone-eternal.json) |
 | Stone Flood | 87392 | [87392-stone-flood.json](./87392-stone-flood.json) |
 | Stone Flower | 308073 | [308073-stone-flower.json](./308073-stone-flower.json) |
 | Stone Flower | 61594 | [61594-stone-flower.json](./61594-stone-flower.json) |
@@ -30938,6 +30942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormrise | 7197 | [7197-stormrise.json](./7197-stormrise.json) |
 | Stormrite | 136567 | [136567-stormrite.json](./136567-stormrite.json) |
+| Stormrunner | 378091 | [378091-stormrunner.json](./378091-stormrunner.json) |
 | Storms | 130259 | [130259-storms.json](./130259-storms.json) |
 | Storms 2 | 173007 | [173007-storms-2.json](./173007-storms-2.json) |
 | Storms of Sea | 429382 | [429382-storms-of-sea.json](./429382-storms-of-sea.json) |
@@ -32215,6 +32220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
 | Striker | 237504 | [237504-striker.json](./237504-striker.json) |
 | Striker '95 | 92814 | [92814-striker-95.json](./92814-striker-95.json) |
+| Striker A Type Game Pack | 378118 | [378118-striker-a-type-game-pack.json](./378118-striker-a-type-game-pack.json) |
 | Striker Arena | 175158 | [175158-striker-arena.json](./175158-striker-arena.json) |
 | Striker Hero | 368705 | [368705-striker-hero.json](./368705-striker-hero.json) |
 | Striker Manager 3 | 255465 | [255465-striker-manager-3.json](./255465-striker-manager-3.json) |
@@ -38045,6 +38051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series Quiz Master Red | 378567 | [378567-superlite-1500-series-quiz-master-red.json](./378567-superlite-1500-series-quiz-master-red.json) |
 | SuperLite 1500 Series Quiz Master Yellow | 382558 | [382558-superlite-1500-series-quiz-master-yellow.json](./382558-superlite-1500-series-quiz-master-yellow.json) |
 | SuperLite 1500 series: Bomb Boat | 54742 | [54742-superlite-1500-series-bomb-boat.json](./54742-superlite-1500-series-bomb-boat.json) |
+| SuperLite 1500 Series: Cards II | 378093 | [378093-superlite-1500-series-cards-ii.json](./378093-superlite-1500-series-cards-ii.json) |
 | SuperLite 1500 Series: Crossword | 382566 | [382566-superlite-1500-series-crossword.json](./382566-superlite-1500-series-crossword.json) |
 | SuperLite 1500 Series: Crossword 2 | 382567 | [382567-superlite-1500-series-crossword-2.json](./382567-superlite-1500-series-crossword-2.json) |
 | SuperLite 1500 Series: Crossword 3 | 382568 | [382568-superlite-1500-series-crossword-3.json](./382568-superlite-1500-series-crossword-3.json) |
@@ -40581,6 +40588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sync Your Mind | 287748 | [287748-sync-your-mind.json](./287748-sync-your-mind.json) |
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
 | SYNC: Since You Never Came | 301950 | [301950-sync-since-you-never-came.json](./301950-sync-since-you-never-came.json) |
+| Syncblade | 378085 | [378085-syncblade.json](./378085-syncblade.json) |
 | Synced | 121751 | [121751-synced.json](./121751-synced.json) |
 | Synced Warriors | 81700 | [81700-synced-warriors.json](./81700-synced-warriors.json) |
 | Synced: Season 1 - Lambent Dawn Trailer | 365090 | [365090-synced-season-1-lambent-dawn-trailer.json](./365090-synced-season-1-lambent-dawn-trailer.json) |
