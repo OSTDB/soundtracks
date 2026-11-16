@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Submarine | 46916 | [46916-yellow-submarine.json](./46916-yellow-submarine.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
+| Yellow*Demon | 358556 | [358556-yellow-demon.json](./358556-yellow-demon.json) |
 | Yellowcreek Stories: The Cabin Watcher | 392567 | [392567-yellowcreek-stories-the-cabin-watcher.json](./392567-yellowcreek-stories-the-cabin-watcher.json) |
 | YellowDream | 134484 | [134484-yellowdream.json](./134484-yellowdream.json) |
 | Yellowlooper | 167521 | [167521-yellowlooper.json](./167521-yellowlooper.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Return | 389372 | [389372-yokai-return.json](./389372-yokai-return.json) |
 | Yokai Senki | 82587 | [82587-yokai-senki.json](./82587-yokai-senki.json) |
 | Yokai Taiji | 152998 | [152998-yokai-taiji.json](./152998-yokai-taiji.json) |
+| Yokai Tales | 346849 | [346849-yokai-tales.json](./346849-yokai-tales.json) |
 | Yokai Tales: Fox | 295411 | [295411-yokai-tales-fox.json](./295411-yokai-tales-fox.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
 | Yokai Tantei Chima Chima | 138872 | [138872-yokai-tantei-chima-chima.json](./138872-yokai-tantei-chima-chima.json) |
