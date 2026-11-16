@@ -5112,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Hours | 117511 | [117511-after-hours.json](./117511-after-hours.json) |
 | After Hours | 307401 | [307401-after-hours.json](./307401-after-hours.json) |
 | After Hours Athletes | 44603 | [44603-after-hours-athletes.json](./44603-after-hours-athletes.json) |
+| After Hours: Library | 367860 | [367860-after-hours-library.json](./367860-after-hours-library.json) |
 | After Hue | 401467 | [401467-after-hue.json](./401467-after-hue.json) |
 | After I Met That Catgirl, My Questlist Got Too Long! | 117631 | [117631-after-i-met-that-catgirl-my-questlist-got-too-long.json](./117631-after-i-met-that-catgirl-my-questlist-got-too-long.json) |
 | After Inc: Revival | 344549 | [344549-after-inc-revival.json](./344549-after-inc-revival.json) |
@@ -17046,6 +17047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend | 425840 | [425840-ascend.json](./425840-ascend.json) |
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
 | Ascend of Arlo | 252011 | [252011-ascend-of-arlo.json](./252011-ascend-of-arlo.json) |
+| Ascend The Well | 367864 | [367864-ascend-the-well.json](./367864-ascend-the-well.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascend: Reborn | 219712 | [219712-ascend-reborn.json](./219712-ascend-reborn.json) |
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
