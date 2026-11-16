@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
 | October Ordeal | 318511 | [318511-october-ordeal.json](./318511-october-ordeal.json) |
 | October Panic | 319283 | [319283-october-panic.json](./319283-october-panic.json) |
+| October: Survivor's Guilt | 410502 | [410502-october-survivors-guilt.json](./410502-october-survivors-guilt.json) |
 | Octocopter: Double or Squids | 96173 | [96173-octocopter-double-or-squids.json](./96173-octocopter-double-or-squids.json) |
 | Octocopter: Super Sub Squid Escape | 85317 | [85317-octocopter-super-sub-squid-escape.json](./85317-octocopter-super-sub-squid-escape.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
@@ -824,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odin Sphere: Leifthrasir - Storybook Edition | 42958 | [42958-odin-sphere-leifthrasir-storybook-edition.json](./42958-odin-sphere-leifthrasir-storybook-edition.json) |
 | Odin: Valhalla Rising | 137939 | [137939-odin-valhalla-rising.json](./137939-odin-valhalla-rising.json) |
 | Odin's Adventures | 232081 | [232081-odins-adventures.json](./232081-odins-adventures.json) |
+| Odin's Chess | 409166 | [409166-odins-chess.json](./409166-odins-chess.json) |
 | Odin's Fate | 425873 | [425873-odins-fate.json](./425873-odins-fate.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odin's Tea Party | 226131 | [226131-odins-tea-party.json](./226131-odins-tea-party.json) |
@@ -5318,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oukaranman | 59408 | [59408-oukaranman.json](./59408-oukaranman.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Oukoku no Grand Chef | 137625 | [137625-oukoku-no-grand-chef.json](./137625-oukoku-no-grand-chef.json) |
+| Oukoku Senki Moshimo Gaia | 410270 | [410270-oukoku-senki-moshimo-gaia.json](./410270-oukoku-senki-moshimo-gaia.json) |
 | Oukoku Shoutengai | 138427 | [138427-oukoku-shoutengai.json](./138427-oukoku-shoutengai.json) |
 | Oukyuu no Hihou: Tenshon | 241893 | [241893-oukyuu-no-hihou-tenshon.json](./241893-oukyuu-no-hihou-tenshon.json) |
 | Ouma ga Toki | 210779 | [210779-ouma-ga-toki.json](./210779-ouma-ga-toki.json) |
