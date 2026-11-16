@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harve | 275851 | [275851-harve.json](./275851-harve.json) |
 | Harventure | 349279 | [349279-harventure.json](./349279-harventure.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
+| Harvest | 349009 | [349009-harvest.json](./349009-harvest.json) |
 | Harvest | 397463 | [397463-harvest.json](./397463-harvest.json) |
 | Harvest | 88389 | [88389-harvest.json](./88389-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
@@ -3288,7 +3289,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven & Hearth | 213961 | [213961-haven-and-hearth.json](./213961-haven-and-hearth.json) |
 | Haven & Hearth | 328235 | [328235-haven-and-hearth.json](./328235-haven-and-hearth.json) |
 | Haven & Hearth | 94176 | [94176-haven-and-hearth.json](./94176-haven-and-hearth.json) |
-| Haven Moon | 20399 | [20399-haven-moon.json](./20399-haven-moon.json) |
 | Haven Park | 146631 | [146631-haven-park.json](./146631-haven-park.json) |
 | Haven Restored | 389929 | [389929-haven-restored.json](./389929-haven-restored.json) |
 | Haven: Call of the King | 19090 | [19090-haven-call-of-the-king.json](./19090-haven-call-of-the-king.json) |
@@ -12742,7 +12742,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Havoc | 32143 | [32143-hover-havoc.json](./32143-hover-havoc.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
-| Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
 | Hover League | 232293 | [232293-hover-league.json](./232293-hover-league.json) |
 | Hover Muscle | 219836 | [219836-hover-muscle.json](./219836-hover-muscle.json) |
 | Hover Phoenix | 394197 | [394197-hover-phoenix.json](./394197-hover-phoenix.json) |
