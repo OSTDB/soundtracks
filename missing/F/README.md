@@ -6384,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Home | 190252 | [190252-finding-home.json](./190252-finding-home.json) |
 | Finding Hooman | 419785 | [419785-finding-hooman.json](./419785-finding-hooman.json) |
 | Finding Hope | 32520 | [32520-finding-hope.json](./32520-finding-hope.json) |
+| Finding Ice | 214066 | [214066-finding-ice.json](./214066-finding-ice.json) |
 | Finding Jack's Treasure | 95956 | [95956-finding-jacks-treasure.json](./95956-finding-jacks-treasure.json) |
 | Finding Kathy | 151333 | [151333-finding-kathy.json](./151333-finding-kathy.json) |
 | Finding Lake Chewaucan | 410689 | [410689-finding-lake-chewaucan.json](./410689-finding-lake-chewaucan.json) |
@@ -6695,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Four Kings - Deposition | 214495 | [214495-fire-emblem-four-kings-deposition.json](./214495-fire-emblem-four-kings-deposition.json) |
 | Fire Emblem: Fuuin no Tsurugi | 1438 | [1438-fire-emblem-fuuin-no-tsurugi.json](./1438-fire-emblem-fuuin-no-tsurugi.json) |
 | Fire Emblem: Gilmore Girls | 146274 | [146274-fire-emblem-gilmore-girls.json](./146274-fire-emblem-gilmore-girls.json) |
+| Fire Emblem: Heaven's Bloom | 212943 | [212943-fire-emblem-heavens-bloom.json](./212943-fire-emblem-heavens-bloom.json) |
 | Fire Emblem: Hetja's Quest | 356720 | [356720-fire-emblem-hetjas-quest.json](./356720-fire-emblem-hetjas-quest.json) |
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Illuminated | 341470 | [341470-fire-emblem-illuminated.json](./341470-fire-emblem-illuminated.json) |
