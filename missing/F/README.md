@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: The Pitt | 217785 | [217785-fallout-76-the-pitt.json](./217785-fallout-76-the-pitt.json) |
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: The Pitt Recruitment Bundle | 230146 | [230146-fallout-76-the-pitt-recruitment-bundle.json](./230146-fallout-76-the-pitt-recruitment-bundle.json) |
+| Fallout 76: The Slasher | 418501 | [418501-fallout-76-the-slasher.json](./418501-fallout-76-the-slasher.json) |
 | Fallout 76: Tricentennial Edition | 103308 | [103308-fallout-76-tricentennial-edition.json](./103308-fallout-76-tricentennial-edition.json) |
 | Fallout 76: Wastelanders - Deluxe Edition | 132975 | [132975-fallout-76-wastelanders-deluxe-edition.json](./132975-fallout-76-wastelanders-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FAR: Universe Bundle | 253791 | [253791-far-universe-bundle.json](./253791-far-universe-bundle.json) |
 | Fara | 123272 | [123272-fara.json](./123272-fara.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
+| Faraday Blues | 418498 | [418498-faraday-blues.json](./418498-faraday-blues.json) |
 | Faraday Protocol | 143423 | [143423-faraday-protocol.json](./143423-faraday-protocol.json) |
 | Faraday's Flaw | 310583 | [310583-faradays-flaw.json](./310583-faradays-flaw.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
@@ -3541,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Season Pass 2 | 411286 | [411286-fatal-fury-city-of-the-wolves-season-pass-2.json](./411286-fatal-fury-city-of-the-wolves-season-pass-2.json) |
 | Fatal Fury: City of the Wolves - Season Pass 3 | 411285 | [411285-fatal-fury-city-of-the-wolves-season-pass-3.json](./411285-fatal-fury-city-of-the-wolves-season-pass-3.json) |
 | Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
+| Fatal Fury: City of the Wolves - Starter Edition | 418335 | [418335-fatal-fury-city-of-the-wolves-starter-edition.json](./418335-fatal-fury-city-of-the-wolves-starter-edition.json) |
 | Fatal Fury: City of the Wolves - Wolfgang Krauser | 388990 | [388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json](./388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json) |
 | Fatal Fury: First Contact | 44000 | [44000-fatal-fury-first-contact.json](./44000-fatal-fury-first-contact.json) |
 | Fatal Fury: Wild Ambition | 28138 | [28138-fatal-fury-wild-ambition.json](./28138-fatal-fury-wild-ambition.json) |
@@ -8427,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Tennis | 312805 | [312805-flash-tennis.json](./312805-flash-tennis.json) |
 | Flash The Simpsons Pacman | 334955 | [334955-flash-the-simpsons-pacman.json](./334955-flash-the-simpsons-pacman.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
+| Flash's Bounty | 418461 | [418461-flashs-bounty.json](./418461-flashs-bounty.json) |
 | Flashback | 185854 | [185854-flashback.json](./185854-flashback.json) |
 | Flashback | 19833 | [19833-flashback.json](./19833-flashback.json) |
 | Flashback | 236148 | [236148-flashback.json](./236148-flashback.json) |
@@ -12224,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fountain | 395120 | [395120-fountain.json](./395120-fountain.json) |
 | Fountain of Dreams | 73799 | [73799-fountain-of-dreams.json](./73799-fountain-of-dreams.json) |
 | Fountains | 203752 | [203752-fountains.json](./203752-fountains.json) |
+| Fountains: Extended Edition | 418334 | [418334-fountains-extended-edition.json](./418334-fountains-extended-edition.json) |
 | Fountains: Shattered Shape | 414457 | [414457-fountains-shattered-shape.json](./414457-fountains-shattered-shape.json) |
 | Fountaintale | 313435 | [313435-fountaintale.json](./313435-fountaintale.json) |
 | Fountaintale: Chapter 1 | 313436 | [313436-fountaintale-chapter-1.json](./313436-fountaintale-chapter-1.json) |
@@ -12354,6 +12359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
 | Fox and Frog Travelers: The Demon of Adashino Island | 204377 | [204377-fox-and-frog-travelers-the-demon-of-adashino-island.json](./204377-fox-and-frog-travelers-the-demon-of-adashino-island.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
+| Fox Arcana | 418443 | [418443-fox-arcana.json](./418443-fox-arcana.json) |
 | Fox Den Remake | 222653 | [222653-fox-den-remake.json](./222653-fox-den-remake.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
 | Fox face kills! | 139592 | [139592-fox-face-kills.json](./139592-fox-face-kills.json) |
@@ -12388,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FOX Sports Racing | 23755 | [23755-fox-sports-racing.json](./23755-fox-sports-racing.json) |
 | Fox Sports Soccer '99 | 139246 | [139246-fox-sports-soccer-99.json](./139246-fox-sports-soccer-99.json) |
 | Fox Sports Tennis '99 | 81276 | [81276-fox-sports-tennis-99.json](./81276-fox-sports-tennis-99.json) |
+| Fox Stamps | 418483 | [418483-fox-stamps.json](./418483-fox-stamps.json) |
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
 | Fox Tales: The Skeleton King | 62294 | [62294-fox-tales-the-skeleton-king.json](./62294-fox-tales-the-skeleton-king.json) |
 | Fox Trot | 289801 | [289801-fox-trot.json](./289801-fox-trot.json) |
