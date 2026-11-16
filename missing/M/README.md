@@ -17590,6 +17590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolithic | 151269 | [151269-monolithic.json](./151269-monolithic.json) |
 | Monolithic Candle Chapter.1 | 82517 | [82517-monolithic-candle-chapter-1.json](./82517-monolithic-candle-chapter-1.json) |
 | Monolithic Candle Chapter.2 | 82518 | [82518-monolithic-candle-chapter-2.json](./82518-monolithic-candle-chapter-2.json) |
+| Monolithic Laser | 279820 | [279820-monolithic-laser.json](./279820-monolithic-laser.json) |
 | Monolithus | 386761 | [386761-monolithus.json](./386761-monolithus.json) |
 | Monologin | 404618 | [404618-monologin.json](./404618-monologin.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
@@ -21059,6 +21060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Amo | 259896 | [259896-mr-amo.json](./259896-mr-amo.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
+| Mr. Angry Dude | 279824 | [279824-mr-angry-dude.json](./279824-mr-angry-dude.json) |
 | Mr. Ashfish's Distant Rehab | 350701 | [350701-mr-ashfishs-distant-rehab.json](./350701-mr-ashfishs-distant-rehab.json) |
 | Mr. Ball | 232512 | [232512-mr-ball.json](./232512-mr-ball.json) |
 | Mr. Balls | 230677 | [230677-mr-balls.json](./230677-mr-balls.json) |
@@ -22633,6 +22635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muyuu | 166437 | [166437-muyuu.json](./166437-muyuu.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzegate | 158845 | [158845-muzegate.json](./158845-muzegate.json) |
+| Muzy | 279847 | [279847-muzy.json](./279847-muzy.json) |
 | Muzzle Flash | 62073 | [62073-muzzle-flash.json](./62073-muzzle-flash.json) |
 | Muzzle Run | 247304 | [247304-muzzle-run.json](./247304-muzzle-run.json) |
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
