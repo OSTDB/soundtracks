@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Bagel | 141626 | [141626-tall-bagel.json](./141626-tall-bagel.json) |
 | Tall Bagel 2: Avocado Hardtack | 186377 | [186377-tall-bagel-2-avocado-hardtack.json](./186377-tall-bagel-2-avocado-hardtack.json) |
+| Tall Chess | 246134 | [246134-tall-chess.json](./246134-tall-chess.json) |
 | Tall Infinity | 45062 | [45062-tall-infinity.json](./45062-tall-infinity.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
 | Tall Order | 157271 | [157271-tall-order.json](./157271-tall-order.json) |
@@ -7495,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Yorle: Save the Kingdom | 172065 | [172065-the-book-of-yorle-save-the-kingdom.json](./172065-the-book-of-yorle-save-the-kingdom.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
 | The Book: Gunsmith's Battles Echoes | 236086 | [236086-the-book-gunsmiths-battles-echoes.json](./236086-the-book-gunsmiths-battles-echoes.json) |
+| The Bookkeeper | 249406 | [249406-the-bookkeeper.json](./249406-the-bookkeeper.json) |
 | The Bookman | 385973 | [385973-the-bookman.json](./385973-the-bookman.json) |
 | The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
 | The Bookshelf Limbo | 134269 | [134269-the-bookshelf-limbo.json](./134269-the-bookshelf-limbo.json) |
@@ -8147,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clean Up Clyde Collection | 111874 | [111874-the-clean-up-clyde-collection.json](./111874-the-clean-up-clyde-collection.json) |
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
 | The Cleaner | 224880 | [224880-the-cleaner.json](./224880-the-cleaner.json) |
+| The Cleaner | 249413 | [249413-the-cleaner.json](./249413-the-cleaner.json) |
 | The Cleaner | 399507 | [399507-the-cleaner.json](./399507-the-cleaner.json) |
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Cleaning Game | 327333 | [327333-the-cleaning-game.json](./327333-the-cleaning-game.json) |
@@ -27217,6 +27220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Run: Remastered | 350364 | [350364-tofu-run-remastered.json](./350364-tofu-run-remastered.json) |
 | Tofu Topple | 143379 | [143379-tofu-topple.json](./143379-tofu-topple.json) |
 | Tofu Tower | 164296 | [164296-tofu-tower.json](./164296-tofu-tower.json) |
+| Tofu Tower | 249421 | [249421-tofu-tower.json](./249421-tofu-tower.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
 | Togabito no Senritsu | 222107 | [222107-togabito-no-senritsu.json](./222107-togabito-no-senritsu.json) |
