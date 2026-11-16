@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You See What I See?: Dream Machine | 312210 | [312210-can-you-see-what-i-see-dream-machine.json](./312210-can-you-see-what-i-see-dream-machine.json) |
 | Can You Survive the Scream House? | 419120 | [419120-can-you-survive-the-scream-house.json](./419120-can-you-survive-the-scream-house.json) |
 | Can You Survive?: Survival World | 95825 | [95825-can-you-survive-survival-world.json](./95825-can-you-survive-survival-world.json) |
+| Can Your Otaku Cabinet Grow a Beautiful Girl? | 419802 | [419802-can-your-otaku-cabinet-grow-a-beautiful-girl.json](./419802-can-your-otaku-cabinet-grow-a-beautiful-girl.json) |
 | Can Your Pet | 215086 | [215086-can-your-pet.json](./215086-can-your-pet.json) |
 | Can Your Pet 2: Returns | 240842 | [240842-can-your-pet-2-returns.json](./240842-can-your-pet-2-returns.json) |
 | Can Your Talking? | 248269 | [248269-can-your-talking.json](./248269-can-your-talking.json) |
@@ -18345,6 +18346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankin Car | 230745 | [230745-crankin-car.json](./230745-crankin-car.json) |
 | Crankin's Time Travel Adventure | 151957 | [151957-crankins-time-travel-adventure.json](./151957-crankins-time-travel-adventure.json) |
 | CrankLander | 413588 | [413588-cranklander.json](./413588-cranklander.json) |
+| Crankles | 419817 | [419817-crankles.json](./419817-crankles.json) |
 | Cranklish | 404571 | [404571-cranklish.json](./404571-cranklish.json) |
 | CranKnight | 339703 | [339703-cranknight.json](./339703-cranknight.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
@@ -20696,6 +20698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CruiSim | 328136 | [328136-cruisim.json](./328136-cruisim.json) |
 | Cruising on Broadway | 14020 | [14020-cruising-on-broadway.json](./14020-cruising-on-broadway.json) |
 | Crumb Circuit Simulator | 225986 | [225986-crumb-circuit-simulator.json](./225986-crumb-circuit-simulator.json) |
+| Crumbeats | 419836 | [419836-crumbeats.json](./419836-crumbeats.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
 | Crumble and Fall | 183499 | [183499-crumble-and-fall.json](./183499-crumble-and-fall.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
@@ -22451,6 +22454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fates: The Headless Horseman | 63432 | [63432-cursed-fates-the-headless-horseman.json](./63432-cursed-fates-the-headless-horseman.json) |
 | Cursed Fates: The Headless Horseman - Collector's Edition | 417777 | [417777-cursed-fates-the-headless-horseman-collectors-edition.json](./417777-cursed-fates-the-headless-horseman-collectors-edition.json) |
 | Cursed Frontier | 374572 | [374572-cursed-frontier.json](./374572-cursed-frontier.json) |
+| Cursed Gas Station | 419730 | [419730-cursed-gas-station.json](./419730-cursed-gas-station.json) |
 | Cursed Gem | 129411 | [129411-cursed-gem.json](./129411-cursed-gem.json) |
 | Cursed Ghost | 389918 | [389918-cursed-ghost.json](./389918-cursed-ghost.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
