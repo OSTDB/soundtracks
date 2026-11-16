@@ -4544,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordia | 115207 | [115207-ordia.json](./115207-ordia.json) |
 | Ordinary Day | 236418 | [236418-ordinary-day.json](./236418-ordinary-day.json) |
 | Ordinary Family | 126433 | [126433-ordinary-family.json](./126433-ordinary-family.json) |
+| Ordinary Heroes | 347937 | [347937-ordinary-heroes.json](./347937-ordinary-heroes.json) |
 | Ordinary Human Game | 164653 | [164653-ordinary-human-game.json](./164653-ordinary-human-game.json) |
 | Ordinary Oddness | 425220 | [425220-ordinary-oddness.json](./425220-ordinary-oddness.json) |
 | Ordinary Rooms | 253237 | [253237-ordinary-rooms.json](./253237-ordinary-rooms.json) |
@@ -5796,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcasts of Dungeon | 195191 | [195191-outcasts-of-dungeon.json](./195191-outcasts-of-dungeon.json) |
 | Outcasts of Orion | 156760 | [156760-outcasts-of-orion.json](./156760-outcasts-of-orion.json) |
 | Outcasts of the Rift | 236914 | [236914-outcasts-of-the-rift.json](./236914-outcasts-of-the-rift.json) |
+| Outcity | 347919 | [347919-outcity.json](./347919-outcity.json) |
 | Outclaw | 354931 | [354931-outclaw.json](./354931-outclaw.json) |
 | Outcore: Desktop Adventure | 156612 | [156612-outcore-desktop-adventure.json](./156612-outcore-desktop-adventure.json) |
 | Outcry | 13194 | [13194-outcry.json](./13194-outcry.json) |
