@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
 | Once Upon a Swagman | 423248 | [423248-once-upon-a-swagman.json](./423248-once-upon-a-swagman.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
+| Once Upon a Tile | 258231 | [258231-once-upon-a-tile.json](./258231-once-upon-a-tile.json) |
 | Once upon a time | 68488 | [68488-once-upon-a-time.json](./68488-once-upon-a-time.json) |
 | Once Upon a Time | 376670 | [376670-once-upon-a-time.json](./376670-once-upon-a-time.json) |
 | Once Upon A Time | 51189 | [51189-once-upon-a-time.json](./51189-once-upon-a-time.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshukuju | 316665 | [316665-oshukuju.json](./316665-oshukuju.json) |
 | Osiris | 116067 | [116067-osiris.json](./116067-osiris.json) |
 | Osiris | 224954 | [224954-osiris.json](./224954-osiris.json) |
+| Osiris | 261476 | [261476-osiris.json](./261476-osiris.json) |
 | Osiris | 294900 | [294900-osiris.json](./294900-osiris.json) |
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
 | Osk | 122149 | [122149-osk.json](./122149-osk.json) |
