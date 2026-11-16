@@ -13518,6 +13518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millipede | 231670 | [231670-millipede.json](./231670-millipede.json) |
 | Millipede | 239135 | [239135-millipede.json](./239135-millipede.json) |
 | Millipede | 239487 | [239487-millipede.json](./239487-millipede.json) |
+| Millipede | 290058 | [290058-millipede.json](./290058-millipede.json) |
 | Millipede / Super Breakout / Lunar Lander | 78289 | [78289-millipede-super-breakout-lunar-lander.json](./78289-millipede-super-breakout-lunar-lander.json) |
 | Millipede: Evolved | 329641 | [329641-millipede-evolved.json](./329641-millipede-evolved.json) |
 | Millispeed | 351633 | [351633-millispeed.json](./351633-millispeed.json) |
@@ -16340,6 +16341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
 | Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
 | Moai no Hihou | 41789 | [41789-moai-no-hihou.json](./41789-moai-no-hihou.json) |
+| Moai no Su | 290066 | [290066-moai-no-su.json](./290066-moai-no-su.json) |
 | Moai V: Collector's Edition | 96693 | [96693-moai-v-collectors-edition.json](./96693-moai-v-collectors-edition.json) |
 | Moai VI: Unexpected Guests | 117980 | [117980-moai-vi-unexpected-guests.json](./117980-moai-vi-unexpected-guests.json) |
 | Moai-kun | 48424 | [48424-moai-kun.json](./48424-moai-kun.json) |
