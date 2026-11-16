@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XON Episode Three | 100689 | [100689-xon-episode-three.json](./100689-xon-episode-three.json) |
 | XON Episode Two | 98833 | [98833-xon-episode-two.json](./98833-xon-episode-two.json) |
 | Xong VR | 115341 | [115341-xong-vr.json](./115341-xong-vr.json) |
+| Xonix | 239937 | [239937-xonix.json](./239937-xonix.json) |
 | Xonix | 261315 | [261315-xonix.json](./261315-xonix.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xonix32 | 355988 | [355988-xonix32.json](./355988-xonix32.json) |
