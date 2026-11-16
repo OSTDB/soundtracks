@@ -4069,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapping Simulator | 146968 | [146968-scrapping-simulator.json](./146968-scrapping-simulator.json) |
 | Scrappy Craft | 392723 | [392723-scrappy-craft.json](./392723-scrappy-craft.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
+| Scraps | 393054 | [393054-scraps.json](./393054-scraps.json) |
 | Scraps | 60740 | [60740-scraps.json](./60740-scraps.json) |
 | Scraps and Patches | 111726 | [111726-scraps-and-patches.json](./111726-scraps-and-patches.json) |
 | Scraps of the Machine | 377683 | [377683-scraps-of-the-machine.json](./377683-scraps-of-the-machine.json) |
@@ -10995,6 +10996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle Circle | 103552 | [103552-shuffle-circle.json](./103552-shuffle-circle.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle Fight | 48849 | [48849-shuffle-fight.json](./48849-shuffle-fight.json) |
+| Shuffle Hunt | 392532 | [392532-shuffle-hunt.json](./392532-shuffle-hunt.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
 | Shuffle Pix | 133311 | [133311-shuffle-pix.json](./133311-shuffle-pix.json) |
@@ -29663,6 +29665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelborn | 191211 | [191211-steelborn.json](./191211-steelborn.json) |
 | Steelborn: Tank Idle RPG | 418517 | [418517-steelborn-tank-idle-rpg.json](./418517-steelborn-tank-idle-rpg.json) |
 | Steelbreakers | 184842 | [184842-steelbreakers.json](./184842-steelbreakers.json) |
+| Steelcurse | 393031 | [393031-steelcurse.json](./393031-steelcurse.json) |
 | SteelFront | 350558 | [350558-steelfront.json](./350558-steelfront.json) |
 | SteelGuard | 382503 | [382503-steelguard.json](./382503-steelguard.json) |
 | SteelLife | 113541 | [113541-steellife.json](./113541-steellife.json) |
@@ -30555,6 +30558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Crown | 190359 | [190359-stolen-crown.json](./190359-stolen-crown.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Eggs | 172264 | [172264-stolen-eggs.json](./172264-stolen-eggs.json) |
+| Stolen Heart | 393671 | [393671-stolen-heart.json](./393671-stolen-heart.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Hearts | 158330 | [158330-stolen-hearts.json](./158330-stolen-hearts.json) |
 | Stolen Hearts: Wolf Knight | 285860 | [285860-stolen-hearts-wolf-knight.json](./285860-stolen-hearts-wolf-knight.json) |
@@ -31095,6 +31099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
 | Stranded II | 74098 | [74098-stranded-ii.json](./74098-stranded-ii.json) |
+| Stranded in Space | 392530 | [392530-stranded-in-space.json](./392530-stranded-in-space.json) |
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
 | Stranded in the Abyss | 372392 | [372392-stranded-in-the-abyss.json](./372392-stranded-in-the-abyss.json) |
 | Stranded in the Amazon | 210206 | [210206-stranded-in-the-amazon.json](./210206-stranded-in-the-amazon.json) |
@@ -33008,6 +33013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Affection | 169578 | [169578-succubus-affection.json](./169578-succubus-affection.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
+| Succubus Contract | 392536 | [392536-succubus-contract.json](./392536-succubus-contract.json) |
 | Succubus Dating | 203598 | [203598-succubus-dating.json](./203598-succubus-dating.json) |
 | Succubus Dungeon | 296698 | [296698-succubus-dungeon.json](./296698-succubus-dungeon.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
@@ -33560,6 +33566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikoden V | 1456 | [1456-suikoden-v.json](./1456-suikoden-v.json) |
 | Suikoden: Star Leap | 334108 | [334108-suikoden-star-leap.json](./334108-suikoden-star-leap.json) |
 | Suikoden: Tenmei no Chikai | 351030 | [351030-suikoden-tenmei-no-chikai.json](./351030-suikoden-tenmei-no-chikai.json) |
+| Suikoden: The Last Hope | 393676 | [393676-suikoden-the-last-hope.json](./393676-suikoden-the-last-hope.json) |
 | Suikoro | 236733 | [236733-suikoro.json](./236733-suikoro.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
@@ -33871,6 +33878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SummitX 2 | 200267 | [200267-summitx-2.json](./200267-summitx-2.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon a Sweetheart | 400605 | [400605-summon-a-sweetheart.json](./400605-summon-a-sweetheart.json) |
+| Summon And Fusion | 392524 | [392524-summon-and-fusion.json](./392524-summon-and-fusion.json) |
 | Summon Dragons 2 | 287453 | [287453-summon-dragons-2.json](./287453-summon-dragons-2.json) |
 | Summon Elemental | 223402 | [223402-summon-elemental.json](./223402-summon-elemental.json) |
 | Summon Island: The Robot Pirate Invasion Was Today?! | 422041 | [422041-summon-island-the-robot-pirate-invasion-was-today.json](./422041-summon-island-the-robot-pirate-invasion-was-today.json) |
