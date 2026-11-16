@@ -10796,6 +10796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plataforma branca | 153501 | [153501-plataforma-branca.json](./153501-plataforma-branca.json) |
 | PlatBall | 108340 | [108340-platball.json](./108340-platball.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
+| Platcore | 408827 | [408827-platcore.json](./408827-platcore.json) |
 | Platcross | 58668 | [58668-platcross.json](./58668-platcross.json) |
 | Platdude in A Bit of a Do! | 61948 | [61948-platdude-in-a-bit-of-a-do.json](./61948-platdude-in-a-bit-of-a-do.json) |
 | Platdude in A Bit of a Spin | 60927 | [60927-platdude-in-a-bit-of-a-spin.json](./60927-platdude-in-a-bit-of-a-spin.json) |
@@ -19106,6 +19107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psychroma | 204534 | [204534-psychroma.json](./204534-psychroma.json) |
 | PsychWorld | 250791 | [250791-psychworld.json](./250791-psychworld.json) |
+| Psyclone: The Cyber City | 408948 | [408948-psyclone-the-cyber-city.json](./408948-psyclone-the-cyber-city.json) |
 | PsycoCat | 118774 | [118774-psycocat.json](./118774-psycocat.json) |
 | Psycologico | 145774 | [145774-psycologico.json](./145774-psycologico.json) |
 | Psycorp | 422677 | [422677-psycorp.json](./422677-psycorp.json) |
