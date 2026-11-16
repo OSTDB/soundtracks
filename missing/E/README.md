@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embark Untitled Game | 115446 | [115446-embark-untitled-game.json](./115446-embark-untitled-game.json) |
 | Embarrassed Shina-chan: The Naked Wandering College Girl | 240630 | [240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json](./240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json) |
 | Embassy Assault | 12935 | [12935-embassy-assault.json](./12935-embassy-assault.json) |
+| Embassy Says No | 344617 | [344617-embassy-says-no.json](./344617-embassy-says-no.json) |
 | Embattled | 261872 | [261872-embattled.json](./261872-embattled.json) |
 | Embedded VR | 183686 | [183686-embedded-vr.json](./183686-embedded-vr.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
@@ -6986,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Secret | 158421 | [158421-eternal-secret.json](./158421-eternal-secret.json) |
 | Eternal Senia | 35715 | [35715-eternal-senia.json](./35715-eternal-senia.json) |
 | Eternal Senia: Hydrangea After the Rain | 139189 | [139189-eternal-senia-hydrangea-after-the-rain.json](./139189-eternal-senia-hydrangea-after-the-rain.json) |
+| Eternal Siege | 344597 | [344597-eternal-siege.json](./344597-eternal-siege.json) |
 | Eternal Silence | 29121 | [29121-eternal-silence.json](./29121-eternal-silence.json) |
 | Eternal Skirmish | 54112 | [54112-eternal-skirmish.json](./54112-eternal-skirmish.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
@@ -7105,7 +7107,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherian | 99303 | [99303-etherian.json](./99303-etherian.json) |
 | Etherion Online | 239650 | [239650-etherion-online.json](./239650-etherion-online.json) |
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
-| Etherium | 8923 | [8923-etherium.json](./8923-etherium.json) |
 | Etherjump | 219071 | [219071-etherjump.json](./219071-etherjump.json) |
 | Etherland Saga | 420620 | [420620-etherland-saga.json](./420620-etherland-saga.json) |
 | Etherlords | 11407 | [11407-etherlords.json](./11407-etherlords.json) |
