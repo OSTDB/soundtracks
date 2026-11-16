@@ -6585,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Mosaic Girls With Sess-AI 2.0 | 346008 | [346008-no-mosaic-girls-with-sess-ai-2-0.json](./346008-no-mosaic-girls-with-sess-ai-2-0.json) |
 | No Murders in Grimwick | 420464 | [420464-no-murders-in-grimwick.json](./420464-no-murders-in-grimwick.json) |
 | No Name Village | 237243 | [237243-no-name-village.json](./237243-no-name-village.json) |
+| No Name Yet Pixel Dungeon | 314082 | [314082-no-name-yet-pixel-dungeon.json](./314082-no-name-yet-pixel-dungeon.json) |
 | No Nap November | 383092 | [383092-no-nap-november.json](./383092-no-nap-november.json) |
 | No Need for Flowers | 334338 | [334338-no-need-for-flowers.json](./334338-no-need-for-flowers.json) |
 | No Observer | 292217 | [292217-no-observer.json](./292217-no-observer.json) |
