@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Horizon | 380050 | [380050-calm-horizon.json](./380050-calm-horizon.json) |
 | Calm Skies | 318295 | [318295-calm-skies.json](./318295-calm-skies.json) |
 | Calm the Storm | 350351 | [350351-calm-the-storm.json](./350351-calm-the-storm.json) |
+| Calm the Wolf | 399246 | [399246-calm-the-wolf.json](./399246-calm-the-wolf.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calm Waters | 30971 | [30971-calm-waters.json](./30971-calm-waters.json) |
 | Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
@@ -19615,6 +19616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket: Jae's Really Peculiar Game | 138882 | [138882-cricket-jaes-really-peculiar-game.json](./138882-cricket-jaes-really-peculiar-game.json) |
 | CricktoGame | 110862 | [110862-cricktogame.json](./110862-cricktogame.json) |
 | CricVRX: VR Cricket | 120772 | [120772-cricvrx-vr-cricket.json](./120772-cricvrx-vr-cricket.json) |
+| Crikeymas | 399235 | [399235-crikeymas.json](./399235-crikeymas.json) |
 | Crimanimals | 372082 | [372082-crimanimals.json](./372082-crimanimals.json) |
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
 | cRiMe | 93459 | [93459-crime.json](./93459-crime.json) |
