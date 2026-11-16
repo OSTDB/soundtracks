@@ -9856,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
 | Great Day On The Lake | 401958 | [401958-great-day-on-the-lake.json](./401958-great-day-on-the-lake.json) |
 | Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
+| Great Deceiver | 329871 | [329871-great-deceiver.json](./329871-great-deceiver.json) |
 | Great Eggzample | 68751 | [68751-great-eggzample.json](./68751-great-eggzample.json) |
 | Great Escape | 24454 | [24454-great-escape.json](./24454-great-escape.json) |
 | Great eSports Manager | 55485 | [55485-great-esports-manager.json](./55485-great-esports-manager.json) |
