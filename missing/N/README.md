@@ -7412,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
 | Noplace | 420564 | [420564-noplace.json](./420564-noplace.json) |
 | Nopotions | 410069 | [410069-nopotions.json](./410069-nopotions.json) |
+| Nopper's Blokkade | 415714 | [415714-noppers-blokkade.json](./415714-noppers-blokkade.json) |
 | Nopperabou | 155698 | [155698-nopperabou.json](./155698-nopperabou.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora | 82741 | [82741-nora.json](./82741-nora.json) |
