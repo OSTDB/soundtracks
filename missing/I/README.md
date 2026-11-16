@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
 | Idolaters | 401470 | [401470-idolaters.json](./401470-idolaters.json) |
 | Idolish7 Twelve Fantasia! | 136760 | [136760-idolish7-twelve-fantasia.json](./136760-idolish7-twelve-fantasia.json) |
+| Idolize | 258148 | [258148-idolize.json](./258148-idolize.json) |
 | Idols Galore! | 92700 | [92700-idols-galore.json](./92700-idols-galore.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
 | Idols Of Starlight | 357436 | [357436-idols-of-starlight.json](./357436-idols-of-starlight.json) |
@@ -6216,6 +6217,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion! | 31991 | [31991-invasion.json](./31991-invasion.json) |
 | Invasion!! | 202037 | [202037-invasion.json](./202037-invasion.json) |
 | Invasion. Lost in Time | 89684 | [89684-invasion-lost-in-time.json](./89684-invasion-lost-in-time.json) |
+| Invasion...: Level 1 - Contamination | 261474 | [261474-invasion-level-1-contamination.json](./261474-invasion-level-1-contamination.json) |
+| Invasion...: Level 2 -The Upper Decks | 261475 | [261475-invasion-level-2-the-upper-decks.json](./261475-invasion-level-2-the-upper-decks.json) |
 | Invasive | 204952 | [204952-invasive.json](./204952-invasive.json) |
 | Invasive Species | 367507 | [367507-invasive-species.json](./367507-invasive-species.json) |
 | Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
