@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kadenz fermata//Akkord:fortissimo | 61272 | [61272-kadenz-fermata-akkord-fortissimo.json](./61272-kadenz-fermata-akkord-fortissimo.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadetstvo: Novaya Istoriya | 336188 | [336188-kadetstvo-novaya-istoriya.json](./336188-kadetstvo-novaya-istoriya.json) |
+| Kadie's Uncanny Valley | 287824 | [287824-kadies-uncanny-valley.json](./287824-kadies-uncanny-valley.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
 | Kadobat Wars | 103257 | [103257-kadobat-wars.json](./103257-kadobat-wars.json) |
