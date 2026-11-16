@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Mechanic Simulator: Shermans DLC | 387695 | [387695-tank-mechanic-simulator-shermans-dlc.json](./387695-tank-mechanic-simulator-shermans-dlc.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank Odyssey | 414550 | [414550-tank-odyssey.json](./414550-tank-odyssey.json) |
+| Tank Of The Kayra | 279912 | [279912-tank-of-the-kayra.json](./279912-tank-of-the-kayra.json) |
 | Tank of War-VR | 81051 | [81051-tank-of-war-vr.json](./81051-tank-of-war-vr.json) |
 | Tank Off | 137554 | [137554-tank-off.json](./137554-tank-off.json) |
 | Tank On Tank Digital - West Front | 29011 | [29011-tank-on-tank-digital-west-front.json](./29011-tank-on-tank-digital-west-front.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telos Pragmaton | 207442 | [207442-telos-pragmaton.json](./207442-telos-pragmaton.json) |
 | Telstar Double Value Games: Pit-Fighter/Wrestle War | 64094 | [64094-telstar-double-value-games-pit-fighter-wrestle-war.json](./64094-telstar-double-value-games-pit-fighter-wrestle-war.json) |
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
+| Telvoikai | 279909 | [279909-telvoikai.json](./279909-telvoikai.json) |
 | Temanava | 236768 | [236768-temanava.json](./236768-temanava.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
 | Tembo the Badass Elephant | 9244 | [9244-tembo-the-badass-elephant.json](./9244-tembo-the-badass-elephant.json) |
@@ -4274,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo | 174085 | [174085-tempo.json](./174085-tempo.json) |
 | Tempo | 45881 | [45881-tempo.json](./45881-tempo.json) |
 | Tempo | 74385 | [74385-tempo.json](./74385-tempo.json) |
+| Tempo Cube | 279916 | [279916-tempo-cube.json](./279916-tempo-cube.json) |
 | Tempo Jr. | 19761 | [19761-tempo-jr.json](./19761-tempo-jr.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempo Punk | 212148 | [212148-tempo-punk.json](./212148-tempo-punk.json) |
@@ -10289,6 +10292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eye of the Beheld | 184874 | [184874-the-eye-of-the-beheld.json](./184874-the-eye-of-the-beheld.json) |
 | The Eye of the Goddess | 196649 | [196649-the-eye-of-the-goddess.json](./196649-the-eye-of-the-goddess.json) |
 | The Eye of Typhoon | 57341 | [57341-the-eye-of-typhoon.json](./57341-the-eye-of-typhoon.json) |
+| The Eye of Typhoon: Tsunami Edition/Saiki | 279834 | [279834-the-eye-of-typhoon-tsunami-edition-saiki.json](./279834-the-eye-of-typhoon-tsunami-edition-saiki.json) |
 | The Eyes | 342498 | [342498-the-eyes.json](./342498-the-eyes.json) |
 | The Eyes of Ara | 20789 | [20789-the-eyes-of-ara.json](./20789-the-eyes-of-ara.json) |
 | The Eyes of Ara: Deluxe Edition | 53736 | [53736-the-eyes-of-ara-deluxe-edition.json](./53736-the-eyes-of-ara-deluxe-edition.json) |
@@ -12637,6 +12641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
 | The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
+| The Inn at Nightfall | 279840 | [279840-the-inn-at-nightfall.json](./279840-the-inn-at-nightfall.json) |
 | The Inn Between | 183091 | [183091-the-inn-between.json](./183091-the-inn-between.json) |
 | The Inn-Sanity | 279266 | [279266-the-inn-sanity.json](./279266-the-inn-sanity.json) |
 | The Inner Darkness | 27919 | [27919-the-inner-darkness.json](./27919-the-inner-darkness.json) |
@@ -23066,6 +23071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: Strategy MOBA | 338973 | [338973-three-kingdoms-strategy-moba.json](./338973-three-kingdoms-strategy-moba.json) |
 | Three Kingdoms: The Blood Moon | 290842 | [290842-three-kingdoms-the-blood-moon.json](./290842-three-kingdoms-the-blood-moon.json) |
 | Three Kingdoms: The Last Warlord | 29826 | [29826-three-kingdoms-the-last-warlord.json](./29826-three-kingdoms-the-last-warlord.json) |
+| Three Kingdoms: The Last Warlord - Heroes Assemble | 279980 | [279980-three-kingdoms-the-last-warlord-heroes-assemble.json](./279980-three-kingdoms-the-last-warlord-heroes-assemble.json) |
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
 | Three Kingdoms: Zhuge Liang | 311712 | [311712-three-kingdoms-zhuge-liang.json](./311712-three-kingdoms-zhuge-liang.json) |
 | Three Legions: Erosion of the Abyss | 346569 | [346569-three-legions-erosion-of-the-abyss.json](./346569-three-legions-erosion-of-the-abyss.json) |
@@ -32198,6 +32204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Brockenbahn - Wernigerode: Brocken Route | 286143 | [286143-train-simulator-classic-brockenbahn-wernigerode-brocken-route.json](./286143-train-simulator-classic-brockenbahn-wernigerode-brocken-route.json) |
 | Train Simulator Classic: Burlington Northern U25 | 357291 | [357291-train-simulator-classic-burlington-northern-u25.json](./357291-train-simulator-classic-burlington-northern-u25.json) |
 | Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
+| Train Simulator Classic: Chatham & Medway Valley Scenario Pack | 279977 | [279977-train-simulator-classic-chatham-and-medway-valley-scenario-pack.json](./279977-train-simulator-classic-chatham-and-medway-valley-scenario-pack.json) |
 | Train Simulator Classic: Chatham Main Line - London-Gillingham Route Add-On | 156463 | [156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json](./156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json) |
 | Train Simulator Classic: China Railways DF11G | 289511 | [289511-train-simulator-classic-china-railways-df11g.json](./289511-train-simulator-classic-china-railways-df11g.json) |
 | Train Simulator Classic: CR400AF Loco Add-On | 339157 | [339157-train-simulator-classic-cr400af-loco-add-on.json](./339157-train-simulator-classic-cr400af-loco-add-on.json) |
