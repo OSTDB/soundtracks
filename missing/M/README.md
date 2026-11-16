@@ -10741,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
 | Merry Craft Exploration World | 104394 | [104394-merry-craft-exploration-world.json](./104394-merry-craft-exploration-world.json) |
 | Merry Crisis | 379855 | [379855-merry-crisis.json](./379855-merry-crisis.json) |
+| Merry Crisis | 399247 | [399247-merry-crisis.json](./399247-merry-crisis.json) |
 | Merry Gear Solid 2: Ghosts of Christmas Past | 91648 | [91648-merry-gear-solid-2-ghosts-of-christmas-past.json](./91648-merry-gear-solid-2-ghosts-of-christmas-past.json) |
 | Merry Gear Solid: Secret Santa | 76129 | [76129-merry-gear-solid-secret-santa.json](./76129-merry-gear-solid-secret-santa.json) |
 | Merry Glade | 98698 | [98698-merry-glade.json](./98698-merry-glade.json) |
@@ -13592,6 +13593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind 720 | 330947 | [330947-mind-720.json](./330947-mind-720.json) |
 | Mind At Sea | 149958 | [149958-mind-at-sea.json](./149958-mind-at-sea.json) |
 | Mind Benderz X | 323206 | [323206-mind-benderz-x.json](./323206-mind-benderz-x.json) |
+| Mind Biotics | 399314 | [399314-mind-biotics.json](./399314-mind-biotics.json) |
 | Mind Blox | 44203 | [44203-mind-blox.json](./44203-mind-blox.json) |
 | Mind Body & Soul: Big Word Puzzle Book | 92626 | [92626-mind-body-and-soul-big-word-puzzle-book.json](./92626-mind-body-and-soul-big-word-puzzle-book.json) |
 | Mind Boggler | 245439 | [245439-mind-boggler.json](./245439-mind-boggler.json) |
@@ -13629,6 +13631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Loop | 322063 | [322063-mind-loop.json](./322063-mind-loop.json) |
 | Mind Lure | 373667 | [373667-mind-lure.json](./373667-mind-lure.json) |
 | Mind Machine | 70240 | [70240-mind-machine.json](./70240-mind-machine.json) |
+| Mind Match | 398615 | [398615-mind-match.json](./398615-mind-match.json) |
 | Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
 | Mind Maze | 154978 | [154978-mind-maze.json](./154978-mind-maze.json) |
 | Mind Maze | 40761 | [40761-mind-maze.json](./40761-mind-maze.json) |
@@ -15334,6 +15337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mis Ladrillos Interactivo | 93218 | [93218-mis-ladrillos-interactivo.json](./93218-mis-ladrillos-interactivo.json) |
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
 | Misa no Mahou Monogatari | 313066 | [313066-misa-no-mahou-monogatari.json](./313066-misa-no-mahou-monogatari.json) |
+| Misa Online | 398624 | [398624-misa-online.json](./398624-misa-online.json) |
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures in Piracy | 176755 | [176755-misadventures-in-piracy.json](./176755-misadventures-in-piracy.json) |
