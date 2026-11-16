@@ -310,6 +310,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Labubu Battle Royale | 380507 | [380507-labubu-battle-royale.json](./380507-labubu-battle-royale.json) |
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
+| Labubu Horror | 365012 | [365012-labubu-horror.json](./365012-labubu-horror.json) |
+| Labubu: Tower of Hell | 365013 | [365013-labubu-tower-of-hell.json](./365013-labubu-tower-of-hell.json) |
 | LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
 | Laby and the Mysterious Planet | 275507 | [275507-laby-and-the-mysterious-planet.json](./275507-laby-and-the-mysterious-planet.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
@@ -2610,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning With the PooYoos: Episode 1 | 67206 | [67206-learning-with-the-pooyoos-episode-1.json](./67206-learning-with-the-pooyoos-episode-1.json) |
 | Learning With the PooYoos: Episode 2 | 66815 | [66815-learning-with-the-pooyoos-episode-2.json](./66815-learning-with-the-pooyoos-episode-2.json) |
 | Learning With the PooYoos: Episode 3 | 66008 | [66008-learning-with-the-pooyoos-episode-3.json](./66008-learning-with-the-pooyoos-episode-3.json) |
+| Learnle | 363614 | [363614-learnle.json](./363614-learnle.json) |
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leash | 384412 | [384412-leash.json](./384412-leash.json) |
