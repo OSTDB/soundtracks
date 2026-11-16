@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder Gods Simulator | 285360 | [285360-elder-gods-simulator.json](./285360-elder-gods-simulator.json) |
 | Elder Goo | 114737 | [114737-elder-goo.json](./114737-elder-goo.json) |
 | Elder Kings II | 225709 | [225709-elder-kings-ii.json](./225709-elder-kings-ii.json) |
+| Elder Legacy: Survival | 310305 | [310305-elder-legacy-survival.json](./310305-elder-legacy-survival.json) |
 | Elder Lich | 325514 | [325514-elder-lich.json](./325514-elder-lich.json) |
 | Elder Puzzle | 163554 | [163554-elder-puzzle.json](./163554-elder-puzzle.json) |
 | Elder Ring | 351154 | [351154-elder-ring.json](./351154-elder-ring.json) |
@@ -7293,6 +7294,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro Truck Simulator 2: Renault Trucks T Tuning Pack | 203985 | [203985-euro-truck-simulator-2-renault-trucks-t-tuning-pack.json](./203985-euro-truck-simulator-2-renault-trucks-t-tuning-pack.json) |
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
+| Euro Truck Simulator 2: Scania S BEV | 312473 | [312473-euro-truck-simulator-2-scania-s-bev.json](./312473-euro-truck-simulator-2-scania-s-bev.json) |
+| Euro Truck Simulator 2: Schmitz Cargobull Trailer Pack | 312472 | [312472-euro-truck-simulator-2-schmitz-cargobull-trailer-pack.json](./312472-euro-truck-simulator-2-schmitz-cargobull-trailer-pack.json) |
 | Euro Truck Simulator 2: Schwarzmüller Trailer Pack | 168263 | [168263-euro-truck-simulator-2-schwarzmuller-trailer-pack.json](./168263-euro-truck-simulator-2-schwarzmuller-trailer-pack.json) |
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
 | Euro Truck Simulator 2: Special Transport | 125025 | [125025-euro-truck-simulator-2-special-transport.json](./125025-euro-truck-simulator-2-special-transport.json) |
