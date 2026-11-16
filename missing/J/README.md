@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Black Cats in a Cat Welfare Cafe / Kenta Igarashi | 238151 | [238151-jigsaw-masterpieces-black-cats-in-a-cat-welfare-cafe-kenta-igarashi.json](./238151-jigsaw-masterpieces-black-cats-in-a-cat-welfare-cafe-kenta-igarashi.json) |
 | Jigsaw Masterpieces: Cats and Friends on the Suetoshi Farm / Kenta Igarashi | 238309 | [238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json](./238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json) |
 | Jigsaw Masterpieces: Chihuahua - The Smallest Dog | 238270 | [238270-jigsaw-masterpieces-chihuahua-the-smallest-dog.json](./238270-jigsaw-masterpieces-chihuahua-the-smallest-dog.json) |
+| Jigsaw Masterpieces: Close Up Animals | 243353 | [243353-jigsaw-masterpieces-close-up-animals.json](./243353-jigsaw-masterpieces-close-up-animals.json) |
 | Jigsaw Masterpieces: Colorful Birds | 238266 | [238266-jigsaw-masterpieces-colorful-birds.json](./238266-jigsaw-masterpieces-colorful-birds.json) |
 | Jigsaw Masterpieces: Colorful Sweets | 226332 | [226332-jigsaw-masterpieces-colorful-sweets.json](./226332-jigsaw-masterpieces-colorful-sweets.json) |
 | Jigsaw Masterpieces: Colorful Town | 238267 | [238267-jigsaw-masterpieces-colorful-town.json](./238267-jigsaw-masterpieces-colorful-town.json) |
