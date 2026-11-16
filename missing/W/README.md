@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted: Gunslinger's Kiss | 298984 | [298984-wanted-gunslingers-kiss.json](./298984-wanted-gunslingers-kiss.json) |
 | Wanted: Romance Renegades | 238415 | [238415-wanted-romance-renegades.json](./238415-wanted-romance-renegades.json) |
 | Wanted: Weapons of Fate | 7240 | [7240-wanted-weapons-of-fate.json](./7240-wanted-weapons-of-fate.json) |
+| Wanted: Wild Sluts | 392534 | [392534-wanted-wild-sluts.json](./392534-wanted-wild-sluts.json) |
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
 | Wanted! | 150222 | [150222-wanted.json](./150222-wanted.json) |
 | Wanted!: Monty Mole | 26278 | [26278-wanted-monty-mole.json](./26278-wanted-monty-mole.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayfarers: Call of Osiris | 156012 | [156012-wayfarers-call-of-osiris.json](./156012-wayfarers-call-of-osiris.json) |
 | Wayfinder | 152746 | [152746-wayfinder.json](./152746-wayfinder.json) |
 | Wayfinder: Episode One | 381694 | [381694-wayfinder-episode-one.json](./381694-wayfinder-episode-one.json) |
+| Wayfinder: Episode Two | 393030 | [393030-wayfinder-episode-two.json](./393030-wayfinder-episode-two.json) |
 | Waymantale Adventure | 389689 | [389689-waymantale-adventure.json](./389689-waymantale-adventure.json) |
 | Wayne Gretzky and Brett Hull Shootout Hockey | 198953 | [198953-wayne-gretzky-and-brett-hull-shootout-hockey.json](./198953-wayne-gretzky-and-brett-hull-shootout-hockey.json) |
 | Wayne Gretzky and the NHLPA All-Stars | 19759 | [19759-wayne-gretzky-and-the-nhlpa-all-stars.json](./19759-wayne-gretzky-and-the-nhlpa-all-stars.json) |
