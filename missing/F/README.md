@@ -7771,6 +7771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitba | 68631 | [68631-fitba.json](./68631-fitba.json) |
 | FitForce | 142856 | [142856-fitforce.json](./142856-fitforce.json) |
 | Fitforce2 | 374749 | [374749-fitforce2.json](./374749-fitforce2.json) |
+| Fitly | 363590 | [363590-fitly.json](./363590-fitly.json) |
 | Fitment | 271946 | [271946-fitment.json](./271946-fitment.json) |
 | Fitness Adventure Pro | 358656 | [358656-fitness-adventure-pro.json](./358656-fitness-adventure-pro.json) |
 | Fitness Boxing | 103371 | [103371-fitness-boxing.json](./103371-fitness-boxing.json) |
@@ -11762,6 +11763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Sandstorm | 372126 | [372126-fortnite-festival-sandstorm.json](./372126-fortnite-festival-sandstorm.json) |
 | Fortnite Festival: Say It Ain't So | 366472 | [366472-fortnite-festival-say-it-aint-so.json](./366472-fortnite-festival-say-it-aint-so.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
+| Fortnite Festival: Season 10 | 363607 | [363607-fortnite-festival-season-10.json](./363607-fortnite-festival-season-10.json) |
 | Fortnite Festival: Season 11 | 384110 | [384110-fortnite-festival-season-11.json](./384110-fortnite-festival-season-11.json) |
 | Fortnite Festival: Season 12 | 384111 | [384111-fortnite-festival-season-12.json](./384111-fortnite-festival-season-12.json) |
 | Fortnite Festival: Season 13 | 395472 | [395472-fortnite-festival-season-13.json](./395472-fortnite-festival-season-13.json) |
