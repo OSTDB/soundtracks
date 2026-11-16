@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman: The Dreamer's Boundary | 217782 | [217782-rayman-the-dreamers-boundary.json](./217782-rayman-the-dreamers-boundary.json) |
 | Raymond's Obstacle Course | 80976 | [80976-raymonds-obstacle-course.json](./80976-raymonds-obstacle-course.json) |
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
+| Rayna Survivors | 224729 | [224729-rayna-survivors.json](./224729-rayna-survivors.json) |
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
 | Rayon Riddles: Rise of the Goblin King | 33762 | [33762-rayon-riddles-rise-of-the-goblin-king.json](./33762-rayon-riddles-rise-of-the-goblin-king.json) |
