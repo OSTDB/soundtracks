@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eipc Free Tetris | 68877 | [68877-eipc-free-tetris.json](./68877-eipc-free-tetris.json) |
 | Eira | 188418 | [188418-eira.json](./188418-eira.json) |
 | Eira: Echoes of Adventure | 132527 | [132527-eira-echoes-of-adventure.json](./132527-eira-echoes-of-adventure.json) |
+| Eiru | 401229 | [401229-eiru.json](./401229-eiru.json) |
 | Eisadler Jagd | 279594 | [279594-eisadler-jagd.json](./279594-eisadler-jagd.json) |
 | Eisei Meijin | 268639 | [268639-eisei-meijin.json](./268639-eisei-meijin.json) |
 | Eisei Meijin II | 268640 | [268640-eisei-meijin-ii.json](./268640-eisei-meijin-ii.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
 | Endgame | 23774 | [23774-endgame.json](./23774-endgame.json) |
+| Endgame | 401236 | [401236-endgame.json](./401236-endgame.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endgame of Devil | 259945 | [259945-endgame-of-devil.json](./259945-endgame-of-devil.json) |
 | Endgame Syria | 56102 | [56102-endgame-syria.json](./56102-endgame-syria.json) |
@@ -5094,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Fly | 22346 | [22346-epic-fly.json](./22346-epic-fly.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
+| Epic Fruit Game | 401223 | [401223-epic-fruit-game.json](./401223-epic-fruit-game.json) |
 | Epic Fun | 126771 | [126771-epic-fun.json](./126771-epic-fun.json) |
 | Epic Fun: Explosive War Coaster | 169116 | [169116-epic-fun-explosive-war-coaster.json](./169116-epic-fun-explosive-war-coaster.json) |
 | Epic Fun: R0b0t Coaster | 169113 | [169113-epic-fun-r0b0t-coaster.json](./169113-epic-fun-r0b0t-coaster.json) |
@@ -9537,6 +9540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
 | Eyes on the Exam | 345746 | [345746-eyes-on-the-exam.json](./345746-eyes-on-the-exam.json) |
 | Eyes on Them | 405769 | [405769-eyes-on-them.json](./405769-eyes-on-them.json) |
+| Eyes On You | 399936 | [399936-eyes-on-you.json](./399936-eyes-on-you.json) |
 | Eyes on Yuki | 361287 | [361287-eyes-on-yuki.json](./361287-eyes-on-yuki.json) |
 | Eyes Over Us | 195680 | [195680-eyes-over-us.json](./195680-eyes-over-us.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
