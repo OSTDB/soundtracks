@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geisha World | 292710 | [292710-geisha-world.json](./292710-geisha-world.json) |
 | Geisha: The Secret Garden | 88111 | [88111-geisha-the-secret-garden.json](./88111-geisha-the-secret-garden.json) |
 | Geisha's Heart: Romance Among the Cherry Blossoms | 378852 | [378852-geishas-heart-romance-among-the-cherry-blossoms.json](./378852-geishas-heart-romance-among-the-cherry-blossoms.json) |
+| Geist | 267033 | [267033-geist.json](./267033-geist.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geist Heist | 403931 | [403931-geist-heist.json](./403931-geist-heist.json) |
 | Geisterbahnhof | 362990 | [362990-geisterbahnhof.json](./362990-geisterbahnhof.json) |
