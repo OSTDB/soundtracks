@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogu and the Secret Forest | 200923 | [200923-ogu-and-the-secret-forest.json](./200923-ogu-and-the-secret-forest.json) |
 | Ogu and the Secret Forest: Winter Festival Blast | 376697 | [376697-ogu-and-the-secret-forest-winter-festival-blast.json](./376697-ogu-and-the-secret-forest-winter-festival-blast.json) |
 | Ogura Hyakunin Isshu | 268520 | [268520-ogura-hyakunin-isshu.json](./268520-ogura-hyakunin-isshu.json) |
+| Oguzok Horror | 280974 | [280974-oguzok-horror.json](./280974-oguzok-horror.json) |
 | Oh Apollo! | 396123 | [396123-oh-apollo.json](./396123-oh-apollo.json) |
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
 | Oh Balls 2 | 103527 | [103527-oh-balls-2.json](./103527-oh-balls-2.json) |
@@ -5264,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otona no Gal Jan 2 | 123664 | [123664-otona-no-gal-jan-2.json](./123664-otona-no-gal-jan-2.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
+| Otona no Onna no Uranai Techou | 280995 | [280995-otona-no-onna-no-uranai-techou.json](./280995-otona-no-onna-no-uranai-techou.json) |
 | Otona no Onnaryoku Kentei | 123376 | [123376-otona-no-onnaryoku-kentei.json](./123376-otona-no-onnaryoku-kentei.json) |
 | Otonano Tamu no Keisan Training DS | 78588 | [78588-otonano-tamu-no-keisan-training-ds.json](./78588-otonano-tamu-no-keisan-training-ds.json) |
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
