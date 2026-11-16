@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Birthday Present | 254033 | [254033-a-birthday-present.json](./254033-a-birthday-present.json) |
 | A Bit of Light | 179020 | [179020-a-bit-of-light.json](./179020-a-bit-of-light.json) |
 | A Bit of Tactics | 221112 | [221112-a-bit-of-tactics.json](./221112-a-bit-of-tactics.json) |
+| A Bit Tied Up | 253098 | [253098-a-bit-tied-up.json](./253098-a-bit-tied-up.json) |
 | A Bite at Freddy's | 259776 | [259776-a-bite-at-freddys.json](./259776-a-bite-at-freddys.json) |
 | A Blackout Protocol Report | 344237 | [344237-a-blackout-protocol-report.json](./344237-a-blackout-protocol-report.json) |
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
@@ -20595,6 +20596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Special Edition | 281300 | [281300-avatar-frontiers-of-pandora-special-edition.json](./281300-avatar-frontiers-of-pandora-special-edition.json) |
 | Avatar: Frontiers of Pandora - Storm Chaser Starter Pack | 332110 | [332110-avatar-frontiers-of-pandora-storm-chaser-starter-pack.json](./332110-avatar-frontiers-of-pandora-storm-chaser-starter-pack.json) |
 | Avatar: Frontiers of Pandora - The Sky Breaker | 305241 | [305241-avatar-frontiers-of-pandora-the-sky-breaker.json](./305241-avatar-frontiers-of-pandora-the-sky-breaker.json) |
+| Avatar: Frontiers of Pandora - Ultimate Edition | 253065 | [253065-avatar-frontiers-of-pandora-ultimate-edition.json](./253065-avatar-frontiers-of-pandora-ultimate-edition.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: Legends of the Arena | 72925 | [72925-avatar-legends-of-the-arena.json](./72925-avatar-legends-of-the-arena.json) |
 | Avatar: Pandora Rising | 112886 | [112886-avatar-pandora-rising.json](./112886-avatar-pandora-rising.json) |
