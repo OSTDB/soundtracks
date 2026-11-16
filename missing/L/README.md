@@ -7247,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Free Or Die Hard: The Mobile Game | 10227 | [10227-live-free-or-die-hard-the-mobile-game.json](./10227-live-free-or-die-hard-the-mobile-game.json) |
 | Live Hard, Die Hard | 265826 | [265826-live-hard-die-hard.json](./265826-live-hard-die-hard.json) |
 | Live In Color | 31571 | [31571-live-in-color.json](./31571-live-in-color.json) |
+| Live In The Country | 262637 | [262637-live-in-the-country.json](./262637-live-in-the-country.json) |
 | Live in the Moment | 208077 | [208077-live-in-the-moment.json](./208077-live-in-the-moment.json) |
 | Live Inc. | 143199 | [143199-live-inc.json](./143199-live-inc.json) |
 | Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
