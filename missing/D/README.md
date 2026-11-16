@@ -10875,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
 | Dino Cleanup | 416395 | [416395-dino-cleanup.json](./416395-dino-cleanup.json) |
 | Dino Clicker | 339523 | [339523-dino-clicker.json](./339523-dino-clicker.json) |
+| Dino Crisis | 264837 | [264837-dino-crisis.json](./264837-dino-crisis.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis | 329772 | [329772-dino-crisis.json](./329772-dino-crisis.json) |
 | Dino Crisis 2 | 329776 | [329776-dino-crisis-2.json](./329776-dino-crisis-2.json) |
@@ -19012,6 +19013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinks Down Under | 291384 | [291384-drinks-down-under.json](./291384-drinks-down-under.json) |
 | Drinks With Abbey | 127422 | [127422-drinks-with-abbey.json](./127422-drinks-with-abbey.json) |
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
+| Drip | 262711 | [262711-drip.json](./262711-drip.json) |
 | Drip | 68147 | [68147-drip.json](./68147-drip.json) |
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
@@ -21904,6 +21906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynacorp | 57200 | [57200-dynacorp.json](./57200-dynacorp.json) |
+| Dynaforce | 264840 | [264840-dynaforce.json](./264840-dynaforce.json) |
 | Dynamaite the Las Vegas | 44441 | [44441-dynamaite-the-las-vegas.json](./44441-dynamaite-the-las-vegas.json) |
 | Dynamate: Playdate | 279173 | [279173-dynamate-playdate.json](./279173-dynamate-playdate.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
