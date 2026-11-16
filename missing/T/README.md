@@ -4172,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
 | Templar | 177600 | [177600-templar.json](./177600-templar.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
+| Templar 2 | 337863 | [337863-templar-2.json](./337863-templar-2.json) |
 | Templar Assault | 375057 | [375057-templar-assault.json](./375057-templar-assault.json) |
 | Templar Battleforce | 13217 | [13217-templar-battleforce.json](./13217-templar-battleforce.json) |
 | Templar Battleforce Elite | 89703 | [89703-templar-battleforce-elite.json](./89703-templar-battleforce-elite.json) |
@@ -7693,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Broken Land | 69668 | [69668-the-broken-land.json](./69668-the-broken-land.json) |
 | The Broken Lolipop | 378152 | [378152-the-broken-lolipop.json](./378152-the-broken-lolipop.json) |
 | The Broken Moon | 263137 | [263137-the-broken-moon.json](./263137-the-broken-moon.json) |
+| The Broken Republic | 336805 | [336805-the-broken-republic.json](./336805-the-broken-republic.json) |
 | The Broken Seal | 74493 | [74493-the-broken-seal.json](./74493-the-broken-seal.json) |
 | The Broken Seal: Arena | 86434 | [86434-the-broken-seal-arena.json](./86434-the-broken-seal-arena.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
@@ -22233,6 +22235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theseus: Mythological Hero | 195315 | [195315-theseus-mythological-hero.json](./195315-theseus-mythological-hero.json) |
 | Theseus: Return of the Hero | 76089 | [76089-theseus-return-of-the-hero.json](./76089-theseus-return-of-the-hero.json) |
 | TheShooterGame | 101283 | [101283-theshootergame.json](./101283-theshootergame.json) |
+| TheSilentSnowfall | 337853 | [337853-thesilentsnowfall.json](./337853-thesilentsnowfall.json) |
 | Thesis of Love | 370073 | [370073-thesis-of-love.json](./370073-thesis-of-love.json) |
 | Thesis: Purple Locus | 343192 | [343192-thesis-purple-locus.json](./343192-thesis-purple-locus.json) |
 | Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
