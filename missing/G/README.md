@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster City Cruise - Mobster Crime Shooter | 88636 | [88636-gangster-city-cruise-mobster-crime-shooter.json](./88636-gangster-city-cruise-mobster-crime-shooter.json) |
 | Gangster City: Mafia Car Driving | 234645 | [234645-gangster-city-mafia-car-driving.json](./234645-gangster-city-mafia-car-driving.json) |
 | Gangster Coin Pusher | 255236 | [255236-gangster-coin-pusher.json](./255236-gangster-coin-pusher.json) |
+| Gangster Crime, Mafia City | 219861 | [219861-gangster-crime-mafia-city.json](./219861-gangster-crime-mafia-city.json) |
 | Gangster Empire: Vendetta | 150821 | [150821-gangster-empire-vendetta.json](./150821-gangster-empire-vendetta.json) |
 | Gangster Granny | 38894 | [38894-gangster-granny.json](./38894-gangster-granny.json) |
 | Gangster Granny 3 | 196606 | [196606-gangster-granny-3.json](./196606-gangster-granny-3.json) |
@@ -4842,21 +4843,41 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gig Life Tycoon | 256173 | [256173-gig-life-tycoon.json](./256173-gig-life-tycoon.json) |
 | Giga Digger | 423890 | [423890-giga-digger.json](./423890-giga-digger.json) |
 | Giga Drill Clicker | 183490 | [183490-giga-drill-clicker.json](./183490-giga-drill-clicker.json) |
+| Giga Faces | 218024 | [218024-giga-faces.json](./218024-giga-faces.json) |
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
+| Giga Fighters Men in Black | 218018 | [218018-giga-fighters-men-in-black.json](./218018-giga-fighters-men-in-black.json) |
+| Giga Fighters the Lost World: Jurassic Park | 218019 | [218019-giga-fighters-the-lost-world-jurassic-park.json](./218019-giga-fighters-the-lost-world-jurassic-park.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
 | Giga Girl | 32598 | [32598-giga-girl.json](./32598-giga-girl.json) |
 | Giga Pets Explorer | 274249 | [274249-giga-pets-explorer.json](./274249-giga-pets-explorer.json) |
+| Giga Pets Plus: A Bug's Life | 218040 | [218040-giga-pets-plus-a-bugs-life.json](./218040-giga-pets-plus-a-bugs-life.json) |
+| Giga Pets Plus: Giga Circus | 218036 | [218036-giga-pets-plus-giga-circus.json](./218036-giga-pets-plus-giga-circus.json) |
+| Giga Pets Plus: Giga Farm | 218037 | [218037-giga-pets-plus-giga-farm.json](./218037-giga-pets-plus-giga-farm.json) |
+| Giga Pets Plus: Giga Pound | 218038 | [218038-giga-pets-plus-giga-pound.json](./218038-giga-pets-plus-giga-pound.json) |
 | Giga Pets Plus: Rugrats | 198880 | [198880-giga-pets-plus-rugrats.json](./198880-giga-pets-plus-rugrats.json) |
+| Giga Pets Plus: Small Soldiers | 218041 | [218041-giga-pets-plus-small-soldiers.json](./218041-giga-pets-plus-small-soldiers.json) |
+| Giga Pets: 101 Dalmatians | 218035 | [218035-giga-pets-101-dalmatians.json](./218035-giga-pets-101-dalmatians.json) |
 | Giga Pets: Babe and Friends | 218046 | [218046-giga-pets-babe-and-friends.json](./218046-giga-pets-babe-and-friends.json) |
+| Giga Pets: Baby T-Rex | 218028 | [218028-giga-pets-baby-t-rex.json](./218028-giga-pets-baby-t-rex.json) |
 | Giga Pets: Barbie - Precious Kitty | 218051 | [218051-giga-pets-barbie-precious-kitty.json](./218051-giga-pets-barbie-precious-kitty.json) |
 | Giga Pets: Barbie - Precious Puppy | 218050 | [218050-giga-pets-barbie-precious-puppy.json](./218050-giga-pets-barbie-precious-puppy.json) |
+| Giga Pets: Bit Critter | 218030 | [218030-giga-pets-bit-critter.json](./218030-giga-pets-bit-critter.json) |
+| Giga Pets: Compu Kitty | 218026 | [218026-giga-pets-compu-kitty.json](./218026-giga-pets-compu-kitty.json) |
+| Giga Pets: Digital Doggie | 218025 | [218025-giga-pets-digital-doggie.json](./218025-giga-pets-digital-doggie.json) |
+| Giga Pets: Floppy Frog | 218032 | [218032-giga-pets-floppy-frog.json](./218032-giga-pets-floppy-frog.json) |
+| Giga Pets: Komputer Koala | 218031 | [218031-giga-pets-komputer-koala.json](./218031-giga-pets-komputer-koala.json) |
+| Giga Pets: Looney Tunes | 218039 | [218039-giga-pets-looney-tunes.json](./218039-giga-pets-looney-tunes.json) |
 | Giga Pets: Looney Tunes - Taz Mania | 218048 | [218048-giga-pets-looney-tunes-taz-mania.json](./218048-giga-pets-looney-tunes-taz-mania.json) |
 | Giga Pets: Looney Tunes - Tweety | 218047 | [218047-giga-pets-looney-tunes-tweety.json](./218047-giga-pets-looney-tunes-tweety.json) |
+| Giga Pets: Microchimp | 218027 | [218027-giga-pets-microchimp.json](./218027-giga-pets-microchimp.json) |
 | Giga Pets: Oreo | 218049 | [218049-giga-pets-oreo.json](./218049-giga-pets-oreo.json) |
 | Giga Pets: Rugrats Reptar | 218042 | [218042-giga-pets-rugrats-reptar.json](./218042-giga-pets-rugrats-reptar.json) |
+| Giga Pets: Sabrina The Teenage Witch - Salem The Cat | 218033 | [218033-giga-pets-sabrina-the-teenage-witch-salem-the-cat.json](./218033-giga-pets-sabrina-the-teenage-witch-salem-the-cat.json) |
 | Giga Pets: Star Wars - R2-D2 | 218044 | [218044-giga-pets-star-wars-r2-d2.json](./218044-giga-pets-star-wars-r2-d2.json) |
 | Giga Pets: Star Wars - Rancor | 218045 | [218045-giga-pets-star-wars-rancor.json](./218045-giga-pets-star-wars-rancor.json) |
 | Giga Pets: Star Wars - Yoda | 218043 | [218043-giga-pets-star-wars-yoda.json](./218043-giga-pets-star-wars-yoda.json) |
+| Giga Pets: The Little Mermaid | 218034 | [218034-giga-pets-the-little-mermaid.json](./218034-giga-pets-the-little-mermaid.json) |
+| Giga Pets: Virtual Alien | 218029 | [218029-giga-pets-virtual-alien.json](./218029-giga-pets-virtual-alien.json) |
 | Giga Pudding: The Game | 328941 | [328941-giga-pudding-the-game.json](./328941-giga-pudding-the-game.json) |
 | Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
 | Giga Wrecker Alt.: Collector's Edition | 136895 | [136895-giga-wrecker-alt-collectors-edition.json](./136895-giga-wrecker-alt-collectors-edition.json) |
