@@ -7565,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
 | Revolution: War of Independence | 212304 | [212304-revolution-war-of-independence.json](./212304-revolution-war-of-independence.json) |
+| Revolution: Young Mao | 411869 | [411869-revolution-young-mao.json](./411869-revolution-young-mao.json) |
 | Revolution! | 145203 | [145203-revolution.json](./145203-revolution.json) |
 | Revolution's Eternal Debt | 389085 | [389085-revolutions-eternal-debt.json](./389085-revolutions-eternal-debt.json) |
 | Revolutionary Quest | 292594 | [292594-revolutionary-quest.json](./292594-revolutionary-quest.json) |
@@ -13096,6 +13097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
 | RozenDiadem | 213909 | [213909-rozendiadem.json](./213909-rozendiadem.json) |
 | Rozkol | 36474 | [36474-rozkol.json](./36474-rozkol.json) |
+| Rozze: Bandit's Gaze | 411804 | [411804-rozze-bandits-gaze.json](./411804-rozze-bandits-gaze.json) |
 | RP7: Spin Your Own Encounter | 135431 | [135431-rp7-spin-your-own-encounter.json](./135431-rp7-spin-your-own-encounter.json) |
 | RPaints | 91727 | [91727-rpaints.json](./91727-rpaints.json) |
 | RPG Alchemy | 258092 | [258092-rpg-alchemy.json](./258092-rpg-alchemy.json) |
@@ -14462,6 +14464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushdown Rivals | 265905 | [265905-rushdown-rivals.json](./265905-rushdown-rivals.json) |
 | Rushdown Rivals Reloaded | 271932 | [271932-rushdown-rivals-reloaded.json](./271932-rushdown-rivals-reloaded.json) |
 | Rusher Dominance | 237609 | [237609-rusher-dominance.json](./237609-rusher-dominance.json) |
+| Rushfall | 411874 | [411874-rushfall.json](./411874-rushfall.json) |
 | RushGirl Luca | 405231 | [405231-rushgirl-luca.json](./405231-rushgirl-luca.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
