@@ -7467,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldrushers | 63723 | [63723-goldrushers.json](./63723-goldrushers.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
 | Goldsphere: Completion | 281291 | [281291-goldsphere-completion.json](./281291-goldsphere-completion.json) |
+| Goldstained | 381476 | [381476-goldstained.json](./381476-goldstained.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
 | Goldy Pig Adventure | 337061 | [337061-goldy-pig-adventure.json](./337061-goldy-pig-adventure.json) |
 | Golel | 264693 | [264693-golel.json](./264693-golel.json) |
