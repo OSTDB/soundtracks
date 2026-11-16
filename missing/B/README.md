@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo Retro Run | 322439 | [322439-bamboo-retro-run.json](./322439-bamboo-retro-run.json) |
 | Bamboo Spring: A Story Cast in Bronze | 423396 | [423396-bamboo-spring-a-story-cast-in-bronze.json](./423396-bamboo-spring-a-story-cast-in-bronze.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
+| Bamboozle! | 409790 | [409790-bamboozle.json](./409790-bamboozle.json) |
 | Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
 | Bamse | 106273 | [106273-bamse.json](./106273-bamse.json) |
 | Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
@@ -10896,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous II: The Third Sin | 404910 | [404910-blasphemous-ii-the-third-sin.json](./404910-blasphemous-ii-the-third-sin.json) |
 | Blasphemous: Deluxe Edition | 146038 | [146038-blasphemous-deluxe-edition.json](./146038-blasphemous-deluxe-edition.json) |
 | Blasphemous: Digital Deluxe Edition | 227410 | [227410-blasphemous-digital-deluxe-edition.json](./227410-blasphemous-digital-deluxe-edition.json) |
+| Blasphemous: Martyrs' Edition | 409699 | [409699-blasphemous-martyrs-edition.json](./409699-blasphemous-martyrs-edition.json) |
 | Blasphemous: Strife & Ruin | 229861 | [229861-blasphemous-strife-and-ruin.json](./229861-blasphemous-strife-and-ruin.json) |
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
 | Blast | 55758 | [55758-blast.json](./55758-blast.json) |
@@ -15330,6 +15332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked - Click or Treat | 274591 | [274591-boti-byteland-overclocked-click-or-treat.json](./274591-boti-byteland-overclocked-click-or-treat.json) |
 | Boti: Byteland Overclocked - Deluxe Edition | 331249 | [331249-boti-byteland-overclocked-deluxe-edition.json](./331249-boti-byteland-overclocked-deluxe-edition.json) |
 | Boti: Byteland Overclocked - Hidden Giftware | 285112 | [285112-boti-byteland-overclocked-hidden-giftware.json](./285112-boti-byteland-overclocked-hidden-giftware.json) |
+| Botiada | 408997 | [408997-botiada.json](./408997-botiada.json) |
 | Boticaria | 414028 | [414028-boticaria.json](./414028-boticaria.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
 | Botinator | 385519 | [385519-botinator.json](./385519-botinator.json) |
@@ -19860,6 +19863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny E-shop | 306528 | [306528-bunny-e-shop.json](./306528-bunny-e-shop.json) |
 | Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
 | Bunny Factory | 149451 | [149451-bunny-factory.json](./149451-bunny-factory.json) |
+| Bunny Flags | 409168 | [409168-bunny-flags.json](./409168-bunny-flags.json) |
 | Bunny Flush | 153923 | [153923-bunny-flush.json](./153923-bunny-flush.json) |
 | Bunny Forest | 374150 | [374150-bunny-forest.json](./374150-bunny-forest.json) |
 | Bunny Game | 236230 | [236230-bunny-game.json](./236230-bunny-game.json) |
