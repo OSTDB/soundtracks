@@ -10653,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future: Extended Edition | 275998 | [275998-for-a-vast-future-extended-edition.json](./275998-for-a-vast-future-extended-edition.json) |
 | For a Vast Future: GOTY Edition | 300899 | [300899-for-a-vast-future-goty-edition.json](./300899-for-a-vast-future-goty-edition.json) |
 | For a Vast Future: Legendary Edition | 288287 | [288287-for-a-vast-future-legendary-edition.json](./288287-for-a-vast-future-legendary-edition.json) |
+| For a Vast Future: Platinum Edition | 291641 | [291641-for-a-vast-future-platinum-edition.json](./291641-for-a-vast-future-platinum-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For a Vast Future: Special Edition | 278643 | [278643-for-a-vast-future-special-edition.json](./278643-for-a-vast-future-special-edition.json) |
 | For a Vast Future: Ultimate Edition | 273322 | [273322-for-a-vast-future-ultimate-edition.json](./273322-for-a-vast-future-ultimate-edition.json) |
