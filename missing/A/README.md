@@ -12198,6 +12198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annals of Rome | 11903 | [11903-annals-of-rome.json](./11903-annals-of-rome.json) |
 | Annalynn | 142687 | [142687-annalynn.json](./142687-annalynn.json) |
 | Annalynn '16 | 313076 | [313076-annalynn-16.json](./313076-annalynn-16.json) |
+| Annalynn MD Lite | 337896 | [337896-annalynn-md-lite.json](./337896-annalynn-md-lite.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
 | Annapurna Interactive Deluxe Limited Edition Collection | 286940 | [286940-annapurna-interactive-deluxe-limited-edition-collection.json](./286940-annapurna-interactive-deluxe-limited-edition-collection.json) |
 | Annapurna Interactive: Ultimate Collection | 139065 | [139065-annapurna-interactive-ultimate-collection.json](./139065-annapurna-interactive-ultimate-collection.json) |
@@ -18895,6 +18896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
 | Atari Anthology | 338673 | [338673-atari-anthology.json](./338673-atari-anthology.json) |
 | Atari Arcade 1 | 149293 | [149293-atari-arcade-1.json](./149293-atari-arcade-1.json) |
+| Atari Arcade 2 | 337857 | [337857-atari-arcade-2.json](./337857-atari-arcade-2.json) |
 | Atari Arcade Hits: Volume 1 | 80627 | [80627-atari-arcade-hits-volume-1.json](./80627-atari-arcade-hits-volume-1.json) |
 | Atari Arcade Hits: Volume 2 | 79673 | [79673-atari-arcade-hits-volume-2.json](./79673-atari-arcade-hits-volume-2.json) |
 | Atari Baseball | 41092 | [41092-atari-baseball.json](./41092-atari-baseball.json) |
@@ -20934,6 +20936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axial Disc 1 | 164869 | [164869-axial-disc-1.json](./164869-axial-disc-1.json) |
 | Axial Disc 2 | 217408 | [217408-axial-disc-2.json](./217408-axial-disc-2.json) |
 | Axial Drift | 190394 | [190394-axial-drift.json](./190394-axial-drift.json) |
+| Axial Null | 337874 | [337874-axial-null.json](./337874-axial-null.json) |
 | Axial Shift | 413581 | [413581-axial-shift.json](./413581-axial-shift.json) |
 | Axident | 423661 | [423661-axident.json](./423661-axident.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
