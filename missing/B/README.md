@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Donkey Kong Country | 201772 | [201772-banjo-kazooie-donkey-kong-country.json](./201772-banjo-kazooie-donkey-kong-country.json) |
 | Banjo-Kazooie: Fort Fun | 338821 | [338821-banjo-kazooie-fort-fun.json](./338821-banjo-kazooie-fort-fun.json) |
 | Banjo-Kazooie: Ft. Minecraft | 249546 | [249546-banjo-kazooie-ft-minecraft.json](./249546-banjo-kazooie-ft-minecraft.json) |
+| Banjo-Kazooie: Grunty's Curse | 264836 | [264836-banjo-kazooie-gruntys-curse.json](./264836-banjo-kazooie-gruntys-curse.json) |
 | Banjo-Kazooie: Gruntylvania | 282333 | [282333-banjo-kazooie-gruntylvania.json](./282333-banjo-kazooie-gruntylvania.json) |
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Kazooie: Magic Eggs | 267187 | [267187-banjo-kazooie-magic-eggs.json](./267187-banjo-kazooie-magic-eggs.json) |
@@ -7840,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betweenle | 356579 | [356579-betweenle.json](./356579-betweenle.json) |
 | Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
 | Beulah and the Hundred Birds | 60456 | [60456-beulah-and-the-hundred-birds.json](./60456-beulah-and-the-hundred-birds.json) |
+| Beullokgwa Miyeonsiwa Godae Geuriseu | 264820 | [264820-beullokgwa-miyeonsiwa-godae-geuriseu.json](./264820-beullokgwa-miyeonsiwa-godae-geuriseu.json) |
 | beVaiR | 183672 | [183672-bevair.json](./183672-bevair.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beventlaed | 231736 | [231736-beventlaed.json](./231736-beventlaed.json) |
