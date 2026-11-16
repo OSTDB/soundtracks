@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyfish: The Healing Friend | 171854 | [171854-jellyfish-the-healing-friend.json](./171854-jellyfish-the-healing-friend.json) |
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
 | Jellyflug Micro Adventures | 197644 | [197644-jellyflug-micro-adventures.json](./197644-jellyflug-micro-adventures.json) |
+| JellyGo! | 419165 | [419165-jellygo.json](./419165-jellygo.json) |
 | JellyKing : Rule The World | 312650 | [312650-jellyking-rule-the-world.json](./312650-jellyking-rule-the-world.json) |
 | JellyMen | 196775 | [196775-jellymen.json](./196775-jellymen.json) |
 | JellyNoid | 74652 | [74652-jellynoid.json](./74652-jellynoid.json) |
