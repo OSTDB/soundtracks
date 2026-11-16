@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Game | 133734 | [133734-hamster-game.json](./133734-hamster-game.json) |
 | Hamster Games | 421622 | [421622-hamster-games.json](./421622-hamster-games.json) |
 | Hamster Heroes | 4902 | [4902-hamster-heroes.json](./4902-hamster-heroes.json) |
+| Hamster Hunter | 281073 | [281073-hamster-hunter.json](./281073-hamster-hunter.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Hustle | 367082 | [367082-hamster-hustle.json](./367082-hamster-hustle.json) |
 | Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
@@ -4379,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heggo | 356022 | [356022-heggo.json](./356022-heggo.json) |
 | Hegis' Grasp: Evil Resurrected | 55704 | [55704-hegis-grasp-evil-resurrected.json](./55704-hegis-grasp-evil-resurrected.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
+| Hehe | 281067 | [281067-hehe.json](./281067-hehe.json) |
 | Hehu and the Taniwha | 98552 | [98552-hehu-and-the-taniwha.json](./98552-hehu-and-the-taniwha.json) |
 | Hei | 115173 | [115173-hei.json](./115173-hei.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
@@ -8730,6 +8732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School of Memories | 165007 | [165007-high-school-of-memories.json](./165007-high-school-of-memories.json) |
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
 | High School Otome | 126832 | [126832-high-school-otome.json](./126832-high-school-otome.json) |
+| High School Private Tutor | 280988 | [280988-high-school-private-tutor.json](./280988-high-school-private-tutor.json) |
 | High School Secret Romance | 298920 | [298920-high-school-secret-romance.json](./298920-high-school-secret-romance.json) |
 | High School Simulator 2017 | 286757 | [286757-high-school-simulator-2017.json](./286757-high-school-simulator-2017.json) |
 | High School Simulator 2018 | 80997 | [80997-high-school-simulator-2018.json](./80997-high-school-simulator-2018.json) |
