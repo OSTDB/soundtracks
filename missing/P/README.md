@@ -18561,7 +18561,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Prometheus: The Fire Thief | 35433 | [35433-prometheus-the-fire-thief.json](./35433-prometheus-the-fire-thief.json) |
 | Promethium | 38983 | [38983-promethium.json](./38983-promethium.json) |
-| Prominence | 16934 | [16934-prominence.json](./16934-prominence.json) |
 | Promise | 277498 | [277498-promise.json](./277498-promise.json) |
 | Promise Mascot Agency | 299593 | [299593-promise-mascot-agency.json](./299593-promise-mascot-agency.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
