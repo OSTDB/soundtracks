@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C.5: Da Capo 5 Future Link | 283543 | [283543-d-c-5-da-capo-5-future-link.json](./283543-d-c-5-da-capo-5-future-link.json) |
 | D.C.F.S.: Da Capo Four Seasons | 371577 | [371577-d-c-f-s-da-capo-four-seasons.json](./371577-d-c-f-s-da-capo-four-seasons.json) |
 | D.C.K.: Dock Chess King | 244251 | [244251-d-c-k-dock-chess-king.json](./244251-d-c-k-dock-chess-king.json) |
+| D.E.A.T.H. | 360802 | [360802-d-e-a-t-h.json](./360802-d-e-a-t-h.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.E.V Bloodline | 213479 | [213479-d-e-v-bloodline.json](./213479-d-e-v-bloodline.json) |
 | D.F.R.: The Light | 75801 | [75801-d-f-r-the-light.json](./75801-d-f-r-the-light.json) |
@@ -5298,7 +5299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
 | Death Squad 2: Idle Space Raiders | 101784 | [101784-death-squad-2-idle-space-raiders.json](./101784-death-squad-2-idle-space-raiders.json) |
 | Death Squared | 26972 | [26972-death-squared.json](./26972-death-squared.json) |
-| Death Stair | 33462 | [33462-death-stair.json](./33462-death-stair.json) |
 | Death Stairwell 99F | 359672 | [359672-death-stairwell-99f.json](./359672-death-stairwell-99f.json) |
 | Death Stalker | 13579 | [13579-death-stalker.json](./13579-death-stalker.json) |
 | Death Standing | 402098 | [402098-death-standing.json](./402098-death-standing.json) |
@@ -15190,6 +15190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
 | DopeNet | 295418 | [295418-dopenet.json](./295418-dopenet.json) |
 | DopePie Survivors 3D | 390265 | [390265-dopepie-survivors-3d.json](./390265-dopepie-survivors-3d.json) |
+| Dopingun | 358524 | [358524-dopingun.json](./358524-dopingun.json) |
 | Doppa | 247425 | [247425-doppa.json](./247425-doppa.json) |
 | Doppel Diner | 295593 | [295593-doppel-diner.json](./295593-doppel-diner.json) |
 | Doppelganger | 180112 | [180112-doppelganger.json](./180112-doppelganger.json) |
