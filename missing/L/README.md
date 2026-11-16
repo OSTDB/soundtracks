@@ -9735,6 +9735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Bites | 75578 | [75578-love-bites.json](./75578-love-bites.json) |
+| Love Blades and Run | 344613 | [344613-love-blades-and-run.json](./344613-love-blades-and-run.json) |
 | Love Blossoms News | 349589 | [349589-love-blossoms-news.json](./349589-love-blossoms-news.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Brings You Home | 238907 | [238907-love-brings-you-home.json](./238907-love-brings-you-home.json) |
@@ -9785,6 +9786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
 | Love Drops | 204395 | [204395-love-drops.json](./204395-love-drops.json) |
 | Love Drops: Miracle Doukyo Monogatari | 204393 | [204393-love-drops-miracle-doukyo-monogatari.json](./204393-love-drops-miracle-doukyo-monogatari.json) |
+| Love Drunk | 340633 | [340633-love-drunk.json](./340633-love-drunk.json) |
 | Love Duction! The Guide for Galactic Lovers | 176145 | [176145-love-duction-the-guide-for-galactic-lovers.json](./176145-love-duction-the-guide-for-galactic-lovers.json) |
 | Love Elysium: Secret of the Goddess | 305565 | [305565-love-elysium-secret-of-the-goddess.json](./305565-love-elysium-secret-of-the-goddess.json) |
 | Love Elysium: Secret of the Goddess - Aimi's Secrets | 309072 | [309072-love-elysium-secret-of-the-goddess-aimis-secrets.json](./309072-love-elysium-secret-of-the-goddess-aimis-secrets.json) |
