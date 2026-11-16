@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falafel King | 423894 | [423894-falafel-king.json](./423894-falafel-king.json) |
 | Falafel Restaurant Simulator | 166840 | [166840-falafel-restaurant-simulator.json](./166840-falafel-restaurant-simulator.json) |
 | Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
+| Falarma: Open World | 371770 | [371770-falarma-open-world.json](./371770-falarma-open-world.json) |
 | Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
@@ -1677,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Familegion | 388149 | [388149-familegion.json](./388149-familegion.json) |
 | Familia | 125470 | [125470-familia.json](./125470-familia.json) |
 | Familiar | 196570 | [196570-familiar.json](./196570-familiar.json) |
+| Familiar Findings | 372903 | [372903-familiar-findings.json](./372903-familiar-findings.json) |
 | Familiar Friends: What's Your Familiar? | 340056 | [340056-familiar-friends-whats-your-familiar.json](./340056-familiar-friends-whats-your-familiar.json) |
 | Familiar Spirit of the Demon Lord | 82609 | [82609-familiar-spirit-of-the-demon-lord.json](./82609-familiar-spirit-of-the-demon-lord.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
@@ -2191,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
 | Fantasy Heroes 2 | 172001 | [172001-fantasy-heroes-2.json](./172001-fantasy-heroes-2.json) |
 | Fantasy Home Design | 109208 | [109208-fantasy-home-design.json](./109208-fantasy-home-design.json) |
+| Fantasy Idle Dungeon | 372932 | [372932-fantasy-idle-dungeon.json](./372932-fantasy-idle-dungeon.json) |
 | Fantasy Idle RPG | 424872 | [424872-fantasy-idle-rpg.json](./424872-fantasy-idle-rpg.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
@@ -6141,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
+| Find It, Detective! | 373972 | [373972-find-it-detective.json](./373972-find-it-detective.json) |
 | Find It: Hidden Object | 231953 | [231953-find-it-hidden-object.json](./231953-find-it-hidden-object.json) |
 | Find It! | 366431 | [366431-find-it.json](./366431-find-it.json) |
 | Find It! Brain Training Challenge | 345992 | [345992-find-it-brain-training-challenge.json](./345992-find-it-brain-training-challenge.json) |
@@ -7364,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher Online: China | 238416 | [238416-fisher-online-china.json](./238416-fisher-online-china.json) |
 | Fisher Online: Siberia - Enisey | 174427 | [174427-fisher-online-siberia-enisey.json](./174427-fisher-online-siberia-enisey.json) |
 | Fisher Online: USA/Canada - Ontario | 174426 | [174426-fisher-online-usa-canada-ontario.json](./174426-fisher-online-usa-canada-ontario.json) |
+| Fisher-Diver | 371800 | [371800-fisher-diver.json](./371800-fisher-diver.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
 | Fisher-Price Little People Christmas Activity Center | 337173 | [337173-fisher-price-little-people-christmas-activity-center.json](./337173-fisher-price-little-people-christmas-activity-center.json) |
 | Fisher-Price Outdoor Adventures: Ranger Trail | 79595 | [79595-fisher-price-outdoor-adventures-ranger-trail.json](./79595-fisher-price-outdoor-adventures-ranger-trail.json) |
@@ -12589,6 +12594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractala Sandbox | 361028 | [361028-fractala-sandbox.json](./361028-fractala-sandbox.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractaloid Attacks! | 389850 | [389850-fractaloid-attacks.json](./389850-fractaloid-attacks.json) |
+| Fractals | 372929 | [372929-fractals.json](./372929-fractals.json) |
 | Fractals of Destiny | 256955 | [256955-fractals-of-destiny.json](./256955-fractals-of-destiny.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
