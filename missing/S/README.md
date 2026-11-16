@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Doge 2 | 325779 | [325779-save-the-doge-2.json](./325779-save-the-doge-2.json) |
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
 | Save the Earth | 230962 | [230962-save-the-earth.json](./230962-save-the-earth.json) |
+| Save the Earth or Not | 366145 | [366145-save-the-earth-or-not.json](./366145-save-the-earth-or-not.json) |
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
 | Save the Fish | 180497 | [180497-save-the-fish.json](./180497-save-the-fish.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
@@ -21537,6 +21538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souwan no Soldat: The Soldat with Twin Arms | 173916 | [173916-souwan-no-soldat-the-soldat-with-twin-arms.json](./173916-souwan-no-soldat-the-soldat-with-twin-arms.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
+| Sova | 366163 | [366163-sova.json](./366163-sova.json) |
 | Soverain: An Eternal Legend | 377176 | [377176-soverain-an-eternal-legend.json](./377176-soverain-an-eternal-legend.json) |
 | Sovereign | 169907 | [169907-sovereign.json](./169907-sovereign.json) |
 | Sovereign | 61128 | [61128-sovereign.json](./61128-sovereign.json) |
