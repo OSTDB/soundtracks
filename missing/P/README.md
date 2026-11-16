@@ -3469,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Kingmaker - Special Edition | 144424 | [144424-pathfinder-kingmaker-special-edition.json](./144424-pathfinder-kingmaker-special-edition.json) |
 | Pathfinder: Kingmaker - The Wildcards | 124972 | [124972-pathfinder-kingmaker-the-wildcards.json](./124972-pathfinder-kingmaker-the-wildcards.json) |
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
+| Pathfinder: The Dragon's Demand | 408341 | [408341-pathfinder-the-dragons-demand.json](./408341-pathfinder-the-dragons-demand.json) |
 | Pathfinder: Wrath of the Righteous | 127254 | [127254-pathfinder-wrath-of-the-righteous.json](./127254-pathfinder-wrath-of-the-righteous.json) |
 | Pathfinder: Wrath of the Righteous - A Visitor from Distant Lands | 193129 | [193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json](./193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json) |
 | Pathfinder: Wrath of the Righteous - Cloud Version | 219312 | [219312-pathfinder-wrath-of-the-righteous-cloud-version.json](./219312-pathfinder-wrath-of-the-righteous-cloud-version.json) |
@@ -20977,6 +20978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles with Nature | 203795 | [203795-puzzles-with-nature.json](./203795-puzzles-with-nature.json) |
 | Puzzles: Dog | 414499 | [414499-puzzles-dog.json](./414499-puzzles-dog.json) |
 | Puzzles: Fish | 414498 | [414498-puzzles-fish.json](./414498-puzzles-fish.json) |
+| Puzzles: Space Cats | 408314 | [408314-puzzles-space-cats.json](./408314-puzzles-space-cats.json) |
 | PuzzlesCave | 125091 | [125091-puzzlescave.json](./125091-puzzlescave.json) |
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
 | PuzzleSnap | 407637 | [407637-puzzlesnap.json](./407637-puzzlesnap.json) |
