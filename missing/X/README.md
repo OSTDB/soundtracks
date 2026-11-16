@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
 | XP Slime | 369726 | [369726-xp-slime.json](./369726-xp-slime.json) |
 | XP Soccer | 207754 | [207754-xp-soccer.json](./207754-xp-soccer.json) |
+| XP Spelletjes | 281084 | [281084-xp-spelletjes.json](./281084-xp-spelletjes.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xpand Rally | 8034 | [8034-xpand-rally.json](./8034-xpand-rally.json) |
 | Xpand Rally Xtreme | 9310 | [9310-xpand-rally-xtreme.json](./9310-xpand-rally-xtreme.json) |
