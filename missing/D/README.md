@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Decay | 322616 | [322616-dawn-of-decay.json](./322616-dawn-of-decay.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of Defiance | 305290 | [305290-dawn-of-defiance.json](./305290-dawn-of-defiance.json) |
+| Dawn of Demons | 279844 | [279844-dawn-of-demons.json](./279844-dawn-of-demons.json) |
 | Dawn of Destruction | 106844 | [106844-dawn-of-destruction.json](./106844-dawn-of-destruction.json) |
 | Dawn of Discovery | 662 | [662-dawn-of-discovery.json](./662-dawn-of-discovery.json) |
 | Dawn of Discovery: The Harbor | 66759 | [66759-dawn-of-discovery-the-harbor.json](./66759-dawn-of-discovery-the-harbor.json) |
@@ -13642,6 +13643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Just Us | 336271 | [336271-doki-doki-just-us.json](./336271-doki-doki-just-us.json) |
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
 | Doki Doki Literature Club The Mod In Which Natsuki Has A Nice Day And Nothing Horrible Happens To Her, Thank You Very Much | 334279 | [334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json](./334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json) |
+| Doki Doki Literature Club-Love 3DS | 278756 | [278756-doki-doki-literature-club-love-3ds.json](./278756-doki-doki-literature-club-love-3ds.json) |
 | Doki Doki Literature Club: Purist Mod | 172644 | [172644-doki-doki-literature-club-purist-mod.json](./172644-doki-doki-literature-club-purist-mod.json) |
 | Doki Doki Literature Club: Return to the Portrait | 222917 | [222917-doki-doki-literature-club-return-to-the-portrait.json](./222917-doki-doki-literature-club-return-to-the-portrait.json) |
 | Doki Doki Literature Club: The Festival | 336088 | [336088-doki-doki-literature-club-the-festival.json](./336088-doki-doki-literature-club-the-festival.json) |
@@ -21285,6 +21287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
 | Dungeons of Destiny | 422411 | [422411-dungeons-of-destiny.json](./422411-dungeons-of-destiny.json) |
 | Dungeons of Dolkara | 297910 | [297910-dungeons-of-dolkara.json](./297910-dungeons-of-dolkara.json) |
+| Dungeons of Dragons | 279914 | [279914-dungeons-of-dragons.json](./279914-dungeons-of-dragons.json) |
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
 | Dungeons of Dreadrock 2: The Dead King´s Secret | 314393 | [314393-dungeons-of-dreadrock-2-the-dead-king-s-secret.json](./314393-dungeons-of-dreadrock-2-the-dead-king-s-secret.json) |
 | Dungeons of Dredmor: Conquest of the Wizardlands | 172164 | [172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json](./172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json) |
