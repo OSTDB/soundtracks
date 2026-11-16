@@ -15786,6 +15786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark of War | 133399 | [133399-ark-of-war.json](./133399-ark-of-war.json) |
 | Ark of War: Republic | 99883 | [99883-ark-of-war-republic.json](./99883-ark-of-war-republic.json) |
 | Ark Order | 125776 | [125776-ark-order.json](./125776-ark-order.json) |
+| Ark Pandora | 419144 | [419144-ark-pandora.json](./419144-ark-pandora.json) |
 | ARK Park | 31250 | [31250-ark-park.json](./31250-ark-park.json) |
 | ARK Park: Deluxe Edition | 136646 | [136646-ark-park-deluxe-edition.json](./136646-ark-park-deluxe-edition.json) |
 | Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
