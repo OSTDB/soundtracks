@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Petit Raccoon | 388944 | [388944-le-petit-raccoon.json](./388944-le-petit-raccoon.json) |
 | Le Plan Spectral | 346368 | [346368-le-plan-spectral.json](./346368-le-plan-spectral.json) |
 | Le Pompier | 346064 | [346064-le-pompier.json](./346064-le-pompier.json) |
+| Le Psy c'est vous ! Cas n°1 : Lucienne A. | 406950 | [406950-le-psy-cest-vous-cas-n-1-lucienne-a.json](./406950-le-psy-cest-vous-cas-n-1-lucienne-a.json) |
 | Le Repaire | 413326 | [413326-le-repaire.json](./413326-le-repaire.json) |
 | Le Réprobateur | 28016 | [28016-le-reprobateur.json](./28016-le-reprobateur.json) |
 | Le Sanglot des Cigales R: Tomes 5 et 6 | 276055 | [276055-le-sanglot-des-cigales-r-tomes-5-et-6.json](./276055-le-sanglot-des-cigales-r-tomes-5-et-6.json) |
