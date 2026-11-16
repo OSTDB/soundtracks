@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magica Travel Agency: Las Vegas | 295444 | [295444-magica-travel-agency-las-vegas.json](./295444-magica-travel-agency-las-vegas.json) |
 | Magica Wars: Zanbatsu | 62013 | [62013-magica-wars-zanbatsu.json](./62013-magica-wars-zanbatsu.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
+| Magica.io | 214081 | [214081-magica-io.json](./214081-magica-io.json) |
 | Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
 | Magicae Mundi | 110561 | [110561-magicae-mundi.json](./110561-magicae-mundi.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
@@ -17099,6 +17100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
 | Moment | 182044 | [182044-moment.json](./182044-moment.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
+| Moment of the Sword | 214078 | [214078-moment-of-the-sword.json](./214078-moment-of-the-sword.json) |
 | Moment to Midnight | 229248 | [229248-moment-to-midnight.json](./229248-moment-to-midnight.json) |
 | Momenta | 346906 | [346906-momenta.json](./346906-momenta.json) |
 | Momentigrade | 415663 | [415663-momentigrade.json](./415663-momentigrade.json) |
@@ -21341,6 +21343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Stackman | 395215 | [395215-mr-stackman.json](./395215-mr-stackman.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
+| Mr. Superfire | 213657 | [213657-mr-superfire.json](./213657-mr-superfire.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr. Sweet | 99442 | [99442-mr-sweet.json](./99442-mr-sweet.json) |
 | Mr. Swing of the Window Cleaning Company | 235101 | [235101-mr-swing-of-the-window-cleaning-company.json](./235101-mr-swing-of-the-window-cleaning-company.json) |
