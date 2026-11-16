@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Fencer F: Weapon Change Accessory Set | 225920 | [225920-fairy-fencer-f-weapon-change-accessory-set.json](./225920-fairy-fencer-f-weapon-change-accessory-set.json) |
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
+| Fairy Fixer | 306155 | [306155-fairy-fixer.json](./306155-fairy-fixer.json) |
 | Fairy Flower Vines | 146932 | [146932-fairy-flower-vines.json](./146932-fairy-flower-vines.json) |
 | Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
 | Fairy Games | 102678 | [102678-fairy-games.json](./102678-fairy-games.json) |
@@ -4893,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiery Melody | 180094 | [180094-fiery-melody.json](./180094-fiery-melody.json) |
 | Fiery Rivaz | 237720 | [237720-fiery-rivaz.json](./237720-fiery-rivaz.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
+| Fiesta Animal | 306129 | [306129-fiesta-animal.json](./306129-fiesta-animal.json) |
 | Fiestas del Pueblo | 214897 | [214897-fiestas-del-pueblo.json](./214897-fiestas-del-pueblo.json) |
 | Fiete Match | 175273 | [175273-fiete-match.json](./175273-fiete-match.json) |
 | Fiete Soccer | 103585 | [103585-fiete-soccer.json](./103585-fiete-soccer.json) |
