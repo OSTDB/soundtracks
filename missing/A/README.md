@@ -9310,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alula | 185428 | [185428-alula.json](./185428-alula.json) |
 | Alum | 26873 | [26873-alum.json](./26873-alum.json) |
 | Alum | 28576 | [28576-alum.json](./28576-alum.json) |
+| Alumbra | 417084 | [417084-alumbra.json](./417084-alumbra.json) |
 | Aluminium | 189234 | [189234-aluminium.json](./189234-aluminium.json) |
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alumni | 199763 | [199763-alumni.json](./199763-alumni.json) |
@@ -9365,6 +9366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alzheimer's: Memories | 160230 | [160230-alzheimers-memories.json](./160230-alzheimers-memories.json) |
 | AM Archaic Memories | 325208 | [325208-am-archaic-memories.json](./325208-am-archaic-memories.json) |
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
+| Am I Cringe? | 417839 | [417839-am-i-cringe.json](./417839-am-i-cringe.json) |
 | Am I Explorer | 280665 | [280665-am-i-explorer.json](./280665-am-i-explorer.json) |
 | Am I Here? | 399160 | [399160-am-i-here.json](./399160-am-i-here.json) |
 | Am I Hero? | 169338 | [169338-am-i-hero.json](./169338-am-i-hero.json) |
@@ -14177,6 +14179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
+| Arcade Archives 2: Karnov | 417858 | [417858-arcade-archives-2-karnov.json](./417858-arcade-archives-2-karnov.json) |
 | Arcade Archives 2: Konami GT | 398768 | [398768-arcade-archives-2-konami-gt.json](./398768-arcade-archives-2-konami-gt.json) |
 | Arcade Archives 2: Labyrinth Runner | 386906 | [386906-arcade-archives-2-labyrinth-runner.json](./386906-arcade-archives-2-labyrinth-runner.json) |
 | Arcade Archives 2: Lady Bug | 409278 | [409278-arcade-archives-2-lady-bug.json](./409278-arcade-archives-2-lady-bug.json) |
