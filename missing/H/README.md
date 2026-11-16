@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 258160 | [258160-haunted-house.json](./258160-haunted-house.json) |
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
+| Haunted House | 418497 | [418497-haunted-house.json](./418497-haunted-house.json) |
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
 | Haunted House | 75302 | [75302-haunted-house.json](./75302-haunted-house.json) |
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
@@ -3285,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havker-Man X | 346331 | [346331-havker-man-x.json](./346331-havker-man-x.json) |
 | Havoc | 13873 | [13873-havoc.json](./13873-havoc.json) |
 | Havoc | 219238 | [219238-havoc.json](./219238-havoc.json) |
+| Havoc | 418500 | [418500-havoc.json](./418500-havoc.json) |
 | Havoc Fox | 215099 | [215099-havoc-fox.json](./215099-havoc-fox.json) |
 | Havoc Heirs | 399993 | [399993-havoc-heirs.json](./399993-havoc-heirs.json) |
 | Havoc in Creation | 257141 | [257141-havoc-in-creation.json](./257141-havoc-in-creation.json) |
@@ -7283,6 +7285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Plat | 243555 | [243555-hex-plat.json](./243555-hex-plat.json) |
 | Hex Plus | 100061 | [100061-hex-plus.json](./100061-hex-plus.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
+| Hex Pop | 418482 | [418482-hex-pop.json](./418482-hex-pop.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
 | Hex Shop | 398260 | [398260-hex-shop.json](./398260-hex-shop.json) |
@@ -12252,7 +12255,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Heldritch | 280548 | [280548-hotel-heldritch.json](./280548-hotel-heldritch.json) |
 | Hotel Hermes | 187832 | [187832-hotel-hermes.json](./187832-hotel-hermes.json) |
 | Hotel Hideaway | 380123 | [380123-hotel-hideaway.json](./380123-hotel-hideaway.json) |
-| Hotel Hideaway | 86934 | [86934-hotel-hideaway.json](./86934-hotel-hideaway.json) |
 | Hotel Hima | 260865 | [260865-hotel-hima.json](./260865-hotel-hima.json) |
 | Hotel Hustle | 300659 | [300659-hotel-hustle.json](./300659-hotel-hustle.json) |
 | Hotel Hustle: Complete Edition | 328764 | [328764-hotel-hustle-complete-edition.json](./328764-hotel-hustle-complete-edition.json) |
@@ -12738,6 +12740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Are You Doing? | 177496 | [177496-how-are-you-doing.json](./177496-how-are-you-doing.json) |
 | How Asian Parents went to School | 399104 | [399104-how-asian-parents-went-to-school.json](./399104-how-asian-parents-went-to-school.json) |
 | How Buddy's Parents Met | 129321 | [129321-how-buddys-parents-met.json](./129321-how-buddys-parents-met.json) |
+| How Deep Is the Dark Water? | 418462 | [418462-how-deep-is-the-dark-water.json](./418462-how-deep-is-the-dark-water.json) |
 | How Deep is Your Love | 176287 | [176287-how-deep-is-your-love.json](./176287-how-deep-is-your-love.json) |
 | How did I get here? | 203399 | [203399-how-did-i-get-here.json](./203399-how-did-i-get-here.json) |
 | How Did My Dad Go to School | 389744 | [389744-how-did-my-dad-go-to-school.json](./389744-how-did-my-dad-go-to-school.json) |
