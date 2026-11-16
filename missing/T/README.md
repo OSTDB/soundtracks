@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenno | 290536 | [290536-tenno.json](./290536-tenno.json) |
 | Tenohira de Higurashi ga Naku | 274878 | [274878-tenohira-de-higurashi-ga-naku.json](./274878-tenohira-de-higurashi-ga-naku.json) |
 | Tenohira Gakushuu: Chikyuu no Narabe Kata | 130456 | [130456-tenohira-gakushuu-chikyuu-no-narabe-kata.json](./130456-tenohira-gakushuu-chikyuu-no-narabe-kata.json) |
+| Tenohira wo, Taiyou ni: Eikyuu no Kizuna | 415613 | [415613-tenohira-wo-taiyou-ni-eikyuu-no-kizuna.json](./415613-tenohira-wo-taiyou-ni-eikyuu-no-kizuna.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenori-on | 213054 | [213054-tenori-on.json](./213054-tenori-on.json) |
 | Tenpin Bowling | 414338 | [414338-tenpin-bowling.json](./414338-tenpin-bowling.json) |
@@ -7309,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Birds and the Bees II: Antics | 73610 | [73610-the-birds-and-the-bees-ii-antics.json](./73610-the-birds-and-the-bees-ii-antics.json) |
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Birdwatcher | 198101 | [198101-the-birdwatcher.json](./198101-the-birdwatcher.json) |
+| The Birdwatcher's Journal | 415611 | [415611-the-birdwatchers-journal.json](./415611-the-birdwatchers-journal.json) |
 | The Birth Cry | 400911 | [400911-the-birth-cry.json](./400911-the-birth-cry.json) |
 | The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
 | The Birth of Magic | 421803 | [421803-the-birth-of-magic.json](./421803-the-birth-of-magic.json) |
@@ -11951,6 +11953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden and Unknown | 226040 | [226040-the-hidden-and-unknown.json](./226040-the-hidden-and-unknown.json) |
 | The Hidden Art of Innkeeping | 269192 | [269192-the-hidden-art-of-innkeeping.json](./269192-the-hidden-art-of-innkeeping.json) |
 | The Hidden Below | 9357 | [9357-the-hidden-below.json](./9357-the-hidden-below.json) |
+| The Hidden Camp | 415568 | [415568-the-hidden-camp.json](./415568-the-hidden-camp.json) |
 | The Hidden Continent: Column of the Maya | 76086 | [76086-the-hidden-continent-column-of-the-maya.json](./76086-the-hidden-continent-column-of-the-maya.json) |
 | The Hidden Dragon | 32157 | [32157-the-hidden-dragon.json](./32157-the-hidden-dragon.json) |
 | The Hidden Evils Club | 405746 | [405746-the-hidden-evils-club.json](./405746-the-hidden-evils-club.json) |
@@ -12352,6 +12355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
 | The Idolmaster: Poplinks | 142765 | [142765-the-idolmaster-poplinks.json](./142765-the-idolmaster-poplinks.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
+| The Idolmaster: Shiny Colors - A.X.E.8: Alstroemeria | 415588 | [415588-the-idolmaster-shiny-colors-a-x-e-8-alstroemeria.json](./415588-the-idolmaster-shiny-colors-a-x-e-8-alstroemeria.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Houkago Climax Girls | 420789 | [420789-the-idolmaster-shiny-colors-a-x-e-8-houkago-climax-girls.json](./420789-the-idolmaster-shiny-colors-a-x-e-8-houkago-climax-girls.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
 | The Idolmaster: Shiny Colors - Itsuka Kaze ga Yamu Sono Hi made | 415460 | [415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json](./415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json) |
@@ -27825,6 +27829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tolem | 409506 | [409506-tolem.json](./409506-tolem.json) |
 | Toleo | 239825 | [239825-toleo.json](./239825-toleo.json) |
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
+| Toll: The Ferryman's Ledger | 415566 | [415566-toll-the-ferrymans-ledger.json](./415566-toll-the-ferrymans-ledger.json) |
 | Tollan Survivors | 345205 | [345205-tollan-survivors.json](./345205-tollan-survivors.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
@@ -28118,6 +28123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Worm | 181196 | [181196-tomato-worm.json](./181196-tomato-worm.json) |
 | Tomatomania! | 257123 | [257123-tomatomania.json](./257123-tomatomania.json) |
 | Tomatomare | 146078 | [146078-tomatomare.json](./146078-tomatomare.json) |
+| Tomatta Sekai, Koboreochita Cadenza | 415594 | [415594-tomatta-sekai-koboreochita-cadenza.json](./415594-tomatta-sekai-koboreochita-cadenza.json) |
 | Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
 | Tomb Cat | 363007 | [363007-tomb-cat.json](./363007-tomb-cat.json) |
 | Tomb Cat brow | 131054 | [131054-tomb-cat-brow.json](./131054-tomb-cat-brow.json) |
@@ -33417,6 +33423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trancelation | 72448 | [72448-trancelation.json](./72448-trancelation.json) |
 | TranceWave Neo | 304467 | [304467-trancewave-neo.json](./304467-trancewave-neo.json) |
 | Tranject | 128058 | [128058-tranject.json](./128058-tranject.json) |
+| Tranniversary Death Drive | 415707 | [415707-tranniversary-death-drive.json](./415707-tranniversary-death-drive.json) |
 | Tranquil Builds | 288562 | [288562-tranquil-builds.json](./288562-tranquil-builds.json) |
 | Tranquil Cove | 189317 | [189317-tranquil-cove.json](./189317-tranquil-cove.json) |
 | Tranquil Garden | 121367 | [121367-tranquil-garden.json](./121367-tranquil-garden.json) |
