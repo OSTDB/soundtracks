@@ -13880,6 +13880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquabike Rush | 410015 | [410015-aquabike-rush.json](./410015-aquabike-rush.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaBlitz: Alien Racer | 298689 | [298689-aquablitz-alien-racer.json](./298689-aquablitz-alien-racer.json) |
+| Aquabyss | 287831 | [287831-aquabyss.json](./287831-aquabyss.json) |
 | Aquachamber | 390887 | [390887-aquachamber.json](./390887-aquachamber.json) |
 | Aquacity | 148956 | [148956-aquacity.json](./148956-aquacity.json) |
 | Aquaculture Land: Fish Farming Simulation | 111859 | [111859-aquaculture-land-fish-farming-simulation.json](./111859-aquaculture-land-fish-farming-simulation.json) |
