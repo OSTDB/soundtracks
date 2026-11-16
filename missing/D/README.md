@@ -9666,6 +9666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond no Kuni no Alice: Wonderful Mirror World | 213845 | [213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json](./213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json) |
 | Diamond no Kuni no Alice: Wonderful Wonder World | 64165 | [64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json](./64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Diamond Painting | 365872 | [365872-diamond-painting.json](./365872-diamond-painting.json) |
+| Diamond Painting ASMR | 308664 | [308664-diamond-painting-asmr.json](./308664-diamond-painting-asmr.json) |
 | Diamond Painting ASMR: Complete Edition | 313213 | [313213-diamond-painting-asmr-complete-edition.json](./313213-diamond-painting-asmr-complete-edition.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
 | Diamond Painting ASMR: Cute Edition | 317260 | [317260-diamond-painting-asmr-cute-edition.json](./317260-diamond-painting-asmr-cute-edition.json) |
@@ -14147,6 +14148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drop the Bass | 32660 | [32660-dont-drop-the-bass.json](./32660-dont-drop-the-bass.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drop the Soap | 343228 | [343228-dont-drop-the-soap.json](./343228-dont-drop-the-soap.json) |
+| Don't Drop The Wall, Jack! | 310306 | [310306-dont-drop-the-wall-jack.json](./310306-dont-drop-the-wall-jack.json) |
 | Don't Drop the White Ball 2 | 252709 | [252709-dont-drop-the-white-ball-2.json](./252709-dont-drop-the-white-ball-2.json) |
 | Don't Drown | 258098 | [258098-dont-drown.json](./258098-dont-drown.json) |
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
@@ -18665,6 +18667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
 | Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
 | Dreamy Trail | 247844 | [247844-dreamy-trail.json](./247844-dreamy-trail.json) |
+| DreamyPoems | 310785 | [310785-dreamypoems.json](./310785-dreamypoems.json) |
 | Dreary Disposition | 271799 | [271799-dreary-disposition.json](./271799-dreary-disposition.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
 | Dredge: Blackstone Key | 336950 | [336950-dredge-blackstone-key.json](./336950-dredge-blackstone-key.json) |
