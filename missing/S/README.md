@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Luxury Edition | 409979 | [409979-s-n-i-p-e-r-hunter-scope-luxury-edition.json](./409979-s-n-i-p-e-r-hunter-scope-luxury-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Mega Edition | 317241 | [317241-s-n-i-p-e-r-hunter-scope-mega-edition.json](./317241-s-n-i-p-e-r-hunter-scope-mega-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Platinum Edition | 246886 | [246886-s-n-i-p-e-r-hunter-scope-platinum-edition.json](./246886-s-n-i-p-e-r-hunter-scope-platinum-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Premium Edition | 243362 | [243362-s-n-i-p-e-r-hunter-scope-premium-edition.json](./243362-s-n-i-p-e-r-hunter-scope-premium-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Prime Edition | 274490 | [274490-s-n-i-p-e-r-hunter-scope-prime-edition.json](./274490-s-n-i-p-e-r-hunter-scope-prime-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Pro Edition | 399827 | [399827-s-n-i-p-e-r-hunter-scope-pro-edition.json](./399827-s-n-i-p-e-r-hunter-scope-pro-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Silver Edition | 250394 | [250394-s-n-i-p-e-r-hunter-scope-silver-edition.json](./250394-s-n-i-p-e-r-hunter-scope-silver-edition.json) |
@@ -10153,6 +10154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi-Meikan '93 | 48844 | [48844-shogi-meikan-93.json](./48844-shogi-meikan-93.json) |
 | Shogi: Japanese Chess | 221357 | [221357-shogi-japanese-chess.json](./221357-shogi-japanese-chess.json) |
 | Shogi: Touryuumon | 37453 | [37453-shogi-touryuumon.json](./37453-shogi-touryuumon.json) |
+| Shogi! | 243444 | [243444-shogi.json](./243444-shogi.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun | 306534 | [306534-shogun.json](./306534-shogun.json) |
@@ -36634,6 +36636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pocket: NeoGeo Edition | 337913 | [337913-super-pocket-neogeo-edition.json](./337913-super-pocket-neogeo-edition.json) |
 | Super Pocket: Taito Edition | 256710 | [256710-super-pocket-taito-edition.json](./256710-super-pocket-taito-edition.json) |
 | Super Pocket: Technōs Edition | 321840 | [321840-super-pocket-technos-edition.json](./321840-super-pocket-technos-edition.json) |
+| Super Pokémon Eevee Edition | 243434 | [243434-super-pokemon-eevee-edition.json](./243434-super-pokemon-eevee-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Pole Riders | 61855 | [61855-super-pole-riders.json](./61855-super-pole-riders.json) |
 | Super Polished | 304942 | [304942-super-polished.json](./304942-super-polished.json) |
@@ -36777,6 +36780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro Charge | 164291 | [164291-super-retro-charge.json](./164291-super-retro-charge.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
 | Super Retro Fighter | 169484 | [169484-super-retro-fighter.json](./169484-super-retro-fighter.json) |
+| Super Retro GP | 244434 | [244434-super-retro-gp.json](./244434-super-retro-gp.json) |
 | Super Retro Kart | 242940 | [242940-super-retro-kart.json](./242940-super-retro-kart.json) |
 | Super Retro Maker | 75404 | [75404-super-retro-maker.json](./75404-super-retro-maker.json) |
 | Super Retro Mega Wars | 369670 | [369670-super-retro-mega-wars.json](./369670-super-retro-mega-wars.json) |
