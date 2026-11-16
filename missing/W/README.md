@@ -4054,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WestQuest for Playdate! | 264557 | [264557-westquest-for-playdate.json](./264557-westquest-for-playdate.json) |
 | WestSlingers | 53313 | [53313-westslingers.json](./53313-westslingers.json) |
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
+| Westview Academy | 360797 | [360797-westview-academy.json](./360797-westview-academy.json) |
 | Westward | 7503 | [7503-westward.json](./7503-westward.json) |
 | Westward 2 | 106210 | [106210-westward-2.json](./106210-westward-2.json) |
 | Westward 3 | 7530 | [7530-westward-3.json](./7530-westward-3.json) |
