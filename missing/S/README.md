@@ -4818,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search & Rescue 4: Coastal Heroes | 50114 | [50114-search-and-rescue-4-coastal-heroes.json](./50114-search-and-rescue-4-coastal-heroes.json) |
 | Search & Rescue: Vietnam Med Evac | 73994 | [73994-search-and-rescue-vietnam-med-evac.json](./73994-search-and-rescue-vietnam-med-evac.json) |
 | Search 4 Bigfoot | 213460 | [213460-search-4-bigfoot.json](./213460-search-4-bigfoot.json) |
+| Search Account | 330044 | [330044-search-account.json](./330044-search-account.json) |
 | Search All: Aliens | 294970 | [294970-search-all-aliens.json](./294970-search-all-aliens.json) |
 | Search All: Animals | 191009 | [191009-search-all-animals.json](./191009-search-all-animals.json) |
 | Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
@@ -14074,6 +14075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skooter | 410637 | [410637-skooter.json](./410637-skooter.json) |
+| Skopje '83 | 329862 | [329862-skopje-83.json](./329862-skopje-83.json) |
 | Skorb | 57384 | [57384-skorb.json](./57384-skorb.json) |
 | Skorecery | 113577 | [113577-skorecery.json](./113577-skorecery.json) |
 | Skorpulac | 105062 | [105062-skorpulac.json](./105062-skorpulac.json) |
@@ -14100,6 +14102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skuf vs Beer Bottle Party | 368195 | [368195-skuf-vs-beer-bottle-party.json](./368195-skuf-vs-beer-bottle-party.json) |
 | Skuf's Day | 294114 | [294114-skufs-day.json](./294114-skufs-day.json) |
 | Skufs and Alt-Girls | 298067 | [298067-skufs-and-alt-girls.json](./298067-skufs-and-alt-girls.json) |
+| Skufs vs. Quadrobers | 329881 | [329881-skufs-vs-quadrobers.json](./329881-skufs-vs-quadrobers.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skul: The Hero Slayer | 127842 | [127842-skul-the-hero-slayer.json](./127842-skul-the-hero-slayer.json) |
 | Skul: The Hero Slayer - Mythology Pack | 275957 | [275957-skul-the-hero-slayer-mythology-pack.json](./275957-skul-the-hero-slayer-mythology-pack.json) |
