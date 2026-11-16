@@ -5732,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globetrotter XL | 237500 | [237500-globetrotter-xl.json](./237500-globetrotter-xl.json) |
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
 | Globey: On the Roll! | 209754 | [209754-globey-on-the-roll.json](./209754-globey-on-the-roll.json) |
+| Globle: Capitals | 403235 | [403235-globle-capitals.json](./403235-globle-capitals.json) |
 | Globox 2001 | 193370 | [193370-globox-2001.json](./193370-globox-2001.json) |
 | Globs | 322758 | [322758-globs.json](./322758-globs.json) |
 | Globs & Ghosts | 255454 | [255454-globs-and-ghosts.json](./255454-globs-and-ghosts.json) |
