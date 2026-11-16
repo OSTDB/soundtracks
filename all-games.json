@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T12:46:06.724Z",
-  "total_soundtracks": 3501,
+  "generated_at": "2026-11-16T13:26:01.795Z",
+  "total_soundtracks": 3502,
   "games": [
     {
       "igdb_id": 292844,
@@ -34407,6 +34407,20 @@
         {
           "album_name": "SPRAWL (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1LJ5pr8AC8s4cBJotkWhoq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 393036,
+      "game_name": "Sprawl Zero",
+      "game_url": "https://ostdb.net/games/sprawl-zero",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730a6976859df413ab6ee121db",
+      "albums": [
+        {
+          "album_name": "SPRAWL zero (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6d0L9efGVefHtiPcDcP6Ao",
           "apple_music_url": "",
           "album_link_url": ""
         }
