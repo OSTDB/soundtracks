@@ -6891,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Warband | 297913 | [297913-heros-warband.json](./297913-heros-warband.json) |
 | Hero's Way | 253322 | [253322-heros-way.json](./253322-heros-way.json) |
 | HeroBattle | 369647 | [369647-herobattle.json](./369647-herobattle.json) |
+| HeroBot! | 267124 | [267124-herobot.json](./267124-herobot.json) |
 | Herobotix | 55204 | [55204-herobotix.json](./55204-herobotix.json) |
 | HeroBound: Spirit Champion | 60196 | [60196-herobound-spirit-champion.json](./60196-herobound-spirit-champion.json) |
 | HeroCade | 99516 | [99516-herocade.json](./99516-herocade.json) |
