@@ -16789,7 +16789,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirate: Caribbean Hunt | 31726 | [31726-the-pirate-caribbean-hunt.json](./31726-the-pirate-caribbean-hunt.json) |
 | The Pirate: Plague of the Dead | 72503 | [72503-the-pirate-plague-of-the-dead.json](./72503-the-pirate-plague-of-the-dead.json) |
 | The Pirate: Republic of Nassau | 396461 | [396461-the-pirate-republic-of-nassau.json](./396461-the-pirate-republic-of-nassau.json) |
-| The Pirate's Fate | 76587 | [76587-the-pirates-fate.json](./76587-the-pirates-fate.json) |
 | The Pirate's Fate: Prisoner of Destiny | 169331 | [169331-the-pirates-fate-prisoner-of-destiny.json](./169331-the-pirates-fate-prisoner-of-destiny.json) |
 | The Pirate's Quest | 310092 | [310092-the-pirates-quest.json](./310092-the-pirates-quest.json) |
 | The Pirate's Treasure: An Oliver Hook Mystery | 416250 | [416250-the-pirates-treasure-an-oliver-hook-mystery.json](./416250-the-pirates-treasure-an-oliver-hook-mystery.json) |
