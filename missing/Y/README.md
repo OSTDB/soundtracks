@@ -60,7 +60,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaengard | 155676 | [155676-yaengard.json](./155676-yaengard.json) |
 | Yafti | 93760 | [93760-yafti.json](./93760-yafti.json) |
 | Yag | 114196 | [114196-yag.json](./114196-yag.json) |
-| Yaga | 103048 | [103048-yaga.json](./103048-yaga.json) |
 | Yaga: Armful Edition | 186527 | [186527-yaga-armful-edition.json](./186527-yaga-armful-edition.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | Yaga's Candy House | 298003 | [298003-yagas-candy-house.json](./298003-yagas-candy-house.json) |
@@ -305,7 +304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Virus | 405829 | [405829-yandere-virus.json](./405829-yandere-virus.json) |
 | Yandere-Chan | 125998 | [125998-yandere-chan.json](./125998-yandere-chan.json) |
 | Yandere: Love & Madness | 338643 | [338643-yandere-love-and-madness.json](./338643-yandere-love-and-madness.json) |
-| Yanderella | 125858 | [125858-yanderella.json](./125858-yanderella.json) |
 | Yanderella Death Harem | 314805 | [314805-yanderella-death-harem.json](./314805-yanderella-death-harem.json) |
 | Yanderetale | 145771 | [145771-yanderetale.json](./145771-yanderetale.json) |
 | Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
@@ -394,7 +392,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasa Pets School | 107553 | [107553-yasa-pets-school.json](./107553-yasa-pets-school.json) |
 | Yasa Pets Village | 97048 | [97048-yasa-pets-village.json](./97048-yasa-pets-village.json) |
 | Yasai Game | 294895 | [294895-yasai-game.json](./294895-yasai-game.json) |
-| Yasai Ninja | 21861 | [21861-yasai-ninja.json](./21861-yasai-ninja.json) |
 | Yasashii Ori no Naka de | 388145 | [388145-yasashii-ori-no-naka-de.json](./388145-yasashii-ori-no-naka-de.json) |
 | Yasashii Tamagotchi | 229845 | [229845-yasashii-tamagotchi.json](./229845-yasashii-tamagotchi.json) |
 | YASG | 122326 | [122326-yasg.json](./122326-yasg.json) |
@@ -414,7 +411,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
 | Yatagarasu | 80617 | [80617-yatagarasu.json](./80617-yatagarasu.json) |
 | Yatagarasu Enter the Eastward | 282127 | [282127-yatagarasu-enter-the-eastward.json](./282127-yatagarasu-enter-the-eastward.json) |
-| Yatagarasu: Attack on Cataclysm | 17763 | [17763-yatagarasu-attack-on-cataclysm.json](./17763-yatagarasu-attack-on-cataclysm.json) |
 | Yatai 8 | 414075 | [414075-yatai-8.json](./414075-yatai-8.json) |
 | YATB: You Are the Best - Egypt Chapter | 143943 | [143943-yatb-you-are-the-best-egypt-chapter.json](./143943-yatb-you-are-the-best-egypt-chapter.json) |
 | YATC | 62029 | [62029-yatc.json](./62029-yatc.json) |
@@ -581,7 +577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes, And So Our Hollow Hearts Called For Love | 352835 | [352835-yes-and-so-our-hollow-hearts-called-for-love.json](./352835-yes-and-so-our-hollow-hearts-called-for-love.json) |
 | Yes, Drill Sergeant! | 22083 | [22083-yes-drill-sergeant.json](./22083-yes-drill-sergeant.json) |
 | Yes, Mama | 181609 | [181609-yes-mama.json](./181609-yes-mama.json) |
-| Yes, Master! | 118984 | [118984-yes-master.json](./118984-yes-master.json) |
 | Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
 | Yes, my mother is... | 57473 | [57473-yes-my-mother-is.json](./57473-yes-my-mother-is.json) |
 | Yes, My Queen | 356604 | [356604-yes-my-queen.json](./356604-yes-my-queen.json) |
@@ -770,11 +765,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo-Kai Watch 1 for Nintendo Switch | 136357 | [136357-yo-kai-watch-1-for-nintendo-switch.json](./136357-yo-kai-watch-1-for-nintendo-switch.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
-| Yo-Kai Watch 2: Bony Spirits | 11658 | [11658-yo-kai-watch-2-bony-spirits.json](./11658-yo-kai-watch-2-bony-spirits.json) |
 | Yo-Kai Watch 2: Fleshy Souls | 24470 | [24470-yo-kai-watch-2-fleshy-souls.json](./24470-yo-kai-watch-2-fleshy-souls.json) |
 | Yo-kai Watch 2: Haunted Domain | 417168 | [417168-yo-kai-watch-2-haunted-domain.json](./417168-yo-kai-watch-2-haunted-domain.json) |
 | Yo-Kai Watch 2: Psychic Specters | 27129 | [27129-yo-kai-watch-2-psychic-specters.json](./27129-yo-kai-watch-2-psychic-specters.json) |
-| Yo-kai Watch 3 | 113249 | [113249-yo-kai-watch-3.json](./113249-yo-kai-watch-3.json) |
 | Yo-kai Watch 3: Sukiyaki | 113248 | [113248-yo-kai-watch-3-sukiyaki.json](./113248-yo-kai-watch-3-sukiyaki.json) |
 | Yo-Kai Watch 3: Sushi | 136889 | [136889-yo-kai-watch-3-sushi.json](./136889-yo-kai-watch-3-sushi.json) |
 | Yo-Kai Watch 3: Sushi/Tempura Busters T Pack | 11660 | [11660-yo-kai-watch-3-sushi-tempura-busters-t-pack.json](./11660-yo-kai-watch-3-sushi-tempura-busters-t-pack.json) |
@@ -804,7 +797,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo, Matias: Sueños Peligrosos | 343311 | [343311-yo-matias-suenos-peligrosos.json](./343311-yo-matias-suenos-peligrosos.json) |
 | Yo! Joe! Beat the Ghosts | 12630 | [12630-yo-joe-beat-the-ghosts.json](./12630-yo-joe-beat-the-ghosts.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
-| Yo! Noid | 19612 | [19612-yo-noid.json](./19612-yo-noid.json) |
 | Yo! Noid 2 | 116635 | [116635-yo-noid-2.json](./116635-yo-noid-2.json) |
 | Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
 | Yo! Noid 4: Episode 3 | 316597 | [316597-yo-noid-4-episode-3.json](./316597-yo-noid-4-episode-3.json) |
@@ -984,7 +976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: Night Alone - Digital Pitch Dark Edition | 52105 | [52105-yomawari-night-alone-digital-pitch-dark-edition.json](./52105-yomawari-night-alone-digital-pitch-dark-edition.json) |
 | Yomawari: Night Alone - Limited Edition | 42728 | [42728-yomawari-night-alone-limited-edition.json](./42728-yomawari-night-alone-limited-edition.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
-| Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yomegami: My Sweet Goddess | 361980 | [361980-yomegami-my-sweet-goddess.json](./361980-yomegami-my-sweet-goddess.json) |
 | Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
 | Yomi | 17189 | [17189-yomi.json](./17189-yomi.json) |
@@ -1033,8 +1024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoomurjak's Ring | 117716 | [117716-yoomurjaks-ring.json](./117716-yoomurjaks-ring.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
-| Yoostar 2: In the Movies | 20164 | [20164-yoostar-2-in-the-movies.json](./20164-yoostar-2-in-the-movies.json) |
-| Yoostar on MTV | 9593 | [9593-yoostar-on-mtv.json](./9593-yoostar-on-mtv.json) |
 | Yoot Tower | 7520 | [7520-yoot-tower.json](./7520-yoot-tower.json) |
 | Yopaz Icestar | 330267 | [330267-yopaz-icestar.json](./330267-yopaz-icestar.json) |
 | Yora Adventures | 141103 | [141103-yora-adventures.json](./141103-yora-adventures.json) |
@@ -1042,9 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorbie | 60468 | [60468-yorbie.json](./60468-yorbie.json) |
 | Yorbie: Episode 1 - Payback's a Bolt | 22085 | [22085-yorbie-episode-1-paybacks-a-bolt.json](./22085-yorbie-episode-1-paybacks-a-bolt.json) |
 | Yorda's Quest | 388158 | [388158-yordas-quest.json](./388158-yordas-quest.json) |
-| Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
-| Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
 | Yori's Journey: Forgotten Origins | 304767 | [304767-yoris-journey-forgotten-origins.json](./304767-yoris-journey-forgotten-origins.json) |
 | Yorigami Market | 269580 | [269580-yorigami-market.json](./269580-yorigami-market.json) |
 | Yorisoi Delivery | 308924 | [308924-yorisoi-delivery.json](./308924-yorisoi-delivery.json) |
@@ -1083,7 +1070,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Tanks | 320227 | [320227-yoshi-tanks.json](./320227-yoshi-tanks.json) |
 | Yoshi Tanks Kawaii | 368748 | [368748-yoshi-tanks-kawaii.json](./368748-yoshi-tanks-kawaii.json) |
-| Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi Touch & Go | 231475 | [231475-yoshi-touch-and-go.json](./231475-yoshi-touch-and-go.json) |
 | Yoshi vs. Plants | 422762 | [422762-yoshi-vs-plants.json](./422762-yoshi-vs-plants.json) |
 | Yoshi vs. Windows | 141624 | [141624-yoshi-vs-windows.json](./141624-yoshi-vs-windows.json) |
@@ -1111,7 +1097,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | Yoshi's New Island | 4591 | [4591-yoshis-new-island.json](./4591-yoshis-new-island.json) |
 | Yoshi's Racing Story | 195026 | [195026-yoshis-racing-story.json](./195026-yoshis-racing-story.json) |
-| Yoshi's Safari | 11604 | [11604-yoshis-safari.json](./11604-yoshis-safari.json) |
 | Yoshi's Story | 3213 | [3213-yoshis-story.json](./3213-yoshis-story.json) |
 | Yoshi's Strange Quest | 38305 | [38305-yoshis-strange-quest.json](./38305-yoshis-strange-quest.json) |
 | Yoshi's Woolly World | 7343 | [7343-yoshis-woolly-world.json](./7343-yoshis-woolly-world.json) |
@@ -1151,7 +1136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You and I and the Long, Long Drive | 173427 | [173427-you-and-i-and-the-long-long-drive.json](./173427-you-and-i-and-the-long-long-drive.json) |
 | You and I, at the End of That Summer | 375293 | [375293-you-and-i-at-the-end-of-that-summer.json](./375293-you-and-i-at-the-end-of-that-summer.json) |
 | You and Me | 200348 | [200348-you-and-me.json](./200348-you-and-me.json) |
-| You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
 | You and Not You | 134281 | [134281-you-and-not-you.json](./134281-you-and-not-you.json) |
 | You and the Night | 233344 | [233344-you-and-the-night.json](./233344-you-and-the-night.json) |
 | You Are 100k Light Years Away | 252933 | [252933-you-are-100k-light-years-away.json](./252933-you-are-100k-light-years-away.json) |
@@ -1274,10 +1258,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack | 5304 | [5304-you-dont-know-jack.json](./5304-you-dont-know-jack.json) |
 | You Don't Know Jack Movies | 16785 | [16785-you-dont-know-jack-movies.json](./16785-you-dont-know-jack-movies.json) |
 | You Don't Know Jack Presented by Masatoshi Hamada | 391562 | [391562-you-dont-know-jack-presented-by-masatoshi-hamada.json](./391562-you-dont-know-jack-presented-by-masatoshi-hamada.json) |
-| You Don't Know Jack Sports | 16786 | [16786-you-dont-know-jack-sports.json](./16786-you-dont-know-jack-sports.json) |
 | You Don't Know Jack Television | 16787 | [16787-you-dont-know-jack-television.json](./16787-you-dont-know-jack-television.json) |
 | You Don't Know Jack Vol. 2 | 16782 | [16782-you-dont-know-jack-vol-2.json](./16782-you-dont-know-jack-vol-2.json) |
-| You Don't Know Jack Vol. 4: The Ride | 16784 | [16784-you-dont-know-jack-vol-4-the-ride.json](./16784-you-dont-know-jack-vol-4-the-ride.json) |
 | You Don't Know Jack Vol. 6: The Lost Gold | 16789 | [16789-you-dont-know-jack-vol-6-the-lost-gold.json](./16789-you-dont-know-jack-vol-6-the-lost-gold.json) |
 | You Don't Know Jack: 5th Dementia | 73383 | [73383-you-dont-know-jack-5th-dementia.json](./73383-you-dont-know-jack-5th-dementia.json) |
 | You Don't Know Jack: Jumbo | 205804 | [205804-you-dont-know-jack-jumbo.json](./205804-you-dont-know-jack-jumbo.json) |
@@ -1412,7 +1394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You, Error. | 390716 | [390716-you-error.json](./390716-you-error.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You, Me, and a Beautiful Lie: Classic Remaster | 429751 | [429751-you-me-and-a-beautiful-lie-classic-remaster.json](./429751-you-me-and-a-beautiful-lie-classic-remaster.json) |
-| You, Me, and the Cubes | 21114 | [21114-you-me-and-the-cubes.json](./21114-you-me-and-the-cubes.json) |
 | You, With Me: A Kinetic Novel | 90490 | [90490-you-with-me-a-kinetic-novel.json](./90490-you-with-me-a-kinetic-novel.json) |
 | You, you've got me wrong! | 82683 | [82683-you-youve-got-me-wrong.json](./82683-you-youve-got-me-wrong.json) |
 | You: The Untold Stories | 106543 | [106543-you-the-untold-stories.json](./106543-you-the-untold-stories.json) |
@@ -1526,12 +1507,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Hearts | 272710 | [272710-young-hearts.json](./272710-young-hearts.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Justice: Legacy | 194949 | [194949-young-justice-legacy.json](./194949-young-justice-legacy.json) |
+| Young Justice: Legacy | 264827 | [264827-young-justice-legacy.json](./264827-young-justice-legacy.json) |
 | Young Justice: Legacy | 7259 | [7259-young-justice-legacy.json](./7259-young-justice-legacy.json) |
 | Young Kong: The Myth of the Magic Throne | 330612 | [330612-young-kong-the-myth-of-the-magic-throne.json](./330612-young-kong-the-myth-of-the-magic-throne.json) |
 | Young Mage | 244665 | [244665-young-mage.json](./244665-young-mage.json) |
-| Young Merlin | 11665 | [11665-young-merlin.json](./11665-young-merlin.json) |
 | Young Sherlock: The Legacy of Doyle | 70163 | [70163-young-sherlock-the-legacy-of-doyle.json](./70163-young-sherlock-the-legacy-of-doyle.json) |
-| Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Young Team Sounds | 263715 | [263715-young-team-sounds.json](./263715-young-team-sounds.json) |
 | Young Thor | 20467 | [20467-young-thor.json](./20467-young-thor.json) |
@@ -1732,11 +1712,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life | 19331 | [19331-youtubers-life.json](./19331-youtubers-life.json) |
 | Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
 | Youtubers Life - Music Channel | 87467 | [87467-youtubers-life-music-channel.json](./87467-youtubers-life-music-channel.json) |
-| Youtubers Life 2 | 145776 | [145776-youtubers-life-2.json](./145776-youtubers-life-2.json) |
 | Youtubers Life 3 | 344644 | [344644-youtubers-life-3.json](./344644-youtubers-life-3.json) |
 | Youtubers Life: Fashion | 212413 | [212413-youtubers-life-fashion.json](./212413-youtubers-life-fashion.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
-| Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
 | Yóuxì Rénshēng: Xīnmó | 154332 | [154332-youxi-rensheng-xinmo.json](./154332-youxi-rensheng-xinmo.json) |
 | Youxing Continent | 326292 | [326292-youxing-continent.json](./326292-youxing-continent.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
@@ -1773,7 +1751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys I & II Chronicles+ | 21032 | [21032-ys-i-and-ii-chronicles.json](./21032-ys-i-and-ii-chronicles.json) |
 | Ys I & II: Eternal Story | 124499 | [124499-ys-i-and-ii-eternal-story.json](./124499-ys-i-and-ii-eternal-story.json) |
 | Ys I Chronicals | 410166 | [410166-ys-i-chronicals.json](./410166-ys-i-chronicals.json) |
-| Ys I Chronicles+ | 145897 | [145897-ys-i-chronicles.json](./145897-ys-i-chronicles.json) |
 | Ys I Complete | 124501 | [124501-ys-i-complete.json](./124501-ys-i-complete.json) |
 | Ys II | 206537 | [206537-ys-ii.json](./206537-ys-ii.json) |
 | Ys II Chronicals | 410167 | [410167-ys-ii-chronicals.json](./410167-ys-ii-chronicals.json) |
@@ -1781,7 +1758,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys II Complete | 124500 | [124500-ys-ii-complete.json](./124500-ys-ii-complete.json) |
 | Ys II DS | 112196 | [112196-ys-ii-ds.json](./112196-ys-ii-ds.json) |
 | Ys II Eternal | 124502 | [124502-ys-ii-eternal.json](./124502-ys-ii-eternal.json) |
-| Ys II: Ancient Ys Vanished - The Final Chapter | 15449 | [15449-ys-ii-ancient-ys-vanished-the-final-chapter.json](./15449-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
 | Ys II: Ancient Ys Vanished - The Final Chapter | 206639 | [206639-ys-ii-ancient-ys-vanished-the-final-chapter.json](./206639-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
 | Ys III | 206522 | [206522-ys-iii.json](./206522-ys-iii.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
@@ -1872,13 +1848,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Proud Nordics: Launch Edition | 403562 | [403562-ys-x-proud-nordics-launch-edition.json](./403562-ys-x-proud-nordics-launch-edition.json) |
 | Ys: Ancient Ys Vanished | 399551 | [399551-ys-ancient-ys-vanished.json](./399551-ys-ancient-ys-vanished.json) |
 | Ys: Book I & II | 70166 | [70166-ys-book-i-and-ii.json](./70166-ys-book-i-and-ii.json) |
-| Ys: Memories of Celceta | 117495 | [117495-ys-memories-of-celceta.json](./117495-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
 | Ys: The Oath in Felghana - Premium Edition | 42690 | [42690-ys-the-oath-in-felghana-premium-edition.json](./42690-ys-the-oath-in-felghana-premium-edition.json) |
 | Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
-| Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
 | Ys: Wanderers from Ys | 206523 | [206523-ys-wanderers-from-ys.json](./206523-ys-wanderers-from-ys.json) |
 | Ys: Wanderers from Ys | 375461 | [375461-ys-wanderers-from-ys.json](./375461-ys-wanderers-from-ys.json) |
 | YSFlight | 50309 | [50309-ysflight.json](./50309-ysflight.json) |
@@ -1976,8 +1950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! Special Edition | 225342 | [225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json](./225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json) |
 | Yu-Gi-Oh! Tag Force GX | 417178 | [417178-yu-gi-oh-tag-force-gx.json](./417178-yu-gi-oh-tag-force-gx.json) |
-| Yu-Gi-Oh! The Dawn of Destiny | 6257 | [6257-yu-gi-oh-the-dawn-of-destiny.json](./6257-yu-gi-oh-the-dawn-of-destiny.json) |
-| Yu-Gi-Oh! The Eternal Duelist Soul | 11672 | [11672-yu-gi-oh-the-eternal-duelist-soul.json](./11672-yu-gi-oh-the-eternal-duelist-soul.json) |
 | Yu-Gi-Oh! The Falsebound Kingdom | 4582 | [4582-yu-gi-oh-the-falsebound-kingdom.json](./4582-yu-gi-oh-the-falsebound-kingdom.json) |
 | Yu-Gi-Oh! The Sacred Cards | 6697 | [6697-yu-gi-oh-the-sacred-cards.json](./6697-yu-gi-oh-the-sacred-cards.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
@@ -1988,7 +1960,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Zexal World Duel Carnival | 47665 | [47665-yu-gi-oh-zexal-world-duel-carnival.json](./47665-yu-gi-oh-zexal-world-duel-carnival.json) |
 | Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
 | Yu-Nama: The Puzzle | 63364 | [63364-yu-nama-the-puzzle.json](./63364-yu-nama-the-puzzle.json) |
-| Yu-No: A Girl Who Chants Love at the Bound of this World | 11816 | [11816-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json](./11816-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json) |
 | YU-NO: A Girl Who Chants Love at the Bound of This World | 201228 | [201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json](./201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json) |
 | YU-NO: A Girl Who Chants Love at the Bound of this World - Day One Edition | 136220 | [136220-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-day-one-edition.json](./136220-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-day-one-edition.json) |
 | Yu'N'Mi | 175745 | [175745-yunmi.json](./175745-yunmi.json) |
@@ -2047,9 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
 | Yuki no Jigsaw Kids | 151860 | [151860-yuki-no-jigsaw-kids.json](./151860-yuki-no-jigsaw-kids.json) |
 | Yuki no Wai-wai Kids | 179217 | [179217-yuki-no-wai-wai-kids.json](./179217-yuki-no-wai-wai-kids.json) |
-| Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
 | Yuki-iro Sign | 240708 | [240708-yuki-iro-sign.json](./240708-yuki-iro-sign.json) |
-| Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
 | Yuki’s Palpitating, Passionate, Phenomenal, and Quite Frankly Proficient Quest for a Hot Girlfriend!!! | 178770 | [178770-yuki-s-palpitating-passionate-phenomenal-and-quite-frankly-proficient-quest-for-a-hot-girlfriend.json](./178770-yuki-s-palpitating-passionate-phenomenal-and-quite-frankly-proficient-quest-for-a-hot-girlfriend.json) |
 | Yuki's Symphony | 362751 | [362751-yukis-symphony.json](./362751-yukis-symphony.json) |
 | Yuki's Tale | 114834 | [114834-yukis-tale.json](./114834-yukis-tale.json) |
