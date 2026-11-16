@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
 | Narcotics Police: Black and White | 90625 | [90625-narcotics-police-black-and-white.json](./90625-narcotics-police-black-and-white.json) |
 | Narcotics Police: Crime And Punish | 254648 | [254648-narcotics-police-crime-and-punish.json](./254648-narcotics-police-crime-and-punish.json) |
+| NarcotizeDR | 287840 | [287840-narcotizedr.json](./287840-narcotizedr.json) |
 | Nareko The Mineral Appraiser | 403920 | [403920-nareko-the-mineral-appraiser.json](./403920-nareko-the-mineral-appraiser.json) |
 | Nargul: Humans are among us | 192553 | [192553-nargul-humans-are-among-us.json](./192553-nargul-humans-are-among-us.json) |
 | Nari Kids Park: Hug-tto! PreCure | 109261 | [109261-nari-kids-park-hug-tto-precure.json](./109261-nari-kids-park-hug-tto-precure.json) |
