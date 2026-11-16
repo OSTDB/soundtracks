@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Yaga | 297990 | [297990-baba-yaga.json](./297990-baba-yaga.json) |
 | Baba Yaga | 330347 | [330347-baba-yaga.json](./330347-baba-yaga.json) |
 | Baba Yaga | 367181 | [367181-baba-yaga.json](./367181-baba-yaga.json) |
+| Baba Yaga learns to read | 279828 | [279828-baba-yaga-learns-to-read.json](./279828-baba-yaga-learns-to-read.json) |
 | Baba Yaga's cabin | 298002 | [298002-baba-yagas-cabin.json](./298002-baba-yagas-cabin.json) |
 | Baba Yaga's Cosy House | 297996 | [297996-baba-yagas-cosy-house.json](./297996-baba-yagas-cosy-house.json) |
 | Baba Yaga's Great Adventure | 298006 | [298006-baba-yagas-great-adventure.json](./298006-baba-yagas-great-adventure.json) |
@@ -13604,6 +13605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob and the Alien Fireflies | 304225 | [304225-bob-and-the-alien-fireflies.json](./304225-bob-and-the-alien-fireflies.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Don't Sleep! | 369201 | [369201-bob-dont-sleep.json](./369201-bob-dont-sleep.json) |
+| Bob en el Polo | 279821 | [279821-bob-en-el-polo.json](./279821-bob-en-el-polo.json) |
 | Bob et Bobette: Les Dompteurs du Temps | 93967 | [93967-bob-et-bobette-les-dompteurs-du-temps.json](./93967-bob-et-bobette-les-dompteurs-du-temps.json) |
 | Bob Fight | 303347 | [303347-bob-fight.json](./303347-bob-fight.json) |
 | Bob Help Them | 146949 | [146949-bob-help-them.json](./146949-bob-help-them.json) |
