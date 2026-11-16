@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kepler Attack | 259973 | [259973-kepler-attack.json](./259973-kepler-attack.json) |
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
 | Kepler-2100 | 283031 | [283031-kepler-2100.json](./283031-kepler-2100.json) |
+| Keplerian Space Discovery | 339528 | [339528-keplerian-space-discovery.json](./339528-keplerian-space-discovery.json) |
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
 | Kept Man Life | 56145 | [56145-kept-man-life.json](./56145-kept-man-life.json) |
 | Keptosh: The Search for Junc | 110887 | [110887-keptosh-the-search-for-junc.json](./110887-keptosh-the-search-for-junc.json) |
