@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandfall | 172923 | [172923-sandfall.json](./172923-sandfall.json) |
 | Sandhill Architectures | 106407 | [106407-sandhill-architectures.json](./106407-sandhill-architectures.json) |
 | Sandiego Inc. | 98120 | [98120-sandiego-inc.json](./98120-sandiego-inc.json) |
+| Sandloop | 347920 | [347920-sandloop.json](./347920-sandloop.json) |
 | Sandmade | 97924 | [97924-sandmade.json](./97924-sandmade.json) |
 | Sandman | 216305 | [216305-sandman.json](./216305-sandman.json) |
 | Sandman Academy | 95691 | [95691-sandman-academy.json](./95691-sandman-academy.json) |
@@ -5479,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seedless Light | 237149 | [237149-seedless-light.json](./237149-seedless-light.json) |
 | Seedling | 62421 | [62421-seedling.json](./62421-seedling.json) |
 | Seedlings | 192625 | [192625-seedlings.json](./192625-seedlings.json) |
+| Seedovia | 347944 | [347944-seedovia.json](./347944-seedovia.json) |
 | Seedrun | 373062 | [373062-seedrun.json](./373062-seedrun.json) |
 | Seeds | 337669 | [337669-seeds.json](./337669-seeds.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
@@ -12103,6 +12105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silvatale | 370414 | [370414-silvatale.json](./370414-silvatale.json) |
 | Silver | 359147 | [359147-silver.json](./359147-silver.json) |
 | Silver | 7042 | [7042-silver.json](./7042-silver.json) |
+| Silver and Blood | 350078 | [350078-silver-and-blood.json](./350078-silver-and-blood.json) |
 | Silver Axe: The Honest Elf | 195129 | [195129-silver-axe-the-honest-elf.json](./195129-silver-axe-the-honest-elf.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
 | Silver Blue | 152734 | [152734-silver-blue.json](./152734-silver-blue.json) |
@@ -12887,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single Ennead | 310976 | [310976-single-ennead.json](./310976-single-ennead.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single Feather | 220495 | [220495-single-feather.json](./220495-single-feather.json) |
+| Single Forever | 347928 | [347928-single-forever.json](./347928-single-forever.json) |
 | Single Line | 225366 | [225366-single-line.json](./225366-single-line.json) |
 | Single Malt Apocalypse | 258336 | [258336-single-malt-apocalypse.json](./258336-single-malt-apocalypse.json) |
 | Single Player Tarkov | 314711 | [314711-single-player-tarkov.json](./314711-single-player-tarkov.json) |
@@ -16504,6 +16508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
 | Smithworks | 204603 | [204603-smithworks.json](./204603-smithworks.json) |
 | Smithy | 32486 | [32486-smithy.json](./32486-smithy.json) |
+| Smithy By Day | 347934 | [347934-smithy-by-day.json](./347934-smithy-by-day.json) |
 | Smithy of the Fishy | 184218 | [184218-smithy-of-the-fishy.json](./184218-smithy-of-the-fishy.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smithy Wars | 159415 | [159415-smithy-wars.json](./159415-smithy-wars.json) |
@@ -17115,6 +17120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
 | Sneaky Ninja | 28275 | [28275-sneaky-ninja.json](./28275-sneaky-ninja.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
+| Sneaky Pirates | 349001 | [349001-sneaky-pirates.json](./349001-sneaky-pirates.json) |
 | Sneaky Purr | 422479 | [422479-sneaky-purr.json](./422479-sneaky-purr.json) |
 | Sneaky Rat | 219415 | [219415-sneaky-rat.json](./219415-sneaky-rat.json) |
 | Sneaky Sasquatch | 117013 | [117013-sneaky-sasquatch.json](./117013-sneaky-sasquatch.json) |
@@ -19166,6 +19172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sometimes Always Monsters: Author Outfits | 155375 | [155375-sometimes-always-monsters-author-outfits.json](./155375-sometimes-always-monsters-author-outfits.json) |
 | Sometimes They Come Back | 204858 | [204858-sometimes-they-come-back.json](./204858-sometimes-they-come-back.json) |
 | Sometimes to Deal With the Difficulty of Being Alive I Need to Believe There Is a Possibility That Life Is Not Real | 134256 | [134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json](./134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json) |
+| Sometimes Toast Is O.K. | 347933 | [347933-sometimes-toast-is-o-k.json](./347933-sometimes-toast-is-o-k.json) |
 | Sometimes You Die | 58993 | [58993-sometimes-you-die.json](./58993-sometimes-you-die.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhen | 216531 | [216531-somewhen.json](./216531-somewhen.json) |
@@ -21236,6 +21243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulfused | 371744 | [371744-soulfused.json](./371744-soulfused.json) |
 | Soulgasm | 266026 | [266026-soulgasm.json](./266026-soulgasm.json) |
 | SoulGatherer | 367539 | [367539-soulgatherer.json](./367539-soulgatherer.json) |
+| Soulglass | 348999 | [348999-soulglass.json](./348999-soulglass.json) |
 | Soulgrave | 412294 | [412294-soulgrave.json](./412294-soulgrave.json) |
 | SoulHunt | 32121 | [32121-soulhunt.json](./32121-soulhunt.json) |
 | Soulitaire | 204520 | [204520-soulitaire.json](./204520-soulitaire.json) |
@@ -26522,6 +26530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidward's Suicide | 164757 | [164757-squidwards-suicide.json](./164757-squidwards-suicide.json) |
 | Squidy Journey | 235023 | [235023-squidy-journey.json](./235023-squidy-journey.json) |
 | Squiggle Drop | 234099 | [234099-squiggle-drop.json](./234099-squiggle-drop.json) |
+| Squiggle Football | 347943 | [347943-squiggle-football.json](./347943-squiggle-football.json) |
 | Squigley | 291724 | [291724-squigley.json](./291724-squigley.json) |
 | Squigs | 79750 | [79750-squigs.json](./79750-squigs.json) |
 | Squiigee | 260304 | [260304-squiigee.json](./260304-squiigee.json) |
@@ -33652,6 +33661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuitU | 341166 | [341166-suitu.json](./341166-suitu.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Suiyue | 180427 | [180427-suiyue.json](./180427-suiyue.json) |
+| Suizokukan Project | 347942 | [347942-suizokukan-project.json](./347942-suizokukan-project.json) |
 | Suizokukan Project: Fish Hunter he no Michi | 385927 | [385927-suizokukan-project-fish-hunter-he-no-michi.json](./385927-suizokukan-project-fish-hunter-he-no-michi.json) |
 | Sujeto 124: El Hombre de Traje | 395919 | [395919-sujeto-124-el-hombre-de-traje.json](./395919-sujeto-124-el-hombre-de-traje.json) |
 | Sujimon Quest | 258343 | [258343-sujimon-quest.json](./258343-sujimon-quest.json) |
