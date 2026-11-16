@@ -10286,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
 | Greyhill Incident: Abducted Edition | 240035 | [240035-greyhill-incident-abducted-edition.json](./240035-greyhill-incident-abducted-edition.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
+| Greyhill Incident: Re-probed Edition | 387791 | [387791-greyhill-incident-re-probed-edition.json](./387791-greyhill-incident-re-probed-edition.json) |
 | Greyhound Manager 2 | 175195 | [175195-greyhound-manager-2.json](./175195-greyhound-manager-2.json) |
 | Greyhound Manager 2 Rebooted | 29606 | [29606-greyhound-manager-2-rebooted.json](./29606-greyhound-manager-2-rebooted.json) |
 | Greyhound Racing | 175212 | [175212-greyhound-racing.json](./175212-greyhound-racing.json) |
