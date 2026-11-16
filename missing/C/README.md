@@ -2559,6 +2559,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Race | 312250 | [312250-car-race.json](./312250-car-race.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Race Game for Toddlers and Kids | 103938 | [103938-car-race-game-for-toddlers-and-kids.json](./103938-car-race-game-for-toddlers-and-kids.json) |
+| Car Race Pro Simulator | 391363 | [391363-car-race-pro-simulator.json](./391363-car-race-pro-simulator.json) |
+| Car Race Simulator | 391364 | [391364-car-race-simulator.json](./391364-car-race-simulator.json) |
 | Car Racing | 344646 | [344646-car-racing.json](./344646-car-racing.json) |
 | Car Racing | 59803 | [59803-car-racing.json](./59803-car-racing.json) |
 | Car Racing : Dirt Drifting | 103683 | [103683-car-racing-dirt-drifting.json](./103683-car-racing-dirt-drifting.json) |
@@ -22999,6 +23001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
 | Cyber Bodies | 224842 | [224842-cyber-bodies.json](./224842-cyber-bodies.json) |
 | Cyber Boxing Arena | 391419 | [391419-cyber-boxing-arena.json](./391419-cyber-boxing-arena.json) |
+| Cyber Breaker | 391369 | [391369-cyber-breaker.json](./391369-cyber-breaker.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
 | Cyber Car | 199407 | [199407-cyber-car.json](./199407-cyber-car.json) |
 | Cyber Car Seller Simulator | 347062 | [347062-cyber-car-seller-simulator.json](./347062-cyber-car-seller-simulator.json) |
