@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nair Pico | 364265 | [364265-nair-pico.json](./364265-nair-pico.json) |
 | Nairi: Rising Tide | 161468 | [161468-nairi-rising-tide.json](./161468-nairi-rising-tide.json) |
 | Nairi: Tower of Shirin | 57192 | [57192-nairi-tower-of-shirin.json](./57192-nairi-tower-of-shirin.json) |
+| Nairi: Tower of Shirin - Deluxe Edition | 226527 | [226527-nairi-tower-of-shirin-deluxe-edition.json](./226527-nairi-tower-of-shirin-deluxe-edition.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
 | Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
 | Nairobi X | 139890 | [139890-nairobi-x.json](./139890-nairobi-x.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameko | 68311 | [68311-nameko.json](./68311-nameko.json) |
 | Nameless | 105550 | [105550-nameless.json](./105550-nameless.json) |
 | Nameless | 133640 | [133640-nameless.json](./133640-nameless.json) |
+| Nameless | 229394 | [229394-nameless.json](./229394-nameless.json) |
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
 | Nameless | 294822 | [294822-nameless.json](./294822-nameless.json) |
 | Nameless Adventure | 345777 | [345777-nameless-adventure.json](./345777-nameless-adventure.json) |
@@ -2120,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NEG: The Threefold Cord | 217255 | [217255-neg-the-threefold-cord.json](./217255-neg-the-threefold-cord.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negaia | 57069 | [57069-negaia.json](./57069-negaia.json) |
+| Negaigoto | 229395 | [229395-negaigoto.json](./229395-negaigoto.json) |
 | Negative | 183781 | [183781-negative.json](./183781-negative.json) |
 | Negative Atmosphere | 117273 | [117273-negative-atmosphere.json](./117273-negative-atmosphere.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
@@ -6738,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
 | No Time | 116296 | [116296-no-time.json](./116296-no-time.json) |
 | No Time 2 Freeze | 385443 | [385443-no-time-2-freeze.json](./385443-no-time-2-freeze.json) |
+| No Time For Caution | 228808 | [228808-no-time-for-caution.json](./228808-no-time-for-caution.json) |
 | No Time for Pants | 347395 | [347395-no-time-for-pants.json](./347395-no-time-for-pants.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time Left | 385729 | [385729-no-time-left.json](./385729-no-time-left.json) |
