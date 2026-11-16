@@ -5497,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade: Heritages Puzzle Pack | 163495 | [163495-glass-masquerade-heritages-puzzle-pack.json](./163495-glass-masquerade-heritages-puzzle-pack.json) |
 | Glass Masquerade: Inceptions Puzzle Pack | 163498 | [163498-glass-masquerade-inceptions-puzzle-pack.json](./163498-glass-masquerade-inceptions-puzzle-pack.json) |
 | Glass Masquerade: Lunar Year Puzzle | 163496 | [163496-glass-masquerade-lunar-year-puzzle.json](./163496-glass-masquerade-lunar-year-puzzle.json) |
+| Glass Masquerade: Origins | 239953 | [239953-glass-masquerade-origins.json](./239953-glass-masquerade-origins.json) |
 | Glass Painting: Winter Art | 111942 | [111942-glass-painting-winter-art.json](./111942-glass-painting-winter-art.json) |
 | Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
@@ -6214,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Fish! The Pop n' Drop Game | 209761 | [209761-go-fish-the-pop-n-drop-game.json](./209761-go-fish-the-pop-n-drop-game.json) |
 | Go Fkn Fast | 340316 | [340316-go-fkn-fast.json](./340316-go-fkn-fast.json) |
+| Go Fly a Kite | 239864 | [239864-go-fly-a-kite.json](./239864-go-fly-a-kite.json) |
 | Go for a Punch! Saki Sanobashi | 264722 | [264722-go-for-a-punch-saki-sanobashi.json](./264722-go-for-a-punch-saki-sanobashi.json) |
 | Go For a Walk | 128165 | [128165-go-for-a-walk.json](./128165-go-for-a-walk.json) |
 | Go For Launch: Mercury | 32765 | [32765-go-for-launch-mercury.json](./32765-go-for-launch-mercury.json) |
@@ -9317,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapply | 31612 | [31612-grapply.json](./31612-grapply.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
 | Grasp of Dread | 303958 | [303958-grasp-of-dread.json](./303958-grasp-of-dread.json) |
+| Grasping | 239848 | [239848-grasping.json](./239848-grasping.json) |
 | Grass | 392682 | [392682-grass.json](./392682-grass.json) |
 | Grass Cut | 189917 | [189917-grass-cut.json](./189917-grass-cut.json) |
 | Grass Cutter | 277648 | [277648-grass-cutter.json](./277648-grass-cutter.json) |
