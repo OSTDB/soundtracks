@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
 | La Royale: Below Deck | 391121 | [391121-la-royale-below-deck.json](./391121-la-royale-below-deck.json) |
 | La Ruota Della Sfortuna: Prima parte | 318571 | [318571-la-ruota-della-sfortuna-prima-parte.json](./318571-la-ruota-della-sfortuna-prima-parte.json) |
+| La Salamanca | 306162 | [306162-la-salamanca.json](./306162-la-salamanca.json) |
 | La Sfida Della Sfinge | 321658 | [321658-la-sfida-della-sfinge.json](./321658-la-sfida-della-sfinge.json) |
 | La Sombra | 220593 | [220593-la-sombra.json](./220593-la-sombra.json) |
 | LA Soul | 405428 | [405428-la-soul.json](./405428-la-soul.json) |
@@ -638,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lairchitect | 136729 | [136729-lairchitect.json](./136729-lairchitect.json) |
 | Lairchitect | 361579 | [361579-lairchitect.json](./361579-lairchitect.json) |
 | LAIzy Picture Phone | 307217 | [307217-laizy-picture-phone.json](./307217-laizy-picture-phone.json) |
+| Lajoy Teckna | 306838 | [306838-lajoy-teckna.json](./306838-lajoy-teckna.json) |
 | Lakatos | 240662 | [240662-lakatos.json](./240662-lakatos.json) |
 | Lake Adventure | 279780 | [279780-lake-adventure.json](./279780-lake-adventure.json) |
 | Lake Facade: Director's Cut | 193584 | [193584-lake-facade-directors-cut.json](./193584-lake-facade-directors-cut.json) |
@@ -7824,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log(Hic!) | 92941 | [92941-log-hic.json](./92941-log-hic.json) |
 | Loga: Unexpected Adventure | 126755 | [126755-loga-unexpected-adventure.json](./126755-loga-unexpected-adventure.json) |
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
+| Logan Kart 8 | 306819 | [306819-logan-kart-8.json](./306819-logan-kart-8.json) |
 | Logan Paul Adventure | 259418 | [259418-logan-paul-adventure.json](./259418-logan-paul-adventure.json) |
 | Logan The Kid: How It Was Intended 1 | 316311 | [316311-logan-the-kid-how-it-was-intended-1.json](./316311-logan-the-kid-how-it-was-intended-1.json) |
 | Logan's Treasure | 98208 | [98208-logans-treasure.json](./98208-logans-treasure.json) |
