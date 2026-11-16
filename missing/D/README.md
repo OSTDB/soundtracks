@@ -5343,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tale Pandora's Box | 164131 | [164131-death-tale-pandoras-box.json](./164131-death-tale-pandoras-box.json) |
 | Death Tales | 61517 | [61517-death-tales.json](./61517-death-tales.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
+| Death Tapes | 237711 | [237711-death-tapes.json](./237711-death-tapes.json) |
 | Death Taxi 3000 | 155901 | [155901-death-taxi-3000.json](./155901-death-taxi-3000.json) |
 | Death Tennis | 183734 | [183734-death-tennis.json](./183734-death-tennis.json) |
 | Death That Blooms Into a Flower | 388300 | [388300-death-that-blooms-into-a-flower.json](./388300-death-that-blooms-into-a-flower.json) |
@@ -8298,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Designer City 2 | 263296 | [263296-designer-city-2.json](./263296-designer-city-2.json) |
 | Desiigner's Panda Rush | 99354 | [99354-desiigners-panda-rush.json](./99354-desiigners-panda-rush.json) |
 | Desinformator | 365803 | [365803-desinformator.json](./365803-desinformator.json) |
+| Desirable | 234971 | [234971-desirable.json](./234971-desirable.json) |
 | Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
 | Desirable: Dream Hotel | 171687 | [171687-desirable-dream-hotel.json](./171687-desirable-dream-hotel.json) |
 | Desire | 46053 | [46053-desire.json](./46053-desire.json) |
@@ -9760,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice 'n Goblins | 302395 | [302395-dice-n-goblins.json](./302395-dice-n-goblins.json) |
 | Dice & Dungeons | 154156 | [154156-dice-and-dungeons.json](./154156-dice-and-dungeons.json) |
 | Dice & Fighter | 126388 | [126388-dice-and-fighter.json](./126388-dice-and-fighter.json) |
+| Dice & Spells | 235526 | [235526-dice-and-spells.json](./235526-dice-and-spells.json) |
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
 | Dice 1000 online | 184463 | [184463-dice-1000-online.json](./184463-dice-1000-online.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
@@ -11505,6 +11508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disastles Online | 398593 | [398593-disastles-online.json](./398593-disastles-online.json) |
 | Disastory | 205776 | [205776-disastory.json](./205776-disastory.json) |
 | Disastr_Blastr | 33839 | [33839-disastr-blastr.json](./33839-disastr-blastr.json) |
+| Disavowed | 236031 | [236031-disavowed.json](./236031-disavowed.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Creatures | 117532 | [117532-disc-creatures.json](./117532-disc-creatures.json) |
@@ -21587,6 +21591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
 | Dust Front RTS | 271109 | [271109-dust-front-rts.json](./271109-dust-front-rts.json) |
 | Dust II: The Infinite Zero Point | 339579 | [339579-dust-ii-the-infinite-zero-point.json](./339579-dust-ii-the-infinite-zero-point.json) |
+| Dust Kingdom | 236029 | [236029-dust-kingdom.json](./236029-dust-kingdom.json) |
 | Dust n Wheels | 104184 | [104184-dust-n-wheels.json](./104184-dust-n-wheels.json) |
 | Dust On Thorn | 405737 | [405737-dust-on-thorn.json](./405737-dust-on-thorn.json) |
 | Dust on Wheels | 115973 | [115973-dust-on-wheels.json](./115973-dust-on-wheels.json) |
