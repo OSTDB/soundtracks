@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garda | 181051 | [181051-garda.json](./181051-garda.json) |
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
 | Garden | 230201 | [230201-garden.json](./230201-garden.json) |
+| Garden | 249417 | [249417-garden.json](./249417-garden.json) |
 | Garden & Bird | 346084 | [346084-garden-and-bird.json](./346084-garden-and-bird.json) |
 | Garden Affairs | 214058 | [214058-garden-affairs.json](./214058-garden-affairs.json) |
 | Garden and a Goat | 366277 | [366277-garden-and-a-goat.json](./366277-garden-and-a-goat.json) |
@@ -4656,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostWire: Tokyo - Metal Plate Edition | 191322 | [191322-ghostwire-tokyo-metal-plate-edition.json](./191322-ghostwire-tokyo-metal-plate-edition.json) |
 | Ghostwire: Tokyo - Prelude: The Corrupted Casefile | 194210 | [194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json](./194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json) |
 | Ghostwire: Tokyo 2 | 267309 | [267309-ghostwire-tokyo-2.json](./267309-ghostwire-tokyo-2.json) |
+| Ghostwriter | 249418 | [249418-ghostwriter.json](./249418-ghostwriter.json) |
 | Ghostwriter Hatate-chan | 205733 | [205733-ghostwriter-hatate-chan.json](./205733-ghostwriter-hatate-chan.json) |
 | Ghostwriter Workshop | 330950 | [330950-ghostwriter-workshop.json](./330950-ghostwriter-workshop.json) |
 | GhostX | 375396 | [375396-ghostx.json](./375396-ghostx.json) |
@@ -8157,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Fighter: Yumi Terasaka | 192118 | [192118-goonya-fighter-yumi-terasaka.json](./192118-goonya-fighter-yumi-terasaka.json) |
 | Goonya Monster | 206288 | [206288-goonya-monster.json](./206288-goonya-monster.json) |
 | Goonya Monster: Additional Character - All Guys Pack | 256628 | [256628-goonya-monster-additional-character-all-guys-pack.json](./256628-goonya-monster-additional-character-all-guys-pack.json) |
+| Goonya Monster: Additional Character (Buster) - Anemone | 248250 | [248250-goonya-monster-additional-character-buster-anemone.json](./248250-goonya-monster-additional-character-buster-anemone.json) |
 | Goonya Monster: Additional Character (Buster) - Clione | 248720 | [248720-goonya-monster-additional-character-buster-clione.json](./248720-goonya-monster-additional-character-buster-clione.json) |
 | Goonya Monster: Additional Character (Buster) - Gatchman V/All Guys | 256423 | [256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json](./256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json) |
 | Goonya Monster: Additional Character (Buster) - Jingiskan's Jinkun/Mascot Character | 249377 | [249377-goonya-monster-additional-character-buster-jingiskans-jinkun-mascot-character.json](./249377-goonya-monster-additional-character-buster-jingiskans-jinkun-mascot-character.json) |
@@ -8651,6 +8654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Gradius: The Interstellar Assault | 48996 | [48996-gradius-the-interstellar-assault.json](./48996-gradius-the-interstellar-assault.json) |
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
+| Gradually Jojo ni | 249420 | [249420-gradually-jojo-ni.json](./249420-gradually-jojo-ni.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
 | Graduater | 196768 | [196768-graduater.json](./196768-graduater.json) |
