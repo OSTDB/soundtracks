@@ -1833,7 +1833,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Mazing 3D | 264728 | [264728-a-mazing-3d.json](./264728-a-mazing-3d.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
 | A-Mazing Enigmas | 202429 | [202429-a-mazing-enigmas.json](./202429-a-mazing-enigmas.json) |
-| A-Men | 8623 | [8623-a-men.json](./8623-a-men.json) |
 | A-Men 2 | 8624 | [8624-a-men-2.json](./8624-a-men-2.json) |
 | A-Mused | 58085 | [58085-a-mused.json](./58085-a-mused.json) |
 | A-Rabbit | 337053 | [337053-a-rabbit.json](./337053-a-rabbit.json) |
@@ -10643,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anathema | 411408 | [411408-anathema.json](./411408-anathema.json) |
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
 | Anathema Tower Defense | 272227 | [272227-anathema-tower-defense.json](./272227-anathema-tower-defense.json) |
+| Anathyma | 344620 | [344620-anathyma.json](./344620-anathyma.json) |
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
 | Anatine | 256492 | [256492-anatine.json](./256492-anatine.json) |
 | Anatomic Man | 11900 | [11900-anatomic-man.json](./11900-anatomic-man.json) |
@@ -12644,6 +12644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World in the Morning | 258260 | [258260-another-world-in-the-morning.json](./258260-another-world-in-the-morning.json) |
 | Another World Mahjong Girl | 269356 | [269356-another-world-mahjong-girl.json](./269356-another-world-mahjong-girl.json) |
 | Another World Quest | 212714 | [212714-another-world-quest.json](./212714-another-world-quest.json) |
+| Another World Series: Slit Mouth Woman vs. Aooni | 345716 | [345716-another-world-series-slit-mouth-woman-vs-aooni.json](./345716-another-world-series-slit-mouth-woman-vs-aooni.json) |
 | Another World: 15th Anniversary Edition | 23114 | [23114-another-world-15th-anniversary-edition.json](./23114-another-world-15th-anniversary-edition.json) |
 | Another World: 20th Anniversary Edition | 16493 | [16493-another-world-20th-anniversary-edition.json](./16493-another-world-20th-anniversary-edition.json) |
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
@@ -17239,7 +17240,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashcrown | 236051 | [236051-ashcrown.json](./236051-ashcrown.json) |
 | Ashe | 407760 | [407760-ashe.json](./407760-ashe.json) |
 | Ashen | 424824 | [424824-ashen.json](./424824-ashen.json) |
-| Ashen | 6259 | [6259-ashen.json](./6259-ashen.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Daughter | 349929 | [349929-ashen-daughter.json](./349929-ashen-daughter.json) |
 | Ashen Destiny | 364992 | [364992-ashen-destiny.json](./364992-ashen-destiny.json) |
