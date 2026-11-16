@@ -33788,6 +33788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukebe Office | 244224 | [244224-sukebe-office.json](./244224-sukebe-office.json) |
 | Sukebe Orb | 409838 | [409838-sukebe-orb.json](./409838-sukebe-orb.json) |
 | Sukebooo Man | 288154 | [288154-sukebooo-man.json](./288154-sukebooo-man.json) |
+| Sukfaristo | 284027 | [284027-sukfaristo.json](./284027-sukfaristo.json) |
 | Suki Desu Suzuki-kun: 4nin no Suzuki-kun | 206033 | [206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json](./206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json) |
 | Suki na Mono ha Suki Dakara Shouganai!! First Limit & Target Nights Sukisho! Episode #1+ #2 | 284627 | [284627-suki-na-mono-ha-suki-dakara-shouganai-first-limit-and-target-nights-sukisho-episode-1-2.json](./284627-suki-na-mono-ha-suki-dakara-shouganai-first-limit-and-target-nights-sukisho-episode-1-2.json) |
 | Suki na Mono ha Suki Dakara Shouganai!! Rain Sukisyo Episode #3 | 284628 | [284628-suki-na-mono-ha-suki-dakara-shouganai-rain-sukisyo-episode-3.json](./284628-suki-na-mono-ha-suki-dakara-shouganai-rain-sukisyo-episode-3.json) |
