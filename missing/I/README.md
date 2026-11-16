@@ -7192,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Tribe! | 180118 | [180118-island-tribe.json](./180118-island-tribe.json) |
 | Island Trouble | 330466 | [330466-island-trouble.json](./330466-island-trouble.json) |
 | Island Uncanny Story | 288423 | [288423-island-uncanny-story.json](./288423-island-uncanny-story.json) |
+| Island War | 214077 | [214077-island-war.json](./214077-island-war.json) |
 | Island Wars 2 | 69619 | [69619-island-wars-2.json](./69619-island-wars-2.json) |
 | Island World | 163883 | [163883-island-world.json](./163883-island-world.json) |
 | Island World | 193069 | [193069-island-world.json](./193069-island-world.json) |
