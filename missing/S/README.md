@@ -18957,7 +18957,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solomon's Key | 28384 | [28384-solomons-key.json](./28384-solomons-key.json) |
 | Solomon's Key | 286608 | [286608-solomons-key.json](./286608-solomons-key.json) |
+| Solomon's Ring: Chi no Shou | 222554 | [222554-solomons-ring-chi-no-shou.json](./222554-solomons-ring-chi-no-shou.json) |
 | Solomon's Ring: Hi no Shou | 64162 | [64162-solomons-ring-hi-no-shou.json](./64162-solomons-ring-hi-no-shou.json) |
+| Solomon's Ring: Kaze no Shou | 222552 | [222552-solomons-ring-kaze-no-shou.json](./222552-solomons-ring-kaze-no-shou.json) |
+| Solomon's Ring: Mizu no Shou | 222553 | [222553-solomons-ring-mizu-no-shou.json](./222553-solomons-ring-mizu-no-shou.json) |
 | Solomonaris | 298540 | [298540-solomonaris.json](./298540-solomonaris.json) |
 | Solomonic | 305114 | [305114-solomonic.json](./305114-solomonic.json) |
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
