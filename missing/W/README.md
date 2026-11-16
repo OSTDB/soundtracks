@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
 | War Thunder: Merkava Mk.2D Pack | 230983 | [230983-war-thunder-merkava-mk-2d-pack.json](./230983-war-thunder-merkava-mk-2d-pack.json) |
 | War Thunder: Merkava Mk.3 Raam Segol Pack | 332081 | [332081-war-thunder-merkava-mk-3-raam-segol-pack.json](./332081-war-thunder-merkava-mk-3-raam-segol-pack.json) |
+| War Thunder: Mustang Pack | 293782 | [293782-war-thunder-mustang-pack.json](./293782-war-thunder-mustang-pack.json) |
 | War Thunder: Object 120 Pack | 332079 | [332079-war-thunder-object-120-pack.json](./332079-war-thunder-object-120-pack.json) |
 | War Thunder: Object 140 Bundle | 331499 | [331499-war-thunder-object-140-bundle.json](./331499-war-thunder-object-140-bundle.json) |
 | War Thunder: Premium Package | 136649 | [136649-war-thunder-premium-package.json](./136649-war-thunder-premium-package.json) |
@@ -8355,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodturning | 261407 | [261407-woodturning.json](./261407-woodturning.json) |
 | Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
 | Woodturning 3D: Arts & Crafts | 288276 | [288276-woodturning-3d-arts-and-crafts.json](./288276-woodturning-3d-arts-and-crafts.json) |
+| Woodturning 3D: Complete Edition | 291644 | [291644-woodturning-3d-complete-edition.json](./291644-woodturning-3d-complete-edition.json) |
 | Woodventure: Mahjong Connect | 238980 | [238980-woodventure-mahjong-connect.json](./238980-woodventure-mahjong-connect.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
 | Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
