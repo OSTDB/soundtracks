@@ -9721,7 +9721,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit City | 174681 | [174681-bit-city.json](./174681-bit-city.json) |
 | Bit Dancer | 351611 | [351611-bit-dancer.json](./351611-bit-dancer.json) |
 | Bit Digger | 65329 | [65329-bit-digger.json](./65329-bit-digger.json) |
-| Bit Dungeon | 60772 | [60772-bit-dungeon.json](./60772-bit-dungeon.json) |
 | bit Dungeon III | 116771 | [116771-bit-dungeon-iii.json](./116771-bit-dungeon-iii.json) |
 | Bit Esc | 317143 | [317143-bit-esc.json](./317143-bit-esc.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
