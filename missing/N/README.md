@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
 | Night of Love | 199513 | [199513-night-of-love.json](./199513-night-of-love.json) |
 | Night of Nightmare | 391025 | [391025-night-of-nightmare.json](./391025-night-of-nightmare.json) |
+| Night of Restoration | 413325 | [413325-night-of-restoration.json](./413325-night-of-restoration.json) |
 | Night of Spirits | 242670 | [242670-night-of-spirits.json](./242670-night-of-spirits.json) |
 | Night of Terror | 28434 | [28434-night-of-terror.json](./28434-night-of-terror.json) |
 | Night of The Abattoir Man | 311146 | [311146-night-of-the-abattoir-man.json](./311146-night-of-the-abattoir-man.json) |
