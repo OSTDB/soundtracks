@@ -4876,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
 | Klondike 3D | 89030 | [89030-klondike-3d.json](./89030-klondike-3d.json) |
 | Klondike Adventures | 96916 | [96916-klondike-adventures.json](./96916-klondike-adventures.json) |
+| Klondike Classic | 411167 | [411167-klondike-classic.json](./411167-klondike-classic.json) |
 | Klondike Forever | 87121 | [87121-klondike-forever.json](./87121-klondike-forever.json) |
 | Klondike Planet | 87229 | [87229-klondike-planet.json](./87229-klondike-planet.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
