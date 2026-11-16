@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
 | Mall Simulator | 401150 | [401150-mall-simulator.json](./401150-mall-simulator.json) |
 | Mall Simulator Together | 413824 | [413824-mall-simulator-together.json](./413824-mall-simulator-together.json) |
+| Mall Tidy Up Frenemies | 419803 | [419803-mall-tidy-up-frenemies.json](./419803-mall-tidy-up-frenemies.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
 | Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
 | Mall Tycoon | 23450 | [23450-mall-tycoon.json](./23450-mall-tycoon.json) |
@@ -14402,6 +14403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
 | Mini Golf | 209507 | [209507-mini-golf.json](./209507-mini-golf.json) |
 | Mini Golf | 246469 | [246469-mini-golf.json](./246469-mini-golf.json) |
+| Mini Golf | 419738 | [419738-mini-golf.json](./419738-mini-golf.json) |
 | Mini Golf | 56823 | [56823-mini-golf.json](./56823-mini-golf.json) |
 | Mini Golf & Pool Bundle | 231040 | [231040-mini-golf-and-pool-bundle.json](./231040-mini-golf-and-pool-bundle.json) |
 | Mini Golf 18 | 106515 | [106515-mini-golf-18.json](./106515-mini-golf-18.json) |
@@ -18477,6 +18479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MontaSayer | 29604 | [29604-montasayer.json](./29604-montasayer.json) |
 | Monte Carlo | 40385 | [40385-monte-carlo.json](./40385-monte-carlo.json) |
 | Monte Carlo Baccarat | 92907 | [92907-monte-carlo-baccarat.json](./92907-monte-carlo-baccarat.json) |
+| Monte Carlo Casino | 419740 | [419740-monte-carlo-casino.json](./419740-monte-carlo-casino.json) |
 | Montecrypto: The Bitcoin Enigma | 83998 | [83998-montecrypto-the-bitcoin-enigma.json](./83998-montecrypto-the-bitcoin-enigma.json) |
 | MonteCube Dodge | 117362 | [117362-montecube-dodge.json](./117362-montecube-dodge.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
@@ -22600,6 +22603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Academy's Special Place | 272601 | [272601-my-academys-special-place.json](./272601-my-academys-special-place.json) |
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
+| My Adorable Ghost Story | 419825 | [419825-my-adorable-ghost-story.json](./419825-my-adorable-ghost-story.json) |
 | My Adventure | 132339 | [132339-my-adventure.json](./132339-my-adventure.json) |
 | My Adventure Book | 288722 | [288722-my-adventure-book.json](./288722-my-adventure-book.json) |
 | My Adventures Checking Out "Animals of the World: The Adventures of Civette the Space-Faring Civet" | 186455 | [186455-my-adventures-checking-out-animals-of-the-world-the-adventures-of-civette-the-space-faring-civet.json](./186455-my-adventures-checking-out-animals-of-the-world-the-adventures-of-civette-the-space-faring-civet.json) |
