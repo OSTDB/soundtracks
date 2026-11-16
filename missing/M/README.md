@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mace and Grace | 117465 | [117465-mace-and-grace.json](./117465-mace-and-grace.json) |
 | Mace Griffin: Bounty Hunter | 5904 | [5904-mace-griffin-bounty-hunter.json](./5904-mace-griffin-bounty-hunter.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
+| Mace the Adventure | 306840 | [306840-mace-the-adventure.json](./306840-mace-the-adventure.json) |
 | Mace: Mapinguari's Temple | 185948 | [185948-mace-mapinguaris-temple.json](./185948-mace-mapinguaris-temple.json) |
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
 | Maces and Dices | 252028 | [252028-maces-and-dices.json](./252028-maces-and-dices.json) |
@@ -4161,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Friends in: Volcanic Panic | 336098 | [336098-mario-and-friends-in-volcanic-panic.json](./336098-mario-and-friends-in-volcanic-panic.json) |
 | Mario & Luigi | 117772 | [117772-mario-and-luigi.json](./117772-mario-and-luigi.json) |
 | Mario & Luigi 4 | 323820 | [323820-mario-and-luigi-4.json](./323820-mario-and-luigi-4.json) |
+| Mario & Luigi Dual Adventure | 307356 | [307356-mario-and-luigi-dual-adventure.json](./307356-mario-and-luigi-dual-adventure.json) |
 | Mario & Luigi MAD NES | 323823 | [323823-mario-and-luigi-mad-nes.json](./323823-mario-and-luigi-mad-nes.json) |
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
@@ -11213,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug XX: Recompiled | 408842 | [408842-metal-slug-xx-recompiled.json](./408842-metal-slug-xx-recompiled.json) |
 | Metal Slug Zero Online | 137929 | [137929-metal-slug-zero-online.json](./137929-metal-slug-zero-online.json) |
 | Metal Slug: Attack | 59100 | [59100-metal-slug-attack.json](./59100-metal-slug-attack.json) |
+| Metal Slug: Attack - Reloaded | 306145 | [306145-metal-slug-attack-reloaded.json](./306145-metal-slug-attack-reloaded.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
 | Metal Slug: Super Vehicle-001 | 191477 | [191477-metal-slug-super-vehicle-001.json](./191477-metal-slug-super-vehicle-001.json) |
 | Metal Slug: Super Vehicle-001 | 269931 | [269931-metal-slug-super-vehicle-001.json](./269931-metal-slug-super-vehicle-001.json) |
@@ -21839,6 +21842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundus: Impossible Universe 2 | 118020 | [118020-mundus-impossible-universe-2.json](./118020-mundus-impossible-universe-2.json) |
 | MundusHex | 277986 | [277986-mundushex.json](./277986-mundushex.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
+| Mung Daal: Vietnam | 306820 | [306820-mung-daal-vietnam.json](./306820-mung-daal-vietnam.json) |
 | Mungyodance | 251278 | [251278-mungyodance.json](./251278-mungyodance.json) |
 | Mungyodance 2 | 251286 | [251286-mungyodance-2.json](./251286-mungyodance-2.json) |
 | Mungyodance 3: The Third Rave | 251287 | [251287-mungyodance-3-the-third-rave.json](./251287-mungyodance-3-the-third-rave.json) |
@@ -22167,6 +22171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum.exe | 318236 | [318236-museum-exe.json](./318236-museum-exe.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
+| Mush | 306126 | [306126-mush.json](./306126-mush.json) |
 | Mush | 92588 | [92588-mush.json](./92588-mush.json) |
 | Mush Dash | 364988 | [364988-mush-dash.json](./364988-mush-dash.json) |
 | Mush Dash | 412392 | [412392-mush-dash.json](./412392-mush-dash.json) |
