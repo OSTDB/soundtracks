@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danse Macabre: Thin Ice | 139754 | [139754-danse-macabre-thin-ice.json](./139754-danse-macabre-thin-ice.json) |
 | Danse Macabre: Thin Ice - Collector's Edition | 22076 | [22076-danse-macabre-thin-ice-collectors-edition.json](./22076-danse-macabre-thin-ice-collectors-edition.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
+| Danshi Ryou Himitsu no Idol | 394941 | [394941-danshi-ryou-himitsu-no-idol.json](./394941-danshi-ryou-himitsu-no-idol.json) |
 | Danshikou de Atta Kowai Hanashi | 210822 | [210822-danshikou-de-atta-kowai-hanashi.json](./210822-danshikou-de-atta-kowai-hanashi.json) |
 | Dante: RPG Construction Tool | 63511 | [63511-dante-rpg-construction-tool.json](./63511-dante-rpg-construction-tool.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
@@ -5498,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathwave Aftermath | 259958 | [259958-deathwave-aftermath.json](./259958-deathwave-aftermath.json) |
 | deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
 | Deathwish | 215541 | [215541-deathwish.json](./215541-deathwish.json) |
+| Deathwish Bloom | 394913 | [394913-deathwish-bloom.json](./394913-deathwish-bloom.json) |
 | Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
 | Deathwish Enforcers: Special Edition | 305225 | [305225-deathwish-enforcers-special-edition.json](./305225-deathwish-enforcers-special-edition.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
@@ -20388,6 +20390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crawlers HD | 35642 | [35642-dungeon-crawlers-hd.json](./35642-dungeon-crawlers-hd.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
 | Dungeon Creator | 241999 | [241999-dungeon-creator.json](./241999-dungeon-creator.json) |
+| Dungeon Creator | 394965 | [394965-dungeon-creator.json](./394965-dungeon-creator.json) |
 | Dungeon Creepster | 29379 | [29379-dungeon-creepster.json](./29379-dungeon-creepster.json) |
 | Dungeon Croaker | 267694 | [267694-dungeon-croaker.json](./267694-dungeon-croaker.json) |
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
