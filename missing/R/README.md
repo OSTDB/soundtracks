@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race for Your Life | 190114 | [190114-race-for-your-life.json](./190114-race-for-your-life.json) |
 | Race Horses Champions | 87488 | [87488-race-horses-champions.json](./87488-race-horses-champions.json) |
 | Race Horses Champions 2 | 108711 | [108711-race-horses-champions-2.json](./108711-race-horses-champions-2.json) |
+| Race Horses Champions 3 | 242176 | [242176-race-horses-champions-3.json](./242176-race-horses-champions-3.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
 | Race in Desert | 234747 | [234747-race-in-desert.json](./234747-race-in-desert.json) |
 | Race Injection | 10867 | [10867-race-injection.json](./10867-race-injection.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
 | Racing Legends: Speed Evolution | 91131 | [91131-racing-legends-speed-evolution.json](./91131-racing-legends-speed-evolution.json) |
 | Racing Life | 396598 | [396598-racing-life.json](./396598-racing-life.json) |
+| Racing Limits | 242196 | [242196-racing-limits.json](./242196-racing-limits.json) |
 | Racing Live | 91579 | [91579-racing-live.json](./91579-racing-live.json) |
 | Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
 | Racing Madness 2 | 73334 | [73334-racing-madness-2.json](./73334-racing-madness-2.json) |
@@ -1729,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakuen no Rukia | 399192 | [399192-rakuen-no-rukia.json](./399192-rakuen-no-rukia.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
 | Rakuen: Ai Kawarazu na Boku. no Baai | 376505 | [376505-rakuen-ai-kawarazu-na-boku-no-baai.json](./376505-rakuen-ai-kawarazu-na-boku-no-baai.json) |
+| Rakuen: Deluxe Edition | 242180 | [242180-rakuen-deluxe-edition.json](./242180-rakuen-deluxe-edition.json) |
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
 | Rakugaki Mario | 277065 | [277065-rakugaki-mario.json](./277065-rakugaki-mario.json) |
@@ -7925,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythmicTypeX | 279152 | [279152-rhythmictypex.json](./279152-rhythmictypex.json) |
 | Rhythmkill | 361064 | [361064-rhythmkill.json](./361064-rhythmkill.json) |
 | RhythmMMO | 258589 | [258589-rhythmmmo.json](./258589-rhythmmmo.json) |
+| Rhythmole | 242274 | [242274-rhythmole.json](./242274-rhythmole.json) |
 | Rhythmos | 194291 | [194291-rhythmos.json](./194291-rhythmos.json) |
 | RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
@@ -10490,6 +10494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Climbing: Mitouhou he no Chousen - Alps-hen | 386624 | [386624-rock-climbing-mitouhou-he-no-chousen-alps-hen.json](./386624-rock-climbing-mitouhou-he-no-chousen-alps-hen.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Core | 427556 | [427556-rock-core.json](./427556-rock-core.json) |
+| Rock Crawler | 242286 | [242286-rock-crawler.json](./242286-rock-crawler.json) |
 | Rock Crawler: Offroad Driving | 95297 | [95297-rock-crawler-offroad-driving.json](./95297-rock-crawler-offroad-driving.json) |
 | Rock Crusher | 333032 | [333032-rock-crusher.json](./333032-rock-crusher.json) |
 | Rock Declutterer | 420207 | [420207-rock-declutterer.json](./420207-rock-declutterer.json) |
