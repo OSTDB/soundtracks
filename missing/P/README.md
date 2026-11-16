@@ -2401,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParallHex | 326048 | [326048-parallhex.json](./326048-parallhex.json) |
 | Parallyzed | 28201 | [28201-parallyzed.json](./28201-parallyzed.json) |
 | Paralysi | 273999 | [273999-paralysi.json](./273999-paralysi.json) |
+| Paralysis | 401231 | [401231-paralysis.json](./401231-paralysis.json) |
 | Paralysis | 89249 | [89249-paralysis.json](./89249-paralysis.json) |
 | Paralysis Penguin | 393178 | [393178-paralysis-penguin.json](./393178-paralysis-penguin.json) |
 | Paralyzed | 141787 | [141787-paralyzed.json](./141787-paralyzed.json) |
