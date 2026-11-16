@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laffy Taffy Long-Lasting 3D Pyramid Challenge | 373555 | [373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json](./373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json) |
 | Lafuma Unlimit | 69942 | [69942-lafuma-unlimit.json](./69942-lafuma-unlimit.json) |
 | Lafuma Unlimit 2 | 94694 | [94694-lafuma-unlimit-2.json](./94694-lafuma-unlimit-2.json) |
+| Lag | 278018 | [278018-lag.json](./278018-lag.json) |
 | Lag Kills | 399364 | [399364-lag-kills.json](./399364-lag-kills.json) |
 | Lag Simulator | 343958 | [343958-lag-simulator.json](./343958-lag-simulator.json) |
 | Lagaf': Les Aventures de Moktar: Vol 1 - La Zoubida | 307197 | [307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json](./307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json) |
@@ -7813,6 +7814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
 | Loftlock | 301455 | [301455-loftlock.json](./301455-loftlock.json) |
 | Loftus and the Sky Cap | 170282 | [170282-loftus-and-the-sky-cap.json](./170282-loftus-and-the-sky-cap.json) |
+| Lofty Form | 278017 | [278017-lofty-form.json](./278017-lofty-form.json) |
 | Lofty Quest | 187554 | [187554-lofty-quest.json](./187554-lofty-quest.json) |
 | Log 141 | 210768 | [210768-log-141.json](./210768-log-141.json) |
 | Log Away | 350204 | [350204-log-away.json](./350204-log-away.json) |
@@ -8198,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
 | Lonely Trip | 83572 | [83572-lonely-trip.json](./83572-lonely-trip.json) |
 | Lonely Troops Collection | 53304 | [53304-lonely-troops-collection.json](./53304-lonely-troops-collection.json) |
+| Lonely Turret 2 | 267029 | [267029-lonely-turret-2.json](./267029-lonely-turret-2.json) |
 | Lonely Vietnam | 401600 | [401600-lonely-vietnam.json](./401600-lonely-vietnam.json) |
 | Lonely Vietnam 3: Sweet Revenge | 401603 | [401603-lonely-vietnam-3-sweet-revenge.json](./401603-lonely-vietnam-3-sweet-revenge.json) |
 | Lonely White | 212993 | [212993-lonely-white.json](./212993-lonely-white.json) |
