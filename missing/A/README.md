@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Week in the Office: Under the Table | 154976 | [154976-a-week-in-the-office-under-the-table.json](./154976-a-week-in-the-office-under-the-table.json) |
 | A Week of Circus Terror | 32169 | [32169-a-week-of-circus-terror.json](./32169-a-week-of-circus-terror.json) |
 | A Week of Garfield: Garfield no Isshukan | 69023 | [69023-a-week-of-garfield-garfield-no-isshukan.json](./69023-a-week-of-garfield-garfield-no-isshukan.json) |
+| A Week to Remember | 413304 | [413304-a-week-to-remember.json](./413304-a-week-to-remember.json) |
 | A Weekend at Villa Apate | 177893 | [177893-a-weekend-at-villa-apate.json](./177893-a-weekend-at-villa-apate.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
 | A Weird Game About Sausage | 405185 | [405185-a-weird-game-about-sausage.json](./405185-a-weird-game-about-sausage.json) |
@@ -2547,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absym | 335602 | [335602-absym.json](./335602-absym.json) |
 | Abtos Covert | 167396 | [167396-abtos-covert.json](./167396-abtos-covert.json) |
 | Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
+| Abu Khammas | 413347 | [413347-abu-khammas.json](./413347-abu-khammas.json) |
 | Abu Simbel Profanation | 13933 | [13933-abu-simbel-profanation.json](./13933-abu-simbel-profanation.json) |
 | Abu's Adventures | 198016 | [198016-abus-adventures.json](./198016-abus-adventures.json) |
 | Abuga Warp Zone | 306300 | [306300-abuga-warp-zone.json](./306300-abuga-warp-zone.json) |
@@ -7630,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algar | 93941 | [93941-algar.json](./93941-algar.json) |
 | Algarna | 332198 | [332198-algarna.json](./332198-algarna.json) |
 | Algator Speedrun | 412887 | [412887-algator-speedrun.json](./412887-algator-speedrun.json) |
+| Algator vs Sharkz | 413331 | [413331-algator-vs-sharkz.json](./413331-algator-vs-sharkz.json) |
 | Algatraz | 358857 | [358857-algatraz.json](./358857-algatraz.json) |
 | Alge-Blaster 3 | 10673 | [10673-alge-blaster-3.json](./10673-alge-blaster-3.json) |
 | Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
