@@ -17941,6 +17941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britney Spears: American Dream | 57972 | [57972-britney-spears-american-dream.json](./57972-britney-spears-american-dream.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
 | Britney's Dance Beat | 248750 | [248750-britneys-dance-beat.json](./248750-britneys-dance-beat.json) |
+| Britney's Dance Beat | 340652 | [340652-britneys-dance-beat.json](./340652-britneys-dance-beat.json) |
 | Britney's Dance Beat | 6338 | [6338-britneys-dance-beat.json](./6338-britneys-dance-beat.json) |
 | Brittany Home Alone | 177628 | [177628-brittany-home-alone.json](./177628-brittany-home-alone.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
