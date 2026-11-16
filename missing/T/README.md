@@ -5828,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's a Cow: Banana | 403422 | [403422-thats-a-cow-banana.json](./403422-thats-a-cow-banana.json) |
 | That's a Cow: Complete Edition | 257752 | [257752-thats-a-cow-complete-edition.json](./257752-thats-a-cow-complete-edition.json) |
 | That's a Cow: Crown | 403423 | [403423-thats-a-cow-crown.json](./403423-thats-a-cow-crown.json) |
+| That's a Cow: Definitive Edition | 253067 | [253067-thats-a-cow-definitive-edition.json](./253067-thats-a-cow-definitive-edition.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
 | That's a Cow: Extended Edition | 238113 | [238113-thats-a-cow-extended-edition.json](./238113-thats-a-cow-extended-edition.json) |
@@ -8525,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Drift Pack | 408788 | [408788-the-crew-motorfest-drift-pack.json](./408788-the-crew-motorfest-drift-pack.json) |
 | The Crew: Motorfest - Ford Triple Car Pack | 408885 | [408885-the-crew-motorfest-ford-triple-car-pack.json](./408885-the-crew-motorfest-ford-triple-car-pack.json) |
 | The Crew: Motorfest - Gold Edition | 254082 | [254082-the-crew-motorfest-gold-edition.json](./254082-the-crew-motorfest-gold-edition.json) |
+| The Crew: Motorfest - Limited Edition | 253057 | [253057-the-crew-motorfest-limited-edition.json](./253057-the-crew-motorfest-limited-edition.json) |
 | The Crew: Motorfest - Porsche Triple Car Pack | 408886 | [408886-the-crew-motorfest-porsche-triple-car-pack.json](./408886-the-crew-motorfest-porsche-triple-car-pack.json) |
 | The Crew: Motorfest - RC Frenzy Pack | 408845 | [408845-the-crew-motorfest-rc-frenzy-pack.json](./408845-the-crew-motorfest-rc-frenzy-pack.json) |
 | The Crew: Motorfest - Season 10 | 408914 | [408914-the-crew-motorfest-season-10.json](./408914-the-crew-motorfest-season-10.json) |
@@ -8535,6 +8537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Season 8 | 408847 | [408847-the-crew-motorfest-season-8.json](./408847-the-crew-motorfest-season-8.json) |
 | The Crew: Motorfest - Season 9 | 408911 | [408911-the-crew-motorfest-season-9.json](./408911-the-crew-motorfest-season-9.json) |
 | The Crew: Motorfest - Triple Bike Pack | 393737 | [393737-the-crew-motorfest-triple-bike-pack.json](./393737-the-crew-motorfest-triple-bike-pack.json) |
+| The Crew: Motorfest - Ultimate Edition | 253064 | [253064-the-crew-motorfest-ultimate-edition.json](./253064-the-crew-motorfest-ultimate-edition.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
 | The Crew: Motorfest - Year 3 Pass | 408884 | [408884-the-crew-motorfest-year-3-pass.json](./408884-the-crew-motorfest-year-3-pass.json) |
 | The Crew: Silver Pack | 219002 | [219002-the-crew-silver-pack.json](./219002-the-crew-silver-pack.json) |
@@ -12182,6 +12185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
 | The Hunter Files: Case One | 398048 | [398048-the-hunter-files-case-one.json](./398048-the-hunter-files-case-one.json) |
 | The Hunter of Falkenberg | 188770 | [188770-the-hunter-of-falkenberg.json](./188770-the-hunter-of-falkenberg.json) |
+| The Hunter: Call of the Wild - Layton Lake Cosmetic Pack | 253048 | [253048-the-hunter-call-of-the-wild-layton-lake-cosmetic-pack.json](./253048-the-hunter-call-of-the-wild-layton-lake-cosmetic-pack.json) |
 | The Hunter's Journals: Blissful Ignorance | 123870 | [123870-the-hunters-journals-blissful-ignorance.json](./123870-the-hunters-journals-blissful-ignorance.json) |
 | The Hunter's Journals: Red Ripper | 284559 | [284559-the-hunters-journals-red-ripper.json](./284559-the-hunters-journals-red-ripper.json) |
 | The Hunter's Journals: Return to Wight Chapel | 264936 | [264936-the-hunters-journals-return-to-wight-chapel.json](./264936-the-hunters-journals-return-to-wight-chapel.json) |
@@ -14402,6 +14406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light at the End of the Ocean | 168635 | [168635-the-light-at-the-end-of-the-ocean.json](./168635-the-light-at-the-end-of-the-ocean.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
 | The Light Brigade | 224505 | [224505-the-light-brigade.json](./224505-the-light-brigade.json) |
+| The Light Brigade: Collector's Edition | 253062 | [253062-the-light-brigade-collectors-edition.json](./253062-the-light-brigade-collectors-edition.json) |
 | The Light City of Karola | 177897 | [177897-the-light-city-of-karola.json](./177897-the-light-city-of-karola.json) |
 | The Light Corridor | 12438 | [12438-the-light-corridor.json](./12438-the-light-corridor.json) |
 | The Light Empire | 34245 | [34245-the-light-empire.json](./34245-the-light-empire.json) |
@@ -19686,6 +19691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Third Surveillance Bureau | 415831 | [415831-the-third-surveillance-bureau.json](./415831-the-third-surveillance-bureau.json) |
 | The Third Tourist | 356563 | [356563-the-third-tourist.json](./356563-the-third-tourist.json) |
+| The Third Wish | 253079 | [253079-the-third-wish.json](./253079-the-third-wish.json) |
 | The Thirst of Hearts | 54343 | [54343-the-thirst-of-hearts.json](./54343-the-thirst-of-hearts.json) |
 | The Thirst Road | 318735 | [318735-the-thirst-road.json](./318735-the-thirst-road.json) |
 | The Thirteenth Floor | 177309 | [177309-the-thirteenth-floor.json](./177309-the-thirteenth-floor.json) |
