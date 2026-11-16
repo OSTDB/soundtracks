@@ -9141,6 +9141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Jikuu Yousai Macross: Ai Oboete Imasuka | 46094 | [46094-chou-jikuu-yousai-macross-ai-oboete-imasuka.json](./46094-chou-jikuu-yousai-macross-ai-oboete-imasuka.json) |
 | Chou Jinrou Senki Warwolf | 48590 | [48590-chou-jinrou-senki-warwolf.json](./48590-chou-jinrou-senki-warwolf.json) |
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
+| Chou Jinsei Enjoi! Tamagotchi Plus Cyoi Change | 230038 | [230038-chou-jinsei-enjoi-tamagotchi-plus-cyoi-change.json](./230038-chou-jinsei-enjoi-tamagotchi-plus-cyoi-change.json) |
 | Chou Jiryoku Senshi Microman Generation 2000 | 166590 | [166590-chou-jiryoku-senshi-microman-generation-2000.json](./166590-chou-jiryoku-senshi-microman-generation-2000.json) |
 | Chou Kagaku Dasshutsu: Gear Detective | 59207 | [59207-chou-kagaku-dasshutsu-gear-detective.json](./59207-chou-kagaku-dasshutsu-gear-detective.json) |
 | Chou Kousoku Mahjong Plus | 319621 | [319621-chou-kousoku-mahjong-plus.json](./319621-chou-kousoku-mahjong-plus.json) |
@@ -15752,6 +15753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy: Tower Defense | 236594 | [236594-conspiracy-tower-defense.json](./236594-conspiracy-tower-defense.json) |
 | Conspiracy: Weapons of Mass Destruction | 22310 | [22310-conspiracy-weapons-of-mass-destruction.json](./22310-conspiracy-weapons-of-mass-destruction.json) |
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
+| Conspiratio | 230039 | [230039-conspiratio.json](./230039-conspiratio.json) |
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
 | Conspirocracy | 90230 | [90230-conspirocracy.json](./90230-conspirocracy.json) |
 | Conspyration | 272635 | [272635-conspyration.json](./272635-conspyration.json) |
@@ -21972,6 +21974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
 | Cubic complex | 32108 | [32108-cubic-complex.json](./32108-cubic-complex.json) |
 | Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
+| Cubic Crush: Streamer Showdown | 230587 | [230587-cubic-crush-streamer-showdown.json](./230587-cubic-crush-streamer-showdown.json) |
 | Cubic Currency | 155892 | [155892-cubic-currency.json](./155892-cubic-currency.json) |
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Dweller | 190818 | [190818-cubic-dweller.json](./190818-cubic-dweller.json) |
