@@ -5243,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Diseased | 179283 | [179283-death-of-the-diseased.json](./179283-death-of-the-diseased.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
+| Death off the Cuff | 217579 | [217579-death-off-the-cuff.json](./217579-death-off-the-cuff.json) |
 | Death off the Cuff: Remastered | 174021 | [174021-death-off-the-cuff-remastered.json](./174021-death-off-the-cuff-remastered.json) |
 | Death On Holly Ridge | 381319 | [381319-death-on-holly-ridge.json](./381319-death-on-holly-ridge.json) |
 | Death on Stage | 320702 | [320702-death-on-stage.json](./320702-death-on-stage.json) |
