@@ -3116,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach the Hilltop | 236083 | [236083-reach-the-hilltop.json](./236083-reach-the-hilltop.json) |
 | Reach the light | 260871 | [260871-reach-the-light.json](./260871-reach-the-light.json) |
 | Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
+| Reach the Ocean | 213664 | [213664-reach-the-ocean.json](./213664-reach-the-ocean.json) |
 | Reach the Sky | 110188 | [110188-reach-the-sky.json](./110188-reach-the-sky.json) |
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
@@ -8496,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rifted Worlds | 280439 | [280439-rifted-worlds.json](./280439-rifted-worlds.json) |
 | Riftella | 395960 | [395960-riftella.json](./395960-riftella.json) |
 | Rifter | 255498 | [255498-rifter.json](./255498-rifter.json) |
+| Rifters | 212945 | [212945-rifters.json](./212945-rifters.json) |
 | Riftfall | 411762 | [411762-riftfall.json](./411762-riftfall.json) |
 | RiftGuard | 365368 | [365368-riftguard.json](./365368-riftguard.json) |
 | Riftinvaders | 363594 | [363594-riftinvaders.json](./363594-riftinvaders.json) |
@@ -12334,6 +12336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 12 | 207734 | [207734-room-12.json](./207734-room-12.json) |
 | Room 13 | 173324 | [173324-room-13.json](./173324-room-13.json) |
 | Room 13 | 286331 | [286331-room-13.json](./286331-room-13.json) |
+| Room 1309 | 212946 | [212946-room-1309.json](./212946-room-1309.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 202 | 313926 | [313926-room-202.json](./313926-room-202.json) |
 | Room 208 | 119857 | [119857-room-208.json](./119857-room-208.json) |
