@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocks Deeds: Desolation horde | 282252 | [282252-warlocks-deeds-desolation-horde.json](./282252-warlocks-deeds-desolation-horde.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
 | Warlocks Entanglement | 172970 | [172970-warlocks-entanglement.json](./172970-warlocks-entanglement.json) |
+| Warlocks JS | 351298 | [351298-warlocks-js.json](./351298-warlocks-js.json) |
 | Warlocks Quarry | 214254 | [214254-warlocks-quarry.json](./214254-warlocks-quarry.json) |
 | Warlocks Quarry: Random Worlds + Explorer | 243773 | [243773-warlocks-quarry-random-worlds-explorer.json](./243773-warlocks-quarry-random-worlds-explorer.json) |
 | Warlode | 400530 | [400530-warlode.json](./400530-warlode.json) |
@@ -4075,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Beach Pussies | 384992 | [384992-wet-beach-pussies.json](./384992-wet-beach-pussies.json) |
 | Wet Candy | 408263 | [408263-wet-candy.json](./408263-wet-candy.json) |
 | Wet City | 347204 | [347204-wet-city.json](./347204-wet-city.json) |
+| Wet Corpse | 356306 | [356306-wet-corpse.json](./356306-wet-corpse.json) |
 | Wet Cute Girls | 286752 | [286752-wet-cute-girls.json](./286752-wet-cute-girls.json) |
 | Wet Dog Corp | 132993 | [132993-wet-dog-corp.json](./132993-wet-dog-corp.json) |
 | Wet Dream | 273212 | [273212-wet-dream.json](./273212-wet-dream.json) |
@@ -8929,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World At War: Cobra | 343715 | [343715-world-at-war-cobra.json](./343715-world-at-war-cobra.json) |
 | World at War: Nazi Zombies Remastered | 299137 | [299137-world-at-war-nazi-zombies-remastered.json](./299137-world-at-war-nazi-zombies-remastered.json) |
 | World At War: Normandy | 333743 | [333743-world-at-war-normandy.json](./333743-world-at-war-normandy.json) |
+| World at War: Operation Global Storm | 351306 | [351306-world-at-war-operation-global-storm.json](./351306-world-at-war-operation-global-storm.json) |
 | World at War: Operation Somalia | 10915 | [10915-world-at-war-operation-somalia.json](./10915-world-at-war-operation-somalia.json) |
 | World at War: Stalingrad | 98910 | [98910-world-at-war-stalingrad.json](./98910-world-at-war-stalingrad.json) |
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
@@ -9779,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Places Mosaics 3 | 415934 | [415934-worlds-greatest-places-mosaics-3.json](./415934-worlds-greatest-places-mosaics-3.json) |
 | World's Greatest Places Mosaics 4 | 415861 | [415861-worlds-greatest-places-mosaics-4.json](./415861-worlds-greatest-places-mosaics-4.json) |
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
+| World's Greatest Temples Mahjong | 356316 | [356316-worlds-greatest-temples-mahjong.json](./356316-worlds-greatest-temples-mahjong.json) |
 | World's Hardest Hack | 267611 | [267611-worlds-hardest-hack.json](./267611-worlds-hardest-hack.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | World's Nicht | 120054 | [120054-worlds-nicht.json](./120054-worlds-nicht.json) |
