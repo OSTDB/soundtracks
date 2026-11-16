@@ -16343,6 +16343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
 | Prince Adamajapanahiko x Princess | 235033 | [235033-prince-adamajapanahiko-x-princess.json](./235033-prince-adamajapanahiko-x-princess.json) |
 | Prince Adventures | 293855 | [293855-prince-adventures.json](./293855-prince-adventures.json) |
+| Prince Ajapanadam x Princess | 225982 | [225982-prince-ajapanadam-x-princess.json](./225982-prince-ajapanadam-x-princess.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Charmless | 178542 | [178542-prince-charmless.json](./178542-prince-charmless.json) |
 | Prince Clumsy | 94453 | [94453-prince-clumsy.json](./94453-prince-clumsy.json) |
@@ -20405,6 +20406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Putty Squad | 85584 | [85584-putty-squad.json](./85584-putty-squad.json) |
 | Puttyface | 28330 | [28330-puttyface.json](./28330-puttyface.json) |
+| Puttzzle | 225985 | [225985-puttzzle.json](./225985-puttzzle.json) |
 | Putzgrila: Mestre dos Esportes | 172472 | [172472-putzgrila-mestre-dos-esportes.json](./172472-putzgrila-mestre-dos-esportes.json) |
 | Puym: Lake | 242972 | [242972-puym-lake.json](./242972-puym-lake.json) |
 | Puyo Card | 253761 | [253761-puyo-card.json](./253761-puyo-card.json) |
