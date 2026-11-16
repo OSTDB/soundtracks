@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator C64 Edition | 110482 | [110482-farming-simulator-c64-edition.json](./110482-farming-simulator-c64-edition.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
 | Farming Simulator Kids | 287580 | [287580-farming-simulator-kids.json](./287580-farming-simulator-kids.json) |
+| Farming Simulator VR | 329875 | [329875-farming-simulator-vr.json](./329875-farming-simulator-vr.json) |
 | Farming Simulator: Farm, Tractor, Experience Logic Games - Nintendo Switch Edition | 254854 | [254854-farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition.json](./254854-farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
 | Farming Simulator: Nintendo Switch Edition | 36777 | [36777-farming-simulator-nintendo-switch-edition.json](./36777-farming-simulator-nintendo-switch-edition.json) |
@@ -15237,6 +15238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Frankenstein | 354049 | [354049-funko-fusion-frankenstein.json](./354049-funko-fusion-frankenstein.json) |
 | Funko Fusion: Funko Fusion and Wicked Movie DLC Bundle | 331549 | [331549-funko-fusion-funko-fusion-and-wicked-movie-dlc-bundle.json](./331549-funko-fusion-funko-fusion-and-wicked-movie-dlc-bundle.json) |
 | Funko Fusion: Happy Funkoween Pack | 373882 | [373882-funko-fusion-happy-funkoween-pack.json](./373882-funko-fusion-happy-funkoween-pack.json) |
+| Funko Fusion: Happy Little Bundle | 331548 | [331548-funko-fusion-happy-little-bundle.json](./331548-funko-fusion-happy-little-bundle.json) |
 | Funko Fusion: Hazel & Cha-Cha Pack | 325360 | [325360-funko-fusion-hazel-and-cha-cha-pack.json](./325360-funko-fusion-hazel-and-cha-cha-pack.json) |
 | Funko Fusion: Invincible Pack | 323320 | [323320-funko-fusion-invincible-pack.json](./323320-funko-fusion-invincible-pack.json) |
 | Funko Fusion: Jurassic World Bonus Pack | 354238 | [354238-funko-fusion-jurassic-world-bonus-pack.json](./354238-funko-fusion-jurassic-world-bonus-pack.json) |
@@ -15791,6 +15793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari & Ladyboy BDSM | 384723 | [384723-futanari-and-ladyboy-bdsm.json](./384723-futanari-and-ladyboy-bdsm.json) |
 | Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
 | Futanari Affairs | 367199 | [367199-futanari-affairs.json](./367199-futanari-affairs.json) |
+| Futanari Coffee Shop | 335538 | [335538-futanari-coffee-shop.json](./335538-futanari-coffee-shop.json) |
 | Futanari College: Episode 1 | 277995 | [277995-futanari-college-episode-1.json](./277995-futanari-college-episode-1.json) |
 | Futanari di Funghi | 260333 | [260333-futanari-di-funghi.json](./260333-futanari-di-funghi.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
