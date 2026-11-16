@@ -4741,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is Here: New Home | 207309 | [207309-where-is-here-new-home.json](./207309-where-is-here-new-home.json) |
 | Where Is It: The Quest for the 10th Island | 370629 | [370629-where-is-it-the-quest-for-the-10th-island.json](./370629-where-is-it-the-quest-for-the-10th-island.json) |
 | Where is Johnny | 282227 | [282227-where-is-johnny.json](./282227-where-is-johnny.json) |
+| Where Is Lena? | 390304 | [390304-where-is-lena.json](./390304-where-is-lena.json) |
 | Where is Love? | 302439 | [302439-where-is-love.json](./302439-where-is-love.json) |
 | Where Is Mommy | 374351 | [374351-where-is-mommy.json](./374351-where-is-mommy.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
