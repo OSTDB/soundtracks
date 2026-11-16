@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
 | Office Overlord | 420509 | [420509-office-overlord.json](./420509-office-overlord.json) |
 | Office Overtime | 267693 | [267693-office-overtime.json](./267693-office-overtime.json) |
+| Office Paradox | 301151 | [301151-office-paradox.json](./301151-office-paradox.json) |
 | Office Perks: Act 1 | 297907 | [297907-office-perks-act-1.json](./297907-office-perks-act-1.json) |
 | Office Point Rescue | 159051 | [159051-office-point-rescue.json](./159051-office-point-rescue.json) |
 | Office Race | 102951 | [102951-office-race.json](./102951-office-race.json) |
@@ -2541,6 +2542,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Fine Tourney | 277982 | [277982-one-fine-tourney.json](./277982-one-fine-tourney.json) |
 | One Finger Death Punch | 8360 | [8360-one-finger-death-punch.json](./8360-one-finger-death-punch.json) |
 | One for the road | 176262 | [176262-one-for-the-road.json](./176262-one-for-the-road.json) |
+| One for the Road | 300557 | [300557-one-for-the-road.json](./300557-one-for-the-road.json) |
+| One for the Road / Mutations | 300558 | [300558-one-for-the-road-mutations.json](./300558-one-for-the-road-mutations.json) |
 | One For Two | 226033 | [226033-one-for-two.json](./226033-one-for-two.json) |
 | One Giant Hole | 371869 | [371869-one-giant-hole.json](./371869-one-giant-hole.json) |
 | One Giant Leap | 31735 | [31735-one-giant-leap.json](./31735-one-giant-leap.json) |
@@ -6482,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtrick | 379623 | [379623-overtrick.json](./379623-overtrick.json) |
 | OverTrip | 307818 | [307818-overtrip.json](./307818-overtrip.json) |
 | Overture | 35922 | [35922-overture.json](./35922-overture.json) |
+| Overturn | 301149 | [301149-overturn.json](./301149-overturn.json) |
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
 | Overturn: Final Operation | 98695 | [98695-overturn-final-operation.json](./98695-overturn-final-operation.json) |
 | Overturn: Mecha Wars | 71945 | [71945-overturn-mecha-wars.json](./71945-overturn-mecha-wars.json) |
