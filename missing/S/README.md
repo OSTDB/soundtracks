@@ -30016,7 +30016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steppenwolf: The X-Creatures Project | 284584 | [284584-steppenwolf-the-x-creatures-project.json](./284584-steppenwolf-the-x-creatures-project.json) |
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
 | Steppy Dungeon | 181726 | [181726-steppy-dungeon.json](./181726-steppy-dungeon.json) |
-| Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
 | Steps | 176523 | [176523-steps.json](./176523-steps.json) |
 | Steps From Above | 188889 | [188889-steps-from-above.json](./188889-steps-from-above.json) |
 | Steps of Debauchery | 370578 | [370578-steps-of-debauchery.json](./370578-steps-of-debauchery.json) |
