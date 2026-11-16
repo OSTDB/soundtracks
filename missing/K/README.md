@@ -5202,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Special Edition | 324371 | [324371-knights-and-guns-special-edition.json](./324371-knights-and-guns-special-edition.json) |
 | Knights & Guns: Summer Edition | 312056 | [312056-knights-and-guns-summer-edition.json](./312056-knights-and-guns-summer-edition.json) |
 | Knights & Guns: Ultimate Edition | 283142 | [283142-knights-and-guns-ultimate-edition.json](./283142-knights-and-guns-ultimate-edition.json) |
+| Knights & Guns: VIP Edition | 418339 | [418339-knights-and-guns-vip-edition.json](./418339-knights-and-guns-vip-edition.json) |
 | Knights & Outlaws | 120917 | [120917-knights-and-outlaws.json](./120917-knights-and-outlaws.json) |
 | Knights & Slimes | 115649 | [115649-knights-and-slimes.json](./115649-knights-and-slimes.json) |
 | Knights and Castles | 182732 | [182732-knights-and-castles.json](./182732-knights-and-castles.json) |
