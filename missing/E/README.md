@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
 | Egg | 349788 | [349788-egg.json](./349788-egg.json) |
+| Egg | 375679 | [375679-egg.json](./375679-egg.json) |
 | Egg Ascent | 199718 | [199718-egg-ascent.json](./199718-egg-ascent.json) |
 | Egg Baby | 353757 | [353757-egg-baby.json](./353757-egg-baby.json) |
 | Egg Blast | 375478 | [375478-egg-blast.json](./375478-egg-blast.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
 | Eggson | 362772 | [362772-eggson.json](./362772-eggson.json) |
 | EggSort | 261316 | [261316-eggsort.json](./261316-eggsort.json) |
+| Eggspedition | 367331 | [367331-eggspedition.json](./367331-eggspedition.json) |
 | Eggsplorer | 240620 | [240620-eggsplorer.json](./240620-eggsplorer.json) |
 | Eggsplosion | 145202 | [145202-eggsplosion.json](./145202-eggsplosion.json) |
 | Eggsplosion | 304284 | [304284-eggsplosion.json](./304284-eggsplosion.json) |
@@ -5748,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape 2088 | 147658 | [147658-escape-2088.json](./147658-escape-2088.json) |
 | Escape 4: The Bathroom | 317401 | [317401-escape-4-the-bathroom.json](./317401-escape-4-the-bathroom.json) |
 | Escape 51 | 339766 | [339766-escape-51.json](./339766-escape-51.json) |
+| Escape 9 to 5 | 379291 | [379291-escape-9-to-5.json](./379291-escape-9-to-5.json) |
 | Escape Abstraction | 203980 | [203980-escape-abstraction.json](./203980-escape-abstraction.json) |
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
@@ -6126,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
 | Escape Game R00m03 | 342391 | [342391-escape-game-r00m03.json](./342391-escape-game-r00m03.json) |
 | Escape Game R00m04 | 343718 | [343718-escape-game-r00m04.json](./343718-escape-game-r00m04.json) |
+| Escape game R00m06 | 373973 | [373973-escape-game-r00m06.json](./373973-escape-game-r00m06.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
 | Escape game R00m08 | 381797 | [381797-escape-game-r00m08.json](./381797-escape-game-r00m08.json) |
 | Escape game R00m11 | 395217 | [395217-escape-game-r00m11.json](./395217-escape-game-r00m11.json) |
