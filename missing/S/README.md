@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Odyssey: Rise of Ayden | 65705 | [65705-sacred-odyssey-rise-of-ayden.json](./65705-sacred-odyssey-rise-of-ayden.json) |
 | Sacred of Gates: Tinder | 340674 | [340674-sacred-of-gates-tinder.json](./340674-sacred-of-gates-tinder.json) |
 | Sacred Plus | 53570 | [53570-sacred-plus.json](./53570-sacred-plus.json) |
+| Sacred Safar | 294327 | [294327-sacred-safar.json](./294327-sacred-safar.json) |
 | Sacred Seasons | 175627 | [175627-sacred-seasons.json](./175627-sacred-seasons.json) |
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
 | Sacred Siren | 121913 | [121913-sacred-siren.json](./121913-sacred-siren.json) |
@@ -1706,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
 | Sanatorium: Anthropocene Retreat | 171661 | [171661-sanatorium-anthropocene-retreat.json](./171661-sanatorium-anthropocene-retreat.json) |
 | Sanatory Hallways | 85367 | [85367-sanatory-hallways.json](./85367-sanatory-hallways.json) |
+| Sanbansen | 295711 | [295711-sanbansen.json](./295711-sanbansen.json) |
 | Sancho Ponchek | 101905 | [101905-sancho-ponchek.json](./101905-sancho-ponchek.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
@@ -15536,6 +15538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime Masters | 265299 | [265299-slime-masters.json](./265299-slime-masters.json) |
 | Slime Match Adventure | 363056 | [363056-slime-match-adventure.json](./363056-slime-match-adventure.json) |
+| Slime Mayhem | 294324 | [294324-slime-mayhem.json](./294324-slime-mayhem.json) |
 | Slime Mori-mori Dragon Quest 3: Daikaizoku to Shippo-dan | 1826 | [1826-slime-mori-mori-dragon-quest-3-daikaizoku-to-shippo-dan.json](./1826-slime-mori-mori-dragon-quest-3-daikaizoku-to-shippo-dan.json) |
 | Slime Mori-mori Dragon Quest: Shougeki no Shippo-dan | 1823 | [1823-slime-mori-mori-dragon-quest-shougeki-no-shippo-dan.json](./1823-slime-mori-mori-dragon-quest-shougeki-no-shippo-dan.json) |
 | Slime Must Grow | 389917 | [389917-slime-must-grow.json](./389917-slime-must-grow.json) |
@@ -17941,6 +17944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So-called Hero | 121048 | [121048-so-called-hero.json](./121048-so-called-hero.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
 | So-Nanoka | 387779 | [387779-so-nanoka.json](./387779-so-nanoka.json) |
+| So, This Vampire Walks Into a Bar | 294310 | [294310-so-this-vampire-walks-into-a-bar.json](./294310-so-this-vampire-walks-into-a-bar.json) |
 | So, uh... a spaceship crashed in my yard. | 105694 | [105694-so-uh-a-spaceship-crashed-in-my-yard.json](./105694-so-uh-a-spaceship-crashed-in-my-yard.json) |
 | So, You're Possessed! | 187802 | [187802-so-youre-possessed.json](./187802-so-youre-possessed.json) |
 | So... chunks, huh? | 177691 | [177691-so-chunks-huh.json](./177691-so-chunks-huh.json) |
@@ -23765,6 +23769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectromancer: Truth & Beauty | 164384 | [164384-spectromancer-truth-and-beauty.json](./164384-spectromancer-truth-and-beauty.json) |
 | Spectron | 399407 | [399407-spectron.json](./399407-spectron.json) |
 | Spectron | 40912 | [40912-spectron.json](./40912-spectron.json) |
+| SpectroPhobia | 294325 | [294325-spectrophobia.json](./294325-spectrophobia.json) |
 | Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
 | Spectrum | 161517 | [161517-spectrum.json](./161517-spectrum.json) |
