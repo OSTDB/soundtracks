@@ -14800,6 +14800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniCar Race | 104840 | [104840-minicar-race.json](./104840-minicar-race.json) |
 | MiniCar Shop Simulator | 369802 | [369802-minicar-shop-simulator.json](./369802-minicar-shop-simulator.json) |
 | Minicars | 90522 | [90522-minicars.json](./90522-minicars.json) |
+| Minicars: Road to the city! | 287828 | [287828-minicars-road-to-the-city.json](./287828-minicars-road-to-the-city.json) |
 | MiniChef | 147203 | [147203-minichef.json](./147203-minichef.json) |
 | MiniChess by Kasparov | 174239 | [174239-minichess-by-kasparov.json](./174239-minichess-by-kasparov.json) |
 | Minicology | 150771 | [150771-minicology.json](./150771-minicology.json) |
@@ -18509,6 +18510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters (Probably) Stole My Princess | 42743 | [42743-monsters-probably-stole-my-princess.json](./42743-monsters-probably-stole-my-princess.json) |
 | Monsters & Anomaly | 112692 | [112692-monsters-and-anomaly.json](./112692-monsters-and-anomaly.json) |
 | Monsters & Memories | 233978 | [233978-monsters-and-memories.json](./233978-monsters-and-memories.json) |
+| Monsters & Mortals: House of Ashes | 287834 | [287834-monsters-and-mortals-house-of-ashes.json](./287834-monsters-and-mortals-house-of-ashes.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
 | Monsters and Mazes | 380178 | [380178-monsters-and-mazes.json](./380178-monsters-and-mazes.json) |
@@ -19452,6 +19454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morph King | 190911 | [190911-morph-king.json](./190911-morph-king.json) |
 | Morph Pong | 114240 | [114240-morph-pong.json](./114240-morph-pong.json) |
 | Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
+| Morph! | 287822 | [287822-morph.json](./287822-morph.json) |
 | Morphatrons Alien | 198825 | [198825-morphatrons-alien.json](./198825-morphatrons-alien.json) |
 | Morphatrons Arachnid | 198826 | [198826-morphatrons-arachnid.json](./198826-morphatrons-arachnid.json) |
 | Morphatrons Raptor | 198827 | [198827-morphatrons-raptor.json](./198827-morphatrons-raptor.json) |
@@ -20842,6 +20845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
 | Moylo | 418702 | [418702-moylo.json](./418702-moylo.json) |
 | Moysenland | 123732 | [123732-moysenland.json](./123732-moysenland.json) |
+| Moyu world | 287810 | [287810-moyu-world.json](./287810-moyu-world.json) |
 | Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
@@ -24526,6 +24530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Mystery, EP 1: The Duo Dilemma | 293486 | [293486-mysterious-mystery-ep-1-the-duo-dilemma.json](./293486-mysterious-mystery-ep-1-the-duo-dilemma.json) |
 | Mysterious Night: The First Night | 195844 | [195844-mysterious-night-the-first-night.json](./195844-mysterious-night-the-first-night.json) |
 | Mysterious Place | 254282 | [254282-mysterious-place.json](./254282-mysterious-place.json) |
+| Mysterious prophecy | 287820 | [287820-mysterious-prophecy.json](./287820-mysterious-prophecy.json) |
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Realms RPG | 75911 | [75911-mysterious-realms-rpg.json](./75911-mysterious-realms-rpg.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
