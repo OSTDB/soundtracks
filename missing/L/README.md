@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady and the Papyrus | 392528 | [392528-lady-and-the-papyrus.json](./392528-lady-and-the-papyrus.json) |
 | Lady At The Costco Gave Me Her Extra Hot Dog Soda Combo | 399751 | [399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json](./399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
+| Lady Bono!! | 239939 | [239939-lady-bono.json](./239939-lady-bono.json) |
 | Lady Bono!! Dynamites | 242339 | [242339-lady-bono-dynamites.json](./242339-lady-bono-dynamites.json) |
 | Lady Bug | 5677 | [5677-lady-bug.json](./5677-lady-bug.json) |
 | Lady Bug Arcade | 332638 | [332638-lady-bug-arcade.json](./332638-lady-bug-arcade.json) |
@@ -6659,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Computer People | 12179 | [12179-little-computer-people.json](./12179-little-computer-people.json) |
 | Little Corner Tea House | 327278 | [327278-little-corner-tea-house.json](./327278-little-corner-tea-house.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
+| Little Cousins | 241582 | [241582-little-cousins.json](./241582-little-cousins.json) |
 | Little Cozy Home | 385091 | [385091-little-cozy-home.json](./385091-little-cozy-home.json) |
 | Little Crab Fisher | 242943 | [242943-little-crab-fisher.json](./242943-little-crab-fisher.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
