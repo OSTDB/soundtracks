@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Ants | 184916 | [184916-a-game-about-ants.json](./184916-a-game-about-ants.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
 | A Game About Breaking A Cube | 379511 | [379511-a-game-about-breaking-a-cube.json](./379511-a-game-about-breaking-a-cube.json) |
+| A Game About Breaking Pots | 419818 | [419818-a-game-about-breaking-pots.json](./419818-a-game-about-breaking-pots.json) |
 | A Game About Building A Tower | 357831 | [357831-a-game-about-building-a-tower.json](./357831-a-game-about-building-a-tower.json) |
 | A Game About Cards | 348570 | [348570-a-game-about-cards.json](./348570-a-game-about-cards.json) |
 | A Game About Chopping Trees | 403786 | [403786-a-game-about-chopping-trees.json](./403786-a-game-about-chopping-trees.json) |
