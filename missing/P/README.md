@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Perjury | 262865 | [262865-paper-perjury.json](./262865-paper-perjury.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Pilgrim: The Crystal Case | 181639 | [181639-paper-pilgrim-the-crystal-case.json](./181639-paper-pilgrim-the-crystal-case.json) |
+| Paper Pilot | 291631 | [291631-paper-pilot.json](./291631-paper-pilot.json) |
 | Paper Pilot | 369706 | [369706-paper-pilot.json](./369706-paper-pilot.json) |
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
 | Paper Pirates | 130114 | [130114-paper-pirates.json](./130114-paper-pirates.json) |
