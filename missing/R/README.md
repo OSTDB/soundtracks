@@ -10642,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
 | Rocket League: Knight Rider Car Pack | 348680 | [348680-rocket-league-knight-rider-car-pack.json](./348680-rocket-league-knight-rider-car-pack.json) |
 | Rocket League: Marauder | 400007 | [400007-rocket-league-marauder.json](./400007-rocket-league-marauder.json) |
+| Rocket League: Masamune | 400008 | [400008-rocket-league-masamune.json](./400008-rocket-league-masamune.json) |
 | Rocket League: McLaren 570S Car Pack | 348659 | [348659-rocket-league-mclaren-570s-car-pack.json](./348659-rocket-league-mclaren-570s-car-pack.json) |
 | Rocket League: MLB Fan Pack | 348677 | [348677-rocket-league-mlb-fan-pack.json](./348677-rocket-league-mlb-fan-pack.json) |
 | Rocket League: Painted Paragon Bundle | 277522 | [277522-rocket-league-painted-paragon-bundle.json](./277522-rocket-league-painted-paragon-bundle.json) |
