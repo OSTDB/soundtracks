@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Resgate dos Bichos | 90303 | [90303-o-resgate-dos-bichos.json](./90303-o-resgate-dos-bichos.json) |
 | O Retrato de Monte Calmo | 351350 | [351350-o-retrato-de-monte-calmo.json](./351350-o-retrato-de-monte-calmo.json) |
 | O Salão Encantado | 216274 | [216274-o-salao-encantado.json](./216274-o-salao-encantado.json) |
+| O Seresteiro | 255395 | [255395-o-seresteiro.json](./255395-o-seresteiro.json) |
 | O Sítio do Picapau Amarelo: As Reinações de Narizinho | 286924 | [286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json](./286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json) |
 | O Sombrio: A Voz das Almas | 278832 | [278832-o-sombrio-a-voz-das-almas.json](./278832-o-sombrio-a-voz-das-almas.json) |
 | O suposto jogo da Ismeiow | 424543 | [424543-o-suposto-jogo-da-ismeiow.json](./424543-o-suposto-jogo-da-ismeiow.json) |
