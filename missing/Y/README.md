@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yay! Spring Trip with My Coworkers! | 319071 | [319071-yay-spring-trip-with-my-coworkers.json](./319071-yay-spring-trip-with-my-coworkers.json) |
 | Yayla | 235551 | [235551-yayla.json](./235551-yayla.json) |
 | Yayos | 382571 | [382571-yayos.json](./382571-yayos.json) |
+| YAYS: Your Adventure Your Story | 295719 | [295719-yays-your-adventure-your-story.json](./295719-yays-your-adventure-your-story.json) |
 | Yaysuu's X-Treme Adventure | 316697 | [316697-yaysuus-x-treme-adventure.json](./316697-yaysuus-x-treme-adventure.json) |
 | Yaz | 263145 | [263145-yaz.json](./263145-yaz.json) |
 | Yazz | 184794 | [184794-yazz.json](./184794-yazz.json) |
@@ -1195,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Mine2 Otome Love Story | 231876 | [231876-you-are-mine2-otome-love-story.json](./231876-you-are-mine2-otome-love-story.json) |
 | YOU ARE MY HOME | 300762 | [300762-you-are-my-home.json](./300762-you-are-my-home.json) |
 | You Are My Sanctuary | 109892 | [109892-you-are-my-sanctuary.json](./109892-you-are-my-sanctuary.json) |
+| You Are My Treasure | 295720 | [295720-you-are-my-treasure.json](./295720-you-are-my-treasure.json) |
 | You are Never Alone | 112389 | [112389-you-are-never-alone.json](./112389-you-are-never-alone.json) |
 | You are next | 132680 | [132680-you-are-next.json](./132680-you-are-next.json) |
 | You Are Not A Banana | 36016 | [36016-you-are-not-a-banana.json](./36016-you-are-not-a-banana.json) |
