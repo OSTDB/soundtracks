@@ -15968,6 +15968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pressure Within | 225215 | [225215-pressure-within.json](./225215-pressure-within.json) |
 | Pressured | 9008 | [9008-pressured.json](./9008-pressured.json) |
 | Prestige Tree | 213278 | [213278-prestige-tree.json](./213278-prestige-tree.json) |
+| Prestigious Passions | 299045 | [299045-prestigious-passions.json](./299045-prestigious-passions.json) |
 | Prestigious School Story | 92461 | [92461-prestigious-school-story.json](./92461-prestigious-school-story.json) |
 | Presto Starto | 183425 | [183425-presto-starto.json](./183425-presto-starto.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
