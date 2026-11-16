@@ -4944,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
 | Aether-07 | 403317 | [403317-aether-07.json](./403317-aether-07.json) |
 | Aether: A Heroic Fantasy RPG | 184062 | [184062-aether-a-heroic-fantasy-rpg.json](./184062-aether-a-heroic-fantasy-rpg.json) |
+| Aether: Trading Card Game | 222564 | [222564-aether-trading-card-game.json](./222564-aether-trading-card-game.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
 | Aetherbound | 357789 | [357789-aetherbound.json](./357789-aetherbound.json) |
@@ -21276,6 +21277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azito 3 | 63268 | [63268-azito-3.json](./63268-azito-3.json) |
 | Azito 3D | 91757 | [91757-azito-3d.json](./91757-azito-3d.json) |
 | Azito 3D Kyoto | 222332 | [222332-azito-3d-kyoto.json](./222332-azito-3d-kyoto.json) |
+| Azito 3D Osaka | 222435 | [222435-azito-3d-osaka.json](./222435-azito-3d-osaka.json) |
 | Azito 3D Tokyo | 222468 | [222468-azito-3d-tokyo.json](./222468-azito-3d-tokyo.json) |
 | Azito x Tatsunoko | 60963 | [60963-azito-x-tatsunoko.json](./60963-azito-x-tatsunoko.json) |
 | Aziz Üsküdar's Baba Records | 425766 | [425766-aziz-uskudars-baba-records.json](./425766-aziz-uskudars-baba-records.json) |
@@ -21327,6 +21329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azu Quiz Daioh | 98059 | [98059-azu-quiz-daioh.json](./98059-azu-quiz-daioh.json) |
 | Azu-Beach | 140485 | [140485-azu-beach.json](./140485-azu-beach.json) |
 | Azu-Cola | 222109 | [222109-azu-cola.json](./222109-azu-cola.json) |
+| Azu-Race Taisen Battle He-Cho | 222563 | [222563-azu-race-taisen-battle-he-cho.json](./222563-azu-race-taisen-battle-he-cho.json) |
 | Azu-Tama | 222183 | [222183-azu-tama.json](./222183-azu-tama.json) |
 | AzuFight: Taisen Shiyo | 222541 | [222541-azufight-taisen-shiyo.json](./222541-azufight-taisen-shiyo.json) |
 | Azul Baronis | 331992 | [331992-azul-baronis.json](./331992-azul-baronis.json) |
