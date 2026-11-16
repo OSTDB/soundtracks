@@ -4277,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScubaVenture | 73400 | [73400-scubaventure.json](./73400-scubaventure.json) |
 | ScubaVenture: The Search For Pirate's Treasure | 77855 | [77855-scubaventure-the-search-for-pirates-treasure.json](./77855-scubaventure-the-search-for-pirates-treasure.json) |
 | Scud Atak | 85766 | [85766-scud-atak.json](./85766-scud-atak.json) |
+| Scud Busters | 419126 | [419126-scud-busters.json](./419126-scud-busters.json) |
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
 | SCUD Race | 39476 | [39476-scud-race.json](./39476-scud-race.json) |
 | SCUD Race Plus | 316974 | [316974-scud-race-plus.json](./316974-scud-race-plus.json) |
@@ -5207,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Word Gardens | 416175 | [416175-secret-word-gardens.json](./416175-secret-word-gardens.json) |
 | Secret World Legends | 28008 | [28008-secret-world-legends.json](./28008-secret-world-legends.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
+| Secreta Vitae | 419055 | [419055-secreta-vitae.json](./419055-secreta-vitae.json) |
 | Secretary's Hell | 183249 | [183249-secretarys-hell.json](./183249-secretarys-hell.json) |
 | Secretbot! | 419079 | [419079-secretbot.json](./419079-secretbot.json) |
 | SecretHitler.io | 256764 | [256764-secrethitler-io.json](./256764-secrethitler-io.json) |
@@ -20751,6 +20753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sotsugyou M: Male Graduation - Seitokai Naga no Kareinaru Inbou | 166395 | [166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json](./166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json) |
 | Sotsugyou R: Graduation Real | 166396 | [166396-sotsugyou-r-graduation-real.json](./166396-sotsugyou-r-graduation-real.json) |
 | Sotsugyou Ryokou | 263955 | [263955-sotsugyou-ryokou.json](./263955-sotsugyou-ryokou.json) |
+| Sotsugyou Shashin Miki | 419053 | [419053-sotsugyou-shashin-miki.json](./419053-sotsugyou-shashin-miki.json) |
 | Sotsugyou Vacation | 166398 | [166398-sotsugyou-vacation.json](./166398-sotsugyou-vacation.json) |
 | Sotsugyou Vacation | 381647 | [381647-sotsugyou-vacation.json](./381647-sotsugyou-vacation.json) |
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
@@ -36581,6 +36584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Orb Collector | 115213 | [115213-super-orb-collector.json](./115213-super-orb-collector.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
+| Super Orbmaster | 419044 | [419044-super-orbmaster.json](./419044-super-orbmaster.json) |
 | Super OsWald | 112190 | [112190-super-oswald.json](./112190-super-oswald.json) |
 | Super Otamatone | 172524 | [172524-super-otamatone.json](./172524-super-otamatone.json) |
 | Super Othello | 308981 | [308981-super-othello.json](./308981-super-othello.json) |
