@@ -6305,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerulean Singe | 263242 | [263242-cerulean-singe.json](./263242-cerulean-singe.json) |
 | Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
 | Cervidae | 182140 | [182140-cervidae.json](./182140-cervidae.json) |
+| Cervus Blade | 249408 | [249408-cervus-blade.json](./249408-cervus-blade.json) |
 | Cesar Millan's Dog Whisperer | 70646 | [70646-cesar-millans-dog-whisperer.json](./70646-cesar-millans-dog-whisperer.json) |
 | Cessabit | 175458 | [175458-cessabit.json](./175458-cessabit.json) |
 | Cessate il Fuoco | 305462 | [305462-cessate-il-fuoco.json](./305462-cessate-il-fuoco.json) |
@@ -7611,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherno | 291902 | [291902-cherno.json](./291902-cherno.json) |
 | Chernobots | 373748 | [373748-chernobots.json](./373748-chernobots.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
+| Chernobyl | 249411 | [249411-chernobyl.json](./249411-chernobyl.json) |
 | Chernobyl | 59891 | [59891-chernobyl.json](./59891-chernobyl.json) |
 | Chernobyl 1986 | 120929 | [120929-chernobyl-1986.json](./120929-chernobyl-1986.json) |
 | Chernobyl Again | 265457 | [265457-chernobyl-again.json](./265457-chernobyl-again.json) |
@@ -7998,6 +8000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chi Vuol Essere Milionario? | 319930 | [319930-chi-vuol-essere-milionario.json](./319930-chi-vuol-essere-milionario.json) |
 | Chi's Sweet Home: Chi ga Ouchi ni Yatte Kita! | 269797 | [269797-chis-sweet-home-chi-ga-ouchi-ni-yatte-kita.json](./269797-chis-sweet-home-chi-ga-ouchi-ni-yatte-kita.json) |
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
+| Chiaroscuro | 249410 | [249410-chiaroscuro.json](./249410-chiaroscuro.json) |
 | Chiaroscuro Imago | 377300 | [377300-chiaroscuro-imago.json](./377300-chiaroscuro-imago.json) |
 | Chiaroscuro Lovers | 411772 | [411772-chiaroscuro-lovers.json](./411772-chiaroscuro-lovers.json) |
 | Chiaroscuro: O Jogo | 210649 | [210649-chiaroscuro-o-jogo.json](./210649-chiaroscuro-o-jogo.json) |
