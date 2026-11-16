@@ -11112,6 +11112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Saviour Bia | 183764 | [183764-metal-saviour-bia.json](./183764-metal-saviour-bia.json) |
 | Metal Shell: Neon Pulse | 99163 | [99163-metal-shell-neon-pulse.json](./99163-metal-shell-neon-pulse.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
+| Metal Shoot | 388471 | [388471-metal-shoot.json](./388471-metal-shoot.json) |
 | Metal Sight | 62871 | [62871-metal-sight.json](./62871-metal-sight.json) |
 | Metal Slader Glory | 48356 | [48356-metal-slader-glory.json](./48356-metal-slader-glory.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
@@ -17577,6 +17578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly: Here & Now Worldwide Edition | 84305 | [84305-monopoly-here-and-now-worldwide-edition.json](./84305-monopoly-here-and-now-worldwide-edition.json) |
 | Monopoly: SpongeBob SquarePants Edition | 68109 | [68109-monopoly-spongebob-squarepants-edition.json](./68109-monopoly-spongebob-squarepants-edition.json) |
 | Monopoly: Star Wars Heroes vs. Villains | 395183 | [395183-monopoly-star-wars-heroes-vs-villains.json](./395183-monopoly-star-wars-heroes-vs-villains.json) |
+| Monopoly: World Cup France 98 Edition | 386742 | [386742-monopoly-world-cup-france-98-edition.json](./386742-monopoly-world-cup-france-98-edition.json) |
 | Monopong | 232374 | [232374-monopong.json](./232374-monopong.json) |
 | Monoposto | 88522 | [88522-monoposto.json](./88522-monoposto.json) |
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
