@@ -4530,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Poco Eco: Lost Sounds | 58991 | [58991-adventures-of-poco-eco-lost-sounds.json](./58991-adventures-of-poco-eco-lost-sounds.json) |
+| Adventures of Polo | 291637 | [291637-adventures-of-polo.json](./291637-adventures-of-polo.json) |
 | Adventures of Quin85 | 209629 | [209629-adventures-of-quin85.json](./209629-adventures-of-quin85.json) |
 | Adventures of Red and Carmine | 231194 | [231194-adventures-of-red-and-carmine.json](./231194-adventures-of-red-and-carmine.json) |
 | Adventures of Robbo | 401869 | [401869-adventures-of-robbo.json](./401869-adventures-of-robbo.json) |
@@ -5964,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha! Art na Machigai-sagashi | 251512 | [251512-aha-art-na-machigai-sagashi.json](./251512-aha-art-na-machigai-sagashi.json) |
 | Aha! I Found It! Hidden Object Game | 51099 | [51099-aha-i-found-it-hidden-object-game.json](./51099-aha-i-found-it-hidden-object-game.json) |
 | Aha! I Got It! Escape Game | 51098 | [51098-aha-i-got-it-escape-game.json](./51098-aha-i-got-it-escape-game.json) |
+| Aha! Let's Photo Hunt! | 291647 | [291647-aha-lets-photo-hunt.json](./291647-aha-lets-photo-hunt.json) |
 | Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
 | Aha! Shashin de Machigai-sagashi | 251626 | [251626-aha-shashin-de-machigai-sagashi.json](./251626-aha-shashin-de-machigai-sagashi.json) |
 | Aha! Spot the Change Brain Teaser | 342329 | [342329-aha-spot-the-change-brain-teaser.json](./342329-aha-spot-the-change-brain-teaser.json) |
@@ -10324,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us Arena: Ultimate | 216295 | [216295-among-us-arena-ultimate.json](./216295-among-us-arena-ultimate.json) |
 | Among Us Story: On Guard | 404707 | [404707-among-us-story-on-guard.json](./404707-among-us-story-on-guard.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
+| Among Us VR: Limited Time Hat: Overscoped | 292696 | [292696-among-us-vr-limited-time-hat-overscoped.json](./292696-among-us-vr-limited-time-hat-overscoped.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
 | Among Us VR: Limited Time Pack: Round Up | 325747 | [325747-among-us-vr-limited-time-pack-round-up.json](./325747-among-us-vr-limited-time-pack-round-up.json) |
 | Among Us: All in One Pack | 182053 | [182053-among-us-all-in-one-pack.json](./182053-among-us-all-in-one-pack.json) |
@@ -14498,6 +14501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Moon Shuttle | 318751 | [318751-arcade-archives-moon-shuttle.json](./318751-arcade-archives-moon-shuttle.json) |
 | Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
+| Arcade Archives: Mouser | 291646 | [291646-arcade-archives-mouser.json](./291646-arcade-archives-mouser.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mr.Do! | 402001 | [402001-arcade-archives-mr-do.json](./402001-arcade-archives-mr-do.json) |
 | Arcade Archives: Mr.Do!'s Castle | 420643 | [420643-arcade-archives-mr-do-s-castle.json](./420643-arcade-archives-mr-do-s-castle.json) |
@@ -16515,6 +16519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World Mosaics II | 296812 | [296812-around-the-world-mosaics-ii.json](./296812-around-the-world-mosaics-ii.json) |
 | Around the World Puzzle | 362184 | [362184-around-the-world-puzzle.json](./362184-around-the-world-puzzle.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
+| Around The World: Travel To Brazil - Collector's Edition | 291645 | [291645-around-the-world-travel-to-brazil-collectors-edition.json](./291645-around-the-world-travel-to-brazil-collectors-edition.json) |
 | Around The World: Travel To Canada - Collector's Edition | 315947 | [315947-around-the-world-travel-to-canada-collectors-edition.json](./315947-around-the-world-travel-to-canada-collectors-edition.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Around us: Zombie shooter | 266933 | [266933-around-us-zombie-shooter.json](./266933-around-us-zombie-shooter.json) |
@@ -17542,6 +17547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt Champions | 384188 | [384188-asphalt-champions.json](./384188-asphalt-champions.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
 | Asphalt Legends | 23314 | [23314-asphalt-legends.json](./23314-asphalt-legends.json) |
+| Asphalt Legends Unite | 293780 | [293780-asphalt-legends-unite.json](./293780-asphalt-legends-unite.json) |
 | Asphalt Legends Unite: Supercharged Edition | 363017 | [363017-asphalt-legends-unite-supercharged-edition.json](./363017-asphalt-legends-unite-supercharged-edition.json) |
 | Asphalt Legends Unite: Triple Decal Pack | 402354 | [402354-asphalt-legends-unite-triple-decal-pack.json](./402354-asphalt-legends-unite-triple-decal-pack.json) |
 | Asphalt Legends: PlayStation Plus Exclusive Spring Pack | 403870 | [403870-asphalt-legends-playstation-plus-exclusive-spring-pack.json](./403870-asphalt-legends-playstation-plus-exclusive-spring-pack.json) |
@@ -18780,6 +18786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Excellent Burning Fest. | 81336 | [81336-asuka-120-excellent-burning-fest.json](./81336-asuka-120-excellent-burning-fest.json) |
 | Asuka 120% Final Burning Fest. | 77780 | [77780-asuka-120-final-burning-fest.json](./77780-asuka-120-final-burning-fest.json) |
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
+| Asuka 120% LimitOver Burning Fest. | 290053 | [290053-asuka-120-limitover-burning-fest.json](./290053-asuka-120-limitover-burning-fest.json) |
 | Asuka 120% Maxima Burning Fest. | 92225 | [92225-asuka-120-maxima-burning-fest.json](./92225-asuka-120-maxima-burning-fest.json) |
 | Asuka 120% Special Burning Fest. | 80267 | [80267-asuka-120-special-burning-fest.json](./80267-asuka-120-special-burning-fest.json) |
 | Asuka Idol Journey | 399410 | [399410-asuka-idol-journey.json](./399410-asuka-idol-journey.json) |
