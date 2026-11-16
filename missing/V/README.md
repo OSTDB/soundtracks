@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
 | Val d'Isère Ski Park Manager: Gold Edition | 206042 | [206042-val-disere-ski-park-manager-gold-edition.json](./206042-val-disere-ski-park-manager-gold-edition.json) |
 | Val d'Isère Skiing and Snowboarding | 175892 | [175892-val-disere-skiing-and-snowboarding.json](./175892-val-disere-skiing-and-snowboarding.json) |
+| Val's Adventures at Scure Manor | 397965 | [397965-vals-adventures-at-scure-manor.json](./397965-vals-adventures-at-scure-manor.json) |
 | Val'ty | 381294 | [381294-valty.json](./381294-valty.json) |
 | Valakas Story | 122824 | [122824-valakas-story.json](./122824-valakas-story.json) |
 | Valakas: Immortal | 154393 | [154393-valakas-immortal.json](./154393-valakas-immortal.json) |
