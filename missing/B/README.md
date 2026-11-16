@@ -9813,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Extended Edition | 212355 | [212355-bit-orchard-animal-valley-extended-edition.json](./212355-bit-orchard-animal-valley-extended-edition.json) |
 | Bit Orchard: Animal Valley - GOTY Edition | 249563 | [249563-bit-orchard-animal-valley-goty-edition.json](./249563-bit-orchard-animal-valley-goty-edition.json) |
 | Bit Orchard: Animal Valley - Halloween Edition | 223567 | [223567-bit-orchard-animal-valley-halloween-edition.json](./223567-bit-orchard-animal-valley-halloween-edition.json) |
+| Bit Orchard: Animal Valley - Happy Edition | 253069 | [253069-bit-orchard-animal-valley-happy-edition.json](./253069-bit-orchard-animal-valley-happy-edition.json) |
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
 | Bit Orchard: Animal Valley - Premium Edition | 233926 | [233926-bit-orchard-animal-valley-premium-edition.json](./233926-bit-orchard-animal-valley-premium-edition.json) |
 | Bit Orchard: Animal Valley - Special Edition | 227702 | [227702-bit-orchard-animal-valley-special-edition.json](./227702-bit-orchard-animal-valley-special-edition.json) |
@@ -15380,6 +15381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bossfall | 414157 | [414157-bossfall.json](./414157-bossfall.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossgame: The Final Boss is My Heart | 142558 | [142558-bossgame-the-final-boss-is-my-heart.json](./142558-bossgame-the-final-boss-is-my-heart.json) |
+| BossHunter VR | 252974 | [252974-bosshunter-vr.json](./252974-bosshunter-vr.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
 | Bosslife Office Manager | 349028 | [349028-bosslife-office-manager.json](./349028-bosslife-office-manager.json) |
 | Bosslords | 167563 | [167563-bosslords.json](./167563-bosslords.json) |
@@ -15995,6 +15997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Fever: Upgrade Edition | 328749 | [328749-bowling-fever-upgrade-edition.json](./328749-bowling-fever-upgrade-edition.json) |
 | Bowling Fever: Value Edition | 336438 | [336438-bowling-fever-value-edition.json](./336438-bowling-fever-value-edition.json) |
+| Bowling for Apples: A Special Apples to Ashes Episode | 253097 | [253097-bowling-for-apples-a-special-apples-to-ashes-episode.json](./253097-bowling-for-apples-a-special-apples-to-ashes-episode.json) |
 | Bowling for VR | 32679 | [32679-bowling-for-vr.json](./32679-bowling-for-vr.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
 | Bowling Game 3D HD | 103131 | [103131-bowling-game-3d-hd.json](./103131-bowling-game-3d-hd.json) |
@@ -17175,6 +17178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Wall | 41116 | [41116-break-the-wall.json](./41116-break-the-wall.json) |
 | Break the Web | 130196 | [130196-break-the-web.json](./130196-break-the-web.json) |
 | Break the Worm | 350758 | [350758-break-the-worm.json](./350758-break-the-worm.json) |
+| Break Them All | 252972 | [252972-break-them-all.json](./252972-break-them-all.json) |
 | Break Through | 292943 | [292943-break-through.json](./292943-break-through.json) |
 | Break Through | 376830 | [376830-break-through.json](./376830-break-through.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
