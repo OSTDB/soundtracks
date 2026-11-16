@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Chark | 141243 | [141243-land-of-chark.json](./141243-land-of-chark.json) |
 | Land Of Chasers | 278409 | [278409-land-of-chasers.json](./278409-land-of-chasers.json) |
 | Land of Crystals | 266600 | [266600-land-of-crystals.json](./266600-land-of-crystals.json) |
+| Land of Disorder | 407603 | [407603-land-of-disorder.json](./407603-land-of-disorder.json) |
 | Land of Dread | 114469 | [114469-land-of-dread.json](./114469-land-of-dread.json) |
 | Land of Empires: Immortal | 194128 | [194128-land-of-empires-immortal.json](./194128-land-of-empires-immortal.json) |
 | Land of Eno | 193775 | [193775-land-of-eno.json](./193775-land-of-eno.json) |
@@ -6175,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
 | Lingo met Lucille Werner | 327317 | [327317-lingo-met-lucille-werner.json](./327317-lingo-met-lucille-werner.json) |
 | Lingo voor Kinderen | 327318 | [327318-lingo-voor-kinderen.json](./327318-lingo-voor-kinderen.json) |
+| LingoGrid | 407604 | [407604-lingogrid.json](./407604-lingogrid.json) |
 | LingoRogue | 356296 | [356296-lingorogue.json](./356296-lingorogue.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | LingTian 2: Your Destined Prince | 334525 | [334525-lingtian-2-your-destined-prince.json](./334525-lingtian-2-your-destined-prince.json) |
@@ -7494,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobo with Shotguns | 58585 | [58585-lobo-with-shotguns.json](./58585-lobo-with-shotguns.json) |
 | Lobo: Jukebox of Pain | 124349 | [124349-lobo-jukebox-of-pain.json](./124349-lobo-jukebox-of-pain.json) |
 | Lobos: Definitive Edition | 398654 | [398654-lobos-definitive-edition.json](./398654-lobos-definitive-edition.json) |
+| Lobotomy | 408322 | [408322-lobotomy.json](./408322-lobotomy.json) |
 | Lobotomy Corporation | 30002 | [30002-lobotomy-corporation.json](./30002-lobotomy-corporation.json) |
 | Lobotomy Corporation Wonder Lab Mod | 232909 | [232909-lobotomy-corporation-wonder-lab-mod.json](./232909-lobotomy-corporation-wonder-lab-mod.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
