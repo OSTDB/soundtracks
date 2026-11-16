@@ -1816,7 +1816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastByteStanding | 105600 | [105600-lastbytestanding.json](./105600-lastbytestanding.json) |
 | LastCall | 180346 | [180346-lastcall.json](./180346-lastcall.json) |
 | LastDitch | 296529 | [296529-lastditch.json](./296529-lastditch.json) |
-| Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
 | Lasting | 126085 | [126085-lasting.json](./126085-lasting.json) |
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
 | Lasting Solstice | 130918 | [130918-lasting-solstice.json](./130918-lasting-solstice.json) |
@@ -3356,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 348510 | [348510-legion.json](./348510-legion.json) |
 | Legion | 94810 | [94810-legion.json](./94810-legion.json) |
 | Legion 51 | 123916 | [123916-legion-51.json](./123916-legion-51.json) |
+| Legion Adventure | 348992 | [348992-legion-adventure.json](./348992-legion-adventure.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
 | Legion Breaker | 404002 | [404002-legion-breaker.json](./404002-legion-breaker.json) |
 | Legion Commander | 52044 | [52044-legion-commander.json](./52044-legion-commander.json) |
@@ -9769,6 +9769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Craft | 370608 | [370608-love-craft.json](./370608-love-craft.json) |
 | Love Criminals | 287471 | [287471-love-criminals.json](./287471-love-criminals.json) |
 | Love Cubed AR | 96572 | [96572-love-cubed-ar.json](./96572-love-cubed-ar.json) |
+| Love Cult | 348998 | [348998-love-cult.json](./348998-love-cult.json) |
 | Love Cupid | 199995 | [199995-love-cupid.json](./199995-love-cupid.json) |
 | Love Curse: Find Your Soulmate | 310714 | [310714-love-curse-find-your-soulmate.json](./310714-love-curse-find-your-soulmate.json) |
 | Love Curse: Find Your Soulmate - Epilogue Update | 399549 | [399549-love-curse-find-your-soulmate-epilogue-update.json](./399549-love-curse-find-your-soulmate-epilogue-update.json) |
