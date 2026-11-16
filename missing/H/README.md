@@ -5938,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Maid Memories | 246840 | [246840-hentai-maid-memories.json](./246840-hentai-maid-memories.json) |
 | Hentai Maid Momoka | 294019 | [294019-hentai-maid-momoka.json](./294019-hentai-maid-momoka.json) |
 | Hentai Maido | 366496 | [366496-hentai-maido.json](./366496-hentai-maido.json) |
+| Hentai Mania | 302293 | [302293-hentai-mania.json](./302293-hentai-mania.json) |
 | Hentai Marina | 411200 | [411200-hentai-marina.json](./411200-hentai-marina.json) |
 | Hentai Match 3 | 155000 | [155000-hentai-match-3.json](./155000-hentai-match-3.json) |
 | Hentai Match Fantasy Stories | 366497 | [366497-hentai-match-fantasy-stories.json](./366497-hentai-match-fantasy-stories.json) |
