@@ -3563,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Unikitty Fun Pack | 172620 | [172620-lego-dimensions-unikitty-fun-pack.json](./172620-lego-dimensions-unikitty-fun-pack.json) |
 | LEGO Dimensions: Wonder Woman Fun Pack | 172626 | [172626-lego-dimensions-wonder-woman-fun-pack.json](./172626-lego-dimensions-wonder-woman-fun-pack.json) |
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
+| LEGO Duplo Marvel | 253070 | [253070-lego-duplo-marvel.json](./253070-lego-duplo-marvel.json) |
 | LEGO Duplo Town | 106923 | [106923-lego-duplo-town.json](./106923-lego-duplo-town.json) |
 | LEGO Duplo Train | 87463 | [87463-lego-duplo-train.json](./87463-lego-duplo-train.json) |
 | LEGO Duplo World | 356220 | [356220-lego-duplo-world.json](./356220-lego-duplo-world.json) |
@@ -10087,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Tore: Bitter | 64466 | [64466-love-tore-bitter.json](./64466-love-tore-bitter.json) |
 | Love Tore: Mint | 64468 | [64468-love-tore-mint.json](./64468-love-tore-mint.json) |
 | Love Tore: Sweet | 64479 | [64479-love-tore-sweet.json](./64479-love-tore-sweet.json) |
+| Love Traveler | 252966 | [252966-love-traveler.json](./252966-love-traveler.json) |
 | Love two balls | 101563 | [101563-love-two-balls.json](./101563-love-two-balls.json) |
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
