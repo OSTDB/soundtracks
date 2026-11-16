@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrick and the Maze | 245705 | [245705-patrick-and-the-maze.json](./245705-patrick-and-the-maze.json) |
 | Patrick's Parabox | 133227 | [133227-patricks-parabox.json](./133227-patricks-parabox.json) |
 | Patriot | 92792 | [92792-patriot.json](./92792-patriot.json) |
+| Patriot: Democratization | 351302 | [351302-patriot-democratization.json](./351302-patriot-democratization.json) |
 | Patriotic Missile 3D | 104720 | [104720-patriotic-missile-3d.json](./104720-patriotic-missile-3d.json) |
 | Patriotic Pinball | 43847 | [43847-patriotic-pinball.json](./43847-patriotic-pinball.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
@@ -7428,6 +7429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: No.11 - Tsunagete Pikmin: Dango Namazu | 353522 | [353522-pikmin-puzzle-card-e-no-11-tsunagete-pikmin-dango-namazu.json](./353522-pikmin-puzzle-card-e-no-11-tsunagete-pikmin-dango-namazu.json) |
 | Pikmin Puzzle Card e+: No.12 - Hikkonuki Pikmin: Ha Chappy/Koppa Chappy | 353524 | [353524-pikmin-puzzle-card-e-no-12-hikkonuki-pikmin-ha-chappy-koppa-chappy.json](./353524-pikmin-puzzle-card-e-no-12-hikkonuki-pikmin-ha-chappy-koppa-chappy.json) |
 | Pikmin Puzzle Card e+: No.13 - Teku-teku Pikmin: Daiou Deme Madara | 353525 | [353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json](./353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json) |
+| Pikmin Puzzle Card e+: No.14 - Hikkonuki Pikmin: Queen Chappy | 353527 | [353527-pikmin-puzzle-card-e-no-14-hikkonuki-pikmin-queen-chappy.json](./353527-pikmin-puzzle-card-e-no-14-hikkonuki-pikmin-queen-chappy.json) |
 | Pikmin Puzzle Card e+: No.60 - Teku-teku Pikmin: Panmodoki | 363799 | [363799-pikmin-puzzle-card-e-no-60-teku-teku-pikmin-panmodoki.json](./363799-pikmin-puzzle-card-e-no-60-teku-teku-pikmin-panmodoki.json) |
 | Pikmin Puzzle Card e+: No.66 - Hikkonuki Pikmin: Miyabi Futa-kuchi | 363805 | [363805-pikmin-puzzle-card-e-no-66-hikkonuki-pikmin-miyabi-futa-kuchi.json](./363805-pikmin-puzzle-card-e-no-66-hikkonuki-pikmin-miyabi-futa-kuchi.json) |
 | Pikmin Puzzle Card e+: Pack 1 / Pack 2 | 353545 | [353545-pikmin-puzzle-card-e-pack-1-pack-2.json](./353545-pikmin-puzzle-card-e-pack-1-pack-2.json) |
@@ -10510,6 +10512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Arctic Pack | 226996 | [226996-planet-zoo-arctic-pack.json](./226996-planet-zoo-arctic-pack.json) |
 | Planet Zoo: Arid Animal Pack | 253063 | [253063-planet-zoo-arid-animal-pack.json](./253063-planet-zoo-arid-animal-pack.json) |
+| Planet Zoo: Asia Animal Pack | 351333 | [351333-planet-zoo-asia-animal-pack.json](./351333-planet-zoo-asia-animal-pack.json) |
 | Planet Zoo: Australia Pack | 226997 | [226997-planet-zoo-australia-pack.json](./226997-planet-zoo-australia-pack.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Conservation Pack | 207746 | [207746-planet-zoo-conservation-pack.json](./207746-planet-zoo-conservation-pack.json) |
@@ -12211,6 +12214,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle Card e+ Emerald: 19-A038 - Gentleman Ed | 355763 | [355763-pokemon-battle-card-e-emerald-19-a038-gentleman-ed.json](./355763-pokemon-battle-card-e-emerald-19-a038-gentleman-ed.json) |
 | Pokémon Battle Card e+ Emerald: 19-A039 - Pokémon Breeder Kaiji | 355764 | [355764-pokemon-battle-card-e-emerald-19-a039-pokemon-breeder-kaiji.json](./355764-pokemon-battle-card-e-emerald-19-a039-pokemon-breeder-kaiji.json) |
 | Pokémon Battle Card e+ Emerald: 19-A040 - Mushi Tori Shounen Kiichi | 355765 | [355765-pokemon-battle-card-e-emerald-19-a040-mushi-tori-shounen-kiichi.json](./355765-pokemon-battle-card-e-emerald-19-a040-mushi-tori-shounen-kiichi.json) |
+| Pokémon Battle Card e+ Emerald: 19-A041 - Gentleman Nicholas | 355766 | [355766-pokemon-battle-card-e-emerald-19-a041-gentleman-nicholas.json](./355766-pokemon-battle-card-e-emerald-19-a041-gentleman-nicholas.json) |
+| Pokémon Battle Card e+ Emerald: 19-A042 - Ojou-sama Tamami | 355767 | [355767-pokemon-battle-card-e-emerald-19-a042-ojou-sama-tamami.json](./355767-pokemon-battle-card-e-emerald-19-a042-ojou-sama-tamami.json) |
 | Pokémon Battle Card e+ Emerald: 19-A043 - Parasol Onee-san Isuzu | 355768 | [355768-pokemon-battle-card-e-emerald-19-a043-parasol-onee-san-isuzu.json](./355768-pokemon-battle-card-e-emerald-19-a043-parasol-onee-san-isuzu.json) |
 | Pokémon Battle Card e+ Emerald: 19-A044 - Pokémon Collector Etsuji | 355769 | [355769-pokemon-battle-card-e-emerald-19-a044-pokemon-collector-etsuji.json](./355769-pokemon-battle-card-e-emerald-19-a044-pokemon-collector-etsuji.json) |
 | Pokémon Battle Card e+ Emerald: 19-A045 - Obocchama Fumito | 355770 | [355770-pokemon-battle-card-e-emerald-19-a045-obocchama-fumito.json](./355770-pokemon-battle-card-e-emerald-19-a045-obocchama-fumito.json) |
@@ -14683,6 +14688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal of Evil: Stolen Runes | 77206 | [77206-portal-of-evil-stolen-runes.json](./77206-portal-of-evil-stolen-runes.json) |
 | Portal of Evil: Stolen Runes - Collector's Edition | 35451 | [35451-portal-of-evil-stolen-runes-collectors-edition.json](./35451-portal-of-evil-stolen-runes-collectors-edition.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
+| Portal Pinball | 354680 | [354680-portal-pinball.json](./354680-portal-pinball.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Protectors | 320053 | [320053-portal-protectors.json](./320053-portal-protectors.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
