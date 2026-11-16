@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Improvisio | 92269 | [92269-improvisio.json](./92269-improvisio.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
 | Impulse | 173436 | [173436-impulse.json](./173436-impulse.json) |
+| Impulse | 255291 | [255291-impulse.json](./255291-impulse.json) |
 | Impulse | 257230 | [257230-impulse.json](./257230-impulse.json) |
 | Impulse Control | 133737 | [133737-impulse-control.json](./133737-impulse-control.json) |
 | Impulse Response | 403982 | [403982-impulse-response.json](./403982-impulse-response.json) |
