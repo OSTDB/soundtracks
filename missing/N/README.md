@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Mourn | 211863 | [211863-never-mourn.json](./211863-never-mourn.json) |
 | Never Not Shooting | 55625 | [55625-never-not-shooting.json](./55625-never-not-shooting.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
+| Never Play Evil | 310313 | [310313-never-play-evil.json](./310313-never-play-evil.json) |
 | Never Rain | 221103 | [221103-never-rain.json](./221103-never-rain.json) |
 | Never Really Alone | 307199 | [307199-never-really-alone.json](./307199-never-really-alone.json) |
 | Never Return | 165122 | [165122-never-return.json](./165122-never-return.json) |
@@ -8441,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Matter | 243070 | [243070-null-matter.json](./243070-null-matter.json) |
 | Null Moon | 277497 | [277497-null-moon.json](./277497-null-moon.json) |
 | Null Path | 327912 | [327912-null-path.json](./327912-null-path.json) |
+| Null Reference Exception | 310772 | [310772-null-reference-exception.json](./310772-null-reference-exception.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null Space | 259220 | [259220-null-space.json](./259220-null-space.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
