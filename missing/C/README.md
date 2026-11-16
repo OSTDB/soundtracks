@@ -8793,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolat | 10429 | [10429-chocolat.json](./10429-chocolat.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolat: Maid Cafe "Curio" | 194712 | [194712-chocolat-maid-cafe-curio.json](./194712-chocolat-maid-cafe-curio.json) |
+| Chocolate | 300565 | [300565-chocolate.json](./300565-chocolate.json) |
 | Chocolate | 54825 | [54825-chocolate.json](./54825-chocolate.json) |
 | Chocolate Cage | 283571 | [283571-chocolate-cage.json](./283571-chocolate-cage.json) |
 | Chocolate Cake | 397948 | [397948-chocolate-cake.json](./397948-chocolate-cake.json) |
@@ -19216,6 +19217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
 | Crazy Pierrot | 339487 | [339487-crazy-pierrot.json](./339487-crazy-pierrot.json) |
 | Crazy Pig | 79631 | [79631-crazy-pig.json](./79631-crazy-pig.json) |
+| Crazy Pinball | 300562 | [300562-crazy-pinball.json](./300562-crazy-pinball.json) |
 | Crazy Pinball | 85551 | [85551-crazy-pinball.json](./85551-crazy-pinball.json) |
 | Crazy Pingoin | 250193 | [250193-crazy-pingoin.json](./250193-crazy-pingoin.json) |
 | Crazy Pipes 3D | 374118 | [374118-crazy-pipes-3d.json](./374118-crazy-pipes-3d.json) |
