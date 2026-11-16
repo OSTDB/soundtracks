@@ -5285,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats are Liquid: A Light in the Shadows | 32163 | [32163-cats-are-liquid-a-light-in-the-shadows.json](./32163-cats-are-liquid-a-light-in-the-shadows.json) |
 | Cats Around Us: Black Cat | 347859 | [347859-cats-around-us-black-cat.json](./347859-cats-around-us-black-cat.json) |
 | Cats Around Us: Giant Cat | 296406 | [296406-cats-around-us-giant-cat.json](./296406-cats-around-us-giant-cat.json) |
+| Cats Around Us: Pizza Boy | 416418 | [416418-cats-around-us-pizza-boy.json](./416418-cats-around-us-pizza-boy.json) |
 | Cats Around Us: Yarn Ball | 416389 | [416389-cats-around-us-yarn-ball.json](./416389-cats-around-us-yarn-ball.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Balance | 296405 | [296405-cats-balance.json](./296405-cats-balance.json) |
@@ -5402,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | Catsby | 29514 | [29514-catsby.json](./29514-catsby.json) |
 | Catscratch: This Means War! | 411059 | [411059-catscratch-this-means-war.json](./411059-catscratch-this-means-war.json) |
+| Catskill Mine: 10,000ft Below | 416420 | [416420-catskill-mine-10-000ft-below.json](./416420-catskill-mine-10-000ft-below.json) |
 | Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
 | Catsploration | 172901 | [172901-catsploration.json](./172901-catsploration.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
@@ -5582,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Path | 333028 | [333028-cave-path.json](./333028-cave-path.json) |
 | Cave Quest | 127874 | [127874-cave-quest.json](./127874-cave-quest.json) |
 | Cave Quest 2 | 157484 | [157484-cave-quest-2.json](./157484-cave-quest-2.json) |
+| Cave Quest 2: Collector's Edition | 416410 | [416410-cave-quest-2-collectors-edition.json](./416410-cave-quest-2-collectors-edition.json) |
 | Cave Quest 3 | 217275 | [217275-cave-quest-3.json](./217275-cave-quest-3.json) |
 | Cave Racer | 109398 | [109398-cave-racer.json](./109398-cave-racer.json) |
 | Cave Raider | 235797 | [235797-cave-raider.json](./235797-cave-raider.json) |
@@ -8472,6 +8475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Heavenfall Secrets | 187890 | [187890-chimeras-heavenfall-secrets.json](./187890-chimeras-heavenfall-secrets.json) |
 | Chimeras: Heavenfall Secrets Collector's Edition | 263508 | [263508-chimeras-heavenfall-secrets-collectors-edition.json](./263508-chimeras-heavenfall-secrets-collectors-edition.json) |
 | Chimeras: Inhuman Nature | 417544 | [417544-chimeras-inhuman-nature.json](./417544-chimeras-inhuman-nature.json) |
+| Chimeras: Inhuman Nature - Collector's Edition | 416408 | [416408-chimeras-inhuman-nature-collectors-edition.json](./416408-chimeras-inhuman-nature-collectors-edition.json) |
 | Chimeras: Mark of Death | 187907 | [187907-chimeras-mark-of-death.json](./187907-chimeras-mark-of-death.json) |
 | Chimeras: Mark of Death - Collector's Edition | 192864 | [192864-chimeras-mark-of-death-collectors-edition.json](./192864-chimeras-mark-of-death-collectors-edition.json) |
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
