@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eerie Mountain | 229288 | [229288-eerie-mountain.json](./229288-eerie-mountain.json) |
 | Eerie Night: Escape from the Funfair - Collector's Edition | 416775 | [416775-eerie-night-escape-from-the-funfair-collectors-edition.json](./416775-eerie-night-escape-from-the-funfair-collectors-edition.json) |
 | Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
+| Eeriest Night | 239859 | [239859-eeriest-night.json](./239859-eeriest-night.json) |
 | Eerskraft | 220058 | [220058-eerskraft.json](./220058-eerskraft.json) |
 | Eets Munchies | 15312 | [15312-eets-munchies.json](./15312-eets-munchies.json) |
 | Eets: Chowdown | 21946 | [21946-eets-chowdown.json](./21946-eets-chowdown.json) |
