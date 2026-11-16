@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I want to die | 271629 | [271629-i-want-to-die.json](./271629-i-want-to-die.json) |
 | I Want to Die: Remake | 327230 | [327230-i-want-to-die-remake.json](./327230-i-want-to-die-remake.json) |
 | I Want to Drive That Van | 357315 | [357315-i-want-to-drive-that-van.json](./357315-i-want-to-drive-that-van.json) |
+| I Want To Eat Umaibo! | 308660 | [308660-i-want-to-eat-umaibo.json](./308660-i-want-to-eat-umaibo.json) |
 | I Want to Fly | 155908 | [155908-i-want-to-fly.json](./155908-i-want-to-fly.json) |
 | I Want to Go for a Walk | 341020 | [341020-i-want-to-go-for-a-walk.json](./341020-i-want-to-go-for-a-walk.json) |
 | I Want To Go Home | 278952 | [278952-i-want-to-go-home.json](./278952-i-want-to-go-home.json) |
@@ -4939,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innerchild VR | 332607 | [332607-innerchild-vr.json](./332607-innerchild-vr.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
+| Innerscape | 310322 | [310322-innerscape.json](./310322-innerscape.json) |
 | InnerSpace | 35844 | [35844-innerspace.json](./35844-innerspace.json) |
 | Innerwhy | 374393 | [374393-innerwhy.json](./374393-innerwhy.json) |
 | Innerworld | 166890 | [166890-innerworld.json](./166890-innerworld.json) |
@@ -6195,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
 | Invasion: Family Ties | 246819 | [246819-invasion-family-ties.json](./246819-invasion-family-ties.json) |
 | Invasion: Neo Earth | 188423 | [188423-invasion-neo-earth.json](./188423-invasion-neo-earth.json) |
+| Invasion: Phoenix | 310786 | [310786-invasion-phoenix.json](./310786-invasion-phoenix.json) |
 | Invasion: Tales of Tower Defense | 275951 | [275951-invasion-tales-of-tower-defense.json](./275951-invasion-tales-of-tower-defense.json) |
 | Invasion! | 31991 | [31991-invasion.json](./31991-invasion.json) |
 | Invasion!! | 202037 | [202037-invasion.json](./202037-invasion.json) |
