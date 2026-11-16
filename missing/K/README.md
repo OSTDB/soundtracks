@@ -4174,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinlings | 261602 | [261602-kinlings.json](./261602-kinlings.json) |
 | Kinniku Banzuke GB 3: Shinseiki Survival Retsuden! | 281657 | [281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json](./281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json) |
 | Kinniku Banzuke Vol.2: Aratanaru Genkai he no Chousen! | 344463 | [344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json](./344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json) |
+| Kinniku Banzuke: Road to Sasuke | 408219 | [408219-kinniku-banzuke-road-to-sasuke.json](./408219-kinniku-banzuke-road-to-sasuke.json) |
 | Kinnikuman | 138764 | [138764-kinnikuman.json](./138764-kinnikuman.json) |
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
