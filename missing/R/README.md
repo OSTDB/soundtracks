@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of Mages | 277199 | [277199-rage-of-mages.json](./277199-rage-of-mages.json) |
 | Rage of Mages II: Necromancer | 13155 | [13155-rage-of-mages-ii-necromancer.json](./13155-rage-of-mages-ii-necromancer.json) |
 | Rage of Mechs | 260584 | [260584-rage-of-mechs.json](./260584-rage-of-mechs.json) |
+| Rage of Sage Online | 397364 | [397364-rage-of-sage-online.json](./397364-rage-of-sage-online.json) |
 | Rage of the Battlemage | 32135 | [32135-rage-of-the-battlemage.json](./32135-rage-of-the-battlemage.json) |
 | Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
 | Rage of the Gladiator | 22113 | [22113-rage-of-the-gladiator.json](./22113-rage-of-the-gladiator.json) |
@@ -12754,6 +12755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
 | Rouge's Flush | 408728 | [408728-rouges-flush.json](./408728-rouges-flush.json) |
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
+| Rough Justice | 397343 | [397343-rough-justice.json](./397343-rough-justice.json) |
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
 | Rough Kuts: 3D | 200572 | [200572-rough-kuts-3d.json](./200572-rough-kuts-3d.json) |
 | Rough Kuts: Night of the Living Dead | 405124 | [405124-rough-kuts-night-of-the-living-dead.json](./405124-rough-kuts-night-of-the-living-dead.json) |
