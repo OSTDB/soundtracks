@@ -11659,6 +11659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
 | Click the Button | 407167 | [407167-click-the-button.json](./407167-click-the-button.json) |
+| Click the Chick | 310297 | [310297-click-the-chick.json](./310297-click-the-chick.json) |
 | Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
 | Click The Link To Play | 309208 | [309208-click-the-link-to-play.json](./309208-click-the-link-to-play.json) |
 | Click the Shape | 362476 | [362476-click-the-shape.json](./362476-click-the-shape.json) |
@@ -12953,6 +12954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Terranova | 132548 | [132548-codename-terranova.json](./132548-codename-terranova.json) |
 | Codename: Tiaras | 195981 | [195981-codename-tiaras.json](./195981-codename-tiaras.json) |
 | Codename: Twilight | 373761 | [373761-codename-twilight.json](./373761-codename-twilight.json) |
+| Codename: Zalidium | 311905 | [311905-codename-zalidium.json](./311905-codename-zalidium.json) |
 | Codenames | 105254 | [105254-codenames.json](./105254-codenames.json) |
 | CodePhantom | 421539 | [421539-codephantom.json](./421539-codephantom.json) |
 | CoderBear | 116879 | [116879-coderbear.json](./116879-coderbear.json) |
@@ -14841,6 +14843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos 3: HD Remaster | 204961 | [204961-commandos-3-hd-remaster.json](./204961-commandos-3-hd-remaster.json) |
 | Commandos 5 | 9760 | [9760-commandos-5.json](./9760-commandos-5.json) |
 | Commandos Collection | 52315 | [52315-commandos-collection.json](./52315-commandos-collection.json) |
+| Commandos Dreams | 310316 | [310316-commandos-dreams.json](./310316-commandos-dreams.json) |
 | Commandos Pro Simulator | 287761 | [287761-commandos-pro-simulator.json](./287761-commandos-pro-simulator.json) |
 | Commandos: Ammo Pack | 21942 | [21942-commandos-ammo-pack.json](./21942-commandos-ammo-pack.json) |
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
@@ -14855,6 +14858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CommanDSKeen | 298943 | [298943-commandskeen.json](./298943-commandskeen.json) |
 | Commbat | 56340 | [56340-commbat.json](./56340-commbat.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
+| Commentator | 312476 | [312476-commentator.json](./312476-commentator.json) |
 | Commercium | 31051 | [31051-commercium.json](./31051-commercium.json) |
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
 | Commie Bobrs | 408378 | [408378-commie-bobrs.json](./408378-commie-bobrs.json) |
