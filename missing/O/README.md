@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
 | One in One Million | 394266 | [394266-one-in-one-million.json](./394266-one-in-one-million.json) |
 | One in the Back | 370247 | [370247-one-in-the-back.json](./370247-one-in-the-back.json) |
+| One in the Well | 415584 | [415584-one-in-the-well.json](./415584-one-in-the-well.json) |
 | One Incident In A Small Town | 126216 | [126216-one-incident-in-a-small-town.json](./126216-one-incident-in-a-small-town.json) |
 | One Jump Bomb | 108234 | [108234-one-jump-bomb.json](./108234-one-jump-bomb.json) |
 | One Just Night | 278487 | [278487-one-just-night.json](./278487-one-just-night.json) |
