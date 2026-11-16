@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Being | 399319 | [399319-garden-of-being.json](./399319-garden-of-being.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
+| Garden Of Coolembozo | 269245 | [269245-garden-of-coolembozo.json](./269245-garden-of-coolembozo.json) |
 | Garden of Earthly Delights | 290806 | [290806-garden-of-earthly-delights.json](./290806-garden-of-earthly-delights.json) |
 | Garden of Eden | 82178 | [82178-garden-of-eden.json](./82178-garden-of-eden.json) |
 | Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
@@ -5960,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowmonkey vs. Meltdown | 234724 | [234724-glowmonkey-vs-meltdown.json](./234724-glowmonkey-vs-meltdown.json) |
 | Glowmonkey2k | 229617 | [229617-glowmonkey2k.json](./229617-glowmonkey2k.json) |
 | GlowOne | 99845 | [99845-glowone.json](./99845-glowone.json) |
+| Glowpop | 269246 | [269246-glowpop.json](./269246-glowpop.json) |
 | glowWorm | 104576 | [104576-glowworm.json](./104576-glowworm.json) |
 | GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
 | Gloxinia | 385008 | [385008-gloxinia.json](./385008-gloxinia.json) |
@@ -6013,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyph-Bound: Kotodama | 211653 | [211653-glyph-bound-kotodama.json](./211653-glyph-bound-kotodama.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
 | Glypha: Vintage | 247701 | [247701-glypha-vintage.json](./247701-glypha-vintage.json) |
+| Glyphen | 269248 | [269248-glyphen.json](./269248-glyphen.json) |
 | Glyphica: Typing Survival | 291596 | [291596-glyphica-typing-survival.json](./291596-glyphica-typing-survival.json) |
 | Glyphora | 349233 | [349233-glyphora.json](./349233-glyphora.json) |
 | Glyphs | 347281 | [347281-glyphs.json](./347281-glyphs.json) |
@@ -9627,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Box | 216393 | [216393-gravity-box.json](./216393-gravity-box.json) |
 | Gravity Boy! | 407519 | [407519-gravity-boy.json](./407519-gravity-boy.json) |
 | Gravity Brawl | 159056 | [159056-gravity-brawl.json](./159056-gravity-brawl.json) |
+| Gravity Break | 269247 | [269247-gravity-break.json](./269247-gravity-break.json) |
 | Gravity Breakers | 76094 | [76094-gravity-breakers.json](./76094-gravity-breakers.json) |
 | Gravity Bumpers | 404652 | [404652-gravity-bumpers.json](./404652-gravity-bumpers.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
@@ -10344,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greymen: A Post-Apocalyptic Band Reunion | 36634 | [36634-greymen-a-post-apocalyptic-band-reunion.json](./36634-greymen-a-post-apocalyptic-band-reunion.json) |
 | Greymond. Saves the Specs | 377210 | [377210-greymond-saves-the-specs.json](./377210-greymond-saves-the-specs.json) |
 | Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
+| Greymoor | 271343 | [271343-greymoor.json](./271343-greymoor.json) |
 | Greyroad | 184856 | [184856-greyroad.json](./184856-greyroad.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
 | GreySky&StarNavigator | 373689 | [373689-greysky-and-starnavigator.json](./373689-greysky-and-starnavigator.json) |
