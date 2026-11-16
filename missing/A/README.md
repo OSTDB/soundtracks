@@ -2361,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About a Boy: Deluxe Edition | 325392 | [325392-about-a-boy-deluxe-edition.json](./325392-about-a-boy-deluxe-edition.json) |
 | About a Girl | 361004 | [361004-about-a-girl.json](./361004-about-a-girl.json) |
 | About an Elf | 187860 | [187860-about-an-elf.json](./187860-about-an-elf.json) |
+| About Cannons & Sparrows | 258181 | [258181-about-cannons-and-sparrows.json](./258181-about-cannons-and-sparrows.json) |
 | About Elise | 33366 | [33366-about-elise.json](./33366-about-elise.json) |
 | About Emma | 179038 | [179038-about-emma.json](./179038-about-emma.json) |
 | About Face | 307085 | [307085-about-face.json](./307085-about-face.json) |
@@ -3198,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Collector: Space | 110522 | [110522-achievement-collector-space.json](./110522-achievement-collector-space.json) |
 | Achievement Collector: Zombie | 114370 | [114370-achievement-collector-zombie.json](./114370-achievement-collector-zombie.json) |
 | Achievement Creator | 103757 | [103757-achievement-creator.json](./103757-achievement-creator.json) |
+| Achievement Display Cabinet | 258207 | [258207-achievement-display-cabinet.json](./258207-achievement-display-cabinet.json) |
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Hunter: Alien | 334767 | [334767-achievement-hunter-alien.json](./334767-achievement-hunter-alien.json) |
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
@@ -4892,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Director's Rewind | 138202 | [138202-aeternoblade-ii-directors-rewind.json](./138202-aeternoblade-ii-directors-rewind.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
+| Aeternum | 261473 | [261473-aeternum.json](./261473-aeternum.json) |
 | Aeternum | 50223 | [50223-aeternum.json](./50223-aeternum.json) |
 | Aeternum Grand Plaza | 350210 | [350210-aeternum-grand-plaza.json](./350210-aeternum-grand-plaza.json) |
 | Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
@@ -6079,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Stories: Machine Angel | 287923 | [287923-ai-stories-machine-angel.json](./287923-ai-stories-machine-angel.json) |
 | AI Story Quest | 243894 | [243894-ai-story-quest.json](./243894-ai-story-quest.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
+| Ai Suru Tsuma, Nagisa no Uwaki Kokuhaku Okuyukashii Tsuma no Karada ga, Aitsu no Geki Piston de Torokete Ita Shinjitsu | 258145 | [258145-ai-suru-tsuma-nagisa-no-uwaki-kokuhaku-okuyukashii-tsuma-no-karada-ga-aitsu-no-geki-piston-de-torokete-ita-shinjitsu.json](./258145-ai-suru-tsuma-nagisa-no-uwaki-kokuhaku-okuyukashii-tsuma-no-karada-ga-aitsu-no-geki-piston-de-torokete-ita-shinjitsu.json) |
 | AI Texas Holdem Poker | 88346 | [88346-ai-texas-holdem-poker.json](./88346-ai-texas-holdem-poker.json) |
 | Ai To Noroi: School Simulator | 296442 | [296442-ai-to-noroi-school-simulator.json](./296442-ai-to-noroi-school-simulator.json) |
 | Ai to Roudou no Hibi | 288085 | [288085-ai-to-roudou-no-hibi.json](./288085-ai-to-roudou-no-hibi.json) |
@@ -18409,6 +18413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Gun | 34103 | [34103-astral-gun.json](./34103-astral-gun.json) |
 | Astral Gunners | 105582 | [105582-astral-gunners.json](./105582-astral-gunners.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
+| Astral Horizon | 258158 | [258158-astral-horizon.json](./258158-astral-horizon.json) |
 | Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
 | Astral Light | 200085 | [200085-astral-light.json](./200085-astral-light.json) |
 | Astral Lodge | 347459 | [347459-astral-lodge.json](./347459-astral-lodge.json) |
