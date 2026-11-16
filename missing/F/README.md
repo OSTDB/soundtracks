@@ -4614,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch Quest Remastered | 361063 | [361063-fetch-quest-remastered.json](./361063-fetch-quest-remastered.json) |
 | Fetch Quests Anonymous | 183799 | [183799-fetch-quests-anonymous.json](./183799-fetch-quests-anonymous.json) |
 | Fetch Re;Quest | 361060 | [361060-fetch-re-quest.json](./361060-fetch-re-quest.json) |
+| Fetch: Bon Appétit | 396167 | [396167-fetch-bon-appetit.json](./396167-fetch-bon-appetit.json) |
 | Fetidity | 404163 | [404163-fetidity.json](./404163-fetidity.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
 | Fetish Fetish Collection! DX | 254882 | [254882-fetish-fetish-collection-dx.json](./254882-fetish-fetish-collection-dx.json) |
@@ -13547,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs.Tails Doll | 275262 | [275262-friday-night-funkin-vs-tails-doll.json](./275262-friday-night-funkin-vs-tails-doll.json) |
 | Friday Night Funkin': Wednesday's Infidelity | 325668 | [325668-friday-night-funkin-wednesdays-infidelity.json](./325668-friday-night-funkin-wednesdays-infidelity.json) |
 | Friday Night Funkin': Yellow | 316026 | [316026-friday-night-funkin-yellow.json](./316026-friday-night-funkin-yellow.json) |
+| Friday Night Incident | 396783 | [396783-friday-night-incident.json](./396783-friday-night-incident.json) |
 | Friday Night Knockout | 357671 | [357671-friday-night-knockout.json](./357671-friday-night-knockout.json) |
 | Friday Night Madness: Magnified | 420989 | [420989-friday-night-madness-magnified.json](./420989-friday-night-madness-magnified.json) |
 | Friday Night Monster of Monsters | 393270 | [393270-friday-night-monster-of-monsters.json](./393270-friday-night-monster-of-monsters.json) |
