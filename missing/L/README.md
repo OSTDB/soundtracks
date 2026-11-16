@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Hand | 68465 | [68465-legend-of-hand.json](./68465-legend-of-hand.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Hero Tonma | 10453 | [10453-legend-of-hero-tonma.json](./10453-legend-of-hero-tonma.json) |
+| Legend of Hero Tonma | 297405 | [297405-legend-of-hero-tonma.json](./297405-legend-of-hero-tonma.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Hidden Flows | 252288 | [252288-legend-of-hidden-flows.json](./252288-legend-of-hidden-flows.json) |
@@ -3345,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Wrestling II | 3975 | [3975-legends-of-wrestling-ii.json](./3975-legends-of-wrestling-ii.json) |
 | Legends of Yore | 50476 | [50476-legends-of-yore.json](./50476-legends-of-yore.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
+| Legends Resurrected Online | 297826 | [297826-legends-resurrected-online.json](./297826-legends-resurrected-online.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legends: Rise of a Hero | 62312 | [62312-legends-rise-of-a-hero.json](./62312-legends-rise-of-a-hero.json) |
 | Legends: Saint George | 349812 | [349812-legends-saint-george.json](./349812-legends-saint-george.json) |
