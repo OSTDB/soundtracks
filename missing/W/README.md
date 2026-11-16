@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior's Dilemma | 360636 | [360636-warriors-dilemma.json](./360636-warriors-dilemma.json) |
 | Warrior's Lair | 92546 | [92546-warriors-lair.json](./92546-warriors-lair.json) |
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
+| Warrior's Way | 230577 | [230577-warriors-way.json](./230577-warriors-way.json) |
 | WarriOrb | 86609 | [86609-warriorb.json](./86609-warriorb.json) |
 | Warriorlock | 180093 | [180093-warriorlock.json](./180093-warriorlock.json) |
 | Warriors | 377151 | [377151-warriors.json](./377151-warriors.json) |
