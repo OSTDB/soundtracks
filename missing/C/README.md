@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caliban Below | 97069 | [97069-caliban-below.json](./97069-caliban-below.json) |
 | Caliber | 125779 | [125779-caliber.json](./125779-caliber.json) |
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
+| Caliber Dash | 414667 | [414667-caliber-dash.json](./414667-caliber-dash.json) |
 | Caliber Fifty | 73440 | [73440-caliber-fifty.json](./73440-caliber-fifty.json) |
 | Calibration Sequence | 423278 | [423278-calibration-sequence.json](./423278-calibration-sequence.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
 | Can Gym Break This? | 208519 | [208519-can-gym-break-this.json](./208519-can-gym-break-this.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
+| Can I Come In? | 415368 | [415368-can-i-come-in.json](./415368-can-i-come-in.json) |
 | Can I Crash At Your Place? Oshikakene-chin | 342349 | [342349-can-i-crash-at-your-place-oshikakene-chin.json](./342349-can-i-crash-at-your-place-oshikakene-chin.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
 | Can I Go Home Yet? | 397393 | [397393-can-i-go-home-yet.json](./397393-can-i-go-home-yet.json) |
@@ -11818,6 +11820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cling to Blindness | 367729 | [367729-cling-to-blindness.json](./367729-cling-to-blindness.json) |
 | Cling! | 21730 | [21730-cling.json](./21730-cling.json) |
 | Clinical Marshmallows | 374285 | [374285-clinical-marshmallows.json](./374285-clinical-marshmallows.json) |
+| Clinical Memory | 414676 | [414676-clinical-memory.json](./414676-clinical-memory.json) |
 | Clinical Trial | 326760 | [326760-clinical-trial.json](./326760-clinical-trial.json) |
 | Clinically Dead | 107474 | [107474-clinically-dead.json](./107474-clinically-dead.json) |
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
