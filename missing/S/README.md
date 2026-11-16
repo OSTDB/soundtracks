@@ -7905,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | ShadowBox: Mausoleum of Natural History | 340601 | [340601-shadowbox-mausoleum-of-natural-history.json](./340601-shadowbox-mausoleum-of-natural-history.json) |
 | ShadowBringer | 199684 | [199684-shadowbringer.json](./199684-shadowbringer.json) |
+| Shadowbyte Survivors | 292698 | [292698-shadowbyte-survivors.json](./292698-shadowbyte-survivors.json) |
 | ShadowCalls | 91034 | [91034-shadowcalls.json](./91034-shadowcalls.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
@@ -18581,6 +18582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Purge | 109698 | [109698-solar-purge.json](./109698-solar-purge.json) |
 | Solar Quest | 18782 | [18782-solar-quest.json](./18782-solar-quest.json) |
 | Solar Quiz VR | 289234 | [289234-solar-quiz-vr.json](./289234-solar-quiz-vr.json) |
+| Solar Raiders | 290070 | [290070-solar-raiders.json](./290070-solar-raiders.json) |
 | Solar Rally | 262469 | [262469-solar-rally.json](./262469-solar-rally.json) |
 | Solar Revival | 193892 | [193892-solar-revival.json](./193892-solar-revival.json) |
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
@@ -18619,6 +18621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Wind | 76796 | [76796-solar-wind.json](./76796-solar-wind.json) |
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
 | Solar Winds: The Escape | 73585 | [73585-solar-winds-the-escape.json](./73585-solar-winds-the-escape.json) |
+| Solar Wolf | 291627 | [291627-solar-wolf.json](./291627-solar-wolf.json) |
 | Solar: Survival Space Battle Simulator | 312421 | [312421-solar-survival-space-battle-simulator.json](./312421-solar-survival-space-battle-simulator.json) |
 | Solar.Cross | 387170 | [387170-solar-cross.json](./387170-solar-cross.json) |
 | SolarBlack | 268653 | [268653-solarblack.json](./268653-solarblack.json) |
@@ -22564,6 +22567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mouse 2 | 149507 | [149507-space-mouse-2.json](./149507-space-mouse-2.json) |
 | Space Mouse: 35th Anniversary Edition | 98525 | [98525-space-mouse-35th-anniversary-edition.json](./98525-space-mouse-35th-anniversary-edition.json) |
 | Space Moves | 272141 | [272141-space-moves.json](./272141-space-moves.json) |
+| Space Moves | 293781 | [293781-space-moves.json](./293781-space-moves.json) |
 | Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
 | Space N Traders | 28374 | [28374-space-n-traders.json](./28374-space-n-traders.json) |
 | Space Nation Online | 258920 | [258920-space-nation-online.json](./258920-space-nation-online.json) |
