@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vellum: Raid Night Study Hall | 387632 | [387632-vellum-raid-night-study-hall.json](./387632-vellum-raid-night-study-hall.json) |
 | VeLM | 117120 | [117120-velm.json](./117120-velm.json) |
 | Velmora Online | 423263 | [423263-velmora-online.json](./423263-velmora-online.json) |
+| Velnor's Lair | 233139 | [233139-velnors-lair.json](./233139-velnors-lair.json) |
 | Velo | 244347 | [244347-velo.json](./244347-velo.json) |
 | Velo Pro Racer | 359122 | [359122-velo-pro-racer.json](./359122-velo-pro-racer.json) |
 | Veloce | 177611 | [177611-veloce.json](./177611-veloce.json) |
