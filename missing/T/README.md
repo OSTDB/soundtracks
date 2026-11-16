@@ -27127,7 +27127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Kill Eros | 404935 | [404935-to-kill-eros.json](./404935-to-kill-eros.json) |
 | To Kyrstem | 181326 | [181326-to-kyrstem.json](./181326-to-kyrstem.json) |
 | To Last | 258452 | [258452-to-last.json](./258452-to-last.json) |
-| To Leave | 61714 | [61714-to-leave.json](./61714-to-leave.json) |
 | To Leave: Deluxe Edition | 221493 | [221493-to-leave-deluxe-edition.json](./221493-to-leave-deluxe-edition.json) |
 | To Libertad | 212287 | [212287-to-libertad.json](./212287-to-libertad.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
