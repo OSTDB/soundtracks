@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang On & Safari Hunt: The Combo Cartridge | 68907 | [68907-hang-on-and-safari-hunt-the-combo-cartridge.json](./68907-hang-on-and-safari-hunt-the-combo-cartridge.json) |
 | Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
 | Hang Pilot | 307858 | [307858-hang-pilot.json](./307858-hang-pilot.json) |
+| Hang Tight | 389245 | [389245-hang-tight.json](./389245-hang-tight.json) |
 | Hang Up | 110649 | [110649-hang-up.json](./110649-hang-up.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
 | Hang-On | 198617 | [198617-hang-on.json](./198617-hang-on.json) |
@@ -1638,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hangman Lux 3D | 105667 | [105667-hangman-lux-3d.json](./105667-hangman-lux-3d.json) |
+| Hangman Pro | 391366 | [391366-hangman-pro.json](./391366-hangman-pro.json) |
 | Hangman Pro HD | 102653 | [102653-hangman-pro-hd.json](./102653-hangman-pro-hd.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
 | Hangman: Mathematics and More | 407249 | [407249-hangman-mathematics-and-more.json](./407249-hangman-mathematics-and-more.json) |
@@ -6120,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Series: Classic | 236188 | [236188-hentai-series-classic.json](./236188-hentai-series-classic.json) |
 | Hentai Sexy | 159404 | [159404-hentai-sexy.json](./159404-hentai-sexy.json) |
 | Hentai Sexy Girls: Splashes and Water | 347380 | [347380-hentai-sexy-girls-splashes-and-water.json](./347380-hentai-sexy-girls-splashes-and-water.json) |
+| Hentai Sexy Mom | 389163 | [389163-hentai-sexy-mom.json](./389163-hentai-sexy-mom.json) |
 | Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
 | Hentai Shadow | 112839 | [112839-hentai-shadow.json](./112839-hentai-shadow.json) |
@@ -12496,6 +12499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
+| House Cleaner Simulator | 391359 | [391359-house-cleaner-simulator.json](./391359-house-cleaner-simulator.json) |
 | House Cleaner Simulator | 401145 | [401145-house-cleaner-simulator.json](./401145-house-cleaner-simulator.json) |
 | House Cleaning Simulator | 401126 | [401126-house-cleaning-simulator.json](./401126-house-cleaning-simulator.json) |
 | House Cleaning Survival | 146933 | [146933-house-cleaning-survival.json](./146933-house-cleaning-survival.json) |
