@@ -21617,7 +21617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs!? | 14992 | [14992-dwarfs.json](./14992-dwarfs.json) |
 | Dwarfzbound | 386503 | [386503-dwarfzbound.json](./386503-dwarfzbound.json) |
 | Dwarrf: A Pinball Roguelike | 342593 | [342593-dwarrf-a-pinball-roguelike.json](./342593-dwarrf-a-pinball-roguelike.json) |
-| Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
 | Dwarven Brawl Bros | 35310 | [35310-dwarven-brawl-bros.json](./35310-dwarven-brawl-bros.json) |
 | Dwarven Defender | 121575 | [121575-dwarven-defender.json](./121575-dwarven-defender.json) |
