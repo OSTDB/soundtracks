@@ -4936,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kneedle Knight | 291531 | [291531-kneedle-knight.json](./291531-kneedle-knight.json) |
 | Knell | 412371 | [412371-knell.json](./412371-knell.json) |
 | Knell of St. Godhrkar | 172356 | [172356-knell-of-st-godhrkar.json](./172356-knell-of-st-godhrkar.json) |
+| Knick | 414674 | [414674-knick.json](./414674-knick.json) |
 | Knick Knack Stack | 400351 | [400351-knick-knack-stack.json](./400351-knick-knack-stack.json) |
 | Knife 2 Meat U | 117264 | [117264-knife-2-meat-u.json](./117264-knife-2-meat-u.json) |
 | Knife Aim Hit: Throwing Games | 235297 | [235297-knife-aim-hit-throwing-games.json](./235297-knife-aim-hit-throwing-games.json) |
