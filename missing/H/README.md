@@ -12471,6 +12471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
 | Hour of the Witch | 312048 | [312048-hour-of-the-witch.json](./312048-hour-of-the-witch.json) |
 | Hour of Victory | 7011 | [7011-hour-of-victory.json](./7011-hour-of-victory.json) |
+| Hourfall | 386747 | [386747-hourfall.json](./386747-hourfall.json) |
 | Hourglass | 122270 | [122270-hourglass.json](./122270-hourglass.json) |
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
 | Hourou | 181831 | [181831-hourou.json](./181831-hourou.json) |
