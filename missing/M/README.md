@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magi's Dream | 252532 | [252532-magis-dream.json](./252532-magis-dream.json) |
 | Magia Knabino in the Eternal Night | 129326 | [129326-magia-knabino-in-the-eternal-night.json](./129326-magia-knabino-in-the-eternal-night.json) |
+| Magia Mystica | 394945 | [394945-magia-mystica.json](./394945-magia-mystica.json) |
 | Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
@@ -2467,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
 | Maid Idle | 202497 | [202497-maid-idle.json](./202497-maid-idle.json) |
 | Maid in Heaven: Ai to Iu Na no Yokubou | 260823 | [260823-maid-in-heaven-ai-to-iu-na-no-yokubou.json](./260823-maid-in-heaven-ai-to-iu-na-no-yokubou.json) |
+| Maid in the Dark | 394924 | [394924-maid-in-the-dark.json](./394924-maid-in-the-dark.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
 | Maid Knight Alicia | 199089 | [199089-maid-knight-alicia.json](./199089-maid-knight-alicia.json) |
 | Maid Made Maze | 204243 | [204243-maid-made-maze.json](./204243-maid-made-maze.json) |
@@ -2557,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai DX Buddies | 266558 | [266558-maimai-dx-buddies.json](./266558-maimai-dx-buddies.json) |
 | Maimai DX Buddies Plus | 309594 | [309594-maimai-dx-buddies-plus.json](./309594-maimai-dx-buddies-plus.json) |
 | Maimai DX Circle | 367190 | [367190-maimai-dx-circle.json](./367190-maimai-dx-circle.json) |
+| Maimai DX Circle Plus | 394931 | [394931-maimai-dx-circle-plus.json](./394931-maimai-dx-circle-plus.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Prism | 316354 | [316354-maimai-dx-prism.json](./316354-maimai-dx-prism.json) |
@@ -10178,6 +10181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Hats: Attack of the Evangelists | 324146 | [324146-men-in-hats-attack-of-the-evangelists.json](./324146-men-in-hats-attack-of-the-evangelists.json) |
 | Men in Pants | 256750 | [256750-men-in-pants.json](./256750-men-in-pants.json) |
 | Men of Conviction | 316357 | [316357-men-of-conviction.json](./316357-men-of-conviction.json) |
+| Men of Freedom | 394927 | [394927-men-of-freedom.json](./394927-men-of-freedom.json) |
 | Men of Valor | 5913 | [5913-men-of-valor.json](./5913-men-of-valor.json) |
 | Men of War | 9854 | [9854-men-of-war.json](./9854-men-of-war.json) |
 | Men of War II | 182378 | [182378-men-of-war-ii.json](./182378-men-of-war-ii.json) |
