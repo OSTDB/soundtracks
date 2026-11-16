@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Love Him | 179102 | [179102-you-love-him.json](./179102-you-love-him.json) |
 | You Make the Game | 342878 | [342878-you-make-the-game.json](./342878-you-make-the-game.json) |
 | You Make The Game | 377138 | [377138-you-make-the-game.json](./377138-you-make-the-game.json) |
+| You Make This House a Home | 400028 | [400028-you-make-this-house-a-home.json](./400028-you-make-this-house-a-home.json) |
 | You May | 229709 | [229709-you-may.json](./229709-you-may.json) |
 | Yóu Mèng Zhèng: Dreamfarer | 394196 | [394196-you-meng-zheng-dreamfarer.json](./394196-you-meng-zheng-dreamfarer.json) |
 | You Must | 166604 | [166604-you-must.json](./166604-you-must.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuckfu | 301137 | [301137-yuckfu.json](./301137-yuckfu.json) |
 | YuckFu! | 301141 | [301141-yuckfu.json](./301141-yuckfu.json) |
 | Yudashi Peril: Floraison | 254532 | [254532-yudashi-peril-floraison.json](./254532-yudashi-peril-floraison.json) |
+| Yuè Huá Huīyìng Zhī Kè | 399935 | [399935-yue-hua-huiying-zhi-ke.json](./399935-yue-hua-huiying-zhi-ke.json) |
 | Yuè Lán Chuánqí II: Zhòu Yìn Zú Chuánshuō | 394177 | [394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json](./394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json) |
 | Yuè Lán Chuánqí: Yì Jiè de Fǎngkè | 394179 | [394179-yue-lan-chuanqi-yi-jie-de-fangke.json](./394179-yue-lan-chuanqi-yi-jie-de-fangke.json) |
 | Yuèyálóu Fēngyún | 127172 | [127172-yueyalou-fengyun.json](./127172-yueyalou-fengyun.json) |
