@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date With Tonpa | 179865 | [179865-a-date-with-tonpa.json](./179865-a-date-with-tonpa.json) |
 | A Date with Yesterday | 232848 | [232848-a-date-with-yesterday.json](./232848-a-date-with-yesterday.json) |
 | A Date With Yuika | 377486 | [377486-a-date-with-yuika.json](./377486-a-date-with-yuika.json) |
+| A Date With: A Ghost girl | 401218 | [401218-a-date-with-a-ghost-girl.json](./401218-a-date-with-a-ghost-girl.json) |
 | A Day | 145366 | [145366-a-day.json](./145366-a-day.json) |
 | A Day and a Night | 26164 | [26164-a-day-and-a-night.json](./26164-a-day-and-a-night.json) |
 | A Day as a T-Rex | 209185 | [209185-a-day-as-a-t-rex.json](./209185-a-day-as-a-t-rex.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little War | 107053 | [107053-a-little-war.json](./107053-a-little-war.json) |
 | A Little World Generator | 182085 | [182085-a-little-world-generator.json](./182085-a-little-world-generator.json) |
 | A Lively Haunt | 265099 | [265099-a-lively-haunt.json](./265099-a-lively-haunt.json) |
+| A Living House | 399938 | [399938-a-living-house.json](./399938-a-living-house.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Loddle to the Left | 324193 | [324193-a-loddle-to-the-left.json](./324193-a-loddle-to-the-left.json) |
 | A Logical Dive | 316001 | [316001-a-logical-dive.json](./316001-a-logical-dive.json) |
@@ -16948,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ary and the Secret of Seasons | 54645 | [54645-ary-and-the-secret-of-seasons.json](./54645-ary-and-the-secret-of-seasons.json) |
 | Arya Vaiv | 69710 | [69710-arya-vaiv.json](./69710-arya-vaiv.json) |
 | Aryze | 419625 | [419625-aryze.json](./419625-aryze.json) |
+| Arzea | 400009 | [400009-arzea.json](./400009-arzea.json) |
 | ARZombi | 103569 | [103569-arzombi.json](./103569-arzombi.json) |
 | Arzt Simulator | 126768 | [126768-arzt-simulator.json](./126768-arzt-simulator.json) |
 | As A Vampire | 382553 | [382553-as-a-vampire.json](./382553-as-a-vampire.json) |
@@ -19886,6 +19889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora | 377502 | [377502-aurora.json](./377502-aurora.json) |
 | Aurora | 387688 | [387688-aurora.json](./387688-aurora.json) |
 | Aurora | 392730 | [392730-aurora.json](./392730-aurora.json) |
+| Aurora | 401224 | [401224-aurora.json](./401224-aurora.json) |
 | Aurora | 58002 | [58002-aurora.json](./58002-aurora.json) |
 | Aurora 2 | 58001 | [58001-aurora-2.json](./58001-aurora-2.json) |
 | Aurora 4x | 60045 | [60045-aurora-4x.json](./60045-aurora-4x.json) |
