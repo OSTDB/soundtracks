@@ -12410,6 +12410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four-Play | 91492 | [91492-four-play.json](./91492-four-play.json) |
 | Four-Sight | 148359 | [148359-four-sight.json](./148359-four-sight.json) |
 | Four-Wheels-Drive | 184922 | [184922-four-wheels-drive.json](./184922-four-wheels-drive.json) |
+| Four: The Space Fight | 242174 | [242174-four-the-space-fight.json](./242174-four-the-space-fight.json) |
 | FourChords Guitar Karaoke | 26861 | [26861-fourchords-guitar-karaoke.json](./26861-fourchords-guitar-karaoke.json) |
 | FourFeather | 322442 | [322442-fourfeather.json](./322442-fourfeather.json) |
 | Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
