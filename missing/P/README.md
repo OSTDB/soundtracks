@@ -15364,6 +15364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Racing Bundle 4 | 409549 | [409549-power-racing-bundle-4.json](./409549-power-racing-bundle-4.json) |
 | Power Rangers | 220102 | [220102-power-rangers.json](./220102-power-rangers.json) |
 | Power Rangers All-Stars | 109037 | [109037-power-rangers-all-stars.json](./109037-power-rangers-all-stars.json) |
+| Power Rangers Dino Charge | 219858 | [219858-power-rangers-dino-charge.json](./219858-power-rangers-dino-charge.json) |
 | Power Rangers Dino Thunder: Red Hot Rescue | 185845 | [185845-power-rangers-dino-thunder-red-hot-rescue.json](./185845-power-rangers-dino-thunder-red-hot-rescue.json) |
 | Power Rangers Legends | 63856 | [63856-power-rangers-legends.json](./63856-power-rangers-legends.json) |
 | Power Rangers Megaforce | 20105 | [20105-power-rangers-megaforce.json](./20105-power-rangers-megaforce.json) |
@@ -16905,6 +16906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Detective, Freeze | 367137 | [367137-private-detective-freeze.json](./367137-private-detective-freeze.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Eye | 25833 | [25833-private-eye.json](./25833-private-eye.json) |
+| Private Eye Dol | 218023 | [218023-private-eye-dol.json](./218023-private-eye-dol.json) |
 | Private Eye VR | 17471 | [17471-private-eye-vr.json](./17471-private-eye-vr.json) |
 | Private Eye: Greatest Unsolved Mysteries | 327257 | [327257-private-eye-greatest-unsolved-mysteries.json](./327257-private-eye-greatest-unsolved-mysteries.json) |
 | Private Eye: The Young Heir | 348374 | [348374-private-eye-the-young-heir.json](./348374-private-eye-the-young-heir.json) |
