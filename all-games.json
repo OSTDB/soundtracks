@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T11:36:51.529Z",
-  "total_soundtracks": 3495,
+  "generated_at": "2026-11-16T11:46:39.415Z",
+  "total_soundtracks": 3499,
   "games": [
     {
       "igdb_id": 292844,
@@ -5065,6 +5065,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/b%C5%8D-path-of-the-teal-lotus-original-game-soundtrack/1756886758?uo=4",
           "album_link_url": "https://album.link/i/1756886758"
+        }
+      ]
+    },
+    {
+      "igdb_id": 2356,
+      "game_name": "Bob Came in Pieces",
+      "game_url": "https://ostdb.net/games/bob-came-in-pieces",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730fe1e17657db3424feb1139e",
+      "albums": [
+        {
+          "album_name": "Bob Came in Pieces: Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7HPaFVd0ZLddAydtr9mTvg",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -26399,6 +26413,20 @@
       ]
     },
     {
+      "igdb_id": 5087,
+      "game_name": "Opoona",
+      "game_url": "https://ostdb.net/games/opoona",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f52ec0a2c0d23308ec6a1ce5",
+      "albums": [
+        {
+          "album_name": "Opoona Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/670FcAOHQf4LbcBWK3Azj8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 74545,
       "game_name": "Opus Magnum",
       "game_url": "https://ostdb.net/games/opus-magnum",
@@ -28601,6 +28629,20 @@
         {
           "album_name": "Pure Pool OST",
           "spotify_url": "https://open.spotify.com/album/5pvclwUoUwygHZq4lO8KEH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3740,
+      "game_name": "Putt-Putt: Pep's Birthday Surprise",
+      "game_url": "https://ostdb.net/games/putt-putt-peps-birthday-surprise",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273669853987800afb67331193f",
+      "albums": [
+        {
+          "album_name": "Putt-Putt®: Pep's Birthday Surprise (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0G3MH62hCSvNcET07ZcLtg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -44311,6 +44353,20 @@
         {
           "album_name": "Worms W.M.D (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/52qiyarJS3sHm7Gtm1ud3C",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5596,
+      "game_name": "Wrack",
+      "game_url": "https://ostdb.net/games/wrack",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27304cedf71cca9ae11ca6b2253",
+      "albums": [
+        {
+          "album_name": "Wrack Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2JztVwteK04P5P5hnzvXsp",
           "apple_music_url": "",
           "album_link_url": ""
         }
