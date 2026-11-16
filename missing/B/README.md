@@ -8592,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Pharma + Bio Inc. Redemption: Symptoms and Treatment Bundle | 294891 | [294891-big-pharma-bio-inc-redemption-symptoms-and-treatment-bundle.json](./294891-big-pharma-bio-inc-redemption-symptoms-and-treatment-bundle.json) |
 | Big Pharma: Marketing and Malpractice | 154418 | [154418-big-pharma-marketing-and-malpractice.json](./154418-big-pharma-marketing-and-malpractice.json) |
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
+| Big Pig | 303375 | [303375-big-pig.json](./303375-big-pig.json) |
 | Big Pixel Pinball | 409139 | [409139-big-pixel-pinball.json](./409139-big-pixel-pinball.json) |
 | Big Pixel Racing | 384023 | [384023-big-pixel-racing.json](./384023-big-pixel-racing.json) |
 | Big Pixel Zombies | 409133 | [409133-big-pixel-zombies.json](./409133-big-pixel-zombies.json) |
@@ -8795,6 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Runner | 370592 | [370592-bike-runner.json](./370592-bike-runner.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
+| Bike Stunt 3D Freestyle | 303374 | [303374-bike-stunt-3d-freestyle.json](./303374-bike-stunt-3d-freestyle.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
 | Bike Stunts Simulator | 391368 | [391368-bike-stunts-simulator.json](./391368-bike-stunts-simulator.json) |
 | Bike Super Hero Stunt Driver Racing | 102845 | [102845-bike-super-hero-stunt-driver-racing.json](./102845-bike-super-hero-stunt-driver-racing.json) |
@@ -9017,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binarion | 242600 | [242600-binarion.json](./242600-binarion.json) |
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
 | Binary | 208640 | [208640-binary.json](./208640-binary.json) |
+| Binary Barrier | 303373 | [303373-binary-barrier.json](./303373-binary-barrier.json) |
 | Binary Battle | 360134 | [360134-binary-battle.json](./360134-binary-battle.json) |
 | Binary Battle | 389389 | [389389-binary-battle.json](./389389-binary-battle.json) |
 | Binary Blitz | 62062 | [62062-binary-blitz.json](./62062-binary-blitz.json) |
@@ -12730,6 +12733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodrune | 388698 | [388698-bloodrune.json](./388698-bloodrune.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodrust | 274151 | [274151-bloodrust.json](./274151-bloodrust.json) |
+| Bloodsaint | 305662 | [305662-bloodsaint.json](./305662-bloodsaint.json) |
 | Bloodsaint 2 | 386918 | [386918-bloodsaint-2.json](./386918-bloodsaint-2.json) |
 | Bloodsaw | 214401 | [214401-bloodsaw.json](./214401-bloodsaw.json) |
 | Bloodscent | 163247 | [163247-bloodscent.json](./163247-bloodscent.json) |
@@ -13521,6 +13525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board of the Future | 406166 | [406166-board-of-the-future.json](./406166-board-of-the-future.json) |
 | Board Quizz Adventure | 117795 | [117795-board-quizz-adventure.json](./117795-board-quizz-adventure.json) |
 | Board Tanks | 27025 | [27025-board-tanks.json](./27025-board-tanks.json) |
+| Board Wars: Trick Or Treat | 303908 | [303908-board-wars-trick-or-treat.json](./303908-board-wars-trick-or-treat.json) |
 | Boardbite | 424829 | [424829-boardbite.json](./424829-boardbite.json) |
 | Boarder Zone | 288071 | [288071-boarder-zone.json](./288071-boarder-zone.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
@@ -18058,6 +18063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cat's Lost Flowers | 129899 | [129899-broken-cats-lost-flowers.json](./129899-broken-cats-lost-flowers.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
+| Broken Ceiling | 305649 | [305649-broken-ceiling.json](./305649-broken-ceiling.json) |
 | Broken Circle | 49471 | [49471-broken-circle.json](./49471-broken-circle.json) |
 | Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
 | Broken Computer's Dream | 178216 | [178216-broken-computers-dream.json](./178216-broken-computers-dream.json) |
