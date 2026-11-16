@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gavin Tyler's Game Collection | 337662 | [337662-gavin-tylers-game-collection.json](./337662-gavin-tylers-game-collection.json) |
 | Gavin's Quest | 53085 | [53085-gavins-quest.json](./53085-gavins-quest.json) |
 | Gavis Arenarium | 336866 | [336866-gavis-arenarium.json](./336866-gavis-arenarium.json) |
+| Gavril | 253046 | [253046-gavril.json](./253046-gavril.json) |
 | GawaiiGo | 340294 | [340294-gawaiigo.json](./340294-gawaiigo.json) |
 | Gawr Gura: Quest for Bread | 217217 | [217217-gawr-gura-quest-for-bread.json](./217217-gawr-gura-quest-for-bread.json) |
 | Gay Battlegrounds | 105354 | [105354-gay-battlegrounds.json](./105354-gay-battlegrounds.json) |
@@ -4868,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigabonk: Mega Survivors | 376243 | [376243-gigabonk-mega-survivors.json](./376243-gigabonk-mega-survivors.json) |
 | Gigabot Run | 365233 | [365233-gigabot-run.json](./365233-gigabot-run.json) |
 | Gigabuster | 112454 | [112454-gigabuster.json](./112454-gigabuster.json) |
+| Gigachad Survivals | 253084 | [253084-gigachad-survivals.json](./253084-gigachad-survivals.json) |
 | Gigachess | 34128 | [34128-gigachess.json](./34128-gigachess.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
 | Gigachomp | 421844 | [421844-gigachomp.json](./421844-gigachomp.json) |
@@ -10679,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimace Drop | 272056 | [272056-grimace-drop.json](./272056-grimace-drop.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
 | Grimace vs. Skibidi | 272055 | [272055-grimace-vs-skibidi.json](./272055-grimace-vs-skibidi.json) |
+| Grimace's Birthday | 253045 | [253045-grimaces-birthday.json](./253045-grimaces-birthday.json) |
 | Grimace's Birthday | 369340 | [369340-grimaces-birthday.json](./369340-grimaces-birthday.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
 | Grimante | 83975 | [83975-grimante.json](./83975-grimante.json) |
