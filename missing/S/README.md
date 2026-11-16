@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
 | SAT Prep Reading 2008 | 91689 | [91689-sat-prep-reading-2008.json](./91689-sat-prep-reading-2008.json) |
 | SAT Prep Writing 2008 | 80286 | [80286-sat-prep-writing-2008.json](./80286-sat-prep-writing-2008.json) |
+| SataHarvest | 387973 | [387973-sataharvest.json](./387973-sataharvest.json) |
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
 | Satama Puzzle | 190461 | [190461-satama-puzzle.json](./190461-satama-puzzle.json) |
 | Satan | 311182 | [311182-satan.json](./311182-satan.json) |
@@ -16424,6 +16425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Pinball | 315327 | [315327-smile-pinball.json](./315327-smile-pinball.json) |
 | Smile Poker | 131315 | [131315-smile-poker.json](./131315-smile-poker.json) |
 | Smile Pretty Cure! Let's Go! Marchen World | 63045 | [63045-smile-pretty-cure-lets-go-marchen-world.json](./63045-smile-pretty-cure-lets-go-marchen-world.json) |
+| Smile Remaster | 387763 | [387763-smile-remaster.json](./387763-smile-remaster.json) |
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Thief | 328337 | [328337-smile-thief.json](./328337-smile-thief.json) |
 | Smile to Fly | 123975 | [123975-smile-to-fly.json](./123975-smile-to-fly.json) |
@@ -17830,6 +17832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SO-108 | 232945 | [232945-so-108.json](./232945-so-108.json) |
 | So-called Hero | 121048 | [121048-so-called-hero.json](./121048-so-called-hero.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
+| So-Nanoka | 387779 | [387779-so-nanoka.json](./387779-so-nanoka.json) |
 | So, uh... a spaceship crashed in my yard. | 105694 | [105694-so-uh-a-spaceship-crashed-in-my-yard.json](./105694-so-uh-a-spaceship-crashed-in-my-yard.json) |
 | So, You're Possessed! | 187802 | [187802-so-youre-possessed.json](./187802-so-youre-possessed.json) |
 | So... chunks, huh? | 177691 | [177691-so-chunks-huh.json](./177691-so-chunks-huh.json) |
@@ -24771,6 +24774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
 | Spinrise | 118190 | [118190-spinrise.json](./118190-spinrise.json) |
+| SpinShot | 386744 | [386744-spinshot.json](./386744-spinshot.json) |
 | Spinshot Party | 275830 | [275830-spinshot-party.json](./275830-spinshot-party.json) |
 | SpinShuffle | 413752 | [413752-spinshuffle.json](./413752-spinshuffle.json) |
 | SpinSling | 74405 | [74405-spinsling.json](./74405-spinsling.json) |
@@ -26505,6 +26509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirrel Divorce | 157409 | [157409-squirrel-divorce.json](./157409-squirrel-divorce.json) |
+| Squirrel Escape | 386745 | [386745-squirrel-escape.json](./386745-squirrel-escape.json) |
 | Squirrel Forest | 132318 | [132318-squirrel-forest.json](./132318-squirrel-forest.json) |
 | Squirrel Horse | 349190 | [349190-squirrel-horse.json](./349190-squirrel-horse.json) |
 | Squirrel Jump | 122165 | [122165-squirrel-jump.json](./122165-squirrel-jump.json) |
@@ -36526,6 +36531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball | 134907 | [134907-super-monkey-ball.json](./134907-super-monkey-ball.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
+| Super Monkey Ball 2 | 387793 | [387793-super-monkey-ball-2.json](./387793-super-monkey-ball-2.json) |
 | Super Monkey Ball 2-Pack | 206509 | [206509-super-monkey-ball-2-pack.json](./206509-super-monkey-ball-2-pack.json) |
 | Super Monkey Ball 3D | 6893 | [6893-super-monkey-ball-3d.json](./6893-super-monkey-ball-3d.json) |
 | Super Monkey Ball Adventure | 248530 | [248530-super-monkey-ball-adventure.json](./248530-super-monkey-ball-adventure.json) |
