@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T09:36:18.511Z",
-  "total_soundtracks": 3428,
+  "generated_at": "2026-11-16T09:47:01.113Z",
+  "total_soundtracks": 3436,
   "games": [
     {
       "igdb_id": 292844,
@@ -1629,6 +1629,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/ancestors-the-humankind-odyssey-official-soundtrack/1527723283?uo=4",
           "album_link_url": "https://album.link/i/1527723283"
+        }
+      ]
+    },
+    {
+      "igdb_id": 36767,
+      "game_name": "Ancient Amuletor",
+      "game_url": "https://ostdb.net/games/ancient-amuletor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27393439257137e85dc96f15909",
+      "albums": [
+        {
+          "album_name": "Ancient Amuletor (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2lhDqf9TLIacwY8PqefS9A",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -6013,6 +6027,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/pens%C3%A9e-d%C3%A9rob%C3%A9e-from-caravan-sandwitch-single/1760169435?uo=4",
           "album_link_url": "https://album.link/i/1760169435"
+        }
+      ]
+    },
+    {
+      "igdb_id": 36452,
+      "game_name": "Card City Nights 2",
+      "game_url": "https://ostdb.net/games/card-city-nights-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27320acefde14df6112b5a738d3",
+      "albums": [
+        {
+          "album_name": "Card City Nights 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2GbYao0QeWF7TCeP9oRUgL",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -16789,6 +16817,20 @@
       ]
     },
     {
+      "igdb_id": 36625,
+      "game_name": "Heart's Medicine: Hospital Heat",
+      "game_url": "https://ostdb.net/games/hearts-medicine-hospital-heat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bd0bff4406680642fd5d1ee8",
+      "albums": [
+        {
+          "album_name": "Heart's Medicine, Hospital Heat (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3QYMLMnKLsnvmKpCq2y4vH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 340595,
       "game_name": "Heartopia",
       "game_url": "https://ostdb.net/games/heartopia",
@@ -18435,6 +18477,20 @@
         {
           "album_name": "Interrogation: You will be deceived (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3R84sRAIPKFnQyVhT8kC7r",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36138,
+      "game_name": "Into Blue Valley",
+      "game_url": "https://ostdb.net/games/into-blue-valley",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e2a09e882e1d945efe91d298",
+      "albums": [
+        {
+          "album_name": "Into Blue Valley (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0TdWW37XSAMOvJDlr5Cvx2",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27035,6 +27091,20 @@
       ]
     },
     {
+      "igdb_id": 36644,
+      "game_name": "Plague Road",
+      "game_url": "https://ostdb.net/games/plague-road",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733dfc7b190aae78db9b107fca",
+      "albums": [
+        {
+          "album_name": "Plague Road (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6NIVtXoE1dvxkCE4XzJA4a",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28070,
       "game_name": "Planet Alpha",
       "game_url": "https://ostdb.net/games/planet-alpha",
@@ -28461,6 +28531,20 @@
         {
           "album_name": "RAYSTORM ORIGINAL SOUNDTRACK (PCB Version)",
           "spotify_url": "https://open.spotify.com/album/3w90duSyIPzCQu0r99JKYK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 38661,
+      "game_name": "Reaching for Petals",
+      "game_url": "https://ostdb.net/games/reaching-for-petals",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27334943d31125c0deb8878f31f",
+      "albums": [
+        {
+          "album_name": "Reaching for Petals (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3HeHlrE7Rpb1FILdWDN2xQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37633,6 +37717,20 @@
       ]
     },
     {
+      "igdb_id": 36254,
+      "game_name": "The Keep",
+      "game_url": "https://ostdb.net/games/the-keep",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731d50f672991c7c8d9e9f3f45",
+      "albums": [
+        {
+          "album_name": "The Keep (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2O15t1zugsixxa5I4mujBv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 282826,
       "game_name": "The King is Watching",
       "game_url": "https://ostdb.net/games/the-king-is-watching",
@@ -42365,6 +42463,20 @@
         {
           "album_name": "Way of the Hunter (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6Uu6d76gsPIV3WRHCCOGP5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36780,
+      "game_name": "Way of the Passive Fist",
+      "game_url": "https://ostdb.net/games/way-of-the-passive-fist",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27356f7660dee9229282f7bb11c",
+      "albums": [
+        {
+          "album_name": "Way of the Passive Fist (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5VkAJo8E0BSv6ieYyZ66CF",
           "apple_music_url": "",
           "album_link_url": ""
         }
