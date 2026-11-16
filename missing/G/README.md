@@ -7822,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goober Shot | 308065 | [308065-goober-shot.json](./308065-goober-shot.json) |
 | Gooberries | 119865 | [119865-gooberries.json](./119865-gooberries.json) |
 | Goobers | 411751 | [411751-goobers.json](./411751-goobers.json) |
+| Goobie Garden | 366154 | [366154-goobie-garden.json](./366154-goobie-garden.json) |
 | Goobies | 244283 | [244283-goobies.json](./244283-goobies.json) |
 | Gooblins | 31593 | [31593-gooblins.json](./31593-gooblins.json) |
 | GoobnBalloonsDX | 244153 | [244153-goobnballoonsdx.json](./244153-goobnballoonsdx.json) |
@@ -8629,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraFi | 117476 | [117476-grafi.json](./117476-grafi.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
 | GraFi 3 | 121298 | [121298-grafi-3.json](./121298-grafi-3.json) |
+| Grafi 4 | 366155 | [366155-grafi-4.json](./366155-grafi-4.json) |
 | GraFi Christmas | 126556 | [126556-grafi-christmas.json](./126556-grafi-christmas.json) |
 | GraFi Easter | 155407 | [155407-grafi-easter.json](./155407-grafi-easter.json) |
 | GraFi Halloween | 127309 | [127309-grafi-halloween.json](./127309-grafi-halloween.json) |
