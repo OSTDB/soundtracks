@@ -20679,6 +20679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avon | 328979 | [328979-avon.json](./328979-avon.json) |
 | Avoo | 291131 | [291131-avoo.json](./291131-avoo.json) |
 | Avopug Show | 217346 | [217346-avopug-show.json](./217346-avopug-show.json) |
+| Avoren | 351324 | [351324-avoren.json](./351324-avoren.json) |
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | Avowed: Premium Edition | 322516 | [322516-avowed-premium-edition.json](./322516-avowed-premium-edition.json) |
