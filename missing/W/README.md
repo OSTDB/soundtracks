@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Bar Fight | 60696 | [60696-wasteland-bar-fight.json](./60696-wasteland-bar-fight.json) |
 | Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
+| Wasteland Collector | 417729 | [417729-wasteland-collector.json](./417729-wasteland-collector.json) |
 | Wasteland Corp | 379391 | [379391-wasteland-corp.json](./379391-wasteland-corp.json) |
 | Wasteland Elysium | 262814 | [262814-wasteland-elysium.json](./262814-wasteland-elysium.json) |
 | WasteLand Express | 368025 | [368025-wasteland-express.json](./368025-wasteland-express.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchsword Remake | 129342 | [129342-witchsword-remake.json](./129342-witchsword-remake.json) |
 | Witchtastic | 135787 | [135787-witchtastic.json](./135787-witchtastic.json) |
 | WitchWay | 56831 | [56831-witchway.json](./56831-witchway.json) |
+| Witchwedge | 417077 | [417077-witchwedge.json](./417077-witchwedge.json) |
 | Witchwood Academy | 179765 | [179765-witchwood-academy.json](./179765-witchwood-academy.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Business | 338315 | [338315-witchy-business.json](./338315-witchy-business.json) |
@@ -7846,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Night Evening | 228512 | [228512-wolf-night-evening.json](./228512-wolf-night-evening.json) |
 | Wolf of Stock Street | 347018 | [347018-wolf-of-stock-street.json](./347018-wolf-of-stock-street.json) |
 | Wolf of the Battlefield: Commando 3 | 21342 | [21342-wolf-of-the-battlefield-commando-3.json](./21342-wolf-of-the-battlefield-commando-3.json) |
+| Wolf of The Desert | 417101 | [417101-wolf-of-the-desert.json](./417101-wolf-of-the-desert.json) |
 | Wolf of the Mountain | 196571 | [196571-wolf-of-the-mountain.json](./196571-wolf-of-the-mountain.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Pack | 273222 | [273222-wolf-pack.json](./273222-wolf-pack.json) |
@@ -10111,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath Unleashed | 6248 | [6248-wrath-unleashed.json](./6248-wrath-unleashed.json) |
 | Wrath: Aeon of Ruin | 115873 | [115873-wrath-aeon-of-ruin.json](./115873-wrath-aeon-of-ruin.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
+| Wrathbreaker | 417856 | [417856-wrathbreaker.json](./417856-wrathbreaker.json) |
 | Wrathline | 414738 | [414738-wrathline.json](./414738-wrathline.json) |
 | WRC 10 | 145735 | [145735-wrc-10.json](./145735-wrc-10.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
