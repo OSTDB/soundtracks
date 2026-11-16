@@ -4489,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Loop | 19870 | [19870-infinity-loop.json](./19870-infinity-loop.json) |
 | Infinity Loop: Blueprints | 254202 | [254202-infinity-loop-blueprints.json](./254202-infinity-loop-blueprints.json) |
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
+| Infinity Nikki: Bloom Beneath Bright Skies | 417849 | [417849-infinity-nikki-bloom-beneath-bright-skies.json](./417849-infinity-nikki-bloom-beneath-bright-skies.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
 | Infinity Nikki: Bubble Season | 341797 | [341797-infinity-nikki-bubble-season.json](./341797-infinity-nikki-bubble-season.json) |
 | Infinity Nikki: Chromatic Beings Everbright | 387824 | [387824-infinity-nikki-chromatic-beings-everbright.json](./387824-infinity-nikki-chromatic-beings-everbright.json) |
@@ -6178,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
 | Inventor’s Cabin | 381622 | [381622-inventor-s-cabin.json](./381622-inventor-s-cabin.json) |
 | Inventorious | 181236 | [181236-inventorious.json](./181236-inventorious.json) |
+| Inventorism | 417079 | [417079-inventorism.json](./417079-inventorism.json) |
 | Inventorix | 258604 | [258604-inventorix.json](./258604-inventorix.json) |
 | Inventory | 181180 | [181180-inventory.json](./181180-inventory.json) |
 | Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
@@ -6566,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Frost | 197030 | [197030-iron-frost.json](./197030-iron-frost.json) |
+| Iron Fury: Robot Boxing | 417070 | [417070-iron-fury-robot-boxing.json](./417070-iron-fury-robot-boxing.json) |
 | Iron Fuse | 410047 | [410047-iron-fuse.json](./410047-iron-fuse.json) |
 | Iron Grasp | 426945 | [426945-iron-grasp.json](./426945-iron-grasp.json) |
 | Iron Grip: Marauders | 50831 | [50831-iron-grip-marauders.json](./50831-iron-grip-marauders.json) |
