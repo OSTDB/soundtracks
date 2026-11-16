@@ -11100,7 +11100,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
 | Blastgrid | 303365 | [303365-blastgrid.json](./303365-blastgrid.json) |
 | Blasting Agent | 57956 | [57956-blasting-agent.json](./57956-blasting-agent.json) |
-| Blasting Agent: Ultimate Edition | 22034 | [22034-blasting-agent-ultimate-edition.json](./22034-blasting-agent-ultimate-edition.json) |
 | Blasting Bad | 326112 | [326112-blasting-bad.json](./326112-blasting-bad.json) |
 | Blasting Courier | 181047 | [181047-blasting-courier.json](./181047-blasting-courier.json) |
 | Blastlane Racers | 421462 | [421462-blastlane-racers.json](./421462-blastlane-racers.json) |
@@ -16377,6 +16376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Games: Brain Puzzles 2 | 206481 | [206481-brain-games-brain-puzzles-2.json](./206481-brain-games-brain-puzzles-2.json) |
 | Brain Games: Numbers Blast | 60384 | [60384-brain-games-numbers-blast.json](./60384-brain-games-numbers-blast.json) |
 | Brain Games: Word Puzzles | 206482 | [206482-brain-games-word-puzzles.json](./206482-brain-games-word-puzzles.json) |
+| Brain Genius | 356312 | [356312-brain-genius.json](./356312-brain-genius.json) |
 | Brain Genius 2 | 405219 | [405219-brain-genius-2.json](./405219-brain-genius-2.json) |
 | Brain Guzzler | 35270 | [35270-brain-guzzler.json](./35270-brain-guzzler.json) |
 | Brain Guzzlers from Beyond! | 59711 | [59711-brain-guzzlers-from-beyond.json](./59711-brain-guzzlers-from-beyond.json) |
