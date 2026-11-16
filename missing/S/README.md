@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
 | Scott in Space | 34888 | [34888-scott-in-space.json](./34888-scott-in-space.json) |
+| Scott Pilgrim EX: Back in the Band | 415364 | [415364-scott-pilgrim-ex-back-in-the-band.json](./415364-scott-pilgrim-ex-back-in-the-band.json) |
 | Scott Pilgrim Versus | 278300 | [278300-scott-pilgrim-versus.json](./278300-scott-pilgrim-versus.json) |
 | Scott Pilgrim vs. the World: The Game - Complete Edition | 138765 | [138765-scott-pilgrim-vs-the-world-the-game-complete-edition.json](./138765-scott-pilgrim-vs-the-world-the-game-complete-edition.json) |
 | Scott Pilgrim vs. the World: The Game - Knives Chau Add-on Pack | 165490 | [165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json](./165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json) |
@@ -12675,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulacrum: Chapter One | 122916 | [122916-simulacrum-chapter-one.json](./122916-simulacrum-chapter-one.json) |
 | Simulador Profesional de Fútbol | 70334 | [70334-simulador-profesional-de-futbol.json](./70334-simulador-profesional-de-futbol.json) |
 | Simulador Profesional de Tenis | 94455 | [94455-simulador-profesional-de-tenis.json](./94455-simulador-profesional-de-tenis.json) |
+| Simulador StreamHub | 415371 | [415371-simulador-streamhub.json](./415371-simulador-streamhub.json) |
 | SimuLadron | 381630 | [381630-simuladron.json](./381630-simuladron.json) |
 | Simulakros | 265619 | [265619-simulakros.json](./265619-simulakros.json) |
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
@@ -14079,6 +14081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulls of Olympus | 291903 | [291903-skulls-of-olympus.json](./291903-skulls-of-olympus.json) |
 | Skulls of the Shogun | 9023 | [9023-skulls-of-the-shogun.json](./9023-skulls-of-the-shogun.json) |
 | Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
+| Skulls Skulls Skulls | 415367 | [415367-skulls-skulls-skulls.json](./415367-skulls-skulls-skulls.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skullstone | 26885 | [26885-skullstone.json](./26885-skullstone.json) |
 | Skulltide | 292756 | [292756-skulltide.json](./292756-skulltide.json) |
@@ -28364,6 +28367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
 | Starlights | 251861 | [251861-starlights.json](./251861-starlights.json) |
 | Starlike | 188236 | [188236-starlike.json](./188236-starlike.json) |
+| Starlike | 414660 | [414660-starlike.json](./414660-starlike.json) |
 | Starliner | 227094 | [227094-starliner.json](./227094-starliner.json) |
 | Starliners | 424858 | [424858-starliners.json](./424858-starliners.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
@@ -39143,6 +39147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi-chan no Mahjong | 61444 | [61444-suzumiya-haruhi-chan-no-mahjong.json](./61444-suzumiya-haruhi-chan-no-mahjong.json) |
 | Suzunaan on Fire | 127729 | [127729-suzunaan-on-fire.json](./127729-suzunaan-on-fire.json) |
 | Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
+| Suzuri | 414646 | [414646-suzuri.json](./414646-suzuri.json) |
 | Suzy and freedom | 231682 | [231682-suzy-and-freedom.json](./231682-suzy-and-freedom.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
