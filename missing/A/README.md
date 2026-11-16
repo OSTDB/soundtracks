@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Loddle to the Left | 324193 | [324193-a-loddle-to-the-left.json](./324193-a-loddle-to-the-left.json) |
 | A Logical Dive | 316001 | [316001-a-logical-dive.json](./316001-a-logical-dive.json) |
+| A Lone Piece | 235979 | [235979-a-lone-piece.json](./235979-a-lone-piece.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
 | A Loney | 207765 | [207765-a-loney.json](./207765-a-loney.json) |
 | A Long Climb Ago | 349207 | [349207-a-long-climb-ago.json](./349207-a-long-climb-ago.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Million Minions | 206118 | [206118-a-million-minions.json](./206118-a-million-minions.json) |
 | A Million Murder Mysteries | 283909 | [283909-a-million-murder-mysteries.json](./283909-a-million-murder-mysteries.json) |
 | A Million Trees | 425783 | [425783-a-million-trees.json](./425783-a-million-trees.json) |
+| A Millionaire's Story | 236047 | [236047-a-millionaires-story.json](./236047-a-millionaires-story.json) |
 | A Minecraft Movie | 338668 | [338668-a-minecraft-movie.json](./338668-a-minecraft-movie.json) |
 | A Mini Falafel Adventure | 56880 | [56880-a-mini-falafel-adventure.json](./56880-a-mini-falafel-adventure.json) |
 | A Mining Game | 120861 | [120861-a-mining-game.json](./120861-a-mining-game.json) |
