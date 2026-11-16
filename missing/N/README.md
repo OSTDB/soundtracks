@@ -1193,7 +1193,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Bear | 2633 | [2633-naughty-bear.json](./2633-naughty-bear.json) |
 | Naughty Bear Double Trouble | 99967 | [99967-naughty-bear-double-trouble.json](./99967-naughty-bear-double-trouble.json) |
 | Naughty Bear: Gold Edition | 21785 | [21785-naughty-bear-gold-edition.json](./21785-naughty-bear-gold-edition.json) |
-| Naughty Bear: Panic in Paradise | 6037 | [6037-naughty-bear-panic-in-paradise.json](./6037-naughty-bear-panic-in-paradise.json) |
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Doughy | 367099 | [367099-naughty-doughy.json](./367099-naughty-doughy.json) |
@@ -4906,6 +4905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift | 195 | [195-night-shift.json](./195-night-shift.json) |
 | Night Shift | 225430 | [225430-night-shift.json](./225430-night-shift.json) |
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
+| Night Shift | 344604 | [344604-night-shift.json](./344604-night-shift.json) |
 | Night Shift | 376829 | [376829-night-shift.json](./376829-night-shift.json) |
 | Night Shift | 80254 | [80254-night-shift.json](./80254-night-shift.json) |
 | Night Shift at Fazclaire's Nightclub | 289164 | [289164-night-shift-at-fazclaires-nightclub.json](./289164-night-shift-at-fazclaires-nightclub.json) |
@@ -5529,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nin Online | 96688 | [96688-nin-online.json](./96688-nin-online.json) |
 | Nin! Nin! Ninja!!! | 116214 | [116214-nin-nin-ninja.json](./116214-nin-nin-ninja.json) |
 | Nin2-Jump | 92226 | [92226-nin2-jump.json](./92226-nin2-jump.json) |
+| Nina | 344611 | [344611-nina.json](./344611-nina.json) |
 | Nina & Yuri | 316365 | [316365-nina-and-yuri.json](./316365-nina-and-yuri.json) |
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
 | Nina Aquila: Legal Eagle - Chapter III: "Legal Stage" | 179809 | [179809-nina-aquila-legal-eagle-chapter-iii-legal-stage.json](./179809-nina-aquila-legal-eagle-chapter-iii-legal-stage.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Nobelia | 224950 | [224950-nobelia.json](./224950-nobelia.json) |
 | Nobetsu Maku Nashi | 222693 | [222693-nobetsu-maku-nashi.json](./222693-nobetsu-maku-nashi.json) |
+| Nobility Simulator | 344621 | [344621-nobility-simulator.json](./344621-nobility-simulator.json) |
 | Nobk Overlay | 314199 | [314199-nobk-overlay.json](./314199-nobk-overlay.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble & Knightess: Episode 1 | 110442 | [110442-noble-and-knightess-episode-1.json](./110442-noble-and-knightess-episode-1.json) |
