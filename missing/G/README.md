@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Your Breath | 415756 | [415756-gamble-your-breath.json](./415756-gamble-your-breath.json) |
 | Gamble: Hard Exit | 389481 | [389481-gamble-hard-exit.json](./389481-gamble-hard-exit.json) |
 | Gamblemancer TD | 280101 | [280101-gamblemancer-td.json](./280101-gamblemancer-td.json) |
+| Gambler Densetsu Tetsuya | 406981 | [406981-gambler-densetsu-tetsuya.json](./406981-gambler-densetsu-tetsuya.json) |
 | Gambler Densetsu Tetsuya Digest | 332956 | [332956-gambler-densetsu-tetsuya-digest.json](./332956-gambler-densetsu-tetsuya-digest.json) |
 | Gambler Densetsu Tetsuya: Shinjuku Tenun-hen | 281451 | [281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json](./281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json) |
 | Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
@@ -3985,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get sword, kill dragon, save princess | 138978 | [138978-get-sword-kill-dragon-save-princess.json](./138978-get-sword-kill-dragon-save-princess.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
 | Get That Thief Runner | 27023 | [27023-get-that-thief-runner.json](./27023-get-that-thief-runner.json) |
+| Get The Ball Away! | 406954 | [406954-get-the-ball-away.json](./406954-get-the-ball-away.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get the Banana | 128128 | [128128-get-the-banana.json](./128128-get-the-banana.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
@@ -5825,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorkian Warrior | 252428 | [252428-glorkian-warrior.json](./252428-glorkian-warrior.json) |
 | Glorkian Warrior: The Trials of Glork | 18444 | [18444-glorkian-warrior-the-trials-of-glork.json](./18444-glorkian-warrior-the-trials-of-glork.json) |
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
+| Glorpotron | 406960 | [406960-glorpotron.json](./406960-glorpotron.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
 | Glory | 59015 | [59015-glory.json](./59015-glory.json) |
 | Glory & Honor | 105263 | [105263-glory-and-honor.json](./105263-glory-and-honor.json) |
