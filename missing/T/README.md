@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taverna | 335037 | [335037-taverna.json](./335037-taverna.json) |
 | Tavernacle! | 204131 | [204131-tavernacle.json](./204131-tavernacle.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
+| Tavernia | 378102 | [378102-tavernia.json](./378102-tavernia.json) |
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Taverntasia | 396720 | [396720-taverntasia.json](./396720-taverntasia.json) |
@@ -10900,6 +10901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Nightmare Series | 409390 | [409390-the-forgotten-nightmare-series.json](./409390-the-forgotten-nightmare-series.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
 | The Forgotten Ones | 419850 | [419850-the-forgotten-ones.json](./419850-the-forgotten-ones.json) |
+| The Forgotten Past | 379292 | [379292-the-forgotten-past.json](./379292-the-forgotten-past.json) |
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
 | The Forgotten Portals | 268606 | [268606-the-forgotten-portals.json](./268606-the-forgotten-portals.json) |
 | The Forgotten Sprites | 87986 | [87986-the-forgotten-sprites.json](./87986-the-forgotten-sprites.json) |
@@ -12180,6 +12182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead 2: Remake - Infect Edition | 393441 | [393441-the-house-of-the-dead-2-remake-infect-edition.json](./393441-the-house-of-the-dead-2-remake-infect-edition.json) |
 | The House of the Dead 4 | 21721 | [21721-the-house-of-the-dead-4.json](./21721-the-house-of-the-dead-4.json) |
 | The House of the Dead 4: Special | 134319 | [134319-the-house-of-the-dead-4-special.json](./134319-the-house-of-the-dead-4-special.json) |
+| The House of the Dead Bundle Pack | 379255 | [379255-the-house-of-the-dead-bundle-pack.json](./379255-the-house-of-the-dead-bundle-pack.json) |
 | The House of the Dead III | 5863 | [5863-the-house-of-the-dead-iii.json](./5863-the-house-of-the-dead-iii.json) |
 | The House of the Dead: Nightmare | 125149 | [125149-the-house-of-the-dead-nightmare.json](./125149-the-house-of-the-dead-nightmare.json) |
 | The House of the Dead: Overkill - Extended Cut | 44614 | [44614-the-house-of-the-dead-overkill-extended-cut.json](./44614-the-house-of-the-dead-overkill-extended-cut.json) |
@@ -17263,6 +17266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question Rooms | 407655 | [407655-the-question-rooms.json](./407655-the-question-rooms.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
+| The Quiet After | 378086 | [378086-the-quiet-after.json](./378086-the-quiet-after.json) |
 | The Quiet Apocalypse | 181087 | [181087-the-quiet-apocalypse.json](./181087-the-quiet-apocalypse.json) |
 | The Quiet Collection | 59887 | [59887-the-quiet-collection.json](./59887-the-quiet-collection.json) |
 | The Quiet Days of Dorothy | 391324 | [391324-the-quiet-days-of-dorothy.json](./391324-the-quiet-days-of-dorothy.json) |
@@ -20876,6 +20880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitor 2 | 232763 | [232763-the-visitor-2.json](./232763-the-visitor-2.json) |
 | The Visitor 3 | 232764 | [232764-the-visitor-3.json](./232764-the-visitor-3.json) |
 | The Visitor Effect | 348249 | [348249-the-visitor-effect.json](./348249-the-visitor-effect.json) |
+| The Visitor Returns | 378073 | [378073-the-visitor-returns.json](./378073-the-visitor-returns.json) |
 | The Visitor: Alien Worm | 174740 | [174740-the-visitor-alien-worm.json](./174740-the-visitor-alien-worm.json) |
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
 | The Visitor: Ep.2 - Sleepover Slaughter | 373448 | [373448-the-visitor-ep-2-sleepover-slaughter.json](./373448-the-visitor-ep-2-sleepover-slaughter.json) |
@@ -22012,6 +22017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
 | Theocracy | 414858 | [414858-theocracy.json](./414858-theocracy.json) |
 | Theocracy | 6028 | [6028-theocracy.json](./6028-theocracy.json) |
+| TheOdd1sOut: Let's Bounce | 378081 | [378081-theodd1sout-lets-bounce.json](./378081-theodd1sout-lets-bounce.json) |
 | Theofil | 159400 | [159400-theofil.json](./159400-theofil.json) |
 | Theogony: Crystal Water Blue | 172314 | [172314-theogony-crystal-water-blue.json](./172314-theogony-crystal-water-blue.json) |
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
@@ -23416,6 +23422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TI-Pei | 419895 | [419895-ti-pei.json](./419895-ti-pei.json) |
 | TI-Sweeper | 421191 | [421191-ti-sweeper.json](./421191-ti-sweeper.json) |
 | TI99 Clickety | 420969 | [420969-ti99-clickety.json](./420969-ti99-clickety.json) |
+| Tia: Weird Hunter | 378075 | [378075-tia-weird-hunter.json](./378075-tia-weird-hunter.json) |
 | Tia.Sav | 113884 | [113884-tia-sav.json](./113884-tia-sav.json) |
 | TiaDar | 292479 | [292479-tiadar.json](./292479-tiadar.json) |
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
@@ -25741,6 +25748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Clickers | 19149 | [19149-time-clickers.json](./19149-time-clickers.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Cops | 400099 | [400099-time-cops.json](./400099-time-cops.json) |
+| Time Crack | 378068 | [378068-time-crack.json](./378068-time-crack.json) |
 | Time Crash | 77464 | [77464-time-crash.json](./77464-time-crash.json) |
 | Time Crisis | 11739 | [11739-time-crisis.json](./11739-time-crisis.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
@@ -26007,6 +26015,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travelling Navy Seal Ninja Warrior | 119821 | [119821-time-travelling-navy-seal-ninja-warrior.json](./119821-time-travelling-navy-seal-ninja-warrior.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
 | Time Trax | 28484 | [28484-time-trax.json](./28484-time-trax.json) |
+| Time Trax | 378097 | [378097-time-trax.json](./378097-time-trax.json) |
+| Time Trax | 378098 | [378098-time-trax.json](./378098-time-trax.json) |
 | Time Trax | 46678 | [46678-time-trax.json](./46678-time-trax.json) |
 | Time Treker | 283056 | [283056-time-treker.json](./283056-time-treker.json) |
 | Time Trials | 310788 | [310788-time-trials.json](./310788-time-trials.json) |
@@ -28119,6 +28129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Ultimate Edition | 146156 | [146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json](./146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json) |
 | Tom Clancy's The Division 2: Warlords of New York Edition | 164711 | [164711-tom-clancys-the-division-2-warlords-of-new-york-edition.json](./164711-tom-clancys-the-division-2-warlords-of-new-york-edition.json) |
 | Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
+| Tom Clancy's The Division 2: Year 5 Season 3 - Vanguard | 378082 | [378082-tom-clancys-the-division-2-year-5-season-3-vanguard.json](./378082-tom-clancys-the-division-2-year-5-season-3-vanguard.json) |
 | Tom Clancy's The Division 3 | 267620 | [267620-tom-clancys-the-division-3.json](./267620-tom-clancys-the-division-3.json) |
 | Tom Clancy's The Division Franchise Bundle | 164857 | [164857-tom-clancys-the-division-franchise-bundle.json](./164857-tom-clancys-the-division-franchise-bundle.json) |
 | Tom Clancy's The Division: Collector's Edition | 42936 | [42936-tom-clancys-the-division-collectors-edition.json](./42936-tom-clancys-the-division-collectors-edition.json) |
