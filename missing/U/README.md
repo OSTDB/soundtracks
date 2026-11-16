@@ -3333,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Tomb Runner | 361743 | [361743-untitled-tomb-runner.json](./361743-untitled-tomb-runner.json) |
 | Untitled Video Game | 163243 | [163243-untitled-video-game.json](./163243-untitled-video-game.json) |
 | Untitled Vlambeer Game | 131396 | [131396-untitled-vlambeer-game.json](./131396-untitled-vlambeer-game.json) |
+| Untitled Wuchang: Fallen Feathers Sequel | 411688 | [411688-untitled-wuchang-fallen-feathers-sequel.json](./411688-untitled-wuchang-fallen-feathers-sequel.json) |
 | Untitled Zombie Game | 291039 | [291039-untitled-zombie-game.json](./291039-untitled-zombie-game.json) |
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
 | Unto Deepest Depths | 317989 | [317989-unto-deepest-depths.json](./317989-unto-deepest-depths.json) |
