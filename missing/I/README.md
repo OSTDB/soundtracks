@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikai | 157133 | [157133-ikai.json](./157133-ikai.json) |
 | Ikanoid | 78600 | [78600-ikanoid.json](./78600-ikanoid.json) |
 | Ikao: The lost souls | 114533 | [114533-ikao-the-lost-souls.json](./114533-ikao-the-lost-souls.json) |
+| Ikapali | 406959 | [406959-ikapali.json](./406959-ikapali.json) |
 | Ikari | 274094 | [274094-ikari.json](./274094-ikari.json) |
 | Ikari III: The Rescue | 274104 | [274104-ikari-iii-the-rescue.json](./274104-ikari-iii-the-rescue.json) |
 | Ikari III: The Rescue | 274105 | [274105-ikari-iii-the-rescue.json](./274105-ikari-iii-the-rescue.json) |
