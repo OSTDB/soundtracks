@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Nines | 103843 | [103843-nasty-nines.json](./103843-nasty-nines.json) |
 | Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
+| Nasty Zombies | 290063 | [290063-nasty-zombies.json](./290063-nasty-zombies.json) |
 | Nasu Pinball | 225438 | [225438-nasu-pinball.json](./225438-nasu-pinball.json) |
 | Nasu Plus | 227597 | [227597-nasu-plus.json](./227597-nasu-plus.json) |
 | Nasu-8 | 346300 | [346300-nasu-8.json](./346300-nasu-8.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Complete + | 324447 | [324447-ngolf-complete.json](./324447-ngolf-complete.json) |
 | NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
 | Ngolf: Definitive Edition | 309041 | [309041-ngolf-definitive-edition.json](./309041-ngolf-definitive-edition.json) |
+| Ngolf: Deluxe Edition | 291642 | [291642-ngolf-deluxe-edition.json](./291642-ngolf-deluxe-edition.json) |
 | Ngolf: Director's Cut | 324430 | [324430-ngolf-directors-cut.json](./324430-ngolf-directors-cut.json) |
 | Ngolf: Extended Edition | 300888 | [300888-ngolf-extended-edition.json](./300888-ngolf-extended-edition.json) |
 | Ngolf: GOTY Edition | 324376 | [324376-ngolf-goty-edition.json](./324376-ngolf-goty-edition.json) |
