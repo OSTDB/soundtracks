@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerd Bus | 184264 | [184264-nerd-bus.json](./184264-nerd-bus.json) |
 | Nerd Quiz | 250137 | [250137-nerd-quiz.json](./250137-nerd-quiz.json) |
 | Nerd Simulator | 312531 | [312531-nerd-simulator.json](./312531-nerd-simulator.json) |
+| Nerd Space | 384443 | [384443-nerd-space.json](./384443-nerd-space.json) |
 | Nerd Survivors | 272740 | [272740-nerd-survivors.json](./272740-nerd-survivors.json) |
 | Nerd: Tracing Dayline | 318273 | [318273-nerd-tracing-dayline.json](./318273-nerd-tracing-dayline.json) |
 | Nerd's Guide to Surviving High School | 210369 | [210369-nerds-guide-to-surviving-high-school.json](./210369-nerds-guide-to-surviving-high-school.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerve | 132386 | [132386-nerve.json](./132386-nerve.json) |
 | Nerve | 335376 | [335376-nerve.json](./335376-nerve.json) |
 | Nerve - Do You Dare? | 122914 | [122914-nerve-do-you-dare.json](./122914-nerve-do-you-dare.json) |
+| Nerve Damage | 384466 | [384466-nerve-damage.json](./384466-nerve-damage.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nerved | 105226 | [105226-nerved.json](./105226-nerved.json) |
 | Nerves of Steel | 73937 | [73937-nerves-of-steel.json](./73937-nerves-of-steel.json) |
@@ -3428,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never7: Kurumi Cure | 349900 | [349900-never7-kurumi-cure.json](./349900-never7-kurumi-cure.json) |
 | Never7: The End of Infinity | 18018 | [18018-never7-the-end-of-infinity.json](./18018-never7-the-end-of-infinity.json) |
 | NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
+| Neverawake Nightmare Bundle | 384462 | [384462-neverawake-nightmare-bundle.json](./384462-neverawake-nightmare-bundle.json) |
 | Neverball | 51247 | [51247-neverball.json](./51247-neverball.json) |
 | NeverBlink | 109112 | [109112-neverblink.json](./109112-neverblink.json) |
 | Neverboard | 176715 | [176715-neverboard.json](./176715-neverboard.json) |
@@ -6323,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
+| No Backup | 383315 | [383315-no-backup.json](./383315-no-backup.json) |
 | No Backup | 401178 | [401178-no-backup.json](./401178-no-backup.json) |
 | No Balls Allowed | 427256 | [427256-no-balls-allowed.json](./427256-no-balls-allowed.json) |
 | No Beer Left Behind! | 408403 | [408403-no-beer-left-behind.json](./408403-no-beer-left-behind.json) |
