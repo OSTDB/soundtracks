@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
 | Capsman | 269343 | [269343-capsman.json](./269343-capsman.json) |
 | Capsman 3D | 254815 | [254815-capsman-3d.json](./254815-capsman-3d.json) |
+| Capsoul | 346846 | [346846-capsoul.json](./346846-capsoul.json) |
 | Capsular | 81055 | [81055-capsular.json](./81055-capsular.json) |
 | Capsule | 120064 | [120064-capsule.json](./120064-capsule.json) |
 | Capsule | 167907 | [167907-capsule.json](./167907-capsule.json) |
@@ -15182,6 +15183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concerto Gate | 94709 | [94709-concerto-gate.json](./94709-concerto-gate.json) |
 | Concerto Note | 60053 | [60053-concerto-note.json](./60053-concerto-note.json) |
 | Concerto on White | 189029 | [189029-concerto-on-white.json](./189029-concerto-on-white.json) |
+| Concerto on White: Cajon Story | 347948 | [347948-concerto-on-white-cajon-story.json](./347948-concerto-on-white-cajon-story.json) |
 | Concerto on White: Cajon Story - Pykamia Music Pack Vol.1 | 388966 | [388966-concerto-on-white-cajon-story-pykamia-music-pack-vol-1.json](./388966-concerto-on-white-cajon-story-pykamia-music-pack-vol-1.json) |
 | Concerto on White: Cajon Story - Pykamia Music Pack Vol.2 | 388969 | [388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json](./388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json) |
 | Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
@@ -15373,6 +15375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo's Caper | 42665 | [42665-congos-caper.json](./42665-congos-caper.json) |
 | Congratulations On Your Purchase | 407707 | [407707-congratulations-on-your-purchase.json](./407707-congratulations-on-your-purchase.json) |
 | Congresswolf | 30797 | [30797-congresswolf.json](./30797-congresswolf.json) |
+| Congruence | 346851 | [346851-congruence.json](./346851-congruence.json) |
 | CongWei | 372945 | [372945-congwei.json](./372945-congwei.json) |
 | Coniclysm | 16107 | [16107-coniclysm.json](./16107-coniclysm.json) |
 | Conjoined Cats | 294074 | [294074-conjoined-cats.json](./294074-conjoined-cats.json) |
