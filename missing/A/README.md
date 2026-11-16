@@ -10226,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: Memories | 13199 | [13199-amnesia-memories.json](./13199-amnesia-memories.json) |
 | Amnesia: Rain | 376173 | [376173-amnesia-rain.json](./376173-amnesia-rain.json) |
 | Amnesia: Rebirth | 131785 | [131785-amnesia-rebirth.json](./131785-amnesia-rebirth.json) |
+| Amnesia: Restored | 360794 | [360794-amnesia-restored.json](./360794-amnesia-restored.json) |
 | Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
 | Amnon's Beginning | 172266 | [172266-amnons-beginning.json](./172266-amnons-beginning.json) |
@@ -15826,6 +15827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARK -the lost fairytale- | 95143 | [95143-ark-the-lost-fairytale.json](./95143-ark-the-lost-fairytale.json) |
 | Ark and Ade | 157022 | [157022-ark-and-ade.json](./157022-ark-and-ade.json) |
 | Ark Area | 40016 | [40016-ark-area.json](./40016-ark-area.json) |
+| ARK Axiom | 360816 | [360816-ark-axiom.json](./360816-ark-axiom.json) |
 | ARK BOX Unlimited | 30576 | [30576-ark-box-unlimited.json](./30576-ark-box-unlimited.json) |
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
 | Ark Defender | 195821 | [195821-ark-defender.json](./195821-ark-defender.json) |
