@@ -4984,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Nil: Heatwave | 360290 | [360290-terra-nil-heatwave.json](./360290-terra-nil-heatwave.json) |
+| Terra Nil: Vita Nova | 316893 | [316893-terra-nil-vita-nova.json](./316893-terra-nil-vita-nova.json) |
 | Terra Ninfa | 427813 | [427813-terra-ninfa.json](./427813-terra-ninfa.json) |
 | Terra Nova | 123182 | [123182-terra-nova.json](./123182-terra-nova.json) |
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
@@ -6051,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The A500 Mini | 275245 | [275245-the-a500-mini.json](./275245-the-a500-mini.json) |
 | The Abandoned | 174471 | [174471-the-abandoned.json](./174471-the-abandoned.json) |
 | The Abandoned | 195299 | [195299-the-abandoned.json](./195299-the-abandoned.json) |
+| The Abandoned | 315182 | [315182-the-abandoned.json](./315182-the-abandoned.json) |
 | The Abandoned Factory | 276396 | [276396-the-abandoned-factory.json](./276396-the-abandoned-factory.json) |
 | The Abandoned House | 321441 | [321441-the-abandoned-house.json](./321441-the-abandoned-house.json) |
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
@@ -8749,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cult | 276375 | [276375-the-cult.json](./276375-the-cult.json) |
 | The Cult of Chanseville | 211820 | [211820-the-cult-of-chanseville.json](./211820-the-cult-of-chanseville.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
+| The Cummunist Manifesto: Dommy Mommy Commie Adventure | 315172 | [315172-the-cummunist-manifesto-dommy-mommy-commie-adventure.json](./315172-the-cummunist-manifesto-dommy-mommy-commie-adventure.json) |
 | The Cuniculus of Paradise | 372661 | [372661-the-cuniculus-of-paradise.json](./372661-the-cuniculus-of-paradise.json) |
 | The Cup | 114805 | [114805-the-cup.json](./114805-the-cup.json) |
 | The Cup | 410475 | [410475-the-cup.json](./410475-the-cup.json) |
@@ -11004,7 +11007,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The French and Indian War | 182258 | [182258-the-french-and-indian-war.json](./182258-the-french-and-indian-war.json) |
 | The French Open 1998 | 70302 | [70302-the-french-open-1998.json](./70302-the-french-open-1998.json) |
 | The Frenetic Five vs. Sturm und Drang | 217771 | [217771-the-frenetic-five-vs-sturm-und-drang.json](./217771-the-frenetic-five-vs-sturm-und-drang.json) |
+| The Freshman: Book 2 | 313607 | [313607-the-freshman-book-2.json](./313607-the-freshman-book-2.json) |
+| The Freshman: Book 3 | 313608 | [313608-the-freshman-book-3.json](./313608-the-freshman-book-3.json) |
+| The Freshman: Book 4 | 313609 | [313609-the-freshman-book-4.json](./313609-the-freshman-book-4.json) |
 | The Freshman: Game of Love | 313617 | [313617-the-freshman-game-of-love.json](./313617-the-freshman-game-of-love.json) |
+| The Freshman: Love Bites | 313615 | [313615-the-freshman-love-bites.json](./313615-the-freshman-love-bites.json) |
 | The Freshman: Snowed In | 313616 | [313616-the-freshman-snowed-in.json](./313616-the-freshman-snowed-in.json) |
 | The Fridge is Red | 141660 | [141660-the-fridge-is-red.json](./141660-the-fridge-is-red.json) |
 | The Friendly Droppets | 339201 | [339201-the-friendly-droppets.json](./339201-the-friendly-droppets.json) |
@@ -12994,6 +13001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jungle Book: Mowgli's Run | 58644 | [58644-the-jungle-book-mowglis-run.json](./58644-the-jungle-book-mowglis-run.json) |
 | The Jungle Book: New Wonder Adventures | 317883 | [317883-the-jungle-book-new-wonder-adventures.json](./317883-the-jungle-book-new-wonder-adventures.json) |
 | The Jungle Challenge | 366776 | [366776-the-jungle-challenge.json](./366776-the-jungle-challenge.json) |
+| The Junior | 313612 | [313612-the-junior.json](./313612-the-junior.json) |
 | The Junkyard | 337509 | [337509-the-junkyard.json](./337509-the-junkyard.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou | 260595 | [260595-the-jusou.json](./260595-the-jusou.json) |
@@ -18236,6 +18244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Semen Donation Truck! | 271562 | [271562-the-semen-donation-truck.json](./271562-the-semen-donation-truck.json) |
 | The Senate | 263607 | [263607-the-senate.json](./263607-the-senate.json) |
 | The Senex Bird | 220513 | [220513-the-senex-bird.json](./220513-the-senex-bird.json) |
+| The Senior | 313614 | [313614-the-senior.json](./313614-the-senior.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensational December Machine | 321623 | [321623-the-sensational-december-machine.json](./321623-the-sensational-december-machine.json) |
 | The Sense of Connectedness | 128820 | [128820-the-sense-of-connectedness.json](./128820-the-sense-of-connectedness.json) |
@@ -19120,6 +19129,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
 | The Songs She Sings at the Other End of the Tunnel | 128666 | [128666-the-songs-she-sings-at-the-other-end-of-the-tunnel.json](./128666-the-songs-she-sings-at-the-other-end-of-the-tunnel.json) |
 | The Sophisticated Art of Friendship | 255469 | [255469-the-sophisticated-art-of-friendship.json](./255469-the-sophisticated-art-of-friendship.json) |
+| The Sophomore: Book 1 | 313610 | [313610-the-sophomore-book-1.json](./313610-the-sophomore-book-1.json) |
+| The Sophomore: Book 2 | 313611 | [313611-the-sophomore-book-2.json](./313611-the-sophomore-book-2.json) |
 | The Sophomore: Hartfeld Horror Story | 313618 | [313618-the-sophomore-hartfeld-horror-story.json](./313618-the-sophomore-hartfeld-horror-story.json) |
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
 | The Sopranos: Road to Respect | 17248 | [17248-the-sopranos-road-to-respect.json](./17248-the-sopranos-road-to-respect.json) |
@@ -20698,6 +20709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ungrateful Son | 340593 | [340593-the-ungrateful-son.json](./340593-the-ungrateful-son.json) |
 | The Unhaunted Lolhouse | 106512 | [106512-the-unhaunted-lolhouse.json](./106512-the-unhaunted-lolhouse.json) |
 | The Unholy Priest | 332368 | [332368-the-unholy-priest.json](./332368-the-unholy-priest.json) |
+| The Unholy Smoke | 315179 | [315179-the-unholy-smoke.json](./315179-the-unholy-smoke.json) |
 | The Unholy Society | 78751 | [78751-the-unholy-society.json](./78751-the-unholy-society.json) |
 | The Unholy War | 44915 | [44915-the-unholy-war.json](./44915-the-unholy-war.json) |
 | The Unic | 254697 | [254697-the-unic.json](./254697-the-unic.json) |
@@ -36444,6 +36456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TTPP | 274926 | [274926-ttpp.json](./274926-ttpp.json) |
 | TTT Classic | 374211 | [374211-ttt-classic.json](./374211-ttt-classic.json) |
 | TTT: The Torrential Turnabout | 306621 | [306621-ttt-the-torrential-turnabout.json](./306621-ttt-the-torrential-turnabout.json) |
+| TTV!Zone Collection 1 | 315171 | [315171-ttv-zone-collection-1.json](./315171-ttv-zone-collection-1.json) |
 | TTV2 | 55301 | [55301-ttv2.json](./55301-ttv2.json) |
 | TTV3 | 120767 | [120767-ttv3.json](./120767-ttv3.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
