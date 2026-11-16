@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Block Party | 22574 | [22574-ultimate-block-party.json](./22574-ultimate-block-party.json) |
 | Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
 | Ultimate Body Blows | 8495 | [8495-ultimate-body-blows.json](./8495-ultimate-body-blows.json) |
+| Ultimate Body Blows & Project-X: Special Edition | 281005 | [281005-ultimate-body-blows-and-project-x-special-edition.json](./281005-ultimate-body-blows-and-project-x-special-edition.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
 | Ultimate Booster Experience | 32102 | [32102-ultimate-booster-experience.json](./32102-ultimate-booster-experience.json) |
 | Ultimate Bowmasters | 223884 | [223884-ultimate-bowmasters.json](./223884-ultimate-bowmasters.json) |
