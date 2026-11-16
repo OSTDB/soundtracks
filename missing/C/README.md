@@ -8232,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicku | 33515 | [33515-chicku.json](./33515-chicku.json) |
 | Chickweed | 203626 | [203626-chickweed.json](./203626-chickweed.json) |
+| Chicky Blocks | 379277 | [379277-chicky-blocks.json](./379277-chicky-blocks.json) |
 | Chicky Woggy | 305433 | [305433-chicky-woggy.json](./305433-chicky-woggy.json) |
 | Chicky Woggy | 363306 | [363306-chicky-woggy.json](./363306-chicky-woggy.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
@@ -15449,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection: The Nightmare Within | 258117 | [258117-connection-the-nightmare-within.json](./258117-connection-the-nightmare-within.json) |
 | Connections | 12413 | [12413-connections.json](./12413-connections.json) |
 | Connections | 315093 | [315093-connections.json](./315093-connections.json) |
+| ConnecTitty | 376407 | [376407-connectitty.json](./376407-connectitty.json) |
 | Connecto | 199181 | [199181-connecto.json](./199181-connecto.json) |
 | ConnecTrade | 290303 | [290303-connectrade.json](./290303-connectrade.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
@@ -16652,6 +16654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Keeper: Bags & Blasts | 335161 | [335161-core-keeper-bags-and-blasts.json](./335161-core-keeper-bags-and-blasts.json) |
 | Core Keeper: Riders of the Underground | 419038 | [419038-core-keeper-riders-of-the-underground.json](./419038-core-keeper-riders-of-the-underground.json) |
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
+| Core Keeper: Void & Voltage | 379253 | [379253-core-keeper-void-and-voltage.json](./379253-core-keeper-void-and-voltage.json) |
 | Core Lords | 245889 | [245889-core-lords.json](./245889-core-lords.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
 | Core Meltdown | 116954 | [116954-core-meltdown.json](./116954-core-meltdown.json) |
@@ -18049,6 +18052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Pets and Friends | 386544 | [386544-cozy-pets-and-friends.json](./386544-cozy-pets-and-friends.json) |
 | Cozy Places | 82176 | [82176-cozy-places.json](./82176-cozy-places.json) |
 | Cozy Plates | 422018 | [422018-cozy-plates.json](./422018-cozy-plates.json) |
+| Cozy Potions | 378112 | [378112-cozy-potions.json](./378112-cozy-potions.json) |
 | Cozy Puzzles | 390702 | [390702-cozy-puzzles.json](./390702-cozy-puzzles.json) |
 | Cozy Room | 217103 | [217103-cozy-room.json](./217103-cozy-room.json) |
 | Cozy Room Decorator | 269688 | [269688-cozy-room-decorator.json](./269688-cozy-room-decorator.json) |
@@ -20244,6 +20248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Pixels | 87934 | [87934-cross-pixels.json](./87934-cross-pixels.json) |
 | Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
 | Cross Purposes | 109110 | [109110-cross-purposes.json](./109110-cross-purposes.json) |
+| Cross Quest | 379265 | [379265-cross-quest.json](./379265-cross-quest.json) |
 | Cross Racing Championship Extreme 2005 | 50212 | [50212-cross-racing-championship-extreme-2005.json](./50212-cross-racing-championship-extreme-2005.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
