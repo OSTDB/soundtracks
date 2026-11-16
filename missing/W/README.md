@@ -3932,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Mafia Redemption | 95882 | [95882-west-mafia-redemption.json](./95882-west-mafia-redemption.json) |
 | West of Dead | 125625 | [125625-west-of-dead.json](./125625-west-of-dead.json) |
 | West of Dead: Crow | 155233 | [155233-west-of-dead-crow.json](./155233-west-of-dead-crow.json) |
+| West of Dead: Path of the Crow Deluxe Edition | 238162 | [238162-west-of-dead-path-of-the-crow-deluxe-edition.json](./238162-west-of-dead-path-of-the-crow-deluxe-edition.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West of Loathing: Reckonin' at Gun Manor | 154168 | [154168-west-of-loathing-reckonin-at-gun-manor.json](./154168-west-of-loathing-reckonin-at-gun-manor.json) |
 | West of Red | 59137 | [59137-west-of-red.json](./59137-west-of-red.json) |
@@ -7937,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolves in the Walls | 130503 | [130503-wolves-in-the-walls.json](./130503-wolves-in-the-walls.json) |
 | Wolves on the Westwind: The Vampire of Havena | 203920 | [203920-wolves-on-the-westwind-the-vampire-of-havena.json](./203920-wolves-on-the-westwind-the-vampire-of-havena.json) |
 | Wolvesville | 262964 | [262964-wolvesville.json](./262964-wolvesville.json) |
+| Woman Communication | 236042 | [236042-woman-communication.json](./236042-woman-communication.json) |
 | Woman Guerrillero | 298516 | [298516-woman-guerrillero.json](./298516-woman-guerrillero.json) |
 | Woman Simulator | 378548 | [378548-woman-simulator.json](./378548-woman-simulator.json) |
 | Woman's Body | 112458 | [112458-womans-body.json](./112458-womans-body.json) |
@@ -10104,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
 | Wreck & Profit | 420224 | [420224-wreck-and-profit.json](./420224-wreck-and-profit.json) |
 | Wreck Below | 422002 | [422002-wreck-below.json](./422002-wreck-below.json) |
+| Wreck it! VR | 235960 | [235960-wreck-it-vr.json](./235960-wreck-it-vr.json) |
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
 | Wreck Poly Survival | 427595 | [427595-wreck-poly-survival.json](./427595-wreck-poly-survival.json) |
 | Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
