@@ -3247,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawntide | 74281 | [74281-dawntide.json](./74281-dawntide.json) |
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
 | DawnWander | 158525 | [158525-dawnwander.json](./158525-dawnwander.json) |
+| Dawson Oaks Trailer Park | 408337 | [408337-dawson-oaks-trailer-park.json](./408337-dawson-oaks-trailer-park.json) |
 | Daxter | 1533 | [1533-daxter.json](./1533-daxter.json) |
 | Daxter | 305477 | [305477-daxter.json](./305477-daxter.json) |
 | Day 10,909 | 264247 | [264247-day-10-909.json](./264247-day-10-909.json) |
@@ -5726,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decked Builder | 87450 | [87450-decked-builder.json](./87450-decked-builder.json) |
 | Decked Builder HD | 89002 | [89002-decked-builder-hd.json](./89002-decked-builder-hd.json) |
 | Decked in Love | 296886 | [296886-decked-in-love.json](./296886-decked-in-love.json) |
+| Decked Out | 408326 | [408326-decked-out.json](./408326-decked-out.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Decker | 78254 | [78254-decker.json](./78254-decker.json) |
@@ -9502,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
+| Diabolik Lovers Lunatic Fate: Grand Edition | 408368 | [408368-diabolik-lovers-lunatic-fate-grand-edition.json](./408368-diabolik-lovers-lunatic-fate-grand-edition.json) |
 | Diabolik Lovers More, Blood | 63453 | [63453-diabolik-lovers-more-blood.json](./63453-diabolik-lovers-more-blood.json) |
 | Diabolik Lovers More, Blood Limited V Edition | 221877 | [221877-diabolik-lovers-more-blood-limited-v-edition.json](./221877-diabolik-lovers-more-blood-limited-v-edition.json) |
 | Diabolik Lovers: Dark Fate | 61941 | [61941-diabolik-lovers-dark-fate.json](./61941-diabolik-lovers-dark-fate.json) |
@@ -13585,6 +13588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Yandere Club! | 332730 | [332730-doki-doki-yandere-club.json](./332730-doki-doki-yandere-club.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki Doki Youtuber Club | 333458 | [333458-doki-doki-youtuber-club.json](./333458-doki-doki-youtuber-club.json) |
+| Doki Doki Yume Loop | 408175 | [408175-doki-doki-yume-loop.json](./408175-doki-doki-yume-loop.json) |
 | Doki Doki Zero Bitches Plan | 334272 | [334272-doki-doki-zero-bitches-plan.json](./334272-doki-doki-zero-bitches-plan.json) |
 | Doki Doki: Amor Fati | 400557 | [400557-doki-doki-amor-fati.json](./400557-doki-doki-amor-fati.json) |
 | Doki Doki: Majima Helps the Literature Club! | 373321 | [373321-doki-doki-majima-helps-the-literature-club.json](./373321-doki-doki-majima-helps-the-literature-club.json) |
@@ -16925,6 +16929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Kingdom War: Deluxe Edition | 52945 | [52945-dragon-kingdom-war-deluxe-edition.json](./52945-dragon-kingdom-war-deluxe-edition.json) |
 | Dragon Kingdoms: A Legend's Beginning | 236322 | [236322-dragon-kingdoms-a-legends-beginning.json](./236322-dragon-kingdoms-a-legends-beginning.json) |
 | Dragon Kings | 269027 | [269027-dragon-kings.json](./269027-dragon-kings.json) |
+| Dragon Kisser | 408355 | [408355-dragon-kisser.json](./408355-dragon-kisser.json) |
 | Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
 | Dragon Knight | 187132 | [187132-dragon-knight.json](./187132-dragon-knight.json) |
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
