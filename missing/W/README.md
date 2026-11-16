@@ -8696,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
+| WordHive 3 | 415383 | [415383-wordhive-3.json](./415383-wordhive-3.json) |
 | WordHopper | 256986 | [256986-wordhopper.json](./256986-wordhopper.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
 | Wordhunters | 103388 | [103388-wordhunters.json](./103388-wordhunters.json) |
@@ -9147,6 +9148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of bombs | 163802 | [163802-world-of-bombs.json](./163802-world-of-bombs.json) |
 | World of Buh | 216821 | [216821-world-of-buh.json](./216821-world-of-buh.json) |
 | World of Busking | 197130 | [197130-world-of-busking.json](./197130-world-of-busking.json) |
+| World of Clashes | 415362 | [415362-world-of-clashes.json](./415362-world-of-clashes.json) |
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
 | World of Conquerors | 117400 | [117400-world-of-conquerors.json](./117400-world-of-conquerors.json) |
 | World of Conquerors: Origins | 126602 | [126602-world-of-conquerors-origins.json](./126602-world-of-conquerors-origins.json) |
