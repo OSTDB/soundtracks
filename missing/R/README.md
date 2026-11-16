@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi-Ribi: Platinum Edition DLC Pack | 324392 | [324392-rabi-ribi-platinum-edition-dlc-pack.json](./324392-rabi-ribi-platinum-edition-dlc-pack.json) |
 | Rabid Gophers | 84409 | [84409-rabid-gophers.json](./84409-rabid-gophers.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
+| Rabidja's Revenge | 366162 | [366162-rabidjas-revenge.json](./366162-rabidjas-revenge.json) |
 | Rabiez: Epidemic | 33347 | [33347-rabiez-epidemic.json](./33347-rabiez-epidemic.json) |
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
 | Rabio Lepus Special | 38066 | [38066-rabio-lepus-special.json](./38066-rabio-lepus-special.json) |
@@ -4770,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption? | 265110 | [265110-redemption.json](./265110-redemption.json) |
 | Redemption's Guild | 76417 | [76417-redemptions-guild.json](./76417-redemptions-guild.json) |
 | Redemptoris: Isekai | 186079 | [186079-redemptoris-isekai.json](./186079-redemptoris-isekai.json) |
+| Redertsy | 367325 | [367325-redertsy.json](./367325-redertsy.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
 | Redfall: Bite Back Edition | 233871 | [233871-redfall-bite-back-edition.json](./233871-redfall-bite-back-edition.json) |
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
