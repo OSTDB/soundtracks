@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanano Puzzle | 124570 | [124570-hanano-puzzle.json](./124570-hanano-puzzle.json) |
 | Hanano Puzzle 2 | 177237 | [177237-hanano-puzzle-2.json](./177237-hanano-puzzle-2.json) |
 | Hanaoni: Koi Someru Toki Towa no Shirushi | 140785 | [140785-hanaoni-koi-someru-toki-towa-no-shirushi.json](./140785-hanaoni-koi-someru-toki-towa-no-shirushi.json) |
+| Hanaoni: Yume no Tsuzuki | 222560 | [222560-hanaoni-yume-no-tsuzuki.json](./222560-hanaoni-yume-no-tsuzuki.json) |
 | Hanapon Princess | 135790 | [135790-hanapon-princess.json](./135790-hanapon-princess.json) |
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanasaka Tenshi Tenten-kun no Beat Breaker | 228500 | [228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json](./228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json) |
@@ -6735,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Must Die: Director's Cut | 289140 | [289140-hero-must-die-directors-cut.json](./289140-hero-must-die-directors-cut.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero Nexus | 216032 | [216032-hero-nexus.json](./216032-hero-nexus.json) |
+| Hero of Aethric | 222551 | [222551-hero-of-aethric.json](./222551-hero-of-aethric.json) |
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
 | Hero of Cursed Island | 393694 | [393694-hero-of-cursed-island.json](./393694-hero-of-cursed-island.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
