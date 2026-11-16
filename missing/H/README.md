@@ -12250,6 +12250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: AcceleRacers Bassline | 265075 | [265075-hot-wheels-unleashed-acceleracers-bassline.json](./265075-hot-wheels-unleashed-acceleracers-bassline.json) |
 | Hot Wheels Unleashed: AcceleRacers Deora II | 264913 | [264913-hot-wheels-unleashed-acceleracers-deora-ii.json](./264913-hot-wheels-unleashed-acceleracers-deora-ii.json) |
 | Hot Wheels Unleashed: AcceleRacers Hollowback | 265087 | [265087-hot-wheels-unleashed-acceleracers-hollowback.json](./265087-hot-wheels-unleashed-acceleracers-hollowback.json) |
+| Hot Wheels Unleashed: Batman Expansion | 226523 | [226523-hot-wheels-unleashed-batman-expansion.json](./226523-hot-wheels-unleashed-batman-expansion.json) |
 | Hot Wheels Unleashed: Bye Focal II | 264910 | [264910-hot-wheels-unleashed-bye-focal-ii.json](./264910-hot-wheels-unleashed-bye-focal-ii.json) |
 | Hot Wheels Unleashed: Challenge Accepted Edition | 146181 | [146181-hot-wheels-unleashed-challenge-accepted-edition.json](./146181-hot-wheels-unleashed-challenge-accepted-edition.json) |
 | Hot Wheels Unleashed: Chevy 1956 | 264491 | [264491-hot-wheels-unleashed-chevy-1956.json](./264491-hot-wheels-unleashed-chevy-1956.json) |
