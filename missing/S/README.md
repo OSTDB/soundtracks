@@ -4291,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScudBuster | 33922 | [33922-scudbuster.json](./33922-scudbuster.json) |
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
 | Scuff Slayer | 385650 | [385650-scuff-slayer.json](./385650-scuff-slayer.json) |
+| Scuff(ed) | 215938 | [215938-scuff-ed.json](./215938-scuff-ed.json) |
 | Scuffed | 201392 | [201392-scuffed.json](./201392-scuffed.json) |
 | Scuffed Party | 190777 | [190777-scuffed-party.json](./190777-scuffed-party.json) |
 | Scuffed Rocket League | 180496 | [180496-scuffed-rocket-league.json](./180496-scuffed-rocket-league.json) |
@@ -4775,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seance | 343733 | [343733-seance.json](./343733-seance.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seance: The Unquiet | 91201 | [91201-seance-the-unquiet.json](./91201-seance-the-unquiet.json) |
+| SeaOrama: World of Shipping | 215797 | [215797-seaorama-world-of-shipping.json](./215797-seaorama-world-of-shipping.json) |
 | Seaport - Build & Prosper! | 88374 | [88374-seaport-build-and-prosper.json](./88374-seaport-build-and-prosper.json) |
 | Seaport Man | 337005 | [337005-seaport-man.json](./337005-seaport-man.json) |
 | Seaport Tycoon | 245956 | [245956-seaport-tycoon.json](./245956-seaport-tycoon.json) |
@@ -4952,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sebil Engineering | 184506 | [184506-sebil-engineering.json](./184506-sebil-engineering.json) |
 | Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
 | Secluded | 181807 | [181807-secluded.json](./181807-secluded.json) |
+| Seclusa | 215798 | [215798-seclusa.json](./215798-seclusa.json) |
 | Seclusion | 289734 | [289734-seclusion.json](./289734-seclusion.json) |
 | Seclusion | 29817 | [29817-seclusion.json](./29817-seclusion.json) |
 | Seclusion: Islesbury | 28147 | [28147-seclusion-islesbury.json](./28147-seclusion-islesbury.json) |
@@ -6838,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
 | Seven Dunes: Curse on the Golden Sand | 150798 | [150798-seven-dunes-curse-on-the-golden-sand.json](./150798-seven-dunes-curse-on-the-golden-sand.json) |
+| Seven Dwarfs: Legends Untold | 215799 | [215799-seven-dwarfs-legends-untold.json](./215799-seven-dwarfs-legends-untold.json) |
 | Seven Favors | 399024 | [399024-seven-favors.json](./399024-seven-favors.json) |
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
 | Seven Haunted Seas | 69148 | [69148-seven-haunted-seas.json](./69148-seven-haunted-seas.json) |
@@ -8731,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawy Adventures | 115535 | [115535-shawy-adventures.json](./115535-shawy-adventures.json) |
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
 | Shaype | 139158 | [139158-shaype.json](./139158-shaype.json) |
+| Shaytan | 215800 | [215800-shaytan.json](./215800-shaytan.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
 | She Awaits | 212564 | [212564-she-awaits.json](./212564-she-awaits.json) |
 | She Could Fly: Documentary Escape Game | 304853 | [304853-she-could-fly-documentary-escape-game.json](./304853-she-could-fly-documentary-escape-game.json) |
@@ -9229,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift Happens | 401864 | [401864-shift-happens.json](./401864-shift-happens.json) |
 | Shift II | 291005 | [291005-shift-ii.json](./291005-shift-ii.json) |
 | Shift Legacy Collection | 298092 | [298092-shift-legacy-collection.json](./298092-shift-legacy-collection.json) |
+| Shift of War | 215801 | [215801-shift-of-war.json](./215801-shift-of-war.json) |
 | Shift Orb | 33188 | [33188-shift-orb.json](./33188-shift-orb.json) |
 | Shift Quantum | 56678 | [56678-shift-quantum.json](./56678-shift-quantum.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
@@ -10539,6 +10545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Simulator Multiplayer | 68180 | [68180-shopping-simulator-multiplayer.json](./68180-shopping-simulator-multiplayer.json) |
 | Shopping Sort | 303046 | [303046-shopping-sort.json](./303046-shopping-sort.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
+| Shopping Spree: Extreme!!! | 215802 | [215802-shopping-spree-extreme.json](./215802-shopping-spree-extreme.json) |
 | Shopping Street | 399460 | [399460-shopping-street.json](./399460-shopping-street.json) |
 | Shopping Talent | 237589 | [237589-shopping-talent.json](./237589-shopping-talent.json) |
 | Shopping Tycoon | 54514 | [54514-shopping-tycoon.json](./54514-shopping-tycoon.json) |
@@ -11945,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
 | Silent: Abandoned | 309437 | [309437-silent-abandoned.json](./309437-silent-abandoned.json) |
 | Silenthead: Ducks hunt | 150823 | [150823-silenthead-ducks-hunt.json](./150823-silenthead-ducks-hunt.json) |
+| Silentium | 215803 | [215803-silentium.json](./215803-silentium.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silentium: Remastered | 240739 | [240739-silentium-remastered.json](./240739-silentium-remastered.json) |
 | Silenus | 301875 | [301875-silenus.json](./301875-silenus.json) |
@@ -12512,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Battle FX | 298949 | [298949-simple-battle-fx.json](./298949-simple-battle-fx.json) |
 | Simple Boxing Drills VR | 371587 | [371587-simple-boxing-drills-vr.json](./371587-simple-boxing-drills-vr.json) |
 | Simple Brickout | 90880 | [90880-simple-brickout.json](./90880-simple-brickout.json) |
+| Simple Builder | 215804 | [215804-simple-builder.json](./215804-simple-builder.json) |
 | Simple Character 2000 Series Vol.17: Sentou Mecha Xabungle - The Race in Action | 57821 | [57821-simple-character-2000-series-vol-17-sentou-mecha-xabungle-the-race-in-action.json](./57821-simple-character-2000-series-vol-17-sentou-mecha-xabungle-the-race-in-action.json) |
 | Simple Characters 2000 Series Vol. 01: Kidou Senshi Gundam - The Gunjin Shougi | 203131 | [203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json](./203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json) |
 | Simple Characters 2000 Series Vol. 02: Afro Ken - The Puzzle | 58588 | [58588-simple-characters-2000-series-vol-02-afro-ken-the-puzzle.json](./58588-simple-characters-2000-series-vol-02-afro-ken-the-puzzle.json) |
@@ -13465,6 +13474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Don't! | 185755 | [185755-skate-or-dont.json](./185755-skate-or-dont.json) |
 | Skate Out! | 58995 | [58995-skate-out.json](./58995-skate-out.json) |
 | Skate Park City | 42725 | [42725-skate-park-city.json](./42725-skate-park-city.json) |
+| Skate Rift | 215805 | [215805-skate-rift.json](./215805-skate-rift.json) |
 | Skate Rush: 90s Retro Arcade | 404771 | [404771-skate-rush-90s-retro-arcade.json](./404771-skate-rush-90s-retro-arcade.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
 | Skate Share Pack | 399897 | [399897-skate-share-pack.json](./399897-skate-share-pack.json) |
@@ -22175,6 +22185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 200392 | [200392-space-invaders.json](./200392-space-invaders.json) |
 | Space Invaders | 200393 | [200393-space-invaders.json](./200393-space-invaders.json) |
 | Space Invaders | 208860 | [208860-space-invaders.json](./208860-space-invaders.json) |
+| Space Invaders | 215405 | [215405-space-invaders.json](./215405-space-invaders.json) |
 | Space Invaders | 218289 | [218289-space-invaders.json](./218289-space-invaders.json) |
 | Space Invaders | 218361 | [218361-space-invaders.json](./218361-space-invaders.json) |
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
