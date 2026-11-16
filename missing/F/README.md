@@ -11400,6 +11400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork Parker's Holiday Profit Hike | 14399 | [14399-fork-parkers-holiday-profit-hike.json](./14399-fork-parkers-holiday-profit-hike.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
 | Fork Truck Challenge | 35140 | [35140-fork-truck-challenge.json](./35140-fork-truck-challenge.json) |
+| Fork-U | 319255 | [319255-fork-u.json](./319255-fork-u.json) |
 | Forking Hell | 133906 | [133906-forking-hell.json](./133906-forking-hell.json) |
 | ForkJump | 156951 | [156951-forkjump.json](./156951-forkjump.json) |
 | Forklift & Box | 164262 | [164262-forklift-and-box.json](./164262-forklift-and-box.json) |
@@ -11483,6 +11484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForMind | 401286 | [401286-formind.json](./401286-formind.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formless Adventure | 44232 | [44232-formless-adventure.json](./44232-formless-adventure.json) |
+| Formless Mother | 320505 | [320505-formless-mother.json](./320505-formless-mother.json) |
 | Formless Star | 343872 | [343872-formless-star.json](./343872-formless-star.json) |
 | Formosa Duel | 64048 | [64048-formosa-duel.json](./64048-formosa-duel.json) |
 | Formula | 363652 | [363652-formula.json](./363652-formula.json) |
@@ -12491,6 +12493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | Foxingdale: The Magical Stones of Kentaroo | 273492 | [273492-foxingdale-the-magical-stones-of-kentaroo.json](./273492-foxingdale-the-magical-stones-of-kentaroo.json) |
 | FoxInTheBox | 145753 | [145753-foxinthebox.json](./145753-foxinthebox.json) |
+| Foxlore | 318088 | [318088-foxlore.json](./318088-foxlore.json) |
 | Foxnox | 247969 | [247969-foxnox.json](./247969-foxnox.json) |
 | Foxo | 372039 | [372039-foxo.json](./372039-foxo.json) |
 | Foxo's Fun Schoolhouse | 310685 | [310685-foxos-fun-schoolhouse.json](./310685-foxos-fun-schoolhouse.json) |
@@ -13364,6 +13367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze the Core | 187292 | [187292-freeze-the-core.json](./187292-freeze-the-core.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze Whiz | 239436 | [239436-freeze-whiz.json](./239436-freeze-whiz.json) |
+| Freeze-It | 328690 | [328690-freeze-it.json](./328690-freeze-it.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
 | Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
