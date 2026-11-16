@@ -9,7 +9,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q | 74270 | [74270-q.json](./74270-q.json) |
 | Q | 80330 | [80330-q.json](./80330-q.json) |
 | Q Billion | 49026 | [49026-q-billion.json](./49026-q-billion.json) |
-| Q Collection | 400202 | [400202-q-collection.json](./400202-q-collection.json) |
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
 | Q Steps | 327103 | [327103-q-steps.json](./327103-q-steps.json) |
 | Q to Q2 Butsuri Edition | 328141 | [328141-q-to-q2-butsuri-edition.json](./328141-q-to-q2-butsuri-edition.json) |
@@ -614,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Market Simulator | 399218 | [399218-quarantine-market-simulator.json](./399218-quarantine-market-simulator.json) |
 | Quarantine Run | 155999 | [155999-quarantine-run.json](./155999-quarantine-run.json) |
 | Quarantine Simulator | 171736 | [171736-quarantine-simulator.json](./171736-quarantine-simulator.json) |
+| Quarantine Town | 258156 | [258156-quarantine-town.json](./258156-quarantine-town.json) |
 | Quarantine Wing: Horror | 412571 | [412571-quarantine-wing-horror.json](./412571-quarantine-wing-horror.json) |
 | Quarantine Zombies | 373349 | [373349-quarantine-zombies.json](./373349-quarantine-zombies.json) |
 | Quarantine Zone: Miami Zero | 419027 | [419027-quarantine-zone-miami-zero.json](./419027-quarantine-zone-miami-zero.json) |
@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Que No Importa el Mañana Si No Lo Veo de Llegar | 388181 | [388181-que-no-importa-el-manana-si-no-lo-veo-de-llegar.json](./388181-que-no-importa-el-manana-si-no-lo-veo-de-llegar.json) |
 | Qué pasa Neng: El videojuego | 128211 | [128211-que-pasa-neng-el-videojuego.json](./128211-que-pasa-neng-el-videojuego.json) |
 | Que Pasa Perro? | 86043 | [86043-que-pasa-perro.json](./86043-que-pasa-perro.json) |
+| Quebec Mortis | 252976 | [252976-quebec-mortis.json](./252976-quebec-mortis.json) |
 | Quebra-cabeça | 290079 | [290079-quebra-cabeca.json](./290079-quebra-cabeca.json) |
 | Quebrantar Chapter 3: The Frozen Spears | 315699 | [315699-quebrantar-chapter-3-the-frozen-spears.json](./315699-quebrantar-chapter-3-the-frozen-spears.json) |
 | Quebrantar: Caila The Witch | 315695 | [315695-quebrantar-caila-the-witch.json](./315695-quebrantar-caila-the-witch.json) |
