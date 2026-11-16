@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar 2: The World's Ultimate Rally | 3868 | [3868-dakar-2-the-worlds-ultimate-rally.json](./3868-dakar-2-the-worlds-ultimate-rally.json) |
 | Dakar Desert Rally: Audi RS Q e-tron Hybrid Car | 220597 | [220597-dakar-desert-rally-audi-rs-q-e-tron-hybrid-car.json](./220597-dakar-desert-rally-audi-rs-q-e-tron-hybrid-car.json) |
 | Dakar Desert Rally: Classics Vehicle Pack #2 | 278430 | [278430-dakar-desert-rally-classics-vehicle-pack-2.json](./278430-dakar-desert-rally-classics-vehicle-pack-2.json) |
+| Dakar Desert Rally: Deluxe Edition | 213648 | [213648-dakar-desert-rally-deluxe-edition.json](./213648-dakar-desert-rally-deluxe-edition.json) |
 | Dakar Desert Rally: Hybrid Vehicle Pack | 278429 | [278429-dakar-desert-rally-hybrid-vehicle-pack.json](./278429-dakar-desert-rally-hybrid-vehicle-pack.json) |
 | Dakar Desert Rally: Legends Pack | 263054 | [263054-dakar-desert-rally-legends-pack.json](./263054-dakar-desert-rally-legends-pack.json) |
 | Dakar Desert Rally: SnowRunner Cars Pack | 278428 | [278428-dakar-desert-rally-snowrunner-cars-pack.json](./278428-dakar-desert-rally-snowrunner-cars-pack.json) |
@@ -4350,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pedal | 244202 | [244202-dead-pedal.json](./244202-dead-pedal.json) |
 | Dead People Driving HD | 232344 | [232344-dead-people-driving-hd.json](./232344-dead-people-driving-hd.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
+| Dead Pets: A Punk Rock Slice of Life Sim | 213654 | [213654-dead-pets-a-punk-rock-slice-of-life-sim.json](./213654-dead-pets-a-punk-rock-slice-of-life-sim.json) |
 | Dead Phoenix | 67051 | [67051-dead-phoenix.json](./67051-dead-phoenix.json) |
 | Dead Pixels | 320652 | [320652-dead-pixels.json](./320652-dead-pixels.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
@@ -9296,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
 | Devil Threats | 127387 | [127387-devil-threats.json](./127387-devil-threats.json) |
 | Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
+| Devil War | 214091 | [214091-devil-war.json](./214091-devil-war.json) |
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
@@ -15162,6 +15165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooms 4: Endgame | 387929 | [387929-dooms-4-endgame.json](./387929-dooms-4-endgame.json) |
 | Dooms Hair Salon | 336293 | [336293-dooms-hair-salon.json](./336293-dooms-hair-salon.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
+| Doomsday | 214070 | [214070-doomsday.json](./214070-doomsday.json) |
 | Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
 | Doomsday | 274167 | [274167-doomsday.json](./274167-doomsday.json) |
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
@@ -19243,6 +19247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Invaders | 100546 | [100546-droid-invaders.json](./100546-droid-invaders.json) |
 | Droid Invasion | 245964 | [245964-droid-invasion.json](./245964-droid-invasion.json) |
 | Droid Must Deliver | 386092 | [386092-droid-must-deliver.json](./386092-droid-must-deliver.json) |
+| Droid Trivia | 213661 | [213661-droid-trivia.json](./213661-droid-trivia.json) |
 | Droid Warfare | 211153 | [211153-droid-warfare.json](./211153-droid-warfare.json) |
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
 | Droid Wars: Duel | 232950 | [232950-droid-wars-duel.json](./232950-droid-wars-duel.json) |
@@ -22097,6 +22102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
 | Dynasty Warriors: Origins - Digital Deluxe Edition | 327145 | [327145-dynasty-warriors-origins-digital-deluxe-edition.json](./327145-dynasty-warriors-origins-digital-deluxe-edition.json) |
 | Dynasty Warriors: Origins - Visions of Four Heroes | 377234 | [377234-dynasty-warriors-origins-visions-of-four-heroes.json](./377234-dynasty-warriors-origins-visions-of-four-heroes.json) |
+| Dynasty Warriors: Overlords | 214093 | [214093-dynasty-warriors-overlords.json](./214093-dynasty-warriors-overlords.json) |
 | Dynasty Warriors: Strikeforce | 6983 | [6983-dynasty-warriors-strikeforce.json](./6983-dynasty-warriors-strikeforce.json) |
 | Dynasty Warriors: Unleashed | 67194 | [67194-dynasty-warriors-unleashed.json](./67194-dynasty-warriors-unleashed.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
