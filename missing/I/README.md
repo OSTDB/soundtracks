@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Ragebait | 388083 | [388083-incremental-ragebait.json](./388083-incremental-ragebait.json) |
 | Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
+| Incremental Town RPG | 295173 | [295173-incremental-town-rpg.json](./295173-incremental-town-rpg.json) |
 | Incremental Wars | 414707 | [414707-incremental-wars.json](./414707-incremental-wars.json) |
 | IncrementalOS | 421841 | [421841-incrementalos.json](./421841-incrementalos.json) |
 | Incrempire | 407857 | [407857-incrempire.json](./407857-incrempire.json) |
@@ -4486,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
 | Infinity Blade Saga | 79077 | [79077-infinity-blade-saga.json](./79077-infinity-blade-saga.json) |
 | Infinity Blade: Dungeons | 65359 | [65359-infinity-blade-dungeons.json](./65359-infinity-blade-dungeons.json) |
+| Infinity Blaster | 294307 | [294307-infinity-blaster.json](./294307-infinity-blaster.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Boob Clicker | 289500 | [289500-infinity-boob-clicker.json](./289500-infinity-boob-clicker.json) |
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
