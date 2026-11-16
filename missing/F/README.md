@@ -3453,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Bobby | 40839 | [40839-fat-bobby.json](./40839-fat-bobby.json) |
 | Fat Boy Raids The Cookie Factory | 321865 | [321865-fat-boy-raids-the-cookie-factory.json](./321865-fat-boy-raids-the-cookie-factory.json) |
 | Fat Bunny | 27964 | [27964-fat-bunny.json](./27964-fat-bunny.json) |
+| Fat Cat | 315164 | [315164-fat-cat.json](./315164-fat-cat.json) |
 | Fat Cat & Airship | 243177 | [243177-fat-cat-and-airship.json](./243177-fat-cat-and-airship.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
@@ -9115,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips¿de | 265349 | [265349-flips-de.json](./265349-flips-de.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
 | Flipshot | 253941 | [253941-flipshot.json](./253941-flipshot.json) |
+| Flipside | 315157 | [315157-flipside.json](./315157-flipside.json) |
 | Flipside | 344616 | [344616-flipside.json](./344616-flipside.json) |
 | Flipside | 373597 | [373597-flipside.json](./373597-flipside.json) |
 | FlipSide | 92079 | [92079-flipside.json](./92079-flipside.json) |
@@ -15731,6 +15733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Kuni no Alice | 255622 | [255622-fushigi-no-kuni-no-alice.json](./255622-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Alice | 49571 | [49571-fushigi-no-kuni-no-alice.json](./49571-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Angelique | 49570 | [49570-fushigi-no-kuni-no-angelique.json](./49570-fushigi-no-kuni-no-angelique.json) |
+| Fushigi No Pixel Dungeon | 314081 | [314081-fushigi-no-pixel-dungeon.json](./314081-fushigi-no-pixel-dungeon.json) |
 | Fushigi no Umi no Nadia | 4431 | [4431-fushigi-no-umi-no-nadia.json](./4431-fushigi-no-umi-no-nadia.json) |
 | Fushigi no Umi no Nadia | 48490 | [48490-fushigi-no-umi-no-nadia.json](./48490-fushigi-no-umi-no-nadia.json) |
 | Fushigi no Umi no Nadia: Gekichin! Garfish | 385710 | [385710-fushigi-no-umi-no-nadia-gekichin-garfish.json](./385710-fushigi-no-umi-no-nadia-gekichin-garfish.json) |
