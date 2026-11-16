@@ -4975,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 99 | 699 | [699-fifa-99.json](./699-fifa-99.json) |
 | FIFA Heroes | 371210 | [371210-fifa-heroes.json](./371210-fifa-heroes.json) |
 | FIFA International Soccer | 128887 | [128887-fifa-international-soccer.json](./128887-fifa-international-soccer.json) |
+| FIFA International Soccer | 228785 | [228785-fifa-international-soccer.json](./228785-fifa-international-soccer.json) |
 | FIFA International Soccer | 240238 | [240238-fifa-international-soccer.json](./240238-fifa-international-soccer.json) |
 | FIFA International Soccer | 240239 | [240239-fifa-international-soccer.json](./240239-fifa-international-soccer.json) |
 | FIFA Manager 06 | 20675 | [20675-fifa-manager-06.json](./20675-fifa-manager-06.json) |
@@ -5086,6 +5087,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA World Cup Germany 2006 | 240285 | [240285-fifa-world-cup-germany-2006.json](./240285-fifa-world-cup-germany-2006.json) |
 | FIFA World Cup Germany 2006 | 49300 | [49300-fifa-world-cup-germany-2006.json](./49300-fifa-world-cup-germany-2006.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
+| FIFA: Road to World Cup 98 | 228794 | [228794-fifa-road-to-world-cup-98.json](./228794-fifa-road-to-world-cup-98.json) |
+| FIFA: Road to World Cup 98 | 228795 | [228795-fifa-road-to-world-cup-98.json](./228795-fifa-road-to-world-cup-98.json) |
+| FIFA: Road to World Cup 98 | 228796 | [228796-fifa-road-to-world-cup-98.json](./228796-fifa-road-to-world-cup-98.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifefer Island | 193172 | [193172-fifefer-island.json](./193172-fifefer-island.json) |
 | Fifi and the Flowertots | 67004 | [67004-fifi-and-the-flowertots.json](./67004-fifi-and-the-flowertots.json) |
