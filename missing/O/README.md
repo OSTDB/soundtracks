@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Escape 3 | 315762 | [315762-outbreak-escape-3.json](./315762-outbreak-escape-3.json) |
 | Outbreak in Space VR | 81956 | [81956-outbreak-in-space-vr.json](./81956-outbreak-in-space-vr.json) |
 | Outbreak Island | 165386 | [165386-outbreak-island.json](./165386-outbreak-island.json) |
+| Outbreak Island: Pendulum | 213650 | [213650-outbreak-island-pendulum.json](./213650-outbreak-island-pendulum.json) |
 | Outbreak New Dawn | 137836 | [137836-outbreak-new-dawn.json](./137836-outbreak-new-dawn.json) |
 | Outbreak of Evil | 274160 | [274160-outbreak-of-evil.json](./274160-outbreak-of-evil.json) |
 | Outbreak Overlord | 291789 | [291789-outbreak-overlord.json](./291789-outbreak-overlord.json) |
