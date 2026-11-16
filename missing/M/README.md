@@ -7674,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanized Corps: Rebirth | 330985 | [330985-mechanized-corps-rebirth.json](./330985-mechanized-corps-rebirth.json) |
 | Mechanized Super Mario Bros. U | 314103 | [314103-mechanized-super-mario-bros-u.json](./314103-mechanized-super-mario-bros-u.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
+| Mechanoid | 347939 | [347939-mechanoid.json](./347939-mechanoid.json) |
 | Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
 | MechApocalypse: Proving Grounds | 184817 | [184817-mechapocalypse-proving-grounds.json](./184817-mechapocalypse-proving-grounds.json) |
 | Mechapunk | 215314 | [215314-mechapunk.json](./215314-mechapunk.json) |
@@ -23078,6 +23079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Factory: Boss Life | 216044 | [216044-my-factory-boss-life.json](./216044-my-factory-boss-life.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
+| My Fair Damnation | 348994 | [348994-my-fair-damnation.json](./348994-my-fair-damnation.json) |
 | My Fair Link: Yousei Byakuya Monogatari | 416555 | [416555-my-fair-link-yousei-byakuya-monogatari.json](./416555-my-fair-link-yousei-byakuya-monogatari.json) |
 | My Fair Princess | 117237 | [117237-my-fair-princess.json](./117237-my-fair-princess.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
