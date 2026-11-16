@@ -5096,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
 | Othello | 28466 | [28466-othello.json](./28466-othello.json) |
+| Othello | 306151 | [306151-othello.json](./306151-othello.json) |
 | Othello | 341376 | [341376-othello.json](./341376-othello.json) |
 | Othello | 408869 | [408869-othello.json](./408869-othello.json) |
 | Othello | 54795 | [54795-othello.json](./54795-othello.json) |
