@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
 | Hard Time VIP | 89306 | [89306-hard-time-vip.json](./89306-hard-time-vip.json) |
 | Hard Times | 120684 | [120684-hard-times.json](./120684-hard-times.json) |
+| Hard Times | 354660 | [354660-hard-times.json](./354660-hard-times.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
@@ -8862,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Driving | 204014 | [204014-highway-driving.json](./204014-highway-driving.json) |
 | Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
 | Highway Encounter | 13877 | [13877-highway-encounter.json](./13877-highway-encounter.json) |
+| Highway Fighter | 354661 | [354661-highway-fighter.json](./354661-highway-fighter.json) |
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Getaway: ZigZag Blocky Car | 289726 | [289726-highway-getaway-zigzag-blocky-car.json](./289726-highway-getaway-zigzag-blocky-car.json) |
@@ -13430,6 +13432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
 | Humerous | 282795 | [282795-humerous.json](./282795-humerous.json) |
 | Humilau Resort: A Pokémon Escape Room | 341924 | [341924-humilau-resort-a-pokemon-escape-room.json](./341924-humilau-resort-a-pokemon-escape-room.json) |
+| Hummdinger | 354657 | [354657-hummdinger.json](./354657-hummdinger.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
 | Hummer Badlands | 5864 | [5864-hummer-badlands.json](./5864-hummer-badlands.json) |
 | Hummer Extreme Edition | 233284 | [233284-hummer-extreme-edition.json](./233284-hummer-extreme-edition.json) |
