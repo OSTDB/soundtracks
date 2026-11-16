@@ -5168,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Truckers | 210327 | [210327-catgirl-truckers.json](./210327-catgirl-truckers.json) |
 | Catgirls From My Sweet Dream | 215502 | [215502-catgirls-from-my-sweet-dream.json](./215502-catgirls-from-my-sweet-dream.json) |
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
+| Catgotchi: Virtual Pet | 243364 | [243364-catgotchi-virtual-pet.json](./243364-catgotchi-virtual-pet.json) |
 | Catgotchi: Virtual Pet - Deluxe Edition | 249561 | [249561-catgotchi-virtual-pet-deluxe-edition.json](./249561-catgotchi-virtual-pet-deluxe-edition.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
@@ -12472,8 +12473,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition + | 272409 | [272409-clumsy-rush-ultimate-guys-complete-edition.json](./272409-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
+| Clumsy Rush: Ultimate Guys - Decorations Pack 9 | 243357 | [243357-clumsy-rush-ultimate-guys-decorations-pack-9.json](./243357-clumsy-rush-ultimate-guys-decorations-pack-9.json) |
 | Clumsy Rush: Ultimate Guys - Definitive Edition | 231277 | [231277-clumsy-rush-ultimate-guys-definitive-edition.json](./231277-clumsy-rush-ultimate-guys-definitive-edition.json) |
 | Clumsy Rush: Ultimate Guys - Deluxe Edition | 219382 | [219382-clumsy-rush-ultimate-guys-deluxe-edition.json](./219382-clumsy-rush-ultimate-guys-deluxe-edition.json) |
+| Clumsy Rush: Ultimate Guys - Director's Cut | 243351 | [243351-clumsy-rush-ultimate-guys-directors-cut.json](./243351-clumsy-rush-ultimate-guys-directors-cut.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
 | Clumsy Rush: Ultimate Guys - GOTY Edition | 246878 | [246878-clumsy-rush-ultimate-guys-goty-edition.json](./246878-clumsy-rush-ultimate-guys-goty-edition.json) |
 | Clumsy Rush: Ultimate Guys - Happy Edition | 249560 | [249560-clumsy-rush-ultimate-guys-happy-edition.json](./249560-clumsy-rush-ultimate-guys-happy-edition.json) |
