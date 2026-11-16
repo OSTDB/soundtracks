@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call | 297321 | [297321-last-call.json](./297321-last-call.json) |
 | Last Call | 313932 | [313932-last-call.json](./313932-last-call.json) |
+| Last Call | 318091 | [318091-last-call.json](./318091-last-call.json) |
 | Last Call | 398075 | [398075-last-call.json](./398075-last-call.json) |
 | Last Call: RE | 378552 | [378552-last-call-re.json](./378552-last-call-re.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
@@ -2541,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn & Play: Dino Coloring | 400073 | [400073-learn-and-play-dino-coloring.json](./400073-learn-and-play-dino-coloring.json) |
 | Learn 2 Kaizo | 135545 | [135545-learn-2-kaizo.json](./135545-learn-2-kaizo.json) |
 | Learn and Play: Blackjack & Solitaire | 322540 | [322540-learn-and-play-blackjack-and-solitaire.json](./322540-learn-and-play-blackjack-and-solitaire.json) |
+| Learn Basic Kanji!! | 324032 | [324032-learn-basic-kanji.json](./324032-learn-basic-kanji.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Chess | 240066 | [240066-learn-chess.json](./240066-learn-chess.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
@@ -2661,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Led Zeppelin: Rock Band | 250665 | [250665-led-zeppelin-rock-band.json](./250665-led-zeppelin-rock-band.json) |
 | Leder Panzer | 108318 | [108318-leder-panzer.json](./108318-leder-panzer.json) |
 | Lederzwerge Deluxe XXL Version | 84279 | [84279-lederzwerge-deluxe-xxl-version.json](./84279-lederzwerge-deluxe-xxl-version.json) |
+| Ledge Maze | 328715 | [328715-ledge-maze.json](./328715-ledge-maze.json) |
 | Ledgeman | 348947 | [348947-ledgeman.json](./348947-ledgeman.json) |
 | Ledgerbound | 347856 | [347856-ledgerbound.json](./347856-ledgerbound.json) |
 | Ledoliel | 128629 | [128629-ledoliel.json](./128629-ledoliel.json) |
@@ -4168,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let’s Fall in Love | 392309 | [392309-let-s-fall-in-love.json](./392309-let-s-fall-in-love.json) |
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
+| Let's Fish | 324027 | [324027-lets-fish.json](./324027-lets-fish.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
 | Let's Fly Away | 321286 | [321286-lets-fly-away.json](./321286-lets-fly-away.json) |
 | Let's Freeze Some Penguins | 348717 | [348717-lets-freeze-some-penguins.json](./348717-lets-freeze-some-penguins.json) |
@@ -4831,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Liar's Pub | 327440 | [327440-liars-pub.json](./327440-liars-pub.json) |
+| Liar's Saloon | 324033 | [324033-liars-saloon.json](./324033-liars-saloon.json) |
 | Liars Maze | 225248 | [225248-liars-maze.json](./225248-liars-maze.json) |
 | Liars Race in Lost Ruins | 224968 | [224968-liars-race-in-lost-ruins.json](./224968-liars-race-in-lost-ruins.json) |
 | Liars Village | 143248 | [143248-liars-village.json](./143248-liars-village.json) |
@@ -5755,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilia: The Fallen Flower in the Prison City | 335603 | [335603-lilia-the-fallen-flower-in-the-prison-city.json](./335603-lilia-the-fallen-flower-in-the-prison-city.json) |
 | Lilia's Livelihood: Girl, Tentacle and the Wonder Island | 82653 | [82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json](./82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json) |
 | Lilialette's Hustle: Getting My Hands Dirty to Save My Guild | 371445 | [371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json](./371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json) |
+| Lilian Fourhand: Nuclear Soeur the Fighters | 320504 | [320504-lilian-fourhand-nuclear-soeur-the-fighters.json](./320504-lilian-fourhand-nuclear-soeur-the-fighters.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilies in the Graveyard | 407001 | [407001-lilies-in-the-graveyard.json](./407001-lilies-in-the-graveyard.json) |
 | Lilifel | 423882 | [423882-lilifel.json](./423882-lilifel.json) |
@@ -9405,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Orbit | 21597 | [21597-lost-orbit.json](./21597-lost-orbit.json) |
 | Lost Orbit: Terminal Velocity | 120185 | [120185-lost-orbit-terminal-velocity.json](./120185-lost-orbit-terminal-velocity.json) |
 | Lost Order | 22789 | [22789-lost-order.json](./22789-lost-order.json) |
+| Lost Pages: Classic | 326308 | [326308-lost-pages-classic.json](./326308-lost-pages-classic.json) |
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
 | Lost Paradise | 402842 | [402842-lost-paradise.json](./402842-lost-paradise.json) |
 | Lost Paradise of Karuta | 314837 | [314837-lost-paradise-of-karuta.json](./314837-lost-paradise-of-karuta.json) |
