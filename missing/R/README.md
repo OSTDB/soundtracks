@@ -2051,7 +2051,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randal's House | 308467 | [308467-randals-house.json](./308467-randals-house.json) |
 | Randal's Monday | 8783 | [8783-randals-monday.json](./8783-randals-monday.json) |
 | Randal's Tuesday | 248200 | [248200-randals-tuesday.json](./248200-randals-tuesday.json) |
-| Randall | 34659 | [34659-randall.json](./34659-randall.json) |
 | Randall the Grape Jelly Cube Goes to Soda Valley for Some Reason | 384556 | [384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json](./384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json) |
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
 | Randar II: Revenge of Death | 47520 | [47520-randar-ii-revenge-of-death.json](./47520-randar-ii-revenge-of-death.json) |
@@ -8112,7 +8111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Wired | 125775 | [125775-riddle-wired.json](./125775-riddle-wired.json) |
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
 | RiddleBridge | 86744 | [86744-riddlebridge.json](./86744-riddlebridge.json) |
-| Riddled Corpses | 35271 | [35271-riddled-corpses.json](./35271-riddled-corpses.json) |
 | Riddled Corpses EX | 97897 | [97897-riddled-corpses-ex.json](./97897-riddled-corpses-ex.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddler's Den | 26211 | [26211-riddlers-den.json](./26211-riddlers-den.json) |
