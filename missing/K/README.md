@@ -5191,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Back To School Edition | 263540 | [263540-knights-and-guns-back-to-school-edition.json](./263540-knights-and-guns-back-to-school-edition.json) |
 | Knights & Guns: Complete Edition | 280582 | [280582-knights-and-guns-complete-edition.json](./280582-knights-and-guns-complete-edition.json) |
 | Knights & Guns: Comprehensive Edition | 399820 | [399820-knights-and-guns-comprehensive-edition.json](./399820-knights-and-guns-comprehensive-edition.json) |
+| Knights & Guns: Core Edition | 396138 | [396138-knights-and-guns-core-edition.json](./396138-knights-and-guns-core-edition.json) |
 | Knights & Guns: Definitive Edition | 283141 | [283141-knights-and-guns-definitive-edition.json](./283141-knights-and-guns-definitive-edition.json) |
 | Knights & Guns: Deluxe Edition | 257532 | [257532-knights-and-guns-deluxe-edition.json](./257532-knights-and-guns-deluxe-edition.json) |
 | Knights & Guns: Diamond Edition | 271835 | [271835-knights-and-guns-diamond-edition.json](./271835-knights-and-guns-diamond-edition.json) |
