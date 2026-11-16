@@ -547,8 +547,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XBall Champion | 86232 | [86232-xball-champion.json](./86232-xball-champion.json) |
 | XBattle | 192104 | [192104-xbattle.json](./192104-xbattle.json) |
 | Xbird | 28424 | [28424-xbird.json](./28424-xbird.json) |
-| XBlaze Code: Embryo | 11636 | [11636-xblaze-code-embryo.json](./11636-xblaze-code-embryo.json) |
-| XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | Xbox Buddies | 138977 | [138977-xbox-buddies.json](./138977-xbox-buddies.json) |
 | Xbox Fitness | 19172 | [19172-xbox-fitness.json](./19172-xbox-fitness.json) |
 | Xbox Live Arcade | 267539 | [267539-xbox-live-arcade.json](./267539-xbox-live-arcade.json) |
@@ -569,7 +567,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2: Digital Deluxe Edition | 52119 | [52119-xcom-2-digital-deluxe-edition.json](./52119-xcom-2-digital-deluxe-edition.json) |
 | XCOM 2: Reinforcement Pack | 225099 | [225099-xcom-2-reinforcement-pack.json](./225099-xcom-2-reinforcement-pack.json) |
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
-| XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
 | XCOM 2: War of the Chosen - Tactical Legacy Pack | 110871 | [110871-xcom-2-war-of-the-chosen-tactical-legacy-pack.json](./110871-xcom-2-war-of-the-chosen-tactical-legacy-pack.json) |
 | XCOM Legends | 159035 | [159035-xcom-legends.json](./159035-xcom-legends.json) |
 | XCOM: Enemy Unknown - Elite Edition | 88607 | [88607-xcom-enemy-unknown-elite-edition.json](./88607-xcom-enemy-unknown-elite-edition.json) |
@@ -577,7 +574,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
 | XCOM: Enemy Unknown - The Complete Edition | 52118 | [52118-xcom-enemy-unknown-the-complete-edition.json](./52118-xcom-enemy-unknown-the-complete-edition.json) |
 | XCOM: Enemy Unknown Plus | 95365 | [95365-xcom-enemy-unknown-plus.json](./95365-xcom-enemy-unknown-plus.json) |
-| XCOM: Enemy Within | 143076 | [143076-xcom-enemy-within.json](./143076-xcom-enemy-within.json) |
 | XCOM: Enemy Within | 5894 | [5894-xcom-enemy-within.json](./5894-xcom-enemy-within.json) |
 | XCOM: Enemy Within - Commander Edition | 307236 | [307236-xcom-enemy-within-commander-edition.json](./307236-xcom-enemy-within-commander-edition.json) |
 | XCOM: Long War | 287457 | [287457-xcom-long-war.json](./287457-xcom-long-war.json) |
@@ -679,8 +675,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles: Collector's Edition | 50591 | [50591-xenoblade-chronicles-collectors-edition.json](./50591-xenoblade-chronicles-collectors-edition.json) |
 | Xenoblade Chronicles: Definitive Edition | 122238 | [122238-xenoblade-chronicles-definitive-edition.json](./122238-xenoblade-chronicles-definitive-edition.json) |
 | Xenoblade Chronicles: Definitive Edition - Collector's Set | 136777 | [136777-xenoblade-chronicles-definitive-edition-collectors-set.json](./136777-xenoblade-chronicles-definitive-edition-collectors-set.json) |
-| Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition | 405446 | [405446-xenoblade-chronicles-definitive-edition-nintendo-switch-2-edition.json](./405446-xenoblade-chronicles-definitive-edition-nintendo-switch-2-edition.json) |
-| Xenoblade Chronicles: Future Connected | 134328 | [134328-xenoblade-chronicles-future-connected.json](./134328-xenoblade-chronicles-future-connected.json) |
 | Xenoblade Genesis | 405450 | [405450-xenoblade-genesis.json](./405450-xenoblade-genesis.json) |
 | XenoBloom | 34734 | [34734-xenobloom.json](./34734-xenobloom.json) |
 | Xenobox VR | 43062 | [43062-xenobox-vr.json](./43062-xenobox-vr.json) |
@@ -719,7 +713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenon 2: Megablast | 12236 | [12236-xenon-2-megablast.json](./12236-xenon-2-megablast.json) |
 | Xenon 2: Megablast | 370487 | [370487-xenon-2-megablast.json](./370487-xenon-2-megablast.json) |
 | Xenon 2000 - Project PCF | 69771 | [69771-xenon-2000-project-pcf.json](./69771-xenon-2000-project-pcf.json) |
-| Xenon Racer | 110585 | [110585-xenon-racer.json](./110585-xenon-racer.json) |
 | Xenon Ranger | 60608 | [60608-xenon-ranger.json](./60608-xenon-ranger.json) |
 | Xenon Runner | 247443 | [247443-xenon-runner.json](./247443-xenon-runner.json) |
 | Xenon Valkyrie | 29949 | [29949-xenon-valkyrie.json](./29949-xenon-valkyrie.json) |
@@ -728,7 +721,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenophage | 35508 | [35508-xenophage.json](./35508-xenophage.json) |
 | Xenophage: Alien BloodSport | 47105 | [47105-xenophage-alien-bloodsport.json](./47105-xenophage-alien-bloodsport.json) |
-| Xenophobe | 12245 | [12245-xenophobe.json](./12245-xenophobe.json) |
 | Xenophobe | 290276 | [290276-xenophobe.json](./290276-xenophobe.json) |
 | Xenophon | 397484 | [397484-xenophon.json](./397484-xenophon.json) |
 | Xenopods | 79492 | [79492-xenopods.json](./79492-xenopods.json) |
@@ -752,11 +744,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoscape | 142886 | [142886-xenoscape.json](./142886-xenoscape.json) |
 | Xenoscape | 27287 | [27287-xenoscape.json](./27287-xenoscape.json) |
 | Xenoscape Online | 276579 | [276579-xenoscape-online.json](./276579-xenoscape-online.json) |
-| XenoShyft | 33848 | [33848-xenoshyft.json](./33848-xenoshyft.json) |
 | XenoShyft: Dreadmire | 170380 | [170380-xenoshyft-dreadmire.json](./170380-xenoshyft-dreadmire.json) |
 | XenoShyft: Forbidden Sciences | 170378 | [170378-xenoshyft-forbidden-sciences.json](./170378-xenoshyft-forbidden-sciences.json) |
 | XenoShyft: NorTec Elite | 170379 | [170379-xenoshyft-nortec-elite.json](./170379-xenoshyft-nortec-elite.json) |
 | XenoShyft: Psychogenics Lab | 159453 | [159453-xenoshyft-psychogenics-lab.json](./159453-xenoshyft-psychogenics-lab.json) |
+| Xenosis | 248251 | [248251-xenosis.json](./248251-xenosis.json) |
 | Xenosis: Alien Infection | 94913 | [94913-xenosis-alien-infection.json](./94913-xenosis-alien-infection.json) |
 | Xenoslaive Overdrive | 51501 | [51501-xenoslaive-overdrive.json](./51501-xenoslaive-overdrive.json) |
 | Xenosphere | 183709 | [183709-xenosphere.json](./183709-xenosphere.json) |
@@ -787,7 +779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeodrifter: Special Edition | 52117 | [52117-xeodrifter-special-edition.json](./52117-xeodrifter-special-edition.json) |
 | Xeonjia | 368915 | [368915-xeonjia.json](./368915-xeonjia.json) |
 | XeonMass | 256217 | [256217-xeonmass.json](./256217-xeonmass.json) |
-| Xera: Survival | 103538 | [103538-xera-survival.json](./103538-xera-survival.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
 | Xerix | 93458 | [93458-xerix.json](./93458-xerix.json) |
@@ -805,7 +796,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xetter 2020 | 364121 | [364121-xetter-2020.json](./364121-xetter-2020.json) |
 | Xevious | 284382 | [284382-xevious.json](./284382-xevious.json) |
 | Xevious 3D | 23394 | [23394-xevious-3d.json](./23394-xevious-3d.json) |
-| Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious 3D/G+ | 220149 | [220149-xevious-3d-g.json](./220149-xevious-3d-g.json) |
 | Xevious Arrangement | 229441 | [229441-xevious-arrangement.json](./229441-xevious-arrangement.json) |
 | Xevious Resurrection | 229454 | [229454-xevious-resurrection.json](./229454-xevious-resurrection.json) |
@@ -817,7 +807,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xevorel: The Way Of The Feather | 129215 | [129215-xevorel-the-way-of-the-feather.json](./129215-xevorel-the-way-of-the-feather.json) |
 | Xexex | 28052 | [28052-xexex.json](./28052-xexex.json) |
 | Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
-| Xexyz | 14413 | [14413-xexyz.json](./14413-xexyz.json) |
 | Xeyyex | 288458 | [288458-xeyyex.json](./288458-xeyyex.json) |
 | Xeyyex II: Colour Wars | 337925 | [337925-xeyyex-ii-colour-wars.json](./337925-xeyyex-ii-colour-wars.json) |
 | XEZI: A Silk Road Adventure | 248861 | [248861-xezi-a-silk-road-adventure.json](./248861-xezi-a-silk-road-adventure.json) |
@@ -982,7 +971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xna | 45968 | [45968-xna.json](./45968-xna.json) |
 | XNemesis | 34503 | [34503-xnemesis.json](./34503-xnemesis.json) |
 | xNetHack | 283536 | [283536-xnethack.json](./283536-xnethack.json) |
-| XO | 110270 | [110270-xo.json](./110270-xo.json) |
 | XO Evolved | 368001 | [368001-xo-evolved.json](./368001-xo-evolved.json) |
 | XO Master | 237956 | [237956-xo-master.json](./237956-xo-master.json) |
 | XO Patterns | 27730 | [27730-xo-patterns.json](./27730-xo-patterns.json) |
@@ -1026,7 +1014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
 | Xoru | 324973 | [324973-xoru.json](./324973-xoru.json) |
-| Xotic | 15085 | [15085-xotic.json](./15085-xotic.json) |
 | Xotic: Pipe Works Expansion Pack | 224385 | [224385-xotic-pipe-works-expansion-pack.json](./224385-xotic-pipe-works-expansion-pack.json) |
 | Xotic: Temple Crypt Expansion Pack | 224384 | [224384-xotic-temple-crypt-expansion-pack.json](./224384-xotic-temple-crypt-expansion-pack.json) |
 | Xotic: Warp Field Expansion Pack | 224383 | [224383-xotic-warp-field-expansion-pack.json](./224383-xotic-warp-field-expansion-pack.json) |
@@ -1040,7 +1027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XP Spelletjes | 281084 | [281084-xp-spelletjes.json](./281084-xp-spelletjes.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xpand Rally | 8034 | [8034-xpand-rally.json](./8034-xpand-rally.json) |
-| Xpand Rally Xtreme | 9310 | [9310-xpand-rally-xtreme.json](./9310-xpand-rally-xtreme.json) |
 | XpCade | 155955 | [155955-xpcade.json](./155955-xpcade.json) |
 | XPilot | 142943 | [142943-xpilot.json](./142943-xpilot.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
@@ -1136,7 +1122,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan-Yuan Sword 4: The Black Dragon Dances as the Storm Rages | 81534 | [81534-xuan-yuan-sword-4-the-black-dragon-dances-as-the-storm-rages.json](./81534-xuan-yuan-sword-4-the-black-dragon-dances-as-the-storm-rages.json) |
 | Xuan-Yuan Sword 5: A Sword Above the Clouds and the Sentiments of the World of Shanhai | 78050 | [78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json](./78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json) |
 | Xuan-Yuan Sword 6: The Phoenix Soars in the Sky among Millennial Clouds | 126039 | [126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json](./126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json) |
-| Xuan-Yuan Sword VII | 132675 | [132675-xuan-yuan-sword-vii.json](./132675-xuan-yuan-sword-vii.json) |
 | Xuan-Yuan Sword VII: Limited Edition | 167135 | [167135-xuan-yuan-sword-vii-limited-edition.json](./167135-xuan-yuan-sword-vii-limited-edition.json) |
 | Xuan-Yuan Sword: Dance of the Maple Leaves | 78056 | [78056-xuan-yuan-sword-dance-of-the-maple-leaves.json](./78056-xuan-yuan-sword-dance-of-the-maple-leaves.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
