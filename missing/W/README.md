@@ -235,6 +235,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Secret | 169835 | [169835-waifu-secret.json](./169835-waifu-secret.json) |
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
 | Waifu Simulator | 326307 | [326307-waifu-simulator.json](./326307-waifu-simulator.json) |
+| Waifu Simulator: Beach Edition | 326313 | [326313-waifu-simulator-beach-edition.json](./326313-waifu-simulator-beach-edition.json) |
+| Waifu Simulator: Christmas Edition | 326309 | [326309-waifu-simulator-christmas-edition.json](./326309-waifu-simulator-christmas-edition.json) |
+| Waifu Simulator: Furry Edition | 326314 | [326314-waifu-simulator-furry-edition.json](./326314-waifu-simulator-furry-edition.json) |
+| Waifu Simulator: Horem Edition | 326310 | [326310-waifu-simulator-horem-edition.json](./326310-waifu-simulator-horem-edition.json) |
+| Waifu Simulator: Latex Edition | 326311 | [326311-waifu-simulator-latex-edition.json](./326311-waifu-simulator-latex-edition.json) |
 | Waifu Slumber Party | 384715 | [384715-waifu-slumber-party.json](./384715-waifu-slumber-party.json) |
 | Waifu Space Conquest | 250383 | [250383-waifu-space-conquest.json](./250383-waifu-space-conquest.json) |
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
@@ -2741,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Festa | 291320 | [291320-water-festa.json](./291320-water-festa.json) |
 | Water Fire | 277688 | [277688-water-fire.json](./277688-water-fire.json) |
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
+| Water Game Simulator | 326312 | [326312-water-game-simulator.json](./326312-water-game-simulator.json) |
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
 | Water ha Ore no Musume | 195334 | [195334-water-ha-ore-no-musume.json](./195334-water-ha-ore-no-musume.json) |
 | Water Heroes: A Game for Change | 31252 | [31252-water-heroes-a-game-for-change.json](./31252-water-heroes-a-game-for-change.json) |
@@ -5406,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is the Red Queen? | 202474 | [202474-who-is-the-red-queen.json](./202474-who-is-the-red-queen.json) |
 | Who is There? | 221761 | [221761-who-is-there.json](./221761-who-is-there.json) |
 | Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
+| Who Is Who | 328712 | [328712-who-is-who.json](./328712-who-is-who.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
 | Who Is Your Prince? In the Rich School | 255882 | [255882-who-is-your-prince-in-the-rich-school.json](./255882-who-is-your-prince-in-the-rich-school.json) |
 | Who Is Zombie | 192084 | [192084-who-is-zombie.json](./192084-who-is-zombie.json) |
@@ -7685,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry V: Heart of the Maelstrom | 10495 | [10495-wizardry-v-heart-of-the-maelstrom.json](./10495-wizardry-v-heart-of-the-maelstrom.json) |
 | Wizardry Variants: Daphne | 150013 | [150013-wizardry-variants-daphne.json](./150013-wizardry-variants-daphne.json) |
 | Wizardry VI & VII Complete | 125574 | [125574-wizardry-vi-and-vii-complete.json](./125574-wizardry-vi-and-vii-complete.json) |
+| Wizardry VII: Gadeia no Houshu | 328693 | [328693-wizardry-vii-gadeia-no-houshu.json](./328693-wizardry-vii-gadeia-no-houshu.json) |
 | Wizardry Xth: Mugen no Gakuto - Unlimited Students | 14698 | [14698-wizardry-xth-mugen-no-gakuto-unlimited-students.json](./14698-wizardry-xth-mugen-no-gakuto-unlimited-students.json) |
 | Wizardry Xth: Zensen no Gakufu - Academy of Frontier | 14695 | [14695-wizardry-xth-zensen-no-gakufu-academy-of-frontier.json](./14695-wizardry-xth-zensen-no-gakufu-academy-of-frontier.json) |
 | Wizardry: Bane of the Cosmic Forge | 10496 | [10496-wizardry-bane-of-the-cosmic-forge.json](./10496-wizardry-bane-of-the-cosmic-forge.json) |
@@ -7784,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WJMax | 233848 | [233848-wjmax.json](./233848-wjmax.json) |
 | WKSP Rumble | 156880 | [156880-wksp-rumble.json](./156880-wksp-rumble.json) |
 | Władcy Ciemności | 85961 | [85961-w-adcy-ciemnosci.json](./85961-w-adcy-ciemnosci.json) |
+| Wladyslaw | 315178 | [315178-wladyslaw.json](./315178-wladyslaw.json) |
 | Włatcy Móch Wrzód na Dópie | 94964 | [94964-w-atcy-moch-wrzod-na-dopie.json](./94964-w-atcy-moch-wrzod-na-dopie.json) |
 | Włatcy Móch: Magiczni Wojownicy II | 416500 | [416500-w-atcy-moch-magiczni-wojownicy-ii.json](./416500-w-atcy-moch-magiczni-wojownicy-ii.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
@@ -7871,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Chapel Revisit | 268917 | [268917-wolf-chapel-revisit.json](./268917-wolf-chapel-revisit.json) |
 | Wolf Commando | 414138 | [414138-wolf-commando.json](./414138-wolf-commando.json) |
 | Wolf Evolution: Merge and Create Mutant Wild Dogs | 95891 | [95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json](./95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json) |
+| Wolf Fang | 320501 | [320501-wolf-fang.json](./320501-wolf-fang.json) |
 | Wolf Fang: Kuhga 2001 | 377549 | [377549-wolf-fang-kuhga-2001.json](./377549-wolf-fang-kuhga-2001.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
@@ -7893,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Sheep & Cabbage | 381383 | [381383-wolf-sheep-and-cabbage.json](./381383-wolf-sheep-and-cabbage.json) |
 | Wolf Sheep Cabbage | 276580 | [276580-wolf-sheep-cabbage.json](./276580-wolf-sheep-cabbage.json) |
+| Wolf Sim: Animal Battle Survival RPG | 324036 | [324036-wolf-sim-animal-battle-survival-rpg.json](./324036-wolf-sim-animal-battle-survival-rpg.json) |
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Simulator | 258514 | [258514-wolf-simulator.json](./258514-wolf-simulator.json) |
 | Wolf Simulator | 32481 | [32481-wolf-simulator.json](./32481-wolf-simulator.json) |
