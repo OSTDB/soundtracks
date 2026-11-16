@@ -5,6 +5,7 @@
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/b4/99/39b4998e-709e-48f0-015d-62fd34c97fc9/5584510154835_cover.jpg/600x600bb.jpg" width="60" /> | [Habromania](https://ostdb.net/games/habromania) | **HABROMANIA (Original Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/habromania-original-game-soundtrack/1846580881?uo=4) · [Album](https://album.link/i/1846580881) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273793e55af935c942a5074cf0d" width="60" /> | [Hackmud](https://ostdb.net/games/hackmud) | **Hackmud: Volume 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5hC1Zyj7wp3olaN989PNDz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735cc6f8d6755c00e5b36f3ea5" width="60" /> | [Hacknet](https://ostdb.net/games/hacknet) | **Hacknet (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5yejRP84ci0mlHh0ttnvH3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334081de9218c5014fefa5ecc" width="60" /> | [Hades](https://ostdb.net/games/hades) | **Hades: Original Soundtrack** · [Spotify](https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389ebad2a3639189d9ecd8ee4" width="60" /> | [Hades II](https://ostdb.net/games/hades-ii) | **Hades II (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/57mGfvVFvAuGhzS1RlNzvm) |
