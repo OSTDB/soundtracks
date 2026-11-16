@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
 | Hangman | 228272 | [228272-hangman.json](./228272-hangman.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
+| Hangman | 239944 | [239944-hangman.json](./239944-hangman.json) |
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
 | Hangman | 275771 | [275771-hangman.json](./275771-hangman.json) |
 | Hangman | 285157 | [285157-hangman.json](./285157-hangman.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Helping Your Boyfriend | 421544 | [421544-helping-your-boyfriend.json](./421544-helping-your-boyfriend.json) |
 | Helpless | 153031 | [153031-helpless.json](./153031-helpless.json) |
+| Helpless | 239846 | [239846-helpless.json](./239846-helpless.json) |
 | Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
 | Helrift | 373498 | [373498-helrift.json](./373498-helrift.json) |
 | Helsing's Fire | 66492 | [66492-helsings-fire.json](./66492-helsings-fire.json) |
