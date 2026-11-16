@@ -10954,6 +10954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomocracy! And The Wand Of Ages | 414020 | [414020-shroomocracy-and-the-wand-of-ages.json](./414020-shroomocracy-and-the-wand-of-ages.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
+| Shroomveil | 381489 | [381489-shroomveil.json](./381489-shroomveil.json) |
 | Shrot | 291382 | [291382-shrot.json](./291382-shrot.json) |
 | Shrot | 377185 | [377185-shrot.json](./377185-shrot.json) |
 | Shroud | 295999 | [295999-shroud.json](./295999-shroud.json) |
@@ -24085,6 +24086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
 | Spelldrifter | 125504 | [125504-spelldrifter.json](./125504-spelldrifter.json) |
 | Spellers | 199719 | [199719-spellers.json](./199719-spellers.json) |
+| Spellevator | 381486 | [381486-spellevator.json](./381486-spellevator.json) |
 | Spellfall | 60072 | [60072-spellfall.json](./60072-spellfall.json) |
 | Spellfall: Last Mage Standing | 390025 | [390025-spellfall-last-mage-standing.json](./390025-spellfall-last-mage-standing.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
