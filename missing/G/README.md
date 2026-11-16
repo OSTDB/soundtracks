@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of the Sea | 336717 | [336717-garden-of-the-sea.json](./336717-garden-of-the-sea.json) |
 | Garden of the Sea VR | 119339 | [119339-garden-of-the-sea-vr.json](./119339-garden-of-the-sea-vr.json) |
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
+| Garden of Witches | 318093 | [318093-garden-of-witches.json](./318093-garden-of-witches.json) |
 | Garden of Words | 105838 | [105838-garden-of-words.json](./105838-garden-of-words.json) |
 | Garden Paradise | 305937 | [305937-garden-paradise.json](./305937-garden-paradise.json) |
 | Garden Party Shop | 359399 | [359399-garden-party-shop.json](./359399-garden-party-shop.json) |
@@ -4671,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoulboy | 76023 | [76023-ghoulboy.json](./76023-ghoulboy.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
 | Ghouli Hunter | 378124 | [378124-ghouli-hunter.json](./378124-ghouli-hunter.json) |
+| Ghoulie's Garden | 324029 | [324029-ghoulies-garden.json](./324029-ghoulies-garden.json) |
 | Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
 | Ghouls 'n Ghosts | 262502 | [262502-ghouls-n-ghosts.json](./262502-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts | 262503 | [262503-ghouls-n-ghosts.json](./262503-ghouls-n-ghosts.json) |
@@ -7378,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: The Heart of the State | 372218 | [372218-golden-rails-the-heart-of-the-state.json](./372218-golden-rails-the-heart-of-the-state.json) |
 | Golden Rails: The Heart of the State - Collector's Edition | 338773 | [338773-golden-rails-the-heart-of-the-state-collectors-edition.json](./338773-golden-rails-the-heart-of-the-state-collectors-edition.json) |
 | Golden Rails: Valuable Package | 315899 | [315899-golden-rails-valuable-package.json](./315899-golden-rails-valuable-package.json) |
+| Golden Rails: Valuable Package - Collector's Edition | 328717 | [328717-golden-rails-valuable-package-collectors-edition.json](./328717-golden-rails-valuable-package-collectors-edition.json) |
 | Golden Rails: World's Fair | 213559 | [213559-golden-rails-worlds-fair.json](./213559-golden-rails-worlds-fair.json) |
 | Golden Rainbow Slot Simulator | 88734 | [88734-golden-rainbow-slot-simulator.json](./88734-golden-rainbow-slot-simulator.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
@@ -7859,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Bye Rebeca | 151573 | [151573-good-bye-rebeca.json](./151573-good-bye-rebeca.json) |
 | Good Catch! | 391682 | [391682-good-catch.json](./391682-good-catch.json) |
 | Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
+| Good Coffee, Great Coffee | 327471 | [327471-good-coffee-great-coffee.json](./327471-good-coffee-great-coffee.json) |
 | Good Company | 107754 | [107754-good-company.json](./107754-good-company.json) |
 | Good Day | 186401 | [186401-good-day.json](./186401-good-day.json) |
 | Good Dirt | 414730 | [414730-good-dirt.json](./414730-good-dirt.json) |
@@ -9024,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
 | Grand Theft Auto: Collector's Edition | 43853 | [43853-grand-theft-auto-collectors-edition.json](./43853-grand-theft-auto-collectors-edition.json) |
+| Grand Theft Auto: Director's Cut | 327467 | [327467-grand-theft-auto-directors-cut.json](./327467-grand-theft-auto-directors-cut.json) |
 | Grand Theft Auto: Double Pack | 119155 | [119155-grand-theft-auto-double-pack.json](./119155-grand-theft-auto-double-pack.json) |
 | Grand Theft Auto: Episodes from Liberty City | 7003 | [7003-grand-theft-auto-episodes-from-liberty-city.json](./7003-grand-theft-auto-episodes-from-liberty-city.json) |
 | Grand Theft Auto: Forelli Redemption | 268042 | [268042-grand-theft-auto-forelli-redemption.json](./268042-grand-theft-auto-forelli-redemption.json) |
@@ -9303,6 +9308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grassland Survivors | 279796 | [279796-grassland-survivors.json](./279796-grassland-survivors.json) |
 | Grater | 115629 | [115629-grater.json](./115629-grater.json) |
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
+| Gratis | 320624 | [320624-gratis.json](./320624-gratis.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
 | Gratuitous Space Battles | 6256 | [6256-gratuitous-space-battles.json](./6256-gratuitous-space-battles.json) |
 | Gratuitous Space Battles: Galactic Conquest | 164341 | [164341-gratuitous-space-battles-galactic-conquest.json](./164341-gratuitous-space-battles-galactic-conquest.json) |
@@ -12740,6 +12746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | GunWorld: Xbox One Edition | 82544 | [82544-gunworld-xbox-one-edition.json](./82544-gunworld-xbox-one-edition.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
+| Gunz & Golf | 320571 | [320571-gunz-and-golf.json](./320571-gunz-and-golf.json) |
 | GunZ 2: The Second Duel | 16558 | [16558-gunz-2-the-second-duel.json](./16558-gunz-2-the-second-duel.json) |
 | GunZ: The Duel | 80594 | [80594-gunz-the-duel.json](./80594-gunz-the-duel.json) |
 | Gunzle | 313450 | [313450-gunzle.json](./313450-gunzle.json) |
