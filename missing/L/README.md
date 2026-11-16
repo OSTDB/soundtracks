@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last War | 285070 | [285070-last-war.json](./285070-last-war.json) |
 | Last War 2044 | 89406 | [89406-last-war-2044.json](./89406-last-war-2044.json) |
 | Last War: Apocalypse Strikes | 74891 | [74891-last-war-apocalypse-strikes.json](./74891-last-war-apocalypse-strikes.json) |
+| Last War: World Edition | 351314 | [351314-last-war-world-edition.json](./351314-last-war-world-edition.json) |
 | Last warrior | 120584 | [120584-last-warrior.json](./120584-last-warrior.json) |
 | Last Warrior | 266713 | [266713-last-warrior.json](./266713-last-warrior.json) |
 | Last Warrior Arena | 263800 | [263800-last-warrior-arena.json](./263800-last-warrior-arena.json) |
@@ -4729,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lex Talionis A | 337330 | [337330-lex-talionis-a.json](./337330-lex-talionis-a.json) |
 | Lex Venture: A Crossword Caper | 324598 | [324598-lex-venture-a-crossword-caper.json](./324598-lex-venture-a-crossword-caper.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
+| Lexgrid | 354658 | [354658-lexgrid.json](./354658-lexgrid.json) |
 | Lexi | 415625 | [415625-lexi.json](./415625-lexi.json) |
 | Lexi-Cross | 47117 | [47117-lexi-cross.json](./47117-lexi-cross.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
@@ -6570,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Rabbits | 129451 | [129451-little-big-rabbits.json](./129451-little-big-rabbits.json) |
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
 | Little Big Snake | 108928 | [108928-little-big-snake.json](./108928-little-big-snake.json) |
+| Little Big Space | 351326 | [351326-little-big-space.json](./351326-little-big-space.json) |
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
 | Little Big Workshop: The Evil | 155170 | [155170-little-big-workshop-the-evil.json](./155170-little-big-workshop-the-evil.json) |
 | Little Bigfoot | 57797 | [57797-little-bigfoot.json](./57797-little-bigfoot.json) |
@@ -6723,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Guardians: The Last Hope | 418878 | [418878-little-guardians-the-last-hope.json](./418878-little-guardians-the-last-hope.json) |
 | Little Guy Adventure | 240439 | [240439-little-guy-adventure.json](./240439-little-guy-adventure.json) |
 | Little Guy in Hell Fighting Demons | 337374 | [337374-little-guy-in-hell-fighting-demons.json](./337374-little-guy-in-hell-fighting-demons.json) |
+| Little H.O.P.E. | 360805 | [360805-little-h-o-p-e.json](./360805-little-h-o-p-e.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hats | 155880 | [155880-little-hats.json](./155880-little-hats.json) |
 | Little Hawk | 36772 | [36772-little-hawk.json](./36772-little-hawk.json) |
@@ -11177,6 +11181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunaria Fantasia | 338101 | [338101-lunaria-fantasia.json](./338101-lunaria-fantasia.json) |
 | Lunaria Story | 61770 | [61770-lunaria-story.json](./61770-lunaria-story.json) |
 | Lunaris | 353947 | [353947-lunaris.json](./353947-lunaris.json) |
+| Lunarity | 360808 | [360808-lunarity.json](./360808-lunarity.json) |
 | Lunarium | 301234 | [301234-lunarium.json](./301234-lunarium.json) |
 | LunarLux | 134188 | [134188-lunarlux.json](./134188-lunarlux.json) |
 | Lunarpunk | 256565 | [256565-lunarpunk.json](./256565-lunarpunk.json) |
@@ -11310,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurking for Love | 297689 | [297689-lurking-for-love.json](./297689-lurking-for-love.json) |
 | Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
 | Lurking II: A Madness | 183667 | [183667-lurking-ii-a-madness.json](./183667-lurking-ii-a-madness.json) |
+| Lurking In Fear | 360813 | [360813-lurking-in-fear.json](./360813-lurking-in-fear.json) |
 | Lurking in the Dark | 163110 | [163110-lurking-in-the-dark.json](./163110-lurking-in-the-dark.json) |
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
 | Lurking Within | 416804 | [416804-lurking-within.json](./416804-lurking-within.json) |
