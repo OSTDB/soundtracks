@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
 | Jack O Lantern | 103144 | [103144-jack-o-lantern.json](./103144-jack-o-lantern.json) |
 | Jack of All Trades | 54133 | [54133-jack-of-all-trades.json](./54133-jack-of-all-trades.json) |
+| Jack of All Tribes | 415579 | [415579-jack-of-all-tribes.json](./415579-jack-of-all-tribes.json) |
 | Jack of All Worlds | 384273 | [384273-jack-of-all-worlds.json](./384273-jack-of-all-worlds.json) |
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
 | Jack of Skies | 176833 | [176833-jack-of-skies.json](./176833-jack-of-skies.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jarokn Cricket 2 | 62176 | [62176-jarokn-cricket-2.json](./62176-jarokn-cricket-2.json) |
 | Jarokn Tic-Tac-Toe Club | 62630 | [62630-jarokn-tic-tac-toe-club.json](./62630-jarokn-tic-tac-toe-club.json) |
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
+| Jarred Defense | 417727 | [417727-jarred-defense.json](./417727-jarred-defense.json) |
 | Jarrett & Labonte Stock Car Racing | 80496 | [80496-jarrett-and-labonte-stock-car-racing.json](./80496-jarrett-and-labonte-stock-car-racing.json) |
 | Jars | 167184 | [167184-jars.json](./167184-jars.json) |
 | Jars' Revenge | 41168 | [41168-jars-revenge.json](./41168-jars-revenge.json) |
@@ -2486,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
 | Jith-Win-Yarn | 74164 | [74164-jith-win-yarn.json](./74164-jith-win-yarn.json) |
 | Jitsu Squad | 145440 | [145440-jitsu-squad.json](./145440-jitsu-squad.json) |
+| Jitsuni Hana Nari Sousabuyo -Brother In Arms- | 415559 | [415559-jitsuni-hana-nari-sousabuyo-brother-in-arms.json](./415559-jitsuni-hana-nari-sousabuyo-brother-in-arms.json) |
 | Jitsuroku Oniyome Nikki | 56813 | [56813-jitsuroku-oniyome-nikki.json](./56813-jitsuroku-oniyome-nikki.json) |
 | Jitsuroku Powerful Yakyuuken: Slugger Yamada | 256053 | [256053-jitsuroku-powerful-yakyuuken-slugger-yamada.json](./256053-jitsuroku-powerful-yakyuuken-slugger-yamada.json) |
 | Jitsuryoku!! Pro Yakyuu | 40211 | [40211-jitsuryoku-pro-yakyuu.json](./40211-jitsuryoku-pro-yakyuu.json) |
