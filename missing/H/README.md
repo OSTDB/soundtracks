@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Circus | 325495 | [325495-hardcore-circus.json](./325495-hardcore-circus.json) |
 | Hardcore Cottagecore | 285275 | [285275-hardcore-cottagecore.json](./285275-hardcore-cottagecore.json) |
 | Hardcore Cruising: A Sci-Fi Gay Sex Cruise! | 173872 | [173872-hardcore-cruising-a-sci-fi-gay-sex-cruise.json](./173872-hardcore-cruising-a-sci-fi-gay-sex-cruise.json) |
+| Hardcore Cyborg | 417082 | [417082-hardcore-cyborg.json](./417082-hardcore-cyborg.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Knight! | 360824 | [360824-hardcore-knight.json](./360824-hardcore-knight.json) |
@@ -3388,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
 | Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
 | Haywire on Fuel Station Zeta | 35297 | [35297-haywire-on-fuel-station-zeta.json](./35297-haywire-on-fuel-station-zeta.json) |
+| Haywired Prototype | 417125 | [417125-haywired-prototype.json](./417125-haywired-prototype.json) |
 | Hazama_Queen | 246561 | [246561-hazama-queen.json](./246561-hazama-queen.json) |
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard | 186147 | [186147-hazard.json](./186147-hazard.json) |
@@ -5357,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HemiRoids | 229020 | [229020-hemiroids.json](./229020-hemiroids.json) |
 | Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
 | Hemlon the Grey | 408721 | [408721-hemlon-the-grey.json](./408721-hemlon-the-grey.json) |
+| Hemlotrion: Broken Mirror | 417120 | [417120-hemlotrion-broken-mirror.json](./417120-hemlotrion-broken-mirror.json) |
 | Hemo Racers | 176123 | [176123-hemo-racers.json](./176123-hemo-racers.json) |
 | Hemobloom | 373263 | [373263-hemobloom.json](./373263-hemobloom.json) |
 | Hemoglobin Project | 177978 | [177978-hemoglobin-project.json](./177978-hemoglobin-project.json) |
@@ -7274,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Jump | 264208 | [264208-hex-jump.json](./264208-hex-jump.json) |
 | Hex Kingdoms | 119882 | [119882-hex-kingdoms.json](./119882-hex-kingdoms.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
+| Hex Mech Ball | 417126 | [417126-hex-mech-ball.json](./417126-hex-mech-ball.json) |
 | Hex Mechs | 103555 | [103555-hex-mechs.json](./103555-hex-mechs.json) |
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
@@ -9938,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Out | 113018 | [113018-hold-out.json](./113018-hold-out.json) |
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Core | 403779 | [403779-hold-the-core.json](./403779-hold-the-core.json) |
+| Hold the Dawn | 417080 | [417080-hold-the-dawn.json](./417080-hold-the-dawn.json) |
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
 | Hold the Door! | 32054 | [32054-hold-the-door.json](./32054-hold-the-door.json) |
 | Hold the Dots! | 153044 | [153044-hold-the-dots.json](./153044-hold-the-dots.json) |
@@ -10162,6 +10167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Mission | 242960 | [242960-hollow-mission.json](./242960-hollow-mission.json) |
 | Hollow Ones | 422102 | [422102-hollow-ones.json](./422102-hollow-ones.json) |
 | Hollow Overhaul | 317521 | [317521-hollow-overhaul.json](./317521-hollow-overhaul.json) |
+| Hollow Parish: Dead Frequency | 417075 | [417075-hollow-parish-dead-frequency.json](./417075-hollow-parish-dead-frequency.json) |
 | Hollow Park | 203184 | [203184-hollow-park.json](./203184-hollow-park.json) |
 | Hollow Police Emblem: The Visual Novel | 308518 | [308518-hollow-police-emblem-the-visual-novel.json](./308518-hollow-police-emblem-the-visual-novel.json) |
 | Hollow Sector | 418419 | [418419-hollow-sector.json](./418419-hollow-sector.json) |
@@ -12882,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How to Win at Rock Paper Scissors | 57506 | [57506-how-to-win-at-rock-paper-scissors.json](./57506-how-to-win-at-rock-paper-scissors.json) |
 | How to: Superhero! | 325396 | [325396-how-to-superhero.json](./325396-how-to-superhero.json) |
+| How True Is This Rumor? Urban Legend Mystery | 417868 | [417868-how-true-is-this-rumor-urban-legend-mystery.json](./417868-how-true-is-this-rumor-urban-legend-mystery.json) |
 | How Visual Novels Changed My Life | 57211 | [57211-how-visual-novels-changed-my-life.json](./57211-how-visual-novels-changed-my-life.json) |
 | How Was Your Day? | 334902 | [334902-how-was-your-day.json](./334902-how-was-your-day.json) |
 | How We Die | 133191 | [133191-how-we-die.json](./133191-how-we-die.json) |
@@ -14543,6 +14550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
 | Hypt | 35488 | [35488-hypt.json](./35488-hypt.json) |
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
+| Hyranies CCG | 417831 | [417831-hyranies-ccg.json](./417831-hyranies-ccg.json) |
 | Hyrax Hill | 419963 | [419963-hyrax-hill.json](./419963-hyrax-hill.json) |
 | Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
 | Hyrule Warriors: A Link Between Worlds Pack | 95047 | [95047-hyrule-warriors-a-link-between-worlds-pack.json](./95047-hyrule-warriors-a-link-between-worlds-pack.json) |
