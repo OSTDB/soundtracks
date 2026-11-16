@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janitorial Escapism | 402428 | [402428-janitorial-escapism.json](./402428-janitorial-escapism.json) |
 | Janitron | 376596 | [376596-janitron.json](./376596-janitron.json) |
 | Jank Cube VR | 260568 | [260568-jank-cube-vr.json](./260568-jank-cube-vr.json) |
+| Jank Saves the World | 217040 | [217040-jank-saves-the-world.json](./217040-jank-saves-the-world.json) |
 | Janka | 97804 | [97804-janka.json](./97804-janka.json) |
 | JankBrain | 142583 | [142583-jankbrain.json](./142583-jankbrain.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
