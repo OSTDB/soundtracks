@@ -6351,7 +6351,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4 HD Project | 262541 | [262541-resident-evil-4-hd-project.json](./262541-resident-evil-4-hd-project.json) |
 | Resident Evil 4: A Nightmare of Evil | 351585 | [351585-resident-evil-4-a-nightmare-of-evil.json](./351585-resident-evil-4-a-nightmare-of-evil.json) |
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
+| Resident Evil 4: Collector's Edition | 222558 | [222558-resident-evil-4-collectors-edition.json](./222558-resident-evil-4-collectors-edition.json) |
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
+| Resident Evil 4: Deluxe Edition | 222557 | [222557-resident-evil-4-deluxe-edition.json](./222557-resident-evil-4-deluxe-edition.json) |
 | Resident Evil 4: Extra DLC Pack | 266401 | [266401-resident-evil-4-extra-dlc-pack.json](./266401-resident-evil-4-extra-dlc-pack.json) |
 | Resident Evil 4: GameStop Special Edition | 9668 | [9668-resident-evil-4-gamestop-special-edition.json](./9668-resident-evil-4-gamestop-special-edition.json) |
 | Resident Evil 4: Gold Edition | 284920 | [284920-resident-evil-4-gold-edition.json](./284920-resident-evil-4-gold-edition.json) |
@@ -6440,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Village: The Mercenaries - Additional Orders | 230974 | [230974-resident-evil-village-the-mercenaries-additional-orders.json](./230974-resident-evil-village-the-mercenaries-additional-orders.json) |
 | Resident Evil Village: VR Mode | 324804 | [324804-resident-evil-village-vr-mode.json](./324804-resident-evil-village-vr-mode.json) |
 | Resident Evil Village: Winters' Expansion | 204721 | [204721-resident-evil-village-winters-expansion.json](./204721-resident-evil-village-winters-expansion.json) |
+| Resident Evil Village: Winters' Expansion - Cloud Version | 222561 | [222561-resident-evil-village-winters-expansion-cloud-version.json](./222561-resident-evil-village-winters-expansion-cloud-version.json) |
 | Resident Evil Zero | 970 | [970-resident-evil-zero.json](./970-resident-evil-zero.json) |
 | Resident Evil: Barry's Mod | 404003 | [404003-resident-evil-barrys-mod.json](./404003-resident-evil-barrys-mod.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
