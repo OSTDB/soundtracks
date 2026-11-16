@@ -14923,6 +14923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Limited Edition | 24189 | [24189-company-of-heroes-limited-edition.json](./24189-company-of-heroes-limited-edition.json) |
 | Company of Heroes: Modern Combat | 127895 | [127895-company-of-heroes-modern-combat.json](./127895-company-of-heroes-modern-combat.json) |
 | Company of Heroes: Tales of Valor | 1371 | [1371-company-of-heroes-tales-of-valor.json](./1371-company-of-heroes-tales-of-valor.json) |
+| Company Tycoon | 412628 | [412628-company-tycoon.json](./412628-company-tycoon.json) |
 | Compare the Meerkat | 313280 | [313280-compare-the-meerkat.json](./313280-compare-the-meerkat.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Compass | 344160 | [344160-compass.json](./344160-compass.json) |
