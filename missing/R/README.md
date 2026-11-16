@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | Ratking | 271600 | [271600-ratking.json](./271600-ratking.json) |
 | Ratman | 230090 | [230090-ratman.json](./230090-ratman.json) |
+| Ratman | 358548 | [358548-ratman.json](./358548-ratman.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
 | Ratmaze Nightmare | 416891 | [416891-ratmaze-nightmare.json](./416891-ratmaze-nightmare.json) |
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
@@ -4678,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
 | Red: The beginning of the Melody | 120446 | [120446-red-the-beginning-of-the-melody.json](./120446-red-the-beginning-of-the-melody.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
+| Red's Ascent | 347954 | [347954-reds-ascent.json](./347954-reds-ascent.json) |
 | Red's Kingdom & Storm in a Teacup | 303976 | [303976-reds-kingdom-and-storm-in-a-teacup.json](./303976-reds-kingdom-and-storm-in-a-teacup.json) |
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
 | Redact | 353761 | [353761-redact.json](./353761-redact.json) |
@@ -9709,6 +9711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadside Assistance Simulator | 154268 | [154268-roadside-assistance-simulator.json](./154268-roadside-assistance-simulator.json) |
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
 | Roadside Egg Stand | 342310 | [342310-roadside-egg-stand.json](./342310-roadside-egg-stand.json) |
+| Roadside In Hell | 358557 | [358557-roadside-in-hell.json](./358557-roadside-in-hell.json) |
 | Roadside Store Simulator | 382741 | [382741-roadside-store-simulator.json](./382741-roadside-store-simulator.json) |
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
 | Roadster Race | 426388 | [426388-roadster-race.json](./426388-roadster-race.json) |
@@ -14072,6 +14075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory: A Fantasy Harvest Moon | 20767 | [20767-rune-factory-a-fantasy-harvest-moon.json](./20767-rune-factory-a-fantasy-harvest-moon.json) |
 | Rune Factory: Guardians of Azuma - Digital Deluxe DLC Set | 359666 | [359666-rune-factory-guardians-of-azuma-digital-deluxe-dlc-set.json](./359666-rune-factory-guardians-of-azuma-digital-deluxe-dlc-set.json) |
 | Rune Factory: Guardians of Azuma - Rune Factory 4 Bachelorette Outfit Bundle | 351193 | [351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json](./351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json) |
+| Rune Factory: Guardians of Azuma - Sakuna DLC | 350076 | [350076-rune-factory-guardians-of-azuma-sakuna-dlc.json](./350076-rune-factory-guardians-of-azuma-sakuna-dlc.json) |
 | Rune Factory: Guardians of Azuma - Story of Seasons Bundle | 377761 | [377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json](./377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json) |
 | Rune Factory: Guardians of Azuma - Super Digital Deluxe DLC Set | 359665 | [359665-rune-factory-guardians-of-azuma-super-digital-deluxe-dlc-set.json](./359665-rune-factory-guardians-of-azuma-super-digital-deluxe-dlc-set.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
