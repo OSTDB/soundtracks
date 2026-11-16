@@ -3515,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade Your Weapon: Shooter | 219959 | [219959-upgrade-your-weapon-shooter.json](./219959-upgrade-your-weapon-shooter.json) |
 | Upgrade! Inc. | 394309 | [394309-upgrade-inc.json](./394309-upgrade-inc.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
+| Upgrader | 235531 | [235531-upgrader.json](./235531-upgrader.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
 | Uph! | 157123 | [157123-uph.json](./157123-uph.json) |
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
