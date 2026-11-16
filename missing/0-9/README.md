@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Easter Cats | 416422 | [416422-100-easter-cats.json](./416422-100-easter-cats.json) |
 | 100 Easy Maths | 423069 | [423069-100-easy-maths.json](./423069-100-easy-maths.json) |
 | 100 Egypt Cats | 304666 | [304666-100-egypt-cats.json](./304666-100-egypt-cats.json) |
+| 100 Factory Cats | 387776 | [387776-100-factory-cats.json](./387776-100-factory-cats.json) |
 | 100 Fairyland Cats | 416423 | [416423-100-fairyland-cats.json](./416423-100-fairyland-cats.json) |
 | 100 Familien Spiele | 91608 | [91608-100-familien-spiele.json](./91608-100-familien-spiele.json) |
 | 100 Fantasy Cats | 315288 | [315288-100-fantasy-cats.json](./315288-100-fantasy-cats.json) |
@@ -669,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Funny Cats | 291200 | [291200-100-funny-cats.json](./291200-100-funny-cats.json) |
 | 100 Funny Cats: Extra Content | 294245 | [294245-100-funny-cats-extra-content.json](./294245-100-funny-cats-extra-content.json) |
 | 100 Gates | 327614 | [327614-100-gates.json](./327614-100-gates.json) |
+| 100 Goblin Cats | 387772 | [387772-100-goblin-cats.json](./387772-100-goblin-cats.json) |
 | 100 Goldmine Cats | 382336 | [382336-100-goldmine-cats.json](./382336-100-goldmine-cats.json) |
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Halloweens | 265726 | [265726-100-halloweens.json](./265726-100-halloweens.json) |
@@ -738,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
+| 100 Madagascar Cats | 387774 | [387774-100-madagascar-cats.json](./387774-100-madagascar-cats.json) |
 | 100 Man-Yen Quiz Hunter | 265908 | [265908-100-man-yen-quiz-hunter.json](./265908-100-man-yen-quiz-hunter.json) |
 | 100 Manri no Winning Post | 57801 | [57801-100-manri-no-winning-post.json](./57801-100-manri-no-winning-post.json) |
 | 100 March Cats | 288728 | [288728-100-march-cats.json](./288728-100-march-cats.json) |
@@ -752,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Mushroom Cats | 393731 | [393731-100-mushroom-cats.json](./393731-100-mushroom-cats.json) |
 | 100 Mystery Buttons | 220155 | [220155-100-mystery-buttons.json](./220155-100-mystery-buttons.json) |
 | 100 Mystic Cats | 393727 | [393727-100-mystic-cats.json](./393727-100-mystic-cats.json) |
+| 100 Nature Cats | 387778 | [387778-100-nature-cats.json](./387778-100-nature-cats.json) |
 | 100 New Year Cats | 324238 | [324238-100-new-year-cats.json](./324238-100-new-year-cats.json) |
 | 100 New Year Cats: Extra Content | 325506 | [325506-100-new-year-cats-extra-content.json](./325506-100-new-year-cats-extra-content.json) |
 | 100 Ninja Cats | 283034 | [283034-100-ninja-cats.json](./283034-100-ninja-cats.json) |
@@ -759,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Panda Cats | 417750 | [417750-100-panda-cats.json](./417750-100-panda-cats.json) |
 | 100 Paris Cats | 283035 | [283035-100-paris-cats.json](./283035-100-paris-cats.json) |
 | 100 Percent Star | 45233 | [45233-100-percent-star.json](./45233-100-percent-star.json) |
+| 100 Pet Cats | 387775 | [387775-100-pet-cats.json](./387775-100-pet-cats.json) |
 | 100 Petopia Cats | 416424 | [416424-100-petopia-cats.json](./416424-100-petopia-cats.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
 | 100 Pirate Cats | 283036 | [283036-100-pirate-cats.json](./283036-100-pirate-cats.json) |
@@ -780,18 +785,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Rub: Operation Global Denomination | 169676 | [169676-100-rub-operation-global-denomination.json](./169676-100-rub-operation-global-denomination.json) |
 | 100 Ruin Cats | 347756 | [347756-100-ruin-cats.json](./347756-100-ruin-cats.json) |
 | 100 Rules (To Live By) | 309763 | [309763-100-rules-to-live-by.json](./309763-100-rules-to-live-by.json) |
+| 100 School Cats | 387777 | [387777-100-school-cats.json](./387777-100-school-cats.json) |
 | 100 Screamers | 325498 | [325498-100-screamers.json](./325498-100-screamers.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
 | 100 Sherwood Cats | 405826 | [405826-100-sherwood-cats.json](./405826-100-sherwood-cats.json) |
 | 100 Singapore Cats | 335192 | [335192-100-singapore-cats.json](./335192-100-singapore-cats.json) |
+| 100 Snack Cats | 387773 | [387773-100-snack-cats.json](./387773-100-snack-cats.json) |
 | 100 Space Cats | 288398 | [288398-100-space-cats.json](./288398-100-space-cats.json) |
 | 100 Space Cats: Extra Content | 305629 | [305629-100-space-cats-extra-content.json](./305629-100-space-cats-extra-content.json) |
 | 100 Sri Lanka Cats | 335193 | [335193-100-sri-lanka-cats.json](./335193-100-sri-lanka-cats.json) |
 | 100 StarPaws Cats | 379069 | [379069-100-starpaws-cats.json](./379069-100-starpaws-cats.json) |
 | 100 Steps | 265505 | [265505-100-steps.json](./265505-100-steps.json) |
+| 100 Summer Cats | 387770 | [387770-100-summer-cats.json](./387770-100-summer-cats.json) |
 | 100 Tavern Cats | 376183 | [376183-100-tavern-cats.json](./376183-100-tavern-cats.json) |
 | 100 Thailand Cats | 315293 | [315293-100-thailand-cats.json](./315293-100-thailand-cats.json) |
+| 100 Tiki Cats | 387771 | [387771-100-tiki-cats.json](./387771-100-tiki-cats.json) |
 | 100 Tokyo Cats | 274297 | [274297-100-tokyo-cats.json](./274297-100-tokyo-cats.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
 | 100 Trials | 355069 | [355069-100-trials.json](./355069-100-trials.json) |
@@ -1028,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Moscow | 372340 | [372340-101-cats-in-moscow.json](./372340-101-cats-in-moscow.json) |
 | 101 Cats in Mumbai | 350326 | [350326-101-cats-in-mumbai.json](./350326-101-cats-in-mumbai.json) |
 | 101 Cats in Munich | 407534 | [407534-101-cats-in-munich.json](./407534-101-cats-in-munich.json) |
+| 101 Cats in Naples | 386750 | [386750-101-cats-in-naples.json](./386750-101-cats-in-naples.json) |
 | 101 Cats in New Delhi | 328148 | [328148-101-cats-in-new-delhi.json](./328148-101-cats-in-new-delhi.json) |
 | 101 Cats in New York | 337609 | [337609-101-cats-in-new-york.json](./337609-101-cats-in-new-york.json) |
 | 101 Cats in Orlando | 333470 | [333470-101-cats-in-orlando.json](./333470-101-cats-in-orlando.json) |
@@ -1046,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Thailand | 350329 | [350329-101-cats-in-thailand.json](./350329-101-cats-in-thailand.json) |
 | 101 Cats in Tokyo | 322089 | [322089-101-cats-in-tokyo.json](./322089-101-cats-in-tokyo.json) |
 | 101 Cats in Toronto | 400578 | [400578-101-cats-in-toronto.json](./400578-101-cats-in-toronto.json) |
+| 101 Cats in Vancouver | 386749 | [386749-101-cats-in-vancouver.json](./386749-101-cats-in-vancouver.json) |
 | 101 Cats in Venice | 350322 | [350322-101-cats-in-venice.json](./350322-101-cats-in-venice.json) |
 | 101 Cats in Vienna | 337611 | [337611-101-cats-in-vienna.json](./337611-101-cats-in-vienna.json) |
 | 101 Cats: Lisbon | 421163 | [421163-101-cats-lisbon.json](./421163-101-cats-lisbon.json) |
@@ -1068,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Las Vegas | 362242 | [362242-101-dogs-hidden-in-las-vegas.json](./362242-101-dogs-hidden-in-las-vegas.json) |
 | 101 Dogs Hidden in London | 407532 | [407532-101-dogs-hidden-in-london.json](./407532-101-dogs-hidden-in-london.json) |
 | 101 Dogs Hidden in Los Angeles | 386868 | [386868-101-dogs-hidden-in-los-angeles.json](./386868-101-dogs-hidden-in-los-angeles.json) |
+| 101 Dogs Hidden in Madrid | 386748 | [386748-101-dogs-hidden-in-madrid.json](./386748-101-dogs-hidden-in-madrid.json) |
 | 101 Dogs Hidden in Mexico | 379071 | [379071-101-dogs-hidden-in-mexico.json](./379071-101-dogs-hidden-in-mexico.json) |
 | 101 Dogs Hidden in Miami | 407529 | [407529-101-dogs-hidden-in-miami.json](./407529-101-dogs-hidden-in-miami.json) |
 | 101 Dogs Hidden in Milan | 407182 | [407182-101-dogs-hidden-in-milan.json](./407182-101-dogs-hidden-in-milan.json) |
@@ -1076,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Rome | 408801 | [408801-101-dogs-hidden-in-rome.json](./408801-101-dogs-hidden-in-rome.json) |
 | 101 Dogs Hidden in Shanghai | 374136 | [374136-101-dogs-hidden-in-shanghai.json](./374136-101-dogs-hidden-in-shanghai.json) |
 | 101 Dogs Hidden in Singapore | 407181 | [407181-101-dogs-hidden-in-singapore.json](./407181-101-dogs-hidden-in-singapore.json) |
+| 101 Dogs Hidden in Tokyo | 386751 | [386751-101-dogs-hidden-in-tokyo.json](./386751-101-dogs-hidden-in-tokyo.json) |
 | 101 Dogs Hidden in Vienna | 407535 | [407535-101-dogs-hidden-in-vienna.json](./407535-101-dogs-hidden-in-vienna.json) |
 | 101 Dolphin Pets | 52340 | [52340-101-dolphin-pets.json](./52340-101-dolphin-pets.json) |
 | 101 Easy-Peasy Things to Do With Your Computer | 379610 | [379610-101-easy-peasy-things-to-do-with-your-computer.json](./379610-101-easy-peasy-things-to-do-with-your-computer.json) |
@@ -3466,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Ways To 7 | 377404 | [377404-6-ways-to-7.json](./377404-6-ways-to-7.json) |
 | 6 x 1 = Unlimited | 222452 | [222452-6-x-1-unlimited.json](./222452-6-x-1-unlimited.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
+| 6-7 Nights At Vicente's | 387764 | [387764-6-7-nights-at-vicentes.json](./387764-6-7-nights-at-vicentes.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
 | 6-Hand Video Poker | 84672 | [84672-6-hand-video-poker.json](./84672-6-hand-video-poker.json) |
 | 6-in-1 Board Game Club | 223607 | [223607-6-in-1-board-game-club.json](./223607-6-in-1-board-game-club.json) |
