@@ -6921,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha | 403244 | [403244-akasha.json](./403244-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
+| Akasha: Taliokata's Tomb | 418370 | [418370-akasha-taliokatas-tomb.json](./418370-akasha-taliokatas-tomb.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
 | Akashic Migraine | 261042 | [261042-akashic-migraine.json](./261042-akashic-migraine.json) |
 | Akashic Re:cords | 24403 | [24403-akashic-re-cords.json](./24403-akashic-re-cords.json) |
@@ -6995,6 +6996,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba Alive Urban Legend of Akihabara in Near Future | 382464 | [382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json](./382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json) |
 | Akiba Lost | 369701 | [369701-akiba-lost.json](./369701-akiba-lost.json) |
 | Akiba Lost: Digital Deluxe Edition | 418328 | [418328-akiba-lost-digital-deluxe-edition.json](./418328-akiba-lost-digital-deluxe-edition.json) |
+| Akiba Lost: Drama Movie & Pixel Character Costume Set | 418343 | [418343-akiba-lost-drama-movie-and-pixel-character-costume-set.json](./418343-akiba-lost-drama-movie-and-pixel-character-costume-set.json) |
+| Akiba Lost: Original Soundtrack & Pixel Character Costume Set | 418344 | [418344-akiba-lost-original-soundtrack-and-pixel-character-costume-set.json](./418344-akiba-lost-original-soundtrack-and-pixel-character-costume-set.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip | 44279 | [44279-akibas-trip.json](./44279-akibas-trip.json) |
 | Akiba's Trip 2+A | 78472 | [78472-akibas-trip-2-a.json](./78472-akibas-trip-2-a.json) |
@@ -11692,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Survivors | 236069 | [236069-animal-survivors.json](./236069-animal-survivors.json) |
 | Animal Tilt-A-Show | 376557 | [376557-animal-tilt-a-show.json](./376557-animal-tilt-a-show.json) |
 | Animal Times | 359341 | [359341-animal-times.json](./359341-animal-times.json) |
+| Animal Tower | 418455 | [418455-animal-tower.json](./418455-animal-tower.json) |
 | Animal Tower Battle | 314952 | [314952-animal-tower-battle.json](./314952-animal-tower-battle.json) |
 | Animal Town | 299404 | [299404-animal-town.json](./299404-animal-town.json) |
 | Animal Tracker | 302839 | [302839-animal-tracker.json](./302839-animal-tracker.json) |
@@ -19084,12 +19088,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: The Alchemist of Memories & The Envisioned Land - "The Red Alchemist & the White Guardian” Costume Set | 370934 | [370934-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-the-red-alchemist-and-the-white-guardian-costume-set.json](./370934-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-the-red-alchemist-and-the-white-guardian-costume-set.json) |
 | Atelier Yumia: The Alchemist of Memories & The Envisioned Land - Additional Map “Secret Research Area Aladissia" | 370932 | [370932-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-additional-map-secret-research-area-aladissia.json](./370932-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-additional-map-secret-research-area-aladissia.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Atelier Series Legacy BGM Pack | 380624 | [380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json](./380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Dengeki Special Pack | 418515 | [418515-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-dengeki-special-pack.json](./418515-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-dengeki-special-pack.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Digital Deluxe Edition | 333715 | [333715-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-digital-deluxe-edition.json](./333715-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-digital-deluxe-edition.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Famitsu DX Pack | 418514 | [418514-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-famitsu-dx-pack.json](./418514-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-famitsu-dx-pack.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Gamers Super Limited Edition | 418558 | [418558-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gamers-super-limited-edition.json](./418558-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gamers-super-limited-edition.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - GS Combo Set | 418563 | [418563-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gs-combo-set.json](./418563-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gs-combo-set.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Special Collection Box | 418560 | [418560-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-special-collection-box.json](./418560-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-special-collection-box.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Uchuu Sousei! GS Cosmo Combo Set | 418562 | [418562-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-uchuu-sousei-gs-cosmo-combo-set.json](./418562-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-uchuu-sousei-gs-cosmo-combo-set.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Ultimate Edition | 333716 | [333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json](./333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - WonderGOO Original Limited Set | 418513 | [418513-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-wondergoo-original-limited-set.json](./418513-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-wondergoo-original-limited-set.json) |
 | Atelier Yumia: The Alchemist of Memories & The Envisioned Land Seasons Pass | 370936 | [370936-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-seasons-pass.json](./370936-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-seasons-pass.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier Yumia: Yumia and Flammi Swimsuit Set | 351166 | [351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json](./351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json) |
