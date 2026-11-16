@@ -10279,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Powder \| Red Earth | 92764 | [92764-black-powder-red-earth.json](./92764-black-powder-red-earth.json) |
 | Black Powder Desolation | 260539 | [260539-black-powder-desolation.json](./260539-black-powder-desolation.json) |
+| Black Powder Magic | 401212 | [401212-black-powder-magic.json](./401212-black-powder-magic.json) |
 | Black Prophecy | 11509 | [11509-black-prophecy.json](./11509-black-prophecy.json) |
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
@@ -20712,6 +20713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Effect | 243651 | [243651-butterfly-effect.json](./243651-butterfly-effect.json) |
 | Butterfly Escape | 73587 | [73587-butterfly-escape.json](./73587-butterfly-escape.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
+| Butterfly Girl | 400018 | [400018-butterfly-girl.json](./400018-butterfly-girl.json) |
 | Butterfly Killer | 128305 | [128305-butterfly-killer.json](./128305-butterfly-killer.json) |
 | Butterfly Loop Night | 358571 | [358571-butterfly-loop-night.json](./358571-butterfly-loop-night.json) |
 | Butterfly Moment | 63719 | [63719-butterfly-moment.json](./63719-butterfly-moment.json) |
