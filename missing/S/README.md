@@ -4745,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal World | 168583 | [168583-seal-world.json](./168583-seal-world.json) |
 | Seal: Travelers of Destiny | 63106 | [63106-seal-travelers-of-destiny.json](./63106-seal-travelers-of-destiny.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
+| Sealab 2021: Time for Trouble! | 397334 | [397334-sealab-2021-time-for-trouble.json](./397334-sealab-2021-time-for-trouble.json) |
 | Sealand Survivor | 336504 | [336504-sealand-survivor.json](./336504-sealand-survivor.json) |
 | Sealark | 64393 | [64393-sealark.json](./64393-sealark.json) |
 | Sealbreakers | 387360 | [387360-sealbreakers.json](./387360-sealbreakers.json) |
@@ -8784,6 +8785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
 | Sheep | 6592 | [6592-sheep.json](./6592-sheep.json) |
 | Sheep & Love | 390700 | [390700-sheep-and-love.json](./390700-sheep-and-love.json) |
+| Sheep & Socks | 397969 | [397969-sheep-and-socks.json](./397969-sheep-and-socks.json) |
 | Sheep a Sheep | 223917 | [223917-sheep-a-sheep.json](./223917-sheep-a-sheep.json) |
 | Sheep and Gates | 347591 | [347591-sheep-and-gates.json](./347591-sheep-and-gates.json) |
 | Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
@@ -13819,6 +13821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skid the Scrambling Squirrel | 237779 | [237779-skid-the-scrambling-squirrel.json](./237779-skid-the-scrambling-squirrel.json) |
 | Skidaddle Skidoodle | 311641 | [311641-skidaddle-skidoodle.json](./311641-skidaddle-skidoodle.json) |
+| Skidddddd: Tori's Frozen Racing | 397350 | [397350-skidddddd-toris-frozen-racing.json](./397350-skidddddd-toris-frozen-racing.json) |
 | Skiddy | 281528 | [281528-skiddy.json](./281528-skiddy.json) |
 | Skidlocked | 129519 | [129519-skidlocked.json](./129519-skidlocked.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
@@ -16029,6 +16032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Dark House Survival | 195286 | [195286-small-dark-house-survival.json](./195286-small-dark-house-survival.json) |
 | Small Demon | 280107 | [280107-small-demon.json](./280107-small-demon.json) |
 | Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
+| Small Hero | 397958 | [397958-small-hero.json](./397958-small-hero.json) |
 | Small Hero Survive | 301624 | [301624-small-hero-survive.json](./301624-small-hero-survive.json) |
 | Small House | 253670 | [253670-small-house.json](./253670-small-house.json) |
 | Small Iron | 156897 | [156897-small-iron.json](./156897-small-iron.json) |
@@ -21266,6 +21270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstopia: Phi | 173212 | [173212-soulstopia-phi.json](./173212-soulstopia-phi.json) |
 | SoulStream Saga | 393438 | [393438-soulstream-saga.json](./393438-soulstream-saga.json) |
 | Soulstrive | 193260 | [193260-soulstrive.json](./193260-soulstrive.json) |
+| SoulSwap | 397348 | [397348-soulswap.json](./397348-soulswap.json) |
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
 | SoulSync City | 306800 | [306800-soulsync-city.json](./306800-soulsync-city.json) |
 | SoulTail | 295296 | [295296-soultail.json](./295296-soultail.json) |
@@ -31410,6 +31415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Gods: The Roleplaying Musical | 194506 | [194506-stray-gods-the-roleplaying-musical.json](./194506-stray-gods-the-roleplaying-musical.json) |
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
+| Stray Magic | 397342 | [397342-stray-magic.json](./397342-stray-magic.json) |
 | Stray Memoria | 320796 | [320796-stray-memoria.json](./320796-stray-memoria.json) |
 | Stray Night | 392586 | [392586-stray-night.json](./392586-stray-night.json) |
 | Stray of Lost Cat | 330649 | [330649-stray-of-lost-cat.json](./330649-stray-of-lost-cat.json) |
@@ -32306,6 +32312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Spider | 221074 | [221074-stroke-the-spider.json](./221074-stroke-the-spider.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
 | Stroker | 84315 | [84315-stroker.json](./84315-stroker.json) |
+| Stroker & Hoop: Moneyshot | 397352 | [397352-stroker-and-hoop-moneyshot.json](./397352-stroker-and-hoop-moneyshot.json) |
 | Stroll | 216862 | [216862-stroll.json](./216862-stroll.json) |
 | Strom The House | 389503 | [389503-strom-the-house.json](./389503-strom-the-house.json) |
 | Stromberg: Büro ist Krieg | 112274 | [112274-stromberg-buro-ist-krieg.json](./112274-stromberg-buro-ist-krieg.json) |
@@ -34835,6 +34842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cursor | 304286 | [304286-super-cursor.json](./304286-super-cursor.json) |
 | Super Cute Alien | 132498 | [132498-super-cute-alien.json](./132498-super-cute-alien.json) |
 | Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
+| Super Cyber Wave | 397327 | [397327-super-cyber-wave.json](./397327-super-cyber-wave.json) |
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
 | Super Cycle | 28460 | [28460-super-cycle.json](./28460-super-cycle.json) |
 | Super D | 273518 | [273518-super-d.json](./273518-super-d.json) |
