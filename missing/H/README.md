@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2 Mirrored | 221477 | [221477-half-life-2-mirrored.json](./221477-half-life-2-mirrored.json) |
 | Half-Life 2 RTX | 262537 | [262537-half-life-2-rtx.json](./262537-half-life-2-rtx.json) |
 | Half-Life 2 Substance | 366609 | [366609-half-life-2-substance.json](./366609-half-life-2-substance.json) |
+| Half-Life 2: 20th Anniversary Update | 322283 | [322283-half-life-2-20th-anniversary-update.json](./322283-half-life-2-20th-anniversary-update.json) |
 | Half-Life 2: Aftermath | 314127 | [314127-half-life-2-aftermath.json](./314127-half-life-2-aftermath.json) |
 | Half-Life 2: All Good Things | 423842 | [423842-half-life-2-all-good-things.json](./423842-half-life-2-all-good-things.json) |
 | Half-Life 2: Alone Mod | 323932 | [323932-half-life-2-alone-mod.json](./323932-half-life-2-alone-mod.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpy Monster Bird Simulator 3D | 88802 | [88802-harpy-monster-bird-simulator-3d.json](./88802-harpy-monster-bird-simulator-3d.json) |
 | Harpy Raiders | 248024 | [248024-harpy-raiders.json](./248024-harpy-raiders.json) |
 | Harpy Star | 149148 | [149148-harpy-star.json](./149148-harpy-star.json) |
+| Harpy's Ascent | 324047 | [324047-harpys-ascent.json](./324047-harpys-ascent.json) |
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
 | Harricana: Raid International Motoneige - Quebec-Canada 90 | 14776 | [14776-harricana-raid-international-motoneige-quebec-canada-90.json](./14776-harricana-raid-international-motoneige-quebec-canada-90.json) |
 | Harrier 2001 | 209862 | [209862-harrier-2001.json](./209862-harrier-2001.json) |
@@ -4040,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwild Solitaire: Book Two | 96852 | [96852-heartwild-solitaire-book-two.json](./96852-heartwild-solitaire-book-two.json) |
 | Heartwood | 140954 | [140954-heartwood.json](./140954-heartwood.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
+| HeartWood | 319249 | [319249-heartwood.json](./319249-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heartwood Online | 258374 | [258374-heartwood-online.json](./258374-heartwood-online.json) |
 | Heartwood Village | 426628 | [426628-heartwood-village.json](./426628-heartwood-village.json) |
@@ -5489,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Akira | 411069 | [411069-hentai-akira.json](./411069-hentai-akira.json) |
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
+| Hentai Ami | 319261 | [319261-hentai-ami.json](./319261-hentai-ami.json) |
 | Hentai Ancient Secret | 271032 | [271032-hentai-ancient-secret.json](./271032-hentai-ancient-secret.json) |
 | Hentai Angel: Smite the Nazis | 365400 | [365400-hentai-angel-smite-the-nazis.json](./365400-hentai-angel-smite-the-nazis.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
@@ -5586,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clara | 384583 | [384583-hentai-clara.json](./384583-hentai-clara.json) |
 | Hentai Class | 301673 | [301673-hentai-class.json](./301673-hentai-class.json) |
 | Hentai Cleopatra | 370009 | [370009-hentai-cleopatra.json](./370009-hentai-cleopatra.json) |
+| Hentai Clicker | 328706 | [328706-hentai-clicker.json](./328706-hentai-clicker.json) |
 | Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
 | Hentai Clicker: Cassandra Is Streaming | 389616 | [389616-hentai-clicker-cassandra-is-streaming.json](./389616-hentai-clicker-cassandra-is-streaming.json) |
@@ -7590,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexis | 60657 | [60657-hexis.json](./60657-hexis.json) |
 | Hexistence | 394442 | [394442-hexistence.json](./394442-hexistence.json) |
 | HeXit | 50781 | [50781-hexit.json](./50781-hexit.json) |
+| Hexity | 319269 | [319269-hexity.json](./319269-hexity.json) |
 | Hexius | 80341 | [80341-hexius.json](./80341-hexius.json) |
 | Hexiv | 335385 | [335385-hexiv.json](./335385-hexiv.json) |
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
@@ -12747,6 +12753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Cubes: Arena | 34612 | [34612-hover-cubes-arena.json](./34612-hover-cubes-arena.json) |
 | Hover Cup | 410180 | [410180-hover-cup.json](./410180-hover-cup.json) |
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
+| Hover Groove | 320515 | [320515-hover-groove.json](./320515-hover-groove.json) |
 | Hover Havoc | 32143 | [32143-hover-havoc.json](./32143-hover-havoc.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover League | 232293 | [232293-hover-league.json](./232293-hover-league.json) |
@@ -13316,6 +13323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Extinction Simulator | 28588 | [28588-human-extinction-simulator.json](./28588-human-extinction-simulator.json) |
 | Human Factory | 127540 | [127540-human-factory.json](./127540-human-factory.json) |
 | Human Fall Flat 2 | 252503 | [252503-human-fall-flat-2.json](./252503-human-fall-flat-2.json) |
+| Human Fall Flat VR | 320499 | [320499-human-fall-flat-vr.json](./320499-human-fall-flat-vr.json) |
 | Human Farm | 133347 | [133347-human-farm.json](./133347-human-farm.json) |
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
 | Human Farm: Pratice Section | 260445 | [260445-human-farm-pratice-section.json](./260445-human-farm-pratice-section.json) |
