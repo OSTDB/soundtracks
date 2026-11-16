@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
 | Recurring Nightmares | 376161 | [376161-recurring-nightmares.json](./376161-recurring-nightmares.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
+| ReCursed | 416431 | [416431-recursed.json](./416431-recursed.json) |
 | Recursed: The Ice Palace | 322272 | [322272-recursed-the-ice-palace.json](./322272-recursed-the-ice-palace.json) |
 | Recursion | 296738 | [296738-recursion.json](./296738-recursion.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
@@ -4721,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redeliver | 147036 | [147036-redeliver.json](./147036-redeliver.json) |
 | Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
+| Redemption Cemetery: At Death's Door - Collector's Edition | 416414 | [416414-redemption-cemetery-at-deaths-door-collectors-edition.json](./416414-redemption-cemetery-at-deaths-door-collectors-edition.json) |
 | Redemption Cemetery: At Death's Door Hidden | 96603 | [96603-redemption-cemetery-at-deaths-door-hidden.json](./96603-redemption-cemetery-at-deaths-door-hidden.json) |
 | Redemption Cemetery: Bitter Frost | 61076 | [61076-redemption-cemetery-bitter-frost.json](./61076-redemption-cemetery-bitter-frost.json) |
 | Redemption Cemetery: Bitter Frost - Collector's Edition | 30858 | [30858-redemption-cemetery-bitter-frost-collectors-edition.json](./30858-redemption-cemetery-bitter-frost-collectors-edition.json) |
@@ -14212,6 +14214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
 | Runner Frog | 372177 | [372177-runner-frog.json](./372177-runner-frog.json) |
 | Runner Fruit Jumping | 265511 | [265511-runner-fruit-jumping.json](./265511-runner-fruit-jumping.json) |
+| Runner Gunner | 416407 | [416407-runner-gunner.json](./416407-runner-gunner.json) |
 | Runner Heroes: The Curse of Night and Day | 127001 | [127001-runner-heroes-the-curse-of-night-and-day.json](./127001-runner-heroes-the-curse-of-night-and-day.json) |
 | Runner Heroes: The Curse of Night and Day - Enhanced Edition | 324601 | [324601-runner-heroes-the-curse-of-night-and-day-enhanced-edition.json](./324601-runner-heroes-the-curse-of-night-and-day-enhanced-edition.json) |
 | Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
