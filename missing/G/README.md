@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Saloon Simulator | 370376 | [370376-game-saloon-simulator.json](./370376-game-saloon-simulator.json) |
 | Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
+| Game Shop Panic | 413297 | [413297-game-shop-panic.json](./413297-game-shop-panic.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Show Wizard | 70167 | [70167-game-show-wizard.json](./70167-game-show-wizard.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
