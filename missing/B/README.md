@@ -19930,6 +19930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungo Stray Dogs: Tales of the Lost | 105830 | [105830-bungo-stray-dogs-tales-of-the-lost.json](./105830-bungo-stray-dogs-tales-of-the-lost.json) |
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
 | Bungo's Bungite Collector | 303385 | [303385-bungos-bungite-collector.json](./303385-bungos-bungite-collector.json) |
+| Bungy jump Into Abyss | 213665 | [213665-bungy-jump-into-abyss.json](./213665-bungy-jump-into-abyss.json) |
 | Bunhouse | 158334 | [158334-bunhouse.json](./158334-bunhouse.json) |
 | BuniBon | 315238 | [315238-bunibon.json](./315238-bunibon.json) |
 | BuniBon 2 | 315239 | [315239-bunibon-2.json](./315239-bunibon-2.json) |
