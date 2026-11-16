@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Noir | 226001 | [226001-neon-noir.json](./226001-neon-noir.json) |
 | Neon Noodles: Cyberpunk Kitchen Automation | 121808 | [121808-neon-noodles-cyberpunk-kitchen-automation.json](./121808-neon-noodles-cyberpunk-kitchen-automation.json) |
 | Neon Nova | 286952 | [286952-neon-nova.json](./286952-neon-nova.json) |
+| Neon Null | 406359 | [406359-neon-null.json](./406359-neon-null.json) |
 | Neon Odyssey | 279409 | [279409-neon-odyssey.json](./279409-neon-odyssey.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
 | Neon On!: Bright Edition | 304775 | [304775-neon-on-bright-edition.json](./304775-neon-on-bright-edition.json) |
@@ -8029,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Strider | 404376 | [404376-nova-strider.json](./404376-nova-strider.json) |
 | Nova Strike | 259027 | [259027-nova-strike.json](./259027-nova-strike.json) |
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
+| Nova Swarm | 406974 | [406974-nova-swarm.json](./406974-nova-swarm.json) |
 | Nova Tales | 220456 | [220456-nova-tales.json](./220456-nova-tales.json) |
 | Nova the Squirrel | 108807 | [108807-nova-the-squirrel.json](./108807-nova-the-squirrel.json) |
 | Nova the Squirrel 2 | 306170 | [306170-nova-the-squirrel-2.json](./306170-nova-the-squirrel-2.json) |
