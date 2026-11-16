@@ -11391,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claws & Chaos | 261674 | [261674-claws-and-chaos.json](./261674-claws-and-chaos.json) |
 | Claws & Feathers | 35664 | [35664-claws-and-feathers.json](./35664-claws-and-feathers.json) |
 | Claws & Feathers 2 | 30159 | [30159-claws-and-feathers-2.json](./30159-claws-and-feathers-2.json) |
+| Claws & Feathers 3 | 302297 | [302297-claws-and-feathers-3.json](./302297-claws-and-feathers-3.json) |
 | Claws of Despair | 14005 | [14005-claws-of-despair.json](./14005-claws-of-despair.json) |
 | Claws of Furry | 76436 | [76436-claws-of-furry.json](./76436-claws-of-furry.json) |
 | Claws of the Forest | 363593 | [363593-claws-of-the-forest.json](./363593-claws-of-the-forest.json) |
@@ -13838,8 +13839,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
 | Color War | 158846 | [158846-color-war.json](./158846-color-war.json) |
 | Color Wars | 99908 | [99908-color-wars.json](./99908-color-wars.json) |
+| Color Water Sort: Calm | 302298 | [302298-color-water-sort-calm.json](./302298-color-water-sort-calm.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
+| Color Water Sort: Fast | 302299 | [302299-color-water-sort-fast.json](./302299-color-water-sort-fast.json) |
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
+| Color Water Sort: Hard | 302300 | [302300-color-water-sort-hard.json](./302300-color-water-sort-hard.json) |
 | Color Water Sort: Relax Edition | 310434 | [310434-color-water-sort-relax-edition.json](./310434-color-water-sort-relax-edition.json) |
 | Color Water Sort: Time Attack Edition | 320694 | [320694-color-water-sort-time-attack-edition.json](./320694-color-water-sort-time-attack-edition.json) |
 | Color Wheel | 178726 | [178726-color-wheel.json](./178726-color-wheel.json) |
@@ -15411,6 +15415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjure Cards | 153629 | [153629-conjure-cards.json](./153629-conjure-cards.json) |
 | Conjure Craft | 119928 | [119928-conjure-craft.json](./119928-conjure-craft.json) |
 | Conjure Strike | 107466 | [107466-conjure-strike.json](./107466-conjure-strike.json) |
+| Conjured Through Death | 302295 | [302295-conjured-through-death.json](./302295-conjured-through-death.json) |
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
 | Conjurers | 328362 | [328362-conjurers.json](./328362-conjurers.json) |
 | Conjuror: The Game | 60693 | [60693-conjuror-the-game.json](./60693-conjuror-the-game.json) |
@@ -22623,6 +22628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Islands | 101868 | [101868-cursed-islands.json](./101868-cursed-islands.json) |
 | Cursed Isles | 72514 | [72514-cursed-isles.json](./72514-cursed-isles.json) |
 | Cursed Labyrinth | 241607 | [241607-cursed-labyrinth.json](./241607-cursed-labyrinth.json) |
+| Cursed Labyrinth Redux | 305668 | [305668-cursed-labyrinth-redux.json](./305668-cursed-labyrinth-redux.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
