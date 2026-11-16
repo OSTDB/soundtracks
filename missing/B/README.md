@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistik Wars | 343577 | [343577-ballistik-wars.json](./343577-ballistik-wars.json) |
 | Ballistix | 5878 | [5878-ballistix.json](./5878-ballistix.json) |
 | Ballloon Gentleman | 60909 | [60909-ballloon-gentleman.json](./60909-ballloon-gentleman.json) |
+| BallMan | 342955 | [342955-ballman.json](./342955-ballman.json) |
 | Ballmaster | 336942 | [336942-ballmaster.json](./336942-ballmaster.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
@@ -11014,6 +11015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
 | Blast Rush | 77541 | [77541-blast-rush.json](./77541-blast-rush.json) |
 | Blast Rush Classic | 132346 | [132346-blast-rush-classic.json](./132346-blast-rush-classic.json) |
+| Blast Rush LS | 342939 | [342939-blast-rush-ls.json](./342939-blast-rush-ls.json) |
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
 | Blast Valley | 93817 | [93817-blast-valley.json](./93817-blast-valley.json) |
@@ -11895,6 +11897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Party: 20 Games | 67585 | [67585-block-party-20-games.json](./67585-block-party-20-games.json) |
 | Block Pieces | 302025 | [302025-block-pieces.json](./302025-block-pieces.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
+| Block Plop | 344595 | [344595-block-plop.json](./344595-block-plop.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
 | Block Pooper 9 | 112466 | [112466-block-pooper-9.json](./112466-block-pooper-9.json) |
 | Block Pro Forrest Diamond | 219977 | [219977-block-pro-forrest-diamond.json](./219977-block-pro-forrest-diamond.json) |
@@ -13567,7 +13570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob and Rob | 177748 | [177748-bob-and-rob.json](./177748-bob-and-rob.json) |
 | Bob and the Alien Fire Flies | 304224 | [304224-bob-and-the-alien-fire-flies.json](./304224-bob-and-the-alien-fire-flies.json) |
 | Bob and the Alien Fireflies | 304225 | [304225-bob-and-the-alien-fireflies.json](./304225-bob-and-the-alien-fireflies.json) |
-| Bob Came in Pieces | 2356 | [2356-bob-came-in-pieces.json](./2356-bob-came-in-pieces.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Don't Sleep! | 369201 | [369201-bob-dont-sleep.json](./369201-bob-dont-sleep.json) |
 | Bob et Bobette: Les Dompteurs du Temps | 93967 | [93967-bob-et-bobette-les-dompteurs-du-temps.json](./93967-bob-et-bobette-les-dompteurs-du-temps.json) |
@@ -14551,6 +14553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire | 123774 | [123774-bonfire.json](./123774-bonfire.json) |
 | Bonfire | 201658 | [201658-bonfire.json](./201658-bonfire.json) |
 | Bonfire and Tail | 250801 | [250801-bonfire-and-tail.json](./250801-bonfire-and-tail.json) |
+| Bonfire Barrage | 344607 | [344607-bonfire-barrage.json](./344607-bonfire-barrage.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bonfire Peaks: Complete Edition | 278648 | [278648-bonfire-peaks-complete-edition.json](./278648-bonfire-peaks-complete-edition.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
