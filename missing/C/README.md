@@ -10662,6 +10662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Ages: Picture Supportive Text MUD | 56628 | [56628-city-of-ages-picture-supportive-text-mud.json](./56628-city-of-ages-picture-supportive-text-mud.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
 | City of Beats | 145845 | [145845-city-of-beats.json](./145845-city-of-beats.json) |
+| City of Billiards | 215407 | [215407-city-of-billiards.json](./215407-city-of-billiards.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
 | City of Brave | 150248 | [150248-city-of-brave.json](./150248-city-of-brave.json) |
 | City of Broken Dreamers: Book One | 172514 | [172514-city-of-broken-dreamers-book-one.json](./172514-city-of-broken-dreamers-book-one.json) |
