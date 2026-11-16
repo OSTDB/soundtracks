@@ -18026,6 +18026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Factory | 34319 | [34319-dream-factory.json](./34319-dream-factory.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Farm | 146508 | [146508-dream-farm.json](./146508-dream-farm.json) |
+| Dream Festival! | 393672 | [393672-dream-festival.json](./393672-dream-festival.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
 | Dream Fighter | 48365 | [48365-dream-fighter.json](./48365-dream-fighter.json) |
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
