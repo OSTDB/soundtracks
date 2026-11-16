@@ -8303,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chika Militant Cockroach | 29516 | [29516-chika-militant-cockroach.json](./29516-chika-militant-cockroach.json) |
 | Chikai no Kiss wa Totsuzen ni | 221241 | [221241-chikai-no-kiss-wa-totsuzen-ni.json](./221241-chikai-no-kiss-wa-totsuzen-ni.json) |
 | Chikankyou: Gachi Tsukaeru Appli de Muchimuchi Kyonyuu Shiri o Monde Sawatte! Acme-gao de Ikasetai!! | 109000 | [109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json](./109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json) |
+| Chikaro | 297384 | [297384-chikaro.json](./297384-chikaro.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
 | Chikasuiji kara no Dasshutsu | 251616 | [251616-chikasuiji-kara-no-dasshutsu.json](./251616-chikasuiji-kara-no-dasshutsu.json) |
 | Chiki Chiki Machine Mou Race | 56545 | [56545-chiki-chiki-machine-mou-race.json](./56545-chiki-chiki-machine-mou-race.json) |
@@ -8738,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | Chlea Adventure Fantasy Island | 194146 | [194146-chlea-adventure-fantasy-island.json](./194146-chlea-adventure-fantasy-island.json) |
 | Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
+| Chloe the Cat | 297820 | [297820-chloe-the-cat.json](./297820-chloe-the-cat.json) |
 | Chloe's Dream Resort | 293962 | [293962-chloes-dream-resort.json](./293962-chloes-dream-resort.json) |
 | Chloe's Requiem | 124639 | [124639-chloes-requiem.json](./124639-chloes-requiem.json) |
 | Chloe’s Requiem: Encore | 250285 | [250285-chloe-s-requiem-encore.json](./250285-chloe-s-requiem-encore.json) |
@@ -23638,6 +23640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
 | Cyborg Rage | 33861 | [33861-cyborg-rage.json](./33861-cyborg-rage.json) |
+| Cyborg Runner | 297822 | [297822-cyborg-runner.json](./297822-cyborg-runner.json) |
 | Cyborg Tower Defense | 29169 | [29169-cyborg-tower-defense.json](./29169-cyborg-tower-defense.json) |
 | Cyborg Z | 45634 | [45634-cyborg-z.json](./45634-cyborg-z.json) |
 | Cyborg_Lab | 111569 | [111569-cyborg-lab.json](./111569-cyborg-lab.json) |
