@@ -6566,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overworld Heroes | 216964 | [216964-overworld-heroes.json](./216964-overworld-heroes.json) |
 | Overwrite | 145926 | [145926-overwrite.json](./145926-overwrite.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
+| Overwritten: Enter the Net | 236028 | [236028-overwritten-enter-the-net.json](./236028-overwritten-enter-the-net.json) |
 | Ovine Replica | 140772 | [140772-ovine-replica.json](./140772-ovine-replica.json) |
 | OviPets | 225715 | [225715-ovipets.json](./225715-ovipets.json) |
 | Oviraptor Hazard | 361343 | [361343-oviraptor-hazard.json](./361343-oviraptor-hazard.json) |
