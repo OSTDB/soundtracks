@@ -9667,6 +9667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip Games App (Classics) | 102741 | [102741-road-trip-games-app-classics.json](./102741-road-trip-games-app-classics.json) |
 | Road Trip to the End of the World | 350446 | [350446-road-trip-to-the-end-of-the-world.json](./350446-road-trip-to-the-end-of-the-world.json) |
 | Road Trip USA | 88342 | [88342-road-trip-usa.json](./88342-road-trip-usa.json) |
+| Road Trip USA 2: West - Collector's Edition | 239952 | [239952-road-trip-usa-2-west-collectors-edition.json](./239952-road-trip-usa-2-west-collectors-edition.json) |
 | Road Trip USA 3: Central | 338050 | [338050-road-trip-usa-3-central.json](./338050-road-trip-usa-3-central.json) |
 | Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
 | Road Trip: Family Fun | 105704 | [105704-road-trip-family-fun.json](./105704-road-trip-family-fun.json) |
@@ -12802,6 +12803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Utopia | 128839 | [128839-rotten-utopia.json](./128839-rotten-utopia.json) |
 | Rotten Woods | 369710 | [369710-rotten-woods.json](./369710-rotten-woods.json) |
 | Rottenroots | 322766 | [322766-rottenroots.json](./322766-rottenroots.json) |
+| Rottenwood Lake | 239955 | [239955-rottenwood-lake.json](./239955-rottenwood-lake.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
 | Rotting Jam | 271847 | [271847-rotting-jam.json](./271847-rotting-jam.json) |
