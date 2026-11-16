@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Bus | 156101 | [156101-mad-bus.json](./156101-mad-bus.json) |
 | Mad Caps | 103844 | [103844-mad-caps.json](./103844-mad-caps.json) |
 | Mad Carnage | 86241 | [86241-mad-carnage.json](./86241-mad-carnage.json) |
+| Mad Carnival | 366748 | [366748-mad-carnival.json](./366748-mad-carnival.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Cart | 189826 | [189826-mad-cart.json](./189826-mad-cart.json) |
 | Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
@@ -3807,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marathon 2: Durandal | 8710 | [8710-marathon-2-durandal.json](./8710-marathon-2-durandal.json) |
 | Marathon Infinity | 8711 | [8711-marathon-infinity.json](./8711-marathon-infinity.json) |
 | Marathon Recompiled | 358340 | [358340-marathon-recompiled.json](./358340-marathon-recompiled.json) |
+| Marathon Trilogy Box Set | 366152 | [366152-marathon-trilogy-box-set.json](./366152-marathon-trilogy-box-set.json) |
 | Marathon: Durandal | 299291 | [299291-marathon-durandal.json](./299291-marathon-durandal.json) |
 | Marathon: Eternal X | 228484 | [228484-marathon-eternal-x.json](./228484-marathon-eternal-x.json) |
 | Marathon: Istoria | 252087 | [252087-marathon-istoria.json](./252087-marathon-istoria.json) |
@@ -5641,11 +5643,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Zaeed - The Price of Revenge | 13798 | [13798-mass-effect-2-zaeed-the-price-of-revenge.json](./13798-mass-effect-2-zaeed-the-price-of-revenge.json) |
 | Mass Effect 3: Citadel | 13690 | [13690-mass-effect-3-citadel.json](./13690-mass-effect-3-citadel.json) |
 | Mass Effect 3: DLC Bundle | 227041 | [227041-mass-effect-3-dlc-bundle.json](./227041-mass-effect-3-dlc-bundle.json) |
+| Mass Effect 3: Earth | 367333 | [367333-mass-effect-3-earth.json](./367333-mass-effect-3-earth.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
 | Mass Effect 3: Leviathan | 13911 | [13911-mass-effect-3-leviathan.json](./13911-mass-effect-3-leviathan.json) |
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
 | Mass Effect 3: Omega | 13912 | [13912-mass-effect-3-omega.json](./13912-mass-effect-3-omega.json) |
+| Mass Effect 3: Rebellion Pack | 367327 | [367327-mass-effect-3-rebellion-pack.json](./367327-mass-effect-3-rebellion-pack.json) |
+| Mass Effect 3: Reckoning | 367341 | [367341-mass-effect-3-reckoning.json](./367341-mass-effect-3-reckoning.json) |
+| Mass Effect 3: Resurgence Pack | 367323 | [367323-mass-effect-3-resurgence-pack.json](./367323-mass-effect-3-resurgence-pack.json) |
 | Mass Effect 3: Retaliation | 25299 | [25299-mass-effect-3-retaliation.json](./25299-mass-effect-3-retaliation.json) |
 | Mass Effect 3: Special Edition | 21697 | [21697-mass-effect-3-special-edition.json](./21697-mass-effect-3-special-edition.json) |
 | Mass Effect Datapad | 77200 | [77200-mass-effect-datapad.json](./77200-mass-effect-datapad.json) |
@@ -7239,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazzembly 1997 | 78512 | [78512-mazzembly-1997.json](./78512-mazzembly-1997.json) |
 | Mazzle | 306255 | [306255-mazzle.json](./306255-mazzle.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
+| Mazzle Halloween | 366153 | [366153-mazzle-halloween.json](./366153-mazzle-halloween.json) |
 | MB Bingo | 59121 | [59121-mb-bingo.json](./59121-mb-bingo.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | MBHL20 | 171127 | [171127-mbhl20.json](./171127-mbhl20.json) |
