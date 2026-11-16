@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T09:47:01.113Z",
-  "total_soundtracks": 3436,
+  "generated_at": "2026-11-16T09:57:17.999Z",
+  "total_soundtracks": 3442,
   "games": [
     {
       "igdb_id": 292844,
@@ -1361,6 +1361,20 @@
         {
           "album_name": "Aliens: Fireteam Elite 2 (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3JIMgIgKxQzj6AkjUZk0of",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 34406,
+      "game_name": "All My Gods",
+      "game_url": "https://ostdb.net/games/all-my-gods",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e4ea77878b73f7367c0feec0",
+      "albums": [
+        {
+          "album_name": "All My Gods (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6BUMBDe1O4ziFQ76xPAe6e",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4242,6 +4256,20 @@
           "album_name": "Beyond: Two Souls (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6SCstolTyQVCCtJEEM6DXR",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35586,
+      "game_name": "Big Action Mega Fight!",
+      "game_url": "https://ostdb.net/games/big-action-mega-fight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273de5b153edade34ce0d6ee34e",
+      "albums": [
+        {
+          "album_name": "Big Action Mega Fight! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/58H02ORMCGDuG8SUHBt90k",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -14481,6 +14509,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/garten-of-banban-8-anti-devil-original-game-soundtrack/1836505340?uo=4",
           "album_link_url": "https://album.link/i/1836505340"
+        }
+      ]
+    },
+    {
+      "igdb_id": 35590,
+      "game_name": "Gathering Sky",
+      "game_url": "https://ostdb.net/games/gathering-sky",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731a96c48562445ad99341cb7c",
+      "albums": [
+        {
+          "album_name": "Gathering Sky Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5buKKhIA4TSGabzZGW3HBu",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -28341,6 +28383,20 @@
       ]
     },
     {
+      "igdb_id": 34659,
+      "game_name": "Randall",
+      "game_url": "https://ostdb.net/games/randall",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733ad1d2fa59623da9fb9e6852",
+      "albums": [
+        {
+          "album_name": "Randall (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/60UyDe19ovcmAcSnEixKBs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11065,
       "game_name": "Ratchet & Clank",
       "game_url": "https://ostdb.net/games/ratchet-and-clank",
@@ -29461,6 +29517,20 @@
         {
           "album_name": "Rez Infinite Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/3TZLYfPfAg5TrIYZ1xfelA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35271,
+      "game_name": "Riddled Corpses",
+      "game_url": "https://ostdb.net/games/riddled-corpses",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27332aac0e210b552025c049788",
+      "albums": [
+        {
+          "album_name": "Riddled Corpses (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/280vovbqyQVZfHCurLqlrS",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -41835,6 +41905,20 @@
         {
           "album_name": "Wallachia: Reign of Dracula (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/58wl4HF1PJAo92acNoATot",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 33992,
+      "game_name": "Wand Wars",
+      "game_url": "https://ostdb.net/games/wand-wars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273112b37a2f91639a0d593b36c",
+      "albums": [
+        {
+          "album_name": "Wand Wars (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5eobpxUK30fUuLwx90IDdj",
           "apple_music_url": "",
           "album_link_url": ""
         }
