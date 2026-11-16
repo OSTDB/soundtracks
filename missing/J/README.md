@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Bonecroft 4 | 402726 | [402726-jack-bonecroft-4.json](./402726-jack-bonecroft-4.json) |
 | Jack Bros. | 20384 | [20384-jack-bros.json](./20384-jack-bros.json) |
+| Jack Cain: The Demon Killing Dude | 379289 | [379289-jack-cain-the-demon-killing-dude.json](./379289-jack-cain-the-demon-killing-dude.json) |
 | Jack Charlton's Match Fishing | 73378 | [73378-jack-charltons-match-fishing.json](./73378-jack-charltons-match-fishing.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Dragon | 264183 | [264183-jack-dragon.json](./264183-jack-dragon.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Across Japan: Mysteries of Mt Aso | 326149 | [326149-journey-across-japan-mysteries-of-mt-aso.json](./326149-journey-across-japan-mysteries-of-mt-aso.json) |
 | Journey Back to Dreamspace | 394470 | [394470-journey-back-to-dreamspace.json](./394470-journey-back-to-dreamspace.json) |
 | Journey Beyond the Edge of the World | 261717 | [261717-journey-beyond-the-edge-of-the-world.json](./261717-journey-beyond-the-edge-of-the-world.json) |
+| Journey Card | 366143 | [366143-journey-card.json](./366143-journey-card.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
 | Journey For Elysium | 120758 | [120758-journey-for-elysium.json](./120758-journey-for-elysium.json) |
@@ -3110,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
 | Journey to Candy Mountain | 364234 | [364234-journey-to-candy-mountain.json](./364234-journey-to-candy-mountain.json) |
 | Journey to Chaos: Pilgrimage to the West | 355218 | [355218-journey-to-chaos-pilgrimage-to-the-west.json](./355218-journey-to-chaos-pilgrimage-to-the-west.json) |
+| Journey to Dawn | 366161 | [366161-journey-to-dawn.json](./366161-journey-to-dawn.json) |
 | Journey to Destiny | 214674 | [214674-journey-to-destiny.json](./214674-journey-to-destiny.json) |
 | Journey to die | 327341 | [327341-journey-to-die.json](./327341-journey-to-die.json) |
 | Journey to Earth | 302921 | [302921-journey-to-earth.json](./302921-journey-to-earth.json) |
@@ -4255,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Island: Little Dinosaur Park | 332358 | [332358-jurassic-island-little-dinosaur-park.json](./332358-jurassic-island-little-dinosaur-park.json) |
 | Jurassic Island: Lost Ark Survival | 194149 | [194149-jurassic-island-lost-ark-survival.json](./194149-jurassic-island-lost-ark-survival.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
+| Jurassic Island: The Legend of Makumaku | 373968 | [373968-jurassic-island-the-legend-of-makumaku.json](./373968-jurassic-island-the-legend-of-makumaku.json) |
 | Jurassic Knights: Tactics | 311898 | [311898-jurassic-knights-tactics.json](./311898-jurassic-knights-tactics.json) |
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
 | Jurassic Mahjong | 148060 | [148060-jurassic-mahjong.json](./148060-jurassic-mahjong.json) |
