@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yearn 2 Learn | 93385 | [93385-yearn-2-learn.json](./93385-yearn-2-learn.json) |
 | Yearn Tyrant's Conquest | 96211 | [96211-yearn-tyrants-conquest.json](./96211-yearn-tyrants-conquest.json) |
 | Yearning | 111497 | [111497-yearning.json](./111497-yearning.json) |
+| Yearning | 260341 | [260341-yearning.json](./260341-yearning.json) |
 | Yearning: A Gay Story | 127785 | [127785-yearning-a-gay-story.json](./127785-yearning-a-gay-story.json) |
 | Years Apart | 323989 | [323989-years-apart.json](./323989-years-apart.json) |
 | Years of Division | 244554 | [244554-years-of-division.json](./244554-years-of-division.json) |
@@ -2327,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuugen Gaisha Chikyuu Boueitai | 166152 | [166152-yuugen-gaisha-chikyuu-boueitai.json](./166152-yuugen-gaisha-chikyuu-boueitai.json) |
 | Yuugen Gaisha London Star: Koi no Double Click | 77874 | [77874-yuugen-gaisha-london-star-koi-no-double-click.json](./77874-yuugen-gaisha-london-star-koi-no-double-click.json) |
 | Yuugen Mikaidou Tanteisha 1-Shou | 221260 | [221260-yuugen-mikaidou-tanteisha-1-shou.json](./221260-yuugen-mikaidou-tanteisha-1-shou.json) |
+| Yuuichi to Suihanki | 261471 | [261471-yuuichi-to-suihanki.json](./261471-yuuichi-to-suihanki.json) |
 | Yuujou no Victory Goal: 4v4 Arashi - Get the Goal‼ | 353873 | [353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json](./353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json) |
 | Yuuka's Mansion | 247574 | [247574-yuukas-mansion.json](./247574-yuukas-mansion.json) |
 | Yuuki | 123921 | [123921-yuuki.json](./123921-yuuki.json) |
