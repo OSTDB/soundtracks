@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha World | 281450 | [281450-gacha-world.json](./281450-gacha-world.json) |
 | Gacha&Gacha | 413465 | [413465-gacha-and-gacha.json](./413465-gacha-and-gacha.json) |
 | Gachaga Champ | 257308 | [257308-gachaga-champ.json](./257308-gachaga-champ.json) |
+| GachaHell | 242261 | [242261-gachahell.json](./242261-gachahell.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachamon | 358267 | [358267-gachamon.json](./358267-gachamon.json) |
 | Gachanimals | 373444 | [373444-gachanimals.json](./373444-gachanimals.json) |
@@ -12907,6 +12908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
 | Gutterball 3D | 70245 | [70245-gutterball-3d.json](./70245-gutterball-3d.json) |
 | Gutterball: Golden Pin Bowling HD | 103149 | [103149-gutterball-golden-pin-bowling-hd.json](./103149-gutterball-golden-pin-bowling-hd.json) |
+| Gutterbrawlers | 242281 | [242281-gutterbrawlers.json](./242281-gutterbrawlers.json) |
 | Gutterspace | 385962 | [385962-gutterspace.json](./385962-gutterspace.json) |
 | Gutting Goblins! | 173066 | [173066-gutting-goblins.json](./173066-gutting-goblins.json) |
 | Gutwhale | 132599 | [132599-gutwhale.json](./132599-gutwhale.json) |
