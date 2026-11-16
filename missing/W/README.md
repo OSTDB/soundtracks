@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai | 386986 | [386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json](./386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json) |
 | Whistle1 | 402524 | [402524-whistle1.json](./402524-whistle1.json) |
 | Whistler's Brother | 24686 | [24686-whistlers-brother.json](./24686-whistlers-brother.json) |
+| Whistling Waters | 303912 | [303912-whistling-waters.json](./303912-whistling-waters.json) |
 | WhiTaers | 113663 | [113663-whitaers.json](./113663-whitaers.json) |
 | WhiTaers: Gongren Edition | 114310 | [114310-whitaers-gongren-edition.json](./114310-whitaers-gongren-edition.json) |
 | White | 54695 | [54695-white.json](./54695-white.json) |
