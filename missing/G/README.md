@@ -6687,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God is a Cube: Programming Robot Cubes | 110445 | [110445-god-is-a-cube-programming-robot-cubes.json](./110445-god-is-a-cube-programming-robot-cubes.json) |
 | God is a Cube: Programming Robot Cubes | 58110 | [58110-god-is-a-cube-programming-robot-cubes.json](./58110-god-is-a-cube-programming-robot-cubes.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
+| God Is Not Here | 411882 | [411882-god-is-not-here.json](./411882-god-is-not-here.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
 | God Killer Aria | 182473 | [182473-god-killer-aria.json](./182473-god-killer-aria.json) |
 | God Kings | 142246 | [142246-god-kings.json](./142246-god-kings.json) |
@@ -10086,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
 | Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
 | Green the Planet 2 | 99355 | [99355-green-the-planet-2.json](./99355-green-the-planet-2.json) |
+| Green Thicket | 411165 | [411165-green-thicket.json](./411165-green-thicket.json) |
 | Green Thing from the Planet Jupiter | 332933 | [332933-green-thing-from-the-planet-jupiter.json](./332933-green-thing-from-the-planet-jupiter.json) |
 | Green Thumb | 291571 | [291571-green-thumb.json](./291571-green-thumb.json) |
 | Green Thumb Cards | 62157 | [62157-green-thumb-cards.json](./62157-green-thumb-cards.json) |
@@ -10493,6 +10495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender HD | 99299 | [99299-grim-facade-the-artist-and-the-pretender-hd.json](./99299-grim-facade-the-artist-and-the-pretender-hd.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Fate: Cloverleaf Bay | 420025 | [420025-grim-fate-cloverleaf-bay.json](./420025-grim-fate-cloverleaf-bay.json) |
+| Grim Hammer | 411875 | [411875-grim-hammer.json](./411875-grim-hammer.json) |
 | Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
 | Grim Hollow | 350934 | [350934-grim-hollow.json](./350934-grim-hollow.json) |
 | Grim Hope | 418398 | [418398-grim-hope.json](./418398-grim-hope.json) |
