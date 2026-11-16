@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball 17 | 31316 | [31316-handball-17.json](./31316-handball-17.json) |
 | Handball 21 | 138631 | [138631-handball-21.json](./138631-handball-21.json) |
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
+| Handball for Plants! | 297408 | [297408-handball-for-plants.json](./297408-handball-for-plants.json) |
 | Handball Manager 07/08 | 152027 | [152027-handball-manager-07-08.json](./152027-handball-manager-07-08.json) |
 | Handball Manager 2021 | 142666 | [142666-handball-manager-2021.json](./142666-handball-manager-2021.json) |
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
@@ -11009,6 +11010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkaku Mahjong: Tetsuman | 37990 | [37990-honkaku-mahjong-tetsuman.json](./37990-honkaku-mahjong-tetsuman.json) |
 | Honkaku Mahjong: Tetsuman II | 37989 | [37989-honkaku-mahjong-tetsuman-ii.json](./37989-honkaku-mahjong-tetsuman-ii.json) |
 | Honkaku Pro Mahjong: Tetsuman Special | 82271 | [82271-honkaku-pro-mahjong-tetsuman-special.json](./82271-honkaku-pro-mahjong-tetsuman-special.json) |
+| Honkaku Shogi Shinan Wakamatsu Shogi-juku | 297406 | [297406-honkaku-shogi-shinan-wakamatsu-shogi-juku.json](./297406-honkaku-shogi-shinan-wakamatsu-shogi-juku.json) |
 | Honkaku Shogi: Fuuunji Ryuou | 37988 | [37988-honkaku-shogi-fuuunji-ryuou.json](./37988-honkaku-shogi-fuuunji-ryuou.json) |
 | Honkaku Shogi: Shogi-ou | 228561 | [228561-honkaku-shogi-shogi-ou.json](./228561-honkaku-shogi-shogi-ou.json) |
 | Honkaku Taisen Shogi Ayumu | 97856 | [97856-honkaku-taisen-shogi-ayumu.json](./97856-honkaku-taisen-shogi-ayumu.json) |
@@ -13586,6 +13588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Meem | 328179 | [328179-hungry-meem.json](./328179-hungry-meem.json) |
 | Hungry Monster | 241857 | [241857-hungry-monster.json](./241857-hungry-monster.json) |
 | Hungry Monster Food Rain | 356503 | [356503-hungry-monster-food-rain.json](./356503-hungry-monster-food-rain.json) |
+| Hungry Mouse | 297824 | [297824-hungry-mouse.json](./297824-hungry-mouse.json) |
 | Hungry Penguin | 223838 | [223838-hungry-penguin.json](./223838-hungry-penguin.json) |
 | Hungry Pets | 252419 | [252419-hungry-pets.json](./252419-hungry-pets.json) |
 | Hungry Piggy Donuts Mania | 105585 | [105585-hungry-piggy-donuts-mania.json](./105585-hungry-piggy-donuts-mania.json) |
