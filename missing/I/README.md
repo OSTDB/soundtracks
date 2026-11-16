@@ -6844,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is Your House Almost There? | 346720 | [346720-is-your-house-almost-there.json](./346720-is-your-house-almost-there.json) |
 | iS: internal section | 25094 | [25094-is-internal-section.json](./25094-is-internal-section.json) |
 | Isaac Asimov's The Ultimate Robot | 279815 | [279815-isaac-asimovs-the-ultimate-robot.json](./279815-isaac-asimovs-the-ultimate-robot.json) |
+| Isaac Desulme | 413349 | [413349-isaac-desulme.json](./413349-isaac-desulme.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
 | Isaac the Adventurer | 35993 | [35993-isaac-the-adventurer.json](./35993-isaac-the-adventurer.json) |
 | Isaac's Odyssey | 323024 | [323024-isaacs-odyssey.json](./323024-isaacs-odyssey.json) |
