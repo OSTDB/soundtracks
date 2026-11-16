@@ -4484,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
 | Sea Boy | 222723 | [222723-sea-boy.json](./222723-sea-boy.json) |
+| Sea Breath | 419800 | [419800-sea-breath.json](./419800-sea-breath.json) |
 | Sea Breeze | 180883 | [180883-sea-breeze.json](./180883-sea-breeze.json) |
 | Sea Bubble | 121329 | [121329-sea-bubble.json](./121329-sea-bubble.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
@@ -10430,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Tycoon: Prepare Your Wallet | 142673 | [142673-shop-tycoon-prepare-your-wallet.json](./142673-shop-tycoon-prepare-your-wallet.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
 | Shop-n-Spree: Shopping Paradise | 31332 | [31332-shop-n-spree-shopping-paradise.json](./31332-shop-n-spree-shopping-paradise.json) |
+| Shopenkraft's Magic Goods | 419734 | [419734-shopenkrafts-magic-goods.json](./419734-shopenkrafts-magic-goods.json) |
 | Shopenkraft's Quantum Curiosities | 411501 | [411501-shopenkrafts-quantum-curiosities.json](./411501-shopenkrafts-quantum-curiosities.json) |
 | ShopFront | 348568 | [348568-shopfront.json](./348568-shopfront.json) |
 | Shopkeeper Simulator | 117613 | [117613-shopkeeper-simulator.json](./117613-shopkeeper-simulator.json) |
@@ -14594,6 +14596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyTrip America | 208916 | [208916-skytrip-america.json](./208916-skytrip-america.json) |
 | Skytropolis | 74255 | [74255-skytropolis.json](./74255-skytropolis.json) |
 | Skyts | 279042 | [279042-skyts.json](./279042-skyts.json) |
+| Skyturns | 419721 | [419721-skyturns.json](./419721-skyturns.json) |
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skywalk | 118472 | [118472-skywalk.json](./118472-skywalk.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
@@ -20688,6 +20691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Labs | 420319 | [420319-sort-labs.json](./420319-sort-labs.json) |
 | Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
+| Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
@@ -24527,6 +24531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spies in the Night | 256770 | [256770-spies-in-the-night.json](./256770-spies-in-the-night.json) |
 | Spies Spies Spies | 242857 | [242857-spies-spies-spies.json](./242857-spies-spies-spies.json) |
+| Spies With Very Little Intelligence | 419805 | [419805-spies-with-very-little-intelligence.json](./419805-spies-with-very-little-intelligence.json) |
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
 | Spikair Volleyball | 188995 | [188995-spikair-volleyball.json](./188995-spikair-volleyball.json) |
 | Spike | 174628 | [174628-spike.json](./174628-spike.json) |
@@ -28020,6 +28025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcats | 99283 | [99283-starcats.json](./99283-starcats.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | Starchaser: Priestess of the Night Sky | 35363 | [35363-starchaser-priestess-of-the-night-sky.json](./35363-starchaser-priestess-of-the-night-sky.json) |
+| Starchef | 419814 | [419814-starchef.json](./419814-starchef.json) |
 | Starchild Velta and loadtosky | 196972 | [196972-starchild-velta-and-loadtosky.json](./196972-starchild-velta-and-loadtosky.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
@@ -39488,6 +39494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home - Pets | 25411 | [25411-sweet-home-pets.json](./25411-sweet-home-pets.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
+| Sweet Home 7: Look and Find | 419824 | [419824-sweet-home-7-look-and-find.json](./419824-sweet-home-7-look-and-find.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
 | Sweet Home: Look and Find - Collector's Edition | 277737 | [277737-sweet-home-look-and-find-collectors-edition.json](./277737-sweet-home-look-and-find-collectors-edition.json) |
