@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Empire Simulator | 366962 | [366962-market-empire-simulator.json](./366962-market-empire-simulator.json) |
 | Market Garden | 349059 | [349059-market-garden.json](./349059-market-garden.json) |
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
+| Market is Fine | 397959 | [397959-market-is-fine.json](./397959-market-is-fine.json) |
 | Market Manager Simulator | 412597 | [412597-market-manager-simulator.json](./412597-market-manager-simulator.json) |
 | Market Master Simulator | 309952 | [309952-market-master-simulator.json](./309952-market-master-simulator.json) |
 | Market Moe | 383171 | [383171-market-moe.json](./383171-market-moe.json) |
@@ -9051,6 +9052,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Snake: highly addictive | 232602 | [232602-mega-snake-highly-addictive.json](./232602-mega-snake-highly-addictive.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Solitaire Collection | 151335 | [151335-mega-solitaire-collection.json](./151335-mega-solitaire-collection.json) |
+| Mega Sports | 397365 | [397365-mega-sports.json](./397365-mega-sports.json) |
+| Mega Sports | 397366 | [397366-mega-sports.json](./397366-mega-sports.json) |
 | Mega Sports | 397367 | [397367-mega-sports.json](./397367-mega-sports.json) |
 | Mega Sports | 397368 | [397368-mega-sports.json](./397368-mega-sports.json) |
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
@@ -15024,6 +15027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minor Planet Miner | 184396 | [184396-minor-planet-miner.json](./184396-minor-planet-miner.json) |
 | Minor Scale | 245827 | [245827-minor-scale.json](./245827-minor-scale.json) |
 | Minoria | 110121 | [110121-minoria.json](./110121-minoria.json) |
+| Minoriteam: Racist Checkers | 397355 | [397355-minoriteam-racist-checkers.json](./397355-minoriteam-racist-checkers.json) |
 | Minority Report: Everybody Runs | 248459 | [248459-minority-report-everybody-runs.json](./248459-minority-report-everybody-runs.json) |
 | Minority Report: Everybody Runs | 4012 | [4012-minority-report-everybody-runs.json](./4012-minority-report-everybody-runs.json) |
 | Minos | 241701 | [241701-minos.json](./241701-minos.json) |
