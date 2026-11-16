@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 326 | 254711 | [254711-326.json](./254711-326.json) |
+| 32in24-14: How the Hamburglar Stole Christmas | 315168 | [315168-32in24-14-how-the-hamburglar-stole-christmas.json](./315168-32in24-14-how-the-hamburglar-stole-christmas.json) |
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
 | 33 kvadratnykh metra: Voyna s sosedyami | 337520 | [337520-33-kvadratnykh-metra-voyna-s-sosedyami.json](./337520-33-kvadratnykh-metra-voyna-s-sosedyami.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3AM on Fish Island | 367447 | [367447-3am-on-fish-island.json](./367447-3am-on-fish-island.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
+| 3Chess | 324041 | [324041-3chess.json](./324041-3chess.json) |
 | 3Chess | 400449 | [400449-3chess.json](./400449-3chess.json) |
 | 3D Advantime | 159401 | [159401-3d-advantime.json](./159401-3d-advantime.json) |
 | 3D After Burner II | 84678 | [84678-3d-after-burner-ii.json](./84678-3d-after-burner-ii.json) |
@@ -3618,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 days with Death | 73082 | [73082-7-days-with-death.json](./73082-7-days-with-death.json) |
 | 7 Devil's Deals | 428140 | [428140-7-devils-deals.json](./428140-7-devils-deals.json) |
 | 7 Dice Destroyers | 366119 | [366119-7-dice-destroyers.json](./366119-7-dice-destroyers.json) |
+| 7 dní a 7 nocí | 324018 | [324018-7-dni-a-7-noci.json](./324018-7-dni-a-7-noci.json) |
 | 7 Gates: The Path to Zamolxes | 52351 | [52351-7-gates-the-path-to-zamolxes.json](./52351-7-gates-the-path-to-zamolxes.json) |
 | 7 Girls War | 160238 | [160238-7-girls-war.json](./160238-7-girls-war.json) |
 | 7 Grand Dad | 146068 | [146068-7-grand-dad.json](./146068-7-grand-dad.json) |
