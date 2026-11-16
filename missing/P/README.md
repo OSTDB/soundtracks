@@ -2986,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
 | Party Fun Pirate | 77065 | [77065-party-fun-pirate.json](./77065-party-fun-pirate.json) |
+| Party Fun! 8-Player Common Sense Battle | 417866 | [417866-party-fun-8-player-common-sense-battle.json](./417866-party-fun-8-player-common-sense-battle.json) |
 | Party Game Box 100 | 268401 | [268401-party-game-box-100.json](./268401-party-game-box-100.json) |
 | Party Games | 296237 | [296237-party-games.json](./296237-party-games.json) |
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
@@ -3757,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Planet | 258783 | [258783-pawn-planet.json](./258783-pawn-planet.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
+| Pawn Shop | 416428 | [416428-pawn-shop.json](./416428-pawn-shop.json) |
 | Pawn Shop Days | 425396 | [425396-pawn-shop-days.json](./425396-pawn-shop-days.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawn Shop Simulator | 297178 | [297178-pawn-shop-simulator.json](./297178-pawn-shop-simulator.json) |
@@ -4634,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin's ArcticDex | 405899 | [405899-penguins-arcticdex.json](./405899-penguins-arcticdex.json) |
 | Penguin's Dogma | 135428 | [135428-penguins-dogma.json](./135428-penguins-dogma.json) |
 | Penguin's Love | 361639 | [361639-penguins-love.json](./361639-penguins-love.json) |
+| Penguin's Progress | 417836 | [417836-penguins-progress.json](./417836-penguins-progress.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
 | Penguin's Treasure Hunt | 421632 | [421632-penguins-treasure-hunt.json](./421632-penguins-treasure-hunt.json) |
 | Penguin's Treasure Hunt 2 | 421633 | [421633-penguins-treasure-hunt-2.json](./421633-penguins-treasure-hunt-2.json) |
@@ -9174,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Hunter | 17626 | [17626-pixel-hunter.json](./17626-pixel-hunter.json) |
 | Pixel Hunter | 402339 | [402339-pixel-hunter.json](./402339-pixel-hunter.json) |
 | Pixel Hunter Idle | 273564 | [273564-pixel-hunter-idle.json](./273564-pixel-hunter-idle.json) |
+| Pixel Hunters: Turn Retro Consoles into your Boyfriend | 417865 | [417865-pixel-hunters-turn-retro-consoles-into-your-boyfriend.json](./417865-pixel-hunters-turn-retro-consoles-into-your-boyfriend.json) |
 | Pixel Islands | 177328 | [177328-pixel-islands.json](./177328-pixel-islands.json) |
 | Pixel Jumper | 192040 | [192040-pixel-jumper.json](./192040-pixel-jumper.json) |
 | Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
@@ -10357,6 +10361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Jump | 91324 | [91324-planet-jump.json](./91324-planet-jump.json) |
 | Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
 | Planet Keeper Program | 349263 | [349263-planet-keeper-program.json](./349263-planet-keeper-program.json) |
+| Planet Killer | 417855 | [417855-planet-killer.json](./417855-planet-killer.json) |
 | Planet Laika | 56583 | [56583-planet-laika.json](./56583-planet-laika.json) |
 | Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
 | Planet Lev | 150452 | [150452-planet-lev.json](./150452-planet-lev.json) |
@@ -11894,6 +11899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pode | 94054 | [94054-pode.json](./94054-pode.json) |
 | Podium Bash | 74955 | [74955-podium-bash.json](./74955-podium-bash.json) |
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
+| Podstakannik Rails | 417733 | [417733-podstakannik-rails.json](./417733-podstakannik-rails.json) |
 | Podvodsk | 360472 | [360472-podvodsk.json](./360472-podvodsk.json) |
 | Poe | 227889 | [227889-poe.json](./227889-poe.json) |
 | Poe | 293362 | [293362-poe.json](./293362-poe.json) |
@@ -17847,6 +17853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project I.G.I.: I'm Going In | 3201 | [3201-project-i-g-i-im-going-in.json](./3201-project-i-g-i-im-going-in.json) |
 | Project Ichr | 174585 | [174585-project-ichr.json](./174585-project-ichr.json) |
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
+| Project Ignite | 416405 | [416405-project-ignite.json](./416405-project-ignite.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project II: Silent Valley | 369605 | [369605-project-ii-silent-valley.json](./369605-project-ii-silent-valley.json) |
 | Project Immortal | 124518 | [124518-project-immortal.json](./124518-project-immortal.json) |
@@ -19250,6 +19257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puckman Pockimon Genie 2000 | 382664 | [382664-puckman-pockimon-genie-2000.json](./382664-puckman-pockimon-genie-2000.json) |
 | Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
+| Puckoff: Reloaded | 416447 | [416447-puckoff-reloaded.json](./416447-puckoff-reloaded.json) |
 | Pud Pud in Weird World | 77461 | [77461-pud-pud-in-weird-world.json](./77461-pud-pud-in-weird-world.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Puddies | 256601 | [256601-puddies.json](./256601-puddies.json) |
