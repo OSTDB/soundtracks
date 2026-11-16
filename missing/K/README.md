@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keys of The Kingdom | 209840 | [209840-keys-of-the-kingdom.json](./209840-keys-of-the-kingdom.json) |
 | Keys to Wonderland | 399623 | [399623-keys-to-wonderland.json](./399623-keys-to-wonderland.json) |
 | Keys, Please | 272176 | [272176-keys-please.json](./272176-keys-please.json) |
+| Keysaster | 399315 | [399315-keysaster.json](./399315-keysaster.json) |
 | Keyscaper | 74654 | [74654-keyscaper.json](./74654-keyscaper.json) |
 | Keysmasher Ultimate | 284739 | [284739-keysmasher-ultimate.json](./284739-keysmasher-ultimate.json) |
 | Keyspace | 321040 | [321040-keyspace.json](./321040-keyspace.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
 | Kick'n Hell | 296414 | [296414-kickn-hell.json](./296414-kickn-hell.json) |
 | Kickabit | 319966 | [319966-kickabit.json](./319966-kickabit.json) |
+| Kickabout | 398613 | [398613-kickabout.json](./398613-kickabout.json) |
 | Kickback | 108491 | [108491-kickback.json](./108491-kickback.json) |
 | Kickback | 293030 | [293030-kickback.json](./293030-kickback.json) |
 | Kickback Clash | 387320 | [387320-kickback-clash.json](./387320-kickback-clash.json) |
