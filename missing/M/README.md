@@ -7116,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
 | Maze Qore Arena | 129340 | [129340-maze-qore-arena.json](./129340-maze-qore-arena.json) |
 | Maze Quest | 240057 | [240057-maze-quest.json](./240057-maze-quest.json) |
+| Maze Quest | 334396 | [334396-maze-quest.json](./334396-maze-quest.json) |
 | Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
 | Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
@@ -13448,6 +13449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milling Machine 3D | 190804 | [190804-milling-machine-3d.json](./190804-milling-machine-3d.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
 | Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
+| Million Clicker | 334371 | [334371-million-clicker.json](./334371-million-clicker.json) |
 | Million Depth | 262869 | [262869-million-depth.json](./262869-million-depth.json) |
 | Million Dollar Adventure | 88658 | [88658-million-dollar-adventure.json](./88658-million-dollar-adventure.json) |
 | Million Dollar Adventure: hidden object game | 99860 | [99860-million-dollar-adventure-hidden-object-game.json](./99860-million-dollar-adventure-hidden-object-game.json) |
@@ -13852,6 +13854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindustry Classic | 178425 | [178425-mindustry-classic.json](./178425-mindustry-classic.json) |
 | MindVenture | 211866 | [211866-mindventure.json](./211866-mindventure.json) |
+| Mindweaver Chronicles | 334387 | [334387-mindweaver-chronicles.json](./334387-mindweaver-chronicles.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | MindWorks | 159566 | [159566-mindworks.json](./159566-mindworks.json) |
 | Mindworks: The Great Division | 227582 | [227582-mindworks-the-great-division.json](./227582-mindworks-the-great-division.json) |
@@ -19001,6 +19004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonport | 291147 | [291147-moonport.json](./291147-moonport.json) |
 | MoonQuest | 105112 | [105112-moonquest.json](./105112-moonquest.json) |
+| Moonrace | 335526 | [335526-moonrace.json](./335526-moonrace.json) |
 | Moonrakers: Luminor | 208559 | [208559-moonrakers-luminor.json](./208559-moonrakers-luminor.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
