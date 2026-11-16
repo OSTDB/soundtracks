@@ -3983,6 +3983,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Chapter 2 - Boys in Blue | 314343 | [314343-payday-3-chapter-2-boys-in-blue.json](./314343-payday-3-chapter-2-boys-in-blue.json) |
 | Payday 3: Chapter 3 - Houston Breakout | 314227 | [314227-payday-3-chapter-3-houston-breakout.json](./314227-payday-3-chapter-3-houston-breakout.json) |
 | Payday 3: Chapter 4 - Fear & Greed | 371317 | [371317-payday-3-chapter-4-fear-and-greed.json](./371317-payday-3-chapter-4-fear-and-greed.json) |
+| Payday 3: Collector's Edition | 253060 | [253060-payday-3-collectors-edition.json](./253060-payday-3-collectors-edition.json) |
+| Payday 3: Day One Edition | 253059 | [253059-payday-3-day-one-edition.json](./253059-payday-3-day-one-edition.json) |
 | Payday 3: Fear & Greed Heist | 338033 | [338033-payday-3-fear-and-greed-heist.json](./338033-payday-3-fear-and-greed-heist.json) |
 | Payday 3: Fear & Greed Tailor Pack | 338034 | [338034-payday-3-fear-and-greed-tailor-pack.json](./338034-payday-3-fear-and-greed-tailor-pack.json) |
 | Payday 3: Fear & Greed Weapon Pack | 338035 | [338035-payday-3-fear-and-greed-weapon-pack.json](./338035-payday-3-fear-and-greed-weapon-pack.json) |
@@ -16139,6 +16141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride of Nations: Spanish-American War 1898 | 119950 | [119950-pride-of-nations-spanish-american-war-1898.json](./119950-pride-of-nations-spanish-american-war-1898.json) |
 | Pride of Nations: The Franco-Prussian War 1870 | 119952 | [119952-pride-of-nations-the-franco-prussian-war-1870.json](./119952-pride-of-nations-the-franco-prussian-war-1870.json) |
 | Pride of Nations: The Scramble for Africa | 119949 | [119949-pride-of-nations-the-scramble-for-africa.json](./119949-pride-of-nations-the-scramble-for-africa.json) |
+| Pride of Nindo | 252967 | [252967-pride-of-nindo.json](./252967-pride-of-nindo.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Pride Run | 104131 | [104131-pride-run.json](./104131-pride-run.json) |
 | Prideblood: Born of Claws | 425127 | [425127-prideblood-born-of-claws.json](./425127-prideblood-born-of-claws.json) |
@@ -17701,6 +17704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Borealis | 117278 | [117278-project-borealis.json](./117278-project-borealis.json) |
 | Project Borealis: Prologue | 321863 | [321863-project-borealis-prologue.json](./321863-project-borealis-prologue.json) |
 | Project Box | 124399 | [124399-project-box.json](./124399-project-box.json) |
+| Project Breach 2 | 252969 | [252969-project-breach-2.json](./252969-project-breach-2.json) |
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
 | Project Breakout | 274366 | [274366-project-breakout.json](./274366-project-breakout.json) |
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
@@ -20004,6 +20008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Pool Snooker Bundle | 193761 | [193761-pure-pool-snooker-bundle.json](./193761-pure-pool-snooker-bundle.json) |
 | Pure Pure Pero Pero Princess | 331039 | [331039-pure-pure-pero-pero-princess.json](./331039-pure-pure-pero-pero-princess.json) |
 | Pure Shooter | 360687 | [360687-pure-shooter.json](./360687-pure-shooter.json) |
+| Pure Sniper | 252978 | [252978-pure-sniper.json](./252978-pure-sniper.json) |
 | Pure Song Garden! | 194575 | [194575-pure-song-garden.json](./194575-pure-song-garden.json) |
 | Pure Stat College Basketball | 47212 | [47212-pure-stat-college-basketball.json](./47212-pure-stat-college-basketball.json) |
 | Pure White Chord | 230386 | [230386-pure-white-chord.json](./230386-pure-white-chord.json) |
