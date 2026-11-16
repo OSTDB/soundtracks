@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.S.S. Citadel VR | 32080 | [32080-c-s-s-citadel-vr.json](./32080-c-s-s-citadel-vr.json) |
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
+| C.U.B.E.: Clever Uber Bot Extensible | 349002 | [349002-c-u-b-e-clever-uber-bot-extensible.json](./349002-c-u-b-e-clever-uber-bot-extensible.json) |
 | C.U.B.I.P.L.E.X. | 58576 | [58576-c-u-b-i-p-l-e-x.json](./58576-c-u-b-i-p-l-e-x.json) |
 | C.U.T.S | 355986 | [355986-c-u-t-s.json](./355986-c-u-t-s.json) |
 | C.V.: Watashi to Watashi no Naka no Hito - The Fourth Insider | 397400 | [397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json](./397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json) |
@@ -2593,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Scrapyard Simulator | 217267 | [217267-car-scrapyard-simulator.json](./217267-car-scrapyard-simulator.json) |
 | Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
 | Car Service Simulator | 326466 | [326466-car-service-simulator.json](./326466-car-service-simulator.json) |
+| Car Service Together | 348997 | [348997-car-service-together.json](./348997-car-service-together.json) |
 | Car Showroom: Luxury Sports Auto Racing Simulator | 106124 | [106124-car-showroom-luxury-sports-auto-racing-simulator.json](./106124-car-showroom-luxury-sports-auto-racing-simulator.json) |
 | Car Simulator 2 | 208203 | [208203-car-simulator-2.json](./208203-car-simulator-2.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
@@ -10096,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipheur: Trivia - Biology | 361015 | [361015-cipheur-trivia-biology.json](./361015-cipheur-trivia-biology.json) |
 | Cipheur: Trivia - Geography | 384009 | [384009-cipheur-trivia-geography.json](./384009-cipheur-trivia-geography.json) |
 | Cipheur: Trivia - Physics | 361011 | [361011-cipheur-trivia-physics.json](./361011-cipheur-trivia-physics.json) |
+| Cipheur: Uncommon Words 2 | 350077 | [350077-cipheur-uncommon-words-2.json](./350077-cipheur-uncommon-words-2.json) |
 | Ciphoid 9 | 329980 | [329980-ciphoid-9.json](./329980-ciphoid-9.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
@@ -10127,6 +10130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Empires: Apex Monsters! | 124853 | [124853-circle-empires-apex-monsters.json](./124853-circle-empires-apex-monsters.json) |
 | Circle Illusion: Calm Clicker | 383316 | [383316-circle-illusion-calm-clicker.json](./383316-circle-illusion-calm-clicker.json) |
 | Circle Killer | 253653 | [253653-circle-killer.json](./253653-circle-killer.json) |
+| Circle Mountain Circle Sea | 349007 | [349007-circle-mountain-circle-sea.json](./349007-circle-mountain-circle-sea.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
 | Circle of Bosses | 373052 | [373052-circle-of-bosses.json](./373052-circle-of-bosses.json) |
 | Circle of Caina SP | 257151 | [257151-circle-of-caina-sp.json](./257151-circle-of-caina-sp.json) |
@@ -12506,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | CMYW | 34607 | [34607-cmyw.json](./34607-cmyw.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
+| Co-Ape: Rise of the Monke | 349006 | [349006-co-ape-rise-of-the-monke.json](./349006-co-ape-rise-of-the-monke.json) |
 | Co-Co Corn Mafia | 54838 | [54838-co-co-corn-mafia.json](./54838-co-co-corn-mafia.json) |
 | Co-Drive Chaos | 389952 | [389952-co-drive-chaos.json](./389952-co-drive-chaos.json) |
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
@@ -20975,7 +20980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
 | Crustacean Station! | 405788 | [405788-crustacean-station.json](./405788-crustacean-station.json) |
-| Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
 | Crusty Proto | 324856 | [324856-crusty-proto.json](./324856-crusty-proto.json) |
 | CruSuku Wit You | 98068 | [98068-crusuku-wit-you.json](./98068-crusuku-wit-you.json) |
 | Crux | 244642 | [244642-crux.json](./244642-crux.json) |
