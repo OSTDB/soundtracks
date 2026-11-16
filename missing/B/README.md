@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Gobelet | 185233 | [185233-bad-gobelet.json](./185233-bad-gobelet.json) |
 | Bad Government | 55499 | [55499-bad-government.json](./55499-bad-government.json) |
 | Bad Granny Little Thief | 411881 | [411881-bad-granny-little-thief.json](./411881-bad-granny-little-thief.json) |
+| Bad Grip Club | 406956 | [406956-bad-grip-club.json](./406956-bad-grip-club.json) |
 | Bad Guy Adventure | 151136 | [151136-bad-guy-adventure.json](./151136-bad-guy-adventure.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Guys at School | 128352 | [128352-bad-guys-at-school.json](./128352-bad-guys-at-school.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls | 379996 | [379996-balls.json](./379996-balls.json) |
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
 | Balls & Beats | 238786 | [238786-balls-and-beats.json](./238786-balls-and-beats.json) |
+| Balls & Gamble | 406355 | [406355-balls-and-gamble.json](./406355-balls-and-gamble.json) |
 | Balls and Coins | 250541 | [250541-balls-and-coins.json](./250541-balls-and-coins.json) |
 | Balls and Dungeons | 189127 | [189127-balls-and-dungeons.json](./189127-balls-and-dungeons.json) |
 | Balls and Magnets | 83538 | [83538-balls-and-magnets.json](./83538-balls-and-magnets.json) |
@@ -6893,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Smile | 374800 | [374800-behind-the-smile.json](./374800-behind-the-smile.json) |
 | Behind the Sword | 333825 | [333825-behind-the-sword.json](./333825-behind-the-sword.json) |
 | Behind The Truth | 83954 | [83954-behind-the-truth.json](./83954-behind-the-truth.json) |
+| Behind The Walls | 406373 | [406373-behind-the-walls.json](./406373-behind-the-walls.json) |
 | Behind Walls | 96375 | [96375-behind-walls.json](./96375-behind-walls.json) |
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behind You | 359079 | [359079-behind-you.json](./359079-behind-you.json) |
@@ -19508,6 +19511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Soul Infinite Burst | 5645 | [5645-bullet-soul-infinite-burst.json](./5645-bullet-soul-infinite-burst.json) |
 | Bullet Soul: Tama Tamashii | 43952 | [43952-bullet-soul-tama-tamashii.json](./43952-bullet-soul-tama-tamashii.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
+| Bullet Spell | 406354 | [406354-bullet-spell.json](./406354-bullet-spell.json) |
 | Bullet Strike | 378951 | [378951-bullet-strike.json](./378951-bullet-strike.json) |
 | Bullet Strike: Battlegrounds | 70910 | [70910-bullet-strike-battlegrounds.json](./70910-bullet-strike-battlegrounds.json) |
 | Bullet Strike: Sniper Battlegrounds | 106475 | [106475-bullet-strike-sniper-battlegrounds.json](./106475-bullet-strike-sniper-battlegrounds.json) |
