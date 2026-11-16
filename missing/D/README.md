@@ -4703,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Descent | 310905 | [310905-deadly-descent.json](./310905-deadly-descent.json) |
 | Deadly Desert | 220009 | [220009-deadly-desert.json](./220009-deadly-desert.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
+| Deadly Disco | 291635 | [291635-deadly-disco.json](./291635-deadly-disco.json) |
 | Deadly Dog-Dating Dungeon | 185261 | [185261-deadly-dog-dating-dungeon.json](./185261-deadly-dog-dating-dungeon.json) |
 | Deadly Dogs | 41476 | [41476-deadly-dogs.json](./41476-deadly-dogs.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
@@ -12712,6 +12713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DIY Paper Doll: Classy Edition | 284940 | [284940-diy-paper-doll-classy-edition.json](./284940-diy-paper-doll-classy-edition.json) |
 | DIY Paper Doll: Complete Edition | 280604 | [280604-diy-paper-doll-complete-edition.json](./280604-diy-paper-doll-complete-edition.json) |
+| DIY Paper Doll: Stylish Edition | 291643 | [291643-diy-paper-doll-stylish-edition.json](./291643-diy-paper-doll-stylish-edition.json) |
 | DIY Simulator | 126090 | [126090-diy-simulator.json](./126090-diy-simulator.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | DIY Tour: Indie Rock Simulator | 197552 | [197552-diy-tour-indie-rock-simulator.json](./197552-diy-tour-indie-rock-simulator.json) |
@@ -13850,6 +13852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Island | 60699 | [60699-dolphin-island.json](./60699-dolphin-island.json) |
 | Dolphin Island 2 | 177345 | [177345-dolphin-island-2.json](./177345-dolphin-island-2.json) |
 | Dolphin Island: Underwater Adventures | 122510 | [122510-dolphin-island-underwater-adventures.json](./122510-dolphin-island-underwater-adventures.json) |
+| Dolphin Olympics | 291628 | [291628-dolphin-olympics.json](./291628-dolphin-olympics.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
 | Dolphin Paradise | 107676 | [107676-dolphin-paradise.json](./107676-dolphin-paradise.json) |
 | Dolphin Paradise: Wild Friends | 251739 | [251739-dolphin-paradise-wild-friends.json](./251739-dolphin-paradise-wild-friends.json) |
