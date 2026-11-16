@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
+| A Pig Game: A Pee Wee Premiere | 366751 | [366751-a-pig-game-a-pee-wee-premiere.json](./366751-a-pig-game-a-pee-wee-premiere.json) |
 | A Pig's Dreams | 212384 | [212384-a-pigs-dreams.json](./212384-a-pigs-dreams.json) |
 | A Pigeon Detective Game: Twin Beaks | 190803 | [190803-a-pigeon-detective-game-twin-beaks.json](./190803-a-pigeon-detective-game-twin-beaks.json) |
 | A Pilferer Lily's Naked Stealth Journey | 83162 | [83162-a-pilferer-lilys-naked-stealth-journey.json](./83162-a-pilferer-lilys-naked-stealth-journey.json) |
@@ -4640,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeons of Rebirth | 379489 | [379489-aeons-of-rebirth.json](./379489-aeons-of-rebirth.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | AeonX | 308321 | [308321-aeonx.json](./308321-aeonx.json) |
+| Aeos: The 18 Plus NSFW Adventure Generator | 367339 | [367339-aeos-the-18-plus-nsfw-adventure-generator.json](./367339-aeos-the-18-plus-nsfw-adventure-generator.json) |
 | Aephemera | 355469 | [355469-aephemera.json](./355469-aephemera.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | Aequor | 276752 | [276752-aequor.json](./276752-aequor.json) |
@@ -11900,8 +11902,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dream Match: Birds | 364133 | [364133-anime-dream-match-birds.json](./364133-anime-dream-match-birds.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Butterflies | 360467 | [360467-anime-dream-match-butterflies.json](./360467-anime-dream-match-butterflies.json) |
+| Anime Dream Match: Cats | 366148 | [366148-anime-dream-match-cats.json](./366148-anime-dream-match-cats.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
 | Anime Dream Match: Girls | 338412 | [338412-anime-dream-match-girls.json](./338412-anime-dream-match-girls.json) |
+| Anime Dream Match: Girls 2 | 366149 | [366149-anime-dream-match-girls-2.json](./366149-anime-dream-match-girls-2.json) |
 | Anime Dream Match: Horses | 378531 | [378531-anime-dream-match-horses.json](./378531-anime-dream-match-horses.json) |
 | Anime Dream Match: Predators | 366134 | [366134-anime-dream-match-predators.json](./366134-anime-dream-match-predators.json) |
 | Anime Dream Match: Primates | 351558 | [351558-anime-dream-match-primates.json](./351558-anime-dream-match-primates.json) |
@@ -14257,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Touchdown Fever | 384203 | [384203-arcade-archives-2-touchdown-fever.json](./384203-arcade-archives-2-touchdown-fever.json) |
 | Arcade Archives 2: TX-1 | 411809 | [411809-arcade-archives-2-tx-1.json](./411809-arcade-archives-2-tx-1.json) |
 | Arcade Archives 2: V'Ball | 413937 | [413937-arcade-archives-2-vball.json](./413937-arcade-archives-2-vball.json) |
+| Arcade Archives 2: Video Hustler | 366754 | [366754-arcade-archives-2-video-hustler.json](./366754-arcade-archives-2-video-hustler.json) |
 | Arcade Archives 2: Wiz | 417316 | [417316-arcade-archives-2-wiz.json](./417316-arcade-archives-2-wiz.json) |
 | Arcade Archives 2: Xevious 3D/G | 422770 | [422770-arcade-archives-2-xevious-3d-g.json](./422770-arcade-archives-2-xevious-3d-g.json) |
 | Arcade Archives VS. The Adventures of Valkyrie | 310367 | [310367-arcade-archives-vs-the-adventures-of-valkyrie.json](./310367-arcade-archives-vs-the-adventures-of-valkyrie.json) |
@@ -14637,6 +14642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vandyke | 165600 | [165600-arcade-archives-vandyke.json](./165600-arcade-archives-vandyke.json) |
 | Arcade Archives: Vendetta | 159395 | [159395-arcade-archives-vendetta.json](./159395-arcade-archives-vendetta.json) |
 | Arcade Archives: Victory Road | 121357 | [121357-arcade-archives-victory-road.json](./121357-arcade-archives-victory-road.json) |
+| Arcade Archives: Video Hustler | 366753 | [366753-arcade-archives-video-hustler.json](./366753-arcade-archives-video-hustler.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Violence Fight | 320312 | [320312-arcade-archives-violence-fight.json](./320312-arcade-archives-violence-fight.json) |
 | Arcade Archives: Viper Phase 1 | 325894 | [325894-arcade-archives-viper-phase-1.json](./325894-arcade-archives-viper-phase-1.json) |
@@ -16990,6 +16996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Duty Demands | 383103 | [383103-as-duty-demands.json](./383103-as-duty-demands.json) |
 | As Fast As Possible | 145819 | [145819-as-fast-as-possible.json](./145819-as-fast-as-possible.json) |
 | As Guilty As the Moon | 236453 | [236453-as-guilty-as-the-moon.json](./236453-as-guilty-as-the-moon.json) |
+| As Hermit Crabs Do | 366159 | [366159-as-hermit-crabs-do.json](./366159-as-hermit-crabs-do.json) |
 | As I Began to Dream | 256722 | [256722-as-i-began-to-dream.json](./256722-as-i-began-to-dream.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
 | As If Through Glass | 395339 | [395339-as-if-through-glass.json](./395339-as-if-through-glass.json) |
@@ -20849,6 +20856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awrak | 348589 | [348589-awrak.json](./348589-awrak.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | Awsome Metal Detecting | 74730 | [74730-awsome-metal-detecting.json](./74730-awsome-metal-detecting.json) |
+| Awss | 366146 | [366146-awss.json](./366146-awss.json) |
 | Awurda First Wave | 353759 | [353759-awurda-first-wave.json](./353759-awurda-first-wave.json) |
 | Ax Battler GG2SMS | 369480 | [369480-ax-battler-gg2sms.json](./369480-ax-battler-gg2sms.json) |
 | Ax Battler: A Legend of Golden Axe | 19485 | [19485-ax-battler-a-legend-of-golden-axe.json](./19485-ax-battler-a-legend-of-golden-axe.json) |
