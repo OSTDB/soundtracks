@@ -5281,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Magic 5: Back to School | 195303 | [195303-secrets-of-magic-5-back-to-school.json](./195303-secrets-of-magic-5-back-to-school.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
 | Secrets of Magic: The Book of Spells & Secrets of Magic 2: Witches and Wizards - Double Pack | 140915 | [140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json](./140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json) |
+| Secrets of Magonia | 305670 | [305670-secrets-of-magonia.json](./305670-secrets-of-magonia.json) |
 | Secrets of Me | 31974 | [31974-secrets-of-me.json](./31974-secrets-of-me.json) |
 | Secrets of Merveille Castle | 309967 | [309967-secrets-of-merveille-castle.json](./309967-secrets-of-merveille-castle.json) |
 | Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
@@ -39112,6 +39113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor | 208345 | [208345-survivor.json](./208345-survivor.json) |
 | Survivor | 208346 | [208346-survivor.json](./208346-survivor.json) |
 | Survivor | 22801 | [22801-survivor.json](./22801-survivor.json) |
+| Survivor | 305666 | [305666-survivor.json](./305666-survivor.json) |
 | Survivor | 91467 | [91467-survivor.json](./91467-survivor.json) |
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
