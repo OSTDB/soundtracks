@@ -6441,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
 | The Amazing Digital Circus Visual Novel: Candy Chaos | 364875 | [364875-the-amazing-digital-circus-visual-novel-candy-chaos.json](./364875-the-amazing-digital-circus-visual-novel-candy-chaos.json) |
 | The Amazing Digital Circus: Fan VN Game | 350771 | [350771-the-amazing-digital-circus-fan-vn-game.json](./350771-the-amazing-digital-circus-fan-vn-game.json) |
+| The Amazing Digital Circus: Lost Demo | 366164 | [366164-the-amazing-digital-circus-lost-demo.json](./366164-the-amazing-digital-circus-lost-demo.json) |
 | The Amazing Digital Funkin' | 276091 | [276091-the-amazing-digital-funkin.json](./276091-the-amazing-digital-funkin.json) |
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
@@ -10668,6 +10669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Million | 395740 | [395740-the-first-million.json](./395740-the-first-million.json) |
 | The First Mine | 283352 | [283352-the-first-mine.json](./283352-the-first-mine.json) |
 | The First Mountain | 219634 | [219634-the-first-mountain.json](./219634-the-first-mountain.json) |
+| The First Nightmare | 366144 | [366144-the-first-nightmare.json](./366144-the-first-nightmare.json) |
 | The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First Project | 144584 | [144584-the-first-project.json](./144584-the-first-project.json) |
@@ -21375,6 +21377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Winning Secret of the Newbie Strategist Princess | 259171 | [259171-the-winning-secret-of-the-newbie-strategist-princess.json](./259171-the-winning-secret-of-the-newbie-strategist-princess.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
+| The Winter Mind | 366160 | [366160-the-winter-mind.json](./366160-the-winter-mind.json) |
 | The Winter Rose | 233336 | [233336-the-winter-rose.json](./233336-the-winter-rose.json) |
 | The Winter Solstice | 70917 | [70917-the-winter-solstice.json](./70917-the-winter-solstice.json) |
 | The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
