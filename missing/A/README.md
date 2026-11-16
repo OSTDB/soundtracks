@@ -4179,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Bit | 159576 | [159576-adventure-bit.json](./159576-adventure-bit.json) |
 | Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
 | Adventure Boss | 181154 | [181154-adventure-boss.json](./181154-adventure-boss.json) |
+| Adventure boy | 282182 | [282182-adventure-boy.json](./282182-adventure-boy.json) |
 | Adventure Boy Cheapskate | 95928 | [95928-adventure-boy-cheapskate.json](./95928-adventure-boy-cheapskate.json) |
 | Adventure Boy Cheapskate DX | 112684 | [112684-adventure-boy-cheapskate-dx.json](./112684-adventure-boy-cheapskate-dx.json) |
 | Adventure Boy Jailbreak | 127824 | [127824-adventure-boy-jailbreak.json](./127824-adventure-boy-jailbreak.json) |
@@ -13688,6 +13689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Bang! | 150046 | [150046-apple-bang.json](./150046-apple-bang.json) |
 | Apple Bowl | 233315 | [233315-apple-bowl.json](./233315-apple-bowl.json) |
+| Apple Boy 2: Homebound Hero | 280972 | [280972-apple-boy-2-homebound-hero.json](./280972-apple-boy-2-homebound-hero.json) |
 | Apple Catch | 317457 | [317457-apple-catch.json](./317457-apple-catch.json) |
 | Apple Catcher | 425802 | [425802-apple-catcher.json](./425802-apple-catcher.json) |
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
