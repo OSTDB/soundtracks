@@ -6051,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire: Painted Ladies | 303139 | [303139-ai-solitaire-painted-ladies.json](./303139-ai-solitaire-painted-ladies.json) |
 | AI Solitaire: Solitaire Favorites Pack | 303140 | [303140-ai-solitaire-solitaire-favorites-pack.json](./303140-ai-solitaire-solitaire-favorites-pack.json) |
 | Ai space | 153680 | [153680-ai-space.json](./153680-ai-space.json) |
+| AI Spellcraft | 362492 | [362492-ai-spellcraft.json](./362492-ai-spellcraft.json) |
 | AI Stories | 286768 | [286768-ai-stories.json](./286768-ai-stories.json) |
 | AI Stories: Machine Angel | 287923 | [287923-ai-stories-machine-angel.json](./287923-ai-stories-machine-angel.json) |
 | AI Story Quest | 243894 | [243894-ai-story-quest.json](./243894-ai-story-quest.json) |
