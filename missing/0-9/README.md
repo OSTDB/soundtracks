@@ -653,8 +653,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Doors: Escape from Prison | 195637 | [195637-100-doors-escape-from-prison.json](./195637-100-doors-escape-from-prison.json) |
 | 100 Doors: Escape from Work | 167806 | [167806-100-doors-escape-from-work.json](./167806-100-doors-escape-from-work.json) |
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
+| 100 Dwarf Cats | 416421 | [416421-100-dwarf-cats.json](./416421-100-dwarf-cats.json) |
+| 100 Easter Cats | 416422 | [416422-100-easter-cats.json](./416422-100-easter-cats.json) |
 | 100 Easy Maths | 423069 | [423069-100-easy-maths.json](./423069-100-easy-maths.json) |
 | 100 Egypt Cats | 304666 | [304666-100-egypt-cats.json](./304666-100-egypt-cats.json) |
+| 100 Fairyland Cats | 416423 | [416423-100-fairyland-cats.json](./416423-100-fairyland-cats.json) |
 | 100 Familien Spiele | 91608 | [91608-100-familien-spiele.json](./91608-100-familien-spiele.json) |
 | 100 Fantasy Cats | 315288 | [315288-100-fantasy-cats.json](./315288-100-fantasy-cats.json) |
 | 100 Flaps | 183899 | [183899-100-flaps.json](./183899-100-flaps.json) |
@@ -754,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Panda Cats | 417750 | [417750-100-panda-cats.json](./417750-100-panda-cats.json) |
 | 100 Paris Cats | 283035 | [283035-100-paris-cats.json](./283035-100-paris-cats.json) |
 | 100 Percent Star | 45233 | [45233-100-percent-star.json](./45233-100-percent-star.json) |
+| 100 Petopia Cats | 416424 | [416424-100-petopia-cats.json](./416424-100-petopia-cats.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
 | 100 Pirate Cats | 283036 | [283036-100-pirate-cats.json](./283036-100-pirate-cats.json) |
 | 100 Pirate Cats: Extra Content | 288731 | [288731-100-pirate-cats-extra-content.json](./288731-100-pirate-cats-extra-content.json) |
@@ -766,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Romantic Cats | 287352 | [287352-100-romantic-cats.json](./287352-100-romantic-cats.json) |
 | 100 Romantic Cats: Extra Content | 359566 | [359566-100-romantic-cats-extra-content.json](./359566-100-romantic-cats-extra-content.json) |
+| 100 Romantic Hidden Cat | 417892 | [417892-100-romantic-hidden-cat.json](./417892-100-romantic-hidden-cat.json) |
 | 100 Rooms | 283038 | [283038-100-rooms.json](./283038-100-rooms.json) |
 | 100 Rooms | 376837 | [376837-100-rooms.json](./376837-100-rooms.json) |
 | 100 Rooms of Enemies | 247184 | [247184-100-rooms-of-enemies.json](./247184-100-rooms-of-enemies.json) |
@@ -1985,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Attack on Titan | 316546 | [316546-2048-attack-on-titan.json](./316546-2048-attack-on-titan.json) |
 | 2048 Balls 3D | 175991 | [175991-2048-balls-3d.json](./175991-2048-balls-3d.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
+| 2048 Battles: Sylvan Sirens | 417874 | [417874-2048-battles-sylvan-sirens.json](./417874-2048-battles-sylvan-sirens.json) |
 | 2048 Best! | 104318 | [104318-2048-best.json](./104318-2048-best.json) |
 | 2048 Blocks VR | 282998 | [282998-2048-blocks-vr.json](./282998-2048-blocks-vr.json) |
 | 2048 Bosses | 358069 | [358069-2048-bosses.json](./358069-2048-bosses.json) |
@@ -2379,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 3-D Frog Man | 85896 | [85896-3-d-frog-man.json](./85896-3-d-frog-man.json) |
 | 3-D Genesis | 40665 | [40665-3-d-genesis.json](./40665-3-d-genesis.json) |
+| 3-D Glooper | 417735 | [417735-3-d-glooper.json](./417735-3-d-glooper.json) |
 | 3-D Golf Simulation: Super Version | 67414 | [67414-3-d-golf-simulation-super-version.json](./67414-3-d-golf-simulation-super-version.json) |
 | 3-D Havoc | 40664 | [40664-3-d-havoc.json](./40664-3-d-havoc.json) |
 | 3-D Hunting 2010 | 27442 | [27442-3-d-hunting-2010.json](./27442-3-d-hunting-2010.json) |
@@ -2386,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
 | 3-D Monster Chase | 13267 | [13267-3-d-monster-chase.json](./13267-3-d-monster-chase.json) |
 | 3-D Pinball | 255435 | [255435-3-d-pinball.json](./255435-3-d-pinball.json) |
+| 3-D Skramble | 417737 | [417737-3-d-skramble.json](./417737-3-d-skramble.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Tetris | 84680 | [84680-3-d-tetris.json](./84680-3-d-tetris.json) |
 | 3-D Tic-Tac-Toe | 11854 | [11854-3-d-tic-tac-toe.json](./11854-3-d-tic-tac-toe.json) |
