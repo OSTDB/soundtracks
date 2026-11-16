@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nari Kids Park: Hug-tto! PreCure | 109261 | [109261-nari-kids-park-hug-tto-precure.json](./109261-nari-kids-park-hug-tto-precure.json) |
 | Nari Kids Park: Kaitou Sentai Lupinranger VS Keisatsu Sentai Patoranger | 109263 | [109263-nari-kids-park-kaitou-sentai-lupinranger-vs-keisatsu-sentai-patoranger.json](./109263-nari-kids-park-kaitou-sentai-lupinranger-vs-keisatsu-sentai-patoranger.json) |
 | Nari Kids Park: Ultraman R/B | 109264 | [109264-nari-kids-park-ultraman-r-b.json](./109264-nari-kids-park-ultraman-r-b.json) |
+| Nariagari Trendy | 419025 | [419025-nariagari-trendy.json](./419025-nariagari-trendy.json) |
 | Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
 | Narin: The Orange Room | 206317 | [206317-narin-the-orange-room.json](./206317-narin-the-orange-room.json) |
 | Narinig Mo Ba? | 416098 | [416098-narinig-mo-ba.json](./416098-narinig-mo-ba.json) |
