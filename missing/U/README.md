@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UIFO Defense HD | 128026 | [128026-uifo-defense-hd.json](./128026-uifo-defense-hd.json) |
 | UIM | 261711 | [261711-uim.json](./261711-uim.json) |
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
+| Uirdz | 418457 | [418457-uirdz.json](./418457-uirdz.json) |
 | Uizuno Blade | 76485 | [76485-uizuno-blade.json](./76485-uizuno-blade.json) |
 | Uizuno Blade VR | 83158 | [83158-uizuno-blade-vr.json](./83158-uizuno-blade-vr.json) |
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
@@ -3702,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Luxury Edition | 409983 | [409983-urban-flow-luxury-edition.json](./409983-urban-flow-luxury-edition.json) |
 | Urban Flow: Mega Edition | 328807 | [328807-urban-flow-mega-edition.json](./328807-urban-flow-mega-edition.json) |
 | Urban Flow: Metropolis Edition | 303846 | [303846-urban-flow-metropolis-edition.json](./303846-urban-flow-metropolis-edition.json) |
+| Urban Flow: Omega Edition | 418342 | [418342-urban-flow-omega-edition.json](./418342-urban-flow-omega-edition.json) |
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
 | Urban Flow: Platinum Edition | 251493 | [251493-urban-flow-platinum-edition.json](./251493-urban-flow-platinum-edition.json) |
 | Urban Flow: Prime Edition | 242625 | [242625-urban-flow-prime-edition.json](./242625-urban-flow-prime-edition.json) |
