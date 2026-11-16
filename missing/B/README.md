@@ -2333,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Simulations | 266288 | [266288-bang-bang-simulations.json](./266288-bang-bang-simulations.json) |
 | Bang Bang Streaming | 416970 | [416970-bang-bang-streaming.json](./416970-bang-bang-streaming.json) |
 | Bang Bang Tank | 377921 | [377921-bang-bang-tank.json](./377921-bang-bang-tank.json) |
+| Bang Bang Tennis | 242191 | [242191-bang-bang-tennis.json](./242191-bang-bang-tennis.json) |
 | Bang Banger! Aim Trainer | 398101 | [398101-bang-banger-aim-trainer.json](./398101-bang-banger-aim-trainer.json) |
 | Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
@@ -15740,6 +15741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
 | Bouncing to the Top With Quantum Quacks | 392103 | [392103-bouncing-to-the-top-with-quantum-quacks.json](./392103-bouncing-to-the-top-with-quantum-quacks.json) |
 | Bouncing Traveler | 166838 | [166838-bouncing-traveler.json](./166838-bouncing-traveler.json) |
+| Bouncing Wheel: Highway Monster | 242194 | [242194-bouncing-wheel-highway-monster.json](./242194-bouncing-wheel-highway-monster.json) |
 | BouncingBalls | 290741 | [290741-bouncingballs.json](./290741-bouncingballs.json) |
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
