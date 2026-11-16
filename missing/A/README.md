@@ -8286,7 +8286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Drive Me Crazy | 109104 | [109104-aliens-drive-me-crazy.json](./109104-aliens-drive-me-crazy.json) |
 | Aliens Extermination | 67769 | [67769-aliens-extermination.json](./67769-aliens-extermination.json) |
 | Aliens Go Home ReRun | 398097 | [398097-aliens-go-home-rerun.json](./398097-aliens-go-home-rerun.json) |
-| Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens Hide | 419965 | [419965-aliens-hide.json](./419965-aliens-hide.json) |
 | Aliens In Chains | 233616 | [233616-aliens-in-chains.json](./233616-aliens-in-chains.json) |
 | Aliens In Paradise | 217463 | [217463-aliens-in-paradise.json](./217463-aliens-in-paradise.json) |
