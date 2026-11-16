@@ -4974,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life and Death 2 | 187804 | [187804-life-and-death-2.json](./187804-life-and-death-2.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
+| Life and Lemon | 399934 | [399934-life-and-lemon.json](./399934-life-and-lemon.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
 | Life Ark 2 | 404647 | [404647-life-ark-2.json](./404647-life-ark-2.json) |
 | Life Ark 3 | 404648 | [404648-life-ark-3.json](./404648-life-ark-3.json) |
@@ -10113,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovekami: Healing Harem | 110702 | [110702-lovekami-healing-harem.json](./110702-lovekami-healing-harem.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Loveland's Leap | 341183 | [341183-lovelands-leap.json](./341183-lovelands-leap.json) |
+| Loveless Biker Boys | 401219 | [401219-loveless-biker-boys.json](./401219-loveless-biker-boys.json) |
 | Loveless cat | 111182 | [111182-loveless-cat.json](./111182-loveless-cat.json) |
 | Loveless General Hospital | 383774 | [383774-loveless-general-hospital.json](./383774-loveless-general-hospital.json) |
 | Loveless on Lockdown | 177869 | [177869-loveless-on-lockdown.json](./177869-loveless-on-lockdown.json) |
