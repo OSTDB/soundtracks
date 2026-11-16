@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark North | 151327 | [151327-dark-north.json](./151327-dark-north.json) |
 | Dark Notes | 212088 | [212088-dark-notes.json](./212088-dark-notes.json) |
 | Dark Odyssey | 266426 | [266426-dark-odyssey.json](./266426-dark-odyssey.json) |
+| Dark of the Depths | 412629 | [412629-dark-of-the-depths.json](./412629-dark-of-the-depths.json) |
 | Dark Offering | 420303 | [420303-dark-offering.json](./420303-dark-offering.json) |
 | Dark Old Sun | 81112 | [81112-dark-old-sun.json](./81112-dark-old-sun.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
@@ -4934,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Lighthouse | 384230 | [384230-dear-lighthouse.json](./384230-dear-lighthouse.json) |
 | Dear Magi: Mahou Shounen Gakka | 221444 | [221444-dear-magi-mahou-shounen-gakka.json](./221444-dear-magi-mahou-shounen-gakka.json) |
 | Dear Magi: Mahou Shounen Gakka | 242043 | [242043-dear-magi-mahou-shounen-gakka.json](./242043-dear-magi-mahou-shounen-gakka.json) |
+| Dear Magical Girls | 412022 | [412022-dear-magical-girls.json](./412022-dear-magical-girls.json) |
 | Dear Mariko | 124638 | [124638-dear-mariko.json](./124638-dear-mariko.json) |
 | Dear me, I was… | 351207 | [351207-dear-me-i-was.json](./351207-dear-me-i-was.json) |
 | Dear Mirror Flower | 344719 | [344719-dear-mirror-flower.json](./344719-dear-mirror-flower.json) |
@@ -5944,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Down 2 | 203492 | [203492-deep-down-2.json](./203492-deep-down-2.json) |
 | Deep Down Below | 373157 | [373157-deep-down-below.json](./373157-deep-down-below.json) |
 | Deep Dreams | 181473 | [181473-deep-dreams.json](./181473-deep-dreams.json) |
+| Deep Drift Signal Below | 411870 | [411870-deep-drift-signal-below.json](./411870-deep-drift-signal-below.json) |
 | Deep Duck Trouble Starring Donald Duck | 8447 | [8447-deep-duck-trouble-starring-donald-duck.json](./8447-deep-duck-trouble-starring-donald-duck.json) |
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
 | Deep Dungeon | 219235 | [219235-deep-dungeon.json](./219235-deep-dungeon.json) |
@@ -13256,6 +13259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog of Bay | 123265 | [123265-dog-of-bay.json](./123265-dog-of-bay.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
 | Dog of Dracula: Barbecue Densetsu | 414686 | [414686-dog-of-dracula-barbecue-densetsu.json](./414686-dog-of-dracula-barbecue-densetsu.json) |
+| Dog of Wisdom | 411876 | [411876-dog-of-wisdom.json](./411876-dog-of-wisdom.json) |
 | Dog Pairs | 98906 | [98906-dog-pairs.json](./98906-dog-pairs.json) |
 | Dog Patch | 91487 | [91487-dog-patch.json](./91487-dog-patch.json) |
 | Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
@@ -19964,6 +19968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelists of Eden | 196748 | [196748-duelists-of-eden.json](./196748-duelists-of-eden.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | DueLito | 106675 | [106675-duelito.json](./106675-duelito.json) |
+| Duellum | 411867 | [411867-duellum.json](./411867-duellum.json) |
 | Duelmasters | 370157 | [370157-duelmasters.json](./370157-duelmasters.json) |
 | Duels | 191763 | [191763-duels.json](./191763-duels.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
