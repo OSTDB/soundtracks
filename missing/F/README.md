@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fantasy VII | 233840 | [233840-fatal-fantasy-vii.json](./233840-fatal-fantasy-vii.json) |
 | Fatal Fight | 33318 | [33318-fatal-fight.json](./33318-fatal-fight.json) |
 | Fatal Flash | 98227 | [98227-fatal-flash.json](./98227-fatal-flash.json) |
+| Fatal Focus | 401232 | [401232-fatal-focus.json](./401232-fatal-focus.json) |
 | Fatal Force: Earth Assault | 306000 | [306000-fatal-force-earth-assault.json](./306000-fatal-force-earth-assault.json) |
 | Fatal Fracture | 147649 | [147649-fatal-fracture.json](./147649-fatal-fracture.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
@@ -9942,6 +9943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNAF: Final Purgatory | 184290 | [184290-fnaf-final-purgatory.json](./184290-fnaf-final-purgatory.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
 | FNaF: Project Lockdown | 288938 | [288938-fnaf-project-lockdown.json](./288938-fnaf-project-lockdown.json) |
+| FNAF: The Flipside | 401225 | [401225-fnaf-the-flipside.json](./401225-fnaf-the-flipside.json) |
 | FNaF: Wii U Edition | 357443 | [357443-fnaf-wii-u-edition.json](./357443-fnaf-wii-u-edition.json) |
 | FNAFB: Desk Fan's Particularly Unusual Journey - Refreshed Edition | 373849 | [373849-fnafb-desk-fans-particularly-unusual-journey-refreshed-edition.json](./373849-fnafb-desk-fans-particularly-unusual-journey-refreshed-edition.json) |
 | FNAFMIN | 358249 | [358249-fnafmin.json](./358249-fnafmin.json) |
@@ -14211,6 +14213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football Nine | 271037 | [271037-front-office-football-nine.json](./271037-front-office-football-nine.json) |
 | Front Office Football: The College Years | 68046 | [68046-front-office-football-the-college-years.json](./68046-front-office-football-the-college-years.json) |
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
+| Front Page | 400024 | [400024-front-page.json](./400024-front-page.json) |
 | Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
 | Front Page Sports Football Pro | 22603 | [22603-front-page-sports-football-pro.json](./22603-front-page-sports-football-pro.json) |
 | Front Page Sports Football Pro '96 | 22605 | [22605-front-page-sports-football-pro-96.json](./22605-front-page-sports-football-pro-96.json) |
