@@ -7497,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Meeting | 36412 | [36412-reversion-the-meeting.json](./36412-reversion-the-meeting.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | ReversiQuest2 | 127454 | [127454-reversiquest2.json](./127454-reversiquest2.json) |
+| Reversle | 363606 | [363606-reversle.json](./363606-reversle.json) |
 | Reverso | 63745 | [63745-reverso.json](./63745-reverso.json) |
 | ReversU | 87902 | [87902-reversu.json](./87902-reversu.json) |
 | Revert | 320242 | [320242-revert.json](./320242-revert.json) |
@@ -8455,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rifter | 255498 | [255498-rifter.json](./255498-rifter.json) |
 | Riftfall | 411762 | [411762-riftfall.json](./411762-riftfall.json) |
 | RiftGuard | 365368 | [365368-riftguard.json](./365368-riftguard.json) |
+| Riftinvaders | 363594 | [363594-riftinvaders.json](./363594-riftinvaders.json) |
 | Riftlight | 61222 | [61222-riftlight.json](./61222-riftlight.json) |
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
