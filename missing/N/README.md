@@ -6748,7 +6748,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
 | No, I'm Not a Femboy | 376966 | [376966-no-im-not-a-femboy.json](./376966-no-im-not-a-femboy.json) |
 | No, I'm not a Voenkom | 377757 | [377757-no-im-not-a-voenkom.json](./377757-no-im-not-a-voenkom.json) |
-| No, Thank You!!! | 60564 | [60564-no-thank-you.json](./60564-no-thank-you.json) |
 | NO: Never Outside | 232819 | [232819-no-never-outside.json](./232819-no-never-outside.json) |
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
 | No! body knows: Sono Karada ga Shitteiru | 98132 | [98132-no-body-knows-sono-karada-ga-shitteiru.json](./98132-no-body-knows-sono-karada-ga-shitteiru.json) |
