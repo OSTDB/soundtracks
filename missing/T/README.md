@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taromancy | 391111 | [391111-taromancy.json](./391111-taromancy.json) |
 | Tarot | 177381 | [177381-tarot.json](./177381-tarot.json) |
 | Tarot | 182718 | [182718-tarot.json](./182718-tarot.json) |
+| Tarot | 334355 | [334355-tarot.json](./334355-tarot.json) |
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tarot Readings Premium | 118741 | [118741-tarot-readings-premium.json](./118741-tarot-readings-premium.json) |
@@ -4771,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tera: Reloaded | 116577 | [116577-tera-reloaded.json](./116577-tera-reloaded.json) |
 | Terabey: The Room Builder | 183291 | [183291-terabey-the-room-builder.json](./183291-terabey-the-room-builder.json) |
 | TeraBlaster | 34925 | [34925-terablaster.json](./34925-terablaster.json) |
+| Terabout | 332724 | [332724-terabout.json](./332724-terabout.json) |
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Terafall | 161170 | [161170-terafall.json](./161170-terafall.json) |
 | Teragard | 126256 | [126256-teragard.json](./126256-teragard.json) |
@@ -9555,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreadthorn Therapist | 385423 | [385423-the-dreadthorn-therapist.json](./385423-the-dreadthorn-therapist.json) |
 | The Dream | 178413 | [178413-the-dream.json](./178413-the-dream.json) |
 | The Dream | 272120 | [272120-the-dream.json](./272120-the-dream.json) |
+| The Dream | 334358 | [334358-the-dream.json](./334358-the-dream.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
 | The Dream Circus | 387118 | [387118-the-dream-circus.json](./387118-the-dream-circus.json) |
 | The Dream Collector | 365906 | [365906-the-dream-collector.json](./365906-the-dream-collector.json) |
@@ -10206,6 +10209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
 | The Exorcist | 117425 | [117425-the-exorcist.json](./117425-the-exorcist.json) |
 | The Exorcist | 54469 | [54469-the-exorcist.json](./54469-the-exorcist.json) |
+| The Exorcist: Gravebound Horror | 335555 | [335555-the-exorcist-gravebound-horror.json](./335555-the-exorcist-gravebound-horror.json) |
 | The Exorcist: Legion VR | 72420 | [72420-the-exorcist-legion-vr.json](./72420-the-exorcist-legion-vr.json) |
 | The Exorcist: Legion VR - Chapter 2: Idle Hands | 168817 | [168817-the-exorcist-legion-vr-chapter-2-idle-hands.json](./168817-the-exorcist-legion-vr-chapter-2-idle-hands.json) |
 | The Exorcist: Legion VR - Chapter 4: Samaritan | 168818 | [168818-the-exorcist-legion-vr-chapter-4-samaritan.json](./168818-the-exorcist-legion-vr-chapter-4-samaritan.json) |
@@ -16688,6 +16692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pazaak Battles | 403391 | [403391-the-pazaak-battles.json](./403391-the-pazaak-battles.json) |
 | The Peace Keepers | 44465 | [44465-the-peace-keepers.json](./44465-the-peace-keepers.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
+| The Peacemakers | 334379 | [334379-the-peacemakers.json](./334379-the-peacemakers.json) |
 | The Peak | 184165 | [184165-the-peak.json](./184165-the-peak.json) |
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Peak Climb VR | 215734 | [215734-the-peak-climb-vr.json](./215734-the-peak-climb-vr.json) |
@@ -18889,6 +18894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sisters 2: Road to Fame | 249972 | [249972-the-sisters-2-road-to-fame.json](./249972-the-sisters-2-road-to-fame.json) |
 | The Sisters Collection | 284733 | [284733-the-sisters-collection.json](./284733-the-sisters-collection.json) |
 | The Sisters: Party of the Year | 144079 | [144079-the-sisters-party-of-the-year.json](./144079-the-sisters-party-of-the-year.json) |
+| The Sisyphus Journey | 334366 | [334366-the-sisyphus-journey.json](./334366-the-sisyphus-journey.json) |
 | The Site: Night Shift | 373986 | [373986-the-site-night-shift.json](./373986-the-site-night-shift.json) |
 | The Six Dragons | 82572 | [82572-the-six-dragons.json](./82572-the-six-dragons.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
@@ -19984,6 +19990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thrill of Combat | 242925 | [242925-the-thrill-of-combat.json](./242925-the-thrill-of-combat.json) |
 | The Thrill of the Fight | 174558 | [174558-the-thrill-of-the-fight.json](./174558-the-thrill-of-the-fight.json) |
 | The Thrill of the Fight 2 | 329781 | [329781-the-thrill-of-the-fight-2.json](./329781-the-thrill-of-the-fight-2.json) |
+| The Thrill of the Fight 2 | 329856 | [329856-the-thrill-of-the-fight-2.json](./329856-the-thrill-of-the-fight-2.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
@@ -26046,6 +26053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel Shanty | 172330 | [172330-time-travel-shanty.json](./172330-time-travel-shanty.json) |
 | Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
 | Time Travel Trainer | 126777 | [126777-time-travel-trainer.json](./126777-time-travel-trainer.json) |
+| Time Travel: Escape Room Game | 335556 | [335556-time-travel-escape-room-game.json](./335556-time-travel-escape-room-game.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Traveler | 24804 | [24804-time-traveler.json](./24804-time-traveler.json) |
 | Time Traveler: Escape Room VR | 288608 | [288608-time-traveler-escape-room-vr.json](./288608-time-traveler-escape-room-vr.json) |
@@ -26657,6 +26665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
 | Tiny T | 171445 | [171445-tiny-t.json](./171445-tiny-t.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
+| Tiny Tactics | 335537 | [335537-tiny-tactics.json](./335537-tiny-tactics.json) |
 | Tiny Tactics Go! | 373854 | [373854-tiny-tactics-go.json](./373854-tiny-tactics-go.json) |
 | Tiny Talents | 221487 | [221487-tiny-talents.json](./221487-tiny-talents.json) |
 | Tiny Tales: Heart of the Forest | 36951 | [36951-tiny-tales-heart-of-the-forest.json](./36951-tiny-tales-heart-of-the-forest.json) |
@@ -27769,6 +27778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TokoToko | 124705 | [124705-tokotoko.json](./124705-tokotoko.json) |
 | Tokoton Mahjong! Joryuu Pro ni Chousen! Tetsuman Megami Special | 199222 | [199222-tokoton-mahjong-joryuu-pro-ni-chousen-tetsuman-megami-special.json](./199222-tokoton-mahjong-joryuu-pro-ni-chousen-tetsuman-megami-special.json) |
 | Tokoyo ni Ochiru Hana | 163358 | [163358-tokoyo-ni-ochiru-hana.json](./163358-tokoyo-ni-ochiru-hana.json) |
+| Tokoyo no Hoshizora | 329893 | [329893-tokoyo-no-hoshizora.json](./329893-tokoyo-no-hoshizora.json) |
 | Tokoyo: The Tower of Perpetuity | 139042 | [139042-tokoyo-the-tower-of-perpetuity.json](./139042-tokoyo-the-tower-of-perpetuity.json) |
 | Tokubetsu Byoutou | 77815 | [77815-tokubetsu-byoutou.json](./77815-tokubetsu-byoutou.json) |
 | Tokumei Sentai Go-Busters | 63581 | [63581-tokumei-sentai-go-busters.json](./63581-tokumei-sentai-go-busters.json) |
@@ -31899,10 +31909,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: San Bernardino Line: Los Angeles - San Bernardino Route Add-On | 360156 | [360156-train-sim-world-5-san-bernardino-line-los-angeles-san-bernardino-route-add-on.json](./360156-train-sim-world-5-san-bernardino-line-los-angeles-san-bernardino-route-add-on.json) |
 | Train Sim World 5: Santa Fe F7 Add-On | 359974 | [359974-train-sim-world-5-santa-fe-f7-add-on.json](./359974-train-sim-world-5-santa-fe-f7-add-on.json) |
 | Train Sim World 5: Schnellfahrstrecke Kassel - Würzburg Route Add-On | 359954 | [359954-train-sim-world-5-schnellfahrstrecke-kassel-wurzburg-route-add-on.json](./359954-train-sim-world-5-schnellfahrstrecke-kassel-wurzburg-route-add-on.json) |
+| Train Sim World 5: Schnellfahrstrecke Köln-Aachen | 332097 | [332097-train-sim-world-5-schnellfahrstrecke-koln-aachen.json](./332097-train-sim-world-5-schnellfahrstrecke-koln-aachen.json) |
 | Train Sim World 5: Schnellfahrstrecke Koln-Aachen Route Add-On | 359513 | [359513-train-sim-world-5-schnellfahrstrecke-koln-aachen-route-add-on.json](./359513-train-sim-world-5-schnellfahrstrecke-koln-aachen-route-add-on.json) |
 | Train Sim World 5: ScotRail BR Class 158 Sprinter DMU Add-On | 359487 | [359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json](./359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json) |
 | Train Sim World 5: ScotRail BR Class 380 EMU Add-On | 359967 | [359967-train-sim-world-5-scotrail-br-class-380-emu-add-on.json](./359967-train-sim-world-5-scotrail-br-class-380-emu-add-on.json) |
 | Train Sim World 5: ScotRail Express: Edinburgh - Glasgow Route Add-On | 359488 | [359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json](./359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json) |
+| Train Sim World 5: Semmeringbahn - Wiener Neustadt - Mürzzuschlag | 332096 | [332096-train-sim-world-5-semmeringbahn-wiener-neustadt-murzzuschlag.json](./332096-train-sim-world-5-semmeringbahn-wiener-neustadt-murzzuschlag.json) |
 | Train Sim World 5: Sherman Hill - Cheyenne - Laramie | 332095 | [332095-train-sim-world-5-sherman-hill-cheyenne-laramie.json](./332095-train-sim-world-5-sherman-hill-cheyenne-laramie.json) |
 | Train Sim World 5: Sherman Hill: Cheyenne - Laramie Route Add-On | 329327 | [329327-train-sim-world-5-sherman-hill-cheyenne-laramie-route-add-on.json](./329327-train-sim-world-5-sherman-hill-cheyenne-laramie-route-add-on.json) |
 | Train Sim World 5: Southeastern Highspeed: London St Pancras - Ashford Intl & Faversham Route Add-On | 329328 | [329328-train-sim-world-5-southeastern-highspeed-london-st-pancras-ashford-intl-and-faversham-route-add-on.json](./329328-train-sim-world-5-southeastern-highspeed-london-st-pancras-ashford-intl-and-faversham-route-add-on.json) |
@@ -35991,6 +36003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Loves Waifus | 156562 | [156562-trump-loves-waifus.json](./156562-trump-loves-waifus.json) |
 | Trump Quest | 299492 | [299492-trump-quest.json](./299492-trump-quest.json) |
 | Trump Savings Tycoon | 416394 | [416394-trump-savings-tycoon.json](./416394-trump-savings-tycoon.json) |
+| Trump Searching Vigaro | 334362 | [334362-trump-searching-vigaro.json](./334362-trump-searching-vigaro.json) |
 | Trump Simulator 2025 | 334305 | [334305-trump-simulator-2025.json](./334305-trump-simulator-2025.json) |
 | Trump Simulator VR | 30827 | [30827-trump-simulator-vr.json](./30827-trump-simulator-vr.json) |
 | Trump Tariff | 338606 | [338606-trump-tariff.json](./338606-trump-tariff.json) |
