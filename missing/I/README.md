@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Was a Teenage Exocolonist | 146054 | [146054-i-was-a-teenage-exocolonist.json](./146054-i-was-a-teenage-exocolonist.json) |
 | I Was Always Filled With Anger | 139266 | [139266-i-was-always-filled-with-anger.json](./139266-i-was-always-filled-with-anger.json) |
 | I Was An Atomic Mutant! | 24084 | [24084-i-was-an-atomic-mutant.json](./24084-i-was-an-atomic-mutant.json) |
+| I Was Born Poor | 242190 | [242190-i-was-born-poor.json](./242190-i-was-born-poor.json) |
 | I Was cursed | 185579 | [185579-i-was-cursed.json](./185579-i-was-cursed.json) |
 | I Was Dead, But… | 243139 | [243139-i-was-dead-but.json](./243139-i-was-dead-but.json) |
 | I was here | 68681 | [68681-i-was-here.json](./68681-i-was-here.json) |
