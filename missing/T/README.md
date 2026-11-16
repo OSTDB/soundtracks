@@ -5603,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi EX: Seiryuu Unten - Hasegawa Tetsudou-hen | 261366 | [261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json](./261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
+| Tetsudou Nippon! Rosen Tabi: Joumou Denki Tetsudou-hen | 222547 | [222547-tetsudou-nippon-rosen-tabi-joumou-denki-tetsudou-hen.json](./222547-tetsudou-nippon-rosen-tabi-joumou-denki-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
 | Tetsudou Nippon! Rosen Tabi: Sangi Tetsudou-hen | 178171 | [178171-tetsudou-nippon-rosen-tabi-sangi-tetsudou-hen.json](./178171-tetsudou-nippon-rosen-tabi-sangi-tetsudou-hen.json) |
 | Tetsudou Seminar: Oote Shitetsu-hen | 222711 | [222711-tetsudou-seminar-oote-shitetsu-hen.json](./222711-tetsudou-seminar-oote-shitetsu-hen.json) |
@@ -7072,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of YuYu Hakusho: Shitou! Ankoku Bujutsukai! 120% | 79148 | [79148-the-battle-of-yuyu-hakusho-shitou-ankoku-bujutsukai-120.json](./79148-the-battle-of-yuyu-hakusho-shitou-ankoku-bujutsukai-120.json) |
 | The Battle Orks | 339986 | [339986-the-battle-orks.json](./339986-the-battle-orks.json) |
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
+| The Battle Robo: Daikyoutou Scramble | 222017 | [222017-the-battle-robo-daikyoutou-scramble.json](./222017-the-battle-robo-daikyoutou-scramble.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
 | The Battles of King Arthur | 62534 | [62534-the-battles-of-king-arthur.json](./62534-the-battles-of-king-arthur.json) |
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
@@ -7837,6 +7839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Card Battle: Eternal Destiny | 173121 | [173121-the-card-battle-eternal-destiny.json](./173121-the-card-battle-eternal-destiny.json) |
 | The Card Perfect Collection Plus: Texas Hold 'em, Solitaire and Others | 255213 | [255213-the-card-perfect-collection-plus-texas-hold-em-solitaire-and-others.json](./255213-the-card-perfect-collection-plus-texas-hold-em-solitaire-and-others.json) |
 | The Card Stars: Cribbage / Solitaire | 59883 | [59883-the-card-stars-cribbage-solitaire.json](./59883-the-card-stars-cribbage-solitaire.json) |
+| The Card: Daifugou / Poker / Blackjack | 222028 | [222028-the-card-daifugou-poker-blackjack.json](./222028-the-card-daifugou-poker-blackjack.json) |
 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Cardian: Light the Shrines | 418698 | [418698-the-cardian-light-the-shrines.json](./418698-the-cardian-light-the-shrines.json) |
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
@@ -8151,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The Citizen Part II | 214850 | [214850-the-citizen-part-ii.json](./214850-the-citizen-part-ii.json) |
+| The Citizen Returns | 222562 | [222562-the-citizen-returns.json](./222562-the-citizen-returns.json) |
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
 | The City of Damned Children | 257164 | [257164-the-city-of-damned-children.json](./257164-the-city-of-damned-children.json) |
 | The City of Endless | 429346 | [429346-the-city-of-endless.json](./429346-the-city-of-endless.json) |
@@ -9000,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkstone Halls | 271350 | [271350-the-darkstone-halls.json](./271350-the-darkstone-halls.json) |
 | The Daruma Challenge | 331279 | [331279-the-daruma-challenge.json](./331279-the-daruma-challenge.json) |
 | The Dasshutsu Game: Kiken na 5-tsu no Misshitsu | 222040 | [222040-the-dasshutsu-game-kiken-na-5-tsu-no-misshitsu.json](./222040-the-dasshutsu-game-kiken-na-5-tsu-no-misshitsu.json) |
+| The Dasshutsu Game: Uragiri no Misshitsu | 222022 | [222022-the-dasshutsu-game-uragiri-no-misshitsu.json](./222022-the-dasshutsu-game-uragiri-no-misshitsu.json) |
 | The Dastardly Dairy Debacle | 134763 | [134763-the-dastardly-dairy-debacle.json](./134763-the-dastardly-dairy-debacle.json) |
 | The Dating Game | 291930 | [291930-the-dating-game.json](./291930-the-dating-game.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
@@ -11973,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hobbit: Kingdoms of Middle Earth | 38905 | [38905-the-hobbit-kingdoms-of-middle-earth.json](./38905-the-hobbit-kingdoms-of-middle-earth.json) |
 | The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
 | The Hoff vs Hitler | 342741 | [342741-the-hoff-vs-hitler.json](./342741-the-hoff-vs-hitler.json) |
+| The Hohei: Senjou no Inu-tachi | 222030 | [222030-the-hohei-senjou-no-inu-tachi.json](./222030-the-hohei-senjou-no-inu-tachi.json) |
 | The Hokkaido Serial Murder Case: The Okhotsk Disappearance - Memories in Ice, Tearful Figurine | 287889 | [287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json](./287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json) |
 | The Hole | 368945 | [368945-the-hole.json](./368945-the-hole.json) |
 | The Hole | 97781 | [97781-the-hole.json](./97781-the-hole.json) |
@@ -12337,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Stella Stage - Stella Box | 136683 | [136683-the-idolmaster-stella-stage-stella-box.json](./136683-the-idolmaster-stella-stage-stella-box.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The Ignition Protocol | 414650 | [414650-the-ignition-protocol.json](./414650-the-ignition-protocol.json) |
+| The Igo | 222027 | [222027-the-igo.json](./222027-the-igo.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illogical Journey of the Zambonis | 165439 | [165439-the-illogical-journey-of-the-zambonis.json](./165439-the-illogical-journey-of-the-zambonis.json) |
 | The Illusion | 159379 | [159379-the-illusion.json](./159379-the-illusion.json) |
@@ -12895,6 +12902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kaiyo Mission | 238567 | [238567-the-kaiyo-mission.json](./238567-the-kaiyo-mission.json) |
 | The Kalalau Trail | 169643 | [169643-the-kalalau-trail.json](./169643-the-kalalau-trail.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
+| The Kanshikikan: File. 1 - Kinkyuu Sousa! Juuryou Shouko wo Touch Seyo! | 222029 | [222029-the-kanshikikan-file-1-kinkyuu-sousa-juuryou-shouko-wo-touch-seyo.json](./222029-the-kanshikikan-file-1-kinkyuu-sousa-juuryou-shouko-wo-touch-seyo.json) |
+| The Kanshikikan: File. 2 - Kinkyuu Shutsudou! Ochita Hoshi wo Oe! | 222031 | [222031-the-kanshikikan-file-2-kinkyuu-shutsudou-ochita-hoshi-wo-oe.json](./222031-the-kanshikikan-file-2-kinkyuu-shutsudou-ochita-hoshi-wo-oe.json) |
 | The Kantist | 314092 | [314092-the-kantist.json](./314092-the-kantist.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
 | The Karate Kid | 68386 | [68386-the-karate-kid.json](./68386-the-karate-kid.json) |
@@ -15098,6 +15107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnilo Case | 144589 | [144589-the-magnilo-case.json](./144589-the-magnilo-case.json) |
 | The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
 | The Magus Circle | 295074 | [295074-the-magus-circle.json](./295074-the-magus-circle.json) |
+| The Mahjong | 222023 | [222023-the-mahjong.json](./222023-the-mahjong.json) |
 | The Mahjong | 84459 | [84459-the-mahjong.json](./84459-the-mahjong.json) |
 | The Mahjong Huntress | 32608 | [32608-the-mahjong-huntress.json](./32608-the-mahjong-huntress.json) |
 | The Mahjong III | 385755 | [385755-the-mahjong-iii.json](./385755-the-mahjong-iii.json) |
@@ -15489,15 +15499,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Mishka Effect | 393274 | [393274-the-mishka-effect.json](./393274-the-mishka-effect.json) |
 | The Misshitsu kara no Dasshutsu 2 | 125774 | [125774-the-misshitsu-kara-no-dasshutsu-2.json](./125774-the-misshitsu-kara-no-dasshutsu-2.json) |
+| The Misshitsu kara no Dasshutsu: Asobi no Tengoku Kumadonaru Bowl-hen | 222034 | [222034-the-misshitsu-kara-no-dasshutsu-asobi-no-tengoku-kumadonaru-bowl-hen.json](./222034-the-misshitsu-kara-no-dasshutsu-asobi-no-tengoku-kumadonaru-bowl-hen.json) |
 | The Misshitsu kara no Dasshutsu: Celeb na Goutei-hen | 222045 | [222045-the-misshitsu-kara-no-dasshutsu-celeb-na-goutei-hen.json](./222045-the-misshitsu-kara-no-dasshutsu-celeb-na-goutei-hen.json) |
 | The Misshitsu kara no Dasshutsu: Enchou Hisshi no Karaoke-hen | 222016 | [222016-the-misshitsu-kara-no-dasshutsu-enchou-hisshi-no-karaoke-hen.json](./222016-the-misshitsu-kara-no-dasshutsu-enchou-hisshi-no-karaoke-hen.json) |
+| The Misshitsu kara no Dasshutsu: Fushigi Hakken! Hakubutsukan-hen | 222019 | [222019-the-misshitsu-kara-no-dasshutsu-fushigi-hakken-hakubutsukan-hen.json](./222019-the-misshitsu-kara-no-dasshutsu-fushigi-hakken-hakubutsukan-hen.json) |
 | The Misshitsu kara no Dasshutsu: Fushigi na Kumadonaru Burger-hen | 222043 | [222043-the-misshitsu-kara-no-dasshutsu-fushigi-na-kumadonaru-burger-hen.json](./222043-the-misshitsu-kara-no-dasshutsu-fushigi-na-kumadonaru-burger-hen.json) |
 | The Misshitsu kara no Dasshutsu: Gakkou no Kyuukousha-hen | 222044 | [222044-the-misshitsu-kara-no-dasshutsu-gakkou-no-kyuukousha-hen.json](./222044-the-misshitsu-kara-no-dasshutsu-gakkou-no-kyuukousha-hen.json) |
+| The Misshitsu kara no Dasshutsu: Iyasarenai Onsen-hen | 222032 | [222032-the-misshitsu-kara-no-dasshutsu-iyasarenai-onsen-hen.json](./222032-the-misshitsu-kara-no-dasshutsu-iyasarenai-onsen-hen.json) |
 | The Misshitsu kara no Dasshutsu: Nangoku no Resort-hen | 222046 | [222046-the-misshitsu-kara-no-dasshutsu-nangoku-no-resort-hen.json](./222046-the-misshitsu-kara-no-dasshutsu-nangoku-no-resort-hen.json) |
 | The Misshitsu kara no Dasshutsu: Nou wo Kitaeru Sports Gym-hen | 222009 | [222009-the-misshitsu-kara-no-dasshutsu-nou-wo-kitaeru-sports-gym-hen.json](./222009-the-misshitsu-kara-no-dasshutsu-nou-wo-kitaeru-sports-gym-hen.json) |
+| The Misshitsu kara no Dasshutsu: Tabi ha Michi-zure! Tetsudou-hen | 222021 | [222021-the-misshitsu-kara-no-dasshutsu-tabi-ha-michi-zure-tetsudou-hen.json](./222021-the-misshitsu-kara-no-dasshutsu-tabi-ha-michi-zure-tetsudou-hen.json) |
 | The Misshitsu kara no Dasshutsu: Terebi Kyoku Micchaku 24-Ji-hen | 222037 | [222037-the-misshitsu-kara-no-dasshutsu-terebi-kyoku-micchaku-24-ji-hen.json](./222037-the-misshitsu-kara-no-dasshutsu-terebi-kyoku-micchaku-24-ji-hen.json) |
 | The Misshitsu kara no Dasshutsu: The Suiri Bangai-hen | 125778 | [125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json](./125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json) |
 | The Misshitsu kara no Dasshutsu: Unmei wo Tsunagu 35 no Nazo | 147327 | [147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json](./147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json) |
+| The Misshitsu kara no Dasshutsu: Yukai na Saru to Family Restaurant-hen | 222024 | [222024-the-misshitsu-kara-no-dasshutsu-yukai-na-saru-to-family-restaurant-hen.json](./222024-the-misshitsu-kara-no-dasshutsu-yukai-na-saru-to-family-restaurant-hen.json) |
 | The Missile Game 3D | 416760 | [416760-the-missile-game-3d.json](./416760-the-missile-game-3d.json) |
 | The Missing Daughter | 315408 | [315408-the-missing-daughter.json](./315408-the-missing-daughter.json) |
 | The Missing Few | 110808 | [110808-the-missing-few.json](./110808-the-missing-few.json) |
@@ -15869,6 +15884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neighborhood | 180592 | [180592-the-neighborhood.json](./180592-the-neighborhood.json) |
 | The Neighborhood | 199778 | [199778-the-neighborhood.json](./199778-the-neighborhood.json) |
+| The Nekketsu! Honoo no Ramen-ya | 222018 | [222018-the-nekketsu-honoo-no-ramen-ya.json](./222018-the-nekketsu-honoo-no-ramen-ya.json) |
 | The Neon Boy | 103964 | [103964-the-neon-boy.json](./103964-the-neon-boy.json) |
 | The Neon Mate | 137483 | [137483-the-neon-mate.json](./137483-the-neon-mate.json) |
 | The Neptune Diaries | 177889 | [177889-the-neptune-diaries.json](./177889-the-neptune-diaries.json) |
@@ -16063,6 +16079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Normal Thing | 150713 | [150713-the-normal-thing.json](./150713-the-normal-thing.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
 | The Noroi no Haibyouin: Tojikomerareta Kao no Nai Shoujo | 222047 | [222047-the-noroi-no-haibyouin-tojikomerareta-kao-no-nai-shoujo.json](./222047-the-noroi-no-haibyouin-tojikomerareta-kao-no-nai-shoujo.json) |
+| The Noroi no Haikousha: Noroi no Kamen to Futago no Shoujo | 222020 | [222020-the-noroi-no-haikousha-noroi-no-kamen-to-futago-no-shoujo.json](./222020-the-noroi-no-haikousha-noroi-no-kamen-to-futago-no-shoujo.json) |
 | The North | 299771 | [299771-the-north.json](./299771-the-north.json) |
 | The North King | 130630 | [130630-the-north-king.json](./130630-the-north-king.json) |
 | The North Pole | 127227 | [127227-the-north-pole.json](./127227-the-north-pole.json) |
@@ -16304,6 +16321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orthodox | 56104 | [56104-the-orthodox.json](./56104-the-orthodox.json) |
 | The Orville: Interactive Fan Experience | 120669 | [120669-the-orville-interactive-fan-experience.json](./120669-the-orville-interactive-fan-experience.json) |
 | The Ostrakon | 425195 | [425195-the-ostrakon.json](./425195-the-ostrakon.json) |
+| The Othello | 222025 | [222025-the-othello.json](./222025-the-othello.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
 | The Other | 185366 | [185366-the-other.json](./185366-the-other.json) |
 | The Other 99 | 19535 | [19535-the-other-99.json](./19535-the-other-99.json) |
@@ -18320,6 +18338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shocker | 97630 | [97630-the-shocker.json](./97630-the-shocker.json) |
 | The Shocking World Mysteries | 399791 | [399791-the-shocking-world-mysteries.json](./399791-the-shocking-world-mysteries.json) |
 | The Shoe Dept. | 57481 | [57481-the-shoe-dept.json](./57481-the-shoe-dept.json) |
+| The Shogi | 222026 | [222026-the-shogi.json](./222026-the-shogi.json) |
 | The Shogun Empire | 22130 | [22130-the-shogun-empire.json](./22130-the-shogun-empire.json) |
 | The Shojing | 331892 | [331892-the-shojing.json](./331892-the-shojing.json) |
 | The Shooter Ball | 233386 | [233386-the-shooter-ball.json](./233386-the-shooter-ball.json) |
@@ -18888,6 +18907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solitaire Conspiracy | 139032 | [139032-the-solitaire-conspiracy.json](./139032-the-solitaire-conspiracy.json) |
 | The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
 | The Solitaire Conspiracy: The Atlantis Project | 243807 | [243807-the-solitaire-conspiracy-the-atlantis-project.json](./243807-the-solitaire-conspiracy-the-atlantis-project.json) |
+| The Solitaire: Klondike / Spider | 222033 | [222033-the-solitaire-klondike-spider.json](./222033-the-solitaire-klondike-spider.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
 | The Solitude Project | 350884 | [350884-the-solitude-project.json](./350884-the-solitude-project.json) |
 | The Solus Project | 11221 | [11221-the-solus-project.json](./11221-the-solus-project.json) |
@@ -20578,6 +20598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
 | The Uwaki Kareshi: Christmas Chuushi no Oshirase | 222038 | [222038-the-uwaki-kareshi-christmas-chuushi-no-oshirase.json](./222038-the-uwaki-kareshi-christmas-chuushi-no-oshirase.json) |
 | The Uwaki Kareshi: Kaseifu ga Kenta Uwaki Genba | 222039 | [222039-the-uwaki-kareshi-kaseifu-ga-kenta-uwaki-genba.json](./222039-the-uwaki-kareshi-kaseifu-ga-kenta-uwaki-genba.json) |
+| The Uwaki Kareshi: Totsugeki! Uwaki Genba | 222035 | [222035-the-uwaki-kareshi-totsugeki-uwaki-genba.json](./222035-the-uwaki-kareshi-totsugeki-uwaki-genba.json) |
 | The Uwaki Kareshi: Uwaki no Daishou | 222036 | [222036-the-uwaki-kareshi-uwaki-no-daishou.json](./222036-the-uwaki-kareshi-uwaki-no-daishou.json) |
 | The Uzujigoku Massacre | 321305 | [321305-the-uzujigoku-massacre.json](./321305-the-uzujigoku-massacre.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
