@@ -8375,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nǚhái yǔ Qī Pǐ Láng | 154301 | [154301-nuhai-yu-qi-pi-lang.json](./154301-nuhai-yu-qi-pi-lang.json) |
 | Nui | 138693 | [138693-nui.json](./138693-nui.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
+| Nuice Industries | 363601 | [363601-nuice-industries.json](./363601-nuice-industries.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Nuigurumi no Cakeya-san: Mahou no Patissiere | 158971 | [158971-nuigurumi-no-cakeya-san-mahou-no-patissiere.json](./158971-nuigurumi-no-cakeya-san-mahou-no-patissiere.json) |
 | Nukalypse Zombie Survival | 110663 | [110663-nukalypse-zombie-survival.json](./110663-nukalypse-zombie-survival.json) |
