@@ -1453,6 +1453,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
 | Game Game Developer | 397267 | [397267-game-game-developer.json](./397267-game-game-developer.json) |
+| Game Gear Micro Black | 215414 | [215414-game-gear-micro-black.json](./215414-game-gear-micro-black.json) |
+| Game Gear Micro Blue | 215415 | [215415-game-gear-micro-blue.json](./215415-game-gear-micro-blue.json) |
+| Game Gear Micro Red | 215418 | [215418-game-gear-micro-red.json](./215418-game-gear-micro-red.json) |
+| Game Gear Micro White | 215420 | [215420-game-gear-micro-white.json](./215420-game-gear-micro-white.json) |
+| Game Gear Micro Yellow | 215416 | [215416-game-gear-micro-yellow.json](./215416-game-gear-micro-yellow.json) |
 | Game Giant | 373765 | [373765-game-giant.json](./373765-game-giant.json) |
 | Game Grumps: Joint Justice - Turnabout Hour | 182392 | [182392-game-grumps-joint-justice-turnabout-hour.json](./182392-game-grumps-joint-justice-turnabout-hour.json) |
 | Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
