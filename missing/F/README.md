@@ -7618,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing VR: Gijiesta | 51687 | [51687-fishing-vr-gijiesta.json](./51687-fishing-vr-gijiesta.json) |
 | Fishing With The Homies | 324149 | [324149-fishing-with-the-homies.json](./324149-fishing-with-the-homies.json) |
 | Fishing World | 58131 | [58131-fishing-world.json](./58131-fishing-world.json) |
+| Fishing Zone | 337876 | [337876-fishing-zone.json](./337876-fishing-zone.json) |
 | Fishing: Barents Sea | 22356 | [22356-fishing-barents-sea.json](./22356-fishing-barents-sea.json) |
 | Fishing: Barents Sea - Complete Edition | 125188 | [125188-fishing-barents-sea-complete-edition.json](./125188-fishing-barents-sea-complete-edition.json) |
 | Fishing: Barents Sea - King Crab | 111647 | [111647-fishing-barents-sea-king-crab.json](./111647-fishing-barents-sea-king-crab.json) |
@@ -9113,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips¿de | 265349 | [265349-flips-de.json](./265349-flips-de.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
 | Flipshot | 253941 | [253941-flipshot.json](./253941-flipshot.json) |
+| Flipside | 344616 | [344616-flipside.json](./344616-flipside.json) |
 | Flipside | 373597 | [373597-flipside.json](./373597-flipside.json) |
 | FlipSide | 92079 | [92079-flipside.json](./92079-flipside.json) |
 | Flipster | 209455 | [209455-flipster.json](./209455-flipster.json) |
