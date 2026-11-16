@@ -4838,7 +4838,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Magic Curtain | 170464 | [170464-night-of-full-moon-magic-curtain.json](./170464-night-of-full-moon-magic-curtain.json) |
 | Night of Full Moon: Memory Puzzle | 163523 | [163523-night-of-full-moon-memory-puzzle.json](./163523-night-of-full-moon-memory-puzzle.json) |
 | Night of Full Moon: The Red Hood Diary | 170460 | [170460-night-of-full-moon-the-red-hood-diary.json](./170460-night-of-full-moon-the-red-hood-diary.json) |
+| Night of Full Moon: Witch - Wishing | 269235 | [269235-night-of-full-moon-witch-wishing.json](./269235-night-of-full-moon-witch-wishing.json) |
 | Night of Full Moon: Witcher - Mirror | 269234 | [269234-night-of-full-moon-witcher-mirror.json](./269234-night-of-full-moon-witcher-mirror.json) |
+| Night of Full Moon: Wolf - Mirror | 269236 | [269236-night-of-full-moon-wolf-mirror.json](./269236-night-of-full-moon-wolf-mirror.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
 | Night of Love | 199513 | [199513-night-of-love.json](./199513-night-of-love.json) |
 | Night of Nightmare | 391025 | [391025-night-of-nightmare.json](./391025-night-of-nightmare.json) |
