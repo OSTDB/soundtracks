@@ -9192,6 +9192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Pets: Multiplayer | 174593 | [174593-world-of-pets-multiplayer.json](./174593-world-of-pets-multiplayer.json) |
 | World of Planes | 136582 | [136582-world-of-planes.json](./136582-world-of-planes.json) |
 | World of Pool | 45995 | [45995-world-of-pool.json](./45995-world-of-pool.json) |
+| World of Prandis | 239867 | [239867-world-of-prandis.json](./239867-world-of-prandis.json) |
 | World of Radiance: The Girl in the Shadows | 403075 | [403075-world-of-radiance-the-girl-in-the-shadows.json](./403075-world-of-radiance-the-girl-in-the-shadows.json) |
 | World of Reinvention | 267430 | [267430-world-of-reinvention.json](./267430-world-of-reinvention.json) |
 | World of relish | 127251 | [127251-world-of-relish.json](./127251-world-of-relish.json) |
