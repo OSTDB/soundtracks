@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
 | Eden: Create World | 370423 | [370423-eden-create-world.json](./370423-eden-create-world.json) |
+| Eden: Discovery | 339527 | [339527-eden-discovery.json](./339527-eden-discovery.json) |
 | Eden: New Dawn | 369642 | [369642-eden-new-dawn.json](./369642-eden-new-dawn.json) |
 | Eden: New Dawn - Free Edition | 395263 | [395263-eden-new-dawn-free-edition.json](./395263-eden-new-dawn-free-edition.json) |
 | Eden: Project New Earth | 286228 | [286228-eden-project-new-earth.json](./286228-eden-project-new-earth.json) |
