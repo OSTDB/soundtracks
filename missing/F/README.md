@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fadry | 187636 | [187636-fadry.json](./187636-fadry.json) |
 | Fae & Fauna | 244566 | [244566-fae-and-fauna.json](./244566-fae-and-fauna.json) |
 | Fae Farm: Coasts of Croakia | 278681 | [278681-fae-farm-coasts-of-croakia.json](./278681-fae-farm-coasts-of-croakia.json) |
+| Fae Farm: Deluxe Edition | 262635 | [262635-fae-farm-deluxe-edition.json](./262635-fae-farm-deluxe-edition.json) |
 | Fae Farm: Skies of Azoria | 331464 | [331464-fae-farm-skies-of-azoria.json](./331464-fae-farm-skies-of-azoria.json) |
 | Fae Line | 297072 | [297072-fae-line.json](./297072-fae-line.json) |
 | Fae Populi | 188939 | [188939-fae-populi.json](./188939-fae-populi.json) |
@@ -11000,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Fellers | 295832 | [295832-forest-fellers.json](./295832-forest-fellers.json) |
 | Forest Fighters | 420603 | [420603-forest-fighters.json](./420603-forest-fighters.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
+| Forest Football | 264821 | [264821-forest-football.json](./264821-forest-football.json) |
 | Forest Frenzy | 258264 | [258264-forest-frenzy.json](./258264-forest-frenzy.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest Game | 362501 | [362501-forest-game.json](./362501-forest-game.json) |
