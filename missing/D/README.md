@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Moon | 132001 | [132001-darkest-moon.json](./132001-darkest-moon.json) |
 | Darkest of Days | 4219 | [4219-darkest-of-days.json](./4219-darkest-of-days.json) |
 | Darkest Path | 400399 | [400399-darkest-path.json](./400399-darkest-path.json) |
+| Darkest Pixel Dungeon | 314080 | [314080-darkest-pixel-dungeon.json](./314080-darkest-pixel-dungeon.json) |
 | Darkest Rogue: Slingshot RPG | 174312 | [174312-darkest-rogue-slingshot-rpg.json](./174312-darkest-rogue-slingshot-rpg.json) |
 | Darkest Room | 261106 | [261106-darkest-room.json](./261106-darkest-room.json) |
 | Darkest Valley | 139397 | [139397-darkest-valley.json](./139397-darkest-valley.json) |
@@ -3812,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De-Void | 32673 | [32673-de-void.json](./32673-de-void.json) |
 | De: Yabatanien | 145548 | [145548-de-yabatanien.json](./145548-de-yabatanien.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
+| De:Lithe Last Memories | 314083 | [314083-de-lithe-last-memories.json](./314083-de-lithe-last-memories.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
 | De'Vine World of Shadows | 99665 | [99665-devine-world-of-shadows.json](./99665-devine-world-of-shadows.json) |
 | De'Vine: Card Battles | 125604 | [125604-devine-card-battles.json](./125604-devine-card-battles.json) |
@@ -18496,6 +18498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
 | Dreamlike Love with Seira | 314376 | [314376-dreamlike-love-with-seira.json](./314376-dreamlike-love-with-seira.json) |
+| Dreamlike Love with Seira | 315183 | [315183-dreamlike-love-with-seira.json](./315183-dreamlike-love-with-seira.json) |
 | Dreamlike Worlds | 28349 | [28349-dreamlike-worlds.json](./28349-dreamlike-worlds.json) |
 | Dreamline 404 | 339567 | [339567-dreamline-404.json](./339567-dreamline-404.json) |
 | Dreamlined | 197166 | [197166-dreamlined.json](./197166-dreamlined.json) |
