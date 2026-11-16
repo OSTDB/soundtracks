@@ -4851,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkbound | 205955 | [205955-inkbound.json](./205955-inkbound.json) |
 | Inkbound: Supporter Pack - Rise of the Unbound | 296570 | [296570-inkbound-supporter-pack-rise-of-the-unbound.json](./296570-inkbound-supporter-pack-rise-of-the-unbound.json) |
 | Inkbound: Supporter Pack - The Starship of Terrors | 272968 | [272968-inkbound-supporter-pack-the-starship-of-terrors.json](./272968-inkbound-supporter-pack-the-starship-of-terrors.json) |
+| Inkbound: Supporter Pack - The Story Begins | 272969 | [272969-inkbound-supporter-pack-the-story-begins.json](./272969-inkbound-supporter-pack-the-story-begins.json) |
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
 | InkBrush: The Demon Wars | 348477 | [348477-inkbrush-the-demon-wars.json](./348477-inkbrush-the-demon-wars.json) |
 | Inked | 96278 | [96278-inked.json](./96278-inked.json) |
@@ -5341,7 +5342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Indie Collection: Vol. 5 | 82454 | [82454-instant-indie-collection-vol-5.json](./82454-instant-indie-collection-vol-5.json) |
 | Instant Sports | 123331 | [123331-instant-sports.json](./123331-instant-sports.json) |
 | Instant Sports + | 191350 | [191350-instant-sports.json](./191350-instant-sports.json) |
-| Instant Sports 2 | 397676 | [397676-instant-sports-2.json](./397676-instant-sports-2.json) |
 | Instant Sports Paradise | 154788 | [154788-instant-sports-paradise.json](./154788-instant-sports-paradise.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
@@ -6970,7 +6970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Training | 374346 | [374346-isekai-training.json](./374346-isekai-training.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
-| Isekai Villain | 402304 | [402304-isekai-villain.json](./402304-isekai-villain.json) |
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
 | Isekai-ya | 321269 | [321269-isekai-ya.json](./321269-isekai-ya.json) |
 | Isekai: I'm an FPS Hero Who Was Summoned to Another World | 348287 | [348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json](./348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json) |
@@ -7125,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Winds | 171529 | [171529-island-of-winds.json](./171529-island-of-winds.json) |
 | Island Off Outer Dancing | 423936 | [423936-island-off-outer-dancing.json](./423936-island-off-outer-dancing.json) |
 | Island Off Outer Darkness | 352349 | [352349-island-off-outer-darkness.json](./352349-island-off-outer-darkness.json) |
+| Island Ops | 272970 | [272970-island-ops.json](./272970-island-ops.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
 | Island Party Chaos | 298232 | [298232-island-party-chaos.json](./298232-island-party-chaos.json) |
 | Island Peril | 57673 | [57673-island-peril.json](./57673-island-peril.json) |
@@ -7575,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Kooky | 186408 | [186408-its-kooky.json](./186408-its-kooky.json) |
 | It's Kooky + Brawl Chess | 233861 | [233861-its-kooky-brawl-chess.json](./233861-its-kooky-brawl-chess.json) |
 | It's Kooky + Cyber Protocol | 231344 | [231344-its-kooky-cyber-protocol.json](./231344-its-kooky-cyber-protocol.json) |
+| It's Kooky: Land of Aotearoa | 272971 | [272971-its-kooky-land-of-aotearoa.json](./272971-its-kooky-land-of-aotearoa.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
 | It's Locked | 223299 | [223299-its-locked.json](./223299-its-locked.json) |
 | It's Locked | 407791 | [407791-its-locked.json](./407791-its-locked.json) |
