@@ -9302,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomes O' Plenty | 232650 | [232650-biomes-o-plenty.json](./232650-biomes-o-plenty.json) |
 | Biomes: Survival Era | 217412 | [217412-biomes-survival-era.json](./217412-biomes-survival-era.json) |
 | BioMetal | 10685 | [10685-biometal.json](./10685-biometal.json) |
+| BioMetal Gust | 281066 | [281066-biometal-gust.json](./281066-biometal-gust.json) |
 | BioMeteor | 377824 | [377824-biometeor.json](./377824-biometeor.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomotor Unitron | 43991 | [43991-biomotor-unitron.json](./43991-biomotor-unitron.json) |
@@ -12850,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Horde | 140096 | [140096-bloody-horde.json](./140096-bloody-horde.json) |
 | Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
 | Bloody Human Freeway | 40610 | [40610-bloody-human-freeway.json](./40610-bloody-human-freeway.json) |
+| Bloody Ink | 280976 | [280976-bloody-ink.json](./280976-bloody-ink.json) |
 | Bloody Knuckles Street Boxing | 279505 | [279505-bloody-knuckles-street-boxing.json](./279505-bloody-knuckles-street-boxing.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Legless | 177778 | [177778-bloody-legless.json](./177778-bloody-legless.json) |
