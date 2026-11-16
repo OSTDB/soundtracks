@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 51: Trio the Punch | 278197 | [278197-g-mode-archives-51-trio-the-punch.json](./278197-g-mode-archives-51-trio-the-punch.json) |
 | G-Mode Archives 52: Burger Time | 279184 | [279184-g-mode-archives-52-burger-time.json](./279184-g-mode-archives-52-burger-time.json) |
 | G-Mode Archives 53: Daienkai Buchou | 280075 | [280075-g-mode-archives-53-daienkai-buchou.json](./280075-g-mode-archives-53-daienkai-buchou.json) |
+| G-Mode Archives 54: Magical Fantasista 3 | 398631 | [398631-g-mode-archives-54-magical-fantasista-3.json](./398631-g-mode-archives-54-magical-fantasista-3.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives 58: Gekidan Musume Akane & Aoi | 381255 | [381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json](./381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json) |
 | G-Mode Archives+: Armored Core Mobile 2 | 350578 | [350578-g-mode-archives-armored-core-mobile-2.json](./350578-g-mode-archives-armored-core-mobile-2.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Momoko 1200% | 222129 | [222129-g-mode-archives-momoko-1200.json](./222129-g-mode-archives-momoko-1200.json) |
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
+| G-Mode Archives+: Namco Chronicle | 398626 | [398626-g-mode-archives-namco-chronicle.json](./398626-g-mode-archives-namco-chronicle.json) |
 | G-Mode Archives+: Ninja Jajamaru-kun - Ranbu | 222138 | [222138-g-mode-archives-ninja-jajamaru-kun-ranbu.json](./222138-g-mode-archives-ninja-jajamaru-kun-ranbu.json) |
 | G-Mode Archives+: Pac-Man | 407079 | [407079-g-mode-archives-pac-man.json](./407079-g-mode-archives-pac-man.json) |
 | G-Mode Archives+: Persona 3: Aegis The First Mission | 298527 | [298527-g-mode-archives-persona-3-aegis-the-first-mission.json](./298527-g-mode-archives-persona-3-aegis-the-first-mission.json) |
@@ -159,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikentan Vol. 17 - Midoumaru-tei Jiken | 413150 | [413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json](./413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json) |
 | G-Mode Archives+: Todo Ryuunosuke Tantei Nikki vol.1 - Kohakuiro no Igon: Seiyou Karuta Renzoku Satsujin Jiken | 251475 | [251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json](./251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json) |
 | G-Mode Archives+: Tondemo Nishibuuki 2 - Paris Boutard Rally | 222144 | [222144-g-mode-archives-tondemo-nishibuuki-2-paris-boutard-rally.json](./222144-g-mode-archives-tondemo-nishibuuki-2-paris-boutard-rally.json) |
+| G-Mode Archives+: Xenosaga Pied Piper | 398625 | [398625-g-mode-archives-xenosaga-pied-piper.json](./398625-g-mode-archives-xenosaga-pied-piper.json) |
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
 | G-Police | 301722 | [301722-g-police.json](./301722-g-police.json) |
