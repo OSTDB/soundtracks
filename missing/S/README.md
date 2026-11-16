@@ -7751,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tower | 9502 | [9502-shadow-tower.json](./9502-shadow-tower.json) |
 | Shadow Tower: Abyss | 9503 | [9503-shadow-tower-abyss.json](./9503-shadow-tower-abyss.json) |
 | Shadow Trick | 306609 | [306609-shadow-trick.json](./306609-shadow-trick.json) |
+| Shadow Trigger: Covert Ops | 402581 | [402581-shadow-trigger-covert-ops.json](./402581-shadow-trigger-covert-ops.json) |
 | Shadow Unit | 110455 | [110455-shadow-unit.json](./110455-shadow-unit.json) |
 | Shadow Uprising | 112945 | [112945-shadow-uprising.json](./112945-shadow-uprising.json) |
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
@@ -9914,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
 | Shipwrecked Hamlet | 348518 | [348518-shipwrecked-hamlet.json](./348518-shipwrecked-hamlet.json) |
 | Shipwrecked Raft Survival | 347305 | [347305-shipwrecked-raft-survival.json](./347305-shipwrecked-raft-survival.json) |
+| Shipwrecked Survival 2 | 402582 | [402582-shipwrecked-survival-2.json](./402582-shipwrecked-survival-2.json) |
 | Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
 | Shipwrecked: Lost Island | 38878 | [38878-shipwrecked-lost-island.json](./38878-shipwrecked-lost-island.json) |
@@ -15364,6 +15366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Climb Scrum | 261050 | [261050-slime-climb-scrum.json](./261050-slime-climb-scrum.json) |
 | Slime Climb: A Count Pumpcula Tale | 310801 | [310801-slime-climb-a-count-pumpcula-tale.json](./310801-slime-climb-a-count-pumpcula-tale.json) |
 | Slime Climber | 292626 | [292626-slime-climber.json](./292626-slime-climber.json) |
+| Slime Clime | 403233 | [403233-slime-clime.json](./403233-slime-clime.json) |
 | Slime Color | 382853 | [382853-slime-color.json](./382853-slime-color.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
@@ -15743,6 +15746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Machine | 246380 | [246380-slot-machine.json](./246380-slot-machine.json) |
 | Slot Machine | 325548 | [325548-slot-machine.json](./325548-slot-machine.json) |
 | Slot Machine | 366920 | [366920-slot-machine.json](./366920-slot-machine.json) |
+| Slot Machine Gun | 403846 | [403846-slot-machine-gun.json](./403846-slot-machine-gun.json) |
 | Slot or Die | 391694 | [391694-slot-or-die.json](./391694-slot-or-die.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
 | Slot Quest: Alice in Wonderland | 25469 | [25469-slot-quest-alice-in-wonderland.json](./25469-slot-quest-alice-in-wonderland.json) |
@@ -16083,6 +16087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
 | Small World: Grand Dames | 174467 | [174467-small-world-grand-dames.json](./174467-small-world-grand-dames.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
+| Smalland II: Lost Realms | 405175 | [405175-smalland-ii-lost-realms.json](./405175-smalland-ii-lost-realms.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | SmallBall Baseball | 56403 | [56403-smallball-baseball.json](./56403-smallball-baseball.json) |
 | SmallBall Football | 56406 | [56406-smallball-football.json](./56406-smallball-football.json) |
@@ -16418,6 +16423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smiley Commandos | 69918 | [69918-smiley-commandos.json](./69918-smiley-commandos.json) |
 | Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
 | Smiley Steel | 426064 | [426064-smiley-steel.json](./426064-smiley-steel.json) |
+| Smiley Steel: Chapter 1 | 403611 | [403611-smiley-steel-chapter-1.json](./403611-smiley-steel-chapter-1.json) |
 | Smiley World: Island Challenge | 51131 | [51131-smiley-world-island-challenge.json](./51131-smiley-world-island-challenge.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
 | Smiley's Way Out | 246263 | [246263-smileys-way-out.json](./246263-smileys-way-out.json) |
@@ -16646,6 +16652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Attack II | 25151 | [25151-snack-attack-ii.json](./25151-snack-attack-ii.json) |
 | Snack clearing | 143905 | [143905-snack-clearing.json](./143905-snack-clearing.json) |
 | Snack Escort | 390576 | [390576-snack-escort.json](./390576-snack-escort.json) |
+| Snack Factory Together | 403850 | [403850-snack-factory-together.json](./403850-snack-factory-together.json) |
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack King | 66562 | [66562-snack-king.json](./66562-snack-king.json) |
 | Snack Machine Change | 356576 | [356576-snack-machine-change.json](./356576-snack-machine-change.json) |
@@ -17064,6 +17071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Purr | 422479 | [422479-sneaky-purr.json](./422479-sneaky-purr.json) |
 | Sneaky Rat | 219415 | [219415-sneaky-rat.json](./219415-sneaky-rat.json) |
 | Sneaky Sasquatch | 117013 | [117013-sneaky-sasquatch.json](./117013-sneaky-sasquatch.json) |
+| Sneaky Secret Mission! | 402583 | [402583-sneaky-secret-mission.json](./402583-sneaky-secret-mission.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Snacks | 290885 | [290885-sneaky-snacks.json](./290885-sneaky-snacks.json) |
 | Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
@@ -28711,6 +28719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: Spring Stories | 202374 | [202374-starry-sky-spring-stories.json](./202374-starry-sky-spring-stories.json) |
 | Starry Sky: Summer Stories | 202827 | [202827-starry-sky-summer-stories.json](./202827-starry-sky-summer-stories.json) |
 | Starry Sky: Winter Stories | 203814 | [203814-starry-sky-winter-stories.json](./203814-starry-sky-winter-stories.json) |
+| Starry Station | 401950 | [401950-starry-station.json](./401950-starry-station.json) |
 | Starry Trace | 388327 | [388327-starry-trace.json](./388327-starry-trace.json) |
 | Starryard | 243501 | [243501-starryard.json](./243501-starryard.json) |
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
@@ -29345,6 +29354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
 | Steambirds: Survival | 58537 | [58537-steambirds-survival.json](./58537-steambirds-survival.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
+| Steamboat Incident | 402584 | [402584-steamboat-incident.json](./402584-steamboat-incident.json) |
 | Steamboat Rescue | 323115 | [323115-steamboat-rescue.json](./323115-steamboat-rescue.json) |
 | Steamboat Willie | 286040 | [286040-steamboat-willie.json](./286040-steamboat-willie.json) |
 | Steamboat Willie Incident | 327445 | [327445-steamboat-willie-incident.json](./327445-steamboat-willie-incident.json) |
