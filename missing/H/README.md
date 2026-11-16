@@ -5252,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellRazor64 | 226352 | [226352-hellrazor64.json](./226352-hellrazor64.json) |
 | Hellreaper | 371214 | [371214-hellreaper.json](./371214-hellreaper.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
+| Hellrider | 337854 | [337854-hellrider.json](./337854-hellrider.json) |
 | Hellrider 2 | 99270 | [99270-hellrider-2.json](./99270-hellrider-2.json) |
 | Hellrider 3 | 232607 | [232607-hellrider-3.json](./232607-hellrider-3.json) |
 | Hellrifters | 390890 | [390890-hellrifters.json](./390890-hellrifters.json) |
@@ -12960,6 +12961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Train Your Dragon 2 | 50737 | [50737-how-to-train-your-dragon-2.json](./50737-how-to-train-your-dragon-2.json) |
 | How to Train Your Dragon: Flight of the Night Fury | 65230 | [65230-how-to-train-your-dragon-flight-of-the-night-fury.json](./65230-how-to-train-your-dragon-flight-of-the-night-fury.json) |
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
+| How to Turn a Cherry Tree Spirit Into an Idol | 337862 | [337862-how-to-turn-a-cherry-tree-spirit-into-an-idol.json](./337862-how-to-turn-a-cherry-tree-spirit-into-an-idol.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
 | How To Walk Out The Door | 381958 | [381958-how-to-walk-out-the-door.json](./381958-how-to-walk-out-the-door.json) |
 | How to Weigh an Elephant | 68214 | [68214-how-to-weigh-an-elephant.json](./68214-how-to-weigh-an-elephant.json) |
