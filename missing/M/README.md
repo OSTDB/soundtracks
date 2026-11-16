@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malmyr | 140789 | [140789-malmyr.json](./140789-malmyr.json) |
 | Malody | 76901 | [76901-malody.json](./76901-malody.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
+| Malón | 372933 | [372933-malon.json](./372933-malon.json) |
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
 | Malone In Nightmares | 159737 | [159737-malone-in-nightmares.json](./159737-malone-in-nightmares.json) |
 | Maloomify the Ocean | 401770 | [401770-maloomify-the-ocean.json](./401770-maloomify-the-ocean.json) |
@@ -3325,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manacle | 238453 | [238453-manacle.json](./238453-manacle.json) |
 | Manaclysm | 258388 | [258388-manaclysm.json](./258388-manaclysm.json) |
 | ManaCollect | 11572 | [11572-manacollect.json](./11572-manacollect.json) |
+| ManaCollect 2 | 370020 | [370020-manacollect-2.json](./370020-manacollect-2.json) |
 | Manacrest Online | 133310 | [133310-manacrest-online.json](./133310-manacrest-online.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
 | Manafinder | 152033 | [152033-manafinder.json](./152033-manafinder.json) |
@@ -3434,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneuver Warfare: Mission Pack South | 293422 | [293422-maneuver-warfare-mission-pack-south.json](./293422-maneuver-warfare-mission-pack-south.json) |
 | Maneuver Warfare: Mission Pack West 38-40 | 293420 | [293420-maneuver-warfare-mission-pack-west-38-40.json](./293420-maneuver-warfare-mission-pack-west-38-40.json) |
 | Maneuver Warfare: Mission Pack West 44-45 | 293421 | [293421-maneuver-warfare-mission-pack-west-44-45.json](./293421-maneuver-warfare-mission-pack-west-44-45.json) |
+| Mang Ojek: Driving Test | 371756 | [371756-mang-ojek-driving-test.json](./371756-mang-ojek-driving-test.json) |
 | Manga Cat Fishing | 297643 | [297643-manga-cat-fishing.json](./297643-manga-cat-fishing.json) |
 | Manga Club Advisor wants to support Saeki Sasara | 415177 | [415177-manga-club-advisor-wants-to-support-saeki-sasara.json](./415177-manga-club-advisor-wants-to-support-saeki-sasara.json) |
 | Manga Collection | 92287 | [92287-manga-collection.json](./92287-manga-collection.json) |
@@ -4233,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Brawl Online | 324065 | [324065-mario-brawl-online.json](./324065-mario-brawl-online.json) |
 | Mario Bros G&W for ZX Spectrum | 289126 | [289126-mario-bros-g-and-w-for-zx-spectrum.json](./289126-mario-bros-g-and-w-for-zx-spectrum.json) |
 | Mario Bros: Just For Fun (Super Battle Bros) | 135071 | [135071-mario-bros-just-for-fun-super-battle-bros.json](./135071-mario-bros-just-for-fun-super-battle-bros.json) |
+| Mario Bros? | 371789 | [371789-mario-bros.json](./371789-mario-bros.json) |
 | Mario Bros. | 131939 | [131939-mario-bros.json](./131939-mario-bros.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
 | Mario Bros. | 192277 | [192277-mario-bros.json](./192277-mario-bros.json) |
@@ -5540,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashou Denki: La Valeur | 137528 | [137528-mashou-denki-la-valeur.json](./137528-mashou-denki-la-valeur.json) |
 | Mashou Hime Tiruana Haramase Saimin: Ningen o Shiitageru Mazoku no Hime ga Anji Hitotsu de Niku Gangu ni Naru | 59027 | [59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json](./59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json) |
 | Mashou no Yakata Gabalin | 41790 | [41790-mashou-no-yakata-gabalin.json](./41790-mashou-no-yakata-gabalin.json) |
+| Mashup Bros. Super Marionette Brawl | 371758 | [371758-mashup-bros-super-marionette-brawl.json](./371758-mashup-bros-super-marionette-brawl.json) |
 | Mask | 39126 | [39126-mask.json](./39126-mask.json) |
 | Mask Around | 292493 | [292493-mask-around.json](./292493-mask-around.json) |
 | Mask City: Chapter Zero | 373859 | [373859-mask-city-chapter-zero.json](./373859-mask-city-chapter-zero.json) |
@@ -8248,6 +8253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Cat Studios Collection 2 | 145832 | [145832-mega-cat-studios-collection-2.json](./145832-mega-cat-studios-collection-2.json) |
 | Mega Cat Studios Collection 3 | 420397 | [420397-mega-cat-studios-collection-3.json](./420397-mega-cat-studios-collection-3.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
+| Mega City Obby | 373975 | [373975-mega-city-obby.json](./373975-mega-city-obby.json) |
 | Mega City Police: Digital Collector's Edition | 260024 | [260024-mega-city-police-digital-collectors-edition.json](./260024-mega-city-police-digital-collectors-edition.json) |
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
 | Mega Coin Squad | 11288 | [11288-mega-coin-squad.json](./11288-mega-coin-squad.json) |
@@ -10343,6 +10349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Music | 103912 | [103912-meow-music.json](./103912-meow-music.json) |
 | Meow My Crop! | 401214 | [401214-meow-my-crop.json](./401214-meow-my-crop.json) |
 | Meow Nights | 183540 | [183540-meow-nights.json](./183540-meow-nights.json) |
+| Meow Palace: Forbidden City | 372910 | [372910-meow-palace-forbidden-city.json](./372910-meow-palace-forbidden-city.json) |
 | Meow Path | 305962 | [305962-meow-path.json](./305962-meow-path.json) |
 | Meow Path 2 | 360741 | [360741-meow-path-2.json](./360741-meow-path-2.json) |
 | Meow Playground | 168543 | [168543-meow-playground.json](./168543-meow-playground.json) |
@@ -13013,6 +13020,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers | 75978 | [75978-mighty-morphin-power-rangers.json](./75978-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 75979 | [75979-mighty-morphin-power-rangers.json](./75979-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers Game Watch | 218431 | [218431-mighty-morphin-power-rangers-game-watch.json](./218431-mighty-morphin-power-rangers-game-watch.json) |
+| Mighty Morphin Power Rangers GG2SMS | 369514 | [369514-mighty-morphin-power-rangers-gg2sms.json](./369514-mighty-morphin-power-rangers-gg2sms.json) |
+| Mighty Morphin Power Rangers the Movie GG2SMS | 369515 | [369515-mighty-morphin-power-rangers-the-movie-gg2sms.json](./369515-mighty-morphin-power-rangers-the-movie-gg2sms.json) |
 | Mighty Morphin Power Rangers Tiger Barcodzz | 198871 | [198871-mighty-morphin-power-rangers-tiger-barcodzz.json](./198871-mighty-morphin-power-rangers-tiger-barcodzz.json) |
 | Mighty Morphin Power Rangers: Alpha 5 Where Are You? | 198819 | [198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json](./198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json) |
 | Mighty Morphin Power Rangers: Rita's Rewind - Deluxe Edition | 350800 | [350800-mighty-morphin-power-rangers-ritas-rewind-deluxe-edition.json](./350800-mighty-morphin-power-rangers-ritas-rewind-deluxe-edition.json) |
@@ -16759,6 +16768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moeru Danmaku STG Moedan | 204490 | [204490-moeru-danmaku-stg-moedan.json](./204490-moeru-danmaku-stg-moedan.json) |
 | Moeru Mahjong: Moejong! | 398475 | [398475-moeru-mahjong-moejong.json](./398475-moeru-mahjong-moejong.json) |
 | Moeru! Onii-san | 48327 | [48327-moeru-onii-san.json](./48327-moeru-onii-san.json) |
+| MoeSpotter: Uncover the Girls' Mysteries! | 369844 | [369844-moespotter-uncover-the-girls-mysteries.json](./369844-moespotter-uncover-the-girls-mysteries.json) |
 | Moetan DS | 94002 | [94002-moetan-ds.json](./94002-moetan-ds.json) |
 | Moeyo Butaman!? | 305987 | [305987-moeyo-butaman.json](./305987-moeyo-butaman.json) |
 | Mòfǎ Xiānlù | 117391 | [117391-mofa-xianlu.json](./117391-mofa-xianlu.json) |
@@ -22008,6 +22018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Murmuring of Moth Mouth | 417596 | [417596-murmuring-of-moth-mouth.json](./417596-murmuring-of-moth-mouth.json) |
 | Murmurs | 380643 | [380643-murmurs.json](./380643-murmurs.json) |
+| Murmurs of Fear: A Whisper of Loneliness | 372923 | [372923-murmurs-of-fear-a-whisper-of-loneliness.json](./372923-murmurs-of-fear-a-whisper-of-loneliness.json) |
 | Murnatan | 62718 | [62718-murnatan.json](./62718-murnatan.json) |
 | Murphy da yo Zenin Shuugou | 246576 | [246576-murphy-da-yo-zenin-shuugou.json](./246576-murphy-da-yo-zenin-shuugou.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
