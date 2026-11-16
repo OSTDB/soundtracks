@@ -3208,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4X-Galaxy | 109326 | [109326-4x-galaxy.json](./109326-4x-galaxy.json) |
 | 4X4 | 219513 | [219513-4x4.json](./219513-4x4.json) |
 | 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
+| 4x4 Archipelago | 230566 | [230566-4x4-archipelago.json](./230566-4x4-archipelago.json) |
 | 4x4 Buggy Race Outlaws | 106737 | [106737-4x4-buggy-race-outlaws.json](./106737-4x4-buggy-race-outlaws.json) |
 | 4x4 Dirt Track | 147816 | [147816-4x4-dirt-track.json](./147816-4x4-dirt-track.json) |
 | 4x4 Dirt Track Forest Driving | 89197 | [89197-4x4-dirt-track-forest-driving.json](./89197-4x4-dirt-track-forest-driving.json) |
