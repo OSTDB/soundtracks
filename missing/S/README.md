@@ -31870,6 +31870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetMobsters | 65375 | [65375-streetmobsters.json](./65375-streetmobsters.json) |
 | Streetoir | 272226 | [272226-streetoir.json](./272226-streetoir.json) |
 | StreetPass Mii Plaza | 80022 | [80022-streetpass-mii-plaza.json](./80022-streetpass-mii-plaza.json) |
+| StreetPass Mii Plaza Premium | 230586 | [230586-streetpass-mii-plaza-premium.json](./230586-streetpass-mii-plaza-premium.json) |
 | Streets Ablaze | 97175 | [97175-streets-ablaze.json](./97175-streets-ablaze.json) |
 | Streets At Midnight | 179857 | [179857-streets-at-midnight.json](./179857-streets-at-midnight.json) |
 | Streets of Chaos | 212019 | [212019-streets-of-chaos.json](./212019-streets-of-chaos.json) |
