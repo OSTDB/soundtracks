@@ -2890,7 +2890,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Nova | 406092 | [406092-kill-the-nova.json](./406092-kill-the-nova.json) |
 | Kill the Old Gods | 56431 | [56431-kill-the-old-gods.json](./56431-kill-the-old-gods.json) |
 | Kill the Pineapple | 150355 | [150355-kill-the-pineapple.json](./150355-kill-the-pineapple.json) |
-| Kill the Plumber | 15745 | [15745-kill-the-plumber.json](./15745-kill-the-plumber.json) |
 | Kill the Plumber 2 | 101880 | [101880-kill-the-plumber-2.json](./101880-kill-the-plumber-2.json) |
 | Kill the Plumber World | 100732 | [100732-kill-the-plumber-world.json](./100732-kill-the-plumber-world.json) |
 | Kill the Prince?! | 178882 | [178882-kill-the-prince.json](./178882-kill-the-prince.json) |
@@ -5466,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
 | Knowledge Trainer: Trivia | 126190 | [126190-knowledge-trainer-trivia.json](./126190-knowledge-trainer-trivia.json) |
 | Knowledge, or Know Lady | 290941 | [290941-knowledge-or-know-lady.json](./290941-knowledge-or-know-lady.json) |
+| Knowmad | 349011 | [349011-knowmad.json](./349011-knowmad.json) |
 | Known Mysteries | 330826 | [330826-known-mysteries.json](./330826-known-mysteries.json) |
 | Known Unknowns | 139309 | [139309-known-unknowns.json](./139309-known-unknowns.json) |
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
@@ -5924,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
 | Konbini Cleanup | 413298 | [413298-konbini-cleanup.json](./413298-konbini-cleanup.json) |
 | Konbini Life | 178879 | [178879-konbini-life.json](./178879-konbini-life.json) |
+| Konbini ni Kuru Jouren-san | 346848 | [346848-konbini-ni-kuru-jouren-san.json](./346848-konbini-ni-kuru-jouren-san.json) |
 | Konbini Simulator | 383871 | [383871-konbini-simulator.json](./383871-konbini-simulator.json) |
 | Konbini's World | 381591 | [381591-konbinis-world.json](./381591-konbinis-world.json) |
 | Konchi | 340889 | [340889-konchi.json](./340889-konchi.json) |
