@@ -4688,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Aces | 351162 | [351162-aerial-aces.json](./351162-aerial-aces.json) |
 | Aerial Antics | 73503 | [73503-aerial-antics.json](./73503-aerial-antics.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
+| Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
 | Aerial Battle Frame: Vernion | 379488 | [379488-aerial-battle-frame-vernion.json](./379488-aerial-battle-frame-vernion.json) |
 | Aerial Camera Simulator | 379487 | [379487-aerial-camera-simulator.json](./379487-aerial-camera-simulator.json) |
 | Aerial Cleaner | 301680 | [301680-aerial-cleaner.json](./301680-aerial-cleaner.json) |
@@ -4885,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesop's Garden | 66469 | [66469-aesops-garden.json](./66469-aesops-garden.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aesoteric Collection | 164209 | [164209-aesoteric-collection.json](./164209-aesoteric-collection.json) |
+| Aestha: The runner game | 232153 | [232153-aestha-the-runner-game.json](./232153-aestha-the-runner-game.json) |
 | Aestheta | 349742 | [349742-aestheta.json](./349742-aestheta.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aesthetic Arena | 93784 | [93784-aesthetic-arena.json](./93784-aesthetic-arena.json) |
@@ -9799,6 +9801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Isle: Starter Pack | 330221 | [330221-amber-isle-starter-pack.json](./330221-amber-isle-starter-pack.json) |
 | Amber of The End | 359547 | [359547-amber-of-the-end.json](./359547-amber-of-the-end.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
+| Amber Route | 233200 | [233200-amber-route.json](./233200-amber-route.json) |
 | Amber Tail Adventure | 29023 | [29023-amber-tail-adventure.json](./29023-amber-tail-adventure.json) |
 | Amber Time | 132372 | [132372-amber-time.json](./132372-amber-time.json) |
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
@@ -18672,6 +18675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrobatics | 270640 | [270640-astrobatics.json](./270640-astrobatics.json) |
 | Astrobattle | 178967 | [178967-astrobattle.json](./178967-astrobattle.json) |
 | AstroBike | 174045 | [174045-astrobike.json](./174045-astrobike.json) |
+| Astrobit | 233821 | [233821-astrobit.json](./233821-astrobit.json) |
 | AstroBlast | 78371 | [78371-astroblast.json](./78371-astroblast.json) |
 | Astroblaster | 207777 | [207777-astroblaster.json](./207777-astroblaster.json) |
 | Astroblaze | 300770 | [300770-astroblaze.json](./300770-astroblaze.json) |
