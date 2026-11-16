@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Boy | 20565 | [20565-b-boy.json](./20565-b-boy.json) |
 | B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
 | B-Daman | 325729 | [325729-b-daman.json](./325729-b-daman.json) |
+| B-Day-25 | 394923 | [394923-b-day-25.json](./394923-b-day-25.json) |
 | B-e-e-t-l-e | 178507 | [178507-b-e-e-t-l-e.json](./178507-b-e-e-t-l-e.json) |
 | B-e-e-t-l-e: Be right back! | 366937 | [366937-b-e-e-t-l-e-be-right-back.json](./366937-b-e-e-t-l-e-be-right-back.json) |
 | B-Line | 370237 | [370237-b-line.json](./370237-b-line.json) |
@@ -10624,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
 | Blackwater Exchange | 407396 | [407396-blackwater-exchange.json](./407396-blackwater-exchange.json) |
+| Blackwell | 394951 | [394951-blackwell.json](./394951-blackwell.json) |
 | Blackwell Unbound | 9041 | [9041-blackwell-unbound.json](./9041-blackwell-unbound.json) |
 | BlackWhite | 201105 | [201105-blackwhite.json](./201105-blackwhite.json) |
 | Blackwood | 371847 | [371847-blackwood.json](./371847-blackwood.json) |
@@ -20062,6 +20064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger King Jr. Club | 331034 | [331034-burger-king-jr-club.json](./331034-burger-king-jr-club.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
 | Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
+| Burger Life | 394925 | [394925-burger-life.json](./394925-burger-life.json) |
 | Burger Lord | 111438 | [111438-burger-lord.json](./111438-burger-lord.json) |
 | Burger Maker | 285160 | [285160-burger-maker.json](./285160-burger-maker.json) |
 | Burger Maker | 364156 | [364156-burger-maker.json](./364156-burger-maker.json) |
