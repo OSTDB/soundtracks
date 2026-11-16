@@ -6393,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Majesty's Ship | 124478 | [124478-her-majestys-ship.json](./124478-her-majestys-ship.json) |
 | Her Majesty's Spiffing | 26548 | [26548-her-majestys-spiffing.json](./26548-her-majestys-spiffing.json) |
 | Her Name | 222756 | [222756-her-name.json](./222756-her-name.json) |
+| Her Name Was April | 414677 | [414677-her-name-was-april.json](./414677-her-name-was-april.json) |
 | Her Name Was Fire | 209779 | [209779-her-name-was-fire.json](./209779-her-name-was-fire.json) |
 | Her New Memory | 152295 | [152295-her-new-memory.json](./152295-her-new-memory.json) |
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
@@ -12394,6 +12395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houchi City | 249180 | [249180-houchi-city.json](./249180-houchi-city.json) |
 | Houchi Shoujo | 195855 | [195855-houchi-shoujo.json](./195855-houchi-shoujo.json) |
 | Houchou Shoujo Gensoukyoku | 172801 | [172801-houchou-shoujo-gensoukyoku.json](./172801-houchou-shoujo-gensoukyoku.json) |
+| Houchou-san Help Me | 414659 | [414659-houchou-san-help-me.json](./414659-houchou-san-help-me.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houdini Master of the Extraordinary 2: The London Tower | 404637 | [404637-houdini-master-of-the-extraordinary-2-the-london-tower.json](./404637-houdini-master-of-the-extraordinary-2-the-london-tower.json) |
 | Houdini Master of the Extraordinary 3: The Vampire's Crypt | 404638 | [404638-houdini-master-of-the-extraordinary-3-the-vampires-crypt.json](./404638-houdini-master-of-the-extraordinary-3-the-vampires-crypt.json) |
