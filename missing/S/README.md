@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Same Game and Robots | 41464 | [41464-same-game-and-robots.json](./41464-same-game-and-robots.json) |
 | Same Game for Mac | 80754 | [80754-same-game-for-mac.json](./80754-same-game-for-mac.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
+| Same Game FX | 412027 | [412027-same-game-fx.json](./412027-same-game-fx.json) |
 | Same or Different | 69718 | [69718-same-or-different.json](./69718-same-or-different.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
 | Same Sprites, Different Levels | 277076 | [277076-same-sprites-different-levels.json](./277076-same-sprites-different-levels.json) |
@@ -2877,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayfield Defense | 253543 | [253543-sayfield-defense.json](./253543-sayfield-defense.json) |
 | Saylor Animals Puzzle | 388433 | [388433-saylor-animals-puzzle.json](./388433-saylor-animals-puzzle.json) |
 | Saylor Anime Puzzle Boys & Girls | 380935 | [380935-saylor-anime-puzzle-boys-and-girls.json](./380935-saylor-anime-puzzle-boys-and-girls.json) |
+| Saylor Assassin Puzzle | 412626 | [412626-saylor-assassin-puzzle.json](./412626-saylor-assassin-puzzle.json) |
 | Sayo | 303914 | [303914-sayo.json](./303914-sayo.json) |
 | Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
@@ -4904,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons | 94938 | [94938-seasons.json](./94938-seasons.json) |
 | Seasons after Fall | 15821 | [15821-seasons-after-fall.json](./15821-seasons-after-fall.json) |
 | Seasons Girls | 284532 | [284532-seasons-girls.json](./284532-seasons-girls.json) |
+| Seasons of Books and Keys | 411856 | [411856-seasons-of-books-and-keys.json](./411856-seasons-of-books-and-keys.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons of Courage | 211786 | [211786-seasons-of-courage.json](./211786-seasons-of-courage.json) |
 | Seasons of Heaven | 26300 | [26300-seasons-of-heaven.json](./26300-seasons-of-heaven.json) |
@@ -8287,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape | 161603 | [161603-shape.json](./161603-shape.json) |
 | Shape | 249434 | [249434-shape.json](./249434-shape.json) |
 | Shape | 323834 | [323834-shape.json](./323834-shape.json) |
+| Shape Boxed | 412627 | [412627-shape-boxed.json](./412627-shape-boxed.json) |
 | Shape Boxing 2: Wii de Enjoy Diet! | 136886 | [136886-shape-boxing-2-wii-de-enjoy-diet.json](./136886-shape-boxing-2-wii-de-enjoy-diet.json) |
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
 | Shape Cascade | 126579 | [126579-shape-cascade.json](./126579-shape-cascade.json) |
@@ -12294,6 +12298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat: Pop Time | 105515 | [105515-simons-cat-pop-time.json](./105515-simons-cat-pop-time.json) |
 | Simon's Cat: Story Time | 194333 | [194333-simons-cat-story-time.json](./194333-simons-cat-story-time.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
+| Simoun: Shoubi Sensou - Fuuin no Remersion | 411848 | [411848-simoun-shoubi-sensou-fuuin-no-remersion.json](./411848-simoun-shoubi-sensou-fuuin-no-remersion.json) |
 | Simov | 130639 | [130639-simov.json](./130639-simov.json) |
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
 | Simp Simulator | 165916 | [165916-simp-simulator.json](./165916-simp-simulator.json) |
@@ -13249,6 +13254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisyphus Reborn | 31542 | [31542-sisyphus-reborn.json](./31542-sisyphus-reborn.json) |
 | Sisyphus Simulator | 352151 | [352151-sisyphus-simulator.json](./352151-sisyphus-simulator.json) |
 | Sisyphus.12.20.03 | 245726 | [245726-sisyphus-12-20-03.json](./245726-sisyphus-12-20-03.json) |
+| Sisyphus's Worst Day (Again) | 411872 | [411872-sisyphuss-worst-day-again.json](./411872-sisyphuss-worst-day-again.json) |
 | Sisypush | 236358 | [236358-sisypush.json](./236358-sisypush.json) |
 | Sit 'N Survive | 186113 | [186113-sit-n-survive.json](./186113-sit-n-survive.json) |
 | Sit 'N Survive | 397110 | [397110-sit-n-survive.json](./397110-sit-n-survive.json) |
@@ -23649,6 +23655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Dates | 240701 | [240701-speed-dates.json](./240701-speed-dates.json) |
 | Speed Dates: Summer Edition | 348432 | [348432-speed-dates-summer-edition.json](./348432-speed-dates-summer-edition.json) |
 | Speed Dates: Summer Edition | 409981 | [409981-speed-dates-summer-edition.json](./409981-speed-dates-summer-edition.json) |
+| Speed Demon! | 411868 | [411868-speed-demon.json](./411868-speed-demon.json) |
 | Speed Demons | 251293 | [251293-speed-demons.json](./251293-speed-demons.json) |
 | Speed Demons | 71872 | [71872-speed-demons.json](./71872-speed-demons.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
@@ -27599,6 +27606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Voyager - Across the Unknown: Deluxe Edition | 386562 | [386562-star-trek-voyager-across-the-unknown-deluxe-edition.json](./386562-star-trek-voyager-across-the-unknown-deluxe-edition.json) |
 | Star Trek: Voyager - Across the Unknown: DLC 3 | 411171 | [411171-star-trek-voyager-across-the-unknown-dlc-3.json](./411171-star-trek-voyager-across-the-unknown-dlc-3.json) |
 | Star Trek: Voyager - Across the Unknown: DLC 4 | 411170 | [411170-star-trek-voyager-across-the-unknown-dlc-4.json](./411170-star-trek-voyager-across-the-unknown-dlc-4.json) |
+| Star Trek: Voyager - Across the Unknown: Equinox | 411169 | [411169-star-trek-voyager-across-the-unknown-equinox.json](./411169-star-trek-voyager-across-the-unknown-equinox.json) |
 | Star Trek: Voyager - Elite Force | 877 | [877-star-trek-voyager-elite-force.json](./877-star-trek-voyager-elite-force.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trek: Warp | 409628 | [409628-star-trek-warp.json](./409628-star-trek-warp.json) |
@@ -37004,6 +37012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sarrador | 208238 | [208238-super-sarrador.json](./208238-super-sarrador.json) |
 | Super Sayajin UI Kakaroto VS Red Flame Warrior | 100918 | [100918-super-sayajin-ui-kakaroto-vs-red-flame-warrior.json](./100918-super-sayajin-ui-kakaroto-vs-red-flame-warrior.json) |
 | Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
+| Super School Day | 411863 | [411863-super-school-day.json](./411863-super-school-day.json) |
 | Super Schwarzschild | 41996 | [41996-super-schwarzschild.json](./41996-super-schwarzschild.json) |
 | Super Schwarzschild 2 | 401871 | [401871-super-schwarzschild-2.json](./401871-super-schwarzschild-2.json) |
 | Super Science Friends | 77650 | [77650-super-science-friends.json](./77650-super-science-friends.json) |
