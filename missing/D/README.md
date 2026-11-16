@@ -4467,7 +4467,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 2: Severed | 20440 | [20440-dead-space-2-severed.json](./20440-dead-space-2-severed.json) |
 | Dead Space 3: Awakened | 10173 | [10173-dead-space-3-awakened.json](./10173-dead-space-3-awakened.json) |
 | Dead Space 3: Enervator | 165944 | [165944-dead-space-3-enervator.json](./165944-dead-space-3-enervator.json) |
+| Dead Space 3: First Contact Pack | 224338 | [224338-dead-space-3-first-contact-pack.json](./224338-dead-space-3-first-contact-pack.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
+| Dead Space 3: Marauder Pack | 224339 | [224339-dead-space-3-marauder-pack.json](./224339-dead-space-3-marauder-pack.json) |
 | Dead Space 3: Sharpshooter Pack | 224340 | [224340-dead-space-3-sharpshooter-pack.json](./224340-dead-space-3-sharpshooter-pack.json) |
 | Dead Space 3: Tundra Recon Pack | 224341 | [224341-dead-space-3-tundra-recon-pack.json](./224341-dead-space-3-tundra-recon-pack.json) |
 | Dead Space 3: Ultimate Edition | 99930 | [99930-dead-space-3-ultimate-edition.json](./99930-dead-space-3-ultimate-edition.json) |
@@ -4979,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear My Friend: Love Like Powdery Snow | 380665 | [380665-dear-my-friend-love-like-powdery-snow.json](./380665-dear-my-friend-love-like-powdery-snow.json) |
 | Dear My God | 205611 | [205611-dear-my-god.json](./205611-dear-my-god.json) |
 | Dear My Sun!! Musuko Ikusei Capriccio | 72592 | [72592-dear-my-sun-musuko-ikusei-capriccio.json](./72592-dear-my-sun-musuko-ikusei-capriccio.json) |
+| Dear Nostalgia | 224337 | [224337-dear-nostalgia.json](./224337-dear-nostalgia.json) |
 | Dear Otome | 228354 | [228354-dear-otome.json](./228354-dear-otome.json) |
 | Dear Pianissimo | 408383 | [408383-dear-pianissimo.json](./408383-dear-pianissimo.json) |
 | Dear Pianissimo Refrain | 408384 | [408384-dear-pianissimo-refrain.json](./408384-dear-pianissimo-refrain.json) |
@@ -6535,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of Tetsoidea | 74642 | [74642-defenders-of-tetsoidea.json](./74642-defenders-of-tetsoidea.json) |
 | Defenders of Tetsoidea II | 76018 | [76018-defenders-of-tetsoidea-ii.json](./76018-defenders-of-tetsoidea-ii.json) |
+| Defenders of Tetsoidea: Chrono Chonus | 224336 | [224336-defenders-of-tetsoidea-chrono-chonus.json](./224336-defenders-of-tetsoidea-chrono-chonus.json) |
 | Defenders of the Atlantic | 179479 | [179479-defenders-of-the-atlantic.json](./179479-defenders-of-the-atlantic.json) |
 | Defenders of the Dune | 339507 | [339507-defenders-of-the-dune.json](./339507-defenders-of-the-dune.json) |
 | Defenders of the Earth | 12569 | [12569-defenders-of-the-earth.json](./12569-defenders-of-the-earth.json) |
@@ -8823,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Agency 2 | 191046 | [191046-detective-agency-2.json](./191046-detective-agency-2.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
 | Detective Agency Mosaics | 293979 | [293979-detective-agency-mosaics.json](./293979-detective-agency-mosaics.json) |
+| Detective Agency: Gray Tie - Collector's Edition | 224335 | [224335-detective-agency-gray-tie-collectors-edition.json](./224335-detective-agency-gray-tie-collectors-edition.json) |
 | Detective Agency: Murder at the Manor | 369130 | [369130-detective-agency-murder-at-the-manor.json](./369130-detective-agency-murder-at-the-manor.json) |
 | Detective AI | 172935 | [172935-detective-ai.json](./172935-detective-ai.json) |
 | Detective AnnIntae: Missing Basketball Court | 306394 | [306394-detective-annintae-missing-basketball-court.json](./306394-detective-annintae-missing-basketball-court.json) |
