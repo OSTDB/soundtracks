@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Car | 309931 | [309931-fast-car.json](./309931-fast-car.json) |
 | Fast cars racing | 108381 | [108381-fast-cars-racing.json](./108381-fast-cars-racing.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
+| Fast Coffee Simulator | 235525 | [235525-fast-coffee-simulator.json](./235525-fast-coffee-simulator.json) |
 | Fast Cubes | 166818 | [166818-fast-cubes.json](./166818-fast-cubes.json) |
 | Fast Delivery | 192672 | [192672-fast-delivery.json](./192672-fast-delivery.json) |
 | Fast Detect | 174443 | [174443-fast-detect.json](./174443-fast-detect.json) |
@@ -4658,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Baron: King's Land | 159967 | [159967-feudal-baron-kings-land.json](./159967-feudal-baron-kings-land.json) |
 | Feudal Bros: Tonosama #1 | 326646 | [326646-feudal-bros-tonosama-1.json](./326646-feudal-bros-tonosama-1.json) |
 | Feudal Craft | 358256 | [358256-feudal-craft.json](./358256-feudal-craft.json) |
+| Feudal Fantasy Incremental | 237713 | [237713-feudal-fantasy-incremental.json](./237713-feudal-fantasy-incremental.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudal Kingdoms | 167545 | [167545-feudal-kingdoms.json](./167545-feudal-kingdoms.json) |
 | Feudal Lords | 123653 | [123653-feudal-lords.json](./123653-feudal-lords.json) |
@@ -8066,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Stickman | 359074 | [359074-five-nights-at-stickman.json](./359074-five-nights-at-stickman.json) |
 | Five Nights At Stickman | 89037 | [89037-five-nights-at-stickman.json](./89037-five-nights-at-stickman.json) |
 | Five Nights at the Chum Bucket | 359212 | [359212-five-nights-at-the-chum-bucket.json](./359212-five-nights-at-the-chum-bucket.json) |
+| Five Nights at Tinky's | 236046 | [236046-five-nights-at-tinkys.json](./236046-five-nights-at-tinkys.json) |
 | Five Nights at Treasure Island | 238431 | [238431-five-nights-at-treasure-island.json](./238431-five-nights-at-treasure-island.json) |
 | Five Nights at Treasure Island 2: Original Revamp | 272665 | [272665-five-nights-at-treasure-island-2-original-revamp.json](./272665-five-nights-at-treasure-island-2-original-revamp.json) |
 | Five Nights At Treasure Island Simulator | 369659 | [369659-five-nights-at-treasure-island-simulator.json](./369659-five-nights-at-treasure-island-simulator.json) |
@@ -9662,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flute The Snake Charmer | 295465 | [295465-flute-the-snake-charmer.json](./295465-flute-the-snake-charmer.json) |
 | Fluttabyes | 10325 | [10325-fluttabyes.json](./10325-fluttabyes.json) |
 | Flutter | 395923 | [395923-flutter.json](./395923-flutter.json) |
+| Flutter Away | 235957 | [235957-flutter-away.json](./235957-flutter-away.json) |
 | Flutter Bombs | 118515 | [118515-flutter-bombs.json](./118515-flutter-bombs.json) |
 | Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
