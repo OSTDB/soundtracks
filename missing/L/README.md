@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Loremaster | 294336 | [294336-last-loremaster.json](./294336-last-loremaster.json) |
 | Last Lovers | 192244 | [192244-last-lovers.json](./192244-last-lovers.json) |
+| Last Luminary | 418448 | [418448-last-luminary.json](./418448-last-luminary.json) |
 | Last Mage | 370978 | [370978-last-mage.json](./370978-last-mage.json) |
 | Last Mage Standing | 141498 | [141498-last-mage-standing.json](./141498-last-mage-standing.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
@@ -3905,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lens Adventure | 306252 | [306252-lens-adventure.json](./306252-lens-adventure.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
 | Lens Life | 151345 | [151345-lens-life.json](./151345-lens-life.json) |
+| Lens of Darkness | 418359 | [418359-lens-of-darkness.json](./418359-lens-of-darkness.json) |
 | Lens Of Fear | 361040 | [361040-lens-of-fear.json](./361040-lens-of-fear.json) |
 | Lens Of Horror | 268267 | [268267-lens-of-horror.json](./268267-lens-of-horror.json) |
 | LenscraftCube | 373907 | [373907-lenscraftcube.json](./373907-lenscraftcube.json) |
@@ -6353,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LipTrip: My Boss Is My Heat Suppressant?! | 397215 | [397215-liptrip-my-boss-is-my-heat-suppressant.json](./397215-liptrip-my-boss-is-my-heat-suppressant.json) |
 | Liquid | 224964 | [224964-liquid.json](./224964-liquid.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
+| Liquid Blue | 418485 | [418485-liquid-blue.json](./418485-liquid-blue.json) |
 | Liquid Cat | 370369 | [370369-liquid-cat.json](./370369-liquid-cat.json) |
 | Liquid Defense | 91281 | [91281-liquid-defense.json](./91281-liquid-defense.json) |
 | Liquid Dungeon Byproduct | 178863 | [178863-liquid-dungeon-byproduct.json](./178863-liquid-dungeon-byproduct.json) |
