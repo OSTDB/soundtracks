@@ -15626,6 +15626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Patterns of Morpheus | 380202 | [380202-argonauts-agency-patterns-of-morpheus.json](./380202-argonauts-agency-patterns-of-morpheus.json) |
 | Argonauts Agency: Secret of the Labyrinth | 418539 | [418539-argonauts-agency-secret-of-the-labyrinth.json](./418539-argonauts-agency-secret-of-the-labyrinth.json) |
 | Argonauts Agency: The Bronze Plague - Collector's Edition | 383416 | [383416-argonauts-agency-the-bronze-plague-collectors-edition.json](./383416-argonauts-agency-the-bronze-plague-collectors-edition.json) |
+| Argonauts Agency: The World on His Shoulders | 415583 | [415583-argonauts-agency-the-world-on-his-shoulders.json](./415583-argonauts-agency-the-world-on-his-shoulders.json) |
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
 | Argonauts Agency: Wrath of Olympus | 371127 | [371127-argonauts-agency-wrath-of-olympus.json](./371127-argonauts-agency-wrath-of-olympus.json) |
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
@@ -15834,6 +15835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkagis Revolution | 141025 | [141025-arkagis-revolution.json](./141025-arkagis-revolution.json) |
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
 | Arkaik: Tales of Sarina | 230380 | [230380-arkaik-tales-of-sarina.json](./230380-arkaik-tales-of-sarina.json) |
+| Arkan Solas 2: The Silence of Valemora | 415580 | [415580-arkan-solas-2-the-silence-of-valemora.json](./415580-arkan-solas-2-the-silence-of-valemora.json) |
 | Arkan Solas: The Haunting of Ashfell Manor | 402728 | [402728-arkan-solas-the-haunting-of-ashfell-manor.json](./402728-arkan-solas-the-haunting-of-ashfell-manor.json) |
 | Arkan Tower | 164167 | [164167-arkan-tower.json](./164167-arkan-tower.json) |
 | Arkan: The Dog Adventurer | 122806 | [122806-arkan-the-dog-adventurer.json](./122806-arkan-the-dog-adventurer.json) |
@@ -16478,6 +16480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow of Laputa: Kage Nashi Sensei to Kiron no Fuuken | 59210 | [59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json](./59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
 | Arrow Point | 108726 | [108726-arrow-point.json](./108726-arrow-point.json) |
+| Arrow Puzzle Games | 415573 | [415573-arrow-puzzle-games.json](./415573-arrow-puzzle-games.json) |
 | Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
 | Arrow Run | 66856 | [66856-arrow-run.json](./66856-arrow-run.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
