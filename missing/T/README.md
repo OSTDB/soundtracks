@@ -10908,6 +10908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Froglings | 338305 | [338305-the-froglings.json](./338305-the-froglings.json) |
 | The Frogman Show DS: Datte, Shouganai janai. | 287081 | [287081-the-frogman-show-ds-datte-shouganai-janai.json](./287081-the-frogman-show-ds-datte-shouganai-janai.json) |
 | The Frogs | 145444 | [145444-the-frogs.json](./145444-the-frogs.json) |
+| The Front | 239857 | [239857-the-front.json](./239857-the-front.json) |
 | The Front of Greed | 106388 | [106388-the-front-of-greed.json](./106388-the-front-of-greed.json) |
 | The Front Yard | 304088 | [304088-the-front-yard.json](./304088-the-front-yard.json) |
 | The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
@@ -17988,6 +17989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Retropolis | 159767 | [159767-the-secret-of-retropolis.json](./159767-the-secret-of-retropolis.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
+| The Secret of the Blue Water | 239938 | [239938-the-secret-of-the-blue-water.json](./239938-the-secret-of-the-blue-water.json) |
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
 | The Secret of the Secret Room | 419048 | [419048-the-secret-of-the-secret-room.json](./419048-the-secret-of-the-secret-room.json) |
 | The secret of the stone | 164150 | [164150-the-secret-of-the-stone.json](./164150-the-secret-of-the-stone.json) |
