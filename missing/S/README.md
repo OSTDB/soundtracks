@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa in the Ucube City | 282420 | [282420-santa-in-the-ucube-city.json](./282420-santa-in-the-ucube-city.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
+| Santa Launch | 261468 | [261468-santa-launch.json](./261468-santa-launch.json) |
 | Santa Lucia | 191346 | [191346-santa-lucia.json](./191346-santa-lucia.json) |
 | Santa Monica By Night | 117284 | [117284-santa-monica-by-night.json](./117284-santa-monica-by-night.json) |
 | Santa Monica Paradise | 134482 | [134482-santa-monica-paradise.json](./134482-santa-monica-paradise.json) |
@@ -9648,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinju | 389337 | [389337-shinju.json](./389337-shinju.json) |
 | Shinjuku Anomaly | 386407 | [386407-shinjuku-anomaly.json](./386407-shinjuku-anomaly.json) |
 | Shinjuku Dungeon | 222471 | [222471-shinjuku-dungeon.json](./222471-shinjuku-dungeon.json) |
+| Shinjuku Hearts | 258144 | [258144-shinjuku-hearts.json](./258144-shinjuku-hearts.json) |
 | Shinjuku no Okami | 70573 | [70573-shinjuku-no-okami.json](./70573-shinjuku-no-okami.json) |
 | Shinjuku Soumei | 261212 | [261212-shinjuku-soumei.json](./261212-shinjuku-soumei.json) |
 | Shinka Tales | 369806 | [369806-shinka-tales.json](./369806-shinka-tales.json) |
@@ -12247,6 +12249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simian | 390344 | [390344-simian.json](./390344-simian.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
+| Simil | 258157 | [258157-simil.json](./258157-simil.json) |
 | Similars: Climb | 121194 | [121194-similars-climb.json](./121194-similars-climb.json) |
 | Similo | 95962 | [95962-similo.json](./95962-similo.json) |
 | Similo: History | 170927 | [170927-similo-history.json](./170927-similo-history.json) |
@@ -13614,6 +13617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
 | Skelton Zone Traveler Emergence | 188732 | [188732-skelton-zone-traveler-emergence.json](./188732-skelton-zone-traveler-emergence.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
+| Skepland | 261477 | [261477-skepland.json](./261477-skepland.json) |
 | Skeppskatten går iland | 327005 | [327005-skeppskatten-gar-iland.json](./327005-skeppskatten-gar-iland.json) |
 | Sker Collectors Bundle | 301747 | [301747-sker-collectors-bundle.json](./301747-sker-collectors-bundle.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
@@ -15198,6 +15202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Adventure: Magkid | 69702 | [69702-slide-adventure-magkid.json](./69702-slide-adventure-magkid.json) |
 | Slide and Dice | 359322 | [359322-slide-and-dice.json](./359322-slide-and-dice.json) |
 | Slide And Perform | 340958 | [340958-slide-and-perform.json](./340958-slide-and-perform.json) |
+| Slide Ball Master | 258228 | [258228-slide-ball-master.json](./258228-slide-ball-master.json) |
 | Slide Boy in Maze Land | 274856 | [274856-slide-boy-in-maze-land.json](./274856-slide-boy-in-maze-land.json) |
 | Slide Circus HD | 235154 | [235154-slide-circus-hd.json](./235154-slide-circus-hd.json) |
 | Slide Colors | 25399 | [25399-slide-colors.json](./25399-slide-colors.json) |
@@ -39427,6 +39432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Gym | 339461 | [339461-sweet-gym.json](./339461-sweet-gym.json) |
 | Sweet Half-Life | 221652 | [221652-sweet-half-life.json](./221652-sweet-half-life.json) |
 | Sweet Halloween | 166876 | [166876-sweet-halloween.json](./166876-sweet-halloween.json) |
+| Sweet Halloween | 261470 | [261470-sweet-halloween.json](./261470-sweet-halloween.json) |
 | Sweet Hamster Days | 368802 | [368802-sweet-hamster-days.json](./368802-sweet-hamster-days.json) |
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
 | Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
@@ -39675,6 +39681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
 | Swimsanity! | 63572 | [63572-swimsanity.json](./63572-swimsanity.json) |
 | Swimsuit Girl: Battle to Avoid | 385021 | [385021-swimsuit-girl-battle-to-avoid.json](./385021-swimsuit-girl-battle-to-avoid.json) |
+| Swimsuit Samurai | 258143 | [258143-swimsuit-samurai.json](./258143-swimsuit-samurai.json) |
 | Swinario Super Bros. Play | 169252 | [169252-swinario-super-bros-play.json](./169252-swinario-super-bros-play.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
 | Swindler 1.11 | 177790 | [177790-swindler-1-11.json](./177790-swindler-1-11.json) |
