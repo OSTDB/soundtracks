@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Bookstore | 404474 | [404474-idle-bookstore.json](./404474-idle-bookstore.json) |
 | Idle Boss Rush | 341977 | [341977-idle-boss-rush.json](./341977-idle-boss-rush.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
+| Idle Boxing | 248257 | [248257-idle-boxing.json](./248257-idle-boxing.json) |
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
 | Idle Breaker: Loot and Survive | 297597 | [297597-idle-breaker-loot-and-survive.json](./297597-idle-breaker-loot-and-survive.json) |
 | Idle Breakout | 228326 | [228326-idle-breakout.json](./228326-idle-breakout.json) |
@@ -1718,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Immortal: Seven-Star Strategist | 410850 | [410850-idle-immortal-seven-star-strategist.json](./410850-idle-immortal-seven-star-strategist.json) |
 | Idle Industries | 159115 | [159115-idle-industries.json](./159115-idle-industries.json) |
 | Idle Industries | 255701 | [255701-idle-industries.json](./255701-idle-industries.json) |
+| Idle Inn Empire | 248255 | [248255-idle-inn-empire.json](./248255-idle-inn-empire.json) |
 | Idle Intelligence | 101708 | [101708-idle-intelligence.json](./101708-idle-intelligence.json) |
 | Idle Intergalactic Factory | 221127 | [221127-idle-intergalactic-factory.json](./221127-idle-intergalactic-factory.json) |
 | Idle Interstellar Factory 2 | 234522 | [234522-idle-interstellar-factory-2.json](./234522-idle-interstellar-factory-2.json) |
@@ -3358,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Name of Freedom: Black Apocalypse | 181604 | [181604-in-the-name-of-freedom-black-apocalypse.json](./181604-in-the-name-of-freedom-black-apocalypse.json) |
 | In the name of sin | 74510 | [74510-in-the-name-of-sin.json](./74510-in-the-name-of-sin.json) |
 | In the Name of the Tsar | 321860 | [321860-in-the-name-of-the-tsar.json](./321860-in-the-name-of-the-tsar.json) |
+| In the Nick of Tie-m | 249425 | [249425-in-the-nick-of-tie-m.json](./249425-in-the-nick-of-tie-m.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
 | In the Palace of the Birds | 332879 | [332879-in-the-palace-of-the-birds.json](./332879-in-the-palace-of-the-birds.json) |
 | In the Pause Between the Ringing | 117898 | [117898-in-the-pause-between-the-ringing.json](./117898-in-the-pause-between-the-ringing.json) |
@@ -4410,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Sky | 150018 | [150018-infinite-sky.json](./150018-infinite-sky.json) |
 | Infinite Skyline | 115175 | [115175-infinite-skyline.json](./115175-infinite-skyline.json) |
 | Infinite Skyline: Superflight | 121865 | [121865-infinite-skyline-superflight.json](./121865-infinite-skyline-superflight.json) |
+| Infinite Slice | 246128 | [246128-infinite-slice.json](./246128-infinite-slice.json) |
 | Infinite Soul | 361919 | [361919-infinite-soul.json](./361919-infinite-soul.json) |
 | Infinite Space | 11683 | [11683-infinite-space.json](./11683-infinite-space.json) |
 | Infinite Space III: Sea of Stars | 16930 | [16930-infinite-space-iii-sea-of-stars.json](./16930-infinite-space-iii-sea-of-stars.json) |
@@ -5041,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inquisitor: Shade of Swords | 123604 | [123604-inquisitor-shade-of-swords.json](./123604-inquisitor-shade-of-swords.json) |
 | Inquisitor's Heart and Soul | 191205 | [191205-inquisitors-heart-and-soul.json](./191205-inquisitors-heart-and-soul.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
+| Ins and Outs | 246133 | [246133-ins-and-outs.json](./246133-ins-and-outs.json) |
 | Insane | 291583 | [291583-insane.json](./291583-insane.json) |
 | Insane | 33263 | [33263-insane.json](./33263-insane.json) |
 | Insane | 384816 | [384816-insane.json](./384816-insane.json) |
