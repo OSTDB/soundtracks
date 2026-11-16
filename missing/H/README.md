@@ -5922,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Valentine's Edition | 239220 | [239220-hentai-jigsaw-puzzle-collection-valentines-edition.json](./239220-hentai-jigsaw-puzzle-collection-valentines-edition.json) |
+| Hentai Journey | 242181 | [242181-hentai-journey.json](./242181-hentai-journey.json) |
 | Hentai Kai | 371395 | [371395-hentai-kai.json](./371395-hentai-kai.json) |
 | Hentai Kaiya | 365440 | [365440-hentai-kaiya.json](./365440-hentai-kaiya.json) |
 | Hentai Karada | 286722 | [286722-hentai-karada.json](./286722-hentai-karada.json) |
