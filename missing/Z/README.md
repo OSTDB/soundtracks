@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Night Terror: Special Edition | 52106 | [52106-zombie-night-terror-special-edition.json](./52106-zombie-night-terror-special-edition.json) |
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
+| Zombie of the Dot | 253068 | [253068-zombie-of-the-dot.json](./253068-zombie-of-the-dot.json) |
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
 | Zombie Offroad Safari | 38027 | [38027-zombie-offroad-safari.json](./38027-zombie-offroad-safari.json) |
 | Zombie Olé | 281865 | [281865-zombie-ole.json](./281865-zombie-ole.json) |
