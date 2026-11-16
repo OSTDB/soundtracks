@@ -5299,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Slayer V | 180013 | [180013-death-slayer-v.json](./180013-death-slayer-v.json) |
 | Death Space | 111406 | [111406-death-space.json](./111406-death-space.json) |
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
+| Death Squad | 350663 | [350663-death-squad.json](./350663-death-squad.json) |
 | Death Squad 2: Idle Space Raiders | 101784 | [101784-death-squad-2-idle-space-raiders.json](./101784-death-squad-2-idle-space-raiders.json) |
 | Death Squared | 26972 | [26972-death-squared.json](./26972-death-squared.json) |
 | Death Stairwell 99F | 359672 | [359672-death-stairwell-99f.json](./359672-death-stairwell-99f.json) |
@@ -6924,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Must Complete | 355102 | [355102-delivery-must-complete.json](./355102-delivery-must-complete.json) |
 | Delivery Mystery | 376032 | [376032-delivery-mystery.json](./376032-delivery-mystery.json) |
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
+| Delivery Pals | 349000 | [349000-delivery-pals.json](./349000-delivery-pals.json) |
 | Delivery Point Simulator | 326456 | [326456-delivery-point-simulator.json](./326456-delivery-point-simulator.json) |
 | Delivery Quest | 208428 | [208428-delivery-quest.json](./208428-delivery-quest.json) |
 | Delivery Service: Courier | 391697 | [391697-delivery-service-courier.json](./391697-delivery-service-courier.json) |
@@ -19337,7 +19339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369616 | [369616-dropzone.json](./369616-dropzone.json) |
 | Dropzone | 369617 | [369617-dropzone.json](./369617-dropzone.json) |
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
-| DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Dropzone GG2SMS | 369615 | [369615-dropzone-gg2sms.json](./369615-dropzone-gg2sms.json) |
 | Dros | 172216 | [172216-dros.json](./172216-dros.json) |
 | Drosera: Lady Bad End no Hatsukoi | 321015 | [321015-drosera-lady-bad-end-no-hatsukoi.json](./321015-drosera-lady-bad-end-no-hatsukoi.json) |
