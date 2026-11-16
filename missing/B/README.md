@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz: The Director's Cut | 12303 | [12303-ballz-the-directors-cut.json](./12303-ballz-the-directors-cut.json) |
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
 | Ballzy: PvP Block Puzzle | 416801 | [416801-ballzy-pvp-block-puzzle.json](./416801-ballzy-pvp-block-puzzle.json) |
+| Balmung | 371788 | [371788-balmung.json](./371788-balmung.json) |
 | Balmung Cycle Part I: The Messenger and the Heretic | 124537 | [124537-balmung-cycle-part-i-the-messenger-and-the-heretic.json](./124537-balmung-cycle-part-i-the-messenger-and-the-heretic.json) |
 | Balocks | 311754 | [311754-balocks.json](./311754-balocks.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
@@ -2963,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
 | Bardy's Maze: The World's First Zard-PG | 232804 | [232804-bardys-maze-the-worlds-first-zard-pg.json](./232804-bardys-maze-the-worlds-first-zard-pg.json) |
 | Bardysh: Kromeford no Juunin | 167075 | [167075-bardysh-kromeford-no-juunin.json](./167075-bardysh-kromeford-no-juunin.json) |
+| Bare Bones | 371787 | [371787-bare-bones.json](./371787-bare-bones.json) |
 | Bare Butt Boxing | 197269 | [197269-bare-butt-boxing.json](./197269-bare-butt-boxing.json) |
 | Bare Knuckle III | 151541 | [151541-bare-knuckle-iii.json](./151541-bare-knuckle-iii.json) |
 | Bare Knuckle Sandwich | 259046 | [259046-bare-knuckle-sandwich.json](./259046-bare-knuckle-sandwich.json) |
@@ -3221,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart Simpson Saw Game | 337137 | [337137-bart-simpson-saw-game.json](./337137-bart-simpson-saw-game.json) |
 | Bart Simpson vs. Dragon Ball | 365245 | [365245-bart-simpson-vs-dragon-ball.json](./365245-bart-simpson-vs-dragon-ball.json) |
 | Bart Simpson's Cupcake Crisis | 205734 | [205734-bart-simpsons-cupcake-crisis.json](./205734-bart-simpsons-cupcake-crisis.json) |
+| Bart Simpson's Cupcake Crisis | 367869 | [367869-bart-simpsons-cupcake-crisis.json](./367869-bart-simpsons-cupcake-crisis.json) |
 | Bart Simpson's Escape from Camp Deadly | 2829 | [2829-bart-simpsons-escape-from-camp-deadly.json](./2829-bart-simpsons-escape-from-camp-deadly.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
@@ -3237,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barter Empire | 10024 | [10024-barter-empire.json](./10024-barter-empire.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartigo | 30582 | [30582-bartigo.json](./30582-bartigo.json) |
+| Bartman Avenger of Evil | 367870 | [367870-bartman-avenger-of-evil.json](./367870-bartman-avenger-of-evil.json) |
 | Bartman: Avenger of Evil | 218328 | [218328-bartman-avenger-of-evil.json](./218328-bartman-avenger-of-evil.json) |
 | Bartolomeo, Misled by Circumstances, Learns that Appearances can be Deceptive | 317311 | [317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json](./317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
@@ -8173,6 +8177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibao | 409277 | [409277-bibao.json](./409277-bibao.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
+| Bibelgame | 367867 | [367867-bibelgame.json](./367867-bibelgame.json) |
 | Bibi & Tina at the Horse Farm | 122789 | [122789-bibi-and-tina-at-the-horse-farm.json](./122789-bibi-and-tina-at-the-horse-farm.json) |
 | Bibi & Tina: Adventures with Horses | 110686 | [110686-bibi-and-tina-adventures-with-horses.json](./110686-bibi-and-tina-adventures-with-horses.json) |
 | Bibi & Tina: Das grosse Reiterfest | 268112 | [268112-bibi-and-tina-das-grosse-reiterfest.json](./268112-bibi-and-tina-das-grosse-reiterfest.json) |
@@ -9684,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon R: Moon Sensation! | 385787 | [385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json](./385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json) |
 | Bishoujo Senshi Sailor Moon R: Sailor Senshi Sanjou! | 385783 | [385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json](./385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json) |
 | Bishoujo Senshi Sailor Moon S | 36697 | [36697-bishoujo-senshi-sailor-moon-s.json](./36697-bishoujo-senshi-sailor-moon-s.json) |
+| Bishoujo Senshi Sailor Moon S GG2SMS | 369496 | [369496-bishoujo-senshi-sailor-moon-s-gg2sms.json](./369496-bishoujo-senshi-sailor-moon-s-gg2sms.json) |
 | Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen | 42399 | [42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json](./42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json) |
 | Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
 | Bishoujo Senshi Sailor Moon S: Kurukkurin | 42342 | [42342-bishoujo-senshi-sailor-moon-s-kurukkurin.json](./42342-bishoujo-senshi-sailor-moon-s-kurukkurin.json) |
@@ -11247,6 +11253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
+| Blazing War World | 372914 | [372914-blazing-war-world.json](./372914-blazing-war-world.json) |
 | Blazing Wings | 70033 | [70033-blazing-wings.json](./70033-blazing-wings.json) |
 | Blazing Worldstars | 191313 | [191313-blazing-worldstars.json](./191313-blazing-worldstars.json) |
 | BlazingAngel Mistletear | 256671 | [256671-blazingangel-mistletear.json](./256671-blazingangel-mistletear.json) |
@@ -11562,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
 | Blither | 250157 | [250157-blither.json](./250157-blither.json) |
+| Blitloop | 372924 | [372924-blitloop.json](./372924-blitloop.json) |
 | Blitter Boy: Operation Monster Mall | 125006 | [125006-blitter-boy-operation-monster-mall.json](./125006-blitter-boy-operation-monster-mall.json) |
 | Blitz | 308289 | [308289-blitz.json](./308289-blitz.json) |
 | Blitz | 380023 | [380023-blitz.json](./380023-blitz.json) |
@@ -15222,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born Again | 241695 | [241695-born-again.json](./241695-born-again.json) |
 | Born Anew | 211257 | [211257-born-anew.json](./211257-born-anew.json) |
 | Born as a Pirate | 349513 | [349513-born-as-a-pirate.json](./349513-born-as-a-pirate.json) |
+| Born for the Light: Wavelength Radiant Collapse | 371776 | [371776-born-for-the-light-wavelength-radiant-collapse.json](./371776-born-for-the-light-wavelength-radiant-collapse.json) |
 | Born from the Soil | 385236 | [385236-born-from-the-soil.json](./385236-born-from-the-soil.json) |
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
 | Born in Chaos | 341939 | [341939-born-in-chaos.json](./341939-born-in-chaos.json) |
@@ -19229,6 +19238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny in Crazy Castle 4 | 8724 | [8724-bugs-bunny-in-crazy-castle-4.json](./8724-bugs-bunny-in-crazy-castle-4.json) |
 | Bugs Bunny in Double Trouble | 3052 | [3052-bugs-bunny-in-double-trouble.json](./3052-bugs-bunny-in-double-trouble.json) |
 | Bugs Bunny in Double Trouble | 368888 | [368888-bugs-bunny-in-double-trouble.json](./368888-bugs-bunny-in-double-trouble.json) |
+| Bugs Bunny in Double Trouble GG2SMS | 369497 | [369497-bugs-bunny-in-double-trouble-gg2sms.json](./369497-bugs-bunny-in-double-trouble-gg2sms.json) |
 | Bugs Bunny: Crazy Castle 3 | 8723 | [8723-bugs-bunny-crazy-castle-3.json](./8723-bugs-bunny-crazy-castle-3.json) |
 | Bugs Bunny: Lost in Time | 3053 | [3053-bugs-bunny-lost-in-time.json](./3053-bugs-bunny-lost-in-time.json) |
 | Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
@@ -19891,6 +19901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Alice in Wonderland | 302913 | [302913-bunny-alice-in-wonderland.json](./302913-bunny-alice-in-wonderland.json) |
 | Bunny Bash | 35973 | [35973-bunny-bash.json](./35973-bunny-bash.json) |
 | Bunny Bastion | 419379 | [419379-bunny-bastion.json](./419379-bunny-bastion.json) |
+| Bunny Battle | 367638 | [367638-bunny-battle.json](./367638-bunny-battle.json) |
 | Bunny Battle Arena | 103763 | [103763-bunny-battle-arena.json](./103763-bunny-battle-arena.json) |
 | Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
 | Bunny Beats | 115268 | [115268-bunny-beats.json](./115268-bunny-beats.json) |
@@ -20648,6 +20659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster | 362135 | [362135-buster.json](./362135-buster.json) |
 | Buster | 62831 | [62831-buster.json](./62831-buster.json) |
 | Buster Ball | 46324 | [46324-buster-ball.json](./46324-buster-ball.json) |
+| Buster Ball GG2SMS | 369502 | [369502-buster-ball-gg2sms.json](./369502-buster-ball-gg2sms.json) |
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Breaks Out | 390373 | [390373-buster-breaks-out.json](./390373-buster-breaks-out.json) |
@@ -20657,6 +20669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster Bubbles | 354231 | [354231-buster-bubbles.json](./354231-buster-bubbles.json) |
 | Buster Busts A Nut | 375390 | [375390-buster-busts-a-nut.json](./375390-buster-busts-a-nut.json) |
 | Buster Fight | 46323 | [46323-buster-fight.json](./46323-buster-fight.json) |
+| Buster Fight GG2SMS | 369503 | [369503-buster-fight-gg2sms.json](./369503-buster-fight-gg2sms.json) |
 | Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
 | Buster Sword | 415963 | [415963-buster-sword.json](./415963-buster-sword.json) |
 | Buster's Big Score | 366270 | [366270-busters-big-score.json](./366270-busters-big-score.json) |
