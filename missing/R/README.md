@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record Rewind Repeat | 348903 | [348903-record-rewind-repeat.json](./348903-record-rewind-repeat.json) |
 | Record Run | 61703 | [61703-record-run.json](./61703-record-run.json) |
 | Record Scratch Fever | 183528 | [183528-record-scratch-fever.json](./183528-record-scratch-fever.json) |
+| Record Shop Simulator | 310303 | [310303-record-shop-simulator.json](./310303-record-shop-simulator.json) |
 | Record Store Nightmare | 68660 | [68660-record-store-nightmare.json](./68660-record-store-nightmare.json) |
 | Record Tripping | 242910 | [242910-record-tripping.json](./242910-record-tripping.json) |
 | Record_DrowsyVortex | 340713 | [340713-record-drowsyvortex.json](./340713-record-drowsyvortex.json) |
@@ -4640,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tether | 172222 | [172222-red-tether.json](./172222-red-tether.json) |
 | Red the Cook | 390770 | [390770-red-the-cook.json](./390770-red-the-cook.json) |
 | Red Thread | 232214 | [232214-red-thread.json](./232214-red-thread.json) |
+| Red Thread | 310782 | [310782-red-thread.json](./310782-red-thread.json) |
 | Red Thunder | 69751 | [69751-red-thunder.json](./69751-red-thunder.json) |
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
 | Red Tie Miner: Zombie | 65372 | [65372-red-tie-miner-zombie.json](./65372-red-tie-miner-zombie.json) |
