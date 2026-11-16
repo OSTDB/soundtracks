@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Omens | 62369 | [62369-war-of-omens.json](./62369-war-of-omens.json) |
 | War of Pirate Ships | 421765 | [421765-war-of-pirate-ships.json](./421765-war-of-pirate-ships.json) |
 | War of Power: The Last Fight | 115371 | [115371-war-of-power-the-last-fight.json](./115371-war-of-power-the-last-fight.json) |
+| War of Reproduction: Evolution | 403853 | [403853-war-of-reproduction-evolution.json](./403853-war-of-reproduction-evolution.json) |
 | War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
@@ -4668,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Did the Humans Go? | 233333 | [233333-where-did-the-humans-go.json](./233333-where-did-the-humans-go.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
 | Where Does Art Go When It Dies? | 285289 | [285289-where-does-art-go-when-it-dies.json](./285289-where-does-art-go-when-it-dies.json) |
+| Where Dolls Hang | 403847 | [403847-where-dolls-hang.json](./403847-where-dolls-hang.json) |
 | Where Dragon Spirits | 295485 | [295485-where-dragon-spirits.json](./295485-where-dragon-spirits.json) |
 | Where Dreams Die | 275164 | [275164-where-dreams-die.json](./275164-where-dreams-die.json) |
 | Where Ferrets | 282228 | [282228-where-ferrets.json](./282228-where-ferrets.json) |
@@ -9189,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Fate | 235437 | [235437-world-of-fate.json](./235437-world-of-fate.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Fighter | 220373 | [220373-world-of-fighter.json](./220373-world-of-fighter.json) |
+| World of Final Fantasy: Balthier | 405196 | [405196-world-of-final-fantasy-balthier.json](./405196-world-of-final-fantasy-balthier.json) |
 | World of Final Fantasy: Limited Edition | 41841 | [41841-world-of-final-fantasy-limited-edition.json](./41841-world-of-final-fantasy-limited-edition.json) |
 | World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
 | World of Final Fantasy: Meli-Melo | 76160 | [76160-world-of-final-fantasy-meli-melo.json](./76160-world-of-final-fantasy-meli-melo.json) |
