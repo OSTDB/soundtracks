@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Imposter | 384916 | [384916-backrooms-imposter.json](./384916-backrooms-imposter.json) |
 | Backrooms: Infinite Halls | 264736 | [264736-backrooms-infinite-halls.json](./264736-backrooms-infinite-halls.json) |
 | Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
+| Backrooms: Into the Hole | 405181 | [405181-backrooms-into-the-hole.json](./405181-backrooms-into-the-hole.json) |
 | Backrooms: Labyrinth Glitch | 407803 | [407803-backrooms-labyrinth-glitch.json](./407803-backrooms-labyrinth-glitch.json) |
 | Backrooms: Last Chance | 407802 | [407802-backrooms-last-chance.json](./407802-backrooms-last-chance.json) |
 | Backrooms: Last Room | 289657 | [289657-backrooms-last-room.json](./289657-backrooms-last-room.json) |
@@ -748,12 +749,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: The Game | 231587 | [231587-backrooms-the-game.json](./231587-backrooms-the-game.json) |
 | Backrooms: The Incident | 417090 | [417090-backrooms-the-incident.json](./417090-backrooms-the-incident.json) |
 | Backrooms: The Labyrinth | 309802 | [309802-backrooms-the-labyrinth.json](./309802-backrooms-the-labyrinth.json) |
+| Backrooms: The Last Observer | 405180 | [405180-backrooms-the-last-observer.json](./405180-backrooms-the-last-observer.json) |
 | Backrooms: The Lost Circus | 335054 | [335054-backrooms-the-lost-circus.json](./335054-backrooms-the-lost-circus.json) |
 | Backrooms: The Next Level | 353784 | [353784-backrooms-the-next-level.json](./353784-backrooms-the-next-level.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
 | Backrooms: The Others | 366337 | [366337-backrooms-the-others.json](./366337-backrooms-the-others.json) |
 | Backrooms: The Phobolore | 265538 | [265538-backrooms-the-phobolore.json](./265538-backrooms-the-phobolore.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
+| Backrooms: The Savior | 405179 | [405179-backrooms-the-savior.json](./405179-backrooms-the-savior.json) |
 | Backrooms: The Scream | 349240 | [349240-backrooms-the-scream.json](./349240-backrooms-the-scream.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
 | Backrooms: The True Level | 407809 | [407809-backrooms-the-true-level.json](./407809-backrooms-the-true-level.json) |
@@ -3378,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
 | Baseballoons | 235280 | [235280-baseballoons.json](./235280-baseballoons.json) |
 | BaseballOut! | 246596 | [246596-baseballout.json](./246596-baseballout.json) |
+| Basecamp | 405188 | [405188-basecamp.json](./405188-basecamp.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Based Refueling | 279075 | [279075-based-refueling.json](./279075-based-refueling.json) |
 | Baseless | 236192 | [236192-baseless.json](./236192-baseless.json) |
