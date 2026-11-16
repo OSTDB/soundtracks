@@ -2930,6 +2930,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days - Character Set 01: Aichi Sendou | 226282 | [226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json](./226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 02: Toshiki Kai | 226283 | [226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json](./226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 03: Ren Suzugamori | 226284 | [226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json](./226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json) |
+| Cardfight!! Vanguard: Dear Days - Character Set 04: Urara Haneyama | 234366 | [234366-cardfight-vanguard-dear-days-character-set-04-urara-haneyama.json](./234366-cardfight-vanguard-dear-days-character-set-04-urara-haneyama.json) |
+| Cardfight!! Vanguard: Dear Days - Character Set 05: Raika Koshiba | 234365 | [234365-cardfight-vanguard-dear-days-character-set-05-raika-koshiba.json](./234365-cardfight-vanguard-dear-days-character-set-05-raika-koshiba.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 06: Taizo Kiyokura | 251101 | [251101-cardfight-vanguard-dear-days-character-set-06-taizo-kiyokura.json](./251101-cardfight-vanguard-dear-days-character-set-06-taizo-kiyokura.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 07 - Chrono Shindou | 254380 | [254380-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json](./254380-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 07: Chrono Shindou | 254676 | [254676-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json](./254676-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json) |
@@ -7964,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chester One | 35790 | [35790-chester-one.json](./35790-chester-one.json) |
 | Chester The Chest | 272212 | [272212-chester-the-chest.json](./272212-chester-the-chest.json) |
 | Chester: Into The Darkness | 260367 | [260367-chester-into-the-darkness.json](./260367-chester-into-the-darkness.json) |
+| Chester: Into the Light | 235896 | [235896-chester-into-the-light.json](./235896-chester-into-the-light.json) |
 | Chester's Revenge | 197858 | [197858-chesters-revenge.json](./197858-chesters-revenge.json) |
 | Chestnut Grove | 231368 | [231368-chestnut-grove.json](./231368-chestnut-grove.json) |
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
@@ -8083,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Flick | 239398 | [239398-chick-flick.json](./239398-chick-flick.json) |
 | Chick Game | 373681 | [373681-chick-game.json](./373681-chick-game.json) |
 | Chick Invasion | 150939 | [150939-chick-invasion.json](./150939-chick-invasion.json) |
+| Chick Rage | 236032 | [236032-chick-rage.json](./236032-chick-rage.json) |
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
 | Chick Room Escape | 314011 | [314011-chick-room-escape.json](./314011-chick-room-escape.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
@@ -21275,6 +21279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptorig | 203965 | [203965-cryptorig.json](./203965-cryptorig.json) |
 | Cryptosnake | 191448 | [191448-cryptosnake.json](./191448-cryptosnake.json) |
 | Cryptower | 260282 | [260282-cryptower.json](./260282-cryptower.json) |
+| CryptoZoo | 234364 | [234364-cryptozoo.json](./234364-cryptozoo.json) |
 | Cryptozootography | 178742 | [178742-cryptozootography.json](./178742-cryptozootography.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
 | Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
@@ -22974,6 +22979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Girl 2 | 173852 | [173852-cute-girl-2.json](./173852-cute-girl-2.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Girls | 243627 | [243627-cute-girls.json](./243627-cute-girls.json) |
+| Cute Girls: Find Secrets | 234972 | [234972-cute-girls-find-secrets.json](./234972-cute-girls-find-secrets.json) |
 | Cute Hedgehog | 84100 | [84100-cute-hedgehog.json](./84100-cute-hedgehog.json) |
 | Cute Hentai Waifu: Numbers | 255279 | [255279-cute-hentai-waifu-numbers.json](./255279-cute-hentai-waifu-numbers.json) |
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
