@@ -12306,6 +12306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ice Caves | 156822 | [156822-the-ice-caves.json](./156822-the-ice-caves.json) |
 | The Ice Cream Culprit | 309164 | [309164-the-ice-cream-culprit.json](./309164-the-ice-cream-culprit.json) |
 | The Ice Cream Shop | 374923 | [374923-the-ice-cream-shop.json](./374923-the-ice-cream-shop.json) |
+| The Ice Is Watching | 410503 | [410503-the-ice-is-watching.json](./410503-the-ice-is-watching.json) |
 | The Ice Temple | 14124 | [14124-the-ice-temple.json](./14124-the-ice-temple.json) |
 | The Ice-Bound Concordance | 15181 | [15181-the-ice-bound-concordance.json](./15181-the-ice-bound-concordance.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
@@ -16009,6 +16010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next World: Rocketship DLC | 163250 | [163250-the-next-world-rocketship-dlc.json](./163250-the-next-world-rocketship-dlc.json) |
 | The Nick | 309918 | [309918-the-nick.json](./309918-the-nick.json) |
 | The Niflhel Day | 168584 | [168584-the-niflhel-day.json](./168584-the-niflhel-day.json) |
+| The Night Archive: No Service | 410508 | [410508-the-night-archive-no-service.json](./410508-the-night-archive-no-service.json) |
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Cafe | 32491 | [32491-the-night-cafe.json](./32491-the-night-cafe.json) |
 | The Night Christmas Ended | 30414 | [30414-the-night-christmas-ended.json](./30414-the-night-christmas-ended.json) |
@@ -28134,6 +28136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Cat brow | 131054 | [131054-tomb-cat-brow.json](./131054-tomb-cat-brow.json) |
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
 | Tomb Defender | 207198 | [207198-tomb-defender.json](./207198-tomb-defender.json) |
+| Tomb Explorer | 408980 | [408980-tomb-explorer.json](./408980-tomb-explorer.json) |
 | Tomb Explorer VR | 204422 | [204422-tomb-explorer-vr.json](./204422-tomb-explorer-vr.json) |
 | Tomb Fetus | 379656 | [379656-tomb-fetus.json](./379656-tomb-fetus.json) |
 | Tomb Guard | 399901 | [399901-tomb-guard.json](./399901-tomb-guard.json) |
