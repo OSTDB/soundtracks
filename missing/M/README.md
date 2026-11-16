@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Tycoon 2 | 73420 | [73420-mall-tycoon-2.json](./73420-mall-tycoon-2.json) |
 | Mall Tycoon 3 | 69181 | [69181-mall-tycoon-3.json](./69181-mall-tycoon-3.json) |
 | Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
+| Mall: Tidy Up Together | 411864 | [411864-mall-tidy-up-together.json](./411864-mall-tidy-up-together.json) |
 | Mallard Hunt | 228276 | [228276-mallard-hunt.json](./228276-mallard-hunt.json) |
 | Malleable Girl Simulator | 383327 | [383327-malleable-girl-simulator.json](./383327-malleable-girl-simulator.json) |
 | Malleable Intent | 275190 | [275190-malleable-intent.json](./275190-malleable-intent.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask | 39126 | [39126-mask.json](./39126-mask.json) |
 | Mask Around | 292493 | [292493-mask-around.json](./292493-mask-around.json) |
 | Mask City: Chapter Zero | 373859 | [373859-mask-city-chapter-zero.json](./373859-mask-city-chapter-zero.json) |
+| Mask da Fart | 411871 | [411871-mask-da-fart.json](./411871-mask-da-fart.json) |
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask II | 39125 | [39125-mask-ii.json](./39125-mask-ii.json) |
 | Mask It | 414824 | [414824-mask-it.json](./414824-mask-it.json) |
@@ -10675,6 +10677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
 | Merlin's Walls | 68798 | [68798-merlins-walls.json](./68798-merlins-walls.json) |
 | Merlion Pinball | 307560 | [307560-merlion-pinball.json](./307560-merlion-pinball.json) |
+| Mermade | 411865 | [411865-mermade.json](./411865-mermade.json) |
 | Mermaid | 67459 | [67459-mermaid.json](./67459-mermaid.json) |
 | Mermaid Adventures: The Frozen Time | 86485 | [86485-mermaid-adventures-the-frozen-time.json](./86485-mermaid-adventures-the-frozen-time.json) |
 | Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
@@ -18317,6 +18320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Typer Backspace | 292192 | [292192-monster-typer-backspace.json](./292192-monster-typer-backspace.json) |
 | Monster United | 295587 | [295587-monster-united.json](./295587-monster-united.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
+| Monster Vampire | 411783 | [411783-monster-vampire.json](./411783-monster-vampire.json) |
 | Monster Viator | 128941 | [128941-monster-viator.json](./128941-monster-viator.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
 | Monster War | 287537 | [287537-monster-war.json](./287537-monster-war.json) |
