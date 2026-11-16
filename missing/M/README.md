@@ -3363,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mancala Kalah | 99912 | [99912-mancala-kalah.json](./99912-mancala-kalah.json) |
 | Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
+| Mancalero | 413333 | [413333-mancalero.json](./413333-mancalero.json) |
 | Mancers of Magic | 295765 | [295765-mancers-of-magic.json](./295765-mancers-of-magic.json) |
 | Manchester Beat | 245104 | [245104-manchester-beat.json](./245104-manchester-beat.json) |
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
@@ -4017,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mare Nostrum | 164412 | [164412-mare-nostrum.json](./164412-mare-nostrum.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
+| MareDare 2: The Daring Sequel | 413312 | [413312-maredare-2-the-daring-sequel.json](./413312-maredare-2-the-daring-sequel.json) |
 | Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
 | Mareld | 272748 | [272748-mareld.json](./272748-mareld.json) |
 | Marenian Tavern Story: Patty and the Hungry God | 111816 | [111816-marenian-tavern-story-patty-and-the-hungry-god.json](./111816-marenian-tavern-story-patty-and-the-hungry-god.json) |
@@ -8864,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Innocent Impulse | 247090 | [247090-mega-man-x-innocent-impulse.json](./247090-mega-man-x-innocent-impulse.json) |
 | Mega Man X Legacy Collection 2 | 96254 | [96254-mega-man-x-legacy-collection-2.json](./96254-mega-man-x-legacy-collection-2.json) |
 | Mega Man X Online: Deathmatch | 193389 | [193389-mega-man-x-online-deathmatch.json](./193389-mega-man-x-online-deathmatch.json) |
+| Mega Man X Recompiled | 413317 | [413317-mega-man-x-recompiled.json](./413317-mega-man-x-recompiled.json) |
 | Mega Man X Synthesis | 335396 | [335396-mega-man-x-synthesis.json](./335396-mega-man-x-synthesis.json) |
 | Mega Man X: 30th Anniversary Edition | 195937 | [195937-mega-man-x-30th-anniversary-edition.json](./195937-mega-man-x-30th-anniversary-edition.json) |
 | Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
@@ -8895,9 +8898,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X3: Zero Project | 76204 | [76204-mega-man-x3-zero-project.json](./76204-mega-man-x3-zero-project.json) |
 | Mega Man X4 | 1744 | [1744-mega-man-x4.json](./1744-mega-man-x4.json) |
 | Mega Man X4: Knot Beret | 307646 | [307646-mega-man-x4-knot-beret.json](./307646-mega-man-x4-knot-beret.json) |
+| Mega Man X4: Recompiled | 413318 | [413318-mega-man-x4-recompiled.json](./413318-mega-man-x4-recompiled.json) |
 | Mega Man X5 | 1745 | [1745-mega-man-x5.json](./1745-mega-man-x5.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
+| Mega Man X5: Recompiled | 413319 | [413319-mega-man-x5-recompiled.json](./413319-mega-man-x5-recompiled.json) |
 | Mega Man X6 | 1746 | [1746-mega-man-x6.json](./1746-mega-man-x6.json) |
 | Mega Man X6 Tweaks | 187363 | [187363-mega-man-x6-tweaks.json](./187363-mega-man-x6-tweaks.json) |
 | Mega Man X6: Recompiled | 409014 | [409014-mega-man-x6-recompiled.json](./409014-mega-man-x6-recompiled.json) |
