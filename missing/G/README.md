@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Revenge | 158889 | [158889-gachi-revenge.json](./158889-gachi-revenge.json) |
 | Gachi Run: Running of the Slaves | 159508 | [159508-gachi-run-running-of-the-slaves.json](./159508-gachi-run-running-of-the-slaves.json) |
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
+| Gachi: Christmas Party | 236038 | [236038-gachi-christmas-party.json](./236038-gachi-christmas-party.json) |
 | Gachi: Space Orgasm | 235786 | [235786-gachi-space-orgasm.json](./235786-gachi-space-orgasm.json) |
 | Gachiakuta: Breakout | 382361 | [382361-gachiakuta-breakout.json](./382361-gachiakuta-breakout.json) |
 | Gachimuchi | 75195 | [75195-gachimuchi.json](./75195-gachimuchi.json) |
@@ -3697,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Brothers: Advance Pack | 281925 | [281925-geometric-brothers-advance-pack.json](./281925-geometric-brothers-advance-pack.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
 | Geometric Force Field | 284614 | [284614-geometric-force-field.json](./284614-geometric-force-field.json) |
+| Geometric Hell | 236022 | [236022-geometric-hell.json](./236022-geometric-hell.json) |
 | Geometric Link | 269017 | [269017-geometric-link.json](./269017-geometric-link.json) |
 | Geometric Paradox TD | 263118 | [263118-geometric-paradox-td.json](./263118-geometric-paradox-td.json) |
 | Geometric Shapes 1: Circleboy | 322584 | [322584-geometric-shapes-1-circleboy.json](./322584-geometric-shapes-1-circleboy.json) |
@@ -3736,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
 | Geometry Madness | 334429 | [334429-geometry-madness.json](./334429-geometry-madness.json) |
+| Geometry May. I swear it's a nice free game | 235899 | [235899-geometry-may-i-swear-its-a-nice-free-game.json](./235899-geometry-may-i-swear-its-a-nice-free-game.json) |
 | Geometry Race | 252572 | [252572-geometry-race.json](./252572-geometry-race.json) |
 | Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
 | Geometry Runner Online | 88183 | [88183-geometry-runner-online.json](./88183-geometry-runner-online.json) |
@@ -6750,6 +6753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Killer Aria | 182473 | [182473-god-killer-aria.json](./182473-god-killer-aria.json) |
 | God Kings | 142246 | [142246-god-kings.json](./142246-god-kings.json) |
 | God Klaw | 368985 | [368985-god-klaw.json](./368985-god-klaw.json) |
+| God Machines | 236034 | [236034-god-machines.json](./236034-god-machines.json) |
 | God Marionette | 82868 | [82868-god-marionette.json](./82868-god-marionette.json) |
 | God Medicine: Fantasy Sekai no Tanjou | 60782 | [60782-god-medicine-fantasy-sekai-no-tanjou.json](./60782-god-medicine-fantasy-sekai-no-tanjou.json) |
 | God Medicine: Fukkoku-ban | 48985 | [48985-god-medicine-fukkoku-ban.json](./48985-god-medicine-fukkoku-ban.json) |
@@ -9790,6 +9794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Typist | 134791 | [134791-gravity-typist.json](./134791-gravity-typist.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
+| Gravity VR | 235897 | [235897-gravity-vr.json](./235897-gravity-vr.json) |
 | Gravity Wars | 64837 | [64837-gravity-wars.json](./64837-gravity-wars.json) |
 | Gravity Wars: Black Hole | 111407 | [111407-gravity-wars-black-hole.json](./111407-gravity-wars-black-hole.json) |
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
