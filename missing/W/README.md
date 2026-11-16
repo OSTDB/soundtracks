@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watashi no Kare ha Pilot 2012 | 64834 | [64834-watashi-no-kare-ha-pilot-2012.json](./64834-watashi-no-kare-ha-pilot-2012.json) |
 | Watashi no Kokoro ha Kirei desu ka: Am I Kind Hearted? | 207663 | [207663-watashi-no-kokoro-ha-kirei-desu-ka-am-i-kind-hearted.json](./207663-watashi-no-kokoro-ha-kirei-desu-ka-am-i-kind-hearted.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
+| Watashi no Licca-chan | 419838 | [419838-watashi-no-licca-chan.json](./419838-watashi-no-licca-chan.json) |
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
 | Watashi no Rilakkuma | 98176 | [98176-watashi-no-rilakkuma.json](./98176-watashi-no-rilakkuma.json) |
 | Watashi Suzume | 216841 | [216841-watashi-suzume.json](./216841-watashi-suzume.json) |
@@ -4015,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Sheriff | 367889 | [367889-western-sheriff.json](./367889-western-sheriff.json) |
 | Western Sigil | 132363 | [132363-western-sigil.json](./132363-western-sigil.json) |
 | Western Slot Machine | 279254 | [279254-western-slot-machine.json](./279254-western-slot-machine.json) |
+| Western Sniper: Wild West FPS | 419844 | [419844-western-sniper-wild-west-fps.json](./419844-western-sniper-wild-west-fps.json) |
 | Western U.S. Scenery Set | 131190 | [131190-western-u-s-scenery-set.json](./131190-western-u-s-scenery-set.json) |
 | Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
 | Western Wolf Hunter: The Dead Forest | 422697 | [422697-western-wolf-hunter-the-dead-forest.json](./422697-western-wolf-hunter-the-dead-forest.json) |
@@ -4422,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheeeee! | 357359 | [357359-wheeeee.json](./357359-wheeeee.json) |
 | Wheel Balance | 389185 | [389185-wheel-balance.json](./389185-wheel-balance.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
+| Wheel Estate | 419722 | [419722-wheel-estate.json](./419722-wheel-estate.json) |
 | Wheel Make It | 402549 | [402549-wheel-make-it.json](./402549-wheel-make-it.json) |
 | Wheel of Fate | 122104 | [122104-wheel-of-fate.json](./122104-wheel-of-fate.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
@@ -10220,6 +10223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrench to Restore Silence | 246702 | [246702-wrench-to-restore-silence.json](./246702-wrench-to-restore-silence.json) |
 | Wrench Towers | 361250 | [361250-wrench-towers.json](./361250-wrench-towers.json) |
 | WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
+| Wrenny Lee: Witch-for-Hire! | 419807 | [419807-wrenny-lee-witch-for-hire.json](./419807-wrenny-lee-witch-for-hire.json) |
 | Wrest | 127704 | [127704-wrest.json](./127704-wrest.json) |
 | Wrestle Angels | 228611 | [228611-wrestle-angels.json](./228611-wrestle-angels.json) |
 | Wrestle Angels 2: Top Eventer | 228615 | [228615-wrestle-angels-2-top-eventer.json](./228615-wrestle-angels-2-top-eventer.json) |
