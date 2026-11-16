@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
 | Unkindness | 148051 | [148051-unkindness.json](./148051-unkindness.json) |
 | Unknightly | 75520 | [75520-unknightly.json](./75520-unknightly.json) |
+| Unknot! | 334395 | [334395-unknot.json](./334395-unknot.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown 9: Awakening - Deluxe Edition | 331832 | [331832-unknown-9-awakening-deluxe-edition.json](./331832-unknown-9-awakening-deluxe-edition.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
 | Upgrade Complete 3mium | 101821 | [101821-upgrade-complete-3mium.json](./101821-upgrade-complete-3mium.json) |
 | Upgrade It | 396581 | [396581-upgrade-it.json](./396581-upgrade-it.json) |
+| Upgrade My Heart | 344614 | [344614-upgrade-my-heart.json](./344614-upgrade-my-heart.json) |
 | Upgrade the game | 118561 | [118561-upgrade-the-game.json](./118561-upgrade-the-game.json) |
 | Upgrade the game 2 | 118655 | [118655-upgrade-the-game-2.json](./118655-upgrade-the-game-2.json) |
 | Upgrade the game 3: Spaceship | 251078 | [251078-upgrade-the-game-3-spaceship.json](./251078-upgrade-the-game-3-spaceship.json) |
@@ -3678,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Assault | 50131 | [50131-urban-assault.json](./50131-urban-assault.json) |
 | Urban Assault: Metropolis Dawn | 237844 | [237844-urban-assault-metropolis-dawn.json](./237844-urban-assault-metropolis-dawn.json) |
 | Urban Basketball VR | 150466 | [150466-urban-basketball-vr.json](./150466-urban-basketball-vr.json) |
+| Urban Car Driver Simulator: City Explorer Challenge | 335557 | [335557-urban-car-driver-simulator-city-explorer-challenge.json](./335557-urban-car-driver-simulator-city-explorer-challenge.json) |
 | Urban Cards | 121582 | [121582-urban-cards.json](./121582-urban-cards.json) |
 | Urban Cards: Christmas Faction | 243486 | [243486-urban-cards-christmas-faction.json](./243486-urban-cards-christmas-faction.json) |
 | Urban Champion | 4624 | [4624-urban-champion.json](./4624-urban-champion.json) |
