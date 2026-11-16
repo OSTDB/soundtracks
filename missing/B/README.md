@@ -5574,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beandejo | 381529 | [381529-beandejo.json](./381529-beandejo.json) |
 | Beanieland | 413341 | [413341-beanieland.json](./413341-beanieland.json) |
 | BeanKind by Ketnipz | 249657 | [249657-beankind-by-ketnipz.json](./249657-beankind-by-ketnipz.json) |
+| Beanland | 384469 | [384469-beanland.json](./384469-beanland.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
@@ -9227,6 +9228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard ZombieBuster | 356247 | [356247-biohazard-zombiebuster.json](./356247-biohazard-zombiebuster.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
 | Biohazard: Escape Room | 258461 | [258461-biohazard-escape-room.json](./258461-biohazard-escape-room.json) |
+| Biohazard: Project Genesis | 384457 | [384457-biohazard-project-genesis.json](./384457-biohazard-project-genesis.json) |
 | Biohazard: Siberia | 324324 | [324324-biohazard-siberia.json](./324324-biohazard-siberia.json) |
 | Biohazard: The Mercenaries 3D & Revelations | 140931 | [140931-biohazard-the-mercenaries-3d-and-revelations.json](./140931-biohazard-the-mercenaries-3d-and-revelations.json) |
 | Biohazardous Love | 389771 | [389771-biohazardous-love.json](./389771-biohazardous-love.json) |
