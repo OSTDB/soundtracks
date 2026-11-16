@@ -4177,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Quest | 271937 | [271937-dead-mans-quest.json](./271937-dead-mans-quest.json) |
 | Dead Man's Rest | 150322 | [150322-dead-mans-rest.json](./150322-dead-mans-rest.json) |
 | Dead Man's Trail | 81669 | [81669-dead-mans-trail.json](./81669-dead-mans-trail.json) |
+| Dead Margin | 418489 | [418489-dead-margin.json](./418489-dead-margin.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
@@ -8909,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United: Deadly Debt - Collector's Edition | 193651 | [193651-detectives-united-deadly-debt-collectors-edition.json](./193651-detectives-united-deadly-debt-collectors-edition.json) |
 | Detectives United: Mission Possible - Collector's Edition | 338780 | [338780-detectives-united-mission-possible-collectors-edition.json](./338780-detectives-united-mission-possible-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
+| Detectives United: Phantoms of the Past | 418438 | [418438-detectives-united-phantoms-of-the-past.json](./418438-detectives-united-phantoms-of-the-past.json) |
 | Detectives United: Phantoms of the Past - Collector's Edition | 370561 | [370561-detectives-united-phantoms-of-the-past-collectors-edition.json](./370561-detectives-united-phantoms-of-the-past-collectors-edition.json) |
 | Detectives United: Vengeance from the Past | 416702 | [416702-detectives-united-vengeance-from-the-past.json](./416702-detectives-united-vengeance-from-the-past.json) |
 | Detectives United: Vengeance from the Past - Collector's Edition | 409718 | [409718-detectives-united-vengeance-from-the-past-collectors-edition.json](./409718-detectives-united-vengeance-from-the-past-collectors-edition.json) |
@@ -9810,6 +9812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Diceville | 360326 | [360326-diceville.json](./360326-diceville.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
+| Dicewayfarer | 418367 | [418367-dicewayfarer.json](./418367-dicewayfarer.json) |
 | Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
 | Dicey Birdball | 224332 | [224332-dicey-birdball.json](./224332-dicey-birdball.json) |
 | Dicey Bizniz | 373578 | [373578-dicey-bizniz.json](./373578-dicey-bizniz.json) |
@@ -15089,6 +15092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors of Insanity | 134782 | [134782-doors-of-insanity.json](./134782-doors-of-insanity.json) |
 | Doors of Insanity: ReOpened | 322699 | [322699-doors-of-insanity-reopened.json](./322699-doors-of-insanity-reopened.json) |
 | Doors of Silence: The Prologue | 123881 | [123881-doors-of-silence-the-prologue.json](./123881-doors-of-silence-the-prologue.json) |
+| Doors of the Mind: Inner Mysteries | 418439 | [418439-doors-of-the-mind-inner-mysteries.json](./418439-doors-of-the-mind-inner-mysteries.json) |
 | Doors Push or Pull | 101349 | [101349-doors-push-or-pull.json](./101349-doors-push-or-pull.json) |
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doors to the City | 103801 | [103801-doors-to-the-city.json](./103801-doors-to-the-city.json) |
@@ -15947,6 +15951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Ride | 308445 | [308445-downtown-ride.json](./308445-downtown-ride.json) |
 | Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
+| Downtown Secrets | 418440 | [418440-downtown-secrets.json](./418440-downtown-secrets.json) |
 | Downtown Shuffle | 345789 | [345789-downtown-shuffle.json](./345789-downtown-shuffle.json) |
 | Downtown Smash Dodgeball! | 61959 | [61959-downtown-smash-dodgeball.json](./61959-downtown-smash-dodgeball.json) |
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
