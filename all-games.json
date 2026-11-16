@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T00:55:58.066Z",
-  "total_soundtracks": 3409,
+  "generated_at": "2026-11-16T01:05:57.614Z",
+  "total_soundtracks": 3410,
   "games": [
     {
       "igdb_id": 292844,
@@ -499,6 +499,20 @@
         {
           "album_name": "Abducted (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2stqYSnNRhg2pdDtQejTiK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 86362,
+      "game_name": "Abo Khashem",
+      "game_url": "https://ostdb.net/games/abo-khashem",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273296686c4c624b7519df1716b",
+      "albums": [
+        {
+          "album_name": "Abo Khashem (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5JLiPdBRe1rQtF9IBTyEEB",
           "apple_music_url": "",
           "album_link_url": ""
         }
