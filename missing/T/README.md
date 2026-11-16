@@ -25916,6 +25916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Titans VR | 237103 | [237103-time-titans-vr.json](./237103-time-titans-vr.json) |
 | Time to be a Hero | 101813 | [101813-time-to-be-a-hero.json](./101813-time-to-be-a-hero.json) |
 | Time to Belong | 271854 | [271854-time-to-belong.json](./271854-time-to-belong.json) |
+| Time to Crate | 411883 | [411883-time-to-crate.json](./411883-time-to-crate.json) |
 | Time to Die | 379802 | [379802-time-to-die.json](./379802-time-to-die.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
 | Time to Dodge | 24068 | [24068-time-to-dodge.json](./24068-time-to-dodge.json) |
@@ -37424,6 +37425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Metal: Small Brawl | 5417 | [5417-twisted-metal-small-brawl.json](./5417-twisted-metal-small-brawl.json) |
 | Twisted Mettle | 246725 | [246725-twisted-mettle.json](./246725-twisted-mettle.json) |
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
+| Twisted Party | 411873 | [411873-twisted-party.json](./411873-twisted-party.json) |
 | Twisted Reality | 268894 | [268894-twisted-reality.json](./268894-twisted-reality.json) |
 | Twisted Sails | 93663 | [93663-twisted-sails.json](./93663-twisted-sails.json) |
 | Twisted Screens | 302427 | [302427-twisted-screens.json](./302427-twisted-screens.json) |
