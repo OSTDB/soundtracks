@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony | 371452 | [371452-harmony.json](./371452-harmony.json) |
 | Harmony 2 | 175050 | [175050-harmony-2.json](./175050-harmony-2.json) |
 | Harmony 3 | 89350 | [89350-harmony-3.json](./89350-harmony-3.json) |
+| Harmony Havoc | 381483 | [381483-harmony-havoc.json](./381483-harmony-havoc.json) |
 | Harmony in the Wild | 346717 | [346717-harmony-in-the-wild.json](./346717-harmony-in-the-wild.json) |
 | Harmony Islands | 237179 | [237179-harmony-islands.json](./237179-harmony-islands.json) |
 | Harmony of Fear | 337207 | [337207-harmony-of-fear.json](./337207-harmony-of-fear.json) |
