@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage | 278068 | [278068-rampage.json](./278068-rampage.json) |
 | Rampage | 278069 | [278069-rampage.json](./278069-rampage.json) |
 | Rampage | 278070 | [278070-rampage.json](./278070-rampage.json) |
+| Rampage | 282767 | [282767-rampage.json](./282767-rampage.json) |
 | Rampage | 3055 | [3055-rampage.json](./3055-rampage.json) |
 | Rampage | 374778 | [374778-rampage.json](./374778-rampage.json) |
 | Rampage 2: Universal Tour | 200417 | [200417-rampage-2-universal-tour.json](./200417-rampage-2-universal-tour.json) |
