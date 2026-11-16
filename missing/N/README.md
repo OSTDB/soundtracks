@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Wii 2: The Next Levels | 230246 | [230246-new-super-mario-bros-wii-2-the-next-levels.json](./230246-new-super-mario-bros-wii-2-the-next-levels.json) |
 | New Super Mario Bros. Wii Coin World | 132003 | [132003-new-super-mario-bros-wii-coin-world.json](./132003-new-super-mario-bros-wii-coin-world.json) |
 | New Super Mario Bros. Wii DS | 230759 | [230759-new-super-mario-bros-wii-ds.json](./230759-new-super-mario-bros-wii-ds.json) |
+| New Super Mario Bros. Wii: American Mario Revolution | 243442 | [243442-new-super-mario-bros-wii-american-mario-revolution.json](./243442-new-super-mario-bros-wii-american-mario-revolution.json) |
 | New Super Mario Bros. Wii: The Galaxy Expansion | 314096 | [314096-new-super-mario-bros-wii-the-galaxy-expansion.json](./314096-new-super-mario-bros-wii-the-galaxy-expansion.json) |
 | New Super Mario Bros. Wii: The Prankster Comets | 313432 | [313432-new-super-mario-bros-wii-the-prankster-comets.json](./313432-new-super-mario-bros-wii-the-prankster-comets.json) |
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
@@ -8586,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NumberMaze | 238348 | [238348-numbermaze.json](./238348-numbermaze.json) |
 | Numbers & Letters | 220612 | [220612-numbers-and-letters.json](./220612-numbers-and-letters.json) |
 | Numbers & Nodes | 329017 | [329017-numbers-and-nodes.json](./329017-numbers-and-nodes.json) |
+| Numbers and Squares | 243358 | [243358-numbers-and-squares.json](./243358-numbers-and-squares.json) |
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
 | Numbers Game 2: Number Match | 232299 | [232299-numbers-game-2-number-match.json](./232299-numbers-game-2-number-match.json) |
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
