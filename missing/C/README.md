@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
 | Call of the Wild: The Angler – Spain Reserve | 272651 | [272651-call-of-the-wild-the-angler-spain-reserve.json](./272651-call-of-the-wild-the-angler-spain-reserve.json) |
 | Call of the Winter Monarch | 183758 | [183758-call-of-the-winter-monarch.json](./183758-call-of-the-winter-monarch.json) |
+| Call of Thief | 363598 | [363598-call-of-thief.json](./363598-call-of-thief.json) |
 | Call of Thrones | 143186 | [143186-call-of-thrones.json](./143186-call-of-thrones.json) |
 | Call of Tomsk-7 | 34751 | [34751-call-of-tomsk-7.json](./34751-call-of-tomsk-7.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
@@ -2649,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cara's Dune Buggy Dash | 365021 | [365021-caras-dune-buggy-dash.json](./365021-caras-dune-buggy-dash.json) |
 | Cara's Magic Pocket | 365022 | [365022-caras-magic-pocket.json](./365022-caras-magic-pocket.json) |
 | Cara's Pocket Launcher | 365023 | [365023-caras-pocket-launcher.json](./365023-caras-pocket-launcher.json) |
+| Cara's Strength Test | 365017 | [365017-caras-strength-test.json](./365017-caras-strength-test.json) |
 | Carachnophobia | 267861 | [267861-carachnophobia.json](./267861-carachnophobia.json) |
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
 | Caracoles | 294342 | [294342-caracoles.json](./294342-caracoles.json) |
@@ -11369,6 +11371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claws & Feathers 2 | 30159 | [30159-claws-and-feathers-2.json](./30159-claws-and-feathers-2.json) |
 | Claws of Despair | 14005 | [14005-claws-of-despair.json](./14005-claws-of-despair.json) |
 | Claws of Furry | 76436 | [76436-claws-of-furry.json](./76436-claws-of-furry.json) |
+| Claws of the Forest | 363593 | [363593-claws-of-the-forest.json](./363593-claws-of-the-forest.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clawstar Wrestling | 227115 | [227115-clawstar-wrestling.json](./227115-clawstar-wrestling.json) |
 | Clawstral | 423946 | [423946-clawstral.json](./423946-clawstral.json) |
@@ -11429,6 +11432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean It All | 204615 | [204615-clean-it-all.json](./204615-clean-it-all.json) |
 | Clean It Dry It | 377023 | [377023-clean-it-dry-it.json](./377023-clean-it-dry-it.json) |
 | Clean it Up! | 335150 | [335150-clean-it-up.json](./335150-clean-it-up.json) |
+| Clean Minesweeper | 363597 | [363597-clean-minesweeper.json](./363597-clean-minesweeper.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
 | Clean Paper | 239598 | [239598-clean-paper.json](./239598-clean-paper.json) |
 | Clean Robo | 217617 | [217617-clean-robo.json](./217617-clean-robo.json) |
