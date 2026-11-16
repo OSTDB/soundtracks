@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hafermann | 177297 | [177297-hafermann.json](./177297-hafermann.json) |
 | Haffy DX | 336168 | [336168-haffy-dx.json](./336168-haffy-dx.json) |
 | HAFO: Horse Around, Find Out | 408330 | [408330-hafo-horse-around-find-out.json](./408330-hafo-horse-around-find-out.json) |
+| Hafoc Tor | 366158 | [366158-hafoc-tor.json](./366158-hafoc-tor.json) |
 | Haftsin Maker | 182092 | [182092-haftsin-maker.json](./182092-haftsin-maker.json) |
 | Hag | 245946 | [245946-hag.json](./245946-hag.json) |
 | Hag's Castle | 105115 | [105115-hags-castle.json](./105115-hags-castle.json) |
@@ -12122,6 +12123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
 | Hot Summer Sylvie | 422815 | [422815-hot-summer-sylvie.json](./422815-hot-summer-sylvie.json) |
 | Hot Swap | 148010 | [148010-hot-swap.json](./148010-hot-swap.json) |
+| Hot Swap Rave | 366147 | [366147-hot-swap-rave.json](./366147-hot-swap-rave.json) |
 | Hot Swap: Cyberlust | 169521 | [169521-hot-swap-cyberlust.json](./169521-hot-swap-cyberlust.json) |
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
