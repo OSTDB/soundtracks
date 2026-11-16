@@ -1758,6 +1758,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
 | Warhammer Age of Sigmar: Realm War | 109557 | [109557-warhammer-age-of-sigmar-realm-war.json](./109557-warhammer-age-of-sigmar-realm-war.json) |
+| Warhammer Age of Sigmar: Realms of Ruin - Gaunt Summoner | 295728 | [295728-warhammer-age-of-sigmar-realms-of-ruin-gaunt-summoner.json](./295728-warhammer-age-of-sigmar-realms-of-ruin-gaunt-summoner.json) |
+| Warhammer Age of Sigmar: Realms of Ruin - Kurdoss Valentian, The Craven King | 295729 | [295729-warhammer-age-of-sigmar-realms-of-ruin-kurdoss-valentian-the-craven-king.json](./295729-warhammer-age-of-sigmar-realms-of-ruin-kurdoss-valentian-the-craven-king.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Gobsprakk, The Mouth of Mork Pack | 279093 | [279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json](./279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Yndrasta, Celestial Spear Pack | 279094 | [279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json](./279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json) |
 | Warhammer Age of Sigmar: Soul Arena | 148984 | [148984-warhammer-age-of-sigmar-soul-arena.json](./148984-warhammer-age-of-sigmar-soul-arena.json) |
@@ -7129,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishing Well Simulator | 415812 | [415812-wishing-well-simulator.json](./415812-wishing-well-simulator.json) |
 | Wishknot | 423895 | [423895-wishknot.json](./423895-wishknot.json) |
 | Wishlair | 164076 | [164076-wishlair.json](./164076-wishlair.json) |
+| Wishlands Defence | 295723 | [295723-wishlands-defence.json](./295723-wishlands-defence.json) |
 | Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
 | Wishmaker | 305478 | [305478-wishmaker.json](./305478-wishmaker.json) |
 | Wishmaster | 33734 | [33734-wishmaster.json](./33734-wishmaster.json) |
@@ -7751,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards Rule | 422738 | [422738-wizards-rule.json](./422738-wizards-rule.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
+| Wizards vs. Soldiers And Robots | 295722 | [295722-wizards-vs-soldiers-and-robots.json](./295722-wizards-vs-soldiers-and-robots.json) |
 | Wizards, Knights & Archers | 220719 | [220719-wizards-knights-and-archers.json](./220719-wizards-knights-and-archers.json) |
 | Wizards: Wand of Epicosity | 136566 | [136566-wizards-wand-of-epicosity.json](./136566-wizards-wand-of-epicosity.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
@@ -7840,6 +7844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
 | Wobbledogs: Console Edition | 250554 | [250554-wobbledogs-console-edition.json](./250554-wobbledogs-console-edition.json) |
 | Wobbler | 383990 | [383990-wobbler.json](./383990-wobbler.json) |
+| Wobbles | 295724 | [295724-wobbles.json](./295724-wobbles.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
 | Wobbly Construction! | 327448 | [327448-wobbly-construction.json](./327448-wobbly-construction.json) |
 | Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
@@ -8653,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Sweep | 406970 | [406970-word-sweep.json](./406970-word-sweep.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
+| Word Sylla | 295721 | [295721-word-sylla.json](./295721-word-sylla.json) |
 | Word Symphony | 205882 | [205882-word-symphony.json](./205882-word-symphony.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
 | Word Tiles by CleverMedia | 106936 | [106936-word-tiles-by-clevermedia.json](./106936-word-tiles-by-clevermedia.json) |
@@ -9316,6 +9322,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
 | World of Shells | 329653 | [329653-world-of-shells.json](./329653-world-of-shells.json) |
 | World of Shooting | 288459 | [288459-world-of-shooting.json](./288459-world-of-shooting.json) |
+| World of Shooting: Killhouse 50m Hangar Arena | 295714 | [295714-world-of-shooting-killhouse-50m-hangar-arena.json](./295714-world-of-shooting-killhouse-50m-hangar-arena.json) |
+| World of Shooting: Lifetime Shooting Club Member | 295717 | [295717-world-of-shooting-lifetime-shooting-club-member.json](./295717-world-of-shooting-lifetime-shooting-club-member.json) |
+| World of Shooting: Practical Shooting Arenas | 295715 | [295715-world-of-shooting-practical-shooting-arenas.json](./295715-world-of-shooting-practical-shooting-arenas.json) |
+| World of Shooting: Practical Shooting Campaign | 295716 | [295716-world-of-shooting-practical-shooting-campaign.json](./295716-world-of-shooting-practical-shooting-campaign.json) |
 | World of Simulators Bundle | 193762 | [193762-world-of-simulators-bundle.json](./193762-world-of-simulators-bundle.json) |
 | World of Simulators: Airport Firefighters, Pro Farmer, Firefighters, Pro Construction | 148245 | [148245-world-of-simulators-airport-firefighters-pro-farmer-firefighters-pro-construction.json](./148245-world-of-simulators-airport-firefighters-pro-farmer-firefighters-pro-construction.json) |
 | World of Simulators: Ultimate Edition | 136355 | [136355-world-of-simulators-ultimate-edition.json](./136355-world-of-simulators-ultimate-edition.json) |
@@ -9787,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's End Garden | 98043 | [98043-worlds-end-garden.json](./98043-worlds-end-garden.json) |
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
 | World's Fastest Pizza | 34599 | [34599-worlds-fastest-pizza.json](./34599-worlds-fastest-pizza.json) |
+| World's Goodest Pup | 295718 | [295718-worlds-goodest-pup.json](./295718-worlds-goodest-pup.json) |
 | World's Greatest Cities Mahjong | 356376 | [356376-worlds-greatest-cities-mahjong.json](./356376-worlds-greatest-cities-mahjong.json) |
 | World's Greatest Cities Mosaics | 107434 | [107434-worlds-greatest-cities-mosaics.json](./107434-worlds-greatest-cities-mosaics.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
