@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gravity Golf | 387921 | [387921-galactic-gravity-golf.json](./387921-galactic-gravity-golf.json) |
 | Galactic Grinder | 253526 | [253526-galactic-grinder.json](./253526-galactic-grinder.json) |
 | Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
+| Galactic Guardian 1988 | 367861 | [367861-galactic-guardian-1988.json](./367861-galactic-guardian-1988.json) |
 | Galactic Gunner | 90299 | [90299-galactic-gunner.json](./90299-galactic-gunner.json) |
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
@@ -7324,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Hornet | 83348 | [83348-golden-hornet.json](./83348-golden-hornet.json) |
 | Golden Hour | 401159 | [401159-golden-hour.json](./401159-golden-hour.json) |
 | Golden Idol Investigations: Detective Pass | 355044 | [355044-golden-idol-investigations-detective-pass.json](./355044-golden-idol-investigations-detective-pass.json) |
+| Golden Idol Investigations: The Curse of the Last Reaper | 369787 | [369787-golden-idol-investigations-the-curse-of-the-last-reaper.json](./369787-golden-idol-investigations-the-curse-of-the-last-reaper.json) |
 | Golden Idol Investigations: The Lemurian Phoenix | 342844 | [342844-golden-idol-investigations-the-lemurian-phoenix.json](./342844-golden-idol-investigations-the-lemurian-phoenix.json) |
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
 | Golden Idol Mysteries: DLC Bundle | 268569 | [268569-golden-idol-mysteries-dlc-bundle.json](./268569-golden-idol-mysteries-dlc-bundle.json) |
