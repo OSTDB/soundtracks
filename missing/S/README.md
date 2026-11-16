@@ -5995,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-Portrait | 260346 | [260346-self-portrait.json](./260346-self-portrait.json) |
 | Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
 | Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
+| Self-Replication: Destruction | 399224 | [399224-self-replication-destruction.json](./399224-self-replication-destruction.json) |
 | Self: Where's My Father | 164740 | [164740-self-wheres-my-father.json](./164740-self-wheres-my-father.json) |
 | Self.destroy() | 134736 | [134736-self-destroy.json](./134736-self-destroy.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
@@ -25821,6 +25822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring a Line | 359401 | [359401-spring-a-line.json](./359401-spring-a-line.json) |
 | Spring Adventure | 340177 | [340177-spring-adventure.json](./340177-spring-adventure.json) |
 | Spring and Girls | 160080 | [160080-spring-and-girls.json](./160080-spring-and-girls.json) |
+| Spring at Dawn, I Am a Monster. | 399302 | [399302-spring-at-dawn-i-am-a-monster.json](./399302-spring-at-dawn-i-am-a-monster.json) |
 | Spring Babies | 82165 | [82165-spring-babies.json](./82165-spring-babies.json) |
 | Spring Bonus | 28797 | [28797-spring-bonus.json](./28797-spring-bonus.json) |
 | Spring Breeze | 271258 | [271258-spring-breeze.json](./271258-spring-breeze.json) |
