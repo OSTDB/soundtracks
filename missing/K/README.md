@@ -5968,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong | 62338 | [62338-kong.json](./62338-kong.json) |
 | Kong Adventure | 108228 | [108228-kong-adventure.json](./108228-kong-adventure.json) |
 | Kong Attacks | 209822 | [209822-kong-attacks.json](./209822-kong-attacks.json) |
+| Kong Fu Legend: God of War | 282175 | [282175-kong-fu-legend-god-of-war.json](./282175-kong-fu-legend-god-of-war.json) |
 | Kong Hero | 231826 | [231826-kong-hero.json](./231826-kong-hero.json) |
 | Kong Horror | 395848 | [395848-kong-horror.json](./395848-kong-horror.json) |
 | Kong II | 228273 | [228273-kong-ii.json](./228273-kong-ii.json) |
