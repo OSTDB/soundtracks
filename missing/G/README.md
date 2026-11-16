@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giggleport: A Brainrot-Style Read-Along Adventure | 412578 | [412578-giggleport-a-brainrot-style-read-along-adventure.json](./412578-giggleport-a-brainrot-style-read-along-adventure.json) |
 | Gigils | 391762 | [391762-gigils.json](./391762-gigils.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
+| Gigolo Assassin | 397359 | [397359-gigolo-assassin.json](./397359-gigolo-assassin.json) |
 | Gigycube | 165203 | [165203-gigycube.json](./165203-gigycube.json) |
 | Gil's Lucid Dreams | 56688 | [56688-gils-lucid-dreams.json](./56688-gils-lucid-dreams.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
@@ -7005,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla and the Martians | 135573 | [135573-godzilla-and-the-martians.json](./135573-godzilla-and-the-martians.json) |
 | Godzilla Balls | 360118 | [360118-godzilla-balls.json](./360118-godzilla-balls.json) |
 | Godzilla Creepypasta | 143491 | [143491-godzilla-creepypasta.json](./143491-godzilla-creepypasta.json) |
+| Godzilla Daikaiju Battle Royale | 397957 | [397957-godzilla-daikaiju-battle-royale.json](./397957-godzilla-daikaiju-battle-royale.json) |
 | Godzilla Defense Force | 119058 | [119058-godzilla-defense-force.json](./119058-godzilla-defense-force.json) |
 | Godzilla Destruction | 145864 | [145864-godzilla-destruction.json](./145864-godzilla-destruction.json) |
 | Godzilla Generations | 45824 | [45824-godzilla-generations.json](./45824-godzilla-generations.json) |
