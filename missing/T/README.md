@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Zestiria | 6452 | [6452-tales-of-zestiria.json](./6452-tales-of-zestiria.json) |
 | Tales of Zestiria: Additional Chapter - Alisha's Story | 167990 | [167990-tales-of-zestiria-additional-chapter-alishas-story.json](./167990-tales-of-zestiria-additional-chapter-alishas-story.json) |
 | Tales of Zestiria: Collector's Edition | 42944 | [42944-tales-of-zestiria-collectors-edition.json](./42944-tales-of-zestiria-collectors-edition.json) |
+| Tales of Zestiria: God Eater Free Offer | 403851 | [403851-tales-of-zestiria-god-eater-free-offer.json](./403851-tales-of-zestiria-god-eater-free-offer.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
 | Tales of: Sena | 238649 | [238649-tales-of-sena.json](./238649-tales-of-sena.json) |
 | Tales of: Vesperia + Berseria + Zestiria Bundle | 136127 | [136127-tales-of-vesperia-berseria-zestiria-bundle.json](./136127-tales-of-vesperia-berseria-zestiria-bundle.json) |
@@ -12940,6 +12941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
 | The Justitia Files | 232955 | [232955-the-justitia-files.json](./232955-the-justitia-files.json) |
 | The Kabuki Phantom | 298973 | [298973-the-kabuki-phantom.json](./298973-the-kabuki-phantom.json) |
+| The Kaiju is My Childhood Friend | 402587 | [402587-the-kaiju-is-my-childhood-friend.json](./402587-the-kaiju-is-my-childhood-friend.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kaiyo Mission | 238567 | [238567-the-kaiyo-mission.json](./238567-the-kaiyo-mission.json) |
 | The Kalalau Trail | 169643 | [169643-the-kalalau-trail.json](./169643-the-kalalau-trail.json) |
@@ -26640,6 +26642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toyfare | 55513 | [55513-tiny-toyfare.json](./55513-tiny-toyfare.json) |
 | Tiny TrackZ | 175208 | [175208-tiny-trackz.json](./175208-tiny-trackz.json) |
 | Tiny Traffic | 145322 | [145322-tiny-traffic.json](./145322-tiny-traffic.json) |
+| Tiny Train Adventures | 405190 | [405190-tiny-train-adventures.json](./405190-tiny-train-adventures.json) |
 | Tiny Train Tycoon | 381355 | [381355-tiny-train-tycoon.json](./381355-tiny-train-tycoon.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Traps | 109994 | [109994-tiny-traps.json](./109994-tiny-traps.json) |
