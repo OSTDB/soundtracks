@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear: The Final Masterpiece Edition | 385133 | [385133-layers-of-fear-the-final-masterpiece-edition.json](./385133-layers-of-fear-the-final-masterpiece-edition.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
+| Layesta | 214076 | [214076-layesta.json](./214076-layesta.json) |
 | Layla | 19112 | [19112-layla.json](./19112-layla.json) |
 | Layla: The Iris Missions | 239599 | [239599-layla-the-iris-missions.json](./239599-layla-the-iris-missions.json) |
 | Laylines | 422778 | [422778-laylines.json](./422778-laylines.json) |
@@ -5531,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse | 412772 | [412772-lighthouse.json](./412772-lighthouse.json) |
 | Lighthouse Island | 270364 | [270364-lighthouse-island.json](./270364-lighthouse-island.json) |
 | Lighthouse Keeper | 143472 | [143472-lighthouse-keeper.json](./143472-lighthouse-keeper.json) |
+| Lighthouse Keeper | 213649 | [213649-lighthouse-keeper.json](./213649-lighthouse-keeper.json) |
 | Lighthouse of Better Days | 185386 | [185386-lighthouse-of-better-days.json](./185386-lighthouse-of-better-days.json) |
 | Lighthouse of Guiding Flames | 120933 | [120933-lighthouse-of-guiding-flames.json](./120933-lighthouse-of-guiding-flames.json) |
 | Lighthouse of Madness | 158068 | [158068-lighthouse-of-madness.json](./158068-lighthouse-of-madness.json) |
