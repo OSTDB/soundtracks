@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
 | quilt | 366801 | [366801-quilt.json](./366801-quilt.json) |
 | Quilt | 425845 | [425845-quilt.json](./425845-quilt.json) |
+| Quilts and Cats of Calico | 228793 | [228793-quilts-and-cats-of-calico.json](./228793-quilts-and-cats-of-calico.json) |
 | Quin | 152813 | [152813-quin.json](./152813-quin.json) |
 | Quinb: 4 Players Reaction Game | 369891 | [369891-quinb-4-players-reaction-game.json](./369891-quinb-4-players-reaction-game.json) |
 | Quing's Quest VII: The Death of Videogames | 128593 | [128593-quings-quest-vii-the-death-of-videogames.json](./128593-quings-quest-vii-the-death-of-videogames.json) |
