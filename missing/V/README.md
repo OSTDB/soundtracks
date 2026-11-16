@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Veg Out Crew | 158357 | [158357-veg-out-crew.json](./158357-veg-out-crew.json) |
 | Veg out Crew FPS | 211890 | [211890-veg-out-crew-fps.json](./211890-veg-out-crew-fps.json) |
+| Veg Slop | 401955 | [401955-veg-slop.json](./401955-veg-slop.json) |
 | Vega | 231107 | [231107-vega.json](./231107-vega.json) |
 | Vega | 235272 | [235272-vega.json](./235272-vega.json) |
 | Vega Conflict | 23627 | [23627-vega-conflict.json](./23627-vega-conflict.json) |
