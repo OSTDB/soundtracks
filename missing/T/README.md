@@ -11769,6 +11769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Happies: Doomsday Stories | 247879 | [247879-the-happies-doomsday-stories.json](./247879-the-happies-doomsday-stories.json) |
 | The Happiest Days of Your Life | 13870 | [13870-the-happiest-days-of-your-life.json](./13870-the-happiest-days-of-your-life.json) |
 | The Happy Dismal Town | 192718 | [192718-the-happy-dismal-town.json](./192718-the-happy-dismal-town.json) |
+| The Happy Fun Game | 413350 | [413350-the-happy-fun-game.json](./413350-the-happy-fun-game.json) |
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
 | The Happy Little Virus | 158903 | [158903-the-happy-little-virus.json](./158903-the-happy-little-virus.json) |
 | The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
@@ -30061,6 +30062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Suijin Kairou: Faith in the Goddess of Suwa. | 114095 | [114095-touhou-suijin-kairou-faith-in-the-goddess-of-suwa.json](./114095-touhou-suijin-kairou-faith-in-the-goddess-of-suwa.json) |
 | Touhou Tenkarou: Frantically Forbidden Fruit | 285176 | [285176-touhou-tenkarou-frantically-forbidden-fruit.json](./285176-touhou-tenkarou-frantically-forbidden-fruit.json) |
 | Touhou Tenkuushou: Hidden Star in Four Seasons | 75385 | [75385-touhou-tenkuushou-hidden-star-in-four-seasons.json](./75385-touhou-tenkuushou-hidden-star-in-four-seasons.json) |
+| Touhou Tenryuuguu: Heavenly Gathering of Clouds | 413607 | [413607-touhou-tenryuuguu-heavenly-gathering-of-clouds.json](./413607-touhou-tenryuuguu-heavenly-gathering-of-clouds.json) |
 | Touhou Tenshiin: Celestial Examination Hall | 335571 | [335571-touhou-tenshiin-celestial-examination-hall.json](./335571-touhou-tenshiin-celestial-examination-hall.json) |
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
 | Touhou Thousand Night Anamnesis | 197337 | [197337-touhou-thousand-night-anamnesis.json](./197337-touhou-thousand-night-anamnesis.json) |
