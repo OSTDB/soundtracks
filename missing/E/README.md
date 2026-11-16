@@ -4466,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EndlessCar | 280157 | [280157-endlesscar.json](./280157-endlesscar.json) |
 | EndlessChoice | 289236 | [289236-endlesschoice.json](./289236-endlesschoice.json) |
 | endlessCorona | 160241 | [160241-endlesscorona.json](./160241-endlesscorona.json) |
+| EndlessEx | 279919 | [279919-endlessex.json](./279919-endlessex.json) |
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
 | Endlessly | 245312 | [245312-endlessly.json](./245312-endlessly.json) |
 | EndlessMobstar | 59544 | [59544-endlessmobstar.json](./59544-endlessmobstar.json) |
@@ -6992,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Return: Character Bundle 1 | 225947 | [225947-eternal-return-character-bundle-1.json](./225947-eternal-return-character-bundle-1.json) |
 | Eternal Return: Character Bundle 2 | 225948 | [225948-eternal-return-character-bundle-2.json](./225948-eternal-return-character-bundle-2.json) |
 | Eternal Return: Character Pack | 197473 | [197473-eternal-return-character-pack.json](./197473-eternal-return-character-pack.json) |
+| Eternal Reverie | 279842 | [279842-eternal-reverie.json](./279842-eternal-reverie.json) |
 | Eternal Rhapsody | 117196 | [117196-eternal-rhapsody.json](./117196-eternal-rhapsody.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
 | Eternal Rising | 244175 | [244175-eternal-rising.json](./244175-eternal-rising.json) |
