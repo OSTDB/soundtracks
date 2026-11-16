@@ -2871,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parlour Games | 46135 | [46135-parlour-games.json](./46135-parlour-games.json) |
 | Parman: Haunted School Guard | 381537 | [381537-parman-haunted-school-guard.json](./381537-parman-haunted-school-guard.json) |
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
+| Parnitha: Patient 66 | 372912 | [372912-parnitha-patient-66.json](./372912-parnitha-patient-66.json) |
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
 | Paro Wars | 37305 | [37305-paro-wars.json](./37305-paro-wars.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
@@ -17066,6 +17067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Soccer Cup 2002 | 251053 | [251053-pro-soccer-cup-2002.json](./251053-pro-soccer-cup-2002.json) |
 | Pro Soccer Manager 27 | 406353 | [406353-pro-soccer-manager-27.json](./406353-pro-soccer-manager-27.json) |
 | Pro Soccer Online | 182202 | [182202-pro-soccer-online.json](./182202-pro-soccer-online.json) |
+| Pro Soccer Online 2 | 371791 | [371791-pro-soccer-online-2.json](./371791-pro-soccer-online-2.json) |
 | Pro Sport Hockey | 48220 | [48220-pro-sport-hockey.json](./48220-pro-sport-hockey.json) |
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
 | Pro Strategy Football 2016 | 32382 | [32382-pro-strategy-football-2016.json](./32382-pro-strategy-football-2016.json) |
@@ -19913,6 +19915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure x Connect | 60203 | [60203-pure-x-connect.json](./60203-pure-x-connect.json) |
 | Pure Yome | 415141 | [415141-pure-yome.json](./415141-pure-yome.json) |
 | Pure-hearted Gyaru and the Shape of Happiness | 221700 | [221700-pure-hearted-gyaru-and-the-shape-of-happiness.json](./221700-pure-hearted-gyaru-and-the-shape-of-happiness.json) |
+| Purelove Monologue: Xiaoxiao | 371763 | [371763-purelove-monologue-xiaoxiao.json](./371763-purelove-monologue-xiaoxiao.json) |
 | Purely x Cation | 396498 | [396498-purely-x-cation.json](./396498-purely-x-cation.json) |
 | Purenista | 309597 | [309597-purenista.json](./309597-purenista.json) |
 | Purepuri Niizuma wa Boku no Tannin | 97543 | [97543-purepuri-niizuma-wa-boku-no-tannin.json](./97543-purepuri-niizuma-wa-boku-no-tannin.json) |
