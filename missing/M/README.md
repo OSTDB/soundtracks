@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Wars Shakedown | 65555 | [65555-mafia-wars-shakedown.json](./65555-mafia-wars-shakedown.json) |
 | Mafia Wars: Yakuza | 319171 | [319171-mafia-wars-yakuza.json](./319171-mafia-wars-yakuza.json) |
 | Mafia World: Bloody War | 214057 | [214057-mafia-world-bloody-war.json](./214057-mafia-world-bloody-war.json) |
+| Mafia: Definitive Edition - Chicago Outfit Pack | 392531 | [392531-mafia-definitive-edition-chicago-outfit-pack.json](./392531-mafia-definitive-edition-chicago-outfit-pack.json) |
 | Mafia: Family's Secret | 186693 | [186693-mafia-familys-secret.json](./186693-mafia-familys-secret.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Mafia: The Old Country - Gatto Nero Pack | 360468 | [360468-mafia-the-old-country-gatto-nero-pack.json](./360468-mafia-the-old-country-gatto-nero-pack.json) |
@@ -9108,6 +9109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megacraft Hentai Battlegrounds | 147543 | [147543-megacraft-hentai-battlegrounds.json](./147543-megacraft-hentai-battlegrounds.json) |
 | Megacraft Hentai Edition | 144886 | [144886-megacraft-hentai-edition.json](./144886-megacraft-hentai-edition.json) |
 | Megacraft Hentai Survival | 149428 | [149428-megacraft-hentai-survival.json](./149428-megacraft-hentai-survival.json) |
+| Megacraft Hotspot Royale | 392523 | [392523-megacraft-hotspot-royale.json](./392523-megacraft-hotspot-royale.json) |
 | MegaCryptoPolis | 182339 | [182339-megacryptopolis.json](./182339-megacryptopolis.json) |
 | Megadeka | 344474 | [344474-megadeka.json](./344474-megadeka.json) |
 | MegaDestroyer Frantis | 317472 | [317472-megadestroyer-frantis.json](./317472-megadestroyer-frantis.json) |
@@ -18106,6 +18108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 13 | 400692 | [400692-monster-ops-13.json](./400692-monster-ops-13.json) |
 | Monster Ops 14 | 384811 | [384811-monster-ops-14.json](./384811-monster-ops-14.json) |
 | Monster Ops 15 | 384812 | [384812-monster-ops-15.json](./384812-monster-ops-15.json) |
+| Monster Ops 16 | 393678 | [393678-monster-ops-16.json](./393678-monster-ops-16.json) |
 | Monster Ops 17 | 400694 | [400694-monster-ops-17.json](./400694-monster-ops-17.json) |
 | Monster Ops 18 | 400747 | [400747-monster-ops-18.json](./400747-monster-ops-18.json) |
 | Monster Ops 19 | 400748 | [400748-monster-ops-19.json](./400748-monster-ops-19.json) |
@@ -21446,6 +21449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffles' Life Sentence | 329213 | [329213-muffles-life-sentence.json](./329213-muffles-life-sentence.json) |
 | Muffles' Life Sentence: Episode 2 | 339955 | [339955-muffles-life-sentence-episode-2.json](./339955-muffles-life-sentence-episode-2.json) |
 | Muffles' Life Sentence: Episode 3 | 344658 | [344658-muffles-life-sentence-episode-3.json](./344658-muffles-life-sentence-episode-3.json) |
+| Muffles' Life Sentence: Episode 4 | 393667 | [393667-muffles-life-sentence-episode-4.json](./393667-muffles-life-sentence-episode-4.json) |
 | Muffy Boy | 61271 | [61271-muffy-boy.json](./61271-muffy-boy.json) |
 | Muffy's Wardrobe | 300604 | [300604-muffys-wardrobe.json](./300604-muffys-wardrobe.json) |
 | Mug | 322830 | [322830-mug.json](./322830-mug.json) |
