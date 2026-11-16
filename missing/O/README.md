@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Leaves | 123264 | [123264-one-leaves.json](./123264-one-leaves.json) |
 | One Left | 184458 | [184458-one-left.json](./184458-one-left.json) |
 | One Legacy | 116513 | [116513-one-legacy.json](./116513-one-legacy.json) |
+| One Less Choice | 393679 | [393679-one-less-choice.json](./393679-one-less-choice.json) |
 | One Lie | 297972 | [297972-one-lie.json](./297972-one-lie.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
 | One Life | 426413 | [426413-one-life.json](./426413-one-life.json) |
