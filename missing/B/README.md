@@ -6459,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
 | Beauty Riddle | 309694 | [309694-beauty-riddle.json](./309694-beauty-riddle.json) |
 | Beauty Salon | 367878 | [367878-beauty-salon.json](./367878-beauty-salon.json) |
+| Beauty Shooter | 367340 | [367340-beauty-shooter.json](./367340-beauty-shooter.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty Solitaire | 305640 | [305640-beauty-solitaire.json](./305640-beauty-solitaire.json) |
 | Beauty vs. Robot | 170279 | [170279-beauty-vs-robot.json](./170279-beauty-vs-robot.json) |
@@ -12683,6 +12684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodPit: Skelton II | 208489 | [208489-bloodpit-skelton-ii.json](./208489-bloodpit-skelton-ii.json) |
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
 | Bloodpunished: No Time Por Patience | 351373 | [351373-bloodpunished-no-time-por-patience.json](./351373-bloodpunished-no-time-por-patience.json) |
+| Bloodquest From Hell | 366752 | [366752-bloodquest-from-hell.json](./366752-bloodquest-from-hell.json) |
 | Bloodrails | 300599 | [300599-bloodrails.json](./300599-bloodrails.json) |
 | BloodRayne | 1015 | [1015-bloodrayne.json](./1015-bloodrayne.json) |
 | Bloodrayne 1 & 2: Revamped Dual Pack | 178178 | [178178-bloodrayne-1-and-2-revamped-dual-pack.json](./178178-bloodrayne-1-and-2-revamped-dual-pack.json) |
