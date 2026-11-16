@@ -670,7 +670,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 25 Mobile Football | 320596 | [320596-madden-nfl-25-mobile-football.json](./320596-madden-nfl-25-mobile-football.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 26: Deluxe Edition | 342383 | [342383-madden-nfl-26-deluxe-edition.json](./342383-madden-nfl-26-deluxe-edition.json) |
-| Madden NFL 27 | 400379 | [400379-madden-nfl-27.json](./400379-madden-nfl-27.json) |
 | Madden NFL 27 Arcade Edition | 413966 | [413966-madden-nfl-27-arcade-edition.json](./413966-madden-nfl-27-arcade-edition.json) |
 | Madden NFL 27: Deluxe Edition | 411832 | [411832-madden-nfl-27-deluxe-edition.json](./411832-madden-nfl-27-deluxe-edition.json) |
 | Madden NFL 95 | 4506 | [4506-madden-nfl-95.json](./4506-madden-nfl-95.json) |
@@ -5095,7 +5094,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsmare: Alienation | 199341 | [199341-marsmare-alienation.json](./199341-marsmare-alienation.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami | 18142 | [18142-marsupilami.json](./18142-marsupilami.json) |
-| Marsupilami 2: Salsa Palombia | 403744 | [403744-marsupilami-2-salsa-palombia.json](./403744-marsupilami-2-salsa-palombia.json) |
 | Marsupilami: Hoobadventure | 150008 | [150008-marsupilami-hoobadventure.json](./150008-marsupilami-hoobadventure.json) |
 | Marsupilami: Hoobadventure - Collector's Edition | 151923 | [151923-marsupilami-hoobadventure-collectors-edition.json](./151923-marsupilami-hoobadventure-collectors-edition.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
@@ -5288,7 +5286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Infinity War | 296137 | [296137-marvel-infinity-war.json](./296137-marvel-infinity-war.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
 | Marvel Land | 41087 | [41087-marvel-land.json](./41087-marvel-land.json) |
-| Marvel MaXimum Collection | 392813 | [392813-marvel-maximum-collection.json](./392813-marvel-maximum-collection.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel Nemesis: Rise of the Imperfects | 194232 | [194232-marvel-nemesis-rise-of-the-imperfects.json](./194232-marvel-nemesis-rise-of-the-imperfects.json) |
 | Marvel Nemesis: Rise of the Imperfects | 3992 | [3992-marvel-nemesis-rise-of-the-imperfects.json](./3992-marvel-nemesis-rise-of-the-imperfects.json) |
@@ -18761,7 +18758,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moolii's Dreamland | 142664 | [142664-mooliis-dreamland.json](./142664-mooliis-dreamland.json) |
 | Moomi & Spike | 316359 | [316359-moomi-and-spike.json](./316359-moomi-and-spike.json) |
 | Moomin Adventures: Jam Run | 114708 | [114708-moomin-adventures-jam-run.json](./114708-moomin-adventures-jam-run.json) |
-| Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
 | Moomin Under Sail | 114729 | [114729-moomin-under-sail.json](./114729-moomin-under-sail.json) |
 | Moomin-dani no Okurimono | 97404 | [97404-moomin-dani-no-okurimono.json](./97404-moomin-dani-no-okurimono.json) |
@@ -21503,7 +21499,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Muchi Muchi Pork! | 39698 | [39698-muchi-muchi-pork.json](./39698-muchi-muchi-pork.json) |
-| Muchi Muchi Pork! & PinkSweets Boosted | 403533 | [403533-muchi-muchi-pork-and-pinksweets-boosted.json](./403533-muchi-muchi-pork-and-pinksweets-boosted.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
 | Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
