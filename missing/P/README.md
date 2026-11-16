@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.P. Hammer and His Pneumatic Weapon | 12712 | [12712-p-p-hammer-and-his-pneumatic-weapon.json](./12712-p-p-hammer-and-his-pneumatic-weapon.json) |
 | P.P.SH | 294071 | [294071-p-p-sh.json](./294071-p-p-sh.json) |
 | P.R.D.A. | 323144 | [323144-p-r-d-a.json](./323144-p-r-d-a.json) |
+| P.R.O.T.O.C.O.O.L. | 267046 | [267046-p-r-o-t-o-c-o-o-l.json](./267046-p-r-o-t-o-c-o-o-l.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.S.Rose | 202318 | [202318-p-s-rose.json](./202318-p-s-rose.json) |
 | P.T. | 11654 | [11654-p-t.json](./11654-p-t.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking light | 167996 | [167996-parking-light.json](./167996-parking-light.json) |
 | Parking Lot Maze | 146815 | [146815-parking-lot-maze.json](./146815-parking-lot-maze.json) |
 | Parking Lot Royale | 116717 | [116717-parking-lot-royale.json](./116717-parking-lot-royale.json) |
+| Parking Lot Simulator | 267056 | [267056-parking-lot-simulator.json](./267056-parking-lot-simulator.json) |
 | Parking Lot Simulator | 383746 | [383746-parking-lot-simulator.json](./383746-parking-lot-simulator.json) |
 | Parking Madness | 147736 | [147736-parking-madness.json](./147736-parking-madness.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
