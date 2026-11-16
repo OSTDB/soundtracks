@@ -7833,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cannon Fighters | 253597 | [253597-the-cannon-fighters.json](./253597-the-cannon-fighters.json) |
 | The Cannonball Run 2 | 98252 | [98252-the-cannonball-run-2.json](./98252-the-cannonball-run-2.json) |
 | The Canon Keeper | 415397 | [415397-the-canon-keeper.json](./415397-the-canon-keeper.json) |
+| The Canon of Balls | 397344 | [397344-the-canon-of-balls.json](./397344-the-canon-of-balls.json) |
 | The Capcom Collection | 246090 | [246090-the-capcom-collection.json](./246090-the-capcom-collection.json) |
 | The Caped Crusader | 278715 | [278715-the-caped-crusader.json](./278715-the-caped-crusader.json) |
 | The Capital of Feilai | 187779 | [187779-the-capital-of-feilai.json](./187779-the-capital-of-feilai.json) |
@@ -8094,6 +8095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choices Of Priori | 412546 | [412546-the-choices-of-priori.json](./412546-the-choices-of-priori.json) |
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
+| The Chosen Duck | 397968 | [397968-the-chosen-duck.json](./397968-the-chosen-duck.json) |
 | The Chosen Ones | 373606 | [373606-the-chosen-ones.json](./373606-the-chosen-ones.json) |
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
