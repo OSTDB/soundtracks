@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 5 Friends: Mike's Adventures | 174928 | [174928-ice-scream-5-friends-mikes-adventures.json](./174928-ice-scream-5-friends-mikes-adventures.json) |
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
+| Ice Scream 8: Final Chapter | 280993 | [280993-ice-scream-8-final-chapter.json](./280993-ice-scream-8-final-chapter.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
 | Ice Sisters: Princesses of the Frozen Age | 332354 | [332354-ice-sisters-princesses-of-the-frozen-age.json](./332354-ice-sisters-princesses-of-the-frozen-age.json) |
 | Ice Skating Ballerina | 89140 | [89140-ice-skating-ballerina.json](./89140-ice-skating-ballerina.json) |
