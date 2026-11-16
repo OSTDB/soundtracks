@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambchop Loves Music | 209818 | [209818-lambchop-loves-music.json](./209818-lambchop-loves-music.json) |
 | Lambda | 251249 | [251249-lambda.json](./251249-lambda.json) |
 | Lambda end Theory | 193591 | [193591-lambda-end-theory.json](./193591-lambda-end-theory.json) |
+| Lambda Enigma | 389238 | [389238-lambda-enigma.json](./389238-lambda-enigma.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
 | Lambda Neros R | 412767 | [412767-lambda-neros-r.json](./412767-lambda-neros-r.json) |
 | Lambda Spellcrafting Academy | 243541 | [243541-lambda-spellcrafting-academy.json](./243541-lambda-spellcrafting-academy.json) |
@@ -8886,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss | 319061 | [319061-loss.json](./319061-loss.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
+| Loss Prevention | 389237 | [389237-loss-prevention.json](./389237-loss-prevention.json) |
 | Lost | 10226 | [10226-lost.json](./10226-lost.json) |
 | Lost | 120010 | [120010-lost.json](./120010-lost.json) |
 | Lost | 124219 | [124219-lost.json](./124219-lost.json) |
