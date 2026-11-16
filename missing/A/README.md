@@ -4250,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in the Tower of Flight | 35295 | [35295-adventure-in-the-tower-of-flight.json](./35295-adventure-in-the-tower-of-flight.json) |
 | Adventure in Time | 205774 | [205774-adventure-in-time.json](./205774-adventure-in-time.json) |
 | Adventure In Vegas: Slot Machine | 84974 | [84974-adventure-in-vegas-slot-machine.json](./84974-adventure-in-vegas-slot-machine.json) |
+| Adventure in Wachirawit World | 314076 | [314076-adventure-in-wachirawit-world.json](./314076-adventure-in-wachirawit-world.json) |
 | Adventure in Wonderwood | 365339 | [365339-adventure-in-wonderwood.json](./365339-adventure-in-wonderwood.json) |
 | Adventure in XX City 2: Finding BB | 314411 | [314411-adventure-in-xx-city-2-finding-bb.json](./314411-adventure-in-xx-city-2-finding-bb.json) |
 | Adventure Inlay | 139720 | [139720-adventure-inlay.json](./139720-adventure-inlay.json) |
@@ -8450,7 +8451,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alkemstone | 24788 | [24788-alkemstone.json](./24788-alkemstone.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
+| Alkirian 2: The Seven Scepters | 315156 | [315156-alkirian-2-the-seven-scepters.json](./315156-alkirian-2-the-seven-scepters.json) |
+| Alkirian 3: The Water Stone | 315158 | [315158-alkirian-3-the-water-stone.json](./315158-alkirian-3-the-water-stone.json) |
+| Alkirian 4: The Ice Stone | 315159 | [315159-alkirian-4-the-ice-stone.json](./315159-alkirian-4-the-ice-stone.json) |
 | Alkirian: The Nine Pages | 315155 | [315155-alkirian-the-nine-pages.json](./315155-alkirian-the-nine-pages.json) |
+| Alkirian: The Stone of Fire | 315181 | [315181-alkirian-the-stone-of-fire.json](./315181-alkirian-the-stone-of-fire.json) |
+| Alkirian: The Wind Stone | 315184 | [315184-alkirian-the-wind-stone.json](./315184-alkirian-the-wind-stone.json) |
 | Alkurai | 223323 | [223323-alkurai.json](./223323-alkurai.json) |
 | All @ Once | 201651 | [201651-all-once.json](./201651-all-once.json) |
 | All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
@@ -13223,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartament 1406 | 249766 | [249766-apartament-1406.json](./249766-apartament-1406.json) |
 | Apartment | 186398 | [186398-apartment.json](./186398-apartment.json) |
 | Apartment 12 | 415477 | [415477-apartment-12.json](./415477-apartment-12.json) |
+| Apartment 14-B | 315167 | [315167-apartment-14-b.json](./315167-apartment-14-b.json) |
 | Apartment 19 | 401342 | [401342-apartment-19.json](./401342-apartment-19.json) |
 | Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
@@ -17292,6 +17299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes Cricket 2013 | 8550 | [8550-ashes-cricket-2013.json](./8550-ashes-cricket-2013.json) |
 | Ashes Nomad | 408126 | [408126-ashes-nomad.json](./408126-ashes-nomad.json) |
 | Ashes of Alice | 409167 | [409167-ashes-of-alice.json](./409167-ashes-of-alice.json) |
+| Ashes of Alkirian | 315160 | [315160-ashes-of-alkirian.json](./315160-ashes-of-alkirian.json) |
 | Ashes of Ambition | 393693 | [393693-ashes-of-ambition.json](./393693-ashes-of-ambition.json) |
 | Ashes of Arcanum | 264687 | [264687-ashes-of-arcanum.json](./264687-ashes-of-arcanum.json) |
 | Ashes of Arcanum: Antique Pack | 313674 | [313674-ashes-of-arcanum-antique-pack.json](./313674-ashes-of-arcanum-antique-pack.json) |
