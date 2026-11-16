@@ -23038,6 +23038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
 | Three Kingdoms and Martial Arts and Jianghu | 293538 | [293538-three-kingdoms-and-martial-arts-and-jianghu.json](./293538-three-kingdoms-and-martial-arts-and-jianghu.json) |
 | Three Kingdoms Battle Chess | 288441 | [288441-three-kingdoms-battle-chess.json](./288441-three-kingdoms-battle-chess.json) |
+| Three Kingdoms Chronicle | 282179 | [282179-three-kingdoms-chronicle.json](./282179-three-kingdoms-chronicle.json) |
 | Three Kingdoms Club Manager | 392310 | [392310-three-kingdoms-club-manager.json](./392310-three-kingdoms-club-manager.json) |
 | Three Kingdoms Fantasy: Miss Meng and the Explosive Boy | 128328 | [128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json](./128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
@@ -27753,6 +27754,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
+| Toki | 281076 | [281076-toki.json](./281076-toki.json) |
+| Toki | 281082 | [281082-toki.json](./281082-toki.json) |
 | Toki | 94084 | [94084-toki.json](./94084-toki.json) |
 | Toki Hako Time Capsule | 342767 | [342767-toki-hako-time-capsule.json](./342767-toki-hako-time-capsule.json) |
 | Toki Island | 125890 | [125890-toki-island.json](./125890-toki-island.json) |
@@ -28275,6 +28278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
 | Tom Loves Angela | 347068 | [347068-tom-loves-angela.json](./347068-tom-loves-angela.json) |
 | Tom Mason's Dinosaurs for Hire | 46252 | [46252-tom-masons-dinosaurs-for-hire.json](./46252-tom-masons-dinosaurs-for-hire.json) |
+| Tom Sawyer no Bouken | 280978 | [280978-tom-sawyer-no-bouken.json](./280978-tom-sawyer-no-bouken.json) |
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
 | Tom the Postgirl | 265267 | [265267-tom-the-postgirl.json](./265267-tom-the-postgirl.json) |
 | Tom the Tow Truck of Car City | 90796 | [90796-tom-the-tow-truck-of-car-city.json](./90796-tom-the-tow-truck-of-car-city.json) |
@@ -28788,6 +28792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Human | 5648 | [5648-too-human.json](./5648-too-human.json) |
 | Too Impatient | 191470 | [191470-too-impatient.json](./191470-too-impatient.json) |
 | Too Late Forest | 304532 | [304532-too-late-forest.json](./304532-too-late-forest.json) |
+| Too Late.exe | 280991 | [280991-too-late-exe.json](./280991-too-late-exe.json) |
 | Too Loud | 120694 | [120694-too-loud.json](./120694-too-loud.json) |
 | Too Many Animals ! | 427270 | [427270-too-many-animals.json](./427270-too-many-animals.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
