@@ -9738,6 +9738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rob Blanc II: Planet of the Pasteurised Pestilence | 171552 | [171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json](./171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json) |
 | Rob Blanc III: The Temporal Terrorists | 171553 | [171553-rob-blanc-iii-the-temporal-terrorists.json](./171553-rob-blanc-iii-the-temporal-terrorists.json) |
 | Rob for Two | 179920 | [179920-rob-for-two.json](./179920-rob-for-two.json) |
+| Rob Run | 416015 | [416015-rob-run.json](./416015-rob-run.json) |
 | Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
 | Robabekya | 309817 | [309817-robabekya.json](./309817-robabekya.json) |
 | Roball | 150819 | [150819-roball.json](./150819-roball.json) |
@@ -11923,6 +11924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Sacrifice in Córdoba | 74447 | [74447-roman-sacrifice-in-cordoba.json](./74447-roman-sacrifice-in-cordoba.json) |
 | Roman Sands | 124748 | [124748-roman-sands.json](./124748-roman-sands.json) |
 | Roman Sands RE:Build | 229067 | [229067-roman-sands-re-build.json](./229067-roman-sands-re-build.json) |
+| Roman Solitaire | 415585 | [415585-roman-solitaire.json](./415585-roman-solitaire.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Roman Trahtenberg: V poiskah ideal'nogo anekdota | 403581 | [403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json](./403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json) |
 | Roman Triumph | 186413 | [186413-roman-triumph.json](./186413-roman-triumph.json) |
@@ -12221,6 +12223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Hero | 182045 | [182045-rookie-hero.json](./182045-rookie-hero.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Raiders | 418378 | [418378-rookie-raiders.json](./418378-rookie-raiders.json) |
+| Rookie Reaper | 415598 | [415598-rookie-reaper.json](./415598-rookie-reaper.json) |
 | Rookie Rook | 425439 | [425439-rookie-rook.json](./425439-rookie-rook.json) |
 | Rookie Table Tennis | 328445 | [328445-rookie-table-tennis.json](./328445-rookie-table-tennis.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
