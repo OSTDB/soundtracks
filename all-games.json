@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T05:05:57.570Z",
-  "total_soundtracks": 3415,
+  "generated_at": "2026-11-16T06:16:01.668Z",
+  "total_soundtracks": 3417,
   "games": [
     {
       "igdb_id": 292844,
@@ -4311,6 +4311,20 @@
         {
           "album_name": "Birthdays the Beginning Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1U3sW5aNCDDiD4qHXgcvRG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 60772,
+      "game_name": "Bit Dungeon",
+      "game_url": "https://ostdb.net/games/bit-dungeon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c8d00b3a6b3cbbee4d855a17",
+      "albums": [
+        {
+          "album_name": "Bit Dungeon (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6zB4ZppyAZNTe3lpv34JOY",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -39320,6 +39334,20 @@
           "album_name": "Titanfall 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6obLTHdJ6Dt2fubk4iP9QB",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 61714,
+      "game_name": "To Leave",
+      "game_url": "https://ostdb.net/games/to-leave",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e7e5bd6042bca2bfcd44c04f",
+      "albums": [
+        {
+          "album_name": "To Leave: Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5Rs1eQtb2b27s2NSpLOuMV",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
