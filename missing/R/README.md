@@ -6202,6 +6202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue the Great Demon 2 | 30562 | [30562-rescue-the-great-demon-2.json](./30562-rescue-the-great-demon-2.json) |
 | Rescue the Hostages: Cryptic Countdown | 377239 | [377239-rescue-the-hostages-cryptic-countdown.json](./377239-rescue-the-hostages-cryptic-countdown.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
+| Rescue the Hostages: Twenty Deadly Questions | 415380 | [415380-rescue-the-hostages-twenty-deadly-questions.json](./415380-rescue-the-hostages-twenty-deadly-questions.json) |
 | Rescue the Hostages: Words of Fear | 396729 | [396729-rescue-the-hostages-words-of-fear.json](./396729-rescue-the-hostages-words-of-fear.json) |
 | Rescue the Prisoner | 272458 | [272458-rescue-the-prisoner.json](./272458-rescue-the-prisoner.json) |
 | Rescue the Puppies | 401029 | [401029-rescue-the-puppies.json](./401029-rescue-the-puppies.json) |
