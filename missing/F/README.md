@@ -10638,10 +10638,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future | 144170 | [144170-for-a-vast-future.json](./144170-for-a-vast-future.json) |
 | For a Vast Future: Colour Palette 1 | 295703 | [295703-for-a-vast-future-colour-palette-1.json](./295703-for-a-vast-future-colour-palette-1.json) |
 | For a Vast Future: Colour Palette 10 | 295702 | [295702-for-a-vast-future-colour-palette-10.json](./295702-for-a-vast-future-colour-palette-10.json) |
+| For a Vast Future: Colour Palette 2 | 295709 | [295709-for-a-vast-future-colour-palette-2.json](./295709-for-a-vast-future-colour-palette-2.json) |
 | For a Vast Future: Colour Palette 3 | 295704 | [295704-for-a-vast-future-colour-palette-3.json](./295704-for-a-vast-future-colour-palette-3.json) |
 | For a Vast Future: Colour Palette 4 | 295705 | [295705-for-a-vast-future-colour-palette-4.json](./295705-for-a-vast-future-colour-palette-4.json) |
+| For a Vast Future: Colour Palette 5 | 295710 | [295710-for-a-vast-future-colour-palette-5.json](./295710-for-a-vast-future-colour-palette-5.json) |
 | For a Vast Future: Colour Palette 6 | 295706 | [295706-for-a-vast-future-colour-palette-6.json](./295706-for-a-vast-future-colour-palette-6.json) |
+| For a Vast Future: Colour Palette 7 | 295707 | [295707-for-a-vast-future-colour-palette-7.json](./295707-for-a-vast-future-colour-palette-7.json) |
 | For a Vast Future: Colour Palette 8 | 288307 | [288307-for-a-vast-future-colour-palette-8.json](./288307-for-a-vast-future-colour-palette-8.json) |
+| For a Vast Future: Colour Palette 9 | 295708 | [295708-for-a-vast-future-colour-palette-9.json](./295708-for-a-vast-future-colour-palette-9.json) |
 | For a Vast Future: Complete Edition | 284938 | [284938-for-a-vast-future-complete-edition.json](./284938-for-a-vast-future-complete-edition.json) |
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
 | For a Vast Future: Deluxe Edition | 268557 | [268557-for-a-vast-future-deluxe-edition.json](./268557-for-a-vast-future-deluxe-edition.json) |
@@ -14491,6 +14495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen | 230335 | [230335-frozen.json](./230335-frozen.json) |
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
 | Frozen 2 in 1 Game Digital Watch | 412661 | [412661-frozen-2-in-1-game-digital-watch.json](./412661-frozen-2-in-1-game-digital-watch.json) |
+| Frozen Below: Arctic Expedition | 294318 | [294318-frozen-below-arctic-expedition.json](./294318-frozen-below-arctic-expedition.json) |
 | Frozen Bubble | 61702 | [61702-frozen-bubble.json](./61702-frozen-bubble.json) |
 | Frozen City | 228826 | [228826-frozen-city.json](./228826-frozen-city.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
