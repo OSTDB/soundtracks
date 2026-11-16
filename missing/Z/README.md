@@ -1819,8 +1819,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense: Flaming Edition | 300880 | [300880-zombie-defense-flaming-edition.json](./300880-zombie-defense-flaming-edition.json) |
 | Zombie Defense: Fruity Edition | 320672 | [320672-zombie-defense-fruity-edition.json](./320672-zombie-defense-fruity-edition.json) |
 | Zombie Defense: Jungle Edition | 371432 | [371432-zombie-defense-jungle-edition.json](./371432-zombie-defense-jungle-edition.json) |
+| Zombie Defense: Laser Katana | 404560 | [404560-zombie-defense-laser-katana.json](./404560-zombie-defense-laser-katana.json) |
+| Zombie Defense: Lasergun | 404561 | [404561-zombie-defense-lasergun.json](./404561-zombie-defense-lasergun.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Defense: Pew Pew Edition | 306518 | [306518-zombie-defense-pew-pew-edition.json](./306518-zombie-defense-pew-pew-edition.json) |
+| Zombie Defense: Quad Rocket Launcher | 404559 | [404559-zombie-defense-quad-rocket-launcher.json](./404559-zombie-defense-quad-rocket-launcher.json) |
 | Zombie Defense: Thunder Hammer | 404558 | [404558-zombie-defense-thunder-hammer.json](./404558-zombie-defense-thunder-hammer.json) |
 | Zombie Defense: War | 340994 | [340994-zombie-defense-war.json](./340994-zombie-defense-war.json) |
 | Zombie Demolition: Infinite Zombie Shooter | 344558 | [344558-zombie-demolition-infinite-zombie-shooter.json](./344558-zombie-demolition-infinite-zombie-shooter.json) |
