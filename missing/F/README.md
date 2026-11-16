@@ -4208,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me Oil | 93944 | [93944-feed-me-oil.json](./93944-feed-me-oil.json) |
 | Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
+| Feed Mii | 230582 | [230582-feed-mii.json](./230582-feed-mii.json) |
 | Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
 | Feed My Hole! | 422788 | [422788-feed-my-hole.json](./422788-feed-my-hole.json) |
 | Feed My Raptor | 308998 | [308998-feed-my-raptor.json](./308998-feed-my-raptor.json) |
@@ -6198,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find me... | 184761 | [184761-find-me.json](./184761-find-me.json) |
 | Find Meow in Dwarf Mines | 360837 | [360837-find-meow-in-dwarf-mines.json](./360837-find-meow-in-dwarf-mines.json) |
 | Find Meow in Wild West | 356748 | [356748-find-meow-in-wild-west.json](./356748-find-meow-in-wild-west.json) |
+| Find Mii | 230572 | [230572-find-mii.json](./230572-find-mii.json) |
 | Find My Frogs | 347218 | [347218-find-my-frogs.json](./347218-find-my-frogs.json) |
 | Find My Frogs: Branches | 362893 | [362893-find-my-frogs-branches.json](./362893-find-my-frogs-branches.json) |
 | Find My Love | 371494 | [371494-find-my-love.json](./371494-find-my-love.json) |
@@ -7243,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish 'n Ships | 349472 | [349472-fish-n-ships.json](./349472-fish-n-ships.json) |
 | Fish 'N' Chips | 246832 | [246832-fish-n-chips.json](./246832-fish-n-chips.json) |
 | Fish & Bubbles | 286707 | [286707-fish-and-bubbles.json](./286707-fish-and-bubbles.json) |
+| Fish & Dagger | 230568 | [230568-fish-and-dagger.json](./230568-fish-and-dagger.json) |
 | Fish & Hike | 404581 | [404581-fish-and-hike.json](./404581-fish-and-hike.json) |
 | Fish & Ships | 419042 | [419042-fish-and-ships.json](./419042-fish-and-ships.json) |
 | Fish & Trip | 97492 | [97492-fish-and-trip.json](./97492-fish-and-trip.json) |
@@ -9495,6 +9498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Shop: Winter In Fairbrook | 17586 | [17586-flower-shop-winter-in-fairbrook.json](./17586-flower-shop-winter-in-fairbrook.json) |
 | Flower Sort Puzzle | 261404 | [261404-flower-sort-puzzle.json](./261404-flower-sort-puzzle.json) |
 | Flower Spinner Puzzle | 371410 | [371410-flower-spinner-puzzle.json](./371410-flower-spinner-puzzle.json) |
+| Flower Town | 230575 | [230575-flower-town.json](./230575-flower-town.json) |
 | Flower Visit | 177576 | [177576-flower-visit.json](./177576-flower-visit.json) |
 | Flower vs. Zombie War | 223934 | [223934-flower-vs-zombie-war.json](./223934-flower-vs-zombie-war.json) |
 | Flower, Sun, and Rain | 18123 | [18123-flower-sun-and-rain.json](./18123-flower-sun-and-rain.json) |
@@ -15315,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Wolfie Pack | 354241 | [354241-funko-fusion-wolfie-pack.json](./354241-funko-fusion-wolfie-pack.json) |
 | Funko Fusion: Yuletide Pack | 332471 | [332471-funko-fusion-yuletide-pack.json](./332471-funko-fusion-yuletide-pack.json) |
 | Funko Pop! Blitz | 124356 | [124356-funko-pop-blitz.json](./124356-funko-pop-blitz.json) |
+| Funkscop | 230023 | [230023-funkscop.json](./230023-funkscop.json) |
 | Funky Barn | 21698 | [21698-funky-barn.json](./21698-funky-barn.json) |
 | Funky Barn 3D | 65333 | [65333-funky-barn-3d.json](./65333-funky-barn-3d.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
