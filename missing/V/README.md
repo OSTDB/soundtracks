@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrus: The Riven Realms - Vorax | 200435 | [200435-vagrus-the-riven-realms-vorax.json](./200435-vagrus-the-riven-realms-vorax.json) |
 | Vagrus: The Riven Realms Season Pass | 276283 | [276283-vagrus-the-riven-realms-season-pass.json](./276283-vagrus-the-riven-realms-season-pass.json) |
 | Vague | 274809 | [274809-vague.json](./274809-vague.json) |
+| Vague Lizards | 310779 | [310779-vague-lizards.json](./310779-vague-lizards.json) |
 | Vahnora | 403128 | [403128-vahnora.json](./403128-vahnora.json) |
 | Vai Juliette! | 248758 | [248758-vai-juliette.json](./248758-vai-juliette.json) |
 | Vail | 142985 | [142985-vail.json](./142985-vail.json) |
