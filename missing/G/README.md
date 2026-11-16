@@ -7188,6 +7188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Cliff | 145225 | [145225-gold-cliff.json](./145225-gold-cliff.json) |
 | Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
 | Gold Crusader | 30517 | [30517-gold-crusader.json](./30517-gold-crusader.json) |
+| Gold Defence | 363585 | [363585-gold-defence.json](./363585-gold-defence.json) |
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
 | Gold Digger FRVR | 126088 | [126088-gold-digger-frvr.json](./126088-gold-digger-frvr.json) |
