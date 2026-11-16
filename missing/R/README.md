@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenous Horde | 268980 | [268980-ravenous-horde.json](./268980-ravenous-horde.json) |
 | RavenQuest: Munk Madness | 414094 | [414094-ravenquest-munk-madness.json](./414094-ravenquest-munk-madness.json) |
 | RavenQuest: Rise of Tyrants | 414192 | [414192-ravenquest-rise-of-tyrants.json](./414192-ravenquest-rise-of-tyrants.json) |
+| RavenQuest: Treasures Below | 413330 | [413330-ravenquest-treasures-below.json](./413330-ravenquest-treasures-below.json) |
 | Ravenrift | 358579 | [358579-ravenrift.json](./358579-ravenrift.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Kinderwelt | 288067 | [288067-ravensburger-kinderwelt.json](./288067-ravensburger-kinderwelt.json) |
@@ -3884,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
 | Rebirth Online | 208143 | [208143-rebirth-online.json](./208143-rebirth-online.json) |
 | Rebirth RC | 147808 | [147808-rebirth-rc.json](./147808-rebirth-rc.json) |
+| Rebirth TD | 413336 | [413336-rebirth-td.json](./413336-rebirth-td.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
 | Rebirth: Beware of Mr.Wang | 174114 | [174114-rebirth-beware-of-mr-wang.json](./174114-rebirth-beware-of-mr-wang.json) |
 | Rebirth: Mr Wang | 169105 | [169105-rebirth-mr-wang.json](./169105-rebirth-mr-wang.json) |
@@ -5561,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remain 3 | 260855 | [260855-remain-3.json](./260855-remain-3.json) |
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remain on Earth | 316135 | [316135-remain-on-earth.json](./316135-remain-on-earth.json) |
+| Remaining Grace | 413307 | [413307-remaining-grace.json](./413307-remaining-grace.json) |
 | Remaining in a Dream | 30950 | [30950-remaining-in-a-dream.json](./30950-remaining-in-a-dream.json) |
 | Remains | 151910 | [151910-remains.json](./151910-remains.json) |
 | Remains | 274157 | [274157-remains.json](./274157-remains.json) |
@@ -10723,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Shipment | 129615 | [129615-rocket-shipment.json](./129615-rocket-shipment.json) |
 | Rocket Shooter | 33297 | [33297-rocket-shooter.json](./33297-rocket-shooter.json) |
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
+| Rocket Sideswipe | 413357 | [413357-rocket-sideswipe.json](./413357-rocket-sideswipe.json) |
 | Rocket Simulator | 326367 | [326367-rocket-simulator.json](./326367-rocket-simulator.json) |
 | Rocket Skates VR | 148773 | [148773-rocket-skates-vr.json](./148773-rocket-skates-vr.json) |
 | Rocket Ski Racing | 32618 | [32618-rocket-ski-racing.json](./32618-rocket-ski-racing.json) |
