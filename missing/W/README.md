@@ -6486,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
 | Wing Pilot | 187993 | [187993-wing-pilot.json](./187993-wing-pilot.json) |
+| Wing Queen | 253096 | [253096-wing-queen.json](./253096-wing-queen.json) |
 | Wing Shooting Championship | 40550 | [40550-wing-shooting-championship.json](./40550-wing-shooting-championship.json) |
 | Wing War | 131192 | [131192-wing-war.json](./131192-wing-war.json) |
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
@@ -10166,6 +10167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrench | 109288 | [109288-wrench.json](./109288-wrench.json) |
 | Wrench to Restore Silence | 246702 | [246702-wrench-to-restore-silence.json](./246702-wrench-to-restore-silence.json) |
 | Wrench Towers | 361250 | [361250-wrench-towers.json](./361250-wrench-towers.json) |
+| Wrenched | 258227 | [258227-wrenched.json](./258227-wrenched.json) |
 | WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
 | Wrenny Lee: Witch-for-Hire! | 419807 | [419807-wrenny-lee-witch-for-hire.json](./419807-wrenny-lee-witch-for-hire.json) |
 | Wrest | 127704 | [127704-wrest.json](./127704-wrest.json) |
