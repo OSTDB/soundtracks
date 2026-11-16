@@ -8508,7 +8508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riglas | 281255 | [281255-riglas.json](./281255-riglas.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
 | Rigo: The Movie | 117375 | [117375-rigo-the-movie.json](./117375-rigo-the-movie.json) |
-| Rigonauts | 16382 | [16382-rigonauts.json](./16382-rigonauts.json) |
 | Rigor Mortis | 124509 | [124509-rigor-mortis.json](./124509-rigor-mortis.json) |
 | RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
 | Rigs of Rods | 50775 | [50775-rigs-of-rods.json](./50775-rigs-of-rods.json) |
