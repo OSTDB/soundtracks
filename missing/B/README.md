@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Sonic (Game Ichizoku) | 329351 | [329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json](./329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Ultraman (Hero Ichizoku) | 329359 | [329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json](./329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy (Game Ichizoku) | 329348 | [329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json](./329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json) |
+| Barcode Battler II: Street Fighter II - 1. Hadouken | 387971 | [387971-barcode-battler-ii-street-fighter-ii-1-hadouken.json](./387971-barcode-battler-ii-street-fighter-ii-1-hadouken.json) |
 | Barcode Battler II: Street Fighter II - 10. Spinning Bird Kick | 387992 | [387992-barcode-battler-ii-street-fighter-ii-10-spinning-bird-kick.json](./387992-barcode-battler-ii-street-fighter-ii-10-spinning-bird-kick.json) |
 | Barcode Battler II: Street Fighter II - 11. Koshuu Tou | 387993 | [387993-barcode-battler-ii-street-fighter-ii-11-koshuu-tou.json](./387993-barcode-battler-ii-street-fighter-ii-11-koshuu-tou.json) |
 | Barcode Battler II: Street Fighter II - 12. Kaikyaku Totsuken | 387994 | [387994-barcode-battler-ii-street-fighter-ii-12-kaikyaku-totsuken.json](./387994-barcode-battler-ii-street-fighter-ii-12-kaikyaku-totsuken.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 17. Sonic Boom | 388014 | [388014-barcode-battler-ii-street-fighter-ii-17-sonic-boom.json](./388014-barcode-battler-ii-street-fighter-ii-17-sonic-boom.json) |
 | Barcode Battler II: Street Fighter II - 18. Somersault Kick | 388015 | [388015-barcode-battler-ii-street-fighter-ii-18-somersault-kick.json](./388015-barcode-battler-ii-street-fighter-ii-18-somersault-kick.json) |
 | Barcode Battler II: Street Fighter II - 19. Dragon Suplex | 388016 | [388016-barcode-battler-ii-street-fighter-ii-19-dragon-suplex.json](./388016-barcode-battler-ii-street-fighter-ii-19-dragon-suplex.json) |
+| Barcode Battler II: Street Fighter II - 2. Shoryuken | 387972 | [387972-barcode-battler-ii-street-fighter-ii-2-shoryuken.json](./387972-barcode-battler-ii-street-fighter-ii-2-shoryuken.json) |
 | Barcode Battler II: Street Fighter II - 20. Flying Buster Drop | 388017 | [388017-barcode-battler-ii-street-fighter-ii-20-flying-buster-drop.json](./388017-barcode-battler-ii-street-fighter-ii-20-flying-buster-drop.json) |
 | Barcode Battler II: Street Fighter II - 21. Flying Mare | 388019 | [388019-barcode-battler-ii-street-fighter-ii-21-flying-mare.json](./388019-barcode-battler-ii-street-fighter-ii-21-flying-mare.json) |
 | Barcode Battler II: Street Fighter II - 22. Jump Punch | 388020 | [388020-barcode-battler-ii-street-fighter-ii-22-jump-punch.json](./388020-barcode-battler-ii-street-fighter-ii-22-jump-punch.json) |
@@ -2787,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 27. Yoga Throw | 388025 | [388025-barcode-battler-ii-street-fighter-ii-27-yoga-throw.json](./388025-barcode-battler-ii-street-fighter-ii-27-yoga-throw.json) |
 | Barcode Battler II: Street Fighter II - 28. Drill Zudzuki | 388027 | [388027-barcode-battler-ii-street-fighter-ii-28-drill-zudzuki.json](./388027-barcode-battler-ii-street-fighter-ii-28-drill-zudzuki.json) |
 | Barcode Battler II: Street Fighter II - 29. Drill Kick | 388028 | [388028-barcode-battler-ii-street-fighter-ii-29-drill-kick.json](./388028-barcode-battler-ii-street-fighter-ii-29-drill-kick.json) |
+| Barcode Battler II: Street Fighter II - 3. Tatsumaki Senpuukyaku | 387974 | [387974-barcode-battler-ii-street-fighter-ii-3-tatsumaki-senpuukyaku.json](./387974-barcode-battler-ii-street-fighter-ii-3-tatsumaki-senpuukyaku.json) |
 | Barcode Battler II: Street Fighter II - 30. Jump Zoom Punch | 388029 | [388029-barcode-battler-ii-street-fighter-ii-30-jump-zoom-punch.json](./388029-barcode-battler-ii-street-fighter-ii-30-jump-zoom-punch.json) |
 | Barcode Battler II: Street Fighter II - 31. Sliding | 388030 | [388030-barcode-battler-ii-street-fighter-ii-31-sliding.json](./388030-barcode-battler-ii-street-fighter-ii-31-sliding.json) |
 | Barcode Battler II: Street Fighter II - 32. Rolling Attack | 388031 | [388031-barcode-battler-ii-street-fighter-ii-32-rolling-attack.json](./388031-barcode-battler-ii-street-fighter-ii-32-rolling-attack.json) |
@@ -2796,6 +2799,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 36. Bear Claw | 388035 | [388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json](./388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json) |
 | Barcode Battler II: Street Fighter II - 37. Double Knee Bomber | 388036 | [388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json](./388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json) |
 | Barcode Battler II: Street Fighter II - 38. Rolling Nail | 388037 | [388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json](./388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json) |
+| Barcode Battler II: Street Fighter II - 4. Jigoku-sha | 387983 | [387983-barcode-battler-ii-street-fighter-ii-4-jigoku-sha.json](./387983-barcode-battler-ii-street-fighter-ii-4-jigoku-sha.json) |
+| Barcode Battler II: Street Fighter II - 5. Tomoe Nage | 387975 | [387975-barcode-battler-ii-street-fighter-ii-5-tomoe-nage.json](./387975-barcode-battler-ii-street-fighter-ii-5-tomoe-nage.json) |
+| Barcode Battler II: Street Fighter II - 54. Hadouken | 387985 | [387985-barcode-battler-ii-street-fighter-ii-54-hadouken.json](./387985-barcode-battler-ii-street-fighter-ii-54-hadouken.json) |
+| Barcode Battler II: Street Fighter II - 6. Straight | 387976 | [387976-barcode-battler-ii-street-fighter-ii-6-straight.json](./387976-barcode-battler-ii-street-fighter-ii-6-straight.json) |
+| Barcode Battler II: Street Fighter II - 7. Nerichagi | 387984 | [387984-barcode-battler-ii-street-fighter-ii-7-nerichagi.json](./387984-barcode-battler-ii-street-fighter-ii-7-nerichagi.json) |
+| Barcode Battler II: Street Fighter II - 71. Tobi Yokogeri | 387986 | [387986-barcode-battler-ii-street-fighter-ii-71-tobi-yokogeri.json](./387986-barcode-battler-ii-street-fighter-ii-71-tobi-yokogeri.json) |
+| Barcode Battler II: Street Fighter II - 8. Tobi Yokogeri | 387978 | [387978-barcode-battler-ii-street-fighter-ii-8-tobi-yokogeri.json](./387978-barcode-battler-ii-street-fighter-ii-8-tobi-yokogeri.json) |
+| Barcode Battler II: Street Fighter II - 81. Seikendzuki | 387979 | [387979-barcode-battler-ii-street-fighter-ii-81-seikendzuki.json](./387979-barcode-battler-ii-street-fighter-ii-81-seikendzuki.json) |
+| Barcode Battler II: Street Fighter II - 82. Seikendzuki | 387987 | [387987-barcode-battler-ii-street-fighter-ii-82-seikendzuki.json](./387987-barcode-battler-ii-street-fighter-ii-82-seikendzuki.json) |
+| Barcode Battler II: Street Fighter II - 83. Kaiten Ashibarai | 387980 | [387980-barcode-battler-ii-street-fighter-ii-83-kaiten-ashibarai.json](./387980-barcode-battler-ii-street-fighter-ii-83-kaiten-ashibarai.json) |
+| Barcode Battler II: Street Fighter II - 84. Kaiten Ashibarai | 387988 | [387988-barcode-battler-ii-street-fighter-ii-84-kaiten-ashibarai.json](./387988-barcode-battler-ii-street-fighter-ii-84-kaiten-ashibarai.json) |
 | Barcode Battler II: Street Fighter II - 85. Shoryuken | 387989 | [387989-barcode-battler-ii-street-fighter-ii-85-shoryuken.json](./387989-barcode-battler-ii-street-fighter-ii-85-shoryuken.json) |
 | Barcode Battler II: Street Fighter II - 86. Tatsumaki Senpuukyaku | 387990 | [387990-barcode-battler-ii-street-fighter-ii-86-tatsumaki-senpuukyaku.json](./387990-barcode-battler-ii-street-fighter-ii-86-tatsumaki-senpuukyaku.json) |
 | Barcode Battler II: Street Fighter II - 9. Hyakuretsu Kyaku | 387991 | [387991-barcode-battler-ii-street-fighter-ii-9-hyakuretsu-kyaku.json](./387991-barcode-battler-ii-street-fighter-ii-9-hyakuretsu-kyaku.json) |
@@ -3922,7 +3936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battery Check | 242641 | [242641-battery-check.json](./242641-battery-check.json) |
 | Battery Farm | 364982 | [364982-battery-farm.json](./364982-battery-farm.json) |
 | Battery Hunter | 259623 | [259623-battery-hunter.json](./259623-battery-hunter.json) |
-| Battery Jam | 78159 | [78159-battery-jam.json](./78159-battery-jam.json) |
 | Battery Navi | 245248 | [245248-battery-navi.json](./245248-battery-navi.json) |
 | Battery Samurai | 245983 | [245983-battery-samurai.json](./245983-battery-samurai.json) |
 | Battery-out | 193403 | [193403-battery-out.json](./193403-battery-out.json) |
@@ -11270,6 +11283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleak | 380022 | [380022-bleak.json](./380022-bleak.json) |
 | Bleak Dystopia | 226314 | [226314-bleak-dystopia.json](./226314-bleak-dystopia.json) |
 | Bleak End | 167571 | [167571-bleak-end.json](./167571-bleak-end.json) |
+| Bleak Faith: Forsaken - DLC | 387792 | [387792-bleak-faith-forsaken-dlc.json](./387792-bleak-faith-forsaken-dlc.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
 | Bleak House | 311468 | [311468-bleak-house.json](./311468-bleak-house.json) |
@@ -11677,6 +11691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobtown | 346759 | [346759-blobtown.json](./346759-blobtown.json) |
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
 | Blobula | 72391 | [72391-blobula.json](./72391-blobula.json) |
+| Blobular | 387765 | [387765-blobular.json](./387765-blobular.json) |
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobun Mini | 354130 | [354130-blobun-mini.json](./354130-blobun-mini.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
