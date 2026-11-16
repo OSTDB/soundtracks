@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | Kart Racing Pro | 34118 | [34118-kart-racing-pro.json](./34118-kart-racing-pro.json) |
 | Kart Racing Star Simulator Game | 342414 | [342414-kart-racing-star-simulator-game.json](./342414-kart-racing-star-simulator-game.json) |
+| Kart Racing Strike | 394919 | [394919-kart-racing-strike.json](./394919-kart-racing-strike.json) |
 | Kart Racing Supercharged! | 137924 | [137924-kart-racing-supercharged.json](./137924-kart-racing-supercharged.json) |
 | Kart Soccer Party | 398428 | [398428-kart-soccer-party.json](./398428-kart-soccer-party.json) |
 | Kart Stars | 234497 | [234497-kart-stars.json](./234497-kart-stars.json) |
@@ -4593,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiting Cat | 323683 | [323683-kiting-cat.json](./323683-kiting-cat.json) |
 | Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
 | Kitiplant | 291721 | [291721-kitiplant.json](./291721-kitiplant.json) |
+| Kitman | 394914 | [394914-kitman.json](./394914-kitman.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
 | Kito: Lost Trail | 420403 | [420403-kito-lost-trail.json](./420403-kito-lost-trail.json) |
 | Kitori Academy | 136477 | [136477-kitori-academy.json](./136477-kitori-academy.json) |
