@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy Mech Fight | 48123 | [48123-joy-mech-fight.json](./48123-joy-mech-fight.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
+| Joy of Programming: Software Engineering Simulator | 228805 | [228805-joy-of-programming-software-engineering-simulator.json](./228805-joy-of-programming-software-engineering-simulator.json) |
 | Joy Pony | 54456 | [54456-joy-pony.json](./54456-joy-pony.json) |
 | Joy Ride Turbo | 15859 | [15859-joy-ride-turbo.json](./15859-joy-ride-turbo.json) |
 | Joy Striker | 360705 | [360705-joy-striker.json](./360705-joy-striker.json) |
