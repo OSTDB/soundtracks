@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Beauties: Michiko Level Pack | 312105 | [312105-fantasy-beauties-michiko-level-pack.json](./312105-fantasy-beauties-michiko-level-pack.json) |
 | Fantasy Beauties: Selene Level Pack | 312106 | [312106-fantasy-beauties-selene-level-pack.json](./312106-fantasy-beauties-selene-level-pack.json) |
 | Fantasy Beauties: Sigrún Level Pack | 312107 | [312107-fantasy-beauties-sigrun-level-pack.json](./312107-fantasy-beauties-sigrun-level-pack.json) |
+| Fantasy Blacksmith Shop Simulator | 272979 | [272979-fantasy-blacksmith-shop-simulator.json](./272979-fantasy-blacksmith-shop-simulator.json) |
 | Fantasy Blacksmith Simulator | 410333 | [410333-fantasy-blacksmith-simulator.json](./410333-fantasy-blacksmith-simulator.json) |
 | Fantasy Blacksmith: Escape from the Forge | 148627 | [148627-fantasy-blacksmith-escape-from-the-forge.json](./148627-fantasy-blacksmith-escape-from-the-forge.json) |
 | Fantasy Blade | 188393 | [188393-fantasy-blade.json](./188393-fantasy-blade.json) |
@@ -7793,7 +7794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing | 103371 | [103371-fitness-boxing.json](./103371-fitness-boxing.json) |
 | Fitness Boxing 2: Rhythm & Exercise | 138952 | [138952-fitness-boxing-2-rhythm-and-exercise.json](./138952-fitness-boxing-2-rhythm-and-exercise.json) |
 | Fitness Boxing 3: Your Personal Trainer | 314941 | [314941-fitness-boxing-3-your-personal-trainer.json](./314941-fitness-boxing-3-your-personal-trainer.json) |
-| Fitness Boxing 3: Your Personal Trainer - Nintendo Switch 2 Edition | 402033 | [402033-fitness-boxing-3-your-personal-trainer-nintendo-switch-2-edition.json](./402033-fitness-boxing-3-your-personal-trainer-nintendo-switch-2-edition.json) |
 | Fitness Boxing feat. Hatsune Miku | 266725 | [266725-fitness-boxing-feat-hatsune-miku.json](./266725-fitness-boxing-feat-hatsune-miku.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Boxing: Fist of the North Star - Expansion Pack | 279869 | [279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json](./279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json) |
@@ -8044,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
 | Five Nights at Sonic's 4 | 274069 | [274069-five-nights-at-sonics-4.json](./274069-five-nights-at-sonics-4.json) |
 | Five Nights at Sonic's 4: Halloween Edition | 413155 | [413155-five-nights-at-sonics-4-halloween-edition.json](./413155-five-nights-at-sonics-4-halloween-edition.json) |
+| Five Nights at Sonic's 5: The First Chapter | 274071 | [274071-five-nights-at-sonics-5-the-first-chapter.json](./274071-five-nights-at-sonics-5-the-first-chapter.json) |
 | Five Nights at Sonic's Collection | 186992 | [186992-five-nights-at-sonics-collection.json](./186992-five-nights-at-sonics-collection.json) |
 | Five Nights at Sonic's Maniac Mania | 185803 | [185803-five-nights-at-sonics-maniac-mania.json](./185803-five-nights-at-sonics-maniac-mania.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
@@ -14468,7 +14469,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrostPanic: Whispers of Sertão | 258657 | [258657-frostpanic-whispers-of-sertao.json](./258657-frostpanic-whispers-of-sertao.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
-| Frostpunk 2: Breach of Trust | 397575 | [397575-frostpunk-2-breach-of-trust.json](./397575-frostpunk-2-breach-of-trust.json) |
 | Frostpunk 2: Deluxe Edition | 376982 | [376982-frostpunk-2-deluxe-edition.json](./376982-frostpunk-2-deluxe-edition.json) |
 | Frostpunk 2: Fractured Utopias | 375800 | [375800-frostpunk-2-fractured-utopias.json](./375800-frostpunk-2-fractured-utopias.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
@@ -15542,6 +15542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Fantasy | 207794 | [207794-furry-fantasy.json](./207794-furry-fantasy.json) |
 | Furry Farm | 329099 | [329099-furry-farm.json](./329099-furry-farm.json) |
 | Furry Feet | 163576 | [163576-furry-feet.json](./163576-furry-feet.json) |
+| Furry Feet 2 | 272985 | [272985-furry-feet-2.json](./272985-furry-feet-2.json) |
 | Furry Feet 2: 18+ Content | 297126 | [297126-furry-feet-2-18-content.json](./297126-furry-feet-2-18-content.json) |
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
 | Furry Feet: Femboys! | 213530 | [213530-furry-feet-femboys.json](./213530-furry-feet-femboys.json) |
