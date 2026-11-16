@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadratank | 225595 | [225595-quadratank.json](./225595-quadratank.json) |
 | Quadratic Puzzle 1 | 369202 | [369202-quadratic-puzzle-1.json](./369202-quadratic-puzzle-1.json) |
 | Quadratic Puzzle 2 | 374306 | [374306-quadratic-puzzle-2.json](./374306-quadratic-puzzle-2.json) |
+| Quadratic Puzzle 3 | 367337 | [367337-quadratic-puzzle-3.json](./367337-quadratic-puzzle-3.json) |
 | Quadratic Puzzle 4 | 195431 | [195431-quadratic-puzzle-4.json](./195431-quadratic-puzzle-4.json) |
 | Quadratic Puzzle 5 | 207376 | [207376-quadratic-puzzle-5.json](./207376-quadratic-puzzle-5.json) |
 | Quadraticus HD | 263572 | [263572-quadraticus-hd.json](./263572-quadraticus-hd.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Tenshindo 95 | 94657 | [94657-queen-of-tenshindo-95.json](./94657-queen-of-tenshindo-95.json) |
 | Queen of the Community | 392199 | [392199-queen-of-the-community.json](./392199-queen-of-the-community.json) |
 | Queen of the Court | 209749 | [209749-queen-of-the-court.json](./209749-queen-of-the-court.json) |
+| Queen of the Flies | 367326 | [367326-queen-of-the-flies.json](./367326-queen-of-the-flies.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen of the Otaku: There can be Only One | 251992 | [251992-queen-of-the-otaku-there-can-be-only-one.json](./251992-queen-of-the-otaku-there-can-be-only-one.json) |
 | Queen of the Pack | 161577 | [161577-queen-of-the-pack.json](./161577-queen-of-the-pack.json) |
