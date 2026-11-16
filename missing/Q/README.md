@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qu-tros | 112582 | [112582-qu-tros.json](./112582-qu-tros.json) |
 | QuAaargh!!! | 147306 | [147306-quaaargh.json](./147306-quaaargh.json) |
 | Quaantuum Strike | 336021 | [336021-quaantuum-strike.json](./336021-quaantuum-strike.json) |
+| Quack & Hatch | 347946 | [347946-quack-and-hatch.json](./347946-quack-and-hatch.json) |
 | Quack Attack | 293835 | [293835-quack-attack.json](./293835-quack-attack.json) |
 | Quack Attack 1985 | 32117 | [32117-quack-attack-1985.json](./32117-quack-attack-1985.json) |
 | Quack Attack 1985: Turbo DX Edition | 138603 | [138603-quack-attack-1985-turbo-dx-edition.json](./138603-quack-attack-1985-turbo-dx-edition.json) |
@@ -1047,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quests Unlimited | 86319 | [86319-quests-unlimited.json](./86319-quests-unlimited.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
+| Questwood | 346843 | [346843-questwood.json](./346843-questwood.json) |
 | Questy Chess | 151976 | [151976-questy-chess.json](./151976-questy-chess.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
 | Quetzal | 308112 | [308112-quetzal.json](./308112-quetzal.json) |
