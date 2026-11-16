@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N-Cube | 63243 | [63243-n-cube.json](./63243-n-cube.json) |
 | N-Gon | 219683 | [219683-n-gon.json](./219683-n-gon.json) |
 | N-Ice Cover | 323956 | [323956-n-ice-cover.json](./323956-n-ice-cover.json) |
+| N-nyuu | 412028 | [412028-n-nyuu.json](./412028-n-nyuu.json) |
 | N-raged | 180037 | [180037-n-raged.json](./180037-n-raged.json) |
 | N-Sub | 364844 | [364844-n-sub.json](./364844-n-sub.json) |
 | N-Warp Daisakusen | 37735 | [37735-n-warp-daisakusen.json](./37735-n-warp-daisakusen.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
 | Nacah | 71348 | [71348-nacah.json](./71348-nacah.json) |
 | Nachkriegsratten Punk-Rock Puzzle | 203300 | [203300-nachkriegsratten-punk-rock-puzzle.json](./203300-nachkriegsratten-punk-rock-puzzle.json) |
+| Nacho Chihuahua: The Movie - The Game | 411877 | [411877-nacho-chihuahua-the-movie-the-game.json](./411877-nacho-chihuahua-the-movie-the-game.json) |
 | Nacho Libre | 7997 | [7997-nacho-libre.json](./7997-nacho-libre.json) |
 | Nacho Trave vs. Joako Tronico | 323357 | [323357-nacho-trave-vs-joako-tronico.json](./323357-nacho-trave-vs-joako-tronico.json) |
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
@@ -5253,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmarise | 376859 | [376859-nightmarise.json](./376859-nightmarise.json) |
 | Nightmarish Paranoia | 379308 | [379308-nightmarish-paranoia.json](./379308-nightmarish-paranoia.json) |
 | Nightmaze | 400722 | [400722-nightmaze.json](./400722-nightmaze.json) |
+| Nightmere | 412021 | [412021-nightmere.json](./412021-nightmere.json) |
 | NightMetal | 247846 | [247846-nightmetal.json](./247846-nightmetal.json) |
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
 | Nightmist Online | 140434 | [140434-nightmist-online.json](./140434-nightmist-online.json) |
