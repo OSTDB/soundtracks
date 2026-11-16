@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America and the Avengers | 275028 | [275028-captain-america-and-the-avengers.json](./275028-captain-america-and-the-avengers.json) |
 | Captain America and the Avengers | 275030 | [275030-captain-america-and-the-avengers.json](./275030-captain-america-and-the-avengers.json) |
 | Captain America and the Avengers | 7816 | [7816-captain-america-and-the-avengers.json](./7816-captain-america-and-the-avengers.json) |
+| Captain America GG2SMS | 369504 | [369504-captain-america-gg2sms.json](./369504-captain-america-gg2sms.json) |
 | Captain America in: The Doom Tube of Dr. Megalomann | 13462 | [13462-captain-america-in-the-doom-tube-of-dr-megalomann.json](./13462-captain-america-in-the-doom-tube-of-dr-megalomann.json) |
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
 | Captain America: Sentinel of Liberty | 65603 | [65603-captain-america-sentinel-of-liberty.json](./65603-captain-america-sentinel-of-liberty.json) |
@@ -3795,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino De Luxe | 131274 | [131274-casino-de-luxe.json](./131274-casino-de-luxe.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
 | Casino Derby | 48720 | [48720-casino-derby.json](./48720-casino-derby.json) |
+| Casino Fun Pak GG2SMS | 369505 | [369505-casino-fun-pak-gg2sms.json](./369505-casino-fun-pak-gg2sms.json) |
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
 | Casino Games | 358606 | [358606-casino-games.json](./358606-casino-games.json) |
 | Casino Games | 45656 | [45656-casino-games.json](./45656-casino-games.json) |
@@ -6438,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
 | Chakan | 282492 | [282492-chakan.json](./282492-chakan.json) |
 | Chakan for Hexen | 309624 | [309624-chakan-for-hexen.json](./309624-chakan-for-hexen.json) |
+| Chakan GG2SMS | 369506 | [369506-chakan-gg2sms.json](./369506-chakan-gg2sms.json) |
 | Chakan: The Forever Man | 18091 | [18091-chakan-the-forever-man.json](./18091-chakan-the-forever-man.json) |
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
 | Chakana | 377193 | [377193-chakana.json](./377193-chakana.json) |
@@ -7877,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster 8000 | 15881 | [15881-chessmaster-8000.json](./15881-chessmaster-8000.json) |
 | Chessmaster 9000 | 15882 | [15882-chessmaster-9000.json](./15882-chessmaster-9000.json) |
 | Chessmaster Challenge | 73219 | [73219-chessmaster-challenge.json](./73219-chessmaster-challenge.json) |
+| Chessmaster GG2SMS | 369507 | [369507-chessmaster-gg2sms.json](./369507-chessmaster-gg2sms.json) |
 | Chessmaster II | 44719 | [44719-chessmaster-ii.json](./44719-chessmaster-ii.json) |
 | Chessmaster Live | 21814 | [21814-chessmaster-live.json](./21814-chessmaster-live.json) |
 | Chessmaster Live: Breaking the Lines | 345138 | [345138-chessmaster-live-breaking-the-lines.json](./345138-chessmaster-live-breaking-the-lines.json) |
@@ -11905,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Zero: Shuuen no Ichibyou - ExTime | 202592 | [202592-clock-zero-shuuen-no-ichibyou-extime.json](./202592-clock-zero-shuuen-no-ichibyou-extime.json) |
 | Clock Zero: Shuuen no Ichibyou Portable | 202591 | [202591-clock-zero-shuuen-no-ichibyou-portable.json](./202591-clock-zero-shuuen-no-ichibyou-portable.json) |
 | Clocked | 284827 | [284827-clocked.json](./284827-clocked.json) |
+| Clocked In | 367698 | [367698-clocked-in.json](./367698-clocked-in.json) |
 | Clocker | 110816 | [110816-clocker.json](./110816-clocker.json) |
 | Clocker & Mr. Pumpkin Adventure & Alien Cruise Bundle | 276450 | [276450-clocker-and-mr-pumpkin-adventure-and-alien-cruise-bundle.json](./276450-clocker-and-mr-pumpkin-adventure-and-alien-cruise-bundle.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
@@ -12457,6 +12462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch | 403990 | [403990-clutch.json](./403990-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutch Hitter | 369247 | [369247-clutch-hitter.json](./369247-clutch-hitter.json) |
+| Clutch Hitter GG2SMS | 369508 | [369508-clutch-hitter-gg2sms.json](./369508-clutch-hitter-gg2sms.json) |
 | Clutch-Master | 303420 | [303420-clutch-master.json](./303420-clutch-master.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
 | Clutchball | 129409 | [129409-clutchball.json](./129409-clutchball.json) |
@@ -12606,6 +12612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra: Kokuryuuou no Densetsu | 73724 | [73724-cobra-kokuryuuou-no-densetsu.json](./73724-cobra-kokuryuuou-no-densetsu.json) |
 | Cobra's Arc | 39110 | [39110-cobras-arc.json](./39110-cobras-arc.json) |
 | Coby Portable DVD Player | 202887 | [202887-coby-portable-dvd-player.json](./202887-coby-portable-dvd-player.json) |
+| Coca Cola Kid GG2SMS | 369510 | [369510-coca-cola-kid-gg2sms.json](./369510-coca-cola-kid-gg2sms.json) |
 | Coca-Cola Happiness Factory - Mortar Men | 67815 | [67815-coca-cola-happiness-factory-mortar-men.json](./67815-coca-cola-happiness-factory-mortar-men.json) |
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cocaine Dealer | 369903 | [369903-cocaine-dealer.json](./369903-cocaine-dealer.json) |
@@ -18801,6 +18808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-chan 3: Ora no Gokigen Athletic | 130484 | [130484-crayon-shin-chan-3-ora-no-gokigen-athletic.json](./130484-crayon-shin-chan-3-ora-no-gokigen-athletic.json) |
 | Crayon Shin-chan 4: Ora no Itazura Daihenshin | 127112 | [127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json](./127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json) |
 | Crayon Shin-Chan for Nuon | 138119 | [138119-crayon-shin-chan-for-nuon.json](./138119-crayon-shin-chan-for-nuon.json) |
+| Crayon Shin-chan GG2SMS | 369512 | [369512-crayon-shin-chan-gg2sms.json](./369512-crayon-shin-chan-gg2sms.json) |
 | Crayon Shin-Chan Ora to Shiro ha Otomodachi Da yo | 49131 | [49131-crayon-shin-chan-ora-to-shiro-ha-otomodachi-da-yo.json](./49131-crayon-shin-chan-ora-to-shiro-ha-otomodachi-da-yo.json) |
 | Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!! | 269681 | [269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json](./269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json) |
 | Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki! | 136939 | [136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json](./136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json) |
@@ -19004,6 +19012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Er-Bert | 354650 | [354650-crazy-er-bert.json](./354650-crazy-er-bert.json) |
 | Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
 | Crazy Faces | 46301 | [46301-crazy-faces.json](./46301-crazy-faces.json) |
+| Crazy Faces GG2SMS | 369513 | [369513-crazy-faces-gg2sms.json](./369513-crazy-faces-gg2sms.json) |
 | Crazy Factory | 24070 | [24070-crazy-factory.json](./24070-crazy-factory.json) |
 | Crazy Fairies | 63267 | [63267-crazy-fairies.json](./63267-crazy-fairies.json) |
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
