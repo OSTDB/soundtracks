@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Hunter | 216642 | [216642-paranormal-hunter.json](./216642-paranormal-hunter.json) |
 | Paranormal Inc. | 277104 | [277104-paranormal-inc.json](./277104-paranormal-inc.json) |
 | Paranormal Intelligence Bureau | 114618 | [114618-paranormal-intelligence-bureau.json](./114618-paranormal-intelligence-bureau.json) |
+| Paranormal Investigation | 344600 | [344600-paranormal-investigation.json](./344600-paranormal-investigation.json) |
 | Paranormal Investigation | 71249 | [71249-paranormal-investigation.json](./71249-paranormal-investigation.json) |
 | Paranormal Investigation | 71271 | [71271-paranormal-investigation.json](./71271-paranormal-investigation.json) |
 | Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dice | 247933 | [247933-perfect-dice.json](./247933-perfect-dice.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
+| Perfect Flow | 342941 | [342941-perfect-flow.json](./342941-perfect-flow.json) |
 | Perfect Gold: The Alchemy of Happiness | 145997 | [145997-perfect-gold-the-alchemy-of-happiness.json](./145997-perfect-gold-the-alchemy-of-happiness.json) |
 | Perfect Golf | 17193 | [17193-perfect-golf.json](./17193-perfect-golf.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
@@ -8381,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
 | Pip Puzzle | 358032 | [358032-pip-puzzle.json](./358032-pip-puzzle.json) |
+| Pip Puzzle: Pip and Ooma's Battle | 342946 | [342946-pip-puzzle-pip-and-oomas-battle.json](./342946-pip-puzzle-pip-and-oomas-battle.json) |
 | Pip X | 231142 | [231142-pip-x.json](./231142-pip-x.json) |
 | Pip XL | 234235 | [234235-pip-xl.json](./234235-pip-xl.json) |
 | Pip: Battle for the Arctic | 240723 | [240723-pip-battle-for-the-arctic.json](./240723-pip-battle-for-the-arctic.json) |
@@ -8527,6 +8530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Adventures lite: hidden object game | 88358 | [88358-pirate-adventures-lite-hidden-object-game.json](./88358-pirate-adventures-lite-hidden-object-game.json) |
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
 | Pirate and Parrots | 421370 | [421370-pirate-and-parrots.json](./421370-pirate-and-parrots.json) |
+| Pirate Anime Quest: One Boys' Journey, A Piece of Island Love | 345717 | [345717-pirate-anime-quest-one-boys-journey-a-piece-of-island-love.json](./345717-pirate-anime-quest-one-boys-journey-a-piece-of-island-love.json) |
+| Pirate Anime Quest: One Girls' Journey, A Piece of Island Love | 345718 | [345718-pirate-anime-quest-one-girls-journey-a-piece-of-island-love.json](./345718-pirate-anime-quest-one-girls-journey-a-piece-of-island-love.json) |
 | Pirate Bash | 60981 | [60981-pirate-bash.json](./60981-pirate-bash.json) |
 | Pirate Blast | 175715 | [175715-pirate-blast.json](./175715-pirate-blast.json) |
 | Pirate Blast | 50956 | [50956-pirate-blast.json](./50956-pirate-blast.json) |
@@ -10485,7 +10490,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Splitters | 102019 | [102019-planet-splitters.json](./102019-planet-splitters.json) |
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
 | Planet Strike | 317767 | [317767-planet-strike.json](./317767-planet-strike.json) |
-| Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
 | Planet Stronghold: Colonial Defense | 19142 | [19142-planet-stronghold-colonial-defense.json](./19142-planet-stronghold-colonial-defense.json) |
 | Planet Suika | 277732 | [277732-planet-suika.json](./277732-planet-suika.json) |
@@ -13777,6 +13781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Pursuit | 211569 | [211569-polygon-pursuit.json](./211569-polygon-pursuit.json) |
 | Polygon Race | 262932 | [262932-polygon-race.json](./262932-polygon-race.json) |
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
+| Polygon Survivors | 342947 | [342947-polygon-survivors.json](./342947-polygon-survivors.json) |
 | Polygon War | 359096 | [359096-polygon-war.json](./359096-polygon-war.json) |
 | Polygon War | 406163 | [406163-polygon-war.json](./406163-polygon-war.json) |
 | Polygon Wars | 331730 | [331730-polygon-wars.json](./331730-polygon-wars.json) |
@@ -14767,6 +14772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portrait of a Torn | 318362 | [318362-portrait-of-a-torn.json](./318362-portrait-of-a-torn.json) |
 | Portrait of an Obsession: A Forgotten Hill Tale | 388675 | [388675-portrait-of-an-obsession-a-forgotten-hill-tale.json](./388675-portrait-of-an-obsession-a-forgotten-hill-tale.json) |
 | Portrait of Ruin: Refined Edition | 233601 | [233601-portrait-of-ruin-refined-edition.json](./233601-portrait-of-ruin-refined-edition.json) |
+| Portrait on Imagined Horizon | 342944 | [342944-portrait-on-imagined-horizon.json](./342944-portrait-on-imagined-horizon.json) |
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
 | Portraits of Doom | 318067 | [318067-portraits-of-doom.json](./318067-portraits-of-doom.json) |
 | Ports of Call Classic | 118769 | [118769-ports-of-call-classic.json](./118769-ports-of-call-classic.json) |
