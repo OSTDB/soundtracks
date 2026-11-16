@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Runner | 58776 | [58776-ocean-runner.json](./58776-ocean-runner.json) |
 | Ocean Scenes | 68538 | [68538-ocean-scenes.json](./68538-ocean-scenes.json) |
 | Ocean Scramble: Age of Exploration | 261863 | [261863-ocean-scramble-age-of-exploration.json](./261863-ocean-scramble-age-of-exploration.json) |
+| Ocean Shark Survival: Float Home Builder Simulator | 411168 | [411168-ocean-shark-survival-float-home-builder-simulator.json](./411168-ocean-shark-survival-float-home-builder-simulator.json) |
 | Ocean Survivors | 332778 | [332778-ocean-survivors.json](./332778-ocean-survivors.json) |
 | Ocean Trader | 71776 | [71776-ocean-trader.json](./71776-ocean-trader.json) |
 | Ocean Tribes | 176174 | [176174-ocean-tribes.json](./176174-ocean-tribes.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ossuarium | 230079 | [230079-ossuarium.json](./230079-ossuarium.json) |
 | Ossuary | 35554 | [35554-ossuary.json](./35554-ossuary.json) |
+| Osta | 411850 | [411850-osta.json](./411850-osta.json) |
 | Ostalgie: Disorder in Yugoslavia | 196151 | [196151-ostalgie-disorder-in-yugoslavia.json](./196151-ostalgie-disorder-in-yugoslavia.json) |
 | Ostalgie: Fall of the Curtain | 174152 | [174152-ostalgie-fall-of-the-curtain.json](./174152-ostalgie-fall-of-the-curtain.json) |
 | Ostalgie: The Berlin Wall | 90250 | [90250-ostalgie-the-berlin-wall.json](./90250-ostalgie-the-berlin-wall.json) |
