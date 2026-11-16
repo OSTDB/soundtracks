@@ -4510,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2024 Edition: Ultimate Edition | 272412 | [272412-just-dance-2024-edition-ultimate-edition.json](./272412-just-dance-2024-edition-ultimate-edition.json) |
 | Just Dance 2025: Deluxe Edition | 320685 | [320685-just-dance-2025-deluxe-edition.json](./320685-just-dance-2025-deluxe-edition.json) |
 | Just Dance 2025: Ultimate Edition | 320686 | [320686-just-dance-2025-ultimate-edition.json](./320686-just-dance-2025-ultimate-edition.json) |
+| Just Dance 2026 Edition | 358527 | [358527-just-dance-2026-edition.json](./358527-just-dance-2026-edition.json) |
 | Just Dance 2026 Edition | 381725 | [381725-just-dance-2026-edition.json](./381725-just-dance-2026-edition.json) |
 | Just Dance 2026 Edition: Deluxe Edition | 373412 | [373412-just-dance-2026-edition-deluxe-edition.json](./373412-just-dance-2026-edition-deluxe-edition.json) |
 | Just Dance 2026 Edition: Ultimate Edition | 373413 | [373413-just-dance-2026-edition-ultimate-edition.json](./373413-just-dance-2026-edition-ultimate-edition.json) |
@@ -4678,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Skill Shooter | 250465 | [250465-just-skill-shooter.json](./250465-just-skill-shooter.json) |
 | Just skill shooter 2 | 285491 | [285491-just-skill-shooter-2.json](./285491-just-skill-shooter-2.json) |
 | Just Skill Shooter 3: 2D Edition | 295890 | [295890-just-skill-shooter-3-2d-edition.json](./295890-just-skill-shooter-3-2d-edition.json) |
+| Just Skill Shooter 4 | 337880 | [337880-just-skill-shooter-4.json](./337880-just-skill-shooter-4.json) |
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
 | Just Sleep - Meditate, Focus, Relax | 119686 | [119686-just-sleep-meditate-focus-relax.json](./119686-just-sleep-meditate-focus-relax.json) |
 | Just Slide | 180616 | [180616-just-slide.json](./180616-just-slide.json) |
