@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
 | Earl Bobby is looking for his Shoes | 93317 | [93317-earl-bobby-is-looking-for-his-shoes.json](./93317-earl-bobby-is-looking-for-his-shoes.json) |
 | Earl Grey | 181711 | [181711-earl-grey.json](./181711-earl-grey.json) |
+| Earl Grey | 217581 | [217581-earl-grey.json](./217581-earl-grey.json) |
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
 | Earl the Tomb Robber | 301451 | [301451-earl-the-tomb-robber.json](./301451-earl-the-tomb-robber.json) |
 | Earl vs. the Mutants | 267803 | [267803-earl-vs-the-mutants.json](./267803-earl-vs-the-mutants.json) |
@@ -8297,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvilMorph | 30333 | [30333-evilmorph.json](./30333-evilmorph.json) |
 | Evilmun | 191298 | [191298-evilmun.json](./191298-evilmun.json) |
 | Evilmun 2 | 187057 | [187057-evilmun-2.json](./187057-evilmun-2.json) |
+| Evilmun Biennial Holiday Editeon | 217575 | [217575-evilmun-biennial-holiday-editeon.json](./217575-evilmun-biennial-holiday-editeon.json) |
 | Evilmun Family | 180196 | [180196-evilmun-family.json](./180196-evilmun-family.json) |
 | Evilmun Family 1.2.1 Forrest Fuss | 264462 | [264462-evilmun-family-1-2-1-forrest-fuss.json](./264462-evilmun-family-1-2-1-forrest-fuss.json) |
 | Evilmun Family 1.3.1 Water Update | 264050 | [264050-evilmun-family-1-3-1-water-update.json](./264050-evilmun-family-1-3-1-water-update.json) |
