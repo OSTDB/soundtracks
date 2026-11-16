@@ -4759,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the river dies | 120250 | [120250-where-the-river-dies.json](./120250-where-the-river-dies.json) |
 | Where The Road Fades | 404196 | [404196-where-the-road-fades.json](./404196-where-the-road-fades.json) |
 | Where the Roots grow | 375383 | [375383-where-the-roots-grow.json](./375383-where-the-roots-grow.json) |
+| Where the Sea Meets the Sky | 249419 | [249419-where-the-sea-meets-the-sky.json](./249419-where-the-sea-meets-the-sky.json) |
 | Where the Seeds Fall | 416123 | [416123-where-the-seeds-fall.json](./416123-where-the-seeds-fall.json) |
 | Where the Sky Is | 366779 | [366779-where-the-sky-is.json](./366779-where-the-sky-is.json) |
 | Where the Snow Settles | 120536 | [120536-where-the-snow-settles.json](./120536-where-the-snow-settles.json) |
@@ -5890,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Terra 2: New Lands - Bard Pack | 263084 | [263084-wild-terra-2-new-lands-bard-pack.json](./263084-wild-terra-2-new-lands-bard-pack.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
 | Wild Terrain | 386423 | [386423-wild-terrain.json](./386423-wild-terrain.json) |
+| Wild Thaw | 249416 | [249416-wild-thaw.json](./249416-wild-thaw.json) |
 | Wild Thing | 382411 | [382411-wild-thing.json](./382411-wild-thing.json) |
 | Wild Things: Animal Adventures | 109496 | [109496-wild-things-animal-adventures.json](./109496-wild-things-animal-adventures.json) |
 | Wild Thornberrys Australian Wildlife Rescue | 225704 | [225704-wild-thornberrys-australian-wildlife-rescue.json](./225704-wild-thornberrys-australian-wildlife-rescue.json) |
@@ -9776,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldShaper Idle | 280099 | [280099-worldshaper-idle.json](./280099-worldshaper-idle.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
 | WorldShift | 21581 | [21581-worldshift.json](./21581-worldshift.json) |
+| Worldship: A Board Game Edition | 249412 | [249412-worldship-a-board-game-edition.json](./249412-worldship-a-board-game-edition.json) |
 | WorldsKeeper | 216822 | [216822-worldskeeper.json](./216822-worldskeeper.json) |
 | Worldsmith | 209441 | [209441-worldsmith.json](./209441-worldsmith.json) |
 | Worldsmith by Charles A. Debczak | 282196 | [282196-worldsmith-by-charles-a-debczak.json](./282196-worldsmith-by-charles-a-debczak.json) |
