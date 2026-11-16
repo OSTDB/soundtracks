@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T11:07:04.588Z",
-  "total_soundtracks": 3475,
+  "generated_at": "2026-11-16T11:21:32.468Z",
+  "total_soundtracks": 3482,
   "games": [
     {
       "igdb_id": 292844,
@@ -11191,6 +11191,20 @@
       ]
     },
     {
+      "igdb_id": 17192,
+      "game_name": "Dungeonmans",
+      "game_url": "https://ostdb.net/games/dungeonmans",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e9d4313f0fc16f906b96e2a8",
+      "albums": [
+        {
+          "album_name": "Dungeonmans Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5cWoY7Flt7x0yuPb5JhjJT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6743,
       "game_name": "Dungeons of Dredmor",
       "game_url": "https://ostdb.net/games/dungeons-of-dredmor",
@@ -18791,6 +18805,20 @@
       ]
     },
     {
+      "igdb_id": 17083,
+      "game_name": "Interplanetary",
+      "game_url": "https://ostdb.net/games/interplanetary",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27341d980c02bad1c334343f88f",
+      "albums": [
+        {
+          "album_name": "Interplanetary (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5CMM812uSvbl3ra78rEUhV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115118,
       "game_name": "Interrogation: You Will Be Deceived",
       "game_url": "https://ostdb.net/games/interrogation-you-will-be-deceived",
@@ -19599,6 +19627,20 @@
         {
           "album_name": "KILL IT WITH FIRE (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1h35mnHuO2Bnx3J5X5sEzP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15745,
+      "game_name": "Kill the Plumber",
+      "game_url": "https://ostdb.net/games/kill-the-plumber",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732a509dde2c0ac7cb178e0824",
+      "albums": [
+        {
+          "album_name": "Kill The Plumber Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2eqSMEKYjoYwWRefJkUHNe",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26245,6 +26287,20 @@
       ]
     },
     {
+      "igdb_id": 17359,
+      "game_name": "Orbital Gear",
+      "game_url": "https://ostdb.net/games/orbital-gear",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b513697b4818e1e7de7f8775",
+      "albums": [
+        {
+          "album_name": "Orbital Gear (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3yOsLsCy9MXpvzVfjbox3V",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 381237,
       "game_name": "Orbitals",
       "game_url": "https://ostdb.net/games/orbitals",
@@ -28217,6 +28273,20 @@
       ]
     },
     {
+      "igdb_id": 16934,
+      "game_name": "Prominence",
+      "game_url": "https://ostdb.net/games/prominence",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f0873065d3146ccaac5f0905",
+      "albums": [
+        {
+          "album_name": "Prominence (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6PjwTFw2Q5Z5NDiU2AnRIg",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 23214,
       "game_name": "Prominence Poker",
       "game_url": "https://ostdb.net/games/prominence-poker",
@@ -29979,6 +30049,20 @@
         {
           "album_name": "Rift of the NecroDancer (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2lyxSRwA3ybUU34pPDrecv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16382,
+      "game_name": "Rigonauts",
+      "game_url": "https://ostdb.net/games/rigonauts",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27397497834ee3902dc2d6dacd6",
+      "albums": [
+        {
+          "album_name": "Rigonauts Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1FYKC1hZAA3D77bvwZZiix",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -39935,6 +40019,20 @@
         {
           "album_name": "Tin Hearts (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3ucOa33N5mdGEIUB9vaC3Q",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18012,
+      "game_name": "Tinertia",
+      "game_url": "https://ostdb.net/games/tinertia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27336ab2bc0df864bd5a3401c78",
+      "albums": [
+        {
+          "album_name": "Tinertia Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6sAI4kikq4o7qWUXbuH0LC",
           "apple_music_url": "",
           "album_link_url": ""
         }
