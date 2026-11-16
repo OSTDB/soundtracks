@@ -7805,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Evolution: Merge and Create Mutant Wild Dogs | 95891 | [95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json](./95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json) |
 | Wolf Fang | 320501 | [320501-wolf-fang.json](./320501-wolf-fang.json) |
 | Wolf Fang: Kuhga 2001 | 377549 | [377549-wolf-fang-kuhga-2001.json](./377549-wolf-fang-kuhga-2001.json) |
+| Wolf Game: The Wild Kingdom | 214074 | [214074-wolf-game-the-wild-kingdom.json](./214074-wolf-game-the-wild-kingdom.json) |
 | Wolf Game: Wild Animal Wars | 232075 | [232075-wolf-game-wild-animal-wars.json](./232075-wolf-game-wild-animal-wars.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
