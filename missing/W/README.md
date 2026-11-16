@@ -6830,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Polaris | 127007 | [127007-winter-polaris.json](./127007-winter-polaris.json) |
 | Winter Polaris: Append Disc teki na no | 359204 | [359204-winter-polaris-append-disc-teki-na-no.json](./359204-winter-polaris-append-disc-teki-na-no.json) |
 | Winter Quackdown | 384285 | [384285-winter-quackdown.json](./384285-winter-quackdown.json) |
+| Winter Resort RPG | 411880 | [411880-winter-resort-rpg.json](./411880-winter-resort-rpg.json) |
 | Winter Resort Simulator | 123362 | [123362-winter-resort-simulator.json](./123362-winter-resort-simulator.json) |
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
 | Winter Resort Simulator Season 2 | 141268 | [141268-winter-resort-simulator-season-2.json](./141268-winter-resort-simulator-season-2.json) |
@@ -8968,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Soccer | 40864 | [40864-world-class-soccer.json](./40864-world-class-soccer.json) |
 | World Class Solitaire HD | 355012 | [355012-world-class-solitaire-hd.json](./355012-world-class-solitaire-hd.json) |
 | World Class Track Meet | 2242 | [2242-world-class-track-meet.json](./2242-world-class-track-meet.json) |
+| World Climate Lab | 411847 | [411847-world-climate-lab.json](./411847-world-climate-lab.json) |
 | World Clock | 90901 | [90901-world-clock.json](./90901-world-clock.json) |
 | World Club Champion Football European Clubs 2004-2005 | 91716 | [91716-world-club-champion-football-european-clubs-2004-2005.json](./91716-world-club-champion-football-european-clubs-2004-2005.json) |
 | World Club Champion Football European Clubs 2005-2006 | 91715 | [91715-world-club-champion-football-european-clubs-2005-2006.json](./91715-world-club-champion-football-european-clubs-2005-2006.json) |
