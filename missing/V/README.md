@@ -2557,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
 | Village Guardians Break | 201400 | [201400-village-guardians-break.json](./201400-village-guardians-break.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
+| Village in the Shade | 358537 | [358537-village-in-the-shade.json](./358537-village-in-the-shade.json) |
 | Village Life: Love & Babies | 38885 | [38885-village-life-love-and-babies.json](./38885-village-life-love-and-babies.json) |
 | Village Life: Love, Marriage and Babies | 259883 | [259883-village-life-love-marriage-and-babies.json](./259883-village-life-love-marriage-and-babies.json) |
 | Village Mayhem | 179550 | [179550-village-mayhem.json](./179550-village-mayhem.json) |
@@ -4276,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyager | 237586 | [237586-voyager.json](./237586-voyager.json) |
 | Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
+| Voyager | 354659 | [354659-voyager.json](./354659-voyager.json) |
 | Voyager | 81545 | [81545-voyager.json](./81545-voyager.json) |
 | Voyager 2 | 212034 | [212034-voyager-2.json](./212034-voyager-2.json) |
 | Voyager Battles | 309314 | [309314-voyager-battles.json](./309314-voyager-battles.json) |
@@ -4668,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vribyss Refuge The Escape | 303981 | [303981-vribyss-refuge-the-escape.json](./303981-vribyss-refuge-the-escape.json) |
 | Vribyss Refuge: Metamorphosis | 372002 | [372002-vribyss-refuge-metamorphosis.json](./372002-vribyss-refuge-metamorphosis.json) |
 | VRiczat - The Virtual Reality Cricket Game | 112785 | [112785-vriczat-the-virtual-reality-cricket-game.json](./112785-vriczat-the-virtual-reality-cricket-game.json) |
+| VRider SBK | 351316 | [351316-vrider-sbk.json](./351316-vrider-sbk.json) |
 | vridniX | 90857 | [90857-vridnix.json](./90857-vridnix.json) |
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
 | VRIQ | 29082 | [29082-vriq.json](./29082-vriq.json) |
