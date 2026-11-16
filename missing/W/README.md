@@ -7796,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Evolution: Merge and Create Mutant Wild Dogs | 95891 | [95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json](./95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json) |
 | Wolf Fang | 320501 | [320501-wolf-fang.json](./320501-wolf-fang.json) |
 | Wolf Fang: Kuhga 2001 | 377549 | [377549-wolf-fang-kuhga-2001.json](./377549-wolf-fang-kuhga-2001.json) |
+| Wolf Game: Wild Animal Wars | 232075 | [232075-wolf-game-wild-animal-wars.json](./232075-wolf-game-wild-animal-wars.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
 | Wolf Girl With You: Full Moon Edition | 229417 | [229417-wolf-girl-with-you-full-moon-edition.json](./229417-wolf-girl-with-you-full-moon-edition.json) |
@@ -8466,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Party | 96133 | [96133-word-party.json](./96133-word-party.json) |
 | Word Path - Word Puzzle Game | 105762 | [105762-word-path-word-puzzle-game.json](./105762-word-path-word-puzzle-game.json) |
 | Word Peaks | 194883 | [194883-word-peaks.json](./194883-word-peaks.json) |
+| Word Peril Free | 232190 | [232190-word-peril-free.json](./232190-word-peril-free.json) |
 | Word Pirate | 64854 | [64854-word-pirate.json](./64854-word-pirate.json) |
 | Word Play | 344825 | [344825-word-play.json](./344825-word-play.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
@@ -8555,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Sylla | 295721 | [295721-word-sylla.json](./295721-word-sylla.json) |
 | Word Symphony | 205882 | [205882-word-symphony.json](./205882-word-symphony.json) |
+| Word Tactics | 232189 | [232189-word-tactics.json](./232189-word-tactics.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
 | Word Tiles by CleverMedia | 106936 | [106936-word-tiles-by-clevermedia.json](./106936-word-tiles-by-clevermedia.json) |
 | Word to Angel | 333049 | [333049-word-to-angel.json](./333049-word-to-angel.json) |
@@ -8751,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsmyth | 191315 | [191315-wordsmyth.json](./191315-wordsmyth.json) |
 | WordsNoir | 388770 | [388770-wordsnoir.json](./388770-wordsnoir.json) |
 | Wordsock Classic | 253431 | [253431-wordsock-classic.json](./253431-wordsock-classic.json) |
+| Wordspie | 232191 | [232191-wordspie.json](./232191-wordspie.json) |
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
 | WordSpiral | 227777 | [227777-wordspiral.json](./227777-wordspiral.json) |
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
