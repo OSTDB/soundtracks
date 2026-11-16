@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy | 247033 | [247033-fancy.json](./247033-fancy.json) |
 | Fancy Birds | 222207 | [222207-fancy-birds.json](./222207-fancy-birds.json) |
 | Fancy Blast | 89028 | [89028-fancy-blast.json](./89028-fancy-blast.json) |
+| Fancy Block Builder | 399312 | [399312-fancy-block-builder.json](./399312-fancy-block-builder.json) |
 | Fancy Cakes: Merge Adventure | 240108 | [240108-fancy-cakes-merge-adventure.json](./240108-fancy-cakes-merge-adventure.json) |
 | Fancy Farm Brawl | 406368 | [406368-fancy-farm-brawl.json](./406368-fancy-farm-brawl.json) |
 | Fancy Fishing VR | 29308 | [29308-fancy-fishing-vr.json](./29308-fancy-fishing-vr.json) |
@@ -4107,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feather Party | 250688 | [250688-feather-party.json](./250688-feather-party.json) |
 | Feather Trace | 428109 | [428109-feather-trace.json](./428109-feather-trace.json) |
 | Feather Trail | 288715 | [288715-feather-trail.json](./288715-feather-trail.json) |
+| Feather's Edge | 399233 | [399233-feathers-edge.json](./399233-feathers-edge.json) |
 | Featherborn | 309743 | [309743-featherborn.json](./309743-featherborn.json) |
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
 | FeatherCall | 271871 | [271871-feathercall.json](./271871-feathercall.json) |
@@ -15627,6 +15629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury's Path: To The Stars | 384299 | [384299-furys-path-to-the-stars.json](./384299-furys-path-to-the-stars.json) |
 | Fury's Sky | 121334 | [121334-furys-sky.json](./121334-furys-sky.json) |
 | Fury3 | 21787 | [21787-fury3.json](./21787-fury3.json) |
+| Furyball: Rogue Revenge | 399307 | [399307-furyball-rogue-revenge.json](./399307-furyball-rogue-revenge.json) |
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fuse | 1828 | [1828-fuse.json](./1828-fuse.json) |
