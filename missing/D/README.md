@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadish 2 | 142986 | [142986-dadish-2.json](./142986-dadish-2.json) |
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
 | Dadish 3D | 294865 | [294865-dadish-3d.json](./294865-dadish-3d.json) |
+| Dadish 4 | 378067 | [378067-dadish-4.json](./378067-dadish-4.json) |
 | Dadish Collection | 312047 | [312047-dadish-collection.json](./312047-dadish-collection.json) |
 | Dadlympics | 265146 | [265146-dadlympics.json](./265146-dadlympics.json) |
 | Dadoo: Twists, Turns, and Mischiefs | 264807 | [264807-dadoo-twists-turns-and-mischiefs.json](./264807-dadoo-twists-turns-and-mischiefs.json) |
@@ -4766,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Stasis | 29213 | [29213-deadly-stasis.json](./29213-deadly-stasis.json) |
 | Deadly Station | 96523 | [96523-deadly-station.json](./96523-deadly-station.json) |
 | Deadly step | 121910 | [121910-deadly-step.json](./121910-deadly-step.json) |
+| Deadly Steps 4: The Showdown | 379288 | [379288-deadly-steps-4-the-showdown.json](./379288-deadly-steps-4-the-showdown.json) |
 | Deadly Stigma | 106532 | [106532-deadly-stigma.json](./106532-deadly-stigma.json) |
 | Deadly Strike | 43604 | [43604-deadly-strike.json](./43604-deadly-strike.json) |
 | Deadly Survival | 277022 | [277022-deadly-survival.json](./277022-deadly-survival.json) |
@@ -5974,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Enigma | 149722 | [149722-deep-enigma.json](./149722-deep-enigma.json) |
 | Deep Enough | 405926 | [405926-deep-enough.json](./405926-deep-enough.json) |
 | Deep Excavation | 168531 | [168531-deep-excavation.json](./168531-deep-excavation.json) |
+| Deep Extraction Inc. | 378109 | [378109-deep-extraction-inc.json](./378109-deep-extraction-inc.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fighter | 8230 | [8230-deep-fighter.json](./8230-deep-fighter.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
@@ -8854,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Kobayashi | 118321 | [118321-detective-kobayashi.json](./118321-detective-kobayashi.json) |
 | Detective Lin: Time Murder Frenzy | 301915 | [301915-detective-lin-time-murder-frenzy.json](./301915-detective-lin-time-murder-frenzy.json) |
 | Detective Luigi | 286424 | [286424-detective-luigi.json](./286424-detective-luigi.json) |
+| Detective Malinowski The Truth Will Be Revealed | 378116 | [378116-detective-malinowski-the-truth-will-be-revealed.json](./378116-detective-malinowski-the-truth-will-be-revealed.json) |
 | Detective Mane | 357365 | [357365-detective-mane.json](./357365-detective-mane.json) |
 | Detective March Forward: The Missing Will | 132268 | [132268-detective-march-forward-the-missing-will.json](./132268-detective-march-forward-the-missing-will.json) |
 | Detective Masochist -The Case of the Femdom Torture- | 127660 | [127660-detective-masochist-the-case-of-the-femdom-torture.json](./127660-detective-masochist-the-case-of-the-femdom-torture.json) |
@@ -9383,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Dex Survival | 168603 | [168603-dex-survival.json](./168603-dex-survival.json) |
+| Dex Vex | 384427 | [384427-dex-vex.json](./384427-dex-vex.json) |
 | Dex: Enhanced Version | 22795 | [22795-dex-enhanced-version.json](./22795-dex-enhanced-version.json) |
 | Dexed | 24932 | [24932-dexed.json](./24932-dexed.json) |
 | Dexfusal | 415056 | [415056-dexfusal.json](./415056-dexfusal.json) |
@@ -10223,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
 | Dig the Ground | 164226 | [164226-dig-the-ground.json](./164226-dig-the-ground.json) |
 | Dig This! | 186434 | [186434-dig-this.json](./186434-dig-this.json) |
+| Dig to China | 384458 | [384458-dig-to-china.json](./384458-dig-to-china.json) |
 | Dig to China Simulator | 381564 | [381564-dig-to-china-simulator.json](./381564-dig-to-china-simulator.json) |
 | Dig to Escape | 422101 | [422101-dig-to-escape.json](./422101-dig-to-escape.json) |
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
@@ -14984,6 +14990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomdark's Revenge | 12992 | [12992-doomdarks-revenge.json](./12992-doomdarks-revenge.json) |
 | Doomdark's Revenge | 197761 | [197761-doomdarks-revenge.json](./197761-doomdarks-revenge.json) |
 | Doomdepths | 248153 | [248153-doomdepths.json](./248153-doomdepths.json) |
+| Doomed Crew | 378113 | [378113-doomed-crew.json](./378113-doomed-crew.json) |
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
 | Doomed Dwarves | 387633 | [387633-doomed-dwarves.json](./387633-doomed-dwarves.json) |
 | Doomed Freedom | 91111 | [91111-doomed-freedom.json](./91111-doomed-freedom.json) |
@@ -15037,7 +15044,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Castle | 14038 | [14038-doomsday-castle.json](./14038-doomsday-castle.json) |
 | Doomsday Cave | 258125 | [258125-doomsday-cave.json](./258125-doomsday-cave.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
-| Doomsday Clicker | 58406 | [58406-doomsday-clicker.json](./58406-doomsday-clicker.json) |
 | Doomsday Comet 2 | 175337 | [175337-doomsday-comet-2.json](./175337-doomsday-comet-2.json) |
 | Doomsday Contact | 219752 | [219752-doomsday-contact.json](./219752-doomsday-contact.json) |
 | Doomsday Dealer | 347769 | [347769-doomsday-dealer.json](./347769-doomsday-dealer.json) |
@@ -18604,6 +18610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Wardens Attack | 170489 | [170489-dresden-files-cooperative-card-game-wardens-attack.json](./170489-dresden-files-cooperative-card-game-wardens-attack.json) |
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
+| Dress An Angel | 378090 | [378090-dress-an-angel.json](./378090-dress-an-angel.json) |
 | Dress Cake | 203584 | [203584-dress-cake.json](./203584-dress-cake.json) |
 | Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
 | Dress Me Up | 109105 | [109105-dress-me-up.json](./109105-dress-me-up.json) |
