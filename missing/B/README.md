@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Girls: Sweet Trouble | 401105 | [401105-bad-girls-sweet-trouble.json](./401105-bad-girls-sweet-trouble.json) |
 | Bad Gobelet | 185233 | [185233-bad-gobelet.json](./185233-bad-gobelet.json) |
 | Bad Government | 55499 | [55499-bad-government.json](./55499-bad-government.json) |
+| Bad Granny Little Thief | 411881 | [411881-bad-granny-little-thief.json](./411881-bad-granny-little-thief.json) |
 | Bad Guy Adventure | 151136 | [151136-bad-guy-adventure.json](./151136-bad-guy-adventure.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Guys at School | 128352 | [128352-bad-guys-at-school.json](./128352-bad-guys-at-school.json) |
@@ -7449,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
 | Bernband | 57850 | [57850-bernband.json](./57850-bernband.json) |
 | Bernd das Brot und die Unmöglichen | 129882 | [129882-bernd-das-brot-und-die-unmoglichen.json](./129882-bernd-das-brot-und-die-unmoglichen.json) |
+| Berney Must Die | 411782 | [411782-berney-must-die.json](./411782-berney-must-die.json) |
 | Bernie Needs Love | 35168 | [35168-bernie-needs-love.json](./35168-bernie-needs-love.json) |
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
@@ -10613,6 +10615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwood | 371847 | [371847-blackwood.json](./371847-blackwood.json) |
 | Blackwood Crossing | 19394 | [19394-blackwood-crossing.json](./19394-blackwood-crossing.json) |
 | Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
+| Blackwood Lodge: The Siblings | 411866 | [411866-blackwood-lodge-the-siblings.json](./411866-blackwood-lodge-the-siblings.json) |
 | Blackwood: A Sétima Safra | 423896 | [423896-blackwood-a-setima-safra.json](./423896-blackwood-a-setima-safra.json) |
 | Blackwood: Beneath the Silence | 365181 | [365181-blackwood-beneath-the-silence.json](./365181-blackwood-beneath-the-silence.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
@@ -14182,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberball | 392144 | [392144-bomberball.json](./392144-bomberball.json) |
 | BomberBoy | 242090 | [242090-bomberboy.json](./242090-bomberboy.json) |
 | BomberCin 2 | 335005 | [335005-bombercin-2.json](./335005-bombercin-2.json) |
+| Bomberful! | 411852 | [411852-bomberful.json](./411852-bomberful.json) |
 | BomberFun | 92978 | [92978-bomberfun.json](./92978-bomberfun.json) |
 | BomberGast | 179383 | [179383-bombergast.json](./179383-bombergast.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
@@ -17678,6 +17682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brie Parmesan Mysteries | 244909 | [244909-brie-parmesan-mysteries.json](./244909-brie-parmesan-mysteries.json) |
 | Brief Battles | 77536 | [77536-brief-battles.json](./77536-brief-battles.json) |
 | Brief Karate Foolish | 30877 | [30877-brief-karate-foolish.json](./30877-brief-karate-foolish.json) |
+| Brief Offerings | 411855 | [411855-brief-offerings.json](./411855-brief-offerings.json) |
 | Briefcase | 391559 | [391559-briefcase.json](./391559-briefcase.json) |
 | Briefcase Inc. | 132310 | [132310-briefcase-inc.json](./132310-briefcase-inc.json) |
 | Brig 12 | 105714 | [105714-brig-12.json](./105714-brig-12.json) |
@@ -17805,6 +17810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Your Eh! Game | 60847 | [60847-bring-your-eh-game.json](./60847-bring-your-eh-game.json) |
 | Bring Your Own Class | 311942 | [311942-bring-your-own-class.json](./311942-bring-your-own-class.json) |
 | Bring Your Own Oxygen | 186216 | [186216-bring-your-own-oxygen.json](./186216-bring-your-own-oxygen.json) |
+| Bringers of Darkness | 411858 | [411858-bringers-of-darkness.json](./411858-bringers-of-darkness.json) |
 | BringIt to MOM | 147577 | [147577-bringit-to-mom.json](./147577-bringit-to-mom.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink | 502 | [502-brink.json](./502-brink.json) |
