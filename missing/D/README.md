@@ -4788,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadnaut: Signal Lost | 207677 | [207677-deadnaut-signal-lost.json](./207677-deadnaut-signal-lost.json) |
 | Deadness | 128167 | [128167-deadness.json](./128167-deadness.json) |
 | DeadNeverStop | 289450 | [289450-deadneverstop.json](./289450-deadneverstop.json) |
+| DeadNot | 397326 | [397326-deadnot.json](./397326-deadnot.json) |
 | Deadolls | 75673 | [75673-deadolls.json](./75673-deadolls.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
 | Deadpact | 407818 | [407818-deadpact.json](./407818-deadpact.json) |
@@ -18121,6 +18122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Anastasia | 299601 | [299601-dream-of-anastasia.json](./299601-dream-of-anastasia.json) |
 | Dream of Bells | 147022 | [147022-dream-of-bells.json](./147022-dream-of-bells.json) |
 | Dream of Echo | 248362 | [248362-dream-of-echo.json](./248362-dream-of-echo.json) |
+| Dream of Eden | 397963 | [397963-dream-of-eden.json](./397963-dream-of-eden.json) |
 | Dream of Gluttony | 130655 | [130655-dream-of-gluttony.json](./130655-dream-of-gluttony.json) |
 | Dream of Grandma | 362224 | [362224-dream-of-grandma.json](./362224-dream-of-grandma.json) |
 | Dream of Hakugyokurou | 159522 | [159522-dream-of-hakugyokurou.json](./159522-dream-of-hakugyokurou.json) |
@@ -19189,6 +19191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droom | 296874 | [296874-droom.json](./296874-droom.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
 | Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
+| Droopy's Casino Corral | 397328 | [397328-droopys-casino-corral.json](./397328-droopys-casino-corral.json) |
 | Droopy's Tennis Open | 6395 | [6395-droopys-tennis-open.json](./6395-droopys-tennis-open.json) |
 | Drop | 301136 | [301136-drop.json](./301136-drop.json) |
 | Drop | 74593 | [74593-drop.json](./74593-drop.json) |
