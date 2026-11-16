@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Sawland | 306564 | [306564-happy-sawland.json](./306564-happy-sawland.json) |
 | Happy Seasons | 98443 | [98443-happy-seasons.json](./98443-happy-seasons.json) |
 | Happy Shape Blast | 241343 | [241343-happy-shape-blast.json](./241343-happy-shape-blast.json) |
+| Happy Sheepies | 294320 | [294320-happy-sheepies.json](./294320-happy-sheepies.json) |
 | Happy Singh Adventures | 43118 | [43118-happy-singh-adventures.json](./43118-happy-singh-adventures.json) |
 | Happy Sisters Life | 354442 | [354442-happy-sisters-life.json](./354442-happy-sisters-life.json) |
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
@@ -4146,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Seeker: The Savior of This Cruel World | 304554 | [304554-heaven-seeker-the-savior-of-this-cruel-world.json](./304554-heaven-seeker-the-savior-of-this-cruel-world.json) |
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
 | Heaven Snakes | 202505 | [202505-heaven-snakes.json](./202505-heaven-snakes.json) |
+| Heaven Stairs | 294328 | [294328-heaven-stairs.json](./294328-heaven-stairs.json) |
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven Studio | 278231 | [278231-heaven-studio.json](./278231-heaven-studio.json) |
 | Heaven Travel | 254255 | [254255-heaven-travel.json](./254255-heaven-travel.json) |
@@ -9667,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitmen Havoc | 222829 | [222829-hitmen-havoc.json](./222829-hitmen-havoc.json) |
 | Hito-Yume | 68141 | [68141-hito-yume.json](./68141-hito-yume.json) |
+| Hitobashira: Human Suika | 294306 | [294306-hitobashira-human-suika.json](./294306-hitobashira-human-suika.json) |
 | Hitogata Happa | 16232 | [16232-hitogata-happa.json](./16232-hitogata-happa.json) |
 | Hitogotchi | 178821 | [178821-hitogotchi.json](./178821-hitogotchi.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
