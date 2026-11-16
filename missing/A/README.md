@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
 | A Kiss For the Petals: Maidens of Michael | 83995 | [83995-a-kiss-for-the-petals-maidens-of-michael.json](./83995-a-kiss-for-the-petals-maidens-of-michael.json) |
 | A Kiss from Death | 154248 | [154248-a-kiss-from-death.json](./154248-a-kiss-from-death.json) |
+| A Kiss from Death | 299065 | [299065-a-kiss-from-death.json](./299065-a-kiss-from-death.json) |
 | A Kiss From Death | 247094 | [247094-a-kiss-from-death.json](./247094-a-kiss-from-death.json) |
 | A Kiss Of Salt Water | 301907 | [301907-a-kiss-of-salt-water.json](./301907-a-kiss-of-salt-water.json) |
 | A Kitchen Sink War | 70524 | [70524-a-kitchen-sink-war.json](./70524-a-kitchen-sink-war.json) |
@@ -6026,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Limit: Eirene's Furnace of War | 378528 | [378528-ai-limit-eirenes-furnace-of-war.json](./378528-ai-limit-eirenes-furnace-of-war.json) |
 | AI Logic | 234442 | [234442-ai-logic.json](./234442-ai-logic.json) |
 | Ai Love | 368272 | [368272-ai-love.json](./368272-ai-love.json) |
+| AI Love My Waifu | 299068 | [299068-ai-love-my-waifu.json](./299068-ai-love-my-waifu.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2000 | 308215 | [308215-ai-mahjong-2000.json](./308215-ai-mahjong-2000.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
@@ -11176,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelic Chaos Re-Boot! | 254480 | [254480-angelic-chaos-re-boot.json](./254480-angelic-chaos-re-boot.json) |
 | Angelic Concert | 69152 | [69152-angelic-concert.json](./69152-angelic-concert.json) |
 | Angelic Force Yuki | 82817 | [82817-angelic-force-yuki.json](./82817-angelic-force-yuki.json) |
+| Angelic Kisses | 299063 | [299063-angelic-kisses.json](./299063-angelic-kisses.json) |
 | Angelic Syndrome | 310601 | [310601-angelic-syndrome.json](./310601-angelic-syndrome.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
 | Angelic Waves | 176886 | [176886-angelic-waves.json](./176886-angelic-waves.json) |
