@@ -1165,7 +1165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Fighters Jet | 8860 | [8860-raiden-fighters-jet.json](./8860-raiden-fighters-jet.json) |
 | Raiden Fighters Jet Remix | 394656 | [394656-raiden-fighters-jet-remix.json](./394656-raiden-fighters-jet-remix.json) |
 | Raiden Fighters Remix | 394652 | [394652-raiden-fighters-remix.json](./394652-raiden-fighters-remix.json) |
-| Raiden Fighters Remix Collection | 393026 | [393026-raiden-fighters-remix-collection.json](./393026-raiden-fighters-remix-collection.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III | 8856 | [8856-raiden-iii.json](./8856-raiden-iii.json) |
 | Raiden III x Mikado Maniax | 225770 | [225770-raiden-iii-x-mikado-maniax.json](./225770-raiden-iii-x-mikado-maniax.json) |
@@ -12812,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rough Ranger | 78369 | [78369-rough-ranger.json](./78369-rough-ranger.json) |
 | Rough Rivals | 323491 | [323491-rough-rivals.json](./323491-rough-rivals.json) |
 | Rough Sketch | 83373 | [83373-rough-sketch.json](./83373-rough-sketch.json) |
+| Rough Souls | 267116 | [267116-rough-souls.json](./267116-rough-souls.json) |
 | Rough Waters Decentralised Tarots | 176810 | [176810-rough-waters-decentralised-tarots.json](./176810-rough-waters-decentralised-tarots.json) |
 | Rough Waves | 309619 | [309619-rough-waves.json](./309619-rough-waves.json) |
 | Roughhousing | 403907 | [403907-roughhousing.json](./403907-roughhousing.json) |
