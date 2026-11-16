@@ -3244,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus | 176684 | [176684-virus.json](./176684-virus.json) |
 | Virus | 212143 | [212143-virus.json](./212143-virus.json) |
 | Virus | 289578 | [289578-virus.json](./289578-virus.json) |
+| Virus 3D | 295174 | [295174-virus-3d.json](./295174-virus-3d.json) |
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | Virus Alert 3D | 320478 | [320478-virus-alert-3d.json](./320478-virus-alert-3d.json) |
 | Virus at Home | 186482 | [186482-virus-at-home.json](./186482-virus-at-home.json) |
@@ -4691,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRKraft | 160143 | [160143-vrkraft.json](./160143-vrkraft.json) |
 | Vrkshop | 137621 | [137621-vrkshop.json](./137621-vrkshop.json) |
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
+| VRLegs | 295726 | [295726-vrlegs.json](./295726-vrlegs.json) |
 | VRLife | 116931 | [116931-vrlife.json](./116931-vrlife.json) |
 | VRNinja | 22041 | [22041-vrninja.json](./22041-vrninja.json) |
 | VRnoid | 154165 | [154165-vrnoid.json](./154165-vrnoid.json) |
