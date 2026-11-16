@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar the Cat | 13985 | [13985-caesar-the-cat.json](./13985-caesar-the-cat.json) |
 | Caesar: Gold Edition | 129480 | [129480-caesar-gold-edition.json](./129480-caesar-gold-edition.json) |
 | Caesar's Palace VIP Series: BlackJack | 206699 | [206699-caesars-palace-vip-series-blackjack.json](./206699-caesars-palace-vip-series-blackjack.json) |
+| Caesar's Revenge | 267035 | [267035-caesars-revenge.json](./267035-caesars-revenge.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
 | Caesar's World of Boxing | 45941 | [45941-caesars-world-of-boxing.json](./45941-caesars-world-of-boxing.json) |
 | Caesar's World of Gambling | 45940 | [45940-caesars-world-of-gambling.json](./45940-caesars-world-of-gambling.json) |
@@ -18096,6 +18097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Halloween | 339329 | [339329-cozy-halloween.json](./339329-cozy-halloween.json) |
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
 | Cozy Harvest | 376458 | [376458-cozy-harvest.json](./376458-cozy-harvest.json) |
+| Cozy Hike | 267118 | [267118-cozy-hike.json](./267118-cozy-hike.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Holiday | 380344 | [380344-cozy-holiday.json](./380344-cozy-holiday.json) |
 | Cozy Home | 386876 | [386876-cozy-home.json](./386876-cozy-home.json) |
@@ -18333,6 +18335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft & Survive | 172296 | [172296-craft-and-survive.json](./172296-craft-and-survive.json) |
 | Craft Away! - Idle Mining Game | 99337 | [99337-craft-away-idle-mining-game.json](./99337-craft-away-idle-mining-game.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
+| Craft Carnage | 267125 | [267125-craft-carnage.json](./267125-craft-carnage.json) |
 | Craft Castle: Knight and Princess | 101130 | [101130-craft-castle-knight-and-princess.json](./101130-craft-castle-knight-and-princess.json) |
 | Craft city | 155771 | [155771-craft-city.json](./155771-craft-city.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
@@ -21100,6 +21103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryorise | 378609 | [378609-cryorise.json](./378609-cryorise.json) |
 | Cryospace | 157747 | [157747-cryospace.json](./157747-cryospace.json) |
 | Cryostasis | 2967 | [2967-cryostasis.json](./2967-cryostasis.json) |
+| Cryoterror | 267027 | [267027-cryoterror.json](./267027-cryoterror.json) |
 | Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
 | Crypchania | 117314 | [117314-crypchania.json](./117314-crypchania.json) |
 | Cryphora | 342288 | [342288-cryphora.json](./342288-cryphora.json) |
@@ -21184,6 +21188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
 | Cryptid Farm | 179817 | [179817-cryptid-farm.json](./179817-cryptid-farm.json) |
 | Cryptid Hunt feat. Mothman | 419997 | [419997-cryptid-hunt-feat-mothman.json](./419997-cryptid-hunt-feat-mothman.json) |
+| Cryptid Hunter | 267123 | [267123-cryptid-hunter.json](./267123-cryptid-hunter.json) |
 | Cryptid Kitchen | 244328 | [244328-cryptid-kitchen.json](./244328-cryptid-kitchen.json) |
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
 | Cryptidate | 181800 | [181800-cryptidate.json](./181800-cryptidate.json) |
@@ -22370,6 +22375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cups and Cats | 181722 | [181722-cups-and-cats.json](./181722-cups-and-cats.json) |
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
 | Curation | 331594 | [331594-curation.json](./331594-curation.json) |
+| Curator | 267115 | [267115-curator.json](./267115-curator.json) |
 | Curatours | 181083 | [181083-curatours.json](./181083-curatours.json) |
 | Curb Hound | 414100 | [414100-curb-hound.json](./414100-curb-hound.json) |
 | Curdle | 382578 | [382578-curdle.json](./382578-curdle.json) |
