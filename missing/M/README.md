@@ -4691,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Amazing Adventure Revitalized | 131860 | [131860-marios-amazing-adventure-revitalized.json](./131860-marios-amazing-adventure-revitalized.json) |
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
 | Mario's Bombs Away | 131938 | [131938-marios-bombs-away.json](./131938-marios-bombs-away.json) |
+| Mario's Bombs Away | 363608 | [363608-marios-bombs-away.json](./363608-marios-bombs-away.json) |
 | Mario's Brewery | 64820 | [64820-marios-brewery.json](./64820-marios-brewery.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
 | Mario's Castle | 240538 | [240538-marios-castle.json](./240538-marios-castle.json) |
@@ -8136,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meer's Occupation | 82690 | [82690-meers-occupation.json](./82690-meers-occupation.json) |
 | Meer's: Escape | 263030 | [263030-meers-escape.json](./263030-meers-escape.json) |
 | Meeri Bliss | 369213 | [369213-meeri-bliss.json](./369213-meeri-bliss.json) |
+| Meerkat Manor: Meerkat Grab-A-Snack | 365016 | [365016-meerkat-manor-meerkat-grab-a-snack.json](./365016-meerkat-manor-meerkat-grab-a-snack.json) |
 | Meerkats | 91535 | [91535-meerkats.json](./91535-meerkats.json) |
 | Meet a Married Woman at a Hot Spring | 273467 | [273467-meet-a-married-woman-at-a-hot-spring.json](./273467-meet-a-married-woman-at-a-hot-spring.json) |
 | Meet Again Bundle | 219047 | [219047-meet-again-bundle.json](./219047-meet-again-bundle.json) |
@@ -11870,6 +11872,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse | 175636 | [175636-mickey-mouse.json](./175636-mickey-mouse.json) |
 | Mickey Mouse | 198817 | [198817-mickey-mouse.json](./198817-mickey-mouse.json) |
 | Mickey Mouse | 200335 | [200335-mickey-mouse.json](./200335-mickey-mouse.json) |
+| Mickey Mouse | 363609 | [363609-mickey-mouse.json](./363609-mickey-mouse.json) |
+| Mickey Mouse | 363611 | [363611-mickey-mouse.json](./363611-mickey-mouse.json) |
 | Mickey Mouse | 367895 | [367895-mickey-mouse.json](./367895-mickey-mouse.json) |
 | Mickey Mouse | 78680 | [78680-mickey-mouse.json](./78680-mickey-mouse.json) |
 | Mickey Mouse Clubhouse | 228442 | [228442-mickey-mouse-clubhouse.json](./228442-mickey-mouse-clubhouse.json) |
@@ -13773,6 +13777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
 | Mindfall | 348142 | [348142-mindfall.json](./348142-mindfall.json) |
 | MindFall | 314360 | [314360-mindfall.json](./314360-mindfall.json) |
+| Mindfall: Song of the Echo | 363599 | [363599-mindfall-song-of-the-echo.json](./363599-mindfall-song-of-the-echo.json) |
 | Mindfate | 319064 | [319064-mindfate.json](./319064-mindfate.json) |
 | MindFeud | 84611 | [84611-mindfeud.json](./84611-mindfeud.json) |
 | Mindfield | 266449 | [266449-mindfield.json](./266449-mindfield.json) |
@@ -14201,6 +14206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
 | MineMogul | 357512 | [357512-minemogul.json](./357512-minemogul.json) |
 | Minepull | 186554 | [186554-minepull.json](./186554-minepull.json) |
+| MinePuzzle5020 | 363587 | [363587-minepuzzle5020.json](./363587-minepuzzle5020.json) |
 | Miner | 113273 | [113273-miner.json](./113273-miner.json) |
 | Miner | 345934 | [345934-miner.json](./345934-miner.json) |
 | Miner 2000er | 80078 | [80078-miner-2000er.json](./80078-miner-2000er.json) |
@@ -17321,6 +17327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monken Crusher | 135445 | [135445-monken-crusher.json](./135445-monken-crusher.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
+| Monkey | 363612 | [363612-monkey.json](./363612-monkey.json) |
 | Monkey Academy | 40886 | [40886-monkey-academy.json](./40886-monkey-academy.json) |
 | Monkey Adventure | 201542 | [201542-monkey-adventure.json](./201542-monkey-adventure.json) |
 | Monkey Ball | 40105 | [40105-monkey-ball.json](./40105-monkey-ball.json) |
@@ -17367,6 +17374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Island Zero | 324221 | [324221-monkey-island-zero.json](./324221-monkey-island-zero.json) |
 | Monkey Island: Carnaval Vudu | 324224 | [324224-monkey-island-carnaval-vudu.json](./324224-monkey-island-carnaval-vudu.json) |
 | Monkey Island: Carnival of the Damned | 324226 | [324226-monkey-island-carnival-of-the-damned.json](./324226-monkey-island-carnival-of-the-damned.json) |
+| Monkey Jump | 363613 | [363613-monkey-jump.json](./363613-monkey-jump.json) |
 | Monkey Jump | 373884 | [373884-monkey-jump.json](./373884-monkey-jump.json) |
 | Monkey Kick Off | 253792 | [253792-monkey-kick-off.json](./253792-monkey-kick-off.json) |
 | Monkey King | 287535 | [287535-monkey-king.json](./287535-monkey-king.json) |
@@ -20259,6 +20267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
 | Motor City Turf Wars | 426058 | [426058-motor-city-turf-wars.json](./426058-motor-city-turf-wars.json) |
 | Motor Cross | 305466 | [305466-motor-cross.json](./305466-motor-cross.json) |
+| Motor Cross | 363615 | [363615-motor-cross.json](./363615-motor-cross.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
 | Motor Depot | 336875 | [336875-motor-depot.json](./336875-motor-depot.json) |
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
@@ -20758,6 +20767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mówùniáng Wùyǔ | 100540 | [100540-mowuniang-wuyu.json](./100540-mowuniang-wuyu.json) |
 | Mowy Lawn | 92096 | [92096-mowy-lawn.json](./92096-mowy-lawn.json) |
 | Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
+| Moxie | 363591 | [363591-moxie.json](./363591-moxie.json) |
 | Moxie // Graffiti Burst | 422457 | [422457-moxie-graffiti-burst.json](./422457-moxie-graffiti-burst.json) |
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moxie 2 // Overdrive | 422460 | [422460-moxie-2-overdrive.json](./422460-moxie-2-overdrive.json) |
