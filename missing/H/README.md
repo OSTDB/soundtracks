@@ -11862,6 +11862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Kakera Satsuji-jiken | 266163 | [266163-hoshi-no-kakera-satsuji-jiken.json](./266163-hoshi-no-kakera-satsuji-jiken.json) |
 | Hoshi no Mahoroba | 204481 | [204481-hoshi-no-mahoroba.json](./204481-hoshi-no-mahoroba.json) |
 | Hoshi no Meiling | 294655 | [294655-hoshi-no-meiling.json](./294655-hoshi-no-meiling.json) |
+| Hoshi no nai Sora no Shita de | 262638 | [262638-hoshi-no-nai-sora-no-shita-de.json](./262638-hoshi-no-nai-sora-no-shita-de.json) |
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
 | Hoshi no Oka Gakuen Monogatari: Gakuensai | 325183 | [325183-hoshi-no-oka-gakuen-monogatari-gakuensai.json](./325183-hoshi-no-oka-gakuen-monogatari-gakuensai.json) |
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
