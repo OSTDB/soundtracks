@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Capital Commute | 308834 | [308834-urban-flow-capital-commute.json](./308834-urban-flow-capital-commute.json) |
 | Urban Flow: Combo Edition | 328809 | [328809-urban-flow-combo-edition.json](./328809-urban-flow-combo-edition.json) |
 | Urban Flow: Complete Edition | 240226 | [240226-urban-flow-complete-edition.json](./240226-urban-flow-complete-edition.json) |
+| Urban Flow: Comprehensive Edition | 396144 | [396144-urban-flow-comprehensive-edition.json](./396144-urban-flow-comprehensive-edition.json) |
 | Urban Flow: Deluxe Edition | 240405 | [240405-urban-flow-deluxe-edition.json](./240405-urban-flow-deluxe-edition.json) |
 | Urban Flow: Diamond Edition | 273302 | [273302-urban-flow-diamond-edition.json](./273302-urban-flow-diamond-edition.json) |
 | Urban Flow: Elite Edition | 268544 | [268544-urban-flow-elite-edition.json](./268544-urban-flow-elite-edition.json) |
