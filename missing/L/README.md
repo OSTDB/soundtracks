@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
 | Lethal Enforcers I & II | 77250 | [77250-lethal-enforcers-i-and-ii.json](./77250-lethal-enforcers-i-and-ii.json) |
 | Lethal Enforcers II: Gun Fighters | 5398 | [5398-lethal-enforcers-ii-gun-fighters.json](./5398-lethal-enforcers-ii-gun-fighters.json) |
+| Lethal Engagements | 299036 | [299036-lethal-engagements.json](./299036-lethal-engagements.json) |
 | Lethal Gamble 1 Werewolf Puzzle | 170278 | [170278-lethal-gamble-1-werewolf-puzzle.json](./170278-lethal-gamble-1-werewolf-puzzle.json) |
 | Lethal Ghosts | 405777 | [405777-lethal-ghosts.json](./405777-lethal-ghosts.json) |
 | Lethal Honor: Order of the Apocalypse | 161495 | [161495-lethal-honor-order-of-the-apocalypse.json](./161495-lethal-honor-order-of-the-apocalypse.json) |
@@ -10370,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loya Online | 124450 | [124450-loya-online.json](./124450-loya-online.json) |
 | Loyalty | 419776 | [419776-loyalty.json](./419776-loyalty.json) |
 | Loyalty and Blood: Viktor Origins | 89774 | [89774-loyalty-and-blood-viktor-origins.json](./89774-loyalty-and-blood-viktor-origins.json) |
+| Loyalty for Love | 299066 | [299066-loyalty-for-love.json](./299066-loyalty-for-love.json) |
 | LoYuno | 251946 | [251946-loyuno.json](./251946-loyuno.json) |
 | Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
 | LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
