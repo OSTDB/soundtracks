@@ -12998,7 +12998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Katydids Incident | 203675 | [203675-the-katydids-incident.json](./203675-the-katydids-incident.json) |
 | The Kebab House: Cooking Simulator | 362175 | [362175-the-kebab-house-cooking-simulator.json](./362175-the-kebab-house-cooking-simulator.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
-| The Keep | 36254 | [36254-the-keep.json](./36254-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
 | The Keeper | 26155 | [26155-the-keeper.json](./26155-the-keeper.json) |
 | The Keeper of 4 Elements | 26237 | [26237-the-keeper-of-4-elements.json](./26237-the-keeper-of-4-elements.json) |
@@ -30821,6 +30820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerspell | 252514 | [252514-towerspell.json](./252514-towerspell.json) |
 | Towertale | 112938 | [112938-towertale.json](./112938-towertale.json) |
 | Towertower | 424616 | [424616-towertower.json](./424616-towertower.json) |
+| TowerUp: Breakout | 360809 | [360809-towerup-breakout.json](./360809-towerup-breakout.json) |
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
@@ -35382,6 +35382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
 | Trolley Problem, Inc. | 159793 | [159793-trolley-problem-inc.json](./159793-trolley-problem-inc.json) |
 | Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
+| Trolley Time | 360807 | [360807-trolley-time.json](./360807-trolley-time.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trollface Quest | 195448 | [195448-trollface-quest.json](./195448-trollface-quest.json) |
 | Trollface Quest 13 | 257816 | [257816-trollface-quest-13.json](./257816-trollface-quest-13.json) |
