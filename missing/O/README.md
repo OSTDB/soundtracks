@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Neighbor | 95869 | [95869-ominous-neighbor.json](./95869-ominous-neighbor.json) |
 | Ominous Objects: Family Portrait | 139095 | [139095-ominous-objects-family-portrait.json](./139095-ominous-objects-family-portrait.json) |
 | Ominous Objects: Family Portrait - Collector's Edition | 29382 | [29382-ominous-objects-family-portrait-collectors-edition.json](./29382-ominous-objects-family-portrait-collectors-edition.json) |
+| Ominous Objects: Lumina Camera - Collector's Edition | 416413 | [416413-ominous-objects-lumina-camera-collectors-edition.json](./416413-ominous-objects-lumina-camera-collectors-edition.json) |
 | Ominous Objects: Lumina Camera HD | 106645 | [106645-ominous-objects-lumina-camera-hd.json](./106645-ominous-objects-lumina-camera-hd.json) |
 | Ominous Objects: Phantom Reflection | 139096 | [139096-ominous-objects-phantom-reflection.json](./139096-ominous-objects-phantom-reflection.json) |
 | Ominous Objects: Phantom Reflection - Collector's Edition | 74245 | [74245-ominous-objects-phantom-reflection-collectors-edition.json](./74245-ominous-objects-phantom-reflection-collectors-edition.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Ever After | 111467 | [111467-once-ever-after.json](./111467-once-ever-after.json) |
 | Once First-Person Adventure | 277633 | [277633-once-first-person-adventure.json](./277633-once-first-person-adventure.json) |
 | Once Heroes | 110031 | [110031-once-heroes.json](./110031-once-heroes.json) |
+| Once Human: Isles of Abyss | 418499 | [418499-once-human-isles-of-abyss.json](./418499-once-human-isles-of-abyss.json) |
 | Once in a Blue Moon | 226163 | [226163-once-in-a-blue-moon.json](./226163-once-in-a-blue-moon.json) |
 | Once in a Lifetime | 209627 | [209627-once-in-a-lifetime.json](./209627-once-in-a-lifetime.json) |
 | Once in Flowerlake | 190188 | [190188-once-in-flowerlake.json](./190188-once-in-flowerlake.json) |
