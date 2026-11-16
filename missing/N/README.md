@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Nuker | 75830 | [75830-nebula-nuker.json](./75830-nebula-nuker.json) |
 | Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
 | Nebula Realms | 99527 | [99527-nebula-realms.json](./99527-nebula-realms.json) |
+| Nebula Strike | 318097 | [318097-nebula-strike.json](./318097-nebula-strike.json) |
 | Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
 | Nebula Within | 137871 | [137871-nebula-within.json](./137871-nebula-within.json) |
 | Nebula: Sole Survivor | 58949 | [58949-nebula-sole-survivor.json](./58949-nebula-sole-survivor.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetStorm: Islands At War | 1358 | [1358-netstorm-islands-at-war.json](./1358-netstorm-islands-at-war.json) |
 | Netsu Chu! Pro Yakyuu 2002 | 403523 | [403523-netsu-chu-pro-yakyuu-2002.json](./403523-netsu-chu-pro-yakyuu-2002.json) |
 | Nettai Teikiatsu Shoujo | 276895 | [276895-nettai-teikiatsu-shoujo.json](./276895-nettai-teikiatsu-shoujo.json) |
+| Nettle | 319267 | [319267-nettle.json](./319267-nettle.json) |
 | Nettle Slasher | 363139 | [363139-nettle-slasher.json](./363139-nettle-slasher.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
@@ -3638,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Gangster Crime | 219771 | [219771-new-gangster-crime.json](./219771-new-gangster-crime.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
+| New Ghostbusters II Plus | 320511 | [320511-new-ghostbusters-ii-plus.json](./320511-new-ghostbusters-ii-plus.json) |
 | New Giant Business | 119609 | [119609-new-giant-business.json](./119609-new-giant-business.json) |
 | New Gunbound | 132534 | [132534-new-gunbound.json](./132534-new-gunbound.json) |
 | New Gundam Breaker | 82116 | [82116-new-gundam-breaker.json](./82116-new-gundam-breaker.json) |
@@ -4138,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nezha Legend | 334308 | [334308-nezha-legend.json](./334308-nezha-legend.json) |
 | Nezori | 350314 | [350314-nezori.json](./350314-nezori.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
+| Nezumidash | 328692 | [328692-nezumidash.json](./328692-nezumidash.json) |
 | NFBL: National Fantasy Basketball League | 244519 | [244519-nfbl-national-fantasy-basketball-league.json](./244519-nfbl-national-fantasy-basketball-league.json) |
 | NFK: Santa's Gone Postal | 50342 | [50342-nfk-santas-gone-postal.json](./50342-nfk-santas-gone-postal.json) |
 | NFL '95 | 127140 | [127140-nfl-95.json](./127140-nfl-95.json) |
@@ -4238,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFSCO | 382828 | [382828-nfsco.json](./382828-nfsco.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | NFUT Cards | 178283 | [178283-nfut-cards.json](./178283-nfut-cards.json) |
+| NGE: VR | 320500 | [320500-nge-vr.json](./320500-nge-vr.json) |
 | NGen Racing | 92727 | [92727-ngen-racing.json](./92727-ngen-racing.json) |
 | Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
 | NGL Biathlon 2026 | 178185 | [178185-ngl-biathlon-2026.json](./178185-ngl-biathlon-2026.json) |
@@ -5526,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
 | Nimian Legends: Vandgels | 121832 | [121832-nimian-legends-vandgels.json](./121832-nimian-legends-vandgels.json) |
 | Nimillion: The Last Expedition | 296478 | [296478-nimillion-the-last-expedition.json](./296478-nimillion-the-last-expedition.json) |
+| Nimokion | 328691 | [328691-nimokion.json](./328691-nimokion.json) |
 | Nimoyd | 152104 | [152104-nimoyd.json](./152104-nimoyd.json) |
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
 | Nimrods | 249914 | [249914-nimrods.json](./249914-nimrods.json) |
@@ -6024,8 +6030,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjin: Clash of Carrots | 60534 | [60534-ninjin-clash-of-carrots.json](./60534-ninjin-clash-of-carrots.json) |
 | Ninjish Guy in Low-Res World | 269163 | [269163-ninjish-guy-in-low-res-world.json](./269163-ninjish-guy-in-low-res-world.json) |
 | Ninjora Echoes | 391120 | [391120-ninjora-echoes.json](./391120-ninjora-echoes.json) |
+| NinJump | 324042 | [324042-ninjump.json](./324042-ninjump.json) |
 | NinJump Dash | 60073 | [60073-ninjump-dash.json](./60073-ninjump-dash.json) |
 | NinJump Deluxe | 87313 | [87313-ninjump-deluxe.json](./87313-ninjump-deluxe.json) |
+| NinJump Rooftops | 324043 | [324043-ninjump-rooftops.json](./324043-ninjump-rooftops.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninjurate | 290639 | [290639-ninjurate.json](./290639-ninjurate.json) |
 | Ninki Seiyuu no Tsukurikata: Limited Edition | 167153 | [167153-ninki-seiyuu-no-tsukurikata-limited-edition.json](./167153-ninki-seiyuu-no-tsukurikata-limited-edition.json) |
@@ -6648,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Return Address | 412207 | [412207-no-return-address.json](./412207-no-return-address.json) |
 | No Road to Peak: Together | 358988 | [358988-no-road-to-peak-together.json](./358988-no-road-to-peak-together.json) |
 | No Roads: 4×4 Off-Road Challenge | 379723 | [379723-no-roads-4-4-off-road-challenge.json](./379723-no-roads-4-4-off-road-challenge.json) |
+| No Robots Allowed | 324046 | [324046-no-robots-allowed.json](./324046-no-robots-allowed.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
 | No Rules: Get Phat | 6525 | [6525-no-rules-get-phat.json](./6525-no-rules-get-phat.json) |
 | No Rush | 25533 | [25533-no-rush.json](./25533-no-rush.json) |
