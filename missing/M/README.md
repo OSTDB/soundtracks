@@ -23714,6 +23714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Roguelike | 179305 | [179305-my-little-roguelike.json](./179305-my-little-roguelike.json) |
 | My Little RPG Shop | 298650 | [298650-my-little-rpg-shop.json](./298650-my-little-rpg-shop.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
+| My Little Sister Fiona | 224734 | [224734-my-little-sister-fiona.json](./224734-my-little-sister-fiona.json) |
 | My Little Sister's Special Place | 253712 | [253712-my-little-sisters-special-place.json](./253712-my-little-sisters-special-place.json) |
 | My Little Spider | 374616 | [374616-my-little-spider.json](./374616-my-little-spider.json) |
 | My Little Universe + God of Light Remastered Bundle | 309060 | [309060-my-little-universe-god-of-light-remastered-bundle.json](./309060-my-little-universe-god-of-light-remastered-bundle.json) |
@@ -24201,7 +24202,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Evershine | 316012 | [316012-my-time-at-evershine.json](./316012-my-time-at-evershine.json) |
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Portia: Housewarming Gift Set | 300930 | [300930-my-time-at-portia-housewarming-gift-set.json](./300930-my-time-at-portia-housewarming-gift-set.json) |
+| My Time at Portia: NPC Attire Package | 223726 | [223726-my-time-at-portia-npc-attire-package.json](./223726-my-time-at-portia-npc-attire-package.json) |
 | My Time at Portia: NPC Eveningwear Package | 223727 | [223727-my-time-at-portia-npc-eveningwear-package.json](./223727-my-time-at-portia-npc-eveningwear-package.json) |
+| My Time at Portia: Player Attire Package | 223725 | [223725-my-time-at-portia-player-attire-package.json](./223725-my-time-at-portia-player-attire-package.json) |
 | My Time At Portia: Player Costume Package | 294956 | [294956-my-time-at-portia-player-costume-package.json](./294956-my-time-at-portia-player-costume-package.json) |
 | My Time At Portia: Swimwear | 402952 | [402952-my-time-at-portia-swimwear.json](./402952-my-time-at-portia-swimwear.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
