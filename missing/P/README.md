@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Mania HD | 98859 | [98859-parking-mania-hd.json](./98859-parking-mania-hd.json) |
 | Parking Master | 333087 | [333087-parking-master.json](./333087-parking-master.json) |
 | Parking Master Multiplayer | 198263 | [198263-parking-master-multiplayer.json](./198263-parking-master-multiplayer.json) |
+| Parking Master Multiplayer 2 | 222576 | [222576-parking-master-multiplayer-2.json](./222576-parking-master-multiplayer-2.json) |
 | Parking Masters | 313135 | [313135-parking-masters.json](./313135-parking-masters.json) |
 | Parking Masters: Big Rig | 313232 | [313232-parking-masters-big-rig.json](./313232-parking-masters-big-rig.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
@@ -17425,6 +17426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton and the Last Specter | 1400 | [1400-professor-layton-and-the-last-specter.json](./1400-professor-layton-and-the-last-specter.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
+| Professor Layton and the Miracle Mask Plus | 222436 | [222436-professor-layton-and-the-miracle-mask-plus.json](./222436-professor-layton-and-the-miracle-mask-plus.json) |
 | Professor Layton and the New World of Steam | 236665 | [236665-professor-layton-and-the-new-world-of-steam.json](./236665-professor-layton-and-the-new-world-of-steam.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
 | Professor Layton and the Turnabout of the Golden Witch | 303037 | [303037-professor-layton-and-the-turnabout-of-the-golden-witch.json](./303037-professor-layton-and-the-turnabout-of-the-golden-witch.json) |
