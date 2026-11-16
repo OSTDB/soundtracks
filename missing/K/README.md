@@ -4237,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
 | Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
+| Kioku: Last Summer | 357491 | [357491-kioku-last-summer.json](./357491-kioku-last-summer.json) |
 | Kiomet | 358225 | [358225-kiomet.json](./358225-kiomet.json) |
 | Kiopioke! | 286369 | [286369-kiopioke.json](./286369-kiopioke.json) |
 | Kiosk 199X | 390332 | [390332-kiosk-199x.json](./390332-kiosk-199x.json) |
@@ -6086,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KooZac | 65050 | [65050-koozac.json](./65050-koozac.json) |
 | Kopanito All-Stars Soccer | 25962 | [25962-kopanito-all-stars-soccer.json](./25962-kopanito-all-stars-soccer.json) |
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
+| Kopi | 351307 | [351307-kopi.json](./351307-kopi.json) |
 | KopiCat | 364237 | [364237-kopicat.json](./364237-kopicat.json) |
 | Koppotate's Rescue Mission | 294581 | [294581-koppotates-rescue-mission.json](./294581-koppotates-rescue-mission.json) |
 | Koppotate's Rescue Mission 2: The Path to Eradication | 313367 | [313367-koppotates-rescue-mission-2-the-path-to-eradication.json](./313367-koppotates-rescue-mission-2-the-path-to-eradication.json) |
@@ -6921,6 +6923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio's Dodgeball Time, C'mon Guys! | 42516 | [42516-kunios-dodgeball-time-cmon-guys.json](./42516-kunios-dodgeball-time-cmon-guys.json) |
 | Kunio's Oden | 42343 | [42343-kunios-oden.json](./42343-kunios-oden.json) |
 | Kunitori Zunou Battle: Nobunaga no Yabou | 69286 | [69286-kunitori-zunou-battle-nobunaga-no-yabou.json](./69286-kunitori-zunou-battle-nobunaga-no-yabou.json) |
+| Kunitsu-Gami: Otherworldly Venture | 351305 | [351305-kunitsu-gami-otherworldly-venture.json](./351305-kunitsu-gami-otherworldly-venture.json) |
 | KuniTure | 126700 | [126700-kuniture.json](./126700-kuniture.json) |
 | Kunkun Battles | 292244 | [292244-kunkun-battles.json](./292244-kunkun-battles.json) |
 | KunKun Defender | 298127 | [298127-kunkun-defender.json](./298127-kunkun-defender.json) |
