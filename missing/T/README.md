@@ -12105,6 +12105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
 | The Horror of Salazar House | 136521 | [136521-the-horror-of-salazar-house.json](./136521-the-horror-of-salazar-house.json) |
 | The Horror of Secret Experiments | 238798 | [238798-the-horror-of-secret-experiments.json](./238798-the-horror-of-secret-experiments.json) |
+| The Horror Story: Rebirth | 367859 | [367859-the-horror-story-rebirth.json](./367859-the-horror-story-rebirth.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
 | The Horrors at Castle Wülhein | 339197 | [339197-the-horrors-at-castle-wulhein.json](./339197-the-horrors-at-castle-wulhein.json) |
 | The Horrors of the Soviet Apartment | 342276 | [342276-the-horrors-of-the-soviet-apartment.json](./342276-the-horrors-of-the-soviet-apartment.json) |
@@ -29679,6 +29680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Maze | 302000 | [302000-touch-maze.json](./302000-touch-maze.json) |
 | Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
 | Touch Me | 230880 | [230880-touch-me.json](./230880-touch-me.json) |
+| Touch Me | 367873 | [367873-touch-me.json](./367873-touch-me.json) |
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
 | Touch Me2 | 274280 | [274280-touch-me2.json](./274280-touch-me2.json) |
 | Touch Mechanic | 21188 | [21188-touch-mechanic.json](./21188-touch-mechanic.json) |
@@ -36077,6 +36079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tryst: Premium Edition | 53952 | [53952-tryst-premium-edition.json](./53952-tryst-premium-edition.json) |
 | Trytka | 351536 | [351536-trytka.json](./351536-trytka.json) |
 | TryToAct | 418866 | [418866-trytoact.json](./418866-trytoact.json) |
+| Tryü Sora: Space Shooter | 367857 | [367857-tryu-sora-space-shooter.json](./367857-tryu-sora-space-shooter.json) |
 | TS Academy: I Became A JK But, I'm Still An Honors Student | 83687 | [83687-ts-academy-i-became-a-jk-but-im-still-an-honors-student.json](./83687-ts-academy-i-became-a-jk-but-im-still-an-honors-student.json) |
 | Ts Fantasy | 192247 | [192247-ts-fantasy.json](./192247-ts-fantasy.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
