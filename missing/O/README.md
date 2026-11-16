@@ -4315,7 +4315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Drift | 403954 | [403954-orbital-drift.json](./403954-orbital-drift.json) |
 | Orbital Drop Shipping | 257919 | [257919-orbital-drop-shipping.json](./257919-orbital-drop-shipping.json) |
 | Orbital Frenzy | 376452 | [376452-orbital-frenzy.json](./376452-orbital-frenzy.json) |
-| Orbital Gear | 17359 | [17359-orbital-gear.json](./17359-orbital-gear.json) |
 | Orbital HD | 175574 | [175574-orbital-hd.json](./175574-orbital-hd.json) |
 | Orbital Hell | 419826 | [419826-orbital-hell.json](./419826-orbital-hell.json) |
 | Orbital Injection | 29555 | [29555-orbital-injection.json](./29555-orbital-injection.json) |
