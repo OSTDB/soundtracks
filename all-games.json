@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T09:57:17.999Z",
-  "total_soundtracks": 3442,
+  "generated_at": "2026-11-16T10:11:45.722Z",
+  "total_soundtracks": 3450,
   "games": [
     {
       "igdb_id": 292844,
@@ -235,6 +235,20 @@
         {
           "album_name": "7th Sector (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4u8EPfPA7JQL5of6D2cRY2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 33641,
+      "game_name": "A Blind Legend",
+      "game_url": "https://ostdb.net/games/a-blind-legend",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dc69db7e50ad3c61af6ce700",
+      "albums": [
+        {
+          "album_name": "A Blind Legend (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7clBRLqropxEOFTNhy7LDb",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4695,6 +4709,20 @@
       ]
     },
     {
+      "igdb_id": 32672,
+      "game_name": "Blind Trust",
+      "game_url": "https://ostdb.net/games/blind-trust",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732de0f7f455579de31f7daf59",
+      "albums": [
+        {
+          "album_name": "Blind Trust (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/72AkBWMoVSY5so4IPkeJCS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 18339,
       "game_name": "Block'hood",
       "game_url": "https://ostdb.net/games/blockhood",
@@ -4951,6 +4979,20 @@
         {
           "album_name": "Bodycam (Official Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5QlIkL0n8DCBq785usYFrM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 32983,
+      "game_name": "Boiling Bolt",
+      "game_url": "https://ostdb.net/games/boiling-bolt",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273df332c5e3eb24f239434d4e9",
+      "albums": [
+        {
+          "album_name": "Boiling Bolt (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1g8OcwNyfJTIGP4V7wBXlO",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -7289,6 +7331,20 @@
       ]
     },
     {
+      "igdb_id": 28927,
+      "game_name": "Compound",
+      "game_url": "https://ostdb.net/games/compound",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736d6bf68b22a9e817b2979b53",
+      "albums": [
+        {
+          "album_name": "COMPOUND (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/40r2opmUj6XJdSDSCXj6uC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 16999,
       "game_name": "Conan Exiles",
       "game_url": "https://ostdb.net/games/conan-exiles",
@@ -8963,6 +9019,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/death-howl-original-game-soundtrack/1858185421?uo=4",
           "album_link_url": "https://album.link/i/1858185421"
+        }
+      ]
+    },
+    {
+      "igdb_id": 33462,
+      "game_name": "Death Stair",
+      "game_url": "https://ostdb.net/games/death-stair",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273445b55fe27b428177f61cd75",
+      "albums": [
+        {
+          "album_name": "Death Stair (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4k9KvDz5muqjSZaX1EHGS2",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -13921,6 +13991,20 @@
         {
           "album_name": "Forgotton Anne (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2b4nCpd33o7vgmJeiLSO8f",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28446,
+      "game_name": "Form",
+      "game_url": "https://ostdb.net/games/form",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273712ba799a91e30377b2bd192",
+      "albums": [
+        {
+          "album_name": "Form (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0XQmafCHTHAJdBNzJP13Fe",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27091,6 +27175,20 @@
       ]
     },
     {
+      "igdb_id": 29839,
+      "game_name": "Pixel Ripped 1989",
+      "game_url": "https://ostdb.net/games/pixel-ripped-1989",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27355107a0673467ac68f5569ef",
+      "albums": [
+        {
+          "album_name": "Pixel Ripped 1989 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2SJDyvdZTgwLsIzkqowPrl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119336,
       "game_name": "Pixel Ripped 1995",
       "game_url": "https://ostdb.net/games/pixel-ripped-1995",
@@ -37599,6 +37697,20 @@
         {
           "album_name": "The Henry Stickmin Collection (Soundtrack, Ockeroid Edition)",
           "spotify_url": "https://open.spotify.com/album/3Fjilv525yi9VkIsTZBnoD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 30942,
+      "game_name": "The Herbalist",
+      "game_url": "https://ostdb.net/games/the-herbalist",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738685c5582b372cbf91c6b925",
+      "albums": [
+        {
+          "album_name": "The Herbalist (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0yEH8dYTLK4BtlKThfL0uS",
           "apple_music_url": "",
           "album_link_url": ""
         }
