@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
 | Scale the Depths | 341134 | [341134-scale-the-depths.json](./341134-scale-the-depths.json) |
 | Scale the Depths | 403754 | [403754-scale-the-depths.json](./403754-scale-the-depths.json) |
+| Scale: Rise of Dragons | 337888 | [337888-scale-rise-of-dragons.json](./337888-scale-rise-of-dragons.json) |
 | Scale2fit | 390834 | [390834-scale2fit.json](./390834-scale2fit.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
@@ -9216,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Sweet | 347830 | [347830-shiba-sweet.json](./347830-shiba-sweet.json) |
 | Shiba Wars | 397913 | [397913-shiba-wars.json](./397913-shiba-wars.json) |
 | Shibadungeon | 187692 | [187692-shibadungeon.json](./187692-shibadungeon.json) |
+| Shibai Michi | 337895 | [337895-shibai-michi.json](./337895-shibai-michi.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shibogami | 412894 | [412894-shibogami.json](./412894-shibogami.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
@@ -13911,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skidz | 15369 | [15369-skidz.json](./15369-skidz.json) |
 | Skidz | 98828 | [98828-skidz.json](./98828-skidz.json) |
 | Skiers Landing | 363115 | [363115-skiers-landing.json](./363115-skiers-landing.json) |
+| Skies | 337858 | [337858-skies.json](./337858-skies.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
 | Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
@@ -32267,6 +32270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Pack | 409514 | [409514-strike-pack.json](./409514-strike-pack.json) |
 | Strike Point | 44964 | [44964-strike-point.json](./44964-strike-point.json) |
 | Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
+| Strike Protocol | 337872 | [337872-strike-protocol.json](./337872-strike-protocol.json) |
 | Strike Rush | 293376 | [293376-strike-rush.json](./293376-strike-rush.json) |
 | Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
 | Strike Solitaire | 54406 | [54406-strike-solitaire.json](./54406-strike-solitaire.json) |
@@ -34304,6 +34308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
 | Sunny Side Up | 410498 | [410498-sunny-side-up.json](./410498-sunny-side-up.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
+| Sunny Trails | 337867 | [337867-sunny-trails.json](./337867-sunny-trails.json) |
 | Sunny Village | 255931 | [255931-sunny-village.json](./255931-sunny-village.json) |
 | Sunny-Place | 142930 | [142930-sunny-place.json](./142930-sunny-place.json) |
 | Sunny-Place-3: Microgods | 241275 | [241275-sunny-place-3-microgods.json](./241275-sunny-place-3-microgods.json) |
@@ -39760,6 +39765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Honey | 385800 | [385800-sweet-honey.json](./385800-sweet-honey.json) |
 | Sweet Honey Action! | 179224 | [179224-sweet-honey-action.json](./179224-sweet-honey-action.json) |
 | Sweet Honey Coming | 410712 | [410712-sweet-honey-coming.json](./410712-sweet-honey-coming.json) |
+| Sweet Honey: Cake | 337866 | [337866-sweet-honey-cake.json](./337866-sweet-honey-cake.json) |
 | Sweet Hospital | 332624 | [332624-sweet-hospital.json](./332624-sweet-hospital.json) |
 | Sweet Hot Spring | 339456 | [339456-sweet-hot-spring.json](./339456-sweet-hot-spring.json) |
 | Sweet Hotel | 339457 | [339457-sweet-hotel.json](./339457-sweet-hotel.json) |
