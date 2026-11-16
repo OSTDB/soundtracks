@@ -7677,6 +7677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
 | Chess | 282404 | [282404-chess.json](./282404-chess.json) |
 | Chess | 302809 | [302809-chess.json](./302809-chess.json) |
+| Chess | 306156 | [306156-chess.json](./306156-chess.json) |
 | Chess | 364151 | [364151-chess.json](./364151-chess.json) |
 | Chess | 56599 | [56599-chess.json](./56599-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
