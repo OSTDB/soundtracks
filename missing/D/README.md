@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D_Cide Traumerei | 172834 | [172834-d-cide-traumerei.json](./172834-d-cide-traumerei.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
 | D-Beat Heroes | 403380 | [403380-d-beat-heroes.json](./403380-d-beat-heroes.json) |
+| D-Bug | 296131 | [296131-d-bug.json](./296131-d-bug.json) |
 | D-Corp | 142824 | [142824-d-corp.json](./142824-d-corp.json) |
 | D-Cube Planet | 66980 | [66980-d-cube-planet.json](./66980-d-cube-planet.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
 | Dander | 36785 | [36785-dander.json](./36785-dander.json) |
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
+| Dandy | 296134 | [296134-dandy.json](./296134-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
 | Dandy & Randy DX | 193624 | [193624-dandy-and-randy-dx.json](./193624-dandy-and-randy-dx.json) |
 | Dandy Boy Adventures | 280637 | [280637-dandy-boy-adventures.json](./280637-dandy-boy-adventures.json) |
@@ -9201,6 +9203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
 | Devil inside | 46940 | [46940-devil-inside.json](./46940-devil-inside.json) |
 | Devil Inside Us: Roots of Evil | 150782 | [150782-devil-inside-us-roots-of-evil.json](./150782-devil-inside-us-roots-of-evil.json) |
+| Devil Invasion | 297390 | [297390-devil-invasion.json](./297390-devil-invasion.json) |
 | Devil Island | 247392 | [247392-devil-island.json](./247392-devil-island.json) |
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Kings | 22568 | [22568-devil-kings.json](./22568-devil-kings.json) |
