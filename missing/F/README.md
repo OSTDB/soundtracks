@@ -15424,6 +15424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
 | Furniture Busters | 211991 | [211991-furniture-busters.json](./211991-furniture-busters.json) |
 | Furniture Flipper Simulator 2023: Revive, Restoration & Creative Crafting | 276549 | [276549-furniture-flipper-simulator-2023-revive-restoration-and-creative-crafting.json](./276549-furniture-flipper-simulator-2023-revive-restoration-and-creative-crafting.json) |
+| Furniture Fu | 393666 | [393666-furniture-fu.json](./393666-furniture-fu.json) |
 | Furniture Market | 420382 | [420382-furniture-market.json](./420382-furniture-market.json) |
 | Furniture Service | 340541 | [340541-furniture-service.json](./340541-furniture-service.json) |
 | Furniture World | 158919 | [158919-furniture-world.json](./158919-furniture-world.json) |
