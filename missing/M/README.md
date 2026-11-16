@@ -10912,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta Pong | 304823 | [304823-meta-pong.json](./304823-meta-pong.json) |
 | Meta Revelations - Ring Spirits | 112194 | [112194-meta-revelations-ring-spirits.json](./112194-meta-revelations-ring-spirits.json) |
+| Meta Revelations: Armour of the Abyss | 280977 | [280977-meta-revelations-armour-of-the-abyss.json](./280977-meta-revelations-armour-of-the-abyss.json) |
 | Meta Soulmate | 341228 | [341228-meta-soulmate.json](./341228-meta-soulmate.json) |
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
 | Meta Sudoku | 208639 | [208639-meta-sudoku.json](./208639-meta-sudoku.json) |
