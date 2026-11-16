@@ -4683,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Sniffers | 318171 | [318171-sea-sniffers.json](./318171-sea-sniffers.json) |
 | Sea Stars | 59626 | [59626-sea-stars.json](./59626-sea-stars.json) |
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
+| Sea Struggles | 334372 | [334372-sea-struggles.json](./334372-sea-struggles.json) |
 | Sea Town | 238093 | [238093-sea-town.json](./238093-sea-town.json) |
 | Sea Town: Fish Market Simulator | 326370 | [326370-sea-town-fish-market-simulator.json](./326370-sea-town-fish-market-simulator.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
@@ -16818,6 +16819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snails | 298798 | [298798-snails.json](./298798-snails.json) |
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
 | Snails | 35694 | [35694-snails.json](./35694-snails.json) |
+| Snails Have Skeletons | 334377 | [334377-snails-have-skeletons.json](./334377-snails-have-skeletons.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snailshell | 386352 | [386352-snailshell.json](./386352-snailshell.json) |
 | SnailShock Grand Supreme Tournament | 338413 | [338413-snailshock-grand-supreme-tournament.json](./338413-snailshock-grand-supreme-tournament.json) |
@@ -18487,6 +18489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace State | 107594 | [107594-solace-state.json](./107594-solace-state.json) |
 | Solace: Begin Your Escape | 391557 | [391557-solace-begin-your-escape.json](./391557-solace-begin-your-escape.json) |
 | Solaire | 410576 | [410576-solaire.json](./410576-solaire.json) |
+| Solais | 335523 | [335523-solais.json](./335523-solais.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solanaceae: After All | 216530 | [216530-solanaceae-after-all.json](./216530-solanaceae-after-all.json) |
 | Solanaceae: Another Time | 225251 | [225251-solanaceae-another-time.json](./225251-solanaceae-another-time.json) |
@@ -19657,6 +19660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
 | Sonic Boom | 203165 | [203165-sonic-boom.json](./203165-sonic-boom.json) |
 | Sonic Boom | 246730 | [246730-sonic-boom.json](./246730-sonic-boom.json) |
+| Sonic Boom and the Smash Crew | 332729 | [332729-sonic-boom-and-the-smash-crew.json](./332729-sonic-boom-and-the-smash-crew.json) |
 | Sonic Boom Cannon | 297603 | [297603-sonic-boom-cannon.json](./297603-sonic-boom-cannon.json) |
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
 | Sonic Boom Racing | 330592 | [330592-sonic-boom-racing.json](./330592-sonic-boom-racing.json) |
@@ -23517,6 +23521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speakerman 2 | 123835 | [123835-speakerman-2.json](./123835-speakerman-2.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
+| Spear | 334399 | [334399-spear.json](./334399-spear.json) |
 | Spear Girl | 190035 | [190035-spear-girl.json](./190035-spear-girl.json) |
 | Spear Knight | 233445 | [233445-spear-knight.json](./233445-spear-knight.json) |
 | Spear Leap Saga | 398413 | [398413-spear-leap-saga.json](./398413-spear-leap-saga.json) |
@@ -29257,6 +29262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Obscurum | 285620 | [285620-station-obscurum.json](./285620-station-obscurum.json) |
 | Station Osirius | 201878 | [201878-station-osirius.json](./201878-station-osirius.json) |
 | Station Overseer | 194197 | [194197-station-overseer.json](./194197-station-overseer.json) |
+| Station Platform 42 | 335553 | [335553-station-platform-42.json](./335553-station-platform-42.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
 | Station Unknown | 268233 | [268233-station-unknown.json](./268233-station-unknown.json) |
@@ -30502,6 +30508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickybear: Spelling | 208767 | [208767-stickybear-spelling.json](./208767-stickybear-spelling.json) |
 | StickyBee | 74975 | [74975-stickybee.json](./74975-stickybee.json) |
 | StickyBots | 112184 | [112184-stickybots.json](./112184-stickybots.json) |
+| Stickyfoot | 335524 | [335524-stickyfoot.json](./335524-stickyfoot.json) |
 | StickyJump | 74974 | [74974-stickyjump.json](./74974-stickyjump.json) |
 | Stien | 184450 | [184450-stien.json](./184450-stien.json) |
 | Stiff Neck | 386508 | [386508-stiff-neck.json](./386508-stiff-neck.json) |
@@ -33581,6 +33588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Pretty Patriot | 354189 | [354189-sugoi-girls-pretty-patriot.json](./354189-sugoi-girls-pretty-patriot.json) |
 | Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
+| Sugoi Girls: Sassy Spy | 335554 | [335554-sugoi-girls-sassy-spy.json](./335554-sugoi-girls-sassy-spy.json) |
 | Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
 | Sugoi Girls: Tribal Crush | 328722 | [328722-sugoi-girls-tribal-crush.json](./328722-sugoi-girls-tribal-crush.json) |
 | Sugoi Girls: Victoria Vogue | 380845 | [380845-sugoi-girls-victoria-vogue.json](./380845-sugoi-girls-victoria-vogue.json) |
@@ -39752,6 +39760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home | 349014 | [349014-sweet-home.json](./349014-sweet-home.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home - Pets | 25411 | [25411-sweet-home-pets.json](./25411-sweet-home-pets.json) |
+| Sweet Home 2: Look and Find - Collector's Edition | 335544 | [335544-sweet-home-2-look-and-find-collectors-edition.json](./335544-sweet-home-2-look-and-find-collectors-edition.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home 7: Look and Find | 419824 | [419824-sweet-home-7-look-and-find.json](./419824-sweet-home-7-look-and-find.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
@@ -39919,6 +39928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetopia | 207023 | [207023-sweetopia.json](./207023-sweetopia.json) |
 | Sweetoria Land | 375777 | [375777-sweetoria-land.json](./375777-sweetoria-land.json) |
 | SweetPea Village | 177894 | [177894-sweetpea-village.json](./177894-sweetpea-village.json) |
+| Sweets & Dragons | 334383 | [334383-sweets-and-dragons.json](./334383-sweets-and-dragons.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
