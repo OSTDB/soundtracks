@@ -5313,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiteboyz Wit Attitude: The Pursuit of Money | 193548 | [193548-whiteboyz-wit-attitude-the-pursuit-of-money.json](./193548-whiteboyz-wit-attitude-the-pursuit-of-money.json) |
 | WhiteClothes | 247941 | [247941-whiteclothes.json](./247941-whiteclothes.json) |
 | Whitedary | 400700 | [400700-whitedary.json](./400700-whitedary.json) |
+| WhiteFlame | 358559 | [358559-whiteflame.json](./358559-whiteflame.json) |
 | Whitehaven | 152683 | [152683-whitehaven.json](./152683-whitehaven.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whitemare | 274137 | [274137-whitemare.json](./274137-whitemare.json) |
@@ -6021,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wood | 141688 | [141688-wild-wood.json](./141688-wild-wood.json) |
 | Wild Woods | 122087 | [122087-wild-woods.json](./122087-wild-woods.json) |
 | Wild Woody | 5461 | [5461-wild-woody.json](./5461-wild-woody.json) |
+| Wild Wordopia | 358546 | [358546-wild-wordopia.json](./358546-wild-wordopia.json) |
 | Wild Workshop | 157490 | [157490-wild-workshop.json](./157490-wild-workshop.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wild World: Tribe | 99709 | [99709-wild-world-tribe.json](./99709-wild-world-tribe.json) |
@@ -8108,7 +8110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Wars | 252180 | [252180-wonder-wars.json](./252180-wonder-wars.json) |
 | Wonder Wheel | 233046 | [233046-wonder-wheel.json](./233046-wonder-wheel.json) |
 | Wonder Wheel | 262979 | [262979-wonder-wheel.json](./262979-wonder-wheel.json) |
-| Wonder Wickets | 27042 | [27042-wonder-wickets.json](./27042-wonder-wickets.json) |
 | Wonder Witches | 266149 | [266149-wonder-witches.json](./266149-wonder-witches.json) |
 | Wonder Woman | 185245 | [185245-wonder-woman.json](./185245-wonder-woman.json) |
 | Wonder Wonder Punch | 273386 | [273386-wonder-wonder-punch.json](./273386-wonder-wonder-punch.json) |
