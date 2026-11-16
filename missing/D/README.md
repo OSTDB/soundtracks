@@ -13977,6 +13977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominions 4: Thrones of Ascension | 16767 | [16767-dominions-4-thrones-of-ascension.json](./16767-dominions-4-thrones-of-ascension.json) |
 | Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
 | Dominions 5: Warriors of the Faith | 77769 | [77769-dominions-5-warriors-of-the-faith.json](./77769-dominions-5-warriors-of-the-faith.json) |
+| Dominions 6: Rise of the Pantokrator | 260340 | [260340-dominions-6-rise-of-the-pantokrator.json](./260340-dominions-6-rise-of-the-pantokrator.json) |
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Dominique Pamplemousse & Dominique Pamplemousse in "Combinatorial Explosion" | 125051 | [125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json](./125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json) |
@@ -19291,6 +19292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
 | Drone Smuggler | 363575 | [363575-drone-smuggler.json](./363575-drone-smuggler.json) |
 | Drone Spektra | 114876 | [114876-drone-spektra.json](./114876-drone-spektra.json) |
+| Drone Strike: Engineer Simulator | 258162 | [258162-drone-strike-engineer-simulator.json](./258162-drone-strike-engineer-simulator.json) |
 | Drone Striker | 116900 | [116900-drone-striker.json](./116900-drone-striker.json) |
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
