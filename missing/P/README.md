@@ -4414,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle Blast | 58310 | [58310-peggle-blast.json](./58310-peggle-blast.json) |
 | Peggle Blast HD | 354985 | [354985-peggle-blast-hd.json](./354985-peggle-blast-hd.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
+| Peggle Dinners | 394949 | [394949-peggle-dinners.json](./394949-peggle-dinners.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
 | Peggle Fevers | 413527 | [413527-peggle-fevers.json](./413527-peggle-fevers.json) |
 | Peggle Frights | 428758 | [428758-peggle-frights.json](./428758-peggle-frights.json) |
