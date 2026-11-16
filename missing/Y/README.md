@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Cyber | 286130 | [286130-yume-cyber.json](./286130-yume-cyber.json) |
 | Yume Doodle | 201843 | [201843-yume-doodle.json](./201843-yume-doodle.json) |
 | Yume Dreamer | 201778 | [201778-yume-dreamer.json](./201778-yume-dreamer.json) |
+| Yume Fabricated Yume | 397337 | [397337-yume-fabricated-yume.json](./397337-yume-fabricated-yume.json) |
 | Yume Fumi | 201847 | [201847-yume-fumi.json](./201847-yume-fumi.json) |
 | Yume Gatari | 220078 | [220078-yume-gatari.json](./220078-yume-gatari.json) |
 | Yume Goshi no Sora | 408078 | [408078-yume-goshi-no-sora.json](./408078-yume-goshi-no-sora.json) |
