@@ -7823,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loga: Unexpected Adventure | 126755 | [126755-loga-unexpected-adventure.json](./126755-loga-unexpected-adventure.json) |
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logan Paul Adventure | 259418 | [259418-logan-paul-adventure.json](./259418-logan-paul-adventure.json) |
+| Logan The Kid: How It Was Intended 1 | 316311 | [316311-logan-the-kid-how-it-was-intended-1.json](./316311-logan-the-kid-how-it-was-intended-1.json) |
 | Logan's Treasure | 98208 | [98208-logans-treasure.json](./98208-logans-treasure.json) |
 | Logbook: Beneath the Storm | 402642 | [402642-logbook-beneath-the-storm.json](./402642-logbook-beneath-the-storm.json) |
 | Loggerhead | 216570 | [216570-loggerhead.json](./216570-loggerhead.json) |
