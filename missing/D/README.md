@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Survivors 2 | 179971 | [179971-dawn-of-survivors-2.json](./179971-dawn-of-survivors-2.json) |
 | Dawn of Tank | 250580 | [250580-dawn-of-tank.json](./250580-dawn-of-tank.json) |
 | Dawn of the Abyss | 345827 | [345827-dawn-of-the-abyss.json](./345827-dawn-of-the-abyss.json) |
+| Dawn of the Ashen Queen | 294326 | [294326-dawn-of-the-ashen-queen.json](./294326-dawn-of-the-ashen-queen.json) |
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
 | Dawn of the Celebs | 394214 | [394214-dawn-of-the-celebs.json](./394214-dawn-of-the-celebs.json) |
 | Dawn of the Celestialpod | 99159 | [99159-dawn-of-the-celestialpod.json](./99159-dawn-of-the-celestialpod.json) |
@@ -21241,6 +21242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Doggos | 239461 | [239461-dungeons-and-doggos.json](./239461-dungeons-and-doggos.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
+| Dungeons and Ducklings | 294319 | [294319-dungeons-and-ducklings.json](./294319-dungeons-and-ducklings.json) |
 | Dungeons and Dumbasses | 423997 | [423997-dungeons-and-dumbasses.json](./423997-dungeons-and-dumbasses.json) |
 | Dungeons and Dungeons | 283544 | [283544-dungeons-and-dungeons.json](./283544-dungeons-and-dungeons.json) |
 | Dungeons and Female Teachers | 264758 | [264758-dungeons-and-female-teachers.json](./264758-dungeons-and-female-teachers.json) |
