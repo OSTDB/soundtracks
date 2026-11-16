@@ -6120,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sleep Trilogy | 123695 | [123695-deep-sleep-trilogy.json](./123695-deep-sleep-trilogy.json) |
 | Deep Sleep: Labyrinth of the Forsaken | 226011 | [226011-deep-sleep-labyrinth-of-the-forsaken.json](./226011-deep-sleep-labyrinth-of-the-forsaken.json) |
 | Deep Sleep: The Beggining | 291410 | [291410-deep-sleep-the-beggining.json](./291410-deep-sleep-the-beggining.json) |
+| Deep Snake | 362489 | [362489-deep-snake.json](./362489-deep-snake.json) |
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
 | Deep Sorrow | 74931 | [74931-deep-sorrow.json](./74931-deep-sorrow.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
