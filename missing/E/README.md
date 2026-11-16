@@ -4248,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dungeon: Day One Edition | 234210 | [234210-endless-dungeon-day-one-edition.json](./234210-endless-dungeon-day-one-edition.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
 | Endless Dungeon: Last Wish Edition | 263319 | [263319-endless-dungeon-last-wish-edition.json](./263319-endless-dungeon-last-wish-edition.json) |
+| Endless Empty | 320498 | [320498-endless-empty.json](./320498-endless-empty.json) |
 | Endless Engines | 219249 | [219249-endless-engines.json](./219249-endless-engines.json) |
 | Endless Escalation | 390742 | [390742-endless-escalation.json](./390742-endless-escalation.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
@@ -6050,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Collector | 262488 | [262488-escape-from-the-collector.json](./262488-escape-from-the-collector.json) |
 | Escape From The Core | 329046 | [329046-escape-from-the-core.json](./329046-escape-from-the-core.json) |
 | Escape From the Cosmic Abyss | 137236 | [137236-escape-from-the-cosmic-abyss.json](./137236-escape-from-the-cosmic-abyss.json) |
+| Escape from the Cursed Convent | 314078 | [314078-escape-from-the-cursed-convent.json](./314078-escape-from-the-cursed-convent.json) |
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape from the Darkness | 259420 | [259420-escape-from-the-darkness.json](./259420-escape-from-the-darkness.json) |
 | Escape from the death castle | 128140 | [128140-escape-from-the-death-castle.json](./128140-escape-from-the-death-castle.json) |
@@ -8789,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exobiota | 398376 | [398376-exobiota.json](./398376-exobiota.json) |
 | Exoblast | 149265 | [149265-exoblast.json](./149265-exoblast.json) |
 | Exoborne | 279650 | [279650-exoborne.json](./279650-exoborne.json) |
+| Exobrave | 328701 | [328701-exobrave.json](./328701-exobrave.json) |
 | Exocars | 295413 | [295413-exocars.json](./295413-exocars.json) |
 | Exocet | 40641 | [40641-exocet.json](./40641-exocet.json) |
 | Exocide | 197046 | [197046-exocide.json](./197046-exocide.json) |
