@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
 | Idle Area 51 | 355889 | [355889-idle-area-51.json](./355889-idle-area-51.json) |
+| Idle Ark: Sail and Build | 215417 | [215417-idle-ark-sail-and-build.json](./215417-idle-ark-sail-and-build.json) |
 | Idle Armada | 156750 | [156750-idle-armada.json](./156750-idle-armada.json) |
 | Idle Army Base | 135406 | [135406-idle-army-base.json](./135406-idle-army-base.json) |
 | Idle Asterix | 347940 | [347940-idle-asterix.json](./347940-idle-asterix.json) |
@@ -4279,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
 | InfinitasDM: Teeth of the Bloodwolf | 174506 | [174506-infinitasdm-teeth-of-the-bloodwolf.json](./174506-infinitasdm-teeth-of-the-bloodwolf.json) |
 | Infinite Abyss | 132528 | [132528-infinite-abyss.json](./132528-infinite-abyss.json) |
+| Infinite Adventure | 215824 | [215824-infinite-adventure.json](./215824-infinite-adventure.json) |
 | Infinite Adventures | 95022 | [95022-infinite-adventures.json](./95022-infinite-adventures.json) |
 | Infinite Alliance | 345923 | [345923-infinite-alliance.json](./345923-infinite-alliance.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
