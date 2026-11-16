@@ -8318,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape of Dreams | 293572 | [293572-shape-of-dreams.json](./293572-shape-of-dreams.json) |
+| Shape of Mind | 239949 | [239949-shape-of-mind.json](./239949-shape-of-mind.json) |
 | Shape of Stars | 151764 | [151764-shape-of-stars.json](./151764-shape-of-stars.json) |
 | Shape of the Toilet Rim | 218308 | [218308-shape-of-the-toilet-rim.json](./218308-shape-of-the-toilet-rim.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
@@ -21459,6 +21460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
 | Southern Belle | 10744 | [10744-southern-belle.json](./10744-southern-belle.json) |
 | Southern Command | 24796 | [24796-southern-command.json](./24796-southern-command.json) |
+| Southern Cross | 239954 | [239954-southern-cross.json](./239954-southern-cross.json) |
 | Southern Cross Battle Force | 161494 | [161494-southern-cross-battle-force.json](./161494-southern-cross-battle-force.json) |
 | Southern Legends: The Temple Defenders | 236382 | [236382-southern-legends-the-temple-defenders.json](./236382-southern-legends-the-temple-defenders.json) |
 | Southern Lights: Broken Frequency | 410943 | [410943-southern-lights-broken-frequency.json](./410943-southern-lights-broken-frequency.json) |
@@ -25392,6 +25394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
 | Spookiz Pop | 252944 | [252944-spookiz-pop.json](./252944-spookiz-pop.json) |
 | Spooklands | 61064 | [61064-spooklands.json](./61064-spooklands.json) |
+| SpookLector | 239845 | [239845-spooklector.json](./239845-spooklector.json) |
 | Spooks | 135717 | [135717-spooks.json](./135717-spooks.json) |
 | Spooks | 41137 | [41137-spooks.json](./41137-spooks.json) |
 | Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
@@ -33283,6 +33286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Tanks Arena | 291506 | [291506-sugar-tanks-arena.json](./291506-sugar-tanks-arena.json) |
 | Sugar-Coated | 221038 | [221038-sugar-coated.json](./221038-sugar-coated.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
+| Sugar, Sugar 2 | 239958 | [239958-sugar-sugar-2.json](./239958-sugar-sugar-2.json) |
 | Sugar, Sugar 3 | 101910 | [101910-sugar-sugar-3.json](./101910-sugar-sugar-3.json) |
 | Sugar, Sugar: The Christmas Special | 319429 | [319429-sugar-sugar-the-christmas-special.json](./319429-sugar-sugar-the-christmas-special.json) |
 | Sugar,sugar,sugarcoat | 279846 | [279846-sugar-sugar-sugarcoat.json](./279846-sugar-sugar-sugarcoat.json) |
@@ -34503,6 +34507,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Breakout | 12321 | [12321-super-breakout.json](./12321-super-breakout.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout | 239520 | [239520-super-breakout.json](./239520-super-breakout.json) |
+| Super Breakout | 239851 | [239851-super-breakout.json](./239851-super-breakout.json) |
+| Super Breakout | 239853 | [239853-super-breakout.json](./239853-super-breakout.json) |
 | Super Breakout 13 | 241556 | [241556-super-breakout-13.json](./241556-super-breakout-13.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Breakout: Evolved | 329632 | [329632-super-breakout-evolved.json](./329632-super-breakout-evolved.json) |
@@ -35699,6 +35705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Cape | 296168 | [296168-super-mario-advance-4-super-mario-bros-3-e-cape.json](./296168-super-mario-advance-4-super-mario-bros-3-e-cape.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Caped Escape | 241018 | [241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json](./241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Castle Dash | 241015 | [241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json](./241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Classic World 1-1 | 240989 | [240989-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-1.json](./240989-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-1.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Classic World 1-2 | 240990 | [240990-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-2.json](./240990-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-2.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Classic World 1-3 | 240991 | [240991-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-3.json](./240991-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-3.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Classic World 1-4 | 240992 | [240992-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-4.json](./240992-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-4.json) |
