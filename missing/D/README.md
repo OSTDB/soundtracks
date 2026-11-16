@@ -4463,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spin | 404215 | [404215-dead-spin.json](./404215-dead-spin.json) |
 | Dead Spreading | 261871 | [261871-dead-spreading.json](./261871-dead-spreading.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
+| Dead Stadium: The Extinction Protocol | 409172 | [409172-dead-stadium-the-extinction-protocol.json](./409172-dead-stadium-the-extinction-protocol.json) |
 | Dead Star | 21960 | [21960-dead-star.json](./21960-dead-star.json) |
 | Dead State | 8349 | [8349-dead-state.json](./8349-dead-state.json) |
 | Dead State: Reanimated | 16544 | [16544-dead-state-reanimated.json](./16544-dead-state-reanimated.json) |
@@ -5794,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decorate Cozy Home | 404527 | [404527-decorate-cozy-home.json](./404527-decorate-cozy-home.json) |
 | Decoration Disorder Disconnection 1 | 375544 | [375544-decoration-disorder-disconnection-1.json](./375544-decoration-disorder-disconnection-1.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
+| Decoratopia | 408837 | [408837-decoratopia.json](./408837-decoratopia.json) |
 | Decorporation | 199317 | [199317-decorporation.json](./199317-decorporation.json) |
 | Decorum | 344791 | [344791-decorum.json](./344791-decorum.json) |
 | Decoy | 90207 | [90207-decoy.json](./90207-decoy.json) |
@@ -19849,6 +19851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckWorld Revive | 327960 | [327960-duckworld-revive.json](./327960-duckworld-revive.json) |
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
 | Ducky | 188804 | [188804-ducky.json](./188804-ducky.json) |
+| Ducky | 409155 | [409155-ducky.json](./409155-ducky.json) |
 | Ducky Bouncy | 259967 | [259967-ducky-bouncy.json](./259967-ducky-bouncy.json) |
 | Ducky Clicker | 330080 | [330080-ducky-clicker.json](./330080-ducky-clicker.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
@@ -21638,6 +21641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyed in White | 385633 | [385633-dyed-in-white.json](./385633-dyed-in-white.json) |
 | Dyer Expedition | 235626 | [235626-dyer-expedition.json](./235626-dyer-expedition.json) |
 | Dyestributor | 231569 | [231569-dyestributor.json](./231569-dyestributor.json) |
+| Dyeversion | 409163 | [409163-dyeversion.json](./409163-dyeversion.json) |
 | Dyflexion | 189067 | [189067-dyflexion.json](./189067-dyflexion.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dyger | 39673 | [39673-dyger.json](./39673-dyger.json) |
