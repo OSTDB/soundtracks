@@ -3918,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batteri Fjell 1945 | 292966 | [292966-batteri-fjell-1945.json](./292966-batteri-fjell-1945.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
+| Battery Bash | 390301 | [390301-battery-bash.json](./390301-battery-bash.json) |
 | Battery Check | 242641 | [242641-battery-check.json](./242641-battery-check.json) |
 | Battery Farm | 364982 | [364982-battery-farm.json](./364982-battery-farm.json) |
 | Battery Hunter | 259623 | [259623-battery-hunter.json](./259623-battery-hunter.json) |
@@ -8752,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
+| Bike Stunts Simulator | 391368 | [391368-bike-stunts-simulator.json](./391368-bike-stunts-simulator.json) |
 | Bike Super Hero Stunt Driver Racing | 102845 | [102845-bike-super-hero-stunt-driver-racing.json](./102845-bike-super-hero-stunt-driver-racing.json) |
 | Bike Trials Junkyard 2 | 233195 | [233195-bike-trials-junkyard-2.json](./233195-bike-trials-junkyard-2.json) |
 | Bike Trials Offroad 2 | 255035 | [255035-bike-trials-offroad-2.json](./255035-bike-trials-offroad-2.json) |
@@ -8882,6 +8884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Legend: Black 8 Miracle | 171319 | [171319-billiards-legend-black-8-miracle.json](./171319-billiards-legend-black-8-miracle.json) |
 | Billiards Merge 2048 | 231972 | [231972-billiards-merge-2048.json](./231972-billiards-merge-2048.json) |
 | Billiards Night Out | 404452 | [404452-billiards-night-out.json](./404452-billiards-night-out.json) |
+| Billiards Pro Simulator | 391355 | [391355-billiards-pro-simulator.json](./391355-billiards-pro-simulator.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
 | Billiards with Pilot Brothers comments | 119438 | [119438-billiards-with-pilot-brothers-comments.json](./119438-billiards-with-pilot-brothers-comments.json) |
 | Billiards Wizards | 81752 | [81752-billiards-wizards.json](./81752-billiards-wizards.json) |
@@ -12518,6 +12521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Under the Bridge | 202263 | [202263-blood-under-the-bridge.json](./202263-blood-under-the-bridge.json) |
 | Blood Valley | 13410 | [13410-blood-valley.json](./13410-blood-valley.json) |
 | Blood Vessel | 284017 | [284017-blood-vessel.json](./284017-blood-vessel.json) |
+| Blood Vial | 389241 | [389241-blood-vial.json](./389241-blood-vial.json) |
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
 | Blood Wake | 5754 | [5754-blood-wake.json](./5754-blood-wake.json) |
 | Blood War | 160109 | [160109-blood-war.json](./160109-blood-war.json) |
@@ -19171,6 +19175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Race: Racing Master | 288308 | [288308-buggy-race-racing-master.json](./288308-buggy-race-racing-master.json) |
 | Buggy Racer | 263244 | [263244-buggy-racer.json](./263244-buggy-racer.json) |
 | Buggy Racers | 276801 | [276801-buggy-racers.json](./276801-buggy-racers.json) |
+| Buggy Racing Simulator | 391367 | [391367-buggy-racing-simulator.json](./391367-buggy-racing-simulator.json) |
 | Buggy Ranger | 13449 | [13449-buggy-ranger.json](./13449-buggy-ranger.json) |
 | Buggy Run | 45657 | [45657-buggy-run.json](./45657-buggy-run.json) |
 | Buggy10 | 339397 | [339397-buggy10.json](./339397-buggy10.json) |
