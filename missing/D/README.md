@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daggers Cavern | 308469 | [308469-daggers-cavern.json](./308469-daggers-cavern.json) |
 | Dagon | 157176 | [157176-dagon.json](./157176-dagon.json) |
 | Dagon Ball Super: Lost Episode | 231690 | [231690-dagon-ball-super-lost-episode.json](./231690-dagon-ball-super-lost-episode.json) |
+| Dagon: Complete Edition | 319322 | [319322-dagon-complete-edition.json](./319322-dagon-complete-edition.json) |
 | Dagon: The Little Glass Bottle | 234512 | [234512-dagon-the-little-glass-bottle.json](./234512-dagon-the-little-glass-bottle.json) |
 | Dagon: The Railway Horror | 266823 | [266823-dagon-the-railway-horror.json](./266823-dagon-the-railway-horror.json) |
 | Daguri: Gambling Apocalypse | 208657 | [208657-daguri-gambling-apocalypse.json](./208657-daguri-gambling-apocalypse.json) |
@@ -424,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-3-ji Super Robot Taisen Z: Rengoku-hen | 178149 | [178149-dai-3-ji-super-robot-taisen-z-rengoku-hen.json](./178149-dai-3-ji-super-robot-taisen-z-rengoku-hen.json) |
 | Dai-3-ji Super Robot Taisen Z: Tengoku-hen | 80141 | [80141-dai-3-ji-super-robot-taisen-z-tengoku-hen.json](./80141-dai-3-ji-super-robot-taisen-z-tengoku-hen.json) |
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
+| Dai-chan's Great Adventure: World's End | 318098 | [318098-dai-chans-great-adventure-worlds-end.json](./318098-dai-chans-great-adventure-worlds-end.json) |
 | Dai-chan's Great Adventure: World's End | 320366 | [320366-dai-chans-great-adventure-worlds-end.json](./320366-dai-chans-great-adventure-worlds-end.json) |
 | Dai-Dai-Kakumei | 65394 | [65394-dai-dai-kakumei.json](./65394-dai-dai-kakumei.json) |
 | Dai-ikkai Satellaview-hai Satella Derby Junkesshou/Kesshou | 151887 | [151887-dai-ikkai-satellaview-hai-satella-derby-junkesshou-kesshou.json](./151887-dai-ikkai-satellaview-hai-satella-derby-junkesshou-kesshou.json) |
@@ -743,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
 | Dampf: The Cozy Tower Defense | 275756 | [275756-dampf-the-cozy-tower-defense.json](./275756-dampf-the-cozy-tower-defense.json) |
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
+| Damsel: Chapter 1 - Stress on the Tress | 320623 | [320623-damsel-chapter-1-stress-on-the-tress.json](./320623-damsel-chapter-1-stress-on-the-tress.json) |
 | Damsel: Chapter One - Stress on the Tress | 166967 | [166967-damsel-chapter-one-stress-on-the-tress.json](./166967-damsel-chapter-one-stress-on-the-tress.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
 | Damsels in Distress | 404525 | [404525-damsels-in-distress.json](./404525-damsels-in-distress.json) |
@@ -1324,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmaku Unlimited 4 Wyver Ultra | 359529 | [359529-danmaku-unlimited-4-wyver-ultra.json](./359529-danmaku-unlimited-4-wyver-ultra.json) |
 | Dànmù Nàgè Èrén | 116113 | [116113-danmu-nage-eren.json](./116113-danmu-nage-eren.json) |
 | Dann Fox & the Time Machine | 192383 | [192383-dann-fox-and-the-time-machine.json](./192383-dann-fox-and-the-time-machine.json) |
+| Danny Dread is On Call | 320626 | [320626-danny-dread-is-on-call.json](./320626-danny-dread-is-on-call.json) |
 | Danny Fisher Kills the Government | 172437 | [172437-danny-fisher-kills-the-government.json](./172437-danny-fisher-kills-the-government.json) |
 | Danny Phantom: Ghost Frenzy | 257386 | [257386-danny-phantom-ghost-frenzy.json](./257386-danny-phantom-ghost-frenzy.json) |
 | Danny Phantom: Ghost Sweep | 313686 | [313686-danny-phantom-ghost-sweep.json](./313686-danny-phantom-ghost-sweep.json) |
@@ -2457,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darklord | 131419 | [131419-darklord.json](./131419-darklord.json) |
 | Darklord's Tower | 360021 | [360021-darklords-tower.json](./360021-darklords-tower.json) |
 | Darkly Darkness | 303460 | [303460-darkly-darkness.json](./303460-darkly-darkness.json) |
+| Darkly Glass | 319251 | [319251-darkly-glass.json](./319251-darkly-glass.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
 | Darkman | 365688 | [365688-darkman.json](./365688-darkman.json) |
 | DarkMatter: The Strange Messenger | 237125 | [237125-darkmatter-the-strange-messenger.json](./237125-darkmatter-the-strange-messenger.json) |
@@ -3426,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Gone: Digital Deluxe Edition | 114028 | [114028-days-gone-digital-deluxe-edition.json](./114028-days-gone-digital-deluxe-edition.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days in Hill | 255923 | [255923-days-in-hill.json](./255923-days-in-hill.json) |
+| Days In Palis | 319248 | [319248-days-in-palis.json](./319248-days-in-palis.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
 | Days of a Princess | 89381 | [89381-days-of-a-princess.json](./89381-days-of-a-princess.json) |
 | Days of Dawn | 63770 | [63770-days-of-dawn.json](./63770-days-of-dawn.json) |
@@ -4176,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Land | 99462 | [99462-dead-land.json](./99462-dead-land.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Land VR | 118911 | [118911-dead-land-vr.json](./118911-dead-land-vr.json) |
+| Dead Land: Polygon VR | 324028 | [324028-dead-land-polygon-vr.json](./324028-dead-land-polygon-vr.json) |
 | Dead Lasso: Temple Of Shadows | 398423 | [398423-dead-lasso-temple-of-shadows.json](./398423-dead-lasso-temple-of-shadows.json) |
 | Dead Letter Dept. | 157024 | [157024-dead-letter-dept.json](./157024-dead-letter-dept.json) |
 | Dead Letters | 276358 | [276358-dead-letters.json](./276358-dead-letters.json) |
@@ -6820,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious 2 | 177111 | [177111-delicious-2.json](./177111-delicious-2.json) |
 | Delicious 2 Deluxe | 61382 | [61382-delicious-2-deluxe.json](./61382-delicious-2-deluxe.json) |
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
+| Delicious Date | 322871 | [322871-delicious-date.json](./322871-delicious-date.json) |
 | Delicious Deluxe | 73935 | [73935-delicious-deluxe.json](./73935-delicious-deluxe.json) |
 | Delicious Donut | 290516 | [290516-delicious-donut.json](./290516-delicious-donut.json) |
 | Delicious Dungeon | 211241 | [211241-delicious-dungeon.json](./211241-delicious-dungeon.json) |
@@ -8177,6 +8185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Lions | 335459 | [335459-desert-lions.json](./335459-desert-lions.json) |
 | Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
 | Desert Magic Adventures | 175771 | [175771-desert-magic-adventures.json](./175771-desert-magic-adventures.json) |
+| Desert Mercenary Corps | 320569 | [320569-desert-mercenary-corps.json](./320569-desert-mercenary-corps.json) |
 | Desert Mirage | 420492 | [420492-desert-mirage.json](./420492-desert-mirage.json) |
 | Desert Mothers | 134738 | [134738-desert-mothers.json](./134738-desert-mothers.json) |
 | Desert Mystery | 155787 | [155787-desert-mystery.json](./155787-desert-mystery.json) |
@@ -8507,6 +8516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Earthstar | 22410 | [22410-destination-earthstar.json](./22410-destination-earthstar.json) |
 | Destination Kepler! | 340679 | [340679-destination-kepler.json](./340679-destination-kepler.json) |
 | Destination Paradise | 295273 | [295273-destination-paradise.json](./295273-destination-paradise.json) |
+| Destination Paradise: Collector's Edition | 328716 | [328716-destination-paradise-collectors-edition.json](./328716-destination-paradise-collectors-edition.json) |
 | Destination Primus Vita | 77657 | [77657-destination-primus-vita.json](./77657-destination-primus-vita.json) |
 | Destination Sol | 15737 | [15737-destination-sol.json](./15737-destination-sol.json) |
 | Destination Solitaire | 101408 | [101408-destination-solitaire.json](./101408-destination-solitaire.json) |
@@ -9434,6 +9444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
 | Dexter Stardust: Adventures in Outer Space | 153075 | [153075-dexter-stardust-adventures-in-outer-space.json](./153075-dexter-stardust-adventures-in-outer-space.json) |
 | Dexter Stardust: Returns to Outer Space | 216676 | [216676-dexter-stardust-returns-to-outer-space.json](./216676-dexter-stardust-returns-to-outer-space.json) |
+| Dexter The Hamster | 318090 | [318090-dexter-the-hamster.json](./318090-dexter-the-hamster.json) |
 | Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
 | Dexter: The Game | 21668 | [21668-dexter-the-game.json](./21668-dexter-the-game.json) |
 | Dexter's Lab: Dee Dee's Moon Squad | 203085 | [203085-dexters-lab-dee-dees-moon-squad.json](./203085-dexters-lab-dee-dees-moon-squad.json) |
@@ -11842,12 +11853,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: A Rift in Time - Chapter 3: Treasures of Time | 279444 | [279444-disney-dreamlight-valley-a-rift-in-time-chapter-3-treasures-of-time.json](./279444-disney-dreamlight-valley-a-rift-in-time-chapter-3-treasures-of-time.json) |
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
 | Disney Dreamlight Valley: Cozy Edition | 270205 | [270205-disney-dreamlight-valley-cozy-edition.json](./270205-disney-dreamlight-valley-cozy-edition.json) |
+| Disney Dreamlight Valley: Dapper Delights | 320490 | [320490-disney-dreamlight-valley-dapper-delights.json](./320490-disney-dreamlight-valley-dapper-delights.json) |
 | Disney Dreamlight Valley: Deluxe Edition | 214448 | [214448-disney-dreamlight-valley-deluxe-edition.json](./214448-disney-dreamlight-valley-deluxe-edition.json) |
 | Disney Dreamlight Valley: DreamSnaps Update | 257508 | [257508-disney-dreamlight-valley-dreamsnaps-update.json](./257508-disney-dreamlight-valley-dreamsnaps-update.json) |
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Enchanted Adventure | 266853 | [266853-disney-dreamlight-valley-enchanted-adventure.json](./266853-disney-dreamlight-valley-enchanted-adventure.json) |
 | Disney Dreamlight Valley: Enchanted Edition | 331226 | [331226-disney-dreamlight-valley-enchanted-edition.json](./331226-disney-dreamlight-valley-enchanted-edition.json) |
 | Disney Dreamlight Valley: Gold Edition | 279247 | [279247-disney-dreamlight-valley-gold-edition.json](./279247-disney-dreamlight-valley-gold-edition.json) |
+| Disney Dreamlight Valley: Jungle Getaway | 320493 | [320493-disney-dreamlight-valley-jungle-getaway.json](./320493-disney-dreamlight-valley-jungle-getaway.json) |
 | Disney Dreamlight Valley: Missions in Uncharted Space | 228430 | [228430-disney-dreamlight-valley-missions-in-uncharted-space.json](./228430-disney-dreamlight-valley-missions-in-uncharted-space.json) |
 | Disney Dreamlight Valley: Mysteries of Skull Rock | 355677 | [355677-disney-dreamlight-valley-mysteries-of-skull-rock.json](./355677-disney-dreamlight-valley-mysteries-of-skull-rock.json) |
 | Disney Dreamlight Valley: Pride of the Valley | 236672 | [236672-disney-dreamlight-valley-pride-of-the-valley.json](./236672-disney-dreamlight-valley-pride-of-the-valley.json) |
@@ -11858,6 +11871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Tales of Agrabah | 333253 | [333253-disney-dreamlight-valley-tales-of-agrabah.json](./333253-disney-dreamlight-valley-tales-of-agrabah.json) |
 | Disney Dreamlight Valley: The Keepsake Sea | 417172 | [417172-disney-dreamlight-valley-the-keepsake-sea.json](./417172-disney-dreamlight-valley-the-keepsake-sea.json) |
 | Disney Dreamlight Valley: The Laugh Floor | 288695 | [288695-disney-dreamlight-valley-the-laugh-floor.json](./288695-disney-dreamlight-valley-the-laugh-floor.json) |
+| Disney Dreamlight Valley: The Lucky Dragon | 320488 | [320488-disney-dreamlight-valley-the-lucky-dragon.json](./320488-disney-dreamlight-valley-the-lucky-dragon.json) |
 | Disney Dreamlight Valley: The Pumpkin King Returns | 279239 | [279239-disney-dreamlight-valley-the-pumpkin-king-returns.json](./279239-disney-dreamlight-valley-the-pumpkin-king-returns.json) |
 | Disney Dreamlight Valley: The Remembering | 252303 | [252303-disney-dreamlight-valley-the-remembering.json](./252303-disney-dreamlight-valley-the-remembering.json) |
 | Disney Dreamlight Valley: The Storybook Vale | 321087 | [321087-disney-dreamlight-valley-the-storybook-vale.json](./321087-disney-dreamlight-valley-the-storybook-vale.json) |
@@ -18582,6 +18596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamstars | 79192 | [79192-dreamstars.json](./79192-dreamstars.json) |
+| Dreamstate | 319247 | [319247-dreamstate.json](./319247-dreamstate.json) |
 | Dreamstate Racing | 133414 | [133414-dreamstate-racing.json](./133414-dreamstate-racing.json) |
 | Dreamstones | 74676 | [74676-dreamstones.json](./74676-dreamstones.json) |
 | Dreamstory | 379026 | [379026-dreamstory.json](./379026-dreamstory.json) |
