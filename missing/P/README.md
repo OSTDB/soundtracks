@@ -9621,7 +9621,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Restorer: Image Folder 9 | 353425 | [353425-pixel-restorer-image-folder-9.json](./353425-pixel-restorer-image-folder-9.json) |
 | Pixel Retro Drift: Arcade Car Racing | 312076 | [312076-pixel-retro-drift-arcade-car-racing.json](./312076-pixel-retro-drift-arcade-car-racing.json) |
 | Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
-| Pixel Ripped 1989 | 29839 | [29839-pixel-ripped-1989.json](./29839-pixel-ripped-1989.json) |
 | Pixel Robot Hunter | 111177 | [111177-pixel-robot-hunter.json](./111177-pixel-robot-hunter.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Ronin | 363323 | [363323-pixel-ronin.json](./363323-pixel-ronin.json) |
@@ -16765,6 +16764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pristontale II: The 2nd Enigma | 72657 | [72657-pristontale-ii-the-2nd-enigma.json](./72657-pristontale-ii-the-2nd-enigma.json) |
 | Přítmí: Twilight | 118221 | [118221-pritmi-twilight.json](./118221-pritmi-twilight.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
+| Pritto Prisoner | 358539 | [358539-pritto-prisoner.json](./358539-pritto-prisoner.json) |
 | Pritto Prisoner: Character Stamp Collection | 381810 | [381810-pritto-prisoner-character-stamp-collection.json](./381810-pritto-prisoner-character-stamp-collection.json) |
 | Pritto Prisoner: Deco Set - Hamburger Pack | 381818 | [381818-pritto-prisoner-deco-set-hamburger-pack.json](./381818-pritto-prisoner-deco-set-hamburger-pack.json) |
 | Pritto Prisoner: Decoration - Baby Angel | 381811 | [381811-pritto-prisoner-decoration-baby-angel.json](./381811-pritto-prisoner-decoration-baby-angel.json) |
