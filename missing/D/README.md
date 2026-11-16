@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hours 2 | 57719 | [57719-dark-hours-2.json](./57719-dark-hours-2.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
+| Dark Hunter: Ge Youma no Mori | 356308 | [356308-dark-hunter-ge-youma-no-mori.json](./356308-dark-hunter-ge-youma-no-mori.json) |
 | Dark Hunter: Jou Ijigen Gakuen | 60968 | [60968-dark-hunter-jou-ijigen-gakuen.json](./60968-dark-hunter-jou-ijigen-gakuen.json) |
 | Dark Hunter: Shita Youma no Mori | 60970 | [60970-dark-hunter-shita-youma-no-mori.json](./60970-dark-hunter-shita-youma-no-mori.json) |
 | Dark Hunting Ground | 296239 | [296239-dark-hunting-ground.json](./296239-dark-hunting-ground.json) |
@@ -11457,7 +11458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
 | Disc Pop | 90959 | [90959-disc-pop.json](./90959-disc-pop.json) |
-| Disc Room | 22700 | [22700-disc-room.json](./22700-disc-room.json) |
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
 | Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
 | Disc Saga: Dragon's Immorality | 237795 | [237795-disc-saga-dragons-immorality.json](./237795-disc-saga-dragons-immorality.json) |
@@ -18697,7 +18697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Horizon: Car Driving & Tuning | 250104 | [250104-drift-horizon-car-driving-and-tuning.json](./250104-drift-horizon-car-driving-and-tuning.json) |
 | Drift Horizon: Racing, Driving & Parking Trial Simulator Games | 219453 | [219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json](./219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json) |
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
-| Drift Into Eternity | 23332 | [23332-drift-into-eternity.json](./23332-drift-into-eternity.json) |
 | Drift Island | 243590 | [243590-drift-island.json](./243590-drift-island.json) |
 | Drift Island | 332871 | [332871-drift-island.json](./332871-drift-island.json) |
 | Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
