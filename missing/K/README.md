@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaijuland | 63788 | [63788-kaijuland.json](./63788-kaijuland.json) |
 | Kaijuland Battles | 64141 | [64141-kaijuland-battles.json](./64141-kaijuland-battles.json) |
 | Kaijuu Busters Powered | 59158 | [59158-kaijuu-busters-powered.json](./59158-kaijuu-busters-powered.json) |
+| Kaijuu ga Deru Kinyoubi | 222438 | [222438-kaijuu-ga-deru-kinyoubi.json](./222438-kaijuu-ga-deru-kinyoubi.json) |
 | Kaijuu Kitan Oboro: Jyuuya Kuuko Mangekyou | 114546 | [114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json](./114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json) |
 | Kaijuu Monogatari | 48446 | [48446-kaijuu-monogatari.json](./48446-kaijuu-monogatari.json) |
 | Kaijuu Senki | 166658 | [166658-kaijuu-senki.json](./166658-kaijuu-senki.json) |
@@ -2843,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill It With Fire: Exterminator Edition | 208574 | [208574-kill-it-with-fire-exterminator-edition.json](./208574-kill-it-with-fire-exterminator-edition.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill It With Fire: Ignition | 133071 | [133071-kill-it-with-fire-ignition.json](./133071-kill-it-with-fire-ignition.json) |
+| Kill It With Fire: Year of the Spider | 238161 | [238161-kill-it-with-fire-year-of-the-spider.json](./238161-kill-it-with-fire-year-of-the-spider.json) |
 | Kill Justin Beaver | 332152 | [332152-kill-justin-beaver.json](./332152-kill-justin-beaver.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
 | Kill King | 189923 | [189923-kill-king.json](./189923-kill-king.json) |
