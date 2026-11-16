@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Definitive Fantasy | 340897 | [340897-last-definitive-fantasy.json](./340897-last-definitive-fantasy.json) |
 | Last Devil | 194688 | [194688-last-devil.json](./194688-last-devil.json) |
 | Last Dino Standing | 282984 | [282984-last-dino-standing.json](./282984-last-dino-standing.json) |
+| Last Ditch Effort | 415174 | [415174-last-ditch-effort.json](./415174-last-ditch-effort.json) |
 | Last Dive: Echo Trench | 405764 | [405764-last-dive-echo-trench.json](./405764-last-dive-echo-trench.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
 | Last Draft | 401161 | [401161-last-draft.json](./401161-last-draft.json) |
@@ -5612,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lije | 182047 | [182047-lije.json](./182047-lije.json) |
 | Like a Boss | 19079 | [19079-like-a-boss.json](./19079-like-a-boss.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
+| Like a dog | 415369 | [415369-like-a-dog.json](./415369-like-a-dog.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name - Deluxe Edition | 275808 | [275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json](./275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name - Legendary Fighter Pack | 275762 | [275762-like-a-dragon-gaiden-the-man-who-erased-his-name-legendary-fighter-pack.json](./275762-like-a-dragon-gaiden-the-man-who-erased-his-name-legendary-fighter-pack.json) |
@@ -6717,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
 | Little Hooky | 318346 | [318346-little-hooky.json](./318346-little-hooky.json) |
 | Little Horror Raiser | 216185 | [216185-little-horror-raiser.json](./216185-little-horror-raiser.json) |
+| Little Horrors: The Mortuary | 414668 | [414668-little-horrors-the-mortuary.json](./414668-little-horrors-the-mortuary.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
 | Little House | 341833 | [341833-little-house.json](./341833-little-house.json) |
 | Little Ideology | 134849 | [134849-little-ideology.json](./134849-little-ideology.json) |
