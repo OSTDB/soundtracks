@@ -3903,6 +3903,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
 | Kingdom of Kroz II | 70744 | [70744-kingdom-of-kroz-ii.json](./70744-kingdom-of-kroz-ii.json) |
 | Kingdom of Kuru: The Great Race | 149277 | [149277-kingdom-of-kuru-the-great-race.json](./149277-kingdom-of-kuru-the-great-race.json) |
+| Kingdom of Liars 1 | 393073 | [393073-kingdom-of-liars-1.json](./393073-kingdom-of-liars-1.json) |
+| Kingdom of Liars 2 | 393074 | [393074-kingdom-of-liars-2.json](./393074-kingdom-of-liars-2.json) |
+| Kingdom of Liars 3 | 393075 | [393075-kingdom-of-liars-3.json](./393075-kingdom-of-liars-3.json) |
 | Kingdom of Liars: Stonepath | 393158 | [393158-kingdom-of-liars-stonepath.json](./393158-kingdom-of-liars-stonepath.json) |
 | Kingdom of Lies | 120102 | [120102-kingdom-of-lies.json](./120102-kingdom-of-lies.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
