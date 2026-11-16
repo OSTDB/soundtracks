@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C21: Steel Battle Chronicles | 240373 | [240373-c21-steel-battle-chronicles.json](./240373-c21-steel-battle-chronicles.json) |
 | C2H6O | 69384 | [69384-c2h6o.json](./69384-c2h6o.json) |
 | C4 Clicker: First Mint | 363119 | [363119-c4-clicker-first-mint.json](./363119-c4-clicker-first-mint.json) |
+| C4: Classical Caliber Combat Contest | 371803 | [371803-c4-classical-caliber-combat-contest.json](./371803-c4-classical-caliber-combat-contest.json) |
 | C5 Clive | 86025 | [86025-c5-clive.json](./86025-c5-clive.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
 | C64 & Amiga Classix Remakes Sixpack 2 | 84129 | [84129-c64-and-amiga-classix-remakes-sixpack-2.json](./84129-c64-and-amiga-classix-remakes-sixpack-2.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat in Temple | 418369 | [418369-cat-in-temple.json](./418369-cat-in-temple.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
 | Cat in the Box | 410181 | [410181-cat-in-the-box.json](./410181-cat-in-the-box.json) |
+| Cat in the tomb | 373961 | [373961-cat-in-the-tomb.json](./373961-cat-in-the-tomb.json) |
 | Cat Inside | 108343 | [108343-cat-inside.json](./108343-cat-inside.json) |
 | CAT Interstellar | 34933 | [34933-cat-interstellar.json](./34933-cat-interstellar.json) |
 | Cat Interstellar: Episode II | 173994 | [173994-cat-interstellar-episode-ii.json](./173994-cat-interstellar-episode-ii.json) |
@@ -8087,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Coop | 237116 | [237116-chicken-coop.json](./237116-chicken-coop.json) |
 | Chicken Coop | 42165 | [42165-chicken-coop.json](./42165-chicken-coop.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
+| Chicken Craft | 372926 | [372926-chicken-craft.json](./372926-chicken-craft.json) |
 | Chicken Daddy | 89480 | [89480-chicken-daddy.json](./89480-chicken-daddy.json) |
 | Chicken Defender | 166616 | [166616-chicken-defender.json](./166616-chicken-defender.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
@@ -9458,6 +9461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
 | Chromatron 1, 2, 3, 4: The Complete Collection | 93284 | [93284-chromatron-1-2-3-4-the-complete-collection.json](./93284-chromatron-1-2-3-4-the-complete-collection.json) |
+| Chromatron 2 | 371798 | [371798-chromatron-2.json](./371798-chromatron-2.json) |
 | ChromaZone | 316704 | [316704-chromazone.json](./316704-chromazone.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome | 7873 | [7873-chrome.json](./7873-chrome.json) |
@@ -9501,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle of Infinity | 194117 | [194117-chronicle-of-infinity.json](./194117-chronicle-of-infinity.json) |
 | Chronicle of Innsmouth | 28527 | [28527-chronicle-of-innsmouth.json](./28527-chronicle-of-innsmouth.json) |
 | Chronicle of Innsmouth: Mountains of Madness | 111277 | [111277-chronicle-of-innsmouth-mountains-of-madness.json](./111277-chronicle-of-innsmouth-mountains-of-madness.json) |
+| Chronicle of Scarlet | 371792 | [371792-chronicle-of-scarlet.json](./371792-chronicle-of-scarlet.json) |
 | Chronicle of Wuxia & Xianxia Survivors | 406548 | [406548-chronicle-of-wuxia-and-xianxia-survivors.json](./406548-chronicle-of-wuxia-and-xianxia-survivors.json) |
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
 | Chronicle: Rewritten | 307845 | [307845-chronicle-rewritten.json](./307845-chronicle-rewritten.json) |
@@ -13836,6 +13841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colored Pencil Bakery | 393211 | [393211-colored-pencil-bakery.json](./393211-colored-pencil-bakery.json) |
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
 | Coloree | 141695 | [141695-coloree.json](./141695-coloree.json) |
+| Coloree | 373963 | [373963-coloree.json](./373963-coloree.json) |
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
 | Colorfall | 146940 | [146940-colorfall.json](./146940-colorfall.json) |
 | Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
@@ -16186,6 +16192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Clicker classic | 317780 | [317780-cookie-clicker-classic.json](./317780-cookie-clicker-classic.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
+| Cookie Clickers | 371802 | [371802-cookie-clickers.json](./371802-cookie-clickers.json) |
 | Cookie Clickers 2 | 373227 | [373227-cookie-clickers-2.json](./373227-cookie-clickers-2.json) |
 | Cookie Collector 2 | 58734 | [58734-cookie-collector-2.json](./58734-cookie-collector-2.json) |
 | Cookie Crisp City | 330362 | [330362-cookie-crisp-city.json](./330362-cookie-crisp-city.json) |
@@ -17416,6 +17423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmosiege | 264182 | [264182-cosmosiege.json](./264182-cosmosiege.json) |
 | Cosmoswat | 386514 | [386514-cosmoswat.json](./386514-cosmoswat.json) |
 | Cosmotica | 215519 | [215519-cosmotica.json](./215519-cosmotica.json) |
+| Cosmotiles | 372925 | [372925-cosmotiles.json](./372925-cosmotiles.json) |
 | Cosmotots | 303739 | [303739-cosmotots.json](./303739-cosmotots.json) |
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
 | Cosmotronik | 142033 | [142033-cosmotronik.json](./142033-cosmotronik.json) |
@@ -18041,6 +18049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Littlequarium | 379944 | [379944-cozy-littlequarium.json](./379944-cozy-littlequarium.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Meadow | 335353 | [335353-cozy-meadow.json](./335353-cozy-meadow.json) |
+| Cozy Memory | 373960 | [373960-cozy-memory.json](./373960-cozy-memory.json) |
 | Cozy Mining | 407047 | [407047-cozy-mining.json](./407047-cozy-mining.json) |
 | Cozy Monsters: The Mischievous Trabus | 356521 | [356521-cozy-monsters-the-mischievous-trabus.json](./356521-cozy-monsters-the-mischievous-trabus.json) |
 | Cozy Mozy | 399153 | [399153-cozy-mozy.json](./399153-cozy-mozy.json) |
@@ -19348,6 +19357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creator Shelter: DLC Cuisine | 418504 | [418504-creator-shelter-dlc-cuisine.json](./418504-creator-shelter-dlc-cuisine.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
 | Creator's Chasm | 148811 | [148811-creators-chasm.json](./148811-creators-chasm.json) |
+| Creator's Fall | 371760 | [371760-creators-fall.json](./371760-creators-fall.json) |
 | CreatorAdventureLegend | 132458 | [132458-creatoradventurelegend.json](./132458-creatoradventurelegend.json) |
 | CreatorCrate | 119905 | [119905-creatorcrate.json](./119905-creatorcrate.json) |
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
@@ -22196,6 +22206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cumma Celeritate | 322395 | [322395-cumma-celeritate.json](./322395-cumma-celeritate.json) |
 | Cumming Hotel: A Gay Furry Slice of Life | 225636 | [225636-cumming-hotel-a-gay-furry-slice-of-life.json](./225636-cumming-hotel-a-gay-furry-slice-of-life.json) |
 | Cumming of Age | 371980 | [371980-cumming-of-age.json](./371980-cumming-of-age.json) |
+| Cummon | 371781 | [371781-cummon.json](./371781-cummon.json) |
 | Cummy Bender | 285653 | [285653-cummy-bender.json](./285653-cummy-bender.json) |
 | Cumrooms | 385318 | [385318-cumrooms.json](./385318-cumrooms.json) |
 | Cumulater | 241347 | [241347-cumulater.json](./241347-cumulater.json) |
@@ -23603,6 +23614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
 | Cycles of Aylorea | 168613 | [168613-cycles-of-aylorea.json](./168613-cycles-of-aylorea.json) |
 | Cycles of Aylorea | 322020 | [322020-cycles-of-aylorea.json](./322020-cycles-of-aylorea.json) |
+| Cyclia Journey | 373974 | [373974-cyclia-journey.json](./373974-cyclia-journey.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cyclic Warriors | 292196 | [292196-cyclic-warriors.json](./292196-cyclic-warriors.json) |
 | Cyclical Recurrences | 408079 | [408079-cyclical-recurrences.json](./408079-cyclical-recurrences.json) |
