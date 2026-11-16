@@ -8463,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift Wizard 3 | 400404 | [400404-rift-wizard-3.json](./400404-rift-wizard-3.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
+| Rift: Genesis | 279908 | [279908-rift-genesis.json](./279908-rift-genesis.json) |
 | Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
 | Rift: Starfall Prophecy | 26137 | [26137-rift-starfall-prophecy.json](./26137-rift-starfall-prophecy.json) |
 | Rift: Storm Legion | 1935 | [1935-rift-storm-legion.json](./1935-rift-storm-legion.json) |
@@ -11831,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
 | Rollers of the Realm | 16823 | [16823-rollers-of-the-realm.json](./16823-rollers-of-the-realm.json) |
 | Rollers of the Realm: Reunion | 151943 | [151943-rollers-of-the-realm-reunion.json](./151943-rollers-of-the-realm-reunion.json) |
+| Rolley-Ball | 279910 | [279910-rolley-ball.json](./279910-rolley-ball.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rollie Panda Hat Edition | 105672 | [105672-rollie-panda-hat-edition.json](./105672-rollie-panda-hat-edition.json) |
