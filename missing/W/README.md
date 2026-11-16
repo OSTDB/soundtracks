@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk in the Park | 315308 | [315308-walk-in-the-park.json](./315308-walk-in-the-park.json) |
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
+| Walk in the Sun | 228797 | [228797-walk-in-the-sun.json](./228797-walk-in-the-sun.json) |
 | Walk It Out! | 50660 | [50660-walk-it-out.json](./50660-walk-it-out.json) |
 | Walk It! | 364614 | [364614-walk-it.json](./364614-walk-it.json) |
 | Walk Master | 165342 | [165342-walk-master.json](./165342-walk-master.json) |
@@ -5365,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Killed My Father Academy! | 134878 | [134878-who-killed-my-father-academy.json](./134878-who-killed-my-father-academy.json) |
 | Who Killed My Sister? | 122946 | [122946-who-killed-my-sister.json](./122946-who-killed-my-sister.json) |
 | Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
+| Who Knocks | 228772 | [228772-who-knocks.json](./228772-who-knocks.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
 | Who Let The Chickens Out? | 268820 | [268820-who-let-the-chickens-out.json](./268820-who-let-the-chickens-out.json) |
 | Who Let the Critters Out?! | 202989 | [202989-who-let-the-critters-out.json](./202989-who-let-the-critters-out.json) |
@@ -8947,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup | 130762 | [130762-world-cup.json](./130762-world-cup.json) |
 | World Cup | 174657 | [174657-world-cup.json](./174657-world-cup.json) |
 | World Cup '98 France: Road to Win | 271931 | [271931-world-cup-98-france-road-to-win.json](./271931-world-cup-98-france-road-to-win.json) |
+| World Cup 98 | 228784 | [228784-world-cup-98.json](./228784-world-cup-98.json) |
 | World Cup Carnival | 69817 | [69817-world-cup-carnival.json](./69817-world-cup-carnival.json) |
 | World Cup Football | 130764 | [130764-world-cup-football.json](./130764-world-cup-football.json) |
 | World Cup Golf | 205847 | [205847-world-cup-golf.json](./205847-world-cup-golf.json) |
@@ -10660,6 +10663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wylde Society | 325181 | [325181-wylde-society.json](./325181-wylde-society.json) |
 | Wyldheart | 395042 | [395042-wyldheart.json](./395042-wyldheart.json) |
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
+| Wyoming Winter | 228807 | [228807-wyoming-winter.json](./228807-wyoming-winter.json) |
 | Wyprawa po zlote runo | 318490 | [318490-wyprawa-po-zlote-runo.json](./318490-wyprawa-po-zlote-runo.json) |
 | Wyrd Gun | 253488 | [253488-wyrd-gun.json](./253488-wyrd-gun.json) |
 | Wyrd Waters | 322464 | [322464-wyrd-waters.json](./322464-wyrd-waters.json) |
