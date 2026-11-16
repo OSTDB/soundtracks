@@ -9921,6 +9921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Rush | 273430 | [273430-robo-rush.json](./273430-robo-rush.json) |
 | Robo Sham Boro | 348283 | [348283-robo-sham-boro.json](./348283-robo-sham-boro.json) |
 | Robo Terror | 158116 | [158116-robo-terror.json](./158116-robo-terror.json) |
+| Robo Tito | 387766 | [387766-robo-tito.json](./387766-robo-tito.json) |
 | Robo Vacuum Simulator | 181003 | [181003-robo-vacuum-simulator.json](./181003-robo-vacuum-simulator.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
