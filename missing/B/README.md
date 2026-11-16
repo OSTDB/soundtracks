@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Athena | 310496 | [310496-battleship-athena.json](./310496-battleship-athena.json) |
 | Battleship Avalon | 309539 | [309539-battleship-avalon.json](./309539-battleship-avalon.json) |
 | Battleship Bishojo | 29021 | [29021-battleship-bishojo.json](./29021-battleship-bishojo.json) |
+| Battleship Bismarck: Operation Rhine - May 1941 | 329859 | [329859-battleship-bismarck-operation-rhine-may-1941.json](./329859-battleship-bismarck-operation-rhine-may-1941.json) |
 | Battleship Blitz | 374103 | [374103-battleship-blitz.json](./374103-battleship-blitz.json) |
 | Battleship Command | 403062 | [403062-battleship-command.json](./403062-battleship-command.json) |
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
@@ -6793,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Akhira | 164147 | [164147-before-akhira.json](./164147-before-akhira.json) |
 | Before All Saints Day | 425161 | [425161-before-all-saints-day.json](./425161-before-all-saints-day.json) |
 | Before Arriving at the Terminal | 123942 | [123942-before-arriving-at-the-terminal.json](./123942-before-arriving-at-the-terminal.json) |
+| Before Arthur | 329857 | [329857-before-arthur.json](./329857-before-arthur.json) |
 | Before Began | 157363 | [157363-before-began.json](./157363-before-began.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
 | Before Crisis: Final Fantasy VII | 80033 | [80033-before-crisis-final-fantasy-vii.json](./80033-before-crisis-final-fantasy-vii.json) |
