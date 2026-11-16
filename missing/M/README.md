@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai DX Buddies Plus | 309594 | [309594-maimai-dx-buddies-plus.json](./309594-maimai-dx-buddies-plus.json) |
 | Maimai DX Circle | 367190 | [367190-maimai-dx-circle.json](./367190-maimai-dx-circle.json) |
 | Maimai DX Circle Plus | 394931 | [394931-maimai-dx-circle-plus.json](./394931-maimai-dx-circle-plus.json) |
+| Maimai DX Festival | 239849 | [239849-maimai-dx-festival.json](./239849-maimai-dx-festival.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Prism | 316354 | [316354-maimai-dx-prism.json](./316354-maimai-dx-prism.json) |
@@ -8292,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Bundle 15-in-1 | 401132 | [401132-mega-bundle-15-in-1.json](./401132-mega-bundle-15-in-1.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Business M: Business World | 199900 | [199900-mega-business-m-business-world.json](./199900-mega-business-m-business-world.json) |
+| Mega Button Soccer | 239843 | [239843-mega-button-soccer.json](./239843-mega-button-soccer.json) |
 | Mega Capital | 149383 | [149383-mega-capital.json](./149383-mega-capital.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Casanova | 270229 | [270229-mega-casanova.json](./270229-mega-casanova.json) |
@@ -17021,6 +17023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
 | Molecules | 179801 | [179801-molecules.json](./179801-molecules.json) |
 | Molefest | 351746 | [351746-molefest.json](./351746-molefest.json) |
+| Molehill Empire | 239948 | [239948-molehill-empire.json](./239948-molehill-empire.json) |
 | Molehill Empire 2 | 347203 | [347203-molehill-empire-2.json](./347203-molehill-empire-2.json) |
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Molekraft | 388353 | [388353-molekraft.json](./388353-molekraft.json) |
@@ -20053,6 +20056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
 | Mother 4 | 186042 | [186042-mother-4.json](./186042-mother-4.json) |
 | Mother 4 | 300351 | [300351-mother-4.json](./300351-mother-4.json) |
+| Mother Bird Horror Story Ch2 | 239855 | [239855-mother-bird-horror-story-ch2.json](./239855-mother-bird-horror-story-ch2.json) |
 | Mother Bunker VR | 311513 | [311513-mother-bunker-vr.json](./311513-mother-bunker-vr.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
 | Mother Clucker | 181406 | [181406-mother-clucker.json](./181406-mother-clucker.json) |
@@ -22827,6 +22831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Adventure Book | 288722 | [288722-my-adventure-book.json](./288722-my-adventure-book.json) |
 | My Adventures Checking Out "Animals of the World: The Adventures of Civette the Space-Faring Civet" | 186455 | [186455-my-adventures-checking-out-animals-of-the-world-the-adventures-of-civette-the-space-faring-civet.json](./186455-my-adventures-checking-out-animals-of-the-world-the-adventures-of-civette-the-space-faring-civet.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
+| My Alien Roommate | 239840 | [239840-my-alien-roommate.json](./239840-my-alien-roommate.json) |
 | My Amazing Human Body | 129506 | [129506-my-amazing-human-body.json](./129506-my-amazing-human-body.json) |
 | My Ambitious Girlfriend | 299522 | [299522-my-ambitious-girlfriend.json](./299522-my-ambitious-girlfriend.json) |
 | My Amusement Park | 230438 | [230438-my-amusement-park.json](./230438-my-amusement-park.json) |
