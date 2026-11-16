@@ -6948,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delivery Issues | 369017 | [369017-delivery-issues.json](./369017-delivery-issues.json) |
 | Delivery Kore | 239769 | [239769-delivery-kore.json](./239769-delivery-kore.json) |
+| Delivery Life Simulator | 269262 | [269262-delivery-life-simulator.json](./269262-delivery-life-simulator.json) |
 | Delivery Man | 226005 | [226005-delivery-man.json](./226005-delivery-man.json) |
 | Delivery man simulator | 99628 | [99628-delivery-man-simulator.json](./99628-delivery-man-simulator.json) |
 | Delivery Mayhem | 296888 | [296888-delivery-mayhem.json](./296888-delivery-mayhem.json) |
@@ -12587,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Dungeons | 138510 | [138510-divine-dungeons.json](./138510-divine-dungeons.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Favor | 149136 | [149136-divine-favor.json](./149136-divine-favor.json) |
+| Divine Frequency | 269263 | [269263-divine-frequency.json](./269263-divine-frequency.json) |
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
 | Divine Gate | 77747 | [77747-divine-gate.json](./77747-divine-gate.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
