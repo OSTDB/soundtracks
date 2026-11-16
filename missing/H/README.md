@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halver | 168662 | [168662-halver.json](./168662-halver.json) |
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
+| Ham Eater | 396172 | [396172-ham-eater.json](./396172-ham-eater.json) |
 | Ham Ham Hamsters | 375092 | [375092-ham-ham-hamsters.json](./375092-ham-ham-hamsters.json) |
 | Ham Ham Monster EX | 287260 | [287260-ham-ham-monster-ex.json](./287260-ham-ham-monster-ex.json) |
 | Ham Hole | 403358 | [403358-ham-hole.json](./403358-ham-hole.json) |
@@ -11603,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror of the High Seas: Episode 4 - Pirate Ship of Fools | 299638 | [299638-horror-of-the-high-seas-episode-4-pirate-ship-of-fools.json](./299638-horror-of-the-high-seas-episode-4-pirate-ship-of-fools.json) |
 | Horror of Victim | 293484 | [293484-horror-of-victim.json](./293484-horror-of-victim.json) |
 | Horror Office | 319232 | [319232-horror-office.json](./319232-horror-office.json) |
+| Horror Park | 395315 | [395315-horror-park.json](./395315-horror-park.json) |
 | Horror Park of Willie Mouse | 326694 | [326694-horror-park-of-willie-mouse.json](./326694-horror-park-of-willie-mouse.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
 | Horror Pipes | 396677 | [396677-horror-pipes.json](./396677-horror-pipes.json) |
@@ -12665,6 +12667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Tycoon: Spin slot machine | 221347 | [221347-house-tycoon-spin-slot-machine.json](./221347-house-tycoon-spin-slot-machine.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
 | House Zero | 421391 | [421391-house-zero.json](./421391-house-zero.json) |
+| Housebroken Hero | 395318 | [395318-housebroken-hero.json](./395318-housebroken-hero.json) |
 | Household Budget Management | 42197 | [42197-household-budget-management.json](./42197-household-budget-management.json) |
 | Housekeeper: Anomaly | 350532 | [350532-housekeeper-anomaly.json](./350532-housekeeper-anomaly.json) |
 | Housekeeping to Room 501 | 325267 | [325267-housekeeping-to-room-501.json](./325267-housekeeping-to-room-501.json) |
