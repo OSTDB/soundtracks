@@ -6677,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozymandias: Complete Edition | 378858 | [378858-ozymandias-complete-edition.json](./378858-ozymandias-complete-edition.json) |
 | Ozymandias: Deluxe Edition | 259524 | [259524-ozymandias-deluxe-edition.json](./259524-ozymandias-deluxe-edition.json) |
 | Ozymandias: Indonesia | 235555 | [235555-ozymandias-indonesia.json](./235555-ozymandias-indonesia.json) |
+| Ozymandias: Last Strive | 362539 | [362539-ozymandias-last-strive.json](./362539-ozymandias-last-strive.json) |
 | Ozymandias: Mesoamerica | 232436 | [232436-ozymandias-mesoamerica.json](./232436-ozymandias-mesoamerica.json) |
 | Ozymandias: Sahara Desert | 236053 | [236053-ozymandias-sahara-desert.json](./236053-ozymandias-sahara-desert.json) |
 | Ozymandias: The Andes | 236800 | [236800-ozymandias-the-andes.json](./236800-ozymandias-the-andes.json) |
