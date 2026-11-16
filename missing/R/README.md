@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainforest Adventure | 53491 | [53491-rainforest-adventure.json](./53491-rainforest-adventure.json) |
 | Rainforest Cascade | 69845 | [69845-rainforest-cascade.json](./69845-rainforest-cascade.json) |
 | Rainforest Solitaire | 380929 | [380929-rainforest-solitaire.json](./380929-rainforest-solitaire.json) |
+| Raini: The Lords of Light | 257019 | [257019-raini-the-lords-of-light.json](./257019-raini-the-lords-of-light.json) |
 | Raining Blobs | 24050 | [24050-raining-blobs.json](./24050-raining-blobs.json) |
 | Raining blocks | 81764 | [81764-raining-blocks.json](./81764-raining-blocks.json) |
 | Raining Blood: Hellfire | 219491 | [219491-raining-blood-hellfire.json](./219491-raining-blood-hellfire.json) |
@@ -2312,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rare Rabbits: Snuggle Haven | 374107 | [374107-rare-rabbits-snuggle-haven.json](./374107-rare-rabbits-snuggle-haven.json) |
 | Rare Replay | 11147 | [11147-rare-replay.json](./11147-rare-replay.json) |
 | Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
+| Rarity Chase | 258237 | [258237-rarity-chase.json](./258237-rarity-chase.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
 | Rascal | 94445 | [94445-rascal.json](./94445-rascal.json) |
 | Rascal Fight | 116534 | [116534-rascal-fight.json](./116534-rascal-fight.json) |
@@ -5839,6 +5841,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade | 191644 | [191644-renegade.json](./191644-renegade.json) |
 | Renegade | 255243 | [255243-renegade.json](./255243-renegade.json) |
 | Renegade | 255262 | [255262-renegade.json](./255262-renegade.json) |
+| Renegade | 255309 | [255309-renegade.json](./255309-renegade.json) |
+| Renegade | 255318 | [255318-renegade.json](./255318-renegade.json) |
+| Renegade | 255319 | [255319-renegade.json](./255319-renegade.json) |
 | Renegade | 6852 | [6852-renegade.json](./6852-renegade.json) |
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
 | Renegade Grounds: Episode 2 | 127579 | [127579-renegade-grounds-episode-2.json](./127579-renegade-grounds-episode-2.json) |
@@ -9031,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
 | Risen 3: Titan Lords - Complete Edition | 51872 | [51872-risen-3-titan-lords-complete-edition.json](./51872-risen-3-titan-lords-complete-edition.json) |
 | Risen 3: Titan Lords - Enhanced Edition | 42939 | [42939-risen-3-titan-lords-enhanced-edition.json](./42939-risen-3-titan-lords-enhanced-edition.json) |
+| Risen Dead | 255404 | [255404-risen-dead.json](./255404-risen-dead.json) |
 | Risen Dragons | 53514 | [53514-risen-dragons.json](./53514-risen-dragons.json) |
 | Risen Kingdom | 128025 | [128025-risen-kingdom.json](./128025-risen-kingdom.json) |
 | Riseon | 345831 | [345831-riseon.json](./345831-riseon.json) |
@@ -12994,6 +13000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
 | Roxy Raccoon's Pinball Panic: Roman Renaissance | 354197 | [354197-roxy-raccoons-pinball-panic-roman-renaissance.json](./354197-roxy-raccoons-pinball-panic-roman-renaissance.json) |
 | Roxy Raccoon's Pinball Panic: Space Spectacular | 248229 | [248229-roxy-raccoons-pinball-panic-space-spectacular.json](./248229-roxy-raccoons-pinball-panic-space-spectacular.json) |
+| Roxy Raccoon's Pinball Panic: Sports Spectacle | 255317 | [255317-roxy-raccoons-pinball-panic-sports-spectacle.json](./255317-roxy-raccoons-pinball-panic-sports-spectacle.json) |
 | Roxy Raccoon's Pinball Panic: St. Patrick's Paradise | 241315 | [241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json](./241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
 | Roxy Raccoon's Pinball Panic: Tabletop Terror | 298258 | [298258-roxy-raccoons-pinball-panic-tabletop-terror.json](./298258-roxy-raccoons-pinball-panic-tabletop-terror.json) |
