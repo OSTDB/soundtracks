@@ -14283,6 +14283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poosh XL | 236361 | [236361-poosh-xl.json](./236361-poosh-xl.json) |
 | PooShooter: Toilet Invaders | 31672 | [31672-pooshooter-toilet-invaders.json](./31672-pooshooter-toilet-invaders.json) |
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
+| Poostall Royale | 243433 | [243433-poostall-royale.json](./243433-poostall-royale.json) |
 | Pooties | 239988 | [239988-pooties.json](./239988-pooties.json) |
 | Pooyan | 218771 | [218771-pooyan.json](./218771-pooyan.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
