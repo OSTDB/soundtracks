@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Girl | 189219 | [189219-lazy-girl.json](./189219-lazy-girl.json) |
 | Lazy Jiangshi | 259048 | [259048-lazy-jiangshi.json](./259048-lazy-jiangshi.json) |
 | Lazy Jones | 18964 | [18964-lazy-jones.json](./18964-lazy-jones.json) |
+| Lazy Jump | 219853 | [219853-lazy-jump.json](./219853-lazy-jump.json) |
 | Lazy Kickers | 407559 | [407559-lazy-kickers.json](./407559-lazy-kickers.json) |
 | Lazy Lord: War on the Desktop | 372389 | [372389-lazy-lord-war-on-the-desktop.json](./372389-lazy-lord-war-on-the-desktop.json) |
 | Lazy Master | 251445 | [251445-lazy-master.json](./251445-lazy-master.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Catalonia | 118654 | [118654-legends-of-catalonia.json](./118654-legends-of-catalonia.json) |
 | Legends of Celestite: The All Bearer | 238802 | [238802-legends-of-celestite-the-all-bearer.json](./238802-legends-of-celestite-the-all-bearer.json) |
 | Legends of China: Chang'e Flies to the Moon - Collector's Edition | 416471 | [416471-legends-of-china-change-flies-to-the-moon-collectors-edition.json](./416471-legends-of-china-change-flies-to-the-moon-collectors-edition.json) |
+| Legends of Chronos | 219860 | [219860-legends-of-chronos.json](./219860-legends-of-chronos.json) |
 | Legends of Cobalt Lake & District | 323648 | [323648-legends-of-cobalt-lake-and-district.json](./323648-legends-of-cobalt-lake-and-district.json) |
 | Legends of Crystal | 210959 | [210959-legends-of-crystal.json](./210959-legends-of-crystal.json) |
 | Legends of Dawn | 6858 | [6858-legends-of-dawn.json](./6858-legends-of-dawn.json) |
