@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
 | Backyard Brawl | 111098 | [111098-backyard-brawl.json](./111098-backyard-brawl.json) |
 | Backyard Buzzing | 285134 | [285134-backyard-buzzing.json](./285134-backyard-buzzing.json) |
+| Backyard Defenders | 360811 | [360811-backyard-defenders.json](./360811-backyard-defenders.json) |
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
 | Backyard Football | 122751 | [122751-backyard-football.json](./122751-backyard-football.json) |
 | Backyard Football | 122752 | [122752-backyard-football.json](./122752-backyard-football.json) |
@@ -6838,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
 | Before the Tee | 405553 | [405553-before-the-tee.json](./405553-before-the-tee.json) |
 | Before the Walls Break | 388298 | [388298-before-the-walls-break.json](./388298-before-the-walls-break.json) |
+| Before They Catch Us | 360817 | [360817-before-they-catch-us.json](./360817-before-they-catch-us.json) |
 | Before They Leave | 184918 | [184918-before-they-leave.json](./184918-before-they-leave.json) |
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
 | Before We Leave: Deluxe Edition | 242609 | [242609-before-we-leave-deluxe-edition.json](./242609-before-we-leave-deluxe-edition.json) |
@@ -8294,7 +8296,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big 10 | 54993 | [54993-big-10.json](./54993-big-10.json) |
 | Big 4 Sports Trivia | 89050 | [89050-big-4-sports-trivia.json](./89050-big-4-sports-trivia.json) |
 | Big 8 Solitaire | 285279 | [285279-big-8-solitaire.json](./285279-big-8-solitaire.json) |
-| Big Action Mega Fight! | 35586 | [35586-big-action-mega-fight.json](./35586-big-action-mega-fight.json) |
 | Big Adventure | 330271 | [330271-big-adventure.json](./330271-big-adventure.json) |
 | Big Adventure | 411977 | [411977-big-adventure.json](./411977-big-adventure.json) |
 | Big Adventure 5-in-1 Bundle | 328559 | [328559-big-adventure-5-in-1-bundle.json](./328559-big-adventure-5-in-1-bundle.json) |
