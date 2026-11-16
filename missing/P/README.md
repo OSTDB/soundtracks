@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Master | 358434 | [358434-pack-master.json](./358434-pack-master.json) |
 | Pack my LunchBox | 383890 | [383890-pack-my-lunchbox.json](./383890-pack-my-lunchbox.json) |
 | Pack my LunchBox: Showtime | 406469 | [406469-pack-my-lunchbox-showtime.json](./406469-pack-my-lunchbox-showtime.json) |
+| Pack My Order | 406357 | [406357-pack-my-order.json](./406357-pack-my-order.json) |
 | Pack My Stuff | 197142 | [197142-pack-my-stuff.json](./197142-pack-my-stuff.json) |
 | Pack My Stuff: New City | 257206 | [257206-pack-my-stuff-new-city.json](./257206-pack-my-stuff-new-city.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
@@ -3283,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patched | 404034 | [404034-patched.json](./404034-patched.json) |
 | Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
 | Patches of Adventure | 134760 | [134760-patches-of-adventure.json](./134760-patches-of-adventure.json) |
+| Patchkins Party | 406969 | [406969-patchkins-party.json](./406969-patchkins-party.json) |
 | Patchman Adventures | 174237 | [174237-patchman-adventures.json](./174237-patchman-adventures.json) |
 | Patchman vs. Blue Squares | 90119 | [90119-patchman-vs-blue-squares.json](./90119-patchman-vs-blue-squares.json) |
 | Patchman vs. Red Circles | 35012 | [35012-patchman-vs-red-circles.json](./35012-patchman-vs-red-circles.json) |
@@ -5425,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesky Humans | 169912 | [169912-pesky-humans.json](./169912-pesky-humans.json) |
 | Pesky Humans | 23493 | [23493-pesky-humans.json](./23493-pesky-humans.json) |
 | Pesky Orcs! | 381086 | [381086-pesky-orcs.json](./381086-pesky-orcs.json) |
+| Pesque e Pegue | 406367 | [406367-pesque-e-pegue.json](./406367-pesque-e-pegue.json) |
 | Pest Apocalypse | 297182 | [297182-pest-apocalypse.json](./297182-pest-apocalypse.json) |
 | Pest Control | 120123 | [120123-pest-control.json](./120123-pest-control.json) |
 | Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
@@ -9175,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Heroes: Mega Byte & Magic | 178807 | [178807-pixel-heroes-mega-byte-and-magic.json](./178807-pixel-heroes-mega-byte-and-magic.json) |
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
 | Pixel Heros - Idle RPG | 58633 | [58633-pixel-heros-idle-rpg.json](./58633-pixel-heros-idle-rpg.json) |
+| Pixel Hook | 406372 | [406372-pixel-hook.json](./406372-pixel-hook.json) |
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Hunt | 304621 | [304621-pixel-hunt.json](./304621-pixel-hunt.json) |
@@ -10744,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
 | Plasma Ball | 48829 | [48829-plasma-ball.json](./48829-plasma-ball.json) |
+| Plasma Dome | 406360 | [406360-plasma-dome.json](./406360-plasma-dome.json) |
 | Plasma Drone | 243512 | [243512-plasma-drone.json](./243512-plasma-drone.json) |
 | Plasma Fist | 191945 | [191945-plasma-fist.json](./191945-plasma-fist.json) |
 | Plasma Orb | 293880 | [293880-plasma-orb.json](./293880-plasma-orb.json) |
@@ -17043,6 +17048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Soccer | 83350 | [83350-pro-soccer.json](./83350-pro-soccer.json) |
 | PRO Soccer Challenges 2018 - World Football Stars | 95881 | [95881-pro-soccer-challenges-2018-world-football-stars.json](./95881-pro-soccer-challenges-2018-world-football-stars.json) |
 | Pro Soccer Cup 2002 | 251053 | [251053-pro-soccer-cup-2002.json](./251053-pro-soccer-cup-2002.json) |
+| Pro Soccer Manager 27 | 406353 | [406353-pro-soccer-manager-27.json](./406353-pro-soccer-manager-27.json) |
 | Pro Soccer Online | 182202 | [182202-pro-soccer-online.json](./182202-pro-soccer-online.json) |
 | Pro Sport Hockey | 48220 | [48220-pro-sport-hockey.json](./48220-pro-sport-hockey.json) |
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
