@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank War | 59798 | [59798-tank-war.json](./59798-tank-war.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
+| Tank War Shooting Simulator | 267038 | [267038-tank-war-shooting-simulator.json](./267038-tank-war-shooting-simulator.json) |
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
 | Tank Warfare: Longstop Hill | 53719 | [53719-tank-warfare-longstop-hill.json](./53719-tank-warfare-longstop-hill.json) |
 | Tank Warfare: Operation Pugilist | 155088 | [155088-tank-warfare-operation-pugilist.json](./155088-tank-warfare-operation-pugilist.json) |
@@ -3970,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
 | Telegraph Crosswords | 66975 | [66975-telegraph-crosswords.json](./66975-telegraph-crosswords.json) |
 | Telegraph Sudoku & Kakuro | 85429 | [85429-telegraph-sudoku-and-kakuro.json](./85429-telegraph-sudoku-and-kakuro.json) |
+| Telegraphist 1920: Beats of War | 267043 | [267043-telegraphist-1920-beats-of-war.json](./267043-telegraphist-1920-beats-of-war.json) |
 | Telegrum Clicker | 100574 | [100574-telegrum-clicker.json](./100574-telegrum-clicker.json) |
 | Telejogo | 292171 | [292171-telejogo.json](./292171-telejogo.json) |
 | Telejogo II | 292228 | [292228-telejogo-ii.json](./292228-telejogo-ii.json) |
@@ -8638,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cullfield Ritual | 235802 | [235802-the-cullfield-ritual.json](./235802-the-cullfield-ritual.json) |
 | The Culling | 17252 | [17252-the-culling.json](./17252-the-culling.json) |
 | The Culling of the Cows | 9399 | [9399-the-culling-of-the-cows.json](./9399-the-culling-of-the-cows.json) |
+| The Cult | 267057 | [267057-the-cult.json](./267057-the-cult.json) |
 | The Cult | 276375 | [276375-the-cult.json](./276375-the-cult.json) |
 | The Cult of Chanseville | 211820 | [211820-the-cult-of-chanseville.json](./211820-the-cult-of-chanseville.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
@@ -12914,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
 | The King Got Too Much Gold | 423085 | [423085-the-king-got-too-much-gold.json](./423085-the-king-got-too-much-gold.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
+| The King In Yellow: Escape Room | 267050 | [267050-the-king-in-yellow-escape-room.json](./267050-the-king-in-yellow-escape-room.json) |
 | The King is Dead | 310792 | [310792-the-king-is-dead.json](./310792-the-king-is-dead.json) |
 | The king is gone | 141715 | [141715-the-king-is-gone.json](./141715-the-king-is-gone.json) |
 | The King is Watching | 366575 | [366575-the-king-is-watching.json](./366575-the-king-is-watching.json) |
@@ -13465,6 +13469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
+| The Last Kingdom | 267113 | [267113-the-last-kingdom.json](./267113-the-last-kingdom.json) |
 | The Last Knife | 320118 | [320118-the-last-knife.json](./320118-the-last-knife.json) |
 | The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
 | The Last Knight Hawk | 405302 | [405302-the-last-knight-hawk.json](./405302-the-last-knight-hawk.json) |
@@ -14554,6 +14559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Llama L | 214476 | [214476-the-llama-l.json](./214476-the-llama-l.json) |
 | The Llamasoft Collection | 379135 | [379135-the-llamasoft-collection.json](./379135-the-llamasoft-collection.json) |
 | The Lobster Game | 204980 | [204980-the-lobster-game.json](./204980-the-lobster-game.json) |
+| The Local | 267028 | [267028-the-local.json](./267028-the-local.json) |
 | The Locked Room | 365221 | [365221-the-locked-room.json](./365221-the-locked-room.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The Lodge | 310823 | [310823-the-lodge.json](./310823-the-lodge.json) |
@@ -15377,6 +15383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mindvasion | 337359 | [337359-the-mindvasion.json](./337359-the-mindvasion.json) |
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
+| The Mine | 267117 | [267117-the-mine.json](./267117-the-mine.json) |
 | The Mine | 343769 | [343769-the-mine.json](./343769-the-mine.json) |
 | The Mine | 360736 | [360736-the-mine.json](./360736-the-mine.json) |
 | The Mine Room | 375528 | [375528-the-mine-room.json](./375528-the-mine-room.json) |
