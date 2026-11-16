@@ -4131,7 +4131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven Studio | 278231 | [278231-heaven-studio.json](./278231-heaven-studio.json) |
 | Heaven Travel | 254255 | [254255-heaven-travel.json](./254255-heaven-travel.json) |
-| Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
 | Heaven Work | 207438 | [207438-heaven-work.json](./207438-heaven-work.json) |
 | Heaven: Dare mo Kimi wo Shiranai | 318932 | [318932-heaven-dare-mo-kimi-wo-shiranai.json](./318932-heaven-dare-mo-kimi-wo-shiranai.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
