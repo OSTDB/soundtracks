@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Frontier 4 | 208064 | [208064-zombie-frontier-4.json](./208064-zombie-frontier-4.json) |
 | Zombie Fun Run | 322849 | [322849-zombie-fun-run.json](./322849-zombie-fun-run.json) |
 | Zombie Game | 58761 | [58761-zombie-game.json](./58761-zombie-game.json) |
+| Zombie Garden vs. Plants Defence | 243360 | [243360-zombie-garden-vs-plants-defence.json](./243360-zombie-garden-vs-plants-defence.json) |
 | Zombie Girl | 270094 | [270094-zombie-girl.json](./270094-zombie-girl.json) |
 | Zombie Girl | 417984 | [417984-zombie-girl.json](./417984-zombie-girl.json) |
 | Zombie Go | 117031 | [117031-zombie-go.json](./117031-zombie-go.json) |
