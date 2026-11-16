@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games 1 | 319581 | [319581-games-1.json](./319581-games-1.json) |
 | Games 4 | 152112 | [152112-games-4.json](./152112-games-4.json) |
 | Games 4 Boys | 344446 | [344446-games-4-boys.json](./344446-games-4-boys.json) |
+| Games Advent Calendar 2024 | 310312 | [310312-games-advent-calendar-2024.json](./310312-games-advent-calendar-2024.json) |
 | Games Advent Calendar 2024 Bundle | 324198 | [324198-games-advent-calendar-2024-bundle.json](./324198-games-advent-calendar-2024-bundle.json) |
 | Games Advent Calendar 2025 Bundle | 364101 | [364101-games-advent-calendar-2025-bundle.json](./364101-games-advent-calendar-2025-bundle.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
@@ -6097,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomelings: Migration | 41130 | [41130-gnomelings-migration.json](./41130-gnomelings-migration.json) |
 | Gnomemade | 291895 | [291895-gnomemade.json](./291895-gnomemade.json) |
 | Gnomepunk | 145994 | [145994-gnomepunk.json](./145994-gnomepunk.json) |
+| Gnomer | 310321 | [310321-gnomer.json](./310321-gnomer.json) |
 | Gnomes | 312792 | [312792-gnomes.json](./312792-gnomes.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
 | Gnomes 'n Giants | 303706 | [303706-gnomes-n-giants.json](./303706-gnomes-n-giants.json) |
@@ -6317,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Ten | 100940 | [100940-go-to-ten.json](./100940-go-to-ten.json) |
 | Go To The Finish | 387726 | [387726-go-to-the-finish.json](./387726-go-to-the-finish.json) |
 | Go Up | 363958 | [363958-go-up.json](./363958-go-up.json) |
+| Go Up Bird! | 310769 | [310769-go-up-bird.json](./310769-go-up-bird.json) |
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
 | Go Up Goat | 28959 | [28959-go-up-goat.json](./28959-go-up-goat.json) |
 | Go Up! | 255666 | [255666-go-up.json](./255666-go-up.json) |
@@ -8546,6 +8549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab | 202813 | [202813-grab.json](./202813-grab.json) |
 | Grab 2 Coins | 328680 | [328680-grab-2-coins.json](./328680-grab-2-coins.json) |
 | Grab 50 Coins | 400264 | [400264-grab-50-coins.json](./400264-grab-50-coins.json) |
+| Grab and Guts | 310298 | [310298-grab-and-guts.json](./310298-grab-and-guts.json) |
 | Grab it! Crane Game | 334095 | [334095-grab-it-crane-game.json](./334095-grab-it-crane-game.json) |
 | Grab Lab | 104534 | [104534-grab-lab.json](./104534-grab-lab.json) |
 | Grab Man | 305457 | [305457-grab-man.json](./305457-grab-man.json) |
@@ -9150,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa And Granny Home Escape | 248177 | [248177-grandpa-and-granny-home-escape.json](./248177-grandpa-and-granny-home-escape.json) |
 | Grandpa and Me vs the Numbers | 414303 | [414303-grandpa-and-me-vs-the-numbers.json](./414303-grandpa-and-me-vs-the-numbers.json) |
 | Grandpa and the Zombies | 75624 | [75624-grandpa-and-the-zombies.json](./75624-grandpa-and-the-zombies.json) |
+| Grandpa High on Retro | 310784 | [310784-grandpa-high-on-retro.json](./310784-grandpa-high-on-retro.json) |
 | Grandpa Joe Plays the Open | 93391 | [93391-grandpa-joe-plays-the-open.json](./93391-grandpa-joe-plays-the-open.json) |
 | Grandpa Loves Trains | 422181 | [422181-grandpa-loves-trains.json](./422181-grandpa-loves-trains.json) |
 | Grandpa Needs Fish | 407753 | [407753-grandpa-needs-fish.json](./407753-grandpa-needs-fish.json) |
