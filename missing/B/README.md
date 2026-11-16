@@ -8764,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Island Challenge | 169817 | [169817-bikini-island-challenge.json](./169817-bikini-island-challenge.json) |
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
 | Bikini Match Girls | 395650 | [395650-bikini-match-girls.json](./395650-bikini-match-girls.json) |
+| Bikini Surfer Girl: Wild Wahine | 419799 | [419799-bikini-surfer-girl-wild-wahine.json](./419799-bikini-surfer-girl-wild-wahine.json) |
 | Bikini Tits | 192765 | [192765-bikini-tits.json](./192765-bikini-tits.json) |
 | Bikkuri Man World | 42085 | [42085-bikkuri-man-world.json](./42085-bikkuri-man-world.json) |
 | Bikkuri Mouse | 269370 | [269370-bikkuri-mouse.json](./269370-bikkuri-mouse.json) |
@@ -13530,6 +13531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Winner | 46734 | [46734-bob-winner.json](./46734-bob-winner.json) |
 | Bob Winner 2 | 25771 | [25771-bob-winner-2.json](./25771-bob-winner-2.json) |
 | Bob-Ball | 322549 | [322549-bob-ball.json](./322549-bob-ball.json) |
+| Bob-omb Blitz | 419726 | [419726-bob-omb-blitz.json](./419726-bob-omb-blitz.json) |
 | Bob: A thousand lives | 209488 | [209488-bob-a-thousand-lives.json](./209488-bob-a-thousand-lives.json) |
 | BoB: Battle of Bots | 354898 | [354898-bob-battle-of-bots.json](./354898-bob-battle-of-bots.json) |
 | Bob.exe | 230870 | [230870-bob-exe.json](./230870-bob-exe.json) |
@@ -19478,6 +19480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bullet Trail | 147582 | [147582-bullet-trail.json](./147582-bullet-trail.json) |
 | Bullet Train | 20455 | [20455-bullet-train.json](./20455-bullet-train.json) |
+| Bullet Train | 419810 | [419810-bullet-train.json](./419810-bullet-train.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
 | Bullet Vendetta | 414588 | [414588-bullet-vendetta.json](./414588-bullet-vendetta.json) |
