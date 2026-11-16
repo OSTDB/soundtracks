@@ -4729,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tents and Trees | 123399 | [123399-tents-and-trees.json](./123399-tents-and-trees.json) |
 | Tents and Trees | 240056 | [240056-tents-and-trees.json](./240056-tents-and-trees.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
+| Tenvader | 372909 | [372909-tenvader.json](./372909-tenvader.json) |
 | Tenvi | 166031 | [166031-tenvi.json](./166031-tenvi.json) |
 | Tenya Wanya Teens | 63667 | [63667-tenya-wanya-teens.json](./63667-tenya-wanya-teens.json) |
 | Teo | 380911 | [380911-teo.json](./380911-teo.json) |
@@ -18868,6 +18869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sixth Station | 179445 | [179445-the-sixth-station.json](./179445-the-sixth-station.json) |
 | The Skeld | 182824 | [182824-the-skeld.json](./182824-the-skeld.json) |
 | The Skeleton | 103839 | [103839-the-skeleton.json](./103839-the-skeleton.json) |
+| The Skeletons Are Fighting | 372928 | [372928-the-skeletons-are-fighting.json](./372928-the-skeletons-are-fighting.json) |
 | The Skies | 26859 | [26859-the-skies.json](./26859-the-skies.json) |
 | The Skies: Reborn | 149710 | [149710-the-skies-reborn.json](./149710-the-skies-reborn.json) |
 | The Skin Game at Bighorn | 85981 | [85981-the-skin-game-at-bighorn.json](./85981-the-skin-game-at-bighorn.json) |
@@ -19933,6 +19935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Lights of Glaurung | 144009 | [144009-the-three-lights-of-glaurung.json](./144009-the-three-lights-of-glaurung.json) |
 | The Three Little Pigs: Interactive Book | 400063 | [400063-the-three-little-pigs-interactive-book.json](./400063-the-three-little-pigs-interactive-book.json) |
 | The Three Monkeys | 397425 | [397425-the-three-monkeys.json](./397425-the-three-monkeys.json) |
+| The Three Moons | 373962 | [373962-the-three-moons.json](./373962-the-three-moons.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
 | The Three Musketeers | 36867 | [36867-the-three-musketeers.json](./36867-the-three-musketeers.json) |
 | The Three Musketeers: D'Artagnan & the 12 Jewels | 96862 | [96862-the-three-musketeers-dartagnan-and-the-12-jewels.json](./96862-the-three-musketeers-dartagnan-and-the-12-jewels.json) |
@@ -26097,6 +26100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeless | 310093 | [310093-timeless.json](./310093-timeless.json) |
 | Timeless Adventure: A Journey to Begin | 134533 | [134533-timeless-adventure-a-journey-to-begin.json](./134533-timeless-adventure-a-journey-to-begin.json) |
+| Timeless Artifact: Mechanubis | 372902 | [372902-timeless-artifact-mechanubis.json](./372902-timeless-artifact-mechanubis.json) |
 | Timeless Cafe | 273606 | [273606-timeless-cafe.json](./273606-timeless-cafe.json) |
 | Timeless Dual | 152809 | [152809-timeless-dual.json](./152809-timeless-dual.json) |
 | Timeless Heart VR | 235806 | [235806-timeless-heart-vr.json](./235806-timeless-heart-vr.json) |
@@ -29176,6 +29180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado Mania! | 241466 | [241466-tornado-mania.json](./241466-tornado-mania.json) |
 | Tornado Mania! 3D | 318731 | [318731-tornado-mania-3d.json](./318731-tornado-mania-3d.json) |
 | Tornado Raid / Tornado Blade | 297722 | [297722-tornado-raid-tornado-blade.json](./297722-tornado-raid-tornado-blade.json) |
+| Tornado: Caballo Del Zorro | 372911 | [372911-tornado-caballo-del-zorro.json](./372911-tornado-caballo-del-zorro.json) |
 | Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
 | Tornado: Operation Desert Storm | 73725 | [73725-tornado-operation-desert-storm.json](./73725-tornado-operation-desert-storm.json) |
 | Tornado: Research and Rescue | 249891 | [249891-tornado-research-and-rescue.json](./249891-tornado-research-and-rescue.json) |
@@ -37375,7 +37380,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinBee Yahho!: Fushigi no Kuni de Ooabare!! | 137420 | [137420-twinbee-yahho-fushigi-no-kuni-de-ooabare.json](./137420-twinbee-yahho-fushigi-no-kuni-de-ooabare.json) |
 | TwinBlok | 73984 | [73984-twinblok.json](./73984-twinblok.json) |
 | Twincantation | 355017 | [355017-twincantation.json](./355017-twincantation.json) |
-| TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
 | Twine3D | 81782 | [81782-twine3d.json](./81782-twine3d.json) |
 | Twinetroid | 306584 | [306584-twinetroid.json](./306584-twinetroid.json) |
 | Twinfold | 112441 | [112441-twinfold.json](./112441-twinfold.json) |
@@ -37968,6 +37972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrone Soulz: Bitch Ass Pussy Mode | 286995 | [286995-tyrone-soulz-bitch-ass-pussy-mode.json](./286995-tyrone-soulz-bitch-ass-pussy-mode.json) |
 | Tyrone vs Cops | 191512 | [191512-tyrone-vs-cops.json](./191512-tyrone-vs-cops.json) |
 | Tyrone vs Cops VR | 211909 | [211909-tyrone-vs-cops-vr.json](./211909-tyrone-vs-cops-vr.json) |
+| Tyrone vs. Cops 2 | 372927 | [372927-tyrone-vs-cops-2.json](./372927-tyrone-vs-cops-2.json) |
 | Tyroom vs. Typing Gunner | 188499 | [188499-tyroom-vs-typing-gunner.json](./188499-tyroom-vs-typing-gunner.json) |
 | Tyto | 398472 | [398472-tyto.json](./398472-tyto.json) |
 | Tyto Ecology | 33243 | [33243-tyto-ecology.json](./33243-tyto-ecology.json) |
