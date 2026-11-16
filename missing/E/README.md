@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchantment: Secret Hideaway - Collector's Edition | 395948 | [395948-enchantment-secret-hideaway-collectors-edition.json](./395948-enchantment-secret-hideaway-collectors-edition.json) |
 | Enchantress | 159462 | [159462-enchantress.json](./159462-enchantress.json) |
 | Enchantress of the Sea | 322014 | [322014-enchantress-of-the-sea.json](./322014-enchantress-of-the-sea.json) |
+| Enci's Solution | 287821 | [287821-encis-solution.json](./287821-encis-solution.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave HD | 169240 | [169240-enclave-hd.json](./169240-enclave-hd.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
@@ -5063,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemera of Evalynn Cott | 135494 | [135494-ephemera-of-evalynn-cott.json](./135494-ephemera-of-evalynn-cott.json) |
 | Ephemeral | 184354 | [184354-ephemeral.json](./184354-ephemeral.json) |
 | Ephemeral | 380325 | [380325-ephemeral.json](./380325-ephemeral.json) |
+| Ephemeral Descent | 287918 | [287918-ephemeral-descent.json](./287918-ephemeral-descent.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
 | Ephemeral Frame | 381481 | [381481-ephemeral-frame.json](./381481-ephemeral-frame.json) |
@@ -9518,6 +9520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
 | Eye of Cul | 273169 | [273169-eye-of-cul.json](./273169-eye-of-cul.json) |
 | Eye of D'akess | 236732 | [236732-eye-of-dakess.json](./236732-eye-of-dakess.json) |
+| Eye of death | 287811 | [287811-eye-of-death.json](./287811-eye-of-death.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
 | Eye of Khaos | 370923 | [370923-eye-of-khaos.json](./370923-eye-of-khaos.json) |
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
