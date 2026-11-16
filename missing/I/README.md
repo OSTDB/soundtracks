@@ -5878,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Ruins | 224107 | [224107-into-ruins.json](./224107-into-ruins.json) |
 | Into Samomor | 247915 | [247915-into-samomor.json](./247915-into-samomor.json) |
 | Into Sandy's Cities | 314149 | [314149-into-sandys-cities.json](./314149-into-sandys-cities.json) |
+| Into Space! | 291629 | [291629-into-space.json](./291629-into-space.json) |
 | Into the Abyss | 159729 | [159729-into-the-abyss.json](./159729-into-the-abyss.json) |
 | Into the Abyss | 191130 | [191130-into-the-abyss.json](./191130-into-the-abyss.json) |
 | Into the Backrooms | 188730 | [188730-into-the-backrooms.json](./188730-into-the-backrooms.json) |
