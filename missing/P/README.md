@@ -7179,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
 | Pierhead Arcade | 33687 | [33687-pierhead-arcade.json](./33687-pierhead-arcade.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
+| Piero's Pilgrimage | 236027 | [236027-pieros-pilgrimage.json](./236027-pieros-pilgrimage.json) |
 | Pierre Hotel | 310637 | [310637-pierre-hotel.json](./310637-pierre-hotel.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
 | Pierre le Chef is... Out to Lunch | 42476 | [42476-pierre-le-chef-is-out-to-lunch.json](./42476-pierre-le-chef-is-out-to-lunch.json) |
