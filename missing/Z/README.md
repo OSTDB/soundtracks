@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 2.8 - New Eridan Sunset | 400497 | [400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json](./400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json) |
 | Zenless Zone Zero: Update 3.0 - A Sleepwalker's Confession | 406810 | [406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json](./406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json) |
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
+| Zenless Zone Zero: Update 3.2 - Their Secret Histories | 417098 | [417098-zenless-zone-zero-update-3-2-their-secret-histories.json](./417098-zenless-zone-zero-update-3-2-their-secret-histories.json) |
 | Zenless Zone Zero: Update 3.3 - Journey to the Sky | 422423 | [422423-zenless-zone-zero-update-3-3-journey-to-the-sky.json](./422423-zenless-zone-zero-update-3-3-journey-to-the-sky.json) |
 | Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
 | Zeno | 186429 | [186429-zeno.json](./186429-zeno.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Pilot: Fighter of Silver WIng | 59352 | [59352-zero-pilot-fighter-of-silver-wing.json](./59352-zero-pilot-fighter-of-silver-wing.json) |
 | Zero Pilot: Kosora no Kiseki | 59348 | [59348-zero-pilot-kosora-no-kiseki.json](./59348-zero-pilot-kosora-no-kiseki.json) |
 | Zero Pixel Dawn | 353620 | [353620-zero-pixel-dawn.json](./353620-zero-pixel-dawn.json) |
+| Zero Players Online | 417097 | [417097-zero-players-online.json](./417097-zero-players-online.json) |
 | Zero Point | 30378 | [30378-zero-point.json](./30378-zero-point.json) |
 | Zero point 2 | 39815 | [39815-zero-point-2.json](./39815-zero-point-2.json) |
 | Zero Point Survivor | 371308 | [371308-zero-point-survivor.json](./371308-zero-point-survivor.json) |
@@ -1501,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodi Bingo | 88165 | [88165-zodi-bingo.json](./88165-zodi-bingo.json) |
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
 | Zodiac | 337752 | [337752-zodiac.json](./337752-zodiac.json) |
+| Zodiac | 417835 | [417835-zodiac.json](./417835-zodiac.json) |
 | Zodiac | 77787 | [77787-zodiac.json](./77787-zodiac.json) |
 | Zodiac Angel | 151379 | [151379-zodiac-angel.json](./151379-zodiac-angel.json) |
 | Zodiac Axis | 66437 | [66437-zodiac-axis.json](./66437-zodiac-axis.json) |
