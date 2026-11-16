@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous High School Girls in Trouble! | 15990 | [15990-dangerous-high-school-girls-in-trouble.json](./15990-dangerous-high-school-girls-in-trouble.json) |
 | Dangerous Hobby | 187732 | [187732-dangerous-hobby.json](./187732-dangerous-hobby.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
+| Dangerous Ji-San to 1000-nin no Otomodachi Yokoshima | 222430 | [222430-dangerous-ji-san-to-1000-nin-no-otomodachi-yokoshima.json](./222430-dangerous-ji-san-to-1000-nin-no-otomodachi-yokoshima.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
 | Dangerous Lands | 108669 | [108669-dangerous-lands.json](./108669-dangerous-lands.json) |
 | Dangerous Lands | 344583 | [344583-dangerous-lands.json](./344583-dangerous-lands.json) |
@@ -13513,6 +13514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doghouse 2 | 216167 | [216167-doghouse-2.json](./216167-doghouse-2.json) |
 | Doghouse 3 | 374756 | [374756-doghouse-3.json](./374756-doghouse-3.json) |
 | Dogies | 91490 | [91490-dogies.json](./91490-dogies.json) |
+| Dogimegi Inryoku-chan | 222431 | [222431-dogimegi-inryoku-chan.json](./222431-dogimegi-inryoku-chan.json) |
 | Dogimegi Inryoku-chan: Love & Peace | 336177 | [336177-dogimegi-inryoku-chan-love-and-peace.json](./336177-dogimegi-inryoku-chan-love-and-peace.json) |
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 135646 | [135646-dogma.json](./135646-dogma.json) |
