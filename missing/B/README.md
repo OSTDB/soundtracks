@@ -11486,6 +11486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Bluff | 391527 | [391527-blind-bluff.json](./391527-blind-bluff.json) |
 | Blind Boris | 84061 | [84061-blind-boris.json](./84061-blind-boris.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
+| Blind Bullet | 250567 | [250567-blind-bullet.json](./250567-blind-bullet.json) |
 | Blind Date | 114813 | [114813-blind-date.json](./114813-blind-date.json) |
 | Blind Date 3D | 286396 | [286396-blind-date-3d.json](./286396-blind-date-3d.json) |
 | Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
@@ -12140,6 +12141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockout! / Breakdown! | 119154 | [119154-blockout-breakdown.json](./119154-blockout-breakdown.json) |
 | Blockoverse: The Legend of the Pix | 321070 | [321070-blockoverse-the-legend-of-the-pix.json](./321070-blockoverse-the-legend-of-the-pix.json) |
+| BlockPath | 246135 | [246135-blockpath.json](./246135-blockpath.json) |
 | Blockpocalypse | 33768 | [33768-blockpocalypse.json](./33768-blockpocalypse.json) |
 | Blockpop Heroes | 219211 | [219211-blockpop-heroes.json](./219211-blockpop-heroes.json) |
 | Blockpost | 110077 | [110077-blockpost.json](./110077-blockpost.json) |
@@ -12315,6 +12317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
 | Bloo Kid 2 | 34985 | [34985-bloo-kid-2.json](./34985-bloo-kid-2.json) |
 | Bloob.io | 377974 | [377974-bloob-io.json](./377974-bloob-io.json) |
+| Bloobo | 249404 | [249404-bloobo.json](./249404-bloobo.json) |
 | Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
 | Blooby Block | 246862 | [246862-blooby-block.json](./246862-blooby-block.json) |
 | Bloock | 425780 | [425780-bloock.json](./425780-bloock.json) |
