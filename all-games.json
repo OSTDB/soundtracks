@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T04:05:55.218Z",
-  "total_soundtracks": 3414,
+  "generated_at": "2026-11-16T05:05:57.570Z",
+  "total_soundtracks": 3415,
   "games": [
     {
       "igdb_id": 292844,
@@ -16769,6 +16769,20 @@
         {
           "album_name": "Heat Signature (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7wc5969CeTDcp4aZdQv44r",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 69482,
+      "game_name": "Heaven Will Be Mine",
+      "game_url": "https://ostdb.net/games/heaven-will-be-mine",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d6f65c5345a36a10789eb280",
+      "albums": [
+        {
+          "album_name": "Heaven Will Be Mine (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6JM8Ou8bvyRFn9p914ZOrn",
           "apple_music_url": "",
           "album_link_url": ""
         }
