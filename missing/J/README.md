@@ -3696,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump to Space | 338985 | [338985-jump-to-space.json](./338985-jump-to-space.json) |
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
 | Jump To Success | 392341 | [392341-jump-to-success.json](./392341-jump-to-success.json) |
+| Jump to Survive 2 | 389240 | [389240-jump-to-survive-2.json](./389240-jump-to-survive-2.json) |
 | Jump to the circle | 81657 | [81657-jump-to-the-circle.json](./81657-jump-to-the-circle.json) |
 | Jump To The Milky Way | 247315 | [247315-jump-to-the-milky-way.json](./247315-jump-to-the-milky-way.json) |
 | Jump to Win | 22367 | [22367-jump-to-win.json](./22367-jump-to-win.json) |
