@@ -2979,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
 | Farmers 2050 | 249667 | [249667-farmers-2050.json](./249667-farmers-2050.json) |
 | Farmers Co-op: Out of This World | 165609 | [165609-farmers-co-op-out-of-this-world.json](./165609-farmers-co-op-out-of-this-world.json) |
+| Farmers Market | 391371 | [391371-farmers-market.json](./391371-farmers-market.json) |
 | Farmers Rebellion | 40137 | [40137-farmers-rebellion.json](./40137-farmers-rebellion.json) |
 | Farmers vs Zombies | 146442 | [146442-farmers-vs-zombies.json](./146442-farmers-vs-zombies.json) |
 | Farmers' Market | 172882 | [172882-farmers-market.json](./172882-farmers-market.json) |
@@ -7809,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
 | Five Days | 287510 | [287510-five-days.json](./287510-five-days.json) |
 | Five Days of Hell | 261631 | [261631-five-days-of-hell.json](./261631-five-days-of-hell.json) |
+| Five Dice | 390296 | [390296-five-dice.json](./390296-five-dice.json) |
 | Five dreams | 189953 | [189953-five-dreams.json](./189953-five-dreams.json) |
 | Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
 | Five Elements Chess | 164179 | [164179-five-elements-chess.json](./164179-five-elements-chess.json) |
@@ -10999,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Perdition | 286024 | [286024-forest-of-perdition.json](./286024-forest-of-perdition.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
 | Forest of Relics | 231698 | [231698-forest-of-relics.json](./231698-forest-of-relics.json) |
+| Forest Of Siege | 389242 | [389242-forest-of-siege.json](./389242-forest-of-siege.json) |
 | Forest of Soul | 279141 | [279141-forest-of-soul.json](./279141-forest-of-soul.json) |
 | Forest of Strays | 261600 | [261600-forest-of-strays.json](./261600-forest-of-strays.json) |
 | Forest of Tails: Arena | 204024 | [204024-forest-of-tails-arena.json](./204024-forest-of-tails-arena.json) |
