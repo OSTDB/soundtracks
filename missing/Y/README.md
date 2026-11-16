@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
 | Yoake no Mariko 2nd Act | 55858 | [55858-yoake-no-mariko-2nd-act.json](./55858-yoake-no-mariko-2nd-act.json) |
 | Yoba | 55348 | [55348-yoba.json](./55348-yoba.json) |
+| Yoba2D | 305671 | [305671-yoba2d.json](./305671-yoba2d.json) |
 | Yobarai Detective: Miasma Breaker | 324241 | [324241-yobarai-detective-miasma-breaker.json](./324241-yobarai-detective-miasma-breaker.json) |
 | YoBro | 37730 | [37730-yobro.json](./37730-yobro.json) |
 | Yocchan to Chie Asobi | 151859 | [151859-yocchan-to-chie-asobi.json](./151859-yocchan-to-chie-asobi.json) |
@@ -884,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Fledgling" | 315495 | [315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json](./315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Lucky Outfit" | 315496 | [315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json](./315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Trendy Schoolgirl" | 315498 | [315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json](./315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json) |
+| Yohane the Pathelion: Change set "Nightwicked Night" | 302301 | [302301-yohane-the-pathelion-change-set-nightwicked-night.json](./302301-yohane-the-pathelion-change-set-nightwicked-night.json) |
 | Yohjo Simulator | 34201 | [34201-yohjo-simulator.json](./34201-yohjo-simulator.json) |
 | YoHoHo.io | 322511 | [322511-yohoho-io.json](./322511-yohoho-io.json) |
 | Yoiks! | 202173 | [202173-yoiks.json](./202173-yoiks.json) |
@@ -1371,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Shouldn't Be Here | 336878 | [336878-you-shouldnt-be-here.json](./336878-you-shouldnt-be-here.json) |
 | You Still Won't Make It | 79487 | [79487-you-still-wont-make-it.json](./79487-you-still-wont-make-it.json) |
 | You Stole My Heart! | 340344 | [340344-you-stole-my-heart.json](./340344-you-stole-my-heart.json) |
+| You Struck Gold | 312492 | [312492-you-struck-gold.json](./312492-you-struck-gold.json) |
 | You Suck and I Hate You | 362413 | [362413-you-suck-and-i-hate-you.json](./362413-you-suck-and-i-hate-you.json) |
 | You Suck and I Hate You: Part 2 | 365360 | [365360-you-suck-and-i-hate-you-part-2.json](./365360-you-suck-and-i-hate-you-part-2.json) |
 | You Suck at Football | 363571 | [363571-you-suck-at-football.json](./363571-you-suck-at-football.json) |
@@ -1383,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You vs. Boo | 307665 | [307665-you-vs-boo.json](./307665-you-vs-boo.json) |
 | You vs. Wild | 256863 | [256863-you-vs-wild.json](./256863-you-vs-wild.json) |
 | You vs. Wild: Out Cold | 256855 | [256855-you-vs-wild-out-cold.json](./256855-you-vs-wild-out-cold.json) |
+| You Want to Watch the World Burn | 305650 | [305650-you-want-to-watch-the-world-burn.json](./305650-you-want-to-watch-the-world-burn.json) |
 | You Were Hallucinating the Whole Time | 128817 | [128817-you-were-hallucinating-the-whole-time.json](./128817-you-were-hallucinating-the-whole-time.json) |
 | You Were Just Selling Lemonade | 349534 | [349534-you-were-just-selling-lemonade.json](./349534-you-were-just-selling-lemonade.json) |
 | You Were Made for Loneliness | 139387 | [139387-you-were-made-for-loneliness.json](./139387-you-were-made-for-loneliness.json) |
@@ -1714,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YouTD 2 | 383589 | [383589-youtd-2.json](./383589-youtd-2.json) |
 | Youth Academy | 377031 | [377031-youth-academy.json](./377031-youth-academy.json) |
 | Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
+| Youth Northbound | 312491 | [312491-youth-northbound.json](./312491-youth-northbound.json) |
 | Youthink? | 102775 | [102775-youthink.json](./102775-youthink.json) |
 | Youtooz Presents: Five Nights at Freddy's | 265061 | [265061-youtooz-presents-five-nights-at-freddys.json](./265061-youtooz-presents-five-nights-at-freddys.json) |
 | YouTube Snake | 239129 | [239129-youtube-snake.json](./239129-youtube-snake.json) |
