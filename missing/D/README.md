@@ -10269,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug | 218879 | [218879-dig-dug.json](./218879-dig-dug.json) |
 | Dig Dug | 218880 | [218880-dig-dug.json](./218880-dig-dug.json) |
 | Dig Dug | 218881 | [218881-dig-dug.json](./218881-dig-dug.json) |
+| Dig Dug | 242278 | [242278-dig-dug.json](./242278-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
 | Dig Dug Deeper | 2737 | [2737-dig-dug-deeper.json](./2737-dig-dug-deeper.json) |
@@ -18330,6 +18331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
 | Dream Story: Origin | 116012 | [116012-dream-story-origin.json](./116012-dream-story-origin.json) |
 | Dream Survivors | 297085 | [297085-dream-survivors.json](./297085-dream-survivors.json) |
+| Dream Swim | 242288 | [242288-dream-swim.json](./242288-dream-swim.json) |
 | Dream Swing | 221565 | [221565-dream-swing.json](./221565-dream-swing.json) |
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
 | Dream Tactics | 211623 | [211623-dream-tactics.json](./211623-dream-tactics.json) |
