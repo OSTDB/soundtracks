@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | ZaciSa: Defense of the Crayon Dimensions! | 84971 | [84971-zacisa-defense-of-the-crayon-dimensions.json](./84971-zacisa-defense-of-the-crayon-dimensions.json) |
 | ZaciSa's Last Stand | 84957 | [84957-zacisas-last-stand.json](./84957-zacisas-last-stand.json) |
+| ZacJumper | 354677 | [354677-zacjumper.json](./354677-zacjumper.json) |
 | Zack & Ombra: The Phantom Amusement Park | 63907 | [63907-zack-and-ombra-the-phantom-amusement-park.json](./63907-zack-and-ombra-the-phantom-amusement-park.json) |
 | Zack & Wiki: Quest for Barbaros' Treasure | 2264 | [2264-zack-and-wiki-quest-for-barbaros-treasure.json](./2264-zack-and-wiki-quest-for-barbaros-treasure.json) |
 | Zack 2: Celestine's Map | 139640 | [139640-zack-2-celestines-map.json](./139640-zack-2-celestines-map.json) |
@@ -668,16 +669,38 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball 2: Aliens vs. Pinball | 354711 | [354711-zen-pinball-2-aliens-vs-pinball.json](./354711-zen-pinball-2-aliens-vs-pinball.json) |
 | Zen Pinball 2: Balls of Glory Pinball | 354710 | [354710-zen-pinball-2-balls-of-glory-pinball.json](./354710-zen-pinball-2-balls-of-glory-pinball.json) |
 | Zen Pinball 2: Bethedsa Pinball | 354712 | [354712-zen-pinball-2-bethedsa-pinball.json](./354712-zen-pinball-2-bethedsa-pinball.json) |
+| Zen Pinball 2: Captain America | 354694 | [354694-zen-pinball-2-captain-america.json](./354694-zen-pinball-2-captain-america.json) |
+| Zen Pinball 2: Civil War | 354692 | [354692-zen-pinball-2-civil-war.json](./354692-zen-pinball-2-civil-war.json) |
+| Zen Pinball 2: Core Collection | 354686 | [354686-zen-pinball-2-core-collection.json](./354686-zen-pinball-2-core-collection.json) |
+| Zen Pinball 2: Deadpool | 354700 | [354700-zen-pinball-2-deadpool.json](./354700-zen-pinball-2-deadpool.json) |
+| Zen Pinball 2: Doctor Strange | 354701 | [354701-zen-pinball-2-doctor-strange.json](./354701-zen-pinball-2-doctor-strange.json) |
+| Zen Pinball 2: Earth Defense | 354690 | [354690-zen-pinball-2-earth-defense.json](./354690-zen-pinball-2-earth-defense.json) |
+| Zen Pinball 2: Epic Quest | 354684 | [354684-zen-pinball-2-epic-quest.json](./354684-zen-pinball-2-epic-quest.json) |
+| Zen Pinball 2: Excalibur | 354689 | [354689-zen-pinball-2-excalibur.json](./354689-zen-pinball-2-excalibur.json) |
+| Zen Pinball 2: Fantastic Four | 354693 | [354693-zen-pinball-2-fantastic-four.json](./354693-zen-pinball-2-fantastic-four.json) |
+| Zen Pinball 2: Guardians of the Galaxy | 354699 | [354699-zen-pinball-2-guardians-of-the-galaxy.json](./354699-zen-pinball-2-guardians-of-the-galaxy.json) |
+| Zen Pinball 2: Iron & Steel Pack | 354683 | [354683-zen-pinball-2-iron-and-steel-pack.json](./354683-zen-pinball-2-iron-and-steel-pack.json) |
+| Zen Pinball 2: Mars | 354687 | [354687-zen-pinball-2-mars.json](./354687-zen-pinball-2-mars.json) |
+| Zen Pinball 2: Marvel Pinball Original Pack | 354691 | [354691-zen-pinball-2-marvel-pinball-original-pack.json](./354691-zen-pinball-2-marvel-pinball-original-pack.json) |
+| Zen Pinball 2: Marvel's Ant-Man | 354696 | [354696-zen-pinball-2-marvels-ant-man.json](./354696-zen-pinball-2-marvels-ant-man.json) |
+| Zen Pinball 2: Marvel's Avengers - Age of Ultron | 354697 | [354697-zen-pinball-2-marvels-avengers-age-of-ultron.json](./354697-zen-pinball-2-marvels-avengers-age-of-ultron.json) |
+| Zen Pinball 2: Marvel's Women of Power | 354702 | [354702-zen-pinball-2-marvels-women-of-power.json](./354702-zen-pinball-2-marvels-women-of-power.json) |
 | Zen Pinball 2: Ninja Gaiden Sigma 2 | 354713 | [354713-zen-pinball-2-ninja-gaiden-sigma-2.json](./354713-zen-pinball-2-ninja-gaiden-sigma-2.json) |
+| Zen Pinball 2: Paranormal | 354685 | [354685-zen-pinball-2-paranormal.json](./354685-zen-pinball-2-paranormal.json) |
 | Zen Pinball 2: Plants vs. Zombies | 354714 | [354714-zen-pinball-2-plants-vs-zombies.json](./354714-zen-pinball-2-plants-vs-zombies.json) |
 | Zen Pinball 2: Portal Pinball | 353722 | [353722-zen-pinball-2-portal-pinball.json](./353722-zen-pinball-2-portal-pinball.json) |
 | Zen Pinball 2: South Park - Super-Sweet Pinball | 24305 | [24305-zen-pinball-2-south-park-super-sweet-pinball.json](./24305-zen-pinball-2-south-park-super-sweet-pinball.json) |
 | Zen Pinball 2: Star Wars Pinball | 354708 | [354708-zen-pinball-2-star-wars-pinball.json](./354708-zen-pinball-2-star-wars-pinball.json) |
 | Zen Pinball 2: Star Wars Pinball - Balance of the Force | 354707 | [354707-zen-pinball-2-star-wars-pinball-balance-of-the-force.json](./354707-zen-pinball-2-star-wars-pinball-balance-of-the-force.json) |
 | Zen Pinball 2: Star Wars Pinball - Heroes Within | 354706 | [354706-zen-pinball-2-star-wars-pinball-heroes-within.json](./354706-zen-pinball-2-star-wars-pinball-heroes-within.json) |
+| Zen Pinball 2: Star Wars Pinball - Rogue One | 354703 | [354703-zen-pinball-2-star-wars-pinball-rogue-one.json](./354703-zen-pinball-2-star-wars-pinball-rogue-one.json) |
 | Zen Pinball 2: Star Wars Pinball - Star Wars Rebels | 354705 | [354705-zen-pinball-2-star-wars-pinball-star-wars-rebels.json](./354705-zen-pinball-2-star-wars-pinball-star-wars-rebels.json) |
+| Zen Pinball 2: Star Wars Pinball - The Force Awakens Pack | 354704 | [354704-zen-pinball-2-star-wars-pinball-the-force-awakens-pack.json](./354704-zen-pinball-2-star-wars-pinball-the-force-awakens-pack.json) |
 | Zen Pinball 2: Super Street Fighter 2 | 354715 | [354715-zen-pinball-2-super-street-fighter-2.json](./354715-zen-pinball-2-super-street-fighter-2.json) |
 | ZEN Pinball 2: The Walking Dead | 353719 | [353719-zen-pinball-2-the-walking-dead.json](./353719-zen-pinball-2-the-walking-dead.json) |
+| Zen Pinball 2: Vengeance and Virtue Pack | 354695 | [354695-zen-pinball-2-vengeance-and-virtue-pack.json](./354695-zen-pinball-2-vengeance-and-virtue-pack.json) |
+| Zen Pinball 2: Venom | 354698 | [354698-zen-pinball-2-venom.json](./354698-zen-pinball-2-venom.json) |
+| Zen Pinball 2: Zen Pinball Classics | 354688 | [354688-zen-pinball-2-zen-pinball-classics.json](./354688-zen-pinball-2-zen-pinball-classics.json) |
 | Zen Pinball 3D | 21146 | [21146-zen-pinball-3d.json](./21146-zen-pinball-3d.json) |
 | Zen Pinball Party | 174587 | [174587-zen-pinball-party.json](./174587-zen-pinball-party.json) |
 | Zen Pinball Party: My Little Pony Pinball | 231447 | [231447-zen-pinball-party-my-little-pony-pinball.json](./231447-zen-pinball-party-my-little-pony-pinball.json) |
@@ -762,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball: Fear Itself | 354319 | [354319-zen-pinball-fear-itself.json](./354319-zen-pinball-fear-itself.json) |
 | Zen Pinball: Ghost Rider | 354326 | [354326-zen-pinball-ghost-rider.json](./354326-zen-pinball-ghost-rider.json) |
 | Zen Pinball: Guardians of the Galaxy | 354314 | [354314-zen-pinball-guardians-of-the-galaxy.json](./354314-zen-pinball-guardians-of-the-galaxy.json) |
+| Zen Pinball: Inferno | 354679 | [354679-zen-pinball-inferno.json](./354679-zen-pinball-inferno.json) |
 | Zen Pinball: Iron Man | 354317 | [354317-zen-pinball-iron-man.json](./354317-zen-pinball-iron-man.json) |
 | Zen Pinball: Jaws Pinball | 354305 | [354305-zen-pinball-jaws-pinball.json](./354305-zen-pinball-jaws-pinball.json) |
 | Zen Pinball: Jurassic Park Pinball | 354302 | [354302-zen-pinball-jurassic-park-pinball.json](./354302-zen-pinball-jurassic-park-pinball.json) |
@@ -773,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball: Marvel's Women of Power | 354308 | [354308-zen-pinball-marvels-women-of-power.json](./354308-zen-pinball-marvels-women-of-power.json) |
 | Zen Pinball: Moon Knight | 354322 | [354322-zen-pinball-moon-knight.json](./354322-zen-pinball-moon-knight.json) |
 | Zen Pinball: Portal | 354364 | [354364-zen-pinball-portal.json](./354364-zen-pinball-portal.json) |
+| Zen Pinball: Rollercoaster | 354678 | [354678-zen-pinball-rollercoaster.json](./354678-zen-pinball-rollercoaster.json) |
 | Zen Pinball: Spider-Man | 354311 | [354311-zen-pinball-spider-man.json](./354311-zen-pinball-spider-man.json) |
 | Zen Pinball: Star Wars - Darth Vader | 354353 | [354353-zen-pinball-star-wars-darth-vader.json](./354353-zen-pinball-star-wars-darth-vader.json) |
 | Zen Pinball: Star Wars - Episode V | 354355 | [354355-zen-pinball-star-wars-episode-v.json](./354355-zen-pinball-star-wars-episode-v.json) |
@@ -2801,7 +2826,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zu Xing | 404606 | [404606-zu-xing.json](./404606-zu-xing.json) |
 | Zub | 83382 | [83382-zub.json](./83382-zub.json) |
 | Zubash | 262891 | [262891-zubash.json](./262891-zubash.json) |
-| Zubo | 21472 | [21472-zubo.json](./21472-zubo.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
