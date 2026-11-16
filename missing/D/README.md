@@ -16104,6 +16104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
+| Downware | 305665 | [305665-downware.json](./305665-downware.json) |
 | DownWind | 83724 | [83724-downwind.json](./83724-downwind.json) |
 | Downwordly | 243316 | [243316-downwordly.json](./243316-downwordly.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
