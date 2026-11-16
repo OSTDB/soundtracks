@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Threat 2 | 53401 | [53401-natural-threat-2.json](./53401-natural-threat-2.json) |
 | Natural Threat: Ominous Shores | 54248 | [54248-natural-threat-ominous-shores.json](./54248-natural-threat-ominous-shores.json) |
 | Natural Unintelligence: Zueirama 2 | 345042 | [345042-natural-unintelligence-zueirama-2.json](./345042-natural-unintelligence-zueirama-2.json) |
+| Natural Vacation | 393673 | [393673-natural-vacation.json](./393673-natural-vacation.json) |
 | Natural: Beyond Nature | 30887 | [30887-natural-beyond-nature.json](./30887-natural-beyond-nature.json) |
 | Natural: Mi mo Kokoro mo | 393553 | [393553-natural-mi-mo-kokoro-mo.json](./393553-natural-mi-mo-kokoro-mo.json) |
 | Naturalealia: Forest Determination | 157147 | [157147-naturalealia-forest-determination.json](./157147-naturalealia-forest-determination.json) |
@@ -5390,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niiikotopia: Sky Fall | 191169 | [191169-niiikotopia-sky-fall.json](./191169-niiikotopia-sky-fall.json) |
 | Niinamigota | 150816 | [150816-niinamigota.json](./150816-niinamigota.json) |
 | Niizuma ha Tifa | 83385 | [83385-niizuma-ha-tifa.json](./83385-niizuma-ha-tifa.json) |
+| Niizuma Lovely x Cation | 393674 | [393674-niizuma-lovely-x-cation.json](./393674-niizuma-lovely-x-cation.json) |
 | Niizuma wa Mahou Shoujo | 77902 | [77902-niizuma-wa-mahou-shoujo.json](./77902-niizuma-wa-mahou-shoujo.json) |
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
 | Niji no Silkroad | 48409 | [48409-niji-no-silkroad.json](./48409-niji-no-silkroad.json) |
