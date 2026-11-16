@@ -17698,6 +17698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project D Online | 80043 | [80043-project-d-online.json](./80043-project-d-online.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
 | Project Dagger | 195993 | [195993-project-dagger.json](./195993-project-dagger.json) |
+| Project Damascus | 391374 | [391374-project-damascus.json](./391374-project-damascus.json) |
 | Project Dar | 350937 | [350937-project-dar.json](./350937-project-dar.json) |
 | Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
 | Project Dark Sky | 154282 | [154282-project-dark-sky.json](./154282-project-dark-sky.json) |
