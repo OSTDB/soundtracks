@@ -3431,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
+| LEGO Batman: Legacy of the Dark Knight - Deluxe Edition | 387030 | [387030-lego-batman-legacy-of-the-dark-knight-deluxe-edition.json](./387030-lego-batman-legacy-of-the-dark-knight-deluxe-edition.json) |
 | LEGO Batman: Legacy of the Dark Knight - Deluxe Edition Upgrade | 403335 | [403335-lego-batman-legacy-of-the-dark-knight-deluxe-edition-upgrade.json](./403335-lego-batman-legacy-of-the-dark-knight-deluxe-edition-upgrade.json) |
 | LEGO Batman: Legacy of the Dark Knight - HBO Max Exclusive Suits | 403906 | [403906-lego-batman-legacy-of-the-dark-knight-hbo-max-exclusive-suits.json](./403906-lego-batman-legacy-of-the-dark-knight-hbo-max-exclusive-suits.json) |
 | LEGO Batman: Legacy of the Dark Knight - Mayhem Mode | 404540 | [404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json](./404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json) |
@@ -5466,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightDread City | 135421 | [135421-lightdread-city.json](./135421-lightdread-city.json) |
 | LightEaters! | 233910 | [233910-lighteaters.json](./233910-lighteaters.json) |
 | Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
+| Lightem Out | 387893 | [387893-lightem-out.json](./387893-lightem-out.json) |
 | Lighten Up | 223407 | [223407-lighten-up.json](./223407-lighten-up.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
