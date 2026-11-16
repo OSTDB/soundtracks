@@ -5906,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Furlong 2 | 355862 | [355862-final-furlong-2.json](./355862-final-furlong-2.json) |
 | Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
 | Final Gear | 130494 | [130494-final-gear.json](./130494-final-gear.json) |
+| Final Generation | 409162 | [409162-final-generation.json](./409162-final-generation.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian | 233406 | [233406-final-guardian.json](./233406-final-guardian.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
@@ -12843,6 +12844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
 | Franklin the Turtle Learns Math | 289742 | [289742-franklin-the-turtle-learns-math.json](./289742-franklin-the-turtle-learns-math.json) |
 | Franklin: A Birthday Surprise | 118948 | [118948-franklin-a-birthday-surprise.json](./118948-franklin-a-birthday-surprise.json) |
+| Franklin's Activity Center | 409777 | [409777-franklins-activity-center.json](./409777-franklins-activity-center.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | FranknJohn | 17506 | [17506-franknjohn.json](./17506-franknjohn.json) |
 | Franko: The Crazy Revenge | 46996 | [46996-franko-the-crazy-revenge.json](./46996-franko-the-crazy-revenge.json) |
