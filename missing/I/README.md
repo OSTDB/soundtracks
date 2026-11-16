@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ICBM: Escalation | 274321 | [274321-icbm-escalation.json](./274321-icbm-escalation.json) |
 | ICBM: Escalation - Endless October | 372533 | [372533-icbm-escalation-endless-october.json](./372533-icbm-escalation-endless-october.json) |
 | Ice | 342173 | [342173-ice.json](./342173-ice.json) |
+| Ice & Bond | 418445 | [418445-ice-and-bond.json](./418445-ice-and-bond.json) |
 | Ice Age | 280045 | [280045-ice-age.json](./280045-ice-age.json) |
 | Ice Age | 400477 | [400477-ice-age.json](./400477-ice-age.json) |
 | Ice Age | 6446 | [6446-ice-age.json](./6446-ice-age.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inagawa Junji: Kyoufu no Yashiki | 112554 | [112554-inagawa-junji-kyoufu-no-yashiki.json](./112554-inagawa-junji-kyoufu-no-yashiki.json) |
 | Inagawa Junji: Mayonaka no Taxi | 112549 | [112549-inagawa-junji-mayonaka-no-taxi.json](./112549-inagawa-junji-mayonaka-no-taxi.json) |
 | Inago Rage | 335797 | [335797-inago-rage.json](./335797-inago-rage.json) |
+| INAIE | 418361 | [418361-inaie.json](./418361-inaie.json) |
 | Inaka Gurashi: Minami no Shima no Monogatari | 56385 | [56385-inaka-gurashi-minami-no-shima-no-monogatari.json](./56385-inaka-gurashi-minami-no-shima-no-monogatari.json) |
 | Inaka no Koukou de Atta Kowai Hanashi | 381546 | [381546-inaka-no-koukou-de-atta-kowai-hanashi.json](./381546-inaka-no-koukou-de-atta-kowai-hanashi.json) |
 | Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
@@ -7089,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Survival 2026: Craft, Build, Grow | 393047 | [393047-island-survival-2026-craft-build-grow.json](./393047-island-survival-2026-craft-build-grow.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Survival: Craft, Build, Grow & Zombie Harvest: Survival Farming Simulator Bundle Collection | 345723 | [345723-island-survival-craft-build-grow-and-zombie-harvest-survival-farming-simulator-bundle-collection.json](./345723-island-survival-craft-build-grow-and-zombie-harvest-survival-farming-simulator-bundle-collection.json) |
+| Island Survival: Deluxe Bundle - Craft, Build, Grow | 418345 | [418345-island-survival-deluxe-bundle-craft-build-grow.json](./418345-island-survival-deluxe-bundle-craft-build-grow.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
 | Island Time VR | 88301 | [88301-island-time-vr.json](./88301-island-time-vr.json) |
 | Island Town Zombie Paradise | 117478 | [117478-island-town-zombie-paradise.json](./117478-island-town-zombie-paradise.json) |
