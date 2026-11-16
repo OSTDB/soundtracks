@@ -10039,6 +10039,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocop 3D | 98878 | [98878-robocop-3d.json](./98878-robocop-3d.json) |
 | RoboCop Doom | 196020 | [196020-robocop-doom.json](./196020-robocop-doom.json) |
 | Robocop Pinball | 131178 | [131178-robocop-pinball.json](./131178-robocop-pinball.json) |
+| RoboCop Versus the Terminator | 228781 | [228781-robocop-versus-the-terminator.json](./228781-robocop-versus-the-terminator.json) |
+| RoboCop Versus the Terminator | 228782 | [228782-robocop-versus-the-terminator.json](./228782-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 44464 | [44464-robocop-versus-the-terminator.json](./44464-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
@@ -12510,6 +12512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootlash | 189300 | [189300-rootlash.json](./189300-rootlash.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
 | Rootless | 377198 | [377198-rootless.json](./377198-rootless.json) |
+| Rootless: Memories of Green | 228769 | [228769-rootless-memories-of-green.json](./228769-rootless-memories-of-green.json) |
 | Rootlify | 413110 | [413110-rootlify.json](./413110-rootlify.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Rootmare | 327164 | [327164-rootmare.json](./327164-rootmare.json) |
@@ -14097,6 +14100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runbow: Complete Collection | 53561 | [53561-runbow-complete-collection.json](./53561-runbow-complete-collection.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Runbow: Pocket Deluxe Edition | 84910 | [84910-runbow-pocket-deluxe-edition.json](./84910-runbow-pocket-deluxe-edition.json) |
+| Runbow: Satura's Space Adventure | 226524 | [226524-runbow-saturas-space-adventure.json](./226524-runbow-saturas-space-adventure.json) |
 | RunBunRunBun | 275977 | [275977-runbunrunbun.json](./275977-runbunrunbun.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
 | Rundom | 149817 | [149817-rundom.json](./149817-rundom.json) |
