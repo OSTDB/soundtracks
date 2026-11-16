@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
 | Nappy Knight | 409173 | [409173-nappy-knight.json](./409173-nappy-knight.json) |
 | NAR - Not Another Royale | 113276 | [113276-nar-not-another-royale.json](./113276-nar-not-another-royale.json) |
+| Nar Station | 306845 | [306845-nar-station.json](./306845-nar-station.json) |
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
 | Naraba: The Labyrinth of Light | 206781 | [206781-naraba-the-labyrinth-of-light.json](./206781-naraba-the-labyrinth-of-light.json) |
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
@@ -2760,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Genesis Evangelion: Shito Ikusei | 37564 | [37564-neon-genesis-evangelion-shito-ikusei.json](./37564-neon-genesis-evangelion-shito-ikusei.json) |
 | Neon Genesis Evangelion: The Iron Maiden 2nd | 75879 | [75879-neon-genesis-evangelion-the-iron-maiden-2nd.json](./75879-neon-genesis-evangelion-the-iron-maiden-2nd.json) |
 | Neon Genesis Evangelion: Tsukurareshi Sekai - Another Cases | 42840 | [42840-neon-genesis-evangelion-tsukurareshi-sekai-another-cases.json](./42840-neon-genesis-evangelion-tsukurareshi-sekai-another-cases.json) |
+| Neon Genesis Evitalian | 307355 | [307355-neon-genesis-evitalian.json](./307355-neon-genesis-evitalian.json) |
 | Neon Genesis: EvaDoom | 145331 | [145331-neon-genesis-evadoom.json](./145331-neon-genesis-evadoom.json) |
 | Neon Geometry Dash | 279004 | [279004-neon-geometry-dash.json](./279004-neon-geometry-dash.json) |
 | Neon Girls | 140563 | [140563-neon-girls.json](./140563-neon-girls.json) |
@@ -6129,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Switch 2 Welcome Tour | 338069 | [338069-nintendo-switch-2-welcome-tour.json](./338069-nintendo-switch-2-welcome-tour.json) |
 | Nintendo Switch Sports | 191408 | [191408-nintendo-switch-sports.json](./191408-nintendo-switch-sports.json) |
 | Nintendo Switch Sports Resort | 405451 | [405451-nintendo-switch-sports-resort.json](./405451-nintendo-switch-sports-resort.json) |
+| Nintendo Switch Sports: Basketball | 306140 | [306140-nintendo-switch-sports-basketball.json](./306140-nintendo-switch-sports-basketball.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendo World Championships 1990 | 9250 | [9250-nintendo-world-championships-1990.json](./9250-nintendo-world-championships-1990.json) |
 | Nintendo World Championships: NES Edition | 299862 | [299862-nintendo-world-championships-nes-edition.json](./299862-nintendo-world-championships-nes-edition.json) |
