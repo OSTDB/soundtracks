@@ -3146,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gendo The Gatherer | 404352 | [404352-gendo-the-gatherer.json](./404352-gendo-the-gatherer.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
+| Gene Jackpot | 399939 | [399939-gene-jackpot.json](./399939-gene-jackpot.json) |
 | Gene Labs | 84514 | [84514-gene-labs.json](./84514-gene-labs.json) |
 | Gene Rain | 105269 | [105269-gene-rain.json](./105269-gene-rain.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
@@ -5110,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriends with Benefits | 206029 | [206029-girlfriends-with-benefits.json](./206029-girlfriends-with-benefits.json) |
 | Girlfriends: Office! | 370034 | [370034-girlfriends-office.json](./370034-girlfriends-office.json) |
 | Girlfriends: Rich vs Rebel | 263325 | [263325-girlfriends-rich-vs-rebel.json](./263325-girlfriends-rich-vs-rebel.json) |
+| Girlfurriends | 401241 | [401241-girlfurriends.json](./401241-girlfurriends.json) |
 | GirlHub | 189982 | [189982-girlhub.json](./189982-girlhub.json) |
 | Girlish Grimoire Littlewitch Romanesque | 60425 | [60425-girlish-grimoire-littlewitch-romanesque.json](./60425-girlish-grimoire-littlewitch-romanesque.json) |
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
