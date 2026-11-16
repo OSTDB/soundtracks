@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office No. 41 | 186380 | [186380-office-no-41.json](./186380-office-no-41.json) |
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
 | Office Odyssey | 305690 | [305690-office-odyssey.json](./305690-office-odyssey.json) |
+| Office of Interstellar Production | 360814 | [360814-office-of-interstellar-production.json](./360814-office-of-interstellar-production.json) |
 | Office Outbreak Savior | 333155 | [333155-office-outbreak-savior.json](./333155-office-outbreak-savior.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
 | Office Overlord | 420509 | [420509-office-overlord.json](./420509-office-overlord.json) |
@@ -1962,7 +1963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Rain | 180377 | [180377-omen-of-rain.json](./180377-omen-of-rain.json) |
-| Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
 | Omen: Flesh Metal & Magic | 36934 | [36934-omen-flesh-metal-and-magic.json](./36934-omen-flesh-metal-and-magic.json) |
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
 | Omerta | 411191 | [411191-omerta.json](./411191-omerta.json) |
@@ -6553,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owaranai Yuugure ni Kieta Kimi | 175047 | [175047-owaranai-yuugure-ni-kieta-kimi.json](./175047-owaranai-yuugure-ni-kieta-kimi.json) |
 | Oware3D | 207863 | [207863-oware3d.json](./207863-oware3d.json) |
 | Owari | 37389 | [37389-owari.json](./37389-owari.json) |
+| Owari no Kane ga Naru mae ni Chapter3 | 358518 | [358518-owari-no-kane-ga-naru-mae-ni-chapter3.json](./358518-owari-no-kane-ga-naru-mae-ni-chapter3.json) |
 | Owari no Kane ga Naru mae ni: Chapter 1 - Plus Edition | 259721 | [259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json](./259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json) |
 | Owari no Kane ga Naru mae ni: Chapter 2 | 263135 | [263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json](./263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json) |
 | Owarinaki Natsu, Towa Naru Shirabe | 202383 | [202383-owarinaki-natsu-towa-naru-shirabe.json](./202383-owarinaki-natsu-towa-naru-shirabe.json) |
