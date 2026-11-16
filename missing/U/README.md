@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ulna Online | 155699 | [155699-ulna-online.json](./155699-ulna-online.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
+| UltFoot: Football Manager | 358523 | [358523-ultfoot-football-manager.json](./358523-ultfoot-football-manager.json) |
 | Ultidark | 422422 | [422422-ultidark.json](./422422-ultidark.json) |
 | Ultikill | 149476 | [149476-ultikill.json](./149476-ultikill.json) |
 | Ultim@te Race Pro | 131542 | [131542-ultim-te-race-pro.json](./131542-ultim-te-race-pro.json) |
@@ -1484,7 +1485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnBound | 380748 | [380748-unbound.json](./380748-unbound.json) |
 | Unbound Drift | 407900 | [407900-unbound-drift.json](./407900-unbound-drift.json) |
 | Unbound Eternity | 338592 | [338592-unbound-eternity.json](./338592-unbound-eternity.json) |
-| Unbound Saga | 21101 | [21101-unbound-saga.json](./21101-unbound-saga.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
 | Unbox | 19001 | [19001-unbox.json](./19001-unbox.json) |
 | Unbox The Cats | 337009 | [337009-unbox-the-cats.json](./337009-unbox-the-cats.json) |
@@ -3822,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbex Murder | 324060 | [324060-urbex-murder.json](./324060-urbex-murder.json) |
 | Urbex Night Security | 235953 | [235953-urbex-night-security.json](./235953-urbex-night-security.json) |
 | UrbexCam | 372734 | [372734-urbexcam.json](./372734-urbexcam.json) |
+| Urbexophobia | 360800 | [360800-urbexophobia.json](./360800-urbexophobia.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
 | Urbo: Dream One | 261661 | [261661-urbo-dream-one.json](./261661-urbo-dream-one.json) |
 | Urchins and Ink | 207609 | [207609-urchins-and-ink.json](./207609-urchins-and-ink.json) |
