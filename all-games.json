@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T07:05:57.510Z",
-  "total_soundtracks": 3421,
+  "generated_at": "2026-11-16T08:11:04.336Z",
+  "total_soundtracks": 3424,
   "games": [
     {
       "igdb_id": 292844,
@@ -1703,6 +1703,20 @@
       ]
     },
     {
+      "igdb_id": 56590,
+      "game_name": "Angry Birds Match",
+      "game_url": "https://ostdb.net/games/angry-birds-match",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738981e8cffebea12e9b04385b",
+      "albums": [
+        {
+          "album_name": "Angry Birds Match (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/57qgrkIb25JUESSOKn1YZB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 16365,
       "game_name": "Angry Birds Space",
       "game_url": "https://ostdb.net/games/angry-birds-space",
@@ -2249,6 +2263,20 @@
         {
           "album_name": "Arthur And The Invisibles Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1wR8BA0bv5RjbDpIFgF7XX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 54645,
+      "game_name": "Ary and the Secret of Seasons",
+      "game_url": "https://ostdb.net/games/ary-and-the-secret-of-seasons",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27330175888a99c4d0b8edf3d0a",
+      "albums": [
+        {
+          "album_name": "Ary and the Secret of Seasons (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/60T8HN6NKoIvmZiTwNNaMf",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31945,6 +31973,20 @@
         {
           "album_name": "SkateBIRD Official Video Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4BkHI5ai7vasENtbQfVomh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 54837,
+      "game_name": "Skelattack",
+      "game_url": "https://ostdb.net/games/skelattack",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273675ecae07641de0b76883ba2",
+      "albums": [
+        {
+          "album_name": "Skelattack (Music from the Video Game)",
+          "spotify_url": "https://open.spotify.com/album/3TgLeglnJ0ilEYW8cWyVLp",
           "apple_music_url": "",
           "album_link_url": ""
         }
