@@ -4096,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextDoor | 176127 | [176127-nextdoor.json](./176127-nextdoor.json) |
 | Nextera | 173017 | [173017-nextera.json](./173017-nextera.json) |
 | Nextgen Sandbox | 124710 | [124710-nextgen-sandbox.json](./124710-nextgen-sandbox.json) |
+| Nextgen: Truck Simulator | 214082 | [214082-nextgen-truck-simulator.json](./214082-nextgen-truck-simulator.json) |
 | NextNight | 252280 | [252280-nextnight.json](./252280-nextnight.json) |
 | NextRev: Care Manager Shiken | 179482 | [179482-nextrev-care-manager-shiken.json](./179482-nextrev-care-manager-shiken.json) |
 | NextRev: Chuushokigyou Shindanshi Shiken 1 | 179474 | [179474-nextrev-chuushokigyou-shindanshi-shiken-1.json](./179474-nextrev-chuushokigyou-shindanshi-shiken-1.json) |
@@ -8113,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova-111 | 12561 | [12561-nova-111.json](./12561-nova-111.json) |
 | Nova-Life | 104328 | [104328-nova-life.json](./104328-nova-life.json) |
 | Nova: Cloudwalker's Tale | 204056 | [204056-nova-cloudwalkers-tale.json](./204056-nova-cloudwalkers-tale.json) |
+| Nova: Fantasy Airforce 2050 | 214080 | [214080-nova-fantasy-airforce-2050.json](./214080-nova-fantasy-airforce-2050.json) |
 | Nova: Iron Galaxy | 200758 | [200758-nova-iron-galaxy.json](./200758-nova-iron-galaxy.json) |
 | Nova: Space Armada | 319812 | [319812-nova-space-armada.json](./319812-nova-space-armada.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
