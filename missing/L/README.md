@@ -2487,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Space | 173220 | [173220-league-space.json](./173220-league-space.json) |
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | League TD | 261746 | [261746-league-td.json](./261746-league-td.json) |
+| Leak | 235532 | [235532-leak.json](./235532-leak.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leak or Die! | 176391 | [176391-leak-or-die.json](./176391-leak-or-die.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
@@ -5782,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
 | Lìlìnà de Qíhuàn zhī Lǚ | 156805 | [156805-lilina-de-qihuan-zhi-lu.json](./156805-lilina-de-qihuan-zhi-lu.json) |
 | Lilitales | 122199 | [122199-lilitales.json](./122199-lilitales.json) |
+| Lilith | 236040 | [236040-lilith.json](./236040-lilith.json) |
 | Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
 | Lilith + Eve | 257837 | [257837-lilith-eve.json](./257837-lilith-eve.json) |
 | Lilith Hall | 266877 | [266877-lilith-hall.json](./266877-lilith-hall.json) |
