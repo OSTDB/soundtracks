@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101-in-1 Sports Megamix | 92045 | [92045-101-in-1-sports-megamix.json](./92045-101-in-1-sports-megamix.json) |
 | 101-in-1 Sports Party Megamix | 4633 | [4633-101-in-1-sports-party-megamix.json](./4633-101-in-1-sports-party-megamix.json) |
 | 1010 | 76492 | [76492-1010.json](./76492-1010.json) |
+| 1010 Block Puzzle | 213666 | [213666-1010-block-puzzle.json](./213666-1010-block-puzzle.json) |
 | 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
 | 1010! | 239119 | [239119-1010.json](./239119-1010.json) |
 | 10101: "Will" the Starship | 127739 | [127739-10101-will-the-starship.json](./127739-10101-will-the-starship.json) |
@@ -1492,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 187 Ride or Die | 3978 | [3978-187-ride-or-die.json](./3978-187-ride-or-die.json) |
 | 1870: Cyberpunk Forever | 145279 | [145279-1870-cyberpunk-forever.json](./145279-1870-cyberpunk-forever.json) |
 | 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
+| 1883 | 214067 | [214067-1883.json](./214067-1883.json) |
 | 1893: A World's Fair Mystery | 12374 | [12374-1893-a-worlds-fair-mystery.json](./12374-1893-a-worlds-fair-mystery.json) |
 | 1899: Secrets of the Maze | 359671 | [359671-1899-secrets-of-the-maze.json](./359671-1899-secrets-of-the-maze.json) |
 | 18Hell: Lost | 283081 | [283081-18hell-lost.json](./283081-18hell-lost.json) |
