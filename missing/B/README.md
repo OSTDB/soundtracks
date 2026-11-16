@@ -3978,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle 1917 | 13963 | [13963-battle-1917.json](./13963-battle-1917.json) |
 | Battle 19XX | 195667 | [195667-battle-19xx.json](./195667-battle-19xx.json) |
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
+| Battle 3D: Zombie Edition | 255313 | [255313-battle-3d-zombie-edition.json](./255313-battle-3d-zombie-edition.json) |
 | Battle Academy | 17175 | [17175-battle-academy.json](./17175-battle-academy.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Academy | 328037 | [328037-battle-academy.json](./328037-battle-academy.json) |
@@ -8984,6 +8985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Frontier | 67425 | [67425-billy-frontier.json](./67425-billy-frontier.json) |
 | Billy Hatcher Hyper Shoot | 341688 | [341688-billy-hatcher-hyper-shoot.json](./341688-billy-hatcher-hyper-shoot.json) |
 | Billy Hatcher Scrambled! | 402766 | [402766-billy-hatcher-scrambled.json](./402766-billy-hatcher-scrambled.json) |
+| Billy in Bubble Trouble | 255304 | [255304-billy-in-bubble-trouble.json](./255304-billy-in-bubble-trouble.json) |
 | Billy la Banlieue | 85733 | [85733-billy-la-banlieue.json](./85733-billy-la-banlieue.json) |
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
@@ -9899,6 +9901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite Size Terrors: GuyGuy Toys | 258664 | [258664-bite-size-terrors-guyguy-toys.json](./258664-bite-size-terrors-guyguy-toys.json) |
 | Bite Size Terrors: Reverse Blue | 258311 | [258311-bite-size-terrors-reverse-blue.json](./258311-bite-size-terrors-reverse-blue.json) |
+| Bite Size Terrors: Speechless | 258152 | [258152-bite-size-terrors-speechless.json](./258152-bite-size-terrors-speechless.json) |
 | Bite Sized Puzzle | 163527 | [163527-bite-sized-puzzle.json](./163527-bite-sized-puzzle.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
@@ -10029,6 +10032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
 | BL00 | 117346 | [117346-bl00.json](./117346-bl00.json) |
 | Bl00d.exe | 259168 | [259168-bl00d-exe.json](./259168-bl00d-exe.json) |
+| Bl0w-Up | 258166 | [258166-bl0w-up.json](./258166-bl0w-up.json) |
 | Blablaland | 286667 | [286667-blablaland.json](./286667-blablaland.json) |
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Blabyrinth | 145227 | [145227-blabyrinth.json](./145227-blabyrinth.json) |
