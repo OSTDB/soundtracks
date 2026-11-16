@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L-RPG | 98036 | [98036-l-rpg.json](./98036-l-rpg.json) |
 | L-Way | 105150 | [105150-l-way.json](./105150-l-way.json) |
 | L-Zone | 93271 | [93271-l-zone.json](./93271-l-zone.json) |
+| L: A Mathemagical Adventure | 290062 | [290062-l-a-mathemagical-adventure.json](./290062-l-a-mathemagical-adventure.json) |
 | L: An Interactive Mystery | 178883 | [178883-l-an-interactive-mystery.json](./178883-l-an-interactive-mystery.json) |
 | L. Frank Baum's: The Wonderful Wizard of Oz | 64852 | [64852-l-frank-baums-the-wonderful-wizard-of-oz.json](./64852-l-frank-baums-the-wonderful-wizard-of-oz.json) |
 | L.3.3.T. | 248422 | [248422-l-3-3-t.json](./248422-l-3-3-t.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Snaker | 85743 | [85743-laser-snaker.json](./85743-laser-snaker.json) |
 | Laser Sounds | 309384 | [309384-laser-sounds.json](./309384-laser-sounds.json) |
 | Laser Space | 219917 | [219917-laser-space.json](./219917-laser-space.json) |
+| Laser Sphere | 291632 | [291632-laser-sphere.json](./291632-laser-sphere.json) |
 | Laser Spider Playground | 354212 | [354212-laser-spider-playground.json](./354212-laser-spider-playground.json) |
 | Laser Squad | 12170 | [12170-laser-squad.json](./12170-laser-squad.json) |
 | Laser Squad Nemesis | 21608 | [21608-laser-squad-nemesis.json](./21608-laser-squad-nemesis.json) |
@@ -6619,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Buster Q | 49662 | [49662-little-buster-q.json](./49662-little-buster-q.json) |
 | Little Busters! Converted Edition | 127796 | [127796-little-busters-converted-edition.json](./127796-little-busters-converted-edition.json) |
 | Little Busters! Ecstasy | 167935 | [167935-little-busters-ecstasy.json](./167935-little-busters-ecstasy.json) |
+| Little Busters! English Edition | 291096 | [291096-little-busters-english-edition.json](./291096-little-busters-english-edition.json) |
 | Little Busters! Perfect Edition: TV Anime Commemorative Edition | 291075 | [291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json](./291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json) |
 | Little By Little By Little | 178992 | [178992-little-by-little-by-little.json](./178992-little-by-little-by-little.json) |
 | Little Cabin in the Woods: A Forgotten Hill Tale | 388554 | [388554-little-cabin-in-the-woods-a-forgotten-hill-tale.json](./388554-little-cabin-in-the-woods-a-forgotten-hill-tale.json) |
@@ -9973,6 +9976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
 | Love Me or Die | 321274 | [321274-love-me-or-die.json](./321274-love-me-or-die.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
+| Love Memory Mimic | 291626 | [291626-love-memory-mimic.json](./291626-love-memory-mimic.json) |
 | Love Menu | 235591 | [235591-love-menu.json](./235591-love-menu.json) |
 | Love Mochi | 82576 | [82576-love-mochi.json](./82576-love-mochi.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
@@ -11448,6 +11452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusty Chapters | 384759 | [384759-lusty-chapters.json](./384759-lusty-chapters.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
 | LustyVerse: ShackBang | 384750 | [384750-lustyverse-shackbang.json](./384750-lustyverse-shackbang.json) |
+| Luta de Gladiadores | 291625 | [291625-luta-de-gladiadores.json](./291625-luta-de-gladiadores.json) |
 | Luta: Luminoria Tactics | 374538 | [374538-luta-luminoria-tactics.json](./374538-luta-luminoria-tactics.json) |
 | Lutarus | 293621 | [293621-lutarus.json](./293621-lutarus.json) |
 | Luthier | 336651 | [336651-luthier.json](./336651-luthier.json) |
