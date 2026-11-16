@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.P. | 381005 | [381005-r-i-p.json](./381005-r-i-p.json) |
 | R.I.P. | 77984 | [77984-r-i-p.json](./77984-r-i-p.json) |
 | R.I.P. Curl | 291613 | [291613-r-i-p-curl.json](./291613-r-i-p-curl.json) |
+| R.I.P. Tour | 215817 | [215817-r-i-p-tour.json](./215817-r-i-p-tour.json) |
 | R.I.P.: Strike Back | 131032 | [131032-r-i-p-strike-back.json](./131032-r-i-p-strike-back.json) |
 | R.I.Pea-Guy | 141598 | [141598-r-i-pea-guy.json](./141598-r-i-pea-guy.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
@@ -7426,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
 | Reverie | 338839 | [338839-reverie.json](./338839-reverie.json) |
 | Reverie | 56869 | [56869-reverie.json](./56869-reverie.json) |
+| Rêverie | 215825 | [215825-reverie.json](./215825-reverie.json) |
 | Reverie in the Moonlight | 347433 | [347433-reverie-in-the-moonlight.json](./347433-reverie-in-the-moonlight.json) |
 | Reverie Knights Tactics | 151555 | [151555-reverie-knights-tactics.json](./151555-reverie-knights-tactics.json) |
 | Reverie Knights Tactics: Prologue | 156214 | [156214-reverie-knights-tactics-prologue.json](./156214-reverie-knights-tactics-prologue.json) |
@@ -10245,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rescue 2 | 84845 | [84845-robot-rescue-2.json](./84845-robot-rescue-2.json) |
 | Robot Rescue 3D | 84846 | [84846-robot-rescue-3d.json](./84846-robot-rescue-3d.json) |
 | Robot Rescue Revolution | 9012 | [9012-robot-rescue-revolution.json](./9012-robot-rescue-revolution.json) |
+| Robot Resistors | 215818 | [215818-robot-resistors.json](./215818-robot-resistors.json) |
 | Robot Revolt | 230903 | [230903-robot-revolt.json](./230903-robot-revolt.json) |
 | Robot Rhapsody | 346706 | [346706-robot-rhapsody.json](./346706-robot-rhapsody.json) |
 | Robot Rice Cooker Revolt | 133717 | [133717-robot-rice-cooker-revolt.json](./133717-robot-rice-cooker-revolt.json) |
@@ -11759,6 +11762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Rollcage Stage II | 3163 | [3163-rollcage-stage-ii.json](./3163-rollcage-stage-ii.json) |
 | Rollcage: Limited Edition | 43736 | [43736-rollcage-limited-edition.json](./43736-rollcage-limited-edition.json) |
+| RollCats | 215819 | [215819-rollcats.json](./215819-rollcats.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Rolldown | 305979 | [305979-rolldown.json](./305979-rolldown.json) |
 | Rolled Out! | 123117 | [123117-rolled-out.json](./123117-rolled-out.json) |
@@ -12165,6 +12169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rome 2077: Space Wars | 157317 | [157317-rome-2077-space-wars.json](./157317-rome-2077-space-wars.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
 | Rome Circus Maximus: Chariot Race VR | 68585 | [68585-rome-circus-maximus-chariot-race-vr.json](./68585-rome-circus-maximus-chariot-race-vr.json) |
+| Rome Defenders: The First Wave | 215820 | [215820-rome-defenders-the-first-wave.json](./215820-rome-defenders-the-first-wave.json) |
 | Rome Empire War: Strategy Games | 175702 | [175702-rome-empire-war-strategy-games.json](./175702-rome-empire-war-strategy-games.json) |
 | Rome Frontiers | 261727 | [261727-rome-frontiers.json](./261727-rome-frontiers.json) |
 | Rome Goes Rogue | 317154 | [317154-rome-goes-rogue.json](./317154-rome-goes-rogue.json) |
@@ -14099,6 +14104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Runback | 400815 | [400815-runback.json](./400815-runback.json) |
+| RunBean Galactic | 215821 | [215821-runbean-galactic.json](./215821-runbean-galactic.json) |
 | RunBot | 62925 | [62925-runbot.json](./62925-runbot.json) |
 | Runbow | 11215 | [11215-runbow.json](./11215-runbow.json) |
 | Runbow: Complete Collection | 53561 | [53561-runbow-complete-collection.json](./53561-runbow-complete-collection.json) |
@@ -14259,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneScape 2 | 362749 | [362749-runescape-2.json](./362749-runescape-2.json) |
 | RuneScape Classic | 138173 | [138173-runescape-classic.json](./138173-runescape-classic.json) |
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
+| Runeseeker | 215822 | [215822-runeseeker.json](./215822-runeseeker.json) |
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
 | Runeseekers 2 | 381721 | [381721-runeseekers-2.json](./381721-runeseekers-2.json) |
 | Runeshard | 56272 | [56272-runeshard.json](./56272-runeshard.json) |
