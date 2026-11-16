@@ -985,6 +985,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Kingdoms | 410865 | [410865-ultra-kingdoms.json](./410865-ultra-kingdoms.json) |
 | Ultra League: Moero! Soccer Daikessen!! | 42354 | [42354-ultra-league-moero-soccer-daikessen.json](./42354-ultra-league-moero-soccer-daikessen.json) |
 | Ultra LMAD | 231320 | [231320-ultra-lmad.json](./231320-ultra-lmad.json) |
+| Ultra Mahou Shoujo Manana Vol.1 | 416442 | [416442-ultra-mahou-shoujo-manana-vol-1.json](./416442-ultra-mahou-shoujo-manana-vol-1.json) |
+| Ultra Mahou Shoujo Manana Vol.3 | 416444 | [416444-ultra-mahou-shoujo-manana-vol-3.json](./416444-ultra-mahou-shoujo-manana-vol-3.json) |
+| Ultra Mahou Shoujo Manana Vol.4 | 416445 | [416445-ultra-mahou-shoujo-manana-vol-4.json](./416445-ultra-mahou-shoujo-manana-vol-4.json) |
+| Ultra Mahou Shoujo Manana Vol.5 | 416446 | [416446-ultra-mahou-shoujo-manana-vol-5.json](./416446-ultra-mahou-shoujo-manana-vol-5.json) |
 | Ultra Man | 218291 | [218291-ultra-man.json](./218291-ultra-man.json) |
 | Ultra Mega Cats | 217344 | [217344-ultra-mega-cats.json](./217344-ultra-mega-cats.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
