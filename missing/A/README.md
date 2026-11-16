@@ -5459,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Advent | 276208 | [276208-age-of-advent.json](./276208-age-of-advent.json) |
 | Age of Adventure: Playing the Hero | 52361 | [52361-age-of-adventure-playing-the-hero.json](./52361-age-of-adventure-playing-the-hero.json) |
 | Age of AI: North America | 96931 | [96931-age-of-ai-north-america.json](./96931-age-of-ai-north-america.json) |
+| Age of Aincrad | 223686 | [223686-age-of-aincrad.json](./223686-age-of-aincrad.json) |
 | Age of Albuvia | 169486 | [169486-age-of-albuvia.json](./169486-age-of-albuvia.json) |
 | Age of Alexander | 176062 | [176062-age-of-alexander.json](./176062-age-of-alexander.json) |
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
@@ -14977,6 +14978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcadianX | 102543 | [102543-arcadianx.json](./102543-arcadianx.json) |
 | Arcadice | 353806 | [353806-arcadice.json](./353806-arcadice.json) |
 | Arcadie II: Cold Lands | 346625 | [346625-arcadie-ii-cold-lands.json](./346625-arcadie-ii-cold-lands.json) |
+| Arcadie: Second-Born | 224736 | [224736-arcadie-second-born.json](./224736-arcadie-second-born.json) |
 | Arcadium | 137562 | [137562-arcadium.json](./137562-arcadium.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
