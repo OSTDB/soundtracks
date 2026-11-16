@@ -3787,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Defense 2: Empire Warriors | 104361 | [104361-kingdom-defense-2-empire-warriors.json](./104361-kingdom-defense-2-empire-warriors.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
 | Kingdom Defense: Hero Legend | 105834 | [105834-kingdom-defense-hero-legend.json](./105834-kingdom-defense-hero-legend.json) |
+| Kingdom Dice | 391378 | [391378-kingdom-dice.json](./391378-kingdom-dice.json) |
 | Kingdom Draw | 210507 | [210507-kingdom-draw.json](./210507-kingdom-draw.json) |
 | Kingdom Elemental | 17151 | [17151-kingdom-elemental.json](./17151-kingdom-elemental.json) |
 | Kingdom Fall: Dawn of the Druid | 175635 | [175635-kingdom-fall-dawn-of-the-druid.json](./175635-kingdom-fall-dawn-of-the-druid.json) |
