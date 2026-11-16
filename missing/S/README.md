@@ -14621,6 +14621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skystead Christmas | 327864 | [327864-skystead-christmas.json](./327864-skystead-christmas.json) |
 | Skystead Ranch | 258560 | [258560-skystead-ranch.json](./258560-skystead-ranch.json) |
 | Skystrider | 251791 | [251791-skystrider.json](./251791-skystrider.json) |
+| Skystrike: Wings of Justice | 212940 | [212940-skystrike-wings-of-justice.json](./212940-skystrike-wings-of-justice.json) |
 | Skysunder | 424876 | [424876-skysunder.json](./424876-skysunder.json) |
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
@@ -15587,6 +15588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingray | 62494 | [62494-slingray.json](./62494-slingray.json) |
 | Slingshell, by Muno! | 245729 | [245729-slingshell-by-muno.json](./245729-slingshell-by-muno.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
+| Slingshot Adventure | 212941 | [212941-slingshot-adventure.json](./212941-slingshot-adventure.json) |
 | Slingshot Assist | 26842 | [26842-slingshot-assist.json](./26842-slingshot-assist.json) |
 | Slingshot Battle | 241418 | [241418-slingshot-battle.json](./241418-slingshot-battle.json) |
 | Slingshot Blitz: Rewarded Play | 232036 | [232036-slingshot-blitz-rewarded-play.json](./232036-slingshot-blitz-rewarded-play.json) |
@@ -16190,6 +16192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Bash Crash | 81134 | [81134-smash-bash-crash.json](./81134-smash-bash-crash.json) |
 | Smash Bear | 294939 | [294939-smash-bear.json](./294939-smash-bear.json) |
 | Smash Boats | 147677 | [147677-smash-boats.json](./147677-smash-boats.json) |
+| Smash Boats: Waterlogged Edition | 213658 | [213658-smash-boats-waterlogged-edition.json](./213658-smash-boats-waterlogged-edition.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
 | Smash Boy Ver.KZ | 106547 | [106547-smash-boy-ver-kz.json](./106547-smash-boy-ver-kz.json) |
 | Smash Bros. Rumble | 210677 | [210677-smash-bros-rumble.json](./210677-smash-bros-rumble.json) |
@@ -18531,6 +18534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarys The Witch of Fire | 301392 | [301392-solarys-the-witch-of-fire.json](./301392-solarys-the-witch-of-fire.json) |
 | Solas 128 | 139176 | [139176-solas-128.json](./139176-solas-128.json) |
 | Solas and the White Winter | 90830 | [90830-solas-and-the-white-winter.json](./90830-solas-and-the-white-winter.json) |
+| Solas City Heroes | 212942 | [212942-solas-city-heroes.json](./212942-solas-city-heroes.json) |
 | Solasta II | 325589 | [325589-solasta-ii.json](./325589-solasta-ii.json) |
 | Solasta: Crown of the Magister - Inner Strength | 219594 | [219594-solasta-crown-of-the-magister-inner-strength.json](./219594-solasta-crown-of-the-magister-inner-strength.json) |
 | Solasta: Crown of the Magister - Lost Valley | 195735 | [195735-solasta-crown-of-the-magister-lost-valley.json](./195735-solasta-crown-of-the-magister-lost-valley.json) |
@@ -26673,6 +26677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacks: Village! | 364000 | [364000-stacks-village.json](./364000-stacks-village.json) |
 | Stacksquatch | 118243 | [118243-stacksquatch.json](./118243-stacksquatch.json) |
+| Stacky Dash | 214083 | [214083-stacky-dash.json](./214083-stacky-dash.json) |
 | Stacky Dash: Action Pack | 330628 | [330628-stacky-dash-action-pack.json](./330628-stacky-dash-action-pack.json) |
 | Stacky Dash: Anime Pack | 330629 | [330629-stacky-dash-anime-pack.json](./330629-stacky-dash-anime-pack.json) |
 | Stacky Dash: Complete Edition | 333726 | [333726-stacky-dash-complete-edition.json](./333726-stacky-dash-complete-edition.json) |
@@ -27592,6 +27597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Truck Simulator | 322405 | [322405-star-truck-simulator.json](./322405-star-truck-simulator.json) |
 | Star Trucker: Amped Customization Pack | 332043 | [332043-star-trucker-amped-customization-pack.json](./332043-star-trucker-amped-customization-pack.json) |
 | Star Trucker: Cultivation Content Pack | 415856 | [415856-star-trucker-cultivation-content-pack.json](./415856-star-trucker-cultivation-content-pack.json) |
+| Star Trust | 213655 | [213655-star-trust.json](./213655-star-trust.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
 | Star Versus | 48352 | [48352-star-versus.json](./48352-star-versus.json) |
 | Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
