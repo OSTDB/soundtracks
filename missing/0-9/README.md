@@ -4048,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 96 Mill | 25810 | [25810-96-mill.json](./25810-96-mill.json) |
 | 96: Another Story | 224877 | [224877-96-another-story.json](./224877-96-another-story.json) |
 | 98xx | 249715 | [249715-98xx.json](./249715-98xx.json) |
+| 99 Action Arcade | 365014 | [365014-99-action-arcade.json](./365014-99-action-arcade.json) |
 | 99 Arrows | 67204 | [67204-99-arrows.json](./67204-99-arrows.json) |
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
 | 99 Bricks | 252618 | [252618-99-bricks.json](./252618-99-bricks.json) |
