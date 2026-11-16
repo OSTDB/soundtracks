@@ -6597,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverick Gunn and the Eye of Oggun | 170347 | [170347-maverick-gunn-and-the-eye-of-oggun.json](./170347-maverick-gunn-and-the-eye-of-oggun.json) |
 | Maverick Hunter | 291917 | [291917-maverick-hunter.json](./291917-maverick-hunter.json) |
+| Maverick Hunters: Dawn of Sorrow | 330040 | [330040-maverick-hunters-dawn-of-sorrow.json](./330040-maverick-hunters-dawn-of-sorrow.json) |
 | Mavericks | 349802 | [349802-mavericks.json](./349802-mavericks.json) |
 | Mavericks 2: Resurrection of the Repliforce: | 350788 | [350788-mavericks-2-resurrection-of-the-repliforce.json](./350788-mavericks-2-resurrection-of-the-repliforce.json) |
 | Mavericks 3: Zero's Revenge | 350789 | [350789-mavericks-3-zeros-revenge.json](./350789-mavericks-3-zeros-revenge.json) |
@@ -9853,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento Mori | 271182 | [271182-memento-mori.json](./271182-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
 | Memento Mori | 304491 | [304491-memento-mori.json](./304491-memento-mori.json) |
+| Memento Mori | 329855 | [329855-memento-mori.json](./329855-memento-mori.json) |
 | Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
 | Memento Mori II | 141064 | [141064-memento-mori-ii.json](./141064-memento-mori-ii.json) |
 | Memento of Spring | 80923 | [80923-memento-of-spring.json](./80923-memento-of-spring.json) |
@@ -19192,6 +19194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's Stones | 94451 | [94451-moraffs-stones.json](./94451-moraffs-stones.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Moral Conflict | 184679 | [184679-moral-conflict.json](./184679-moral-conflict.json) |
+| Moral Dilemma: The Interview | 330041 | [330041-moral-dilemma-the-interview.json](./330041-moral-dilemma-the-interview.json) |
 | Moral King | 107413 | [107413-moral-king.json](./107413-moral-king.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
@@ -21116,6 +21119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hopp's Manor Escape | 196119 | [196119-mr-hopps-manor-escape.json](./196119-mr-hopps-manor-escape.json) |
 | Mr. Hopp's Playhouse | 125073 | [125073-mr-hopps-playhouse.json](./125073-mr-hopps-playhouse.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
+| Mr. Hopp's Playhouse 2 HD | 329854 | [329854-mr-hopps-playhouse-2-hd.json](./329854-mr-hopps-playhouse-2-hd.json) |
 | Mr. Hopp's Playhouse 3 | 239687 | [239687-mr-hopps-playhouse-3.json](./239687-mr-hopps-playhouse-3.json) |
 | Mr. Hopp's Playhouse HD | 302020 | [302020-mr-hopps-playhouse-hd.json](./302020-mr-hopps-playhouse-hd.json) |
 | Mr. Hopp's Playhouse: The Toybox | 371547 | [371547-mr-hopps-playhouse-the-toybox.json](./371547-mr-hopps-playhouse-the-toybox.json) |
