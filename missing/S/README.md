@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sainthood | 249223 | [249223-sainthood.json](./249223-sainthood.json) |
 | Sainthood Relics | 420045 | [420045-sainthood-relics.json](./420045-sainthood-relics.json) |
 | Sainthum | 149557 | [149557-sainthum.json](./149557-sainthum.json) |
+| Saintless | 406957 | [406957-saintless.json](./406957-saintless.json) |
 | Saints & Sinners Bingo | 206744 | [206744-saints-and-sinners-bingo.json](./206744-saints-and-sinners-bingo.json) |
 | Saints & Sinners Bowling | 172540 | [172540-saints-and-sinners-bowling.json](./172540-saints-and-sinners-bowling.json) |
 | Saints and Sinners | 142799 | [142799-saints-and-sinners.json](./142799-saints-and-sinners.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Hime 3 | 224843 | [224843-sakura-hime-3.json](./224843-sakura-hime-3.json) |
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
 | Sakura Hime 5 | 340670 | [340670-sakura-hime-5.json](./340670-sakura-hime-5.json) |
+| Sakura Hime 6 | 406363 | [406363-sakura-hime-6.json](./406363-sakura-hime-6.json) |
 | Sakura In Gameland | 147073 | [147073-sakura-in-gameland.json](./147073-sakura-in-gameland.json) |
 | Sakura in Paris | 253615 | [253615-sakura-in-paris.json](./253615-sakura-in-paris.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
@@ -8765,6 +8767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She'sn | 267583 | [267583-shesn.json](./267583-shesn.json) |
 | Sheaf - Together EP | 120769 | [120769-sheaf-together-ep.json](./120769-sheaf-together-ep.json) |
 | Shear Abnormality | 338113 | [338113-shear-abnormality.json](./338113-shear-abnormality.json) |
+| Shear Heaven | 406984 | [406984-shear-heaven.json](./406984-shear-heaven.json) |
 | Shear Madness | 401921 | [401921-shear-madness.json](./401921-shear-madness.json) |
 | Sheared | 62585 | [62585-sheared.json](./62585-sheared.json) |
 | Sheba: A New Dawn | 206424 | [206424-sheba-a-new-dawn.json](./206424-sheba-a-new-dawn.json) |
@@ -9263,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
 | Shiju Hachi: Kari | 112532 | [112532-shiju-hachi-kari.json](./112532-shiju-hachi-kari.json) |
 | Shika-Q | 374504 | [374504-shika-q.json](./374504-shika-q.json) |
+| Shikaku by Nikoli | 406982 | [406982-shikaku-by-nikoli.json](./406982-shikaku-by-nikoli.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
 | Shikaku Shapes | 147662 | [147662-shikaku-shapes.json](./147662-shikaku-shapes.json) |
 | Shikakui Atama wo Maru Kusuru Advance: Kanji Keisan-hen | 49781 | [49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json](./49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json) |
@@ -28174,6 +28178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starduster | 303926 | [303926-starduster.json](./303926-starduster.json) |
 | Stare | 425881 | [425881-stare.json](./425881-stare.json) |
 | Stare : Block Breaker | 122023 | [122023-stare-block-breaker.json](./122023-stare-block-breaker.json) |
+| Stare into Death and Be Still | 406986 | [406986-stare-into-death-and-be-still.json](./406986-stare-into-death-and-be-still.json) |
 | Starecrown | 291818 | [291818-starecrown.json](./291818-starecrown.json) |
 | Starena | 84063 | [84063-starena.json](./84063-starena.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
