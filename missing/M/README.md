@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicami | 150593 | [150593-magicami.json](./150593-magicami.json) |
 | Magicarat Radiant | 279995 | [279995-magicarat-radiant.json](./279995-magicarat-radiant.json) |
 | MagicArchitect | 284268 | [284268-magicarchitect.json](./284268-magicarchitect.json) |
+| MagiCard | 337851 | [337851-magicard.json](./337851-magicard.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | Magicat | 376831 | [376831-magicat.json](./376831-magicat.json) |
 | MagiCat | 52207 | [52207-magicat.json](./52207-magicat.json) |
@@ -15819,6 +15820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist | 349266 | [349266-mist.json](./349266-mist.json) |
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
 | Mist Forest | 234456 | [234456-mist-forest.json](./234456-mist-forest.json) |
+| Mist Forge | 337881 | [337881-mist-forge.json](./337881-mist-forge.json) |
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
 | Mist Hunter | 114067 | [114067-mist-hunter.json](./114067-mist-hunter.json) |
