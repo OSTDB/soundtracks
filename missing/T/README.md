@@ -1776,6 +1776,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagorudo: Floor O | 347384 | [347384-tamagorudo-floor-o.json](./347384-tamagorudo-floor-o.json) |
 | Tamagotchi | 194325 | [194325-tamagotchi.json](./194325-tamagotchi.json) |
 | Tamagotchi | 301415 | [301415-tamagotchi.json](./301415-tamagotchi.json) |
+| Tamagotchi 4U | 230027 | [230027-tamagotchi-4u.json](./230027-tamagotchi-4u.json) |
+| Tamagotchi 4U+ | 230028 | [230028-tamagotchi-4u.json](./230028-tamagotchi-4u.json) |
 | Tamagotchi 64: Minna de Tamagotchi World | 3611 | [3611-tamagotchi-64-minna-de-tamagotchi-world.json](./3611-tamagotchi-64-minna-de-tamagotchi-world.json) |
 | Tamagotchi Adventure Kingdom | 281825 | [281825-tamagotchi-adventure-kingdom.json](./281825-tamagotchi-adventure-kingdom.json) |
 | Tamagotchi Angel | 229837 | [229837-tamagotchi-angel.json](./229837-tamagotchi-angel.json) |
@@ -1796,9 +1798,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Garden | 229839 | [229839-tamagotchi-garden.json](./229839-tamagotchi-garden.json) |
 | Tamagotchi Gen 2 | 229871 | [229871-tamagotchi-gen-2.json](./229871-tamagotchi-gen-2.json) |
 | Tamagotchi iD | 230017 | [230017-tamagotchi-id.json](./230017-tamagotchi-id.json) |
+| Tamagotchi iD Conan ver. | 230019 | [230019-tamagotchi-id-conan-ver.json](./230019-tamagotchi-id-conan-ver.json) |
+| Tamagotchi iD L | 230020 | [230020-tamagotchi-id-l.json](./230020-tamagotchi-id-l.json) |
+| Tamagotchi iD L 15th Anniversary Version | 230021 | [230021-tamagotchi-id-l-15th-anniversary-version.json](./230021-tamagotchi-id-l-15th-anniversary-version.json) |
+| Tamagotchi iD L Princess Spacy ver. | 230022 | [230022-tamagotchi-id-l-princess-spacy-ver.json](./230022-tamagotchi-id-l-princess-spacy-ver.json) |
 | Tamagotchi iD Lovely Melody ver. | 230018 | [230018-tamagotchi-id-lovely-melody-ver.json](./230018-tamagotchi-id-lovely-melody-ver.json) |
+| Tamagotchi Meets: Fantasy ver. | 230047 | [230047-tamagotchi-meets-fantasy-ver.json](./230047-tamagotchi-meets-fantasy-ver.json) |
+| Tamagotchi Meets: Pastel ver. | 230045 | [230045-tamagotchi-meets-pastel-ver.json](./230045-tamagotchi-meets-pastel-ver.json) |
+| Tamagotchi Meets: Sanrio Characters ver. | 230046 | [230046-tamagotchi-meets-sanrio-characters-ver.json](./230046-tamagotchi-meets-sanrio-characters-ver.json) |
+| Tamagotchi Meets: Sweets ver. | 230048 | [230048-tamagotchi-meets-sweets-ver.json](./230048-tamagotchi-meets-sweets-ver.json) |
 | Tamagotchi Mesutchi | 229872 | [229872-tamagotchi-mesutchi.json](./229872-tamagotchi-mesutchi.json) |
 | Tamagotchi Mini | 229970 | [229970-tamagotchi-mini.json](./229970-tamagotchi-mini.json) |
+| Tamagotchi mix: 20th Anniversary mix ver. | 230032 | [230032-tamagotchi-mix-20th-anniversary-mix-ver.json](./230032-tamagotchi-mix-20th-anniversary-mix-ver.json) |
+| Tamagotchi mix: Anniversary Gift mix ver. | 230034 | [230034-tamagotchi-mix-anniversary-gift-mix-ver.json](./230034-tamagotchi-mix-anniversary-gift-mix-ver.json) |
+| Tamagotchi mix: Dream mix ver. | 230036 | [230036-tamagotchi-mix-dream-mix-ver.json](./230036-tamagotchi-mix-dream-mix-ver.json) |
+| Tamagotchi mix: Melody mix ver. | 230030 | [230030-tamagotchi-mix-melody-mix-ver.json](./230030-tamagotchi-mix-melody-mix-ver.json) |
+| Tamagotchi mix: Sanrio mix ver. | 230033 | [230033-tamagotchi-mix-sanrio-mix-ver.json](./230033-tamagotchi-mix-sanrio-mix-ver.json) |
+| Tamagotchi mix: Spacy mix ver. | 230031 | [230031-tamagotchi-mix-spacy-mix-ver.json](./230031-tamagotchi-mix-spacy-mix-ver.json) |
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
 | Tamagotchi Nano | 230055 | [230055-tamagotchi-nano.json](./230055-tamagotchi-nano.json) |
 | Tamagotchi Nano Colorful Detective Conan | 304044 | [304044-tamagotchi-nano-colorful-detective-conan.json](./304044-tamagotchi-nano-colorful-detective-conan.json) |
@@ -1815,7 +1831,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi no Pika Pika Daitouryou! | 20652 | [20652-tamagotchi-no-pika-pika-daitouryou.json](./20652-tamagotchi-no-pika-pika-daitouryou.json) |
 | Tamagotchi no Puchi Puchi Omisecchi: Ninko no Omise Atsumemashita | 77580 | [77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json](./77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json) |
 | Tamagotchi Ocean | 229510 | [229510-tamagotchi-ocean.json](./229510-tamagotchi-ocean.json) |
+| Tamagotchi On: Fairy ver. | 230043 | [230043-tamagotchi-on-fairy-ver.json](./230043-tamagotchi-on-fairy-ver.json) |
+| Tamagotchi On: Magic ver. | 230044 | [230044-tamagotchi-on-magic-ver.json](./230044-tamagotchi-on-magic-ver.json) |
+| Tamagotchi On: Wonder Garden ver. | 230049 | [230049-tamagotchi-on-wonder-garden-ver.json](./230049-tamagotchi-on-wonder-garden-ver.json) |
 | Tamagotchi Osutchi | 229842 | [229842-tamagotchi-osutchi.json](./229842-tamagotchi-osutchi.json) |
+| Tamagotchi P's | 230026 | [230026-tamagotchi-ps.json](./230026-tamagotchi-ps.json) |
 | Tamagotchi Paradise | 346804 | [346804-tamagotchi-paradise.json](./346804-tamagotchi-paradise.json) |
 | Tamagotchi Pix | 230051 | [230051-tamagotchi-pix.json](./230051-tamagotchi-pix.json) |
 | Tamagotchi Plaza | 337030 | [337030-tamagotchi-plaza.json](./337030-tamagotchi-plaza.json) |
@@ -13538,6 +13558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Night | 302799 | [302799-the-last-night.json](./302799-the-last-night.json) |
 | The Last Night | 385615 | [385615-the-last-night.json](./385615-the-last-night.json) |
 | The Last Night : The first invation | 98313 | [98313-the-last-night-the-first-invation.json](./98313-the-last-night-the-first-invation.json) |
+| The Last Night of Alexisgrad | 230567 | [230567-the-last-night-of-alexisgrad.json](./230567-the-last-night-of-alexisgrad.json) |
 | The Last Ninja | 308996 | [308996-the-last-ninja.json](./308996-the-last-ninja.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last Ninja Collection + Bonus Games | 362742 | [362742-the-last-ninja-collection-bonus-games.json](./362742-the-last-ninja-collection-bonus-games.json) |
@@ -14381,6 +14402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Liberation of Kuwait | 73740 | [73740-the-liberation-of-kuwait.json](./73740-the-liberation-of-kuwait.json) |
 | The Libido Enigma | 368976 | [368976-the-libido-enigma.json](./368976-the-libido-enigma.json) |
+| The Libonotus Cup | 230565 | [230565-the-libonotus-cup.json](./230565-the-libonotus-cup.json) |
 | The Librarian | 96203 | [96203-the-librarian.json](./96203-the-librarian.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library | 274430 | [274430-the-library.json](./274430-the-library.json) |
