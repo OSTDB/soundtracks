@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Anniversary: Scythe Content Pack | 226845 | [226845-fable-anniversary-scythe-content-pack.json](./226845-fable-anniversary-scythe-content-pack.json) |
 | Fable Clinic | 56768 | [56768-fable-clinic.json](./56768-fable-clinic.json) |
 | Fable For Two | 121239 | [121239-fable-for-two.json](./121239-fable-for-two.json) |
+| Fable Forge | 419185 | [419185-fable-forge.json](./419185-fable-forge.json) |
 | Fable Forts! | 261883 | [261883-fable-forts.json](./261883-fable-forts.json) |
 | Fable Fortune | 19388 | [19388-fable-fortune.json](./19388-fable-fortune.json) |
 | Fable Grove | 309476 | [309476-fable-grove.json](./309476-fable-grove.json) |
@@ -7184,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish 'N' Chips | 246832 | [246832-fish-n-chips.json](./246832-fish-n-chips.json) |
 | Fish & Bubbles | 286707 | [286707-fish-and-bubbles.json](./286707-fish-and-bubbles.json) |
 | Fish & Hike | 404581 | [404581-fish-and-hike.json](./404581-fish-and-hike.json) |
+| Fish & Ships | 419042 | [419042-fish-and-ships.json](./419042-fish-and-ships.json) |
 | Fish & Trip | 97492 | [97492-fish-and-trip.json](./97492-fish-and-trip.json) |
 | Fish and Chill | 349795 | [349795-fish-and-chill.json](./349795-fish-and-chill.json) |
 | Fish and Fight | 163867 | [163867-fish-and-fight.json](./163867-fish-and-fight.json) |
@@ -9612,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluxis | 257617 | [257617-fluxis.json](./257617-fluxis.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
 | Fluxteria | 135587 | [135587-fluxteria.json](./135587-fluxteria.json) |
+| FluxWerks | 419047 | [419047-fluxwerks.json](./419047-fluxwerks.json) |
 | Fluxx | 22185 | [22185-fluxx.json](./22185-fluxx.json) |
 | FLW Professional Bass Tournament 2000 | 74028 | [74028-flw-professional-bass-tournament-2000.json](./74028-flw-professional-bass-tournament-2000.json) |
 | Fly | 328125 | [328125-fly.json](./328125-fly.json) |
