@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Adventure | 261023 | [261023-killing-adventure.json](./261023-killing-adventure.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
+| Killing Boys | 334368 | [334368-killing-boys.json](./334368-killing-boys.json) |
 | Killing Bullet | 272242 | [272242-killing-bullet.json](./272242-killing-bullet.json) |
 | Killing Day | 68223 | [68223-killing-day.json](./68223-killing-day.json) |
 | Killing Dreamworks | 256042 | [256042-killing-dreamworks.json](./256042-killing-dreamworks.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Special Edition | 324371 | [324371-knights-and-guns-special-edition.json](./324371-knights-and-guns-special-edition.json) |
 | Knights & Guns: Summer Edition | 312056 | [312056-knights-and-guns-summer-edition.json](./312056-knights-and-guns-summer-edition.json) |
 | Knights & Guns: Ultimate Edition | 283142 | [283142-knights-and-guns-ultimate-edition.json](./283142-knights-and-guns-ultimate-edition.json) |
+| Knights & Guns: Ultra Edition | 335541 | [335541-knights-and-guns-ultra-edition.json](./335541-knights-and-guns-ultra-edition.json) |
 | Knights & Guns: VIP Edition | 418339 | [418339-knights-and-guns-vip-edition.json](./418339-knights-and-guns-vip-edition.json) |
 | Knights & Outlaws | 120917 | [120917-knights-and-outlaws.json](./120917-knights-and-outlaws.json) |
 | Knights & Slimes | 115649 | [115649-knights-and-slimes.json](./115649-knights-and-slimes.json) |
@@ -6149,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Drone Flying Tour Jinchon Beach | 343542 | [343542-korean-drone-flying-tour-jinchon-beach.json](./343542-korean-drone-flying-tour-jinchon-beach.json) |
+| Korean Drone Flying Tour Muui-do | 335549 | [335549-korean-drone-flying-tour-muui-do.json](./335549-korean-drone-flying-tour-muui-do.json) |
 | Korean Drone Flying Tour Nakhwaam | 362180 | [362180-korean-drone-flying-tour-nakhwaam.json](./362180-korean-drone-flying-tour-nakhwaam.json) |
 | Korean Drone Flying Tour Namhan River | 342419 | [342419-korean-drone-flying-tour-namhan-river.json](./342419-korean-drone-flying-tour-namhan-river.json) |
 | Korean Drone Flying Tour Namyangju-si | 353577 | [353577-korean-drone-flying-tour-namyangju-si.json](./353577-korean-drone-flying-tour-namyangju-si.json) |
@@ -7084,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurushi Final: Mental Blocks | 43868 | [43868-kurushi-final-mental-blocks.json](./43868-kurushi-final-mental-blocks.json) |
 | Kurusuku Shichauzo | 98054 | [98054-kurusuku-shichauzo.json](./98054-kurusuku-shichauzo.json) |
 | Kuruwa: Yuukyou Kan Yoiyamizakura Dai Ni Shou | 97287 | [97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json](./97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json) |
+| Kurwa Sprint | 329869 | [329869-kurwa-sprint.json](./329869-kurwa-sprint.json) |
 | Kusan: City of Wolves | 167419 | [167419-kusan-city-of-wolves.json](./167419-kusan-city-of-wolves.json) |
 | Kusari Doi: In October The Rain Never Stopped | 401991 | [401991-kusari-doi-in-october-the-rain-never-stopped.json](./401991-kusari-doi-in-october-the-rain-never-stopped.json) |
 | Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
