@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
 | Halaga | 14104 | [14104-halaga.json](./14104-halaga.json) |
 | Halberd Black | 211548 | [211548-halberd-black.json](./211548-halberd-black.json) |
+| Halberta | 384417 | [384417-halberta.json](./384417-halberta.json) |
 | Halchemist | 264571 | [264571-halchemist.json](./264571-halchemist.json) |
 | Halcyon | 134357 | [134357-halcyon.json](./134357-halcyon.json) |
 | Halcyon | 201627 | [201627-halcyon.json](./201627-halcyon.json) |
@@ -5391,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hemp Paradise | 381295 | [381295-hemp-paradise.json](./381295-hemp-paradise.json) |
 | Hemp Tycoon | 276554 | [276554-hemp-tycoon.json](./276554-hemp-tycoon.json) |
 | Hempire - Weed Growing Game | 91286 | [91286-hempire-weed-growing-game.json](./91286-hempire-weed-growing-game.json) |
+| Hen Frontiers | 384410 | [384410-hen-frontiers.json](./384410-hen-frontiers.json) |
 | Hen in the Foxhouse | 188938 | [188938-hen-in-the-foxhouse.json](./188938-hen-in-the-foxhouse.json) |
 | Hen Pecked | 44393 | [44393-hen-pecked.json](./44393-hen-pecked.json) |
 | Hen Town | 295599 | [295599-hen-town.json](./295599-hen-town.json) |
@@ -9986,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
 | Hold the Plates | 170073 | [170073-hold-the-plates.json](./170073-hold-the-plates.json) |
+| Hold Up | 385504 | [385504-hold-up.json](./385504-hold-up.json) |
 | Hold Your Breadth DX | 374640 | [374640-hold-your-breadth-dx.json](./374640-hold-your-breadth-dx.json) |
 | Hold Your Fire: A Game About Responsibility | 20029 | [20029-hold-your-fire-a-game-about-responsibility.json](./20029-hold-your-fire-a-game-about-responsibility.json) |
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
