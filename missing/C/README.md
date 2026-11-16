@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Blackstar | 28569 | [28569-castle-blackstar.json](./28569-castle-blackstar.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
 | Castle Breakout | 39750 | [39750-castle-breakout.json](./39750-castle-breakout.json) |
+| Castle Burn | 254187 | [254187-castle-burn.json](./254187-castle-burn.json) |
 | Castle Burn | 77597 | [77597-castle-burn.json](./77597-castle-burn.json) |
 | Castle Busters | 405982 | [405982-castle-busters.json](./405982-castle-busters.json) |
 | Castle Cab | 347022 | [347022-castle-cab.json](./347022-castle-cab.json) |
@@ -8512,6 +8513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera Online | 229881 | [229881-chimera-online.json](./229881-chimera-online.json) |
 | Chimera Pro | 417355 | [417355-chimera-pro.json](./417355-chimera-pro.json) |
 | Chimera Recollect | 391795 | [391795-chimera-recollect.json](./391795-chimera-recollect.json) |
+| Chimera's Mansion | 258167 | [258167-chimeras-mansion.json](./258167-chimeras-mansion.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
 | Chimeraland | 174589 | [174589-chimeraland.json](./174589-chimeraland.json) |
 | Chimeras: Blinding Love | 104427 | [104427-chimeras-blinding-love.json](./104427-chimeras-blinding-love.json) |
@@ -11417,6 +11419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Hunt PRO | 87495 | [87495-clay-hunt-pro.json](./87495-clay-hunt-pro.json) |
 | Clay Jam | 299181 | [299181-clay-jam.json](./299181-clay-jam.json) |
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
+| Clay Monkey: The Master Potter and The Kiln God | 258164 | [258164-clay-monkey-the-master-potter-and-the-kiln-god.json](./258164-clay-monkey-the-master-potter-and-the-kiln-god.json) |
 | Clay Pigeon | 40282 | [40282-clay-pigeon.json](./40282-clay-pigeon.json) |
 | Clay Pigeon! | 41549 | [41549-clay-pigeon.json](./41549-clay-pigeon.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
@@ -19123,6 +19126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Golf | 13531 | [13531-crazy-golf.json](./13531-crazy-golf.json) |
 | Crazy Golf | 194683 | [194683-crazy-golf.json](./194683-crazy-golf.json) |
 | Crazy Golf | 81554 | [81554-crazy-golf.json](./81554-crazy-golf.json) |
+| Crazy Golf Arcade Game | 254188 | [254188-crazy-golf-arcade-game.json](./254188-crazy-golf-arcade-game.json) |
 | Crazy Golf Cat | 232896 | [232896-crazy-golf-cat.json](./232896-crazy-golf-cat.json) |
 | Crazy Golf Party | 343138 | [343138-crazy-golf-party.json](./343138-crazy-golf-party.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
@@ -19977,6 +19981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Snow Deluxe | 310030 | [310030-crimson-snow-deluxe.json](./310030-crimson-snow-deluxe.json) |
 | Crimson Song | 239818 | [239818-crimson-song.json](./239818-crimson-song.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
+| Crimson Spirit | 258153 | [258153-crimson-spirit.json](./258153-crimson-spirit.json) |
 | Crimson Standard | 205865 | [205865-crimson-standard.json](./205865-crimson-standard.json) |
 | Crimson Survival | 89635 | [89635-crimson-survival.json](./89635-crimson-survival.json) |
 | Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
