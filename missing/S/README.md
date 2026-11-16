@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Story | 174122 | [174122-sand-story.json](./174122-sand-story.json) |
 | Sand to Surf | 149235 | [149235-sand-to-surf.json](./149235-sand-to-surf.json) |
 | Sand Witch Adventures | 169873 | [169873-sand-witch-adventures.json](./169873-sand-witch-adventures.json) |
+| Sand-dancer | 217580 | [217580-sand-dancer.json](./217580-sand-dancer.json) |
 | Sand: A Leo Parker Adventure | 319900 | [319900-sand-a-leo-parker-adventure.json](./319900-sand-a-leo-parker-adventure.json) |
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sand: An Adventure Story | 232323 | [232323-sand-an-adventure-story.json](./232323-sand-an-adventure-story.json) |
@@ -4685,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seabed Prelude | 31241 | [31241-seabed-prelude.json](./31241-seabed-prelude.json) |
 | Seabed Settlers | 310101 | [310101-seabed-settlers.json](./310101-seabed-settlers.json) |
 | Seaberry Holiday | 226630 | [226630-seaberry-holiday.json](./226630-seaberry-holiday.json) |
+| Seaberry Keep | 217586 | [217586-seaberry-keep.json](./217586-seaberry-keep.json) |
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
 | Seablip | 144811 | [144811-seablip.json](./144811-seablip.json) |
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
@@ -16272,6 +16274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash T.V. | 218752 | [218752-smash-t-v.json](./218752-smash-t-v.json) |
 | Smash T.V. | 218753 | [218753-smash-t-v.json](./218753-smash-t-v.json) |
 | Smash T.V. | 218754 | [218754-smash-t-v.json](./218754-smash-t-v.json) |
+| Smash T.V. | 218755 | [218755-smash-t-v.json](./218755-smash-t-v.json) |
 | Smash T.V. | 218756 | [218756-smash-t-v.json](./218756-smash-t-v.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash team | 114450 | [114450-smash-team.json](./114450-smash-team.json) |
@@ -16652,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Stall | 200789 | [200789-snack-stall.json](./200789-snack-stall.json) |
 | Snack Tick | 149649 | [149649-snack-tick.json](./149649-snack-tick.json) |
 | Snack Time for Caterpillar | 239622 | [239622-snack-time-for-caterpillar.json](./239622-snack-time-for-caterpillar.json) |
+| Snack Time! | 217585 | [217585-snack-time.json](./217585-snack-time.json) |
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
 | Snackdown | 340359 | [340359-snackdown.json](./340359-snackdown.json) |
@@ -17936,6 +17940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2020 | 216054 | [216054-soccer-manager-2020.json](./216054-soccer-manager-2020.json) |
 | Soccer Manager 2021 | 152486 | [152486-soccer-manager-2021.json](./152486-soccer-manager-2021.json) |
 | Soccer Manager 2022 | 192599 | [192599-soccer-manager-2022.json](./192599-soccer-manager-2022.json) |
+| Soccer Manager 2023: Football | 219856 | [219856-soccer-manager-2023-football.json](./219856-soccer-manager-2023-football.json) |
 | Soccer Manager 2027 | 340357 | [340357-soccer-manager-2027.json](./340357-soccer-manager-2027.json) |
 | Soccer Manager Arena | 28632 | [28632-soccer-manager-arena.json](./28632-soccer-manager-arena.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
@@ -26140,6 +26145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
 | Squad 51 vs. the Flying Saucers | 143161 | [143161-squad-51-vs-the-flying-saucers.json](./143161-squad-51-vs-the-flying-saucers.json) |
+| Squad Alpha: Action Shooting | 219857 | [219857-squad-alpha-action-shooting.json](./219857-squad-alpha-action-shooting.json) |
 | Squad Arcade | 372801 | [372801-squad-arcade.json](./372801-squad-arcade.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
 | Squad Assault: Second Wave | 24268 | [24268-squad-assault-second-wave.json](./24268-squad-assault-second-wave.json) |
