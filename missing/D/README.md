@@ -10500,6 +10500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Yolei and Hawkmon | 198725 | [198725-digimon-yolei-and-hawkmon.json](./198725-digimon-yolei-and-hawkmon.json) |
 | Digimon: Battle Spirit | 6374 | [6374-digimon-battle-spirit.json](./6374-digimon-battle-spirit.json) |
 | Digimon: Boom Bubble | 399305 | [399305-digimon-boom-bubble.json](./399305-digimon-boom-bubble.json) |
+| Digimon: Digital Heroes | 233827 | [233827-digimon-digital-heroes.json](./233827-digimon-digital-heroes.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
 | Digimon: Quest to Save the Net | 338409 | [338409-digimon-quest-to-save-the-net.json](./338409-digimon-quest-to-save-the-net.json) |
 | Digimon: Source Code | 374314 | [374314-digimon-source-code.json](./374314-digimon-source-code.json) |
