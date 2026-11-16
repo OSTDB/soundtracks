@@ -7938,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notes of the Young Lady: In Turbulent Times | 237716 | [237716-notes-of-the-young-lady-in-turbulent-times.json](./237716-notes-of-the-young-lady-in-turbulent-times.json) |
 | Notes on a Mystery | 301474 | [301474-notes-on-a-mystery.json](./301474-notes-on-a-mystery.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
+| Notes To Myself | 279907 | [279907-notes-to-myself.json](./279907-notes-to-myself.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothin' But Net | 32206 | [32206-nothin-but-net.json](./32206-nothin-but-net.json) |
 | Nothing | 128725 | [128725-nothing.json](./128725-nothing.json) |
