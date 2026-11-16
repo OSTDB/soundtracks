@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days of Doom | 251728 | [251728-days-of-doom.json](./251728-days-of-doom.json) |
+| Days of Haze | 267052 | [267052-days-of-haze.json](./267052-days-of-haze.json) |
 | Days of Heroes: D-Day | 150336 | [150336-days-of-heroes-d-day.json](./150336-days-of-heroes-d-day.json) |
 | Days of Memories | 61486 | [61486-days-of-memories.json](./61486-days-of-memories.json) |
 | Days of Memories 2 | 61484 | [61484-days-of-memories-2.json](./61484-days-of-memories-2.json) |
