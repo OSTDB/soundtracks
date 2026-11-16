@@ -3526,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic Miner | 254241 | [254241-manic-miner.json](./254241-manic-miner.json) |
+| Manic Miner | 415381 | [415381-manic-miner.json](./415381-manic-miner.json) |
 | Manic Miner Engine | 256206 | [256206-manic-miner-engine.json](./256206-manic-miner-engine.json) |
 | Manic Miner: Neighbours - Allana Truman | 329994 | [329994-manic-miner-neighbours-allana-truman.json](./329994-manic-miner-neighbours-allana-truman.json) |
 | Manic Miner: Super Pre-School Edition | 329992 | [329992-manic-miner-super-pre-school-edition.json](./329992-manic-miner-super-pre-school-edition.json) |
@@ -11330,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Mission | 21424 | [21424-meteor-mission.json](./21424-meteor-mission.json) |
 | Meteor Raiders | 353796 | [353796-meteor-raiders.json](./353796-meteor-raiders.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
+| Meteor Rising | 414673 | [414673-meteor-rising.json](./414673-meteor-rising.json) |
 | Meteor Rush | 401588 | [401588-meteor-rush.json](./401588-meteor-rush.json) |
 | Meteor Shower | 103620 | [103620-meteor-shower.json](./103620-meteor-shower.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
@@ -18663,6 +18665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Chronicles: Episode 1 | 84596 | [84596-moon-chronicles-episode-1.json](./84596-moon-chronicles-episode-1.json) |
 | Moon Chronicles: Episodes 2-4 | 84595 | [84595-moon-chronicles-episodes-2-4.json](./84595-moon-chronicles-episodes-2-4.json) |
+| Moon Coffee Conspiracy | 414680 | [414680-moon-coffee-conspiracy.json](./414680-moon-coffee-conspiracy.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
 | Moon Colony | 311531 | [311531-moon-colony.json](./311531-moon-colony.json) |
