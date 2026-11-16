@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Inferno | 346095 | [346095-railway-inferno.json](./346095-railway-inferno.json) |
 | Railway Islands | 195424 | [195424-railway-islands.json](./195424-railway-islands.json) |
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
+| Railway Life | 297377 | [297377-railway-life.json](./297377-railway-life.json) |
 | Railway Mogul | 91548 | [91548-railway-mogul.json](./91548-railway-mogul.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
 | Railway Routes | 406520 | [406520-railway-routes.json](./406520-railway-routes.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rear Guard | 18806 | [18806-rear-guard.json](./18806-rear-guard.json) |
 | Rear of Business | 151275 | [151275-rear-of-business.json](./151275-rear-of-business.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
+| Rearea | 297381 | [297381-rearea.json](./297381-rearea.json) |
 | Rearmed Trials | 231994 | [231994-rearmed-trials.json](./231994-rearmed-trials.json) |
 | Rearranged | 382275 | [382275-rearranged.json](./382275-rearranged.json) |
 | Rearview Mirror | 283609 | [283609-rearview-mirror.json](./283609-rearview-mirror.json) |
@@ -14347,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Souls | 418868 | [418868-running-souls.json](./418868-running-souls.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
+| Running Through a Crypto Mine | 297401 | [297401-running-through-a-crypto-mine.json](./297401-running-through-a-crypto-mine.json) |
 | Running Through Backrooms | 326885 | [326885-running-through-backrooms.json](./326885-running-through-backrooms.json) |
 | Running Through Russia 2 | 104074 | [104074-running-through-russia-2.json](./104074-running-through-russia-2.json) |
 | Running Through The Beat | 270931 | [270931-running-through-the-beat.json](./270931-running-through-the-beat.json) |
