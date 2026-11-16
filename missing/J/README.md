@@ -3471,7 +3471,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujump | 328447 | [328447-jujump.json](./328447-jujump.json) |
 | Jujutsu Kaisen Rumble: Survivaton | 405441 | [405441-jujutsu-kaisen-rumble-survivaton.json](./405441-jujutsu-kaisen-rumble-survivaton.json) |
 | Jujutsu Kaisen: Cursed Clash | 255396 | [255396-jujutsu-kaisen-cursed-clash.json](./255396-jujutsu-kaisen-cursed-clash.json) |
+| Jujutsu Kaisen: Cursed Clash - Anime Ending Theme 1 Outfit Set | 302292 | [302292-jujutsu-kaisen-cursed-clash-anime-ending-theme-1-outfit-set.json](./302292-jujutsu-kaisen-cursed-clash-anime-ending-theme-1-outfit-set.json) |
 | Jujutsu Kaisen: Cursed Clash - Deluxe Edition | 276324 | [276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json](./276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json) |
+| Jujutsu Kaisen: Cursed Clash - Hidden Inventory/Premature Death | 302291 | [302291-jujutsu-kaisen-cursed-clash-hidden-inventory-premature-death.json](./302291-jujutsu-kaisen-cursed-clash-hidden-inventory-premature-death.json) |
 | Jujutsu Kaisen: Cursed Clash - Jujutsu High First-Years Outfit Set | 289838 | [289838-jujutsu-kaisen-cursed-clash-jujutsu-high-first-years-outfit-set.json](./289838-jujutsu-kaisen-cursed-clash-jujutsu-high-first-years-outfit-set.json) |
 | Jujutsu Kaisen: Cursed Clash - Kyoto Jujutsu High School Girls' Outfit Set | 317959 | [317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json](./317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json) |
 | Jujutsu Kaisen: Cursed Clash - The Shibuya Incident | 307753 | [307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json](./307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json) |
