@@ -4993,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Gold: The Alchemy of Happiness | 145997 | [145997-perfect-gold-the-alchemy-of-happiness.json](./145997-perfect-gold-the-alchemy-of-happiness.json) |
 | Perfect Golf | 17193 | [17193-perfect-golf.json](./17193-perfect-golf.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
+| Perfect Hair Forever: The Ninth Level of Power | 397351 | [397351-perfect-hair-forever-the-ninth-level-of-power.json](./397351-perfect-hair-forever-the-ninth-level-of-power.json) |
 | Perfect Hand of Nostalpix | 244943 | [244943-perfect-hand-of-nostalpix.json](./244943-perfect-hand-of-nostalpix.json) |
 | Perfect Harmony | 128913 | [128913-perfect-harmony.json](./128913-perfect-harmony.json) |
 | Perfect Hegemony | 362141 | [362141-perfect-hegemony.json](./362141-perfect-hegemony.json) |
@@ -21243,6 +21244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyroblazer | 14928 | [14928-pyroblazer.json](./14928-pyroblazer.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyroclysm | 54271 | [54271-pyroclysm.json](./54271-pyroclysm.json) |
+| PyroKite | 397325 | [397325-pyrokite.json](./397325-pyrokite.json) |
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
 | Pyromaniac | 374317 | [374317-pyromaniac.json](./374317-pyromaniac.json) |
