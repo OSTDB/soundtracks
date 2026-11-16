@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eatventure | 208978 | [208978-eatventure.json](./208978-eatventure.json) |
 | Eatvolve | 146481 | [146481-eatvolve.json](./146481-eatvolve.json) |
 | EatWell | 52268 | [52268-eatwell.json](./52268-eatwell.json) |
+| Eaves | 244439 | [244439-eaves.json](./244439-eaves.json) |
 | EB Worlds | 153618 | [153618-eb-worlds.json](./153618-eb-worlds.json) |
 | Eba & Egg: A Hatch Trip | 54967 | [54967-eba-and-egg-a-hatch-trip.json](./54967-eba-and-egg-a-hatch-trip.json) |
 | eBall | 117546 | [117546-eball.json](./117546-eball.json) |
@@ -2496,6 +2497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Hockey | 245498 | [245498-electronic-hockey.json](./245498-electronic-hockey.json) |
 | Electronic Hockey 2 | 245497 | [245497-electronic-hockey-2.json](./245497-electronic-hockey-2.json) |
 | Electronic Market Simulator | 312456 | [312456-electronic-market-simulator.json](./312456-electronic-market-simulator.json) |
+| Electronic Master Mind | 245496 | [245496-electronic-master-mind.json](./245496-electronic-master-mind.json) |
+| Electronic Poker | 245495 | [245495-electronic-poker.json](./245495-electronic-poker.json) |
 | Electronic Popple | 69662 | [69662-electronic-popple.json](./69662-electronic-popple.json) |
 | Electronic Power House Pinball | 245494 | [245494-electronic-power-house-pinball.json](./245494-electronic-power-house-pinball.json) |
 | Electronic Quarterback | 245493 | [245493-electronic-quarterback.json](./245493-electronic-quarterback.json) |
@@ -8193,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
 | Evil Inside | 144419 | [144419-evil-inside.json](./144419-evil-inside.json) |
 | Evil Inside VR | 366599 | [366599-evil-inside-vr.json](./366599-evil-inside-vr.json) |
+| Evil is Back | 244449 | [244449-evil-is-back.json](./244449-evil-is-back.json) |
 | Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
 | Evil Journey: Plan A | 263639 | [263639-evil-journey-plan-a.json](./263639-evil-journey-plan-a.json) |
 | Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
