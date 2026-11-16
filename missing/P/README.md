@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
 | Path of Evil: Immortal Hunter | 174758 | [174758-path-of-evil-immortal-hunter.json](./174758-path-of-evil-immortal-hunter.json) |
 | Path of Exile 2 | 125642 | [125642-path-of-exile-2.json](./125642-path-of-exile-2.json) |
+| Path of Exile 2: Fate of the Vaal | 379282 | [379282-path-of-exile-2-fate-of-the-vaal.json](./379282-path-of-exile-2-fate-of-the-vaal.json) |
 | Path of Exile 2: Return of the Ancients | 403534 | [403534-path-of-exile-2-return-of-the-ancients.json](./403534-path-of-exile-2-return-of-the-ancients.json) |
 | Path of Exile 2: Runes of Aldur | 403535 | [403535-path-of-exile-2-runes-of-aldur.json](./403535-path-of-exile-2-runes-of-aldur.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
@@ -8222,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
 | Pink Birdie | 175743 | [175743-pink-birdie.json](./175743-pink-birdie.json) |
 | Pink Carnations | 398811 | [398811-pink-carnations.json](./398811-pink-carnations.json) |
+| Pink Devil | 384425 | [384425-pink-devil.json](./384425-pink-devil.json) |
 | Pink Dot Blue Dot | 84822 | [84822-pink-dot-blue-dot.json](./84822-pink-dot-blue-dot.json) |
 | Pink Elephant | 186310 | [186310-pink-elephant.json](./186310-pink-elephant.json) |
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
@@ -10935,6 +10937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play 500 | 104756 | [104756-play-500.json](./104756-play-500.json) |
 | Play a ball | 152959 | [152959-play-a-ball.json](./152959-play-a-ball.json) |
 | Play a Game With Me | 363072 | [363072-play-a-game-with-me.json](./363072-play-a-game-with-me.json) |
+| Play a Match?: Play a Catch 2 | 384435 | [384435-play-a-match-play-a-catch-2.json](./384435-play-a-match-play-a-catch-2.json) |
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play Action Football | 217682 | [217682-play-action-football.json](./217682-play-action-football.json) |
 | Play Action Football | 49052 | [49052-play-action-football.json](./49052-play-action-football.json) |
@@ -17720,6 +17723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dew | 215327 | [215327-project-dew.json](./215327-project-dew.json) |
 | Project Diablo 2 | 285285 | [285285-project-diablo-2.json](./285285-project-diablo-2.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
+| Project Diva: Megamix - F Edition | 378099 | [378099-project-diva-megamix-f-edition.json](./378099-project-diva-megamix-f-edition.json) |
 | Project Dodo | 131703 | [131703-project-dodo.json](./131703-project-dodo.json) |
 | Project Down | 292992 | [292992-project-down.json](./292992-project-down.json) |
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
@@ -18560,6 +18564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prop Hunt | 142924 | [142924-prop-hunt.json](./142924-prop-hunt.json) |
+| Prop Hunt Planet | 384431 | [384431-prop-hunt-planet.json](./384431-prop-hunt-planet.json) |
 | Prop Hunt Portable | 39195 | [39195-prop-hunt-portable.json](./39195-prop-hunt-portable.json) |
 | Prop Hunt Rumble | 326012 | [326012-prop-hunt-rumble.json](./326012-prop-hunt-rumble.json) |
 | Prop of the Class | 412940 | [412940-prop-of-the-class.json](./412940-prop-of-the-class.json) |
