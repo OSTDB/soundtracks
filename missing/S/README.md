@@ -10145,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shkilagames Story: Episode 1 | 280840 | [280840-shkilagames-story-episode-1.json](./280840-shkilagames-story-episode-1.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shleepy Time Catching Z's | 155725 | [155725-shleepy-time-catching-zs.json](./155725-shleepy-time-catching-zs.json) |
+| Shlemo | 287808 | [287808-shlemo.json](./287808-shlemo.json) |
 | Shlob | 270920 | [270920-shlob.json](./270920-shlob.json) |
 | Shmackle | 337514 | [337514-shmackle.json](./337514-shmackle.json) |
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
@@ -20168,6 +20169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Official Level Design Collab 2023 - Round 1 | 287586 | [287586-sonic-robo-blast-2-official-level-design-collab-2023-round-1.json](./287586-sonic-robo-blast-2-official-level-design-collab-2023-round-1.json) |
 | Sonic Robo Blast 2: Official Level Design Collab 2023 - Round 2 | 287581 | [287581-sonic-robo-blast-2-official-level-design-collab-2023-round-2.json](./287581-sonic-robo-blast-2-official-level-design-collab-2023-round-2.json) |
 | Sonic Robo Blast 2: Official Level Design Contest - Autumn 2020 | 287674 | [287674-sonic-robo-blast-2-official-level-design-contest-autumn-2020.json](./287674-sonic-robo-blast-2-official-level-design-contest-autumn-2020.json) |
+| Sonic Robo Blast 2: Official Level Design Contest - Summer 2020 | 287833 | [287833-sonic-robo-blast-2-official-level-design-contest-summer-2020.json](./287833-sonic-robo-blast-2-official-level-design-contest-summer-2020.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 1 | 287670 | [287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json](./287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 2 | 287668 | [287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json](./287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2022 - Round 1 | 287658 | [287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json](./287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json) |
@@ -25351,6 +25353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
 | Splett | 342660 | [342660-splett.json](./342660-splett.json) |
 | Splice | 11640 | [11640-splice.json](./11640-splice.json) |
+| Splice | 287832 | [287832-splice.json](./287832-splice.json) |
 | Splice: Tree of Life | 91102 | [91102-splice-tree-of-life.json](./91102-splice-tree-of-life.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | Splimbo City | 410645 | [410645-splimbo-city.json](./410645-splimbo-city.json) |
@@ -28365,6 +28368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stardust: Wish of Witch | 386172 | [386172-stardust-wish-of-witch.json](./386172-stardust-wish-of-witch.json) |
 | Starduster | 303926 | [303926-starduster.json](./303926-starduster.json) |
+| Stardustry | 287798 | [287798-stardustry.json](./287798-stardustry.json) |
 | Stare | 425881 | [425881-stare.json](./425881-stare.json) |
 | Stare : Block Breaker | 122023 | [122023-stare-block-breaker.json](./122023-stare-block-breaker.json) |
 | Stare into Death and Be Still | 406986 | [406986-stare-into-death-and-be-still.json](./406986-stare-into-death-and-be-still.json) |
@@ -31328,6 +31332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
 | Strange House | 236241 | [236241-strange-house.json](./236241-strange-house.json) |
+| Strange Hunting Grounds | 287814 | [287814-strange-hunting-grounds.json](./287814-strange-hunting-grounds.json) |
 | Strange Investigations: Becoming | 187952 | [187952-strange-investigations-becoming.json](./187952-strange-investigations-becoming.json) |
 | Strange Investigations: Becoming - Collector's Edition | 207086 | [207086-strange-investigations-becoming-collectors-edition.json](./207086-strange-investigations-becoming-collectors-edition.json) |
 | Strange Investigations: Secrets Can be Deadly - Collector's Edition | 256713 | [256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json](./256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json) |
@@ -38520,6 +38525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstition S2 | 177357 | [177357-superstition-s2.json](./177357-superstition-s2.json) |
 | Superstition S3 | 326524 | [326524-superstition-s3.json](./326524-superstition-s3.json) |
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
+| Superstore Simulator | 287803 | [287803-superstore-simulator.json](./287803-superstore-simulator.json) |
 | Superstorm Melon Date | 169734 | [169734-superstorm-melon-date.json](./169734-superstorm-melon-date.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
 | Supersweep | 363082 | [363082-supersweep.json](./363082-supersweep.json) |
@@ -38994,6 +39000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivalo | 337059 | [337059-survivalo.json](./337059-survivalo.json) |
 | Survivals Unknown | 148240 | [148240-survivals-unknown.json](./148240-survivals-unknown.json) |
 | Survivals: Battle Royale | 103974 | [103974-survivals-battle-royale.json](./103974-survivals-battle-royale.json) |
+| SurvivalScape | 288925 | [288925-survivalscape.json](./288925-survivalscape.json) |
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
 | Survivania | 307233 | [307233-survivania.json](./307233-survivania.json) |
