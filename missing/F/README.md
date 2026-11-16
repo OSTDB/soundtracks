@@ -3742,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Era | 114514 | [114514-fated-era.json](./114514-fated-era.json) |
 | Fated Flatline | 317649 | [317649-fated-flatline.json](./317649-fated-flatline.json) |
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
+| Fated Haven: Chapter One | 384467 | [384467-fated-haven-chapter-one.json](./384467-fated-haven-chapter-one.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fated Land | 317164 | [317164-fated-land.json](./317164-fated-land.json) |
 | Fated Mate | 381974 | [381974-fated-mate.json](./381974-fated-mate.json) |
@@ -6397,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
+| Finger Flex | 384419 | [384419-finger-flex.json](./384419-finger-flex.json) |
 | Finger Foos | 63191 | [63191-finger-foos.json](./63191-finger-foos.json) |
 | Finger Football | 88556 | [88556-finger-football.json](./88556-finger-football.json) |
 | Finger Football: Goal in One | 238549 | [238549-finger-football-goal-in-one.json](./238549-finger-football-goal-in-one.json) |
@@ -10177,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Fight | 276349 | [276349-food-fight.json](./276349-food-fight.json) |
 | Food Fight | 316255 | [316255-food-fight.json](./316255-food-fight.json) |
 | Food Fight | 357318 | [357318-food-fight.json](./357318-food-fight.json) |
+| Food Fight | 384449 | [384449-food-fight.json](./384449-food-fight.json) |
 | Food Fight Fiesta: Multi-Use Cards | 333500 | [333500-food-fight-fiesta-multi-use-cards.json](./333500-food-fight-fiesta-multi-use-cards.json) |
 | Food Fight: Culinary Combat | 325901 | [325901-food-fight-culinary-combat.json](./325901-food-fight-culinary-combat.json) |
 | Food Fighter Clicker Games | 262505 | [262505-food-fighter-clicker-games.json](./262505-food-fighter-clicker-games.json) |
