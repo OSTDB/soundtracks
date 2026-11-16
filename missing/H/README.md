@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halley2061 | 320599 | [320599-halley2061.json](./320599-halley2061.json) |
 | Halliwell's Garden | 359347 | [359347-halliwells-garden.json](./359347-halliwells-garden.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
+| Hallonys | 419723 | [419723-hallonys.json](./419723-hallonys.json) |
 | Hallow Blade | 346317 | [346317-hallow-blade.json](./346317-hallow-blade.json) |
 | Hallow Eve | 222842 | [222842-hallow-eve.json](./222842-hallow-eve.json) |
 | Hallow Hunt | 273709 | [273709-hallow-hunt.json](./273709-hallow-hunt.json) |
