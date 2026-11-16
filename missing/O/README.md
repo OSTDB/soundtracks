@@ -4101,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optical Illusions | 282729 | [282729-optical-illusions.json](./282729-optical-illusions.json) |
 | Optical Inquisitor | 95338 | [95338-optical-inquisitor.json](./95338-optical-inquisitor.json) |
 | Opticale | 119944 | [119944-opticale.json](./119944-opticale.json) |
+| Optico | 394912 | [394912-optico.json](./394912-optico.json) |
 | Optika | 32137 | [32137-optika.json](./32137-optika.json) |
 | Optimal Conditions for a Sacrifice | 206536 | [206536-optimal-conditions-for-a-sacrifice.json](./206536-optimal-conditions-for-a-sacrifice.json) |
 | Optimum Link | 111665 | [111665-optimum-link.json](./111665-optimum-link.json) |
@@ -4377,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbt XL | 28935 | [28935-orbt-xl.json](./28935-orbt-xl.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
 | Orbtrain: Slot Racing | 151270 | [151270-orbtrain-slot-racing.json](./151270-orbtrain-slot-racing.json) |
+| Orbtriak | 394935 | [394935-orbtriak.json](./394935-orbtriak.json) |
 | Orbu | 101456 | [101456-orbu.json](./101456-orbu.json) |
 | OrbusVR | 76324 | [76324-orbusvr.json](./76324-orbusvr.json) |
 | OrbusVR: Reborn | 193679 | [193679-orbusvr-reborn.json](./193679-orbusvr-reborn.json) |
@@ -6435,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | Overtake! | 248878 | [248878-overtake.json](./248878-overtake.json) |
 | Overtaking | 237584 | [237584-overtaking.json](./237584-overtaking.json) |
+| OverTask | 394956 | [394956-overtask.json](./394956-overtask.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
 | Overthinking | 414950 | [414950-overthinking.json](./414950-overthinking.json) |
 | Overthrown | 309472 | [309472-overthrown.json](./309472-overthrown.json) |
