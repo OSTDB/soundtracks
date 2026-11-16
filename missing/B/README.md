@@ -17036,6 +17036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadskate | 192780 | [192780-breadskate.json](./192780-breadskate.json) |
 | Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
 | Breadsticks | 223335 | [223335-breadsticks.json](./223335-breadsticks.json) |
+| Breadventure | 362504 | [362504-breadventure.json](./362504-breadventure.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break | 170611 | [170611-break.json](./170611-break.json) |
 | Break | 206489 | [206489-break.json](./206489-break.json) |
