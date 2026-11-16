@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Completely Normal Dating Simulation That is Definitely Completely Sweet, Innocent and Normal | 135015 | [135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json](./135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json) |
 | A Conscious Decision | 249637 | [249637-a-conscious-decision.json](./249637-a-conscious-decision.json) |
 | A Contusion | 190298 | [190298-a-contusion.json](./190298-a-contusion.json) |
+| A Conversation With a Magical Deer | 320562 | [320562-a-conversation-with-a-magical-deer.json](./320562-a-conversation-with-a-magical-deer.json) |
 | A Conversation With Mister Rabbit | 156961 | [156961-a-conversation-with-mister-rabbit.json](./156961-a-conversation-with-mister-rabbit.json) |
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Corgi's Cozy Hike | 239390 | [239390-a-corgis-cozy-hike.json](./239390-a-corgis-cozy-hike.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Farewell To AI | 355858 | [355858-a-farewell-to-ai.json](./355858-a-farewell-to-ai.json) |
 | A Farewell to Dragons | 20667 | [20667-a-farewell-to-dragons.json](./20667-a-farewell-to-dragons.json) |
 | A Fascinating Story | 297057 | [297057-a-fascinating-story.json](./297057-a-fascinating-story.json) |
+| A Fascinating Story: Ice Cream | 319250 | [319250-a-fascinating-story-ice-cream.json](./319250-a-fascinating-story-ice-cream.json) |
 | A Fascinating Story: Wedding Night | 283880 | [283880-a-fascinating-story-wedding-night.json](./283880-a-fascinating-story-wedding-night.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
 | A Favor | 161748 | [161748-a-favor.json](./161748-a-favor.json) |
@@ -1447,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Storied Life: Tabitha | 362283 | [362283-a-storied-life-tabitha.json](./362283-a-storied-life-tabitha.json) |
 | A storm is approaching | 184447 | [184447-a-storm-is-approaching.json](./184447-a-storm-is-approaching.json) |
 | A Storm Unsung | 296334 | [296334-a-storm-unsung.json](./296334-a-storm-unsung.json) |
+| A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story About Forever: Transience | 399396 | [399396-a-story-about-forever-transience.json](./399396-a-story-about-forever-transience.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
@@ -7001,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akbarr | 13942 | [13942-akbarr.json](./13942-akbarr.json) |
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akda | 81676 | [81676-akda.json](./81676-akda.json) |
+| Akdo | 318100 | [318100-akdo.json](./318100-akdo.json) |
 | Ake no Yosuga: Twilight Loop | 402477 | [402477-ake-no-yosuga-twilight-loop.json](./402477-ake-no-yosuga-twilight-loop.json) |
 | Ake-Bre | 130602 | [130602-ake-bre.json](./130602-ake-bre.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
@@ -7812,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
 | Alice's 1997 | 315592 | [315592-alices-1997.json](./315592-alices-1997.json) |
 | Alice's Adventures | 96939 | [96939-alices-adventures.json](./96939-alices-adventures.json) |
+| Alice's Adventures in Wonderland | 319323 | [319323-alices-adventures-in-wonderland.json](./319323-alices-adventures-in-wonderland.json) |
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Burger Shop | 223485 | [223485-alices-burger-shop.json](./223485-alices-burger-shop.json) |
 | Alice's Desktop Adventure | 416353 | [416353-alices-desktop-adventure.json](./416353-alices-desktop-adventure.json) |
@@ -8843,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alma | 200795 | [200795-alma.json](./200795-alma.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
 | Alma and the Fragments of Cursed Memories | 328178 | [328178-alma-and-the-fragments-of-cursed-memories.json](./328178-alma-and-the-fragments-of-cursed-memories.json) |
+| Alma the Captive | 318106 | [318106-alma-the-captive.json](./318106-alma-the-captive.json) |
 | Alma's Search | 416563 | [416563-almas-search.json](./416563-almas-search.json) |
 | Almace | 184807 | [184807-almace.json](./184807-almace.json) |
 | Almana no Kiseki | 41255 | [41255-almana-no-kiseki.json](./41255-almana-no-kiseki.json) |
@@ -10981,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda Six: Team Time with Oppo | 256361 | [256361-andromeda-six-team-time-with-oppo.json](./256361-andromeda-six-team-time-with-oppo.json) |
 | Andromeda SS | 249705 | [249705-andromeda-ss.json](./249705-andromeda-ss.json) |
 | Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
+| Andromeda Survivors | 319324 | [319324-andromeda-survivors.json](./319324-andromeda-survivors.json) |
 | Andromeda Wing | 55288 | [55288-andromeda-wing.json](./55288-andromeda-wing.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
 | Andromeda: Rebirth of Humanity | 148973 | [148973-andromeda-rebirth-of-humanity.json](./148973-andromeda-rebirth-of-humanity.json) |
@@ -12194,6 +12201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
 | Anna's Monster Farm: Begins | 316293 | [316293-annas-monster-farm-begins.json](./316293-annas-monster-farm-begins.json) |
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
+| Anna's Summer Splash | 320513 | [320513-annas-summer-splash.json](./320513-annas-summer-splash.json) |
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annalog | 411988 | [411988-annalog.json](./411988-annalog.json) |
@@ -13978,6 +13986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatia | 272791 | [272791-aquatia.json](./272791-aquatia.json) |
 | Aquatic Adventure | 292015 | [292015-aquatic-adventure.json](./292015-aquatic-adventure.json) |
 | Aquatic life adventure | 112112 | [112112-aquatic-life-adventure.json](./112112-aquatic-life-adventure.json) |
+| Aquatic Life: Fish Simulator RPG | 320496 | [320496-aquatic-life-fish-simulator-rpg.json](./320496-aquatic-life-fish-simulator-rpg.json) |
 | Aquatic Pursuits Bundle | 271826 | [271826-aquatic-pursuits-bundle.json](./271826-aquatic-pursuits-bundle.json) |
 | Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
 | Aquatic Store Simulator | 321547 | [321547-aquatic-store-simulator.json](./321547-aquatic-store-simulator.json) |
@@ -17024,6 +17033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Talk as Walk Wayfarer Team: Land of Music | 241303 | [241303-as-talk-as-walk-wayfarer-team-land-of-music.json](./241303-as-talk-as-walk-wayfarer-team-land-of-music.json) |
 | As Talk As Walk Wayfarer Team: One Percent Sleepy | 261417 | [261417-as-talk-as-walk-wayfarer-team-one-percent-sleepy.json](./261417-as-talk-as-walk-wayfarer-team-one-percent-sleepy.json) |
 | As the Fog Burns | 137303 | [137303-as-the-fog-burns.json](./137303-as-the-fog-burns.json) |
+| As The Gears Turn Slow | 328713 | [328713-as-the-gears-turn-slow.json](./328713-as-the-gears-turn-slow.json) |
 | As The Leaves Fall | 354930 | [354930-as-the-leaves-fall.json](./354930-as-the-leaves-fall.json) |
 | As the Light Goes Out | 217717 | [217717-as-the-light-goes-out.json](./217717-as-the-light-goes-out.json) |
 | As the Master Says | 299658 | [299658-as-the-master-says.json](./299658-as-the-master-says.json) |
@@ -20104,6 +20114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto World Tycoon | 164240 | [164240-auto-world-tycoon.json](./164240-auto-world-tycoon.json) |
 | Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
 | Auto X | 246311 | [246311-auto-x.json](./246311-auto-x.json) |
+| Auto_Battler_RPG | 320568 | [320568-auto-battler-rpg.json](./320568-auto-battler-rpg.json) |
 | Auto-Crisis | 330022 | [330022-auto-crisis.json](./330022-auto-crisis.json) |
 | Auto-Land: Mechanical Horror | 356335 | [356335-auto-land-mechanical-horror.json](./356335-auto-land-mechanical-horror.json) |
 | Auto-Miner | 183795 | [183795-auto-miner.json](./183795-auto-miner.json) |
