@@ -7873,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Quest | 178876 | [178876-rhythm-quest.json](./178876-rhythm-quest.json) |
 | Rhythm Quest | 201439 | [201439-rhythm-quest.json](./201439-rhythm-quest.json) |
+| Rhythm Rabbit | 246137 | [246137-rhythm-rabbit.json](./246137-rhythm-rabbit.json) |
 | Rhythm Race | 139527 | [139527-rhythm-race.json](./139527-rhythm-race.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Racer 2 | 235075 | [235075-rhythm-racer-2.json](./235075-rhythm-racer-2.json) |
@@ -11717,6 +11718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll to the Top | 108194 | [108194-roll-to-the-top.json](./108194-roll-to-the-top.json) |
 | Roll Together | 392828 | [392828-roll-together.json](./392828-roll-together.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
+| Roll With it! | 248256 | [248256-roll-with-it.json](./248256-roll-with-it.json) |
 | Roll-a-word | 241571 | [241571-roll-a-word.json](./241571-roll-a-word.json) |
 | Roll-chan L | 269884 | [269884-roll-chan-l.json](./269884-roll-chan-l.json) |
 | Roll-o-Rama | 185883 | [185883-roll-o-rama.json](./185883-roll-o-rama.json) |
