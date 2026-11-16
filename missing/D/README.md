@@ -11940,6 +11940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Infinity: 2.0 | 47764 | [47764-disney-infinity-2-0.json](./47764-disney-infinity-2-0.json) |
 | Disney Infinity: Toy Box | 241155 | [241155-disney-infinity-toy-box.json](./241155-disney-infinity-toy-box.json) |
 | Disney Infinity: Toy Box Challenge | 44013 | [44013-disney-infinity-toy-box-challenge.json](./44013-disney-infinity-toy-box-challenge.json) |
+| Disney Junior Magical Holiday | 280986 | [280986-disney-junior-magical-holiday.json](./280986-disney-junior-magical-holiday.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
 | Disney Learning: 1st Grade | 209115 | [209115-disney-learning-1st-grade.json](./209115-disney-learning-1st-grade.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
@@ -18567,6 +18568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Literature: Noir | 334822 | [334822-dreams-of-literature-noir.json](./334822-dreams-of-literature-noir.json) |
 | Dreams of Pain | 201087 | [201087-dreams-of-pain.json](./201087-dreams-of-pain.json) |
 | Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
+| Dreams of Saturn | 281074 | [281074-dreams-of-saturn.json](./281074-dreams-of-saturn.json) |
 | Dreams of Saturn 2.0 | 326647 | [326647-dreams-of-saturn-2-0.json](./326647-dreams-of-saturn-2-0.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
 | Dreams of the Elements | 175620 | [175620-dreams-of-the-elements.json](./175620-dreams-of-the-elements.json) |
@@ -18848,6 +18850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Runners | 287157 | [287157-drift-runners.json](./287157-drift-runners.json) |
 | Drift Shape | 231967 | [231967-drift-shape.json](./231967-drift-shape.json) |
 | Drift Shell | 410582 | [410582-drift-shell.json](./410582-drift-shell.json) |
+| Drift Shooter | 282177 | [282177-drift-shooter.json](./282177-drift-shooter.json) |
 | Drift Showcase | 369752 | [369752-drift-showcase.json](./369752-drift-showcase.json) |
 | Drift Spark | 231990 | [231990-drift-spark.json](./231990-drift-spark.json) |
 | Drift Spirits | 174631 | [174631-drift-spirits.json](./174631-drift-spirits.json) |
@@ -20200,6 +20203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Collection 2 | 252053 | [252053-duke-nukem-collection-2.json](./252053-duke-nukem-collection-2.json) |
 | Duke Nukem Eternity | 376199 | [376199-duke-nukem-eternity.json](./376199-duke-nukem-eternity.json) |
 | Duke Nukem Forever | 200875 | [200875-duke-nukem-forever.json](./200875-duke-nukem-forever.json) |
+| Duke Nukem Forever | 280987 | [280987-duke-nukem-forever.json](./280987-duke-nukem-forever.json) |
 | Duke Nukem Forever | 490 | [490-duke-nukem-forever.json](./490-duke-nukem-forever.json) |
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
@@ -20877,6 +20881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon RPG: Abyssal Dystopia | 219920 | [219920-dungeon-rpg-abyssal-dystopia.json](./219920-dungeon-rpg-abyssal-dystopia.json) |
 | Dungeon RPG: Hero | 235161 | [235161-dungeon-rpg-hero.json](./235161-dungeon-rpg-hero.json) |
 | Dungeon Ruins | 294294 | [294294-dungeon-ruins.json](./294294-dungeon-ruins.json) |
+| Dungeon Rummage: Rise of the Allies! | 281003 | [281003-dungeon-rummage-rise-of-the-allies.json](./281003-dungeon-rummage-rise-of-the-allies.json) |
 | Dungeon Rummage: Survival | 323794 | [323794-dungeon-rummage-survival.json](./323794-dungeon-rummage-survival.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Run | 197224 | [197224-dungeon-run.json](./197224-dungeon-run.json) |
