@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Birds | 222207 | [222207-fancy-birds.json](./222207-fancy-birds.json) |
 | Fancy Blast | 89028 | [89028-fancy-blast.json](./89028-fancy-blast.json) |
 | Fancy Cakes: Merge Adventure | 240108 | [240108-fancy-cakes-merge-adventure.json](./240108-fancy-cakes-merge-adventure.json) |
+| Fancy Farm Brawl | 406368 | [406368-fancy-farm-brawl.json](./406368-fancy-farm-brawl.json) |
 | Fancy Fishing VR | 29308 | [29308-fancy-fishing-vr.json](./29308-fancy-fishing-vr.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy Match | 246545 | [246545-fancy-match.json](./246545-fancy-match.json) |
@@ -13832,6 +13833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog In the Well | 221615 | [221615-frog-in-the-well.json](./221615-frog-in-the-well.json) |
 | Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
 | Frog Island | 246030 | [246030-frog-island.json](./246030-frog-island.json) |
+| Frog It Up | 406977 | [406977-frog-it-up.json](./406977-frog-it-up.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog Jump | 339704 | [339704-frog-jump.json](./339704-frog-jump.json) |
 | Frog Jump | 351745 | [351745-frog-jump.json](./351745-frog-jump.json) |
