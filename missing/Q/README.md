@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
 | Qomp2 | 263923 | [263923-qomp2.json](./263923-qomp2.json) |
 | QontoWars | 190492 | [190492-qontowars.json](./190492-qontowars.json) |
+| Qoosh | 418460 | [418460-qoosh.json](./418460-qoosh.json) |
 | Qop | 91315 | [91315-qop.json](./91315-qop.json) |
 | Qop 2 | 76379 | [76379-qop-2.json](./76379-qop-2.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
@@ -769,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
 | Queen Mary's Script | 150211 | [150211-queen-marys-script.json](./150211-queen-marys-script.json) |
 | Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
+| Queen Must Die | 410510 | [410510-queen-must-die.json](./410510-queen-must-die.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of Darkness: The First Moon | 204570 | [204570-queen-of-darkness-the-first-moon.json](./204570-queen-of-darkness-the-first-moon.json) |
 | Queen of Digs! | 221624 | [221624-queen-of-digs.json](./221624-queen-of-digs.json) |
