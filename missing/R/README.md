@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally One: Race to Glory | 297518 | [297518-rally-one-race-to-glory.json](./297518-rally-one-race-to-glory.json) |
 | Rally Parrudo | 184160 | [184160-rally-parrudo.json](./184160-rally-parrudo.json) |
 | Rally Point | 182953 | [182953-rally-point.json](./182953-rally-point.json) |
+| Rally Point 2 | 253072 | [253072-rally-point-2.json](./253072-rally-point-2.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
 | Rally Pop | 65313 | [65313-rally-pop.json](./65313-rally-pop.json) |
@@ -13917,6 +13918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Ninja Run | 394143 | [394143-run-ninja-run.json](./394143-run-ninja-run.json) |
 | Run Ninja Run 2 | 394144 | [394144-run-ninja-run-2.json](./394144-run-ninja-run-2.json) |
 | Run of Mydan | 38336 | [38336-run-of-mydan.json](./38336-run-of-mydan.json) |
+| Run On | 253086 | [253086-run-on.json](./253086-run-on.json) |
 | Run On Home | 242333 | [242333-run-on-home.json](./242333-run-on-home.json) |
 | Run on the Beat | 232598 | [232598-run-on-the-beat.json](./232598-run-on-the-beat.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
