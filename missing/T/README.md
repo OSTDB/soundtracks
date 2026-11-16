@@ -3936,7 +3936,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Negan | 119129 | [119129-tekken-7-negan.json](./119129-tekken-7-negan.json) |
 | Tekken 7: Noctis Lucis Caelum | 119123 | [119123-tekken-7-noctis-lucis-caelum.json](./119123-tekken-7-noctis-lucis-caelum.json) |
 | Tekken 7: Originals Edition | 218481 | [218481-tekken-7-originals-edition.json](./218481-tekken-7-originals-edition.json) |
+| Tekken 7: Pac-Man-Themed Customization Set | 306851 | [306851-tekken-7-pac-man-themed-customization-set.json](./306851-tekken-7-pac-man-themed-customization-set.json) |
 | Tekken 7: Season Pass | 385588 | [385588-tekken-7-season-pass.json](./385588-tekken-7-season-pass.json) |
+| Tekken 7: Taiko No Tatsujin Pack | 306850 | [306850-tekken-7-taiko-no-tatsujin-pack.json](./306850-tekken-7-taiko-no-tatsujin-pack.json) |
 | Tekken 7: Ultimate Edition | 118704 | [118704-tekken-7-ultimate-edition.json](./118704-tekken-7-ultimate-edition.json) |
 | Tekken 7: Ultimate Tekken Bowl & Additional Costumes | 118958 | [118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json](./118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json) |
 | Tekken 7: Vermilion Gates | 173154 | [173154-tekken-7-vermilion-gates.json](./173154-tekken-7-vermilion-gates.json) |
@@ -12661,6 +12663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
 | The Interlude | 118172 | [118172-the-interlude.json](./118172-the-interlude.json) |
 | The Intermine Legacy: I am the Darkness | 248221 | [248221-the-intermine-legacy-i-am-the-darkness.json](./248221-the-intermine-legacy-i-am-the-darkness.json) |
+| The Intern of Christmas Present | 306826 | [306826-the-intern-of-christmas-present.json](./306826-the-intern-of-christmas-present.json) |
 | The Intern: O Estágio | 81854 | [81854-the-intern-o-estagio.json](./81854-the-intern-o-estagio.json) |
 | The Intern: Temptation at Work | 420652 | [420652-the-intern-temptation-at-work.json](./420652-the-intern-temptation-at-work.json) |
 | The Internship | 102319 | [102319-the-internship.json](./102319-the-internship.json) |
@@ -16951,6 +16954,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Playroom VR | 25263 | [25263-the-playroom-vr.json](./25263-the-playroom-vr.json) |
 | The Playroom VR Toy Wars | 381746 | [381746-the-playroom-vr-toy-wars.json](./381746-the-playroom-vr-toy-wars.json) |
 | The Playroom: AR Studio | 296039 | [296039-the-playroom-ar-studio.json](./296039-the-playroom-ar-studio.json) |
+| The Playroom: My Alien Buddy | 306834 | [306834-the-playroom-my-alien-buddy.json](./306834-the-playroom-my-alien-buddy.json) |
+| The Playroom: Ninja Bots | 306832 | [306832-the-playroom-ninja-bots.json](./306832-the-playroom-ninja-bots.json) |
+| The Playroom: Toy Maker | 306833 | [306833-the-playroom-toy-maker.json](./306833-the-playroom-toy-maker.json) |
 | The Plight | 120442 | [120442-the-plight.json](./120442-the-plight.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
 | The Ploshers | 116907 | [116907-the-ploshers.json](./116907-the-ploshers.json) |
@@ -19520,6 +19526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sum of All Fears | 1863 | [1863-the-sum-of-all-fears.json](./1863-the-sum-of-all-fears.json) |
 | The Sum of All Fears | 248466 | [248466-the-sum-of-all-fears.json](./248466-the-sum-of-all-fears.json) |
 | The Sumerian Game | 231395 | [231395-the-sumerian-game.json](./231395-the-sumerian-game.json) |
+| The Sumerian Game | 306831 | [306831-the-sumerian-game.json](./306831-the-sumerian-game.json) |
 | The Summit | 184193 | [184193-the-summit.json](./184193-the-summit.json) |
 | The Summit | 351075 | [351075-the-summit.json](./351075-the-summit.json) |
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
@@ -21361,6 +21368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Birch | 63761 | [63761-the-white-birch.json](./63761-the-white-birch.json) |
 | The White Box | 331760 | [331760-the-white-box.json](./331760-the-white-box.json) |
 | The White Butcher | 122799 | [122799-the-white-butcher.json](./122799-the-white-butcher.json) |
+| The White Canvas | 306131 | [306131-the-white-canvas.json](./306131-the-white-canvas.json) |
 | The White Chamber | 79408 | [79408-the-white-chamber.json](./79408-the-white-chamber.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
 | The White Diner | 117575 | [117575-the-white-diner.json](./117575-the-white-diner.json) |
@@ -34846,6 +34854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
 | Tribute | 338609 | [338609-tribute.json](./338609-tribute.json) |
 | Tribute to Shadow of the Colossus | 310656 | [310656-tribute-to-shadow-of-the-colossus.json](./310656-tribute-to-shadow-of-the-colossus.json) |
+| Trichromat | 306849 | [306849-trichromat.json](./306849-trichromat.json) |
 | Trick & Treat | 32186 | [32186-trick-and-treat.json](./32186-trick-and-treat.json) |
 | Trick & Treat Remake | 153224 | [153224-trick-and-treat-remake.json](./153224-trick-and-treat-remake.json) |
 | Trick Art Dungeon | 263338 | [263338-trick-art-dungeon.json](./263338-trick-art-dungeon.json) |
@@ -36423,6 +36432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuri Spirits: Tsutte Asoberu Suizokukan | 206813 | [206813-tsuri-spirits-tsutte-asoberu-suizokukan.json](./206813-tsuri-spirits-tsutte-asoberu-suizokukan.json) |
 | Tsuri Spirits: Tsutte Asoberu Suizokukan - Digital Deluxe Edition | 220924 | [220924-tsuri-spirits-tsutte-asoberu-suizokukan-digital-deluxe-edition.json](./220924-tsuri-spirits-tsutte-asoberu-suizokukan-digital-deluxe-edition.json) |
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
+| Tsuridou: Umitsuri-hen | 306165 | [306165-tsuridou-umitsuri-hen.json](./306165-tsuridou-umitsuri-hen.json) |
 | Tsurikko Penta | 228358 | [228358-tsurikko-penta.json](./228358-tsurikko-penta.json) |
 | Tsurikkuma | 306727 | [306727-tsurikkuma.json](./306727-tsurikkuma.json) |
 | Tsurimasu | 355224 | [355224-tsurimasu.json](./355224-tsurimasu.json) |
