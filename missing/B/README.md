@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Wall | 246864 | [246864-ball-wall.json](./246864-ball-wall.json) |
 | Ball Wall Jump Bump | 375693 | [375693-ball-wall-jump-bump.json](./375693-ball-wall-jump-bump.json) |
 | Ball With Pistons | 204807 | [204807-ball-with-pistons.json](./204807-ball-with-pistons.json) |
+| Ball x Pit: Risen Ballbylon | 419026 | [419026-ball-x-pit-risen-ballbylon.json](./419026-ball-x-pit-risen-ballbylon.json) |
 | Ball X Pit: The Shadow Update | 400629 | [400629-ball-x-pit-the-shadow-update.json](./400629-ball-x-pit-the-shadow-update.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
 | Ball-Hop Bowling | 95015 | [95015-ball-hop-bowling.json](./95015-ball-hop-bowling.json) |
@@ -6354,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Escape Dolls | 351566 | [351566-beautiful-escape-dolls.json](./351566-beautiful-escape-dolls.json) |
 | Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
 | Beautiful Feet Cabin | 241722 | [241722-beautiful-feet-cabin.json](./241722-beautiful-feet-cabin.json) |
+| Beautiful Freaks of the Desert | 419035 | [419035-beautiful-freaks-of-the-desert.json](./419035-beautiful-freaks-of-the-desert.json) |
 | Beautiful Girl | 368619 | [368619-beautiful-girl.json](./368619-beautiful-girl.json) |
 | Beautiful Girl Fight School | 130207 | [130207-beautiful-girl-fight-school.json](./130207-beautiful-girl-fight-school.json) |
 | Beautiful Girls | 172230 | [172230-beautiful-girls.json](./172230-beautiful-girls.json) |
