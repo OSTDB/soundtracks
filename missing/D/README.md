@@ -6508,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defender's Quest: Valley of the Forgotten | 7888 | [7888-defenders-quest-valley-of-the-forgotten.json](./7888-defenders-quest-valley-of-the-forgotten.json) |
 | Defender's Squad: The Last Ride | 336834 | [336834-defenders-squad-the-last-ride.json](./336834-defenders-squad-the-last-ride.json) |
+| Defenders | 287800 | [287800-defenders.json](./287800-defenders.json) |
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
 | Defenders | 33837 | [33837-defenders.json](./33837-defenders.json) |
 | Defenders Chronicles II: Heroes of Athelia | 19206 | [19206-defenders-chronicles-ii-heroes-of-athelia.json](./19206-defenders-chronicles-ii-heroes-of-athelia.json) |
@@ -13755,6 +13756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Pop'n Music | 227745 | [227745-dokodemo-popn-music.json](./227745-dokodemo-popn-music.json) |
 | Dokodemo Taikyoku: Yakuman Advance | 49586 | [49586-dokodemo-taikyoku-yakuman-advance.json](./49586-dokodemo-taikyoku-yakuman-advance.json) |
 | Dokomademo Aoku... | 165912 | [165912-dokomademo-aoku.json](./165912-dokomademo-aoku.json) |
+| Dokopa | 285167 | [285167-dokopa.json](./285167-dokopa.json) |
 | Doku Girls | 336421 | [336421-doku-girls.json](./336421-doku-girls.json) |
 | Doku Girls 2 | 368762 | [368762-doku-girls-2.json](./368762-doku-girls-2.json) |
 | Doku Girls 3 | 370805 | [370805-doku-girls-3.json](./370805-doku-girls-3.json) |
@@ -18286,6 +18288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
 | Dream Rose | 115211 | [115211-dream-rose.json](./115211-dream-rose.json) |
 | Dream RPG | 229599 | [229599-dream-rpg.json](./229599-dream-rpg.json) |
+| Dream Runner | 287817 | [287817-dream-runner.json](./287817-dream-runner.json) |
 | Dream Runner | 346877 | [346877-dream-runner.json](./346877-dream-runner.json) |
 | Dream Salon | 51033 | [51033-dream-salon.json](./51033-dream-salon.json) |
 | Dream Savior | 385359 | [385359-dream-savior.json](./385359-dream-savior.json) |
@@ -21996,6 +21999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 5: Empires | 19624 | [19624-dynasty-warriors-5-empires.json](./19624-dynasty-warriors-5-empires.json) |
 | Dynasty Warriors 5: Special | 247095 | [247095-dynasty-warriors-5-special.json](./247095-dynasty-warriors-5-special.json) |
 | Dynasty Warriors 5: Xtreme Legends | 19618 | [19618-dynasty-warriors-5-xtreme-legends.json](./19618-dynasty-warriors-5-xtreme-legends.json) |
+| Dynasty Warriors 6 | 287843 | [287843-dynasty-warriors-6.json](./287843-dynasty-warriors-6.json) |
 | Dynasty Warriors 6 | 6975 | [6975-dynasty-warriors-6.json](./6975-dynasty-warriors-6.json) |
 | Dynasty Warriors 6: Empires | 19636 | [19636-dynasty-warriors-6-empires.json](./19636-dynasty-warriors-6-empires.json) |
 | Dynasty Warriors 6: Special | 269526 | [269526-dynasty-warriors-6-special.json](./269526-dynasty-warriors-6-special.json) |
