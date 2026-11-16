@@ -7620,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred is a Bad Guy | 318611 | [318611-alfred-is-a-bad-guy.json](./318611-alfred-is-a-bad-guy.json) |
 | Alfred Pelrock | 73801 | [73801-alfred-pelrock.json](./73801-alfred-pelrock.json) |
 | Alfred's Adventure | 49974 | [49974-alfreds-adventure.json](./49974-alfreds-adventure.json) |
+| Alfred's Alien Abduction Adventure | 414664 | [414664-alfreds-alien-abduction-adventure.json](./414664-alfreds-alien-abduction-adventure.json) |
 | Alfredo | 245124 | [245124-alfredo.json](./245124-alfredo.json) |
 | Alfredo and the Fetucini's | 245067 | [245067-alfredo-and-the-fetucinis.json](./245067-alfredo-and-the-fetucinis.json) |
 | Alfredo's Sneaky Meal | 257814 | [257814-alfredos-sneaky-meal.json](./257814-alfredos-sneaky-meal.json) |
@@ -16259,6 +16260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armoured VR | 239822 | [239822-armoured-vr.json](./239822-armoured-vr.json) |
 | Arms | 26759 | [26759-arms.json](./26759-arms.json) |
 | Arms Dealer | 17887 | [17887-arms-dealer.json](./17887-arms-dealer.json) |
+| Arms Dealer | 414670 | [414670-arms-dealer.json](./414670-arms-dealer.json) |
 | Arms Dealer Simulator | 406056 | [406056-arms-dealer-simulator.json](./406056-arms-dealer-simulator.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
 | Arms Doll | 196913 | [196913-arms-doll.json](./196913-arms-doll.json) |
@@ -18307,6 +18309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraphia | 365592 | [365592-astraphia.json](./365592-astraphia.json) |
 | Astraphobia | 349746 | [349746-astraphobia.json](./349746-astraphobia.json) |
 | AstraPuffs | 352481 | [352481-astrapuffs.json](./352481-astrapuffs.json) |
+| Astrava | 415382 | [415382-astrava.json](./415382-astrava.json) |
 | Astraverse | 163794 | [163794-astraverse.json](./163794-astraverse.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | Astraware Zap! | 257482 | [257482-astraware-zap.json](./257482-astraware-zap.json) |
