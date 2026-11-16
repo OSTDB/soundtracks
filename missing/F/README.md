@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Computer Golf: U.S. Course | 41247 | [41247-family-computer-golf-u-s-course.json](./41247-family-computer-golf-u-s-course.json) |
 | Family Crisis | 381386 | [381386-family-crisis.json](./381386-family-crisis.json) |
 | Family Curse | 223248 | [223248-family-curse.json](./223248-family-curse.json) |
+| Family Diamond | 360818 | [360818-family-diamond.json](./360818-family-diamond.json) |
 | Family Dinner | 178470 | [178470-family-dinner.json](./178470-family-dinner.json) |
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
 | Family Dog | 42570 | [42570-family-dog.json](./42570-family-dog.json) |
@@ -6084,6 +6085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finck | 79571 | [79571-finck.json](./79571-finck.json) |
 | FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
 | Find | 201078 | [201078-find.json](./201078-find.json) |
+| Find | 358528 | [358528-find.json](./358528-find.json) |
 | Find & Destroy: Tank Strategy | 102887 | [102887-find-and-destroy-tank-strategy.json](./102887-find-and-destroy-tank-strategy.json) |
 | Find 10 Differences | 150261 | [150261-find-10-differences.json](./150261-find-10-differences.json) |
 | Find 100 Cats! | 363018 | [363018-find-100-cats.json](./363018-find-100-cats.json) |
@@ -9661,6 +9663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluxgates | 417364 | [417364-fluxgates.json](./417364-fluxgates.json) |
 | Fluxion | 243568 | [243568-fluxion.json](./243568-fluxion.json) |
 | Fluxis | 257617 | [257617-fluxis.json](./257617-fluxis.json) |
+| Fluxis | 358558 | [358558-fluxis.json](./358558-fluxis.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
 | Fluxteria | 135587 | [135587-fluxteria.json](./135587-fluxteria.json) |
 | FluxWerks | 419047 | [419047-fluxwerks.json](./419047-fluxwerks.json) |
@@ -9952,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNAF 1 Remake | 340823 | [340823-fnaf-1-remake.json](./340823-fnaf-1-remake.json) |
 | FNaF 2: Night of Misfits | 280135 | [280135-fnaf-2-night-of-misfits.json](./280135-fnaf-2-night-of-misfits.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
+| FNaF 3 Retro Edition | 360812 | [360812-fnaf-3-retro-edition.json](./360812-fnaf-3-retro-edition.json) |
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
 | FNAF All-Stars | 401326 | [401326-fnaf-all-stars.json](./401326-fnaf-all-stars.json) |
 | FNaF Free Edition | 299571 | [299571-fnaf-free-edition.json](./299571-fnaf-free-edition.json) |
@@ -11436,7 +11440,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlorn Screams of Agony Echoing Forevermore | 374233 | [374233-forlorn-screams-of-agony-echoing-forevermore.json](./374233-forlorn-screams-of-agony-echoing-forevermore.json) |
 | Forlorn: The mysteries of Highshadowland | 211605 | [211605-forlorn-the-mysteries-of-highshadowland.json](./211605-forlorn-the-mysteries-of-highshadowland.json) |
 | Form | 187761 | [187761-form.json](./187761-form.json) |
-| Form | 28446 | [28446-form.json](./28446-form.json) |
 | Form / Twilight Path | 142779 | [142779-form-twilight-path.json](./142779-form-twilight-path.json) |
 | Form Fitting | 243567 | [243567-form-fitting.json](./243567-form-fitting.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
