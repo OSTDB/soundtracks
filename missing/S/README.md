@@ -3860,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
 | SCP: Containment Breach Multiplayer | 314780 | [314780-scp-containment-breach-multiplayer.json](./314780-scp-containment-breach-multiplayer.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
+| SCP: Containment Breach Revival | 417095 | [417095-scp-containment-breach-revival.json](./417095-scp-containment-breach-revival.json) |
 | SCP: Containment Breach Ultimate Edition | 367353 | [367353-scp-containment-breach-ultimate-edition.json](./367353-scp-containment-breach-ultimate-edition.json) |
 | SCP: Containment Chaos | 274788 | [274788-scp-containment-chaos.json](./274788-scp-containment-chaos.json) |
 | SCP: Contamination | 261757 | [261757-scp-contamination.json](./261757-scp-contamination.json) |
@@ -5469,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
+| Seek | 417888 | [417888-seek.json](./417888-seek.json) |
 | Seek 'N Hide! | 212515 | [212515-seek-n-hide.json](./212515-seek-n-hide.json) |
 | Seek 'n Spell | 90913 | [90913-seek-n-spell.json](./90913-seek-n-spell.json) |
 | Seek & Destroy | 13055 | [13055-seek-and-destroy.json](./13055-seek-and-destroy.json) |
@@ -6055,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
 | Send the Egg | 212550 | [212550-send-the-egg.json](./212550-send-the-egg.json) |
+| Send Them to Hell | 417886 | [417886-send-them-to-hell.json](./417886-send-them-to-hell.json) |
 | Send them to the sky | 130227 | [130227-send-them-to-the-sky.json](./130227-send-them-to-the-sky.json) |
 | Send You a Link | 229654 | [229654-send-you-a-link.json](./229654-send-you-a-link.json) |
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
@@ -6450,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sepulchron | 318880 | [318880-sepulchron.json](./318880-sepulchron.json) |
 | Sepulcri | 36918 | [36918-sepulcri.json](./36918-sepulcri.json) |
 | Sepulcrum | 344889 | [344889-sepulcrum.json](./344889-sepulcrum.json) |
+| Sepulvia | 417089 | [417089-sepulvia.json](./417089-sepulvia.json) |
 | Seq | 175080 | [175080-seq.json](./175080-seq.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequela | 117875 | [117875-sequela.json](./117875-sequela.json) |
@@ -15276,6 +15280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
 | Sliding Blocks | 55303 | [55303-sliding-blocks.json](./55303-sliding-blocks.json) |
 | Sliding Cubes 2048 Mania | 328724 | [328724-sliding-cubes-2048-mania.json](./328724-sliding-cubes-2048-mania.json) |
+| Sliding Game | 417085 | [417085-sliding-game.json](./417085-sliding-game.json) |
 | Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
 | Sliding Hero | 309545 | [309545-sliding-hero.json](./309545-sliding-hero.json) |
 | Sliding Puzzle | 202007 | [202007-sliding-puzzle.json](./202007-sliding-puzzle.json) |
@@ -24835,6 +24840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Adventure | 68208 | [68208-spirit-of-adventure.json](./68208-spirit-of-adventure.json) |
 | Spirit of Arx | 158946 | [158946-spirit-of-arx.json](./158946-spirit-of-arx.json) |
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
+| Spirit of Diwata | 417067 | [417067-spirit-of-diwata.json](./417067-spirit-of-diwata.json) |
 | Spirit of dungeon | 156803 | [156803-spirit-of-dungeon.json](./156803-spirit-of-dungeon.json) |
 | Spirit of Europe: Origins | 172333 | [172333-spirit-of-europe-origins.json](./172333-spirit-of-europe-origins.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
@@ -30374,6 +30380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
 | Stillflow | 414070 | [414070-stillflow.json](./414070-stillflow.json) |
+| Stillmere | 417083 | [417083-stillmere.json](./417083-stillmere.json) |
 | Stillness | 348385 | [348385-stillness.json](./348385-stillness.json) |
 | Stillness | 385149 | [385149-stillness.json](./385149-stillness.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
@@ -38437,6 +38444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfpunk | 314921 | [314921-surfpunk.json](./314921-surfpunk.json) |
 | Surfs Up! | 359745 | [359745-surfs-up.json](./359745-surfs-up.json) |
 | SurfsUp | 339492 | [339492-surfsup.json](./339492-surfsup.json) |
+| SurfsUp: Supporter Bundle | 417102 | [417102-surfsup-supporter-bundle.json](./417102-surfsup-supporter-bundle.json) |
 | SurfTank | 268860 | [268860-surftank.json](./268860-surftank.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
 | Surfy | 266549 | [266549-surfy.json](./266549-surfy.json) |
