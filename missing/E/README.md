@@ -4191,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endgame Syria | 56102 | [56102-endgame-syria.json](./56102-endgame-syria.json) |
 | Endgame: Road to Salvation | 150319 | [150319-endgame-road-to-salvation.json](./150319-endgame-road-to-salvation.json) |
 | Endgame: Singularity | 92747 | [92747-endgame-singularity.json](./92747-endgame-singularity.json) |
+| Endgame: Survival | 213651 | [213651-endgame-survival.json](./213651-endgame-survival.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
@@ -5176,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Helicopter | 104918 | [104918-epic-helicopter.json](./104918-epic-helicopter.json) |
 | Epic Hero | 235027 | [235027-epic-hero.json](./235027-epic-hero.json) |
 | Epic Heroes Battle Royal | 123271 | [123271-epic-heroes-battle-royal.json](./123271-epic-heroes-battle-royal.json) |
+| Epic Heroes: Dinosaur Control | 214079 | [214079-epic-heroes-dinosaur-control.json](./214079-epic-heroes-dinosaur-control.json) |
 | Epic Ice Cream | 421791 | [421791-epic-ice-cream.json](./421791-epic-ice-cream.json) |
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
 | Epic Inventor | 101221 | [101221-epic-inventor.json](./101221-epic-inventor.json) |
