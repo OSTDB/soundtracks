@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko When They Cry: Question Arcs | 124948 | [124948-umineko-when-they-cry-question-arcs.json](./124948-umineko-when-they-cry-question-arcs.json) |
 | Umineko: Golden Fantasia | 76137 | [76137-umineko-golden-fantasia.json](./76137-umineko-golden-fantasia.json) |
 | Umineko: Golden Forgery | 403537 | [403537-umineko-golden-forgery.json](./403537-umineko-golden-forgery.json) |
+| Umineko: Letter to the Golden Witch | 382661 | [382661-umineko-letter-to-the-golden-witch.json](./382661-umineko-letter-to-the-golden-witch.json) |
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
 | Umineko: When They Cry - Saku | 401952 | [401952-umineko-when-they-cry-saku.json](./401952-umineko-when-they-cry-saku.json) |
 | Umiro | 90720 | [90720-umiro.json](./90720-umiro.json) |
