@@ -7762,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal of the Obsidian Baboon | 73168 | [73168-betrayal-of-the-obsidian-baboon.json](./73168-betrayal-of-the-obsidian-baboon.json) |
 | Betrayal.io | 139300 | [139300-betrayal-io.json](./139300-betrayal-io.json) |
 | Betrayed | 289169 | [289169-betrayed.json](./289169-betrayed.json) |
+| Betrayed Alliance: Book 1 | 239926 | [239926-betrayed-alliance-book-1.json](./239926-betrayed-alliance-book-1.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer | 7711 | [7711-betrayer.json](./7711-betrayer.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
@@ -12329,6 +12330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood 'N Bullets | 239778 | [239778-blood-n-bullets.json](./239778-blood-n-bullets.json) |
 | Blood 'n Guts | 37070 | [37070-blood-n-guts.json](./37070-blood-n-guts.json) |
 | Blood 'n' Guts | 380107 | [380107-blood-n-guts.json](./380107-blood-n-guts.json) |
+| Blood & Ash | 239844 | [239844-blood-and-ash.json](./239844-blood-and-ash.json) |
 | Blood & Bacon | 33720 | [33720-blood-and-bacon.json](./33720-blood-and-bacon.json) |
 | Blood & Bananas | 367947 | [367947-blood-and-bananas.json](./367947-blood-and-bananas.json) |
 | Blood & Blade | 60798 | [60798-blood-and-blade.json](./60798-blood-and-blade.json) |
