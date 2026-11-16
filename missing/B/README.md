@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Star | 368980 | [368980-balloon-star.json](./368980-balloon-star.json) |
 | Balloon Strike | 100457 | [100457-balloon-strike.json](./100457-balloon-strike.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
+| Balloon Trip | 269167 | [269167-balloon-trip.json](./269167-balloon-trip.json) |
 | Balloon Up | 108578 | [108578-balloon-up.json](./108578-balloon-up.json) |
 | Balloon Warfare | 337882 | [337882-balloon-warfare.json](./337882-balloon-warfare.json) |
 | Balloonacy | 13372 | [13372-balloonacy.json](./13372-balloonacy.json) |
@@ -10146,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Death Interactive | 320665 | [320665-black-death-interactive.json](./320665-black-death-interactive.json) |
 | Black Death: A Tragic Dirge | 212718 | [212718-black-death-a-tragic-dirge.json](./212718-black-death-a-tragic-dirge.json) |
 | Black Death: Divarication | 55587 | [55587-black-death-divarication.json](./55587-black-death-divarication.json) |
+| Black Derulo World 2 | 268169 | [268169-black-derulo-world-2.json](./268169-black-derulo-world-2.json) |
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
 | Black Desert Online: Explorer's Package | 91183 | [91183-black-desert-online-explorers-package.json](./91183-black-desert-online-explorers-package.json) |
@@ -16792,6 +16794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
 | Brave Neptunia: Hero Edition | 100356 | [100356-brave-neptunia-hero-edition.json](./100356-brave-neptunia-hero-edition.json) |
 | Brave New Wonders | 339966 | [339966-brave-new-wonders.json](./339966-brave-new-wonders.json) |
+| Brave New World | 268172 | [268172-brave-new-world.json](./268172-brave-new-world.json) |
 | Brave New World 2 | 315972 | [315972-brave-new-world-2.json](./315972-brave-new-world-2.json) |
 | Brave New World I | 107737 | [107737-brave-new-world-i.json](./107737-brave-new-world-i.json) |
 | Brave Nine | 112120 | [112120-brave-nine.json](./112120-brave-nine.json) |
@@ -20771,6 +20774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buta Hime-sama | 82971 | [82971-buta-hime-sama.json](./82971-buta-hime-sama.json) |
 | Buta-san | 40025 | [40025-buta-san.json](./40025-buta-san.json) |
 | Buta-san Quest | 222003 | [222003-buta-san-quest.json](./222003-buta-san-quest.json) |
+| Butage: De iin Janai? | 269173 | [269173-butage-de-iin-janai.json](./269173-butage-de-iin-janai.json) |
 | Butamaru Pants | 97802 | [97802-butamaru-pants.json](./97802-butamaru-pants.json) |
 | Butano Fighter | 184306 | [184306-butano-fighter.json](./184306-butano-fighter.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
