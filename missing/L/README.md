@@ -5265,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifted | 309518 | [309518-lifted.json](./309518-lifted.json) |
 | Lifted Dreams | 124412 | [124412-lifted-dreams.json](./124412-lifted-dreams.json) |
+| Lifter | 329861 | [329861-lifter.json](./329861-lifter.json) |
 | Lifting Journey | 115431 | [115431-lifting-journey.json](./115431-lifting-journey.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Liftlands | 284567 | [284567-liftlands.json](./284567-liftlands.json) |
@@ -5733,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Snot: Moon Escape | 350883 | [350883-lil-snot-moon-escape.json](./350883-lil-snot-moon-escape.json) |
 | Lil'Johnny Watermelon Smash | 324274 | [324274-liljohnny-watermelon-smash.json](./324274-liljohnny-watermelon-smash.json) |
 | Lila | 421628 | [421628-lila.json](./421628-lila.json) |
+| Lila and the Secret Flower Jungle | 335550 | [335550-lila-and-the-secret-flower-jungle.json](./335550-lila-and-the-secret-flower-jungle.json) |
 | Lila Colorful | 360225 | [360225-lila-colorful.json](./360225-lila-colorful.json) |
 | Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
@@ -8463,6 +8465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopedal | 364642 | [364642-loopedal.json](./364642-loopedal.json) |
 | Looper | 292133 | [292133-looper.json](./292133-looper.json) |
 | Looper | 323827 | [323827-looper.json](./323827-looper.json) |
+| Looper | 335534 | [335534-looper.json](./335534-looper.json) |
 | Looper | 406189 | [406189-looper.json](./406189-looper.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | Looper Tactics | 250252 | [250252-looper-tactics.json](./250252-looper-tactics.json) |
@@ -9757,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Clear: Limited Edition | 165957 | [165957-love-clear-limited-edition.json](./165957-love-clear-limited-edition.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
 | Love Colors | 169544 | [169544-love-colors.json](./169544-love-colors.json) |
+| Love Colors & Calm Colors | 335558 | [335558-love-colors-and-calm-colors.json](./335558-love-colors-and-calm-colors.json) |
 | Love Colors: All in One | 171312 | [171312-love-colors-all-in-one.json](./171312-love-colors-all-in-one.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Happy Pixels | 171311 | [171311-love-colors-happy-pixels.json](./171311-love-colors-happy-pixels.json) |
