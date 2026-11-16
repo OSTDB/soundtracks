@@ -5203,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Duel | 138543 | [138543-marvel-duel.json](./138543-marvel-duel.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
+| Marvel First Alliance 2 | 296136 | [296136-marvel-first-alliance-2.json](./296136-marvel-first-alliance-2.json) |
 | Marvel Future Fight | 24598 | [24598-marvel-future-fight.json](./24598-marvel-future-fight.json) |
 | Marvel Future Revolution | 131743 | [131743-marvel-future-revolution.json](./131743-marvel-future-revolution.json) |
 | Marvel Hero Tales | 322474 | [322474-marvel-hero-tales.json](./322474-marvel-hero-tales.json) |
@@ -5283,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: Android Onslaught | 245454 | [245454-marvel-heroes-android-onslaught.json](./245454-marvel-heroes-android-onslaught.json) |
 | Marvel Heroes: HeroesVillains | 245453 | [245453-marvel-heroes-heroesvillains.json](./245453-marvel-heroes-heroesvillains.json) |
 | Marvel HQ | 322471 | [322471-marvel-hq.json](./322471-marvel-hq.json) |
+| Marvel Infinity War | 296137 | [296137-marvel-infinity-war.json](./296137-marvel-infinity-war.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
 | Marvel Land | 41087 | [41087-marvel-land.json](./41087-marvel-land.json) |
 | Marvel MaXimum Collection | 392813 | [392813-marvel-maximum-collection.json](./392813-marvel-maximum-collection.json) |
@@ -5686,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass for the Dead | 115452 | [115452-mass-for-the-dead.json](./115452-mass-for-the-dead.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
+| Mass Invasion | 297821 | [297821-mass-invasion.json](./297821-mass-invasion.json) |
 | Mass Mayhem | 393886 | [393886-mass-mayhem.json](./393886-mass-mayhem.json) |
 | Mass Mayhem 2 | 393902 | [393902-mass-mayhem-2.json](./393902-mass-mayhem-2.json) |
 | Mass Mayhem 2099 A.D. | 394147 | [394147-mass-mayhem-2099-a-d.json](./394147-mass-mayhem-2099-a-d.json) |
@@ -10458,6 +10461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | MER Innebandy | 186661 | [186661-mer-innebandy.json](./186661-mer-innebandy.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
+| Meranbaralan | 297378 | [297378-meranbaralan.json](./297378-meranbaralan.json) |
 | Merauders: A Voyage of Discovery | 296981 | [296981-merauders-a-voyage-of-discovery.json](./296981-merauders-a-voyage-of-discovery.json) |
 | Merc Commander | 423323 | [423323-merc-commander.json](./423323-merc-commander.json) |
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
@@ -17663,6 +17667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopong | 232374 | [232374-monopong.json](./232374-monopong.json) |
 | Monoposto | 88522 | [88522-monoposto.json](./88522-monoposto.json) |
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
+| MonoRace | 297375 | [297375-monorace.json](./297375-monorace.json) |
 | MonoRaceVR | 192755 | [192755-monoracevr.json](./192755-monoracevr.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monos: The Endless Tower | 211970 | [211970-monos-the-endless-tower.json](./211970-monos-the-endless-tower.json) |
@@ -22042,6 +22047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Party: Horror Hunt | 274967 | [274967-murder-party-horror-hunt.json](./274967-murder-party-horror-hunt.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Room | 109135 | [109135-murder-room.json](./109135-murder-room.json) |
+| Murder Scheme | 297385 | [297385-murder-scheme.json](./297385-murder-scheme.json) |
 | Murder She Wrote 2: Return to Cabot Cove | 10574 | [10574-murder-she-wrote-2-return-to-cabot-cove.json](./10574-murder-she-wrote-2-return-to-cabot-cove.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
 | Murder Workbook | 267228 | [267228-murder-workbook.json](./267228-murder-workbook.json) |
