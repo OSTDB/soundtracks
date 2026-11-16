@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OK Bob | 29332 | [29332-ok-bob.json](./29332-ok-bob.json) |
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
 | OK Golf | 89011 | [89011-ok-golf.json](./89011-ok-golf.json) |
+| Ok I Pull Up | 228770 | [228770-ok-i-pull-up.json](./228770-ok-i-pull-up.json) |
 | OK K.O.! Let's Play Heroes | 80012 | [80012-ok-k-o-lets-play-heroes.json](./80012-ok-k-o-lets-play-heroes.json) |
 | OK K.O.!: Lakewood Plaza - Turbo | 193896 | [193896-ok-k-o-lakewood-plaza-turbo.json](./193896-ok-k-o-lakewood-plaza-turbo.json) |
 | OK, Dracula | 124507 | [124507-ok-dracula.json](./124507-ok-dracula.json) |
