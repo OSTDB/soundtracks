@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-16T10:56:21.046Z",
-  "total_soundtracks": 3468,
+  "generated_at": "2026-11-16T11:07:04.588Z",
+  "total_soundtracks": 3475,
   "games": [
     {
       "igdb_id": 292844,
@@ -7953,6 +7953,20 @@
       ]
     },
     {
+      "igdb_id": 20537,
+      "game_name": "Crusty Demons",
+      "game_url": "https://ostdb.net/games/crusty-demons",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273989bd228cac104a788ede894",
+      "albums": [
+        {
+          "album_name": "Crusty Demons - The Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/43AbOqjCU8LPP86TDB9zwF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3084,
       "game_name": "Cry of Fear",
       "game_url": "https://ostdb.net/games/cry-of-fear",
@@ -10997,6 +11011,20 @@
         {
           "album_name": "Drone Swarm (Original Game Soundtrack Preview)",
           "spotify_url": "https://open.spotify.com/album/45wGgR5H56tuZyJh9dY6PS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19546,
+      "game_name": "DropZone",
+      "game_url": "https://ostdb.net/games/dropzone",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b2c35fd76a88a27787fba99",
+      "albums": [
+        {
+          "album_name": "Dropzone (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7K3hKHnZkTbYhznkppnWCF",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17013,6 +17041,20 @@
       ]
     },
     {
+      "igdb_id": 20399,
+      "game_name": "Haven Moon",
+      "game_url": "https://ostdb.net/games/haven-moon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739b3b0641b77b9caafec138a1",
+      "albums": [
+        {
+          "album_name": "Haven Moon (Original Videogame Soundtrack) Music Composed by Leo J. Russlan",
+          "spotify_url": "https://open.spotify.com/album/6y6aGjLG6cV4P2NxJYAmNQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1405,
       "game_name": "Hawken",
       "game_url": "https://ostdb.net/games/hawken",
@@ -17903,6 +17945,20 @@
         {
           "album_name": "House Flipper 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0KNLEZgkC8LjLTlteoiJn6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18903,
+      "game_name": "Hover Junkers",
+      "game_url": "https://ostdb.net/games/hover-junkers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732a77c3ac45b9d19860d64875",
+      "albums": [
+        {
+          "album_name": "Hover Junkers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/095HiXGWwG6Z18il8GkRTT",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -20213,6 +20269,20 @@
         {
           "album_name": "Last Train Home (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2BQy4dr9VjyobsrXcBkhXe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19250,
+      "game_name": "Lastfight",
+      "game_url": "https://ostdb.net/games/lastfight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e34df67973abf6aab6568708",
+      "albums": [
+        {
+          "album_name": "LastFight (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3t6HTXn9Aw28bZBHeNh4n9",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27533,6 +27603,20 @@
         {
           "album_name": "PLAYBOY: The Mansion Soundtrack- Mixed By Felix da Housecat",
           "spotify_url": "https://open.spotify.com/album/3dlg0F9FTXCV408qqcKpYU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19664,
+      "game_name": "PlayStation Move Heroes",
+      "game_url": "https://ostdb.net/games/playstation-move-heroes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e2da1847da57c7215b372a15",
+      "albums": [
+        {
+          "album_name": "PlayStation Move Heroes (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4fV9dHXwZs98vudc4l6Q4n",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -36193,6 +36277,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/tales-of-the-shire-a-the-lord/1827612045?uo=4",
           "album_link_url": "https://album.link/i/1827612045"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19096,
+      "game_name": "Tales of the Tempest",
+      "game_url": "https://ostdb.net/games/tales-of-the-tempest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d2ede82357de0bf1ffce3b50",
+      "albums": [
+        {
+          "album_name": "TALES OF THE TEMPEST Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3LfTIv5xHnFBnuf45TJoMM",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
