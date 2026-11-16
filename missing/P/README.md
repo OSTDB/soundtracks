@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
 | Parking in Tight Spaces | 350472 | [350472-parking-in-tight-spaces.json](./350472-parking-in-tight-spaces.json) |
 | Parking Jam | 313138 | [313138-parking-jam.json](./313138-parking-jam.json) |
+| Parking Jam 3D | 214084 | [214084-parking-jam-3d.json](./214084-parking-jam-3d.json) |
 | Parking Jam: Complete Edition | 315855 | [315855-parking-jam-complete-edition.json](./315855-parking-jam-complete-edition.json) |
 | Parking Jam: Fast Food | 313219 | [313219-parking-jam-fast-food.json](./313219-parking-jam-fast-food.json) |
 | Parking Jam: Snow Rush | 313231 | [313231-parking-jam-snow-rush.json](./313231-parking-jam-snow-rush.json) |
@@ -5467,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesque e Pegue | 406367 | [406367-pesque-e-pegue.json](./406367-pesque-e-pegue.json) |
 | Pest Apocalypse | 297182 | [297182-pest-apocalypse.json](./297182-pest-apocalypse.json) |
 | Pest Control | 120123 | [120123-pest-control.json](./120123-pest-control.json) |
+| Pest Control | 214069 | [214069-pest-control.json](./214069-pest-control.json) |
 | Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
 | Pest Control | 68159 | [68159-pest-control.json](./68159-pest-control.json) |
 | Pest Control in the Crypt | 410303 | [410303-pest-control-in-the-crypt.json](./410303-pest-control-in-the-crypt.json) |
@@ -10097,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
+| Pizza Ninja 3 | 213663 | [213663-pizza-ninja-3.json](./213663-pizza-ninja-3.json) |
 | Pizza No Pizza | 390986 | [390986-pizza-no-pizza.json](./390986-pizza-no-pizza.json) |
 | Pizza Nostra | 171527 | [171527-pizza-nostra.json](./171527-pizza-nostra.json) |
 | Pizza Now! | 420178 | [420178-pizza-now.json](./420178-pizza-now.json) |
@@ -14218,6 +14221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Pool Tour Master | 22379 | [22379-pool-tour-master.json](./22379-pool-tour-master.json) |
 | Pool Tour Masters | 110193 | [110193-pool-tour-masters.json](./110193-pool-tour-masters.json) |
+| Pool Trickshots Billiard | 214073 | [214073-pool-trickshots-billiard.json](./214073-pool-trickshots-billiard.json) |
 | Pool: 8 Ball Billiards | 173139 | [173139-pool-8-ball-billiards.json](./173139-pool-8-ball-billiards.json) |
 | Pool: 8 Ball Mania | 213386 | [213386-pool-8-ball-mania.json](./213386-pool-8-ball-mania.json) |
 | Pool:Shark | 14532 | [14532-pool-shark.json](./14532-pool-shark.json) |
@@ -17850,6 +17854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
 | Project Dreamcat | 184217 | [184217-project-dreamcat.json](./184217-project-dreamcat.json) |
 | Project Dreamscape | 367272 | [367272-project-dreamscape.json](./367272-project-dreamscape.json) |
+| Project Drift 2.0 | 214089 | [214089-project-drift-2-0.json](./214089-project-drift-2-0.json) |
 | Project Drift Japan Challenge | 308507 | [308507-project-drift-japan-challenge.json](./308507-project-drift-japan-challenge.json) |
 | Project Druid | 34797 | [34797-project-druid.json](./34797-project-druid.json) |
 | Project Druid | 74853 | [74853-project-druid.json](./74853-project-druid.json) |
