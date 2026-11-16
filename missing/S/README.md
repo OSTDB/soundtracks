@@ -16136,6 +16136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Dark House Survival | 195286 | [195286-small-dark-house-survival.json](./195286-small-dark-house-survival.json) |
 | Small Demon | 280107 | [280107-small-demon.json](./280107-small-demon.json) |
 | Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
+| Small Fry | 306828 | [306828-small-fry.json](./306828-small-fry.json) |
 | Small Hero | 397958 | [397958-small-hero.json](./397958-small-hero.json) |
 | Small Hero Survive | 301624 | [301624-small-hero-survive.json](./301624-small-hero-survive.json) |
 | Small House | 253670 | [253670-small-house.json](./253670-small-house.json) |
