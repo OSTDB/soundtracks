@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: Bound For Home | 234566 | [234566-garfield-bound-for-home.json](./234566-garfield-bound-for-home.json) |
 | Garfield: Caught in the Act | 19736 | [19736-garfield-caught-in-the-act.json](./19736-garfield-caught-in-the-act.json) |
 | Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
+| Garfield: Lasagna from Heaven | 396168 | [396168-garfield-lasagna-from-heaven.json](./396168-garfield-lasagna-from-heaven.json) |
 | Garfield: Lasagna Party | 218212 | [218212-garfield-lasagna-party.json](./218212-garfield-lasagna-party.json) |
 | Garfield: Lasagna World Tour | 43545 | [43545-garfield-lasagna-world-tour.json](./43545-garfield-lasagna-world-tour.json) |
 | Garfield: Saving Arlene | 43445 | [43445-garfield-saving-arlene.json](./43445-garfield-saving-arlene.json) |
@@ -4107,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex Trilogy | 256406 | [256406-gex-trilogy.json](./256406-gex-trilogy.json) |
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
+| Geyser Surpriser | 396166 | [396166-geyser-surpriser.json](./396166-geyser-surpriser.json) |
 | Geyserlands | 341724 | [341724-geyserlands.json](./341724-geyserlands.json) |
 | Gezeichnet: Unsere Flucht 1945 | 244928 | [244928-gezeichnet-unsere-flucht-1945.json](./244928-gezeichnet-unsere-flucht-1945.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
@@ -4299,6 +4301,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Master: Resurrection - Core Edition | 386806 | [386806-ghost-master-resurrection-core-edition.json](./386806-ghost-master-resurrection-core-edition.json) |
 | Ghost Master: Resurrection - Frightful Night | 396130 | [396130-ghost-master-resurrection-frightful-night.json](./396130-ghost-master-resurrection-frightful-night.json) |
 | Ghost Master: Resurrection - Relics of the Past | 396127 | [396127-ghost-master-resurrection-relics-of-the-past.json](./396127-ghost-master-resurrection-relics-of-the-past.json) |
+| Ghost Master: Resurrection - Sands of the Damned | 396133 | [396133-ghost-master-resurrection-sands-of-the-damned.json](./396133-ghost-master-resurrection-sands-of-the-damned.json) |
+| Ghost Master: Resurrection - Solid Ice and Terror | 396134 | [396134-ghost-master-resurrection-solid-ice-and-terror.json](./396134-ghost-master-resurrection-solid-ice-and-terror.json) |
+| Ghost Master: Resurrection - State of Panic | 396135 | [396135-ghost-master-resurrection-state-of-panic.json](./396135-ghost-master-resurrection-state-of-panic.json) |
+| Ghost Master: Resurrection - Walls of Judgment | 396136 | [396136-ghost-master-resurrection-walls-of-judgment.json](./396136-ghost-master-resurrection-walls-of-judgment.json) |
 | Ghost Master: The Gravenville Chronicles | 47352 | [47352-ghost-master-the-gravenville-chronicles.json](./47352-ghost-master-the-gravenville-chronicles.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost Maze | 250889 | [250889-ghost-maze.json](./250889-ghost-maze.json) |
