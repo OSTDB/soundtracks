@@ -5432,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seduce Me the Otome: Episode Series | 145559 | [145559-seduce-me-the-otome-episode-series.json](./145559-seduce-me-the-otome-episode-series.json) |
 | Seduce Me: The Complete Story | 134665 | [134665-seduce-me-the-complete-story.json](./134665-seduce-me-the-complete-story.json) |
 | Seduce, Breed, Conquer | 376448 | [376448-seduce-breed-conquer.json](./376448-seduce-breed-conquer.json) |
+| Seduced by the Mafia | 299059 | [299059-seduced-by-the-mafia.json](./299059-seduced-by-the-mafia.json) |
 | Seduced in the Sleepless City | 220877 | [220877-seduced-in-the-sleepless-city.json](./220877-seduced-in-the-sleepless-city.json) |
 | Seducing the Devil | 236113 | [236113-seducing-the-devil.json](./236113-seducing-the-devil.json) |
 | Seduction | 172708 | [172708-seduction.json](./172708-seduction.json) |
@@ -12931,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinful Catalyst CH1: Ethereal Camellia | 253858 | [253858-sinful-catalyst-ch1-ethereal-camellia.json](./253858-sinful-catalyst-ch1-ethereal-camellia.json) |
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sinful Eden | 32770 | [32770-sinful-eden.json](./32770-sinful-eden.json) |
+| Sinful Roses | 299062 | [299062-sinful-roses.json](./299062-sinful-roses.json) |
 | Sinful Soul | 240710 | [240710-sinful-soul.json](./240710-sinful-soul.json) |
 | Sinful Villa | 368949 | [368949-sinful-villa.json](./368949-sinful-villa.json) |
 | Sing & Fly: Music space game | 175101 | [175101-sing-and-fly-music-space-game.json](./175101-sing-and-fly-music-space-game.json) |
@@ -16429,6 +16431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashed and Boiled | 322110 | [322110-smashed-and-boiled.json](./322110-smashed-and-boiled.json) |
 | Smashell | 70628 | [70628-smashell.json](./70628-smashell.json) |
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
+| Smasher | 301150 | [301150-smasher.json](./301150-smasher.json) |
 | Smasher | 349462 | [349462-smasher.json](./349462-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
 | smashET | 110034 | [110034-smashet.json](./110034-smashet.json) |
@@ -29405,6 +29408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal It | 241533 | [241533-steal-it.json](./241533-steal-it.json) |
 | Steal It | 298455 | [298455-steal-it.json](./298455-steal-it.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
+| Steal my Heart | 299047 | [299047-steal-my-heart.json](./299047-steal-my-heart.json) |
 | Steal Out | 361863 | [361863-steal-out.json](./361863-steal-out.json) |
 | Steal Princess | 21186 | [21186-steal-princess.json](./21186-steal-princess.json) |
 | Steal Santa's Pills | 383720 | [383720-steal-santas-pills.json](./383720-steal-santas-pills.json) |
@@ -35383,6 +35387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
 | Super Gosu Cars | 201948 | [201948-super-gosu-cars.json](./201948-super-gosu-cars.json) |
 | Super Gracie World | 328327 | [328327-super-gracie-world.json](./328327-super-gracie-world.json) |
+| Super Gran | 300559 | [300559-super-gran.json](./300559-super-gran.json) |
 | Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
 | Super Granny | 7502 | [7502-super-granny.json](./7502-super-granny.json) |
 | Super Granny - Eight Bit 2D Platform Game | 99277 | [99277-super-granny-eight-bit-2d-platform-game.json](./99277-super-granny-eight-bit-2d-platform-game.json) |
