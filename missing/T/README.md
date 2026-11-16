@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talk To Me | 134586 | [134586-talk-to-me.json](./134586-talk-to-me.json) |
 | Talk to Saki | 81842 | [81842-talk-to-saki.json](./81842-talk-to-saki.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
+| Talk to Talk | 387977 | [387977-talk-to-talk.json](./387977-talk-to-talk.json) |
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
 | Talker Tales | 258923 | [258923-talker-tales.json](./258923-talker-tales.json) |
 | Talking ABC's: A Day at the Beach | 292118 | [292118-talking-abcs-a-day-at-the-beach.json](./292118-talking-abcs-a-day-at-the-beach.json) |
@@ -6357,6 +6358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agent | 91767 | [91767-the-agent.json](./91767-the-agent.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Agony | 30028 | [30028-the-agony.json](./30028-the-agony.json) |
+| The AI Bubble | 387767 | [387767-the-ai-bubble.json](./387767-the-ai-bubble.json) |
 | The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
 | The Aids Avenger | 281863 | [281863-the-aids-avenger.json](./281863-the-aids-avenger.json) |
 | The Air Ruler | 285489 | [285489-the-air-ruler.json](./285489-the-air-ruler.json) |
@@ -13777,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Spell: Dwarves of Runenberg | 296839 | [296839-the-last-spell-dwarves-of-runenberg.json](./296839-the-last-spell-dwarves-of-runenberg.json) |
 | The Last Spell: Elves of Amberwald | 341399 | [341399-the-last-spell-elves-of-amberwald.json](./341399-the-last-spell-elves-of-amberwald.json) |
 | The Last Spell: Legendary Edition | 401586 | [401586-the-last-spell-legendary-edition.json](./401586-the-last-spell-legendary-edition.json) |
+| The Last Spell: Tales of Torment | 387768 | [387768-the-last-spell-tales-of-torment.json](./387768-the-last-spell-tales-of-torment.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
 | The Last Spin | 298632 | [298632-the-last-spin.json](./298632-the-last-spin.json) |
 | The Last Squad | 349107 | [349107-the-last-squad.json](./349107-the-last-squad.json) |
@@ -19928,6 +19931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Princes and Adarna | 182740 | [182740-the-three-princes-and-adarna.json](./182740-the-three-princes-and-adarna.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
+| The Three Stooges | 388475 | [388475-the-three-stooges.json](./388475-the-three-stooges.json) |
 | The Three Stooges | 8670 | [8670-the-three-stooges.json](./8670-the-three-stooges.json) |
 | The Three Stooges: Digitally Remastered Edition | 94927 | [94927-the-three-stooges-digitally-remastered-edition.json](./94927-the-three-stooges-digitally-remastered-edition.json) |
 | The Three Stooges: Treasure Hunt Hijinks | 65184 | [65184-the-three-stooges-treasure-hunt-hijinks.json](./65184-the-three-stooges-treasure-hunt-hijinks.json) |
@@ -25575,6 +25579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles of War | 396027 | [396027-tiles-of-war.json](./396027-tiles-of-war.json) |
 | Tiles Puzzle | 310278 | [310278-tiles-puzzle.json](./310278-tiles-puzzle.json) |
 | Tiles Shooter Puzzle Cube | 128315 | [128315-tiles-shooter-puzzle-cube.json](./128315-tiles-shooter-puzzle-cube.json) |
+| Tiles Survive! | 387780 | [387780-tiles-survive.json](./387780-tiles-survive.json) |
 | Tiles Town | 240118 | [240118-tiles-town.json](./240118-tiles-town.json) |
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
 | Tilescapes: Blast | 419840 | [419840-tilescapes-blast.json](./419840-tilescapes-blast.json) |
