@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Sucking (Up Ghosts With a Vacuum) | 402671 | [402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json](./402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json) |
 | A Game About Typing The Alphabet | 350726 | [350726-a-game-about-typing-the-alphabet.json](./350726-a-game-about-typing-the-alphabet.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
+| A Game Called Paako | 249415 | [249415-a-game-called-paako.json](./249415-a-game-called-paako.json) |
 | A Game Called Paako: The Game Called Paako | 293526 | [293526-a-game-called-paako-the-game-called-paako.json](./293526-a-game-called-paako-the-game-called-paako.json) |
 | A Game of Chance | 405043 | [405043-a-game-of-chance.json](./405043-a-game-of-chance.json) |
 | A Game of Changes | 32728 | [32728-a-game-of-changes.json](./32728-a-game-of-changes.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero Once More | 252918 | [252918-a-hero-once-more.json](./252918-a-hero-once-more.json) |
 | A Hero's Guide to Gardening | 183410 | [183410-a-heros-guide-to-gardening.json](./183410-a-heros-guide-to-gardening.json) |
+| A Hero's Journey | 249423 | [249423-a-heros-journey.json](./249423-a-heros-journey.json) |
 | A Hero's Legacy | 270523 | [270523-a-heros-legacy.json](./270523-a-heros-legacy.json) |
 | A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
 | A Hero's Rest: An RPG Town Simulator | 206356 | [206356-a-heros-rest-an-rpg-town-simulator.json](./206356-a-heros-rest-an-rpg-town-simulator.json) |
@@ -3147,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceRace | 259802 | [259802-acerace.json](./259802-acerace.json) |
 | Acerte o alvo | 230636 | [230636-acerte-o-alvo.json](./230636-acerte-o-alvo.json) |
 | Aces & Adventures | 203609 | [203609-aces-and-adventures.json](./203609-aces-and-adventures.json) |
+| Aces & Adventures: Luck of the Paw | 247706 | [247706-aces-and-adventures-luck-of-the-paw.json](./247706-aces-and-adventures-luck-of-the-paw.json) |
 | Aces Cribbage | 110570 | [110570-aces-cribbage.json](./110570-aces-cribbage.json) |
 | Aces Gin Rummy | 70896 | [70896-aces-gin-rummy.json](./70896-aces-gin-rummy.json) |
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
@@ -11674,6 +11677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Hospital | 270311 | [270311-animal-hospital.json](./270311-animal-hospital.json) |
 | Animal Hospital | 84754 | [84754-animal-hospital.json](./84754-animal-hospital.json) |
 | Animal Hospital for kids | 99195 | [99195-animal-hospital-for-kids.json](./99195-animal-hospital-for-kids.json) |
+| Animal Hot Springs | 246131 | [246131-animal-hot-springs.json](./246131-animal-hot-springs.json) |
 | Animal Hunter Z | 113075 | [113075-animal-hunter-z.json](./113075-animal-hunter-z.json) |
 | Animal Hunting 3D | 301511 | [301511-animal-hunting-3d.json](./301511-animal-hunting-3d.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
@@ -13863,6 +13867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
 | Aqua Glide | 334853 | [334853-aqua-glide.json](./334853-aqua-glide.json) |
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
+| Aqua Ippan | 251153 | [251153-aqua-ippan.json](./251153-aqua-ippan.json) |
 | Aqua Jack | 39321 | [39321-aqua-jack.json](./39321-aqua-jack.json) |
 | Aqua Jet | 39931 | [39931-aqua-jet.json](./39931-aqua-jet.json) |
 | Aqua Jewel | 233727 | [233727-aqua-jewel.json](./233727-aqua-jewel.json) |
@@ -18620,6 +18625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Ranch | 66729 | [66729-astro-ranch.json](./66729-astro-ranch.json) |
 | Astro Rescue | 63108 | [63108-astro-rescue.json](./63108-astro-rescue.json) |
 | Astro Rider | 126327 | [126327-astro-rider.json](./126327-astro-rider.json) |
+| Astro Rush | 246132 | [246132-astro-rush.json](./246132-astro-rush.json) |
 | Astro Ryders | 397514 | [397514-astro-ryders.json](./397514-astro-ryders.json) |
 | Astro Sailor | 217057 | [217057-astro-sailor.json](./217057-astro-sailor.json) |
 | Astro Sentai Jarbonder | 150924 | [150924-astro-sentai-jarbonder.json](./150924-astro-sentai-jarbonder.json) |
