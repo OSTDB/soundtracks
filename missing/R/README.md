@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakka: Wake 01 - Soot | 341302 | [341302-rakka-wake-01-soot.json](./341302-rakka-wake-01-soot.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
 | Raklem: War on Earth | 73456 | [73456-raklem-war-on-earth.json](./73456-raklem-war-on-earth.json) |
+| Räkna med Alfons | 322882 | [322882-rakna-med-alfons.json](./322882-rakna-med-alfons.json) |
 | Rakoo & Friends | 85360 | [85360-rakoo-and-friends.json](./85360-rakoo-and-friends.json) |
 | Rakoo's Adventure | 25164 | [25164-rakoos-adventure.json](./25164-rakoos-adventure.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
@@ -5668,11 +5669,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reminiscence in the Rain | 294369 | [294369-reminiscence-in-the-rain.json](./294369-reminiscence-in-the-rain.json) |
 | Reminiscence of Gusuku: Card and Explore | 426599 | [426599-reminiscence-of-gusuku-card-and-explore.json](./426599-reminiscence-of-gusuku-card-and-explore.json) |
 | Reminiscience Overwrite | 184362 | [184362-reminiscience-overwrite.json](./184362-reminiscience-overwrite.json) |
+| Remio | 316895 | [316895-remio.json](./316895-remio.json) |
 | Remission | 302090 | [302090-remission.json](./302090-remission.json) |
 | ReMix | 276642 | [276642-remix.json](./276642-remix.json) |
 | Remix Jam | 285261 | [285261-remix-jam.json](./285261-remix-jam.json) |
 | Remix Map Pack | 271521 | [271521-remix-map-pack.json](./271521-remix-map-pack.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
+| Remixed Dungeon | 314085 | [314085-remixed-dungeon.json](./314085-remixed-dungeon.json) |
 | Remnant | 144676 | [144676-remnant.json](./144676-remnant.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
@@ -8856,6 +8859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Enigmas | 286780 | [286780-rise-of-enigmas.json](./286780-rise-of-enigmas.json) |
 | Rise of Erebus | 384472 | [384472-rise-of-erebus.json](./384472-rise-of-erebus.json) |
 | Rise of Eros | 218247 | [218247-rise-of-eros.json](./218247-rise-of-eros.json) |
+| Rise of Eros: Desire | 325742 | [325742-rise-of-eros-desire.json](./325742-rise-of-eros-desire.json) |
 | Rise of Fati | 345213 | [345213-rise-of-fati.json](./345213-rise-of-fati.json) |
 | Rise of Fearless | 345218 | [345218-rise-of-fearless.json](./345218-rise-of-fearless.json) |
 | Rise of Flight United | 16573 | [16573-rise-of-flight-united.json](./16573-rise-of-flight-united.json) |
@@ -9965,6 +9969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
 | Roboban: Colors | 302938 | [302938-roboban-colors.json](./302938-roboban-colors.json) |
 | Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
+| Robobit8 | 324037 | [324037-robobit8.json](./324037-robobit8.json) |
 | RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
 | Robobo TM | 153077 | [153077-robobo-tm.json](./153077-robobo-tm.json) |
 | Robobolt | 60268 | [60268-robobolt.json](./60268-robobolt.json) |
