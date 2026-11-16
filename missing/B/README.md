@@ -12863,7 +12863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Tentacles | 179532 | [179532-bloody-tentacles.json](./179532-bloody-tentacles.json) |
 | Bloody trains | 126354 | [126354-bloody-trains.json](./126354-bloody-trains.json) |
 | Bloody Trapland | 16733 | [16733-bloody-trapland.json](./16733-bloody-trapland.json) |
-| Bloody Trapland 2: Curiosity | 28003 | [28003-bloody-trapland-2-curiosity.json](./28003-bloody-trapland-2-curiosity.json) |
 | Bloody Vampire | 59209 | [59209-bloody-vampire.json](./59209-bloody-vampire.json) |
 | Bloody Walls | 31212 | [31212-bloody-walls.json](./31212-bloody-walls.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
