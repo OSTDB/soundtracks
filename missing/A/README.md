@@ -8171,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Protection | 251926 | [251926-alien-protection.json](./251926-alien-protection.json) |
 | Alien Puzzle Adventure | 84744 | [84744-alien-puzzle-adventure.json](./84744-alien-puzzle-adventure.json) |
 | Alien Pyramid Challenge! | 67415 | [67415-alien-pyramid-challenge.json](./67415-alien-pyramid-challenge.json) |
+| Alien Quake | 217574 | [217574-alien-quake.json](./217574-alien-quake.json) |
 | Alien Quarantine | 237704 | [237704-alien-quarantine.json](./237704-alien-quarantine.json) |
 | Alien Quest: Eve | 159148 | [159148-alien-quest-eve.json](./159148-alien-quest-eve.json) |
 | Alien Race | 133644 | [133644-alien-race.json](./133644-alien-race.json) |
@@ -12802,6 +12803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant General | 257273 | [257273-ant-general.json](./257273-ant-general.json) |
 | Ant Guardians | 349395 | [349395-ant-guardians.json](./349395-ant-guardians.json) |
 | Ant Keeping Simulator | 293092 | [293092-ant-keeping-simulator.json](./293092-ant-keeping-simulator.json) |
+| Ant Legion: For the Swarm | 219854 | [219854-ant-legion-for-the-swarm.json](./219854-ant-legion-for-the-swarm.json) |
 | Ant Man | 313899 | [313899-ant-man.json](./313899-ant-man.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Nation | 21197 | [21197-ant-nation.json](./21197-ant-nation.json) |
