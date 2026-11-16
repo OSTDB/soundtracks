@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabbage Patch Kids: Picture Show | 40902 | [40902-cabbage-patch-kids-picture-show.json](./40902-cabbage-patch-kids-picture-show.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
 | Cabbage Patch Kids: Where's My Pony? | 73048 | [73048-cabbage-patch-kids-wheres-my-pony.json](./73048-cabbage-patch-kids-wheres-my-pony.json) |
+| CabbageBall | 262706 | [262706-cabbageball.json](./262706-cabbageball.json) |
 | Cabbagers | 226277 | [226277-cabbagers.json](./226277-cabbagers.json) |
 | Cabbages and Kings | 71237 | [71237-cabbages-and-kings.json](./71237-cabbages-and-kings.json) |
 | Cabbibo's Play Pack | 135458 | [135458-cabbibos-play-pack.json](./135458-cabbibos-play-pack.json) |
