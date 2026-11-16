@@ -7490,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
 | Cheetahmen | 245125 | [245125-cheetahmen.json](./245125-cheetahmen.json) |
 | Cheetahmen II | 8062 | [8062-cheetahmen-ii.json](./8062-cheetahmen-ii.json) |
+| Cheetahmen II: Bugfixed Version | 278753 | [278753-cheetahmen-ii-bugfixed-version.json](./278753-cheetahmen-ii-bugfixed-version.json) |
 | Cheetahmen III | 245622 | [245622-cheetahmen-iii.json](./245622-cheetahmen-iii.json) |
 | Cheetahs Are Meant To Be Fast | 319265 | [319265-cheetahs-are-meant-to-be-fast.json](./319265-cheetahs-are-meant-to-be-fast.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
