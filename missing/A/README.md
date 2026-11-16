@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale in the Desert | 23701 | [23701-a-tale-in-the-desert.json](./23701-a-tale-in-the-desert.json) |
 | A Tale In The Garden | 332404 | [332404-a-tale-in-the-garden.json](./332404-a-tale-in-the-garden.json) |
 | A Tale in the Zoo | 312833 | [312833-a-tale-in-the-zoo.json](./312833-a-tale-in-the-zoo.json) |
+| A Tale of a Legacy | 306127 | [306127-a-tale-of-a-legacy.json](./306127-a-tale-of-a-legacy.json) |
 | A Tale of Arms and Ale | 103132 | [103132-a-tale-of-arms-and-ale.json](./103132-a-tale-of-arms-and-ale.json) |
 | A Tale of Betrayal | 312850 | [312850-a-tale-of-betrayal.json](./312850-a-tale-of-betrayal.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Trench Tale | 301461 | [301461-a-trench-tale.json](./301461-a-trench-tale.json) |
 | A Triangle Game | 177131 | [177131-a-triangle-game.json](./177131-a-triangle-game.json) |
 | A Tribute to the Rolling Boulder (from Raiders of the Lost Ark) | 92796 | [92796-a-tribute-to-the-rolling-boulder-from-raiders-of-the-lost-ark.json](./92796-a-tribute-to-the-rolling-boulder-from-raiders-of-the-lost-ark.json) |
+| A Trick and a Treat: Dead Letters (And One Other) | 306824 | [306824-a-trick-and-a-treat-dead-letters-and-one-other.json](./306824-a-trick-and-a-treat-dead-letters-and-one-other.json) |
 | A Trip down Market Street | 175587 | [175587-a-trip-down-market-street.json](./175587-a-trip-down-market-street.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
 | A Trip To The Zoo | 290320 | [290320-a-trip-to-the-zoo.json](./290320-a-trip-to-the-zoo.json) |
@@ -3154,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces of the Luftwaffe: Squadron - The Nebelgeschwader | 111543 | [111543-aces-of-the-luftwaffe-squadron-the-nebelgeschwader.json](./111543-aces-of-the-luftwaffe-squadron-the-nebelgeschwader.json) |
 | Aces of the Multiverse | 178165 | [178165-aces-of-the-multiverse.json](./178165-aces-of-the-multiverse.json) |
 | Aces of the Pacific | 12385 | [12385-aces-of-the-pacific.json](./12385-aces-of-the-pacific.json) |
+| Aces of Thunder | 306829 | [306829-aces-of-thunder.json](./306829-aces-of-thunder.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Aces of World War 1 | 205967 | [205967-aces-of-world-war-1.json](./205967-aces-of-world-war-1.json) |
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
