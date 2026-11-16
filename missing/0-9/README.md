@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Games | 319562 | [319562-6-games.json](./319562-6-games.json) |
 | 6 Great Games: Windows XP Edition | 314719 | [314719-6-great-games-windows-xp-edition.json](./314719-6-great-games-windows-xp-edition.json) |
 | 6 in 1 Power Bundle | 353571 | [353571-6-in-1-power-bundle.json](./353571-6-in-1-power-bundle.json) |
+| 6 in 1 Racing Games Collection | 335559 | [335559-6-in-1-racing-games-collection.json](./335559-6-in-1-racing-games-collection.json) |
 | 6 in 1 Time Management Game Collection | 153045 | [153045-6-in-1-time-management-game-collection.json](./153045-6-in-1-time-management-game-collection.json) |
 | 6 Inch My Darling | 45449 | [45449-6-inch-my-darling.json](./45449-6-inch-my-darling.json) |
 | 6 Keys: The Gym | 370289 | [370289-6-keys-the-gym.json](./370289-6-keys-the-gym.json) |
@@ -3683,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 720 Degrees | 8580 | [8580-720-degrees.json](./8580-720-degrees.json) |
 | 723 | 180145 | [180145-723.json](./180145-723.json) |
 | 737 Flight Simulator | 15580 | [15580-737-flight-simulator.json](./15580-737-flight-simulator.json) |
+| 740 Racing | 334391 | [334391-740-racing.json](./334391-740-racing.json) |
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
 | 747 Landing Simulator | 90903 | [90903-747-landing-simulator.json](./90903-747-landing-simulator.json) |
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
@@ -4148,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Été | 118265 | [118265-ete.json](./118265-ete.json) |
 | ​Gooseball Playdate: Plus Slingshot / Spars | 271699 | [271699-gooseball-playdate-plus-slingshot-spars.json](./271699-gooseball-playdate-plus-slingshot-spars.json) |
 | Île d'Or | 335517 | [335517-ile-dor.json](./335517-ile-dor.json) |
+| İnsignis | 334385 | [334385-insignis.json](./334385-insignis.json) |
 | ­Into the Deep Dark Green Sleep | 320018 | [320018-into-the-deep-dark-green-sleep.json](./320018-into-the-deep-dark-green-sleep.json) |
 | İstanbul Efsaneleri: Lale Savaşçıları | 50182 | [50182-istanbul-efsaneleri-lale-savasc-lar.json](./50182-istanbul-efsaneleri-lale-savasc-lar.json) |
 | İstanbul Kıyamet Vakti | 58900 | [58900-istanbul-k-yamet-vakti.json](./58900-istanbul-k-yamet-vakti.json) |
