@@ -7660,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestseller: Curse of the Golden Owl | 29506 | [29506-bestseller-curse-of-the-golden-owl.json](./29506-bestseller-curse-of-the-golden-owl.json) |
 | BeSwitched Magic Match 3 | 106472 | [106472-beswitched-magic-match-3.json](./106472-beswitched-magic-match-3.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
+| Bet on It | 397967 | [397967-bet-on-it.json](./397967-bet-on-it.json) |
 | Bet on Man | 114857 | [114857-bet-on-man.json](./114857-bet-on-man.json) |
 | Bet on Soldier: Black out Saigon | 52464 | [52464-bet-on-soldier-black-out-saigon.json](./52464-bet-on-soldier-black-out-saigon.json) |
 | Bet on Soldier: Blood of Sahara | 52463 | [52463-bet-on-soldier-blood-of-sahara.json](./52463-bet-on-soldier-blood-of-sahara.json) |
