@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoshiro Action: Ii Otona-tachi no Daibouken | 222251 | [222251-omoshiro-action-ii-otona-tachi-no-daibouken.json](./222251-omoshiro-action-ii-otona-tachi-no-daibouken.json) |
 | Omoshiro Sankaku Time Machine | 218224 | [218224-omoshiro-sankaku-time-machine.json](./218224-omoshiro-sankaku-time-machine.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
+| Omotesando Adventure | 124303 | [124303-omotesando-adventure.json](./124303-omotesando-adventure.json) |
 | OmoTomO | 147752 | [147752-omotomo.json](./147752-omotomo.json) |
 | OMSI 2 | 50232 | [50232-omsi-2.json](./50232-omsi-2.json) |
 | OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
@@ -3293,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
 | Oniken + Odallus Collection | 124320 | [124320-oniken-odallus-collection.json](./124320-oniken-odallus-collection.json) |
 | Oniken: Unstoppable Edition | 51861 | [51861-oniken-unstoppable-edition.json](./51861-oniken-unstoppable-edition.json) |
+| Oniken: Unstoppable Edition & Odallus: The Dark Call Collection | 124283 | [124283-oniken-unstoppable-edition-and-odallus-the-dark-call-collection.json](./124283-oniken-unstoppable-edition-and-odallus-the-dark-call-collection.json) |
 | Onikira: Demon Killer | 10642 | [10642-onikira-demon-killer.json](./10642-onikira-demon-killer.json) |
 | Oniko Kororin Game | 300928 | [300928-oniko-kororin-game.json](./300928-oniko-kororin-game.json) |
 | Onikura | 315189 | [315189-onikura.json](./315189-onikura.json) |
@@ -6504,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overstorm | 267498 | [267498-overstorm.json](./267498-overstorm.json) |
 | Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
+| OverTake: The Elite Challenge | 124295 | [124295-overtake-the-elite-challenge.json](./124295-overtake-the-elite-challenge.json) |
 | Overtake! | 248878 | [248878-overtake.json](./248878-overtake.json) |
 | Overtaking | 237584 | [237584-overtaking.json](./237584-overtaking.json) |
 | OverTask | 394956 | [394956-overtask.json](./394956-overtask.json) |
