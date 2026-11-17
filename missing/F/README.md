@@ -8706,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
 | Flee the Backrooms | 238744 | [238744-flee-the-backrooms.json](./238744-flee-the-backrooms.json) |
 | Flee the Fallen | 370307 | [370307-flee-the-fallen.json](./370307-flee-the-fallen.json) |
+| Flee, Fair Light! | 428244 | [428244-flee-fair-light.json](./428244-flee-fair-light.json) |
 | Flee, My Elven Ninja! 3D | 404698 | [404698-flee-my-elven-ninja-3d.json](./404698-flee-my-elven-ninja-3d.json) |
 | Fleece Lightning | 175392 | [175392-fleece-lightning.json](./175392-fleece-lightning.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
