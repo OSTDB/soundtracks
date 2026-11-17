@@ -9804,6 +9804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazons vs Zombies | 400592 | [400592-amazons-vs-zombies.json](./400592-amazons-vs-zombies.json) |
 | AmaZoo | 319927 | [319927-amazoo.json](./319927-amazoo.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
+| Ambardia | 146357 | [146357-ambardia.json](./146357-ambardia.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
 | Amber | 274806 | [274806-amber.json](./274806-amber.json) |
 | Amber & Amulets: A Gemporium Side Story | 420034 | [420034-amber-and-amulets-a-gemporium-side-story.json](./420034-amber-and-amulets-a-gemporium-side-story.json) |
@@ -13335,7 +13336,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment No.9: GxB Version | 179804 | [179804-apartment-no-9-gxb-version.json](./179804-apartment-no-9-gxb-version.json) |
 | Apartment of Death | 291504 | [291504-apartment-of-death.json](./291504-apartment-of-death.json) |
 | Apartment of Love | 83803 | [83803-apartment-of-love.json](./83803-apartment-of-love.json) |
-| Apartment Story | 314709 | [314709-apartment-story.json](./314709-apartment-story.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
 | Apartment: A Separated Place | 57948 | [57948-apartment-a-separated-place.json](./57948-apartment-a-separated-place.json) |
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
@@ -14230,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arat | 208207 | [208207-arat.json](./208207-arat.json) |
 | Arata Haunted Asylum | 216669 | [216669-arata-haunted-asylum.json](./216669-arata-haunted-asylum.json) |
 | Arauco Saga | 112672 | [112672-arauco-saga.json](./112672-arauco-saga.json) |
+| Arausio | 152435 | [152435-arausio.json](./152435-arausio.json) |
 | Araya | 23914 | [23914-araya.json](./23914-araya.json) |
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | ARB: Anomalous Research Bureau - Museum | 402499 | [402499-arb-anomalous-research-bureau-museum.json](./402499-arb-anomalous-research-bureau-museum.json) |
@@ -15148,6 +15149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Wilds | 237228 | [237228-arcane-wilds.json](./237228-arcane-wilds.json) |
 | Arcane Worlds | 16923 | [16923-arcane-worlds.json](./16923-arcane-worlds.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
+| Arcane: Online Mystery Serial | 145110 | [145110-arcane-online-mystery-serial.json](./145110-arcane-online-mystery-serial.json) |
 | Arcane: The Armor Collector | 62270 | [62270-arcane-the-armor-collector.json](./62270-arcane-the-armor-collector.json) |
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
 | ArcaneBound | 423283 | [423283-arcanebound.json](./423283-arcanebound.json) |
@@ -15709,6 +15711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Stars | 116694 | [116694-arena-stars.json](./116694-arena-stars.json) |
 | Arena Story: Rouge And Princess Knight | 239792 | [239792-arena-story-rouge-and-princess-knight.json](./239792-arena-story-rouge-and-princess-knight.json) |
 | Arena Survivors | 289796 | [289796-arena-survivors.json](./289796-arena-survivors.json) |
+| Arena Tactics | 152432 | [152432-arena-tactics.json](./152432-arena-tactics.json) |
 | Arena Tails | 275530 | [275530-arena-tails.json](./275530-arena-tails.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Trainer | 107036 | [107036-arena-trainer.json](./107036-arena-trainer.json) |
@@ -19399,6 +19402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
 | Athletics 2: Summer Sports | 87339 | [87339-athletics-2-summer-sports.json](./87339-athletics-2-summer-sports.json) |
 | Athletics 2: Winter Sports Pro | 86877 | [86877-athletics-2-winter-sports-pro.json](./86877-athletics-2-winter-sports-pro.json) |
+| Athletics 3: Summer Sports | 152434 | [152434-athletics-3-summer-sports.json](./152434-athletics-3-summer-sports.json) |
 | Athletics Championship | 252957 | [252957-athletics-championship.json](./252957-athletics-championship.json) |
 | Athletics Mania | 272442 | [272442-athletics-mania.json](./272442-athletics-mania.json) |
 | Athletics: Winter Sports | 88920 | [88920-athletics-winter-sports.json](./88920-athletics-winter-sports.json) |
@@ -19434,6 +19438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis | 64734 | [64734-atlantis.json](./64734-atlantis.json) |
 | Atlantis 2: Beyond Atlantis | 11094 | [11094-atlantis-2-beyond-atlantis.json](./11094-atlantis-2-beyond-atlantis.json) |
 | Atlantis Academy | 245813 | [245813-atlantis-academy.json](./245813-atlantis-academy.json) |
+| Atlantis Adventure VR | 147533 | [147533-atlantis-adventure-vr.json](./147533-atlantis-adventure-vr.json) |
 | Atlantis Adventures | 361992 | [361992-atlantis-adventures.json](./361992-atlantis-adventures.json) |
 | Atlantis Fantasy: Reborn | 403610 | [403610-atlantis-fantasy-reborn.json](./403610-atlantis-fantasy-reborn.json) |
 | Atlantis II | 40779 | [40779-atlantis-ii.json](./40779-atlantis-ii.json) |
