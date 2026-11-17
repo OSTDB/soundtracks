@@ -2554,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bàoxiào Sānguó | 92605 | [92605-baoxiao-sanguo.json](./92605-baoxiao-sanguo.json) |
 | Bapbap | 186656 | [186656-bapbap.json](./186656-bapbap.json) |
 | Baphomet | 275949 | [275949-baphomet.json](./275949-baphomet.json) |
+| Baphomet | 422941 | [422941-baphomet.json](./422941-baphomet.json) |
 | Baphomet: Eternal Flame | 244938 | [244938-baphomet-eternal-flame.json](./244938-baphomet-eternal-flame.json) |
 | Baphomet's Satellite | 262273 | [262273-baphomets-satellite.json](./262273-baphomets-satellite.json) |
 | Baptism | 75922 | [75922-baptism.json](./75922-baptism.json) |
@@ -6592,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become Castellane in Another World | 290501 | [290501-become-castellane-in-another-world.json](./290501-become-castellane-in-another-world.json) |
 | Become Deity | 359544 | [359544-become-deity.json](./359544-become-deity.json) |
 | Become Dirt | 276746 | [276746-become-dirt.json](./276746-become-dirt.json) |
+| Become Life | 422957 | [422957-become-life.json](./422957-become-life.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Become The Devil | 323484 | [323484-become-the-devil.json](./323484-become-the-devil.json) |
 | Become The Moon | 290104 | [290104-become-the-moon.json](./290104-become-the-moon.json) |
@@ -19498,6 +19500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build My Arcade | 412949 | [412949-build-my-arcade.json](./412949-build-my-arcade.json) |
 | Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
 | Build Scrap | 340548 | [340548-build-scrap.json](./340548-build-scrap.json) |
+| Build Survivors | 422961 | [422961-build-survivors.json](./422961-build-survivors.json) |
 | Build the Bridge | 286638 | [286638-build-the-bridge.json](./286638-build-the-bridge.json) |
 | Build the Great Temple: Dora Dora Land | 401912 | [401912-build-the-great-temple-dora-dora-land.json](./401912-build-the-great-temple-dora-dora-land.json) |
 | Build the Hole | 415336 | [415336-build-the-hole.json](./415336-build-the-hole.json) |
