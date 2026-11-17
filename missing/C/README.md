@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caball: Sunset Hour | 332366 | [332366-caball-sunset-hour.json](./332366-caball-sunset-hour.json) |
 | Cabals: Card Blitz | 30330 | [30330-cabals-card-blitz.json](./30330-cabals-card-blitz.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
+| Cabaret 4 Card | 159925 | [159925-cabaret-4-card.json](./159925-cabaret-4-card.json) |
 | Cabbage | 176033 | [176033-cabbage.json](./176033-cabbage.json) |
 | Cabbage Crop | 290838 | [290838-cabbage-crop.json](./290838-cabbage-crop.json) |
 | Cabbage Patch Kids | 311019 | [311019-cabbage-patch-kids.json](./311019-cabbage-patch-kids.json) |
@@ -9522,6 +9523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Cruiser | 388332 | [388332-chromatic-cruiser.json](./388332-chromatic-cruiser.json) |
 | Chromatic Dragon Pattern Perception | 397456 | [397456-chromatic-dragon-pattern-perception.json](./397456-chromatic-dragon-pattern-perception.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
+| Chromatic Fantasy | 159942 | [159942-chromatic-fantasy.json](./159942-chromatic-fantasy.json) |
 | Chromatic Isle | 275740 | [275740-chromatic-isle.json](./275740-chromatic-isle.json) |
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
 | Chromatic Memories | 291894 | [291894-chromatic-memories.json](./291894-chromatic-memories.json) |
@@ -20885,6 +20887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruel Arena | 34967 | [34967-cruel-arena.json](./34967-cruel-arena.json) |
 | Cruel Bands Career | 121990 | [121990-cruel-bands-career.json](./121990-cruel-bands-career.json) |
 | Cruel Collections: The Any Wish Hotel | 417719 | [417719-cruel-collections-the-any-wish-hotel.json](./417719-cruel-collections-the-any-wish-hotel.json) |
+| Cruel Galaxy: Discordia | 159896 | [159896-cruel-galaxy-discordia.json](./159896-cruel-galaxy-discordia.json) |
 | Cruel Games: Red Riding Hood | 52338 | [52338-cruel-games-red-riding-hood.json](./52338-cruel-games-red-riding-hood.json) |
 | Cruel Jewels | 261327 | [261327-cruel-jewels.json](./261327-cruel-jewels.json) |
 | Cruel Reality: A Horrible Dream | 249868 | [249868-cruel-reality-a-horrible-dream.json](./249868-cruel-reality-a-horrible-dream.json) |
@@ -22472,6 +22475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curfew | 259148 | [259148-curfew.json](./259148-curfew.json) |
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
 | Curilemu | 305090 | [305090-curilemu.json](./305090-curilemu.json) |
+| Curing Covid | 159913 | [159913-curing-covid.json](./159913-curing-covid.json) |
 | Curio Compendium | 358643 | [358643-curio-compendium.json](./358643-curio-compendium.json) |
 | Curio Quest | 102027 | [102027-curio-quest.json](./102027-curio-quest.json) |
 | Curio Shop | 400821 | [400821-curio-shop.json](./400821-curio-shop.json) |
@@ -23235,6 +23239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
 | Cyber Daisenryaku | 69002 | [69002-cyber-daisenryaku.json](./69002-cyber-daisenryaku.json) |
 | Cyber Danganronpa VR: The Class Trial | 54622 | [54622-cyber-danganronpa-vr-the-class-trial.json](./54622-cyber-danganronpa-vr-the-class-trial.json) |
+| Cyber Defense | 159906 | [159906-cyber-defense.json](./159906-cyber-defense.json) |
 | Cyber Defense 2088 | 154896 | [154896-cyber-defense-2088.json](./154896-cyber-defense-2088.json) |
 | Cyber Detective | 244570 | [244570-cyber-detective.json](./244570-cyber-detective.json) |
 | Cyber Diver | 176721 | [176721-cyber-diver.json](./176721-cyber-diver.json) |
