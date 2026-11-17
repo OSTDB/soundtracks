@@ -12392,6 +12392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Battle Chronicle | 66596 | [66596-gundam-battle-chronicle.json](./66596-gundam-battle-chronicle.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Battle Operation Next | 44538 | [44538-gundam-battle-operation-next.json](./44538-gundam-battle-operation-next.json) |
+| Gundam Battle Royale | 72879 | [72879-gundam-battle-royale.json](./72879-gundam-battle-royale.json) |
 | Gundam Battle Tactics | 42717 | [42717-gundam-battle-tactics.json](./42717-gundam-battle-tactics.json) |
 | Gundam Battle Universe | 72752 | [72752-gundam-battle-universe.json](./72752-gundam-battle-universe.json) |
 | Gundam Battle: Gunpla Warfare | 120305 | [120305-gundam-battle-gunpla-warfare.json](./120305-gundam-battle-gunpla-warfare.json) |
