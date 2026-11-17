@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.Hack//G.U. Vol1 | 124282 | [124282-e-hack-g-u-vol1.json](./124282-e-hack-g-u-vol1.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.R.: The Game | 19857 | [19857-e-r-the-game.json](./19857-e-r-the-game.json) |
+| E.S.D.E. | 425951 | [425951-e-s-d-e.json](./425951-e-s-d-e.json) |
 | E.S.O: Don't Forget | 398069 | [398069-e-s-o-dont-forget.json](./398069-e-s-o-dont-forget.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
@@ -1893,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggsplosion | 145202 | [145202-eggsplosion.json](./145202-eggsplosion.json) |
 | Eggsplosion | 304284 | [304284-eggsplosion.json](./304284-eggsplosion.json) |
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
+| Eggstra Tidy | 425925 | [425925-eggstra-tidy.json](./425925-eggstra-tidy.json) |
 | Eggstraction | 294300 | [294300-eggstraction.json](./294300-eggstraction.json) |
 | Eggstraordinary Goose Chase | 348002 | [348002-eggstraordinary-goose-chase.json](./348002-eggstraordinary-goose-chase.json) |
 | Eggstreme Farming | 416949 | [416949-eggstreme-farming.json](./416949-eggstreme-farming.json) |
