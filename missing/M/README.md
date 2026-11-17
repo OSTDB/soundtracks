@@ -10574,6 +10574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Wings: The False Phoenix | 104789 | [104789-mercenaries-wings-the-false-phoenix.json](./104789-mercenaries-wings-the-false-phoenix.json) |
 | Mercenaries: 4th Generation Warfare | 212677 | [212677-mercenaries-4th-generation-warfare.json](./212677-mercenaries-4th-generation-warfare.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
+| Mercenaries: Recompiled | 420452 | [420452-mercenaries-recompiled.json](./420452-mercenaries-recompiled.json) |
 | Mercenary | 15499 | [15499-mercenary.json](./15499-mercenary.json) |
 | Mercenary Battle Company: The Reapers | 286706 | [286706-mercenary-battle-company-the-reapers.json](./286706-mercenary-battle-company-the-reapers.json) |
 | Mercenary Battlegrounds | 328845 | [328845-mercenary-battlegrounds.json](./328845-mercenary-battlegrounds.json) |
