@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandonment | 114259 | [114259-abandonment.json](./114259-abandonment.json) |
 | Abandonware | 256380 | [256380-abandonware.json](./256380-abandonware.json) |
 | Abarehateta Byouin kara no Dasshutsu | 279198 | [279198-abarehateta-byouin-kara-no-dasshutsu.json](./279198-abarehateta-byouin-kara-no-dasshutsu.json) |
+| Abarenbo Tengu & Zombie Nation | 172796 | [172796-abarenbo-tengu-and-zombie-nation.json](./172796-abarenbo-tengu-and-zombie-nation.json) |
 | Abarenbou Princess | 64885 | [64885-abarenbou-princess.json](./64885-abarenbou-princess.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
@@ -16940,6 +16941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Teacher Trouble | 269997 | [269997-arthurs-teacher-trouble.json](./269997-arthurs-teacher-trouble.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
 | Arthurian Legends | 14444 | [14444-arthurian-legends.json](./14444-arthurian-legends.json) |
+| Arthurian Legends | 174382 | [174382-arthurian-legends.json](./174382-arthurian-legends.json) |
 | Articrafty | 329860 | [329860-articrafty.json](./329860-articrafty.json) |
 | Artifact | 288042 | [288042-artifact.json](./288042-artifact.json) |
 | Artifact | 54572 | [54572-artifact.json](./54572-artifact.json) |
@@ -19492,6 +19494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atoll: The Last Ghost | 186644 | [186644-atoll-the-last-ghost.json](./186644-atoll-the-last-ghost.json) |
 | Atolladero | 275208 | [275208-atolladero.json](./275208-atolladero.json) |
 | Atollo | 349731 | [349731-atollo.json](./349731-atollo.json) |
+| Atom | 171114 | [171114-atom.json](./171114-atom.json) |
 | Atom | 245285 | [245285-atom.json](./245285-atom.json) |
 | Atom | 42154 | [42154-atom.json](./42154-atom.json) |
 | Atom Ant | 13346 | [13346-atom-ant.json](./13346-atom-ant.json) |
