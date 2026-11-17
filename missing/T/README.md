@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Planet: Final Bite | 384906 | [384906-tasty-planet-final-bite.json](./384906-tasty-planet-final-bite.json) |
 | Tasty Shafts | 128402 | [128402-tasty-shafts.json](./128402-tasty-shafts.json) |
+| Tasty Shame in Silver Soul! | 107458 | [107458-tasty-shame-in-silver-soul.json](./107458-tasty-shame-in-silver-soul.json) |
 | Tasty Slot Machine | 242552 | [242552-tasty-slot-machine.json](./242552-tasty-slot-machine.json) |
 | Tasty Static | 216166 | [216166-tasty-static.json](./216166-tasty-static.json) |
 | Tasty Tadpoles | 175100 | [175100-tasty-tadpoles.json](./175100-tasty-tadpoles.json) |
@@ -5580,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrix 3D | 165926 | [165926-tetrix-3d.json](./165926-tetrix-3d.json) |
 | Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
 | Tetrocombat | 260598 | [260598-tetrocombat.json](./260598-tetrocombat.json) |
+| TetroCrate | 107316 | [107316-tetrocrate.json](./107316-tetrocrate.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetrogue Dragons | 164266 | [164266-tetrogue-dragons.json](./164266-tetrogue-dragons.json) |
 | Tetroi | 319535 | [319535-tetroi.json](./319535-tetroi.json) |
@@ -10672,6 +10674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Valentine | 332165 | [332165-the-first-valentine.json](./332165-the-first-valentine.json) |
 | The Fish | 213777 | [213777-the-fish.json](./213777-the-fish.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
+| The Fish Catching Master | 107279 | [107279-the-fish-catching-master.json](./107279-the-fish-catching-master.json) |
 | The Fish Files | 50037 | [50037-the-fish-files.json](./50037-the-fish-files.json) |
 | The Fish Fillets 2 | 9841 | [9841-the-fish-fillets-2.json](./9841-the-fish-fillets-2.json) |
 | The Fish Market | 128728 | [128728-the-fish-market.json](./128728-the-fish-market.json) |
@@ -29012,6 +29015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Familjen | 55687 | [55687-torn-familjen.json](./55687-torn-familjen.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
+| Torn Tales: Rebound Edition | 107308 | [107308-torn-tales-rebound-edition.json](./107308-torn-tales-rebound-edition.json) |
 | Torn Veil | 346270 | [346270-torn-veil.json](./346270-torn-veil.json) |
 | Tornado | 116598 | [116598-tornado.json](./116598-tornado.json) |
 | Tornado | 145315 | [145315-tornado.json](./145315-tornado.json) |
@@ -34105,6 +34109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Masters, Inc. | 24771 | [24771-treasure-masters-inc.json](./24771-treasure-masters-inc.json) |
 | Treasure Masters, Inc.: The Lost City | 54180 | [54180-treasure-masters-inc-the-lost-city.json](./54180-treasure-masters-inc-the-lost-city.json) |
 | Treasure MathStorm! | 73996 | [73996-treasure-mathstorm.json](./73996-treasure-mathstorm.json) |
+| Treasure Miner | 106187 | [106187-treasure-miner.json](./106187-treasure-miner.json) |
 | Treasure Mole: Winter Vacation | 73897 | [73897-treasure-mole-winter-vacation.json](./73897-treasure-mole-winter-vacation.json) |
 | Treasure Mountain | 254658 | [254658-treasure-mountain.json](./254658-treasure-mountain.json) |
 | Treasure of a Blizzard | 31921 | [31921-treasure-of-a-blizzard.json](./31921-treasure-of-a-blizzard.json) |
@@ -35327,6 +35332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropic Island | 289758 | [289758-tropic-island.json](./289758-tropic-island.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
 | Tropic Jim's Sweet Island Adventure | 233132 | [233132-tropic-jims-sweet-island-adventure.json](./233132-tropic-jims-sweet-island-adventure.json) |
+| Tropic Trouble | 106188 | [106188-tropic-trouble.json](./106188-tropic-trouble.json) |
 | Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
 | Tropical | 214261 | [214261-tropical.json](./214261-tropical.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
