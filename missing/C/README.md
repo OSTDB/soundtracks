@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Crawl | 56112 | [56112-card-crawl.json](./56112-card-crawl.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crawl Adventure | 212613 | [212613-card-crawl-adventure.json](./212613-card-crawl-adventure.json) |
+| Card Crazy 2 | 206829 | [206829-card-crazy-2.json](./206829-card-crazy-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
 | Card Cultivation: Nine Palaces Illusory Realm | 297916 | [297916-card-cultivation-nine-palaces-illusory-realm.json](./297916-card-cultivation-nine-palaces-illusory-realm.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card of Spirits | 32439 | [32439-card-of-spirits.json](./32439-card-of-spirits.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
 | Card Party Showdown | 405903 | [405903-card-party-showdown.json](./405903-card-party-showdown.json) |
+| Card Players Paradise | 206830 | [206830-card-players-paradise.json](./206830-card-players-paradise.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
 | Card Quest | 301976 | [301976-card-quest.json](./301976-card-quest.json) |
 | Card Quest | 32328 | [32328-card-quest.json](./32328-card-quest.json) |
@@ -2833,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Sagas Wars | 136563 | [136563-card-sagas-wars.json](./136563-card-sagas-wars.json) |
 | Card Scramble: Viola's Diner | 354966 | [354966-card-scramble-violas-diner.json](./354966-card-scramble-violas-diner.json) |
 | Card Shark | 136773 | [136773-card-shark.json](./136773-card-shark.json) |
+| Card Shark | 206831 | [206831-card-shark.json](./206831-card-shark.json) |
 | Card Shark Solitaire | 88827 | [88827-card-shark-solitaire.json](./88827-card-shark-solitaire.json) |
 | Card Shark: Deluxe Edition | 203686 | [203686-card-shark-deluxe-edition.json](./203686-card-shark-deluxe-edition.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
@@ -3068,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards We're Dealt | 244741 | [244741-cards-were-dealt.json](./244741-cards-were-dealt.json) |
 | Cards with Personalities | 182661 | [182661-cards-with-personalities.json](./182661-cards-with-personalities.json) |
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
+| Cards, Mahjongg, & Solitaire | 206832 | [206832-cards-mahjongg-and-solitaire.json](./206832-cards-mahjongg-and-solitaire.json) |
 | Cards, the Universe and Everything | 379187 | [379187-cards-the-universe-and-everything.json](./379187-cards-the-universe-and-everything.json) |
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
 | Cards! | 338492 | [338492-cards.json](./338492-cards.json) |
@@ -3327,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Roulette | 384244 | [384244-carnival-roulette.json](./384244-carnival-roulette.json) |
 | Carnival Survivors The Parade | 265377 | [265377-carnival-survivors-the-parade.json](./265377-carnival-survivors-the-parade.json) |
 | Carnival VR Orientation | 150395 | [150395-carnival-vr-orientation.json](./150395-carnival-vr-orientation.json) |
+| Carnivalé | 206835 | [206835-carnivale.json](./206835-carnivale.json) |
 | Carnivalé: Cenzo's Adventure | 238880 | [238880-carnivale-cenzos-adventure.json](./238880-carnivale-cenzos-adventure.json) |
 | Carnivore Land | 34547 | [34547-carnivore-land.json](./34547-carnivore-land.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
@@ -3340,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
 | Carnivores: Dinosaur Hunter Reborn | 17236 | [17236-carnivores-dinosaur-hunter-reborn.json](./17236-carnivores-dinosaur-hunter-reborn.json) |
 | Carnivores: Ice Age | 20566 | [20566-carnivores-ice-age.json](./20566-carnivores-ice-age.json) |
+| Carnivorous | 206837 | [206837-carnivorous.json](./206837-carnivorous.json) |
 | Carnor City | 417417 | [417417-carnor-city.json](./417417-carnor-city.json) |
 | Carnosis | 414556 | [414556-carnosis.json](./414556-carnosis.json) |
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
@@ -3399,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carreta Furacão: The Legend | 253742 | [253742-carreta-furacao-the-legend.json](./253742-carreta-furacao-the-legend.json) |
 | Carriages | 420477 | [420477-carriages.json](./420477-carriages.json) |
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
+| Carrie the Caregiver: Episode 2 - Preschool | 206838 | [206838-carrie-the-caregiver-episode-2-preschool.json](./206838-carrie-the-caregiver-episode-2-preschool.json) |
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
 | Carried Away: Winter Sports | 84049 | [84049-carried-away-winter-sports.json](./84049-carried-away-winter-sports.json) |
 | Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
@@ -4314,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Collections Bundle | 319328 | [319328-castlevania-collections-bundle.json](./319328-castlevania-collections-bundle.json) |
 | Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
 | Castlevania Double Pack | 22575 | [22575-castlevania-double-pack.json](./22575-castlevania-double-pack.json) |
+| Castlevania Fighter | 206847 | [206847-castlevania-fighter.json](./206847-castlevania-fighter.json) |
 | Castlevania II English Re-Translation (+Map) | 364173 | [364173-castlevania-ii-english-re-translation-map.json](./364173-castlevania-ii-english-re-translation-map.json) |
 | Castlevania II SNES Port | 377727 | [377727-castlevania-ii-snes-port.json](./377727-castlevania-ii-snes-port.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
@@ -20479,6 +20487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossfire: Sierra Squad | 229351 | [229351-crossfire-sierra-squad.json](./229351-crossfire-sierra-squad.json) |
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
 | CrossfireX | 119307 | [119307-crossfirex.json](./119307-crossfirex.json) |
+| CrossfireX: Operation Catalyst | 206884 | [206884-crossfirex-operation-catalyst.json](./206884-crossfirex-operation-catalyst.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
 | Crossgrams | 113250 | [113250-crossgrams.json](./113250-crossgrams.json) |
 | CrossGunr | 280461 | [280461-crossgunr.json](./280461-crossgunr.json) |
@@ -23426,6 +23435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberbykes: Shadow Racer VR | 71828 | [71828-cyberbykes-shadow-racer-vr.json](./71828-cyberbykes-shadow-racer-vr.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberception | 132482 | [132482-cyberception.json](./132482-cyberception.json) |
+| Cyberchase: Carnival Chaos | 206834 | [206834-cyberchase-carnival-chaos.json](./206834-cyberchase-carnival-chaos.json) |
 | Cyberchase: Castleblanca Quest | 73197 | [73197-cyberchase-castleblanca-quest.json](./73197-cyberchase-castleblanca-quest.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
