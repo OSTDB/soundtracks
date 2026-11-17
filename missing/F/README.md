@@ -11505,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forks & Daggers | 380676 | [380676-forks-and-daggers.json](./380676-forks-and-daggers.json) |
 | Forkscythe | 231008 | [231008-forkscythe.json](./231008-forkscythe.json) |
 | Forlands | 303183 | [303183-forlands.json](./303183-forlands.json) |
+| Forlorn | 198858 | [198858-forlorn.json](./198858-forlorn.json) |
 | Forlorn | 273555 | [273555-forlorn.json](./273555-forlorn.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
 | Forlorn Manor | 383202 | [383202-forlorn-manor.json](./383202-forlorn-manor.json) |
@@ -14078,6 +14079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger 3D | 6772 | [6772-frogger-3d.json](./6772-frogger-3d.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
 | Frogger Advance: The Great Quest | 6412 | [6412-frogger-advance-the-great-quest.json](./6412-frogger-advance-the-great-quest.json) |
+| Frogger and the Rumbling Ruins | 203454 | [203454-frogger-and-the-rumbling-ruins.json](./203454-frogger-and-the-rumbling-ruins.json) |
 | Frogger Arcade Game | 96929 | [96929-frogger-arcade-game.json](./96929-frogger-arcade-game.json) |
 | Frogger Beyond | 3922 | [3922-frogger-beyond.json](./3922-frogger-beyond.json) |
 | Frogger Decades | 11476 | [11476-frogger-decades.json](./11476-frogger-decades.json) |
