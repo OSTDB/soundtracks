@@ -5354,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath 1945 | 112083 | [112083-aftermath-1945.json](./112083-aftermath-1945.json) |
 | Aftermath Y2K | 41900 | [41900-aftermath-y2k.json](./41900-aftermath-y2k.json) |
 | Aftermath Z: Red Pine Lake | 380638 | [380638-aftermath-z-red-pine-lake.json](./380638-aftermath-z-red-pine-lake.json) |
+| Aftermath: Bunker Trader | 423477 | [423477-aftermath-bunker-trader.json](./423477-aftermath-bunker-trader.json) |
 | Aftermath: The Cold War | 423627 | [423627-aftermath-the-cold-war.json](./423627-aftermath-the-cold-war.json) |
 | Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
@@ -17578,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashwood Conspiracy | 336696 | [336696-ashwood-conspiracy.json](./336696-ashwood-conspiracy.json) |
 | Ashwood Valley | 344121 | [344121-ashwood-valley.json](./344121-ashwood-valley.json) |
 | Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
+| Ashworth | 423510 | [423510-ashworth.json](./423510-ashworth.json) |
 | Ashzel & The Power Dagger | 203602 | [203602-ashzel-and-the-power-dagger.json](./203602-ashzel-and-the-power-dagger.json) |
 | Asia Empire 2027 | 219197 | [219197-asia-empire-2027.json](./219197-asia-empire-2027.json) |
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
@@ -20195,6 +20197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austerity X | 407587 | [407587-austerity-x.json](./407587-austerity-x.json) |
 | Austerlitz | 11925 | [11925-austerlitz.json](./11925-austerlitz.json) |
 | Austerlitz: Napoleon's Greatest Victory | 71954 | [71954-austerlitz-napoleons-greatest-victory.json](./71954-austerlitz-napoleons-greatest-victory.json) |
+| Austin Lost in Maze | 423532 | [423532-austin-lost-in-maze.json](./423532-austin-lost-in-maze.json) |
 | Austin Mini Racing | 90933 | [90933-austin-mini-racing.json](./90933-austin-mini-racing.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers Pinball | 45085 | [45085-austin-powers-pinball.json](./45085-austin-powers-pinball.json) |
