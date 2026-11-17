@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaspar i Nudådalen | 297547 | [297547-kaspar-i-nudadalen.json](./297547-kaspar-i-nudadalen.json) |
 | Kasparov Chessmate | 23528 | [23528-kasparov-chessmate.json](./23528-kasparov-chessmate.json) |
 | Kasparov's Gambit | 47114 | [47114-kasparovs-gambit.json](./47114-kasparovs-gambit.json) |
+| Kasperia Arena | 421693 | [421693-kasperia-arena.json](./421693-kasperia-arena.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Kassei: Road Cycling | 320651 | [320651-kassei-road-cycling.json](./320651-kassei-road-cycling.json) |
 | Kassei: Road Cycling - Next Season | 410020 | [410020-kassei-road-cycling-next-season.json](./410020-kassei-road-cycling-next-season.json) |
@@ -1736,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Light | 190407 | [190407-keep-light.json](./190407-keep-light.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Looking | 320582 | [320582-keep-looking.json](./320582-keep-looking.json) |
+| Keep Making Games | 421698 | [421698-keep-making-games.json](./421698-keep-making-games.json) |
 | Keep Me Breathing | 176988 | [176988-keep-me-breathing.json](./176988-keep-me-breathing.json) |
 | Keep Me Burning | 181715 | [181715-keep-me-burning.json](./181715-keep-me-burning.json) |
 | Keep Me Gifted | 346465 | [346465-keep-me-gifted.json](./346465-keep-me-gifted.json) |
@@ -5570,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koa: The Forgotten Gods | 210812 | [210812-koa-the-forgotten-gods.json](./210812-koa-the-forgotten-gods.json) |
 | Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
 | Koakuma Nurse no Itazura Karte: Kangoshi Kanojo to no Dousei Seikatsu | 402718 | [402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json](./402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json) |
+| Koakuma-chan no Yuuwaku! | 421702 | [421702-koakuma-chan-no-yuuwaku.json](./421702-koakuma-chan-no-yuuwaku.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
 | Koala Kids Golf | 368740 | [368740-koala-kids-golf.json](./368740-koala-kids-golf.json) |
 | Koala Lumpur: Journey to the Edge | 6736 | [6736-koala-lumpur-journey-to-the-edge.json](./6736-koala-lumpur-journey-to-the-edge.json) |
