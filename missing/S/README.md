@@ -10046,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shisya 2: Ghost Video | 308889 | [308889-shisya-2-ghost-video.json](./308889-shisya-2-ghost-video.json) |
 | Shit 3 | 177699 | [177699-shit-3.json](./177699-shit-3.json) |
 | Shit Clicker | 236484 | [236484-shit-clicker.json](./236484-shit-clicker.json) |
+| Shit Country Sweeper | 180734 | [180734-shit-country-sweeper.json](./180734-shit-country-sweeper.json) |
 | Shit Slam II | 372111 | [372111-shit-slam-ii.json](./372111-shit-slam-ii.json) |
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shit!! | 79214 | [79214-shit.json](./79214-shit.json) |
@@ -14751,6 +14752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk: Super Slams | 130584 | [130584-slam-dunk-super-slams.json](./130584-slam-dunk-super-slams.json) |
 | Slam Dunk: Yonkyou Gekitotsu!! | 65425 | [65425-slam-dunk-yonkyou-gekitotsu.json](./65425-slam-dunk-yonkyou-gekitotsu.json) |
 | Slam Fighter II | 75172 | [75172-slam-fighter-ii.json](./75172-slam-fighter-ii.json) |
+| Slam Jam Bakery | 180721 | [180721-slam-jam-bakery.json](./180721-slam-jam-bakery.json) |
 | Slam Jump | 250182 | [250182-slam-jump.json](./250182-slam-jump.json) |
 | Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
 | Slam Mania | 233163 | [233163-slam-mania.json](./233163-slam-mania.json) |
@@ -16229,6 +16231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Balls 2 | 395770 | [395770-smash-balls-2.json](./395770-smash-balls-2.json) |
 | Smash Bandits Racing | 174727 | [174727-smash-bandits-racing.json](./174727-smash-bandits-racing.json) |
 | Smash Bash Crash | 81134 | [81134-smash-bash-crash.json](./81134-smash-bash-crash.json) |
+| Smash Bash: Date with the Desert | 180321 | [180321-smash-bash-date-with-the-desert.json](./180321-smash-bash-date-with-the-desert.json) |
 | Smash Bear | 294939 | [294939-smash-bear.json](./294939-smash-bear.json) |
 | Smash Boats | 147677 | [147677-smash-boats.json](./147677-smash-boats.json) |
 | Smash Boats: Waterlogged Edition | 213658 | [213658-smash-boats-waterlogged-edition.json](./213658-smash-boats-waterlogged-edition.json) |
@@ -16738,6 +16741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob 6: Winter Story | 248188 | [248188-snail-bob-6-winter-story.json](./248188-snail-bob-6-winter-story.json) |
 | Snail Bob 7: Fantasy Story | 248189 | [248189-snail-bob-7-fantasy-story.json](./248189-snail-bob-7-fantasy-story.json) |
 | Snail Bob 8: Island Story | 102024 | [102024-snail-bob-8-island-story.json](./102024-snail-bob-8-island-story.json) |
+| Snail Dating | 180320 | [180320-snail-dating.json](./180320-snail-dating.json) |
 | Snail Detective | 116008 | [116008-snail-detective.json](./116008-snail-detective.json) |
 | Snail Juice | 295585 | [295585-snail-juice.json](./295585-snail-juice.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
@@ -17136,6 +17140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snek | 344698 | [344698-snek.json](./344698-snek.json) |
 | Snek | 408642 | [408642-snek.json](./408642-snek.json) |
 | Snekburd | 342255 | [342255-snekburd.json](./342255-snekburd.json) |
+| Snekman | 180745 | [180745-snekman.json](./180745-snekman.json) |
 | Snekmek | 327720 | [327720-snekmek.json](./327720-snekmek.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
@@ -25554,6 +25559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
 | Spooky Walking Simulator | 400425 | [400425-spooky-walking-simulator.json](./400425-spooky-walking-simulator.json) |
 | Spooky Waltz | 198106 | [198106-spooky-waltz.json](./198106-spooky-waltz.json) |
+| Spooky Zombies | 180326 | [180326-spooky-zombies.json](./180326-spooky-zombies.json) |
 | Spooky's Jump Scare Mansion | 35577 | [35577-spookys-jump-scare-mansion.json](./35577-spookys-jump-scare-mansion.json) |
 | Spooky's Jump Scare Mansion: HD Renovation | 29842 | [29842-spookys-jump-scare-mansion-hd-renovation.json](./29842-spookys-jump-scare-mansion-hd-renovation.json) |
 | Spooky's Jump Scare Mansion: Karamari Hospital | 131709 | [131709-spookys-jump-scare-mansion-karamari-hospital.json](./131709-spookys-jump-scare-mansion-karamari-hospital.json) |
@@ -27903,6 +27909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Empire Strikes Back | 134209 | [134209-star-wars-the-empire-strikes-back.json](./134209-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 5706 | [5706-star-wars-the-empire-strikes-back.json](./5706-star-wars-the-empire-strikes-back.json) |
+| Star Wars: The Fighter II | 180723 | [180723-star-wars-the-fighter-ii.json](./180723-star-wars-the-fighter-ii.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 198108 | [198108-star-wars-the-force-unleashed.json](./198108-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 199822 | [199822-star-wars-the-force-unleashed.json](./199822-star-wars-the-force-unleashed.json) |
@@ -29431,6 +29438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamWorld Dig 2 | 27433 | [27433-steamworld-dig-2.json](./27433-steamworld-dig-2.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | Steamworld Essentials Collection | 380702 | [380702-steamworld-essentials-collection.json](./380702-steamworld-essentials-collection.json) |
+| SteamWorld Headhunter | 180727 | [180727-steamworld-headhunter.json](./180727-steamworld-headhunter.json) |
 | SteamWorld Heist | 15167 | [15167-steamworld-heist.json](./15167-steamworld-heist.json) |
 | SteamWorld Heist Complete Bundle | 308627 | [308627-steamworld-heist-complete-bundle.json](./308627-steamworld-heist-complete-bundle.json) |
 | SteamWorld Heist II & SteamWorld Build Bundle | 328483 | [328483-steamworld-heist-ii-and-steamworld-build-bundle.json](./328483-steamworld-heist-ii-and-steamworld-build-bundle.json) |
