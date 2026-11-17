@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark as Blood | 298508 | [298508-dark-as-blood.json](./298508-dark-as-blood.json) |
 | Dark Ascent | 310339 | [310339-dark-ascent.json](./310339-dark-ascent.json) |
 | Dark Assassin: Trial Chambers | 339363 | [339363-dark-assassin-trial-chambers.json](./339363-dark-assassin-trial-chambers.json) |
+| Dark Asteroids | 164104 | [164104-dark-asteroids.json](./164104-dark-asteroids.json) |
 | Dark Astral | 263042 | [263042-dark-astral.json](./263042-dark-astral.json) |
 | Dark Asylum: Mystery Adventure | 109331 | [109331-dark-asylum-mystery-adventure.json](./109331-dark-asylum-mystery-adventure.json) |
 | Dark Atlas: Infernum | 213434 | [213434-dark-atlas-infernum.json](./213434-dark-atlas-infernum.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Eternal | 150312 | [150312-darkness-eternal.json](./150312-darkness-eternal.json) |
 | Darkness Flaw | 262286 | [262286-darkness-flaw.json](./262286-darkness-flaw.json) |
 | Darkness Has Eyes | 406857 | [406857-darkness-has-eyes.json](./406857-darkness-has-eyes.json) |
+| Darkness Hero Rance | 165183 | [165183-darkness-hero-rance.json](./165183-darkness-hero-rance.json) |
 | Darkness Hour | 116159 | [116159-darkness-hour.json](./116159-darkness-hour.json) |
 | Darkness Inside | 212119 | [212119-darkness-inside.json](./212119-darkness-inside.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
@@ -9013,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
 | Detective Turtletop: Who Killed Harambe? | 393197 | [393197-detective-turtletop-who-killed-harambe.json](./393197-detective-turtletop-who-killed-harambe.json) |
+| Detective Tycoon | 165082 | [165082-detective-tycoon.json](./165082-detective-tycoon.json) |
 | Detective VR | 360772 | [360772-detective-vr.json](./360772-detective-vr.json) |
 | Detective VR: NFT Secret Files | 168114 | [168114-detective-vr-nft-secret-files.json](./168114-detective-vr-nft-secret-files.json) |
 | Detective Worden | 358876 | [358876-detective-worden.json](./358876-detective-worden.json) |
@@ -16550,6 +16553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2019 | 111938 | [111938-draft-day-sports-pro-football-2019.json](./111938-draft-day-sports-pro-football-2019.json) |
 | Draft Day Sports: Pro Football 2020 | 121114 | [121114-draft-day-sports-pro-football-2020.json](./121114-draft-day-sports-pro-football-2020.json) |
 | Draft Day Sports: Pro Football 2021 | 137809 | [137809-draft-day-sports-pro-football-2021.json](./137809-draft-day-sports-pro-football-2021.json) |
+| Draft Day Sports: Pro Football 2022 | 165102 | [165102-draft-day-sports-pro-football-2022.json](./165102-draft-day-sports-pro-football-2022.json) |
 | Draft Day Sports: Pro Football 2023 | 220361 | [220361-draft-day-sports-pro-football-2023.json](./220361-draft-day-sports-pro-football-2023.json) |
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
 | Draft Day Sports: Pro Football 26 | 375899 | [375899-draft-day-sports-pro-football-26.json](./375899-draft-day-sports-pro-football-26.json) |
@@ -18615,6 +18619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamRace | 412052 | [412052-dreamrace.json](./412052-dreamrace.json) |
 | DreamRace 4x4 | 175492 | [175492-dreamrace-4x4.json](./175492-dreamrace-4x4.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
+| Dreamreaper: Grey Skies | 164093 | [164093-dreamreaper-grey-skies.json](./164093-dreamreaper-grey-skies.json) |
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
 | Dreams and Bubbles | 296878 | [296878-dreams-and-bubbles.json](./296878-dreams-and-bubbles.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
@@ -20965,6 +20970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon RPG: Abyssal Dystopia | 219920 | [219920-dungeon-rpg-abyssal-dystopia.json](./219920-dungeon-rpg-abyssal-dystopia.json) |
 | Dungeon RPG: Hero | 235161 | [235161-dungeon-rpg-hero.json](./235161-dungeon-rpg-hero.json) |
 | Dungeon Ruins | 294294 | [294294-dungeon-ruins.json](./294294-dungeon-ruins.json) |
+| Dungeon Rummage: Another Isekai?! | 165104 | [165104-dungeon-rummage-another-isekai.json](./165104-dungeon-rummage-another-isekai.json) |
 | Dungeon Rummage: Rise of the Allies! | 281003 | [281003-dungeon-rummage-rise-of-the-allies.json](./281003-dungeon-rummage-rise-of-the-allies.json) |
 | Dungeon Rummage: Survival | 323794 | [323794-dungeon-rummage-survival.json](./323794-dungeon-rummage-survival.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
