@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | +1% | 320805 | [320805-1.json](./320805-1.json) |
 | +1S | 93755 | [93755-1s.json](./93755-1s.json) |
 | +1x2 | 290775 | [290775-1x2.json](./290775-1x2.json) |
+| <3 | 170059 | [170059-3.json](./170059-3.json) |
 | =10 | 79794 | [79794-10.json](./79794-10.json) |
 | =7 | 197674 | [197674-7.json](./197674-7.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D MiniGolf | 147887 | [147887-3d-minigolf.json](./147887-3d-minigolf.json) |
 | 3D MiniGolf Remastered | 187270 | [187270-3d-minigolf-remastered.json](./187270-3d-minigolf-remastered.json) |
+| 3D MiniGolf: Candy Shop | 168446 | [168446-3d-minigolf-candy-shop.json](./168446-3d-minigolf-candy-shop.json) |
 | 3D MiniGolf: Makeover-Edition | 327436 | [327436-3d-minigolf-makeover-edition.json](./327436-3d-minigolf-makeover-edition.json) |
 | 3D MMO Villagers & Heroes | 90032 | [90032-3d-mmo-villagers-and-heroes.json](./90032-3d-mmo-villagers-and-heroes.json) |
 | 3D Modern Tower | 357832 | [357832-3d-modern-tower.json](./357832-3d-modern-tower.json) |
