@@ -3199,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Mahjong 2 | 173937 | [173937-legendary-mahjong-2.json](./173937-legendary-mahjong-2.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
+| Legendary Mobile Phone Store Simulator | 428243 | [428243-legendary-mobile-phone-store-simulator.json](./428243-legendary-mobile-phone-store-simulator.json) |
 | Legendary Monsters | 347477 | [347477-legendary-monsters.json](./347477-legendary-monsters.json) |
 | Legendary Mosaics 2: The Stolen Freedom | 186972 | [186972-legendary-mosaics-2-the-stolen-freedom.json](./186972-legendary-mosaics-2-the-stolen-freedom.json) |
 | Legendary Mosaics 3: Eagle Owl Saves the World | 186973 | [186973-legendary-mosaics-3-eagle-owl-saves-the-world.json](./186973-legendary-mosaics-3-eagle-owl-saves-the-world.json) |
