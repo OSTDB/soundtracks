@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narco Tycoon | 153896 | [153896-narco-tycoon.json](./153896-narco-tycoon.json) |
 | Narco Wars | 263133 | [263133-narco-wars.json](./263133-narco-wars.json) |
 | NarcoGuerra | 50217 | [50217-narcoguerra.json](./50217-narcoguerra.json) |
+| Narcolepsy | 201330 | [201330-narcolepsy.json](./201330-narcolepsy.json) |
 | Narcolepsy | 91415 | [91415-narcolepsy.json](./91415-narcolepsy.json) |
 | Narcoleptic Strata | 360907 | [360907-narcoleptic-strata.json](./360907-narcoleptic-strata.json) |
 | Narcos | 92686 | [92686-narcos.json](./92686-narcos.json) |
@@ -1350,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
 | Nazi Bunker | 105252 | [105252-nazi-bunker.json](./105252-nazi-bunker.json) |
 | Nazi Elimination | 81988 | [81988-nazi-elimination.json](./81988-nazi-elimination.json) |
+| Nazi Furry | 200622 | [200622-nazi-furry.json](./200622-nazi-furry.json) |
 | Nazi Labs | 367144 | [367144-nazi-labs.json](./367144-nazi-labs.json) |
 | Nazi Zombie Hunter | 104371 | [104371-nazi-zombie-hunter.json](./104371-nazi-zombie-hunter.json) |
 | Nazi Zombies: Portable | 248218 | [248218-nazi-zombies-portable.json](./248218-nazi-zombies-portable.json) |
