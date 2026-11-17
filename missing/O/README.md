@@ -5488,7 +5488,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Lonely Flesh | 113953 | [113953-our-lonely-flesh.json](./113953-our-lonely-flesh.json) |
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Love Will Grow | 33946 | [33946-our-love-will-grow.json](./33946-our-love-will-grow.json) |
-| Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
 | Our Magic Window | 271939 | [271939-our-magic-window.json](./271939-our-magic-window.json) |
 | Our Memories: Hentai | 236187 | [236187-our-memories-hentai.json](./236187-our-memories-hentai.json) |
 | Our Metal Bowl | 390653 | [390653-our-metal-bowl.json](./390653-our-metal-bowl.json) |
