@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Frog | 359058 | [359058-samurai-frog.json](./359058-samurai-frog.json) |
 | Samurai G | 85550 | [85550-samurai-g.json](./85550-samurai-g.json) |
 | Samurai Ghost Revenge | 385925 | [385925-samurai-ghost-revenge.json](./385925-samurai-ghost-revenge.json) |
+| Samurai Gunn 2 | 107293 | [107293-samurai-gunn-2.json](./107293-samurai-gunn-2.json) |
 | Samurai Heroes | 373189 | [373189-samurai-heroes.json](./373189-samurai-heroes.json) |
 | Samurai II: Vengeance | 54350 | [54350-samurai-ii-vengeance.json](./54350-samurai-ii-vengeance.json) |
 | Samurai in Africa | 113223 | [113223-samurai-in-africa.json](./113223-samurai-in-africa.json) |
@@ -7943,6 +7944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
 | ShadowPlay | 67109 | [67109-shadowplay.json](./67109-shadowplay.json) |
 | Shadowplay: Darkness Incarnate - Collector's Edition | 228244 | [228244-shadowplay-darkness-incarnate-collectors-edition.json](./228244-shadowplay-darkness-incarnate-collectors-edition.json) |
+| Shadowplay: Forsaken Island | 107284 | [107284-shadowplay-forsaken-island.json](./107284-shadowplay-forsaken-island.json) |
 | Shadowplay: Harrowstead Mystery - Collector's Edition | 228247 | [228247-shadowplay-harrowstead-mystery-collectors-edition.json](./228247-shadowplay-harrowstead-mystery-collectors-edition.json) |
 | Shadowplay: Journey to Wonderland | 183696 | [183696-shadowplay-journey-to-wonderland.json](./183696-shadowplay-journey-to-wonderland.json) |
 | Shadowplay: Metropolis Foe | 125722 | [125722-shadowplay-metropolis-foe.json](./125722-shadowplay-metropolis-foe.json) |
@@ -15331,6 +15333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Puzzle | 357989 | [357989-slide-puzzle.json](./357989-slide-puzzle.json) |
 | Slide Puzzle World History | 300850 | [300850-slide-puzzle-world-history.json](./300850-slide-puzzle-world-history.json) |
 | Slide Puzzle: Cute Moe Girls | 241272 | [241272-slide-puzzle-cute-moe-girls.json](./241272-slide-puzzle-cute-moe-girls.json) |
+| Slide Quest: Match the Snacks | 106191 | [106191-slide-quest-match-the-snacks.json](./106191-slide-quest-match-the-snacks.json) |
 | Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
 | Slide Soldiers | 358951 | [358951-slide-soldiers.json](./358951-slide-soldiers.json) |
 | Slide Stars | 138045 | [138045-slide-stars.json](./138045-slide-stars.json) |
@@ -16872,6 +16875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Crush Survivors | 274820 | [274820-snake-crush-survivors.json](./274820-snake-crush-survivors.json) |
 | Snake Cubed | 18906 | [18906-snake-cubed.json](./18906-snake-cubed.json) |
+| Snake Dash Color Blocks | 107287 | [107287-snake-dash-color-blocks.json](./107287-snake-dash-color-blocks.json) |
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
 | Snake Deluxe | 256653 | [256653-snake-deluxe.json](./256653-snake-deluxe.json) |
 | Snake Deluxe 2 | 256655 | [256655-snake-deluxe-2.json](./256655-snake-deluxe-2.json) |
@@ -17713,6 +17717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowflakes in the Sun | 419612 | [419612-snowflakes-in-the-sun.json](./419612-snowflakes-in-the-sun.json) |
 | Snowfury | 262013 | [262013-snowfury.json](./262013-snowfury.json) |
 | Snowglobe | 80992 | [80992-snowglobe.json](./80992-snowglobe.json) |
+| Snowicks: Snow Battle | 107304 | [107304-snowicks-snow-battle.json](./107304-snowicks-snow-battle.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
 | Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
@@ -25732,6 +25737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Camp: A 35-Game Adventure - Deluxe | 356988 | [356988-sports-camp-a-35-game-adventure-deluxe.json](./356988-sports-camp-a-35-game-adventure-deluxe.json) |
 | Sports Car Challenge | 237868 | [237868-sports-car-challenge.json](./237868-sports-car-challenge.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
+| Sports Car Drift: X Speed | 107283 | [107283-sports-car-drift-x-speed.json](./107283-sports-car-drift-x-speed.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
 | Sports Car GT | 22822 | [22822-sports-car-gt.json](./22822-sports-car-gt.json) |
@@ -28311,6 +28317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
 | Starfleet Orion | 23297 | [23297-starfleet-orion.json](./23297-starfleet-orion.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
+| Starflight 3 | 107301 | [107301-starflight-3.json](./107301-starflight-3.json) |
 | Starflight II: Trade Routes of the Cloud Nebula | 12777 | [12777-starflight-ii-trade-routes-of-the-cloud-nebula.json](./12777-starflight-ii-trade-routes-of-the-cloud-nebula.json) |
 | Starflight: A Cosmic Adventure | 69642 | [69642-starflight-a-cosmic-adventure.json](./69642-starflight-a-cosmic-adventure.json) |
 | StarFlint the BlackHole Prophecy | 192567 | [192567-starflint-the-blackhole-prophecy.json](./192567-starflint-the-blackhole-prophecy.json) |
@@ -33907,6 +33914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit Drive | 365028 | [365028-summit-drive.json](./365028-summit-drive.json) |
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
+| Summit Way | 107321 | [107321-summit-way.json](./107321-summit-way.json) |
 | Summit: Steps of Solace | 339708 | [339708-summit-steps-of-solace.json](./339708-summit-steps-of-solace.json) |
 | Summit: Virtual Pro-Wrestling Gamma | 259200 | [259200-summit-virtual-pro-wrestling-gamma.json](./259200-summit-virtual-pro-wrestling-gamma.json) |
 | SummitX 2 | 200267 | [200267-summitx-2.json](./200267-summitx-2.json) |
