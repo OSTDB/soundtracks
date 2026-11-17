@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KeepUp Survival: Mountain Map | 293873 | [293873-keepup-survival-mountain-map.json](./293873-keepup-survival-mountain-map.json) |
 | KeepUp Survival: Red Desert Map | 200790 | [200790-keepup-survival-red-desert-map.json](./200790-keepup-survival-red-desert-map.json) |
 | KeepUp Survival: Tropical Island | 195345 | [195345-keepup-survival-tropical-island.json](./195345-keepup-survival-tropical-island.json) |
+| Keepy Ducky | 57267 | [57267-keepy-ducky.json](./57267-keepy-ducky.json) |
 | Keepy Up | 400344 | [400344-keepy-up.json](./400344-keepy-up.json) |
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
 | Keezeh: The Spector of Time | 160268 | [160268-keezeh-the-spector-of-time.json](./160268-keezeh-the-spector-of-time.json) |
@@ -7143,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kutar Apple | 85231 | [85231-kutar-apple.json](./85231-kutar-apple.json) |
 | Kutar Burger Factory | 85233 | [85233-kutar-burger-factory.json](./85233-kutar-burger-factory.json) |
 | Kutar Concert Staff | 85232 | [85232-kutar-concert-staff.json](./85232-kutar-concert-staff.json) |
+| Kutar End Credits | 57246 | [57246-kutar-end-credits.json](./57246-kutar-end-credits.json) |
 | Kutar Jump Rope | 85241 | [85241-kutar-jump-rope.json](./85241-kutar-jump-rope.json) |
 | Kutar Magic Ball | 85240 | [85240-kutar-magic-ball.json](./85240-kutar-magic-ball.json) |
 | Kutar Powder Factory | 54674 | [54674-kutar-powder-factory.json](./54674-kutar-powder-factory.json) |
