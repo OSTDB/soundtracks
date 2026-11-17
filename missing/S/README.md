@@ -4283,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolling Survivor | 177163 | [177163-scrolling-survivor.json](./177163-scrolling-survivor.json) |
 | Scrolling Walls | 73423 | [73423-scrolling-walls.json](./73423-scrolling-walls.json) |
 | Scrollonoid | 41112 | [41112-scrollonoid.json](./41112-scrollonoid.json) |
+| Scrolls of Alexandria: Tidy up the Lost Library | 421721 | [421721-scrolls-of-alexandria-tidy-up-the-lost-library.json](./421721-scrolls-of-alexandria-tidy-up-the-lost-library.json) |
 | Scrolls of Fire | 247161 | [247161-scrolls-of-fire.json](./247161-scrolls-of-fire.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
@@ -11779,6 +11780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal Pit | 402651 | [402651-signal-pit.json](./402651-signal-pit.json) |
 | Signal Simulator | 99625 | [99625-signal-simulator.json](./99625-signal-simulator.json) |
+| Signal Snow | 421680 | [421680-signal-snow.json](./421680-signal-snow.json) |
 | Signal to Noise | 34995 | [34995-signal-to-noise.json](./34995-signal-to-noise.json) |
 | Signal Veil | 421169 | [421169-signal-veil.json](./421169-signal-veil.json) |
 | Signal Zero | 405137 | [405137-signal-zero.json](./405137-signal-zero.json) |
@@ -15611,6 +15613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
 | Slime Town | 372906 | [372906-slime-town.json](./372906-slime-town.json) |
+| Slime Trader | 421695 | [421695-slime-trader.json](./421695-slime-trader.json) |
 | Slime Trials | 280760 | [280760-slime-trials.json](./280760-slime-trials.json) |
 | Slime Trials | 340361 | [340361-slime-trials.json](./340361-slime-trials.json) |
 | Slime Up | 149804 | [149804-slime-up.json](./149804-slime-up.json) |
@@ -21427,6 +21430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulsmith | 89561 | [89561-soulsmith.json](./89561-soulsmith.json) |
 | Soulssss | 336952 | [336952-soulssss.json](./336952-soulssss.json) |
+| Soulstack | 421687 | [421687-soulstack.json](./421687-soulstack.json) |
 | Soulstar | 5453 | [5453-soulstar.json](./5453-soulstar.json) |
 | Soulstar X | 46427 | [46427-soulstar-x.json](./46427-soulstar-x.json) |
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
@@ -29048,6 +29052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarsOne | 33171 | [33171-starsone.json](./33171-starsone.json) |
 | Starspawn: A Miskatonic Mystery | 347785 | [347785-starspawn-a-miskatonic-mystery.json](./347785-starspawn-a-miskatonic-mystery.json) |
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
+| Starstone | 421708 | [421708-starstone.json](./421708-starstone.json) |
 | StarStorm | 258032 | [258032-starstorm.json](./258032-starstorm.json) |
 | Starstream | 303982 | [303982-starstream.json](./303982-starstream.json) |
 | Starstride | 264622 | [264622-starstride.json](./264622-starstride.json) |
@@ -30745,6 +30750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Arena | 106098 | [106098-stone-arena.json](./106098-stone-arena.json) |
 | Stone Ball | 39587 | [39587-stone-ball.json](./39587-stone-ball.json) |
 | Stone Breaker | 226757 | [226757-stone-breaker.json](./226757-stone-breaker.json) |
+| Stone by Stone | 421715 | [421715-stone-by-stone.json](./421715-stone-by-stone.json) |
 | Stone Cage | 232204 | [232204-stone-cage.json](./232204-stone-cage.json) |
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
 | Stone Crawler | 136614 | [136614-stone-crawler.json](./136614-stone-crawler.json) |
@@ -30779,6 +30785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | Stone Story: Ascension | 392328 | [392328-stone-story-ascension.json](./392328-stone-story-ascension.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
+| Stone to Stars | 421725 | [421725-stone-to-stars.json](./421725-stone-to-stars.json) |
 | Stone Turmoil | 315403 | [315403-stone-turmoil.json](./315403-stone-turmoil.json) |
 | Stone Walkers | 54749 | [54749-stone-walkers.json](./54749-stone-walkers.json) |
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
@@ -30833,7 +30840,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones Throw | 196371 | [196371-stones-throw.json](./196371-stones-throw.json) |
 | Stonescape | 156221 | [156221-stonescape.json](./156221-stonescape.json) |
 | Stoneshard | 28649 | [28649-stoneshard.json](./28649-stoneshard.json) |
+| Stonesong | 421711 | [421711-stonesong.json](./421711-stonesong.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
+| Stonespire | 421709 | [421709-stonespire.json](./421709-stonespire.json) |
 | Stonestorm | 425993 | [425993-stonestorm.json](./425993-stonestorm.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stonetowers | 96868 | [96868-stonetowers.json](./96868-stonetowers.json) |
@@ -34469,6 +34478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
 | Sunstone of Time | 421822 | [421822-sunstone-of-time.json](./421822-sunstone-of-time.json) |
 | Sunstone War | 261562 | [261562-sunstone-war.json](./261562-sunstone-war.json) |
+| Sunstone: A Tale of the Briar King | 421727 | [421727-sunstone-a-tale-of-the-briar-king.json](./421727-sunstone-a-tale-of-the-briar-king.json) |
 | Sunu Ikkibu: Din Nahu | 27377 | [27377-sunu-ikkibu-din-nahu.json](./27377-sunu-ikkibu-din-nahu.json) |
 | Sunville | 207548 | [207548-sunville.json](./207548-sunville.json) |
 | Sunward | 409346 | [409346-sunward.json](./409346-sunward.json) |
@@ -34806,6 +34816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
 | Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
 | Super Bubble Bobble MD | 46290 | [46290-super-bubble-bobble-md.json](./46290-super-bubble-bobble-md.json) |
+| Super Bubble Horde Deluxe Remastered | 421684 | [421684-super-bubble-horde-deluxe-remastered.json](./421684-super-bubble-horde-deluxe-remastered.json) |
 | Super Bubble Pop | 248454 | [248454-super-bubble-pop.json](./248454-super-bubble-pop.json) |
 | Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
 | Super Bubsy | 70261 | [70261-super-bubsy.json](./70261-super-bubsy.json) |
@@ -40796,6 +40807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Syne | 183759 | [183759-syne.json](./183759-syne.json) |
+| Syne | 421726 | [421726-syne.json](./421726-syne.json) |
 | Synephoria | 383460 | [383460-synephoria.json](./383460-synephoria.json) |
 | Synergia | 116493 | [116493-synergia.json](./116493-synergia.json) |
 | Synergia: NextGen Edition | 268330 | [268330-synergia-nextgen-edition.json](./268330-synergia-nextgen-edition.json) |
