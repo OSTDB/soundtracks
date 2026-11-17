@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-1 Premium Dynamite!! | 44646 | [44646-k-1-premium-dynamite.json](./44646-k-1-premium-dynamite.json) |
 | K-1 Revenge | 45075 | [45075-k-1-revenge.json](./45075-k-1-revenge.json) |
 | K-1 The Arena Fighters | 43723 | [43723-k-1-the-arena-fighters.json](./43723-k-1-the-arena-fighters.json) |
+| K-1 World GP | 85678 | [85678-k-1-world-gp.json](./85678-k-1-world-gp.json) |
 | K-1 World GP 2005 | 66879 | [66879-k-1-world-gp-2005.json](./66879-k-1-world-gp-2005.json) |
 | K-1 World GP 2006 | 66878 | [66878-k-1-world-gp-2006.json](./66878-k-1-world-gp-2006.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaRu | 195552 | [195552-karu.json](./195552-karu.json) |
 | Karugamo | 130590 | [130590-karugamo.json](./130590-karugamo.json) |
 | Karuizawa Yuukai Annai | 79793 | [79793-karuizawa-yuukai-annai.json](./79793-karuizawa-yuukai-annai.json) |
+| Karumaruka Circle | 87684 | [87684-karumaruka-circle.json](./87684-karumaruka-circle.json) |
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Smartphone Version | 208222 | [208222-karumaruka-circle-smartphone-version.json](./208222-karumaruka-circle-smartphone-version.json) |
@@ -2647,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Box | 226783 | [226783-kids-box.json](./226783-kids-box.json) |
 | Kids Box | 280467 | [280467-kids-box.json](./280467-kids-box.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
+| Kids Cars and Trucks Logic Memory Puzzles | 87736 | [87736-kids-cars-and-trucks-logic-memory-puzzles.json](./87736-kids-cars-and-trucks-logic-memory-puzzles.json) |
 | Kids dinosaur puzzles and number games | 87086 | [87086-kids-dinosaur-puzzles-and-number-games.json](./87086-kids-dinosaur-puzzles-and-number-games.json) |
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids Dinosaur Rex Slide Puzzle 15 Mystic squares | 89581 | [89581-kids-dinosaur-rex-slide-puzzle-15-mystic-squares.json](./89581-kids-dinosaur-rex-slide-puzzle-15-mystic-squares.json) |
@@ -2672,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Learn to Tell Time: What Does the Clock Say? | 90972 | [90972-kids-learn-to-tell-time-what-does-the-clock-say.json](./90972-kids-learn-to-tell-time-what-does-the-clock-say.json) |
 | Kids Logic Land Adventure | 97065 | [97065-kids-logic-land-adventure.json](./97065-kids-logic-land-adventure.json) |
 | Kids Love Puzzles | 232590 | [232590-kids-love-puzzles.json](./232590-kids-love-puzzles.json) |
+| Kids Mosaic Art Shape and Color Picture Puzzles | 87382 | [87382-kids-mosaic-art-shape-and-color-picture-puzzles.json](./87382-kids-mosaic-art-shape-and-color-picture-puzzles.json) |
 | Kids Musical Instrument Connect the Dots Puzzles - learn the ABC numbers shapes and for toddlers | 92089 | [92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json](./92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json) |
 | Kids of Hellas: Back to Olympus | 115177 | [115177-kids-of-hellas-back-to-olympus.json](./115177-kids-of-hellas-back-to-olympus.json) |
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
