@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft and the Temple of Osiris: Legend Pack | 226872 | [226872-lara-croft-and-the-temple-of-osiris-legend-pack.json](./226872-lara-croft-and-the-temple-of-osiris-legend-pack.json) |
 | Lara Croft and the Temple of Osiris: Twisted Gears Pack | 226873 | [226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json](./226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json) |
 | Lara Croft Go | 11592 | [11592-lara-croft-go.json](./11592-lara-croft-go.json) |
+| Lara Croft GO: The Cave of Fire | 419683 | [419683-lara-croft-go-the-cave-of-fire.json](./419683-lara-croft-go-the-cave-of-fire.json) |
 | Lara Croft: Reflections | 62481 | [62481-lara-croft-reflections.json](./62481-lara-croft-reflections.json) |
 | Lara Croft: Relic Run | 15384 | [15384-lara-croft-relic-run.json](./15384-lara-croft-relic-run.json) |
 | Lara Croft: The Last Plague | 252531 | [252531-lara-croft-the-last-plague.json](./252531-lara-croft-the-last-plague.json) |
@@ -2312,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Dernier Don | 303624 | [303624-le-dernier-don.json](./303624-le-dernier-don.json) |
 | Le Fantabulous Game | 57245 | [57245-le-fantabulous-game.json](./57245-le-fantabulous-game.json) |
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
+| Le Fishe | 419690 | [419690-le-fishe.json](./419690-le-fishe.json) |
 | Le Fol | 255830 | [255830-le-fol.json](./255830-le-fol.json) |
 | Le Frenchie | 151036 | [151036-le-frenchie.json](./151036-le-frenchie.json) |
 | Le Fruit Défendu | 142233 | [142233-le-fruit-defendu.json](./142233-le-fruit-defendu.json) |
