@@ -16178,6 +16178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office Quest | 99521 | [99521-the-office-quest.json](./99521-the-office-quest.json) |
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
+| The Office Type | 192335 | [192335-the-office-type.json](./192335-the-office-type.json) |
 | The Office Void | 405796 | [405796-the-office-void.json](./405796-the-office-void.json) |
 | The Office: Dirty Secrets | 411243 | [411243-the-office-dirty-secrets.json](./411243-the-office-dirty-secrets.json) |
 | The Office: Somehow We Manage | 191302 | [191302-the-office-somehow-we-manage.json](./191302-the-office-somehow-we-manage.json) |
@@ -17124,6 +17125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
 | The Quacken | 180181 | [180181-the-quacken.json](./180181-the-quacken.json) |
 | The Quaddle Family Mysteries 1: The Case of the Scarce Scarab - Lobby / Kitchen | 278214 | [278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json](./278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json) |
+| The Quantum Cat | 195131 | [195131-the-quantum-cat.json](./195131-the-quantum-cat.json) |
 | The Quantum Conflict | 287806 | [287806-the-quantum-conflict.json](./287806-the-quantum-conflict.json) |
 | The Quarantine | 327118 | [327118-the-quarantine.json](./327118-the-quarantine.json) |
 | The Quarantine Sector | 371429 | [371429-the-quarantine-sector.json](./371429-the-quarantine-sector.json) |
@@ -26111,6 +26113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinja | 81647 | [81647-tinja.json](./81647-tinja.json) |
 | Tink: The Last Fairy | 289946 | [289946-tink-the-last-fairy.json](./289946-tink-the-last-fairy.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
+| Tinker & Spell | 192333 | [192333-tinker-and-spell.json](./192333-tinker-and-spell.json) |
 | Tinker Bell and the Great Fairy Rescue | 47789 | [47789-tinker-bell-and-the-great-fairy-rescue.json](./47789-tinker-bell-and-the-great-fairy-rescue.json) |
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
 | Tinker Island | 134148 | [134148-tinker-island.json](./134148-tinker-island.json) |
@@ -33315,6 +33318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcendence | 226894 | [226894-transcendence.json](./226894-transcendence.json) |
 | Transcendence | 35408 | [35408-transcendence.json](./35408-transcendence.json) |
 | Transcendence in the Poolrooms | 401031 | [401031-transcendence-in-the-poolrooms.json](./401031-transcendence-in-the-poolrooms.json) |
+| Transcendence Legacy: Voidswept | 192337 | [192337-transcendence-legacy-voidswept.json](./192337-transcendence-legacy-voidswept.json) |
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
 | Transcender Starship | 118767 | [118767-transcender-starship.json](./118767-transcender-starship.json) |
 | Transcending the Rainbow | 388562 | [388562-transcending-the-rainbow.json](./388562-transcending-the-rainbow.json) |
