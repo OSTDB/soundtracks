@@ -5540,7 +5540,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Causa, Voices of the Dusk | 97948 | [97948-causa-voices-of-the-dusk.json](./97948-causa-voices-of-the-dusk.json) |
 | Causa: Into the Dusk | 417958 | [417958-causa-into-the-dusk.json](./417958-causa-into-the-dusk.json) |
 | Causal Effect | 256721 | [256721-causal-effect.json](./256721-causal-effect.json) |
-| Causal Loop | 339820 | [339820-causal-loop.json](./339820-causal-loop.json) |
 | Causal Nexus | 236256 | [236256-causal-nexus.json](./236256-causal-nexus.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Causality | 27072 | [27072-causality.json](./27072-causality.json) |
