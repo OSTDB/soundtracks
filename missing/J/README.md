@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Matchup | 93294 | [93294-jesus-matchup.json](./93294-jesus-matchup.json) |
 | Jesus of Nazareth | 69739 | [69739-jesus-of-nazareth.json](./69739-jesus-of-nazareth.json) |
 | Jesus Pang | 61266 | [61266-jesus-pang.json](./61266-jesus-pang.json) |
+| Jesus Puzzle | 109801 | [109801-jesus-puzzle.json](./109801-jesus-puzzle.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
 | Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
@@ -2801,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Platform's Biscuit Romp | 78301 | [78301-johnny-platforms-biscuit-romp.json](./78301-johnny-platforms-biscuit-romp.json) |
 | Johnny Reb | 137197 | [137197-johnny-reb.json](./137197-johnny-reb.json) |
 | Johnny Reb II | 142517 | [142517-johnny-reb-ii.json](./142517-johnny-reb-ii.json) |
+| Johnny Rocket | 109788 | [109788-johnny-rocket.json](./109788-johnny-rocket.json) |
 | Johnny Rocketfingers | 243896 | [243896-johnny-rocketfingers.json](./243896-johnny-rocketfingers.json) |
 | Johnny Rocketfingers 2 | 243897 | [243897-johnny-rocketfingers-2.json](./243897-johnny-rocketfingers-2.json) |
 | Johnny Rocketfingers Complete Game Collection! | 252680 | [252680-johnny-rocketfingers-complete-game-collection.json](./252680-johnny-rocketfingers-complete-game-collection.json) |
