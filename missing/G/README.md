@@ -8148,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Spotlight Stories: Son of Jaguar | 75041 | [75041-google-spotlight-stories-son-of-jaguar.json](./75041-google-spotlight-stories-son-of-jaguar.json) |
 | Google Spotlight Stories: Sonaria | 75612 | [75612-google-spotlight-stories-sonaria.json](./75612-google-spotlight-stories-sonaria.json) |
 | Google Spotlight Stories: Special Delivery | 76828 | [76828-google-spotlight-stories-special-delivery.json](./76828-google-spotlight-stories-special-delivery.json) |
+| Google Text Adventure | 183633 | [183633-google-text-adventure.json](./183633-google-text-adventure.json) |
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
 | Google.exe | 400093 | [400093-google-exe.json](./400093-google-exe.json) |
