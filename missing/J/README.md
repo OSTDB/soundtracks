@@ -3374,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dee | 10478 | [10478-judge-dee.json](./10478-judge-dee.json) |
 | Judge Dee: The City God Case | 64833 | [64833-judge-dee-the-city-god-case.json](./64833-judge-dee-the-city-god-case.json) |
 | Judge Dredd | 198785 | [198785-judge-dredd.json](./198785-judge-dredd.json) |
+| Judge Dredd | 199002 | [199002-judge-dredd.json](./199002-judge-dredd.json) |
 | Judge Dredd | 265036 | [265036-judge-dredd.json](./265036-judge-dredd.json) |
 | Judge Dredd | 265037 | [265037-judge-dredd.json](./265037-judge-dredd.json) |
 | Judge Dredd | 340333 | [340333-judge-dredd.json](./340333-judge-dredd.json) |
