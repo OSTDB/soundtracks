@@ -5712,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Climb | 381229 | [381229-ninja-climb.json](./381229-ninja-climb.json) |
 | Ninja Clowns | 40993 | [40993-ninja-clowns.json](./40993-ninja-clowns.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
+| Ninja Combat | 39889 | [39889-ninja-combat.json](./39889-ninja-combat.json) |
 | Ninja Commando | 138089 | [138089-ninja-commando.json](./138089-ninja-commando.json) |
 | Ninja Commando | 39951 | [39951-ninja-commando.json](./39951-ninja-commando.json) |
 | Ninja Cop Saizou | 215137 | [215137-ninja-cop-saizou.json](./215137-ninja-cop-saizou.json) |
@@ -5850,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kato 2 | 278938 | [278938-ninja-kato-2.json](./278938-ninja-kato-2.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Kato 4 | 309417 | [309417-ninja-kato-4.json](./309417-ninja-kato-4.json) |
+| Ninja Kazan | 39906 | [39906-ninja-kazan.json](./39906-ninja-kazan.json) |
 | Ninja Ken | 151590 | [151590-ninja-ken.json](./151590-ninja-ken.json) |
 | Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
 | Ninja Kid Run VR: Runner & Racing Games For Free | 88145 | [88145-ninja-kid-run-vr-runner-and-racing-games-for-free.json](./88145-ninja-kid-run-vr-runner-and-racing-games-for-free.json) |
