@@ -6111,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From The Island | 380330 | [380330-escape-from-the-island.json](./380330-escape-from-the-island.json) |
 | Escape from the Lockdown: The Demon Fortress | 166061 | [166061-escape-from-the-lockdown-the-demon-fortress.json](./166061-escape-from-the-lockdown-the-demon-fortress.json) |
 | Escape from the Lost World | 133676 | [133676-escape-from-the-lost-world.json](./133676-escape-from-the-lost-world.json) |
+| Escape from the Lostmoon | 126689 | [126689-escape-from-the-lostmoon.json](./126689-escape-from-the-lostmoon.json) |
 | Escape from the Marble Monster | 216733 | [216733-escape-from-the-marble-monster.json](./216733-escape-from-the-marble-monster.json) |
 | Escape from the Mindmaster | 18567 | [18567-escape-from-the-mindmaster.json](./18567-escape-from-the-mindmaster.json) |
 | Escape from the nightmare | 330655 | [330655-escape-from-the-nightmare.json](./330655-escape-from-the-nightmare.json) |
@@ -8295,7 +8296,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Water Ep1 | 339380 | [339380-evil-water-ep1.json](./339380-evil-water-ep1.json) |
 | Evil West | 141547 | [141547-evil-west.json](./141547-evil-west.json) |
 | Evil West: Signature Edition | 223534 | [223534-evil-west-signature-edition.json](./223534-evil-west-signature-edition.json) |
-| Evil Wizard | 165389 | [165389-evil-wizard.json](./165389-evil-wizard.json) |
 | Evil Wizard | 309274 | [309274-evil-wizard.json](./309274-evil-wizard.json) |
 | Evil Woman Executive: Aku no Onna Kanbu "Kono Watashi ni Oshioki dato!? Fuzakeruna!" | 66810 | [66810-evil-woman-executive-aku-no-onna-kanbu-kono-watashi-ni-oshioki-dato-fuzakeruna.json](./66810-evil-woman-executive-aku-no-onna-kanbu-kono-watashi-ni-oshioki-dato-fuzakeruna.json) |
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
