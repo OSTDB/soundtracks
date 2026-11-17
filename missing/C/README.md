@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Driver 5 | 414471 | [414471-car-driver-5.json](./414471-car-driver-5.json) |
 | Car Driving School Simulator | 90233 | [90233-car-driving-school-simulator.json](./90233-car-driving-school-simulator.json) |
 | Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
+| Car Eats Car | 429516 | [429516-car-eats-car.json](./429516-car-eats-car.json) |
 | Car Eats Car 2 | 227900 | [227900-car-eats-car-2.json](./227900-car-eats-car-2.json) |
 | Car Eats Car 3 | 102023 | [102023-car-eats-car-3.json](./102023-car-eats-car-3.json) |
 | Car Escape | 88602 | [88602-car-escape.json](./88602-car-escape.json) |
@@ -3092,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardShark | 239741 | [239741-cardshark.json](./239741-cardshark.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardsharp | 417445 | [417445-cardsharp.json](./417445-cardsharp.json) |
+| Cardslinger | 429471 | [429471-cardslinger.json](./429471-cardslinger.json) |
 | Cardstock | 188806 | [188806-cardstock.json](./188806-cardstock.json) |
 | Cardstronaut | 345058 | [345058-cardstronaut.json](./345058-cardstronaut.json) |
 | CardSurvival: Tropical Island | 233158 | [233158-cardsurvival-tropical-island.json](./233158-cardsurvival-tropical-island.json) |
@@ -4572,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Caravans | 377511 | [377511-cat-caravans.json](./377511-cat-caravans.json) |
 | Cat Carried Butterfly | 374643 | [374643-cat-carried-butterfly.json](./374643-cat-carried-butterfly.json) |
+| Cat Chaos Tidy Up | 429478 | [429478-cat-chaos-tidy-up.json](./429478-cat-chaos-tidy-up.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
 | Cat City | 265475 | [265475-cat-city.json](./265475-cat-city.json) |
@@ -8281,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens | 94352 | [94352-chickens.json](./94352-chickens.json) |
 | Chickens 2 | 19234 | [19234-chickens-2.json](./19234-chickens-2.json) |
 | Chickens Apocalypse | 183706 | [183706-chickens-apocalypse.json](./183706-chickens-apocalypse.json) |
+| Chickens Be Crazy | 429509 | [429509-chickens-be-crazy.json](./429509-chickens-be-crazy.json) |
 | Chickens Can't Fly | 22341 | [22341-chickens-cant-fly.json](./22341-chickens-cant-fly.json) |
 | Chickens Don't Fly | 361681 | [361681-chickens-dont-fly.json](./361681-chickens-dont-fly.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
@@ -8791,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chloe's Dream Resort | 293962 | [293962-chloes-dream-resort.json](./293962-chloes-dream-resort.json) |
 | Chloe's Requiem | 124639 | [124639-chloes-requiem.json](./124639-chloes-requiem.json) |
 | Chloe’s Requiem: Encore | 250285 | [250285-chloe-s-requiem-encore.json](./250285-chloe-s-requiem-encore.json) |
+| Chlorine Scales | 429499 | [429499-chlorine-scales.json](./429499-chlorine-scales.json) |
 | Chlorofell | 334156 | [334156-chlorofell.json](./334156-chlorofell.json) |
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
