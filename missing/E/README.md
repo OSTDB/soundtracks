@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EF Defense | 233408 | [233408-ef-defense.json](./233408-ef-defense.json) |
 | EF Universe: Reclaiming the World | 116179 | [116179-ef-universe-reclaiming-the-world.json](./116179-ef-universe-reclaiming-the-world.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
+| Ef: A Fairy Tale of the Two. | 78162 | [78162-ef-a-fairy-tale-of-the-two.json](./78162-ef-a-fairy-tale-of-the-two.json) |
 | Ef: The First Tale. | 122811 | [122811-ef-the-first-tale.json](./122811-ef-the-first-tale.json) |
 | Ef: The Latter Tale. | 123720 | [123720-ef-the-latter-tale.json](./123720-ef-the-latter-tale.json) |
 | EF2000 TACTCOM | 77647 | [77647-ef2000-tactcom.json](./77647-ef2000-tactcom.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma | 257825 | [257825-enigma.json](./257825-enigma.json) |
 | Enigma | 360804 | [360804-enigma.json](./360804-enigma.json) |
 | Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
+| Enigma | 78144 | [78144-enigma.json](./78144-enigma.json) |
 | Enigma Adventure Studio | 131133 | [131133-enigma-adventure-studio.json](./131133-enigma-adventure-studio.json) |
 | Enigma Agency: The Case of Shadows | 63441 | [63441-enigma-agency-the-case-of-shadows.json](./63441-enigma-agency-the-case-of-shadows.json) |
 | Enigma Awaken | 311517 | [311517-enigma-awaken.json](./311517-enigma-awaken.json) |
@@ -6966,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Labyrinth | 338271 | [338271-eternal-labyrinth.json](./338271-eternal-labyrinth.json) |
 | Eternal Lands | 69208 | [69208-eternal-lands.json](./69208-eternal-lands.json) |
 | Eternal League | 320106 | [320106-eternal-league.json](./320106-eternal-league.json) |
+| Eternal Legacy | 78178 | [78178-eternal-legacy.json](./78178-eternal-legacy.json) |
 | Eternal Legend | 45794 | [45794-eternal-legend.json](./45794-eternal-legend.json) |
 | Eternal Levels | 417086 | [417086-eternal-levels.json](./417086-eternal-levels.json) |
 | Eternal Light | 300736 | [300736-eternal-light.json](./300736-eternal-light.json) |
