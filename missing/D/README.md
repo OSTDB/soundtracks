@@ -12603,6 +12603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Ascent | 29179 | [29179-divine-ascent.json](./29179-divine-ascent.json) |
 | Divine Ascent: Map Pack | 161752 | [161752-divine-ascent-map-pack.json](./161752-divine-ascent-map-pack.json) |
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
+| Divine Combat | 201871 | [201871-divine-combat.json](./201871-divine-combat.json) |
 | Divine Commander | 121787 | [121787-divine-commander.json](./121787-divine-commander.json) |
 | Divine D.I.V.A. | 117684 | [117684-divine-d-i-v-a.json](./117684-divine-d-i-v-a.json) |
 | Divine Dawn | 223232 | [223232-divine-dawn.json](./223232-divine-dawn.json) |
@@ -18146,6 +18147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
 | Dream Data | 229645 | [229645-dream-data.json](./229645-dream-data.json) |
 | Dream Date | 211839 | [211839-dream-date.json](./211839-dream-date.json) |
+| Dream Day Wedding: Bella Italia | 202157 | [202157-dream-day-wedding-bella-italia.json](./202157-dream-day-wedding-bella-italia.json) |
+| Dream Day Wedding: Married in Manhattan | 202156 | [202156-dream-day-wedding-married-in-manhattan.json](./202156-dream-day-wedding-married-in-manhattan.json) |
 | Dream Day Wedding: Viva Las Vegas | 69118 | [69118-dream-day-wedding-viva-las-vegas.json](./69118-dream-day-wedding-viva-las-vegas.json) |
 | Dream Day: Bella Italia | 89231 | [89231-dream-day-bella-italia.json](./89231-dream-day-bella-italia.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
@@ -18158,6 +18161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Dealer | 31214 | [31214-dream-dealer.json](./31214-dream-dealer.json) |
 | Dream Delirio's | 391398 | [391398-dream-delirios.json](./391398-dream-delirios.json) |
 | Dream Detective | 126379 | [126379-dream-detective.json](./126379-dream-detective.json) |
+| Dream Diary | 202155 | [202155-dream-diary.json](./202155-dream-diary.json) |
 | Dream Diary | 352482 | [352482-dream-diary.json](./352482-dream-diary.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
 | Dream Divers 2 | 303014 | [303014-dream-divers-2.json](./303014-dream-divers-2.json) |
@@ -18564,6 +18568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamline 404 | 339567 | [339567-dreamline-404.json](./339567-dreamline-404.json) |
 | Dreamlined | 197166 | [197166-dreamlined.json](./197166-dreamlined.json) |
 | Dreamlocked | 350703 | [350703-dreamlocked.json](./350703-dreamlocked.json) |
+| Dreamlords: Resurrection | 202154 | [202154-dreamlords-resurrection.json](./202154-dreamlords-resurrection.json) |
 | Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
 | DreamMix TV World Fighters | 3899 | [3899-dreammix-tv-world-fighters.json](./3899-dreammix-tv-world-fighters.json) |
@@ -18767,6 +18772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress Me Up | 109105 | [109105-dress-me-up.json](./109105-dress-me-up.json) |
 | Dress out! | 118011 | [118011-dress-out.json](./118011-dress-out.json) |
 | Dress Rehearsal | 364222 | [364222-dress-rehearsal.json](./364222-dress-rehearsal.json) |
+| Dress Shop Hop | 202158 | [202158-dress-shop-hop.json](./202158-dress-shop-hop.json) |
 | Dress the Duel | 368822 | [368822-dress-the-duel.json](./368822-dress-the-duel.json) |
 | Dress to Play: Cute Witches! | 85100 | [85100-dress-to-play-cute-witches.json](./85100-dress-to-play-cute-witches.json) |
 | Dress to Play: Magic Bubbles! | 85099 | [85099-dress-to-play-magic-bubbles.json](./85099-dress-to-play-magic-bubbles.json) |
@@ -18948,6 +18954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifting Dots | 390694 | [390694-drifting-dots.json](./390694-drifting-dots.json) |
 | Drifting Hearts | 182952 | [182952-drifting-hearts.json](./182952-drifting-hearts.json) |
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
+| Drifting Kings | 203451 | [203451-drifting-kings.json](./203451-drifting-kings.json) |
 | Drifting: Weight of Feathers | 172818 | [172818-drifting-weight-of-feathers.json](./172818-drifting-weight-of-feathers.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | DriftKing 2D | 135464 | [135464-driftking-2d.json](./135464-driftking-2d.json) |
@@ -19594,6 +19601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
 | Drumpfy Walls | 116061 | [116061-drumpfy-walls.json](./116061-drumpfy-walls.json) |
 | Drums | 187313 | [187313-drums.json](./187313-drums.json) |
+| Drums Challenge | 202159 | [202159-drums-challenge.json](./202159-drums-challenge.json) |
 | Drums Hero | 29149 | [29149-drums-hero.json](./29149-drums-hero.json) |
 | Drums Hero PC | 37398 | [37398-drums-hero-pc.json](./37398-drums-hero-pc.json) |
 | Drums of War | 123803 | [123803-drums-of-war.json](./123803-drums-of-war.json) |
@@ -19821,6 +19829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Souls: The Last Bearer | 186950 | [186950-dual-souls-the-last-bearer.json](./186950-dual-souls-the-last-bearer.json) |
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
+| Dual Sudoku | 202160 | [202160-dual-sudoku.json](./202160-dual-sudoku.json) |
 | Dual Tennis | 246959 | [246959-dual-tennis.json](./246959-dual-tennis.json) |
 | Dual Transform | 60188 | [60188-dual-transform.json](./60188-dual-transform.json) |
 | Dual Universe | 19548 | [19548-dual-universe.json](./19548-dual-universe.json) |
@@ -20405,6 +20414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Girls Attack! | 389788 | [389788-dune-girls-attack.json](./389788-dune-girls-attack.json) |
 | Dune II: The Building of a Dynasty | 86 | [86-dune-ii-the-building-of-a-dynasty.json](./86-dune-ii-the-building-of-a-dynasty.json) |
 | Dune Legacy | 134535 | [134535-dune-legacy.json](./134535-dune-legacy.json) |
+| Dune Mechanic: Survive the Steampunk Era | 200625 | [200625-dune-mechanic-survive-the-steampunk-era.json](./200625-dune-mechanic-survive-the-steampunk-era.json) |
 | Dune MUD | 228880 | [228880-dune-mud.json](./228880-dune-mud.json) |
 | Dune of the Desert | 242334 | [242334-dune-of-the-desert.json](./242334-dune-of-the-desert.json) |
 | Dune Raider | 377839 | [377839-dune-raider.json](./377839-dune-raider.json) |
