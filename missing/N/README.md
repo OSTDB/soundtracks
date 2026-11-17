@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
 | New World: The Ideal World | 335762 | [335762-new-world-the-ideal-world.json](./335762-new-world-the-ideal-world.json) |
 | New World: The Tupis | 75603 | [75603-new-world-the-tupis.json](./75603-new-world-the-tupis.json) |
+| New Worlds | 423527 | [423527-new-worlds.json](./423527-new-worlds.json) |
 | New XCommander | 337758 | [337758-new-xcommander.json](./337758-new-xcommander.json) |
 | New Yahtzee: With Buddies Dice Game | 100955 | [100955-new-yahtzee-with-buddies-dice-game.json](./100955-new-yahtzee-with-buddies-dice-game.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
@@ -6819,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No-Zero | 161585 | [161585-no-zero.json](./161585-no-zero.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
+| No, Chef! | 423506 | [423506-no-chef.json](./423506-no-chef.json) |
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
 | No, I'm Not a Femboy | 376966 | [376966-no-im-not-a-femboy.json](./376966-no-im-not-a-femboy.json) |
 | No, I'm not a Voenkom | 377757 | [377757-no-im-not-a-voenkom.json](./377757-no-im-not-a-voenkom.json) |
