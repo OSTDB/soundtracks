@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Foliage Ocean in Celceta: Kai | 288377 | [288377-ys-foliage-ocean-in-celceta-kai.json](./288377-ys-foliage-ocean-in-celceta-kai.json) |
 | Ys I & II Chronicles: Premium Edition | 42692 | [42692-ys-i-and-ii-chronicles-premium-edition.json](./42692-ys-i-and-ii-chronicles-premium-edition.json) |
 | Ys I & II Chronicles+ | 21032 | [21032-ys-i-and-ii-chronicles.json](./21032-ys-i-and-ii-chronicles.json) |
+| Ys I & II: Complete | 80682 | [80682-ys-i-and-ii-complete.json](./80682-ys-i-and-ii-complete.json) |
 | Ys I & II: Eternal Story | 124499 | [124499-ys-i-and-ii-eternal-story.json](./124499-ys-i-and-ii-eternal-story.json) |
 | Ys I & II: Lost Ancient Kingdom | 206827 | [206827-ys-i-and-ii-lost-ancient-kingdom.json](./206827-ys-i-and-ii-lost-ancient-kingdom.json) |
 | Ys I Chronicals | 410166 | [410166-ys-i-chronicals.json](./410166-ys-i-chronicals.json) |
