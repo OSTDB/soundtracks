@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campgrounds Adventures | 311605 | [311605-campgrounds-adventures.json](./311605-campgrounds-adventures.json) |
 | Campgrounds III: Collector's Edition | 358092 | [358092-campgrounds-iii-collectors-edition.json](./358092-campgrounds-iii-collectors-edition.json) |
 | Campgrounds IV | 139392 | [139392-campgrounds-iv.json](./139392-campgrounds-iv.json) |
+| Campgrounds IV: Collector's Edition | 131647 | [131647-campgrounds-iv-collectors-edition.json](./131647-campgrounds-iv-collectors-edition.json) |
 | Campgrounds: The Endorus Expedition | 139393 | [139393-campgrounds-the-endorus-expedition.json](./139393-campgrounds-the-endorus-expedition.json) |
 | Campgrounds: The Endorus Expedition - Collector's Edition | 33304 | [33304-campgrounds-the-endorus-expedition-collectors-edition.json](./33304-campgrounds-the-endorus-expedition-collectors-edition.json) |
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Stunt Hero Simulator 2025 | 366758 | [366758-car-stunt-hero-simulator-2025.json](./366758-car-stunt-hero-simulator-2025.json) |
 | Car Tag | 295955 | [295955-car-tag.json](./295955-car-tag.json) |
 | Car Tehc | 171677 | [171677-car-tehc.json](./171677-car-tehc.json) |
+| Car Thief Simulator | 131656 | [131656-car-thief-simulator.json](./131656-car-thief-simulator.json) |
 | Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
 | Car Town | 78819 | [78819-car-town.json](./78819-car-town.json) |
 | Car Track Fever | 220243 | [220243-car-track-fever.json](./220243-car-track-fever.json) |
@@ -12725,6 +12727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockeyed Helicopters | 156581 | [156581-cockeyed-helicopters.json](./156581-cockeyed-helicopters.json) |
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
+| Cockhead: Big Kahuna Bar | 131679 | [131679-cockhead-big-kahuna-bar.json](./131679-cockhead-big-kahuna-bar.json) |
 | CockHero: Battle Rookie | 286552 | [286552-cockhero-battle-rookie.json](./286552-cockhero-battle-rookie.json) |
 | Cockpit | 311010 | [311010-cockpit.json](./311010-cockpit.json) |
 | Cockpit Manager '14 | 50330 | [50330-cockpit-manager-14.json](./50330-cockpit-manager-14.json) |
@@ -20796,7 +20799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Trick: Limited Edition | 173112 | [173112-crown-trick-limited-edition.json](./173112-crown-trick-limited-edition.json) |
 | Crown Trick: Requiem of Elements | 171718 | [171718-crown-trick-requiem-of-elements.json](./171718-crown-trick-requiem-of-elements.json) |
 | Crown Trick: Special Edition | 170037 | [170037-crown-trick-special-edition.json](./170037-crown-trick-special-edition.json) |
-| Crown Wars: The Black Prince | 208416 | [208416-crown-wars-the-black-prince.json](./208416-crown-wars-the-black-prince.json) |
 | Crown Wars: The Black Prince - Blood Pact Weapon Skins | 290125 | [290125-crown-wars-the-black-prince-blood-pact-weapon-skins.json](./290125-crown-wars-the-black-prince-blood-pact-weapon-skins.json) |
 | Crown Wars: The Black Prince - Brotherhood of Light Cosmetic Pack | 290124 | [290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json](./290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json) |
 | Crown Wars: The Black Prince - Sacred Edition | 302179 | [302179-crown-wars-the-black-prince-sacred-edition.json](./302179-crown-wars-the-black-prince-sacred-edition.json) |
