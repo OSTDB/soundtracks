@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace In Space | 128339 | [128339-ace-in-space.json](./128339-ace-in-space.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
+| Ace Lightning | 6298 | [6298-ace-lightning.json](./6298-ace-lightning.json) |
 | Ace Low | 13935 | [13935-ace-low.json](./13935-ace-low.json) |
 | Ace Mathician | 77767 | [77767-ace-mathician.json](./77767-ace-mathician.json) |
 | Ace Maverick | 27528 | [27528-ace-maverick.json](./27528-ace-maverick.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man: Jungle Storm | 70235 | [70235-action-man-jungle-storm.json](./70235-action-man-jungle-storm.json) |
 | Action Man: Operation Extreme | 28090 | [28090-action-man-operation-extreme.json](./28090-action-man-operation-extreme.json) |
 | Action Man: Raid on Island X | 72539 | [72539-action-man-raid-on-island-x.json](./72539-action-man-raid-on-island-x.json) |
+| Action Man: Robot Atak | 6299 | [6299-action-man-robot-atak.json](./6299-action-man-robot-atak.json) |
 | Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
 | Action Masters | 92808 | [92808-action-masters.json](./92808-action-masters.json) |
@@ -4749,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Attack: Retro Space Shooter | 115715 | [115715-aero-attack-retro-space-shooter.json](./115715-aero-attack-retro-space-shooter.json) |
 | Aero Battle | 158892 | [158892-aero-battle.json](./158892-aero-battle.json) |
 | Aero Battle Royale | 311922 | [311922-aero-battle-royale.json](./311922-aero-battle-royale.json) |
+| Aero Blasters | 12491 | [12491-aero-blasters.json](./12491-aero-blasters.json) |
 | Aero Chimera | 241759 | [241759-aero-chimera.json](./241759-aero-chimera.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
@@ -5451,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agartha-S | 111653 | [111653-agartha-s.json](./111653-agartha-s.json) |
 | AgarZ | 165455 | [165455-agarz.json](./165455-agarz.json) |
 | Agassi Tennis Generation | 248735 | [248735-agassi-tennis-generation.json](./248735-agassi-tennis-generation.json) |
+| Agassi Tennis Generation | 6301 | [6301-agassi-tennis-generation.json](./6301-agassi-tennis-generation.json) |
 | Agatha Christie Collection | 214003 | [214003-agatha-christie-collection.json](./214003-agatha-christie-collection.json) |
 | Agatha Christie Collection 2 | 324202 | [324202-agatha-christie-collection-2.json](./324202-agatha-christie-collection-2.json) |
 | Agatha Christie Hidden Object Collection | 198087 | [198087-agatha-christie-hidden-object-collection.json](./198087-agatha-christie-hidden-object-collection.json) |
@@ -10022,6 +10026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Baseball | 46153 | [46153-american-baseball.json](./46153-american-baseball.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
+| American Bass Challenge | 6302 | [6302-american-bass-challenge.json](./6302-american-bass-challenge.json) |
 | American Battle Dome | 44451 | [44451-american-battle-dome.json](./44451-american-battle-dome.json) |
 | American Billiards | 94656 | [94656-american-billiards.json](./94656-american-billiards.json) |
 | American Camper Simulator | 158792 | [158792-american-camper-simulator.json](./158792-american-camper-simulator.json) |
@@ -10529,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An American Tail: Animated Movie Book | 280961 | [280961-an-american-tail-animated-movie-book.json](./280961-an-american-tail-animated-movie-book.json) |
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An American Tail: Fievel Goes West | 2308 | [2308-an-american-tail-fievel-goes-west.json](./2308-an-american-tail-fievel-goes-west.json) |
+| An American Tail: Fievel's Gold Rush | 6305 | [6305-an-american-tail-fievels-gold-rush.json](./6305-an-american-tail-fievels-gold-rush.json) |
 | An American Werewolf in LA | 135404 | [135404-an-american-werewolf-in-la.json](./135404-an-american-werewolf-in-la.json) |
 | An Angel Dances In The Sparks of a Bonfire | 336211 | [336211-an-angel-dances-in-the-sparks-of-a-bonfire.json](./336211-an-angel-dances-in-the-sparks-of-a-bonfire.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
@@ -11942,6 +11948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs: A Gigantic Adventure | 69227 | [69227-animaniacs-a-gigantic-adventure.json](./69227-animaniacs-a-gigantic-adventure.json) |
 | Animaniacs: Hollywood Hypnotics | 200362 | [200362-animaniacs-hollywood-hypnotics.json](./200362-animaniacs-hollywood-hypnotics.json) |
 | Animaniacs: Lights, Camera, Action! | 248756 | [248756-animaniacs-lights-camera-action.json](./248756-animaniacs-lights-camera-action.json) |
+| Animaniacs: Lights, Camera, Action! | 6306 | [6306-animaniacs-lights-camera-action.json](./6306-animaniacs-lights-camera-action.json) |
 | Animaniacs: Ten Pin Alley | 19432 | [19432-animaniacs-ten-pin-alley.json](./19432-animaniacs-ten-pin-alley.json) |
 | Animaniacs: The Great Edgar Hunt | 3786 | [3786-animaniacs-the-great-edgar-hunt.json](./3786-animaniacs-the-great-edgar-hunt.json) |
 | Animarama | 217231 | [217231-animarama.json](./217231-animarama.json) |
