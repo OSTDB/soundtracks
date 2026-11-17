@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
 | Daedalus: The Awakening of Golden Jazz | 106286 | [106286-daedalus-the-awakening-of-golden-jazz.json](./106286-daedalus-the-awakening-of-golden-jazz.json) |
+| Daedalus: The Awakening of Golden Jazz - Limited Edition | 166256 | [166256-daedalus-the-awakening-of-golden-jazz-limited-edition.json](./166256-daedalus-the-awakening-of-golden-jazz-limited-edition.json) |
 | Daedalus: You Have Been Chosen | 253534 | [253534-daedalus-you-have-been-chosen.json](./253534-daedalus-you-have-been-chosen.json) |
 | Daedaluz | 165938 | [165938-daedaluz.json](./165938-daedaluz.json) |
 | Daegeonmulju: Geonmulju Kiugi | 239012 | [239012-daegeonmulju-geonmulju-kiugi.json](./239012-daegeonmulju-geonmulju-kiugi.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny's Descent | 275984 | [275984-dannys-descent.json](./275984-dannys-descent.json) |
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
 | Danny's War | 30433 | [30433-dannys-war.json](./30433-dannys-war.json) |
+| Danplace | 170064 | [170064-danplace.json](./170064-danplace.json) |
 | Danse Macabre: Crimson Cabaret | 140213 | [140213-danse-macabre-crimson-cabaret.json](./140213-danse-macabre-crimson-cabaret.json) |
 | Danse Macabre: Crimson Cabaret - Collector's Edition | 39267 | [39267-danse-macabre-crimson-cabaret-collectors-edition.json](./39267-danse-macabre-crimson-cabaret-collectors-edition.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
@@ -5254,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
 | Death off the Cuff | 217579 | [217579-death-off-the-cuff.json](./217579-death-off-the-cuff.json) |
 | Death off the Cuff: Remastered | 174021 | [174021-death-off-the-cuff-remastered.json](./174021-death-off-the-cuff-remastered.json) |
+| Death on a Street Corner: Overdose Simulator | 170062 | [170062-death-on-a-street-corner-overdose-simulator.json](./170062-death-on-a-street-corner-overdose-simulator.json) |
 | Death On Holly Ridge | 381319 | [381319-death-on-holly-ridge.json](./381319-death-on-holly-ridge.json) |
 | Death on Stage | 320702 | [320702-death-on-stage.json](./320702-death-on-stage.json) |
 | Death or Glory | 13577 | [13577-death-or-glory.json](./13577-death-or-glory.json) |
@@ -11778,6 +11781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 6: Defiance of Destiny - Desco | 238319 | [238319-disgaea-6-defiance-of-destiny-desco.json](./238319-disgaea-6-defiance-of-destiny-desco.json) |
 | Disgaea 6: Defiance of Destiny - Fuka | 238312 | [238312-disgaea-6-defiance-of-destiny-fuka.json](./238312-disgaea-6-defiance-of-destiny-fuka.json) |
 | Disgaea 6: Defiance of Destiny - Killia | 238318 | [238318-disgaea-6-defiance-of-destiny-killia.json](./238318-disgaea-6-defiance-of-destiny-killia.json) |
+| Disgaea 6: Defiance of Destiny - Limited Edition | 166315 | [166315-disgaea-6-defiance-of-destiny-limited-edition.json](./166315-disgaea-6-defiance-of-destiny-limited-edition.json) |
 | Disgaea 6: Defiance of Destiny - Mao | 238314 | [238314-disgaea-6-defiance-of-destiny-mao.json](./238314-disgaea-6-defiance-of-destiny-mao.json) |
 | Disgaea 6: Defiance of Destiny - Pleinair | 238313 | [238313-disgaea-6-defiance-of-destiny-pleinair.json](./238313-disgaea-6-defiance-of-destiny-pleinair.json) |
 | Disgaea 6: Defiance of Destiny - Raspberyl | 238315 | [238315-disgaea-6-defiance-of-destiny-raspberyl.json](./238315-disgaea-6-defiance-of-destiny-raspberyl.json) |
