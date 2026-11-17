@@ -6659,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owlboy: Collector's Edition | 51858 | [51858-owlboy-collectors-edition.json](./51858-owlboy-collectors-edition.json) |
 | Owlboy: Limited Edition | 68672 | [68672-owlboy-limited-edition.json](./68672-owlboy-limited-edition.json) |
 | Owlen and the Spirits of the Past | 385084 | [385084-owlen-and-the-spirits-of-the-past.json](./385084-owlen-and-the-spirits-of-the-past.json) |
+| Owlen and the Starbound Mountain | 417922 | [417922-owlen-and-the-starbound-mountain.json](./417922-owlen-and-the-starbound-mountain.json) |
 | Owlen and the Whispering Woods | 396433 | [396433-owlen-and-the-whispering-woods.json](./396433-owlen-and-the-whispering-woods.json) |
 | Owlet's Embrace | 272485 | [272485-owlets-embrace.json](./272485-owlets-embrace.json) |
 | Owlette in the Sky | 359434 | [359434-owlette-in-the-sky.json](./359434-owlette-in-the-sky.json) |
