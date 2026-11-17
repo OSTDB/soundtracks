@@ -19358,7 +19358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
 | Athena Adventure | 424600 | [424600-athena-adventure.json](./424600-athena-adventure.json) |
 | Athena Code | 370262 | [370262-athena-code.json](./370262-athena-code.json) |
-| Athena Crisis | 252072 | [252072-athena-crisis.json](./252072-athena-crisis.json) |
 | Athena Cykes: Ace Attorney - Dark Ace Saga | 308427 | [308427-athena-cykes-ace-attorney-dark-ace-saga.json](./308427-athena-cykes-ace-attorney-dark-ace-saga.json) |
 | Athena Cykes: Ace Attorney - Locks on the Heart | 306604 | [306604-athena-cykes-ace-attorney-locks-on-the-heart.json](./306604-athena-cykes-ace-attorney-locks-on-the-heart.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
