@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Crush | 147814 | [147814-kaiju-crush.json](./147814-kaiju-crush.json) |
 | Kaiju Evolution Survivor | 334192 | [334192-kaiju-evolution-survivor.json](./334192-kaiju-evolution-survivor.json) |
 | Kaiju Feeder | 305320 | [305320-kaiju-feeder.json](./305320-kaiju-feeder.json) |
+| Kaiju Fishing | 131643 | [131643-kaiju-fishing.json](./131643-kaiju-fishing.json) |
 | Kaiju Fury Turbo | 303609 | [303609-kaiju-fury-turbo.json](./303609-kaiju-fury-turbo.json) |
 | KaiJu Girls | 236475 | [236475-kaiju-girls.json](./236475-kaiju-girls.json) |
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamiyogatari | 206395 | [206395-kamiyogatari.json](./206395-kamiyogatari.json) |
 | Kamkball | 133803 | [133803-kamkball.json](./133803-kamkball.json) |
 | Kamla | 266813 | [266813-kamla.json](./266813-kamla.json) |
+| Kamodo Steve! Janitor on Fire! | 126675 | [126675-kamodo-steve-janitor-on-fire.json](./126675-kamodo-steve-janitor-on-fire.json) |
 | Kampf dem Terror | 98977 | [98977-kampf-dem-terror.json](./98977-kampf-dem-terror.json) |
 | Kampf dem Virus | 421627 | [421627-kampf-dem-virus.json](./421627-kampf-dem-virus.json) |
 | Kampfgruppe | 25900 | [25900-kampfgruppe.json](./25900-kampfgruppe.json) |
@@ -2316,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Kapers | 198792 | [198792-keystone-kapers.json](./198792-keystone-kapers.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | Keystone Titans VR | 249074 | [249074-keystone-titans-vr.json](./249074-keystone-titans-vr.json) |
+| Keystones | 115099 | [115099-keystones.json](./115099-keystones.json) |
 | Keytamine | 348720 | [348720-keytamine.json](./348720-keytamine.json) |
 | Keytron | 350480 | [350480-keytron.json](./350480-keytron.json) |
 | keyWars | 96848 | [96848-keywars.json](./96848-keywars.json) |
@@ -2851,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill It With Fire: Ignition | 133071 | [133071-kill-it-with-fire-ignition.json](./133071-kill-it-with-fire-ignition.json) |
 | Kill It With Fire: Year of the Spider | 238161 | [238161-kill-it-with-fire-year-of-the-spider.json](./238161-kill-it-with-fire-year-of-the-spider.json) |
+| Kill jump monster | 115098 | [115098-kill-jump-monster.json](./115098-kill-jump-monster.json) |
 | Kill Justin Beaver | 332152 | [332152-kill-justin-beaver.json](./332152-kill-justin-beaver.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
 | Kill King | 189923 | [189923-kill-king.json](./189923-kill-king.json) |
@@ -3989,7 +3993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Dead Lands | 140696 | [140696-kingdom-two-crowns-dead-lands.json](./140696-kingdom-two-crowns-dead-lands.json) |
 | Kingdom Two Crowns: Essentials Pack | 324494 | [324494-kingdom-two-crowns-essentials-pack.json](./324494-kingdom-two-crowns-essentials-pack.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
-| Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
 | Kingdom Two Crowns: Norse Lands Edition | 186529 | [186529-kingdom-two-crowns-norse-lands-edition.json](./186529-kingdom-two-crowns-norse-lands-edition.json) |
 | Kingdom Two Crowns: Olympus Edition | 320684 | [320684-kingdom-two-crowns-olympus-edition.json](./320684-kingdom-two-crowns-olympus-edition.json) |
 | Kingdom Two Crowns: Shogun | 233835 | [233835-kingdom-two-crowns-shogun.json](./233835-kingdom-two-crowns-shogun.json) |
@@ -5353,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Round | 6816 | [6816-knights-of-the-round.json](./6816-knights-of-the-round.json) |
 | Knights of the Round Peg | 301877 | [301877-knights-of-the-round-peg.json](./301877-knights-of-the-round-peg.json) |
 | Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
+| Knights of the Silver Table | 117832 | [117832-knights-of-the-silver-table.json](./117832-knights-of-the-silver-table.json) |
 | Knights of the Sky | 12167 | [12167-knights-of-the-sky.json](./12167-knights-of-the-sky.json) |
 | Knights of the Temple II | 11007 | [11007-knights-of-the-temple-ii.json](./11007-knights-of-the-temple-ii.json) |
 | Knights of the Temple: Infernal Crusade | 1222 | [1222-knights-of-the-temple-infernal-crusade.json](./1222-knights-of-the-temple-infernal-crusade.json) |
