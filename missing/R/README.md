@@ -76,7 +76,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type III & Super R-Type Collector's Edition | 136061 | [136061-r-type-iii-and-super-r-type-collectors-edition.json](./136061-r-type-iii-and-super-r-type-collectors-edition.json) |
 | R-Type III: The Third Lightning | 6550 | [6550-r-type-iii-the-third-lightning.json](./6550-r-type-iii-the-third-lightning.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
-| R-Type Tactics I & II Cosmos | 225776 | [225776-r-type-tactics-i-and-ii-cosmos.json](./225776-r-type-tactics-i-and-ii-cosmos.json) |
 | R-Type Tactics I & II Cosmos: Deluxe Edition | 249962 | [249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json](./249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json) |
 | R-Type Tactics I & II Cosmos: Limited Edition | 276768 | [276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json](./276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
@@ -2563,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven's Daring Adventure | 311736 | [311736-ravens-daring-adventure.json](./311736-ravens-daring-adventure.json) |
 | Raven's Gate | 228673 | [228673-ravens-gate.json](./228673-ravens-gate.json) |
 | Raven's Hike | 164982 | [164982-ravens-hike.json](./164982-ravens-hike.json) |
+| Raven's Path | 131685 | [131685-ravens-path.json](./131685-ravens-path.json) |
 | Raven's Point | 156569 | [156569-ravens-point.json](./156569-ravens-point.json) |
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
 | Ravenbound: Hammers of Ávalt | 255152 | [255152-ravenbound-hammers-of-avalt.json](./255152-ravenbound-hammers-of-avalt.json) |
@@ -3963,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn: Survival | 131222 | [131222-reborn-survival.json](./131222-reborn-survival.json) |
 | Reborn: The Evil Being | 373168 | [373168-reborn-the-evil-being.json](./373168-reborn-the-evil-being.json) |
 | Reborn: The Mark Of The Blood | 143465 | [143465-reborn-the-mark-of-the-blood.json](./143465-reborn-the-mark-of-the-blood.json) |
+| Rebornia | 131641 | [131641-rebornia.json](./131641-rebornia.json) |
 | Rebornia | 297842 | [297842-rebornia.json](./297842-rebornia.json) |
 | Rebots | 137815 | [137815-rebots.json](./137815-rebots.json) |
 | Rebounce | 374323 | [374323-rebounce.json](./374323-rebounce.json) |
@@ -7075,7 +7076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroScape | 185107 | [185107-retroscape.json](./185107-retroscape.json) |
 | RetroShip: Hit the space ship | 175285 | [175285-retroship-hit-the-space-ship.json](./175285-retroship-hit-the-space-ship.json) |
 | RetroShooti | 150910 | [150910-retroshooti.json](./150910-retroshooti.json) |
-| RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroSpace | 295608 | [295608-retrospace.json](./295608-retrospace.json) |
 | Retrospect | 376622 | [376622-retrospect.json](./376622-retrospect.json) |
 | Retrosurge | 251863 | [251863-retrosurge.json](./251863-retrosurge.json) |
