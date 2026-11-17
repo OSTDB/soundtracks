@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Time Trio | 321532 | [321532-bad-time-trio.json](./321532-bad-time-trio.json) |
 | Bad Times at the Silver Lake | 246926 | [246926-bad-times-at-the-silver-lake.json](./246926-bad-times-at-the-silver-lake.json) |
 | Bad Toys | 71936 | [71936-bad-toys.json](./71936-bad-toys.json) |
+| Bad Trip | 180328 | [180328-bad-trip.json](./180328-bad-trip.json) |
 | Bad Trip | 379998 | [379998-bad-trip.json](./379998-bad-trip.json) |
 | Bad Vaxx | 361788 | [361788-bad-vaxx.json](./361788-bad-vaxx.json) |
 | Bad Vibes | 171378 | [171378-bad-vibes.json](./171378-bad-vibes.json) |
