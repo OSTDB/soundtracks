@@ -8358,7 +8358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorgon's quest | 207437 | [207437-gorgons-quest.json](./207437-gorgons-quest.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gorgons' Gaze | 216255 | [216255-gorgons-gaze.json](./216255-gorgons-gaze.json) |
-| Gori: Cuddly Carnage | 133341 | [133341-gori-cuddly-carnage.json](./133341-gori-cuddly-carnage.json) |
 | Gori: Cuddly Carnage - Change Skin Pack | 316214 | [316214-gori-cuddly-carnage-change-skin-pack.json](./316214-gori-cuddly-carnage-change-skin-pack.json) |
 | Gori: Cuddly Carnage - Chinese Dragon Premium Skin Pack | 316213 | [316213-gori-cuddly-carnage-chinese-dragon-premium-skin-pack.json](./316213-gori-cuddly-carnage-chinese-dragon-premium-skin-pack.json) |
 | Gori: Cuddly Carnage - Day One Skin Pack | 316212 | [316212-gori-cuddly-carnage-day-one-skin-pack.json](./316212-gori-cuddly-carnage-day-one-skin-pack.json) |
