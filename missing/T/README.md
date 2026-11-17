@@ -13067,6 +13067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Ultimate Edition | 331253 | [331253-the-king-of-fighters-xv-ultimate-edition.json](./331253-the-king-of-fighters-xv-ultimate-edition.json) |
 | The King of Fighters-A 2012 | 38737 | [38737-the-king-of-fighters-a-2012.json](./38737-the-king-of-fighters-a-2012.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
+| The King of Fighters: Battle de Paradise | 70518 | [70518-the-king-of-fighters-battle-de-paradise.json](./70518-the-king-of-fighters-battle-de-paradise.json) |
 | The King of Fighters: Dream Match 1999 | 45861 | [45861-the-king-of-fighters-dream-match-1999.json](./45861-the-king-of-fighters-dream-match-1999.json) |
 | The King of Fighters: Evolution | 4361 | [4361-the-king-of-fighters-evolution.json](./4361-the-king-of-fighters-evolution.json) |
 | The King of Fighters: Heat of Battle | 191476 | [191476-the-king-of-fighters-heat-of-battle.json](./191476-the-king-of-fighters-heat-of-battle.json) |
@@ -29042,6 +29043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Alarm | 102299 | [102299-total-alarm.json](./102299-total-alarm.json) |
 | Total Anarchy: Pavilion City | 188807 | [188807-total-anarchy-pavilion-city.json](./188807-total-anarchy-pavilion-city.json) |
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
+| Total Annihilation: Battle Tactics | 71657 | [71657-total-annihilation-battle-tactics.json](./71657-total-annihilation-battle-tactics.json) |
 | Total Annihilation: Commander Pack | 98907 | [98907-total-annihilation-commander-pack.json](./98907-total-annihilation-commander-pack.json) |
 | Total Annihilation: Kingdoms - Iron Plague | 71852 | [71852-total-annihilation-kingdoms-iron-plague.json](./71852-total-annihilation-kingdoms-iron-plague.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
@@ -35240,6 +35242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Simulator | 310857 | [310857-tropical-resort-simulator.json](./310857-tropical-resort-simulator.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
+| Tropical Storm | 71638 | [71638-tropical-storm.json](./71638-tropical-storm.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
 | Tropical Swaps 2 | 206082 | [206082-tropical-swaps-2.json](./206082-tropical-swaps-2.json) |
 | Tropical Treasure Hunt | 386882 | [386882-tropical-treasure-hunt.json](./386882-tropical-treasure-hunt.json) |
