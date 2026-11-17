@@ -7287,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Halo | 207684 | [207684-chasing-halo.json](./207684-chasing-halo.json) |
 | Chasing Her Light | 348701 | [348701-chasing-her-light.json](./348701-chasing-her-light.json) |
+| Chasing Immortality | 425269 | [425269-chasing-immortality.json](./425269-chasing-immortality.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Light | 132582 | [132582-chasing-light.json](./132582-chasing-light.json) |
 | Chasing Nebula | 120705 | [120705-chasing-nebula.json](./120705-chasing-nebula.json) |
@@ -11473,6 +11474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawed Cult | 247939 | [247939-clawed-cult.json](./247939-clawed-cult.json) |
 | Clawface | 89670 | [89670-clawface.json](./89670-clawface.json) |
 | Clawfish | 152190 | [152190-clawfish.json](./152190-clawfish.json) |
+| ClawGnomes | 425287 | [425287-clawgnomes.json](./425287-clawgnomes.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Clawpunk | 302833 | [302833-clawpunk.json](./302833-clawpunk.json) |
 | Claws & Chaos | 261674 | [261674-claws-and-chaos.json](./261674-claws-and-chaos.json) |
@@ -20775,6 +20777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowalt: Traces of the Lost Colony | 132470 | [132470-crowalt-traces-of-the-lost-colony.json](./132470-crowalt-traces-of-the-lost-colony.json) |
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
+| Crowcape Zero | 425291 | [425291-crowcape-zero.json](./425291-crowcape-zero.json) |
 | Crowd | 263109 | [263109-crowd.json](./263109-crowd.json) |
 | Crowd | 390872 | [390872-crowd.json](./390872-crowd.json) |
 | Crowd City | 118715 | [118715-crowd-city.json](./118715-crowd-city.json) |
