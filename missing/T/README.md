@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Legends: Tactics RPG | 219962 | [219962-tap-legends-tactics-rpg.json](./219962-tap-legends-tactics-rpg.json) |
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
+| Tap Monster Duel | 417909 | [417909-tap-monster-duel.json](./417909-tap-monster-duel.json) |
 | Tap My Katamari | 26991 | [26991-tap-my-katamari.json](./26991-tap-my-katamari.json) |
 | Tap Ninja | 193136 | [193136-tap-ninja.json](./193136-tap-ninja.json) |
 | Tap On Overlap | 194168 | [194168-tap-on-overlap.json](./194168-tap-on-overlap.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Goldmania | 336665 | [336665-taxi-goldmania.json](./336665-taxi-goldmania.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
 | Taxi Journey | 133832 | [133832-taxi-journey.json](./133832-taxi-journey.json) |
+| Taxi Life Simulator | 417910 | [417910-taxi-life-simulator.json](./417910-taxi-life-simulator.json) |
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
 | Taxi Life: A City Driving Simulator - Supporter Edition | 290110 | [290110-taxi-life-a-city-driving-simulator-supporter-edition.json](./290110-taxi-life-a-city-driving-simulator-supporter-edition.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
@@ -7466,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Crystal Rod | 38183 | [38183-the-blue-crystal-rod.json](./38183-the-blue-crystal-rod.json) |
 | The Blue Cut Hook | 343146 | [343146-the-blue-cut-hook.json](./343146-the-blue-cut-hook.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
+| The Blue King Collection | 417690 | [417690-the-blue-king-collection.json](./417690-the-blue-king-collection.json) |
 | The Blue Marlin | 313046 | [313046-the-blue-marlin.json](./313046-the-blue-marlin.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
 | The Blue Pendrive | 306220 | [306220-the-blue-pendrive.json](./306220-the-blue-pendrive.json) |
@@ -19187,6 +19190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spy's Adventures in South America | 54643 | [54643-the-spys-adventures-in-south-america.json](./54643-the-spys-adventures-in-south-america.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Square Key | 165942 | [165942-the-square-key.json](./165942-the-square-key.json) |
+| The Square Ones | 417906 | [417906-the-square-ones.json](./417906-the-square-ones.json) |
 | The Squared Circle | 62505 | [62505-the-squared-circle.json](./62505-the-squared-circle.json) |
 | The Squash P | 227921 | [227921-the-squash-p.json](./227921-the-squash-p.json) |
 | The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
@@ -21274,6 +21278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Life - The Game | 106874 | [106874-the-wild-life-the-game.json](./106874-the-wild-life-the-game.json) |
 | The Wild Outback | 338990 | [338990-the-wild-outback.json](./338990-the-wild-outback.json) |
 | The Wild Rings | 67730 | [67730-the-wild-rings.json](./67730-the-wild-rings.json) |
+| The Wild Run | 417674 | [417674-the-wild-run.json](./417674-the-wild-run.json) |
 | The Wild Science Arcade | 72038 | [72038-the-wild-science-arcade.json](./72038-the-wild-science-arcade.json) |
 | The Wild Thornberrys Movie | 148631 | [148631-the-wild-thornberrys-movie.json](./148631-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
@@ -26346,6 +26351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
 | Tiny Dice Dungeon | 62086 | [62086-tiny-dice-dungeon.json](./62086-tiny-dice-dungeon.json) |
 | Tiny Dino | 343257 | [343257-tiny-dino.json](./343257-tiny-dino.json) |
+| Tiny Dino Learning Academy | 417912 | [417912-tiny-dino-learning-academy.json](./417912-tiny-dino-learning-academy.json) |
 | Tiny Dino: Royale | 314364 | [314364-tiny-dino-royale.json](./314364-tiny-dino-royale.json) |
 | Tiny Divide | 325631 | [325631-tiny-divide.json](./325631-tiny-divide.json) |
 | Tiny Dragon Story | 247583 | [247583-tiny-dragon-story.json](./247583-tiny-dragon-story.json) |
@@ -29705,6 +29711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Chronicle of Youkai Prayers | 356567 | [356567-touhou-chronicle-of-youkai-prayers.json](./356567-touhou-chronicle-of-youkai-prayers.json) |
 | Touhou Chronicles: Tales of the Two Immortals | 372059 | [372059-touhou-chronicles-tales-of-the-two-immortals.json](./372059-touhou-chronicles-tales-of-the-two-immortals.json) |
 | Touhou Crawl | 356561 | [356561-touhou-crawl.json](./356561-touhou-crawl.json) |
+| Touhou Creator | 417692 | [417692-touhou-creator.json](./417692-touhou-creator.json) |
 | Touhou Crisis | 202507 | [202507-touhou-crisis.json](./202507-touhou-crisis.json) |
 | Touhou Daiundoukai: Gensou Kyoutou Yuugi Meddlesome Magician | 206883 | [206883-touhou-daiundoukai-gensou-kyoutou-yuugi-meddlesome-magician.json](./206883-touhou-daiundoukai-gensou-kyoutou-yuugi-meddlesome-magician.json) |
 | Touhou Daiundousai | 206885 | [206885-touhou-daiundousai.json](./206885-touhou-daiundousai.json) |
