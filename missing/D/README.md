@@ -6744,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
 | Deiland | 174626 | [174626-deiland.json](./174626-deiland.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
+| Deimos Rising | 71643 | [71643-deimos-rising.json](./71643-deimos-rising.json) |
 | Deimos' Endless Pursuit of Becoming Deimos: Part One | 307258 | [307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json](./307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json) |
 | Dein Sportpferd | 250693 | [250693-dein-sportpferd.json](./250693-dein-sportpferd.json) |
 | Deion Sanders Baseball | 198722 | [198722-deion-sanders-baseball.json](./198722-deion-sanders-baseball.json) |
@@ -8986,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Stories | 218675 | [218675-detective-stories.json](./218675-detective-stories.json) |
 | Detective Stories Bundle | 118885 | [118885-detective-stories-bundle.json](./118885-detective-stories-bundle.json) |
 | Detective Stories: Hollywood | 202069 | [202069-detective-stories-hollywood.json](./202069-detective-stories-hollywood.json) |
+| Detective Storm | 71619 | [71619-detective-storm.json](./71619-detective-storm.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Story: Reporter | 152552 | [152552-detective-story-reporter.json](./152552-detective-story-reporter.json) |
 | Detective Super Star | 220357 | [220357-detective-super-star.json](./220357-detective-super-star.json) |
@@ -10959,6 +10961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hunt 2 | 265090 | [265090-dino-hunt-2.json](./265090-dino-hunt-2.json) |
 | Dino Hunter: Deadly Shores | 61205 | [61205-dino-hunter-deadly-shores.json](./61205-dino-hunter-deadly-shores.json) |
 | Dino Invasion | 146966 | [146966-dino-invasion.json](./146966-dino-invasion.json) |
+| Dino Island | 71625 | [71625-dino-island.json](./71625-dino-island.json) |
 | Dino Island Adventure | 188795 | [188795-dino-island-adventure.json](./188795-dino-island-adventure.json) |
 | Dino Island: The Four Crystals | 194859 | [194859-dino-island-the-four-crystals.json](./194859-dino-island-the-four-crystals.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
@@ -10982,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Nite | 156231 | [156231-dino-nite.json](./156231-dino-nite.json) |
 | Dino Numbers | 128485 | [128485-dino-numbers.json](./128485-dino-numbers.json) |
 | Dino Odyssey | 417895 | [417895-dino-odyssey.json](./417895-dino-odyssey.json) |
+| Dino of the Damned | 71617 | [71617-dino-of-the-damned.json](./71617-dino-of-the-damned.json) |
 | Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
 | Dino Park | 290253 | [290253-dino-park.json](./290253-dino-park.json) |
 | Dino Party | 382519 | [382519-dino-party.json](./382519-dino-party.json) |
@@ -11399,6 +11403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
 | Dirt Track Racing Pinball | 257310 | [257310-dirt-track-racing-pinball.json](./257310-dirt-track-racing-pinball.json) |
 | Dirt Track Racing: Australia | 73507 | [73507-dirt-track-racing-australia.json](./73507-dirt-track-racing-australia.json) |
+| Dirt Track Racing: Sprint Cars | 71659 | [71659-dirt-track-racing-sprint-cars.json](./71659-dirt-track-racing-sprint-cars.json) |
 | Dirt Trackin 2 | 147781 | [147781-dirt-trackin-2.json](./147781-dirt-trackin-2.json) |
 | Dirt Trackin Sprint Cars | 88095 | [88095-dirt-trackin-sprint-cars.json](./88095-dirt-trackin-sprint-cars.json) |
 | Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
@@ -12182,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Magical Quest 3 Starring Mickey & Donald | 6381 | [6381-disneys-magical-quest-3-starring-mickey-and-donald.json](./6381-disneys-magical-quest-3-starring-mickey-and-donald.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
+| Disney's Mickey Mouse Toddler | 71630 | [71630-disneys-mickey-mouse-toddler.json](./71630-disneys-mickey-mouse-toddler.json) |
 | Disney's Mickey Saves the Day: 3D Adventure | 74101 | [74101-disneys-mickey-saves-the-day-3d-adventure.json](./74101-disneys-mickey-saves-the-day-3d-adventure.json) |
 | Disney's Mulan | 46673 | [46673-disneys-mulan.json](./46673-disneys-mulan.json) |
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
