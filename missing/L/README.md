@@ -9868,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
 | Love Com: Punch de Cont. | 253239 | [253239-love-com-punch-de-cont.json](./253239-love-com-punch-de-cont.json) |
 | Love Com: Punch de Konto | 61443 | [61443-love-com-punch-de-konto.json](./61443-love-com-punch-de-konto.json) |
+| Love Come Switch | 425944 | [425944-love-come-switch.json](./425944-love-come-switch.json) |
 | Love Complex: The Black Cat He Loved | 284171 | [284171-love-complex-the-black-cat-he-loved.json](./284171-love-complex-the-black-cat-he-loved.json) |
 | Love Confessions on the Adventure | 349271 | [349271-love-confessions-on-the-adventure.json](./349271-love-confessions-on-the-adventure.json) |
 | Love Connect | 268992 | [268992-love-connect.json](./268992-love-connect.json) |
