@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
 | Scarlet Meister | 375572 | [375572-scarlet-meister.json](./375572-scarlet-meister.json) |
 | Scarlet Midnight | 134856 | [134856-scarlet-midnight.json](./134856-scarlet-midnight.json) |
+| Scarlet Nexus: Bond Enhancement Pack 1 | 172786 | [172786-scarlet-nexus-bond-enhancement-pack-1.json](./172786-scarlet-nexus-bond-enhancement-pack-1.json) |
 | Scarlet Nexus: Bond Enhancement Pack 2 | 224474 | [224474-scarlet-nexus-bond-enhancement-pack-2.json](./224474-scarlet-nexus-bond-enhancement-pack-2.json) |
 | Scarlet Nexus: Brain Eater Pack 3 | 224473 | [224473-scarlet-nexus-brain-eater-pack-3.json](./224473-scarlet-nexus-brain-eater-pack-3.json) |
 | Scarlet Nexus: Deluxe Edition | 164589 | [164589-scarlet-nexus-deluxe-edition.json](./164589-scarlet-nexus-deluxe-edition.json) |
@@ -13305,6 +13306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sit 'N Survive | 397110 | [397110-sit-n-survive.json](./397110-sit-n-survive.json) |
 | Sit and Spin Adventure | 239542 | [239542-sit-and-spin-adventure.json](./239542-sit-and-spin-adventure.json) |
 | Sit and Spin Adventure 2: Truth - Reason: Second Final | 239543 | [239543-sit-and-spin-adventure-2-truth-reason-second-final.json](./239543-sit-and-spin-adventure-2-truth-reason-second-final.json) |
+| Sit Down, Please | 171106 | [171106-sit-down-please.json](./171106-sit-down-please.json) |
 | Sit on bottle | 81966 | [81966-sit-on-bottle.json](./81966-sit-on-bottle.json) |
 | Sit-Back Attack | 327734 | [327734-sit-back-attack.json](./327734-sit-back-attack.json) |
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
@@ -13537,6 +13539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboard Park Tycoon: Back in the USA 2004 | 111165 | [111165-skateboard-park-tycoon-back-in-the-usa-2004.json](./111165-skateboard-park-tycoon-back-in-the-usa-2004.json) |
 | Skateboard Park Tycoon: World Tour 2003 | 111166 | [111166-skateboard-park-tycoon-world-tour-2003.json](./111166-skateboard-park-tycoon-world-tour-2003.json) |
 | Skateboard Party 2 | 38937 | [38937-skateboard-party-2.json](./38937-skateboard-party-2.json) |
+| Skateboard Party 2 Pro | 174379 | [174379-skateboard-party-2-pro.json](./174379-skateboard-party-2-pro.json) |
 | Skateboard Party 3 | 38936 | [38936-skateboard-party-3.json](./38936-skateboard-party-3.json) |
 | Skateboard Party 3 Pro | 95103 | [95103-skateboard-party-3-pro.json](./95103-skateboard-party-3-pro.json) |
 | Skateboarding | 358842 | [358842-skateboarding.json](./358842-skateboarding.json) |
@@ -23988,6 +23991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell My Finger | 396845 | [396845-spell-my-finger.json](./396845-spell-my-finger.json) |
 | Spell of Destruction | 28712 | [28712-spell-of-destruction.json](./28712-spell-of-destruction.json) |
 | Spell of Infinity | 340184 | [340184-spell-of-infinity.json](./340184-spell-of-infinity.json) |
+| Spell Rift | 174373 | [174373-spell-rift.json](./174373-spell-rift.json) |
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
 | Spell Slinger | 238562 | [238562-spell-slinger.json](./238562-spell-slinger.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
