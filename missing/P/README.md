@@ -1697,7 +1697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Kliker Mk I Yanks | 360623 | [360623-panzer-kliker-mk-i-yanks.json](./360623-panzer-kliker-mk-i-yanks.json) |
 | Panzer Knights | 148190 | [148190-panzer-knights.json](./148190-panzer-knights.json) |
-| Panzer Knights: Commander’s Edition | 392660 | [392660-panzer-knights-commander-s-edition.json](./392660-panzer-knights-commander-s-edition.json) |
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin: Challenge Core | 238703 | [238703-panzer-paladin-challenge-core.json](./238703-panzer-paladin-challenge-core.json) |
