@@ -386,7 +386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wald & Gutz: Under Rocks | 188447 | [188447-wald-and-gutz-under-rocks.json](./188447-wald-and-gutz-under-rocks.json) |
 | Wald-Guard | 413652 | [413652-wald-guard.json](./413652-wald-guard.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
-| Walden, a game | 103845 | [103845-walden-a-game.json](./103845-walden-a-game.json) |
 | Waldenses: In Search of Truth | 244558 | [244558-waldenses-in-search-of-truth.json](./244558-waldenses-in-search-of-truth.json) |
 | Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
 | Waldorf's Journey | 318474 | [318474-waldorfs-journey.json](./318474-waldorfs-journey.json) |
@@ -590,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
 | Walls | 343015 | [343015-walls.json](./343015-walls.json) |
 | Walls | 383534 | [383534-walls.json](./383534-walls.json) |
+| Walls & Balls | 113960 | [113960-walls-and-balls.json](./113960-walls-and-balls.json) |
 | Walls and Tower Party | 372372 | [372372-walls-and-tower-party.json](./372372-walls-and-tower-party.json) |
 | Walls Closing In | 125493 | [125493-walls-closing-in.json](./125493-walls-closing-in.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Worlds | 39425 | [39425-war-of-the-worlds.json](./39425-war-of-the-worlds.json) |
 | War of the Wormholes: Janitor Duty | 397991 | [397991-war-of-the-wormholes-janitor-duty.json](./397991-war-of-the-wormholes-janitor-duty.json) |
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
+| War of Three Kingdoms | 113779 | [113779-war-of-three-kingdoms.json](./113779-war-of-three-kingdoms.json) |
 | War of Thrones | 245263 | [245263-war-of-thrones.json](./245263-war-of-thrones.json) |
 | War of Velana | 130492 | [130492-war-of-velana.json](./130492-war-of-velana.json) |
 | War of Warship | 338398 | [338398-war-of-warship.json](./338398-war-of-warship.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | WarWizard | 233329 | [233329-warwizard.json](./233329-warwizard.json) |
 | Waryong Three Kingdoms | 208741 | [208741-waryong-three-kingdoms.json](./208741-waryong-three-kingdoms.json) |
+| Warz: Horde | 113794 | [113794-warz-horde.json](./113794-warz-horde.json) |
 | Warzone | 123645 | [123645-warzone.json](./123645-warzone.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | Warzone | 80966 | [80966-warzone.json](./80966-warzone.json) |
@@ -10429,7 +10431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderdoktor | 74537 | [74537-wunderdoktor.json](./74537-wunderdoktor.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
-| Wunderling | 102807 | [102807-wunderling.json](./102807-wunderling.json) |
 | Wunderling DX | 219755 | [219755-wunderling-dx.json](./219755-wunderling-dx.json) |
 | Wunderling: Kohlrabi's Ruin | 174424 | [174424-wunderling-kohlrabis-ruin.json](./174424-wunderling-kohlrabis-ruin.json) |
 | Wünderpack | 360702 | [360702-wunderpack.json](./360702-wunderpack.json) |
