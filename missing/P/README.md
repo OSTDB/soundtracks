@@ -15316,6 +15316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Game III | 72186 | [72186-power-game-iii.json](./72186-power-game-iii.json) |
 | Power Gate | 42130 | [42130-power-gate.json](./42130-power-gate.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
+| Power Girls Super City | 106186 | [106186-power-girls-super-city.json](./106186-power-girls-super-city.json) |
 | Power Golf | 42100 | [42100-power-golf.json](./42100-power-golf.json) |
 | Power Grid | 304527 | [304527-power-grid.json](./304527-power-grid.json) |
 | Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
