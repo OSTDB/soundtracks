@@ -8532,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EX-802 | 330942 | [330942-ex-802.json](./330942-ex-802.json) |
 | Ex-Argent: Menes no Sairyuu | 206566 | [206566-ex-argent-menes-no-sairyuu.json](./206566-ex-argent-menes-no-sairyuu.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
+| Ex-Master, Zombie | 419260 | [419260-ex-master-zombie.json](./419260-ex-master-zombie.json) |
 | Ex-Mutants | 36738 | [36738-ex-mutants.json](./36738-ex-mutants.json) |
 | Ex-Wife Demon Hunter | 421127 | [421127-ex-wife-demon-hunter.json](./421127-ex-wife-demon-hunter.json) |
 | EX-Xdriver | 272339 | [272339-ex-xdriver.json](./272339-ex-xdriver.json) |
@@ -8604,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excelios | 285932 | [285932-excelios.json](./285932-excelios.json) |
 | Excellent | 373738 | [373738-excellent.json](./373738-excellent.json) |
 | Excellent Bifurcation | 388217 | [388217-excellent-bifurcation.json](./388217-excellent-bifurcation.json) |
+| Excellent Cadavers | 419283 | [419283-excellent-cadavers.json](./419283-excellent-cadavers.json) |
 | Excellent Card Games | 100283 | [100283-excellent-card-games.json](./100283-excellent-card-games.json) |
 | Excellent Expectations | 76520 | [76520-excellent-expectations.json](./76520-excellent-expectations.json) |
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
