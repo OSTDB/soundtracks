@@ -6992,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basics of Sacred Geometry | 176646 | [176646-the-basics-of-sacred-geometry.json](./176646-the-basics-of-sacred-geometry.json) |
 | The Basilisk | 104883 | [104883-the-basilisk.json](./104883-the-basilisk.json) |
 | The Basket Manager | 11943 | [11943-the-basket-manager.json](./11943-the-basket-manager.json) |
+| The Basketball B | 206828 | [206828-the-basketball-b.json](./206828-the-basketball-b.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
 | THE Bass Fishing | 203730 | [203730-the-bass-fishing.json](./203730-the-bass-fishing.json) |
@@ -14256,6 +14257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
 | The Legend of Zelda: Majora's Mask 3D - Limited Edition | 44030 | [44030-the-legend-of-zelda-majoras-mask-3d-limited-edition.json](./44030-the-legend-of-zelda-majoras-mask-3d-limited-edition.json) |
 | The Legend of Zelda: Majora's Mask 3D - Special Edition | 141589 | [141589-the-legend-of-zelda-majoras-mask-3d-special-edition.json](./141589-the-legend-of-zelda-majoras-mask-3d-special-edition.json) |
+| The Legend of Zelda: Majora's Mask Online | 206856 | [206856-the-legend-of-zelda-majoras-mask-online.json](./206856-the-legend-of-zelda-majoras-mask-online.json) |
 | The Legend of Zelda: Majora's Mask Randomizer | 241860 | [241860-the-legend-of-zelda-majoras-mask-randomizer.json](./241860-the-legend-of-zelda-majoras-mask-randomizer.json) |
 | The Legend of Zelda: Mask of the Gods | 323280 | [323280-the-legend-of-zelda-mask-of-the-gods.json](./323280-the-legend-of-zelda-mask-of-the-gods.json) |
 | The Legend of Zelda: Master of Time | 159195 | [159195-the-legend-of-zelda-master-of-time.json](./159195-the-legend-of-zelda-master-of-time.json) |
@@ -15243,6 +15245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mask of Agnosia | 399720 | [399720-the-mask-of-agnosia.json](./399720-the-mask-of-agnosia.json) |
 | The Mask of the Sun | 125298 | [125298-the-mask-of-the-sun.json](./125298-the-mask-of-the-sun.json) |
 | The Mask of Zorro | 199024 | [199024-the-mask-of-zorro.json](./199024-the-mask-of-zorro.json) |
+| The Mask of Zorro | 206854 | [206854-the-mask-of-zorro.json](./206854-the-mask-of-zorro.json) |
 | The Mask of Zorro | 49965 | [49965-the-mask-of-zorro.json](./49965-the-mask-of-zorro.json) |
 | The Mask Reveals Disgusting Face | 143479 | [143479-the-mask-reveals-disgusting-face.json](./143479-the-mask-reveals-disgusting-face.json) |
 | The Mask: From Zero to Hero | 218429 | [218429-the-mask-from-zero-to-hero.json](./218429-the-mask-from-zero-to-hero.json) |
@@ -17510,6 +17513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return of Heracles | 24451 | [24451-the-return-of-heracles.json](./24451-the-return-of-heracles.json) |
 | The Return of Ishtar | 39952 | [39952-the-return-of-ishtar.json](./39952-the-return-of-ishtar.json) |
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
+| The Return of Monte Cristo | 206871 | [206871-the-return-of-monte-cristo.json](./206871-the-return-of-monte-cristo.json) |
 | The Return of Sammy Marlo | 73144 | [73144-the-return-of-sammy-marlo.json](./73144-the-return-of-sammy-marlo.json) |
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
 | The Return of the Incredible Machine: Contraptions | 51401 | [51401-the-return-of-the-incredible-machine-contraptions.json](./51401-the-return-of-the-incredible-machine-contraptions.json) |
@@ -19299,6 +19303,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Succession of Changing Kings | 325807 | [325807-the-succession-of-changing-kings.json](./325807-the-succession-of-changing-kings.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
 | The Succubus Trap Island | 398129 | [398129-the-succubus-trap-island.json](./398129-the-succubus-trap-island.json) |
+| The Sudoku Challenge Collection | 206872 | [206872-the-sudoku-challenge-collection.json](./206872-the-sudoku-challenge-collection.json) |
+| The Sudoku Challenge Unlimited | 206873 | [206873-the-sudoku-challenge-unlimited.json](./206873-the-sudoku-challenge-unlimited.json) |
 | The Sudoku Challenge! | 257311 | [257311-the-sudoku-challenge.json](./257311-the-sudoku-challenge.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suffering: Ties That Bind | 6181 | [6181-the-suffering-ties-that-bind.json](./6181-the-suffering-ties-that-bind.json) |
@@ -29582,6 +29588,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Chronicles: Tales of the Two Immortals | 372059 | [372059-touhou-chronicles-tales-of-the-two-immortals.json](./372059-touhou-chronicles-tales-of-the-two-immortals.json) |
 | Touhou Crawl | 356561 | [356561-touhou-crawl.json](./356561-touhou-crawl.json) |
 | Touhou Crisis | 202507 | [202507-touhou-crisis.json](./202507-touhou-crisis.json) |
+| Touhou Daiundoukai: Gensou Kyoutou Yuugi Meddlesome Magician | 206883 | [206883-touhou-daiundoukai-gensou-kyoutou-yuugi-meddlesome-magician.json](./206883-touhou-daiundoukai-gensou-kyoutou-yuugi-meddlesome-magician.json) |
+| Touhou Daiundousai | 206885 | [206885-touhou-daiundousai.json](./206885-touhou-daiundousai.json) |
 | Touhou Danmaku Kagura | 159010 | [159010-touhou-danmaku-kagura.json](./159010-touhou-danmaku-kagura.json) |
 | Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack 5 | 363256 | [363256-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-5.json](./363256-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-5.json) |
 | Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack 6 | 363257 | [363257-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-6.json](./363257-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-6.json) |
@@ -36136,6 +36144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TTV!Zone Collection 1 | 315171 | [315171-ttv-zone-collection-1.json](./315171-ttv-zone-collection-1.json) |
 | TTV2 | 55301 | [55301-ttv2.json](./55301-ttv2.json) |
 | TTV3 | 120767 | [120767-ttv3.json](./120767-ttv3.json) |
+| TTV4 | 206865 | [206865-ttv4.json](./206865-ttv4.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | Tu Dealer the Game | 105823 | [105823-tu-dealer-the-game.json](./105823-tu-dealer-the-game.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
