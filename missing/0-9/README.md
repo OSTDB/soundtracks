@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | :3 | 328162 | [328162-3.json](./328162-3.json) |
 | ! | 165498 | [165498-.json](./165498-.json) |
 | !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
+| !Dead Pixels Adventure! | 103013 | [103013-dead-pixels-adventure.json](./103013-dead-pixels-adventure.json) |
 | !Hungry Blocks! | 338924 | [338924-hungry-blocks.json](./338924-hungry-blocks.json) |
 | !mrak | 335389 | [335389-mrak.json](./335389-mrak.json) |
 | !Pattern | 225575 | [225575-pattern.json](./225575-pattern.json) |
@@ -1186,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11eyes: Tsumi to Batsu to Aganai no Shoujo | 5470 | [5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json](./5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json) |
 | 11F | 291201 | [291201-11f.json](./291201-11f.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
+| 11th Dream | 117856 | [117856-11th-dream.json](./117856-11th-dream.json) |
 | 11wol Sonyeon | 98427 | [98427-11wol-sonyeon.json](./98427-11wol-sonyeon.json) |
 | 11x11: Soccer Club Manager | 104716 | [104716-11x11-soccer-club-manager.json](./104716-11x11-soccer-club-manager.json) |
 | 12 | 97108 | [97108-12.json](./97108-12.json) |
@@ -2282,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
 | 3 Billion Dreams for a Forgiveness Machine | 229539 | [229539-3-billion-dreams-for-a-forgiveness-machine.json](./229539-3-billion-dreams-for-a-forgiveness-machine.json) |
 | 3 Bingos Away From Hell | 413590 | [413590-3-bingos-away-from-hell.json](./413590-3-bingos-away-from-hell.json) |
+| 3 Blind Mice: A Remediation Game For Improper Children | 126676 | [126676-3-blind-mice-a-remediation-game-for-improper-children.json](./126676-3-blind-mice-a-remediation-game-for-improper-children.json) |
 | 3 Block Match | 359903 | [359903-3-block-match.json](./359903-3-block-match.json) |
 | 3 Bullets | 337553 | [337553-3-bullets.json](./337553-3-bullets.json) |
 | 3 Chicas in Tech | 328170 | [328170-3-chicas-in-tech.json](./328170-3-chicas-in-tech.json) |
@@ -2895,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Minigolf Adventures 2 | 52039 | [52039-3d-ultra-minigolf-adventures-2.json](./52039-3d-ultra-minigolf-adventures-2.json) |
 | 3D Ultra Minigolf Adventures Deluxe | 29113 | [29113-3d-ultra-minigolf-adventures-deluxe.json](./29113-3d-ultra-minigolf-adventures-deluxe.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
+| 3D Ultra Minigolf Adventures: Lost Island | 138294 | [138294-3d-ultra-minigolf-adventures-lost-island.json](./138294-3d-ultra-minigolf-adventures-lost-island.json) |
 | 3D Ultra Minigolf Adventures: Space | 137378 | [137378-3d-ultra-minigolf-adventures-space.json](./137378-3d-ultra-minigolf-adventures-space.json) |
 | 3D Ultra Minigolf Adventures: Wild West | 137503 | [137503-3d-ultra-minigolf-adventures-wild-west.json](./137503-3d-ultra-minigolf-adventures-wild-west.json) |
 | 3D Visual Novel Maker | 371018 | [371018-3d-visual-novel-maker.json](./371018-3d-visual-novel-maker.json) |
