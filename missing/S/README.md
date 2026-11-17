@@ -5394,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Zero | 304298 | [304298-sector-zero.json](./304298-sector-zero.json) |
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
 | Sector: Cyber Crash Episode One: The Cyber Hour | 423625 | [423625-sector-cyber-crash-episode-one-the-cyber-hour.json](./423625-sector-cyber-crash-episode-one-the-cyber-hour.json) |
+| Sector's Edge | 117838 | [117838-sectors-edge.json](./117838-sectors-edge.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
 | Sectoris Sky | 383861 | [383861-sectoris-sky.json](./383861-sectoris-sky.json) |
 | Sectron | 401629 | [401629-sectron.json](./401629-sectron.json) |
@@ -9871,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiosai no Serenade: Episode 3 | 396564 | [396564-shiosai-no-serenade-episode-3.json](./396564-shiosai-no-serenade-episode-3.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
 | Ship Ahoy | 80977 | [80977-ship-ahoy.json](./80977-ship-ahoy.json) |
+| Ship Builder | 116490 | [116490-ship-builder.json](./116490-ship-builder.json) |
 | Ship Busters | 425149 | [425149-ship-busters.json](./425149-ship-busters.json) |
 | Ship Defense | 183497 | [183497-ship-defense.json](./183497-ship-defense.json) |
 | Ship Explorer | 349248 | [349248-ship-explorer.json](./349248-ship-explorer.json) |
@@ -14944,6 +14946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Princess Finne: If Story 3 | 371051 | [371051-slave-princess-finne-if-story-3.json](./371051-slave-princess-finne-if-story-3.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Princess Sarah | 158147 | [158147-slave-princess-sarah.json](./158147-slave-princess-sarah.json) |
+| Slave RPG | 115095 | [115095-slave-rpg.json](./115095-slave-rpg.json) |
 | Slave to a Machine | 271510 | [271510-slave-to-a-machine.json](./271510-slave-to-a-machine.json) |
 | Slave Zero | 8341 | [8341-slave-zero.json](./8341-slave-zero.json) |
 | Slave Zero X: Calamity Edition | 277375 | [277375-slave-zero-x-calamity-edition.json](./277375-slave-zero-x-calamity-edition.json) |
@@ -26243,6 +26246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 2 | 166786 | [166786-sqr-2.json](./166786-sqr-2.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
+| Sqr 4 | 117827 | [117827-sqr-4.json](./117827-sqr-4.json) |
 | Sqrl Golf | 325340 | [325340-sqrl-golf.json](./325340-sqrl-golf.json) |
 | Sqrl Golf II | 325344 | [325344-sqrl-golf-ii.json](./325344-sqrl-golf-ii.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
@@ -27028,6 +27032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Chasers | 109260 | [109260-star-chasers.json](./109260-star-chasers.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chef Simulator | 300639 | [300639-star-chef-simulator.json](./300639-star-chef-simulator.json) |
+| Star Chef: Cooking & Restaurant Game | 116485 | [116485-star-chef-cooking-and-restaurant-game.json](./116485-star-chef-cooking-and-restaurant-game.json) |
 | Star Chef: Cooking Game | 105517 | [105517-star-chef-cooking-game.json](./105517-star-chef-cooking-game.json) |
 | Star Chess | 281201 | [281201-star-chess.json](./281201-star-chess.json) |
 | Star Child | 310124 | [310124-star-child.json](./310124-star-child.json) |
@@ -27479,6 +27484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Shaman | 135111 | [135111-star-shaman.json](./135111-star-shaman.json) |
 | Star Shelter | 59245 | [59245-star-shelter.json](./59245-star-shelter.json) |
 | Star Shield Down | 88076 | [88076-star-shield-down.json](./88076-star-shield-down.json) |
+| Star Shift | 117852 | [117852-star-shift.json](./117852-star-shift.json) |
 | Star Shift Freelancers | 274345 | [274345-star-shift-freelancers.json](./274345-star-shift-freelancers.json) |
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
 | Star Shift Rebellion | 190395 | [190395-star-shift-rebellion.json](./190395-star-shift-rebellion.json) |
@@ -32044,6 +32050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Streichholz wegnehmen | 100042 | [100042-streichholz-wegnehmen.json](./100042-streichholz-wegnehmen.json) |
 | Strelitzia | 350316 | [350316-strelitzia.json](./350316-strelitzia.json) |
+| Streng Check | 116465 | [116465-streng-check.json](./116465-streng-check.json) |
 | Strength | 361392 | [361392-strength.json](./361392-strength.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
@@ -33834,6 +33841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Road | 208522 | [208522-summer-road.json](./208522-summer-road.json) |
 | Summer Rose Court | 125327 | [125327-summer-rose-court.json](./125327-summer-rose-court.json) |
+| Summer Rush | 117836 | [117836-summer-rush.json](./117836-summer-rush.json) |
 | Summer Sale | 32456 | [32456-summer-sale.json](./32456-summer-sale.json) |
 | Summer Santa | 60649 | [60649-summer-santa.json](./60649-summer-santa.json) |
 | Summer Seaside Search | 408530 | [408530-summer-seaside-search.json](./408530-summer-seaside-search.json) |
@@ -37799,6 +37807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Web Kittens: Act I | 119203 | [119203-super-web-kittens-act-i.json](./119203-super-web-kittens-act-i.json) |
 | Super Web Soccer | 323446 | [323446-super-web-soccer.json](./323446-super-web-soccer.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
+| Super Welder | 117828 | [117828-super-welder.json](./117828-super-welder.json) |
 | Super Whatever Quest!!! | 277063 | [277063-super-whatever-quest.json](./277063-super-whatever-quest.json) |
 | Super Whiplash | 160077 | [160077-super-whiplash.json](./160077-super-whiplash.json) |
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
@@ -38925,6 +38934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Pioneer | 335133 | [335133-surviving-mars-pioneer.json](./335133-surviving-mars-pioneer.json) |
 | Surviving Mars: Project Laika | 124952 | [124952-surviving-mars-project-laika.json](./124952-surviving-mars-project-laika.json) |
 | Surviving Mars: Relaunched - Feeding the Future | 414770 | [414770-surviving-mars-relaunched-feeding-the-future.json](./414770-surviving-mars-relaunched-feeding-the-future.json) |
+| Surviving Mars: Space Race | 115113 | [115113-surviving-mars-space-race.json](./115113-surviving-mars-space-race.json) |
 | Surviving Mars: Starter Bundle | 254284 | [254284-surviving-mars-starter-bundle.json](./254284-surviving-mars-starter-bundle.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Purge | 380770 | [380770-surviving-purge.json](./380770-surviving-purge.json) |
@@ -40641,6 +40651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Syne | 183759 | [183759-syne.json](./183759-syne.json) |
 | Synephoria | 383460 | [383460-synephoria.json](./383460-synephoria.json) |
+| Synergia | 116493 | [116493-synergia.json](./116493-synergia.json) |
 | Synergia: NextGen Edition | 268330 | [268330-synergia-nextgen-edition.json](./268330-synergia-nextgen-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
 | Synergism | 150569 | [150569-synergism.json](./150569-synergism.json) |
