@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KiKi KaiKai: Dotou-hen | 41269 | [41269-kiki-kaikai-dotou-hen.json](./41269-kiki-kaikai-dotou-hen.json) |
 | Kiki Kaikai: The Bizarre World | 213258 | [213258-kiki-kaikai-the-bizarre-world.json](./213258-kiki-kaikai-the-bizarre-world.json) |
 | Kiki the Nano Bot | 299702 | [299702-kiki-the-nano-bot.json](./299702-kiki-the-nano-bot.json) |
+| Kiki Trick | 78138 | [78138-kiki-trick.json](./78138-kiki-trick.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
 | Kiki&Lala's Twinkle Puzzle | 215949 | [215949-kiki-and-lalas-twinkle-puzzle.json](./215949-kiki-and-lalas-twinkle-puzzle.json) |
