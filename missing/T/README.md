@@ -4967,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Toy | 251911 | [251911-terra-toy.json](./251911-terra-toy.json) |
 | Terra Traveler | 383104 | [383104-terra-traveler.json](./383104-terra-traveler.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
+| Terra Wars | 41042 | [41042-terra-wars.json](./41042-terra-wars.json) |
 | Terra: A Terraria Demake | 219369 | [219369-terra-a-terraria-demake.json](./219369-terra-a-terraria-demake.json) |
 | Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
 | Terra: Destino Final | 250212 | [250212-terra-destino-final.json](./250212-terra-destino-final.json) |
@@ -6491,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Art of Staying Alive | 134268 | [134268-the-ancient-art-of-staying-alive.json](./134268-the-ancient-art-of-staying-alive.json) |
 | The Ancient Art of War | 14600 | [14600-the-ancient-art-of-war.json](./14600-the-ancient-art-of-war.json) |
+| The Ancient Art of War at Sea | 41069 | [41069-the-ancient-art-of-war-at-sea.json](./41069-the-ancient-art-of-war-at-sea.json) |
 | The Ancient Art of War in the Skies | 11901 | [11901-the-ancient-art-of-war-in-the-skies.json](./11901-the-ancient-art-of-war-in-the-skies.json) |
 | The Ancient Cat Temple | 197521 | [197521-the-ancient-cat-temple.json](./197521-the-ancient-cat-temple.json) |
 | The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
@@ -10733,6 +10735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor is Lava | 88478 | [88478-the-floor-is-lava.json](./88478-the-floor-is-lava.json) |
 | The Floor Is Lava AR! | 107351 | [107351-the-floor-is-lava-ar.json](./107351-the-floor-is-lava-ar.json) |
+| The Floor is Lava: Original Game | 41064 | [41064-the-floor-is-lava-original-game.json](./41064-the-floor-is-lava-original-game.json) |
 | The Floor Is Made of Lava | 74126 | [74126-the-floor-is-made-of-lava.json](./74126-the-floor-is-made-of-lava.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Floor Is Still Really Cheap Lava | 126981 | [126981-the-floor-is-still-really-cheap-lava.json](./126981-the-floor-is-still-really-cheap-lava.json) |
@@ -18200,7 +18203,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Days I Spent With You | 390146 | [390146-the-seven-days-i-spent-with-you.json](./390146-the-seven-days-i-spent-with-you.json) |
 | The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
 | The Seven Deadly Sins: Idle Adventure | 315273 | [315273-the-seven-deadly-sins-idle-adventure.json](./315273-the-seven-deadly-sins-idle-adventure.json) |
+| The Seven Deadly Sins: Knights in the Pocket | 41053 | [41053-the-seven-deadly-sins-knights-in-the-pocket.json](./41053-the-seven-deadly-sins-knights-in-the-pocket.json) |
 | The Seven Deadly Sins: Knights of Britannia | 41058 | [41058-the-seven-deadly-sins-knights-of-britannia.json](./41058-the-seven-deadly-sins-knights-of-britannia.json) |
+| The Seven Deadly Sins: Unjust Sin | 41055 | [41055-the-seven-deadly-sins-unjust-sin.json](./41055-the-seven-deadly-sins-unjust-sin.json) |
 | The Seven Districts of Sin: The Tail Makes the Fox - Episode 1 | 81645 | [81645-the-seven-districts-of-sin-the-tail-makes-the-fox-episode-1.json](./81645-the-seven-districts-of-sin-the-tail-makes-the-fox-episode-1.json) |
 | The Seven Elemental Vases | 326166 | [326166-the-seven-elemental-vases.json](./326166-the-seven-elemental-vases.json) |
 | The Seven Enchantments | 348592 | [348592-the-seven-enchantments.json](./348592-the-seven-enchantments.json) |
@@ -28614,6 +28619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Fighter 2000 MK VIII | 45752 | [45752-top-fighter-2000-mk-viii.json](./45752-top-fighter-2000-mk-viii.json) |
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
 | Top Floor | 31161 | [31161-top-floor.json](./31161-top-floor.json) |
+| Top Fuel Eliminator | 41066 | [41066-top-fuel-eliminator.json](./41066-top-fuel-eliminator.json) |
 | Top Fun 10 VR | 404590 | [404590-top-fun-10-vr.json](./404590-top-fun-10-vr.json) |
 | Top Gang | 189799 | [189799-top-gang.json](./189799-top-gang.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
