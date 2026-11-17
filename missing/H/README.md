@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Peace for Our Time | 399142 | [399142-hearts-of-iron-iv-peace-for-our-time.json](./399142-hearts-of-iron-iv-peace-for-our-time.json) |
 | Hearts of Iron IV: The Great War | 321861 | [321861-hearts-of-iron-iv-the-great-war.json](./321861-hearts-of-iron-iv-the-great-war.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
+| Hearts of Iron IV: Waking the Tiger | 115112 | [115112-hearts-of-iron-iv-waking-the-tiger.json](./115112-hearts-of-iron-iv-waking-the-tiger.json) |
 | Hearts of Iron: Road to War | 64993 | [64993-hearts-of-iron-road-to-war.json](./64993-hearts-of-iron-road-to-war.json) |
 | Hearts of Olympus | 322315 | [322315-hearts-of-olympus.json](./322315-hearts-of-olympus.json) |
 | Hearts of the Dungeon List | 173036 | [173036-hearts-of-the-dungeon-list.json](./173036-hearts-of-the-dungeon-list.json) |
@@ -7415,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Knot | 255011 | [255011-hexa-knot.json](./255011-hexa-knot.json) |
 | Hexa Maze | 115338 | [115338-hexa-maze.json](./115338-hexa-maze.json) |
 | Hexa Merge | 383054 | [383054-hexa-merge.json](./383054-hexa-merge.json) |
+| Hexa Path | 116504 | [116504-hexa-path.json](./116504-hexa-path.json) |
 | Hexa Puzzle Block | 289725 | [289725-hexa-puzzle-block.json](./289725-hexa-puzzle-block.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexa River | 320374 | [320374-hexa-river.json](./320374-hexa-river.json) |
@@ -14596,6 +14598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperplex 3D | 134722 | [134722-hyperplex-3d.json](./134722-hyperplex-3d.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
+| HyperQ: The 4Dimensional Roguelike | 117859 | [117859-hyperq-the-4dimensional-roguelike.json](./117859-hyperq-the-4dimensional-roguelike.json) |
 | Hyperquiz | 391406 | [391406-hyperquiz.json](./391406-hyperquiz.json) |
 | HyperRaid | 293578 | [293578-hyperraid.json](./293578-hyperraid.json) |
 | Hyperrail Detective | 272762 | [272762-hyperrail-detective.json](./272762-hyperrail-detective.json) |
