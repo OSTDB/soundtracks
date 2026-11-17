@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga Puzzle | 21463 | [21463-manga-puzzle.json](./21463-manga-puzzle.json) |
 | Manga RPG | 305667 | [305667-manga-rpg.json](./305667-manga-rpg.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
+| Manga Studio Tycoon | 428293 | [428293-manga-studio-tycoon.json](./428293-manga-studio-tycoon.json) |
 | Manga-Ka Debut Monogatari DS: Akogare! Manga Ka Ikusei Game | 261105 | [261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json](./261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json) |
 | Manga-ka Debut Monogatari: Akogare! Manga Ka Ikusei Game! | 49700 | [49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json](./49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json) |
 | Manga-ka Debut Monogatari: Suteki na Manga wo Egakou | 222393 | [222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json](./222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
 | Marble Flow | 319311 | [319311-marble-flow.json](./319311-marble-flow.json) |
+| Marble FX | 428284 | [428284-marble-fx.json](./428284-marble-fx.json) |
 | Marble Hero | 426607 | [426607-marble-hero.json](./426607-marble-hero.json) |
 | Marble Hill | 312995 | [312995-marble-hill.json](./312995-marble-hill.json) |
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
@@ -4914,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
 | Market Tycoon | 30307 | [30307-market-tycoon.json](./30307-market-tycoon.json) |
 | Market Warfare | 252284 | [252284-market-warfare.json](./252284-market-warfare.json) |
+| Marketfield Idle | 428267 | [428267-marketfield-idle.json](./428267-marketfield-idle.json) |
 | Marketplace | 311236 | [311236-marketplace.json](./311236-marketplace.json) |
 | Markham | 40361 | [40361-markham.json](./40361-markham.json) |
 | Marki Game Collection | 260243 | [260243-marki-game-collection.json](./260243-marki-game-collection.json) |
@@ -6399,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Connect PRO | 106785 | [106785-math-connect-pro.json](./106785-math-connect-pro.json) |
 | Math Dash | 341217 | [341217-math-dash.json](./341217-math-dash.json) |
+| Math Duck+ | 428257 | [428257-math-duck.json](./428257-math-duck.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Effect | 400628 | [400628-math-effect.json](./400628-math-effect.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
@@ -16245,6 +16249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
 | Mizuki Shigeru no Youkai Zukan: Soushuu-hen | 263394 | [263394-mizuki-shigeru-no-youkai-zukan-soushuu-hen.json](./263394-mizuki-shigeru-no-youkai-zukan-soushuu-hen.json) |
 | Mizushima Shinji no Daikoushien | 48772 | [48772-mizushima-shinji-no-daikoushien.json](./48772-mizushima-shinji-no-daikoushien.json) |
+| Mizutamari no Kanojo | 428270 | [428270-mizutamari-no-kanojo.json](./428270-mizutamari-no-kanojo.json) |
 | Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
 | Mizzurna Falls | 43839 | [43839-mizzurna-falls.json](./43839-mizzurna-falls.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
@@ -19026,6 +19031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
 | Moonblood Mountain | 423221 | [423221-moonblood-mountain.json](./423221-moonblood-mountain.json) |
 | Moonbound | 186550 | [186550-moonbound.json](./186550-moonbound.json) |
+| Moonbow Idle: Dark Fantasy Auto Battler | 428262 | [428262-moonbow-idle-dark-fantasy-auto-battler.json](./428262-moonbow-idle-dark-fantasy-auto-battler.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
 | Moonbreaker: Cosmetic Pack | 289523 | [289523-moonbreaker-cosmetic-pack.json](./289523-moonbreaker-cosmetic-pack.json) |
 | Moonbrella | 335633 | [335633-moonbrella.json](./335633-moonbrella.json) |
@@ -20068,6 +20074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mossfield Archives | 305030 | [305030-mossfield-archives.json](./305030-mossfield-archives.json) |
 | Mossfield Origins | 204536 | [204536-mossfield-origins.json](./204536-mossfield-origins.json) |
 | Mossland | 131753 | [131753-mossland.json](./131753-mossland.json) |
+| Mossnaso | 428230 | [428230-mossnaso.json](./428230-mossnaso.json) |
 | Mossroot | 250966 | [250966-mossroot.json](./250966-mossroot.json) |
 | Mossy Oak: Hooks & Horns | 209880 | [209880-mossy-oak-hooks-and-horns.json](./209880-mossy-oak-hooks-and-horns.json) |
 | Mossy Pixels | 270183 | [270183-mossy-pixels.json](./270183-mossy-pixels.json) |
@@ -24973,6 +24980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Stories: Berlin Nights | 209055 | [209055-mystery-stories-berlin-nights.json](./209055-mystery-stories-berlin-nights.json) |
 | Mystery Stories: Island of Hope | 209054 | [209054-mystery-stories-island-of-hope.json](./209054-mystery-stories-island-of-hope.json) |
 | Mystery Stories: Mountains of Madness | 63120 | [63120-mystery-stories-mountains-of-madness.json](./63120-mystery-stories-mountains-of-madness.json) |
+| Mystery Suspect | 428274 | [428274-mystery-suspect.json](./428274-mystery-suspect.json) |
 | Mystery Swords | 172875 | [172875-mystery-swords.json](./172875-mystery-swords.json) |
 | Mystery Tales 2: The Spirit Mask | 147162 | [147162-mystery-tales-2-the-spirit-mask.json](./147162-mystery-tales-2-the-spirit-mask.json) |
 | Mystery Tales: Alaskan Wild | 140238 | [140238-mystery-tales-alaskan-wild.json](./140238-mystery-tales-alaskan-wild.json) |
