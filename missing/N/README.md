@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nelke & the Legendary Alchemists: Ateliers of the New World | 103335 | [103335-nelke-and-the-legendary-alchemists-ateliers-of-the-new-world.json](./103335-nelke-and-the-legendary-alchemists-ateliers-of-the-new-world.json) |
 | Nell & the Festival of Spooks | 178569 | [178569-nell-and-the-festival-of-spooks.json](./178569-nell-and-the-festival-of-spooks.json) |
 | Nell Watson's Founder Life | 207182 | [207182-nell-watsons-founder-life.json](./207182-nell-watsons-founder-life.json) |
+| Nellan is Thirsty | 94440 | [94440-nellan-is-thirsty.json](./94440-nellan-is-thirsty.json) |
 | Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
 | Nellie's Nonograms | 263996 | [263996-nellies-nonograms.json](./263996-nellies-nonograms.json) |
 | Nello in Antwerp | 190093 | [190093-nello-in-antwerp.json](./190093-nello-in-antwerp.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never Let Me Awake | 117910 | [117910-never-let-me-awake.json](./117910-never-let-me-awake.json) |
 | Never Look Back | 407699 | [407699-never-look-back.json](./407699-never-look-back.json) |
+| Never Mind | 93229 | [93229-never-mind.json](./93229-never-mind.json) |
 | Never Mourn | 211863 | [211863-never-mourn.json](./211863-never-mourn.json) |
 | Never Not Shooting | 55625 | [55625-never-not-shooting.json](./55625-never-not-shooting.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
