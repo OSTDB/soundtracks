@@ -5931,7 +5931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agoraphobia: Director's Cut | 329488 | [329488-agoraphobia-directors-cut.json](./329488-agoraphobia-directors-cut.json) |
 | Agoraphobia: Knock Knock | 159759 | [159759-agoraphobia-knock-knock.json](./159759-agoraphobia-knock-knock.json) |
 | Agos | 206602 | [206602-agos.json](./206602-agos.json) |
-| AGOS: A Game of Space | 138768 | [138768-agos-a-game-of-space.json](./138768-agos-a-game-of-space.json) |
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
 | Agrar Simulator 2012 | 63692 | [63692-agrar-simulator-2012.json](./63692-agrar-simulator-2012.json) |
 | Agraria | 403059 | [403059-agraria.json](./403059-agraria.json) |
@@ -9849,6 +9848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amberskull | 56208 | [56208-amberskull.json](./56208-amberskull.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Amberstar | 2424 | [2424-amberstar.json](./2424-amberstar.json) |
+| Ambidangerous | 119802 | [119802-ambidangerous.json](./119802-ambidangerous.json) |
 | Ambidextro | 328138 | [328138-ambidextro.json](./328138-ambidextro.json) |
 | Ambidextrous Psychopath | 158834 | [158834-ambidextrous-psychopath.json](./158834-ambidextrous-psychopath.json) |
 | Ambien | 222596 | [222596-ambien.json](./222596-ambien.json) |
