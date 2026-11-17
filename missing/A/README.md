@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A day for a kitten | 75803 | [75803-a-day-for-a-kitten.json](./75803-a-day-for-a-kitten.json) |
 | A Day for Fresh Sushi | 141554 | [141554-a-day-for-fresh-sushi.json](./141554-a-day-for-fresh-sushi.json) |
 | A Day for Soft Food | 304221 | [304221-a-day-for-soft-food.json](./304221-a-day-for-soft-food.json) |
+| A Day In Space | 159902 | [159902-a-day-in-space.json](./159902-a-day-in-space.json) |
 | A Day In Space | 249257 | [249257-a-day-in-space.json](./249257-a-day-in-space.json) |
 | A Day In The Future | 326523 | [326523-a-day-in-the-future.json](./326523-a-day-in-the-future.json) |
 | A Day in the Lie | 176237 | [176237-a-day-in-the-lie.json](./176237-a-day-in-the-lie.json) |
@@ -3850,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Adventures | 353276 | [353276-adorable-adventures.json](./353276-adorable-adventures.json) |
 | Adorable Dog: Gnomeageddon | 301253 | [301253-adorable-dog-gnomeageddon.json](./301253-adorable-dog-gnomeageddon.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
+| Adorable Girls | 159938 | [159938-adorable-girls.json](./159938-adorable-girls.json) |
 | Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 2 | 192138 | [192138-adorable-witch-2.json](./192138-adorable-witch-2.json) |
@@ -4528,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Hendri | 88252 | [88252-adventures-of-hendri.json](./88252-adventures-of-hendri.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Hooi | 30312 | [30312-adventures-of-hooi.json](./30312-adventures-of-hooi.json) |
+| Adventures of Human Being | 159897 | [159897-adventures-of-human-being.json](./159897-adventures-of-human-being.json) |
 | Adventures of Isabelle Fine: Murder on Rails | 120057 | [120057-adventures-of-isabelle-fine-murder-on-rails.json](./120057-adventures-of-isabelle-fine-murder-on-rails.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of JoJo & ToTo | 253261 | [253261-adventures-of-jojo-and-toto.json](./253261-adventures-of-jojo-and-toto.json) |
