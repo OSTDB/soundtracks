@@ -6503,7 +6503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix! | 233641 | [233641-phoenix.json](./233641-phoenix.json) |
 | Phoenix's Faye | 348184 | [348184-phoenixs-faye.json](./348184-phoenixs-faye.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
-| Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
 | Phoenyx: Breaking the Cycle | 365345 | [365345-phoenyx-breaking-the-cycle.json](./365345-phoenyx-breaking-the-cycle.json) |
 | Phogbound | 158905 | [158905-phogbound.json](./158905-phogbound.json) |
 | Pholee | 294000 | [294000-pholee.json](./294000-pholee.json) |
