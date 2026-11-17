@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captivus | 68841 | [68841-captivus.json](./68841-captivus.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
 | Captor Clash | 213684 | [213684-captor-clash.json](./213684-captor-clash.json) |
+| Captron | 95483 | [95483-captron.json](./95483-captron.json) |
 | Captroon | 213248 | [213248-captroon.json](./213248-captroon.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture | 281217 | [281217-capture.json](./281217-capture.json) |
@@ -12451,6 +12452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Clubhouse Games Express: Family Favorites | 67714 | [67714-clubhouse-games-express-family-favorites.json](./67714-clubhouse-games-express-family-favorites.json) |
 | Clubhouse Games: 51 Worldwide Classics | 131961 | [131961-clubhouse-games-51-worldwide-classics.json](./131961-clubhouse-games-51-worldwide-classics.json) |
+| Clubhouse Sports | 94428 | [94428-clubhouse-sports.json](./94428-clubhouse-sports.json) |
 | ClubR: Online Car Parking Game | 199973 | [199973-clubr-online-car-parking-game.json](./199973-clubr-online-car-parking-game.json) |
 | Cluck | 195184 | [195184-cluck.json](./195184-cluck.json) |
 | Cluck and Conquer | 325977 | [325977-cluck-and-conquer.json](./325977-cluck-and-conquer.json) |
@@ -13900,6 +13902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Swiper 2 | 325787 | [325787-color-swiper-2.json](./325787-color-swiper-2.json) |
 | Color Swiper 3 | 336228 | [336228-color-swiper-3.json](./336228-color-swiper-3.json) |
 | Color Switch | 348722 | [348722-color-switch.json](./348722-color-switch.json) |
+| Color Switch | 95699 | [95699-color-switch.json](./95699-color-switch.json) |
 | Color Switch - Jump and Switch | 98890 | [98890-color-switch-jump-and-switch.json](./98890-color-switch-jump-and-switch.json) |
 | Color Switch Trivia | 89751 | [89751-color-switch-trivia.json](./89751-color-switch-trivia.json) |
 | Color Symphony | 17725 | [17725-color-symphony.json](./17725-color-symphony.json) |
@@ -14231,6 +14234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloris | 335115 | [335115-coloris.json](./335115-coloris.json) |
 | Coloristic | 134426 | [134426-coloristic.json](./134426-coloristic.json) |
 | Colorium | 398384 | [398384-colorium.json](./398384-colorium.json) |
+| Colorix | 94431 | [94431-colorix.json](./94431-colorix.json) |
 | Colorize | 137725 | [137725-colorize.json](./137725-colorize.json) |
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
 | Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
