@@ -7920,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | DeQuoter | 83457 | [83457-dequoter.json](./83457-dequoter.json) |
+| Der alte Piratenschatz | 84377 | [84377-der-alte-piratenschatz.json](./84377-der-alte-piratenschatz.json) |
 | Der Anzeigenhauptmeister | 293959 | [293959-der-anzeigenhauptmeister.json](./293959-der-anzeigenhauptmeister.json) |
 | Der Atom Nazi | 116177 | [116177-der-atom-nazi.json](./116177-der-atom-nazi.json) |
 | Der Bauernhof | 268111 | [268111-der-bauernhof.json](./268111-der-bauernhof.json) |
@@ -9129,6 +9130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deutsch 1.-4. Klasse 2012 | 269747 | [269747-deutsch-1-4-klasse-2012.json](./269747-deutsch-1-4-klasse-2012.json) |
 | Deutsch für Zwerge 1 | 92042 | [92042-deutsch-fur-zwerge-1.json](./92042-deutsch-fur-zwerge-1.json) |
 | Deutsch für Zwerge 2 | 91623 | [91623-deutsch-fur-zwerge-2.json](./91623-deutsch-fur-zwerge-2.json) |
+| Deutsch Pfiffikus 1 - 1995 | 84387 | [84387-deutsch-pfiffikus-1-1995.json](./84387-deutsch-pfiffikus-1-1995.json) |
 | Deutsch Pfiffikus 2 - 1995 | 91635 | [91635-deutsch-pfiffikus-2-1995.json](./91635-deutsch-pfiffikus-2-1995.json) |
 | Deutsch Pfiffikus 2009 | 91621 | [91621-deutsch-pfiffikus-2009.json](./91621-deutsch-pfiffikus-2009.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
