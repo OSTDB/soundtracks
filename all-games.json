@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T09:16:39.156Z",
-  "total_soundtracks": 3691,
+  "generated_at": "2026-11-17T09:26:47.965Z",
+  "total_soundtracks": 3700,
   "games": [
     {
       "igdb_id": 292844,
@@ -8339,6 +8339,20 @@
       ]
     },
     {
+      "igdb_id": 127563,
+      "game_name": "Creature Keeper",
+      "game_url": "https://ostdb.net/games/creature-keeper",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f15dbe6f738c4d5abf09114f",
+      "albums": [
+        {
+          "album_name": "Creature Keeper (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Ysv1gXIJ43ofnSVkWJAne",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 289695,
       "game_name": "Creatures of Ava",
       "game_url": "https://ostdb.net/games/creatures-of-ava",
@@ -12877,6 +12891,20 @@
         {
           "album_name": "Eternights (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6tGnxDFsbbWFgwy2iqiYfQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 126735,
+      "game_name": "Ether Loop",
+      "game_url": "https://ostdb.net/games/ether-loop",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27321fb3546d18d5a9fbb9c07d0",
+      "albums": [
+        {
+          "album_name": "Ether Loop (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4KoVx0rIFCgSwoAUtYpjUA",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18295,6 +18323,20 @@
         {
           "album_name": "Hektor (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2L0IAniBIKsPLEoLKcEdLP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 129208,
+      "game_name": "Helheim Hassle",
+      "game_url": "https://ostdb.net/games/helheim-hassle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27309084aaf6b03b756454a5c21",
+      "albums": [
+        {
+          "album_name": "Helheim Hassle (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ArWsCjNE87pQeAMMfJoVb",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28237,6 +28279,20 @@
       ]
     },
     {
+      "igdb_id": 125509,
+      "game_name": "Over the Alps",
+      "game_url": "https://ostdb.net/games/over-the-alps",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b9a858e6005f641f71f8fa10",
+      "albums": [
+        {
+          "album_name": "Over the Alps (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3MlL9APKBp3dB6s0e8fQ7T",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 151067,
       "game_name": "Overboard!",
       "game_url": "https://ostdb.net/games/overboard",
@@ -29283,6 +29339,20 @@
         {
           "album_name": "Pixel Ripped 1995 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7uVl05PEcyrgyTp2FCsKN7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 131872,
+      "game_name": "PixelJunk Eden 2",
+      "game_url": "https://ostdb.net/games/pixeljunk-eden-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731ae6ab48c7588be2ecda0887",
+      "albums": [
+        {
+          "album_name": "PixelJunk Eden 2 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4mFVVhj7fPrmTKdq6mu1Kp",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31253,6 +31323,20 @@
         {
           "album_name": "Reigns: Beyond (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1ncIUq5uLC2ms2pakCp2ic",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 129846,
+      "game_name": "Relic Hunters Zero: Remix",
+      "game_url": "https://ostdb.net/games/relic-hunters-zero-remix",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735201e6e4421f5ca55a8c6bb5",
+      "albums": [
+        {
+          "album_name": "Relic Hunters Zero: Remix (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2knZ7yOrPCSYKttIZwbA7m",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -38255,6 +38339,20 @@
       ]
     },
     {
+      "igdb_id": 127307,
+      "game_name": "SuperMash",
+      "game_url": "https://ostdb.net/games/supermash",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27354efc2c55ded425d3dc471a5",
+      "albums": [
+        {
+          "album_name": "SuperMash (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/67Bmz4HYAxmIdgWkagvCof",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115309,
       "game_name": "Suzerain",
       "game_url": "https://ostdb.net/games/suzerain",
@@ -42783,6 +42881,20 @@
       ]
     },
     {
+      "igdb_id": 131947,
+      "game_name": "Tinytopia",
+      "game_url": "https://ostdb.net/games/tinytopia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27374fcd1f5d57285fcf103a676",
+      "albums": [
+        {
+          "album_name": "Tinytopia (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6lNhZTaReQrVJxsXxwHjQs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2115,
       "game_name": "Titanfall",
       "game_url": "https://ostdb.net/games/titanfall",
@@ -43844,6 +43956,20 @@
           "album_name": "Twelve Minutes (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4iQp0T3hWqb5XUnHG6Uh8t",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 130613,
+      "game_name": "Twin Breaker: A Sacred Symbols Adventure",
+      "game_url": "https://ostdb.net/games/twin-breaker-a-sacred-symbols-adventure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cf0963cc7646042998e233b3",
+      "albums": [
+        {
+          "album_name": "Twin Breaker: A Sacred Symbols Adventure (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7mjpiTxPtqegoR0IEsoyfY",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
