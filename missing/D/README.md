@@ -11736,6 +11736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
 | Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
+| Discoverium | 428933 | [428933-discoverium.json](./428933-discoverium.json) |
 | Discoverous | 109126 | [109126-discoverous.json](./109126-discoverous.json) |
 | Discoverx | 374213 | [374213-discoverx.json](./374213-discoverx.json) |
 | Discovery | 354575 | [354575-discovery.json](./354575-discovery.json) |
@@ -13901,6 +13902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollar Dash: Winter Pack | 263216 | [263216-dollar-dash-winter-pack.json](./263216-dollar-dash-winter-pack.json) |
 | Dollar King | 257942 | [257942-dollar-king.json](./257942-dollar-king.json) |
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
+| Dollgame | 428921 | [428921-dollgame.json](./428921-dollgame.json) |
 | Dollhouse | 11668 | [11668-dollhouse.json](./11668-dollhouse.json) |
 | Dollhouse | 125217 | [125217-dollhouse.json](./125217-dollhouse.json) |
 | Dollhouse | 335237 | [335237-dollhouse.json](./335237-dollhouse.json) |
@@ -21633,6 +21635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duskborn | 265095 | [265095-duskborn.json](./265095-duskborn.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
 | DuskBreakers | 194239 | [194239-duskbreakers.json](./194239-duskbreakers.json) |
+| Duskcrawler Minesweeper RPG | 428905 | [428905-duskcrawler-minesweeper-rpg.json](./428905-duskcrawler-minesweeper-rpg.json) |
 | Duskdog | 410185 | [410185-duskdog.json](./410185-duskdog.json) |
 | Duskers | 16707 | [16707-duskers.json](./16707-duskers.json) |
 | Duskers 2.0 | 405061 | [405061-duskers-2-0.json](./405061-duskers-2-0.json) |
