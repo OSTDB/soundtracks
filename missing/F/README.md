@@ -4895,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Pong: Gamesforfarm | 388968 | [388968-field-pong-gamesforfarm.json](./388968-field-pong-gamesforfarm.json) |
 | Field Survivor | 159761 | [159761-field-survivor.json](./159761-field-survivor.json) |
 | Field Tactics | 226465 | [226465-field-tactics.json](./226465-field-tactics.json) |
+| Fieldmade | 424117 | [424117-fieldmade.json](./424117-fieldmade.json) |
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
 | Fieldrunners 2 | 9840 | [9840-fieldrunners-2.json](./9840-fieldrunners-2.json) |
 | Fieldrunners Attack! | 106966 | [106966-fieldrunners-attack.json](./106966-fieldrunners-attack.json) |
