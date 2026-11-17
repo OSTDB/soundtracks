@@ -6861,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
+| Before I Turn: Survival Auto Battler | 427737 | [427737-before-i-turn-survival-auto-battler.json](./427737-before-i-turn-survival-auto-battler.json) |
 | Before I Wake | 183663 | [183663-before-i-wake.json](./183663-before-i-wake.json) |
 | Before Midnight (The First Puzzle) | 112001 | [112001-before-midnight-the-first-puzzle.json](./112001-before-midnight-the-first-puzzle.json) |
 | Before Nightfall | 105159 | [105159-before-nightfall.json](./105159-before-nightfall.json) |
