@@ -223,6 +223,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
 | Early Quest | 160127 | [160127-early-quest.json](./160127-early-quest.json) |
 | Early Quest 2 | 174042 | [174042-early-quest-2.json](./174042-early-quest-2.json) |
+| Early Quest: Archipelago of Dragons | 162442 | [162442-early-quest-archipelago-of-dragons.json](./162442-early-quest-archipelago-of-dragons.json) |
+| Early Quest: Elemental Power | 162441 | [162441-early-quest-elemental-power.json](./162441-early-quest-elemental-power.json) |
+| Early Quest: Tower Defense | 162440 | [162440-early-quest-tower-defense.json](./162440-early-quest-tower-defense.json) |
 | Early Worm | 224314 | [224314-early-worm.json](./224314-early-worm.json) |
 | Early-blooming Black Lily: Hana to Itsuki no Gojitsudan 1 | 282169 | [282169-early-blooming-black-lily-hana-to-itsuki-no-gojitsudan-1.json](./282169-early-blooming-black-lily-hana-to-itsuki-no-gojitsudan-1.json) |
 | Early-blooming Black Lily: Hana to Itsuki no Naisho no Hanashi 1 | 276135 | [276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json](./276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json) |
@@ -665,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Piano | 25168 | [25168-easy-piano.json](./25168-easy-piano.json) |
 | Easy Puzzle | 331390 | [331390-easy-puzzle.json](./331390-easy-puzzle.json) |
 | Easy Puzzle: Animals | 384001 | [384001-easy-puzzle-animals.json](./384001-easy-puzzle-animals.json) |
+| Easy puzzle: Animals 2 | 162447 | [162447-easy-puzzle-animals-2.json](./162447-easy-puzzle-animals-2.json) |
 | Easy puzzle: Bridges | 248921 | [248921-easy-puzzle-bridges.json](./248921-easy-puzzle-bridges.json) |
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
