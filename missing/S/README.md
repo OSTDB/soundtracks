@@ -10839,7 +10839,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shower Game | 409817 | [409817-shower-game.json](./409817-shower-game.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
-| Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
 | Showgunners: Deluxe Edition | 248360 | [248360-showgunners-deluxe-edition.json](./248360-showgunners-deluxe-edition.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | Showmaker | 43096 | [43096-showmaker.json](./43096-showmaker.json) |
