@@ -7554,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demondemon Demon Tamer | 370456 | [370456-demondemon-demon-tamer.json](./370456-demondemon-demon-tamer.json) |
 | Demoneye-X | 40311 | [40311-demoneye-x.json](./40311-demoneye-x.json) |
+| Demonfall | 428225 | [428225-demonfall.json](./428225-demonfall.json) |
 | Demonfear | 144407 | [144407-demonfear.json](./144407-demonfear.json) |
 | Demonfo | 344609 | [344609-demonfo.json](./344609-demonfo.json) |
 | Demong Hunter | 146745 | [146745-demong-hunter.json](./146745-demong-hunter.json) |
@@ -16022,6 +16023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughby | 350029 | [350029-doughby.json](./350029-doughby.json) |
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
 | Doughlings: Arcade | 94062 | [94062-doughlings-arcade.json](./94062-doughlings-arcade.json) |
+| Doughn't Panic! | 428221 | [428221-doughnt-panic.json](./428221-doughnt-panic.json) |
 | Dougie Moo's Aqua Antics | 67880 | [67880-dougie-moos-aqua-antics.json](./67880-dougie-moos-aqua-antics.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
