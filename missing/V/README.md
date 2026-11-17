@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verzerk | 46508 | [46508-verzerk.json](./46508-verzerk.json) |
 | Vesna | 251968 | [251968-vesna.json](./251968-vesna.json) |
 | Vesnith Tapes | 350942 | [350942-vesnith-tapes.json](./350942-vesnith-tapes.json) |
+| Vesp: a History of Sapphic Scaphism | 192348 | [192348-vesp-a-history-of-sapphic-scaphism.json](./192348-vesp-a-history-of-sapphic-scaphism.json) |
 | Vespa's Test | 211655 | [211655-vespas-test.json](./211655-vespas-test.json) |
 | Vesper | 377291 | [377291-vesper.json](./377291-vesper.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
@@ -2144,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorian Admirals: Samoan Crisis 1889 | 58289 | [58289-victorian-admirals-samoan-crisis-1889.json](./58289-victorian-admirals-samoan-crisis-1889.json) |
 | Victorian BMX: Death on Wheels | 397134 | [397134-victorian-bmx-death-on-wheels.json](./397134-victorian-bmx-death-on-wheels.json) |
 | Victorian Deathbed Simulator | 331354 | [331354-victorian-deathbed-simulator.json](./331354-victorian-deathbed-simulator.json) |
+| Victorian Debutante | 192353 | [192353-victorian-debutante.json](./192353-victorian-debutante.json) |
 | Victorian Mysteries: The Yellow Room | 120009 | [120009-victorian-mysteries-the-yellow-room.json](./120009-victorian-mysteries-the-yellow-room.json) |
 | Victorian Mysteries: Woman in White | 119838 | [119838-victorian-mysteries-woman-in-white.json](./119838-victorian-mysteries-woman-in-white.json) |
 | Victorian Park | 134166 | [134166-victorian-park.json](./134166-victorian-park.json) |
