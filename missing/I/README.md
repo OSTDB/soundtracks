@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Gold | 421751 | [421751-im-gold.json](./421751-im-gold.json) |
 | I'm Gonna Be God of The Forest | 64146 | [64146-im-gonna-be-god-of-the-forest.json](./64146-im-gonna-be-god-of-the-forest.json) |
 | I'm Gonna Serve You 4 | 139036 | [139036-im-gonna-serve-you-4.json](./139036-im-gonna-serve-you-4.json) |
+| I'm Having a Bad Day | 428287 | [428287-im-having-a-bad-day.json](./428287-im-having-a-bad-day.json) |
 | I'm Here to Shit Ass | 336306 | [336306-im-here-to-shit-ass.json](./336306-im-here-to-shit-ass.json) |
 | I'm Hiding | 42189 | [42189-im-hiding.json](./42189-im-hiding.json) |
 | I'm Home Already | 350461 | [350461-im-home-already.json](./350461-im-home-already.json) |
