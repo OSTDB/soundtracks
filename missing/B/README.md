@@ -8175,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond: Two Souls - Special Edition | 42998 | [42998-beyond-two-souls-special-edition.json](./42998-beyond-two-souls-special-edition.json) |
 | Beyond.Frontiers | 316733 | [316733-beyond-frontiers.json](./316733-beyond-frontiers.json) |
 | Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
+| Beyondium | 113968 | [113968-beyondium.json](./113968-beyondium.json) |
 | BeyondSonic | 330094 | [330094-beyondsonic.json](./330094-beyondsonic.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | Bez-MX | 282097 | [282097-bez-mx.json](./282097-bez-mx.json) |
@@ -10417,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sails | 270339 | [270339-black-sails.json](./270339-black-sails.json) |
 | Black Sails | 289384 | [289384-black-sails.json](./289384-black-sails.json) |
 | Black Sails: The Ghost Ship | 12692 | [12692-black-sails-the-ghost-ship.json](./12692-black-sails-the-ghost-ship.json) |
+| Black Salt Coreuption | 113815 | [113815-black-salt-coreuption.json](./113815-black-salt-coreuption.json) |
 | Black Sand Drift | 31911 | [31911-black-sand-drift.json](./31911-black-sand-drift.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Screen | 303367 | [303367-black-screen.json](./303367-black-screen.json) |
@@ -19003,7 +19005,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbles Reward 3 | 108549 | [108549-bubbles-reward-3.json](./108549-bubbles-reward-3.json) |
 | Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
 | Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
-| Bubbles the Cat | 112934 | [112934-bubbles-the-cat.json](./112934-bubbles-the-cat.json) |
 | Bubbles! | 366109 | [366109-bubbles.json](./366109-bubbles.json) |
 | Bubbleshot | 321091 | [321091-bubbleshot.json](./321091-bubbleshot.json) |
 | Bubbletica | 349913 | [349913-bubbletica.json](./349913-bubbletica.json) |
