@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Red Riding Hood Sisters | 80228 | [80228-dark-parables-the-red-riding-hood-sisters.json](./80228-dark-parables-the-red-riding-hood-sisters.json) |
 | Dark Parables: The Red Riding Hood Sisters - Collector's Edition | 32379 | [32379-dark-parables-the-red-riding-hood-sisters-collectors-edition.json](./32379-dark-parables-the-red-riding-hood-sisters-collectors-edition.json) |
 | Dark Parables: The Swan Princess and The Dire Tree | 139795 | [139795-dark-parables-the-swan-princess-and-the-dire-tree.json](./139795-dark-parables-the-swan-princess-and-the-dire-tree.json) |
+| Dark Parables: The Swan Princess and The Dire Tree - Collector's Edition | 32268 | [32268-dark-parables-the-swan-princess-and-the-dire-tree-collectors-edition.json](./32268-dark-parables-the-swan-princess-and-the-dire-tree-collectors-edition.json) |
 | Dark Parables: The Thief and the Tinderbox | 139796 | [139796-dark-parables-the-thief-and-the-tinderbox.json](./139796-dark-parables-the-thief-and-the-tinderbox.json) |
 | Dark Parables: The Thief and the Tinderbox - Collector's Edition | 31064 | [31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json](./31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json) |
 | Dark Paradise Nigelopia: Mini Mix | 237745 | [237745-dark-paradise-nigelopia-mini-mix.json](./237745-dark-paradise-nigelopia-mini-mix.json) |
@@ -9319,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Threats | 127387 | [127387-devil-threats.json](./127387-devil-threats.json) |
 | Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
 | Devil War | 214091 | [214091-devil-war.json](./214091-devil-war.json) |
+| Devil Whiskey | 25267 | [25267-devil-whiskey.json](./25267-devil-whiskey.json) |
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
@@ -11285,6 +11287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Diortem | 300797 | [300797-diortem.json](./300797-diortem.json) |
 | Dios | 141045 | [141045-dios.json](./141045-dios.json) |
+| Diox | 25215 | [25215-diox.json](./25215-diox.json) |
 | Dioxide | 403807 | [403807-dioxide.json](./403807-dioxide.json) |
 | Dip the Frog | 159220 | [159220-dip-the-frog.json](./159220-dip-the-frog.json) |
 | Dipets | 327300 | [327300-dipets.json](./327300-dipets.json) |
@@ -16623,6 +16626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragnet | 40861 | [40861-dragnet.json](./40861-dragnet.json) |
 | Drago Adventure | 295624 | [295624-drago-adventure.json](./295624-drago-adventure.json) |
 | DragoDino: A Dragon Adventure | 30363 | [30363-dragodino-a-dragon-adventure.json](./30363-dragodino-a-dragon-adventure.json) |
+| Dragomon Hunter | 26900 | [26900-dragomon-hunter.json](./26900-dragomon-hunter.json) |
 | Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
 | Dragon | 246325 | [246325-dragon.json](./246325-dragon.json) |
 | Dragon | 94986 | [94986-dragon.json](./94986-dragon.json) |
@@ -17626,6 +17630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Nature | 290204 | [290204-dragons-and-nature.json](./290204-dragons-and-nature.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
+| Dragons Be | 26896 | [26896-dragons-be.json](./26896-dragons-be.json) |
 | Dragons Breath | 12574 | [12574-dragons-breath.json](./12574-dragons-breath.json) |
 | Dragons Frolic! | 346515 | [346515-dragons-frolic.json](./346515-dragons-frolic.json) |
 | Dragons Garden: Merge 3 Game | 201724 | [201724-dragons-garden-merge-3-game.json](./201724-dragons-garden-merge-3-game.json) |
