@@ -4279,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
 | Scuba Diver the Simulation | 143399 | [143399-scuba-diver-the-simulation.json](./143399-scuba-diver-the-simulation.json) |
+| Scuba Diving Adventure | 89298 | [89298-scuba-diving-adventure.json](./89298-scuba-diving-adventure.json) |
 | Scuba in Aruba | 321731 | [321731-scuba-in-aruba.json](./321731-scuba-in-aruba.json) |
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
 | Scuba Pop | 277473 | [277473-scuba-pop.json](./277473-scuba-pop.json) |
@@ -5119,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret in Story | 40870 | [40870-secret-in-story.json](./40870-secret-in-story.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
+| Secret Kingdom Defenders | 87681 | [87681-secret-kingdom-defenders.json](./87681-secret-kingdom-defenders.json) |
 | Secret Kiss | 272664 | [272664-secret-kiss.json](./272664-secret-kiss.json) |
 | Secret Kiss is Sweet and Tender | 192412 | [192412-secret-kiss-is-sweet-and-tender.json](./192412-secret-kiss-is-sweet-and-tender.json) |
 | Secret Kiss with Knight | 303303 | [303303-secret-kiss-with-knight.json](./303303-secret-kiss-with-knight.json) |
@@ -24359,6 +24361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
 | Spider | 88407 | [88407-spider.json](./88407-spider.json) |
 | Spider | 88429 | [88429-spider.json](./88429-spider.json) |
+| Spider - Solitaire | 87748 | [87748-spider-solitaire.json](./87748-spider-solitaire.json) |
 | Spider Alley | 25079 | [25079-spider-alley.json](./25079-spider-alley.json) |
 | Spider Amazing Battle Fighting | 193828 | [193828-spider-amazing-battle-fighting.json](./193828-spider-amazing-battle-fighting.json) |
 | Spider and Web | 91916 | [91916-spider-and-web.json](./91916-spider-and-web.json) |
@@ -30196,6 +30199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Backflip Killer zone | 89596 | [89596-stickman-backflip-killer-zone.json](./89596-stickman-backflip-killer-zone.json) |
 | Stickman Badminton | 313547 | [313547-stickman-badminton.json](./313547-stickman-badminton.json) |
 | Stickman Base Jumper | 108645 | [108645-stickman-base-jumper.json](./108645-stickman-base-jumper.json) |
+| Stickman Basketball 2017 | 87727 | [87727-stickman-basketball-2017.json](./87727-stickman-basketball-2017.json) |
 | Stickman Basketball Blitz | 239983 | [239983-stickman-basketball-blitz.json](./239983-stickman-basketball-blitz.json) |
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
@@ -30214,6 +30218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Fight: The Game | 101209 | [101209-stickman-fight-the-game.json](./101209-stickman-fight-the-game.json) |
 | Stickman Fighter Infinity | 256172 | [256172-stickman-fighter-infinity.json](./256172-stickman-fighter-infinity.json) |
 | Stickman Fighting | 88021 | [88021-stickman-fighting.json](./88021-stickman-fighting.json) |
+| Stickman Five Night Survival 2 | 87710 | [87710-stickman-five-night-survival-2.json](./87710-stickman-five-night-survival-2.json) |
 | Stickman Flatout Epic | 96779 | [96779-stickman-flatout-epic.json](./96779-stickman-flatout-epic.json) |
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
@@ -39587,6 +39592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Lyoria: Cozy Homes | 364125 | [364125-sweet-lyoria-cozy-homes.json](./364125-sweet-lyoria-cozy-homes.json) |
 | Sweet Magic Madness | 99774 | [99774-sweet-magic-madness.json](./99774-sweet-magic-madness.json) |
 | Sweet Mania: Yum's Story | 178689 | [178689-sweet-mania-yums-story.json](./178689-sweet-mania-yums-story.json) |
+| Sweet Marshmallow - Collect Macaroons 3D | 87700 | [87700-sweet-marshmallow-collect-macaroons-3d.json](./87700-sweet-marshmallow-collect-macaroons-3d.json) |
 | Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
 | Sweet Match 3 | 171300 | [171300-sweet-match-3.json](./171300-sweet-match-3.json) |
 | Sweet Math | 381276 | [381276-sweet-math.json](./381276-sweet-math.json) |
