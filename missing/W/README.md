@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardrive | 190869 | [190869-wardrive.json](./190869-wardrive.json) |
 | Wardroid | 150863 | [150863-wardroid.json](./150863-wardroid.json) |
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
+| Wardstone | 421710 | [421710-wardstone.json](./421710-wardstone.json) |
 | Wardudes | 190754 | [190754-wardudes.json](./190754-wardudes.json) |
 | Wardwell House | 128077 | [128077-wardwell-house.json](./128077-wardwell-house.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
@@ -1402,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse 30 | 403013 | [403013-warehouse-30.json](./403013-warehouse-30.json) |
 | Warehouse and Logistics Simulator | 17031 | [17031-warehouse-and-logistics-simulator.json](./17031-warehouse-and-logistics-simulator.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
+| Warehouse Catastrophe | 421716 | [421716-warehouse-catastrophe.json](./421716-warehouse-catastrophe.json) |
 | Warehouse Hunter | 212502 | [212502-warehouse-hunter.json](./212502-warehouse-hunter.json) |
 | Warehouse Inc. | 294116 | [294116-warehouse-inc.json](./294116-warehouse-inc.json) |
 | Warehouse Job | 353773 | [353773-warehouse-job.json](./353773-warehouse-job.json) |
