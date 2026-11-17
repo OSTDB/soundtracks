@@ -24490,7 +24490,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
 | Mycopsychosys: Project Jupiter | 373683 | [373683-mycopsychosys-project-jupiter.json](./373683-mycopsychosys-project-jupiter.json) |
 | Mycopsychosys: Remastered | 360493 | [360493-mycopsychosys-remastered.json](./360493-mycopsychosys-remastered.json) |
-| Mycopunk | 342011 | [342011-mycopunk.json](./342011-mycopunk.json) |
 | MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
 | Mycorrhiza | 178904 | [178904-mycorrhiza.json](./178904-mycorrhiza.json) |
 | Mycosis | 189362 | [189362-mycosis.json](./189362-mycosis.json) |
