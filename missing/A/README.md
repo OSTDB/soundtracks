@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
 | Absolute Redemption | 150223 | [150223-absolute-redemption.json](./150223-absolute-redemption.json) |
 | Absolute Reversi | 84862 | [84862-absolute-reversi.json](./84862-absolute-reversi.json) |
+| Absolute Romme | 84388 | [84388-absolute-romme.json](./84388-absolute-romme.json) |
 | Absolute Schafkopf | 94117 | [94117-absolute-schafkopf.json](./94117-absolute-schafkopf.json) |
 | Absolute Schafkopf for Windows 11 | 264545 | [264545-absolute-schafkopf-for-windows-11.json](./264545-absolute-schafkopf-for-windows-11.json) |
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Heaven | 299013 | [299013-adventures-in-heaven.json](./299013-adventures-in-heaven.json) |
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
 | Adventures in Letter Land with Jack & Jill | 46065 | [46065-adventures-in-letter-land-with-jack-and-jill.json](./46065-adventures-in-letter-land-with-jack-and-jill.json) |
+| Adventures in Letter Land With Jack and Jill | 84372 | [84372-adventures-in-letter-land-with-jack-and-jill.json](./84372-adventures-in-letter-land-with-jack-and-jill.json) |
 | Adventures in Math | 14225 | [14225-adventures-in-math.json](./14225-adventures-in-math.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
 | Adventures in Morality: An Interactive Case Study | 159475 | [159475-adventures-in-morality-an-interactive-case-study.json](./159475-adventures-in-morality-an-interactive-case-study.json) |
@@ -8879,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
 | Alloy Soldier Xenia | 225822 | [225822-alloy-soldier-xenia.json](./225822-alloy-soldier-xenia.json) |
 | Alloy: Arena | 318136 | [318136-alloy-arena.json](./318136-alloy-arena.json) |
+| Alloyrun | 84361 | [84361-alloyrun.json](./84361-alloyrun.json) |
 | Alloys Over Flowers | 179044 | [179044-alloys-over-flowers.json](./179044-alloys-over-flowers.json) |
 | Allrams Höjdarspel | 383025 | [383025-allrams-hojdarspel.json](./383025-allrams-hojdarspel.json) |
 | Allspace | 114237 | [114237-allspace.json](./114237-allspace.json) |
@@ -21182,6 +21185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aypupen | 95730 | [95730-aypupen.json](./95730-aypupen.json) |
 | Ayre | 185026 | [185026-ayre.json](./185026-ayre.json) |
 | Ayre and the Crystal Comet | 116260 | [116260-ayre-and-the-crystal-comet.json](./116260-ayre-and-the-crystal-comet.json) |
+| Ayrton Senna Kart Duel | 84386 | [84386-ayrton-senna-kart-duel.json](./84386-ayrton-senna-kart-duel.json) |
 | Ayrton Senna Kart Duel 2 | 92044 | [92044-ayrton-senna-kart-duel-2.json](./92044-ayrton-senna-kart-duel-2.json) |
 | Ayrton Senna Kart Duel Special | 285994 | [285994-ayrton-senna-kart-duel-special.json](./285994-ayrton-senna-kart-duel-special.json) |
 | Ayrton Senna Racing | 265881 | [265881-ayrton-senna-racing.json](./265881-ayrton-senna-racing.json) |
