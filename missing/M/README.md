@@ -25285,7 +25285,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mytheon | 34171 | [34171-mytheon.json](./34171-mytheon.json) |
 | Mytheon: Egypt Pack | 170794 | [170794-mytheon-egypt-pack.json](./170794-mytheon-egypt-pack.json) |
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
-| MythForce | 197712 | [197712-mythforce.json](./197712-mythforce.json) |
 | Mythgard | 105679 | [105679-mythgard.json](./105679-mythgard.json) |
 | MythGotchi | 419974 | [419974-mythgotchi.json](./419974-mythgotchi.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
