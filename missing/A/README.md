@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC's & 123's | 231685 | [231685-abcs-and-123s.json](./231685-abcs-and-123s.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
+| Abcop: A.B. Cop | 39887 | [39887-abcop-a-b-cop.json](./39887-abcop-a-b-cop.json) |
 | ABCs with Dally Dino: Preschool Kids Learn the Alphabet with A Fun Dinosaur Friend | 88854 | [88854-abcs-with-dally-dino-preschool-kids-learn-the-alphabet-with-a-fun-dinosaur-friend.json](./88854-abcs-with-dally-dino-preschool-kids-learn-the-alphabet-with-a-fun-dinosaur-friend.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
 | Abda Redeemer: Space Alien Invasion | 167451 | [167451-abda-redeemer-space-alien-invasion.json](./167451-abda-redeemer-space-alien-invasion.json) |
@@ -3001,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACE Arena: Cyber Evolution | 17155 | [17155-ace-arena-cyber-evolution.json](./17155-ace-arena-cyber-evolution.json) |
 | Ace Armstrong vs. The Alien Scumbags! | 42784 | [42784-ace-armstrong-vs-the-alien-scumbags.json](./42784-ace-armstrong-vs-the-alien-scumbags.json) |
 | Ace Arrow | 233121 | [233121-ace-arrow.json](./233121-ace-arrow.json) |
+| Ace Attacker | 39901 | [39901-ace-attacker.json](./39901-ace-attacker.json) |
 | Ace Attorney - The First Turnabout Redux | 302634 | [302634-ace-attorney-the-first-turnabout-redux.json](./302634-ace-attorney-the-first-turnabout-redux.json) |
 | Ace Attorney Anthology | 304805 | [304805-ace-attorney-anthology.json](./304805-ace-attorney-anthology.json) |
 | Ace Attorney But Plotagon | 303755 | [303755-ace-attorney-but-plotagon.json](./303755-ace-attorney-but-plotagon.json) |
@@ -6336,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Ace II | 108814 | [108814-air-ace-ii.json](./108814-air-ace-ii.json) |
 | Air Aces | 276117 | [276117-air-aces.json](./276117-air-aces.json) |
 | Air Aces: Pacific | 27450 | [27450-air-aces-pacific.json](./27450-air-aces-pacific.json) |
+| Air Assault | 39900 | [39900-air-assault.json](./39900-air-assault.json) |
 | Air Assault 2 | 102719 | [102719-air-assault-2.json](./102719-air-assault-2.json) |
 | Air Assault Task Force | 59589 | [59589-air-assault-task-force.json](./59589-air-assault-task-force.json) |
 | Air Attack | 171370 | [171370-air-attack.json](./171370-air-attack.json) |
@@ -6614,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRburst | 200239 | [200239-airburst.json](./200239-airburst.json) |
 | AirBurst Extreme | 71889 | [71889-airburst-extreme.json](./71889-airburst-extreme.json) |
 | Aircar | 121309 | [121309-aircar.json](./121309-aircar.json) |
+| AirCars | 40828 | [40828-aircars.json](./40828-aircars.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft Evolution | 82077 | [82077-aircraft-evolution.json](./82077-aircraft-evolution.json) |
