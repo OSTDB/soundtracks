@@ -3116,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elly | 147048 | [147048-elly.json](./147048-elly.json) |
 | Elly the Jelly | 51607 | [51607-elly-the-jelly.json](./51607-elly-the-jelly.json) |
 | Elly's Adventure | 315203 | [315203-ellys-adventure.json](./315203-ellys-adventure.json) |
+| Elly's Adventures: Diamond Eye | 53997 | [53997-ellys-adventures-diamond-eye.json](./53997-ellys-adventures-diamond-eye.json) |
 | Elly's Cake Cafe | 167549 | [167549-ellys-cake-cafe.json](./167549-ellys-cake-cafe.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elman España: Anarchy | 121364 | [121364-elman-espana-anarchy.json](./121364-elman-espana-anarchy.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
 | Emberwall | 417300 | [417300-emberwall.json](./417300-emberwall.json) |
 | Emberward | 260224 | [260224-emberward.json](./260224-emberward.json) |
+| Emberwind | 53998 | [53998-emberwind.json](./53998-emberwind.json) |
 | Emberwing: Lost Legacy - Collector's Edition | 416612 | [416612-emberwing-lost-legacy-collectors-edition.json](./416612-emberwing-lost-legacy-collectors-edition.json) |
 | Emberwood | 251723 | [251723-emberwood.json](./251723-emberwood.json) |
 | Emberzone | 169340 | [169340-emberzone.json](./169340-emberzone.json) |
@@ -3830,6 +3832,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires | 36445 | [36445-empires.json](./36445-empires.json) |
 | Empires & Allies | 257272 | [257272-empires-and-allies.json](./257272-empires-and-allies.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
+| Empires & Dungeons 2: The Sultanate | 54001 | [54001-empires-and-dungeons-2-the-sultanate.json](./54001-empires-and-dungeons-2-the-sultanate.json) |
+| Empires & Dungeons 2: The Sultanate - Premium Edition | 54000 | [54000-empires-and-dungeons-2-the-sultanate-premium-edition.json](./54000-empires-and-dungeons-2-the-sultanate-premium-edition.json) |
 | Empires & Puzzles: RPG Quest | 88387 | [88387-empires-and-puzzles-rpg-quest.json](./88387-empires-and-puzzles-rpg-quest.json) |
 | Empires and Tribes | 130634 | [130634-empires-and-tribes.json](./130634-empires-and-tribes.json) |
 | Empires Apart | 27694 | [27694-empires-apart.json](./27694-empires-apart.json) |
@@ -3988,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Broom | 384071 | [384071-enchanted-broom.json](./384071-enchanted-broom.json) |
 | Enchanted Cavern | 52954 | [52954-enchanted-cavern.json](./52954-enchanted-cavern.json) |
 | Enchanted Cavern 2 | 52953 | [52953-enchanted-cavern-2.json](./52953-enchanted-cavern-2.json) |
+| Enchanted Fairy Friends | 54002 | [54002-enchanted-fairy-friends.json](./54002-enchanted-fairy-friends.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted Heroes | 101810 | [101810-enchanted-heroes.json](./101810-enchanted-heroes.json) |
@@ -4685,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engineer Humpty | 14054 | [14054-engineer-humpty.json](./14054-engineer-humpty.json) |
 | Engineer's Last Stand | 257335 | [257335-engineers-last-stand.json](./257335-engineers-last-stand.json) |
 | Engineered to Purpose | 224521 | [224521-engineered-to-purpose.json](./224521-engineered-to-purpose.json) |
+| Engineering: Mystery of the Ancient Clock | 54004 | [54004-engineering-mystery-of-the-ancient-clock.json](./54004-engineering-mystery-of-the-ancient-clock.json) |
 | Engineerium | 302487 | [302487-engineerium.json](./302487-engineerium.json) |
 | Enginefall | 283354 | [283354-enginefall.json](./283354-enginefall.json) |
 | Engines of Destruction | 211032 | [211032-engines-of-destruction.json](./211032-engines-of-destruction.json) |
