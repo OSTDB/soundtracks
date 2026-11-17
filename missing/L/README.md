@@ -4609,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
 | Letterbox by Powgi | 219522 | [219522-letterbox-by-powgi.json](./219522-letterbox-by-powgi.json) |
 | Lettercraft | 56310 | [56310-lettercraft.json](./56310-lettercraft.json) |
+| Lettergraf | 174375 | [174375-lettergraf.json](./174375-lettergraf.json) |
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterGrid | 417516 | [417516-lettergrid.json](./417516-lettergrid.json) |
 | Letterle | 268686 | [268686-letterle.json](./268686-letterle.json) |
