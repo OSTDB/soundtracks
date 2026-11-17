@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 121 N | 98421 | [98421-121-n.json](./98421-121-n.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
 | 1213: Episode 2 | 79143 | [79143-1213-episode-2.json](./79143-1213-episode-2.json) |
+| 1213: Episode 3 | 71650 | [71650-1213-episode-3.json](./71650-1213-episode-3.json) |
 | 1213: Special Edition | 144628 | [144628-1213-special-edition.json](./144628-1213-special-edition.json) |
 | 123 Animal First Grade Math | 80046 | [80046-123-animal-first-grade-math.json](./80046-123-animal-first-grade-math.json) |
 | 123 Animal Math Games For Kids | 79085 | [79085-123-animal-math-games-for-kids.json](./79085-123-animal-math-games-for-kids.json) |
