@@ -1546,7 +1546,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetPunk | 411213 | [411213-jetpunk.json](./411213-jetpunk.json) |
 | Jetracer | 43760 | [43760-jetracer.json](./43760-jetracer.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
-| Jetrunner | 296332 | [296332-jetrunner.json](./296332-jetrunner.json) |
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
@@ -4383,7 +4382,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
 | Jurassic World Evolution 2: Prehistoric Marine Species Pack | 259955 | [259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json](./259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json) |
 | Jurassic World Evolution 2: Secret Species Pack | 290758 | [290758-jurassic-world-evolution-2-secret-species-pack.json](./290758-jurassic-world-evolution-2-secret-species-pack.json) |
-| Jurassic World Evolution 3 | 347650 | [347650-jurassic-world-evolution-3.json](./347650-jurassic-world-evolution-3.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution 3: Rebirth Expansion | 407074 | [407074-jurassic-world-evolution-3-rebirth-expansion.json](./407074-jurassic-world-evolution-3-rebirth-expansion.json) |
 | Jurassic World Evolution: Carnivore Dinosaur Pack | 152605 | [152605-jurassic-world-evolution-carnivore-dinosaur-pack.json](./152605-jurassic-world-evolution-carnivore-dinosaur-pack.json) |
