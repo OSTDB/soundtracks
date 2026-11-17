@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magusian | 392390 | [392390-magusian.json](./392390-magusian.json) |
 | MaguSphere: Magical Cannon Girls | 122296 | [122296-magusphere-magical-cannon-girls.json](./122296-magusphere-magical-cannon-girls.json) |
 | MagusTale Eternity: Seikaiju to Koisuru Mahou Tsukai | 269498 | [269498-magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.json](./269498-magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.json) |
+| MagVigor | 159900 | [159900-magvigor.json](./159900-magvigor.json) |
 | Magyarock VR | 198443 | [198443-magyarock-vr.json](./198443-magyarock-vr.json) |
 | Mah Jong | 16610 | [16610-mah-jong.json](./16610-mah-jong.json) |
 | Mah Jong Quest | 10532 | [10532-mah-jong-quest.json](./10532-mah-jong-quest.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
 | Mango Cart | 115820 | [115820-mango-cart.json](./115820-mango-cart.json) |
 | Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
+| Mango Mischief | 159936 | [159936-mango-mischief.json](./159936-mango-mischief.json) |
 | Mango's Fisharium | 348890 | [348890-mangos-fisharium.json](./348890-mangos-fisharium.json) |
 | Mango's Wonderland | 252283 | [252283-mangos-wonderland.json](./252283-mangos-wonderland.json) |
 | Mangoji | 293886 | [293886-mangoji.json](./293886-mangoji.json) |
@@ -16918,6 +16920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoeSpotter: Uncover the Girls' Mysteries! | 369844 | [369844-moespotter-uncover-the-girls-mysteries.json](./369844-moespotter-uncover-the-girls-mysteries.json) |
 | Moetan DS | 94002 | [94002-moetan-ds.json](./94002-moetan-ds.json) |
 | Moeyo Butaman!? | 305987 | [305987-moeyo-butaman.json](./305987-moeyo-butaman.json) |
+| Mófǎ Kǎohé Màoxiǎn | 159928 | [159928-mofa-kaohe-maoxian.json](./159928-mofa-kaohe-maoxian.json) |
 | Mòfǎ Xiānlù | 117391 | [117391-mofa-xianlu.json](./117391-mofa-xianlu.json) |
 | Moff Pac-Man | 214362 | [214362-moff-pac-man.json](./214362-moff-pac-man.json) |
 | Mofina Island | 230889 | [230889-mofina-island.json](./230889-mofina-island.json) |
