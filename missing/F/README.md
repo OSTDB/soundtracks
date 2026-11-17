@@ -351,7 +351,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of Dwale | 403354 | [403354-fables-of-dwale.json](./403354-fables-of-dwale.json) |
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
 | Fables of the Kingdom III: Collector's Edition | 337251 | [337251-fables-of-the-kingdom-iii-collectors-edition.json](./337251-fables-of-the-kingdom-iii-collectors-edition.json) |
+| Fables of the Kingdom IV: Collector's Edition | 425963 | [425963-fables-of-the-kingdom-iv-collectors-edition.json](./425963-fables-of-the-kingdom-iv-collectors-edition.json) |
+| Fables of the Kingdom Remastered: Collector's Edition | 425961 | [425961-fables-of-the-kingdom-remastered-collectors-edition.json](./425961-fables-of-the-kingdom-remastered-collectors-edition.json) |
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
+| Fables of the Kingdom VI: Collector's Edition | 425962 | [425962-fables-of-the-kingdom-vi-collectors-edition.json](./425962-fables-of-the-kingdom-vi-collectors-edition.json) |
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
 | Fabraz Presents Vol. 1 | 241719 | [241719-fabraz-presents-vol-1.json](./241719-fabraz-presents-vol-1.json) |
 | Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
@@ -10952,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Secrets: Alien Town - Collector's Edition | 53035 | [53035-forbidden-secrets-alien-town-collectors-edition.json](./53035-forbidden-secrets-alien-town-collectors-edition.json) |
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
+| Forbidden Solitaire: The Discarded | 425907 | [425907-forbidden-solitaire-the-discarded.json](./425907-forbidden-solitaire-the-discarded.json) |
 | Forbidden Solitarie | 399264 | [399264-forbidden-solitarie.json](./399264-forbidden-solitarie.json) |
 | Forbidden Sparks of Passion | 246834 | [246834-forbidden-sparks-of-passion.json](./246834-forbidden-sparks-of-passion.json) |
 | Forbidden Story | 267136 | [267136-forbidden-story.json](./267136-forbidden-story.json) |
@@ -14258,6 +14262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Day to Day | 151106 | [151106-from-day-to-day.json](./151106-from-day-to-day.json) |
 | From Dusk Till Dawn | 22014 | [22014-from-dusk-till-dawn.json](./22014-from-dusk-till-dawn.json) |
 | From Dust | 3160 | [3160-from-dust.json](./3160-from-dust.json) |
+| From Dust We Came | 425934 | [425934-from-dust-we-came.json](./425934-from-dust-we-came.json) |
 | From Earth | 127928 | [127928-from-earth.json](./127928-from-earth.json) |
 | From Earth to Heaven | 165606 | [165606-from-earth-to-heaven.json](./165606-from-earth-to-heaven.json) |
 | From Fear | 178281 | [178281-from-fear.json](./178281-from-fear.json) |
