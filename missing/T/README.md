@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
 | Tap Wizard 2 | 188407 | [188407-tap-wizard-2.json](./188407-tap-wizard-2.json) |
+| Tap Wizard RPG: Arcane Quest | 104735 | [104735-tap-wizard-rpg-arcane-quest.json](./104735-tap-wizard-rpg-arcane-quest.json) |
 | Tap X3 | 370416 | [370416-tap-x3.json](./370416-tap-x3.json) |
 | Tap Zap - Endless game | 44100 | [44100-tap-zap-endless-game.json](./44100-tap-zap-endless-game.json) |
 | Tap Zoo | 343458 | [343458-tap-zoo.json](./343458-tap-zoo.json) |
@@ -5329,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Tube Titans: Taster Trial | 157062 | [157062-test-tube-titans-taster-trial.json](./157062-test-tube-titans-taster-trial.json) |
 | Test your Atari Acumen | 331163 | [331163-test-your-atari-acumen.json](./331163-test-your-atari-acumen.json) |
 | Test Your Knowledge: Cats | 230120 | [230120-test-your-knowledge-cats.json](./230120-test-your-knowledge-cats.json) |
+| Test your knowledge: Cities | 103005 | [103005-test-your-knowledge-cities.json](./103005-test-your-knowledge-cities.json) |
 | Test your knowledge: Dogs | 107828 | [107828-test-your-knowledge-dogs.json](./107828-test-your-knowledge-dogs.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test Your Math | 27731 | [27731-test-your-math.json](./27731-test-your-math.json) |
@@ -18419,6 +18421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shrouded Parchments | 259795 | [259795-the-shrouded-parchments.json](./259795-the-shrouded-parchments.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Shuddering | 311758 | [311758-the-shuddering.json](./311758-the-shuddering.json) |
+| The Sibling Experiment | 103025 | [103025-the-sibling-experiment.json](./103025-the-sibling-experiment.json) |
 | The Sibyl and Sixpence | 113239 | [113239-the-sibyl-and-sixpence.json](./113239-the-sibyl-and-sixpence.json) |
 | The Sickle Family | 367993 | [367993-the-sickle-family.json](./367993-the-sickle-family.json) |
 | The Sickle Upon Sekigahara | 157745 | [157745-the-sickle-upon-sekigahara.json](./157745-the-sickle-upon-sekigahara.json) |
