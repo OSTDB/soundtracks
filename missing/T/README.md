@@ -6924,7 +6924,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banana Splits: Pie-Toss | 376513 | [376513-the-banana-splits-pie-toss.json](./376513-the-banana-splits-pie-toss.json) |
 | The Bananatree Brothers | 97455 | [97455-the-bananatree-brothers.json](./97455-the-bananatree-brothers.json) |
 | The Bananatree Brothers: Eat Carrots | 97454 | [97454-the-bananatree-brothers-eat-carrots.json](./97454-the-bananatree-brothers-eat-carrots.json) |
-| The Banished Vault | 242009 | [242009-the-banished-vault.json](./242009-the-banished-vault.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 2: Deluxe Edition | 51708 | [51708-the-banner-saga-2-deluxe-edition.json](./51708-the-banner-saga-2-deluxe-edition.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
