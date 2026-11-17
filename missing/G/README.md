@@ -5524,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Hime to Kagami no Juusha | 172587 | [172587-glass-hime-to-kagami-no-juusha.json](./172587-glass-hime-to-kagami-no-juusha.json) |
 | Glass Hime to Kagami no Juusha: Limited Edition | 172588 | [172588-glass-hime-to-kagami-no-juusha-limited-edition.json](./172588-glass-hime-to-kagami-no-juusha-limited-edition.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
+| Glass Houses | 113967 | [113967-glass-houses.json](./113967-glass-houses.json) |
 | Glass Joe's Punch Out!! | 360100 | [360100-glass-joes-punch-out.json](./360100-glass-joes-punch-out.json) |
 | Glass Masquerade | 25871 | [25871-glass-masquerade.json](./25871-glass-masquerade.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
@@ -9683,7 +9684,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity | 257292 | [257292-gravity.json](./257292-gravity.json) |
 | Gravity | 291912 | [291912-gravity.json](./291912-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
-| Gravity Ace | 114912 | [114912-gravity-ace.json](./114912-gravity-ace.json) |
 | Gravity Angels Part 1: Alien Discovery | 73563 | [73563-gravity-angels-part-1-alien-discovery.json](./73563-gravity-angels-part-1-alien-discovery.json) |
 | Gravity Angels Part 2: The Betrayal | 229359 | [229359-gravity-angels-part-2-the-betrayal.json](./229359-gravity-angels-part-2-the-betrayal.json) |
 | Gravity Angels Part 3: Payback | 229360 | [229360-gravity-angels-part-3-payback.json](./229360-gravity-angels-part-3-payback.json) |
