@@ -7223,6 +7223,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Rogue | 223360 | [223360-going-rogue.json](./223360-going-rogue.json) |
 | Going the Distance | 166943 | [166943-going-the-distance.json](./166943-going-the-distance.json) |
 | Going To Bed | 375790 | [375790-going-to-bed.json](./375790-going-to-bed.json) |
+| Going to High School with Lira | 426509 | [426509-going-to-high-school-with-lira.json](./426509-going-to-high-school-with-lira.json) |
+| Going to High School with Lira: Nurse Skin | 426518 | [426518-going-to-high-school-with-lira-nurse-skin.json](./426518-going-to-high-school-with-lira-nurse-skin.json) |
 | Going Under | 122662 | [122662-going-under.json](./122662-going-under.json) |
 | Going Up | 31946 | [31946-going-up.json](./31946-going-up.json) |
 | Going Up | 327138 | [327138-going-up.json](./327138-going-up.json) |
