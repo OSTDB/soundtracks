@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Cards | 348209 | [348209-queens-cards.json](./348209-queens-cards.json) |
 | Queen's Coast Casino | 385889 | [385889-queens-coast-casino.json](./385889-queens-coast-casino.json) |
 | Queen's Conquest | 157390 | [157390-queens-conquest.json](./157390-queens-conquest.json) |
+| Queen's Court: A Duel of Dignitaries | 428926 | [428926-queens-court-a-duel-of-dignitaries.json](./428926-queens-court-a-duel-of-dignitaries.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Crown 2 | 38734 | [38734-queens-crown-2.json](./38734-queens-crown-2.json) |
 | Queen's Gamble | 411234 | [411234-queens-gamble.json](./411234-queens-gamble.json) |
