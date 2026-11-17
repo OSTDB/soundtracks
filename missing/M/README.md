@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka: Dungeons and Daemons | 22643 | [22643-magicka-dungeons-and-daemons.json](./22643-magicka-dungeons-and-daemons.json) |
 | Magicka: Dungeons and Gargoyles | 148877 | [148877-magicka-dungeons-and-gargoyles.json](./148877-magicka-dungeons-and-gargoyles.json) |
 | Magicka: Final Frontier | 50819 | [50819-magicka-final-frontier.json](./50819-magicka-final-frontier.json) |
+| Magicka: Free Jolnirs Workshop | 166331 | [166331-magicka-free-jolnirs-workshop.json](./166331-magicka-free-jolnirs-workshop.json) |
 | Magicka: Frozen Lake | 50818 | [50818-magicka-frozen-lake.json](./50818-magicka-frozen-lake.json) |
 | Magicka: Gamer Bundle | 327236 | [327236-magicka-gamer-bundle.json](./327236-magicka-gamer-bundle.json) |
 | Magicka: Grimnir's Laboratory | 148876 | [148876-magicka-grimnirs-laboratory.json](./148876-magicka-grimnirs-laboratory.json) |
@@ -17452,6 +17453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monitor: The Game | 56615 | [56615-monitor-the-game.json](./56615-monitor-the-game.json) |
 | Monitor: The Game - Alix: A Monitor Story | 171352 | [171352-monitor-the-game-alix-a-monitor-story.json](./171352-monitor-the-game-alix-a-monitor-story.json) |
 | Monitor: The Game - Not the Destination | 174397 | [174397-monitor-the-game-not-the-destination.json](./174397-monitor-the-game-not-the-destination.json) |
+| Monitor: The Game - The Good Left The City | 168449 | [168449-monitor-the-game-the-good-left-the-city.json](./168449-monitor-the-game-the-good-left-the-city.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
 | Monjarmageddon | 81109 | [81109-monjarmageddon.json](./81109-monjarmageddon.json) |
 | Monji | 407448 | [407448-monji.json](./407448-monji.json) |
@@ -18147,6 +18149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Wilds: Title Update 3 | 351310 | [351310-monster-hunter-wilds-title-update-3.json](./351310-monster-hunter-wilds-title-update-3.json) |
 | Monster Hunter Wilds: Title Update 4 | 369922 | [369922-monster-hunter-wilds-title-update-4.json](./369922-monster-hunter-wilds-title-update-4.json) |
 | Monster Hunter Wilds: Title Update 5 | 381129 | [381129-monster-hunter-wilds-title-update-5.json](./381129-monster-hunter-wilds-title-update-5.json) |
+| Monster Hunter World: Iceborne - Collector's Edition | 166314 | [166314-monster-hunter-world-iceborne-collectors-edition.json](./166314-monster-hunter-world-iceborne-collectors-edition.json) |
 | Monster Hunter World: Iceborne - Digital Deluxe Edition | 118278 | [118278-monster-hunter-world-iceborne-digital-deluxe-edition.json](./118278-monster-hunter-world-iceborne-digital-deluxe-edition.json) |
 | Monster Hunter World: Iceborne Master Edition | 118273 | [118273-monster-hunter-world-iceborne-master-edition.json](./118273-monster-hunter-world-iceborne-master-edition.json) |
 | Monster Hunter: Dynamic Hunting | 61752 | [61752-monster-hunter-dynamic-hunting.json](./61752-monster-hunter-dynamic-hunting.json) |
