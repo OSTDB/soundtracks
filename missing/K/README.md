@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaaarot | 214924 | [214924-kaaarot.json](./214924-kaaarot.json) |
 | Kaal Yoddha | 332445 | [332445-kaal-yoddha.json](./332445-kaal-yoddha.json) |
 | Kaamos | 322683 | [322683-kaamos.json](./322683-kaamos.json) |
+| Kaan: Barbarian's Blade | 43564 | [43564-kaan-barbarians-blade.json](./43564-kaan-barbarians-blade.json) |
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kaardik | 253500 | [253500-kaardik.json](./253500-kaardik.json) |
 | Kabama | 243306 | [243306-kabama.json](./243306-kabama.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Bot | 71027 | [71027-kick-bot.json](./71027-kick-bot.json) |
 | Kick Bot Classic | 137089 | [137089-kick-bot-classic.json](./137089-kick-bot-classic.json) |
 | Kick Boxing | 358831 | [358831-kick-boxing.json](./358831-kick-boxing.json) |
+| Kick Boxing | 41057 | [41057-kick-boxing.json](./41057-kick-boxing.json) |
 | Kick Buds | 401544 | [401544-kick-buds.json](./401544-kick-buds.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
 | Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi | 41261 | [41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json](./41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json) |
@@ -3382,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetic TwinZ | 411916 | [411916-kinetic-twinz.json](./411916-kinetic-twinz.json) |
 | Kinetic: Break All Limits | 236730 | [236730-kinetic-break-all-limits.json](./236730-kinetic-break-all-limits.json) |
 | Kinetica | 8236 | [8236-kinetica.json](./8236-kinetica.json) |
+| Kinetik | 41060 | [41060-kinetik.json](./41060-kinetik.json) |
 | Kinetika | 419204 | [419204-kinetika.json](./419204-kinetika.json) |
 | Kinetiks | 410072 | [410072-kinetiks.json](./410072-kinetiks.json) |
 | Kinetile | 429362 | [429362-kinetile.json](./429362-kinetile.json) |
