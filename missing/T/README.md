@@ -4088,7 +4088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
 | Telly Wise | 256680 | [256680-telly-wise.json](./256680-telly-wise.json) |
-| Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
 | Telnet Shooting Collection | 277182 | [277182-telnet-shooting-collection.json](./277182-telnet-shooting-collection.json) |
 | Telocation: Gemini | 145455 | [145455-telocation-gemini.json](./145455-telocation-gemini.json) |
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
