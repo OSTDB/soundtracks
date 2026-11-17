@@ -11429,7 +11429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gruniożerca 2 | 195505 | [195505-gruniozerca-2.json](./195505-gruniozerca-2.json) |
 | Gruniożerca 3: The Great Cavy Clean-Up | 308402 | [308402-gruniozerca-3-the-great-cavy-clean-up.json](./308402-gruniozerca-3-the-great-cavy-clean-up.json) |
 | Gruniożerca Trilogy | 371253 | [371253-gruniozerca-trilogy.json](./371253-gruniozerca-trilogy.json) |
-| Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | Grunnd | 167915 | [167915-grunnd.json](./167915-grunnd.json) |
 | Grunt 1991 | 236144 | [236144-grunt-1991.json](./236144-grunt-1991.json) |
 | Grunt's Castle | 376166 | [376166-grunts-castle.json](./376166-grunts-castle.json) |
