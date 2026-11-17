@@ -16502,6 +16502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula's Prey: A Nightmare in Rome | 270020 | [270020-draculas-prey-a-nightmare-in-rome.json](./270020-draculas-prey-a-nightmare-in-rome.json) |
 | Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
 | Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
+| Draculaland | 183638 | [183638-draculaland.json](./183638-draculaland.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draculesti | 265622 | [265622-draculesti.json](./265622-draculesti.json) |
 | Draculius | 69406 | [69406-draculius.json](./69406-draculius.json) |
