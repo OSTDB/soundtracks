@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T10:21:05.160Z",
-  "total_soundtracks": 3743,
+  "generated_at": "2026-11-17T10:26:28.238Z",
+  "total_soundtracks": 3749,
   "games": [
     {
       "igdb_id": 292844,
@@ -4871,6 +4871,20 @@
         {
           "album_name": "Bit.Trip Void Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/3brxSSAjT17r1zqbwuJDyS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 108770,
+      "game_name": "Bite the Bullet",
+      "game_url": "https://ostdb.net/games/bite-the-bullet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273af12da4a0173b024919cf71d",
+      "albums": [
+        {
+          "album_name": "Bite the Bullet (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2X3tUm3PwT243VN3mSDcYq",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -11647,6 +11661,20 @@
       ]
     },
     {
+      "igdb_id": 107247,
+      "game_name": "Drawkanoid",
+      "game_url": "https://ostdb.net/games/drawkanoid",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da1fd7aec98144b6248b7e5c",
+      "albums": [
+        {
+          "album_name": "Drawkanoid (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4GtiGD70WzPaWnKCUeH8PW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 144585,
       "game_name": "Dread Templar",
       "game_url": "https://ostdb.net/games/dread-templar",
@@ -13087,6 +13115,20 @@
         {
           "album_name": "Event[0] (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5K2RzTZp3vDNrImIxGp1Su",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 105453,
+      "game_name": "Evergate",
+      "game_url": "https://ostdb.net/games/evergate",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27384f4f69453f6777068fcff7a",
+      "albums": [
+        {
+          "album_name": "Evergate (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0MpNB5FXEb22TNkYnRRZbv",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -20723,6 +20765,20 @@
         {
           "album_name": "Jets 'n' Guns Gold (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/244ocJ5MbXQ6g0LbK3YwkQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 108280,
+      "game_name": "Jetstream",
+      "game_url": "https://ostdb.net/games/jetstream",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730cb5a797a9a41fac59184efb",
+      "albums": [
+        {
+          "album_name": "Jetstream (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/60gydhJpsmCG2t1dPiZo3Q",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -40897,6 +40953,20 @@
       ]
     },
     {
+      "igdb_id": 107429,
+      "game_name": "The End of the Sun",
+      "game_url": "https://ostdb.net/games/the-end-of-the-sun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273281a660188928fa07c931941",
+      "albums": [
+        {
+          "album_name": "The End of the Sun (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0LRCndVe5ef6vGLg5eo7kx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 25653,
       "game_name": "The Escapists 2",
       "game_url": "https://ostdb.net/games/the-escapists-2",
@@ -41963,6 +42033,20 @@
         {
           "album_name": "The Oregon Trail: Music from the Gameloft Game",
           "spotify_url": "https://open.spotify.com/album/6echjddvt7NQraLNuvqLnZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 107244,
+      "game_name": "The Other Half",
+      "game_url": "https://ostdb.net/games/the-other-half",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735dff3c38096f828c9eacfd1a",
+      "albums": [
+        {
+          "album_name": "The Other Half (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3S4o0tr3tBBUvv2MbhXuYV",
           "apple_music_url": "",
           "album_link_url": ""
         }
