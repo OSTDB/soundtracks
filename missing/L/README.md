@@ -4989,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lich of Might | 399777 | [399777-lich-of-might.json](./399777-lich-of-might.json) |
 | Lich Queen's Curse | 211883 | [211883-lich-queens-curse.json](./211883-lich-queens-curse.json) |
 | Lich's Dungeon | 295604 | [295604-lichs-dungeon.json](./295604-lichs-dungeon.json) |
+| Lich's Ledger | 426499 | [426499-lichs-ledger.json](./426499-lichs-ledger.json) |
 | Lichbound | 258666 | [258666-lichbound.json](./258666-lichbound.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
@@ -8982,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
 | Loser Simulator | 305835 | [305835-loser-simulator.json](./305835-loser-simulator.json) |
 | Loser's Romance | 225203 | [225203-losers-romance.json](./225203-losers-romance.json) |
+| Losers Club | 426513 | [426513-losers-club.json](./426513-losers-club.json) |
 | Losers Lament | 345258 | [345258-losers-lament.json](./345258-losers-lament.json) |
 | Losers Lament 2 | 345259 | [345259-losers-lament-2.json](./345259-losers-lament-2.json) |
 | Losers Lament 3 | 345260 | [345260-losers-lament-3.json](./345260-losers-lament-3.json) |
