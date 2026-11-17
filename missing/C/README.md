@@ -10631,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Cup | 359374 | [359374-city-cup.json](./359374-city-cup.json) |
 | City Defence | 125342 | [125342-city-defence.json](./125342-city-defence.json) |
 | City Defence | 53158 | [53158-city-defence.json](./53158-city-defence.json) |
+| City Defense | 113789 | [113789-city-defense.json](./113789-city-defense.json) |
 | City Defense | 221999 | [221999-city-defense.json](./221999-city-defense.json) |
 | City Defense Z | 284974 | [284974-city-defense-z.json](./284974-city-defense-z.json) |
 | City Demolish | 249055 | [249055-city-demolish.json](./249055-city-demolish.json) |
@@ -15590,6 +15591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection Pools | 338150 | [338150-connection-pools.json](./338150-connection-pools.json) |
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
 | Connection: The Nightmare Within | 258117 | [258117-connection-the-nightmare-within.json](./258117-connection-the-nightmare-within.json) |
+| Connectionism:Pain Control | 109781 | [109781-connectionism-pain-control.json](./109781-connectionism-pain-control.json) |
 | Connections | 12413 | [12413-connections.json](./12413-connections.json) |
 | Connections | 315093 | [315093-connections.json](./315093-connections.json) |
 | ConnecTitty | 376407 | [376407-connectitty.json](./376407-connectitty.json) |
@@ -16064,6 +16066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
 | Contingent | 106441 | [106441-contingent.json](./106441-contingent.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
+| Continue | 113775 | [113775-continue.json](./113775-continue.json) |
 | Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
 | Continue/Stop/Rise | 222976 | [222976-continue-stop-rise.json](./222976-continue-stop-rise.json) |
 | Continuity | 128662 | [128662-continuity.json](./128662-continuity.json) |
@@ -21415,6 +21418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Caves Volume 1: Troubles with Twibbles | 51394 | [51394-crystal-caves-volume-1-troubles-with-twibbles.json](./51394-crystal-caves-volume-1-troubles-with-twibbles.json) |
 | Crystal Caves Volume 2: Slugging it Out | 51393 | [51393-crystal-caves-volume-2-slugging-it-out.json](./51393-crystal-caves-volume-2-slugging-it-out.json) |
 | Crystal Caves Volume 3: Milo Versus the Supernova | 51392 | [51392-crystal-caves-volume-3-milo-versus-the-supernova.json](./51392-crystal-caves-volume-3-milo-versus-the-supernova.json) |
+| Crystal Chameleon | 113774 | [113774-crystal-chameleon.json](./113774-crystal-chameleon.json) |
 | Crystal Chaser: Tenkuu no Masuishou | 402986 | [402986-crystal-chaser-tenkuu-no-masuishou.json](./402986-crystal-chaser-tenkuu-no-masuishou.json) |
 | Crystal Chaser: Tenkuu no Masuishou - R | 402994 | [402994-crystal-chaser-tenkuu-no-masuishou-r.json](./402994-crystal-chaser-tenkuu-no-masuishou-r.json) |
 | Crystal Chip Collector | 33202 | [33202-crystal-chip-collector.json](./33202-crystal-chip-collector.json) |
