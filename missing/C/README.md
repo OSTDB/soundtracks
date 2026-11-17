@@ -7403,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check-i-TV | 420587 | [420587-check-i-tv.json](./420587-check-i-tv.json) |
 | Check-In | 169134 | [169134-check-in.json](./169134-check-in.json) |
 | Check-In | 180935 | [180935-check-in.json](./180935-check-in.json) |
+| Check-In Anomaly | 422938 | [422938-check-in-anomaly.json](./422938-check-in-anomaly.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Check, please!: Restaurant Simulator | 174028 | [174028-check-please-restaurant-simulator.json](./174028-check-please-restaurant-simulator.json) |
 | Checkborne: A Chess Adventure | 423086 | [423086-checkborne-a-chess-adventure.json](./423086-checkborne-a-chess-adventure.json) |
@@ -18155,6 +18156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoWorker | 192766 | [192766-coworker.json](./192766-coworker.json) |
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
+| Cowpool | 422936 | [422936-cowpool.json](./422936-cowpool.json) |
 | Cows Gone Mad: Battle for Pasture Prime | 411676 | [411676-cows-gone-mad-battle-for-pasture-prime.json](./411676-cows-gone-mad-battle-for-pasture-prime.json) |
 | Cows In Space | 194178 | [194178-cows-in-space.json](./194178-cows-in-space.json) |
 | Cows VS Vikings | 112592 | [112592-cows-vs-vikings.json](./112592-cows-vs-vikings.json) |
@@ -19513,6 +19515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyDish | 402110 | [402110-crazydish.json](./402110-crazydish.json) |
 | CrazyDoc | 148503 | [148503-crazydoc.json](./148503-crazydoc.json) |
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
+| CrazyFood | 422926 | [422926-crazyfood.json](./422926-crazyfood.json) |
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
 | Crazyness: Weird Village | 203976 | [203976-crazyness-weird-village.json](./203976-crazyness-weird-village.json) |
