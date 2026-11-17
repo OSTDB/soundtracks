@@ -12414,6 +12414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundations | 269259 | [269259-foundations.json](./269259-foundations.json) |
 | Foundations | 382131 | [382131-foundations.json](./382131-foundations.json) |
 | Founder of the Final Cult | 309175 | [309175-founder-of-the-final-cult.json](./309175-founder-of-the-final-cult.json) |
+| Founders | 422963 | [422963-founders.json](./422963-founders.json) |
 | Founders' Fortune | 120455 | [120455-founders-fortune.json](./120455-founders-fortune.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
 | Foundland City Builders | 390124 | [390124-foundland-city-builders.json](./390124-foundland-city-builders.json) |
