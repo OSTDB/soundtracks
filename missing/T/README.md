@@ -4704,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenth Degree | 340980 | [340980-tenth-degree.json](./340980-tenth-degree.json) |
 | Tentis | 56894 | [56894-tentis.json](./56894-tentis.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
+| Tentoria | 164107 | [164107-tentoria.json](./164107-tentoria.json) |
 | Tents and Trees | 123399 | [123399-tents-and-trees.json](./123399-tents-and-trees.json) |
 | Tents and Trees | 240056 | [240056-tents-and-trees.json](./240056-tents-and-trees.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
@@ -5773,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tharolian Tunnels | 23318 | [23318-tharolian-tunnels.json](./23318-tharolian-tunnels.json) |
 | Tharsis | 15903 | [15903-tharsis.json](./15903-tharsis.json) |
 | That | 294538 | [294538-that.json](./294538-that.json) |
+| That Abysmal Place | 164097 | [164097-that-abysmal-place.json](./164097-that-abysmal-place.json) |
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Bomb Game | 410566 | [410566-that-bomb-game.json](./410566-that-bomb-game.json) |
@@ -6324,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Age of Bhaarat | 342228 | [342228-the-age-of-bhaarat.json](./342228-the-age-of-bhaarat.json) |
 | The Age of Decadence | 4641 | [4641-the-age-of-decadence.json](./4641-the-age-of-decadence.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
+| The Age of Hell | 165090 | [165090-the-age-of-hell.json](./165090-the-age-of-hell.json) |
 | The Age of Heroes | 414778 | [414778-the-age-of-heroes.json](./414778-the-age-of-heroes.json) |
 | The Age of Navigation | 193897 | [193897-the-age-of-navigation.json](./193897-the-age-of-navigation.json) |
 | The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
@@ -15782,6 +15785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 197946 | [197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 82157 | [82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr.Jekyll and Mr.Hyde | 147945 | [147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
+| The Mysterious Cat Tower | 164105 | [164105-the-mysterious-cat-tower.json](./164105-the-mysterious-cat-tower.json) |
 | The Mysterious Cities of Gold | 16811 | [16811-the-mysterious-cities-of-gold.json](./16811-the-mysterious-cities-of-gold.json) |
 | The Mysterious Cities of Gold: Secret Paths | 53763 | [53763-the-mysterious-cities-of-gold-secret-paths.json](./53763-the-mysterious-cities-of-gold-secret-paths.json) |
 | The Mysterious Cities of Gold: Secret Paths - Director's Cut | 175577 | [175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json](./175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json) |
@@ -17549,6 +17553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenge of Mr.Samuel | 199381 | [199381-the-revenge-of-mr-samuel.json](./199381-the-revenge-of-mr-samuel.json) |
 | The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
 | The Revenge of Shinobi | 3327 | [3327-the-revenge-of-shinobi.json](./3327-the-revenge-of-shinobi.json) |
+| The Revenge of Sophia Red | 165084 | [165084-the-revenge-of-sophia-red.json](./165084-the-revenge-of-sophia-red.json) |
 | The Revenge of the Smurfs | 8079 | [8079-the-revenge-of-the-smurfs.json](./8079-the-revenge-of-the-smurfs.json) |
 | The Revenge of Tungsten | 260329 | [260329-the-revenge-of-tungsten.json](./260329-the-revenge-of-tungsten.json) |
 | The Revival | 211987 | [211987-the-revival.json](./211987-the-revival.json) |
@@ -18875,6 +18880,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Learn and Play - Brainy Smurf Hidden Story | 280587 | [280587-the-smurfs-learn-and-play-brainy-smurf-hidden-story.json](./280587-the-smurfs-learn-and-play-brainy-smurf-hidden-story.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
 | The Smurfs: Mission Vileaf | 149960 | [149960-the-smurfs-mission-vileaf.json](./149960-the-smurfs-mission-vileaf.json) |
+| The Smurfs: Mission ViLeaf - Collector's Edition | 165096 | [165096-the-smurfs-mission-vileaf-collectors-edition.json](./165096-the-smurfs-mission-vileaf-collectors-edition.json) |
+| The Smurfs: Mission ViLeaf - Smurftastic Edition | 165095 | [165095-the-smurfs-mission-vileaf-smurftastic-edition.json](./165095-the-smurfs-mission-vileaf-smurftastic-edition.json) |
 | The Smurfs: Village Party | 292150 | [292150-the-smurfs-village-party.json](./292150-the-smurfs-village-party.json) |
 | The Smurfs' Nightmare | 8085 | [8085-the-smurfs-nightmare.json](./8085-the-smurfs-nightmare.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
@@ -20210,6 +20217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trader of Stories: Chapter III | 388276 | [388276-the-trader-of-stories-chapter-iii.json](./388276-the-trader-of-stories-chapter-iii.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
 | The Tragedy at Deer Creek | 310860 | [310860-the-tragedy-at-deer-creek.json](./310860-the-tragedy-at-deer-creek.json) |
+| The Tragedy of Little Joy | 165085 | [165085-the-tragedy-of-little-joy.json](./165085-the-tragedy-of-little-joy.json) |
 | The Tragic Tale of Bark Scruffalo | 97226 | [97226-the-tragic-tale-of-bark-scruffalo.json](./97226-the-tragic-tale-of-bark-scruffalo.json) |
 | The Trail: Reign of Apocalypse | 335226 | [335226-the-trail-reign-of-apocalypse.json](./335226-the-trail-reign-of-apocalypse.json) |
 | The Trailblazer | 201185 | [201185-the-trailblazer.json](./201185-the-trailblazer.json) |
@@ -27576,6 +27584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 2029 A.D | 62790 | [62790-tokyo-2029-a-d.json](./62790-tokyo-2029-a-d.json) |
 | Tokyo 23-Ku Seifuku Wars | 61572 | [61572-tokyo-23-ku-seifuku-wars.json](./61572-tokyo-23-ku-seifuku-wars.json) |
 | Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
+| Tokyo 24-Ku: Inoru | 165101 | [165101-tokyo-24-ku-inoru.json](./165101-tokyo-24-ku-inoru.json) |
 | Tokyo 30 days | 269200 | [269200-tokyo-30-days.json](./269200-tokyo-30-days.json) |
 | Tokyo 42 - Smaceshi's Castles | 140098 | [140098-tokyo-42-smaceshis-castles.json](./140098-tokyo-42-smaceshis-castles.json) |
 | Tokyo 42 + Smaceshi's Castles | 83772 | [83772-tokyo-42-smaceshis-castles.json](./83772-tokyo-42-smaceshis-castles.json) |
@@ -28063,6 +28072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
+| Tomb Raider | 165181 | [165181-tomb-raider.json](./165181-tomb-raider.json) |
 | Tomb Raider | 218832 | [218832-tomb-raider.json](./218832-tomb-raider.json) |
 | Tomb Raider | 266697 | [266697-tomb-raider.json](./266697-tomb-raider.json) |
 | Tomb Raider 1+2+3 | 154439 | [154439-tomb-raider-1-2-3.json](./154439-tomb-raider-1-2-3.json) |
@@ -28108,6 +28118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Definitive Edition | 19965 | [19965-tomb-raider-definitive-edition.json](./19965-tomb-raider-definitive-edition.json) |
 | Tomb Raider: Definitive Survivor Trilogy | 144771 | [144771-tomb-raider-definitive-survivor-trilogy.json](./144771-tomb-raider-definitive-survivor-trilogy.json) |
 | Tomb Raider: Demolition Skin | 406536 | [406536-tomb-raider-demolition-skin.json](./406536-tomb-raider-demolition-skin.json) |
+| Tomb Raider: Elixir of Life | 165178 | [165178-tomb-raider-elixir-of-life.json](./165178-tomb-raider-elixir-of-life.json) |
 | Tomb Raider: Fisherman | 406537 | [406537-tomb-raider-fisherman.json](./406537-tomb-raider-fisherman.json) |
 | Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
 | Tomb Raider: Guerilla Skin | 406538 | [406538-tomb-raider-guerilla-skin.json](./406538-tomb-raider-guerilla-skin.json) |
@@ -28119,9 +28130,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Legacy of Atlantis - Deluxe Edition | 418337 | [418337-tomb-raider-legacy-of-atlantis-deluxe-edition.json](./418337-tomb-raider-legacy-of-atlantis-deluxe-edition.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 146718 | [146718-tomb-raider-legend.json](./146718-tomb-raider-legend.json) |
+| Tomb Raider: Legend | 165184 | [165184-tomb-raider-legend.json](./165184-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248535 | [248535-tomb-raider-legend.json](./248535-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
+| Tomb Raider: Legend - Tokyo | 165185 | [165185-tomb-raider-legend-tokyo.json](./165185-tomb-raider-legend-tokyo.json) |
 | Tomb Raider: Legend Demake - Chapter One | 267521 | [267521-tomb-raider-legend-demake-chapter-one.json](./267521-tomb-raider-legend-demake-chapter-one.json) |
 | Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
 | Tomb Raider: Mountaineer Skin | 406545 | [406545-tomb-raider-mountaineer-skin.json](./406545-tomb-raider-mountaineer-skin.json) |
@@ -31210,6 +31223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Out: Legendary Cars | 255153 | [255153-trail-out-legendary-cars.json](./255153-trail-out-legendary-cars.json) |
 | Trail Out: Luxury Life | 268055 | [268055-trail-out-luxury-life.json](./268055-trail-out-luxury-life.json) |
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
+| Trail Raider | 165186 | [165186-trail-raider.json](./165186-trail-raider.json) |
 | Trailblazer | 22517 | [22517-trailblazer.json](./22517-trailblazer.json) |
 | Trailblazer | 230469 | [230469-trailblazer.json](./230469-trailblazer.json) |
 | TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
