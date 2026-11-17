@@ -7046,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishin Renka: Ryouma Gaiden | 58572 | [58572-ishin-renka-ryouma-gaiden.json](./58572-ishin-renka-ryouma-gaiden.json) |
 | Ishmael | 112442 | [112442-ishmael.json](./112442-ishmael.json) |
 | IShoot | 251406 | [251406-ishoot.json](./251406-ishoot.json) |
+| iShoot at Everything | 174374 | [174374-ishoot-at-everything.json](./174374-ishoot-at-everything.json) |
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
 | iShuffle Board 2 | 174234 | [174234-ishuffle-board-2.json](./174234-ishuffle-board-2.json) |
 | IShuffle Bowling | 175298 | [175298-ishuffle-bowling.json](./175298-ishuffle-bowling.json) |
