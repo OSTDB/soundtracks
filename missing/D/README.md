@@ -21391,6 +21391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons & Dropped Things | 251906 | [251906-dungeons-and-dropped-things.json](./251906-dungeons-and-dropped-things.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
+| Dungeons & Dynasties | 417717 | [417717-dungeons-and-dynasties.json](./417717-dungeons-and-dynasties.json) |
 | Dungeons & Furries | 310486 | [310486-dungeons-and-furries.json](./310486-dungeons-and-furries.json) |
 | Dungeons & Geese | 51855 | [51855-dungeons-and-geese.json](./51855-dungeons-and-geese.json) |
 | Dungeons & Guns | 158081 | [158081-dungeons-and-guns.json](./158081-dungeons-and-guns.json) |
