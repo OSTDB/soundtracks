@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Anniversary Super Mario Bros. | 202413 | [202413-25th-anniversary-super-mario-bros.json](./202413-25th-anniversary-super-mario-bros.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
+| 26 Moves: The Queen's Plot | 422959 | [422959-26-moves-the-queens-plot.json](./422959-26-moves-the-queens-plot.json) |
 | 26 Rob Plays | 107326 | [107326-26-rob-plays.json](./107326-26-rob-plays.json) |
 | 2601: Teikoku Kidou Butai no Koubou | 66233 | [66233-2601-teikoku-kidou-butai-no-koubou.json](./66233-2601-teikoku-kidou-butai-no-koubou.json) |
 | 26AZ: The Enigma of Shadows | 299676 | [299676-26az-the-enigma-of-shadows.json](./299676-26az-the-enigma-of-shadows.json) |
