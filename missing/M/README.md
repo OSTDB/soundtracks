@@ -14496,6 +14496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
 | Minesweeper Fun | 87400 | [87400-minesweeper-fun.json](./87400-minesweeper-fun.json) |
+| MineSweeper Galaxy | 417925 | [417925-minesweeper-galaxy.json](./417925-minesweeper-galaxy.json) |
 | Minesweeper Game | 398009 | [398009-minesweeper-game.json](./398009-minesweeper-game.json) |
 | Minesweeper Genius | 101496 | [101496-minesweeper-genius.json](./101496-minesweeper-genius.json) |
 | Minesweeper Girl | 247882 | [247882-minesweeper-girl.json](./247882-minesweeper-girl.json) |
@@ -16116,6 +16117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
 | Mithral Gun:Biomechanical | 122016 | [122016-mithral-gun-biomechanical.json](./122016-mithral-gun-biomechanical.json) |
 | Mithrall | 293584 | [293584-mithrall.json](./293584-mithrall.json) |
+| Mithril | 417693 | [417693-mithril.json](./417693-mithril.json) |
 | Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
 | Mithrun Calls | 308740 | [308740-mithrun-calls.json](./308740-mithrun-calls.json) |
 | Mitigate | 384348 | [384348-mitigate.json](./384348-mitigate.json) |
@@ -17098,6 +17100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
 | Mole Control | 20423 | [20423-mole-control.json](./20423-mole-control.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
+| Mole Escape | 417721 | [417721-mole-escape.json](./417721-mole-escape.json) |
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
 | Mole Hunter | 281635 | [281635-mole-hunter.json](./281635-mole-hunter.json) |
 | Mole Hunter | 282773 | [282773-mole-hunter.json](./282773-mole-hunter.json) |
@@ -24844,6 +24847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Cruise | 54221 | [54221-mystery-cruise.json](./54221-mystery-cruise.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Detective Adventure | 308509 | [308509-mystery-detective-adventure.json](./308509-mystery-detective-adventure.json) |
+| Mystery Detective Adventure 2 | 417924 | [417924-mystery-detective-adventure-2.json](./417924-mystery-detective-adventure-2.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery Dungeon: Shiren the Wanderer | 78341 | [78341-mystery-dungeon-shiren-the-wanderer.json](./78341-mystery-dungeon-shiren-the-wanderer.json) |
 | Mystery Eater 2nd! | 82215 | [82215-mystery-eater-2nd.json](./82215-mystery-eater-2nd.json) |
