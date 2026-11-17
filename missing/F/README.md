@@ -343,7 +343,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Style | 257984 | [257984-fabled-style.json](./257984-fabled-style.json) |
 | Fabledom | 231098 | [231098-fabledom.json](./231098-fabledom.json) |
 | Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
-| Fables from the Den | 105995 | [105995-fables-from-the-den.json](./105995-fables-from-the-den.json) |
 | Fables Mosaic: Cinderella | 296204 | [296204-fables-mosaic-cinderella.json](./296204-fables-mosaic-cinderella.json) |
 | Fables Mosaic: Little Red Riding Hood | 296205 | [296205-fables-mosaic-little-red-riding-hood.json](./296205-fables-mosaic-little-red-riding-hood.json) |
 | Fables Mosaic: Snow White and the Seven Dwarfs | 296207 | [296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json](./296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json) |
@@ -752,13 +751,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
 | Fairy Cubes | 207978 | [207978-fairy-cubes.json](./207978-fairy-cubes.json) |
 | Fairy Deer | 196400 | [196400-fairy-deer.json](./196400-fairy-deer.json) |
-| Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F | 9893 | [9893-fairy-fencer-f.json](./9893-fairy-fencer-f.json) |
 | Fairy Fencer F: Additional Fairy Pack | 227072 | [227072-fairy-fencer-f-additional-fairy-pack.json](./227072-fairy-fencer-f-additional-fairy-pack.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Advent Dark Force DLC Bundle | 227385 | [227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json](./227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json) |
-| Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
 | Fairy Fencer F: Refrain Chord - Day One Edition | 233272 | [233272-fairy-fencer-f-refrain-chord-day-one-edition.json](./233272-fairy-fencer-f-refrain-chord-day-one-edition.json) |
 | Fairy Fencer F: Refrain Chord - Digital Deluxe Edition | 220420 | [220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json](./220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
@@ -1091,7 +1088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Imiryn | 69257 | [69257-fall-of-imiryn.json](./69257-fall-of-imiryn.json) |
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
 | Fall of Light | 36504 | [36504-fall-of-light.json](./36504-fall-of-light.json) |
-| Fall of Light: Darkest Edition | 105057 | [105057-fall-of-light-darkest-edition.json](./105057-fall-of-light-darkest-edition.json) |
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall Of Mankind | 336851 | [336851-fall-of-mankind.json](./336851-fall-of-mankind.json) |
@@ -1201,7 +1197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Lean | 370162 | [370162-fallen-lean.json](./370162-fallen-lean.json) |
 | Fallen Leaves | 257294 | [257294-fallen-leaves.json](./257294-fallen-leaves.json) |
 | Fallen Leaves | 57504 | [57504-fallen-leaves.json](./57504-fallen-leaves.json) |
-| Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
 | Fallen Legion Revenants: Digital Deluxe Edition | 227175 | [227175-fallen-legion-revenants-digital-deluxe-edition.json](./227175-fallen-legion-revenants-digital-deluxe-edition.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen Legion: Flames of Rebellion | 52018 | [52018-fallen-legion-flames-of-rebellion.json](./52018-fallen-legion-flames-of-rebellion.json) |
@@ -3216,7 +3211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farscape: The Game | 80029 | [80029-farscape-the-game.json](./80029-farscape-the-game.json) |
 | Farseer's Domain | 144898 | [144898-farseers-domain.json](./144898-farseers-domain.json) |
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
-| Farsiders | 235983 | [235983-farsiders.json](./235983-farsiders.json) |
 | Farsight | 403852 | [403852-farsight.json](./403852-farsight.json) |
 | FarSky | 17164 | [17164-farsky.json](./17164-farsky.json) |
 | Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
@@ -3265,7 +3259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Diva Dress Up - Fashionista World | 103904 | [103904-fashion-diva-dress-up-fashionista-world.json](./103904-fashion-diva-dress-up-fashionista-world.json) |
 | Fashion Doodle | 106706 | [106706-fashion-doodle.json](./106706-fashion-doodle.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
-| Fashion Dreamer | 236659 | [236659-fashion-dreamer.json](./236659-fashion-dreamer.json) |
 | Fashion Fits! | 54022 | [54022-fashion-fits.json](./54022-fashion-fits.json) |
 | Fashion Forward | 294226 | [294226-fashion-forward.json](./294226-fashion-forward.json) |
 | Fashion Friends | 219306 | [219306-fashion-friends.json](./219306-fashion-friends.json) |
@@ -3681,7 +3674,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the World: Migration | 159639 | [159639-fate-of-the-world-migration.json](./159639-fate-of-the-world-migration.json) |
 | Fate of the World: Tipping Point | 27951 | [27951-fate-of-the-world-tipping-point.json](./27951-fate-of-the-world-tipping-point.json) |
 | Fate of Windshift | 154794 | [154794-fate-of-windshift.json](./154794-fate-of-windshift.json) |
-| Fate Seeker | 104899 | [104899-fate-seeker.json](./104899-fate-seeker.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate Seeker: Journey | 228213 | [228213-fate-seeker-journey.json](./228213-fate-seeker-journey.json) |
 | Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
@@ -4077,7 +4069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Flesh | 397751 | [397751-fear-the-flesh.json](./397751-fear-the-flesh.json) |
 | Fear the Flossom | 138814 | [138814-fear-the-flossom.json](./138814-fear-the-flossom.json) |
 | Fear the Moon | 294261 | [294261-fear-the-moon.json](./294261-fear-the-moon.json) |
-| Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
 | Fear the Phantom | 236121 | [236121-fear-the-phantom.json](./236121-fear-the-phantom.json) |
 | Fear The Reaper | 329294 | [329294-fear-the-reaper.json](./329294-fear-the-reaper.json) |
 | Fear the Ring Place 0 | 398677 | [398677-fear-the-ring-place-0.json](./398677-fear-the-ring-place-0.json) |
@@ -4205,7 +4196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeble | 188705 | [188705-feeble.json](./188705-feeble.json) |
 | Feeble Force | 105545 | [105545-feeble-force.json](./105545-feeble-force.json) |
 | Feeble Light | 253636 | [253636-feeble-light.json](./253636-feeble-light.json) |
-| Feeble Origins: Path of a Hero | 115056 | [115056-feeble-origins-path-of-a-hero.json](./115056-feeble-origins-path-of-a-hero.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed | 411077 | [411077-feed.json](./411077-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
@@ -4549,7 +4539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferdinand: Unstoppabull | 114680 | [114680-ferdinand-unstoppabull.json](./114680-ferdinand-unstoppabull.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
-| Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
 | Fermata on the Pithos | 208234 | [208234-fermata-on-the-pithos.json](./208234-fermata-on-the-pithos.json) |
 | Fermion: Mirai kara no Houmonsha | 387532 | [387532-fermion-mirai-kara-no-houmonsha.json](./387532-fermion-mirai-kara-no-houmonsha.json) |
 | Fern Flower | 132104 | [132104-fern-flower.json](./132104-fern-flower.json) |
@@ -4855,7 +4844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Immortal Fire | 124901 | [124901-field-of-glory-ii-immortal-fire.json](./124901-field-of-glory-ii-immortal-fire.json) |
 | Field of Glory II: Legions Triumphant | 124885 | [124885-field-of-glory-ii-legions-triumphant.json](./124885-field-of-glory-ii-legions-triumphant.json) |
 | Field of Glory II: Masters Edition | 395288 | [395288-field-of-glory-ii-masters-edition.json](./395288-field-of-glory-ii-masters-edition.json) |
-| Field of Glory II: Medieval | 140929 | [140929-field-of-glory-ii-medieval.json](./140929-field-of-glory-ii-medieval.json) |
 | Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
 | Field of Glory II: Medieval - Rise of the Swiss | 200944 | [200944-field-of-glory-ii-medieval-rise-of-the-swiss.json](./200944-field-of-glory-ii-medieval-rise-of-the-swiss.json) |
 | Field of Glory II: Medieval - Storm of Arrows | 186898 | [186898-field-of-glory-ii-medieval-storm-of-arrows.json](./186898-field-of-glory-ii-medieval-storm-of-arrows.json) |
@@ -4864,7 +4852,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
 | Field of Glory II: Swifter than Eagles | 234222 | [234222-field-of-glory-ii-swifter-than-eagles.json](./234222-field-of-glory-ii-swifter-than-eagles.json) |
 | Field of Glory II: Wolves at the Gate | 124887 | [124887-field-of-glory-ii-wolves-at-the-gate.json](./124887-field-of-glory-ii-wolves-at-the-gate.json) |
-| Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
 | Field of Glory: Kingdoms | 200987 | [200987-field-of-glory-kingdoms.json](./200987-field-of-glory-kingdoms.json) |
 | Field of Growth: A Farmer's Odyssey | 297957 | [297957-field-of-growth-a-farmers-odyssey.json](./297957-field-of-growth-a-farmers-odyssey.json) |
@@ -4950,7 +4937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 14 | 240421 | [240421-fifa-14.json](./240421-fifa-14.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
 | FIFA 14 - Ultimate Edition | 422003 | [422003-fifa-14-ultimate-edition.json](./422003-fifa-14-ultimate-edition.json) |
-| FIFA 14 Mobile | 240417 | [240417-fifa-14-mobile.json](./240417-fifa-14-mobile.json) |
 | FIFA 14: Legacy Edition | 240420 | [240420-fifa-14-legacy-edition.json](./240420-fifa-14-legacy-edition.json) |
 | FIFA 14: Legacy Edition | 44009 | [44009-fifa-14-legacy-edition.json](./44009-fifa-14-legacy-edition.json) |
 | FIFA 15 | 240424 | [240424-fifa-15.json](./240424-fifa-15.json) |
@@ -5045,20 +5031,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 10 | 240332 | [240332-fifa-soccer-10.json](./240332-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240333 | [240333-fifa-soccer-10.json](./240333-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240334 | [240334-fifa-soccer-10.json](./240334-fifa-soccer-10.json) |
-| FIFA Soccer 10 | 240335 | [240335-fifa-soccer-10.json](./240335-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240336 | [240336-fifa-soccer-10.json](./240336-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 3133 | [3133-fifa-soccer-10.json](./3133-fifa-soccer-10.json) |
 | FIFA Soccer 11 | 240380 | [240380-fifa-soccer-11.json](./240380-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 240381 | [240381-fifa-soccer-11.json](./240381-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 240382 | [240382-fifa-soccer-11.json](./240382-fifa-soccer-11.json) |
-| FIFA Soccer 11 | 240383 | [240383-fifa-soccer-11.json](./240383-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 240384 | [240384-fifa-soccer-11.json](./240384-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 240385 | [240385-fifa-soccer-11.json](./240385-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
 | FIFA Soccer 12 | 240386 | [240386-fifa-soccer-12.json](./240386-fifa-soccer-12.json) |
 | FIFA Soccer 12 | 240387 | [240387-fifa-soccer-12.json](./240387-fifa-soccer-12.json) |
 | FIFA Soccer 12 | 240388 | [240388-fifa-soccer-12.json](./240388-fifa-soccer-12.json) |
-| FIFA Soccer 12 | 240390 | [240390-fifa-soccer-12.json](./240390-fifa-soccer-12.json) |
 | FIFA Soccer 12 | 240391 | [240391-fifa-soccer-12.json](./240391-fifa-soccer-12.json) |
 | FIFA Soccer 12 | 240392 | [240392-fifa-soccer-12.json](./240392-fifa-soccer-12.json) |
 | FIFA Soccer 12 | 2946 | [2946-fifa-soccer-12.json](./2946-fifa-soccer-12.json) |
@@ -5099,7 +5082,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
 | FIFA Street | 5575 | [5575-fifa-street.json](./5575-fifa-street.json) |
 | FIFA Street | 5832 | [5832-fifa-street.json](./5832-fifa-street.json) |
-| FIFA Street 2 | 240364 | [240364-fifa-street-2.json](./240364-fifa-street-2.json) |
 | FIFA Street 2 | 240365 | [240365-fifa-street-2.json](./240365-fifa-street-2.json) |
 | FIFA Street 2 | 240366 | [240366-fifa-street-2.json](./240366-fifa-street-2.json) |
 | FIFA Street 2 | 5833 | [5833-fifa-street-2.json](./5833-fifa-street-2.json) |
@@ -5219,7 +5201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
 | Fight Night Round 4 | 6993 | [6993-fight-night-round-4.json](./6993-fight-night-round-4.json) |
-| Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
 | Fight of Animals: Arena | 151668 | [151668-fight-of-animals-arena.json](./151668-fight-of-animals-arena.json) |
 | Fight of Animals: Legend of the Strongest Creature | 125376 | [125376-fight-of-animals-legend-of-the-strongest-creature.json](./125376-fight-of-animals-legend-of-the-strongest-creature.json) |
 | Fight of Steel: Infinity Warrior | 197157 | [197157-fight-of-steel-infinity-warrior.json](./197157-fight-of-steel-infinity-warrior.json) |
@@ -5510,7 +5491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
 | Film Morbid | 310115 | [310115-film-morbid.json](./310115-film-morbid.json) |
 | Film Studio Manager | 241298 | [241298-film-studio-manager.json](./241298-film-studio-manager.json) |
-| Filmechanism | 154370 | [154370-filmechanism.json](./154370-filmechanism.json) |
 | Filmmaker Tycoon | 122003 | [122003-filmmaker-tycoon.json](./122003-filmmaker-tycoon.json) |
 | Filo: Something Filamentous | 420574 | [420574-filo-something-filamentous.json](./420574-filo-something-filamentous.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
@@ -6336,7 +6316,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Your Girlfriend | 179754 | [179754-find-your-girlfriend.json](./179754-find-your-girlfriend.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
 | Find Your Own Way Home | 10320 | [10320-find-your-own-way-home.json](./10320-find-your-own-way-home.json) |
-| Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
 | Find Your Way Home: Last Flight | 374502 | [374502-find-your-way-home-last-flight.json](./374502-find-your-way-home-last-flight.json) |
 | Find Your Way: Episode 1 | 171925 | [171925-find-your-way-episode-1.json](./171925-find-your-way-episode-1.json) |
 | Find Your Wings | 214273 | [214273-find-your-wings.json](./214273-find-your-wings.json) |
@@ -6745,7 +6724,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Seisen no Keifu | 1436 | [1436-fire-emblem-seisen-no-keifu.json](./1436-fire-emblem-seisen-no-keifu.json) |
 | Fire Emblem: Shackled Power | 337406 | [337406-fire-emblem-shackled-power.json](./337406-fire-emblem-shackled-power.json) |
 | Fire Emblem: Shadow Dragon | 1444 | [1444-fire-emblem-shadow-dragon.json](./1444-fire-emblem-shadow-dragon.json) |
-| Fire Emblem: Shadow Dragon and the Blade of Light | 172410 | [172410-fire-emblem-shadow-dragon-and-the-blade-of-light.json](./172410-fire-emblem-shadow-dragon-and-the-blade-of-light.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Souls of the Forest | 227963 | [227963-fire-emblem-souls-of-the-forest.json](./227963-fire-emblem-souls-of-the-forest.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
@@ -6919,7 +6897,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball SE | 22313 | [22313-fireball-se.json](./22313-fireball-se.json) |
 | Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
 | Fireball Wizard | 192846 | [192846-fireball-wizard.json](./192846-fireball-wizard.json) |
-| Firebase Defence | 110519 | [110519-firebase-defence.json](./110519-firebase-defence.json) |
 | Firebat: Revolution | 317550 | [317550-firebat-revolution.json](./317550-firebat-revolution.json) |
 | Firebird | 193655 | [193655-firebird.json](./193655-firebird.json) |
 | Firebird | 287023 | [287023-firebird.json](./287023-firebird.json) |
@@ -7493,7 +7470,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 358837 | [358837-fishing.json](./358837-fishing.json) |
 | Fishing | 359190 | [359190-fishing.json](./359190-fishing.json) |
 | Fishing 3D | 141692 | [141692-fishing-3d.json](./141692-fishing-3d.json) |
-| Fishing Adventure | 120092 | [120092-fishing-adventure.json](./120092-fishing-adventure.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
 | Fishing Adventure: Finland Reserve | 250800 | [250800-fishing-adventure-finland-reserve.json](./250800-fishing-adventure-finland-reserve.json) |
@@ -7854,7 +7830,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Boxing: Fist of the North Star - Expansion Pack | 279869 | [279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json](./279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json) |
 | Fitness Center Renovator | 217112 | [217112-fitness-center-renovator.json](./217112-fitness-center-renovator.json) |
-| Fitness Circuit | 241103 | [241103-fitness-circuit.json](./241103-fitness-circuit.json) |
 | Fitness Dash | 16078 | [16078-fitness-dash.json](./16078-fitness-dash.json) |
 | Fitness Fun | 56961 | [56961-fitness-fun.json](./56961-fitness-fun.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
@@ -9673,7 +9648,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Slime Maker | 106769 | [106769-fluffy-slime-maker.json](./106769-fluffy-slime-maker.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
 | Fluffy Snakes | 343530 | [343530-fluffy-snakes.json](./343530-fluffy-snakes.json) |
-| Fluffy Store | 120606 | [120606-fluffy-store.json](./120606-fluffy-store.json) |
 | Fluffy Story | 423410 | [423410-fluffy-story.json](./423410-fluffy-story.json) |
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
@@ -9737,7 +9711,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
 | Flux | 92956 | [92956-flux.json](./92956-flux.json) |
 | Flux Ascendant | 403544 | [403544-flux-ascendant.json](./403544-flux-ascendant.json) |
-| Flux Caves | 119719 | [119719-flux-caves.json](./119719-flux-caves.json) |
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
 | Flux Family Secrets: The Rabbit Hole | 209458 | [209458-flux-family-secrets-the-rabbit-hole.json](./209458-flux-family-secrets-the-rabbit-hole.json) |
 | Flux Family Secrets: The Ripple Effect | 144973 | [144973-flux-family-secrets-the-ripple-effect.json](./144973-flux-family-secrets-the-ripple-effect.json) |
@@ -9991,7 +9964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyMe2theMoon | 214827 | [214827-flyme2themoon.json](./214827-flyme2themoon.json) |
 | Flynalny 2018 | 88131 | [88131-flynalny-2018.json](./88131-flynalny-2018.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
-| Flynn & Freckles | 97346 | [97346-flynn-and-freckles.json](./97346-flynn-and-freckles.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
 | FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
@@ -10104,7 +10076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus Grove | 391002 | [391002-focus-grove.json](./391002-focus-grove.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
-| Focus on You | 119452 | [119452-focus-on-you.json](./119452-focus-on-you.json) |
 | Focus Shot Archery Master | 80008 | [80008-focus-shot-archery-master.json](./80008-focus-shot-archery-master.json) |
 | Focus Simulator | 340088 | [340088-focus-simulator.json](./340088-focus-simulator.json) |
 | Focus Tower | 289595 | [289595-focus-tower.json](./289595-focus-tower.json) |
@@ -10192,7 +10163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folklands | 239841 | [239841-folklands.json](./239841-folklands.json) |
 | Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
 | Folklore Fishing | 379419 | [379419-folklore-fishing.json](./379419-folklore-fishing.json) |
-| Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
 | Folklore Reloaded | 379420 | [379420-folklore-reloaded.json](./379420-folklore-reloaded.json) |
 | Folklore: Shadows of the Shackled | 259460 | [259460-folklore-shadows-of-the-shackled.json](./259460-folklore-shadows-of-the-shackled.json) |
 | Folklorests | 351334 | [351334-folklorests.json](./351334-folklorests.json) |
@@ -10334,7 +10304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Pup: Cooking Chef | 294630 | [294630-food-truck-pup-cooking-chef.json](./294630-food-truck-pup-cooking-chef.json) |
 | Food Truck Rush | 109237 | [109237-food-truck-rush.json](./109237-food-truck-rush.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
-| Food Truck Simulator | 129109 | [129109-food-truck-simulator.json](./129109-food-truck-simulator.json) |
 | Food Truck Time Machine | 260299 | [260299-food-truck-time-machine.json](./260299-food-truck-time-machine.json) |
 | Food Truck Together | 385309 | [385309-food-truck-together.json](./385309-food-truck-together.json) |
 | Food Truck Tycoon | 114908 | [114908-food-truck-tycoon.json](./114908-food-truck-tycoon.json) |
@@ -10646,7 +10615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Run | 186957 | [186957-football-run.json](./186957-football-run.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
-| Football School | 120084 | [120084-football-school.json](./120084-football-school.json) |
 | Football Scout Simulator | 428733 | [428733-football-scout-simulator.json](./428733-football-scout-simulator.json) |
 | Football Seasons | 239117 | [239117-football-seasons.json](./239117-football-seasons.json) |
 | Football Sepak Kick Volleyball | 193907 | [193907-football-sepak-kick-volleyball.json](./193907-football-sepak-kick-volleyball.json) |
@@ -10813,7 +10781,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 5 - Age of Wolves | 154719 | [154719-for-honor-season-5-age-of-wolves.json](./154719-for-honor-season-5-age-of-wolves.json) |
 | For Honor: Season 6 - Hero's March | 154720 | [154720-for-honor-season-6-heros-march.json](./154720-for-honor-season-6-heros-march.json) |
 | For Honor: Season 7 - Storm and Fury | 154721 | [154721-for-honor-season-7-storm-and-fury.json](./154721-for-honor-season-7-storm-and-fury.json) |
-| For Honor: Season 8 - Marching Fire | 103318 | [103318-for-honor-season-8-marching-fire.json](./103318-for-honor-season-8-marching-fire.json) |
 | For Honor: Season 9 - Vortiger | 154722 | [154722-for-honor-season-9-vortiger.json](./154722-for-honor-season-9-vortiger.json) |
 | For Honor: Sohei - Hero | 367110 | [367110-for-honor-sohei-hero.json](./367110-for-honor-sohei-hero.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
@@ -10854,7 +10821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Rest: Healing in Forest | 218208 | [218208-for-rest-healing-in-forest.json](./218208-for-rest-healing-in-forest.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
-| For Sparta | 144127 | [144127-for-sparta.json](./144127-for-sparta.json) |
 | For Sparta | 343740 | [343740-for-sparta.json](./343740-for-sparta.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
 | For Symphony: With All One's Heart | 202609 | [202609-for-symphony-with-all-ones-heart.json](./202609-for-symphony-with-all-ones-heart.json) |
@@ -10883,7 +10849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Realm | 423367 | [423367-for-the-realm.json](./423367-for-the-realm.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
 | For The Stars | 377329 | [377329-for-the-stars.json](./377329-for-the-stars.json) |
-| For the Warp | 127685 | [127685-for-the-warp.json](./127685-for-the-warp.json) |
 | For the Wheat | 361734 | [361734-for-the-wheat.json](./361734-for-the-wheat.json) |
 | For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
 | For Those We Forgot | 291369 | [291369-for-those-we-forgot.json](./291369-for-those-we-forgot.json) |
@@ -11015,7 +10980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forebloomed: Evergreen Edition | 268302 | [268302-forebloomed-evergreen-edition.json](./268302-forebloomed-evergreen-edition.json) |
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
-| Foreclosed | 134579 | [134579-foreclosed.json](./134579-foreclosed.json) |
 | Foreclosure Simulator | 201502 | [201502-foreclosure-simulator.json](./201502-foreclosure-simulator.json) |
 | Forecursed | 321926 | [321926-forecursed.json](./321926-forecursed.json) |
 | Forefeathers | 414752 | [414752-forefeathers.json](./414752-forefeathers.json) |
@@ -11045,7 +11009,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forep Man | 121628 | [121628-forep-man.json](./121628-forep-man.json) |
 | Foresia: The Cursed Oath | 247845 | [247845-foresia-the-cursed-oath.json](./247845-foresia-the-cursed-oath.json) |
 | Foresight | 17677 | [17677-foresight.json](./17677-foresight.json) |
-| Foreskin Fury | 120616 | [120616-foreskin-fury.json](./120616-foreskin-fury.json) |
 | Forest | 100307 | [100307-forest.json](./100307-forest.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
@@ -11263,9 +11226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
 | ForeVR Darts | 185735 | [185735-forevr-darts.json](./185735-forevr-darts.json) |
-| ForeVR Pool | 225735 | [225735-forevr-pool.json](./225735-forevr-pool.json) |
 | Forewarned | 157027 | [157027-forewarned.json](./157027-forewarned.json) |
-| Forex Trading Master: Simulator | 111000 | [111000-forex-trading-master-simulator.json](./111000-forex-trading-master-simulator.json) |
 | Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge | 19937 | [19937-forge.json](./19937-forge.json) |
@@ -11345,7 +11306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgive My Sins & Desires, Father | 222736 | [222736-forgive-my-sins-and-desires-father.json](./222736-forgive-my-sins-and-desires-father.json) |
 | Forgive or Finalize | 398486 | [398486-forgive-or-finalize.json](./398486-forgive-or-finalize.json) |
 | Forgiven | 221641 | [221641-forgiven.json](./221641-forgiven.json) |
-| Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part One | 285347 | [285347-forgiveness-rpg-the-first-chapter-part-one.json](./285347-forgiveness-rpg-the-first-chapter-part-one.json) |
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
@@ -11365,7 +11325,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Beginnings: A New Afterlife | 359162 | [359162-forgotten-beginnings-a-new-afterlife.json](./359162-forgotten-beginnings-a-new-afterlife.json) |
 | Forgotten Blood | 404288 | [404288-forgotten-blood.json](./404288-forgotten-blood.json) |
 | Forgotten Bunker 1939 | 309809 | [309809-forgotten-bunker-1939.json](./309809-forgotten-bunker-1939.json) |
-| Forgotten but Unbroken | 223293 | [223293-forgotten-but-unbroken.json](./223293-forgotten-but-unbroken.json) |
 | Forgotten Castle | 113891 | [113891-forgotten-castle.json](./113891-forgotten-castle.json) |
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
 | Forgotten Chambers | 29978 | [29978-forgotten-chambers.json](./29978-forgotten-chambers.json) |
@@ -11747,7 +11706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apocalypse Arcade Game | 95716 | [95716-fort-apocalypse-arcade-game.json](./95716-fort-apocalypse-arcade-game.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
 | Fort Awesome | 28560 | [28560-fort-awesome.json](./28560-fort-awesome.json) |
-| Fort Boyard | 119925 | [119925-fort-boyard.json](./119925-fort-boyard.json) |
 | Fort Boyard | 50030 | [50030-fort-boyard.json](./50030-fort-boyard.json) |
 | Fort Boyard 2022 | 199324 | [199324-fort-boyard-2022.json](./199324-fort-boyard-2022.json) |
 | Fort Boyard, le jeu | 268131 | [268131-fort-boyard-le-jeu.json](./268131-fort-boyard-le-jeu.json) |
@@ -11780,7 +11738,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Solis: Terra Edition | 262225 | [262225-fort-solis-terra-edition.json](./262225-fort-solis-terra-edition.json) |
 | Fort Stars | 308171 | [308171-fort-stars.json](./308171-fort-stars.json) |
-| Fort Sumter | 118420 | [118420-fort-sumter.json](./118420-fort-sumter.json) |
 | Fort Sumter: Secession Crisis | 200258 | [200258-fort-sumter-secession-crisis.json](./200258-fort-sumter-secession-crisis.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Fort Zombie | 27498 | [27498-fort-zombie.json](./27498-fort-zombie.json) |
@@ -12738,7 +12695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractals | 372929 | [372929-fractals.json](./372929-fractals.json) |
 | Fractals of Destiny | 256955 | [256955-fractals-of-destiny.json](./256955-fractals-of-destiny.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
-| Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
 | Fraction Fever | 40880 | [40880-fraction-fever.json](./40880-fraction-fever.json) |
 | Fraction Munchers | 325302 | [325302-fraction-munchers.json](./325302-fraction-munchers.json) |
 | Fraction Reaction | 219324 | [219324-fraction-reaction.json](./219324-fraction-reaction.json) |
@@ -12954,8 +12910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
 | Franchise Hockey Manager 4 | 69422 | [69422-franchise-hockey-manager-4.json](./69422-franchise-hockey-manager-4.json) |
-| Franchise Hockey Manager 5 | 110453 | [110453-franchise-hockey-manager-5.json](./110453-franchise-hockey-manager-5.json) |
-| Franchise Hockey Manager 6 | 122838 | [122838-franchise-hockey-manager-6.json](./122838-franchise-hockey-manager-6.json) |
 | Franchise Hockey Manager 7 | 141510 | [141510-franchise-hockey-manager-7.json](./141510-franchise-hockey-manager-7.json) |
 | Franchise Hockey Manager 8 | 176712 | [176712-franchise-hockey-manager-8.json](./176712-franchise-hockey-manager-8.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
@@ -13197,7 +13151,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
 | Freddy Pharkas: Frontier Pharmacist | 110 | [110-freddy-pharkas-frontier-pharmacist.json](./110-freddy-pharkas-frontier-pharmacist.json) |
 | Freddy Spaghetti | 132369 | [132369-freddy-spaghetti.json](./132369-freddy-spaghetti.json) |
-| Freddy Spaghetti 2 | 155471 | [155471-freddy-spaghetti-2.json](./155471-freddy-spaghetti-2.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
 | Freddy's Folly | 37220 | [37220-freddys-folly.json](./37220-freddys-folly.json) |
 | Freddy's Job : Old Pizzeria | 275151 | [275151-freddys-job-old-pizzeria.json](./275151-freddys-job-old-pizzeria.json) |
@@ -13497,7 +13450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreezeME | 23480 | [23480-freezeme.json](./23480-freezeme.json) |
 | Freezer Frenzy | 305698 | [305698-freezer-frenzy.json](./305698-freezer-frenzy.json) |
 | Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
-| Freezer Pops | 163296 | [163296-freezer-pops.json](./163296-freezer-pops.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezia | 333315 | [333315-freezia.json](./333315-freezia.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
@@ -13751,7 +13703,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: The Computer Game | 26287 | [26287-friday-the-13th-the-computer-game.json](./26287-friday-the-13th-the-computer-game.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friday The 13th: The Game - Ultimate Slasher Collector's Edition | 136315 | [136315-friday-the-13th-the-game-ultimate-slasher-collectors-edition.json](./136315-friday-the-13th-the-game-ultimate-slasher-collectors-edition.json) |
-| Friday the 13th: The Game - Ultimate Slasher Edition | 115835 | [115835-friday-the-13th-the-game-ultimate-slasher-edition.json](./115835-friday-the-13th-the-game-ultimate-slasher-edition.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
 | Fridge Escape | 304263 | [304263-fridge-escape.json](./304263-fridge-escape.json) |
@@ -14137,7 +14088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
 | Frogger Hop Trivia | 11472 | [11472-frogger-hop-trivia.json](./11472-frogger-hop-trivia.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
-| Frogger In Toy Town | 117011 | [117011-frogger-in-toy-town.json](./117011-frogger-in-toy-town.json) |
 | Frogger Inferno | 11474 | [11474-frogger-inferno.json](./11474-frogger-inferno.json) |
 | Frogger Pinball | 63920 | [63920-frogger-pinball.json](./63920-frogger-pinball.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
@@ -14362,7 +14312,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission 1st | 21541 | [21541-front-mission-1st.json](./21541-front-mission-1st.json) |
 | Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
 | Front Mission 2 | 1500 | [1500-front-mission-2.json](./1500-front-mission-2.json) |
-| Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Mission 2089 | 1504 | [1504-front-mission-2089.json](./1504-front-mission-2089.json) |
 | Front Mission 2089-II | 1507 | [1507-front-mission-2089-ii.json](./1507-front-mission-2089-ii.json) |
 | Front Mission 2089: Border of Madness | 72662 | [72662-front-mission-2089-border-of-madness.json](./72662-front-mission-2089-border-of-madness.json) |
@@ -14501,7 +14450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
 | Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
-| Frontline Zed | 120418 | [120418-frontline-zed.json](./120418-frontline-zed.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
 | Frontline: Fields of Thunder | 11108 | [11108-frontline-fields-of-thunder.json](./11108-frontline-fields-of-thunder.json) |
@@ -14673,7 +14621,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen: Olaf's Quest | 85088 | [85088-frozen-olafs-quest.json](./85088-frozen-olafs-quest.json) |
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
 | Frozen: Special Delivery | 201338 | [201338-frozen-special-delivery.json](./201338-frozen-special-delivery.json) |
-| Frozenheim | 144594 | [144594-frozenheim.json](./144594-frozenheim.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzd | 92913 | [92913-frozzd.json](./92913-frozzd.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
@@ -14807,7 +14754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit: Chain Effect | 336870 | [336870-fruit-chain-effect.json](./336870-fruit-chain-effect.json) |
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
-| Fruitbus | 257513 | [257513-fruitbus.json](./257513-fruitbus.json) |
 | Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
 | Fruitee! | 377949 | [377949-fruitee.json](./377949-fruitee.json) |
 | FruitFall Crush | 194166 | [194166-fruitfall-crush.json](./194166-fruitfall-crush.json) |
@@ -14981,7 +14927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuji Golf | 230754 | [230754-fuji-golf.json](./230754-fuji-golf.json) |
 | Fuji-yama Daibakuhatsu | 345632 | [345632-fuji-yama-daibakuhatsu.json](./345632-fuji-yama-daibakuhatsu.json) |
 | FuJianStrike | 391014 | [391014-fujianstrike.json](./391014-fujianstrike.json) |
-| Fujii | 118161 | [118161-fujii.json](./118161-fujii.json) |
 | Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! | 60748 | [60748-fujiko-f-fujio-characters-daishuugou-sf-dotabata-party.json](./60748-fujiko-f-fujio-characters-daishuugou-sf-dotabata-party.json) |
 | Fujisan Nobori | 296288 | [296288-fujisan-nobori.json](./296288-fujisan-nobori.json) |
 | Fujiwara BitterSweet | 136030 | [136030-fujiwara-bittersweet.json](./136030-fujiwara-bittersweet.json) |
@@ -15270,7 +15215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Zone Omega | 386239 | [386239-fun-zone-omega.json](./386239-fun-zone-omega.json) |
 | Fun Zoo | 18360 | [18360-fun-zoo.json](./18360-fun-zoo.json) |
 | Fun, Sun & Mishaps | 169887 | [169887-fun-sun-and-mishaps.json](./169887-fun-sun-and-mishaps.json) |
-| Fun! Fun! Animal Park | 114024 | [114024-fun-fun-animal-park.json](./114024-fun-fun-animal-park.json) |
 | Fun! Fun! Minigolf | 21128 | [21128-fun-fun-minigolf.json](./21128-fun-fun-minigolf.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Fun.Io | 254310 | [254310-fun-io.json](./254310-fun-io.json) |
@@ -15279,7 +15223,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funaki Masakatsu: Hybrid Wrestler | 67031 | [67031-funaki-masakatsu-hybrid-wrestler.json](./67031-funaki-masakatsu-hybrid-wrestler.json) |
 | Funanigans | 136893 | [136893-funanigans.json](./136893-funanigans.json) |
 | Funanigans: Party Games | 168579 | [168579-funanigans-party-games.json](./168579-funanigans-party-games.json) |
-| Funbag Fantasy | 114807 | [114807-funbag-fantasy.json](./114807-funbag-fantasy.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
 | Funbag Fantasy 3if | 160197 | [160197-funbag-fantasy-3if.json](./160197-funbag-fantasy-3if.json) |
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
