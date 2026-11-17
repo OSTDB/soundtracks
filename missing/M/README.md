@@ -915,6 +915,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Chess | 270999 | [270999-mafia-chess.json](./270999-mafia-chess.json) |
 | Mafia City: War of Underworld | 87354 | [87354-mafia-city-war-of-underworld.json](./87354-mafia-city-war-of-underworld.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
+| Mafia Contract | 143809 | [143809-mafia-contract.json](./143809-mafia-contract.json) |
+| Mafia Contract II: The Sequel | 143810 | [143810-mafia-contract-ii-the-sequel.json](./143810-mafia-contract-ii-the-sequel.json) |
 | Mafia Esper | 219970 | [219970-mafia-esper.json](./219970-mafia-esper.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia Gangster City | 151266 | [151266-mafia-gangster-city.json](./151266-mafia-gangster-city.json) |
@@ -9634,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meikei no Lupercalia: Limited Edition | 191961 | [191961-meikei-no-lupercalia-limited-edition.json](./191961-meikei-no-lupercalia-limited-edition.json) |
 | Meikyu | 414461 | [414461-meikyu.json](./414461-meikyu.json) |
 | Meikyu Wakusei des Paraiso | 182391 | [182391-meikyu-wakusei-des-paraiso.json](./182391-meikyu-wakusei-des-paraiso.json) |
+| Meikyuu Cross Blood: Infinity | 145082 | [145082-meikyuu-cross-blood-infinity.json](./145082-meikyuu-cross-blood-infinity.json) |
 | Meikyuu Cross Blood: Infinity - Ultimate | 248796 | [248796-meikyuu-cross-blood-infinity-ultimate.json](./248796-meikyuu-cross-blood-infinity-ultimate.json) |
 | Meikyuu Gou Mayoroba | 321059 | [321059-meikyuu-gou-mayoroba.json](./321059-meikyuu-gou-mayoroba.json) |
 | Meikyuu Hunter G | 231407 | [231407-meikyuu-hunter-g.json](./231407-meikyuu-hunter-g.json) |
@@ -10599,7 +10602,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant's Rush | 220414 | [220414-merchants-rush.json](./220414-merchants-rush.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
 | Merchants of Kaidan | 17288 | [17288-merchants-of-kaidan.json](./17288-merchants-of-kaidan.json) |
-| Merchants of Rosewall | 292603 | [292603-merchants-of-rosewall.json](./292603-merchants-of-rosewall.json) |
 | Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
 | Merchants of the Caribbean | 160182 | [160182-merchants-of-the-caribbean.json](./160182-merchants-of-the-caribbean.json) |
 | Merchants of the Caribbean: Collector's Edition | 177102 | [177102-merchants-of-the-caribbean-collectors-edition.json](./177102-merchants-of-the-caribbean-collectors-edition.json) |
@@ -15080,6 +15082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | Minisweeper | 91195 | [91195-minisweeper.json](./91195-minisweeper.json) |
 | Minit | 26970 | [26970-minit.json](./26970-minit.json) |
+| Minit Fun Racer | 143806 | [143806-minit-fun-racer.json](./143806-minit-fun-racer.json) |
 | Minit Man | 293669 | [293669-minit-man.json](./293669-minit-man.json) |
 | MiniTale | 341288 | [341288-minitale.json](./341288-minitale.json) |
 | MiniTank: Desert Strike | 336973 | [336973-minitank-desert-strike.json](./336973-minitank-desert-strike.json) |
