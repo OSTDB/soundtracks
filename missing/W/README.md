@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
 | We Will Get revenge | 241682 | [241682-we-will-get-revenge.json](./241682-we-will-get-revenge.json) |
 | We Wish You a Merry Christmas | 5277 | [5277-we-wish-you-a-merry-christmas.json](./5277-we-wish-you-a-merry-christmas.json) |
+| We Wretched Creatures | 419282 | [419282-we-wretched-creatures.json](./419282-we-wretched-creatures.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
 | We. The Refugees: Ticket to Europe | 212022 | [212022-we-the-refugees-ticket-to-europe.json](./212022-we-the-refugees-ticket-to-europe.json) |
 | We. The Revolution | 27513 | [27513-we-the-revolution.json](./27513-we-the-revolution.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weave the Line | 99943 | [99943-weave-the-line.json](./99943-weave-the-line.json) |
 | Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
+| Weavemarch | 419297 | [419297-weavemarch.json](./419297-weavemarch.json) |
 | Weaver | 209979 | [209979-weaver.json](./209979-weaver.json) |
 | Weaverse | 107678 | [107678-weaverse.json](./107678-weaverse.json) |
 | Weaves of Fate | 53306 | [53306-weaves-of-fate.json](./53306-weaves-of-fate.json) |
