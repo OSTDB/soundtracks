@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick and Hide | 346511 | [346511-kick-and-hide.json](./346511-kick-and-hide.json) |
 | Kick and Run | 39369 | [39369-kick-and-run.json](./39369-kick-and-run.json) |
 | Kick Ass Commandos | 20347 | [20347-kick-ass-commandos.json](./20347-kick-ass-commandos.json) |
+| Kick Ball | 171115 | [171115-kick-ball.json](./171115-kick-ball.json) |
 | Kick Ball | 42051 | [42051-kick-ball.json](./42051-kick-ball.json) |
 | Kick Bastards | 173258 | [173258-kick-bastards.json](./173258-kick-bastards.json) |
 | Kick Bot | 71027 | [71027-kick-bot.json](./71027-kick-bot.json) |
