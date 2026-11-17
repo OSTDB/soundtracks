@@ -18502,6 +18502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Wolf | 291627 | [291627-solar-wolf.json](./291627-solar-wolf.json) |
 | Solar: Survival Space Battle Simulator | 312421 | [312421-solar-survival-space-battle-simulator.json](./312421-solar-survival-space-battle-simulator.json) |
 | Solar.Cross | 387170 | [387170-solar-cross.json](./387170-solar-cross.json) |
+| Solara: Starlight Horizon | 203448 | [203448-solara-starlight-horizon.json](./203448-solara-starlight-horizon.json) |
 | SolarBlack | 268653 | [268653-solarblack.json](./268653-solarblack.json) |
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
@@ -21524,7 +21525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Syndicate | 211267 | [211267-sovereign-syndicate.json](./211267-sovereign-syndicate.json) |
 | Sovereign Syndicate: Digital Deluxe Edition | 336048 | [336048-sovereign-syndicate-digital-deluxe-edition.json](./336048-sovereign-syndicate-digital-deluxe-edition.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
-| Sovereign Tower | 384977 | [384977-sovereign-tower.json](./384977-sovereign-tower.json) |
 | Sovereign's End | 403548 | [403548-sovereigns-end.json](./403548-sovereigns-end.json) |
 | Sovereign's Enigma | 327057 | [327057-sovereigns-enigma.json](./327057-sovereigns-enigma.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
@@ -36980,6 +36980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sarrador | 208238 | [208238-super-sarrador.json](./208238-super-sarrador.json) |
 | Super Sayajin UI Kakaroto VS Red Flame Warrior | 100918 | [100918-super-sayajin-ui-kakaroto-vs-red-flame-warrior.json](./100918-super-sayajin-ui-kakaroto-vs-red-flame-warrior.json) |
 | Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
+| Super Scattergories | 203450 | [203450-super-scattergories.json](./203450-super-scattergories.json) |
 | Super School Day | 411863 | [411863-super-school-day.json](./411863-super-school-day.json) |
 | Super Schwarzschild | 41996 | [41996-super-schwarzschild.json](./41996-super-schwarzschild.json) |
 | Super Schwarzschild 2 | 401871 | [401871-super-schwarzschild-2.json](./401871-super-schwarzschild-2.json) |
