@@ -2876,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
 | Hatch Dragons | 381848 | [381848-hatch-dragons.json](./381848-hatch-dragons.json) |
 | Hatch This! | 181456 | [181456-hatch-this.json](./181456-hatch-this.json) |
+| Hatch'n'wall | 423504 | [423504-hatchnwall.json](./423504-hatchnwall.json) |
 | Hatchball | 137961 | [137961-hatchball.json](./137961-hatchball.json) |
 | Hatchepsout: The Hell Temple | 277092 | [277092-hatchepsout-the-hell-temple.json](./277092-hatchepsout-the-hell-temple.json) |
 | Hatchi: A Retro Virtual Pet | 102517 | [102517-hatchi-a-retro-virtual-pet.json](./102517-hatchi-a-retro-virtual-pet.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted PS1 Demo Disc 2021 | 145030 | [145030-haunted-ps1-demo-disc-2021.json](./145030-haunted-ps1-demo-disc-2021.json) |
 | Haunted PS1 Madvent Calendar 2020 | 141758 | [141758-haunted-ps1-madvent-calendar-2020.json](./141758-haunted-ps1-madvent-calendar-2020.json) |
 | Haunted Record | 304608 | [304608-haunted-record.json](./304608-haunted-record.json) |
+| Haunted Resort: Idle Game | 423495 | [423495-haunted-resort-idle-game.json](./423495-haunted-resort-idle-game.json) |
 | Haunted ROM: The Lost Cartridge | 363042 | [363042-haunted-rom-the-lost-cartridge.json](./363042-haunted-rom-the-lost-cartridge.json) |
 | Haunted Room: 205 | 349104 | [349104-haunted-room-205.json](./349104-haunted-room-205.json) |
 | Haunted Room! Urami-chan | 351785 | [351785-haunted-room-urami-chan.json](./351785-haunted-room-urami-chan.json) |
@@ -3907,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartCatch PreCure! Oshare Collection | 124520 | [124520-heartcatch-precure-oshare-collection.json](./124520-heartcatch-precure-oshare-collection.json) |
 | HeartCore Descent | 407381 | [407381-heartcore-descent.json](./407381-heartcore-descent.json) |
 | Heartdust | 370254 | [370254-heartdust.json](./370254-heartdust.json) |
+| Heartfall: A Tale in Three Lives | 423521 | [423521-heartfall-a-tale-in-three-lives.json](./423521-heartfall-a-tale-in-three-lives.json) |
 | HeartFinder | 322099 | [322099-heartfinder.json](./322099-heartfinder.json) |
 | Heartfire | 332388 | [332388-heartfire.json](./332388-heartfire.json) |
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
@@ -7397,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Pop | 418482 | [418482-hex-pop.json](./418482-hex-pop.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
+| Hex Seculum | 423482 | [423482-hex-seculum.json](./423482-hex-seculum.json) |
 | Hex Shop | 398260 | [398260-hex-shop.json](./398260-hex-shop.json) |
 | Hex Slayer | 158115 | [158115-hex-slayer.json](./158115-hex-slayer.json) |
 | Hex Strikers | 248948 | [248948-hex-strikers.json](./248948-hex-strikers.json) |
@@ -8461,6 +8465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Space Top-Down 3D | 269007 | [269007-hidden-space-top-down-3d.json](./269007-hidden-space-top-down-3d.json) |
 | Hidden Square | 311132 | [311132-hidden-square.json](./311132-hidden-square.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
+| Hidden Streets | 423489 | [423489-hidden-streets.json](./423489-hidden-streets.json) |
 | Hidden Stroke II: APRM | 209903 | [209903-hidden-stroke-ii-aprm.json](./209903-hidden-stroke-ii-aprm.json) |
 | Hidden Stroke: APRM | 209902 | [209902-hidden-stroke-aprm.json](./209902-hidden-stroke-aprm.json) |
 | Hidden Stuff | 214075 | [214075-hidden-stuff.json](./214075-hidden-stuff.json) |
@@ -13775,6 +13780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Bark, Bone and Blood | 262035 | [262035-hunt-showdown-1896-bark-bone-and-blood.json](./262035-hunt-showdown-1896-bark-bone-and-blood.json) |
 | Hunt: Showdown 1896 - Biatatá: Still Waters Run Deep | 241309 | [241309-hunt-showdown-1896-biatata-still-waters-run-deep.json](./241309-hunt-showdown-1896-biatata-still-waters-run-deep.json) |
 | Hunt: Showdown 1896 - Commedia Della Morte | 237805 | [237805-hunt-showdown-1896-commedia-della-morte.json](./237805-hunt-showdown-1896-commedia-della-morte.json) |
+| Hunt: Showdown 1896 - Cry of the Caged Bird | 423475 | [423475-hunt-showdown-1896-cry-of-the-caged-bird.json](./423475-hunt-showdown-1896-cry-of-the-caged-bird.json) |
 | Hunt: Showdown 1896 - Deluxe Edition | 313779 | [313779-hunt-showdown-1896-deluxe-edition.json](./313779-hunt-showdown-1896-deluxe-edition.json) |
 | Hunt: Showdown 1896 - La Luz Mala | 231342 | [231342-hunt-showdown-1896-la-luz-mala.json](./231342-hunt-showdown-1896-la-luz-mala.json) |
 | Hunt: Showdown 1896 - Law of Salvage | 276197 | [276197-hunt-showdown-1896-law-of-salvage.json](./276197-hunt-showdown-1896-law-of-salvage.json) |
