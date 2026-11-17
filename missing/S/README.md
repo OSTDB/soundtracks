@@ -5771,6 +5771,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Top Ten | 78756 | [78756-sega-top-ten.json](./78756-sega-top-ten.json) |
 | Sega Touring Car Championship | 39795 | [39795-sega-touring-car-championship.json](./39795-sega-touring-car-championship.json) |
 | Sega Vintage Collection: Alex Kidd & Co. | 79259 | [79259-sega-vintage-collection-alex-kidd-and-co.json](./79259-sega-vintage-collection-alex-kidd-and-co.json) |
+| Sega Vintage Collection: Golden Axe | 80698 | [80698-sega-vintage-collection-golden-axe.json](./80698-sega-vintage-collection-golden-axe.json) |
+| Sega Vintage Collection: Monster World | 80699 | [80699-sega-vintage-collection-monster-world.json](./80699-sega-vintage-collection-monster-world.json) |
+| Sega Vintage Collection: Streets of Rage | 80697 | [80697-sega-vintage-collection-streets-of-rage.json](./80697-sega-vintage-collection-streets-of-rage.json) |
 | Sega Vintage Collection: ToeJam & Earl | 85812 | [85812-sega-vintage-collection-toejam-and-earl.json](./85812-sega-vintage-collection-toejam-and-earl.json) |
 | Sega VR-1 | 61963 | [61963-sega-vr-1.json](./61963-sega-vr-1.json) |
 | Sega vs. Capcom: The Next Level | 314615 | [314615-sega-vs-capcom-the-next-level.json](./314615-sega-vs-capcom-the-next-level.json) |
@@ -6312,10 +6315,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Massacre | 71425 | [71425-sensible-massacre.json](./71425-sensible-massacre.json) |
 | Sensible Soccer | 165461 | [165461-sensible-soccer.json](./165461-sensible-soccer.json) |
 | Sensible Soccer '98 | 94361 | [94361-sensible-soccer-98.json](./94361-sensible-soccer-98.json) |
+| Sensible Soccer 2000 | 80676 | [80676-sensible-soccer-2000.json](./80676-sensible-soccer-2000.json) |
 | Sensible Soccer Skills | 165477 | [165477-sensible-soccer-skills.json](./165477-sensible-soccer-skills.json) |
 | Sensible Soccer Skillz | 165478 | [165478-sensible-soccer-skillz.json](./165478-sensible-soccer-skillz.json) |
 | Sensible Soccer: European Champions | 13257 | [13257-sensible-soccer-european-champions.json](./13257-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Champions | 165408 | [165408-sensible-soccer-european-champions.json](./165408-sensible-soccer-european-champions.json) |
+| Sensible Soccer: European Champions | 80677 | [80677-sensible-soccer-european-champions.json](./80677-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Champions - 92/93 Edition | 138304 | [138304-sensible-soccer-european-champions-92-93-edition.json](./138304-sensible-soccer-european-champions-92-93-edition.json) |
 | Sensible Soccer: European Club Edition | 79250 | [79250-sensible-soccer-european-club-edition.json](./79250-sensible-soccer-european-club-edition.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
@@ -9889,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Shifters | 151487 | [151487-ship-shifters.json](./151487-ship-shifters.json) |
 | Ship Sim 2020 | 146819 | [146819-ship-sim-2020.json](./146819-ship-sim-2020.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
+| Ship Simulator 2006 Add-On | 80696 | [80696-ship-simulator-2006-add-on.json](./80696-ship-simulator-2006-add-on.json) |
 | Ship Simulator 2006: Collector's Edition | 51361 | [51361-ship-simulator-2006-collectors-edition.json](./51361-ship-simulator-2006-collectors-edition.json) |
 | Ship Simulator 2006: Gold Edition | 53655 | [53655-ship-simulator-2006-gold-edition.json](./53655-ship-simulator-2006-gold-edition.json) |
 | Ship Simulator 2008: Collector's Edition | 54390 | [54390-ship-simulator-2008-collectors-edition.json](./54390-ship-simulator-2008-collectors-edition.json) |
@@ -14779,6 +14785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slams City. Hitler's Escape. | 151414 | [151414-slams-city-hitlers-escape.json](./151414-slams-city-hitlers-escape.json) |
 | Slamscape | 9742 | [9742-slamscape.json](./9742-slamscape.json) |
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
+| SlamTilt Resurrection | 80670 | [80670-slamtilt-resurrection.json](./80670-slamtilt-resurrection.json) |
 | Slamwall | 392410 | [392410-slamwall.json](./392410-slamwall.json) |
 | Slap 'em Up! | 348014 | [348014-slap-em-up.json](./348014-slap-em-up.json) |
 | Slap Cats | 298190 | [298190-slap-cats.json](./298190-slap-cats.json) |
@@ -23767,6 +23774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed on the Grid | 239984 | [239984-speed-on-the-grid.json](./239984-speed-on-the-grid.json) |
 | Speed or Death | 254053 | [254053-speed-or-death.json](./254053-speed-or-death.json) |
 | Speed Overflow | 306537 | [306537-speed-overflow.json](./306537-speed-overflow.json) |
+| Speed Pack | 80662 | [80662-speed-pack.json](./80662-speed-pack.json) |
 | Speed Plumber | 290270 | [290270-speed-plumber.json](./290270-speed-plumber.json) |
 | Speed Power Gunbike | 92832 | [92832-speed-power-gunbike.json](./92832-speed-power-gunbike.json) |
 | Speed Punks | 4119 | [4119-speed-punks.json](./4119-speed-punks.json) |
@@ -32140,6 +32148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Suit Zero | 8507 | [8507-strike-suit-zero.json](./8507-strike-suit-zero.json) |
 | Strike Suit Zero: Collectors Edition | 54407 | [54407-strike-suit-zero-collectors-edition.json](./54407-strike-suit-zero-collectors-edition.json) |
 | Strike Suit Zero: Director's Cut | 9465 | [9465-strike-suit-zero-directors-cut.json](./9465-strike-suit-zero-directors-cut.json) |
+| Strike Tactics | 80702 | [80702-strike-tactics.json](./80702-strike-tactics.json) |
 | Strike Team Delta | 293668 | [293668-strike-team-delta.json](./293668-strike-team-delta.json) |
 | Strike Team Gladius | 142274 | [142274-strike-team-gladius.json](./142274-strike-team-gladius.json) |
 | Strike Team Hydra | 76365 | [76365-strike-team-hydra.json](./76365-strike-team-hydra.json) |
