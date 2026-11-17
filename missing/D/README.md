@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Portrait of the Stained Princess | 139791 | [139791-dark-parables-portrait-of-the-stained-princess.json](./139791-dark-parables-portrait-of-the-stained-princess.json) |
 | Dark Parables: Portrait of the Stained Princess - Collector's Edition | 123843 | [123843-dark-parables-portrait-of-the-stained-princess-collectors-edition.json](./123843-dark-parables-portrait-of-the-stained-princess-collectors-edition.json) |
 | Dark Parables: Queen of Sands | 91136 | [91136-dark-parables-queen-of-sands.json](./91136-dark-parables-queen-of-sands.json) |
+| Dark Parables: Queen of Sands - Collector's Edition | 51475 | [51475-dark-parables-queen-of-sands-collectors-edition.json](./51475-dark-parables-queen-of-sands-collectors-edition.json) |
 | Dark Parables: Requiem for the Forgotten Shadow | 139792 | [139792-dark-parables-requiem-for-the-forgotten-shadow.json](./139792-dark-parables-requiem-for-the-forgotten-shadow.json) |
 | Dark Parables: Requiem for the Forgotten Shadow - Collector's Edition | 29341 | [29341-dark-parables-requiem-for-the-forgotten-shadow-collectors-edition.json](./29341-dark-parables-requiem-for-the-forgotten-shadow-collectors-edition.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
