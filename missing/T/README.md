@@ -31347,6 +31347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
+| Train Driver Journey 5 - Tidewater Point Railroad | 99258 | [99258-train-driver-journey-5-tidewater-point-railroad.json](./99258-train-driver-journey-5-tidewater-point-railroad.json) |
 | Train Driver Journey 6 - Highland Valley Industries | 99922 | [99922-train-driver-journey-6-highland-valley-industries.json](./99922-train-driver-journey-6-highland-valley-industries.json) |
 | Train Driver Journey 7 - Rosworth Vale | 96597 | [96597-train-driver-journey-7-rosworth-vale.json](./96597-train-driver-journey-7-rosworth-vale.json) |
 | Train Driver Journey 8 - Winter in the Alps | 89759 | [89759-train-driver-journey-8-winter-in-the-alps.json](./89759-train-driver-journey-8-winter-in-the-alps.json) |
