@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T01:45:56.573Z",
-  "total_soundtracks": 3506,
+  "generated_at": "2026-11-17T01:56:01.635Z",
+  "total_soundtracks": 3508,
   "games": [
     {
       "igdb_id": 292844,
@@ -26965,6 +26965,20 @@
       ]
     },
     {
+      "igdb_id": 366375,
+      "game_name": "Pacific Drive: Whispers in the Woods",
+      "game_url": "https://ostdb.net/games/pacific-drive-whispers-in-the-woods",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736cc6323314d14e0067704554",
+      "albums": [
+        {
+          "album_name": "Pacific Drive: Whispers In the Woods (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/14LbEDTXJrALlj9xWApe2r",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 13192,
       "game_name": "Paint the Town Red",
       "game_url": "https://ostdb.net/games/paint-the-town-red",
@@ -35389,6 +35403,20 @@
         {
           "album_name": "Stonefly (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3F6Igl63HXUUWdIRzn5TgK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 362635,
+      "game_name": "Storm Lancers",
+      "game_url": "https://ostdb.net/games/storm-lancers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27335df1bc6c60ff8c1e77b92b3",
+      "albums": [
+        {
+          "album_name": "Storm Lancers (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7y2Oz4yjpiv0rZftxcI6v8",
           "apple_music_url": "",
           "album_link_url": ""
         }
