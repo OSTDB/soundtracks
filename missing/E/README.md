@@ -7800,7 +7800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
 | Evergarden | 269740 | [269740-evergarden.json](./269740-evergarden.json) |
 | Evergarden | 398021 | [398021-evergarden.json](./398021-evergarden.json) |
-| Evergate | 105453 | [105453-evergate.json](./105453-evergate.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
 | Evergather: Meadowcraft | 426950 | [426950-evergather-meadowcraft.json](./426950-evergather-meadowcraft.json) |
 | EverGirl | 6399 | [6399-evergirl.json](./6399-evergirl.json) |
