@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
 | Nade Pro: Kisama mo Seiyuu Yattemiro! | 221471 | [221471-nade-pro-kisama-mo-seiyuu-yattemiro.json](./221471-nade-pro-kisama-mo-seiyuu-yattemiro.json) |
+| NadeRevo! Nadeshiko Revolution | 145084 | [145084-naderevo-nadeshiko-revolution.json](./145084-naderevo-nadeshiko-revolution.json) |
 | Nadeshiko's Dollhouse | 294628 | [294628-nadeshikos-dollhouse.json](./294628-nadeshikos-dollhouse.json) |
 | Nadia Training Plan | 97726 | [97726-nadia-training-plan.json](./97726-nadia-training-plan.json) |
 | Nadia Was Here | 28491 | [28491-nadia-was-here.json](./28491-nadia-was-here.json) |
@@ -2799,7 +2800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Hyperdrive | 356008 | [356008-neon-hyperdrive.json](./356008-neon-hyperdrive.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
-| Neon Inferno | 322701 | [322701-neon-inferno.json](./322701-neon-inferno.json) |
 | Neon Infinity | 114931 | [114931-neon-infinity.json](./114931-neon-infinity.json) |
 | Neon Intrusion | 284873 | [284873-neon-intrusion.json](./284873-neon-intrusion.json) |
 | Neon Invaders | 204059 | [204059-neon-invaders.json](./204059-neon-invaders.json) |
@@ -5415,6 +5415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightzoid | 260637 | [260637-nightzoid.json](./260637-nightzoid.json) |
 | Nigredo | 346143 | [346143-nigredo.json](./346143-nigredo.json) |
 | Nigudin Really Fought Against Furong Wangyuan | 341373 | [341373-nigudin-really-fought-against-furong-wangyuan.json](./341373-nigudin-really-fought-against-furong-wangyuan.json) |
+| Nihariely's Spatial Adventure | 156728 | [156728-niharielys-spatial-adventure.json](./156728-niharielys-spatial-adventure.json) |
 | Nihil | 201332 | [201332-nihil.json](./201332-nihil.json) |
 | Nihil Ignis Incident 48 | 285400 | [285400-nihil-ignis-incident-48.json](./285400-nihil-ignis-incident-48.json) |
 | Nihilism | 71163 | [71163-nihilism.json](./71163-nihilism.json) |
@@ -5705,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Bricks | 220451 | [220451-ninja-bricks.json](./220451-ninja-bricks.json) |
 | Ninja Brigade feat. Jonah Weingarten | 146101 | [146101-ninja-brigade-feat-jonah-weingarten.json](./146101-ninja-brigade-feat-jonah-weingarten.json) |
 | Ninja Bros. | 92063 | [92063-ninja-bros.json](./92063-ninja-bros.json) |
+| Ninja Buddy Epic Quest | 152430 | [152430-ninja-buddy-epic-quest.json](./152430-ninja-buddy-epic-quest.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
 | Ninja Burai Densetsu | 46072 | [46072-ninja-burai-densetsu.json](./46072-ninja-burai-densetsu.json) |
 | Ninja Camel | 395810 | [395810-ninja-camel.json](./395810-ninja-camel.json) |
@@ -7785,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostalgic Nights at Freddy's | 228153 | [228153-nostalgic-nights-at-freddys.json](./228153-nostalgic-nights-at-freddys.json) |
 | Nostalgic Train | 102089 | [102089-nostalgic-train.json](./102089-nostalgic-train.json) |
+| Nostalgici Anonimi | 152440 | [152440-nostalgici-anonimi.json](./152440-nostalgici-anonimi.json) |
 | Nostoi | 105006 | [105006-nostoi.json](./105006-nostoi.json) |
 | Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
 | Nostra | 415122 | [415122-nostra.json](./415122-nostra.json) |
