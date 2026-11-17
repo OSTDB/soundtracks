@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2601: Teikoku Kidou Butai no Koubou | 66233 | [66233-2601-teikoku-kidou-butai-no-koubou.json](./66233-2601-teikoku-kidou-butai-no-koubou.json) |
 | 26AZ: The Enigma of Shadows | 299676 | [299676-26az-the-enigma-of-shadows.json](./299676-26az-the-enigma-of-shadows.json) |
 | 27 Electronic table football | 27219 | [27219-27-electronic-table-football.json](./27219-27-electronic-table-football.json) |
+| 27 Pages | 159927 | [159927-27-pages.json](./159927-27-pages.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
 | 27 Tele-games | 98803 | [98803-27-tele-games.json](./98803-27-tele-games.json) |
 | 270 \| Two Seventy US Election | 102432 | [102432-270-two-seventy-us-election.json](./102432-270-two-seventy-us-election.json) |
