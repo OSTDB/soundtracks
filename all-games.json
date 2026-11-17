@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T09:06:46.644Z",
-  "total_soundtracks": 3682,
+  "generated_at": "2026-11-17T09:10:56.330Z",
+  "total_soundtracks": 3683,
   "games": [
     {
       "igdb_id": 292844,
@@ -32536,6 +32536,20 @@
           "album_name": "Rome Total War (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 139449,
+      "game_name": "Rooftop Renegade",
+      "game_url": "https://ostdb.net/games/rooftop-renegade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d4f4324f33f3cc6c69c0d602",
+      "albums": [
+        {
+          "album_name": "Rooftop Renegade (Original Game Soundtrack+)",
+          "spotify_url": "https://open.spotify.com/album/3ShsPoGpXtv2I8c6UtDckV",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
