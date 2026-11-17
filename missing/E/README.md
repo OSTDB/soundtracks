@@ -7962,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertown | 33782 | [33782-evertown.json](./33782-evertown.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
 | Evertried | 142081 | [142081-evertried.json](./142081-evertried.json) |
+| Evertwine | 206877 | [206877-evertwine.json](./206877-evertwine.json) |
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
 | Everwayne | 295617 | [295617-everwayne.json](./295617-everwayne.json) |
 | Everweave | 341397 | [341397-everweave.json](./341397-everweave.json) |
