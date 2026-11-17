@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture the Intelligence | 306725 | [306725-capture-the-intelligence.json](./306725-capture-the-intelligence.json) |
 | Capture the monster | 86469 | [86469-capture-the-monster.json](./86469-capture-the-monster.json) |
 | Capture the Pixel | 176188 | [176188-capture-the-pixel.json](./176188-capture-the-pixel.json) |
+| Capture the planet: Cute War | 115091 | [115091-capture-the-planet-cute-war.json](./115091-capture-the-planet-cute-war.json) |
 | Captured | 312193 | [312193-captured.json](./312193-captured.json) |
 | Captured | 413918 | [413918-captured.json](./413918-captured.json) |
 | Captured 2 | 340031 | [340031-captured-2.json](./340031-captured-2.json) |
@@ -11210,6 +11211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clash: Mutants Vs Pirates | 93769 | [93769-clash-mutants-vs-pirates.json](./93769-clash-mutants-vs-pirates.json) |
 | Clash: Robot Detective - Complete Edition | 236218 | [236218-clash-robot-detective-complete-edition.json](./236218-clash-robot-detective-complete-edition.json) |
+| Clash!: Battle Arena | 115097 | [115097-clash-battle-arena.json](./115097-clash-battle-arena.json) |
 | Clash'N Slash | 400685 | [400685-clashn-slash.json](./400685-clashn-slash.json) |
 | Clash'N Slash: Worlds Away | 39773 | [39773-clashn-slash-worlds-away.json](./39773-clashn-slash-worlds-away.json) |
 | ClashBall.io | 325921 | [325921-clashball-io.json](./325921-clashball-io.json) |
@@ -19958,6 +19960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Girls | 11750 | [11750-criminal-girls.json](./11750-criminal-girls.json) |
 | Criminal Girls 2 | 11751 | [11751-criminal-girls-2.json](./11751-criminal-girls-2.json) |
 | Criminal Girls 2: Party Favors | 24195 | [24195-criminal-girls-2-party-favors.json](./24195-criminal-girls-2-party-favors.json) |
+| Criminal Girls X | 115108 | [115108-criminal-girls-x.json](./115108-criminal-girls-x.json) |
 | Criminal Girls: Invite Only | 11746 | [11746-criminal-girls-invite-only.json](./11746-criminal-girls-invite-only.json) |
 | Criminal Hearts: Obsession Bad Boys Dating Sim | 414886 | [414886-criminal-hearts-obsession-bad-boys-dating-sim.json](./414886-criminal-hearts-obsession-bad-boys-dating-sim.json) |
 | Criminal Hearts: Obsession Bad Girls Dating Sim | 415387 | [415387-criminal-hearts-obsession-bad-girls-dating-sim.json](./415387-criminal-hearts-obsession-bad-girls-dating-sim.json) |
@@ -22431,6 +22434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcakes and Critters | 63560 | [63560-cupcakes-and-critters.json](./63560-cupcakes-and-critters.json) |
 | Cupcakes! XL | 108718 | [108718-cupcakes-xl.json](./108718-cupcakes-xl.json) |
 | CupCakoon | 122665 | [122665-cupcakoon.json](./122665-cupcakoon.json) |
+| CupGuess | 115092 | [115092-cupguess.json](./115092-cupguess.json) |
 | Cuphead & The Delicious Last Course | 210917 | [210917-cuphead-and-the-delicious-last-course.json](./210917-cuphead-and-the-delicious-last-course.json) |
 | Cuphead Brothers in Arms | 177642 | [177642-cuphead-brothers-in-arms.json](./177642-cuphead-brothers-in-arms.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
