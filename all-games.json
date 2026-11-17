@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T10:26:28.238Z",
-  "total_soundtracks": 3749,
+  "generated_at": "2026-11-17T10:36:30.298Z",
+  "total_soundtracks": 3755,
   "games": [
     {
       "igdb_id": 292844,
@@ -1543,6 +1543,20 @@
         {
           "album_name": "Alone in the Dark (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5Q9f5EaY5kL9C2OGftEQ2D",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 102166,
+      "game_name": "Along Together",
+      "game_url": "https://ostdb.net/games/along-together",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27370b5a45893df4f8841049883",
+      "albums": [
+        {
+          "album_name": "Along Together (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2YG5TyZM4CO146m2Nskoyn",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25211,6 +25225,20 @@
       ]
     },
     {
+      "igdb_id": 104683,
+      "game_name": "MindSeize",
+      "game_url": "https://ostdb.net/games/mindseize",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735dbe54cae61983ad67cb925e",
+      "albums": [
+        {
+          "album_name": "MindSeize (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/456C8FdoZQruhO04OxiXtj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 275169,
       "game_name": "Mindwave",
       "game_url": "https://ostdb.net/games/mindwave",
@@ -31693,6 +31721,20 @@
       ]
     },
     {
+      "igdb_id": 104238,
+      "game_name": "Redout: Space Assault",
+      "game_url": "https://ostdb.net/games/redout-space-assault",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ca190f80ea818dda5e128015",
+      "albums": [
+        {
+          "album_name": "Redout: Space Assault (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/59xCgpEXJ8eoFbGUx4HidC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 30205,
       "game_name": "Regalia: Of Men and Monarchs",
       "game_url": "https://ostdb.net/games/regalia-of-men-and-monarchs",
@@ -32457,6 +32499,20 @@
         {
           "album_name": "RIDGE RACER V Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/00GpOj3yo8stWYwcEoWMci",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 99652,
+      "game_name": "Rift Keeper",
+      "game_url": "https://ostdb.net/games/rift-keeper",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273734a42b2a8d78c89817bd9e3",
+      "albums": [
+        {
+          "album_name": "Rift Keeper (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1J4V91mxvJqh1JVuO6t6RI",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -45943,6 +45999,20 @@
       ]
     },
     {
+      "igdb_id": 103845,
+      "game_name": "Walden, a game",
+      "game_url": "https://ostdb.net/games/walden-a-game",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736880ec75452d190222f21e34",
+      "albums": [
+        {
+          "album_name": "Walden, A Game (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5hAhevsiGa4dXLP9DvlD3U",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 142095,
       "game_name": "Walkabout Mini Golf",
       "game_url": "https://ostdb.net/games/walkabout-mini-golf",
@@ -47882,6 +47952,20 @@
           "album_name": "明末渊虚之羽 原声音乐 (WUCHANG: Fallen Feathers Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2XgP8o6WfLLULebkCHxSNT",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 102807,
+      "game_name": "Wunderling",
+      "game_url": "https://ostdb.net/games/wunderling",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739b881ab935732a6f30d1eae2",
+      "albums": [
+        {
+          "album_name": "Wunderling (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3QAGZNHJnYAXzKHluQSb0A",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
