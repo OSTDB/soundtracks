@@ -8060,6 +8060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody Edits | 74298 | [74298-everybody-edits.json](./74298-everybody-edits.json) |
 | Everybody Got Mad | 135744 | [135744-everybody-got-mad.json](./135744-everybody-got-mad.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
+| Everybody Loves a Good Hole | 421115 | [421115-everybody-loves-a-good-hole.json](./421115-everybody-loves-a-good-hole.json) |
 | Everybody Loves Mothman | 419998 | [419998-everybody-loves-mothman.json](./419998-everybody-loves-mothman.json) |
 | Everybody Loves Skeletons | 121453 | [121453-everybody-loves-skeletons.json](./121453-everybody-loves-skeletons.json) |
 | Everybody Mahjong! | 425186 | [425186-everybody-mahjong.json](./425186-everybody-mahjong.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone's a Wally | 13649 | [13649-everyones-a-wally.json](./13649-everyones-a-wally.json) |
 | Everyone's A Wally | 41181 | [41181-everyones-a-wally.json](./41181-everyones-a-wally.json) |
 | Everyone's A Wally: A Day in the Life of Wally | 73998 | [73998-everyones-a-wally-a-day-in-the-life-of-wally.json](./73998-everyones-a-wally-a-day-in-the-life-of-wally.json) |
+| Everyone's Detective | 421117 | [421117-everyones-detective.json](./421117-everyones-detective.json) |
 | Everyone's Idol Yumeru-chan! Escape from the Uninvited Pervert | 82772 | [82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json](./82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json) |
 | Everyone's Tsume Shogi: Intermediate 1 | 218895 | [218895-everyones-tsume-shogi-intermediate-1.json](./218895-everyones-tsume-shogi-intermediate-1.json) |
 | Everyone's Tsume Shogi: Intermediate 2 | 218894 | [218894-everyones-tsume-shogi-intermediate-2.json](./218894-everyones-tsume-shogi-intermediate-2.json) |
@@ -8529,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex-Argent: Menes no Sairyuu | 206566 | [206566-ex-argent-menes-no-sairyuu.json](./206566-ex-argent-menes-no-sairyuu.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Ex-Mutants | 36738 | [36738-ex-mutants.json](./36738-ex-mutants.json) |
+| Ex-Wife Demon Hunter | 421127 | [421127-ex-wife-demon-hunter.json](./421127-ex-wife-demon-hunter.json) |
 | EX-Xdriver | 272339 | [272339-ex-xdriver.json](./272339-ex-xdriver.json) |
 | Ex-Zodiac | 133089 | [133089-ex-zodiac.json](./133089-ex-zodiac.json) |
 | EX: Extra | 242154 | [242154-ex-extra.json](./242154-ex-extra.json) |
