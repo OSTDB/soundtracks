@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tang Chi | 206613 | [206613-tang-chi.json](./206613-tang-chi.json) |
 | Táng Chuánqí: Shàng Yuáncháng Gān Xíng | 373703 | [373703-tang-chuanqi-shang-yuanchang-gan-xing.json](./373703-tang-chuanqi-shang-yuanchang-gan-xing.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
+| Tang Tang | 39912 | [39912-tang-tang.json](./39912-tang-tang.json) |
 | Tang's Starfish Rescue | 91237 | [91237-tangs-starfish-rescue.json](./91237-tangs-starfish-rescue.json) |
 | Tangaria | 285284 | [285284-tangaria.json](./285284-tangaria.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
@@ -3162,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taz: Wanted | 4194 | [4194-taz-wanted.json](./4194-taz-wanted.json) |
 | Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
 | Tazz | 293321 | [293321-tazz.json](./293321-tazz.json) |
+| Tazz-Mania | 39892 | [39892-tazz-mania.json](./39892-tazz-mania.json) |
 | TBH: Task Bar Hero | 372510 | [372510-tbh-task-bar-hero.json](./372510-tbh-task-bar-hero.json) |
 | TBmsTF | 281361 | [281361-tbmstf.json](./281361-tbmstf.json) |
 | TBS All Star Kanshasai Vol. 1: Chou Gouka! Quiz Ketteiban | 422761 | [422761-tbs-all-star-kanshasai-vol-1-chou-gouka-quiz-ketteiban.json](./422761-tbs-all-star-kanshasai-vol-1-chou-gouka-quiz-ketteiban.json) |
@@ -28791,6 +28793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topps Huddle | 58403 | [58403-topps-huddle.json](./58403-topps-huddle.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | Topps NHL Skate | 280023 | [280023-topps-nhl-skate.json](./280023-topps-nhl-skate.json) |
+| Toppy & Rappy | 39886 | [39886-toppy-and-rappy.json](./39886-toppy-and-rappy.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
 | Topsoil | 142590 | [142590-topsoil.json](./142590-topsoil.json) |
 | Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
@@ -35426,6 +35429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trox | 409300 | [409300-trox.json](./409300-trox.json) |
 | Trox: The Reversal | 390033 | [390033-trox-the-reversal.json](./390033-trox-the-reversal.json) |
 | Troxia | 214480 | [214480-troxia.json](./214480-troxia.json) |
+| Troy Aikman NFL Football | 40829 | [40829-troy-aikman-nfl-football.json](./40829-troy-aikman-nfl-football.json) |
 | Troy Online | 92516 | [92516-troy-online.json](./92516-troy-online.json) |
 | Troy-Bilt: Testing Grounds | 327791 | [327791-troy-bilt-testing-grounds.json](./327791-troy-bilt-testing-grounds.json) |
 | Troy: The Malware Fight | 156974 | [156974-troy-the-malware-fight.json](./156974-troy-the-malware-fight.json) |
@@ -36461,6 +36465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Fiesta | 206069 | [206069-turbo-fiesta.json](./206069-turbo-fiesta.json) |
 | Turbo Finger Swipe | 9237 | [9237-turbo-finger-swipe.json](./9237-turbo-finger-swipe.json) |
 | Turbo Force | 214255 | [214255-turbo-force.json](./214255-turbo-force.json) |
+| Turbo Force | 39885 | [39885-turbo-force.json](./39885-turbo-force.json) |
 | Turbo Girl | 39140 | [39140-turbo-girl.json](./39140-turbo-girl.json) |
 | Turbo Golf Racing: Deep Space Bundle | 295641 | [295641-turbo-golf-racing-deep-space-bundle.json](./295641-turbo-golf-racing-deep-space-bundle.json) |
 | Turbo Golf Racing: Space Explorer's Galactic Ball Set | 296558 | [296558-turbo-golf-racing-space-explorers-galactic-ball-set.json](./296558-turbo-golf-racing-space-explorers-galactic-ball-set.json) |
@@ -37045,6 +37050,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwilightStar: Heart of Eir | 123662 | [123662-twilightstar-heart-of-eir.json](./123662-twilightstar-heart-of-eir.json) |
 | TwilioQuest | 124416 | [124416-twilioquest.json](./124416-twilioquest.json) |
 | Twin | 310512 | [310512-twin.json](./310512-twin.json) |
+| Twin Action | 39910 | [39910-twin-action.json](./39910-twin-action.json) |
+| Twin Adventure | 39884 | [39884-twin-adventure.json](./39884-twin-adventure.json) |
 | Twin Balls | 160247 | [160247-twin-balls.json](./160247-twin-balls.json) |
 | Twin Balls Journey | 390227 | [390227-twin-balls-journey.json](./390227-twin-balls-journey.json) |
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
