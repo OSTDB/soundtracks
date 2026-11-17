@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T06:36:23.640Z",
-  "total_soundtracks": 3560,
+  "generated_at": "2026-11-17T06:47:19.176Z",
+  "total_soundtracks": 3570,
   "games": [
     {
       "igdb_id": 292844,
@@ -3485,6 +3485,20 @@
         {
           "album_name": "Balthazar's Dream (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4kaYQ4Idm1YrUljuDruj29",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 266687,
+      "game_name": "Bandle Tale: A League of Legends Story",
+      "game_url": "https://ostdb.net/games/bandle-tale-a-league-of-legends-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737252e18abf865eab4a0a1168",
+      "albums": [
+        {
+          "album_name": "Bandle Tale: A League of Legends Story (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/341gsrcI6kXqUDgzdjUIa1",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12191,6 +12205,20 @@
       ]
     },
     {
+      "igdb_id": 262528,
+      "game_name": "Endzone 2",
+      "game_url": "https://ostdb.net/games/endzone-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739ab3aaa3b643ad420c957794",
+      "albums": [
+        {
+          "album_name": "Endzone 2 (Original Game Soundtrack), Pt. 01",
+          "spotify_url": "https://open.spotify.com/album/6WscmjpU9z0s4Aa4vv4HOr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 126362,
       "game_name": "Endzone: A World Apart",
       "game_url": "https://ostdb.net/games/endzone-a-world-apart",
@@ -16491,6 +16519,20 @@
         {
           "album_name": "Grim Dawn (Ashes of Malmouth Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/16OX47Xzj8FCml5IXbD1Of",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 262671,
+      "game_name": "Grime II",
+      "game_url": "https://ostdb.net/games/grime-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27374564d0506ae2c6163a71b5e",
+      "albums": [
+        {
+          "album_name": "GRIME II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5JIrIPlWmLGPJj5LmqTHMG",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27353,6 +27395,20 @@
       ]
     },
     {
+      "igdb_id": 271213,
+      "game_name": "Pac-Man Mega Tunnel Battle: Chomp Champs",
+      "game_url": "https://ostdb.net/games/pac-man-mega-tunnel-battle-chomp-champs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cd9f17407334e1baa6ac668a",
+      "albums": [
+        {
+          "album_name": "PAC-MAN Mega Tunnel Battle: Chomp Champs - Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1g3xshfLVSc3jaGRBIqipC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 12192,
       "game_name": "Pac-Mania",
       "game_url": "https://ostdb.net/games/pac-mania",
@@ -28023,6 +28079,20 @@
         {
           "album_name": "Phantom Doctrine (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3x8qrmyOhyR5JH0eJwLwkh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 262672,
+      "game_name": "Phantom Spark",
+      "game_url": "https://ostdb.net/games/phantom-spark",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273049cca9cd16b8c99fc4a16af",
+      "albums": [
+        {
+          "album_name": "Phantom Spark (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6elMRKGE1GgqfSC95MJptT",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -34917,6 +34987,20 @@
       ]
     },
     {
+      "igdb_id": 273868,
+      "game_name": "Spirit of the North 2",
+      "game_url": "https://ostdb.net/games/spirit-of-the-north-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273905c49706097ad322904ffc2",
+      "albums": [
+        {
+          "album_name": "Spirit of the North 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6pIPnjvAMUmrl8gOkYLIEm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6929,
       "game_name": "Splatterhouse",
       "game_url": "https://ostdb.net/games/splatterhouse",
@@ -36389,6 +36473,20 @@
       ]
     },
     {
+      "igdb_id": 269204,
+      "game_name": "Subpar Pool",
+      "game_url": "https://ostdb.net/games/subpar-pool",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738503142990dd50543d2d9e45",
+      "albums": [
+        {
+          "album_name": "subpar pool (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5nf01fwG4kF99cU7c8fZft",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 54780,
       "game_name": "Subsurface Circular",
       "game_url": "https://ostdb.net/games/subsurface-circular",
@@ -37687,6 +37785,20 @@
         {
           "album_name": "Telepath Tactics (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/21Kusbtm7JFd1Aa1zJrPB3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 265615,
+      "game_name": "Telmari",
+      "game_url": "https://ostdb.net/games/telmari",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273450f7713e5f02401e07bf9b6",
+      "albums": [
+        {
+          "album_name": "Telmari (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5p61i9zyCLTTqLZOg3UDby",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -44741,6 +44853,20 @@
       ]
     },
     {
+      "igdb_id": 267083,
+      "game_name": "Wizardry: Proving Grounds of the Mad Overlord",
+      "game_url": "https://ostdb.net/games/wizardry-proving-grounds-of-the-mad-overlord",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c4a4cb642d0fc2bcec98e6de",
+      "albums": [
+        {
+          "album_name": "Wizardry: Proving Grounds of the Mad Overlord (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0CR7BXMJIrhGx7XCP1GYiy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2863,
       "game_name": "Wizardry: Proving Grounds of the Mad Overlord",
       "game_url": "https://ostdb.net/games/wizardry-proving-grounds-of-the-mad-overlord",
@@ -45077,6 +45203,20 @@
           "spotify_url": "https://open.spotify.com/album/3Dz4iNmJAmdqO46w7nKDGK",
           "apple_music_url": "https://music.apple.com/us/album/world-of-warcraft-legion-original-game-soundtrack/1810426676",
           "album_link_url": "https://album.link/i/1810426676"
+        }
+      ]
+    },
+    {
+      "igdb_id": 275177,
+      "game_name": "World of Warcraft: Midnight",
+      "game_url": "https://ostdb.net/games/world-of-warcraft-midnight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fbd79c8598f79e95c12a7354",
+      "albums": [
+        {
+          "album_name": "World of Warcraft: Midnight (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1bw95uXBv4lokNNtl2XDMM",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
