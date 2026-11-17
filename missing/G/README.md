@@ -4195,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghone is gone | 128219 | [128219-ghone-is-gone.json](./128219-ghone-is-gone.json) |
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
 | Ghost | 306244 | [306244-ghost.json](./306244-ghost.json) |
+| Ghost 'n Goblins Exceed | 138295 | [138295-ghost-n-goblins-exceed.json](./138295-ghost-n-goblins-exceed.json) |
 | Ghost 1.0 | 32969 | [32969-ghost-1-0.json](./32969-ghost-1-0.json) |
 | Ghost 1.0: Limited Edition | 166995 | [166995-ghost-1-0-limited-edition.json](./166995-ghost-1-0-limited-edition.json) |
 | Ghost Algorithm | 391665 | [391665-ghost-algorithm.json](./391665-ghost-algorithm.json) |
@@ -4373,9 +4374,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow | 134758 | [134758-ghost-of-tomorrow.json](./134758-ghost-of-tomorrow.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
+| Ghost of Tsushima: Collector's Edition | 135958 | [135958-ghost-of-tsushima-collectors-edition.json](./135958-ghost-of-tsushima-collectors-edition.json) |
 | Ghost of Tsushima: Digital Deluxe Edition | 132978 | [132978-ghost-of-tsushima-digital-deluxe-edition.json](./132978-ghost-of-tsushima-digital-deluxe-edition.json) |
 | Ghost of Tsushima: Launch Edition | 136178 | [136178-ghost-of-tsushima-launch-edition.json](./136178-ghost-of-tsushima-launch-edition.json) |
 | Ghost of Tsushima: Legends | 140042 | [140042-ghost-of-tsushima-legends.json](./140042-ghost-of-tsushima-legends.json) |
+| Ghost of Tsushima: Special Edition | 135957 | [135957-ghost-of-tsushima-special-edition.json](./135957-ghost-of-tsushima-special-edition.json) |
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
 | Ghost Of Wynlow | 285410 | [285410-ghost-of-wynlow.json](./285410-ghost-of-wynlow.json) |
 | Ghost of Yotei: Complete Edition | 413275 | [413275-ghost-of-yotei-complete-edition.json](./413275-ghost-of-yotei-complete-edition.json) |
@@ -7943,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Day | 186401 | [186401-good-day.json](./186401-good-day.json) |
 | Good Dirt | 414730 | [414730-good-dirt.json](./414730-good-dirt.json) |
 | Good Dog | 176711 | [176711-good-dog.json](./176711-good-dog.json) |
+| Good Dog, Bad Dog | 137142 | [137142-good-dog-bad-dog.json](./137142-good-dog-bad-dog.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good doktor | 127532 | [127532-good-doktor.json](./127532-good-doktor.json) |
 | Good Dreams | 100532 | [100532-good-dreams.json](./100532-good-dreams.json) |
@@ -9433,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave | 260919 | [260919-grave.json](./260919-grave.json) |
 | Grave | 62500 | [62500-grave.json](./62500-grave.json) |
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
+| Grave Apologies | 137137 | [137137-grave-apologies.json](./137137-grave-apologies.json) |
 | Grave Chase | 38752 | [38752-grave-chase.json](./38752-grave-chase.json) |
 | Grave Complex | 148087 | [148087-grave-complex.json](./148087-grave-complex.json) |
 | Grave Danger | 26585 | [26585-grave-danger.json](./26585-grave-danger.json) |
