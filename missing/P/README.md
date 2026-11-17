@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
 | P1r4t3s | 126937 | [126937-p1r4t3s.json](./126937-p1r4t3s.json) |
+| P3 | 78137 | [78137-p3.json](./78137-p3.json) |
 | P3D/P5D: Accessory Season Pass | 362146 | [362146-p3d-p5d-accessory-season-pass.json](./362146-p3d-p5d-accessory-season-pass.json) |
 | P3D/P5D: Song Season Pass | 362145 | [362145-p3d-p5d-song-season-pass.json](./362145-p3d-p5d-song-season-pass.json) |
 | P3TT | 164095 | [164095-p3tt.json](./164095-p3tt.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekoe | 136988 | [136988-pekoe.json](./136988-pekoe.json) |
 | Pekoratchi | 256977 | [256977-pekoratchi.json](./256977-pekoratchi.json) |
 | Peku | 117383 | [117383-peku.json](./117383-peku.json) |
+| Pel | 78106 | [78106-pel.json](./78106-pel.json) |
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
 | Pelagium Origins | 176633 | [176633-pelagium-origins.json](./176633-pelagium-origins.json) |
 | Pelago | 303984 | [303984-pelago.json](./303984-pelago.json) |
@@ -5805,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Fantasy 3D | 85338 | [85338-petz-fantasy-3d.json](./85338-petz-fantasy-3d.json) |
 | Petz Fantasy: Moonlight Magic | 66364 | [66364-petz-fantasy-moonlight-magic.json](./66364-petz-fantasy-moonlight-magic.json) |
 | Petz Fantasy: Sunshine Magic | 47962 | [47962-petz-fantasy-sunshine-magic.json](./47962-petz-fantasy-sunshine-magic.json) |
+| Petz Fashion: Dogz and Catz | 78108 | [78108-petz-fashion-dogz-and-catz.json](./78108-petz-fashion-dogz-and-catz.json) |
 | Petz Hamsterz Bunch | 210000 | [210000-petz-hamsterz-bunch.json](./210000-petz-hamsterz-bunch.json) |
 | Petz Hamsterz Family | 85337 | [85337-petz-hamsterz-family.json](./85337-petz-hamsterz-family.json) |
 | Petz Horseshoe Ranch | 209999 | [209999-petz-horseshoe-ranch.json](./209999-petz-horseshoe-ranch.json) |
@@ -7070,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Puzzle | 186449 | [186449-picture-puzzle.json](./186449-picture-puzzle.json) |
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
 | Picture Puzzle | 47608 | [47608-picture-puzzle.json](./47608-picture-puzzle.json) |
+| Picture Puzzle | 78141 | [78141-picture-puzzle.json](./78141-picture-puzzle.json) |
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture Puzzle Girls: Slide & Match | 417313 | [417313-picture-puzzle-girls-slide-and-match.json](./417313-picture-puzzle-girls-slide-and-match.json) |
 | Picture Quiz: Logos | 334428 | [334428-picture-quiz-logos.json](./334428-picture-quiz-logos.json) |
@@ -11470,6 +11474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plug the Man | 184148 | [184148-plug-the-man.json](./184148-plug-the-man.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
 | Plug-in PET | 352783 | [352783-plug-in-pet.json](./352783-plug-in-pet.json) |
+| Plugemons: Part 1 | 78139 | [78139-plugemons-part-1.json](./78139-plugemons-part-1.json) |
 | Plugged | 148777 | [148777-plugged.json](./148777-plugged.json) |
 | PlugMax | 132614 | [132614-plugmax.json](./132614-plugmax.json) |
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
@@ -20776,6 +20781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
 | Puzzle Guardians | 29155 | [29155-puzzle-guardians.json](./29155-puzzle-guardians.json) |
 | Puzzle Guys | 149835 | [149835-puzzle-guys.json](./149835-puzzle-guys.json) |
+| Puzzle Guzzle | 78105 | [78105-puzzle-guzzle.json](./78105-puzzle-guzzle.json) |
 | Puzzle Heart Match-3 Adventure | 99501 | [99501-puzzle-heart-match-3-adventure.json](./99501-puzzle-heart-match-3-adventure.json) |
 | Puzzle Herder | 117981 | [117981-puzzle-herder.json](./117981-puzzle-herder.json) |
 | Puzzle Hero | 206044 | [206044-puzzle-hero.json](./206044-puzzle-hero.json) |
