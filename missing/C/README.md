@@ -5447,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats: Classic Onet Connect | 161943 | [161943-cats-classic-onet-connect.json](./161943-cats-classic-onet-connect.json) |
 | Cats: Classic Onet Connect - Expansion Pack | 170687 | [170687-cats-classic-onet-connect-expansion-pack.json](./170687-cats-classic-onet-connect-expansion-pack.json) |
 | CATS: Crash Arena Turbo Stars | 55179 | [55179-cats-crash-arena-turbo-stars.json](./55179-cats-crash-arena-turbo-stars.json) |
+| Cats: Feline Performers | 82197 | [82197-cats-feline-performers.json](./82197-cats-feline-performers.json) |
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
@@ -7522,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef | 231730 | [231730-chef.json](./231730-chef.json) |
 | Chef | 247482 | [247482-chef.json](./247482-chef.json) |
 | Chef | 247653 | [247653-chef.json](./247653-chef.json) |
+| Chef | 80653 | [80653-chef.json](./80653-chef.json) |
 | Chef & Friends: Recipe for Success | 309262 | [309262-chef-and-friends-recipe-for-success.json](./309262-chef-and-friends-recipe-for-success.json) |
 | Chef Bacon | 420571 | [420571-chef-bacon.json](./420571-chef-bacon.json) |
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
