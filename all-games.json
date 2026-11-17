@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T09:10:56.330Z",
-  "total_soundtracks": 3683,
+  "generated_at": "2026-11-17T09:16:39.156Z",
+  "total_soundtracks": 3691,
   "games": [
     {
       "igdb_id": 292844,
@@ -3603,6 +3603,20 @@
       ]
     },
     {
+      "igdb_id": 132199,
+      "game_name": "Bamerang",
+      "game_url": "https://ostdb.net/games/bamerang",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273481c478496c304fd40395ede",
+      "albums": [
+        {
+          "album_name": "Bämeräng (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0K6r8AjkIXU3ZT4x1adBSL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 266687,
       "game_name": "Bandle Tale: A League of Legends Story",
       "game_url": "https://ostdb.net/games/bandle-tale-a-league-of-legends-story",
@@ -5039,6 +5053,20 @@
         {
           "album_name": "Bleeding Edge (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3KZW4dRXly7eniSQK2lYH7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 133932,
+      "game_name": "Blightbound",
+      "game_url": "https://ostdb.net/games/blightbound",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734d7b77ccd810519c1ffd0c39",
+      "albums": [
+        {
+          "album_name": "Blightbound (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6koHNZlsa3M4ZNLfQD4kDg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14949,6 +14977,20 @@
       ]
     },
     {
+      "igdb_id": 136299,
+      "game_name": "Forever Ago",
+      "game_url": "https://ostdb.net/games/forever-ago",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733cb6861799a50914d5944bb2",
+      "albums": [
+        {
+          "album_name": "Forever Ago (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7c86sHMTQ93nshrZsZUEoq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 187096,
       "game_name": "Forever Skies",
       "game_url": "https://ostdb.net/games/forever-skies",
@@ -16601,6 +16643,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/goodnight-universe-original-video-game-soundtrack/1854320361?uo=4",
           "album_link_url": "https://album.link/i/1854320361"
+        }
+      ]
+    },
+    {
+      "igdb_id": 133341,
+      "game_name": "Gori: Cuddly Carnage",
+      "game_url": "https://ostdb.net/games/gori-cuddly-carnage",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731b42bfb16f93f1d98e10a07c",
+      "albums": [
+        {
+          "album_name": "Gori: Cuddly Carnage (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0vgh9SoW0YkFQODC26C263",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -29051,6 +29107,20 @@
       ]
     },
     {
+      "igdb_id": 136805,
+      "game_name": "Phoenotopia: Awakening",
+      "game_url": "https://ostdb.net/games/phoenotopia-awakening",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27394c4ef933846da429612afe6",
+      "albums": [
+        {
+          "album_name": "Phoenotopia Awakening (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2RsXmWU43Bdx6YQf4uwoR2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 105680,
       "game_name": "Phogs!",
       "game_url": "https://ostdb.net/games/phogs",
@@ -35233,6 +35303,20 @@
       ]
     },
     {
+      "igdb_id": 132756,
+      "game_name": "Song of Iron",
+      "game_url": "https://ostdb.net/games/song-of-iron",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27386d6913bdb55b5a0f45ad09e",
+      "albums": [
+        {
+          "album_name": "Song of Iron (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5yzvsUkXghe0Nfu3jEc5af",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 182190,
       "game_name": "Song of Nunu: A League of Legends Story",
       "game_url": "https://ostdb.net/games/song-of-nunu-a-league-of-legends-story",
@@ -35769,6 +35853,20 @@
         {
           "album_name": "Soviet Jump Game (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2OhBiaidkGHjkUrF1xn0Br",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 132526,
+      "game_name": "Space Chef",
+      "game_url": "https://ostdb.net/games/space-chef",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273013c98d97de2584e77f5773a",
+      "albums": [
+        {
+          "album_name": "Space Chef (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6aZQL8znyOPX1jKwBgUGo9",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -46500,6 +46598,20 @@
           "album_name": "Wolfenstein: Youngblood (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0DU8ApvJxO9FjSIR7NQ5Ga",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 134952,
+      "game_name": "Wolfstride",
+      "game_url": "https://ostdb.net/games/wolfstride",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d4462fa898c01777d128b44c",
+      "albums": [
+        {
+          "album_name": "Wolfstride (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0t5OMp7e6dS8YUBWTgC5Nz",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
