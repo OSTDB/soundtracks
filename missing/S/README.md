@@ -4572,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Chaos | 293590 | [293590-sea-of-chaos.json](./293590-sea-of-chaos.json) |
 | Sea of Choices | 197095 | [197095-sea-of-choices.json](./197095-sea-of-choices.json) |
 | Sea of Conquest | 274291 | [274291-sea-of-conquest.json](./274291-sea-of-conquest.json) |
+| Sea of Craft | 137158 | [137158-sea-of-craft.json](./137158-sea-of-craft.json) |
 | Sea of Dawn | 167674 | [167674-sea-of-dawn.json](./167674-sea-of-dawn.json) |
 | Sea of Dreamland | 48322 | [48322-sea-of-dreamland.json](./48322-sea-of-dreamland.json) |
 | Sea of Dreams | 195487 | [195487-sea-of-dreams.json](./195487-sea-of-dreams.json) |
@@ -15000,6 +15001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayers | 146653 | [146653-slayers.json](./146653-slayers.json) |
 | Slayers | 42462 | [42462-slayers.json](./42462-slayers.json) |
 | Slayers for Hire | 130661 | [130661-slayers-for-hire.json](./130661-slayers-for-hire.json) |
+| Slayers Online | 138282 | [138282-slayers-online.json](./138282-slayers-online.json) |
 | Slayers Royal | 71895 | [71895-slayers-royal.json](./71895-slayers-royal.json) |
 | Slayers Royal 2 | 72660 | [72660-slayers-royal-2.json](./72660-slayers-royal-2.json) |
 | Slayers Wonderful | 71894 | [71894-slayers-wonderful.json](./71894-slayers-wonderful.json) |
@@ -18027,6 +18029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
 | Soccer Nations: Brazil | 137399 | [137399-soccer-nations-brazil.json](./137399-soccer-nations-brazil.json) |
 | Soccer Nations: Paris | 137400 | [137400-soccer-nations-paris.json](./137400-soccer-nations-paris.json) |
+| Soccer Nations: Russia | 137140 | [137140-soccer-nations-russia.json](./137140-soccer-nations-russia.json) |
 | Soccer Online: Ball 3D | 80456 | [80456-soccer-online-ball-3d.json](./80456-soccer-online-ball-3d.json) |
 | Soccer Party | 310813 | [310813-soccer-party.json](./310813-soccer-party.json) |
 | Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
@@ -27605,7 +27608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Generations - Beyond the Nexus | 365692 | [365692-star-trek-generations-beyond-the-nexus.json](./365692-star-trek-generations-beyond-the-nexus.json) |
 | Star Trek: Generations - Beyond the Nexus | 46335 | [46335-star-trek-generations-beyond-the-nexus.json](./46335-star-trek-generations-beyond-the-nexus.json) |
 | Star Trek: Hidden Evil | 50392 | [50392-star-trek-hidden-evil.json](./50392-star-trek-hidden-evil.json) |
-| Star Trek: Infinite | 252490 | [252490-star-trek-infinite.json](./252490-star-trek-infinite.json) |
 | Star Trek: Infinite - Deluxe Edition | 265851 | [265851-star-trek-infinite-deluxe-edition.json](./265851-star-trek-infinite-deluxe-edition.json) |
 | Star Trek: Infinite - Designing the Galaxy | 271921 | [271921-star-trek-infinite-designing-the-galaxy.json](./271921-star-trek-infinite-designing-the-galaxy.json) |
 | Star Trek: Infinite Space | 65900 | [65900-star-trek-infinite-space.json](./65900-star-trek-infinite-space.json) |
@@ -27902,6 +27904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Rogue Squadron II - Rogue Leader | 4181 | [4181-star-wars-rogue-squadron-ii-rogue-leader.json](./4181-star-wars-rogue-squadron-ii-rogue-leader.json) |
 | Star Wars: Rogue Squadron III - Rebel Strike | 4182 | [4182-star-wars-rogue-squadron-iii-rebel-strike.json](./4182-star-wars-rogue-squadron-iii-rebel-strike.json) |
+| Star Wars: Rogue Squadron III - Rebel Strike Preview Disc | 138291 | [138291-star-wars-rogue-squadron-iii-rebel-strike-preview-disc.json](./138291-star-wars-rogue-squadron-iii-rebel-strike-preview-disc.json) |
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
 | Star Wars: Secrets of the Empire | 134955 | [134955-star-wars-secrets-of-the-empire.json](./134955-star-wars-secrets-of-the-empire.json) |
 | Star Wars: Starfighter | 149 | [149-star-wars-starfighter.json](./149-star-wars-starfighter.json) |
@@ -38597,6 +38600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SurReal Subway | 113762 | [113762-surreal-subway.json](./113762-surreal-subway.json) |
 | Surrealidade: Dadaist Remix | 257279 | [257279-surrealidade-dadaist-remix.json](./257279-surrealidade-dadaist-remix.json) |
 | Surrealidade: Definitive Edition | 235770 | [235770-surrealidade-definitive-edition.json](./235770-surrealidade-definitive-edition.json) |
+| Surrealidade: Expressões do Inconsciente | 138290 | [138290-surrealidade-expressoes-do-inconsciente.json](./138290-surrealidade-expressoes-do-inconsciente.json) |
 | Surrealista | 182855 | [182855-surrealista.json](./182855-surrealista.json) |
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
 | Surreality Check | 387376 | [387376-surreality-check.json](./387376-surreality-check.json) |
