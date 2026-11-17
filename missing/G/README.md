@@ -5033,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gingerbread Man | 40657 | [40657-gingerbread-man.json](./40657-gingerbread-man.json) |
 | Gingerbread Story | 95642 | [95642-gingerbread-story.json](./95642-gingerbread-story.json) |
 | GingerSnap | 316184 | [316184-gingersnap.json](./316184-gingersnap.json) |
+| Gingiva | 69437 | [69437-gingiva.json](./69437-gingiva.json) |
 | Giniro no Tou | 416051 | [416051-giniro-no-tou.json](./416051-giniro-no-tou.json) |
 | Ginjit | 137745 | [137745-ginjit.json](./137745-ginjit.json) |
 | Ginka | 230622 | [230622-ginka.json](./230622-ginka.json) |
@@ -8650,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabover Manor | 419096 | [419096-grabover-manor.json](./419096-grabover-manor.json) |
 | Grace | 128052 | [128052-grace.json](./128052-grace.json) |
 | Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
+| Grace of Zordan | 69460 | [69460-grace-of-zordan.json](./69460-grace-of-zordan.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Grace's Diary | 180877 | [180877-graces-diary.json](./180877-graces-diary.json) |
 | Grace's Quest: To Catch an Art Thief | 54065 | [54065-graces-quest-to-catch-an-art-thief.json](./54065-graces-quest-to-catch-an-art-thief.json) |
