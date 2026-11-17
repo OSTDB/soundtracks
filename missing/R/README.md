@@ -12306,7 +12306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Midnight Cat | 315893 | [315893-rooftop-rascal-the-midnight-cat.json](./315893-rooftop-rascal-the-midnight-cat.json) |
 | Rooftop Rascal: The Pirate Cat | 394844 | [394844-rooftop-rascal-the-pirate-cat.json](./394844-rooftop-rascal-the-pirate-cat.json) |
 | Rooftop Rascal: The Spooky Cat | 320373 | [320373-rooftop-rascal-the-spooky-cat.json](./320373-rooftop-rascal-the-spooky-cat.json) |
-| Rooftop Renegade | 139449 | [139449-rooftop-renegade.json](./139449-rooftop-renegade.json) |
 | Rooftop Run | 403330 | [403330-rooftop-run.json](./403330-rooftop-run.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops | 292891 | [292891-rooftops.json](./292891-rooftops.json) |
