@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sun of Salt | 107784 | [107784-a-sun-of-salt.json](./107784-a-sun-of-salt.json) |
 | A Sun-Kissed Fantasy | 369272 | [369272-a-sun-kissed-fantasy.json](./369272-a-sun-kissed-fantasy.json) |
 | A Sunday Afternoon | 303835 | [303835-a-sunday-afternoon.json](./303835-a-sunday-afternoon.json) |
+| A Sunny Day in Lockdown | 135938 | [135938-a-sunny-day-in-lockdown.json](./135938-a-sunny-day-in-lockdown.json) |
 | A Super Effective Turnabout | 302597 | [302597-a-super-effective-turnabout.json](./302597-a-super-effective-turnabout.json) |
 | A Super Mario Adventure | 269707 | [269707-a-super-mario-adventure.json](./269707-a-super-mario-adventure.json) |
 | A Super Mario Bros X. Level Collection | 346780 | [346780-a-super-mario-bros-x-level-collection.json](./346780-a-super-mario-bros-x-level-collection.json) |
@@ -8328,6 +8329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienbusters | 391269 | [391269-alienbusters.json](./391269-alienbusters.json) |
 | Aliencity | 383636 | [383636-aliencity.json](./383636-aliencity.json) |
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
+| AlienRun | 135911 | [135911-alienrun.json](./135911-alienrun.json) |
 | Aliens | 13680 | [13680-aliens.json](./13680-aliens.json) |
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens | 273191 | [273191-aliens.json](./273191-aliens.json) |
@@ -17909,6 +17911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Syndicate - Big Ben Edition | 41612 | [41612-assassins-creed-syndicate-big-ben-edition.json](./41612-assassins-creed-syndicate-big-ben-edition.json) |
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
+| Assassin's Creed: Syndicate - Special Edition | 135965 | [135965-assassins-creed-syndicate-special-edition.json](./135965-assassins-creed-syndicate-special-edition.json) |
 | Assassin's Creed: The Americas Collection | 22815 | [22815-assassins-creed-the-americas-collection.json](./22815-assassins-creed-the-americas-collection.json) |
 | Assassin's Creed: The Ezio Collection | 23954 | [23954-assassins-creed-the-ezio-collection.json](./23954-assassins-creed-the-ezio-collection.json) |
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
@@ -21132,6 +21135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiomatik | 391225 | [391225-axiomatik.json](./391225-axiomatik.json) |
 | Axion | 34999 | [34999-axion.json](./34999-axion.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
+| Axis | 135931 | [135931-axis.json](./135931-axis.json) |
 | Axis & Allies | 77145 | [77145-axis-and-allies.json](./77145-axis-and-allies.json) |
 | Axis & Allies | 77146 | [77146-axis-and-allies.json](./77146-axis-and-allies.json) |
 | Axis & Allies 1942 Online | 116174 | [116174-axis-and-allies-1942-online.json](./116174-axis-and-allies-1942-online.json) |
