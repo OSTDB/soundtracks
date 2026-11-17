@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wabbalidu | 252465 | [252465-wabbalidu.json](./252465-wabbalidu.json) |
 | Wabbit | 40603 | [40603-wabbit.json](./40603-wabbit.json) |
+| Wabbits! Jumping for Fun | 65127 | [65127-wabbits-jumping-for-fun.json](./65127-wabbits-jumping-for-fun.json) |
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
 | Wacca | 122641 | [122641-wacca.json](./122641-wacca.json) |
 | Wacca Lily | 154744 | [154744-wacca-lily.json](./154744-wacca-lily.json) |
@@ -7596,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardish | 202276 | [202276-wizardish.json](./202276-wizardish.json) |
 | WizardLand | 95528 | [95528-wizardland.json](./95528-wizardland.json) |
 | Wizardology | 67747 | [67747-wizardology.json](./67747-wizardology.json) |
+| Wizardous: An Apprentice's Betrayal | 61798 | [61798-wizardous-an-apprentices-betrayal.json](./61798-wizardous-an-apprentices-betrayal.json) |
 | WizardPunk | 128124 | [128124-wizardpunk.json](./128124-wizardpunk.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry 8 | 939 | [939-wizardry-8.json](./939-wizardry-8.json) |
