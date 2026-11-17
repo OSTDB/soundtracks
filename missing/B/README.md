@@ -2102,7 +2102,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo Spring: A Story Cast in Bronze | 423396 | [423396-bamboo-spring-a-story-cast-in-bronze.json](./423396-bamboo-spring-a-story-cast-in-bronze.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Bamboozle! | 409790 | [409790-bamboozle.json](./409790-bamboozle.json) |
-| Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
 | Bamse | 106273 | [106273-bamse.json](./106273-bamse.json) |
 | Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
 | Bamsing | 18825 | [18825-bamsing.json](./18825-bamsing.json) |
@@ -11488,7 +11487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight: Survival | 211470 | [211470-blight-survival.json](./211470-blight-survival.json) |
 | Blight's Grasp | 367069 | [367069-blights-grasp.json](./367069-blights-grasp.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
-| Blightbound | 133932 | [133932-blightbound.json](./133932-blightbound.json) |
 | Blighted | 347662 | [347662-blighted.json](./347662-blighted.json) |
 | Blighted Isle | 8210 | [8210-blighted-isle.json](./8210-blighted-isle.json) |
 | Blighten | 394698 | [394698-blighten.json](./394698-blighten.json) |
