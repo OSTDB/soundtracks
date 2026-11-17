@@ -14325,6 +14325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Action | 319566 | [319566-arcade-action.json](./319566-arcade-action.json) |
 | Arcade Action | 93560 | [93560-arcade-action.json](./93560-arcade-action.json) |
 | Arcade Air Hockey & Bowling | 91691 | [91691-arcade-air-hockey-and-bowling.json](./91691-arcade-air-hockey-and-bowling.json) |
+| Arcade America | 18636 | [18636-arcade-america.json](./18636-arcade-america.json) |
 | Arcade Apocalypse Bundle | 99559 | [99559-arcade-apocalypse-bundle.json](./99559-arcade-apocalypse-bundle.json) |
 | Arcade Archives 2: Ace Driver | 403299 | [403299-arcade-archives-2-ace-driver.json](./403299-arcade-archives-2-ace-driver.json) |
 | Arcade Archives 2: Adventure Canoe | 392764 | [392764-arcade-archives-2-adventure-canoe.json](./392764-arcade-archives-2-adventure-canoe.json) |
@@ -19673,6 +19674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attached | 118121 | [118121-attached.json](./118121-attached.json) |
 | Attachment Not Found | 256787 | [256787-attachment-not-found.json](./256787-attachment-not-found.json) |
 | Attack | 110877 | [110877-attack.json](./110877-attack.json) |
+| Attack | 18607 | [18607-attack.json](./18607-attack.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at Dawn: North Africa | 143327 | [143327-attack-at-dawn-north-africa.json](./143327-attack-at-dawn-north-africa.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
