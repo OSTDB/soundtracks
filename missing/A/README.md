@@ -8834,6 +8834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Terrain Challenge | 93412 | [93412-all-terrain-challenge.json](./93412-all-terrain-challenge.json) |
 | All-Time Battle | 140446 | [140446-all-time-battle.json](./140446-all-time-battle.json) |
 | All-Ways Up | 270496 | [270496-all-ways-up.json](./270496-all-ways-up.json) |
+| All-You-Can-Eat: Restaurant Simulator | 426511 | [426511-all-you-can-eat-restaurant-simulator.json](./426511-all-you-can-eat-restaurant-simulator.json) |
 | All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
 | Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
@@ -17591,6 +17592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
 | Ask Her Out | 181881 | [181881-ask-her-out.json](./181881-ask-her-out.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
+| Ask Pythia | 426517 | [426517-ask-pythia.json](./426517-ask-pythia.json) |
 | Aska | 230569 | [230569-aska.json](./230569-aska.json) |
 | Askara | 155929 | [155929-askara.json](./155929-askara.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
@@ -20633,6 +20635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Legends: The Fighting Game | 373021 | [373021-avatar-legends-the-fighting-game.json](./373021-avatar-legends-the-fighting-game.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
 | Avatar Life | 151848 | [151848-avatar-life.json](./151848-avatar-life.json) |
+| Avatar Miner Paintball | 426490 | [426490-avatar-miner-paintball.json](./426490-avatar-miner-paintball.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
 | Avatar Ninja! 2 | 92571 | [92571-avatar-ninja-2.json](./92571-avatar-ninja-2.json) |
 | Avatar of the Wolf | 36829 | [36829-avatar-of-the-wolf.json](./36829-avatar-of-the-wolf.json) |
