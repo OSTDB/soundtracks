@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Designer Simulator | 310812 | [310812-game-designer-simulator.json](./310812-game-designer-simulator.json) |
 | Game Dev Arcade | 212556 | [212556-game-dev-arcade.json](./212556-game-dev-arcade.json) |
 | Game Dev Company | 153490 | [153490-game-dev-company.json](./153490-game-dev-company.json) |
+| Game Dev Dynasty | 422972 | [422972-game-dev-dynasty.json](./422972-game-dev-dynasty.json) |
 | Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
 | Game Dev Story | 19815 | [19815-game-dev-story.json](./19815-game-dev-story.json) |
