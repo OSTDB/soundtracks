@@ -15123,6 +15123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
 | Boot Camp Fitness | 126815 | [126815-boot-camp-fitness.json](./126815-boot-camp-fitness.json) |
 | Boot Camp Tycoon: Built for Victory | 206464 | [206464-boot-camp-tycoon-built-for-victory.json](./206464-boot-camp-tycoon-built-for-victory.json) |
+| Boot Hill | 18608 | [18608-boot-hill.json](./18608-boot-hill.json) |
 | Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
 | Boot Hill Heroes | 17264 | [17264-boot-hill-heroes.json](./17264-boot-hill-heroes.json) |
 | Boot Hill Heroes 2 | 60561 | [60561-boot-hill-heroes-2.json](./60561-boot-hill-heroes-2.json) |
