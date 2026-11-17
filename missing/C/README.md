@@ -8140,6 +8140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
 | Chick-Chick | 268317 | [268317-chick-chick.json](./268317-chick-chick.json) |
 | Chick'Hen Show | 423391 | [423391-chickhen-show.json](./423391-chickhen-show.json) |
+| Chick'n Chip | 422323 | [422323-chickn-chip.json](./422323-chickn-chip.json) |
 | Chick'n Mushroom Soup | 284968 | [284968-chickn-mushroom-soup.json](./284968-chickn-mushroom-soup.json) |
 | Chick'n Slide | 423081 | [423081-chickn-slide.json](./423081-chickn-slide.json) |
 | Chicka Wars \| Chicken Meat | 34741 | [34741-chicka-wars-chicken-meat.json](./34741-chicka-wars-chicken-meat.json) |
@@ -11834,6 +11835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickertale 3 | 331771 | [331771-clickertale-3.json](./331771-clickertale-3.json) |
 | Clickey | 334749 | [334749-clickey.json](./334749-clickey.json) |
 | Clickey: The Velocity Click | 41929 | [41929-clickey-the-velocity-click.json](./41929-clickey-the-velocity-click.json) |
+| Clickhold | 422284 | [422284-clickhold.json](./422284-clickhold.json) |
 | Clicking Bad | 62471 | [62471-clicking-bad.json](./62471-clicking-bad.json) |
 | Clickmazes BoxUp | 197793 | [197793-clickmazes-boxup.json](./197793-clickmazes-boxup.json) |
 | ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
@@ -13091,6 +13093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex Lost 2 | 387838 | [387838-codex-lost-2.json](./387838-codex-lost-2.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
+| Codex vs Science (Not Talos Principles) | 422292 | [422292-codex-vs-science-not-talos-principles.json](./422292-codex-vs-science-not-talos-principles.json) |
 | Codex: Eternal Eclipse | 305094 | [305094-codex-eternal-eclipse.json](./305094-codex-eternal-eclipse.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
 | Codeyssey | 386080 | [386080-codeyssey.json](./386080-codeyssey.json) |
@@ -18256,6 +18259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Meadow | 335353 | [335353-cozy-meadow.json](./335353-cozy-meadow.json) |
 | Cozy Memory | 373960 | [373960-cozy-memory.json](./373960-cozy-memory.json) |
+| Cozy Meowmory | 422280 | [422280-cozy-meowmory.json](./422280-cozy-meowmory.json) |
 | Cozy Mining | 407047 | [407047-cozy-mining.json](./407047-cozy-mining.json) |
 | Cozy Monsters: The Mischievous Trabus | 356521 | [356521-cozy-monsters-the-mischievous-trabus.json](./356521-cozy-monsters-the-mischievous-trabus.json) |
 | Cozy Mozy | 399153 | [399153-cozy-mozy.json](./399153-cozy-mozy.json) |
@@ -20807,6 +20811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Fighters | 336219 | [336219-crowd-fighters.json](./336219-crowd-fighters.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
+| Crowd Playground | 422272 | [422272-crowd-playground.json](./422272-crowd-playground.json) |
 | Crowd Run | 323304 | [323304-crowd-run.json](./323304-crowd-run.json) |
 | Crowd Sign: Emission | 190080 | [190080-crowd-sign-emission.json](./190080-crowd-sign-emission.json) |
 | Crowd Simulator: Long Way to Go | 170581 | [170581-crowd-simulator-long-way-to-go.json](./170581-crowd-simulator-long-way-to-go.json) |
@@ -21640,6 +21645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalline | 28944 | [28944-crystalline.json](./28944-crystalline.json) |
 | Crystalline Bliss | 292979 | [292979-crystalline-bliss.json](./292979-crystalline-bliss.json) |
 | Crystalline Cauldron | 69670 | [69670-crystalline-cauldron.json](./69670-crystalline-cauldron.json) |
+| CrystalLinker: Infinity | 422287 | [422287-crystallinker-infinity.json](./422287-crystallinker-infinity.json) |
 | Crystallium | 373872 | [373872-crystallium.json](./373872-crystallium.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystaloid | 61968 | [61968-crystaloid.json](./61968-crystaloid.json) |
