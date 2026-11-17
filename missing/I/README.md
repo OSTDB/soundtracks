@@ -6601,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
 | Iron & Ivory | 401037 | [401037-iron-and-ivory.json](./401037-iron-and-ivory.json) |
 | Iron & Lead | 271005 | [271005-iron-and-lead.json](./271005-iron-and-lead.json) |
+| Iron & Oil | 425267 | [425267-iron-and-oil.json](./425267-iron-and-oil.json) |
 | Iron & Rust: Complete Edition | 183985 | [183985-iron-and-rust-complete-edition.json](./183985-iron-and-rust-complete-edition.json) |
 | Iron Aces | 45853 | [45853-iron-aces.json](./45853-iron-aces.json) |
 | Iron Aces 2: Birds of Prey | 68791 | [68791-iron-aces-2-birds-of-prey.json](./68791-iron-aces-2-birds-of-prey.json) |
@@ -7537,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
 | It Thinks! | 417229 | [417229-it-thinks.json](./417229-it-thinks.json) |
 | It Tolls for Thee | 154756 | [154756-it-tolls-for-thee.json](./154756-it-tolls-for-thee.json) |
+| It Wants You To Stay | 425280 | [425280-it-wants-you-to-stay.json](./425280-it-wants-you-to-stay.json) |
 | It Was a Human | 218522 | [218522-it-was-a-human.json](./218522-it-was-a-human.json) |
 | It Was Beautiful | 380618 | [380618-it-was-beautiful.json](./380618-it-was-beautiful.json) |
 | It Was Meant to End Like This | 401250 | [401250-it-was-meant-to-end-like-this.json](./401250-it-was-meant-to-end-like-this.json) |
