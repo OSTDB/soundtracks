@@ -21355,6 +21355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
 | Pyramid Puzzle | 357995 | [357995-pyramid-puzzle.json](./357995-pyramid-puzzle.json) |
+| Pyramid Quest | 187416 | [187416-pyramid-quest.json](./187416-pyramid-quest.json) |
 | Pyramid Quest Bundle | 399801 | [399801-pyramid-quest-bundle.json](./399801-pyramid-quest-bundle.json) |
 | Pyramid Quest Junior | 407100 | [407100-pyramid-quest-junior.json](./407100-pyramid-quest-junior.json) |
 | Pyramid Raid | 26871 | [26871-pyramid-raid.json](./26871-pyramid-raid.json) |
@@ -21385,6 +21386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids of Egypt | 100286 | [100286-pyramids-of-egypt.json](./100286-pyramids-of-egypt.json) |
 | Pyramids of Ra | 372408 | [372408-pyramids-of-ra.json](./372408-pyramids-of-ra.json) |
 | Pyramids of Ra | 49027 | [49027-pyramids-of-ra.json](./49027-pyramids-of-ra.json) |
+| Pyramids Slot Machines | 187481 | [187481-pyramids-slot-machines.json](./187481-pyramids-slot-machines.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
 | Pyraminx Solver | 87254 | [87254-pyraminx-solver.json](./87254-pyraminx-solver.json) |
 | Pyramis | 235652 | [235652-pyramis.json](./235652-pyramis.json) |
