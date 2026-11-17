@@ -8338,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape | 161603 | [161603-shape.json](./161603-shape.json) |
 | Shape | 249434 | [249434-shape.json](./249434-shape.json) |
 | Shape | 323834 | [323834-shape.json](./323834-shape.json) |
+| Shape Arena | 161451 | [161451-shape-arena.json](./161451-shape-arena.json) |
 | Shape Boxed | 412627 | [412627-shape-boxed.json](./412627-shape-boxed.json) |
 | Shape Boxing 2: Wii de Enjoy Diet! | 136886 | [136886-shape-boxing-2-wii-de-enjoy-diet.json](./136886-shape-boxing-2-wii-de-enjoy-diet.json) |
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
