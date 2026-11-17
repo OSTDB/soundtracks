@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Pond in the Deathly Shallows | 65874 | [65874-james-pond-in-the-deathly-shallows.json](./65874-james-pond-in-the-deathly-shallows.json) |
 | James Pond: Codename - Robocod | 368920 | [368920-james-pond-codename-robocod.json](./368920-james-pond-codename-robocod.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
+| James Pond: Codename Robocod | 51468 | [51468-james-pond-codename-robocod.json](./51468-james-pond-codename-robocod.json) |
 | James Town Courier Frog MD | 127820 | [127820-james-town-courier-frog-md.json](./127820-james-town-courier-frog-md.json) |
 | James: Masquerade Ball | 313623 | [313623-james-masquerade-ball.json](./313623-james-masquerade-ball.json) |
 | James: The Circus Zebra | 236625 | [236625-james-the-circus-zebra.json](./236625-james-the-circus-zebra.json) |
