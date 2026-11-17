@@ -1260,8 +1260,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quixotic | 408244 | [408244-quixotic.json](./408244-quixotic.json) |
 | Quixzel Rush Halloween Party | 180048 | [180048-quixzel-rush-halloween-party.json](./180048-quixzel-rush-halloween-party.json) |
 | Quixzel Rush Pumpkin Bash | 180061 | [180061-quixzel-rush-pumpkin-bash.json](./180061-quixzel-rush-pumpkin-bash.json) |
+| Quixzel Rush: Christmas Helper | 109791 | [109791-quixzel-rush-christmas-helper.json](./109791-quixzel-rush-christmas-helper.json) |
 | Quixzel Rush: Halloween Party | 109880 | [109880-quixzel-rush-halloween-party.json](./109880-quixzel-rush-halloween-party.json) |
 | Quixzel Rush: Pumpkin Bash | 109883 | [109883-quixzel-rush-pumpkin-bash.json](./109883-quixzel-rush-pumpkin-bash.json) |
+| Quixzel Rush: Tooth Protector | 109790 | [109790-quixzel-rush-tooth-protector.json](./109790-quixzel-rush-tooth-protector.json) |
 | Quiz & Dragons: Capcom Quiz Game | 39316 | [39316-quiz-and-dragons-capcom-quiz-game.json](./39316-quiz-and-dragons-capcom-quiz-game.json) |
 | Quiz & Learn: Animals | 366216 | [366216-quiz-and-learn-animals.json](./366216-quiz-and-learn-animals.json) |
 | Quiz & Learn: Food & Drink | 336222 | [336222-quiz-and-learn-food-and-drink.json](./336222-quiz-and-learn-food-and-drink.json) |
