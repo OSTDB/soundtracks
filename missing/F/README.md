@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life Link! | 138174 | [138174-fantasy-life-link.json](./138174-fantasy-life-link.json) |
 | Fantasy Life Online | 26609 | [26609-fantasy-life-online.json](./26609-fantasy-life-online.json) |
 | Fantasy Life: Origin Island | 225737 | [225737-fantasy-life-origin-island.json](./225737-fantasy-life-origin-island.json) |
+| Fantasy Little Jobs | 124284 | [124284-fantasy-little-jobs.json](./124284-fantasy-little-jobs.json) |
 | Fantasy Little Jobs | 135141 | [135141-fantasy-little-jobs.json](./135141-fantasy-little-jobs.json) |
 | Fantasy Love | 246023 | [246023-fantasy-love.json](./246023-fantasy-love.json) |
 | Fantasy Madness: Bloodbath | 224276 | [224276-fantasy-madness-bloodbath.json](./224276-fantasy-madness-bloodbath.json) |
@@ -2680,7 +2681,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell Avalon | 250901 | [250901-farewell-avalon.json](./250901-farewell-avalon.json) |
 | Farewell Intervale | 385436 | [385436-farewell-intervale.json](./385436-farewell-intervale.json) |
 | Farewell Jack | 390251 | [390251-farewell-jack.json](./390251-farewell-jack.json) |
-| Farewell North | 148788 | [148788-farewell-north.json](./148788-farewell-north.json) |
 | Farewell of Life | 329569 | [329569-farewell-of-life.json](./329569-farewell-of-life.json) |
 | Farewell Planet | 122957 | [122957-farewell-planet.json](./122957-farewell-planet.json) |
 | Farewell Sen | 213983 | [213983-farewell-sen.json](./213983-farewell-sen.json) |
@@ -6939,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
+| FireChild: Born Into the Fire | 123095 | [123095-firechild-born-into-the-fire.json](./123095-firechild-born-into-the-fire.json) |
 | Firecracker Fight | 95689 | [95689-firecracker-fight.json](./95689-firecracker-fight.json) |
 | Firecracker HD | 67174 | [67174-firecracker-hd.json](./67174-firecracker-hd.json) |
 | Firecrackers | 393133 | [393133-firecrackers.json](./393133-firecrackers.json) |
@@ -15843,6 +15844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi No Pixel Dungeon | 314081 | [314081-fushigi-no-pixel-dungeon.json](./314081-fushigi-no-pixel-dungeon.json) |
 | Fushigi no Umi no Nadia | 4431 | [4431-fushigi-no-umi-no-nadia.json](./4431-fushigi-no-umi-no-nadia.json) |
 | Fushigi no Umi no Nadia | 48490 | [48490-fushigi-no-umi-no-nadia.json](./48490-fushigi-no-umi-no-nadia.json) |
+| Fushigi no Umi no Nadia - Inherit the Blue Water | 123096 | [123096-fushigi-no-umi-no-nadia-inherit-the-blue-water.json](./123096-fushigi-no-umi-no-nadia-inherit-the-blue-water.json) |
 | Fushigi no Umi no Nadia: Gekichin! Garfish | 385710 | [385710-fushigi-no-umi-no-nadia-gekichin-garfish.json](./385710-fushigi-no-umi-no-nadia-gekichin-garfish.json) |
 | Fushigi no Yume no Alice | 66157 | [66157-fushigi-no-yume-no-alice.json](./66157-fushigi-no-yume-no-alice.json) |
 | Fushigi Yuugi DS | 68021 | [68021-fushigi-yuugi-ds.json](./68021-fushigi-yuugi-ds.json) |
