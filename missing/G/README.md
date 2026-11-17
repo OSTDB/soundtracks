@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Alice: Waku-waku Happy Friends | 70676 | [70676-gakuen-alice-waku-waku-happy-friends.json](./70676-gakuen-alice-waku-waku-happy-friends.json) |
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
 | Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
+| Gakuen Club: Houkago no Himitsu | 145098 | [145098-gakuen-club-houkago-no-himitsu.json](./145098-gakuen-club-houkago-no-himitsu.json) |
 | Gakuen Handsome | 230342 | [230342-gakuen-handsome.json](./230342-gakuen-handsome.json) |
 | Gakuen Handsome Chocolate | 291925 | [291925-gakuen-handsome-chocolate.json](./291925-gakuen-handsome-chocolate.json) |
 | Gakuen Handsome Fighters | 243866 | [243866-gakuen-handsome-fighters.json](./243866-gakuen-handsome-fighters.json) |
@@ -5153,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Who Shrunk the Neighbors | 316690 | [316690-girl-who-shrunk-the-neighbors.json](./316690-girl-who-shrunk-the-neighbors.json) |
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
+| Girl With A Lazer Shotgun | 145066 | [145066-girl-with-a-lazer-shotgun.json](./145066-girl-with-a-lazer-shotgun.json) |
 | Girl With Gun | 390203 | [390203-girl-with-gun.json](./390203-girl-with-gun.json) |
 | Girl X | 385019 | [385019-girl-x.json](./385019-girl-x.json) |
 | Girl X Hunter | 208189 | [208189-girl-x-hunter.json](./208189-girl-x-hunter.json) |
@@ -6717,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins Quest 3 | 1932 | [1932-goblins-quest-3.json](./1932-goblins-quest-3.json) |
 | Goblins With Guns | 364039 | [364039-goblins-with-guns.json](./364039-goblins-with-guns.json) |
 | Goblins Wood | 344117 | [344117-goblins-wood.json](./344117-goblins-wood.json) |
+| Goblins! | 156742 | [156742-goblins.json](./156742-goblins.json) |
 | Goblintown: Really Hard Driving Game | 341290 | [341290-goblintown-really-hard-driving-game.json](./341290-goblintown-really-hard-driving-game.json) |
 | Goblita’s Delivery Service | 349264 | [349264-goblita-s-delivery-service.json](./349264-goblita-s-delivery-service.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
@@ -7408,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Goal: Soccer Squad | 297251 | [297251-golden-goal-soccer-squad.json](./297251-golden-goal-soccer-squad.json) |
 | Golden Goblet | 185505 | [185505-golden-goblet.json](./185505-golden-goblet.json) |
 | Golden Hornet | 83348 | [83348-golden-hornet.json](./83348-golden-hornet.json) |
+| Golden Hour | 143787 | [143787-golden-hour.json](./143787-golden-hour.json) |
 | Golden Hour | 401159 | [401159-golden-hour.json](./401159-golden-hour.json) |
 | Golden Idol Investigations: Detective Pass | 355044 | [355044-golden-idol-investigations-detective-pass.json](./355044-golden-idol-investigations-detective-pass.json) |
 | Golden Idol Investigations: The Curse of the Last Reaper | 369787 | [369787-golden-idol-investigations-the-curse-of-the-last-reaper.json](./369787-golden-idol-investigations-the-curse-of-the-last-reaper.json) |
@@ -7458,6 +7462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: Valuable Package - Collector's Edition | 328717 | [328717-golden-rails-valuable-package-collectors-edition.json](./328717-golden-rails-valuable-package-collectors-edition.json) |
 | Golden Rails: World's Fair | 213559 | [213559-golden-rails-worlds-fair.json](./213559-golden-rails-worlds-fair.json) |
 | Golden Rainbow Slot Simulator | 88734 | [88734-golden-rainbow-slot-simulator.json](./88734-golden-rainbow-slot-simulator.json) |
+| Golden Rays of Sunshine | 141915 | [141915-golden-rays-of-sunshine.json](./141915-golden-rays-of-sunshine.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
 | Golden Retriever | 168646 | [168646-golden-retriever.json](./168646-golden-retriever.json) |
 | Golden Retriever | 421747 | [421747-golden-retriever.json](./421747-golden-retriever.json) |
@@ -10067,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed and Fear and the Rest | 295857 | [295857-greed-and-fear-and-the-rest.json](./295857-greed-and-fear-and-the-rest.json) |
 | Greed and Greed | 407842 | [407842-greed-and-greed.json](./407842-greed-and-greed.json) |
 | Greed and Grind | 249567 | [249567-greed-and-grind.json](./249567-greed-and-grind.json) |
+| Greed Boxes | 140693 | [140693-greed-boxes.json](./140693-greed-boxes.json) |
 | Greed Champions | 402386 | [402386-greed-champions.json](./402386-greed-champions.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed Corp | 16170 | [16170-greed-corp.json](./16170-greed-corp.json) |
@@ -12150,6 +12156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulman 5 | 99067 | [99067-gulman-5.json](./99067-gulman-5.json) |
 | Gǔlóng Chuánshuō | 155990 | [155990-gulong-chuanshuo.json](./155990-gulong-chuanshuo.json) |
 | Gǔlóng Fēngyún Lù | 413005 | [413005-gulong-fengyun-lu.json](./413005-gulong-fengyun-lu.json) |
+| Gulp 2 | 152412 | [152412-gulp-2.json](./152412-gulp-2.json) |
 | Gulp! | 12606 | [12606-gulp.json](./12606-gulp.json) |
 | Gulp! | 399420 | [399420-gulp.json](./399420-gulp.json) |
 | Gulper.Io | 191708 | [191708-gulper-io.json](./191708-gulper-io.json) |
@@ -12487,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundroid | 249799 | [249799-gundroid.json](./249799-gundroid.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
 | Gunducky Industries++ | 146426 | [146426-gunducky-industries.json](./146426-gunducky-industries.json) |
+| Gundy | 141903 | [141903-gundy.json](./141903-gundy.json) |
 | Gunfield | 245876 | [245876-gunfield.json](./245876-gunfield.json) |
 | Gunfight | 251307 | [251307-gunfight.json](./251307-gunfight.json) |
 | Gunfight | 40656 | [40656-gunfight.json](./40656-gunfight.json) |
