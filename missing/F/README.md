@@ -8832,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Shoot | 117727 | [117727-flick-shoot.json](./117727-flick-shoot.json) |
 | Flick Shot Rogues | 250762 | [250762-flick-shot-rogues.json](./250762-flick-shot-rogues.json) |
 | Flick Soccer 15 | 58192 | [58192-flick-soccer-15.json](./58192-flick-soccer-15.json) |
+| Flick Soccer 17 | 100402 | [100402-flick-soccer-17.json](./100402-flick-soccer-17.json) |
 | Flick Soccer 22 | 257011 | [257011-flick-soccer-22.json](./257011-flick-soccer-22.json) |
 | Flick Soccer Brazil | 58193 | [58193-flick-soccer-brazil.json](./58193-flick-soccer-brazil.json) |
 | Flick Soccer France 2016 | 58204 | [58204-flick-soccer-france-2016.json](./58204-flick-soccer-france-2016.json) |
@@ -8951,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Unlimited III | 715 | [715-flight-unlimited-iii.json](./715-flight-unlimited-iii.json) |
 | Flight Unlimited Las Vegas | 34909 | [34909-flight-unlimited-las-vegas.json](./34909-flight-unlimited-las-vegas.json) |
 | Flight Unlimited Las Vegas - Flight Simulator | 93648 | [93648-flight-unlimited-las-vegas-flight-simulator.json](./93648-flight-unlimited-las-vegas-flight-simulator.json) |
+| Flight Unlimited X | 100382 | [100382-flight-unlimited-x.json](./100382-flight-unlimited-x.json) |
 | Flight World Simulator | 103075 | [103075-flight-world-simulator.json](./103075-flight-world-simulator.json) |
 | Flight! | 88350 | [88350-flight.json](./88350-flight.json) |
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
@@ -9141,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Art - Ages | 91061 | [91061-flippix-art-ages.json](./91061-flippix-art-ages.json) |
 | FlipPix Art - Civilizations | 107561 | [107561-flippix-art-civilizations.json](./107561-flippix-art-civilizations.json) |
 | FlipPix Art - Dollhouse | 107118 | [107118-flippix-art-dollhouse.json](./107118-flippix-art-dollhouse.json) |
+| FlipPix Jigsaw - Agate | 99255 | [99255-flippix-jigsaw-agate.json](./99255-flippix-jigsaw-agate.json) |
 | FlipPix Jigsaw - Dragons | 100517 | [100517-flippix-jigsaw-dragons.json](./100517-flippix-jigsaw-dragons.json) |
 | FlipPix Jigsaw - Notes | 71256 | [71256-flippix-jigsaw-notes.json](./71256-flippix-jigsaw-notes.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
@@ -10305,6 +10308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Hunter | 74438 | [74438-food-hunter.json](./74438-food-hunter.json) |
 | Food Inc: Home of the Supply | 370470 | [370470-food-inc-home-of-the-supply.json](./370470-food-inc-home-of-the-supply.json) |
 | Food Industry | 143889 | [143889-food-industry.json](./143889-food-industry.json) |
+| Food Jump | 99250 | [99250-food-jump.json](./99250-food-jump.json) |
 | Food Magician | 253410 | [253410-food-magician.json](./253410-food-magician.json) |
 | Food Mahjong | 56656 | [56656-food-mahjong.json](./56656-food-mahjong.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
@@ -12080,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress V2 | 124408 | [124408-fortress-v2.json](./124408-fortress-v2.json) |
 | Fortress VR | 239730 | [239730-fortress-vr.json](./239730-fortress-vr.json) |
 | Fortress-Life | 350390 | [350390-fortress-life.json](./350390-fortress-life.json) |
+| Fortress: Destroyer | 99219 | [99219-fortress-destroyer.json](./99219-fortress-destroyer.json) |
 | FortressCraft Chapter 1 | 10331 | [10331-fortresscraft-chapter-1.json](./10331-fortresscraft-chapter-1.json) |
 | FortressCraft Evolved! | 10332 | [10332-fortresscraft-evolved.json](./10332-fortresscraft-evolved.json) |
 | FortressCraft Evolved!: Adventures Pack | 168202 | [168202-fortresscraft-evolved-adventures-pack.json](./168202-fortresscraft-evolved-adventures-pack.json) |
