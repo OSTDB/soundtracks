@@ -267,7 +267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Made: Rebirth | 32479 | [32479-machine-made-rebirth.json](./32479-machine-made-rebirth.json) |
 | Machine Match | 277338 | [277338-machine-match.json](./277338-machine-match.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
-| Machine Mind | 328621 | [328621-machine-mind.json](./328621-machine-mind.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine of the Wasteland | 347725 | [347725-machine-of-the-wasteland.json](./347725-machine-of-the-wasteland.json) |
 | Machine Party | 397811 | [397811-machine-party.json](./397811-machine-party.json) |
@@ -488,7 +487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Show | 10847 | [10847-mad-show.json](./10847-mad-show.json) |
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
 | Mad Skills BMX | 58787 | [58787-mad-skills-bmx.json](./58787-mad-skills-bmx.json) |
-| Mad Skills BMX 2 | 356519 | [356519-mad-skills-bmx-2.json](./356519-mad-skills-bmx-2.json) |
 | Mad Skills BMX 2 | 58785 | [58785-mad-skills-bmx-2.json](./58785-mad-skills-bmx-2.json) |
 | Mad Skills Motocross | 25274 | [25274-mad-skills-motocross.json](./25274-mad-skills-motocross.json) |
 | Mad Skills Motocross 2 | 103626 | [103626-mad-skills-motocross-2.json](./103626-mad-skills-motocross-2.json) |
@@ -3735,7 +3733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Many Mini Things | 395927 | [395927-many-mini-things.json](./395927-many-mini-things.json) |
 | Many Mini Typing Games | 295147 | [295147-many-mini-typing-games.json](./295147-many-mini-typing-games.json) |
 | Many Minigames | 369532 | [369532-many-minigames.json](./369532-many-minigames.json) |
-| Many Nights a Whisper | 335230 | [335230-many-nights-a-whisper.json](./335230-many-nights-a-whisper.json) |
 | Many Years Ago | 146483 | [146483-many-years-ago.json](./146483-many-years-ago.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
@@ -3870,7 +3867,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbella Vice | 371620 | [371620-marbella-vice.json](./371620-marbella-vice.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
-| Marble Abduction! Patti Hattu | 299945 | [299945-marble-abduction-patti-hattu.json](./299945-marble-abduction-patti-hattu.json) |
 | Marble Age | 35838 | [35838-marble-age.json](./35838-marble-age.json) |
 | Marble Age: Remastered | 139653 | [139653-marble-age-remastered.json](./139653-marble-age-remastered.json) |
 | Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
@@ -5795,7 +5791,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Digital Deluxe Edition | 247654 | [247654-master-detective-archives-rain-code-digital-deluxe-edition.json](./247654-master-detective-archives-rain-code-digital-deluxe-edition.json) |
 | Master Detective Archives: Rain Code - Mysteriful Limited Edition | 218885 | [218885-master-detective-archives-rain-code-mysteriful-limited-edition.json](./218885-master-detective-archives-rain-code-mysteriful-limited-edition.json) |
 | Master Detective Archives: Rain Code - Season Pass | 268784 | [268784-master-detective-archives-rain-code-season-pass.json](./268784-master-detective-archives-rain-code-season-pass.json) |
-| Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
 | Master Detective Archives: Rain Code Plus - Limited Edition | 300753 | [300753-master-detective-archives-rain-code-plus-limited-edition.json](./300753-master-detective-archives-rain-code-plus-limited-edition.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
 | Master Detective Reiji Takatori: Mystery Investigation | 400168 | [400168-master-detective-reiji-takatori-mystery-investigation.json](./400168-master-detective-reiji-takatori-mystery-investigation.json) |
@@ -6269,7 +6264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
 | Matchbox Rescue Rigs | 209551 | [209551-matchbox-rescue-rigs.json](./209551-matchbox-rescue-rigs.json) |
 | Matchbox: Cross Town Heroes | 49329 | [49329-matchbox-cross-town-heroes.json](./49329-matchbox-cross-town-heroes.json) |
-| Matchbox: Driving Adventures | 305052 | [305052-matchbox-driving-adventures.json](./305052-matchbox-driving-adventures.json) |
 | Matchbox: Emergency Patrol | 232850 | [232850-matchbox-emergency-patrol.json](./232850-matchbox-emergency-patrol.json) |
 | Matchbox: Emergency Patrol | 49963 | [49963-matchbox-emergency-patrol.json](./49963-matchbox-emergency-patrol.json) |
 | Matchbox's Pizza Adventure | 305307 | [305307-matchboxs-pizza-adventure.json](./305307-matchboxs-pizza-adventure.json) |
@@ -7818,7 +7812,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Clans | 267011 | [267011-mechwarrior-5-clans.json](./267011-mechwarrior-5-clans.json) |
 | MechWarrior 5: Clans - Digital Collectors Content | 332118 | [332118-mechwarrior-5-clans-digital-collectors-content.json](./332118-mechwarrior-5-clans-digital-collectors-content.json) |
 | MechWarrior 5: Clans - Digital Collectors Edition | 331819 | [331819-mechwarrior-5-clans-digital-collectors-edition.json](./331819-mechwarrior-5-clans-digital-collectors-edition.json) |
-| Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Invasion Mech Patterns | 332119 | [332119-mechwarrior-5-clans-invasion-mech-patterns.json](./332119-mechwarrior-5-clans-invasion-mech-patterns.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | Mechwarrior 5: Clans - Wolves of Tukayyid | 377889 | [377889-mechwarrior-5-clans-wolves-of-tukayyid.json](./377889-mechwarrior-5-clans-wolves-of-tukayyid.json) |
@@ -11333,7 +11326,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger - Dream of the Beast | 245693 | [245693-metal-hellsinger-dream-of-the-beast.json](./245693-metal-hellsinger-dream-of-the-beast.json) |
 | Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
 | Metal: Hellsinger - Essential Hits Pack | 263895 | [263895-metal-hellsinger-essential-hits-pack.json](./263895-metal-hellsinger-essential-hits-pack.json) |
-| Metal: Hellsinger VR | 294174 | [294174-metal-hellsinger-vr.json](./294174-metal-hellsinger-vr.json) |
 | Metal.ik Vol. I | 263352 | [263352-metal-ik-vol-i.json](./263352-metal-ik-vol-i.json) |
 | Metal.ik Vol. II | 263366 | [263366-metal-ik-vol-ii.json](./263366-metal-ik-vol-ii.json) |
 | Metal.ik Vol. III | 263368 | [263368-metal-ik-vol-iii.json](./263368-metal-ik-vol-iii.json) |
@@ -13341,7 +13333,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
 | Milano'd | 298746 | [298746-milanod.json](./298746-milanod.json) |
-| Milano’s Odd Job Collection | 347902 | [347902-milano-s-odd-job-collection.json](./347902-milano-s-odd-job-collection.json) |
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
 | Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
 | Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
@@ -15335,7 +15326,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
 | Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
 | Miraculous: Paris Dash | 421403 | [421403-miraculous-paris-dash.json](./421403-miraculous-paris-dash.json) |
-| Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
 | Miraculous: Paris Under Siege - Deluxe Edition | 320679 | [320679-miraculous-paris-under-siege-deluxe-edition.json](./320679-miraculous-paris-under-siege-deluxe-edition.json) |
 | Miraculous: Rise of the Sphinx | 216552 | [216552-miraculous-rise-of-the-sphinx.json](./216552-miraculous-rise-of-the-sphinx.json) |
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
@@ -16528,7 +16518,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Seed Never Ending Tomorrow | 44670 | [44670-mobile-suit-gundam-seed-never-ending-tomorrow.json](./44670-mobile-suit-gundam-seed-never-ending-tomorrow.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
-| Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
 | Mobile Suit Gundam Seed: Tomo to Kimi to Koko de | 49644 | [49644-mobile-suit-gundam-seed-tomo-to-kimi-to-koko-de.json](./49644-mobile-suit-gundam-seed-tomo-to-kimi-to-koko-de.json) |
 | Mobile Suit Gundam Side Stories | 61454 | [61454-mobile-suit-gundam-side-stories.json](./61454-mobile-suit-gundam-side-stories.json) |
 | Mobile Suit Gundam Side Story I: Sentritsu no Blue | 194943 | [194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json](./194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json) |
@@ -17909,7 +17898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Crawl: Warrior | 276997 | [276997-monster-crawl-warrior.json](./276997-monster-crawl-warrior.json) |
 | Monster Create | 356009 | [356009-monster-create.json](./356009-monster-create.json) |
 | Monster Crown | 95616 | [95616-monster-crown.json](./95616-monster-crown.json) |
-| Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Crush - C4 Demolition Edition | 117429 | [117429-monster-crush-c4-demolition-edition.json](./117429-monster-crush-c4-demolition-edition.json) |
 | Monster Cube | 223357 | [223357-monster-cube.json](./223357-monster-cube.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
@@ -18778,7 +18766,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Revenge Featuring Panama Joe | 46138 | [46138-montezumas-revenge-featuring-panama-joe.json](./46138-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
 | Montezuma's Revenge: Director's Cut | 367306 | [367306-montezumas-revenge-directors-cut.json](./367306-montezumas-revenge-directors-cut.json) |
-| Montezuma's Revenge: The 40th Anniversary Edition | 330130 | [330130-montezumas-revenge-the-40th-anniversary-edition.json](./330130-montezumas-revenge-the-40th-anniversary-edition.json) |
 | Montgolfier Brothers' Test Flight | 413027 | [413027-montgolfier-brothers-test-flight.json](./413027-montgolfier-brothers-test-flight.json) |
 | Montgomery Fox and the Case of the Diamond Necklace | 226322 | [226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json](./226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json) |
 | Montgomery Fox and the Case of the Missing Ballerinas | 224913 | [224913-montgomery-fox-and-the-case-of-the-missing-ballerinas.json](./224913-montgomery-fox-and-the-case-of-the-missing-ballerinas.json) |
@@ -20161,7 +20148,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Hub | 149642 | [149642-mother-hub.json](./149642-mother-hub.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
 | Mother Island | 176831 | [176831-mother-island.json](./176831-mother-island.json) |
-| Mother Machine | 315742 | [315742-mother-machine.json](./315742-mother-machine.json) |
 | Mother May I | 291455 | [291455-mother-may-i.json](./291455-mother-may-i.json) |
 | Mother Mixup! | 279791 | [279791-mother-mixup.json](./279791-mother-mixup.json) |
 | Mother Nature: Balance Broken | 207583 | [207583-mother-nature-balance-broken.json](./207583-mother-nature-balance-broken.json) |
@@ -20428,7 +20414,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 22: Day One Edition | 300469 | [300469-motogp-22-day-one-edition.json](./300469-motogp-22-day-one-edition.json) |
 | MotoGP 23 | 243215 | [243215-motogp-23.json](./243215-motogp-23.json) |
 | MotoGP 23: Day One Edition | 243870 | [243870-motogp-23-day-one-edition.json](./243870-motogp-23-day-one-edition.json) |
-| MotoGP 24 | 291932 | [291932-motogp-24.json](./291932-motogp-24.json) |
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
@@ -25319,7 +25304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Origins | 207321 | [207321-mythic-origins.json](./207321-mythic-origins.json) |
 | Mythic Palace | 122973 | [122973-mythic-palace.json](./122973-mythic-palace.json) |
 | Mythic Pearls: The Legend of Tirnanog | 73803 | [73803-mythic-pearls-the-legend-of-tirnanog.json](./73803-mythic-pearls-the-legend-of-tirnanog.json) |
-| Mythic Realms | 335289 | [335289-mythic-realms.json](./335289-mythic-realms.json) |
 | Mythic Samkok | 304970 | [304970-mythic-samkok.json](./304970-mythic-samkok.json) |
 | Mythic Trials | 290534 | [290534-mythic-trials.json](./290534-mythic-trials.json) |
 | Mythic Trials 2 | 364749 | [364749-mythic-trials-2.json](./364749-mythic-trials-2.json) |
