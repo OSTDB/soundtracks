@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obilia | 295514 | [295514-obilia.json](./295514-obilia.json) |
 | OBITT: Escape From the Room | 412195 | [412195-obitt-escape-from-the-room.json](./412195-obitt-escape-from-the-room.json) |
 | Obituary | 313833 | [313833-obituary.json](./313833-obituary.json) |
+| Obitus | 12454 | [12454-obitus.json](./12454-obitus.json) |
 | Obitus | 363028 | [363028-obitus.json](./363028-obitus.json) |
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
 | Object "32" | 274134 | [274134-object-32.json](./274134-object-32.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obliteracy | 107375 | [107375-obliteracy.json](./107375-obliteracy.json) |
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
 | Obliterate Everything 2 | 416769 | [416769-obliterate-everything-2.json](./416769-obliterate-everything-2.json) |
+| Obliterator | 12455 | [12455-obliterator.json](./12455-obliterator.json) |
 | Obliterator | 25563 | [25563-obliterator.json](./25563-obliterator.json) |
 | Obliterator-x | 346861 | [346861-obliterator-x.json](./346861-obliterator-x.json) |
 | Obliteroids | 51682 | [51682-obliteroids.json](./51682-obliteroids.json) |
@@ -1580,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okko the Exiled | 338923 | [338923-okko-the-exiled.json](./338923-okko-the-exiled.json) |
 | Okkotos | 133733 | [133733-okkotos.json](./133733-okkotos.json) |
 | Okkotoshi Puzzle Tonjan!? | 60799 | [60799-okkotoshi-puzzle-tonjan.json](./60799-okkotoshi-puzzle-tonjan.json) |
+| Oknytt | 8962 | [8962-oknytt.json](./8962-oknytt.json) |
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
 | Okthryssia and Saturnia's Bureaucratic Adventures | 323245 | [323245-okthryssia-and-saturnias-bureaucratic-adventures.json](./323245-okthryssia-and-saturnias-bureaucratic-adventures.json) |
 | Oktoberfest | 318471 | [318471-oktoberfest.json](./318471-oktoberfest.json) |
@@ -3148,6 +3151,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onechanbara Z2: Chaos | 11004 | [11004-onechanbara-z2-chaos.json](./11004-onechanbara-z2-chaos.json) |
 | Onechanbara Z2: Chaos - Banana Split Limited Edition | 42904 | [42904-onechanbara-z2-chaos-banana-split-limited-edition.json](./42904-onechanbara-z2-chaos-banana-split-limited-edition.json) |
 | Onechanbara Z2: Chaos - Black Rose | 343606 | [343606-onechanbara-z2-chaos-black-rose.json](./343606-onechanbara-z2-chaos-black-rose.json) |
+| Onechanbara: Bikini Samurai Squad | 5086 | [5086-onechanbara-bikini-samurai-squad.json](./5086-onechanbara-bikini-samurai-squad.json) |
+| OneChanbara: Bikini Zombie Slayers | 5085 | [5085-onechanbara-bikini-zombie-slayers.json](./5085-onechanbara-bikini-zombie-slayers.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
 | Onee Chanbara Origin | 139921 | [139921-onee-chanbara-origin.json](./139921-onee-chanbara-origin.json) |
 | Onee-chan wa Kushizashikou!? Atashi no Kui de Tsuranuite Ageru | 97463 | [97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json](./97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json) |
@@ -3388,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only an Alien Going Up! | 272260 | [272260-only-an-alien-going-up.json](./272260-only-an-alien-going-up.json) |
 | Only Animals | 374151 | [374151-only-animals.json](./374151-only-animals.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
+| Only Axolotls | 429840 | [429840-only-axolotls.json](./429840-only-axolotls.json) |
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
 | Only Cassette Coloring! | 215059 | [215059-only-cassette-coloring.json](./215059-only-cassette-coloring.json) |
 | Only Climb: Better Together | 257316 | [257316-only-climb-better-together.json](./257316-only-climb-better-together.json) |
