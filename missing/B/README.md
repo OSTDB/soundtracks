@@ -11463,6 +11463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blenzzle | 367713 | [367713-blenzzle.json](./367713-blenzzle.json) |
 | Blepp Quest! | 326932 | [326932-blepp-quest.json](./326932-blepp-quest.json) |
 | Bless Eternal | 193985 | [193985-bless-eternal.json](./193985-bless-eternal.json) |
+| Bless Global | 26899 | [26899-bless-global.json](./26899-bless-global.json) |
 | Bless Unleashed | 108559 | [108559-bless-unleashed.json](./108559-bless-unleashed.json) |
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
@@ -19187,6 +19188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budni | 287359 | [287359-budni.json](./287359-budni.json) |
 | Budo Girl War: Maid | 389777 | [389777-budo-girl-war-maid.json](./389777-budo-girl-war-maid.json) |
 | Buds | 176863 | [176863-buds.json](./176863-buds.json) |
+| Buds | 25258 | [25258-buds.json](./25258-buds.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
