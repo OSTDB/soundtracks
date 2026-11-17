@@ -2694,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
 | Leeds United Club Football | 267889 | [267889-leeds-united-club-football.json](./267889-leeds-united-club-football.json) |
 | Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
+| Leeloo's Talent Agency | 210180 | [210180-leeloos-talent-agency.json](./210180-leeloos-talent-agency.json) |
 | Leen | 204797 | [204797-leen.json](./204797-leen.json) |
 | Leena | 333972 | [333972-leena.json](./333972-leena.json) |
 | Leenie Boog | 157025 | [157025-leenie-boog.json](./157025-leenie-boog.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends | 121810 | [121810-legends.json](./121810-legends.json) |
 | Legends | 268259 | [268259-legends.json](./268259-legends.json) |
 | Legends & Myths Bundle | 125137 | [125137-legends-and-myths-bundle.json](./125137-legends-and-myths-bundle.json) |
+| Legends 2: Hidden Relics | 210178 | [210178-legends-2-hidden-relics.json](./210178-legends-2-hidden-relics.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
 | Legends Aligned: Minis in Conflict | 343710 | [343710-legends-aligned-minis-in-conflict.json](./343710-legends-aligned-minis-in-conflict.json) |
 | Legends And Lore | 388429 | [388429-legends-and-lore.json](./388429-legends-and-lore.json) |
@@ -3226,9 +3228,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends Flashback Blast! | 245653 | [245653-legends-flashback-blast.json](./245653-legends-flashback-blast.json) |
 | Legends Football '98 | 62297 | [62297-legends-football-98.json](./62297-legends-football-98.json) |
 | Legends from Lacoytas: The First Seeker | 201556 | [201556-legends-from-lacoytas-the-first-seeker.json](./201556-legends-from-lacoytas-the-first-seeker.json) |
+| Legends in Time | 210177 | [210177-legends-in-time.json](./210177-legends-in-time.json) |
 | Legends Mod | 233842 | [233842-legends-mod.json](./233842-legends-mod.json) |
 | Legends of 100 Heroes | 174669 | [174669-legends-of-100-heroes.json](./174669-legends-of-100-heroes.json) |
 | Legends of Aden | 298674 | [298674-legends-of-aden.json](./298674-legends-of-aden.json) |
+| Legends of Adventure | 210176 | [210176-legends-of-adventure.json](./210176-legends-of-adventure.json) |
 | Legends of Aethereus | 10509 | [10509-legends-of-aethereus.json](./10509-legends-of-aethereus.json) |
 | Legends of Allods | 326147 | [326147-legends-of-allods.json](./326147-legends-of-allods.json) |
 | Legends of Alterra | 285498 | [285498-legends-of-alterra.json](./285498-legends-of-alterra.json) |
@@ -3264,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Dionysos | 234278 | [234278-legends-of-dionysos.json](./234278-legends-of-dionysos.json) |
 | Legends of Dragaea: Idle Dungeons | 295264 | [295264-legends-of-dragaea-idle-dungeons.json](./295264-legends-of-dragaea-idle-dungeons.json) |
 | Legends of Draxia | 174612 | [174612-legends-of-draxia.json](./174612-legends-of-draxia.json) |
+| Legends of Dreams | 210174 | [210174-legends-of-dreams.json](./210174-legends-of-dreams.json) |
 | Legends of Duels | 258063 | [258063-legends-of-duels.json](./258063-legends-of-duels.json) |
 | Legends of Eisenwald: Road to Iron Forest | 51842 | [51842-legends-of-eisenwald-road-to-iron-forest.json](./51842-legends-of-eisenwald-road-to-iron-forest.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
@@ -3325,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Starkadia | 290902 | [290902-legends-of-starkadia.json](./290902-legends-of-starkadia.json) |
 | Legends of Talia: Arcadia | 74461 | [74461-legends-of-talia-arcadia.json](./74461-legends-of-talia-arcadia.json) |
 | Legends of Taria | 425804 | [425804-legends-of-taria.json](./425804-legends-of-taria.json) |
+| Legends of Terror Collection | 210173 | [210173-legends-of-terror-collection.json](./210173-legends-of-terror-collection.json) |
 | Legends of the Brawl | 216599 | [216599-legends-of-the-brawl.json](./216599-legends-of-the-brawl.json) |
 | Legends of the Diamond | 48253 | [48253-legends-of-the-diamond.json](./48253-legends-of-the-diamond.json) |
 | Legends of the East: The Cobra's Eye - Collector's Edition | 381379 | [381379-legends-of-the-east-the-cobras-eye-collectors-edition.json](./381379-legends-of-the-east-the-cobras-eye-collectors-edition.json) |
@@ -6875,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
 | Little Magic | 81331 | [81331-little-magic.json](./81331-little-magic.json) |
 | Little Magic World | 315981 | [315981-little-magic-world.json](./315981-little-magic-world.json) |
+| Little Magician's Magic Adventure | 210187 | [210187-little-magicians-magic-adventure.json](./210187-little-magicians-magic-adventure.json) |
 | Little Mall Tycoon | 253487 | [253487-little-mall-tycoon.json](./253487-little-mall-tycoon.json) |
 | Little Man Has a Day | 260022 | [260022-little-man-has-a-day.json](./260022-little-man-has-a-day.json) |
 | Little Marisa's Disaster Journey | 99440 | [99440-little-marisas-disaster-journey.json](./99440-little-marisas-disaster-journey.json) |
@@ -6903,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
 | Little Mouse's Encyclopedia + Cat's Cosmic Atlas | 277891 | [277891-little-mouses-encyclopedia-cats-cosmic-atlas.json](./277891-little-mouses-encyclopedia-cats-cosmic-atlas.json) |
 | Little Mouse's Encyclopedia + Comic Coloring Book: Complete Edition | 212784 | [212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json](./212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json) |
+| Little Mouse's Encyclopedia + Cyber Protocol | 207951 | [207951-little-mouses-encyclopedia-cyber-protocol.json](./207951-little-mouses-encyclopedia-cyber-protocol.json) |
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
 | Little Mouse's Encyclopedia: Definitive Edition | 251510 | [251510-little-mouses-encyclopedia-definitive-edition.json](./251510-little-mouses-encyclopedia-definitive-edition.json) |
@@ -7056,6 +7064,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Shop of Junk | 128995 | [128995-little-shop-of-junk.json](./128995-little-shop-of-junk.json) |
 | Little Shop of Treasures | 70733 | [70733-little-shop-of-treasures.json](./70733-little-shop-of-treasures.json) |
 | Little Shop of Treasures 2 | 200885 | [200885-little-shop-of-treasures-2.json](./200885-little-shop-of-treasures-2.json) |
+| Little Shop Road Trip | 210183 | [210183-little-shop-road-trip.json](./210183-little-shop-road-trip.json) |
+| Little Shop: Big City | 210185 | [210185-little-shop-big-city.json](./210185-little-shop-big-city.json) |
+| Little Shop: Memories | 210184 | [210184-little-shop-memories.json](./210184-little-shop-memories.json) |
 | Little Shopping | 116126 | [116126-little-shopping.json](./116126-little-shopping.json) |
 | Little Shops of Murder | 301457 | [301457-little-shops-of-murder.json](./301457-little-shops-of-murder.json) |
 | Little Shrimp: Legend Reborn | 271614 | [271614-little-shrimp-legend-reborn.json](./271614-little-shrimp-legend-reborn.json) |
@@ -7245,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livalink | 25388 | [25388-livalink.json](./25388-livalink.json) |
 | Live | 85682 | [85682-live.json](./85682-live.json) |
 | Live a Hero | 208172 | [208172-live-a-hero.json](./208172-live-a-hero.json) |
+| Live Action Football | 210182 | [210182-live-action-football.json](./210182-live-action-football.json) |
 | Live Action-Bit Theater "Route Yonroku" | 319312 | [319312-live-action-bit-theater-route-yonroku.json](./319312-live-action-bit-theater-route-yonroku.json) |
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
@@ -11553,6 +11565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxury Girls | 417404 | [417404-luxury-girls.json](./417404-luxury-girls.json) |
 | Luxury Hotel Emporium | 34787 | [34787-luxury-hotel-emporium.json](./34787-luxury-hotel-emporium.json) |
 | Luxury House Renovation | 114960 | [114960-luxury-house-renovation.json](./114960-luxury-house-renovation.json) |
+| Luxury Liner Tycoon | 210181 | [210181-luxury-liner-tycoon.json](./210181-luxury-liner-tycoon.json) |
 | Luxury Simulator | 283123 | [283123-luxury-simulator.json](./283123-luxury-simulator.json) |
 | Luxury Supermarket Simulator | 337356 | [337356-luxury-supermarket-simulator.json](./337356-luxury-supermarket-simulator.json) |
 | Luxworks | 211976 | [211976-luxworks.json](./211976-luxworks.json) |
