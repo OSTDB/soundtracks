@@ -3135,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 11517 | [11517-haunted-house.json](./11517-haunted-house.json) |
 | Haunted House | 229763 | [229763-haunted-house.json](./229763-haunted-house.json) |
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
+| Haunted House | 256077 | [256077-haunted-house.json](./256077-haunted-house.json) |
 | Haunted House | 258160 | [258160-haunted-house.json](./258160-haunted-house.json) |
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
@@ -3442,6 +3443,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Hill Idle | 247602 | [247602-hazard-hill-idle.json](./247602-hazard-hill-idle.json) |
 | Hazard Horizon | 239455 | [239455-hazard-horizon.json](./239455-hazard-horizon.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
+| Hazard Levels: Myths & Legends Dragon DLC | 430118 | [430118-hazard-levels-myths-and-legends-dragon-dlc.json](./430118-hazard-levels-myths-and-legends-dragon-dlc.json) |
+| Hazard Levels: Myths & Legends Kelpie DLC | 430121 | [430121-hazard-levels-myths-and-legends-kelpie-dlc.json](./430121-hazard-levels-myths-and-legends-kelpie-dlc.json) |
+| Hazard Levels: Myths & Legends Kitsune DLC | 430122 | [430122-hazard-levels-myths-and-legends-kitsune-dlc.json](./430122-hazard-levels-myths-and-legends-kitsune-dlc.json) |
+| Hazard Levels: Myths & Legends Minotaur DLC | 430119 | [430119-hazard-levels-myths-and-legends-minotaur-dlc.json](./430119-hazard-levels-myths-and-legends-minotaur-dlc.json) |
+| Hazard Levels: Myths & Legends Unicorn DLC | 430120 | [430120-hazard-levels-myths-and-legends-unicorn-dlc.json](./430120-hazard-levels-myths-and-legends-unicorn-dlc.json) |
 | Hazard Ops | 138066 | [138066-hazard-ops.json](./138066-hazard-ops.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
 | Hazard Prone | 414053 | [414053-hazard-prone.json](./414053-hazard-prone.json) |
@@ -3914,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
 | Hearthkeeper | 253489 | [253489-hearthkeeper.json](./253489-hearthkeeper.json) |
 | Hearthlands | 28325 | [28325-hearthlands.json](./28325-hearthlands.json) |
+| HearthMoon | 429835 | [429835-hearthmoon.json](./429835-hearthmoon.json) |
 | Hearthstone: Across the Timeways | 322150 | [322150-hearthstone-across-the-timeways.json](./322150-hearthstone-across-the-timeways.json) |
 | Hearthstone: Ashes of Outland | 131879 | [131879-hearthstone-ashes-of-outland.json](./131879-hearthstone-ashes-of-outland.json) |
 | Hearthstone: Ashes of Outland - Trial by Felfire | 135707 | [135707-hearthstone-ashes-of-outland-trial-by-felfire.json](./135707-hearthstone-ashes-of-outland-trial-by-felfire.json) |
@@ -3926,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
 | Hearthstone: Goblins vs Gnomes | 21971 | [21971-hearthstone-goblins-vs-gnomes.json](./21971-hearthstone-goblins-vs-gnomes.json) |
 | Hearthstone: Into the Emerald Dream | 322148 | [322148-hearthstone-into-the-emerald-dream.json](./322148-hearthstone-into-the-emerald-dream.json) |
+| Hearthstone: Journey to Un'Goro | 27429 | [27429-hearthstone-journey-to-ungoro.json](./27429-hearthstone-journey-to-ungoro.json) |
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
 | Hearthstone: Kobolds & Catacombs | 76152 | [76152-hearthstone-kobolds-and-catacombs.json](./76152-hearthstone-kobolds-and-catacombs.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
@@ -8701,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Impact Paintball | 72468 | [72468-high-impact-paintball.json](./72468-high-impact-paintball.json) |
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
 | High Jump | 247048 | [247048-high-jump.json](./247048-high-jump.json) |
+| High Lance | 429971 | [429971-high-lance.json](./429971-high-lance.json) |
 | High Like a Fly | 251258 | [251258-high-like-a-fly.json](./251258-high-like-a-fly.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
 | High Mountain Roller Coaster VR | 160147 | [160147-high-mountain-roller-coaster-vr.json](./160147-high-mountain-roller-coaster-vr.json) |
@@ -9362,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiragana Flashcards | 391533 | [391533-hiragana-flashcards.json](./391533-hiragana-flashcards.json) |
 | Hiragana Hero | 303308 | [303308-hiragana-hero.json](./303308-hiragana-hero.json) |
 | Hiragana Katakana Ninja | 372185 | [372185-hiragana-katakana-ninja.json](./372185-hiragana-katakana-ninja.json) |
+| Hiragana Pixel Party | 34060 | [34060-hiragana-pixel-party.json](./34060-hiragana-pixel-party.json) |
 | Hiragana Pow! | 367100 | [367100-hiragana-pow.json](./367100-hiragana-pow.json) |
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
