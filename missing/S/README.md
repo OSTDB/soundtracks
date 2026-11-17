@@ -10579,6 +10579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
 | Short Adventure | 306884 | [306884-short-adventure.json](./306884-short-adventure.json) |
 | Short Circuit | 193440 | [193440-short-circuit.json](./193440-short-circuit.json) |
+| Short Circuit | 194671 | [194671-short-circuit.json](./194671-short-circuit.json) |
 | Short Circuit | 29035 | [29035-short-circuit.json](./29035-short-circuit.json) |
 | Short Circuit | 29036 | [29036-short-circuit.json](./29036-short-circuit.json) |
 | Short Circuit VR | 111616 | [111616-short-circuit-vr.json](./111616-short-circuit-vr.json) |
@@ -10804,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown in 2100 A.D. | 23289 | [23289-showdown-in-2100-a-d.json](./23289-showdown-in-2100-a-d.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Showdown of the Dungeon | 112204 | [112204-showdown-of-the-dungeon.json](./112204-showdown-of-the-dungeon.json) |
+| Showdown Party | 192332 | [192332-showdown-party.json](./192332-showdown-party.json) |
 | Showdown: Legends of Wrestling | 6051 | [6051-showdown-legends-of-wrestling.json](./6051-showdown-legends-of-wrestling.json) |
 | Showdown: Scorpion | 73024 | [73024-showdown-scorpion.json](./73024-showdown-scorpion.json) |
 | Showdown! Mahjong Tutorial Included | 373964 | [373964-showdown-mahjong-tutorial-included.json](./373964-showdown-mahjong-tutorial-included.json) |
@@ -24287,6 +24289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherical alliance | 166899 | [166899-spherical-alliance.json](./166899-spherical-alliance.json) |
 | Spherical Constitution | 26733 | [26733-spherical-constitution.json](./26733-spherical-constitution.json) |
 | Spherical Soccer | 184173 | [184173-spherical-soccer.json](./184173-spherical-soccer.json) |
+| Spheriko | 191933 | [191933-spheriko.json](./191933-spheriko.json) |
 | Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
 | Spheriums | 189883 | [189883-spheriums.json](./189883-spheriums.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
