@@ -447,18 +447,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinthos: The Depths Want You | 408764 | [408764-labyrinthos-the-depths-want-you.json](./408764-labyrinthos-the-depths-want-you.json) |
 | Labyrinths 2 | 27188 | [27188-labyrinths-2.json](./27188-labyrinths-2.json) |
 | Labyrinths of Atlantis | 93788 | [93788-labyrinths-of-atlantis.json](./93788-labyrinths-of-atlantis.json) |
+| Labyrinths of the World: Changing the Past | 139486 | [139486-labyrinths-of-the-world-changing-the-past.json](./139486-labyrinths-of-the-world-changing-the-past.json) |
 | Labyrinths of the World: Changing the Past - Collector's Edition | 46955 | [46955-labyrinths-of-the-world-changing-the-past-collectors-edition.json](./46955-labyrinths-of-the-world-changing-the-past-collectors-edition.json) |
 | Labyrinths of the World: Changing the Past HD | 102683 | [102683-labyrinths-of-the-world-changing-the-past-hd.json](./102683-labyrinths-of-the-world-changing-the-past-hd.json) |
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
+| Labyrinths of the World: Fool's Gold | 139487 | [139487-labyrinths-of-the-world-fools-gold.json](./139487-labyrinths-of-the-world-fools-gold.json) |
 | Labyrinths of the World: Fool's Gold - Collector's Edition | 121811 | [121811-labyrinths-of-the-world-fools-gold-collectors-edition.json](./121811-labyrinths-of-the-world-fools-gold-collectors-edition.json) |
+| Labyrinths of the World: Forbidden Muse | 139488 | [139488-labyrinths-of-the-world-forbidden-muse.json](./139488-labyrinths-of-the-world-forbidden-muse.json) |
 | Labyrinths of the World: Forbidden Muse - Collector's Edition | 55663 | [55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json](./55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json) |
 | Labyrinths of the World: Forbidden Muse HD | 101136 | [101136-labyrinths-of-the-world-forbidden-muse-hd.json](./101136-labyrinths-of-the-world-forbidden-muse-hd.json) |
 | Labyrinths of the World: Hearts of the Planet - Collector's Edition | 170204 | [170204-labyrinths-of-the-world-hearts-of-the-planet-collectors-edition.json](./170204-labyrinths-of-the-world-hearts-of-the-planet-collectors-edition.json) |
 | Labyrinths of the World: Secrets of Easter Island | 198093 | [198093-labyrinths-of-the-world-secrets-of-easter-island.json](./198093-labyrinths-of-the-world-secrets-of-easter-island.json) |
 | Labyrinths of the World: Secrets of Easter Island - Collector's Edition | 198094 | [198094-labyrinths-of-the-world-secrets-of-easter-island-collectors-edition.json](./198094-labyrinths-of-the-world-secrets-of-easter-island-collectors-edition.json) |
+| Labyrinths of the World: Shattered Soul | 139489 | [139489-labyrinths-of-the-world-shattered-soul.json](./139489-labyrinths-of-the-world-shattered-soul.json) |
 | Labyrinths of the World: Shattered Soul - Collector's Edition | 30674 | [30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json](./30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json) |
 | Labyrinths of the World: Stonehenge Legend | 101652 | [101652-labyrinths-of-the-world-stonehenge-legend.json](./101652-labyrinths-of-the-world-stonehenge-legend.json) |
 | Labyrinths of the World: The Game of Minds - Collector's Edition | 170203 | [170203-labyrinths-of-the-world-the-game-of-minds-collectors-edition.json](./170203-labyrinths-of-the-world-the-game-of-minds-collectors-edition.json) |
+| Labyrinths of the World: The Wild Side | 139490 | [139490-labyrinths-of-the-world-the-wild-side.json](./139490-labyrinths-of-the-world-the-wild-side.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrinths of Umbra | 103612 | [103612-labyrinths-of-umbra.json](./103612-labyrinths-of-umbra.json) |
 | Labyrinths of World: Dangerous | 108612 | [108612-labyrinths-of-world-dangerous.json](./108612-labyrinths-of-world-dangerous.json) |
@@ -2610,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Vol. 9: Santa's Sleigh Ride | 325783 | [325783-learn-to-play-vol-9-santas-sleigh-ride.json](./325783-learn-to-play-vol-9-santas-sleigh-ride.json) |
 | Learn to Play: Jungle Frog | 358660 | [358660-learn-to-play-jungle-frog.json](./358660-learn-to-play-jungle-frog.json) |
 | Learn to Play: Pumpkin Smash! | 375132 | [375132-learn-to-play-pumpkin-smash.json](./375132-learn-to-play-pumpkin-smash.json) |
+| Learn to Write with Mr. Pencil | 137150 | [137150-learn-to-write-with-mr-pencil.json](./137150-learn-to-write-with-mr-pencil.json) |
 | Learn with Illustrations! English Prepositions 4-Choice Quiz | 399658 | [399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json](./399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json) |
 | Learn Words: Use Syllables | 243329 | [243329-learn-words-use-syllables.json](./243329-learn-words-use-syllables.json) |
 | LearnEng | 110595 | [110595-learneng.json](./110595-learneng.json) |
@@ -4855,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
 | Lianhai Casino | 217048 | [217048-lianhai-casino.json](./217048-lianhai-casino.json) |
 | Lianliankan | 228208 | [228208-lianliankan.json](./228208-lianliankan.json) |
+| Lianthus | 138272 | [138272-lianthus.json](./138272-lianthus.json) |
 | Liáozhāi Sōushénjì: Guófēng Kǎpái | 166861 | [166861-liaozhai-soushenji-guofeng-kapai.json](./166861-liaozhai-soushenji-guofeng-kapai.json) |
 | Liar & raiL FanDisk: Hotch Potch | 59171 | [59171-liar-and-rail-fandisk-hotch-potch.json](./59171-liar-and-rail-fandisk-hotch-potch.json) |
 | Liar Game | 334328 | [334328-liar-game.json](./334328-liar-game.json) |
@@ -7404,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Ice Rose - Collector's Edition | 104704 | [104704-living-legends-ice-rose-collectors-edition.json](./104704-living-legends-ice-rose-collectors-edition.json) |
 | Living Legends: The Blue Chamber | 397037 | [397037-living-legends-the-blue-chamber.json](./397037-living-legends-the-blue-chamber.json) |
 | Living Legends: The Blue Chamber Collector's Edition | 216441 | [216441-living-legends-the-blue-chamber-collectors-edition.json](./216441-living-legends-the-blue-chamber-collectors-edition.json) |
+| Living Legends: The Crystal Tear | 139504 | [139504-living-legends-the-crystal-tear.json](./139504-living-legends-the-crystal-tear.json) |
 | Living Legends: The Crystal Tear - Collector's Edition | 129314 | [129314-living-legends-the-crystal-tear-collectors-edition.json](./129314-living-legends-the-crystal-tear-collectors-edition.json) |
 | Living Legends: The Frozen Fear Collection | 34539 | [34539-living-legends-the-frozen-fear-collection.json](./34539-living-legends-the-frozen-fear-collection.json) |
 | Living Legends: The Red Trace | 397038 | [397038-living-legends-the-red-trace.json](./397038-living-legends-the-red-trace.json) |
@@ -7412,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Uninvited Guests - Collector's Edition | 396981 | [396981-living-legends-uninvited-guests-collectors-edition.json](./396981-living-legends-uninvited-guests-collectors-edition.json) |
 | Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
 | Living Legends: Voice of the Sea - Collector's Edition | 154276 | [154276-living-legends-voice-of-the-sea-collectors-edition.json](./154276-living-legends-voice-of-the-sea-collectors-edition.json) |
+| Living Legends: Wrath of the Beast | 139503 | [139503-living-legends-wrath-of-the-beast.json](./139503-living-legends-wrath-of-the-beast.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
 | Living Metal | 295406 | [295406-living-metal.json](./295406-living-metal.json) |
 | Living Nightmares: False Familiar | 344531 | [344531-living-nightmares-false-familiar.json](./344531-living-nightmares-false-familiar.json) |
@@ -8476,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Balloon | 41543 | [41543-loony-balloon.json](./41543-loony-balloon.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
+| Loony Loco | 137162 | [137162-loony-loco.json](./137162-loony-loco.json) |
 | Loonyland 2: Winter Woods - Collector's Edition | 400735 | [400735-loonyland-2-winter-woods-collectors-edition.json](./400735-loonyland-2-winter-woods-collectors-edition.json) |
 | Loonyland: Halloween Hill | 74154 | [74154-loonyland-halloween-hill.json](./74154-loonyland-halloween-hill.json) |
 | Loonz | 256222 | [256222-loonz.json](./256222-loonz.json) |
@@ -9429,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Legacy: The Awakening of the Seals | 273765 | [273765-lost-legacy-the-awakening-of-the-seals.json](./273765-lost-legacy-the-awakening-of-the-seals.json) |
 | Lost Legend | 104822 | [104822-lost-legend.json](./104822-lost-legend.json) |
 | Lost Legends: The Pharaoh's Tomb | 43135 | [43135-lost-legends-the-pharaohs-tomb.json](./43135-lost-legends-the-pharaohs-tomb.json) |
+| Lost Legends: The Weeping Woman | 139500 | [139500-lost-legends-the-weeping-woman.json](./139500-lost-legends-the-weeping-woman.json) |
 | Lost Legends: The Weeping Woman - Collector's Edition | 34592 | [34592-lost-legends-the-weeping-woman-collectors-edition.json](./34592-lost-legends-the-weeping-woman-collectors-edition.json) |
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Letter | 351364 | [351364-lost-letter.json](./351364-lost-letter.json) |
@@ -9568,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
 | Lost Souls | 302838 | [302838-lost-souls.json](./302838-lost-souls.json) |
 | Lost Souls: Enchanted Paintings | 88750 | [88750-lost-souls-enchanted-paintings.json](./88750-lost-souls-enchanted-paintings.json) |
+| Lost Souls: Timeless Fables | 139499 | [139499-lost-souls-timeless-fables.json](./139499-lost-souls-timeless-fables.json) |
 | Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Space: Ascend | 103100 | [103100-lost-space-ascend.json](./103100-lost-space-ascend.json) |
 | Lost Sphear | 36534 | [36534-lost-sphear.json](./36534-lost-sphear.json) |
@@ -9834,9 +9846,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
 | Love Chase | 101802 | [101802-love-chase.json](./101802-love-chase.json) |
 | Love Chemistry: Sibella's Formula | 369526 | [369526-love-chemistry-sibellas-formula.json](./369526-love-chemistry-sibellas-formula.json) |
+| Love Chronicles: A Winter's Spell | 139498 | [139498-love-chronicles-a-winters-spell.json](./139498-love-chronicles-a-winters-spell.json) |
 | Love Chronicles: A Winter's Spell - Collector's Edition | 105165 | [105165-love-chronicles-a-winters-spell-collectors-edition.json](./105165-love-chronicles-a-winters-spell-collectors-edition.json) |
+| Love Chronicles: Salvation | 139497 | [139497-love-chronicles-salvation.json](./139497-love-chronicles-salvation.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
+| Love Chronicles: The Spell | 139496 | [139496-love-chronicles-the-spell.json](./139496-love-chronicles-the-spell.json) |
 | Love Chronicles: The Spell - Collector's Edition | 30463 | [30463-love-chronicles-the-spell-collectors-edition.json](./30463-love-chronicles-the-spell-collectors-edition.json) |
+| Love Chronicles: The Sword and the Rose | 139495 | [139495-love-chronicles-the-sword-and-the-rose.json](./139495-love-chronicles-the-sword-and-the-rose.json) |
 | Love Chronicles: The Sword and the Rose - Collector's Edition | 54872 | [54872-love-chronicles-the-sword-and-the-rose-collectors-edition.json](./54872-love-chronicles-the-sword-and-the-rose-collectors-edition.json) |
 | Love Clear | 136757 | [136757-love-clear.json](./136757-love-clear.json) |
 | Love Clear: Limited Edition | 165957 | [165957-love-clear-limited-edition.json](./165957-love-clear-limited-edition.json) |
@@ -11611,6 +11627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lycans | 272501 | [272501-lycans.json](./272501-lycans.json) |
+| Lycanthorn | 139511 | [139511-lycanthorn.json](./139511-lycanthorn.json) |
 | Lycanthorn II: Rain of Beasts | 149688 | [149688-lycanthorn-ii-rain-of-beasts.json](./149688-lycanthorn-ii-rain-of-beasts.json) |
 | Lycanthorn III | 239592 | [239592-lycanthorn-iii.json](./239592-lycanthorn-iii.json) |
 | Lycanthropia | 413895 | [413895-lycanthropia.json](./413895-lycanthropia.json) |
@@ -11663,7 +11680,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lys and Ruka's Magical Bag | 206202 | [206202-lys-and-rukas-magical-bag.json](./206202-lys-and-rukas-magical-bag.json) |
 | Lyser | 118982 | [118982-lyser.json](./118982-lyser.json) |
 | Lyset Core | 377911 | [377911-lyset-core.json](./377911-lyset-core.json) |
-| Lysfanga: The Time Shift Warrior | 252491 | [252491-lysfanga-the-time-shift-warrior.json](./252491-lysfanga-the-time-shift-warrior.json) |
 | Lysfangha | 153575 | [153575-lysfangha.json](./153575-lysfangha.json) |
 | Lysium: Stardiver | 314505 | [314505-lysium-stardiver.json](./314505-lysium-stardiver.json) |
 | Lysogenesis | 203638 | [203638-lysogenesis.json](./203638-lysogenesis.json) |
