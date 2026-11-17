@@ -3156,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Poems | 243833 | [243833-we-are-poems.json](./243833-we-are-poems.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
+| We Are Rebellion | 428266 | [428266-we-are-rebellion.json](./428266-we-are-rebellion.json) |
 | We Are Saved | 307181 | [307181-we-are-saved.json](./307181-we-are-saved.json) |
 | We Are Sisters | 418704 | [418704-we-are-sisters.json](./418704-we-are-sisters.json) |
 | We Are So Cooked | 388377 | [388377-we-are-so-cooked.json](./388377-we-are-so-cooked.json) |
@@ -8881,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workplace Fantasy: New Girl Chapter | 297981 | [297981-workplace-fantasy-new-girl-chapter.json](./297981-workplace-fantasy-new-girl-chapter.json) |
 | Workplace Fantasy: Raina's Ending | 312051 | [312051-workplace-fantasy-rainas-ending.json](./312051-workplace-fantasy-rainas-ending.json) |
 | Workplace Hazard | 373731 | [373731-workplace-hazard.json](./373731-workplace-hazard.json) |
+| WORKS: Motorsport Factory | 428265 | [428265-works-motorsport-factory.json](./428265-works-motorsport-factory.json) |
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
 | Workshop Maps Pack | 323599 | [323599-workshop-maps-pack.json](./323599-workshop-maps-pack.json) |
