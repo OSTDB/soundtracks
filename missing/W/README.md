@@ -7937,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfoo: Kindergarten, Preschool | 223894 | [223894-wolfoo-kindergarten-preschool.json](./223894-wolfoo-kindergarten-preschool.json) |
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
 | Wolfpack | 56696 | [56696-wolfpack.json](./56696-wolfpack.json) |
+| Wolfpack Island | 183636 | [183636-wolfpack-island.json](./183636-wolfpack-island.json) |
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
 | WolfQuest | 33838 | [33838-wolfquest.json](./33838-wolfquest.json) |
 | WolfQuest: Anniversary Edition | 119976 | [119976-wolfquest-anniversary-edition.json](./119976-wolfquest-anniversary-edition.json) |
@@ -9595,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Trophy Soccer | 4390 | [4390-world-trophy-soccer.json](./4390-world-trophy-soccer.json) |
 | World Truck Driving Simulator | 103891 | [103891-world-truck-driving-simulator.json](./103891-world-truck-driving-simulator.json) |
 | World Truck Racing | 9364 | [9364-world-truck-racing.json](./9364-world-truck-racing.json) |
+| World Turtles | 185714 | [185714-world-turtles.json](./185714-world-turtles.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World Voyage | 53109 | [53109-world-voyage.json](./53109-world-voyage.json) |
 | World VR Competition | 32801 | [32801-world-vr-competition.json](./32801-world-vr-competition.json) |
