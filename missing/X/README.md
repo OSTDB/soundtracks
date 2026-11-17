@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xargon Remake Ep.3 | 253436 | [253436-xargon-remake-ep-3.json](./253436-xargon-remake-ep-3.json) |
 | Xargon: Remake Ep. 2 | 302410 | [302410-xargon-remake-ep-2.json](./302410-xargon-remake-ep-2.json) |
 | Xargon's Revenge | 133668 | [133668-xargons-revenge.json](./133668-xargons-revenge.json) |
+| Xari Arena | 46906 | [46906-xari-arena.json](./46906-xari-arena.json) |
 | Xark | 30840 | [30840-xark.json](./30840-xark.json) |
 | Xarq: The Zimmerman Trenches | 31185 | [31185-xarq-the-zimmerman-trenches.json](./31185-xarq-the-zimmerman-trenches.json) |
 | Xatax | 94932 | [94932-xatax.json](./94932-xatax.json) |
