@@ -8348,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaming Core | 317054 | [317054-flaming-core.json](./317054-flaming-core.json) |
 | Flaming Flagon | 291968 | [291968-flaming-flagon.json](./291968-flaming-flagon.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
+| Flaming Pixels | 102992 | [102992-flaming-pixels.json](./102992-flaming-pixels.json) |
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
 | Flaming Trails: Lost Ember | 332759 | [332759-flaming-trails-lost-ember.json](./332759-flaming-trails-lost-ember.json) |
 | Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
@@ -10972,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
 | Force Restart | 366978 | [366978-force-restart.json](./366978-force-restart.json) |
 | Force Seven | 47232 | [47232-force-seven.json](./47232-force-seven.json) |
+| Force Tanks | 102993 | [102993-force-tanks.json](./102993-force-tanks.json) |
 | Force Tilt | 408453 | [408453-force-tilt.json](./408453-force-tilt.json) |
 | ForceBerg | 187238 | [187238-forceberg.json](./187238-forceberg.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
