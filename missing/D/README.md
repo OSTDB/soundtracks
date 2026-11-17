@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fate | 274158 | [274158-dark-fate.json](./274158-dark-fate.json) |
 | Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
 | Dark Fiber | 242713 | [242713-dark-fiber.json](./242713-dark-fiber.json) |
+| Dark Flame | 187420 | [187420-dark-flame.json](./187420-dark-flame.json) |
 | Dark Flame | 28953 | [28953-dark-flame.json](./28953-dark-flame.json) |
 | Dark Flow | 220586 | [220586-dark-flow.json](./220586-dark-flow.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
@@ -6906,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delineation | 264724 | [264724-delineation.json](./264724-delineation.json) |
 | Delinquent Community | 332770 | [332770-delinquent-community.json](./332770-delinquent-community.json) |
 | Delinquent Girlfriend Is Made Into a Masochist Femswine by Disgusting Bad Friend | 98544 | [98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json](./98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json) |
+| Deliria | 187427 | [187427-deliria.json](./187427-deliria.json) |
 | Deliria | 202748 | [202748-deliria.json](./202748-deliria.json) |
 | Deliriant | 28731 | [28731-deliriant.json](./28731-deliriant.json) |
 | Deliricard | 188359 | [188359-deliricard.json](./188359-deliricard.json) |
@@ -9425,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devious Dungeon | 24569 | [24569-devious-dungeon.json](./24569-devious-dungeon.json) |
 | Devious Dungeon 2 | 68988 | [68988-devious-dungeon-2.json](./68988-devious-dungeon-2.json) |
 | Devious Dungeon Collection | 147669 | [147669-devious-dungeon-collection.json](./147669-devious-dungeon-collection.json) |
+| Devious Dungeon: Limited Edition | 186919 | [186919-devious-dungeon-limited-edition.json](./186919-devious-dungeon-limited-edition.json) |
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
 | DeviousMUD | 66415 | [66415-deviousmud.json](./66415-deviousmud.json) |
@@ -16125,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DownRiver | 179928 | [179928-downriver.json](./179928-downriver.json) |
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
 | Downshot | 308353 | [308353-downshot.json](./308353-downshot.json) |
+| Downslope | 187425 | [187425-downslope.json](./187425-downslope.json) |
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
 | Downstairs | 274295 | [274295-downstairs.json](./274295-downstairs.json) |
 | Downstairs 2 Nightfall | 367737 | [367737-downstairs-2-nightfall.json](./367737-downstairs-2-nightfall.json) |
@@ -20326,6 +20330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dullahan | 183489 | [183489-dullahan.json](./183489-dullahan.json) |
 | Dullahan-san no Atama wo Omochikaeri Suru | 394771 | [394771-dullahan-san-no-atama-wo-omochikaeri-suru.json](./394771-dullahan-san-no-atama-wo-omochikaeri-suru.json) |
 | Dullpain | 216801 | [216801-dullpain.json](./216801-dullpain.json) |
+| Duloga | 187412 | [187412-duloga.json](./187412-duloga.json) |
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
 | Dum Dum Dinos | 138221 | [138221-dum-dum-dinos.json](./138221-dum-dum-dinos.json) |
 | Dum Game | 258099 | [258099-dum-game.json](./258099-dum-game.json) |
