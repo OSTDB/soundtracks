@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | Jamie's Dream | 63731 | [63731-jamies-dream.json](./63731-jamies-dream.json) |
 | Jamie's Mod | 221669 | [221669-jamies-mod.json](./221669-jamies-mod.json) |
+| Jamie's Toy Box | 164096 | [164096-jamies-toy-box.json](./164096-jamies-toy-box.json) |
 | Jamjam | 343716 | [343716-jamjam.json](./343716-jamjam.json) |
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
 | Jamm | 195839 | [195839-jamm.json](./195839-jamm.json) |
@@ -1508,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Brontosaurus | 97095 | [97095-jetpack-brontosaurus.json](./97095-jetpack-brontosaurus.json) |
 | Jetpack Cat | 72694 | [72694-jetpack-cat.json](./72694-jetpack-cat.json) |
 | Jetpack Christmas Special | 19238 | [19238-jetpack-christmas-special.json](./19238-jetpack-christmas-special.json) |
+| Jetpack City Action VR | 165083 | [165083-jetpack-city-action-vr.json](./165083-jetpack-city-action-vr.json) |
 | Jetpack Clankers | 406180 | [406180-jetpack-clankers.json](./406180-jetpack-clankers.json) |
 | Jetpack Dog | 103969 | [103969-jetpack-dog.json](./103969-jetpack-dog.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
@@ -3840,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpin' Junk | 110258 | [110258-jumpin-junk.json](./110258-jumpin-junk.json) |
 | Jumpin' Jupiter: Prelude | 135629 | [135629-jumpin-jupiter-prelude.json](./135629-jumpin-jupiter-prelude.json) |
 | Jumpin' Kid: Jack to Mame no Ki Monogatari | 48450 | [48450-jumpin-kid-jack-to-mame-no-ki-monogatari.json](./48450-jumpin-kid-jack-to-mame-no-ki-monogatari.json) |
+| Jumpin' Tanks | 164103 | [164103-jumpin-tanks.json](./164103-jumpin-tanks.json) |
 | Jumping Ball | 27608 | [27608-jumping-ball.json](./27608-jumping-ball.json) |
 | Jumping Bean Jamboree | 218186 | [218186-jumping-bean-jamboree.json](./218186-jumping-bean-jamboree.json) |
 | Jumping Boy | 322415 | [322415-jumping-boy.json](./322415-jumping-boy.json) |
