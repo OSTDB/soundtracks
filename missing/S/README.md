@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.X. Z.O.N.E. | 340604 | [340604-s-e-x-z-o-n-e.json](./340604-s-e-x-z-o-n-e.json) |
 | S.F.77 | 104838 | [104838-s-f-77.json](./104838-s-f-77.json) |
 | S.H.E. | 183800 | [183800-s-h-e.json](./183800-s-h-e.json) |
+| S.I.M.I.S. | 71618 | [71618-s-i-m-i-s.json](./71618-s-i-m-i-s.json) |
 | S.I.N | 282962 | [282962-s-i-n.json](./282962-s-i-n.json) |
 | S.I.N. Unit: Ghost Investigation & Removal | 165528 | [165528-s-i-n-unit-ghost-investigation-and-removal.json](./165528-s-i-n-unit-ghost-investigation-and-removal.json) |
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
@@ -10304,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot The Moon | 344028 | [344028-shoot-the-moon.json](./344028-shoot-the-moon.json) |
 | Shoot the Rapids | 317768 | [317768-shoot-the-rapids.json](./317768-shoot-the-rapids.json) |
+| Shoot the Roach | 71631 | [71631-shoot-the-roach.json](./71631-shoot-the-roach.json) |
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
 | Shoot the Rocks | 28768 | [28768-shoot-the-rocks.json](./28768-shoot-the-rocks.json) |
 | Shoot the Wall | 340791 | [340791-shoot-the-wall.json](./340791-shoot-the-wall.json) |
@@ -10910,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek SuperSlam | 10628 | [10628-shrek-superslam.json](./10628-shrek-superslam.json) |
 | Shrek SuperSlam | 141642 | [141642-shrek-superslam.json](./141642-shrek-superslam.json) |
 | Shrek Swamp Fun with Early Math | 73427 | [73427-shrek-swamp-fun-with-early-math.json](./73427-shrek-swamp-fun-with-early-math.json) |
+| Shrek Swamp Fun with Phonics | 71627 | [71627-shrek-swamp-fun-with-phonics.json](./71627-shrek-swamp-fun-with-phonics.json) |
 | Shrek the Third | 200881 | [200881-shrek-the-third.json](./200881-shrek-the-third.json) |
 | Shrek the Third | 3669 | [3669-shrek-the-third.json](./3669-shrek-the-third.json) |
 | Shrek the Third: Arthur's School Day Adventure | 72995 | [72995-shrek-the-third-arthurs-school-day-adventure.json](./72995-shrek-the-third-arthurs-school-day-adventure.json) |
@@ -27578,6 +27581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Alien Domain | 23645 | [23645-star-trek-alien-domain.json](./23645-star-trek-alien-domain.json) |
 | Star Trek: Armada 2 | 18904 | [18904-star-trek-armada-2.json](./18904-star-trek-armada-2.json) |
 | Star Trek: Armada III | 191510 | [191510-star-trek-armada-iii.json](./191510-star-trek-armada-iii.json) |
+| Star Trek: Away Team | 71640 | [71640-star-trek-away-team.json](./71640-star-trek-away-team.json) |
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: Borg Assimilator | 65373 | [65373-star-trek-borg-assimilator.json](./65373-star-trek-borg-assimilator.json) |
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
@@ -37590,6 +37594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sucker: Silly DLC | 351242 | [351242-super-sucker-silly-dlc.json](./351242-super-sucker-silly-dlc.json) |
 | Super Sucker: Smart DLC | 351241 | [351241-super-sucker-smart-dlc.json](./351241-super-sucker-smart-dlc.json) |
 | Super Sudoku | 195526 | [195526-super-sudoku.json](./195526-super-sudoku.json) |
+| Super Sumo Wrestling 2002 | 71649 | [71649-super-sumo-wrestling-2002.json](./71649-super-sumo-wrestling-2002.json) |
 | Super Sumsputer | 292803 | [292803-super-sumsputer.json](./292803-super-sumsputer.json) |
 | Super Sunburnt Siesta Snoozer | 299566 | [299566-super-sunburnt-siesta-snoozer.json](./299566-super-sunburnt-siesta-snoozer.json) |
 | Super Sunny Island | 144822 | [144822-super-sunny-island.json](./144822-super-sunny-island.json) |
@@ -37858,6 +37863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbowl | 172527 | [172527-superbowl.json](./172527-superbowl.json) |
 | Superbowl | 61912 | [61912-superbowl.json](./61912-superbowl.json) |
 | Superboy | 385814 | [385814-superboy.json](./385814-superboy.json) |
+| Superboy: Spies from Outer Space | 71624 | [71624-superboy-spies-from-outer-space.json](./71624-superboy-spies-from-outer-space.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Superbug | 381582 | [381582-superbug.json](./381582-superbug.json) |
