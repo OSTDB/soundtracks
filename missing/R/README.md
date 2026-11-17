@@ -11553,6 +11553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
 | RogueCards | 311620 | [311620-roguecards.json](./311620-roguecards.json) |
+| RogueClick | 192352 | [192352-rogueclick.json](./192352-rogueclick.json) |
 | Roguecraft | 315735 | [315735-roguecraft.json](./315735-roguecraft.json) |
 | RogueCraft | 345812 | [345812-roguecraft.json](./345812-roguecraft.json) |
 | Roguecraft GB | 391265 | [391265-roguecraft-gb.json](./391265-roguecraft-gb.json) |
