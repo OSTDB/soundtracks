@@ -7969,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows in Silence | 285574 | [285574-shadows-in-silence.json](./285574-shadows-in-silence.json) |
 | Shadows in the City | 302480 | [302480-shadows-in-the-city.json](./302480-shadows-in-the-city.json) |
 | Shadows in the Dark | 217335 | [217335-shadows-in-the-dark.json](./217335-shadows-in-the-dark.json) |
+| Shadows in the Darkness | 74534 | [74534-shadows-in-the-darkness.json](./74534-shadows-in-the-darkness.json) |
 | Shadows in the Silence | 374081 | [374081-shadows-in-the-silence.json](./374081-shadows-in-the-silence.json) |
 | Shadows Labyrinth | 272926 | [272926-shadows-labyrinth.json](./272926-shadows-labyrinth.json) |
 | Shadows Light | 110783 | [110783-shadows-light.json](./110783-shadows-light.json) |
@@ -8267,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Refresh | 123268 | [123268-shanghai-refresh.json](./123268-shanghai-refresh.json) |
 | Shanghai Street Racer | 79547 | [79547-shanghai-street-racer.json](./79547-shanghai-street-racer.json) |
 | Shanghai Summer | 234139 | [234139-shanghai-summer.json](./234139-shanghai-summer.json) |
+| Shanghai Warriors | 74560 | [74560-shanghai-warriors.json](./74560-shanghai-warriors.json) |
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
 | Shanghai: Dynasty | 343909 | [343909-shanghai-dynasty.json](./343909-shanghai-dynasty.json) |
 | Shanghai: Dynasty | 343910 | [343910-shanghai-dynasty.json](./343910-shanghai-dynasty.json) |
@@ -23831,6 +23833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedball 2: Brutal Deluxe | 295045 | [295045-speedball-2-brutal-deluxe.json](./295045-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Evolution | 42844 | [42844-speedball-2-evolution.json](./42844-speedball-2-evolution.json) |
 | Speedball 2100 | 10153 | [10153-speedball-2100.json](./10153-speedball-2100.json) |
+| Speedball Arena | 75972 | [75972-speedball-arena.json](./75972-speedball-arena.json) |
 | SpeedBall! | 105788 | [105788-speedball.json](./105788-speedball.json) |
 | Speedboat Alchemy | 180828 | [180828-speedboat-alchemy.json](./180828-speedboat-alchemy.json) |
 | Speedboat Assassins | 13080 | [13080-speedboat-assassins.json](./13080-speedboat-assassins.json) |
@@ -27856,6 +27859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
 | Star Wars: Jedi Trials | 65161 | [65161-star-wars-jedi-trials.json](./65161-star-wars-jedi-trials.json) |
 | Star Wars: Knights of the Old Republic - Remake | 168665 | [168665-star-wars-knights-of-the-old-republic-remake.json](./168665-star-wars-knights-of-the-old-republic-remake.json) |
+| Star Wars: Knights of the Old Republic - Yavin Station | 74551 | [74551-star-wars-knights-of-the-old-republic-yavin-station.json](./74551-star-wars-knights-of-the-old-republic-yavin-station.json) |
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Lethal Alliance | 23116 | [23116-star-wars-lethal-alliance.json](./23116-star-wars-lethal-alliance.json) |
@@ -36951,6 +36955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen Gaiden: Masou Kishin - The Lord of Elemental | 38233 | [38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json](./38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json) |
 | Super Robot Taisen GC | 4189 | [4189-super-robot-taisen-gc.json](./4189-super-robot-taisen-gc.json) |
+| Super Robot Taisen Impact | 72877 | [72877-super-robot-taisen-impact.json](./72877-super-robot-taisen-impact.json) |
 | Super Robot Taisen J | 6629 | [6629-super-robot-taisen-j.json](./6629-super-robot-taisen-j.json) |
 | Super Robot Taisen K | 79340 | [79340-super-robot-taisen-k.json](./79340-super-robot-taisen-k.json) |
 | Super Robot Taisen Link Battler | 112601 | [112601-super-robot-taisen-link-battler.json](./112601-super-robot-taisen-link-battler.json) |
@@ -39196,6 +39201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi no Tensei | 291103 | [291103-suzumiya-haruhi-no-tensei.json](./291103-suzumiya-haruhi-no-tensei.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
 | Suzumiya Haruhi no Tsuisou | 66321 | [66321-suzumiya-haruhi-no-tsuisou.json](./66321-suzumiya-haruhi-no-tsuisou.json) |
+| Suzumiya Haruhi no Yakusoku | 72862 | [72862-suzumiya-haruhi-no-yakusoku.json](./72862-suzumiya-haruhi-no-yakusoku.json) |
 | Suzumiya Haruhi-chan no Mahjong | 61444 | [61444-suzumiya-haruhi-chan-no-mahjong.json](./61444-suzumiya-haruhi-chan-no-mahjong.json) |
 | Suzunaan on Fire | 127729 | [127729-suzunaan-on-fire.json](./127729-suzunaan-on-fire.json) |
 | Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
