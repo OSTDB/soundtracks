@@ -6422,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels of the Multiverse: Vengeance | 169969 | [169969-sentinels-of-the-multiverse-vengeance.json](./169969-sentinels-of-the-multiverse-vengeance.json) |
 | Sentinels of the Multiverse: Villains of the Multiverse | 170412 | [170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json](./170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json) |
 | Sentinels of the Multiverse: Wrath of the Cosmos | 170415 | [170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json](./170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json) |
+| Sentinels Sidekick | 99261 | [99261-sentinels-sidekick.json](./99261-sentinels-sidekick.json) |
 | Sentinels: High Energy Tower Defense | 79131 | [79131-sentinels-high-energy-tower-defense.json](./79131-sentinels-high-energy-tower-defense.json) |
 | Sentinent Steel | 249921 | [249921-sentinent-steel.json](./249921-sentinent-steel.json) |
 | Sento Survivor: Slip, Grab, and Bathe in Glory! | 390231 | [390231-sento-survivor-slip-grab-and-bathe-in-glory.json](./390231-sento-survivor-slip-grab-and-bathe-in-glory.json) |
@@ -7718,7 +7719,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the School | 302474 | [302474-shadow-of-the-school.json](./302474-shadow-of-the-school.json) |
 | Shadow of the Tomb Raider: Croft Edition | 99122 | [99122-shadow-of-the-tomb-raider-croft-edition.json](./99122-shadow-of-the-tomb-raider-croft-edition.json) |
+| Shadow of the Tomb Raider: Croft Steelbook Edition | 99230 | [99230-shadow-of-the-tomb-raider-croft-steelbook-edition.json](./99230-shadow-of-the-tomb-raider-croft-steelbook-edition.json) |
 | Shadow of the Tomb Raider: Definitive Edition | 123051 | [123051-shadow-of-the-tomb-raider-definitive-edition.json](./123051-shadow-of-the-tomb-raider-definitive-edition.json) |
+| Shadow of the Tomb Raider: Digital Croft Edition | 99229 | [99229-shadow-of-the-tomb-raider-digital-croft-edition.json](./99229-shadow-of-the-tomb-raider-digital-croft-edition.json) |
 | Shadow of the Tomb Raider: Digital Deluxe Edition | 99121 | [99121-shadow-of-the-tomb-raider-digital-deluxe-edition.json](./99121-shadow-of-the-tomb-raider-digital-deluxe-edition.json) |
 | Shadow of the Tomb Raider: Limited Steelbook Edition | 198245 | [198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json](./198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json) |
 | Shadow of the Tomb Raider: The Forge | 110844 | [110844-shadow-of-the-tomb-raider-the-forge.json](./110844-shadow-of-the-tomb-raider-the-forge.json) |
@@ -10601,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Street | 399460 | [399460-shopping-street.json](./399460-shopping-street.json) |
 | Shopping Talent | 237589 | [237589-shopping-talent.json](./237589-shopping-talent.json) |
 | Shopping Tycoon | 54514 | [54514-shopping-tycoon.json](./54514-shopping-tycoon.json) |
+| Shopping Zone City Driver | 99251 | [99251-shopping-zone-city-driver.json](./99251-shopping-zone-city-driver.json) |
 | ShoppingMall: Manager Simulator | 326356 | [326356-shoppingmall-manager-simulator.json](./326356-shoppingmall-manager-simulator.json) |
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
@@ -12669,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Rolling | 236931 | [236931-simple-rolling.json](./236931-simple-rolling.json) |
 | Simple RTS | 179819 | [179819-simple-rts.json](./179819-simple-rts.json) |
 | Simple RTS | 38768 | [38768-simple-rts.json](./38768-simple-rts.json) |
+| Simple Sailing | 99239 | [99239-simple-sailing.json](./99239-simple-sailing.json) |
 | Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
 | Simple Series 2000 Vol. 90: The Oneechanbara 2 | 73012 | [73012-simple-series-2000-vol-90-the-oneechanbara-2.json](./73012-simple-series-2000-vol-90-the-oneechanbara-2.json) |
 | Simple Series for Nintendo 3DS Vol. 1: The Mahjong | 82133 | [82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json](./82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json) |
@@ -13400,6 +13405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Flags Fun Park | 206039 | [206039-six-flags-fun-park.json](./206039-six-flags-fun-park.json) |
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
+| Six Generals | 100396 | [100396-six-generals.json](./100396-six-generals.json) |
 | Six Gun Saga | 92555 | [92555-six-gun-saga.json](./92555-six-gun-saga.json) |
 | Six Guns | 65159 | [65159-six-guns.json](./65159-six-guns.json) |
 | Six Hours at Hugo's | 273855 | [273855-six-hours-at-hugos.json](./273855-six-hours-at-hugos.json) |
@@ -16438,6 +16444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashteroids | 418389 | [418389-smashteroids.json](./418389-smashteroids.json) |
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
+| Smashy Bubble: Gotta Pop em All | 99244 | [99244-smashy-bubble-gotta-pop-em-all.json](./99244-smashy-bubble-gotta-pop-em-all.json) |
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
 | Smashy City | 99919 | [99919-smashy-city.json](./99919-smashy-city.json) |
 | Smashy Dash 2 | 100996 | [100996-smashy-dash-2.json](./100996-smashy-dash-2.json) |
@@ -21890,6 +21897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chicks | 60792 | [60792-space-chicks.json](./60792-space-chicks.json) |
 | Space Child | 53621 | [53621-space-child.json](./53621-space-child.json) |
 | Space Chimps | 200685 | [200685-space-chimps.json](./200685-space-chimps.json) |
+| Space Chip | 99232 | [99232-space-chip.json](./99232-space-chip.json) |
 | Space Choice: Data Analyzer | 143995 | [143995-space-choice-data-analyzer.json](./143995-space-choice-data-analyzer.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Clash: The Last Frontier | 111446 | [111446-space-clash-the-last-frontier.json](./111446-space-clash-the-last-frontier.json) |
@@ -23568,6 +23576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces | 77269 | [77269-special-forces.json](./77269-special-forces.json) |
 | Special Forces Assault: Tactical Hostage Rainbow | 286188 | [286188-special-forces-assault-tactical-hostage-rainbow.json](./286188-special-forces-assault-tactical-hostage-rainbow.json) |
 | Special Forces Group | 245173 | [245173-special-forces-group.json](./245173-special-forces-group.json) |
+| Special Forces Group 2 | 99253 | [99253-special-forces-group-2.json](./99253-special-forces-group-2.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces II | 41098 | [41098-special-forces-ii.json](./41098-special-forces-ii.json) |
 | Special Forces Jackal | 96308 | [96308-special-forces-jackal.json](./96308-special-forces-jackal.json) |
@@ -31188,6 +31197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
 | Strange Brigade | 36832 | [36832-strange-brigade.json](./36832-strange-brigade.json) |
+| Strange Brigade: Collector's Edition | 99227 | [99227-strange-brigade-collectors-edition.json](./99227-strange-brigade-collectors-edition.json) |
 | Strange Brigade: Deluxe Edition | 118899 | [118899-strange-brigade-deluxe-edition.json](./118899-strange-brigade-deluxe-edition.json) |
 | Strange Brigade: The Thrice Damned 1 - Isle of the Dead | 110842 | [110842-strange-brigade-the-thrice-damned-1-isle-of-the-dead.json](./110842-strange-brigade-the-thrice-damned-1-isle-of-the-dead.json) |
 | Strange Brigade: The Thrice Damned 2 - The Sunken Kingdom | 111557 | [111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json](./111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json) |
@@ -38763,6 +38773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Instinct | 149617 | [149617-survival-instinct.json](./149617-survival-instinct.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Island | 40690 | [40690-survival-island.json](./40690-survival-island.json) |
+| Survival Island 2017 - Savage 2 | 99254 | [99254-survival-island-2017-savage-2.json](./99254-survival-island-2017-savage-2.json) |
 | Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
 | Survival Island: Evolve Pro! | 97199 | [97199-survival-island-evolve-pro.json](./97199-survival-island-evolve-pro.json) |
 | Survival Island: The Forest 3D | 221364 | [221364-survival-island-the-forest-3d.json](./221364-survival-island-the-forest-3d.json) |
@@ -40245,6 +40256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Apocalypse: Episode 3 | 413402 | [413402-sword-of-the-apocalypse-episode-3.json](./413402-sword-of-the-apocalypse-episode-3.json) |
 | Sword of the Apocalypse: Episode 4 | 413386 | [413386-sword-of-the-apocalypse-episode-4.json](./413386-sword-of-the-apocalypse-episode-4.json) |
 | Sword of the Berserk: Guts' Rage | 28840 | [28840-sword-of-the-berserk-guts-rage.json](./28840-sword-of-the-berserk-guts-rage.json) |
+| Sword of the Black Stone | 99234 | [99234-sword-of-the-black-stone.json](./99234-sword-of-the-black-stone.json) |
 | Sword of the Cat: Lost Hope | 262769 | [262769-sword-of-the-cat-lost-hope.json](./262769-sword-of-the-cat-lost-hope.json) |
 | Sword of the Dimacreation | 109191 | [109191-sword-of-the-dimacreation.json](./109191-sword-of-the-dimacreation.json) |
 | Sword of the Dimacreation: Side Story - The Hunt of Rabbit | 97521 | [97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json](./97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json) |
