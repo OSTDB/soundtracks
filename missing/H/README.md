@@ -13081,6 +13081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Casino 2001 | 130993 | [130993-hoyle-casino-2001.json](./130993-hoyle-casino-2001.json) |
 | Hoyle Casino 2002 | 130994 | [130994-hoyle-casino-2002.json](./130994-hoyle-casino-2002.json) |
 | Hoyle Casino 2004 | 100135 | [100135-hoyle-casino-2004.json](./100135-hoyle-casino-2004.json) |
+| Hoyle Casino 2006 | 72876 | [72876-hoyle-casino-2006.json](./72876-hoyle-casino-2006.json) |
 | Hoyle Casino 2008 | 72924 | [72924-hoyle-casino-2008.json](./72924-hoyle-casino-2008.json) |
 | Hoyle Casino 2009 | 210066 | [210066-hoyle-casino-2009.json](./210066-hoyle-casino-2009.json) |
 | Hoyle Casino 2010 | 210067 | [210067-hoyle-casino-2010.json](./210067-hoyle-casino-2010.json) |
