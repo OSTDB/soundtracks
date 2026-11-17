@@ -9016,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Princess! | 75028 | [75028-chop-chop-princess.json](./75028-chop-chop-princess.json) |
 | Chop Chop Runner | 91060 | [91060-chop-chop-runner.json](./91060-chop-chop-runner.json) |
 | Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
+| Chop Chop Tennis | 174381 | [174381-chop-chop-tennis.json](./174381-chop-chop-tennis.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop is Dish | 112387 | [112387-chop-is-dish.json](./112387-chop-is-dish.json) |
 | Chop It | 100925 | [100925-chop-it.json](./100925-chop-it.json) |
@@ -10137,6 +10138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnamon: Yume no Daibouken | 49558 | [49558-cinnamon-yume-no-daibouken.json](./49558-cinnamon-yume-no-daibouken.json) |
 | Cinnamoroll: Cafe Cinnamon de o-Tetsudai | 327568 | [327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json](./327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
+| Cinnet | 174384 | [174384-cinnet.json](./174384-cinnet.json) |
 | CinQ | 137743 | [137743-cinq.json](./137743-cinq.json) |
 | Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
@@ -21370,6 +21372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
 | Crystal Captor: Memory Chronicle Finale | 176760 | [176760-crystal-captor-memory-chronicle-finale.json](./176760-crystal-captor-memory-chronicle-finale.json) |
 | Crystal Castles | 11207 | [11207-crystal-castles.json](./11207-crystal-castles.json) |
+| Crystal Castles | 172792 | [172792-crystal-castles.json](./172792-crystal-castles.json) |
 | Crystal Catacombs | 17893 | [17893-crystal-catacombs.json](./17893-crystal-catacombs.json) |
 | Crystal Cave | 339343 | [339343-crystal-cave.json](./339343-crystal-cave.json) |
 | Crystal Cave Classic | 142326 | [142326-crystal-cave-classic.json](./142326-crystal-cave-classic.json) |
