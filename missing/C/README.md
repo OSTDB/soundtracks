@@ -10814,6 +10814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Things | 203583 | [203583-city-things.json](./203583-city-things.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
+| City Traffic Driver | 187482 | [187482-city-traffic-driver.json](./187482-city-traffic-driver.json) |
 | City Traffic Driver 2 | 215311 | [215311-city-traffic-driver-2.json](./215311-city-traffic-driver-2.json) |
 | City Transport Map Volumes 1 & 2 - 2009 | 85032 | [85032-city-transport-map-volumes-1-and-2-2009.json](./85032-city-transport-map-volumes-1-and-2-2009.json) |
 | City Transport Simulator 2026 | 397389 | [397389-city-transport-simulator-2026.json](./397389-city-transport-simulator-2026.json) |
