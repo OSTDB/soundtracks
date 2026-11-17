@@ -19984,7 +19984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Metal: Episode II | 174168 | [174168-crimson-metal-episode-ii.json](./174168-crimson-metal-episode-ii.json) |
 | Crimson Metal: Episode III | 174163 | [174163-crimson-metal-episode-iii.json](./174163-crimson-metal-episode-iii.json) |
 | Crimson Moon | 245796 | [245796-crimson-moon.json](./245796-crimson-moon.json) |
-| Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
 | Crimson Needle 2.5 | 370930 | [370930-crimson-needle-2-5.json](./370930-crimson-needle-2-5.json) |
 | Crimson Needle 3 | 265205 | [265205-crimson-needle-3.json](./265205-crimson-needle-3.json) |
 | Crimson Night | 375580 | [375580-crimson-night.json](./375580-crimson-night.json) |
