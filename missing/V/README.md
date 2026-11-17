@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectorio | 154858 | [154858-vectorio.json](./154858-vectorio.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
+| Vectorline | 422310 | [422310-vectorline.json](./422310-vectorline.json) |
 | Vectorman | 310698 | [310698-vectorman.json](./310698-vectorman.json) |
 | VectorMan | 16033 | [16033-vectorman.json](./16033-vectorman.json) |
 | VectorMan 2 | 4391 | [4391-vectorman-2.json](./4391-vectorman-2.json) |
