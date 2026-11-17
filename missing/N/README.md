@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
 | Nano Player Pro: Mega Man | 317711 | [317711-nano-player-pro-mega-man.json](./317711-nano-player-pro-mega-man.json) |
 | Nano Project | 28674 | [28674-nano-project.json](./28674-nano-project.json) |
+| Nano Punk Mecht | 417928 | [417928-nano-punk-mecht.json](./417928-nano-punk-mecht.json) |
 | Nano Racing | 190274 | [190274-nano-racing.json](./190274-nano-racing.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
 | Nano Runner | 297531 | [297531-nano-runner.json](./297531-nano-runner.json) |
@@ -1066,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuki Crisis Battle | 38210 | [38210-natsuki-crisis-battle.json](./38210-natsuki-crisis-battle.json) |
 | Natsukiri: Summer Vacation At Kirishima House | 225981 | [225981-natsukiri-summer-vacation-at-kirishima-house.json](./225981-natsukiri-summer-vacation-at-kirishima-house.json) |
 | Natsumatsuri | 366182 | [366182-natsumatsuri.json](./366182-natsumatsuri.json) |
+| Natsumatsuri: Rei | 417691 | [417691-natsumatsuri-rei.json](./417691-natsumatsuri-rei.json) |
 | Natsume Championship Wrestling | 42483 | [42483-natsume-championship-wrestling.json](./42483-natsume-championship-wrestling.json) |
 | Natsume Ryoran: Romance of Hi-Spec Yoko | 344798 | [344798-natsume-ryoran-romance-of-hi-spec-yoko.json](./344798-natsume-ryoran-romance-of-hi-spec-yoko.json) |
 | Natsume's Book of Friends: Hazuki no Shirushi | 343552 | [343552-natsumes-book-of-friends-hazuki-no-shirushi.json](./343552-natsumes-book-of-friends-hazuki-no-shirushi.json) |
@@ -8785,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
 | Nutty Fluffies | 61760 | [61760-nutty-fluffies.json](./61760-nutty-fluffies.json) |
+| Nutty Gunner: 2D Squirrel Shooter | 417923 | [417923-nutty-gunner-2d-squirrel-shooter.json](./417923-nutty-gunner-2d-squirrel-shooter.json) |
 | Nutty Motorcars | 215626 | [215626-nutty-motorcars.json](./215626-nutty-motorcars.json) |
 | Nutty Nemesis: Nile's Downfall | 371751 | [371751-nutty-nemesis-niles-downfall.json](./371751-nutty-nemesis-niles-downfall.json) |
 | Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
