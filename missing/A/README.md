@@ -6931,7 +6931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajgal | 360521 | [360521-ajgal.json](./360521-ajgal.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
-| AK-xolotl | 143004 | [143004-ak-xolotl.json](./143004-ak-xolotl.json) |
 | AK-xolotl: Collector's Edition | 270581 | [270581-ak-xolotl-collectors-edition.json](./270581-ak-xolotl-collectors-edition.json) |
 | AK-xolotl: Together | 330585 | [330585-ak-xolotl-together.json](./330585-ak-xolotl-together.json) |
 | AK-xolotl: Wars | 336705 | [336705-ak-xolotl-wars.json](./336705-ak-xolotl-wars.json) |
