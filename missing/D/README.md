@@ -739,7 +739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damocles | 15501 | [15501-damocles.json](./15501-damocles.json) |
 | Damocles Gaze | 172666 | [172666-damocles-gaze.json](./172666-damocles-gaze.json) |
 | Damocles: Mission Disk 1 | 15502 | [15502-damocles-mission-disk-1.json](./15502-damocles-mission-disk-1.json) |
-| Damon and Baby | 351213 | [351213-damon-and-baby.json](./351213-damon-and-baby.json) |
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
 | Dämonenburg | 91586 | [91586-damonenburg.json](./91586-damonenburg.json) |
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
@@ -2394,7 +2393,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon II: Hero Origin Pack | 370240 | [370240-darkest-dungeon-ii-hero-origin-pack.json](./370240-darkest-dungeon-ii-hero-origin-pack.json) |
 | Darkest Dungeon II: Infernal Supporter Pack | 370241 | [370241-darkest-dungeon-ii-infernal-supporter-pack.json](./370241-darkest-dungeon-ii-infernal-supporter-pack.json) |
 | Darkest Dungeon II: Inhuman Bondage | 328905 | [328905-darkest-dungeon-ii-inhuman-bondage.json](./328905-darkest-dungeon-ii-inhuman-bondage.json) |
-| Darkest Dungeon II: Kingdoms | 296837 | [296837-darkest-dungeon-ii-kingdoms.json](./296837-darkest-dungeon-ii-kingdoms.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon II: Resolute Edition | 383423 | [383423-darkest-dungeon-ii-resolute-edition.json](./383423-darkest-dungeon-ii-resolute-edition.json) |
 | Darkest Dungeon II: The Binding Blade | 275753 | [275753-darkest-dungeon-ii-the-binding-blade.json](./275753-darkest-dungeon-ii-the-binding-blade.json) |
@@ -4455,7 +4453,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
 | Dead Sea Scrolls | 356382 | [356382-dead-sea-scrolls.json](./356382-dead-sea-scrolls.json) |
-| Dead Season | 295207 | [295207-dead-season.json](./295207-dead-season.json) |
 | Dead Seater | 145174 | [145174-dead-seater.json](./145174-dead-seater.json) |
 | Dead Second | 216300 | [216300-dead-second.json](./216300-dead-second.json) |
 | Dead Secret | 14403 | [14403-dead-secret.json](./14403-dead-secret.json) |
@@ -5129,7 +5126,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest 2: Death End Box | 136721 | [136721-death-end-re-quest-2-death-end-box.json](./136721-death-end-re-quest-2-death-end-box.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
 | Death End Re;Quest 3 | 405964 | [405964-death-end-re-quest-3.json](./405964-death-end-re-quest-3.json) |
-| Death End Re;Quest Code Z | 292873 | [292873-death-end-re-quest-code-z.json](./292873-death-end-re-quest-code-z.json) |
 | Death End Re;Quest: Deluxe Bundle | 114010 | [114010-death-end-re-quest-deluxe-bundle.json](./114010-death-end-re-quest-deluxe-bundle.json) |
 | Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
 | Death end re;Quest: Rook's Traveler Set | 223826 | [223826-death-end-re-quest-rooks-traveler-set.json](./223826-death-end-re-quest-rooks-traveler-set.json) |
@@ -5526,7 +5522,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles: Limited Edition | 47407 | [47407-deathsmiles-limited-edition.json](./47407-deathsmiles-limited-edition.json) |
 | DeathSpank | 2249 | [2249-deathspank.json](./2249-deathspank.json) |
 | DeathSpank: Thongs of Virtue | 2250 | [2250-deathspank-thongs-of-virtue.json](./2250-deathspank-thongs-of-virtue.json) |
-| DeathSprint 66 | 292868 | [292868-deathsprint-66.json](./292868-deathsprint-66.json) |
 | Deathstar | 94808 | [94808-deathstar.json](./94808-deathstar.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
@@ -7641,7 +7636,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons vs. Wizards | 239118 | [239118-demons-vs-wizards.json](./239118-demons-vs-wizards.json) |
 | Demons with Shotguns | 35205 | [35205-demons-with-shotguns.json](./35205-demons-with-shotguns.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
-| Demons' Night Fever | 351210 | [351210-demons-night-fever.json](./351210-demons-night-fever.json) |
 | Demons' Timeline | 388666 | [388666-demons-timeline.json](./388666-demons-timeline.json) |
 | DemonsAreCrazy | 103228 | [103228-demonsarecrazy.json](./103228-demonsarecrazy.json) |
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
@@ -8061,7 +8055,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
 | Derelict Fleet | 44267 | [44267-derelict-fleet.json](./44267-derelict-fleet.json) |
 | Derelict Planet | 420039 | [420039-derelict-planet.json](./420039-derelict-planet.json) |
-| Derelict Star | 376551 | [376551-derelict-star.json](./376551-derelict-star.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
 | Dereliction | 111955 | [111955-dereliction.json](./111955-dereliction.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
@@ -9254,7 +9247,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Inside Us: Roots of Evil | 150782 | [150782-devil-inside-us-roots-of-evil.json](./150782-devil-inside-us-roots-of-evil.json) |
 | Devil Invasion | 297390 | [297390-devil-invasion.json](./297390-devil-invasion.json) |
 | Devil Island | 247392 | [247392-devil-island.json](./247392-devil-island.json) |
-| Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Kings | 22568 | [22568-devil-kings.json](./22568-devil-kings.json) |
 | Devil Kiss | 196443 | [196443-devil-kiss.json](./196443-devil-kiss.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
@@ -11085,7 +11077,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
 | Dinobasher | 248847 | [248847-dinobasher.json](./248847-dinobasher.json) |
-| Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
 | DinoBlaster | 37415 | [37415-dinoblaster.json](./37415-dinoblaster.json) |
 | Dinoblits | 219244 | [219244-dinoblits.json](./219244-dinoblits.json) |
 | Dinobot and Tiara Present: ApplePop | 240826 | [240826-dinobot-and-tiara-present-applepop.json](./240826-dinobot-and-tiara-present-applepop.json) |
@@ -11324,7 +11315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Direct Line | 308695 | [308695-direct-line.json](./308695-direct-line.json) |
 | Direct Shot | 152957 | [152957-direct-shot.json](./152957-direct-shot.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
-| Direction Quad | 385117 | [385117-direction-quad.json](./385117-direction-quad.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
 | Directional Isolation VR | 135710 | [135710-directional-isolation-vr.json](./135710-directional-isolation-vr.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
@@ -11801,7 +11791,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 6: Defiance of Destiny - Unrelenting Edition | 151926 | [151926-disgaea-6-defiance-of-destiny-unrelenting-edition.json](./151926-disgaea-6-defiance-of-destiny-unrelenting-edition.json) |
 | Disgaea 6: Defiance of Destiny - Usalia | 238316 | [238316-disgaea-6-defiance-of-destiny-usalia.json](./238316-disgaea-6-defiance-of-destiny-usalia.json) |
 | Disgaea 6: Defiance of Destiny - Valvatorez | 238317 | [238317-disgaea-6-defiance-of-destiny-valvatorez.json](./238317-disgaea-6-defiance-of-destiny-valvatorez.json) |
-| Disgaea 7 Complete | 295622 | [295622-disgaea-7-complete.json](./295622-disgaea-7-complete.json) |
 | Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Delinquent, Curry Lover, and Lady Overlord | 269960 | [269960-disgaea-7-vows-of-the-virtueless-bonus-story-the-delinquent-curry-lover-and-lady-overlord.json](./269960-disgaea-7-vows-of-the-virtueless-bonus-story-the-delinquent-curry-lover-and-lady-overlord.json) |
@@ -11823,7 +11812,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea D2: A Brighter Darkness | 7299 | [7299-disgaea-d2-a-brighter-darkness.json](./7299-disgaea-d2-a-brighter-darkness.json) |
 | Disgaea DS | 21056 | [21056-disgaea-ds.json](./21056-disgaea-ds.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
-| Disgaea Mayhem | 335576 | [335576-disgaea-mayhem.json](./335576-disgaea-mayhem.json) |
 | Disgaea PC | 34392 | [34392-disgaea-pc.json](./34392-disgaea-pc.json) |
 | Disgaea RPG | 115271 | [115271-disgaea-rpg.json](./115271-disgaea-rpg.json) |
 | Disgaea: Afternoon of Darkness | 22528 | [22528-disgaea-afternoon-of-darkness.json](./22528-disgaea-afternoon-of-darkness.json) |
@@ -12033,7 +12021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess | 79718 | [79718-disney-princess.json](./79718-disney-princess.json) |
 | Disney Princess Cyber Arcade Pocket | 246557 | [246557-disney-princess-cyber-arcade-pocket.json](./246557-disney-princess-cyber-arcade-pocket.json) |
 | Disney Princess Fashion Boutique | 209891 | [209891-disney-princess-fashion-boutique.json](./209891-disney-princess-fashion-boutique.json) |
-| Disney Princess Jewelry Box Collection | 350331 | [350331-disney-princess-jewelry-box-collection.json](./350331-disney-princess-jewelry-box-collection.json) |
 | Disney Princess Palace Pets | 334251 | [334251-disney-princess-palace-pets.json](./334251-disney-princess-palace-pets.json) |
 | Disney Princess: Belle's Magic Mirror | 245507 | [245507-disney-princess-belles-magic-mirror.json](./245507-disney-princess-belles-magic-mirror.json) |
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
@@ -13574,7 +13561,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | Dogpet | 167531 | [167531-dogpet.json](./167531-dogpet.json) |
-| Dogpile | 373491 | [373491-dogpile.json](./373491-dogpile.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
 | Dogs | 314312 | [314312-dogs.json](./314312-dogs.json) |
@@ -14164,7 +14150,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be a Hero | 306295 | [306295-dont-be-a-hero.json](./306295-dont-be-a-hero.json) |
 | Don't Be A Square | 130461 | [130461-dont-be-a-square.json](./130461-dont-be-a-square.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
-| Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
 | Don't Be Afraid: The First Toy | 198068 | [198068-dont-be-afraid-the-first-toy.json](./198068-dont-be-afraid-the-first-toy.json) |
 | Don't be crushed | 54846 | [54846-dont-be-crushed.json](./54846-dont-be-crushed.json) |
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
@@ -16188,7 +16173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Texas Hold'em Poker | 67150 | [67150-downtown-texas-holdem-poker.json](./67150-downtown-texas-holdem-poker.json) |
 | Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
-| Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Downware | 305665 | [305665-downware.json](./305665-downware.json) |
 | DownWind | 83724 | [83724-downwind.json](./83724-downwind.json) |
 | Downwordly | 243316 | [243316-downwordly.json](./243316-downwordly.json) |
@@ -16425,7 +16409,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac is Back | 285298 | [285298-drac-is-back.json](./285298-drac-is-back.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
-| Dracamar | 348061 | [348061-dracamar.json](./348061-dracamar.json) |
 | Dracanea: The Ragtag Regalia | 422129 | [422129-dracanea-the-ragtag-regalia.json](./422129-dracanea-the-ragtag-regalia.json) |
 | Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
 | Draco | 130248 | [130248-draco.json](./130248-draco.json) |
@@ -17112,7 +17095,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hunters | 269734 | [269734-dragon-hunters.json](./269734-dragon-hunters.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
 | Dragon Iris | 114231 | [114231-dragon-iris.json](./114231-dragon-iris.json) |
-| Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island | 217472 | [217472-dragon-island.json](./217472-dragon-island.json) |
 | Dragon Island | 220212 | [220212-dragon-island.json](./220212-dragon-island.json) |
 | Dragon Island Adventure | 294190 | [294190-dragon-island-adventure.json](./294190-dragon-island-adventure.json) |
@@ -17391,7 +17373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Song Tavern: Pumpkin Masquerade DLC | 375593 | [375593-dragon-song-tavern-pumpkin-masquerade-dlc.json](./375593-dragon-song-tavern-pumpkin-masquerade-dlc.json) |
 | Dragon Souls | 31864 | [31864-dragon-souls.json](./31864-dragon-souls.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
-| Dragon Spira | 386780 | [386780-dragon-spira.json](./386780-dragon-spira.json) |
 | Dragon Spirit | 218370 | [218370-dragon-spirit.json](./218370-dragon-spirit.json) |
 | Dragon Spirit: The New Legend | 17461 | [17461-dragon-spirit-the-new-legend.json](./17461-dragon-spirit-the-new-legend.json) |
 | Dragon Spirits | 127202 | [127202-dragon-spirits.json](./127202-dragon-spirits.json) |
@@ -21193,7 +21174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Computer Fantasy Game | 305446 | [305446-dungeons-and-dragons-computer-fantasy-game.json](./305446-dungeons-and-dragons-computer-fantasy-game.json) |
 | Dungeons & Dragons Computer Fantasy Game | 41426 | [41426-dungeons-and-dragons-computer-fantasy-game.json](./41426-dungeons-and-dragons-computer-fantasy-game.json) |
 | Dungeons & Dragons Fantasy Empires | 50454 | [50454-dungeons-and-dragons-fantasy-empires.json](./50454-dungeons-and-dragons-fantasy-empires.json) |
-| Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition | 348267 | [348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json](./348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
 | Dungeons & Dragons Online: Against the Slave Lords | 349770 | [349770-dungeons-and-dragons-online-against-the-slave-lords.json](./349770-dungeons-and-dragons-online-against-the-slave-lords.json) |
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
