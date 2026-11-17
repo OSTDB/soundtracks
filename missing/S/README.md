@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakurairo Prism: Beyond the Bloom | 419611 | [419611-sakurairo-prism-beyond-the-bloom.json](./419611-sakurairo-prism-beyond-the-bloom.json) |
 | Sakurazaka Shouboutai | 137323 | [137323-sakurazaka-shouboutai.json](./137323-sakurazaka-shouboutai.json) |
 | Sakusaku Daigoutou Returns | 66313 | [66313-sakusaku-daigoutou-returns.json](./66313-sakusaku-daigoutou-returns.json) |
+| SakuSaku Witch | 425931 | [425931-sakusaku-witch.json](./425931-sakusaku-witch.json) |
 | Sakuya Izayoi Gives You Advice and Dabs: Nitori Kawashiro Offers You Advice in Exchange for Cucumbers and Eats the Cucumbers | 150236 | [150236-sakuya-izayoi-gives-you-advice-and-dabs-nitori-kawashiro-offers-you-advice-in-exchange-for-cucumbers-and-eats-the-cucumbers.json](./150236-sakuya-izayoi-gives-you-advice-and-dabs-nitori-kawashiro-offers-you-advice-in-exchange-for-cucumbers-and-eats-the-cucumbers.json) |
 | Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
 | Sakuya-san Crisis 2: The Linkage Of Servant Trial | 210553 | [210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json](./210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json) |
@@ -10692,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shortstop by the Sea | 411302 | [411302-shortstop-by-the-sea.json](./411302-shortstop-by-the-sea.json) |
 | Shoshin Test | 316866 | [316866-shoshin-test.json](./316866-shoshin-test.json) |
+| Shot | 425922 | [425922-shot.json](./425922-shot.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
 | Shot Block | 280056 | [280056-shot-block.json](./280056-shot-block.json) |
 | Shot Clock | 359303 | [359303-shot-clock.json](./359303-shot-clock.json) |
@@ -16999,6 +17001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Xenzia | 133872 | [133872-snake-xenzia.json](./133872-snake-xenzia.json) |
 | Snake-A-Roid | 377840 | [377840-snake-a-roid.json](./377840-snake-a-roid.json) |
 | Snake-a-roni | 230937 | [230937-snake-a-roni.json](./230937-snake-a-roni.json) |
+| Snake-Killer.io | 425941 | [425941-snake-killer-io.json](./425941-snake-killer-io.json) |
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake, snake, snake! | 100586 | [100586-snake-snake-snake.json](./100586-snake-snake-snake.json) |
 | Snake: Gridbreaker | 419187 | [419187-snake-gridbreaker.json](./419187-snake-gridbreaker.json) |
@@ -18735,6 +18738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Light | 54717 | [54717-soldier-of-light.json](./54717-soldier-of-light.json) |
 | Soldier of Steel | 22134 | [22134-soldier-of-steel.json](./22134-soldier-of-steel.json) |
 | Soldier of the Empire | 255611 | [255611-soldier-of-the-empire.json](./255611-soldier-of-the-empire.json) |
+| Soldier Offensive | 425919 | [425919-soldier-offensive.json](./425919-soldier-offensive.json) |
 | Soldier One | 366379 | [366379-soldier-one.json](./366379-soldier-one.json) |
 | Soldier Sortie: VR Agent 006 | 30613 | [30613-soldier-sortie-vr-agent-006.json](./30613-soldier-sortie-vr-agent-006.json) |
 | Soldier Summit Collection | 53630 | [53630-soldier-summit-collection.json](./53630-soldier-summit-collection.json) |
@@ -20847,6 +20851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
 | Soria | 182632 | [182632-soria.json](./182632-soria.json) |
+| SornHack: Reverse Engineering | 425960 | [425960-sornhack-reverse-engineering.json](./425960-sornhack-reverse-engineering.json) |
 | Soro: The Stolen Crystals | 325198 | [325198-soro-the-stolen-crystals.json](./325198-soro-the-stolen-crystals.json) |
 | Soroban Anzan Flash Anzan Kanzenban | 222472 | [222472-soroban-anzan-flash-anzan-kanzenban.json](./222472-soroban-anzan-flash-anzan-kanzenban.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
@@ -26993,6 +26998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stampede Racing Royale | 252849 | [252849-stampede-racing-royale.json](./252849-stampede-racing-royale.json) |
 | Stampede Run | 60471 | [60471-stampede-run.json](./60471-stampede-run.json) |
 | Stamperor! The Jester's Decree | 398803 | [398803-stamperor-the-jesters-decree.json](./398803-stamperor-the-jesters-decree.json) |
+| Stampers | 425939 | [425939-stampers.json](./425939-stampers.json) |
 | Stampholder Value | 392389 | [392389-stampholder-value.json](./392389-stampholder-value.json) |
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
@@ -38314,6 +38320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Tycoon | 55128 | [55128-supermarket-tycoon.json](./55128-supermarket-tycoon.json) |
 | Supermarket VR | 354906 | [354906-supermarket-vr.json](./354906-supermarket-vr.json) |
 | Supermarket VR | 99427 | [99427-supermarket-vr.json](./99427-supermarket-vr.json) |
+| Supermarket: Tidy Up! | 425953 | [425953-supermarket-tidy-up.json](./425953-supermarket-tidy-up.json) |
 | Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
 | Supermaze | 385915 | [385915-supermaze.json](./385915-supermaze.json) |
 | SuperMind | 86906 | [86906-supermind.json](./86906-supermind.json) |
