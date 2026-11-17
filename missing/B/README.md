@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babayka | 298005 | [298005-babayka.json](./298005-babayka.json) |
 | Babba Yagga: Woodboy | 189326 | [189326-babba-yagga-woodboy.json](./189326-babba-yagga-woodboy.json) |
 | Babbdi | 229631 | [229631-babbdi.json](./229631-babbdi.json) |
+| Babble Royale | 185718 | [185718-babble-royale.json](./185718-babble-royale.json) |
 | Babbling Brook | 351277 | [351277-babbling-brook.json](./351277-babbling-brook.json) |
 | Babe | 401206 | [401206-babe.json](./401206-babe.json) |
 | Babe | 56546 | [56546-babe.json](./56546-babe.json) |
@@ -13490,6 +13491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blupi Explorer | 133563 | [133563-blupi-explorer.json](./133563-blupi-explorer.json) |
 | Blupi's Travels | 133558 | [133558-blupis-travels.json](./133558-blupis-travels.json) |
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
+| Blupimania 2 | 182407 | [182407-blupimania-2.json](./182407-blupimania-2.json) |
 | Bluppo | 65626 | [65626-bluppo.json](./65626-bluppo.json) |
 | Blur | 3235 | [3235-blur.json](./3235-blur.json) |
 | Blur Overdrive | 322545 | [322545-blur-overdrive.json](./322545-blur-overdrive.json) |
