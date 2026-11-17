@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbageman | 276217 | [276217-garbageman.json](./276217-garbageman.json) |
 | Garbanzo Quest | 215874 | [215874-garbanzo-quest.json](./215874-garbanzo-quest.json) |
 | Garda | 181051 | [181051-garda.json](./181051-garda.json) |
+| Gardariki: Call of the Soul | 428252 | [428252-gardariki-call-of-the-soul.json](./428252-gardariki-call-of-the-soul.json) |
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
 | Garden | 230201 | [230201-garden.json](./230201-garden.json) |
 | Garden | 249417 | [249417-garden.json](./249417-garden.json) |
