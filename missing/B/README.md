@@ -7969,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Doors | 283992 | [283992-beyond-doors.json](./283992-beyond-doors.json) |
 | Beyond Dreams | 192681 | [192681-beyond-dreams.json](./192681-beyond-dreams.json) |
 | Beyond Eden | 37397 | [37397-beyond-eden.json](./37397-beyond-eden.json) |
+| Beyond Eden: Dear Edward | 161444 | [161444-beyond-eden-dear-edward.json](./161444-beyond-eden-dear-edward.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines 2 | 117082 | [117082-beyond-enemy-lines-2.json](./117082-beyond-enemy-lines-2.json) |
 | Beyond Enemy Lines 2 Online | 128112 | [128112-beyond-enemy-lines-2-online.json](./128112-beyond-enemy-lines-2-online.json) |
@@ -9200,6 +9201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BingoBango | 107462 | [107462-bingobango.json](./107462-bingobango.json) |
 | Bingone | 421987 | [421987-bingone.json](./421987-bingone.json) |
 | Bingus: My Beloved | 190888 | [190888-bingus-my-beloved.json](./190888-bingus-my-beloved.json) |
+| Bīngxītú Juàn | 162434 | [162434-bingxitu-juan.json](./162434-bingxitu-juan.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
 | Binky | 13401 | [13401-binky.json](./13401-binky.json) |
