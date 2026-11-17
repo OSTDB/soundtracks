@@ -6128,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Slash 2 | 216129 | [216129-beat-slash-2.json](./216129-beat-slash-2.json) |
 | Beat Slicer | 410273 | [410273-beat-slicer.json](./410273-beat-slicer.json) |
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
+| Beat Sneak Bandit | 6280 | [6280-beat-sneak-bandit.json](./6280-beat-sneak-bandit.json) |
 | Beat Souls | 149031 | [149031-beat-souls.json](./149031-beat-souls.json) |
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
 | Beat Sports | 59835 | [59835-beat-sports.json](./59835-beat-sports.json) |
@@ -17287,6 +17288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
 | Breakbox | 390349 | [390349-breakbox.json](./390349-breakbox.json) |
 | BreakClassic | 92732 | [92732-breakclassic.json](./92732-breakclassic.json) |
+| Breakdance | 13887 | [13887-breakdance.json](./13887-breakdance.json) |
 | Breakdown | 195948 | [195948-breakdown.json](./195948-breakdown.json) |
 | Breakdown | 46896 | [46896-breakdown.json](./46896-breakdown.json) |
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
@@ -19197,6 +19199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
 | Buff Studio Bundle | 335609 | [335609-buff-studio-bundle.json](./335609-buff-studio-bundle.json) |
 | Buffalo Bill's Wild West Show | 12284 | [12284-buffalo-bills-wild-west-show.json](./12284-buffalo-bills-wild-west-show.json) |
+| Buffalo Roundup | 13888 | [13888-buffalo-roundup.json](./13888-buffalo-roundup.json) |
 | Buffers Evolution | 37530 | [37530-buffers-evolution.json](./37530-buffers-evolution.json) |
 | Buffet Blast | 185269 | [185269-buffet-blast.json](./185269-buffet-blast.json) |
 | Buffet Boss | 231975 | [231975-buffet-boss.json](./231975-buffet-boss.json) |
@@ -19610,6 +19613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull's Eye Barbecue Sauce | 218933 | [218933-bulls-eye-barbecue-sauce.json](./218933-bulls-eye-barbecue-sauce.json) |
 | Bull3000VRTS | 369649 | [369649-bull3000vrts.json](./369649-bull3000vrts.json) |
 | Bullcrap! | 215022 | [215022-bullcrap.json](./215022-bullcrap.json) |
+| Bulldog | 13889 | [13889-bulldog.json](./13889-bulldog.json) |
 | Bulldozer | 116949 | [116949-bulldozer.json](./116949-bulldozer.json) |
 | Bulldozer | 172345 | [172345-bulldozer.json](./172345-bulldozer.json) |
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
