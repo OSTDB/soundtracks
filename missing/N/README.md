@@ -167,7 +167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Nair | 151951 | [151951-nair.json](./151951-nair.json) |
 | Nair Pico | 364265 | [364265-nair-pico.json](./364265-nair-pico.json) |
-| Nairi: Rising Tide | 161468 | [161468-nairi-rising-tide.json](./161468-nairi-rising-tide.json) |
 | Nairi: Tower of Shirin | 57192 | [57192-nairi-tower-of-shirin.json](./57192-nairi-tower-of-shirin.json) |
 | Nairi: Tower of Shirin - Deluxe Edition | 226527 | [226527-nairi-tower-of-shirin-deluxe-edition.json](./226527-nairi-tower-of-shirin-deluxe-edition.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
@@ -303,12 +302,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
 | Namco Museum 50th Anniversary | 9889 | [9889-namco-museum-50th-anniversary.json](./9889-namco-museum-50th-anniversary.json) |
 | Namco Museum 64 | 47678 | [47678-namco-museum-64.json](./47678-namco-museum-64.json) |
-| Namco Museum Arcade Pac | 104790 | [104790-namco-museum-arcade-pac.json](./104790-namco-museum-arcade-pac.json) |
 | Namco Museum Archives Volume 1 | 135173 | [135173-namco-museum-archives-volume-1.json](./135173-namco-museum-archives-volume-1.json) |
 | Namco Museum Archives Volume 2 | 135174 | [135174-namco-museum-archives-volume-2.json](./135174-namco-museum-archives-volume-2.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
-| Namco Museum Collection 1 | 130689 | [130689-namco-museum-collection-1.json](./130689-namco-museum-collection-1.json) |
-| Namco Museum Collection 2 | 130690 | [130690-namco-museum-collection-2.json](./130690-namco-museum-collection-2.json) |
 | Namco Museum DS | 2646 | [2646-namco-museum-ds.json](./2646-namco-museum-ds.json) |
 | Namco Museum Encore | 44785 | [44785-namco-museum-encore.json](./44785-namco-museum-encore.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
@@ -516,7 +512,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Squadron | 391986 | [391986-nano-squadron.json](./391986-nano-squadron.json) |
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
 | Nano4x: Supremacy | 176618 | [176618-nano4x-supremacy.json](./176618-nano4x-supremacy.json) |
-| NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
 | Nanobotic | 111962 | [111962-nanobotic.json](./111962-nanobotic.json) |
 | Nanobots | 143456 | [143456-nanobots.json](./143456-nanobots.json) |
 | Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
@@ -722,7 +717,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrow Woods Hotel | 321834 | [321834-narrow-woods-hotel.json](./321834-narrow-woods-hotel.json) |
 | Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
 | Narrowboat Simulator | 142793 | [142793-narrowboat-simulator.json](./142793-narrowboat-simulator.json) |
-| Narrows | 101371 | [101371-narrows.json](./101371-narrows.json) |
 | Narru: the Forgotten Lands | 204598 | [204598-narru-the-forgotten-lands.json](./204598-narru-the-forgotten-lands.json) |
 | Narsillion: Leithian Another Story | 63079 | [63079-narsillion-leithian-another-story.json](./63079-narsillion-leithian-another-story.json) |
 | Naru Kiss | 108143 | [108143-naru-kiss.json](./108143-naru-kiss.json) |
@@ -839,7 +833,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Ninja Heroes 2 - The Phantom Fortress | 19660 | [19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json](./19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json) |
 | Naruto: Ultimate Ninja Storm | 19635 | [19635-naruto-ultimate-ninja-storm.json](./19635-naruto-ultimate-ninja-storm.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
-| Naruto: Ultimate Ninja Storm Legacy | 104784 | [104784-naruto-ultimate-ninja-storm-legacy.json](./104784-naruto-ultimate-ninja-storm-legacy.json) |
 | Naruto: Ultimate Ninja Storm+ | 398845 | [398845-naruto-ultimate-ninja-storm.json](./398845-naruto-ultimate-ninja-storm.json) |
 | Naruto: Uzumaki Chronicles | 20602 | [20602-naruto-uzumaki-chronicles.json](./20602-naruto-uzumaki-chronicles.json) |
 | Naruto: Uzumaki Chronicles 2 | 21231 | [21231-naruto-uzumaki-chronicles-2.json](./21231-naruto-uzumaki-chronicles-2.json) |
@@ -866,7 +859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
 | NASCAR 2005: Chase for the Cup | 4027 | [4027-nascar-2005-chase-for-the-cup.json](./4027-nascar-2005-chase-for-the-cup.json) |
 | NASCAR 2011: The Game | 5051 | [5051-nascar-2011-the-game.json](./5051-nascar-2011-the-game.json) |
-| NASCAR 21: Ignition | 170048 | [170048-nascar-21-ignition.json](./170048-nascar-21-ignition.json) |
 | NASCAR 21: Ignition - 2022 Patriotic Pack | 263280 | [263280-nascar-21-ignition-2022-patriotic-pack.json](./263280-nascar-21-ignition-2022-patriotic-pack.json) |
 | NASCAR 21: Ignition - 2022 Playoff Pack | 263288 | [263288-nascar-21-ignition-2022-playoff-pack.json](./263288-nascar-21-ignition-2022-playoff-pack.json) |
 | NASCAR 21: Ignition - 2022 Throwback Pack | 263314 | [263314-nascar-21-ignition-2022-throwback-pack.json](./263314-nascar-21-ignition-2022-throwback-pack.json) |
@@ -951,7 +943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nash Racing: 70 Seconds Left | 367163 | [367163-nash-racing-70-seconds-left.json](./367163-nash-racing-70-seconds-left.json) |
 | Nash Racing: Battle | 294069 | [294069-nash-racing-battle.json](./294069-nash-racing-battle.json) |
 | Nash Racing: Pursuit | 226031 | [226031-nash-racing-pursuit.json](./226031-nash-racing-pursuit.json) |
-| NashBored | 113449 | [113449-nashbored.json](./113449-nashbored.json) |
 | Nashi-jiru Busha! Funasshi vs. Dragons | 222481 | [222481-nashi-jiru-busha-funasshi-vs-dragons.json](./222481-nashi-jiru-busha-funasshi-vs-dragons.json) |
 | Nashijiru Action! Funassyi no Yukai na Ohanassyi | 222508 | [222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json](./222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json) |
 | NASL Soccer | 5688 | [5688-nasl-soccer.json](./5688-nasl-soccer.json) |
@@ -965,7 +956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
 | Nasty Neighbors: No Picnic for Celebrity | 23194 | [23194-nasty-neighbors-no-picnic-for-celebrity.json](./23194-nasty-neighbors-no-picnic-for-celebrity.json) |
 | Nasty Nines | 103843 | [103843-nasty-nines.json](./103843-nasty-nines.json) |
-| Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nasty Zombies | 290063 | [290063-nasty-zombies.json](./290063-nasty-zombies.json) |
 | Nasu Pinball | 225438 | [225438-nasu-pinball.json](./225438-nasu-pinball.json) |
@@ -1007,7 +997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Lampoon's University Tycoon | 62507 | [62507-national-lampoons-university-tycoon.json](./62507-national-lampoons-university-tycoon.json) |
 | National Machine | 103451 | [103451-national-machine.json](./103451-national-machine.json) |
 | National Ministox - The Official Game | 105808 | [105808-national-ministox-the-official-game.json](./105808-national-ministox-the-official-game.json) |
-| National Park Girls | 116070 | [116070-national-park-girls.json](./116070-national-park-girls.json) |
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
 | National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
@@ -1167,7 +1156,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature is Hungry | 247137 | [247137-nature-is-hungry.json](./247137-nature-is-hungry.json) |
 | Nature Jurassic Module | 377998 | [377998-nature-jurassic-module.json](./377998-nature-jurassic-module.json) |
 | Nature Mahjong | 255921 | [255921-nature-mahjong.json](./255921-nature-mahjong.json) |
-| Nature Matters | 149299 | [149299-nature-matters.json](./149299-nature-matters.json) |
 | Nature Minds | 380681 | [380681-nature-minds.json](./380681-nature-minds.json) |
 | Nature Moms | 82168 | [82168-nature-moms.json](./82168-nature-moms.json) |
 | Nature of Dread | 403683 | [403683-nature-of-dread.json](./403683-nature-of-dread.json) |
@@ -1342,7 +1330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
 | Naxat Stadium | 37670 | [37670-naxat-stadium.json](./37670-naxat-stadium.json) |
 | Naxette a disparu ! | 411941 | [411941-naxette-a-disparu.json](./411941-naxette-a-disparu.json) |
-| Naxia | 117540 | [117540-naxia.json](./117540-naxia.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
 | Naya's Quest | 62911 | [62911-nayas-quest.json](./62911-nayas-quest.json) |
 | Nayati River | 165404 | [165404-nayati-river.json](./165404-nayati-river.json) |
@@ -1528,7 +1515,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Inside Drive 2003 | 47358 | [47358-nba-inside-drive-2003.json](./47358-nba-inside-drive-2003.json) |
 | NBA Inside Drive 2004 | 24124 | [24124-nba-inside-drive-2004.json](./24124-nba-inside-drive-2004.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
-| NBA Jam | 256816 | [256816-nba-jam.json](./256816-nba-jam.json) |
 | NBA Jam | 259878 | [259878-nba-jam.json](./259878-nba-jam.json) |
 | NBA Jam | 259879 | [259879-nba-jam.json](./259879-nba-jam.json) |
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
@@ -1751,7 +1737,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebs | 159183 | [159183-nebs.json](./159183-nebs.json) |
 | Nebs 'n Debs | 134460 | [134460-nebs-n-debs.json](./134460-nebs-n-debs.json) |
 | Nebs' Island Adventure | 349496 | [349496-nebs-island-adventure.json](./349496-nebs-island-adventure.json) |
-| Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebuchadnezzar: The Adventures of Sargon | 226718 | [226718-nebuchadnezzar-the-adventures-of-sargon.json](./226718-nebuchadnezzar-the-adventures-of-sargon.json) |
 | Nebula | 179786 | [179786-nebula.json](./179786-nebula.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
@@ -1910,7 +1895,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necron: Aptor Quest | 138853 | [138853-necron-aptor-quest.json](./138853-necron-aptor-quest.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
-| Necronator: Dead Wrong | 122064 | [122064-necronator-dead-wrong.json](./122064-necronator-dead-wrong.json) |
 | NecroNegate | 337162 | [337162-necronegate.json](./337162-necronegate.json) |
 | NecroNightmare | 191581 | [191581-necronightmare.json](./191581-necronightmare.json) |
 | Necronom | 12698 | [12698-necronom.json](./12698-necronom.json) |
@@ -1988,7 +1972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neebota: Zeebo's Awakening | 164090 | [164090-neebota-zeebos-awakening.json](./164090-neebota-zeebos-awakening.json) |
 | Need 4 Meat | 317537 | [317537-need-4-meat.json](./317537-need-4-meat.json) |
 | Need 4e+9 Speed | 176599 | [176599-need-4e-9-speed.json](./176599-need-4e-9-speed.json) |
-| Need a packet? | 103475 | [103475-need-a-packet.json](./103475-need-a-packet.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
 | Need For Drink | 29014 | [29014-need-for-drink.json](./29014-need-for-drink.json) |
@@ -2083,7 +2066,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 288014 | [288014-need-for-speed-undercover.json](./288014-need-for-speed-undercover.json) |
 | Need for Speed: Underground 2 | 229854 | [229854-need-for-speed-underground-2.json](./229854-need-for-speed-underground-2.json) |
-| Need for Speed: Underground 2 | 242997 | [242997-need-for-speed-underground-2.json](./242997-need-for-speed-underground-2.json) |
 | Need for Speed: Underground Rivals | 22509 | [22509-need-for-speed-underground-rivals.json](./22509-need-for-speed-underground-rivals.json) |
 | Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
 | Need for Spirit Drink & Drive Simulator | 272420 | [272420-need-for-spirit-drink-and-drive-simulator.json](./272420-need-for-spirit-drink-and-drive-simulator.json) |
@@ -2336,8 +2318,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-Nin ExHeart | 28488 | [28488-neko-nin-exheart.json](./28488-neko-nin-exheart.json) |
 | Neko-Nin ExHeart +Plus Nachi | 75322 | [75322-neko-nin-exheart-plus-nachi.json](./75322-neko-nin-exheart-plus-nachi.json) |
 | Neko-Nin ExHeart +Plus Saiha | 75913 | [75913-neko-nin-exheart-plus-saiha.json](./75913-neko-nin-exheart-plus-saiha.json) |
-| Neko-Nin ExHeart 2 Love +Plus | 116863 | [116863-neko-nin-exheart-2-love-plus.json](./116863-neko-nin-exheart-2-love-plus.json) |
-| Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-nin ExHeart Spin! | 255547 | [255547-neko-nin-exheart-spin.json](./255547-neko-nin-exheart-spin.json) |
 | Neko-nin ExHeart Spin! | 255548 | [255548-neko-nin-exheart-spin.json](./255548-neko-nin-exheart-spin.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
@@ -2377,7 +2357,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
 | Nekomew's Nightmares | 212701 | [212701-nekomews-nightmares.json](./212701-nekomews-nightmares.json) |
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
-| NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
 | Nekomimi Days: 365 Days With You | 380167 | [380167-nekomimi-days-365-days-with-you.json](./380167-nekomimi-days-365-days-with-you.json) |
 | Nekomimi Destruction | 372712 | [372712-nekomimi-destruction.json](./372712-nekomimi-destruction.json) |
 | Nekomimi Nikki | 368053 | [368053-nekomimi-nikki.json](./368053-nekomimi-nikki.json) |
@@ -2556,7 +2535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Mr. Do! | 39540 | [39540-neo-mr-do.json](./39540-neo-mr-do.json) |
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
-| Neo Neo | 103188 | [103188-neo-neo.json](./103188-neo-neo.json) |
 | Neo no Panepon | 109447 | [109447-neo-no-panepon.json](./109447-neo-no-panepon.json) |
 | Neo Pang | 75495 | [75495-neo-pang.json](./75495-neo-pang.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
@@ -2831,7 +2809,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Nights Pinball | 165765 | [165765-neon-nights-pinball.json](./165765-neon-nights-pinball.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
 | Neon Noir | 226001 | [226001-neon-noir.json](./226001-neon-noir.json) |
-| Neon Noodles: Cyberpunk Kitchen Automation | 121808 | [121808-neon-noodles-cyberpunk-kitchen-automation.json](./121808-neon-noodles-cyberpunk-kitchen-automation.json) |
 | Neon Nova | 286952 | [286952-neon-nova.json](./286952-neon-nova.json) |
 | Neon Null | 406359 | [406359-neon-null.json](./406359-neon-null.json) |
 | Neon Odyssey | 279409 | [279409-neon-odyssey.json](./279409-neon-odyssey.json) |
@@ -3057,7 +3034,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia reVerse: Day One Edition | 142370 | [142370-neptunia-reverse-day-one-edition.json](./142370-neptunia-reverse-day-one-edition.json) |
 | Neptunia Riders vs. Dogoos | 317845 | [317845-neptunia-riders-vs-dogoos.json](./317845-neptunia-riders-vs-dogoos.json) |
 | Neptunia Riders vs. Dogoos: Deluxe Edition | 330203 | [330203-neptunia-riders-vs-dogoos-deluxe-edition.json](./330203-neptunia-riders-vs-dogoos-deluxe-edition.json) |
-| Neptunia Shooter | 117193 | [117193-neptunia-shooter.json](./117193-neptunia-shooter.json) |
 | Neptunia x Senran Kagura: Ninja Wars | 146337 | [146337-neptunia-x-senran-kagura-ninja-wars.json](./146337-neptunia-x-senran-kagura-ninja-wars.json) |
 | Neptunia x Senran Kagura: Ninja Wars - Day One Edition | 165097 | [165097-neptunia-x-senran-kagura-ninja-wars-day-one-edition.json](./165097-neptunia-x-senran-kagura-ninja-wars-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters - Calendar Edition | 218215 | [218215-neptunia-sisters-vs-sisters-calendar-edition.json](./218215-neptunia-sisters-vs-sisters-calendar-edition.json) |
@@ -3131,7 +3107,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nervous Brickdown | 9507 | [9507-nervous-brickdown.json](./9507-nervous-brickdown.json) |
 | Nervous Granny | 187170 | [187170-nervous-granny.json](./187170-nervous-granny.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
-| NES Classic Edition | 213361 | [213361-nes-classic-edition.json](./213361-nes-classic-edition.json) |
 | NES Classics | 328666 | [328666-nes-classics.json](./328666-nes-classics.json) |
 | NES Classics | 392737 | [392737-nes-classics.json](./392737-nes-classics.json) |
 | NES Open Tournament Golf | 3400 | [3400-nes-open-tournament-golf.json](./3400-nes-open-tournament-golf.json) |
@@ -3433,7 +3408,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Go Home | 120880 | [120880-never-go-home.json](./120880-never-go-home.json) |
 | Never Going Home | 142299 | [142299-never-going-home.json](./142299-never-going-home.json) |
 | Never Gone | 110211 | [110211-never-gone.json](./110211-never-gone.json) |
-| Never Grave: The Witch and the Curse | 250291 | [250291-never-grave-the-witch-and-the-curse.json](./250291-never-grave-the-witch-and-the-curse.json) |
 | Never Grave: The Witch and The Curse - Deluxe Edition | 393896 | [393896-never-grave-the-witch-and-the-curse-deluxe-edition.json](./393896-never-grave-the-witch-and-the-curse-deluxe-edition.json) |
 | Never Happened | 421829 | [421829-never-happened.json](./421829-never-happened.json) |
 | Never Have I Ever | 128806 | [128806-never-have-i-ever.json](./128806-never-have-i-ever.json) |
@@ -4010,7 +3984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton | 113932 | [113932-newton.json](./113932-newton.json) |
 | Newton | 324251 | [324251-newton.json](./324251-newton.json) |
 | Newton / Apple Tree | 312263 | [312263-newton-apple-tree.json](./312263-newton-apple-tree.json) |
-| Newton and the Apple Tree | 102449 | [102449-newton-and-the-apple-tree.json](./102449-newton-and-the-apple-tree.json) |
 | Newton Coin | 334607 | [334607-newton-coin.json](./334607-newton-coin.json) |
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
 | Newton Museum - Kyouryuu Nendaiki Zenpen | 63961 | [63961-newton-museum-kyouryuu-nendaiki-zenpen.json](./63961-newton-museum-kyouryuu-nendaiki-zenpen.json) |
@@ -4441,7 +4414,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni no Kuni II: Revenant Kingdom - Premium Edition | 136328 | [136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json](./136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
-| Ni no Kuni II: Revenant Kingdom - The Prince's Edition | 150149 | [150149-ni-no-kuni-ii-revenant-kingdom-the-princes-edition.json](./150149-ni-no-kuni-ii-revenant-kingdom-the-princes-edition.json) |
 | Ni no Kuni: Cross Worlds | 125759 | [125759-ni-no-kuni-cross-worlds.json](./125759-ni-no-kuni-cross-worlds.json) |
 | Ni no Kuni: Daibouken Monsters | 27275 | [27275-ni-no-kuni-daibouken-monsters.json](./27275-ni-no-kuni-daibouken-monsters.json) |
 | Ni no Kuni: Dominion of the Dark Djinn | 18856 | [18856-ni-no-kuni-dominion-of-the-dark-djinn.json](./18856-ni-no-kuni-dominion-of-the-dark-djinn.json) |
@@ -4938,7 +4910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Reception | 331610 | [331610-night-reception.json](./331610-night-reception.json) |
 | Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
-| Night Reverie | 139598 | [139598-night-reverie.json](./139598-night-reverie.json) |
 | Night Road | 131837 | [131837-night-road.json](./131837-night-road.json) |
 | Night Rogue | 149142 | [149142-night-rogue.json](./149142-night-rogue.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
@@ -5881,7 +5852,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kunoichi | 169763 | [169763-ninja-kunoichi.json](./169763-ninja-kunoichi.json) |
 | Ninja Launcher | 230584 | [230584-ninja-launcher.json](./230584-ninja-launcher.json) |
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
-| Ninja Legends | 116922 | [116922-ninja-legends.json](./116922-ninja-legends.json) |
 | Ninja Lexx | 157436 | [157436-ninja-lexx.json](./157436-ninja-lexx.json) |
 | Ninja Maker | 286058 | [286058-ninja-maker.json](./286058-ninja-maker.json) |
 | Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
@@ -6143,7 +6113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Labo: Toy-Con 01 - Variety Kit | 85308 | [85308-nintendo-labo-toy-con-01-variety-kit.json](./85308-nintendo-labo-toy-con-01-variety-kit.json) |
 | Nintendo Labo: Toy-Con 02 - Robot Kit | 85307 | [85307-nintendo-labo-toy-con-02-robot-kit.json](./85307-nintendo-labo-toy-con-02-robot-kit.json) |
 | Nintendo Labo: Toy-Con 03 - Drive Kit | 221511 | [221511-nintendo-labo-toy-con-03-drive-kit.json](./221511-nintendo-labo-toy-con-03-drive-kit.json) |
-| Nintendo Labo: Toy-Con 03 - Vehicle Kit | 106288 | [106288-nintendo-labo-toy-con-03-vehicle-kit.json](./106288-nintendo-labo-toy-con-03-vehicle-kit.json) |
 | Nintendo Land | 2172 | [2172-nintendo-land.json](./2172-nintendo-land.json) |
 | Nintendo Mini Classic: Snoopy Tennis | 206367 | [206367-nintendo-mini-classic-snoopy-tennis.json](./206367-nintendo-mini-classic-snoopy-tennis.json) |
 | Nintendo Mini Classics: Carrera | 206372 | [206372-nintendo-mini-classics-carrera.json](./206372-nintendo-mini-classics-carrera.json) |
@@ -6201,7 +6170,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintengogo 13 Hex | 89850 | [89850-nintengogo-13-hex.json](./89850-nintengogo-13-hex.json) |
 | Ninth Day Memorial | 318721 | [318721-ninth-day-memorial.json](./318721-ninth-day-memorial.json) |
 | Ninth Hotel | 328189 | [328189-ninth-hotel.json](./328189-ninth-hotel.json) |
-| Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 2 Remastered: The Complete Edition | 143350 | [143350-nioh-2-remastered-the-complete-edition.json](./143350-nioh-2-remastered-the-complete-edition.json) |
 | Nioh 2 Season Pass | 140055 | [140055-nioh-2-season-pass.json](./140055-nioh-2-season-pass.json) |
@@ -6209,7 +6177,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh 2: Digital Deluxe Edition | 221056 | [221056-nioh-2-digital-deluxe-edition.json](./221056-nioh-2-digital-deluxe-edition.json) |
 | Nioh 2: Special Edition | 136139 | [136139-nioh-2-special-edition.json](./136139-nioh-2-special-edition.json) |
 | Nioh 2: The Complete Edition | 140972 | [140972-nioh-2-the-complete-edition.json](./140972-nioh-2-the-complete-edition.json) |
-| Nioh 2: The First Samurai | 140054 | [140054-nioh-2-the-first-samurai.json](./140054-nioh-2-the-first-samurai.json) |
 | Nioh 2: The Tengu's Disciple | 136497 | [136497-nioh-2-the-tengus-disciple.json](./136497-nioh-2-the-tengus-disciple.json) |
 | Nioh 3 Season Pass | 411636 | [411636-nioh-3-season-pass.json](./411636-nioh-3-season-pass.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
@@ -6226,7 +6193,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nip For Speed | 287281 | [287281-nip-for-speed.json](./287281-nip-for-speed.json) |
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
 | NIPA | 336643 | [336643-nipa.json](./336643-nipa.json) |
-| Niplheim's Hunter - Branded Azel | 112834 | [112834-niplheims-hunter-branded-azel.json](./112834-niplheims-hunter-branded-azel.json) |
 | Niplheim's Hunter: Branded Azel | 82732 | [82732-niplheims-hunter-branded-azel.json](./82732-niplheims-hunter-branded-azel.json) |
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
@@ -6245,7 +6211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Safes Inc. | 12703 | [12703-nippon-safes-inc.json](./12703-nippon-safes-inc.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
-| Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
 | Nira Oni | 122929 | [122929-nira-oni.json](./122929-nira-oni.json) |
 | Niramare Quest: Saving a World That Loves Hating Me | 390434 | [390434-niramare-quest-saving-a-world-that-loves-hating-me.json](./390434-niramare-quest-saving-a-world-that-loves-hating-me.json) |
@@ -6352,7 +6317,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NIV Bible & the 20 Lost Levels of Joshua | 70062 | [70062-niv-bible-and-the-20-lost-levels-of-joshua.json](./70062-niv-bible-and-the-20-lost-levels-of-joshua.json) |
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
-| Nivalis Nights | 203301 | [203301-nivalis-nights.json](./203301-nivalis-nights.json) |
 | Nivearum | 184183 | [184183-nivearum.json](./184183-nivearum.json) |
 | Niveil: Red Riding Hood story | 230467 | [230467-niveil-red-riding-hood-story.json](./230467-niveil-red-riding-hood-story.json) |
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
@@ -6564,7 +6528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
 | No Man's Sky: Next | 222778 | [222778-no-mans-sky-next.json](./222778-no-mans-sky-next.json) |
 | No Man's Sky: Next Generation | 221637 | [221637-no-mans-sky-next-generation.json](./221637-no-mans-sky-next-generation.json) |
-| No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
 | No Man's Sky: Orbital | 294064 | [294064-no-mans-sky-orbital.json](./294064-no-mans-sky-orbital.json) |
 | No Man's Sky: Origins | 221638 | [221638-no-mans-sky-origins.json](./221638-no-mans-sky-origins.json) |
@@ -6912,7 +6875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody Said It Was Easy | 175233 | [175233-nobody-said-it-was-easy.json](./175233-nobody-said-it-was-easy.json) |
 | Nobody Saves the World | 145089 | [145089-nobody-saves-the-world.json](./145089-nobody-saves-the-world.json) |
 | Nobody Saves the World + Frozen Hearth Bundle | 219470 | [219470-nobody-saves-the-world-frozen-hearth-bundle.json](./219470-nobody-saves-the-world-frozen-hearth-bundle.json) |
-| Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
 | Nobody Sleeps Tonight | 282812 | [282812-nobody-sleeps-tonight.json](./282812-nobody-sleeps-tonight.json) |
 | Nobody Told Me About ID | 251634 | [251634-nobody-told-me-about-id.json](./251634-nobody-told-me-about-id.json) |
 | Nobody: The Turnaround | 192027 | [192027-nobody-the-turnaround.json](./192027-nobody-the-turnaround.json) |
@@ -7940,7 +7902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight & Not Tonight 2 | 292922 | [292922-not-tonight-and-not-tonight-2.json](./292922-not-tonight-and-not-tonight-2.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
-| Not Tonight: Take Back Control Edition | 121156 | [121156-not-tonight-take-back-control-edition.json](./121156-not-tonight-take-back-control-edition.json) |
 | Not Treasure Hunter | 56141 | [56141-not-treasure-hunter.json](./56141-not-treasure-hunter.json) |
 | Not Turn | 404367 | [404367-not-turn.json](./404367-not-turn.json) |
 | Not Us | 394987 | [394987-not-us.json](./394987-not-us.json) |
@@ -8669,7 +8630,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numerix Math Game | 56760 | [56760-numerix-math-game.json](./56760-numerix-math-game.json) |
 | Numerology of Artifacts | 263143 | [263143-numerology-of-artifacts.json](./263143-numerology-of-artifacts.json) |
 | Numerous Ninjas | 409658 | [409658-numerous-ninjas.json](./409658-numerous-ninjas.json) |
-| Numgeon | 113059 | [113059-numgeon.json](./113059-numgeon.json) |
 | Numgrid | 92905 | [92905-numgrid.json](./92905-numgrid.json) |
 | Numiares: A Dark Tale | 420566 | [420566-numiares-a-dark-tale.json](./420566-numiares-a-dark-tale.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
@@ -8725,7 +8685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
 | Nurse Love Addiction | 32511 | [32511-nurse-love-addiction.json](./32511-nurse-love-addiction.json) |
 | Nurse Love Obsession | 131557 | [131557-nurse-love-obsession.json](./131557-nurse-love-obsession.json) |
-| Nurse Love Syndrome | 116660 | [116660-nurse-love-syndrome.json](./116660-nurse-love-syndrome.json) |
 | Nurse Me! | 297165 | [297165-nurse-me.json](./297165-nurse-me.json) |
 | Nurse Panic! | 323472 | [323472-nurse-panic.json](./323472-nurse-panic.json) |
 | Nurse Quest: Love Hurts! | 396429 | [396429-nurse-quest-love-hurts.json](./396429-nurse-quest-love-hurts.json) |
@@ -8811,7 +8770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyaa to Chuu no Rainbow Magic 2 | 287263 | [287263-nyaa-to-chuu-no-rainbow-magic-2.json](./287263-nyaa-to-chuu-no-rainbow-magic-2.json) |
 | Nyaa-kuza!! | 145756 | [145756-nyaa-kuza.json](./145756-nyaa-kuza.json) |
 | Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
-| Nyaf | 159484 | [159484-nyaf.json](./159484-nyaf.json) |
 | Nyakamon | 292902 | [292902-nyakamon.json](./292902-nyakamon.json) |
 | Nyakamon Adventures | 152159 | [152159-nyakamon-adventures.json](./152159-nyakamon-adventures.json) |
 | Nyakamon Runes | 294816 | [294816-nyakamon-runes.json](./294816-nyakamon-runes.json) |
