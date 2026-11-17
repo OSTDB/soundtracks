@@ -3870,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World Horizon | 114955 | [114955-new-world-horizon.json](./114955-new-world-horizon.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
 | New World: Aeternum | 305027 | [305027-new-world-aeternum.json](./305027-new-world-aeternum.json) |
+| New World: Aeternum - Deluxe Edition | 135959 | [135959-new-world-aeternum-deluxe-edition.json](./135959-new-world-aeternum-deluxe-edition.json) |
 | New World: Azoth Edition | 300754 | [300754-new-world-azoth-edition.json](./300754-new-world-azoth-edition.json) |
 | New World: Elysian Edition | 300755 | [300755-new-world-elysian-edition.json](./300755-new-world-elysian-edition.json) |
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
@@ -4427,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni Hao, Kai-Lan: Super Happy Day! | 230393 | [230393-ni-hao-kai-lan-super-happy-day.json](./230393-ni-hao-kai-lan-super-happy-day.json) |
 | Nǐ Jiùshì Zhǔbō? | 367705 | [367705-ni-jiushi-zhubo.json](./367705-ni-jiushi-zhubo.json) |
 | Ni Natte Kuremasen ka? | 424693 | [424693-ni-natte-kuremasen-ka.json](./424693-ni-natte-kuremasen-ka.json) |
+| Ni no Kuni I/II Compilation | 135968 | [135968-ni-no-kuni-i-ii-compilation.json](./135968-ni-no-kuni-i-ii-compilation.json) |
 | Ni no Kuni II: Revenant Kingdom - Adventure Pack | 154454 | [154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json](./154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json) |
 | Ni no Kuni II: Revenant Kingdom - Collector's Edition | 136358 | [136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json](./136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Day One Edition | 136325 | [136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json](./136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json) |
@@ -6427,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Death No Life | 425411 | [425411-no-death-no-life.json](./425411-no-death-no-life.json) |
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
 | No Delivery | 126150 | [126150-no-delivery.json](./126150-no-delivery.json) |
+| No Destination | 135941 | [135941-no-destination.json](./135941-no-destination.json) |
 | No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
 | No Ducks Given | 317707 | [317707-no-ducks-given.json](./317707-no-ducks-given.json) |
 | No Emotions | 180569 | [180569-no-emotions.json](./180569-no-emotions.json) |
