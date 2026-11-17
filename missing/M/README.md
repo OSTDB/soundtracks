@@ -6919,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
 | Mayan Prophecies: Blood Moon HD | 102501 | [102501-mayan-prophecies-blood-moon-hd.json](./102501-mayan-prophecies-blood-moon-hd.json) |
 | Mayan Prophecies: Cursed Island | 140187 | [140187-mayan-prophecies-cursed-island.json](./140187-mayan-prophecies-cursed-island.json) |
+| Mayan Prophecies: Cursed Island - Collector's Edition | 50757 | [50757-mayan-prophecies-cursed-island-collectors-edition.json](./50757-mayan-prophecies-cursed-island-collectors-edition.json) |
 | Mayan Prophecies: Ship of Spirits | 140188 | [140188-mayan-prophecies-ship-of-spirits.json](./140188-mayan-prophecies-ship-of-spirits.json) |
 | Mayan Prophecies: Ship of Spirits - Collector's Edition | 30005 | [30005-mayan-prophecies-ship-of-spirits-collectors-edition.json](./30005-mayan-prophecies-ship-of-spirits-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
@@ -12160,6 +12161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microgame Mosaic | 181450 | [181450-microgame-mosaic.json](./181450-microgame-mosaic.json) |
 | Microgames Jam Pack | 267222 | [267222-microgames-jam-pack.json](./267222-microgames-jam-pack.json) |
 | Microgames Jam Pak | 243987 | [243987-microgames-jam-pak.json](./243987-microgames-jam-pak.json) |
+| Microgammon SB | 46908 | [46908-microgammon-sb.json](./46908-microgammon-sb.json) |
 | MicroGo | 61359 | [61359-microgo.json](./61359-microgo.json) |
 | Microgons | 31248 | [31248-microgons.json](./31248-microgons.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
