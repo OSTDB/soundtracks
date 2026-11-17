@@ -2487,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wash the Cars | 338394 | [338394-wash-the-cars.json](./338394-wash-the-cars.json) |
 | Wash Your Hands | 179803 | [179803-wash-your-hands.json](./179803-wash-your-hands.json) |
 | Washed Up | 165801 | [165801-washed-up.json](./165801-washed-up.json) |
+| Washed Up Wizard | 109782 | [109782-washed-up-wizard.json](./109782-washed-up-wizard.json) |
 | Washed Up! | 104040 | [104040-washed-up.json](./104040-washed-up.json) |
 | Washed Upon A Murder | 288467 | [288467-washed-upon-a-murder.json](./288467-washed-upon-a-murder.json) |
 | Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
 | Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
 | Welcome to the Universe | 327523 | [327523-welcome-to-the-universe.json](./327523-welcome-to-the-universe.json) |
+| Welcome to the Untitled Game | 111080 | [111080-welcome-to-the-untitled-game.json](./111080-welcome-to-the-untitled-game.json) |
 | Welcome to the World of Nik and Kit | 230614 | [230614-welcome-to-the-world-of-nik-and-kit.json](./230614-welcome-to-the-world-of-nik-and-kit.json) |
 | Welcome to the World of Zippy the Circle: Visual Novel | 228764 | [228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json](./228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
