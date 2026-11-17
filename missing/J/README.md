@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenny's Adventures | 368218 | [368218-jennys-adventures.json](./368218-jennys-adventures.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jensen Strikes Back | 340984 | [340984-jensen-strikes-back.json](./340984-jensen-strikes-back.json) |
+| Jeon Woo-chi | 423476 | [423476-jeon-woo-chi.json](./423476-jeon-woo-chi.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
 | Jeopardy | 242735 | [242735-jeopardy.json](./242735-jeopardy.json) |
 | Jeopardy! | 131471 | [131471-jeopardy.json](./131471-jeopardy.json) |
