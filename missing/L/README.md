@@ -7704,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
 | Locked-Room Mystery: Hidden Truths in Everyday Life | 399657 | [399657-locked-room-mystery-hidden-truths-in-everyday-life.json](./399657-locked-room-mystery-hidden-truths-in-everyday-life.json) |
 | Lockehorn | 422665 | [422665-lockehorn.json](./422665-lockehorn.json) |
+| Locker of Death | 206861 | [206861-locker-of-death.json](./206861-locker-of-death.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
 | Lockheart Indigo | 121956 | [121956-lockheart-indigo.json](./121956-lockheart-indigo.json) |
