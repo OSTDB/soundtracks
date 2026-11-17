@@ -30801,7 +30801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
 | Storm in Desert | 29174 | [29174-storm-in-desert.json](./29174-storm-in-desert.json) |
-| Storm Lancers | 362635 | [362635-storm-lancers.json](./362635-storm-lancers.json) |
 | Storm Lover | 76133 | [76133-storm-lover.json](./76133-storm-lover.json) |
 | Storm Lover 2nd | 132071 | [132071-storm-lover-2nd.json](./132071-storm-lover-2nd.json) |
 | Storm Lover 2nd V | 132073 | [132073-storm-lover-2nd-v.json](./132073-storm-lover-2nd-v.json) |
