@@ -5096,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Head | 119601 | [119601-catch-the-head.json](./119601-catch-the-head.json) |
 | Catch the Kids | 111388 | [111388-catch-the-kids.json](./111388-catch-the-kids.json) |
 | Catch the Moths | 359429 | [359429-catch-the-moths.json](./359429-catch-the-moths.json) |
+| Catch the Octopus | 424150 | [424150-catch-the-octopus.json](./424150-catch-the-octopus.json) |
 | Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
 | Catch the Rhythm | 339790 | [339790-catch-the-rhythm.json](./339790-catch-the-rhythm.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
@@ -7418,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers at War | 52495 | [52495-checkers-at-war.json](./52495-checkers-at-war.json) |
 | Checkers Board Game | 88432 | [88432-checkers-board-game.json](./88432-checkers-board-game.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
+| Checkers Crown | 424103 | [424103-checkers-crown.json](./424103-checkers-crown.json) |
 | Checkers for Kids | 165210 | [165210-checkers-for-kids.json](./165210-checkers-for-kids.json) |
 | Checkers for Kids: Toy Box | 403407 | [403407-checkers-for-kids-toy-box.json](./403407-checkers-for-kids-toy-box.json) |
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
@@ -7828,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
 | Chess Minis | 232378 | [232378-chess-minis.json](./232378-chess-minis.json) |
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
+| Chess Moment | 424105 | [424105-chess-moment.json](./424105-chess-moment.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess Net | 71825 | [71825-chess-net.json](./71825-chess-net.json) |
 | Chess of Blades | 40847 | [40847-chess-of-blades.json](./40847-chess-of-blades.json) |
@@ -12373,6 +12376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
 | Clown Car vs. The War | 401381 | [401381-clown-car-vs-the-war.json](./401381-clown-car-vs-the-war.json) |
 | Clown For Speed | 205852 | [205852-clown-for-speed.json](./205852-clown-for-speed.json) |
+| Clown Hole | 424130 | [424130-clown-hole.json](./424130-clown-hole.json) |
 | Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
 | Clown In a House | 152685 | [152685-clown-in-a-house.json](./152685-clown-in-a-house.json) |
@@ -17917,6 +17921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
 | Coup | 241601 | [241601-coup.json](./241601-coup.json) |
 | Coup de Cup | 320101 | [320101-coup-de-cup.json](./320101-coup-de-cup.json) |
+| Coup de Grass | 424110 | [424110-coup-de-grass.json](./424110-coup-de-grass.json) |
 | Coup de Koala | 357030 | [357030-coup-de-koala.json](./357030-coup-de-koala.json) |
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
 | Couple Breaker | 357125 | [357125-couple-breaker.json](./357125-couple-breaker.json) |
