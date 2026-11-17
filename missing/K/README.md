@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-FED: Dancing with Fire | 387928 | [387928-k-fed-dancing-with-fire.json](./387928-k-fed-dancing-with-fire.json) |
 | K-Jo Chases the Cheese | 321653 | [321653-k-jo-chases-the-cheese.json](./321653-k-jo-chases-the-cheese.json) |
 | K-Jo Chases the Cheese | 321655 | [321655-k-jo-chases-the-cheese.json](./321655-k-jo-chases-the-cheese.json) |
+| K-ON Galge!? Mio to Ritsu | 209051 | [209051-k-on-galge-mio-to-ritsu.json](./209051-k-on-galge-mio-to-ritsu.json) |
 | K-ON Galge!?: Mio to Yui | 206001 | [206001-k-on-galge-mio-to-yui.json](./206001-k-on-galge-mio-to-yui.json) |
 | K-ON! Houkago Live!! | 38485 | [38485-k-on-houkago-live.json](./38485-k-on-houkago-live.json) |
 | K-ON! Houkago Live!! HD Ver. | 206606 | [206606-k-on-houkago-live-hd-ver.json](./206606-k-on-houkago-live-hd-ver.json) |
@@ -2660,6 +2661,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
 | Kids Land | 270550 | [270550-kids-land.json](./270550-kids-land.json) |
 | Kids Learn | 105638 | [105638-kids-learn.json](./105638-kids-learn.json) |
+| Kids Learn 2 Think: A+ Edition | 210167 | [210167-kids-learn-2-think-a-edition.json](./210167-kids-learn-2-think-a-edition.json) |
+| Kids Learn and Play: Pets and Vets Bundle | 210166 | [210166-kids-learn-and-play-pets-and-vets-bundle.json](./210166-kids-learn-and-play-pets-and-vets-bundle.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
 | Kids Learn Bundle | 83682 | [83682-kids-learn-bundle.json](./83682-kids-learn-bundle.json) |
 | Kids Learn Math | 83683 | [83683-kids-learn-math.json](./83683-kids-learn-math.json) |
@@ -2734,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidz Sports: Ice Hockey | 51069 | [51069-kidz-sports-ice-hockey.json](./51069-kidz-sports-ice-hockey.json) |
 | Kiekko.tk | 133753 | [133753-kiekko-tk.json](./133753-kiekko-tk.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
+| Kien | 210160 | [210160-kien.json](./210160-kien.json) |
 | Kieta Ano Toki no Sakebi | 234833 | [234833-kieta-ano-toki-no-sakebi.json](./234833-kieta-ano-toki-no-sakebi.json) |
 | Kieta Princess | 41300 | [41300-kieta-princess.json](./41300-kieta-princess.json) |
 | Kieta Sekai to Tsuki to Shoujo: The World was Prayed by The Girl Living A Thousand Years | 97462 | [97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json](./97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json) |
@@ -4100,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings and Heroes | 18552 | [18552-kings-and-heroes.json](./18552-kings-and-heroes.json) |
 | Kings and Legends | 62791 | [62791-kings-and-legends.json](./62791-kings-and-legends.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
+| Kings and Queens: Solitaire Tripeaks | 207949 | [207949-kings-and-queens-solitaire-tripeaks.json](./207949-kings-and-queens-solitaire-tripeaks.json) |
 | Kings Call | 277450 | [277450-kings-call.json](./277450-kings-call.json) |
 | Kings Collection | 54150 | [54150-kings-collection.json](./54150-kings-collection.json) |
 | Kings Do Not Fall | 394484 | [394484-kings-do-not-fall.json](./394484-kings-do-not-fall.json) |
