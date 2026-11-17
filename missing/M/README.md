@@ -7735,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanism | 251718 | [251718-mechanism.json](./251718-mechanism.json) |
 | Mechanism | 68169 | [68169-mechanism.json](./68169-mechanism.json) |
 | Mechanismo | 324143 | [324143-mechanismo.json](./324143-mechanismo.json) |
+| Mechanisms of Mystery: A VR Escape Game | 104881 | [104881-mechanisms-of-mystery-a-vr-escape-game.json](./104881-mechanisms-of-mystery-a-vr-escape-game.json) |
 | Mechanita | 328100 | [328100-mechanita.json](./328100-mechanita.json) |
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
