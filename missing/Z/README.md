@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeppelin Rush | 348925 | [348925-zeppelin-rush.json](./348925-zeppelin-rush.json) |
 | Zeppelin VR | 74535 | [74535-zeppelin-vr.json](./74535-zeppelin-vr.json) |
 | Zeppelin: Escape Room | 190085 | [190085-zeppelin-escape-room.json](./190085-zeppelin-escape-room.json) |
+| Zeppelin: Giants of the Sky | 12490 | [12490-zeppelin-giants-of-the-sky.json](./12490-zeppelin-giants-of-the-sky.json) |
 | Zepton | 134742 | [134742-zepton.json](./134742-zepton.json) |
 | ZEQ2 Lite | 209072 | [209072-zeq2-lite.json](./209072-zeq2-lite.json) |
 | ZerA Imperan Intrigue | 97246 | [97246-zera-imperan-intrigue.json](./97246-zera-imperan-intrigue.json) |
@@ -1612,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zold:out | 188328 | [188328-zold-out.json](./188328-zold-out.json) |
 | Zoldout Global | 234420 | [234420-zoldout-global.json](./234420-zoldout-global.json) |
 | Zolg | 30529 | [30529-zolg.json](./30529-zolg.json) |
+| Zolge Station: Huga Waiwai Academy | 429883 | [429883-zolge-station-huga-waiwai-academy.json](./429883-zolge-station-huga-waiwai-academy.json) |
 | Zolo | 272658 | [272658-zolo.json](./272658-zolo.json) |
 | ZOLO: Zombies Only Live Once | 112823 | [112823-zolo-zombies-only-live-once.json](./112823-zolo-zombies-only-live-once.json) |
 | Zoltan's Curse | 302158 | [302158-zoltans-curse.json](./302158-zoltans-curse.json) |
