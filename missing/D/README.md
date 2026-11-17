@@ -8561,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
+| Destination Dungeon: Tomb of Repentance | 109795 | [109795-destination-dungeon-tomb-of-repentance.json](./109795-destination-dungeon-tomb-of-repentance.json) |
 | Destination Dungeons Crypts of Warthallow | 180045 | [180045-destination-dungeons-crypts-of-warthallow.json](./180045-destination-dungeons-crypts-of-warthallow.json) |
 | Destination Dungeons: Catacombs of Dreams | 103482 | [103482-destination-dungeons-catacombs-of-dreams.json](./103482-destination-dungeons-catacombs-of-dreams.json) |
 | Destination Earthstar | 22410 | [22410-destination-earthstar.json](./22410-destination-earthstar.json) |
