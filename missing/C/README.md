@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa VS | 49147 | [49147-captain-tsubasa-vs.json](./49147-captain-tsubasa-vs.json) |
 | Captain Tsubasa Zero: Miracle Shot | 124759 | [124759-captain-tsubasa-zero-miracle-shot.json](./124759-captain-tsubasa-zero-miracle-shot.json) |
 | Captain Tsubasa: Ace | 212434 | [212434-captain-tsubasa-ace.json](./212434-captain-tsubasa-ace.json) |
+| Captain Tsubasa: Aratanaru Densetsu Joshou | 65118 | [65118-captain-tsubasa-aratanaru-densetsu-joshou.json](./65118-captain-tsubasa-aratanaru-densetsu-joshou.json) |
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
 | Captain Tsubasa: Eikou no Kiseki | 49521 | [49521-captain-tsubasa-eikou-no-kiseki.json](./49521-captain-tsubasa-eikou-no-kiseki.json) |
 | Captain Tsubasa: Moeyo! Drive Shoot | 385801 | [385801-captain-tsubasa-moeyo-drive-shoot.json](./385801-captain-tsubasa-moeyo-drive-shoot.json) |
@@ -3929,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Cast | 193630 | [193630-cast.json](./193630-cast.json) |
 | Cast 'n' Blast | 318564 | [318564-cast-n-blast.json](./318564-cast-n-blast.json) |
+| Cast & Conquer | 61808 | [61808-cast-and-conquer.json](./61808-cast-and-conquer.json) |
 | Cast & Spell | 344066 | [344066-cast-and-spell.json](./344066-cast-and-spell.json) |
 | Cast Ashore | 152815 | [152815-cast-ashore.json](./152815-cast-ashore.json) |
 | Cast Away | 105242 | [105242-cast-away.json](./105242-cast-away.json) |
@@ -11884,6 +11886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb The Backrooms | 354740 | [354740-climb-the-backrooms.json](./354740-climb-the-backrooms.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
+| Climb to the Top of the Castle | 65117 | [65117-climb-to-the-top-of-the-castle.json](./65117-climb-to-the-top-of-the-castle.json) |
 | Climb Up the Down | 158498 | [158498-climb-up-the-down.json](./158498-climb-up-the-down.json) |
 | Climb Up To The Sky | 303417 | [303417-climb-up-to-the-sky.json](./303417-climb-up-to-the-sky.json) |
 | Climb-It | 13499 | [13499-climb-it.json](./13499-climb-it.json) |
@@ -15675,6 +15678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest Online | 77718 | [77718-conquest-online.json](./77718-conquest-online.json) |
 | Conquest Reforged | 336835 | [336835-conquest-reforged.json](./336835-conquest-reforged.json) |
 | Conquest Tactics: Realm of Sin | 322448 | [322448-conquest-tactics-realm-of-sin.json](./322448-conquest-tactics-realm-of-sin.json) |
+| Conquest: Divide and Conquer | 66262 | [66262-conquest-divide-and-conquer.json](./66262-conquest-divide-and-conquer.json) |
 | Conquest: Frontier Wars | 11278 | [11278-conquest-frontier-wars.json](./11278-conquest-frontier-wars.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
