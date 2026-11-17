@@ -8570,6 +8570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Wailing Waters - Collector's Edition | 207552 | [207552-chimeras-wailing-waters-collectors-edition.json](./207552-chimeras-wailing-waters-collectors-edition.json) |
 | Chimeras: What Wishes May Come | 187906 | [187906-chimeras-what-wishes-may-come.json](./187906-chimeras-what-wishes-may-come.json) |
 | Chimeras: What Wishes May Come - Collector's Edition | 166813 | [166813-chimeras-what-wishes-may-come-collectors-edition.json](./166813-chimeras-what-wishes-may-come-collectors-edition.json) |
+| Chimes | 189081 | [189081-chimes.json](./189081-chimes.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimken | 338514 | [338514-chimken.json](./338514-chimken.json) |
 | Chimney Man | 319520 | [319520-chimney-man.json](./319520-chimney-man.json) |
@@ -19390,6 +19391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
 | Crazy Train | 41759 | [41759-crazy-train.json](./41759-crazy-train.json) |
 | Crazy Trip | 254813 | [254813-crazy-trip.json](./254813-crazy-trip.json) |
+| Crazy Truck | 189092 | [189092-crazy-truck.json](./189092-crazy-truck.json) |
 | Crazy Trucker | 104772 | [104772-crazy-trucker.json](./104772-crazy-trucker.json) |
 | Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
