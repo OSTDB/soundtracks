@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
 | Bandit | 372709 | [372709-bandit.json](./372709-bandit.json) |
 | Bandit | 379999 | [379999-bandit.json](./379999-bandit.json) |
+| Bandit | 421089 | [421089-bandit.json](./421089-bandit.json) |
 | Bandit | 69671 | [69671-bandit.json](./69671-bandit.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
 | Bandit Bites | 240185 | [240185-bandit-bites.json](./240185-bandit-bites.json) |
@@ -7768,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bet on Soldier: Blood Sport | 22511 | [22511-bet-on-soldier-blood-sport.json](./22511-bet-on-soldier-blood-sport.json) |
 | Bet Shop Simulator | 420196 | [420196-bet-shop-simulator.json](./420196-bet-shop-simulator.json) |
 | Bet Your Brain | 292456 | [292456-bet-your-brain.json](./292456-bet-your-brain.json) |
+| Beta Bar | 421088 | [421088-beta-bar.json](./421088-beta-bar.json) |
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
 | Beta Collexion | 80128 | [80128-beta-collexion.json](./80128-beta-collexion.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
@@ -10383,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mystery: Wujing | 330643 | [330643-black-mystery-wujing.json](./330643-black-mystery-wujing.json) |
 | Black Myth: Destiny Man | 320608 | [320608-black-myth-destiny-man.json](./320608-black-myth-destiny-man.json) |
 | Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
+| Black Myth: Wukong - Deluxe Edition | 421118 | [421118-black-myth-wukong-deluxe-edition.json](./421118-black-myth-wukong-deluxe-edition.json) |
 | Black Myth: Zhong Kui | 361900 | [361900-black-myth-zhong-kui.json](./361900-black-myth-zhong-kui.json) |
 | Black Navy War | 101719 | [101719-black-navy-war.json](./101719-black-navy-war.json) |
 | Black Noir | 133147 | [133147-black-noir.json](./133147-black-noir.json) |
@@ -15049,6 +15052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Rang'r | 40275 | [40275-boomer-rangr.json](./40275-boomer-rangr.json) |
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Slayers | 193587 | [193587-boomer-slayers.json](./193587-boomer-slayers.json) |
+| BoomER Ville Land | 421116 | [421116-boomer-ville-land.json](./421116-boomer-ville-land.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomer: Beyond Vanilla | 260500 | [260500-boomer-beyond-vanilla.json](./260500-boomer-beyond-vanilla.json) |
 | Boomer's Adventure in Asmik World | 7797 | [7797-boomers-adventure-in-asmik-world.json](./7797-boomers-adventure-in-asmik-world.json) |
