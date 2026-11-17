@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harakiri! Geisha Girls | 195377 | [195377-harakiri-geisha-girls.json](./195377-harakiri-geisha-girls.json) |
 | Harakuju Tantei Gakuen: Steel Wood | 58054 | [58054-harakuju-tantei-gakuen-steel-wood.json](./58054-harakuju-tantei-gakuen-steel-wood.json) |
 | Harald | 72347 | [72347-harald.json](./72347-harald.json) |
+| Harald Hårdtand: Kampen om de Rene Tænder | 71637 | [71637-harald-hardtand-kampen-om-de-rene-t-nder.json](./71637-harald-hardtand-kampen-om-de-rene-t-nder.json) |
 | Haram | 228947 | [228947-haram.json](./228947-haram.json) |
 | Haramatia | 116751 | [116751-haramatia.json](./116751-haramatia.json) |
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
