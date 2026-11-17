@@ -12842,7 +12842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodsucker Library | 184676 | [184676-bloodsucker-library.json](./184676-bloodsucker-library.json) |
 | Bloodsucking Blues | 184681 | [184681-bloodsucking-blues.json](./184681-bloodsucking-blues.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
-| Bloodthief | 260402 | [260402-bloodthief.json](./260402-bloodthief.json) |
 | Bloodthirsty Kingdom: Vampire War | 181308 | [181308-bloodthirsty-kingdom-vampire-war.json](./181308-bloodthirsty-kingdom-vampire-war.json) |
 | Bloodthirsty Sword | 373723 | [373723-bloodthirsty-sword.json](./373723-bloodthirsty-sword.json) |
 | BloodTrail | 113465 | [113465-bloodtrail.json](./113465-bloodtrail.json) |
