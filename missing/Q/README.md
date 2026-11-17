@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quetzalcoatl | 97758 | [97758-quetzalcoatl.json](./97758-quetzalcoatl.json) |
 | Quetzi | 300816 | [300816-quetzi.json](./300816-quetzi.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
+| Queue Simulator | 183629 | [183629-queue-simulator.json](./183629-queue-simulator.json) |
 | Queue Simulator | 276715 | [276715-queue-simulator.json](./276715-queue-simulator.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
 | Queueue | 404162 | [404162-queueue.json](./404162-queueue.json) |
