@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PAL: Shinken Densetsu | 166517 | [166517-pal-shinken-densetsu.json](./166517-pal-shinken-densetsu.json) |
 | Palabras en inglés para aprender en la primaria | 415393 | [415393-palabras-en-ingles-para-aprender-en-la-primaria.json](./415393-palabras-en-ingles-para-aprender-en-la-primaria.json) |
 | Palace Charitas | 273142 | [273142-palace-charitas.json](./273142-palace-charitas.json) |
+| Palace in Thunderland | 25248 | [25248-palace-in-thunderland.json](./25248-palace-in-thunderland.json) |
 | Palace Jam 1 | 343389 | [343389-palace-jam-1.json](./343389-palace-jam-1.json) |
 | Palace of a Thousand Curses | 328017 | [328017-palace-of-a-thousand-curses.json](./328017-palace-of-a-thousand-curses.json) |
 | Palace of Cards | 81384 | [81384-palace-of-cards.json](./81384-palace-of-cards.json) |
@@ -15552,6 +15553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powermount | 286910 | [286910-powermount.json](./286910-powermount.json) |
 | Powernaut 2 | 172451 | [172451-powernaut-2.json](./172451-powernaut-2.json) |
 | Powernaut Decay | 280156 | [280156-powernaut-decay.json](./280156-powernaut-decay.json) |
+| Powernaut Vangardt | 29288 | [29288-powernaut-vangardt.json](./29288-powernaut-vangardt.json) |
 | Powernode | 115922 | [115922-powernode.json](./115922-powernode.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
