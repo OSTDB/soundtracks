@@ -2901,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Castle | 52484 | [52484-cardboard-castle.json](./52484-cardboard-castle.json) |
 | Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
 | Cardboard Clash | 125904 | [125904-cardboard-clash.json](./125904-cardboard-clash.json) |
+| Cardboard Conquest | 427081 | [427081-cardboard-conquest.json](./427081-cardboard-conquest.json) |
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
 | Cardboard Fighter | 395370 | [395370-cardboard-fighter.json](./395370-cardboard-fighter.json) |
 | Cardboard Fish | 268311 | [268311-cardboard-fish.json](./268311-cardboard-fish.json) |
@@ -4357,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Judgment | 1142 | [1142-castlevania-judgment.json](./1142-castlevania-judgment.json) |
 | Castlevania Legends | 1129 | [1129-castlevania-legends.json](./1129-castlevania-legends.json) |
 | Castlevania Puzzle: Encore of the Night | 1148 | [1148-castlevania-puzzle-encore-of-the-night.json](./1148-castlevania-puzzle-encore-of-the-night.json) |
+| Castlevania Remembrance | 427093 | [427093-castlevania-remembrance.json](./427093-castlevania-remembrance.json) |
 | Castlevania Requiem: Symphony of the Night & Rondo of Blood | 109594 | [109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json](./109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json) |
 | Castlevania Retold II | 222975 | [222975-castlevania-retold-ii.json](./222975-castlevania-retold-ii.json) |
 | Castlevania ReVamped | 299108 | [299108-castlevania-revamped.json](./299108-castlevania-revamped.json) |
@@ -5287,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnip Cosmos | 403294 | [403294-catnip-cosmos.json](./403294-catnip-cosmos.json) |
 | Catnip Dreams | 284795 | [284795-catnip-dreams.json](./284795-catnip-dreams.json) |
 | Catnip Wars | 415589 | [415589-catnip-wars.json](./415589-catnip-wars.json) |
+| Catnip Wars 2: Empires | 427122 | [427122-catnip-wars-2-empires.json](./427122-catnip-wars-2-empires.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato the Cat | 174940 | [174940-cato-the-cat.json](./174940-cato-the-cat.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
@@ -10828,6 +10831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
 | City Soarers | 183762 | [183762-city-soarers.json](./183762-city-soarers.json) |
 | City Soccer Challenge | 66956 | [66956-city-soccer-challenge.json](./66956-city-soccer-challenge.json) |
+| City Stacker | 427118 | [427118-city-stacker.json](./427118-city-stacker.json) |
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
 | City Story | 266457 | [266457-city-story.json](./266457-city-story.json) |
 | City Story | 80434 | [80434-city-story.json](./80434-city-story.json) |
@@ -12098,6 +12102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Knights | 270527 | [270527-clone-knights.json](./270527-clone-knights.json) |
 | Clone Ranger | 242714 | [242714-clone-ranger.json](./242714-clone-ranger.json) |
 | Clone War | 295290 | [295290-clone-war.json](./295290-clone-war.json) |
+| Clone XVI | 427086 | [427086-clone-xvi.json](./427086-clone-xvi.json) |
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clone.Optimize.Sacrifice. | 419398 | [419398-clone-optimize-sacrifice.json](./419398-clone-optimize-sacrifice.json) |
