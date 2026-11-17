@@ -1061,6 +1061,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeeps Offroad Simulator | 220045 | [220045-jeeps-offroad-simulator.json](./220045-jeeps-offroad-simulator.json) |
 | Jef | 128254 | [128254-jef.json](./128254-jef.json) |
 | Jefe, La Cuenta | 310679 | [310679-jefe-la-cuenta.json](./310679-jefe-la-cuenta.json) |
+| Jeff | 177587 | [177587-jeff.json](./177587-jeff.json) |
+| Jeff From Accounting | 177594 | [177594-jeff-from-accounting.json](./177594-jeff-from-accounting.json) |
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff Gordon's Du Pont Pacesetter Games | 198770 | [198770-jeff-gordons-du-pont-pacesetter-games.json](./198770-jeff-gordons-du-pont-pacesetter-games.json) |
 | Jeff Logar | 209804 | [209804-jeff-logar.json](./209804-jeff-logar.json) |
