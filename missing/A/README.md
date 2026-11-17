@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pirate Game About Digging for Treasure and Getting Drunk | 357003 | [357003-a-pirate-game-about-digging-for-treasure-and-getting-drunk.json](./357003-a-pirate-game-about-digging-for-treasure-and-getting-drunk.json) |
 | A Pirate Quartermaster | 120698 | [120698-a-pirate-quartermaster.json](./120698-a-pirate-quartermaster.json) |
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
+| A Pirate's Pleasure | 126685 | [126685-a-pirates-pleasure.json](./126685-a-pirates-pleasure.json) |
 | A Pirate's Pleasure: Bonus Stories | 193124 | [193124-a-pirates-pleasure-bonus-stories.json](./193124-a-pirates-pleasure-bonus-stories.json) |
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
 | A Pizza Delivery | 328195 | [328195-a-pizza-delivery.json](./328195-a-pizza-delivery.json) |
@@ -8393,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
 | Aliens: A Comic Book Adventure | 2169 | [2169-aliens-a-comic-book-adventure.json](./2169-aliens-a-comic-book-adventure.json) |
 | Aliens: Alien 2 | 36811 | [36811-aliens-alien-2.json](./36811-aliens-alien-2.json) |
+| Aliens: Armageddon | 124299 | [124299-aliens-armageddon.json](./124299-aliens-armageddon.json) |
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
 | Aliens: Colonial Marines - Bug Hunt | 118179 | [118179-aliens-colonial-marines-bug-hunt.json](./118179-aliens-colonial-marines-bug-hunt.json) |
 | Aliens: Colonial Marines - Collector's Edition | 118042 | [118042-aliens-colonial-marines-collectors-edition.json](./118042-aliens-colonial-marines-collectors-edition.json) |
@@ -15679,6 +15681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of cube | 105561 | [105561-arena-of-cube.json](./105561-arena-of-cube.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
+| Arena of Evolution: Red Tides | 123104 | [123104-arena-of-evolution-red-tides.json](./123104-arena-of-evolution-red-tides.json) |
 | Arena of Faith | 277259 | [277259-arena-of-faith.json](./277259-arena-of-faith.json) |
 | Arena of Fate | 6877 | [6877-arena-of-fate.json](./6877-arena-of-fate.json) |
 | Arena of Gods | 371940 | [371940-arena-of-gods.json](./371940-arena-of-gods.json) |
@@ -20216,6 +20219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Cell: Game of Life | 165735 | [165735-auto-cell-game-of-life.json](./165735-auto-cell-game-of-life.json) |
 | Auto Check Up Simulator | 265497 | [265497-auto-check-up-simulator.json](./265497-auto-check-up-simulator.json) |
 | Auto Chess | 119188 | [119188-auto-chess.json](./119188-auto-chess.json) |
+| Auto Chess Legends | 123105 | [123105-auto-chess-legends.json](./123105-auto-chess-legends.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
 | Auto Clicker Pro | 303902 | [303902-auto-clicker-pro.json](./303902-auto-clicker-pro.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
@@ -20334,6 +20338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automa | 395737 | [395737-automa.json](./395737-automa.json) |
 | Automachef | 107217 | [107217-automachef.json](./107217-automachef.json) |
 | Automakhan | 56303 | [56303-automakhan.json](./56303-automakhan.json) |
+| Automan | 123098 | [123098-automan.json](./123098-automan.json) |
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
 | Automata | 226109 | [226109-automata.json](./226109-automata.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
