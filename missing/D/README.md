@@ -19707,6 +19707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock | 202539 | [202539-drums-rock.json](./202539-drums-rock.json) |
 | Drums Rock: Alestorm - 'Keelhauled' | 322226 | [322226-drums-rock-alestorm-keelhauled.json](./322226-drums-rock-alestorm-keelhauled.json) |
 | Drums Rock: Alter Bridge - 'Silver Tongue' | 322232 | [322232-drums-rock-alter-bridge-silver-tongue.json](./322232-drums-rock-alter-bridge-silver-tongue.json) |
+| Drums Rock: Angus McSix - 'Laser-Shooting Dinosaur' | 419662 | [419662-drums-rock-angus-mcsix-laser-shooting-dinosaur.json](./419662-drums-rock-angus-mcsix-laser-shooting-dinosaur.json) |
 | Drums Rock: Angus McSix - 'Master of the Universe' | 322231 | [322231-drums-rock-angus-mcsix-master-of-the-universe.json](./322231-drums-rock-angus-mcsix-master-of-the-universe.json) |
 | Drums Rock: Battle Beast - 'King for a Day' | 296417 | [296417-drums-rock-battle-beast-king-for-a-day.json](./296417-drums-rock-battle-beast-king-for-a-day.json) |
 | Drums Rock: Blind Guardian - 'Blood Of The Elves' | 296418 | [296418-drums-rock-blind-guardian-blood-of-the-elves.json](./296418-drums-rock-blind-guardian-blood-of-the-elves.json) |
@@ -19724,13 +19725,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Green Day - 'The American Dream Is Killing Me' | 310376 | [310376-drums-rock-green-day-the-american-dream-is-killing-me.json](./310376-drums-rock-green-day-the-american-dream-is-killing-me.json) |
 | Drums Rock: HammerFall - 'Hearts On Fire' | 296421 | [296421-drums-rock-hammerfall-hearts-on-fire.json](./296421-drums-rock-hammerfall-hearts-on-fire.json) |
 | Drums Rock: Jinjer - 'Pisces' | 322224 | [322224-drums-rock-jinjer-pisces.json](./322224-drums-rock-jinjer-pisces.json) |
+| Drums Rock: Linkin Park - 'Faint' | 419665 | [419665-drums-rock-linkin-park-faint.json](./419665-drums-rock-linkin-park-faint.json) |
+| Drums Rock: Linkin Park - 'In the End' | 419664 | [419664-drums-rock-linkin-park-in-the-end.json](./419664-drums-rock-linkin-park-in-the-end.json) |
+| Drums Rock: Linkin Park - 'Numb' | 419667 | [419667-drums-rock-linkin-park-numb.json](./419667-drums-rock-linkin-park-numb.json) |
+| Drums Rock: Linkin Park - 'One Step Closer' | 419663 | [419663-drums-rock-linkin-park-one-step-closer.json](./419663-drums-rock-linkin-park-one-step-closer.json) |
+| Drums Rock: Linkin Park - 'Somewhere I Belong' | 419666 | [419666-drums-rock-linkin-park-somewhere-i-belong.json](./419666-drums-rock-linkin-park-somewhere-i-belong.json) |
 | Drums Rock: Lit - 'My Own Worst Enemy' | 322217 | [322217-drums-rock-lit-my-own-worst-enemy.json](./322217-drums-rock-lit-my-own-worst-enemy.json) |
 | Drums Rock: NorthTale - 'Higher' | 296419 | [296419-drums-rock-northtale-higher.json](./296419-drums-rock-northtale-higher.json) |
 | Drums Rock: Northward - 'While Love Died' | 322229 | [322229-drums-rock-northward-while-love-died.json](./322229-drums-rock-northward-while-love-died.json) |
 | Drums Rock: Pantera - '5 Minutes Alone' | 310379 | [310379-drums-rock-pantera-5-minutes-alone.json](./310379-drums-rock-pantera-5-minutes-alone.json) |
 | Drums Rock: Pantera - 'Walk' | 310381 | [310381-drums-rock-pantera-walk.json](./310381-drums-rock-pantera-walk.json) |
 | Drums Rock: Pantera x Disturbed Music Pack | 306949 | [306949-drums-rock-pantera-x-disturbed-music-pack.json](./306949-drums-rock-pantera-x-disturbed-music-pack.json) |
+| Drums Rock: Payday 3 - 'Da Capo' | 419657 | [419657-drums-rock-payday-3-da-capo.json](./419657-drums-rock-payday-3-da-capo.json) |
+| Drums Rock: Payday 3 - 'No Rest for the Wicked' | 419658 | [419658-drums-rock-payday-3-no-rest-for-the-wicked.json](./419658-drums-rock-payday-3-no-rest-for-the-wicked.json) |
 | Drums Rock: Powerwolf - 'Army of the Night' | 322225 | [322225-drums-rock-powerwolf-army-of-the-night.json](./322225-drums-rock-powerwolf-army-of-the-night.json) |
+| Drums Rock: Powerwolf - 'Sainted by The Storm' | 419660 | [419660-drums-rock-powerwolf-sainted-by-the-storm.json](./419660-drums-rock-powerwolf-sainted-by-the-storm.json) |
+| Drums Rock: Samurai - 'A Like Supreme' | 419671 | [419671-drums-rock-samurai-a-like-supreme.json](./419671-drums-rock-samurai-a-like-supreme.json) |
+| Drums Rock: Samurai - 'Chippin’ In' | 419668 | [419668-drums-rock-samurai-chippin-in.json](./419668-drums-rock-samurai-chippin-in.json) |
+| Drums Rock: Samurai - 'Never Fade Away' | 419669 | [419669-drums-rock-samurai-never-fade-away.json](./419669-drums-rock-samurai-never-fade-away.json) |
+| Drums Rock: Samurai - 'The Ballad of Buck Ravers' | 419670 | [419670-drums-rock-samurai-the-ballad-of-buck-ravers.json](./419670-drums-rock-samurai-the-ballad-of-buck-ravers.json) |
 | Drums Rock: Simple Plan - 'Crazy' | 322220 | [322220-drums-rock-simple-plan-crazy.json](./322220-drums-rock-simple-plan-crazy.json) |
 | Drums Rock: Simple Plan - 'Shut Up!' | 322221 | [322221-drums-rock-simple-plan-shut-up.json](./322221-drums-rock-simple-plan-shut-up.json) |
 | Drums Rock: Simple Plan - 'Time to Say Goodbye' | 322222 | [322222-drums-rock-simple-plan-time-to-say-goodbye.json](./322222-drums-rock-simple-plan-time-to-say-goodbye.json) |
@@ -19743,6 +19756,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Undertale - 'Hopes And Dreams' | 322215 | [322215-drums-rock-undertale-hopes-and-dreams.json](./322215-drums-rock-undertale-hopes-and-dreams.json) |
 | Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
 | Drums Rock: Undertale DLC | 253184 | [253184-drums-rock-undertale-dlc.json](./253184-drums-rock-undertale-dlc.json) |
+| Drums Rock: Visions Of Atlantis - 'Melancholy Angel' | 419659 | [419659-drums-rock-visions-of-atlantis-melancholy-angel.json](./419659-drums-rock-visions-of-atlantis-melancholy-angel.json) |
+| Drums Rock: Wind Rose - 'Drunken Dwarves' | 419661 | [419661-drums-rock-wind-rose-drunken-dwarves.json](./419661-drums-rock-wind-rose-drunken-dwarves.json) |
 | DrumSim | 65814 | [65814-drumsim.json](./65814-drumsim.json) |
 | Drumskulls | 91865 | [91865-drumskulls.json](./91865-drumskulls.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
