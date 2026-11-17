@@ -4860,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Wolf - Mirror | 269236 | [269236-night-of-full-moon-wolf-mirror.json](./269236-night-of-full-moon-wolf-mirror.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
 | Night of Love | 199513 | [199513-night-of-love.json](./199513-night-of-love.json) |
+| Night of Nettspend | 427130 | [427130-night-of-nettspend.json](./427130-night-of-nettspend.json) |
 | Night of Nightmare | 391025 | [391025-night-of-nightmare.json](./391025-night-of-nightmare.json) |
 | Night of Restoration | 413325 | [413325-night-of-restoration.json](./413325-night-of-restoration.json) |
 | Night of Spirits | 242670 | [242670-night-of-spirits.json](./242670-night-of-spirits.json) |
@@ -7190,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nogizaka Haruka no Himitsu: Cosplay, Hajimemashita | 402064 | [402064-nogizaka-haruka-no-himitsu-cosplay-hajimemashita.json](./402064-nogizaka-haruka-no-himitsu-cosplay-hajimemashita.json) |
 | Nogizaka Haruka no Himitsu: Doujinshi Hajimemashita | 269442 | [269442-nogizaka-haruka-no-himitsu-doujinshi-hajimemashita.json](./269442-nogizaka-haruka-no-himitsu-doujinshi-hajimemashita.json) |
 | Nogizaka46 Rhythm Festival | 77846 | [77846-nogizaka46-rhythm-festival.json](./77846-nogizaka46-rhythm-festival.json) |
+| Noh Please! | 427090 | [427090-noh-please.json](./427090-noh-please.json) |
 | Nohmen: Blood Rites | 420552 | [420552-nohmen-blood-rites.json](./420552-nohmen-blood-rites.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
@@ -7575,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Fishing | 269213 | [269213-normal-fishing.json](./269213-normal-fishing.json) |
 | Normal Golf Game | 355571 | [355571-normal-golf-game.json](./355571-normal-golf-game.json) |
 | Normal Human Face Simulator | 177235 | [177235-normal-human-face-simulator.json](./177235-normal-human-face-simulator.json) |
+| Normal Maths | 427110 | [427110-normal-maths.json](./427110-normal-maths.json) |
 | Normal Me and Abnormal Friends | 196747 | [196747-normal-me-and-abnormal-friends.json](./196747-normal-me-and-abnormal-friends.json) |
 | Normal Person | 285977 | [285977-normal-person.json](./285977-normal-person.json) |
 | Normal Shmup | 250378 | [250378-normal-shmup.json](./250378-normal-shmup.json) |
