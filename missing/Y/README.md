@@ -2229,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummy Nuts | 150580 | [150580-yummy-nuts.json](./150580-yummy-nuts.json) |
 | Yummy Pancake Factory | 238287 | [238287-yummy-pancake-factory.json](./238287-yummy-pancake-factory.json) |
 | Yummy Tales 2 | 205023 | [205023-yummy-tales-2.json](./205023-yummy-tales-2.json) |
+| Yummy Yummy Cook Book | 417902 | [417902-yummy-yummy-cook-book.json](./417902-yummy-yummy-cook-book.json) |
 | Yummy Yummy Cooking Jam | 69279 | [69279-yummy-yummy-cooking-jam.json](./69279-yummy-yummy-cooking-jam.json) |
 | Yummyland Solitaire | 386122 | [386122-yummyland-solitaire.json](./386122-yummyland-solitaire.json) |
 | Yummyland Solitaire 2 | 386130 | [386130-yummyland-solitaire-2.json](./386130-yummyland-solitaire-2.json) |
