@@ -10955,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dave | 91549 | [91549-dino-dave.json](./91549-dino-dave.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
+| Dino Dawn | 99238 | [99238-dino-dawn.json](./99238-dino-dawn.json) |
 | Dino Dawn Doom | 378527 | [378527-dino-dawn-doom.json](./378527-dino-dawn-doom.json) |
 | Dino Dearest | 408009 | [408009-dino-dearest.json](./408009-dino-dearest.json) |
 | Dino Delivery | 121581 | [121581-dino-delivery.json](./121581-dino-delivery.json) |
@@ -11077,6 +11078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino VR : Jurassic World | 108212 | [108212-dino-vr-jurassic-world.json](./108212-dino-vr-jurassic-world.json) |
 | Dino Walk Simulator | 175866 | [175866-dino-walk-simulator.json](./175866-dino-walk-simulator.json) |
 | Dino War | 100811 | [100811-dino-war.json](./100811-dino-war.json) |
+| Dino War: Survival | 99242 | [99242-dino-war-survival.json](./99242-dino-war-survival.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino World | 257706 | [257706-dino-world.json](./257706-dino-world.json) |
 | Dino Zoo Transport Simulator | 122604 | [122604-dino-zoo-transport-simulator.json](./122604-dino-zoo-transport-simulator.json) |
@@ -11378,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Evo | 90525 | [90525-dirt-bike-evo.json](./90525-dirt-bike-evo.json) |
 | Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
+| Dirt Bike Hill Racing - Dirt Bike Race For Kids | 99257 | [99257-dirt-bike-hill-racing-dirt-bike-race-for-kids.json](./99257-dirt-bike-hill-racing-dirt-bike-race-for-kids.json) |
 | Dirt Bike Insanity | 98688 | [98688-dirt-bike-insanity.json](./98688-dirt-bike-insanity.json) |
 | Dirt Bike Maniacs | 24422 | [24422-dirt-bike-maniacs.json](./24422-dirt-bike-maniacs.json) |
 | Dirt Bike Mini Racer | 370057 | [370057-dirt-bike-mini-racer.json](./370057-dirt-bike-mini-racer.json) |
