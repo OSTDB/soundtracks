@@ -18131,7 +18131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Monolith | 111281 | [111281-project-monolith.json](./111281-project-monolith.json) |
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
 | Project Morph | 211239 | [211239-project-morph.json](./211239-project-morph.json) |
-| Project Motor Racing | 342092 | [342092-project-motor-racing.json](./342092-project-motor-racing.json) |
 | Project Motor Racing: V8 Power Pack | 423751 | [423751-project-motor-racing-v8-power-pack.json](./423751-project-motor-racing-v8-power-pack.json) |
 | Project Mourning Reign | 403642 | [403642-project-mourning-reign.json](./403642-project-mourning-reign.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
