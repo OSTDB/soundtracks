@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Investigation | 248840 | [248840-haunted-investigation.json](./248840-haunted-investigation.json) |
 | Haunted Jail: Alcatas | 116980 | [116980-haunted-jail-alcatas.json](./116980-haunted-jail-alcatas.json) |
 | Haunted Laia | 193881 | [193881-haunted-laia.json](./193881-haunted-laia.json) |
+| Haunted Lands | 178701 | [178701-haunted-lands.json](./178701-haunted-lands.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
 | Haunted Legends: The Black Hawk | 187920 | [187920-haunted-legends-the-black-hawk.json](./187920-haunted-legends-the-black-hawk.json) |
@@ -4385,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heed | 169984 | [169984-heed.json](./169984-heed.json) |
 | Heeey! Park-Boy | 142096 | [142096-heeey-park-boy.json](./142096-heeey-park-boy.json) |
 | Heelbain | 257610 | [257610-heelbain.json](./257610-heelbain.json) |
+| Heels 'n Feels | 178697 | [178697-heels-n-feels.json](./178697-heels-n-feels.json) |
 | Heffelfinger | 340425 | [340425-heffelfinger.json](./340425-heffelfinger.json) |
 | Hegemarch | 424246 | [424246-hegemarch.json](./424246-hegemarch.json) |
 | Hegemone Pass | 118726 | [118726-hegemone-pass.json](./118726-hegemone-pass.json) |
