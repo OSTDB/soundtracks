@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quiet Mind | 100669 | [100669-a-quiet-mind.json](./100669-a-quiet-mind.json) |
 | A Quiet Place | 344628 | [344628-a-quiet-place.json](./344628-a-quiet-place.json) |
 | A Quiet Place: The Road Ahead | 294453 | [294453-a-quiet-place-the-road-ahead.json](./294453-a-quiet-place-the-road-ahead.json) |
+| A Quiet Weekend in Capri | 71623 | [71623-a-quiet-weekend-in-capri.json](./71623-a-quiet-weekend-in-capri.json) |
 | A Rabbit and the Mystic Fog | 157345 | [157345-a-rabbit-and-the-mystic-fog.json](./157345-a-rabbit-and-the-mystic-fog.json) |
 | A Rabbit Fable | 58087 | [58087-a-rabbit-fable.json](./58087-a-rabbit-fable.json) |
 | A Ragdoll Rage Game | 364048 | [364048-a-ragdoll-rage-game.json](./364048-a-ragdoll-rage-game.json) |
