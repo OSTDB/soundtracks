@@ -7884,6 +7884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfen | 268908 | [268908-wolfen.json](./268908-wolfen.json) |
 | Wolfenstache: The New Censorship | 177986 | [177986-wolfenstache-the-new-censorship.json](./177986-wolfenstache-the-new-censorship.json) |
 | Wolfenstein 1-D | 336424 | [336424-wolfenstein-1-d.json](./336424-wolfenstein-1-d.json) |
+| Wolfenstein 3 | 429491 | [429491-wolfenstein-3.json](./429491-wolfenstein-3.json) |
 | Wolfenstein 3D | 262516 | [262516-wolfenstein-3d.json](./262516-wolfenstein-3d.json) |
 | Wolfenstein 3D | 284304 | [284304-wolfenstein-3d.json](./284304-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306944 | [306944-wolfenstein-3d.json](./306944-wolfenstein-3d.json) |
@@ -7948,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WolfQuest: Anniversary Edition | 119976 | [119976-wolfquest-anniversary-edition.json](./119976-wolfquest-anniversary-edition.json) |
 | WolfQuest: Anniversary Edition - Hellroaring Mountain | 296723 | [296723-wolfquest-anniversary-edition-hellroaring-mountain.json](./296723-wolfquest-anniversary-edition-hellroaring-mountain.json) |
 | WolfQuest: Anniversary Edition - Lost River | 235602 | [235602-wolfquest-anniversary-edition-lost-river.json](./235602-wolfquest-anniversary-edition-lost-river.json) |
+| WolfQuest: Anniversary Edition - Tower Fall | 429512 | [429512-wolfquest-anniversary-edition-tower-fall.json](./429512-wolfquest-anniversary-edition-tower-fall.json) |
 | Wolfram | 319118 | [319118-wolfram.json](./319118-wolfram.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
 | Wolfsbane | 71702 | [71702-wolfsbane.json](./71702-wolfsbane.json) |
