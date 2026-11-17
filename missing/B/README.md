@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barney: Magical Music | 206239 | [206239-barney-magical-music.json](./206239-barney-magical-music.json) |
 | Barney: On Location - All Around Town | 73702 | [73702-barney-on-location-all-around-town.json](./73702-barney-on-location-all-around-town.json) |
+| Barney: Secret of the Rainbow | 206240 | [206240-barney-secret-of-the-rainbow.json](./206240-barney-secret-of-the-rainbow.json) |
 | Barney: The Land of Make Believe | 325814 | [325814-barney-the-land-of-make-believe.json](./325814-barney-the-land-of-make-believe.json) |
 | Barney's Dream Cruise | 120908 | [120908-barneys-dream-cruise.json](./120908-barneys-dream-cruise.json) |
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
@@ -14036,6 +14037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokuhime Project | 121199 | [121199-bokuhime-project.json](./121199-bokuhime-project.json) |
 | Bokujou Monogatari Mobile: Life & Love | 380352 | [380352-bokujou-monogatari-mobile-life-and-love.json](./380352-bokujou-monogatari-mobile-life-and-love.json) |
 | Bokujou Monogatari: Futago no Mura+ | 136904 | [136904-bokujou-monogatari-futago-no-mura.json](./136904-bokujou-monogatari-futago-no-mura.json) |
+| Bokujou Monogatari: Shiawase no Uta | 206848 | [206848-bokujou-monogatari-shiawase-no-uta.json](./206848-bokujou-monogatari-shiawase-no-uta.json) |
 | Bokura ga Koko ni Iru Fushigi. | 131381 | [131381-bokura-ga-koko-ni-iru-fushigi.json](./131381-bokura-ga-koko-ni-iru-fushigi.json) |
 | Bokura no Daiundoukai | 165436 | [165436-bokura-no-daiundoukai.json](./165436-bokura-no-daiundoukai.json) |
 | Bokura no Gakkou Sensou: Tsuukai Adventure | 222534 | [222534-bokura-no-gakkou-sensou-tsuukai-adventure.json](./222534-bokura-no-gakkou-sensou-tsuukai-adventure.json) |
