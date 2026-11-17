@@ -9241,6 +9241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Padman | 51251 | [51251-world-of-padman.json](./51251-world-of-padman.json) |
 | World of PaintBall | 392832 | [392832-world-of-paintball.json](./392832-world-of-paintball.json) |
 | World of Paranoia | 167292 | [167292-world-of-paranoia.json](./167292-world-of-paranoia.json) |
+| World of Pets | 165091 | [165091-world-of-pets.json](./165091-world-of-pets.json) |
 | World of Pets | 172381 | [172381-world-of-pets.json](./172381-world-of-pets.json) |
 | World of Pets: Multiplayer | 174593 | [174593-world-of-pets-multiplayer.json](./174593-world-of-pets-multiplayer.json) |
 | World of Planes | 136582 | [136582-world-of-planes.json](./136582-world-of-planes.json) |
