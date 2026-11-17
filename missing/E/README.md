@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | E Nikki | 201836 | [201836-e-nikki.json](./201836-e-nikki.json) |
 | E Quotes Trivia: Movies, TV, Music, Books | 89521 | [89521-e-quotes-trivia-movies-tv-music-books.json](./89521-e-quotes-trivia-movies-tv-music-books.json) |
+| E School Life: Limited Edition | 186916 | [186916-e-school-life-limited-edition.json](./186916-e-school-life-limited-edition.json) |
 | E to Are Sore | 206565 | [206565-e-to-are-sore.json](./206565-e-to-are-sore.json) |
 | E-Ball | 126540 | [126540-e-ball.json](./126540-e-ball.json) |
 | E-circle | 203943 | [203943-e-circle.json](./203943-e-circle.json) |
