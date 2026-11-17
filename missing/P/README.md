@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
 | Paper Wars: Cannon Fodder! | 78423 | [78423-paper-wars-cannon-fodder.json](./78423-paper-wars-cannon-fodder.json) |
 | Paper Wings | 57269 | [57269-paper-wings.json](./57269-paper-wings.json) |
+| Paper Wizards | 192340 | [192340-paper-wizards.json](./192340-paper-wizards.json) |
 | Paper Work | 279920 | [279920-paper-work.json](./279920-paper-work.json) |
 | Paper World - Spot the Differences | 106887 | [106887-paper-world-spot-the-differences.json](./106887-paper-world-spot-the-differences.json) |
 | Paper World Escape | 315685 | [315685-paper-world-escape.json](./315685-paper-world-escape.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
 | Parkitect: Taste of Adventure | 154203 | [154203-parkitect-taste-of-adventure.json](./154203-parkitect-taste-of-adventure.json) |
 | Parkland | 100484 | [100484-parkland.json](./100484-parkland.json) |
+| Parkonauts | 192343 | [192343-parkonauts.json](./192343-parkonauts.json) |
 | Parkour | 260930 | [260930-parkour.json](./260930-parkour.json) |
 | Parkour | 56633 | [56633-parkour.json](./56633-parkour.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
@@ -6091,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
 | Phantom Fools | 373060 | [373060-phantom-fools.json](./373060-phantom-fools.json) |
 | Phantom Fury | 218009 | [218009-phantom-fury.json](./218009-phantom-fury.json) |
+| Phantom Galaxies | 191940 | [191940-phantom-galaxies.json](./191940-phantom-galaxies.json) |
 | Phantom Gear | 141108 | [141108-phantom-gear.json](./141108-phantom-gear.json) |
 | Phantom Girls: Ghostbuster | 279546 | [279546-phantom-girls-ghostbuster.json](./279546-phantom-girls-ghostbuster.json) |
 | Phantom Girls: Hellish Hospital | 297183 | [297183-phantom-girls-hellish-hospital.json](./297183-phantom-girls-hellish-hospital.json) |
@@ -13077,6 +13080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Thief Ruby | 377859 | [377859-pokemon-thief-ruby.json](./377859-pokemon-thief-ruby.json) |
 | Pokémon This Gym of Mine | 227653 | [227653-pokemon-this-gym-of-mine.json](./227653-pokemon-this-gym-of-mine.json) |
 | Pokémon Throwback | 232636 | [232636-pokemon-throwback.json](./232636-pokemon-throwback.json) |
+| Pokémon Titan | 191939 | [191939-pokemon-titan.json](./191939-pokemon-titan.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
 | Pokémon Tourmaline | 378601 | [378601-pokemon-tourmaline.json](./378601-pokemon-tourmaline.json) |
@@ -18456,6 +18460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project X22 | 208111 | [208111-project-x22.json](./208111-project-x22.json) |
 | Project Xandata | 75405 | [75405-project-xandata.json](./75405-project-xandata.json) |
+| Project Xenoflora | 192346 | [192346-project-xenoflora.json](./192346-project-xenoflora.json) |
 | Project Xenophobe | 325914 | [325914-project-xenophobe.json](./325914-project-xenophobe.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
 | Project XLOWS: Keyboard Apocalypse TM | 391690 | [391690-project-xlows-keyboard-apocalypse-tm.json](./391690-project-xlows-keyboard-apocalypse-tm.json) |
@@ -20240,6 +20245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Me | 152677 | [152677-push-me.json](./152677-push-me.json) |
 | Push Me Pull You | 19863 | [19863-push-me-pull-you.json](./19863-push-me-pull-you.json) |
 | Push Off | 62843 | [62843-push-off.json](./62843-push-off.json) |
+| Push Ops | 192338 | [192338-push-ops.json](./192338-push-ops.json) |
 | Push Out | 200319 | [200319-push-out.json](./200319-push-out.json) |
 | Push Over | 37244 | [37244-push-over.json](./37244-push-over.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
