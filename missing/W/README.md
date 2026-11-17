@@ -3791,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the World of Zippy the Circle: Visual Novel | 228764 | [228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json](./228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome to the Yokai Inn | 298924 | [298924-welcome-to-the-yokai-inn.json](./298924-welcome-to-the-yokai-inn.json) |
+| Welcome to Thingdom | 422922 | [422922-welcome-to-thingdom.json](./422922-welcome-to-thingdom.json) |
 | Welcome to Ukraine | 287829 | [287829-welcome-to-ukraine.json](./287829-welcome-to-ukraine.json) |
 | Welcome to Victorville | 419641 | [419641-welcome-to-victorville.json](./419641-welcome-to-victorville.json) |
 | Welcome to West Feedback | 60764 | [60764-welcome-to-west-feedback.json](./60764-welcome-to-west-feedback.json) |
@@ -5398,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
 | Who Is Your Prince? In the Rich School | 255882 | [255882-who-is-your-prince-in-the-rich-school.json](./255882-who-is-your-prince-in-the-rich-school.json) |
 | Who Is Zombie | 192084 | [192084-who-is-zombie.json](./192084-who-is-zombie.json) |
+| Who Killed Arthur? | 422956 | [422956-who-killed-arthur.json](./422956-who-killed-arthur.json) |
 | Who Killed Her | 118582 | [118582-who-killed-her.json](./118582-who-killed-her.json) |
 | Who Killed Mr. White? | 164951 | [164951-who-killed-mr-white.json](./164951-who-killed-mr-white.json) |
 | Who Killed My Father Academy! | 134878 | [134878-who-killed-my-father-academy.json](./134878-who-killed-my-father-academy.json) |
@@ -6185,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will it Crush? | 90034 | [90034-will-it-crush.json](./90034-will-it-crush.json) |
 | Will It Ever End? | 143572 | [143572-will-it-ever-end.json](./143572-will-it-ever-end.json) |
 | Will It Launch? | 421623 | [421623-will-it-launch.json](./421623-will-it-launch.json) |
+| Will it Stand? | 422955 | [422955-will-it-stand.json](./422955-will-it-stand.json) |
 | Will Jump | 339876 | [339876-will-jump.json](./339876-will-jump.json) |
 | Will Not Let Me Go | 138139 | [138139-will-not-let-me-go.json](./138139-will-not-let-me-go.json) |
 | Will O Wing | 412433 | [412433-will-o-wing.json](./412433-will-o-wing.json) |
