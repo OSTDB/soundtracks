@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naraka Bladepoint: Playstation Plus Gift Pack S16 | 341001 | [341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json](./341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json) |
 | Naraka: Bladepoint | 127352 | [127352-naraka-bladepoint.json](./127352-naraka-bladepoint.json) |
 | Naraka: Bladepoint - Deluxe Edition | 169169 | [169169-naraka-bladepoint-deluxe-edition.json](./169169-naraka-bladepoint-deluxe-edition.json) |
+| Naraka: Bladepoint - Ultimate Edition | 207939 | [207939-naraka-bladepoint-ultimate-edition.json](./207939-naraka-bladepoint-ultimate-edition.json) |
 | Naraku | 291847 | [291847-naraku.json](./291847-naraku.json) |
 | Naraku no Shiro Ichiyanagi Nagomu, Nidome no Junan | 124636 | [124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json](./124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
