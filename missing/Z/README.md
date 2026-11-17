@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
 | ZoneRacer | 331441 | [331441-zoneracer.json](./331441-zoneracer.json) |
 | Zoners | 167716 | [167716-zoners.json](./167716-zoners.json) |
+| Zones | 130440 | [130440-zones.json](./130440-zones.json) |
 | Zones of Fear | 274119 | [274119-zones-of-fear.json](./274119-zones-of-fear.json) |
 | Zonescape | 267785 | [267785-zonescape.json](./267785-zonescape.json) |
 | Zonex | 157901 | [157901-zonex.json](./157901-zonex.json) |
