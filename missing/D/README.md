@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D'ark | 412132 | [412132-dark.json](./412132-dark.json) |
 | D'ark Gaiden | 412135 | [412135-dark-gaiden.json](./412135-dark-gaiden.json) |
 | D'Arrancar | 57794 | [57794-darrancar.json](./57794-darrancar.json) |
+| D'lirium | 55488 | [55488-dlirium.json](./55488-dlirium.json) |
 | D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
 | D'ni Legacy | 142085 | [142085-dni-legacy.json](./142085-dni-legacy.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damascus Gear: Operation Osaka - HD Edition | 90093 | [90093-damascus-gear-operation-osaka-hd-edition.json](./90093-damascus-gear-operation-osaka-hd-edition.json) |
 | Damascus Gear: Operation Tokyo | 21706 | [21706-damascus-gear-operation-tokyo.json](./21706-damascus-gear-operation-tokyo.json) |
+| Damascus Gear: Operation Tokyo HD | 55532 | [55532-damascus-gear-operation-tokyo-hd.json](./55532-damascus-gear-operation-tokyo-hd.json) |
 | Damashi Game | 321830 | [321830-damashi-game.json](./321830-damashi-game.json) |
 | Damatte Watashi no Muko ni Nare! | 60369 | [60369-damatte-watashi-no-muko-ni-nare.json](./60369-damatte-watashi-no-muko-ni-nare.json) |
 | Damatte Watashi no Muko ni Nare! Reona After | 60370 | [60370-damatte-watashi-no-muko-ni-nare-reona-after.json](./60370-damatte-watashi-no-muko-ni-nare-reona-after.json) |
@@ -4918,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deaf Wish | 297883 | [297883-deaf-wish.json](./297883-deaf-wish.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
 | Deal & Wheeler | 241457 | [241457-deal-and-wheeler.json](./241457-deal-and-wheeler.json) |
+| Deal Me Another Shock | 430031 | [430031-deal-me-another-shock.json](./430031-deal-me-another-shock.json) |
 | Deal of the Dead Final Cut | 292769 | [292769-deal-of-the-dead-final-cut.json](./292769-deal-of-the-dead-final-cut.json) |
 | Deal or No Deal | 203470 | [203470-deal-or-no-deal.json](./203470-deal-or-no-deal.json) |
 | Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
@@ -8561,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
+| Destination Dungeon: Crypts of Warthallow | 55631 | [55631-destination-dungeon-crypts-of-warthallow.json](./55631-destination-dungeon-crypts-of-warthallow.json) |
 | Destination Dungeon: Tomb of Repentance | 109795 | [109795-destination-dungeon-tomb-of-repentance.json](./109795-destination-dungeon-tomb-of-repentance.json) |
 | Destination Dungeons Crypts of Warthallow | 180045 | [180045-destination-dungeons-crypts-of-warthallow.json](./180045-destination-dungeons-crypts-of-warthallow.json) |
 | Destination Dungeons: Catacombs of Dreams | 103482 | [103482-destination-dungeons-catacombs-of-dreams.json](./103482-destination-dungeons-catacombs-of-dreams.json) |
@@ -9635,6 +9639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers: Lunatic Parade | 123130 | [123130-diabolik-lovers-lunatic-parade.json](./123130-diabolik-lovers-lunatic-parade.json) |
 | Diabolik Lovers: Vandead Carnival | 61260 | [61260-diabolik-lovers-vandead-carnival.json](./61260-diabolik-lovers-vandead-carnival.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
+| Diabolika | 429837 | [429837-diabolika.json](./429837-diabolika.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
 | Diabolika 2: The Devil's Last Stand | 72183 | [72183-diabolika-2-the-devils-last-stand.json](./72183-diabolika-2-the-devils-last-stand.json) |
 | Diabolos | 274166 | [274166-diabolos.json](./274166-diabolos.json) |
@@ -11800,6 +11805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete: Deluxe Edition | 191498 | [191498-disgaea-6-complete-deluxe-edition.json](./191498-disgaea-6-complete-deluxe-edition.json) |
 | Disgaea 6 Complete: Digital Dood Edition | 207094 | [207094-disgaea-6-complete-digital-dood-edition.json](./207094-disgaea-6-complete-digital-dood-edition.json) |
+| Disgaea 6: Defiance of Destiny | 138953 | [138953-disgaea-6-defiance-of-destiny.json](./138953-disgaea-6-defiance-of-destiny.json) |
 | Disgaea 6: Defiance of Destiny - Desco | 238319 | [238319-disgaea-6-defiance-of-destiny-desco.json](./238319-disgaea-6-defiance-of-destiny-desco.json) |
 | Disgaea 6: Defiance of Destiny - Fuka | 238312 | [238312-disgaea-6-defiance-of-destiny-fuka.json](./238312-disgaea-6-defiance-of-destiny-fuka.json) |
 | Disgaea 6: Defiance of Destiny - Killia | 238318 | [238318-disgaea-6-defiance-of-destiny-killia.json](./238318-disgaea-6-defiance-of-destiny-killia.json) |
@@ -13225,9 +13231,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Adventure Games - Episode 4: Shadows of the Vashta Nerada | 66016 | [66016-doctor-who-the-adventure-games-episode-4-shadows-of-the-vashta-nerada.json](./66016-doctor-who-the-adventure-games-episode-4-shadows-of-the-vashta-nerada.json) |
 | Doctor Who: The Adventure Games - Episode 5: The Gunpowder Plot | 65463 | [65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json](./65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json) |
 | Doctor Who: The Doctor and the Dalek | 250508 | [250508-doctor-who-the-doctor-and-the-dalek.json](./250508-doctor-who-the-doctor-and-the-dalek.json) |
+| Doctor Who: The Edge of Reality | 139572 | [139572-doctor-who-the-edge-of-reality.json](./139572-doctor-who-the-edge-of-reality.json) |
 | Doctor Who: The Edge of Reality - Deluxe Edition | 189946 | [189946-doctor-who-the-edge-of-reality-deluxe-edition.json](./189946-doctor-who-the-edge-of-reality-deluxe-edition.json) |
 | Doctor Who: The Edge of Reality - Digital Deluxe Edition | 237903 | [237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json](./237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json) |
 | Doctor Who: The Edge of Reality + The Lonely Assassins | 207092 | [207092-doctor-who-the-edge-of-reality-the-lonely-assassins.json](./207092-doctor-who-the-edge-of-reality-the-lonely-assassins.json) |
+| Doctor Who: The Eternity Clock | 9636 | [9636-doctor-who-the-eternity-clock.json](./9636-doctor-who-the-eternity-clock.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: The Last Dalek | 232823 | [232823-doctor-who-the-last-dalek.json](./232823-doctor-who-the-last-dalek.json) |
 | Doctor Who: The Mazes of Time | 85771 | [85771-doctor-who-the-mazes-of-time.json](./85771-doctor-who-the-mazes-of-time.json) |
@@ -15359,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dope Wars | 94588 | [94588-dope-wars.json](./94588-dope-wars.json) |
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
 | Dope Wars: Weed Edition | 90747 | [90747-dope-wars-weed-edition.json](./90747-dope-wars-weed-edition.json) |
+| Dopefront | 430154 | [430154-dopefront.json](./430154-dopefront.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
 | DopeNet | 295418 | [295418-dopenet.json](./295418-dopenet.json) |
 | DopePie Survivors 3D | 390265 | [390265-dopepie-survivors-3d.json](./390265-dopepie-survivors-3d.json) |
@@ -16478,6 +16487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula 13 | 50375 | [50375-dracula-13.json](./50375-dracula-13.json) |
 | Dracula 2 Pack | 131296 | [131296-dracula-2-pack.json](./131296-dracula-2-pack.json) |
 | Dracula 2: The Last Sanctuary | 9092 | [9092-dracula-2-the-last-sanctuary.json](./9092-dracula-2-the-last-sanctuary.json) |
+| Dracula 3: The Path of the Dragon | 9093 | [9093-dracula-3-the-path-of-the-dragon.json](./9093-dracula-3-the-path-of-the-dragon.json) |
 | Dracula 4 & 5: Special Steam Edition | 90585 | [90585-dracula-4-and-5-special-steam-edition.json](./90585-dracula-4-and-5-special-steam-edition.json) |
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
 | Dracula 4+5 | 154936 | [154936-dracula-4-5.json](./154936-dracula-4-5.json) |
@@ -17789,6 +17799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakenlords: CCG Card Duels | 56790 | [56790-drakenlords-ccg-card-duels.json](./56790-drakenlords-ccg-card-duels.json) |
 | Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
 | Drakensang Online | 8772 | [8772-drakensang-online.json](./8772-drakensang-online.json) |
+| Drakensang: Phileasson's Secret | 8770 | [8770-drakensang-phileassons-secret.json](./8770-drakensang-phileassons-secret.json) |
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
 | Drakerider | 342797 | [342797-drakerider.json](./342797-drakerider.json) |
 | Drakerz: Confrontation | 16876 | [16876-drakerz-confrontation.json](./16876-drakerz-confrontation.json) |
@@ -17979,6 +17990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn to Life: SpongeBob SquarePants Edition | 4822 | [4822-drawn-to-life-spongebob-squarepants-edition.json](./4822-drawn-to-life-spongebob-squarepants-edition.json) |
 | Drawn to Life: The Next Chapter | 240140 | [240140-drawn-to-life-the-next-chapter.json](./240140-drawn-to-life-the-next-chapter.json) |
 | Drawn to Life: The Next Chapter | 4820 | [4820-drawn-to-life-the-next-chapter.json](./4820-drawn-to-life-the-next-chapter.json) |
+| Drawn to Life: Two Realms | 141201 | [141201-drawn-to-life-two-realms.json](./141201-drawn-to-life-two-realms.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
 | Drawn to Power | 349751 | [349751-drawn-to-power.json](./349751-drawn-to-power.json) |
 | Drawn To You | 336505 | [336505-drawn-to-you.json](./336505-drawn-to-you.json) |
@@ -18476,6 +18488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
 | DreamCell: Lost in Nightmares | 211601 | [211601-dreamcell-lost-in-nightmares.json](./211601-dreamcell-lost-in-nightmares.json) |
 | Dreamcharger | 213518 | [213518-dreamcharger.json](./213518-dreamcharger.json) |
+| Dreamcore | 253474 | [253474-dreamcore.json](./253474-dreamcore.json) |
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
 | Dreamcore: Rabbit Hole | 380371 | [380371-dreamcore-rabbit-hole.json](./380371-dreamcore-rabbit-hole.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
@@ -18927,6 +18940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Masters | 127539 | [127539-drift-masters.json](./127539-drift-masters.json) |
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
 | Drift Mine Satellite | 263648 | [263648-drift-mine-satellite.json](./263648-drift-mine-satellite.json) |
+| Drift of the Hill | 121976 | [121976-drift-of-the-hill.json](./121976-drift-of-the-hill.json) |
 | Drift On Snow | 339571 | [339571-drift-on-snow.json](./339571-drift-on-snow.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Out '94 - The Hard Order | 39826 | [39826-drift-out-94-the-hard-order.json](./39826-drift-out-94-the-hard-order.json) |
