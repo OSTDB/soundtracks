@@ -8274,7 +8274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodlock Manor | 207490 | [207490-woodlock-manor.json](./207490-woodlock-manor.json) |
-| Woodo | 145078 | [145078-woodo.json](./145078-woodo.json) |
 | Woodoku | 213694 | [213694-woodoku.json](./213694-woodoku.json) |
 | Woodpecker | 63638 | [63638-woodpecker.json](./63638-woodpecker.json) |
 | Woodpunk | 104945 | [104945-woodpunk.json](./104945-woodpunk.json) |
