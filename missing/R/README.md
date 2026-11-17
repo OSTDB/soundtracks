@@ -13663,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined Vacation | 313960 | [313960-ruined-vacation.json](./313960-ruined-vacation.json) |
 | Ruiner | 18857 | [18857-ruiner.json](./18857-ruiner.json) |
 | Ruiner 2 | 393936 | [393936-ruiner-2.json](./393936-ruiner-2.json) |
+| Ruiner Pinball | 40825 | [40825-ruiner-pinball.json](./40825-ruiner-pinball.json) |
 | Ruinic | 128144 | [128144-ruinic.json](./128144-ruinic.json) |
 | Ruinlander | 191152 | [191152-ruinlander.json](./191152-ruinlander.json) |
 | Ruins | 183198 | [183198-ruins.json](./183198-ruins.json) |
