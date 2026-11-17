@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habbo Hotel: Origins | 306033 | [306033-habbo-hotel-origins.json](./306033-habbo-hotel-origins.json) |
 | Habbo Islands | 61225 | [61225-habbo-islands.json](./61225-habbo-islands.json) |
 | HaberDashers | 155907 | [155907-haberdashers.json](./155907-haberdashers.json) |
+| Habet | 426474 | [426474-habet.json](./426474-habet.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitants | 302868 | [302868-habitants.json](./302868-habitants.json) |
 | Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
@@ -7754,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey! Pikmin | 28124 | [28124-hey-pikmin.json](./28124-hey-pikmin.json) |
 | Hey! Shopkeeper! | 400682 | [400682-hey-shopkeeper.json](./400682-hey-shopkeeper.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
+| Heya! Sumo Manager | 426487 | [426487-heya-sumo-manager.json](./426487-heya-sumo-manager.json) |
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
 | Heyday | 91541 | [91541-heyday.json](./91541-heyday.json) |
@@ -7960,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Epee | 248116 | [248116-hidden-epee.json](./248116-hidden-epee.json) |
 | Hidden Evidence | 345250 | [345250-hidden-evidence.json](./345250-hidden-evidence.json) |
 | Hidden Evidences | 88686 | [88686-hidden-evidences.json](./88686-hidden-evidences.json) |
+| Hidden Evil | 426515 | [426515-hidden-evil.json](./426515-hidden-evil.json) |
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
 | Hidden Expedition: A King's Line | 187923 | [187923-hidden-expedition-a-kings-line.json](./187923-hidden-expedition-a-kings-line.json) |
 | Hidden Expedition: A King's Line - Collector's Edition | 170202 | [170202-hidden-expedition-a-kings-line-collectors-edition.json](./170202-hidden-expedition-a-kings-line-collectors-edition.json) |
@@ -13652,6 +13655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Hearts Diner: Memories | 280280 | [280280-hungry-hearts-diner-memories.json](./280280-hungry-hearts-diner-memories.json) |
 | Hungry Hearts Ramen: Soulful Bowl | 370455 | [370455-hungry-hearts-ramen-soulful-bowl.json](./370455-hungry-hearts-ramen-soulful-bowl.json) |
 | Hungry Hearts Restaurant | 356276 | [356276-hungry-hearts-restaurant.json](./356276-hungry-hearts-restaurant.json) |
+| Hungry Hoist | 426475 | [426475-hungry-hoist.json](./426475-hungry-hoist.json) |
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
 | Hungry Horace | 170795 | [170795-hungry-horace.json](./170795-hungry-horace.json) |
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
