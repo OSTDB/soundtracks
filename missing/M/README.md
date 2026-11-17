@@ -8360,11 +8360,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
 | Mega Lo Mania & First Samurai | 138313 | [138313-mega-lo-mania-and-first-samurai.json](./138313-mega-lo-mania-and-first-samurai.json) |
 | Mega Load On | 390573 | [390573-mega-load-on.json](./390573-mega-load-on.json) |
+| Mega Mall Story | 78123 | [78123-mega-mall-story.json](./78123-mega-mall-story.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
 | Mega Man | 1738 | [1738-mega-man.json](./1738-mega-man.json) |
 | Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
 | Mega Man | 236703 | [236703-mega-man.json](./236703-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
+| Mega Man | 78132 | [78132-mega-man.json](./78132-mega-man.json) |
 | Mega Man & Bass | 1726 | [1726-mega-man-and-bass.json](./1726-mega-man-and-bass.json) |
 | Mega Man & Bass: Player Switching | 358600 | [358600-mega-man-and-bass-player-switching.json](./358600-mega-man-and-bass-player-switching.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
@@ -15458,6 +15460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MirrorMoon EP | 15544 | [15544-mirrormoon-ep.json](./15544-mirrormoon-ep.json) |
 | Mirrorplume Frostfate | 384350 | [384350-mirrorplume-frostfate.json](./384350-mirrorplume-frostfate.json) |
 | Mirrors | 69387 | [69387-mirrors.json](./69387-mirrors.json) |
+| Mirrors | 78135 | [78135-mirrors.json](./78135-mirrors.json) |
 | Mirrors of Deception: The Poisoned Legacy | 365957 | [365957-mirrors-of-deception-the-poisoned-legacy.json](./365957-mirrors-of-deception-the-poisoned-legacy.json) |
 | Mirrors of Deception: The Silver Peaks Secret | 386201 | [386201-mirrors-of-deception-the-silver-peaks-secret.json](./386201-mirrors-of-deception-the-silver-peaks-secret.json) |
 | Mirrors of Deception: The Silver Peaks Secret - Collector's Edition | 420635 | [420635-mirrors-of-deception-the-silver-peaks-secret-collectors-edition.json](./420635-mirrors-of-deception-the-silver-peaks-secret-collectors-edition.json) |
