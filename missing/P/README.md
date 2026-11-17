@@ -14736,7 +14736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
 | Port Royale 3: New Adventures | 25423 | [25423-port-royale-3-new-adventures.json](./25423-port-royale-3-new-adventures.json) |
 | Port Royale 3: Pirates & Merchants | 7134 | [7134-port-royale-3-pirates-and-merchants.json](./7134-port-royale-3-pirates-and-merchants.json) |
-| Port Royale 4 | 121764 | [121764-port-royale-4.json](./121764-port-royale-4.json) |
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
 | Port Royale 4: Buccaneers Edition | 220903 | [220903-port-royale-4-buccaneers-edition.json](./220903-port-royale-4-buccaneers-edition.json) |
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
