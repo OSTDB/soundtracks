@@ -12845,6 +12845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roubaga | 412763 | [412763-roubaga.json](./412763-roubaga.json) |
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
 | Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
+| Rouge Patrol | 189096 | [189096-rouge-patrol.json](./189096-rouge-patrol.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | Rouge the Bat in Sonic the Hedgehog | 203162 | [203162-rouge-the-bat-in-sonic-the-hedgehog.json](./203162-rouge-the-bat-in-sonic-the-hedgehog.json) |
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
