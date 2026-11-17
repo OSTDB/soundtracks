@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebola VI Corp | 111537 | [111537-ebola-vi-corp.json](./111537-ebola-vi-corp.json) |
 | Ebola Village | 238788 | [238788-ebola-village.json](./238788-ebola-village.json) |
 | Ebon Light | 180873 | [180873-ebon-light.json](./180873-ebon-light.json) |
+| Ebonfrost | 424682 | [424682-ebonfrost.json](./424682-ebonfrost.json) |
 | EbonSide | 189251 | [189251-ebonside.json](./189251-ebonside.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldrum: Black Dust | 325732 | [325732-eldrum-black-dust.json](./325732-eldrum-black-dust.json) |
 | Eldrum: Red Tide | 219922 | [219922-eldrum-red-tide.json](./219922-eldrum-red-tide.json) |
 | Eldrum: Untold | 202863 | [202863-eldrum-untold.json](./202863-eldrum-untold.json) |
+| Eldwyn's Dungeon Academy | 424743 | [424743-eldwyns-dungeon-academy.json](./424743-eldwyns-dungeon-academy.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele Rampage | 173923 | [173923-ele-rampage.json](./173923-ele-rampage.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
@@ -6557,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Site-13 | 211065 | [211065-escape-site-13.json](./211065-escape-site-13.json) |
 | Escape: Small Laboratory | 224055 | [224055-escape-small-laboratory.json](./224055-escape-small-laboratory.json) |
 | Escape: The Brother's Saloon | 156821 | [156821-escape-the-brothers-saloon.json](./156821-escape-the-brothers-saloon.json) |
+| Escape: The Cabin | 424741 | [424741-escape-the-cabin.json](./424741-escape-the-cabin.json) |
 | Escape: The Endless Dogwatch | 207135 | [207135-escape-the-endless-dogwatch.json](./207135-escape-the-endless-dogwatch.json) |
 | Escape: The Speedrun Game | 154298 | [154298-escape-the-speedrun-game.json](./154298-escape-the-speedrun-game.json) |
 | Escape: Tutankhamen's Tomb | 88453 | [88453-escape-tutankhamens-tomb.json](./88453-escape-tutankhamens-tomb.json) |
