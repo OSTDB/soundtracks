@@ -4182,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Comes Around | 397438 | [397438-what-comes-around.json](./397438-what-comes-around.json) |
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What Could Go Wrong? | 344415 | [344415-what-could-go-wrong.json](./344415-what-could-go-wrong.json) |
+| What Da Font: Tidy Up the Print Shop | 425927 | [425927-what-da-font-tidy-up-the-print-shop.json](./425927-what-da-font-tidy-up-the-print-shop.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
 | What Did I Do to Deserve This, My Lord!? 2 | 22968 | [22968-what-did-i-do-to-deserve-this-my-lord-2.json](./22968-what-did-i-do-to-deserve-this-my-lord-2.json) |
 | What Did I Do to Deserve This, My Lord? | 21577 | [21577-what-did-i-do-to-deserve-this-my-lord.json](./21577-what-did-i-do-to-deserve-this-my-lord.json) |
