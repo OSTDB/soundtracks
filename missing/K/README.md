@@ -949,7 +949,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaoamaru Kaiju | 222982 | [222982-kaoamaru-kaiju.json](./222982-kaoamaru-kaiju.json) |
 | Kaodi | 328336 | [328336-kaodi.json](./328336-kaodi.json) |
 | Kaon : Fragmented Core | 379582 | [379582-kaon-fragmented-core.json](./379582-kaon-fragmented-core.json) |
-| Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaorin Fight | 305426 | [305426-kaorin-fight.json](./305426-kaorin-fight.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kaos | 281848 | [281848-kaos.json](./281848-kaos.json) |
