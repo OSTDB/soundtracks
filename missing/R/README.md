@@ -3230,7 +3230,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
 | Ready, Set, Read with Bananas & Jack | 148450 | [148450-ready-set-read-with-bananas-and-jack.json](./148450-ready-set-read-with-bananas-and-jack.json) |
 | Ready, Steady, Cook: The Game | 67738 | [67738-ready-steady-cook-the-game.json](./67738-ready-steady-cook-the-game.json) |
-| Ready, Steady, Ship! | 235535 | [235535-ready-steady-ship.json](./235535-ready-steady-ship.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | Readyyy! | 270757 | [270757-readyyy.json](./270757-readyyy.json) |
 | Reagan Gorbachev | 35414 | [35414-reagan-gorbachev.json](./35414-reagan-gorbachev.json) |
