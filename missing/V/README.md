@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesperal Times | 318110 | [318110-vesperal-times.json](./318110-vesperal-times.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vesperis | 391754 | [391754-vesperis.json](./391754-vesperis.json) |
+| Vespers | 60140 | [60140-vespers.json](./60140-vespers.json) |
 | Vespia: Shield of Aberration | 333119 | [333119-vespia-shield-of-aberration.json](./333119-vespia-shield-of-aberration.json) |
 | Vespillo | 415350 | [415350-vespillo.json](./415350-vespillo.json) |
 | Vessel | 141977 | [141977-vessel.json](./141977-vessel.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violentolitin | 201787 | [201787-violentolitin.json](./201787-violentolitin.json) |
 | Violet | 184526 | [184526-violet.json](./184526-violet.json) |
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
+| Violet | 60138 | [60138-violet.json](./60138-violet.json) |
 | Violet and the Lost Colors | 224865 | [224865-violet-and-the-lost-colors.json](./224865-violet-and-the-lost-colors.json) |
 | Violet and... | 178331 | [178331-violet-and.json](./178331-violet-and.json) |
 | Violet Bricks | 250771 | [250771-violet-bricks.json](./250771-violet-bricks.json) |
