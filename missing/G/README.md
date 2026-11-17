@@ -5509,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glare | 16563 | [16563-glare.json](./16563-glare.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
 | Glare1more | 108317 | [108317-glare1more.json](./108317-glare1more.json) |
+| Glaring Flaw | 424734 | [424734-glaring-flaw.json](./424734-glaring-flaw.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
 | Glass | 14094 | [14094-glass.json](./14094-glass.json) |
 | Glass | 166487 | [166487-glass.json](./166487-glass.json) |
@@ -5790,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Outbreak | 16853 | [16853-global-outbreak.json](./16853-global-outbreak.json) |
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Pandemic | 192518 | [192518-global-pandemic.json](./192518-global-pandemic.json) |
+| Global Parity | 424670 | [424670-global-parity.json](./424670-global-parity.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
 | Global Rescue | 362051 | [362051-global-rescue.json](./362051-global-rescue.json) |
 | Global Resistance | 304273 | [304273-global-resistance.json](./304273-global-resistance.json) |
@@ -7525,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Trails 3: The Guardian's Creed | 89731 | [89731-golden-trails-3-the-guardians-creed.json](./89731-golden-trails-3-the-guardians-creed.json) |
 | Golden Trails: The New Western Rush | 54056 | [54056-golden-trails-the-new-western-rush.json](./54056-golden-trails-the-new-western-rush.json) |
 | Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
+| Golden Trivia Show | 424745 | [424745-golden-trivia-show.json](./424745-golden-trivia-show.json) |
 | Golden Underfoot | 189890 | [189890-golden-underfoot.json](./189890-golden-underfoot.json) |
 | Golden Voyage | 18525 | [18525-golden-voyage.json](./18525-golden-voyage.json) |
 | Golden Voyage | 377322 | [377322-golden-voyage.json](./377322-golden-voyage.json) |
@@ -9173,6 +9176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Bubble | 329720 | [329720-grand-theft-bubble.json](./329720-grand-theft-bubble.json) |
 | Grand Theft Gato: Vice Kitty | 196969 | [196969-grand-theft-gato-vice-kitty.json](./196969-grand-theft-gato-vice-kitty.json) |
 | Grand Theft Houso | 288703 | [288703-grand-theft-houso.json](./288703-grand-theft-houso.json) |
+| Grand Theft Idiots | 424700 | [424700-grand-theft-idiots.json](./424700-grand-theft-idiots.json) |
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
 | Grand Theft Timeline | 410456 | [410456-grand-theft-timeline.json](./410456-grand-theft-timeline.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
