@@ -6897,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Hacker | 90858 | [90858-retro-hacker.json](./90858-retro-hacker.json) |
 | Retro Highway | 241705 | [241705-retro-highway.json](./241705-retro-highway.json) |
 | Retro Highway | 96593 | [96593-retro-highway.json](./96593-retro-highway.json) |
+| Retro Hockey Coach 2021 | 174380 | [174380-retro-hockey-coach-2021.json](./174380-retro-hockey-coach-2021.json) |
 | Retro Horror Bundle | 378837 | [378837-retro-horror-bundle.json](./378837-retro-horror-bundle.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
