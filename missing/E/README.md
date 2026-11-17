@@ -8989,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
 | Exoria | 408199 | [408199-exoria.json](./408199-exoria.json) |
 | Exorkízein | 297828 | [297828-exorkizein.json](./297828-exorkizein.json) |
+| Exorsister | 67579 | [67579-exorsister.json](./67579-exorsister.json) |
 | Exorsite | 251973 | [251973-exorsite.json](./251973-exorsite.json) |
 | ExorSYS | 335245 | [335245-exorsys.json](./335245-exorsys.json) |
 | Exorun | 172534 | [172534-exorun.json](./172534-exorun.json) |
