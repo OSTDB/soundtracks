@@ -6103,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
 | Requiem Memory | 265584 | [265584-requiem-memory.json](./265584-requiem-memory.json) |
 | Requiem of Dread | 340702 | [340702-requiem-of-dread.json](./340702-requiem-of-dread.json) |
+| Requiem of Hell | 6274 | [6274-requiem-of-hell.json](./6274-requiem-of-hell.json) |
 | Requiem of Reuinis | 347999 | [347999-requiem-of-reuinis.json](./347999-requiem-of-reuinis.json) |
 | Requiem of Science | 194221 | [194221-requiem-of-science.json](./194221-requiem-of-science.json) |
 | Requiem of the Dark Lord | 399028 | [399028-requiem-of-the-dark-lord.json](./399028-requiem-of-the-dark-lord.json) |
@@ -8500,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftlight | 61222 | [61222-riftlight.json](./61222-riftlight.json) |
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
+| Rifts: Promise of Power | 6275 | [6275-rifts-promise-of-power.json](./6275-rifts-promise-of-power.json) |
 | Riftseekers | 347431 | [347431-riftseekers.json](./347431-riftseekers.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | Riftslayer | 410626 | [410626-riftslayer.json](./410626-riftslayer.json) |
@@ -9640,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Hades | 306867 | [306867-road-to-hades.json](./306867-road-to-hades.json) |
 | Road To Heaven | 400566 | [400566-road-to-heaven.json](./400566-road-to-heaven.json) |
 | Road to Hollow Hills | 154038 | [154038-road-to-hollow-hills.json](./154038-road-to-hollow-hills.json) |
+| Road to India: Between Hell and Nirvana | 12473 | [12473-road-to-india-between-hell-and-nirvana.json](./12473-road-to-india-between-hell-and-nirvana.json) |
 | Road to Jonin! The 3-Choice Ninja Quiz | 406060 | [406060-road-to-jonin-the-3-choice-ninja-quiz.json](./406060-road-to-jonin-the-3-choice-ninja-quiz.json) |
 | Road to Jukai | 380485 | [380485-road-to-jukai.json](./380485-road-to-jukai.json) |
 | Road to Karatl | 375485 | [375485-road-to-karatl.json](./375485-road-to-karatl.json) |
