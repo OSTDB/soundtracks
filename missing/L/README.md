@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larcin Lazer | 169792 | [169792-larcin-lazer.json](./169792-larcin-lazer.json) |
 | Lareissa Everbright | 136610 | [136610-lareissa-everbright.json](./136610-lareissa-everbright.json) |
 | Larentia | 330748 | [330748-larentia.json](./330748-larentia.json) |
+| Large | 107303 | [107303-large.json](./107303-large.json) |
 | Large PonPon | 305064 | [305064-large-ponpon.json](./305064-large-ponpon.json) |
 | Largely Legal Monstrosity | 422128 | [422128-largely-legal-monstrosity.json](./422128-largely-legal-monstrosity.json) |
 | Larger Than Light | 157017 | [157017-larger-than-light.json](./157017-larger-than-light.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of the Ancients | 19794 | [19794-legacy-of-the-ancients.json](./19794-legacy-of-the-ancients.json) |
 | Legacy of the Ark: Beneath the Broken Sky | 420309 | [420309-legacy-of-the-ark-beneath-the-broken-sky.json](./420309-legacy-of-the-ark-beneath-the-broken-sky.json) |
 | Legacy of the Ark: The Long Awakening | 410014 | [410014-legacy-of-the-ark-the-long-awakening.json](./410014-legacy-of-the-ark-the-long-awakening.json) |
+| Legacy of the Beast | 107276 | [107276-legacy-of-the-beast.json](./107276-legacy-of-the-beast.json) |
 | Legacy of the Dragonborn | 356218 | [356218-legacy-of-the-dragonborn.json](./356218-legacy-of-the-dragonborn.json) |
 | Legacy of the Elder Star | 33555 | [33555-legacy-of-the-elder-star.json](./33555-legacy-of-the-elder-star.json) |
 | Legacy Of The Legends | 252191 | [252191-legacy-of-the-legends.json](./252191-legacy-of-the-legends.json) |
