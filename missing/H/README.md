@@ -5081,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Duck | 408154 | [408154-hello-duck.json](./408154-hello-duck.json) |
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
 | Hello Engineer | 153521 | [153521-hello-engineer.json](./153521-hello-engineer.json) |
+| Hello Everynyan | 428889 | [428889-hello-everynyan.json](./428889-hello-everynyan.json) |
 | Hello Exo | 240623 | [240623-hello-exo.json](./240623-hello-exo.json) |
 | Hello Fangaming Collection | 320231 | [320231-hello-fangaming-collection.json](./320231-hello-fangaming-collection.json) |
 | Hello Fangaming Time Capsule | 320206 | [320206-hello-fangaming-time-capsule.json](./320206-hello-fangaming-time-capsule.json) |
@@ -9227,6 +9228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himalayan Mysteries | 94799 | [94799-himalayan-mysteries.json](./94799-himalayan-mysteries.json) |
 | HimaNatsu: Of Churches, Sunflowers, and Long Summers | 410423 | [410423-himanatsu-of-churches-sunflowers-and-long-summers.json](./410423-himanatsu-of-churches-sunflowers-and-long-summers.json) |
 | Himantolo | 293660 | [293660-himantolo.json](./293660-himantolo.json) |
+| Himatsubushi Jigsaw Puzzle: Oyasumi Minomushi | 428878 | [428878-himatsubushi-jigsaw-puzzle-oyasumi-minomushi.json](./428878-himatsubushi-jigsaw-puzzle-oyasumi-minomushi.json) |
 | Himawari | 59462 | [59462-himawari.json](./59462-himawari.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
