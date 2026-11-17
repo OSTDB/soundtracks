@@ -536,10 +536,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Street Wars: the Final Conflict! | 98788 | [98788-wall-street-wars-the-final-conflict.json](./98788-wall-street-wars-the-final-conflict.json) |
 | Wall to Wall | 115142 | [115142-wall-to-wall.json](./115142-wall-to-wall.json) |
 | Wall to Wall | 188997 | [188997-wall-to-wall.json](./188997-wall-to-wall.json) |
-| Wall Town Wonders | 320625 | [320625-wall-town-wonders.json](./320625-wall-town-wonders.json) |
 | Wall Walker | 106311 | [106311-wall-walker.json](./106311-wall-walker.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
-| Wall World 2 | 335291 | [335291-wall-world-2.json](./335291-wall-world-2.json) |
 | Wall World 3 | 416207 | [416207-wall-world-3.json](./416207-wall-world-3.json) |
 | Wall World Complete | 369136 | [369136-wall-world-complete.json](./369136-wall-world-complete.json) |
 | Wall World Strategy | 398525 | [398525-wall-world-strategy.json](./398525-wall-world-strategy.json) |
@@ -1584,7 +1582,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
 | Warhammer 40,000: Battlesector - Tyranid Elites | 314775 | [314775-warhammer-40-000-battlesector-tyranid-elites.json](./314775-warhammer-40-000-battlesector-tyranid-elites.json) |
 | Warhammer 40,000: Battlesector - Ultramarines | 402508 | [402508-warhammer-40-000-battlesector-ultramarines.json](./402508-warhammer-40-000-battlesector-ultramarines.json) |
-| Warhammer 40,000: Battlesector – Deeds of the Fallen | 344677 | [344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json](./344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json) |
 | Warhammer 40,000: Boltgun | 203258 | [203258-warhammer-40-000-boltgun.json](./203258-warhammer-40-000-boltgun.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Boltgun 2 | 344669 | [344669-warhammer-40-000-boltgun-2.json](./344669-warhammer-40-000-boltgun-2.json) |
@@ -1611,7 +1608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
 | Warhammer 40,000: Darktide - The Traitor Curse Part 1 | 276771 | [276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json](./276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json) |
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
-| Warhammer 40,000: Dawn of War - Definitive Edition | 344680 | [344680-warhammer-40-000-dawn-of-war-definitive-edition.json](./344680-warhammer-40-000-dawn-of-war-definitive-edition.json) |
 | Warhammer 40,000: Dawn of War - Game of the Year Edition | 28981 | [28981-warhammer-40-000-dawn-of-war-game-of-the-year-edition.json](./28981-warhammer-40-000-dawn-of-war-game-of-the-year-edition.json) |
 | Warhammer 40,000: Dawn of War - Master Collection | 53894 | [53894-warhammer-40-000-dawn-of-war-master-collection.json](./53894-warhammer-40-000-dawn-of-war-master-collection.json) |
 | Warhammer 40,000: Dawn of War - Soulstorm | 468 | [468-warhammer-40-000-dawn-of-war-soulstorm.json](./468-warhammer-40-000-dawn-of-war-soulstorm.json) |
@@ -1696,7 +1692,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Rogue Trader - Processional of the Damned | 406371 | [406371-warhammer-40-000-rogue-trader-processional-of-the-damned.json](./406371-warhammer-40-000-rogue-trader-processional-of-the-damned.json) |
 | Warhammer 40,000: Rogue Trader - The Infinite Museion | 393038 | [393038-warhammer-40-000-rogue-trader-the-infinite-museion.json](./393038-warhammer-40-000-rogue-trader-the-infinite-museion.json) |
 | Warhammer 40,000: Rogue Trader - The Shovel DLC | 342189 | [342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json](./342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json) |
-| Warhammer 40,000: Rogue Trader - Void Shadows | 302168 | [302168-warhammer-40-000-rogue-trader-void-shadows.json](./302168-warhammer-40-000-rogue-trader-void-shadows.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Edition | 279877 | [279877-warhammer-40-000-rogue-trader-voidfarer-edition.json](./279877-warhammer-40-000-rogue-trader-voidfarer-edition.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
 | Warhammer 40,000: Sanctus Reach - Horrors of the Warp | 111746 | [111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json](./111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json) |
@@ -2421,7 +2416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartales: Contract - The Fief | 362769 | [362769-wartales-contract-the-fief.json](./362769-wartales-contract-the-fief.json) |
 | Wartales: The Pits | 322789 | [322789-wartales-the-pits.json](./322789-wartales-the-pits.json) |
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
-| Wartales: The Tavern Opens! | 296870 | [296870-wartales-the-tavern-opens.json](./296870-wartales-the-tavern-opens.json) |
 | Wartheon | 367722 | [367722-wartheon.json](./367722-wartheon.json) |
 | Warthog Launch | 165168 | [165168-warthog-launch.json](./165168-warthog-launch.json) |
 | Warthog Rally | 393022 | [393022-warthog-rally.json](./393022-warthog-rally.json) |
@@ -3521,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Merge Inc | 374661 | [374661-weed-merge-inc.json](./374661-weed-merge-inc.json) |
 | Weed Runner | 211329 | [211329-weed-runner.json](./211329-weed-runner.json) |
 | Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
+| Weed Shop 3 | 143798 | [143798-weed-shop-3.json](./143798-weed-shop-3.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weed Shop Simulator | 344284 | [344284-weed-shop-simulator.json](./344284-weed-shop-simulator.json) |
 | Weed Simulator | 326317 | [326317-weed-simulator.json](./326317-weed-simulator.json) |
@@ -5833,7 +5828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Haven | 320603 | [320603-wild-haven.json](./320603-wild-haven.json) |
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
 | Wild Hearts | 218793 | [218793-wild-hearts.json](./218793-wild-hearts.json) |
-| Wild Hearts S | 338090 | [338090-wild-hearts-s.json](./338090-wild-hearts-s.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Heroes: Fight Together | 424626 | [424626-wild-heroes-fight-together.json](./424626-wild-heroes-fight-together.json) |
 | Wild Hive | 410287 | [410287-wild-hive.json](./410287-wild-hive.json) |
@@ -6449,7 +6443,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windstorm: An Unexpected Arrival | 219342 | [219342-windstorm-an-unexpected-arrival.json](./219342-windstorm-an-unexpected-arrival.json) |
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
 | Windstorm: Start of a Great Friendship | 186557 | [186557-windstorm-start-of-a-great-friendship.json](./186557-windstorm-start-of-a-great-friendship.json) |
-| Windstorm: Start of a Great Friendship - Remastered | 295730 | [295730-windstorm-start-of-a-great-friendship-remastered.json](./295730-windstorm-start-of-a-great-friendship-remastered.json) |
 | Windstorm: Start of a Great Friendship Remastered - Complete Edition | 331827 | [331827-windstorm-start-of-a-great-friendship-remastered-complete-edition.json](./331827-windstorm-start-of-a-great-friendship-remastered-complete-edition.json) |
 | Windsurfers Paradise | 12902 | [12902-windsurfers-paradise.json](./12902-windsurfers-paradise.json) |
 | Windsurfing MMX | 213988 | [213988-windsurfing-mmx.json](./213988-windsurfing-mmx.json) |
@@ -10124,7 +10117,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
 | Wrath Unleashed | 6248 | [6248-wrath-unleashed.json](./6248-wrath-unleashed.json) |
 | Wrath: Aeon of Ruin | 115873 | [115873-wrath-aeon-of-ruin.json](./115873-wrath-aeon-of-ruin.json) |
-| Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
 | Wrathbreaker | 417856 | [417856-wrathbreaker.json](./417856-wrathbreaker.json) |
 | Wrathflame | 415557 | [415557-wrathflame.json](./415557-wrathflame.json) |
 | Wrathline | 414738 | [414738-wrathline.json](./414738-wrathline.json) |
