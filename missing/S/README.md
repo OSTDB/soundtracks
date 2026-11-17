@@ -24226,6 +24226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcasting Collection | 115708 | [115708-spellcasting-collection.json](./115708-spellcasting-collection.json) |
 | Spellcats: Auto Card Tactics | 236288 | [236288-spellcats-auto-card-tactics.json](./236288-spellcats-auto-card-tactics.json) |
 | Spellchain | 181672 | [181672-spellchain.json](./181672-spellchain.json) |
+| Spellchainer | 421139 | [421139-spellchainer.json](./421139-spellchainer.json) |
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
 | Spellcorked! | 151980 | [151980-spellcorked.json](./151980-spellcorked.json) |
@@ -26936,6 +26937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StageMechanic | 110848 | [110848-stagemechanic.json](./110848-stagemechanic.json) |
 | Stages of Grief | 148234 | [148234-stages-of-grief.json](./148234-stages-of-grief.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
+| StageStar | 421129 | [421129-stagestar.json](./421129-stagestar.json) |
 | StageTime | 334255 | [334255-stagetime.json](./334255-stagetime.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
 | Staggering Beauty | 337136 | [337136-staggering-beauty.json](./337136-staggering-beauty.json) |
@@ -27306,6 +27308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Force | 359727 | [359727-star-force.json](./359727-star-force.json) |
 | Star Force | 88399 | [88399-star-force.json](./88399-star-force.json) |
+| Star Fort | 421085 | [421085-star-fort.json](./421085-star-fort.json) |
 | Star Fox | 234945 | [234945-star-fox.json](./234945-star-fox.json) |
 | Star Fox | 23854 | [23854-star-fox.json](./23854-star-fox.json) |
 | Star Fox | 308046 | [308046-star-fox.json](./308046-star-fox.json) |
@@ -30715,6 +30718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | Stolen Rage | 149394 | [149394-stolen-rage.json](./149394-stolen-rage.json) |
 | Stolen Realm | 140445 | [140445-stolen-realm.json](./140445-stolen-realm.json) |
+| Stolen Realm II | 421100 | [421100-stolen-realm-ii.json](./421100-stolen-realm-ii.json) |
 | Stolen Realm Survivors | 325324 | [325324-stolen-realm-survivors.json](./325324-stolen-realm-survivors.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Skies | 390840 | [390840-stolen-skies.json](./390840-stolen-skies.json) |
