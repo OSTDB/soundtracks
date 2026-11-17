@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Team | 193693 | [193693-b-team.json](./193693-b-team.json) |
 | B-Units Build it! | 65712 | [65712-b-units-build-it.json](./65712-b-units-build-it.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
+| B;P;M | 428928 | [428928-b-p-m.json](./428928-b-p-m.json) |
 | B:(ursed | 223862 | [223862-b-ursed.json](./223862-b-ursed.json) |
 | B. | 326494 | [326494-b.json](./326494-b.json) |
 | B. Braun Aesculap Spine VR | 107686 | [107686-b-braun-aesculap-spine-vr.json](./107686-b-braun-aesculap-spine-vr.json) |
@@ -8278,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Games: Mission of Paul | 106937 | [106937-bible-games-mission-of-paul.json](./106937-bible-games-mission-of-paul.json) |
 | Bible Master | 299818 | [299818-bible-master.json](./299818-bible-master.json) |
 | Bible Master 2: The Chaos of Aglia | 299819 | [299819-bible-master-2-the-chaos-of-aglia.json](./299819-bible-master-2-the-chaos-of-aglia.json) |
+| Bible Putt Putt | 428929 | [428929-bible-putt-putt.json](./428929-bible-putt-putt.json) |
 | Bible Puzzle | 319723 | [319723-bible-puzzle.json](./319723-bible-puzzle.json) |
 | Bible Puzzle: Christian Game | 378748 | [378748-bible-puzzle-christian-game.json](./378748-bible-puzzle-christian-game.json) |
 | Bible Quiz: Trivia Game | 402227 | [402227-bible-quiz-trivia-game.json](./402227-bible-quiz-trivia-game.json) |
