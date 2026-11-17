@@ -143,7 +143,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jacaranda Jim | 93463 | [93463-jacaranda-jim.json](./93463-jacaranda-jim.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
-| Jack 'n' Hat | 149790 | [149790-jack-n-hat.json](./149790-jack-n-hat.json) |
 | Jack & Beans | 176040 | [176040-jack-and-beans.json](./176040-jack-and-beans.json) |
 | Jack & Bob Remastered | 316308 | [316308-jack-and-bob-remastered.json](./316308-jack-and-bob-remastered.json) |
 | Jack & Detective | 197468 | [197468-jack-and-detective.json](./197468-jack-and-detective.json) |
@@ -190,8 +189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack in the Box | 313613 | [313613-jack-in-the-box.json](./313613-jack-in-the-box.json) |
 | Jack in the Dark | 51346 | [51346-jack-in-the-dark.json](./51346-jack-in-the-dark.json) |
 | Jack In Town | 129041 | [129041-jack-in-town.json](./129041-jack-in-town.json) |
-| Jack Is Missing | 108374 | [108374-jack-is-missing.json](./108374-jack-is-missing.json) |
-| Jack Jeanne | 117675 | [117675-jack-jeanne.json](./117675-jack-jeanne.json) |
 | Jack Jeanne 2 | 353636 | [353636-jack-jeanne-2.json](./353636-jack-jeanne-2.json) |
 | Jack Jeanne: Limited Edition | 228742 | [228742-jack-jeanne-limited-edition.json](./228742-jack-jeanne-limited-edition.json) |
 | Jack Keane | 10463 | [10463-jack-keane.json](./10463-jack-keane.json) |
@@ -249,7 +246,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack troubles | 128310 | [128310-jack-troubles.json](./128310-jack-troubles.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack Walker: Ethereal | 158332 | [158332-jack-walker-ethereal.json](./158332-jack-walker-ethereal.json) |
-| Jack-In-A-Castle | 118440 | [118440-jack-in-a-castle.json](./118440-jack-in-a-castle.json) |
 | Jack-O-Lantern Covers of Darkness | 127383 | [127383-jack-o-lantern-covers-of-darkness.json](./127383-jack-o-lantern-covers-of-darkness.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
 | Jack's 510 Racing | 372608 | [372608-jacks-510-racing.json](./372608-jacks-510-racing.json) |
@@ -565,7 +561,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Blood Stone | 1648 | [1648-james-bond-007-blood-stone.json](./1648-james-bond-007-blood-stone.json) |
 | James Bond 007: Blood Stone | 84997 | [84997-james-bond-007-blood-stone.json](./84997-james-bond-007-blood-stone.json) |
 | James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
-| James Bond 007: Everything or Nothing | 243013 | [243013-james-bond-007-everything-or-nothing.json](./243013-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: From Russia with Love | 1645 | [1645-james-bond-007-from-russia-with-love.json](./1645-james-bond-007-from-russia-with-love.json) |
 | James Bond 007: From Russia with Love | 248548 | [248548-james-bond-007-from-russia-with-love.json](./248548-james-bond-007-from-russia-with-love.json) |
 | James Bond 007: Goldfinger | 1633 | [1633-james-bond-007-goldfinger.json](./1633-james-bond-007-goldfinger.json) |
@@ -1217,7 +1212,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
 | Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
 | Jennifer Wilde | 69390 | [69390-jennifer-wilde.json](./69390-jennifer-wilde.json) |
-| Jennifer Wilde: Unlikely Revolutionaries | 151177 | [151177-jennifer-wilde-unlikely-revolutionaries.json](./151177-jennifer-wilde-unlikely-revolutionaries.json) |
 | Jennifer's Fragments | 270056 | [270056-jennifers-fragments.json](./270056-jennifers-fragments.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jennifer's Nonsensical Christmas Adventure | 399253 | [399253-jennifers-nonsensical-christmas-adventure.json](./399253-jennifers-nonsensical-christmas-adventure.json) |
@@ -1400,7 +1394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Force Gemini | 284130 | [284130-jet-force-gemini.json](./284130-jet-force-gemini.json) |
 | Jet Force Gemini Trainer and Co-Op Hack | 173086 | [173086-jet-force-gemini-trainer-and-co-op-hack.json](./173086-jet-force-gemini-trainer-and-co-op-hack.json) |
 | Jet Girls | 130477 | [130477-jet-girls.json](./130477-jet-girls.json) |
-| Jet Grind Radio | 145186 | [145186-jet-grind-radio.json](./145186-jet-grind-radio.json) |
 | Jet Gunner | 17655 | [17655-jet-gunner.json](./17655-jet-gunner.json) |
 | Jet Gunner: Refueled | 373316 | [373316-jet-gunner-refueled.json](./373316-jet-gunner-refueled.json) |
 | Jet Hero | 29636 | [29636-jet-hero.json](./29636-jet-hero.json) |
@@ -2438,7 +2431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game: Happy Step | 344633 | [344633-jinsei-game-happy-step.json](./344633-jinsei-game-happy-step.json) |
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinsei Owata no Daibouken | 285132 | [285132-jinsei-owata-no-daibouken.json](./285132-jinsei-owata-no-daibouken.json) |
-| Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
 | Jintori Action! Taikoukenchi: Karakuri Shiro no Nazo | 344636 | [344636-jintori-action-taikoukenchi-karakuri-shiro-no-nazo.json](./344636-jintori-action-taikoukenchi-karakuri-shiro-no-nazo.json) |
 | Jinx | 22223 | [22223-jinx.json](./22223-jinx.json) |
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
@@ -2839,14 +2831,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Heavy Burger | 110755 | [110755-johnny-turbos-arcade-heavy-burger.json](./110755-johnny-turbos-arcade-heavy-burger.json) |
 | Johnny Turbo's Arcade: Joe and Mac Caveman Ninja | 103106 | [103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json](./103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
-| Johnny Turbo's Arcade: Night Slashers | 111915 | [111915-johnny-turbos-arcade-night-slashers.json](./111915-johnny-turbos-arcade-night-slashers.json) |
-| Johnny Turbo's Arcade: Nitro Ball | 106354 | [106354-johnny-turbos-arcade-nitro-ball.json](./106354-johnny-turbos-arcade-nitro-ball.json) |
 | Johnny Turbo's Arcade: Shoot Out | 105889 | [105889-johnny-turbos-arcade-shoot-out.json](./105889-johnny-turbos-arcade-shoot-out.json) |
 | Johnny Turbo's Arcade: Sly Spy | 100310 | [100310-johnny-turbos-arcade-sly-spy.json](./100310-johnny-turbos-arcade-sly-spy.json) |
-| Johnny Turbo's Arcade: Super Burger Time | 102307 | [102307-johnny-turbos-arcade-super-burger-time.json](./102307-johnny-turbos-arcade-super-burger-time.json) |
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
 | Johnny Turbo's Arcade: Two Crude Dudes | 104710 | [104710-johnny-turbos-arcade-two-crude-dudes.json](./104710-johnny-turbos-arcade-two-crude-dudes.json) |
-| Johnny Turbo's Arcade: Wizard Fire | 103557 | [103557-johnny-turbos-arcade-wizard-fire.json](./103557-johnny-turbos-arcade-wizard-fire.json) |
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
 | Johnny's Minefield | 77049 | [77049-johnnys-minefield.json](./77049-johnnys-minefield.json) |
 | Johnny's Payday Panic | 59480 | [59480-johnnys-payday-panic.json](./59480-johnnys-payday-panic.json) |
@@ -3121,7 +3109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Realm: Dawn Dew | 279562 | [279562-journey-of-realm-dawn-dew.json](./279562-journey-of-realm-dawn-dew.json) |
 | Journey of Reincarnation | 303598 | [303598-journey-of-reincarnation.json](./303598-journey-of-reincarnation.json) |
 | Journey Of Rune | 343484 | [343484-journey-of-rune.json](./343484-journey-of-rune.json) |
-| Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
 | Journey of the Fox | 101287 | [101287-journey-of-the-fox.json](./101287-journey-of-the-fox.json) |
 | Journey of the Garden Rose | 346185 | [346185-journey-of-the-garden-rose.json](./346185-journey-of-the-garden-rose.json) |
@@ -3384,7 +3371,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judas Code | 61290 | [61290-judas-code.json](./61290-judas-code.json) |
 | Judas Priest: Road to Valhalla | 175162 | [175162-judas-priest-road-to-valhalla.json](./175162-judas-priest-road-to-valhalla.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
-| Judero | 221649 | [221649-judero.json](./221649-judero.json) |
 | Judge | 77076 | [77076-judge.json](./77076-judge.json) |
 | Judge Dee | 10478 | [10478-judge-dee.json](./10478-judge-dee.json) |
 | Judge Dee: The City God Case | 64833 | [64833-judge-dee-the-city-god-case.json](./64833-judge-dee-the-city-god-case.json) |
@@ -3524,7 +3510,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | Jukebox | 40891 | [40891-jukebox.json](./40891-jukebox.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
-| Juken Jigoku | 127745 | [127745-juken-jigoku.json](./127745-juken-jigoku.json) |
 | Jukugon | 56830 | [56830-jukugon.json](./56830-jukugon.json) |
 | Julens Hjältar | 399388 | [399388-julens-hjaltar.json](./399388-julens-hjaltar.json) |
 | Juler's Mod | 411223 | [411223-julers-mod.json](./411223-julers-mod.json) |
@@ -3646,7 +3631,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
 | Jump Force: Collector's Edition | 136049 | [136049-jump-force-collectors-edition.json](./136049-jump-force-collectors-edition.json) |
-| Jump Force: Deluxe Edition | 118748 | [118748-jump-force-deluxe-edition.json](./118748-jump-force-deluxe-edition.json) |
 | Jump Force: Ultimate Edition | 118721 | [118721-jump-force-ultimate-edition.json](./118721-jump-force-ultimate-edition.json) |
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
 | Jump Frog | 372402 | [372402-jump-frog.json](./372402-jump-frog.json) |
@@ -3834,7 +3818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpfox: Always Running | 278547 | [278547-jumpfox-always-running.json](./278547-jumpfox-always-running.json) |
 | Jumpgate Evolution | 94708 | [94708-jumpgate-evolution.json](./94708-jumpgate-evolution.json) |
 | Jumpgate: The Reconstruction Initiative | 765 | [765-jumpgate-the-reconstruction-initiative.json](./765-jumpgate-the-reconstruction-initiative.json) |
-| Jumpgrid | 111420 | [111420-jumpgrid.json](./111420-jumpgrid.json) |
 | JumpGuy | 55238 | [55238-jumpguy.json](./55238-jumpguy.json) |
 | JumpHead: Battle4Fun! | 108291 | [108291-jumphead-battle4fun.json](./108291-jumphead-battle4fun.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
@@ -3881,7 +3864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jazz Cats | 207632 | [207632-jumping-jazz-cats.json](./207632-jumping-jazz-cats.json) |
 | Jumping Jean | 364235 | [364235-jumping-jean.json](./364235-jumping-jean.json) |
 | Jumping jet | 131844 | [131844-jumping-jet.json](./131844-jumping-jet.json) |
-| Jumping Joe & Friends | 102789 | [102789-jumping-joe-and-friends.json](./102789-jumping-joe-and-friends.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
 | Jumping Jump Ninja | 357693 | [357693-jumping-jump-ninja.json](./357693-jumping-jump-ninja.json) |
 | Jumping Jupingo | 22107 | [22107-jumping-jupingo.json](./22107-jumping-jupingo.json) |
@@ -4381,9 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Cretaceous Predator Pack | 277848 | [277848-jurassic-world-evolution-2-cretaceous-predator-pack.json](./277848-jurassic-world-evolution-2-cretaceous-predator-pack.json) |
 | Jurassic World Evolution 2: Deluxe Edition | 169166 | [169166-jurassic-world-evolution-2-deluxe-edition.json](./169166-jurassic-world-evolution-2-deluxe-edition.json) |
 | Jurassic World Evolution 2: Dominion Biosyn Bundle | 207940 | [207940-jurassic-world-evolution-2-dominion-biosyn-bundle.json](./207940-jurassic-world-evolution-2-dominion-biosyn-bundle.json) |
-| Jurassic World Evolution 2: Dominion Biosyn Expansion | 203760 | [203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json](./203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json) |
 | Jurassic World Evolution 2: Dominion Bundle | 228844 | [228844-jurassic-world-evolution-2-dominion-bundle.json](./228844-jurassic-world-evolution-2-dominion-bundle.json) |
-| Jurassic World Evolution 2: Dominion Malta Expansion | 228747 | [228747-jurassic-world-evolution-2-dominion-malta-expansion.json](./228747-jurassic-world-evolution-2-dominion-malta-expansion.json) |
 | Jurassic World Evolution 2: Early Cretaceous Pack | 226867 | [226867-jurassic-world-evolution-2-early-cretaceous-pack.json](./226867-jurassic-world-evolution-2-early-cretaceous-pack.json) |
 | Jurassic World Evolution 2: Feathered Species Pack | 242524 | [242524-jurassic-world-evolution-2-feathered-species-pack.json](./242524-jurassic-world-evolution-2-feathered-species-pack.json) |
 | Jurassic World Evolution 2: Late Cretaceous Pack | 227397 | [227397-jurassic-world-evolution-2-late-cretaceous-pack.json](./227397-jurassic-world-evolution-2-late-cretaceous-pack.json) |
@@ -4712,7 +4692,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Puzzles: Water | 417715 | [417715-just-puzzles-water.json](./417715-just-puzzles-water.json) |
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
 | Just Read the Instructions | 149208 | [149208-just-read-the-instructions.json](./149208-just-read-the-instructions.json) |
-| Just Ride | 105260 | [105260-just-ride.json](./105260-just-ride.json) |
 | Just Roll | 285689 | [285689-just-roll.json](./285689-just-roll.json) |
 | Just Roll With It | 112763 | [112763-just-roll-with-it.json](./112763-just-roll-with-it.json) |
 | Just Run! | 102141 | [102141-just-run.json](./102141-just-run.json) |
