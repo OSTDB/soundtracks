@@ -25298,7 +25298,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splix.io | 57900 | [57900-splix-io.json](./57900-splix-io.json) |
 | Splode | 57826 | [57826-splode.json](./57826-splode.json) |
 | Sploder! | 313036 | [313036-sploder.json](./313036-sploder.json) |
-| Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
 | Splodey Vaders | 134262 | [134262-splodey-vaders.json](./134262-splodey-vaders.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
 | Splody | 32704 | [32704-splody.json](./32704-splody.json) |
