@@ -9601,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tree | 189999 | [189999-world-tree.json](./189999-world-tree.json) |
 | World Tree Defender | 409607 | [409607-world-tree-defender.json](./409607-world-tree-defender.json) |
 | World Tree Inferno | 347198 | [347198-world-tree-inferno.json](./347198-world-tree-inferno.json) |
+| World Tree Marché: Gourmet Story | 107324 | [107324-world-tree-marche-gourmet-story.json](./107324-world-tree-marche-gourmet-story.json) |
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
 | World Trigger: Smash Borders | 27029 | [27029-world-trigger-smash-borders.json](./27029-world-trigger-smash-borders.json) |
 | World Trophy Soccer | 4390 | [4390-world-trophy-soccer.json](./4390-world-trophy-soccer.json) |
