@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnussoft's Colossus Chess | 91540 | [91540-magnussofts-colossus-chess.json](./91540-magnussofts-colossus-chess.json) |
 | Magnytour | 244402 | [244402-magnytour.json](./244402-magnytour.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
+| Mago: The Villain's Burger | 188698 | [188698-mago-the-villains-burger.json](./188698-mago-the-villains-burger.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
 | Magocracy: Experimentation | 223342 | [223342-magocracy-experimentation.json](./223342-magocracy-experimentation.json) |
 | Magolor Wii | 314562 | [314562-magolor-wii.json](./314562-magolor-wii.json) |
@@ -5498,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvin's Maze | 24631 | [24631-marvins-maze.json](./24631-marvins-maze.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
 | Marwin and the Evolution Stone | 31745 | [31745-marwin-and-the-evolution-stone.json](./31745-marwin-and-the-evolution-stone.json) |
+| Mary | 188694 | [188694-mary.json](./188694-mary.json) |
 | Mary | 323001 | [323001-mary.json](./323001-mary.json) |
 | Mary Had a Little Lamb | 241458 | [241458-mary-had-a-little-lamb.json](./241458-mary-had-a-little-lamb.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
@@ -5792,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Driving | 108582 | [108582-master-driving.json](./108582-master-driving.json) |
 | Master Fighter IV | 48574 | [48574-master-fighter-iv.json](./48574-master-fighter-iv.json) |
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
+| Master Forge | 189083 | [189083-master-forge.json](./189083-master-forge.json) |
 | Master Games 1 | 60330 | [60330-master-games-1.json](./60330-master-games-1.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Head | 138451 | [138451-master-head.json](./138451-master-head.json) |
@@ -9708,6 +9711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melancholy Lake: Camocipher12 Shorts | 408711 | [408711-melancholy-lake-camocipher12-shorts.json](./408711-melancholy-lake-camocipher12-shorts.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melancholy Republic | 33666 | [33666-melancholy-republic.json](./33666-melancholy-republic.json) |
+| Melania | 188697 | [188697-melania.json](./188697-melania.json) |
 | Melanie and the Magic Forest | 311946 | [311946-melanie-and-the-magic-forest.json](./311946-melanie-and-the-magic-forest.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
 | Melbits World | 103403 | [103403-melbits-world.json](./103403-melbits-world.json) |
@@ -14929,6 +14933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Arcade | 319130 | [319130-minimal-arcade.json](./319130-minimal-arcade.json) |
 | Minimal Bubble Pop | 208648 | [208648-minimal-bubble-pop.json](./208648-minimal-bubble-pop.json) |
 | Minimal Crypt | 163947 | [163947-minimal-crypt.json](./163947-minimal-crypt.json) |
+| Minimal Dungeon RPG | 188706 | [188706-minimal-dungeon-rpg.json](./188706-minimal-dungeon-rpg.json) |
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | Minimal Fear | 184600 | [184600-minimal-fear.json](./184600-minimal-fear.json) |
 | Minimal Freeman | 177684 | [177684-minimal-freeman.json](./177684-minimal-freeman.json) |
@@ -17182,6 +17187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo.exe VR | 173898 | [173898-momo-exe-vr.json](./173898-momo-exe-vr.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
+| Momo's Mansion | 189085 | [189085-momos-mansion.json](./189085-momos-mansion.json) |
 | Momochan's Brain is So Crazy! | 388979 | [388979-momochans-brain-is-so-crazy.json](./388979-momochans-brain-is-so-crazy.json) |
 | Momochiyo's Mononoke Taji | 303837 | [303837-momochiyos-mononoke-taji.json](./303837-momochiyos-mononoke-taji.json) |
 | Momodora | 18162 | [18162-momodora.json](./18162-momodora.json) |
