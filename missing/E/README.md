@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
 | Easy | 425421 | [425421-easy.json](./425421-easy.json) |
+| Easy Aces | 84371 | [84371-easy-aces.json](./84371-easy-aces.json) |
 | Easy Bake Kitchen | 69614 | [69614-easy-bake-kitchen.json](./69614-easy-bake-kitchen.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
 | Easy Breezy Drive | 295603 | [295603-easy-breezy-drive.json](./295603-easy-breezy-drive.json) |
