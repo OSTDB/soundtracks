@@ -5071,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall of the Dead | 361083 | [361083-nightfall-of-the-dead.json](./361083-nightfall-of-the-dead.json) |
 | Nightfall Protocol | 397467 | [397467-nightfall-protocol.json](./397467-nightfall-protocol.json) |
 | NightFall Shade | 285418 | [285418-nightfall-shade.json](./285418-nightfall-shade.json) |
+| Nightfall Streak: Underground Racing | 422947 | [422947-nightfall-streak-underground-racing.json](./422947-nightfall-streak-underground-racing.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
 | Nightfall Wardens | 302194 | [302194-nightfall-wardens.json](./302194-nightfall-wardens.json) |
