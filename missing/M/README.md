@@ -15191,6 +15191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minoriteam: Racist Checkers | 397355 | [397355-minoriteam-racist-checkers.json](./397355-minoriteam-racist-checkers.json) |
 | Minority Report: Everybody Runs | 248459 | [248459-minority-report-everybody-runs.json](./248459-minority-report-everybody-runs.json) |
 | Minority Report: Everybody Runs | 4012 | [4012-minority-report-everybody-runs.json](./4012-minority-report-everybody-runs.json) |
+| MinoRPG | 178691 | [178691-minorpg.json](./178691-minorpg.json) |
 | Minos | 241701 | [241701-minos.json](./241701-minos.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Dungeon | 349426 | [349426-minos-dungeon.json](./349426-minos-dungeon.json) |
@@ -17577,6 +17578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Valley | 216627 | [216627-monkey-valley.json](./216627-monkey-valley.json) |
 | Monkey vs. Dino | 167605 | [167605-monkey-vs-dino.json](./167605-monkey-vs-dino.json) |
 | Monkey Wall | 114481 | [114481-monkey-wall.json](./114481-monkey-wall.json) |
+| Monkey Warp | 177593 | [177593-monkey-warp.json](./177593-monkey-warp.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
 | Monkey Wrench | 78456 | [78456-monkey-wrench.json](./78456-monkey-wrench.json) |
