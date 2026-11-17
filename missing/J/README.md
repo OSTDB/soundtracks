@@ -4529,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 4: Neon Racer Pack | 263079 | [263079-just-cause-4-neon-racer-pack.json](./263079-just-cause-4-neon-racer-pack.json) |
 | Just Cause 4: Reloaded | 125637 | [125637-just-cause-4-reloaded.json](./125637-just-cause-4-reloaded.json) |
 | Just Cause 4: Reloaded Content Pack | 164576 | [164576-just-cause-4-reloaded-content-pack.json](./164576-just-cause-4-reloaded-content-pack.json) |
+| Just Cause 4: Steelbook Edition | 424099 | [424099-just-cause-4-steelbook-edition.json](./424099-just-cause-4-steelbook-edition.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
 | Just Cause Mobile | 141548 | [141548-just-cause-mobile.json](./141548-just-cause-mobile.json) |
