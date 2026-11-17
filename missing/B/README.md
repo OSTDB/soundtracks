@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallStack | 350320 | [350320-ballstack.json](./350320-ballstack.json) |
 | BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
 | Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
+| Ballsy! World Cup 2020 | 143800 | [143800-ballsy-world-cup-2020.json](./143800-ballsy-world-cup-2020.json) |
 | Balltopia | 375529 | [375529-balltopia.json](./375529-balltopia.json) |
 | Balltris | 119291 | [119291-balltris.json](./119291-balltris.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
@@ -12789,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodrayne 1 & 2: Revamped Dual Pack | 178178 | [178178-bloodrayne-1-and-2-revamped-dual-pack.json](./178178-bloodrayne-1-and-2-revamped-dual-pack.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
 | BloodRayne 2: ReVamped | 178177 | [178177-bloodrayne-2-revamped.json](./178177-bloodrayne-2-revamped.json) |
+| BloodRayne 2: Terminal Cut | 140690 | [140690-bloodrayne-2-terminal-cut.json](./140690-bloodrayne-2-terminal-cut.json) |
 | BloodRayne Absolute Bundle | 186537 | [186537-bloodrayne-absolute-bundle.json](./186537-bloodrayne-absolute-bundle.json) |
 | BloodRayne Complete Bundle | 154184 | [154184-bloodrayne-complete-bundle.json](./154184-bloodrayne-complete-bundle.json) |
 | BloodRayne: Betrayal | 2606 | [2606-bloodrayne-betrayal.json](./2606-bloodrayne-betrayal.json) |
@@ -14329,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Fox | 127384 | [127384-bomber-fox.json](./127384-bomber-fox.json) |
 | Bomber Friends | 114677 | [114677-bomber-friends.json](./114677-bomber-friends.json) |
+| Bomber Games | 141906 | [141906-bomber-games.json](./141906-bomber-games.json) |
 | Bomber Hehhe | 46363 | [46363-bomber-hehhe.json](./46363-bomber-hehhe.json) |
 | Bomber Hero | 101192 | [101192-bomber-hero.json](./101192-bomber-hero.json) |
 | Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
@@ -15637,6 +15640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash | 280838 | [280838-boulder-dash.json](./280838-boulder-dash.json) |
 | Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
 | Boulder Dash Construction Kit | 12943 | [12943-boulder-dash-construction-kit.json](./12943-boulder-dash-construction-kit.json) |
+| Boulder Dash Deluxe | 143786 | [143786-boulder-dash-deluxe.json](./143786-boulder-dash-deluxe.json) |
 | Boulder Dash Episode III: Final Blast | 70146 | [70146-boulder-dash-episode-iii-final-blast.json](./70146-boulder-dash-episode-iii-final-blast.json) |
 | Boulder Dash EX | 78733 | [78733-boulder-dash-ex.json](./78733-boulder-dash-ex.json) |
 | Boulder Dash III | 13427 | [13427-boulder-dash-iii.json](./13427-boulder-dash-iii.json) |
