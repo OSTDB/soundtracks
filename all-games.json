@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T06:10:54.742Z",
-  "total_soundtracks": 3546,
+  "generated_at": "2026-11-17T06:20:55.041Z",
+  "total_soundtracks": 3548,
   "games": [
     {
       "igdb_id": 292844,
@@ -855,6 +855,20 @@
       ]
     },
     {
+      "igdb_id": 290947,
+      "game_name": "Aerial_Knight's We Never Yield",
+      "game_url": "https://ostdb.net/games/aerial-knights-we-never-yield",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735e42f0788693dd4a34533512",
+      "albums": [
+        {
+          "album_name": "Aerial_Knight's We Never Yield (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3HRd8pozemUwEfROkaL40E",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 335238,
       "game_name": "Aether & Iron",
       "game_url": "https://ostdb.net/games/aether-and-iron",
@@ -1459,6 +1473,20 @@
         {
           "album_name": "All Our Asias (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0RrBudCyTv2m8xUsSFr5AL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 287174,
+      "game_name": "Alone in the Dark",
+      "game_url": "https://ostdb.net/games/alone-in-the-dark",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273db06c5e811c69c16567ff497",
+      "albums": [
+        {
+          "album_name": "Alone in the Dark (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Q9f5EaY5kL9C2OGftEQ2D",
           "apple_music_url": "",
           "album_link_url": ""
         }
