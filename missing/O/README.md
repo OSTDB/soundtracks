@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Eye | 297864 | [297864-odd-eye.json](./297864-odd-eye.json) |
 | Odd Gods | 97569 | [97569-odd-gods.json](./97569-odd-gods.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
+| Odd Haul | 429520 | [429520-odd-haul.json](./429520-odd-haul.json) |
 | Odd Hue Out! | 297310 | [297310-odd-hue-out.json](./297310-odd-hue-out.json) |
 | Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
 | Odd Island | 103037 | [103037-odd-island.json](./103037-odd-island.json) |
@@ -2948,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
 | One Piu Day | 107747 | [107747-one-piu-day.json](./107747-one-piu-day.json) |
 | One Pixel | 155895 | [155895-one-pixel.json](./155895-one-pixel.json) |
+| One Pixel | 429488 | [429488-one-pixel.json](./429488-one-pixel.json) |
 | One Pixel TWB | 173388 | [173388-one-pixel-twb.json](./173388-one-pixel-twb.json) |
 | One Plus Two = 3 | 415036 | [415036-one-plus-two-3.json](./415036-one-plus-two-3.json) |
 | One Possible Future | 404702 | [404702-one-possible-future.json](./404702-one-possible-future.json) |
@@ -3844,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenMadoola | 403283 | [403283-openmadoola.json](./403283-openmadoola.json) |
 | OpenMinded | 28223 | [28223-openminded.json](./28223-openminded.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
+| OpenMoHAA | 429472 | [429472-openmohaa.json](./429472-openmohaa.json) |
 | OpenMW | 111444 | [111444-openmw.json](./111444-openmw.json) |
 | OpenPop | 184869 | [184869-openpop.json](./184869-openpop.json) |
 | OpenQuest | 94550 | [94550-openquest.json](./94550-openquest.json) |
@@ -4561,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order Up!! | 5088 | [5088-order-up.json](./5088-order-up.json) |
 | Order Up!! To Go | 208150 | [208150-order-up-to-go.json](./208150-order-up-to-go.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
+| Order, My Lord! Tidy Up the Dungeon | 429481 | [429481-order-my-lord-tidy-up-the-dungeon.json](./429481-order-my-lord-tidy-up-the-dungeon.json) |
 | Order: VR | 53093 | [53093-order-vr.json](./53093-order-vr.json) |
 | Order!! | 408868 | [408868-order.json](./408868-order.json) |
 | Order's Up | 234005 | [234005-orders-up.json](./234005-orders-up.json) |
