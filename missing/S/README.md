@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam Power: Footballer | 122741 | [122741-sam-power-footballer.json](./122741-sam-power-footballer.json) |
 | Sam Power: Handyman | 122740 | [122740-sam-power-handyman.json](./122740-sam-power-handyman.json) |
 | SAM Simulator | 71179 | [71179-sam-simulator.json](./71179-sam-simulator.json) |
+| Sam Stoat: Safebreaker | 123093 | [123093-sam-stoat-safebreaker.json](./123093-sam-stoat-safebreaker.json) |
 | Sam the Boulderman | 266650 | [266650-sam-the-boulderman.json](./266650-sam-the-boulderman.json) |
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
 | Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzschild III: Wakusei Desperan | 124329 | [124329-schwarzschild-iii-wakusei-desperan.json](./124329-schwarzschild-iii-wakusei-desperan.json) |
 | Schwarzschild IV: The Cradle End | 124330 | [124330-schwarzschild-iv-the-cradle-end.json](./124330-schwarzschild-iv-the-cradle-end.json) |
 | Schwarzschild V: Shinnou Tanjou | 124331 | [124331-schwarzschild-v-shinnou-tanjou.json](./124331-schwarzschild-v-shinnou-tanjou.json) |
+| Schwarzschild: Kyouran no Ginga | 123108 | [123108-schwarzschild-kyouran-no-ginga.json](./123108-schwarzschild-kyouran-no-ginga.json) |
 | Schwarzwald | 223331 | [223331-schwarzwald.json](./223331-schwarzwald.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
@@ -5120,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Flirts | 206638 | [206638-secret-flirts.json](./206638-secret-flirts.json) |
 | Secret Forest | 295277 | [295277-secret-forest.json](./295277-secret-forest.json) |
 | Secret Game Code: Revise | 153168 | [153168-secret-game-code-revise.json](./153168-secret-game-code-revise.json) |
+| Secret Game: Killer Queen | 124289 | [124289-secret-game-killer-queen.json](./124289-secret-game-killer-queen.json) |
 | Secret Government | 110178 | [110178-secret-government.json](./110178-secret-government.json) |
 | Secret Habitat | 56176 | [56176-secret-habitat.json](./56176-secret-habitat.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
@@ -5538,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl VIII | 170222 | [170222-seek-girl-viii.json](./170222-seek-girl-viii.json) |
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
 | Seek Girl:Fog I | 137981 | [137981-seek-girl-fog-i.json](./137981-seek-girl-fog-i.json) |
+| Seek Hearts | 124314 | [124314-seek-hearts.json](./124314-seek-hearts.json) |
 | Seek Love | 111980 | [111980-seek-love.json](./111980-seek-love.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
 | Seek Not a Lighthouse | 75654 | [75654-seek-not-a-lighthouse.json](./75654-seek-not-a-lighthouse.json) |
@@ -23754,6 +23758,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Devils: Online Racing | 46371 | [46371-speed-devils-online-racing.json](./46371-speed-devils-online-racing.json) |
 | Speed Dreams | 65339 | [65339-speed-dreams.json](./65339-speed-dreams.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
+| Speed Driver 2: Over Take | 124293 | [124293-speed-driver-2-over-take.json](./124293-speed-driver-2-over-take.json) |
+| Speed Driver 3: Crash Hour | 124292 | [124292-speed-driver-3-crash-hour.json](./124292-speed-driver-3-crash-hour.json) |
+| Speed Driver 4: World Fever | 124291 | [124291-speed-driver-4-world-fever.json](./124291-speed-driver-4-world-fever.json) |
+| Speed Driver 5: The New Generation | 124294 | [124294-speed-driver-5-the-new-generation.json](./124294-speed-driver-5-the-new-generation.json) |
 | Speed Driver: Evolution | 131052 | [131052-speed-driver-evolution.json](./131052-speed-driver-evolution.json) |
 | Speed DX | 261254 | [261254-speed-dx.json](./261254-speed-dx.json) |
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
@@ -24373,6 +24381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spica Adventure | 353943 | [353943-spica-adventure.json](./353943-spica-adventure.json) |
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
 | Spice and Wolf VR | 105419 | [105419-spice-and-wolf-vr.json](./105419-spice-and-wolf-vr.json) |
+| Spice and Wolf VR 2 | 124305 | [124305-spice-and-wolf-vr-2.json](./124305-spice-and-wolf-vr-2.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
 | Spice Bandits | 312073 | [312073-spice-bandits.json](./312073-spice-bandits.json) |
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
@@ -34535,6 +34544,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Big Mega Trucks: Arena | 407910 | [407910-super-big-mega-trucks-arena.json](./407910-super-big-mega-trucks-arena.json) |
 | Super Bike | 42157 | [42157-super-bike.json](./42157-super-bike.json) |
 | Super Bike TransAm | 71804 | [71804-super-bike-transam.json](./71804-super-bike-transam.json) |
+| Super Bikes 2 | 124297 | [124297-super-bikes-2.json](./124297-super-bikes-2.json) |
+| Super Bikes 3 | 124296 | [124296-super-bikes-3.json](./124296-super-bikes-3.json) |
 | Super Bikkuriman | 42271 | [42271-super-bikkuriman.json](./42271-super-bikkuriman.json) |
 | Super Bikkuriman: Densetsu no Sekiban | 49138 | [49138-super-bikkuriman-densetsu-no-sekiban.json](./49138-super-bikkuriman-densetsu-no-sekiban.json) |
 | Super Billiards | 47511 | [47511-super-billiards.json](./47511-super-billiards.json) |
