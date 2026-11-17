@@ -5127,7 +5127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Forest Management | 420033 | [420033-terrible-forest-management.json](./420033-terrible-forest-management.json) |
 | Terrible Laboratory | 113862 | [113862-terrible-laboratory.json](./113862-terrible-laboratory.json) |
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
-| Terrible Lizards | 296564 | [296564-terrible-lizards.json](./296564-terrible-lizards.json) |
 | Terrible Neighbor House | 101206 | [101206-terrible-neighbor-house.json](./101206-terrible-neighbor-house.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrier Manager | 390893 | [390893-terrier-manager.json](./390893-terrier-manager.json) |
@@ -8656,7 +8655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
 | The Cruise 2 | 174385 | [174385-the-cruise-2.json](./174385-the-cruise-2.json) |
 | The Crusade Is Nigh | 303943 | [303943-the-crusade-is-nigh.json](./303943-the-crusade-is-nigh.json) |
-| The Crush House | 295636 | [295636-the-crush-house.json](./295636-the-crush-house.json) |
 | The Crust | 176109 | [176109-the-crust.json](./176109-the-crust.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Cruxis Sword | 126723 | [126723-the-cruxis-sword.json](./126723-the-cruxis-sword.json) |
@@ -22031,6 +22029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There’s Something Wrong With the Hero’s Choices | 401007 | [401007-there-s-something-wrong-with-the-hero-s-choices.json](./401007-there-s-something-wrong-with-the-hero-s-choices.json) |
 | There's something wrong with... | 289957 | [289957-theres-something-wrong-with.json](./289957-theres-something-wrong-with.json) |
 | Thereafter | 247622 | [247622-thereafter.json](./247622-thereafter.json) |
+| Therefore | 143785 | [143785-therefore.json](./143785-therefore.json) |
 | Theresia | 21300 | [21300-theresia.json](./21300-theresia.json) |
 | Theresia | 425405 | [425405-theresia.json](./425405-theresia.json) |
 | Theresia II: Dear Lizst | 425404 | [425404-theresia-ii-dear-lizst.json](./425404-theresia-ii-dear-lizst.json) |
@@ -26324,7 +26323,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Frontier | 378683 | [378683-tiny-frontier.json](./378683-tiny-frontier.json) |
 | Tiny Galaxy | 84951 | [84951-tiny-galaxy.json](./84951-tiny-galaxy.json) |
 | Tiny Games: Knights & Dragons | 84950 | [84950-tiny-games-knights-and-dragons.json](./84950-tiny-games-knights-and-dragons.json) |
-| Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
 | Tiny Garden Café | 423866 | [423866-tiny-garden-cafe.json](./423866-tiny-garden-cafe.json) |
 | Tiny Gems Bundle | 292617 | [292617-tiny-gems-bundle.json](./292617-tiny-gems-bundle.json) |
 | Tiny Gladiators | 125755 | [125755-tiny-gladiators.json](./125755-tiny-gladiators.json) |
@@ -33413,6 +33411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
 | Transfer Point | 395064 | [395064-transfer-point.json](./395064-transfer-point.json) |
 | Transference | 37064 | [37064-transference.json](./37064-transference.json) |
+| Transfinite Dungeon | 143796 | [143796-transfinite-dungeon.json](./143796-transfinite-dungeon.json) |
 | Transformagician | 181457 | [181457-transformagician.json](./181457-transformagician.json) |
 | Transformation Masks in Ocarina of Time | 387178 | [387178-transformation-masks-in-ocarina-of-time.json](./387178-transformation-masks-in-ocarina-of-time.json) |
 | Transformation Tycoon | 192646 | [192646-transformation-tycoon.json](./192646-transformation-tycoon.json) |
