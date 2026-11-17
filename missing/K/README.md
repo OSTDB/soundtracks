@@ -4320,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirarin Revolution: Naasan to Issho | 70662 | [70662-kirarin-revolution-naasan-to-issho.json](./70662-kirarin-revolution-naasan-to-issho.json) |
 | Kirarin Revolution: Tsukutte Misechao! Kime Kira Stage | 70672 | [70672-kirarin-revolution-tsukutte-misechao-kime-kira-stage.json](./70672-kirarin-revolution-tsukutte-misechao-kime-kira-stage.json) |
 | Kiratto Kaiketsu! 64 Tanteidan | 3532 | [3532-kiratto-kaiketsu-64-tanteidan.json](./3532-kiratto-kaiketsu-64-tanteidan.json) |
+| Kiratto PriChan | 177595 | [177595-kiratto-prichan.json](./177595-kiratto-prichan.json) |
 | Kirby & the Amazing Mirror | 3721 | [3721-kirby-and-the-amazing-mirror.json](./3721-kirby-and-the-amazing-mirror.json) |
 | Kirby 64: The Crystal Shards | 2713 | [2713-kirby-64-the-crystal-shards.json](./2713-kirby-64-the-crystal-shards.json) |
 | Kirby 64: Whispy's Trials | 300264 | [300264-kirby-64-whispys-trials.json](./300264-kirby-64-whispys-trials.json) |
