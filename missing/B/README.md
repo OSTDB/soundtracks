@@ -4218,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
 | Battle for Iwo Jima | 130070 | [130070-battle-for-iwo-jima.json](./130070-battle-for-iwo-jima.json) |
+| Battle For Korsun | 74520 | [74520-battle-for-korsun.json](./74520-battle-for-korsun.json) |
 | Battle For Landriel | 107788 | [107788-battle-for-landriel.json](./107788-battle-for-landriel.json) |
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
 | Battle for Mars | 91783 | [91783-battle-for-mars.json](./91783-battle-for-mars.json) |
@@ -20495,6 +20496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burr Puzzle | 357978 | [357978-burr-puzzle.json](./357978-burr-puzzle.json) |
 | Burrilka | 342710 | [342710-burrilka.json](./342710-burrilka.json) |
 | Burrito Aftermath | 423223 | [423223-burrito-aftermath.json](./423223-burrito-aftermath.json) |
+| Burrito Bash: We Bare Bears | 74532 | [74532-burrito-bash-we-bare-bears.json](./74532-burrito-bash-we-bare-bears.json) |
 | Burrito Bear | 216634 | [216634-burrito-bear.json](./216634-burrito-bear.json) |
 | Burrito Bison | 284172 | [284172-burrito-bison.json](./284172-burrito-bison.json) |
 | Burrito Bison Revenge | 95938 | [95938-burrito-bison-revenge.json](./95938-burrito-bison-revenge.json) |
