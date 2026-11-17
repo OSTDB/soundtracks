@@ -2080,7 +2080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Unbound - Vol. 7 Premium Speed Pass | 301851 | [301851-need-for-speed-unbound-vol-7-premium-speed-pass.json](./301851-need-for-speed-unbound-vol-7-premium-speed-pass.json) |
 | Need for Speed: Undercover | 248137 | [248137-need-for-speed-undercover.json](./248137-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
-| Need for Speed: Undercover | 248140 | [248140-need-for-speed-undercover.json](./248140-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 288014 | [288014-need-for-speed-undercover.json](./288014-need-for-speed-undercover.json) |
 | Need for Speed: Underground 2 | 229854 | [229854-need-for-speed-underground-2.json](./229854-need-for-speed-underground-2.json) |
 | Need for Speed: Underground 2 | 242997 | [242997-need-for-speed-underground-2.json](./242997-need-for-speed-underground-2.json) |
@@ -5563,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimblefoot | 243527 | [243527-nimblefoot.json](./243527-nimblefoot.json) |
 | Nimbus | 238883 | [238883-nimbus.json](./238883-nimbus.json) |
 | Nimbus | 9561 | [9561-nimbus.json](./9561-nimbus.json) |
+| Nimbus Infinity | 137152 | [137152-nimbus-infinity.json](./137152-nimbus-infinity.json) |
 | Nimbusfall | 297968 | [297968-nimbusfall.json](./297968-nimbusfall.json) |
 | Nimby Rails | 132749 | [132749-nimby-rails.json](./132749-nimby-rails.json) |
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
