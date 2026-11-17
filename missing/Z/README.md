@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Killer Mojito | 237708 | [237708-zombie-killer-mojito.json](./237708-zombie-killer-mojito.json) |
 | Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
 | Zombie Killer: Type to Shoot! | 114899 | [114899-zombie-killer-type-to-shoot.json](./114899-zombie-killer-type-to-shoot.json) |
+| Zombie Killers | 115090 | [115090-zombie-killers.json](./115090-zombie-killers.json) |
 | Zombie Killin' | 29697 | [29697-zombie-killin.json](./29697-zombie-killin.json) |
 | Zombie Killing: Call of Killer | 297674 | [297674-zombie-killing-call-of-killer.json](./297674-zombie-killing-call-of-killer.json) |
 | Zombie Killtime | 35003 | [35003-zombie-killtime.json](./35003-zombie-killtime.json) |
@@ -2490,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 6 | 288442 | [288442-zone-6.json](./288442-zone-6.json) |
 | Zone 60 | 246228 | [246228-zone-60.json](./246228-zone-60.json) |
 | Zone 66 | 73826 | [73826-zone-66.json](./73826-zone-66.json) |
+| Zone Anomaly | 116500 | [116500-zone-anomaly.json](./116500-zone-anomaly.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
 | Zone Bubble | 104769 | [104769-zone-bubble.json](./104769-zone-bubble.json) |
 | Zone Family Fit | 246232 | [246232-zone-family-fit.json](./246232-zone-family-fit.json) |
@@ -2651,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zook Hero 3 | 342980 | [342980-zook-hero-3.json](./342980-zook-hero-3.json) |
 | Zook Hero Z | 231542 | [231542-zook-hero-z.json](./231542-zook-hero-z.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
+| ZooKeeper | 116476 | [116476-zookeeper.json](./116476-zookeeper.json) |
 | Zookeeper Battle | 22189 | [22189-zookeeper-battle.json](./22189-zookeeper-battle.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
 | ZooKeeper Simulator | 127218 | [127218-zookeeper-simulator.json](./127218-zookeeper-simulator.json) |
@@ -2887,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
 | Zumery | 369606 | [369606-zumery.json](./369606-zumery.json) |
 | Zumiman | 231209 | [231209-zumiman.json](./231209-zumiman.json) |
+| Zumoubattoru | 119800 | [119800-zumoubattoru.json](./119800-zumoubattoru.json) |
 | Zundamon Castle | 326689 | [326689-zundamon-castle.json](./326689-zundamon-castle.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zunima,Space Travel | 88785 | [88785-zunima-space-travel.json](./88785-zunima-space-travel.json) |
