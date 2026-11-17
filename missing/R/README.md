@@ -5328,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
 | Reina & Jericho | 154654 | [154654-reina-and-jericho.json](./154654-reina-and-jericho.json) |
 | Reinbo | 331736 | [331736-reinbo.json](./331736-reinbo.json) |
+| Reincarnage | 421696 | [421696-reincarnage.json](./421696-reincarnage.json) |
 | Reincarnated | 245242 | [245242-reincarnated.json](./245242-reincarnated.json) |
 | Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999 | 385413 | [385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json](./385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json) |
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
