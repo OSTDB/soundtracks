@@ -327,7 +327,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Airfield Canada - CYHZ: Halifax Stanfield International Airport | 162790 | [162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json](./162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json) |
 | X-Plane 11: Airfield Canada - CYQY: J.A. Douglas McCurdy Sydney Airport | 162809 | [162809-x-plane-11-airfield-canada-cyqy-j-a-douglas-mccurdy-sydney-airport.json](./162809-x-plane-11-airfield-canada-cyqy-j-a-douglas-mccurdy-sydney-airport.json) |
 | X-Plane 11: FACO Simulations - F-15C Eagle | 168416 | [168416-x-plane-11-faco-simulations-f-15c-eagle.json](./168416-x-plane-11-faco-simulations-f-15c-eagle.json) |
+| X-Plane 11: FeelThere - KLGA: La Guardia Airport | 174391 | [174391-x-plane-11-feelthere-klga-la-guardia-airport.json](./174391-x-plane-11-feelthere-klga-la-guardia-airport.json) |
 | X-Plane 11: FeelThere - KRDU: Raleigh Durham | 193110 | [193110-x-plane-11-feelthere-krdu-raleigh-durham.json](./193110-x-plane-11-feelthere-krdu-raleigh-durham.json) |
+| X-Plane 11: FeelThere - TIST: St. Thomas International Airport | 174393 | [174393-x-plane-11-feelthere-tist-st-thomas-international-airport.json](./174393-x-plane-11-feelthere-tist-st-thomas-international-airport.json) |
 | X-Plane 11: FlyLogic Airport Bern-Belp | 162768 | [162768-x-plane-11-flylogic-airport-bern-belp.json](./162768-x-plane-11-flylogic-airport-bern-belp.json) |
 | X-Plane 11: FSDG - Agadir | 168406 | [168406-x-plane-11-fsdg-agadir.json](./168406-x-plane-11-fsdg-agadir.json) |
 | X-Plane 11: FSDG - Bremen XP | 168427 | [168427-x-plane-11-fsdg-bremen-xp.json](./168427-x-plane-11-fsdg-bremen-xp.json) |
@@ -346,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Globall Art - CYYZ: Toronto Pearson International | 168415 | [168415-x-plane-11-globall-art-cyyz-toronto-pearson-international.json](./168415-x-plane-11-globall-art-cyyz-toronto-pearson-international.json) |
 | X-Plane 11: Globall Art - SBGR: São Paulo - Guarulhos International Airport | 204929 | [204929-x-plane-11-globall-art-sbgr-sao-paulo-guarulhos-international-airport.json](./204929-x-plane-11-globall-art-sbgr-sao-paulo-guarulhos-international-airport.json) |
 | X-Plane 11: Globall Art CYUL - Montreal International Airport | 162794 | [162794-x-plane-11-globall-art-cyul-montreal-international-airport.json](./162794-x-plane-11-globall-art-cyul-montreal-international-airport.json) |
+| X-Plane 11: Globall Art SBSP - Congonhas Airport | 174392 | [174392-x-plane-11-globall-art-sbsp-congonhas-airport.json](./174392-x-plane-11-globall-art-sbsp-congonhas-airport.json) |
 | X-Plane 11: JustAsia - CYYT: St. John's International Airport | 162821 | [162821-x-plane-11-justasia-cyyt-st-johns-international-airport.json](./162821-x-plane-11-justasia-cyyt-st-johns-international-airport.json) |
 | X-Plane 11: JustAsia - LIEE: Cagliari Elmas Airport | 162812 | [162812-x-plane-11-justasia-liee-cagliari-elmas-airport.json](./162812-x-plane-11-justasia-liee-cagliari-elmas-airport.json) |
 | X-Plane 11: JustAsia - OBBI: Bahrain Intl Airport & City | 162818 | [162818-x-plane-11-justasia-obbi-bahrain-intl-airport-and-city.json](./162818-x-plane-11-justasia-obbi-bahrain-intl-airport-and-city.json) |
