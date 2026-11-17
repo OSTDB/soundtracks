@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shot Challenge | 390665 | [390665-one-shot-challenge.json](./390665-one-shot-challenge.json) |
 | One Shot Gladiator | 292012 | [292012-one-shot-gladiator.json](./292012-one-shot-gladiator.json) |
 | One Shot in the Dark, Now I'm Dead. | 159335 | [159335-one-shot-in-the-dark-now-im-dead.json](./159335-one-shot-in-the-dark-now-im-dead.json) |
+| One Shot Killer 3 | 99252 | [99252-one-shot-killer-3.json](./99252-one-shot-killer-3.json) |
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
 | One Shot X | 361735 | [361735-one-shot-x.json](./361735-one-shot-x.json) |
 | One show only | 25620 | [25620-one-show-only.json](./25620-one-show-only.json) |
