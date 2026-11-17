@@ -276,7 +276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaball Screen | 43851 | [43851-gaball-screen.json](./43851-gaball-screen.json) |
 | Gabang: Ultimate | 322444 | [322444-gabang-ultimate.json](./322444-gabang-ultimate.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
-| Gabby's Dollhouse: Ready to Party | 355923 | [355923-gabbys-dollhouse-ready-to-party.json](./355923-gabbys-dollhouse-ready-to-party.json) |
 | Gabe Newell Simulator | 13618 | [13618-gabe-newell-simulator.json](./13618-gabe-newell-simulator.json) |
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
 | Gaben Kingdom | 29457 | [29457-gaben-kingdom.json](./29457-gaben-kingdom.json) |
@@ -2755,7 +2754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited 2: Deluxe Edition | 220930 | [220930-gear-club-unlimited-2-deluxe-edition.json](./220930-gear-club-unlimited-2-deluxe-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited 2: Ultimate Edition | 172591 | [172591-gear-club-unlimited-2-ultimate-edition.json](./172591-gear-club-unlimited-2-ultimate-edition.json) |
-| Gear.Club Unlimited 3 | 381154 | [381154-gear-club-unlimited-3.json](./381154-gear-club-unlimited-3.json) |
 | Gear.Club Unlimited 3: Career Start Pack | 385185 | [385185-gear-club-unlimited-3-career-start-pack.json](./385185-gear-club-unlimited-3-career-start-pack.json) |
 | Gear.Club Unlimited 3: Customization Pack | 385184 | [385184-gear-club-unlimited-3-customization-pack.json](./385184-gear-club-unlimited-3-customization-pack.json) |
 | Gear.Club Unlimited 3: Deluxe Edition | 385200 | [385200-gear-club-unlimited-3-deluxe-edition.json](./385200-gear-club-unlimited-3-deluxe-edition.json) |
@@ -3561,7 +3559,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshindle | 243769 | [243769-genshindle.json](./243769-genshindle.json) |
 | Gensmak! | 228047 | [228047-gensmak.json](./228047-gensmak.json) |
 | Gensmak! Food Fight! | 240554 | [240554-gensmak-food-fight.json](./240554-gensmak-food-fight.json) |
-| Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
 | Genso Nikki | 202290 | [202290-genso-nikki.json](./202290-genso-nikki.json) |
@@ -4935,7 +4932,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantic X | 117197 | [117197-gigantic-x.json](./117197-gigantic-x.json) |
 | Gigantic: Rampage Edition | 288025 | [288025-gigantic-rampage-edition.json](./288025-gigantic-rampage-edition.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
-| Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
 | Gigantosaurus: The Game | 129274 | [129274-gigantosaurus-the-game.json](./129274-gigantosaurus-the-game.json) |
 | Gigantropolis | 239823 | [239823-gigantropolis.json](./239823-gigantropolis.json) |
 | Gigapocalypse | 158921 | [158921-gigapocalypse.json](./158921-gigapocalypse.json) |
@@ -4987,7 +4983,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimmick in the Chaos Dimension | 144880 | [144880-gimmick-in-the-chaos-dimension.json](./144880-gimmick-in-the-chaos-dimension.json) |
 | Gimmick Land: Tomato Atama no Himitsu | 176001 | [176001-gimmick-land-tomato-atama-no-himitsu.json](./176001-gimmick-land-tomato-atama-no-himitsu.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
-| Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
 | Gimmick! Special Edition | 213752 | [213752-gimmick-special-edition.json](./213752-gimmick-special-edition.json) |
 | Gimmick's Gadgets | 244406 | [244406-gimmicks-gadgets.json](./244406-gimmicks-gadgets.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
@@ -5661,7 +5656,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Fixers: Powerpuff Girls | 56734 | [56734-glitch-fixers-powerpuff-girls.json](./56734-glitch-fixers-powerpuff-girls.json) |
 | Glitch Gears | 293549 | [293549-glitch-gears.json](./293549-glitch-gears.json) |
 | Glitch Hearts | 385790 | [385790-glitch-hearts.json](./385790-glitch-hearts.json) |
-| Glitch Hero | 323247 | [323247-glitch-hero.json](./323247-glitch-hero.json) |
 | Glitch Hunt | 211033 | [211033-glitch-hunt.json](./211033-glitch-hunt.json) |
 | Glitch in the System | 236809 | [236809-glitch-in-the-system.json](./236809-glitch-in-the-system.json) |
 | Glitch Karts | 377783 | [377783-glitch-karts.json](./377783-glitch-karts.json) |
@@ -6448,7 +6442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Kokopolo: Harmonious Forest Revenge | 65247 | [65247-go-go-kokopolo-harmonious-forest-revenge.json](./65247-go-go-kokopolo-harmonious-forest-revenge.json) |
 | Go! Go! Mario Circuit | 398914 | [398914-go-go-mario-circuit.json](./398914-go-go-mario-circuit.json) |
 | Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
-| Go! Go! Mister Chickums | 384021 | [384021-go-go-mister-chickums.json](./384021-go-go-mister-chickums.json) |
 | Go! Go! Nippon! 2015 | 166656 | [166656-go-go-nippon-2015.json](./166656-go-go-nippon-2015.json) |
 | Go! Go! Nippon! 2016 | 166659 | [166659-go-go-nippon-2016.json](./166659-go-go-nippon-2016.json) |
 | Go! Go! Nippon!: My First Trip to Japan | 16675 | [16675-go-go-nippon-my-first-trip-to-japan.json](./16675-go-go-nippon-my-first-trip-to-japan.json) |
@@ -6535,7 +6528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
 | Goat Simulator 3: Hocus Pocus Pack | 343568 | [343568-goat-simulator-3-hocus-pocus-pack.json](./343568-goat-simulator-3-hocus-pocus-pack.json) |
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
-| Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
 | Goat Simulator 3: Pre-Udder Edition | 204913 | [204913-goat-simulator-3-pre-udder-edition.json](./204913-goat-simulator-3-pre-udder-edition.json) |
 | Goat Simulator 3: Super Duper Pack | 343569 | [343569-goat-simulator-3-super-duper-pack.json](./343569-goat-simulator-3-super-duper-pack.json) |
 | Goat Simulator 3: Ticket to Dizzyworld | 420793 | [420793-goat-simulator-3-ticket-to-dizzyworld.json](./420793-goat-simulator-3-ticket-to-dizzyworld.json) |
@@ -6544,7 +6536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Nightmare Edition | 207116 | [207116-goat-simulator-nightmare-edition.json](./207116-goat-simulator-nightmare-edition.json) |
-| Goat Simulator: Remastered | 314250 | [314250-goat-simulator-remastered.json](./314250-goat-simulator-remastered.json) |
 | Goat Simulator: The Bundle | 141764 | [141764-goat-simulator-the-bundle.json](./141764-goat-simulator-the-bundle.json) |
 | Goat Simulator: The Goaty | 83740 | [83740-goat-simulator-the-goaty.json](./83740-goat-simulator-the-goaty.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
@@ -7494,7 +7485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee 2020 | 143302 | [143302-golden-tee-2020.json](./143302-golden-tee-2020.json) |
 | Golden Tee 2K | 39327 | [39327-golden-tee-2k.json](./39327-golden-tee-2k.json) |
-| Golden Tee Arcade Classics | 350460 | [350460-golden-tee-arcade-classics.json](./350460-golden-tee-arcade-classics.json) |
 | Golden Tee Classic | 39355 | [39355-golden-tee-classic.json](./39355-golden-tee-classic.json) |
 | Golden Tee Fore! | 133536 | [133536-golden-tee-fore.json](./133536-golden-tee-fore.json) |
 | Golden Tee Golf | 17263 | [17263-golden-tee-golf.json](./17263-golden-tee-golf.json) |
@@ -8265,7 +8255,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps: Dead of Night | 134371 | [134371-goosebumps-dead-of-night.json](./134371-goosebumps-dead-of-night.json) |
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
-| Goosebumps: Terror in Little Creek | 350211 | [350211-goosebumps-terror-in-little-creek.json](./350211-goosebumps-terror-in-little-creek.json) |
 | Goosebumps: Terror in Little Creek - Frightmare Edition | 358668 | [358668-goosebumps-terror-in-little-creek-frightmare-edition.json](./358668-goosebumps-terror-in-little-creek-frightmare-edition.json) |
 | Goosebumps: The Game | 23472 | [23472-goosebumps-the-game.json](./23472-goosebumps-the-game.json) |
 | GooseGame.io | 327946 | [327946-goosegame-io.json](./327946-goosegame-io.json) |
@@ -8713,7 +8702,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius IV: Revival | 1486 | [1486-gradius-iv-revival.json](./1486-gradius-iv-revival.json) |
 | Gradius NEO | 377214 | [377214-gradius-neo.json](./377214-gradius-neo.json) |
 | Gradius NEO Imperial | 377215 | [377215-gradius-neo-imperial.json](./377215-gradius-neo-imperial.json) |
-| Gradius Origins | 337028 | [337028-gradius-origins.json](./337028-gradius-origins.json) |
 | Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Gradius: The Interstellar Assault | 48996 | [48996-gradius-the-interstellar-assault.json](./48996-gradius-the-interstellar-assault.json) |
@@ -10578,7 +10566,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Gridworld | 34617 | [34617-gridworld.json](./34617-gridworld.json) |
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
-| Gridz Keeper | 378760 | [378760-gridz-keeper.json](./378760-gridz-keeper.json) |
 | Grief | 207713 | [207713-grief.json](./207713-grief.json) |
 | Grief | 384998 | [384998-grief.json](./384998-grief.json) |
 | Grief | 396971 | [396971-grief.json](./396971-grief.json) |
@@ -10980,7 +10967,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit | 145372 | [145372-grit.json](./145372-grit.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
 | Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
-| Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grit Porn Video Tapes | 309745 | [309745-grit-porn-video-tapes.json](./309745-grit-porn-video-tapes.json) |
 | Grit Shot | 414128 | [414128-grit-shot.json](./414128-grit-shot.json) |
@@ -11093,7 +11079,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Dragon Spirit Medley | 361474 | [361474-groove-coaster-dragon-spirit-medley.json](./361474-groove-coaster-dragon-spirit-medley.json) |
 | Groove Coaster: Dream Coaster | 361554 | [361554-groove-coaster-dream-coaster.json](./361554-groove-coaster-dream-coaster.json) |
 | Groove Coaster: Fujin Rumble | 361470 | [361470-groove-coaster-fujin-rumble.json](./361470-groove-coaster-fujin-rumble.json) |
-| Groove Coaster: Future Performers | 343412 | [343412-groove-coaster-future-performers.json](./343412-groove-coaster-future-performers.json) |
 | Groove Coaster: Game Music Pack 01 | 361700 | [361700-groove-coaster-game-music-pack-01.json](./361700-groove-coaster-game-music-pack-01.json) |
 | Groove Coaster: Groove Master Pack 01 | 361699 | [361699-groove-coaster-groove-master-pack-01.json](./361699-groove-coaster-groove-master-pack-01.json) |
 | Groove Coaster: Groove Master Pack 02 | 361649 | [361649-groove-coaster-groove-master-pack-02.json](./361649-groove-coaster-groove-master-pack-02.json) |
@@ -11273,7 +11258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounded 2: Beat the Heat | 398431 | [398431-grounded-2-beat-the-heat.json](./398431-grounded-2-beat-the-heat.json) |
 | Grounded 2: Into the Abyss | 413063 | [413063-grounded-2-into-the-abyss.json](./413063-grounded-2-into-the-abyss.json) |
 | Grounded Sim | 321216 | [321216-grounded-sim.json](./321216-grounded-sim.json) |
-| Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | GroundFall | 116928 | [116928-groundfall.json](./116928-groundfall.json) |
 | Groundhog Life | 183241 | [183241-groundhog-life.json](./183241-groundhog-life.json) |
 | Groundless | 105455 | [105455-groundless.json](./105455-groundless.json) |
@@ -11706,7 +11690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
 | Guava Juice: Tub Tapper | 101162 | [101162-guava-juice-tub-tapper.json](./101162-guava-juice-tub-tapper.json) |
-| Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
 | Guazu: The Rescue | 152531 | [152531-guazu-the-rescue.json](./152531-guazu-the-rescue.json) |
 | Gubbins | 262630 | [262630-gubbins.json](./262630-gubbins.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
@@ -12012,7 +11995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Daredevil Edition | 263513 | [263513-guilty-gear-strive-daredevil-edition.json](./263513-guilty-gear-strive-daredevil-edition.json) |
 | Guilty Gear: Strive - Guilty Gear 25th Anniversary: Appreciation Color Pack | 264824 | [264824-guilty-gear-strive-guilty-gear-25th-anniversary-appreciation-color-pack.json](./264824-guilty-gear-strive-guilty-gear-25th-anniversary-appreciation-color-pack.json) |
 | Guilty Gear: Strive - Guilty Gear 25th Anniversary: Special Additional Color Pack | 264825 | [264825-guilty-gear-strive-guilty-gear-25th-anniversary-special-additional-color-pack.json](./264825-guilty-gear-strive-guilty-gear-25th-anniversary-special-additional-color-pack.json) |
-| Guilty Gear: Strive - Nintendo Switch Edition | 315335 | [315335-guilty-gear-strive-nintendo-switch-edition.json](./315335-guilty-gear-strive-nintendo-switch-edition.json) |
 | Guilty Gear: Strive - Season 3 Character Additional Colors | 264828 | [264828-guilty-gear-strive-season-3-character-additional-colors.json](./264828-guilty-gear-strive-season-3-character-additional-colors.json) |
 | Guilty Gear: Strive - Season Pass 1 | 254962 | [254962-guilty-gear-strive-season-pass-1.json](./254962-guilty-gear-strive-season-pass-1.json) |
 | Guilty Gear: Strive - Season Pass 2 | 254967 | [254967-guilty-gear-strive-season-pass-2.json](./254967-guilty-gear-strive-season-pass-2.json) |
@@ -12177,7 +12159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball and the Shrink Ray | 426939 | [426939-gumball-and-the-shrink-ray.json](./426939-gumball-and-the-shrink-ray.json) |
 | Gumball Drift | 19058 | [19058-gumball-drift.json](./19058-gumball-drift.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
-| Gumball in Trick-or-Treat Land | 373763 | [373763-gumball-in-trick-or-treat-land.json](./373763-gumball-in-trick-or-treat-land.json) |
 | Gumball Rainbow Ruckus | 232856 | [232856-gumball-rainbow-ruckus.json](./232856-gumball-rainbow-ruckus.json) |
 | GumBall Warrior | 160100 | [160100-gumball-warrior.json](./160100-gumball-warrior.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
