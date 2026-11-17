@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Terrace | 221343 | [221343-cafe-terrace.json](./221343-cafe-terrace.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
 | Cafe Venus Flytrap | 247458 | [247458-cafe-venus-flytrap.json](./247458-cafe-venus-flytrap.json) |
+| Café World | 84376 | [84376-cafe-world.json](./84376-cafe-world.json) |
 | Cafeland: Restaurant Cooking | 233478 | [233478-cafeland-restaurant-cooking.json](./233478-cafeland-restaurant-cooking.json) |
 | Cafeland: World Kitchen | 120253 | [120253-cafeland-world-kitchen.json](./120253-cafeland-world-kitchen.json) |
 | Cafemart Simulator | 331049 | [331049-cafemart-simulator.json](./331049-cafemart-simulator.json) |
@@ -7193,6 +7194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charset Crossfire | 195459 | [195459-charset-crossfire.json](./195459-charset-crossfire.json) |
 | Chart Attack | 94340 | [94340-chart-attack.json](./94340-chart-attack.json) |
 | Chart Wars | 80124 | [80124-chart-wars.json](./80124-chart-wars.json) |
+| Chart Wars 2 | 84393 | [84393-chart-wars-2.json](./84393-chart-wars-2.json) |
 | Chart Wars 3 | 78094 | [78094-chart-wars-3.json](./78094-chart-wars-3.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
@@ -9057,6 +9059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper I | 21732 | [21732-chopper-i.json](./21732-chopper-i.json) |
 | Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
 | Chopper Mission | 293287 | [293287-chopper-mission.json](./293287-chopper-mission.json) |
+| Chopper Rescue | 84400 | [84400-chopper-rescue.json](./84400-chopper-rescue.json) |
 | Chopper Squad | 13490 | [13490-chopper-squad.json](./13490-chopper-squad.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
 | Chopper to Hell | 117393 | [117393-chopper-to-hell.json](./117393-chopper-to-hell.json) |
