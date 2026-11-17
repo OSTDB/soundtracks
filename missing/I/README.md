@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse Response | 403982 | [403982-impulse-response.json](./403982-impulse-response.json) |
 | Impulse Revolution | 34923 | [34923-impulse-revolution.json](./34923-impulse-revolution.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
+| Impulse X | 40826 | [40826-impulse-x.json](./40826-impulse-x.json) |
 | Impulse, From Here! | 157513 | [157513-impulse-from-here.json](./157513-impulse-from-here.json) |
 | Impulse: Space Combat | 37035 | [37035-impulse-space-combat.json](./37035-impulse-space-combat.json) |
 | Impulse! | 27449 | [27449-impulse.json](./27449-impulse.json) |
@@ -6761,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Iron Snout | 28733 | [28733-iron-snout.json](./28733-iron-snout.json) |
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
+| Iron Soldier 2 | 40827 | [40827-iron-soldier-2.json](./40827-iron-soldier-2.json) |
 | Iron Soldier 3 | 51182 | [51182-iron-soldier-3.json](./51182-iron-soldier-3.json) |
 | Iron Soul | 10460 | [10460-iron-soul.json](./10460-iron-soul.json) |
 | Iron Storm | 165449 | [165449-iron-storm.json](./165449-iron-storm.json) |
