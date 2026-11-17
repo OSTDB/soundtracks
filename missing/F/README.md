@@ -8193,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix und Foxi Adventskalender | 91550 | [91550-fix-und-foxi-adventskalender.json](./91550-fix-und-foxi-adventskalender.json) |
 | Fix und Foxi Familienspiele | 81400 | [81400-fix-und-foxi-familienspiele.json](./81400-fix-und-foxi-familienspiele.json) |
 | Fix und Foxi Spielzeugfabrik | 81402 | [81402-fix-und-foxi-spielzeugfabrik.json](./81402-fix-und-foxi-spielzeugfabrik.json) |
+| Fix und Foxi Verrücken das Labyrinth | 84383 | [84383-fix-und-foxi-verrucken-das-labyrinth.json](./84383-fix-und-foxi-verrucken-das-labyrinth.json) |
 | Fix-it Felix Jr. | 256301 | [256301-fix-it-felix-jr.json](./256301-fix-it-felix-jr.json) |
 | Fix-It Felix Jr. | 250928 | [250928-fix-it-felix-jr.json](./250928-fix-it-felix-jr.json) |
 | Fix-It Felix Jr. | 39486 | [39486-fix-it-felix-jr.json](./39486-fix-it-felix-jr.json) |
