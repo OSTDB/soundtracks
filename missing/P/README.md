@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P1r4t3s | 126937 | [126937-p1r4t3s.json](./126937-p1r4t3s.json) |
 | P3D/P5D: Accessory Season Pass | 362146 | [362146-p3d-p5d-accessory-season-pass.json](./362146-p3d-p5d-accessory-season-pass.json) |
 | P3D/P5D: Song Season Pass | 362145 | [362145-p3d-p5d-song-season-pass.json](./362145-p3d-p5d-song-season-pass.json) |
+| P3TT | 164095 | [164095-p3tt.json](./164095-p3tt.json) |
 | P47 - The Freedom Fighter | 37263 | [37263-p47-the-freedom-fighter.json](./37263-p47-the-freedom-fighter.json) |
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
 | P4st3l | 297357 | [297357-p4st3l.json](./297357-p4st3l.json) |
