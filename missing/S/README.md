@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Light and Shadow | 211300 | [211300-secrets-of-light-and-shadow.json](./211300-secrets-of-light-and-shadow.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic 3: Happy Halloween | 172218 | [172218-secrets-of-magic-3-happy-halloween.json](./172218-secrets-of-magic-3-happy-halloween.json) |
+| Secrets of Magic 4: Potion Master | 159904 | [159904-secrets-of-magic-4-potion-master.json](./159904-secrets-of-magic-4-potion-master.json) |
 | Secrets of Magic 5: Back to School | 195303 | [195303-secrets-of-magic-5-back-to-school.json](./195303-secrets-of-magic-5-back-to-school.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
 | Secrets of Magic: The Book of Spells & Secrets of Magic 2: Witches and Wizards - Double Pack | 140915 | [140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json](./140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json) |
@@ -6503,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
 | Sera Dion: Survivor | 344879 | [344879-sera-dion-survivor.json](./344879-sera-dion-survivor.json) |
+| Serafina and the Key to the Egg | 159912 | [159912-serafina-and-the-key-to-the-egg.json](./159912-serafina-and-the-key-to-the-egg.json) |
 | Serafina's Crown | 33338 | [33338-serafinas-crown.json](./33338-serafinas-crown.json) |
 | Serafina's Saga | 182640 | [182640-serafinas-saga.json](./182640-serafinas-saga.json) |
 | Serafina's Saga: Awakened | 252012 | [252012-serafinas-saga-awakened.json](./252012-serafinas-saga-awakened.json) |
@@ -12704,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Phobos | 275265 | [275265-simply-phobos.json](./275265-simply-phobos.json) |
 | Simply Purple | 252337 | [252337-simply-purple.json](./252337-simply-purple.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
+| Simply Puzzles: Junctions | 159941 | [159941-simply-puzzles-junctions.json](./159941-simply-puzzles-junctions.json) |
 | Simply Rotate | 285482 | [285482-simply-rotate.json](./285482-simply-rotate.json) |
 | Simply Snakes | 300833 | [300833-simply-snakes.json](./300833-simply-snakes.json) |
 | Simply Solitaire | 85368 | [85368-simply-solitaire.json](./85368-simply-solitaire.json) |
@@ -16882,6 +16885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
 | Snake Party Extreme | 345284 | [345284-snake-party-extreme.json](./345284-snake-party-extreme.json) |
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
+| Snake Path | 159901 | [159901-snake-path.json](./159901-snake-path.json) |
 | Snake Pit | 188996 | [188996-snake-pit.json](./188996-snake-pit.json) |
 | Snake Pit | 24011 | [24011-snake-pit.json](./24011-snake-pit.json) |
 | Snake Pit | 415634 | [415634-snake-pit.json](./415634-snake-pit.json) |
@@ -30935,6 +30939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormworm+ | 33332 | [33332-stormworm.json](./33332-stormworm.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
 | Storror Parkour Pro | 166483 | [166483-storror-parkour-pro.json](./166483-storror-parkour-pro.json) |
+| Story | 159903 | [159903-story.json](./159903-story.json) |
 | Story 210 | 345094 | [345094-story-210.json](./345094-story-210.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
@@ -32304,6 +32309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strive | 102883 | [102883-strive.json](./102883-strive.json) |
 | Strive For Power: King Growth Program | 308868 | [308868-strive-for-power-king-growth-program.json](./308868-strive-for-power-king-growth-program.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
+| Striving for Light | 159919 | [159919-striving-for-light.json](./159919-striving-for-light.json) |
 | Striving for Light: Survival | 234130 | [234130-striving-for-light-survival.json](./234130-striving-for-light-survival.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
@@ -32347,6 +32353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong man parkour | 269181 | [269181-strong-man-parkour.json](./269181-strong-man-parkour.json) |
 | Strong Moon | 208452 | [208452-strong-moon.json](./208452-strong-moon.json) |
 | Strong Protection | 236338 | [236338-strong-protection.json](./236338-strong-protection.json) |
+| Strong towers | 159930 | [159930-strong-towers.json](./159930-strong-towers.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Strongblade: Match 3 Puzzle and Match-3 Adventure | 253848 | [253848-strongblade-match-3-puzzle-and-match-3-adventure.json](./253848-strongblade-match-3-puzzle-and-match-3-adventure.json) |
@@ -37501,6 +37508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
 | Super Star Pro Wrestling | 48393 | [48393-super-star-pro-wrestling.json](./48393-super-star-pro-wrestling.json) |
+| Super Star Shooter 16 | 159933 | [159933-super-star-shooter-16.json](./159933-super-star-shooter-16.json) |
 | Super Star Shooter Classic | 328307 | [328307-super-star-shooter-classic.json](./328307-super-star-shooter-classic.json) |
 | Super Star Soldier | 44339 | [44339-super-star-soldier.json](./44339-super-star-soldier.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
