@@ -24115,6 +24115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
 | My Reaper Girlfriend | 230358 | [230358-my-reaper-girlfriend.json](./230358-my-reaper-girlfriend.json) |
 | My Recycling Center | 268253 | [268253-my-recycling-center.json](./268253-my-recycling-center.json) |
+| My Recycling Center 2 | 422291 | [422291-my-recycling-center-2.json](./422291-my-recycling-center-2.json) |
 | My Recycling Center: Car Scrapyard Expansion | 358251 | [358251-my-recycling-center-car-scrapyard-expansion.json](./358251-my-recycling-center-car-scrapyard-expansion.json) |
 | My Recycling Center: Container Truck Expansion | 298131 | [298131-my-recycling-center-container-truck-expansion.json](./298131-my-recycling-center-container-truck-expansion.json) |
 | My Recycling Center: Resources Trading Expansion | 358250 | [358250-my-recycling-center-resources-trading-expansion.json](./358250-my-recycling-center-resources-trading-expansion.json) |
@@ -24592,6 +24593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriads: Renaissance | 176168 | [176168-myriads-renaissance.json](./176168-myriads-renaissance.json) |
 | Myriavora | 154584 | [154584-myriavora.json](./154584-myriavora.json) |
 | Myridian: The Last Stand | 128969 | [128969-myridian-the-last-stand.json](./128969-myridian-the-last-stand.json) |
+| Myriorama | 422315 | [422315-myriorama.json](./422315-myriorama.json) |
 | Myristica | 234277 | [234277-myristica.json](./234277-myristica.json) |
 | Myrk: Echoes of the Forgotten | 367141 | [367141-myrk-echoes-of-the-forgotten.json](./367141-myrk-echoes-of-the-forgotten.json) |
 | Myrkwood: Offshoot | 369523 | [369523-myrkwood-offshoot.json](./369523-myrkwood-offshoot.json) |
