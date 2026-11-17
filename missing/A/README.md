@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mountain Called Hope | 407748 | [407748-a-mountain-called-hope.json](./407748-a-mountain-called-hope.json) |
 | A Mountain of One | 240040 | [240040-a-mountain-of-one.json](./240040-a-mountain-of-one.json) |
 | A Moustache in the House | 128117 | [128117-a-moustache-in-the-house.json](./128117-a-moustache-in-the-house.json) |
+| A Moustache in the House 2 | 192356 | [192356-a-moustache-in-the-house-2.json](./192356-a-moustache-in-the-house-2.json) |
 | A Murder in Fairyland | 140176 | [140176-a-murder-in-fairyland.json](./140176-a-murder-in-fairyland.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
 | A Murder of Scarecrows | 138973 | [138973-a-murder-of-scarecrows.json](./138973-a-murder-of-scarecrows.json) |
@@ -4426,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Trip: London - Collector's Edition | 200510 | [200510-adventure-trip-london-collectors-edition.json](./200510-adventure-trip-london-collectors-edition.json) |
 | Adventure Trip: New York | 416857 | [416857-adventure-trip-new-york.json](./416857-adventure-trip-new-york.json) |
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
+| Adventure Trip: Wonders of the World | 192354 | [192354-adventure-trip-wonders-of-the-world.json](./192354-adventure-trip-wonders-of-the-world.json) |
 | Adventure Trip: Wonders of the World - Collector's Edition | 357013 | [357013-adventure-trip-wonders-of-the-world-collectors-edition.json](./357013-adventure-trip-wonders-of-the-world-collectors-edition.json) |
 | Adventure Value Pack #1 | 80766 | [80766-adventure-value-pack-1.json](./80766-adventure-value-pack-1.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
@@ -8959,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone | 152509 | [152509-alone.json](./152509-alone.json) |
 | Alone | 153218 | [153218-alone.json](./153218-alone.json) |
 | Alone | 172309 | [172309-alone.json](./172309-alone.json) |
+| Alone | 193510 | [193510-alone.json](./193510-alone.json) |
 | Alone | 195984 | [195984-alone.json](./195984-alone.json) |
 | Alone | 196110 | [196110-alone.json](./196110-alone.json) |
 | Alone | 257181 | [257181-alone.json](./257181-alone.json) |
@@ -21108,6 +21111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiom Alternative | 158589 | [158589-axiom-alternative.json](./158589-axiom-alternative.json) |
 | Axiom Alternative II | 152670 | [152670-axiom-alternative-ii.json](./152670-axiom-alternative-ii.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
+| Axiom of Maria: Prologue | 192355 | [192355-axiom-of-maria-prologue.json](./192355-axiom-of-maria-prologue.json) |
 | Axiom Soccer | 110066 | [110066-axiom-soccer.json](./110066-axiom-soccer.json) |
 | Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
