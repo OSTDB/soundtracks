@@ -20007,6 +20007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuPu's Adventure Park | 225440 | [225440-pupus-adventure-park.json](./225440-pupus-adventure-park.json) |
 | Puputan Legend VR | 192633 | [192633-puputan-legend-vr.json](./192633-puputan-legend-vr.json) |
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
+| Puramai Wars | 60174 | [60174-puramai-wars.json](./60174-puramai-wars.json) |
 | Puramai Wars V | 143992 | [143992-puramai-wars-v.json](./143992-puramai-wars-v.json) |
 | Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
 | Purdy-Durdy | 275468 | [275468-purdy-durdy.json](./275468-purdy-durdy.json) |
