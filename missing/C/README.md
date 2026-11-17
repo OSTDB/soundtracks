@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal | 104785 | [104785-cannibal.json](./104785-cannibal.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannibal Abduction | 224983 | [224983-cannibal-abduction.json](./224983-cannibal-abduction.json) |
+| Cannibal Chickens | 119803 | [119803-cannibal-chickens.json](./119803-cannibal-chickens.json) |
 | Cannibal Coast | 158914 | [158914-cannibal-coast.json](./158914-cannibal-coast.json) |
 | Cannibal Cookout | 89720 | [89720-cannibal-cookout.json](./89720-cannibal-cookout.json) |
 | Cannibal Cookout: Lines | 238982 | [238982-cannibal-cookout-lines.json](./238982-cannibal-cookout-lines.json) |
@@ -11936,6 +11937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
 | Climbing with Silly Cat | 313517 | [313517-climbing-with-silly-cat.json](./313517-climbing-with-silly-cat.json) |
 | ClimbJong | 194174 | [194174-climbjong.json](./194174-climbjong.json) |
+| Climbros | 119804 | [119804-climbros.json](./119804-climbros.json) |
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
 | Climby | 57220 | [57220-climby.json](./57220-climby.json) |
 | Clinch Legends | 369101 | [369101-clinch-legends.json](./369101-clinch-legends.json) |
@@ -19543,7 +19545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
 | Creature in the Well | 116417 | [116417-creature-in-the-well.json](./116417-creature-in-the-well.json) |
 | Creature in the Well: Collector's Edition | 254227 | [254227-creature-in-the-well-collectors-edition.json](./254227-creature-in-the-well-collectors-edition.json) |
-| Creature Keeper | 127563 | [127563-creature-keeper.json](./127563-creature-keeper.json) |
 | Creature Kitchen | 363954 | [363954-creature-kitchen.json](./363954-creature-kitchen.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
 | Creature Match | 298370 | [298370-creature-match.json](./298370-creature-match.json) |
