@@ -108,7 +108,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oakley the Leafbug | 420023 | [420023-oakley-the-leafbug.json](./420023-oakley-the-leafbug.json) |
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
 | Oaks vs. Orcs | 417257 | [417257-oaks-vs-orcs.json](./417257-oaks-vs-orcs.json) |
-| Oakwood | 112433 | [112433-oakwood.json](./112433-oakwood.json) |
 | Oakwood Academy of Spells and Sorcery | 90196 | [90196-oakwood-academy-of-spells-and-sorcery.json](./90196-oakwood-academy-of-spells-and-sorcery.json) |
 | OAOA: Off and on Again | 115139 | [115139-oaoa-off-and-on-again.json](./115139-oaoa-off-and-on-again.json) |
 | Oar'some Adventures | 411805 | [411805-oarsome-adventures.json](./411805-oarsome-adventures.json) |
@@ -790,7 +789,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Soulstorm | 18357 | [18357-oddworld-soulstorm.json](./18357-oddworld-soulstorm.json) |
 | Oddworld: Soulstorm - Collector's Oddition | 146008 | [146008-oddworld-soulstorm-collectors-oddition.json](./146008-oddworld-soulstorm-collectors-oddition.json) |
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
-| Oddworld: Soulstorm Oddtimized Edition | 222891 | [222891-oddworld-soulstorm-oddtimized-edition.json](./222891-oddworld-soulstorm-oddtimized-edition.json) |
 | Oddworld: Squeek's Oddysee | 65861 | [65861-oddworld-squeeks-oddysee.json](./65861-oddworld-squeeks-oddysee.json) |
 | Oddworld: Stranger's Wrath | 1002 | [1002-oddworld-strangers-wrath.json](./1002-oddworld-strangers-wrath.json) |
 | Oddworld: Stranger's Wrath HD - Limited Edition | 136003 | [136003-oddworld-strangers-wrath-hd-limited-edition.json](./136003-oddworld-strangers-wrath-hd-limited-edition.json) |
@@ -1792,9 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OlliOlli World | 145782 | [145782-olliolli-world.json](./145782-olliolli-world.json) |
 | OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
 | OlliOlli World: Expansion Pass | 293734 | [293734-olliolli-world-expansion-pass.json](./293734-olliolli-world-expansion-pass.json) |
-| OlliOlli World: Finding the Flowzone | 223949 | [223949-olliolli-world-finding-the-flowzone.json](./223949-olliolli-world-finding-the-flowzone.json) |
 | OlliOlli World: Rad Edition | 186224 | [186224-olliolli-world-rad-edition.json](./186224-olliolli-world-rad-edition.json) |
-| OlliOlli World: Void Riders | 205034 | [205034-olliolli-world-void-riders.json](./205034-olliolli-world-void-riders.json) |
 | OlliOlli: Epic Combo Edition | 46025 | [46025-olliolli-epic-combo-edition.json](./46025-olliolli-epic-combo-edition.json) |
 | OlliOlli: Switch Stance | 113568 | [113568-olliolli-switch-stance.json](./113568-olliolli-switch-stance.json) |
 | OlliOlli2: Welcome to Olliwood | 9523 | [9523-olliolli2-welcome-to-olliwood.json](./9523-olliolli2-welcome-to-olliwood.json) |
@@ -2549,7 +2545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Endless Night At Dhar Mann's | 162518 | [162518-one-endless-night-at-dhar-manns.json](./162518-one-endless-night-at-dhar-manns.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Epic Knight | 63137 | [63137-one-epic-knight.json](./63137-one-epic-knight.json) |
-| One Escape | 146041 | [146041-one-escape.json](./146041-one-escape.json) |
 | One False Move | 276629 | [276629-one-false-move.json](./276629-one-false-move.json) |
 | One Fantasy Shooter | 121840 | [121840-one-fantasy-shooter.json](./121840-one-fantasy-shooter.json) |
 | One Fateful Night | 171875 | [171875-one-fateful-night.json](./171875-one-fateful-night.json) |
@@ -2679,7 +2674,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Man's Trash | 343353 | [343353-one-mans-trash.json](./343353-one-mans-trash.json) |
 | One Man's War | 226716 | [226716-one-mans-war.json](./226716-one-mans-war.json) |
 | One Manga Day | 35382 | [35382-one-manga-day.json](./35382-one-manga-day.json) |
-| One Many Nobody | 201430 | [201430-one-many-nobody.json](./201430-one-many-nobody.json) |
 | One Map: Never Ending Battle Royale | 321038 | [321038-one-map-never-ending-battle-royale.json](./321038-one-map-never-ending-battle-royale.json) |
 | One Military Camp | 176551 | [176551-one-military-camp.json](./176551-one-military-camp.json) |
 | One Military Camp: Biomes | 298097 | [298097-one-military-camp-biomes.json](./298097-one-military-camp-biomes.json) |
@@ -2837,7 +2831,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Mansion | 37288 | [37288-one-piece-mansion.json](./37288-one-piece-mansion.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
 | One Piece Odyssey: Adventure Expansion Pack | 263946 | [263946-one-piece-odyssey-adventure-expansion-pack.json](./263946-one-piece-odyssey-adventure-expansion-pack.json) |
-| One Piece Odyssey: Deluxe Edition | 231363 | [231363-one-piece-odyssey-deluxe-edition.json](./231363-one-piece-odyssey-deluxe-edition.json) |
 | One Piece Odyssey: Jewelry Pack | 312109 | [312109-one-piece-odyssey-jewelry-pack.json](./312109-one-piece-odyssey-jewelry-pack.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece Odyssey: Traveling Outfit Set | 238380 | [238380-one-piece-odyssey-traveling-outfit-set.json](./238380-one-piece-odyssey-traveling-outfit-set.json) |
@@ -3091,7 +3084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One week, My room | 245682 | [245682-one-week-my-room.json](./245682-one-week-my-room.json) |
 | One Wheel | 247325 | [247325-one-wheel.json](./247325-one-wheel.json) |
 | One Wheel Guy | 227771 | [227771-one-wheel-guy.json](./227771-one-wheel-guy.json) |
-| One Wish | 103939 | [103939-one-wish.json](./103939-one-wish.json) |
 | One With the Unicycleverse | 374375 | [374375-one-with-the-unicycleverse.json](./374375-one-with-the-unicycleverse.json) |
 | One Withered Night at Freddy's | 299645 | [299645-one-withered-night-at-freddys.json](./299645-one-withered-night-at-freddys.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
@@ -3100,7 +3092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Armed Cook: Drinks and Bars | 236237 | [236237-one-armed-cook-drinks-and-bars.json](./236237-one-armed-cook-drinks-and-bars.json) |
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
 | One-Eyed Jak | 34603 | [34603-one-eyed-jak.json](./34603-one-eyed-jak.json) |
-| One-Eyed Lee and the Dinner Party | 127382 | [127382-one-eyed-lee-and-the-dinner-party.json](./127382-one-eyed-lee-and-the-dinner-party.json) |
 | One-Eyed Lee: Prologue | 134787 | [134787-one-eyed-lee-prologue.json](./134787-one-eyed-lee-prologue.json) |
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
 | One-Eyed Ripper | 185232 | [185232-one-eyed-ripper.json](./185232-one-eyed-ripper.json) |
@@ -3285,7 +3276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onigiri Heroes | 174699 | [174699-onigiri-heroes.json](./174699-onigiri-heroes.json) |
 | Onigiri Run | 351781 | [351781-onigiri-run.json](./351781-onigiri-run.json) |
 | Onigiri Shop Simulator | 361911 | [361911-onigiri-shop-simulator.json](./361911-onigiri-shop-simulator.json) |
-| Onigo Hunter | 133618 | [133618-onigo-hunter.json](./133618-onigo-hunter.json) |
 | Onigokko! | 153767 | [153767-onigokko.json](./153767-onigokko.json) |
 | Onii Kiss: Onii-chan, Where's My Kiss? | 401171 | [401171-onii-kiss-onii-chan-wheres-my-kiss.json](./401171-onii-kiss-onii-chan-wheres-my-kiss.json) |
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
@@ -3558,13 +3548,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onryo | 366150 | [366150-onryo.json](./366150-onryo.json) |
 | Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
 | Onsei Kanjou Sokuteiki: Kokoro Scan | 314324 | [314324-onsei-kanjou-sokuteiki-kokoro-scan.json](./314324-onsei-kanjou-sokuteiki-kokoro-scan.json) |
-| Onsen Master | 122192 | [122192-onsen-master.json](./122192-onsen-master.json) |
 | Onsen MILF Rainbow Party | 393380 | [393380-onsen-milf-rainbow-party.json](./393380-onsen-milf-rainbow-party.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Onsento | 399591 | [399591-onsento.json](./399591-onsento.json) |
 | OnsenVR | 75804 | [75804-onsenvr.json](./75804-onsenvr.json) |
-| Onset | 119395 | [119395-onset.json](./119395-onset.json) |
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
 | Onslaught | 151935 | [151935-onslaught.json](./151935-onslaught.json) |
 | Onslaught | 15329 | [15329-onslaught.json](./15329-onslaught.json) |
@@ -3660,7 +3648,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oookuki | 281694 | [281694-oookuki.json](./281694-oookuki.json) |
 | Ooooo | 304136 | [304136-ooooo.json](./304136-ooooo.json) |
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
-| Ooops! 2 | 165604 | [165604-ooops-2.json](./165604-ooops-2.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oopi's Quest | 120530 | [120530-oopis-quest.json](./120530-oopis-quest.json) |
 | Oopils | 405937 | [405937-oopils.json](./405937-oopils.json) |
@@ -4283,7 +4270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
 | Orbi's Chronicles | 149342 | [149342-orbis-chronicles.json](./149342-orbis-chronicles.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
-| Orbibot | 165208 | [165208-orbibot.json](./165208-orbibot.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
 | Orbis - Throw them all! | 134980 | [134980-orbis-throw-them-all.json](./134980-orbis-throw-them-all.json) |
@@ -4844,7 +4830,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oroboros | 223259 | [223259-oroboros.json](./223259-oroboros.json) |
 | Oroboros Square | 340821 | [340821-oroboros-square.json](./340821-oroboros-square.json) |
 | Oroborus: Planes of the Dead | 152709 | [152709-oroborus-planes-of-the-dead.json](./152709-oroborus-planes-of-the-dead.json) |
-| Orogenesis | 103047 | [103047-orogenesis.json](./103047-orogenesis.json) |
 | Orompaquenga | 184025 | [184025-orompaquenga.json](./184025-orompaquenga.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orph: The Lost Boy | 173328 | [173328-orph-the-lost-boy.json](./173328-orph-the-lost-boy.json) |
@@ -5027,7 +5012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osiris | 261476 | [261476-osiris.json](./261476-osiris.json) |
 | Osiris | 294900 | [294900-osiris.json](./294900-osiris.json) |
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
-| Osk | 122149 | [122149-osk.json](./122149-osk.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
 | Osman | 41073 | [41073-osman.json](./41073-osman.json) |
 | Osman Gazi | 158311 | [158311-osman-gazi.json](./158311-osman-gazi.json) |
@@ -5322,7 +5306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otterna | 200411 | [200411-otterna.json](./200411-otterna.json) |
 | OtterQuest | 188488 | [188488-otterquest.json](./188488-otterquest.json) |
 | OttGiu | 321535 | [321535-ottgiu.json](./321535-ottgiu.json) |
-| Otti: House Keeper | 138470 | [138470-otti-house-keeper.json](./138470-otti-house-keeper.json) |
 | Otti: The House Keeper | 142592 | [142592-otti-the-house-keeper.json](./142592-otti-the-house-keeper.json) |
 | Ottifanten Pinball | 65062 | [65062-ottifanten-pinball.json](./65062-ottifanten-pinball.json) |
 | Ottifanten: Ostfriesen Lemminge in Not | 410100 | [410100-ottifanten-ostfriesen-lemminge-in-not.json](./410100-ottifanten-ostfriesen-lemminge-in-not.json) |
@@ -5712,7 +5695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out There | 9539 | [9539-out-there.json](./9539-out-there.json) |
 | Out There Chronicles - Ep. 1 | 58224 | [58224-out-there-chronicles-ep-1.json](./58224-out-there-chronicles-ep-1.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
-| Out There: Oceans of Time | 122071 | [122071-out-there-oceans-of-time.json](./122071-out-there-oceans-of-time.json) |
 | Out There: Ω The Alliance | 147433 | [147433-out-there-the-alliance.json](./147433-out-there-the-alliance.json) |
 | Out There: Ω The Alliance | 341053 | [341053-out-there-the-alliance.json](./341053-out-there-the-alliance.json) |
 | Out Zone | 93519 | [93519-out-zone.json](./93519-out-zone.json) |
@@ -5977,7 +5959,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws | 115755 | [115755-outlaws.json](./115755-outlaws.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
-| Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlaws: Corwin's Treasure | 133153 | [133153-outlaws-corwins-treasure.json](./133153-outlaws-corwins-treasure.json) |
 | Outlawyer | 348147 | [348147-outlawyer.json](./348147-outlawyer.json) |
@@ -6439,7 +6420,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpainted | 397741 | [397741-overpainted.json](./397741-overpainted.json) |
 | Overpass | 117886 | [117886-overpass.json](./117886-overpass.json) |
 | Overpass | 97402 | [97402-overpass.json](./97402-overpass.json) |
-| Overpass 2 | 264500 | [264500-overpass-2.json](./264500-overpass-2.json) |
 | Overpass 2: Career Starter Pack | 271283 | [271283-overpass-2-career-starter-pack.json](./271283-overpass-2-career-starter-pack.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | Overpass 2: Ford Play Rock Bouncer | 271285 | [271285-overpass-2-ford-play-rock-bouncer.json](./271285-overpass-2-ford-play-rock-bouncer.json) |
