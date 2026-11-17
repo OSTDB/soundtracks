@@ -6408,6 +6408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Labyrinth | 109317 | [109317-escape-the-labyrinth.json](./109317-escape-the-labyrinth.json) |
 | Escape The Labyrinth | 380331 | [380331-escape-the-labyrinth.json](./380331-escape-the-labyrinth.json) |
 | Escape the Laser Trap | 332926 | [332926-escape-the-laser-trap.json](./332926-escape-the-laser-trap.json) |
+| Escape the Living Nebula | 188709 | [188709-escape-the-living-nebula.json](./188709-escape-the-living-nebula.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
 | Escape the Lost Pyramid | 111830 | [111830-escape-the-lost-pyramid.json](./111830-escape-the-lost-pyramid.json) |
