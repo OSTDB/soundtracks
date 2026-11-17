@@ -3885,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
 | Tekken 5: Dark Resurrection | 1235 | [1235-tekken-5-dark-resurrection.json](./1235-tekken-5-dark-resurrection.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
+| Tekken 6 Native Online | 424077 | [424077-tekken-6-native-online.json](./424077-tekken-6-native-online.json) |
 | Tekken 6: Bloodline Rebellion | 393420 | [393420-tekken-6-bloodline-rebellion.json](./393420-tekken-6-bloodline-rebellion.json) |
 | Tekken 7 + SoulCalibur VI Double Pack | 136121 | [136121-tekken-7-soulcalibur-vi-double-pack.json](./136121-tekken-7-soulcalibur-vi-double-pack.json) |
 | Tekken 7: Anna Williams | 119124 | [119124-tekken-7-anna-williams.json](./119124-tekken-7-anna-williams.json) |
@@ -9556,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamer Must Die | 259449 | [259449-the-dreamer-must-die.json](./259449-the-dreamer-must-die.json) |
 | The Dreamer's Demesne | 271431 | [271431-the-dreamers-demesne.json](./271431-the-dreamers-demesne.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
+| The Dreamfin Peak | 424090 | [424090-the-dreamfin-peak.json](./424090-the-dreamfin-peak.json) |
 | The Dreamhold | 60186 | [60186-the-dreamhold.json](./60186-the-dreamhold.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
 | The Dreaming Fox | 195372 | [195372-the-dreaming-fox.json](./195372-the-dreaming-fox.json) |
@@ -12194,6 +12196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
 | The Hum | 60705 | [60705-the-hum.json](./60705-the-hum.json) |
 | The Hum: Abductions | 56876 | [56876-the-hum-abductions.json](./56876-the-hum-abductions.json) |
+| The Human Bench | 424147 | [424147-the-human-bench.json](./424147-the-human-bench.json) |
 | The Human Fly | 287278 | [287278-the-human-fly.json](./287278-the-human-fly.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Human Race | 26415 | [26415-the-human-race.json](./26415-the-human-race.json) |
@@ -16963,6 +16966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
 | The Powerpuff Girls: Relish Rampage - Pickled Edition | 122540 | [122540-the-powerpuff-girls-relish-rampage-pickled-edition.json](./122540-the-powerpuff-girls-relish-rampage-pickled-edition.json) |
 | The Prabbits: Happy Dogfights | 139298 | [139298-the-prabbits-happy-dogfights.json](./139298-the-prabbits-happy-dogfights.json) |
+| The Precinct: Limited Edition | 424096 | [424096-the-precinct-limited-edition.json](./424096-the-precinct-limited-edition.json) |
 | The Predecessor | 382584 | [382584-the-predecessor.json](./382584-the-predecessor.json) |
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Prequel To Time | 273220 | [273220-the-prequel-to-time.json](./273220-the-prequel-to-time.json) |
@@ -21406,6 +21410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard Sniffer | 123477 | [123477-the-wizard-sniffer.json](./123477-the-wizard-sniffer.json) |
 | The Wizard: WizHarder Edition | 141234 | [141234-the-wizard-wizharder-edition.json](./141234-the-wizard-wizharder-edition.json) |
 | The Wizard's Apprentice | 205783 | [205783-the-wizards-apprentice.json](./205783-the-wizards-apprentice.json) |
+| The Wizard's Assistants | 424124 | [424124-the-wizards-assistants.json](./424124-the-wizards-assistants.json) |
 | The Wizard’s Beans Or: A Short Period of Unplanned Internment | 350445 | [350445-the-wizard-s-beans-or-a-short-period-of-unplanned-internment.json](./350445-the-wizard-s-beans-or-a-short-period-of-unplanned-internment.json) |
 | The Wizard's Castle | 25127 | [25127-the-wizards-castle.json](./25127-the-wizards-castle.json) |
 | The Wizard's Dolly Break | 385941 | [385941-the-wizards-dolly-break.json](./385941-the-wizards-dolly-break.json) |
@@ -30671,6 +30676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Girls | 237112 | [237112-town-girls.json](./237112-town-girls.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
+| Town Heroes | 424122 | [424122-town-heroes.json](./424122-town-heroes.json) |
 | Town Keeper | 316863 | [316863-town-keeper.json](./316863-town-keeper.json) |
 | Town Market Simulator 2025 | 384276 | [384276-town-market-simulator-2025.json](./384276-town-market-simulator-2025.json) |
 | Town of Ancient Tea | 247896 | [247896-town-of-ancient-tea.json](./247896-town-of-ancient-tea.json) |
