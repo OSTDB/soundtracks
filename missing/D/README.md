@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Block | 90921 | [90921-dancing-block.json](./90921-dancing-block.json) |
 | Dancing Bones | 348406 | [348406-dancing-bones.json](./348406-dancing-bones.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
+| Dancing Chair | 131670 | [131670-dancing-chair.json](./131670-dancing-chair.json) |
 | Dancing Challenge | 247251 | [247251-dancing-challenge.json](./247251-dancing-challenge.json) |
 | Dancing Craze | 52514 | [52514-dancing-craze.json](./52514-dancing-craze.json) |
 | Dancing Craze for Mac | 90836 | [90836-dancing-craze-for-mac.json](./90836-dancing-craze-for-mac.json) |
@@ -5305,7 +5306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Rattle: Hell Unleashed | 155391 | [155391-death-rattle-hell-unleashed.json](./155391-death-rattle-hell-unleashed.json) |
 | Death Ray Manta | 64589 | [64589-death-ray-manta.json](./64589-death-ray-manta.json) |
 | Death Realm | 154053 | [154053-death-realm.json](./154053-death-realm.json) |
-| Death Relives | 220010 | [220010-death-relives.json](./220010-death-relives.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Report | 336708 | [336708-death-report.json](./336708-death-report.json) |
 | Death Requiem | 249828 | [249828-death-requiem.json](./249828-death-requiem.json) |
@@ -18591,6 +18591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamlike Worlds | 28349 | [28349-dreamlike-worlds.json](./28349-dreamlike-worlds.json) |
 | Dreamline 404 | 339567 | [339567-dreamline-404.json](./339567-dreamline-404.json) |
 | Dreamlined | 197166 | [197166-dreamlined.json](./197166-dreamlined.json) |
+| Dreamlive | 131668 | [131668-dreamlive.json](./131668-dreamlive.json) |
 | Dreamlocked | 350703 | [350703-dreamlocked.json](./350703-dreamlocked.json) |
 | Dreamlords: Resurrection | 202154 | [202154-dreamlords-resurrection.json](./202154-dreamlords-resurrection.json) |
 | Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
