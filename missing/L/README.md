@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
 | Labhorror | 414405 | [414405-labhorror.json](./414405-labhorror.json) |
+| Labirint | 126671 | [126671-labirint.json](./126671-labirint.json) |
 | Labirinto 2 | 99677 | [99677-labirinto-2.json](./99677-labirinto-2.json) |
 | Labirinto 3 | 153892 | [153892-labirinto-3.json](./153892-labirinto-3.json) |
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
@@ -6554,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listen Up! We Tried to Make "Those Games" Even More Extreme! Some Things Have to Be Learned the Hard Way! | 341942 | [341942-listen-up-we-tried-to-make-those-games-even-more-extreme-some-things-have-to-be-learned-the-hard-way.json](./341942-listen-up-we-tried-to-make-those-games-even-more-extreme-some-things-have-to-be-learned-the-hard-way.json) |
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | Listenbourg | 264697 | [264697-listenbourg.json](./264697-listenbourg.json) |
+| Listeria Wars | 126674 | [126674-listeria-wars.json](./126674-listeria-wars.json) |
 | Listhère | 137982 | [137982-listhere.json](./137982-listhere.json) |
 | Lists and Lists | 60183 | [60183-lists-and-lists.json](./60183-lists-and-lists.json) |
 | Lit | 21264 | [21264-lit.json](./21264-lit.json) |
@@ -10372,6 +10374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovesick | 177738 | [177738-lovesick.json](./177738-lovesick.json) |
 | Lovesick | 306933 | [306933-lovesick.json](./306933-lovesick.json) |
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
+| LoveSick Darlings | 123107 | [123107-lovesick-darlings.json](./123107-lovesick-darlings.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | Lovestory | 105578 | [105578-lovestory.json](./105578-lovestory.json) |
 | LoveUnholyc | 194526 | [194526-loveunholyc.json](./194526-loveunholyc.json) |
