@@ -3219,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Science: Welcome To I.R.H.I.A. | 359003 | [359003-haunted-science-welcome-to-i-r-h-i-a.json](./359003-haunted-science-welcome-to-i-r-h-i-a.json) |
 | Haunted Service | 387601 | [387601-haunted-service.json](./387601-haunted-service.json) |
 | Haunted Shores | 172898 | [172898-haunted-shores.json](./172898-haunted-shores.json) |
+| Haunted Space | 145076 | [145076-haunted-space.json](./145076-haunted-space.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
 | Haunted Station | 258168 | [258168-haunted-station.json](./258168-haunted-station.json) |
@@ -4172,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven Studio | 278231 | [278231-heaven-studio.json](./278231-heaven-studio.json) |
 | Heaven Travel | 254255 | [254255-heaven-travel.json](./254255-heaven-travel.json) |
+| Heaven vs Hell | 143795 | [143795-heaven-vs-hell.json](./143795-heaven-vs-hell.json) |
 | Heaven Work | 207438 | [207438-heaven-work.json](./207438-heaven-work.json) |
 | Heaven: Dare mo Kimi wo Shiranai | 318932 | [318932-heaven-dare-mo-kimi-wo-shiranai.json](./318932-heaven-dare-mo-kimi-wo-shiranai.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
@@ -9236,6 +9238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himegashima Island | 311555 | [311555-himegashima-island.json](./311555-himegashima-island.json) |
 | Himegimi Detective | 74694 | [74694-himegimi-detective.json](./74694-himegimi-detective.json) |
 | Himegoto | 281943 | [281943-himegoto.json](./281943-himegoto.json) |
+| Himehibi: Another Princess Days ~White or Black~ | 145081 | [145081-himehibi-another-princess-days-white-or-black.json](./145081-himehibi-another-princess-days-white-or-black.json) |
 | Himehibi: New Princess Days Zoku! Nigakki | 218483 | [218483-himehibi-new-princess-days-zoku-nigakki.json](./218483-himehibi-new-princess-days-zoku-nigakki.json) |
 | Himehibi: New Princess Days Zoku! Nigakki Portable | 218485 | [218485-himehibi-new-princess-days-zoku-nigakki-portable.json](./218485-himehibi-new-princess-days-zoku-nigakki-portable.json) |
 | Himehibi: Princess Days | 131911 | [131911-himehibi-princess-days.json](./131911-himehibi-princess-days.json) |
@@ -12343,6 +12346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wired | 73660 | [73660-hot-wired.json](./73660-hot-wired.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
 | Hot Zone | 118123 | [118123-hot-zone.json](./118123-hot-zone.json) |
+| Hot-Air VR Balloon Trip over Russian Primorye | 143791 | [143791-hot-air-vr-balloon-trip-over-russian-primorye.json](./143791-hot-air-vr-balloon-trip-over-russian-primorye.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
@@ -13739,6 +13743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Zombies Together | 413135 | [413135-hunt-zombies-together.json](./413135-hunt-zombies-together.json) |
 | Hunt-or-Haunt | 188735 | [188735-hunt-or-haunt.json](./188735-hunt-or-haunt.json) |
 | Hunt, Hunter, Hunted | 177751 | [177751-hunt-hunter-hunted.json](./177751-hunt-hunter-hunted.json) |
+| Hunt: Primal Reptiles | 143793 | [143793-hunt-primal-reptiles.json](./143793-hunt-primal-reptiles.json) |
 | Hunt: Showdown - Bayou Wraith | 166067 | [166067-hunt-showdown-bayou-wraith.json](./166067-hunt-showdown-bayou-wraith.json) |
 | Hunt: Showdown - Bridgewater's Honor | 241834 | [241834-hunt-showdown-bridgewaters-honor.json](./241834-hunt-showdown-bridgewaters-honor.json) |
 | Hunt: Showdown - Cold Blooded | 196100 | [196100-hunt-showdown-cold-blooded.json](./196100-hunt-showdown-cold-blooded.json) |
@@ -14436,7 +14441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperballoid HD | 24340 | [24340-hyperballoid-hd.json](./24340-hyperballoid-hd.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
 | Hyperbase | 199408 | [199408-hyperbase.json](./199408-hyperbase.json) |
-| Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
 | Hyperbeat Multiplayer | 394646 | [394646-hyperbeat-multiplayer.json](./394646-hyperbeat-multiplayer.json) |
 | Hyperbeatz | 178867 | [178867-hyperbeatz.json](./178867-hyperbeatz.json) |
 | Hyperblade | 191070 | [191070-hyperblade.json](./191070-hyperblade.json) |
