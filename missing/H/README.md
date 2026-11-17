@@ -8039,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden in Clickville | 306941 | [306941-hidden-in-clickville.json](./306941-hidden-in-clickville.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden in my Paradise + Hidden around the World Bundle | 399810 | [399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json](./399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json) |
+| Hidden in Plain Cake | 425958 | [425958-hidden-in-plain-cake.json](./425958-hidden-in-plain-cake.json) |
 | Hidden in Plain Sight | 16328 | [16328-hidden-in-plain-sight.json](./16328-hidden-in-plain-sight.json) |
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
 | Hidden in Time: Looking-glass Lane | 65187 | [65187-hidden-in-time-looking-glass-lane.json](./65187-hidden-in-time-looking-glass-lane.json) |
