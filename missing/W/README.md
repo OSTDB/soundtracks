@@ -3078,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waystones | 346626 | [346626-waystones.json](./346626-waystones.json) |
 | Wayward | 183282 | [183282-wayward.json](./183282-wayward.json) |
 | Wayward | 22099 | [22099-wayward.json](./22099-wayward.json) |
+| Wayward Harbor | 192342 | [192342-wayward-harbor.json](./192342-wayward-harbor.json) |
 | Wayward Puritans | 321203 | [321203-wayward-puritans.json](./321203-wayward-puritans.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
@@ -7116,6 +7117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
 | Witch Cabin Cleanup | 413299 | [413299-witch-cabin-cleanup.json](./413299-witch-cabin-cleanup.json) |
 | Witch Challenge | 294394 | [294394-witch-challenge.json](./294394-witch-challenge.json) |
+| Witch Club | 192341 | [192341-witch-club.json](./192341-witch-club.json) |
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
 | Witch College 2 | 129994 | [129994-witch-college-2.json](./129994-witch-college-2.json) |
 | Witch College Bundle | 214374 | [214374-witch-college-bundle.json](./214374-witch-college-bundle.json) |
@@ -8691,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHopper | 256986 | [256986-wordhopper.json](./256986-wordhopper.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
 | Wordhunters | 103388 | [103388-wordhunters.json](./103388-wordhunters.json) |
+| Wordies | 192334 | [192334-wordies.json](./192334-wordies.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordimagesoundplay | 178180 | [178180-wordimagesoundplay.json](./178180-wordimagesoundplay.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
