@@ -4731,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Dell Jumbo Crosswords 3 | 99324 | [99324-penny-dell-jumbo-crosswords-3.json](./99324-penny-dell-jumbo-crosswords-3.json) |
 | Penny Dell Sudoku | 310702 | [310702-penny-dell-sudoku.json](./310702-penny-dell-sudoku.json) |
 | Penny Dragon | 183195 | [183195-penny-dragon.json](./183195-penny-dragon.json) |
+| Penny Dreadfuls: Sweeney Todd | 209040 | [209040-penny-dreadfuls-sweeney-todd.json](./209040-penny-dreadfuls-sweeney-todd.json) |
 | Penny Dreadfuls: Sweeney Todd - Premium Edition | 208877 | [208877-penny-dreadfuls-sweeney-todd-premium-edition.json](./208877-penny-dreadfuls-sweeney-todd-premium-edition.json) |
 | Penny for Your Potion | 356255 | [356255-penny-for-your-potion.json](./356255-penny-for-your-potion.json) |
 | Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
@@ -11083,6 +11084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play-Yan | 49765 | [49765-play-yan.json](./49765-play-yan.json) |
 | Play: An Interactive Piece | 193068 | [193068-play-an-interactive-piece.json](./193068-play-an-interactive-piece.json) |
 | Play! Honda e | 414915 | [414915-play-honda-e.json](./414915-play-honda-e.json) |
+| Play! Mahjong Titanium Collection | 209039 | [209039-play-mahjong-titanium-collection.json](./209039-play-mahjong-titanium-collection.json) |
 | Play! The Ultimate Casual Game Collection | 69097 | [69097-play-the-ultimate-casual-game-collection.json](./69097-play-the-ultimate-casual-game-collection.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
 | Playable Alpha | 304603 | [304603-playable-alpha.json](./304603-playable-alpha.json) |
@@ -16910,6 +16912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Detective | 230086 | [230086-private-detective.json](./230086-private-detective.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Detective, Freeze | 367137 | [367137-private-detective-freeze.json](./367137-private-detective-freeze.json) |
+| Private Dick: Lipstick & Lies | 209046 | [209046-private-dick-lipstick-and-lies.json](./209046-private-dick-lipstick-and-lies.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Eye | 25833 | [25833-private-eye.json](./25833-private-eye.json) |
 | Private Eye Dol | 218023 | [218023-private-eye-dol.json](./218023-private-eye-dol.json) |
