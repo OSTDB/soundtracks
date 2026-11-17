@@ -2336,7 +2336,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair Souls: Darkest Grind | 190303 | [190303-unfair-souls-darkest-grind.json](./190303-unfair-souls-darkest-grind.json) |
 | Unfair Undyne | 368953 | [368953-unfair-undyne.json](./368953-unfair-undyne.json) |
 | Unfair War: Survivors | 398394 | [398394-unfair-war-survivors.json](./398394-unfair-war-survivors.json) |
-| Unfamiliar | 118284 | [118284-unfamiliar.json](./118284-unfamiliar.json) |
 | Unfamiliar | 275214 | [275214-unfamiliar.json](./275214-unfamiliar.json) |
 | Unfamiliar Lands | 330584 | [330584-unfamiliar-lands.json](./330584-unfamiliar-lands.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
@@ -2603,7 +2602,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
 | Unity Invaders | 173206 | [173206-unity-invaders.json](./173206-unity-invaders.json) |
 | Unity of Command | 22645 | [22645-unity-of-command.json](./22645-unity-of-command.json) |
-| Unity of Command II | 115667 | [115667-unity-of-command-ii.json](./115667-unity-of-command-ii.json) |
 | Unity of Command II: Barbarossa | 150609 | [150609-unity-of-command-ii-barbarossa.json](./150609-unity-of-command-ii-barbarossa.json) |
 | Unity of Command II: Blitzkrieg | 166052 | [166052-unity-of-command-ii-blitzkrieg.json](./166052-unity-of-command-ii-blitzkrieg.json) |
 | Unity of Command II: Desert Fox | 235798 | [235798-unity-of-command-ii-desert-fox.json](./235798-unity-of-command-ii-desert-fox.json) |
