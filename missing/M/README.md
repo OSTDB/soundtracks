@@ -4188,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Marine Wars | 40583 | [40583-marine-wars.json](./40583-marine-wars.json) |
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
+| Mariner Accident | 109778 | [109778-mariner-accident.json](./109778-mariner-accident.json) |
 | Marines Modern Urban Combat | 50690 | [50690-marines-modern-urban-combat.json](./50690-marines-modern-urban-combat.json) |
 | Marinette | 188173 | [188173-marinette.json](./188173-marinette.json) |
 | MarineVerse Sailing Club | 120575 | [120575-marineverse-sailing-club.json](./120575-marineverse-sailing-club.json) |
@@ -17121,6 +17122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molnspelet | 19813 | [19813-molnspelet.json](./19813-molnspelet.json) |
 | Molo's Revenge | 323255 | [323255-molos-revenge.json](./323255-molos-revenge.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
+| Moloch: Zero | 109808 | [109808-moloch-zero.json](./109808-moloch-zero.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
 | Mologa | 188821 | [188821-mologa.json](./188821-mologa.json) |
 | Molokaust | 405832 | [405832-molokaust.json](./405832-molokaust.json) |
