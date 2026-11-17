@@ -2565,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village of Origins | 210548 | [210548-village-of-origins.json](./210548-village-of-origins.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
 | Village of the Curse | 387600 | [387600-village-of-the-curse.json](./387600-village-of-the-curse.json) |
+| Village of the Mirror | 424095 | [424095-village-of-the-mirror.json](./424095-village-of-the-mirror.json) |
 | Village of Zombies | 188958 | [188958-village-of-zombies.json](./188958-village-of-zombies.json) |
 | Village of Zombies: Abandoned City | 192231 | [192231-village-of-zombies-abandoned-city.json](./192231-village-of-zombies-abandoned-city.json) |
 | Village of Zombies: Tropical | 192230 | [192230-village-of-zombies-tropical.json](./192230-village-of-zombies-tropical.json) |
@@ -4154,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Siege | 216665 | [216665-vox-siege.json](./216665-vox-siege.json) |
 | Vox-L | 30964 | [30964-vox-l.json](./30964-vox-l.json) |
 | Voxabular P.I: Penny's First Case | 214263 | [214263-voxabular-p-i-pennys-first-case.json](./214263-voxabular-p-i-pennys-first-case.json) |
+| VoxArena | 424144 | [424144-voxarena.json](./424144-voxarena.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Baller | 90258 | [90258-voxel-baller.json](./90258-voxel-baller.json) |
