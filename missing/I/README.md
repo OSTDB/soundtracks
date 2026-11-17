@@ -4744,9 +4744,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D Arcade Stage 5 | 171294 | [171294-initial-d-arcade-stage-5.json](./171294-initial-d-arcade-stage-5.json) |
 | Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
 | Initial D Arcade Stage 7 AAX | 77433 | [77433-initial-d-arcade-stage-7-aax.json](./77433-initial-d-arcade-stage-7-aax.json) |
+| Initial D Arcade Stage Zero | 130423 | [130423-initial-d-arcade-stage-zero.json](./130423-initial-d-arcade-stage-zero.json) |
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
 | Initial D Gaiden | 62559 | [62559-initial-d-gaiden.json](./62559-initial-d-gaiden.json) |
 | Initial D: Another Stage | 49621 | [49621-initial-d-another-stage.json](./49621-initial-d-another-stage.json) |
+| Initial D: Arcade Stage 8 Infinity | 130424 | [130424-initial-d-arcade-stage-8-infinity.json](./130424-initial-d-arcade-stage-8-infinity.json) |
 | Initial D: Koudou Saisoku Densetsu | 97532 | [97532-initial-d-koudou-saisoku-densetsu.json](./97532-initial-d-koudou-saisoku-densetsu.json) |
 | Initial D: Mountain Vengeance | 71854 | [71854-initial-d-mountain-vengeance.json](./71854-initial-d-mountain-vengeance.json) |
 | Initial D: Perfect Shift Online | 85193 | [85193-initial-d-perfect-shift-online.json](./85193-initial-d-perfect-shift-online.json) |
