@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carball 360 | 267747 | [267747-carball-360.json](./267747-carball-360.json) |
 | Carbon | 304533 | [304533-carbon.json](./304533-carbon.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
+| Carbon Dating: Green Romance | 130427 | [130427-carbon-dating-green-romance.json](./130427-carbon-dating-green-romance.json) |
 | Carbón Heart | 294949 | [294949-carbon-heart.json](./294949-carbon-heart.json) |
 | Carbon Steel | 227567 | [227567-carbon-steel.json](./227567-carbon-steel.json) |
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
@@ -9144,6 +9145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chotto Magic Taizen: Nenzu Camera | 220848 | [220848-chotto-magic-taizen-nenzu-camera.json](./220848-chotto-magic-taizen-nenzu-camera.json) |
 | Chotto Magic Taizen: Suki Kirai Hakkenki | 220846 | [220846-chotto-magic-taizen-suki-kirai-hakkenki.json](./220846-chotto-magic-taizen-suki-kirai-hakkenki.json) |
 | Chotto xx na Watashi no Nichijou: Kiki Dasshutsu!? Gyakuten no Nazotoki Life | 251532 | [251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json](./251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json) |
+| Chotto-Aima no Colpile DS | 130445 | [130445-chotto-aima-no-colpile-ds.json](./130445-chotto-aima-no-colpile-ds.json) |
 | Chou à la Crème Collect | 304665 | [304665-chou-a-la-creme-collect.json](./304665-chou-a-la-creme-collect.json) |
 | Chou Aniki | 85547 | [85547-chou-aniki.json](./85547-chou-aniki.json) |
 | Chou Aniki Zero | 42859 | [42859-chou-aniki-zero.json](./42859-chou-aniki-zero.json) |
@@ -17557,6 +17559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Cosmosiege | 264182 | [264182-cosmosiege.json](./264182-cosmosiege.json) |
 | Cosmoswat | 386514 | [386514-cosmoswat.json](./386514-cosmoswat.json) |
+| Cosmotic Blast | 130438 | [130438-cosmotic-blast.json](./130438-cosmotic-blast.json) |
 | Cosmotica | 215519 | [215519-cosmotica.json](./215519-cosmotica.json) |
 | Cosmotiles | 372925 | [372925-cosmotiles.json](./372925-cosmotiles.json) |
 | Cosmotots | 303739 | [303739-cosmotots.json](./303739-cosmotots.json) |
@@ -17839,6 +17842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs Conquest | 363683 | [363683-countryballs-conquest.json](./363683-countryballs-conquest.json) |
 | CountryBalls Heroes | 119848 | [119848-countryballs-heroes.json](./119848-countryballs-heroes.json) |
+| Countryballs: Modern Ballfare | 131628 | [131628-countryballs-modern-ballfare.json](./131628-countryballs-modern-ballfare.json) |
 | Countryballs: Over the World | 83546 | [83546-countryballs-over-the-world.json](./83546-countryballs-over-the-world.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
@@ -22877,6 +22881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Fortress | 362061 | [362061-custom-fortress.json](./362061-custom-fortress.json) |
 | Custom Goban | 236181 | [236181-custom-goban.json](./236181-custom-goban.json) |
 | Custom Machinery | 163178 | [163178-custom-machinery.json](./163178-custom-machinery.json) |
+| Custom Mahjong | 130443 | [130443-custom-mahjong.json](./130443-custom-mahjong.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Maid 3D 2 | 26563 | [26563-custom-maid-3d-2.json](./26563-custom-maid-3d-2.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
