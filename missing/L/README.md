@@ -855,7 +855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
 | Land of Puzzles: Knights | 108383 | [108383-land-of-puzzles-knights.json](./108383-land-of-puzzles-knights.json) |
 | Land of Runes | 175801 | [175801-land-of-runes.json](./175801-land-of-runes.json) |
-| Land of Screens | 137110 | [137110-land-of-screens.json](./137110-land-of-screens.json) |
 | Land of Tales | 244736 | [244736-land-of-tales.json](./244736-land-of-tales.json) |
 | Land of the Dead Trees | 389490 | [389490-land-of-the-dead-trees.json](./389490-land-of-the-dead-trees.json) |
 | Land of the Dead: Day of Reckoning | 70014 | [70014-land-of-the-dead-day-of-reckoning.json](./70014-land-of-the-dead-day-of-reckoning.json) |
