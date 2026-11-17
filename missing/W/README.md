@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Alive | 327516 | [327516-we-are-alive.json](./327516-we-are-alive.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
 | We Are All Individuals | 53921 | [53921-we-are-all-individuals.json](./53921-we-are-all-individuals.json) |
+| We are Blacksmith | 189084 | [189084-we-are-blacksmith.json](./189084-we-are-blacksmith.json) |
 | We are Blob | 338388 | [338388-we-are-blob.json](./338388-we-are-blob.json) |
 | We are Broken | 146090 | [146090-we-are-broken.json](./146090-we-are-broken.json) |
 | We Are Busy Digging a Hole | 350345 | [350345-we-are-busy-digging-a-hole.json](./350345-we-are-busy-digging-a-hole.json) |
@@ -7415,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within Lattice | 376278 | [376278-within-lattice.json](./376278-within-lattice.json) |
 | Within of Static: Ashburg Rental | 382077 | [382077-within-of-static-ashburg-rental.json](./382077-within-of-static-ashburg-rental.json) |
 | Within of Static: Northgate Mall | 393564 | [393564-within-of-static-northgate-mall.json](./393564-within-of-static-northgate-mall.json) |
+| Within Skerry | 188692 | [188692-within-skerry.json](./188692-within-skerry.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
 | Within the Cosmos | 117457 | [117457-within-the-cosmos.json](./117457-within-the-cosmos.json) |
 | Within The Depths | 253407 | [253407-within-the-depths.json](./253407-within-the-depths.json) |
@@ -8715,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordle 2 | 157751 | [157751-wordle-2.json](./157751-wordle-2.json) |
 | Wordle 3 | 149865 | [149865-wordle-3.json](./149865-wordle-3.json) |
 | Wordle 4 | 158887 | [158887-wordle-4.json](./158887-wordle-4.json) |
+| Wordle 5 | 189153 | [189153-wordle-5.json](./189153-wordle-5.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | Wordle for Commodore 64 | 343696 | [343696-wordle-for-commodore-64.json](./343696-wordle-for-commodore-64.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
@@ -9334,6 +9337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tennis: Roaring '20s | 110498 | [110498-world-of-tennis-roaring-20s.json](./110498-world-of-tennis-roaring-20s.json) |
 | World of the dead | 319721 | [319721-world-of-the-dead.json](./319721-world-of-the-dead.json) |
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
+| World of Towers | 188715 | [188715-world-of-towers.json](./188715-world-of-towers.json) |
 | World of Trains | 216368 | [216368-world-of-trains.json](./216368-world-of-trains.json) |
 | World of Turtle | 132043 | [132043-world-of-turtle.json](./132043-world-of-turtle.json) |
 | World of Undead | 33217 | [33217-world-of-undead.json](./33217-world-of-undead.json) |
