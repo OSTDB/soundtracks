@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T10:16:32.275Z",
-  "total_soundtracks": 3742,
+  "generated_at": "2026-11-17T10:21:05.160Z",
+  "total_soundtracks": 3743,
   "games": [
     {
       "igdb_id": 292844,
@@ -48385,6 +48385,20 @@
         {
           "album_name": "Yurukill: The Calumniation Games Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1c3hbTUGA9SdBy06D85dVf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112831,
+      "game_name": "Zed",
+      "game_url": "https://ostdb.net/games/zed",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fb960c89fbd190a58dad7b88",
+      "albums": [
+        {
+          "album_name": "ZED (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2uuhZRIJ0NTz8I2AfTVfjo",
           "apple_music_url": "",
           "album_link_url": ""
         }
