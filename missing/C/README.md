@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Simulator VR | 155910 | [155910-car-parking-simulator-vr.json](./155910-car-parking-simulator-vr.json) |
 | Car Parking: Garage Simulator | 340835 | [340835-car-parking-garage-simulator.json](./340835-car-parking-garage-simulator.json) |
 | Car Parking: New Cars | 226296 | [226296-car-parking-new-cars.json](./226296-car-parking-new-cars.json) |
+| Car Parking: Police Office Car | 107289 | [107289-car-parking-police-office-car.json](./107289-car-parking-police-office-car.json) |
 | Car Parkour | 246867 | [246867-car-parkour.json](./246867-car-parkour.json) |
 | Car Parkour 2 Together | 420365 | [420365-car-parkour-2-together.json](./420365-car-parkour-2-together.json) |
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
@@ -5353,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Baseball | 308669 | [308669-cats-baseball.json](./308669-cats-baseball.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Bundle | 273329 | [273329-cats-bundle.json](./273329-cats-bundle.json) |
+| Cats Can Change Color - Infinite Jump | 108523 | [108523-cats-can-change-color-infinite-jump.json](./108523-cats-can-change-color-infinite-jump.json) |
 | Cats Catching Mice: The Black and White World | 347989 | [347989-cats-catching-mice-the-black-and-white-world.json](./347989-cats-catching-mice-the-black-and-white-world.json) |
 | Cats Clicker | 302878 | [302878-cats-clicker.json](./302878-cats-clicker.json) |
 | Cats Contrast | 332970 | [332970-cats-contrast.json](./332970-cats-contrast.json) |
@@ -16569,6 +16571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Game | 203587 | [203587-cool-game.json](./203587-cool-game.json) |
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
+| Cool Headed | 107307 | [107307-cool-headed.json](./107307-cool-headed.json) |
 | Cool Herders | 45813 | [45813-cool-herders.json](./45813-cool-herders.json) |
 | Cool Kid Cody | 195175 | [195175-cool-kid-cody.json](./195175-cool-kid-cody.json) |
 | Cool Kid Cody: Season 1 - Episode 02 | 318834 | [318834-cool-kid-cody-season-1-episode-02.json](./318834-cool-kid-cody-season-1-episode-02.json) |
