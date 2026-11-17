@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Legion: Apotheosis | 296569 | [296569-galaxy-legion-apotheosis.json](./296569-galaxy-legion-apotheosis.json) |
 | Galaxy Life | 201559 | [201559-galaxy-life.json](./201559-galaxy-life.json) |
 | Galaxy Life | 324894 | [324894-galaxy-life.json](./324894-galaxy-life.json) |
+| Galaxy Life Reborn | 139506 | [139506-galaxy-life-reborn.json](./139506-galaxy-life-reborn.json) |
 | Galaxy Mania | 309029 | [309029-galaxy-mania.json](./309029-galaxy-mania.json) |
 | Galaxy Mirror Glaze Cake - Sweet Desserts Maker | 101347 | [101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json](./101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json) |
 | Galaxy Monster | 116890 | [116890-galaxy-monster.json](./116890-galaxy-monster.json) |
@@ -10759,7 +10760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
 | Grime & Gaslight | 134870 | [134870-grime-and-gaslight.json](./134870-grime-and-gaslight.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
-| Grime II | 262671 | [262671-grime-ii.json](./262671-grime-ii.json) |
 | Grime Reapers | 385362 | [385362-grime-reapers.json](./385362-grime-reapers.json) |
 | Grime: Colors of Rot | 222950 | [222950-grime-colors-of-rot.json](./222950-grime-colors-of-rot.json) |
 | Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
