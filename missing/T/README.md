@@ -6355,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
 | The Alchemist & His Battle-Scarred Homunculus | 315048 | [315048-the-alchemist-and-his-battle-scarred-homunculus.json](./315048-the-alchemist-and-his-battle-scarred-homunculus.json) |
 | The Alchemist Alekki | 158901 | [158901-the-alchemist-alekki.json](./158901-the-alchemist-alekki.json) |
+| The Alchemist Code | 69459 | [69459-the-alchemist-code.json](./69459-the-alchemist-code.json) |
 | The Alchemist of Nafiljar | 244906 | [244906-the-alchemist-of-nafiljar.json](./244906-the-alchemist-of-nafiljar.json) |
 | The Alchemist Shop: An Apprentice's Life | 213308 | [213308-the-alchemist-shop-an-apprentices-life.json](./213308-the-alchemist-shop-an-apprentices-life.json) |
 | The Alchemist's Apprentice in the Maze of Madness | 293020 | [293020-the-alchemists-apprentice-in-the-maze-of-madness.json](./293020-the-alchemists-apprentice-in-the-maze-of-madness.json) |
@@ -9211,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Designer's Curse Chapter 2: Forgotten Horrors | 338329 | [338329-the-designers-curse-chapter-2-forgotten-horrors.json](./338329-the-designers-curse-chapter-2-forgotten-horrors.json) |
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
 | The Desolate Hospital | 155252 | [155252-the-desolate-hospital.json](./155252-the-desolate-hospital.json) |
+| The Desolate Room | 69462 | [69462-the-desolate-room.json](./69462-the-desolate-room.json) |
 | The Desolation | 179293 | [179293-the-desolation.json](./179293-the-desolation.json) |
 | The Desolation | 277081 | [277081-the-desolation.json](./277081-the-desolation.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
