@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon GraVel | 167544 | [167544-neon-gravel.json](./167544-neon-gravel.json) |
 | Neon Grid | 392205 | [392205-neon-grid.json](./392205-neon-grid.json) |
 | Neon Grid Defenders | 297887 | [297887-neon-grid-defenders.json](./297887-neon-grid-defenders.json) |
+| Neon GT Racing | 428296 | [428296-neon-gt-racing.json](./428296-neon-gt-racing.json) |
 | Neon Hardcore | 51586 | [51586-neon-hardcore.json](./51586-neon-hardcore.json) |
 | Neon Hardcorps | 33429 | [33429-neon-hardcorps.json](./33429-neon-hardcorps.json) |
 | Neon Haze | 152042 | [152042-neon-haze.json](./152042-neon-haze.json) |
@@ -5010,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
 | Night Wizard: The Video Game - Denial of the World | 62403 | [62403-night-wizard-the-video-game-denial-of-the-world.json](./62403-night-wizard-the-video-game-denial-of-the-world.json) |
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
+| Night Z: Definitely Not Worth It | 428289 | [428289-night-z-definitely-not-worth-it.json](./428289-night-z-definitely-not-worth-it.json) |
 | Night-Runners Prologue | 281485 | [281485-night-runners-prologue.json](./281485-night-runners-prologue.json) |
 | Night, Hood and the Mysterious Traveller | 276780 | [276780-night-hood-and-the-mysterious-traveller.json](./276780-night-hood-and-the-mysterious-traveller.json) |
 | Night: Silent Killer | 154894 | [154894-night-silent-killer.json](./154894-night-silent-killer.json) |
