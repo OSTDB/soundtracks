@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day to Remember | 410550 | [410550-a-day-to-remember.json](./410550-a-day-to-remember.json) |
 | A day with Marco | 343160 | [343160-a-day-with-marco.json](./343160-a-day-with-marco.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
+| A Day With My Cat | 82195 | [82195-a-day-with-my-cat.json](./82195-a-day-with-my-cat.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day Without Me | 132291 | [132291-a-day-without-me.json](./132291-a-day-without-me.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
@@ -2500,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Patience | 419098 | [419098-absolute-patience.json](./419098-absolute-patience.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
+| Absolute Poker | 80694 | [80694-absolute-poker.json](./80694-absolute-poker.json) |
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
 | Absolute Redemption | 150223 | [150223-absolute-redemption.json](./150223-absolute-redemption.json) |
@@ -2512,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Skat | 91861 | [91861-absolute-skat.json](./91861-absolute-skat.json) |
 | Absolute Solitaire & Patience | 25286 | [25286-absolute-solitaire-and-patience.json](./25286-absolute-solitaire-and-patience.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
+| Absolute Sudoku | 80693 | [80693-absolute-sudoku.json](./80693-absolute-sudoku.json) |
 | Absolute Sumo: Chonk Arena | 414703 | [414703-absolute-sumo-chonk-arena.json](./414703-absolute-sumo-chonk-arena.json) |
 | Absolute Supercars | 42997 | [42997-absolute-supercars.json](./42997-absolute-supercars.json) |
 | Absolute Tactics: Daughters of Mercy | 151385 | [151385-absolute-tactics-daughters-of-mercy.json](./151385-absolute-tactics-daughters-of-mercy.json) |
@@ -4485,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
 | Adventures | 179815 | [179815-adventures.json](./179815-adventures.json) |
 | Adventures & Quests: The Black Crystal | 341750 | [341750-adventures-and-quests-the-black-crystal.json](./341750-adventures-and-quests-the-black-crystal.json) |
+| Adventures 4,5,6 | 80650 | [80650-adventures-4-5-6.json](./80650-adventures-4-5-6.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
 | Adventures Diary of Merchant | 115579 | [115579-adventures-diary-of-merchant.json](./115579-adventures-diary-of-merchant.json) |
 | Adventures in Adventureland | 98320 | [98320-adventures-in-adventureland.json](./98320-adventures-in-adventureland.json) |
@@ -15535,6 +15539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? | 81347 | [81347-are-you-smarter-than-a-5th-grader.json](./81347-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
+| Are You Smarter Than a 5th Grader? & Friends | 79428 | [79428-are-you-smarter-than-a-5th-grader-and-friends.json](./79428-are-you-smarter-than-a-5th-grader-and-friends.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 6521 | [6521-are-you-smarter-than-a-5th-grader-game-time.json](./6521-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter Than A 5th Grader?: Back to School | 50741 | [50741-are-you-smarter-than-a-5th-grader-back-to-school.json](./50741-are-you-smarter-than-a-5th-grader-back-to-school.json) |
