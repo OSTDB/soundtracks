@@ -5266,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
 | TesserActive | 120633 | [120633-tesseractive.json](./120633-tesseractive.json) |
 | Tesserae | 71921 | [71921-tesserae.json](./71921-tesserae.json) |
+| Test Chamber | 25220 | [25220-test-chamber.json](./25220-test-chamber.json) |
 | Test Drive | 2200 | [2200-test-drive.json](./2200-test-drive.json) |
 | Test Drive | 78193 | [78193-test-drive.json](./78193-test-drive.json) |
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
@@ -6501,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancient Labyrinth | 122595 | [122595-the-ancient-labyrinth.json](./122595-the-ancient-labyrinth.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancient Magus' Bride: Midsummer Pilgrimage | 336511 | [336511-the-ancient-magus-bride-midsummer-pilgrimage.json](./336511-the-ancient-magus-bride-midsummer-pilgrimage.json) |
+| The Ancient Remains | 29276 | [29276-the-ancient-remains.json](./29276-the-ancient-remains.json) |
 | The Ancients | 191144 | [191144-the-ancients.json](./191144-the-ancients.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Ancients' Tome | 124567 | [124567-the-ancients-tome.json](./124567-the-ancients-tome.json) |
@@ -7936,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat: Tales of Istanbul | 377880 | [377880-the-cat-tales-of-istanbul.json](./377880-the-cat-tales-of-istanbul.json) |
 | The Cat! Porfirio's Adventure | 32352 | [32352-the-cat-porfirios-adventure.json](./32352-the-cat-porfirios-adventure.json) |
 | The Catacombs | 231801 | [231801-the-catacombs.json](./231801-the-catacombs.json) |
+| The Catacombs of Solaris | 25257 | [25257-the-catacombs-of-solaris.json](./25257-the-catacombs-of-solaris.json) |
 | The Catacombs of Solaris Revisited | 142873 | [142873-the-catacombs-of-solaris-revisited.json](./142873-the-catacombs-of-solaris-revisited.json) |
 | The Catalyst Acolyte Tower Defense | 311150 | [311150-the-catalyst-acolyte-tower-defense.json](./311150-the-catalyst-acolyte-tower-defense.json) |
 | The Catapult | 247118 | [247118-the-catapult.json](./247118-the-catapult.json) |
@@ -9331,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Director's Disorder: Pilot Episode | 212121 | [212121-the-directors-disorder-pilot-episode.json](./212121-the-directors-disorder-pilot-episode.json) |
 | The Directorate: The Spy Who Killed A Saint | 253469 | [253469-the-directorate-the-spy-who-killed-a-saint.json](./253469-the-directorate-the-spy-who-killed-a-saint.json) |
 | The Dis-United States of America | 126405 | [126405-the-dis-united-states-of-america.json](./126405-the-dis-united-states-of-america.json) |
+| The Disappearance of Eileen Kestler | 25256 | [25256-the-disappearance-of-eileen-kestler.json](./25256-the-disappearance-of-eileen-kestler.json) |
 | The Disappearance of Emily Crowe | 406859 | [406859-the-disappearance-of-emily-crowe.json](./406859-the-disappearance-of-emily-crowe.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
 | The Disappearing of Gensokyo | 81958 | [81958-the-disappearing-of-gensokyo.json](./81958-the-disappearing-of-gensokyo.json) |
@@ -21909,6 +21913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There is a Picture | 146083 | [146083-there-is-a-picture.json](./146083-there-is-a-picture.json) |
 | There is a Secret Tunnel to the Center of the Earth | 418190 | [418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json](./418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json) |
 | There is a Thief in my House | 124332 | [124332-there-is-a-thief-in-my-house.json](./124332-there-is-a-thief-in-my-house.json) |
+| There Is a Way | 25234 | [25234-there-is-a-way.json](./25234-there-is-a-way.json) |
 | There Is More | 368187 | [368187-there-is-more.json](./368187-there-is-more.json) |
 | There is Never Enough Space! | 181617 | [181617-there-is-never-enough-space.json](./181617-there-is-never-enough-space.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
@@ -21986,6 +21991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's Nothing to Do in This Town | 140052 | [140052-theres-nothing-to-do-in-this-town.json](./140052-theres-nothing-to-do-in-this-town.json) |
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
+| There's Poop In My Soup: Pooping with Friends | 29255 | [29255-theres-poop-in-my-soup-pooping-with-friends.json](./29255-theres-poop-in-my-soup-pooping-with-friends.json) |
 | There's Something in the Ice | 289956 | [289956-theres-something-in-the-ice.json](./289956-theres-something-in-the-ice.json) |
 | There's Something in the Pipes | 234811 | [234811-theres-something-in-the-pipes.json](./234811-theres-something-in-the-pipes.json) |
 | There’s Something Wrong With the Hero’s Choices | 401007 | [401007-there-s-something-wrong-with-the-hero-s-choices.json](./401007-there-s-something-wrong-with-the-hero-s-choices.json) |
@@ -26868,6 +26874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
 | TNN Motorsports Hardcore Heat | 45845 | [45845-tnn-motorsports-hardcore-heat.json](./45845-tnn-motorsports-hardcore-heat.json) |
+| TNN Motorsports Hardcore TR | 34707 | [34707-tnn-motorsports-hardcore-tr.json](./34707-tnn-motorsports-hardcore-tr.json) |
 | TNN Outdoors Bass Tournament '96 | 46244 | [46244-tnn-outdoors-bass-tournament-96.json](./46244-tnn-outdoors-bass-tournament-96.json) |
 | TNN Outdoors Fishing Champ | 49994 | [49994-tnn-outdoors-fishing-champ.json](./49994-tnn-outdoors-fishing-champ.json) |
 | TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
@@ -28651,6 +28658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun | 187357 | [187357-top-gun.json](./187357-top-gun.json) |
 | Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
 | Top Gun | 218925 | [218925-top-gun.json](./218925-top-gun.json) |
+| Top Gun | 22910 | [22910-top-gun.json](./22910-top-gun.json) |
 | Top Gun | 22913 | [22913-top-gun.json](./22913-top-gun.json) |
 | Top Gun Air Combat | 147123 | [147123-top-gun-air-combat.json](./147123-top-gun-air-combat.json) |
 | Top Gun Air Combat: Extended | 283835 | [283835-top-gun-air-combat-extended.json](./283835-top-gun-air-combat-extended.json) |
@@ -35148,6 +35156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Dash | 347424 | [347424-trolley-dash.json](./347424-trolley-dash.json) |
 | Trolley Delayma | 267294 | [267294-trolley-delayma.json](./267294-trolley-delayma.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
+| Trolley Gold | 32162 | [32162-trolley-gold.json](./32162-trolley-gold.json) |
 | Trolley Path to Gold | 288556 | [288556-trolley-path-to-gold.json](./288556-trolley-path-to-gold.json) |
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
 | Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
@@ -37010,6 +37019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Parade: Moonlit Mononoke | 285636 | [285636-twilight-parade-moonlit-mononoke.json](./285636-twilight-parade-moonlit-mononoke.json) |
 | Twilight Phenomena: Strange Menagerie - Collector's Edition | 81080 | [81080-twilight-phenomena-strange-menagerie-collectors-edition.json](./81080-twilight-phenomena-strange-menagerie-collectors-edition.json) |
 | Twilight Phenomena: The Incredible Show - Collector's Edition | 95243 | [95243-twilight-phenomena-the-incredible-show-collectors-edition.json](./95243-twilight-phenomena-the-incredible-show-collectors-edition.json) |
+| Twilight Phenomena: The Lodgers of House 13 - Collector's Edition | 29127 | [29127-twilight-phenomena-the-lodgers-of-house-13-collectors-edition.json](./29127-twilight-phenomena-the-lodgers-of-house-13-collectors-edition.json) |
 | Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
 | Twilight Requiem | 363270 | [363270-twilight-requiem.json](./363270-twilight-requiem.json) |
