@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys III: Wanderers from Ys | 375463 | [375463-ys-iii-wanderers-from-ys.json](./375463-ys-iii-wanderers-from-ys.json) |
 | Ys III: Wanderers from Ys | 375490 | [375490-ys-iii-wanderers-from-ys.json](./375490-ys-iii-wanderers-from-ys.json) |
 | Ys IV: Mask of the Sun | 15451 | [15451-ys-iv-mask-of-the-sun.json](./15451-ys-iv-mask-of-the-sun.json) |
+| Ys IV: Mask of the Sun - A New Theory | 65102 | [65102-ys-iv-mask-of-the-sun-a-new-theory.json](./65102-ys-iv-mask-of-the-sun-a-new-theory.json) |
 | Ys IV: The Dawn of Ys | 15452 | [15452-ys-iv-the-dawn-of-ys.json](./15452-ys-iv-the-dawn-of-ys.json) |
 | Ys IX: Monstrum Nox | 113431 | [113431-ys-ix-monstrum-nox.json](./113431-ys-ix-monstrum-nox.json) |
 | Ys IX: Monstrum Nox - Attachments Bundle | 224380 | [224380-ys-ix-monstrum-nox-attachments-bundle.json](./224380-ys-ix-monstrum-nox-attachments-bundle.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YumeCore | 81845 | [81845-yumecore.json](./81845-yumecore.json) |
 | Yumeichiya: Hotaru no Ongaeshi | 97646 | [97646-yumeichiya-hotaru-no-ongaeshi.json](./97646-yumeichiya-hotaru-no-ongaeshi.json) |
 | Yumeiri | 186553 | [186553-yumeiri.json](./186553-yumeiri.json) |
+| Yumeiro Cast | 57271 | [57271-yumeiro-cast.json](./57271-yumeiro-cast.json) |
 | Yumeiro Cast: Take a Curtain Call | 315365 | [315365-yumeiro-cast-take-a-curtain-call.json](./315365-yumeiro-cast-take-a-curtain-call.json) |
 | Yumeiro Patisserie: My Sweets Cooking | 394778 | [394778-yumeiro-patisserie-my-sweets-cooking.json](./394778-yumeiro-patisserie-my-sweets-cooking.json) |
 | Yumemi Melancholy | 222994 | [222994-yumemi-melancholy.json](./222994-yumemi-melancholy.json) |
