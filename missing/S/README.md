@@ -15795,6 +15795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
 | Slipstream | 358437 | [358437-slipstream.json](./358437-slipstream.json) |
+| Slipstream | 422285 | [422285-slipstream.json](./422285-slipstream.json) |
 | Slipstream 5000 | 7148 | [7148-slipstream-5000.json](./7148-slipstream-5000.json) |
 | Slipstream Vector | 414055 | [414055-slipstream-vector.json](./414055-slipstream-vector.json) |
 | Slipstream: Rogue Space | 232793 | [232793-slipstream-rogue-space.json](./232793-slipstream-rogue-space.json) |
@@ -19264,6 +19265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something is Wrong | 114841 | [114841-something-is-wrong.json](./114841-something-is-wrong.json) |
 | Something is Wrong | 132000 | [132000-something-is-wrong.json](./132000-something-is-wrong.json) |
 | Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
+| Something Is Wrong With the Library | 422276 | [422276-something-is-wrong-with-the-library.json](./422276-something-is-wrong-with-the-library.json) |
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
 | Something Nefarious Below | 231451 | [231451-something-nefarious-below.json](./231451-something-nefarious-below.json) |
@@ -19642,6 +19644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure SX | 316977 | [316977-sonic-adventure-sx.json](./316977-sonic-adventure-sx.json) |
 | Sonic Adventure: Limited Edition | 45786 | [45786-sonic-adventure-limited-edition.json](./45786-sonic-adventure-limited-edition.json) |
 | Sonic Adventure: Neo | 330154 | [330154-sonic-adventure-neo.json](./330154-sonic-adventure-neo.json) |
+| Sonic Adventure: Recompiled | 422298 | [422298-sonic-adventure-recompiled.json](./422298-sonic-adventure-recompiled.json) |
 | Sonic Adventure: Renegade | 331302 | [331302-sonic-adventure-renegade.json](./331302-sonic-adventure-renegade.json) |
 | Sonic Adventure: Revolution | 317345 | [317345-sonic-adventure-revolution.json](./317345-sonic-adventure-revolution.json) |
 | Sonic Adventure: Sonic Adventure DX Upgrade | 192114 | [192114-sonic-adventure-sonic-adventure-dx-upgrade.json](./192114-sonic-adventure-sonic-adventure-dx-upgrade.json) |
@@ -20902,6 +20905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Items | 364024 | [364024-sort-items.json](./364024-sort-items.json) |
 | Sort Labs | 420319 | [420319-sort-labs.json](./420319-sort-labs.json) |
 | Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
+| Sort My Comics! | 422271 | [422271-sort-my-comics.json](./422271-sort-my-comics.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
@@ -24437,6 +24441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheres of Chaos | 13245 | [13245-spheres-of-chaos.json](./13245-spheres-of-chaos.json) |
 | Spheres: The Ancient Fuses | 118335 | [118335-spheres-the-ancient-fuses.json](./118335-spheres-the-ancient-fuses.json) |
 | Sphereverse | 373138 | [373138-sphereverse.json](./373138-sphereverse.json) |
+| Spherez | 422332 | [422332-spherez.json](./422332-spherez.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
 | Spheria's Familiar | 284524 | [284524-spherias-familiar.json](./284524-spherias-familiar.json) |
@@ -26145,6 +26150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprouted Pixel Dungeon | 314086 | [314086-sprouted-pixel-dungeon.json](./314086-sprouted-pixel-dungeon.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sproutmart: Farm & Grocery Sim | 356298 | [356298-sproutmart-farm-and-grocery-sim.json](./356298-sproutmart-farm-and-grocery-sim.json) |
+| Sproutrex | 422299 | [422299-sproutrex.json](./422299-sproutrex.json) |
 | Sprouts Adventure | 146464 | [146464-sprouts-adventure.json](./146464-sprouts-adventure.json) |
 | Spruce | 189156 | [189156-spruce.json](./189156-spruce.json) |
 | Spruce Falls | 397615 | [397615-spruce-falls.json](./397615-spruce-falls.json) |
@@ -34108,6 +34114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumomo Theatre | 254872 | [254872-sumomo-theatre.json](./254872-sumomo-theatre.json) |
 | Sumomomo Momomo ~Shijou Saikyou no Yome~ Keishou Shimasho!? Koi no Hanamuko Soudatsusen!! | 77556 | [77556-sumomomo-momomo-shijou-saikyou-no-yome-keishou-shimasho-koi-no-hanamuko-soudatsusen.json](./77556-sumomomo-momomo-shijou-saikyou-no-yome-keishou-shimasho-koi-no-hanamuko-soudatsusen.json) |
+| Sumoo | 422327 | [422327-sumoo.json](./422327-sumoo.json) |
 | Sumorbit | 246695 | [246695-sumorbit.json](./246695-sumorbit.json) |
 | SumoRoll | 410044 | [410044-sumoroll.json](./410044-sumoroll.json) |
 | Sumotori Dreams Classic | 150838 | [150838-sumotori-dreams-classic.json](./150838-sumotori-dreams-classic.json) |
@@ -38000,6 +38007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-Sonic Electronic Master Mind | 245587 | [245587-super-sonic-electronic-master-mind.json](./245587-super-sonic-electronic-master-mind.json) |
 | Super-Space | 311002 | [311002-super-space.json](./311002-super-space.json) |
 | Super-Spatial | 325752 | [325752-super-spatial.json](./325752-super-spatial.json) |
+| Super-Type | 422319 | [422319-super-type.json](./422319-super-type.json) |
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
 | Super: Taxi Simulation | 285692 | [285692-super-taxi-simulation.json](./285692-super-taxi-simulation.json) |
@@ -40030,6 +40038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Plus: Total Mindcontrol | 73659 | [73659-swing-plus-total-mindcontrol.json](./73659-swing-plus-total-mindcontrol.json) |
 | Swing Racers | 240859 | [240859-swing-racers.json](./240859-swing-racers.json) |
 | Swing Robot | 255172 | [255172-swing-robot.json](./255172-swing-robot.json) |
+| Swing Rush | 422275 | [422275-swing-rush.json](./422275-swing-rush.json) |
 | Swing Saga | 187465 | [187465-swing-saga.json](./187465-swing-saga.json) |
 | Swing Scale | 302223 | [302223-swing-scale.json](./302223-swing-scale.json) |
 | Swing Shift | 420649 | [420649-swing-shift.json](./420649-swing-shift.json) |
@@ -40716,6 +40725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
 | Synami's Speedmaps | 274946 | [274946-synamis-speedmaps.json](./274946-synamis-speedmaps.json) |
 | Synapse | 239381 | [239381-synapse.json](./239381-synapse.json) |
+| Synapse | 422286 | [422286-synapse.json](./422286-synapse.json) |
 | Synapse | 58318 | [58318-synapse.json](./58318-synapse.json) |
 | Synapse Chronicles | 405017 | [405017-synapse-chronicles.json](./405017-synapse-chronicles.json) |
 | Synapse Grid | 425140 | [425140-synapse-grid.json](./425140-synapse-grid.json) |
