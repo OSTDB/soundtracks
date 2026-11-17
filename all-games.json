@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T07:51:45.265Z",
-  "total_soundtracks": 3615,
+  "generated_at": "2026-11-17T08:01:20.990Z",
+  "total_soundtracks": 3625,
   "games": [
     {
       "igdb_id": 292844,
@@ -1231,6 +1231,20 @@
       ]
     },
     {
+      "igdb_id": 203458,
+      "game_name": "Air Twister",
+      "game_url": "https://ostdb.net/games/air-twister",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273101446ba2c6df71a45b2e6d0",
+      "albums": [
+        {
+          "album_name": "Air Twister (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0qbN1qYALctvd0DcSEHKOF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115473,
       "game_name": "Airborne Kingdom",
       "game_url": "https://ostdb.net/games/airborne-kingdom",
@@ -1501,6 +1515,20 @@
         {
           "album_name": "Alt-Frequencies (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0wleCMDTEdUmm7FSGlyNPM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 208682,
+      "game_name": "Altair Breaker",
+      "game_url": "https://ostdb.net/games/altair-breaker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730efa7ffd0cf3692d8dd05a51",
+      "albums": [
+        {
+          "album_name": "ALTAIR BREAKER Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1cDVIbYaD8sG8q1bvKWxPp",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -2330,6 +2358,20 @@
           "album_name": "ARK: Expansion Packs (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6VgROyPc71A5C3YrDMbXDC",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 204506,
+      "game_name": "Arkanoid: Eternal Battle",
+      "game_url": "https://ostdb.net/games/arkanoid-eternal-battle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273379d4cc4eaa5469b6db44020",
+      "albums": [
+        {
+          "album_name": "Arkanoid Eternal Battle (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2bnKEW2PTiBGwMCEMLrhoK",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -8283,6 +8325,20 @@
         {
           "album_name": "Crow Country (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1o5v1QHYuL1FBmNi5bE87z",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 208416,
+      "game_name": "Crown Wars: The Black Prince",
+      "game_url": "https://ostdb.net/games/crown-wars-the-black-prince",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273687d7f5cc2887d984c2201fe",
+      "albums": [
+        {
+          "album_name": "Crown Wars: The Black Prince (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1yUPsl2AFx64I97Za9ZTve",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14983,6 +15039,20 @@
       ]
     },
     {
+      "igdb_id": 204514,
+      "game_name": "Freeride",
+      "game_url": "https://ostdb.net/games/freeride",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fb87659647f158f2ed69f0ab",
+      "albums": [
+        {
+          "album_name": "FREERIDE (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/76CDpDngyyHqAT1RjzSumV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 252794,
       "game_name": "Fretless: The Wrath of Riffson",
       "game_url": "https://ostdb.net/games/fretless-the-wrath-of-riffson",
@@ -18191,6 +18261,20 @@
       ]
     },
     {
+      "igdb_id": 207215,
+      "game_name": "Heroish",
+      "game_url": "https://ostdb.net/games/heroish",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b2c1c7921d0a920d4b4b68f1",
+      "albums": [
+        {
+          "album_name": "HEROish (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5scybpWrv0B2ASkoVo4Mlk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 233585,
       "game_name": "Hi-Fi Rush",
       "game_url": "https://ostdb.net/games/hi-fi-rush",
@@ -18589,6 +18673,20 @@
         {
           "album_name": "Horror Legends (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/03VsH3NJdecQHavpDuxzXT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 206679,
+      "game_name": "Horse Tales: Emerald Valley Ranch",
+      "game_url": "https://ostdb.net/games/horse-tales-emerald-valley-ranch",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736f2b9c11aa7cdca0783a01d0",
+      "albums": [
+        {
+          "album_name": "Horse Tales: Emerald Valley Ranch (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0EClwz9AV65prrJScsuOqm",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26497,6 +26595,20 @@
       ]
     },
     {
+      "igdb_id": 206735,
+      "game_name": "Niravasi",
+      "game_url": "https://ostdb.net/games/niravasi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bbe263e4ce0b407d375cfdc2",
+      "albums": [
+        {
+          "album_name": "NIRAVASI (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1311pM2w4b2IRYG8OyoKPz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 275392,
       "game_name": "No Case Should Remain Unsolved",
       "game_url": "https://ostdb.net/games/no-case-should-remain-unsolved",
@@ -28543,6 +28655,20 @@
           "spotify_url": "https://open.spotify.com/album/3LM4lHnGyNHnLIBVqcpp7o",
           "apple_music_url": "https://music.apple.com/us/album/pillars-of-eternity-ii-deadfire-original-soundtrack/1561048868",
           "album_link_url": "https://album.link/i/1561048868"
+        }
+      ]
+    },
+    {
+      "igdb_id": 204528,
+      "game_name": "Pine Hearts",
+      "game_url": "https://ostdb.net/games/pine-hearts",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27346b73df291a482d787cac368",
+      "albums": [
+        {
+          "album_name": "Pine Hearts (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0hAA8hD3q3wUURLzZjrJLl",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -33549,6 +33675,20 @@
         {
           "album_name": "Shovel Knight Pocket Dungeon (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4SeG49unn02bZIiXNCFHdC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 210947,
+      "game_name": "Showgunners",
+      "game_url": "https://ostdb.net/games/showgunners",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27345d750ab2562923237da062e",
+      "albums": [
+        {
+          "album_name": "Showgunners (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1LsLssSQvOUNIJVwXIaBze",
           "apple_music_url": "",
           "album_link_url": ""
         }
