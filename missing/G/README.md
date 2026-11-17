@@ -4054,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Up: Family Sports | 50645 | [50645-get-up-family-sports.json](./50645-get-up-family-sports.json) |
 | Get Upstairs | 418080 | [418080-get-upstairs.json](./418080-get-upstairs.json) |
 | Get Witchy | 184696 | [184696-get-witchy.json](./184696-get-witchy.json) |
+| Get Wrecked | 57251 | [57251-get-wrecked.json](./57251-get-wrecked.json) |
 | Get X, Avoid Y | 128604 | [128604-get-x-avoid-y.json](./128604-get-x-avoid-y.json) |
 | Get Yoked: Extreme Bodybuilding | 341385 | [341385-get-yoked-extreme-bodybuilding.json](./341385-get-yoked-extreme-bodybuilding.json) |
 | Get Your Free Christmas Tree | 374011 | [374011-get-your-free-christmas-tree.json](./374011-get-your-free-christmas-tree.json) |
