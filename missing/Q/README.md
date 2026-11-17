@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quatros Origins | 33984 | [33984-quatros-origins.json](./33984-quatros-origins.json) |
 | Quattro Adventure | 48218 | [48218-quattro-adventure.json](./48218-quattro-adventure.json) |
 | Quattro Arcade | 48217 | [48217-quattro-arcade.json](./48217-quattro-arcade.json) |
+| Quattro Cartoon | 94439 | [94439-quattro-cartoon.json](./94439-quattro-cartoon.json) |
 | Quattro Combat | 72124 | [72124-quattro-combat.json](./72124-quattro-combat.json) |
 | Quattro Firepower | 92942 | [92942-quattro-firepower.json](./92942-quattro-firepower.json) |
 | Quattro Megastars | 94322 | [94322-quattro-megastars.json](./94322-quattro-megastars.json) |
