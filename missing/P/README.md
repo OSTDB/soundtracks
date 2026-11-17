@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachio-kun: Pachinko Land Adventures | 59511 | [59511-pachio-kun-pachinko-land-adventures.json](./59511-pachio-kun-pachinko-land-adventures.json) |
 | Pachio-kun: Puzzle Castle | 59514 | [59514-pachio-kun-puzzle-castle.json](./59514-pachio-kun-puzzle-castle.json) |
 | Pachio-kun: Warau Uchuu | 59508 | [59508-pachio-kun-warau-uchuu.json](./59508-pachio-kun-warau-uchuu.json) |
+| PachiPals | 417699 | [417699-pachipals.json](./417699-pachipals.json) |
 | PachiPara 13: Super Umi to Pachipro Fuuunroku | 77996 | [77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json](./77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json) |
 | PachiPara 14: Kaze to Kumo to Super Umi in Okinawa | 61905 | [61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json](./61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json) |
 | PachiPara 3D: Deluxe Umi Monogatari | 222465 | [222465-pachipara-3d-deluxe-umi-monogatari.json](./222465-pachipara-3d-deluxe-umi-monogatari.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parabellum Galaxia | 204158 | [204158-parabellum-galaxia.json](./204158-parabellum-galaxia.json) |
 | Parabellum: Artifacts of War | 400701 | [400701-parabellum-artifacts-of-war.json](./400701-parabellum-artifacts-of-war.json) |
 | Parable Academy | 346708 | [346708-parable-academy.json](./346708-parable-academy.json) |
+| Parables of Jesus | 417921 | [417921-parables-of-jesus.json](./417921-parables-of-jesus.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
 | Parabolus | 82317 | [82317-parabolus.json](./82317-parabolus.json) |
 | Parabolus Two | 157442 | [157442-parabolus-two.json](./157442-parabolus-two.json) |
@@ -8146,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinballers | 351545 | [351545-pinballers.json](./351545-pinballers.json) |
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
 | Pinballistik Alien Tycoon Bundle | 118858 | [118858-pinballistik-alien-tycoon-bundle.json](./118858-pinballistik-alien-tycoon-bundle.json) |
+| Pinballoid Crush | 417920 | [417920-pinballoid-crush.json](./417920-pinballoid-crush.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
 | Pinballvania! | 177148 | [177148-pinballvania.json](./177148-pinballvania.json) |
 | Pinbleton Park | 325179 | [325179-pinbleton-park.json](./325179-pinbleton-park.json) |
@@ -9294,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Hunter | 402339 | [402339-pixel-hunter.json](./402339-pixel-hunter.json) |
 | Pixel Hunter Idle | 273564 | [273564-pixel-hunter-idle.json](./273564-pixel-hunter-idle.json) |
 | Pixel Hunters: Turn Retro Consoles into your Boyfriend | 417865 | [417865-pixel-hunters-turn-retro-consoles-into-your-boyfriend.json](./417865-pixel-hunters-turn-retro-consoles-into-your-boyfriend.json) |
+| Pixel Hunters: Turn Retro Consoles into your Girlfriend | 417919 | [417919-pixel-hunters-turn-retro-consoles-into-your-girlfriend.json](./417919-pixel-hunters-turn-retro-consoles-into-your-girlfriend.json) |
 | Pixel Islands | 177328 | [177328-pixel-islands.json](./177328-pixel-islands.json) |
 | Pixel Jumper | 192040 | [192040-pixel-jumper.json](./192040-pixel-jumper.json) |
 | Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
@@ -11041,6 +11045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play & Learn Kids' Mini-Game Collection | 345995 | [345995-play-and-learn-kids-mini-game-collection.json](./345995-play-and-learn-kids-mini-game-collection.json) |
 | Play & Learn My First Katakana | 420696 | [420696-play-and-learn-my-first-katakana.json](./420696-play-and-learn-my-first-katakana.json) |
 | Play & Learn Spanish | 84722 | [84722-play-and-learn-spanish.json](./84722-play-and-learn-spanish.json) |
+| Play & Learn: My First Hiragana | 417918 | [417918-play-and-learn-my-first-hiragana.json](./417918-play-and-learn-my-first-hiragana.json) |
 | Play 500 | 104756 | [104756-play-500.json](./104756-play-500.json) |
 | Play a ball | 152959 | [152959-play-a-ball.json](./152959-play-a-ball.json) |
 | Play a Game With Me | 363072 | [363072-play-a-game-with-me.json](./363072-play-a-game-with-me.json) |
@@ -16158,6 +16163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Good Solitaire | 89241 | [89241-pretty-good-solitaire.json](./89241-pretty-good-solitaire.json) |
 | Pretty Good Solitaire 600 | 70244 | [70244-pretty-good-solitaire-600.json](./70244-pretty-good-solitaire-600.json) |
 | Pretty Hentai Girls | 230897 | [230897-pretty-hentai-girls.json](./230897-pretty-hentai-girls.json) |
+| Pretty Home Run Derby: Re - Return of Kusogaki | 417917 | [417917-pretty-home-run-derby-re-return-of-kusogaki.json](./417917-pretty-home-run-derby-re-return-of-kusogaki.json) |
 | Pretty In Pink | 72990 | [72990-pretty-in-pink.json](./72990-pretty-in-pink.json) |
 | Pretty Kingdom | 360116 | [360116-pretty-kingdom.json](./360116-pretty-kingdom.json) |
 | Pretty Kitty Fuzzy | 216949 | [216949-pretty-kitty-fuzzy.json](./216949-pretty-kitty-fuzzy.json) |
