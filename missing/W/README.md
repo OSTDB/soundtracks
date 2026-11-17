@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We'll Be Alright | 310564 | [310564-well-be-alright.json](./310564-well-be-alright.json) |
 | We'll Meet Once More | 206030 | [206030-well-meet-once-more.json](./206030-well-meet-once-more.json) |
 | We're All Dead Here | 257496 | [257496-were-all-dead-here.json](./257496-were-all-dead-here.json) |
+| We're All Going to Die | 143807 | [143807-were-all-going-to-die.json](./143807-were-all-going-to-die.json) |
 | We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Getting There | 184317 | [184317-were-getting-there.json](./184317-were-getting-there.json) |
@@ -6291,7 +6292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy's Wonderland | 233044 | [233044-willys-wonderland.json](./233044-willys-wonderland.json) |
 | Willy's Wonderland: The Game | 287697 | [287697-willys-wonderland-the-game.json](./287697-willys-wonderland-the-game.json) |
 | Wilma's Dreams | 155700 | [155700-wilmas-dreams.json](./155700-wilmas-dreams.json) |
-| Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
 | Wilson Chronicles | 127888 | [127888-wilson-chronicles.json](./127888-wilson-chronicles.json) |
 | Wilson: In Search of Tom | 307088 | [307088-wilson-in-search-of-tom.json](./307088-wilson-in-search-of-tom.json) |
@@ -9730,6 +9730,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
 | World's Biggest Solitaire | 109918 | [109918-worlds-biggest-solitaire.json](./109918-worlds-biggest-solitaire.json) |
+| World's End Chapter 1 | 143811 | [143811-worlds-end-chapter-1.json](./143811-worlds-end-chapter-1.json) |
+| World's End Chapter 2 | 143812 | [143812-worlds-end-chapter-2.json](./143812-worlds-end-chapter-2.json) |
 | World's End Chapter 3 | 101707 | [101707-worlds-end-chapter-3.json](./101707-worlds-end-chapter-3.json) |
 | World's End Club: Deluxe Edition | 146152 | [146152-worlds-end-club-deluxe-edition.json](./146152-worlds-end-club-deluxe-edition.json) |
 | World's End Garden | 98043 | [98043-worlds-end-garden.json](./98043-worlds-end-garden.json) |
