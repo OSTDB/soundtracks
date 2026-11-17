@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scale | 88773 | [88773-scale.json](./88773-scale.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale | 99365 | [99365-scale.json](./99365-scale.json) |
+| Scale a Building | 423478 | [423478-scale-a-building.json](./423478-scale-a-building.json) |
 | Scale Bullet: After Story | 358265 | [358265-scale-bullet-after-story.json](./358265-scale-bullet-after-story.json) |
 | Scale Enchanter | 172872 | [172872-scale-enchanter.json](./172872-scale-enchanter.json) |
 | Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
@@ -8360,6 +8361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanties in Strange Waters | 180756 | [180756-shanties-in-strange-waters.json](./180756-shanties-in-strange-waters.json) |
 | ShantyTown | 258979 | [258979-shantytown.json](./258979-shantytown.json) |
 | Shanubis | 223459 | [223459-shanubis.json](./223459-shanubis.json) |
+| Shanwen | 423529 | [423529-shanwen.json](./423529-shanwen.json) |
 | Shanye | 153524 | [153524-shanye.json](./153524-shanye.json) |
 | Shao Lin | 137383 | [137383-shao-lin.json](./137383-shao-lin.json) |
 | Shao-Lin's Road | 28954 | [28954-shao-lins-road.json](./28954-shao-lins-road.json) |
