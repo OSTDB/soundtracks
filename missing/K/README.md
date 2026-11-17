@@ -4779,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Rainbow | 136466 | [136466-kitty-rainbow.json](./136466-kitty-rainbow.json) |
 | Kitty Rescue | 74611 | [74611-kitty-rescue.json](./74611-kitty-rescue.json) |
 | Kitty Rhythm TD | 306996 | [306996-kitty-rhythm-td.json](./306996-kitty-rhythm-td.json) |
+| Kitty Run | 103014 | [103014-kitty-run.json](./103014-kitty-run.json) |
 | Kitty Rush | 372974 | [372974-kitty-rush.json](./372974-kitty-rush.json) |
 | Kitty Spangles Solitaire | 90369 | [90369-kitty-spangles-solitaire.json](./90369-kitty-spangles-solitaire.json) |
 | Kitty Survivors: Rogues of Catmere | 235497 | [235497-kitty-survivors-rogues-of-catmere.json](./235497-kitty-survivors-rogues-of-catmere.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Kakoom | 208089 | [208089-krazy-kakoom.json](./208089-krazy-kakoom.json) |
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
+| Krazy Kings! | 104731 | [104731-krazy-kings.json](./104731-krazy-kings.json) |
 | Krazy Kobra | 94620 | [94620-krazy-kobra.json](./94620-krazy-kobra.json) |
 | Krazy Kong | 62336 | [62336-krazy-kong.json](./62336-krazy-kong.json) |
 | Krazy Kreatures | 10503 | [10503-krazy-kreatures.json](./10503-krazy-kreatures.json) |
