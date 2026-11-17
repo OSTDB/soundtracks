@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ablight | 278267 | [278267-ablight.json](./278267-ablight.json) |
 | Ablockalypse | 164190 | [164190-ablockalypse.json](./164190-ablockalypse.json) |
 | Abloom | 251933 | [251933-abloom.json](./251933-abloom.json) |
+| ABM | 25243 | [25243-abm.json](./25243-abm.json) |
 | ABM Command | 304486 | [304486-abm-command.json](./304486-abm-command.json) |
 | Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
@@ -3754,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
 | Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
 | Adelanto 4 Aztec Skulls | 95643 | [95643-adelanto-4-aztec-skulls.json](./95643-adelanto-4-aztec-skulls.json) |
+| Adele: Following the Signs | 25197 | [25197-adele-following-the-signs.json](./25197-adele-following-the-signs.json) |
 | Adelie: Chasing Pavements | 289748 | [289748-adelie-chasing-pavements.json](./289748-adelie-chasing-pavements.json) |
 | Adelie: Water Under the Bridge | 234862 | [234862-adelie-water-under-the-bridge.json](./234862-adelie-water-under-the-bridge.json) |
 | Adeline's Story | 377490 | [377490-adelines-story.json](./377490-adelines-story.json) |
@@ -4643,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis | 115886 | [115886-aegis.json](./115886-aegis.json) |
 | Aegis | 266000 | [266000-aegis.json](./266000-aegis.json) |
 | Aegis | 31206 | [31206-aegis.json](./31206-aegis.json) |
+| Aegis 2186 | 29253 | [29253-aegis-2186.json](./29253-aegis-2186.json) |
 | Aegis Defenders | 35210 | [35210-aegis-defenders.json](./35210-aegis-defenders.json) |
 | Aegis Descent | 199281 | [199281-aegis-descent.json](./199281-aegis-descent.json) |
 | Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
@@ -7240,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alabama Bones Adventures | 207623 | [207623-alabama-bones-adventures.json](./207623-alabama-bones-adventures.json) |
 | Alabama Meets Will Vi | 387136 | [387136-alabama-meets-will-vi.json](./387136-alabama-meets-will-vi.json) |
 | Alabama Smith in Escape from Pompeii | 52384 | [52384-alabama-smith-in-escape-from-pompeii.json](./52384-alabama-smith-in-escape-from-pompeii.json) |
+| Alabama Smith in the Quest of Fate | 25273 | [25273-alabama-smith-in-the-quest-of-fate.json](./25273-alabama-smith-in-the-quest-of-fate.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Alabaster Dawn | 214927 | [214927-alabaster-dawn.json](./214927-alabaster-dawn.json) |
@@ -8273,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Transporter | 409887 | [409887-alien-transporter.json](./409887-alien-transporter.json) |
 | Alien Tribe 2 | 97309 | [97309-alien-tribe-2.json](./97309-alien-tribe-2.json) |
 | Alien Trilogy | 6825 | [6825-alien-trilogy.json](./6825-alien-trilogy.json) |
+| Alien Typhoon | 25246 | [25246-alien-typhoon.json](./25246-alien-typhoon.json) |
 | Alien Up | 230963 | [230963-alien-up.json](./230963-alien-up.json) |
 | Alien Vendetta | 134559 | [134559-alien-vendetta.json](./134559-alien-vendetta.json) |
 | Alien Video Game Scientist | 320595 | [320595-alien-video-game-scientist.json](./320595-alien-video-game-scientist.json) |
@@ -8532,6 +8537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Alone on a Small Island | 185013 | [185013-all-alone-on-a-small-island.json](./185013-all-alone-on-a-small-island.json) |
 | All Alone with Mannie | 199256 | [199256-all-alone-with-mannie.json](./199256-all-alone-with-mannie.json) |
+| All Alone: VR | 29233 | [29233-all-alone-vr.json](./29233-all-alone-vr.json) |
 | All American Football | 39292 | [39292-all-american-football.json](./39292-all-american-football.json) |
 | All American: The 82nd Airborne in Normandy | 59585 | [59585-all-american-the-82nd-airborne-in-normandy.json](./59585-all-american-the-82nd-airborne-in-normandy.json) |
 | All Ashes and Illusions | 173825 | [173825-all-ashes-and-illusions.json](./173825-all-ashes-and-illusions.json) |
@@ -10531,6 +10537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Anniversary Dinner | 201985 | [201985-an-anniversary-dinner.json](./201985-an-anniversary-dinner.json) |
 | An Annventure to End Them All | 221774 | [221774-an-annventure-to-end-them-all.json](./221774-an-annventure-to-end-them-all.json) |
 | An antidepressant | 177843 | [177843-an-antidepressant.json](./177843-an-antidepressant.json) |
+| An Apparently Normal Room | 25198 | [25198-an-apparently-normal-room.json](./25198-an-apparently-normal-room.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
 | An Arcade Full of Cats | 261554 | [261554-an-arcade-full-of-cats.json](./261554-an-arcade-full-of-cats.json) |
 | An Arcade Full of Cats: TimeWarp Trouble | 275427 | [275427-an-arcade-full-of-cats-timewarp-trouble.json](./275427-an-arcade-full-of-cats-timewarp-trouble.json) |
@@ -10733,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
 | Anatine | 256492 | [256492-anatine.json](./256492-anatine.json) |
 | Anatomic Man | 11900 | [11900-anatomic-man.json](./11900-anatomic-man.json) |
+| Anatomy | 25207 | [25207-anatomy.json](./25207-anatomy.json) |
 | Anatomy | 57353 | [57353-anatomy.json](./57353-anatomy.json) |
 | Anatomy of a Dream | 425778 | [425778-anatomy-of-a-dream.json](./425778-anatomy-of-a-dream.json) |
 | Anatomy of Fear | 157258 | [157258-anatomy-of-fear.json](./157258-anatomy-of-fear.json) |
@@ -11352,6 +11360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler's Life | 120085 | [120085-anglers-life.json](./120085-anglers-life.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Anglerfish | 190954 | [190954-anglerfish.json](./190954-anglerfish.json) |
+| Anglers Club: Ultimate Bass Fishing 3D | 25203 | [25203-anglers-club-ultimate-bass-fishing-3d.json](./25203-anglers-club-ultimate-bass-fishing-3d.json) |
 | Angles | 89390 | [89390-angles.json](./89390-angles.json) |
 | Angles of Death | 384433 | [384433-angles-of-death.json](./384433-angles-of-death.json) |
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
@@ -18914,6 +18923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
 | Asyle | 290604 | [290604-asyle.json](./290604-asyle.json) |
+| Asylopole | 29273 | [29273-asylopole.json](./29273-asylopole.json) |
 | Asylum | 13807 | [13807-asylum.json](./13807-asylum.json) |
 | Asylum | 308294 | [308294-asylum.json](./308294-asylum.json) |
 | Asylum | 356277 | [356277-asylum.json](./356277-asylum.json) |
@@ -21113,6 +21123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis & Allies: Iron Blitz | 92771 | [92771-axis-and-allies-iron-blitz.json](./92771-axis-and-allies-iron-blitz.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Assassin | 13808 | [13808-axis-assassin.json](./13808-axis-assassin.json) |
+| Axis Descending | 25216 | [25216-axis-descending.json](./25216-axis-descending.json) |
 | Axis Fall | 423280 | [423280-axis-fall.json](./423280-axis-fall.json) |
 | Axis Football 2015 | 35276 | [35276-axis-football-2015.json](./35276-axis-football-2015.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
