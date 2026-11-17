@@ -6474,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
 | The Amazing World of Gumball: Fellowship of the Things | 279435 | [279435-the-amazing-world-of-gumball-fellowship-of-the-things.json](./279435-the-amazing-world-of-gumball-fellowship-of-the-things.json) |
+| the Amazing-frog 3D | 96985 | [96985-the-amazing-frog-3d.json](./96985-the-amazing-frog-3d.json) |
 | The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
 | The Amazonian Dread | 107532 | [107532-the-amazonian-dread.json](./107532-the-amazonian-dread.json) |
 | The Ambassador's Coterie | 195668 | [195668-the-ambassadors-coterie.json](./195668-the-ambassadors-coterie.json) |
@@ -8690,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cube | 347640 | [347640-the-cube.json](./347640-the-cube.json) |
 | The Cube | 61686 | [61686-the-cube.json](./61686-the-cube.json) |
 | The Cube | 88652 | [88652-the-cube.json](./88652-the-cube.json) |
+| The Cube - What's Inside ? | 96997 | [96997-the-cube-whats-inside.json](./96997-the-cube-whats-inside.json) |
 | The Cube and His Adventure | 53722 | [53722-the-cube-and-his-adventure.json](./53722-the-cube-and-his-adventure.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
 | The Cube Hotel: Ning's Wing 2 | 31059 | [31059-the-cube-hotel-nings-wing-2.json](./31059-the-cube-hotel-nings-wing-2.json) |
@@ -11087,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Sisyphus | 294183 | [294183-the-game-of-sisyphus.json](./294183-the-game-of-sisyphus.json) |
 | The Game of Squids: Ultimate Parody Game | 181000 | [181000-the-game-of-squids-ultimate-parody-game.json](./181000-the-game-of-squids-ultimate-parody-game.json) |
 | The Game of the Goose | 317172 | [317172-the-game-of-the-goose.json](./317172-the-game-of-the-goose.json) |
+| The Game of the Goose | 96993 | [96993-the-game-of-the-goose.json](./96993-the-game-of-the-goose.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
 | The Game of Worlds Tournament! | 57485 | [57485-the-game-of-worlds-tournament.json](./57485-the-game-of-worlds-tournament.json) |
@@ -21908,6 +21911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
 | Theomachia | 187428 | [187428-theomachia.json](./187428-theomachia.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
+| Theorem | 96968 | [96968-theorem.json](./96968-theorem.json) |
 | Theorists | 261185 | [261185-theorists.json](./261185-theorists.json) |
 | Théoros | 412185 | [412185-theoros.json](./412185-theoros.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
@@ -35136,6 +35140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Soccer Trivia | 99432 | [99432-trivia-vault-soccer-trivia.json](./99432-trivia-vault-soccer-trivia.json) |
 | Trivia Vault: Super Heroes Trivia | 94779 | [94779-trivia-vault-super-heroes-trivia.json](./94779-trivia-vault-super-heroes-trivia.json) |
 | Trivia Vault: Super Heroes Trivia 2 | 55748 | [55748-trivia-vault-super-heroes-trivia-2.json](./55748-trivia-vault-super-heroes-trivia-2.json) |
+| Trivia Vault: Tennis Trivia | 96955 | [96955-trivia-vault-tennis-trivia.json](./96955-trivia-vault-tennis-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
