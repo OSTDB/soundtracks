@@ -188,8 +188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Project X | 198991 | [198991-x-men-project-x.json](./198991-x-men-project-x.json) |
 | X-Men: Reign of Apocalypse | 6688 | [6688-x-men-reign-of-apocalypse.json](./6688-x-men-reign-of-apocalypse.json) |
 | X-Men: Sentinel Assault | 245612 | [245612-x-men-sentinel-assault.json](./245612-x-men-sentinel-assault.json) |
-| X-Men: The Official Game | 200902 | [200902-x-men-the-official-game.json](./200902-x-men-the-official-game.json) |
-| X-Men: The Official Game | 218615 | [218615-x-men-the-official-game.json](./218615-x-men-the-official-game.json) |
 | X-Men: The Official Game | 248534 | [248534-x-men-the-official-game.json](./248534-x-men-the-official-game.json) |
 | X-Men: The Official Game | 4578 | [4578-x-men-the-official-game.json](./4578-x-men-the-official-game.json) |
 | X-Men: The Ravages of Apocalypse | 71715 | [71715-x-men-the-ravages-of-apocalypse.json](./71715-x-men-the-ravages-of-apocalypse.json) |
@@ -629,7 +627,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeno Arena | 90947 | [90947-xeno-arena.json](./90947-xeno-arena.json) |
 | Xeno Command | 213693 | [213693-xeno-command.json](./213693-xeno-command.json) |
 | Xeno Crisis | 80010 | [80010-xeno-crisis.json](./80010-xeno-crisis.json) |
-| Xeno Crisis & Tanglewood | 133500 | [133500-xeno-crisis-and-tanglewood.json](./133500-xeno-crisis-and-tanglewood.json) |
 | Xeno Escape | 349185 | [349185-xeno-escape.json](./349185-xeno-escape.json) |
 | Xeno Fighters R | 280020 | [280020-xeno-fighters-r.json](./280020-xeno-fighters-r.json) |
 | Xeno Girlfriend | 384843 | [384843-xeno-girlfriend.json](./384843-xeno-girlfriend.json) |
@@ -941,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiyan | 312935 | [312935-xiyan.json](./312935-xiyan.json) |
 | Xīyóu Wàizhuàn | 166868 | [166868-xiyou-waizhuan.json](./166868-xiyou-waizhuan.json) |
 | Xjump | 291602 | [291602-xjump.json](./291602-xjump.json) |
+| xkcd: Garden | 113966 | [113966-xkcd-garden.json](./113966-xkcd-garden.json) |
 | xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
 | XL1: Clipping Point | 86621 | [86621-xl1-clipping-point.json](./86621-xl1-clipping-point.json) |
 | Xlands | 403750 | [403750-xlands.json](./403750-xlands.json) |
@@ -1096,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
 | Xtreme Golf 2003 | 181708 | [181708-xtreme-golf-2003.json](./181708-xtreme-golf-2003.json) |
 | Xtreme Hover | 103741 | [103741-xtreme-hover.json](./103741-xtreme-hover.json) |
+| Xtreme League | 113803 | [113803-xtreme-league.json](./113803-xtreme-league.json) |
 | Xtreme Motorbikes | 174913 | [174913-xtreme-motorbikes.json](./174913-xtreme-motorbikes.json) |
 | Xtreme Paddleball | 89394 | [89394-xtreme-paddleball.json](./89394-xtreme-paddleball.json) |
 | Xtreme Racer | 91106 | [91106-xtreme-racer.json](./91106-xtreme-racer.json) |
