@@ -5801,7 +5801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lila and the Secret Flower Jungle | 335550 | [335550-lila-and-the-secret-flower-jungle.json](./335550-lila-and-the-secret-flower-jungle.json) |
 | Lila Colorful | 360225 | [360225-lila-colorful.json](./360225-lila-colorful.json) |
 | Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
-| Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lila's Synthetic Shadows | 297119 | [297119-lilas-synthetic-shadows.json](./297119-lilas-synthetic-shadows.json) |
 | Lila's Tale | 27915 | [27915-lilas-tale.json](./27915-lilas-tale.json) |
 | Lila's Tale and the Hidden Forest | 164132 | [164132-lilas-tale-and-the-hidden-forest.json](./164132-lilas-tale-and-the-hidden-forest.json) |
