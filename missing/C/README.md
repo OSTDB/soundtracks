@@ -8863,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Tycoon | 65880 | [65880-chocolate-tycoon.json](./65880-chocolate-tycoon.json) |
 | Chocolatic Wars | 376685 | [376685-chocolatic-wars.json](./376685-chocolatic-wars.json) |
 | Chocolatier | 85999 | [85999-chocolatier.json](./85999-chocolatier.json) |
+| Chocolatier 2: Secret Ingredients | 72883 | [72883-chocolatier-2-secret-ingredients.json](./72883-chocolatier-2-secret-ingredients.json) |
 | Chocolatier 3: Decadence by Design | 98152 | [98152-chocolatier-3-decadence-by-design.json](./98152-chocolatier-3-decadence-by-design.json) |
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
 | ChocoLot! | 278480 | [278480-chocolot.json](./278480-chocolot.json) |
@@ -12571,6 +12572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CMD 2048 | 107791 | [107791-cmd-2048.json](./107791-cmd-2048.json) |
 | Cmd Error | 226549 | [226549-cmd-error.json](./226549-cmd-error.json) |
 | Cmoar VR Cinema | 31318 | [31318-cmoar-vr-cinema.json](./31318-cmoar-vr-cinema.json) |
+| Cmplt | 74549 | [74549-cmplt.json](./74549-cmplt.json) |
 | CMSR | 247124 | [247124-cmsr.json](./247124-cmsr.json) |
 | CMT Presents: Karaoke Revolution Country | 81142 | [81142-cmt-presents-karaoke-revolution-country.json](./81142-cmt-presents-karaoke-revolution-country.json) |
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
@@ -23394,6 +23396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber Velocity Run | 223810 | [223810-cyber-velocity-run.json](./223810-cyber-velocity-run.json) |
 | Cyber Village | 401905 | [401905-cyber-village.json](./401905-cyber-village.json) |
+| Cyber Virus: CinciClassic Edition | 72868 | [72868-cyber-virus-cinciclassic-edition.json](./72868-cyber-virus-cinciclassic-edition.json) |
 | Cyber Volley | 291270 | [291270-cyber-volley.json](./291270-cyber-volley.json) |
 | Cyber Volleyball | 423319 | [423319-cyber-volleyball.json](./423319-cyber-volleyball.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
