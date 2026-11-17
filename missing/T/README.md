@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taking the Cross | 309943 | [309943-taking-the-cross.json](./309943-taking-the-cross.json) |
 | Taking Today Off | 384156 | [384156-taking-today-off.json](./384156-taking-today-off.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
+| Takkoman | 135309 | [135309-takkoman.json](./135309-takkoman.json) |
 | Takkyu Tournament Re:Serve | 126707 | [126707-takkyu-tournament-re-serve.json](./126707-takkyu-tournament-re-serve.json) |
 | Takkyuubin | 345629 | [345629-takkyuubin.json](./345629-takkyuubin.json) |
 | Tako Bubble | 366491 | [366491-tako-bubble.json](./366491-tako-bubble.json) |
@@ -9913,6 +9914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
 | The End of an Age: Fading Remnants | 34528 | [34528-the-end-of-an-age-fading-remnants.json](./34528-the-end-of-an-age-fading-remnants.json) |
 | The End of an Obsession | 321224 | [321224-the-end-of-an-obsession.json](./321224-the-end-of-an-obsession.json) |
+| The End of Decay | 135926 | [135926-the-end-of-decay.json](./135926-the-end-of-decay.json) |
 | The End of Dyeus | 155858 | [155858-the-end-of-dyeus.json](./155858-the-end-of-dyeus.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
 | The End of History | 310154 | [310154-the-end-of-history.json](./310154-the-end-of-history.json) |
@@ -10131,6 +10133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exegesis of John the Martyr | 401213 | [401213-the-exegesis-of-john-the-martyr.json](./401213-the-exegesis-of-john-the-martyr.json) |
 | The Exhibit | 360035 | [360035-the-exhibit.json](./360035-the-exhibit.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
+| The Exile on the Long Shore | 135925 | [135925-the-exile-on-the-long-shore.json](./135925-the-exile-on-the-long-shore.json) |
 | The Exiled | 26241 | [26241-the-exiled.json](./26241-the-exiled.json) |
 | The Existence Abstract | 38800 | [38800-the-existence-abstract.json](./38800-the-existence-abstract.json) |
 | The Existence Theory of the No.13 High School | 347394 | [347394-the-existence-theory-of-the-no-13-high-school.json](./347394-the-existence-theory-of-the-no-13-high-school.json) |
@@ -13398,6 +13401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Days | 147772 | [147772-the-last-days.json](./147772-the-last-days.json) |
 | The Last Days | 223873 | [223873-the-last-days.json](./223873-the-last-days.json) |
 | The Last Days of Friendship Valley | 289999 | [289999-the-last-days-of-friendship-valley.json](./289999-the-last-days-of-friendship-valley.json) |
+| The Last Days of Our Castle | 135942 | [135942-the-last-days-of-our-castle.json](./135942-the-last-days-of-our-castle.json) |
 | The Last Days of Sodom | 192662 | [192662-the-last-days-of-sodom.json](./192662-the-last-days-of-sodom.json) |
 | The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
 | The Last DeadEnd | 100575 | [100575-the-last-deadend.json](./100575-the-last-deadend.json) |
@@ -13619,8 +13623,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Part II Remastered: Chronological Experience | 382539 | [382539-the-last-of-us-part-ii-remastered-chronological-experience.json](./382539-the-last-of-us-part-ii-remastered-chronological-experience.json) |
 | The Last of Us Part II Remastered: Patch 2.0.0 | 382537 | [382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json](./382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json) |
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
+| The Last of Us Part II: Collector's Edition | 135955 | [135955-the-last-of-us-part-ii-collectors-edition.json](./135955-the-last-of-us-part-ii-collectors-edition.json) |
 | The Last of Us Part II: Ellie Edition | 135986 | [135986-the-last-of-us-part-ii-ellie-edition.json](./135986-the-last-of-us-part-ii-ellie-edition.json) |
 | The Last of Us Part II: Grounded Update | 251381 | [251381-the-last-of-us-part-ii-grounded-update.json](./251381-the-last-of-us-part-ii-grounded-update.json) |
+| The Last of Us Part II: Special Edition | 135956 | [135956-the-last-of-us-part-ii-special-edition.json](./135956-the-last-of-us-part-ii-special-edition.json) |
 | The Last of Us Part III | 288169 | [288169-the-last-of-us-part-iii.json](./288169-the-last-of-us-part-iii.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
@@ -21816,6 +21822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Yukon Valley | 153079 | [153079-thehunter-call-of-the-wild-yukon-valley.json](./153079-thehunter-call-of-the-wild-yukon-valley.json) |
 | TheHunter: Call of the Wild - Yukon Valley Cosmetic Pack | 280374 | [280374-thehunter-call-of-the-wild-yukon-valley-cosmetic-pack.json](./280374-thehunter-call-of-the-wild-yukon-valley-cosmetic-pack.json) |
 | TheHunter: Primal | 10347 | [10347-thehunter-primal.json](./10347-thehunter-primal.json) |
+| Theia: The Crimson Eclipse | 135949 | [135949-theia-the-crimson-eclipse.json](./135949-theia-the-crimson-eclipse.json) |
 | Theiaology | 173918 | [173918-theiaology.json](./173918-theiaology.json) |
 | Their Aftermath | 364386 | [364386-their-aftermath.json](./364386-their-aftermath.json) |
 | Their Angelical Understanding | 60117 | [60117-their-angelical-understanding.json](./60117-their-angelical-understanding.json) |
