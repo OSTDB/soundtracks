@@ -11235,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoops World | 265355 | [265355-hoops-world.json](./265355-hoops-world.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
+| HoopsFPS | 195132 | [195132-hoopsfps.json](./195132-hoopsfps.json) |
 | Hoopworld | 21744 | [21744-hoopworld.json](./21744-hoopworld.json) |
 | Hooray for Maths | 318034 | [318034-hooray-for-maths.json](./318034-hooray-for-maths.json) |
 | Hooray for Spelling | 318044 | [318044-hooray-for-spelling.json](./318044-hooray-for-spelling.json) |
