@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
 | Same Sprites, Different Levels | 277076 | [277076-same-sprites-different-levels.json](./277076-same-sprites-different-levels.json) |
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
+| Same! Same! Same! | 197817 | [197817-same-same-same.json](./197817-same-same-same.json) |
 | Samedi Manor | 260672 | [260672-samedi-manor.json](./260672-samedi-manor.json) |
 | SameGame | 134467 | [134467-samegame.json](./134467-samegame.json) |
 | SameGame | 339279 | [339279-samegame.json](./339279-samegame.json) |
@@ -4508,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Chase | 292784 | [292784-sea-chase.json](./292784-sea-chase.json) |
 | Sea Chronicles | 249879 | [249879-sea-chronicles.json](./249879-sea-chronicles.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
+| Sea Crypt: Infinite procedural dungeon crawler | 197812 | [197812-sea-crypt-infinite-procedural-dungeon-crawler.json](./197812-sea-crypt-infinite-procedural-dungeon-crawler.json) |
 | Sea Devil | 172395 | [172395-sea-devil.json](./172395-sea-devil.json) |
 | Sea Diver Simulator 3D - The ocean world | 103729 | [103729-sea-diver-simulator-3d-the-ocean-world.json](./103729-sea-diver-simulator-3d-the-ocean-world.json) |
 | Sea Dogs | 193077 | [193077-sea-dogs.json](./193077-sea-dogs.json) |
@@ -6891,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Red Lines | 128837 | [128837-seven-red-lines.json](./128837-seven-red-lines.json) |
 | Seven Relics | 420049 | [420049-seven-relics.json](./420049-seven-relics.json) |
+| Seven Sacred Beasts | 197809 | [197809-seven-sacred-beasts.json](./197809-seven-sacred-beasts.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
 | Seven Samurai 20XX | 24241 | [24241-seven-samurai-20xx.json](./24241-seven-samurai-20xx.json) |
 | Seven Scrolls | 228928 | [228928-seven-scrolls.json](./228928-seven-scrolls.json) |
@@ -9247,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift Orb | 33188 | [33188-shift-orb.json](./33188-shift-orb.json) |
 | Shift Quantum | 56678 | [56678-shift-quantum.json](./56678-shift-quantum.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
+| Shift Shaft | 197689 | [197689-shift-shaft.json](./197689-shift-shaft.json) |
 | Shift Stack | 181695 | [181695-shift-stack.json](./181695-shift-stack.json) |
 | Shift'n Slay | 319738 | [319738-shiftn-slay.json](./319738-shiftn-slay.json) |
 | Shifted | 238978 | [238978-shifted.json](./238978-shifted.json) |
@@ -22813,6 +22817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
 | Space Trade Fleet 1.5 | 117204 | [117204-space-trade-fleet-1-5.json](./117204-space-trade-fleet-1-5.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
+| Space Trader 2018 | 197805 | [197805-space-trader-2018.json](./197805-space-trader-2018.json) |
 | Space Trader: Merchant Marine | 29191 | [29191-space-trader-merchant-marine.json](./29191-space-trader-merchant-marine.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
 | Space Train | 161489 | [161489-space-train.json](./161489-space-train.json) |
