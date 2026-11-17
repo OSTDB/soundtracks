@@ -14524,6 +14524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lighthouse | 51693 | [51693-the-lighthouse.json](./51693-the-lighthouse.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
 | The Lighthouse of São Bento do Oeste | 192894 | [192894-the-lighthouse-of-sao-bento-do-oeste.json](./192894-the-lighthouse-of-sao-bento-do-oeste.json) |
+| The Lighthouse Restaurant | 425279 | [425279-the-lighthouse-restaurant.json](./425279-the-lighthouse-restaurant.json) |
 | The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
 | The Lighthouse Whispers | 425991 | [425991-the-lighthouse-whispers.json](./425991-the-lighthouse-whispers.json) |
 | The Lighting Ages | 339189 | [339189-the-lighting-ages.json](./339189-the-lighting-ages.json) |
@@ -18780,6 +18781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
 | The Sixth Faction | 217169 | [217169-the-sixth-faction.json](./217169-the-sixth-faction.json) |
 | The Sixth Prison | 184077 | [184077-the-sixth-prison.json](./184077-the-sixth-prison.json) |
+| The Sixth Sin | 425304 | [425304-the-sixth-sin.json](./425304-the-sixth-sin.json) |
 | The Sixth Sorrow | 337412 | [337412-the-sixth-sorrow.json](./337412-the-sixth-sorrow.json) |
 | The Sixth Station | 179445 | [179445-the-sixth-station.json](./179445-the-sixth-station.json) |
 | The Skeld | 182824 | [182824-the-skeld.json](./182824-the-skeld.json) |
@@ -26059,6 +26061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters 2 | 2143 | [2143-timesplitters-2.json](./2143-timesplitters-2.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
 | TimeSplitters 2 Redux | 290771 | [290771-timesplitters-2-redux.json](./290771-timesplitters-2-redux.json) |
+| TimeSplitters 2: Recompiled | 425295 | [425295-timesplitters-2-recompiled.json](./425295-timesplitters-2-recompiled.json) |
 | TimeSplitters 4 | 52955 | [52955-timesplitters-4.json](./52955-timesplitters-4.json) |
 | TimeSplitters Next | 290385 | [290385-timesplitters-next.json](./290385-timesplitters-next.json) |
 | TimeSplitters Rewind | 27286 | [27286-timesplitters-rewind.json](./27286-timesplitters-rewind.json) |
@@ -30636,6 +30639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
 | Towers of Thana | 238595 | [238595-towers-of-thana.json](./238595-towers-of-thana.json) |
 | Towers of the Apocalypse | 64827 | [64827-towers-of-the-apocalypse.json](./64827-towers-of-the-apocalypse.json) |
+| Towers of Twilight | 425320 | [425320-towers-of-twilight.json](./425320-towers-of-twilight.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers Saga | 391719 | [391719-towers-saga.json](./391719-towers-saga.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
@@ -36313,6 +36317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tug-of-War: Cybertruck | 252953 | [252953-tug-of-war-cybertruck.json](./252953-tug-of-war-cybertruck.json) |
 | Tuga Boy Adventures | 239094 | [239094-tuga-boy-adventures.json](./239094-tuga-boy-adventures.json) |
 | Tugboat Terror | 272715 | [272715-tugboat-terror.json](./272715-tugboat-terror.json) |
+| Tuggin It | 425316 | [425316-tuggin-it.json](./425316-tuggin-it.json) |
 | Tuggowar | 187225 | [187225-tuggowar.json](./187225-tuggowar.json) |
 | Tuggowar: Arsenal Management | 358260 | [358260-tuggowar-arsenal-management.json](./358260-tuggowar-arsenal-management.json) |
 | Tugtics | 166323 | [166323-tugtics.json](./166323-tugtics.json) |
