@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
+| Jets'n'Guns | 8954 | [8954-jetsnguns.json](./8954-jetsnguns.json) |
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
 | Jetsam! | 295186 | [295186-jetsam.json](./295186-jetsam.json) |
 | Jetscout: Boot Camp | 158329 | [158329-jetscout-boot-camp.json](./158329-jetscout-boot-camp.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonah Lomu Rugby Challenge 4 Remastered | 413311 | [413311-jonah-lomu-rugby-challenge-4-remastered.json](./413311-jonah-lomu-rugby-challenge-4-remastered.json) |
 | Jonah Lomu Rugby Challenge: Quick Match | 175156 | [175156-jonah-lomu-rugby-challenge-quick-match.json](./175156-jonah-lomu-rugby-challenge-quick-match.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
+| Jonah's Level Pack (Or Something IDK) | 428882 | [428882-jonahs-level-pack-or-something-idk.json](./428882-jonahs-level-pack-or-something-idk.json) |
 | Jonah's Path | 32305 | [32305-jonahs-path.json](./32305-jonahs-path.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
 | Jonas | 91721 | [91721-jonas.json](./91721-jonas.json) |
@@ -4345,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park Part 2: The Chaos Continues | 10677 | [10677-jurassic-park-part-2-the-chaos-continues.json](./10677-jurassic-park-part-2-the-chaos-continues.json) |
 | Jurassic Park Part 2: The Chaos Continues | 147052 | [147052-jurassic-park-part-2-the-chaos-continues.json](./147052-jurassic-park-part-2-the-chaos-continues.json) |
 | Jurassic Park: Builder | 10531 | [10531-jurassic-park-builder.json](./10531-jurassic-park-builder.json) |
+| Jurassic Park: Classic Games Collection | 256466 | [256466-jurassic-park-classic-games-collection.json](./256466-jurassic-park-classic-games-collection.json) |
 | Jurassic Park: Dinosaur Battles | 65607 | [65607-jurassic-park-dinosaur-battles.json](./65607-jurassic-park-dinosaur-battles.json) |
 | Jurassic Park: Rampage Edition | 10678 | [10678-jurassic-park-rampage-edition.json](./10678-jurassic-park-rampage-edition.json) |
 | Jurassic Park: Scan Command | 72570 | [72570-jurassic-park-scan-command.json](./72570-jurassic-park-scan-command.json) |
