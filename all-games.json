@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T03:35:56.759Z",
-  "total_soundtracks": 3513,
+  "generated_at": "2026-11-17T03:46:02.767Z",
+  "total_soundtracks": 3515,
   "games": [
     {
       "igdb_id": 292844,
@@ -6447,6 +6447,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/cat-quest-iii-original-game-soundtrack/1762343344?uo=4",
           "album_link_url": "https://album.link/i/1762343344"
+        }
+      ]
+    },
+    {
+      "igdb_id": 339820,
+      "game_name": "Causal Loop",
+      "game_url": "https://ostdb.net/games/causal-loop",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733fe1c88f41b5420623458403",
+      "albums": [
+        {
+          "album_name": "Causal Loop (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2f77NJV7dwZVSp4fXLrHB5",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -24753,6 +24767,20 @@
         {
           "album_name": "My Time at Sandrock (Original Videogame Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1Y0EqA4Y65ntD55oMapRws",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 342011,
+      "game_name": "Mycopunk",
+      "game_url": "https://ostdb.net/games/mycopunk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc9a19cdb9c1acc6b01b75a8",
+      "albums": [
+        {
+          "album_name": "Mycopunk (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7FRpG0QP5MHDrebjPHu3WJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
