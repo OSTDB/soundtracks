@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
 | Par Under Review | 428778 | [428778-par-under-review.json](./428778-par-under-review.json) |
 | Para Academy | 414210 | [414210-para-academy.json](./414210-para-academy.json) |
+| Para Assault Course | 74559 | [74559-para-assault-course.json](./74559-para-assault-course.json) |
 | Para Bellum | 139658 | [139658-para-bellum.json](./139658-para-bellum.json) |
 | Para Bellum | 297877 | [297877-para-bellum.json](./297877-para-bellum.json) |
 | Para Bellum: Hold the Line | 195914 | [195914-para-bellum-hold-the-line.json](./195914-para-bellum-hold-the-line.json) |
@@ -12118,6 +12119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
 | Point in Time | 403323 | [403323-point-in-time.json](./403323-point-in-time.json) |
 | Point of Attack 2.5 | 133269 | [133269-point-of-attack-2-5.json](./133269-point-of-attack-2-5.json) |
+| Point of Destruction | 72863 | [72863-point-of-destruction.json](./72863-point-of-destruction.json) |
 | Point of Light | 186752 | [186752-point-of-light.json](./186752-point-of-light.json) |
 | Point of Mew | 242312 | [242312-point-of-mew.json](./242312-point-of-mew.json) |
 | Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
@@ -14412,6 +14414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music | 51020 | [51020-popn-music.json](./51020-popn-music.json) |
 | Pop'n music 10 | 80758 | [80758-popn-music-10.json](./80758-popn-music-10.json) |
+| Pop'n Music 11 | 72880 | [72880-popn-music-11.json](./72880-popn-music-11.json) |
 | Pop'n Music 13 Carnival | 407095 | [407095-popn-music-13-carnival.json](./407095-popn-music-13-carnival.json) |
 | Pop'n Music 2 | 78975 | [78975-popn-music-2.json](./78975-popn-music-2.json) |
 | Pop'n music 3 | 78977 | [78977-popn-music-3.json](./78977-popn-music-3.json) |
@@ -14423,6 +14426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n music 7 | 78976 | [78976-popn-music-7.json](./78976-popn-music-7.json) |
 | Pop'n music 8 | 78972 | [78972-popn-music-8.json](./78972-popn-music-8.json) |
 | Pop'n music 9 | 78973 | [78973-popn-music-9.json](./78973-popn-music-9.json) |
+| Pop'n Music Animelo 2 | 72881 | [72881-popn-music-animelo-2.json](./72881-popn-music-animelo-2.json) |
 | Pop'n Music éclale | 124691 | [124691-popn-music-eclale.json](./124691-popn-music-eclale.json) |
 | Pop'n Music Fantasia | 76169 | [76169-popn-music-fantasia.json](./76169-popn-music-fantasia.json) |
 | Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
@@ -14450,6 +14454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Pop | 64307 | [64307-popn-pop.json](./64307-popn-pop.json) |
 | Pop'n pop globos | 50060 | [50060-popn-pop-globos.json](./50060-popn-pop-globos.json) |
 | Pop'n rhythmin | 395964 | [395964-popn-rhythmin.json](./395964-popn-rhythmin.json) |
+| Pop'n stage | 72882 | [72882-popn-stage.json](./72882-popn-stage.json) |
 | Pop'n Stage EX | 314354 | [314354-popn-stage-ex.json](./314354-popn-stage-ex.json) |
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
 | Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
@@ -16716,6 +16721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PrismNeedle | 323000 | [323000-prismneedle.json](./323000-prismneedle.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
 | Prison | 348595 | [348595-prison.json](./348595-prison.json) |
+| Prison | 74558 | [74558-prison.json](./74558-prison.json) |
 | Prison 69 | 150937 | [150937-prison-69.json](./150937-prison-69.json) |
 | Prison Adventure 3 | 224058 | [224058-prison-adventure-3.json](./224058-prison-adventure-3.json) |
 | Prison Alone | 311867 | [311867-prison-alone.json](./311867-prison-alone.json) |
@@ -17398,6 +17404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Farmer 2017 | 19885 | [19885-professional-farmer-2017.json](./19885-professional-farmer-2017.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
 | Professional Farmer 2017: Gold Edition | 22160 | [22160-professional-farmer-2017-gold-edition.json](./22160-professional-farmer-2017-gold-edition.json) |
+| Professional Farmer: American Dream | 74522 | [74522-professional-farmer-american-dream.json](./74522-professional-farmer-american-dream.json) |
 | Professional Farmer: Cattle and Crops | 55892 | [55892-professional-farmer-cattle-and-crops.json](./55892-professional-farmer-cattle-and-crops.json) |
 | Professional Farmer: Nintendo Switch Edition | 111759 | [111759-professional-farmer-nintendo-switch-edition.json](./111759-professional-farmer-nintendo-switch-edition.json) |
 | Professional Fisherman's Tour: Big Bass Open | 76170 | [76170-professional-fishermans-tour-big-bass-open.json](./76170-professional-fishermans-tour-big-bass-open.json) |
