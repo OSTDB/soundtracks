@@ -7326,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
 | Ben Jordan: Paranormal Investigator - Case 5: Land of the Rising Dead | 68854 | [68854-ben-jordan-paranormal-investigator-case-5-land-of-the-rising-dead.json](./68854-ben-jordan-paranormal-investigator-case-5-land-of-the-rising-dead.json) |
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
+| Ben Jordan: Paranormal Investigator - Case 7: The Cardinal Sins | 65107 | [65107-ben-jordan-paranormal-investigator-case-7-the-cardinal-sins.json](./65107-ben-jordan-paranormal-investigator-case-7-the-cardinal-sins.json) |
 | Ben Jordan: Paranormal Investigator - Case 8: Relics of the Past | 127125 | [127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json](./127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json) |
 | Ben Jordan: Paranormal Warrior Within - Case 1: Wrath of the Skunk Ape | 69428 | [69428-ben-jordan-paranormal-warrior-within-case-1-wrath-of-the-skunk-ape.json](./69428-ben-jordan-paranormal-warrior-within-case-1-wrath-of-the-skunk-ape.json) |
 | Ben Pixel 10: Raging Fist | 193864 | [193864-ben-pixel-10-raging-fist.json](./193864-ben-pixel-10-raging-fist.json) |
@@ -8276,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Trivia Jumble | 100687 | [100687-bible-trivia-jumble.json](./100687-bible-trivia-jumble.json) |
 | Bible Trivia Mania | 232622 | [232622-bible-trivia-mania.json](./232622-bible-trivia-mania.json) |
 | Bible Trivia: Alchemy | 375241 | [375241-bible-trivia-alchemy.json](./375241-bible-trivia-alchemy.json) |
+| Bible Trivia: Avatar Edition | 65133 | [65133-bible-trivia-avatar-edition.json](./65133-bible-trivia-avatar-edition.json) |
 | Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
 | Bible Word Puzzle | 103547 | [103547-bible-word-puzzle.json](./103547-bible-word-puzzle.json) |
 | BibleGirl's Big Apple | 56448 | [56448-biblegirls-big-apple.json](./56448-biblegirls-big-apple.json) |
@@ -9747,6 +9749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Mangekyou: Kotowari to Meikyuu no Shoujo | 128419 | [128419-bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo.json](./128419-bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo.json) |
 | Bishoujo Mangekyou: Norowareshi Densetsu no Shoujo | 115722 | [115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json](./115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json) |
 | Bishoujo Mangekyou: Wasurenagusa to Eien no Shoujo | 115723 | [115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json](./115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json) |
+| Bishoujo Noriko | 66269 | [66269-bishoujo-noriko.json](./66269-bishoujo-noriko.json) |
 | Bishoujo Senshi Sailor Moon | 37636 | [37636-bishoujo-senshi-sailor-moon.json](./37636-bishoujo-senshi-sailor-moon.json) |
 | Bishoujo Senshi Sailor Moon | 38279 | [38279-bishoujo-senshi-sailor-moon.json](./38279-bishoujo-senshi-sailor-moon.json) |
 | Bishoujo Senshi Sailor Moon Collection | 418888 | [418888-bishoujo-senshi-sailor-moon-collection.json](./418888-bishoujo-senshi-sailor-moon-collection.json) |
@@ -13110,6 +13113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow'em Out | 308202 | [308202-blowem-out.json](./308202-blowem-out.json) |
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
 | Blower | 180664 | [180664-blower.json](./180664-blower.json) |
+| Blowfish Meets Meteor | 61799 | [61799-blowfish-meets-meteor.json](./61799-blowfish-meets-meteor.json) |
 | Blowfly: DungHole Wanderer | 202745 | [202745-blowfly-dunghole-wanderer.json](./202745-blowfly-dunghole-wanderer.json) |
 | Blowhards | 27342 | [27342-blowhards.json](./27342-blowhards.json) |
 | Blowhole | 425455 | [425455-blowhole.json](./425455-blowhole.json) |
@@ -13950,6 +13954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boiled | 392010 | [392010-boiled.json](./392010-boiled.json) |
 | Boiler & Blood | 428105 | [428105-boiler-and-blood.json](./428105-boiler-and-blood.json) |
 | Boiler Room | 415378 | [415378-boiler-room.json](./415378-boiler-room.json) |
+| Boiling Ossan Eggs! | 61811 | [61811-boiling-ossan-eggs.json](./61811-boiling-ossan-eggs.json) |
 | Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
 | Boiling Point: Road to Hell | 9508 | [9508-boiling-point-road-to-hell.json](./9508-boiling-point-road-to-hell.json) |
 | Boiling Steel: Preface | 128081 | [128081-boiling-steel-preface.json](./128081-boiling-steel-preface.json) |
@@ -16906,6 +16911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
 | Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
+| Bravely Default: Praying Brage | 62889 | [62889-bravely-default-praying-brage.json](./62889-bravely-default-praying-brage.json) |
 | Bravely Second: End Layer | 11256 | [11256-bravely-second-end-layer.json](./11256-bravely-second-end-layer.json) |
 | Bravely Second: End Layer - Collector's Edition | 44017 | [44017-bravely-second-end-layer-collectors-edition.json](./44017-bravely-second-end-layer-collectors-edition.json) |
 | Bravely Second: End Layer - Deluxe Collector's Edition | 47664 | [47664-bravely-second-end-layer-deluxe-collectors-edition.json](./47664-bravely-second-end-layer-deluxe-collectors-edition.json) |
@@ -17160,6 +17166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Arcade Games Out | 282230 | [282230-break-arcade-games-out.json](./282230-break-arcade-games-out.json) |
 | Break Arts II | 30812 | [30812-break-arts-ii.json](./30812-break-arts-ii.json) |
 | Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
+| Break Blocks | 65111 | [65111-break-blocks.json](./65111-break-blocks.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Brick Out | 175742 | [175742-break-brick-out.json](./175742-break-brick-out.json) |
 | Break Chance Memento | 33789 | [33789-break-chance-memento.json](./33789-break-chance-memento.json) |
