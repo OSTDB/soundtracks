@@ -13971,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domain | 149957 | [149957-domain.json](./149957-domain.json) |
 | Domain Defense | 33197 | [33197-domain-defense.json](./33197-domain-defense.json) |
 | Domain Defense VR | 33183 | [33183-domain-defense-vr.json](./33183-domain-defense-vr.json) |
+| Domain Master | 427706 | [427706-domain-master.json](./427706-domain-master.json) |
 | Domain of God | 368270 | [368270-domain-of-god.json](./368270-domain-of-god.json) |
 | Domain Owner | 312203 | [312203-domain-owner.json](./312203-domain-owner.json) |
 | Domaine | 85756 | [85756-domaine.json](./85756-domaine.json) |
@@ -18130,6 +18131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream & Sugar | 339569 | [339569-dream-and-sugar.json](./339569-dream-and-sugar.json) |
 | Dream #46 | 264755 | [264755-dream-46.json](./264755-dream-46.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
+| Dream About You | 427707 | [427707-dream-about-you.json](./427707-dream-about-you.json) |
 | Dream Abyss: Survivors | 346560 | [346560-dream-abyss-survivors.json](./346560-dream-abyss-survivors.json) |
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
 | Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
