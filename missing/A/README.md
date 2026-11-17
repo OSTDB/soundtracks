@@ -2531,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Tennis Manager 2 | 379082 | [379082-absolute-tennis-manager-2.json](./379082-absolute-tennis-manager-2.json) |
 | Absolute Territory | 121789 | [121789-absolute-territory.json](./121789-absolute-territory.json) |
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
+| Absolute Tofu | 427709 | [427709-absolute-tofu.json](./427709-absolute-tofu.json) |
 | Absolute Unit | 240546 | [240546-absolute-unit.json](./240546-absolute-unit.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
@@ -8790,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
 | All Your Time-Tossed Selves | 134379 | [134379-all-your-time-tossed-selves.json](./134379-all-your-time-tossed-selves.json) |
+| All Your Wrestling: Pro Manager | 427708 | [427708-all-your-wrestling-pro-manager.json](./427708-all-your-wrestling-pro-manager.json) |
 | All Zero | 402031 | [402031-all-zero.json](./402031-all-zero.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
 | All Zombies Must Die! Scorepocalypse | 9972 | [9972-all-zombies-must-die-scorepocalypse.json](./9972-all-zombies-must-die-scorepocalypse.json) |
@@ -9620,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amarillo Slim's 7 Card Stud | 112634 | [112634-amarillo-slims-7-card-stud.json](./112634-amarillo-slims-7-card-stud.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
 | Amaroo's Christmas Shop Simulator | 326482 | [326482-amaroos-christmas-shop-simulator.json](./326482-amaroos-christmas-shop-simulator.json) |
+| Amarta: Kingdom of Shadows | 427725 | [427725-amarta-kingdom-of-shadows.json](./427725-amarta-kingdom-of-shadows.json) |
 | Amaryllis | 347498 | [347498-amaryllis.json](./347498-amaryllis.json) |
 | Amata | 215532 | [215532-amata.json](./215532-amata.json) |
 | Amatarasu Riddle Star | 122796 | [122796-amatarasu-riddle-star.json](./122796-amatarasu-riddle-star.json) |
@@ -17543,6 +17546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashley: The Story Of Survival | 93754 | [93754-ashley-the-story-of-survival.json](./93754-ashley-the-story-of-survival.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashmedai: Queen of Lust | 160019 | [160019-ashmedai-queen-of-lust.json](./160019-ashmedai-queen-of-lust.json) |
+| Ashnar's Lair | 427691 | [427691-ashnars-lair.json](./427691-ashnars-lair.json) |
 | Ashore | 184024 | [184024-ashore.json](./184024-ashore.json) |
 | Ashore & Away | 389253 | [389253-ashore-and-away.json](./389253-ashore-and-away.json) |
 | Ashram Online | 419128 | [419128-ashram-online.json](./419128-ashram-online.json) |
@@ -19233,6 +19237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Mysterious Trilogy DX: Premium Box | 143284 | [143284-atelier-mysterious-trilogy-dx-premium-box.json](./143284-atelier-mysterious-trilogy-dx-premium-box.json) |
 | Atelier Mysterious Trilogy DX: Special Collection Box | 143283 | [143283-atelier-mysterious-trilogy-dx-special-collection-box.json](./143283-atelier-mysterious-trilogy-dx-special-collection-box.json) |
 | Atelier Online: Alchemists of Braceir | 196529 | [196529-atelier-online-alchemists-of-braceir.json](./196529-atelier-online-alchemists-of-braceir.json) |
+| Atelier Patchouli | 427689 | [427689-atelier-patchouli.json](./427689-atelier-patchouli.json) |
 | Atelier Questboard | 130323 | [130323-atelier-questboard.json](./130323-atelier-questboard.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Activewear Adventuring Set | 370586 | [370586-atelier-resleriana-the-red-alchemist-and-the-white-guardian-activewear-adventuring-set.json](./370586-atelier-resleriana-the-red-alchemist-and-the-white-guardian-activewear-adventuring-set.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Additional Characters: Resna and Valeria | 375157 | [375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json](./375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json) |
@@ -21143,6 +21148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
 | Axiomatik | 391225 | [391225-axiomatik.json](./391225-axiomatik.json) |
 | Axion | 34999 | [34999-axion.json](./34999-axion.json) |
+| Axion Racer | 427720 | [427720-axion-racer.json](./427720-axion-racer.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axis | 135931 | [135931-axis.json](./135931-axis.json) |
 | Axis & Allies | 77145 | [77145-axis-and-allies.json](./77145-axis-and-allies.json) |
