@@ -4575,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
 | When Sirens Fall Silent | 380417 | [380417-when-sirens-fall-silent.json](./380417-when-sirens-fall-silent.json) |
+| When Stars Align | 424084 | [424084-when-stars-align.json](./424084-when-stars-align.json) |
 | When Stars Collide | 364519 | [364519-when-stars-collide.json](./364519-when-stars-collide.json) |
 | When Stuffed Animals Attack! | 203103 | [203103-when-stuffed-animals-attack.json](./203103-when-stuffed-animals-attack.json) |
 | When Sword Sinks Into Flowers | 237717 | [237717-when-sword-sinks-into-flowers.json](./237717-when-sword-sinks-into-flowers.json) |
@@ -5492,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Beast | 358263 | [358263-whos-beast.json](./358263-whos-beast.json) |
 | Who's Behind The Mexican UFO's | 419340 | [419340-whos-behind-the-mexican-ufos.json](./419340-whos-behind-the-mexican-ufos.json) |
+| Who's Cheating? | 424083 | [424083-whos-cheating.json](./424083-whos-cheating.json) |
 | Who's Dunnit? A | 354369 | [354369-whos-dunnit-a.json](./354369-whos-dunnit-a.json) |
 | Who's Dunnit? B | 354370 | [354370-whos-dunnit-b.json](./354370-whos-dunnit-b.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
