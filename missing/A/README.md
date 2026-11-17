@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Baseball | 84863 | [84863-absolute-baseball.json](./84863-absolute-baseball.json) |
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
 | Absolute BrickBuster | 76150 | [76150-absolute-brickbuster.json](./76150-absolute-brickbuster.json) |
+| Absolute Canasta | 92191 | [92191-absolute-canasta.json](./92191-absolute-canasta.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Cinema | 383462 | [383462-absolute-cinema.json](./383462-absolute-cinema.json) |
 | Absolute Color Perception | 267740 | [267740-absolute-color-perception.json](./267740-absolute-color-perception.json) |
@@ -2746,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abzorb | 134247 | [134247-abzorb.json](./134247-abzorb.json) |
 | Abzu: Deluxe Edition | 52553 | [52553-abzu-deluxe-edition.json](./52553-abzu-deluxe-edition.json) |
 | AC Milan Club Football | 267875 | [267875-ac-milan-club-football.json](./267875-ac-milan-club-football.json) |
+| AC Milan Club Football 2005 | 94442 | [94442-ac-milan-club-football-2005.json](./94442-ac-milan-club-football-2005.json) |
 | AC Sailing | 288714 | [288714-ac-sailing.json](./288714-ac-sailing.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC-130 Operation Devastation | 25395 | [25395-ac-130-operation-devastation.json](./25395-ac-130-operation-devastation.json) |
@@ -3663,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adagio | 305057 | [305057-adagio.json](./305057-adagio.json) |
 | Adagio | 329900 | [329900-adagio.json](./329900-adagio.json) |
+| Adagio | 93231 | [93231-adagio.json](./93231-adagio.json) |
 | Adam | 253563 | [253563-adam.json](./253563-adam.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve | 185881 | [185881-adam-and-eve.json](./185881-adam-and-eve.json) |
@@ -16395,6 +16398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Project Phantasma | 331209 | [331209-armored-core-project-phantasma.json](./331209-armored-core-project-phantasma.json) |
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
 | Armored Core: Verdict Day | 5494 | [5494-armored-core-verdict-day.json](./5494-armored-core-verdict-day.json) |
+| Armored Encounter! / Sub Chase! | 93234 | [93234-armored-encounter-sub-chase.json](./93234-armored-encounter-sub-chase.json) |
 | Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
 | Armored Fighter | 111573 | [111573-armored-fighter.json](./111573-armored-fighter.json) |
 | Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
@@ -18303,6 +18307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 419743 | [419743-asteroids.json](./419743-asteroids.json) |
 | Asteroids | 80932 | [80932-asteroids.json](./80932-asteroids.json) |
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
+| Asteroids / Pong / Yars' Revenge | 94269 | [94269-asteroids-pong-yars-revenge.json](./94269-asteroids-pong-yars-revenge.json) |
 | Asteroids & Deluxe | 73043 | [73043-asteroids-and-deluxe.json](./73043-asteroids-and-deluxe.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
 | Asteroids ++ | 270049 | [270049-asteroids.json](./270049-asteroids.json) |
@@ -20960,6 +20965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaking Beauty | 351791 | [351791-awaking-beauty.json](./351791-awaking-beauty.json) |
 | Awankening. | 397083 | [397083-awankening.json](./397083-awankening.json) |
 | Awara | 244395 | [244395-awara.json](./244395-awara.json) |
+| Award Winners | 95482 | [95482-award-winners.json](./95482-award-winners.json) |
 | Award Winners: Platinum Edition | 115782 | [115782-award-winners-platinum-edition.json](./115782-award-winners-platinum-edition.json) |
 | Award Winning Game Pack | 266160 | [266160-award-winning-game-pack.json](./266160-award-winning-game-pack.json) |
 | Award Winning Indie Gems 4-in-1 | 267151 | [267151-award-winning-indie-gems-4-in-1.json](./267151-award-winning-indie-gems-4-in-1.json) |
