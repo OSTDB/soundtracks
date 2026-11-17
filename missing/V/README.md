@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
 | Vampire Memories | 247954 | [247954-vampire-memories.json](./247954-vampire-memories.json) |
+| Vampire Mukuro | 424744 | [424744-vampire-mukuro.json](./424744-vampire-mukuro.json) |
 | Vampire Night | 13902 | [13902-vampire-night.json](./13902-vampire-night.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
 | Vampire Nights | 184756 | [184756-vampire-nights.json](./184756-vampire-nights.json) |
