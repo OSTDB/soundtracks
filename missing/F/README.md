@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Twelve: Complete Collection | 154617 | [154617-fatal-twelve-complete-collection.json](./154617-fatal-twelve-complete-collection.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
+| Fatal Wings | 131662 | [131662-fatal-wings.json](./131662-fatal-wings.json) |
 | Fatal Yandere Love Triangle | 299069 | [299069-fatal-yandere-love-triangle.json](./299069-fatal-yandere-love-triangle.json) |
 | Fatal Zero Action | 50461 | [50461-fatal-zero-action.json](./50461-fatal-zero-action.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
@@ -7085,7 +7086,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | FireTry: Cars Pack | 226559 | [226559-firetry-cars-pack.json](./226559-firetry-cars-pack.json) |
 | Firewall | 230955 | [230955-firewall.json](./230955-firewall.json) |
-| Firewall Ultra | 215777 | [215777-firewall-ultra.json](./215777-firewall-ultra.json) |
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
 | Firewall: Cyber Defense | 295152 | [295152-firewall-cyber-defense.json](./295152-firewall-cyber-defense.json) |
 | Firewall: Man vs. Machine | 217880 | [217880-firewall-man-vs-machine.json](./217880-firewall-man-vs-machine.json) |
@@ -9114,7 +9114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
 | Flippets | 321657 | [321657-flippets.json](./321657-flippets.json) |
 | Flippin Kaktus | 116663 | [116663-flippin-kaktus.json](./116663-flippin-kaktus.json) |
-| Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
 | Flippin Ninjas | 163149 | [163149-flippin-ninjas.json](./163149-flippin-ninjas.json) |
 | Flippin' Phones | 58884 | [58884-flippin-phones.json](./58884-flippin-phones.json) |
 | Flipping Beat | 185976 | [185976-flipping-beat.json](./185976-flipping-beat.json) |
@@ -14481,6 +14480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
 | Frontline: Fields of Thunder | 11108 | [11108-frontline-fields-of-thunder.json](./11108-frontline-fields-of-thunder.json) |
+| Frontline: Panzer Blitzkrieg! | 131650 | [131650-frontline-panzer-blitzkrieg.json](./131650-frontline-panzer-blitzkrieg.json) |
 | Frontline: Panzers & Generals Vol. I | 378608 | [378608-frontline-panzers-and-generals-vol-i.json](./378608-frontline-panzers-and-generals-vol-i.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Great Patriotic War | 127577 | [127577-frontline-the-great-patriotic-war.json](./127577-frontline-the-great-patriotic-war.json) |
