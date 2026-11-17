@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T10:36:30.298Z",
-  "total_soundtracks": 3755,
+  "generated_at": "2026-11-17T10:46:14.789Z",
+  "total_soundtracks": 3759,
   "games": [
     {
       "igdb_id": 292844,
@@ -2585,6 +2585,20 @@
         {
           "album_name": "As I Began To Dream (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0d1z8X3ae4HXkFqc8Pjhsp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 99164,
+      "game_name": "Asemblance: Oversight",
+      "game_url": "https://ostdb.net/games/asemblance-oversight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730db25839fd76c09f28b3df15",
+      "albums": [
+        {
+          "album_name": "Asemblance: Oversight (Original Game Score)",
+          "spotify_url": "https://open.spotify.com/album/0hcW99rrWE6aYQLF1SzF7s",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -11173,6 +11187,20 @@
         {
           "album_name": "Dolphin Spirit, Ocean Mission (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0Ux7kJYRQSK53Yh7BkVtYb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 99306,
+      "game_name": "Don't Die Mr Robot! DX",
+      "game_url": "https://ostdb.net/games/dont-die-mr-robot-dx",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27388134febe6799cfa85c80c67",
+      "albums": [
+        {
+          "album_name": "Don't Die, Mr Robot! DX (The Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/66ST6zAw6nePaph8I2Dzs4",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27195,6 +27223,20 @@
         {
           "album_name": "News Tower Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5mGutUnO2RCsvgw6H4H4fs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 98145,
+      "game_name": "Newt One",
+      "game_url": "https://ostdb.net/games/newt-one",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27359a8d3e10cad1078f2d3375f",
+      "albums": [
+        {
+          "album_name": "Newt One (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7poVcERRGfO7n6FtZfMVXY",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -44699,6 +44741,20 @@
           "spotify_url": "https://open.spotify.com/album/6aZJusKpK3tdiUJYaTqbv0",
           "apple_music_url": "https://music.apple.com/us/album/ultimate-chicken-horse-original-soundtrack/1175097476",
           "album_link_url": "https://album.link/i/1175097476"
+        }
+      ]
+    },
+    {
+      "igdb_id": 97964,
+      "game_name": "Ultra Space Battle Brawl",
+      "game_url": "https://ostdb.net/games/ultra-space-battle-brawl",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27357a90982d1cfbb9055dfe13f",
+      "albums": [
+        {
+          "album_name": "Ultra Space Battle Brawl (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7vNJQpW2Iy8uAeGqs1uFkI",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
