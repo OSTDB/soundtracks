@@ -4277,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gear 4 Tuned | 323668 | [323668-battle-gear-4-tuned.json](./323668-battle-gear-4-tuned.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
+| Battle Girl High School | 80692 | [80692-battle-girl-high-school.json](./80692-battle-girl-high-school.json) |
 | Battle Girls | 34405 | [34405-battle-girls.json](./34405-battle-girls.json) |
 | Battle Golf | 233922 | [233922-battle-golf.json](./233922-battle-golf.json) |
 | Battle Golf Online | 90703 | [90703-battle-golf-online.json](./90703-battle-golf-online.json) |
@@ -6257,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania Da Da Da!! | 269359 | [269359-beatmania-da-da-da.json](./269359-beatmania-da-da-da.json) |
 | beatmania DA!! | 134407 | [134407-beatmania-da.json](./134407-beatmania-da.json) |
 | Beatmania featuring Dreams Come True | 308989 | [308989-beatmania-featuring-dreams-come-true.json](./308989-beatmania-featuring-dreams-come-true.json) |
+| Beatmania Featuring: Dreams Come True | 80674 | [80674-beatmania-featuring-dreams-come-true.json](./80674-beatmania-featuring-dreams-come-true.json) |
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
 | Beatmania GB Gotcha Mix 2 | 65667 | [65667-beatmania-gb-gotcha-mix-2.json](./65667-beatmania-gb-gotcha-mix-2.json) |
@@ -6275,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 21 Spada | 80099 | [80099-beatmania-iidx-21-spada.json](./80099-beatmania-iidx-21-spada.json) |
 | Beatmania IIDX 22 Pendual | 80105 | [80105-beatmania-iidx-22-pendual.json](./80105-beatmania-iidx-22-pendual.json) |
+| Beatmania IIDX 23 Copula | 80675 | [80675-beatmania-iidx-23-copula.json](./80675-beatmania-iidx-23-copula.json) |
 | Beatmania IIDX 24 Sinobuz | 108141 | [108141-beatmania-iidx-24-sinobuz.json](./108141-beatmania-iidx-24-sinobuz.json) |
 | Beatmania IIDX 25 Cannon Ballers | 102228 | [102228-beatmania-iidx-25-cannon-ballers.json](./102228-beatmania-iidx-25-cannon-ballers.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
@@ -6297,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX Club Version | 141046 | [141046-beatmania-iidx-club-version.json](./141046-beatmania-iidx-club-version.json) |
 | Beatmania IIDX Infinitas | 143204 | [143204-beatmania-iidx-infinitas.json](./143204-beatmania-iidx-infinitas.json) |
 | Beatmania IIDX Infinitas | 80106 | [80106-beatmania-iidx-infinitas.json](./80106-beatmania-iidx-infinitas.json) |
+| Beatmania IIDX Substream | 80673 | [80673-beatmania-iidx-substream.json](./80673-beatmania-iidx-substream.json) |
 | Beatmania IIDX Ultimate Mobile | 137264 | [137264-beatmania-iidx-ultimate-mobile.json](./137264-beatmania-iidx-ultimate-mobile.json) |
 | beatmania III -The latest evolution machine- | 61017 | [61017-beatmania-iii-the-latest-evolution-machine.json](./61017-beatmania-iii-the-latest-evolution-machine.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
@@ -9593,6 +9597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Nest | 277667 | [277667-birdie-nest.json](./277667-birdie-nest.json) |
 | Birdie Putt | 243827 | [243827-birdie-putt.json](./243827-birdie-putt.json) |
 | Birdie Shoot | 84381 | [84381-birdie-shoot.json](./84381-birdie-shoot.json) |
+| Birdie Shoot 2 | 80672 | [80672-birdie-shoot-2.json](./80672-birdie-shoot-2.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
 | Birdie Wing: Golf Girls' Story | 244074 | [244074-birdie-wing-golf-girls-story.json](./244074-birdie-wing-golf-girls-story.json) |
@@ -13235,6 +13240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Fury | 399226 | [399226-blue-fury.json](./399226-blue-fury.json) |
 | Blue Hawaii Aniki's Soft Ore Demand Debut | 365262 | [365262-blue-hawaii-anikis-soft-ore-demand-debut.json](./365262-blue-hawaii-anikis-soft-ore-demand-debut.json) |
 | Blue Hawk | 39875 | [39875-blue-hawk.json](./39875-blue-hawk.json) |
+| Blue Heat: The Case of the Cover Girl Murders | 79427 | [79427-blue-heat-the-case-of-the-cover-girl-murders.json](./79427-blue-heat-the-case-of-the-cover-girl-murders.json) |
 | Blue Hill Wendigo | 343217 | [343217-blue-hill-wendigo.json](./343217-blue-hill-wendigo.json) |
 | Blue Honey | 416862 | [416862-blue-honey.json](./416862-blue-honey.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
@@ -16673,6 +16679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandish 3: Spirit of Balcan | 67851 | [67851-brandish-3-spirit-of-balcan.json](./67851-brandish-3-spirit-of-balcan.json) |
 | Brandish 4: Nemureru Kami no Tou | 105741 | [105741-brandish-4-nemureru-kami-no-tou.json](./105741-brandish-4-nemureru-kami-no-tou.json) |
+| Brandish VT | 80655 | [80655-brandish-vt.json](./80655-brandish-vt.json) |
 | Brandish: The Dark Revenant | 23806 | [23806-brandish-the-dark-revenant.json](./23806-brandish-the-dark-revenant.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Brandon, You're Going to Hell! | 167748 | [167748-brandon-youre-going-to-hell.json](./167748-brandon-youre-going-to-hell.json) |
