@@ -8496,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Paris | 341057 | [341057-big-city-adventure-paris.json](./341057-big-city-adventure-paris.json) |
 | Big City Adventure: Rio | 341072 | [341072-big-city-adventure-rio.json](./341072-big-city-adventure-rio.json) |
 | Big City Adventure: Rome | 341056 | [341056-big-city-adventure-rome.json](./341056-big-city-adventure-rome.json) |
+| Big City Adventure: San Francisco | 71660 | [71660-big-city-adventure-san-francisco.json](./71660-big-city-adventure-san-francisco.json) |
 | Big City Adventure: Shanghai | 339617 | [339617-big-city-adventure-shanghai.json](./339617-big-city-adventure-shanghai.json) |
 | Big City Adventure: Sydney, Australia | 65202 | [65202-big-city-adventure-sydney-australia.json](./65202-big-city-adventure-sydney-australia.json) |
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
@@ -13251,6 +13252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
 | Blue Horizon: Hibiscus, and the Loved Garden Paths of Raj Rivera | 395997 | [395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json](./395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json) |
 | Blue Hunter | 303167 | [303167-blue-hunter.json](./303167-blue-hunter.json) |
+| Blue Ice | 71654 | [71654-blue-ice.json](./71654-blue-ice.json) |
 | Blue Intervention | 219213 | [219213-blue-intervention.json](./219213-blue-intervention.json) |
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
@@ -14293,6 +14295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
 | Bomber Battle : Bomb Man Arena | 234440 | [234440-bomber-battle-bomb-man-arena.json](./234440-bomber-battle-bomb-man-arena.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
+| Bomber Bob In Pentagon Capers | 71620 | [71620-bomber-bob-in-pentagon-capers.json](./71620-bomber-bob-in-pentagon-capers.json) |
 | Bomber Boing | 92358 | [92358-bomber-boing.json](./92358-bomber-boing.json) |
 | Bomber Boom | 199695 | [199695-bomber-boom.json](./199695-bomber-boom.json) |
 | Bomber Bother | 123950 | [123950-bomber-bother.json](./123950-bomber-bother.json) |
@@ -17699,6 +17702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricks of Atlantis | 70108 | [70108-bricks-of-atlantis.json](./70108-bricks-of-atlantis.json) |
 | Bricks of Camelot | 72267 | [72267-bricks-of-camelot.json](./72267-bricks-of-camelot.json) |
+| Bricks of Egypt | 71653 | [71653-bricks-of-egypt.json](./71653-bricks-of-egypt.json) |
 | Bricks of Egypt 2: Tears of the Pharaohs | 71353 | [71353-bricks-of-egypt-2-tears-of-the-pharaohs.json](./71353-bricks-of-egypt-2-tears-of-the-pharaohs.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
 | Bricks Over Blocks | 338447 | [338447-bricks-over-blocks.json](./338447-bricks-over-blocks.json) |
