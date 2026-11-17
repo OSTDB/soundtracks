@@ -6790,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
 | Max, an Autistic Journey: Max's Birthday | 168321 | [168321-max-an-autistic-journey-maxs-birthday.json](./168321-max-an-autistic-journey-maxs-birthday.json) |
 | Max: The Curse of Brotherhood | 4848 | [4848-max-the-curse-of-brotherhood.json](./4848-max-the-curse-of-brotherhood.json) |
+| Max's Adventure | 426524 | [426524-maxs-adventure.json](./426524-maxs-adventure.json) |
 | Max's Adventures: Summer Edition | 390077 | [390077-maxs-adventures-summer-edition.json](./390077-maxs-adventures-summer-edition.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | Max's Big Bust: A Captain Nekorai Tale | 34086 | [34086-maxs-big-bust-a-captain-nekorai-tale.json](./34086-maxs-big-bust-a-captain-nekorai-tale.json) |
@@ -15427,6 +15428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
 | Miriam: The Escape | 175703 | [175703-miriam-the-escape.json](./175703-miriam-the-escape.json) |
+| Miriam's Potion Journal | 426503 | [426503-miriams-potion-journal.json](./426503-miriams-potion-journal.json) |
 | Miriel Saga | 125707 | [125707-miriel-saga.json](./125707-miriel-saga.json) |
 | Miriel the Magical Merchant | 209206 | [209206-miriel-the-magical-merchant.json](./209206-miriel-the-magical-merchant.json) |
 | Miriel's Enchanted Mystery | 53386 | [53386-miriels-enchanted-mystery.json](./53386-miriels-enchanted-mystery.json) |
@@ -18083,6 +18085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Now: Season 4 | 325606 | [325606-monster-hunter-now-season-4.json](./325606-monster-hunter-now-season-4.json) |
 | Monster Hunter Online | 26901 | [26901-monster-hunter-online.json](./26901-monster-hunter-online.json) |
 | Monster Hunter Outlanders | 322022 | [322022-monster-hunter-outlanders.json](./322022-monster-hunter-outlanders.json) |
+| Monster Hunter Outranders | 426498 | [426498-monster-hunter-outranders.json](./426498-monster-hunter-outranders.json) |
 | Monster Hunter Portable 3rd | 42759 | [42759-monster-hunter-portable-3rd.json](./42759-monster-hunter-portable-3rd.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
 | Monster Hunter Puzzles: Felyne Isles | 307018 | [307018-monster-hunter-puzzles-felyne-isles.json](./307018-monster-hunter-puzzles-felyne-isles.json) |
