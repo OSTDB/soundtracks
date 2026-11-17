@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eden: Blood War | 220288 | [220288-dark-eden-blood-war.json](./220288-dark-eden-blood-war.json) |
 | Dark Edge | 390038 | [390038-dark-edge.json](./390038-dark-edge.json) |
 | Dark Edge | 39413 | [39413-dark-edge.json](./39413-dark-edge.json) |
+| Dark Edges | 159944 | [159944-dark-edges.json](./159944-dark-edges.json) |
 | Dark Effigy | 181059 | [181059-dark-effigy.json](./181059-dark-effigy.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Egypt | 30520 | [30520-dark-egypt.json](./30520-dark-egypt.json) |
@@ -8925,6 +8926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
+| Detective From the Crypt | 159910 | [159910-detective-from-the-crypt.json](./159910-detective-from-the-crypt.json) |
 | Detective Gatuma: Get a Clue! | 260846 | [260846-detective-gatuma-get-a-clue.json](./260846-detective-gatuma-get-a-clue.json) |
 | Detective Girl of the Steam City | 114576 | [114576-detective-girl-of-the-steam-city.json](./114576-detective-girl-of-the-steam-city.json) |
 | Detective Girl: The Case of Immortality | 377009 | [377009-detective-girl-the-case-of-immortality.json](./377009-detective-girl-the-case-of-immortality.json) |
@@ -9565,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Di-Da-Dobble | 186785 | [186785-di-da-dobble.json](./186785-di-da-dobble.json) |
 | Di-Gata Defenders | 47956 | [47956-di-gata-defenders.json](./47956-di-gata-defenders.json) |
 | Di-Lithium Lift | 137482 | [137482-di-lithium-lift.json](./137482-di-lithium-lift.json) |
+| Dì-wǔ Jiàn Yíliú Wù | 159911 | [159911-di-wu-jian-yiliu-wu.json](./159911-di-wu-jian-yiliu-wu.json) |
 | Dì-Yīqiān Líng Èr Yè de Tónghuà | 188186 | [188186-di-yiqian-ling-er-ye-de-tonghua.json](./188186-di-yiqian-ling-er-ye-de-tonghua.json) |
 | DI: Debt is Inevitable | 285805 | [285805-di-debt-is-inevitable.json](./285805-di-debt-is-inevitable.json) |
 | Di[c]E | 132619 | [132619-di-c-e.json](./132619-di-c-e.json) |
