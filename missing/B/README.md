@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Ice Cream 2 | 142551 | [142551-bad-ice-cream-2.json](./142551-bad-ice-cream-2.json) |
 | Bad Ice Cream 3 | 142552 | [142552-bad-ice-cream-3.json](./142552-bad-ice-cream-3.json) |
 | Bad Ice Cream Resort | 426014 | [426014-bad-ice-cream-resort.json](./426014-bad-ice-cream-resort.json) |
+| Bad Ice Cream Triple Scoop | 427088 | [427088-bad-ice-cream-triple-scoop.json](./427088-bad-ice-cream-triple-scoop.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Karma | 337007 | [337007-bad-karma.json](./337007-bad-karma.json) |
@@ -4084,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
 | Battle Bolts | 103590 | [103590-battle-bolts.json](./103590-battle-bolts.json) |
 | Battle Boom | 89526 | [89526-battle-boom.json](./89526-battle-boom.json) |
+| Battle Bot Tactics | 427076 | [427076-battle-bot-tactics.json](./427076-battle-bot-tactics.json) |
 | Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
 | Battle Bound | 11944 | [11944-battle-bound.json](./11944-battle-bound.json) |
 | Battle Bows | 253192 | [253192-battle-bows.json](./253192-battle-bows.json) |
@@ -15069,6 +15071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
 | Boomshine Plus | 216386 | [216386-boomshine-plus.json](./216386-boomshine-plus.json) |
 | Boomshine2x | 194301 | [194301-boomshine2x.json](./194301-boomshine2x.json) |
+| Boomsweeper | 427139 | [427139-boomsweeper.json](./427139-boomsweeper.json) |
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
 | BoomTown | 134797 | [134797-boomtown.json](./134797-boomtown.json) |
 | Boomtown Takedown | 52483 | [52483-boomtown-takedown.json](./52483-boomtown-takedown.json) |
