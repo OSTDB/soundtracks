@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacca Lily R | 154811 | [154811-wacca-lily-r.json](./154811-wacca-lily-r.json) |
 | Wacca Reverse | 159439 | [159439-wacca-reverse.json](./159439-wacca-reverse.json) |
 | Wacca S | 154743 | [154743-wacca-s.json](./154743-wacca-s.json) |
+| Waccha PriMagi! | 177598 | [177598-waccha-primagi.json](./177598-waccha-primagi.json) |
 | Waccha PriMagi! Studio | 276064 | [276064-waccha-primagi-studio.json](./276064-waccha-primagi-studio.json) |
 | Wacha-wacha Puzzle: Neito to Norowareshi Shukufuku no Mori | 206408 | [206408-wacha-wacha-puzzle-neito-to-norowareshi-shukufuku-no-mori.json](./206408-wacha-wacha-puzzle-neito-to-norowareshi-shukufuku-no-mori.json) |
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelchair Tester | 263723 | [263723-wheelchair-tester.json](./263723-wheelchair-tester.json) |
 | Wheelchair Wizards | 359113 | [359113-wheelchair-wizards.json](./359113-wheelchair-wizards.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
+| Wheeler Institute: Screening | 178699 | [178699-wheeler-institute-screening.json](./178699-wheeler-institute-screening.json) |
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
 | Wheelie 1 | 331401 | [331401-wheelie-1.json](./331401-wheelie-1.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
@@ -5536,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whose Lawn Is It Anyway | 401034 | [401034-whose-lawn-is-it-anyway.json](./401034-whose-lawn-is-it-anyway.json) |
 | Whotfire | 346907 | [346907-whotfire.json](./346907-whotfire.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
+| Why am I a werewolf | 178690 | [178690-why-am-i-a-werewolf.json](./178690-why-am-i-a-werewolf.json) |
 | Why Am I Dead: Rebirth | 101862 | [101862-why-am-i-dead-rebirth.json](./101862-why-am-i-dead-rebirth.json) |
 | Why Am I Here | 382697 | [382697-why-am-i-here.json](./382697-why-am-i-here.json) |
 | Why Are My Prefects So Hot!!? | 419950 | [419950-why-are-my-prefects-so-hot.json](./419950-why-are-my-prefects-so-hot.json) |
