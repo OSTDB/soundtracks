@@ -4366,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Network: Dark Hacker | 420396 | [420396-ghost-network-dark-hacker.json](./420396-ghost-network-dark-hacker.json) |
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
 | Ghost Ninja: Zombie Beatdown | 401311 | [401311-ghost-ninja-zombie-beatdown.json](./401311-ghost-ninja-zombie-beatdown.json) |
+| Ghost Node | 421101 | [421101-ghost-node.json](./421101-ghost-node.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost of a Tale: Collector's Edition | 140166 | [140166-ghost-of-a-tale-collectors-edition.json](./140166-ghost-of-a-tale-collectors-edition.json) |
@@ -4510,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost: AC-130 Close Air Support | 239368 | [239368-ghost-ac-130-close-air-support.json](./239368-ghost-ac-130-close-air-support.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
 | Ghost? | 228987 | [228987-ghost.json](./228987-ghost.json) |
+| Ghost'Inn | 421104 | [421104-ghostinn.json](./421104-ghostinn.json) |
 | Ghost'n Brothers | 166301 | [166301-ghostn-brothers.json](./166301-ghostn-brothers.json) |
 | Ghost's Timepeices | 235599 | [235599-ghosts-timepeices.json](./235599-ghosts-timepeices.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
