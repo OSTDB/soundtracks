@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanou Kaihatsu Series 4: Suiri, Kousei | 303763 | [303763-sanou-kaihatsu-series-4-suiri-kousei.json](./303763-sanou-kaihatsu-series-4-suiri-kousei.json) |
 | Sanou Kaihatsu Series 5: Meiro, Kioku | 303764 | [303764-sanou-kaihatsu-series-5-meiro-kioku.json](./303764-sanou-kaihatsu-series-5-meiro-kioku.json) |
 | Sanou Kaihatsu Series 6 Ouyou Mondai | 303766 | [303766-sanou-kaihatsu-series-6-ouyou-mondai.json](./303766-sanou-kaihatsu-series-6-ouyou-mondai.json) |
+| Sanpo Suru Keyboard-tsukai | 126688 | [126688-sanpo-suru-keyboard-tsukai.json](./126688-sanpo-suru-keyboard-tsukai.json) |
 | Sanri | 216928 | [216928-sanri.json](./216928-sanri.json) |
 | Sanrio Carnival | 48638 | [48638-sanrio-carnival.json](./48638-sanrio-carnival.json) |
 | Sanrio Carnival 2 | 48637 | [48637-sanrio-carnival-2.json](./48637-sanrio-carnival-2.json) |
@@ -3531,6 +3532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzschild GX: Sabita Sousei | 91645 | [91645-schwarzschild-gx-sabita-sousei.json](./91645-schwarzschild-gx-sabita-sousei.json) |
 | Schwarzschild GXR: Toki Gen no Ken Nin | 66273 | [66273-schwarzschild-gxr-toki-gen-no-ken-nin.json](./66273-schwarzschild-gxr-toki-gen-no-ken-nin.json) |
 | Schwarzschild II: Teikoku no Haishin | 123109 | [123109-schwarzschild-ii-teikoku-no-haishin.json](./123109-schwarzschild-ii-teikoku-no-haishin.json) |
+| Schwarzschild III: Wakusei Desperan | 124329 | [124329-schwarzschild-iii-wakusei-desperan.json](./124329-schwarzschild-iii-wakusei-desperan.json) |
+| Schwarzschild IV: The Cradle End | 124330 | [124330-schwarzschild-iv-the-cradle-end.json](./124330-schwarzschild-iv-the-cradle-end.json) |
 | Schwarzschild V: Shinnou Tanjou | 124331 | [124331-schwarzschild-v-shinnou-tanjou.json](./124331-schwarzschild-v-shinnou-tanjou.json) |
 | Schwarzwald | 223331 | [223331-schwarzwald.json](./223331-schwarzwald.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
@@ -14111,6 +14114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Pirates: Adventures | 309632 | [309632-skull-pirates-adventures.json](./309632-skull-pirates-adventures.json) |
 | Skull Port | 373993 | [373993-skull-port.json](./373993-skull-port.json) |
 | Skull Rider | 174925 | [174925-skull-rider.json](./174925-skull-rider.json) |
+| Skull Rogue | 128021 | [128021-skull-rogue.json](./128021-skull-rogue.json) |
 | Skull Rush | 29587 | [29587-skull-rush.json](./29587-skull-rush.json) |
 | Skull Scavenger | 267616 | [267616-skull-scavenger.json](./267616-skull-scavenger.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
@@ -26517,7 +26521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squigs | 79750 | [79750-squigs.json](./79750-squigs.json) |
 | Squiigee | 260304 | [260304-squiigee.json](./260304-squiigee.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
-| Squingle | 157672 | [157672-squingle.json](./157672-squingle.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
 | Squinkies | 8679 | [8679-squinkies.json](./8679-squinkies.json) |
 | Squinkies 2: Adventure Mall Surprize! | 8910 | [8910-squinkies-2-adventure-mall-surprize.json](./8910-squinkies-2-adventure-mall-surprize.json) |
@@ -34276,6 +34279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Routes | 224514 | [224514-sunset-routes.json](./224514-sunset-routes.json) |
 | Sunset Runner | 71147 | [71147-sunset-runner.json](./71147-sunset-runner.json) |
+| Sunset Saver | 124328 | [124328-sunset-saver.json](./124328-sunset-saver.json) |
 | Sunset Shapes | 157384 | [157384-sunset-shapes.json](./157384-sunset-shapes.json) |
 | Sunset Shift | 234976 | [234976-sunset-shift.json](./234976-sunset-shift.json) |
 | Sunset Shore | 240438 | [240438-sunset-shore.json](./240438-sunset-shore.json) |
@@ -35306,7 +35310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
 | Super High-Way | 172649 | [172649-super-high-way.json](./172649-super-high-way.json) |
 | Super Hiking League | 122444 | [122444-super-hiking-league.json](./122444-super-hiking-league.json) |
-| Super Hiking League DX | 163174 | [163174-super-hiking-league-dx.json](./163174-super-hiking-league-dx.json) |
 | Super Hiking Simulator 2020 | 129990 | [129990-super-hiking-simulator-2020.json](./129990-super-hiking-simulator-2020.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Escort Rin | 161715 | [161715-super-hiking-simulator-2020-escort-rin.json](./161715-super-hiking-simulator-2020-escort-rin.json) |
