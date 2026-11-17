@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwan Love Story⁵ | 326014 | [326014-taiwan-love-story5.json](./326014-taiwan-love-story5.json) |
 | Taiwan Mahjong | 125867 | [125867-taiwan-mahjong.json](./125867-taiwan-mahjong.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
+| Táiwān Mahjong II | 130417 | [130417-taiwan-mahjong-ii.json](./130417-taiwan-mahjong-ii.json) |
 | Taiwan Monster Fruit: Prologue | 146216 | [146216-taiwan-monster-fruit-prologue.json](./146216-taiwan-monster-fruit-prologue.json) |
 | Taiwan Richman | 148599 | [148599-taiwan-richman.json](./148599-taiwan-richman.json) |
 | Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
@@ -19047,6 +19048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spellbinding Kiss | 299534 | [299534-the-spellbinding-kiss.json](./299534-the-spellbinding-kiss.json) |
 | The Spellswapper | 277449 | [277449-the-spellswapper.json](./277449-the-spellswapper.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
+| The Sperminator: Rescuing Tzar Vlad | 129294 | [129294-the-sperminator-rescuing-tzar-vlad.json](./129294-the-sperminator-rescuing-tzar-vlad.json) |
 | The Spewnicorn | 301249 | [301249-the-spewnicorn.json](./301249-the-spewnicorn.json) |
 | The Sphere | 407456 | [407456-the-sphere.json](./407456-the-sphere.json) |
 | The Sphere of Abyss | 126390 | [126390-the-sphere-of-abyss.json](./126390-the-sphere-of-abyss.json) |
@@ -19234,6 +19236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story Goes On Chapter 6 | 337694 | [337694-the-story-goes-on-chapter-6.json](./337694-the-story-goes-on-chapter-6.json) |
 | The Story Is You: Look Within | 339002 | [339002-the-story-is-you-look-within.json](./339002-the-story-is-you-look-within.json) |
 | The Story Of | 368197 | [368197-the-story-of.json](./368197-the-story-of.json) |
+| The story of a Chinese restaurant | 129293 | [129293-the-story-of-a-chinese-restaurant.json](./129293-the-story-of-a-chinese-restaurant.json) |
 | The Story of a World | 216154 | [216154-the-story-of-a-world.json](./216154-the-story-of-a-world.json) |
 | The Story of Archer | 195901 | [195901-the-story-of-archer.json](./195901-the-story-of-archer.json) |
 | The Story of Atria Land | 146377 | [146377-the-story-of-atria-land.json](./146377-the-story-of-atria-land.json) |
@@ -27668,6 +27671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Necro | 60484 | [60484-tokyo-necro.json](./60484-tokyo-necro.json) |
 | Tokyo Necro: Suicide Mission | 400269 | [400269-tokyo-necro-suicide-mission.json](./400269-tokyo-necro-suicide-mission.json) |
 | Tokyo Neural Groove | 239821 | [239821-tokyo-neural-groove.json](./239821-tokyo-neural-groove.json) |
+| Tokyo Odaiba Casino | 130444 | [130444-tokyo-odaiba-casino.json](./130444-tokyo-odaiba-casino.json) |
 | Tokyo Ogre Gate | 84488 | [84488-tokyo-ogre-gate.json](./84488-tokyo-ogre-gate.json) |
 | Tokyo Onmyouji: Tengenjibashi Rei no Baai - V Edition | 144684 | [144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json](./144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
