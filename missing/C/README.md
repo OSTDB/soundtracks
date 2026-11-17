@@ -12070,7 +12070,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Drone | 233465 | [233465-clone-drone.json](./233465-clone-drone.json) |
 | Clone Drone Danger | 234479 | [234479-clone-drone-danger.json](./234479-clone-drone-danger.json) |
 | Clone Drone in the Danger Zone | 29411 | [29411-clone-drone-in-the-danger-zone.json](./29411-clone-drone-in-the-danger-zone.json) |
-| Clone Drone in the Hyperdome | 322126 | [322126-clone-drone-in-the-hyperdome.json](./322126-clone-drone-in-the-hyperdome.json) |
 | Clone Evolution | 317060 | [317060-clone-evolution.json](./317060-clone-evolution.json) |
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
