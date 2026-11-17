@@ -20363,6 +20363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Championship | 19779 | [19779-motocross-championship.json](./19779-motocross-championship.json) |
 | Motocross Evolution 2025 | 384822 | [384822-motocross-evolution-2025.json](./384822-motocross-evolution-2025.json) |
 | Motocross Extreme Racing 3D | 411457 | [411457-motocross-extreme-racing-3d.json](./411457-motocross-extreme-racing-3d.json) |
+| Motocross FMX | 428902 | [428902-motocross-fmx.json](./428902-motocross-fmx.json) |
 | Motocross Go! | 129113 | [129113-motocross-go.json](./129113-motocross-go.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Madness 2 | 795 | [795-motocross-madness-2.json](./795-motocross-madness-2.json) |
