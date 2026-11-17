@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 21: Ignition - 2022 Patriotic Pack | 263280 | [263280-nascar-21-ignition-2022-patriotic-pack.json](./263280-nascar-21-ignition-2022-patriotic-pack.json) |
 | NASCAR 21: Ignition - 2022 Playoff Pack | 263288 | [263288-nascar-21-ignition-2022-playoff-pack.json](./263288-nascar-21-ignition-2022-playoff-pack.json) |
 | NASCAR 21: Ignition - 2022 Throwback Pack | 263314 | [263314-nascar-21-ignition-2022-throwback-pack.json](./263314-nascar-21-ignition-2022-throwback-pack.json) |
+| Nascar 21: Ignition - Champion's Edition | 170049 | [170049-nascar-21-ignition-champions-edition.json](./170049-nascar-21-ignition-champions-edition.json) |
 | Nascar 21: Ignition - Day 1 Edition | 171271 | [171271-nascar-21-ignition-day-1-edition.json](./171271-nascar-21-ignition-day-1-edition.json) |
 | Nascar 21: Ignition - Patriotic Pack | 227083 | [227083-nascar-21-ignition-patriotic-pack.json](./227083-nascar-21-ignition-patriotic-pack.json) |
 | Nascar 21: Ignition - Throwback Pack | 227084 | [227084-nascar-21-ignition-throwback-pack.json](./227084-nascar-21-ignition-throwback-pack.json) |
@@ -4429,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni no Kuni II: Revenant Kingdom - Adventure Pack | 154454 | [154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json](./154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json) |
 | Ni no Kuni II: Revenant Kingdom - Collector's Edition | 136358 | [136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json](./136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Day One Edition | 136325 | [136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json](./136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json) |
+| Ni no Kuni II: Revenant Kingdom - King's Edition | 166259 | [166259-ni-no-kuni-ii-revenant-kingdom-kings-edition.json](./166259-ni-no-kuni-ii-revenant-kingdom-kings-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Labyrinth of the Ghost King | 111334 | [111334-ni-no-kuni-ii-revenant-kingdom-labyrinth-of-the-ghost-king.json](./111334-ni-no-kuni-ii-revenant-kingdom-labyrinth-of-the-ghost-king.json) |
 | Ni no Kuni II: Revenant Kingdom - Premium Edition | 136328 | [136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json](./136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
