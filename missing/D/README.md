@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Gazers: Next Stop | 170224 | [170224-danger-gazers-next-stop.json](./170224-danger-gazers-next-stop.json) |
 | Danger Girl | 45226 | [45226-danger-girl.json](./45226-danger-girl.json) |
 | Danger Goat | 56939 | [56939-danger-goat.json](./56939-danger-goat.json) |
+| Danger Grid | 107309 | [107309-danger-grid.json](./107309-danger-grid.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
 | Danger is Near | 247923 | [247923-danger-is-near.json](./247923-danger-is-near.json) |
@@ -8317,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desierto | 327872 | [327872-desierto.json](./327872-desierto.json) |
 | Design & Conjure | 270984 | [270984-design-and-conjure.json](./270984-design-and-conjure.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
+| Design Hero | 107305 | [107305-design-hero.json](./107305-design-hero.json) |
 | Design Home | 54707 | [54707-design-home.json](./54707-design-home.json) |
 | Design It Girl! | 96306 | [96306-design-it-girl.json](./96306-design-it-girl.json) |
 | Design it, Drive it: Speedboats | 32081 | [32081-design-it-drive-it-speedboats.json](./32081-design-it-drive-it-speedboats.json) |
