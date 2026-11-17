@@ -10433,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Shades | 26832 | [26832-black-shades.json](./26832-black-shades.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
 | Black Shadow | 365197 | [365197-black-shadow.json](./365197-black-shadow.json) |
+| Black Shark: Flight Sim | 95701 | [95701-black-shark-flight-sim.json](./95701-black-shark-flight-sim.json) |
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
 | Black Sheep | 230681 | [230681-black-sheep.json](./230681-black-sheep.json) |
