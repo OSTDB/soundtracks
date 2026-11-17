@@ -35281,7 +35281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron Run/r: Disc Extender Bundle | 170093 | [170093-tron-run-r-disc-extender-bundle.json](./170093-tron-run-r-disc-extender-bundle.json) |
 | Tron Run/r: Outlands | 170984 | [170984-tron-run-r-outlands.json](./170984-tron-run-r-outlands.json) |
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
-| Tron: Catalyst | 319717 | [319717-tron-catalyst.json](./319717-tron-catalyst.json) |
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
 | Tron: Evolution | 208754 | [208754-tron-evolution.json](./208754-tron-evolution.json) |
 | Tron: Evolution | 381659 | [381659-tron-evolution.json](./381659-tron-evolution.json) |
