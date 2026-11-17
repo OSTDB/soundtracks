@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW Nitro Goldberg Smash & Bash Game | 198959 | [198959-wcw-nitro-goldberg-smash-and-bash-game.json](./198959-wcw-nitro-goldberg-smash-and-bash-game.json) |
 | WCW Nitro Hollywood Hogan | 217969 | [217969-wcw-nitro-hollywood-hogan.json](./217969-wcw-nitro-hollywood-hogan.json) |
 | WCW Nitro Sting | 198960 | [198960-wcw-nitro-sting.json](./198960-wcw-nitro-sting.json) |
+| WCW nWo Grudge Match | 198988 | [198988-wcw-nwo-grudge-match.json](./198988-wcw-nwo-grudge-match.json) |
 | WCW nWo Thunder | 198962 | [198962-wcw-nwo-thunder.json](./198962-wcw-nwo-thunder.json) |
 | WCW Sting | 217952 | [217952-wcw-sting.json](./217952-wcw-sting.json) |
 | WCW SuperBrawl Wrestling | 38404 | [38404-wcw-superbrawl-wrestling.json](./38404-wcw-superbrawl-wrestling.json) |
@@ -4428,11 +4429,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
 | Wheel of Fortune 2 | 91671 | [91671-wheel-of-fortune-2.json](./91671-wheel-of-fortune-2.json) |
 | Wheel of Fortune Cartridge #1 | 198965 | [198965-wheel-of-fortune-cartridge-1.json](./198965-wheel-of-fortune-cartridge-1.json) |
+| Wheel of Fortune Cartridge #10 | 198974 | [198974-wheel-of-fortune-cartridge-10.json](./198974-wheel-of-fortune-cartridge-10.json) |
+| Wheel of Fortune Cartridge #11 | 198975 | [198975-wheel-of-fortune-cartridge-11.json](./198975-wheel-of-fortune-cartridge-11.json) |
+| Wheel of Fortune Cartridge #12 | 198976 | [198976-wheel-of-fortune-cartridge-12.json](./198976-wheel-of-fortune-cartridge-12.json) |
 | Wheel of Fortune Cartridge #2 | 198966 | [198966-wheel-of-fortune-cartridge-2.json](./198966-wheel-of-fortune-cartridge-2.json) |
 | Wheel of Fortune Cartridge #3 | 198967 | [198967-wheel-of-fortune-cartridge-3.json](./198967-wheel-of-fortune-cartridge-3.json) |
+| Wheel of Fortune Cartridge #4 | 198968 | [198968-wheel-of-fortune-cartridge-4.json](./198968-wheel-of-fortune-cartridge-4.json) |
+| Wheel of Fortune Cartridge #5 | 198969 | [198969-wheel-of-fortune-cartridge-5.json](./198969-wheel-of-fortune-cartridge-5.json) |
+| Wheel of Fortune Cartridge #6 | 198970 | [198970-wheel-of-fortune-cartridge-6.json](./198970-wheel-of-fortune-cartridge-6.json) |
+| Wheel of Fortune Cartridge #7 | 198971 | [198971-wheel-of-fortune-cartridge-7.json](./198971-wheel-of-fortune-cartridge-7.json) |
+| Wheel of Fortune Cartridge #8 | 198972 | [198972-wheel-of-fortune-cartridge-8.json](./198972-wheel-of-fortune-cartridge-8.json) |
+| Wheel of Fortune Cartridge #9 | 198973 | [198973-wheel-of-fortune-cartridge-9.json](./198973-wheel-of-fortune-cartridge-9.json) |
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
+| Wheel of Fortune Deluxe | 198977 | [198977-wheel-of-fortune-deluxe.json](./198977-wheel-of-fortune-deluxe.json) |
+| Wheel of Fortune Deluxe Cartridge #1 | 198978 | [198978-wheel-of-fortune-deluxe-cartridge-1.json](./198978-wheel-of-fortune-deluxe-cartridge-1.json) |
+| Wheel of Fortune Deluxe Cartridge #2 | 198979 | [198979-wheel-of-fortune-deluxe-cartridge-2.json](./198979-wheel-of-fortune-deluxe-cartridge-2.json) |
+| Wheel of Fortune Deluxe Cartridge #3 | 198980 | [198980-wheel-of-fortune-deluxe-cartridge-3.json](./198980-wheel-of-fortune-deluxe-cartridge-3.json) |
+| Wheel of Fortune Jr. | 198981 | [198981-wheel-of-fortune-jr.json](./198981-wheel-of-fortune-jr.json) |
 | Wheel of Fortune Puzzle Pop | 56820 | [56820-wheel-of-fortune-puzzle-pop.json](./56820-wheel-of-fortune-puzzle-pop.json) |
+| Wheel of Fortune Slots | 198982 | [198982-wheel-of-fortune-slots.json](./198982-wheel-of-fortune-slots.json) |
 | Wheel of Fortune: 2nd Edition | 43910 | [43910-wheel-of-fortune-2nd-edition.json](./43910-wheel-of-fortune-2nd-edition.json) |
 | Wheel of Fortune: Deluxe Edition | 42424 | [42424-wheel-of-fortune-deluxe-edition.json](./42424-wheel-of-fortune-deluxe-edition.json) |
 | Wheel of Fortune: Family Edition | 48258 | [48258-wheel-of-fortune-family-edition.json](./48258-wheel-of-fortune-family-edition.json) |
@@ -4666,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the U.S.A. is Carmen Sandiego?: Deluxe Edition | 71122 | [71122-where-in-the-u-s-a-is-carmen-sandiego-deluxe-edition.json](./71122-where-in-the-u-s-a-is-carmen-sandiego-deluxe-edition.json) |
 | Where in the USA is Carmen Sandiego? (Enhanced) | 66348 | [66348-where-in-the-usa-is-carmen-sandiego-enhanced.json](./66348-where-in-the-usa-is-carmen-sandiego-enhanced.json) |
 | Where in the World is Carmen Sandiego? | 172318 | [172318-where-in-the-world-is-carmen-sandiego.json](./172318-where-in-the-world-is-carmen-sandiego.json) |
+| Where in the World Is Carmen Sandiego? | 198983 | [198983-where-in-the-world-is-carmen-sandiego.json](./198983-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 242316 | [242316-where-in-the-world-is-carmen-sandiego.json](./242316-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 299326 | [299326-where-in-the-world-is-carmen-sandiego.json](./299326-where-in-the-world-is-carmen-sandiego.json) |
@@ -5406,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Bloonionaire? | 389339 | [389339-who-wants-to-be-a-bloonionaire.json](./389339-who-wants-to-be-a-bloonionaire.json) |
 | Who Wants to Be a Hypnoslut? | 263668 | [263668-who-wants-to-be-a-hypnoslut.json](./263668-who-wants-to-be-a-hypnoslut.json) |
 | Who Wants to Be a Millionaire | 139936 | [139936-who-wants-to-be-a-millionaire.json](./139936-who-wants-to-be-a-millionaire.json) |
+| Who Wants to Be a Millionaire | 198984 | [198984-who-wants-to-be-a-millionaire.json](./198984-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 210722 | [210722-who-wants-to-be-a-millionaire.json](./210722-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 243 | [243-who-wants-to-be-a-millionaire.json](./243-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 310596 | [310596-who-wants-to-be-a-millionaire.json](./310596-who-wants-to-be-a-millionaire.json) |
@@ -10616,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF SmackDown! 2: Know Your Role | 6444 | [6444-wwf-smackdown-2-know-your-role.json](./6444-wwf-smackdown-2-know-your-role.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
 | WWF Superstars | 100296 | [100296-wwf-superstars.json](./100296-wwf-superstars.json) |
+| WWF Superstars | 198989 | [198989-wwf-superstars.json](./198989-wwf-superstars.json) |
 | WWF War Zone | 206032 | [206032-wwf-war-zone.json](./206032-wwf-war-zone.json) |
 | WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
 | WWF WrestleFest | 39334 | [39334-wwf-wrestlefest.json](./39334-wwf-wrestlefest.json) |
