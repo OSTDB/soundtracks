@@ -6414,7 +6414,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Adventures of Ash - Afterparty | 33634 | [33634-the-amazing-adventures-of-ash-afterparty.json](./33634-the-amazing-adventures-of-ash-afterparty.json) |
 | The Amazing Adventures of Lady Fanny Featherstone | 100534 | [100534-the-amazing-adventures-of-lady-fanny-featherstone.json](./100534-the-amazing-adventures-of-lady-fanny-featherstone.json) |
 | The Amazing Adventures of Lucy Lavender | 71132 | [71132-the-amazing-adventures-of-lucy-lavender.json](./71132-the-amazing-adventures-of-lucy-lavender.json) |
-| The Amazing American Circus | 140559 | [140559-the-amazing-american-circus.json](./140559-the-amazing-american-circus.json) |
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
 | The Amazing Ball | 159555 | [159555-the-amazing-ball.json](./159555-the-amazing-ball.json) |
 | The Amazing Bernard | 96657 | [96657-the-amazing-bernard.json](./96657-the-amazing-bernard.json) |
