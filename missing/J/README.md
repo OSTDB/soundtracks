@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Patterson: Women's Murder Club - Games of Passion | 47831 | [47831-james-patterson-womens-murder-club-games-of-passion.json](./47831-james-patterson-womens-murder-club-games-of-passion.json) |
 | James Peris 2: The Fountain of Eternal Drunkenness | 188533 | [188533-james-peris-2-the-fountain-of-eternal-drunkenness.json](./188533-james-peris-2-the-fountain-of-eternal-drunkenness.json) |
 | James Peris es el Agente 00,5 | 323045 | [323045-james-peris-es-el-agente-00-5.json](./323045-james-peris-es-el-agente-00-5.json) |
+| James Peris: Sin licencia ni control - Edición definitiva | 131630 | [131630-james-peris-sin-licencia-ni-control-edicion-definitiva.json](./131630-james-peris-sin-licencia-ni-control-edicion-definitiva.json) |
 | James Pond 2: Codename - RoboCod | 230868 | [230868-james-pond-2-codename-robocod.json](./230868-james-pond-2-codename-robocod.json) |
 | James Pond 2: Codename - RoboCod | 368921 | [368921-james-pond-2-codename-robocod.json](./368921-james-pond-2-codename-robocod.json) |
 | James Pond 2: Codename - RoboCod | 4443 | [4443-james-pond-2-codename-robocod.json](./4443-james-pond-2-codename-robocod.json) |
@@ -1090,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeju's Fantasy | 236137 | [236137-jejus-fantasy.json](./236137-jejus-fantasy.json) |
 | Jeklynn Heights | 30247 | [30247-jeklynn-heights.json](./30247-jeklynn-heights.json) |
 | Jekoos Ware | 137431 | [137431-jekoos-ware.json](./137431-jekoos-ware.json) |
+| JekoosWare | 131636 | [131636-jekoosware.json](./131636-jekoosware.json) |
 | Jekyll & Hyde | 10471 | [10471-jekyll-and-hyde.json](./10471-jekyll-and-hyde.json) |
 | Jekyll Hakase no Houma ga Toki | 275067 | [275067-jekyll-hakase-no-houma-ga-toki.json](./275067-jekyll-hakase-no-houma-ga-toki.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
@@ -3045,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoshGeoff Weiner Simulator | 327837 | [327837-joshgeoff-weiner-simulator.json](./327837-joshgeoff-weiner-simulator.json) |
 | Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
 | Joshikou Seifuku Monogatari | 230216 | [230216-joshikou-seifuku-monogatari.json](./230216-joshikou-seifuku-monogatari.json) |
+| Joshikousei Nigeru! Shinrei Puzzle Gakuen | 130441 | [130441-joshikousei-nigeru-shinrei-puzzle-gakuen.json](./130441-joshikousei-nigeru-shinrei-puzzle-gakuen.json) |
 | Joshiryo Panic | 67401 | [67401-joshiryo-panic.json](./67401-joshiryo-panic.json) |
 | Josho | 83445 | [83445-josho.json](./83445-josho.json) |
 | Joshua & The Battle of Jericho | 46186 | [46186-joshua-and-the-battle-of-jericho.json](./46186-joshua-and-the-battle-of-jericho.json) |
@@ -3715,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Skunk | 247298 | [247298-jump-skunk.json](./247298-jump-skunk.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Soul | 130035 | [130035-jump-soul.json](./130035-jump-soul.json) |
+| Jump Space | 130421 | [130421-jump-space.json](./130421-jump-space.json) |
 | Jump Space Joyride | 403949 | [403949-jump-space-joyride.json](./403949-jump-space-joyride.json) |
 | Jump Squad | 218412 | [218412-jump-squad.json](./218412-jump-squad.json) |
 | Jump Squared | 176681 | [176681-jump-squared.json](./176681-jump-squared.json) |
