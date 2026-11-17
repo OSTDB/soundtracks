@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
 | Sacra Terra: Angelic Night | 53564 | [53564-sacra-terra-angelic-night.json](./53564-sacra-terra-angelic-night.json) |
 | Sacra Terra: Angelic Night - Collector's Edition | 25475 | [25475-sacra-terra-angelic-night-collectors-edition.json](./25475-sacra-terra-angelic-night-collectors-edition.json) |
+| Sacra Terra: Kiss of Death | 52810 | [52810-sacra-terra-kiss-of-death.json](./52810-sacra-terra-kiss-of-death.json) |
 | Sacra Terra: Kiss of Death - Collector's Edition | 30386 | [30386-sacra-terra-kiss-of-death-collectors-edition.json](./30386-sacra-terra-kiss-of-death-collectors-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacraboar | 16111 | [16111-sacraboar.json](./16111-sacraboar.json) |
@@ -1452,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Bamboo | 120290 | [120290-samurai-bamboo.json](./120290-samurai-bamboo.json) |
 | Samurai Beat | 253866 | [253866-samurai-beat.json](./253866-samurai-beat.json) |
 | Samurai Beat Demon | 365971 | [365971-samurai-beat-demon.json](./365971-samurai-beat-demon.json) |
+| Samurai Beatdown | 52804 | [52804-samurai-beatdown.json](./52804-samurai-beatdown.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Blitz | 130573 | [130573-samurai-blitz.json](./130573-samurai-blitz.json) |
 | Samurai Blitz EX | 345798 | [345798-samurai-blitz-ex.json](./345798-samurai-blitz-ex.json) |
@@ -3593,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scissor Girl's Weed Crisis | 309720 | [309720-scissor-girls-weed-crisis.json](./309720-scissor-girls-weed-crisis.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Scissors in Hell | 216931 | [216931-scissors-in-hell.json](./216931-scissors-in-hell.json) |
+| Scivelation | 52800 | [52800-scivelation.json](./52800-scivelation.json) |
 | Scivelation | 84369 | [84369-scivelation.json](./84369-scivelation.json) |
 | Scivics | 348540 | [348540-scivics.json](./348540-scivics.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
@@ -3697,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scopecreep | 370891 | [370891-scopecreep.json](./370891-scopecreep.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
+| Scopophobia | 52798 | [52798-scopophobia.json](./52798-scopophobia.json) |
 | Scopus | 133723 | [133723-scopus.json](./133723-scopus.json) |
 | Scorb VR | 75082 | [75082-scorb-vr.json](./75082-scorb-vr.json) |
 | Scorch | 128792 | [128792-scorch.json](./128792-scorch.json) |
@@ -3973,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
 | Scram 81 | 319528 | [319528-scram-81.json](./319528-scram-81.json) |
 | Scram Kitty and His Buddy on Rails | 22259 | [22259-scram-kitty-and-his-buddy-on-rails.json](./22259-scram-kitty-and-his-buddy-on-rails.json) |
+| Scram Kitty DX | 52797 | [52797-scram-kitty-dx.json](./52797-scram-kitty-dx.json) |
 | Scram: Scrammer's Pack | 270035 | [270035-scram-scrammers-pack.json](./270035-scram-scrammers-pack.json) |
 | Scram! | 265294 | [265294-scram.json](./265294-scram.json) |
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
@@ -4104,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratch Your Luck | 424012 | [424012-scratch-your-luck.json](./424012-scratch-your-luck.json) |
+| Scratch: The Ultimate DJ | 52796 | [52796-scratch-the-ultimate-dj.json](./52796-scratch-the-ultimate-dj.json) |
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
 | Scratches: Director's Cut | 51365 | [51365-scratches-directors-cut.json](./51365-scratches-directors-cut.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
@@ -11333,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization V: Gold Edition | 50880 | [50880-sid-meiers-civilization-v-gold-edition.json](./50880-sid-meiers-civilization-v-gold-edition.json) |
 | Sid Meier's Civilization V: Scenario Pack - Conquest of the New World Deluxe | 349021 | [349021-sid-meiers-civilization-v-scenario-pack-conquest-of-the-new-world-deluxe.json](./349021-sid-meiers-civilization-v-scenario-pack-conquest-of-the-new-world-deluxe.json) |
 | Sid Meier's Civilization V: Scenario Pack - Wonders of the Ancient World | 164388 | [164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json](./164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json) |
+| Sid Meier's Civilization V: Scrambled Continents | 52806 | [52806-sid-meiers-civilization-v-scrambled-continents.json](./52806-sid-meiers-civilization-v-scrambled-continents.json) |
 | Sid Meier's Civilization V: Scrambled Nations Map Pack | 164390 | [164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json](./164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json) |
 | Sid Meier's Civilization VI Anthology | 153047 | [153047-sid-meiers-civilization-vi-anthology.json](./153047-sid-meiers-civilization-vi-anthology.json) |
 | Sid Meier's Civilization VI: Akbar Pack | 277529 | [277529-sid-meiers-civilization-vi-akbar-pack.json](./277529-sid-meiers-civilization-vi-akbar-pack.json) |
@@ -14258,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Die | 349967 | [349967-sky-die.json](./349967-sky-die.json) |
 | Sky Diver | 239491 | [239491-sky-diver.json](./239491-sky-diver.json) |
+| Sky Diving | 52823 | [52823-sky-diving.json](./52823-sky-diving.json) |
 | Sky Diving: Parachute Flight Simulator | 329431 | [329431-sky-diving-parachute-flight-simulator.json](./329431-sky-diving-parachute-flight-simulator.json) |
 | Sky Division | 246786 | [246786-sky-division.json](./246786-sky-division.json) |
 | Sky Dodge | 98714 | [98714-sky-dodge.json](./98714-sky-dodge.json) |
@@ -14303,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Goddess Ⅱ: DLC-2 | 170176 | [170176-sky-goddess-ii-dlc-2.json](./170176-sky-goddess-ii-dlc-2.json) |
 | Sky Goddess Ⅱ: DLC-4 | 170175 | [170175-sky-goddess-ii-dlc-4.json](./170175-sky-goddess-ii-dlc-4.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
+| Sky Gods | 52820 | [52820-sky-gods.json](./52820-sky-gods.json) |
 | Sky Guy Gone AWOL | 381759 | [381759-sky-guy-gone-awol.json](./381759-sky-guy-gone-awol.json) |
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
 | Sky Harvest | 258242 | [258242-sky-harvest.json](./258242-sky-harvest.json) |
@@ -14510,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skycurser | 68384 | [68384-skycurser.json](./68384-skycurser.json) |
 | Skydance's Behemoth: Rites of Wrath | 347154 | [347154-skydances-behemoth-rites-of-wrath.json](./347154-skydances-behemoth-rites-of-wrath.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
+| Skydive: Proximity Flight | 52819 | [52819-skydive-proximity-flight.json](./52819-skydive-proximity-flight.json) |
 | Skydive! | 62234 | [62234-skydive.json](./62234-skydive.json) |
 | SkydiVeR | 114837 | [114837-skydiver.json](./114837-skydiver.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
@@ -17094,6 +17104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnarfQuest Tales, Episode 1: The Beginning | 32689 | [32689-snarfquest-tales-episode-1-the-beginning.json](./32689-snarfquest-tales-episode-1-the-beginning.json) |
 | Snark Busters Trilogy | 53639 | [53639-snark-busters-trilogy.json](./53639-snark-busters-trilogy.json) |
 | Snark Busters: All Revved Up | 96592 | [96592-snark-busters-all-revved-up.json](./96592-snark-busters-all-revved-up.json) |
+| Snark Busters: High Society | 52814 | [52814-snark-busters-high-society.json](./52814-snark-busters-high-society.json) |
 | Snark Busters: Welcome to the Club | 53638 | [53638-snark-busters-welcome-to-the-club.json](./53638-snark-busters-welcome-to-the-club.json) |
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
 | Snatch | 381545 | [381545-snatch.json](./381545-snatch.json) |
