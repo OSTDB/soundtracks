@@ -5195,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
+| Life of Tar | 41044 | [41044-life-of-tar.json](./41044-life-of-tar.json) |
 | Life of Thife | 277125 | [277125-life-of-thife.json](./277125-life-of-thife.json) |
 | Life of Trophy | 172305 | [172305-life-of-trophy.json](./172305-life-of-trophy.json) |
 | Life of Wolf 2014 | 87444 | [87444-life-of-wolf-2014.json](./87444-life-of-wolf-2014.json) |
@@ -7671,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock Parsing 2 | 86471 | [86471-lock-parsing-2.json](./86471-lock-parsing-2.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
 | Lock-n-Load | 131735 | [131735-lock-n-load.json](./131735-lock-n-load.json) |
+| Lock-On | 41067 | [41067-lock-on.json](./41067-lock-on.json) |
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
 | Lock. Stock. And Hungry Pumpkins. | 330481 | [330481-lock-stock-and-hungry-pumpkins.json](./330481-lock-stock-and-hungry-pumpkins.json) |
 | Lock's Quest | 18264 | [18264-locks-quest.json](./18264-locks-quest.json) |
@@ -9601,6 +9603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
 | Lost Valley | 170337 | [170337-lost-valley.json](./170337-lost-valley.json) |
 | Lost Valley of the Frog King | 333477 | [333477-lost-valley-of-the-frog-king.json](./333477-lost-valley-of-the-frog-king.json) |
+| Lost Vault | 43358 | [43358-lost-vault.json](./43358-lost-vault.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lost Vessel | 423056 | [423056-lost-vessel.json](./423056-lost-vessel.json) |
 | Lost Viking: Kingdom of Women | 123890 | [123890-lost-viking-kingdom-of-women.json](./123890-lost-viking-kingdom-of-women.json) |
