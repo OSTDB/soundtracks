@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valorant Mobile | 174596 | [174596-valorant-mobile.json](./174596-valorant-mobile.json) |
 | Valorborn | 369923 | [369923-valorborn.json](./369923-valorborn.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
+| Valorian Online | 427083 | [427083-valorian-online.json](./427083-valorian-online.json) |
 | Valorous | 258408 | [258408-valorous.json](./258408-valorous.json) |
 | Valortha | 29646 | [29646-valortha.json](./29646-valortha.json) |
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Scary Game | 420657 | [420657-very-scary-game.json](./420657-very-scary-game.json) |
 | Very Scary Gays | 177909 | [177909-very-scary-gays.json](./177909-very-scary-gays.json) |
 | Very Serious Future Detective | 179090 | [179090-very-serious-future-detective.json](./179090-very-serious-future-detective.json) |
+| Very Spooky Horror 2 (Most Horror Ever) | 427128 | [427128-very-spooky-horror-2-most-horror-ever.json](./427128-very-spooky-horror-2-most-horror-ever.json) |
 | Very Unserious Game | 346502 | [346502-very-unserious-game.json](./346502-very-unserious-game.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
