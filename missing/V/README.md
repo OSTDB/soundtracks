@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentine's Day Griddlers | 181073 | [181073-valentines-day-griddlers.json](./181073-valentines-day-griddlers.json) |
 | Valentine's Day Griddlers 2 | 199333 | [199333-valentines-day-griddlers-2.json](./199333-valentines-day-griddlers-2.json) |
 | Valentine's Day Virus | 214967 | [214967-valentines-day-virus.json](./214967-valentines-day-virus.json) |
+| Valentine's Rain | 178715 | [178715-valentines-rain.json](./178715-valentines-rain.json) |
 | Valentine's Venture: True Love Odyssey | 333742 | [333742-valentines-venture-true-love-odyssey.json](./333742-valentines-venture-true-love-odyssey.json) |
 | Valentines Cafe | 114977 | [114977-valentines-cafe.json](./114977-valentines-cafe.json) |
 | Valentines Desire: Steam Edition | 130956 | [130956-valentines-desire-steam-edition.json](./130956-valentines-desire-steam-edition.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorian Mysteries: Woman in White | 119838 | [119838-victorian-mysteries-woman-in-white.json](./119838-victorian-mysteries-woman-in-white.json) |
 | Victorian Park | 134166 | [134166-victorian-park.json](./134166-victorian-park.json) |
 | Victoriana - Steampunk Text Adventure | 123965 | [123965-victoriana-steampunk-text-adventure.json](./123965-victoriana-steampunk-text-adventure.json) |
+| Victorious | 178692 | [178692-victorious.json](./178692-victorious.json) |
 | Victorious | 302002 | [302002-victorious.json](./302002-victorious.json) |
 | Victorious Boxers 2: Fighting Spirit | 22450 | [22450-victorious-boxers-2-fighting-spirit.json](./22450-victorious-boxers-2-fighting-spirit.json) |
 | Victorious Boxers: Ippo's Road to Glory | 43527 | [43527-victorious-boxers-ippos-road-to-glory.json](./43527-victorious-boxers-ippos-road-to-glory.json) |
