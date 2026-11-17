@@ -8105,6 +8105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibisu's Costume Combat | 110451 | [110451-chibisus-costume-combat.json](./110451-chibisus-costume-combat.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
 | Chibits | 150471 | [150471-chibits.json](./150471-chibits.json) |
+| Chibits: The King's Tomb | 417931 | [417931-chibits-the-kings-tomb.json](./417931-chibits-the-kings-tomb.json) |
 | Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
 | Chica Simulator | 369663 | [369663-chica-simulator.json](./369663-chica-simulator.json) |
@@ -11916,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb | 182760 | [182760-climb.json](./182760-climb.json) |
 | Climb | 184158 | [184158-climb.json](./184158-climb.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
+| Climb | 417704 | [417704-climb.json](./417704-climb.json) |
 | Climb and Cry | 405627 | [405627-climb-and-cry.json](./405627-climb-and-cry.json) |
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
 | Climb and Fight: Mafia | 211879 | [211879-climb-and-fight-mafia.json](./211879-climb-and-fight-mafia.json) |
@@ -21008,6 +21010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Attack | 406095 | [406095-cruise-attack.json](./406095-cruise-attack.json) |
 | Cruise Chaser Blassty | 66724 | [66724-cruise-chaser-blassty.json](./66724-cruise-chaser-blassty.json) |
+| Cruise Clues: Caribbean Adventure | 417720 | [417720-cruise-clues-caribbean-adventure.json](./417720-cruise-clues-caribbean-adventure.json) |
 | Cruise Control | 252315 | [252315-cruise-control.json](./252315-cruise-control.json) |
 | Cruise Control | 374982 | [374982-cruise-control.json](./374982-cruise-control.json) |
 | Cruise Control Mode On! | 219232 | [219232-cruise-control-mode-on.json](./219232-cruise-control-mode-on.json) |
