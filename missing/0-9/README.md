@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1917: The Alien Invasion DX | 32692 | [32692-1917-the-alien-invasion-dx.json](./32692-1917-the-alien-invasion-dx.json) |
 | 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
 | 1919 | 189015 | [189015-1919.json](./189015-1919.json) |
+| 1921: Shadow of the Old World | 180729 | [180729-1921-shadow-of-the-old-world.json](./180729-1921-shadow-of-the-old-world.json) |
 | 1930 Langman Tan | 187087 | [187087-1930-langman-tan.json](./187087-1930-langman-tan.json) |
 | 1930: Ink & Bullets | 415652 | [415652-1930-ink-and-bullets.json](./415652-1930-ink-and-bullets.json) |
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
@@ -2639,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Cube Hopper | 408462 | [408462-3d-cube-hopper.json](./408462-3d-cube-hopper.json) |
 | 3D Custom Girl | 92660 | [92660-3d-custom-girl.json](./92660-3d-custom-girl.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
+| 3D Dark-Stalker: Destruction Simulator | 180330 | [180330-3d-dark-stalker-destruction-simulator.json](./180330-3d-dark-stalker-destruction-simulator.json) |
 | 3D Deathchase | 23075 | [23075-3d-deathchase.json](./23075-3d-deathchase.json) |
 | 3D Deer Sniper Hunting Game 2017 | 94783 | [94783-3d-deer-sniper-hunting-game-2017.json](./94783-3d-deer-sniper-hunting-game-2017.json) |
 | 3D Defenders | 140266 | [140266-3d-defenders.json](./140266-3d-defenders.json) |
