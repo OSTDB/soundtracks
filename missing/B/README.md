@@ -6123,7 +6123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Shot | 208220 | [208220-beat-shot.json](./208220-beat-shot.json) |
 | Beat Sketcher | 52152 | [52152-beat-sketcher.json](./52152-beat-sketcher.json) |
 | Beat Slash 2 | 216129 | [216129-beat-slash-2.json](./216129-beat-slash-2.json) |
-| Beat Slayer | 244838 | [244838-beat-slayer.json](./244838-beat-slayer.json) |
 | Beat Slicer | 410273 | [410273-beat-slicer.json](./410273-beat-slicer.json) |
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
 | Beat Souls | 149031 | [149031-beat-souls.json](./149031-beat-souls.json) |
@@ -8890,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuriman Daijiten | 269720 | [269720-bikkuriman-daijiten.json](./269720-bikkuriman-daijiten.json) |
 | Bikkuriman Kanjuku Haou Sanmi Douran Sensouki | 91782 | [91782-bikkuriman-kanjuku-haou-sanmi-douran-sensouki.json](./91782-bikkuriman-kanjuku-haou-sanmi-douran-sensouki.json) |
 | Bikkuriman Wonder Collection | 303819 | [303819-bikkuriman-wonder-collection.json](./303819-bikkuriman-wonder-collection.json) |
+| Bikkuriman World | 135932 | [135932-bikkuriman-world.json](./135932-bikkuriman-world.json) |
 | Bikkuriman World: Gekitou Sei Senshi | 48544 | [48544-bikkuriman-world-gekitou-sei-senshi.json](./48544-bikkuriman-world-gekitou-sei-senshi.json) |
 | Bikmin 269 | 250149 | [250149-bikmin-269.json](./250149-bikmin-269.json) |
 | Bikmin 269 DX: Director's Cut | 321833 | [321833-bikmin-269-dx-directors-cut.json](./321833-bikmin-269-dx-directors-cut.json) |
@@ -11019,6 +11019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous: Digital Deluxe Edition | 227410 | [227410-blasphemous-digital-deluxe-edition.json](./227410-blasphemous-digital-deluxe-edition.json) |
 | Blasphemous: Martyrs' Edition | 409699 | [409699-blasphemous-martyrs-edition.json](./409699-blasphemous-martyrs-edition.json) |
 | Blasphemous: Strife & Ruin | 229861 | [229861-blasphemous-strife-and-ruin.json](./229861-blasphemous-strife-and-ruin.json) |
+| Blasphemous: The Stir of Dawn | 135923 | [135923-blasphemous-the-stir-of-dawn.json](./135923-blasphemous-the-stir-of-dawn.json) |
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
 | Blast | 55758 | [55758-blast.json](./55758-blast.json) |
 | Blast | 88710 | [88710-blast.json](./88710-blast.json) |
@@ -13752,6 +13753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobby | 214017 | [214017-bobby.json](./214017-bobby.json) |
 | Bobby Bearing | 13415 | [13415-bobby-bearing.json](./13415-bobby-bearing.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
+| Bobby Carrot 4: Flower Power | 135939 | [135939-bobby-carrot-4-flower-power.json](./135939-bobby-carrot-4-flower-power.json) |
 | Bobby Carrot Forever | 51083 | [51083-bobby-carrot-forever.json](./51083-bobby-carrot-forever.json) |
 | Bobby Charlton Soccer | 15681 | [15681-bobby-charlton-soccer.json](./15681-bobby-charlton-soccer.json) |
 | Bobby Da Arrow | 102043 | [102043-bobby-da-arrow.json](./102043-bobby-da-arrow.json) |
@@ -16860,6 +16862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Odyssea | 26976 | [26976-brave-odyssea.json](./26976-brave-odyssea.json) |
 | Brave Paradise | 177898 | [177898-brave-paradise.json](./177898-brave-paradise.json) |
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
+| Brave Pinball | 135933 | [135933-brave-pinball.json](./135933-brave-pinball.json) |
 | Brave point kill | 159998 | [159998-brave-point-kill.json](./159998-brave-point-kill.json) |
 | Brave Princess Milia | 192240 | [192240-brave-princess-milia.json](./192240-brave-princess-milia.json) |
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
