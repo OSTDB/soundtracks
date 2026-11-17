@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
 | Dashing Fire | 132908 | [132908-dashing-fire.json](./132908-dashing-fire.json) |
+| Dashing Krew | 419258 | [419258-dashing-krew.json](./419258-dashing-krew.json) |
 | Dashing Mariachis | 199419 | [199419-dashing-mariachis.json](./199419-dashing-mariachis.json) |
 | Dashing Nineties: R.M.D. | 43143 | [43143-dashing-nineties-r-m-d.json](./43143-dashing-nineties-r-m-d.json) |
 | Dashing Orange | 197452 | [197452-dashing-orange.json](./197452-dashing-orange.json) |
@@ -7843,6 +7844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Departed Away | 265112 | [265112-departed-away.json](./265112-departed-away.json) |
 | Department 14 | 271656 | [271656-department-14.json](./271656-department-14.json) |
 | Department 42: The Mystery of the Nine | 50464 | [50464-department-42-the-mystery-of-the-nine.json](./50464-department-42-the-mystery-of-the-nine.json) |
+| Department 98 | 419292 | [419292-department-98.json](./419292-department-98.json) |
 | Department of Collections | 306029 | [306029-department-of-collections.json](./306029-department-of-collections.json) |
 | Department of Missing Persons | 400287 | [400287-department-of-missing-persons.json](./400287-department-of-missing-persons.json) |
 | Department of the Devil | 217173 | [217173-department-of-the-devil.json](./217173-department-of-the-devil.json) |
@@ -10103,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Die Die | 346218 | [346218-die-die-die.json](./346218-die-die-die.json) |
 | Die Die Die and Try | 195116 | [195116-die-die-die-and-try.json](./195116-die-die-die-and-try.json) |
 | Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
+| Die Diver | 419271 | [419271-die-diver.json](./419271-die-diver.json) |
 | Die Drachen von Laas | 70209 | [70209-die-drachen-von-laas.json](./70209-die-drachen-von-laas.json) |
 | Die drei ??? - Das Geheimnis des Magiers | 125036 | [125036-die-drei-das-geheimnis-des-magiers.json](./125036-die-drei-das-geheimnis-des-magiers.json) |
 | Die drei ??? 2 - Bomben in Rocky Beach | 125284 | [125284-die-drei-2-bomben-in-rocky-beach.json](./125284-die-drei-2-bomben-in-rocky-beach.json) |
@@ -10947,6 +10950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Breeder 4 | 65587 | [65587-dino-breeder-4.json](./65587-dino-breeder-4.json) |
 | Dino Bros | 371323 | [371323-dino-bros.json](./371323-dino-bros.json) |
 | Dino Cap | 376499 | [376499-dino-cap.json](./376499-dino-cap.json) |
+| Dino Card Hunt | 419275 | [419275-dino-card-hunt.json](./419275-dino-card-hunt.json) |
 | Dino Cats | 291411 | [291411-dino-cats.json](./291411-dino-cats.json) |
 | Dino Chomp | 351695 | [351695-dino-chomp.json](./351695-dino-chomp.json) |
 | Dino Citadel | 365977 | [365977-dino-citadel.json](./365977-dino-citadel.json) |
@@ -13864,6 +13868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Hamster 2 | 125565 | [125565-dokodemo-hamster-2.json](./125565-dokodemo-hamster-2.json) |
 | Dokodemo Hamster 3: O Dekake Safuran | 37548 | [37548-dokodemo-hamster-3-o-dekake-safuran.json](./37548-dokodemo-hamster-3-o-dekake-safuran.json) |
 | Dokodemo Hamster 4: Doki-doki Sugoroku Daibouken! | 125566 | [125566-dokodemo-hamster-4-doki-doki-sugoroku-daibouken.json](./125566-dokodemo-hamster-4-doki-doki-sugoroku-daibouken.json) |
+| Dokodemo Hamster: Bi! Click Tankentai | 419250 | [419250-dokodemo-hamster-bi-click-tankentai.json](./419250-dokodemo-hamster-bi-click-tankentai.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
 | Dokodemo Mahjong Color | 75456 | [75456-dokodemo-mahjong-color.json](./75456-dokodemo-mahjong-color.json) |
 | Dokodemo Pop'n Music | 227745 | [227745-dokodemo-popn-music.json](./227745-dokodemo-popn-music.json) |
@@ -16068,6 +16073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
 | Doukyuusei 2 | 38260 | [38260-doukyuusei-2.json](./38260-doukyuusei-2.json) |
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
+| Doukyuusei Mahjong | 419252 | [419252-doukyuusei-mahjong.json](./419252-doukyuusei-mahjong.json) |
 | Doula Continent: Awakening Soul | 193929 | [193929-doula-continent-awakening-soul.json](./193929-doula-continent-awakening-soul.json) |
 | Doula Continent: Soul Master Duel | 174708 | [174708-doula-continent-soul-master-duel.json](./174708-doula-continent-soul-master-duel.json) |
 | Dòuluó Dàlù: Wángguó Yìnjì | 147033 | [147033-douluo-dalu-wangguo-yinji.json](./147033-douluo-dalu-wangguo-yinji.json) |
@@ -18063,6 +18069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread in Deep Voyage | 323625 | [323625-dread-in-deep-voyage.json](./323625-dread-in-deep-voyage.json) |
 | Dread It | 339566 | [339566-dread-it.json](./339566-dread-it.json) |
 | Dread Keep | 181170 | [181170-dread-keep.json](./181170-dread-keep.json) |
+| Dread Line: Metro | 419276 | [419276-dread-line-metro.json](./419276-dread-line-metro.json) |
 | Dread Lock | 59744 | [59744-dread-lock.json](./59744-dread-lock.json) |
 | Dread Meridian | 362056 | [362056-dread-meridian.json](./362056-dread-meridian.json) |
 | Dread Neighbor | 382463 | [382463-dread-neighbor.json](./382463-dread-neighbor.json) |
