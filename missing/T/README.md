@@ -14493,6 +14493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
 | The Lighthouse Whispers | 425991 | [425991-the-lighthouse-whispers.json](./425991-the-lighthouse-whispers.json) |
 | The Lighting Ages | 339189 | [339189-the-lighting-ages.json](./339189-the-lighting-ages.json) |
+| The Lightkeeper | 177580 | [177580-the-lightkeeper.json](./177580-the-lightkeeper.json) |
 | The Lightkeeper | 215737 | [215737-the-lightkeeper.json](./215737-the-lightkeeper.json) |
 | The Lightkeeper | 240553 | [240553-the-lightkeeper.json](./240553-the-lightkeeper.json) |
 | The Lightkeeper is Gone | 331582 | [331582-the-lightkeeper-is-gone.json](./331582-the-lightkeeper-is-gone.json) |
@@ -30540,6 +30541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D: ZBAD Airport | 161309 | [161309-tower-3d-zbad-airport.json](./161309-tower-3d-zbad-airport.json) |
 | Tower.Defense(): Program the Fight | 406215 | [406215-tower-defense-program-the-fight.json](./406215-tower-defense-program-the-fight.json) |
 | Tower's Gate | 416499 | [416499-towers-gate.json](./416499-towers-gate.json) |
+| TowerBag | 178708 | [178708-towerbag.json](./178708-towerbag.json) |
 | Towerbloom | 275976 | [275976-towerbloom.json](./275976-towerbloom.json) |
 | Towerbolt | 265269 | [265269-towerbolt.json](./265269-towerbolt.json) |
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
@@ -34554,6 +34556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribute | 338609 | [338609-tribute.json](./338609-tribute.json) |
 | Tribute to Shadow of the Colossus | 310656 | [310656-tribute-to-shadow-of-the-colossus.json](./310656-tribute-to-shadow-of-the-colossus.json) |
 | Trichromat | 306849 | [306849-trichromat.json](./306849-trichromat.json) |
+| Trick & Treat | 179755 | [179755-trick-and-treat.json](./179755-trick-and-treat.json) |
 | Trick & Treat | 32186 | [32186-trick-and-treat.json](./32186-trick-and-treat.json) |
 | Trick & Treat Remake | 153224 | [153224-trick-and-treat-remake.json](./153224-trick-and-treat-remake.json) |
 | Trick Art Dungeon | 263338 | [263338-trick-art-dungeon.json](./263338-trick-art-dungeon.json) |
@@ -36361,6 +36364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunin'Glue | 289759 | [289759-tuninglue.json](./289759-tuninglue.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tuning Club Online | 199946 | [199946-tuning-club-online.json](./199946-tuning-club-online.json) |
+| Tunky | 177592 | [177592-tunky.json](./177592-tunky.json) |
 | Tunnel | 424025 | [424025-tunnel.json](./424025-tunnel.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
 | Tunnel Adventure | 274969 | [274969-tunnel-adventure.json](./274969-tunnel-adventure.json) |
