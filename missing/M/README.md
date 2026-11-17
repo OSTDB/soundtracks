@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | MageSlayer | 8695 | [8695-mageslayer.json](./8695-mageslayer.json) |
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
+| MageWorks | 32279 | [32279-mageworks.json](./32279-mageworks.json) |
 | Mageye | 343147 | [343147-mageye.json](./343147-mageye.json) |
 | MagFighter | 295354 | [295354-magfighter.json](./295354-magfighter.json) |
 | MagForce Racing | 45806 | [45806-magforce-racing.json](./45806-magforce-racing.json) |
@@ -13001,6 +13002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | Miffy's World | 85289 | [85289-miffys-world.json](./85289-miffys-world.json) |
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
+| Mig Alley Ace | 25233 | [25233-mig-alley-ace.json](./25233-mig-alley-ace.json) |
 | MIG-29 Fighter Pilot | 45773 | [45773-mig-29-fighter-pilot.json](./45773-mig-29-fighter-pilot.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | MiG-29 Soviet Fighter | 39093 | [39093-mig-29-soviet-fighter.json](./39093-mig-29-soviet-fighter.json) |
@@ -19040,6 +19042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfang | 175751 | [175751-moonfang.json](./175751-moonfang.json) |
 | Moonfell: The Tides of Aether | 349388 | [349388-moonfell-the-tides-of-aether.json](./349388-moonfell-the-tides-of-aether.json) |
 | MoonFire: A Seeker's Saga | 210960 | [210960-moonfire-a-seekers-saga.json](./210960-moonfire-a-seekers-saga.json) |
+| Moonflight | 25204 | [25204-moonflight.json](./25204-moonflight.json) |
 | Moonflower | 224580 | [224580-moonflower.json](./224580-moonflower.json) |
 | Moonflower: Fae's Rest Epilogue | 288970 | [288970-moonflower-faes-rest-epilogue.json](./288970-moonflower-faes-rest-epilogue.json) |
 | Moonfrost | 319876 | [319876-moonfrost.json](./319876-moonfrost.json) |
@@ -22073,6 +22076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in Crayontopia | 337522 | [337522-murder-in-crayontopia.json](./337522-murder-in-crayontopia.json) |
+| Murder In Tehran's Alleys 1933 | 25269 | [25269-murder-in-tehrans-alleys-1933.json](./25269-murder-in-tehrans-alleys-1933.json) |
 | Murder In Tehran's Alleys 2016 | 40858 | [40858-murder-in-tehrans-alleys-2016.json](./40858-murder-in-tehrans-alleys-2016.json) |
 | Murder in the Alps | 111292 | [111292-murder-in-the-alps.json](./111292-murder-in-the-alps.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
@@ -23965,6 +23969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Otaku Academia | 190405 | [190405-my-otaku-academia.json](./190405-my-otaku-academia.json) |
 | My Otter Friends | 403809 | [403809-my-otter-friends.json](./403809-my-otter-friends.json) |
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
+| My Own Little Planet | 29249 | [29249-my-own-little-planet.json](./29249-my-own-little-planet.json) |
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
 | My Own Pet | 32058 | [32058-my-own-pet.json](./32058-my-own-pet.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
@@ -24867,6 +24872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Myths: Whisper of Depth | 416493 | [416493-mystery-of-myths-whisper-of-depth.json](./416493-mystery-of-myths-whisper-of-depth.json) |
 | Mystery of Myths: Whisper of Depth - Collector's Edition | 402730 | [402730-mystery-of-myths-whisper-of-depth-collectors-edition.json](./402730-mystery-of-myths-whisper-of-depth-collectors-edition.json) |
 | Mystery of Neuschwanstein | 17901 | [17901-mystery-of-neuschwanstein.json](./17901-mystery-of-neuschwanstein.json) |
+| Mystery of Rivenhallows | 32158 | [32158-mystery-of-rivenhallows.json](./32158-mystery-of-rivenhallows.json) |
 | Mystery of Shark Island | 209057 | [209057-mystery-of-shark-island.json](./209057-mystery-of-shark-island.json) |
 | Mystery of the Ancients: Curse of the Black Water | 140235 | [140235-mystery-of-the-ancients-curse-of-the-black-water.json](./140235-mystery-of-the-ancients-curse-of-the-black-water.json) |
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
