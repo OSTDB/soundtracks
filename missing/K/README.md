@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keineged an nor | 181217 | [181217-keineged-an-nor.json](./181217-keineged-an-nor.json) |
 | Keio Flying Squadron | 12912 | [12912-keio-flying-squadron.json](./12912-keio-flying-squadron.json) |
 | Keio Flying Squadron 2 | 19417 | [19417-keio-flying-squadron-2.json](./19417-keio-flying-squadron-2.json) |
+| Keio Yuugekitai Okiraku Tamatebako | 62899 | [62899-keio-yuugekitai-okiraku-tamatebako.json](./62899-keio-yuugekitai-okiraku-tamatebako.json) |
 | Keisan 100 Renda | 67369 | [67369-keisan-100-renda.json](./67369-keisan-100-renda.json) |
 | Keisan Enshuu Drill | 345921 | [345921-keisan-enshuu-drill.json](./345921-keisan-enshuu-drill.json) |
 | Keisan Game: Sansuu 1-nen | 58881 | [58881-keisan-game-sansuu-1-nen.json](./58881-keisan-game-sansuu-1-nen.json) |
