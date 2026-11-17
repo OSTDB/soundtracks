@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Jump | 260108 | [260108-one-more-jump.json](./260108-one-more-jump.json) |
 | One More Mix | 360854 | [360854-one-more-mix.json](./360854-one-more-mix.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
+| One More Night | 57261 | [57261-one-more-night.json](./57261-one-more-night.json) |
 | One More Night: BiO Clinic | 90867 | [90867-one-more-night-bio-clinic.json](./90867-one-more-night-bio-clinic.json) |
 | One More Plate | 322091 | [322091-one-more-plate.json](./322091-one-more-plate.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
@@ -4833,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oroborus: Planes of the Dead | 152709 | [152709-oroborus-planes-of-the-dead.json](./152709-oroborus-planes-of-the-dead.json) |
 | Orompaquenga | 184025 | [184025-orompaquenga.json](./184025-orompaquenga.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
+| Orpega | 57250 | [57250-orpega.json](./57250-orpega.json) |
 | Orph: The Lost Boy | 173328 | [173328-orph-the-lost-boy.json](./173328-orph-the-lost-boy.json) |
 | Orphan | 11580 | [11580-orphan.json](./11580-orphan.json) |
 | Orphan Age | 103133 | [103133-orphan-age.json](./103133-orphan-age.json) |
