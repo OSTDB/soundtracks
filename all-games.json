@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T08:01:20.990Z",
-  "total_soundtracks": 3625,
+  "generated_at": "2026-11-17T08:06:44.268Z",
+  "total_soundtracks": 3634,
   "games": [
     {
       "igdb_id": 292844,
@@ -15367,6 +15367,20 @@
       ]
     },
     {
+      "igdb_id": 198625,
+      "game_name": "Garden In!",
+      "game_url": "https://ostdb.net/games/garden-in",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c5d65b6900028c71cce87822",
+      "albums": [
+        {
+          "album_name": "Garden In! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1gsFWEF2wEODilgUJeECSg",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119856,
       "game_name": "Garden Story",
       "game_url": "https://ostdb.net/games/garden-story",
@@ -16757,6 +16771,20 @@
         {
           "album_name": "Green Hell (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1DAOXRhkCCdVKMoQW3WbaO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 196995,
+      "game_name": "Greyhill Incident",
+      "game_url": "https://ostdb.net/games/greyhill-incident",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736f27f18b2f1aef9948ae8ec4",
+      "albums": [
+        {
+          "album_name": "Greyhill Incident (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2t3T3BbuzEbTPjZpIndm8S",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18581,6 +18609,20 @@
       ]
     },
     {
+      "igdb_id": 202141,
+      "game_name": "Hooked on You: A Dead by Daylight Dating Sim",
+      "game_url": "https://ostdb.net/games/hooked-on-you-a-dead-by-daylight-dating-sim",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737886b1ae1bbb2bcf91843f8f",
+      "albums": [
+        {
+          "album_name": "Hooked on You - a Dead by Daylight Dating Sim (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/69bdOl9piho9TanKRh6oAk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 186309,
       "game_name": "Horizon Call of the Mountain",
       "game_url": "https://ostdb.net/games/horizon-call-of-the-mountain",
@@ -19139,6 +19181,20 @@
       ]
     },
     {
+      "igdb_id": 197183,
+      "game_name": "Ikonei Island: An Earthlock Adventure",
+      "game_url": "https://ostdb.net/games/ikonei-island-an-earthlock-adventure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273484401598dc75336f9c293ad",
+      "albums": [
+        {
+          "album_name": "Ikonei Island: an Earthlock Adventure (Original Video-Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3J50OpUUgfVgsfoZ90DMdW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7086,
       "game_name": "Ilomilo",
       "game_url": "https://ostdb.net/games/ilomilo",
@@ -19285,6 +19341,20 @@
         {
           "album_name": "Imp of the Sun (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5UxDTY9IvMKRVkx1rtG6iA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 196078,
+      "game_name": "Impaler Gold",
+      "game_url": "https://ostdb.net/games/impaler-gold",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c995f95205afe99bb82d2da0",
+      "albums": [
+        {
+          "album_name": "Impaler Gold (Original Game Soundtrack) Remastered",
+          "spotify_url": "https://open.spotify.com/album/6IN3qFQEdO9ltnbCYFTwEe",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25621,6 +25691,20 @@
         {
           "album_name": "Myst V: End of Ages (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/13GPxpmYQf1a1jfKGscyv2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 197712,
+      "game_name": "MythForce",
+      "game_url": "https://ostdb.net/games/mythforce",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bf5da92fb328ba82cd89c47a",
+      "albums": [
+        {
+          "album_name": "MythForce (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5xsZjhC5OCXnvIIEYNkhoJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -32401,6 +32485,20 @@
       ]
     },
     {
+      "igdb_id": 198113,
+      "game_name": "Saints Row",
+      "game_url": "https://ostdb.net/games/saints-row",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c2ee45417f156e73da2ef19f",
+      "albums": [
+        {
+          "album_name": "Saints Row (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7gQAbTjPKIsmY0GOxlWSS0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1981,
       "game_name": "Saints Row IV",
       "game_url": "https://ostdb.net/games/saints-row-iv",
@@ -37257,6 +37355,20 @@
       ]
     },
     {
+      "igdb_id": 196819,
+      "game_name": "Super Bullet Break",
+      "game_url": "https://ostdb.net/games/super-bullet-break",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731f04ebb432f76524fa2c9fce",
+      "albums": [
+        {
+          "album_name": "Super Bullet Break Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2owUNcclIIXmCZpHHtMLJ1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 107599,
       "game_name": "Super Crush KO",
       "game_url": "https://ostdb.net/games/super-crush-ko",
@@ -39853,6 +39965,20 @@
         {
           "album_name": "The Incredible Hulk: Music From The Episodes \"The First: Pts. 1 & 2\"",
           "spotify_url": "https://open.spotify.com/album/4nQFLgLlwwWsBKmehKV3bt",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 202718,
+      "game_name": "The Inquisitor",
+      "game_url": "https://ostdb.net/games/the-inquisitor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a646c61438bd36ad9daab605",
+      "albums": [
+        {
+          "album_name": "The Inquisitor (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4hyoCZtsqnHKDSieER0ky2",
           "apple_music_url": "",
           "album_link_url": ""
         }
