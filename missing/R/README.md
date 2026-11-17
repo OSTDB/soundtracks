@@ -6665,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Tycoon: My Cooking Empire - Diamond Edition | 396927 | [396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json](./396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json) |
 | Restaurant Tycoon: My Cooking Empire - Luxe & Lounge | 385176 | [385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json](./385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json) |
 | Restcue | 416811 | [416811-restcue.json](./416811-restcue.json) |
+| Restfield: Tidy Up the Pet Cemetery | 425923 | [425923-restfield-tidy-up-the-pet-cemetery.json](./425923-restfield-tidy-up-the-pet-cemetery.json) |
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
 | Resting Island | 362194 | [362194-resting-island.json](./362194-resting-island.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
@@ -8682,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringborn | 231146 | [231146-ringborn.json](./231146-ringborn.json) |
 | Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
+| Ringfall | 425943 | [425943-ringfall.json](./425943-ringfall.json) |
 | Ringies | 34637 | [34637-ringies.json](./34637-ringies.json) |
 | Ringing the Bells for Jim | 397108 | [397108-ringing-the-bells-for-jim.json](./397108-ringing-the-bells-for-jim.json) |
 | Ringleaders | 263013 | [263013-ringleaders.json](./263013-ringleaders.json) |
@@ -13085,6 +13087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Blood II | 65594 | [65594-royal-blood-ii.json](./65594-royal-blood-ii.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
 | Royal Card Clash | 296701 | [296701-royal-card-clash.json](./296701-royal-card-clash.json) |
+| Royal Cartographer: Restore the Map | 425929 | [425929-royal-cartographer-restore-the-map.json](./425929-royal-cartographer-restore-the-map.json) |
 | Royal Casino: Video Poker | 80926 | [80926-royal-casino-video-poker.json](./80926-royal-casino-video-poker.json) |
 | Royal Challenge Solitaire | 54329 | [54329-royal-challenge-solitaire.json](./54329-royal-challenge-solitaire.json) |
 | Royal Chaos | 105798 | [105798-royal-chaos.json](./105798-royal-chaos.json) |
@@ -13401,6 +13404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber | 217272 | [217272-rubber.json](./217272-rubber.json) |
 | Rubber & Lead | 10351 | [10351-rubber-and-lead.json](./10351-rubber-and-lead.json) |
+| Rubber & Smoke | 425956 | [425956-rubber-and-smoke.json](./425956-rubber-and-smoke.json) |
 | Rubber Ball VR | 29254 | [29254-rubber-ball-vr.json](./29254-rubber-ball-vr.json) |
 | Rubber Bandits | 139684 | [139684-rubber-bandits.json](./139684-rubber-bandits.json) |
 | Rubber Bandits: Animal Bandits | 297456 | [297456-rubber-bandits-animal-bandits.json](./297456-rubber-bandits-animal-bandits.json) |
