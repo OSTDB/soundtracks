@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest of the Sun Vincent Van Gogh Revisited | 45887 | [45887-harvest-of-the-sun-vincent-van-gogh-revisited.json](./45887-harvest-of-the-sun-vincent-van-gogh-revisited.json) |
 | Harvest on Jupiter | 260331 | [260331-harvest-on-jupiter.json](./260331-harvest-on-jupiter.json) |
 | Harvest Overdrive | 420514 | [420514-harvest-overdrive.json](./420514-harvest-overdrive.json) |
+| Harvest OverRay | 60162 | [60162-harvest-overray.json](./60162-harvest-overray.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai | 207917 | [207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json](./207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai: Limited Edition | 207916 | [207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json](./207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json) |
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
@@ -13570,6 +13571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger | 41954 | [41954-hunger.json](./41954-hunger.json) |
 | Hunger Apartment | 113677 | [113677-hunger-apartment.json](./113677-hunger-apartment.json) |
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
+| Hunger Daemon | 60130 | [60130-hunger-daemon.json](./60130-hunger-daemon.json) |
 | Hunger Dungeon | 25850 | [25850-hunger-dungeon.json](./25850-hunger-dungeon.json) |
 | Hunger Dungeon: Deluxe Edition | 53193 | [53193-hunger-dungeon-deluxe-edition.json](./53193-hunger-dungeon-deluxe-edition.json) |
 | Hunger Dungeon: New Challenger Pack | 170319 | [170319-hunger-dungeon-new-challenger-pack.json](./170319-hunger-dungeon-new-challenger-pack.json) |
