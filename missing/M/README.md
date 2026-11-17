@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic | 126951 | [126951-manic.json](./126951-manic.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Karts | 93427 | [93427-manic-karts.json](./93427-manic-karts.json) |
+| Manic Mechanics | 254331 | [254331-manic-mechanics.json](./254331-manic-mechanics.json) |
 | Manic Minefields | 71287 | [71287-manic-minefields.json](./71287-manic-minefields.json) |
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
@@ -3906,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Hill | 312995 | [312995-marble-hill.json](./312995-marble-hill.json) |
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
 | Marble It Up! | 107302 | [107302-marble-it-up.json](./107302-marble-it-up.json) |
+| Marble It Up! Ultra | 255877 | [255877-marble-it-up-ultra.json](./255877-marble-it-up-ultra.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
 | Marble Land | 74971 | [74971-marble-land.json](./74971-marble-land.json) |
@@ -6330,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mate | 207201 | [207201-mate.json](./207201-mate.json) |
 | Mate in Eleven | 364104 | [364104-mate-in-eleven.json](./364104-mate-in-eleven.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
+| Mate, This Place Is a Mess! | 429894 | [429894-mate-this-place-is-a-mess.json](./429894-mate-this-place-is-a-mess.json) |
 | Mate'Morphosis | 373343 | [373343-matemorphosis.json](./373343-matemorphosis.json) |
 | Mateki Densetsu Astralius | 419018 | [419018-mateki-densetsu-astralius.json](./419018-mateki-densetsu-astralius.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
@@ -6784,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max: The Curse of Brotherhood | 4848 | [4848-max-the-curse-of-brotherhood.json](./4848-max-the-curse-of-brotherhood.json) |
 | Max's Adventures: Summer Edition | 390077 | [390077-maxs-adventures-summer-edition.json](./390077-maxs-adventures-summer-edition.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
+| Max's Big Bust: A Captain Nekorai Tale | 34086 | [34086-maxs-big-bust-a-captain-nekorai-tale.json](./34086-maxs-big-bust-a-captain-nekorai-tale.json) |
 | Max's Tales | 255151 | [255151-maxs-tales.json](./255151-maxs-tales.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
 | Maxi 15 | 93934 | [93934-maxi-15.json](./93934-maxi-15.json) |
@@ -11311,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Survivor | 224520 | [224520-metal-survivor.json](./224520-metal-survivor.json) |
 | Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
 | Metal Swat | 208078 | [208078-metal-swat.json](./208078-metal-swat.json) |
+| Metal Tales: Fury of the Guitar Gods | 34080 | [34080-metal-tales-fury-of-the-guitar-gods.json](./34080-metal-tales-fury-of-the-guitar-gods.json) |
 | Metal Tales: Overkill | 149692 | [149692-metal-tales-overkill.json](./149692-metal-tales-overkill.json) |
 | Metal Thunder | 320475 | [320475-metal-thunder.json](./320475-metal-thunder.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
@@ -12976,6 +12981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway Arcade Origins | 7070 | [7070-midway-arcade-origins.json](./7070-midway-arcade-origins.json) |
 | Midway Arcade Treasures | 4007 | [4007-midway-arcade-treasures.json](./4007-midway-arcade-treasures.json) |
 | Midway Arcade Treasures 2 | 4008 | [4008-midway-arcade-treasures-2.json](./4008-midway-arcade-treasures-2.json) |
+| Midway Arcade Treasures 3 | 4009 | [4009-midway-arcade-treasures-3.json](./4009-midway-arcade-treasures-3.json) |
 | Midway Arcade Treasures: Deluxe Edition | 73419 | [73419-midway-arcade-treasures-deluxe-edition.json](./73419-midway-arcade-treasures-deluxe-edition.json) |
 | Midway Arcade Treasures: Extended Play | 71407 | [71407-midway-arcade-treasures-extended-play.json](./71407-midway-arcade-treasures-extended-play.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
@@ -15999,6 +16005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistero a Villa MilaFlora | 115258 | [115258-mistero-a-villa-milaflora.json](./115258-mistero-a-villa-milaflora.json) |
 | Mistery | 237470 | [237470-mistery.json](./237470-mistery.json) |
 | Mistery | 264046 | [264046-mistery.json](./264046-mistery.json) |
+| Mistfal | 34068 | [34068-mistfal.json](./34068-mistfal.json) |
 | Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
 | Mistfall Ruins | 391249 | [391249-mistfall-ruins.json](./391249-mistfall-ruins.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
@@ -18173,6 +18180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Island | 295237 | [295237-monster-island.json](./295237-monster-island.json) |
 | Monster Island | 65276 | [65276-monster-island.json](./65276-monster-island.json) |
 | Monster Island HD | 175739 | [175739-monster-island-hd.json](./175739-monster-island-hd.json) |
+| Monster Jam | 5015 | [5015-monster-jam.json](./5015-monster-jam.json) |
 | Monster Jam Battlegrounds | 53379 | [53379-monster-jam-battlegrounds.json](./53379-monster-jam-battlegrounds.json) |
 | Monster Jam Game | 260194 | [260194-monster-jam-game.json](./260194-monster-jam-game.json) |
 | Monster Jam Showdown | 289698 | [289698-monster-jam-showdown.json](./289698-monster-jam-showdown.json) |
