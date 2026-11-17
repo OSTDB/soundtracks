@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
 | Haymakers | 83729 | [83729-haymakers.json](./83729-haymakers.json) |
 | Hayo and the Emporium | 342298 | [342298-hayo-and-the-emporium.json](./342298-hayo-and-the-emporium.json) |
+| Haypi Kingdom | 84395 | [84395-haypi-kingdom.json](./84395-haypi-kingdom.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haypi Monster: The Lost Tower | 392105 | [392105-haypi-monster-the-lost-tower.json](./392105-haypi-monster-the-lost-tower.json) |
 | Hayven Celestia: Under One Sky | 272515 | [272515-hayven-celestia-under-one-sky.json](./272515-hayven-celestia-under-one-sky.json) |
@@ -11389,6 +11390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppie II | 69030 | [69030-hoppie-ii.json](./69030-hoppie-ii.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hoppin: Into the Woods | 374930 | [374930-hoppin-into-the-woods.json](./374930-hoppin-into-the-woods.json) |
+| Hoppin' Mad | 84402 | [84402-hoppin-mad.json](./84402-hoppin-mad.json) |
 | Hoppin' Tom | 385009 | [385009-hoppin-tom.json](./385009-hoppin-tom.json) |
 | Hopping Bunny | 287169 | [287169-hopping-bunny.json](./287169-hopping-bunny.json) |
 | Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
