@@ -28275,6 +28275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomider | 422401 | [422401-tomider.json](./422401-tomider.json) |
 | Tomika Town o Tsukurou! | 376536 | [376536-tomika-town-o-tsukurou.json](./376536-tomika-town-o-tsukurou.json) |
 | Tommy and the Monster Prison | 359919 | [359919-tommy-and-the-monster-prison.json](./359919-tommy-and-the-monster-prison.json) |
+| Tommy Gun | 94441 | [94441-tommy-gun.json](./94441-tommy-gun.json) |
 | Tommy Gun Carnage | 212674 | [212674-tommy-gun-carnage.json](./212674-tommy-gun-carnage.json) |
 | Tommy Gun Witches | 262893 | [262893-tommy-gun-witches.json](./262893-tommy-gun-witches.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
@@ -28671,6 +28672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Classic Plaigarized | 319095 | [319095-top-classic-plaigarized.json](./319095-top-classic-plaigarized.json) |
 | Top Cop: Police Training | 393050 | [393050-top-cop-police-training.json](./393050-top-cop-police-training.json) |
 | Top Craft exploration | 100957 | [100957-top-craft-exploration.json](./100957-top-craft-exploration.json) |
+| Top Craft: Best Exploration | 95709 | [95709-top-craft-best-exploration.json](./95709-top-craft-best-exploration.json) |
 | Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
 | Top Deck slotmachine | 232356 | [232356-top-deck-slotmachine.json](./232356-top-deck-slotmachine.json) |
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
@@ -30210,6 +30212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower | 287566 | [287566-tower.json](./287566-tower.json) |
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower | 91640 | [91640-tower.json](./91640-tower.json) |
+| Tower | 94268 | [94268-tower.json](./94268-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
 | Tower 57 | 28302 | [28302-tower-57.json](./28302-tower-57.json) |
 | Tower 6: Last Signal | 425883 | [425883-tower-6-last-signal.json](./425883-tower-6-last-signal.json) |
@@ -34665,6 +34668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick x Logic Season 2 | 61259 | [61259-trick-x-logic-season-2.json](./61259-trick-x-logic-season-2.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
 | Trick-or-Treat Adventure! | 395951 | [395951-trick-or-treat-adventure.json](./395951-trick-or-treat-adventure.json) |
+| Trick-Track! | 94432 | [94432-trick-track.json](./94432-trick-track.json) |
 | Trick'N Snowboarder | 44923 | [44923-trickn-snowboarder.json](./44923-trickn-snowboarder.json) |
 | Trickalized | 409045 | [409045-trickalized.json](./409045-trickalized.json) |
 | Trickcal: Chibi Go | 172648 | [172648-trickcal-chibi-go.json](./172648-trickcal-chibi-go.json) |
