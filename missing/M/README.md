@@ -5220,6 +5220,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Avengers: Battle for Earth | 5315 | [5315-marvel-avengers-battle-for-earth.json](./5315-marvel-avengers-battle-for-earth.json) |
 | Marvel Battle Lines | 105500 | [105500-marvel-battle-lines.json](./105500-marvel-battle-lines.json) |
 | Marvel Collect! by Topps | 322472 | [322472-marvel-collect-by-topps.json](./322472-marvel-collect-by-topps.json) |
+| Marvel Comics: X-Men | 198990 | [198990-marvel-comics-x-men.json](./198990-marvel-comics-x-men.json) |
+| Marvel Comics: X-Men - Tiger Barcodzz | 198992 | [198992-marvel-comics-x-men-tiger-barcodzz.json](./198992-marvel-comics-x-men-tiger-barcodzz.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
 | Marvel Cosmic Invasion: Cyclops & The Thing | 411354 | [411354-marvel-cosmic-invasion-cyclops-and-the-thing.json](./411354-marvel-cosmic-invasion-cyclops-and-the-thing.json) |
 | Marvel Cosmic Invasion: The Siege of Castle Doom | 422320 | [422320-marvel-cosmic-invasion-the-siege-of-castle-doom.json](./422320-marvel-cosmic-invasion-the-siege-of-castle-doom.json) |
@@ -10258,6 +10260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men Busters | 129469 | [129469-men-busters.json](./129469-men-busters.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
+| Men In Black | 199004 | [199004-men-in-black.json](./199004-men-in-black.json) |
 | Men In Black | 218260 | [218260-men-in-black.json](./218260-men-in-black.json) |
 | Men In Black | 342604 | [342604-men-in-black.json](./342604-men-in-black.json) |
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
@@ -19516,6 +19519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
 | Morok | 123972 | [123972-morok.json](./123972-morok.json) |
 | Moros | 418206 | [418206-moros.json](./418206-moros.json) |
+| Moros Protocol | 199668 | [199668-moros-protocol.json](./199668-moros-protocol.json) |
 | Morph | 13053 | [13053-morph.json](./13053-morph.json) |
 | Morph Adventure | 93879 | [93879-morph-adventure.json](./93879-morph-adventure.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
@@ -19707,6 +19711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Ultimate Add-On Bundle | 238336 | [238336-mortal-kombat-11-ultimate-add-on-bundle.json](./238336-mortal-kombat-11-ultimate-add-on-bundle.json) |
 | Mortal Kombat 11: War Games Sonya Blade | 388871 | [388871-mortal-kombat-11-war-games-sonya-blade.json](./388871-mortal-kombat-11-war-games-sonya-blade.json) |
 | Mortal Kombat 3 | 1620 | [1620-mortal-kombat-3.json](./1620-mortal-kombat-3.json) |
+| Mortal Kombat 3 | 199006 | [199006-mortal-kombat-3.json](./199006-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 217929 | [217929-mortal-kombat-3.json](./217929-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 223026 | [223026-mortal-kombat-3.json](./223026-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242251 | [242251-mortal-kombat-3.json](./242251-mortal-kombat-3.json) |
