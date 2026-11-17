@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T07:21:06.289Z",
-  "total_soundtracks": 3593,
+  "generated_at": "2026-11-17T07:26:09.152Z",
+  "total_soundtracks": 3597,
   "games": [
     {
       "igdb_id": 292844,
@@ -22661,6 +22661,20 @@
       ]
     },
     {
+      "igdb_id": 238948,
+      "game_name": "Magical Delicacy",
+      "game_url": "https://ostdb.net/games/magical-delicacy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fd4302b17756788a25a9b284",
+      "albums": [
+        {
+          "album_name": "Magical Delicacy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7M0S4FnM1vpIPlhVuzSHz4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9807,
       "game_name": "Magicka 2",
       "game_url": "https://ostdb.net/games/magicka-2",
@@ -27211,6 +27225,20 @@
       ]
     },
     {
+      "igdb_id": 234662,
+      "game_name": "Opus: Prism Peak",
+      "game_url": "https://ostdb.net/games/opus-prism-peak",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732ac9deb4b911c4d24f656a3e",
+      "albums": [
+        {
+          "album_name": "OPUS: Prism Peak (ORIGINAL GAME SOUNDTRACK)",
+          "spotify_url": "https://open.spotify.com/album/3YZDCuVMxkKR462YKBFITG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 77569,
       "game_name": "Opus: Rocket of Whispers",
       "game_url": "https://ostdb.net/games/opus-rocket-of-whispers",
@@ -30073,6 +30101,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/ready-or-not-original-soundtrack/1755413766?uo=4",
           "album_link_url": "https://album.link/i/1755413766"
+        }
+      ]
+    },
+    {
+      "igdb_id": 235535,
+      "game_name": "Ready, Steady, Ship!",
+      "game_url": "https://ostdb.net/games/ready-steady-ship",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ea69e59da3022a45c9839cf4",
+      "albums": [
+        {
+          "album_name": "Ready, Steady, Ship! (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5DWCoNDUksnDXZdFU8DBbC",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -45951,6 +45993,20 @@
         {
           "album_name": "Xenonauts 2 (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2VkNMisGfZvqh8IJhZSb9p",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 233872,
+      "game_name": "Xenotilt: Hostile Pinball Action",
+      "game_url": "https://ostdb.net/games/xenotilt-hostile-pinball-action",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed87bb58df92aa3a8f5da785",
+      "albums": [
+        {
+          "album_name": "Xenotilt (Hostile Pinball Action) [Original Video Game Soundtrack]",
+          "spotify_url": "https://open.spotify.com/album/11rQSmXiM6HDJHq22E8pJu",
           "apple_music_url": "",
           "album_link_url": ""
         }
