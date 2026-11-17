@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Manager Simulator | 417092 | [417092-camp-manager-simulator.json](./417092-camp-manager-simulator.json) |
 | Camp McTex Lake | 136530 | [136530-camp-mctex-lake.json](./136530-camp-mctex-lake.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
+| Camp Paradise: Island Resort Tycoon | 419688 | [419688-camp-paradise-island-resort-tycoon.json](./419688-camp-paradise-island-resort-tycoon.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
 | Camp Pinewood | 115744 | [115744-camp-pinewood.json](./115744-camp-pinewood.json) |
 | Camp Pokémon | 52197 | [52197-camp-pokemon.json](./52197-camp-pokemon.json) |
@@ -3584,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartagra: Tamashii no Kunou | 166451 | [166451-cartagra-tamashii-no-kunou.json](./166451-cartagra-tamashii-no-kunou.json) |
 | Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
+| Cartas | 419686 | [419686-cartas.json](./419686-cartas.json) |
 | Cartas contra tugas | 343036 | [343036-cartas-contra-tugas.json](./343036-cartas-contra-tugas.json) |
 | Cartas de Coisas | 325623 | [325623-cartas-de-coisas.json](./325623-cartas-de-coisas.json) |
 | Cartastrophe | 236066 | [236066-cartastrophe.json](./236066-cartastrophe.json) |
