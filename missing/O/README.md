@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
 | O.To.I.Re: Dreamcast Sequencer | 283303 | [283303-o-to-i-re-dreamcast-sequencer.json](./283303-o-to-i-re-dreamcast-sequencer.json) |
 | O.U.T.T. | 400324 | [400324-o-u-t-t.json](./400324-o-u-t-t.json) |
+| O.V.N.I. Abduction | 145104 | [145104-o-v-n-i-abduction.json](./145104-o-v-n-i-abduction.json) |
 | O.W.L Projekt | 309527 | [309527-o-w-l-projekt.json](./309527-o-w-l-projekt.json) |
 | O.W.L Projekt 2 | 333291 | [333291-o-w-l-projekt-2.json](./333291-o-w-l-projekt-2.json) |
 | O.W.L.: One Wave Length | 341579 | [341579-o-w-l-one-wave-length.json](./341579-o-w-l-one-wave-length.json) |
@@ -2752,7 +2753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Wipe! | 389594 | [389594-one-more-wipe.json](./389594-one-more-wipe.json) |
 | One More Wish | 284276 | [284276-one-more-wish.json](./284276-one-more-wish.json) |
 | One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
-| One Move Away | 325581 | [325581-one-move-away.json](./325581-one-move-away.json) |
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
 | One Must Fall: 2097 | 14429 | [14429-one-must-fall-2097.json](./14429-one-must-fall-2097.json) |
 | One Must Fall: Battlegrounds | 14430 | [14430-one-must-fall-battlegrounds.json](./14430-one-must-fall-battlegrounds.json) |
@@ -3966,7 +3966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Minerva | 99843 | [99843-operation-minerva.json](./99843-operation-minerva.json) |
 | Operation Nachtsprung: Odyssey Live | 352734 | [352734-operation-nachtsprung-odyssey-live.json](./352734-operation-nachtsprung-odyssey-live.json) |
 | Operation Neptune | 7472 | [7472-operation-neptune.json](./7472-operation-neptune.json) |
-| Operation Night Strikers | 343316 | [343316-operation-night-strikers.json](./343316-operation-night-strikers.json) |
 | Operation Ninurta: Eris Portal | 351726 | [351726-operation-ninurta-eris-portal.json](./351726-operation-ninurta-eris-portal.json) |
 | Operation Noogy | 265314 | [265314-operation-noogy.json](./265314-operation-noogy.json) |
 | Operation Nova | 394793 | [394793-operation-nova.json](./394793-operation-nova.json) |
@@ -4604,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore ha Chokkaku: Chokkaku Kiri Kenzan!! | 349432 | [349432-ore-ha-chokkaku-chokkaku-kiri-kenzan.json](./349432-ore-ha-chokkaku-chokkaku-kiri-kenzan.json) |
 | Ore Klast | 410404 | [410404-ore-klast.json](./410404-ore-klast.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
+| Ore ni Hatarakette Iwarete mo Otsu HD | 143803 | [143803-ore-ni-hatarakette-iwarete-mo-otsu-hd.json](./143803-ore-ni-hatarakette-iwarete-mo-otsu-hd.json) |
 | Ore ni Hatarakette Iwaretemo Otu | 138650 | [138650-ore-ni-hatarakette-iwaretemo-otu.json](./138650-ore-ni-hatarakette-iwaretemo-otu.json) |
 | Ore ni Hatarakette Iwaretemo Tori | 60197 | [60197-ore-ni-hatarakette-iwaretemo-tori.json](./60197-ore-ni-hatarakette-iwaretemo-tori.json) |
 | Ore no Animism: Heaven Chapter | 171804 | [171804-ore-no-animism-heaven-chapter.json](./171804-ore-no-animism-heaven-chapter.json) |
@@ -4825,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orkendale: The Scarred Land | 291322 | [291322-orkendale-the-scarred-land.json](./291322-orkendale-the-scarred-land.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
 | Orla Frøsnapper | 172596 | [172596-orla-fr-snapper.json](./172596-orla-fr-snapper.json) |
+| Orlando the Fireman | 156729 | [156729-orlando-the-fireman.json](./156729-orlando-the-fireman.json) |
 | Orlando Theme Park VR | 292691 | [292691-orlando-theme-park-vr.json](./292691-orlando-theme-park-vr.json) |
 | Orly Kuukou Satsujin Jiken | 251269 | [251269-orly-kuukou-satsujin-jiken.json](./251269-orly-kuukou-satsujin-jiken.json) |
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
@@ -5183,7 +5184,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
 | Otherside Tapes: Favela | 422100 | [422100-otherside-tapes-favela.json](./422100-otherside-tapes-favela.json) |
-| Otherskin | 312401 | [312401-otherskin.json](./312401-otherskin.json) |
 | OtherSoul | 189241 | [189241-othersoul.json](./189241-othersoul.json) |
 | Otherwar | 190983 | [190983-otherwar.json](./190983-otherwar.json) |
 | Otherwar: Deluxe Edition | 406196 | [406196-otherwar-deluxe-edition.json](./406196-otherwar-deluxe-edition.json) |
@@ -5679,7 +5679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 23 | 187604 | [187604-out-of-the-park-baseball-23.json](./187604-out-of-the-park-baseball-23.json) |
 | Out of the Park Baseball 24 | 236632 | [236632-out-of-the-park-baseball-24.json](./236632-out-of-the-park-baseball-24.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
-| Out of the Park Baseball 26 | 329661 | [329661-out-of-the-park-baseball-26.json](./329661-out-of-the-park-baseball-26.json) |
 | Out of the Park Baseball 3 | 73596 | [73596-out-of-the-park-baseball-3.json](./73596-out-of-the-park-baseball-3.json) |
 | Out of the Park Baseball 4 | 23458 | [23458-out-of-the-park-baseball-4.json](./23458-out-of-the-park-baseball-4.json) |
 | Out of the Park Baseball 5 | 66490 | [66490-out-of-the-park-baseball-5.json](./66490-out-of-the-park-baseball-5.json) |
@@ -5909,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outfolded | 57950 | [57950-outfolded.json](./57950-outfolded.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
+| Outgun | 155716 | [155716-outgun.json](./155716-outgun.json) |
 | Outgun Online | 176579 | [176579-outgun-online.json](./176579-outgun-online.json) |
 | Outhold | 345514 | [345514-outhold.json](./345514-outhold.json) |
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
@@ -5976,7 +5976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaws | 115755 | [115755-outlaws.json](./115755-outlaws.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
-| Outlaws + Handful of Missions: Remaster | 361823 | [361823-outlaws-handful-of-missions-remaster.json](./361823-outlaws-handful-of-missions-remaster.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlaws: Corwin's Treasure | 133153 | [133153-outlaws-corwins-treasure.json](./133153-outlaws-corwins-treasure.json) |
 | Outlawyer | 348147 | [348147-outlawyer.json](./348147-outlawyer.json) |
@@ -6258,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overclocked: The Aclockalypse | 96863 | [96863-overclocked-the-aclockalypse.json](./96863-overclocked-the-aclockalypse.json) |
 | Overcome | 113631 | [113631-overcome.json](./113631-overcome.json) |
 | Overcome Your Fears: Caretaker | 333822 | [333822-overcome-your-fears-caretaker.json](./333822-overcome-your-fears-caretaker.json) |
+| Overcoming Obstacles | 146362 | [146362-overcoming-obstacles.json](./146362-overcoming-obstacles.json) |
 | Overcooked: Gourmet Edition | 42933 | [42933-overcooked-gourmet-edition.json](./42933-overcooked-gourmet-edition.json) |
 | Overcooked! 2: Campfire Cook Off | 116659 | [116659-overcooked-2-campfire-cook-off.json](./116659-overcooked-2-campfire-cook-off.json) |
 | Overcooked! 2: Carnival of Chaos | 122083 | [122083-overcooked-2-carnival-of-chaos.json](./122083-overcooked-2-carnival-of-chaos.json) |
@@ -6604,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovrlrd | 218223 | [218223-ovrlrd.json](./218223-ovrlrd.json) |
 | Ovrshade | 406925 | [406925-ovrshade.json](./406925-ovrshade.json) |
 | OVRshot | 84071 | [84071-ovrshot.json](./84071-ovrshot.json) |
+| Ovum | 145068 | [145068-ovum.json](./145068-ovum.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
 | Owarai Yoiko no Game-dou: Oyaji Sagashite 3-choume | 228631 | [228631-owarai-yoiko-no-game-dou-oyaji-sagashite-3-choume.json](./228631-owarai-yoiko-no-game-dou-oyaji-sagashite-3-choume.json) |
