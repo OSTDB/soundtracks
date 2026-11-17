@@ -3183,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elpis | 381140 | [381140-elpis.json](./381140-elpis.json) |
 | Elpis: Fallen Star | 362914 | [362914-elpis-fallen-star.json](./362914-elpis-fallen-star.json) |
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
+| Elrit Clover: A Forest in the Rut is Full of Dangers | 156733 | [156733-elrit-clover-a-forest-in-the-rut-is-full-of-dangers.json](./156733-elrit-clover-a-forest-in-the-rut-is-full-of-dangers.json) |
 | Elroi: Defense War | 154324 | [154324-elroi-defense-war.json](./154324-elroi-defense-war.json) |
 | Elroy Goes Bugzerk | 123385 | [123385-elroy-goes-bugzerk.json](./123385-elroy-goes-bugzerk.json) |
 | Elroy Hits the Pavement | 75985 | [75985-elroy-hits-the-pavement.json](./75985-elroy-hits-the-pavement.json) |
@@ -4336,7 +4337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless League | 111129 | [111129-endless-league.json](./111129-endless-league.json) |
 | Endless Legend | 9278 | [9278-endless-legend.json](./9278-endless-legend.json) |
 | Endless Legend - Inferno | 143844 | [143844-endless-legend-inferno.json](./143844-endless-legend-inferno.json) |
-| Endless Legend 2 | 329138 | [329138-endless-legend-2.json](./329138-endless-legend-2.json) |
 | Endless Legend: Definitive Edition | 343851 | [343851-endless-legend-definitive-edition.json](./343851-endless-legend-definitive-edition.json) |
 | Endless Legend: Echoes of Auriga | 168765 | [168765-endless-legend-echoes-of-auriga.json](./168765-endless-legend-echoes-of-auriga.json) |
 | Endless Legend: Emperor Edition | 52951 | [52951-endless-legend-emperor-edition.json](./52951-endless-legend-emperor-edition.json) |
@@ -9028,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exotium: Episode 11 | 164643 | [164643-exotium-episode-11.json](./164643-exotium-episode-11.json) |
 | Exotium: Episode 2 | 164641 | [164641-exotium-episode-2.json](./164641-exotium-episode-2.json) |
 | Exotium: Episode 3 | 164642 | [164642-exotium-episode-3.json](./164642-exotium-episode-3.json) |
+| Exotium: Episode 4 | 153481 | [153481-exotium-episode-4.json](./153481-exotium-episode-4.json) |
 | Exotium: Episode 5 | 164640 | [164640-exotium-episode-5.json](./164640-exotium-episode-5.json) |
 | Exotium: Episode 6 | 164638 | [164638-exotium-episode-6.json](./164638-exotium-episode-6.json) |
 | Exotium: Episode 7 | 164639 | [164639-exotium-episode-7.json](./164639-exotium-episode-7.json) |
