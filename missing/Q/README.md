@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
 | Quiz Daisousa Sen: The Last Count Down | 75510 | [75510-quiz-daisousa-sen-the-last-count-down.json](./75510-quiz-daisousa-sen-the-last-count-down.json) |
 | Quiz de Gakuensai | 419046 | [419046-quiz-de-gakuensai.json](./419046-quiz-de-gakuensai.json) |
+| Quiz de Idol! Hot Debut | 137147 | [137147-quiz-de-idol-hot-debut.json](./137147-quiz-de-idol-hot-debut.json) |
 | Quiz Econosaurus | 97677 | [97677-quiz-econosaurus.json](./97677-quiz-econosaurus.json) |
 | Quiz en Français | 90325 | [90325-quiz-en-francais.json](./90325-quiz-en-francais.json) |
 | Quiz Express | 241339 | [241339-quiz-express.json](./241339-quiz-express.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Nana-iro Dreams | 70655 | [70655-quiz-nana-iro-dreams.json](./70655-quiz-nana-iro-dreams.json) |
 | Quiz Night Tonight! | 30719 | [30719-quiz-night-tonight.json](./30719-quiz-night-tonight.json) |
 | Quiz Nihon Mukashi Banashi: Athena no Hatena | 65139 | [65139-quiz-nihon-mukashi-banashi-athena-no-hatena.json](./65139-quiz-nihon-mukashi-banashi-athena-no-hatena.json) |
+| Quiz no Tabi | 130430 | [130430-quiz-no-tabi.json](./130430-quiz-no-tabi.json) |
 | Quiz Parampaa | 275528 | [275528-quiz-parampaa.json](./275528-quiz-parampaa.json) |
 | Quiz Party | 84835 | [84835-quiz-party.json](./84835-quiz-party.json) |
 | Quiz Planet | 317007 | [317007-quiz-planet.json](./317007-quiz-planet.json) |
