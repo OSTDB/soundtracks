@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman: Slap, Flap, and Go! | 61277 | [61277-rayman-slap-flap-and-go.json](./61277-rayman-slap-flap-and-go.json) |
 | Rayman: The Dark Magician's Reign of Terror | 222592 | [222592-rayman-the-dark-magicians-reign-of-terror.json](./222592-rayman-the-dark-magicians-reign-of-terror.json) |
 | Rayman: The Dreamer's Boundary | 217782 | [217782-rayman-the-dreamers-boundary.json](./217782-rayman-the-dreamers-boundary.json) |
+| Raymond Pringle's Quest for the Fabled Jar of Pickled Cabbage | 67575 | [67575-raymond-pringles-quest-for-the-fabled-jar-of-pickled-cabbage.json](./67575-raymond-pringles-quest-for-the-fabled-jar-of-pickled-cabbage.json) |
 | Raymond's Obstacle Course | 80976 | [80976-raymonds-obstacle-course.json](./80976-raymonds-obstacle-course.json) |
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
 | Rayna Survivors | 224729 | [224729-rayna-survivors.json](./224729-rayna-survivors.json) |
