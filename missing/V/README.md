@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of the Crescent Mountain | 56160 | [56160-valley-of-the-crescent-mountain.json](./56160-valley-of-the-crescent-mountain.json) |
 | Valley of the Dead: MalnaZidos | 193287 | [193287-valley-of-the-dead-malnazidos.json](./193287-valley-of-the-dead-malnazidos.json) |
 | Valley of the foxes | 86633 | [86633-valley-of-the-foxes.json](./86633-valley-of-the-foxes.json) |
+| Valley of the Moon | 116505 | [116505-valley-of-the-moon.json](./116505-valley-of-the-moon.json) |
 | Valley of the Moon | 184485 | [184485-valley-of-the-moon.json](./184485-valley-of-the-moon.json) |
 | Valley of the Old Masters | 236448 | [236448-valley-of-the-old-masters.json](./236448-valley-of-the-old-masters.json) |
 | Valley of The Savage Run | 250765 | [250765-valley-of-the-savage-run.json](./250765-valley-of-the-savage-run.json) |
@@ -1026,7 +1027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variety Mecha | 196352 | [196352-variety-mecha.json](./196352-variety-mecha.json) |
 | Variety Pack | 332773 | [332773-variety-pack.json](./332773-variety-pack.json) |
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
-| Various Daylife | 122319 | [122319-various-daylife.json](./122319-various-daylife.json) |
 | Various Daylife: Mobile | 233061 | [233061-various-daylife-mobile.json](./233061-various-daylife-mobile.json) |
 | Various Fighters | 93683 | [93683-various-fighters.json](./93683-various-fighters.json) |
 | Varista | 258600 | [258600-varista.json](./258600-varista.json) |
