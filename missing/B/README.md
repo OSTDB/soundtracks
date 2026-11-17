@@ -3222,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro: Track Pack 2 | 171159 | [171159-barro-track-pack-2.json](./171159-barro-track-pack-2.json) |
 | Barrok | 309877 | [309877-barrok.json](./309877-barrok.json) |
 | Barrok 2 | 382290 | [382290-barrok-2.json](./382290-barrok-2.json) |
+| Barroom Baseball | 46904 | [46904-barroom-baseball.json](./46904-barroom-baseball.json) |
 | Barrow Hill: Curse of the Ancient Circle | 10023 | [10023-barrow-hill-curse-of-the-ancient-circle.json](./10023-barrow-hill-curse-of-the-ancient-circle.json) |
 | Barrow Hill: The Dark Path | 31509 | [31509-barrow-hill-the-dark-path.json](./31509-barrow-hill-the-dark-path.json) |
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
@@ -5791,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Saga | 334624 | [334624-beast-saga.json](./334624-beast-saga.json) |
 | Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
 | Beast Sapp | 269365 | [269365-beast-sapp.json](./269365-beast-sapp.json) |
+| Beast Shooter: Mezase Beast King | 49535 | [49535-beast-shooter-mezase-beast-king.json](./49535-beast-shooter-mezase-beast-king.json) |
 | Beast Slayer | 254014 | [254014-beast-slayer.json](./254014-beast-slayer.json) |
 | Beast Slayer Origin | 333482 | [333482-beast-slayer-origin.json](./333482-beast-slayer-origin.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
@@ -11349,6 +11351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
 | Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
 | Bleach & Blood | 419469 | [419469-bleach-and-blood.json](./419469-bleach-and-blood.json) |
+| Bleach Advance: Kurenai ni Somaru Soul Society | 49534 | [49534-bleach-advance-kurenai-ni-somaru-soul-society.json](./49534-bleach-advance-kurenai-ni-somaru-soul-society.json) |
 | Bleach DS 4th: Flame Bringer | 47832 | [47832-bleach-ds-4th-flame-bringer.json](./47832-bleach-ds-4th-flame-bringer.json) |
 | Bleach GC: Tasogare ni Mamieru Shinigami | 3820 | [3820-bleach-gc-tasogare-ni-mamieru-shinigami.json](./3820-bleach-gc-tasogare-ni-mamieru-shinigami.json) |
 | Bleach Heat the Soul | 44488 | [44488-bleach-heat-the-soul.json](./44488-bleach-heat-the-soul.json) |
@@ -13794,10 +13797,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobo's Big Tower | 355170 | [355170-bobos-big-tower.json](./355170-bobos-big-tower.json) |
 | Bobobby 3D: Stranded Rush | 428369 | [428369-bobobby-3d-stranded-rush.json](./428369-bobobby-3d-stranded-rush.json) |
 | Bobobird | 365141 | [365141-bobobird.json](./365141-bobobird.json) |
+| Bobobo-bo Bo-bobo: 9 Kiwame Senshi Gyagu Yuugou | 49533 | [49533-bobobo-bo-bo-bobo-9-kiwame-senshi-gyagu-yuugou.json](./49533-bobobo-bo-bo-bobo-9-kiwame-senshi-gyagu-yuugou.json) |
 | Bobobo-bo Bo-bobo: Atsumare! Taikan Bo-bobo | 79699 | [79699-bobobo-bo-bo-bobo-atsumare-taikan-bo-bobo.json](./79699-bobobo-bo-bo-bobo-atsumare-taikan-bo-bobo.json) |
+| Bobobo-bo Bo-bobo: Bakutou Hajike Taisen | 49532 | [49532-bobobo-bo-bo-bobo-bakutou-hajike-taisen.json](./49532-bobobo-bo-bo-bobo-bakutou-hajike-taisen.json) |
 | Bobobo-bo Bo-bobo: Dasshutsu!! Hajike Royale | 3827 | [3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json](./3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json) |
 | Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
 | Bobobo-bo Bo-bobo: Hajike Matsuri! | 71361 | [71361-bobobo-bo-bo-bobo-hajike-matsuri.json](./71361-bobobo-bo-bo-bobo-hajike-matsuri.json) |
+| Bobobo-bo Bo-bobo: Majide!!? Shinken Shoubu | 49531 | [49531-bobobo-bo-bo-bobo-majide-shinken-shoubu.json](./49531-bobobo-bo-bo-bobo-majide-shinken-shoubu.json) |
+| Bobobo-bo Bo-bobo: Ougi 87.5 Bakuretsu Hanage Shinken | 49530 | [49530-bobobo-bo-bo-bobo-ougi-87-5-bakuretsu-hanage-shinken.json](./49530-bobobo-bo-bo-bobo-ougi-87-5-bakuretsu-hanage-shinken.json) |
 | BoBoiBoy: Adudu Attacks! | 61998 | [61998-boboiboy-adudu-attacks.json](./61998-boboiboy-adudu-attacks.json) |
 | BoboInvasion | 287777 | [287777-boboinvasion.json](./287777-boboinvasion.json) |
 | Bobok | 181068 | [181068-bobok.json](./181068-bobok.json) |
@@ -14011,6 +14018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335729 | [335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 83105 | [83105-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./83105-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
+| Boku ha Koukuu Kanseikan | 49529 | [49529-boku-ha-koukuu-kanseikan.json](./49529-boku-ha-koukuu-kanseikan.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero 3D - Haneda All Stars | 222492 | [222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json](./222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero 3D - Honolulu | 64695 | [64695-boku-ha-koukuu-kanseikan-airport-hero-3d-honolulu.json](./64695-boku-ha-koukuu-kanseikan-airport-hero-3d-honolulu.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero Narita | 269486 | [269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json](./269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json) |
@@ -17273,6 +17281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakbox | 390349 | [390349-breakbox.json](./390349-breakbox.json) |
 | BreakClassic | 92732 | [92732-breakclassic.json](./92732-breakclassic.json) |
 | Breakdown | 195948 | [195948-breakdown.json](./195948-breakdown.json) |
+| Breakdown | 46896 | [46896-breakdown.json](./46896-breakdown.json) |
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
 | Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
