@@ -2482,6 +2482,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Games 5-in-1 Vol. 4 | 394464 | [394464-one-button-games-5-in-1-vol-4.json](./394464-one-button-games-5-in-1-vol-4.json) |
 | One Button Games 5-in-1 Vol. 6 | 400556 | [400556-one-button-games-5-in-1-vol-6.json](./400556-one-button-games-5-in-1-vol-6.json) |
 | One Button Games 5-in-1 Vol. 7 | 409803 | [409803-one-button-games-5-in-1-vol-7.json](./409803-one-button-games-5-in-1-vol-7.json) |
+| One Button Games 5-in-1 Vol. 8 | 428282 | [428282-one-button-games-5-in-1-vol-8.json](./428282-one-button-games-5-in-1-vol-8.json) |
+| One Button Games 5-in-1 Vol. 9 | 428283 | [428283-one-button-games-5-in-1-vol-9.json](./428283-one-button-games-5-in-1-vol-9.json) |
 | One Button Ninja Mayhem! | 184702 | [184702-one-button-ninja-mayhem.json](./184702-one-button-ninja-mayhem.json) |
 | One Button Nipple Golf | 176769 | [176769-one-button-nipple-golf.json](./176769-one-button-nipple-golf.json) |
 | One Button Run | 267692 | [267692-one-button-run.json](./267692-one-button-run.json) |
@@ -4760,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin Online | 139279 | [139279-origin-online.json](./139279-origin-online.json) |
 | Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
 | Origin Unknown | 247859 | [247859-origin-unknown.json](./247859-origin-unknown.json) |
+| Origin Wars: Arena | 428256 | [428256-origin-wars-arena.json](./428256-origin-wars-arena.json) |
 | Original | 117226 | [117226-original.json](./117226-original.json) |
 | Original Frisbee Disc Sports: Ultimate & Golf | 21449 | [21449-original-frisbee-disc-sports-ultimate-and-golf.json](./21449-original-frisbee-disc-sports-ultimate-and-golf.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
