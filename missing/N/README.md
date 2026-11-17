@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopunk | 224684 | [224684-neopunk.json](./224684-neopunk.json) |
 | NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
 | NeoQuest II | 229026 | [229026-neoquest-ii.json](./229026-neoquest-ii.json) |
+| Neorj | 109961 | [109961-neorj.json](./109961-neorj.json) |
 | Neorude | 56360 | [56360-neorude.json](./56360-neorude.json) |
 | Neorude 2 | 206308 | [206308-neorude-2.json](./206308-neorude-2.json) |
 | Neorude: Kizamareta Monshou | 206311 | [206311-neorude-kizamareta-monshou.json](./206311-neorude-kizamareta-monshou.json) |
