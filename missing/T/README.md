@@ -29133,6 +29133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Conquest | 50090 | [50090-total-conquest.json](./50090-total-conquest.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Control | 288583 | [288583-total-control.json](./288583-total-control.json) |
+| Total Control | 429501 | [429501-total-control.json](./429501-total-control.json) |
 | Total Control Football | 78782 | [78782-total-control-football.json](./78782-total-control-football.json) |
 | Total Dark | 156834 | [156834-total-dark.json](./156834-total-dark.json) |
 | Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
@@ -35325,6 +35326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Trouble | 18589 | [18589-tropical-trouble.json](./18589-tropical-trouble.json) |
 | Tropical Wars | 58673 | [58673-tropical-wars.json](./58673-tropical-wars.json) |
 | Tropicalia | 138612 | [138612-tropicalia.json](./138612-tropicalia.json) |
+| Tropicania | 429517 | [429517-tropicania.json](./429517-tropicania.json) |
 | Tropicats | 120227 | [120227-tropicats.json](./120227-tropicats.json) |
 | TropicHell | 364371 | [364371-tropichell.json](./364371-tropichell.json) |
 | Tropico | 104248 | [104248-tropico.json](./104248-tropico.json) |
