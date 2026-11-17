@@ -11559,6 +11559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Ranking Game | 288089 | [288089-blind-ranking-game.json](./288089-blind-ranking-game.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
+| Blind Souls | 103003 | [103003-blind-souls.json](./103003-blind-souls.json) |
 | Blind Sound | 236892 | [236892-blind-sound.json](./236892-blind-sound.json) |
 | Blind Spot | 122153 | [122153-blind-spot.json](./122153-blind-spot.json) |
 | Blind Spot | 343775 | [343775-blind-spot.json](./343775-blind-spot.json) |
@@ -15664,6 +15665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulderdash | 311358 | [311358-boulderdash.json](./311358-boulderdash.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Bouldering ... At Home | 180483 | [180483-bouldering-at-home.json](./180483-bouldering-at-home.json) |
+| Bouldering Brawl | 102999 | [102999-bouldering-brawl.json](./102999-bouldering-brawl.json) |
 | Bouldering Robot 3D | 192272 | [192272-bouldering-robot-3d.json](./192272-bouldering-robot-3d.json) |
 | Boulderoid | 125147 | [125147-boulderoid.json](./125147-boulderoid.json) |
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
