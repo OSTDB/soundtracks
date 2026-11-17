@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeppelin Armada | 257149 | [257149-zeppelin-armada.json](./257149-zeppelin-armada.json) |
 | Zeppelin Rescue | 297034 | [297034-zeppelin-rescue.json](./297034-zeppelin-rescue.json) |
 | Zeppelin Rush | 348925 | [348925-zeppelin-rush.json](./348925-zeppelin-rush.json) |
+| Zeppelin VR | 74535 | [74535-zeppelin-vr.json](./74535-zeppelin-vr.json) |
 | Zeppelin: Escape Room | 190085 | [190085-zeppelin-escape-room.json](./190085-zeppelin-escape-room.json) |
 | Zepton | 134742 | [134742-zepton.json](./134742-zepton.json) |
 | ZEQ2 Lite | 209072 | [209072-zeq2-lite.json](./209072-zeq2-lite.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Go | 117031 | [117031-zombie-go.json](./117031-zombie-go.json) |
 | Zombie Go Remastered | 311449 | [311449-zombie-go-remastered.json](./311449-zombie-go-remastered.json) |
 | Zombie God | 386994 | [386994-zombie-god.json](./386994-zombie-god.json) |
+| Zombie Gold Rush | 74553 | [74553-zombie-gold-rush.json](./74553-zombie-gold-rush.json) |
 | Zombie Golf | 121983 | [121983-zombie-golf.json](./121983-zombie-golf.json) |
 | Zombie Good Guy | 188788 | [188788-zombie-good-guy.json](./188788-zombie-good-guy.json) |
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
