@@ -4352,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Forest Idle | 277433 | [277433-infinite-forest-idle.json](./277433-infinite-forest-idle.json) |
 | Infinite Frontier Super Robot Wars OG Saga | 85627 | [85627-infinite-frontier-super-robot-wars-og-saga.json](./85627-infinite-frontier-super-robot-wars-og-saga.json) |
 | Infinite Galaxy | 144543 | [144543-infinite-galaxy.json](./144543-infinite-galaxy.json) |
+| Infinite Gambit | 424139 | [424139-infinite-gambit.json](./424139-infinite-gambit.json) |
 | Infinite Game Cartridge Collection | 365337 | [365337-infinite-game-cartridge-collection.json](./365337-infinite-game-cartridge-collection.json) |
 | Infinite Game Cartridge Collection: Balloon Story | 364336 | [364336-infinite-game-cartridge-collection-balloon-story.json](./364336-infinite-game-cartridge-collection-balloon-story.json) |
 | Infinite Game Cartridge Collection: Dungeon Grove | 385420 | [385420-infinite-game-cartridge-collection-dungeon-grove.json](./385420-infinite-game-cartridge-collection-dungeon-grove.json) |
