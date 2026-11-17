@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Odyssey: Mercenary Edition | 42705 | [42705-ragnarok-odyssey-mercenary-edition.json](./42705-ragnarok-odyssey-mercenary-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
+| Ragnarok Online 2: The Gate of the World | 72865 | [72865-ragnarok-online-2-the-gate-of-the-world.json](./72865-ragnarok-online-2-the-gate-of-the-world.json) |
 | Ragnarok Online 3 | 360554 | [360554-ragnarok-online-3.json](./360554-ragnarok-online-3.json) |
 | Ragnarok Online: Valkyrie Uprising | 63655 | [63655-ragnarok-online-valkyrie-uprising.json](./63655-ragnarok-online-valkyrie-uprising.json) |
 | Ragnarok Origin | 172438 | [172438-ragnarok-origin.json](./172438-ragnarok-origin.json) |
@@ -2993,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Summon | 187691 | [187691-re-summon.json](./187691-re-summon.json) |
 | Re: Survivor | 193430 | [193430-re-survivor.json](./193430-re-survivor.json) |
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
+| Re: Zero -Life in Another World in VR | 74562 | [74562-re-zero-life-in-another-world-in-vr.json](./74562-re-zero-life-in-another-world-in-vr.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
 | Re:Agent | 303925 | [303925-re-agent.json](./303925-re-agent.json) |
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
@@ -4750,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redeliver | 147036 | [147036-redeliver.json](./147036-redeliver.json) |
 | Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
+| Redemption | 74526 | [74526-redemption.json](./74526-redemption.json) |
 | Redemption Cemetery: At Death's Door - Collector's Edition | 416414 | [416414-redemption-cemetery-at-deaths-door-collectors-edition.json](./416414-redemption-cemetery-at-deaths-door-collectors-edition.json) |
 | Redemption Cemetery: At Death's Door Hidden | 96603 | [96603-redemption-cemetery-at-deaths-door-hidden.json](./96603-redemption-cemetery-at-deaths-door-hidden.json) |
 | Redemption Cemetery: Bitter Frost | 61076 | [61076-redemption-cemetery-bitter-frost.json](./61076-redemption-cemetery-bitter-frost.json) |
