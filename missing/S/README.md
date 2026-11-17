@@ -4121,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratch Your Luck | 424012 | [424012-scratch-your-luck.json](./424012-scratch-your-luck.json) |
 | Scratch: The Ultimate DJ | 52796 | [52796-scratch-the-ultimate-dj.json](./52796-scratch-the-ultimate-dj.json) |
+| Scratcher Simulator | 427091 | [427091-scratcher-simulator.json](./427091-scratcher-simulator.json) |
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
 | Scratches: Director's Cut | 51365 | [51365-scratches-directors-cut.json](./51365-scratches-directors-cut.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
@@ -20883,6 +20884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
+| Sort The Plushie Store | 427136 | [427136-sort-the-plushie-store.json](./427136-sort-the-plushie-store.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
 | Sort Them Alpacas: Overload! | 426934 | [426934-sort-them-alpacas-overload.json](./426934-sort-them-alpacas-overload.json) |
@@ -22915,6 +22917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
 | Space Threat | 272906 | [272906-space-threat.json](./272906-space-threat.json) |
 | Space Thugs | 326184 | [326184-space-thugs.json](./326184-space-thugs.json) |
+| Space Thunderbird | 427101 | [427101-space-thunderbird.json](./427101-space-thunderbird.json) |
 | Space Time | 226616 | [226616-space-time.json](./226616-space-time.json) |
 | Space Time Ocean | 270777 | [270777-space-time-ocean.json](./270777-space-time-ocean.json) |
 | Space to Grow | 164763 | [164763-space-to-grow.json](./164763-space-to-grow.json) |
