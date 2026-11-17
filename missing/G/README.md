@@ -10844,6 +10844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimmwood | 100580 | [100580-grimmwood.json](./100580-grimmwood.json) |
 | Grimmy Tales | 240675 | [240675-grimmy-tales.json](./240675-grimmy-tales.json) |
 | Grimnight Heroes: Survivors | 212533 | [212533-grimnight-heroes-survivors.json](./212533-grimnight-heroes-survivors.json) |
+| Grimo | 109819 | [109819-grimo.json](./109819-grimo.json) |
 | Grimoire | 296799 | [296799-grimoire.json](./296799-grimoire.json) |
 | Grimoire | 296800 | [296800-grimoire.json](./296800-grimoire.json) |
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
