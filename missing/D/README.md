@@ -13258,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Dots | 187686 | [187686-dodge-dots.json](./187686-dodge-dots.json) |
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
 | Dodge Everything | 381367 | [381367-dodge-everything.json](./381367-dodge-everything.json) |
+| Dodge Hard | 113782 | [113782-dodge-hard.json](./113782-dodge-hard.json) |
 | Dodge If you Can! | 130974 | [130974-dodge-if-you-can.json](./130974-dodge-if-you-can.json) |
 | Dodge It | 369805 | [369805-dodge-it.json](./369805-dodge-it.json) |
 | Dodge It! | 165736 | [165736-dodge-it.json](./165736-dodge-it.json) |
@@ -14204,7 +14205,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Die Alone | 256788 | [256788-dont-die-alone.json](./256788-dont-die-alone.json) |
 | Don't Die Dateless, Dummy! | 33198 | [33198-dont-die-dateless-dummy.json](./33198-dont-die-dateless-dummy.json) |
 | Don't die in space! | 236783 | [236783-dont-die-in-space.json](./236783-dont-die-in-space.json) |
-| Don't Die Mr Robot! DX | 99306 | [99306-dont-die-mr-robot-dx.json](./99306-dont-die-mr-robot-dx.json) |
 | Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
 | Don't Die, Collect Loot | 247861 | [247861-dont-die-collect-loot.json](./247861-dont-die-collect-loot.json) |
 | Don't Die, Kangel! | 283604 | [283604-dont-die-kangel.json](./283604-dont-die-kangel.json) |
