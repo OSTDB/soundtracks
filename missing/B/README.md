@@ -13991,6 +13991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! Docomodake DS | 21473 | [21473-boing-docomodake-ds.json](./21473-boing-docomodake-ds.json) |
 | Boing! The Game | 15703 | [15703-boing-the-game.json](./15703-boing-the-game.json) |
 | BoingBoingOuch | 196480 | [196480-boingboingouch.json](./196480-boingboingouch.json) |
+| BoingBound | 429502 | [429502-boingbound.json](./429502-boingbound.json) |
 | Boinggg! | 13419 | [13419-boinggg.json](./13419-boinggg.json) |
 | Boingkid | 177682 | [177682-boingkid.json](./177682-boingkid.json) |
 | Boingus' Big Day | 411981 | [411981-boingus-big-day.json](./411981-boingus-big-day.json) |
@@ -14702,6 +14703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk | 230865 | [230865-bonk.json](./230865-bonk.json) |
 | Bonk | 338433 | [338433-bonk.json](./338433-bonk.json) |
 | Bonk 'N Bash | 379122 | [379122-bonk-n-bash.json](./379122-bonk-n-bash.json) |
+| Bonk & Boom | 429476 | [429476-bonk-and-boom.json](./429476-bonk-and-boom.json) |
 | Bonk 3: Bonk's Big Adventure | 37615 | [37615-bonk-3-bonks-big-adventure.json](./37615-bonk-3-bonks-big-adventure.json) |
 | Bonk It! | 338435 | [338435-bonk-it.json](./338435-bonk-it.json) |
 | Bonk Jam! | 309234 | [309234-bonk-jam.json](./309234-bonk-jam.json) |
