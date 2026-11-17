@@ -2690,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooming Secretary | 48371 | [48371-zooming-secretary.json](./48371-zooming-secretary.json) |
 | Zoominoes | 331193 | [331193-zoominoes.json](./331193-zoominoes.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
+| Zoomorphism | 423496 | [423496-zoomorphism.json](./423496-zoomorphism.json) |
 | ZoomOut | 367285 | [367285-zoomout.json](./367285-zoomout.json) |
 | Zooms Rampage | 297754 | [297754-zooms-rampage.json](./297754-zooms-rampage.json) |
 | ZooMumba | 304277 | [304277-zoomumba.json](./304277-zoomumba.json) |
