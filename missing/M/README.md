@@ -10479,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowgic | 394435 | [394435-meowgic.json](./394435-meowgic.json) |
 | Meowgic Mix | 380504 | [380504-meowgic-mix.json](./380504-meowgic-mix.json) |
 | MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
+| Meowhalla | 129291 | [129291-meowhalla.json](./129291-meowhalla.json) |
 | Meowhiss the Snake | 292761 | [292761-meowhiss-the-snake.json](./292761-meowhiss-the-snake.json) |
 | Meowing Point | 260358 | [260358-meowing-point.json](./260358-meowing-point.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
@@ -15162,6 +15163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Soft Series: Shanghai | 49725 | [49725-minna-no-soft-series-shanghai.json](./49725-minna-no-soft-series-shanghai.json) |
 | Minna no Soft Series: Tetris Advance | 49724 | [49724-minna-no-soft-series-tetris-advance.json](./49724-minna-no-soft-series-tetris-advance.json) |
 | Minna no Sokoban | 121416 | [121416-minna-no-sokoban.json](./121416-minna-no-sokoban.json) |
+| Minna no Suizokukan | 130437 | [130437-minna-no-suizokukan.json](./130437-minna-no-suizokukan.json) |
 | Minna no Tabou no Nakayoshi Daisakusen | 48628 | [48628-minna-no-tabou-no-nakayoshi-daisakusen.json](./48628-minna-no-tabou-no-nakayoshi-daisakusen.json) |
 | Minna no Tetris | 218532 | [218532-minna-no-tetris.json](./218532-minna-no-tetris.json) |
 | Minna no Tsume Shogi Chuukyuu-hen 1 | 145314 | [145314-minna-no-tsume-shogi-chuukyuu-hen-1.json](./145314-minna-no-tsume-shogi-chuukyuu-hen-1.json) |
@@ -16804,6 +16806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
 | Modo Modo | 374022 | [374022-modo-modo.json](./374022-modo-modo.json) |
+| Modoo Marble | 130419 | [130419-modoo-marble.json](./130419-modoo-marble.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
 | Modular Combat | 174412 | [174412-modular-combat.json](./174412-modular-combat.json) |
@@ -17034,6 +17037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molar Maul | 212124 | [212124-molar-maul.json](./212124-molar-maul.json) |
 | Molar Mayhem | 365611 | [365611-molar-mayhem.json](./365611-molar-mayhem.json) |
 | Molar: Underground | 266609 | [266609-molar-underground.json](./266609-molar-underground.json) |
+| MOLC's Daily Life of S.P.R.I.T.E.S. | 131632 | [131632-molcs-daily-life-of-s-p-r-i-t-e-s.json](./131632-molcs-daily-life-of-s-p-r-i-t-e-s.json) |
 | Mold | 239558 | [239558-mold.json](./239558-mold.json) |
 | Mold | 349209 | [349209-mold.json](./349209-mold.json) |
 | Mold 2: Origin | 240073 | [240073-mold-2-origin.json](./240073-mold-2-origin.json) |
@@ -18076,6 +18080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Portable 3rd | 42759 | [42759-monster-hunter-portable-3rd.json](./42759-monster-hunter-portable-3rd.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
 | Monster Hunter Puzzles: Felyne Isles | 307018 | [307018-monster-hunter-puzzles-felyne-isles.json](./307018-monster-hunter-puzzles-felyne-isles.json) |
+| Monster Hunter Riders | 130415 | [130415-monster-hunter-riders.json](./130415-monster-hunter-riders.json) |
 | Monster Hunter Rise | 138950 | [138950-monster-hunter-rise.json](./138950-monster-hunter-rise.json) |
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
@@ -20021,6 +20026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
 | Mosha Online | 126275 | [126275-mosha-online.json](./126275-mosha-online.json) |
 | Moshcave | 216709 | [216709-moshcave.json](./216709-moshcave.json) |
+| Móshén zhī Zhàn | 131627 | [131627-moshen-zhi-zhan.json](./131627-moshen-zhi-zhan.json) |
 | Moshi Color with Fluttercup | 381912 | [381912-moshi-color-with-fluttercup.json](./381912-moshi-color-with-fluttercup.json) |
 | Moshi Karts | 381929 | [381929-moshi-karts.json](./381929-moshi-karts.json) |
 | Moshi Kids | 381916 | [381916-moshi-kids.json](./381916-moshi-kids.json) |
