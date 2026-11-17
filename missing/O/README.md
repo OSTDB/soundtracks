@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opsys | 71749 | [71749-opsys.json](./71749-opsys.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
+| Optical Ball | 180743 | [180743-optical-ball.json](./180743-optical-ball.json) |
 | Optical Illusions | 282729 | [282729-optical-illusions.json](./282729-optical-illusions.json) |
 | Optical Inquisitor | 95338 | [95338-optical-inquisitor.json](./95338-optical-inquisitor.json) |
 | Opticale | 119944 | [119944-opticale.json](./119944-opticale.json) |
