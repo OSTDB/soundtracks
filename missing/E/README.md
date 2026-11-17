@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
 | Ehub Cities: Blackout | 392004 | [392004-ehub-cities-blackout.json](./392004-ehub-cities-blackout.json) |
 | Eia | 149319 | [149319-eia.json](./149319-eia.json) |
+| Eid Mela: A Festive Adventure | 419681 | [419681-eid-mela-a-festive-adventure.json](./419681-eid-mela-a-festive-adventure.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidol | 405550 | [405550-eidol.json](./405550-eidol.json) |
 | Eidolon | 122709 | [122709-eidolon.json](./122709-eidolon.json) |
@@ -8874,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Dino | 397624 | [397624-exo-dino.json](./397624-exo-dino.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exo-Planet | 64292 | [64292-exo-planet.json](./64292-exo-planet.json) |
+| Exo-Rail | 419720 | [419720-exo-rail.json](./419720-exo-rail.json) |
 | EXO-Roid | 408463 | [408463-exo-roid.json](./408463-exo-roid.json) |
 | Exo-Ship Saga | 172537 | [172537-exo-ship-saga.json](./172537-exo-ship-saga.json) |
 | Exo-Squad | 45631 | [45631-exo-squad.json](./45631-exo-squad.json) |
