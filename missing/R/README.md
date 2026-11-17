@@ -6197,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Operation | 158856 | [158856-rescue-operation.json](./158856-rescue-operation.json) |
 | Rescue Operations Simulator | 216537 | [216537-rescue-operations-simulator.json](./216537-rescue-operations-simulator.json) |
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
+| Rescue Party: Live! | 159899 | [159899-rescue-party-live.json](./159899-rescue-party-live.json) |
 | Rescue Pets | 359221 | [359221-rescue-pets.json](./359221-rescue-pets.json) |
 | Rescue Pets: My ePets | 252120 | [252120-rescue-pets-my-epets.json](./252120-rescue-pets-my-epets.json) |
 | Rescue Q | 330794 | [330794-rescue-q.json](./330794-rescue-q.json) |
@@ -9822,6 +9823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rob Blanc II: Planet of the Pasteurised Pestilence | 171552 | [171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json](./171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json) |
 | Rob Blanc III: The Temporal Terrorists | 171553 | [171553-rob-blanc-iii-the-temporal-terrorists.json](./171553-rob-blanc-iii-the-temporal-terrorists.json) |
 | Rob for Two | 179920 | [179920-rob-for-two.json](./179920-rob-for-two.json) |
+| Rob Riches | 159909 | [159909-rob-riches.json](./159909-rob-riches.json) |
 | Rob Run | 416015 | [416015-rob-run.json](./416015-rob-run.json) |
 | Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
 | Robabekya | 309817 | [309817-robabekya.json](./309817-robabekya.json) |
