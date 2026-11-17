@@ -3082,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | Cards of the Realm | 246916 | [246916-cards-of-the-realm.json](./246916-cards-of-the-realm.json) |
 | Cards On The Table | 412462 | [412462-cards-on-the-table.json](./412462-cards-on-the-table.json) |
+| Cards Rumble: Clash of Elements | 423481 | [423481-cards-rumble-clash-of-elements.json](./423481-cards-rumble-clash-of-elements.json) |
 | Cards Survivors | 246487 | [246487-cards-survivors.json](./246487-cards-survivors.json) |
 | Cards We're Dealt | 244741 | [244741-cards-were-dealt.json](./244741-cards-were-dealt.json) |
 | Cards with Personalities | 182661 | [182661-cards-with-personalities.json](./182661-cards-with-personalities.json) |
@@ -6188,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centaurus | 313375 | [313375-centaurus.json](./313375-centaurus.json) |
 | Center Court | 40073 | [40073-center-court.json](./40073-center-court.json) |
 | Center Court Tennis | 100041 | [100041-center-court-tennis.json](./100041-center-court-tennis.json) |
+| Center Ice Hockey | 423525 | [423525-center-ice-hockey.json](./423525-center-ice-hockey.json) |
 | Center Mass: Streets of Ramadi | 344796 | [344796-center-mass-streets-of-ramadi.json](./344796-center-mass-streets-of-ramadi.json) |
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
 | Center Ring Boxing | 92548 | [92548-center-ring-boxing.json](./92548-center-ring-boxing.json) |
@@ -21529,6 +21531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Guardians | 240672 | [240672-crystal-guardians.json](./240672-crystal-guardians.json) |
 | Crystal Guardians | 316058 | [316058-crystal-guardians.json](./316058-crystal-guardians.json) |
 | Crystal Hammer | 15921 | [15921-crystal-hammer.json](./15921-crystal-hammer.json) |
+| Crystal Harvest: Apex Operator | 423526 | [423526-crystal-harvest-apex-operator.json](./423526-crystal-harvest-apex-operator.json) |
 | Crystal Hearts 2: Compass of Dimension | 174729 | [174729-crystal-hearts-2-compass-of-dimension.json](./174729-crystal-hearts-2-compass-of-dimension.json) |
 | Crystal Heroes | 284979 | [284979-crystal-heroes.json](./284979-crystal-heroes.json) |
 | Crystal Horizons | 295787 | [295787-crystal-horizons.json](./295787-crystal-horizons.json) |
@@ -22941,6 +22944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curved World | 428426 | [428426-curved-world.json](./428426-curved-world.json) |
 | CurveFever | 112097 | [112097-curvefever.json](./112097-curvefever.json) |
 | Curvelicious | 321223 | [321223-curvelicious.json](./321223-curvelicious.json) |
+| Curvelicious 2 | 423503 | [423503-curvelicious-2.json](./423503-curvelicious-2.json) |
 | Curves | 118234 | [118234-curves.json](./118234-curves.json) |
 | Curvid Nurntine and the Black Vaccine | 379713 | [379713-curvid-nurntine-and-the-black-vaccine.json](./379713-curvid-nurntine-and-the-black-vaccine.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
