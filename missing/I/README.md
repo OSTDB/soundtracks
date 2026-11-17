@@ -6519,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
 | Irbet Tong | 349529 | [349529-irbet-tong.json](./349529-irbet-tong.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
+| Ire: Blood Memory | 51479 | [51479-ire-blood-memory.json](./51479-ire-blood-memory.json) |
 | IRec | 30471 | [30471-irec.json](./30471-irec.json) |
 | Irehon | 188413 | [188413-irehon.json](./188413-irehon.json) |
 | Irekae IQ Crossword | 292040 | [292040-irekae-iq-crossword.json](./292040-irekae-iq-crossword.json) |
