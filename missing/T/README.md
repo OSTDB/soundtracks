@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatsunoko vs. Capcom: Ultimate All Stars | 2275 | [2275-tatsunoko-vs-capcom-ultimate-all-stars.json](./2275-tatsunoko-vs-capcom-ultimate-all-stars.json) |
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
 | Tatters of The King | 387710 | [387710-tatters-of-the-king.json](./387710-tatters-of-the-king.json) |
+| Tattie Bogle | 425920 | [425920-tattie-bogle.json](./425920-tattie-bogle.json) |
 | Tattletail | 26665 | [26665-tattletail.json](./26665-tattletail.json) |
 | Tattletail - Horror Night | 108573 | [108573-tattletail-horror-night.json](./108573-tattletail-horror-night.json) |
 | Tattoo and Girls | 156769 | [156769-tattoo-and-girls.json](./156769-tattoo-and-girls.json) |
@@ -3484,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Annihilation | 58405 | [58405-tech-annihilation.json](./58405-tech-annihilation.json) |
 | Tech Bike Freestyle | 206610 | [206610-tech-bike-freestyle.json](./206610-tech-bike-freestyle.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
+| Tech Chaos | 425930 | [425930-tech-chaos.json](./425930-tech-chaos.json) |
 | Tech Clash | 123796 | [123796-tech-clash.json](./123796-tech-clash.json) |
 | Tech Deck Dude Bare Knuckle Grind | 110580 | [110580-tech-deck-dude-bare-knuckle-grind.json](./110580-tech-deck-dude-bare-knuckle-grind.json) |
 | Tech Deck Skateboarding | 49995 | [49995-tech-deck-skateboarding.json](./49995-tech-deck-skateboarding.json) |
@@ -3592,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techwars Online | 95703 | [95703-techwars-online.json](./95703-techwars-online.json) |
 | Techwars Online 2 | 31454 | [31454-techwars-online-2.json](./31454-techwars-online-2.json) |
 | Teck Boxing 3D | 110619 | [110619-teck-boxing-3d.json](./110619-teck-boxing-3d.json) |
+| Teckium Idle RPG | 425964 | [425964-teckium-idle-rpg.json](./425964-teckium-idle-rpg.json) |
 | Tecktonik World Tour | 92671 | [92671-tecktonik-world-tour.json](./92671-tecktonik-world-tour.json) |
 | Tecmo Baseball | 48228 | [48228-tecmo-baseball.json](./48228-tecmo-baseball.json) |
 | Tecmo Bowl | 198937 | [198937-tecmo-bowl.json](./198937-tecmo-bowl.json) |
@@ -5054,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terramancer | 128153 | [128153-terramancer.json](./128153-terramancer.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
 | Terramystra | 383713 | [383713-terramystra.json](./383713-terramystra.json) |
+| Terran Dawn | 425911 | [425911-terran-dawn.json](./425911-terran-dawn.json) |
 | Terrance the Flying Eyeball | 60915 | [60915-terrance-the-flying-eyeball.json](./60915-terrance-the-flying-eyeball.json) |
 | Terranean | 83353 | [83353-terranean.json](./83353-terranean.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
@@ -16289,6 +16293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oni Taiji: Mezase! Nidaime Momotarou | 257855 | [257855-the-oni-taiji-mezase-nidaime-momotarou.json](./257855-the-oni-taiji-mezase-nidaime-momotarou.json) |
 | The Onion Knights: Definite Edition | 118578 | [118578-the-onion-knights-definite-edition.json](./118578-the-onion-knights-definite-edition.json) |
 | The Onion Knights: Definitive Edition | 29300 | [29300-the-onion-knights-definitive-edition.json](./29300-the-onion-knights-definitive-edition.json) |
+| The Onion Voting Simulator 3D | 425913 | [425913-the-onion-voting-simulator-3d.json](./425913-the-onion-voting-simulator-3d.json) |
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
 | The Only Master | 156749 | [156749-the-only-master.json](./156749-the-only-master.json) |
 | The Only One | 128872 | [128872-the-only-one.json](./128872-the-only-one.json) |
@@ -16331,6 +16336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Order: 1886 - Collector's Edition | 42908 | [42908-the-order-1886-collectors-edition.json](./42908-the-order-1886-collectors-edition.json) |
 | The Order: 1886 - Premium Edition | 42909 | [42909-the-order-1886-premium-edition.json](./42909-the-order-1886-premium-edition.json) |
 | The ordinary case of Margaret Luoni | 152819 | [152819-the-ordinary-case-of-margaret-luoni.json](./152819-the-ordinary-case-of-margaret-luoni.json) |
+| The Ordre of Veiel: Tactical Deckbuilding | 425933 | [425933-the-ordre-of-veiel-tactical-deckbuilding.json](./425933-the-ordre-of-veiel-tactical-deckbuilding.json) |
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
 | The Oregon Trail | 191526 | [191526-the-oregon-trail.json](./191526-the-oregon-trail.json) |
 | The Oregon Trail | 213730 | [213730-the-oregon-trail.json](./213730-the-oregon-trail.json) |
@@ -17544,6 +17550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restricted Index | 398539 | [398539-the-restricted-index.json](./398539-the-restricted-index.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
 | The Resurrection of Amelia: Across Two Worlds | 214268 | [214268-the-resurrection-of-amelia-across-two-worlds.json](./214268-the-resurrection-of-amelia-across-two-worlds.json) |
+| The Retired Mage's Apprentice: Tidy Up the Magic Tower | 425928 | [425928-the-retired-mages-apprentice-tidy-up-the-magic-tower.json](./425928-the-retired-mages-apprentice-tidy-up-the-magic-tower.json) |
 | The Retrieval | 212062 | [212062-the-retrieval.json](./212062-the-retrieval.json) |
 | The Retro Exorcist | 401710 | [401710-the-retro-exorcist.json](./401710-the-retro-exorcist.json) |
 | The Retrospection of Tomorrow | 354750 | [354750-the-retrospection-of-tomorrow.json](./354750-the-retrospection-of-tomorrow.json) |
@@ -30923,6 +30930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys 'n' Traps | 154044 | [154044-toys-n-traps.json](./154044-toys-n-traps.json) |
 | Toys & Physics | 153314 | [153314-toys-and-physics.json](./153314-toys-and-physics.json) |
 | Toys and Me: Bubble Pop | 98845 | [98845-toys-and-me-bubble-pop.json](./98845-toys-and-me-bubble-pop.json) |
+| Toys Co. | 425921 | [425921-toys-co.json](./425921-toys-co.json) |
 | Toys Cracker | 310081 | [310081-toys-cracker.json](./310081-toys-cracker.json) |
 | Toys Dream | 82822 | [82822-toys-dream.json](./82822-toys-dream.json) |
 | Toys Gun Fire Boom | 55467 | [55467-toys-gun-fire-boom.json](./55467-toys-gun-fire-boom.json) |
@@ -34892,6 +34900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trion | 292039 | [292039-trion.json](./292039-trion.json) |
 | Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
 | Trionfi | 428278 | [428278-trionfi.json](./428278-trionfi.json) |
+| Trionis Land | 425965 | [425965-trionis-land.json](./425965-trionis-land.json) |
 | Trionix | 91287 | [91287-trionix.json](./91287-trionix.json) |
 | Triopticon | 284281 | [284281-triopticon.json](./284281-triopticon.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
@@ -35891,6 +35900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
 | Truzzle | 161609 | [161609-truzzle.json](./161609-truzzle.json) |
 | Try | 135695 | [135695-try.json](./135695-try.json) |
+| Try | 425959 | [425959-try.json](./425959-try.json) |
 | Try 'n Cry: Prologue | 123784 | [123784-try-n-cry-prologue.json](./123784-try-n-cry-prologue.json) |
 | Try 2 Sleep | 323434 | [323434-try-2-sleep.json](./323434-try-2-sleep.json) |
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
