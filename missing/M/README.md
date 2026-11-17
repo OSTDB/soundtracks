@@ -5087,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
 | Marsh's Mellow Flower Shop | 380220 | [380220-marshs-mellow-flower-shop.json](./380220-marshs-mellow-flower-shop.json) |
 | Marsha in the Mysterious Tower! | 393177 | [393177-marsha-in-the-mysterious-tower.json](./393177-marsha-in-the-mysterious-tower.json) |
+| Marshal | 180728 | [180728-marshal.json](./180728-marshal.json) |
 | Marshal in Hell | 235611 | [235611-marshal-in-hell.json](./235611-marshal-in-hell.json) |
 | Marshall Mellow | 155875 | [155875-marshall-mellow.json](./155875-marshall-mellow.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
@@ -11615,6 +11616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrocraft 2036 | 399676 | [399676-metrocraft-2036.json](./399676-metrocraft-2036.json) |
 | MetroCross | 383995 | [383995-metrocross.json](./383995-metrocross.json) |
 | Metrocubevania | 218309 | [218309-metrocubevania.json](./218309-metrocubevania.json) |
+| Metrodungeon | 180336 | [180336-metrodungeon.json](./180336-metrodungeon.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
 | Metroid | 342602 | [342602-metroid.json](./342602-metroid.json) |
@@ -21605,6 +21607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Muchi Muchi Pork! | 39698 | [39698-muchi-muchi-pork.json](./39698-muchi-muchi-pork.json) |
+| Mucho Muscle | 180736 | [180736-mucho-muscle.json](./180736-mucho-muscle.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
 | Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
@@ -21614,6 +21617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Mud and Blood 2 | 56020 | [56020-mud-and-blood-2.json](./56020-mud-and-blood-2.json) |
 | Mud and Blood: Recon | 109098 | [109098-mud-and-blood-recon.json](./109098-mud-and-blood-recon.json) |
+| Mud and Pixels | 180724 | [180724-mud-and-pixels.json](./180724-mud-and-pixels.json) |
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud Pies | 322550 | [322550-mud-pies.json](./322550-mud-pies.json) |
 | Mud River | 171869 | [171869-mud-river.json](./171869-mud-river.json) |
