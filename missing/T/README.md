@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Busters | 124667 | [124667-tap-busters.json](./124667-tap-busters.json) |
 | Tap Busters: Galaxy Heroes | 93850 | [93850-tap-busters-galaxy-heroes.json](./93850-tap-busters-galaxy-heroes.json) |
 | Tap Cat RPG: Simple Emoji Cat Idle Game | 297642 | [297642-tap-cat-rpg-simple-emoji-cat-idle-game.json](./297642-tap-cat-rpg-simple-emoji-cat-idle-game.json) |
+| Tap Cats: Battle Arena | 113780 | [113780-tap-cats-battle-arena.json](./113780-tap-cats-battle-arena.json) |
 | Tap City | 259079 | [259079-tap-city.json](./259079-tap-city.json) |
 | Tap City Tycoon | 256434 | [256434-tap-city-tycoon.json](./256434-tap-city-tycoon.json) |
 | Tap Combo Color Blocks | 356512 | [356512-tap-combo-color-blocks.json](./356512-tap-combo-color-blocks.json) |
@@ -4029,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleportal 2 | 323583 | [323583-teleportal-2.json](./323583-teleportal-2.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Teleportals. I swear it's a nice game. | 103192 | [103192-teleportals-i-swear-its-a-nice-game.json](./103192-teleportals-i-swear-its-a-nice-game.json) |
+| Teleporter | 109812 | [109812-teleporter.json](./109812-teleporter.json) |
 | Teleportia | 286358 | [286358-teleportia.json](./286358-teleportia.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Teleroboxer | 20984 | [20984-teleroboxer.json](./20984-teleroboxer.json) |
@@ -4272,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Temple | 33563 | [33563-temporal-temple.json](./33563-temporal-temple.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporal War | 257793 | [257793-temporal-war.json](./257793-temporal-war.json) |
+| Temporality | 109793 | [109793-temporality.json](./109793-temporality.json) |
 | Temporalysis | 360330 | [360330-temporalysis.json](./360330-temporalysis.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
 | Temporary Girl | 160206 | [160206-temporary-girl.json](./160206-temporary-girl.json) |
@@ -9252,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detective | 201415 | [201415-the-detective.json](./201415-the-detective.json) |
 | The Detective | 275700 | [275700-the-detective.json](./275700-the-detective.json) |
 | The Detective Chapters: Part One | 112451 | [112451-the-detective-chapters-part-one.json](./112451-the-detective-chapters-part-one.json) |
+| The detective ChuLin | 109779 | [109779-the-detective-chulin.json](./109779-the-detective-chulin.json) |
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
 | The Detective's Apprentice | 362239 | [362239-the-detectives-apprentice.json](./362239-the-detectives-apprentice.json) |
@@ -10385,6 +10389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Frontier | 55568 | [55568-the-far-frontier.json](./55568-the-far-frontier.json) |
 | The Far Kingdoms: Age of Solitaire | 137835 | [137835-the-far-kingdoms-age-of-solitaire.json](./137835-the-far-kingdoms-age-of-solitaire.json) |
 | The Far Kingdoms: Awakening Solitaire | 115527 | [115527-the-far-kingdoms-awakening-solitaire.json](./115527-the-far-kingdoms-awakening-solitaire.json) |
+| The Far Kingdoms: Elements | 113773 | [113773-the-far-kingdoms-elements.json](./113773-the-far-kingdoms-elements.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
 | The Far Kingdoms: Hidden Magic | 163889 | [163889-the-far-kingdoms-hidden-magic.json](./163889-the-far-kingdoms-hidden-magic.json) |
@@ -19188,6 +19193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Station VR | 112687 | [112687-the-station-vr.json](./112687-the-station-vr.json) |
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
+| The Steadfast VR Challenge | 109821 | [109821-the-steadfast-vr-challenge.json](./109821-the-steadfast-vr-challenge.json) |
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
 | The Stealth Inc 1 & 2 Ultimate-est Edition | 118503 | [118503-the-stealth-inc-1-and-2-ultimate-est-edition.json](./118503-the-stealth-inc-1-and-2-ultimate-est-edition.json) |
 | The Steamboat of Madness | 421645 | [421645-the-steamboat-of-madness.json](./421645-the-steamboat-of-madness.json) |
@@ -22916,6 +22922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrill EX | 401677 | [401677-thrill-ex.json](./401677-thrill-ex.json) |
 | Thrill Kill | 2387 | [2387-thrill-kill.json](./2387-thrill-kill.json) |
 | Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
+| Thrill Rollercoasters | 109798 | [109798-thrill-rollercoasters.json](./109798-thrill-rollercoasters.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thriller Escape: Mansion of Terror | 322404 | [322404-thriller-escape-mansion-of-terror.json](./322404-thriller-escape-mansion-of-terror.json) |
 | Thriller Garden | 256724 | [256724-thriller-garden.json](./256724-thriller-garden.json) |
@@ -24186,6 +24193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Soldier I: MP098 | 189429 | [189429-tiger-soldier-i-mp098.json](./189429-tiger-soldier-i-mp098.json) |
 | Tiger Soldier I: MP099 | 173702 | [173702-tiger-soldier-i-mp099.json](./173702-tiger-soldier-i-mp099.json) |
 | Tiger Soldier I: MP100 | 189428 | [189428-tiger-soldier-i-mp100.json](./189428-tiger-soldier-i-mp100.json) |
+| Tiger Striker | 109809 | [109809-tiger-striker.json](./109809-tiger-striker.json) |
 | Tiger Striker: MP001 | 161933 | [161933-tiger-striker-mp001.json](./161933-tiger-striker-mp001.json) |
 | Tiger Striker: MP002 | 161934 | [161934-tiger-striker-mp002.json](./161934-tiger-striker-mp002.json) |
 | Tiger Striker: MP003 | 161938 | [161938-tiger-striker-mp003.json](./161938-tiger-striker-mp003.json) |
@@ -29988,6 +29996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: BlackEight | 423926 | [423926-touhou-blackeight.json](./423926-touhou-blackeight.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Combinations With You | 214819 | [214819-touhou-combinations-with-you.json](./214819-touhou-combinations-with-you.json) |
+| Touhou: Dreaming Butterfly | 109787 | [109787-touhou-dreaming-butterfly.json](./109787-touhou-dreaming-butterfly.json) |
 | Touhou: Dreamland of Infinity | 219356 | [219356-touhou-dreamland-of-infinity.json](./219356-touhou-dreamland-of-infinity.json) |
 | Touhou: Dreams of a Sunflower | 298463 | [298463-touhou-dreams-of-a-sunflower.json](./298463-touhou-dreams-of-a-sunflower.json) |
 | Touhou: Fading Illusion | 228201 | [228201-touhou-fading-illusion.json](./228201-touhou-fading-illusion.json) |
