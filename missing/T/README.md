@@ -28796,6 +28796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
 | Topsoil | 142590 | [142590-topsoil.json](./142590-topsoil.json) |
 | Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
+| Topspin | 197422 | [197422-topspin.json](./197422-topspin.json) |
 | TopSpin 2K25 | 282959 | [282959-topspin-2k25.json](./282959-topspin-2k25.json) |
 | TopSpin 2K25: Deluxe Edition | 292137 | [292137-topspin-2k25-deluxe-edition.json](./292137-topspin-2k25-deluxe-edition.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
