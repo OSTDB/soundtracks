@@ -16303,6 +16303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Onion Knights: Definitive Edition | 29300 | [29300-the-onion-knights-definitive-edition.json](./29300-the-onion-knights-definitive-edition.json) |
 | The Onion Voting Simulator 3D | 425913 | [425913-the-onion-voting-simulator-3d.json](./425913-the-onion-voting-simulator-3d.json) |
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
+| The Only Eye: Arcane Legacy | 422925 | [422925-the-only-eye-arcane-legacy.json](./422925-the-only-eye-arcane-legacy.json) |
 | The Only Master | 156749 | [156749-the-only-master.json](./156749-the-only-master.json) |
 | The Only One | 128872 | [128872-the-only-one.json](./128872-the-only-one.json) |
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
@@ -30599,6 +30600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerbolt | 265269 | [265269-towerbolt.json](./265269-towerbolt.json) |
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
 | Towerbots | 148172 | [148172-towerbots.json](./148172-towerbots.json) |
+| Towerburst | 422964 | [422964-towerburst.json](./422964-towerburst.json) |
 | TowerClimb | 34609 | [34609-towerclimb.json](./34609-towerclimb.json) |
 | Towercore: Survivors | 272898 | [272898-towercore-survivors.json](./272898-towercore-survivors.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
@@ -34612,6 +34614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
 | Tribes Extreme | 206074 | [206074-tribes-extreme.json](./206074-tribes-extreme.json) |
 | Tribes of Midgard: Deluxe Edition | 153053 | [153053-tribes-of-midgard-deluxe-edition.json](./153053-tribes-of-midgard-deluxe-edition.json) |
+| Tribes of the Ridge | 422965 | [422965-tribes-of-the-ridge.json](./422965-tribes-of-the-ridge.json) |
 | Tribes of Tis'te | 147044 | [147044-tribes-of-tiste.json](./147044-tribes-of-tiste.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
