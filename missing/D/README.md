@@ -5881,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dee Dee Planet | 210790 | [210790-dee-dee-planet.json](./210790-dee-dee-planet.json) |
 | Dee Dum | 134992 | [134992-dee-dum.json](./134992-dee-dum.json) |
 | Dee-6: Dice Defenders | 145562 | [145562-dee-6-dice-defenders.json](./145562-dee-6-dice-defenders.json) |
+| Dee's Nuts | 206876 | [206876-dees-nuts.json](./206876-dees-nuts.json) |
 | Dee's Nuts 2 | 275871 | [275871-dees-nuts-2.json](./275871-dees-nuts-2.json) |
 | Deed: Sustainable Business | 240201 | [240201-deed-sustainable-business.json](./240201-deed-sustainable-business.json) |
 | Deedlee Doo! Carkour! | 342090 | [342090-deedlee-doo-carkour.json](./342090-deedlee-doo-carkour.json) |
@@ -8043,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dereliction | 111955 | [111955-dereliction.json](./111955-dereliction.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
 | Derelicts | 191345 | [191345-derelicts.json](./191345-derelicts.json) |
+| Derelikt | 206842 | [206842-derelikt.json](./206842-derelikt.json) |
 | DerenGo II | 62656 | [62656-derengo-ii.json](./62656-derengo-ii.json) |
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
 | DeResolution | 272189 | [272189-deresolution.json](./272189-deresolution.json) |
