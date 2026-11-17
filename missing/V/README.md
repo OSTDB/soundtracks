@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verkehrsspiele 2 | 283017 | [283017-verkehrsspiele-2.json](./283017-verkehrsspiele-2.json) |
 | Verlängerung: The Game | 241086 | [241086-verlangerung-the-game.json](./241086-verlangerung-the-game.json) |
 | Verlet Ascend | 213560 | [213560-verlet-ascend.json](./213560-verlet-ascend.json) |
+| Verlicia Saga | 427699 | [427699-verlicia-saga.json](./427699-verlicia-saga.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
 | Verlies II | 35213 | [35213-verlies-ii.json](./35213-verlies-ii.json) |
