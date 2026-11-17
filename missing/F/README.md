@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Hero's Journey | 59806 | [59806-fairy-tail-heros-journey.json](./59806-fairy-tail-heros-journey.json) |
 | Fairy Tail: Levy | 225918 | [225918-fairy-tail-levy.json](./225918-fairy-tail-levy.json) |
 | Fairy Tail: Portable Guild | 44480 | [44480-fairy-tail-portable-guild.json](./44480-fairy-tail-portable-guild.json) |
+| Fairy Tail: Ultimate Dance of Magic | 143783 | [143783-fairy-tail-ultimate-dance-of-magic.json](./143783-fairy-tail-ultimate-dance-of-magic.json) |
 | Fairy Tail: Zeref's Awakening | 63398 | [63398-fairy-tail-zerefs-awakening.json](./63398-fairy-tail-zerefs-awakening.json) |
 | Fairy Tale | 208745 | [208745-fairy-tale.json](./208745-fairy-tale.json) |
 | Fairy Tale | 269419 | [269419-fairy-tale.json](./269419-fairy-tale.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill & Cross: Royal Riddles | 195348 | [195348-fill-and-cross-royal-riddles.json](./195348-fill-and-cross-royal-riddles.json) |
 | Fill & Cross: World Contest | 88620 | [88620-fill-and-cross-world-contest.json](./88620-fill-and-cross-world-contest.json) |
 | Fill All | 380615 | [380615-fill-all.json](./380615-fill-all.json) |
+| Fill and Cross Royal Riddles | 155714 | [155714-fill-and-cross-royal-riddles.json](./155714-fill-and-cross-royal-riddles.json) |
 | Fill and Cross: Magic Journey | 159654 | [159654-fill-and-cross-magic-journey.json](./159654-fill-and-cross-magic-journey.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
 | Fill and Cross: Trick or Treat 2 | 167927 | [167927-fill-and-cross-trick-or-treat-2.json](./167927-fill-and-cross-trick-or-treat-2.json) |
@@ -6615,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Chat: K-BulMung | 372216 | [372216-fire-chat-k-bulmung.json](./372216-fire-chat-k-bulmung.json) |
 | Fire Chief | 264441 | [264441-fire-chief.json](./264441-fire-chief.json) |
 | Fire Combat | 381297 | [381297-fire-combat.json](./381297-fire-combat.json) |
+| Fire Commander | 145075 | [145075-fire-commander.json](./145075-fire-commander.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Copter | 69475 | [69475-fire-copter.json](./69475-fire-copter.json) |
 | Fire Dogs | 174937 | [174937-fire-dogs.json](./174937-fire-dogs.json) |
@@ -9960,6 +9963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
 | FlyingMetalSuit | 111989 | [111989-flyingmetalsuit.json](./111989-flyingmetalsuit.json) |
 | FlyInside Flight Simulator | 112710 | [112710-flyinside-flight-simulator.json](./112710-flyinside-flight-simulator.json) |
+| Flyist | 156746 | [156746-flyist.json](./156746-flyist.json) |
 | FlyKnight | 278211 | [278211-flyknight.json](./278211-flyknight.json) |
 | Flykt | 150418 | [150418-flykt.json](./150418-flykt.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
@@ -11921,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 2 - Season 3 | 135138 | [135138-fortnite-chapter-2-season-3.json](./135138-fortnite-chapter-2-season-3.json) |
 | Fortnite: Chapter 2 - Season 4 | 138342 | [138342-fortnite-chapter-2-season-4.json](./138342-fortnite-chapter-2-season-4.json) |
 | Fortnite: Chapter 2 - Season 5 | 140974 | [140974-fortnite-chapter-2-season-5.json](./140974-fortnite-chapter-2-season-5.json) |
+| Fortnite: Chapter 2 - Season 6 | 145071 | [145071-fortnite-chapter-2-season-6.json](./145071-fortnite-chapter-2-season-6.json) |
 | Fortnite: Chapter 2 - Season 7 | 151996 | [151996-fortnite-chapter-2-season-7.json](./151996-fortnite-chapter-2-season-7.json) |
 | Fortnite: Chapter 2 - Season 8 | 171971 | [171971-fortnite-chapter-2-season-8.json](./171971-fortnite-chapter-2-season-8.json) |
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
@@ -14222,6 +14227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Ashes, Bloom | 244575 | [244575-from-ashes-bloom.json](./244575-from-ashes-bloom.json) |
 | From Atom to Modern | 368431 | [368431-from-atom-to-modern.json](./368431-from-atom-to-modern.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
+| From Below | 141905 | [141905-from-below.json](./141905-from-below.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
 | From Below Pocket | 268795 | [268795-from-below-pocket.json](./268795-from-below-pocket.json) |
 | From Beneath | 58584 | [58584-from-beneath.json](./58584-from-beneath.json) |
