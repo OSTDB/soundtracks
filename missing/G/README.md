@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamba God | 407016 | [407016-gamba-god.json](./407016-gamba-god.json) |
 | Gamba Gun | 346248 | [346248-gamba-gun.json](./346248-gamba-gun.json) |
 | Gamba Simulator | 326431 | [326431-gamba-simulator.json](./326431-gamba-simulator.json) |
+| Gambapets | 423544 | [423544-gambapets.json](./423544-gambapets.json) |
 | Gambari Minoriko: Onee-chan no Shiren | 241259 | [241259-gambari-minoriko-onee-chan-no-shiren.json](./241259-gambari-minoriko-onee-chan-no-shiren.json) |
 | Gambaru Amabie-chan | 206049 | [206049-gambaru-amabie-chan.json](./206049-gambaru-amabie-chan.json) |
 | Gambit | 124622 | [124622-gambit.json](./124622-gambit.json) |
@@ -5619,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glider Pro | 92749 | [92749-glider-pro.json](./92749-glider-pro.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Sim | 160085 | [160085-glider-sim.json](./160085-glider-sim.json) |
+| Glider Sim Lite: Soaring Simulator | 423492 | [423492-glider-sim-lite-soaring-simulator.json](./423492-glider-sim-lite-soaring-simulator.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
 | Glider: Collect'n Kill | 94537 | [94537-glider-collectn-kill.json](./94537-glider-collectn-kill.json) |
 | Glider: Soar the Skies | 175057 | [175057-glider-soar-the-skies.json](./175057-glider-soar-the-skies.json) |
@@ -9307,6 +9309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
 | Granny: Chapter Two | 127767 | [127767-granny-chapter-two.json](./127767-granny-chapter-two.json) |
 | Granny: Escape Together | 324118 | [324118-granny-escape-together.json](./324118-granny-escape-together.json) |
+| Granny: Recaptured | 423491 | [423491-granny-recaptured.json](./423491-granny-recaptured.json) |
 | Granny's Garden | 11848 | [11848-grannys-garden.json](./11848-grannys-garden.json) |
 | Granny's Gotcha | 343414 | [343414-grannys-gotcha.json](./343414-grannys-gotcha.json) |
 | Granny's Grantastic Granventure | 105096 | [105096-grannys-grantastic-granventure.json](./105096-grannys-grantastic-granventure.json) |
@@ -9827,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Mummy | 173022 | [173022-gravity-mummy.json](./173022-gravity-mummy.json) |
 | Gravity Oddity | 168271 | [168271-gravity-oddity.json](./168271-gravity-oddity.json) |
 | Gravity Panda | 114263 | [114263-gravity-panda.json](./114263-gravity-panda.json) |
+| Gravity Paws | 423494 | [423494-gravity-paws.json](./423494-gravity-paws.json) |
 | Gravity Pilot! | 194366 | [194366-gravity-pilot.json](./194366-gravity-pilot.json) |
 | Gravity Power | 28390 | [28390-gravity-power.json](./28390-gravity-power.json) |
 | Gravity Pro | 287799 | [287799-gravity-pro.json](./287799-gravity-pro.json) |
@@ -10125,6 +10129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
 | Greedland | 237194 | [237194-greedland.json](./237194-greedland.json) |
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
+| GreeDrill | 423497 | [423497-greedrill.json](./423497-greedrill.json) |
 | Greedshot | 287812 | [287812-greedshot.json](./287812-greedshot.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
