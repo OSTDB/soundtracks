@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sackboy: A Big Adventure - Clank Costume | 327313 | [327313-sackboy-a-big-adventure-clank-costume.json](./327313-sackboy-a-big-adventure-clank-costume.json) |
 | Sackboy: A Big Adventure - Digital Deluxe Edition | 407590 | [407590-sackboy-a-big-adventure-digital-deluxe-edition.json](./407590-sackboy-a-big-adventure-digital-deluxe-edition.json) |
 | Sackboy: A Big Adventure - Emote Pack | 230997 | [230997-sackboy-a-big-adventure-emote-pack.json](./230997-sackboy-a-big-adventure-emote-pack.json) |
+| Sackboy: A Big Adventure - Special Edition | 166316 | [166316-sackboy-a-big-adventure-special-edition.json](./166316-sackboy-a-big-adventure-special-edition.json) |
 | Sackboy: A Big Adventure - Sports Clothing Pack | 257020 | [257020-sackboy-a-big-adventure-sports-clothing-pack.json](./257020-sackboy-a-big-adventure-sports-clothing-pack.json) |
 | Sackboy: A Big Adventure – Emotions Emote Pack | 286151 | [286151-sackboy-a-big-adventure-emotions-emote-pack.json](./286151-sackboy-a-big-adventure-emotions-emote-pack.json) |
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
@@ -342,6 +343,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred 3 - Orcland Story | 53566 | [53566-sacred-3-orcland-story.json](./53566-sacred-3-orcland-story.json) |
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred 3: Gold Edition | 53567 | [53567-sacred-3-gold-edition.json](./53567-sacred-3-gold-edition.json) |
+| Sacred 3: Malakhim Hero | 168444 | [168444-sacred-3-malakhim-hero.json](./168444-sacred-3-malakhim-hero.json) |
+| Sacred 3: Orc of Thrones | 168443 | [168443-sacred-3-orc-of-thrones.json](./168443-sacred-3-orc-of-thrones.json) |
+| Sacred 3: Underworld Story | 168445 | [168445-sacred-3-underworld-story.json](./168445-sacred-3-underworld-story.json) |
 | Sacred Adventure Group: Shining Stars | 181987 | [181987-sacred-adventure-group-shining-stars.json](./181987-sacred-adventure-group-shining-stars.json) |
 | Sacred Almanac Traces of Greed | 30915 | [30915-sacred-almanac-traces-of-greed.json](./30915-sacred-almanac-traces-of-greed.json) |
 | Sacred Blade | 53568 | [53568-sacred-blade.json](./53568-sacred-blade.json) |
@@ -7653,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Ganymede | 43337 | [43337-shadow-of-ganymede.json](./43337-shadow-of-ganymede.json) |
 | Shadow of Kingdoms | 34813 | [34813-shadow-of-kingdoms.json](./34813-shadow-of-kingdoms.json) |
 | Shadow of Light | 337686 | [337686-shadow-of-light.json](./337686-shadow-of-light.json) |
+| Shadow of Loot Box: Limited Edition | 166258 | [166258-shadow-of-loot-box-limited-edition.json](./166258-shadow-of-loot-box-limited-edition.json) |
 | Shadow of Mammon | 258453 | [258453-shadow-of-mammon.json](./258453-shadow-of-mammon.json) |
 | Shadow of Murders | 265443 | [265443-shadow-of-murders.json](./265443-shadow-of-murders.json) |
 | Shadow of Naught | 138042 | [138042-shadow-of-naught.json](./138042-shadow-of-naught.json) |
@@ -18239,6 +18244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sogul: Den of the Deep | 427577 | [427577-sogul-den-of-the-deep.json](./427577-sogul-den-of-the-deep.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
 | Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
+| Soi Kano: Gyutto Dakishimete - Limited Edition | 166318 | [166318-soi-kano-gyutto-dakishimete-limited-edition.json](./166318-soi-kano-gyutto-dakishimete-limited-edition.json) |
 | SOI's Singleplayer Adventure | 135473 | [135473-sois-singleplayer-adventure.json](./135473-sois-singleplayer-adventure.json) |
 | Soil of Rebirth | 373332 | [373332-soil-of-rebirth.json](./373332-soil-of-rebirth.json) |
 | Soilborn: Ant Empire | 372003 | [372003-soilborn-ant-empire.json](./372003-soilborn-ant-empire.json) |
@@ -27169,6 +27175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64: On-Foot Mode | 358252 | [358252-star-fox-64-on-foot-mode.json](./358252-star-fox-64-on-foot-mode.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Adventures | 2686 | [2686-star-fox-adventures.json](./2686-star-fox-adventures.json) |
+| Star Fox Adventures: Amethyst Edition | 166328 | [166328-star-fox-adventures-amethyst-edition.json](./166328-star-fox-adventures-amethyst-edition.json) |
 | Star Fox Armada | 234943 | [234943-star-fox-armada.json](./234943-star-fox-armada.json) |
 | Star Fox Command | 20556 | [20556-star-fox-command.json](./20556-star-fox-command.json) |
 | Star Fox Conquest | 314563 | [314563-star-fox-conquest.json](./314563-star-fox-conquest.json) |
@@ -28414,6 +28421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlink Battle For Atlas: Lance Starship Pack | 305232 | [305232-starlink-battle-for-atlas-lance-starship-pack.json](./305232-starlink-battle-for-atlas-lance-starship-pack.json) |
 | Starlink Battle For Atlas: Neptune Starship Pack | 308752 | [308752-starlink-battle-for-atlas-neptune-starship-pack.json](./308752-starlink-battle-for-atlas-neptune-starship-pack.json) |
 | Starlink: Battle for Atlas | 317065 | [317065-starlink-battle-for-atlas.json](./317065-starlink-battle-for-atlas.json) |
+| Starlink: Battle for Atlas - Collection Pack 1 | 168442 | [168442-starlink-battle-for-atlas-collection-pack-1.json](./168442-starlink-battle-for-atlas-collection-pack-1.json) |
 | Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
 | Starlink: Battle for Atlas - Deluxe Edition | 121507 | [121507-starlink-battle-for-atlas-deluxe-edition.json](./121507-starlink-battle-for-atlas-deluxe-edition.json) |
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
