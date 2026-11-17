@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora: Purge of Pride | 62995 | [62995-pandora-purge-of-pride.json](./62995-pandora-purge-of-pride.json) |
 | Pandora: Wild Origins | 169139 | [169139-pandora-wild-origins.json](./169139-pandora-wild-origins.json) |
+| Pandora's Box | 12457 | [12457-pandoras-box.json](./12457-pandoras-box.json) |
 | Pandora's Box | 191353 | [191353-pandoras-box.json](./191353-pandoras-box.json) |
 | Pandora's Box | 252016 | [252016-pandoras-box.json](./252016-pandoras-box.json) |
 | Pandora's Box | 295983 | [295983-pandoras-box.json](./295983-pandoras-box.json) |
@@ -6079,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Breaker: Battle Grounds Overdrive | 51683 | [51683-phantom-breaker-battle-grounds-overdrive.json](./51683-phantom-breaker-battle-grounds-overdrive.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Breaker: Extra | 43038 | [43038-phantom-breaker-extra.json](./43038-phantom-breaker-extra.json) |
+| Phantom Breaker: Omnia | 140090 | [140090-phantom-breaker-omnia.json](./140090-phantom-breaker-omnia.json) |
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
 | Phantom Cell | 265310 | [265310-phantom-cell.json](./265310-phantom-cell.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
@@ -7362,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin | 84696 | [84696-pikmin.json](./84696-pikmin.json) |
 | Pikmin 1 | 254334 | [254334-pikmin-1.json](./254334-pikmin-1.json) |
 | Pikmin 1 Randomizer | 263441 | [263441-pikmin-1-randomizer.json](./263441-pikmin-1-randomizer.json) |
+| Pikmin 1+2 Bundle | 254343 | [254343-pikmin-1-2-bundle.json](./254343-pikmin-1-2-bundle.json) |
 | Pikmin 100 | 342715 | [342715-pikmin-100.json](./342715-pikmin-100.json) |
 | Pikmin 1x3 | 313368 | [313368-pikmin-1x3.json](./313368-pikmin-1x3.json) |
 | Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
@@ -8479,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipejob | 30771 | [30771-pipejob.json](./30771-pipejob.json) |
 | PipeLand | 200277 | [200277-pipeland.json](./200277-pipeland.json) |
 | PipeLand Roll HD | 108860 | [108860-pipeland-roll-hd.json](./108860-pipeland-roll-hd.json) |
+| Pipeline | 430039 | [430039-pipeline.json](./430039-pipeline.json) |
 | Pipeline | 94817 | [94817-pipeline.json](./94817-pipeline.json) |
 | Pipeline Crawl | 341988 | [341988-pipeline-crawl.json](./341988-pipeline-crawl.json) |
 | Pipeline of Emperor Yu | 129424 | [129424-pipeline-of-emperor-yu.json](./129424-pipeline-of-emperor-yu.json) |
@@ -9745,6 +9749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Circle Rush | 54875 | [54875-pixel-traffic-circle-rush.json](./54875-pixel-traffic-circle-rush.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
+| Pixel Traffic: Risky Bridge | 55596 | [55596-pixel-traffic-risky-bridge.json](./55596-pixel-traffic-risky-bridge.json) |
 | Pixel Trainer | 107098 | [107098-pixel-trainer.json](./107098-pixel-trainer.json) |
 | Pixel Transit | 339296 | [339296-pixel-transit.json](./339296-pixel-transit.json) |
 | Pixel Traveler | 210392 | [210392-pixel-traveler.json](./210392-pixel-traveler.json) |
@@ -11675,6 +11680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocke-Kano: Yumi Aida | 166552 | [166552-pocke-kano-yumi-aida.json](./166552-pocke-kano-yumi-aida.json) |
 | PockeDate! | 323228 | [323228-pockedate.json](./323228-pockedate.json) |
 | Pocket & Zooom | 338310 | [338310-pocket-and-zooom.json](./338310-pocket-and-zooom.json) |
+| Pocket 37 | 429893 | [429893-pocket-37.json](./429893-pocket-37.json) |
 | Pocket Academy | 65882 | [65882-pocket-academy.json](./65882-pocket-academy.json) |
 | Pocket Academy 3 | 213787 | [213787-pocket-academy-3.json](./213787-pocket-academy-3.json) |
 | Pocket Academy Zero | 239258 | [239258-pocket-academy-zero.json](./239258-pocket-academy-zero.json) |
@@ -12156,6 +12162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pointy Ends | 149520 | [149520-pointy-ends.json](./149520-pointy-ends.json) |
 | Poipoil's Adventure | 82724 | [82724-poipoils-adventure.json](./82724-poipoils-adventure.json) |
 | Poisoft Thud Card | 89551 | [89551-poisoft-thud-card.json](./89551-poisoft-thud-card.json) |
+| Poison Control | 138966 | [138966-poison-control.json](./138966-poison-control.json) |
 | Poison Control: Contaminated Edition | 139913 | [139913-poison-control-contaminated-edition.json](./139913-poison-control-contaminated-edition.json) |
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poison is Served! | 310864 | [310864-poison-is-served.json](./310864-poison-is-served.json) |
@@ -18760,12 +18767,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecrawl | 341260 | [341260-prophecrawl.json](./341260-prophecrawl.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy | 277333 | [277333-prophecy.json](./277333-prophecy.json) |
+| Prophecy I: The Fall of Trinadon | 12460 | [12460-prophecy-i-the-fall-of-trinadon.json](./12460-prophecy-i-the-fall-of-trinadon.json) |
 | Prophecy I: The Viking Child | 12925 | [12925-prophecy-i-the-viking-child.json](./12925-prophecy-i-the-viking-child.json) |
 | Prophecy Island | 249841 | [249841-prophecy-island.json](./249841-prophecy-island.json) |
 | Prophecy Lost | 389178 | [389178-prophecy-lost.json](./389178-prophecy-lost.json) |
 | Prophecy Matrix | 207296 | [207296-prophecy-matrix.json](./207296-prophecy-matrix.json) |
 | Prophecy of Ashen | 334330 | [334330-prophecy-of-ashen.json](./334330-prophecy-of-ashen.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
+| Prophecy of the Shadow | 12461 | [12461-prophecy-of-the-shadow.json](./12461-prophecy-of-the-shadow.json) |
 | Prophecy: The Viking Child | 49029 | [49029-prophecy-the-viking-child.json](./49029-prophecy-the-viking-child.json) |
 | Prophesy of Pendor | 315431 | [315431-prophesy-of-pendor.json](./315431-prophesy-of-pendor.json) |
 | Prophet | 156898 | [156898-prophet.json](./156898-prophet.json) |
@@ -20171,6 +20180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Place | 268978 | [268978-purple-place.json](./268978-purple-place.json) |
 | Purple Prose for Purple Hearts: **** the Witch | 307219 | [307219-purple-prose-for-purple-hearts-the-witch.json](./307219-purple-prose-for-purple-hearts-the-witch.json) |
 | Purple Rain | 260892 | [260892-purple-rain.json](./260892-purple-rain.json) |
+| Purple Saturn Day | 12462 | [12462-purple-saturn-day.json](./12462-purple-saturn-day.json) |
 | Purple Shift | 422492 | [422492-purple-shift.json](./422492-purple-shift.json) |
 | Purple Slime Production Line | 298581 | [298581-purple-slime-production-line.json](./298581-purple-slime-production-line.json) |
 | Purple Tentacle | 391274 | [391274-purple-tentacle.json](./391274-purple-tentacle.json) |
@@ -20516,6 +20526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tsuu | 37560 | [37560-puyo-puyo-tsuu.json](./37560-puyo-puyo-tsuu.json) |
 | Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
 | Puyo Puyo Zurashi | 251502 | [251502-puyo-puyo-zurashi.json](./251502-puyo-puyo-zurashi.json) |
+| Puyo Puyo! 15th Anniversary | 5111 | [5111-puyo-puyo-15th-anniversary.json](./5111-puyo-puyo-15th-anniversary.json) |
 | Puyo Puyo! The Medal Edition | 251496 | [251496-puyo-puyo-the-medal-edition.json](./251496-puyo-puyo-the-medal-edition.json) |
 | Puyo Puyo!! 20th Anniversary | 6865 | [6865-puyo-puyo-20th-anniversary.json](./6865-puyo-puyo-20th-anniversary.json) |
 | Puyo Puyo!! 20th Anniversary: Mini Version | 86736 | [86736-puyo-puyo-20th-anniversary-mini-version.json](./86736-puyo-puyo-20th-anniversary-mini-version.json) |
