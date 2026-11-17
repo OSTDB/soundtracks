@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops 6 - Season 5 | 362956 | [362956-call-of-duty-black-ops-6-season-5.json](./362956-call-of-duty-black-ops-6-season-5.json) |
 | Call of Duty: Black Ops 6 - Season 6 | 373569 | [373569-call-of-duty-black-ops-6-season-6.json](./373569-call-of-duty-black-ops-6-season-6.json) |
 | Call of Duty: Black Ops 6 - Vault Edition | 331251 | [331251-call-of-duty-black-ops-6-vault-edition.json](./331251-call-of-duty-black-ops-6-vault-edition.json) |
+| Call of Duty: Black Ops Cold War - Season Five | 165189 | [165189-call-of-duty-black-ops-cold-war-season-five.json](./165189-call-of-duty-black-ops-cold-war-season-five.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season One | 141574 | [141574-call-of-duty-black-ops-cold-war-season-one.json](./141574-call-of-duty-black-ops-cold-war-season-one.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
@@ -15378,6 +15379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confession Box | 417559 | [417559-confession-box.json](./417559-confession-box.json) |
 | Confession Center | 146633 | [146633-confession-center.json](./146633-confession-center.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
+| Confessions | 165187 | [165187-confessions.json](./165187-confessions.json) |
 | Confessions at Candlewood Lake | 174113 | [174113-confessions-at-candlewood-lake.json](./174113-confessions-at-candlewood-lake.json) |
 | Confessions of an NPC | 176232 | [176232-confessions-of-an-npc.json](./176232-confessions-of-an-npc.json) |
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
@@ -19720,6 +19722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cretaceous Carnage | 146803 | [146803-cretaceous-carnage.json](./146803-cretaceous-carnage.json) |
 | Cretaceous Crunch | 380761 | [380761-cretaceous-crunch.json](./380761-cretaceous-crunch.json) |
 | Crete | 211383 | [211383-crete.json](./211383-crete.json) |
+| Crevice Survival | 165080 | [165080-crevice-survival.json](./165080-crevice-survival.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
 | Crewcial | 395346 | [395346-crewcial.json](./395346-crewcial.json) |
