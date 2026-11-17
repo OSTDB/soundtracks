@@ -5821,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokonoe Kokoro | 61223 | [61223-kokonoe-kokoro.json](./61223-kokonoe-kokoro.json) |
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
 | Kokopa's Atlas | 152182 | [152182-kokopas-atlas.json](./152182-kokopas-atlas.json) |
+| Kokori | 422913 | [422913-kokori.json](./422913-kokori.json) |
 | Kokoro Appliqué | 407284 | [407284-kokoro-applique.json](./407284-kokoro-applique.json) |
 | Kokoro Clover Infinite Phantasm | 416056 | [416056-kokoro-clover-infinite-phantasm.json](./416056-kokoro-clover-infinite-phantasm.json) |
 | Kokoro Clover Part1 | 140687 | [140687-kokoro-clover-part1.json](./140687-kokoro-clover-part1.json) |
