@@ -7810,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland | 12250 | [12250-alice-in-wonderland.json](./12250-alice-in-wonderland.json) |
 | Alice in Wonderland | 125307 | [125307-alice-in-wonderland.json](./125307-alice-in-wonderland.json) |
 | Alice in Wonderland | 140323 | [140323-alice-in-wonderland.json](./140323-alice-in-wonderland.json) |
+| Alice in Wonderland | 162443 | [162443-alice-in-wonderland.json](./162443-alice-in-wonderland.json) |
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
 | Alice in Wonderland | 296824 | [296824-alice-in-wonderland.json](./296824-alice-in-wonderland.json) |
@@ -17137,6 +17138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Aventuras de Hércules Vol. 2: A Hidra de Lerna | 286927 | [286927-as-aventuras-de-hercules-vol-2-a-hidra-de-lerna.json](./286927-as-aventuras-de-hercules-vol-2-a-hidra-de-lerna.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As Aventuras de Zé Baldinho | 252049 | [252049-as-aventuras-de-ze-baldinho.json](./252049-as-aventuras-de-ze-baldinho.json) |
+| As Aventuras do Cueca Listrada | 161449 | [161449-as-aventuras-do-cueca-listrada.json](./161449-as-aventuras-do-cueca-listrada.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Cores De Ofelia | 390852 | [390852-as-cores-de-ofelia.json](./390852-as-cores-de-ofelia.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
