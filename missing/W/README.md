@@ -8885,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Beach Volley | 40547 | [40547-world-beach-volley.json](./40547-world-beach-volley.json) |
 | World Beach Volley: 1992 GB Cup | 117961 | [117961-world-beach-volley-1992-gb-cup.json](./117961-world-beach-volley-1992-gb-cup.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
+| World Beauties | 84357 | [84357-world-beauties.json](./84357-world-beauties.json) |
 | World Billiards Tournament: Break Nine | 61750 | [61750-world-billiards-tournament-break-nine.json](./61750-world-billiards-tournament-break-nine.json) |
 | World Boss | 189872 | [189872-world-boss.json](./189872-world-boss.json) |
 | World Bowling | 49005 | [49005-world-bowling.json](./49005-world-bowling.json) |
@@ -9192,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of Mines! | 175146 | [175146-world-of-mines.json](./175146-world-of-mines.json) |
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
+| World of Mixed Martial Arts | 84374 | [84374-world-of-mixed-martial-arts.json](./84374-world-of-mixed-martial-arts.json) |
 | World of Mixed Martial Arts 2 | 77031 | [77031-world-of-mixed-martial-arts-2.json](./77031-world-of-mixed-martial-arts-2.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
