@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit & Steel: Extra Mode | 388550 | [388550-rabbit-and-steel-extra-mode.json](./388550-rabbit-and-steel-extra-mode.json) |
 | Rabbit and the moon | 104437 | [104437-rabbit-and-the-moon.json](./104437-rabbit-and-the-moon.json) |
 | Rabbit and Turtle | 285846 | [285846-rabbit-and-turtle.json](./285846-rabbit-and-turtle.json) |
+| Rabbit and Turtle Harsh Jump Race | 417916 | [417916-rabbit-and-turtle-harsh-jump-race.json](./417916-rabbit-and-turtle-harsh-jump-race.json) |
 | Rabbit BoBo | 112395 | [112395-rabbit-bobo.json](./112395-rabbit-bobo.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
 | Rabbit Canyon | 192852 | [192852-rabbit-canyon.json](./192852-rabbit-canyon.json) |
@@ -7873,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Drive: Synthwave City | 237202 | [237202-rhythm-drive-synthwave-city.json](./237202-rhythm-drive-synthwave-city.json) |
 | Rhythm Fighter | 129413 | [129413-rhythm-fighter.json](./129413-rhythm-fighter.json) |
 | Rhythm Flash | 234445 | [234445-rhythm-flash.json](./234445-rhythm-flash.json) |
+| Rhythm Flow | 417915 | [417915-rhythm-flow.json](./417915-rhythm-flow.json) |
 | Rhythm Girl | 90070 | [90070-rhythm-girl.json](./90070-rhythm-girl.json) |
 | Rhythm Good | 216207 | [216207-rhythm-good.json](./216207-rhythm-good.json) |
 | Rhythm Heaven Fever | 5122 | [5122-rhythm-heaven-fever.json](./5122-rhythm-heaven-fever.json) |
@@ -11752,6 +11754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll for Order: Sort Every Set! | 420315 | [420315-roll-for-order-sort-every-set.json](./420315-roll-for-order-sort-every-set.json) |
 | Roll for the Galaxy | 138508 | [138508-roll-for-the-galaxy.json](./138508-roll-for-the-galaxy.json) |
 | Roll Freak | 238807 | [238807-roll-freak.json](./238807-roll-freak.json) |
+| Roll Golf | 417914 | [417914-roll-golf.json](./417914-roll-golf.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll Mad | 397720 | [397720-roll-mad.json](./397720-roll-mad.json) |
