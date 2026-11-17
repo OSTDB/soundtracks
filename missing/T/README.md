@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
 | Tactical Combat Department | 164059 | [164059-tactical-combat-department.json](./164059-tactical-combat-department.json) |
 | Tactical Command | 232640 | [232640-tactical-command.json](./232640-tactical-command.json) |
+| Tactical Control | 115119 | [115119-tactical-control.json](./115119-tactical-control.json) |
 | Tactical Control: Impossible Missions | 174448 | [174448-tactical-control-impossible-missions.json](./174448-tactical-control-impossible-missions.json) |
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankLab | 234217 | [234217-tanklab.json](./234217-tanklab.json) |
 | Tanklike | 163349 | [163349-tanklike.json](./163349-tanklike.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
+| Tanknarok | 117826 | [117826-tanknarok.json](./117826-tanknarok.json) |
 | Tankocracy | 172286 | [172286-tankocracy.json](./172286-tankocracy.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | Tankorama | 115943 | [115943-tankorama.json](./115943-tankorama.json) |
@@ -5104,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terratopia: March of The Demon King | 315631 | [315631-terratopia-march-of-the-demon-king.json](./315631-terratopia-march-of-the-demon-king.json) |
 | Terravale | 176570 | [176570-terravale.json](./176570-terravale.json) |
 | Terrawars: NY Invasion | 70467 | [70467-terrawars-ny-invasion.json](./70467-terrawars-ny-invasion.json) |
+| Terrawurm | 116479 | [116479-terrawurm.json](./116479-terrawurm.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
 | Terrella | 242766 | [242766-terrella.json](./242766-terrella.json) |
@@ -8425,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cope | 314548 | [314548-the-cope.json](./314548-the-cope.json) |
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
 | The Copper Canyon Dixie Dash | 144884 | [144884-the-copper-canyon-dixie-dash.json](./144884-the-copper-canyon-dixie-dash.json) |
+| The Copper Canyon Shoot Out | 116501 | [116501-the-copper-canyon-shoot-out.json](./116501-the-copper-canyon-shoot-out.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
 | The Core | 320039 | [320039-the-core.json](./320039-the-core.json) |
 | The Core | 376279 | [376279-the-core.json](./376279-the-core.json) |
@@ -8514,6 +8518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crane Trials: Red Edition | 28662 | [28662-the-crane-trials-red-edition.json](./28662-the-crane-trials-red-edition.json) |
 | The Crank Gym | 230742 | [230742-the-crank-gym.json](./230742-the-crank-gym.json) |
 | The Crash: Storm Clouds of the Mind | 229564 | [229564-the-crash-storm-clouds-of-the-mind.json](./229564-the-crash-storm-clouds-of-the-mind.json) |
+| The Crater | 116495 | [116495-the-crater.json](./116495-the-crater.json) |
 | The Crawl | 228222 | [228222-the-crawl.json](./228222-the-crawl.json) |
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
 | The Crawling Dead | 358799 | [358799-the-crawling-dead.json](./358799-the-crawling-dead.json) |
@@ -13546,6 +13551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Knight: Day One | 83194 | [83194-the-last-knight-day-one.json](./83194-the-last-knight-day-one.json) |
 | The Last Ladybug | 402013 | [402013-the-last-ladybug.json](./402013-the-last-ladybug.json) |
 | The Last Legion | 390346 | [390346-the-last-legion.json](./390346-the-last-legion.json) |
+| The Last Letter | 115111 | [115111-the-last-letter.json](./115111-the-last-letter.json) |
 | The Last Letter | 400574 | [400574-the-last-letter.json](./400574-the-last-letter.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 134827 | [134827-the-last-librarian.json](./134827-the-last-librarian.json) |
@@ -20750,6 +20756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Viriditas Chapel of Perpetual Adoration | 241381 | [241381-the-viriditas-chapel-of-perpetual-adoration.json](./241381-the-viriditas-chapel-of-perpetual-adoration.json) |
 | The Virtual Mirror | 118665 | [118665-the-virtual-mirror.json](./118665-the-virtual-mirror.json) |
 | The Virtual Museum of Dead-Wifery | 188617 | [188617-the-virtual-museum-of-dead-wifery.json](./188617-the-virtual-museum-of-dead-wifery.json) |
+| The Virtual Reality Museum of Immersive Experiences | 115089 | [115089-the-virtual-reality-museum-of-immersive-experiences.json](./115089-the-virtual-reality-museum-of-immersive-experiences.json) |
 | The Virus | 156541 | [156541-the-virus.json](./156541-the-virus.json) |
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
 | The Visible City | 139166 | [139166-the-visible-city.json](./139166-the-visible-city.json) |
@@ -24287,6 +24294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I Rainstorm | 118371 | [118371-tiger-tank-59-i-rainstorm.json](./118371-tiger-tank-59-i-rainstorm.json) |
 | Tiger Tank 59 I Super Tank | 119725 | [119725-tiger-tank-59-i-super-tank.json](./119725-tiger-tank-59-i-super-tank.json) |
 | Tiger Tank 59 I Volcano | 118410 | [118410-tiger-tank-59-i-volcano.json](./118410-tiger-tank-59-i-volcano.json) |
+| Tiger Tank 59 I Winter Assault | 117850 | [117850-tiger-tank-59-i-winter-assault.json](./117850-tiger-tank-59-i-winter-assault.json) |
 | Tiger Tank 59 I: A-Gun | 110980 | [110980-tiger-tank-59-i-a-gun.json](./110980-tiger-tank-59-i-a-gun.json) |
 | Tiger Tank 59 I: A-Gun MP001 | 160329 | [160329-tiger-tank-59-i-a-gun-mp001.json](./160329-tiger-tank-59-i-a-gun-mp001.json) |
 | Tiger Tank 59 I: A-Gun MP002 | 160445 | [160445-tiger-tank-59-i-a-gun-mp002.json](./160445-tiger-tank-59-i-a-gun-mp002.json) |
@@ -26958,6 +26966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Burn in Memory | 33740 | [33740-to-burn-in-memory.json](./33740-to-burn-in-memory.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Carry a Sword | 190440 | [190440-to-carry-a-sword.json](./190440-to-carry-a-sword.json) |
+| To Catch a Monkey | 116469 | [116469-to-catch-a-monkey.json](./116469-to-catch-a-monkey.json) |
 | To Clean The Mountain | 318239 | [318239-to-clean-the-mountain.json](./318239-to-clean-the-mountain.json) |
 | To Crime Nirvana | 180064 | [180064-to-crime-nirvana.json](./180064-to-crime-nirvana.json) |
 | To Crown or to Destroy | 373183 | [373183-to-crown-or-to-destroy.json](./373183-to-crown-or-to-destroy.json) |
