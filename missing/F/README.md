@@ -11107,6 +11107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Lesbians | 254726 | [254726-forest-of-lesbians.json](./254726-forest-of-lesbians.json) |
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
+| Forest of Math | 129287 | [129287-forest-of-math.json](./129287-forest-of-math.json) |
 | Forest of Perdition | 286024 | [286024-forest-of-perdition.json](./286024-forest-of-perdition.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
 | Forest of Relics | 231698 | [231698-forest-of-relics.json](./231698-forest-of-relics.json) |
