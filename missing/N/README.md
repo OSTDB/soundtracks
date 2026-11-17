@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor: Lingering Memories Side-Story | 171385 | [171385-neighbor-lingering-memories-side-story.json](./171385-neighbor-lingering-memories-side-story.json) |
 | Neighbor's Wife | 298652 | [298652-neighbors-wife.json](./298652-neighbors-wife.json) |
 | Neighborhood | 122004 | [122004-neighborhood.json](./122004-neighborhood.json) |
+| Neighborhood Conflict | 427740 | [427740-neighborhood-conflict.json](./427740-neighborhood-conflict.json) |
 | Neighborhood Games | 5066 | [5066-neighborhood-games.json](./5066-neighborhood-games.json) |
 | Neighborhood Video | 374045 | [374045-neighborhood-video.json](./374045-neighborhood-video.json) |
 | Neighborhood Watch | 133484 | [133484-neighborhood-watch.json](./133484-neighborhood-watch.json) |
