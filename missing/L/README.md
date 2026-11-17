@@ -8831,7 +8831,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of War | 208934 | [208934-lord-of-war.json](./208934-lord-of-war.json) |
 | Lord Temin's Fortress | 187441 | [187441-lord-temins-fortress.json](./187441-lord-temins-fortress.json) |
 | Lord VS Nas Vai | 108021 | [108021-lord-vs-nas-vai.json](./108021-lord-vs-nas-vai.json) |
-| Lord Winklebottom Investigates | 115180 | [115180-lord-winklebottom-investigates.json](./115180-lord-winklebottom-investigates.json) |
 | Lord's Journey | 313531 | [313531-lords-journey.json](./313531-lords-journey.json) |
 | Lordbound | 371497 | [371497-lordbound.json](./371497-lordbound.json) |
 | Lordcraft | 420669 | [420669-lordcraft.json](./420669-lordcraft.json) |
@@ -9049,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Arsenal | 405214 | [405214-lost-arsenal.json](./405214-lost-arsenal.json) |
 | Lost Artifacts | 83182 | [83182-lost-artifacts.json](./83182-lost-artifacts.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
+| Lost Artifacts: Golden Island | 113820 | [113820-lost-artifacts-golden-island.json](./113820-lost-artifacts-golden-island.json) |
 | Lost Artifacts: Mysterious Book | 244020 | [244020-lost-artifacts-mysterious-book.json](./244020-lost-artifacts-mysterious-book.json) |
 | Lost Artifacts: Mysterious Book - Collector's Edition | 195676 | [195676-lost-artifacts-mysterious-book-collectors-edition.json](./195676-lost-artifacts-mysterious-book-collectors-edition.json) |
 | Lost Artifacts: Soulstone | 113320 | [113320-lost-artifacts-soulstone.json](./113320-lost-artifacts-soulstone.json) |
@@ -9613,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
+| Lost Tracks | 113969 | [113969-lost-tracks.json](./113969-lost-tracks.json) |
 | Lost Treasure Escape | 315757 | [315757-lost-treasure-escape.json](./315757-lost-treasure-escape.json) |
 | Lost Treasure of Lima | 383885 | [383885-lost-treasure-of-lima.json](./383885-lost-treasure-of-lima.json) |
 | Lost Trials | 238680 | [238680-lost-trials.json](./238680-lost-trials.json) |
