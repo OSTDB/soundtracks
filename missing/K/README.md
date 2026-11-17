@@ -5898,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komocchi | 62538 | [62538-komocchi.json](./62538-komocchi.json) |
 | Komodo 3K Arena | 393110 | [393110-komodo-3k-arena.json](./393110-komodo-3k-arena.json) |
 | Komora: Real World Escape | 167506 | [167506-komora-real-world-escape.json](./167506-komora-real-world-escape.json) |
+| Komorebi | 182409 | [182409-komorebi.json](./182409-komorebi.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
 | Kompete | 271681 | [271681-kompete.json](./271681-kompete.json) |
