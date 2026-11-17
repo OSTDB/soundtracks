@@ -5248,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Great Art | 206627 | [206627-secrets-of-great-art.json](./206627-secrets-of-great-art.json) |
 | Secrets of Great Queens: Old Tower - Collector's Edition | 416508 | [416508-secrets-of-great-queens-old-tower-collectors-edition.json](./416508-secrets-of-great-queens-old-tower-collectors-edition.json) |
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
+| Secrets of Light and Shadow | 211300 | [211300-secrets-of-light-and-shadow.json](./211300-secrets-of-light-and-shadow.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic 3: Happy Halloween | 172218 | [172218-secrets-of-magic-3-happy-halloween.json](./172218-secrets-of-magic-3-happy-halloween.json) |
 | Secrets of Magic 5: Back to School | 195303 | [195303-secrets-of-magic-5-back-to-school.json](./195303-secrets-of-magic-5-back-to-school.json) |
@@ -31176,6 +31177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangle/Hold | 134906 | [134906-strangle-hold.json](./134906-strangle-hold.json) |
 | Stranglehand | 319512 | [319512-stranglehand.json](./319512-stranglehand.json) |
 | Stranglehold | 6146 | [6146-stranglehold.json](./6146-stranglehold.json) |
+| Stranglehold: Collectors Edition | 210147 | [210147-stranglehold-collectors-edition.json](./210147-stranglehold-collectors-edition.json) |
 | Strangling a Snake Tale | 294028 | [294028-strangling-a-snake-tale.json](./294028-strangling-a-snake-tale.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
@@ -37293,6 +37295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Snail | 260198 | [260198-super-snail.json](./260198-super-snail.json) |
 | Super Snake | 71997 | [71997-super-snake.json](./71997-super-snake.json) |
 | Super Snake 3D | 134940 | [134940-super-snake-3d.json](./134940-super-snake-3d.json) |
+| Super Snake Block | 211307 | [211307-super-snake-block.json](./211307-super-snake-block.json) |
 | Super Snake Block DX | 267971 | [267971-super-snake-block-dx.json](./267971-super-snake-block-dx.json) |
 | Super Snake HD | 62934 | [62934-super-snake-hd.json](./62934-super-snake-hd.json) |
 | Super Snake Heroes | 24656 | [24656-super-snake-heroes.json](./24656-super-snake-heroes.json) |
@@ -40543,6 +40546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | Synopsis Quest | 66166 | [66166-synopsis-quest.json](./66166-synopsis-quest.json) |
 | Synopsle | 265056 | [265056-synopsle.json](./265056-synopsle.json) |
+| Synoptix | 212361 | [212361-synoptix.json](./212361-synoptix.json) |
 | Synso: Squid Harder! | 284779 | [284779-synso-squid-harder.json](./284779-synso-squid-harder.json) |
 | Synstasis | 95271 | [95271-synstasis.json](./95271-synstasis.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
