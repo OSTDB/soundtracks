@@ -1504,7 +1504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Ballers: Phenom | 5949 | [5949-nba-ballers-phenom.json](./5949-nba-ballers-phenom.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
 | NBA Basketball 2000 | 24114 | [24114-nba-basketball-2000.json](./24114-nba-basketball-2000.json) |
-| NBA Bounce | 358532 | [358532-nba-bounce.json](./358532-nba-bounce.json) |
 | NBA Clash | 232127 | [232127-nba-clash.json](./232127-nba-clash.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Courtside 2002 | 4031 | [4031-nba-courtside-2002.json](./4031-nba-courtside-2002.json) |
@@ -4602,7 +4601,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicki Minaj: The Empire | 266546 | [266546-nicki-minaj-the-empire.json](./266546-nicki-minaj-the-empire.json) |
 | NickProject | 88142 | [88142-nickproject.json](./88142-nickproject.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
-| Nicktoons & The Dice of Destiny | 347647 | [347647-nicktoons-and-the-dice-of-destiny.json](./347647-nicktoons-and-the-dice-of-destiny.json) |
 | Nicktoons & The Dice of Destiny: Deluxe Edition | 365553 | [365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json](./365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json) |
 | Nicktoons & The Dice of Destiny: Wardrobe of Wonder Pack | 365583 | [365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json](./365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json) |
 | Nicktoons Basketball | 7984 | [7984-nicktoons-basketball.json](./7984-nicktoons-basketball.json) |
