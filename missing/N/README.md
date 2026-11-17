@@ -3057,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia Riders vs. Dogoos: Deluxe Edition | 330203 | [330203-neptunia-riders-vs-dogoos-deluxe-edition.json](./330203-neptunia-riders-vs-dogoos-deluxe-edition.json) |
 | Neptunia Shooter | 117193 | [117193-neptunia-shooter.json](./117193-neptunia-shooter.json) |
 | Neptunia x Senran Kagura: Ninja Wars | 146337 | [146337-neptunia-x-senran-kagura-ninja-wars.json](./146337-neptunia-x-senran-kagura-ninja-wars.json) |
+| Neptunia x Senran Kagura: Ninja Wars - Day One Edition | 165097 | [165097-neptunia-x-senran-kagura-ninja-wars-day-one-edition.json](./165097-neptunia-x-senran-kagura-ninja-wars-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters - Calendar Edition | 218215 | [218215-neptunia-sisters-vs-sisters-calendar-edition.json](./218215-neptunia-sisters-vs-sisters-calendar-edition.json) |
 | Neptunia: Sisters vs. Sisters - Day One Edition | 284109 | [284109-neptunia-sisters-vs-sisters-day-one-edition.json](./284109-neptunia-sisters-vs-sisters-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters - Digital Deluxe Edition | 255520 | [255520-neptunia-sisters-vs-sisters-digital-deluxe-edition.json](./255520-neptunia-sisters-vs-sisters-digital-deluxe-edition.json) |
