@@ -4387,7 +4387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tender: Creature Comforts | 146098 | [146098-tender-creature-comforts.json](./146098-tender-creature-comforts.json) |
 | Tenderfoot | 139547 | [139547-tenderfoot.json](./139547-tenderfoot.json) |
-| Tenderfoot Tactics | 117395 | [117395-tenderfoot-tactics.json](./117395-tenderfoot-tactics.json) |
 | Tenderhearted | 314528 | [314528-tenderhearted.json](./314528-tenderhearted.json) |
 | Tenders Fight | 245818 | [245818-tenders-fight.json](./245818-tenders-fight.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
