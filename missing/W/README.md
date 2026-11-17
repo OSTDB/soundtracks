@@ -6017,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
 | Wildaria | 322197 | [322197-wildaria.json](./322197-wildaria.json) |
+| WildBonds | 425322 | [425322-wildbonds.json](./425322-wildbonds.json) |
 | Wildborn | 175665 | [175665-wildborn.json](./175665-wildborn.json) |
 | WildBorn | 398589 | [398589-wildborn.json](./398589-wildborn.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
@@ -6977,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout Pure: Classic Pack | 241254 | [241254-wipeout-pure-classic-pack.json](./241254-wipeout-pure-classic-pack.json) |
 | Wipeout Pure: Delta Pack | 241253 | [241253-wipeout-pure-delta-pack.json](./241253-wipeout-pure-delta-pack.json) |
 | Wipeout Pure: Gamma Pack | 241252 | [241252-wipeout-pure-gamma-pack.json](./241252-wipeout-pure-gamma-pack.json) |
+| Wipeout Pure: Recompiled | 425283 | [425283-wipeout-pure-recompiled.json](./425283-wipeout-pure-recompiled.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
 | WipEout: Omega Collection | 26195 | [26195-wipeout-omega-collection.json](./26195-wipeout-omega-collection.json) |
 | Wipeout: Phantom Edition | 428745 | [428745-wipeout-phantom-edition.json](./428745-wipeout-phantom-edition.json) |
