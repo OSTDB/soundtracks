@@ -8436,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes Cosmic Capers | 71430 | [71430-looney-tunes-cosmic-capers.json](./71430-looney-tunes-cosmic-capers.json) |
 | Looney Tunes Double Pack | 8131 | [8131-looney-tunes-double-pack.json](./8131-looney-tunes-double-pack.json) |
 | Looney Tunes Galactic Sports | 52539 | [52539-looney-tunes-galactic-sports.json](./52539-looney-tunes-galactic-sports.json) |
+| Looney Tunes Hotel | 46910 | [46910-looney-tunes-hotel.json](./46910-looney-tunes-hotel.json) |
 | Looney Tunes Racing | 292791 | [292791-looney-tunes-racing.json](./292791-looney-tunes-racing.json) |
 | Looney Tunes Racing | 8135 | [8135-looney-tunes-racing.json](./8135-looney-tunes-racing.json) |
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
