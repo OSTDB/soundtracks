@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, W.O.M.A.N. | 188840 | [188840-i-w-o-m-a-n.json](./188840-i-w-o-m-a-n.json) |
 | I, Zombie | 9879 | [9879-i-zombie.json](./9879-i-zombie.json) |
 | I.A.G. Alpha | 216432 | [216432-i-a-g-alpha.json](./216432-i-a-g-alpha.json) |
+| I.B.: The Future, Destined by Unsociable Me | 197831 | [197831-i-b-the-future-destined-by-unsociable-me.json](./197831-i-b-the-future-destined-by-unsociable-me.json) |
 | I.C.B.M. Attack | 172407 | [172407-i-c-b-m-attack.json](./172407-i-c-b-m-attack.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.C.T.O.A.N. | 262179 | [262179-i-c-t-o-a-n.json](./262179-i-c-t-o-a-n.json) |
