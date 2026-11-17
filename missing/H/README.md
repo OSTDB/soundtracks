@@ -12469,7 +12469,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Simulator 2026 | 386191 | [386191-hotel-simulator-2026.json](./386191-hotel-simulator-2026.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
 | Hotel Solitaire | 177066 | [177066-hotel-solitaire.json](./177066-hotel-solitaire.json) |
-| Hotel Sowls | 112385 | [112385-hotel-sowls.json](./112385-hotel-sowls.json) |
 | Hotel Spring | 90172 | [90172-hotel-spring.json](./90172-hotel-spring.json) |
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
 | Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
