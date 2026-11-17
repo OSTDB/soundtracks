@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Powerful Shippuden | 20846 | [20846-naruto-powerful-shippuden.json](./20846-naruto-powerful-shippuden.json) |
 | Naruto: Rise of a Ninja | 7101 | [7101-naruto-rise-of-a-ninja.json](./7101-naruto-rise-of-a-ninja.json) |
 | Naruto: Shinobi Collection Shippuranbu | 139193 | [139193-naruto-shinobi-collection-shippuranbu.json](./139193-naruto-shinobi-collection-shippuranbu.json) |
+| Naruto: Shinobi no Sato no Jintori Kassen | 44784 | [44784-naruto-shinobi-no-sato-no-jintori-kassen.json](./44784-naruto-shinobi-no-sato-no-jintori-kassen.json) |
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
 | Naruto: Star Students - Ninja Survival | 203058 | [203058-naruto-star-students-ninja-survival.json](./203058-naruto-star-students-ninja-survival.json) |
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
@@ -4603,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Battle for Volcano Island | 248519 | [248519-nicktoons-battle-for-volcano-island.json](./248519-nicktoons-battle-for-volcano-island.json) |
 | Nicktoons: Battle for Volcano Island | 2784 | [2784-nicktoons-battle-for-volcano-island.json](./2784-nicktoons-battle-for-volcano-island.json) |
+| Nicktoons: Battle for Volcano Island | 43481 | [43481-nicktoons-battle-for-volcano-island.json](./43481-nicktoons-battle-for-volcano-island.json) |
 | Nicktoons: Freeze Frame Frenzy | 2766 | [2766-nicktoons-freeze-frame-frenzy.json](./2766-nicktoons-freeze-frame-frenzy.json) |
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
@@ -8827,6 +8829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NyanNyanConnect | 263332 | [263332-nyannyanconnect.json](./263332-nyannyanconnect.json) |
 | Nyanpaya | 252219 | [252219-nyanpaya.json](./252219-nyanpaya.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
+| Nyanyan Ga Nyan: Light Fantasy Gaiden | 44783 | [44783-nyanyan-ga-nyan-light-fantasy-gaiden.json](./44783-nyanyan-ga-nyan-light-fantasy-gaiden.json) |
 | Nyanyanto Mori | 222477 | [222477-nyanyanto-mori.json](./222477-nyanyanto-mori.json) |
 | Nyanzou & Kumakichi Bomb Cave | 291658 | [291658-nyanzou-and-kumakichi-bomb-cave.json](./291658-nyanzou-and-kumakichi-bomb-cave.json) |
 | Nyanzou & Kumakichi: Let's make a flower garden | 271841 | [271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json](./271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json) |
