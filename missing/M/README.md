@@ -6874,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxxed Out Racing: Nitro | 43394 | [43394-maxxed-out-racing-nitro.json](./43394-maxxed-out-racing-nitro.json) |
 | May | 212771 | [212771-may.json](./212771-may.json) |
 | May | 306211 | [306211-may.json](./306211-may.json) |
+| May | 96965 | [96965-may.json](./96965-may.json) |
 | May and the Amazing Bouquet | 381577 | [381577-may-and-the-amazing-bouquet.json](./381577-may-and-the-amazing-bouquet.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
@@ -10065,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Tomorrow | 158369 | [158369-memories-of-tomorrow.json](./158369-memories-of-tomorrow.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
 | Memories of Wilderness | 208081 | [208081-memories-of-wilderness.json](./208081-memories-of-wilderness.json) |
+| Memories of You | 98072 | [98072-memories-of-you.json](./98072-memories-of-you.json) |
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
 | Memories Off | 382966 | [382966-memories-off.json](./382966-memories-off.json) |
 | Memories Off | 68243 | [68243-memories-off.json](./68243-memories-off.json) |
@@ -14919,6 +14921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
 | Minigolf Galaxy: Green Valley | 276992 | [276992-minigolf-galaxy-green-valley.json](./276992-minigolf-galaxy-green-valley.json) |
 | MiniGolf in Frozen City | 99909 | [99909-minigolf-in-frozen-city.json](./99909-minigolf-in-frozen-city.json) |
+| MiniGolf in Venice | 97002 | [97002-minigolf-in-venice.json](./97002-minigolf-in-venice.json) |
 | MiniGolf Island | 235156 | [235156-minigolf-island.json](./235156-minigolf-island.json) |
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
 | Minigolf Maniacs | 209219 | [209219-minigolf-maniacs.json](./209219-minigolf-maniacs.json) |
@@ -19355,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moral King | 107413 | [107413-moral-king.json](./107413-moral-king.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
+| Morashiya | 98608 | [98608-morashiya.json](./98608-morashiya.json) |
 | Moratheia | 171835 | [171835-moratheia.json](./171835-moratheia.json) |
 | Moratorium: Don’t Beat This Game | 279519 | [279519-moratorium-don-t-beat-this-game.json](./279519-moratorium-don-t-beat-this-game.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
@@ -22378,6 +22382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Garden Prime | 195332 | [195332-mushroom-garden-prime.json](./195332-mushroom-garden-prime.json) |
 | Mushroom Guardian | 100362 | [100362-mushroom-guardian.json](./100362-mushroom-guardian.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
+| Mushroom Heroes | 96951 | [96951-mushroom-heroes.json](./96951-mushroom-heroes.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Hunter | 190969 | [190969-mushroom-hunter.json](./190969-mushroom-hunter.json) |
 | Mushroom Hunter Simulator | 349111 | [349111-mushroom-hunter-simulator.json](./349111-mushroom-hunter-simulator.json) |
@@ -24985,6 +24990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Swords | 172875 | [172875-mystery-swords.json](./172875-mystery-swords.json) |
 | Mystery Tales 2: The Spirit Mask | 147162 | [147162-mystery-tales-2-the-spirit-mask.json](./147162-mystery-tales-2-the-spirit-mask.json) |
 | Mystery Tales: Alaskan Wild | 140238 | [140238-mystery-tales-alaskan-wild.json](./140238-mystery-tales-alaskan-wild.json) |
+| Mystery Tales: Alaskan Wild - Collector's Edition | 96957 | [96957-mystery-tales-alaskan-wild-collectors-edition.json](./96957-mystery-tales-alaskan-wild-collectors-edition.json) |
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
 | Mystery Tales: Dealer's Choices - Collector's Edition | 357675 | [357675-mystery-tales-dealers-choices-collectors-edition.json](./357675-mystery-tales-dealers-choices-collectors-edition.json) |
 | Mystery Tales: Eye of the Fire | 54616 | [54616-mystery-tales-eye-of-the-fire.json](./54616-mystery-tales-eye-of-the-fire.json) |
@@ -25075,6 +25081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Cleaver | 344334 | [344334-mystic-cleaver.json](./344334-mystic-cleaver.json) |
 | Mystic Code | 133751 | [133751-mystic-code.json](./133751-mystic-code.json) |
+| Mystic Craft | 96979 | [96979-mystic-craft.json](./96979-mystic-craft.json) |
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
 | Mystic Defense | 30581 | [30581-mystic-defense.json](./30581-mystic-defense.json) |
 | Mystic Destinies: Echoes | 76284 | [76284-mystic-destinies-echoes.json](./76284-mystic-destinies-echoes.json) |
