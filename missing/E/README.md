@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
 | Earth Seeker | 4829 | [4829-earth-seeker.json](./4829-earth-seeker.json) |
 | Earth Shaker | 46042 | [46042-earth-shaker.json](./46042-earth-shaker.json) |
+| Earth Simulator | 427724 | [427724-earth-simulator.json](./427724-earth-simulator.json) |
 | Earth Space Colonies | 33646 | [33646-earth-space-colonies.json](./33646-earth-space-colonies.json) |
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
 | Earth Special Forces | 95036 | [95036-earth-special-forces.json](./95036-earth-special-forces.json) |
