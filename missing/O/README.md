@@ -103,7 +103,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
 | Oak Quercana | 401479 | [401479-oak-quercana.json](./401479-oak-quercana.json) |
 | Oakbound Quest | 379316 | [379316-oakbound-quest.json](./379316-oakbound-quest.json) |
-| Oaken | 165396 | [165396-oaken.json](./165396-oaken.json) |
 | Oaken Tower | 345143 | [345143-oaken-tower.json](./345143-oaken-tower.json) |
 | Oakenfold | 163742 | [163742-oakenfold.json](./163742-oakenfold.json) |
 | Oakley the Leafbug | 420023 | [420023-oakley-the-leafbug.json](./420023-oakley-the-leafbug.json) |
@@ -3292,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
+| Oniken + Odallus Collection | 124320 | [124320-oniken-odallus-collection.json](./124320-oniken-odallus-collection.json) |
 | Oniken: Unstoppable Edition | 51861 | [51861-oniken-unstoppable-edition.json](./51861-oniken-unstoppable-edition.json) |
 | Onikira: Demon Killer | 10642 | [10642-onikira-demon-killer.json](./10642-onikira-demon-killer.json) |
 | Oniko Kororin Game | 300928 | [300928-oniko-kororin-game.json](./300928-oniko-kororin-game.json) |
@@ -5467,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our House: Party! | 50666 | [50666-our-house-party.json](./50666-our-house-party.json) |
 | Our Journey | 279267 | [279267-our-journey.json](./279267-our-journey.json) |
 | Our Journey: The Silent Voice | 355328 | [355328-our-journey-the-silent-voice.json](./355328-our-journey-the-silent-voice.json) |
+| Our Journeys 2 ~ A Collection of Visual Novels | 131652 | [131652-our-journeys-2-a-collection-of-visual-novels.json](./131652-our-journeys-2-a-collection-of-visual-novels.json) |
 | Our Journeys 3 ~ A Collection of Visual Novels | 132941 | [132941-our-journeys-3-a-collection-of-visual-novels.json](./132941-our-journeys-3-a-collection-of-visual-novels.json) |
 | Our Journeys: A Collection of Visual Novels | 129051 | [129051-our-journeys-a-collection-of-visual-novels.json](./129051-our-journeys-a-collection-of-visual-novels.json) |
 | Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Paradise Isolated | 350970 | [350970-over-paradise-isolated.json](./350970-over-paradise-isolated.json) |
 | Over Requiemz | 274885 | [274885-over-requiemz.json](./274885-over-requiemz.json) |
 | Over Rev | 39449 | [39449-over-rev.json](./39449-over-rev.json) |
+| Over REV: Super Technic Challenge Cup | 124324 | [124324-over-rev-super-technic-challenge-cup.json](./124324-over-rev-super-technic-challenge-cup.json) |
 | Over Ridden | 274264 | [274264-over-ridden.json](./274264-over-ridden.json) |
 | Over Road | 341530 | [341530-over-road.json](./341530-over-road.json) |
 | Over Run | 134901 | [134901-over-run.json](./134901-over-run.json) |
