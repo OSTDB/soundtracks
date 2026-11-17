@@ -8433,6 +8433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking Glass | 321831 | [321831-looking-glass.json](./321831-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
 | Looking Up I See Only A Ceiling: The Relapse | 316515 | [316515-looking-up-i-see-only-a-ceiling-the-relapse.json](./316515-looking-up-i-see-only-a-ceiling-the-relapse.json) |
+| Looking_for_food | 109802 | [109802-looking-for-food.json](./109802-looking-for-food.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Looks Good | 252874 | [252874-looks-good.json](./252874-looks-good.json) |
 | Looksley's Line Up | 66584 | [66584-looksleys-line-up.json](./66584-looksleys-line-up.json) |
