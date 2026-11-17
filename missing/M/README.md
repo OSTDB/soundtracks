@@ -3919,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Mage | 166709 | [166709-marble-mage.json](./166709-marble-mage.json) |
 | Marble Magicks | 259750 | [259750-marble-magicks.json](./259750-marble-magicks.json) |
 | Marble Maid | 160223 | [160223-marble-maid.json](./160223-marble-maid.json) |
+| Marble Maid | 192349 | [192349-marble-maid.json](./192349-marble-maid.json) |
 | Marble Maid 2: The Negative Levels | 297139 | [297139-marble-maid-2-the-negative-levels.json](./297139-marble-maid-2-the-negative-levels.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Mania Ball Maze | 87069 | [87069-marble-mania-ball-maze.json](./87069-marble-mania-ball-maze.json) |
@@ -15445,6 +15446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Mirror Sided | 292906 | [292906-mirror-sided.json](./292906-mirror-sided.json) |
+| Mirror Spirits | 195133 | [195133-mirror-spirits.json](./195133-mirror-spirits.json) |
 | Mirror Stage | 330687 | [330687-mirror-stage.json](./330687-mirror-stage.json) |
 | Mirror Throne: Auto Battler | 279467 | [279467-mirror-throne-auto-battler.json](./279467-mirror-throne-auto-battler.json) |
 | Mirror VR | 182887 | [182887-mirror-vr.json](./182887-mirror-vr.json) |
@@ -17169,6 +17171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo Don't Leave | 399318 | [399318-momo-dont-leave.json](./399318-momo-dont-leave.json) |
 | Momo Horror Story | 239574 | [239574-momo-horror-story.json](./239574-momo-horror-story.json) |
 | Momo Ichigo | 116421 | [116421-momo-ichigo.json](./116421-momo-ichigo.json) |
+| Momo is Here | 192339 | [192339-momo-is-here.json](./192339-momo-is-here.json) |
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
 | Momo no Hana ha Senketsu ni Somaru | 246020 | [246020-momo-no-hana-ha-senketsu-ni-somaru.json](./246020-momo-no-hana-ha-senketsu-ni-somaru.json) |
 | Momo no Hana ha Senketsu ni Somaru | 279197 | [279197-momo-no-hana-ha-senketsu-ni-somaru.json](./279197-momo-no-hana-ha-senketsu-ni-somaru.json) |
@@ -17645,6 +17648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolisk | 119175 | [119175-monolisk.json](./119175-monolisk.json) |
 | Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
 | Monolith | 168101 | [168101-monolith.json](./168101-monolith.json) |
+| Monolith | 191929 | [191929-monolith.json](./191929-monolith.json) |
 | Monolith Bay | 154570 | [154570-monolith-bay.json](./154570-monolith-bay.json) |
 | Monolith O Pesadelo | 265202 | [265202-monolith-o-pesadelo.json](./265202-monolith-o-pesadelo.json) |
 | Monolith VR | 160155 | [160155-monolith-vr.json](./160155-monolith-vr.json) |
@@ -18228,6 +18232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mansion | 80751 | [80751-monster-mansion.json](./80751-monster-mansion.json) |
 | Monster Mash | 292498 | [292498-monster-mash.json](./292498-monster-mash.json) |
 | Monster Mashing Deluxe | 116042 | [116042-monster-mashing-deluxe.json](./116042-monster-mashing-deluxe.json) |
+| Monster Master | 192351 | [192351-monster-master.json](./192351-monster-master.json) |
 | Monster Master | 195938 | [195938-monster-master.json](./195938-monster-master.json) |
 | Monster Masters | 397977 | [397977-monster-masters.json](./397977-monster-masters.json) |
 | Monster Match | 131935 | [131935-monster-match.json](./131935-monster-match.json) |
@@ -21977,6 +21982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
 | Muppets Sorting and Ordering | 251387 | [251387-muppets-sorting-and-ordering.json](./251387-muppets-sorting-and-ordering.json) |
+| Mupple | 192344 | [192344-mupple.json](./192344-mupple.json) |
 | Muppled | 410077 | [410077-muppled.json](./410077-muppled.json) |
 | Muppy The Bunny: The Danger of Wishes | 117608 | [117608-muppy-the-bunny-the-danger-of-wishes.json](./117608-muppy-the-bunny-the-danger-of-wishes.json) |
 | Mur | 133560 | [133560-mur.json](./133560-mur.json) |
@@ -23858,6 +23864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mud Game | 157326 | [157326-my-mud-game.json](./157326-my-mud-game.json) |
 | My Mundane Life Is Threatened by the Tropes of an RPG!!! | 256346 | [256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json](./256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json) |
 | My Muppets Show | 230200 | [230200-my-muppets-show.json](./230200-my-muppets-show.json) |
+| My Museum : Treasure Hunter | 191935 | [191935-my-museum-treasure-hunter.json](./191935-my-museum-treasure-hunter.json) |
 | My Music Label | 402410 | [402410-my-music-label.json](./402410-my-music-label.json) |
 | My Music Oasis | 287204 | [287204-my-music-oasis.json](./287204-my-music-oasis.json) |
 | My Musical Romance | 299537 | [299537-my-musical-romance.json](./299537-my-musical-romance.json) |
