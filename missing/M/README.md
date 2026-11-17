@@ -5643,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masken | 103551 | [103551-masken.json](./103551-masken.json) |
 | Maskerade: The Deadpan Cry | 304100 | [304100-maskerade-the-deadpan-cry.json](./304100-maskerade-the-deadpan-cry.json) |
 | Masketeers: Idle has Fallen | 141488 | [141488-masketeers-idle-has-fallen.json](./141488-masketeers-idle-has-fallen.json) |
+| MaskGun | 57288 | [57288-maskgun.json](./57288-maskgun.json) |
 | Maskim Xul | 256870 | [256870-maskim-xul.json](./256870-maskim-xul.json) |
 | Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
 | Maskmaker | 135920 | [135920-maskmaker.json](./135920-maskmaker.json) |
@@ -23278,6 +23279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Father Lied | 258585 | [258585-my-father-lied.json](./258585-my-father-lied.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Father's House | 265318 | [265318-my-fathers-house.json](./265318-my-fathers-house.json) |
+| My Father's Long, Long Legs | 57254 | [57254-my-fathers-long-long-legs.json](./57254-my-fathers-long-long-legs.json) |
 | My Father's Secret | 170351 | [170351-my-fathers-secret.json](./170351-my-fathers-secret.json) |
 | My Fav Chill Streamer Dies a Million Times | 409387 | [409387-my-fav-chill-streamer-dies-a-million-times.json](./409387-my-fav-chill-streamer-dies-a-million-times.json) |
 | My Favorite | 225367 | [225367-my-favorite.json](./225367-my-favorite.json) |
@@ -24952,6 +24954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tales: Master of Puppets - Collector's Edition | 170200 | [170200-mystery-tales-master-of-puppets-collectors-edition.json](./170200-mystery-tales-master-of-puppets-collectors-edition.json) |
 | Mystery Tales: The House of Others | 181645 | [181645-mystery-tales-the-house-of-others.json](./181645-mystery-tales-the-house-of-others.json) |
+| Mystery Tales: The Lost Hope | 57243 | [57243-mystery-tales-the-lost-hope.json](./57243-mystery-tales-the-lost-hope.json) |
 | Mystery Tales: The Lost Hope - Collector's Edition | 29499 | [29499-mystery-tales-the-lost-hope-collectors-edition.json](./29499-mystery-tales-the-lost-hope-collectors-edition.json) |
 | Mystery Tales: The Twilight World | 140239 | [140239-mystery-tales-the-twilight-world.json](./140239-mystery-tales-the-twilight-world.json) |
 | Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
