@@ -39732,7 +39732,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Summer | 339440 | [339440-sweet-summer.json](./339440-sweet-summer.json) |
 | Sweet Summer World Challenge | 249595 | [249595-sweet-summer-world-challenge.json](./249595-sweet-summer-world-challenge.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
-| Sweet Surrender | 152220 | [152220-sweet-surrender.json](./152220-sweet-surrender.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
 | Sweet Survivors | 322533 | [322533-sweet-survivors.json](./322533-sweet-survivors.json) |
 | Sweet Survivors: Classy Edition | 378960 | [378960-sweet-survivors-classy-edition.json](./378960-sweet-survivors-classy-edition.json) |
