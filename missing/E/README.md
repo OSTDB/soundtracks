@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
 | E.T. Book Cart | 91493 | [91493-e-t-book-cart.json](./91493-e-t-book-cart.json) |
+| E.T. Interplanetary Mission | 72875 | [72875-e-t-interplanetary-mission.json](./72875-e-t-interplanetary-mission.json) |
 | E.T. Phone Home! | 68781 | [68781-e-t-phone-home.json](./68781-e-t-phone-home.json) |
 | E.T. the Extra Terrestrial: Digital Companion | 278776 | [278776-e-t-the-extra-terrestrial-digital-companion.json](./278776-e-t-the-extra-terrestrial-digital-companion.json) |
 | E.T. the Extra-Terrestrial | 6706 | [6706-e-t-the-extra-terrestrial.json](./6706-e-t-the-extra-terrestrial.json) |
@@ -5405,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon corp. | 33082 | [33082-epsilon-corp.json](./33082-epsilon-corp.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
 | Epsilon Hyperpunk | 423888 | [423888-epsilon-hyperpunk.json](./423888-epsilon-hyperpunk.json) |
+| Epsilon Jump Prime | 74533 | [74533-epsilon-jump-prime.json](./74533-epsilon-jump-prime.json) |
 | Epsilon Protocol | 342277 | [342277-epsilon-protocol.json](./342277-epsilon-protocol.json) |
 | Epsilon Tahari: Reign of the Machines | 69736 | [69736-epsilon-tahari-reign-of-the-machines.json](./69736-epsilon-tahari-reign-of-the-machines.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
