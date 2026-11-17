@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer Returns | 108202 | [108202-necromancer-returns.json](./108202-necromancer-returns.json) |
 | Necromancer Rising | 66572 | [66572-necromancer-rising.json](./66572-necromancer-rising.json) |
 | Necromancer RPG | 225324 | [225324-necromancer-rpg.json](./225324-necromancer-rpg.json) |
+| Necromancer Story | 418141 | [418141-necromancer-story.json](./418141-necromancer-story.json) |
 | Necromancer: Ash & Bone | 418262 | [418262-necromancer-ash-and-bone.json](./418262-necromancer-ash-and-bone.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
 | Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
@@ -3307,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neugier: Umi to Kaze no Kodou | 15848 | [15848-neugier-umi-to-kaze-no-kodou.json](./15848-neugier-umi-to-kaze-no-kodou.json) |
 | Neura Mechanicus | 189030 | [189030-neura-mechanicus.json](./189030-neura-mechanicus.json) |
 | NeuraGun | 187699 | [187699-neuragun.json](./187699-neuragun.json) |
+| Neural | 418167 | [418167-neural.json](./418167-neural.json) |
 | Neural Cloud | 219969 | [219969-neural-cloud.json](./219969-neural-cloud.json) |
 | Neural Construct | 261580 | [261580-neural-construct.json](./261580-neural-construct.json) |
 | Neural Dominion | 318543 | [318543-neural-dominion.json](./318543-neural-dominion.json) |
