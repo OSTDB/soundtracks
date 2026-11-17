@@ -11916,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 2 - Season 7 | 151996 | [151996-fortnite-chapter-2-season-7.json](./151996-fortnite-chapter-2-season-7.json) |
 | Fortnite: Chapter 2 - Season 8 | 171971 | [171971-fortnite-chapter-2-season-8.json](./171971-fortnite-chapter-2-season-8.json) |
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
+| Fortnite: Chapter 3 | 183639 | [183639-fortnite-chapter-3.json](./183639-fortnite-chapter-3.json) |
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
 | Fortnite: Chapter 3 - Season 3: Vibin' | 203486 | [203486-fortnite-chapter-3-season-3-vibin.json](./203486-fortnite-chapter-3-season-3-vibin.json) |
 | Fortnite: Chapter 3 - Season 4: Paradise | 218104 | [218104-fortnite-chapter-3-season-4-paradise.json](./218104-fortnite-chapter-3-season-4-paradise.json) |
@@ -13421,6 +13422,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle2: Must-have summer Outfit Box | 302033 | [302033-freestyle2-must-have-summer-outfit-box.json](./302033-freestyle2-must-have-summer-outfit-box.json) |
 | Freestyle2: Street Basketball | 28088 | [28088-freestyle2-street-basketball.json](./28088-freestyle2-street-basketball.json) |
 | FreeSurf | 420388 | [420388-freesurf.json](./420388-freesurf.json) |
+| Freetime Event: Poolside Edition | 183618 | [183618-freetime-event-poolside-edition.json](./183618-freetime-event-poolside-edition.json) |
+| Freetime Event: Theatrical Release | 183619 | [183619-freetime-event-theatrical-release.json](./183619-freetime-event-theatrical-release.json) |
 | Freetown Forest | 374839 | [374839-freetown-forest.json](./374839-freetown-forest.json) |
 | Freewar | 77530 | [77530-freewar.json](./77530-freewar.json) |
 | Freeway | 131544 | [131544-freeway.json](./131544-freeway.json) |
