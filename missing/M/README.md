@@ -6141,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
+| Masterstone | 421706 | [421706-masterstone.json](./421706-masterstone.json) |
 | MasterType | 315412 | [315412-mastertype.json](./315412-mastertype.json) |
 | MasterWorks: Journey Through History | 281263 | [281263-masterworks-journey-through-history.json](./281263-masterworks-journey-through-history.json) |
 | Mastery of Fate: Phantom King's Rise | 262594 | [262594-mastery-of-fate-phantom-kings-rise.json](./262594-mastery-of-fate-phantom-kings-rise.json) |
@@ -7564,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatsauce Madness: The Game | 174271 | [174271-meatsauce-madness-the-game.json](./174271-meatsauce-madness-the-game.json) |
 | Meatshaker | 366770 | [366770-meatshaker.json](./366770-meatshaker.json) |
 | Meatshot | 326686 | [326686-meatshot.json](./326686-meatshot.json) |
+| Meatstone | 421712 | [421712-meatstone.json](./421712-meatstone.json) |
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
