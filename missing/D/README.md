@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Shooter | 164225 | [164225-darkness-shooter.json](./164225-darkness-shooter.json) |
 | Darkness Suppressor: Onna Taimashi no Inbu | 97748 | [97748-darkness-suppressor-onna-taimashi-no-inbu.json](./97748-darkness-suppressor-onna-taimashi-no-inbu.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
+| Darkness Under My Bed | 143788 | [143788-darkness-under-my-bed.json](./143788-darkness-under-my-bed.json) |
 | Darkness Within 2: The Dark Lineage | 10164 | [10164-darkness-within-2-the-dark-lineage.json](./10164-darkness-within-2-the-dark-lineage.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darkness Within: In Pursuit of Loath Nolder | 10165 | [10165-darkness-within-in-pursuit-of-loath-nolder.json](./10165-darkness-within-in-pursuit-of-loath-nolder.json) |
@@ -6428,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defector | 96397 | [96397-defector.json](./96397-defector.json) |
 | Defectum | 249414 | [249414-defectum.json](./249414-defectum.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
+| Defence Alliance 2 | 140691 | [140691-defence-alliance-2.json](./140691-defence-alliance-2.json) |
 | Defence Mission | 246324 | [246324-defence-mission.json](./246324-defence-mission.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
 | Defence to death | 28762 | [28762-defence-to-death.json](./28762-defence-to-death.json) |
@@ -10685,6 +10687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DikuMUD | 419100 | [419100-dikumud.json](./419100-dikumud.json) |
 | Dilan | 214629 | [214629-dilan.json](./214629-dilan.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
+| Dilberito | 152413 | [152413-dilberito.json](./152413-dilberito.json) |
 | Dilbert's Desktop Games | 131183 | [131183-dilberts-desktop-games.json](./131183-dilberts-desktop-games.json) |
 | Dildo Catcher | 253981 | [253981-dildo-catcher.json](./253981-dildo-catcher.json) |
 | Dilemma | 390026 | [390026-dilemma.json](./390026-dilemma.json) |
@@ -10837,8 +10840,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash Rush | 351764 | [351764-diner-dash-rush.json](./351764-diner-dash-rush.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
 | Diner Dash: Flo on the Go | 24336 | [24336-diner-dash-flo-on-the-go.json](./24336-diner-dash-flo-on-the-go.json) |
+| Diner Dash: Flo Through Time | 141919 | [141919-diner-dash-flo-through-time.json](./141919-diner-dash-flo-through-time.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
 | Diner Dash: Hometown Hero - Once Upon a Diner | 393905 | [393905-diner-dash-hometown-hero-once-upon-a-diner.json](./393905-diner-dash-hometown-hero-once-upon-a-diner.json) |
+| Diner Dash: Hometown Hero - Seasonal Snack Pack | 141920 | [141920-diner-dash-hometown-hero-seasonal-snack-pack.json](./141920-diner-dash-hometown-hero-seasonal-snack-pack.json) |
 | Diner Dash: Sizzle & Serve | 21418 | [21418-diner-dash-sizzle-and-serve.json](./21418-diner-dash-sizzle-and-serve.json) |
 | Diner Drop! | 146443 | [146443-diner-drop.json](./146443-diner-drop.json) |
 | Diner in the Storm | 360034 | [360034-diner-in-the-storm.json](./360034-diner-in-the-storm.json) |
@@ -21745,6 +21750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | Duty First | 317095 | [317095-duty-first.json](./317095-duty-first.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
+| Duty on Forest | 147531 | [147531-duty-on-forest.json](./147531-duty-on-forest.json) |
 | Duty: Lost Arcadia | 380591 | [380591-duty-lost-arcadia.json](./380591-duty-lost-arcadia.json) |
 | Duval Dash | 80086 | [80086-duval-dash.json](./80086-duval-dash.json) |
 | Duvet | 182431 | [182431-duvet.json](./182431-duvet.json) |
