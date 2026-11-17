@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18 Interceptor | 12081 | [12081-f-a-18-interceptor.json](./12081-f-a-18-interceptor.json) |
 | F/A-18 Korea | 688 | [688-f-a-18-korea.json](./688-f-a-18-korea.json) |
 | F/A-18 Operation Iraqi Freedom | 64303 | [64303-f-a-18-operation-iraqi-freedom.json](./64303-f-a-18-operation-iraqi-freedom.json) |
+| F/A-18 Precision Strike Fighter | 71641 | [71641-f-a-18-precision-strike-fighter.json](./71641-f-a-18-precision-strike-fighter.json) |
 | F/A-18E Super Hornet | 52992 | [52992-f-a-18e-super-hornet.json](./52992-f-a-18e-super-hornet.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
 | F1 'Best Sellers' Bundle | 96364 | [96364-f1-best-sellers-bundle.json](./96364-f1-best-sellers-bundle.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Maker | 44394 | [44394-face-maker.json](./44394-face-maker.json) |
 | Face of Another | 362318 | [362318-face-of-another.json](./362318-face-of-another.json) |
 | Face of Fear: The Forester | 373320 | [373320-face-of-fear-the-forester.json](./373320-face-of-fear-the-forester.json) |
+| Face of Mankind | 70516 | [70516-face-of-mankind.json](./70516-face-of-mankind.json) |
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face of War | 216116 | [216116-face-of-war.json](./216116-face-of-war.json) |
 | Face Off | 40043 | [40043-face-off.json](./40043-face-off.json) |
@@ -14361,6 +14363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page Sports: Golf | 71046 | [71046-front-page-sports-golf.json](./71046-front-page-sports-golf.json) |
 | Front Page Sports: Golf - Black Diamond Ranch | 209581 | [209581-front-page-sports-golf-black-diamond-ranch.json](./209581-front-page-sports-golf-black-diamond-ranch.json) |
 | Front Page Sports: Ski Racing | 63115 | [63115-front-page-sports-ski-racing.json](./63115-front-page-sports-ski-racing.json) |
+| Front Page Sports: Trophy Bass 2 | 71658 | [71658-front-page-sports-trophy-bass-2.json](./71658-front-page-sports-trophy-bass-2.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
 | Front Row | 92582 | [92582-front-row.json](./92582-front-row.json) |
