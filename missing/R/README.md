@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat King Adventure | 415106 | [415106-rat-king-adventure.json](./415106-rat-king-adventure.json) |
 | Rat Memory | 204018 | [204018-rat-memory.json](./204018-rat-memory.json) |
 | Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
+| Rat on a Jet Ski | 100383 | [100383-rat-on-a-jet-ski.json](./100383-rat-on-a-jet-ski.json) |
 | Rat on a Scooter XL | 101114 | [101114-rat-on-a-scooter-xl.json](./101114-rat-on-a-scooter-xl.json) |
 | Rat on a Skateboard | 90439 | [90439-rat-on-a-skateboard.json](./90439-rat-on-a-skateboard.json) |
 | Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
@@ -5357,8 +5358,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reine des Fleurs | 86190 | [86190-reine-des-fleurs.json](./86190-reine-des-fleurs.json) |
 | Reiner Knizia Tigris & Euphrates | 103574 | [103574-reiner-knizia-tigris-and-euphrates.json](./103574-reiner-knizia-tigris-and-euphrates.json) |
 | Reiner Knizia Yellow & Yangtze | 130524 | [130524-reiner-knizia-yellow-and-yangtze.json](./130524-reiner-knizia-yellow-and-yangtze.json) |
+| Reiner Knizia's High Society | 99260 | [99260-reiner-knizias-high-society.json](./99260-reiner-knizias-high-society.json) |
 | Reiner Knizia's Kingdoms | 224994 | [224994-reiner-knizias-kingdoms.json](./224994-reiner-knizias-kingdoms.json) |
 | Reiner Knizia's Medici HD | 103540 | [103540-reiner-knizias-medici-hd.json](./103540-reiner-knizias-medici-hd.json) |
+| Reiner Knizia's Modern Art: The Card Game | 99259 | [99259-reiner-knizias-modern-art-the-card-game.json](./99259-reiner-knizias-modern-art-the-card-game.json) |
 | Reiner Knizia's Money | 200050 | [200050-reiner-knizias-money.json](./200050-reiner-knizias-money.json) |
 | Reiner Knizia's Ra | 103566 | [103566-reiner-knizias-ra.json](./103566-reiner-knizias-ra.json) |
 | Reiner Knizia's Samurai | 22207 | [22207-reiner-knizias-samurai.json](./22207-reiner-knizias-samurai.json) |
@@ -6976,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Slam Tennis | 410360 | [410360-retro-slam-tennis.json](./410360-retro-slam-tennis.json) |
 | Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
+| Retro Soccer - Arcade Football | 100401 | [100401-retro-soccer-arcade-football.json](./100401-retro-soccer-arcade-football.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
 | Retro Space | 256500 | [256500-retro-space.json](./256500-retro-space.json) |
 | Retro Space Ball | 116569 | [116569-retro-space-ball.json](./116569-retro-space-ball.json) |
@@ -8619,6 +8623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimi Action RPG | 107500 | [107500-rimi-action-rpg.json](./107500-rimi-action-rpg.json) |
 | Rimland | 302214 | [302214-rimland.json](./302214-rimland.json) |
 | Rimo-Cocoron | 98366 | [98366-rimo-cocoron.json](./98366-rimo-cocoron.json) |
+| Rimonozekum | 99243 | [99243-rimonozekum.json](./99243-rimonozekum.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | Rimrunner | 41131 | [41131-rimrunner.json](./41131-rimrunner.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
@@ -9497,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ro-Kyu-Bu! Naisho no Shutter Chance | 63026 | [63026-ro-kyu-bu-naisho-no-shutter-chance.json](./63026-ro-kyu-bu-naisho-no-shutter-chance.json) |
 | Ro-Kyuu-Bu! | 61408 | [61408-ro-kyuu-bu.json](./61408-ro-kyuu-bu.json) |
 | RO: Idle Poring | 74770 | [74770-ro-idle-poring.json](./74770-ro-idle-poring.json) |
+| Roa | 99235 | [99235-roa.json](./99235-roa.json) |
 | Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
 | Roach Invasion | 246802 | [246802-roach-invasion.json](./246802-roach-invasion.json) |
 | Roach Killer | 116904 | [116904-roach-killer.json](./116904-roach-killer.json) |
