@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T10:00:57.433Z",
-  "total_soundtracks": 3726,
+  "generated_at": "2026-11-17T10:06:47.917Z",
+  "total_soundtracks": 3735,
   "games": [
     {
       "igdb_id": 292844,
@@ -6159,6 +6159,20 @@
       ]
     },
     {
+      "igdb_id": 113826,
+      "game_name": "Cake Bash",
+      "game_url": "https://ostdb.net/games/cake-bash",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737f0ef7d3446f624ef62b8619",
+      "albums": [
+        {
+          "album_name": "Cake Bash (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6qRNQRmweAnaZ6iJYgNiaO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 122345,
       "game_name": "Calico",
       "game_url": "https://ostdb.net/games/calico",
@@ -8409,6 +8423,20 @@
         {
           "album_name": "Creepy Tale 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4r8t18T1Qy8bEMDXGx17tc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115401,
+      "game_name": "Creo God Simulator",
+      "game_url": "https://ostdb.net/games/creo-god-simulator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27336aec938b2be94a8c7306fca",
+      "albums": [
+        {
+          "album_name": "Creo God Simulator (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ag6vus5ZXR5zKOyAUfuLV",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17043,6 +17071,20 @@
       ]
     },
     {
+      "igdb_id": 114912,
+      "game_name": "Gravity Ace",
+      "game_url": "https://ostdb.net/games/gravity-ace",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f1a984456ffde5a1573b8713",
+      "albums": [
+        {
+          "album_name": "Gravity Ace (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/387oz62Vt59O3ZsnQ5Yj6s",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 12528,
       "game_name": "Gravity Rush 2",
       "game_url": "https://ostdb.net/games/gravity-rush-2",
@@ -22819,6 +22861,20 @@
         {
           "album_name": "Looking Up I See Only A Ceiling (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5iVwOKldtIRWb60f04yTCe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115180,
+      "game_name": "Lord Winklebottom Investigates",
+      "game_url": "https://ostdb.net/games/lord-winklebottom-investigates",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d9ee393348d27818daa65f00",
+      "albums": [
+        {
+          "album_name": "Lord Winklebottom Investigates (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2aLyyepwksMaZR7MQANDpf",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -32681,6 +32737,20 @@
       ]
     },
     {
+      "igdb_id": 114892,
+      "game_name": "Roah",
+      "game_url": "https://ostdb.net/games/roah",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27387868450c68b6bf3d85808c1",
+      "albums": [
+        {
+          "album_name": "Roah (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3TO2Q1kGntOfVxSYW8YSOy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11180,
       "game_name": "Robinson: The Journey",
       "game_url": "https://ostdb.net/games/robinson-the-journey",
@@ -35521,6 +35591,20 @@
         {
           "album_name": "Soda Dungeon 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0oKYjGa7MdIr1Bpbe6ICXT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115328,
+      "game_name": "Soko Loco Deluxe",
+      "game_url": "https://ostdb.net/games/soko-loco-deluxe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736b04600891e2f5b5742ebcc9",
+      "albums": [
+        {
+          "album_name": "Soko Loco Deluxe (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1YkIkF8M2C3prriNpYJbQa",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -42331,6 +42415,20 @@
       ]
     },
     {
+      "igdb_id": 113759,
+      "game_name": "The Spell",
+      "game_url": "https://ostdb.net/games/the-spell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27320a51d71b5bc6b859e310a59",
+      "albums": [
+        {
+          "album_name": "The Spell (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3v0kb2dTdXBbBt20N7Brb7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3035,
       "game_name": "The Stanley Parable",
       "game_url": "https://ostdb.net/games/the-stanley-parable",
@@ -42619,6 +42717,20 @@
         {
           "album_name": "The Wild at Heart (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1RxWF1Zvhrk63pqvqIIcFK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113850,
+      "game_name": "The Window Box",
+      "game_url": "https://ostdb.net/games/the-window-box",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273defd2f57672e777623d6b211",
+      "albums": [
+        {
+          "album_name": "The Window Box (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2yWUU60l0HyudSUrtaFSef",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -45533,6 +45645,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/visage-original-game-soundtrack/1811122497?uo=4",
           "album_link_url": "https://album.link/i/1811122497"
+        }
+      ]
+    },
+    {
+      "igdb_id": 113732,
+      "game_name": "Vision Soft Reset",
+      "game_url": "https://ostdb.net/games/vision-soft-reset",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735825d4df8fdd6a0fc0d901ff",
+      "albums": [
+        {
+          "album_name": "Vision Soft Reset (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6LPVARsulxOUDT3vlF4AXP",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
