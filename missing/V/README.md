@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: Whiteout | 272828 | [272828-vampire-survivors-whiteout.json](./272828-vampire-survivors-whiteout.json) |
 | Vampire Survivors+ | 357404 | [357404-vampire-survivors.json](./357404-vampire-survivors.json) |
 | Vampire Sweetie | 203779 | [203779-vampire-sweetie.json](./203779-vampire-sweetie.json) |
+| Vampire Tactics | 426494 | [426494-vampire-tactics.json](./426494-vampire-tactics.json) |
 | Vampire the Masquerade: We Eat Blood | 27424 | [27424-vampire-the-masquerade-we-eat-blood.json](./27424-vampire-the-masquerade-we-eat-blood.json) |
 | Vampire Therapist | 288502 | [288502-vampire-therapist.json](./288502-vampire-therapist.json) |
 | Vampire Therapist: Complete Edition | 403560 | [403560-vampire-therapist-complete-edition.json](./403560-vampire-therapist-complete-edition.json) |
