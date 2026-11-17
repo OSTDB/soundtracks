@@ -7081,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
 | Godshard Chronicles | 189844 | [189844-godshard-chronicles.json](./189844-godshard-chronicles.json) |
 | Godslayer Arena | 295851 | [295851-godslayer-arena.json](./295851-godslayer-arena.json) |
+| Godslayer: Brand of Sin | 425296 | [425296-godslayer-brand-of-sin.json](./425296-godslayer-brand-of-sin.json) |
 | Godslayer: One | 169035 | [169035-godslayer-one.json](./169035-godslayer-one.json) |
 | Godspeed | 271131 | [271131-godspeed.json](./271131-godspeed.json) |
 | Godspeed Gunslinger | 418481 | [418481-godspeed-gunslinger.json](./418481-godspeed-gunslinger.json) |
@@ -11000,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit | 145372 | [145372-grit.json](./145372-grit.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
 | Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
+| Grit and Valor - 1949: Resistance Edition | 425292 | [425292-grit-and-valor-1949-resistance-edition.json](./425292-grit-and-valor-1949-resistance-edition.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grit Porn Video Tapes | 309745 | [309745-grit-porn-video-tapes.json](./309745-grit-porn-video-tapes.json) |
 | Grit Shot | 414128 | [414128-grit-shot.json](./414128-grit-shot.json) |
