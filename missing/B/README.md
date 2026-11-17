@@ -5366,7 +5366,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be dog do borks | 181606 | [181606-be-dog-do-borks.json](./181606-be-dog-do-borks.json) |
 | Be Fly | 338229 | [338229-be-fly.json](./338229-be-fly.json) |
 | Be Frugal | 245901 | [245901-be-frugal.json](./245901-be-frugal.json) |
-| Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
 | Be hate Free Interactive | 112130 | [112130-be-hate-free-interactive.json](./112130-be-hate-free-interactive.json) |
 | Be Her Hero | 210518 | [210518-be-her-hero.json](./210518-be-her-hero.json) |
 | Be Hero | 137917 | [137917-be-hero.json](./137917-be-hero.json) |
@@ -11519,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Alley | 13974 | [13974-blind-alley.json](./13974-blind-alley.json) |
 | Blind and Schizophrenic | 242965 | [242965-blind-and-schizophrenic.json](./242965-blind-and-schizophrenic.json) |
 | Blind and Stumbling | 369815 | [369815-blind-and-stumbling.json](./369815-blind-and-stumbling.json) |
+| Blind Battle Championship | 131649 | [131649-blind-battle-championship.json](./131649-blind-battle-championship.json) |
 | Blind Bird | 105605 | [105605-blind-bird.json](./105605-blind-bird.json) |
 | Blind Blades | 31461 | [31461-blind-blades.json](./31461-blind-blades.json) |
 | Blind Bluff | 391527 | [391527-blind-bluff.json](./391527-blind-bluff.json) |
@@ -13248,6 +13248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Flow Fandisc | 408309 | [408309-blue-flow-fandisc.json](./408309-blue-flow-fandisc.json) |
 | Blue Force | 50236 | [50236-blue-force.json](./50236-blue-force.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
+| Blue Fox | 131651 | [131651-blue-fox.json](./131651-blue-fox.json) |
 | Blue Funk | 234668 | [234668-blue-funk.json](./234668-blue-funk.json) |
 | Blue Fury | 399226 | [399226-blue-fury.json](./399226-blue-fury.json) |
 | Blue Hawaii Aniki's Soft Ore Demand Debut | 365262 | [365262-blue-hawaii-anikis-soft-ore-demand-debut.json](./365262-blue-hawaii-anikis-soft-ore-demand-debut.json) |
