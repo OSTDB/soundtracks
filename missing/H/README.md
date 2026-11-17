@@ -8714,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Quality Funkin' | 405006 | [405006-high-quality-funkin.json](./405006-high-quality-funkin.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
+| High Risers | 57272 | [57272-high-risers.json](./57272-high-risers.json) |
 | High Roller | 36586 | [36586-high-roller.json](./36586-high-roller.json) |
 | High Roller Penny | 413416 | [413416-high-roller-penny.json](./413416-high-roller-penny.json) |
 | High Roller: Farkle | 216169 | [216169-high-roller-farkle.json](./216169-high-roller-farkle.json) |
