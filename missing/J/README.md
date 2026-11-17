@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaki's Wacky Adventure | 188850 | [188850-jakis-wacky-adventure.json](./188850-jakis-wacky-adventure.json) |
 | Jakin Boaz | 426931 | [426931-jakin-boaz.json](./426931-jakin-boaz.json) |
 | Jakou no Lyla: Trap of Musk | 116381 | [116381-jakou-no-lyla-trap-of-musk.json](./116381-jakou-no-lyla-trap-of-musk.json) |
+| Jaksaljabi | 171105 | [171105-jaksaljabi.json](./171105-jaksaljabi.json) |
 | jalada Chungu | 191928 | [191928-jalada-chungu.json](./191928-jalada-chungu.json) |
 | Jalapeño Newt | 141811 | [141811-jalapeno-newt.json](./141811-jalapeno-newt.json) |
 | Jalebi: A Desi Adda | 233529 | [233529-jalebi-a-desi-adda.json](./233529-jalebi-a-desi-adda.json) |
@@ -1151,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Mario | 204590 | [204590-jelly-mario.json](./204590-jelly-mario.json) |
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
+| Jelly Party: Fire | 174386 | [174386-jelly-party-fire.json](./174386-jelly-party-fire.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
 | Jelly RPG | 175037 | [175037-jelly-rpg.json](./175037-jelly-rpg.json) |
 | Jelly Run 2048 | 221351 | [221351-jelly-run-2048.json](./221351-jelly-run-2048.json) |
@@ -2360,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy's No. 44 House | 356668 | [356668-jimmys-no-44-house.json](./356668-jimmys-no-44-house.json) |
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
 | JimmyQuest | 299146 | [299146-jimmyquest.json](./299146-jimmyquest.json) |
+| Jìmò Shénmíng de Xīnyuàn Shǒujì | 171117 | [171117-jimo-shenming-de-xinyuan-shouji.json](./171117-jimo-shenming-de-xinyuan-shouji.json) |
 | JimsDay | 314501 | [314501-jimsday.json](./314501-jimsday.json) |
 | Jin | 393528 | [393528-jin.json](./393528-jin.json) |
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
