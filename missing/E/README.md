@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoes of You | 306346 | [306346-echoes-of-you.json](./306346-echoes-of-you.json) |
 | Echoes Runner | 395939 | [395939-echoes-runner.json](./395939-echoes-runner.json) |
+| Echoes Unbound | 427102 | [427102-echoes-unbound.json](./427102-echoes-unbound.json) |
 | Echoes Untold | 380961 | [380961-echoes-untold.json](./380961-echoes-untold.json) |
 | Echoes World | 111119 | [111119-echoes-world.json](./111119-echoes-world.json) |
 | Echoes: Deep-sea Exploration | 116440 | [116440-echoes-deep-sea-exploration.json](./116440-echoes-deep-sea-exploration.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberance | 309627 | [309627-emberance.json](./309627-emberance.json) |
 | Emberbane | 210975 | [210975-emberbane.json](./210975-emberbane.json) |
 | Embercast | 421231 | [421231-embercast.json](./421231-embercast.json) |
+| Emberdeep | 427087 | [427087-emberdeep.json](./427087-emberdeep.json) |
 | Emberdoom | 32584 | [32584-emberdoom.json](./32584-emberdoom.json) |
 | Emberdoom VR | 106476 | [106476-emberdoom-vr.json](./106476-emberdoom-vr.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
