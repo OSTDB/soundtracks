@@ -20114,7 +20114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Theft Wars | 96569 | [96569-dude-theft-wars.json](./96569-dude-theft-wars.json) |
 | Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
 | Dude, Stop | 29965 | [29965-dude-stop.json](./29965-dude-stop.json) |
-| Dude, Where Is My Beer? | 140482 | [140482-dude-where-is-my-beer.json](./140482-dude-where-is-my-beer.json) |
 | Dudebro: My Shit Is Fucked Up So I Got to Shoot / Slice You II: It's Straight-Up Dawg Time | 91500 | [91500-dudebro-my-shit-is-fucked-up-so-i-got-to-shoot-slice-you-ii-its-straight-up-dawg-time.json](./91500-dudebro-my-shit-is-fucked-up-so-i-got-to-shoot-slice-you-ii-its-straight-up-dawg-time.json) |
 | DudeGo | 292967 | [292967-dudego.json](./292967-dudego.json) |
 | Dudelings: Arcade Sportsball | 287797 | [287797-dudelings-arcade-sportsball.json](./287797-dudelings-arcade-sportsball.json) |
