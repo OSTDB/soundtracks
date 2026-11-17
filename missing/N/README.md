@@ -2550,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
 | Neo Sonic 2 | 266707 | [266707-neo-sonic-2.json](./266707-neo-sonic-2.json) |
 | Neo Sonic 3 | 266706 | [266706-neo-sonic-3.json](./266706-neo-sonic-3.json) |
+| Neo Sonic Fighting Heroes | 421714 | [421714-neo-sonic-fighting-heroes.json](./421714-neo-sonic-fighting-heroes.json) |
 | Neo Sonic Universe | 299876 | [299876-neo-sonic-universe.json](./299876-neo-sonic-universe.json) |
 | Neo Sonic: God Speed 2 | 266704 | [266704-neo-sonic-god-speed-2.json](./266704-neo-sonic-god-speed-2.json) |
 | Neo Spectrum | 179998 | [179998-neo-spectrum.json](./179998-neo-spectrum.json) |
