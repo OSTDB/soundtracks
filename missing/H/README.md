@@ -5411,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helpless | 153031 | [153031-helpless.json](./153031-helpless.json) |
 | Helpless | 239846 | [239846-helpless.json](./239846-helpless.json) |
 | Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
+| HelpTheAlien | 112376 | [112376-helpthealien.json](./112376-helpthealien.json) |
 | Helrift | 373498 | [373498-helrift.json](./373498-helrift.json) |
 | Helsing's Fire | 66492 | [66492-helsings-fire.json](./66492-helsings-fire.json) |
 | Helsingfors | 79559 | [79559-helsingfors.json](./79559-helsingfors.json) |
@@ -8882,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
 | Highrise Heroes: Word Challenge | 34120 | [34120-highrise-heroes-word-challenge.json](./34120-highrise-heroes-word-challenge.json) |
 | Highrise Mogul | 158239 | [158239-highrise-mogul.json](./158239-highrise-mogul.json) |
+| Highrisers | 113771 | [113771-highrisers.json](./113771-highrisers.json) |
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
 | Highschool 101 | 180927 | [180927-highschool-101.json](./180927-highschool-101.json) |
 | Highschool Girlfriend | 75756 | [75756-highschool-girlfriend.json](./75756-highschool-girlfriend.json) |
