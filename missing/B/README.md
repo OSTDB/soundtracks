@@ -11536,7 +11536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
 | Blind Drive | 143231 | [143231-blind-drive.json](./143231-blind-drive.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
-| Blind Fate: Edo no Yami | 138812 | [138812-blind-fate-edo-no-yami.json](./138812-blind-fate-edo-no-yami.json) |
 | Blind Fishes | 252002 | [252002-blind-fishes.json](./252002-blind-fishes.json) |
 | Blind Frontiers | 253519 | [253519-blind-frontiers.json](./253519-blind-frontiers.json) |
 | Blind Girl | 111489 | [111489-blind-girl.json](./111489-blind-girl.json) |
@@ -17323,6 +17322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Bad: VR Experience | 36757 | [36757-breaking-bad-vr-experience.json](./36757-breaking-bad-vr-experience.json) |
 | Breaking Bones | 30390 | [30390-breaking-bones.json](./30390-breaking-bones.json) |
 | Breaking Bound | 289799 | [289799-breaking-bound.json](./289799-breaking-bound.json) |
+| Breaking Box | 119799 | [119799-breaking-box.json](./119799-breaking-box.json) |
 | Breaking Box: Rush! | 271088 | [271088-breaking-box-rush.json](./271088-breaking-box-rush.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
 | Breaking Bricks | 301091 | [301091-breaking-bricks.json](./301091-breaking-bricks.json) |
