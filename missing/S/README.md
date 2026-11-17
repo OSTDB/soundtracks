@@ -13694,7 +13694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelewton's First Law | 120232 | [120232-skelewtons-first-law.json](./120232-skelewtons-first-law.json) |
 | Skelittle: A Giant Party !! | 111158 | [111158-skelittle-a-giant-party.json](./111158-skelittle-a-giant-party.json) |
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
-| Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
 | Skellboy Refractured | 140906 | [140906-skellboy-refractured.json](./140906-skellboy-refractured.json) |
 | Skellet | 374963 | [374963-skellet.json](./374963-skellet.json) |
 | Skelli Tower Defense | 101390 | [101390-skelli-tower-defense.json](./101390-skelli-tower-defense.json) |
