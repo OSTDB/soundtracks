@@ -4255,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
 | Feed the Cat: Gravity Puzzle | 406992 | [406992-feed-the-cat-gravity-puzzle.json](./406992-feed-the-cat-gravity-puzzle.json) |
 | Feed the Circuit | 390587 | [390587-feed-the-circuit.json](./390587-feed-the-circuit.json) |
+| Feed the Core | 429497 | [429497-feed-the-core.json](./429497-feed-the-core.json) |
 | Feed the Cups | 244398 | [244398-feed-the-cups.json](./244398-feed-the-cups.json) |
 | Feed the Deep | 244320 | [244320-feed-the-deep.json](./244320-feed-the-deep.json) |
 | Feed the Demon Incremental | 389528 | [389528-feed-the-demon-incremental.json](./389528-feed-the-demon-incremental.json) |
@@ -14263,6 +14264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
 | From Hell | 320610 | [320610-from-hell.json](./320610-from-hell.json) |
 | From Ivan | 109102 | [109102-from-ivan.json](./109102-from-ivan.json) |
+| From Jianghu | 429524 | [429524-from-jianghu.json](./429524-from-jianghu.json) |
 | From Lamer to Guru | 367156 | [367156-from-lamer-to-guru.json](./367156-from-lamer-to-guru.json) |
 | From Lex to Rex | 195574 | [195574-from-lex-to-rex.json](./195574-from-lex-to-rex.json) |
 | From Light | 262745 | [262745-from-light.json](./262745-from-light.json) |
