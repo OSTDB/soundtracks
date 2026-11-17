@@ -2126,7 +2126,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Harvest | 285145 | [285145-garden-harvest.json](./285145-garden-harvest.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
 | Garden Hustle | 422127 | [422127-garden-hustle.json](./422127-garden-hustle.json) |
-| Garden In! | 198625 | [198625-garden-in.json](./198625-garden-in.json) |
 | Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
 | Garden Life: A Cozy Simulator | 204554 | [204554-garden-life-a-cozy-simulator.json](./204554-garden-life-a-cozy-simulator.json) |
 | Garden Life: Eco-friendly Decoration Set | 286205 | [286205-garden-life-eco-friendly-decoration-set.json](./286205-garden-life-eco-friendly-decoration-set.json) |
@@ -10414,7 +10413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
 | Greyfox | 19377 | [19377-greyfox.json](./19377-greyfox.json) |
 | Greyfront | 350868 | [350868-greyfront.json](./350868-greyfront.json) |
-| Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
+| Greyhat: A Digital Detective Adventure | 131669 | [131669-greyhat-a-digital-detective-adventure.json](./131669-greyhat-a-digital-detective-adventure.json) |
 | Greyhill Incident: Abducted Edition | 240035 | [240035-greyhill-incident-abducted-edition.json](./240035-greyhill-incident-abducted-edition.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
 | Greyhill Incident: Re-probed Edition | 387791 | [387791-greyhill-incident-re-probed-edition.json](./387791-greyhill-incident-re-probed-edition.json) |
