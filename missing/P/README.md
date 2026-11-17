@@ -13053,6 +13053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sienna | 194774 | [194774-pokemon-sienna.json](./194774-pokemon-sienna.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Silver Randomizer | 329878 | [329878-pokemon-silver-randomizer.json](./329878-pokemon-silver-randomizer.json) |
+| Pokémon Silver Yellow | 425945 | [425945-pokemon-silver-yellow.json](./425945-pokemon-silver-yellow.json) |
 | Pokémon Sinking Sapphire | 163228 | [163228-pokemon-sinking-sapphire.json](./163228-pokemon-sinking-sapphire.json) |
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
 | Pokémon Sleep | 123089 | [123089-pokemon-sleep.json](./123089-pokemon-sleep.json) |
@@ -15177,6 +15178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Tycoon | 167183 | [167183-potion-tycoon.json](./167183-potion-tycoon.json) |
 | Potion Wilds | 216713 | [216713-potion-wilds.json](./216713-potion-wilds.json) |
 | Potion-Maker's Apprentice | 216680 | [216680-potion-makers-apprentice.json](./216680-potion-makers-apprentice.json) |
+| Potion-making: Path of the Alchemist | 425957 | [425957-potion-making-path-of-the-alchemist.json](./425957-potion-making-path-of-the-alchemist.json) |
 | Potioneer: The VR Gardening Simulator | 27341 | [27341-potioneer-the-vr-gardening-simulator.json](./27341-potioneer-the-vr-gardening-simulator.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potionomics: Masterwork Edition | 300482 | [300482-potionomics-masterwork-edition.json](./300482-potionomics-masterwork-edition.json) |
