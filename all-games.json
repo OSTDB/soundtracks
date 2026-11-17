@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T07:26:09.152Z",
-  "total_soundtracks": 3597,
+  "generated_at": "2026-11-17T07:36:41.608Z",
+  "total_soundtracks": 3606,
   "games": [
     {
       "igdb_id": 292844,
@@ -9495,6 +9495,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/death-howl-original-game-soundtrack/1858185421?uo=4",
           "album_link_url": "https://album.link/i/1858185421"
+        }
+      ]
+    },
+    {
+      "igdb_id": 220010,
+      "game_name": "Death Relives",
+      "game_url": "https://ostdb.net/games/death-relives",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27367729d953187f9d22072f2f0",
+      "albums": [
+        {
+          "album_name": "Death Relives (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2hqw8tADvfT0I4YnPiVQuc",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -22869,6 +22883,20 @@
       ]
     },
     {
+      "igdb_id": 223167,
+      "game_name": "Marko: Beyond Brave",
+      "game_url": "https://ostdb.net/games/marko-beyond-brave",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a04d884c1bc4673c1381209d",
+      "albums": [
+        {
+          "album_name": "Marko: Beyond Brave (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Et2dAfmt53aoUkmc0nvTP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 307253,
       "game_name": "Married in Red",
       "game_url": "https://ostdb.net/games/married-in-red",
@@ -29601,6 +29629,20 @@
       ]
     },
     {
+      "igdb_id": 225776,
+      "game_name": "R-Type Tactics I & II Cosmos",
+      "game_url": "https://ostdb.net/games/r-type-tactics-i-and-ii-cosmos",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a36400f88c2b31671aec3bc1",
+      "albums": [
+        {
+          "album_name": "R-Type Tactics I&II Cosmos Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/39L0arq0YM9iQXZqdwdmX0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 4076,
       "game_name": "R: Racing Evolution",
       "game_url": "https://ostdb.net/games/r-racing-evolution",
@@ -30912,6 +30954,20 @@
           "album_name": "Resonance: A Plague Tale Legacy (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5gTB1Myqlxb2tbRJVW7Ayx",
           "apple_music_url": "https://music.apple.com/us/album/resonance-a-plague-tale-legacy-original-game-soundtrack/6793270478?l=cs",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 231488,
+      "game_name": "RetroSpace",
+      "game_url": "https://ostdb.net/games/retrospace",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735fcfd121a59cee3572e4f27d",
+      "albums": [
+        {
+          "album_name": "Retrospace (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0A4muWijFQp5xkHL2qr7C6",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -32639,6 +32695,20 @@
         {
           "album_name": "Seers Isle (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3VTJxqZNnGKxlEbE3rj85z",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 217363,
+      "game_name": "Sektori",
+      "game_url": "https://ostdb.net/games/sektori",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da923902550616f26e2b2613",
+      "albums": [
+        {
+          "album_name": "Sektori (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/54051ljVRlyTs0bc9OhmlV",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37303,6 +37373,20 @@
       ]
     },
     {
+      "igdb_id": 225891,
+      "game_name": "Sword of the Vagrant",
+      "game_url": "https://ostdb.net/games/sword-of-the-vagrant",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b23fc170748edfb5ec532dc8",
+      "albums": [
+        {
+          "album_name": "Sword of the Vagrant (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3LeRUvgvw2LkMaIOmG7jsn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 10783,
       "game_name": "Swords & Soldiers",
       "game_url": "https://ostdb.net/games/swords-and-soldiers",
@@ -38453,6 +38537,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/the-ascent-original-game-soundtrack/1826900384?uo=4",
           "album_link_url": "https://album.link/i/1826900384"
+        }
+      ]
+    },
+    {
+      "igdb_id": 217404,
+      "game_name": "The Axis Unseen",
+      "game_url": "https://ostdb.net/games/the-axis-unseen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273227cbf62d3b301146c6e3635",
+      "albums": [
+        {
+          "album_name": "The Axis Unseen (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0H3X2JqZpv1ITagfn8YSFY",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -42903,6 +43001,20 @@
       ]
     },
     {
+      "igdb_id": 217181,
+      "game_name": "Undead Horde 2: Necropolis",
+      "game_url": "https://ostdb.net/games/undead-horde-2-necropolis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a7aa5bd9a299910a35bca58c",
+      "albums": [
+        {
+          "album_name": "Undead Horde 2: Necropolis (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1qOfFA9iQlLeyDrWu2UwEW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 20290,
       "game_name": "Under Night In-Birth Exe:Late",
       "game_url": "https://ostdb.net/games/under-night-in-birth-exe-late",
@@ -44933,6 +45045,20 @@
         {
           "album_name": "Whipseey and the Lost Atlas (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7udXWw7aG6Es4scVjfuBJi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 229193,
+      "game_name": "Whisker Squadron: Survivor",
+      "game_url": "https://ostdb.net/games/whisker-squadron-survivor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733da40c24872265901109ec0e",
+      "albums": [
+        {
+          "album_name": "Whisker Squadron: Survivor (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3iX2Fbuu3uOXAXjhVWu1XR",
           "apple_music_url": "",
           "album_link_url": ""
         }
