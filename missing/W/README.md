@@ -4149,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Game Online | 274529 | [274529-whale-game-online.json](./274529-whale-game-online.json) |
 | Whale Island | 105724 | [105724-whale-island.json](./105724-whale-island.json) |
 | Whale Left: Part 1 | 367942 | [367942-whale-left-part-1.json](./367942-whale-left-part-1.json) |
+| Whale Life Simulator | 421106 | [421106-whale-life-simulator.json](./421106-whale-life-simulator.json) |
 | Whale of Noise | 207142 | [207142-whale-of-noise.json](./207142-whale-of-noise.json) |
 | Whale Rock Games: Immersive Puzzles Bundle | 249804 | [249804-whale-rock-games-immersive-puzzles-bundle.json](./249804-whale-rock-games-immersive-puzzles-bundle.json) |
 | Whale Rock: All Games Bundle | 249802 | [249802-whale-rock-all-games-bundle.json](./249802-whale-rock-all-games-bundle.json) |
@@ -4770,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
 | Where is the Tutorial | 322722 | [322722-where-is-the-tutorial.json](./322722-where-is-the-tutorial.json) |
 | Where It All Began | 198361 | [198361-where-it-all-began.json](./198361-where-it-all-began.json) |
+| Where It Happened | 421132 | [421132-where-it-happened.json](./421132-where-it-happened.json) |
 | Where Jellyfish | 279091 | [279091-where-jellyfish.json](./279091-where-jellyfish.json) |
 | Where Jellyfish: +450 | 282226 | [282226-where-jellyfish-450.json](./282226-where-jellyfish-450.json) |
 | Where Kiwis | 306780 | [306780-where-kiwis.json](./306780-where-kiwis.json) |
