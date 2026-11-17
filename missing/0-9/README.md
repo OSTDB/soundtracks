@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Jam | 42785 | [42785-4x4-jam.json](./42785-4x4-jam.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4x4 Mud: Offroad Car Simulator & Truck | 270330 | [270330-4x4-mud-offroad-car-simulator-and-truck.json](./270330-4x4-mud-offroad-car-simulator-and-truck.json) |
+| 4x4 Off Road Rally 2 | 96995 | [96995-4x4-off-road-rally-2.json](./96995-4x4-off-road-rally-2.json) |
 | 4x4 Off-Road Challenge | 127168 | [127168-4x4-off-road-challenge.json](./127168-4x4-off-road-challenge.json) |
 | 4x4 Off-Road Racing | 12287 | [12287-4x4-off-road-racing.json](./12287-4x4-off-road-racing.json) |
 | 4x4 Offroad Car Exploration | 264899 | [264899-4x4-offroad-car-exploration.json](./264899-4x4-offroad-car-exploration.json) |
@@ -3964,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90s My Dear | 316438 | [316438-90s-my-dear.json](./316438-90s-my-dear.json) |
 | 90s Video Pokers | 175477 | [175477-90s-video-pokers.json](./175477-90s-video-pokers.json) |
 | 911 Dispatcher: Unknown Caller | 415465 | [415465-911-dispatcher-unknown-caller.json](./415465-911-dispatcher-unknown-caller.json) |
+| 911 Drift Simulator | 96972 | [96972-911-drift-simulator.json](./96972-911-drift-simulator.json) |
 | 911 Emergency Manager | 377412 | [377412-911-emergency-manager.json](./377412-911-emergency-manager.json) |
 | 911 Fire Rescue | 71612 | [71612-911-fire-rescue.json](./71612-911-fire-rescue.json) |
 | 911 FR | 119103 | [119103-911-fr.json](./119103-911-fr.json) |
