@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T01:56:01.635Z",
-  "total_soundtracks": 3508,
+  "generated_at": "2026-11-17T02:46:06.910Z",
+  "total_soundtracks": 3510,
   "games": [
     {
       "igdb_id": 292844,
@@ -4801,6 +4801,20 @@
         {
           "album_name": "Blind Trust (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/72AkBWMoVSY5so4IPkeJCS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 348336,
+      "game_name": "Blippo+",
+      "game_url": "https://ostdb.net/games/blippo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739a148433180d630efcf5c349",
+      "albums": [
+        {
+          "album_name": "Blippo+ (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6C7puF1WwqCMjpoFo5pzmx",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24207,6 +24221,20 @@
         {
           "album_name": "Monument Valley: Forgotten Shores (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1dKwykVXwQ59ehjUxFKRRw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 348272,
+      "game_name": "Moomintroll: Winter's Warmth",
+      "game_url": "https://ostdb.net/games/moomintroll-winters-warmth",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27375d13c145d4e4ac7114de24a",
+      "albums": [
+        {
+          "album_name": "Moomintroll: Winter's Warmth (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7qDgYHptCD7d4Z0LuOX9I0",
           "apple_music_url": "",
           "album_link_url": ""
         }
