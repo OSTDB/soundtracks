@@ -7006,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being John | 283989 | [283989-being-john.json](./283989-being-john.json) |
 | Being John Gogh | 330498 | [330498-being-john-gogh.json](./330498-being-john-gogh.json) |
 | Being Left the F*** Alone Simulator | 195962 | [195962-being-left-the-f-alone-simulator.json](./195962-being-left-the-f-alone-simulator.json) |
+| Being Loved | 192345 | [192345-being-loved.json](./192345-being-loved.json) |
 | Being Mindful | 168641 | [168641-being-mindful.json](./168641-being-mindful.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
 | Being One: Episode 2 | 184749 | [184749-being-one-episode-2.json](./184749-being-one-episode-2.json) |
@@ -7724,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestiary of the Mountains and Seas | 343823 | [343823-bestiary-of-the-mountains-and-seas.json](./343823-bestiary-of-the-mountains-and-seas.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
+| BestLuck | 194672 | [194672-bestluck.json](./194672-bestluck.json) |
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
 | Bestowment | 310859 | [310859-bestowment.json](./310859-bestowment.json) |
 | Bestri | 263649 | [263649-bestri.json](./263649-bestri.json) |
@@ -8280,6 +8282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biblios: Tome of Darkness | 306343 | [306343-biblios-tome-of-darkness.json](./306343-biblios-tome-of-darkness.json) |
 | Biblioteksspel | 393749 | [393749-biblioteksspel.json](./393749-biblioteksspel.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
+| Bibots | 192350 | [192350-bibots.json](./192350-bibots.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bibou Quest | 150917 | [150917-bibou-quest.json](./150917-bibou-quest.json) |
 | Bic's Christmas Tale | 317344 | [317344-bics-christmas-tale.json](./317344-bics-christmas-tale.json) |
@@ -8677,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Time Sports | 123691 | [123691-big-time-sports.json](./123691-big-time-sports.json) |
 | Big Tits | 393375 | [393375-big-tits.json](./393375-big-tits.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
+| Big Toddlers and Kids Bundle | 192410 | [192410-big-toddlers-and-kids-bundle.json](./192410-big-toddlers-and-kids-bundle.json) |
 | Big Top | 304302 | [304302-big-top.json](./304302-big-top.json) |
 | Big Top | 85927 | [85927-big-top.json](./85927-big-top.json) |
 | Big Top Best Kids Games Bundle | 303877 | [303877-big-top-best-kids-games-bundle.json](./303877-big-top-best-kids-games-bundle.json) |
