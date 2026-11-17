@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are Warriors! | 322689 | [322689-we-are-warriors.json](./322689-we-are-warriors.json) |
 | We Are* | 56541 | [56541-we-are.json](./56541-we-are.json) |
 | We Bare Bears - StirFry Stunts | 112906 | [112906-we-bare-bears-stirfry-stunts.json](./112906-we-bare-bears-stirfry-stunts.json) |
+| We Bare Bears Match3 Repairs | 103000 | [103000-we-bare-bears-match3-repairs.json](./103000-we-bare-bears-match3-repairs.json) |
 | We Bare Bears: Bearsketball | 196864 | [196864-we-bare-bears-bearsketball.json](./196864-we-bare-bears-bearsketball.json) |
 | We Become What We Behold | 25259 | [25259-we-become-what-we-behold.json](./25259-we-become-what-we-behold.json) |
 | We Belong Dead | 406217 | [406217-we-belong-dead.json](./406217-we-belong-dead.json) |
@@ -3785,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
 | Welcome to the Mansion Remastered | 181540 | [181540-welcome-to-the-mansion-remastered.json](./181540-welcome-to-the-mansion-remastered.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
+| Welcome to the Pool Hall | 104888 | [104888-welcome-to-the-pool-hall.json](./104888-welcome-to-the-pool-hall.json) |
 | Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
 | Welcome to the Universe | 327523 | [327523-welcome-to-the-universe.json](./327523-welcome-to-the-universe.json) |
 | Welcome to the Untitled Game | 111080 | [111080-welcome-to-the-untitled-game.json](./111080-welcome-to-the-untitled-game.json) |
@@ -7038,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisegal | 9366 | [9366-wisegal.json](./9366-wisegal.json) |
 | Wiseguys | 123538 | [123538-wiseguys.json](./123538-wiseguys.json) |
 | Wisentree Spirit | 111581 | [111581-wisentree-spirit.json](./111581-wisentree-spirit.json) |
+| Wisgr | 104892 | [104892-wisgr.json](./104892-wisgr.json) |
 | Wish | 196225 | [196225-wish.json](./196225-wish.json) |
 | Wish - Israfil Saga | 94897 | [94897-wish-israfil-saga.json](./94897-wish-israfil-saga.json) |
 | Wish -tale of the sixteenth night of lunar month- | 34684 | [34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json](./34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json) |
@@ -7570,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Slayer | 65309 | [65309-wizard-slayer.json](./65309-wizard-slayer.json) |
 | Wizard Slime | 113173 | [113173-wizard-slime.json](./113173-wizard-slime.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
+| Wizard Street | 103004 | [103004-wizard-street.json](./103004-wizard-street.json) |
 | Wizard time! | 192614 | [192614-wizard-time.json](./192614-wizard-time.json) |
 | Wizard Tournament | 304012 | [304012-wizard-tournament.json](./304012-wizard-tournament.json) |
 | Wizard Tower | 299641 | [299641-wizard-tower.json](./299641-wizard-tower.json) |
