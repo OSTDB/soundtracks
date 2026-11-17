@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 10 | 169119 | [169119-vacation-adventures-park-ranger-10.json](./169119-vacation-adventures-park-ranger-10.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
 | Vacation Adventures: Park Ranger 12 | 193218 | [193218-vacation-adventures-park-ranger-12.json](./193218-vacation-adventures-park-ranger-12.json) |
+| Vacation Adventures: Park Ranger 13 | 197801 | [197801-vacation-adventures-park-ranger-13.json](./197801-vacation-adventures-park-ranger-13.json) |
 | Vacation Adventures: Park Ranger 13 - Collector's Edition | 233894 | [233894-vacation-adventures-park-ranger-13-collectors-edition.json](./233894-vacation-adventures-park-ranger-13-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
 | Vacation Adventures: Park Ranger 14 - Collector's Edition | 231837 | [231837-vacation-adventures-park-ranger-14-collectors-edition.json](./231837-vacation-adventures-park-ranger-14-collectors-edition.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
 | Vault: Tomb of the King | 115303 | [115303-vault-tomb-of-the-king.json](./115303-vault-tomb-of-the-king.json) |
 | Vault! | 340817 | [340817-vault.json](./340817-vault.json) |
+| Vaultbreakers | 197814 | [197814-vaultbreakers.json](./197814-vaultbreakers.json) |
 | Vaulted | 253825 | [253825-vaulted.json](./253825-vaulted.json) |
 | Vaulted Valor | 374805 | [374805-vaulted-valor.json](./374805-vaulted-valor.json) |
 | Vaultframe | 325768 | [325768-vaultframe.json](./325768-vaultframe.json) |
@@ -3938,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volley Balley | 90895 | [90895-volley-balley.json](./90895-volley-balley.json) |
 | Volley Bomb | 239092 | [239092-volley-bomb.json](./239092-volley-bomb.json) |
 | Volley Court | 226041 | [226041-volley-court.json](./226041-volley-court.json) |
+| Volley Heads | 197800 | [197800-volley-heads.json](./197800-volley-heads.json) |
 | Volley Pals | 223228 | [223228-volley-pals.json](./223228-volley-pals.json) |
 | Volley Pals: Complete | 335617 | [335617-volley-pals-complete.json](./335617-volley-pals-complete.json) |
 | Volley Sumos | 193727 | [193727-volley-sumos.json](./193727-volley-sumos.json) |
