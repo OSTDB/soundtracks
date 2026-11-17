@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerepis | 75577 | [75577-nerepis.json](./75577-nerepis.json) |
 | NERF Arcade | 125781 | [125781-nerf-arcade.json](./125781-nerf-arcade.json) |
 | Nerf Arena Blast | 68701 | [68701-nerf-arena-blast.json](./68701-nerf-arena-blast.json) |
+| Nerf Gunner Challenge | 96981 | [96981-nerf-gunner-challenge.json](./96981-nerf-gunner-challenge.json) |
 | Nerf Jr. Foam Balster: Attack of The Kleptons | 210037 | [210037-nerf-jr-foam-balster-attack-of-the-kleptons.json](./210037-nerf-jr-foam-balster-attack-of-the-kleptons.json) |
 | Nerf Legends | 163875 | [163875-nerf-legends.json](./163875-nerf-legends.json) |
 | Nerf Legends: Digital Deluxe Edition | 218844 | [218844-nerf-legends-digital-deluxe-edition.json](./218844-nerf-legends-digital-deluxe-edition.json) |
