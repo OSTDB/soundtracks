@@ -1650,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Diablos | 156995 | [156995-san-diablos.json](./156995-san-diablos.json) |
 | San Diego Zoo Presents: The Animals! | 283392 | [283392-san-diego-zoo-presents-the-animals.json](./283392-san-diego-zoo-presents-the-animals.json) |
 | San Fernando | 247672 | [247672-san-fernando.json](./247672-san-fernando.json) |
+| San Francisco | 84353 | [84353-san-francisco.json](./84353-san-francisco.json) |
 | San Francisco Rush 2049 | 249133 | [249133-san-francisco-rush-2049.json](./249133-san-francisco-rush-2049.json) |
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
@@ -3585,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scissor Girl's Weed Crisis | 309720 | [309720-scissor-girls-weed-crisis.json](./309720-scissor-girls-weed-crisis.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Scissors in Hell | 216931 | [216931-scissors-in-hell.json](./216931-scissors-in-hell.json) |
+| Scivelation | 84369 | [84369-scivelation.json](./84369-scivelation.json) |
 | Scivics | 348540 | [348540-scivics.json](./348540-scivics.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Sclash | 143935 | [143935-sclash.json](./143935-sclash.json) |
@@ -7718,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Over the Twelve Lands | 305338 | [305338-shadow-over-the-twelve-lands.json](./305338-shadow-over-the-twelve-lands.json) |
 | Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
+| Shadow Physics | 84399 | [84399-shadow-physics.json](./84399-shadow-physics.json) |
 | Shadow Play | 109413 | [109413-shadow-play.json](./109413-shadow-play.json) |
 | Shadow Point | 123157 | [123157-shadow-point.json](./123157-shadow-point.json) |
 | Shadow President | 73470 | [73470-shadow-president.json](./73470-shadow-president.json) |
@@ -24711,6 +24714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Rhythm XD: Monstercat | 274597 | [274597-spin-rhythm-xd-monstercat.json](./274597-spin-rhythm-xd-monstercat.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
+| Spin Six | 84385 | [84385-spin-six.json](./84385-spin-six.json) |
 | Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
@@ -29439,6 +29443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamWorld Heist: The Outsider | 24420 | [24420-steamworld-heist-the-outsider.json](./24420-steamworld-heist-the-outsider.json) |
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
 | SteamWorld Quest: Hand of Gilgamech | 114415 | [114415-steamworld-quest-hand-of-gilgamech.json](./114415-steamworld-quest-hand-of-gilgamech.json) |
+| SteamWorld Tower Defense | 84391 | [84391-steamworld-tower-defense.json](./84391-steamworld-tower-defense.json) |
 | Steamwrecked | 387023 | [387023-steamwrecked.json](./387023-steamwrecked.json) |
 | Steamy Bathhouse | 257144 | [257144-steamy-bathhouse.json](./257144-steamy-bathhouse.json) |
 | Steamy Livestreams with My Girlfriend | 396198 | [396198-steamy-livestreams-with-my-girlfriend.json](./396198-steamy-livestreams-with-my-girlfriend.json) |
@@ -32913,6 +32918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
 | Subway | 295302 | [295302-subway.json](./295302-subway.json) |
+| Subway | 84354 | [84354-subway.json](./84354-subway.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
 | Subway Builder | 370450 | [370450-subway-builder.json](./370450-subway-builder.json) |
 | Subway Clash 2 | 146715 | [146715-subway-clash-2.json](./146715-subway-clash-2.json) |
@@ -35074,6 +35080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flipper | 94972 | [94972-super-flipper.json](./94972-super-flipper.json) |
 | Super Flippin' Phones | 33763 | [33763-super-flippin-phones.json](./33763-super-flippin-phones.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
+| Super Flite | 84356 | [84356-super-flite.json](./84356-super-flite.json) |
 | Super Flying Vroom Vroom | 374030 | [374030-super-flying-vroom-vroom.json](./374030-super-flying-vroom-vroom.json) |
 | Super FNaF | 286179 | [286179-super-fnaf.json](./286179-super-fnaf.json) |
 | Super FNaF 2: Second Wind | 427217 | [427217-super-fnaf-2-second-wind.json](./427217-super-fnaf-2-second-wind.json) |
@@ -39255,6 +39262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Hunter | 311578 | [311578-swamp-hunter.json](./311578-swamp-hunter.json) |
 | Swamp Jump | 108035 | [108035-swamp-jump.json](./108035-swamp-jump.json) |
 | Swamp Keeper | 349085 | [349085-swamp-keeper.json](./349085-swamp-keeper.json) |
+| Swamp Monsters | 84367 | [84367-swamp-monsters.json](./84367-swamp-monsters.json) |
 | Swamp People | 62437 | [62437-swamp-people.json](./62437-swamp-people.json) |
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
 | Swamp Stomp | 223634 | [223634-swamp-stomp.json](./223634-swamp-stomp.json) |
@@ -40345,6 +40353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
+| SX-2: Duits Africa Soukou Gundan | 84358 | [84358-sx-2-duits-africa-soukou-gundan.json](./84358-sx-2-duits-africa-soukou-gundan.json) |
 | SXPD: Extreme Pursuit Force | 61525 | [61525-sxpd-extreme-pursuit-force.json](./61525-sxpd-extreme-pursuit-force.json) |
 | Sybaritic Extravaganza | 274298 | [274298-sybaritic-extravaganza.json](./274298-sybaritic-extravaganza.json) |
 | Syberia | 272095 | [272095-syberia.json](./272095-syberia.json) |
