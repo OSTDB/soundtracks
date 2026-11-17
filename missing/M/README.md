@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manuganu | 175908 | [175908-manuganu.json](./175908-manuganu.json) |
 | Manuganu 2 | 175909 | [175909-manuganu-2.json](./175909-manuganu-2.json) |
 | Manus Dei | 269226 | [269226-manus-dei.json](./269226-manus-dei.json) |
+| Manus Sors | 424736 | [424736-manus-sors.json](./424736-manus-sors.json) |
 | Manx TT Super Bike | 36572 | [36572-manx-tt-super-bike.json](./36572-manx-tt-super-bike.json) |
 | Many Bricks Breaker | 150947 | [150947-many-bricks-breaker.json](./150947-many-bricks-breaker.json) |
 | Many Buttons to Press | 186484 | [186484-many-buttons-to-press.json](./186484-many-buttons-to-press.json) |
@@ -11674,6 +11675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Planet R23B | 417796 | [417796-metroid-planet-r23b.json](./417796-metroid-planet-r23b.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
 | Metroid Prime | 134257 | [134257-metroid-prime.json](./134257-metroid-prime.json) |
+| Metroid Prime 2: Better Echoes | 424663 | [424663-metroid-prime-2-better-echoes.json](./424663-metroid-prime-2-better-echoes.json) |
 | Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
 | Metroid Prime 2: Echoes | 134258 | [134258-metroid-prime-2-echoes.json](./134258-metroid-prime-2-echoes.json) |
 | Metroid Prime 2: Echoes - Double Trouble | 388563 | [388563-metroid-prime-2-echoes-double-trouble.json](./388563-metroid-prime-2-echoes-double-trouble.json) |
@@ -15314,6 +15316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
 | Mira's Tale | 129088 | [129088-miras-tale.json](./129088-miras-tale.json) |
 | Mira's Workshop | 169724 | [169724-miras-workshop.json](./169724-miras-workshop.json) |
+| Mirabelle | 424748 | [424748-mirabelle.json](./424748-mirabelle.json) |
 | Miracle | 386063 | [386063-miracle.json](./386063-miracle.json) |
 | Miracle Adventure Esparks | 49130 | [49130-miracle-adventure-esparks.json](./49130-miracle-adventure-esparks.json) |
 | Miracle Baseball | 385759 | [385759-miracle-baseball.json](./385759-miracle-baseball.json) |
@@ -18398,6 +18401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Puzzle Games: Toddler Kids Learning Apps | 96352 | [96352-monster-puzzle-games-toddler-kids-learning-apps.json](./96352-monster-puzzle-games-toddler-kids-learning-apps.json) |
 | Monster Quest | 209070 | [209070-monster-quest.json](./209070-monster-quest.json) |
 | Monster Quest | 301863 | [301863-monster-quest.json](./301863-monster-quest.json) |
+| Monster Quest | 424730 | [424730-monster-quest.json](./424730-monster-quest.json) |
 | Monster Quest: Seven Sins | 219842 | [219842-monster-quest-seven-sins.json](./219842-monster-quest-seven-sins.json) |
 | Monster Race | 64019 | [64019-monster-race.json](./64019-monster-race.json) |
 | Monster Race 2 | 61172 | [61172-monster-race-2.json](./61172-monster-race-2.json) |
