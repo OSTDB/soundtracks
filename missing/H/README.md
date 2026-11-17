@@ -4657,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump: Party Edition | 297301 | [297301-helix-jump-party-edition.json](./297301-helix-jump-party-edition.json) |
 | Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
 | Helix Rush | 100919 | [100919-helix-rush.json](./100919-helix-rush.json) |
+| Helix Slider | 155718 | [155718-helix-slider.json](./155718-helix-slider.json) |
 | Helix Waltz | 254874 | [254874-helix-waltz.json](./254874-helix-waltz.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
@@ -7695,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
 | Hexters | 81393 | [81393-hexters.json](./81393-hexters.json) |
 | Hexton | 298243 | [298243-hexton.json](./298243-hexton.json) |
+| Hextones | 156735 | [156735-hextones.json](./156735-hextones.json) |
 | Hextones: Spacetime | 152639 | [152639-hextones-spacetime.json](./152639-hextones-spacetime.json) |
 | HexTrains | 102953 | [102953-hextrains.json](./102953-hextrains.json) |
 | Hextreaming: Deep | 411505 | [411505-hextreaming-deep.json](./411505-hextreaming-deep.json) |
@@ -8549,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and go boom | 86505 | [86505-hide-and-go-boom.json](./86505-hide-and-go-boom.json) |
 | Hide and Luig | 385411 | [385411-hide-and-luig.json](./385411-hide-and-luig.json) |
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
+| Hide and Run | 147535 | [147535-hide-and-run.json](./147535-hide-and-run.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Seek | 114212 | [114212-hide-and-seek.json](./114212-hide-and-seek.json) |
@@ -9388,7 +9391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | HiroBot: Clean & Restore | 396180 | [396180-hirobot-clean-and-restore.json](./396180-hirobot-clean-and-restore.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
-| Hirogami | 317871 | [317871-hirogami.json](./317871-hirogami.json) |
 | Hirogaru Sky! Precure: Hirogaru! Puzzle Collection | 250536 | [250536-hirogaru-sky-precure-hirogaru-puzzle-collection.json](./250536-hirogaru-sky-precure-hirogaru-puzzle-collection.json) |
 | Hiromechia | 363935 | [363935-hiromechia.json](./363935-hiromechia.json) |
 | Hiromichi Oniisan no Oyako Taisou Navi | 220581 | [220581-hiromichi-oniisan-no-oyako-taisou-navi.json](./220581-hiromichi-oniisan-no-oyako-taisou-navi.json) |
@@ -11398,6 +11400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppenhelm | 95130 | [95130-hoppenhelm.json](./95130-hoppenhelm.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
+| Hopper | 152442 | [152442-hopper.json](./152442-hopper.json) |
 | Hopper | 186215 | [186215-hopper.json](./186215-hopper.json) |
 | Hopper (bounce bounce bounce) | 98794 | [98794-hopper-bounce-bounce-bounce.json](./98794-hopper-bounce-bounce-bounce.json) |
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
@@ -13044,6 +13047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Weigh an Elephant | 68214 | [68214-how-to-weigh-an-elephant.json](./68214-how-to-weigh-an-elephant.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How to Win at Rock Paper Scissors | 57506 | [57506-how-to-win-at-rock-paper-scissors.json](./57506-how-to-win-at-rock-paper-scissors.json) |
+| How to Win: Season One | 153482 | [153482-how-to-win-season-one.json](./153482-how-to-win-season-one.json) |
 | How to: Superhero! | 325396 | [325396-how-to-superhero.json](./325396-how-to-superhero.json) |
 | How True Is This Rumor? Urban Legend Mystery | 417868 | [417868-how-true-is-this-rumor-urban-legend-mystery.json](./417868-how-true-is-this-rumor-urban-legend-mystery.json) |
 | How Visual Novels Changed My Life | 57211 | [57211-how-visual-novels-changed-my-life.json](./57211-how-visual-novels-changed-my-life.json) |
