@@ -8920,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
 | Lorethem | 201557 | [201557-lorethem.json](./201557-lorethem.json) |
 | Loretta | 203642 | [203642-loretta.json](./203642-loretta.json) |
+| Loretta no Shouzou: Sherlock Holmes | 6116 | [6116-loretta-no-shouzou-sherlock-holmes.json](./6116-loretta-no-shouzou-sherlock-holmes.json) |
 | Loretta's Brand New Job | 238785 | [238785-lorettas-brand-new-job.json](./238785-lorettas-brand-new-job.json) |
 | Lorhaven: Cursed War | 278927 | [278927-lorhaven-cursed-war.json](./278927-lorhaven-cursed-war.json) |
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
