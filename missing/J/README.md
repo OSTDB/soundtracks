@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.D. Spy | 230596 | [230596-j-d-spy.json](./230596-j-d-spy.json) |
 | J.Edgar Hoover Vs. Kennedy | 135087 | [135087-j-edgar-hoover-vs-kennedy.json](./135087-j-edgar-hoover-vs-kennedy.json) |
 | J.J. & Jeff | 42106 | [42106-j-j-and-jeff.json](./42106-j-j-and-jeff.json) |
+| J.J. Rockets | 61812 | [61812-j-j-rockets.json](./61812-j-j-rockets.json) |
 | J.J's Tennis Tour | 237006 | [237006-j-js-tennis-tour.json](./237006-j-js-tennis-tour.json) |
 | J.League '96 Dream Stadium | 37974 | [37974-j-league-96-dream-stadium.json](./37974-j-league-96-dream-stadium.json) |
 | J.League 3D Stage | 234089 | [234089-j-league-3d-stage.json](./234089-j-league-3d-stage.json) |
@@ -780,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Food Adventure - Tokyo | 100316 | [100316-japan-food-adventure-tokyo.json](./100316-japan-food-adventure-tokyo.json) |
 | Japan Food Adventure HD | 174576 | [174576-japan-food-adventure-hd.json](./174576-japan-food-adventure-hd.json) |
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
+| Japan Pro Golf Tour 64 | 65112 | [65112-japan-pro-golf-tour-64.json](./65112-japan-pro-golf-tour-64.json) |
 | Japan Scenery Disk | 69703 | [69703-japan-scenery-disk.json](./69703-japan-scenery-disk.json) |
 | Japan Stigmatized Property | 357171 | [357171-japan-stigmatized-property.json](./357171-japan-stigmatized-property.json) |
 | Japan Stigmatized Property 2 | 382003 | [382003-japan-stigmatized-property-2.json](./382003-japan-stigmatized-property-2.json) |
@@ -972,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws! | 95495 | [95495-jaws.json](./95495-jaws.json) |
 | Jaws.io | 115306 | [115306-jaws-io.json](./115306-jaws-io.json) |
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
+| Jawsome | 65100 | [65100-jawsome.json](./65100-jawsome.json) |
 | Jax Payne – Part 1 | 252102 | [252102-jax-payne-part-1.json](./252102-jax-payne-part-1.json) |
 | Jax: History Repeats Itself | 275725 | [275725-jax-history-repeats-itself.json](./275725-jax-history-repeats-itself.json) |
 | Jaxon the Thief | 120823 | [120823-jaxon-the-thief.json](./120823-jaxon-the-thief.json) |
@@ -1378,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Boat | 13731 | [13731-jet-boat.json](./13731-jet-boat.json) |
 | Jet Boat 2 | 201945 | [201945-jet-boat-2.json](./201945-jet-boat-2.json) |
 | Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
+| Jet Car Stunts 2 | 61793 | [61793-jet-car-stunts-2.json](./61793-jet-car-stunts-2.json) |
 | Jet Coaster Dream 2 | 69383 | [69383-jet-coaster-dream-2.json](./69383-jet-coaster-dream-2.json) |
 | Jet Combat Simulator | 423058 | [423058-jet-combat-simulator.json](./423058-jet-combat-simulator.json) |
 | Jet Combat: Cats vs. Dogs Military Simulator | 322423 | [322423-jet-combat-cats-vs-dogs-military-simulator.json](./322423-jet-combat-cats-vs-dogs-military-simulator.json) |
