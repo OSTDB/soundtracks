@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T05:45:58.406Z",
-  "total_soundtracks": 3536,
+  "generated_at": "2026-11-17T05:56:07.950Z",
+  "total_soundtracks": 3539,
   "games": [
     {
       "igdb_id": 292844,
@@ -3695,6 +3695,20 @@
         {
           "album_name": "Battle Chef Brigade (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6k5XNAps0jNpskzHfSaH79",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 305021,
+      "game_name": "Battle Suit Aces",
+      "game_url": "https://ostdb.net/games/battle-suit-aces",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27315d7cab229e65e4048803dcf",
+      "albums": [
+        {
+          "album_name": "Battle Suit Aces (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1kXt9U50ErUKX0H552MU8Y",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18977,6 +18991,20 @@
         {
           "album_name": "Infinifactory (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6P7Nm8kt6G74ElcnIEkvh1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 306748,
+      "game_name": "Infinite Inside",
+      "game_url": "https://ostdb.net/games/infinite-inside",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fe32d0f95cc3349356a82ea2",
+      "albums": [
+        {
+          "album_name": "Infinite Inside (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1g5HRAFUSIkFClQ1bwcCrp",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -36639,6 +36667,20 @@
         {
           "album_name": "Swallow the Sea (Official Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6MNAyTTQOyTxwx9CUa87tu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 304473,
+      "game_name": "Swapmeat",
+      "game_url": "https://ostdb.net/games/swapmeat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f5d9b1a3ea6b90ab6fba3ce7",
+      "albums": [
+        {
+          "album_name": "Swapmeat (Original Soundtrack Album)",
+          "spotify_url": "https://open.spotify.com/album/2hOiCyn4qOZM3TAUTJD8a3",
           "apple_music_url": "",
           "album_link_url": ""
         }
