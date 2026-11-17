@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Densetsu Tetsuya | 406981 | [406981-gambler-densetsu-tetsuya.json](./406981-gambler-densetsu-tetsuya.json) |
 | Gambler Densetsu Tetsuya Digest | 332956 | [332956-gambler-densetsu-tetsuya-digest.json](./332956-gambler-densetsu-tetsuya-digest.json) |
 | Gambler Densetsu Tetsuya: Shinjuku Tenun-hen | 281451 | [281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json](./281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json) |
+| Gambler Densetsu Tetsuya: Yomigaeru Densetsu | 49611 | [49611-gambler-densetsu-tetsuya-yomigaeru-densetsu.json](./49611-gambler-densetsu-tetsuya-yomigaeru-densetsu.json) |
 | Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
 | Gambler Jiko Chuushin-ha: Mahjong Kouisen | 15228 | [15228-gambler-jiko-chuushin-ha-mahjong-kouisen.json](./15228-gambler-jiko-chuushin-ha-mahjong-kouisen.json) |
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
@@ -8575,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourmet Dream | 85630 | [85630-gourmet-dream.json](./85630-gourmet-dream.json) |
 | Gourmet Food Wizard | 149658 | [149658-gourmet-food-wizard.json](./149658-gourmet-food-wizard.json) |
 | Gourmet Guy's 1000 IQ Food Quiz | 215857 | [215857-gourmet-guys-1000-iq-food-quiz.json](./215857-gourmet-guys-1000-iq-food-quiz.json) |
+| Gourmet Kitchen: Suteki na Obentou | 49544 | [49544-gourmet-kitchen-suteki-na-obentou.json](./49544-gourmet-kitchen-suteki-na-obentou.json) |
 | Gourmet Race | 271261 | [271261-gourmet-race.json](./271261-gourmet-race.json) |
 | Gourmet Race | 271403 | [271403-gourmet-race.json](./271403-gourmet-race.json) |
 | Gourmet Steak Odyssey | 347731 | [347731-gourmet-steak-odyssey.json](./347731-gourmet-steak-odyssey.json) |
@@ -11246,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Wave | 91687 | [91687-ground-wave.json](./91687-ground-wave.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
+| Ground Zero | 46902 | [46902-ground-zero.json](./46902-ground-zero.json) |
 | Ground Zero: Genesis of a New World | 66552 | [66552-ground-zero-genesis-of-a-new-world.json](./66552-ground-zero-genesis-of-a-new-world.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | Ground Zero: Texas - Nuclear Edition | 187759 | [187759-ground-zero-texas-nuclear-edition.json](./187759-ground-zero-texas-nuclear-edition.json) |
