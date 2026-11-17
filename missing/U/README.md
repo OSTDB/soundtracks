@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un Profe | 327561 | [327561-un-profe.json](./327561-un-profe.json) |
 | Un Pueblo de Nada | 131740 | [131740-un-pueblo-de-nada.json](./131740-un-pueblo-de-nada.json) |
 | Un seul jeu | 417815 | [417815-un-seul-jeu.json](./417815-un-seul-jeu.json) |
+| Un-Dead Raids V.R. | 116477 | [116477-un-dead-raids-v-r.json](./116477-un-dead-raids-v-r.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Un-Usual Hotline | 352520 | [352520-un-usual-hotline.json](./352520-un-usual-hotline.json) |
 | Un:Birthday Song ~Ai wo Utau Shinigami~ | 54919 | [54919-un-birthday-song-ai-wo-utau-shinigami.json](./54919-un-birthday-song-ai-wo-utau-shinigami.json) |
@@ -2353,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfolding Engine: Paint a Game | 112822 | [112822-unfolding-engine-paint-a-game.json](./112822-unfolding-engine-paint-a-game.json) |
 | Unfoldink | 361975 | [361975-unfoldink.json](./361975-unfoldink.json) |
 | Unforeseen Incidents | 81275 | [81275-unforeseen-incidents.json](./81275-unforeseen-incidents.json) |
+| Unforetold: Witchstone | 117841 | [117841-unforetold-witchstone.json](./117841-unforetold-witchstone.json) |
 | Unforgettable | 349986 | [349986-unforgettable.json](./349986-unforgettable.json) |
 | Unforgettable Love | 402619 | [402619-unforgettable-love.json](./402619-unforgettable-love.json) |
 | Unforgettable Paradise | 107049 | [107049-unforgettable-paradise.json](./107049-unforgettable-paradise.json) |
