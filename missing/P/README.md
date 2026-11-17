@@ -9846,7 +9846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
 | Pixelitos: Spritle Royale | 303979 | [303979-pixelitos-spritle-royale.json](./303979-pixelitos-spritle-royale.json) |
 | PixelJunk Eden | 10700 | [10700-pixeljunk-eden.json](./10700-pixeljunk-eden.json) |
-| PixelJunk Eden 2 | 131872 | [131872-pixeljunk-eden-2.json](./131872-pixeljunk-eden-2.json) |
 | PixelJunk Eden Encore | 140012 | [140012-pixeljunk-eden-encore.json](./140012-pixeljunk-eden-encore.json) |
 | PixelJunk Eden Obscura | 140013 | [140013-pixeljunk-eden-obscura.json](./140013-pixeljunk-eden-obscura.json) |
 | PixelJunk Monsters 2: Danganronpa Pack | 140017 | [140017-pixeljunk-monsters-2-danganronpa-pack.json](./140017-pixeljunk-monsters-2-danganronpa-pack.json) |
