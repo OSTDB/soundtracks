@@ -4120,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temehuatzl | 320007 | [320007-temehuatzl.json](./320007-temehuatzl.json) |
 | Temerity | 28100 | [28100-temerity.json](./28100-temerity.json) |
 | Temirana: The Lucky Princess and the Tragic Knights | 200452 | [200452-temirana-the-lucky-princess-and-the-tragic-knights.json](./200452-temirana-the-lucky-princess-and-the-tragic-knights.json) |
+| Temlegen: System Breakdown | 422290 | [422290-temlegen-system-breakdown.json](./422290-temlegen-system-breakdown.json) |
 | Temp Name - Customizable Space Shooter | 93659 | [93659-temp-name-customizable-space-shooter.json](./93659-temp-name-customizable-space-shooter.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
@@ -11590,6 +11591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War: Western Front - Victory Edition | 234980 | [234980-the-great-war-western-front-victory-edition.json](./234980-the-great-war-western-front-victory-edition.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
 | The Great White Destroyer | 54304 | [54304-the-great-white-destroyer.json](./54304-the-great-white-destroyer.json) |
+| The Great Wife's Guide | 422293 | [422293-the-great-wifes-guide.json](./422293-the-great-wifes-guide.json) |
 | The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
 | The Great Wobo Escape | 23984 | [23984-the-great-wobo-escape.json](./23984-the-great-wobo-escape.json) |
 | The Great Word Adventure | 65363 | [65363-the-great-word-adventure.json](./65363-the-great-word-adventure.json) |
@@ -26437,6 +26439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pasture | 322923 | [322923-tiny-pasture.json](./322923-tiny-pasture.json) |
 | Tiny Pasture: Baabaa and Moomoo | 383623 | [383623-tiny-pasture-baabaa-and-moomoo.json](./383623-tiny-pasture-baabaa-and-moomoo.json) |
 | Tiny Pasture: Ribbitribbit and Quackquack | 383625 | [383625-tiny-pasture-ribbitribbit-and-quackquack.json](./383625-tiny-pasture-ribbitribbit-and-quackquack.json) |
+| Tiny Patisserie | 422326 | [422326-tiny-patisserie.json](./422326-tiny-patisserie.json) |
 | Tiny Paw Academy: Numbers + Fun | 413372 | [413372-tiny-paw-academy-numbers-fun.json](./413372-tiny-paw-academy-numbers-fun.json) |
 | Tiny Pharaoh: Pixel Strategy | 264011 | [264011-tiny-pharaoh-pixel-strategy.json](./264011-tiny-pharaoh-pixel-strategy.json) |
 | Tiny Pirate Ship | 255044 | [255044-tiny-pirate-ship.json](./255044-tiny-pirate-ship.json) |
@@ -26519,6 +26522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
 | Tiny Tarot | 182869 | [182869-tiny-tarot.json](./182869-tiny-tarot.json) |
 | Tiny Tavern | 429378 | [429378-tiny-tavern.json](./429378-tiny-tavern.json) |
+| Tiny Techie in Puzzle Land | 422273 | [422273-tiny-techie-in-puzzle-land.json](./422273-tiny-techie-in-puzzle-land.json) |
 | Tiny Technologies | 314726 | [314726-tiny-technologies.json](./314726-tiny-technologies.json) |
 | Tiny Tengu Tactics | 358444 | [358444-tiny-tengu-tactics.json](./358444-tiny-tengu-tactics.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
@@ -35233,6 +35237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Hunter VR | 150916 | [150916-troll-hunter-vr.json](./150916-troll-hunter-vr.json) |
 | Troll Patrol | 137768 | [137768-troll-patrol.json](./137768-troll-patrol.json) |
 | Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
+| Troll Slayer | 422296 | [422296-troll-slayer.json](./422296-troll-slayer.json) |
 | Troll-A-Mania | 217701 | [217701-troll-a-mania.json](./217701-troll-a-mania.json) |
 | Troll's Tale | 50910 | [50910-trolls-tale.json](./50910-trolls-tale.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
