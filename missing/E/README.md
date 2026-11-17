@@ -8224,7 +8224,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hunt: The bad never sleeps | 269249 | [269249-evil-hunt-the-bad-never-sleeps.json](./269249-evil-hunt-the-bad-never-sleeps.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
-| Evil Inside | 144419 | [144419-evil-inside.json](./144419-evil-inside.json) |
 | Evil Inside VR | 366599 | [366599-evil-inside-vr.json](./366599-evil-inside-vr.json) |
 | Evil is Back | 244449 | [244449-evil-is-back.json](./244449-evil-is-back.json) |
 | Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
