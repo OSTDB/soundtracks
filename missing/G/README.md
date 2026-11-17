@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garuka | 40140 | [40140-garuka.json](./40140-garuka.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
 | Garuya and the Kaleidoscope of Syzygy | 307005 | [307005-garuya-and-the-kaleidoscope-of-syzygy.json](./307005-garuya-and-the-kaleidoscope-of-syzygy.json) |
+| Gary Gadget: Building Cars | 78099 | [78099-gary-gadget-building-cars.json](./78099-gary-gadget-building-cars.json) |
 | Gary Grigsby's Eagle Day to Bombing the Reich | 59529 | [59529-gary-grigsbys-eagle-day-to-bombing-the-reich.json](./59529-gary-grigsbys-eagle-day-to-bombing-the-reich.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
 | Gary Grigsby's War Between the States | 59527 | [59527-gary-grigsbys-war-between-the-states.json](./59527-gary-grigsbys-war-between-the-states.json) |
@@ -7312,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush | 256108 | [256108-gold-rush.json](./256108-gold-rush.json) |
 | Gold Rush | 352253 | [352253-gold-rush.json](./352253-gold-rush.json) |
 | Gold Rush 1898 | 421772 | [421772-gold-rush-1898.json](./421772-gold-rush-1898.json) |
+| Gold Rush 3 | 78164 | [78164-gold-rush-3.json](./78164-gold-rush-3.json) |
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush in the Oort Cloud | 44298 | [44298-gold-rush-in-the-oort-cloud.json](./44298-gold-rush-in-the-oort-cloud.json) |
 | Gold Rush Ventures | 398099 | [398099-gold-rush-ventures.json](./398099-gold-rush-ventures.json) |
