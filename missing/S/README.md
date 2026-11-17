@@ -6035,7 +6035,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfish Cupid | 254041 | [254041-selfish-cupid.json](./254041-selfish-cupid.json) |
 | Selfish Series | 275187 | [275187-selfish-series.json](./275187-selfish-series.json) |
 | Selfless Heroes | 131820 | [131820-selfless-heroes.json](./131820-selfless-heroes.json) |
-| Selfloss | 118622 | [118622-selfloss.json](./118622-selfloss.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selfy Collection: The Dream Fashion Stylist! | 142039 | [142039-selfy-collection-the-dream-fashion-stylist.json](./142039-selfy-collection-the-dream-fashion-stylist.json) |
@@ -18306,7 +18305,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
 | Soko Banish | 334436 | [334436-soko-banish.json](./334436-soko-banish.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
-| Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
 | Soko Match | 31570 | [31570-soko-match.json](./31570-soko-match.json) |
 | Soko Spectacle | 334258 | [334258-soko-spectacle.json](./334258-soko-spectacle.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
@@ -22849,6 +22847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tail: Every Journey Leads Home - Ultimate Edition | 241327 | [241327-space-tail-every-journey-leads-home-ultimate-edition.json](./241327-space-tail-every-journey-leads-home-ultimate-edition.json) |
 | Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
 | Space Tail: Lost in the Sands | 212528 | [212528-space-tail-lost-in-the-sands.json](./212528-space-tail-lost-in-the-sands.json) |
+| Space Takeover | 113816 | [113816-space-takeover.json](./113816-space-takeover.json) |
 | Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
 | Space Tales | 259033 | [259033-space-tales.json](./259033-space-tales.json) |
 | Space Tanks | 214453 | [214453-space-tanks.json](./214453-space-tanks.json) |
@@ -31158,6 +31157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
 | Strange and Luig | 398155 | [398155-strange-and-luig.json](./398155-strange-and-luig.json) |
 | Strange and Mysterious Domain | 308864 | [308864-strange-and-mysterious-domain.json](./308864-strange-and-mysterious-domain.json) |
+| Strange and Weird Museum | 113801 | [113801-strange-and-weird-museum.json](./113801-strange-and-weird-museum.json) |
 | Strange Attractors 2 | 64552 | [64552-strange-attractors-2.json](./64552-strange-attractors-2.json) |
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
@@ -34965,7 +34965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dodge Ball | 40426 | [40426-super-dodge-ball.json](./40426-super-dodge-ball.json) |
 | Super Dodge Ball Advance | 6620 | [6620-super-dodge-ball-advance.json](./6620-super-dodge-ball-advance.json) |
 | Super Dodge Ball SNES Port | 377232 | [377232-super-dodge-ball-snes-port.json](./377232-super-dodge-ball-snes-port.json) |
-| Super Dodgeball Beats | 121451 | [121451-super-dodgeball-beats.json](./121451-super-dodgeball-beats.json) |
 | Super Dog Adventure | 398898 | [398898-super-dog-adventure.json](./398898-super-dog-adventure.json) |
 | Super Dog Booby | 355897 | [355897-super-dog-booby.json](./355897-super-dog-booby.json) |
 | Super Dogfight | 64931 | [64931-super-dogfight.json](./64931-super-dogfight.json) |
