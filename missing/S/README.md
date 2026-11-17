@@ -4199,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
 | Screw Drivers: Supporter Pack | 321953 | [321953-screw-drivers-supporter-pack.json](./321953-screw-drivers-supporter-pack.json) |
 | Screw It | 418223 | [418223-screw-it.json](./418223-screw-it.json) |
+| Screw It! | 426489 | [426489-screw-it.json](./426489-screw-it.json) |
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
 | Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
@@ -5828,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Segfault | 75430 | [75430-segfault.json](./75430-segfault.json) |
 | Segle | 311976 | [311976-segle.json](./311976-segle.json) |
 | Segment | 93728 | [93728-segment.json](./93728-segment.json) |
+| Segments | 426514 | [426514-segments.json](./426514-segments.json) |
 | Segredos do Mar | 262213 | [262213-segredos-do-mar.json](./262213-segredos-do-mar.json) |
 | Sehoni Island: Monsters and Adventures | 236843 | [236843-sehoni-island-monsters-and-adventures.json](./236843-sehoni-island-monsters-and-adventures.json) |
 | Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
@@ -10065,6 +10067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
 | ShiroKuro: Shiroi Kokoro to Kuroi Tsurugi | 300444 | [300444-shirokuro-shiroi-kokoro-to-kuroi-tsurugi.json](./300444-shirokuro-shiroi-kokoro-to-kuroi-tsurugi.json) |
 | ShiroKuro's Adventure | 165787 | [165787-shirokuros-adventure.json](./165787-shirokuros-adventure.json) |
+| Shiromasu | 426526 | [426526-shiromasu.json](./426526-shiromasu.json) |
 | Shirone: the Dragon Girl | 192782 | [192782-shirone-the-dragon-girl.json](./192782-shirone-the-dragon-girl.json) |
 | Shironeko Project Infinity | 105054 | [105054-shironeko-project-infinity.json](./105054-shironeko-project-infinity.json) |
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
@@ -15020,6 +15023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay Bells | 176229 | [176229-slay-bells.json](./176229-slay-bells.json) |
 | Slay Goblins | 403891 | [403891-slay-goblins.json](./403891-slay-goblins.json) |
 | Slay or Fall | 316788 | [316788-slay-or-fall.json](./316788-slay-or-fall.json) |
+| Slay Sean, Save the World! | 426510 | [426510-slay-sean-save-the-world.json](./426510-slay-sean-save-the-world.json) |
 | Slay the Alice | 328291 | [328291-slay-the-alice.json](./328291-slay-the-alice.json) |
 | Slay the Beat | 235076 | [235076-slay-the-beat.json](./235076-slay-the-beat.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
@@ -15034,6 +15038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Princess | 210395 | [210395-slay-the-princess.json](./210395-slay-the-princess.json) |
 | Slay the Princess: The Pristine Cut - Special Edition | 327556 | [327556-slay-the-princess-the-pristine-cut-special-edition.json](./327556-slay-the-princess-the-pristine-cut-special-edition.json) |
 | Slay the Q | 400639 | [400639-slay-the-q.json](./400639-slay-the-q.json) |
+| Slay the Slime | 426476 | [426476-slay-the-slime.json](./426476-slay-the-slime.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
@@ -18221,6 +18226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sockpuppet Noir | 191655 | [191655-sockpuppet-noir.json](./191655-sockpuppet-noir.json) |
 | Socks | 181679 | [181679-socks.json](./181679-socks.json) |
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
+| Socks Pair Up | 426502 | [426502-socks-pair-up.json](./426502-socks-pair-up.json) |
 | Socks the Cat Rocks the Hill | 66232 | [66232-socks-the-cat-rocks-the-hill.json](./66232-socks-the-cat-rocks-the-hill.json) |
 | Socks! | 389699 | [389699-socks.json](./389699-socks.json) |
 | Sockventure | 128924 | [128924-sockventure.json](./128924-sockventure.json) |
@@ -29316,6 +29322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
 | Stay on Board | 184556 | [184556-stay-on-board.json](./184556-stay-on-board.json) |
 | Stay on Line: Line Runner | 240926 | [240926-stay-on-line-line-runner.json](./240926-stay-on-line-line-runner.json) |
+| Stay On the White Lines | 426486 | [426486-stay-on-the-white-lines.json](./426486-stay-on-the-white-lines.json) |
 | Stay or Leave | 107994 | [107994-stay-or-leave.json](./107994-stay-or-leave.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
 | Stay Out of the Farm | 223220 | [223220-stay-out-of-the-farm.json](./223220-stay-out-of-the-farm.json) |
