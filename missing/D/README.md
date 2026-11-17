@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dalton: The Awesome! | 263577 | [263577-dalton-the-awesome.json](./263577-dalton-the-awesome.json) |
 | Dalton4 | 57782 | [57782-dalton4.json](./57782-dalton4.json) |
 | Daluob | 388502 | [388502-daluob.json](./388502-daluob.json) |
+| Dam Busters | 139494 | [139494-dam-busters.json](./139494-dam-busters.json) |
 | Dam Busters | 245069 | [245069-dam-busters.json](./245069-dam-busters.json) |
 | Dam Dam Stompland | 92317 | [92317-dam-dam-stompland.json](./92317-dam-dam-stompland.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
@@ -5602,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
 | Debugger Recoded | 211564 | [211564-debugger-recoded.json](./211564-debugger-recoded.json) |
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
+| Debut 21 | 138283 | [138283-debut-21.json](./138283-debut-21.json) |
 | Debut Project: Cooking Cafe | 316507 | [316507-debut-project-cooking-cafe.json](./316507-debut-project-cooking-cafe.json) |
 | Debut: Planet Simulation | 12567 | [12567-debut-planet-simulation.json](./12567-debut-planet-simulation.json) |
 | Deca | 113066 | [113066-deca.json](./113066-deca.json) |
@@ -7059,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Wing | 28562 | [28562-delta-wing.json](./28562-delta-wing.json) |
 | Delta Z. INC | 334384 | [334384-delta-z-inc.json](./334384-delta-z-inc.json) |
 | Delta Zero | 189346 | [189346-delta-zero.json](./189346-delta-zero.json) |
+| Delta-Gal | 139510 | [139510-delta-gal.json](./139510-delta-gal.json) |
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
 | Delta0 | 140267 | [140267-delta0.json](./140267-delta0.json) |
@@ -9935,7 +9938,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diced Pilot | 236648 | [236648-diced-pilot.json](./236648-diced-pilot.json) |
 | Diceeee | 373869 | [373869-diceeee.json](./373869-diceeee.json) |
 | Dicefeat | 184459 | [184459-dicefeat.json](./184459-dicefeat.json) |
-| Dicefolk | 251938 | [251938-dicefolk.json](./251938-dicefolk.json) |
 | Dicefolk: Will Chimeras Pack | 324415 | [324415-dicefolk-will-chimeras-pack.json](./324415-dicefolk-will-chimeras-pack.json) |
 | Diceheart | 237034 | [237034-diceheart.json](./237034-diceheart.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
@@ -10349,6 +10351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig! | 341070 | [341070-dig.json](./341070-dig.json) |
 | Dig! Dig! Dig! | 423201 | [423201-dig-dig-dig.json](./423201-dig-dig-dig.json) |
 | Dig! Dig! Dino! | 340847 | [340847-dig-dig-dino.json](./340847-dig-dig-dino.json) |
+| Dig! Dig! Haniwa! | 137159 | [137159-dig-dig-haniwa.json](./137159-dig-dig-haniwa.json) |
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
 | Dig'n Crawl | 421774 | [421774-dign-crawl.json](./421774-dign-crawl.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
@@ -12999,6 +13002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Noob Corporate-slave Dream of Boss's Ass? | 367930 | [367930-do-noob-corporate-slave-dream-of-bosss-ass.json](./367930-do-noob-corporate-slave-dream-of-bosss-ass.json) |
 | Do Not | 326878 | [326878-do-not.json](./326878-do-not.json) |
 | Do Not Believe His Lies | 116254 | [116254-do-not-believe-his-lies.json](./116254-do-not-believe-his-lies.json) |
+| Do Not Buy This Game | 137145 | [137145-do-not-buy-this-game.json](./137145-do-not-buy-this-game.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do Not Disturb | 398024 | [398024-do-not-disturb.json](./398024-do-not-disturb.json) |
 | Do not Donut. | 208474 | [208474-do-not-donut.json](./208474-do-not-donut.json) |
@@ -13914,7 +13918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Paradise | 107676 | [107676-dolphin-paradise.json](./107676-dolphin-paradise.json) |
 | Dolphin Paradise: Wild Friends | 251739 | [251739-dolphin-paradise-wild-friends.json](./251739-dolphin-paradise-wild-friends.json) |
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
-| Dolphin Spirit: Ocean Mission | 246622 | [246622-dolphin-spirit-ocean-mission.json](./246622-dolphin-spirit-ocean-mission.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
 | Dolphin Squadron | 213731 | [213731-dolphin-squadron.json](./213731-dolphin-squadron.json) |
 | Dolphin Stunt Rider | 117317 | [117317-dolphin-stunt-rider.json](./117317-dolphin-stunt-rider.json) |
@@ -16516,6 +16519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2019 | 114197 | [114197-draft-day-sports-college-basketball-2019.json](./114197-draft-day-sports-college-basketball-2019.json) |
 | Draft Day Sports: College Basketball 2020 | 131764 | [131764-draft-day-sports-college-basketball-2020.json](./131764-draft-day-sports-college-basketball-2020.json) |
+| Draft Day Sports: College Basketball 2021 | 137141 | [137141-draft-day-sports-college-basketball-2021.json](./137141-draft-day-sports-college-basketball-2021.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
 | Draft Day Sports: College Basketball 2023 | 240659 | [240659-draft-day-sports-college-basketball-2023.json](./240659-draft-day-sports-college-basketball-2023.json) |
 | Draft Day Sports: College Basketball 2024 | 290853 | [290853-draft-day-sports-college-basketball-2024.json](./290853-draft-day-sports-college-basketball-2024.json) |
@@ -19489,6 +19493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropper | 135551 | [135551-dropper.json](./135551-dropper.json) |
 | Droppy Ball | 359121 | [359121-droppy-ball.json](./359121-droppy-ball.json) |
+| Drops of Death | 139501 | [139501-drops-of-death.json](./139501-drops-of-death.json) |
 | Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
 | Drops: Rhythm Garden | 102403 | [102403-drops-rhythm-garden.json](./102403-drops-rhythm-garden.json) |
 | DROPSHIP | 93925 | [93925-dropship.json](./93925-dropship.json) |
