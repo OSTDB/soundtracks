@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeri Factory | 393534 | [393534-zeri-factory.json](./393534-zeri-factory.json) |
 | Zeriliah Chronicles | 153924 | [153924-zeriliah-chronicles.json](./153924-zeriliah-chronicles.json) |
 | Zerion 12 | 371506 | [371506-zerion-12.json](./371506-zerion-12.json) |
+| Zerion-X9 | 427730 | [427730-zerion-x9.json](./427730-zerion-x9.json) |
 | Zerium War: Destiny | 345956 | [345956-zerium-war-destiny.json](./345956-zerium-war-destiny.json) |
 | Zerko | 289878 | [289878-zerko.json](./289878-zerko.json) |
 | Zero 4 Champ | 37648 | [37648-zero-4-champ.json](./37648-zero-4-champ.json) |
