@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn Finders | 114437 | [114437-barn-finders.json](./114437-barn-finders.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
 | Barn Finders: Amerykan Dream | 150886 | [150886-barn-finders-amerykan-dream.json](./150886-barn-finders-amerykan-dream.json) |
+| Barn Finders: Bid Wars | 171110 | [171110-barn-finders-bid-wars.json](./171110-barn-finders-bid-wars.json) |
 | Barn Runner 2: The Ejection Rejection | 299081 | [299081-barn-runner-2-the-ejection-rejection.json](./299081-barn-runner-2-the-ejection-rejection.json) |
 | Barn Runner: Christmas Soup | 299083 | [299083-barn-runner-christmas-soup.json](./299083-barn-runner-christmas-soup.json) |
 | Barn Runner: The Mayor's New Dress | 299082 | [299082-barn-runner-the-mayors-new-dress.json](./299082-barn-runner-the-mayors-new-dress.json) |
@@ -4198,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Fleet | 48586 | [48586-battle-fleet.json](./48586-battle-fleet.json) |
 | Battle Fleet | 91333 | [91333-battle-fleet.json](./91333-battle-fleet.json) |
 | Battle Fleet 2 | 36182 | [36182-battle-fleet-2.json](./36182-battle-fleet-2.json) |
+| Battle Fleet: A Battleship Wargame | 174377 | [174377-battle-fleet-a-battleship-wargame.json](./174377-battle-fleet-a-battleship-wargame.json) |
 | Battle Fleet: Ground Assault | 96389 | [96389-battle-fleet-ground-assault.json](./96389-battle-fleet-ground-assault.json) |
 | Battle Flip Shot | 39667 | [39667-battle-flip-shot.json](./39667-battle-flip-shot.json) |
 | Battle for Agatharia | 356038 | [356038-battle-for-agatharia.json](./356038-battle-for-agatharia.json) |
@@ -11078,6 +11080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Rush | 77541 | [77541-blast-rush.json](./77541-blast-rush.json) |
 | Blast Rush Classic | 132346 | [132346-blast-rush-classic.json](./132346-blast-rush-classic.json) |
 | Blast Rush LS | 342939 | [342939-blast-rush-ls.json](./342939-blast-rush-ls.json) |
+| Blast Soccer | 174376 | [174376-blast-soccer.json](./174376-blast-soccer.json) |
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
 | Blast Them All | 284020 | [284020-blast-them-all.json](./284020-blast-them-all.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
@@ -18912,6 +18915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Soccer | 176532 | [176532-bubble-soccer.json](./176532-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
 | Bubble Squad | 104136 | [104136-bubble-squad.json](./104136-bubble-squad.json) |
+| Bubble Star Party | 171112 | [171112-bubble-star-party.json](./171112-bubble-star-party.json) |
 | Bubble Stomp | 421635 | [421635-bubble-stomp.json](./421635-bubble-stomp.json) |
 | Bubble Strike | 106195 | [106195-bubble-strike.json](./106195-bubble-strike.json) |
 | Bubble Struggle | 199207 | [199207-bubble-struggle.json](./199207-bubble-struggle.json) |
