@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Grid | 169852 | [169852-hack-grid.json](./169852-hack-grid.json) |
 | Hack Jump | 159494 | [159494-hack-jump.json](./159494-hack-jump.json) |
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
+| Hack My Love | 206862 | [206862-hack-my-love.json](./206862-hack-my-love.json) |
 | Hack n Slash | 8438 | [8438-hack-n-slash.json](./8438-hack-n-slash.json) |
 | Hack n Slash Prototype | 352243 | [352243-hack-n-slash-prototype.json](./352243-hack-n-slash-prototype.json) |
 | Hack Net | 208500 | [208500-hack-net.json](./208500-hack-net.json) |
@@ -3009,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hattrick | 138665 | [138665-hattrick.json](./138665-hattrick.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | HatTrick Beginnings | 272483 | [272483-hattrick-beginnings.json](./272483-hattrick-beginnings.json) |
+| Hattrick Hero S | 206850 | [206850-hattrick-hero-s.json](./206850-hattrick-hero-s.json) |
 | Hattrick! | 93137 | [93137-hattrick.json](./93137-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Hau'oli | 418073 | [418073-hauoli.json](./418073-hauoli.json) |
@@ -12269,6 +12271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: DC Super Heroes Racing Season | 195766 | [195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json](./195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json) |
 | Hot Wheels Unleashed: Fun Pack | 223786 | [223786-hot-wheels-unleashed-fun-pack.json](./223786-hot-wheels-unleashed-fun-pack.json) |
 | Hot Wheels Unleashed: Game of the Year Edition | 218968 | [218968-hot-wheels-unleashed-game-of-the-year-edition.json](./218968-hot-wheels-unleashed-game-of-the-year-edition.json) |
+| Hot Wheels Unleashed: Jurassic World Racing Season | 205179 | [205179-hot-wheels-unleashed-jurassic-world-racing-season.json](./205179-hot-wheels-unleashed-jurassic-world-racing-season.json) |
 | Hot Wheels Unleashed: Looney Tunes | 209393 | [209393-hot-wheels-unleashed-looney-tunes.json](./209393-hot-wheels-unleashed-looney-tunes.json) |
 | Hot Wheels Unleashed: Mattel Dream Mobile | 264912 | [264912-hot-wheels-unleashed-mattel-dream-mobile.json](./264912-hot-wheels-unleashed-mattel-dream-mobile.json) |
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
