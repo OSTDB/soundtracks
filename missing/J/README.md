@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jambo | 81980 | [81980-jambo.json](./81980-jambo.json) |
 | Jambo! Safari | 4938 | [4938-jambo-safari.json](./4938-jambo-safari.json) |
 | Jambo! Safari Animal Rescue | 51001 | [51001-jambo-safari-animal-rescue.json](./51001-jambo-safari-animal-rescue.json) |
+| Jambo! Safari: Animal Rescue | 200627 | [200627-jambo-safari-animal-rescue.json](./200627-jambo-safari-animal-rescue.json) |
 | Jambo's Adventure | 115240 | [115240-jambos-adventure.json](./115240-jambos-adventure.json) |
 | Jamboy: A Jelly-cious Hero | 260596 | [260596-jamboy-a-jelly-cious-hero.json](./260596-jamboy-a-jelly-cious-hero.json) |
 | Jambredrek: Two Guns | 386992 | [386992-jambredrek-two-guns.json](./386992-jambredrek-two-guns.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Adventures 4th Grade: Sapphire Falls | 406755 | [406755-jumpstart-adventures-4th-grade-sapphire-falls.json](./406755-jumpstart-adventures-4th-grade-sapphire-falls.json) |
 | JumpStart Adventures 5th Grade: Jo Hammet, Kid Detective | 71317 | [71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json](./71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json) |
+| JumpStart Adventures 6th Grade: Mission EarthQuest | 203452 | [203452-jumpstart-adventures-6th-grade-mission-earthquest.json](./203452-jumpstart-adventures-6th-grade-mission-earthquest.json) |
 | JumpStart Adventures: 3rd Grade - Mystery Mountain | 176012 | [176012-jumpstart-adventures-3rd-grade-mystery-mountain.json](./176012-jumpstart-adventures-3rd-grade-mystery-mountain.json) |
 | Jumpstart Apocalypse VR | 232205 | [232205-jumpstart-apocalypse-vr.json](./232205-jumpstart-apocalypse-vr.json) |
 | JumpStart Artist | 294512 | [294512-jumpstart-artist.json](./294512-jumpstart-artist.json) |
