@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy & Clyde | 284723 | [284723-candy-and-clyde.json](./284723-candy-and-clyde.json) |
 | Candy & Toys Store Simulator | 306391 | [306391-candy-and-toys-store-simulator.json](./306391-candy-and-toys-store-simulator.json) |
 | Candy 2048 Challenge | 147132 | [147132-candy-2048-challenge.json](./147132-candy-2048-challenge.json) |
+| Candy Adventure | 116502 | [116502-candy-adventure.json](./116502-candy-adventure.json) |
 | Candy Adventure | 233915 | [233915-candy-adventure.json](./233915-candy-adventure.json) |
 | Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
 | Candy Arkanoid | 232919 | [232919-candy-arkanoid.json](./232919-candy-arkanoid.json) |
@@ -4135,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
 | Castle Kingdoms | 73954 | [73954-castle-kingdoms.json](./73954-castle-kingdoms.json) |
 | Castle Kong | 122786 | [122786-castle-kong.json](./122786-castle-kong.json) |
+| Castle Legend: Devil Awakening | 116503 | [116503-castle-legend-devil-awakening.json](./116503-castle-legend-devil-awakening.json) |
 | Castle Life | 179211 | [179211-castle-life.json](./179211-castle-life.json) |
 | Castle Line Wars | 235025 | [235025-castle-line-wars.json](./235025-castle-line-wars.json) |
 | Castle Manager | 211862 | [211862-castle-manager.json](./211862-castle-manager.json) |
@@ -6057,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Clone Wars | 344667 | [344667-cell-clone-wars.json](./344667-cell-clone-wars.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell Corp | 256163 | [256163-cell-corp.json](./256163-cell-corp.json) |
+| Cell Defender | 117854 | [117854-cell-defender.json](./117854-cell-defender.json) |
 | Cell Defender | 343599 | [343599-cell-defender.json](./343599-cell-defender.json) |
 | Cell Fortress | 87502 | [87502-cell-fortress.json](./87502-cell-fortress.json) |
 | Cell HD: emergence | 36137 | [36137-cell-hd-emergence.json](./36137-cell-hd-emergence.json) |
@@ -11443,6 +11446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Machine | 307372 | [307372-claw-machine.json](./307372-claw-machine.json) |
 | Claw Machine Arcade | 303218 | [303218-claw-machine-arcade.json](./303218-claw-machine-arcade.json) |
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
+| Claw Staff | 117844 | [117844-claw-staff.json](./117844-claw-staff.json) |
 | Claw Stars | 174992 | [174992-claw-stars.json](./174992-claw-stars.json) |
 | Clawball | 295640 | [295640-clawball.json](./295640-clawball.json) |
 | Clawbert | 56005 | [56005-clawbert.json](./56005-clawbert.json) |
@@ -17605,6 +17609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cossacks: Campaign Expansion | 144964 | [144964-cossacks-campaign-expansion.json](./144964-cossacks-campaign-expansion.json) |
 | Cossacks: European Wars | 242 | [242-cossacks-european-wars.json](./242-cossacks-european-wars.json) |
 | Cossacks: The Art of War | 9362 | [9362-cossacks-the-art-of-war.json](./9362-cossacks-the-art-of-war.json) |
+| Cossanox | 117845 | [117845-cossanox.json](./117845-cossanox.json) |
 | Costa Capers | 13522 | [13522-costa-capers.json](./13522-costa-capers.json) |
 | Costa Verde Transport Department | 249204 | [249204-costa-verde-transport-department.json](./249204-costa-verde-transport-department.json) |
 | Costa's Classic Cosmic Pizzas | 156137 | [156137-costas-classic-cosmic-pizzas.json](./156137-costas-classic-cosmic-pizzas.json) |
