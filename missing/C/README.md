@@ -5709,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Tales | 147600 | [147600-caveman-tales.json](./147600-caveman-tales.json) |
 | Caveman the Game | 128154 | [128154-caveman-the-game.json](./128154-caveman-the-game.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
+| Caveman Warriors: Limited Edition | 166313 | [166313-caveman-warriors-limited-edition.json](./166313-caveman-warriors-limited-edition.json) |
 | Caveman Zac | 388324 | [388324-caveman-zac.json](./388324-caveman-zac.json) |
 | Caveman. | 228190 | [228190-caveman.json](./228190-caveman.json) |
 | CaveMania | 13470 | [13470-cavemania.json](./13470-cavemania.json) |
@@ -19628,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Bird | 61516 | [61516-creepy-bird.json](./61516-creepy-bird.json) |
 | Creepy Brawlers | 77955 | [77955-creepy-brawlers.json](./77955-creepy-brawlers.json) |
 | Creepy Camping | 367515 | [367515-creepy-camping.json](./367515-creepy-camping.json) |
+| Creepy Castle | 170061 | [170061-creepy-castle.json](./170061-creepy-castle.json) |
 | Creepy Castle | 25567 | [25567-creepy-castle.json](./25567-creepy-castle.json) |
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Creepy Clown Revenge | 28054 | [28054-creepy-clown-revenge.json](./28054-creepy-clown-revenge.json) |
