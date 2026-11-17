@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuri Sword Saga | 291062 | [291062-yuri-sword-saga.json](./291062-yuri-sword-saga.json) |
 | Yurikago | 150898 | [150898-yurikago.json](./150898-yurikago.json) |
 | Yurikago yori Tenshi made | 402470 | [402470-yurikago-yori-tenshi-made.json](./402470-yurikago-yori-tenshi-made.json) |
+| Yurippoi Date | 425954 | [425954-yurippoi-date.json](./425954-yurippoi-date.json) |
 | Yurippoi Ohanashi toka | 425835 | [425835-yurippoi-ohanashi-toka.json](./425835-yurippoi-ohanashi-toka.json) |
 | Yurius's house of spooks | 28339 | [28339-yuriuss-house-of-spooks.json](./28339-yuriuss-house-of-spooks.json) |
 | Yurivania 0: Soul Night Prelude | 206157 | [206157-yurivania-0-soul-night-prelude.json](./206157-yurivania-0-soul-night-prelude.json) |
