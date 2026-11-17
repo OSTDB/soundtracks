@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Shoujo Nanoha A's Portable: The Gears of Destiny | 38451 | [38451-mahou-shoujo-nanoha-as-portable-the-gears-of-destiny.json](./38451-mahou-shoujo-nanoha-as-portable-the-gears-of-destiny.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Shoujo Sakana | 385883 | [385883-mahou-shoujo-sakana.json](./385883-mahou-shoujo-sakana.json) |
+| Mahou Shoujo Shin Toshi | 419296 | [419296-mahou-shoujo-shin-toshi.json](./419296-mahou-shoujo-shin-toshi.json) |
 | Mahou Shoujo wo Wasurenai | 396472 | [396472-mahou-shoujo-wo-wasurenai.json](./396472-mahou-shoujo-wo-wasurenai.json) |
 | Mahou Shoujo: Magical Shota | 402665 | [402665-mahou-shoujo-magical-shota.json](./402665-mahou-shoujo-magical-shota.json) |
 | Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
@@ -3448,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandemon | 259510 | [259510-mandemon.json](./259510-mandemon.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
 | Mandew vs the Colorless Curse | 156840 | [156840-mandew-vs-the-colorless-curse.json](./156840-mandew-vs-the-colorless-curse.json) |
+| Mandew vs the Upside Down Machine | 419303 | [419303-mandew-vs-the-upside-down-machine.json](./419303-mandew-vs-the-upside-down-machine.json) |
 | Mandew vs. The Forever Rain+ | 257773 | [257773-mandew-vs-the-forever-rain.json](./257773-mandew-vs-the-forever-rain.json) |
 | Mandora | 63939 | [63939-mandora.json](./63939-mandora.json) |
 | Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
@@ -3908,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Cooking | 73385 | [73385-marble-cooking.json](./73385-marble-cooking.json) |
 | Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
 | Marble Craze | 94485 | [94485-marble-craze.json](./94485-marble-craze.json) |
+| Marble Crownfall | 419280 | [419280-marble-crownfall.json](./419280-marble-crownfall.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
 | Marble Drop | 69994 | [69994-marble-drop.json](./69994-marble-drop.json) |
 | Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
@@ -13232,6 +13235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Tank | 221890 | [221890-mighty-tank.json](./221890-mighty-tank.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
 | Mighty the Armadillo in Sonic the Hedgehog | 148232 | [148232-mighty-the-armadillo-in-sonic-the-hedgehog.json](./148232-mighty-the-armadillo-in-sonic-the-hedgehog.json) |
+| Mighty Tiny Railways | 419295 | [419295-mighty-tiny-railways.json](./419295-mighty-tiny-railways.json) |
 | Mighty Tyranitar | 73139 | [73139-mighty-tyranitar.json](./73139-mighty-tyranitar.json) |
 | Mighty Vikings | 148639 | [148639-mighty-vikings.json](./148639-mighty-vikings.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
