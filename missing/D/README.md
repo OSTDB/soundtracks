@@ -5844,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decon Protocol | 359104 | [359104-decon-protocol.json](./359104-decon-protocol.json) |
 | Deconstruct | 60727 | [60727-deconstruct.json](./60727-deconstruct.json) |
 | Deconstruction | 105069 | [105069-deconstruction.json](./105069-deconstruction.json) |
+| Deconstruction Corp. | 130436 | [130436-deconstruction-corp.json](./130436-deconstruction-corp.json) |
 | Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
 | Deconstruction Simulator | 258588 | [258588-deconstruction-simulator.json](./258588-deconstruction-simulator.json) |
 | Deconstuctor | 102367 | [102367-deconstuctor.json](./102367-deconstuctor.json) |
@@ -20960,6 +20961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Robber | 62269 | [62269-dungeon-robber.json](./62269-dungeon-robber.json) |
 | Dungeon Rollers | 151449 | [151449-dungeon-rollers.json](./151449-dungeon-rollers.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
+| Dungeon Rose | 131626 | [131626-dungeon-rose.json](./131626-dungeon-rose.json) |
 | Dungeon Route | 350066 | [350066-dungeon-route.json](./350066-dungeon-route.json) |
 | Dungeon Royale | 151862 | [151862-dungeon-royale.json](./151862-dungeon-royale.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
