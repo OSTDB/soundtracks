@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Lemmings Winterland | 93313 | [93313-3d-lemmings-winterland.json](./93313-3d-lemmings-winterland.json) |
 | 3D Live Pool | 204578 | [204578-3d-live-pool.json](./204578-3d-live-pool.json) |
 | 3D Lunattack | 28476 | [28476-3d-lunattack.json](./28476-3d-lunattack.json) |
+| 3D Mad Racers | 423518 | [423518-3d-mad-racers.json](./423518-3d-mad-racers.json) |
 | 3D Magic Chess HD | 90089 | [90089-3d-magic-chess-hd.json](./90089-3d-magic-chess-hd.json) |
 | 3D Mahjong | 65552 | [65552-3d-mahjong.json](./65552-3d-mahjong.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
