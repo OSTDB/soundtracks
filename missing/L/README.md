@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Chess | 240066 | [240066-learn-chess.json](./240066-learn-chess.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
+| Learn English with World Ghost Stories | 417901 | [417901-learn-english-with-world-ghost-stories.json](./417901-learn-english-with-world-ghost-stories.json) |
 | Learn Geography | 47904 | [47904-learn-geography.json](./47904-learn-geography.json) |
 | Learn Hangul!! | 310368 | [310368-learn-hangul.json](./310368-learn-hangul.json) |
 | Learn Hiragana!! | 228052 | [228052-learn-hiragana.json](./228052-learn-hiragana.json) |
