@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
 | Dappou Undead Factory | 206544 | [206544-dappou-undead-factory.json](./206544-dappou-undead-factory.json) |
 | Daraku Gear | 186391 | [186391-daraku-gear.json](./186391-daraku-gear.json) |
+| Darapako | 421704 | [421704-darapako.json](./421704-darapako.json) |
 | Darby is Here Forever | 325764 | [325764-darby-is-here-forever.json](./325764-darby-is-here-forever.json) |
 | Darby the Dragon | 72931 | [72931-darby-the-dragon.json](./72931-darby-the-dragon.json) |
 | Darcade | 28447 | [28447-darcade.json](./28447-darcade.json) |
@@ -13453,6 +13454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Go To The Moon | 366544 | [366544-dog-go-to-the-moon.json](./366544-dog-go-to-the-moon.json) |
+| Dog God | 421732 | [421732-dog-god.json](./421732-dog-god.json) |
 | Dog Gone Golfing | 54498 | [54498-dog-gone-golfing.json](./54498-dog-gone-golfing.json) |
 | Dog Guardian and the Fallen Star | 181863 | [181863-dog-guardian-and-the-fallen-star.json](./181863-dog-guardian-and-the-fallen-star.json) |
 | Dog Hotel Tycoon | 417400 | [417400-dog-hotel-tycoon.json](./417400-dog-hotel-tycoon.json) |
