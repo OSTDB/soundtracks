@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odiumfloreo | 371823 | [371823-odiumfloreo.json](./371823-odiumfloreo.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
 | Odonata Augmenta: Rogue Dragonfly | 415314 | [415314-odonata-augmenta-rogue-dragonfly.json](./415314-odonata-augmenta-rogue-dragonfly.json) |
+| Odoru Daisousasen: The Game - Sensuikan ni Sennyuu Seyo! | 418271 | [418271-odoru-daisousasen-the-game-sensuikan-ni-sennyuu-seyo.json](./418271-odoru-daisousasen-the-game-sensuikan-ni-sennyuu-seyo.json) |
 | Odoru? Pokémon Ongakutai | 60055 | [60055-odoru-pokemon-ongakutai.json](./60055-odoru-pokemon-ongakutai.json) |
 | Odot Tamat On | 69955 | [69955-odot-tamat-on.json](./69955-odot-tamat-on.json) |
 | ODouzy!!! | 326176 | [326176-odouzy.json](./326176-odouzy.json) |
