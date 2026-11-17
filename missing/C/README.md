@@ -3308,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnaval Simulator | 275405 | [275405-carnaval-simulator.json](./275405-carnaval-simulator.json) |
 | Carne Vescens | 336201 | [336201-carne-vescens.json](./336201-carne-vescens.json) |
 | Carnegie | 428730 | [428730-carnegie.json](./428730-carnegie.json) |
+| CarnEvil | 18632 | [18632-carnevil.json](./18632-carnevil.json) |
 | CarneyVale Showtime | 92349 | [92349-carneyvale-showtime.json](./92349-carneyvale-showtime.json) |
 | Carnholt | 401332 | [401332-carnholt.json](./401332-carnholt.json) |
 | Carniball | 64832 | [64832-carniball.json](./64832-carniball.json) |
