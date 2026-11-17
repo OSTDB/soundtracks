@@ -11628,7 +11628,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BLiP Football | 93418 | [93418-blip-football.json](./93418-blip-football.json) |
 | Blip's Supermassive Adventure | 322707 | [322707-blips-supermassive-adventure.json](./322707-blips-supermassive-adventure.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
-| Blippo+ | 348336 | [348336-blippo.json](./348336-blippo.json) |
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
