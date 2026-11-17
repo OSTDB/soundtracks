@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
 | Sabotage | 176588 | [176588-sabotage.json](./176588-sabotage.json) |
 | Sabotage | 246720 | [246720-sabotage.json](./246720-sabotage.json) |
+| Sabotage | 25241 | [25241-sabotage.json](./25241-sabotage.json) |
 | Sabotage 1943 | 60940 | [60940-sabotage-1943.json](./60940-sabotage-1943.json) |
 | Sabotage City | 393820 | [393820-sabotage-city.json](./393820-sabotage-city.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saucer Attack! | 59645 | [59645-saucer-attack.json](./59645-saucer-attack.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
 | Saucer Wars | 381162 | [381162-saucer-wars.json](./381162-saucer-wars.json) |
+| Saucer-Like | 29278 | [29278-saucer-like.json](./29278-saucer-like.json) |
 | Saucers | 245744 | [245744-saucers.json](./245744-saucers.json) |
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Saucy Devil Gordon | 310660 | [310660-saucy-devil-gordon.json](./310660-saucy-devil-gordon.json) |
@@ -2596,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
 | Savage: Ultimate Boss Fight | 225075 | [225075-savage-ultimate-boss-fight.json](./225075-savage-ultimate-boss-fight.json) |
 | Savaki | 62617 | [62617-savaki.json](./62617-savaki.json) |
+| Savana | 32286 | [32286-savana.json](./32286-savana.json) |
 | Savanna | 346098 | [346098-savanna.json](./346098-savanna.json) |
 | Savanna Race | 241547 | [241547-savanna-race.json](./241547-savanna-race.json) |
 | Savanna Shot VR | 102391 | [102391-savanna-shot-vr.json](./102391-savanna-shot-vr.json) |
@@ -3975,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scraftion | 152851 | [152851-scraftion.json](./152851-scraftion.json) |
 | Scram | 108557 | [108557-scram.json](./108557-scram.json) |
+| Scram | 25245 | [25245-scram.json](./25245-scram.json) |
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
 | Scram 81 | 319528 | [319528-scram-81.json](./319528-scram-81.json) |
 | Scram Kitty and His Buddy on Rails | 22259 | [22259-scram-kitty-and-his-buddy-on-rails.json](./22259-scram-kitty-and-his-buddy-on-rails.json) |
@@ -16453,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
 | Smashy Road: Wanted | 58364 | [58364-smashy-road-wanted.json](./58364-smashy-road-wanted.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
+| SmashZombies | 29274 | [29274-smashzombies.json](./29274-smashzombies.json) |
 | Smaze | 306775 | [306775-smaze.json](./306775-smaze.json) |
 | SMB Extended | 290236 | [290236-smb-extended.json](./290236-smb-extended.json) |
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
@@ -20414,6 +20419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Unleashed: Spagonia Adventure Pack | 337216 | [337216-sonic-unleashed-spagonia-adventure-pack.json](./337216-sonic-unleashed-spagonia-adventure-pack.json) |
 | Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
 | Sonic USB Online | 266353 | [266353-sonic-usb-online.json](./266353-sonic-usb-online.json) |
+| Sonic Utopia | 25262 | [25262-sonic-utopia.json](./25262-sonic-utopia.json) |
 | Sonic Utopia | 305281 | [305281-sonic-utopia.json](./305281-sonic-utopia.json) |
 | Sonic Valkyria: Kanon | 351564 | [351564-sonic-valkyria-kanon.json](./351564-sonic-valkyria-kanon.json) |
 | Sonic Vane | 426009 | [426009-sonic-vane.json](./426009-sonic-vane.json) |
@@ -21455,6 +21461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundpatch | 135354 | [135354-soundpatch.json](./135354-soundpatch.json) |
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
 | Sounds & Rhythms | 345219 | [345219-sounds-and-rhythms.json](./345219-sounds-and-rhythms.json) |
+| Sounds of Her Love | 29263 | [29263-sounds-of-her-love.json](./29263-sounds-of-her-love.json) |
 | Sounds of Her Love 2 | 350901 | [350901-sounds-of-her-love-2.json](./350901-sounds-of-her-love-2.json) |
 | Sounds of Her Love: We'll always be together | 170580 | [170580-sounds-of-her-love-well-always-be-together.json](./170580-sounds-of-her-love-well-always-be-together.json) |
 | Sounds of Music | 76115 | [76115-sounds-of-music.json](./76115-sounds-of-music.json) |
@@ -22023,6 +22030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dvrts | 31529 | [31529-space-dvrts.json](./31529-space-dvrts.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
+| Space Eggs | 25244 | [25244-space-eggs.json](./25244-space-eggs.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
 | Space Elevator Project | 293532 | [293532-space-elevator-project.json](./293532-space-elevator-project.json) |
 | Space Elite Force | 100593 | [100593-space-elite-force.json](./100593-space-elite-force.json) |
@@ -23015,6 +23023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space-Net: Cosmo Red | 267499 | [267499-space-net-cosmo-red.json](./267499-space-net-cosmo-red.json) |
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
+| Space, VR! | 32270 | [32270-space-vr.json](./32270-space-vr.json) |
 | Space: Breakthrough Gaming Arcade | 187672 | [187672-space-breakthrough-gaming-arcade.json](./187672-space-breakthrough-gaming-arcade.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
 | SpaceAgency | 63979 | [63979-spaceagency.json](./63979-spaceagency.json) |
@@ -25156,6 +25165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitfire | 282629 | [282629-spitfire.json](./282629-spitfire.json) |
 | Spitfire | 85829 | [85829-spitfire.json](./85829-spitfire.json) |
 | Spitfire 40 | 15375 | [15375-spitfire-40.json](./15375-spitfire-40.json) |
+| Spitfire Ace | 25235 | [25235-spitfire-ace.json](./25235-spitfire-ace.json) |
 | Spitfire Attack | 40601 | [40601-spitfire-attack.json](./40601-spitfire-attack.json) |
 | Spitfire Heroes: Tales of the Royal Air Force | 124055 | [124055-spitfire-heroes-tales-of-the-royal-air-force.json](./124055-spitfire-heroes-tales-of-the-royal-air-force.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
@@ -27279,6 +27289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
 | Star Hound | 87103 | [87103-star-hound.json](./87103-star-hound.json) |
 | Star Hunter DX & Space Moth: Lunar Edition | 158936 | [158936-star-hunter-dx-and-space-moth-lunar-edition.json](./158936-star-hunter-dx-and-space-moth-lunar-edition.json) |
+| Star Hunter VR | 29251 | [29251-star-hunter-vr.json](./29251-star-hunter-vr.json) |
 | Star Iliad | 329676 | [329676-star-iliad.json](./329676-star-iliad.json) |
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
@@ -33152,6 +33163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Death Soccer | 99278 | [99278-sudden-death-soccer.json](./99278-sudden-death-soccer.json) |
 | Sudden Market | 228055 | [228055-sudden-market.json](./228055-sudden-market.json) |
 | Sudden Market: Free Cosmetic DLC | 286982 | [286982-sudden-market-free-cosmetic-dlc.json](./286982-sudden-market-free-cosmetic-dlc.json) |
+| Sudden Mountain | 25255 | [25255-sudden-mountain.json](./25255-sudden-mountain.json) |
 | Sudden Soul | 325335 | [325335-sudden-soul.json](./325335-sudden-soul.json) |
 | Sudden Sticks | 88552 | [88552-sudden-sticks.json](./88552-sudden-sticks.json) |
 | Sudden Strike | 11794 | [11794-sudden-strike.json](./11794-sudden-strike.json) |
@@ -39176,6 +39188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspended | 12626 | [12626-suspended.json](./12626-suspended.json) |
 | Suspended Animation | 292403 | [292403-suspended-animation.json](./292403-suspended-animation.json) |
 | Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
+| Suspended Workshops | 29280 | [29280-suspended-workshops.json](./29280-suspended-workshops.json) |
 | Suspended: A Cryogenic Nightmare | 39092 | [39092-suspended-a-cryogenic-nightmare.json](./39092-suspended-a-cryogenic-nightmare.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension | 218765 | [218765-suspension.json](./218765-suspension.json) |
@@ -40213,6 +40226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Jade: Parallel Dreams | 202526 | [202526-sword-of-jade-parallel-dreams.json](./202526-sword-of-jade-parallel-dreams.json) |
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
+| Sword of Kadash | 25232 | [25232-sword-of-kadash.json](./25232-sword-of-kadash.json) |
 | Sword of Legacy | 176671 | [176671-sword-of-legacy.json](./176671-sword-of-legacy.json) |
 | Sword of Legendia | 185950 | [185950-sword-of-legendia.json](./185950-sword-of-legendia.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
