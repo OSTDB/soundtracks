@@ -7822,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wojdan | 90488 | [90488-wojdan.json](./90488-wojdan.json) |
 | Wok Planet | 220628 | [220628-wok-planet.json](./220628-wok-planet.json) |
 | Wok This Way! | 399148 | [399148-wok-this-way.json](./399148-wok-this-way.json) |
+| Woka Woka | 98076 | [98076-woka-woka.json](./98076-woka-woka.json) |
 | Wokamon | 133709 | [133709-wokamon.json](./133709-wokamon.json) |
 | Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
@@ -10300,6 +10301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretched Flesh | 274941 | [274941-wretched-flesh.json](./274941-wretched-flesh.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
 | WretchWorks Arcade Pack | 134279 | [134279-wretchworks-arcade-pack.json](./134279-wretchworks-arcade-pack.json) |
+| Wriggle 3D | 96991 | [96991-wriggle-3d.json](./96991-wriggle-3d.json) |
 | Wriggle Apple | 410026 | [410026-wriggle-apple.json](./410026-wriggle-apple.json) |
 | Wriggle Apple 2 | 410027 | [410027-wriggle-apple-2.json](./410027-wriggle-apple-2.json) |
 | Wriggle Apple 3 | 410028 | [410028-wriggle-apple-3.json](./410028-wriggle-apple-3.json) |
