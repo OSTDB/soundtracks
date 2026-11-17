@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Angel II: Key to the Infinite Corridor | 203465 | [203465-galaxy-angel-ii-key-to-the-infinite-corridor.json](./203465-galaxy-angel-ii-key-to-the-infinite-corridor.json) |
 | Galaxy Angel II: Zettai Ryouiki no Tobira - Deluxe Pack | 428382 | [428382-galaxy-angel-ii-zettai-ryouiki-no-tobira-deluxe-pack.json](./428382-galaxy-angel-ii-zettai-ryouiki-no-tobira-deluxe-pack.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
+| Galaxy Angel: Moonlit Lovers | 70515 | [70515-galaxy-angel-moonlit-lovers.json](./70515-galaxy-angel-moonlit-lovers.json) |
 | Galaxy Annihilation | 36924 | [36924-galaxy-annihilation.json](./36924-galaxy-annihilation.json) |
 | Galaxy Arena | 166925 | [166925-galaxy-arena.json](./166925-galaxy-arena.json) |
 | Galaxy Arena | 208188 | [208188-galaxy-arena.json](./208188-galaxy-arena.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Escape | 63869 | [63869-garfields-escape.json](./63869-garfields-escape.json) |
 | Garfield's Fun Fest | 125673 | [125673-garfields-fun-fest.json](./125673-garfields-fun-fest.json) |
 | Garfield's Gem | 63861 | [63861-garfields-gem.json](./63861-garfields-gem.json) |
+| Garfield's Mad About Cats | 71615 | [71615-garfields-mad-about-cats.json](./71615-garfields-mad-about-cats.json) |
 | Garfield's Nightmare | 67853 | [67853-garfields-nightmare.json](./67853-garfields-nightmare.json) |
 | Garfield's Scary Scavenger Hunt | 124418 | [124418-garfields-scary-scavenger-hunt.json](./124418-garfields-scary-scavenger-hunt.json) |
 | Garfield's Scary Scavenger Hunt 2 | 98305 | [98305-garfields-scary-scavenger-hunt-2.json](./98305-garfields-scary-scavenger-hunt-2.json) |
@@ -7839,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
 | Gone Feral | 405127 | [405127-gone-feral.json](./405127-gone-feral.json) |
 | Gone Fireflies | 82355 | [82355-gone-fireflies.json](./82355-gone-fireflies.json) |
+| Gone Fishin' | 71614 | [71614-gone-fishin.json](./71614-gone-fishin.json) |
 | Gone Fishin' with Archimedes | 230731 | [230731-gone-fishin-with-archimedes.json](./230731-gone-fishin-with-archimedes.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
 | Gone Fishing | 412372 | [412372-gone-fishing.json](./412372-gone-fishing.json) |
@@ -8507,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Gothik | 14098 | [14098-gothik.json](./14098-gothik.json) |
 | Gothmog's Lair | 25815 | [25815-gothmogs-lair.json](./25815-gothmogs-lair.json) |
+| Gothos | 71636 | [71636-gothos.json](./71636-gothos.json) |
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
 | GOTL: Online RPG | 109246 | [109246-gotl-online-rpg.json](./109246-gotl-online-rpg.json) |
 | Goto | 108665 | [108665-goto.json](./108665-goto.json) |
