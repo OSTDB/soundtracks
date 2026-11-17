@@ -3616,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCGO | 304982 | [304982-dcgo.json](./304982-dcgo.json) |
 | DCHoc Cafe Sudoku | 263326 | [263326-dchoc-cafe-sudoku.json](./263326-dchoc-cafe-sudoku.json) |
 | DCKO | 410955 | [410955-dcko.json](./410955-dcko.json) |
+| Dcon | 39895 | [39895-dcon.json](./39895-dcon.json) |
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
 | DCR: Drive.Crash.Repeat | 108296 | [108296-dcr-drive-crash-repeat.json](./108296-dcr-drive-crash-repeat.json) |
 | DCS World | 3769 | [3769-dcs-world.json](./3769-dcs-world.json) |
@@ -6838,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delearnia: Fractions of Hope | 253351 | [253351-delearnia-fractions-of-hope.json](./253351-delearnia-fractions-of-hope.json) |
 | Delectatio Morosa: A Conclave Visual Novel | 343144 | [343144-delectatio-morosa-a-conclave-visual-novel.json](./343144-delectatio-morosa-a-conclave-visual-novel.json) |
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
+| Deletar | 39897 | [39897-deletar.json](./39897-deletar.json) |
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
 | Delete | 81918 | [81918-delete.json](./81918-delete.json) |
 | Delete After Reading | 199767 | [199767-delete-after-reading.json](./199767-delete-after-reading.json) |
@@ -13792,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DokiSui: Doki-doki Suikoden | 278827 | [278827-dokisui-doki-doki-suikoden.json](./278827-dokisui-doki-doki-suikoden.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkaebi Kiugi: Bangchihyeong Geim | 228166 | [228166-dokkaebi-kiugi-bangchihyeong-geim.json](./228166-dokkaebi-kiugi-bangchihyeong-geim.json) |
+| Dokkaebi-ga Ganda | 39916 | [39916-dokkaebi-ga-ganda.json](./39916-dokkaebi-ga-ganda.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
 | Doko Demo Issho Portable | 246063 | [246063-doko-demo-issho-portable.json](./246063-doko-demo-issho-portable.json) |
 | Doko Demo Issho: Let's Gakkou! | 72561 | [72561-doko-demo-issho-lets-gakkou.json](./72561-doko-demo-issho-lets-gakkou.json) |
