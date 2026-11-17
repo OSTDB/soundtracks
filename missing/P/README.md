@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaCc and Bomber: Maze Blast | 302971 | [302971-pacc-and-bomber-maze-blast.json](./302971-pacc-and-bomber-maze-blast.json) |
 | Paccarat | 378250 | [378250-paccarat.json](./378250-paccarat.json) |
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
+| Paccie | 58945 | [58945-paccie.json](./58945-paccie.json) |
 | PacDoom III: Halloween Party | 71857 | [71857-pacdoom-iii-halloween-party.json](./71857-pacdoom-iii-halloween-party.json) |
 | Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
 | Pace Chasers | 208540 | [208540-pace-chasers.json](./208540-pace-chasers.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panomap | 253875 | [253875-panomap.json](./253875-panomap.json) |
 | Panomino | 301732 | [301732-panomino.json](./301732-panomino.json) |
 | Panoplia: The Full Armor of God | 68205 | [68205-panoplia-the-full-armor-of-god.json](./68205-panoplia-the-full-armor-of-god.json) |
+| Panoptes | 57262 | [57262-panoptes.json](./57262-panoptes.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panoptic | 30932 | [30932-panoptic.json](./30932-panoptic.json) |
 | Panoptic II | 396152 | [396152-panoptic-ii.json](./396152-panoptic-ii.json) |
@@ -11728,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
 | Pocket Densha 2 | 282418 | [282418-pocket-densha-2.json](./282418-pocket-densha-2.json) |
 | Pocket Dictator | 350116 | [350116-pocket-dictator.json](./350116-pocket-dictator.json) |
+| Pocket Digimon World | 58948 | [58948-pocket-digimon-world.json](./58948-pocket-digimon-world.json) |
 | Pocket Digimon World: Cool & Nature Battle Disc | 141342 | [141342-pocket-digimon-world-cool-and-nature-battle-disc.json](./141342-pocket-digimon-world-cool-and-nature-battle-disc.json) |
 | Pocket Digimon World: Wind Battle Disc | 141341 | [141341-pocket-digimon-world-wind-battle-disc.json](./141341-pocket-digimon-world-wind-battle-disc.json) |
 | Pocket Dinosaurs to the Moon | 233182 | [233182-pocket-dinosaurs-to-the-moon.json](./233182-pocket-dinosaurs-to-the-moon.json) |
