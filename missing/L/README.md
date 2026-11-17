@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Line of Defense: First Wave | 392625 | [392625-last-line-of-defense-first-wave.json](./392625-last-line-of-defense-first-wave.json) |
 | Last Line of Defense: Second Wave | 392626 | [392626-last-line-of-defense-second-wave.json](./392626-last-line-of-defense-second-wave.json) |
 | Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
+| Last Line: The 88 | 428900 | [428900-last-line-the-88.json](./428900-last-line-the-88.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Loremaster | 294336 | [294336-last-loremaster.json](./294336-last-loremaster.json) |
 | Last Lovers | 192244 | [192244-last-lovers.json](./192244-last-lovers.json) |
@@ -11135,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Hop | 342300 | [342300-luna-hop.json](./342300-luna-hop.json) |
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
 | Luna League Soccer | 267324 | [267324-luna-league-soccer.json](./267324-luna-league-soccer.json) |
+| Luna Noir's Level Pack | 428881 | [428881-luna-noirs-level-pack.json](./428881-luna-noirs-level-pack.json) |
 | Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
 | Luna Online: Reborn | 54806 | [54806-luna-online-reborn.json](./54806-luna-online-reborn.json) |
 | Luna Plena | 426071 | [426071-luna-plena.json](./426071-luna-plena.json) |
