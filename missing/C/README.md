@@ -6237,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
 | Century: Age of Ashes - First Flight Edition | 199632 | [199632-century-age-of-ashes-first-flight-edition.json](./199632-century-age-of-ashes-first-flight-edition.json) |
 | Century: Age of Ashes - Frost Heir Edition | 251014 | [251014-century-age-of-ashes-frost-heir-edition.json](./251014-century-age-of-ashes-frost-heir-edition.json) |
+| Century: Age of Ashes - Frozen Winds Edition | 207953 | [207953-century-age-of-ashes-frozen-winds-edition.json](./207953-century-age-of-ashes-frozen-winds-edition.json) |
 | Century: Age of Ashes - Harbinger Edition | 221702 | [221702-century-age-of-ashes-harbinger-edition.json](./221702-century-age-of-ashes-harbinger-edition.json) |
 | Century: Age of Ashes - Heroes of the Continent Bundle | 286546 | [286546-century-age-of-ashes-heroes-of-the-continent-bundle.json](./286546-century-age-of-ashes-heroes-of-the-continent-bundle.json) |
 | Century: Age of Ashes - Mercenary Edition | 227699 | [227699-century-age-of-ashes-mercenary-edition.json](./227699-century-age-of-ashes-mercenary-edition.json) |
@@ -6244,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Myth Starter Edition | 218516 | [218516-century-age-of-ashes-myth-starter-edition.json](./218516-century-age-of-ashes-myth-starter-edition.json) |
 | Century: Age of Ashes - Ravager Edition | 204274 | [204274-century-age-of-ashes-ravager-edition.json](./204274-century-age-of-ashes-ravager-edition.json) |
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
+| Century: Age of Ashes - Scorched Edition | 207952 | [207952-century-age-of-ashes-scorched-edition.json](./207952-century-age-of-ashes-scorched-edition.json) |
 | Century: Age of Ashes - Skaltir Apostate Pack | 262742 | [262742-century-age-of-ashes-skaltir-apostate-pack.json](./262742-century-age-of-ashes-skaltir-apostate-pack.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - Strength of Jaarlandt Edition | 228845 | [228845-century-age-of-ashes-strength-of-jaarlandt-edition.json](./228845-century-age-of-ashes-strength-of-jaarlandt-edition.json) |
