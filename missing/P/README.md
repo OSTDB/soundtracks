@@ -4960,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Perciflette | 384002 | [384002-perciflette.json](./384002-perciflette.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
+| Percorso: The Retraced Steps | 427715 | [427715-percorso-the-retraced-steps.json](./427715-percorso-the-retraced-steps.json) |
 | Percussion Master | 382980 | [382980-percussion-master.json](./382980-percussion-master.json) |
 | Percussive VR | 31108 | [31108-percussive-vr.json](./31108-percussive-vr.json) |
 | PercussOne | 85721 | [85721-percussone.json](./85721-percussone.json) |
@@ -18735,6 +18736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promo Wrestling World | 422063 | [422063-promo-wrestling-world.json](./422063-promo-wrestling-world.json) |
 | ProMods Canada | 376091 | [376091-promods-canada.json](./376091-promods-canada.json) |
 | ProMods Europe | 375788 | [375788-promods-europe.json](./375788-promods-europe.json) |
+| Promoted | 427687 | [427687-promoted.json](./427687-promoted.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
 | Prompt | 35336 | [35336-prompt.json](./35336-prompt.json) |
 | PromptCrafter | 297912 | [297912-promptcrafter.json](./297912-promptcrafter.json) |
@@ -19502,6 +19504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding Juice | 301840 | [301840-pudding-juice.json](./301840-pudding-juice.json) |
 | Pudding Monster | 120805 | [120805-pudding-monster.json](./120805-pudding-monster.json) |
 | Pudding Monsters | 90051 | [90051-pudding-monsters.json](./90051-pudding-monsters.json) |
+| Pudding the Jug | 427721 | [427721-pudding-the-jug.json](./427721-pudding-the-jug.json) |
 | Pudding Up! | 371324 | [371324-pudding-up.json](./371324-pudding-up.json) |
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddink | 199239 | [199239-puddink.json](./199239-puddink.json) |
@@ -20234,6 +20237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Frenzy | 324618 | [324618-purrfect-frenzy.json](./324618-purrfect-frenzy.json) |
 | Purrfect Pet Shop | 209376 | [209376-purrfect-pet-shop.json](./209376-purrfect-pet-shop.json) |
 | Purrfect Rescue | 279259 | [279259-purrfect-rescue.json](./279259-purrfect-rescue.json) |
+| Purrfect Slide | 427718 | [427718-purrfect-slide.json](./427718-purrfect-slide.json) |
 | Purrfect Spirits | 112249 | [112249-purrfect-spirits.json](./112249-purrfect-spirits.json) |
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
 | Purrfect Survivors | 260617 | [260617-purrfect-survivors.json](./260617-purrfect-survivors.json) |
