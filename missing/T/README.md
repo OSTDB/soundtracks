@@ -5128,7 +5128,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrific Tennis | 183736 | [183736-terrific-tennis.json](./183736-terrific-tennis.json) |
 | Terrifier: The ARTcade Game | 319465 | [319465-terrifier-the-artcade-game.json](./319465-terrifier-the-artcade-game.json) |
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
-| Terrinoth: Heroes of Descent | 389109 | [389109-terrinoth-heroes-of-descent.json](./389109-terrinoth-heroes-of-descent.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
 | Territorial Conquest | 374101 | [374101-territorial-conquest.json](./374101-territorial-conquest.json) |
 | Territorial Duck | 210979 | [210979-territorial-duck.json](./210979-territorial-duck.json) |
@@ -7857,7 +7856,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caribbean Sail | 61889 | [61889-the-caribbean-sail.json](./61889-the-caribbean-sail.json) |
 | The Caribbean Sail: Fantasy Toggle | 144166 | [144166-the-caribbean-sail-fantasy-toggle.json](./144166-the-caribbean-sail-fantasy-toggle.json) |
 | The Caribbean Sail: Route Planing | 144165 | [144165-the-caribbean-sail-route-planing.json](./144165-the-caribbean-sail-route-planing.json) |
-| The Caribou Trail | 391848 | [391848-the-caribou-trail.json](./391848-the-caribou-trail.json) |
 | The Carl Lewis Challenge | 12532 | [12532-the-carl-lewis-challenge.json](./12532-the-carl-lewis-challenge.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
 | The Carnival Killer | 320578 | [320578-the-carnival-killer.json](./320578-the-carnival-killer.json) |
@@ -22562,7 +22560,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Thomas Saves the Day! | 71871 | [71871-thomas-and-friends-thomas-saves-the-day.json](./71871-thomas-and-friends-thomas-saves-the-day.json) |
 | Thomas & Friends: Trouble on the Tracks | 50425 | [50425-thomas-and-friends-trouble-on-the-tracks.json](./50425-thomas-and-friends-trouble-on-the-tracks.json) |
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
-| Thomas & Friends: Wonders of Sodor | 388501 | [388501-thomas-and-friends-wonders-of-sodor.json](./388501-thomas-and-friends-wonders-of-sodor.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
 | Thomas and Friends: Calling All Engines | 69047 | [69047-thomas-and-friends-calling-all-engines.json](./69047-thomas-and-friends-calling-all-engines.json) |
