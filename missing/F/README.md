@@ -4917,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
 | Fierce Tales: Feline Sight - Collector's Edition | 88198 | [88198-fierce-tales-feline-sight-collectors-edition.json](./88198-fierce-tales-feline-sight-collectors-edition.json) |
 | Fierce Tales: Marcus' Memory | 139776 | [139776-fierce-tales-marcus-memory.json](./139776-fierce-tales-marcus-memory.json) |
+| Fierce Tales: Marcus' Memory - Collector's Edition | 50756 | [50756-fierce-tales-marcus-memory-collectors-edition.json](./50756-fierce-tales-marcus-memory-collectors-edition.json) |
 | Fierce Tales: The Dog's Heart | 139777 | [139777-fierce-tales-the-dogs-heart.json](./139777-fierce-tales-the-dogs-heart.json) |
 | Fierce Tales: The Dog's Heart - Collector's Edition | 22135 | [22135-fierce-tales-the-dogs-heart-collectors-edition.json](./22135-fierce-tales-the-dogs-heart-collectors-edition.json) |
 | Fierce Tide | 188405 | [188405-fierce-tide.json](./188405-fierce-tide.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Ex Layer Another Dash: Full Package | 238326 | [238326-fighting-ex-layer-another-dash-full-package.json](./238326-fighting-ex-layer-another-dash-full-package.json) |
 | Fighting EX Layer: Character - Terry | 224472 | [224472-fighting-ex-layer-character-terry.json](./224472-fighting-ex-layer-character-terry.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
+| Fighting Fantasy | 46836 | [46836-fighting-fantasy.json](./46836-fighting-fantasy.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy Classics Vol. 1 | 389081 | [389081-fighting-fantasy-classics-vol-1.json](./389081-fighting-fantasy-classics-vol-1.json) |
 | Fighting Fantasy Classics: Armies of Death | 313671 | [313671-fighting-fantasy-classics-armies-of-death.json](./313671-fighting-fantasy-classics-armies-of-death.json) |
@@ -7427,6 +7429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher Online: China | 238416 | [238416-fisher-online-china.json](./238416-fisher-online-china.json) |
 | Fisher Online: Siberia - Enisey | 174427 | [174427-fisher-online-siberia-enisey.json](./174427-fisher-online-siberia-enisey.json) |
 | Fisher Online: USA/Canada - Ontario | 174426 | [174426-fisher-online-usa-canada-ontario.json](./174426-fisher-online-usa-canada-ontario.json) |
+| Fisher Price | 46898 | [46898-fisher-price.json](./46898-fisher-price.json) |
 | Fisher-Diver | 371800 | [371800-fisher-diver.json](./371800-fisher-diver.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
 | Fisher-Price Little People Christmas Activity Center | 337173 | [337173-fisher-price-little-people-christmas-activity-center.json](./337173-fisher-price-little-people-christmas-activity-center.json) |
@@ -8215,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fixation | 316811 | [316811-fixation.json](./316811-fixation.json) |
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
 | Fixeight | 296612 | [296612-fixeight.json](./296612-fixeight.json) |
+| FixEight | 46835 | [46835-fixeight.json](./46835-fixeight.json) |
 | Fixer Park-er | 349617 | [349617-fixer-park-er.json](./349617-fixer-park-er.json) |
 | Fixer Undercover | 351076 | [351076-fixer-undercover.json](./351076-fixer-undercover.json) |
 | FixForce | 393101 | [393101-fixforce.json](./393101-fixforce.json) |
