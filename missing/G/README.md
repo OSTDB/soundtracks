@@ -7389,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Farm | 233620 | [233620-golden-farm.json](./233620-golden-farm.json) |
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
 | Golden Force: Limited Edition | 142608 | [142608-golden-force-limited-edition.json](./142608-golden-force-limited-edition.json) |
+| Golden Force: Mercenary Edition | 186925 | [186925-golden-force-mercenary-edition.json](./186925-golden-force-mercenary-edition.json) |
 | Golden Freddy's Debauchery Simulator | 374112 | [374112-golden-freddys-debauchery-simulator.json](./374112-golden-freddys-debauchery-simulator.json) |
 | Golden Freddy's Debauchery Simulator 1986 | 374116 | [374116-golden-freddys-debauchery-simulator-1986.json](./374116-golden-freddys-debauchery-simulator-1986.json) |
 | Golden Galaxy | 243956 | [243956-golden-galaxy.json](./243956-golden-galaxy.json) |
@@ -12680,6 +12681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Girls Lawyers Spies | 70254 | [70254-guns-girls-lawyers-spies.json](./70254-guns-girls-lawyers-spies.json) |
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
 | Guns N Stuff | 149890 | [149890-guns-n-stuff.json](./149890-guns-n-stuff.json) |
+| Guns N Stuff 2 | 187415 | [187415-guns-n-stuff-2.json](./187415-guns-n-stuff-2.json) |
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns N' Runs | 144927 | [144927-guns-n-runs.json](./144927-guns-n-runs.json) |
@@ -12834,6 +12836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Song: "Raison d'être" | 296852 | [296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json](./296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 | 166326 | [166326-gunvolt-chronicles-luminous-avenger-ix-2.json](./166326-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
+| Gunvolt Chronicles: Luminous Avenger iX 2 - Limited Edition | 186922 | [186922-gunvolt-chronicles-luminous-avenger-ix-2-limited-edition.json](./186922-gunvolt-chronicles-luminous-avenger-ix-2-limited-edition.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC boss "Kohaku Otori" from "COGEN: Sword of Rewind" | 301213 | [301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json](./301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Kurona | 199876 | [199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json](./199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Yang Yumo | 199869 | [199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json](./199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json) |
