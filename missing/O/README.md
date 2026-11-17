@@ -5421,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Blood Ties | 415353 | [415353-our-blood-ties.json](./415353-our-blood-ties.json) |
 | Our Brotherly War | 190865 | [190865-our-brotherly-war.json](./190865-our-brotherly-war.json) |
 | Our Burial Dolls Remastered | 386210 | [386210-our-burial-dolls-remastered.json](./386210-our-burial-dolls-remastered.json) |
+| Our Campus Life | 423530 | [423530-our-campus-life.json](./423530-our-campus-life.json) |
 | Our Casual Battlefield | 231136 | [231136-our-casual-battlefield.json](./231136-our-casual-battlefield.json) |
 | Our Children - Escaping Earth | 115511 | [115511-our-children-escaping-earth.json](./115511-our-children-escaping-earth.json) |
 | Our Choices | 381291 | [381291-our-choices.json](./381291-our-choices.json) |
