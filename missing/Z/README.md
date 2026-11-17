@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zylo and the magic souls | 120214 | [120214-zylo-and-the-magic-souls.json](./120214-zylo-and-the-magic-souls.json) |
 | Zylogon | 363561 | [363561-zylogon.json](./363561-zylogon.json) |
 | Zyndeck VX: Card Battler | 402400 | [402400-zyndeck-vx-card-battler.json](./402400-zyndeck-vx-card-battler.json) |
+| Zynet | 161447 | [161447-zynet.json](./161447-zynet.json) |
 | Zynga Poker | 241723 | [241723-zynga-poker.json](./241723-zynga-poker.json) |
 | Zyr | 131994 | [131994-zyr.json](./131994-zyr.json) |
 | Zyrcon | 413623 | [413623-zyrcon.json](./413623-zyrcon.json) |
