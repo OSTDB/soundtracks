@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Jump | 119206 | [119206-jetpack-jump.json](./119206-jetpack-jump.json) |
 | Jetpack Kiwi | 257813 | [257813-jetpack-kiwi.json](./257813-jetpack-kiwi.json) |
 | Jetpack Man | 312207 | [312207-jetpack-man.json](./312207-jetpack-man.json) |
+| Jetpack Mission | 422331 | [422331-jetpack-mission.json](./422331-jetpack-mission.json) |
 | Jetpack Pig | 234988 | [234988-jetpack-pig.json](./234988-jetpack-pig.json) |
 | Jetpack Porter | 30448 | [30448-jetpack-porter.json](./30448-jetpack-porter.json) |
 | Jetpack Race | 308519 | [308519-jetpack-race.json](./308519-jetpack-race.json) |
