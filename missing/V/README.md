@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Girls Love Story: Date or Die | 388064 | [388064-vampire-girls-love-story-date-or-die.json](./388064-vampire-girls-love-story-date-or-die.json) |
 | Vampire Heist | 184760 | [184760-vampire-heist.json](./184760-vampire-heist.json) |
 | Vampire Hunt | 370479 | [370479-vampire-hunt.json](./370479-vampire-hunt.json) |
+| Vampire Hunter 2 | 39697 | [39697-vampire-hunter-2.json](./39697-vampire-hunter-2.json) |
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
 | Vampire Hunter: Nightrise | 375237 | [375237-vampire-hunter-nightrise.json](./375237-vampire-hunter-nightrise.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
