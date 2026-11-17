@@ -10715,6 +10715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Soldier | 43590 | [43590-wwii-soldier.json](./43590-wwii-soldier.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWII: Tank Battles | 43209 | [43209-wwii-tank-battles.json](./43209-wwii-tank-battles.json) |
+| WWII: Tank Commander | 94446 | [94446-wwii-tank-commander.json](./94446-wwii-tank-commander.json) |
 | WWII: TD | 108670 | [108670-wwii-td.json](./108670-wwii-td.json) |
 | WWR: World of Warfare Robots | 169628 | [169628-wwr-world-of-warfare-robots.json](./169628-wwr-world-of-warfare-robots.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
