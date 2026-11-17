@@ -12146,7 +12146,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing Monarchy | 105137 | [105137-romancing-monarchy.json](./105137-romancing-monarchy.json) |
 | Romancing of Heroes: Boys' Side | 180406 | [180406-romancing-of-heroes-boys-side.json](./180406-romancing-of-heroes-boys-side.json) |
 | Romancing SaGa | 141296 | [141296-romancing-saga.json](./141296-romancing-saga.json) |
-| Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing SaGa 3 | 11313 | [11313-romancing-saga-3.json](./11313-romancing-saga-3.json) |
 | Romancing SaGa 3: Destinies United | 415836 | [415836-romancing-saga-3-destinies-united.json](./415836-romancing-saga-3-destinies-united.json) |
 | Romancing SaGa 3: Destinies United - Digital Deluxe Version | 418348 | [418348-romancing-saga-3-destinies-united-digital-deluxe-version.json](./418348-romancing-saga-3-destinies-united-digital-deluxe-version.json) |
