@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T06:20:55.041Z",
-  "total_soundtracks": 3548,
+  "generated_at": "2026-11-17T06:31:31.763Z",
+  "total_soundtracks": 3554,
   "games": [
     {
       "igdb_id": 292844,
@@ -3126,6 +3126,20 @@
           "album_name": "Atomic Heart, Vol.5 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1spTBf3PQ2n0lzoFx14KPH",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 283949,
+      "game_name": "Atomic Owl",
+      "game_url": "https://ostdb.net/games/atomic-owl",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273113b5c4d7117e381d3685711",
+      "albums": [
+        {
+          "album_name": "Atomic Owl (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1biB0fzwA2JmlDDkC8J7xI",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -16533,6 +16547,20 @@
         {
           "album_name": "Groundhog Day: Like Father Like Son (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0HYp16c9DWZgc1zSn10qAZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 281353,
+      "game_name": "Grunn",
+      "game_url": "https://ostdb.net/games/grunn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273be4648cfc82cc73d8476d4e7",
+      "albums": [
+        {
+          "album_name": "Grunn (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6o2nKYru5jsvAuflnnZZaK",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -30987,6 +31015,20 @@
       ]
     },
     {
+      "igdb_id": 281390,
+      "game_name": "Ritual of Raven",
+      "game_url": "https://ostdb.net/games/ritual-of-raven",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a5b8e639c7c60485b20a9d86",
+      "albums": [
+        {
+          "album_name": "Ritual of Raven (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3WsM2j0JULtHyzveQapvLZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 90783,
       "game_name": "Rival Megagun",
       "game_url": "https://ostdb.net/games/rival-megagun",
@@ -34847,6 +34889,20 @@
       ]
     },
     {
+      "igdb_id": 282965,
+      "game_name": "Splodey",
+      "game_url": "https://ostdb.net/games/splodey",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da43d2cbb09dfe2d750e0cfe",
+      "albums": [
+        {
+          "album_name": "Splodey (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3LuwqtWyqMHSAhlBxAi4db",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 5191,
       "game_name": "Spore Hero",
       "game_url": "https://ostdb.net/games/spore-hero",
@@ -37331,6 +37387,20 @@
       ]
     },
     {
+      "igdb_id": 285987,
+      "game_name": "Teeto",
+      "game_url": "https://ostdb.net/games/teeto",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27354075c4bf8e66597b7a417ef",
+      "albums": [
+        {
+          "album_name": "Teeto (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4FVI3nmUrwXkGJrGd1xkZk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 304400,
       "game_name": "Tekken",
       "game_url": "https://ostdb.net/games/tekken",
@@ -38539,6 +38609,20 @@
         {
           "album_name": "The Elder Scrolls Online: Blackwood (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6xXLKHjzvAx1Y6s92Xt4SZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 283120,
+      "game_name": "The Elder Scrolls Online: Gold Road",
+      "game_url": "https://ostdb.net/games/the-elder-scrolls-online-gold-road",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cdb9ee1f6bef1e57aae6b368",
+      "albums": [
+        {
+          "album_name": "The Elder Scrolls Online: Gold Road (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1hBr5znMSZscqahEXB20TJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
