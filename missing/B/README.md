@@ -4089,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Box | 115121 | [115121-battle-box.json](./115121-battle-box.json) |
 | Battle Boys | 419073 | [419073-battle-boys.json](./419073-battle-boys.json) |
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
+| Battle Breeders | 100393 | [100393-battle-breeders.json](./100393-battle-breeders.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Bros. | 235963 | [235963-battle-bros.json](./235963-battle-bros.json) |
 | Battle Brothers: Beasts & Exploration | 113990 | [113990-battle-brothers-beasts-and-exploration.json](./113990-battle-brothers-beasts-and-exploration.json) |
@@ -6172,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Mons! | 153135 | [153135-beat-the-mons.json](./153135-beat-the-mons.json) |
 | Beat the Nettles! | 382714 | [382714-beat-the-nettles.json](./382714-beat-the-nettles.json) |
 | Beat the Nightmare: Evil Dreams Simulator VR | 172236 | [172236-beat-the-nightmare-evil-dreams-simulator-vr.json](./172236-beat-the-nightmare-evil-dreams-simulator-vr.json) |
+| Beat the Rhythm VR | 100388 | [100388-beat-the-rhythm-vr.json](./100388-beat-the-rhythm-vr.json) |
 | Beat the Song | 107311 | [107311-beat-the-song.json](./107311-beat-the-song.json) |
 | Beat the Soul Z | 237714 | [237714-beat-the-soul-z.json](./237714-beat-the-soul-z.json) |
 | Beat the Wall | 323848 | [323848-beat-the-wall.json](./323848-beat-the-wall.json) |
@@ -13696,6 +13698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
 | Bob the Builder: Festival of Fun | 4722 | [4722-bob-the-builder-festival-of-fun.json](./4722-bob-the-builder-festival-of-fun.json) |
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
+| Bob the Cube | 99237 | [99237-bob-the-cube.json](./99237-bob-the-cube.json) |
 | Bob the Elementalist | 267489 | [267489-bob-the-elementalist.json](./267489-bob-the-elementalist.json) |
 | Bob the Goose | 213476 | [213476-bob-the-goose.json](./213476-bob-the-goose.json) |
 | Bob the Hamster | 60917 | [60917-bob-the-hamster.json](./60917-bob-the-hamster.json) |
