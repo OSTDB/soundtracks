@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
 | Danger Darrel: Airplane Rush | 249661 | [249661-danger-darrel-airplane-rush.json](./249661-danger-darrel-airplane-rush.json) |
 | Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
+| Danger Dodgers | 57264 | [57264-danger-dodgers.json](./57264-danger-dodgers.json) |
 | Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
 | Danger Drop | 254377 | [254377-danger-drop.json](./254377-danger-drop.json) |
 | Danger Ducklings | 219749 | [219749-danger-ducklings.json](./219749-danger-ducklings.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mountain | 268603 | [268603-dark-mountain.json](./268603-dark-mountain.json) |
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
 | Dark Mysteries 4 Play Collection | 145144 | [145144-dark-mysteries-4-play-collection.json](./145144-dark-mysteries-4-play-collection.json) |
+| Dark Mysteries: The Soul Keeper | 57249 | [57249-dark-mysteries-the-soul-keeper.json](./57249-dark-mysteries-the-soul-keeper.json) |
 | Dark Mysteries: The Soul Keeper - Collector's Edition | 88202 | [88202-dark-mysteries-the-soul-keeper-collectors-edition.json](./88202-dark-mysteries-the-soul-keeper-collectors-edition.json) |
 | Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
 | Dark Mystery Bundle | 397884 | [397884-dark-mystery-bundle.json](./397884-dark-mystery-bundle.json) |
@@ -9480,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexodonex | 30631 | [30631-dexodonex.json](./30631-dexodonex.json) |
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
 | DexSweeper | 333420 | [333420-dexsweeper.json](./333420-dexsweeper.json) |
+| Dexter Slice | 57266 | [57266-dexter-slice.json](./57266-dexter-slice.json) |
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
 | Dexter Stardust: Adventures in Outer Space | 153075 | [153075-dexter-stardust-adventures-in-outer-space.json](./153075-dexter-stardust-adventures-in-outer-space.json) |
 | Dexter Stardust: Returns to Outer Space | 216676 | [216676-dexter-stardust-returns-to-outer-space.json](./216676-dexter-stardust-returns-to-outer-space.json) |
@@ -16125,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downstairs 2 Nightfall | 367737 | [367737-downstairs-2-nightfall.json](./367737-downstairs-2-nightfall.json) |
 | Downstairs at Grandma's House | 113832 | [113832-downstairs-at-grandmas-house.json](./113832-downstairs-at-grandmas-house.json) |
 | DownStream : VR Whitewater Kayaking | 113765 | [113765-downstream-vr-whitewater-kayaking.json](./113765-downstream-vr-whitewater-kayaking.json) |
+| Downton Abbey: Mysteries of the Manor | 57289 | [57289-downton-abbey-mysteries-of-the-manor.json](./57289-downton-abbey-mysteries-of-the-manor.json) |
 | Downtown | 174110 | [174110-downtown.json](./174110-downtown.json) |
 | Downtown | 354573 | [354573-downtown.json](./354573-downtown.json) |
 | Downtown | 98761 | [98761-downtown.json](./98761-downtown.json) |
@@ -16650,6 +16654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - Warden's Keep | 17466 | [17466-dragon-age-origins-wardens-keep.json](./17466-dragon-age-origins-wardens-keep.json) |
 | Dragon Age: Origins - Witch Hunt | 17464 | [17464-dragon-age-origins-witch-hunt.json](./17464-dragon-age-origins-witch-hunt.json) |
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
+| Dragon Age: The Last Court | 57280 | [57280-dragon-age-the-last-court.json](./57280-dragon-age-the-last-court.json) |
 | Dragon Age: The Veilguard - Deluxe Edition | 321666 | [321666-dragon-age-the-veilguard-deluxe-edition.json](./321666-dragon-age-the-veilguard-deluxe-edition.json) |
 | Dragon Age: The Veilguard - Rook's Weapons Appearance Offer | 373465 | [373465-dragon-age-the-veilguard-rooks-weapons-appearance-offer.json](./373465-dragon-age-the-veilguard-rooks-weapons-appearance-offer.json) |
 | Dragon and Home | 164129 | [164129-dragon-and-home.json](./164129-dragon-and-home.json) |
@@ -17661,6 +17666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
 | Dragontwin | 328849 | [328849-dragontwin.json](./328849-dragontwin.json) |
 | DragonVale | 22705 | [22705-dragonvale.json](./22705-dragonvale.json) |
+| DragonVale World | 57265 | [57265-dragonvale-world.json](./57265-dragonvale-world.json) |
 | Dragonward | 93801 | [93801-dragonward.json](./93801-dragonward.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
 | DragonWingsVR | 30295 | [30295-dragonwingsvr.json](./30295-dragonwingsvr.json) |
