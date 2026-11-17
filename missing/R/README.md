@@ -14874,7 +14874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RWBY Deckbuilding Game | 115305 | [115305-rwby-deckbuilding-game.json](./115305-rwby-deckbuilding-game.json) |
 | RWBY Fading Light | 184878 | [184878-rwby-fading-light.json](./184878-rwby-fading-light.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
-| RWBY: Arrowfell | 154856 | [154856-rwby-arrowfell.json](./154856-rwby-arrowfell.json) |
 | RWBY: Crystal Match | 120203 | [120203-rwby-crystal-match.json](./120203-rwby-crystal-match.json) |
 | RWBY: Grimm Eclipse - Definitive Edition | 148103 | [148103-rwby-grimm-eclipse-definitive-edition.json](./148103-rwby-grimm-eclipse-definitive-edition.json) |
 | RWBY: Grimm Eclipse - JNPR | 282712 | [282712-rwby-grimm-eclipse-jnpr.json](./282712-rwby-grimm-eclipse-jnpr.json) |
