@@ -2346,7 +2346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iKlondike | 91077 | [91077-iklondike.json](./91077-iklondike.json) |
 | IKO 39 | 126900 | [126900-iko-39.json](./126900-iko-39.json) |
 | Ikoka Game | 273458 | [273458-ikoka-game.json](./273458-ikoka-game.json) |
-| Ikonei Island: An Earthlock Adventure | 197183 | [197183-ikonei-island-an-earthlock-adventure.json](./197183-ikonei-island-an-earthlock-adventure.json) |
 | Ikonei Island: Lunar Union Festival Content Pack | 293431 | [293431-ikonei-island-lunar-union-festival-content-pack.json](./293431-ikonei-island-lunar-union-festival-content-pack.json) |
 | Ikonei Island: Lystide Content Pack | 293432 | [293432-ikonei-island-lystide-content-pack.json](./293432-ikonei-island-lystide-content-pack.json) |
 | Ikonei Island: Spring Tide Content Pack | 293433 | [293433-ikonei-island-spring-tide-content-pack.json](./293433-ikonei-island-spring-tide-content-pack.json) |
@@ -2930,7 +2929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact! | 289584 | [289584-impact.json](./289584-impact.json) |
 | Impale | 76017 | [76017-impale.json](./76017-impale.json) |
 | Impale Your Friends! | 117573 | [117573-impale-your-friends.json](./117573-impale-your-friends.json) |
-| Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
 | Impasse | 317205 | [317205-impasse.json](./317205-impasse.json) |
 | Impasse Journey: Kaohsiung Chapter | 284378 | [284378-impasse-journey-kaohsiung-chapter.json](./284378-impasse-journey-kaohsiung-chapter.json) |
