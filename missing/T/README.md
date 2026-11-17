@@ -4178,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Shadows | 301417 | [301417-temple-of-shadows.json](./301417-temple-of-shadows.json) |
 | Temple Of Snek | 127777 | [127777-temple-of-snek.json](./127777-temple-of-snek.json) |
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
+| Temple of Spikes | 87675 | [87675-temple-of-spikes.json](./87675-temple-of-spikes.json) |
 | Temple of Spikes: The Legend | 90441 | [90441-temple-of-spikes-the-legend.json](./90441-temple-of-spikes-the-legend.json) |
 | Temple of Starlight | 213315 | [213315-temple-of-starlight.json](./213315-temple-of-starlight.json) |
 | Temple of Steel | 236030 | [236030-temple-of-steel.json](./236030-temple-of-steel.json) |
@@ -16955,6 +16956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prison | 339012 | [339012-the-prison.json](./339012-the-prison.json) |
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
 | The Prison Experiment | 102472 | [102472-the-prison-experiment.json](./102472-the-prison-experiment.json) |
+| The Prison Game | 87754 | [87754-the-prison-game.json](./87754-the-prison-game.json) |
 | The Prisonbreak | 346373 | [346373-the-prisonbreak.json](./346373-the-prisonbreak.json) |
 | The Prisoner | 18759 | [18759-the-prisoner.json](./18759-the-prisoner.json) |
 | The Prisoner | 347059 | [347059-the-prisoner.json](./347059-the-prisoner.json) |
@@ -21141,6 +21143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
 | The Wild Eight | 17479 | [17479-the-wild-eight.json](./17479-the-wild-eight.json) |
 | The Wild Eternal | 20991 | [20991-the-wild-eternal.json](./20991-the-wild-eternal.json) |
+| The Wild Hunter | 87712 | [87712-the-wild-hunter.json](./87712-the-wild-hunter.json) |
 | The Wild Life - The Game | 106874 | [106874-the-wild-life-the-game.json](./106874-the-wild-life-the-game.json) |
 | The Wild Outback | 338990 | [338990-the-wild-outback.json](./338990-the-wild-outback.json) |
 | The Wild Rings | 67730 | [67730-the-wild-rings.json](./67730-the-wild-rings.json) |
@@ -26346,6 +26349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Ramen Shop | 411843 | [411843-tiny-ramen-shop.json](./411843-tiny-ramen-shop.json) |
 | Tiny Realms | 288590 | [288590-tiny-realms.json](./288590-tiny-realms.json) |
 | Tiny Realms | 61720 | [61720-tiny-realms.json](./61720-tiny-realms.json) |
+| Tiny Rebel Beer Money Inc. | 87680 | [87680-tiny-rebel-beer-money-inc.json](./87680-tiny-rebel-beer-money-inc.json) |
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
 | Tiny Road Interchanges | 188834 | [188834-tiny-road-interchanges.json](./188834-tiny-road-interchanges.json) |
 | Tiny Robo Puzzles | 204133 | [204133-tiny-robo-puzzles.json](./204133-tiny-robo-puzzles.json) |
@@ -34311,6 +34315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial Traction | 304852 | [304852-trial-traction.json](./304852-trial-traction.json) |
 | Trial Xtreme | 80437 | [80437-trial-xtreme.json](./80437-trial-xtreme.json) |
 | Trial Xtreme 2 | 39241 | [39241-trial-xtreme-2.json](./39241-trial-xtreme-2.json) |
+| Trial Xtreme 2: Winter Edition | 87749 | [87749-trial-xtreme-2-winter-edition.json](./87749-trial-xtreme-2-winter-edition.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 | 86931 | [86931-trial-xtreme-4.json](./86931-trial-xtreme-4.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
@@ -36549,6 +36554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil: Deeper Underground | 319085 | [319085-turmoil-deeper-underground.json](./319085-turmoil-deeper-underground.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
+| Turn | 85676 | [85676-turn.json](./85676-turn.json) |
 | Turn and Burn: No-Fly Zone | 42438 | [42438-turn-and-burn-no-fly-zone.json](./42438-turn-and-burn-no-fly-zone.json) |
 | Turn and Burn: The F-14 Dogfight Simulator | 49058 | [49058-turn-and-burn-the-f-14-dogfight-simulator.json](./49058-turn-and-burn-the-f-14-dogfight-simulator.json) |
 | Turn Around | 29420 | [29420-turn-around.json](./29420-turn-around.json) |
