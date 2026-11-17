@@ -6199,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat'n Groovy | 84325 | [84325-beatn-groovy.json](./84325-beatn-groovy.json) |
 | Beatable | 342096 | [342096-beatable.json](./342096-beatable.json) |
 | BeatAim | 126945 | [126945-beataim.json](./126945-beataim.json) |
+| BeatBeat | 129290 | [129290-beatbeat.json](./129290-beatbeat.json) |
 | BeatBlast: Rhythm Rampage | 325006 | [325006-beatblast-rhythm-rampage.json](./325006-beatblast-rhythm-rampage.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
 | Beatblock | 306804 | [306804-beatblock.json](./306804-beatblock.json) |
@@ -13495,6 +13496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunt Blade and a Hundred Halls | 391629 | [391629-blunt-blade-and-a-hundred-halls.json](./391629-blunt-blade-and-a-hundred-halls.json) |
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
+| Blupi at Home | 130434 | [130434-blupi-at-home.json](./130434-blupi-at-home.json) |
 | Blupi Explorer | 133563 | [133563-blupi-explorer.json](./133563-blupi-explorer.json) |
 | Blupi's Travels | 133558 | [133558-blupis-travels.json](./133558-blupis-travels.json) |
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
@@ -20204,6 +20206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Break: Head to Head | 199163 | [199163-burger-break-head-to-head.json](./199163-burger-break-head-to-head.json) |
 | Burger Builder | 42185 | [42185-burger-builder.json](./42185-burger-builder.json) |
 | Burger Burger | 92545 | [92545-burger-burger.json](./92545-burger-burger.json) |
+| Burger Burger 2 | 130431 | [130431-burger-burger-2.json](./130431-burger-burger-2.json) |
 | Burger Burger Pocket: Hamburger Simulation | 65644 | [65644-burger-burger-pocket-hamburger-simulation.json](./65644-burger-burger-pocket-hamburger-simulation.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
 | Burger Cats | 58574 | [58574-burger-cats.json](./58574-burger-cats.json) |
