@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kifo Quest | 294656 | [294656-kifo-quest.json](./294656-kifo-quest.json) |
 | Kiganjo | 300658 | [300658-kiganjo.json](./300658-kiganjo.json) |
 | Kigetsu no Yoru | 368634 | [368634-kigetsu-no-yoru.json](./368634-kigetsu-no-yoru.json) |
+| Kigurumi Hearts | 419673 | [419673-kigurumi-hearts.json](./419673-kigurumi-hearts.json) |
 | Kigurumi Kombat | 74757 | [74757-kigurumi-kombat.json](./74757-kigurumi-kombat.json) |
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
 | Kiiroi Hana | 158615 | [158615-kiiroi-hana.json](./158615-kiiroi-hana.json) |
@@ -7203,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuwagata Tsumami: Kuttsuke! Tsumami Hako | 130478 | [130478-kuwagata-tsumami-kuttsuke-tsumami-hako.json](./130478-kuwagata-tsumami-kuttsuke-tsumami-hako.json) |
 | Kuzbass | 194112 | [194112-kuzbass.json](./194112-kuzbass.json) |
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
+| Kuznetsk 1997: Detective Visual Novel | 419701 | [419701-kuznetsk-1997-detective-visual-novel.json](./419701-kuznetsk-1997-detective-visual-novel.json) |
 | Kvaka-zadavaka | 367906 | [367906-kvaka-zadavaka.json](./367906-kvaka-zadavaka.json) |
 | Kvlt | 216390 | [216390-kvlt.json](./216390-kvlt.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
