@@ -1810,7 +1810,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandream | 195706 | [195706-sandream.json](./195706-sandream.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
 | Sands | 236348 | [236348-sands.json](./236348-sands.json) |
-| Sands of Aura | 143129 | [143129-sands-of-aura.json](./143129-sands-of-aura.json) |
 | Sands of Avalon: Forge Your Legend | 390861 | [390861-sands-of-avalon-forge-your-legend.json](./390861-sands-of-avalon-forge-your-legend.json) |
 | Sands of Decay | 386085 | [386085-sands-of-decay.json](./386085-sands-of-decay.json) |
 | Sands of Destruction | 24331 | [24331-sands-of-destruction.json](./24331-sands-of-destruction.json) |
@@ -26259,7 +26258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaby | 89578 | [89578-squaby.json](./89578-squaby.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
-| Squad 51 vs. the Flying Saucers | 143161 | [143161-squad-51-vs-the-flying-saucers.json](./143161-squad-51-vs-the-flying-saucers.json) |
 | Squad Alpha: Action Shooting | 219857 | [219857-squad-alpha-action-shooting.json](./219857-squad-alpha-action-shooting.json) |
 | Squad Arcade | 372801 | [372801-squad-arcade.json](./372801-squad-arcade.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
