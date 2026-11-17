@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Razy Kritters | 22698 | [22698-k-razy-kritters.json](./22698-k-razy-kritters.json) |
 | K-Razy Shoot-Out | 18755 | [18755-k-razy-shoot-out.json](./18755-k-razy-shoot-out.json) |
 | K-Shoot Mania | 59775 | [59775-k-shoot-mania.json](./59775-k-shoot-mania.json) |
+| K-Stage | 429510 | [429510-k-stage.json](./429510-k-stage.json) |
 | K-Star Patrol | 23339 | [23339-k-star-patrol.json](./23339-k-star-patrol.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K!ll All Litterbugs | 302909 | [302909-k-ll-all-litterbugs.json](./302909-k-ll-all-litterbugs.json) |
@@ -181,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
 | Kaerun | 421793 | [421793-kaerun.json](./421793-kaerun.json) |
+| Kaet Must Die! | 55610 | [55610-kaet-must-die.json](./55610-kaet-must-die.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
 | Kaette Kita Tanteidan X | 356060 | [356060-kaette-kita-tanteidan-x.json](./356060-kaette-kita-tanteidan-x.json) |
 | Kaettekita Cyborg Kuro Chan | 44734 | [44734-kaettekita-cyborg-kuro-chan.json](./44734-kaettekita-cyborg-kuro-chan.json) |
@@ -2446,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Off World | 71879 | [71879-kick-off-world.json](./71879-kick-off-world.json) |
 | Kick Off: Extra Time | 74883 | [74883-kick-off-extra-time.json](./74883-kick-off-extra-time.json) |
 | Kick Rider | 39512 | [39512-kick-rider.json](./39512-kick-rider.json) |
+| Kick Rocks | 429522 | [429522-kick-rocks.json](./429522-kick-rocks.json) |
 | Kick Start | 40340 | [40340-kick-start.json](./40340-kick-start.json) |
 | Kick the Anime Simulator | 111354 | [111354-kick-the-anime-simulator.json](./111354-kick-the-anime-simulator.json) |
 | Kick the Ball | 419771 | [419771-kick-the-ball.json](./419771-kick-the-ball.json) |
@@ -6633,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kritika: Reboot | 56010 | [56010-kritika-reboot.json](./56010-kritika-reboot.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
 | Kritika: Zero | 284746 | [284746-kritika-zero.json](./284746-kritika-zero.json) |
+| Kritsana | 424882 | [424882-kritsana.json](./424882-kritsana.json) |
 | Kritter: Defend Together | 223226 | [223226-kritter-defend-together.json](./223226-kritter-defend-together.json) |
 | Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
 | Krizl | 106297 | [106297-krizl.json](./106297-krizl.json) |
