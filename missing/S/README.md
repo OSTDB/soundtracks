@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
 | SanaPoka | 82574 | [82574-sanapoka.json](./82574-sanapoka.json) |
 | Sanarah | 333830 | [333830-sanarah.json](./333830-sanarah.json) |
+| Sanarara R | 425293 | [425293-sanarara-r.json](./425293-sanarara-r.json) |
 | Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
 | Sanator: Elmo's Legacy | 197090 | [197090-sanator-elmos-legacy.json](./197090-sanator-elmos-legacy.json) |
 | Sanator: Scarlet Scarf | 113006 | [113006-sanator-scarlet-scarf.json](./113006-sanator-scarlet-scarf.json) |
@@ -23949,6 +23950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat Simulator | 326348 | [326348-speedboat-simulator.json](./326348-speedboat-simulator.json) |
 | Speedbreak Hyperdrive | 157334 | [157334-speedbreak-hyperdrive.json](./157334-speedbreak-hyperdrive.json) |
 | SpeedBreaker | 422514 | [422514-speedbreaker.json](./422514-speedbreaker.json) |
+| SpeedBun | 425319 | [425319-speedbun.json](./425319-speedbun.json) |
 | Speedcat | 198290 | [198290-speedcat.json](./198290-speedcat.json) |
 | SpeedCoins | 343292 | [343292-speedcoins.json](./343292-speedcoins.json) |
 | SpeedColor | 27980 | [27980-speedcolor.json](./27980-speedcolor.json) |
@@ -24317,6 +24319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellspire | 36462 | [36462-spellspire.json](./36462-spellspire.json) |
 | Spellstone | 26794 | [26794-spellstone.json](./26794-spellstone.json) |
 | Spellstorm | 145869 | [145869-spellstorm.json](./145869-spellstorm.json) |
+| Spellstrider | 425286 | [425286-spellstrider.json](./425286-spellstrider.json) |
 | Spellstrife | 287043 | [287043-spellstrife.json](./287043-spellstrife.json) |
 | Spellsword | 19905 | [19905-spellsword.json](./19905-spellsword.json) |
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
@@ -34243,6 +34246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sung in Flame | 381345 | [381345-sung-in-flame.json](./381345-sung-in-flame.json) |
 | Sungaia Saga | 337731 | [337731-sungaia-saga.json](./337731-sungaia-saga.json) |
 | Sungka | 369459 | [369459-sungka.json](./369459-sungka.json) |
+| Sunhara: Ecorpy Islands | 425285 | [425285-sunhara-ecorpy-islands.json](./425285-sunhara-ecorpy-islands.json) |
 | Sunken | 103715 | [103715-sunken.json](./103715-sunken.json) |
 | Sunken | 19347 | [19347-sunken.json](./19347-sunken.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
