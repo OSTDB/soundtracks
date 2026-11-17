@@ -3391,7 +3391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
 | Fast Freddie | 46795 | [46795-fast-freddie.json](./46795-fast-freddie.json) |
 | Fast Fruit | 192619 | [192619-fast-fruit.json](./192619-fast-fruit.json) |
-| Fast Fusion | 338093 | [338093-fast-fusion.json](./338093-fast-fusion.json) |
 | Fast Gear | 358998 | [358998-fast-gear.json](./358998-fast-gear.json) |
 | Fast Hands | 411239 | [411239-fast-hands.json](./411239-fast-hands.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
