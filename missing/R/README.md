@@ -5512,7 +5512,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Hunt | 361602 | [361602-relic-hunt.json](./361602-relic-hunt.json) |
 | Relic Hunters Legend | 72497 | [72497-relic-hunters-legend.json](./72497-relic-hunters-legend.json) |
 | Relic Hunters Zero | 12301 | [12301-relic-hunters-zero.json](./12301-relic-hunters-zero.json) |
-| Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
 | Relic Hunters: Rebels | 200309 | [200309-relic-hunters-rebels.json](./200309-relic-hunters-rebels.json) |
 | Relic Keepers | 55618 | [55618-relic-keepers.json](./55618-relic-keepers.json) |
 | Relic Light | 353753 | [353753-relic-light.json](./353753-relic-light.json) |
