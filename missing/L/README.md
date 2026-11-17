@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana | 7895 | [7895-la-mulana.json](./7895-la-mulana.json) |
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
+| La-Mulana 1 & 2: Hidden Treasures Edition | 135964 | [135964-la-mulana-1-and-2-hidden-treasures-edition.json](./135964-la-mulana-1-and-2-hidden-treasures-edition.json) |
 | La-Mulana 2 | 7937 | [7937-la-mulana-2.json](./7937-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
 | La-Mulana EX | 22186 | [22186-la-mulana-ex.json](./22186-la-mulana-ex.json) |
@@ -11072,6 +11073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminoso | 35410 | [35410-luminoso.json](./35410-luminoso.json) |
 | Luminosus | 236999 | [236999-luminosus.json](./236999-luminosus.json) |
+| Luminous | 134703 | [134703-luminous.json](./134703-luminous.json) |
 | Luminous | 274662 | [274662-luminous.json](./274662-luminous.json) |
 | Luminous | 290643 | [290643-luminous.json](./290643-luminous.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
