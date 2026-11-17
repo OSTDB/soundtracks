@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-2-ji Super Robot Taisen Alpha | 78766 | [78766-dai-2-ji-super-robot-taisen-alpha.json](./78766-dai-2-ji-super-robot-taisen-alpha.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
 | Dai-2-ji Super Robot Taisen OG | 7264 | [7264-dai-2-ji-super-robot-taisen-og.json](./7264-dai-2-ji-super-robot-taisen-og.json) |
+| Dai-2-ji Super Robot Taisen Z: Hakai-hen | 80686 | [80686-dai-2-ji-super-robot-taisen-z-hakai-hen.json](./80686-dai-2-ji-super-robot-taisen-z-hakai-hen.json) |
 | Dai-2-ji Super Robot Taisen Z: Saisei-hen | 80145 | [80145-dai-2-ji-super-robot-taisen-z-saisei-hen.json](./80145-dai-2-ji-super-robot-taisen-z-saisei-hen.json) |
 | Dai-3-ji Super Robot Taisen | 240913 | [240913-dai-3-ji-super-robot-taisen.json](./240913-dai-3-ji-super-robot-taisen.json) |
 | Dai-3-ji Super Robot Taisen | 42564 | [42564-dai-3-ji-super-robot-taisen.json](./42564-dai-3-ji-super-robot-taisen.json) |
