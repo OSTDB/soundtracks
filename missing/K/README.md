@@ -5906,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kompete | 271681 | [271681-kompete.json](./271681-kompete.json) |
 | Komrad | 171774 | [171774-komrad.json](./171774-komrad.json) |
 | Komu | 409598 | [409598-komu.json](./409598-komu.json) |
+| Komugi-Chan no Happy Cake | 49536 | [49536-komugi-chan-no-happy-cake.json](./49536-komugi-chan-no-happy-cake.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | Kon Kon | 125486 | [125486-kon-kon.json](./125486-kon-kon.json) |
 | KON: Knights of Night | 57545 | [57545-kon-knights-of-night.json](./57545-kon-knights-of-night.json) |
