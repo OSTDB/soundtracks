@@ -5481,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who wants to strip this babe?: Hentai Teacher | 280445 | [280445-who-wants-to-strip-this-babe-hentai-teacher.json](./280445-who-wants-to-strip-this-babe-hentai-teacher.json) |
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
 | Who Was The Cat? | 335740 | [335740-who-was-the-cat.json](./335740-who-was-the-cat.json) |
+| Who We Are Now | 117851 | [117851-who-we-are-now.json](./117851-who-we-are-now.json) |
 | Who Wears The Crown? | 297985 | [297985-who-wears-the-crown.json](./297985-who-wears-the-crown.json) |
 | Who Will... | 178848 | [178848-who-will.json](./178848-who-will.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
@@ -6776,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Fox | 177762 | [177762-winter-fox.json](./177762-winter-fox.json) |
 | Winter Fragments | 285045 | [285045-winter-fragments.json](./285045-winter-fragments.json) |
 | Winter Fruit Mania | 174962 | [174962-winter-fruit-mania.json](./174962-winter-fruit-mania.json) |
+| Winter Fury: Longest Road | 117847 | [117847-winter-fury-longest-road.json](./117847-winter-fury-longest-road.json) |
 | Winter Games | 12268 | [12268-winter-games.json](./12268-winter-games.json) |
 | Winter Games | 281634 | [281634-winter-games.json](./281634-winter-games.json) |
 | Winter Games | 281636 | [281636-winter-games.json](./281636-winter-games.json) |
