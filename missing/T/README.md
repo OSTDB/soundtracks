@@ -11847,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart Pumps Clay | 122891 | [122891-the-heart-pumps-clay.json](./122891-the-heart-pumps-clay.json) |
 | The Heart's Illumination | 134859 | [134859-the-hearts-illumination.json](./134859-the-hearts-illumination.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
+| The Heartbeat You Never Had | 141907 | [141907-the-heartbeat-you-never-had.json](./141907-the-heartbeat-you-never-had.json) |
 | The Hearth and Harbour | 366973 | [366973-the-hearth-and-harbour.json](./366973-the-hearth-and-harbour.json) |
 | The Heartland Saga | 29427 | [29427-the-heartland-saga.json](./29427-the-heartland-saga.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
@@ -12559,6 +12560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Insector | 187652 | [187652-the-insector.json](./187652-the-insector.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
 | The inside of a drawer | 129070 | [129070-the-inside-of-a-drawer.json](./129070-the-inside-of-a-drawer.json) |
+| The Insider: The Interactive Movie | 143762 | [143762-the-insider-the-interactive-movie.json](./143762-the-insider-the-interactive-movie.json) |
 | The Insignia Project | 159520 | [159520-the-insignia-project.json](./159520-the-insignia-project.json) |
 | The Insomnia Town | 182853 | [182853-the-insomnia-town.json](./182853-the-insomnia-town.json) |
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
@@ -18957,6 +18959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solitaire: Klondike / Spider | 222033 | [222033-the-solitaire-klondike-spider.json](./222033-the-solitaire-klondike-spider.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
 | The Solitude Project | 350884 | [350884-the-solitude-project.json](./350884-the-solitude-project.json) |
+| The Solivagants (or, Videogames Fail at Character Context) | 141914 | [141914-the-solivagants-or-videogames-fail-at-character-context.json](./141914-the-solivagants-or-videogames-fail-at-character-context.json) |
 | The Solus Project | 11221 | [11221-the-solus-project.json](./11221-the-solus-project.json) |
 | The Solyani's Code | 403431 | [403431-the-solyanis-code.json](./403431-the-solyanis-code.json) |
 | The Somerton Man | 201058 | [201058-the-somerton-man.json](./201058-the-somerton-man.json) |
@@ -22894,6 +22897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threewave | 306178 | [306178-threewave.json](./306178-threewave.json) |
 | Threewave Capture | 306175 | [306175-threewave-capture.json](./306175-threewave-capture.json) |
 | Thregnar and the Crystals of Chaos | 313431 | [313431-thregnar-and-the-crystals-of-chaos.json](./313431-thregnar-and-the-crystals-of-chaos.json) |
+| Threshold | 141902 | [141902-threshold.json](./141902-threshold.json) |
 | Threshold | 202336 | [202336-threshold.json](./202336-threshold.json) |
 | Threshold | 288609 | [288609-threshold.json](./288609-threshold.json) |
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
@@ -29613,6 +29617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou | 294668 | [294668-touhou.json](./294668-touhou.json) |
 | Touhou 1: The Highly Responsive to Prayers NES Demake | 277165 | [277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json](./277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json) |
 | Touhou 3D Dungeon | 152988 | [152988-touhou-3d-dungeon.json](./152988-touhou-3d-dungeon.json) |
+| Touhou A Live | 143773 | [143773-touhou-a-live.json](./143773-touhou-a-live.json) |
 | Touhou Adventure | 189858 | [189858-touhou-adventure.json](./189858-touhou-adventure.json) |
 | Touhou Arcadia Record | 212442 | [212442-touhou-arcadia-record.json](./212442-touhou-arcadia-record.json) |
 | Touhou Artificial Dream in Arcadia | 228758 | [228758-touhou-artificial-dream-in-arcadia.json](./228758-touhou-artificial-dream-in-arcadia.json) |
@@ -33729,6 +33734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Day | 406477 | [406477-trash-day.json](./406477-trash-day.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
 | Trash Diver | 89212 | [89212-trash-diver.json](./89212-trash-diver.json) |
+| Trash Factory | 141923 | [141923-trash-factory.json](./141923-trash-factory.json) |
 | Trash Goblin: The Artist of Brimhaven | 402318 | [402318-trash-goblin-the-artist-of-brimhaven.json](./402318-trash-goblin-the-artist-of-brimhaven.json) |
 | Trash Heart | 329008 | [329008-trash-heart.json](./329008-trash-heart.json) |
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
