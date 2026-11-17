@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
 | Absolute | 143945 | [143945-absolute.json](./143945-absolute.json) |
 | Absolute Acey Deucey | 104169 | [104169-absolute-acey-deucey.json](./104169-absolute-acey-deucey.json) |
+| Absolute Action Pack | 138311 | [138311-absolute-action-pack.json](./138311-absolute-action-pack.json) |
 | Absolute Adventure Zero | 107919 | [107919-absolute-adventure-zero.json](./107919-absolute-adventure-zero.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accidental Runner | 35449 | [35449-accidental-runner.json](./35449-accidental-runner.json) |
 | Accidental Woman | 140107 | [140107-accidental-woman.json](./140107-accidental-woman.json) |
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
+| AccidentHouse | 139512 | [139512-accidenthouse.json](./139512-accidenthouse.json) |
 | Acción Rescate | 259663 | [259663-accion-rescate.json](./259663-accion-rescate.json) |
 | Acción Rescate: América | 259665 | [259665-accion-rescate-america.json](./259665-accion-rescate-america.json) |
 | Acclaim's World Cup Soccer | 350124 | [350124-acclaims-world-cup-soccer.json](./350124-acclaims-world-cup-soccer.json) |
@@ -3580,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Collection 2 | 420008 | [420008-activision-collection-2.json](./420008-activision-collection-2.json) |
 | Activision Flashback Blast! | 245649 | [245649-activision-flashback-blast.json](./245649-activision-flashback-blast.json) |
 | Activision Game Vault: Volume 1 | 137499 | [137499-activision-game-vault-volume-1.json](./137499-activision-game-vault-volume-1.json) |
+| Activision Game Vault: Volume 2 | 138314 | [138314-activision-game-vault-volume-2.json](./138314-activision-game-vault-volume-2.json) |
 | Activision Game Vault: Volume 3 | 59285 | [59285-activision-game-vault-volume-3.json](./59285-activision-game-vault-volume-3.json) |
 | Activision Hits Remixed | 23110 | [23110-activision-hits-remixed.json](./23110-activision-hits-remixed.json) |
 | Activision Prototype #1 | 344692 | [344692-activision-prototype-1.json](./344692-activision-prototype-1.json) |
@@ -5471,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
 | Age of Armor | 64269 | [64269-age-of-armor.json](./64269-age-of-armor.json) |
+| Age of Ascent | 139493 | [139493-age-of-ascent.json](./139493-age-of-ascent.json) |
 | Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
 | Age of Barbarian Extended Cut | 34473 | [34473-age-of-barbarian-extended-cut.json](./34473-age-of-barbarian-extended-cut.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
@@ -8753,6 +8757,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All You Can Eat | 27896 | [27896-all-you-can-eat.json](./27896-all-you-can-eat.json) |
 | All You Can Fish! | 398056 | [398056-all-you-can-fish.json](./398056-all-you-can-fish.json) |
 | All You Can Play: 10 Action-Games | 137502 | [137502-all-you-can-play-10-action-games.json](./137502-all-you-can-play-10-action-games.json) |
+| All You Can Play: 10 Handels-Simulationen | 138306 | [138306-all-you-can-play-10-handels-simulationen.json](./138306-all-you-can-play-10-handels-simulationen.json) |
+| All You Can Play: 10 Racing Games | 138305 | [138305-all-you-can-play-10-racing-games.json](./138305-all-you-can-play-10-racing-games.json) |
 | All You Can Shoot | 115257 | [115257-all-you-can-shoot.json](./115257-all-you-can-shoot.json) |
 | All You Can Take | 289662 | [289662-all-you-can-take.json](./289662-all-you-can-take.json) |
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
@@ -17140,7 +17146,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Fast As Possible | 145819 | [145819-as-fast-as-possible.json](./145819-as-fast-as-possible.json) |
 | As Guilty As the Moon | 236453 | [236453-as-guilty-as-the-moon.json](./236453-as-guilty-as-the-moon.json) |
 | As Hermit Crabs Do | 366159 | [366159-as-hermit-crabs-do.json](./366159-as-hermit-crabs-do.json) |
-| As I Began to Dream | 256722 | [256722-as-i-began-to-dream.json](./256722-as-i-began-to-dream.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
 | As If Through Glass | 395339 | [395339-as-if-through-glass.json](./395339-as-if-through-glass.json) |
 | As Long As It's Not Illegal: Act I | 230322 | [230322-as-long-as-its-not-illegal-act-i.json](./230322-as-long-as-its-not-illegal-act-i.json) |
@@ -19566,7 +19571,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Lance | 379398 | [379398-atomic-lance.json](./379398-atomic-lance.json) |
 | Atomic Ninjas | 8649 | [8649-atomic-ninjas.json](./8649-atomic-ninjas.json) |
 | Atomic Order | 214954 | [214954-atomic-order.json](./214954-atomic-order.json) |
-| Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
 | Atomic Picnic | 228902 | [228902-atomic-picnic.json](./228902-atomic-picnic.json) |
 | Atomic Point | 39619 | [39619-atomic-point.json](./39619-atomic-point.json) |
 | Atomic Protector | 15607 | [15607-atomic-protector.json](./15607-atomic-protector.json) |
