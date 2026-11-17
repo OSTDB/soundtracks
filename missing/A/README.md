@@ -8544,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Aboard!: The Microgauge Train Set | 15202 | [15202-all-aboard-the-microgauge-train-set.json](./15202-all-aboard-the-microgauge-train-set.json) |
 | All About America | 14245 | [14245-all-about-america.json](./14245-all-about-america.json) |
 | All About Chopsticks | 341722 | [341722-all-about-chopsticks.json](./341722-all-about-chopsticks.json) |
+| All About Luck | 425262 | [425262-all-about-luck.json](./425262-all-about-luck.json) |
 | All About Maze | 326237 | [326237-all-about-maze.json](./326237-all-about-maze.json) |
 | All About The High Score | 276202 | [276202-all-about-the-high-score.json](./276202-all-about-the-high-score.json) |
 | All Abug! | 334745 | [334745-all-abug.json](./334745-all-abug.json) |
@@ -17185,6 +17186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Talk As Walk Wayfarer Team: One Percent Sleepy | 261417 | [261417-as-talk-as-walk-wayfarer-team-one-percent-sleepy.json](./261417-as-talk-as-walk-wayfarer-team-one-percent-sleepy.json) |
 | As the Fog Burns | 137303 | [137303-as-the-fog-burns.json](./137303-as-the-fog-burns.json) |
 | As The Gears Turn Slow | 328713 | [328713-as-the-gears-turn-slow.json](./328713-as-the-gears-turn-slow.json) |
+| As the Lady Chooses | 425297 | [425297-as-the-lady-chooses.json](./425297-as-the-lady-chooses.json) |
 | As The Leaves Fall | 354930 | [354930-as-the-leaves-fall.json](./354930-as-the-leaves-fall.json) |
 | As the Light Goes Out | 217717 | [217717-as-the-light-goes-out.json](./217717-as-the-light-goes-out.json) |
 | As the Master Says | 299658 | [299658-as-the-master-says.json](./299658-as-the-master-says.json) |
@@ -18522,6 +18524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Vangard | 289546 | [289546-astral-vangard.json](./289546-astral-vangard.json) |
 | Astral Wield | 319068 | [319068-astral-wield.json](./319068-astral-wield.json) |
+| Astral Wizards | 425268 | [425268-astral-wizards.json](./425268-astral-wizards.json) |
 | Astral World | 316901 | [316901-astral-world.json](./316901-astral-world.json) |
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | Astral-Battlecraft | 392318 | [392318-astral-battlecraft.json](./392318-astral-battlecraft.json) |
