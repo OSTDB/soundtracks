@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Warriors Air Combat | 117275 | [117275-pacific-warriors-air-combat.json](./117275-pacific-warriors-air-combat.json) |
 | Pacific Warriors II: Dogfight! | 43448 | [43448-pacific-warriors-ii-dogfight.json](./43448-pacific-warriors-ii-dogfight.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
+| Pacific Wings | 95702 | [95702-pacific-wings.json](./95702-pacific-wings.json) |
 | Pacification Light | 304552 | [304552-pacification-light.json](./304552-pacification-light.json) |
 | Pacifish | 203545 | [203545-pacifish.json](./203545-pacifish.json) |
 | Pacifish: Recast | 330090 | [330090-pacifish-recast.json](./330090-pacifish-recast.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachute Frog | 95900 | [95900-parachute-frog.json](./95900-parachute-frog.json) |
 | Parachute Joust | 109109 | [109109-parachute-joust.json](./109109-parachute-joust.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
+| Parachute Panic | 92192 | [92192-parachute-panic.json](./92192-parachute-panic.json) |
 | Parachuter | 193011 | [193011-parachuter.json](./193011-parachuter.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paracreat | 199304 | [199304-paracreat.json](./199304-paracreat.json) |
@@ -4135,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Simulator | 295436 | [295436-pc-simulator.json](./295436-pc-simulator.json) |
 | PC Store Simulator | 346167 | [346167-pc-store-simulator.json](./346167-pc-store-simulator.json) |
 | PC Store Together | 426378 | [426378-pc-store-together.json](./426378-pc-store-together.json) |
+| PC Sudoku | 93228 | [93228-pc-sudoku.json](./93228-pc-sudoku.json) |
 | PC Tycoon 2 | 293047 | [293047-pc-tycoon-2.json](./293047-pc-tycoon-2.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
@@ -11154,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
 | Player Killers' Exchange | 108935 | [108935-player-killers-exchange.json](./108935-player-killers-exchange.json) |
 | Player Manager | 15342 | [15342-player-manager.json](./15342-player-manager.json) |
+| Player Manager 2 | 94430 | [94430-player-manager-2.json](./94430-player-manager-2.json) |
 | Player Manager 2000 | 43748 | [43748-player-manager-2000.json](./43748-player-manager-2000.json) |
 | Player Manager 2001 | 50025 | [50025-player-manager-2001.json](./50025-player-manager-2001.json) |
 | Player Manager 98/99 | 43765 | [43765-player-manager-98-99.json](./43765-player-manager-98-99.json) |
@@ -11474,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plot's! | 91505 | [91505-plots.json](./91505-plots.json) |
 | Plotonium Destructive Edge X: Wings of Solitude | 362227 | [362227-plotonium-destructive-edge-x-wings-of-solitude.json](./362227-plotonium-destructive-edge-x-wings-of-solitude.json) |
 | Plotonium Explosive Smasher DX: Machine Slayer - Oh Yes! Edition | 362226 | [362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json](./362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json) |
+| Plots! | 93227 | [93227-plots.json](./93227-plots.json) |
 | Plots! 2 | 93336 | [93336-plots-2.json](./93336-plots-2.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plotting | 172785 | [172785-plotting.json](./172785-plotting.json) |
@@ -20979,6 +20984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Quest: Challenge of the Warlords - Revenge of the Plague Lord | 52686 | [52686-puzzle-quest-challenge-of-the-warlords-revenge-of-the-plague-lord.json](./52686-puzzle-quest-challenge-of-the-warlords-revenge-of-the-plague-lord.json) |
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
 | Puzzle Quest: The Legend Returns | 122246 | [122246-puzzle-quest-the-legend-returns.json](./122246-puzzle-quest-the-legend-returns.json) |
+| Puzzle RailRoad | 94447 | [94447-puzzle-railroad.json](./94447-puzzle-railroad.json) |
 | Puzzle Retreat | 38867 | [38867-puzzle-retreat.json](./38867-puzzle-retreat.json) |
 | Puzzle Rocks | 85356 | [85356-puzzle-rocks.json](./85356-puzzle-rocks.json) |
 | Puzzle Rogue | 379782 | [379782-puzzle-rogue.json](./379782-puzzle-rogue.json) |
