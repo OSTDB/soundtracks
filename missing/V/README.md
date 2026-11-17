@@ -1838,7 +1838,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo | 68123 | [68123-vertigo.json](./68123-vertigo.json) |
 | Vertigo | 80739 | [80739-vertigo.json](./80739-vertigo.json) |
-| Vertigo 2 | 120529 | [120529-vertigo-2.json](./120529-vertigo-2.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
 | Vertigo Enigma | 407062 | [407062-vertigo-enigma.json](./407062-vertigo-enigma.json) |
 | Vertigo FPS | 103707 | [103707-vertigo-fps.json](./103707-vertigo-fps.json) |
@@ -3235,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
 | Virus Crisis | 115911 | [115911-virus-crisis.json](./115911-virus-crisis.json) |
 | Virus Evolution - Merge & Create Mutant Diseases | 104201 | [104201-virus-evolution-merge-and-create-mutant-diseases.json](./104201-virus-evolution-merge-and-create-mutant-diseases.json) |
+| Virus Expansion | 113804 | [113804-virus-expansion.json](./113804-virus-expansion.json) |
 | Virus Explosion | 119250 | [119250-virus-explosion.json](./119250-virus-explosion.json) |
 | Virus Hunter | 323002 | [323002-virus-hunter.json](./323002-virus-hunter.json) |
 | Virus Infinite | 252591 | [252591-virus-infinite.json](./252591-virus-infinite.json) |
@@ -3308,7 +3308,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision Quench | 378413 | [378413-vision-quench.json](./378413-vision-quench.json) |
 | Vision Quest: A New Ascent | 405125 | [405125-vision-quest-a-new-ascent.json](./405125-vision-quest-a-new-ascent.json) |
 | Vision Runner | 33850 | [33850-vision-runner.json](./33850-vision-runner.json) |
-| Vision Soft Reset | 113732 | [113732-vision-soft-reset.json](./113732-vision-soft-reset.json) |
 | Vision: The 5 Dimension Utopia | 50246 | [50246-vision-the-5-dimension-utopia.json](./50246-vision-the-5-dimension-utopia.json) |
 | Visionarium | 113737 | [113737-visionarium.json](./113737-visionarium.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
