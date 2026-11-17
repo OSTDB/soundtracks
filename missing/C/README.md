@@ -510,7 +510,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cakefoot | 292134 | [292134-cakefoot.json](./292134-cakefoot.json) |
 | Caketomino | 31599 | [31599-caketomino.json](./31599-caketomino.json) |
 | Cakewalk | 18537 | [18537-cakewalk.json](./18537-cakewalk.json) |
-| Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal & Bomba | 318656 | [318656-cal-and-bomba.json](./318656-cal-and-bomba.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
@@ -531,7 +530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamity | 303719 | [303719-calamity.json](./303719-calamity.json) |
 | Calamity | 313596 | [313596-calamity.json](./313596-calamity.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
-| Calamity Angels: Special Delivery | 293165 | [293165-calamity-angels-special-delivery.json](./293165-calamity-angels-special-delivery.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
 | Calamity Black Dragon and the Princess of Lies | 365199 | [365199-calamity-black-dragon-and-the-princess-of-lies.json](./365199-calamity-black-dragon-and-the-princess-of-lies.json) |
@@ -2349,7 +2347,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Capuchin | 338491 | [338491-capuchin.json](./338491-capuchin.json) |
-| Caput Mortum | 341136 | [341136-caput-mortum.json](./341136-caput-mortum.json) |
 | Capy Cakes | 398293 | [398293-capy-cakes.json](./398293-capy-cakes.json) |
 | Capy Castaway | 325171 | [325171-capy-castaway.json](./325171-capy-castaway.json) |
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
@@ -6458,7 +6455,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
 | Chainphoria | 200059 | [200059-chainphoria.json](./200059-chainphoria.json) |
 | Chains | 15781 | [15781-chains.json](./15781-chains.json) |
-| Chains of Freedom | 324581 | [324581-chains-of-freedom.json](./324581-chains-of-freedom.json) |
 | Chains of Fury | 125213 | [125213-chains-of-fury.json](./125213-chains-of-fury.json) |
 | Chains of Judgment | 295420 | [295420-chains-of-judgment.json](./295420-chains-of-judgment.json) |
 | Chains of Lukomorye | 350546 | [350546-chains-of-lukomorye.json](./350546-chains-of-lukomorye.json) |
@@ -10987,7 +10983,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
 | Cladun Returns: This is Sengoku! | 27331 | [27331-cladun-returns-this-is-sengoku.json](./27331-cladun-returns-this-is-sengoku.json) |
 | Cladun X2 | 15284 | [15284-cladun-x2.json](./15284-cladun-x2.json) |
-| Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
 | Cladun: This is an RPG | 21576 | [21576-cladun-this-is-an-rpg.json](./21576-cladun-this-is-an-rpg.json) |
 | Claim Denied | 417190 | [417190-claim-denied.json](./417190-claim-denied.json) |
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
@@ -11229,7 +11224,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes 2 | 283593 | [283593-class-of-heroes-2.json](./283593-class-of-heroes-2.json) |
 | Class of Heroes 2G | 43009 | [43009-class-of-heroes-2g.json](./43009-class-of-heroes-2g.json) |
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
-| Class of Heroes 3: Remaster | 325303 | [325303-class-of-heroes-3-remaster.json](./325303-class-of-heroes-3-remaster.json) |
 | Class of Heroes: Anniversary Edition | 220942 | [220942-class-of-heroes-anniversary-edition.json](./220942-class-of-heroes-anniversary-edition.json) |
 | Class of Heroes: The Ultimate Trilogy | 368772 | [368772-class-of-heroes-the-ultimate-trilogy.json](./368772-class-of-heroes-the-ultimate-trilogy.json) |
 | Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
@@ -13045,7 +13039,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
 | Codex Lost | 235597 | [235597-codex-lost.json](./235597-codex-lost.json) |
 | Codex Lost 2 | 387838 | [387838-codex-lost-2.json](./387838-codex-lost-2.json) |
-| Codex Mortis | 380942 | [380942-codex-mortis.json](./380942-codex-mortis.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
 | Codex: Eternal Eclipse | 305094 | [305094-codex-eternal-eclipse.json](./305094-codex-eternal-eclipse.json) |
@@ -13944,7 +13937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
 | ColorBlend FX: Desaturation | 95024 | [95024-colorblend-fx-desaturation.json](./95024-colorblend-fx-desaturation.json) |
 | Colorboration | 390884 | [390884-colorboration.json](./390884-colorboration.json) |
-| Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | Colorbox Mustard | 330035 | [330035-colorbox-mustard.json](./330035-colorbox-mustard.json) |
 | ColorClimb | 183761 | [183761-colorclimb.json](./183761-colorclimb.json) |
@@ -15289,7 +15281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concerto on White: Cajon Story - Pykamia Music Pack Vol.2 | 388969 | [388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json](./388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json) |
 | Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
 | Conchiglia | 357206 | [357206-conchiglia.json](./357206-conchiglia.json) |
-| Concierge | 359888 | [359888-concierge.json](./359888-concierge.json) |
 | Conclave | 36120 | [36120-conclave.json](./36120-conclave.json) |
 | Conclave | 80371 | [80371-conclave.json](./80371-conclave.json) |
 | Conclave: Dissension | 244086 | [244086-conclave-dissension.json](./244086-conclave-dissension.json) |
@@ -17640,7 +17631,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Plicker | 364135 | [364135-cotton-plicker.json](./364135-cotton-plicker.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
-| Cotton Reboot! High Tension! | 329840 | [329840-cotton-reboot-high-tension.json](./329840-cotton-reboot-high-tension.json) |
 | Cotton Rock 'n' Roll: 30th Anniversary - Limited Edition | 153648 | [153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json](./153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json) |
 | Cotton Rock n Roll 2 | 336949 | [336949-cotton-rock-n-roll-2.json](./336949-cotton-rock-n-roll-2.json) |
 | Cotton Rock with You: Oriental Night Dreams | 409886 | [409886-cotton-rock-with-you-oriental-night-dreams.json](./409886-cotton-rock-with-you-oriental-night-dreams.json) |
@@ -18302,7 +18292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabling | 244904 | [244904-crabling.json](./244904-crabling.json) |
 | Crabmania | 196446 | [196446-crabmania.json](./196446-crabmania.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
-| Crabmeat | 351084 | [351084-crabmeat.json](./351084-crabmeat.json) |
 | Crabrun | 423302 | [423302-crabrun.json](./423302-crabrun.json) |
 | Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
 | Crabs | 375338 | [375338-crabs.json](./375338-crabs.json) |
@@ -20198,7 +20187,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Bonk | 384795 | [384795-critter-bonk.json](./384795-critter-bonk.json) |
 | Critter Box | 397926 | [397926-critter-box.json](./397926-critter-box.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
-| Critter Café | 305075 | [305075-critter-cafe.json](./305075-critter-cafe.json) |
 | Critter Cart | 349024 | [349024-critter-cart.json](./349024-critter-cart.json) |
 | Critter Catch | 59542 | [59542-critter-catch.json](./59542-critter-catch.json) |
 | Critter Clicker | 169845 | [169845-critter-clicker.json](./169845-critter-clicker.json) |
@@ -22312,7 +22300,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Unholy Alliance | 305037 | [305037-cult-of-the-lamb-unholy-alliance.json](./305037-cult-of-the-lamb-unholy-alliance.json) |
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
-| Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
 | Cult of the Mask | 226039 | [226039-cult-of-the-mask.json](./226039-cult-of-the-mask.json) |
 | Cult of the Red Heifer | 423955 | [423955-cult-of-the-red-heifer.json](./423955-cult-of-the-red-heifer.json) |
 | Cult of the Sons | 211865 | [211865-cult-of-the-sons.json](./211865-cult-of-the-sons.json) |
@@ -23221,8 +23208,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Circuit | 60840 | [60840-cyber-circuit.json](./60840-cyber-circuit.json) |
 | Cyber Citizen Shockman | 249236 | [249236-cyber-citizen-shockman.json](./249236-cyber-citizen-shockman.json) |
 | Cyber Citizen Shockman 2: A New Menace | 266339 | [266339-cyber-citizen-shockman-2-a-new-menace.json](./266339-cyber-citizen-shockman-2-a-new-menace.json) |
-| Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
-| Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
 | Cyber City 2157 | 24535 | [24535-cyber-city-2157.json](./24535-cyber-city-2157.json) |
 | Cyber City 2157: The Visual Novel | 33214 | [33214-cyber-city-2157-the-visual-novel.json](./33214-cyber-city-2157-the-visual-novel.json) |
