@@ -823,7 +823,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball '01 | 348028 | [348028-backyard-baseball-01.json](./348028-backyard-baseball-01.json) |
 | Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
 | Backyard Baseball '10 | 6572 | [6572-backyard-baseball-10.json](./6572-backyard-baseball-10.json) |
-| Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Baseball (2003-2004) | 67805 | [67805-backyard-baseball-2003-2004.json](./67805-backyard-baseball-2003-2004.json) |
 | Backyard Baseball 2001 | 50908 | [50908-backyard-baseball-2001.json](./50908-backyard-baseball-2001.json) |
 | Backyard Baseball 2003 | 132053 | [132053-backyard-baseball-2003.json](./132053-backyard-baseball-2003.json) |
@@ -1158,7 +1157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
 | Badminton Stars! | 104276 | [104276-badminton-stars.json](./104276-badminton-stars.json) |
 | Badminton Time | 314604 | [314604-badminton-time.json](./314604-badminton-time.json) |
-| Badminton Time VR | 345967 | [345967-badminton-time-vr.json](./345967-badminton-time-vr.json) |
 | Badminton Warrior | 111116 | [111116-badminton-warrior.json](./111116-badminton-warrior.json) |
 | Badminton World | 323050 | [323050-badminton-world.json](./323050-badminton-world.json) |
 | Badnik Hunt 2 | 330115 | [330115-badnik-hunt-2.json](./330115-badnik-hunt-2.json) |
@@ -2292,7 +2290,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Simulator TD | 389945 | [389945-bandit-simulator-td.json](./389945-bandit-simulator-td.json) |
 | Bandit Six: Salvo | 338654 | [338654-bandit-six-salvo.json](./338654-bandit-six-salvo.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
-| Bandit Trap | 306417 | [306417-bandit-trap.json](./306417-bandit-trap.json) |
 | Bandits | 115164 | [115164-bandits.json](./115164-bandits.json) |
 | Bandits | 18506 | [18506-bandits.json](./18506-bandits.json) |
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
@@ -2737,7 +2734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Groom and Glam Pups | 3316 | [3316-barbie-groom-and-glam-pups.json](./3316-barbie-groom-and-glam-pups.json) |
 | Barbie: Groovy Games | 67729 | [67729-barbie-groovy-games.json](./67729-barbie-groovy-games.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
-| Barbie: Horse Trails | 359887 | [359887-barbie-horse-trails.json](./359887-barbie-horse-trails.json) |
 | Barbie: Jet, Set & Style! | 17450 | [17450-barbie-jet-set-and-style.json](./17450-barbie-jet-set-and-style.json) |
 | Barbie: Laptop Charm Tech | 294486 | [294486-barbie-laptop-charm-tech.json](./294486-barbie-laptop-charm-tech.json) |
 | Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
@@ -4696,7 +4692,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tops | 192738 | [192738-battle-tops.json](./192738-battle-tops.json) |
 | Battle Towers | 194103 | [194103-battle-towers.json](./194103-battle-towers.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
-| Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
 | Battle Traverse | 58287 | [58287-battle-traverse.json](./58287-battle-traverse.json) |
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
@@ -6667,7 +6662,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Movie: That's Un-bee-lievable | 325147 | [325147-bee-movie-thats-un-bee-lievable.json](./325147-bee-movie-thats-un-bee-lievable.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee O' Factory | 359641 | [359641-bee-o-factory.json](./359641-bee-o-factory.json) |
-| Bee Simulator: The Hive | 335301 | [335301-bee-simulator-the-hive.json](./335301-bee-simulator-the-hive.json) |
 | Bee Space | 408433 | [408433-bee-space.json](./408433-bee-space.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | Bee Welcome! | 291595 | [291595-bee-welcome.json](./291595-bee-welcome.json) |
@@ -7948,7 +7942,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Babel | 337308 | [337308-beyond-babel.json](./337308-beyond-babel.json) |
 | Beyond Beco World | 267886 | [267886-beyond-beco-world.json](./267886-beyond-beco-world.json) |
 | Beyond Belief | 195887 | [195887-beyond-belief.json](./195887-beyond-belief.json) |
-| Beyond Blue: After the Storm | 329974 | [329974-beyond-blue-after-the-storm.json](./329974-beyond-blue-after-the-storm.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
 | Beyond Castle Wolfenstein | 3032 | [3032-beyond-castle-wolfenstein.json](./3032-beyond-castle-wolfenstein.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
@@ -7999,7 +7992,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Fighting 3 | 56150 | [56150-beyond-fighting-3.json](./56150-beyond-fighting-3.json) |
 | Beyond Flesh and Blood | 18350 | [18350-beyond-flesh-and-blood.json](./18350-beyond-flesh-and-blood.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
-| Beyond Galaxyland | 296381 | [296381-beyond-galaxyland.json](./296381-beyond-galaxyland.json) |
 | Beyond Golden Coins: Wario's Conquest + SML2 Reclaimed | 316536 | [316536-beyond-golden-coins-warios-conquest-sml2-reclaimed.json](./316536-beyond-golden-coins-warios-conquest-sml2-reclaimed.json) |
 | Beyond Good & Evil 2 | 1936 | [1936-beyond-good-and-evil-2.json](./1936-beyond-good-and-evil-2.json) |
 | Beyond Good & Evil HD | 20437 | [20437-beyond-good-and-evil-hd.json](./20437-beyond-good-and-evil-hd.json) |
@@ -8162,7 +8154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
 | Beyond U | 250115 | [250115-beyond-u.json](./250115-beyond-u.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
-| Beyond Words | 375690 | [375690-beyond-words.json](./375690-beyond-words.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
 | Beyond Ynth | 39240 | [39240-beyond-ynth.json](./39240-beyond-ynth.json) |
 | Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
@@ -8562,7 +8553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Head Bash | 64331 | [64331-big-head-bash.json](./64331-big-head-bash.json) |
 | Big Head: Guess Words & Head Charades | 232196 | [232196-big-head-guess-words-and-head-charades.json](./232196-big-head-guess-words-and-head-charades.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
-| Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Helmet Heroes: Exalted Edition | 330618 | [330618-big-helmet-heroes-exalted-edition.json](./330618-big-helmet-heroes-exalted-edition.json) |
 | Big Hero 6: Battle in the Bay | 44025 | [44025-big-hero-6-battle-in-the-bay.json](./44025-big-hero-6-battle-in-the-bay.json) |
 | Big Hero 6: Bot Fight | 60832 | [60832-big-hero-6-bot-fight.json](./60832-big-hero-6-bot-fight.json) |
@@ -9480,7 +9470,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | BipBop III | 218645 | [218645-bipbop-iii.json](./218645-bipbop-iii.json) |
 | Biped | 121247 | [121247-biped.json](./121247-biped.json) |
-| Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
 | Bipgolf | 148288 | [148288-bipgolf.json](./148288-bipgolf.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
@@ -11508,7 +11497,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blights Wrath | 257834 | [257834-blights-wrath.json](./257834-blights-wrath.json) |
 | Blightseed | 369452 | [369452-blightseed.json](./369452-blightseed.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
-| Blightstone | 322863 | [322863-blightstone.json](./322863-blightstone.json) |
 | Blightveil | 375059 | [375059-blightveil.json](./375059-blightveil.json) |
 | Blightwreck | 309441 | [309441-blightwreck.json](./309441-blightwreck.json) |
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
@@ -12680,7 +12668,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood: Fresh Supply | 116539 | [116539-blood-fresh-supply.json](./116539-blood-fresh-supply.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
 | Blood: Plasma Pak | 18500 | [18500-blood-plasma-pak.json](./18500-blood-plasma-pak.json) |
-| Blood: Refreshed Supply | 370701 | [370701-blood-refreshed-supply.json](./370701-blood-refreshed-supply.json) |
 | Blood: Refreshed Supply - Death Wish | 394316 | [394316-blood-refreshed-supply-death-wish.json](./394316-blood-refreshed-supply-death-wish.json) |
 | Blood: The Last Vampire - First Volume | 65028 | [65028-blood-the-last-vampire-first-volume.json](./65028-blood-the-last-vampire-first-volume.json) |
 | Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
@@ -13099,7 +13086,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Tales 2: The Minotaur Prince | 172489 | [172489-blossom-tales-2-the-minotaur-prince.json](./172489-blossom-tales-2-the-minotaur-prince.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
-| Blossom: The Seed of Life | 370981 | [370981-blossom-the-seed-of-life.json](./370981-blossom-the-seed-of-life.json) |
 | Blossom's Bloom Boutique | 214659 | [214659-blossoms-bloom-boutique.json](./214659-blossoms-bloom-boutique.json) |
 | Blossom’s Grove: An English-learning Game | 393243 | [393243-blossom-s-grove-an-english-learning-game.json](./393243-blossom-s-grove-an-english-learning-game.json) |
 | Blossoming Ruins | 375208 | [375208-blossoming-ruins.json](./375208-blossoming-ruins.json) |
@@ -15651,7 +15637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
 | Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
-| Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Dash: Pirate's Quest | 63971 | [63971-boulder-dash-pirates-quest.json](./63971-boulder-dash-pirates-quest.json) |
 | Boulder Dash: Rocks! | 22532 | [22532-boulder-dash-rocks.json](./22532-boulder-dash-rocks.json) |
 | Boulder Dash: The Collection | 63973 | [63973-boulder-dash-the-collection.json](./63973-boulder-dash-the-collection.json) |
@@ -17437,7 +17422,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath | 141685 | [141685-breath.json](./141685-breath.json) |
 | Breath Bound | 401298 | [401298-breath-bound.json](./401298-breath-bound.json) |
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
-| Breath of Death VII: The Beginning - Reanimated | 324914 | [324914-breath-of-death-vii-the-beginning-reanimated.json](./324914-breath-of-death-vii-the-beginning-reanimated.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Fire | 11617 | [11617-breath-of-fire.json](./11617-breath-of-fire.json) |
 | Breath of Fire | 276017 | [276017-breath-of-fire.json](./276017-breath-of-fire.json) |
@@ -18801,7 +18785,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble: Lost Cave | 278230 | [278230-bubble-bobble-lost-cave.json](./278230-bubble-bobble-lost-cave.json) |
 | Bubble Bobble: Old & New | 49162 | [49162-bubble-bobble-old-and-new.json](./49162-bubble-bobble-old-and-new.json) |
 | Bubble Bobble: Return of Great Dragon | 321668 | [321668-bubble-bobble-return-of-great-dragon.json](./321668-bubble-bobble-return-of-great-dragon.json) |
-| Bubble Bobble: Sugar Dungeons | 351212 | [351212-bubble-bobble-sugar-dungeons.json](./351212-bubble-bobble-sugar-dungeons.json) |
 | Bubble Bobble: Sugar Dungeons - Deluxe Edition | 376241 | [376241-bubble-bobble-sugar-dungeons-deluxe-edition.json](./376241-bubble-bobble-sugar-dungeons-deluxe-edition.json) |
 | Bubble Bop | 245702 | [245702-bubble-bop.json](./245702-bubble-bop.json) |
 | Bubble Bounce | 133478 | [133478-bubble-bounce.json](./133478-bubble-bounce.json) |
@@ -19195,7 +19178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffet Boss: Complete Edition | 317914 | [317914-buffet-boss-complete-edition.json](./317914-buffet-boss-complete-edition.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
 | Buffet Knight | 190769 | [190769-buffet-knight.json](./190769-buffet-knight.json) |
-| Buffet Knight: Decadent Full Course | 333498 | [333498-buffet-knight-decadent-full-course.json](./333498-buffet-knight-decadent-full-course.json) |
 | Buffy Stole Your Sandwich | 72502 | [72502-buffy-stole-your-sandwich.json](./72502-buffy-stole-your-sandwich.json) |
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
