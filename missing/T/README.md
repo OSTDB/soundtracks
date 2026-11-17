@@ -3827,7 +3827,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeth of Glass | 306769 | [306769-teeth-of-glass.json](./306769-teeth-of-glass.json) |
 | Teeth Simulator | 177187 | [177187-teeth-simulator.json](./177187-teeth-simulator.json) |
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
-| Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Teeworlds | 35005 | [35005-teeworlds.json](./35005-teeworlds.json) |
 | Tegami Bachi: Kokoro Tsumugu-mono he | 269514 | [269514-tegami-bachi-kokoro-tsumugu-mono-he.json](./269514-tegami-bachi-kokoro-tsumugu-mono-he.json) |
 | Tegel's Mercenaries | 78796 | [78796-tegels-mercenaries.json](./78796-tegels-mercenaries.json) |
@@ -4098,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telos Legacy | 229187 | [229187-telos-legacy.json](./229187-telos-legacy.json) |
 | Telos Pragmaton | 207442 | [207442-telos-pragmaton.json](./207442-telos-pragmaton.json) |
 | Telstar Double Value Games: Pit-Fighter/Wrestle War | 64094 | [64094-telstar-double-value-games-pit-fighter-wrestle-war.json](./64094-telstar-double-value-games-pit-fighter-wrestle-war.json) |
+| Telstar Double Value Games: System Shock and Space Hulk | 138308 | [138308-telstar-double-value-games-system-shock-and-space-hulk.json](./138308-telstar-double-value-games-system-shock-and-space-hulk.json) |
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
 | Telvoikai | 279909 | [279909-telvoikai.json](./279909-telvoikai.json) |
 | Temanava | 236768 | [236768-temanava.json](./236768-temanava.json) |
@@ -5306,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Dummy Takedown | 345961 | [345961-test-dummy-takedown.json](./345961-test-dummy-takedown.json) |
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test Match + One Day Cricket | 79465 | [79465-test-match-one-day-cricket.json](./79465-test-match-one-day-cricket.json) |
+| Test of Courage | 139513 | [139513-test-of-courage.json](./139513-test-of-courage.json) |
 | Test of Fear | 350945 | [350945-test-of-fear.json](./350945-test-of-fear.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Subject | 325984 | [325984-test-subject.json](./325984-test-subject.json) |
@@ -9759,7 +9760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
 | The Elder Scrolls Online: Firesong | 237340 | [237340-the-elder-scrolls-online-firesong.json](./237340-the-elder-scrolls-online-firesong.json) |
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
-| The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: Greymoor - Collector's Edition | 128765 | [128765-the-elder-scrolls-online-greymoor-collectors-edition.json](./128765-the-elder-scrolls-online-greymoor-collectors-edition.json) |
 | The Elder Scrolls Online: Harrowstorm | 128443 | [128443-the-elder-scrolls-online-harrowstorm.json](./128443-the-elder-scrolls-online-harrowstorm.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
@@ -22708,7 +22708,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrall | 270357 | [270357-thrall.json](./270357-thrall.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
-| Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
 | Thrasher Presents: Skate and Destroy | 264851 | [264851-thrasher-presents-skate-and-destroy.json](./264851-thrasher-presents-skate-and-destroy.json) |
 | Thrasher Presents: Skate and Destroy | 44916 | [44916-thrasher-presents-skate-and-destroy.json](./44916-thrasher-presents-skate-and-destroy.json) |
 | Thrateon | 359095 | [359095-thrateon.json](./359095-thrateon.json) |
