@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veiled | 172509 | [172509-veiled.json](./172509-veiled.json) |
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
+| Veiled Experts | 182414 | [182414-veiled-experts.json](./182414-veiled-experts.json) |
 | Veiled Skies | 286954 | [286954-veiled-skies.json](./286954-veiled-skies.json) |
 | Veiled Vents | 395319 | [395319-veiled-vents.json](./395319-veiled-vents.json) |
 | Veilfall: True Strength | 333066 | [333066-veilfall-true-strength.json](./333066-veilfall-true-strength.json) |
