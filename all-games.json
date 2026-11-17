@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T09:36:35.861Z",
-  "total_soundtracks": 3708,
+  "generated_at": "2026-11-17T09:56:25.988Z",
+  "total_soundtracks": 3725,
   "games": [
     {
       "igdb_id": 292844,
@@ -1323,6 +1323,20 @@
         {
           "album_name": "Akane (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/09lypP3enGf4kAmYEOU8Ur",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 119480,
+      "game_name": "Akash: Path of the Five",
+      "game_url": "https://ostdb.net/games/akash-path-of-the-five",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b9496875918fe6fe25669ec9",
+      "albums": [
+        {
+          "album_name": "Akash: Path of the Five (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7JZdlxn6O9ADeZArRCtJ5u",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4549,6 +4563,20 @@
         {
           "album_name": "Berserk Boy Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6T3cg7TCXXi6MJZ9ILhLhu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121749,
+      "game_name": "Best Friend Forever",
+      "game_url": "https://ostdb.net/games/best-friend-forever",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733de30f115130781602fab75b",
+      "albums": [
+        {
+          "album_name": "Best Friend Forever (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4xicGQgfJbpb39Jv7GVxKT",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -9009,6 +9037,20 @@
         {
           "album_name": "DARIUSBURST CHRONICLE SAVIOURS ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/13ElXUoyXJkOUlUwLVITzf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121588,
+      "game_name": "Dark Envoy",
+      "game_url": "https://ostdb.net/games/dark-envoy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aa25b20a4b6d2ae79044f055",
+      "albums": [
+        {
+          "album_name": "Dark Envoy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6il6Ntqv3tMvjGMyG9GKta",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -15075,6 +15117,20 @@
       ]
     },
     {
+      "igdb_id": 120083,
+      "game_name": "Forgetful Dictator",
+      "game_url": "https://ostdb.net/games/forgetful-dictator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27307bb5473a2140acc814ab602",
+      "albums": [
+        {
+          "album_name": "Forgetful Dictator (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6dvqSXpLcRG7hsj3Jscor8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 24426,
       "game_name": "Forgotton Anne",
       "game_url": "https://ostdb.net/games/forgotton-anne",
@@ -19705,6 +19761,20 @@
         {
           "album_name": "Impaler Gold (Original Game Soundtrack) Remastered",
           "spotify_url": "https://open.spotify.com/album/6IN3qFQEdO9ltnbCYFTwEe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115862,
+      "game_name": "In Nightmare",
+      "game_url": "https://ostdb.net/games/in-nightmare",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c84b7fec14b8d0a83efaad86",
+      "albums": [
+        {
+          "album_name": "In Nightmare (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ALQKq2427OcF2yabWOsIb",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24833,6 +24903,20 @@
       ]
     },
     {
+      "igdb_id": 120024,
+      "game_name": "MicroTown",
+      "game_url": "https://ostdb.net/games/microtown",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733f834f60923ef6dc09a5027a",
+      "albums": [
+        {
+          "album_name": "MicroTown (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Je6Ex5MKU5FncViJl3CvU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3025,
       "game_name": "Middle-earth: Shadow of Mordor",
       "game_url": "https://ostdb.net/games/middle-earth-shadow-of-mordor",
@@ -27551,6 +27635,20 @@
       ]
     },
     {
+      "igdb_id": 118205,
+      "game_name": "Obey Me",
+      "game_url": "https://ostdb.net/games/obey-me",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733363eeea70580a2554e4fc0a",
+      "albums": [
+        {
+          "album_name": "Obey Me (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1QgcqeohsI11gNnlGqaILU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 18082,
       "game_name": "Obliteracers",
       "game_url": "https://ostdb.net/games/obliteracers",
@@ -27657,6 +27755,20 @@
         {
           "album_name": "Odium to the Core (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7BdPfNbpO245MrBwN9ZFwl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117848,
+      "game_name": "Of Bird and Cage",
+      "game_url": "https://ostdb.net/games/of-bird-and-cage",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732b46eaaed635a274c97c68db",
+      "albums": [
+        {
+          "album_name": "Of Bird and Cage (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6s2ksQ9v6Dkm9Ro8LcesnD",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28363,6 +28475,20 @@
       ]
     },
     {
+      "igdb_id": 116659,
+      "game_name": "Overcooked! 2: Campfire Cook Off",
+      "game_url": "https://ostdb.net/games/overcooked-2-campfire-cook-off",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d4be06ee0f0daca61d4bb777",
+      "albums": [
+        {
+          "album_name": "Overcooked! 2: Campfire Cook Off Soundtrack (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7vBrYcinXwnNMCHZQdXON7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 122083,
       "game_name": "Overcooked! 2: Carnival of Chaos",
       "game_url": "https://ostdb.net/games/overcooked-2-carnival-of-chaos",
@@ -28371,6 +28497,20 @@
         {
           "album_name": "Overcooked! 2: Carnival of Chaos (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3QmgZb7LhFJUNaBa5C8bM6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120177,
+      "game_name": "Overcooked! 2: Night of the Hangry Horde",
+      "game_url": "https://ostdb.net/games/overcooked-2-night-of-the-hangry-horde",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a018abacf700de9aa36bf0d6",
+      "albums": [
+        {
+          "album_name": "Overcooked! 2: Night of the Hangry Horde Soundtrack (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/35PJMy5zRKNrbfD7bmzSp6",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31043,6 +31183,20 @@
       ]
     },
     {
+      "igdb_id": 119401,
+      "game_name": "Read Only Memories: Neurodiver",
+      "game_url": "https://ostdb.net/games/read-only-memories-neurodiver",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d4c890a50055d17d5a29c52b",
+      "albums": [
+        {
+          "album_name": "Read Only Memories: NEURODIVER (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Tys21i5JHGm0TxM89bWu9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28489,
       "game_name": "Ready or Not",
       "game_url": "https://ostdb.net/games/ready-or-not",
@@ -32415,6 +32569,20 @@
       ]
     },
     {
+      "igdb_id": 117897,
+      "game_name": "Ritual: Crown of Horns",
+      "game_url": "https://ostdb.net/games/ritual-crown-of-horns",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737504f918b629dc29d9520163",
+      "albums": [
+        {
+          "album_name": "Ritual: Crown of Horns (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5IyP3DWJrD8ZMJFbcpCLBP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 90783,
       "game_name": "Rival Megagun",
       "game_url": "https://ostdb.net/games/rival-megagun",
@@ -33717,6 +33885,20 @@
         {
           "album_name": "Sektori (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/54051ljVRlyTs0bc9OhmlV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 118622,
+      "game_name": "Selfloss",
+      "game_url": "https://ostdb.net/games/selfloss",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b76e7cd30d2f63c7a2d85dd",
+      "albums": [
+        {
+          "album_name": "Selfloss (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2U6RtqtBHI2CD4KbPqvw0j",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -38175,6 +38357,20 @@
         {
           "album_name": "Super Dodge Ball Soundtrack: Dodge This! (Extended)",
           "spotify_url": "https://open.spotify.com/album/2GmlDfMFDym9f5muSXw2qe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121451,
+      "game_name": "Super Dodgeball Beats",
+      "game_url": "https://ostdb.net/games/super-dodgeball-beats",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737ca849d45c383f849216d6d2",
+      "albums": [
+        {
+          "album_name": "Super Dodgeball Beats (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2e8CXAGsxUlPZqQxYVvnHS",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -44457,6 +44653,20 @@
       ]
     },
     {
+      "igdb_id": 118284,
+      "game_name": "Unfamiliar",
+      "game_url": "https://ostdb.net/games/unfamiliar",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ccd3d063cfe5b7392d3164e9",
+      "albums": [
+        {
+          "album_name": "Unfamiliar (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5YqH31tfSiVOGtshh0Hz9A",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 75496,
       "game_name": "Unforgiving - A Northern Hymn",
       "game_url": "https://ostdb.net/games/unforgiving-a-northern-hymn",
@@ -44513,6 +44723,20 @@
         {
           "album_name": "Unit 13 (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2KqWf43wfVkMZcOGCWgDhu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115667,
+      "game_name": "Unity of Command II",
+      "game_url": "https://ostdb.net/games/unity-of-command-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c7a9763a706fa59b2cb09651",
+      "albums": [
+        {
+          "album_name": "Unity of Command II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/56rLUWlgBsntWTce9235o4",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -45153,6 +45377,20 @@
         {
           "album_name": "Verlet Swing (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/08GFmzsPoLloeG2t99oLyX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120529,
+      "game_name": "Vertigo 2",
+      "game_url": "https://ostdb.net/games/vertigo-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b7f743dae6af727bd4ded573",
+      "albums": [
+        {
+          "album_name": "Vertigo 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1zpBSaPfIRMviZlROYbwab",
           "apple_music_url": "",
           "album_link_url": ""
         }
