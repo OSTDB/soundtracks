@@ -10299,6 +10299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Knight Sword | 19913 | [19913-black-knight-sword.json](./19913-black-knight-sword.json) |
 | Black Knight: Marine Strike Fighter | 71051 | [71051-black-knight-marine-strike-fighter.json](./71051-black-knight-marine-strike-fighter.json) |
 | Black Knight: Milena | 171335 | [171335-black-knight-milena.json](./171335-black-knight-milena.json) |
+| Black Knight: Sword of Rage | 124300 | [124300-black-knight-sword-of-rage.json](./124300-black-knight-sword-of-rage.json) |
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
 | Black Lake | 63763 | [63763-black-lake.json](./63763-black-lake.json) |
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
@@ -10771,6 +10772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Arts: Tasogare no Miyako R'lyeh | 43855 | [43855-blade-arts-tasogare-no-miyako-rlyeh.json](./43855-blade-arts-tasogare-no-miyako-rlyeh.json) |
 | Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
 | Blade Assault: Launch Edition | 289354 | [289354-blade-assault-launch-edition.json](./289354-blade-assault-launch-edition.json) |
+| Blade Attack | 126686 | [126686-blade-attack.json](./126686-blade-attack.json) |
 | Blade Ballet | 22430 | [22430-blade-ballet.json](./22430-blade-ballet.json) |
 | Blade Ballet: Turntable Edition | 52659 | [52659-blade-ballet-turntable-edition.json](./52659-blade-ballet-turntable-edition.json) |
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
@@ -14725,6 +14727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonsai | 33529 | [33529-bonsai.json](./33529-bonsai.json) |
 | Bonsai Blast | 65235 | [65235-bonsai-blast.json](./65235-bonsai-blast.json) |
 | Bonsai Calendar | 142859 | [142859-bonsai-calendar.json](./142859-bonsai-calendar.json) |
+| Bonsai Castles | 126684 | [126684-bonsai-castles.json](./126684-bonsai-castles.json) |
 | Bontãgo | 93086 | [93086-bontago.json](./93086-bontago.json) |
 | Bonus Mania Slots Vol. 3 | 24457 | [24457-bonus-mania-slots-vol-3.json](./24457-bonus-mania-slots-vol-3.json) |
 | Bonus Mania Slots Vol.5 | 25481 | [25481-bonus-mania-slots-vol-5.json](./25481-bonus-mania-slots-vol-5.json) |
@@ -17356,6 +17359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakneck | 33751 | [33751-breakneck.json](./33751-breakneck.json) |
 | Breakneck | 78593 | [78593-breakneck.json](./78593-breakneck.json) |
 | Breakneck City | 127730 | [127730-breakneck-city.json](./127730-breakneck-city.json) |
+| Breakneck: Emergence | 123102 | [123102-breakneck-emergence.json](./123102-breakneck-emergence.json) |
 | Breakout | 140838 | [140838-breakout.json](./140838-breakout.json) |
 | Breakout | 227733 | [227733-breakout.json](./227733-breakout.json) |
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
@@ -18158,6 +18162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Dagger | 399967 | [399967-broken-dagger.json](./399967-broken-dagger.json) |
 | Broken Darwin | 124659 | [124659-broken-darwin.json](./124659-broken-darwin.json) |
 | Broken Dawn II | 175669 | [175669-broken-dawn-ii.json](./175669-broken-dawn-ii.json) |
+| Broken Delusion | 124287 | [124287-broken-delusion.json](./124287-broken-delusion.json) |
 | Broken Depths RPG | 412898 | [412898-broken-depths-rpg.json](./412898-broken-depths-rpg.json) |
 | Broken Dimensions | 212599 | [212599-broken-dimensions.json](./212599-broken-dimensions.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
@@ -19944,6 +19949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundle | 328983 | [328983-bundle.json](./328983-bundle.json) |
 | Bundle Cats + Dog | 199886 | [199886-bundle-cats-dog.json](./199886-bundle-cats-dog.json) |
 | Bundle Epopeia Puzzle Games | 164722 | [164722-bundle-epopeia-puzzle-games.json](./164722-bundle-epopeia-puzzle-games.json) |
+| Bundle Kitt | 126680 | [126680-bundle-kitt.json](./126680-bundle-kitt.json) |
 | Bundle of Joy | 317526 | [317526-bundle-of-joy.json](./317526-bundle-of-joy.json) |
 | Bundle with 19 Games | 390903 | [390903-bundle-with-19-games.json](./390903-bundle-with-19-games.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
