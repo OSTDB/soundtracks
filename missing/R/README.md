@@ -14893,6 +14893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RYBot | 280381 | [280381-rybot.json](./280381-rybot.json) |
 | Ryceam | 262387 | [262387-ryceam.json](./262387-ryceam.json) |
 | Ryclaw: Hope | 211748 | [211748-ryclaw-hope.json](./211748-ryclaw-hope.json) |
+| Ryclaw: Save Yourself | 187426 | [187426-ryclaw-save-yourself.json](./187426-ryclaw-save-yourself.json) |
 | Ryder | 335293 | [335293-ryder.json](./335293-ryder.json) |
 | Ryder Cup: Johnnie Walker | 281279 | [281279-ryder-cup-johnnie-walker.json](./281279-ryder-cup-johnnie-walker.json) |
 | Ryewood Town | 219661 | [219661-ryewood-town.json](./219661-ryewood-town.json) |
