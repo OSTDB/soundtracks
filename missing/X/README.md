@@ -759,7 +759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenospore | 312524 | [312524-xenospore.json](./312524-xenospore.json) |
 | Xenostar | 73192 | [73192-xenostar.json](./73192-xenostar.json) |
 | Xenoterrestrial | 270532 | [270532-xenoterrestrial.json](./270532-xenoterrestrial.json) |
-| Xenotilt: Hostile Pinball Action | 233872 | [233872-xenotilt-hostile-pinball-action.json](./233872-xenotilt-hostile-pinball-action.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | XenoTrigger | 183336 | [183336-xenotrigger.json](./183336-xenotrigger.json) |
 | Xenotype | 156966 | [156966-xenotype.json](./156966-xenotype.json) |
@@ -1043,6 +1042,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
 | Xplore Health | 60391 | [60391-xplore-health.json](./60391-xplore-health.json) |
 | Xplorite | 364273 | [364273-xplorite.json](./364273-xplorite.json) |
+| Xplosiv Collection Volume 2 - Racing | 138298 | [138298-xplosiv-collection-volume-2-racing.json](./138298-xplosiv-collection-volume-2-racing.json) |
+| Xplosiv Collection Volume 3 - Simulation | 138299 | [138299-xplosiv-collection-volume-3-simulation.json](./138299-xplosiv-collection-volume-3-simulation.json) |
 | Xplosiv Top Ten | 94285 | [94285-xplosiv-top-ten.json](./94285-xplosiv-top-ten.json) |
 | Xplosiv Top Ten: Second Edition | 73169 | [73169-xplosiv-top-ten-second-edition.json](./73169-xplosiv-top-ten-second-edition.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
