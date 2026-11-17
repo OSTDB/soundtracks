@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
 | Dark | 2111 | [2111-dark.json](./2111-dark.json) |
 | Dark | 380231 | [380231-dark.json](./380231-dark.json) |
+| Dark | 85672 | [85672-dark.json](./85672-dark.json) |
 | Dark & Cold: A Bitsy game | 176605 | [176605-dark-and-cold-a-bitsy-game.json](./176605-dark-and-cold-a-bitsy-game.json) |
 | Dark & Quispy | 303457 | [303457-dark-and-quispy.json](./303457-dark-and-quispy.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
@@ -6032,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Hunger | 390443 | [390443-deep-hunger.json](./390443-deep-hunger.json) |
 | Deep Hunters | 247564 | [247564-deep-hunters.json](./247564-deep-hunters.json) |
 | Deep II: The Center of the Earth | 69793 | [69793-deep-ii-the-center-of-the-earth.json](./69793-deep-ii-the-center-of-the-earth.json) |
+| Deep Immersion | 87698 | [87698-deep-immersion.json](./87698-deep-immersion.json) |
 | Deep in Brixen Space | 140585 | [140585-deep-in-brixen-space.json](./140585-deep-in-brixen-space.json) |
 | Deep in hell | 185448 | [185448-deep-in-hell.json](./185448-deep-in-hell.json) |
 | Deep in the Dark | 420347 | [420347-deep-in-the-dark.json](./420347-deep-in-the-dark.json) |
@@ -10448,6 +10450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Pendulum Ver.20th | 276079 | [276079-digimon-pendulum-ver-20th.json](./276079-digimon-pendulum-ver-20th.json) |
 | Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
 | Digimon Racing | 6376 | [6376-digimon-racing.json](./6376-digimon-racing.json) |
+| Digimon ReArise | 85664 | [85664-digimon-rearise.json](./85664-digimon-rearise.json) |
 | Digimon Rumble Arena | 4133 | [4133-digimon-rumble-arena.json](./4133-digimon-rumble-arena.json) |
 | Digimon Rumble Arena 2 | 3877 | [3877-digimon-rumble-arena-2.json](./3877-digimon-rumble-arena-2.json) |
 | Digimon Soul Chaser | 59178 | [59178-digimon-soul-chaser.json](./59178-digimon-soul-chaser.json) |
@@ -17584,6 +17587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
 | Dragons Legacy | 291804 | [291804-dragons-legacy.json](./291804-dragons-legacy.json) |
 | Dragons Legacy: Monsters Lair | 342379 | [342379-dragons-legacy-monsters-lair.json](./342379-dragons-legacy-monsters-lair.json) |
+| Dragons Never Cry | 87755 | [87755-dragons-never-cry.json](./87755-dragons-never-cry.json) |
 | Dragons of 1066 | 370585 | [370585-dragons-of-1066.json](./370585-dragons-of-1066.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
@@ -18575,6 +18579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Amelia | 344881 | [344881-dreams-of-amelia.json](./344881-dreams-of-amelia.json) |
 | Dreams of an Exile | 148306 | [148306-dreams-of-an-exile.json](./148306-dreams-of-an-exile.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
+| Dreams of Dali | 87756 | [87756-dreams-of-dali.json](./87756-dreams-of-dali.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
 | Dreams of Desire | 140110 | [140110-dreams-of-desire.json](./140110-dreams-of-desire.json) |
 | Dreams of Fear | 124880 | [124880-dreams-of-fear.json](./124880-dreams-of-fear.json) |
