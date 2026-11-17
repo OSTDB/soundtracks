@@ -8361,6 +8361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NUC: After the Blast | 170583 | [170583-nuc-after-the-blast.json](./170583-nuc-after-the-blast.json) |
 | Nuclear 2050 | 90269 | [90269-nuclear-2050.json](./90269-nuclear-2050.json) |
 | Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
+| Nuclear Apocalypse Merchant Simulator | 421107 | [421107-nuclear-apocalypse-merchant-simulator.json](./421107-nuclear-apocalypse-merchant-simulator.json) |
 | Nuclear Arena | 231585 | [231585-nuclear-arena.json](./231585-nuclear-arena.json) |
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
 | Nuclear Assault | 188846 | [188846-nuclear-assault.json](./188846-nuclear-assault.json) |
