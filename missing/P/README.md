@@ -17757,6 +17757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bad Apple's AP400 | 411112 | [411112-project-bad-apples-ap400.json](./411112-project-bad-apples-ap400.json) |
 | Project Baiten | 183816 | [183816-project-baiten.json](./183816-project-baiten.json) |
 | Project Bard | 174680 | [174680-project-bard.json](./174680-project-bard.json) |
+| Project Bassa | 98075 | [98075-project-bassa.json](./98075-project-bassa.json) |
 | Project Battle | 37378 | [37378-project-battle.json](./37378-project-battle.json) |
 | Project Battle (working title) | 131440 | [131440-project-battle-working-title.json](./131440-project-battle-working-title.json) |
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
