@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Crete | 25327 | [25327-labyrinth-of-crete.json](./25327-labyrinth-of-crete.json) |
 | Labyrinth of death | 191177 | [191177-labyrinth-of-death.json](./191177-labyrinth-of-death.json) |
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
+| Labyrinth of Galleria: Coven of Dusk - Limited Edition | 166257 | [166257-labyrinth-of-galleria-coven-of-dusk-limited-edition.json](./166257-labyrinth-of-galleria-coven-of-dusk-limited-edition.json) |
 | Labyrinth of Galleria: The Moon Society | 126008 | [126008-labyrinth-of-galleria-the-moon-society.json](./126008-labyrinth-of-galleria-the-moon-society.json) |
 | Labyrinth of Galleria: The Moon Society - Great Boots Quest | 232466 | [232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json](./232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
@@ -1085,7 +1086,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lar | 281336 | [281336-lar.json](./281336-lar.json) |
 | Lara at the Movies: Blood from the Mummy's Tomb | 315558 | [315558-lara-at-the-movies-blood-from-the-mummys-tomb.json](./315558-lara-at-the-movies-blood-from-the-mummys-tomb.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
+| Lara Croft and the Guardian of Light: All the Trappings - Challenge Pack 1 | 168450 | [168450-lara-croft-and-the-guardian-of-light-all-the-trappings-challenge-pack-1.json](./168450-lara-croft-and-the-guardian-of-light-all-the-trappings-challenge-pack-1.json) |
+| Lara Croft and the Guardian of Light: Hazardous Reunion - Challenge Pack 3 | 168452 | [168452-lara-croft-and-the-guardian-of-light-hazardous-reunion-challenge-pack-3.json](./168452-lara-croft-and-the-guardian-of-light-hazardous-reunion-challenge-pack-3.json) |
 | Lara Croft and the Guardian of Light: Raziel and Kain Character Pack | 168453 | [168453-lara-croft-and-the-guardian-of-light-raziel-and-kain-character-pack.json](./168453-lara-croft-and-the-guardian-of-light-raziel-and-kain-character-pack.json) |
+| Lara Croft and the Guardian of Light: Things that Go Boom - Challenge Pack 2 | 168451 | [168451-lara-croft-and-the-guardian-of-light-things-that-go-boom-challenge-pack-2.json](./168451-lara-croft-and-the-guardian-of-light-things-that-go-boom-challenge-pack-2.json) |
 | Lara Croft and the Temple of Osiris | 7325 | [7325-lara-croft-and-the-temple-of-osiris.json](./7325-lara-croft-and-the-temple-of-osiris.json) |
 | Lara Croft and the Temple of Osiris: Deus Ex Pack | 226870 | [226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json](./226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json) |
 | Lara Croft and the Temple of Osiris: Gold Edition | 42930 | [42930-lara-croft-and-the-temple-of-osiris-gold-edition.json](./42930-lara-croft-and-the-temple-of-osiris-gold-edition.json) |
@@ -1508,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Guardian 2: Yomi no Fuuin | 376153 | [376153-last-guardian-2-yomi-no-fuuin.json](./376153-last-guardian-2-yomi-no-fuuin.json) |
 | Last Guardian: Juukyou no Shugosha | 376151 | [376151-last-guardian-juukyou-no-shugosha.json](./376151-last-guardian-juukyou-no-shugosha.json) |
 | Last Guest | 346778 | [346778-last-guest.json](./346778-last-guest.json) |
+| Last Half of Darkness | 170050 | [170050-last-half-of-darkness.json](./170050-last-half-of-darkness.json) |
 | Last Half of Darkness | 312756 | [312756-last-half-of-darkness.json](./312756-last-half-of-darkness.json) |
 | Last Half of Darkness | 80604 | [80604-last-half-of-darkness.json](./80604-last-half-of-darkness.json) |
 | Last Half of Darkness 3 | 65483 | [65483-last-half-of-darkness-3.json](./65483-last-half-of-darkness-3.json) |
@@ -3096,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the River King GBC | 20515 | [20515-legend-of-the-river-king-gbc.json](./20515-legend-of-the-river-king-gbc.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
 | Legend of the Silver Fox | 182734 | [182734-legend-of-the-silver-fox.json](./182734-legend-of-the-silver-fox.json) |
+| Legend of the Silver Talisman | 170053 | [170053-legend-of-the-silver-talisman.json](./170053-legend-of-the-silver-talisman.json) |
 | Legend of the Skyfish | 27604 | [27604-legend-of-the-skyfish.json](./27604-legend-of-the-skyfish.json) |
 | Legend of the Skyfish 2 | 94965 | [94965-legend-of-the-skyfish-2.json](./94965-legend-of-the-skyfish-2.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
@@ -3311,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Monsters | 386908 | [386908-legends-of-monsters.json](./386908-legends-of-monsters.json) |
 | Legends of Murder Collection | 173181 | [173181-legends-of-murder-collection.json](./173181-legends-of-murder-collection.json) |
 | Legends of Murder II: Grey Haven | 68736 | [68736-legends-of-murder-ii-grey-haven.json](./68736-legends-of-murder-ii-grey-haven.json) |
+| Legends of Murder: Volume 1 - Stonedale Castle | 170058 | [170058-legends-of-murder-volume-1-stonedale-castle.json](./170058-legends-of-murder-volume-1-stonedale-castle.json) |
 | Legends of Mythology | 263799 | [263799-legends-of-mythology.json](./263799-legends-of-mythology.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Norrath: Ethernauts | 209412 | [209412-legends-of-norrath-ethernauts.json](./209412-legends-of-norrath-ethernauts.json) |
@@ -5949,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Limestone | 322057 | [322057-limestone.json](./322057-limestone.json) |
+| Limey Lizard: Waste Wizard! | 170060 | [170060-limey-lizard-waste-wizard.json](./170060-limey-lizard-waste-wizard.json) |
 | Liminal | 105106 | [105106-liminal.json](./105106-liminal.json) |
 | Liminal | 220391 | [220391-liminal.json](./220391-liminal.json) |
 | Liminal | 344277 | [344277-liminal.json](./344277-liminal.json) |
