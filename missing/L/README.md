@@ -4573,6 +4573,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
 | Letter Challenge | 85252 | [85252-letter-challenge.json](./85252-letter-challenge.json) |
 | Letter Club | 232480 | [232480-letter-club.json](./232480-letter-club.json) |
+| Letter Drop | 67574 | [67574-letter-drop.json](./67574-letter-drop.json) |
+| Letter Drop 2 | 67573 | [67573-letter-drop-2.json](./67573-letter-drop-2.json) |
 | Letter Factory | 230383 | [230383-letter-factory.json](./230383-letter-factory.json) |
 | Letter Factory Adventures: The Letter Machine Rescue Team | 230326 | [230326-letter-factory-adventures-the-letter-machine-rescue-team.json](./230326-letter-factory-adventures-the-letter-machine-rescue-team.json) |
 | Letter Factory Adventures: The Rainforest | 230385 | [230385-letter-factory-adventures-the-rainforest.json](./230385-letter-factory-adventures-the-rainforest.json) |
@@ -7235,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop Digital Pets | 270440 | [270440-littlest-pet-shop-digital-pets.json](./270440-littlest-pet-shop-digital-pets.json) |
 | Littlest Pet Shop Friends | 50676 | [50676-littlest-pet-shop-friends.json](./50676-littlest-pet-shop-friends.json) |
 | Littlest Pet Shop Online | 91432 | [91432-littlest-pet-shop-online.json](./91432-littlest-pet-shop-online.json) |
+| Littlest Pet Shop: Beach Friends | 67572 | [67572-littlest-pet-shop-beach-friends.json](./67572-littlest-pet-shop-beach-friends.json) |
 | Littlest Pet Shop: Biggest Adventure | 254485 | [254485-littlest-pet-shop-biggest-adventure.json](./254485-littlest-pet-shop-biggest-adventure.json) |
 | Littlest Pet Shop: City Friends | 48022 | [48022-littlest-pet-shop-city-friends.json](./48022-littlest-pet-shop-city-friends.json) |
 | Littlest Pet Shop: Country Friends | 48021 | [48021-littlest-pet-shop-country-friends.json](./48021-littlest-pet-shop-country-friends.json) |
@@ -11024,6 +11027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines: Advanced Pack | 93825 | [93825-lumines-advanced-pack.json](./93825-lumines-advanced-pack.json) |
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
+| Lumines: Touch Fusion | 67577 | [67577-lumines-touch-fusion.json](./67577-lumines-touch-fusion.json) |
 | Luminesca | 53289 | [53289-luminesca.json](./53289-luminesca.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminescence | 343594 | [343594-luminescence.json](./343594-luminescence.json) |
