@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EdgeLords | 382088 | [382088-edgelords.json](./382088-edgelords.json) |
 | EdgeRunner | 244316 | [244316-edgerunner.json](./244316-edgerunner.json) |
 | Edges 2 | 53095 | [53095-edges-2.json](./53095-edges-2.json) |
+| Edgy | 177597 | [177597-edgy.json](./177597-edgy.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
 | Edict | 331043 | [331043-edict.json](./331043-edict.json) |
@@ -8526,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exapunks | 106122 | [106122-exapunks.json](./106122-exapunks.json) |
 | Exapunks: TEC Redshift Player | 110555 | [110555-exapunks-tec-redshift-player.json](./110555-exapunks-tec-redshift-player.json) |
 | ExaSkeleton | 63019 | [63019-exaskeleton.json](./63019-exaskeleton.json) |
+| Exastra: Adastra Fan Sequel | 178693 | [178693-exastra-adastra-fan-sequel.json](./178693-exastra-adastra-fan-sequel.json) |
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Exaverse | 397601 | [397601-exaverse.json](./397601-exaverse.json) |
 | Exc. Reigai Jishou Kanshikyoku | 405018 | [405018-exc-reigai-jishou-kanshikyoku.json](./405018-exc-reigai-jishou-kanshikyoku.json) |
