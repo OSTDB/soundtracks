@@ -12540,7 +12540,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ino Chronicles: Ascension | 75017 | [75017-the-ino-chronicles-ascension.json](./75017-the-ino-chronicles-ascension.json) |
 | The Inpatient | 37089 | [37089-the-inpatient.json](./37089-the-inpatient.json) |
 | The Inquisition: Legacy | 228922 | [228922-the-inquisition-legacy.json](./228922-the-inquisition-legacy.json) |
-| The Inquisitor | 202718 | [202718-the-inquisitor.json](./202718-the-inquisitor.json) |
 | The Inquisitor | 83820 | [83820-the-inquisitor.json](./83820-the-inquisitor.json) |
 | The Inquisitor 3D | 202846 | [202846-the-inquisitor-3d.json](./202846-the-inquisitor-3d.json) |
 | The Inquisitor: Book 1 - The Plague | 17089 | [17089-the-inquisitor-book-1-the-plague.json](./17089-the-inquisitor-book-1-the-plague.json) |
