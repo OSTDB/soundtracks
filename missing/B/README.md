@@ -4875,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
 | Battlefield: Bad Company 2 Ultimate Edition | 41892 | [41892-battlefield-bad-company-2-ultimate-edition.json](./41892-battlefield-bad-company-2-ultimate-edition.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
+| Battlefield: Bad Company 3 | 78110 | [78110-battlefield-bad-company-3.json](./78110-battlefield-bad-company-3.json) |
 | Battlefield: Galactic Conquest | 377641 | [377641-battlefield-galactic-conquest.json](./377641-battlefield-galactic-conquest.json) |
 | BattlefieldCars | 188753 | [188753-battlefieldcars.json](./188753-battlefieldcars.json) |
 | Battlefish: Free Zombie Games | 39766 | [39766-battlefish-free-zombie-games.json](./39766-battlefish-free-zombie-games.json) |
@@ -7426,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beniiro Tenjyo Ayakashi Kitan Futaai | 145091 | [145091-beniiro-tenjyo-ayakashi-kitan-futaai.json](./145091-beniiro-tenjyo-ayakashi-kitan-futaai.json) |
 | Benjamin Blümchen: Das Große Zoofest | 220789 | [220789-benjamin-blumchen-das-gro-e-zoofest.json](./220789-benjamin-blumchen-das-gro-e-zoofest.json) |
 | Benjamin Blumchen: Ein Tag im Zoo | 187076 | [187076-benjamin-blumchen-ein-tag-im-zoo.json](./187076-benjamin-blumchen-ein-tag-im-zoo.json) |
+| Benjamin Blümchen: Ein verrückter Tag Im Zoo | 78109 | [78109-benjamin-blumchen-ein-verruckter-tag-im-zoo.json](./78109-benjamin-blumchen-ein-verruckter-tag-im-zoo.json) |
 | Benjamin Blumchen: Torooo im Zoo | 187077 | [187077-benjamin-blumchen-torooo-im-zoo.json](./187077-benjamin-blumchen-torooo-im-zoo.json) |
 | Benjamin Johnson | 90534 | [90534-benjamin-johnson.json](./90534-benjamin-johnson.json) |
 | Benjamin of Blackstone Edge | 134892 | [134892-benjamin-of-blackstone-edge.json](./134892-benjamin-of-blackstone-edge.json) |
@@ -11278,6 +11280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze the Cat in Sonic the Hedgehog | 203483 | [203483-blaze-the-cat-in-sonic-the-hedgehog.json](./203483-blaze-the-cat-in-sonic-the-hedgehog.json) |
 | Blaze Union + Knights in the Nightmare Remastered Collection | 410803 | [410803-blaze-union-knights-in-the-nightmare-remastered-collection.json](./410803-blaze-union-knights-in-the-nightmare-remastered-collection.json) |
 | Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
+| Blaze Union: Story to Reach the Future | 78107 | [78107-blaze-union-story-to-reach-the-future.json](./78107-blaze-union-story-to-reach-the-future.json) |
 | Blaze! Love To The Top | 284167 | [284167-blaze-love-to-the-top.json](./284167-blaze-love-to-the-top.json) |
 | Blazend | 186691 | [186691-blazend.json](./186691-blazend.json) |
 | Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
@@ -11298,6 +11301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
 | Blazing Bajirao | 38696 | [38696-blazing-bajirao.json](./38696-blazing-bajirao.json) |
 | Blazing Beaks + Badland: Game of the Year Edition | 226341 | [226341-blazing-beaks-badland-game-of-the-year-edition.json](./226341-blazing-beaks-badland-game-of-the-year-edition.json) |
+| Blazing Birds | 78179 | [78179-blazing-birds.json](./78179-blazing-birds.json) |
 | Blazing Chrome | 55042 | [55042-blazing-chrome.json](./55042-blazing-chrome.json) |
 | Blazing Core | 91140 | [91140-blazing-core.json](./91140-blazing-core.json) |
 | Blazing Crow | 301619 | [301619-blazing-crow.json](./301619-blazing-crow.json) |
