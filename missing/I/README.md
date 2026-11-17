@@ -2678,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagined Leviathans | 156204 | [156204-imagined-leviathans.json](./156204-imagined-leviathans.json) |
 | Imaginefield 2042 | 219864 | [219864-imaginefield-2042.json](./219864-imaginefield-2042.json) |
 | Imaginext: Battle Castle | 209431 | [209431-imaginext-battle-castle.json](./209431-imaginext-battle-castle.json) |
+| Imaginext: Pirate Raider | 206860 | [206860-imaginext-pirate-raider.json](./206860-imaginext-pirate-raider.json) |
 | Imaginstruments | 18979 | [18979-imaginstruments.json](./18979-imaginstruments.json) |
 | Imaginytes | 327950 | [327950-imaginytes.json](./327950-imaginytes.json) |
 | Imago | 377342 | [377342-imago.json](./377342-imago.json) |
