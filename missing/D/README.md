@@ -4681,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline | 396250 | [396250-deadline.json](./396250-deadline.json) |
 | Deadline | 71392 | [71392-deadline.json](./71392-deadline.json) |
 | Deadline | 7564 | [7564-deadline.json](./7564-deadline.json) |
+| Deadline 0:00 | 424114 | [424114-deadline-0-00.json](./424114-deadline-0-00.json) |
 | Deadline Day | 421245 | [421245-deadline-day.json](./421245-deadline-day.json) |
 | Deadline Enchanter | 217669 | [217669-deadline-enchanter.json](./217669-deadline-enchanter.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
@@ -6475,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Them ! | 126788 | [126788-defend-them.json](./126788-defend-them.json) |
 | Defend Till Sunshine | 158848 | [158848-defend-till-sunshine.json](./158848-defend-till-sunshine.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
+| Defend Wallace | 424112 | [424112-defend-wallace.json](./424112-defend-wallace.json) |
 | Defend Your Buttress | 76500 | [76500-defend-your-buttress.json](./76500-defend-your-buttress.json) |
 | Defend Your Castle | 383124 | [383124-defend-your-castle.json](./383124-defend-your-castle.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
@@ -9113,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deunocta | 420068 | [420068-deunocta.json](./420068-deunocta.json) |
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
+| Deus Ex + Deus Ex: Invisible War | 424098 | [424098-deus-ex-deus-ex-invisible-war.json](./424098-deus-ex-deus-ex-invisible-war.json) |
 | Deus Ex Ceviche | 140160 | [140160-deus-ex-ceviche.json](./140160-deus-ex-ceviche.json) |
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
 | Deus Ex Machina | 26432 | [26432-deus-ex-machina.json](./26432-deus-ex-machina.json) |
@@ -12300,6 +12303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid | 217836 | [217836-disneys-the-little-mermaid.json](./217836-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 71987 | [71987-disneys-the-little-mermaid.json](./71987-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid II | 45043 | [45043-disneys-the-little-mermaid-ii.json](./45043-disneys-the-little-mermaid-ii.json) |
+| Disney's The Little Mermaid II / Disney's Party Time with Winnie the Pooh | 424127 | [424127-disneys-the-little-mermaid-ii-disneys-party-time-with-winnie-the-pooh.json](./424127-disneys-the-little-mermaid-ii-disneys-party-time-with-winnie-the-pooh.json) |
 | Disney's The Little Mermaid II: Pinball Frenzy | 49919 | [49919-disneys-the-little-mermaid-ii-pinball-frenzy.json](./49919-disneys-the-little-mermaid-ii-pinball-frenzy.json) |
 | Disney's The Little Mermaid II: Return to the Sea | 314908 | [314908-disneys-the-little-mermaid-ii-return-to-the-sea.json](./314908-disneys-the-little-mermaid-ii-return-to-the-sea.json) |
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
@@ -13369,6 +13373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodoGo! Challenge | 85094 | [85094-dodogo-challenge.json](./85094-dodogo-challenge.json) |
 | DodoGo! Robo | 85093 | [85093-dodogo-robo.json](./85093-dodogo-robo.json) |
 | Dodolly Tales | 274320 | [274320-dodolly-tales.json](./274320-dodolly-tales.json) |
+| Dodomeiro Clover 2 | 424120 | [424120-dodomeiro-clover-2.json](./424120-dodomeiro-clover-2.json) |
 | DoDonPachi | 1666 | [1666-dodonpachi.json](./1666-dodonpachi.json) |
 | DoDonPachi Dai-Ou-Jou Re:Incarnation | 262133 | [262133-dodonpachi-dai-ou-jou-re-incarnation.json](./262133-dodonpachi-dai-ou-jou-re-incarnation.json) |
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
@@ -14173,6 +14178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don 2: The Game | 142554 | [142554-don-2-the-game.json](./142554-don-2-the-game.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Bradman Cricket 14 | 6967 | [6967-don-bradman-cricket-14.json](./6967-don-bradman-cricket-14.json) |
+| Don Bradman Cricket Jr | 424133 | [424133-don-bradman-cricket-jr.json](./424133-don-bradman-cricket-jr.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Doko Don | 39360 | [39360-don-doko-don.json](./39360-don-doko-don.json) |
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
