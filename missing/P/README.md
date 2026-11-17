@@ -2924,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
 | Parsec | 18563 | [18563-parsec.json](./18563-parsec.json) |
 | Parsec | 341593 | [341593-parsec.json](./341593-parsec.json) |
+| Parsec 47 | 71655 | [71655-parsec-47.json](./71655-parsec-47.json) |
 | Parsec Frontiers | 81196 | [81196-parsec-frontiers.json](./81196-parsec-frontiers.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
 | Parsec Man 3D | 259403 | [259403-parsec-man-3d.json](./259403-parsec-man-3d.json) |
@@ -5984,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Collection | 136803 | [136803-phantasy-star-collection.json](./136803-phantasy-star-collection.json) |
 | Phantasy Star Gaiden | 45252 | [45252-phantasy-star-gaiden.json](./45252-phantasy-star-gaiden.json) |
 | Phantasy Star II | 1232 | [1232-phantasy-star-ii.json](./1232-phantasy-star-ii.json) |
+| Phantasy Star II Text Adventures | 70514 | [70514-phantasy-star-ii-text-adventures.json](./70514-phantasy-star-ii-text-adventures.json) |
 | Phantasy Star III: Generations of Doom | 1231 | [1231-phantasy-star-iii-generations-of-doom.json](./1231-phantasy-star-iii-generations-of-doom.json) |
 | Phantasy Star IV: The End of the Millennium | 1230 | [1230-phantasy-star-iv-the-end-of-the-millennium.json](./1230-phantasy-star-iv-the-end-of-the-millennium.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
