@@ -3733,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addled | 207288 | [207288-addled.json](./207288-addled.json) |
 | Addled Clicker | 377487 | [377487-addled-clicker.json](./377487-addled-clicker.json) |
 | Addmath | 239075 | [239075-addmath.json](./239075-addmath.json) |
+| Addoku | 78151 | [78151-addoku.json](./78151-addoku.json) |
 | Address The Mess | 424709 | [424709-address-the-mess.json](./424709-address-the-mess.json) |
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Addy | 377488 | [377488-addy.json](./377488-addy.json) |
@@ -5734,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders: Planetfall - Revelations | 140435 | [140435-age-of-wonders-planetfall-revelations.json](./140435-age-of-wonders-planetfall-revelations.json) |
 | Age of Wonders: Planetfall - Star Kings | 148927 | [148927-age-of-wonders-planetfall-star-kings.json](./148927-age-of-wonders-planetfall-star-kings.json) |
 | Age of Wonders: Shadow Magic | 591 | [591-age-of-wonders-shadow-magic.json](./591-age-of-wonders-shadow-magic.json) |
+| Age of Wulin | 78172 | [78172-age-of-wulin.json](./78172-age-of-wulin.json) |
 | Age of Wushu 2 | 26643 | [26643-age-of-wushu-2.json](./26643-age-of-wushu-2.json) |
 | Age of Wushu Dynasty | 23661 | [23661-age-of-wushu-dynasty.json](./23661-age-of-wushu-dynasty.json) |
 | Age of Zalmoxis: Rise of the Fallen | 271676 | [271676-age-of-zalmoxis-rise-of-the-fallen.json](./271676-age-of-zalmoxis-rise-of-the-fallen.json) |
@@ -9259,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alstroemeria | 274528 | [274528-alstroemeria.json](./274528-alstroemeria.json) |
 | Alt Oxygen | 166329 | [166329-alt-oxygen.json](./166329-alt-oxygen.json) |
 | Alt Tarot | 178477 | [178477-alt-tarot.json](./178477-alt-tarot.json) |
+| Alt-G: A Lateral Thinking Game | 78168 | [78168-alt-g-a-lateral-thinking-game.json](./78168-alt-g-a-lateral-thinking-game.json) |
 | alt:V | 171970 | [171970-alt-v.json](./171970-alt-v.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
 | Alta's Odyssey | 269968 | [269968-altas-odyssey.json](./269968-altas-odyssey.json) |
