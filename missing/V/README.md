@@ -1318,11 +1318,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggie Warfare: Feast of Fury | 394386 | [394386-veggie-warfare-feast-of-fury.json](./394386-veggie-warfare-feast-of-fury.json) |
 | Veggies vs. Undead | 290659 | [290659-veggies-vs-undead.json](./290659-veggies-vs-undead.json) |
 | Veggies War | 224672 | [224672-veggies-war.json](./224672-veggies-war.json) |
+| VeggieTales Creativity City | 124319 | [124319-veggietales-creativity-city.json](./124319-veggietales-creativity-city.json) |
 | VeggieTales: Bushels of Fun! | 206062 | [206062-veggietales-bushels-of-fun.json](./206062-veggietales-bushels-of-fun.json) |
 | VeggieTales: Dance, Dance, Dance | 205946 | [205946-veggietales-dance-dance-dance.json](./205946-veggietales-dance-dance-dance.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 248629 | [248629-veggietales-larryboy-and-the-bad-apple.json](./248629-veggietales-larryboy-and-the-bad-apple.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
+| VeggieTales: Minnesota Cuke and the Coconut Apes | 124311 | [124311-veggietales-minnesota-cuke-and-the-coconut-apes.json](./124311-veggietales-minnesota-cuke-and-the-coconut-apes.json) |
+| VeggieTales: The Mystery of Veggie Island | 124290 | [124290-veggietales-the-mystery-of-veggie-island.json](./124290-veggietales-the-mystery-of-veggie-island.json) |
 | VeggieTales: Veg-Out! Family Tournament | 70545 | [70545-veggietales-veg-out-family-tournament.json](./70545-veggietales-veg-out-family-tournament.json) |
+| VeggieTales: Veggie Carnival | 124304 | [124304-veggietales-veggie-carnival.json](./124304-veggietales-veggie-carnival.json) |
 | Veggy World | 51156 | [51156-veggy-world.json](./51156-veggy-world.json) |
 | Vegteria | 159524 | [159524-vegteria.json](./159524-vegteria.json) |
 | Vehicle Beat Zombie | 243478 | [243478-vehicle-beat-zombie.json](./243478-vehicle-beat-zombie.json) |
@@ -4422,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Kanojo | 75900 | [75900-vr-kanojo.json](./75900-vr-kanojo.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
 | VR Karts SteamVR | 34002 | [34002-vr-karts-steamvr.json](./34002-vr-karts-steamvr.json) |
+| VR Karts: Sprint | 123103 | [123103-vr-karts-sprint.json](./123103-vr-karts-sprint.json) |
 | VR Katherine | 368402 | [368402-vr-katherine.json](./368402-vr-katherine.json) |
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR King Arthur's Sword in Romano Britania | 164422 | [164422-vr-king-arthurs-sword-in-romano-britania.json](./164422-vr-king-arthurs-sword-in-romano-britania.json) |
