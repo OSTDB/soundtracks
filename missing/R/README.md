@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R/C Stunt Copter | 44953 | [44953-r-c-stunt-copter.json](./44953-r-c-stunt-copter.json) |
 | R/nosleep: The Night Shift at Paradise Valley Pool | 326899 | [326899-r-nosleep-the-night-shift-at-paradise-valley-pool.json](./326899-r-nosleep-the-night-shift-at-paradise-valley-pool.json) |
 | R&Dy | 254940 | [254940-r-and-dy.json](./254940-r-and-dy.json) |
+| R&Watch | 178706 | [178706-r-and-watch.json](./178706-r-and-watch.json) |
 | R0: Concourse of Conquest | 296711 | [296711-r0-concourse-of-conquest.json](./296711-r0-concourse-of-conquest.json) |
 | R00000 | 260309 | [260309-r00000.json](./260309-r00000.json) |
 | R00m | 199862 | [199862-r00m.json](./199862-r00m.json) |
@@ -8575,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rikki & Vikki | 113515 | [113515-rikki-and-vikki.json](./113515-rikki-and-vikki.json) |
 | Rikki and Mikki to the Rescue! | 73429 | [73429-rikki-and-mikki-to-the-rescue.json](./73429-rikki-and-mikki-to-the-rescue.json) |
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
+| Riko | 177585 | [177585-riko.json](./177585-riko.json) |
 | Rikorisu: Lycoris Radiata | 77864 | [77864-rikorisu-lycoris-radiata.json](./77864-rikorisu-lycoris-radiata.json) |
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
 | Rikua | 218672 | [218672-rikua.json](./218672-rikua.json) |
