@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaki's Wacky Adventure | 188850 | [188850-jakis-wacky-adventure.json](./188850-jakis-wacky-adventure.json) |
 | Jakin Boaz | 426931 | [426931-jakin-boaz.json](./426931-jakin-boaz.json) |
 | Jakou no Lyla: Trap of Musk | 116381 | [116381-jakou-no-lyla-trap-of-musk.json](./116381-jakou-no-lyla-trap-of-musk.json) |
+| jalada Chungu | 191928 | [191928-jalada-chungu.json](./191928-jalada-chungu.json) |
 | Jalapeño Newt | 141811 | [141811-jalapeno-newt.json](./141811-jalapeno-newt.json) |
 | Jalebi: A Desi Adda | 233529 | [233529-jalebi-a-desi-adda.json](./233529-jalebi-a-desi-adda.json) |
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
