@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If You Stay | 396455 | [396455-if-you-stay.json](./396455-if-you-stay.json) |
 | If You Stay | 413853 | [413853-if-you-stay.json](./413853-if-you-stay.json) |
 | If You Touch Me, I Will Marry You. | 307221 | [307221-if-you-touch-me-i-will-marry-you.json](./307221-if-you-touch-me-i-will-marry-you.json) |
+| If You Win...You Lose ! | 187423 | [187423-if-you-win-you-lose.json](./187423-if-you-win-you-lose.json) |
 | If You're a Ghost Call Me Here! | 151762 | [151762-if-youre-a-ghost-call-me-here.json](./151762-if-youre-a-ghost-call-me-here.json) |
 | IF-16 Fighting Falcon | 368550 | [368550-if-16-fighting-falcon.json](./368550-if-16-fighting-falcon.json) |
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
@@ -6284,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inversion Institute | 220038 | [220038-inversion-institute.json](./220038-inversion-institute.json) |
 | Inversion: The Single Path | 402578 | [402578-inversion-the-single-path.json](./402578-inversion-the-single-path.json) |
 | Inversus Deluxe | 54590 | [54590-inversus-deluxe.json](./54590-inversus-deluxe.json) |
+| Invert | 187484 | [187484-invert.json](./187484-invert.json) |
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
 | Invert pixels | 219929 | [219929-invert-pixels.json](./219929-invert-pixels.json) |
