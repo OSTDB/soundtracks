@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacGolf | 288706 | [288706-macgolf.json](./288706-macgolf.json) |
 | MacGolf Classic | 294654 | [294654-macgolf-classic.json](./294654-macgolf-classic.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
+| Mach 3 | 12442 | [12442-mach-3.json](./12442-mach-3.json) |
 | Mach Breakers | 39707 | [39707-mach-breakers.json](./39707-mach-breakers.json) |
 | Mach Brutale | 405213 | [405213-mach-brutale.json](./405213-mach-brutale.json) |
 | Mach Go Go Go | 228608 | [228608-mach-go-go-go.json](./228608-mach-go-go-go.json) |
@@ -12836,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Mysteries: Witches of Abraham - Collector's Edition | 36150 | [36150-midnight-mysteries-witches-of-abraham-collectors-edition.json](./36150-midnight-mysteries-witches-of-abraham-collectors-edition.json) |
 | Midnight Myths | 307195 | [307195-midnight-myths.json](./307195-midnight-myths.json) |
 | Midnight News Report | 418437 | [418437-midnight-news-report.json](./418437-midnight-news-report.json) |
+| Midnight Nowhere | 12446 | [12446-midnight-nowhere.json](./12446-midnight-nowhere.json) |
 | Midnight of Despair | 291167 | [291167-midnight-of-despair.json](./291167-midnight-of-despair.json) |
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
@@ -17302,6 +17304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
 | Monaco 360: Retro Racing | 68556 | [68556-monaco-360-retro-racing.json](./68556-monaco-360-retro-racing.json) |
 | Monaco GP | 408809 | [408809-monaco-gp.json](./408809-monaco-gp.json) |
+| Monaco GP | 6118 | [6118-monaco-gp.json](./6118-monaco-gp.json) |
 | Monaco Grand Prix | 288257 | [288257-monaco-grand-prix.json](./288257-monaco-grand-prix.json) |
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
@@ -18877,6 +18880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Base | 167032 | [167032-moon-base.json](./167032-moon-base.json) |
 | Moon Base | 171197 | [171197-moon-base.json](./171197-moon-base.json) |
 | Moon Bingo | 306031 | [306031-moon-bingo.json](./306031-moon-bingo.json) |
+| Moon Blaster | 12447 | [12447-moon-blaster.json](./12447-moon-blaster.json) |
 | Moon Blob | 160024 | [160024-moon-blob.json](./160024-moon-blob.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
 | Moon Break | 358892 | [358892-moon-break.json](./358892-moon-break.json) |
