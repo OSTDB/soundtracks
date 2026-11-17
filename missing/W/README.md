@@ -4750,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Parking Spot: Parking Reimagined | 141307 | [141307-where-is-my-parking-spot-parking-reimagined.json](./141307-where-is-my-parking-spot-parking-reimagined.json) |
 | Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
+| Where Is My Sword | 424701 | [424701-where-is-my-sword.json](./424701-where-is-my-sword.json) |
 | Where Is My Vodka? | 157226 | [157226-where-is-my-vodka.json](./157226-where-is-my-vodka.json) |
 | Where is Paradise? | 174057 | [174057-where-is-paradise.json](./174057-where-is-paradise.json) |
 | Where is Ploppy? | 232261 | [232261-where-is-ploppy.json](./232261-where-is-ploppy.json) |
@@ -5014,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers Wizards & Wands | 373248 | [373248-whiskers-wizards-and-wands.json](./373248-whiskers-wizards-and-wands.json) |
 | Whiskers Wonderland | 306092 | [306092-whiskers-wonderland.json](./306092-whiskers-wonderland.json) |
 | Whiskers' Wish | 386498 | [386498-whiskers-wish.json](./386498-whiskers-wish.json) |
+| WhiskersOS: Click and Survive | 424715 | [424715-whiskersos-click-and-survive.json](./424715-whiskersos-click-and-survive.json) |
 | Whiskerwood | 309324 | [309324-whiskerwood.json](./309324-whiskerwood.json) |
 | Whiskerwood Vale | 350590 | [350590-whiskerwood-vale.json](./350590-whiskerwood-vale.json) |
 | Whiskey & Zombies | 117253 | [117253-whiskey-and-zombies.json](./117253-whiskey-and-zombies.json) |
@@ -5733,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WikiRace | 408211 | [408211-wikirace.json](./408211-wikirace.json) |
 | WikiRNG | 420048 | [420048-wikirng.json](./420048-wikirng.json) |
 | Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
+| Wikiverse | 424722 | [424722-wikiverse.json](./424722-wikiverse.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wil | 96844 | [96844-wil.json](./96844-wil.json) |
 | Wilberforce: The Sorcerer's Apprentice | 73201 | [73201-wilberforce-the-sorcerers-apprentice.json](./73201-wilberforce-the-sorcerers-apprentice.json) |
