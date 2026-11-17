@@ -3928,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthkeeper | 253489 | [253489-hearthkeeper.json](./253489-hearthkeeper.json) |
 | Hearthlands | 28325 | [28325-hearthlands.json](./28325-hearthlands.json) |
 | HearthMoon | 429835 | [429835-hearthmoon.json](./429835-hearthmoon.json) |
+| Hearthsail | 420445 | [420445-hearthsail.json](./420445-hearthsail.json) |
 | Hearthstone: Across the Timeways | 322150 | [322150-hearthstone-across-the-timeways.json](./322150-hearthstone-across-the-timeways.json) |
 | Hearthstone: Ashes of Outland | 131879 | [131879-hearthstone-ashes-of-outland.json](./131879-hearthstone-ashes-of-outland.json) |
 | Hearthstone: Ashes of Outland - Trial by Felfire | 135707 | [135707-hearthstone-ashes-of-outland-trial-by-felfire.json](./135707-hearthstone-ashes-of-outland-trial-by-felfire.json) |
@@ -5055,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellkind | 346289 | [346289-hellkind.json](./346289-hellkind.json) |
 | Hellkranye | 417982 | [417982-hellkranye.json](./417982-hellkranye.json) |
 | Helllllcafeeeee | 350979 | [350979-helllllcafeeeee.json](./350979-helllllcafeeeee.json) |
+| Hellmachina Railbane | 420426 | [420426-hellmachina-railbane.json](./420426-hellmachina-railbane.json) |
 | Hellmall | 173944 | [173944-hellmall.json](./173944-hellmall.json) |
 | Hellmart | 351155 | [351155-hellmart.json](./351155-hellmart.json) |
 | Hellmaster: The Legend of Dante | 349182 | [349182-hellmaster-the-legend-of-dante.json](./349182-hellmaster-the-legend-of-dante.json) |
