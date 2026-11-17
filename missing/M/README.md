@@ -1384,8 +1384,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Masks | 99685 | [99685-magic-masks.json](./99685-magic-masks.json) |
+| Magic Match | 210159 | [210159-magic-match.json](./210159-magic-match.json) |
 | Magic Match Adventures | 146478 | [146478-magic-match-adventures.json](./146478-magic-match-adventures.json) |
 | Magic Match: Journey to the Lands of Arcane | 63444 | [63444-magic-match-journey-to-the-lands-of-arcane.json](./63444-magic-match-journey-to-the-lands-of-arcane.json) |
+| Magic Match: The Genie's Journey | 210158 | [210158-magic-match-the-genies-journey.json](./210158-magic-match-the-genies-journey.json) |
 | Magic matchstick | 68580 | [68580-magic-matchstick.json](./68580-magic-matchstick.json) |
 | Magic Matchup | 140722 | [140722-magic-matchup.json](./140722-magic-matchup.json) |
 | Magic Math | 267551 | [267551-magic-math.json](./267551-magic-math.json) |
@@ -2259,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Match | 395349 | [395349-mahjong-match.json](./395349-mahjong-match.json) |
 | Mahjong Match | 83156 | [83156-mahjong-match.json](./83156-mahjong-match.json) |
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
+| Mahjong Memoirs | 210164 | [210164-mahjong-memoirs.json](./210164-mahjong-memoirs.json) |
 | Mahjong Minimal | 213249 | [213249-mahjong-minimal.json](./213249-mahjong-minimal.json) |
 | Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
 | Mahjong Musou: Former Army | 302817 | [302817-mahjong-musou-former-army.json](./302817-mahjong-musou-former-army.json) |
@@ -2279,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Quest Collection | 27850 | [27850-mahjong-quest-collection.json](./27850-mahjong-quest-collection.json) |
 | Mahjong Quest II | 286436 | [286436-mahjong-quest-ii.json](./286436-mahjong-quest-ii.json) |
 | Mahjong Quest III: Balance of Life | 286437 | [286437-mahjong-quest-iii-balance-of-life.json](./286437-mahjong-quest-iii-balance-of-life.json) |
+| Mahjong Quest: An Epic Tale of Tile Matching | 210165 | [210165-mahjong-quest-an-epic-tale-of-tile-matching.json](./210165-mahjong-quest-an-epic-tale-of-tile-matching.json) |
 | Mahjong Quest: Expeditions | 85274 | [85274-mahjong-quest-expeditions.json](./85274-mahjong-quest-expeditions.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Riddles: Egypt | 318870 | [318870-mahjong-riddles-egypt.json](./318870-mahjong-riddles-egypt.json) |
@@ -2300,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
 | Mahjong Shikaku Retsuden: Mahjong Wars | 37676 | [37676-mahjong-shikaku-retsuden-mahjong-wars.json](./37676-mahjong-shikaku-retsuden-mahjong-wars.json) |
 | Mahjong Sisters | 397742 | [397742-mahjong-sisters.json](./397742-mahjong-sisters.json) |
+| Mahjong Solitaire | 210172 | [210172-mahjong-solitaire.json](./210172-mahjong-solitaire.json) |
 | Mahjong Solitaire | 230697 | [230697-mahjong-solitaire.json](./230697-mahjong-solitaire.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
 | Mahjong Solitaire | 302306 | [302306-mahjong-solitaire.json](./302306-mahjong-solitaire.json) |
@@ -2384,12 +2389,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Master: Egyptian Edition | 210209 | [210209-mahjongg-master-egyptian-edition.json](./210209-mahjongg-master-egyptian-edition.json) |
 | Mahjongg Mysteries: Ancient Egypt | 210197 | [210197-mahjongg-mysteries-ancient-egypt.json](./210197-mahjongg-mysteries-ancient-egypt.json) |
 | Mahjongg PC | 131011 | [131011-mahjongg-pc.json](./131011-mahjongg-pc.json) |
+| Mahjongg Platinum 2 | 210188 | [210188-mahjongg-platinum-2.json](./210188-mahjongg-platinum-2.json) |
 | Mahjongg Platinum 3 | 210189 | [210189-mahjongg-platinum-3.json](./210189-mahjongg-platinum-3.json) |
+| Mahjongg Platinum 4 | 210186 | [210186-mahjongg-platinum-4.json](./210186-mahjongg-platinum-4.json) |
 | Mahjongg Platinum 5: Deluxe Edition | 210190 | [210190-mahjongg-platinum-5-deluxe-edition.json](./210190-mahjongg-platinum-5-deluxe-edition.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
 | Mahjongg Sammlung | 91603 | [91603-mahjongg-sammlung.json](./91603-mahjongg-sammlung.json) |
 | Mahjongg The Ultimate Collection 2 | 108027 | [108027-mahjongg-the-ultimate-collection-2.json](./108027-mahjongg-the-ultimate-collection-2.json) |
 | Mahjongg XP Championship | 210193 | [210193-mahjongg-xp-championship.json](./210193-mahjongg-xp-championship.json) |
+| Mahjongg XP Championship 2: Kanji Edition | 210163 | [210163-mahjongg-xp-championship-2-kanji-edition.json](./210163-mahjongg-xp-championship-2-kanji-edition.json) |
+| Mahjongg XP Championship 2006: Platinum Edition | 210162 | [210162-mahjongg-xp-championship-2006-platinum-edition.json](./210162-mahjongg-xp-championship-2006-platinum-edition.json) |
 | Mahjongg: Legends of the Tiles | 125483 | [125483-mahjongg-legends-of-the-tiles.json](./125483-mahjongg-legends-of-the-tiles.json) |
 | MahJongg: Tiles of Time | 210192 | [210192-mahjongg-tiles-of-time.json](./210192-mahjongg-tiles-of-time.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
@@ -20448,6 +20457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Boy | 366743 | [366743-motorcycle-boy.json](./366743-motorcycle-boy.json) |
 | Motorcycle Club | 11959 | [11959-motorcycle-club.json](./11959-motorcycle-club.json) |
 | Motorcycle Combat | 326197 | [326197-motorcycle-combat.json](./326197-motorcycle-combat.json) |
+| Motorcycle Driving Simulator: Dirt & Parking 2022 - Racing Games Ultimate 4x4 City Offroad Kart | 211303 | [211303-motorcycle-driving-simulator-dirt-and-parking-2022-racing-games-ultimate-4x4-city-offroad-kart.json](./211303-motorcycle-driving-simulator-dirt-and-parking-2022-racing-games-ultimate-4x4-city-offroad-kart.json) |
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
 | Motorcycle for Sale Simulator | 374573 | [374573-motorcycle-for-sale-simulator.json](./374573-motorcycle-for-sale-simulator.json) |
 | Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
