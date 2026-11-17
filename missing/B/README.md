@@ -6721,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beek: Familiar Spirit | 178695 | [178695-beek-familiar-spirit.json](./178695-beek-familiar-spirit.json) |
 | Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
+| Beekeeper Simulator | 428273 | [428273-beekeeper-simulator.json](./428273-beekeeper-simulator.json) |
 | Beeknighted | 242717 | [242717-beeknighted.json](./242717-beeknighted.json) |
 | Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
 | Beekyr Reloaded | 32507 | [32507-beekyr-reloaded.json](./32507-beekyr-reloaded.json) |
