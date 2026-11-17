@@ -1756,7 +1756,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Empire | 83872 | [83872-dark-empire.json](./83872-dark-empire.json) |
 | Dark Energy | 285001 | [285001-dark-energy.json](./285001-dark-energy.json) |
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
-| Dark Envoy | 121588 | [121588-dark-envoy.json](./121588-dark-envoy.json) |
 | Dark Era | 303456 | [303456-dark-era.json](./303456-dark-era.json) |
 | Dark Era | 311596 | [311596-dark-era.json](./311596-dark-era.json) |
 | Dark Erosion: Endless Siege | 346165 | [346165-dark-erosion-endless-siege.json](./346165-dark-erosion-endless-siege.json) |
@@ -9955,6 +9954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicetris | 403370 | [403370-dicetris.json](./403370-dicetris.json) |
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Diceville | 360326 | [360326-diceville.json](./360326-diceville.json) |
+| Dicewars | 113964 | [113964-dicewars.json](./113964-dicewars.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
 | Dicewayfarer | 418367 | [418367-dicewayfarer.json](./418367-dicewayfarer.json) |
 | Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
@@ -14232,6 +14232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
 | Don't Eat My Mind You Stupid Monsters! | 176422 | [176422-dont-eat-my-mind-you-stupid-monsters.json](./176422-dont-eat-my-mind-you-stupid-monsters.json) |
 | Don't Eat Soap! | 60919 | [60919-dont-eat-soap.json](./60919-dont-eat-soap.json) |
+| Don't Eat the Cactus | 113970 | [113970-dont-eat-the-cactus.json](./113970-dont-eat-the-cactus.json) |
 | Don’t Eat the Cashier! | 392432 | [392432-don-t-eat-the-cashier.json](./392432-don-t-eat-the-cashier.json) |
 | Don't Eat the Mushroom | 245620 | [245620-dont-eat-the-mushroom.json](./245620-dont-eat-the-mushroom.json) |
 | Don't Enter the Forest | 229444 | [229444-dont-enter-the-forest.json](./229444-dont-enter-the-forest.json) |
