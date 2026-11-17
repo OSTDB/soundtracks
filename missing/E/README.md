@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eikoku Tantei Mysteria | 221826 | [221826-eikoku-tantei-mysteria.json](./221826-eikoku-tantei-mysteria.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eikro: The Children of Darloum | 307524 | [307524-eikro-the-children-of-darloum.json](./307524-eikro-the-children-of-darloum.json) |
+| Eilands | 429474 | [429474-eilands.json](./429474-eilands.json) |
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
 | Eilf | 123187 | [123187-eilf.json](./123187-eilf.json) |
 | Ein Fall für TKKG: Detektiv gesucht! | 308986 | [308986-ein-fall-fur-tkkg-detektiv-gesucht.json](./308986-ein-fall-fur-tkkg-detektiv-gesucht.json) |
@@ -4813,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkindle | 294925 | [294925-enkindle.json](./294925-enkindle.json) |
 | Enkou Girls Collection: Oyaji no Natsu wa Suzushii Loveho de Pakopako Hen | 82997 | [82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json](./82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json) |
 | Enkou Shoujo 2: JK Idol Marin no Baai | 77896 | [77896-enkou-shoujo-2-jk-idol-marin-no-baai.json](./77896-enkou-shoujo-2-jk-idol-marin-no-baai.json) |
+| Enlight Strategy Bundle | 429527 | [429527-enlight-strategy-bundle.json](./429527-enlight-strategy-bundle.json) |
 | Enlighten The Darkness: Again | 273242 | [273242-enlighten-the-darkness-again.json](./273242-enlighten-the-darkness-again.json) |
 | Enlighten: Learn the Art of Learning | 143866 | [143866-enlighten-learn-the-art-of-learning.json](./143866-enlighten-learn-the-art-of-learning.json) |
 | Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
@@ -7970,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eversoul | 174607 | [174607-eversoul.json](./174607-eversoul.json) |
 | Everspace | 14172 | [14172-everspace.json](./14172-everspace.json) |
 | Everspace 2: Alienware Ship Skin | 321946 | [321946-everspace-2-alienware-ship-skin.json](./321946-everspace-2-alienware-ship-skin.json) |
+| Everspace 2: Complete Edition | 429525 | [429525-everspace-2-complete-edition.json](./429525-everspace-2-complete-edition.json) |
 | Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
 | Everspace 2: Supporter Pack | 311390 | [311390-everspace-2-supporter-pack.json](./311390-everspace-2-supporter-pack.json) |
 | Everspace 2: Wrath of the Ancients | 329493 | [329493-everspace-2-wrath-of-the-ancients.json](./329493-everspace-2-wrath-of-the-ancients.json) |
