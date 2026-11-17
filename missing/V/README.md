@@ -2926,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirtuaCreature | 105689 | [105689-virtuacreature.json](./105689-virtuacreature.json) |
 | Virtual ABC Journey | 367676 | [367676-virtual-abc-journey.json](./367676-virtual-abc-journey.json) |
 | Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
+| Virtual Amusement | 162436 | [162436-virtual-amusement.json](./162436-virtual-amusement.json) |
 | Virtual Anime Girl | 90366 | [90366-virtual-anime-girl.json](./90366-virtual-anime-girl.json) |
 | Virtual Aquarium | 407280 | [407280-virtual-aquarium.json](./407280-virtual-aquarium.json) |
 | Virtual Arctic Expedition | 116548 | [116548-virtual-arctic-expedition.json](./116548-virtual-arctic-expedition.json) |
