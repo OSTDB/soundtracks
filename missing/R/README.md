@@ -4371,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Redemption: Legends and Killers | 22957 | [22957-red-dead-redemption-legends-and-killers.json](./22957-red-dead-redemption-legends-and-killers.json) |
 | Red Dead Redemption: Liars and Cheats | 114990 | [114990-red-dead-redemption-liars-and-cheats.json](./114990-red-dead-redemption-liars-and-cheats.json) |
 | Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
+| Red Dead Redemption: Outlaws to the End | 43357 | [43357-red-dead-redemption-outlaws-to-the-end.json](./43357-red-dead-redemption-outlaws-to-the-end.json) |
 | Red Dead Redemption: Undead Nightmare | 260736 | [260736-red-dead-redemption-undead-nightmare.json](./260736-red-dead-redemption-undead-nightmare.json) |
 | Red Dead Redemption: Undead Nightmare Collection | 45199 | [45199-red-dead-redemption-undead-nightmare-collection.json](./45199-red-dead-redemption-undead-nightmare-collection.json) |
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
@@ -13354,6 +13355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTFM | 397619 | [397619-rtfm.json](./397619-rtfm.json) |
 | Rtisatto City Defender | 192290 | [192290-rtisatto-city-defender.json](./192290-rtisatto-city-defender.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
+| RTL Biathlon 2007 | 43489 | [43489-rtl-biathlon-2007.json](./43489-rtl-biathlon-2007.json) |
 | RTL Biathlon 2009 | 94853 | [94853-rtl-biathlon-2009.json](./94853-rtl-biathlon-2009.json) |
 | RTL Freestyle Skiing | 175310 | [175310-rtl-freestyle-skiing.json](./175310-rtl-freestyle-skiing.json) |
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
