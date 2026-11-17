@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaredom | 199187 | [199187-scaredom.json](./199187-scaredom.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
+| Scaredy Cat: Avoid the Horde | 207945 | [207945-scaredy-cat-avoid-the-horde.json](./207945-scaredy-cat-avoid-the-horde.json) |
 | ScareNight | 36068 | [36068-scarenight.json](./36068-scarenight.json) |
 | Scarenoid | 170633 | [170633-scarenoid.json](./170633-scarenoid.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
@@ -15619,6 +15620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlingSkull Zombies: The Dawn | 55665 | [55665-slingskull-zombies-the-dawn.json](./55665-slingskull-zombies-the-dawn.json) |
 | Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
 | SlingStar | 188216 | [188216-slingstar.json](./188216-slingstar.json) |
+| SlingWars | 207944 | [207944-slingwars.json](./207944-slingwars.json) |
 | Slingy Snow | 175168 | [175168-slingy-snow.json](./175168-slingy-snow.json) |
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
 | Slink.io | 227540 | [227540-slink-io.json](./227540-slink-io.json) |
