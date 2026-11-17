@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
 | I open the harem in the last days | 154267 | [154267-i-open-the-harem-in-the-last-days.json](./154267-i-open-the-harem-in-the-last-days.json) |
 | I Opened the Walls and Found Something Beautiful | 177498 | [177498-i-opened-the-walls-and-found-something-beautiful.json](./177498-i-opened-the-walls-and-found-something-beautiful.json) |
+| I Pay No Rent | 100389 | [100389-i-pay-no-rent.json](./100389-i-pay-no-rent.json) |
 | I Pick Skills | 271006 | [271006-i-pick-skills.json](./271006-i-pick-skills.json) |
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
 | I Pity Thee Not | 271356 | [271356-i-pity-thee-not.json](./271356-i-pity-thee-not.json) |
