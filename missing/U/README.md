@@ -1747,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Tread | 374879 | [374879-undead-tread.json](./374879-undead-tread.json) |
 | Undead Under Night Rain | 199267 | [199267-undead-under-night-rain.json](./199267-undead-under-night-rain.json) |
 | Undead Uprising | 270871 | [270871-undead-uprising.json](./270871-undead-uprising.json) |
+| Undead Valley | 103019 | [103019-undead-valley.json](./103019-undead-valley.json) |
 | Undead Vendetta | 322309 | [322309-undead-vendetta.json](./322309-undead-vendetta.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
