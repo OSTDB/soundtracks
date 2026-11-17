@@ -7568,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef de Bubble | 323096 | [323096-chef-de-bubble.json](./323096-chef-de-bubble.json) |
 | Chef Express | 397512 | [397512-chef-express.json](./397512-chef-express.json) |
 | Chef Knight | 384996 | [384996-chef-knight.json](./384996-chef-knight.json) |
+| Chef Le Puke | 418159 | [418159-chef-le-puke.json](./418159-chef-le-puke.json) |
 | Chef Leo's Creative Kitchen | 343378 | [343378-chef-leos-creative-kitchen.json](./343378-chef-leos-creative-kitchen.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Edition | 229122 | [229122-chef-life-a-restaurant-simulator-al-forno-edition.json](./229122-chef-life-a-restaurant-simulator-al-forno-edition.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Pack | 242489 | [242489-chef-life-a-restaurant-simulator-al-forno-pack.json](./242489-chef-life-a-restaurant-simulator-al-forno-pack.json) |
@@ -17345,6 +17346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Dust & Rust | 32635 | [32635-cosmic-dust-and-rust.json](./32635-cosmic-dust-and-rust.json) |
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
+| Cosmic Fallout | 418165 | [418165-cosmic-fallout.json](./418165-cosmic-fallout.json) |
 | Cosmic Family | 4772 | [4772-cosmic-family.json](./4772-cosmic-family.json) |
 | Cosmic Family: Learn Through Play | 67581 | [67581-cosmic-family-learn-through-play.json](./67581-cosmic-family-learn-through-play.json) |
 | Cosmic Fantasy 2 | 42003 | [42003-cosmic-fantasy-2.json](./42003-cosmic-fantasy-2.json) |
@@ -17412,6 +17414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Persecution | 250731 | [250731-cosmic-persecution.json](./250731-cosmic-persecution.json) |
 | Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
 | Cosmic Pirate | 14015 | [14015-cosmic-pirate.json](./14015-cosmic-pirate.json) |
+| Cosmic Poe | 418170 | [418170-cosmic-poe.json](./418170-cosmic-poe.json) |
 | Cosmic Pool | 238404 | [238404-cosmic-pool.json](./238404-cosmic-pool.json) |
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
 | Cosmic Puzzler | 135505 | [135505-cosmic-puzzler.json](./135505-cosmic-puzzler.json) |
@@ -22239,6 +22242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cuboid Bouncer | 151618 | [151618-cuboid-bouncer.json](./151618-cuboid-bouncer.json) |
 | Cuboid Keeper | 110630 | [110630-cuboid-keeper.json](./110630-cuboid-keeper.json) |
+| Cuboid Sandbox | 418301 | [418301-cuboid-sandbox.json](./418301-cuboid-sandbox.json) |
 | Cuboid Stack | 249731 | [249731-cuboid-stack.json](./249731-cuboid-stack.json) |
 | Cubology | 52336 | [52336-cubology.json](./52336-cubology.json) |
 | Cubon | 289687 | [289687-cubon.json](./289687-cubon.json) |
