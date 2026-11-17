@@ -20804,6 +20804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
 | Crown & Capital | 318331 | [318331-crown-and-capital.json](./318331-crown-and-capital.json) |
 | Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
+| Crown & Coin: The Hundred Years | 427736 | [427736-crown-and-coin-the-hundred-years.json](./427736-crown-and-coin-the-hundred-years.json) |
 | Crown and Adventure | 309573 | [309573-crown-and-adventure.json](./309573-crown-and-adventure.json) |
 | Crown and Council | 18977 | [18977-crown-and-council.json](./18977-crown-and-council.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
@@ -22787,6 +22788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
 | Cursed Island | 189342 | [189342-cursed-island.json](./189342-cursed-island.json) |
 | Cursed Islands | 101868 | [101868-cursed-islands.json](./101868-cursed-islands.json) |
+| Cursed Isle | 427711 | [427711-cursed-isle.json](./427711-cursed-isle.json) |
 | Cursed Isles | 72514 | [72514-cursed-isles.json](./72514-cursed-isles.json) |
 | Cursed Labyrinth | 241607 | [241607-cursed-labyrinth.json](./241607-cursed-labyrinth.json) |
 | Cursed Labyrinth Redux | 305668 | [305668-cursed-labyrinth-redux.json](./305668-cursed-labyrinth-redux.json) |
