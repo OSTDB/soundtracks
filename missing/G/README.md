@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GAN-CD: Gansitos and Friends in the World of Adventure | 97588 | [97588-gan-cd-gansitos-and-friends-in-the-world-of-adventure.json](./97588-gan-cd-gansitos-and-friends-in-the-world-of-adventure.json) |
 | Gan-gan Gan-chan | 38023 | [38023-gan-gan-gan-chan.json](./38023-gan-gan-gan-chan.json) |
 | Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
+| Gan's Matchstick Men: Deadly Rhythm | 161450 | [161450-gans-matchstick-men-deadly-rhythm.json](./161450-gans-matchstick-men-deadly-rhythm.json) |
 | GanaBlade | 253404 | [253404-ganablade.json](./253404-ganablade.json) |
 | Ganba Jack | 212394 | [212394-ganba-jack.json](./212394-ganba-jack.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
@@ -5563,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
 | Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
 | GlassSmash | 117114 | [117114-glasssmash.json](./117114-glasssmash.json) |
+| GlassSmash 2 | 162438 | [162438-glasssmash-2.json](./162438-glasssmash-2.json) |
 | Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
 | Glasswinged Ascension | 46484 | [46484-glasswinged-ascension.json](./46484-glasswinged-ascension.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
@@ -8035,7 +8037,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Vintage Sunshine Set | 249304 | [249304-good-pizza-great-pizza-vintage-sunshine-set.json](./249304-good-pizza-great-pizza-vintage-sunshine-set.json) |
 | Good puzzle | 155651 | [155651-good-puzzle.json](./155651-good-puzzle.json) |
+| Good puzzle: Animals | 162449 | [162449-good-puzzle-animals.json](./162449-good-puzzle-animals.json) |
 | Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
+| Good puzzle: Music | 162448 | [162448-good-puzzle-music.json](./162448-good-puzzle-music.json) |
 | Good Sleep Company | 340319 | [340319-good-sleep-company.json](./340319-good-sleep-company.json) |
 | Good Soup | 309319 | [309319-good-soup.json](./309319-good-soup.json) |
 | Good Soup | 381134 | [381134-good-soup.json](./381134-good-soup.json) |
