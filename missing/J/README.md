@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelinx | 187002 | [187002-jewelinx.json](./187002-jewelinx.json) |
 | JeweliX | 54142 | [54142-jewelix.json](./54142-jewelix.json) |
 | Jewellust | 61030 | [61030-jewellust.json](./61030-jewellust.json) |
+| Jewellust Platinum: match 3 | 107280 | [107280-jewellust-platinum-match-3.json](./107280-jewellust-platinum-match-3.json) |
 | Jewelmix | 414679 | [414679-jewelmix.json](./414679-jewelmix.json) |
 | Jewelpet: Kawaii Mahou no Fantasy | 269787 | [269787-jewelpet-kawaii-mahou-no-fantasy.json](./269787-jewelpet-kawaii-mahou-no-fantasy.json) |
 | Jewelpet: Magical Dance in Style Deco! | 6831 | [6831-jewelpet-magical-dance-in-style-deco.json](./6831-jewelpet-magical-dance-in-style-deco.json) |
