@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Heroes | 112014 | [112014-sega-heroes.json](./112014-sega-heroes.json) |
 | Sega Kara for Dreamcast | 331023 | [331023-sega-kara-for-dreamcast.json](./331023-sega-kara-for-dreamcast.json) |
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
+| Sega Mahjong | 6117 | [6117-sega-mahjong.json](./6117-sega-mahjong.json) |
 | Sega Marine Fishing | 45838 | [45838-sega-marine-fishing.json](./45838-sega-marine-fishing.json) |
 | Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
 | Sega Mega Anser | 45612 | [45612-sega-mega-anser.json](./45612-sega-mega-anser.json) |
@@ -9387,6 +9388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shíliù Zhāng Mahjong | 128548 | [128548-shiliu-zhang-mahjong.json](./128548-shiliu-zhang-mahjong.json) |
 | Shíliù Zhāng Mahjong II | 128549 | [128549-shiliu-zhang-mahjong-ii.json](./128549-shiliu-zhang-mahjong-ii.json) |
 | Shillelagh | 181021 | [181021-shillelagh.json](./181021-shillelagh.json) |
+| Shiloh: Grant's Trial in the West | 12476 | [12476-shiloh-grants-trial-in-the-west.json](./12476-shiloh-grants-trial-in-the-west.json) |
 | Shima Shima Tora no Shimajiro: Tanoshi Ichinichi | 54946 | [54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json](./54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json) |
 | Shimagami | 342015 | [342015-shimagami.json](./342015-shimagami.json) |
 | Shimagurashi: Island Life | 425982 | [425982-shimagurashi-island-life.json](./425982-shimagurashi-island-life.json) |
@@ -16155,6 +16157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Small Soldiers: Globotech Design Lab | 14594 | [14594-small-soldiers-globotech-design-lab.json](./14594-small-soldiers-globotech-design-lab.json) |
 | Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
+| Small Soldiers: Squad Commander | 12478 | [12478-small-soldiers-squad-commander.json](./12478-small-soldiers-squad-commander.json) |
 | Small Spaces | 318506 | [318506-small-spaces.json](./318506-small-spaces.json) |
 | Small Super Mario Bros. U | 314107 | [314107-small-super-mario-bros-u.json](./314107-small-super-mario-bros-u.json) |
 | Small Super Mario Bros. U 2 | 314109 | [314109-small-super-mario-bros-u-2.json](./314109-small-super-mario-bros-u-2.json) |
@@ -17010,6 +17013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakeroot. | 176131 | [176131-snakeroot.json](./176131-snakeroot.json) |
 | Snakes | 195497 | [195497-snakes.json](./195497-snakes.json) |
 | Snakes | 201995 | [201995-snakes.json](./201995-snakes.json) |
+| Snakes | 6276 | [6276-snakes.json](./6276-snakes.json) |
 | Snakes 'n' Ladders: Origins - Episode 1 | 30590 | [30590-snakes-n-ladders-origins-episode-1.json](./30590-snakes-n-ladders-origins-episode-1.json) |
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
 | Snakes & Ladders in Aquarium | 54379 | [54379-snakes-and-ladders-in-aquarium.json](./54379-snakes-and-ladders-in-aquarium.json) |
@@ -22266,6 +22270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space I | 78821 | [78821-space-i.json](./78821-space-i.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Impact | 282457 | [282457-space-impact.json](./282457-space-impact.json) |
+| Space Impact | 6284 | [6284-space-impact.json](./6284-space-impact.json) |
 | Space Impact 2 | 10209 | [10209-space-impact-2.json](./10209-space-impact-2.json) |
 | Space Impact 303 | 10211 | [10211-space-impact-303.json](./10211-space-impact-303.json) |
 | Space Impact Evolution | 10212 | [10212-space-impact-evolution.json](./10212-space-impact-evolution.json) |
@@ -34763,6 +34768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Car Driving Bugatti Divo | 296781 | [296781-super-car-driving-bugatti-divo.json](./296781-super-car-driving-bugatti-divo.json) |
 | Super Caronaut | 178626 | [178626-super-caronaut.json](./178626-super-caronaut.json) |
 | Super Carpark Walking Parking Simulator Turbo | 349796 | [349796-super-carpark-walking-parking-simulator-turbo.json](./349796-super-carpark-walking-parking-simulator-turbo.json) |
+| Super Cars International | 12480 | [12480-super-cars-international.json](./12480-super-cars-international.json) |
 | Super Casino 2 | 38304 | [38304-super-casino-2.json](./38304-super-casino-2.json) |
 | Super Castles | 37841 | [37841-super-castles.json](./37841-super-castles.json) |
 | Super Castlevania IV | 1124 | [1124-super-castlevania-iv.json](./1124-super-castlevania-iv.json) |
@@ -41006,6 +41012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Purge: Hollow Point | 258822 | [258822-system-purge-hollow-point.json](./258822-system-purge-hollow-point.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Restore | 219562 | [219562-system-restore.json](./219562-system-restore.json) |
+| System Rush | 6287 | [6287-system-rush.json](./6287-system-rush.json) |
 | System Says Normal | 400728 | [400728-system-says-normal.json](./400728-system-says-normal.json) |
 | System Shock 2: 25th Anniversary Remaster | 143964 | [143964-system-shock-2-25th-anniversary-remaster.json](./143964-system-shock-2-25th-anniversary-remaster.json) |
 | System Shock 3 | 15097 | [15097-system-shock-3.json](./15097-system-shock-3.json) |
