@@ -7696,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Served Haute | 323995 | [323995-best-served-haute.json](./323995-best-served-haute.json) |
 | Best Shot Pro Golf | 44422 | [44422-best-shot-pro-golf.json](./44422-best-shot-pro-golf.json) |
 | Best Sniper Legacy | 148743 | [148743-best-sniper-legacy.json](./148743-best-sniper-legacy.json) |
+| Best Sniper: Shooting Hunter | 211301 | [211301-best-sniper-shooting-hunter.json](./211301-best-sniper-shooting-hunter.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
 | Best Streamer | 401785 | [401785-best-streamer.json](./401785-best-streamer.json) |
