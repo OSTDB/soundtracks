@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baa-Baa Blitz: The Sheeps kebab Incident | 359024 | [359024-baa-baa-blitz-the-sheeps-kebab-incident.json](./359024-baa-baa-blitz-the-sheeps-kebab-incident.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Bååbösåångjåår | 276748 | [276748-baabosaangjaar.json](./276748-baabosaangjaar.json) |
+| Baahubali: The Game | 170057 | [170057-baahubali-the-game.json](./170057-baahubali-the-game.json) |
 | Baal | 11929 | [11929-baal.json](./11929-baal.json) |
 | Baalzebub | 236161 | [236161-baalzebub.json](./236161-baalzebub.json) |
 | Baam Squad | 90719 | [90719-baam-squad.json](./90719-baam-squad.json) |
@@ -9300,6 +9301,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Village: Z Version - Gold Edition | 225406 | [225406-biohazard-village-z-version-gold-edition.json](./225406-biohazard-village-z-version-gold-edition.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biohazard ZombieBuster | 356247 | [356247-biohazard-zombiebuster.json](./356247-biohazard-zombiebuster.json) |
+| Biohazard: 25th Episode Selection Vol. 1 - Fall of Umbrella | 170055 | [170055-biohazard-25th-episode-selection-vol-1-fall-of-umbrella.json](./170055-biohazard-25th-episode-selection-vol-1-fall-of-umbrella.json) |
+| Biohazard: 25th Episode Selection Vol. 2 - Threat of Bioterrorism | 170052 | [170052-biohazard-25th-episode-selection-vol-2-threat-of-bioterrorism.json](./170052-biohazard-25th-episode-selection-vol-2-threat-of-bioterrorism.json) |
+| Biohazard: 25th Episode Selection Vol. 3 - Episode of Ethan Winters | 170054 | [170054-biohazard-25th-episode-selection-vol-3-episode-of-ethan-winters.json](./170054-biohazard-25th-episode-selection-vol-3-episode-of-ethan-winters.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
 | Biohazard: Escape Room | 258461 | [258461-biohazard-escape-room.json](./258461-biohazard-escape-room.json) |
 | Biohazard: Project Genesis | 384457 | [384457-biohazard-project-genesis.json](./384457-biohazard-project-genesis.json) |
@@ -11250,6 +11254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Cross Tag Battle - Character: Blake | 165999 | [165999-blazblue-cross-tag-battle-character-blake.json](./165999-blazblue-cross-tag-battle-character-blake.json) |
 | BlazBlue: Cross Tag Battle - Character: Yang | 165998 | [165998-blazblue-cross-tag-battle-character-yang.json](./165998-blazblue-cross-tag-battle-character-yang.json) |
 | BlazBlue: Cross Tag Battle - Deluxe Edition | 118680 | [118680-blazblue-cross-tag-battle-deluxe-edition.json](./118680-blazblue-cross-tag-battle-deluxe-edition.json) |
+| Blazblue: Cross Tag Battle - Limited Box | 166319 | [166319-blazblue-cross-tag-battle-limited-box.json](./166319-blazblue-cross-tag-battle-limited-box.json) |
 | BlazBlue: Cross Tag Battle - Special Edition | 136605 | [136605-blazblue-cross-tag-battle-special-edition.json](./136605-blazblue-cross-tag-battle-special-edition.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
 | BlazBlue: Entropy Effect | 261269 | [261269-blazblue-entropy-effect.json](./261269-blazblue-entropy-effect.json) |
