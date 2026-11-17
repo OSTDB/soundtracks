@@ -14726,6 +14726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Ninja FX2 | 228671 | [228671-fruit-ninja-fx2.json](./228671-fruit-ninja-fx2.json) |
 | Fruit Ninja Kinect | 65910 | [65910-fruit-ninja-kinect.json](./65910-fruit-ninja-kinect.json) |
 | Fruit Ninja Kinect 2 | 20947 | [20947-fruit-ninja-kinect-2.json](./20947-fruit-ninja-kinect-2.json) |
+| Fruit Ninja Tournament Edition | 57278 | [57278-fruit-ninja-tournament-edition.json](./57278-fruit-ninja-tournament-edition.json) |
 | Fruit Ninja VR | 22709 | [22709-fruit-ninja-vr.json](./22709-fruit-ninja-vr.json) |
 | Fruit Ninja VR 2 | 160150 | [160150-fruit-ninja-vr-2.json](./160150-fruit-ninja-vr-2.json) |
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
