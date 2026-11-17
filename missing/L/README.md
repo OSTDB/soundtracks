@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
 | Laser Gates | 24016 | [24016-laser-gates.json](./24016-laser-gates.json) |
 | Laser Ghost | 36901 | [36901-laser-ghost.json](./36901-laser-ghost.json) |
+| Laser Ghost | 421095 | [421095-laser-ghost.json](./421095-laser-ghost.json) |
 | Laser Grand Prix | 66531 | [66531-laser-grand-prix.json](./66531-laser-grand-prix.json) |
 | Laser Grid | 52252 | [52252-laser-grid.json](./52252-laser-grid.json) |
 | Laser Guy (Harold) | 182646 | [182646-laser-guy-harold.json](./182646-laser-guy-harold.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Broadcast | 249428 | [249428-last-broadcast.json](./249428-last-broadcast.json) |
 | Last Bronx | 39451 | [39451-last-bronx.json](./39451-last-bronx.json) |
 | Last Bullet | 405595 | [405595-last-bullet.json](./405595-last-bullet.json) |
+| Last Bullet | 421121 | [421121-last-bullet.json](./421121-last-bullet.json) |
 | Last Bullet | 94837 | [94837-last-bullet.json](./94837-last-bullet.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
@@ -4697,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level 24 | 175232 | [175232-level-24.json](./175232-level-24.json) |
 | Level 37: The Ritewood Anomaly | 386812 | [386812-level-37-the-ritewood-anomaly.json](./386812-level-37-the-ritewood-anomaly.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
+| Level 9 | 421130 | [421130-level-9.json](./421130-level-9.json) |
 | Level Age ni Sugoku Choudo Ii Shima | 306233 | [306233-level-age-ni-sugoku-choudo-ii-shima.json](./306233-level-age-ni-sugoku-choudo-ii-shima.json) |
 | Level Craft: Exploration | 95749 | [95749-level-craft-exploration.json](./95749-level-craft-exploration.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
