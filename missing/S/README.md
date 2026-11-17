@@ -22155,6 +22155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hexcite: Maetel Legend EX | 49808 | [49808-space-hexcite-maetel-legend-ex.json](./49808-space-hexcite-maetel-legend-ex.json) |
 | Space Hit | 37429 | [37429-space-hit.json](./37429-space-hit.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
+| Space Hoarders Inc. | 182411 | [182411-space-hoarders-inc.json](./182411-space-hoarders-inc.json) |
 | Space Hockey | 121078 | [121078-space-hockey.json](./121078-space-hockey.json) |
 | Space Hodsola | 102481 | [102481-space-hodsola.json](./102481-space-hodsola.json) |
 | Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
@@ -26216,6 +26217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
 | Squad Assault: Second Wave | 24268 | [24268-squad-assault-second-wave.json](./24268-squad-assault-second-wave.json) |
 | Squad Assault: West Front | 23740 | [23740-squad-assault-west-front.json](./23740-squad-assault-west-front.json) |
+| Squad Battles: First World War | 185717 | [185717-squad-battles-first-world-war.json](./185717-squad-battles-first-world-war.json) |
 | Squad Battles: Grenada | 182273 | [182273-squad-battles-grenada.json](./182273-squad-battles-grenada.json) |
 | Squad Battles: Pacific War | 186150 | [186150-squad-battles-pacific-war.json](./186150-squad-battles-pacific-war.json) |
 | Squad Battles: The Proud and the Few | 186303 | [186303-squad-battles-the-proud-and-the-few.json](./186303-squad-battles-the-proud-and-the-few.json) |
@@ -30178,6 +30180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Stickin' the Landing | 283355 | [283355-stickin-the-landing.json](./283355-stickin-the-landing.json) |
 | Sticking Around | 217171 | [217171-sticking-around.json](./217171-sticking-around.json) |
+| Stickit | 182423 | [182423-stickit.json](./182423-stickit.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
 | Sticklings Deluxe | 266828 | [266828-sticklings-deluxe.json](./266828-sticklings-deluxe.json) |
 | Stickmageddon | 29721 | [29721-stickmageddon.json](./29721-stickmageddon.json) |
@@ -37553,6 +37556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street: The Game | 109292 | [109292-super-street-the-game.json](./109292-super-street-the-game.json) |
 | Super Strike Eagle | 42449 | [42449-super-strike-eagle.json](./42449-super-strike-eagle.json) |
 | Super Strike Trilogy | 113097 | [113097-super-strike-trilogy.json](./113097-super-strike-trilogy.json) |
+| Super String | 183620 | [183620-super-string.json](./183620-super-string.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
 | Super Stroke the Pants | 343931 | [343931-super-stroke-the-pants.json](./343931-super-stroke-the-pants.json) |
 | Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
