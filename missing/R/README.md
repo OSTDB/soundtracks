@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raining Lead | 400410 | [400410-raining-lead.json](./400410-raining-lead.json) |
 | Rainmaker | 355467 | [355467-rainmaker.json](./355467-rainmaker.json) |
 | Rainmaker | 397612 | [397612-rainmaker.json](./397612-rainmaker.json) |
+| Rainmaker - The Beautiful Flood | 113971 | [113971-rainmaker-the-beautiful-flood.json](./113971-rainmaker-the-beautiful-flood.json) |
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainman | 264582 | [264582-rainman.json](./264582-rainman.json) |
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
@@ -6061,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
 | Reptiloids | 83947 | [83947-reptiloids.json](./83947-reptiloids.json) |
 | Reptiloids 2 | 334831 | [334831-reptiloids-2.json](./334831-reptiloids-2.json) |
+| Reptomom | 113807 | [113807-reptomom.json](./113807-reptomom.json) |
 | Repton | 22693 | [22693-repton.json](./22693-repton.json) |
 | Repton | 9657 | [9657-repton.json](./9657-repton.json) |
 | Repton 2 | 37073 | [37073-repton-2.json](./37073-repton-2.json) |
@@ -9784,7 +9786,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadworks 2 | 189298 | [189298-roadworks-2.json](./189298-roadworks-2.json) |
 | Roadworks Simulator | 33310 | [33310-roadworks-simulator.json](./33310-roadworks-simulator.json) |
 | Roady Life | 190256 | [190256-roady-life.json](./190256-roady-life.json) |
-| Roah | 114892 | [114892-roah.json](./114892-roah.json) |
 | Roald Dahl's Twit or Miss | 249233 | [249233-roald-dahls-twit-or-miss.json](./249233-roald-dahls-twit-or-miss.json) |
 | Roam | 273769 | [273769-roam.json](./273769-roam.json) |
 | Roam | 324521 | [324521-roam.json](./324521-roam.json) |
