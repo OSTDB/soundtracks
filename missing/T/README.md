@@ -4503,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Dog: Ultimate Good Boy | 179982 | [179982-tennis-dog-ultimate-good-boy.json](./179982-tennis-dog-ultimate-good-boy.json) |
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
 | Tennis Elbow | 86158 | [86158-tennis-elbow.json](./86158-tennis-elbow.json) |
+| Tennis Elbow 2006 | 80667 | [80667-tennis-elbow-2006.json](./80667-tennis-elbow-2006.json) |
 | Tennis Elbow 2009 | 66515 | [66515-tennis-elbow-2009.json](./66515-tennis-elbow-2009.json) |
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
 | Tennis Elbow 4 | 140780 | [140780-tennis-elbow-4.json](./140780-tennis-elbow-4.json) |
