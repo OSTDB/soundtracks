@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Corps-Glitch: Multitudes | 268261 | [268261-le-corps-glitch-multitudes.json](./268261-le-corps-glitch-multitudes.json) |
 | Le Crime Du Parking | 264238 | [264238-le-crime-du-parking.json](./264238-le-crime-du-parking.json) |
 | Le Dernier Don | 303624 | [303624-le-dernier-don.json](./303624-le-dernier-don.json) |
+| Le Fantabulous Game | 57245 | [57245-le-fantabulous-game.json](./57245-le-fantabulous-game.json) |
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
 | Le Fol | 255830 | [255830-le-fol.json](./255830-le-fol.json) |
 | Le Frenchie | 151036 | [151036-le-frenchie.json](./151036-le-frenchie.json) |
@@ -5280,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeLine 2018 | 183264 | [183264-lifeline-2018.json](./183264-lifeline-2018.json) |
 | Lifeline: Beside You in Time | 208005 | [208005-lifeline-beside-you-in-time.json](./208005-lifeline-beside-you-in-time.json) |
 | Lifeline: Crisis Line | 57541 | [57541-lifeline-crisis-line.json](./57541-lifeline-crisis-line.json) |
+| Lifeline: Flatline | 57283 | [57283-lifeline-flatline.json](./57283-lifeline-flatline.json) |
 | Lifeline: Halfway to Infinity | 56888 | [56888-lifeline-halfway-to-infinity.json](./56888-lifeline-halfway-to-infinity.json) |
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
@@ -5769,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
 | Lil' Arena | 111275 | [111275-lil-arena.json](./111275-lil-arena.json) |
 | Lil' Blue Buddy | 44249 | [44249-lil-blue-buddy.json](./44249-lil-blue-buddy.json) |
+| Lil' Conquest | 57259 | [57259-lil-conquest.json](./57259-lil-conquest.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
 | Lil' Guardsman | 243914 | [243914-lil-guardsman.json](./243914-lil-guardsman.json) |
 | Lil' Henry and Penny's Big Adventure Pack | 375691 | [375691-lil-henry-and-pennys-big-adventure-pack.json](./375691-lil-henry-and-pennys-big-adventure-pack.json) |
@@ -10020,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Love Knuckle | 288158 | [288158-love-love-knuckle.json](./288158-love-love-knuckle.json) |
 | Love Love Love | 284242 | [284242-love-love-love.json](./284242-love-love-love.json) |
 | Love Love Mystery Club | 386233 | [386233-love-love-mystery-club.json](./386233-love-love-mystery-club.json) |
+| Love Love Paradise | 66263 | [66263-love-love-paradise.json](./66263-love-love-paradise.json) |
 | Love Love School Days | 212174 | [212174-love-love-school-days.json](./212174-love-love-school-days.json) |
 | Love Lust and a Little Evil | 385058 | [385058-love-lust-and-a-little-evil.json](./385058-love-lust-and-a-little-evil.json) |
 | Love M01 | 338299 | [338299-love-m01.json](./338299-love-m01.json) |
