@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Universe | 181010 | [181010-electronic-universe.json](./181010-electronic-universe.json) |
 | Electronic Uno | 233989 | [233989-electronic-uno.json](./233989-electronic-uno.json) |
 | Electronic Volleyball | 41573 | [41573-electronic-volleyball.json](./41573-electronic-volleyball.json) |
+| Electronic Woodfish | 422278 | [422278-electronic-woodfish.json](./422278-electronic-woodfish.json) |
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
 | Electronica | 94497 | [94497-electronica.json](./94497-electronica.json) |
 | Electronics Circuits Simulator | 41919 | [41919-electronics-circuits-simulator.json](./41919-electronics-circuits-simulator.json) |
@@ -7787,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evercore Heroes: Ascension | 248841 | [248841-evercore-heroes-ascension.json](./248841-evercore-heroes-ascension.json) |
 | Evercraft Mechanic: Sandbox | 214205 | [214205-evercraft-mechanic-sandbox.json](./214205-evercraft-mechanic-sandbox.json) |
 | EverCrawl | 204657 | [204657-evercrawl.json](./204657-evercrawl.json) |
+| Evercursed: Act I | 422313 | [422313-evercursed-act-i.json](./422313-evercursed-act-i.json) |
 | Everdale | 165321 | [165321-everdale.json](./165321-everdale.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdark: Undead Apocalypse | 366590 | [366590-everdark-undead-apocalypse.json](./366590-everdark-undead-apocalypse.json) |
