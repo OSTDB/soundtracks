@@ -816,7 +816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints and Sinners | 142799 | [142799-saints-and-sinners.json](./142799-saints-and-sinners.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Reborn | 422512 | [422512-saints-reborn.json](./422512-saints-reborn.json) |
-| Saints Row | 198113 | [198113-saints-row.json](./198113-saints-row.json) |
 | Saints Row 2 | 198115 | [198115-saints-row-2.json](./198115-saints-row-2.json) |
 | Saints Row 2: Corporate Warfare | 135485 | [135485-saints-row-2-corporate-warfare.json](./135485-saints-row-2-corporate-warfare.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
@@ -34663,7 +34662,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bugman Extreme Ultra | 76300 | [76300-super-bugman-extreme-ultra.json](./76300-super-bugman-extreme-ultra.json) |
 | Super Build | 120727 | [120727-super-build.json](./120727-super-build.json) |
 | Super Bull Knight | 234558 | [234558-super-bull-knight.json](./234558-super-bull-knight.json) |
-| Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
 | Super Bullet Break: Day 1 Edition | 198393 | [198393-super-bullet-break-day-1-edition.json](./198393-super-bullet-break-day-1-edition.json) |
 | Super Bumble Trials | 316041 | [316041-super-bumble-trials.json](./316041-super-bumble-trials.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
