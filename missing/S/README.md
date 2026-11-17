@@ -4057,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Riders | 152647 | [152647-scrap-riders.json](./152647-scrap-riders.json) |
 | Scrap Rush!! | 113588 | [113588-scrap-rush.json](./113588-scrap-rush.json) |
 | Scrap Seas | 216533 | [216533-scrap-seas.json](./216533-scrap-seas.json) |
+| Scrap Slot Arena | 428904 | [428904-scrap-slot-arena.json](./428904-scrap-slot-arena.json) |
 | Scrap Squadrons | 393459 | [393459-scrap-squadrons.json](./393459-scrap-squadrons.json) |
 | Scrap Story | 113595 | [113595-scrap-story.json](./113595-scrap-story.json) |
 | Scrap Warden | 258752 | [258752-scrap-warden.json](./258752-scrap-warden.json) |
@@ -8781,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shave & Stuff: Dreads | 373822 | [373822-shave-and-stuff-dreads.json](./373822-shave-and-stuff-dreads.json) |
 | Shave N Quit | 284412 | [284412-shave-n-quit.json](./284412-shave-n-quit.json) |
 | Shaverma: Ravshan Edition | 112943 | [112943-shaverma-ravshan-edition.json](./112943-shaverma-ravshan-edition.json) |
+| Shawarma Hell | 428932 | [428932-shawarma-hell.json](./428932-shawarma-hell.json) |
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
 | Shawarma Legend | 318912 | [318912-shawarma-legend.json](./318912-shawarma-legend.json) |
 | Shawarma or Shaverma | 165914 | [165914-shawarma-or-shaverma.json](./165914-shawarma-or-shaverma.json) |
@@ -20876,6 +20878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Them Cats | 428408 | [428408-sort-them-cats.json](./428408-sort-them-cats.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sort Tiles | 364023 | [364023-sort-tiles.json](./364023-sort-tiles.json) |
+| Sort Till You Sleep | 428930 | [428930-sort-till-you-sleep.json](./428930-sort-till-you-sleep.json) |
 | Sort Your Life Out | 183218 | [183218-sort-your-life-out.json](./183218-sort-your-life-out.json) |
 | Sortalis | 425142 | [425142-sortalis.json](./425142-sortalis.json) |
 | Sorted | 392265 | [392265-sorted.json](./392265-sorted.json) |
@@ -23322,6 +23325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaghetti Western Simulator | 415577 | [415577-spaghetti-western-simulator.json](./415577-spaghetti-western-simulator.json) |
 | SpaghettiKart | 350955 | [350955-spaghettikart.json](./350955-spaghettikart.json) |
 | SpAIceRocks | 340192 | [340192-spaicerocks.json](./340192-spaicerocks.json) |
+| Spain Level Pack | 428893 | [428893-spain-level-pack.json](./428893-spain-level-pack.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
 | Spalg | 337497 | [337497-spalg.json](./337497-spalg.json) |
 | Spam | 315689 | [315689-spam.json](./315689-spam.json) |
@@ -25413,6 +25417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Bubble Party | 95538 | [95538-spongebob-bubble-party.json](./95538-spongebob-bubble-party.json) |
 | SpongeBob Diner Dash 2: Two Times the Trouble | 208781 | [208781-spongebob-diner-dash-2-two-times-the-trouble.json](./208781-spongebob-diner-dash-2-two-times-the-trouble.json) |
 | SpongeBob Excludes Squidward | 388139 | [388139-spongebob-excludes-squidward.json](./388139-spongebob-excludes-squidward.json) |
+| SpongeBob Funny Pack | 428876 | [428876-spongebob-funny-pack.json](./428876-spongebob-funny-pack.json) |
 | Spongebob Games and Patrick Fighting | 102536 | [102536-spongebob-games-and-patrick-fighting.json](./102536-spongebob-games-and-patrick-fighting.json) |
 | SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
@@ -29973,6 +29978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellarHub | 55475 | [55475-stellarhub.json](./55475-stellarhub.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
 | Stellarion | 334158 | [334158-stellarion.json](./334158-stellarion.json) |
+| Stellaris Pack | 428887 | [428887-stellaris-pack.json](./428887-stellaris-pack.json) |
 | Stellaris: Apocalypse | 90095 | [90095-stellaris-apocalypse.json](./90095-stellaris-apocalypse.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Astral Planes | 272910 | [272910-stellaris-astral-planes.json](./272910-stellaris-astral-planes.json) |
@@ -39509,6 +39515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | Swarmslam | 410678 | [410678-swarmslam.json](./410678-swarmslam.json) |
 | SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
+| Swarmvore | 428931 | [428931-swarmvore.json](./428931-swarmvore.json) |
 | SwarmZ | 124226 | [124226-swarmz.json](./124226-swarmz.json) |
 | Swarog | 92950 | [92950-swarog.json](./92950-swarog.json) |
 | Swashbuckler | 23233 | [23233-swashbuckler.json](./23233-swashbuckler.json) |
