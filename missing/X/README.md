@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | XIII Century: Gold Edition | 27847 | [27847-xiii-century-gold-edition.json](./27847-xiii-century-gold-edition.json) |
 | XIII: A Final Game of Tarot With Death | 337924 | [337924-xiii-a-final-game-of-tarot-with-death.json](./337924-xiii-a-final-game-of-tarot-with-death.json) |
+| XIII: Covert Identity | 130412 | [130412-xiii-covert-identity.json](./130412-xiii-covert-identity.json) |
 | XIII: Limited Edition | 136002 | [136002-xiii-limited-edition.json](./136002-xiii-limited-edition.json) |
 | XIII: Lost Identity | 53101 | [53101-xiii-lost-identity.json](./53101-xiii-lost-identity.json) |
 | XIIZeal | 35573 | [35573-xiizeal.json](./35573-xiizeal.json) |
