@@ -4991,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perennial Dusk: Kinsenka | 326641 | [326641-perennial-dusk-kinsenka.json](./326641-perennial-dusk-kinsenka.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
+| Perestroika Drive | 426523 | [426523-perestroika-drive.json](./426523-perestroika-drive.json) |
 | Pereulok: The Series | 72402 | [72402-pereulok-the-series.json](./72402-pereulok-the-series.json) |
 | Perfect | 120049 | [120049-perfect.json](./120049-perfect.json) |
 | Perfect | 30958 | [30958-perfect.json](./30958-perfect.json) |
@@ -10794,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
+| Plants vs. Zombies | 426481 | [426481-plants-vs-zombies.json](./426481-plants-vs-zombies.json) |
 | Plants vs. Zombies 2 Gardendless | 361106 | [361106-plants-vs-zombies-2-gardendless.json](./361106-plants-vs-zombies-2-gardendless.json) |
 | Plants vs. Zombies 2: A Journey Through Time and Space | 287879 | [287879-plants-vs-zombies-2-a-journey-through-time-and-space.json](./287879-plants-vs-zombies-2-a-journey-through-time-and-space.json) |
 | Plants vs. Zombies 2: Alternate UniverZ | 226055 | [226055-plants-vs-zombies-2-alternate-univerz.json](./226055-plants-vs-zombies-2-alternate-univerz.json) |
@@ -16510,6 +16512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
 | Princess Arthur | 63990 | [63990-princess-arthur.json](./63990-princess-arthur.json) |
 | Princess Arthur for Nintendo Switch | 251488 | [251488-princess-arthur-for-nintendo-switch.json](./251488-princess-arthur-for-nintendo-switch.json) |
+| Princess Bakery | 426473 | [426473-princess-bakery.json](./426473-princess-bakery.json) |
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
 | Princess Blue: Hime Kishi Monogatari | 49628 | [49628-princess-blue-hime-kishi-monogatari.json](./49628-princess-blue-hime-kishi-monogatari.json) |
 | Princess Boo - 3D Runner | 99247 | [99247-princess-boo-3d-runner.json](./99247-princess-boo-3d-runner.json) |
@@ -19544,6 +19547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puff Up: Minigames Pack 2 | 345700 | [345700-puff-up-minigames-pack-2.json](./345700-puff-up-minigames-pack-2.json) |
 | Puff Up: Playful Edition | 364095 | [364095-puff-up-playful-edition.json](./364095-puff-up-playful-edition.json) |
 | Puff. | 316817 | [316817-puff.json](./316817-puff.json) |
+| Puff's Sand Castle | 426496 | [426496-puffs-sand-castle.json](./426496-puffs-sand-castle.json) |
 | PuffBomb | 69643 | [69643-puffbomb.json](./69643-puffbomb.json) |
 | Puffer Fish | 95555 | [95555-puffer-fish.json](./95555-puffer-fish.json) |
 | Puffer Pop | 250464 | [250464-puffer-pop.json](./250464-puffer-pop.json) |
@@ -19754,6 +19758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Online | 110273 | [110273-pumpkin-online.json](./110273-pumpkin-online.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | Pumpkin Party | 276617 | [276617-pumpkin-party.json](./276617-pumpkin-party.json) |
+| Pumpkin Reaper | 426522 | [426522-pumpkin-reaper.json](./426522-pumpkin-reaper.json) |
 | Pumpkin Remover | 335743 | [335743-pumpkin-remover.json](./335743-pumpkin-remover.json) |
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
 | Pumpkin Ripper | 224723 | [224723-pumpkin-ripper.json](./224723-pumpkin-ripper.json) |
