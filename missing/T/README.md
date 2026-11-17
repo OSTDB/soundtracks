@@ -9336,6 +9336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disappearance of Emily Crowe | 406859 | [406859-the-disappearance-of-emily-crowe.json](./406859-the-disappearance-of-emily-crowe.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
 | The Disappearing of Gensokyo | 81958 | [81958-the-disappearing-of-gensokyo.json](./81958-the-disappearing-of-gensokyo.json) |
+| The Disappearing of Gensokyo With All Extra Characters | 210157 | [210157-the-disappearing-of-gensokyo-with-all-extra-characters.json](./210157-the-disappearing-of-gensokyo-with-all-extra-characters.json) |
 | The Disappearing of Gensokyo: Kogasa, Iku Character Pack | 170423 | [170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json](./170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json) |
 | The Disappearing of Gensokyo: Patchouli | 210118 | [210118-the-disappearing-of-gensokyo-patchouli.json](./210118-the-disappearing-of-gensokyo-patchouli.json) |
 | The Disappearing of Gensokyo: Sakuya, Koishi, Suika | 210121 | [210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json](./210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json) |
@@ -29874,10 +29875,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Rhythm Game Song Pack | 209443 | [209443-touhou-spell-bubble-rhythm-game-song-pack.json](./209443-touhou-spell-bubble-rhythm-game-song-pack.json) |
 | Touhou Spell Bubble: Rhythm Game Song Pack Vol.2 | 226059 | [226059-touhou-spell-bubble-rhythm-game-song-pack-vol-2.json](./226059-touhou-spell-bubble-rhythm-game-song-pack-vol-2.json) |
 | Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2 | 209468 | [209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json](./209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json) |
+| Touhou Spell Bubble: Scarlet Devil Land Song Pack | 209069 | [209069-touhou-spell-bubble-scarlet-devil-land-song-pack.json](./209069-touhou-spell-bubble-scarlet-devil-land-song-pack.json) |
+| Touhou Spell Bubble: Shinra-Bansho Music Pack | 209073 | [209073-touhou-spell-bubble-shinra-bansho-music-pack.json](./209073-touhou-spell-bubble-shinra-bansho-music-pack.json) |
 | Touhou Spell Bubble: Side Story Pack - Cirno Arc | 209114 | [209114-touhou-spell-bubble-side-story-pack-cirno-arc.json](./209114-touhou-spell-bubble-side-story-pack-cirno-arc.json) |
 | Touhou Spell Bubble: Side Story Pack - Yukari Arc | 209120 | [209120-touhou-spell-bubble-side-story-pack-yukari-arc.json](./209120-touhou-spell-bubble-side-story-pack-yukari-arc.json) |
 | Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
 | Touhou Spell Bubble: Sound Holic - Song Pack | 224507 | [224507-touhou-spell-bubble-sound-holic-song-pack.json](./224507-touhou-spell-bubble-sound-holic-song-pack.json) |
+| Touhou Spell Bubble: Special Music Pack Vol. 2 | 209074 | [209074-touhou-spell-bubble-special-music-pack-vol-2.json](./209074-touhou-spell-bubble-special-music-pack-vol-2.json) |
 | Touhou Spell Bubble: Special Music Pack Vol. 3 | 209075 | [209075-touhou-spell-bubble-special-music-pack-vol-3.json](./209075-touhou-spell-bubble-special-music-pack-vol-3.json) |
 | Touhou Spell Bubble: Special Music Pack Vol. 4 | 209086 | [209086-touhou-spell-bubble-special-music-pack-vol-4.json](./209086-touhou-spell-bubble-special-music-pack-vol-4.json) |
 | Touhou Spell Bubble: Special Music Pack Vol. 5 | 209093 | [209093-touhou-spell-bubble-special-music-pack-vol-5.json](./209093-touhou-spell-bubble-special-music-pack-vol-5.json) |
@@ -31342,6 +31346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: East Coastway: Brighton - Eastbourne & Seaford Route Add-On | 156502 | [156502-train-sim-world-2-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json](./156502-train-sim-world-2-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json) |
 | Train Sim World 2: Great Western Express | 227328 | [227328-train-sim-world-2-great-western-express.json](./227328-train-sim-world-2-great-western-express.json) |
 | Train Sim World 2: Great Western Express Route Add-On | 156509 | [156509-train-sim-world-2-great-western-express-route-add-on.json](./156509-train-sim-world-2-great-western-express-route-add-on.json) |
+| Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains | 207947 | [207947-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains.json](./207947-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains.json) |
 | Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains Route | 195778 | [195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json](./195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json) |
 | Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On | 147456 | [147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json](./147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json) |
 | Train Sim World 2: Hauptstrecke München - Augsburg Route Add-On | 156504 | [156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json](./156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json) |
@@ -31383,6 +31388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Southern BR Class 313 EMU | 193152 | [193152-train-sim-world-2-southern-br-class-313-emu.json](./193152-train-sim-world-2-southern-br-class-313-emu.json) |
 | Train Sim World 2: Spirit of Steam - Liverpool Lime Street: Crewe Route | 201381 | [201381-train-sim-world-2-spirit-of-steam-liverpool-lime-street-crewe-route.json](./201381-train-sim-world-2-spirit-of-steam-liverpool-lime-street-crewe-route.json) |
 | Train Sim World 2: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route | 156503 | [156503-train-sim-world-2-tees-valley-line-darlington-saltburn-by-the-sea-route.json](./156503-train-sim-world-2-tees-valley-line-darlington-saltburn-by-the-sea-route.json) |
+| Train Sim World 2: Tharandter Rampe - Dresden: Chemnitz | 207941 | [207941-train-sim-world-2-tharandter-rampe-dresden-chemnitz.json](./207941-train-sim-world-2-tharandter-rampe-dresden-chemnitz.json) |
 | Train Sim World 2: West Cornwall Local: Penzance - St Austell & St Ives Route | 193157 | [193157-train-sim-world-2-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./193157-train-sim-world-2-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
 | Train Sim World 2: West Somerset Railway Route Add-On | 156514 | [156514-train-sim-world-2-west-somerset-railway-route-add-on.json](./156514-train-sim-world-2-west-somerset-railway-route-add-on.json) |
 | Train Sim World 2020 | 136069 | [136069-train-sim-world-2020.json](./136069-train-sim-world-2020.json) |
