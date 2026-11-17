@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ValkyrieRecomp | 416439 | [416439-valkyrierecomp.json](./416439-valkyrierecomp.json) |
 | Valkyrius | 9434 | [9434-valkyrius.json](./9434-valkyrius.json) |
 | Valkyrius Prime | 32340 | [32340-valkyrius-prime.json](./32340-valkyrius-prime.json) |
+| Valkyrja | 425310 | [425310-valkyrja.json](./425310-valkyrja.json) |
 | Valla | 394379 | [394379-valla.json](./394379-valla.json) |
 | Valledi | 223209 | [223209-valledi.json](./223209-valledi.json) |
 | Vallen | 241955 | [241955-vallen.json](./241955-vallen.json) |
@@ -3201,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuar Z | 270869 | [270869-virtuar-z.json](./270869-virtuar-z.json) |
 | VirtuaVerse | 36850 | [36850-virtuaverse.json](./36850-virtuaverse.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
+| Virtue: Prologue | 425299 | [425299-virtue-prologue.json](./425299-virtue-prologue.json) |
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtuelle Moorhuhn Jagd | 282432 | [282432-virtuelle-moorhuhn-jagd.json](./282432-virtuelle-moorhuhn-jagd.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
