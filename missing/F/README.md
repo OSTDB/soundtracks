@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
 | Fantasy Sino-Japanese War | 114268 | [114268-fantasy-sino-japanese-war.json](./114268-fantasy-sino-japanese-war.json) |
 | Fantasy Sliding Puzzle | 166638 | [166638-fantasy-sliding-puzzle.json](./166638-fantasy-sliding-puzzle.json) |
+| Fantasy Sliding Puzzle 2 | 171102 | [171102-fantasy-sliding-puzzle-2.json](./171102-fantasy-sliding-puzzle-2.json) |
 | Fantasy Sliding Puzzle 3 | 173851 | [173851-fantasy-sliding-puzzle-3.json](./173851-fantasy-sliding-puzzle-3.json) |
 | Fantasy Sliding Puzzle 4 | 189970 | [189970-fantasy-sliding-puzzle-4.json](./189970-fantasy-sliding-puzzle-4.json) |
 | Fantasy Sliding Puzzle 5 | 286462 | [286462-fantasy-sliding-puzzle-5.json](./286462-fantasy-sliding-puzzle-5.json) |
@@ -5281,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's Fury | 72082 | [72082-fighters-fury.json](./72082-fighters-fury.json) |
 | Fighter's History | 8564 | [8564-fighters-history.json](./8564-fighters-history.json) |
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
+| Fighter's History Dynamite | 172795 | [172795-fighters-history-dynamite.json](./172795-fighters-history-dynamite.json) |
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
 | Fighters Destiny | 3496 | [3496-fighters-destiny.json](./3496-fighters-destiny.json) |
 | Fighters Kyodotai | 129612 | [129612-fighters-kyodotai.json](./129612-fighters-kyodotai.json) |
@@ -7135,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Break | 293639 | [293639-first-break.json](./293639-first-break.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
 | First Class Escape 2: Head in the Clouds | 191360 | [191360-first-class-escape-2-head-in-the-clouds.json](./191360-first-class-escape-2-head-in-the-clouds.json) |
+| First Class Escape: The Train of Thought | 171116 | [171116-first-class-escape-the-train-of-thought.json](./171116-first-class-escape-the-train-of-thought.json) |
 | First Class Flurry | 90372 | [90372-first-class-flurry.json](./90372-first-class-flurry.json) |
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Class Solitaire | 366426 | [366426-first-class-solitaire.json](./366426-first-class-solitaire.json) |
@@ -13989,6 +13992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
 | Frog Out! | 107792 | [107792-frog-out.json](./107792-frog-out.json) |
 | Frog Paradise | 276800 | [276800-frog-paradise.json](./276800-frog-paradise.json) |
+| Frog Pond | 172793 | [172793-frog-pond.json](./172793-frog-pond.json) |
 | Frog Pond | 342285 | [342285-frog-pond.json](./342285-frog-pond.json) |
 | Frog Pond Simulator | 394780 | [394780-frog-pond-simulator.json](./394780-frog-pond-simulator.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
