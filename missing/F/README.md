@@ -11735,6 +11735,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Defenders Saga | 87227 | [87227-fort-defenders-saga.json](./87227-fort-defenders-saga.json) |
 | Fort Defense | 24043 | [24043-fort-defense.json](./24043-fort-defense.json) |
 | Fort Defense, Fort Defense North Menace & DayD Tower Rush | 99792 | [99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json](./99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json) |
+| Fort Defense: Atlantic Ocean | 168448 | [168448-fort-defense-atlantic-ocean.json](./168448-fort-defense-atlantic-ocean.json) |
+| Fort Defense: Bermuda Triangle | 168447 | [168447-fort-defense-bermuda-triangle.json](./168447-fort-defense-bermuda-triangle.json) |
 | Fort Defense: Complete Edition | 53064 | [53064-fort-defense-complete-edition.json](./53064-fort-defense-complete-edition.json) |
 | Fort Defense: North Menace | 62011 | [62011-fort-defense-north-menace.json](./62011-fort-defense-north-menace.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
