@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Blocks | 194766 | [194766-undead-blocks.json](./194766-undead-blocks.json) |
 | Undead Bowling | 62273 | [62273-undead-bowling.json](./62273-undead-bowling.json) |
 | Undead Breakout | 196625 | [196625-undead-breakout.json](./196625-undead-breakout.json) |
+| Undead Can Dance | 159914 | [159914-undead-can-dance.json](./159914-undead-can-dance.json) |
 | Undead Carnage League | 233059 | [233059-undead-carnage-league.json](./233059-undead-carnage-league.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead Cave Defence | 338591 | [338591-undead-cave-defence.json](./338591-undead-cave-defence.json) |
