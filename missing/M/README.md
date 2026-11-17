@@ -8865,6 +8865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Battle Network Legacy Collection Vol. 1 | 206844 | [206844-mega-man-battle-network-legacy-collection-vol-1.json](./206844-mega-man-battle-network-legacy-collection-vol-1.json) |
 | Mega Man Battle Network Legacy Collection Vol. 1: Custom Pet Pack Vol. 1 | 254837 | [254837-mega-man-battle-network-legacy-collection-vol-1-custom-pet-pack-vol-1.json](./254837-mega-man-battle-network-legacy-collection-vol-1-custom-pet-pack-vol-1.json) |
+| Mega Man Battle Network Legacy Collection Vol. 2 | 206845 | [206845-mega-man-battle-network-legacy-collection-vol-2.json](./206845-mega-man-battle-network-legacy-collection-vol-2.json) |
 | Mega Man Battle Network Legacy Collection Vol. 2: Custom Pet Pack Vol. 2 | 254838 | [254838-mega-man-battle-network-legacy-collection-vol-2-custom-pet-pack-vol-2.json](./254838-mega-man-battle-network-legacy-collection-vol-2-custom-pet-pack-vol-2.json) |
 | Mega Man Battle Network Mashup | 417326 | [417326-mega-man-battle-network-mashup.json](./417326-mega-man-battle-network-mashup.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
@@ -13878,6 +13879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindframe Arena | 98276 | [98276-mindframe-arena.json](./98276-mindframe-arena.json) |
 | Mindframe: The Secret Design | 140192 | [140192-mindframe-the-secret-design.json](./140192-mindframe-the-secret-design.json) |
 | Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
+| Mindfulness Simulator: ASMR Meditation Game | 206869 | [206869-mindfulness-simulator-asmr-meditation-game.json](./206869-mindfulness-simulator-asmr-meditation-game.json) |
 | Mindfunk in 13 Days | 397938 | [397938-mindfunk-in-13-days.json](./397938-mindfunk-in-13-days.json) |
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
@@ -15084,6 +15086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Asobo: Shanghai DS 2 | 71570 | [71570-minna-de-asobo-shanghai-ds-2.json](./71570-minna-de-asobo-shanghai-ds-2.json) |
 | Minna de Asobou: Koinu de Kururin | 408865 | [408865-minna-de-asobou-koinu-de-kururin.json](./408865-minna-de-asobou-koinu-de-kururin.json) |
 | Minna de Auto Racing 3D | 222432 | [222432-minna-de-auto-racing-3d.json](./222432-minna-de-auto-racing-3d.json) |
+| Minna de Bokujou Monogatari | 206849 | [206849-minna-de-bokujou-monogatari.json](./206849-minna-de-bokujou-monogatari.json) |
 | Minna De Daifugo | 222446 | [222446-minna-de-daifugo.json](./222446-minna-de-daifugo.json) |
 | Minna de Hayaoshi Quiz | 238971 | [238971-minna-de-hayaoshi-quiz.json](./238971-minna-de-hayaoshi-quiz.json) |
 | Minna de Jibun no Setsumeisho: B-Kata, A-Kata, AB-Kata, O-Kata | 92353 | [92353-minna-de-jibun-no-setsumeisho-b-kata-a-kata-ab-kata-o-kata.json](./92353-minna-de-jibun-no-setsumeisho-b-kata-a-kata-ab-kata-o-kata.json) |
@@ -15511,6 +15514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Satsuki Edition | 225039 | [225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json](./225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json) |
 | Mischief House | 408864 | [408864-mischief-house.json](./408864-mischief-house.json) |
 | Mischief Makers | 3412 | [3412-mischief-makers.json](./3412-mischief-makers.json) |
+| Mischief Makers Online | 206857 | [206857-mischief-makers-online.json](./206857-mischief-makers-online.json) |
 | Mischief Mandarin | 412790 | [412790-mischief-mandarin.json](./412790-mischief-mandarin.json) |
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
 | Mischief Moves In | 414166 | [414166-mischief-moves-in.json](./414166-mischief-moves-in.json) |
@@ -19729,6 +19733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Revelations | 45154 | [45154-mortal-kombat-revelations.json](./45154-mortal-kombat-revelations.json) |
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 199431 | [199431-mortal-kombat-trilogy.json](./199431-mortal-kombat-trilogy.json) |
+| Mortal Kombat Trilogy | 206855 | [206855-mortal-kombat-trilogy.json](./206855-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy: Giga Fighters - Your Virtual Fighter | 218020 | [218020-mortal-kombat-trilogy-giga-fighters-your-virtual-fighter.json](./218020-mortal-kombat-trilogy-giga-fighters-your-virtual-fighter.json) |
 | Mortal Kombat vs DC Universe: Silver Shield Combo Pack | 136302 | [136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json](./136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json) |
@@ -23794,6 +23799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magical Boyfriend | 230179 | [230179-my-magical-boyfriend.json](./230179-my-magical-boyfriend.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Magical Girlfriends | 210775 | [210775-my-magical-girlfriends.json](./210775-my-magical-girlfriends.json) |
+| My Maid Cafe Romance | 206863 | [206863-my-maid-cafe-romance.json](./206863-my-maid-cafe-romance.json) |
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
 | My Maid Girls | 310773 | [310773-my-maid-girls.json](./310773-my-maid-girls.json) |
 | My Maitê | 152515 | [152515-my-maite.json](./152515-my-maite.json) |
