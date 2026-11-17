@@ -19340,7 +19340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror: Deluxe Edition | 146789 | [146789-song-of-horror-deluxe-edition.json](./146789-song-of-horror-deluxe-edition.json) |
 | Song of Horror: Episode 2 | 135149 | [135149-song-of-horror-episode-2.json](./135149-song-of-horror-episode-2.json) |
 | Song of Horror: One Shot Challenge | 273565 | [273565-song-of-horror-one-shot-challenge.json](./273565-song-of-horror-one-shot-challenge.json) |
-| Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
 | Song of Iron II | 217637 | [217637-song-of-iron-ii.json](./217637-song-of-iron-ii.json) |
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
 | Song of Larithea | 423318 | [423318-song-of-larithea.json](./423318-song-of-larithea.json) |
@@ -21868,7 +21867,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chaser | 39803 | [39803-space-chaser.json](./39803-space-chaser.json) |
 | Space Cheese Defenders | 278511 | [278511-space-cheese-defenders.json](./278511-space-cheese-defenders.json) |
 | Space Cheetah Hyper Runner | 224820 | [224820-space-cheetah-hyper-runner.json](./224820-space-cheetah-hyper-runner.json) |
-| Space Chef | 132526 | [132526-space-chef.json](./132526-space-chef.json) |
 | Space Chess | 364123 | [364123-space-chess.json](./364123-space-chess.json) |
 | Space Chicks | 60792 | [60792-space-chicks.json](./60792-space-chicks.json) |
 | Space Child | 53621 | [53621-space-child.json](./53621-space-child.json) |
