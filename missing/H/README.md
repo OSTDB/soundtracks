@@ -10100,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold the Plates | 170073 | [170073-hold-the-plates.json](./170073-hold-the-plates.json) |
 | Hold Up | 385504 | [385504-hold-up.json](./385504-hold-up.json) |
 | Hold Your Breadth DX | 374640 | [374640-hold-your-breadth-dx.json](./374640-hold-your-breadth-dx.json) |
+| Hold Your Breath | 421078 | [421078-hold-your-breath.json](./421078-hold-your-breath.json) |
 | Hold Your Fire: A Game About Responsibility | 20029 | [20029-hold-your-fire-a-game-about-responsibility.json](./20029-hold-your-fire-a-game-about-responsibility.json) |
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
 | Hold Your Horses | 417468 | [417468-hold-your-horses.json](./417468-hold-your-horses.json) |
@@ -12809,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Party: Winter Holiday Pack | 281265 | [281265-house-party-winter-holiday-pack.json](./281265-house-party-winter-holiday-pack.json) |
 | House Quest 2 | 322834 | [322834-house-quest-2.json](./322834-house-quest-2.json) |
 | House Renovator Simulator | 350052 | [350052-house-renovator-simulator.json](./350052-house-renovator-simulator.json) |
+| House Rules | 421076 | [421076-house-rules.json](./421076-house-rules.json) |
 | House Sitter | 142002 | [142002-house-sitter.json](./142002-house-sitter.json) |
 | House Sitter Escape Game | 241290 | [241290-house-sitter-escape-game.json](./241290-house-sitter-escape-game.json) |
 | House Spider Survival Simulator 3D | 103917 | [103917-house-spider-survival-simulator-3d.json](./103917-house-spider-survival-simulator-3d.json) |
