@@ -9983,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitgun: Prelude | 211466 | [211466-bitgun-prelude.json](./211466-bitgun-prelude.json) |
 | Bitgwa Eodumui Jeonjaeng | 220290 | [220290-bitgwa-eodumui-jeonjaeng.json](./220290-bitgwa-eodumui-jeonjaeng.json) |
 | BitHero Survivors | 366982 | [366982-bithero-survivors.json](./366982-bithero-survivors.json) |
+| Bitie Snake | 418166 | [418166-bitie-snake.json](./418166-bitie-snake.json) |
 | Bitiverse | 412905 | [412905-bitiverse.json](./412905-bitiverse.json) |
 | Bitkub Metaverse | 320111 | [320111-bitkub-metaverse.json](./320111-bitkub-metaverse.json) |
 | Bitlands | 197193 | [197193-bitlands.json](./197193-bitlands.json) |
@@ -13547,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BluStone | 98148 | [98148-blustone.json](./98148-blustone.json) |
 | Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
 | Blutkapelle | 420555 | [420555-blutkapelle.json](./420555-blutkapelle.json) |
+| Bluy Leaves Home | 418146 | [418146-bluy-leaves-home.json](./418146-bluy-leaves-home.json) |
 | Blym | 108914 | [108914-blym.json](./108914-blym.json) |
 | Blyss | 174578 | [174578-blyss.json](./174578-blyss.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
@@ -16749,6 +16751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish: The Dark Revenant | 23806 | [23806-brandish-the-dark-revenant.json](./23806-brandish-the-dark-revenant.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Brandon, You're Going to Hell! | 167748 | [167748-brandon-youre-going-to-hell.json](./167748-brandon-youre-going-to-hell.json) |
+| Brands Deluxe | 418176 | [418176-brands-deluxe.json](./418176-brands-deluxe.json) |
 | Brands Hatch | 55997 | [55997-brands-hatch.json](./55997-brands-hatch.json) |
 | Brane | 183261 | [183261-brane.json](./183261-brane.json) |
 | Brane: Prototype | 104586 | [104586-brane-prototype.json](./104586-brane-prototype.json) |
