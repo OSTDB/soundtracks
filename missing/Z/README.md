@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zedwolf | 287364 | [287364-zedwolf.json](./287364-zedwolf.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
 | Zee.End | 170280 | [170280-zee-end.json](./170280-zee-end.json) |
+| Zeebo Extreme: Baja | 84392 | [84392-zeebo-extreme-baja.json](./84392-zeebo-extreme-baja.json) |
 | Zeebo Extreme: Bóia Cross | 66504 | [66504-zeebo-extreme-boia-cross.json](./66504-zeebo-extreme-boia-cross.json) |
 | Zeebo Extreme: Corrida Aérea | 66503 | [66503-zeebo-extreme-corrida-aerea.json](./66503-zeebo-extreme-corrida-aerea.json) |
 | Zeebo Extreme: Jetboard | 66502 | [66502-zeebo-extreme-jetboard.json](./66502-zeebo-extreme-jetboard.json) |
@@ -2935,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zwart Wit | 187044 | [187044-zwart-wit.json](./187044-zwart-wit.json) |
 | Zwei Trigger | 371565 | [371565-zwei-trigger.json](./371565-zwei-trigger.json) |
 | Zwei: The Ilvard Insurrection | 36701 | [36701-zwei-the-ilvard-insurrection.json](./36701-zwei-the-ilvard-insurrection.json) |
+| Zwei!! Online | 84366 | [84366-zwei-online.json](./84366-zwei-online.json) |
 | Zwei!!: The Arges Adventure | 61631 | [61631-zwei-the-arges-adventure.json](./61631-zwei-the-arges-adventure.json) |
 | Zwerg: A Tale of Beer and Hunger | 413710 | [413710-zwerg-a-tale-of-beer-and-hunger.json](./413710-zwerg-a-tale-of-beer-and-hunger.json) |
 | Zwiadowca | 398710 | [398710-zwiadowca.json](./398710-zwiadowca.json) |
