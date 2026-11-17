@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Ride | 95444 | [95444-ultimate-ride.json](./95444-ultimate-ride.json) |
 | Ultimate Ride Coaster Deluxe | 23468 | [23468-ultimate-ride-coaster-deluxe.json](./23468-ultimate-ride-coaster-deluxe.json) |
 | Ultimate Ride Jumps Collection | 387670 | [387670-ultimate-ride-jumps-collection.json](./387670-ultimate-ride-jumps-collection.json) |
+| Ultimate Ride: Disney Coaster | 72885 | [72885-ultimate-ride-disney-coaster.json](./72885-ultimate-ride-disney-coaster.json) |
 | Ultimate Riders | 365015 | [365015-ultimate-riders.json](./365015-ultimate-riders.json) |
 | Ultimate Rivals: The Court | 150098 | [150098-ultimate-rivals-the-court.json](./150098-ultimate-rivals-the-court.json) |
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
