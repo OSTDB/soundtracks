@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B. Braun Aesculap Spine VR | 107686 | [107686-b-braun-aesculap-spine-vr.json](./107686-b-braun-aesculap-spine-vr.json) |
 | B. Braun Future Operating Room | 30686 | [30686-b-braun-future-operating-room.json](./30686-b-braun-future-operating-room.json) |
 | B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
+| B. Rap Boys | 39903 | [39903-b-rap-boys.json](./39903-b-rap-boys.json) |
 | B.A.D Battle Armor Division | 34960 | [34960-b-a-d-battle-armor-division.json](./34960-b-a-d-battle-armor-division.json) |
 | B.A.D. | 362277 | [362277-b-a-d.json](./362277-b-a-d.json) |
 | B.A.D. Institute | 367067 | [367067-b-a-d-institute.json](./367067-b-a-d-institute.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Bomber | 39294 | [39294-balloon-bomber.json](./39294-balloon-bomber.json) |
 | Balloon Bounce | 366401 | [366401-balloon-bounce.json](./366401-balloon-bounce.json) |
 | Balloon Bros | 381095 | [381095-balloon-bros.json](./381095-balloon-bros.json) |
+| Balloon Brothers | 38601 | [38601-balloon-brothers.json](./38601-balloon-brothers.json) |
 | Balloon Buster | 13371 | [13371-balloon-buster.json](./13371-balloon-buster.json) |
 | Balloon Buster | 360121 | [360121-balloon-buster.json](./360121-balloon-buster.json) |
 | Balloon Chair Death Match | 32383 | [32383-balloon-chair-death-match.json](./32383-balloon-chair-death-match.json) |
@@ -3271,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baru and the Spirit Prince | 29984 | [29984-baru-and-the-spirit-prince.json](./29984-baru-and-the-spirit-prince.json) |
 | Barunba | 42087 | [42087-barunba.json](./42087-barunba.json) |
 | Baryoland | 269483 | [269483-baryoland.json](./269483-baryoland.json) |
+| Baryon | 39915 | [39915-baryon.json](./39915-baryon.json) |
 | BAS | 287363 | [287363-bas.json](./287363-bas.json) |
 | Bas de Beer naar Pirateneiland | 406428 | [406428-bas-de-beer-naar-pirateneiland.json](./406428-bas-de-beer-naar-pirateneiland.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
@@ -15415,6 +15418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Battle Arena | 371065 | [371065-boss-battle-arena.json](./371065-boss-battle-arena.json) |
 | Boss Beek-Beekeeping Simulator | 188782 | [188782-boss-beek-beekeeping-simulator.json](./188782-boss-beek-beekeeping-simulator.json) |
 | Boss Breaker | 291348 | [291348-boss-breaker.json](./291348-boss-breaker.json) |
+| Boss Defiance | 39924 | [39924-boss-defiance.json](./39924-boss-defiance.json) |
 | Boss Faction | 393869 | [393869-boss-faction.json](./393869-boss-faction.json) |
 | Boss Fighters | 235372 | [235372-boss-fighters.json](./235372-boss-fighters.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
