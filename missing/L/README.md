@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand Halloween | 359902 | [359902-last-stand-halloween.json](./359902-last-stand-halloween.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
+| Last Standard | 74542 | [74542-last-standard.json](./74542-last-standard.json) |
 | Last Standing | 156923 | [156923-last-standing.json](./156923-last-standing.json) |
 | Last Standing | 292431 | [292431-last-standing.json](./292431-last-standing.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
