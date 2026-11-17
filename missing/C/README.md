@@ -19328,6 +19328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Scientist | 59140 | [59140-crazy-scientist.json](./59140-crazy-scientist.json) |
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
 | Crazy Seasons | 12553 | [12553-crazy-seasons.json](./12553-crazy-seasons.json) |
+| Crazy Shapes | 78116 | [78116-crazy-shapes.json](./78116-crazy-shapes.json) |
 | Crazy Shark | 203799 | [203799-crazy-shark.json](./203799-crazy-shark.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Shoot | 237989 | [237989-crazy-shoot.json](./237989-crazy-shoot.json) |
@@ -20378,6 +20379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Maid | 159486 | [159486-cross-maid.json](./159486-cross-maid.json) |
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
+| Cross of Auria | 76781 | [76781-cross-of-auria.json](./76781-cross-of-auria.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Out the Intruder | 13376 | [13376-cross-out-the-intruder.json](./13376-cross-out-the-intruder.json) |
 | Cross Pang | 39938 | [39938-cross-pang.json](./39938-cross-pang.json) |
