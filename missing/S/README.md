@@ -38207,7 +38207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket VR | 354906 | [354906-supermarket-vr.json](./354906-supermarket-vr.json) |
 | Supermarket VR | 99427 | [99427-supermarket-vr.json](./99427-supermarket-vr.json) |
 | Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
-| SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
 | Supermaze | 385915 | [385915-supermaze.json](./385915-supermaze.json) |
 | SuperMind | 86906 | [86906-supermind.json](./86906-supermind.json) |
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
