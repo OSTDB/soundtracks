@@ -4744,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Hunter VR | 29447 | [29447-deadly-hunter-vr.json](./29447-deadly-hunter-vr.json) |
 | Deadly Infestation | 190157 | [190157-deadly-infestation.json](./190157-deadly-infestation.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
+| Deadly Kingdom | 115102 | [115102-deadly-kingdom.json](./115102-deadly-kingdom.json) |
 | Deadly Kiss | 343351 | [343351-deadly-kiss.json](./343351-deadly-kiss.json) |
 | Deadly Land | 129310 | [129310-deadly-land.json](./129310-deadly-land.json) |
 | Deadly Match | 423960 | [423960-deadly-match.json](./423960-deadly-match.json) |
@@ -10057,6 +10058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Again | 133340 | [133340-die-again.json](./133340-die-again.json) |
 | Die Again: Northern Front | 172091 | [172091-die-again-northern-front.json](./172091-die-again-northern-front.json) |
 | Die Alien Slime | 13593 | [13593-die-alien-slime.json](./13593-die-alien-slime.json) |
+| Die Already | 116481 | [116481-die-already.json](./116481-die-already.json) |
 | Die Bahnwelt | 82035 | [82035-die-bahnwelt.json](./82035-die-bahnwelt.json) |
 | Die Bewerbung | 405484 | [405484-die-bewerbung.json](./405484-die-bewerbung.json) |
 | Die Biene Maja: Klatschmohnwiese in Gefahr | 94425 | [94425-die-biene-maja-klatschmohnwiese-in-gefahr.json](./94425-die-biene-maja-klatschmohnwiese-in-gefahr.json) |
@@ -21665,6 +21667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust to the End | 146016 | [146016-dust-to-the-end.json](./146016-dust-to-the-end.json) |
 | Dust Town | 386227 | [386227-dust-town.json](./386227-dust-town.json) |
 | Dust Walkers | 349522 | [349522-dust-walkers.json](./349522-dust-walkers.json) |
+| Dust-Up | 115100 | [115100-dust-up.json](./115100-dust-up.json) |
 | Dust: A Post Apocalyptic Role Playing Game | 199751 | [199751-dust-a-post-apocalyptic-role-playing-game.json](./199751-dust-a-post-apocalyptic-role-playing-game.json) |
 | Dust: A Tale of the Wired West | 21868 | [21868-dust-a-tale-of-the-wired-west.json](./21868-dust-a-tale-of-the-wired-west.json) |
 | Dust: An Elysian Tail | 2130 | [2130-dust-an-elysian-tail.json](./2130-dust-an-elysian-tail.json) |
