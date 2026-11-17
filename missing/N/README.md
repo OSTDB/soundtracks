@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrotel: No Checkout | 400665 | [400665-necrotel-no-checkout.json](./400665-necrotel-no-checkout.json) |
 | Necrotic Drift | 76179 | [76179-necrotic-drift.json](./76179-necrotic-drift.json) |
 | Necrotic Haze | 256420 | [256420-necrotic-haze.json](./256420-necrotic-haze.json) |
+| Necrotopia | 189087 | [189087-necrotopia.json](./189087-necrotopia.json) |
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Necroverse: Undying Shadows | 391262 | [391262-necroverse-undying-shadows.json](./391262-necroverse-undying-shadows.json) |
 | NecroVisioN | 10591 | [10591-necrovision.json](./10591-necrovision.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Networm | 34333 | [34333-networm.json](./34333-networm.json) |
 | Neues | 387131 | [387131-neues.json](./387131-neues.json) |
 | Neugier: Umi to Kaze no Kodou | 15848 | [15848-neugier-umi-to-kaze-no-kodou.json](./15848-neugier-umi-to-kaze-no-kodou.json) |
+| Neura Mechanicus | 189030 | [189030-neura-mechanicus.json](./189030-neura-mechanicus.json) |
 | NeuraGun | 187699 | [187699-neuragun.json](./187699-neuragun.json) |
 | Neural Cloud | 219969 | [219969-neural-cloud.json](./219969-neural-cloud.json) |
 | Neural Construct | 261580 | [261580-neural-construct.json](./261580-neural-construct.json) |
