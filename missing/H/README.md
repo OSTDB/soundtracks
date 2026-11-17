@@ -3395,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayarigami 2: Keishichou Kaii Jiken File | 79330 | [79330-hayarigami-2-keishichou-kaii-jiken-file.json](./79330-hayarigami-2-keishichou-kaii-jiken-file.json) |
 | Hayarigami 3: Keishichou Kaii Jiken File | 257763 | [257763-hayarigami-3-keishichou-kaii-jiken-file.json](./257763-hayarigami-3-keishichou-kaii-jiken-file.json) |
 | Hayarigami 3: Keishichou Kaii Jiken File | 259603 | [259603-hayarigami-3-keishichou-kaii-jiken-file.json](./259603-hayarigami-3-keishichou-kaii-jiken-file.json) |
+| Hayarigami 3: Keishichou Kaii Jiken File | 61782 | [61782-hayarigami-3-keishichou-kaii-jiken-file.json](./61782-hayarigami-3-keishichou-kaii-jiken-file.json) |
 | Hayarigami DS: Toshi Densetsu Kaii Jiken | 287490 | [287490-hayarigami-ds-toshi-densetsu-kaii-jiken.json](./287490-hayarigami-ds-toshi-densetsu-kaii-jiken.json) |
 | Hayarigami Portable: Keishichou Kaii Jiken File | 79329 | [79329-hayarigami-portable-keishichou-kaii-jiken-file.json](./79329-hayarigami-portable-keishichou-kaii-jiken-file.json) |
 | Hayarigami: Keishichou Kaii Jiken File | 257765 | [257765-hayarigami-keishichou-kaii-jiken-file.json](./257765-hayarigami-keishichou-kaii-jiken-file.json) |
@@ -3759,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Dungeon | 306878 | [306878-heart-dungeon.json](./306878-heart-dungeon.json) |
 | Heart Electric | 328329 | [328329-heart-electric.json](./328329-heart-electric.json) |
 | Heart Flipper: A House Flipper Dating Sim | 381165 | [381165-heart-flipper-a-house-flipper-dating-sim.json](./381165-heart-flipper-a-house-flipper-dating-sim.json) |
+| Heart Forth, Alicia | 61807 | [61807-heart-forth-alicia.json](./61807-heart-forth-alicia.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
 | Heart Fragment: Book Three - Despair Fragments | 246566 | [246566-heart-fragment-book-three-despair-fragments.json](./246566-heart-fragment-book-three-despair-fragments.json) |
@@ -9374,6 +9376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
 | Hired: Assassin Simulator | 244673 | [244673-hired-assassin-simulator.json](./244673-hired-assassin-simulator.json) |
 | Hirilun | 151062 | [151062-hirilun.json](./151062-hirilun.json) |
+| Hiro Fodder | 62887 | [62887-hiro-fodder.json](./62887-hiro-fodder.json) |
 | Hiro's Escape | 139603 | [139603-hiros-escape.json](./139603-hiros-escape.json) |
 | Hiro's Forest Rumble | 81594 | [81594-hiros-forest-rumble.json](./81594-hiros-forest-rumble.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
@@ -14629,6 +14632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
 | Hyperwurm Is Back! | 400714 | [400714-hyperwurm-is-back.json](./400714-hyperwurm-is-back.json) |
+| HyperXBall | 65103 | [65103-hyperxball.json](./65103-hyperxball.json) |
 | HyperYuki: Snowboard Syndicate | 366586 | [366586-hyperyuki-snowboard-syndicate.json](./366586-hyperyuki-snowboard-syndicate.json) |
 | HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
