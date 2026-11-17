@@ -3635,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weirdose | 423666 | [423666-weirdose.json](./423666-weirdose.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
+| Weiß Schwarz Online | 419717 | [419717-wei-schwarz-online.json](./419717-wei-schwarz-online.json) |
 | Weiss Schwarz Portable: 2nd Turn | 269508 | [269508-weiss-schwarz-portable-2nd-turn.json](./269508-weiss-schwarz-portable-2nd-turn.json) |
 | Weiss Schwarz Portable: Boost Schwarz | 269506 | [269506-weiss-schwarz-portable-boost-schwarz.json](./269506-weiss-schwarz-portable-boost-schwarz.json) |
 | Weiss Schwarz Portable: Boost Weiss | 86166 | [86166-weiss-schwarz-portable-boost-weiss.json](./86166-weiss-schwarz-portable-boost-weiss.json) |
