@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Lanterns | 74060 | [74060-magic-lanterns.json](./74060-magic-lanterns.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
 | Magic League - Castle Wars | 108214 | [108214-magic-league-castle-wars.json](./108214-magic-league-castle-wars.json) |
+| Magic Lessons in Wand Valley | 162445 | [162445-magic-lessons-in-wand-valley.json](./162445-magic-lessons-in-wand-valley.json) |
 | Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
 | Magic Lines | 15254 | [15254-magic-lines.json](./15254-magic-lines.json) |
@@ -17576,6 +17577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Tales: The Museum of Anything | 18458 | [18458-monkey-tales-the-museum-of-anything.json](./18458-monkey-tales-the-museum-of-anything.json) |
 | Monkey Tales: The Princess of Sundara | 18457 | [18457-monkey-tales-the-princess-of-sundara.json](./18457-monkey-tales-the-princess-of-sundara.json) |
 | Monkey Tales: The Valley of the Jackal | 18461 | [18461-monkey-tales-the-valley-of-the-jackal.json](./18461-monkey-tales-the-valley-of-the-jackal.json) |
+| Monkey Tantrum | 162437 | [162437-monkey-tantrum.json](./162437-monkey-tantrum.json) |
 | Monkey Testing | 373780 | [373780-monkey-testing.json](./373780-monkey-testing.json) |
 | Monkey Time | 187300 | [187300-monkey-time.json](./187300-monkey-time.json) |
 | Monkey Turn V | 58065 | [58065-monkey-turn-v.json](./58065-monkey-turn-v.json) |
