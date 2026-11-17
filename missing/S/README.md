@@ -21744,6 +21744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Arena | 101030 | [101030-space-arena.json](./101030-space-arena.json) |
 | Space Ark | 14921 | [14921-space-ark.json](./14921-space-ark.json) |
 | Space Ark | 211553 | [211553-space-ark.json](./211553-space-ark.json) |
+| Space Armada | 18646 | [18646-space-armada.json](./18646-space-armada.json) |
 | Space Armor | 6137 | [6137-space-armor.json](./6137-space-armor.json) |
 | Space Armor 2 | 101300 | [101300-space-armor-2.json](./101300-space-armor-2.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
@@ -25971,6 +25972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springbot: The Last Spark | 403726 | [403726-springbot-the-last-spark.json](./403726-springbot-the-last-spark.json) |
 | Springcar | 391155 | [391155-springcar.json](./391155-springcar.json) |
 | Springdale: Riding Adventures | 200000 | [200000-springdale-riding-adventures.json](./200000-springdale-riding-adventures.json) |
+| Springer | 18652 | [18652-springer.json](./18652-springer.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
 | SpringFling | 254557 | [254557-springfling.json](./254557-springfling.json) |
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
@@ -40273,11 +40275,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: Born of Blood | 10934 | [10934-sword-of-the-stars-born-of-blood.json](./10934-sword-of-the-stars-born-of-blood.json) |
 | Sword of the Stars: Ground Pounders | 10378 | [10378-sword-of-the-stars-ground-pounders.json](./10378-sword-of-the-stars-ground-pounders.json) |
 | Sword of the Stars: The Pit | 10938 | [10938-sword-of-the-stars-the-pit.json](./10938-sword-of-the-stars-the-pit.json) |
+| Sword of the Stars: The Pit - Gold Edition | 14643 | [14643-sword-of-the-stars-the-pit-gold-edition.json](./14643-sword-of-the-stars-the-pit-gold-edition.json) |
 | Sword of the Stars: The Pit - Healer | 19868 | [19868-sword-of-the-stars-the-pit-healer.json](./19868-sword-of-the-stars-the-pit-healer.json) |
 | Sword of the Stars: The Pit - Juggernaut | 8779 | [8779-sword-of-the-stars-the-pit-juggernaut.json](./8779-sword-of-the-stars-the-pit-juggernaut.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
+| Sword of the Stars: The Pit - Necromancer | 14645 | [14645-sword-of-the-stars-the-pit-necromancer.json](./14645-sword-of-the-stars-the-pit-necromancer.json) |
 | Sword of the Stars: The Pit - Osmium Edition | 124915 | [124915-sword-of-the-stars-the-pit-osmium-edition.json](./124915-sword-of-the-stars-the-pit-osmium-edition.json) |
 | Sword of the Stars: The Pit - Osmium Edition: Juggernaut | 125000 | [125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json](./125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json) |
+| Sword of the Stars: The Pit - The Pilgrim | 14644 | [14644-sword-of-the-stars-the-pit-the-pilgrim.json](./14644-sword-of-the-stars-the-pit-the-pilgrim.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
