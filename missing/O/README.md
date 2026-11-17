@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
 | Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
 | Offshore Tycoon | 50740 | [50740-offshore-tycoon.json](./50740-offshore-tycoon.json) |
+| Offside | 109789 | [109789-offside.json](./109789-offside.json) |
 | Offside | 127802 | [127802-offside.json](./127802-offside.json) |
 | Offside Deal: Football At Any Costs | 422011 | [422011-offside-deal-football-at-any-costs.json](./422011-offside-deal-football-at-any-costs.json) |
 | Offsuit Pair | 354938 | [354938-offsuit-pair.json](./354938-offsuit-pair.json) |
