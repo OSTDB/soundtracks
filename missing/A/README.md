@@ -12626,7 +12626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Dungeon | 245210 | [245210-another-dungeon.json](./245210-another-dungeon.json) |
 | Another Dungeon Game | 217274 | [217274-another-dungeon-game.json](./217274-another-dungeon-game.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
-| Another Eden Begins | 388448 | [388448-another-eden-begins.json](./388448-another-eden-begins.json) |
 | Another Eye | 151613 | [151613-another-eye.json](./151613-another-eye.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Farm Roguelike: Rebirth | 283914 | [283914-another-farm-roguelike-rebirth.json](./283914-another-farm-roguelike-rebirth.json) |
