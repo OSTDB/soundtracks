@@ -10364,6 +10364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Bash | 55722 | [55722-planet-bash.json](./55722-planet-bash.json) |
 | Planet Basket 2009 2010 | 268383 | [268383-planet-basket-2009-2010.json](./268383-planet-basket-2009-2010.json) |
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
+| Planet Blupi | 182408 | [182408-planet-blupi.json](./182408-planet-blupi.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Bomber! | 104428 | [104428-planet-bomber.json](./104428-planet-bomber.json) |
 | Planet Boom | 192732 | [192732-planet-boom.json](./192732-planet-boom.json) |
@@ -15758,6 +15759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precognition Dream's Greenhouse | 392240 | [392240-precognition-dreams-greenhouse.json](./392240-precognition-dreams-greenhouse.json) |
 | Precrna Rupa | 408598 | [408598-precrna-rupa.json](./408598-precrna-rupa.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
+| Precursor | 183640 | [183640-precursor.json](./183640-precursor.json) |
 | Precursors: Armored Angels | 190813 | [190813-precursors-armored-angels.json](./190813-precursors-armored-angels.json) |
 | Predator | 15345 | [15345-predator.json](./15345-predator.json) |
 | Predator | 298432 | [298432-predator.json](./298432-predator.json) |
