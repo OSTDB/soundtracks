@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
 | A Land Fit For Heroes | 22441 | [22441-a-land-fit-for-heroes.json](./22441-a-land-fit-for-heroes.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
+| A Lanterns Glow | 130422 | [130422-a-lanterns-glow.json](./130422-a-lanterns-glow.json) |
 | A Large Quantity of Mushrooms | 31605 | [31605-a-large-quantity-of-mushrooms.json](./31605-a-large-quantity-of-mushrooms.json) |
 | A Last Ditch Effort | 308683 | [308683-a-last-ditch-effort.json](./308683-a-last-ditch-effort.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
@@ -6543,7 +6544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
 | Air Traffic Sim: Airport Dispatcher Simulator | 290464 | [290464-air-traffic-sim-airport-dispatcher-simulator.json](./290464-air-traffic-sim-airport-dispatcher-simulator.json) |
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
-| Air Twister | 203458 | [203458-air-twister.json](./203458-air-twister.json) |
 | Air Tycoon 2 | 175127 | [175127-air-tycoon-2.json](./175127-air-tycoon-2.json) |
 | Air VR | 195906 | [195906-air-vr.json](./195906-air-vr.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
@@ -6673,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline | 15592 | [15592-airline.json](./15592-airline.json) |
 | Airline | 319565 | [319565-airline.json](./319565-airline.json) |
 | Airline 69 II: Krasser's Revenge | 134571 | [134571-airline-69-ii-krassers-revenge.json](./134571-airline-69-ii-krassers-revenge.json) |
+| Airline 69: Return to Casablanca | 130446 | [130446-airline-69-return-to-casablanca.json](./130446-airline-69-return-to-casablanca.json) |
 | Airline Boss | 289123 | [289123-airline-boss.json](./289123-airline-boss.json) |
 | Airline Commander | 106592 | [106592-airline-commander.json](./106592-airline-commander.json) |
 | Airline Commander: A Real Flight Experience | 106598 | [106598-airline-commander-a-real-flight-experience.json](./106598-airline-commander-a-real-flight-experience.json) |
@@ -8644,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Mighty Tower | 259960 | [259960-all-mighty-tower.json](./259960-all-mighty-tower.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
+| All Must Fall | 131675 | [131675-all-must-fall.json](./131675-all-must-fall.json) |
 | All My Dreams are the Same! | 277670 | [277670-all-my-dreams-are-the-same.json](./277670-all-my-dreams-are-the-same.json) |
 | All My Friends Are Frogs | 183375 | [183375-all-my-friends-are-frogs.json](./183375-all-my-friends-are-frogs.json) |
 | All My Heart, Banjo | 375776 | [375776-all-my-heart-banjo.json](./375776-all-my-heart-banjo.json) |
@@ -9275,7 +9277,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altair | 38550 | [38550-altair.json](./38550-altair.json) |
 | Altaïr | 93148 | [93148-altair.json](./93148-altair.json) |
 | Altair Assault | 117138 | [117138-altair-assault.json](./117138-altair-assault.json) |
-| Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
 | Altair Breaker: Legend Set | 221612 | [221612-altair-breaker-legend-set.json](./221612-altair-breaker-legend-set.json) |
 | Altalite | 294673 | [294673-altalite.json](./294673-altalite.json) |
 | Altar | 25598 | [25598-altar.json](./25598-altar.json) |
@@ -16052,7 +16053,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Amiga Alternate Levels | 268492 | [268492-arkanoid-amiga-alternate-levels.json](./268492-arkanoid-amiga-alternate-levels.json) |
 | Arkanoid: Chinese Edition | 268493 | [268493-arkanoid-chinese-edition.json](./268493-arkanoid-chinese-edition.json) |
 | Arkanoid: Doh It Again | 42636 | [42636-arkanoid-doh-it-again.json](./42636-arkanoid-doh-it-again.json) |
-| Arkanoid: Eternal Battle | 204506 | [204506-arkanoid-eternal-battle.json](./204506-arkanoid-eternal-battle.json) |
 | Arkanoid: Eternal Battle - Battle Royale F2P Edition | 283930 | [283930-arkanoid-eternal-battle-battle-royale-f2p-edition.json](./283930-arkanoid-eternal-battle-battle-royale-f2p-edition.json) |
 | Arkanoid: Eternal Battle - Limited Edition | 219425 | [219425-arkanoid-eternal-battle-limited-edition.json](./219425-arkanoid-eternal-battle-limited-edition.json) |
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
@@ -18514,6 +18514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralith | 395380 | [395380-astralith.json](./395380-astralith.json) |
 | Astrality | 255295 | [255295-astrality.json](./255295-astrality.json) |
+| Astralode | 131637 | [131637-astralode.json](./131637-astralode.json) |
 | Astralode Freeminers | 132350 | [132350-astralode-freeminers.json](./132350-astralode-freeminers.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astralojia: Episode 1 | 119982 | [119982-astralojia-episode-1.json](./119982-astralojia-episode-1.json) |
