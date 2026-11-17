@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Yeti! | 6647 | [6647-urban-yeti.json](./6647-urban-yeti.json) |
 | Urban Yuri: A Lady's Romance Manifesto | 370060 | [370060-urban-yuri-a-ladys-romance-manifesto.json](./370060-urban-yuri-a-ladys-romance-manifesto.json) |
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
+| Urbanism | 421114 | [421114-urbanism.json](./421114-urbanism.json) |
 | Urbanix | 65091 | [65091-urbanix.json](./65091-urbanix.json) |
 | Urbano: Legends' Debut | 216853 | [216853-urbano-legends-debut.json](./216853-urbano-legends-debut.json) |
 | Urbek City Builder | 151535 | [151535-urbek-city-builder.json](./151535-urbek-city-builder.json) |
