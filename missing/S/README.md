@@ -4399,8 +4399,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G-Century S | 159235 | [159235-sd-gundam-g-century-s.json](./159235-sd-gundam-g-century-s.json) |
 | SD Gundam Gaiden 2: Entaku no Kishi | 65387 | [65387-sd-gundam-gaiden-2-entaku-no-kishi.json](./65387-sd-gundam-gaiden-2-entaku-no-kishi.json) |
 | SD Gundam Gaiden IV: Hikari no Knight Densetsu | 385788 | [385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json](./385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json) |
+| SD Gundam Gaiden Knight Gundam Monogatari: Entaku no Kishi-dan | 206866 | [206866-sd-gundam-gaiden-knight-gundam-monogatari-entaku-no-kishi-dan.json](./206866-sd-gundam-gaiden-knight-gundam-monogatari-entaku-no-kishi-dan.json) |
+| SD Gundam Gaiden Knight Gundam Monogatari: Seikihei to Kikoushin | 206852 | [206852-sd-gundam-gaiden-knight-gundam-monogatari-seikihei-to-kikoushin.json](./206852-sd-gundam-gaiden-knight-gundam-monogatari-seikihei-to-kikoushin.json) |
+| SD Gundam Gaiden: Knight Gundam Monogatari | 206851 | [206851-sd-gundam-gaiden-knight-gundam-monogatari.json](./206851-sd-gundam-gaiden-knight-gundam-monogatari.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari - Ooinaru Isan | 65379 | [65379-sd-gundam-gaiden-knight-gundam-monogatari-ooinaru-isan.json](./65379-sd-gundam-gaiden-knight-gundam-monogatari-ooinaru-isan.json) |
+| SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 206859 | [206859-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./206859-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
 | SD Gundam Gaiden: Lacroan' Heroes | 353628 | [353628-sd-gundam-gaiden-lacroan-heroes.json](./353628-sd-gundam-gaiden-lacroan-heroes.json) |
@@ -16184,6 +16188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash & Magic | 70839 | [70839-smash-and-magic.json](./70839-smash-and-magic.json) |
 | Smash & Settle | 429732 | [429732-smash-and-settle.json](./429732-smash-and-settle.json) |
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
+| Smash 1 | 206858 | [206858-smash-1.json](./206858-smash-1.json) |
 | Smash and Bash Monsters | 277346 | [277346-smash-and-bash-monsters.json](./277346-smash-and-bash-monsters.json) |
 | Smash Ants! | 95299 | [95299-smash-ants.json](./95299-smash-ants.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
@@ -23912,6 +23917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Breakers | 414019 | [414019-spell-breakers.json](./414019-spell-breakers.json) |
 | Spell Candle | 337299 | [337299-spell-candle.json](./337299-spell-candle.json) |
 | Spell Card Collection | 269456 | [269456-spell-card-collection.json](./269456-spell-card-collection.json) |
+| Spell Cast | 206880 | [206880-spell-cast.json](./206880-spell-cast.json) |
 | Spell Caster: Puzzle RPG | 233107 | [233107-spell-caster-puzzle-rpg.json](./233107-spell-caster-puzzle-rpg.json) |
 | Spell Casting | 135624 | [135624-spell-casting.json](./135624-spell-casting.json) |
 | Spell Casting: Meowgically Enhanced Edition | 21981 | [21981-spell-casting-meowgically-enhanced-edition.json](./21981-spell-casting-meowgically-enhanced-edition.json) |
@@ -28862,6 +28868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Powerless | 182962 | [182962-start-powerless.json](./182962-start-powerless.json) |
 | Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
 | Start Running | 291858 | [291858-start-running.json](./291858-start-running.json) |
+| Start Survey 2 | 206840 | [206840-start-survey-2.json](./206840-start-survey-2.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
 | Start the Enchanted Books | 91088 | [91088-start-the-enchanted-books.json](./91088-start-the-enchanted-books.json) |
 | Start the Lost Treasure | 87884 | [87884-start-the-lost-treasure.json](./87884-start-the-lost-treasure.json) |
@@ -37165,6 +37172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Melee: Yoshi's Story - 2 Clouds | 331004 | [331004-super-smash-bros-melee-yoshis-story-2-clouds.json](./331004-super-smash-bros-melee-yoshis-story-2-clouds.json) |
 | Super Smash Bros. Open | 269059 | [269059-super-smash-bros-open.json](./269059-super-smash-bros-open.json) |
 | Super Smash Bros. Rumble | 232799 | [232799-super-smash-bros-rumble.json](./232799-super-smash-bros-rumble.json) |
+| Super Smash Bros. Sonic | 206878 | [206878-super-smash-bros-sonic.json](./206878-super-smash-bros-sonic.json) |
 | Super Smash Bros. Sonic 2 Mod | 173085 | [173085-super-smash-bros-sonic-2-mod.json](./173085-super-smash-bros-sonic-2-mod.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
