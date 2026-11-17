@@ -4010,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
 | Kingdom Watcher | 81050 | [81050-kingdom-watcher.json](./81050-kingdom-watcher.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
+| Kingdom Without End | 71665 | [71665-kingdom-without-end.json](./71665-kingdom-without-end.json) |
 | Kingdom Workshop | 176101 | [176101-kingdom-workshop.json](./176101-kingdom-workshop.json) |
 | Kingdom-Heroes | 114071 | [114071-kingdom-heroes.json](./114071-kingdom-heroes.json) |
 | Kingdom, Dungeon, and Hero | 274314 | [274314-kingdom-dungeon-and-hero.json](./274314-kingdom-dungeon-and-hero.json) |
