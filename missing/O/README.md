@@ -4175,7 +4175,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Echo of Starsong - Full Bloom Edition | 200915 | [200915-opus-echo-of-starsong-full-bloom-edition.json](./200915-opus-echo-of-starsong-full-bloom-edition.json) |
 | Opus: Echo of Starsong - Full Bloom Edition: Collector's Edition | 256031 | [256031-opus-echo-of-starsong-full-bloom-edition-collectors-edition.json](./256031-opus-echo-of-starsong-full-bloom-edition-collectors-edition.json) |
 | Opus: Echo of Starsong - Full Bloom Edition: Launch Edition | 256030 | [256030-opus-echo-of-starsong-full-bloom-edition-launch-edition.json](./256030-opus-echo-of-starsong-full-bloom-edition-launch-edition.json) |
-| Opus: Prism Peak | 234662 | [234662-opus-prism-peak.json](./234662-opus-prism-peak.json) |
 | Opus: Rocket of Whispers - Deluxe Edition | 186535 | [186535-opus-rocket-of-whispers-deluxe-edition.json](./186535-opus-rocket-of-whispers-deluxe-edition.json) |
 | Opus: The Day We Found Earth | 18900 | [18900-opus-the-day-we-found-earth.json](./18900-opus-the-day-we-found-earth.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
