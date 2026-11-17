@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T05:16:14.924Z",
-  "total_soundtracks": 3529,
+  "generated_at": "2026-11-17T05:26:06.091Z",
+  "total_soundtracks": 3532,
   "games": [
     {
       "igdb_id": 292844,
@@ -17937,6 +17937,20 @@
       ]
     },
     {
+      "igdb_id": 317871,
+      "game_name": "Hirogami",
+      "game_url": "https://ostdb.net/games/hirogami",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273161c419e086847f26a8e6776",
+      "albums": [
+        {
+          "album_name": "Hirogami Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4L8Txprr3VBifbYqcwvNAR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 748,
       "game_name": "Hitman 2: Silent Assassin",
       "game_url": "https://ostdb.net/games/hitman-2-silent-assassin",
@@ -23500,6 +23514,20 @@
     },
     {
       "igdb_id": 115657,
+      "game_name": "Metamorphosis",
+      "game_url": "https://ostdb.net/games/metamorphosis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27380e9efd91b5eec18158341da",
+      "albums": [
+        {
+          "album_name": "Metamorphosis (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6IBI9CVASylv4DxUjazi4I",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 319216,
       "game_name": "Metamorphosis",
       "game_url": "https://ostdb.net/games/metamorphosis",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b27380e9efd91b5eec18158341da",
@@ -43907,6 +43935,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/weird-west-original-soundtrack-weird-wolves-tracks-ep/1638962974?uo=4",
           "album_link_url": "https://album.link/i/1638962974"
+        }
+      ]
+    },
+    {
+      "igdb_id": 319629,
+      "game_name": "Welcome to Elderfield",
+      "game_url": "https://ostdb.net/games/welcome-to-elderfield",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27374d3fe5854c2a8e31112625d",
+      "albums": [
+        {
+          "album_name": "Welcome to Elderfield Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/57k9Olq6bhAMwWmCgHFAAM",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
