@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaside Schemes | 278378 | [278378-seaside-schemes.json](./278378-seaside-schemes.json) |
 | Seaside Sourcery | 230187 | [230187-seaside-sourcery.json](./230187-seaside-sourcery.json) |
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
+| Seaside Wash | 418172 | [418172-seaside-wash.json](./418172-seaside-wash.json) |
 | SeaSkulls | 176260 | [176260-seaskulls.json](./176260-seaskulls.json) |
 | Season 31 | 370675 | [370675-season-31.json](./370675-season-31.json) |
 | Season Changer | 298363 | [298363-season-changer.json](./298363-season-changer.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishun Hajimemashita! | 202612 | [202612-seishun-hajimemashita.json](./202612-seishun-hajimemashita.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
+| Seismic Death | 418157 | [418157-seismic-death.json](./418157-seismic-death.json) |
 | Seismic Ventures | 313374 | [313374-seismic-ventures.json](./313374-seismic-ventures.json) |
 | Seiso Bitch na Hitozuma Haruka-san to no Musabori Koubi Nisshi | 58977 | [58977-seiso-bitch-na-hitozuma-haruka-san-to-no-musabori-koubi-nisshi.json](./58977-seiso-bitch-na-hitozuma-haruka-san-to-no-musabori-koubi-nisshi.json) |
 | Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
@@ -8066,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Past | 265605 | [265605-shadows-of-the-past.json](./265605-shadows-of-the-past.json) |
 | Shadows of the Past | 364647 | [364647-shadows-of-the-past.json](./364647-shadows-of-the-past.json) |
 | Shadows of the Past | 365752 | [365752-shadows-of-the-past.json](./365752-shadows-of-the-past.json) |
+| Shadows of the Republic | 418520 | [418520-shadows-of-the-republic.json](./418520-shadows-of-the-republic.json) |
 | Shadows of the Sengoku | 149103 | [149103-shadows-of-the-sengoku.json](./149103-shadows-of-the-sengoku.json) |
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
 | Shadows of the Void | 133720 | [133720-shadows-of-the-void.json](./133720-shadows-of-the-void.json) |
@@ -8169,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaking Hands | 389831 | [389831-shaking-hands.json](./389831-shaking-hands.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
 | Shakugan no Shana DS | 123413 | [123413-shakugan-no-shana-ds.json](./123413-shakugan-no-shana-ds.json) |
+| Shakugan no Shana: Blaze Edge | 418183 | [418183-shakugan-no-shana-blaze-edge.json](./418183-shakugan-no-shana-blaze-edge.json) |
 | Shaky Ground: Apocollapse | 270652 | [270652-shaky-ground-apocollapse.json](./270652-shaky-ground-apocollapse.json) |
 | Shaky Grounds Series | 272100 | [272100-shaky-grounds-series.json](./272100-shaky-grounds-series.json) |
 | Shaky Grounds: Epicenter | 270654 | [270654-shaky-grounds-epicenter.json](./270654-shaky-grounds-epicenter.json) |
@@ -11776,6 +11780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
 | Signal Decay | 58715 | [58715-signal-decay.json](./58715-signal-decay.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
+| Signal Heart | 418193 | [418193-signal-heart.json](./418193-signal-heart.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
 | Signal Intentions | 349077 | [349077-signal-intentions.json](./349077-signal-intentions.json) |
 | Signal Lost | 178224 | [178224-signal-lost.json](./178224-signal-lost.json) |
@@ -22779,6 +22784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rogue | 23279 | [23279-space-rogue.json](./23279-space-rogue.json) |
 | Space Roguelike Adventure | 190386 | [190386-space-roguelike-adventure.json](./190386-space-roguelike-adventure.json) |
 | Space Roller Coaster VR | 103058 | [103058-space-roller-coaster-vr.json](./103058-space-roller-coaster-vr.json) |
+| Space Rot | 418156 | [418156-space-rot.json](./418156-space-rot.json) |
 | Space Route | 213091 | [213091-space-route.json](./213091-space-route.json) |
 | Space Routine | 131799 | [131799-space-routine.json](./131799-space-routine.json) |
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
@@ -29140,6 +29146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
 | Startup Valley Adventure - Episode 1 | 114826 | [114826-startup-valley-adventure-episode-1.json](./114826-startup-valley-adventure-episode-1.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
+| Starush | 418180 | [418180-starush.json](./418180-starush.json) |
 | Starushko Lub | 31081 | [31081-starushko-lub.json](./31081-starushko-lub.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | StarVaders | 237038 | [237038-starvaders.json](./237038-starvaders.json) |
@@ -39645,6 +39652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swear to God | 185344 | [185344-swear-to-god.json](./185344-swear-to-god.json) |
 | Sweat | 385880 | [385880-sweat.json](./385880-sweat.json) |
 | Sweat! The Decathlon Game | 282781 | [282781-sweat-the-decathlon-game.json](./282781-sweat-the-decathlon-game.json) |
+| Sweater Adventure | 418187 | [418187-sweater-adventure.json](./418187-sweater-adventure.json) |
 | Sweater? Ok! | 31024 | [31024-sweater-ok.json](./31024-sweater-ok.json) |
 | Sweater? Ok! 2 | 81022 | [81022-sweater-ok-2.json](./81022-sweater-ok-2.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
