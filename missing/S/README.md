@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanma no Meitantei | 48402 | [48402-sanma-no-meitantei.json](./48402-sanma-no-meitantei.json) |
 | Sanmi Ittai no Tanitsuten | 412679 | [412679-sanmi-ittai-no-tanitsuten.json](./412679-sanmi-ittai-no-tanitsuten.json) |
 | Sanonta | 236965 | [236965-sanonta.json](./236965-sanonta.json) |
+| Sanou ga Kusaru Machi | 422951 | [422951-sanou-ga-kusaru-machi.json](./422951-sanou-ga-kusaru-machi.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
 | Sanou Kaihatsu Series 2: Suuryou, Keisan | 303761 | [303761-sanou-kaihatsu-series-2-suuryou-keisan.json](./303761-sanou-kaihatsu-series-2-suuryou-keisan.json) |
 | Sanou Kaihatsu Series 3: Hikaku, Bunrui | 303762 | [303762-sanou-kaihatsu-series-3-hikaku-bunrui.json](./303762-sanou-kaihatsu-series-3-hikaku-bunrui.json) |
@@ -11590,6 +11591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Shadowdale: Enhanced Edition | 310351 | [310351-siege-of-shadowdale-enhanced-edition.json](./310351-siege-of-shadowdale-enhanced-edition.json) |
 | Siege of Shadows | 333828 | [333828-siege-of-shadows.json](./333828-siege-of-shadows.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
+| Siege of the Isletress | 422970 | [422970-siege-of-the-isletress.json](./422970-siege-of-the-isletress.json) |
 | Siege of the Swine | 167505 | [167505-siege-of-the-swine.json](./167505-siege-of-the-swine.json) |
 | Siege of Treboulain | 190848 | [190848-siege-of-treboulain.json](./190848-siege-of-treboulain.json) |
 | Siege of Turtle Enclave | 35983 | [35983-siege-of-turtle-enclave.json](./35983-siege-of-turtle-enclave.json) |
@@ -19180,6 +19182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
 | Soma Spirits: Rebalance | 29590 | [29590-soma-spirits-rebalance.json](./29590-soma-spirits-rebalance.json) |
 | Soma Union | 144855 | [144855-soma-union.json](./144855-soma-union.json) |
+| Soma VR | 422924 | [422924-soma-vr.json](./422924-soma-vr.json) |
 | SomaCube | 275154 | [275154-somacube.json](./275154-somacube.json) |
 | Somari | 45676 | [45676-somari.json](./45676-somari.json) |
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
@@ -24878,6 +24881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinera | 338892 | [338892-spinera.json](./338892-spinera.json) |
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Spinfrog: All Aboard the Frogcopter | 222461 | [222461-spinfrog-all-aboard-the-frogcopter.json](./222461-spinfrog-all-aboard-the-frogcopter.json) |
+| Spinful | 422953 | [422953-spinful.json](./422953-spinful.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
 | Spingenuity | 390090 | [390090-spingenuity.json](./390090-spingenuity.json) |
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
@@ -26039,6 +26043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springer | 18652 | [18652-springer.json](./18652-springer.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
 | SpringFling | 254557 | [254557-springfling.json](./254557-springfling.json) |
+| SpringRO | 422918 | [422918-springro.json](./422918-springro.json) |
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
 | Springshot | 263575 | [263575-springshot.json](./263575-springshot.json) |
 | Springtale | 135353 | [135353-springtale.json](./135353-springtale.json) |
@@ -28493,6 +28498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starlair | 321199 | [321199-starlair.json](./321199-starlair.json) |
 | StarLancer | 11230 | [11230-starlancer.json](./11230-starlancer.json) |
+| Starlathe | 422946 | [422946-starlathe.json](./422946-starlathe.json) |
 | Starlaxis - Light Hunter | 64465 | [64465-starlaxis-light-hunter.json](./64465-starlaxis-light-hunter.json) |
 | Starlaxis Supernova Edition | 36072 | [36072-starlaxis-supernova-edition.json](./36072-starlaxis-supernova-edition.json) |
 | Starlaxy Cats | 321416 | [321416-starlaxy-cats.json](./321416-starlaxy-cats.json) |
@@ -34589,6 +34595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Asteroids & Missile Command | 40863 | [40863-super-asteroids-and-missile-command.json](./40863-super-asteroids-and-missile-command.json) |
 | Super Astreus 2 | 133651 | [133651-super-astreus-2.json](./133651-super-astreus-2.json) |
 | Super Astro Cat | 331521 | [331521-super-astro-cat.json](./331521-super-astro-cat.json) |
+| Super Astro Cat 2 | 422950 | [422950-super-astro-cat-2.json](./422950-super-astro-cat-2.json) |
 | Super Astro Fighter | 60200 | [60200-super-astro-fighter.json](./60200-super-astro-fighter.json) |
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
 | Super Astrovade | 164950 | [164950-super-astrovade.json](./164950-super-astrovade.json) |
