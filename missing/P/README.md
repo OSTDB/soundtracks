@@ -4453,11 +4453,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle 2: Windy the Fairy Master Pack | 294409 | [294409-peggle-2-windy-the-fairy-master-pack.json](./294409-peggle-2-windy-the-fairy-master-pack.json) |
 | Peggle Blast | 58310 | [58310-peggle-blast.json](./58310-peggle-blast.json) |
 | Peggle Blast HD | 354985 | [354985-peggle-blast-hd.json](./354985-peggle-blast-hd.json) |
+| Peggle Book Club | 428874 | [428874-peggle-book-club.json](./428874-peggle-book-club.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Peggle Dinners | 394949 | [394949-peggle-dinners.json](./394949-peggle-dinners.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
 | Peggle Fevers | 413527 | [413527-peggle-fevers.json](./413527-peggle-fevers.json) |
+| Peggle Flash? | 428883 | [428883-peggle-flash.json](./428883-peggle-flash.json) |
 | Peggle Frights | 428758 | [428758-peggle-frights.json](./428758-peggle-frights.json) |
+| Peggle Junior | 428886 | [428886-peggle-junior.json](./428886-peggle-junior.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
 | Peggle: Dual Shot | 21257 | [21257-peggle-dual-shot.json](./21257-peggle-dual-shot.json) |
 | Peggle: World of Warcraft Edition | 77022 | [77022-peggle-world-of-warcraft-edition.json](./77022-peggle-world-of-warcraft-edition.json) |
@@ -4468,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PegIdle | 293056 | [293056-pegidle.json](./293056-pegidle.json) |
 | PegIt | 92873 | [92873-pegit.json](./92873-pegit.json) |
 | Peglotto! | 389839 | [389839-peglotto.json](./389839-peglotto.json) |
+| PegoRoco | 428879 | [428879-pegoroco.json](./428879-pegoroco.json) |
 | Pegote | 398714 | [398714-pegote.json](./398714-pegote.json) |
 | PegPigeon | 405549 | [405549-pegpigeon.json](./405549-pegpigeon.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
@@ -9279,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
 | Pixel Killers - The Showdown | 56646 | [56646-pixel-killers-the-showdown.json](./56646-pixel-killers-the-showdown.json) |
 | Pixel Knight | 252675 | [252675-pixel-knight.json](./252675-pixel-knight.json) |
+| Pixel Knight: Nation War | 428917 | [428917-pixel-knight-nation-war.json](./428917-pixel-knight-nation-war.json) |
 | Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
 | Pixel Legions | 132106 | [132106-pixel-legions.json](./132106-pixel-legions.json) |
 | Pixel Life | 119631 | [119631-pixel-life.json](./119631-pixel-life.json) |
