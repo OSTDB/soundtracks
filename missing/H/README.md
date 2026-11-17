@@ -10726,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound | 27682 | [27682-homebound.json](./27682-homebound.json) |
 | Homebound Haerold | 258046 | [258046-homebound-haerold.json](./258046-homebound-haerold.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
+| Homebound Plush | 417900 | [417900-homebound-plush.json](./417900-homebound-plush.json) |
 | Homebound: Escape Room | 391344 | [391344-homebound-escape-room.json](./391344-homebound-escape-room.json) |
 | Homebound: New Beginnings | 237214 | [237214-homebound-new-beginnings.json](./237214-homebound-new-beginnings.json) |
 | Homebound: The Last Stand | 211353 | [211353-homebound-the-last-stand.json](./211353-homebound-the-last-stand.json) |
