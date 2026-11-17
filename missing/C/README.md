@@ -17468,6 +17468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Tunnels | 23899 | [23899-cosmic-tunnels.json](./23899-cosmic-tunnels.json) |
 | Cosmic Ultramarine | 339326 | [339326-cosmic-ultramarine.json](./339326-cosmic-ultramarine.json) |
 | Cosmic Walker | 71903 | [71903-cosmic-walker.json](./71903-cosmic-walker.json) |
+| Cosmic Warfront | 421678 | [421678-cosmic-warfront.json](./421678-cosmic-warfront.json) |
 | Cosmic Wars | 48646 | [48646-cosmic-wars.json](./48646-cosmic-wars.json) |
 | Cosmic Wartoad | 14016 | [14016-cosmic-wartoad.json](./14016-cosmic-wartoad.json) |
 | Cosmic Waves | 244235 | [244235-cosmic-waves.json](./244235-cosmic-waves.json) |
@@ -19496,6 +19497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Voyage | 324289 | [324289-crazy-voyage.json](./324289-crazy-voyage.json) |
 | Crazy War | 283555 | [283555-crazy-war.json](./283555-crazy-war.json) |
 | Crazy Washing Machine | 110563 | [110563-crazy-washing-machine.json](./110563-crazy-washing-machine.json) |
+| Crazy Way | 421690 | [421690-crazy-way.json](./421690-crazy-way.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
 | Crazy Wife | 300294 | [300294-crazy-wife.json](./300294-crazy-wife.json) |
@@ -21947,6 +21949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Raiders | 140968 | [140968-cube-raiders.json](./140968-cube-raiders.json) |
 | Cube Railway | 312695 | [312695-cube-railway.json](./312695-cube-railway.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
+| Cube Reigns | 421682 | [421682-cube-reigns.json](./421682-cube-reigns.json) |
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
 | Cube RPG | 260211 | [260211-cube-rpg.json](./260211-cube-rpg.json) |
 | Cube Runk | 166913 | [166913-cube-runk.json](./166913-cube-runk.json) |
@@ -22915,6 +22918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Custodian | 178856 | [178856-cursor-custodian.json](./178856-cursor-custodian.json) |
 | Cursor Invisible | 230444 | [230444-cursor-invisible.json](./230444-cursor-invisible.json) |
 | Cursor Kingdom | 316668 | [316668-cursor-kingdom.json](./316668-cursor-kingdom.json) |
+| Cursor Slayer | 421689 | [421689-cursor-slayer.json](./421689-cursor-slayer.json) |
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
 | Cursor*10 | 29042 | [29042-cursor-10.json](./29042-cursor-10.json) |
@@ -23669,6 +23673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetic Hi-School Part 3: Gunbuster | 138300 | [138300-cybernetic-hi-school-part-3-gunbuster.json](./138300-cybernetic-hi-school-part-3-gunbuster.json) |
 | Cybernetic Moon Horse 2071 | 200771 | [200771-cybernetic-moon-horse-2071.json](./200771-cybernetic-moon-horse-2071.json) |
 | Cybernetic Seduction: Season 1 | 384890 | [384890-cybernetic-seduction-season-1.json](./384890-cybernetic-seduction-season-1.json) |
+| Cybernetic Strategy | 421701 | [421701-cybernetic-strategy.json](./421701-cybernetic-strategy.json) |
 | Cybernetica | 131694 | [131694-cybernetica.json](./131694-cybernetica.json) |
 | Cybernetica: fallen city | 164253 | [164253-cybernetica-fallen-city.json](./164253-cybernetica-fallen-city.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
