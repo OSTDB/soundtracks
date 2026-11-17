@@ -303,7 +303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Princess: Super Survivor Showdown | 407724 | [407724-kaiju-princess-super-survivor-showdown.json](./407724-kaiju-princess-super-survivor-showdown.json) |
 | Kaiju Rush | 297524 | [297524-kaiju-rush.json](./297524-kaiju-rush.json) |
 | Kaiju Super Datetech | 176609 | [176609-kaiju-super-datetech.json](./176609-kaiju-super-datetech.json) |
-| Kaiju Wars | 171757 | [171757-kaiju-wars.json](./171757-kaiju-wars.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
@@ -742,7 +741,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsure no okami | 83165 | [83165-kamitsure-no-okami.json](./83165-kamitsure-no-okami.json) |
 | Kamiwaza | 92559 | [92559-kamiwaza.json](./92559-kamiwaza.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
-| Kamiwaza: Way of the Thief | 197545 | [197545-kamiwaza-way-of-the-thief.json](./197545-kamiwaza-way-of-the-thief.json) |
 | KamiYaba: Destiny on a Dicey Deadline | 188510 | [188510-kamiyaba-destiny-on-a-dicey-deadline.json](./188510-kamiyaba-destiny-on-a-dicey-deadline.json) |
 | Kamiyogatari | 206395 | [206395-kamiyogatari.json](./206395-kamiyogatari.json) |
 | Kamkball | 133803 | [133803-kamkball.json](./133803-kamkball.json) |
@@ -936,7 +934,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo Trilogy | 143497 | [143497-kao-the-kangaroo-trilogy.json](./143497-kao-the-kangaroo-trilogy.json) |
 | Kao the Kangaroo: A Well Good Bundle | 221695 | [221695-kao-the-kangaroo-a-well-good-bundle.json](./221695-kao-the-kangaroo-a-well-good-bundle.json) |
 | Kao the Kangaroo: Anniversary Edition | 248239 | [248239-kao-the-kangaroo-anniversary-edition.json](./248239-kao-the-kangaroo-anniversary-edition.json) |
-| Kao the Kangaroo: Bend the Roo'les | 247577 | [247577-kao-the-kangaroo-bend-the-rooles.json](./247577-kao-the-kangaroo-bend-the-rooles.json) |
 | Kao the Kangaroo: Kaollector Edition | 203514 | [203514-kao-the-kangaroo-kaollector-edition.json](./203514-kao-the-kangaroo-kaollector-edition.json) |
 | Kao the Kangaroo: Mystery of the Volcano | 63999 | [63999-kao-the-kangaroo-mystery-of-the-volcano.json](./63999-kao-the-kangaroo-mystery-of-the-volcano.json) |
 | Kao the Kangaroo: Oh! Well | 221642 | [221642-kao-the-kangaroo-oh-well.json](./221642-kao-the-kangaroo-oh-well.json) |
@@ -1189,7 +1186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KarmaRun | 294651 | [294651-karmarun.json](./294651-karmarun.json) |
 | KarmaStar | 67811 | [67811-karmastar.json](./67811-karmastar.json) |
 | Karmasutra | 51474 | [51474-karmasutra.json](./51474-karmasutra.json) |
-| KarmaZoo | 246564 | [246564-karmazoo.json](./246564-karmazoo.json) |
 | Karmen's Interactive Playplace | 212366 | [212366-karmens-interactive-playplace.json](./212366-karmens-interactive-playplace.json) |
 | Karmen's Interactive Playplace: Redux | 212375 | [212375-karmens-interactive-playplace-redux.json](./212375-karmens-interactive-playplace-redux.json) |
 | Karmx | 371198 | [371198-karmx.json](./371198-karmx.json) |
@@ -1312,7 +1308,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kashiwa-Mochi Kai | 82575 | [82575-kashiwa-mochi-kai.json](./82575-kashiwa-mochi-kai.json) |
 | Kashiwagi Shigetaka no Top Water Bassing | 37967 | [37967-kashiwagi-shigetaka-no-top-water-bassing.json](./37967-kashiwagi-shigetaka-no-top-water-bassing.json) |
 | Kasi | 141388 | [141388-kasi.json](./141388-kasi.json) |
-| Kasiori | 146821 | [146821-kasiori.json](./146821-kasiori.json) |
 | Kaskade | 351782 | [351782-kaskade.json](./351782-kaskade.json) |
 | Kasmo | 156824 | [156824-kasmo.json](./156824-kasmo.json) |
 | Kaspar i Nudådalen | 297547 | [297547-kaspar-i-nudadalen.json](./297547-kaspar-i-nudadalen.json) |
@@ -1590,7 +1585,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayak Extreme | 209844 | [209844-kayak-extreme.json](./209844-kayak-extreme.json) |
 | Kayak League | 236467 | [236467-kayak-league.json](./236467-kayak-league.json) |
 | Kayak Photography Sim | 415109 | [415109-kayak-photography-sim.json](./415109-kayak-photography-sim.json) |
-| Kayak VR: Mirage | 157244 | [157244-kayak-vr-mirage.json](./157244-kayak-vr-mirage.json) |
 | Kayak VR: Mirage - Soča Valley | 305363 | [305363-kayak-vr-mirage-soca-valley.json](./305363-kayak-vr-mirage-soca-valley.json) |
 | Kayaking | 363097 | [363097-kayaking.json](./363097-kayaking.json) |
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
@@ -2506,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KickOff | 165841 | [165841-kickoff.json](./165841-kickoff.json) |
 | Kickoff CM | 114627 | [114627-kickoff-cm.json](./114627-kickoff-cm.json) |
 | Kickoff Legends | 28338 | [28338-kickoff-legends.json](./28338-kickoff-legends.json) |
+| Kickoff Returner Pro | 89445 | [89445-kickoff-returner-pro.json](./89445-kickoff-returner-pro.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
@@ -2849,7 +2844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Him! Online Wars | 102880 | [102880-kill-him-online-wars.json](./102880-kill-him-online-wars.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
 | Kill it with Fire 2 | 252847 | [252847-kill-it-with-fire-2.json](./252847-kill-it-with-fire-2.json) |
-| Kill It With Fire VR | 239612 | [239612-kill-it-with-fire-vr.json](./239612-kill-it-with-fire-vr.json) |
 | Kill It With Fire: Exterminator Edition | 208574 | [208574-kill-it-with-fire-exterminator-edition.json](./208574-kill-it-with-fire-exterminator-edition.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill It With Fire: Ignition | 133071 | [133071-kill-it-with-fire-ignition.json](./133071-kill-it-with-fire-ignition.json) |
@@ -2980,7 +2974,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Bear | 124551 | [124551-killer-bear.json](./124551-killer-bear.json) |
 | Killer Bees | 406404 | [406404-killer-bees.json](./406404-killer-bees.json) |
 | Killer Bunny | 249427 | [249427-killer-bunny.json](./249427-killer-bunny.json) |
-| Killer Chambers | 116824 | [116824-killer-chambers.json](./116824-killer-chambers.json) |
 | Killer Chat: Extended Edition | 318670 | [318670-killer-chat-extended-edition.json](./318670-killer-chat-extended-edition.json) |
 | Killer Chat!: Original Edition | 378575 | [378575-killer-chat-original-edition.json](./378575-killer-chat-original-edition.json) |
 | Killer Comet | 40049 | [40049-killer-comet.json](./40049-killer-comet.json) |
@@ -3377,7 +3370,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetic | 372061 | [372061-kinetic.json](./372061-kinetic.json) |
 | Kinetic Breakthrough | 310919 | [310919-kinetic-breakthrough.json](./310919-kinetic-breakthrough.json) |
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
-| Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
 | Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
 | Kinetic Storm | 219882 | [219882-kinetic-storm.json](./219882-kinetic-storm.json) |
 | Kinetic TwinZ | 411916 | [411916-kinetic-twinz.json](./411916-kinetic-twinz.json) |
@@ -3904,7 +3896,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Majestic: Limited Edition | 146040 | [146040-kingdom-majestic-limited-edition.json](./146040-kingdom-majestic-limited-edition.json) |
 | Kingdom Maker | 197823 | [197823-kingdom-maker.json](./197823-kingdom-maker.json) |
 | Kingdom O' Magic | 73193 | [73193-kingdom-o-magic.json](./73193-kingdom-o-magic.json) |
-| Kingdom of Arcadia | 145539 | [145539-kingdom-of-arcadia.json](./145539-kingdom-of-arcadia.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Assetia: The Clicker Game | 166621 | [166621-kingdom-of-assetia-the-clicker-game.json](./166621-kingdom-of-assetia-the-clicker-game.json) |
 | Kingdom of Asteborg | 330227 | [330227-kingdom-of-asteborg.json](./330227-kingdom-of-asteborg.json) |
@@ -4010,7 +4001,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
 | Kingdom Wars | 8955 | [8955-kingdom-wars.json](./8955-kingdom-wars.json) |
 | Kingdom Wars 2: Battles | 16691 | [16691-kingdom-wars-2-battles.json](./16691-kingdom-wars-2-battles.json) |
-| Kingdom Wars 2: Definitive Edition | 116181 | [116181-kingdom-wars-2-definitive-edition.json](./116181-kingdom-wars-2-definitive-edition.json) |
 | Kingdom Wars 4 | 135730 | [135730-kingdom-wars-4.json](./135730-kingdom-wars-4.json) |
 | Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
 | Kingdom Watcher | 81050 | [81050-kingdom-watcher.json](./81050-kingdom-watcher.json) |
@@ -4057,7 +4047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Amalur: Re-Reckoning - Collector's Edition | 136017 | [136017-kingdoms-of-amalur-re-reckoning-collectors-edition.json](./136017-kingdoms-of-amalur-re-reckoning-collectors-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
-| Kingdoms of Amalur: Re-Reckoning - Fatesworn | 138197 | [138197-kingdoms-of-amalur-re-reckoning-fatesworn.json](./138197-kingdoms-of-amalur-re-reckoning-fatesworn.json) |
 | Kingdoms of Amalur: Reckoning - Teeth of Naros | 14676 | [14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json](./14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json) |
 | Kingdoms of Dice: The Elonia Chronicles | 360685 | [360685-kingdoms-of-dice-the-elonia-chronicles.json](./360685-kingdoms-of-dice-the-elonia-chronicles.json) |
 | Kingdoms of England | 55988 | [55988-kingdoms-of-england.json](./55988-kingdoms-of-england.json) |
@@ -4874,7 +4863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klątwa | 78573 | [78573-klatwa.json](./78573-klatwa.json) |
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee Thunder in Down Under | 139567 | [139567-klaus-lee-thunder-in-down-under.json](./139567-klaus-lee-thunder-in-down-under.json) |
-| Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
 | Klavia | 343315 | [343315-klavia.json](./343315-klavia.json) |
 | Klaws | 382877 | [382877-klaws.json](./382877-klaws.json) |
 | Klax | 285593 | [285593-klax.json](./285593-klax.json) |
@@ -5131,7 +5119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Solitaire. Royal Cup | 89475 | [89475-knight-solitaire-royal-cup.json](./89475-knight-solitaire-royal-cup.json) |
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight Squad | 14380 | [14380-knight-squad.json](./14380-knight-squad.json) |
-| Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
 | Knight Story | 200830 | [200830-knight-story.json](./200830-knight-story.json) |
 | Knight Swap | 123717 | [123717-knight-swap.json](./123717-knight-swap.json) |
 | Knight Swap 2 | 127417 | [127417-knight-swap-2.json](./127417-knight-swap-2.json) |
@@ -5140,7 +5127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Trail | 248955 | [248955-knight-trail.json](./248955-knight-trail.json) |
 | Knight Tyme | 12360 | [12360-knight-tyme.json](./12360-knight-tyme.json) |
 | Knight Versus Demon | 277518 | [277518-knight-versus-demon.json](./277518-knight-versus-demon.json) |
-| Knight vs Giant: The Broken Excalibur | 250419 | [250419-knight-vs-giant-the-broken-excalibur.json](./250419-knight-vs-giant-the-broken-excalibur.json) |
 | Knight vs. Giant | 157336 | [157336-knight-vs-giant.json](./157336-knight-vs-giant.json) |
 | Knight vs. Monsters | 352234 | [352234-knight-vs-monsters.json](./352234-knight-vs-monsters.json) |
 | Knight War: Idle Defense | 227541 | [227541-knight-war-idle-defense.json](./227541-knight-war-idle-defense.json) |
@@ -5171,7 +5157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Quest | 356666 | [356666-knights-quest.json](./356666-knights-quest.json) |
 | Knight's Raid: Lost Skytopia | 191608 | [191608-knights-raid-lost-skytopia.json](./191608-knights-raid-lost-skytopia.json) |
 | Knight's Redemption: War for Freedom | 298577 | [298577-knights-redemption-war-for-freedom.json](./298577-knights-redemption-war-for-freedom.json) |
-| Knight's Retreat | 132512 | [132512-knights-retreat.json](./132512-knights-retreat.json) |
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
 | Knight's Saga Evil Goblins | 286989 | [286989-knights-saga-evil-goblins.json](./286989-knights-saga-evil-goblins.json) |
 | Knight's Tail: Tactics | 344150 | [344150-knights-tail-tactics.json](./344150-knights-tail-tactics.json) |
@@ -5335,7 +5320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Saturn | 177776 | [177776-knights-of-saturn.json](./177776-knights-of-saturn.json) |
 | Knights of Takhisis Bundle Pack | 239006 | [239006-knights-of-takhisis-bundle-pack.json](./239006-knights-of-takhisis-bundle-pack.json) |
 | Knights of Tartarus | 108388 | [108388-knights-of-tartarus.json](./108388-knights-of-tartarus.json) |
-| Knights of the Card Table | 113790 | [113790-knights-of-the-card-table.json](./113790-knights-of-the-card-table.json) |
 | Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
 | Knights of the Chalice 2 | 154202 | [154202-knights-of-the-chalice-2.json](./154202-knights-of-the-chalice-2.json) |
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
@@ -5457,7 +5441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout City: Season 6 - City of Tomorrow | 214606 | [214606-knockout-city-season-6-city-of-tomorrow.json](./214606-knockout-city-season-6-city-of-tomorrow.json) |
 | Knockout City: Season 7 - Mutant Mutiny | 214607 | [214607-knockout-city-season-7-mutant-mutiny.json](./214607-knockout-city-season-7-mutant-mutiny.json) |
 | Knockout Daddy | 128958 | [128958-knockout-daddy.json](./128958-knockout-daddy.json) |
-| Knockout Home Fitness | 153507 | [153507-knockout-home-fitness.json](./153507-knockout-home-fitness.json) |
 | Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
 | Knockout Kings | 71110 | [71110-knockout-kings.json](./71110-knockout-kings.json) |
 | Knockout Kings 2000 | 10687 | [10687-knockout-kings-2000.json](./10687-knockout-kings-2000.json) |
@@ -5597,7 +5580,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobold Siege | 285993 | [285993-kobold-siege.json](./285993-kobold-siege.json) |
 | Kobold Slayer | 111690 | [111690-kobold-slayer.json](./111690-kobold-slayer.json) |
 | Kobold Underground Agency | 296923 | [296923-kobold-underground-agency.json](./296923-kobold-underground-agency.json) |
-| Kobold: Chapter I | 112055 | [112055-kobold-chapter-i.json](./112055-kobold-chapter-i.json) |
 | KoboldAI | 198695 | [198695-koboldai.json](./198695-koboldai.json) |
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
 | KoboldKroniken | 258939 | [258939-koboldkroniken.json](./258939-koboldkroniken.json) |
@@ -5894,7 +5876,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombi | 340888 | [340888-kombi.json](./340888-kombi.json) |
 | Kombi Travels: Jigsaw Landscapes | 163007 | [163007-kombi-travels-jigsaw-landscapes.json](./163007-kombi-travels-jigsaw-landscapes.json) |
 | Kombine | 31026 | [31026-kombine.json](./31026-kombine.json) |
-| Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
 | Kombo | 232889 | [232889-kombo.json](./232889-kombo.json) |
 | Kombo King | 188993 | [188993-kombo-king.json](./188993-kombo-king.json) |
 | Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
@@ -6153,7 +6134,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kor Eden | 427809 | [427809-kor-eden.json](./427809-kor-eden.json) |
 | Kora: Neural Gridlock | 416569 | [416569-kora-neural-gridlock.json](./416569-kora-neural-gridlock.json) |
 | Korablik | 30317 | [30317-korablik.json](./30317-korablik.json) |
-| Koral | 105160 | [105160-koral.json](./105160-koral.json) |
 | Korax' Heritage: Scattered Evil | 200968 | [200968-korax-heritage-scattered-evil.json](./200968-korax-heritage-scattered-evil.json) |
 | Kore | 142625 | [142625-kore.json](./142625-kore.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
@@ -6422,7 +6402,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koumajou Densetsu I&II Premium Pack | 210769 | [210769-koumajou-densetsu-i-and-ii-premium-pack.json](./210769-koumajou-densetsu-i-and-ii-premium-pack.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
 | Koumajou Remilia Ⅱ: Stranger's Requiem | 79973 | [79973-koumajou-remilia-ii-strangers-requiem.json](./79973-koumajou-remilia-ii-strangers-requiem.json) |
-| Koumajou Remilia: Scarlet Symphony | 151806 | [151806-koumajou-remilia-scarlet-symphony.json](./151806-koumajou-remilia-scarlet-symphony.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Kour 64 | 313667 | [313667-kour-64.json](./313667-kour-64.json) |
 | Kour.io | 289360 | [289360-kour-io.json](./289360-kour-io.json) |
@@ -6809,7 +6788,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
 | Kujira Monogatari | 242745 | [242745-kujira-monogatari.json](./242745-kujira-monogatari.json) |
 | Kujiragami no Tearstilla | 144633 | [144633-kujiragami-no-tearstilla.json](./144633-kujiragami-no-tearstilla.json) |
-| Kujlevka | 172179 | [172179-kujlevka.json](./172179-kujlevka.json) |
 | Kukinta | 285306 | [285306-kukinta.json](./285306-kukinta.json) |
 | KukkoroDays | 136255 | [136255-kukkorodays.json](./136255-kukkorodays.json) |
 | KukkoroDays | 138914 | [138914-kukkorodays.json](./138914-kukkorodays.json) |
@@ -7101,7 +7079,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurotsuki | 397468 | [397468-kurotsuki.json](./397468-kurotsuki.json) |
 | Kuroyuki Hime: Snow Black | 218951 | [218951-kuroyuki-hime-snow-black.json](./218951-kuroyuki-hime-snow-black.json) |
 | Kuroyuki Hime: Snow Magic | 218952 | [218952-kuroyuki-hime-snow-magic.json](./218952-kuroyuki-hime-snow-magic.json) |
-| Kurr Snaga | 117809 | [117809-kurr-snaga.json](./117809-kurr-snaga.json) |
 | Kurragömma med Mumintrollen | 316156 | [316156-kurragomma-med-mumintrollen.json](./316156-kurragomma-med-mumintrollen.json) |
 | Kursk | 22793 | [22793-kursk.json](./22793-kursk.json) |
 | Kursk - Battle at Prochorovka | 29223 | [29223-kursk-battle-at-prochorovka.json](./29223-kursk-battle-at-prochorovka.json) |
@@ -7144,7 +7121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurusuku Shichauzo | 98054 | [98054-kurusuku-shichauzo.json](./98054-kurusuku-shichauzo.json) |
 | Kuruwa: Yuukyou Kan Yoiyamizakura Dai Ni Shou | 97287 | [97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json](./97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json) |
 | Kurwa Sprint | 329869 | [329869-kurwa-sprint.json](./329869-kurwa-sprint.json) |
-| Kusan: City of Wolves | 167419 | [167419-kusan-city-of-wolves.json](./167419-kusan-city-of-wolves.json) |
 | Kusari Doi: In October The Rain Never Stopped | 401991 | [401991-kusari-doi-in-october-the-rain-never-stopped.json](./401991-kusari-doi-in-october-the-rain-never-stopped.json) |
 | Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
@@ -7195,7 +7171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuzbass | 194112 | [194112-kuzbass.json](./194112-kuzbass.json) |
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
 | Kvaka-zadavaka | 367906 | [367906-kvaka-zadavaka.json](./367906-kvaka-zadavaka.json) |
-| Kvark | 244262 | [244262-kvark.json](./244262-kvark.json) |
 | Kvlt | 216390 | [216390-kvlt.json](./216390-kvlt.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwad | 408730 | [408730-kwad.json](./408730-kwad.json) |
