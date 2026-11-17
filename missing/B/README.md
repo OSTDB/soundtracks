@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball O | 262897 | [262897-ball-o.json](./262897-ball-o.json) |
 | Ball of Adventure | 220051 | [220051-ball-of-adventure.json](./220051-ball-of-adventure.json) |
 | Ball of Doom | 132465 | [132465-ball-of-doom.json](./132465-ball-of-doom.json) |
+| Ball of Fantasy | 419293 | [419293-ball-of-fantasy.json](./419293-ball-of-fantasy.json) |
 | Ball of Light | 31014 | [31014-ball-of-light.json](./31014-ball-of-light.json) |
 | Ball of Paint | 334752 | [334752-ball-of-paint.json](./334752-ball-of-paint.json) |
 | Ball of Poo | 276855 | [276855-ball-of-poo.json](./276855-ball-of-poo.json) |
@@ -13246,6 +13247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Breaker Burst: Egao no Asu ni | 43817 | [43817-blue-breaker-burst-egao-no-asu-ni.json](./43817-blue-breaker-burst-egao-no-asu-ni.json) |
 | Blue Breaker: Ken Yorimo Hohoemi wo | 45411 | [45411-blue-breaker-ken-yorimo-hohoemi-wo.json](./45411-blue-breaker-ken-yorimo-hohoemi-wo.json) |
 | Blue Chairs | 60124 | [60124-blue-chairs.json](./60124-blue-chairs.json) |
+| Blue Check | 419257 | [419257-blue-check.json](./419257-blue-check.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Crow | 385822 | [385822-blue-crow.json](./385822-blue-crow.json) |
@@ -19142,6 +19144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Knight | 118262 | [118262-bucket-knight.json](./118262-bucket-knight.json) |
 | Bucket Knight River Adventures | 114608 | [114608-bucket-knight-river-adventures.json](./114608-bucket-knight-river-adventures.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
+| Bucket Time | 419247 | [419247-bucket-time.json](./419247-bucket-time.json) |
 | Bucket Truck VR Simulator | 326478 | [326478-bucket-truck-vr-simulator.json](./326478-bucket-truck-vr-simulator.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
 | Bucketz | 283556 | [283556-bucketz.json](./283556-bucketz.json) |
@@ -20415,6 +20418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn It Down | 47991 | [47991-burn-it-down.json](./47991-burn-it-down.json) |
 | Burn Me Alive | 165929 | [165929-burn-me-alive.json](./165929-burn-me-alive.json) |
 | Burn Me Twice | 132057 | [132057-burn-me-twice.json](./132057-burn-me-twice.json) |
+| Burn Pixel Wood | 419304 | [419304-burn-pixel-wood.json](./419304-burn-pixel-wood.json) |
 | Burn the City | 254344 | [254344-burn-the-city.json](./254344-burn-the-city.json) |
 | Burn the Corn | 254345 | [254345-burn-the-corn.json](./254345-burn-the-corn.json) |
 | Burn the Midnight Oil | 395846 | [395846-burn-the-midnight-oil.json](./395846-burn-the-midnight-oil.json) |
@@ -20711,6 +20715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Stop Spirit | 408191 | [408191-bus-stop-spirit.json](./408191-bus-stop-spirit.json) |
 | Bus Story: games for kids | 98999 | [98999-bus-story-games-for-kids.json](./98999-bus-story-games-for-kids.json) |
 | Bus Terminal Simulator | 403889 | [403889-bus-terminal-simulator.json](./403889-bus-terminal-simulator.json) |
+| Bus Traffic Fever! | 419267 | [419267-bus-traffic-fever.json](./419267-bus-traffic-fever.json) |
 | Bus Turbo Racing | 101124 | [101124-bus-turbo-racing.json](./101124-bus-turbo-racing.json) |
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus Tycoon Night and Day | 254077 | [254077-bus-tycoon-night-and-day.json](./254077-bus-tycoon-night-and-day.json) |
