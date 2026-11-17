@@ -10726,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension C38B | 127490 | [127490-dimension-c38b.json](./127490-dimension-c38b.json) |
 | Dimension Collapse | 180855 | [180855-dimension-collapse.json](./180855-dimension-collapse.json) |
 | Dimension Core: Amethyst | 408442 | [408442-dimension-core-amethyst.json](./408442-dimension-core-amethyst.json) |
+| Dimension Cross | 124315 | [124315-dimension-cross.json](./124315-dimension-cross.json) |
 | Dimension Dash | 193023 | [193023-dimension-dash.json](./193023-dimension-dash.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drifter | 107761 | [107761-dimension-drifter.json](./107761-dimension-drifter.json) |
@@ -11444,6 +11445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Crown Scandal | 303302 | [303302-dirty-crown-scandal.json](./303302-dirty-crown-scandal.json) |
 | Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
 | Dirty Dirty Pirates | 236790 | [236790-dirty-dirty-pirates.json](./236790-dirty-dirty-pirates.json) |
+| Dirty Drivin' | 124298 | [124298-dirty-drivin.json](./124298-dirty-drivin.json) |
 | Dirty Education | 385815 | [385815-dirty-education.json](./385815-dirty-education.json) |
 | Dirty Fantasy | 405069 | [405069-dirty-fantasy.json](./405069-dirty-fantasy.json) |
 | Dirty Fighter 1 | 46491 | [46491-dirty-fighter-1.json](./46491-dirty-fighter-1.json) |
@@ -22019,6 +22021,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
 | Dynamite Alex | 31343 | [31343-dynamite-alex.json](./31343-dynamite-alex.json) |
+| Dynamite Baseball | 124323 | [124323-dynamite-baseball.json](./124323-dynamite-baseball.json) |
+| Dynamite Baseball '99 | 124321 | [124321-dynamite-baseball-99.json](./124321-dynamite-baseball-99.json) |
+| Dynamite Baseball 97 | 124322 | [124322-dynamite-baseball-97.json](./124322-dynamite-baseball-97.json) |
 | Dynamite Baseball Naomi | 58424 | [58424-dynamite-baseball-naomi.json](./58424-dynamite-baseball-naomi.json) |
 | Dynamite Blast | 236630 | [236630-dynamite-blast.json](./236630-dynamite-blast.json) |
 | Dynamite Blue | 416795 | [416795-dynamite-blue.json](./416795-dynamite-blue.json) |
