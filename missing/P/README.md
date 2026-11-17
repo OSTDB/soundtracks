@@ -16194,6 +16194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priklyucheniya Mishek Gammi | 210311 | [210311-priklyucheniya-mishek-gammi.json](./210311-priklyucheniya-mishek-gammi.json) |
 | Prim | 143333 | [143333-prim.json](./143333-prim.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
+| Prim's Tower | 69465 | [69465-prims-tower.json](./69465-prims-tower.json) |
 | Prima Doll Encore | 218825 | [218825-prima-doll-encore.json](./218825-prima-doll-encore.json) |
 | Prima Doll: Fuyuzora Hanabi/Sekka Monyou | 218764 | [218764-prima-doll-fuyuzora-hanabi-sekka-monyou.json](./218764-prima-doll-fuyuzora-hanabi-sekka-monyou.json) |
 | Prima Doll: Kouto Tantei | 218766 | [218766-prima-doll-kouto-tantei.json](./218766-prima-doll-kouto-tantei.json) |
@@ -17876,6 +17877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Druid | 34797 | [34797-project-druid.json](./34797-project-druid.json) |
 | Project Druid | 74853 | [74853-project-druid.json](./74853-project-druid.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
+| Project Dualis | 69449 | [69449-project-dualis.json](./69449-project-dualis.json) |
 | Project Dukkha | 343942 | [343942-project-dukkha.json](./343942-project-dukkha.json) |
 | Project Dunk | 122328 | [122328-project-dunk.json](./122328-project-dunk.json) |
 | Project DX | 174821 | [174821-project-dx.json](./174821-project-dx.json) |
@@ -18029,6 +18031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Immortal | 124518 | [124518-project-immortal.json](./124518-project-immortal.json) |
 | Project Imperium | 216542 | [216542-project-imperium.json](./216542-project-imperium.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
+| Project Inline | 69461 | [69461-project-inline.json](./69461-project-inline.json) |
 | Project IO | 126920 | [126920-project-io.json](./126920-project-io.json) |
 | Project Ion | 62550 | [62550-project-ion.json](./62550-project-ion.json) |
 | Project Jeff | 286343 | [286343-project-jeff.json](./286343-project-jeff.json) |
@@ -18201,6 +18204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Plink | 197711 | [197711-project-plink.json](./197711-project-plink.json) |
 | Project Police | 111131 | [111131-project-police.json](./111131-project-police.json) |
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
+| Project Powder | 67580 | [67580-project-powder.json](./67580-project-powder.json) |
 | Project Prelude Rune | 27354 | [27354-project-prelude-rune.json](./27354-project-prelude-rune.json) |
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
 | Project Progressive | 335406 | [335406-project-progressive.json](./335406-project-progressive.json) |
