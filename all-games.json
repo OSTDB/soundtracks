@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T07:06:45.149Z",
-  "total_soundtracks": 3585,
+  "generated_at": "2026-11-17T07:21:06.289Z",
+  "total_soundtracks": 3593,
   "games": [
     {
       "igdb_id": 292844,
@@ -4275,6 +4275,20 @@
       ]
     },
     {
+      "igdb_id": 244838,
+      "game_name": "Beat Slayer",
+      "game_url": "https://ostdb.net/games/beat-slayer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273977c21d00ab2de55997399fb",
+      "albums": [
+        {
+          "album_name": "Beat Slayer (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3MfWLyb5awbk4eBfeLIhy2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 106790,
       "game_name": "Bee Simulator",
       "game_url": "https://ostdb.net/games/bee-simulator",
@@ -6447,6 +6461,34 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/carrion-original-game-soundtrack/1524271050?uo=4",
           "album_link_url": "https://album.link/i/1524271050"
+        }
+      ]
+    },
+    {
+      "igdb_id": 243204,
+      "game_name": "Cars",
+      "game_url": "https://ostdb.net/games/cars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732ab0c120b34b7a38303d4535",
+      "albums": [
+        {
+          "album_name": "Cars Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3lBAAtZ7Q9woK67N1QfFIn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 243202,
+      "game_name": "Cars",
+      "game_url": "https://ostdb.net/games/cars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732ab0c120b34b7a38303d4535",
+      "albums": [
+        {
+          "album_name": "Cars Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3lBAAtZ7Q9woK67N1QfFIn",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -17573,6 +17615,20 @@
       ]
     },
     {
+      "igdb_id": 244410,
+      "game_name": "Harvest Hunt",
+      "game_url": "https://ostdb.net/games/harvest-hunt",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e29c65816dc6588fc3604ff2",
+      "albums": [
+        {
+          "album_name": "Harvest Hunt - Original Video Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4wxJF99BTqOzbuVFumeFDA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 217008,
       "game_name": "Hauntii",
       "game_url": "https://ostdb.net/games/hauntii",
@@ -20141,6 +20197,20 @@
       ]
     },
     {
+      "igdb_id": 246564,
+      "game_name": "KarmaZoo",
+      "game_url": "https://ostdb.net/games/karmazoo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735fafc61dd1da459a8ccd4f1e",
+      "albums": [
+        {
+          "album_name": "KarmaZoo (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1XjwKXhjujZTfH5WanENRp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6459,
       "game_name": "Katamari Forever",
       "game_url": "https://ostdb.net/games/katamari-forever",
@@ -22215,6 +22285,20 @@
         {
           "album_name": "LostWinds Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1XjSTX4osDPb2RGFtJqijG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 241712,
+      "game_name": "Loud: My Road to Fame",
+      "game_url": "https://ostdb.net/games/loud-my-road-to-fame",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b5bf61beafe0e2b7c8a2af21",
+      "albums": [
+        {
+          "album_name": "LOUD: My Road To Fame (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7nT8DC7cdCpWcozBXugh0n",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -38331,6 +38415,20 @@
       ]
     },
     {
+      "igdb_id": 242009,
+      "game_name": "The Banished Vault",
+      "game_url": "https://ostdb.net/games/the-banished-vault",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731193b3acd931baf7844e1b15",
+      "albums": [
+        {
+          "album_name": "The Banished Vault (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/036cT6noEUoR7BHrC93f09",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 120645,
       "game_name": "The Bard's Tale IV: Director's Cut",
       "game_url": "https://ostdb.net/games/the-bards-tale-iv-directors-cut",
@@ -42541,6 +42639,20 @@
         {
           "album_name": "Typoman (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4ao9esvqqB09mufu1pStVX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 239407,
+      "game_name": "UFO Robot Grendizer: The Feast of the Wolves",
+      "game_url": "https://ostdb.net/games/ufo-robot-grendizer-the-feast-of-the-wolves",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27355d409512f9e6d2630e39f46",
+      "albums": [
+        {
+          "album_name": "UFO Robot Grendizer, The Feast of the Wolves (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1otiCRejVmEyIr9LEDVL6O",
           "apple_music_url": "",
           "album_link_url": ""
         }
