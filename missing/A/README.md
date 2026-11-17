@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghostly Journey | 393470 | [393470-a-ghostly-journey.json](./393470-a-ghostly-journey.json) |
 | A Ghostly Rose | 191943 | [191943-a-ghostly-rose.json](./191943-a-ghostly-rose.json) |
 | A Ghostly Tale | 123834 | [123834-a-ghostly-tale.json](./123834-a-ghostly-tale.json) |
+| A Giant Problem | 115094 | [115094-a-giant-problem.json](./115094-a-giant-problem.json) |
 | A Gift of War | 189341 | [189341-a-gift-of-war.json](./189341-a-gift-of-war.json) |
 | A Girl A Rain | 415766 | [415766-a-girl-a-rain.json](./415766-a-girl-a-rain.json) |
 | A Girl Adrift | 119219 | [119219-a-girl-adrift.json](./119219-a-girl-adrift.json) |
@@ -6997,7 +6998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akari: School Trip | 233654 | [233654-akari-school-trip.json](./233654-akari-school-trip.json) |
 | Akari: The Five Eyed Fox | 211026 | [211026-akari-the-five-eyed-fox.json](./211026-akari-the-five-eyed-fox.json) |
 | Akasen Gairo: Shouwa 33 Nen no Hatsuyuki | 153663 | [153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json](./153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json) |
-| Akash: Path of the Five | 119480 | [119480-akash-path-of-the-five.json](./119480-akash-path-of-the-five.json) |
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha | 403244 | [403244-akasha.json](./403244-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
@@ -19463,6 +19463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atlas of the Starry Night | 293005 | [293005-atlas-of-the-starry-night.json](./293005-atlas-of-the-starry-night.json) |
 | Atlas Online | 303899 | [303899-atlas-online.json](./303899-atlas-online.json) |
+| Atlas Protect Your Planet | 115116 | [115116-atlas-protect-your-planet.json](./115116-atlas-protect-your-planet.json) |
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
 | Atlas Reactor: All Freelancers Pack | 52430 | [52430-atlas-reactor-all-freelancers-pack.json](./52430-atlas-reactor-all-freelancers-pack.json) |
@@ -19842,6 +19843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack!! Hiroko-Chan | 67372 | [67372-attack-hiroko-chan.json](./67372-attack-hiroko-chan.json) |
 | Attacker-chan! | 211082 | [211082-attacker-chan.json](./211082-attacker-chan.json) |
 | Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
+| AttackNoids | 116478 | [116478-attacknoids.json](./116478-attacknoids.json) |
 | Attactics | 318310 | [318310-attactics.json](./318310-attactics.json) |
 | Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
 | Attempt[42] | 30331 | [30331-attempt-42.json](./30331-attempt-42.json) |
