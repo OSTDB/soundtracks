@@ -7139,7 +7139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether | 79659 | [79659-ether.json](./79659-ether.json) |
 | Ether @ Net | 260910 | [260910-ether-net.json](./260910-ether-net.json) |
 | Ether Awakening | 44229 | [44229-ether-awakening.json](./44229-ether-awakening.json) |
-| Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
 | Ether One Redux | 124917 | [124917-ether-one-redux.json](./124917-ether-one-redux.json) |
 | Ether One Redux: Deluxe Edition | 51816 | [51816-ether-one-redux-deluxe-edition.json](./51816-ether-one-redux-deluxe-edition.json) |
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
