@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
 | Joy You-I-He | 118523 | [118523-joy-you-i-he.json](./118523-joy-you-i-he.json) |
 | Joy-N Help Me | 262775 | [262775-joy-n-help-me.json](./262775-joy-n-help-me.json) |
+| JoyBits All-in-One Mega Bundle | 207942 | [207942-joybits-all-in-one-mega-bundle.json](./207942-joybits-all-in-one-mega-bundle.json) |
 | Joycoin | 323412 | [323412-joycoin.json](./323412-joycoin.json) |
 | Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
 | Joyfess: Martin's Secret Recipe | 126521 | [126521-joyfess-martins-secret-recipe.json](./126521-joyfess-martins-secret-recipe.json) |
@@ -3707,6 +3708,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Space Joyride | 403949 | [403949-jump-space-joyride.json](./403949-jump-space-joyride.json) |
 | Jump Squad | 218412 | [218412-jump-squad.json](./218412-jump-squad.json) |
 | Jump Squared | 176681 | [176681-jump-squared.json](./176681-jump-squared.json) |
+| Jump Start Advanced 3rd Grade | 210154 | [210154-jump-start-advanced-3rd-grade.json](./210154-jump-start-advanced-3rd-grade.json) |
+| Jump Start Advanced 5th & 6th Grade | 210153 | [210153-jump-start-advanced-5th-and-6th-grade.json](./210153-jump-start-advanced-5th-and-6th-grade.json) |
+| Jump Start Advanced Toddlers | 210149 | [210149-jump-start-advanced-toddlers.json](./210149-jump-start-advanced-toddlers.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
 | Jump Stop | 81927 | [81927-jump-stop.json](./81927-jump-stop.json) |
 | Jump Super Stars | 28835 | [28835-jump-super-stars.json](./28835-jump-super-stars.json) |
@@ -3931,8 +3935,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart 2nd Grade | 11686 | [11686-jumpstart-2nd-grade.json](./11686-jumpstart-2nd-grade.json) |
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
 | JumpStart ABC's | 92241 | [92241-jumpstart-abcs.json](./92241-jumpstart-abcs.json) |
+| JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain | 210155 | [210155-jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain.json](./210155-jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain.json) |
+| JumpStart Advanced Kindergarten | 210152 | [210152-jumpstart-advanced-kindergarten.json](./210152-jumpstart-advanced-kindergarten.json) |
+| JumpStart Advanced Kindergarten: 2nd Grade - Lost Island Adventures | 210151 | [210151-jumpstart-advanced-kindergarten-2nd-grade-lost-island-adventures.json](./210151-jumpstart-advanced-kindergarten-2nd-grade-lost-island-adventures.json) |
 | JumpStart Advanced Preschool | 77094 | [77094-jumpstart-advanced-preschool.json](./77094-jumpstart-advanced-preschool.json) |
 | JumpStart Advanced Preschool: StoryLand | 77093 | [77093-jumpstart-advanced-preschool-storyland.json](./77093-jumpstart-advanced-preschool-storyland.json) |
+| JumpStart Advanced Preschool: World Premium Edition | 210150 | [210150-jumpstart-advanced-preschool-world-premium-edition.json](./210150-jumpstart-advanced-preschool-world-premium-edition.json) |
 | JumpStart Adventure Challenge | 274271 | [274271-jumpstart-adventure-challenge.json](./274271-jumpstart-adventure-challenge.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Adventures 4th Grade: Sapphire Falls | 406755 | [406755-jumpstart-adventures-4th-grade-sapphire-falls.json](./406755-jumpstart-adventures-4th-grade-sapphire-falls.json) |
@@ -3941,16 +3949,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpstart Apocalypse VR | 232205 | [232205-jumpstart-apocalypse-vr.json](./232205-jumpstart-apocalypse-vr.json) |
 | JumpStart Artist | 294512 | [294512-jumpstart-artist.json](./294512-jumpstart-artist.json) |
 | JumpStart Baby | 144858 | [144858-jumpstart-baby.json](./144858-jumpstart-baby.json) |
+| JumpStart Deep Sea Escape | 210148 | [210148-jumpstart-deep-sea-escape.json](./210148-jumpstart-deep-sea-escape.json) |
 | JumpStart Escape from Adventure Island | 50725 | [50725-jumpstart-escape-from-adventure-island.json](./50725-jumpstart-escape-from-adventure-island.json) |
 | JumpStart Explorers | 129149 | [129149-jumpstart-explorers.json](./129149-jumpstart-explorers.json) |
 | JumpStart Junior | 129485 | [129485-jumpstart-junior.json](./129485-jumpstart-junior.json) |
 | JumpStart Kindergarten | 123589 | [123589-jumpstart-kindergarten.json](./123589-jumpstart-kindergarten.json) |
 | JumpStart Kindergarten | 212881 | [212881-jumpstart-kindergarten.json](./212881-jumpstart-kindergarten.json) |
 | JumpStart Kindergarten Reading | 176015 | [176015-jumpstart-kindergarten-reading.json](./176015-jumpstart-kindergarten-reading.json) |
+| JumpStart Legend of Lost Island | 210171 | [210171-jumpstart-legend-of-lost-island.json](./210171-jumpstart-legend-of-lost-island.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
 | JumpStart Music | 72290 | [72290-jumpstart-music.json](./72290-jumpstart-music.json) |
 | JumpStart Numbers | 159196 | [159196-jumpstart-numbers.json](./159196-jumpstart-numbers.json) |
+| JumpStart Pet Party | 210170 | [210170-jumpstart-pet-party.json](./210170-jumpstart-pet-party.json) |
 | Jumpstart Pet Rescue | 50669 | [50669-jumpstart-pet-rescue.json](./50669-jumpstart-pet-rescue.json) |
 | JumpStart Phonics | 358412 | [358412-jumpstart-phonics.json](./358412-jumpstart-phonics.json) |
 | JumpStart Pre-K | 407433 | [407433-jumpstart-pre-k.json](./407433-jumpstart-pre-k.json) |
@@ -3962,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpstart Spy Masters: Max Strikes Back | 91800 | [91800-jumpstart-spy-masters-max-strikes-back.json](./91800-jumpstart-spy-masters-max-strikes-back.json) |
 | Jumpstart Spy Masters: Unmask the Prankster | 185887 | [185887-jumpstart-spy-masters-unmask-the-prankster.json](./185887-jumpstart-spy-masters-unmask-the-prankster.json) |
 | JumpStart Study Helpers Math Booster | 366185 | [366185-jumpstart-study-helpers-math-booster.json](./366185-jumpstart-study-helpers-math-booster.json) |
+| JumpStart Study Helpers: Spelling Bee | 210169 | [210169-jumpstart-study-helpers-spelling-bee.json](./210169-jumpstart-study-helpers-spelling-bee.json) |
 | JumpStart Toddlers | 129111 | [129111-jumpstart-toddlers.json](./129111-jumpstart-toddlers.json) |
 | JumpStart Typing | 73592 | [73592-jumpstart-typing.json](./73592-jumpstart-typing.json) |
 | JumpStart Wildlife Safari Field Trip | 67348 | [67348-jumpstart-wildlife-safari-field-trip.json](./67348-jumpstart-wildlife-safari-field-trip.json) |
@@ -4348,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Complete Edition | 411823 | [411823-jurassic-world-evolution-2-complete-edition.json](./411823-jurassic-world-evolution-2-complete-edition.json) |
 | Jurassic World Evolution 2: Cretaceous Predator Pack | 277848 | [277848-jurassic-world-evolution-2-cretaceous-predator-pack.json](./277848-jurassic-world-evolution-2-cretaceous-predator-pack.json) |
 | Jurassic World Evolution 2: Deluxe Edition | 169166 | [169166-jurassic-world-evolution-2-deluxe-edition.json](./169166-jurassic-world-evolution-2-deluxe-edition.json) |
+| Jurassic World Evolution 2: Dominion Biosyn Bundle | 207940 | [207940-jurassic-world-evolution-2-dominion-biosyn-bundle.json](./207940-jurassic-world-evolution-2-dominion-biosyn-bundle.json) |
 | Jurassic World Evolution 2: Dominion Biosyn Expansion | 203760 | [203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json](./203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json) |
 | Jurassic World Evolution 2: Dominion Bundle | 228844 | [228844-jurassic-world-evolution-2-dominion-bundle.json](./228844-jurassic-world-evolution-2-dominion-bundle.json) |
 | Jurassic World Evolution 2: Dominion Malta Expansion | 228747 | [228747-jurassic-world-evolution-2-dominion-malta-expansion.json](./228747-jurassic-world-evolution-2-dominion-malta-expansion.json) |
