@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warped Continuity | 288481 | [288481-warped-continuity.json](./288481-warped-continuity.json) |
 | Warped Kart Racers | 200376 | [200376-warped-kart-racers.json](./200376-warped-kart-racers.json) |
 | Warped North | 263451 | [263451-warped-north.json](./263451-warped-north.json) |
+| Warped Reality | 29268 | [29268-warped-reality.json](./29268-warped-reality.json) |
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
 | Warped Times | 211104 | [211104-warped-times.json](./211104-warped-times.json) |
 | Warped Universe | 366030 | [366030-warped-universe.json](./366030-warped-universe.json) |
@@ -3411,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Mystery: Yochimu wo Miru Neko | 59815 | [59815-web-mystery-yochimu-wo-miru-neko.json](./59815-web-mystery-yochimu-wo-miru-neko.json) |
 | Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
 | Web of Deceit: Black Widow | 69017 | [69017-web-of-deceit-black-widow.json](./69017-web-of-deceit-black-widow.json) |
+| Web of Deceit: Black Widow - Collector's Edition | 29240 | [29240-web-of-deceit-black-widow-collectors-edition.json](./29240-web-of-deceit-black-widow-collectors-edition.json) |
 | Web of Deceit: Deadly Sands - Collector's Edition | 81837 | [81837-web-of-deceit-deadly-sands-collectors-edition.json](./81837-web-of-deceit-deadly-sands-collectors-edition.json) |
 | Web of Deceit: Deadly Sands HD | 96547 | [96547-web-of-deceit-deadly-sands-hd.json](./96547-web-of-deceit-deadly-sands-hd.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
@@ -6924,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
 | Winx Club | 6680 | [6680-winx-club.json](./6680-winx-club.json) |
 | Winx Club : The Quest For The Codex | 75353 | [75353-winx-club-the-quest-for-the-codex.json](./75353-winx-club-the-quest-for-the-codex.json) |
+| Winx Club Rockstars | 25193 | [25193-winx-club-rockstars.json](./25193-winx-club-rockstars.json) |
 | Winx Club Secret Diary 2009 | 47829 | [47829-winx-club-secret-diary-2009.json](./47829-winx-club-secret-diary-2009.json) |
 | Winx Club: Alfea Butterflix Adventures | 79740 | [79740-winx-club-alfea-butterflix-adventures.json](./79740-winx-club-alfea-butterflix-adventures.json) |
 | Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
@@ -7578,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Harmony | 55900 | [55900-wizards-harmony.json](./55900-wizards-harmony.json) |
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
 | Wizard's Harmony R | 108169 | [108169-wizards-harmony-r.json](./108169-wizards-harmony-r.json) |
+| Wizard's Hat | 25271 | [25271-wizards-hat.json](./25271-wizards-hat.json) |
 | Wizard's Keep | 51638 | [51638-wizards-keep.json](./51638-wizards-keep.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
 | Wizard's Legacy | 311560 | [311560-wizards-legacy.json](./311560-wizards-legacy.json) |
@@ -8151,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonders of the World: Collector's Edition | 338065 | [338065-wonders-of-the-world-collectors-edition.json](./338065-wonders-of-the-world-collectors-edition.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
 | Wonders Puzzle | 395314 | [395314-wonders-puzzle.json](./395314-wonders-puzzle.json) |
+| Wondership Q | 32287 | [32287-wondership-q.json](./32287-wondership-q.json) |
 | Wondershot | 33830 | [33830-wondershot.json](./33830-wondershot.json) |
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
@@ -8223,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Simulator 2011 | 52132 | [52132-woodcutter-simulator-2011.json](./52132-woodcutter-simulator-2011.json) |
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
+| Woodcutter Simulator 2013: Gold Edition | 25212 | [25212-woodcutter-simulator-2013-gold-edition.json](./25212-woodcutter-simulator-2013-gold-edition.json) |
 | Woodcutter Survival | 123316 | [123316-woodcutter-survival.json](./123316-woodcutter-survival.json) |
 | Wooden Battles | 55717 | [55717-wooden-battles.json](./55717-wooden-battles.json) |
 | Wooden Battles: Spec Ops | 247816 | [247816-wooden-battles-spec-ops.json](./247816-wooden-battles-spec-ops.json) |
