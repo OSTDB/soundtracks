@@ -6633,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mavericks | 349802 | [349802-mavericks.json](./349802-mavericks.json) |
 | Mavericks 2: Resurrection of the Repliforce: | 350788 | [350788-mavericks-2-resurrection-of-the-repliforce.json](./350788-mavericks-2-resurrection-of-the-repliforce.json) |
 | Mavericks 3: Zero's Revenge | 350789 | [350789-mavericks-3-zeros-revenge.json](./350789-mavericks-3-zeros-revenge.json) |
+| Mavericks: Proving Grounds | 87738 | [87738-mavericks-proving-grounds.json](./87738-mavericks-proving-grounds.json) |
 | Maverta | 181039 | [181039-maverta.json](./181039-maverta.json) |
 | Maverta City | 193051 | [193051-maverta-city.json](./193051-maverta-city.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
