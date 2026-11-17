@@ -9494,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
 | Grave Seasons | 251059 | [251059-grave-seasons.json](./251059-grave-seasons.json) |
 | Grave Shadows | 185450 | [185450-grave-shadows.json](./185450-grave-shadows.json) |
+| Grave Shift | 425940 | [425940-grave-shift.json](./425940-grave-shift.json) |
 | Grave Space | 312996 | [312996-grave-space.json](./312996-grave-space.json) |
 | Grave Spirit | 230215 | [230215-grave-spirit.json](./230215-grave-spirit.json) |
 | Grave Stakes | 365721 | [365721-grave-stakes.json](./365721-grave-stakes.json) |
@@ -9945,6 +9946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grease | 4895 | [4895-grease.json](./4895-grease.json) |
 | Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
+| Grease Trap '99 | 425915 | [425915-grease-trap-99.json](./425915-grease-trap-99.json) |
 | Greasemnk++ | 347290 | [347290-greasemnk.json](./347290-greasemnk.json) |
 | Greaser | 224871 | [224871-greaser.json](./224871-greaser.json) |
 | GreasyMac: Void Wilds | 410023 | [410023-greasymac-void-wilds.json](./410023-greasymac-void-wilds.json) |
