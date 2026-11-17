@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elifoot 2002 | 398928 | [398928-elifoot-2002.json](./398928-elifoot-2002.json) |
 | Elifoot 98 | 398966 | [398966-elifoot-98.json](./398966-elifoot-98.json) |
 | Elijah and the Out of this World Adventure | 171679 | [171679-elijah-and-the-out-of-this-world-adventure.json](./171679-elijah-and-the-out-of-this-world-adventure.json) |
+| Eliminate | 80700 | [80700-eliminate.json](./80700-eliminate.json) |
 | Eliminate Down | 46176 | [46176-eliminate-down.json](./46176-eliminate-down.json) |
 | Eliminate Drips | 172275 | [172275-eliminate-drips.json](./172275-eliminate-drips.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
@@ -7556,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
 | Evangeline | 26284 | [26284-evangeline.json](./26284-evangeline.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
+| Evangelion Art | 80665 | [80665-evangelion-art.json](./80665-evangelion-art.json) |
 | Evangelion Battlefields | 165100 | [165100-evangelion-battlefields.json](./165100-evangelion-battlefields.json) |
 | Evangelion Shin Gekijouban: 3nd Impact | 56810 | [56810-evangelion-shin-gekijouban-3nd-impact.json](./56810-evangelion-shin-gekijouban-3nd-impact.json) |
 | Evangelion VR: The Throne of Souls | 49119 | [49119-evangelion-vr-the-throne-of-souls.json](./49119-evangelion-vr-the-throne-of-souls.json) |
