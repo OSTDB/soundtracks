@@ -2226,7 +2226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Toad's Dungeon Dash! | 231662 | [231662-captain-toads-dungeon-dash.json](./231662-captain-toads-dungeon-dash.json) |
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
-| Captain ToonHead vs. The Punks from Outer Space | 157712 | [157712-captain-toonhead-vs-the-punks-from-outer-space.json](./157712-captain-toonhead-vs-the-punks-from-outer-space.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa | 5369 | [5369-captain-tsubasa.json](./5369-captain-tsubasa.json) |
 | Captain Tsubasa | 78088 | [78088-captain-tsubasa.json](./78088-captain-tsubasa.json) |
@@ -3329,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
 | Carnival Happy Day | 344401 | [344401-carnival-happy-day.json](./344401-carnival-happy-day.json) |
 | Carnival Heroes: Super Party Minigames | 338626 | [338626-carnival-heroes-super-party-minigames.json](./338626-carnival-heroes-super-party-minigames.json) |
+| Carnival Hunt | 126669 | [126669-carnival-hunt.json](./126669-carnival-hunt.json) |
 | Carnival in the Hut | 251748 | [251748-carnival-in-the-hut.json](./251748-carnival-in-the-hut.json) |
 | Carnival Island | 20826 | [20826-carnival-island.json](./20826-carnival-island.json) |
 | Carnival King | 51127 | [51127-carnival-king.json](./51127-carnival-king.json) |
@@ -7772,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
 | Chess Evolved Online | 58624 | [58624-chess-evolved-online.json](./58624-chess-evolved-online.json) |
 | Chess Exerciser | 273804 | [273804-chess-exerciser.json](./273804-chess-exerciser.json) |
+| Chess Fighters | 124327 | [124327-chess-fighters.json](./124327-chess-fighters.json) |
 | Chess Folk | 420519 | [420519-chess-folk.json](./420519-chess-folk.json) |
 | Chess for Idiots | 275246 | [275246-chess-for-idiots.json](./275246-chess-for-idiots.json) |
 | Chess for Idiots: Premium | 289525 | [289525-chess-for-idiots-premium.json](./289525-chess-for-idiots-premium.json) |
@@ -10351,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
 | Cirque du Soleil | 68867 | [68867-cirque-du-soleil.json](./68867-cirque-du-soleil.json) |
 | Cirque Eclipse: The Scarlet Curtain | 257163 | [257163-cirque-eclipse-the-scarlet-curtain.json](./257163-cirque-eclipse-the-scarlet-curtain.json) |
+| Cirrata | 126679 | [126679-cirrata.json](./126679-cirrata.json) |
 | Cirro Investigates: The Chilling Truth Behind Deck 13!! | 188547 | [188547-cirro-investigates-the-chilling-truth-behind-deck-13.json](./188547-cirro-investigates-the-chilling-truth-behind-deck-13.json) |
 | Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
@@ -17882,6 +17884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couplinked | 138509 | [138509-couplinked.json](./138509-couplinked.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
+| Courage and Honor | 128022 | [128022-courage-and-honor.json](./128022-courage-and-honor.json) |
 | Courage for a Kiss | 113886 | [113886-courage-for-a-kiss.json](./113886-courage-for-a-kiss.json) |
 | Courage Gauntlet Challenge | 387739 | [387739-courage-gauntlet-challenge.json](./387739-courage-gauntlet-challenge.json) |
 | Courage Saw Game | 385598 | [385598-courage-saw-game.json](./385598-courage-saw-game.json) |
