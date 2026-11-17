@@ -7311,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigments | 222761 | [222761-pigments.json](./222761-pigments.json) |
 | Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
 | Pignator | 244137 | [244137-pignator.json](./244137-pignator.json) |
+| Pigocefal | 116491 | [116491-pigocefal.json](./116491-pigocefal.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
 | Pigs a Pop'n | 112208 | [112208-pigs-a-popn.json](./112208-pigs-a-popn.json) |
 | Pigs and Luig | 398154 | [398154-pigs-and-luig.json](./398154-pigs-and-luig.json) |
@@ -16740,6 +16741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismarch | 388553 | [388553-prismarch.json](./388553-prismarch.json) |
 | Prismata | 8215 | [8215-prismata.json](./8215-prismata.json) |
 | Prismata: Founder's Edition DLC | 167920 | [167920-prismata-founders-edition-dlc.json](./167920-prismata-founders-edition-dlc.json) |
+| Prismatic Maze | 116471 | [116471-prismatic-maze.json](./116471-prismatic-maze.json) |
 | Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
 | Prismatica | 35033 | [35033-prismatica.json](./35033-prismatica.json) |
