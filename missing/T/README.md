@@ -18164,7 +18164,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
 | The Serpent and the Crow | 352473 | [352473-the-serpent-and-the-crow.json](./352473-the-serpent-and-the-crow.json) |
 | The Serpent of Isis | 206657 | [206657-the-serpent-of-isis.json](./206657-the-serpent-of-isis.json) |
-| The Serpent Rogue | 165394 | [165394-the-serpent-rogue.json](./165394-the-serpent-rogue.json) |
 | The Serpent's Star | 25328 | [25328-the-serpents-star.json](./25328-the-serpents-star.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
@@ -23019,6 +23018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Thorns and Curses | 288616 | [288616-through-the-thorns-and-curses.json](./288616-through-the-thorns-and-curses.json) |
 | Through the Tomb | 102957 | [102957-through-the-tomb.json](./102957-through-the-tomb.json) |
 | Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
+| Through the Unknown | 126678 | [126678-through-the-unknown.json](./126678-through-the-unknown.json) |
 | Through the Veil | 319291 | [319291-through-the-veil.json](./319291-through-the-veil.json) |
 | Through the Void: Echoes | 424848 | [424848-through-the-void-echoes.json](./424848-through-the-void-echoes.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
