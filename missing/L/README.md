@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Ciudad Fantasma | 276382 | [276382-la-ciudad-fantasma.json](./276382-la-ciudad-fantasma.json) |
 | La ciudad perdida de los Kowane | 316783 | [316783-la-ciudad-perdida-de-los-kowane.json](./316783-la-ciudad-perdida-de-los-kowane.json) |
 | La Colmena | 86085 | [86085-la-colmena.json](./86085-la-colmena.json) |
+| La Compaña | 427727 | [427727-la-compana.json](./427727-la-compana.json) |
 | LA Cops | 17080 | [17080-la-cops.json](./17080-la-cops.json) |
 | La Corona Encantada | 141850 | [141850-la-corona-encantada.json](./141850-la-corona-encantada.json) |
 | La Corona Mágica | 69635 | [69635-la-corona-magica.json](./69635-la-corona-magica.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Leftovers KO! | 332912 | [332912-leftovers-ko.json](./332912-leftovers-ko.json) |
+| Leftovers: Last Fridge Standing | 427696 | [427696-leftovers-last-fridge-standing.json](./427696-leftovers-last-fridge-standing.json) |
 | LeftRedRightBlue | 328175 | [328175-leftredrightblue.json](./328175-leftredrightblue.json) |
 | LeftWay | 52279 | [52279-leftway.json](./52279-leftway.json) |
 | LeftWay 2 | 158798 | [158798-leftway-2.json](./158798-leftway-2.json) |
@@ -8797,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Imps | 212979 | [212979-lord-of-the-imps.json](./212979-lord-of-the-imps.json) |
 | Lord of the Jungle | 142763 | [142763-lord-of-the-jungle.json](./142763-lord-of-the-jungle.json) |
 | Lord of the Mall (Lord of Them All!) | 184253 | [184253-lord-of-the-mall-lord-of-them-all.json](./184253-lord-of-the-mall-lord-of-them-all.json) |
+| Lord of the Orb | 427690 | [427690-lord-of-the-orb.json](./427690-lord-of-the-orb.json) |
 | Lord of the Other World | 174815 | [174815-lord-of-the-other-world.json](./174815-lord-of-the-other-world.json) |
 | Lord of the Race | 260656 | [260656-lord-of-the-race.json](./260656-lord-of-the-race.json) |
 | Lord of the Rings | 109268 | [109268-lord-of-the-rings.json](./109268-lord-of-the-rings.json) |
@@ -9300,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Random: The Eternal Die - Stitched in Style | 361062 | [361062-lost-in-random-the-eternal-die-stitched-in-style.json](./361062-lost-in-random-the-eternal-die-stitched-in-style.json) |
 | Lost In Random: The Eternal Die - Wardrobe Expansion | 345728 | [345728-lost-in-random-the-eternal-die-wardrobe-expansion.json](./345728-lost-in-random-the-eternal-die-wardrobe-expansion.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
+| Lost in Reefs | 427738 | [427738-lost-in-reefs.json](./427738-lost-in-reefs.json) |
 | Lost In Reefs 2 | 87063 | [87063-lost-in-reefs-2.json](./87063-lost-in-reefs-2.json) |
 | Lost In Reefs 3 | 89565 | [89565-lost-in-reefs-3.json](./89565-lost-in-reefs-3.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
