@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted Dead or Alive | 72524 | [72524-wanted-dead-or-alive.json](./72524-wanted-dead-or-alive.json) |
 | Wanted Driver | 226392 | [226392-wanted-driver.json](./226392-wanted-driver.json) |
 | Wanted Guns: Gold. Greed. Gunfire | 144468 | [144468-wanted-guns-gold-greed-gunfire.json](./144468-wanted-guns-gold-greed-gunfire.json) |
+| Wanted in Hell | 156743 | [156743-wanted-in-hell.json](./156743-wanted-in-hell.json) |
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
@@ -2708,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water | 216333 | [216333-water.json](./216333-water.json) |
 | Water & Domestic Animals Bundle | 271832 | [271832-water-and-domestic-animals-bundle.json](./271832-water-and-domestic-animals-bundle.json) |
 | Water 2050 | 239680 | [239680-water-2050.json](./239680-water-2050.json) |
+| Water Ball | 147536 | [147536-water-ball.json](./147536-water-ball.json) |
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
 | Water balls | 39847 | [39847-water-balls.json](./39847-water-balls.json) |
 | Water Bears VR | 34719 | [34719-water-bears-vr.json](./34719-water-bears-vr.json) |
@@ -3695,7 +3697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Dustown | 309796 | [309796-welcome-to-dustown.json](./309796-welcome-to-dustown.json) |
 | Welcome To Eden | 278918 | [278918-welcome-to-eden.json](./278918-welcome-to-eden.json) |
 | Welcome to Ela | 320040 | [320040-welcome-to-ela.json](./320040-welcome-to-ela.json) |
-| Welcome to Elderfield | 319629 | [319629-welcome-to-elderfield.json](./319629-welcome-to-elderfield.json) |
 | Welcome to Elite Cafe | 403033 | [403033-welcome-to-elite-cafe.json](./403033-welcome-to-elite-cafe.json) |
 | Welcome to Emba | 150624 | [150624-welcome-to-emba.json](./150624-welcome-to-emba.json) |
 | Welcome to Empyreum | 189240 | [189240-welcome-to-empyreum.json](./189240-welcome-to-empyreum.json) |
@@ -5067,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Poisoner's Masquerade - Collector's Edition | 409717 | [409717-whispered-secrets-poisoners-masquerade-collectors-edition.json](./409717-whispered-secrets-poisoners-masquerade-collectors-edition.json) |
 | Whispered Secrets: Purrfect Horror - Collector's Edition | 350309 | [350309-whispered-secrets-purrfect-horror-collectors-edition.json](./350309-whispered-secrets-purrfect-horror-collectors-edition.json) |
 | Whispered Secrets: Ripple of the Heart | 187972 | [187972-whispered-secrets-ripple-of-the-heart.json](./187972-whispered-secrets-ripple-of-the-heart.json) |
+| Whispered Secrets: Ripple of the Heart - Collector's Edition | 147530 | [147530-whispered-secrets-ripple-of-the-heart-collectors-edition.json](./147530-whispered-secrets-ripple-of-the-heart-collectors-edition.json) |
 | Whispered Secrets: Silence | 99915 | [99915-whispered-secrets-silence.json](./99915-whispered-secrets-silence.json) |
 | Whispered Secrets: Song of Sorrow - Collector's Edition | 361251 | [361251-whispered-secrets-song-of-sorrow-collectors-edition.json](./361251-whispered-secrets-song-of-sorrow-collectors-edition.json) |
 | Whispered Secrets: The Story of Tideville | 139782 | [139782-whispered-secrets-the-story-of-tideville.json](./139782-whispered-secrets-the-story-of-tideville.json) |
@@ -6163,11 +6165,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wile E's Revenge | 214982 | [214982-wile-es-revenge.json](./214982-wile-es-revenge.json) |
 | Wilford Brimley Battle | 278040 | [278040-wilford-brimley-battle.json](./278040-wilford-brimley-battle.json) |
 | Wilford Island | 278041 | [278041-wilford-island.json](./278041-wilford-island.json) |
+| Wilford: Deep Underground | 153468 | [153468-wilford-deep-underground.json](./153468-wilford-deep-underground.json) |
 | Wilfred the Hero, Part 1 | 265906 | [265906-wilfred-the-hero-part-1.json](./265906-wilfred-the-hero-part-1.json) |
 | Wilful Kitty | 241816 | [241816-wilful-kitty.json](./241816-wilful-kitty.json) |
 | Wilhelm Gustloff's Death | 168580 | [168580-wilhelm-gustloffs-death.json](./168580-wilhelm-gustloffs-death.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
 | Will & Dewitt: Pad-Hop Adventure | 330032 | [330032-will-and-dewitt-pad-hop-adventure.json](./330032-will-and-dewitt-pad-hop-adventure.json) |
+| Will Bridge : Initiation Junior | 145108 | [145108-will-bridge-initiation-junior.json](./145108-will-bridge-initiation-junior.json) |
 | Will Die Alone | 177398 | [177398-will-die-alone.json](./177398-will-die-alone.json) |
 | Will Glow the Wisp | 36978 | [36978-will-glow-the-wisp.json](./36978-will-glow-the-wisp.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
@@ -8206,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
 | Wood Block Escape Bundle | 215319 | [215319-wood-block-escape-bundle.json](./215319-wood-block-escape-bundle.json) |
 | Wood Block Escape Puzzles | 148099 | [148099-wood-block-escape-puzzles.json](./148099-wood-block-escape-puzzles.json) |
+| Wood Block Escape Puzzles 2 | 152431 | [152431-wood-block-escape-puzzles-2.json](./152431-wood-block-escape-puzzles-2.json) |
 | Wood Block Escape Puzzles 3 | 158788 | [158788-wood-block-escape-puzzles-3.json](./158788-wood-block-escape-puzzles-3.json) |
 | Wood Block Puzzle | 220190 | [220190-wood-block-puzzle.json](./220190-wood-block-puzzle.json) |
 | Wood Block Puzzle Game | 98830 | [98830-wood-block-puzzle-game.json](./98830-wood-block-puzzle-game.json) |
