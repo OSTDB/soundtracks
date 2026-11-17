@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Bomb | 318753 | [318753-v-bomb.json](./318753-v-bomb.json) |
 | V Burster | 202259 | [202259-v-burster.json](./202259-v-burster.json) |
 | V de Vinagre | 282098 | [282098-v-de-vinagre.json](./282098-v-de-vinagre.json) |
+| V for Vampire | 69443 | [69443-v-for-vampire.json](./69443-v-for-vampire.json) |
 | V for Victory: D-Day Utah Beach | 50102 | [50102-v-for-victory-d-day-utah-beach.json](./50102-v-for-victory-d-day-utah-beach.json) |
 | V for Victory: Gold-Juno-Sword | 69234 | [69234-v-for-victory-gold-juno-sword.json](./69234-v-for-victory-gold-juno-sword.json) |
 | V for Victory: Market Garden | 70965 | [70965-v-for-victory-market-garden.json](./70965-v-for-victory-market-garden.json) |
