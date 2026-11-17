@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T06:06:37.470Z",
-  "total_soundtracks": 3545,
+  "generated_at": "2026-11-17T06:10:54.742Z",
+  "total_soundtracks": 3546,
   "games": [
     {
       "igdb_id": 292844,
@@ -18506,6 +18506,20 @@
           "album_name": "Hyper Light Drifter (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5v5mSuw9o5DIHbA2qwFOUt",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 295876,
+      "game_name": "Hyperbeat",
+      "game_url": "https://ostdb.net/games/hyperbeat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eb0e5ebb17479f43027d0301",
+      "albums": [
+        {
+          "album_name": "HYPERBEAT (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5eeOeHNFCNz2WXCj6wNW3n",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
