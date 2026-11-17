@@ -4199,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
 | What Goes Up | 415305 | [415305-what-goes-up.json](./415305-what-goes-up.json) |
 | What Grows in the Night | 178905 | [178905-what-grows-in-the-night.json](./178905-what-grows-in-the-night.json) |
+| What Hadjane Says Goes! | 124316 | [124316-what-hadjane-says-goes.json](./124316-what-hadjane-says-goes.json) |
 | What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
 | What Happened At Sugar Hill? | 394117 | [394117-what-happened-at-sugar-hill.json](./394117-what-happened-at-sugar-hill.json) |
 | What Happened in Addison's Grotto | 203637 | [203637-what-happened-in-addisons-grotto.json](./203637-what-happened-in-addisons-grotto.json) |
@@ -7686,6 +7687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards in Shorts | 323464 | [323464-wizards-in-shorts.json](./323464-wizards-in-shorts.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
 | Wizards of Alamar | 182670 | [182670-wizards-of-alamar.json](./182670-wizards-of-alamar.json) |
+| Wizards of Brandel | 124312 | [124312-wizards-of-brandel.json](./124312-wizards-of-brandel.json) |
 | Wizards of Chaos | 216823 | [216823-wizards-of-chaos.json](./216823-wizards-of-chaos.json) |
 | Wizards of Nature | 329674 | [329674-wizards-of-nature.json](./329674-wizards-of-nature.json) |
 | Wizards of the West | 155749 | [155749-wizards-of-the-west.json](./155749-wizards-of-the-west.json) |
