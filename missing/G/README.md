@@ -9490,6 +9490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Mania: Pandemic Pandemonium | 31651 | [31651-grave-mania-pandemic-pandemonium.json](./31651-grave-mania-pandemic-pandemonium.json) |
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
 | Grave Matters | 31222 | [31222-grave-matters.json](./31222-grave-matters.json) |
+| Grave Misfortune | 421731 | [421731-grave-misfortune.json](./421731-grave-misfortune.json) |
 | Grave Odds | 424537 | [424537-grave-odds.json](./424537-grave-odds.json) |
 | Grave of the Petrified | 132476 | [132476-grave-of-the-petrified.json](./132476-grave-of-the-petrified.json) |
 | Grave of Träumerei | 229414 | [229414-grave-of-traumerei.json](./229414-grave-of-traumerei.json) |
@@ -11330,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grove flowers | 115381 | [115381-grove-flowers.json](./115381-grove-flowers.json) |
 | Grove Grown Guardians | 310993 | [310993-grove-grown-guardians.json](./310993-grove-grown-guardians.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
+| Grove of the Seven Stones | 421713 | [421713-grove-of-the-seven-stones.json](./421713-grove-of-the-seven-stones.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Groven | 199350 | [199350-groven.json](./199350-groven.json) |
 | Grover's Animal Adventures | 213176 | [213176-grovers-animal-adventures.json](./213176-grovers-animal-adventures.json) |
@@ -12943,6 +12945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurney to Gurney | 151392 | [151392-gurney-to-gurney.json](./151392-gurney-to-gurney.json) |
 | Guro Dere | 108971 | [108971-guro-dere.json](./108971-guro-dere.json) |
 | Gurobu | 149914 | [149914-gurobu.json](./149914-gurobu.json) |
+| Gurobura: Grow up Bride | 421700 | [421700-gurobura-grow-up-bride.json](./421700-gurobura-grow-up-bride.json) |
 | Guroku | 144820 | [144820-guroku.json](./144820-guroku.json) |
 | Guroku Rainbow | 237373 | [237373-guroku-rainbow.json](./237373-guroku-rainbow.json) |
 | Guroopia! | 121551 | [121551-guroopia.json](./121551-guroopia.json) |
