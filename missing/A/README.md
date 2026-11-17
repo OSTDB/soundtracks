@@ -4877,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: The Lost Hero | 235601 | [235601-aery-the-lost-hero.json](./235601-aery-the-lost-hero.json) |
 | Aery: Time Traveller Bundle | 308583 | [308583-aery-time-traveller-bundle.json](./308583-aery-time-traveller-bundle.json) |
 | Aery: Viking Saga | 364086 | [364086-aery-viking-saga.json](./364086-aery-viking-saga.json) |
+| Aery: Vikings | 199650 | [199650-aery-vikings.json](./199650-aery-vikings.json) |
 | Aery: Winter Wonderland | 378997 | [378997-aery-winter-wonderland.json](./378997-aery-winter-wonderland.json) |
 | Aeryth | 257587 | [257587-aeryth.json](./257587-aeryth.json) |
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
