@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
 | Parker & Lane | 93881 | [93881-parker-and-lane.json](./93881-parker-and-lane.json) |
 | Parker & Lane: Criminal Justice | 112026 | [112026-parker-and-lane-criminal-justice.json](./112026-parker-and-lane-criminal-justice.json) |
+| Parker & Lane: Twisted Minds | 113777 | [113777-parker-and-lane-twisted-minds.json](./113777-parker-and-lane-twisted-minds.json) |
 | Parker Brothers: Card Games | 100093 | [100093-parker-brothers-card-games.json](./100093-parker-brothers-card-games.json) |
 | Parket Evolution | 213780 | [213780-parket-evolution.json](./213780-parket-evolution.json) |
 | Parking 3D | 119624 | [119624-parking-3d.json](./119624-parking-3d.json) |
@@ -5553,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Pals: Animal Doctor | 5093 | [5093-pet-pals-animal-doctor.json](./5093-pet-pals-animal-doctor.json) |
 | Pet Pals: New Leash on Life | 64121 | [64121-pet-pals-new-leash-on-life.json](./64121-pet-pals-new-leash-on-life.json) |
 | PET Panic! | 290656 | [290656-pet-panic.json](./290656-pet-panic.json) |
+| Pet Paradise | 109962 | [109962-pet-paradise.json](./109962-pet-paradise.json) |
 | Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
 | Pet Party | 115541 | [115541-pet-party.json](./115541-pet-party.json) |
 | Pet Pat | 221568 | [221568-pet-pat.json](./221568-pet-pat.json) |
@@ -6650,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physics car Forever | 143299 | [143299-physics-car-forever.json](./143299-physics-car-forever.json) |
 | Physics Cats in Space | 97053 | [97053-physics-cats-in-space.json](./97053-physics-cats-in-space.json) |
 | Physics Drop | 100924 | [100924-physics-drop.json](./100924-physics-drop.json) |
+| Physics Drop Countdown | 109960 | [109960-physics-drop-countdown.json](./109960-physics-drop-countdown.json) |
 | Physics Lab | 388435 | [388435-physics-lab.json](./388435-physics-lab.json) |
 | Physics Overdrive | 252935 | [252935-physics-overdrive.json](./252935-physics-overdrive.json) |
 | Physics Playground | 372071 | [372071-physics-playground.json](./372071-physics-playground.json) |
