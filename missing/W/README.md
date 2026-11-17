@@ -5352,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Dares Wins II | 26283 | [26283-who-dares-wins-ii.json](./26283-who-dares-wins-ii.json) |
 | Who Did I Date Last Night? | 67784 | [67784-who-did-i-date-last-night.json](./67784-who-did-i-date-last-night.json) |
 | Who Did It? | 258326 | [258326-who-did-it.json](./258326-who-did-it.json) |
+| Who Dies First | 159924 | [159924-who-dies-first.json](./159924-who-dies-first.json) |
 | Who Dies First? | 318856 | [318856-who-dies-first.json](./318856-who-dies-first.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
