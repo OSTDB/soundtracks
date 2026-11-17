@@ -1246,11 +1246,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Adventures | 19063 | [19063-rail-adventures.json](./19063-rail-adventures.json) |
 | Rail Adventures - VR Tech Demo | 93872 | [93872-rail-adventures-vr-tech-demo.json](./93872-rail-adventures-vr-tech-demo.json) |
 | Rail Blazers run | 102641 | [102641-rail-blazers-run.json](./102641-rail-blazers-run.json) |
+| Rail Capital | 420415 | [420415-rail-capital.json](./420415-rail-capital.json) |
 | Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
 | Rail Chase | 124326 | [124326-rail-chase.json](./124326-rail-chase.json) |
 | Rail Chase 2 | 39469 | [39469-rail-chase-2.json](./39469-rail-chase-2.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Fights | 393247 | [393247-rail-fights.json](./393247-rail-fights.json) |
+| Rail Guard | 420428 | [420428-rail-guard.json](./420428-rail-guard.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Gunner | 421993 | [421993-rail-gunner.json](./421993-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
@@ -1280,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Rail Rush | 57771 | [57771-rail-rush.json](./57771-rail-rush.json) |
 | Rail Simulator | 10740 | [10740-rail-simulator.json](./10740-rail-simulator.json) |
+| Rail Spirits | 420413 | [420413-rail-spirits.json](./420413-rail-spirits.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
 | Rail Trail | 199173 | [199173-rail-trail.json](./199173-rail-trail.json) |
 | Rail Walkers | 197174 | [197174-rail-walkers.json](./197174-rail-walkers.json) |
@@ -1371,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
 | Rails Lite | 91277 | [91277-rails-lite.json](./91277-rails-lite.json) |
 | Rails West | 24661 | [24661-rails-west.json](./24661-rails-west.json) |
+| Railshot | 420430 | [420430-railshot.json](./420430-railshot.json) |
 | Railstrider | 392593 | [392593-railstrider.json](./392593-railstrider.json) |
 | Railway | 210643 | [210643-railway.json](./210643-railway.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
@@ -1422,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railworks Class 45 Pack DLC | 93811 | [93811-railworks-class-45-pack-dlc.json](./93811-railworks-class-45-pack-dlc.json) |
 | Railworks Class56 DLC | 93845 | [93845-railworks-class56-dlc.json](./93845-railworks-class56-dlc.json) |
 | Railworks Evening Star DLC | 93810 | [93810-railworks-evening-star-dlc.json](./93810-railworks-evening-star-dlc.json) |
+| Railyard Master | 420411 | [420411-railyard-master.json](./420411-railyard-master.json) |
 | Railyard: Match-3 Evolved | 50218 | [50218-railyard-match-3-evolved.json](./50218-railyard-match-3-evolved.json) |
 | Raimais | 98294 | [98294-raimais.json](./98294-raimais.json) |
 | Raimodula | 247463 | [247463-raimodula.json](./247463-raimodula.json) |
@@ -2870,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razor Freestyle Scooter | 3584 | [3584-razor-freestyle-scooter.json](./3584-razor-freestyle-scooter.json) |
 | Razor Global Domination Pro Tour | 62076 | [62076-razor-global-domination-pro-tour.json](./62076-razor-global-domination-pro-tour.json) |
 | Razor Racing | 44894 | [44894-razor-racing.json](./44894-razor-racing.json) |
+| Razor Trail Survivors | 420431 | [420431-razor-trail-survivors.json](./420431-razor-trail-survivors.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
 | Razor2: Hidden Skies | 14972 | [14972-razor2-hidden-skies.json](./14972-razor2-hidden-skies.json) |
@@ -10478,6 +10484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
 | Rock & Roll Racing 2 | 137170 | [137170-rock-and-roll-racing-2.json](./137170-rock-and-roll-racing-2.json) |
 | Rock A Bye | 270925 | [270925-rock-a-bye.json](./270925-rock-a-bye.json) |
+| Rock and Found | 420455 | [420455-rock-and-found.json](./420455-rock-and-found.json) |
 | Rock and Girls | 292708 | [292708-rock-and-girls.json](./292708-rock-and-girls.json) |
 | Rock and Roll Jeopardy! | 78874 | [78874-rock-and-roll-jeopardy.json](./78874-rock-and-roll-jeopardy.json) |
 | Rock and Stone | 368718 | [368718-rock-and-stone.json](./368718-rock-and-stone.json) |
@@ -11554,6 +11561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue'n Roll | 29362 | [29362-roguen-roll.json](./29362-roguen-roll.json) |
 | Rogue's Awakening | 185037 | [185037-rogues-awakening.json](./185037-rogues-awakening.json) |
 | Rogue's Climb | 423351 | [423351-rogues-climb.json](./423351-rogues-climb.json) |
+| Rogue’s Dark Descent | 420300 | [420300-rogue-s-dark-descent.json](./420300-rogue-s-dark-descent.json) |
 | Rogue's Light - The Greedy Cave | 95929 | [95929-rogues-light-the-greedy-cave.json](./95929-rogues-light-the-greedy-cave.json) |
 | Rogue's Odyssey | 382399 | [382399-rogues-odyssey.json](./382399-rogues-odyssey.json) |
 | Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
@@ -12675,6 +12683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose in the Embers | 238910 | [238910-rose-in-the-embers.json](./238910-rose-in-the-embers.json) |
 | Rose Knight and Thorn Witch | 166359 | [166359-rose-knight-and-thorn-witch.json](./166359-rose-knight-and-thorn-witch.json) |
 | Rose O'Neill Kewpie Bomberman | 198036 | [198036-rose-oneill-kewpie-bomberman.json](./198036-rose-oneill-kewpie-bomberman.json) |
+| Rose of Dragontail | 420421 | [420421-rose-of-dragontail.json](./420421-rose-of-dragontail.json) |
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose of Starcross | 143243 | [143243-rose-of-starcross.json](./143243-rose-of-starcross.json) |
