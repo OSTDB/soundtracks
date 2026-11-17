@@ -5058,8 +5058,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginseng Hero | 132399 | [132399-ginseng-hero.json](./132399-ginseng-hero.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
+| Gintama Kabuki District Great Action Movie | 51463 | [51463-gintama-kabuki-district-great-action-movie.json](./51463-gintama-kabuki-district-great-action-movie.json) |
+| Gintama no Sugoroku | 51461 | [51461-gintama-no-sugoroku.json](./51461-gintama-no-sugoroku.json) |
+| Gintama Rumble | 51464 | [51464-gintama-rumble.json](./51464-gintama-rumble.json) |
 | Gintama Sumaho Battle Chronicle | 381893 | [381893-gintama-sumaho-battle-chronicle.json](./381893-gintama-sumaho-battle-chronicle.json) |
 | Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai-soudatsusen!! | 124566 | [124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json](./124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json) |
+| Gintama: Silver Ball Quest - Gin Changed Jobs and Saved the World | 51459 | [51459-gintama-silver-ball-quest-gin-changed-jobs-and-saved-the-world.json](./51459-gintama-silver-ball-quest-gin-changed-jobs-and-saved-the-world.json) |
+| Gintama: Yorozuya Chuubu | 51458 | [51458-gintama-yorozuya-chuubu.json](./51458-gintama-yorozuya-chuubu.json) |
 | Gion Corridor | 394285 | [394285-gion-corridor.json](./394285-gion-corridor.json) |
 | Gionbana | 38014 | [38014-gionbana.json](./38014-gionbana.json) |
 | Giovanni's Level Pack 2 | 361661 | [361661-giovannis-level-pack-2.json](./361661-giovannis-level-pack-2.json) |
