@@ -4091,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex 9 | 214090 | [214090-vortex-9.json](./214090-vortex-9.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
+| Vortex Carnage | 99245 | [99245-vortex-carnage.json](./99245-vortex-carnage.json) |
 | Vortex Escape | 156549 | [156549-vortex-escape.json](./156549-vortex-escape.json) |
 | Vortex of Hostility | 93998 | [93998-vortex-of-hostility.json](./93998-vortex-of-hostility.json) |
 | Vortex of Pain | 111120 | [111120-vortex-of-pain.json](./111120-vortex-of-pain.json) |
