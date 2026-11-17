@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Silent Statue | 274939 | [274939-a-silent-statue.json](./274939-a-silent-statue.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Silly Goofy Dream 2 | 253477 | [253477-a-silly-goofy-dream-2.json](./253477-a-silly-goofy-dream-2.json) |
+| A Silly Little Adventure | 424091 | [424091-a-silly-little-adventure.json](./424091-a-silly-little-adventure.json) |
 | A Silly Noisy House | 62954 | [62954-a-silly-noisy-house.json](./62954-a-silly-noisy-house.json) |
 | A Simple Ball Game | 345073 | [345073-a-simple-ball-game.json](./345073-a-simple-ball-game.json) |
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
@@ -12566,6 +12567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Escape | 294047 | [294047-anomaly-escape.json](./294047-anomaly-escape.json) |
 | Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
+| Anomaly Express | 424134 | [424134-anomaly-express.json](./424134-anomaly-express.json) |
 | Anomaly Hotel | 298446 | [298446-anomaly-hotel.json](./298446-anomaly-hotel.json) |
 | Anomaly Hunter | 136495 | [136495-anomaly-hunter.json](./136495-anomaly-hunter.json) |
 | Anomaly Hunter: Observation Duty | 336812 | [336812-anomaly-hunter-observation-duty.json](./336812-anomaly-hunter-observation-duty.json) |
