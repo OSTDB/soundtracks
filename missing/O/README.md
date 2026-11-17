@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
 | One More Night | 57261 | [57261-one-more-night.json](./57261-one-more-night.json) |
 | One More Night: BiO Clinic | 90867 | [90867-one-more-night-bio-clinic.json](./90867-one-more-night-bio-clinic.json) |
+| One More Piece | 428910 | [428910-one-more-piece.json](./428910-one-more-piece.json) |
 | One More Plate | 322091 | [322091-one-more-plate.json](./322091-one-more-plate.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
 | One More Roll | 110908 | [110908-one-more-roll.json](./110908-one-more-roll.json) |
