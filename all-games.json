@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T02:46:06.910Z",
-  "total_soundtracks": 3510,
+  "generated_at": "2026-11-17T03:05:56.662Z",
+  "total_soundtracks": 3511,
   "games": [
     {
       "igdb_id": 292844,
@@ -9511,6 +9511,20 @@
         {
           "album_name": "DELTARUNE Chapter 5 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2LFHooldVH3usvXaAW6FTz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 346959,
+      "game_name": "Demeo x Dungeons & Dragons: Battlemarked",
+      "game_url": "https://ostdb.net/games/demeo-x-dungeons-and-dragons-battlemarked",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d3bf3d30e102128840e6834b",
+      "albums": [
+        {
+          "album_name": "Demeo x Dungeons & Dragons: Battlemarked (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0CqJZ8SkoRc61nHAGBAqpb",
           "apple_music_url": "",
           "album_link_url": ""
         }
