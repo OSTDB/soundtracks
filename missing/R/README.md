@@ -5302,7 +5302,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reignman | 99033 | [99033-reignman.json](./99033-reignman.json) |
 | Reigns | 22436 | [22436-reigns.json](./22436-reigns.json) |
 | Reigns of Samosbor | 152973 | [152973-reigns-of-samosbor.json](./152973-reigns-of-samosbor.json) |
-| Reigns: Beyond | 139875 | [139875-reigns-beyond.json](./139875-reigns-beyond.json) |
 | Reigns: Complete Set | 300835 | [300835-reigns-complete-set.json](./300835-reigns-complete-set.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
 | Reigns: Her Majesty | 55106 | [55106-reigns-her-majesty.json](./55106-reigns-her-majesty.json) |
@@ -7553,7 +7552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revila | 350700 | [350700-revila.json](./350700-revila.json) |
 | Reviser | 125103 | [125103-reviser.json](./125103-reviser.json) |
 | Revisitor | 148832 | [148832-revisitor.json](./148832-revisitor.json) |
-| Revita | 139672 | [139672-revita.json](./139672-revita.json) |
 | Revival | 399205 | [399205-revival.json](./399205-revival.json) |
 | Revival | 79480 | [79480-revival.json](./79480-revival.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
