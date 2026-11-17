@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
 | Scaredy Cat: Avoid the Horde | 207945 | [207945-scaredy-cat-avoid-the-horde.json](./207945-scaredy-cat-avoid-the-horde.json) |
+| Scaredy Cats | 424674 | [424674-scaredy-cats.json](./424674-scaredy-cats.json) |
 | ScareNight | 36068 | [36068-scarenight.json](./36068-scarenight.json) |
 | Scarenoid | 170633 | [170633-scarenoid.json](./170633-scarenoid.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
@@ -9935,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
 | Ship of Theseus | 157324 | [157324-ship-of-theseus.json](./157324-ship-of-theseus.json) |
 | Ship on Wheels | 311574 | [311574-ship-on-wheels.json](./311574-ship-on-wheels.json) |
+| Ship or Burn! Coop Express | 424728 | [424728-ship-or-burn-coop-express.json](./424728-ship-or-burn-coop-express.json) |
 | Ship Regulus | 263970 | [263970-ship-regulus.json](./263970-ship-regulus.json) |
 | Ship Rescue | 97273 | [97273-ship-rescue.json](./97273-ship-rescue.json) |
 | Ship Shape | 263590 | [263590-ship-shape.json](./263590-ship-shape.json) |
@@ -12232,6 +12234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Pines | 313597 | [313597-silver-pines.json](./313597-silver-pines.json) |
 | Silver Pines: Deluxe Edition | 427239 | [427239-silver-pines-deluxe-edition.json](./427239-silver-pines-deluxe-edition.json) |
 | Silver Screen Story | 147683 | [147683-silver-screen-story.json](./147683-silver-screen-story.json) |
+| Silver Service | 424740 | [424740-silver-service.json](./424740-silver-service.json) |
 | Silver Sonic: Rise of the Death Egg | 231467 | [231467-silver-sonic-rise-of-the-death-egg.json](./231467-silver-sonic-rise-of-the-death-egg.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
 | Silver Soul | 162076 | [162076-silver-soul.json](./162076-silver-soul.json) |
@@ -21378,6 +21381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Inferno | 399668 | [399668-souls-inferno.json](./399668-souls-inferno.json) |
 | Souls Lore | 150725 | [150725-souls-lore.json](./150725-souls-lore.json) |
 | Souls of Amethyst | 145326 | [145326-souls-of-amethyst.json](./145326-souls-of-amethyst.json) |
+| Souls of Bombarika | 424714 | [424714-souls-of-bombarika.json](./424714-souls-of-bombarika.json) |
 | Souls of Chronos | 233791 | [233791-souls-of-chronos.json](./233791-souls-of-chronos.json) |
 | Souls of Chronos Gaiden | 346370 | [346370-souls-of-chronos-gaiden.json](./346370-souls-of-chronos-gaiden.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
@@ -30558,6 +30562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
+| Still Remember | 424726 | [424726-still-remember.json](./424726-still-remember.json) |
 | Still Ridge | 191307 | [191307-still-ridge.json](./191307-still-ridge.json) |
 | Still Rolling | 409423 | [409423-still-rolling.json](./409423-still-rolling.json) |
 | Still Room: I Miss You | 396499 | [396499-still-room-i-miss-you.json](./396499-still-room-i-miss-you.json) |
