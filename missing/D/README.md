@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Da Daungo | 277131 | [277131-da-da-daungo.json](./277131-da-da-daungo.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
 | Dà Mèng Chūnqiū | 373702 | [373702-da-meng-chunqiu.json](./373702-da-meng-chunqiu.json) |
+| Da New Guys | 69439 | [69439-da-new-guys.json](./69439-da-new-guys.json) |
 | Da New Guys: Day of the Jackass | 65296 | [65296-da-new-guys-day-of-the-jackass.json](./65296-da-new-guys-day-of-the-jackass.json) |
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | Da Rock | 332579 | [332579-da-rock.json](./332579-da-rock.json) |
@@ -13029,6 +13030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
 | Do You Really Want To Know 2: Before Love | 311307 | [311307-do-you-really-want-to-know-2-before-love.json](./311307-do-you-really-want-to-know-2-before-love.json) |
 | Do You Really Want To Know? | 311306 | [311306-do-you-really-want-to-know.json](./311306-do-you-really-want-to-know.json) |
+| Do You Remember My Lullaby ? | 69434 | [69434-do-you-remember-my-lullaby.json](./69434-do-you-remember-my-lullaby.json) |
 | Do you remember the '60s? | 77153 | [77153-do-you-remember-the-60s.json](./77153-do-you-remember-the-60s.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do You Remember? | 422071 | [422071-do-you-remember.json](./422071-do-you-remember.json) |
@@ -14718,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donna Kanji? Ii Kanji | 256271 | [256271-donna-kanji-ii-kanji.json](./256271-donna-kanji-ii-kanji.json) |
 | Donna Matrix | 60956 | [60956-donna-matrix.json](./60956-donna-matrix.json) |
 | Donna the Firebreather | 418525 | [418525-donna-the-firebreather.json](./418525-donna-the-firebreather.json) |
+| Donna: Avenger of Blood | 69438 | [69438-donna-avenger-of-blood.json](./69438-donna-avenger-of-blood.json) |
 | Donna: The Canine Quest | 329244 | [329244-donna-the-canine-quest.json](./329244-donna-the-canine-quest.json) |
 | Donnie Darko: The Adventure Game | 77539 | [77539-donnie-darko-the-adventure-game.json](./77539-donnie-darko-the-adventure-game.json) |
 | Donnie the Chao | 332736 | [332736-donnie-the-chao.json](./332736-donnie-the-chao.json) |
@@ -18181,6 +18184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Fishing | 128823 | [128823-dream-fishing.json](./128823-dream-fishing.json) |
 | Dream Fishing | 409909 | [409909-dream-fishing.json](./409909-dream-fishing.json) |
 | Dream Flash | 118251 | [118251-dream-flash.json](./118251-dream-flash.json) |
+| Dream Flight | 69451 | [69451-dream-flight.json](./69451-dream-flight.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
 | Dream Fruit Farm | 186412 | [186412-dream-fruit-farm.json](./186412-dream-fruit-farm.json) |
