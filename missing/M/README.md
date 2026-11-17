@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Harvest | 197156 | [197156-magical-harvest.json](./197156-magical-harvest.json) |
 | Magical Hat | 137515 | [137515-magical-hat.json](./137515-magical-hat.json) |
 | Magical Hat no Buttobi Turbo! Daibouken | 4472 | [4472-magical-hat-no-buttobi-turbo-daibouken.json](./4472-magical-hat-no-buttobi-turbo-daibouken.json) |
+| Magical Hero Girl Shot! | 427719 | [427719-magical-hero-girl-shot.json](./427719-magical-hero-girl-shot.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Hop | 133623 | [133623-magical-hop.json](./133623-magical-hop.json) |
 | Magical Houshin | 248471 | [248471-magical-houshin.json](./248471-magical-houshin.json) |
@@ -7171,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Realities: Symphony of Invention - Collector's Edition | 289460 | [289460-maze-of-realities-symphony-of-invention-collectors-edition.json](./289460-maze-of-realities-symphony-of-invention-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention DLC | 289859 | [289859-maze-of-realities-symphony-of-invention-dlc.json](./289859-maze-of-realities-symphony-of-invention-dlc.json) |
 | Maze of Realities: Synergy of Worlds - Collector's Edition | 341219 | [341219-maze-of-realities-synergy-of-worlds-collectors-edition.json](./341219-maze-of-realities-synergy-of-worlds-collectors-edition.json) |
+| Maze of Shadows | 427717 | [427717-maze-of-shadows.json](./427717-maze-of-shadows.json) |
 | Maze Of Tenfon: Chapter 1 | 411748 | [411748-maze-of-tenfon-chapter-1.json](./411748-maze-of-tenfon-chapter-1.json) |
 | Maze of Terror | 347485 | [347485-maze-of-terror.json](./347485-maze-of-terror.json) |
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
