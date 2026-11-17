@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuvium | 198140 | [198140-illuvium.json](./198140-illuvium.json) |
 | Illuyanka: A Hittite Story | 343161 | [343161-illuyanka-a-hittite-story.json](./343161-illuyanka-a-hittite-story.json) |
 | Illvanian no Shiro: Ruins of Illvanian | 37979 | [37979-illvanian-no-shiro-ruins-of-illvanian.json](./37979-illvanian-no-shiro-ruins-of-illvanian.json) |
+| Illvelo Swamp | 165182 | [165182-illvelo-swamp.json](./165182-illvelo-swamp.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illvelo: Illmatic Envelope | 123127 | [123127-illvelo-illmatic-envelope.json](./123127-illvelo-illmatic-envelope.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
