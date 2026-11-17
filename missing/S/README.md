@@ -39378,7 +39378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapHeads! | 425428 | [425428-swapheads.json](./425428-swapheads.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
 | Swaplette | 268813 | [268813-swaplette.json](./268813-swaplette.json) |
-| Swapmeat | 304473 | [304473-swapmeat.json](./304473-swapmeat.json) |
 | Swapologic | 233517 | [233517-swapologic.json](./233517-swapologic.json) |
 | Swapon | 135437 | [135437-swapon.json](./135437-swapon.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
