@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Jonouchi Deck | 334709 | [334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json](./334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Kaiba Deck | 334708 | [334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json](./334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Yugi Deck | 50002 | [50002-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-yugi-deck.json](./50002-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-yugi-deck.json) |
+| Yu-Gi-Oh! Duel Monsters 5 Expert 1 | 78163 | [78163-yu-gi-oh-duel-monsters-5-expert-1.json](./78163-yu-gi-oh-duel-monsters-5-expert-1.json) |
 | Yu-Gi-Oh! Duel Monsters 6: Expert 2 | 313042 | [313042-yu-gi-oh-duel-monsters-6-expert-2.json](./313042-yu-gi-oh-duel-monsters-6-expert-2.json) |
 | Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories | 56978 | [56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json](./56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json) |
 | Yu-Gi-Oh! Duel Monsters Saikyo Card Battle | 58652 | [58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json](./58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Monster Capsule GB | 56977 | [56977-yu-gi-oh-monster-capsule-gb.json](./56977-yu-gi-oh-monster-capsule-gb.json) |
 | Yu-Gi-Oh! Monster Capsule: Breed and Battle | 56980 | [56980-yu-gi-oh-monster-capsule-breed-and-battle.json](./56980-yu-gi-oh-monster-capsule-breed-and-battle.json) |
 | Yu-Gi-Oh! Online | 51279 | [51279-yu-gi-oh-online.json](./51279-yu-gi-oh-online.json) |
+| Yu-Gi-Oh! Online 3: Duel Accelerator | 78166 | [78166-yu-gi-oh-online-3-duel-accelerator.json](./78166-yu-gi-oh-online-3-duel-accelerator.json) |
 | Yu-Gi-Oh! Online: Duel Evolution | 78165 | [78165-yu-gi-oh-online-duel-evolution.json](./78165-yu-gi-oh-online-duel-evolution.json) |
 | Yu-Gi-Oh! Power of Chaos: Joey the Passion | 50833 | [50833-yu-gi-oh-power-of-chaos-joey-the-passion.json](./50833-yu-gi-oh-power-of-chaos-joey-the-passion.json) |
 | Yu-Gi-Oh! Power of Chaos: Yugi the Destiny | 50834 | [50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json](./50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json) |
