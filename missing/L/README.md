@@ -10498,6 +10498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LTA: Light-years! Thrusters! Action! | 295166 | [295166-lta-light-years-thrusters-action.json](./295166-lta-light-years-thrusters-action.json) |
 | LTO Arcade | 189094 | [189094-lto-arcade.json](./189094-lto-arcade.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
+| Lü Bu yǔ Diaochan | 94436 | [94436-lu-bu-yu-diaochan.json](./94436-lu-bu-yu-diaochan.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
 | Lu Ding Ji | 72216 | [72216-lu-ding-ji.json](./72216-lu-ding-ji.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
