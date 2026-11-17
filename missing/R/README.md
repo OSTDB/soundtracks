@@ -12612,6 +12612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rosa's Garden | 306739 | [306739-rosas-garden.json](./306739-rosas-garden.json) |
 | Rosa's Quest | 402869 | [402869-rosas-quest.json](./402869-rosas-quest.json) |
+| Rosa's Trip | 180741 | [180741-rosas-trip.json](./180741-rosas-trip.json) |
 | Rosabella: Eternal Light and Magic in Harmony | 336398 | [336398-rosabella-eternal-light-and-magic-in-harmony.json](./336398-rosabella-eternal-light-and-magic-in-harmony.json) |
 | Rosalie | 395534 | [395534-rosalie.json](./395534-rosalie.json) |
 | Rosaline | 343043 | [343043-rosaline.json](./343043-rosaline.json) |
@@ -14364,6 +14365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runners | 176817 | [176817-runners.json](./176817-runners.json) |
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
 | RunnerSky | 264561 | [264561-runnersky.json](./264561-runnersky.json) |
+| Runnervania | 180732 | [180732-runnervania.json](./180732-runnervania.json) |
 | Running Askew | 151828 | [151828-running-askew.json](./151828-running-askew.json) |
 | Running Back to You | 191894 | [191894-running-back-to-you.json](./191894-running-back-to-you.json) |
 | Running Battle | 19511 | [19511-running-battle.json](./19511-running-battle.json) |
