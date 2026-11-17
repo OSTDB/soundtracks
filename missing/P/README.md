@@ -12015,6 +12015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poco In Dungeon: Pico In Cave | 174517 | [174517-poco-in-dungeon-pico-in-cave.json](./174517-poco-in-dungeon-pico-in-cave.json) |
 | Poco Loco | 400546 | [400546-poco-loco.json](./400546-poco-loco.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
+| PocoDoro | 422295 | [422295-pocodoro.json](./422295-pocodoro.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
 | Pocolon Dungeon | 98331 | [98331-pocolon-dungeon.json](./98331-pocolon-dungeon.json) |
 | Pocoman | 115342 | [115342-pocoman.json](./115342-pocoman.json) |
