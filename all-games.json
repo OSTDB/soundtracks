@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T05:56:07.950Z",
-  "total_soundtracks": 3539,
+  "generated_at": "2026-11-17T06:06:37.470Z",
+  "total_soundtracks": 3545,
   "games": [
     {
       "igdb_id": 292844,
@@ -12657,6 +12657,20 @@
       ]
     },
     {
+      "igdb_id": 295106,
+      "game_name": "Exographer",
+      "game_url": "https://ostdb.net/games/exographer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27372508da4e7f66b1dcbd2a4a9",
+      "albums": [
+        {
+          "album_name": "Exographer (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1KYkpBrTKp47CpUQvLEvBv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 18474,
       "game_name": "Expand",
       "game_url": "https://ostdb.net/games/expand",
@@ -23359,6 +23373,20 @@
       ]
     },
     {
+      "igdb_id": 292603,
+      "game_name": "Merchants of Rosewall",
+      "game_url": "https://ostdb.net/games/merchants-of-rosewall",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273af3464c4f9ddfa0739714326",
+      "albums": [
+        {
+          "album_name": "Merchants of Rosewall (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5AL30dfk2ITVdPIEUoauPx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 13665,
       "game_name": "Message Quest",
       "game_url": "https://ostdb.net/games/message-quest",
@@ -29245,6 +29273,20 @@
         {
           "album_name": "RAGE RACER Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5AyrhoARrTrsKJsicmrcQK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 295512,
+      "game_name": "Rager",
+      "game_url": "https://ostdb.net/games/rager",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736943777cf4ed56131a6eb64a",
+      "albums": [
+        {
+          "album_name": "RAGER (Original Soundtrack - Freestyle)",
+          "spotify_url": "https://open.spotify.com/album/1uF8VWoXS0nJj8JaB8OO9N",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37625,6 +37667,20 @@
       ]
     },
     {
+      "igdb_id": 296564,
+      "game_name": "Terrible Lizards",
+      "game_url": "https://ostdb.net/games/terrible-lizards",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27399dc26f612efbb7ec40a376c",
+      "albums": [
+        {
+          "album_name": "Terrible Lizards (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0b0rCR6EA7jD4p0K5hECjz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 124029,
       "game_name": "Tesla Force",
       "game_url": "https://ostdb.net/games/tesla-force",
@@ -38219,6 +38275,20 @@
         {
           "album_name": "The Crew: Motorfest (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7tY8iG1WqmCJGbIEkAIAXR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 295636,
+      "game_name": "The Crush House",
+      "game_url": "https://ostdb.net/games/the-crush-house",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731d07bae8e34a0f8c8c5c6057",
+      "albums": [
+        {
+          "album_name": "The Crush House, Volume 99 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Je21gLc3KoiD3T5TNoJ7F",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -40775,6 +40845,20 @@
         {
           "album_name": "Tiny Bunny (Original Game Soundtrack Compilation 1-4 Episode)",
           "spotify_url": "https://open.spotify.com/album/5kL3FbRjyYQnpqik4vsIgP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 300390,
+      "game_name": "Tiny Garden",
+      "game_url": "https://ostdb.net/games/tiny-garden",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733406f8de8c1afe5c86ec331c",
+      "albums": [
+        {
+          "album_name": "Tiny Garden Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7KXao5sy7VCeKPfgiLiMoY",
           "apple_music_url": "",
           "album_link_url": ""
         }
