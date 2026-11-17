@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemco RPG Selection Vol. 4 | 136652 | [136652-kemco-rpg-selection-vol-4.json](./136652-kemco-rpg-selection-vol-4.json) |
 | Kemco RPG Selection Vol. 6 | 140887 | [140887-kemco-rpg-selection-vol-6.json](./140887-kemco-rpg-selection-vol-6.json) |
 | Kemco RPG Selection Vol. 7 | 146017 | [146017-kemco-rpg-selection-vol-7.json](./146017-kemco-rpg-selection-vol-7.json) |
+| Kemco RPG Selection Vol. 8 | 170056 | [170056-kemco-rpg-selection-vol-8.json](./170056-kemco-rpg-selection-vol-8.json) |
 | Kemco RPG Selection Vol. 9 | 186664 | [186664-kemco-rpg-selection-vol-9.json](./186664-kemco-rpg-selection-vol-9.json) |
 | Kemco: 50 RPGs Celebratory Bundle | 259865 | [259865-kemco-50-rpgs-celebratory-bundle.json](./259865-kemco-50-rpgs-celebratory-bundle.json) |
 | Kemeko Deluxe! DS: Yome to Meka to Otoko to Onna | 123343 | [123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json](./123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json) |
@@ -6439,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koutetsu no Kishi 3: Gekitotsu Europe Sensen | 37947 | [37947-koutetsu-no-kishi-3-gekitotsu-europe-sensen.json](./37947-koutetsu-no-kishi-3-gekitotsu-europe-sensen.json) |
 | Koutetsu Reiiki: Steeldom | 43813 | [43813-koutetsu-reiiki-steeldom.json](./43813-koutetsu-reiiki-steeldom.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
+| Kouyasai: A Sherd of Youthful Memories | 166320 | [166320-kouyasai-a-sherd-of-youthful-memories.json](./166320-kouyasai-a-sherd-of-youthful-memories.json) |
 | Kov | 272373 | [272373-kov.json](./272373-kov.json) |
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
