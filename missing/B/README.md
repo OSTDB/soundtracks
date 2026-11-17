@@ -5395,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
 | Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
 | Be Queen Bee | 385768 | [385768-be-queen-bee.json](./385768-be-queen-bee.json) |
+| Be Quiet! | 43485 | [43485-be-quiet.json](./43485-be-quiet.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
 | Be Reasonable, Diane | 128679 | [128679-be-reasonable-diane.json](./128679-be-reasonable-diane.json) |
 | Be Rich | 146461 | [146461-be-rich.json](./146461-be-rich.json) |
