@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Before the Storm | 374437 | [374437-calm-before-the-storm.json](./374437-calm-before-the-storm.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
 | Calm Cards: Klondike | 88356 | [88356-calm-cards-klondike.json](./88356-calm-cards-klondike.json) |
+| Calm Colors | 197816 | [197816-calm-colors.json](./197816-calm-colors.json) |
 | Calm Cove | 272243 | [272243-calm-cove.json](./272243-calm-cove.json) |
 | Calm Down Princess | 296626 | [296626-calm-down-princess.json](./296626-calm-down-princess.json) |
 | Calm Down, Stalin | 32011 | [32011-calm-down-stalin.json](./32011-calm-down-stalin.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Rixot: Lost on Enceladus | 183840 | [183840-captain-rixot-lost-on-enceladus.json](./183840-captain-rixot-lost-on-enceladus.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Sabertooth and the Treasure of Lama Rama | 101432 | [101432-captain-sabertooth-and-the-treasure-of-lama-rama.json](./101432-captain-sabertooth-and-the-treasure-of-lama-rama.json) |
+| Captain Sabertooth and the Trials by Fire | 197832 | [197832-captain-sabertooth-and-the-trials-by-fire.json](./197832-captain-sabertooth-and-the-trials-by-fire.json) |
 | Captain Sabertooth: New Adventures | 200297 | [200297-captain-sabertooth-new-adventures.json](./200297-captain-sabertooth-new-adventures.json) |
 | Captain Scarlet | 83233 | [83233-captain-scarlet.json](./83233-captain-scarlet.json) |
 | Captain Sharkbait: Voyage for Treasure | 380493 | [380493-captain-sharkbait-voyage-for-treasure.json](./380493-captain-sharkbait-voyage-for-treasure.json) |
@@ -10224,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
 | Circles 2 by Powgi | 140420 | [140420-circles-2-by-powgi.json](./140420-circles-2-by-powgi.json) |
 | Circles by Powgi | 140413 | [140413-circles-by-powgi.json](./140413-circles-by-powgi.json) |
+| Circles galaxy | 197803 | [197803-circles-galaxy.json](./197803-circles-galaxy.json) |
 | Circles of Hell | 96621 | [96621-circles-of-hell.json](./96621-circles-of-hell.json) |
 | Circles with Grandma | 100645 | [100645-circles-with-grandma.json](./100645-circles-with-grandma.json) |
 | Circles, Circles, Circles | 52160 | [52160-circles-circles-circles.json](./52160-circles-circles-circles.json) |
