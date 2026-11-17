@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
 | Laser Clay Shooting System | 39712 | [39712-laser-clay-shooting-system.json](./39712-laser-clay-shooting-system.json) |
+| Laser Cup | 143805 | [143805-laser-cup.json](./143805-laser-cup.json) |
 | Laser Dance | 306925 | [306925-laser-dance.json](./306925-laser-dance.json) |
 | Laser Defense Extreme | 291333 | [291333-laser-defense-extreme.json](./291333-laser-defense-extreme.json) |
 | Laser Dolphin | 54169 | [54169-laser-dolphin.json](./54169-laser-dolphin.json) |
@@ -4234,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go By Train! | 21398 | [21398-lets-go-by-train.json](./21398-lets-go-by-train.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
 | Let's Go Crazy with Lemmings | 70786 | [70786-lets-go-crazy-with-lemmings.json](./70786-lets-go-crazy-with-lemmings.json) |
+| Let's Go Eat | 146358 | [146358-lets-go-eat.json](./146358-lets-go-eat.json) |
 | Let's Go Fishing!! | 400416 | [400416-lets-go-fishing.json](./400416-lets-go-fishing.json) |
 | Let's go Flyfishing | 387120 | [387120-lets-go-flyfishing.json](./387120-lets-go-flyfishing.json) |
 | Let's Go Home! | 296451 | [296451-lets-go-home.json](./296451-lets-go-home.json) |
@@ -5178,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of D. Duck | 68260 | [68260-life-of-d-duck.json](./68260-life-of-d-duck.json) |
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
+| Life of Delta | 145061 | [145061-life-of-delta.json](./145061-life-of-delta.json) |
 | Life of Fly | 144417 | [144417-life-of-fly.json](./144417-life-of-fly.json) |
 | Life of Fly 2 | 148321 | [148321-life-of-fly-2.json](./148321-life-of-fly-2.json) |
 | Life of Food | 157368 | [157368-life-of-food.json](./157368-life-of-food.json) |
@@ -6337,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
 | Links E6 | 152507 | [152507-links-e6.json](./152507-links-e6.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
+| Links E6: Course Pack 2 | 153466 | [153466-links-e6-course-pack-2.json](./153466-links-e6-course-pack-2.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
 | Links Expansion Pack | 85753 | [85753-links-expansion-pack.json](./85753-links-expansion-pack.json) |
 | Links Expansion Pack Volume 2 | 201921 | [201921-links-expansion-pack-volume-2.json](./201921-links-expansion-pack-volume-2.json) |
@@ -7295,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Free Or Die Hard: The Mobile Game | 10227 | [10227-live-free-or-die-hard-the-mobile-game.json](./10227-live-free-or-die-hard-the-mobile-game.json) |
 | Live Hard, Die Hard | 265826 | [265826-live-hard-die-hard.json](./265826-live-hard-die-hard.json) |
 | Live In Color | 31571 | [31571-live-in-color.json](./31571-live-in-color.json) |
+| Live in Dungeon | 151758 | [151758-live-in-dungeon.json](./151758-live-in-dungeon.json) |
 | Live In The Country | 262637 | [262637-live-in-the-country.json](./262637-live-in-the-country.json) |
 | Live in the Moment | 208077 | [208077-live-in-the-moment.json](./208077-live-in-the-moment.json) |
 | Live Inc. | 143199 | [143199-live-inc.json](./143199-live-inc.json) |
@@ -10166,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Death & Veggies | 186479 | [186479-love-death-and-veggies.json](./186479-love-death-and-veggies.json) |
 | Love, Death and PvP | 250190 | [250190-love-death-and-pvp.json](./250190-love-death-and-pvp.json) |
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
+| Love, Elections and Chocolate | 140685 | [140685-love-elections-and-chocolate.json](./140685-love-elections-and-chocolate.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
 | Love, Guitars, and the Nashville Skyline | 30532 | [30532-love-guitars-and-the-nashville-skyline.json](./30532-love-guitars-and-the-nashville-skyline.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
