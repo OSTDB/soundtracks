@@ -8905,6 +8905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nytro | 181817 | [181817-nytro.json](./181817-nytro.json) |
 | Nyx | 98804 | [98804-nyx.json](./98804-nyx.json) |
 | Nyx Legacy | 387508 | [387508-nyx-legacy.json](./387508-nyx-legacy.json) |
+| Nyx Online | 425321 | [425321-nyx-online.json](./425321-nyx-online.json) |
 | NYX x Barbie: The Movie | 256453 | [256453-nyx-x-barbie-the-movie.json](./256453-nyx-x-barbie-the-movie.json) |
 | NYX: The Awakening | 122055 | [122055-nyx-the-awakening.json](./122055-nyx-the-awakening.json) |
 | Nyxerion | 350902 | [350902-nyxerion.json](./350902-nyxerion.json) |
