@@ -1562,7 +1562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
 | Zodicat | 107752 | [107752-zodicat.json](./107752-zodicat.json) |
 | Zoe and the Cursed Dreamer | 402282 | [402282-zoe-and-the-cursed-dreamer.json](./402282-zoe-and-the-cursed-dreamer.json) |
-| Zoe Begone! | 292380 | [292380-zoe-begone.json](./292380-zoe-begone.json) |
 | Zoe The Exhibitionist | 311739 | [311739-zoe-the-exhibitionist.json](./311739-zoe-the-exhibitionist.json) |
 | ZOE: Interactive Story | 101157 | [101157-zoe-interactive-story.json](./101157-zoe-interactive-story.json) |
 | Zoelie | 161169 | [161169-zoelie.json](./161169-zoelie.json) |
@@ -2280,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
 | Zombieland: Double Tap - Road Trip | 121232 | [121232-zombieland-double-tap-road-trip.json](./121232-zombieland-double-tap-road-trip.json) |
+| Zombieland: Headshot Fever | 145065 | [145065-zombieland-headshot-fever.json](./145065-zombieland-headshot-fever.json) |
 | Zombieland: Headshot Fever - Reloaded | 239423 | [239423-zombieland-headshot-fever-reloaded.json](./239423-zombieland-headshot-fever-reloaded.json) |
 | Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
 | Zombielantis | 212070 | [212070-zombielantis.json](./212070-zombielantis.json) |
