@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nail 'n Scale | 49035 | [49035-nail-n-scale.json](./49035-nail-n-scale.json) |
 | Nail Art For Girls | 90030 | [90030-nail-art-for-girls.json](./90030-nail-art-for-girls.json) |
 | Nail Doctor | 106873 | [106873-nail-doctor.json](./106873-nail-doctor.json) |
+| Nail Gun Hero | 180719 | [180719-nail-gun-hero.json](./180719-nail-gun-hero.json) |
 | Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
 | Nail Salon: Style and Makeup Bag | 203714 | [203714-nail-salon-style-and-makeup-bag.json](./203714-nail-salon-style-and-makeup-bag.json) |
 | Nail Woman | 222770 | [222770-nail-woman.json](./222770-nail-woman.json) |
@@ -6446,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Flowers in Arizona: Rust Red Vivarium | 410061 | [410061-no-flowers-in-arizona-rust-red-vivarium.json](./410061-no-flowers-in-arizona-rust-red-vivarium.json) |
 | No Fly Drone | 235932 | [235932-no-fly-drone.json](./235932-no-fly-drone.json) |
+| No Fly Zone | 180737 | [180737-no-fly-zone.json](./180737-no-fly-zone.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
 | No Food? | 373261 | [373261-no-food.json](./373261-no-food.json) |
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
