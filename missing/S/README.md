@@ -7529,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Bashing | 339862 | [339862-shadow-bashing.json](./339862-shadow-bashing.json) |
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
 | Shadow Bike Stunt Race 3d: Moto Bike Games | 100972 | [100972-shadow-bike-stunt-race-3d-moto-bike-games.json](./100972-shadow-bike-stunt-race-3d-moto-bike-games.json) |
+| Shadow Biker | 95700 | [95700-shadow-biker.json](./95700-shadow-biker.json) |
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
 | Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
 | Shadow Blade: Reload | 16953 | [16953-shadow-blade-reload.json](./16953-shadow-blade-reload.json) |
@@ -11176,6 +11177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutterbug Jake and the Sounds Letters Make | 133541 | [133541-shutterbug-jake-and-the-sounds-letters-make.json](./133541-shutterbug-jake-and-the-sounds-letters-make.json) |
 | Shutterbug Stud | 156599 | [156599-shutterbug-stud.json](./156599-shutterbug-stud.json) |
 | Shuttered | 346519 | [346519-shuttered.json](./346519-shuttered.json) |
+| Shuttle | 94435 | [94435-shuttle.json](./94435-shuttle.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
 | Shuttle Intercept | 284848 | [284848-shuttle-intercept.json](./284848-shuttle-intercept.json) |
 | Shuttle Mining | 350482 | [350482-shuttle-mining.json](./350482-shuttle-mining.json) |
@@ -13640,6 +13642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeet | 68145 | [68145-skeet.json](./68145-skeet.json) |
 | Skeet Shoot | 217687 | [217687-skeet-shoot.json](./217687-skeet-shoot.json) |
 | Skeet Shoot | 40615 | [40615-skeet-shoot.json](./40615-skeet-shoot.json) |
+| Skeet Shootin' | 94448 | [94448-skeet-shootin.json](./94448-skeet-shootin.json) |
 | Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
 | Skeeter | 254978 | [254978-skeeter.json](./254978-skeeter.json) |
 | Skeeter's Grid | 190082 | [190082-skeeters-grid.json](./190082-skeeters-grid.json) |
@@ -15717,6 +15720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slink.io | 227540 | [227540-slink-io.json](./227540-slink-io.json) |
 | Slinki | 35633 | [35633-slinki.json](./35633-slinki.json) |
 | Slinkie Dinkie | 368796 | [368796-slinkie-dinkie.json](./368796-slinkie-dinkie.json) |
+| Slinky | 93230 | [93230-slinky.json](./93230-slinky.json) |
 | Slip | 36357 | [36357-slip.json](./36357-slip.json) |
 | Slip 'n Dip | 167365 | [167365-slip-n-dip.json](./167365-slip-n-dip.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
@@ -29113,6 +29117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | State of Decay 2: Heartland | 119302 | [119302-state-of-decay-2-heartland.json](./119302-state-of-decay-2-heartland.json) |
+| State of Decay 2: Ultimate Edition | 95706 | [95706-state-of-decay-2-ultimate-edition.json](./95706-state-of-decay-2-ultimate-edition.json) |
 | State of Decay 3 | 135993 | [135993-state-of-decay-3.json](./135993-state-of-decay-3.json) |
 | State of Decay: Breakdown | 111845 | [111845-state-of-decay-breakdown.json](./111845-state-of-decay-breakdown.json) |
 | State of Decay: Lifeline | 10894 | [10894-state-of-decay-lifeline.json](./10894-state-of-decay-lifeline.json) |
@@ -30041,6 +30046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Quest | 240671 | [240671-step-quest.json](./240671-step-quest.json) |
 | Step Right Up: Adventure Isle | 310654 | [310654-step-right-up-adventure-isle.json](./310654-step-right-up-adventure-isle.json) |
 | Step Theater | 395007 | [395007-step-theater.json](./395007-step-theater.json) |
+| Step Up | 95481 | [95481-step-up.json](./95481-step-up.json) |
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | Step Ups | 385432 | [385432-step-ups.json](./385432-step-ups.json) |
 | Stepan's Life | 260310 | [260310-stepans-life.json](./260310-stepans-life.json) |
@@ -33627,6 +33633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikan Quest | 82857 | [82857-suikan-quest.json](./82857-suikan-quest.json) |
 | Suikarad Gold | 280766 | [280766-suikarad-gold.json](./280766-suikarad-gold.json) |
 | Suikawa Lead | 316290 | [316290-suikawa-lead.json](./316290-suikawa-lead.json) |
+| Suiko Enbu Fuunsaiki | 94450 | [94450-suiko-enbu-fuunsaiki.json](./94450-suiko-enbu-fuunsaiki.json) |
 | Suikoden | 1447 | [1447-suikoden.json](./1447-suikoden.json) |
 | Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars | 217909 | [217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json](./217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json) |
 | Suikoden I HD Remaster: Gate Rune War | 328110 | [328110-suikoden-i-hd-remaster-gate-rune-war.json](./328110-suikoden-i-hd-remaster-gate-rune-war.json) |
