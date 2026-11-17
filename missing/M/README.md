@@ -15880,6 +15880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Twentynine | 296983 | [296983-mission-twentynine.json](./296983-mission-twentynine.json) |
 | Mission Veterinaire | 149283 | [149283-mission-veterinaire.json](./149283-mission-veterinaire.json) |
 | Mission Whilkas | 415754 | [415754-mission-whilkas.json](./415754-mission-whilkas.json) |
+| Mission X | 18648 | [18648-mission-x.json](./18648-mission-x.json) |
 | Mission X | 389795 | [389795-mission-x.json](./389795-mission-x.json) |
 | Mission XAM | 117224 | [117224-mission-xam.json](./117224-mission-xam.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
@@ -17417,6 +17418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | MoneyGame | 119212 | [119212-moneygame.json](./119212-moneygame.json) |
+| Moneygrabber | 18624 | [18624-moneygrabber.json](./18624-moneygrabber.json) |
 | MoneyMania | 93394 | [93394-moneymania.json](./93394-moneymania.json) |
 | MoneySeize | 97519 | [97519-moneyseize.json](./97519-moneyseize.json) |
 | Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
