@@ -9558,7 +9558,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo II: Resurrected | 142803 | [142803-diablo-ii-resurrected.json](./142803-diablo-ii-resurrected.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo II: Resurrected - Reign of the Warlock | 389355 | [389355-diablo-ii-resurrected-reign-of-the-warlock.json](./389355-diablo-ii-resurrected-reign-of-the-warlock.json) |
-| Diablo II: Resurrected – Infernal Edition | 389356 | [389356-diablo-ii-resurrected-infernal-edition.json](./389356-diablo-ii-resurrected-infernal-edition.json) |
 | Diablo III: Battle Chest | 136083 | [136083-diablo-iii-battle-chest.json](./136083-diablo-iii-battle-chest.json) |
 | Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
 | Diablo III: Eternal Collection | 90628 | [90628-diablo-iii-eternal-collection.json](./90628-diablo-iii-eternal-collection.json) |
