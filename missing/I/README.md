@@ -6120,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inugami: Doggy Dojo! | 284241 | [284241-inugami-doggy-dojo.json](./284241-inugami-doggy-dojo.json) |
 | Inugamike no Ichizoku | 130701 | [130701-inugamike-no-ichizoku.json](./130701-inugamike-no-ichizoku.json) |
 | Inuit Uppirijatuqangit | 293689 | [293689-inuit-uppirijatuqangit.json](./293689-inuit-uppirijatuqangit.json) |
+| Inukari: Chase of Deception | 143760 | [143760-inukari-chase-of-deception.json](./143760-inukari-chase-of-deception.json) |
 | Inukari: Chase of Deception - Deluxe Edition | 221498 | [221498-inukari-chase-of-deception-deluxe-edition.json](./221498-inukari-chase-of-deception-deluxe-edition.json) |
 | Inukari: Fateful Detour | 249031 | [249031-inukari-fateful-detour.json](./249031-inukari-fateful-detour.json) |
 | Inukko Club: Fukumaru no Daibouken | 49620 | [49620-inukko-club-fukumaru-no-daibouken.json](./49620-inukko-club-fukumaru-no-daibouken.json) |
