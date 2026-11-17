@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gander National Park | 148681 | [148681-gander-national-park.json](./148681-gander-national-park.json) |
 | Gandhara: Buddha no Seisen | 41706 | [41706-gandhara-buddha-no-seisen.json](./41706-gandhara-buddha-no-seisen.json) |
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
+| Gandpa: The Last Winter | 419684 | [419684-gandpa-the-last-winter.json](./419684-gandpa-the-last-winter.json) |
 | Gang Beasts Rick And Morty 2 | 95892 | [95892-gang-beasts-rick-and-morty-2.json](./95892-gang-beasts-rick-and-morty-2.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Busters | 39735 | [39735-gang-busters.json](./39735-gang-busters.json) |
@@ -3057,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gematombe | 101445 | [101445-gematombe.json](./101445-gematombe.json) |
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
 | Gemblades | 386881 | [386881-gemblades.json](./386881-gemblades.json) |
+| Gembot | 419689 | [419689-gembot.json](./419689-gembot.json) |
 | GemBreak | 32813 | [32813-gembreak.json](./32813-gembreak.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
 | GemCraft | 23979 | [23979-gemcraft.json](./23979-gemcraft.json) |
@@ -3620,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentle Officer | 311869 | [311869-gentle-officer.json](./311869-gentle-officer.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
+| Gentleman, Adventurer, Crocodile | 419711 | [419711-gentleman-adventurer-crocodile.json](./419711-gentleman-adventurer-crocodile.json) |
 | Gentleman's Proposal | 357121 | [357121-gentlemans-proposal.json](./357121-gentlemans-proposal.json) |
 | Gentlemen Dispute | 136086 | [136086-gentlemen-dispute.json](./136086-gentlemen-dispute.json) |
 | Gentlemen of Fortune: Maelstrom | 176651 | [176651-gentlemen-of-fortune-maelstrom.json](./176651-gentlemen-of-fortune-maelstrom.json) |
