@@ -515,7 +515,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Drive: Frosted Customization Pack | 333040 | [333040-pacific-drive-frosted-customization-pack.json](./333040-pacific-drive-frosted-customization-pack.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
 | Pacific Drive: Whispers Edition | 376034 | [376034-pacific-drive-whispers-edition.json](./376034-pacific-drive-whispers-edition.json) |
-| Pacific Drive: Whispers in the Woods | 366375 | [366375-pacific-drive-whispers-in-the-woods.json](./366375-pacific-drive-whispers-in-the-woods.json) |
 | Pacific Fighters | 24163 | [24163-pacific-fighters.json](./24163-pacific-fighters.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific Fleet | 87506 | [87506-pacific-fleet.json](./87506-pacific-fleet.json) |
