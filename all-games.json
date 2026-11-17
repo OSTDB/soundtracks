@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T09:56:25.988Z",
-  "total_soundtracks": 3725,
+  "generated_at": "2026-11-17T10:00:57.433Z",
+  "total_soundtracks": 3726,
   "games": [
     {
       "igdb_id": 292844,
@@ -39549,6 +39549,20 @@
         {
           "album_name": "Tempopo (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/03cgBWhHTlAxKkwRtMTOqi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117395,
+      "game_name": "Tenderfoot Tactics",
+      "game_url": "https://ostdb.net/games/tenderfoot-tactics",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732811ab8921436706b88077df",
+      "albums": [
+        {
+          "album_name": "Tenderfoot Tactics (Original Game Soundtrack), Part III: Battles",
+          "spotify_url": "https://open.spotify.com/album/7eGknUYwzTHZgaPmCCn9x8",
           "apple_music_url": "",
           "album_link_url": ""
         }
