@@ -5514,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Puzzle V: Hitori ni Shitekure | 64935 | [64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json](./64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json) |
 | Nikoli no Puzzle V: Kakuro | 83880 | [83880-nikoli-no-puzzle-v-kakuro.json](./83880-nikoli-no-puzzle-v-kakuro.json) |
 | Nikoli no Puzzle V: Masyu | 64933 | [64933-nikoli-no-puzzle-v-masyu.json](./64933-nikoli-no-puzzle-v-masyu.json) |
+| Nikoli no Puzzle V: Museum | 178713 | [178713-nikoli-no-puzzle-v-museum.json](./178713-nikoli-no-puzzle-v-museum.json) |
 | Nikoli no Puzzle V: Numberlink | 178757 | [178757-nikoli-no-puzzle-v-numberlink.json](./178757-nikoli-no-puzzle-v-numberlink.json) |
 | Nikoli no Puzzle V: Shikaku ni Kire | 178756 | [178756-nikoli-no-puzzle-v-shikaku-ni-kire.json](./178756-nikoli-no-puzzle-v-shikaku-ni-kire.json) |
 | Nikoli no Puzzle V: Yajilin | 178758 | [178758-nikoli-no-puzzle-v-yajilin.json](./178758-nikoli-no-puzzle-v-yajilin.json) |
@@ -8399,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Sub | 231298 | [231298-nuclear-sub.json](./231298-nuclear-sub.json) |
 | Nuclear Submarine inc | 208072 | [208072-nuclear-submarine-inc.json](./208072-nuclear-submarine-inc.json) |
 | Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
+| Nuclear Throne Mobile | 178698 | [178698-nuclear-throne-mobile.json](./178698-nuclear-throne-mobile.json) |
 | Nuclear Throne Together | 176694 | [176694-nuclear-throne-together.json](./176694-nuclear-throne-together.json) |
 | Nuclear Throne Together: Hard Mode | 176720 | [176720-nuclear-throne-together-hard-mode.json](./176720-nuclear-throne-together-hard-mode.json) |
 | Nuclear Throne Ultra | 222590 | [222590-nuclear-throne-ultra.json](./222590-nuclear-throne-ultra.json) |
