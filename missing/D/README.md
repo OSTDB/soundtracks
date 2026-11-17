@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Room | 30616 | [30616-danger-room.json](./30616-danger-room.json) |
 | Danger Room VR | 108399 | [108399-danger-room-vr.json](./108399-danger-room-vr.json) |
 | Danger Scavenger | 133673 | [133673-danger-scavenger.json](./133673-danger-scavenger.json) |
+| Danger Sprout | 418155 | [418155-danger-sprout.json](./418155-danger-sprout.json) |
 | Danger Sticks | 398488 | [398488-danger-sticks.json](./398488-danger-sticks.json) |
 | Danger Street | 304126 | [304126-danger-street.json](./304126-danger-street.json) |
 | Danger Stunt Drive: Extreme Racing Simulator | 308633 | [308633-danger-stunt-drive-extreme-racing-simulator.json](./308633-danger-stunt-drive-extreme-racing-simulator.json) |
@@ -9241,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
 | Devil Blade Reboot | 291262 | [291262-devil-blade-reboot.json](./291262-devil-blade-reboot.json) |
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
+| Devil Bout | 418160 | [418160-devil-bout.json](./418160-devil-bout.json) |
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Devour Alive | 134155 | [134155-devil-devour-alive.json](./134155-devil-devour-alive.json) |
@@ -22182,6 +22184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors | 100279 | [100279-dynasty-warriors.json](./100279-dynasty-warriors.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Complete Edition Remastered | 369991 | [369991-dynasty-warriors-3-complete-edition-remastered.json](./369991-dynasty-warriors-3-complete-edition-remastered.json) |
+| Dynasty Warriors 3: Complete Edition Remastered - Digital Deluxe Edition | 418333 | [418333-dynasty-warriors-3-complete-edition-remastered-digital-deluxe-edition.json](./418333-dynasty-warriors-3-complete-edition-remastered-digital-deluxe-edition.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 4 | 3007 | [3007-dynasty-warriors-4.json](./3007-dynasty-warriors-4.json) |
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
