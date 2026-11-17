@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Block Puzzle | 367877 | [367877-magnetic-block-puzzle.json](./367877-magnetic-block-puzzle.json) |
 | Magnetic Bonds | 208563 | [208563-magnetic-bonds.json](./208563-magnetic-bonds.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
+| Magnetic Catch | 424136 | [424136-magnetic-catch.json](./424136-magnetic-catch.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
 | Magnetic Daydream | 120756 | [120756-magnetic-daydream.json](./120756-magnetic-daydream.json) |
 | Magnetic Defense | 392582 | [392582-magnetic-defense.json](./392582-magnetic-defense.json) |
@@ -3065,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malcade | 366997 | [366997-malcade.json](./366997-malcade.json) |
 | Malcom's Day | 118013 | [118013-malcoms-day.json](./118013-malcoms-day.json) |
 | Maldark: Conqueror of All Worlds | 195069 | [195069-maldark-conqueror-of-all-worlds.json](./195069-maldark-conqueror-of-all-worlds.json) |
+| Maldhalla | 424131 | [424131-maldhalla.json](./424131-maldhalla.json) |
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
@@ -4978,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
 | Marooners | 23993 | [23993-marooners.json](./23993-marooners.json) |
 | Marooners: Deluxe Edition | 53343 | [53343-marooners-deluxe-edition.json](./53343-marooners-deluxe-edition.json) |
+| Maroscuro | 424079 | [424079-maroscuro.json](./424079-maroscuro.json) |
 | Maroxyn Drarea | 350786 | [350786-maroxyn-drarea.json](./350786-maroxyn-drarea.json) |
 | Marquee Candle | 350021 | [350021-marquee-candle.json](./350021-marquee-candle.json) |
 | Marquis Cut | 352491 | [352491-marquis-cut.json](./352491-marquis-cut.json) |
@@ -14552,6 +14555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Avoid | 208158 | [208158-mini-avoid.json](./208158-mini-avoid.json) |
 | Mini Bash | 360463 | [360463-mini-bash.json](./360463-mini-bash.json) |
+| Mini Bash | 424088 | [424088-mini-bash.json](./424088-mini-bash.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
 | Mini Bike Challenge | 409119 | [409119-mini-bike-challenge.json](./409119-mini-bike-challenge.json) |
@@ -17024,6 +17028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito Woody's Rescue | 189213 | [189213-mojito-woodys-rescue.json](./189213-mojito-woodys-rescue.json) |
 | Mojo 2 | 284245 | [284245-mojo-2.json](./284245-mojo-2.json) |
 | Mojo 2: Mia | 110653 | [110653-mojo-2-mia.json](./110653-mojo-2-mia.json) |
+| Mojo Is Loved | 424138 | [424138-mojo-is-loved.json](./424138-mojo-is-loved.json) |
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
 | Mojo Melee | 223479 | [223479-mojo-melee.json](./223479-mojo-melee.json) |
 | Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
@@ -17413,6 +17418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
 | Money Maker | 288806 | [288806-money-maker.json](./288806-money-maker.json) |
 | Money Maker | 343782 | [343782-money-maker.json](./343782-money-maker.json) |
+| Money Makes Money: Historical Market Simulator | 424132 | [424132-money-makes-money-historical-market-simulator.json](./424132-money-makes-money-historical-market-simulator.json) |
 | Money Mansion | 170350 | [170350-money-mansion.json](./170350-money-mansion.json) |
 | Money Master | 107487 | [107487-money-master.json](./107487-money-master.json) |
 | Money Maze | 221897 | [221897-money-maze.json](./221897-money-maze.json) |
