@@ -5545,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
 | Ouroboros Solitaire | 405689 | [405689-ouroboros-solitaire.json](./405689-ouroboros-solitaire.json) |
 | Ouroboros: Prelude | 68604 | [68604-ouroboros-prelude.json](./68604-ouroboros-prelude.json) |
+| Ouroboros: The Sacrifice | 60158 | [60158-ouroboros-the-sacrifice.json](./60158-ouroboros-the-sacrifice.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Ourself | 425223 | [425223-ourself.json](./425223-ourself.json) |
 | Ourworld | 254416 | [254416-ourworld.json](./254416-ourworld.json) |
