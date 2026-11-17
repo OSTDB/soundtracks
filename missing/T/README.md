@@ -8346,7 +8346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Company Game | 110063 | [110063-the-company-game.json](./110063-the-company-game.json) |
-| The Company Man | 150054 | [150054-the-company-man.json](./150054-the-company-man.json) |
 | The Company of Copperhill | 393162 | [393162-the-company-of-copperhill.json](./393162-the-company-of-copperhill.json) |
 | The Company of Myself | 101723 | [101723-the-company-of-myself.json](./101723-the-company-of-myself.json) |
 | The Complete Carriers at War | 281299 | [281299-the-complete-carriers-at-war.json](./281299-the-complete-carriers-at-war.json) |
