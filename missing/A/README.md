@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rat's Quest: The Way Back Home | 122733 | [122733-a-rats-quest-the-way-back-home.json](./122733-a-rats-quest-the-way-back-home.json) |
 | A Rat's Quest: The Way Back Home - Season 2 | 399152 | [399152-a-rats-quest-the-way-back-home-season-2.json](./399152-a-rats-quest-the-way-back-home-season-2.json) |
 | A Raven Monologue | 81092 | [81092-a-raven-monologue.json](./81092-a-raven-monologue.json) |
+| A Real Life Party | 422330 | [422330-a-real-life-party.json](./422330-a-real-life-party.json) |
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Red Sky at Dawn | 183584 | [183584-a-red-sky-at-dawn.json](./183584-a-red-sky-at-dawn.json) |
@@ -15373,6 +15374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archewood | 176204 | [176204-archewood.json](./176204-archewood.json) |
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
 | Archgate: Pride & Accomplishment | 142106 | [142106-archgate-pride-and-accomplishment.json](./142106-archgate-pride-and-accomplishment.json) |
+| Archi Vista | 422305 | [422305-archi-vista.json](./422305-archi-vista.json) |
 | Archi-Tek | 262551 | [262551-archi-tek.json](./262551-archi-tek.json) |
 | Archibald | 89448 | [89448-archibald.json](./89448-archibald.json) |
 | Archibald & Remus: Minor Lords | 65697 | [65697-archibald-and-remus-minor-lords.json](./65697-archibald-and-remus-minor-lords.json) |
