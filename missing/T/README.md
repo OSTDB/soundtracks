@@ -6982,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basement | 274942 | [274942-the-basement.json](./274942-the-basement.json) |
 | The Basement | 282493 | [282493-the-basement.json](./282493-the-basement.json) |
 | The Basement | 326942 | [326942-the-basement.json](./326942-the-basement.json) |
+| The Basement | 51462 | [51462-the-basement.json](./51462-the-basement.json) |
 | The Basement Collection | 8738 | [8738-the-basement-collection.json](./8738-the-basement-collection.json) |
 | The Basement Ritual | 320781 | [320781-the-basement-ritual.json](./320781-the-basement-ritual.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
@@ -12299,6 +12300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol.8 | 97435 | [97435-the-idolmaster-cinderella-girls-gravure-for-you-vol-8.json](./97435-the-idolmaster-cinderella-girls-gravure-for-you-vol-8.json) |
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol.9 | 97436 | [97436-the-idolmaster-cinderella-girls-gravure-for-you-vol-9.json](./97436-the-idolmaster-cinderella-girls-gravure-for-you-vol-9.json) |
 | The Idolmaster: Cinderella Girls - Starlight Stage | 11711 | [11711-the-idolmaster-cinderella-girls-starlight-stage.json](./11711-the-idolmaster-cinderella-girls-starlight-stage.json) |
+| The Idolmaster: Cinderella Girls - Viewing Revolution | 51465 | [51465-the-idolmaster-cinderella-girls-viewing-revolution.json](./51465-the-idolmaster-cinderella-girls-viewing-revolution.json) |
 | The Idolmaster: Dearly Stars | 11700 | [11700-the-idolmaster-dearly-stars.json](./11700-the-idolmaster-dearly-stars.json) |
 | The Idolmaster: Gravure for You! - Vol. 1 | 79980 | [79980-the-idolmaster-gravure-for-you-vol-1.json](./79980-the-idolmaster-gravure-for-you-vol-1.json) |
 | The Idolmaster: Gravure for You! Vol. 2 | 79977 | [79977-the-idolmaster-gravure-for-you-vol-2.json](./79977-the-idolmaster-gravure-for-you-vol-2.json) |
