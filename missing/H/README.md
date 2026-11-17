@@ -2291,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hardkill System | 370926 | [370926-hardkill-system.json](./370926-hardkill-system.json) |
+| Hardknock Nights Live | 130432 | [130432-hardknock-nights-live.json](./130432-hardknock-nights-live.json) |
 | Hardland | 9549 | [9549-hardland.json](./9549-hardland.json) |
 | HardLander | 95327 | [95327-hardlander.json](./95327-hardlander.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
@@ -12477,6 +12478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania 2: The Game | 108822 | [108822-hotel-transylvania-2-the-game.json](./108822-hotel-transylvania-2-the-game.json) |
 | Hotel Transylvania 3: Monsters Overboard | 86151 | [86151-hotel-transylvania-3-monsters-overboard.json](./86151-hotel-transylvania-3-monsters-overboard.json) |
 | Hotel Transylvania Adventures: Run, Jump, Build! | 142290 | [142290-hotel-transylvania-adventures-run-jump-build.json](./142290-hotel-transylvania-adventures-run-jump-build.json) |
+| Hotel Transylvania Blast | 130413 | [130413-hotel-transylvania-blast.json](./130413-hotel-transylvania-blast.json) |
 | Hotel Transylvania Dash | 108820 | [108820-hotel-transylvania-dash.json](./108820-hotel-transylvania-dash.json) |
 | Hotel Transylvania Popstic | 106141 | [106141-hotel-transylvania-popstic.json](./106141-hotel-transylvania-popstic.json) |
 | Hotel Transylvania: Crazy Cruise | 105769 | [105769-hotel-transylvania-crazy-cruise.json](./105769-hotel-transylvania-crazy-cruise.json) |
