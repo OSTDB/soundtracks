@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Beneath Heaven | 156536 | [156536-warrior-beneath-heaven.json](./156536-warrior-beneath-heaven.json) |
 | Warrior Blade: Rastan Saga Episode III | 69102 | [69102-warrior-blade-rastan-saga-episode-iii.json](./69102-warrior-blade-rastan-saga-episode-iii.json) |
 | Warrior Boy | 164844 | [164844-warrior-boy.json](./164844-warrior-boy.json) |
+| Warrior Cats: Clans of the Forest - Feral Edition | 418332 | [418332-warrior-cats-clans-of-the-forest-feral-edition.json](./418332-warrior-cats-clans-of-the-forest-feral-edition.json) |
 | Warrior Cats: Clans of the Forest - Prophecy Pack | 421804 | [421804-warrior-cats-clans-of-the-forest-prophecy-pack.json](./421804-warrior-cats-clans-of-the-forest-prophecy-pack.json) |
 | Warrior Cats: Untold Tales | 217630 | [217630-warrior-cats-untold-tales.json](./217630-warrior-cats-untold-tales.json) |
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
