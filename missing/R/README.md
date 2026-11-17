@@ -11157,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky & Bullwinkle | 270264 | [270264-rocky-and-bullwinkle.json](./270264-rocky-and-bullwinkle.json) |
 | Rocky & Bullwinkle's Know-It-All Quiz Game | 58369 | [58369-rocky-and-bullwinkles-know-it-all-quiz-game.json](./58369-rocky-and-bullwinkles-know-it-all-quiz-game.json) |
 | Rocky & Co | 271686 | [271686-rocky-and-co.json](./271686-rocky-and-co.json) |
+| Rocky and Bullwinkle | 209045 | [209045-rocky-and-bullwinkle.json](./209045-rocky-and-bullwinkle.json) |
 | Rocky Balboa | 23112 | [23112-rocky-balboa.json](./23112-rocky-balboa.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Idle | 391524 | [391524-rocky-idle.json](./391524-rocky-idle.json) |
@@ -12552,6 +12553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Tomorrow: Beekeeping | 201098 | [201098-roots-of-tomorrow-beekeeping.json](./201098-roots-of-tomorrow-beekeeping.json) |
 | Roots of Tomorrow: Urban Agriculture | 244361 | [244361-roots-of-tomorrow-urban-agriculture.json](./244361-roots-of-tomorrow-urban-agriculture.json) |
 | Roots of Yggdrasil | 216593 | [216593-roots-of-yggdrasil.json](./216593-roots-of-yggdrasil.json) |
+| Roots: The Heritage Game | 209047 | [209047-roots-the-heritage-game.json](./209047-roots-the-heritage-game.json) |
 | Rop | 79183 | [79183-rop.json](./79183-rop.json) |
 | RoPan | 280082 | [280082-ropan.json](./280082-ropan.json) |
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
@@ -12901,6 +12903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round Table | 202719 | [202719-round-table.json](./202719-round-table.json) |
 | Round the Bend! | 73670 | [73670-round-the-bend.json](./73670-round-the-bend.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
+| Round the World Challenge | 209048 | [209048-round-the-world-challenge.json](./209048-round-the-world-challenge.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Round Trip | 367882 | [367882-round-trip.json](./367882-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
@@ -13106,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Envoy 3: Collector's Edition | 132804 | [132804-royal-envoy-3-collectors-edition.json](./132804-royal-envoy-3-collectors-edition.json) |
 | Royal Envoy Super Pack | 356994 | [356994-royal-envoy-super-pack.json](./356994-royal-envoy-super-pack.json) |
 | Royal Envoy: Campaign for the Crown - Collector's Edition | 356131 | [356131-royal-envoy-campaign-for-the-crown-collectors-edition.json](./356131-royal-envoy-campaign-for-the-crown-collectors-edition.json) |
+| Royal Envoy: Collector's Edition | 209049 | [209049-royal-envoy-collectors-edition.json](./209049-royal-envoy-collectors-edition.json) |
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
 | Royal Flush | 423641 | [423641-royal-flush.json](./423641-royal-flush.json) |
@@ -13453,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Match | 308090 | [308090-rubiks-match.json](./308090-rubiks-match.json) |
 | Rubik's Puzzle Galaxy: Rush | 67731 | [67731-rubiks-puzzle-galaxy-rush.json](./67731-rubiks-puzzle-galaxy-rush.json) |
 | Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
+| Rubik's World | 209050 | [209050-rubiks-world.json](./209050-rubiks-world.json) |
 | Rubikingdom | 150860 | [150860-rubikingdom.json](./150860-rubikingdom.json) |
 | Rubiks Unboxed - a Cube in 2D | 103712 | [103712-rubiks-unboxed-a-cube-in-2d.json](./103712-rubiks-unboxed-a-cube-in-2d.json) |
 | Rubinite | 265796 | [265796-rubinite.json](./265796-rubinite.json) |
@@ -13779,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Club: Founder's Pack - Gold | 311415 | [311415-rumble-club-founders-pack-gold.json](./311415-rumble-club-founders-pack-gold.json) |
 | Rumble Club: Founder's Pack - Silver | 311413 | [311413-rumble-club-founders-pack-silver.json](./311413-rumble-club-founders-pack-silver.json) |
 | Rumble Crumble | 349216 | [349216-rumble-crumble.json](./349216-rumble-crumble.json) |
+| Rumble Cube Deluxe | 209043 | [209043-rumble-cube-deluxe.json](./209043-rumble-cube-deluxe.json) |
 | Rumble Fighter | 67352 | [67352-rumble-fighter.json](./67352-rumble-fighter.json) |
 | Rumble Fighter: Unleashed | 35531 | [35531-rumble-fighter-unleashed.json](./35531-rumble-fighter-unleashed.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
@@ -13833,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumours From Elsewhere | 112214 | [112214-rumours-from-elsewhere.json](./112214-rumours-from-elsewhere.json) |
 | Rumours of a Roman Empire | 378735 | [378735-rumours-of-a-roman-empire.json](./378735-rumours-of-a-roman-empire.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
+| Rumpelstiltskin's Labyrinth of the Lost | 209044 | [209044-rumpelstiltskins-labyrinth-of-the-lost.json](./209044-rumpelstiltskins-labyrinth-of-the-lost.json) |
 | Rumple Town | 226501 | [226501-rumple-town.json](./226501-rumple-town.json) |
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
