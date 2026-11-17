@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Come Easy Golf | 145739 | [145739-easy-come-easy-golf.json](./145739-easy-come-easy-golf.json) |
 | Easy Cute Clean Up Lesson | 320469 | [320469-easy-cute-clean-up-lesson.json](./320469-easy-cute-clean-up-lesson.json) |
 | Easy Dungeon | 313938 | [313938-easy-dungeon.json](./313938-easy-dungeon.json) |
+| Easy Fishing Simulator | 428290 | [428290-easy-fishing-simulator.json](./428290-easy-fishing-simulator.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
 | Easy Gems Free: Amazing Match 3 Puzzle | 89177 | [89177-easy-gems-free-amazing-match-3-puzzle.json](./89177-easy-gems-free-amazing-match-3-puzzle.json) |
@@ -8598,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excidio The Kaiju Simulator | 148620 | [148620-excidio-the-kaiju-simulator.json](./148620-excidio-the-kaiju-simulator.json) |
 | Excisa | 425422 | [425422-excisa.json](./425422-excisa.json) |
+| Excise | 428297 | [428297-excise.json](./428297-excise.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excit | 261087 | [261087-excit.json](./261087-excit.json) |
 | Excite Bowling | 262758 | [262758-excite-bowling.json](./262758-excite-bowling.json) |
