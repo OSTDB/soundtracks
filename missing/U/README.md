@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubasute | 360458 | [360458-ubasute.json](./360458-ubasute.json) |
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
+| Uber Destruction | 192988 | [192988-uber-destruction.json](./192988-uber-destruction.json) |
 | Uber Squad | 179132 | [179132-uber-squad.json](./179132-uber-squad.json) |
 | UberBrix | 70831 | [70831-uberbrix.json](./70831-uberbrix.json) |
 | Ubercold | 119612 | [119612-ubercold.json](./119612-ubercold.json) |
