@@ -9761,7 +9761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
 | The Elder Scrolls Online: Greymoor - Collector's Edition | 128765 | [128765-the-elder-scrolls-online-greymoor-collectors-edition.json](./128765-the-elder-scrolls-online-greymoor-collectors-edition.json) |
 | The Elder Scrolls Online: Harrowstorm | 128443 | [128443-the-elder-scrolls-online-harrowstorm.json](./128443-the-elder-scrolls-online-harrowstorm.json) |
-| The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
 | The Elder Scrolls Online: High Isle Collector's Edition | 196517 | [196517-the-elder-scrolls-online-high-isle-collectors-edition.json](./196517-the-elder-scrolls-online-high-isle-collectors-edition.json) |
 | The Elder Scrolls Online: Horns of the Reach | 63873 | [63873-the-elder-scrolls-online-horns-of-the-reach.json](./63873-the-elder-scrolls-online-horns-of-the-reach.json) |
 | The Elder Scrolls Online: Imperial City | 117156 | [117156-the-elder-scrolls-online-imperial-city.json](./117156-the-elder-scrolls-online-imperial-city.json) |
