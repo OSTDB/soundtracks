@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardenscapes 2 | 63436 | [63436-gardenscapes-2.json](./63436-gardenscapes-2.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
+| Gardius Empire | 103028 | [103028-gardius-empire.json](./103028-gardius-empire.json) |
 | Gardman | 282687 | [282687-gardman.json](./282687-gardman.json) |
 | Gare Sapphire Mechs | 25065 | [25065-gare-sapphire-mechs.json](./25065-gare-sapphire-mechs.json) |
 | Garena Blockman Go | 220215 | [220215-garena-blockman-go.json](./220215-garena-blockman-go.json) |
@@ -10295,6 +10296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenmario In Bobbing My Burger | 316306 | [316306-greenmario-in-bobbing-my-burger.json](./316306-greenmario-in-bobbing-my-burger.json) |
 | GreenQuest: Monsters & Threats | 345217 | [345217-greenquest-monsters-and-threats.json](./345217-greenquest-monsters-and-threats.json) |
 | Greenrise | 416836 | [416836-greenrise.json](./416836-greenrise.json) |
+| Greenspawn Restaurant | 104887 | [104887-greenspawn-restaurant.json](./104887-greenspawn-restaurant.json) |
 | greenTech+ | 54058 | [54058-greentech.json](./54058-greentech.json) |
 | Greenveil Hike | 363655 | [363655-greenveil-hike.json](./363655-greenveil-hike.json) |
 | GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
