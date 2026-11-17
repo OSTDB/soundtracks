@@ -4241,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go There and Wander Nowhere | 103802 | [103802-lets-go-there-and-wander-nowhere.json](./103802-lets-go-there-and-wander-nowhere.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go To The Circus | 299150 | [299150-lets-go-to-the-circus.json](./299150-lets-go-to-the-circus.json) |
+| Let's go to the moon | 192336 | [192336-lets-go-to-the-moon.json](./192336-lets-go-to-the-moon.json) |
 | Let's Go! Baby! Friends World | 191536 | [191536-lets-go-baby-friends-world.json](./191536-lets-go-baby-friends-world.json) |
 | Let's go! Brave | 269184 | [269184-lets-go-brave.json](./269184-lets-go-brave.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
