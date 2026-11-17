@@ -4929,7 +4929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
 | Aether | 357785 | [357785-aether.json](./357785-aether.json) |
 | Aether | 65351 | [65351-aether.json](./65351-aether.json) |
-| Aether & Iron | 335238 | [335238-aether-and-iron.json](./335238-aether-and-iron.json) |
 | Aether Apeiron: The Zephyra Chronicles | 57520 | [57520-aether-apeiron-the-zephyra-chronicles.json](./57520-aether-apeiron-the-zephyra-chronicles.json) |
 | Aether Brew | 357788 | [357788-aether-brew.json](./357788-aether-brew.json) |
 | Aether Collector | 316456 | [316456-aether-collector.json](./316456-aether-collector.json) |
