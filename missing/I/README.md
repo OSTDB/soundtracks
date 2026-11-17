@@ -6864,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irradiate 235 | 359603 | [359603-irradiate-235.json](./359603-irradiate-235.json) |
 | Irrational | 179009 | [179009-irrational.json](./179009-irrational.json) |
 | Irrational Exuberance | 33518 | [33518-irrational-exuberance.json](./33518-irrational-exuberance.json) |
+| Irrational Karate | 177584 | [177584-irrational-karate.json](./177584-irrational-karate.json) |
 | Irrelevance V | 137302 | [137302-irrelevance-v.json](./137302-irrelevance-v.json) |
 | Irreminiscence | 392479 | [392479-irreminiscence.json](./392479-irreminiscence.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
