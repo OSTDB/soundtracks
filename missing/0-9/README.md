@@ -871,7 +871,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Cooking Recipes from Elle à Table | 98671 | [98671-1000-cooking-recipes-from-elle-a-table.json](./98671-1000-cooking-recipes-from-elle-a-table.json) |
 | 1000 Cuts: Jomaku | 288725 | [288725-1000-cuts-jomaku.json](./288725-1000-cuts-jomaku.json) |
 | 1000 Days of Syria | 174227 | [174227-1000-days-of-syria.json](./174227-1000-days-of-syria.json) |
-| 1000 Days to Escape | 120028 | [120028-1000-days-to-escape.json](./120028-1000-days-to-escape.json) |
 | 1000 Deaths | 172435 | [172435-1000-deaths.json](./172435-1000-deaths.json) |
 | 1000 Games: Volume 3 | 125839 | [125839-1000-games-volume-3.json](./125839-1000-games-volume-3.json) |
 | 1000 Heads Among the Trees | 34360 | [34360-1000-heads-among-the-trees.json](./34360-1000-heads-among-the-trees.json) |
@@ -1195,7 +1194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Bullets to Midnight | 349287 | [349287-12-bullets-to-midnight.json](./349287-12-bullets-to-midnight.json) |
 | 12 Dino Games in 1 | 54970 | [54970-12-dino-games-in-1.json](./54970-12-dino-games-in-1.json) |
 | 12 Gatsu Monogatari: December Story | 98098 | [98098-12-gatsu-monogatari-december-story.json](./98098-12-gatsu-monogatari-december-story.json) |
-| 12 Hours | 117354 | [117354-12-hours.json](./117354-12-hours.json) |
 | 12 Hours | 355070 | [355070-12-hours.json](./355070-12-hours.json) |
 | 12 Hours 2 | 121292 | [121292-12-hours-2.json](./121292-12-hours-2.json) |
 | 12 Hours Before Christmas | 113483 | [113483-12-hours-before-christmas.json](./113483-12-hours-before-christmas.json) |
@@ -1216,7 +1214,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules VI: Race for Olympus - Collectors Edition | 338897 | [338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json](./338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json) |
 | 12 Labours of Hercules VII: Fleecing the Fleece | 81036 | [81036-12-labours-of-hercules-vii-fleecing-the-fleece.json](./81036-12-labours-of-hercules-vii-fleecing-the-fleece.json) |
 | 12 Labours of Hercules VII: Fleecing the Fleece - Collector's Edition | 338898 | [338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json](./338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json) |
-| 12 Labours of Hercules VIII: How I Met Megara | 113390 | [113390-12-labours-of-hercules-viii-how-i-met-megara.json](./113390-12-labours-of-hercules-viii-how-i-met-megara.json) |
 | 12 Labours of Hercules VIII: How I Met Megara - Collector's Edition | 338899 | [338899-12-labours-of-hercules-viii-how-i-met-megara-collectors-edition.json](./338899-12-labours-of-hercules-viii-how-i-met-megara-collectors-edition.json) |
 | 12 Labours of Hercules X: Greed for Speed | 131992 | [131992-12-labours-of-hercules-x-greed-for-speed.json](./131992-12-labours-of-hercules-x-greed-for-speed.json) |
 | 12 Labours of Hercules X: Greed for Speed - Collector's Edition | 338901 | [338901-12-labours-of-hercules-x-greed-for-speed-collectors-edition.json](./338901-12-labours-of-hercules-x-greed-for-speed-collectors-edition.json) |
@@ -1463,7 +1460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
 | 18 Classic Card Games | 98616 | [98616-18-classic-card-games.json](./98616-18-classic-card-games.json) |
 | 18 Dreamers | 214285 | [214285-18-dreamers.json](./214285-18-dreamers.json) |
-| 18 Floors | 104939 | [104939-18-floors.json](./104939-18-floors.json) |
 | 18 Floors | 411268 | [411268-18-floors.json](./411268-18-floors.json) |
 | 18 Holes Pro Golf | 313989 | [313989-18-holes-pro-golf.json](./313989-18-holes-pro-golf.json) |
 | 18 in 1: Family Games Giga Pack | 330435 | [330435-18-in-1-family-games-giga-pack.json](./330435-18-in-1-family-games-giga-pack.json) |
@@ -1479,7 +1475,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 18+ Memory | 234958 | [234958-18-memory.json](./234958-18-memory.json) |
 | 180 Darts | 45322 | [45322-180-darts.json](./45322-180-darts.json) |
-| 180 Files: The Aegis Project | 132419 | [132419-180-files-the-aegis-project.json](./132419-180-files-the-aegis-project.json) |
 | 180 Minutes Pour Vivre | 257420 | [257420-180-minutes-pour-vivre.json](./257420-180-minutes-pour-vivre.json) |
 | 180 Seconds | 203861 | [203861-180-seconds.json](./203861-180-seconds.json) |
 | 180 Seconds: A Firefighter's Call | 312480 | [312480-180-seconds-a-firefighters-call.json](./312480-180-seconds-a-firefighters-call.json) |
@@ -1899,7 +1894,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
 | 2005: A Game of Macroeconomics | 299559 | [299559-2005-a-game-of-macroeconomics.json](./299559-2005-a-game-of-macroeconomics.json) |
 | 2006 FIFA World Cup | 240282 | [240282-2006-fifa-world-cup.json](./240282-2006-fifa-world-cup.json) |
-| 2006 FIFA World Cup | 240283 | [240283-2006-fifa-world-cup.json](./240283-2006-fifa-world-cup.json) |
 | 2006 FIFA World Cup | 240284 | [240284-2006-fifa-world-cup.json](./240284-2006-fifa-world-cup.json) |
 | 2006 FIFA World Cup | 5474 | [5474-2006-fifa-world-cup.json](./5474-2006-fifa-world-cup.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
@@ -1908,7 +1902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 200V Mahjong Challenge Spirits | 261057 | [261057-200v-mahjong-challenge-spirits.json](./261057-200v-mahjong-challenge-spirits.json) |
 | 201 Street | 377861 | [377861-201-street.json](./377861-201-street.json) |
 | 201: The Bad Number | 328161 | [328161-201-the-bad-number.json](./328161-201-the-bad-number.json) |
-| 2010 FIFA World Cup South Africa | 240361 | [240361-2010-fifa-world-cup-south-africa.json](./240361-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240362 | [240362-2010-fifa-world-cup-south-africa.json](./240362-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240363 | [240363-2010-fifa-world-cup-south-africa.json](./240363-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 4655 | [4655-2010-fifa-world-cup-south-africa.json](./4655-2010-fifa-world-cup-south-africa.json) |
@@ -2037,7 +2030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
 | 2076: Midway Multiverse | 169529 | [169529-2076-midway-multiverse.json](./169529-2076-midway-multiverse.json) |
 | 2080 Apocalypse | 197565 | [197565-2080-apocalypse.json](./197565-2080-apocalypse.json) |
-| 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
 | 2088 | 13264 | [13264-2088.json](./13264-2088.json) |
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
 | 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
@@ -2097,7 +2089,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 222 Hearts | 74462 | [74462-222-hearts.json](./74462-222-hearts.json) |
 | 222.22 | 366269 | [366269-222-22.json](./366269-222-22.json) |
 | 2222 Abyss of the Universe | 329437 | [329437-2222-abyss-of-the-universe.json](./329437-2222-abyss-of-the-universe.json) |
-| 2236 A.D. | 101249 | [101249-2236-a-d.json](./101249-2236-a-d.json) |
 | 2236 A.D. Secretary Stories | 166936 | [166936-2236-a-d-secretary-stories.json](./166936-2236-a-d-secretary-stories.json) |
 | 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
@@ -2515,7 +2506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 32 in 1 Game Special | 219508 | [219508-32-in-1-game-special.json](./219508-32-in-1-game-special.json) |
 | 32 Inch Nails | 262166 | [262166-32-inch-nails.json](./262166-32-inch-nails.json) |
 | 32 Piece Cliptucky Fried Chicken Special | 260786 | [260786-32-piece-cliptucky-fried-chicken-special.json](./260786-32-piece-cliptucky-fried-chicken-special.json) |
-| 32 Secs | 148335 | [148335-32-secs.json](./148335-32-secs.json) |
 | 32 Secs: Traffic Rider 2 | 227533 | [227533-32-secs-traffic-rider-2.json](./227533-32-secs-traffic-rider-2.json) |
 | 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
@@ -3693,7 +3683,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Floor | 305696 | [305696-7th-floor.json](./305696-7th-floor.json) |
 | 7th Legion | 9895 | [9895-7th-legion.json](./9895-7th-legion.json) |
 | 7th Memory | 255428 | [255428-7th-memory.json](./255428-7th-memory.json) |
-| 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7th Serpent: Crossfire | 214930 | [214930-7th-serpent-crossfire.json](./214930-7th-serpent-crossfire.json) |
 | 7th Serpent: Genesis | 214932 | [214932-7th-serpent-genesis.json](./214932-7th-serpent-genesis.json) |
@@ -3974,7 +3963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Operator | 20927 | [20927-911-operator.json](./20927-911-operator.json) |
 | 911 Operator + Special Resources | 99474 | [99474-911-operator-special-resources.json](./99474-911-operator-special-resources.json) |
 | 911 Operator Bundle | 237907 | [237907-911-operator-bundle.json](./237907-911-operator-bundle.json) |
-| 911 Operator: Deluxe Edition | 132984 | [132984-911-operator-deluxe-edition.json](./132984-911-operator-deluxe-edition.json) |
 | 911 Operator: Every Life Matters | 152439 | [152439-911-operator-every-life-matters.json](./152439-911-operator-every-life-matters.json) |
 | 911 Operator: First Response | 152437 | [152437-911-operator-first-response.json](./152437-911-operator-first-response.json) |
 | 911 Operator: Search and Rescue | 152438 | [152438-911-operator-search-and-rescue.json](./152438-911-operator-search-and-rescue.json) |
