@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Point | 182953 | [182953-rally-point.json](./182953-rally-point.json) |
 | Rally Point 2 | 253072 | [253072-rally-point-2.json](./253072-rally-point-2.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
+| Rally Point: 3030 | 425282 | [425282-rally-point-3030.json](./425282-rally-point-3030.json) |
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
 | Rally Pop | 65313 | [65313-rally-pop.json](./65313-rally-pop.json) |
 | Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
