@@ -3029,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
 | Party Hard Tycoon | 23180 | [23180-party-hard-tycoon.json](./23180-party-hard-tycoon.json) |
 | Party Hard: Collector's Edition | 53453 | [53453-party-hard-collectors-edition.json](./53453-party-hard-collectors-edition.json) |
+| Party Hard: Dark Castle | 135954 | [135954-party-hard-dark-castle.json](./135954-party-hard-dark-castle.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Harvest | 365751 | [365751-party-harvest.json](./365751-party-harvest.json) |
 | Party Host 85 | 153009 | [153009-party-host-85.json](./153009-party-host-85.json) |
@@ -3948,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: H3H3 Character Pack | 225125 | [225125-payday-2-h3h3-character-pack.json](./225125-payday-2-h3h3-character-pack.json) |
 | Payday 2: High Octane Tailor Pack | 225167 | [225167-payday-2-high-octane-tailor-pack.json](./225167-payday-2-high-octane-tailor-pack.json) |
 | Payday 2: Hostile Takeover Heist | 240957 | [240957-payday-2-hostile-takeover-heist.json](./240957-payday-2-hostile-takeover-heist.json) |
+| Payday 2: Hotline Miami | 138275 | [138275-payday-2-hotline-miami.json](./138275-payday-2-hotline-miami.json) |
 | Payday 2: John Wick Heists | 167686 | [167686-payday-2-john-wick-heists.json](./167686-payday-2-john-wick-heists.json) |
 | Payday 2: John Wick Weapon Pack | 278044 | [278044-payday-2-john-wick-weapon-pack.json](./278044-payday-2-john-wick-weapon-pack.json) |
 | Payday 2: Lawless Tailor Pack | 252884 | [252884-payday-2-lawless-tailor-pack.json](./252884-payday-2-lawless-tailor-pack.json) |
@@ -11635,6 +11637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonium Pirates | 102363 | [102363-plutonium-pirates.json](./102363-plutonium-pirates.json) |
 | Plutonium Sandpit | 263425 | [263425-plutonium-sandpit.json](./263425-plutonium-sandpit.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
+| Plutonium Winds | 135937 | [135937-plutonium-winds.json](./135937-plutonium-winds.json) |
 | Plutonium: Kilimanjaro Oddysey | 321044 | [321044-plutonium-kilimanjaro-oddysey.json](./321044-plutonium-kilimanjaro-oddysey.json) |
 | Plutos | 15343 | [15343-plutos.json](./15343-plutos.json) |
 | Plutosis | 275433 | [275433-plutosis.json](./275433-plutosis.json) |
@@ -12509,6 +12512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Blaze Black 2 Redux | 198025 | [198025-pokemon-blaze-black-2-redux.json](./198025-pokemon-blaze-black-2-redux.json) |
 | Pokémon Blaze Online | 145096 | [145096-pokemon-blaze-online.json](./145096-pokemon-blaze-online.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
+| Pokémon Blazing Emerald | 138292 | [138292-pokemon-blazing-emerald.json](./138292-pokemon-blazing-emerald.json) |
 | Pokémon Blessed Shield | 314550 | [314550-pokemon-blessed-shield.json](./314550-pokemon-blessed-shield.json) |
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
 | Pokémon Blue Chrome | 323763 | [323763-pokemon-blue-chrome.json](./323763-pokemon-blue-chrome.json) |
@@ -13068,6 +13072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Study: Hikaruze! Pokémon Typing PC | 327714 | [327714-pokemon-study-hikaruze-pokemon-typing-pc.json](./327714-pokemon-study-hikaruze-pokemon-typing-pc.json) |
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
 | Pokémon Sun Moon Double Pack | 136900 | [136900-pokemon-sun-moon-double-pack.json](./136900-pokemon-sun-moon-double-pack.json) |
+| Pokémon Sunday | 135943 | [135943-pokemon-sunday.json](./135943-pokemon-sunday.json) |
 | Pokémon Super Gold 97 | 142232 | [142232-pokemon-super-gold-97.json](./142232-pokemon-super-gold-97.json) |
 | Pokémon Super Mystery Dungeon: Echoes of Yesterday | 379928 | [379928-pokemon-super-mystery-dungeon-echoes-of-yesterday.json](./379928-pokemon-super-mystery-dungeon-echoes-of-yesterday.json) |
 | Pokémon Supernova Sun | 257197 | [257197-pokemon-supernova-sun.json](./257197-pokemon-supernova-sun.json) |
@@ -18431,6 +18436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unseek | 217466 | [217466-project-unseek.json](./217466-project-unseek.json) |
 | Project User | 179285 | [179285-project-user.json](./179285-project-user.json) |
 | Project Utgardr | 196608 | [196608-project-utgardr.json](./196608-project-utgardr.json) |
+| Project V | 135916 | [135916-project-v.json](./135916-project-v.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project V6 | 386626 | [386626-project-v6.json](./386626-project-v6.json) |
 | Project Valkyrie | 192204 | [192204-project-valkyrie.json](./192204-project-valkyrie.json) |
