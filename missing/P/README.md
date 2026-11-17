@@ -9075,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Champions | 59648 | [59648-pixel-champions.json](./59648-pixel-champions.json) |
 | Pixel Chan | 220466 | [220466-pixel-chan.json](./220466-pixel-chan.json) |
+| Pixel Chaos: Tidy Up the Museum | 421720 | [421720-pixel-chaos-tidy-up-the-museum.json](./421720-pixel-chaos-tidy-up-the-museum.json) |
 | Pixel Chess | 416592 | [416592-pixel-chess.json](./416592-pixel-chess.json) |
 | Pixel Chess Idle RPG | 414174 | [414174-pixel-chess-idle-rpg.json](./414174-pixel-chess-idle-rpg.json) |
 | Pixel Chix | 296823 | [296823-pixel-chix.json](./296823-pixel-chix.json) |
@@ -14353,6 +14354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooplers | 127599 | [127599-pooplers.json](./127599-pooplers.json) |
 | Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
 | Poopy Philosophy | 111970 | [111970-poopy-philosophy.json](./111970-poopy-philosophy.json) |
+| Poopy the Game | 421728 | [421728-poopy-the-game.json](./421728-poopy-the-game.json) |
 | Poopy Time | 305407 | [305407-poopy-time.json](./305407-poopy-time.json) |
 | Poopy's Playland | 418643 | [418643-poopys-playland.json](./418643-poopys-playland.json) |
 | Poopy's Wonderland | 331796 | [331796-poopys-wonderland.json](./331796-poopys-wonderland.json) |
