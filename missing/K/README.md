@@ -1374,7 +1374,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Zero DLC | 339625 | [339625-katana-zero-dlc.json](./339625-katana-zero-dlc.json) |
 | Katana Zero: The Dragon Mod | 426043 | [426043-katana-zero-the-dragon-mod.json](./426043-katana-zero-the-dragon-mod.json) |
 | Katana's Path | 289307 | [289307-katanas-path.json](./289307-katanas-path.json) |
-| Katanaut | 323461 | [323461-katanaut.json](./323461-katanaut.json) |
 | Katanegai | 398683 | [398683-katanegai.json](./398683-katanegai.json) |
 | Katanga | 184945 | [184945-katanga.json](./184945-katanga.json) |
 | Katanirvana | 253028 | [253028-katanirvana.json](./253028-katanirvana.json) |
@@ -1945,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemco RPG Selection Vol. 2 | 123652 | [123652-kemco-rpg-selection-vol-2.json](./123652-kemco-rpg-selection-vol-2.json) |
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
 | Kemco RPG Selection Vol. 4 | 136652 | [136652-kemco-rpg-selection-vol-4.json](./136652-kemco-rpg-selection-vol-4.json) |
+| Kemco RPG Selection Vol. 5 | 145097 | [145097-kemco-rpg-selection-vol-5.json](./145097-kemco-rpg-selection-vol-5.json) |
 | Kemco RPG Selection Vol. 6 | 140887 | [140887-kemco-rpg-selection-vol-6.json](./140887-kemco-rpg-selection-vol-6.json) |
 | Kemco RPG Selection Vol. 7 | 146017 | [146017-kemco-rpg-selection-vol-7.json](./146017-kemco-rpg-selection-vol-7.json) |
 | Kemco RPG Selection Vol. 8 | 170056 | [170056-kemco-rpg-selection-vol-8.json](./170056-kemco-rpg-selection-vol-8.json) |
@@ -3239,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
+| Kimi wo Aogi Otome wa Hime Ni | 145090 | [145090-kimi-wo-aogi-otome-wa-hime-ni.json](./145090-kimi-wo-aogi-otome-wa-hime-ni.json) |
 | Kimiheokuru Sora No Hana | 111145 | [111145-kimiheokuru-sora-no-hana.json](./111145-kimiheokuru-sora-no-hana.json) |
 | Kimikare: Shingakki | 222624 | [222624-kimikare-shingakki.json](./222624-kimikare-shingakki.json) |
 | KimiKiss | 70540 | [70540-kimikiss.json](./70540-kimikiss.json) |
@@ -4372,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Triple Deluxe Match-Up | 287450 | [287450-kirby-triple-deluxe-match-up.json](./287450-kirby-triple-deluxe-match-up.json) |
 | Kirby: Canvas Curse | 3722 | [3722-kirby-canvas-curse.json](./3722-kirby-canvas-curse.json) |
 | Kirby: Cosmic Chaos | 323915 | [323915-kirby-cosmic-chaos.json](./323915-kirby-cosmic-chaos.json) |
+| Kirby: Invaders from the Dark | 152418 | [152418-kirby-invaders-from-the-dark.json](./152418-kirby-invaders-from-the-dark.json) |
 | Kirby: Nightmare in Dream Land | 3726 | [3726-kirby-nightmare-in-dream-land.json](./3726-kirby-nightmare-in-dream-land.json) |
 | Kirby: Nightmare in Dream Land Kirby Mini-Game | 381552 | [381552-kirby-nightmare-in-dream-land-kirby-mini-game.json](./381552-kirby-nightmare-in-dream-land-kirby-mini-game.json) |
 | Kirby: Revenge of Dream Land | 196707 | [196707-kirby-revenge-of-dream-land.json](./196707-kirby-revenge-of-dream-land.json) |
@@ -5719,6 +5721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi suru Kanojo no Bukiyou na Butai | 259613 | [259613-koi-suru-kanojo-no-bukiyou-na-butai.json](./259613-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kanojo no Bukiyou na Butai | 77888 | [77888-koi-suru-kanojo-no-bukiyou-na-butai.json](./77888-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
+| Koi Suru Otome to Shugo no Tate: Bara no Seibo | 145101 | [145101-koi-suru-otome-to-shugo-no-tate-bara-no-seibo.json](./145101-koi-suru-otome-to-shugo-no-tate-bara-no-seibo.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" - Adult Version | 141345 | [141345-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9-adult-version.json](./141345-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9-adult-version.json) |
 | Koi Suru! Brother-kun | 301691 | [301691-koi-suru-brother-kun.json](./301691-koi-suru-brother-kun.json) |
