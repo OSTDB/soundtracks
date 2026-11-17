@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Corgi: Planetary Problem Solver | 369090 | [369090-captain-corgi-planetary-problem-solver.json](./369090-captain-corgi-planetary-problem-solver.json) |
 | Captain Cosmo | 116565 | [116565-captain-cosmo.json](./116565-captain-cosmo.json) |
 | Captain Cowboy | 114668 | [114668-captain-cowboy.json](./114668-captain-cowboy.json) |
+| Captain Curve's Intergalactic Space Adventure | 32280 | [32280-captain-curves-intergalactic-space-adventure.json](./32280-captain-curves-intergalactic-space-adventure.json) |
 | Captain Diarrhea and the Shartening | 190285 | [190285-captain-diarrhea-and-the-shartening.json](./190285-captain-diarrhea-and-the-shartening.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Disaster and the Two Worlds of Riskara | 235664 | [235664-captain-disaster-and-the-two-worlds-of-riskara.json](./235664-captain-disaster-and-the-two-worlds-of-riskara.json) |
@@ -3366,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
 | Caroline's Abyss | 169621 | [169621-carolines-abyss.json](./169621-carolines-abyss.json) |
 | Caroline's Camera - Rhythm Game | 233177 | [233177-carolines-camera-rhythm-game.json](./233177-carolines-camera-rhythm-game.json) |
+| Caroline's Garden | 25270 | [25270-carolines-garden.json](./25270-carolines-garden.json) |
 | Caroline’s Presents Johnny Cocktail | 420922 | [420922-caroline-s-presents-johnny-cocktail.json](./420922-caroline-s-presents-johnny-cocktail.json) |
 | Carols in July | 228911 | [228911-carols-in-july.json](./228911-carols-in-july.json) |
 | Carom Billards | 103118 | [103118-carom-billards.json](./103118-carom-billards.json) |
@@ -4460,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castra | 119654 | [119654-castra.json](./119654-castra.json) |
 | Castrol Honda Superbike World Champions | 47086 | [47086-castrol-honda-superbike-world-champions.json](./47086-castrol-honda-superbike-world-champions.json) |
 | Castrol Honda World Superbike Team VTR | 278858 | [278858-castrol-honda-world-superbike-team-vtr.json](./278858-castrol-honda-world-superbike-team-vtr.json) |
+| Castrol Honda: World Superbike Team - Superbike 2000 | 25247 | [25247-castrol-honda-world-superbike-team-superbike-2000.json](./25247-castrol-honda-world-superbike-team-superbike-2000.json) |
 | Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
 | Castrum Novum VR: Life in a Roman Colony | 224930 | [224930-castrum-novum-vr-life-in-a-roman-colony.json](./224930-castrum-novum-vr-life-in-a-roman-colony.json) |
 | Casual Birder | 151962 | [151962-casual-birder.json](./151962-casual-birder.json) |
@@ -8834,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo no Fushigi na Dungeon | 18070 | [18070-chocobo-no-fushigi-na-dungeon.json](./18070-chocobo-no-fushigi-na-dungeon.json) |
 | Chocobo no Fushigi na Dungeon for WonderSwan | 143246 | [143246-chocobo-no-fushigi-na-dungeon-for-wonderswan.json](./143246-chocobo-no-fushigi-na-dungeon-for-wonderswan.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
+| Chocobo Racing 3D | 22909 | [22909-chocobo-racing-3d.json](./22909-chocobo-racing-3d.json) |
 | Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha | 125583 | [125583-chocobo-to-mahou-no-ehon-majo-to-shoujo-to-go-nin-no-yuusha.json](./125583-chocobo-to-mahou-no-ehon-majo-to-shoujo-to-go-nin-no-yuusha.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat | 10429 | [10429-chocolat.json](./10429-chocolat.json) |
@@ -10148,6 +10152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
 | Cipher | 274123 | [274123-cipher.json](./274123-cipher.json) |
 | Cipher 61 | 156192 | [156192-cipher-61.json](./156192-cipher-61.json) |
+| Cipher Complex | 25226 | [25226-cipher-complex.json](./25226-cipher-complex.json) |
 | Cipher for Windows | 61453 | [61453-cipher-for-windows.json](./61453-cipher-for-windows.json) |
 | Cipher Island | 238088 | [238088-cipher-island.json](./238088-cipher-island.json) |
 | Cipher Monk | 286034 | [286034-cipher-monk.json](./286034-cipher-monk.json) |
@@ -10791,6 +10796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
 | City Rickshaw Transporter | 306259 | [306259-city-rickshaw-transporter.json](./306259-city-rickshaw-transporter.json) |
 | City Rush | 246428 | [246428-city-rush.json](./246428-city-rush.json) |
+| City Rush | 29126 | [29126-city-rush.json](./29126-city-rush.json) |
 | City Sandbox | 63359 | [63359-city-sandbox.json](./63359-city-sandbox.json) |
 | City Siege | 266640 | [266640-city-siege.json](./266640-city-siege.json) |
 | City Siege 2: Resort Siege | 266841 | [266841-city-siege-2-resort-siege.json](./266841-city-siege-2-resort-siege.json) |
@@ -15097,6 +15103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compel | 134761 | [134761-compel.json](./134761-compel.json) |
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
 | Compensation Not Guaranteed | 328419 | [328419-compensation-not-guaranteed.json](./328419-compensation-not-guaranteed.json) |
+| ComPet | 25265 | [25265-compet.json](./25265-compet.json) |
 | Competition Golf: Final Round | 133529 | [133529-competition-golf-final-round.json](./133529-competition-golf-final-round.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Competitions At Rosemond Hill | 202065 | [202065-competitions-at-rosemond-hill.json](./202065-competitions-at-rosemond-hill.json) |
@@ -15178,6 +15185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Math Games II | 44358 | [44358-computer-math-games-ii.json](./44358-computer-math-games-ii.json) |
 | Computer Math Games VI | 44357 | [44357-computer-math-games-vi.json](./44357-computer-math-games-vi.json) |
 | Computer Mechanic Simulator 2019 | 114101 | [114101-computer-mechanic-simulator-2019.json](./114101-computer-mechanic-simulator-2019.json) |
+| Computer Napoleonics: The Battle of Waterloo | 25242 | [25242-computer-napoleonics-the-battle-of-waterloo.json](./25242-computer-napoleonics-the-battle-of-waterloo.json) |
 | Computer Nouryoku Kaiseki: Ultra Baken | 38148 | [38148-computer-nouryoku-kaiseki-ultra-baken.json](./38148-computer-nouryoku-kaiseki-ultra-baken.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
 | Computer Othello | 62857 | [62857-computer-othello.json](./62857-computer-othello.json) |
@@ -19260,6 +19268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Ludo | 181029 | [181029-crazy-ludo.json](./181029-crazy-ludo.json) |
 | Crazy Machine VR | 109936 | [109936-crazy-machine-vr.json](./109936-crazy-machine-vr.json) |
 | Crazy Machines | 4777 | [4777-crazy-machines.json](./4777-crazy-machines.json) |
+| Crazy Machines 1.5 | 29124 | [29124-crazy-machines-1-5.json](./29124-crazy-machines-1-5.json) |
 | Crazy Machines 1.5 Inventors Training Camp | 90470 | [90470-crazy-machines-1-5-inventors-training-camp.json](./90470-crazy-machines-1-5-inventors-training-camp.json) |
 | Crazy Machines 1.5 New from the Lab | 90471 | [90471-crazy-machines-1-5-new-from-the-lab.json](./90471-crazy-machines-1-5-new-from-the-lab.json) |
 | Crazy Machines 1.5: More Gizmos, Gadgets, & Whatchamacallits | 72241 | [72241-crazy-machines-1-5-more-gizmos-gadgets-and-whatchamacallits.json](./72241-crazy-machines-1-5-more-gizmos-gadgets-and-whatchamacallits.json) |
