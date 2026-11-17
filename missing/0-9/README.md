@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Pics to Word: 2 Pics 1 Word - Fun Word Guessing | 95803 | [95803-2-pics-to-word-2-pics-1-word-fun-word-guessing.json](./95803-2-pics-to-word-2-pics-1-word-fun-word-guessing.json) |
 | 2 Planets Fire and Ice | 51851 | [51851-2-planets-fire-and-ice.json](./51851-2-planets-fire-and-ice.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
+| 2 Player Co-op Quest! | 141921 | [141921-2-player-co-op-quest.json](./141921-2-player-co-op-quest.json) |
 | 2 Player games : the Challenge | 208905 | [208905-2-player-games-the-challenge.json](./208905-2-player-games-the-challenge.json) |
 | 2 Player Soccer Squad | 12355 | [12355-2-player-soccer-squad.json](./12355-2-player-soccer-squad.json) |
 | 2 Player Super League | 13263 | [13263-2-player-super-league.json](./13263-2-player-super-league.json) |
@@ -3969,6 +3970,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Operator + Special Resources | 99474 | [99474-911-operator-special-resources.json](./99474-911-operator-special-resources.json) |
 | 911 Operator Bundle | 237907 | [237907-911-operator-bundle.json](./237907-911-operator-bundle.json) |
 | 911 Operator: Deluxe Edition | 132984 | [132984-911-operator-deluxe-edition.json](./132984-911-operator-deluxe-edition.json) |
+| 911 Operator: Every Life Matters | 152439 | [152439-911-operator-every-life-matters.json](./152439-911-operator-every-life-matters.json) |
+| 911 Operator: First Response | 152437 | [152437-911-operator-first-response.json](./152437-911-operator-first-response.json) |
+| 911 Operator: Search and Rescue | 152438 | [152438-911-operator-search-and-rescue.json](./152438-911-operator-search-and-rescue.json) |
 | 911 Operator: Special Resources | 149546 | [149546-911-operator-special-resources.json](./149546-911-operator-special-resources.json) |
 | 911 Paramedic | 72049 | [72049-911-paramedic.json](./72049-911-paramedic.json) |
 | 911 Tiger Shark | 71962 | [71962-911-tiger-shark.json](./71962-911-tiger-shark.json) |
