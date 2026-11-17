@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J and the Sewer World | 285598 | [285598-j-and-the-sewer-world.json](./285598-j-and-the-sewer-world.json) |
 | J Connect | 119849 | [119849-j-connect.json](./119849-j-connect.json) |
 | J_O_U_R_N_E_Y | 390696 | [390696-j-o-u-r-n-e-y.json](./390696-j-o-u-r-n-e-y.json) |
+| J-Bird | 78176 | [78176-j-bird.json](./78176-j-bird.json) |
 | J-Girl | 110141 | [110141-j-girl.json](./110141-j-girl.json) |
 | J-Jump Arena | 263483 | [263483-j-jump-arena.json](./263483-j-jump-arena.json) |
 | J-Room | 312131 | [312131-j-room.json](./312131-j-room.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Doper | 114863 | [114863-jump-doper.json](./114863-jump-doper.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
 | Jump Fall | 309698 | [309698-jump-fall.json](./309698-jump-fall.json) |
+| Jump Force | 78143 | [78143-jump-force.json](./78143-jump-force.json) |
 | Jump Force: Character Pack 1 - Seto Kaiba | 187989 | [187989-jump-force-character-pack-1-seto-kaiba.json](./187989-jump-force-character-pack-1-seto-kaiba.json) |
 | Jump Force: Character Pack 10 - Shoto Todoroki | 167770 | [167770-jump-force-character-pack-10-shoto-todoroki.json](./167770-jump-force-character-pack-10-shoto-todoroki.json) |
 | Jump Force: Character Pack 11 - Meruem | 167771 | [167771-jump-force-character-pack-11-meruem.json](./167771-jump-force-character-pack-11-meruem.json) |
