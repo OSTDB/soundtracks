@@ -7155,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Day | 118589 | [118589-first-day.json](./118589-first-day.json) |
 | First Day: Home Defender | 129025 | [129025-first-day-home-defender.json](./129025-first-day-home-defender.json) |
 | First Days of Atlantis | 158387 | [158387-first-days-of-atlantis.json](./158387-first-days-of-atlantis.json) |
+| First Draft of the Revolution | 60126 | [60126-first-draft-of-the-revolution.json](./60126-first-draft-of-the-revolution.json) |
 | First Dwarf | 215296 | [215296-first-dwarf.json](./215296-first-dwarf.json) |
 | First Eagles: The Great Air War 1918 | 23090 | [23090-first-eagles-the-great-air-war-1918.json](./23090-first-eagles-the-great-air-war-1918.json) |
 | First Encounters | 278762 | [278762-first-encounters.json](./278762-first-encounters.json) |
@@ -9244,6 +9245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FloatingPoint | 195997 | [195997-floatingpoint.json](./195997-floatingpoint.json) |
 | Floatmotion | 59976 | [59976-floatmotion.json](./59976-floatmotion.json) |
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
+| Floatpoint | 60139 | [60139-floatpoint.json](./60139-floatpoint.json) |
 | Floatris | 94631 | [94631-floatris.json](./94631-floatris.json) |
 | Floats | 397834 | [397834-floats.json](./397834-floats.json) |
 | Floaty Brain In Space | 60893 | [60893-floaty-brain-in-space.json](./60893-floaty-brain-in-space.json) |
@@ -12855,6 +12857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments of the Afterlife | 246025 | [246025-fragments-of-the-afterlife.json](./246025-fragments-of-the-afterlife.json) |
 | Fragments of Truth: An MCF Story | 416703 | [416703-fragments-of-truth-an-mcf-story.json](./416703-fragments-of-truth-an-mcf-story.json) |
 | Fragments of Truth: An MCF Story - Collector's Edition | 345419 | [345419-fragments-of-truth-an-mcf-story-collectors-edition.json](./345419-fragments-of-truth-an-mcf-story-collectors-edition.json) |
+| Fragmentum | 60157 | [60157-fragmentum.json](./60157-fragmentum.json) |
 | FragMiner | 398561 | [398561-fragminer.json](./398561-fragminer.json) |
 | Fragor Portum | 274432 | [274432-fragor-portum.json](./274432-fragor-portum.json) |
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
