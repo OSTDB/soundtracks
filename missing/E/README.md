@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.E.R.I.E | 148838 | [148838-e-e-r-i-e.json](./148838-e-e-r-i-e.json) |
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
 | E.G.L: Elephant Gay League | 243852 | [243852-e-g-l-elephant-gay-league.json](./243852-e-g-l-elephant-gay-league.json) |
+| E.Hack//G.U. Vol1 | 124282 | [124282-e-hack-g-u-vol1.json](./124282-e-hack-g-u-vol1.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.R.: The Game | 19857 | [19857-e-r-the-game.json](./19857-e-r-the-game.json) |
 | E.S.O: Don't Forget | 398069 | [398069-e-s-o-dont-forget.json](./398069-e-s-o-dont-forget.json) |
@@ -5692,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erozld | 236216 | [236216-erozld.json](./236216-erozld.json) |
 | Err: 001 | 30400 | [30400-err-001.json](./30400-err-001.json) |
 | Err: The 1990 Incident | 308613 | [308613-err-the-1990-incident.json](./308613-err-the-1990-incident.json) |
+| Erra: Exordium | 123101 | [123101-erra-exordium.json](./123101-erra-exordium.json) |
 | Erraldoi 2000 | 183989 | [183989-erraldoi-2000.json](./183989-erraldoi-2000.json) |
 | Errand | 57092 | [57092-errand.json](./57092-errand.json) |
 | Errand Boy | 127883 | [127883-errand-boy.json](./127883-errand-boy.json) |
