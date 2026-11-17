@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row V | 126151 | [126151-saints-row-v.json](./126151-saints-row-v.json) |
 | Saints Row: A Song of Ice & Dust | 260935 | [260935-saints-row-a-song-of-ice-and-dust.json](./260935-saints-row-a-song-of-ice-and-dust.json) |
 | Saints Row: Chicken Dinner Cosmetic Pack | 307150 | [307150-saints-row-chicken-dinner-cosmetic-pack.json](./307150-saints-row-chicken-dinner-cosmetic-pack.json) |
+| Saints Row: Criminal Customs Edition | 186923 | [186923-saints-row-criminal-customs-edition.json](./186923-saints-row-criminal-customs-edition.json) |
 | Saints Row: Day One Edition | 203507 | [203507-saints-row-day-one-edition.json](./203507-saints-row-day-one-edition.json) |
 | Saints Row: Dead Island 2 - Cosmetic Pack | 307139 | [307139-saints-row-dead-island-2-cosmetic-pack.json](./307139-saints-row-dead-island-2-cosmetic-pack.json) |
 | Saints Row: Doc Ketchum's Murder Circus | 257021 | [257021-saints-row-doc-ketchums-murder-circus.json](./257021-saints-row-doc-ketchums-murder-circus.json) |
@@ -2829,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saviorless | 25338 | [25338-saviorless.json](./25338-saviorless.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
 | Saviors of Sapphire Wings/Stranger of Sword City Revisited: Limited Edition | 138565 | [138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json](./138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json) |
+| Saviour of Humanity | 187413 | [187413-saviour-of-humanity.json](./187413-saviour-of-humanity.json) |
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
 | Savoring Sword | 296718 | [296718-savoring-sword.json](./296718-savoring-sword.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
@@ -6142,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage | 50871 | [50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json](./50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json) |
 | Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
 | Sengoku Hime 5: Senka Tatsu Haou no Keifu | 60969 | [60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json](./60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json) |
+| Sengoku Hime 5: Senka Tatsu Haou no Keifu - Limited Edition | 186917 | [186917-sengoku-hime-5-senka-tatsu-haou-no-keifu-limited-edition.json](./186917-sengoku-hime-5-senka-tatsu-haou-no-keifu-limited-edition.json) |
 | Sengoku Hime 7: Senun Tsuranuku Guren no Ishi | 111154 | [111154-sengoku-hime-7-senun-tsuranuku-guren-no-ishi.json](./111154-sengoku-hime-7-senun-tsuranuku-guren-no-ishi.json) |
 | Sengoku Hime 7: Senun Tsuranuku Guren no Ishi - Limited Edition | 167028 | [167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json](./167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json) |
 | Sengoku Hime: Senran no Yo ni Honoo Tatsu | 62877 | [62877-sengoku-hime-senran-no-yo-ni-honoo-tatsu.json](./62877-sengoku-hime-senran-no-yo-ni-honoo-tatsu.json) |
@@ -8598,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
 | Sharky Attack | 416527 | [416527-sharky-attack.json](./416527-sharky-attack.json) |
+| Sharon and the Last Garden | 187424 | [187424-sharon-and-the-last-garden.json](./187424-sharon-and-the-last-garden.json) |
 | Sharp | 107729 | [107729-sharp.json](./107729-sharp.json) |
 | Sharp Minds | 240835 | [240835-sharp-minds.json](./240835-sharp-minds.json) |
 | Sharp Shooter | 213884 | [213884-sharp-shooter.json](./213884-sharp-shooter.json) |
@@ -13574,6 +13578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skautfold: Usurper | 251103 | [251103-skautfold-usurper.json](./251103-skautfold-usurper.json) |
 | Skaz | 398899 | [398899-skaz.json](./398899-skaz.json) |
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
+| Skazka | 187422 | [187422-skazka.json](./187422-skazka.json) |
 | SKD | 278058 | [278058-skd.json](./278058-skd.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skeasy | 85376 | [85376-skeasy.json](./85376-skeasy.json) |
@@ -14045,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skufs vs. Quadrobers | 329881 | [329881-skufs-vs-quadrobers.json](./329881-skufs-vs-quadrobers.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skul: The Hero Slayer | 127842 | [127842-skul-the-hero-slayer.json](./127842-skul-the-hero-slayer.json) |
+| Skul: The Hero Slayer - Deluxe Edition | 186921 | [186921-skul-the-hero-slayer-deluxe-edition.json](./186921-skul-the-hero-slayer-deluxe-edition.json) |
 | Skul: The Hero Slayer - Mythology Pack | 275957 | [275957-skul-the-hero-slayer-mythology-pack.json](./275957-skul-the-hero-slayer-mythology-pack.json) |
 | Skuld | 383093 | [383093-skuld.json](./383093-skuld.json) |
 | Skuld no Bug Taiji | 300745 | [300745-skuld-no-bug-taiji.json](./300745-skuld-no-bug-taiji.json) |
@@ -19298,6 +19304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Larithea | 423318 | [423318-song-of-larithea.json](./423318-song-of-larithea.json) |
 | Song of Life | 174939 | [174939-song-of-life.json](./174939-song-of-life.json) |
 | Song of Memories | 76655 | [76655-song-of-memories.json](./76655-song-of-memories.json) |
+| Song of Memories: Limited Edition | 186926 | [186926-song-of-memories-limited-edition.json](./186926-song-of-memories-limited-edition.json) |
 | Song of Morus: Limbo Express | 347492 | [347492-song-of-morus-limbo-express.json](./347492-song-of-morus-limbo-express.json) |
 | Song of Nanzhao | 360334 | [360334-song-of-nanzhao.json](./360334-song-of-nanzhao.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
@@ -24751,6 +24758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinning Image | 408487 | [408487-spinning-image.json](./408487-spinning-image.json) |
 | Spinning Kid | 151393 | [151393-spinning-kid.json](./151393-spinning-kid.json) |
 | Spinning Kid 2 | 169572 | [169572-spinning-kid-2.json](./169572-spinning-kid-2.json) |
+| Spinning Maze | 187419 | [187419-spinning-maze.json](./187419-spinning-maze.json) |
 | Spinning Maze | 31581 | [31581-spinning-maze.json](./31581-spinning-maze.json) |
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
 | Spinning Pong | 238387 | [238387-spinning-pong.json](./238387-spinning-pong.json) |
@@ -36449,6 +36457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mole | 146576 | [146576-super-mole.json](./146576-super-mole.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
 | Super Momos Crushers | 370197 | [370197-super-momos-crushers.json](./370197-super-momos-crushers.json) |
+| Super Momotaro Dentetsu | 186915 | [186915-super-momotaro-dentetsu.json](./186915-super-momotaro-dentetsu.json) |
 | Super Momotaro Dentetsu | 38068 | [38068-super-momotaro-dentetsu.json](./38068-super-momotaro-dentetsu.json) |
 | Super Momotaro Dentetsu | 48888 | [48888-super-momotaro-dentetsu.json](./48888-super-momotaro-dentetsu.json) |
 | Super Momotaro Dentetsu DX | 38344 | [38344-super-momotaro-dentetsu-dx.json](./38344-super-momotaro-dentetsu-dx.json) |
