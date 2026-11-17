@@ -129,7 +129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Rock | 389725 | [389725-i-am-rock.json](./389725-i-am-rock.json) |
 | I am Rolling | 249108 | [249108-i-am-rolling.json](./249108-i-am-rolling.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
-| I am Sakuya: Touhou FPS Game | 199475 | [199475-i-am-sakuya-touhou-fps-game.json](./199475-i-am-sakuya-touhou-fps-game.json) |
 | I am Sakuya: Touhou FPS Game - Reimu | 235630 | [235630-i-am-sakuya-touhou-fps-game-reimu.json](./235630-i-am-sakuya-touhou-fps-game-reimu.json) |
 | I Am Security | 314091 | [314091-i-am-security.json](./314091-i-am-security.json) |
 | I Am Setsuna | 18861 | [18861-i-am-setsuna.json](./18861-i-am-setsuna.json) |
@@ -333,7 +332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
 | I Expect You to Die | 25948 | [25948-i-expect-you-to-die.json](./25948-i-expect-you-to-die.json) |
 | I Expect You to Die 2 | 152218 | [152218-i-expect-you-to-die-2.json](./152218-i-expect-you-to-die-2.json) |
-| I Expect You to Die 3 | 240584 | [240584-i-expect-you-to-die-3.json](./240584-i-expect-you-to-die-3.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I face the darkness | 113141 | [113141-i-face-the-darkness.json](./113141-i-face-the-darkness.json) |
 | I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
@@ -1417,7 +1415,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ide Yousuke Meijin no Jissen Mahjong | 48754 | [48754-ide-yousuke-meijin-no-jissen-mahjong.json](./48754-ide-yousuke-meijin-no-jissen-mahjong.json) |
 | Ide Yousuke Meijin no Jissen Mahjong II | 48753 | [48753-ide-yousuke-meijin-no-jissen-mahjong-ii.json](./48753-ide-yousuke-meijin-no-jissen-mahjong-ii.json) |
 | Ide Yousuke no Mahjong Juku | 44046 | [44046-ide-yousuke-no-mahjong-juku.json](./44046-ide-yousuke-no-mahjong-juku.json) |
-| Idea | 204951 | [204951-idea.json](./204951-idea.json) |
 | Idea Fix | 323640 | [323640-idea-fix.json](./323640-idea-fix.json) |
 | Idea: Drone camera calm puzzle | 241572 | [241572-idea-drone-camera-calm-puzzle.json](./241572-idea-drone-camera-calm-puzzle.json) |
 | Ideabookroom | 348443 | [348443-ideabookroom.json](./348443-ideabookroom.json) |
@@ -1927,7 +1924,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Vikings Clicker | 215343 | [215343-idle-vikings-clicker.json](./215343-idle-vikings-clicker.json) |
 | Idle Void | 262714 | [262714-idle-void.json](./262714-idle-void.json) |
 | Idle War Camp | 200548 | [200548-idle-war-camp.json](./200548-idle-war-camp.json) |
-| Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
 | Idle Wasteland | 153922 | [153922-idle-wasteland.json](./153922-idle-wasteland.json) |
 | Idle Wasteland: Pet Slot Bundle | 157546 | [157546-idle-wasteland-pet-slot-bundle.json](./157546-idle-wasteland-pet-slot-bundle.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
@@ -2250,7 +2246,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iii: Revolving Wonderland | 151701 | [151701-iii-revolving-wonderland.json](./151701-iii-revolving-wonderland.json) |
 | Iin | 133920 | [133920-iin.json](./133920-iin.json) |
 | Iintwo | 395368 | [395368-iintwo.json](./395368-iintwo.json) |
-| IIslands of War | 126162 | [126162-iislands-of-war.json](./126162-iislands-of-war.json) |
 | Iiwake Docchi!? | 251621 | [251621-iiwake-docchi.json](./251621-iiwake-docchi.json) |
 | iJezzball | 88218 | [88218-ijezzball.json](./88218-ijezzball.json) |
 | Iji | 9778 | [9778-iji.json](./9778-iji.json) |
@@ -2776,7 +2771,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Clan: Grandmastery | 395726 | [395726-immortal-clan-grandmastery.json](./395726-immortal-clan-grandmastery.json) |
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
-| Immortal Darkness: Curse of The Pale King | 104874 | [104874-immortal-darkness-curse-of-the-pale-king.json](./104874-immortal-darkness-curse-of-the-pale-king.json) |
 | Immortal Defense | 17358 | [17358-immortal-defense.json](./17358-immortal-defense.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | Immortal Desires | 313735 | [313735-immortal-desires.json](./313735-immortal-desires.json) |
@@ -2799,7 +2793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Immanuel | 360196 | [360196-immortal-immanuel.json](./360196-immortal-immanuel.json) |
 | Immortal Justice: Chapter One - The Invitation | 178729 | [178729-immortal-justice-chapter-one-the-invitation.json](./178729-immortal-justice-chapter-one-the-invitation.json) |
 | Immortal King | 216074 | [216074-immortal-king.json](./216074-immortal-king.json) |
-| Immortal Legacy: The Jade Cipher | 116010 | [116010-immortal-legacy-the-jade-cipher.json](./116010-immortal-legacy-the-jade-cipher.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Legends | 369264 | [369264-immortal-legends.json](./369264-immortal-legends.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
@@ -3192,7 +3185,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Darkness | 83570 | [83570-in-darkness.json](./83570-in-darkness.json) |
 | In Darkness We Hide | 277779 | [277779-in-darkness-we-hide.json](./277779-in-darkness-we-hide.json) |
 | In Death | 81225 | [81225-in-death.json](./81225-in-death.json) |
-| In Death Unchained | 135118 | [135118-in-death-unchained.json](./135118-in-death-unchained.json) |
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Dreams of Addict 2 | 216555 | [216555-in-dreams-of-addict-2.json](./216555-in-dreams-of-addict-2.json) |
 | In Dreams of Addict Remastered | 216554 | [216554-in-dreams-of-addict-remastered.json](./216554-in-dreams-of-addict-remastered.json) |
@@ -3633,7 +3625,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Jack | 351535 | [351535-incredible-jack.json](./351535-incredible-jack.json) |
 | Incredible Jack: Jump & Run | 331069 | [331069-incredible-jack-jump-and-run.json](./331069-incredible-jack-jump-and-run.json) |
 | Incredible Machine Mega Pack | 124970 | [124970-incredible-machine-mega-pack.json](./124970-incredible-machine-mega-pack.json) |
-| Incredible Mandy | 104436 | [104436-incredible-mandy.json](./104436-incredible-mandy.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
 | Incredible Monster VS US Army Prison Survival Game | 102535 | [102535-incredible-monster-vs-us-army-prison-survival-game.json](./102535-incredible-monster-vs-us-army-prison-survival-game.json) |
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
@@ -3681,7 +3672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubation: Hidden Worlds | 70133 | [70133-incubation-hidden-worlds.json](./70133-incubation-hidden-worlds.json) |
 | Incubation: The Wilderness Missions | 78480 | [78480-incubation-the-wilderness-missions.json](./78480-incubation-the-wilderness-missions.json) |
 | Incubation: Time Is Running Out | 9033 | [9033-incubation-time-is-running-out.json](./9033-incubation-time-is-running-out.json) |
-| Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incubus Heart: Demon Love Redemption | 386192 | [386192-incubus-heart-demon-love-redemption.json](./386192-incubus-heart-demon-love-redemption.json) |
 | Incubus Quest | 264188 | [264188-incubus-quest.json](./264188-incubus-quest.json) |
@@ -3814,7 +3804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Gems Bundle - Explosions Edition | 147802 | [147802-indie-gems-bundle-explosions-edition.json](./147802-indie-gems-bundle-explosions-edition.json) |
 | Indie Gems Bundle - Nonograms edition | 147794 | [147794-indie-gems-bundle-nonograms-edition.json](./147794-indie-gems-bundle-nonograms-edition.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
-| Indie Heroes Collection 1 | 145831 | [145831-indie-heroes-collection-1.json](./145831-indie-heroes-collection-1.json) |
 | Indie Heroes Collection 2 | 227614 | [227614-indie-heroes-collection-2.json](./227614-indie-heroes-collection-2.json) |
 | Indie Heroes Collection 3 | 252064 | [252064-indie-heroes-collection-3.json](./252064-indie-heroes-collection-3.json) |
 | Indie Heroes Collection 4 | 332139 | [332139-indie-heroes-collection-4.json](./332139-indie-heroes-collection-4.json) |
@@ -4023,7 +4012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertial Craft | 309953 | [309953-inertial-craft.json](./309953-inertial-craft.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals | 227054 | [227054-inertial-drift-twilight-rivals.json](./227054-inertial-drift-twilight-rivals.json) |
-| Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Inertix | 264974 | [264974-inertix.json](./264974-inertix.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
 | Inescapable | 17302 | [17302-inescapable.json](./17302-inescapable.json) |
@@ -4376,7 +4364,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Legend | 102755 | [102755-infinite-legend.json](./102755-infinite-legend.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Life Simulation | 318116 | [318116-infinite-life-simulation.json](./318116-infinite-life-simulation.json) |
-| Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
 | Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
 | Infinite Loop: Backrooms | 366952 | [366952-infinite-loop-backrooms.json](./366952-infinite-loop-backrooms.json) |
 | Infinite Loop: Kojou ga Miseta Yume | 56825 | [56825-infinite-loop-kojou-ga-miseta-yume.json](./56825-infinite-loop-kojou-ga-miseta-yume.json) |
@@ -4912,7 +4899,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
 | Inks. | 58356 | [58356-inks.json](./58356-inks.json) |
 | Inkshade | 318693 | [318693-inkshade.json](./318693-inkshade.json) |
-| Inkslinger | 147294 | [147294-inkslinger.json](./147294-inkslinger.json) |
 | InkSplosion | 95608 | [95608-inksplosion.json](./95608-inksplosion.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
@@ -5330,7 +5316,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Ooh: The Great Monkey Detective | 98470 | [98470-inspector-ooh-the-great-monkey-detective.json](./98470-inspector-ooh-the-great-monkey-detective.json) |
 | Inspector Parker | 73549 | [73549-inspector-parker.json](./73549-inspector-parker.json) |
 | Inspector Parker Unsolved | 50858 | [50858-inspector-parker-unsolved.json](./50858-inspector-parker-unsolved.json) |
-| Inspector Schmidt: A Bavarian Tale | 171185 | [171185-inspector-schmidt-a-bavarian-tale.json](./171185-inspector-schmidt-a-bavarian-tale.json) |
 | Inspector Schmidt: The Ebbing | 306585 | [306585-inspector-schmidt-the-ebbing.json](./306585-inspector-schmidt-the-ebbing.json) |
 | Inspector Schmidt: The Ebbing - Prologue | 335181 | [335181-inspector-schmidt-the-ebbing-prologue.json](./335181-inspector-schmidt-the-ebbing-prologue.json) |
 | Inspector Waffles | 116730 | [116730-inspector-waffles.json](./116730-inspector-waffles.json) |
@@ -5378,7 +5363,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Indie Collection: Vol. 5 | 82454 | [82454-instant-indie-collection-vol-5.json](./82454-instant-indie-collection-vol-5.json) |
 | Instant Sports | 123331 | [123331-instant-sports.json](./123331-instant-sports.json) |
 | Instant Sports + | 191350 | [191350-instant-sports.json](./191350-instant-sports.json) |
-| Instant Sports Paradise | 154788 | [154788-instant-sports-paradise.json](./154788-instant-sports-paradise.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
 | Instant Sports Tennis | 144207 | [144207-instant-sports-tennis.json](./144207-instant-sports-tennis.json) |
@@ -5777,7 +5761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplanetary Voyage | 41541 | [41541-interplanetary-voyage.json](./41541-interplanetary-voyage.json) |
 | Interplanetary: Enhanced Edition | 54506 | [54506-interplanetary-enhanced-edition.json](./54506-interplanetary-enhanced-edition.json) |
 | Interplay Collection 1 | 130816 | [130816-interplay-collection-1.json](./130816-interplay-collection-1.json) |
-| Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
 | Interplay Klondike Solitaire | 308359 | [308359-interplay-klondike-solitaire.json](./308359-interplay-klondike-solitaire.json) |
 | Interplay Solitaire | 36423 | [36423-interplay-solitaire.json](./36423-interplay-solitaire.json) |
 | Interplay Sports Baseball 2000 | 44735 | [44735-interplay-sports-baseball-2000.json](./44735-interplay-sports-baseball-2000.json) |
@@ -6071,7 +6054,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
 | Intrepid | 135616 | [135616-intrepid.json](./135616-intrepid.json) |
 | Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
-| Intrepid Izzy | 135822 | [135822-intrepid-izzy.json](./135822-intrepid-izzy.json) |
 | Intrepid Lepid | 179041 | [179041-intrepid-lepid.json](./179041-intrepid-lepid.json) |
 | Intricacy | 176574 | [176574-intricacy.json](./176574-intricacy.json) |
 | Intrigue At Oakhaven | 377771 | [377771-intrigue-at-oakhaven.json](./377771-intrigue-at-oakhaven.json) |
@@ -6257,9 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion...: Level 2 -The Upper Decks | 261475 | [261475-invasion-level-2-the-upper-decks.json](./261475-invasion-level-2-the-upper-decks.json) |
 | Invasive | 204952 | [204952-invasive.json](./204952-invasive.json) |
 | Invasive Species | 367507 | [367507-invasive-species.json](./367507-invasive-species.json) |
-| Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
 | Invector: Rhythm Galaxy | 252857 | [252857-invector-rhythm-galaxy.json](./252857-invector-rhythm-galaxy.json) |
-| Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
 | Invector: Rhythm Galaxy - Spinnin' Song Pack | 272743 | [272743-invector-rhythm-galaxy-spinnin-song-pack.json](./272743-invector-rhythm-galaxy-spinnin-song-pack.json) |
 | InVein | 402487 | [402487-invein.json](./402487-invein.json) |
 | Invention 2 | 31667 | [31667-invention-2.json](./31667-invention-2.json) |
@@ -6452,7 +6432,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion | 11136 | [11136-ion.json](./11136-ion.json) |
 | Ion Assault | 10442 | [10442-ion-assault.json](./10442-ion-assault.json) |
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
-| Ion Driver | 164310 | [164310-ion-driver.json](./164310-ion-driver.json) |
 | Ion Fury + Aftershock | 274835 | [274835-ion-fury-aftershock.json](./274835-ion-fury-aftershock.json) |
 | Ion Racer | 251261 | [251261-ion-racer.json](./251261-ion-racer.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
@@ -6540,7 +6519,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irem Arcade Classics | 92368 | [92368-irem-arcade-classics.json](./92368-irem-arcade-classics.json) |
 | Irem Arcade Hits | 62514 | [62514-irem-arcade-hits.json](./62514-irem-arcade-hits.json) |
 | Irem Collection Volume 1+2 | 330440 | [330440-irem-collection-volume-1-2.json](./330440-irem-collection-volume-1-2.json) |
-| Irem Collection: Volume 1 | 252192 | [252192-irem-collection-volume-1.json](./252192-irem-collection-volume-1.json) |
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irena: Genesis Metal Fury | 142750 | [142750-irena-genesis-metal-fury.json](./142750-irena-genesis-metal-fury.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
@@ -6675,7 +6653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Guard VR | 127726 | [127726-iron-guard-vr.json](./127726-iron-guard-vr.json) |
 | Iron Guard: Salvation | 333034 | [333034-iron-guard-salvation.json](./333034-iron-guard-salvation.json) |
 | Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
-| Iron Harvest: Complete Edition | 170036 | [170036-iron-harvest-complete-edition.json](./170036-iron-harvest-complete-edition.json) |
 | Iron Harvest: Deluxe Edition | 154221 | [154221-iron-harvest-deluxe-edition.json](./154221-iron-harvest-deluxe-edition.json) |
 | Iron Harvest: Operation Eagle | 154193 | [154193-iron-harvest-operation-eagle.json](./154193-iron-harvest-operation-eagle.json) |
 | Iron Harvest: Rusviet Revolution | 155240 | [155240-iron-harvest-rusviet-revolution.json](./155240-iron-harvest-rusviet-revolution.json) |
@@ -6711,7 +6688,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man | 257215 | [257215-iron-man.json](./257215-iron-man.json) |
 | Iron Man | 4935 | [4935-iron-man.json](./4935-iron-man.json) |
 | Iron Man 2 | 200998 | [200998-iron-man-2.json](./200998-iron-man-2.json) |
-| Iron Man 2 | 257217 | [257217-iron-man-2.json](./257217-iron-man-2.json) |
 | Iron Man 2 | 257218 | [257218-iron-man-2.json](./257218-iron-man-2.json) |
 | Iron Man 2 | 4936 | [4936-iron-man-2.json](./4936-iron-man-2.json) |
 | Iron Man 2 | 80414 | [80414-iron-man-2.json](./80414-iron-man-2.json) |
@@ -7003,7 +6979,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Mystic World | 365933 | [365933-isekai-mystic-world.json](./365933-isekai-mystic-world.json) |
 | Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
 | Isekai Revitalizer | 374445 | [374445-isekai-revitalizer.json](./374445-isekai-revitalizer.json) |
-| Isekai Rondo | 237603 | [237603-isekai-rondo.json](./237603-isekai-rondo.json) |
 | Isekai Saga: Awaken | 321633 | [321633-isekai-saga-awaken.json](./321633-isekai-saga-awaken.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Succubus: My Genderbent Saga in Another World | 187185 | [187185-isekai-succubus-my-genderbent-saga-in-another-world.json](./187185-isekai-succubus-my-genderbent-saga-in-another-world.json) |
@@ -7224,7 +7199,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islanded | 10350 | [10350-islanded.json](./10350-islanded.json) |
 | Islander | 176851 | [176851-islander.json](./176851-islander.json) |
 | Islanders | 116133 | [116133-islanders.json](./116133-islanders.json) |
-| Islanders: Console Edition | 163628 | [163628-islanders-console-edition.json](./163628-islanders-console-edition.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Islanders: New Shores - Island Hopping Bundle | 349607 | [349607-islanders-new-shores-island-hopping-bundle.json](./349607-islanders-new-shores-island-hopping-bundle.json) |
 | Islanders: New Shores - Photo Filter Pack | 349602 | [349602-islanders-new-shores-photo-filter-pack.json](./349602-islanders-new-shores-photo-filter-pack.json) |
@@ -7302,7 +7276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Limbo | 153670 | [153670-isles-of-limbo.json](./153670-isles-of-limbo.json) |
 | Isles of Monsters | 286782 | [286782-isles-of-monsters.json](./286782-isles-of-monsters.json) |
 | Isles of Rain | 346554 | [346554-isles-of-rain.json](./346554-isles-of-rain.json) |
-| Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
 | Isles of Yore | 189958 | [189958-isles-of-yore.json](./189958-isles-of-yore.json) |
@@ -7334,7 +7307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isoge Hero | 379573 | [379573-isoge-hero.json](./379573-isoge-hero.json) |
 | Isoge! Doraemon | 385850 | [385850-isoge-doraemon.json](./385850-isoge-doraemon.json) |
 | Isoland | 57337 | [57337-isoland.json](./57337-isoland.json) |
-| Isoland 2: Ashes of Time | 99606 | [99606-isoland-2-ashes-of-time.json](./99606-isoland-2-ashes-of-time.json) |
 | Isoland 3: Dust of the Universe | 130096 | [130096-isoland-3-dust-of-the-universe.json](./130096-isoland-3-dust-of-the-universe.json) |
 | Isoland: Pumpkin Town | 319215 | [319215-isoland-pumpkin-town.json](./319215-isoland-pumpkin-town.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
@@ -7434,7 +7406,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istanbul Ship Simulator | 190771 | [190771-istanbul-ship-simulator.json](./190771-istanbul-ship-simulator.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
-| Istanbul: Digital Edition | 104265 | [104265-istanbul-digital-edition.json](./104265-istanbul-digital-edition.json) |
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
 | Istoria | 150907 | [150907-istoria.json](./150907-istoria.json) |
 | Istorii Uzhasov: Voskreshenie | 368244 | [368244-istorii-uzhasov-voskreshenie.json](./368244-istorii-uzhasov-voskreshenie.json) |
@@ -7705,7 +7676,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
 | Itazura na Keshigum | 238117 | [238117-itazura-na-keshigum.json](./238117-itazura-na-keshigum.json) |
 | Itazura Tenshi | 224946 | [224946-itazura-tenshi.json](./224946-itazura-tenshi.json) |
-| ItazuraVR | 110730 | [110730-itazuravr.json](./110730-itazuravr.json) |
 | ItazuraVR Safe for Work | 116546 | [116546-itazuravr-safe-for-work.json](./116546-itazuravr-safe-for-work.json) |
 | Itch | 25436 | [25436-itch.json](./25436-itch.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
