@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V for Victory: D-Day Utah Beach | 50102 | [50102-v-for-victory-d-day-utah-beach.json](./50102-v-for-victory-d-day-utah-beach.json) |
 | V for Victory: Gold-Juno-Sword | 69234 | [69234-v-for-victory-gold-juno-sword.json](./69234-v-for-victory-gold-juno-sword.json) |
 | V for Victory: Market Garden | 70965 | [70965-v-for-victory-market-garden.json](./70965-v-for-victory-market-garden.json) |
+| V for Victory: Velikiye Luki | 94438 | [94438-v-for-victory-velikiye-luki.json](./94438-v-for-victory-velikiye-luki.json) |
 | V Gate | 261790 | [261790-v-gate.json](./261790-v-gate.json) |
 | V is for Vortex | 254474 | [254474-v-is-for-vortex.json](./254474-v-is-for-vortex.json) |
 | V Life | 395536 | [395536-v-life.json](./395536-v-life.json) |
