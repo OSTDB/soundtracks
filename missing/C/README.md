@@ -7764,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess and Dungeons | 186195 | [186195-chess-and-dungeons.json](./186195-chess-and-dungeons.json) |
 | Chess Arena | 117818 | [117818-chess-arena.json](./117818-chess-arena.json) |
 | Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
+| Chess Army | 421131 | [421131-chess-army.json](./421131-chess-army.json) |
 | Chess Battle | 401382 | [401382-chess-battle.json](./401382-chess-battle.json) |
 | Chess Battle Quest | 240843 | [240843-chess-battle-quest.json](./240843-chess-battle-quest.json) |
 | Chess Bomb | 333236 | [333236-chess-bomb.json](./333236-chess-bomb.json) |
@@ -15618,6 +15619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connected Hearts: The Full Moon Curse - Collector's Edition | 187847 | [187847-connected-hearts-the-full-moon-curse-collectors-edition.json](./187847-connected-hearts-the-full-moon-curse-collectors-edition.json) |
 | Connected Hearts: The Musketeers Saga - Collector's Edition | 235567 | [235567-connected-hearts-the-musketeers-saga-collectors-edition.json](./235567-connected-hearts-the-musketeers-saga-collectors-edition.json) |
 | Connected Hearts: The Musketeers Saga - DLC | 239149 | [239149-connected-hearts-the-musketeers-saga-dlc.json](./239149-connected-hearts-the-musketeers-saga-dlc.json) |
+| Connected Hearts: Vanished Beauty - Collector's Edition | 421094 | [421094-connected-hearts-vanished-beauty-collectors-edition.json](./421094-connected-hearts-vanished-beauty-collectors-edition.json) |
 | Connected through fate | 219227 | [219227-connected-through-fate.json](./219227-connected-through-fate.json) |
 | Connected Towers | 149864 | [149864-connected-towers.json](./149864-connected-towers.json) |
 | Connected! | 148112 | [148112-connected.json](./148112-connected.json) |
@@ -20837,6 +20839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowman & Wolfboy | 28575 | [28575-crowman-and-wolfboy.json](./28575-crowman-and-wolfboy.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
+| Crown & Applause | 421110 | [421110-crown-and-applause.json](./421110-crown-and-applause.json) |
 | Crown & Capital | 318331 | [318331-crown-and-capital.json](./318331-crown-and-capital.json) |
 | Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
 | Crown & Coin: The Hundred Years | 427736 | [427736-crown-and-coin-the-hundred-years.json](./427736-crown-and-coin-the-hundred-years.json) |
