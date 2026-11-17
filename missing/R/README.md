@@ -9787,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
 | Roadside Egg Stand | 342310 | [342310-roadside-egg-stand.json](./342310-roadside-egg-stand.json) |
 | Roadside In Hell | 358557 | [358557-roadside-in-hell.json](./358557-roadside-in-hell.json) |
+| Roadside Odyssey | 419290 | [419290-roadside-odyssey.json](./419290-roadside-odyssey.json) |
 | Roadside Store Simulator | 382741 | [382741-roadside-store-simulator.json](./382741-roadside-store-simulator.json) |
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
 | Roadster Race | 426388 | [426388-roadster-race.json](./426388-roadster-race.json) |
