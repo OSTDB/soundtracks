@@ -32533,7 +32533,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Dog Find Out HD | 232496 | [232496-stupid-dog-find-out-hd.json](./232496-stupid-dog-find-out-hd.json) |
 | Stupid Dungeon | 119828 | [119828-stupid-dungeon.json](./119828-stupid-dungeon.json) |
 | Stupid Horse Channel | 353808 | [353808-stupid-horse-channel.json](./353808-stupid-horse-channel.json) |
-| Stupid Never Dies | 381212 | [381212-stupid-never-dies.json](./381212-stupid-never-dies.json) |
 | Stupid Ninjas | 326561 | [326561-stupid-ninjas.json](./326561-stupid-ninjas.json) |
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
 | Stupid Raft Battle Simulator | 29375 | [29375-stupid-raft-battle-simulator.json](./29375-stupid-raft-battle-simulator.json) |
