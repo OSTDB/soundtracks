@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raburaba: Love Rubber | 82256 | [82256-raburaba-love-rubber.json](./82256-raburaba-love-rubber.json) |
 | Racar | 399037 | [399037-racar.json](./399037-racar.json) |
 | Raccateer | 346381 | [346381-raccateer.json](./346381-raccateer.json) |
+| Raccoin: Chaos Max | 430059 | [430059-raccoin-chaos-max.json](./430059-raccoin-chaos-max.json) |
 | Raccoin: Chaos Max Edition | 426369 | [426369-raccoin-chaos-max-edition.json](./426369-raccoin-chaos-max-edition.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoo Venture | 113876 | [113876-raccoo-venture.json](./113876-raccoo-venture.json) |
@@ -922,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Playground Sandbox | 392261 | [392261-ragdoll-playground-sandbox.json](./392261-ragdoll-playground-sandbox.json) |
 | Ragdoll Racers | 166944 | [166944-ragdoll-racers.json](./166944-ragdoll-racers.json) |
 | Ragdoll Rage: Heroes Arena | 233862 | [233862-ragdoll-rage-heroes-arena.json](./233862-ragdoll-rage-heroes-arena.json) |
+| Ragdoll Ranch | 429845 | [429845-ragdoll-ranch.json](./429845-ragdoll-ranch.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Slayer | 219646 | [219646-ragdoll-slayer.json](./219646-ragdoll-slayer.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
@@ -9380,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Super Sports Challenge: All Stars Special | 36210 | [36210-river-city-super-sports-challenge-all-stars-special.json](./36210-river-city-super-sports-challenge-all-stars-special.json) |
 | River City Survivors | 418254 | [418254-river-city-survivors.json](./418254-river-city-survivors.json) |
 | River City: Knights of Justice | 36549 | [36549-river-city-knights-of-justice.json](./36549-river-city-knights-of-justice.json) |
+| River City: Rival Showdown | 255878 | [255878-river-city-rival-showdown.json](./255878-river-city-rival-showdown.json) |
 | River Climbing | 333166 | [333166-river-climbing.json](./333166-river-climbing.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
 | River Drift | 400520 | [400520-river-drift.json](./400520-river-drift.json) |
@@ -10330,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
 | Robotfindskitten3d | 80039 | [80039-robotfindskitten3d.json](./80039-robotfindskitten3d.json) |
 | Robotherapy | 212058 | [212058-robotherapy.json](./212058-robotherapy.json) |
+| Robothorium | 55580 | [55580-robothorium.json](./55580-robothorium.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
 | Robotic Invasion 2 | 412677 | [412677-robotic-invasion-2.json](./412677-robotic-invasion-2.json) |
@@ -11840,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
 | RollerCoaster Tycoon 8 Pack | 252326 | [252326-rollercoaster-tycoon-8-pack.json](./252326-rollercoaster-tycoon-8-pack.json) |
 | RollerCoaster Tycoon 9 Mega Pack | 136066 | [136066-rollercoaster-tycoon-9-mega-pack.json](./136066-rollercoaster-tycoon-9-mega-pack.json) |
+| RollerCoaster Tycoon Adventures Deluxe | 256001 | [256001-rollercoaster-tycoon-adventures-deluxe.json](./256001-rollercoaster-tycoon-adventures-deluxe.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon Puzzle | 420932 | [420932-rollercoaster-tycoon-puzzle.json](./420932-rollercoaster-tycoon-puzzle.json) |
@@ -12629,6 +12634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Camellia 2 | 317596 | [317596-rose-and-camellia-2.json](./317596-rose-and-camellia-2.json) |
 | Rose & Camellia 3 | 317597 | [317597-rose-and-camellia-3.json](./317597-rose-and-camellia-3.json) |
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
+| Rose & Camellia Collection | 256464 | [256464-rose-and-camellia-collection.json](./256464-rose-and-camellia-collection.json) |
 | Rose & Camellia: The Legendary Rose Bride | 227726 | [227726-rose-and-camellia-the-legendary-rose-bride.json](./227726-rose-and-camellia-the-legendary-rose-bride.json) |
 | Rose & Time | 60526 | [60526-rose-and-time.json](./60526-rose-and-time.json) |
 | Rose and Cross | 304468 | [304468-rose-and-cross.json](./304468-rose-and-cross.json) |
@@ -13191,6 +13197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Wars: Farm TD | 329229 | [329229-royal-wars-farm-td.json](./329229-royal-wars-farm-td.json) |
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royal Wedding Quest! | 111263 | [111263-royal-wedding-quest.json](./111263-royal-wedding-quest.json) |
+| Royal West India Company | 429908 | [429908-royal-west-india-company.json](./429908-royal-west-india-company.json) |
 | Royal's Gambit | 347568 | [347568-royals-gambit.json](./347568-royals-gambit.json) |
 | Royale Age: Battle of Kings | 141336 | [141336-royale-age-battle-of-kings.json](./141336-royale-age-battle-of-kings.json) |
 | Royale Archer VR | 142036 | [142036-royale-archer-vr.json](./142036-royale-archer-vr.json) |
