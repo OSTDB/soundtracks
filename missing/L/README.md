@@ -8351,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonlyToy | 220403 | [220403-lonlytoy.json](./220403-lonlytoy.json) |
 | Lonn | 135113 | [135113-lonn.json](./135113-lonn.json) |
+| Lonpos | 80679 | [80679-lonpos.json](./80679-lonpos.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Lontra-Metragem | 237326 | [237326-lontra-metragem.json](./237326-lontra-metragem.json) |
 | Loofy | 157010 | [157010-loofy.json](./157010-loofy.json) |
