@@ -7081,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurogane Kaikijong | 336113 | [336113-kurogane-kaikijong.json](./336113-kurogane-kaikijong.json) |
 | Kurogane Kaikitan: Ichigoichie | 194739 | [194739-kurogane-kaikitan-ichigoichie.json](./194739-kurogane-kaikitan-ichigoichie.json) |
 | Kurogane Kaikitan: Senya Ichiya | 61237 | [61237-kurogane-kaikitan-senya-ichiya.json](./61237-kurogane-kaikitan-senya-ichiya.json) |
+| Kurogane no Houkou: Warship Commander | 419270 | [419270-kurogane-no-houkou-warship-commander.json](./419270-kurogane-no-houkou-warship-commander.json) |
 | Kurogane no Linebarrels | 56748 | [56748-kurogane-no-linebarrels.json](./56748-kurogane-no-linebarrels.json) |
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
 | Kurohige no Golf Shiyouyo | 49671 | [49671-kurohige-no-golf-shiyouyo.json](./49671-kurohige-no-golf-shiyouyo.json) |
