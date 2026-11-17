@@ -60,7 +60,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Butter | 336820 | [336820-i-am-butter.json](./336820-i-am-butter.json) |
 | I Am Butter VR | 192236 | [192236-i-am-butter-vr.json](./192236-i-am-butter-vr.json) |
 | I Am Caligula | 33208 | [33208-i-am-caligula.json](./33208-i-am-caligula.json) |
-| I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
 | I Am Clown Fish Escape | 389107 | [389107-i-am-clown-fish-escape.json](./389107-i-am-clown-fish-escape.json) |
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I Am Data | 121538 | [121538-i-am-data.json](./121538-i-am-data.json) |
@@ -386,7 +385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Hate This Game | 395928 | [395928-i-hate-this-game.json](./395928-i-hate-this-game.json) |
 | I Hate This Game More | 395929 | [395929-i-hate-this-game-more.json](./395929-i-hate-this-game-more.json) |
-| I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
 | I Hate This Place: Deluxe Edition | 401858 | [401858-i-hate-this-place-deluxe-edition.json](./401858-i-hate-this-place-deluxe-edition.json) |
 | I hate trains | 367184 | [367184-i-hate-trains.json](./367184-i-hate-trains.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
@@ -793,7 +791,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Hope | 88401 | [88401-i-hope.json](./88401-i-hope.json) |
 | I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
 | I, Robot | 24633 | [24633-i-robot.json](./24633-i-robot.json) |
-| I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
 | I, Spy | 425424 | [425424-i-spy.json](./425424-i-spy.json) |
 | I, the Forgotten One | 244061 | [244061-i-the-forgotten-one.json](./244061-i-the-forgotten-one.json) |
 | I, the I-piece | 175112 | [175112-i-the-i-piece.json](./175112-i-the-i-piece.json) |
@@ -2061,7 +2058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idumea | 319039 | [319039-idumea.json](./319039-idumea.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
-| Idun: Frontline Survival | 329284 | [329284-idun-frontline-survival.json](./329284-idun-frontline-survival.json) |
 | Idunn Gurdians | 121540 | [121540-idunn-gurdians.json](./121540-idunn-gurdians.json) |
 | Idutshane | 356838 | [356838-idutshane.json](./356838-idutshane.json) |
 | Idyllic | 114672 | [114672-idyllic.json](./114672-idyllic.json) |
@@ -6515,7 +6511,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ira | 216139 | [216139-ira.json](./216139-ira.json) |
 | Ira | 33616 | [33616-ira.json](./33616-ira.json) |
 | iRacing | 8204 | [8204-iracing.json](./8204-iracing.json) |
-| iRacing Arcade | 373274 | [373274-iracing-arcade.json](./373274-iracing-arcade.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | iRagdoll HD | 107065 | [107065-iragdoll-hd.json](./107065-iragdoll-hd.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
@@ -6539,7 +6534,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irem Arcade Hits | 62514 | [62514-irem-arcade-hits.json](./62514-irem-arcade-hits.json) |
 | Irem Collection Volume 1+2 | 330440 | [330440-irem-collection-volume-1-2.json](./330440-irem-collection-volume-1-2.json) |
 | Irem Collection: Volume 1 | 252192 | [252192-irem-collection-volume-1.json](./252192-irem-collection-volume-1.json) |
-| Irem Collection: Volume 2 | 321846 | [321846-irem-collection-volume-2.json](./321846-irem-collection-volume-2.json) |
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irena: Genesis Metal Fury | 142750 | [142750-irena-genesis-metal-fury.json](./142750-irena-genesis-metal-fury.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
@@ -7513,7 +7507,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Only Gets Worse | 261015 | [261015-it-only-gets-worse.json](./261015-it-only-gets-worse.json) |
 | It Paints Me | 283531 | [283531-it-paints-me.json](./283531-it-paints-me.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
-| It Reaches | 373840 | [373840-it-reaches.json](./373840-it-reaches.json) |
 | It Returned to the Desert | 223796 | [223796-it-returned-to-the-desert.json](./223796-it-returned-to-the-desert.json) |
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
 | IT Simulator | 193080 | [193080-it-simulator.json](./193080-it-simulator.json) |
