@@ -4157,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End War RTS | 105711 | [105711-end-war-rts.json](./105711-end-war-rts.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | End War RTS: Alien invasion | 174463 | [174463-end-war-rts-alien-invasion.json](./174463-end-war-rts-alien-invasion.json) |
+| End: Live Through It | 180332 | [180332-end-live-through-it.json](./180332-end-live-through-it.json) |
 | End's beginning | 310715 | [310715-ends-beginning.json](./310715-ends-beginning.json) |
 | End's Reach | 325331 | [325331-ends-reach.json](./325331-ends-reach.json) |
 | Endalor | 235959 | [235959-endalor.json](./235959-endalor.json) |
@@ -7797,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everglow | 190301 | [190301-everglow.json](./190301-everglow.json) |
 | Everglyph Trials | 317109 | [317109-everglyph-trials.json](./317109-everglyph-trials.json) |
 | Evergreen | 142995 | [142995-evergreen.json](./142995-evergreen.json) |
+| Evergreen | 180316 | [180316-evergreen.json](./180316-evergreen.json) |
 | Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
 | Evergreen Avenue | 63578 | [63578-evergreen-avenue.json](./63578-evergreen-avenue.json) |
 | Evergreen Blues | 123794 | [123794-evergreen-blues.json](./123794-evergreen-blues.json) |
