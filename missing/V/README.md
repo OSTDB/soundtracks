@@ -3162,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Ties Isekaijoucho Träumerei | 376085 | [376085-virtual-ties-isekaijoucho-traumerei.json](./376085-virtual-ties-isekaijoucho-traumerei.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
 | Virtual Town | 151906 | [151906-virtual-town.json](./151906-virtual-town.json) |
+| Virtual Training Ship | 421079 | [421079-virtual-training-ship.json](./421079-virtual-training-ship.json) |
 | Virtual Vacation Zone | 165167 | [165167-virtual-vacation-zone.json](./165167-virtual-vacation-zone.json) |
 | Virtual Valerie | 280645 | [280645-virtual-valerie.json](./280645-virtual-valerie.json) |
 | Virtual Valerie 2 | 280646 | [280646-virtual-valerie-2.json](./280646-virtual-valerie-2.json) |
@@ -4686,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom in the Night Sky | 27527 | [27527-vroom-in-the-night-sky.json](./27527-vroom-in-the-night-sky.json) |
 | Vroom Kaboom | 96847 | [96847-vroom-kaboom.json](./96847-vroom-kaboom.json) |
 | Vroom Racing | 230156 | [230156-vroom-racing.json](./230156-vroom-racing.json) |
+| Vroom Room | 421081 | [421081-vroom-room.json](./421081-vroom-room.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
 | Vroom Vroom Bundle! | 96360 | [96360-vroom-vroom-bundle.json](./96360-vroom-vroom-bundle.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
