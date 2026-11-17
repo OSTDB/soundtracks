@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
 | Rawmen | 106056 | [106056-rawmen.json](./106056-rawmen.json) |
 | Rawmen: Sakura Gusoku Cosmetic Set | 370316 | [370316-rawmen-sakura-gusoku-cosmetic-set.json](./370316-rawmen-sakura-gusoku-cosmetic-set.json) |
+| Rawr | 418182 | [418182-rawr.json](./418182-rawr.json) |
 | Rawr-Off | 125088 | [125088-rawr-off.json](./125088-rawr-off.json) |
 | RAWR: Little Hungry Dragon | 319860 | [319860-rawr-little-hungry-dragon.json](./319860-rawr-little-hungry-dragon.json) |
 | Rawring Candies | 359359 | [359359-rawring-candies.json](./359359-rawring-candies.json) |
@@ -14142,6 +14143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runabout 3: Neo Age | 43599 | [43599-runabout-3-neo-age.json](./43599-runabout-3-neo-age.json) |
 | Runabout 3D: Drive Impossible | 64850 | [64850-runabout-3d-drive-impossible.json](./64850-runabout-3d-drive-impossible.json) |
 | Runai | 368613 | [368613-runai.json](./368613-runai.json) |
+| Runan Ritual | 418151 | [418151-runan-ritual.json](./418151-runan-ritual.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
 | Runaway | 40419 | [40419-runaway.json](./40419-runaway.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
