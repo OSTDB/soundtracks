@@ -16622,7 +16622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobius Evolution | 198574 | [198574-mobius-evolution.json](./198574-mobius-evolution.json) |
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
 | Mobius Final Fantasy: Warrior of Despair | 259336 | [259336-mobius-final-fantasy-warrior-of-despair.json](./259336-mobius-final-fantasy-warrior-of-despair.json) |
-| Möbius Front '83 | 140436 | [140436-mobius-front-83.json](./140436-mobius-front-83.json) |
 | Möbius Link | 400076 | [400076-mobius-link.json](./400076-mobius-link.json) |
 | Möbius Link 3D | 400075 | [400075-mobius-link-3d.json](./400075-mobius-link-3d.json) |
 | Mobius Red Zone | 266350 | [266350-mobius-red-zone.json](./266350-mobius-red-zone.json) |
