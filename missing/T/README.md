@@ -8155,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citadel Must Hold | 421801 | [421801-the-citadel-must-hold.json](./421801-the-citadel-must-hold.json) |
 | The Citadel of Chaos | 71974 | [71974-the-citadel-of-chaos.json](./71974-the-citadel-of-chaos.json) |
 | The Citadel of Sinners | 271810 | [271810-the-citadel-of-sinners.json](./271810-the-citadel-of-sinners.json) |
+| The Citizen | 183630 | [183630-the-citizen.json](./183630-the-citizen.json) |
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The Citizen Part II | 214850 | [214850-the-citizen-part-ii.json](./214850-the-citizen-part-ii.json) |
@@ -16964,6 +16965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince of Landis | 178791 | [178791-the-prince-of-landis.json](./178791-the-prince-of-landis.json) |
 | The Prince of Tennis: Doki Doki Survival - Eternal Passion! Tie Break Game | 395102 | [395102-the-prince-of-tennis-doki-doki-survival-eternal-passion-tie-break-game.json](./395102-the-prince-of-tennis-doki-doki-survival-eternal-passion-tie-break-game.json) |
 | The Prince of Tennis: Sweet School Festival 0-40 and more… | 395097 | [395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json](./395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json) |
+| The Prince's Heart | 185167 | [185167-the-princes-heart.json](./185167-the-princes-heart.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess Adventure | 102477 | [102477-the-princess-adventure.json](./102477-the-princess-adventure.json) |
 | The Princess and The Frog | 172423 | [172423-the-princess-and-the-frog.json](./172423-the-princess-and-the-frog.json) |
@@ -26822,15 +26824,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
 | Tkium Underground | 225181 | [225181-tkium-underground.json](./225181-tkium-underground.json) |
 | TKKG: Alarm in der Geisterbahn | 182384 | [182384-tkkg-alarm-in-der-geisterbahn.json](./182384-tkkg-alarm-in-der-geisterbahn.json) |
+| TKKG: Das Unheimliche Zimmer | 182419 | [182419-tkkg-das-unheimliche-zimmer.json](./182419-tkkg-das-unheimliche-zimmer.json) |
 | TKKG: Deadly Chocolate | 200658 | [200658-tkkg-deadly-chocolate.json](./200658-tkkg-deadly-chocolate.json) |
 | TKKG: Der Fälscherbande auf der Spur | 152034 | [152034-tkkg-der-falscherbande-auf-der-spur.json](./152034-tkkg-der-falscherbande-auf-der-spur.json) |
 | TKKG: Die Feuerprobe | 120853 | [120853-tkkg-die-feuerprobe.json](./120853-tkkg-die-feuerprobe.json) |
+| TKKG: Die Feuerprobe | 182420 | [182420-tkkg-die-feuerprobe.json](./182420-tkkg-die-feuerprobe.json) |
+| TKKG: Gefährliche Ferien | 182417 | [182417-tkkg-gefahrliche-ferien.json](./182417-tkkg-gefahrliche-ferien.json) |
 | TKKG: Jennifer is Missing | 206218 | [206218-tkkg-jennifer-is-missing.json](./206218-tkkg-jennifer-is-missing.json) |
 | TKKG: Mystery of the Mayan Treasure | 206216 | [206216-tkkg-mystery-of-the-mayan-treasure.json](./206216-tkkg-mystery-of-the-mayan-treasure.json) |
 | TKKG: The Betrayal | 206217 | [206217-tkkg-the-betrayal.json](./206217-tkkg-the-betrayal.json) |
+| TKKG: Verfolgt! | 182418 | [182418-tkkg-verfolgt.json](./182418-tkkg-verfolgt.json) |
 | TKKG: Verrat an TKKG | 150019 | [150019-tkkg-verrat-an-tkkg.json](./150019-tkkg-verrat-an-tkkg.json) |
 | TKKG: Voodoozauber | 165158 | [165158-tkkg-voodoozauber.json](./165158-tkkg-voodoozauber.json) |
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
+| TKKG: Zelle 13 | 182416 | [182416-tkkg-zelle-13.json](./182416-tkkg-zelle-13.json) |
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
 | TKO | 78914 | [78914-tko.json](./78914-tko.json) |
 | TKO Super Championship Boxing | 42440 | [42440-tko-super-championship-boxing.json](./42440-tko-super-championship-boxing.json) |
@@ -33396,6 +33403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Rise of the Dark Spark | 192904 | [192904-transformers-rise-of-the-dark-spark.json](./192904-transformers-rise-of-the-dark-spark.json) |
 | Transformers: Robots in Disguise | 70990 | [70990-transformers-robots-in-disguise.json](./70990-transformers-robots-in-disguise.json) |
 | Transformers: Shadows Rising | 125822 | [125822-transformers-shadows-rising.json](./125822-transformers-shadows-rising.json) |
+| Transformers: Tactical Arena | 182422 | [182422-transformers-tactical-arena.json](./182422-transformers-tactical-arena.json) |
 | Transformers: The Battle to Save the Earth | 8016 | [8016-transformers-the-battle-to-save-the-earth.json](./8016-transformers-the-battle-to-save-the-earth.json) |
 | Transformers: The Game | 200810 | [200810-transformers-the-game.json](./200810-transformers-the-game.json) |
 | Transformers: The Headmasters | 8017 | [8017-transformers-the-headmasters.json](./8017-transformers-the-headmasters.json) |
