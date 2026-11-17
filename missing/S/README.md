@@ -5973,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
+| Sel Feena | 38602 | [38602-sel-feena.json](./38602-sel-feena.json) |
 | Sel Mounta: Siege the Demon Castle | 259732 | [259732-sel-mounta-siege-the-demon-castle.json](./259732-sel-mounta-siege-the-demon-castle.json) |
 | Sel Quinta: The Six City Quest | 192239 | [192239-sel-quinta-the-six-city-quest.json](./192239-sel-quinta-the-six-city-quest.json) |
 | Selaco | 145828 | [145828-selaco.json](./145828-selaco.json) |
@@ -25996,6 +25997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
+| Sprint One | 39908 | [39908-sprint-one.json](./39908-sprint-one.json) |
 | Sprint Racer | 164098 | [164098-sprint-racer.json](./164098-sprint-racer.json) |
 | Sprint RPG | 119430 | [119430-sprint-rpg.json](./119430-sprint-rpg.json) |
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
@@ -33031,6 +33033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubZero | 373212 | [373212-subzero.json](./373212-subzero.json) |
 | Subzero Tides | 275712 | [275712-subzero-tides.json](./275712-subzero-tides.json) |
 | Success in Progress | 346679 | [346679-success-in-progress.json](./346679-success-in-progress.json) |
+| Success Joe | 39909 | [39909-success-joe.json](./39909-success-joe.json) |
 | Success Story | 70893 | [70893-success-story.json](./70893-success-story.json) |
 | Successful business | 292211 | [292211-successful-business.json](./292211-successful-business.json) |
 | Successfully Learning English: Year 2 | 85397 | [85397-successfully-learning-english-year-2.json](./85397-successfully-learning-english-year-2.json) |
@@ -34718,6 +34721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
 | Super BurgerTime | 77876 | [77876-super-burgertime.json](./77876-super-burgertime.json) |
+| Super Burnout | 40824 | [40824-super-burnout.json](./40824-super-burnout.json) |
 | Super Bust-A-Move | 248692 | [248692-super-bust-a-move.json](./248692-super-bust-a-move.json) |
 | Super Bust-A-Move | 6618 | [6618-super-bust-a-move.json](./6618-super-bust-a-move.json) |
 | Super Bust-A-Move 2 | 43576 | [43576-super-bust-a-move-2.json](./43576-super-bust-a-move-2.json) |
@@ -37734,6 +37738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Trashforce | 59134 | [59134-super-trashforce.json](./59134-super-trashforce.json) |
 | Super Treasure Arena | 25931 | [25931-super-treasure-arena.json](./25931-super-treasure-arena.json) |
 | Super Trench Attack 2 | 34840 | [34840-super-trench-attack-2.json](./34840-super-trench-attack-2.json) |
+| Super Trio | 39917 | [39917-super-trio.json](./39917-super-trio.json) |
 | Super Tritorn | 47500 | [47500-super-tritorn.json](./47500-super-tritorn.json) |
 | Super Troll Islands | 42448 | [42448-super-troll-islands.json](./42448-super-troll-islands.json) |
 | Super Trolley | 68348 | [68348-super-trolley.json](./68348-super-trolley.json) |
@@ -37951,6 +37956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercrab Extravaganza | 226612 | [226612-supercrab-extravaganza.json](./226612-supercrab-extravaganza.json) |
 | Supercross | 44949 | [44949-supercross.json](./44949-supercross.json) |
 | Supercross 2000 | 3610 | [3610-supercross-2000.json](./3610-supercross-2000.json) |
+| SuperCross 3D | 40823 | [40823-supercross-3d.json](./40823-supercross-3d.json) |
 | Supercross Circuit | 44963 | [44963-supercross-circuit.json](./44963-supercross-circuit.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
@@ -39473,6 +39479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT God | 407444 | [407444-swat-god.json](./407444-swat-god.json) |
 | Swat Kats | 218946 | [218946-swat-kats.json](./218946-swat-kats.json) |
 | SWAT Kats: The Radical Squadron | 8068 | [8068-swat-kats-the-radical-squadron.json](./8068-swat-kats-the-radical-squadron.json) |
+| Swat Police | 39911 | [39911-swat-police.json](./39911-swat-police.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
 | Swat the Fly | 360925 | [360925-swat-the-fly.json](./360925-swat-the-fly.json) |
 | SWAT: Special Weapons and Tactics | 48392 | [48392-swat-special-weapons-and-tactics.json](./48392-swat-special-weapons-and-tactics.json) |
