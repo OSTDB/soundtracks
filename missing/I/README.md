@@ -7334,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolate | 192256 | [192256-isolate.json](./192256-isolate.json) |
 | Isolate Me! | 203589 | [203589-isolate-me.json](./203589-isolate-me.json) |
 | Isolated | 283144 | [283144-isolated.json](./283144-isolated.json) |
+| Isolated | 428923 | [428923-isolated.json](./428923-isolated.json) |
 | Isolated | 86116 | [86116-isolated.json](./86116-isolated.json) |
 | Isolated Hours | 381855 | [381855-isolated-hours.json](./381855-isolated-hours.json) |
 | Isolated Inhale | 383329 | [383329-isolated-inhale.json](./383329-isolated-inhale.json) |
