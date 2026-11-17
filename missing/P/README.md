@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriotic Pinball | 43847 | [43847-patriotic-pinball.json](./43847-patriotic-pinball.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | PatriotMemoirs | 412630 | [412630-patriotmemoirs.json](./412630-patriotmemoirs.json) |
+| PatriotQuest | 428245 | [428245-patriotquest.json](./428245-patriotquest.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
 | Patriots III Ballistic Busters | 37540 | [37540-patriots-iii-ballistic-busters.json](./37540-patriots-iii-ballistic-busters.json) |
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
@@ -8839,6 +8840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirouette | 128828 | [128828-pirouette.json](./128828-pirouette.json) |
 | Pisces | 109444 | [109444-pisces.json](./109444-pisces.json) |
 | Piscirazzi | 244144 | [244144-piscirazzi.json](./244144-piscirazzi.json) |
+| Piscis | 428242 | [428242-piscis.json](./428242-piscis.json) |
 | Piscis x Machina 4.44 You are Fish | 358446 | [358446-piscis-x-machina-4-44-you-are-fish.json](./358446-piscis-x-machina-4-44-you-are-fish.json) |
 | Piske & Usagi's Short Trip | 263570 | [263570-piske-and-usagis-short-trip.json](./263570-piske-and-usagis-short-trip.json) |
 | Piso 13 | 419402 | [419402-piso-13.json](./419402-piso-13.json) |
@@ -12260,6 +12262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
 | Pokémon Azure Horizons | 252922 | [252922-pokemon-azure-horizons.json](./252922-pokemon-azure-horizons.json) |
 | Pokemon Azure Platinum | 361670 | [361670-pokemon-azure-platinum.json](./361670-pokemon-azure-platinum.json) |
+| Pokémon Banished Platinum | 428240 | [428240-pokemon-banished-platinum.json](./428240-pokemon-banished-platinum.json) |
 | Pokémon Bank | 57344 | [57344-pokemon-bank.json](./57344-pokemon-bank.json) |
 | Pokémon Battle Card e+ Emerald | 355881 | [355881-pokemon-battle-card-e-emerald.json](./355881-pokemon-battle-card-e-emerald.json) |
 | Pokémon Battle Card e+ Emerald: 19-A001 - Karate-ou Kousei | 355724 | [355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json](./355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json) |
@@ -12557,6 +12560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Charged Red | 317477 | [317477-pokemon-charged-red.json](./317477-pokemon-charged-red.json) |
 | Pokémon Chasm Crosser | 55011 | [55011-pokemon-chasm-crosser.json](./55011-pokemon-chasm-crosser.json) |
 | Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
+| Pokémon Cinnabar Sword | 428239 | [428239-pokemon-cinnabar-sword.json](./428239-pokemon-cinnabar-sword.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
 | Pokémon Clockwork | 142918 | [142918-pokemon-clockwork.json](./142918-pokemon-clockwork.json) |
 | Pokémon Clover | 129810 | [129810-pokemon-clover.json](./129810-pokemon-clover.json) |
