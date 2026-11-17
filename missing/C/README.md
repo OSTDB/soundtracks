@@ -6739,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Motocross 2001 featuring Ricky Carmichael | 292793 | [292793-championship-motocross-2001-featuring-ricky-carmichael.json](./292793-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Motocross featuring Ricky Carmichael | 44830 | [44830-championship-motocross-featuring-ricky-carmichael.json](./44830-championship-motocross-featuring-ricky-carmichael.json) |
+| Championship Pony | 67583 | [67583-championship-pony.json](./67583-championship-pony.json) |
 | Championship Pool | 307111 | [307111-championship-pool.json](./307111-championship-pool.json) |
 | Championship Pool | 307113 | [307113-championship-pool.json](./307113-championship-pool.json) |
 | Championship Pool | 4538 | [4538-championship-pool.json](./4538-championship-pool.json) |
@@ -8656,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Patience | 14002 | [14002-chinese-patience.json](./14002-chinese-patience.json) |
 | Chinese PigLoad | 385728 | [385728-chinese-pigload.json](./385728-chinese-pigload.json) |
 | Chinese Pope Door | 264677 | [264677-chinese-pope-door.json](./264677-chinese-pope-door.json) |
+| Chinese Professional Baseball League CPBL 17 | 69464 | [69464-chinese-professional-baseball-league-cpbl-17.json](./69464-chinese-professional-baseball-league-cpbl-17.json) |
 | Chinese Rail SIm | 235031 | [235031-chinese-rail-sim.json](./235031-chinese-rail-sim.json) |
 | Chinese SimpleLife | 236413 | [236413-chinese-simplelife.json](./236413-chinese-simplelife.json) |
 | Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
@@ -11960,6 +11962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Game | 369210 | [369210-clock-game.json](./369210-clock-game.json) |
 | Clock Mayhem | 414580 | [414580-clock-mayhem.json](./414580-clock-mayhem.json) |
 | Clock of Atonement | 240491 | [240491-clock-of-atonement.json](./240491-clock-of-atonement.json) |
+| Clock of Atonement | 69448 | [69448-clock-of-atonement.json](./69448-clock-of-atonement.json) |
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
 | Clock Out At 2 | 313173 | [313173-clock-out-at-2.json](./313173-clock-out-at-2.json) |
 | Clock Out!! | 370444 | [370444-clock-out.json](./370444-clock-out.json) |
@@ -12413,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Clubhouse Games Express: Family Favorites | 67714 | [67714-clubhouse-games-express-family-favorites.json](./67714-clubhouse-games-express-family-favorites.json) |
+| Clubhouse Games Express: Strategy Pack | 67582 | [67582-clubhouse-games-express-strategy-pack.json](./67582-clubhouse-games-express-strategy-pack.json) |
 | Clubhouse Games: 51 Worldwide Classics | 131961 | [131961-clubhouse-games-51-worldwide-classics.json](./131961-clubhouse-games-51-worldwide-classics.json) |
 | Clubhouse Sports | 94428 | [94428-clubhouse-sports.json](./94428-clubhouse-sports.json) |
 | ClubR: Online Car Parking Game | 199973 | [199973-clubr-online-car-parking-game.json](./199973-clubr-online-car-parking-game.json) |
@@ -17260,6 +17264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
 | Cosmic Family | 4772 | [4772-cosmic-family.json](./4772-cosmic-family.json) |
+| Cosmic Family: Learn Through Play | 67581 | [67581-cosmic-family-learn-through-play.json](./67581-cosmic-family-learn-through-play.json) |
 | Cosmic Fantasy 2 | 42003 | [42003-cosmic-fantasy-2.json](./42003-cosmic-fantasy-2.json) |
 | Cosmic Fantasy 3 | 332500 | [332500-cosmic-fantasy-3.json](./332500-cosmic-fantasy-3.json) |
 | Cosmic Fantasy 3: Bouken Shounen Rei | 73449 | [73449-cosmic-fantasy-3-bouken-shounen-rei.json](./73449-cosmic-fantasy-3-bouken-shounen-rei.json) |
@@ -21974,6 +21979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeTime | 110616 | [110616-cubetime.json](./110616-cubetime.json) |
 | Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
 | Cubetractor | 9811 | [9811-cubetractor.json](./9811-cubetractor.json) |
+| Cubetris - A Block Puzzle Tangram Game | 69446 | [69446-cubetris-a-block-puzzle-tangram-game.json](./69446-cubetris-a-block-puzzle-tangram-game.json) |
 | Cubettiny | 383651 | [383651-cubettiny.json](./383651-cubettiny.json) |
 | Cubeventure | 144865 | [144865-cubeventure.json](./144865-cubeventure.json) |
 | Cubeverse | 109397 | [109397-cubeverse.json](./109397-cubeverse.json) |
