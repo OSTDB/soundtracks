@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Your Own Murder Party | 36751 | [36751-make-your-own-murder-party.json](./36751-make-your-own-murder-party.json) |
 | Make Zombies Great Again | 99149 | [99149-make-zombies-great-again.json](./99149-make-zombies-great-again.json) |
 | Make-A-Chip | 56080 | [56080-make-a-chip.json](./56080-make-a-chip.json) |
+| Make-Up and Style | 80689 | [80689-make-up-and-style.json](./80689-make-up-and-style.json) |
 | Make-Up Touch 2 | 98831 | [98831-make-up-touch-2.json](./98831-make-up-touch-2.json) |
 | MakeBridge | 93438 | [93438-makebridge.json](./93438-makebridge.json) |
 | Maken Shao: Demon Sword | 43421 | [43421-maken-shao-demon-sword.json](./43421-maken-shao-demon-sword.json) |
