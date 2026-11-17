@@ -5730,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remoove | 67909 | [67909-remoove.json](./67909-remoove.json) |
 | Remoove 2 | 68862 | [68862-remoove-2.json](./68862-remoove-2.json) |
 | Remore: Infested Kingdom | 244947 | [244947-remore-infested-kingdom.json](./244947-remore-infested-kingdom.json) |
+| Remorfin | 424751 | [424751-remorfin.json](./424751-remorfin.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
 | Remorses | 235938 | [235938-remorses.json](./235938-remorses.json) |
@@ -6130,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rerodent | 311863 | [311863-rerodent.json](./311863-rerodent.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
+| Reroll or Die | 424668 | [424668-reroll-or-die.json](./424668-reroll-or-die.json) |
 | Reroll Routine | 389814 | [389814-reroll-routine.json](./389814-reroll-routine.json) |
 | Reroll: Back to the throne | 76329 | [76329-reroll-back-to-the-throne.json](./76329-reroll-back-to-the-throne.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
@@ -6510,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residual Wilds | 387049 | [387049-residual-wilds.json](./387049-residual-wilds.json) |
 | Residuality | 190772 | [190772-residuality.json](./190772-residuality.json) |
 | Residue | 16871 | [16871-residue.json](./16871-residue.json) |
+| Residue of the Lost | 424750 | [424750-residue-of-the-lost.json](./424750-residue-of-the-lost.json) |
 | Residue: Final Cut | 30250 | [30250-residue-final-cut.json](./30250-residue-final-cut.json) |
 | Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Residuum | 373820 | [373820-residuum.json](./373820-residuum.json) |
