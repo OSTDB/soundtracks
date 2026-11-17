@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T08:57:21.854Z",
-  "total_soundtracks": 3673,
+  "generated_at": "2026-11-17T09:06:46.644Z",
+  "total_soundtracks": 3682,
   "games": [
     {
       "igdb_id": 292844,
@@ -1197,6 +1197,20 @@
         {
           "album_name": "Agony (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/322KTHHaiM1VLqOxfSzQr6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 138768,
+      "game_name": "AGOS: A Game of Space",
+      "game_url": "https://ostdb.net/games/agos-a-game-of-space",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27317f6ef1986ca40eab40cc670",
+      "albums": [
+        {
+          "album_name": "AGOS: A Game of Space (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4f0KwpimC8ZiQKFuoVsUqT",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5025,6 +5039,20 @@
         {
           "album_name": "Bleeding Edge (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3KZW4dRXly7eniSQK2lYH7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 138812,
+      "game_name": "Blind Fate: Edo no Yami",
+      "game_url": "https://ostdb.net/games/blind-fate-edo-no-yami",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27391d96a1cae6f9a7e63592104",
+      "albums": [
+        {
+          "album_name": "Blind Fate Edo No Yami (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6wJ1DEM5Hso9Y70wpLUv0G",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21367,6 +21395,20 @@
       ]
     },
     {
+      "igdb_id": 137110,
+      "game_name": "Land of Screens",
+      "game_url": "https://ostdb.net/games/land-of-screens",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733405c818b044e304c393b074",
+      "albums": [
+        {
+          "album_name": "Land of Screens (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/21OBljMbBom5zjUMZtOFbH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 22362,
       "game_name": "Laser Disco Defenders",
       "game_url": "https://ostdb.net/games/laser-disco-defenders",
@@ -25036,6 +25078,20 @@
           "album_name": "Mirror's Edge Catalyst (EA Games Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2wy9EzWP9NuyVt4TSCz3qs",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 138025,
+      "game_name": "Misc. A Tiny Tale",
+      "game_url": "https://ostdb.net/games/misc-a-tiny-tale",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27307385c0f4458c6057fe31c13",
+      "albums": [
+        {
+          "album_name": "Misc. A Tiny Tale (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3RiLgzlMEf86N8PqGNUQ6Y",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -31119,6 +31175,20 @@
       ]
     },
     {
+      "igdb_id": 139875,
+      "game_name": "Reigns: Beyond",
+      "game_url": "https://ostdb.net/games/reigns-beyond",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b03dce81427b15a57954e507",
+      "albums": [
+        {
+          "album_name": "Reigns: Beyond (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ncIUq5uLC2ms2pakCp2ic",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 109742,
       "game_name": "Relicta",
       "game_url": "https://ostdb.net/games/relicta",
@@ -31687,6 +31757,20 @@
         {
           "album_name": "Revenge of the Savage Planet (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/02U6f9sP05MAkvKzoy8wQb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 139672,
+      "game_name": "Revita",
+      "game_url": "https://ostdb.net/games/revita",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a39522fd3c8d9f397b97074e",
+      "albums": [
+        {
+          "album_name": "Revita (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2g8d3OuEacKcrZeyJNvZnf",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37649,6 +37733,20 @@
       ]
     },
     {
+      "igdb_id": 137960,
+      "game_name": "Sumire",
+      "game_url": "https://ostdb.net/games/sumire",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735395561167d0395de58e4a84",
+      "albums": [
+        {
+          "album_name": "Sumire - Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/67uTY8dhnhl9iWqJoK8Cs0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 106435,
       "game_name": "Summer Catchers",
       "game_url": "https://ostdb.net/games/summer-catchers",
@@ -39849,6 +39947,20 @@
       ]
     },
     {
+      "igdb_id": 138874,
+      "game_name": "The Darkest Tales",
+      "game_url": "https://ostdb.net/games/the-darkest-tales",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bb17bd23dd206fac5a11af01",
+      "albums": [
+        {
+          "album_name": "The Darkest Tales (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/30RcUs1kqBjDxYato9hh7u",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 35283,
       "game_name": "The Darkside Detective",
       "game_url": "https://ostdb.net/games/the-darkside-detective",
@@ -40802,6 +40914,20 @@
           "album_name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 138389,
+      "game_name": "The Last Show of Mr. Chardish",
+      "game_url": "https://ostdb.net/games/the-last-show-of-mr-chardish",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738e6a775b7a40a20bfe76915e",
+      "albums": [
+        {
+          "album_name": "The Last Show of Mr. Chardish (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3loI8ppYF8FgZatvC6qsaE",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
