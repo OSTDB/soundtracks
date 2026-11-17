@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jaws Unleashed | 2632 | [2632-jaws-unleashed.json](./2632-jaws-unleashed.json) |
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
+| Jaws: The Computer Game | 71629 | [71629-jaws-the-computer-game.json](./71629-jaws-the-computer-game.json) |
 | Jaws: Ultimate Predator | 19931 | [19931-jaws-ultimate-predator.json](./19931-jaws-ultimate-predator.json) |
 | Jaws! | 220588 | [220588-jaws.json](./220588-jaws.json) |
 | Jaws! | 95495 | [95495-jaws.json](./95495-jaws.json) |
