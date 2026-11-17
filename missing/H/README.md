@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Rats: A Fever Dream | 319644 | [319644-half-rats-a-fever-dream.json](./319644-half-rats-a-fever-dream.json) |
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
 | Half-Rats: Redridge | 319651 | [319651-half-rats-redridge.json](./319651-half-rats-redridge.json) |
+| Halfblood: A Quest to Olympus | 421724 | [421724-halfblood-a-quest-to-olympus.json](./421724-halfblood-a-quest-to-olympus.json) |
 | Halfbrick Blast Off | 92332 | [92332-halfbrick-blast-off.json](./92332-halfbrick-blast-off.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfbrick Sports: Football | 336282 | [336282-halfbrick-sports-football.json](./336282-halfbrick-sports-football.json) |
