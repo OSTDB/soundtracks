@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Happy Place | 376114 | [376114-a-happy-place.json](./376114-a-happy-place.json) |
 | A Happy Summer of Loving You | 355838 | [355838-a-happy-summer-of-loving-you.json](./355838-a-happy-summer-of-loving-you.json) |
 | A Happy Valentine | 225237 | [225237-a-happy-valentine.json](./225237-a-happy-valentine.json) |
+| A Harder Day's Night! | 422932 | [422932-a-harder-days-night.json](./422932-a-harder-days-night.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
 | A Hat in Time: Deluxe Edition | 237862 | [237862-a-hat-in-time-deluxe-edition.json](./237862-a-hat-in-time-deluxe-edition.json) |
 | A Hat in Time: Nyakuza Metro | 117747 | [117747-a-hat-in-time-nyakuza-metro.json](./117747-a-hat-in-time-nyakuza-metro.json) |
@@ -5421,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Death: Dead-end road | 190750 | [190750-against-death-dead-end-road.json](./190750-against-death-dead-end-road.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against Great Darkness | 242364 | [242364-against-great-darkness.json](./242364-against-great-darkness.json) |
+| Against Heroes | 422939 | [422939-against-heroes.json](./422939-against-heroes.json) |
 | Against Humanity | 301687 | [301687-against-humanity.json](./301687-against-humanity.json) |
 | Against Light | 180187 | [180187-against-light.json](./180187-against-light.json) |
 | Against Rome | 25460 | [25460-against-rome.json](./25460-against-rome.json) |
@@ -9260,6 +9262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphys Neo | 268875 | [268875-alphys-neo.json](./268875-alphys-neo.json) |
 | Alpine | 302820 | [302820-alpine.json](./302820-alpine.json) |
 | Alpine | 374014 | [374014-alpine.json](./374014-alpine.json) |
+| Alpine | 422935 | [422935-alpine.json](./422935-alpine.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Ascent | 283440 | [283440-alpine-ascent.json](./283440-alpine-ascent.json) |
 | Alpine Crawler | 88732 | [88732-alpine-crawler.json](./88732-alpine-crawler.json) |
@@ -13350,6 +13353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apacies: Creatures of the Old West | 271662 | [271662-apacies-creatures-of-the-old-west.json](./271662-apacies-creatures-of-the-old-west.json) |
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
+| Aparadores de Abacaxis Anônimos | 422967 | [422967-aparadores-de-abacaxis-anonimos.json](./422967-aparadores-de-abacaxis-anonimos.json) |
 | Apart | 397487 | [397487-apart.json](./397487-apart.json) |
 | Apart | 415185 | [415185-apart.json](./415185-apart.json) |
 | Apart of Me | 233971 | [233971-apart-of-me.json](./233971-apart-of-me.json) |
@@ -20328,6 +20332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoBrawl: One World, One Winner | 292724 | [292724-autobrawl-one-world-one-winner.json](./292724-autobrawl-one-world-one-winner.json) |
 | AutoBulletSurvivor | 302874 | [302874-autobulletsurvivor.json](./302874-autobulletsurvivor.json) |
 | Autobus Park Sim | 280565 | [280565-autobus-park-sim.json](./280565-autobus-park-sim.json) |
+| Autobus: The Card Game | 422958 | [422958-autobus-the-card-game.json](./422958-autobus-the-card-game.json) |
 | Autocard: Your RPG Adventure | 381264 | [381264-autocard-your-rpg-adventure.json](./381264-autocard-your-rpg-adventure.json) |
 | Autochef | 319532 | [319532-autochef.json](./319532-autochef.json) |
 | AutoChess Moba | 219104 | [219104-autochess-moba.json](./219104-autochess-moba.json) |
