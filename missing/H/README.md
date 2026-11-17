@@ -11845,7 +11845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Spirit Valley | 412010 | [412010-horse-spirit-valley.json](./412010-horse-spirit-valley.json) |
 | Horse Stable: Herd Care Simulator | 203700 | [203700-horse-stable-herd-care-simulator.json](./203700-horse-stable-herd-care-simulator.json) |
 | Horse Store Simulator | 369809 | [369809-horse-store-simulator.json](./369809-horse-store-simulator.json) |
-| Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
 | Horse Tales: Emerald Valley Ranch - DLC Pack | 371935 | [371935-horse-tales-emerald-valley-ranch-dlc-pack.json](./371935-horse-tales-emerald-valley-ranch-dlc-pack.json) |
 | Horse Tales: Emerald Valley Ranch - The Arabian Horse Pack | 275148 | [275148-horse-tales-emerald-valley-ranch-the-arabian-horse-pack.json](./275148-horse-tales-emerald-valley-ranch-the-arabian-horse-pack.json) |
