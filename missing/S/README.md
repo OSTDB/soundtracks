@@ -8118,6 +8118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
 | Shakedown Rally | 287031 | [287031-shakedown-rally.json](./287031-shakedown-rally.json) |
+| Shaken but Not Stirred! | 57293 | [57293-shaken-but-not-stirred.json](./57293-shaken-but-not-stirred.json) |
 | Shakes & Fidget - The Adventure | 109953 | [109953-shakes-and-fidget-the-adventure.json](./109953-shakes-and-fidget-the-adventure.json) |
 | Shakes and Fidget | 18090 | [18090-shakes-and-fidget.json](./18090-shakes-and-fidget.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
@@ -11654,6 +11655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sightless | 205694 | [205694-sightless.json](./205694-sightless.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | Sightline | 371156 | [371156-sightline.json](./371156-sightline.json) |
+| SightLine: The Chair | 57279 | [57279-sightline-the-chair.json](./57279-sightline-the-chair.json) |
 | SightLineVR | 74763 | [74763-sightlinevr.json](./74763-sightlinevr.json) |
 | Sightseeing Puzzle: Echter Puzzlespass für Unterwegs | 252679 | [252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json](./252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | SightWords Pro | 89157 | [89157-sightwords-pro.json](./89157-sightwords-pro.json) |
@@ -13809,6 +13811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jump International v3 | 186727 | [186727-ski-jump-international-v3.json](./186727-ski-jump-international-v3.json) |
 | Ski Jump VR | 40867 | [40867-ski-jump-vr.json](./40867-ski-jump-vr.json) |
 | Ski Jumping 2004 | 93091 | [93091-ski-jumping-2004.json](./93091-ski-jumping-2004.json) |
+| Ski Jumping Pairs Reloaded | 57258 | [57258-ski-jumping-pairs-reloaded.json](./57258-ski-jumping-pairs-reloaded.json) |
 | Ski Jumping Pro | 112905 | [112905-ski-jumping-pro.json](./112905-ski-jumping-pro.json) |
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
@@ -15453,6 +15456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Farmer 2 | 99345 | [99345-slime-farmer-2.json](./99345-slime-farmer-2.json) |
 | Slime Feet | 323031 | [323031-slime-feet.json](./323031-slime-feet.json) |
 | Slime Flight: VIP | 95826 | [95826-slime-flight-vip.json](./95826-slime-flight-vip.json) |
+| Slime Forest | 58947 | [58947-slime-forest.json](./58947-slime-forest.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
 | Slime Girl Smoothies | 153032 | [153032-slime-girl-smoothies.json](./153032-slime-girl-smoothies.json) |
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
@@ -28519,6 +28523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starri | 247839 | [247839-starri.json](./247839-starri.json) |
+| Starrows | 57244 | [57244-starrows.json](./57244-starrows.json) |
 | StarRunner | 279825 | [279825-starrunner.json](./279825-starrunner.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Fly | 237585 | [237585-starry-fly.json](./237585-starry-fly.json) |
@@ -33502,6 +33507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suguru Nature | 147617 | [147617-suguru-nature.json](./147617-suguru-nature.json) |
 | Sugy the Christmas elf | 83206 | [83206-sugy-the-christmas-elf.json](./83206-sugy-the-christmas-elf.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
+| Suho Jeonsa | 57285 | [57285-suho-jeonsa.json](./57285-suho-jeonsa.json) |
 | Suhoshin | 169679 | [169679-suhoshin.json](./169679-suhoshin.json) |
 | Sui Generis | 14175 | [14175-sui-generis.json](./14175-sui-generis.json) |
 | Sui Mario | 268353 | [268353-sui-mario.json](./268353-sui-mario.json) |
@@ -37159,6 +37165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slam | 46794 | [46794-super-slam.json](./46794-super-slam.json) |
 | Super Slam Dunk | 42452 | [42452-super-slam-dunk.json](./42452-super-slam-dunk.json) |
 | Super Slam with the Super Duper Sumos | 396073 | [396073-super-slam-with-the-super-duper-sumos.json](./396073-super-slam-with-the-super-duper-sumos.json) |
+| Super Slam: POGS Battle | 57248 | [57248-super-slam-pogs-battle.json](./57248-super-slam-pogs-battle.json) |
 | Super Slap Shot | 94561 | [94561-super-slap-shot.json](./94561-super-slap-shot.json) |
 | Super Slapshot | 42451 | [42451-super-slapshot.json](./42451-super-slapshot.json) |
 | Super Sled Acer | 421227 | [421227-super-sled-acer.json](./421227-super-sled-acer.json) |
@@ -38415,6 +38422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Commander: Forged Alliance | 888 | [888-supreme-commander-forged-alliance.json](./888-supreme-commander-forged-alliance.json) |
 | Supreme Commander: Gold Edition | 53689 | [53689-supreme-commander-gold-edition.json](./53689-supreme-commander-gold-edition.json) |
 | Supreme Courtship | 115296 | [115296-supreme-courtship.json](./115296-supreme-courtship.json) |
+| Supreme Destiny | 58944 | [58944-supreme-destiny.json](./58944-supreme-destiny.json) |
 | Supreme Duelist Stickman | 198310 | [198310-supreme-duelist-stickman.json](./198310-supreme-duelist-stickman.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
