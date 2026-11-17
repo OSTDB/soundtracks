@@ -12946,6 +12946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How They Found Silence | 169987 | [169987-how-they-found-silence.json](./169987-how-they-found-silence.json) |
 | How to Bathe Your Cat | 173221 | [173221-how-to-bathe-your-cat.json](./173221-how-to-bathe-your-cat.json) |
 | How to Bathe Your Cat: Drawing | 191170 | [191170-how-to-bathe-your-cat-drawing.json](./191170-how-to-bathe-your-cat-drawing.json) |
+| How to Bathe Your Cat: Impossible Mission | 187410 | [187410-how-to-bathe-your-cat-impossible-mission.json](./187410-how-to-bathe-your-cat-impossible-mission.json) |
 | How to Be a Complete Bastard | 13882 | [13882-how-to-be-a-complete-bastard.json](./13882-how-to-be-a-complete-bastard.json) |
 | How to be a Hero | 38925 | [38925-how-to-be-a-hero.json](./38925-how-to-be-a-hero.json) |
 | How to Be a Real Dude | 117392 | [117392-how-to-be-a-real-dude.json](./117392-how-to-be-a-real-dude.json) |
