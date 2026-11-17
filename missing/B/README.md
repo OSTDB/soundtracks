@@ -4350,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Killer Bismarck 3D | 106215 | [106215-battle-killer-bismarck-3d.json](./106215-battle-killer-bismarck-3d.json) |
 | Battle Kingdom | 419147 | [419147-battle-kingdom.json](./419147-battle-kingdom.json) |
 | Battle Kitty | 322249 | [322249-battle-kitty.json](./322249-battle-kitty.json) |
+| Battle Knife | 96970 | [96970-battle-knife.json](./96970-battle-knife.json) |
 | Battle Knights | 32325 | [32325-battle-knights.json](./32325-battle-knights.json) |
 | Battle Konchuuden | 242867 | [242867-battle-konchuuden.json](./242867-battle-konchuuden.json) |
 | Battle Lane Vol. 5 | 40028 | [40028-battle-lane-vol-5.json](./40028-battle-lane-vol-5.json) |
@@ -12299,6 +12300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Run | 416884 | [416884-blocky-run.json](./416884-blocky-run.json) |
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
 | Blocky Snake | 195558 | [195558-blocky-snake.json](./195558-blocky-snake.json) |
+| Blocky Snake | 96999 | [96999-blocky-snake.json](./96999-blocky-snake.json) |
 | Blocky Snowboarding | 82237 | [82237-blocky-snowboarding.json](./82237-blocky-snowboarding.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
 | Blocky Space Puzzle | 106733 | [106733-blocky-space-puzzle.json](./106733-blocky-space-puzzle.json) |
