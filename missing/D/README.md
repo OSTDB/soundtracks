@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Black Cat | 257823 | [257823-dark-tales-edgar-allan-poes-the-black-cat.json](./257823-dark-tales-edgar-allan-poes-the-black-cat.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Devil in the Belfry | 153506 | [153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json](./153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json) |
+| Dark Tales: Edgar Allan Poe's The Devil in the Belfry - Collector's Edition | 153476 | [153476-dark-tales-edgar-allan-poes-the-devil-in-the-belfry-collectors-edition.json](./153476-dark-tales-edgar-allan-poes-the-devil-in-the-belfry-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Fall of the House of Usher | 140123 | [140123-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher.json](./140123-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher.json) |
 | Dark Tales: Edgar Allan Poe's The Fall of the House of Usher - Collector's Edition | 81158 | [81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json](./81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Gold Bug | 140124 | [140124-dark-tales-edgar-allan-poes-the-gold-bug.json](./140124-dark-tales-edgar-allan-poes-the-gold-bug.json) |
@@ -11733,6 +11734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Tour: Ancient Greece | 133962 | [133962-discovery-tour-ancient-greece.json](./133962-discovery-tour-ancient-greece.json) |
 | Discovery Tour: Viking Age | 152231 | [152231-discovery-tour-viking-age.json](./152231-discovery-tour-viking-age.json) |
 | Discovery Yard Investigation | 149368 | [149368-discovery-yard-investigation.json](./149368-discovery-yard-investigation.json) |
+| Discovery Yard Police | 153480 | [153480-discovery-yard-police.json](./153480-discovery-yard-police.json) |
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
 | Discovery: Shark Strike | 95720 | [95720-discovery-shark-strike.json](./95720-discovery-shark-strike.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
@@ -18636,7 +18638,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Adventure | 173177 | [173177-dreams-of-adventure.json](./173177-dreams-of-adventure.json) |
 | Dreams of Amelia | 344881 | [344881-dreams-of-amelia.json](./344881-dreams-of-amelia.json) |
 | Dreams of an Exile | 148306 | [148306-dreams-of-an-exile.json](./148306-dreams-of-an-exile.json) |
-| Dreams of Another | 331205 | [331205-dreams-of-another.json](./331205-dreams-of-another.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
 | Dreams of Desire | 140110 | [140110-dreams-of-desire.json](./140110-dreams-of-desire.json) |
