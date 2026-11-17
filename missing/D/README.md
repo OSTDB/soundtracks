@@ -9966,6 +9966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diceheart | 237034 | [237034-diceheart.json](./237034-diceheart.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicement | 387268 | [387268-dicement.json](./387268-dicement.json) |
+| Diceminoes | 422281 | [422281-diceminoes.json](./422281-diceminoes.json) |
 | Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
 | Diceomancer | 267805 | [267805-diceomancer.json](./267805-diceomancer.json) |
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
@@ -17336,6 +17337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King - Mobile Remaster | 313424 | [313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json](./313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json) |
+| Dragon Quest VIII: Recompiled | 422297 | [422297-dragon-quest-viii-recompiled.json](./422297-dragon-quest-viii-recompiled.json) |
 | Dragon Quest VR | 96136 | [96136-dragon-quest-vr.json](./96136-dragon-quest-vr.json) |
 | Dragon Quest Walk | 119215 | [119215-dragon-quest-walk.json](./119215-dragon-quest-walk.json) |
 | Dragon Quest Wars | 1825 | [1825-dragon-quest-wars.json](./1825-dragon-quest-wars.json) |
@@ -20998,6 +21000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Quest | 199924 | [199924-dungeon-quest.json](./199924-dungeon-quest.json) |
 | Dungeon Quest | 225579 | [225579-dungeon-quest.json](./225579-dungeon-quest.json) |
 | Dungeon Quest | 2880 | [2880-dungeon-quest.json](./2880-dungeon-quest.json) |
+| Dungeon Quest | 422283 | [422283-dungeon-quest.json](./422283-dungeon-quest.json) |
 | Dungeon Raid | 22459 | [22459-dungeon-raid.json](./22459-dungeon-raid.json) |
 | Dungeon Raid | 350475 | [350475-dungeon-raid.json](./350475-dungeon-raid.json) |
 | Dungeon Raid: Zero Floor | 365888 | [365888-dungeon-raid-zero-floor.json](./365888-dungeon-raid-zero-floor.json) |
@@ -22275,6 +22278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopia 3: Re-Birth of Anarchy Addon | 273742 | [273742-dystopia-3-re-birth-of-anarchy-addon.json](./273742-dystopia-3-re-birth-of-anarchy-addon.json) |
 | Dystopia Derby | 366558 | [366558-dystopia-derby.json](./366558-dystopia-derby.json) |
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
+| Dystopia vs. Distortion | 422288 | [422288-dystopia-vs-distortion.json](./422288-dystopia-vs-distortion.json) |
 | Dystopia: Contest of Heroes | 165361 | [165361-dystopia-contest-of-heroes.json](./165361-dystopia-contest-of-heroes.json) |
 | Dystopian Debugger | 239689 | [239689-dystopian-debugger.json](./239689-dystopian-debugger.json) |
 | Dystopian Drift | 125664 | [125664-dystopian-drift.json](./125664-dystopian-drift.json) |
