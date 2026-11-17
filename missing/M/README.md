@@ -10105,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorion | 273824 | [273824-memorion.json](./273824-memorion.json) |
 | Memorise | 14782 | [14782-memorise.json](./14782-memorise.json) |
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
+| Memorise'n'run | 115105 | [115105-memorisenrun.json](./115105-memorisenrun.json) |
 | Memorize | 294091 | [294091-memorize.json](./294091-memorize.json) |
 | Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
 | Memorize 3 | 100753 | [100753-memorize-3.json](./100753-memorize-3.json) |
@@ -10253,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Traces: Japan | 199289 | [199289-memory-traces-japan.json](./199289-memory-traces-japan.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | Memory Trainer | 105238 | [105238-memory-trainer.json](./105238-memory-trainer.json) |
+| Memory Trees: Forget Me Not | 116480 | [116480-memory-trees-forget-me-not.json](./116480-memory-trees-forget-me-not.json) |
 | Memory Visiting | 285879 | [285879-memory-visiting.json](./285879-memory-visiting.json) |
 | Memory Wastes | 421376 | [421376-memory-wastes.json](./421376-memory-wastes.json) |
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
@@ -11305,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Storm: Collector's Edition | 282941 | [282941-metal-storm-collectors-edition.json](./282941-metal-storm-collectors-edition.json) |
 | Metal Strike | 166928 | [166928-metal-strike.json](./166928-metal-strike.json) |
 | Metal Strike | 367343 | [367343-metal-strike.json](./367343-metal-strike.json) |
+| Metal Suit Warrior VR | 116506 | [116506-metal-suit-warrior-vr.json](./116506-metal-suit-warrior-vr.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
 | Metal Surge | 369218 | [369218-metal-surge.json](./369218-metal-surge.json) |
 | Metal Survivor | 224520 | [224520-metal-survivor.json](./224520-metal-survivor.json) |
@@ -21962,6 +21965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Muncher Mania Classic | 146445 | [146445-muncher-mania-classic.json](./146445-muncher-mania-classic.json) |
 | Munches | 310871 | [310871-munches.json](./310871-munches.json) |
+| Munchie Match | 116474 | [116474-munchie-match.json](./116474-munchie-match.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
 | Munchies | 195973 | [195973-munchies.json](./195973-munchies.json) |
 | Munchies! | 78261 | [78261-munchies.json](./78261-munchies.json) |
