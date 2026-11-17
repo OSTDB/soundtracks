@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle mania | 232290 | [232290-farkle-mania.json](./232290-farkle-mania.json) |
 | Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
+| Farkle: Tavern Dice | 427133 | [427133-farkle-tavern-dice.json](./427133-farkle-tavern-dice.json) |
 | Farland Odyssey | 70142 | [70142-farland-odyssey.json](./70142-farland-odyssey.json) |
 | Farland Odyssey II: Kun ni Okuru Serenade | 61965 | [61965-farland-odyssey-ii-kun-ni-okuru-serenade.json](./61965-farland-odyssey-ii-kun-ni-okuru-serenade.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
 | Farming Simulator 23: Nintendo Switch Edition | 239447 | [239447-farming-simulator-23-nintendo-switch-edition.json](./239447-farming-simulator-23-nintendo-switch-edition.json) |
 | Farming Simulator 25 | 306822 | [306822-farming-simulator-25.json](./306822-farming-simulator-25.json) |
+| Farming Simulator 25: Beans & Alpacas Edition | 427126 | [427126-farming-simulator-25-beans-and-alpacas-edition.json](./427126-farming-simulator-25-beans-and-alpacas-edition.json) |
 | Farming Simulator 25: Highlands Fishing Edition | 352917 | [352917-farming-simulator-25-highlands-fishing-edition.json](./352917-farming-simulator-25-highlands-fishing-edition.json) |
 | Farming Simulator 25: Highlands Fishing Expansion | 352887 | [352887-farming-simulator-25-highlands-fishing-expansion.json](./352887-farming-simulator-25-highlands-fishing-expansion.json) |
 | Farming Simulator 25: JCB - WFT | 378100 | [378100-farming-simulator-25-jcb-wft.json](./378100-farming-simulator-25-jcb-wft.json) |
