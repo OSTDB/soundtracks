@@ -11688,6 +11688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliché: Critical Change | 113829 | [113829-cliche-critical-change.json](./113829-cliche-critical-change.json) |
 | Click & Click | 118633 | [118633-click-and-click.json](./118633-click-and-click.json) |
 | Click & Cum | 236100 | [236100-click-and-cum.json](./236100-click-and-cum.json) |
+| Click & Loot | 424707 | [424707-click-and-loot.json](./424707-click-and-loot.json) |
 | Click & Mine | 397443 | [397443-click-and-mine.json](./397443-click-and-mine.json) |
 | Click Adventure | 364144 | [364144-click-adventure.json](./364144-click-adventure.json) |
 | Click and Collect | 199349 | [199349-click-and-collect.json](./199349-click-and-collect.json) |
@@ -13964,6 +13965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color-A-Cube: Flora Pack | 400738 | [400738-color-a-cube-flora-pack.json](./400738-color-a-cube-flora-pack.json) |
 | Color-A-Cube: Horror Pack | 371281 | [371281-color-a-cube-horror-pack.json](./371281-color-a-cube-horror-pack.json) |
 | Color-A-Cube: On The Move Pack #1 | 371287 | [371287-color-a-cube-on-the-move-pack-1.json](./371287-color-a-cube-on-the-move-pack-1.json) |
+| Color-A-Cube: Pirate Pack | 424739 | [424739-color-a-cube-pirate-pack.json](./424739-color-a-cube-pirate-pack.json) |
 | Color-A-Cube: Scifi Pack #1 | 371290 | [371290-color-a-cube-scifi-pack-1.json](./371290-color-a-cube-scifi-pack-1.json) |
 | Color-A-Cube: Scifi Pack #2 | 371291 | [371291-color-a-cube-scifi-pack-2.json](./371291-color-a-cube-scifi-pack-2.json) |
 | Color.Motif Deluxe | 126198 | [126198-color-motif-deluxe.json](./126198-color-motif-deluxe.json) |
@@ -17828,6 +17830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countermark Saga: League Gods | 392316 | [392316-countermark-saga-league-gods.json](./392316-countermark-saga-league-gods.json) |
 | Countermark Saga: The Tale of Fariz | 326209 | [326209-countermark-saga-the-tale-of-fariz.json](./326209-countermark-saga-the-tale-of-fariz.json) |
 | Countermeasure | 12306 | [12306-countermeasure.json](./12306-countermeasure.json) |
+| Countermeasure 2 | 424667 | [424667-countermeasure-2.json](./424667-countermeasure-2.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
 | Counterpick Labs | 260744 | [260744-counterpick-labs.json](./260744-counterpick-labs.json) |
 | Counterrealstic Syndrome γ | 130588 | [130588-counterrealstic-syndrome.json](./130588-counterrealstic-syndrome.json) |
@@ -20276,6 +20279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critters Breakout | 373355 | [373355-critters-breakout.json](./373355-critters-breakout.json) |
 | Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
+| Critters vs. Predators | 424721 | [424721-critters-vs-predators.json](./424721-critters-vs-predators.json) |
 | Critters: Cute Cubs in a Cruel World | 75037 | [75037-critters-cute-cubs-in-a-cruel-world.json](./75037-critters-cute-cubs-in-a-cruel-world.json) |
 | Critterville Goes Bankrupt | 378412 | [378412-critterville-goes-bankrupt.json](./378412-critterville-goes-bankrupt.json) |
 | Crix | 116750 | [116750-crix.json](./116750-crix.json) |
