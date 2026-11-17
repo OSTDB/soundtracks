@@ -8989,7 +8989,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkest Road | 201219 | [201219-the-darkest-road.json](./201219-the-darkest-road.json) |
 | The Darkest Star | 197013 | [197013-the-darkest-star.json](./197013-the-darkest-star.json) |
-| The Darkest Tales | 138874 | [138874-the-darkest-tales.json](./138874-the-darkest-tales.json) |
 | The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
 | The Darkest Tales: Into the Nightmare | 195889 | [195889-the-darkest-tales-into-the-nightmare.json](./195889-the-darkest-tales-into-the-nightmare.json) |
 | The Darkest Tower Defense | 188209 | [188209-the-darkest-tower-defense.json](./188209-the-darkest-tower-defense.json) |
@@ -13714,7 +13713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Show | 399035 | [399035-the-last-show.json](./399035-the-last-show.json) |
 | The Last Show | 404387 | [404387-the-last-show.json](./404387-the-last-show.json) |
-| The Last Show of Mr. Chardish | 138389 | [138389-the-last-show-of-mr-chardish.json](./138389-the-last-show-of-mr-chardish.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
 | The Last Sigh(t) | 390209 | [390209-the-last-sigh-t.json](./390209-the-last-sigh-t.json) |
 | The Last Sight | 260063 | [260063-the-last-sight.json](./260063-the-last-sight.json) |
