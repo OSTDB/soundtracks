@@ -3587,7 +3587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
 | Fatal Fury: City of the Wolves - Season Pass 2 | 411286 | [411286-fatal-fury-city-of-the-wolves-season-pass-2.json](./411286-fatal-fury-city-of-the-wolves-season-pass-2.json) |
 | Fatal Fury: City of the Wolves - Season Pass 3 | 411285 | [411285-fatal-fury-city-of-the-wolves-season-pass-3.json](./411285-fatal-fury-city-of-the-wolves-season-pass-3.json) |
-| Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
 | Fatal Fury: City of the Wolves - Starter Edition | 418335 | [418335-fatal-fury-city-of-the-wolves-starter-edition.json](./418335-fatal-fury-city-of-the-wolves-starter-edition.json) |
 | Fatal Fury: City of the Wolves - Wolfgang Krauser | 388990 | [388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json](./388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json) |
 | Fatal Fury: First Contact | 44000 | [44000-fatal-fury-first-contact.json](./44000-fatal-fury-first-contact.json) |
@@ -6649,7 +6648,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Guess | 410101 | [410101-fire-emblem-guess.json](./410101-fire-emblem-guess.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Proto-Rogue | 398378 | [398378-fire-emblem-proto-rogue.json](./398378-fire-emblem-proto-rogue.json) |
-| Fire Emblem Shadows | 370036 | [370036-fire-emblem-shadows.json](./370036-fire-emblem-shadows.json) |
 | Fire Emblem Warriors | 26769 | [26769-fire-emblem-warriors.json](./26769-fire-emblem-warriors.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
 | Fire Emblem Warriors: Fire Emblem - Shadow Dragon DLC Pack | 238323 | [238323-fire-emblem-warriors-fire-emblem-shadow-dragon-dlc-pack.json](./238323-fire-emblem-warriors-fire-emblem-shadow-dragon-dlc-pack.json) |
@@ -7844,7 +7842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Center Renovator | 217112 | [217112-fitness-center-renovator.json](./217112-fitness-center-renovator.json) |
 | Fitness Circuit | 241103 | [241103-fitness-circuit.json](./241103-fitness-circuit.json) |
 | Fitness Dash | 16078 | [16078-fitness-dash.json](./16078-fitness-dash.json) |
-| Fitness Fables | 327589 | [327589-fitness-fables.json](./327589-fitness-fables.json) |
 | Fitness Fun | 56961 | [56961-fitness-fun.json](./56961-fitness-fun.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
@@ -8954,7 +8951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
 | Flightmare | 97024 | [97024-flightmare.json](./97024-flightmare.json) |
 | Flightpath | 208658 | [208658-flightpath.json](./208658-flightpath.json) |
-| Flightpath: Adventures in Venaris | 294233 | [294233-flightpath-adventures-in-venaris.json](./294233-flightpath-adventures-in-venaris.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
 | FlightSim I | 69416 | [69416-flightsim-i.json](./69416-flightsim-i.json) |
 | Flighty Chicken | 242107 | [242107-flighty-chicken.json](./242107-flighty-chicken.json) |
@@ -11173,7 +11169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestia Révoltozoo | 389663 | [389663-forestia-revoltozoo.json](./389663-forestia-revoltozoo.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestress Shade | 397495 | [397495-forestress-shade.json](./397495-forestress-shade.json) |
-| Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Forestry 2017 - The Simulation | 36394 | [36394-forestry-2017-the-simulation.json](./36394-forestry-2017-the-simulation.json) |
 | Forestry: The Simulation | 147858 | [147858-forestry-the-simulation.json](./147858-forestry-the-simulation.json) |
@@ -14555,7 +14550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
 | Frostpunk 2: Deluxe Edition | 376982 | [376982-frostpunk-2-deluxe-edition.json](./376982-frostpunk-2-deluxe-edition.json) |
-| Frostpunk 2: Fractured Utopias | 375800 | [375800-frostpunk-2-fractured-utopias.json](./375800-frostpunk-2-fractured-utopias.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
 | Frostpunk Pico | 284128 | [284128-frostpunk-pico.json](./284128-frostpunk-pico.json) |
 | Frostpunk: 1886 | 341662 | [341662-frostpunk-1886.json](./341662-frostpunk-1886.json) |
@@ -14861,7 +14855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fu'un Super Combo | 84318 | [84318-fuun-super-combo.json](./84318-fuun-super-combo.json) |
 | Fubar | 144062 | [144062-fubar.json](./144062-fubar.json) |
 | FUBG: Fight Unknown Battleground | 302804 | [302804-fubg-fight-unknown-battleground.json](./302804-fubg-fight-unknown-battleground.json) |
-| Fubuki: Zero in on Holoearth | 331530 | [331530-fubuki-zero-in-on-holoearth.json](./331530-fubuki-zero-in-on-holoearth.json) |
 | Fǔchéng Shàonǚ: Yǐ Nǐ Wéi Míng de Fǔchéng Qíngshū | 163891 | [163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json](./163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json) |
 | Fuchian Chronicles | 186492 | [186492-fuchian-chronicles.json](./186492-fuchian-chronicles.json) |
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
@@ -14924,7 +14917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 - Steampunk Costume Pack | 267721 | [267721-fuga-melodies-of-steel-2-steampunk-costume-pack.json](./267721-fuga-melodies-of-steel-2-steampunk-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Tail Concerto Costume Pack | 259584 | [259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json](./259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
-| Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
 | Fuga: Melodies of Steel 3 - Cyberpunk Costume Pack | 343532 | [343532-fuga-melodies-of-steel-3-cyberpunk-costume-pack.json](./343532-fuga-melodies-of-steel-3-cyberpunk-costume-pack.json) |
 | Fuga: Melodies of Steel 3 - Deluxe Edition | 343517 | [343517-fuga-melodies-of-steel-3-deluxe-edition.json](./343517-fuga-melodies-of-steel-3-deluxe-edition.json) |
 | Fuga: Melodies of Steel 3 - Deluxe Edition Upgrade Pack | 343518 | [343518-fuga-melodies-of-steel-3-deluxe-edition-upgrade-pack.json](./343518-fuga-melodies-of-steel-3-deluxe-edition-upgrade-pack.json) |
