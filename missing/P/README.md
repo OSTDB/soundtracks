@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Brexit | 143878 | [143878-paper-brexit.json](./143878-paper-brexit.json) |
 | Paper Bride | 190178 | [190178-paper-bride.json](./190178-paper-bride.json) |
 | Paper Bride 2: Zangling Village | 200630 | [200630-paper-bride-2-zangling-village.json](./200630-paper-bride-2-zangling-village.json) |
+| Paper Bride 3 | 203446 | [203446-paper-bride-3.json](./203446-paper-bride-3.json) |
 | Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
 | Paper Bride 5 Two Lifetimes | 267828 | [267828-paper-bride-5-two-lifetimes.json](./267828-paper-bride-5-two-lifetimes.json) |
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
@@ -8246,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingdom | 289241 | [289241-pingdom.json](./289241-pingdom.json) |
 | Pingers | 157971 | [157971-pingers.json](./157971-pingers.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
+| Pingo Adventure | 203440 | [203440-pingo-adventure.json](./203440-pingo-adventure.json) |
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
 | Pingo's Revenge | 197076 | [197076-pingos-revenge.json](./197076-pingos-revenge.json) |
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
@@ -14839,6 +14841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porter's Cafe | 359411 | [359411-porters-cafe.json](./359411-porters-cafe.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Porters | 381761 | [381761-porters.json](./381761-porters.json) |
+| Porthole | 203437 | [203437-porthole.json](./203437-porthole.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Portland 2024 | 323214 | [323214-portland-2024.json](./323214-portland-2024.json) |
 | Portobello Beat | 228954 | [228954-portobello-beat.json](./228954-portobello-beat.json) |
@@ -18340,6 +18343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Subtrahend | 274948 | [274948-project-subtrahend.json](./274948-project-subtrahend.json) |
 | Project Suburbion | 183829 | [183829-project-suburbion.json](./183829-project-suburbion.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
+| Project Sundown | 203436 | [203436-project-sundown.json](./203436-project-sundown.json) |
 | Project Superstar | 323047 | [323047-project-superstar.json](./323047-project-superstar.json) |
 | Project Surfing | 291816 | [291816-project-surfing.json](./291816-project-surfing.json) |
 | Project Survivor | 225977 | [225977-project-survivor.json](./225977-project-survivor.json) |
