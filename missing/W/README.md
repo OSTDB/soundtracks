@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Freedom | 267780 | [267780-warriors-of-freedom.json](./267780-warriors-of-freedom.json) |
 | Warriors of Glory | 58443 | [58443-warriors-of-glory.json](./58443-warriors-of-glory.json) |
 | Warriors of Legend | 69947 | [69947-warriors-of-legend.json](./69947-warriors-of-legend.json) |
+| Warriors of Might and Magic | 43563 | [43563-warriors-of-might-and-magic.json](./43563-warriors-of-might-and-magic.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragarök | 111796 | [111796-warriors-of-ragarok.json](./111796-warriors-of-ragarok.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
@@ -5977,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wheels | 59968 | [59968-wild-wheels.json](./59968-wild-wheels.json) |
 | Wild Wild Chess | 157918 | [157918-wild-wild-chess.json](./157918-wild-wild-chess.json) |
 | Wild Wild Eden | 265308 | [265308-wild-wild-eden.json](./265308-wild-wild-eden.json) |
+| Wild Wild Racing | 43562 | [43562-wild-wild-racing.json](./43562-wild-wild-racing.json) |
 | Wild Wild Space | 264520 | [264520-wild-wild-space.json](./264520-wild-wild-space.json) |
 | Wild Wild West: The Steel Assassin | 201075 | [201075-wild-wild-west-the-steel-assassin.json](./201075-wild-wild-west-the-steel-assassin.json) |
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
@@ -9137,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Busking | 197130 | [197130-world-of-busking.json](./197130-world-of-busking.json) |
 | World of Clashes | 415362 | [415362-world-of-clashes.json](./415362-world-of-clashes.json) |
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
+| World of Commanders | 41071 | [41071-world-of-commanders.json](./41071-world-of-commanders.json) |
 | World of Conquerors | 117400 | [117400-world-of-conquerors.json](./117400-world-of-conquerors.json) |
 | World of Conquerors: Origins | 126602 | [126602-world-of-conquerors-origins.json](./126602-world-of-conquerors-origins.json) |
 | World of Contraptions | 138027 | [138027-world-of-contraptions.json](./138027-world-of-contraptions.json) |
@@ -9557,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Stadium EX | 98203 | [98203-world-stadium-ex.json](./98203-world-stadium-ex.json) |
 | World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
+| World Super Police | 43479 | [43479-world-super-police.json](./43479-world-super-police.json) |
 | World Supremacy | 59563 | [59563-world-supremacy.json](./59563-world-supremacy.json) |
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
 | World Table Tennis Champs | 170409 | [170409-world-table-tennis-champs.json](./170409-world-table-tennis-champs.json) |
