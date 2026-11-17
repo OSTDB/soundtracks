@@ -7553,6 +7553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye 007 | 144476 | [144476-goldeneye-007.json](./144476-goldeneye-007.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
 | GoldenEye 007 | 350140 | [350140-goldeneye-007.json](./350140-goldeneye-007.json) |
+| GoldenEye 007 PC Port | 418283 | [418283-goldeneye-007-pc-port.json](./418283-goldeneye-007-pc-port.json) |
 | GoldenEye 007: Recompiled | 406470 | [406470-goldeneye-007-recompiled.json](./406470-goldeneye-007-recompiled.json) |
 | GoldenEye 007: Reloaded | 1651 | [1651-goldeneye-007-reloaded.json](./1651-goldeneye-007-reloaded.json) |
 | GoldenEye 007: Xbox Live Arcade | 143406 | [143406-goldeneye-007-xbox-live-arcade.json](./143406-goldeneye-007-xbox-live-arcade.json) |
