@@ -3469,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
 | Haze of Lucidity: The Fish | 390087 | [390087-haze-of-lucidity-the-fish.json](./390087-haze-of-lucidity-the-fish.json) |
 | Haze of Lucidity: The Fracture | 364943 | [364943-haze-of-lucidity-the-fracture.json](./364943-haze-of-lucidity-the-fracture.json) |
+| Haze Recomp | 427084 | [427084-haze-recomp.json](./427084-haze-recomp.json) |
 | Haze Reverb | 322901 | [322901-haze-reverb.json](./322901-haze-reverb.json) |
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
 | Haze's Hectic Halloween Happenstance | 330054 | [330054-hazes-hectic-halloween-happenstance.json](./330054-hazes-hectic-halloween-happenstance.json) |
