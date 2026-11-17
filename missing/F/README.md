@@ -3153,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Year 1 Bundle | 331551 | [331551-farming-simulator-25-year-1-bundle.json](./331551-farming-simulator-25-year-1-bundle.json) |
 | Farming Simulator 25: Year 1 Season Pass | 352888 | [352888-farming-simulator-25-year-1-season-pass.json](./352888-farming-simulator-25-year-1-season-pass.json) |
 | Farming Simulator 25: Year 2 Season Pass | 378101 | [378101-farming-simulator-25-year-2-season-pass.json](./378101-farming-simulator-25-year-2-season-pass.json) |
+| Farming Simulator 26 | 425265 | [425265-farming-simulator-26.json](./425265-farming-simulator-26.json) |
 | Farming Simulator C64 Edition | 110482 | [110482-farming-simulator-c64-edition.json](./110482-farming-simulator-c64-edition.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
 | Farming Simulator Kids | 287580 | [287580-farming-simulator-kids.json](./287580-farming-simulator-kids.json) |
@@ -3592,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Andy Bogard | 349908 | [349908-fatal-fury-city-of-the-wolves-andy-bogard.json](./349908-fatal-fury-city-of-the-wolves-andy-bogard.json) |
 | Fatal Fury: City of the Wolves - Blue Mary | 411283 | [411283-fatal-fury-city-of-the-wolves-blue-mary.json](./411283-fatal-fury-city-of-the-wolves-blue-mary.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
+| Fatal Fury: City of the Wolves - Classic Mai Shiranui | 425276 | [425276-fatal-fury-city-of-the-wolves-classic-mai-shiranui.json](./425276-fatal-fury-city-of-the-wolves-classic-mai-shiranui.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
 | Fatal Fury: City of the Wolves - Joe Higashi | 349909 | [349909-fatal-fury-city-of-the-wolves-joe-higashi.json](./349909-fatal-fury-city-of-the-wolves-joe-higashi.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
@@ -4383,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felis | 56275 | [56275-felis.json](./56275-felis.json) |
 | Felis: Cat Saving Platformer | 30106 | [30106-felis-cat-saving-platformer.json](./30106-felis-cat-saving-platformer.json) |
 | FelisBelus | 308016 | [308016-felisbelus.json](./308016-felisbelus.json) |
+| Felisomnia: Behind a Cat's Eyes | 425309 | [425309-felisomnia-behind-a-cats-eyes.json](./425309-felisomnia-behind-a-cats-eyes.json) |
 | Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
 | Felix Jigsaw Puzzle | 200372 | [200372-felix-jigsaw-puzzle.json](./200372-felix-jigsaw-puzzle.json) |
 | Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
@@ -6540,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finish Your Meatballs! | 427236 | [427236-finish-your-meatballs.json](./427236-finish-your-meatballs.json) |
 | Finished! | 249765 | [249765-finished.json](./249765-finished.json) |
 | Finishline | 320096 | [320096-finishline.json](./320096-finishline.json) |
+| Finistry | 425294 | [425294-finistry.json](./425294-finistry.json) |
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
 | Finite State Automaton Challenges | 271106 | [271106-finite-state-automaton-challenges.json](./271106-finite-state-automaton-challenges.json) |
 | Finite State Automaton Challenges 2 | 278926 | [278926-finite-state-automaton-challenges-2.json](./278926-finite-state-automaton-challenges-2.json) |
@@ -10780,7 +10784,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Battle Bundle – Year 8 Season 1 | 297132 | [297132-for-honor-battle-bundle-year-8-season-1.json](./297132-for-honor-battle-bundle-year-8-season-1.json) |
 | For Honor: Black Prior Hero Skin | 237128 | [237128-for-honor-black-prior-hero-skin.json](./237128-for-honor-black-prior-hero-skin.json) |
 | For Honor: Complete Edition | 118695 | [118695-for-honor-complete-edition.json](./118695-for-honor-complete-edition.json) |
+| For Honor: Crimson Dragon Bundle | 425273 | [425273-for-honor-crimson-dragon-bundle.json](./425273-for-honor-crimson-dragon-bundle.json) |
 | For Honor: Deluxe Edition | 53036 | [53036-for-honor-deluxe-edition.json](./53036-for-honor-deluxe-edition.json) |
+| For Honor: Dragon's Daughter Bundle | 425271 | [425271-for-honor-dragons-daughter-bundle.json](./425271-for-honor-dragons-daughter-bundle.json) |
 | For Honor: Eivor Wolf-Kissed – Berserker Hero Skin | 408890 | [408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json](./408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
 | For Honor: General Zhi - Zhanhu Hero Skin | 367112 | [367112-for-honor-general-zhi-zhanhu-hero-skin.json](./367112-for-honor-general-zhi-zhanhu-hero-skin.json) |
@@ -10792,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Khatun - Hero | 367107 | [367107-for-honor-khatun-hero.json](./367107-for-honor-khatun-hero.json) |
 | For Honor: Kyoshin Hero | 170437 | [170437-for-honor-kyoshin-hero.json](./170437-for-honor-kyoshin-hero.json) |
 | For Honor: Lady Saori – Nobushi Hero Skin | 367116 | [367116-for-honor-lady-saori-nobushi-hero-skin.json](./367116-for-honor-lady-saori-nobushi-hero-skin.json) |
+| For Honor: Liana the Pale | 425274 | [425274-for-honor-liana-the-pale.json](./425274-for-honor-liana-the-pale.json) |
 | For Honor: Marching Fire Edition | 111296 | [111296-for-honor-marching-fire-edition.json](./111296-for-honor-marching-fire-edition.json) |
 | For Honor: Marching Fire Expansion Pack | 227360 | [227360-for-honor-marching-fire-expansion-pack.json](./227360-for-honor-marching-fire-expansion-pack.json) |
 | For Honor: Master Katashi - Orochi Hero Skin | 305768 | [305768-for-honor-master-katashi-orochi-hero-skin.json](./305768-for-honor-master-katashi-orochi-hero-skin.json) |
@@ -10829,12 +10836,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
 | For Honor: The Crucible Lord – Centurion Hero Skin | 360851 | [360851-for-honor-the-crucible-lord-centurion-hero-skin.json](./360851-for-honor-the-crucible-lord-centurion-hero-skin.json) |
 | For Honor: The Muramasa Blade | 305235 | [305235-for-honor-the-muramasa-blade.json](./305235-for-honor-the-muramasa-blade.json) |
+| For Honor: The Nightstalker | 425270 | [425270-for-honor-the-nightstalker.json](./425270-for-honor-the-nightstalker.json) |
 | For Honor: The Oni's Hunt Deluxe - Hero Skin Bundle | 415019 | [415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json](./415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json) |
 | For Honor: The Oni's Wrath – Sohei Hero Skin | 408965 | [408965-for-honor-the-onis-wrath-sohei-hero-skin.json](./408965-for-honor-the-onis-wrath-sohei-hero-skin.json) |
 | For Honor: The Scorching Herald – Gryphon Legendary Hero Skin | 408967 | [408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json](./408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json) |
 | For Honor: The Unsung Knight - Warden Hero Skin | 367109 | [367109-for-honor-the-unsung-knight-warden-hero-skin.json](./367109-for-honor-the-unsung-knight-warden-hero-skin.json) |
 | For Honor: The Violet King - Lawbringer Hero Skin | 360852 | [360852-for-honor-the-violet-king-lawbringer-hero-skin.json](./360852-for-honor-the-violet-king-lawbringer-hero-skin.json) |
 | For Honor: The Warrior Prince - Aramusha Hero Skin | 367113 | [367113-for-honor-the-warrior-prince-aramusha-hero-skin.json](./367113-for-honor-the-warrior-prince-aramusha-hero-skin.json) |
+| For Honor: Ultimate Bloodcurse Bundle | 425272 | [425272-for-honor-ultimate-bloodcurse-bundle.json](./425272-for-honor-ultimate-bloodcurse-bundle.json) |
 | For Honor: Ultimate Edition | 291540 | [291540-for-honor-ultimate-edition.json](./291540-for-honor-ultimate-edition.json) |
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
 | For Honor: Varangian Guard - Hero | 289921 | [289921-for-honor-varangian-guard-hero.json](./289921-for-honor-varangian-guard-hero.json) |
