@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad TV | 120431 | [120431-rad-tv.json](./120431-rad-tv.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
+| Rad-Challenge 07 | 93235 | [93235-rad-challenge-07.json](./93235-rad-challenge-07.json) |
 | Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
 | Rada Quest | 239367 | [239367-rada-quest.json](./239367-rada-quest.json) |
 | Radac: Tailor-Made | 48821 | [48821-radac-tailor-made.json](./48821-radac-tailor-made.json) |
@@ -7534,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
 | Reversi also known as Othello | 54948 | [54948-reversi-also-known-as-othello.json](./54948-reversi-also-known-as-othello.json) |
 | Reversi Fun | 103579 | [103579-reversi-fun.json](./103579-reversi-fun.json) |
+| Reversi HD | 95697 | [95697-reversi-hd.json](./95697-reversi-hd.json) |
 | Reversi Let's Go | 150264 | [150264-reversi-lets-go.json](./150264-reversi-lets-go.json) |
 | Reversi Quest | 104780 | [104780-reversi-quest.json](./104780-reversi-quest.json) |
 | Reversi Temple | 289784 | [289784-reversi-temple.json](./289784-reversi-temple.json) |
