@@ -4338,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend: Emperor Edition | 52951 | [52951-endless-legend-emperor-edition.json](./52951-endless-legend-emperor-edition.json) |
 | Endless Legend: Forgotten Love Add-on | 168766 | [168766-endless-legend-forgotten-love-add-on.json](./168766-endless-legend-forgotten-love-add-on.json) |
 | Endless Legend: Guardians | 14603 | [14603-endless-legend-guardians.json](./14603-endless-legend-guardians.json) |
+| Endless Legend: Monstrous Tales | 166330 | [166330-endless-legend-monstrous-tales.json](./166330-endless-legend-monstrous-tales.json) |
 | Endless Legend: Shadows | 14604 | [14604-endless-legend-shadows.json](./14604-endless-legend-shadows.json) |
 | Endless Legend: Shifters | 141264 | [141264-endless-legend-shifters.json](./141264-endless-legend-shifters.json) |
 | Endless Legend: Symbiosis | 114035 | [114035-endless-legend-symbiosis.json](./114035-endless-legend-symbiosis.json) |
@@ -9533,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
 | Extrme Ghostbusters: Code Ecto-1 | 8160 | [8160-extrme-ghostbusters-code-ecto-1.json](./8160-extrme-ghostbusters-code-ecto-1.json) |
 | Extrocore | 379726 | [379726-extrocore.json](./379726-extrocore.json) |
+| Extrorb | 170066 | [170066-extrorb.json](./170066-extrorb.json) |
 | Exurgo | 118674 | [118674-exurgo.json](./118674-exurgo.json) |
 | Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
 | Exvania | 40296 | [40296-exvania.json](./40296-exvania.json) |
