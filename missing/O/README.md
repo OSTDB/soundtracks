@@ -5864,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
+| Outer Rim | 29236 | [29236-outer-rim.json](./29236-outer-rim.json) |
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
 | Outer Ring Explorer | 381492 | [381492-outer-ring-explorer.json](./381492-outer-ring-explorer.json) |
 | Outer Space | 243173 | [243173-outer-space.json](./243173-outer-space.json) |
@@ -6030,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrageous Grounds: The Maze | 31739 | [31739-outrageous-grounds-the-maze.json](./31739-outrageous-grounds-the-maze.json) |
 | Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
 | Outrankers | 361944 | [361944-outrankers.json](./361944-outrankers.json) |
+| Outreach | 25218 | [25218-outreach.json](./25218-outreach.json) |
 | Outrealm | 81641 | [81641-outrealm.json](./81641-outrealm.json) |
 | Outrevenge | 172337 | [172337-outrevenge.json](./172337-outrevenge.json) |
 | Outride Obama | 272175 | [272175-outride-obama.json](./272175-outride-obama.json) |
@@ -6487,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
 | Overstars | 151286 | [151286-overstars.json](./151286-overstars.json) |
 | Oversteer Mini | 419790 | [419790-oversteer-mini.json](./419790-oversteer-mini.json) |
+| Overstep | 25199 | [25199-overstep.json](./25199-overstep.json) |
 | Overstimulacrum | 415461 | [415461-overstimulacrum.json](./415461-overstimulacrum.json) |
 | Overstorm | 267498 | [267498-overstorm.json](./267498-overstorm.json) |
 | Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
