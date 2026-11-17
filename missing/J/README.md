@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Pond 2: Codename: RoboCod | 368914 | [368914-james-pond-2-codename-robocod.json](./368914-james-pond-2-codename-robocod.json) |
 | James Pond 3: Operation Starfish | 368902 | [368902-james-pond-3-operation-starfish.json](./368902-james-pond-3-operation-starfish.json) |
 | James Pond 3: Operation Starfish | 5926 | [5926-james-pond-3-operation-starfish.json](./5926-james-pond-3-operation-starfish.json) |
+| James Pond Collection | 420418 | [420418-james-pond-collection.json](./420418-james-pond-collection.json) |
 | James Pond in the Deathly Shallows | 65874 | [65874-james-pond-in-the-deathly-shallows.json](./65874-james-pond-in-the-deathly-shallows.json) |
 | James Pond: Codename - Robocod | 368920 | [368920-james-pond-codename-robocod.json](./368920-james-pond-codename-robocod.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
