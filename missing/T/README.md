@@ -7406,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blame | 113215 | [113215-the-blame.json](./113215-the-blame.json) |
 | The Blank Canvas - Hacking Nature | 28600 | [28600-the-blank-canvas-hacking-nature.json](./28600-the-blank-canvas-hacking-nature.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
+| The Bleakest Keep 2 | 421073 | [421073-the-bleakest-keep-2.json](./421073-the-bleakest-keep-2.json) |
 | The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
 | The Bleeding Tree | 184849 | [184849-the-bleeding-tree.json](./184849-the-bleeding-tree.json) |
 | The Blessing of Airon | 346638 | [346638-the-blessing-of-airon.json](./346638-the-blessing-of-airon.json) |
@@ -19413,6 +19414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
 | The Sunday | 311572 | [311572-the-sunday.json](./311572-the-sunday.json) |
 | The Sunday Museum | 191562 | [191562-the-sunday-museum.json](./191562-the-sunday-museum.json) |
+| The Sundered Anvil | 421102 | [421102-the-sundered-anvil.json](./421102-the-sundered-anvil.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
 | The Sunken Hero | 150833 | [150833-the-sunken-hero.json](./150833-the-sunken-hero.json) |
 | The Sunny Day | 104959 | [104959-the-sunny-day.json](./104959-the-sunny-day.json) |
@@ -19442,6 +19444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Superhero League | 228124 | [228124-the-superhero-league.json](./228124-the-superhero-league.json) |
+| The Superhero League 2 | 421120 | [421120-the-superhero-league-2.json](./421120-the-superhero-league-2.json) |
 | The Superlatives: Aetherfall | 74668 | [74668-the-superlatives-aetherfall.json](./74668-the-superlatives-aetherfall.json) |
 | The Superlatives: Shattered Worlds | 116697 | [116697-the-superlatives-shattered-worlds.json](./116697-the-superlatives-shattered-worlds.json) |
 | The Supermarket Hunter | 199338 | [199338-the-supermarket-hunter.json](./199338-the-supermarket-hunter.json) |
@@ -21929,6 +21932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theomachia | 187428 | [187428-theomachia.json](./187428-theomachia.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
 | Theorem | 96968 | [96968-theorem.json](./96968-theorem.json) |
+| Theoria: A God Simulator | 421137 | [421137-theoria-a-god-simulator.json](./421137-theoria-a-god-simulator.json) |
 | Theorists | 261185 | [261185-theorists.json](./261185-theorists.json) |
 | Théoros | 412185 | [412185-theoros.json](./412185-theoros.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
@@ -23420,6 +23424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tichu | 156643 | [156643-tichu.json](./156643-tichu.json) |
 | Tichu | 377164 | [377164-tichu.json](./377164-tichu.json) |
 | Tick | 193135 | [193135-tick.json](./193135-tick.json) |
+| Tick & Tired | 421083 | [421083-tick-and-tired.json](./421083-tick-and-tired.json) |
 | Tick Hop | 332889 | [332889-tick-hop.json](./332889-tick-hop.json) |
 | Tick Hop 2 | 391186 | [391186-tick-hop-2.json](./391186-tick-hop-2.json) |
 | Tick Tack Puppet | 206441 | [206441-tick-tack-puppet.json](./206441-tick-tack-puppet.json) |
@@ -26838,6 +26843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans Pinball | 124093 | [124093-titans-pinball.json](./124093-titans-pinball.json) |
 | Titans Tower | 84949 | [84949-titans-tower.json](./84949-titans-tower.json) |
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
+| TitanSwords & Sorcery | 421090 | [421090-titanswords-and-sorcery.json](./421090-titanswords-and-sorcery.json) |
 | Titawin | 114673 | [114673-titawin.json](./114673-titawin.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
 | Titeuf | 169133 | [169133-titeuf.json](./169133-titeuf.json) |
@@ -30657,6 +30663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Aghasba | 250636 | [250636-towers-of-aghasba.json](./250636-towers-of-aghasba.json) |
 | Towers of Altrac | 36165 | [36165-towers-of-altrac.json](./36165-towers-of-altrac.json) |
 | Towers of Altrac - Epic Defense Battles | 54188 | [54188-towers-of-altrac-epic-defense-battles.json](./54188-towers-of-altrac-epic-defense-battles.json) |
+| Towers of Babble | 421108 | [421108-towers-of-babble.json](./421108-towers-of-babble.json) |
 | Towers of Everland | 138390 | [138390-towers-of-everland.json](./138390-towers-of-everland.json) |
 | Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
 | Towers of Minimalism | 123986 | [123986-towers-of-minimalism.json](./123986-towers-of-minimalism.json) |
