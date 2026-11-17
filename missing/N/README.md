@@ -8287,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NS-Shaft | 62060 | [62060-ns-shaft.json](./62060-ns-shaft.json) |
 | NS-Tower | 62059 | [62059-ns-tower.json](./62059-ns-tower.json) |
 | NSFW Solitaire | 231572 | [231572-nsfw-solitaire.json](./231572-nsfw-solitaire.json) |
+| NSFW Studio | 197419 | [197419-nsfw-studio.json](./197419-nsfw-studio.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSFWare | 125879 | [125879-nsfware.json](./125879-nsfware.json) |
 | NSG | 220458 | [220458-nsg.json](./220458-nsg.json) |
