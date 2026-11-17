@@ -7894,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gōngchéng Sānguózhì | 299373 | [299373-gongcheng-sanguozhi.json](./299373-gongcheng-sanguozhi.json) |
 | Gongo | 168572 | [168572-gongo.json](./168572-gongo.json) |
 | Gongpoui Sullaejapgi | 220286 | [220286-gongpoui-sullaejapgi.json](./220286-gongpoui-sullaejapgi.json) |
+| Gonna Be ?? | 427137 | [427137-gonna-be.json](./427137-gonna-be.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
 | Gonner | 19002 | [19002-gonner.json](./19002-gonner.json) |
 | Gonner: Blüberry Edition | 111319 | [111319-gonner-bluberry-edition.json](./111319-gonner-bluberry-edition.json) |
@@ -11450,6 +11451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunder | 278517 | [278517-grunder.json](./278517-grunder.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | Grundlewhack | 380527 | [380527-grundlewhack.json](./380527-grundlewhack.json) |
+| Grundriss | 427114 | [427114-grundriss.json](./427114-grundriss.json) |
 | Grundschule Deutsch | 91624 | [91624-grundschule-deutsch.json](./91624-grundschule-deutsch.json) |
 | Grundschule Lernspaß mit Hexe Lilli: Mathematik Klasse 1+2 | 403069 | [403069-grundschule-lernspa-mit-hexe-lilli-mathematik-klasse-1-2.json](./403069-grundschule-lernspa-mit-hexe-lilli-mathematik-klasse-1-2.json) |
 | Grundschule Mathematik | 91622 | [91622-grundschule-mathematik.json](./91622-grundschule-mathematik.json) |
@@ -13097,6 +13099,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
 | Gym Simulator Ultimate | 312441 | [312441-gym-simulator-ultimate.json](./312441-gym-simulator-ultimate.json) |
+| Gym Tidy Up | 427135 | [427135-gym-tidy-up.json](./427135-gym-tidy-up.json) |
+| Gym Tidy: Re-rack Your Weights | 427134 | [427134-gym-tidy-re-rack-your-weights.json](./427134-gym-tidy-re-rack-your-weights.json) |
 | Gym Tycoon | 139532 | [139532-gym-tycoon.json](./139532-gym-tycoon.json) |
 | GymBeasts | 194836 | [194836-gymbeasts.json](./194836-gymbeasts.json) |
 | GymBro | 309954 | [309954-gymbro.json](./309954-gymbro.json) |
