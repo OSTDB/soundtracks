@@ -11183,7 +11183,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked Inc: Fisher Tycoon | 103583 | [103583-hooked-inc-fisher-tycoon.json](./103583-hooked-inc-fisher-tycoon.json) |
 | Hooked on Bass Fishing | 78610 | [78610-hooked-on-bass-fishing.json](./78610-hooked-on-bass-fishing.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
-| Hooked on You: A Dead by Daylight Dating Sim | 202141 | [202141-hooked-on-you-a-dead-by-daylight-dating-sim.json](./202141-hooked-on-you-a-dead-by-daylight-dating-sim.json) |
 | Hooked! | 306595 | [306595-hooked.json](./306595-hooked.json) |
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hooked! Real Motion Fishing | 4914 | [4914-hooked-real-motion-fishing.json](./4914-hooked-real-motion-fishing.json) |
