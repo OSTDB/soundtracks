@@ -5,6 +5,7 @@
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738709366d2b7c347064761f0c" width="60" /> | [Wacky Wheels](https://ostdb.net/games/wacky-wheels) | **Wacky Wheels (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0E4o98RZN3QNQh0K8zNzvh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736880ec75452d190222f21e34" width="60" /> | [Walden, a game](https://ostdb.net/games/walden-a-game) | **Walden, A Game (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5hAhevsiGa4dXLP9DvlD3U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c74b2b1604e2e8c40ce4771" width="60" /> | [Walkabout Mini Golf](https://ostdb.net/games/walkabout-mini-golf) | **Walkabout Mini Golf (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5YnrA0GEU56D2KvL9HUetR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95b3a349b4aab1858de0e25" width="60" /> | [Wallachia: Reign of Dracula](https://ostdb.net/games/wallachia-reign-of-dracula) | **Wallachia: Reign of Dracula (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/58wl4HF1PJAo92acNoATot) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b37a2f91639a0d593b36c" width="60" /> | [Wand Wars](https://ostdb.net/games/wand-wars) | **Wand Wars (Soundtrack)** · [Spotify](https://open.spotify.com/album/5eobpxUK30fUuLwx90IDdj) |
