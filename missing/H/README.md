@@ -12430,6 +12430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Keeper | 374006 | [374006-hotel-keeper.json](./374006-hotel-keeper.json) |
 | Hotel Life: A Resort Simulator | 151044 | [151044-hotel-life-a-resort-simulator.json](./151044-hotel-life-a-resort-simulator.json) |
 | Hotel Lust | 367295 | [367295-hotel-lust.json](./367295-hotel-lust.json) |
+| Hotel Magnate | 100395 | [100395-hotel-magnate.json](./100395-hotel-magnate.json) |
 | Hotel Mahjong | 177067 | [177067-hotel-mahjong.json](./177067-hotel-mahjong.json) |
 | Hotel Management Simulator | 217285 | [217285-hotel-management-simulator.json](./217285-hotel-management-simulator.json) |
 | Hotel Manager Simulator | 199498 | [199498-hotel-manager-simulator.json](./199498-hotel-manager-simulator.json) |
