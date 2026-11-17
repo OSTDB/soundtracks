@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambo Jump | 234711 | [234711-lambo-jump.json](./234711-lambo-jump.json) |
 | Lambo Speed: Drift X | 104515 | [104515-lambo-speed-drift-x.json](./104515-lambo-speed-drift-x.json) |
 | Lamborghini | 201970 | [201970-lamborghini.json](./201970-lamborghini.json) |
+| Lamborghini: American Challenge | 27525 | [27525-lamborghini-american-challenge.json](./27525-lamborghini-american-challenge.json) |
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road | 111924 | [111924-lambs-on-the-road.json](./111924-lambs-on-the-road.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Space Mission | 151359 | [151359-last-space-mission.json](./151359-last-space-mission.json) |
 | Last Spaceship | 391403 | [391403-last-spaceship.json](./391403-last-spaceship.json) |
 | Last Spartan: Glory Over Madness | 261594 | [261594-last-spartan-glory-over-madness.json](./261594-last-spartan-glory-over-madness.json) |
+| Last Spin: Survive | 429469 | [429469-last-spin-survive.json](./429469-last-spin-survive.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
 | Last Stand | 143303 | [143303-last-stand.json](./143303-last-stand.json) |
@@ -4104,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lessons With Chii-chan | 126119 | [126119-lessons-with-chii-chan.json](./126119-lessons-with-chii-chan.json) |
 | Lest: Deluxe 24 | 346325 | [346325-lest-deluxe-24.json](./346325-lest-deluxe-24.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
+| Lestvitsa | 429528 | [429528-lestvitsa.json](./429528-lestvitsa.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
 | Let Catch Me | 343686 | [343686-let-catch-me.json](./343686-let-catch-me.json) |
 | Let Chat Guess | 228756 | [228756-let-chat-guess.json](./228756-let-chat-guess.json) |
@@ -5270,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
 | Lifeguard Simulator | 169732 | [169732-lifeguard-simulator.json](./169732-lifeguard-simulator.json) |
 | LifeLeech | 146373 | [146373-lifeleech.json](./146373-lifeleech.json) |
+| Lifeless | 34047 | [34047-lifeless.json](./34047-lifeless.json) |
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
 | Lifeless Moon | 27933 | [27933-lifeless-moon.json](./27933-lifeless-moon.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
@@ -5374,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Cycles | 67586 | [67586-light-cycles.json](./67586-light-cycles.json) |
 | Light Dark | 273573 | [273573-light-dark.json](./273573-light-dark.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
+| Light Devourer | 429523 | [429523-light-devourer.json](./429523-light-devourer.json) |
 | Light Dude | 344070 | [344070-light-dude.json](./344070-light-dude.json) |
 | Light Eater | 215642 | [215642-light-eater.json](./215642-light-eater.json) |
 | Light Em Up!: Escape from Transylvania | 184690 | [184690-light-em-up-escape-from-transylvania.json](./184690-light-em-up-escape-from-transylvania.json) |
@@ -6125,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Puzzle: String Art | 107579 | [107579-line-puzzle-string-art.json](./107579-line-puzzle-string-art.json) |
 | Line Rangers | 130565 | [130565-line-rangers.json](./130565-line-rangers.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
+| Line Rider 2: Unbound | 4972 | [4972-line-rider-2-unbound.json](./4972-line-rider-2-unbound.json) |
 | Line Rider iRide | 92355 | [92355-line-rider-iride.json](./92355-line-rider-iride.json) |
 | Line Rider JavaScript | 58115 | [58115-line-rider-javascript.json](./58115-line-rider-javascript.json) |
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
@@ -6515,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Timeless | 159151 | [159151-lisa-the-timeless.json](./159151-lisa-the-timeless.json) |
 | Lisa: The Unbreakable RPG | 215081 | [215081-lisa-the-unbreakable-rpg.json](./215081-lisa-the-unbreakable-rpg.json) |
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
+| Lisa: The Winterful | 429464 | [429464-lisa-the-winterful.json](./429464-lisa-the-winterful.json) |
 | Lisa: The Wise | 220546 | [220546-lisa-the-wise.json](./220546-lisa-the-wise.json) |
 | Lisa: The Wishless | 222114 | [222114-lisa-the-wishless.json](./222114-lisa-the-wishless.json) |
 | Lisa: Timeless in Pointless - Drunkard's Paradise | 359332 | [359332-lisa-timeless-in-pointless-drunkards-paradise.json](./359332-lisa-timeless-in-pointless-drunkards-paradise.json) |
