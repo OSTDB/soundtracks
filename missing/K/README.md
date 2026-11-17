@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinese | 90529 | [90529-kinese.json](./90529-kinese.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
+| Kinetether | 427714 | [427714-kinetether.json](./427714-kinetether.json) |
 | Kinetic | 372061 | [372061-kinetic.json](./372061-kinetic.json) |
 | Kinetic Breakthrough | 310919 | [310919-kinetic-breakthrough.json](./310919-kinetic-breakthrough.json) |
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
