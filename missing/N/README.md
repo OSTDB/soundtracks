@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
 | NBA Fastbreak '98 | 43780 | [43780-nba-fastbreak-98.json](./43780-nba-fastbreak-98.json) |
+| NBA Full Court Press | 71666 | [71666-nba-full-court-press.json](./71666-nba-full-court-press.json) |
 | NBA Give 'n Go | 42482 | [42482-nba-give-n-go.json](./42482-nba-give-n-go.json) |
 | NBA Hangtime | 217716 | [217716-nba-hangtime.json](./217716-nba-hangtime.json) |
 | NBA Hangtime | 3550 | [3550-nba-hangtime.json](./3550-nba-hangtime.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neogeo Pocket Color Selection Vol.2 | 225497 | [225497-neogeo-pocket-color-selection-vol-2.json](./225497-neogeo-pocket-color-selection-vol-2.json) |
 | NeoGeometry | 113176 | [113176-neogeometry.json](./113176-neogeometry.json) |
 | NeoHack | 373830 | [373830-neohack.json](./373830-neohack.json) |
+| NeoHunter | 71651 | [71651-neohunter.json](./71651-neohunter.json) |
 | Neokaiju | 153996 | [153996-neokaiju.json](./153996-neokaiju.json) |
 | NeoLemmix | 189200 | [189200-neolemmix.json](./189200-neolemmix.json) |
 | NeoLite | 134991 | [134991-neolite.json](./134991-neolite.json) |
