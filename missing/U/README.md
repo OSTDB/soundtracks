@@ -4074,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uwasa no Midori-kun!! Natsu Iro Striker | 124112 | [124112-uwasa-no-midori-kun-natsu-iro-striker.json](./124112-uwasa-no-midori-kun-natsu-iro-striker.json) |
 | UWD: You Will Die! | 253821 | [253821-uwd-you-will-die.json](./253821-uwd-you-will-die.json) |
 | Uwis Shooting Gallery | 94196 | [94196-uwis-shooting-gallery.json](./94196-uwis-shooting-gallery.json) |
+| UwiTron | 71621 | [71621-uwitron.json](./71621-uwitron.json) |
 | Uwol 2 | 299168 | [299168-uwol-2.json](./299168-uwol-2.json) |
 | Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
 | uWordsmith | 85466 | [85466-uwordsmith.json](./85466-uwordsmith.json) |
