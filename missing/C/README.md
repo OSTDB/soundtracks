@@ -3718,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade | 352412 | [352412-cascade.json](./352412-cascade.json) |
 | Cascade | 380053 | [380053-cascade.json](./380053-cascade.json) |
 | Cascade | 60904 | [60904-cascade.json](./60904-cascade.json) |
+| Cascade Cafe | 152423 | [152423-cascade-cafe.json](./152423-cascade-cafe.json) |
 | Cascade Falls | 374944 | [374944-cascade-falls.json](./374944-cascade-falls.json) |
 | Cascade Tactics | 142077 | [142077-cascade-tactics.json](./142077-cascade-tactics.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
@@ -8823,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco Pixel 7 | 158591 | [158591-choco-pixel-7.json](./158591-choco-pixel-7.json) |
 | Choco Pixel D | 150855 | [150855-choco-pixel-d.json](./150855-choco-pixel-d.json) |
 | Choco Pixel S | 156828 | [156828-choco-pixel-s.json](./156828-choco-pixel-s.json) |
+| Choco Pixel X | 156737 | [156737-choco-pixel-x.json](./156737-choco-pixel-x.json) |
 | Choco Puzzle | 357980 | [357980-choco-puzzle.json](./357980-choco-puzzle.json) |
 | Choco Rabbit Revenge | 145708 | [145708-choco-rabbit-revenge.json](./145708-choco-rabbit-revenge.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
@@ -10821,7 +10823,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
-| City Tales: Medieval Era | 324584 | [324584-city-tales-medieval-era.json](./324584-city-tales-medieval-era.json) |
 | City Taxi Driver | 212562 | [212562-city-taxi-driver.json](./212562-city-taxi-driver.json) |
 | City Things | 203583 | [203583-city-things.json](./203583-city-things.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
@@ -15101,6 +15102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complete it - Jigsaw Puzzles with Beautiful Images | 90396 | [90396-complete-it-jigsaw-puzzles-with-beautiful-images.json](./90396-complete-it-jigsaw-puzzles-with-beautiful-images.json) |
 | Complete Me | 108834 | [108834-complete-me.json](./108834-complete-me.json) |
 | Complete Onside Soccer | 93021 | [93021-complete-onside-soccer.json](./93021-complete-onside-soccer.json) |
+| Completely Lar Lar | 155722 | [155722-completely-lar-lar.json](./155722-completely-lar-lar.json) |
 | Completely Stretchy | 158680 | [158680-completely-stretchy.json](./158680-completely-stretchy.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
 | Complex | 273152 | [273152-complex.json](./273152-complex.json) |
@@ -17735,6 +17737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Protocol: Origins | 420682 | [420682-counter-protocol-origins.json](./420682-counter-protocol-origins.json) |
+| Counter Punch | 152422 | [152422-counter-punch.json](./152422-counter-punch.json) |
 | Counter Recon 2: The New War | 211314 | [211314-counter-recon-2-the-new-war.json](./211314-counter-recon-2-the-new-war.json) |
 | Counter Recon: The First Mission | 147636 | [147636-counter-recon-the-first-mission.json](./147636-counter-recon-the-first-mission.json) |
 | Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
@@ -19160,6 +19163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Fishing Champion | 256200 | [256200-crazy-fishing-champion.json](./256200-crazy-fishing-champion.json) |
 | Crazy Flasher 2 | 398917 | [398917-crazy-flasher-2.json](./398917-crazy-flasher-2.json) |
 | Crazy Flasher 3 | 62165 | [62165-crazy-flasher-3.json](./62165-crazy-flasher-3.json) |
+| Crazy Flasher 7: Mercenary Empire | 153470 | [153470-crazy-flasher-7-mercenary-empire.json](./153470-crazy-flasher-7-mercenary-empire.json) |
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
 | Crazy Flies | 31058 | [31058-crazy-flies.json](./31058-crazy-flies.json) |
 | Crazy Fluffy Slime Maker | 106369 | [106369-crazy-fluffy-slime-maker.json](./106369-crazy-fluffy-slime-maker.json) |
