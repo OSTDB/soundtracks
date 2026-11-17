@@ -4179,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen VR | 121596 | [121596-screen-vr.json](./121596-screen-vr.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | Screenbound | 293733 | [293733-screenbound.json](./293733-screenbound.json) |
+| ScreenBreak | 427698 | [427698-screenbreak.json](./427698-screenbreak.json) |
 | ScreenCade | 411232 | [411232-screencade.json](./411232-screencade.json) |
 | Screencheat | 8816 | [8816-screencheat.json](./8816-screencheat.json) |
 | Screencheat: Unplugged | 112432 | [112432-screencheat-unplugged.json](./112432-screencheat-unplugged.json) |
@@ -4278,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
+| Scrolls: Tidy Up the Library of Olympus! | 427734 | [427734-scrolls-tidy-up-the-library-of-olympus.json](./427734-scrolls-tidy-up-the-library-of-olympus.json) |
 | Scrongly | 366389 | [366389-scrongly.json](./366389-scrongly.json) |
 | Scroomage | 253552 | [253552-scroomage.json](./253552-scroomage.json) |
 | Scroter | 243521 | [243521-scroter.json](./243521-scroter.json) |
@@ -7591,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Empire: Oceania | 225088 | [225088-shadow-empire-oceania.json](./225088-shadow-empire-oceania.json) |
 | Shadow Era | 92268 | [92268-shadow-era.json](./92268-shadow-era.json) |
 | Shadow Escaper | 63805 | [63805-shadow-escaper.json](./63805-shadow-escaper.json) |
+| Shadow Eyes | 427732 | [427732-shadow-eyes.json](./427732-shadow-eyes.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
 | Shadow Fang | 342273 | [342273-shadow-fang.json](./342273-shadow-fang.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
@@ -10146,6 +10149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmup 3-in-1 Bundle | 324039 | [324039-shmup-3-in-1-bundle.json](./324039-shmup-3-in-1-bundle.json) |
 | Shmup Arena | 137831 | [137831-shmup-arena.json](./137831-shmup-arena.json) |
 | Shmup Ball | 186052 | [186052-shmup-ball.json](./186052-shmup-ball.json) |
+| Shmup Boss | 427728 | [427728-shmup-boss.json](./427728-shmup-boss.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
 | Shmup Love Boom | 34831 | [34831-shmup-love-boom.json](./34831-shmup-love-boom.json) |
 | Shmup Mania | 201130 | [201130-shmup-mania.json](./201130-shmup-mania.json) |
@@ -10902,6 +10906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred It! | 20017 | [20017-shred-it.json](./20017-shred-it.json) |
 | Shred Nebula | 73038 | [73038-shred-nebula.json](./73038-shred-nebula.json) |
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
+| Shred the Evidence | 427694 | [427694-shred-the-evidence.json](./427694-shred-the-evidence.json) |
 | Shred the Undead | 258381 | [258381-shred-the-undead.json](./258381-shred-the-undead.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
 | Shred! | 34974 | [34974-shred.json](./34974-shred.json) |
@@ -34621,6 +34626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beco World | 267888 | [267888-super-beco-world.json](./267888-super-beco-world.json) |
 | Super Beco World 2 | 267890 | [267890-super-beco-world-2.json](./267890-super-beco-world-2.json) |
 | Super Beco World 3 | 267892 | [267892-super-beco-world-3.json](./267892-super-beco-world-3.json) |
+| Super Bedrock Brawl | 427726 | [427726-super-bedrock-brawl.json](./427726-super-bedrock-brawl.json) |
 | Super Bee | 41554 | [41554-super-bee.json](./41554-super-bee.json) |
 | Super Benbo Quest: Turbo Deluxe | 88179 | [88179-super-benbo-quest-turbo-deluxe.json](./88179-super-benbo-quest-turbo-deluxe.json) |
 | Super Bernie World | 132574 | [132574-super-bernie-world.json](./132574-super-bernie-world.json) |
