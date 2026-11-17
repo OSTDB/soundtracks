@@ -14431,6 +14431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
 | Sky Warrior | 69506 | [69506-sky-warrior.json](./69506-sky-warrior.json) |
+| Sky Warriors | 165180 | [165180-sky-warriors.json](./165180-sky-warriors.json) |
 | Sky Warriors: Airplane Games | 263852 | [263852-sky-warriors-airplane-games.json](./263852-sky-warriors-airplane-games.json) |
 | Sky Wars | 107577 | [107577-sky-wars.json](./107577-sky-wars.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
@@ -24379,6 +24380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
 | Spider Caro | 329106 | [329106-spider-caro.json](./329106-spider-caro.json) |
+| Spider Crisis | 165087 | [165087-spider-crisis.json](./165087-spider-crisis.json) |
 | Spider Derby | 120370 | [120370-spider-derby.json](./120370-spider-derby.json) |
 | Spider Disco | 183818 | [183818-spider-disco.json](./183818-spider-disco.json) |
 | Spider Escape | 359464 | [359464-spider-escape.json](./359464-spider-escape.json) |
@@ -25951,6 +25953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
+| Sprint Racer | 164098 | [164098-sprint-racer.json](./164098-sprint-racer.json) |
 | Sprint RPG | 119430 | [119430-sprint-rpg.json](./119430-sprint-rpg.json) |
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
 | Sprint.Fire | 235655 | [235655-sprint-fire.json](./235655-sprint-fire.json) |
@@ -31501,6 +31504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Legends | 77478 | [77478-stream-legends.json](./77478-stream-legends.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
+| Stream Pirates | 165103 | [165103-stream-pirates.json](./165103-stream-pirates.json) |
 | Stream plays Gustav | 407000 | [407000-stream-plays-gustav.json](./407000-stream-plays-gustav.json) |
 | Stream Quest | 142410 | [142410-stream-quest.json](./142410-stream-quest.json) |
 | Stream Quiz | 140027 | [140027-stream-quiz.json](./140027-stream-quiz.json) |
@@ -39762,6 +39766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweetie Candy Maze: White Chocolate | 392855 | [392855-sweetie-candy-maze-white-chocolate.json](./392855-sweetie-candy-maze-white-chocolate.json) |
+| Sweetlads' Werewolf | 164106 | [164106-sweetlads-werewolf.json](./164106-sweetlads-werewolf.json) |
 | Sweetland Slumber Party | 350082 | [350082-sweetland-slumber-party.json](./350082-sweetland-slumber-party.json) |
 | Sweetopia | 207023 | [207023-sweetopia.json](./207023-sweetopia.json) |
 | Sweetoria Land | 375777 | [375777-sweetoria-land.json](./375777-sweetoria-land.json) |
@@ -40592,6 +40597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syncrafice | 422704 | [422704-syncrafice.json](./422704-syncrafice.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
 | Syndeo-Complex | 226476 | [226476-syndeo-complex.json](./226476-syndeo-complex.json) |
+| Synder | 164099 | [164099-synder.json](./164099-synder.json) |
 | Syndicate | 1006 | [1006-syndicate.json](./1006-syndicate.json) |
 | Syndicate | 213568 | [213568-syndicate.json](./213568-syndicate.json) |
 | Syndicate | 213570 | [213570-syndicate.json](./213570-syndicate.json) |
