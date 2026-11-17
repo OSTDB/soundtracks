@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quintaesencia | 156989 | [156989-quintaesencia.json](./156989-quintaesencia.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
 | Quintessence | 352507 | [352507-quintessence.json](./352507-quintessence.json) |
+| Quintessence: The Blighted Venom | 69433 | [69433-quintessence-the-blighted-venom.json](./69433-quintessence-the-blighted-venom.json) |
 | Quintet | 36007 | [36007-quintet.json](./36007-quintet.json) |
 | Quintic Warrior | 24716 | [24716-quintic-warrior.json](./24716-quintic-warrior.json) |
 | Quintillion Quest | 380809 | [380809-quintillion-quest.json](./380809-quintillion-quest.json) |
