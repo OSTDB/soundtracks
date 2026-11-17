@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectro Blast | 149256 | [149256-vectro-blast.json](./149256-vectro-blast.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
 | Vectromirror 0 | 159488 | [159488-vectromirror-0.json](./159488-vectromirror-0.json) |
+| Vectron | 18647 | [18647-vectron.json](./18647-vectron.json) |
 | Vectron | 287572 | [287572-vectron.json](./287572-vectron.json) |
 | Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
 | Vectron | 409129 | [409129-vectron.json](./409129-vectron.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vee Rethak: Deep Under the Mountain | 29652 | [29652-vee-rethak-deep-under-the-mountain.json](./29652-vee-rethak-deep-under-the-mountain.json) |
 | Veecaloid Pop | 60194 | [60194-veecaloid-pop.json](./60194-veecaloid-pop.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
+| VeeR Pong | 32284 | [32284-veer-pong.json](./32284-veer-pong.json) |
 | Veg Out Crew | 158357 | [158357-veg-out-crew.json](./158357-veg-out-crew.json) |
 | Veg out Crew FPS | 211890 | [211890-veg-out-crew-fps.json](./211890-veg-out-crew-fps.json) |
 | Veg Slop | 401955 | [401955-veg-slop.json](./401955-veg-slop.json) |
@@ -4298,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Basketball Hoops | 148686 | [148686-vr-basketball-hoops.json](./148686-vr-basketball-hoops.json) |
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
 | VR Batting | 29172 | [29172-vr-batting.json](./29172-vr-batting.json) |
+| VR Battle Grid | 32288 | [32288-vr-battle-grid.json](./32288-vr-battle-grid.json) |
 | VR Black Hole Travel Hypothesis | 172248 | [172248-vr-black-hole-travel-hypothesis.json](./172248-vr-black-hole-travel-hypothesis.json) |
 | VR Blade of Blocks | 334924 | [334924-vr-blade-of-blocks.json](./334924-vr-blade-of-blocks.json) |
 | VR Boxing Master | 170620 | [170620-vr-boxing-master.json](./170620-vr-boxing-master.json) |
