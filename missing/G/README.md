@@ -4652,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 4 Everybody | 132421 | [132421-ghosts-4-everybody.json](./132421-ghosts-4-everybody.json) |
 | Ghosts and Apples | 180963 | [180963-ghosts-and-apples.json](./180963-ghosts-and-apples.json) |
 | Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
+| Ghosts and Monsters | 420434 | [420434-ghosts-and-monsters.json](./420434-ghosts-and-monsters.json) |
 | Ghosts from the House of Flesh | 240576 | [240576-ghosts-from-the-house-of-flesh.json](./240576-ghosts-from-the-house-of-flesh.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts in the Garden | 307630 | [307630-ghosts-in-the-garden.json](./307630-ghosts-in-the-garden.json) |
@@ -6013,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Rings Puzzle | 106975 | [106975-glow-rings-puzzle.json](./106975-glow-rings-puzzle.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
 | Glow Storm | 322085 | [322085-glow-storm.json](./322085-glow-storm.json) |
+| Glow Tail | 420414 | [420414-glow-tail.json](./420414-glow-tail.json) |
 | Glow Unblock | 232287 | [232287-glow-unblock.json](./232287-glow-unblock.json) |
 | Glow Up 1 | 306278 | [306278-glow-up-1.json](./306278-glow-up-1.json) |
 | Glow Up 2 | 320023 | [320023-glow-up-2.json](./320023-glow-up-2.json) |
