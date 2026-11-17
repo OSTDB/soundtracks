@@ -2497,7 +2497,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30th Century Post Office | 28304 | [28304-30th-century-post-office.json](./28304-30th-century-post-office.json) |
 | 30XX | 129944 | [129944-30xx.json](./129944-30xx.json) |
-| 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 | 83702 | [83702-31.json](./83702-31.json) |
 | 31 Full Games for Everyone | 415384 | [415384-31-full-games-for-everyone.json](./415384-31-full-games-for-everyone.json) |
 | 31 Minutos The Game | 298745 | [298745-31-minutos-the-game.json](./298745-31-minutos-the-game.json) |
@@ -3184,7 +3183,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4NR | 55975 | [55975-4nr.json](./55975-4nr.json) |
 | 4ordle | 301040 | [301040-4ordle.json](./301040-4ordle.json) |
 | 4P Ping-Pong | 93492 | [93492-4p-ping-pong.json](./93492-4p-ping-pong.json) |
-| 4PGP | 384184 | [384184-4pgp.json](./384184-4pgp.json) |
 | 4PM | 8115 | [8115-4pm.json](./8115-4pm.json) |
 | 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
 | 4rc4n01d! | 81969 | [81969-4rc4n01d.json](./81969-4rc4n01d.json) |
@@ -3462,7 +3460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6-Mon Adventure | 203618 | [203618-6-mon-adventure.json](./203618-6-mon-adventure.json) |
 | 6-nen 1-gumi | 294246 | [294246-6-nen-1-gumi.json](./294246-6-nen-1-gumi.json) |
 | 6-Pak | 86067 | [86067-6-pak.json](./86067-6-pak.json) |
-| 6-Sided Stories | 304668 | [304668-6-sided-stories.json](./304668-6-sided-stories.json) |
 | 6.543.499.712 | 330765 | [330765-6-543-499-712.json](./330765-6-543-499-712.json) |
 | 60 Below | 377406 | [377406-60-below.json](./377406-60-below.json) |
 | 60 BPM | 328172 | [328172-60-bpm.json](./328172-60-bpm.json) |
