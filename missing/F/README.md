@@ -6245,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Me | 135917 | [135917-find-me.json](./135917-find-me.json) |
 | Find Me | 309418 | [309418-find-me.json](./309418-find-me.json) |
 | Find Me | 365427 | [365427-find-me.json](./365427-find-me.json) |
+| Find Me | 423488 | [423488-find-me.json](./423488-find-me.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
 | Find Me: Horror Game | 127772 | [127772-find-me-horror-game.json](./127772-find-me-horror-game.json) |
