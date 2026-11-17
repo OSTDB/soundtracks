@@ -12050,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Car Crash Online Le Go! | 123943 | [123943-micro-car-crash-online-le-go.json](./123943-micro-car-crash-online-le-go.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Craft 2: Survival | 101151 | [101151-micro-craft-2-survival.json](./101151-micro-craft-2-survival.json) |
+| Micro Craft: Survival | 95711 | [95711-micro-craft-survival.json](./95711-micro-craft-survival.json) |
 | Micro Dash | 194703 | [194703-micro-dash.json](./194703-micro-dash.json) |
 | Micro Doctor | 293791 | [293791-micro-doctor.json](./293791-micro-doctor.json) |
 | Micro Dragracers | 400635 | [400635-micro-dragracers.json](./400635-micro-dragracers.json) |
@@ -21316,6 +21317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
 | Mr. Lupin | 326972 | [326972-mr-lupin.json](./326972-mr-lupin.json) |
 | Mr. Magic | 169833 | [169833-mr-magic.json](./169833-mr-magic.json) |
+| Mr. Mahjong Touch | 92190 | [92190-mr-mahjong-touch.json](./92190-mr-mahjong-touch.json) |
 | Mr. Massagy | 31806 | [31806-mr-massagy.json](./31806-mr-massagy.json) |
 | Mr. Massagy: Mayo Edition | 225461 | [225461-mr-massagy-mayo-edition.json](./225461-mr-massagy-mayo-edition.json) |
 | Mr. Mat Hematic | 234572 | [234572-mr-mat-hematic.json](./234572-mr-mat-hematic.json) |
