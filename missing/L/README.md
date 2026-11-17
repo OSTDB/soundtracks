@@ -10340,6 +10340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovestory | 105578 | [105578-lovestory.json](./105578-lovestory.json) |
 | LoveUnholyc | 194526 | [194526-loveunholyc.json](./194526-loveunholyc.json) |
 | LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
+| Lovewood | 178714 | [178714-lovewood.json](./178714-lovewood.json) |
 | LoveXLust | 279550 | [279550-lovexlust.json](./279550-lovexlust.json) |
 | Lovey Dovey | 268266 | [268266-lovey-dovey.json](./268266-lovey-dovey.json) |
 | Lovey-Dovey Lockdown | 258833 | [258833-lovey-dovey-lockdown.json](./258833-lovey-dovey-lockdown.json) |
