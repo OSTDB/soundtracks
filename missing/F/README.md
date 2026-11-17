@@ -11186,7 +11186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forêt Éternelle | 187362 | [187362-foret-eternelle.json](./187362-foret-eternelle.json) |
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
-| Forever Ago | 136299 | [136299-forever-ago.json](./136299-forever-ago.json) |
 | Forever Alone | 204025 | [204025-forever-alone.json](./204025-forever-alone.json) |
 | Forever and Ever | 167478 | [167478-forever-and-ever.json](./167478-forever-and-ever.json) |
 | Forever and Ever | 274790 | [274790-forever-and-ever.json](./274790-forever-and-ever.json) |
