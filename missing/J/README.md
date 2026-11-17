@@ -3432,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juegue Con Su Amstrad 03: Max | 343139 | [343139-juegue-con-su-amstrad-03-max.json](./343139-juegue-con-su-amstrad-03-max.json) |
 | Juémèng: Cyber | 154587 | [154587-juemeng-cyber.json](./154587-juemeng-cyber.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
+| Juggernaut | 25249 | [25249-juggernaut.json](./25249-juggernaut.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
 | Juggernaut Champions | 56573 | [56573-juggernaut-champions.json](./56573-juggernaut-champions.json) |
 | Juggernaut Corps: First Assault | 62280 | [62280-juggernaut-corps-first-assault.json](./62280-juggernaut-corps-first-assault.json) |
@@ -4360,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Rampage: Smash the City! | 100329 | [100329-jurassic-rampage-smash-the-city.json](./100329-jurassic-rampage-smash-the-city.json) |
 | Jurassic Safari Hunt | 101316 | [101316-jurassic-safari-hunt.json](./101316-jurassic-safari-hunt.json) |
 | Jurassic Snap | 172997 | [172997-jurassic-snap.json](./172997-jurassic-snap.json) |
+| Jurassic Survival | 32160 | [32160-jurassic-survival.json](./32160-jurassic-survival.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
 | Jurassic Tower Defense | 301403 | [301403-jurassic-tower-defense.json](./301403-jurassic-tower-defense.json) |
 | Jurassic War | 14456 | [14456-jurassic-war.json](./14456-jurassic-war.json) |
