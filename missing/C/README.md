@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Caravan Trade Tycoon | 138673 | [138673-caravan-trade-tycoon.json](./138673-caravan-trade-tycoon.json) |
 | Caravan Village: Farming Life | 389590 | [389590-caravan-village-farming-life.json](./389590-caravan-village-farming-life.json) |
+| Caravan War | 87676 | [87676-caravan-war.json](./87676-caravan-war.json) |
 | Caravan: The Trade Road | 390563 | [390563-caravan-the-trade-road.json](./390563-caravan-the-trade-road.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Caravaneer 2 | 102034 | [102034-caravaneer-2.json](./102034-caravaneer-2.json) |
@@ -17719,6 +17720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Terrorist Shooting Critical Shoot Attack | 95798 | [95798-counter-terrorist-shooting-critical-shoot-attack.json](./95798-counter-terrorist-shooting-critical-shoot-attack.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
 | Counter-Strike 1 Anthology | 277809 | [277809-counter-strike-1-anthology.json](./277809-counter-strike-1-anthology.json) |
+| Counter-Strike Avalon | 87751 | [87751-counter-strike-avalon.json](./87751-counter-strike-avalon.json) |
 | Counter-Strike Neo | 76822 | [76822-counter-strike-neo.json](./76822-counter-strike-neo.json) |
 | Counter-Strike NEO: White Memories | 143558 | [143558-counter-strike-neo-white-memories.json](./143558-counter-strike-neo-white-memories.json) |
 | Counter-Strike Nexon | 16957 | [16957-counter-strike-nexon.json](./16957-counter-strike-nexon.json) |
