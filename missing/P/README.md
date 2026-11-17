@@ -15453,6 +15453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Stone 2 | 13106 | [13106-power-stone-2.json](./13106-power-stone-2.json) |
 | Power Stone Collection | 13107 | [13107-power-stone-collection.json](./13107-power-stone-collection.json) |
 | Power Stone Mini | 227746 | [227746-power-stone-mini.json](./227746-power-stone-mini.json) |
+| Power Strife Deathmatch | 206836 | [206836-power-strife-deathmatch.json](./206836-power-strife-deathmatch.json) |
 | Power Strike II | 46337 | [46337-power-strike-ii.json](./46337-power-strike-ii.json) |
 | Power Strike II | 80837 | [80837-power-strike-ii.json](./80837-power-strike-ii.json) |
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
