@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Battle: The Game | 237784 | [237784-castle-battle-the-game.json](./237784-castle-battle-the-game.json) |
 | Castle Battles | 29997 | [29997-castle-battles.json](./29997-castle-battles.json) |
 | Castle Blackstar | 28569 | [28569-castle-blackstar.json](./28569-castle-blackstar.json) |
+| Castle Blast | 46913 | [46913-castle-blast.json](./46913-castle-blast.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
 | Castle Breakout | 39750 | [39750-castle-breakout.json](./39750-castle-breakout.json) |
 | Castle Burn | 254187 | [254187-castle-burn.json](./254187-castle-burn.json) |
@@ -10135,7 +10136,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnamon fight | 150298 | [150298-cinnamon-fight.json](./150298-cinnamon-fight.json) |
 | Cinnamon Tea | 57513 | [57513-cinnamon-tea.json](./57513-cinnamon-tea.json) |
 | Cinnamon: Yume no Daibouken | 49558 | [49558-cinnamon-yume-no-daibouken.json](./49558-cinnamon-yume-no-daibouken.json) |
+| Cinnamoroll Fuwa-fuwa Daisakusen | 49557 | [49557-cinnamoroll-fuwa-fuwa-daisakusen.json](./49557-cinnamoroll-fuwa-fuwa-daisakusen.json) |
 | Cinnamoroll: Cafe Cinnamon de o-Tetsudai | 327568 | [327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json](./327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json) |
+| Cinnamoroll: Koko ni Iru yo | 49556 | [49556-cinnamoroll-koko-ni-iru-yo.json](./49556-cinnamoroll-koko-ni-iru-yo.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
 | Cinnet | 174384 | [174384-cinnet.json](./174384-cinnet.json) |
 | CinQ | 137743 | [137743-cinq.json](./137743-cinq.json) |
@@ -14412,6 +14415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Chess | 11277 | [11277-combat-chess.json](./11277-combat-chess.json) |
 | Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
+| Combat Choro Q: Advance Daisakusen | 49555 | [49555-combat-choro-q-advance-daisakusen.json](./49555-combat-choro-q-advance-daisakusen.json) |
 | Combat Command | 139426 | [139426-combat-command.json](./139426-combat-command.json) |
 | Combat Command 2: Danger Forward | 73950 | [73950-combat-command-2-danger-forward.json](./73950-combat-command-2-danger-forward.json) |
 | Combat Command: Matrix Edition | 123421 | [123421-combat-command-matrix-edition.json](./123421-combat-command-matrix-edition.json) |
@@ -18955,10 +18959,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-chan GG2SMS | 369512 | [369512-crayon-shin-chan-gg2sms.json](./369512-crayon-shin-chan-gg2sms.json) |
 | Crayon Shin-Chan Ora to Shiro ha Otomodachi Da yo | 49131 | [49131-crayon-shin-chan-ora-to-shiro-ha-otomodachi-da-yo.json](./49131-crayon-shin-chan-ora-to-shiro-ha-otomodachi-da-yo.json) |
 | Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!! | 269681 | [269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json](./269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json) |
+| Crayon Shin-chan: Arashi no Yobu Cinema-Land no Daibouken! | 49554 | [49554-crayon-shin-chan-arashi-no-yobu-cinema-land-no-daibouken.json](./49554-crayon-shin-chan-arashi-no-yobu-cinema-land-no-daibouken.json) |
 | Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki! | 136939 | [136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json](./136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json) |
 | Crayon Shin-chan: Arashi wo Yobu Enji | 65377 | [65377-crayon-shin-chan-arashi-wo-yobu-enji.json](./65377-crayon-shin-chan-arashi-wo-yobu-enji.json) |
 | Crayon Shin-chan: Arashi wo Yobu Kasukabe Eiga Stars! | 61415 | [61415-crayon-shin-chan-arashi-wo-yobu-kasukabe-eiga-stars.json](./61415-crayon-shin-chan-arashi-wo-yobu-kasukabe-eiga-stars.json) |
 | Crayon Shin-chan: Arashi wo Yobu Nendororoon Daihenshin! | 20476 | [20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json](./20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json) |
+| Crayon Shin-Chan: Densetsu wo Yobu Omake no to Shukkugaan! | 49553 | [49553-crayon-shin-chan-densetsu-wo-yobu-omake-no-to-shukkugaan.json](./49553-crayon-shin-chan-densetsu-wo-yobu-omake-no-to-shukkugaan.json) |
 | Crayon Shin-Chan: Gekiatsu! Oden World Daikonran!! | 68452 | [68452-crayon-shin-chan-gekiatsu-oden-world-daikonran.json](./68452-crayon-shin-chan-gekiatsu-oden-world-daikonran.json) |
 | Crayon Shin-chan: Guu Choki Panic | 346024 | [346024-crayon-shin-chan-guu-choki-panic.json](./346024-crayon-shin-chan-guu-choki-panic.json) |
 | Crayon Shin-chan: Nagagutsu Dobon!! | 38203 | [38203-crayon-shin-chan-nagagutsu-dobon.json](./38203-crayon-shin-chan-nagagutsu-dobon.json) |
@@ -20289,9 +20295,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croixleur | 63458 | [63458-croixleur.json](./63458-croixleur.json) |
 | Croixleur Sigma | 10116 | [10116-croixleur-sigma.json](./10116-croixleur-sigma.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
+| Croket! 2: Yami no Bank to Ban Joou | 49551 | [49551-croket-2-yami-no-bank-to-ban-joou.json](./49551-croket-2-yami-no-bank-to-ban-joou.json) |
+| Croket! 3: Granyuu Oukoku no Nazo | 49550 | [49550-croket-3-granyuu-oukoku-no-nazo.json](./49550-croket-3-granyuu-oukoku-no-nazo.json) |
+| Croket! 4: Bank no Mori no Mamorigami | 49549 | [49549-croket-4-bank-no-mori-no-mamorigami.json](./49549-croket-4-bank-no-mori-no-mamorigami.json) |
 | Croket! 4: Bank no Mori no Shugoshin | 125502 | [125502-croket-4-bank-no-mori-no-shugoshin.json](./125502-croket-4-bank-no-mori-no-shugoshin.json) |
 | Croket! DS: Tenkuu no Yuusha-tachi | 122459 | [122459-croket-ds-tenkuu-no-yuusha-tachi.json](./122459-croket-ds-tenkuu-no-yuusha-tachi.json) |
+| Croket! Great Jikuu no Boukensha | 49548 | [49548-croket-great-jikuu-no-boukensha.json](./49548-croket-great-jikuu-no-boukensha.json) |
 | Croket! Kindan no Kinka Box | 248202 | [248202-croket-kindan-no-kinka-box.json](./248202-croket-kindan-no-kinka-box.json) |
+| Croket! Yume no Banker Survival! | 49552 | [49552-croket-yume-no-banker-survival.json](./49552-croket-yume-no-banker-survival.json) |
 | Crollors Game Pack | 85559 | [85559-crollors-game-pack.json](./85559-crollors-game-pack.json) |
 | Crom: Journey of Conquest | 173217 | [173217-crom-journey-of-conquest.json](./173217-crom-journey-of-conquest.json) |
 | Crome: Before Purgatory | 112764 | [112764-crome-before-purgatory.json](./112764-crome-before-purgatory.json) |
@@ -23256,6 +23267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
 | Cyber Drift | 205857 | [205857-cyber-drift.json](./205857-cyber-drift.json) |
 | Cyber Drive | 169645 | [169645-cyber-drive.json](./169645-cyber-drive.json) |
+| Cyber Drive Zoids: Hatakedamono no Senshi Hugh | 49547 | [49547-cyber-drive-zoids-hatakedamono-no-senshi-hugh.json](./49547-cyber-drive-zoids-hatakedamono-no-senshi-hugh.json) |
 | Cyber Driver VR | 132935 | [132935-cyber-driver-vr.json](./132935-cyber-driver-vr.json) |
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
 | Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
