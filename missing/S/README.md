@@ -10896,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredder 6 | 92949 | [92949-shredder-6.json](./92949-shredder-6.json) |
 | Shredder 9 | 92886 | [92886-shredder-9.json](./92886-shredder-9.json) |
 | Shredder Chess for iPad | 88538 | [88538-shredder-chess-for-ipad.json](./88538-shredder-chess-for-ipad.json) |
+| Shredding Crush | 104729 | [104729-shredding-crush.json](./104729-shredding-crush.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
@@ -12993,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Hottest Hits | 15175 | [15175-singstar-hottest-hits.json](./15175-singstar-hottest-hits.json) |
 | Singstar: La Edad de Oro del Pop Español | 135680 | [135680-singstar-la-edad-de-oro-del-pop-espanol.json](./135680-singstar-la-edad-de-oro-del-pop-espanol.json) |
 | SingStar: Latino | 15194 | [15194-singstar-latino.json](./15194-singstar-latino.json) |
+| SingStar: Made in Germany | 103023 | [103023-singstar-made-in-germany.json](./103023-singstar-made-in-germany.json) |
 | SingStar: Mallorca Party | 44700 | [44700-singstar-mallorca-party.json](./44700-singstar-mallorca-party.json) |
 | SingStar: Mecano | 44701 | [44701-singstar-mecano.json](./44701-singstar-mecano.json) |
 | SingStar: Miliki | 219494 | [219494-singstar-miliki.json](./219494-singstar-miliki.json) |
@@ -20649,6 +20651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's Guardian | 31226 | [31226-sophies-guardian.json](./31226-sophies-guardian.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
+| Sophisticated Puzzle | 104886 | [104886-sophisticated-puzzle.json](./104886-sophisticated-puzzle.json) |
 | Sophistry | 354682 | [354682-sophistry.json](./354682-sophistry.json) |
 | Sophistry: Live2D | 168048 | [168048-sophistry-live2d.json](./168048-sophistry-live2d.json) |
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
@@ -24241,6 +24244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellseeker | 384261 | [384261-spellseeker.json](./384261-spellseeker.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
 | Spellshard: The Black Crown of Horgoth | 149992 | [149992-spellshard-the-black-crown-of-horgoth.json](./149992-spellshard-the-black-crown-of-horgoth.json) |
+| SpellShokked! | 102998 | [102998-spellshokked.json](./102998-spellshokked.json) |
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
 | Spellsided | 311488 | [311488-spellsided.json](./311488-spellsided.json) |
 | Spellslayer | 266273 | [266273-spellslayer.json](./266273-spellslayer.json) |
@@ -29335,6 +29339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Bastard Deluxe: The Teleporter Chambers | 10924 | [10924-stealth-bastard-deluxe-the-teleporter-chambers.json](./10924-stealth-bastard-deluxe-the-teleporter-chambers.json) |
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
+| Stealth Butcher My Neighbor | 103027 | [103027-stealth-butcher-my-neighbor.json](./103027-stealth-butcher-my-neighbor.json) |
 | Stealth Camping Simulator | 302074 | [302074-stealth-camping-simulator.json](./302074-stealth-camping-simulator.json) |
 | Stealth Combat | 79366 | [79366-stealth-combat.json](./79366-stealth-combat.json) |
 | Stealth Crossword | 342198 | [342198-stealth-crossword.json](./342198-stealth-crossword.json) |
@@ -31550,6 +31555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Dogfighter | 137357 | [137357-stream-dogfighter.json](./137357-stream-dogfighter.json) |
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
+| Stream Games | 103007 | [103007-stream-games.json](./103007-stream-games.json) |
 | Stream Games | 395067 | [395067-stream-games.json](./395067-stream-games.json) |
 | Stream Legends | 77478 | [77478-stream-legends.json](./77478-stream-legends.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
@@ -32956,6 +32962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterranean Library | 271304 | [271304-subterranean-library.json](./271304-subterranean-library.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Subterranean Stryker | 13037 | [13037-subterranean-stryker.json](./13037-subterranean-stryker.json) |
+| Subterraneus | 103001 | [103001-subterraneus.json](./103001-subterraneus.json) |
 | Subterrarium | 32730 | [32730-subterrarium.json](./32730-subterrarium.json) |
 | Subterror | 282522 | [282522-subterror.json](./282522-subterror.json) |
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
@@ -34519,6 +34526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Ball Juggling | 233540 | [233540-super-ball-juggling.json](./233540-super-ball-juggling.json) |
 | Super Ball Mania | 237788 | [237788-super-ball-mania.json](./237788-super-ball-mania.json) |
+| Super Ball Wrestle Yes | 102996 | [102996-super-ball-wrestle-yes.json](./102996-super-ball-wrestle-yes.json) |
 | Super Balloon Rush | 232343 | [232343-super-balloon-rush.json](./232343-super-balloon-rush.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
 | Super Baseball | 245582 | [245582-super-baseball.json](./245582-super-baseball.json) |
@@ -38718,6 +38726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Craft | 131235 | [131235-survival-craft.json](./131235-survival-craft.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
+| Survival Curse Horror | 104730 | [104730-survival-curse-horror.json](./104730-survival-curse-horror.json) |
 | Survival Dead Poly | 267818 | [267818-survival-dead-poly.json](./267818-survival-dead-poly.json) |
 | Survival Dead Poly: Bow | 274637 | [274637-survival-dead-poly-bow.json](./274637-survival-dead-poly-bow.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
