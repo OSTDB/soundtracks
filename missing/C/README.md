@@ -17503,7 +17503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
 | Cosmonet | 98299 | [98299-cosmonet.json](./98299-cosmonet.json) |
 | Cosmonet: Space Adventure | 113132 | [113132-cosmonet-space-adventure.json](./113132-cosmonet-space-adventure.json) |
-| Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmonut | 54658 | [54658-cosmonut.json](./54658-cosmonut.json) |
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
 | CosmoNutz | 194173 | [194173-cosmonutz.json](./194173-cosmonutz.json) |
