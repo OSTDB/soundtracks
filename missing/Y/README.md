@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Kiwami 2 | 55090 | [55090-yakuza-kiwami-2.json](./55090-yakuza-kiwami-2.json) |
 | Yakuza Kiwami 2: Clan Creator Bundle | 224153 | [224153-yakuza-kiwami-2-clan-creator-bundle.json](./224153-yakuza-kiwami-2-clan-creator-bundle.json) |
 | Yakuza Kiwami 2: Limited Edition | 167091 | [167091-yakuza-kiwami-2-limited-edition.json](./167091-yakuza-kiwami-2-limited-edition.json) |
+| Yakuza Kiwami 2: Steelbook Edition | 99228 | [99228-yakuza-kiwami-2-steelbook-edition.json](./99228-yakuza-kiwami-2-steelbook-edition.json) |
 | Yakuza Kiwami 3 & Dark Ties: Deluxe Edition | 370826 | [370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json](./370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json) |
 | Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack | 375193 | [375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json](./375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary BGM CD Pack | 375194 | [375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json](./375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json) |
