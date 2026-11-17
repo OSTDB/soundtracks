@@ -3023,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impirical Evidence | 394437 | [394437-impirical-evidence.json](./394437-impirical-evidence.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | Impixable | 110698 | [110698-impixable.json](./110698-impixable.json) |
+| Implements of Hell | 183624 | [183624-implements-of-hell.json](./183624-implements-of-hell.json) |
 | Implication | 301481 | [301481-implication.json](./301481-implication.json) |
 | ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
 | Implode XL | 66418 | [66418-implode-xl.json](./66418-implode-xl.json) |
@@ -6228,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Survivors | 335212 | [335212-invasion-survivors.json](./335212-invasion-survivors.json) |
 | Invasion To Cane | 275469 | [275469-invasion-to-cane.json](./275469-invasion-to-cane.json) |
 | Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
+| Invasion Versus | 182402 | [182402-invasion-versus.json](./182402-invasion-versus.json) |
 | Invasion Vill | 201873 | [201873-invasion-vill.json](./201873-invasion-vill.json) |
 | Invasion VS | 58640 | [58640-invasion-vs.json](./58640-invasion-vs.json) |
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
