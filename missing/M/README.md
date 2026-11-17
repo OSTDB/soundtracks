@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Driver | 55708 | [55708-mad-driver.json](./55708-mad-driver.json) |
 | Mad Dvizhuha: Benzovoz | 425906 | [425906-mad-dvizhuha-benzovoz.json](./425906-mad-dvizhuha-benzovoz.json) |
 | Mad Ever After | 412748 | [412748-mad-ever-after.json](./412748-mad-ever-after.json) |
+| Mad Evolution: Idle Merge | 422943 | [422943-mad-evolution-idle-merge.json](./422943-mad-evolution-idle-merge.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
 | Mad Experiments: Escape Room | 127216 | [127216-mad-experiments-escape-room.json](./127216-mad-experiments-escape-room.json) |
