@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Way of the Sword - Outfit for the Oni Lady: Elegance | 407131 | [407131-onimusha-way-of-the-sword-outfit-for-the-oni-lady-elegance.json](./407131-onimusha-way-of-the-sword-outfit-for-the-oni-lady-elegance.json) |
 | Onimusha: Way of the Sword - Outfit for the Oni Lady: Snow Camellia | 407132 | [407132-onimusha-way-of-the-sword-outfit-for-the-oni-lady-snow-camellia.json](./407132-onimusha-way-of-the-sword-outfit-for-the-oni-lady-snow-camellia.json) |
 | Onimusha: Way of the Sword - Premium Deluxe Edition | 407109 | [407109-onimusha-way-of-the-sword-premium-deluxe-edition.json](./407109-onimusha-way-of-the-sword-premium-deluxe-edition.json) |
+| Onimusha: Way of the Sword - Steelbook Edition | 421134 | [421134-onimusha-way-of-the-sword-steelbook-edition.json](./421134-onimusha-way-of-the-sword-steelbook-edition.json) |
 | Onimusha: Way of the Sword - Sword Appearance: Bamboo & Panda | 407133 | [407133-onimusha-way-of-the-sword-sword-appearance-bamboo-and-panda.json](./407133-onimusha-way-of-the-sword-sword-appearance-bamboo-and-panda.json) |
 | Onimusha: Way of the Sword - Sword Appearance: Enryuu | 407134 | [407134-onimusha-way-of-the-sword-sword-appearance-enryuu.json](./407134-onimusha-way-of-the-sword-sword-appearance-enryuu.json) |
 | Onimusha: Way of the Sword - Sword Appearance: Raizan | 407135 | [407135-onimusha-way-of-the-sword-sword-appearance-raizan.json](./407135-onimusha-way-of-the-sword-sword-appearance-raizan.json) |
@@ -6344,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverField | 306810 | [306810-overfield.json](./306810-overfield.json) |
 | Overflo Game | 126538 | [126538-overflo-game.json](./126538-overflo-game.json) |
 | Overflow | 65086 | [65086-overflow.json](./65086-overflow.json) |
+| Overflow Protocol | 421122 | [421122-overflow-protocol.json](./421122-overflow-protocol.json) |
 | Overflower | 316858 | [316858-overflower.json](./316858-overflower.json) |
 | Overgame | 177129 | [177129-overgame.json](./177129-overgame.json) |
 | Overgeared Hero | 405029 | [405029-overgeared-hero.json](./405029-overgeared-hero.json) |
