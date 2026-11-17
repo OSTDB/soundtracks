@@ -9614,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Emerland | 52509 | [52509-chronicles-of-emerland.json](./52509-chronicles-of-emerland.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Etia: A Samhain Story | 173429 | [173429-chronicles-of-etia-a-samhain-story.json](./173429-chronicles-of-etia-a-samhain-story.json) |
+| Chronicles of Etia: A Yuletide Story | 182412 | [182412-chronicles-of-etia-a-yuletide-story.json](./182412-chronicles-of-etia-a-yuletide-story.json) |
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
 | Chronicles of Galdurvale | 129854 | [129854-chronicles-of-galdurvale.json](./129854-chronicles-of-galdurvale.json) |
 | Chronicles of Ghost Town | 257130 | [257130-chronicles-of-ghost-town.json](./257130-chronicles-of-ghost-town.json) |
@@ -10936,6 +10937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
 | Civil War: Pea Ridge | 175155 | [175155-civil-war-pea-ridge.json](./175155-civil-war-pea-ridge.json) |
 | Civil War: Stonewall | 175148 | [175148-civil-war-stonewall.json](./175148-civil-war-stonewall.json) |
+| Civil War: The Battle of Bull Run - Take Command 1861 | 182426 | [182426-civil-war-the-battle-of-bull-run-take-command-1861.json](./182426-civil-war-the-battle-of-bull-run-take-command-1861.json) |
 | Civil Warfare | 329048 | [329048-civil-warfare.json](./329048-civil-warfare.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | Civil: The Game | 122061 | [122061-civil-the-game.json](./122061-civil-the-game.json) |
@@ -22471,6 +22473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 | 115711 | [115711-curious-expedition-2.json](./115711-curious-expedition-2.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
+| Curious Expedition 2: Highlands of Avalon | 185713 | [185713-curious-expedition-2-highlands-of-avalon.json](./185713-curious-expedition-2-highlands-of-avalon.json) |
 | Curious Expedition 2: Robots of Lux | 216160 | [216160-curious-expedition-2-robots-of-lux.json](./216160-curious-expedition-2-robots-of-lux.json) |
 | Curious Expedition 2: Shores of Taishi | 200928 | [200928-curious-expedition-2-shores-of-taishi.json](./200928-curious-expedition-2-shores-of-taishi.json) |
 | Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
