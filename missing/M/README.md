@@ -3459,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneater 2 | 416101 | [416101-maneater-2.json](./416101-maneater-2.json) |
 | Maneater and the Golden Teacher | 199394 | [199394-maneater-and-the-golden-teacher.json](./199394-maneater-and-the-golden-teacher.json) |
 | Maneater: Apex Edition | 165854 | [165854-maneater-apex-edition.json](./165854-maneater-apex-edition.json) |
+| Maneater: Day One Edition | 135960 | [135960-maneater-day-one-edition.json](./135960-maneater-day-one-edition.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
 | Maneki Mania | 411088 | [411088-maneki-mania.json](./411088-maneki-mania.json) |
 | Maneki's Curse | 33384 | [33384-manekis-curse.json](./33384-manekis-curse.json) |
@@ -6704,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max and Marie Go Shopping | 128858 | [128858-max-and-marie-go-shopping.json](./128858-max-and-marie-go-shopping.json) |
 | Max and Maya: Cat simulator | 81891 | [81891-max-and-maya-cat-simulator.json](./81891-max-and-maya-cat-simulator.json) |
 | Max and Sparky | 66887 | [66887-max-and-sparky.json](./66887-max-and-sparky.json) |
+| Max and the Book of Chaos | 135921 | [135921-max-and-the-book-of-chaos.json](./135921-max-and-the-book-of-chaos.json) |
 | Max and the Haunted Castle | 127150 | [127150-max-and-the-haunted-castle.json](./127150-max-and-the-haunted-castle.json) |
 | Max and the Magic Hammer | 335747 | [335747-max-and-the-magic-hammer.json](./335747-max-and-the-magic-hammer.json) |
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
@@ -11875,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
 | Miami Speedboat Racer | 69961 | [69961-miami-speedboat-racer.json](./69961-miami-speedboat-racer.json) |
 | Miami Sunset Drive | 192492 | [192492-miami-sunset-drive.json](./192492-miami-sunset-drive.json) |
+| Miami Traffic 3 | 138289 | [138289-miami-traffic-3.json](./138289-miami-traffic-3.json) |
 | Miami Vice | 272177 | [272177-miami-vice.json](./272177-miami-vice.json) |
 | Miami Vice | 28703 | [28703-miami-vice.json](./28703-miami-vice.json) |
 | Miami Vice | 77244 | [77244-miami-vice.json](./77244-miami-vice.json) |
@@ -13422,6 +13425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
 | Militia | 34028 | [34028-militia.json](./34028-militia.json) |
 | Militia 2 | 121293 | [121293-militia-2.json](./121293-militia-2.json) |
+| Militsioner | 138274 | [138274-militsioner.json](./138274-militsioner.json) |
 | Milk | 229592 | [229592-milk.json](./229592-milk.json) |
 | Milk | 314396 | [314396-milk.json](./314396-milk.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
@@ -21971,6 +21975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundaun | 101007 | [101007-mundaun.json](./101007-mundaun.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
 | Mundial Ronaldinho Soccer 64 | 135373 | [135373-mundial-ronaldinho-soccer-64.json](./135373-mundial-ronaldinho-soccer-64.json) |
+| Mundo Gaturro | 138285 | [138285-mundo-gaturro.json](./138285-mundo-gaturro.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
 | Mundus: Impossible Universe 2 | 118020 | [118020-mundus-impossible-universe-2.json](./118020-mundus-impossible-universe-2.json) |
@@ -23082,6 +23087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Classmate is AV Actress | 393708 | [393708-my-classmate-is-av-actress.json](./393708-my-classmate-is-av-actress.json) |
 | My Clinical Death | 414168 | [414168-my-clinical-death.json](./414168-my-clinical-death.json) |
 | My Clone Army: Me, Myself & I | 224010 | [224010-my-clone-army-me-myself-and-i.json](./224010-my-clone-army-me-myself-and-i.json) |
+| My Club Dino | 138284 | [138284-my-club-dino.json](./138284-my-club-dino.json) |
 | My College Life is Very Happy | 405168 | [405168-my-college-life-is-very-happy.json](./405168-my-college-life-is-very-happy.json) |
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
 | My Colony | 111097 | [111097-my-colony.json](./111097-my-colony.json) |
