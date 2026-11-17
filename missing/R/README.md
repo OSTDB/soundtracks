@@ -3082,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Zero - Starting Life in Another World: The Prophecy of the Throne - Collector's Edition | 136191 | [136191-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne-collectors-edition.json](./136191-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne-collectors-edition.json) |
 | Re:Zero - The Forbidden Book and the Mysterious Spirit | 144893 | [144893-re-zero-the-forbidden-book-and-the-mysterious-spirit.json](./144893-re-zero-the-forbidden-book-and-the-mysterious-spirit.json) |
 | Re:Zero -Starting Life in Another World- Death or Kiss Limited Edition | 167132 | [167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json](./167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json) |
+| Re:Zero – Starting Life in Another World: The Prophecy of the Throne - Limited Edition | 135966 | [135966-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne-limited-edition.json](./135966-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne-limited-edition.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu - Infinity | 220324 | [220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu Infinity | 130366 | [130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | Re:Zero Puzzle Collection | 138879 | [138879-re-zero-puzzle-collection.json](./138879-re-zero-puzzle-collection.json) |
@@ -6777,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rethink Lite | 393951 | [393951-rethink-lite.json](./393951-rethink-lite.json) |
 | Rethm: Once Upon a Time | 234369 | [234369-rethm-once-upon-a-time.json](./234369-rethm-once-upon-a-time.json) |
 | Reticent Retribution | 167551 | [167551-reticent-retribution.json](./167551-reticent-retribution.json) |
+| Reticle Dodge | 137155 | [137155-reticle-dodge.json](./137155-reticle-dodge.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
 | Retimo Adventure | 38674 | [38674-retimo-adventure.json](./38674-retimo-adventure.json) |
@@ -7819,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhyme Player | 67037 | [67037-rhyme-player.json](./67037-rhyme-player.json) |
 | Rhyme Rider Kerorican | 37355 | [37355-rhyme-rider-kerorican.json](./37355-rhyme-rider-kerorican.json) |
 | Rhyme Star | 361719 | [361719-rhyme-star.json](./361719-rhyme-star.json) |
+| Rhyme Storm | 139509 | [139509-rhyme-storm.json](./139509-rhyme-storm.json) |
 | Rhyme-A-Line | 306034 | [306034-rhyme-a-line.json](./306034-rhyme-a-line.json) |
 | Rhymo's Falling Star | 306032 | [306032-rhymos-falling-star.json](./306032-rhymos-falling-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
@@ -12724,6 +12727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
 | Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
 | Rot Gut | 34656 | [34656-rot-gut.json](./34656-rot-gut.json) |
+| Rot in a Porcelain Dream | 137157 | [137157-rot-in-a-porcelain-dream.json](./137157-rot-in-a-porcelain-dream.json) |
 | Rot In Hell | 278374 | [278374-rot-in-hell.json](./278374-rot-in-hell.json) |
 | Rot in Paradise | 318124 | [318124-rot-in-paradise.json](./318124-rot-in-paradise.json) |
 | Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
@@ -13251,6 +13255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker MV: The Adventurer's Journey II | 53553 | [53553-rpg-maker-mv-the-adventurers-journey-ii.json](./53553-rpg-maker-mv-the-adventurers-journey-ii.json) |
 | RPG Maker MV: Time Fantasy | 53554 | [53554-rpg-maker-mv-time-fantasy.json](./53554-rpg-maker-mv-time-fantasy.json) |
 | RPG Maker MV: Zonderland | 53556 | [53556-rpg-maker-mv-zonderland.json](./53556-rpg-maker-mv-zonderland.json) |
+| RPG Maker MZ | 137146 | [137146-rpg-maker-mz.json](./137146-rpg-maker-mz.json) |
 | RPG Maker MZ: Sinister Hollows | 53551 | [53551-rpg-maker-mz-sinister-hollows.json](./53551-rpg-maker-mz-sinister-hollows.json) |
 | RPG Maker U2U | 402546 | [402546-rpg-maker-u2u.json](./402546-rpg-maker-u2u.json) |
 | RPG Maker VX | 80205 | [80205-rpg-maker-vx.json](./80205-rpg-maker-vx.json) |
@@ -14289,6 +14294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runestone Keeper | 36026 | [36026-runestone-keeper.json](./36026-runestone-keeper.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runestone: Pathfinders | 292199 | [292199-runestone-pathfinders.json](./292199-runestone-pathfinders.json) |
+| Runestrike | 137148 | [137148-runestrike.json](./137148-runestrike.json) |
 | RuneSword 2 | 69997 | [69997-runesword-2.json](./69997-runesword-2.json) |
 | Runet Legend | 310799 | [310799-runet-legend.json](./310799-runet-legend.json) |
 | RuneTech | 101341 | [101341-runetech.json](./101341-runetech.json) |
