@@ -9159,6 +9159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
 | The Deer God | 17952 | [17952-the-deer-god.json](./17952-the-deer-god.json) |
 | The Deerfather | 183765 | [183765-the-deerfather.json](./183765-the-deerfather.json) |
+| The Defaloon | 189158 | [189158-the-defaloon.json](./189158-the-defaloon.json) |
 | The Defender: Farm and Castle | 117626 | [117626-the-defender-farm-and-castle.json](./117626-the-defender-farm-and-castle.json) |
 | The Defender: Farm and Castle 2 | 126931 | [126931-the-defender-farm-and-castle-2.json](./126931-the-defender-farm-and-castle-2.json) |
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
@@ -19514,6 +19515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
 | The Tale of Doris and the Dragon - Episode 2 | 128082 | [128082-the-tale-of-doris-and-the-dragon-episode-2.json](./128082-the-tale-of-doris-and-the-dragon-episode-2.json) |
 | The Tale of Dragons and Oceans | 259440 | [259440-the-tale-of-dragons-and-oceans.json](./259440-the-tale-of-dragons-and-oceans.json) |
+| The Tale of Fighting Nymphs | 189152 | [189152-the-tale-of-fighting-nymphs.json](./189152-the-tale-of-fighting-nymphs.json) |
 | The tale of Five Kingdoms | 194154 | [194154-the-tale-of-five-kingdoms.json](./194154-the-tale-of-five-kingdoms.json) |
 | The Tale of Food | 246983 | [246983-the-tale-of-food.json](./246983-the-tale-of-food.json) |
 | The Tale of Galariel | 228304 | [228304-the-tale-of-galariel.json](./228304-the-tale-of-galariel.json) |
@@ -24202,6 +24204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Striker: MP050 | 189754 | [189754-tiger-striker-mp050.json](./189754-tiger-striker-mp050.json) |
 | Tiger Striker: MP051 | 189737 | [189737-tiger-striker-mp051.json](./189737-tiger-striker-mp051.json) |
 | Tiger Striker: MP052 | 189740 | [189740-tiger-striker-mp052.json](./189740-tiger-striker-mp052.json) |
+| Tiger Striker: MP053 | 189724 | [189724-tiger-striker-mp053.json](./189724-tiger-striker-mp053.json) |
 | Tiger Striker: MP054 | 189720 | [189720-tiger-striker-mp054.json](./189720-tiger-striker-mp054.json) |
 | Tiger Striker: MP055 | 173467 | [173467-tiger-striker-mp055.json](./173467-tiger-striker-mp055.json) |
 | Tiger Striker: MP056 | 189742 | [189742-tiger-striker-mp056.json](./189742-tiger-striker-mp056.json) |
@@ -33817,6 +33820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler | 202985 | [202985-traveler.json](./202985-traveler.json) |
 | Traveler | 231589 | [231589-traveler.json](./231589-traveler.json) |
 | Traveler | 238969 | [238969-traveler.json](./238969-traveler.json) |
+| Traveler Bird | 189086 | [189086-traveler-bird.json](./189086-traveler-bird.json) |
 | Traveler Eternal Night | 288566 | [288566-traveler-eternal-night.json](./288566-traveler-eternal-night.json) |
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
 | Traveler of Artcaster | 149508 | [149508-traveler-of-artcaster.json](./149508-traveler-of-artcaster.json) |
@@ -36603,6 +36607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
 | Turn N Run | 106267 | [106267-turn-n-run.json](./106267-turn-n-run.json) |
+| Turn off the light | 188707 | [188707-turn-off-the-light.json](./188707-turn-off-the-light.json) |
 | Turn on All the Lights | 149830 | [149830-turn-on-all-the-lights.json](./149830-turn-on-all-the-lights.json) |
 | Turn on the Light | 137283 | [137283-turn-on-the-light.json](./137283-turn-on-the-light.json) |
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
