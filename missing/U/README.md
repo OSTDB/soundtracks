@@ -263,7 +263,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Patrol | 40594 | [40594-ufo-patrol.json](./40594-ufo-patrol.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO Robo Dangar | 39994 | [39994-ufo-robo-dangar.json](./39994-ufo-robo-dangar.json) |
-| UFO Robot Grendizer: The Feast of the Wolves | 239407 | [239407-ufo-robot-grendizer-the-feast-of-the-wolves.json](./239407-ufo-robot-grendizer-the-feast-of-the-wolves.json) |
 | UFO Robot Grendizer: The Feast of the Wolves - Collector's Edition | 241083 | [241083-ufo-robot-grendizer-the-feast-of-the-wolves-collectors-edition.json](./241083-ufo-robot-grendizer-the-feast-of-the-wolves-collectors-edition.json) |
 | UFO Robot Grendizer: The Feast of the Wolves - Deluxe Edition | 241082 | [241082-ufo-robot-grendizer-the-feast-of-the-wolves-deluxe-edition.json](./241082-ufo-robot-grendizer-the-feast-of-the-wolves-deluxe-edition.json) |
 | UFO Robot Grendizer: The Feast of the Wolves - Princely Outfit | 301563 | [301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json](./301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json) |
@@ -973,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Fight Da! Kyanta 2 | 125614 | [125614-ultra-fight-da-kyanta-2.json](./125614-ultra-fight-da-kyanta-2.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
 | Ultra Fishing | 231109 | [231109-ultra-fishing.json](./231109-ultra-fishing.json) |
+| Ultra Flight Pack | 138310 | [138310-ultra-flight-pack.json](./138310-ultra-flight-pack.json) |
 | Ultra Foodmess | 129323 | [129323-ultra-foodmess.json](./129323-ultra-foodmess.json) |
 | Ultra Foodmess 2 | 257905 | [257905-ultra-foodmess-2.json](./257905-ultra-foodmess-2.json) |
 | Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
