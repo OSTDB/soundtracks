@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Espada | 34690 | [34690-daily-espada.json](./34690-daily-espada.json) |
 | Daily Hidden Object | 417780 | [417780-daily-hidden-object.json](./417780-daily-hidden-object.json) |
 | Daily Life With My Succubus Boss | 226555 | [226555-daily-life-with-my-succubus-boss.json](./226555-daily-life-with-my-succubus-boss.json) |
+| Daily Life with the Herb Girl | 420408 | [420408-daily-life-with-the-herb-girl.json](./420408-daily-life-with-the-herb-girl.json) |
 | Daily Mah Jong | 95663 | [95663-daily-mah-jong.json](./95663-daily-mah-jong.json) |
 | Daily POP Crosswords | 87482 | [87482-daily-pop-crosswords.json](./87482-daily-pop-crosswords.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
@@ -13103,6 +13104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You See the Waving Cape | 150391 | [150391-do-you-see-the-waving-cape.json](./150391-do-you-see-the-waving-cape.json) |
 | Do You Think This is a Game? | 229271 | [229271-do-you-think-this-is-a-game.json](./229271-do-you-think-this-is-a-game.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
+| Do Your Dailies | 420422 | [420422-do-your-dailies.json](./420422-do-your-dailies.json) |
 | Do-Do | 85924 | [85924-do-do.json](./85924-do-do.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
 | Do-M Imouto O-nedari Kojin Lesson: Watashi no Sex Katei-kyoushi Oniichan | 108917 | [108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json](./108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json) |
