@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sage Fusion 2 | 74848 | [74848-sage-fusion-2.json](./74848-sage-fusion-2.json) |
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
+| Sage: Psychic Spy | 428250 | [428250-sage-psychic-spy.json](./428250-sage-psychic-spy.json) |
 | Sageball | 123788 | [123788-sageball.json](./123788-sageball.json) |
 | Sagebrush | 102095 | [102095-sagebrush.json](./102095-sagebrush.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
@@ -9354,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shika-Q: Premium Edition | 396143 | [396143-shika-q-premium-edition.json](./396143-shika-q-premium-edition.json) |
 | Shikaku by Nikoli | 406982 | [406982-shikaku-by-nikoli.json](./406982-shikaku-by-nikoli.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
+| Shikaku Room | 428285 | [428285-shikaku-room.json](./428285-shikaku-room.json) |
 | Shikaku Shapes | 147662 | [147662-shikaku-shapes.json](./147662-shikaku-shapes.json) |
 | Shikakui Atama wo Maru Kusuru Advance: Kanji Keisan-hen | 49781 | [49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json](./49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json) |
 | Shikakui Atama wo Maru Kusuru Advance: Kokugo Sansuu Shakai Rika-hen | 49780 | [49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json](./49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json) |
@@ -15962,6 +15964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slug Races | 180482 | [180482-slug-races.json](./180482-slug-races.json) |
 | Slug Slasher | 93786 | [93786-slug-slasher.json](./93786-slug-slasher.json) |
 | Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
+| Slug Thug | 428253 | [428253-slug-thug.json](./428253-slug-thug.json) |
 | Slug's Sister Defense | 329241 | [329241-slugs-sister-defense.json](./329241-slugs-sister-defense.json) |
 | Slugcaster | 181834 | [181834-slugcaster.json](./181834-slugcaster.json) |
 | Slugfest | 257750 | [257750-slugfest.json](./257750-slugfest.json) |
@@ -19146,6 +19149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SolveIt! A Puzzle Solving Simulator | 390328 | [390328-solveit-a-puzzle-solving-simulator.json](./390328-solveit-a-puzzle-solving-simulator.json) |
 | Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
 | SolveWithMe | 241203 | [241203-solvewithme.json](./241203-solvewithme.json) |
+| Solvi: Elemental World | 428280 | [428280-solvi-elemental-world.json](./428280-solvi-elemental-world.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
 | Solward | 335468 | [335468-solward.json](./335468-solward.json) |
 | Solys | 166867 | [166867-solys.json](./166867-solys.json) |
@@ -19200,6 +19204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Trashy Game | 181536 | [181536-some-trashy-game.json](./181536-some-trashy-game.json) |
 | Some Type of Trip | 407613 | [407613-some-type-of-trip.json](./407613-some-type-of-trip.json) |
 | Some: The House | 350308 | [350308-some-the-house.json](./350308-some-the-house.json) |
+| Somebody's Home: The Boarding House | 428229 | [428229-somebodys-home-the-boarding-house.json](./428229-somebodys-home-the-boarding-house.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
 | Someone Cloned The President | 370051 | [370051-someone-cloned-the-president.json](./370051-someone-cloned-the-president.json) |
@@ -20099,6 +20104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Racing: CrossWorlds - Mega Man Pack | 369989 | [369989-sonic-racing-crossworlds-mega-man-pack.json](./369989-sonic-racing-crossworlds-mega-man-pack.json) |
 | Sonic Racing: CrossWorlds - Minecraft Pack | 374099 | [374099-sonic-racing-crossworlds-minecraft-pack.json](./374099-sonic-racing-crossworlds-minecraft-pack.json) |
 | Sonic Racing: CrossWorlds - Pac-Man Pack | 375170 | [375170-sonic-racing-crossworlds-pac-man-pack.json](./375170-sonic-racing-crossworlds-pac-man-pack.json) |
+| Sonic Racing: CrossWorlds - Sega Consoles Pack | 428238 | [428238-sonic-racing-crossworlds-sega-consoles-pack.json](./428238-sonic-racing-crossworlds-sega-consoles-pack.json) |
 | Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack | 375166 | [375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json](./375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json) |
 | Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Mutant Mayhem Pack | 375168 | [375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json](./375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json) |
 | Sonic Racing: CrossWorlds - Werehog Pack | 408746 | [408746-sonic-racing-crossworlds-werehog-pack.json](./408746-sonic-racing-crossworlds-werehog-pack.json) |
@@ -24355,6 +24361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
 | SpessVR | 115228 | [115228-spessvr.json](./115228-spessvr.json) |
 | Spewer | 63228 | [63228-spewer.json](./63228-spewer.json) |
+| Spexl | 428258 | [428258-spexl.json](./428258-spexl.json) |
 | Speyarranoth | 168615 | [168615-speyarranoth.json](./168615-speyarranoth.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
@@ -33489,6 +33496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Ray Leonard: Talking Boxing | 198930 | [198930-sugar-ray-leonard-talking-boxing.json](./198930-sugar-ray-leonard-talking-boxing.json) |
 | Sugar Rush | 311738 | [311738-sugar-rush.json](./311738-sugar-rush.json) |
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
+| Sugar Rush Rescue | 428295 | [428295-sugar-rush-rescue.json](./428295-sugar-rush-rescue.json) |
 | Sugar Service | 379590 | [379590-sugar-service.json](./379590-sugar-service.json) |
 | Sugar Shack | 236767 | [236767-sugar-shack.json](./236767-sugar-shack.json) |
 | Sugar Shatter | 389919 | [389919-sugar-shatter.json](./389919-sugar-shatter.json) |
