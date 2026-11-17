@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.L.U.C.K. | 350374 | [350374-c-l-u-c-k.json](./350374-c-l-u-c-k.json) |
 | C.M.Y.K | 135046 | [135046-c-m-y-k.json](./135046-c-m-y-k.json) |
 | C.O.D.E.R.E.D | 191034 | [191034-c-o-d-e-r-e-d.json](./191034-c-o-d-e-r-e-d.json) |
+| C.O.P. The Recruit | 8611 | [8611-c-o-p-the-recruit.json](./8611-c-o-p-the-recruit.json) |
 | C.O.R.E. | 20977 | [20977-c-o-r-e.json](./20977-c-o-r-e.json) |
 | C.O.Ś. | 311360 | [311360-c-o-s.json](./311360-c-o-s.json) |
 | C.P.U. Bach | 94650 | [94650-c-p-u-bach.json](./94650-c-p-u-bach.json) |
@@ -11534,6 +11535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Sweep | 18159 | [18159-clean-sweep.json](./18159-clean-sweep.json) |
 | Clean Sweep | 18784 | [18784-clean-sweep.json](./18784-clean-sweep.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
+| Clean the Bay | 430036 | [430036-clean-the-bay.json](./430036-clean-the-bay.json) |
 | Clean Tides | 422435 | [422435-clean-tides.json](./422435-clean-tides.json) |
 | Clean Up After Your Dog | 280427 | [280427-clean-up-after-your-dog.json](./280427-clean-up-after-your-dog.json) |
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
@@ -11828,6 +11830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clickyland | 291296 | [291296-clickyland.json](./291296-clickyland.json) |
+| Clid the Snail | 140823 | [140823-clid-the-snail.json](./140823-clid-the-snail.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
 | Cliff & Field | 187615 | [187615-cliff-and-field.json](./187615-cliff-and-field.json) |
@@ -12033,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClockWork | 217480 | [217480-clockwork.json](./217480-clockwork.json) |
 | Clockwork Ambrosia | 288975 | [288975-clockwork-ambrosia.json](./288975-clockwork-ambrosia.json) |
 | Clockwork Apple | 182934 | [182934-clockwork-apple.json](./182934-clockwork-apple.json) |
+| Clockwork Aquario | 141317 | [141317-clockwork-aquario.json](./141317-clockwork-aquario.json) |
 | Clockwork Blackout | 400649 | [400649-clockwork-blackout.json](./400649-clockwork-blackout.json) |
 | Clockwork Calamity in Mushroom World | 180886 | [180886-clockwork-calamity-in-mushroom-world.json](./180886-clockwork-calamity-in-mushroom-world.json) |
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
@@ -15117,6 +15121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complete Cossacks 3 Experience | 52314 | [52314-complete-cossacks-3-experience.json](./52314-complete-cossacks-3-experience.json) |
 | Complete Costume Collection | 52833 | [52833-complete-costume-collection.json](./52833-complete-costume-collection.json) |
 | Complete Davis Cup Tennis | 92396 | [92396-complete-davis-cup-tennis.json](./92396-complete-davis-cup-tennis.json) |
+| Complete Horror | 429888 | [429888-complete-horror.json](./429888-complete-horror.json) |
 | Complete it - Jigsaw Puzzles with Beautiful Images | 90396 | [90396-complete-it-jigsaw-puzzles-with-beautiful-images.json](./90396-complete-it-jigsaw-puzzles-with-beautiful-images.json) |
 | Complete Me | 108834 | [108834-complete-me.json](./108834-complete-me.json) |
 | Complete Onside Soccer | 93021 | [93021-complete-onside-soccer.json](./93021-complete-onside-soccer.json) |
@@ -16830,6 +16835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Smash! | 106949 | [106949-core-smash.json](./106949-core-smash.json) |
 | Core Stratagem | 134918 | [134918-core-stratagem.json](./134918-core-stratagem.json) |
 | Core Trials | 331240 | [331240-core-trials.json](./331240-core-trials.json) |
+| Core Valley | 429924 | [429924-core-valley.json](./429924-core-valley.json) |
 | Core War | 143413 | [143413-core-war.json](./143413-core-war.json) |
 | Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
@@ -19274,6 +19280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines 1.5 New from the Lab | 90471 | [90471-crazy-machines-1-5-new-from-the-lab.json](./90471-crazy-machines-1-5-new-from-the-lab.json) |
 | Crazy Machines 1.5: More Gizmos, Gadgets, & Whatchamacallits | 72241 | [72241-crazy-machines-1-5-more-gizmos-gadgets-and-whatchamacallits.json](./72241-crazy-machines-1-5-more-gizmos-gadgets-and-whatchamacallits.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
+| Crazy Machines 2 | 9803 | [9803-crazy-machines-2.json](./9803-crazy-machines-2.json) |
 | Crazy Machines 2 Anniversary | 24319 | [24319-crazy-machines-2-anniversary.json](./24319-crazy-machines-2-anniversary.json) |
 | Crazy Machines 2: Anniversary DLC | 164367 | [164367-crazy-machines-2-anniversary-dlc.json](./164367-crazy-machines-2-anniversary-dlc.json) |
 | Crazy Machines 2: Back to the Shop Add-On | 164373 | [164373-crazy-machines-2-back-to-the-shop-add-on.json](./164373-crazy-machines-2-back-to-the-shop-add-on.json) |
@@ -20475,6 +20482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross the Road | 230687 | [230687-cross-the-road.json](./230687-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
+| Cross Tracks | 430198 | [430198-cross-tracks.json](./430198-cross-tracks.json) |
 | Cross Treasures | 67760 | [67760-cross-treasures.json](./67760-cross-treasures.json) |
 | Cross Verbix | 311958 | [311958-cross-verbix.json](./311958-cross-verbix.json) |
 | Cross Wiber: Cyber-Combat-Police | 38088 | [38088-cross-wiber-cyber-combat-police.json](./38088-cross-wiber-cyber-combat-police.json) |
@@ -20496,6 +20504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossbow Potato | 112311 | [112311-crossbow-potato.json](./112311-crossbow-potato.json) |
 | Crossbow Quest | 309411 | [309411-crossbow-quest.json](./309411-crossbow-quest.json) |
 | Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
+| Crossbow: Bloodnight | 139147 | [139147-crossbow-bloodnight.json](./139147-crossbow-bloodnight.json) |
 | CrossCells | 28924 | [28924-crosscells.json](./28924-crosscells.json) |
 | CrossCheck | 15920 | [15920-crosscheck.json](./15920-crosscheck.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
