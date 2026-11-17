@@ -7955,7 +7955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfsong | 33568 | [33568-wolfsong.json](./33568-wolfsong.json) |
 | Wolfsschanze: Operation Götterdämmerung | 421585 | [421585-wolfsschanze-operation-gotterdammerung.json](./421585-wolfsschanze-operation-gotterdammerung.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
-| Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
 | Wolfstride: Golden God Edition | 186364 | [186364-wolfstride-golden-god-edition.json](./186364-wolfstride-golden-god-edition.json) |
 | WolfTeam: Classic | 395375 | [395375-wolfteam-classic.json](./395375-wolfteam-classic.json) |
 | Wolfteam: Reboot | 236760 | [236760-wolfteam-reboot.json](./236760-wolfteam-reboot.json) |
