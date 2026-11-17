@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal*Gun 2: Complete DLC Bundle | 238337 | [238337-gal-gun-2-complete-dlc-bundle.json](./238337-gal-gun-2-complete-dlc-bundle.json) |
 | Gal*Gun 2: Complete Edition | 238338 | [238338-gal-gun-2-complete-edition.json](./238338-gal-gun-2-complete-edition.json) |
 | Gal*Gun 2: Limited Edition | 358981 | [358981-gal-gun-2-limited-edition.json](./358981-gal-gun-2-limited-edition.json) |
+| Gal*Gun Returns | 139180 | [139180-gal-gun-returns.json](./139180-gal-gun-returns.json) |
 | Gal*Gun Returns: Birthday Suit Edition | 370383 | [370383-gal-gun-returns-birthday-suit-edition.json](./370383-gal-gun-returns-birthday-suit-edition.json) |
 | Gal*Gun VR | 54581 | [54581-gal-gun-vr.json](./54581-gal-gun-vr.json) |
 | Gal*Gun: Double Peace | 11564 | [11564-gal-gun-double-peace.json](./11564-gal-gun-double-peace.json) |
@@ -1169,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galcon | 29041 | [29041-galcon.json](./29041-galcon.json) |
 | Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
 | Galcon 2: Galactic Conquest | 17291 | [17291-galcon-2-galactic-conquest.json](./17291-galcon-2-galactic-conquest.json) |
+| Galcon Fusion | 8917 | [8917-galcon-fusion.json](./8917-galcon-fusion.json) |
 | Galcon Labs | 67216 | [67216-galcon-labs.json](./67216-galcon-labs.json) |
 | Galcon Legends | 8918 | [8918-galcon-legends.json](./8918-galcon-legends.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
@@ -3304,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis | 334397 | [334397-genesis.json](./334397-genesis.json) |
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
+| Genesis Alpha One | 27398 | [27398-genesis-alpha-one.json](./27398-genesis-alpha-one.json) |
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
 | Genesis II | 296814 | [296814-genesis-ii.json](./296814-genesis-ii.json) |
 | Genesis Masterwork Apocalypse | 142506 | [142506-genesis-masterwork-apocalypse.json](./142506-genesis-masterwork-apocalypse.json) |
@@ -3334,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genetica: Extinction | 390476 | [390476-genetica-extinction.json](./390476-genetica-extinction.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
 | Genetos | 64187 | [64187-genetos.json](./64187-genetos.json) |
+| Geneva Vice | 429962 | [429962-geneva-vice.json](./429962-geneva-vice.json) |
 | Genewars | 14455 | [14455-genewars.json](./14455-genewars.json) |
 | GeneWars | 216553 | [216553-genewars.json](./216553-genewars.json) |
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
@@ -5598,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glib | 40672 | [40672-glib.json](./40672-glib.json) |
+| Glibber Cup: Beach Volleyball | 430055 | [430055-glibber-cup-beach-volleyball.json](./430055-glibber-cup-beach-volleyball.json) |
 | Glide | 145856 | [145856-glide.json](./145856-glide.json) |
 | Glide Collide | 96927 | [96927-glide-collide.json](./96927-glide-collide.json) |
 | Glide Hockey | 80149 | [80149-glide-hockey.json](./80149-glide-hockey.json) |
@@ -5675,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Puzzle | 202214 | [202214-glitch-puzzle.json](./202214-glitch-puzzle.json) |
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
 | Glitch Run | 412977 | [412977-glitch-run.json](./412977-glitch-run.json) |
+| Glitch Simulator 2018 | 55634 | [55634-glitch-simulator-2018.json](./55634-glitch-simulator-2018.json) |
 | Glitch Strike | 134611 | [134611-glitch-strike.json](./134611-glitch-strike.json) |
 | Glitch Tank | 61362 | [61362-glitch-tank.json](./61362-glitch-tank.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
@@ -6628,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Daily Life | 263131 | [263131-goblin-daily-life.json](./263131-goblin-daily-life.json) |
 | Goblin Dash | 235042 | [235042-goblin-dash.json](./235042-goblin-dash.json) |
 | Goblin Defenders: Steel 'n' Wood | 53076 | [53076-goblin-defenders-steel-n-wood.json](./53076-goblin-defenders-steel-n-wood.json) |
+| Goblin Defenders: Steel'n' Wood | 34081 | [34081-goblin-defenders-steeln-wood.json](./34081-goblin-defenders-steeln-wood.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Dish | 413454 | [413454-goblin-dish.json](./413454-goblin-dish.json) |
 | Goblin Down | 247973 | [247973-goblin-down.json](./247973-goblin-down.json) |
@@ -8377,6 +8384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Guerrillas | 143919 | [143919-gorilla-guerrillas.json](./143919-gorilla-guerrillas.json) |
 | Gorilla Jungle King Simulator | 360216 | [360216-gorilla-jungle-king-simulator.json](./360216-gorilla-jungle-king-simulator.json) |
 | Gorilla Online! | 188402 | [188402-gorilla-online.json](./188402-gorilla-online.json) |
+| Gorilla Rush | 430096 | [430096-gorilla-rush.json](./430096-gorilla-rush.json) |
 | Gorilla Showdown | 396646 | [396646-gorilla-showdown.json](./396646-gorilla-showdown.json) |
 | Gorilla Simulator | 396017 | [396017-gorilla-simulator.json](./396017-gorilla-simulator.json) |
 | Gorilla Slot Infinity | 326704 | [326704-gorilla-slot-infinity.json](./326704-gorilla-slot-infinity.json) |
@@ -11260,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Water: Episode of Dhanra | 374115 | [374115-ground-water-episode-of-dhanra.json](./374115-ground-water-episode-of-dhanra.json) |
 | Ground Wave | 91687 | [91687-ground-wave.json](./91687-ground-wave.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
+| Ground Zero | 253340 | [253340-ground-zero.json](./253340-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
 | Ground Zero | 46902 | [46902-ground-zero.json](./46902-ground-zero.json) |
 | Ground Zero: Genesis of a New World | 66552 | [66552-ground-zero-genesis-of-a-new-world.json](./66552-ground-zero-genesis-of-a-new-world.json) |
