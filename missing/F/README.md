@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
 | Falcon 4.0 Gold: Operation Infinite Resolve | 209241 | [209241-falcon-4-0-gold-operation-infinite-resolve.json](./209241-falcon-4-0-gold-operation-infinite-resolve.json) |
 | Falcon 4.0: Allied Force | 695 | [695-falcon-4-0-allied-force.json](./695-falcon-4-0-allied-force.json) |
+| Falcon A.T. | 12483 | [12483-falcon-a-t.json](./12483-falcon-a-t.json) |
 | Falcon Beertender | 198148 | [198148-falcon-beertender.json](./198148-falcon-beertender.json) |
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury Special | 426390 | [426390-fatal-fury-special.json](./426390-fatal-fury-special.json) |
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
 | Fatal Fury: Battle Archives Volume 1 | 21232 | [21232-fatal-fury-battle-archives-volume-1.json](./21232-fatal-fury-battle-archives-volume-1.json) |
+| Fatal Fury: Battle Archives Volume 2 | 140091 | [140091-fatal-fury-battle-archives-volume-2.json](./140091-fatal-fury-battle-archives-volume-2.json) |
 | Fatal Fury: City of the Wolves - Andy Bogard | 349908 | [349908-fatal-fury-city-of-the-wolves-andy-bogard.json](./349908-fatal-fury-city-of-the-wolves-andy-bogard.json) |
 | Fatal Fury: City of the Wolves - Blue Mary | 411283 | [411283-fatal-fury-city-of-the-wolves-blue-mary.json](./411283-fatal-fury-city-of-the-wolves-blue-mary.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
@@ -6569,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiora | 363686 | [363686-fiora.json](./363686-fiora.json) |
 | Fiora Arc | 273494 | [273494-fiora-arc.json](./273494-fiora-arc.json) |
 | Fiore I: Daffodil | 153918 | [153918-fiore-i-daffodil.json](./153918-fiore-i-daffodil.json) |
+| Fique de Pé | 429846 | [429846-fique-de-pe.json](./429846-fique-de-pe.json) |
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
 | Firby | 400101 | [400101-firby.json](./400101-firby.json) |
@@ -6885,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire the Zombies | 199531 | [199531-fire-the-zombies.json](./199531-fire-the-zombies.json) |
 | Fire Theft | 141749 | [141749-fire-theft.json](./141749-fire-theft.json) |
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
+| Fire Tonight | 139461 | [139461-fire-tonight.json](./139461-fire-tonight.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
 | Fire Truck | 143172 | [143172-fire-truck.json](./143172-fire-truck.json) |
 | Fire Truck | 40039 | [40039-fire-truck.json](./40039-fire-truck.json) |
@@ -9365,6 +9369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
 | Flopball | 425201 | [425201-flopball.json](./425201-flopball.json) |
 | Flopfish | 380645 | [380645-flopfish.json](./380645-flopfish.json) |
+| Floppa Mining | 429843 | [429843-floppa-mining.json](./429843-floppa-mining.json) |
 | Floppa: The Dark Forest | 290133 | [290133-floppa-the-dark-forest.json](./290133-floppa-the-dark-forest.json) |
 | Flopparena | 244631 | [244631-flopparena.json](./244631-flopparena.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
@@ -9924,6 +9929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Heroes | 24119 | [24119-flying-heroes.json](./24119-flying-heroes.json) |
 | Flying High | 297123 | [297123-flying-high.json](./297123-flying-high.json) |
 | Flying in Labyrinth | 114934 | [114934-flying-in-labyrinth.json](./114934-flying-in-labyrinth.json) |
+| Flying Island Miner | 430107 | [430107-flying-island-miner.json](./430107-flying-island-miner.json) |
 | Flying Islands | 366955 | [366955-flying-islands.json](./366955-flying-islands.json) |
 | Flying Islands Chronicles | 54038 | [54038-flying-islands-chronicles.json](./54038-flying-islands-chronicles.json) |
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
@@ -14116,7 +14122,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger Hop Trivia | 11472 | [11472-frogger-hop-trivia.json](./11472-frogger-hop-trivia.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
 | Frogger Inferno | 11474 | [11474-frogger-inferno.json](./11474-frogger-inferno.json) |
+| Frogger Launch | 11471 | [11471-frogger-launch.json](./11471-frogger-launch.json) |
 | Frogger Pinball | 63920 | [63920-frogger-pinball.json](./63920-frogger-pinball.json) |
+| Frogger Puzzle | 11469 | [11469-frogger-puzzle.json](./11469-frogger-puzzle.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Frogger TV Arcade | 220091 | [220091-frogger-tv-arcade.json](./220091-frogger-tv-arcade.json) |
 | Frogger-top: The Tabletop Classic! | 175079 | [175079-frogger-top-the-tabletop-classic.json](./175079-frogger-top-the-tabletop-classic.json) |
@@ -16125,6 +16133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzz & Dizzy: Part-time Heroes | 348826 | [348826-fuzz-and-dizzy-part-time-heroes.json](./348826-fuzz-and-dizzy-part-time-heroes.json) |
 | Fuzz and Rocket | 234946 | [234946-fuzz-and-rocket.json](./234946-fuzz-and-rocket.json) |
 | Fuzz Dungeon | 151909 | [151909-fuzz-dungeon.json](./151909-fuzz-dungeon.json) |
+| Fuzz Force: Spook Squad | 140809 | [140809-fuzz-force-spook-squad.json](./140809-fuzz-force-spook-squad.json) |
 | Fuzz Power | 245090 | [245090-fuzz-power.json](./245090-fuzz-power.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | FuzzBall | 140938 | [140938-fuzzball.json](./140938-fuzzball.json) |
