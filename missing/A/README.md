@@ -8357,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Revenge | 332170 | [332170-aliens-revenge.json](./332170-aliens-revenge.json) |
 | Aliens Roadside | 401364 | [401364-aliens-roadside.json](./401364-aliens-roadside.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
+| Aliens Strike | 186938 | [186938-aliens-strike.json](./186938-aliens-strike.json) |
 | Aliens TC | 153552 | [153552-aliens-tc.json](./153552-aliens-tc.json) |
 | Aliens Took My Stuff | 407033 | [407033-aliens-took-my-stuff.json](./407033-aliens-took-my-stuff.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
@@ -8597,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Idleness and Ephemera | 248783 | [248783-all-idleness-and-ephemera.json](./248783-all-idleness-and-ephemera.json) |
 | All in a Day's Work | 58865 | [58865-all-in-a-days-work.json](./58865-all-in-a-days-work.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
+| All in Casino Girls | 186937 | [186937-all-in-casino-girls.json](./186937-all-in-casino-girls.json) |
 | All in Casino Girls: Extended Edition | 237855 | [237855-all-in-casino-girls-extended-edition.json](./237855-all-in-casino-girls-extended-edition.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
 | All in Love and War | 205724 | [205724-all-in-love-and-war.json](./205724-all-in-love-and-war.json) |
@@ -10067,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Lowriders | 52394 | [52394-american-lowriders.json](./52394-american-lowriders.json) |
 | American MahJong Practice 2017 | 87496 | [87496-american-mahjong-practice-2017.json](./87496-american-mahjong-practice-2017.json) |
 | American MahJong Practice 2018 | 96789 | [96789-american-mahjong-practice-2018.json](./96789-american-mahjong-practice-2018.json) |
+| American Man | 186936 | [186936-american-man.json](./186936-american-man.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American McGee presents: Bad Day L.A. | 20567 | [20567-american-mcgee-presents-bad-day-l-a.json](./20567-american-mcgee-presents-bad-day-l-a.json) |
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
@@ -18656,6 +18659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Race | 322512 | [322512-astro-race.json](./322512-astro-race.json) |
 | Astro Raiders | 419902 | [419902-astro-raiders.json](./419902-astro-raiders.json) |
 | Astro Ranch | 66729 | [66729-astro-ranch.json](./66729-astro-ranch.json) |
+| Astro Rangers | 186931 | [186931-astro-rangers.json](./186931-astro-rangers.json) |
 | Astro Rescue | 63108 | [63108-astro-rescue.json](./63108-astro-rescue.json) |
 | Astro Rider | 126327 | [126327-astro-rider.json](./126327-astro-rider.json) |
 | Astro Rush | 246132 | [246132-astro-rush.json](./246132-astro-rush.json) |
@@ -21100,6 +21104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axial Drift | 190394 | [190394-axial-drift.json](./190394-axial-drift.json) |
 | Axial Null | 337874 | [337874-axial-null.json](./337874-axial-null.json) |
 | Axial Shift | 413581 | [413581-axial-shift.json](./413581-axial-shift.json) |
+| Axiallis | 187409 | [187409-axiallis.json](./187409-axiallis.json) |
 | Axident | 423661 | [423661-axident.json](./423661-axident.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
 | aXiebal 2004 | 93174 | [93174-axiebal-2004.json](./93174-axiebal-2004.json) |
