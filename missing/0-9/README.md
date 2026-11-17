@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Minutes to Make a Million | 424712 | [424712-10-minutes-to-make-a-million.json](./424712-10-minutes-to-make-a-million.json) |
 | 10 Mississippi | 183239 | [183239-10-mississippi.json](./183239-10-mississippi.json) |
 | 10 More Bullets | 254198 | [254198-10-more-bullets.json](./254198-10-more-bullets.json) |
+| 10 More Minutes | 424725 | [424725-10-more-minutes.json](./424725-10-more-minutes.json) |
 | 10 out of 10: Dinosaurs | 14182 | [14182-10-out-of-10-dinosaurs.json](./14182-10-out-of-10-dinosaurs.json) |
 | 10 out of 10: Early Essentials | 14183 | [14183-10-out-of-10-early-essentials.json](./14183-10-out-of-10-early-essentials.json) |
 | 10 out of 10: English | 14184 | [14184-10-out-of-10-english.json](./14184-10-out-of-10-english.json) |
@@ -1467,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Levels of Hells | 409093 | [409093-18-levels-of-hells.json](./409093-18-levels-of-hells.json) |
 | 18 Minutes | 274757 | [274757-18-minutes.json](./274757-18-minutes.json) |
 | 18 Rooms to Home | 58700 | [58700-18-rooms-to-home.json](./58700-18-rooms-to-home.json) |
+| 18 Summers | 424679 | [424679-18-summers.json](./424679-18-summers.json) |
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
 | 18 Wheels of Steel: Across America | 26814 | [26814-18-wheels-of-steel-across-america.json](./26814-18-wheels-of-steel-across-america.json) |
 | 18 Wheels of Steel: Convoy | 31696 | [31696-18-wheels-of-steel-convoy.json](./31696-18-wheels-of-steel-convoy.json) |
@@ -1493,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1849 | 6761 | [6761-1849.json](./6761-1849.json) |
 | 1849: Gold Edition | 21656 | [21656-1849-gold-edition.json](./21656-1849-gold-edition.json) |
 | 1849: Nevada Silver | 21627 | [21627-1849-nevada-silver.json](./21627-1849-nevada-silver.json) |
+| 1869 | 12494 | [12494-1869.json](./12494-1869.json) |
 | 187 Ride or Die | 3978 | [3978-187-ride-or-die.json](./3978-187-ride-or-die.json) |
 | 1870: Cyberpunk Forever | 145279 | [145279-1870-cyberpunk-forever.json](./145279-1870-cyberpunk-forever.json) |
 | 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
@@ -2920,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DO Buffet | 38819 | [38819-3do-buffet.json](./38819-3do-buffet.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3DO Interactive Sampler 3 | 38822 | [38822-3do-interactive-sampler-3.json](./38822-3do-interactive-sampler-3.json) |
+| 3DO Maniac Pack | 37195 | [37195-3do-maniac-pack.json](./37195-3do-maniac-pack.json) |
 | 3Doku | 106927 | [106927-3doku.json](./106927-3doku.json) |
 | 3DRPG | 33819 | [33819-3drpg.json](./33819-3drpg.json) |
 | 3DS-Pong | 278757 | [278757-3ds-pong.json](./278757-3ds-pong.json) |
@@ -3617,12 +3621,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Wonders II | 4634 | [4634-7-wonders-ii.json](./4634-7-wonders-ii.json) |
 | 7 Wonders of the Ancient World | 4629 | [4629-7-wonders-of-the-ancient-world.json](./4629-7-wonders-of-the-ancient-world.json) |
 | 7 Wonders Trilogy | 281805 | [281805-7-wonders-trilogy.json](./281805-7-wonders-trilogy.json) |
+| 7 Wonders: Ancient Alien Makeover | 4638 | [4638-7-wonders-ancient-alien-makeover.json](./4638-7-wonders-ancient-alien-makeover.json) |
 | 7 Wonders: Magical Mystery Tour | 4637 | [4637-7-wonders-magical-mystery-tour.json](./4637-7-wonders-magical-mystery-tour.json) |
 | 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 7-in-1 Brain Sharpness Bundle | 100635 | [100635-7-in-1-brain-sharpness-bundle.json](./100635-7-in-1-brain-sharpness-bundle.json) |
 | 7-minute HOP | 111509 | [111509-7-minute-hop.json](./111509-7-minute-hop.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
+| 7,62 High Calibre | 36344 | [36344-7-62-high-calibre.json](./36344-7-62-high-calibre.json) |
 | 7,62 High Calibre + 7,62 Hard Life | 255455 | [255455-7-62-high-calibre-7-62-hard-life.json](./255455-7-62-high-calibre-7-62-hard-life.json) |
 | 7,62 High Calibre, 7,62 Hard Life, Brigade E5: New Jagged Union Pack | 84123 | [84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json](./84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json) |
 | 7: Molmorth no Kiheitai | 70459 | [70459-7-molmorth-no-kiheitai.json](./70459-7-molmorth-no-kiheitai.json) |
@@ -3747,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Blocks | 325224 | [325224-8-bit-blocks.json](./325224-8-bit-blocks.json) |
 | 8-Bit Boy | 84684 | [84684-8-bit-boy.json](./84684-8-bit-boy.json) |
 | 8-Bit Buccaneer | 176808 | [176808-8-bit-buccaneer.json](./176808-8-bit-buccaneer.json) |
+| 8-bit Commando | 9171 | [9171-8-bit-commando.json](./9171-8-bit-commando.json) |
 | 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
 | 8-Bit Farm | 56729 | [56729-8-bit-farm.json](./56729-8-bit-farm.json) |
 | 8-Bit Hordes | 21414 | [21414-8-bit-hordes.json](./21414-8-bit-hordes.json) |
