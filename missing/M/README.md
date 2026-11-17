@@ -17721,6 +17721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monophobia | 253044 | [253044-monophobia.json](./253044-monophobia.json) |
 | Monophobia | 395993 | [395993-monophobia.json](./395993-monophobia.json) |
 | Monopolist: Technological Revolution | 105143 | [105143-monopolist-technological-revolution.json](./105143-monopolist-technological-revolution.json) |
+| Monopolize: Tech Empire | 427141 | [427141-monopolize-tech-empire.json](./427141-monopolize-tech-empire.json) |
 | Monopolka | 68592 | [68592-monopolka.json](./68592-monopolka.json) |
 | Monopoly | 102447 | [102447-monopoly.json](./102447-monopoly.json) |
 | Monopoly | 122241 | [122241-monopoly.json](./122241-monopoly.json) |
