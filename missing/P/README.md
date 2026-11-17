@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
 | Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
 | Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
+| Pango Build Park | 87724 | [87724-pango-build-park.json](./87724-pango-build-park.json) |
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
 | Pango Kumo | 197731 | [197731-pango-kumo.json](./197731-pango-kumo.json) |
@@ -6945,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | Picowings | 290297 | [290297-picowings.json](./290297-picowings.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
+| PicPu Dog Puzzle | 89293 | [89293-picpu-dog-puzzle.json](./89293-picpu-dog-puzzle.json) |
 | Picrastination | 88119 | [88119-picrastination.json](./88119-picrastination.json) |
 | PicRoad - Pixel art puzzle | 95943 | [95943-picroad-pixel-art-puzzle.json](./95943-picroad-pixel-art-puzzle.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
@@ -14390,6 +14392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-It! Or Don't.. | 150952 | [150952-pop-it-or-dont.json](./150952-pop-it-or-dont.json) |
 | Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
+| Pop-up Pilgrams | 87677 | [87677-pop-up-pilgrams.json](./87677-pop-up-pilgrams.json) |
 | Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
 | POP: Methodology Experiment One | 17515 | [17515-pop-methodology-experiment-one.json](./17515-pop-methodology-experiment-one.json) |
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
@@ -18655,6 +18658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promethean Legacy | 230088 | [230088-promethean-legacy.json](./230088-promethean-legacy.json) |
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
 | Prometheus | 217708 | [217708-prometheus.json](./217708-prometheus.json) |
+| Prometheus | 85675 | [85675-prometheus.json](./85675-prometheus.json) |
 | Prometheus Unbound | 182896 | [182896-prometheus-unbound.json](./182896-prometheus-unbound.json) |
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
