@@ -13331,6 +13331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters Secrecy: Arcanum Bloodlines | 54360 | [54360-sisters-secrecy-arcanum-bloodlines.json](./54360-sisters-secrecy-arcanum-bloodlines.json) |
 | Sisters Secrecy: Arcanum Bloodlines - Collector's Edition | 54361 | [54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json](./54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json) |
 | Sisters Secrecy: Arcanum Bloodlines - Premium Edition | 35137 | [35137-sisters-secrecy-arcanum-bloodlines-premium-edition.json](./35137-sisters-secrecy-arcanum-bloodlines-premium-edition.json) |
+| Sisters: Faye & Elsa Episode 1 | 98079 | [98079-sisters-faye-and-elsa-episode-1.json](./98079-sisters-faye-and-elsa-episode-1.json) |
 | Sisyphe | 310257 | [310257-sisyphe.json](./310257-sisyphe.json) |
 | Sisyphe's Backspace | 347270 | [347270-sisyphes-backspace.json](./347270-sisyphes-backspace.json) |
 | Sisyphi | 371182 | [371182-sisyphi.json](./371182-sisyphi.json) |
@@ -23957,6 +23958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedster's Collection | 283210 | [283210-speedsters-collection.json](./283210-speedsters-collection.json) |
 | SpeedStrip | 80398 | [80398-speedstrip.json](./80398-speedstrip.json) |
 | Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
+| SpeedTrains | 96990 | [96990-speedtrains.json](./96990-speedtrains.json) |
 | Speedway | 94328 | [94328-speedway.json](./94328-speedway.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
 | Speedway Bundle Stock & Truck | 147672 | [147672-speedway-bundle-stock-and-truck.json](./147672-speedway-bundle-stock-and-truck.json) |
@@ -30326,6 +30328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman jailbreak 9 | 101293 | [101293-stickman-jailbreak-9.json](./101293-stickman-jailbreak-9.json) |
 | Stickman Jetpack | 81701 | [81701-stickman-jetpack.json](./81701-stickman-jetpack.json) |
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
+| Stickman Killer Backflip 5 | 96976 | [96976-stickman-killer-backflip-5.json](./96976-stickman-killer-backflip-5.json) |
 | Stickman Killing Zombie | 292346 | [292346-stickman-killing-zombie.json](./292346-stickman-killing-zombie.json) |
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
@@ -30345,6 +30348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
 | Stickman PvP Wars Online | 102239 | [102239-stickman-pvp-wars-online.json](./102239-stickman-pvp-wars-online.json) |
 | Stickman Race Draw | 81852 | [81852-stickman-race-draw.json](./81852-stickman-race-draw.json) |
+| Stickman Racer Jump | 96978 | [96978-stickman-racer-jump.json](./96978-stickman-racer-jump.json) |
 | Stickman Racer Road Draw 2 | 113921 | [113921-stickman-racer-road-draw-2.json](./113921-stickman-racer-road-draw-2.json) |
 | Stickman Ragdoll | 256736 | [256736-stickman-ragdoll.json](./256736-stickman-ragdoll.json) |
 | Stickman Red boy and Blue girl | 231892 | [231892-stickman-red-boy-and-blue-girl.json](./231892-stickman-red-boy-and-blue-girl.json) |
@@ -31985,6 +31989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racing | 108558 | [108558-street-racing.json](./108558-street-racing.json) |
 | Street Racing 3D | 95736 | [95736-street-racing-3d.json](./95736-street-racing-3d.json) |
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
+| Street Racing Pinball | 97001 | [97001-street-racing-pinball.json](./97001-street-racing-pinball.json) |
 | Street Racing Syndicate | 4184 | [4184-street-racing-syndicate.json](./4184-street-racing-syndicate.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Racing: Tokyo Rush | 147075 | [147075-street-racing-tokyo-rush.json](./147075-street-racing-tokyo-rush.json) |
