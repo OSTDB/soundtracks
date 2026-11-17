@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
 | Raid of Battlefield | 212113 | [212113-raid-of-battlefield.json](./212113-raid-of-battlefield.json) |
+| Raid of Regions | 117862 | [117862-raid-of-regions.json](./117862-raid-of-regions.json) |
 | Raid of Titan | 402422 | [402422-raid-of-titan.json](./402422-raid-of-titan.json) |
 | Raid Off! | 197476 | [197476-raid-off.json](./197476-raid-off.json) |
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
@@ -1408,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Mogul | 91548 | [91548-railway-mogul.json](./91548-railway-mogul.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
 | Railway Routes | 406520 | [406520-railway-routes.json](./406520-railway-routes.json) |
+| Railway Saga:Land King | 115104 | [115104-railway-saga-land-king.json](./115104-railway-saga-land-king.json) |
 | Railway Simulator | 145119 | [145119-railway-simulator.json](./145119-railway-simulator.json) |
 | Railway Yard Master | 110007 | [110007-railway-yard-master.json](./110007-railway-yard-master.json) |
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
@@ -6158,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Agency: The Kidnapper of Happiness | 243513 | [243513-rescue-agency-the-kidnapper-of-happiness.json](./243513-rescue-agency-the-kidnapper-of-happiness.json) |
 | Rescue at Rajini Island | 54317 | [54317-rescue-at-rajini-island.json](./54317-rescue-at-rajini-island.json) |
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
+| Rescue Bomber | 117857 | [117857-rescue-bomber.json](./117857-rescue-bomber.json) |
 | Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
 | Rescue Claw | 234992 | [234992-rescue-claw.json](./234992-rescue-claw.json) |
 | Rescue Contest | 253627 | [253627-rescue-contest.json](./253627-rescue-contest.json) |
@@ -6930,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Parking | 31129 | [31129-retro-parking.json](./31129-retro-parking.json) |
 | Retro Pistol Hero | 337891 | [337891-retro-pistol-hero.json](./337891-retro-pistol-hero.json) |
 | Retro Pixel Castles | 138064 | [138064-retro-pixel-castles.json](./138064-retro-pixel-castles.json) |
+| Retro Pixel Racers | 117835 | [117835-retro-pixel-racers.json](./117835-retro-pixel-racers.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Pocket Rocket | 208459 | [208459-retro-pocket-rocket.json](./208459-retro-pocket-rocket.json) |
 | Retro Quiz Tower | 251378 | [251378-retro-quiz-tower.json](./251378-retro-quiz-tower.json) |
@@ -8841,6 +8845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riruka ha Ikue ni Yoru wo Irodoru | 375368 | [375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json](./375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json) |
 | Riruri Tachibana: Reincarnated | 373575 | [373575-riruri-tachibana-reincarnated.json](./373575-riruri-tachibana-reincarnated.json) |
 | Risa no Yousei Densetsu | 41293 | [41293-risa-no-yousei-densetsu.json](./41293-risa-no-yousei-densetsu.json) |
+| Riscord | 115103 | [115103-riscord.json](./115103-riscord.json) |
 | Rise | 142344 | [142344-rise.json](./142344-rise.json) |
 | Rise | 208750 | [208750-rise.json](./208750-rise.json) |
 | Rise | 269418 | [269418-rise.json](./269418-rise.json) |
@@ -13708,6 +13713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins Story | 252468 | [252468-ruins-story.json](./252468-ruins-story.json) |
 | Ruins Survival | 114511 | [114511-ruins-survival.json](./114511-ruins-survival.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
+| Ruins to Rumble | 117831 | [117831-ruins-to-rumble.json](./117831-ruins-to-rumble.json) |
 | Ruins: The Gate of Rebirth | 284256 | [284256-ruins-the-gate-of-rebirth.json](./284256-ruins-the-gate-of-rebirth.json) |
 | Ruinscape | 369134 | [369134-ruinscape.json](./369134-ruinscape.json) |
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
