@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcher Defenders | 268098 | [268098-warcher-defenders.json](./268098-warcher-defenders.json) |
 | Warchief | 140425 | [140425-warchief.json](./140425-warchief.json) |
 | Warco: The News Game | 65673 | [65673-warco-the-news-game.json](./65673-warco-the-news-game.json) |
+| WarCommander | 204564 | [204564-warcommander.json](./204564-warcommander.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft 2000: Nuclear Epidemic | 233549 | [233549-warcraft-2000-nuclear-epidemic.json](./233549-warcraft-2000-nuclear-epidemic.json) |
 | Warcraft Adventures: Lord of the Clans | 11704 | [11704-warcraft-adventures-lord-of-the-clans.json](./11704-warcraft-adventures-lord-of-the-clans.json) |
@@ -4091,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WGT Golf: Birdie Bundle | 168433 | [168433-wgt-golf-birdie-bundle.json](./168433-wgt-golf-birdie-bundle.json) |
 | WGT Golf: Long Drive Bundle | 170133 | [170133-wgt-golf-long-drive-bundle.json](./170133-wgt-golf-long-drive-bundle.json) |
 | WGV: Dreamcatcher | 338380 | [338380-wgv-dreamcatcher.json](./338380-wgv-dreamcatcher.json) |
+| Whac-a-Mole | 203428 | [203428-whac-a-mole.json](./203428-whac-a-mole.json) |
 | Whac-a-Mole | 421420 | [421420-whac-a-mole.json](./421420-whac-a-mole.json) |
 | Whac-A-Mole | 413717 | [413717-whac-a-mole.json](./413717-whac-a-mole.json) |
 | Whac-A-Mole | 49347 | [49347-whac-a-mole.json](./49347-whac-a-mole.json) |
