@@ -11136,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid Master Collection: Volume 1 - Bonus Content | 254856 | [254856-metal-gear-solid-master-collection-volume-1-bonus-content.json](./254856-metal-gear-solid-master-collection-volume-1-bonus-content.json) |
 | Metal Gear Solid Master Collection: Volume 1 - Day One Edition | 274056 | [274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json](./274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json) |
 | Metal Gear Solid Master Collection: Volume 2 | 389433 | [389433-metal-gear-solid-master-collection-volume-2.json](./389433-metal-gear-solid-master-collection-volume-2.json) |
+| Metal Gear Solid Mobile | 41041 | [41041-metal-gear-solid-mobile.json](./41041-metal-gear-solid-mobile.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
 | Metal Gear Solid V: Ground Zeroes + The Phantom Pain | 136680 | [136680-metal-gear-solid-v-ground-zeroes-the-phantom-pain.json](./136680-metal-gear-solid-v-ground-zeroes-the-phantom-pain.json) |
 | Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
@@ -11157,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Portable Ops Plus | 21617 | [21617-metal-gear-solid-portable-ops-plus.json](./21617-metal-gear-solid-portable-ops-plus.json) |
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
+| Metal Gear Solid: Social Ops | 41040 | [41040-metal-gear-solid-social-ops.json](./41040-metal-gear-solid-social-ops.json) |
 | Metal Gear Solid: The Essential Collection | 43613 | [43613-metal-gear-solid-the-essential-collection.json](./43613-metal-gear-solid-the-essential-collection.json) |
 | Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
 | Metal Gear Solid: The Twin Snakes | 4006 | [4006-metal-gear-solid-the-twin-snakes.json](./4006-metal-gear-solid-the-twin-snakes.json) |
