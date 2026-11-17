@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy 2 | 307086 | [307086-paperboy-2.json](./307086-paperboy-2.json) |
 | Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
+| Papercade | 61780 | [61780-papercade.json](./61780-papercade.json) |
 | PaperCat | 59224 | [59224-papercat.json](./59224-papercat.json) |
 | Paperchase | 181464 | [181464-paperchase.json](./181464-paperchase.json) |
 | Papercraft | 107418 | [107418-papercraft.json](./107418-papercraft.json) |
@@ -5550,8 +5551,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Party | 115541 | [115541-pet-party.json](./115541-pet-party.json) |
 | Pet Pat | 221568 | [221568-pet-pat.json](./221568-pet-pat.json) |
 | Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
+| Pet Pet Pet | 62897 | [62897-pet-pet-pet.json](./62897-pet-pet-pet.json) |
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
 | Pet Rabbit 3D Simulator | 96807 | [96807-pet-rabbit-3d-simulator.json](./96807-pet-rabbit-3d-simulator.json) |
+| Pet Racer | 65106 | [65106-pet-racer.json](./65106-pet-racer.json) |
 | Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
 | Pet Rock | 207997 | [207997-pet-rock.json](./207997-pet-rock.json) |
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
@@ -5579,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Show: Winter Animals | 353601 | [353601-pet-show-winter-animals.json](./353601-pet-show-winter-animals.json) |
 | Pet Shows | 9736 | [9736-pet-shows.json](./9736-pet-shows.json) |
 | Pet Simulator | 412223 | [412223-pet-simulator.json](./412223-pet-simulator.json) |
+| Pet Soccer | 65105 | [65105-pet-soccer.json](./65105-pet-soccer.json) |
 | Pet Squad Racing | 72397 | [72397-pet-squad-racing.json](./72397-pet-squad-racing.json) |
 | Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
@@ -6357,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas and Ferb | 230397 | [230397-phineas-and-ferb.json](./230397-phineas-and-ferb.json) |
 | Phineas and Ferb | 47788 | [47788-phineas-and-ferb.json](./47788-phineas-and-ferb.json) |
 | Phineas and Ferb Arcade | 361713 | [361713-phineas-and-ferb-arcade.json](./361713-phineas-and-ferb-arcade.json) |
+| Phineas and Ferb Ride Again | 66260 | [66260-phineas-and-ferb-ride-again.json](./66260-phineas-and-ferb-ride-again.json) |
 | Phineas and Ferb: Across the Second Dimension | 291548 | [291548-phineas-and-ferb-across-the-second-dimension.json](./291548-phineas-and-ferb-across-the-second-dimension.json) |
 | Phineas and Ferb: Across the Second Dimension | 52668 | [52668-phineas-and-ferb-across-the-second-dimension.json](./52668-phineas-and-ferb-across-the-second-dimension.json) |
 | Phineas and Ferb: Day of Doofenshmirtz | 23476 | [23476-phineas-and-ferb-day-of-doofenshmirtz.json](./23476-phineas-and-ferb-day-of-doofenshmirtz.json) |
@@ -11927,6 +11932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Tennis Color | 47609 | [47609-pocket-tennis-color.json](./47609-pocket-tennis-color.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Tour | 413388 | [413388-pocket-tour.json](./413388-pocket-tour.json) |
+| Pocket Trains | 62883 | [62883-pocket-trains.json](./62883-pocket-trains.json) |
 | Pocket Trains - Railroad Empire Building | 99882 | [99882-pocket-trains-railroad-empire-building.json](./99882-pocket-trains-railroad-empire-building.json) |
 | Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
 | Pocket Tuner | 287434 | [287434-pocket-tuner.json](./287434-pocket-tuner.json) |
@@ -17468,6 +17474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
 | Professor of Magical Studies | 173349 | [173349-professor-of-magical-studies.json](./173349-professor-of-magical-studies.json) |
+| Professor Pac-Man | 64014 | [64014-professor-pac-man.json](./64014-professor-pac-man.json) |
 | Professor Pemda's Puzzle Pyramid | 362794 | [362794-professor-pemdas-puzzle-pyramid.json](./362794-professor-pemdas-puzzle-pyramid.json) |
 | Professor Quackerton in: The Locked Birdhouse | 299116 | [299116-professor-quackerton-in-the-locked-birdhouse.json](./299116-professor-quackerton-in-the-locked-birdhouse.json) |
 | Professor Rubik's Brain Fitness | 139058 | [139058-professor-rubiks-brain-fitness.json](./139058-professor-rubiks-brain-fitness.json) |
@@ -17735,6 +17742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
 | Project BioRisk | 161487 | [161487-project-biorisk.json](./161487-project-biorisk.json) |
 | Project Black Sun | 54280 | [54280-project-black-sun.json](./54280-project-black-sun.json) |
+| Project Blackout | 66259 | [66259-project-blackout.json](./66259-project-blackout.json) |
 | Project Blari | 150948 | [150948-project-blari.json](./150948-project-blari.json) |
 | Project Blind | 297193 | [297193-project-blind.json](./297193-project-blind.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
@@ -19716,6 +19724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin SculptrVR | 30753 | [30753-pumpkin-sculptrvr.json](./30753-pumpkin-sculptrvr.json) |
 | Pumpkin Simulator | 374348 | [374348-pumpkin-simulator.json](./374348-pumpkin-simulator.json) |
 | Pumpkin Slasher | 176231 | [176231-pumpkin-slasher.json](./176231-pumpkin-slasher.json) |
+| Pumpkin Smasher | 65099 | [65099-pumpkin-smasher.json](./65099-pumpkin-smasher.json) |
 | Pumpkin Smasher VR | 123911 | [123911-pumpkin-smasher-vr.json](./123911-pumpkin-smasher-vr.json) |
 | Pumpkin Spice Paradise | 221063 | [221063-pumpkin-spice-paradise.json](./221063-pumpkin-spice-paradise.json) |
 | Pumpkin Spice Paradise 2 | 221064 | [221064-pumpkin-spice-paradise-2.json](./221064-pumpkin-spice-paradise-2.json) |
