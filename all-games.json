@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T03:55:55.341Z",
-  "total_soundtracks": 3516,
+  "generated_at": "2026-11-17T04:16:02.604Z",
+  "total_soundtracks": 3518,
   "games": [
     {
       "igdb_id": 292844,
@@ -849,6 +849,20 @@
         {
           "album_name": "Aerial_Knight's Never Yield (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7JSlq49YRxbGT876FsjoBM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 335238,
+      "game_name": "Aether & Iron",
+      "game_url": "https://ostdb.net/games/aether-and-iron",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730a46de6062adc1c6b13b6901",
+      "albums": [
+        {
+          "album_name": "Aether & Iron Original Video Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1Jsy6h1L7KwZH1CowMQlAS",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -43951,6 +43965,20 @@
         {
           "album_name": "Wild 9 Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0xWMNof8Efaw1nPM30tcDE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 335296,
+      "game_name": "Wild Blue Skies",
+      "game_url": "https://ostdb.net/games/wild-blue-skies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27311291b54d681bd32abb27f73",
+      "albums": [
+        {
+          "album_name": "Wild Blue Skies (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5KDiOwIC4shu1rBsTplB4J",
           "apple_music_url": "",
           "album_link_url": ""
         }
