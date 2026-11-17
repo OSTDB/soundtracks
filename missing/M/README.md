@@ -16912,6 +16912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moebius: The Orb of Celestial Harmony | 14482 | [14482-moebius-the-orb-of-celestial-harmony.json](./14482-moebius-the-orb-of-celestial-harmony.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moegaku @ Portable | 269441 | [269441-moegaku-portable.json](./269441-moegaku-portable.json) |
+| Moeka: Exposure’s Temptation | 423533 | [423533-moeka-exposure-s-temptation.json](./423533-moeka-exposure-s-temptation.json) |
 | Moekan | 253125 | [253125-moekan.json](./253125-moekan.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
 | Moékuri | 76546 | [76546-moekuri.json](./76546-moekuri.json) |
