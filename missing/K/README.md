@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key Of The Magic | 376128 | [376128-key-of-the-magic.json](./376128-key-of-the-magic.json) |
 | Key to Heaven | 143559 | [143559-key-to-heaven.json](./143559-key-to-heaven.json) |
 | Key: Maze of Illusions | 191545 | [191545-key-maze-of-illusions.json](./191545-key-maze-of-illusions.json) |
+| Keyboard Chaos | 424118 | [424118-keyboard-chaos.json](./424118-keyboard-chaos.json) |
 | Keyboard Creations! | 41569 | [41569-keyboard-creations.json](./41569-keyboard-creations.json) |
 | Keyboard Crush | 320983 | [320983-keyboard-crush.json](./320983-keyboard-crush.json) |
 | Keyboard Drumset Fucking Werewolf | 65586 | [65586-keyboard-drumset-fucking-werewolf.json](./65586-keyboard-drumset-fucking-werewolf.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
 | Kiro the Kosmonaut | 227565 | [227565-kiro-the-kosmonaut.json](./227565-kiro-the-kosmonaut.json) |
 | KiroKiro BoBon | 351347 | [351347-kirokiro-bobon.json](./351347-kirokiro-bobon.json) |
+| Kirr | 424113 | [424113-kirr.json](./424113-kirr.json) |
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
 | Kirubiru | 93420 | [93420-kirubiru.json](./93420-kirubiru.json) |
 | Kirugakuen | 382803 | [382803-kirugakuen.json](./382803-kirugakuen.json) |
@@ -6575,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraven Manor | 17326 | [17326-kraven-manor.json](./17326-kraven-manor.json) |
 | Krax Ca-caw's Concoction Chaos | 340891 | [340891-krax-ca-caws-concoction-chaos.json](./340891-krax-ca-caws-concoction-chaos.json) |
 | KRAZ | 378473 | [378473-kraz.json](./378473-kraz.json) |
+| Kraze: The Ultimate Racer | 424097 | [424097-kraze-the-ultimate-racer.json](./424097-kraze-the-ultimate-racer.json) |
 | Krazy Ace Miniature Golf | 40834 | [40834-krazy-ace-miniature-golf.json](./40834-krazy-ace-miniature-golf.json) |
 | Krazy Bowl | 40339 | [40339-krazy-bowl.json](./40339-krazy-bowl.json) |
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
