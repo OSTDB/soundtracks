@@ -6558,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules: The Legendary Journeys | 3511 | [3511-hercules-the-legendary-journeys.json](./3511-hercules-the-legendary-journeys.json) |
 | Hercules: The True Story | 57439 | [57439-hercules-the-true-story.json](./57439-hercules-the-true-story.json) |
 | Herd | 406989 | [406989-herd.json](./406989-herd.json) |
+| Herd Dispatch | 424142 | [424142-herd-dispatch.json](./424142-herd-dispatch.json) |
 | Herd is Coming | 118300 | [118300-herd-is-coming.json](./118300-herd-is-coming.json) |
 | Herd League | 424636 | [424636-herd-league.json](./424636-herd-league.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
@@ -9919,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
 | Hoccer | 39311 | [39311-hoccer.json](./39311-hoccer.json) |
 | Hock | 427835 | [427835-hock.json](./427835-hock.json) |
+| Hockay | 424109 | [424109-hockay.json](./424109-hockay.json) |
 | Hockey | 11534 | [11534-hockey.json](./11534-hockey.json) |
 | Hockey | 131074 | [131074-hockey.json](./131074-hockey.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
