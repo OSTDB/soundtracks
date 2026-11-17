@@ -1123,7 +1123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palhaços | 230664 | [230664-palhacos.json](./230664-palhacos.json) |
 | Palhalla | 285921 | [285921-palhalla.json](./285921-palhalla.json) |
-| Palia: The Elderwood | 348035 | [348035-palia-the-elderwood.json](./348035-palia-the-elderwood.json) |
 | Palianytsia | 351388 | [351388-palianytsia.json](./351388-palianytsia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
@@ -3744,7 +3743,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: Grand Prix - Race in Barkingburg | 231249 | [231249-paw-patrol-grand-prix-race-in-barkingburg.json](./231249-paw-patrol-grand-prix-race-in-barkingburg.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Paw Patrol: On a Roll! | 89074 | [89074-paw-patrol-on-a-roll.json](./89074-paw-patrol-on-a-roll.json) |
-| Paw Patrol: Rescue Wheels - Championship | 351133 | [351133-paw-patrol-rescue-wheels-championship.json](./351133-paw-patrol-rescue-wheels-championship.json) |
 | PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
@@ -4624,7 +4622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
 | Penguin Chat 3 | 227928 | [227928-penguin-chat-3.json](./227928-penguin-chat-3.json) |
 | Penguin Climbing | 150387 | [150387-penguin-climbing.json](./150387-penguin-climbing.json) |
-| Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
 | Penguin Diner 2 | 64615 | [64615-penguin-diner-2.json](./64615-penguin-diner-2.json) |
 | Penguin Diner: Restaurant Dash | 188560 | [188560-penguin-diner-restaurant-dash.json](./188560-penguin-diner-restaurant-dash.json) |
@@ -7896,7 +7893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX 2: Star Wars | 24227 | [24227-pinball-fx-2-star-wars.json](./24227-pinball-fx-2-star-wars.json) |
 | Pinball FX Midnight | 258295 | [258295-pinball-fx-midnight.json](./258295-pinball-fx-midnight.json) |
-| Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
 | Pinball FX VR: Bethesda Pinball | 390897 | [390897-pinball-fx-vr-bethesda-pinball.json](./390897-pinball-fx-vr-bethesda-pinball.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX VR: Tomb Raider Pinball | 342969 | [342969-pinball-fx-vr-tomb-raider-pinball.json](./342969-pinball-fx-vr-tomb-raider-pinball.json) |
@@ -13298,7 +13294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Monsters | 393594 | [393594-poker-monsters.json](./393594-poker-monsters.json) |
 | Poker Night | 147158 | [147158-poker-night.json](./147158-poker-night.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
-| Poker Night at the Inventory | 388390 | [388390-poker-night-at-the-inventory.json](./388390-poker-night-at-the-inventory.json) |
 | Poker Night at the Inventory | 8040 | [8040-poker-night-at-the-inventory.json](./8040-poker-night-at-the-inventory.json) |
 | Poker Night with David Sklansky | 209347 | [209347-poker-night-with-david-sklansky.json](./209347-poker-night-with-david-sklansky.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
@@ -13617,7 +13612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Police Simulator: Patrol Officers - Guardian Police Vehicle | 278390 | [278390-police-simulator-patrol-officers-guardian-police-vehicle.json](./278390-police-simulator-patrol-officers-guardian-police-vehicle.json) |
 | Police Simulator: Patrol Officers - Highway Patrol Expansion | 297735 | [297735-police-simulator-patrol-officers-highway-patrol-expansion.json](./297735-police-simulator-patrol-officers-highway-patrol-expansion.json) |
-| Police Simulator: Patrol Officers - Nintendo Switch Edition | 308630 | [308630-police-simulator-patrol-officers-nintendo-switch-edition.json](./308630-police-simulator-patrol-officers-nintendo-switch-edition.json) |
 | Police Simulator: Patrol Officers - Special Police Vehicle Pack | 332107 | [332107-police-simulator-patrol-officers-special-police-vehicle-pack.json](./332107-police-simulator-patrol-officers-special-police-vehicle-pack.json) |
 | Police Simulator: Patrol Officers - Steelbook Edition | 210908 | [210908-police-simulator-patrol-officers-steelbook-edition.json](./210908-police-simulator-patrol-officers-steelbook-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
@@ -14888,7 +14882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portrait Mode | 404027 | [404027-portrait-mode.json](./404027-portrait-mode.json) |
 | Portrait of a Cornish Woman | 319137 | [319137-portrait-of-a-cornish-woman.json](./319137-portrait-of-a-cornish-woman.json) |
 | Portrait of a Ghost | 320911 | [320911-portrait-of-a-ghost.json](./320911-portrait-of-a-ghost.json) |
-| Portrait of a Torn | 318362 | [318362-portrait-of-a-torn.json](./318362-portrait-of-a-torn.json) |
 | Portrait of an Obsession: A Forgotten Hill Tale | 388675 | [388675-portrait-of-an-obsession-a-forgotten-hill-tale.json](./388675-portrait-of-an-obsession-a-forgotten-hill-tale.json) |
 | Portrait of Ruin: Refined Edition | 233601 | [233601-portrait-of-ruin-refined-edition.json](./233601-portrait-of-ruin-refined-edition.json) |
 | Portrait on Imagined Horizon | 342944 | [342944-portrait-on-imagined-horizon.json](./342944-portrait-on-imagined-horizon.json) |
@@ -15624,7 +15617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
 | PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
 | PowerWash Simulator 2 | 335439 | [335439-powerwash-simulator-2.json](./335439-powerwash-simulator-2.json) |
-| Powerwash Simulator 2: Adventure Time Pack | 382683 | [382683-powerwash-simulator-2-adventure-time-pack.json](./382683-powerwash-simulator-2-adventure-time-pack.json) |
 | PowerWash Simulator 2: Barbie Pack | 418240 | [418240-powerwash-simulator-2-barbie-pack.json](./418240-powerwash-simulator-2-barbie-pack.json) |
 | PowerWash Simulator 2: Star Wars Pack | 399677 | [399677-powerwash-simulator-2-star-wars-pack.json](./399677-powerwash-simulator-2-star-wars-pack.json) |
 | PowerWash Simulator VR | 251557 | [251557-powerwash-simulator-vr.json](./251557-powerwash-simulator-vr.json) |
