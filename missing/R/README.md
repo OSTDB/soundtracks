@@ -5278,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Guilds: Raubritter | 289842 | [289842-reign-of-guilds-raubritter.json](./289842-reign-of-guilds-raubritter.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
 | Reign of Legends | 364171 | [364171-reign-of-legends.json](./364171-reign-of-legends.json) |
+| Reign of Swords | 70519 | [70519-reign-of-swords.json](./70519-reign-of-swords.json) |
 | Reign of the Renegade | 278911 | [278911-reign-of-the-renegade.json](./278911-reign-of-the-renegade.json) |
 | Reign of the Succubus | 106618 | [106618-reign-of-the-succubus.json](./106618-reign-of-the-succubus.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
@@ -7192,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Nangrim | 116280 | [116280-return-to-nangrim.json](./116280-return-to-nangrim.json) |
 | Return to Northbury Grove | 271602 | [271602-return-to-northbury-grove.json](./271602-return-to-northbury-grove.json) |
 | Return to Paradise | 294066 | [294066-return-to-paradise.json](./294066-return-to-paradise.json) |
+| Return to Paradise Heights | 71644 | [71644-return-to-paradise-heights.json](./71644-return-to-paradise-heights.json) |
 | Return to Pirate's Island 2 | 72537 | [72537-return-to-pirates-island-2.json](./72537-return-to-pirates-island-2.json) |
 | Return to Pirate's Isle | 18527 | [18527-return-to-pirates-isle.json](./18527-return-to-pirates-isle.json) |
 | Return to Planet X | 38810 | [38810-return-to-planet-x.json](./38810-return-to-planet-x.json) |
@@ -8702,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Saturn: Tales from the Rings | 169249 | [169249-rings-of-saturn-tales-from-the-rings.json](./169249-rings-of-saturn-tales-from-the-rings.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
 | Rings of the Magi v2.0 | 69978 | [69978-rings-of-the-magi-v2-0.json](./69978-rings-of-the-magi-v2-0.json) |
+| Rings of the Magi: Grand Master Edition | 71662 | [71662-rings-of-the-magi-grand-master-edition.json](./71662-rings-of-the-magi-grand-master-edition.json) |
 | Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
 | Ringside Hero | 101855 | [101855-ringside-hero.json](./101855-ringside-hero.json) |
 | Ringside Seat | 291973 | [291973-ringside-seat.json](./291973-ringside-seat.json) |
