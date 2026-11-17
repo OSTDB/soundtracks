@@ -7585,6 +7585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
 | Alex Ferguson's Player Manager 2001 | 43650 | [43650-alex-fergusons-player-manager-2001.json](./43650-alex-fergusons-player-manager-2001.json) |
 | Alex Ferguson's Player Manager 2002 | 278848 | [278848-alex-fergusons-player-manager-2002.json](./278848-alex-fergusons-player-manager-2002.json) |
+| Alex Gordon | 177058 | [177058-alex-gordon.json](./177058-alex-gordon.json) |
 | Alex Higgins' World Pool | 13300 | [13300-alex-higgins-world-pool.json](./13300-alex-higgins-world-pool.json) |
 | Alex Higgins' World Snooker | 13299 | [13299-alex-higgins-world-snooker.json](./13299-alex-higgins-world-snooker.json) |
 | Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
@@ -12685,6 +12686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Reigny Day | 368884 | [368884-another-reigny-day.json](./368884-another-reigny-day.json) |
 | Another Reverie | 265853 | [265853-another-reverie.json](./265853-another-reverie.json) |
 | Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
+| Another Road | 175445 | [175445-another-road.json](./175445-another-road.json) |
 | Another Rocket Game | 74229 | [74229-another-rocket-game.json](./74229-another-rocket-game.json) |
 | Another Round | 330254 | [330254-another-round.json](./330254-another-round.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
@@ -12908,6 +12910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthony | 337953 | [337953-anthony.json](./337953-anthony.json) |
 | Anthony the Monk | 337954 | [337954-anthony-the-monk.json](./337954-anthony-the-monk.json) |
 | Anthony's Essay | 58009 | [58009-anthonys-essay.json](./58009-anthonys-essay.json) |
+| Anthro Affection: Chapter 2 | 178711 | [178711-anthro-affection-chapter-2.json](./178711-anthro-affection-chapter-2.json) |
 | Anthro Heat | 236405 | [236405-anthro-heat.json](./236405-anthro-heat.json) |
 | Anthro-Terra | 293562 | [293562-anthro-terra.json](./293562-anthro-terra.json) |
 | Anthropeum | 418085 | [418085-anthropeum.json](./418085-anthropeum.json) |
@@ -16761,6 +16764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Detective: Hidden in Gusu | 323689 | [323689-art-detective-hidden-in-gusu.json](./323689-art-detective-hidden-in-gusu.json) |
 | Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
 | Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
+| Art Fight Duel | 177582 | [177582-art-fight-duel.json](./177582-art-fight-duel.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
 | Art Gallery Tycoon | 335811 | [335811-art-gallery-tycoon.json](./335811-art-gallery-tycoon.json) |
 | Art Girl 2 | 204802 | [204802-art-girl-2.json](./204802-art-girl-2.json) |
