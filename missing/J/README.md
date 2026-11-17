@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacob's Quest: Voyage | 265341 | [265341-jacobs-quest-voyage.json](./265341-jacobs-quest-voyage.json) |
 | Jacob's Room | 228988 | [228988-jacobs-room.json](./228988-jacobs-room.json) |
 | Jacqueline White: Bad Trouble in the Red Desert | 169991 | [169991-jacqueline-white-bad-trouble-in-the-red-desert.json](./169991-jacqueline-white-bad-trouble-in-the-red-desert.json) |
+| Jacqueline Wilson's Tracy Beaker: The Game | 67562 | [67562-jacqueline-wilsons-tracy-beaker-the-game.json](./67562-jacqueline-wilsons-tracy-beaker-the-game.json) |
 | Jad | 151133 | [151133-jad.json](./151133-jad.json) |
 | JaDa Fishin' | 222948 | [222948-jada-fishin.json](./222948-jada-fishin.json) |
 | Jade Base | 308336 | [308336-jade-base.json](./308336-jade-base.json) |
