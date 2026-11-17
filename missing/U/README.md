@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Bumper Cars: Dodgems | 164765 | [164765-ultimate-bumper-cars-dodgems.json](./164765-ultimate-bumper-cars-dodgems.json) |
 | Ultimate Candy Hunt | 384337 | [384337-ultimate-candy-hunt.json](./384337-ultimate-candy-hunt.json) |
 | Ultimate Car Company Tycoon | 390108 | [390108-ultimate-car-company-tycoon.json](./390108-ultimate-car-company-tycoon.json) |
+| Ultimate Car Driving Simulator | 96987 | [96987-ultimate-car-driving-simulator.json](./96987-ultimate-car-driving-simulator.json) |
 | Ultimate Car Driving Simulator 2 | 297520 | [297520-ultimate-car-driving-simulator-2.json](./297520-ultimate-car-driving-simulator-2.json) |
 | Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
 | Ultimate Card Games | 200981 | [200981-ultimate-card-games.json](./200981-ultimate-card-games.json) |
