@@ -7903,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth-Bound | 402076 | [402076-depth-bound.json](./402076-depth-bound.json) |
 | Depth: Aquatic Stealth | 79194 | [79194-depth-aquatic-stealth.json](./79194-depth-aquatic-stealth.json) |
 | Depth: Digital Deluxe Edition | 52889 | [52889-depth-digital-deluxe-edition.json](./52889-depth-digital-deluxe-edition.json) |
+| Depth: Wilhelm Diver | 171111 | [171111-depth-wilhelm-diver.json](./171111-depth-wilhelm-diver.json) |
 | Depth:Origin | 351787 | [351787-depth-origin.json](./351787-depth-origin.json) |
 | Depthbound Descent | 403793 | [403793-depthbound-descent.json](./403793-depthbound-descent.json) |
 | DepthLess | 349450 | [349450-depthless.json](./349450-depthless.json) |
@@ -20367,6 +20368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Ways to Party | 375096 | [375096-dumb-ways-to-party.json](./375096-dumb-ways-to-party.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
 | Dumb Witchfinder | 362018 | [362018-dumb-witchfinder.json](./362018-dumb-witchfinder.json) |
+| Dumb: Treasure | 171104 | [171104-dumb-treasure.json](./171104-dumb-treasure.json) |
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
 | Dumball Rush: Rainbow Pack | 293445 | [293445-dumball-rush-rainbow-pack.json](./293445-dumball-rush-rainbow-pack.json) |
 | Dumbass Drivers! | 29407 | [29407-dumbass-drivers.json](./29407-dumbass-drivers.json) |
