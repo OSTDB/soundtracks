@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
 | Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
+| Harry Fox | 85671 | [85671-harry-fox.json](./85671-harry-fox.json) |
 | Harry Fox: Yuki no Maou-hen | 67547 | [67547-harry-fox-yuki-no-maou-hen.json](./67547-harry-fox-yuki-no-maou-hen.json) |
 | Harry Is A Porter | 212112 | [212112-harry-is-a-porter.json](./212112-harry-is-a-porter.json) |
 | Harry McLinestrider | 330098 | [330098-harry-mclinestrider.json](./330098-harry-mclinestrider.json) |
@@ -11805,6 +11806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
 | Horse Racing Rally | 133103 | [133103-horse-racing-rally.json](./133103-horse-racing-rally.json) |
 | Horse Racing Simulator | 384548 | [384548-horse-racing-simulator.json](./384548-horse-racing-simulator.json) |
+| Horse Reality | 87737 | [87737-horse-reality.json](./87737-horse-reality.json) |
 | Horse Riding Classic | 391814 | [391814-horse-riding-classic.json](./391814-horse-riding-classic.json) |
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
 | Horse Riding Deluxe 2 | 161457 | [161457-horse-riding-deluxe-2.json](./161457-horse-riding-deluxe-2.json) |
@@ -12641,6 +12643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Master | 272617 | [272617-house-master.json](./272617-house-master.json) |
 | House Number 666 | 123863 | [123863-house-number-666.json](./123863-house-number-666.json) |
 | House of 1,000 Doors: Serpent Flame | 140197 | [140197-house-of-1-000-doors-serpent-flame.json](./140197-house-of-1-000-doors-serpent-flame.json) |
+| House of 1,000 Doors: Serpent Flame - Collector's Edition | 87381 | [87381-house-of-1-000-doors-serpent-flame-collectors-edition.json](./87381-house-of-1-000-doors-serpent-flame-collectors-edition.json) |
 | House of 1,000 Doors: The Palm of Zoroaster | 25468 | [25468-house-of-1-000-doors-the-palm-of-zoroaster.json](./25468-house-of-1-000-doors-the-palm-of-zoroaster.json) |
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
