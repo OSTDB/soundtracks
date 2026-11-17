@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q-Deck | 271445 | [271445-q-deck.json](./271445-q-deck.json) |
 | Q-j-civilization-s | 302787 | [302787-q-j-civilization-s.json](./302787-q-j-civilization-s.json) |
 | Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
+| Q-Pop: Evolution im Weltraum | 12465 | [12465-q-pop-evolution-im-weltraum.json](./12465-q-pop-evolution-im-weltraum.json) |
 | Q-Red | 273237 | [273237-q-red.json](./273237-q-red.json) |
 | Q-Up | 370652 | [370652-q-up.json](./370652-q-up.json) |
 | Q: A Dystopian Queueing Simulator | 135620 | [135620-q-a-dystopian-queueing-simulator.json](./135620-q-a-dystopian-queueing-simulator.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q*bert | 281665 | [281665-q-bert.json](./281665-q-bert.json) |
 | Q*bert | 281666 | [281666-q-bert.json](./281666-q-bert.json) |
 | Q*bert | 99373 | [99373-q-bert.json](./99373-q-bert.json) |
+| Q*Bert | 281633 | [281633-q-bert.json](./281633-q-bert.json) |
 | Q*bert 3 | 42469 | [42469-q-bert-3.json](./42469-q-bert-3.json) |
 | Q*bert for Game Boy | 61518 | [61518-q-bert-for-game-boy.json](./61518-q-bert-for-game-boy.json) |
 | Q*bert Rebooted: The Xbox One @!#?@! Edition | 82426 | [82426-q-bert-rebooted-the-xbox-one-edition.json](./82426-q-bert-rebooted-the-xbox-one-edition.json) |
@@ -128,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qilich Izidan | 376422 | [376422-qilich-izidan.json](./376422-qilich-izidan.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
 | Qimen Tower Defense | 344705 | [344705-qimen-tower-defense.json](./344705-qimen-tower-defense.json) |
+| Qin: Tomb of the Middle Kingdom | 12463 | [12463-qin-tomb-of-the-middle-kingdom.json](./12463-qin-tomb-of-the-middle-kingdom.json) |
 | Qīnglán Xuèfēng | 120850 | [120850-qinglan-xuefeng.json](./120850-qinglan-xuefeng.json) |
 | Qīngmèng Tán: Wèng zhī Piān | 128987 | [128987-qingmeng-tan-weng-zhi-pian.json](./128987-qingmeng-tan-weng-zhi-pian.json) |
 | Qīngniǎo no Xūxiàng | 331944 | [331944-qingniao-no-xuxiang.json](./331944-qingniao-no-xuxiang.json) |
@@ -882,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuentBlast | 218666 | [218666-quentblast.json](./218666-quentblast.json) |
 | Quento | 90205 | [90205-quento.json](./90205-quento.json) |
 | Querent | 396859 | [396859-querent.json](./396859-querent.json) |
+| Querni | 429993 | [429993-querni.json](./429993-querni.json) |
 | Quescaper | 306262 | [306262-quescaper.json](./306262-quescaper.json) |
 | Quest | 308451 | [308451-quest.json](./308451-quest.json) |
 | Quest | 394628 | [394628-quest.json](./394628-quest.json) |
