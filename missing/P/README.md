@@ -20478,6 +20478,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo | 218197 | [218197-puyo-puyo.json](./218197-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
+| Puyo Puyo 2: Ketteiban | 44782 | [44782-puyo-puyo-2-ketteiban.json](./44782-puyo-puyo-2-ketteiban.json) |
+| Puyo Puyo Box | 44780 | [44780-puyo-puyo-box.json](./44780-puyo-puyo-box.json) |
 | Puyo Puyo CD | 250339 | [250339-puyo-puyo-cd.json](./250339-puyo-puyo-cd.json) |
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
 | Puyo Puyo Champions | 109577 | [109577-puyo-puyo-champions.json](./109577-puyo-puyo-champions.json) |
@@ -20497,6 +20499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Solitare | 251503 | [251503-puyo-puyo-solitare.json](./251503-puyo-puyo-solitare.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Sun | 3578 | [3578-puyo-puyo-sun.json](./3578-puyo-puyo-sun.json) |
+| Puyo Puyo Sun Ketteiban | 44781 | [44781-puyo-puyo-sun-ketteiban.json](./44781-puyo-puyo-sun-ketteiban.json) |
 | Puyo Puyo Tetris | 6866 | [6866-puyo-puyo-tetris.json](./6866-puyo-puyo-tetris.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
