@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy X | 417136 | [417136-galaxy-x.json](./417136-galaxy-x.json) |
 | Galaxy Xross | 133492 | [133492-galaxy-xross.json](./133492-galaxy-xross.json) |
 | Galaxy-X | 214041 | [214041-galaxy-x.json](./214041-galaxy-x.json) |
+| Galaxy's Edge | 174383 | [174383-galaxys-edge.json](./174383-galaxys-edge.json) |
 | Galaxy's Extreme | 169760 | [169760-galaxys-extreme.json](./169760-galaxys-extreme.json) |
 | GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
 | GalaxyQuest | 421535 | [421535-galaxyquest.json](./421535-galaxyquest.json) |
@@ -8502,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Masquerade | 84497 | [84497-gothic-masquerade.json](./84497-gothic-masquerade.json) |
 | Gothic Masquerade HD | 146864 | [146864-gothic-masquerade-hd.json](./146864-gothic-masquerade-hd.json) |
 | Gothic Murder: Adventure That Changes Destiny | 136503 | [136503-gothic-murder-adventure-that-changes-destiny.json](./136503-gothic-murder-adventure-that-changes-destiny.json) |
+| Gothic Murder: Tamago Dorobou wo Sagase! | 174388 | [174388-gothic-murder-tamago-dorobou-wo-sagase.json](./174388-gothic-murder-tamago-dorobou-wo-sagase.json) |
 | Gothic Platformer Games Bundle | 242668 | [242668-gothic-platformer-games-bundle.json](./242668-gothic-platformer-games-bundle.json) |
 | Gothic Remake Collector's Edition | 299293 | [299293-gothic-remake-collectors-edition.json](./299293-gothic-remake-collectors-edition.json) |
 | Gothic Scythe | 377924 | [377924-gothic-scythe.json](./377924-gothic-scythe.json) |
@@ -9581,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravit | 365754 | [365754-gravit.json](./365754-gravit.json) |
 | GraviT | 200696 | [200696-gravit.json](./200696-gravit.json) |
 | Gravitar | 17246 | [17246-gravitar.json](./17246-gravitar.json) |
+| Gravitar | 172794 | [172794-gravitar.json](./172794-gravitar.json) |
 | Gravitas | 121348 | [121348-gravitas.json](./121348-gravitas.json) |
 | Gravitas | 134000 | [134000-gravitas.json](./134000-gravitas.json) |
 | Gravitas | 397230 | [397230-gravitas.json](./397230-gravitas.json) |
