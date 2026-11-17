@@ -4516,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Shogi Mates | 309572 | [309572-vr-shogi-mates.json](./309572-vr-shogi-mates.json) |
 | VR Shooter Guns | 32867 | [32867-vr-shooter-guns.json](./32867-vr-shooter-guns.json) |
 | VR shooting cute balloons | 164249 | [164249-vr-shooting-cute-balloons.json](./164249-vr-shooting-cute-balloons.json) |
+| VR Shooting Range: Multiple Weapons | 159931 | [159931-vr-shooting-range-multiple-weapons.json](./159931-vr-shooting-range-multiple-weapons.json) |
 | VR Skater | 146829 | [146829-vr-skater.json](./146829-vr-skater.json) |
 | VR Skater: SL Pro Series Tour | 296527 | [296527-vr-skater-sl-pro-series-tour.json](./296527-vr-skater-sl-pro-series-tour.json) |
 | VR Skirmish on Solar System Planets: Shooting Battle | 154898 | [154898-vr-skirmish-on-solar-system-planets-shooting-battle.json](./154898-vr-skirmish-on-solar-system-planets-shooting-battle.json) |
