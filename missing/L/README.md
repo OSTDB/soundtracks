@@ -8580,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looping Bravery | 197442 | [197442-looping-bravery.json](./197442-looping-bravery.json) |
 | Looping Doors: Diner | 342487 | [342487-looping-doors-diner.json](./342487-looping-doors-diner.json) |
 | Looping Doors: Subway | 342488 | [342488-looping-doors-subway.json](./342488-looping-doors-subway.json) |
+| Looping Pit | 421679 | [421679-looping-pit.json](./421679-looping-pit.json) |
 | Looping World | 159465 | [159465-looping-world.json](./159465-looping-world.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
 | LoopMage: The Infinite Trials | 390835 | [390835-loopmage-the-infinite-trials.json](./390835-loopmage-the-infinite-trials.json) |
@@ -8722,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootonomicon | 211593 | [211593-lootonomicon.json](./211593-lootonomicon.json) |
 | Lootplot | 340807 | [340807-lootplot.json](./340807-lootplot.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
+| Lootstone | 421707 | [421707-lootstone.json](./421707-lootstone.json) |
 | Lootun | 201507 | [201507-lootun.json](./201507-lootun.json) |
 | Looty Dungeon | 104516 | [104516-looty-dungeon.json](./104516-looty-dungeon.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
@@ -11174,6 +11176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna-tan | 257495 | [257495-luna-tan.json](./257495-luna-tan.json) |
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: Shattered Hearts - Episode 1 | 36173 | [36173-luna-shattered-hearts-episode-1.json](./36173-luna-shattered-hearts-episode-1.json) |
+| Luna: Starfall | 421676 | [421676-luna-starfall.json](./421676-luna-starfall.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
 | Luna's Adventure: The Overlord | 268268 | [268268-lunas-adventure-the-overlord.json](./268268-lunas-adventure-the-overlord.json) |
 | Luna's Cathouse | 331220 | [331220-lunas-cathouse.json](./331220-lunas-cathouse.json) |
