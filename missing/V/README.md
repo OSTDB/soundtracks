@@ -4123,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vostok Inc. | 44141 | [44141-vostok-inc.json](./44141-vostok-inc.json) |
 | Vote: The Game | 93554 | [93554-vote-the-game.json](./93554-vote-the-game.json) |
 | Votum | 367160 | [367160-votum.json](./367160-votum.json) |
+| Vouivre | 180334 | [180334-vouivre.json](./180334-vouivre.json) |
 | Vovu | 57745 | [57745-vovu.json](./57745-vovu.json) |
 | Vow | 347342 | [347342-vow.json](./347342-vow.json) |
 | Vow of Heroes | 106981 | [106981-vow-of-heroes.json](./106981-vow-of-heroes.json) |
