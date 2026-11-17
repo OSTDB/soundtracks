@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
 | Halloween Mystery: 100 Hidden Object Fruits | 390468 | [390468-halloween-mystery-100-hidden-object-fruits.json](./390468-halloween-mystery-100-hidden-object-fruits.json) |
 | Halloween Naughty Girls | 266081 | [266081-halloween-naughty-girls.json](./266081-halloween-naughty-girls.json) |
+| Halloween Night | 189088 | [189088-halloween-night.json](./189088-halloween-night.json) |
 | Halloween Night | 209447 | [209447-halloween-night.json](./209447-halloween-night.json) |
 | Halloween Night | 274807 | [274807-halloween-night.json](./274807-halloween-night.json) |
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
@@ -6452,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Feet | 236599 | [236599-her-feet.json](./236599-her-feet.json) |
 | Her Heart, Anew | 419951 | [419951-her-heart-anew.json](./419951-her-heart-anew.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
+| Her Jentle Hi-ness | 189095 | [189095-her-jentle-hi-ness.json](./189095-her-jentle-hi-ness.json) |
 | Her Knights | 78735 | [78735-her-knights.json](./78735-her-knights.json) |
 | Her Knights: All for the Princess | 66048 | [66048-her-knights-all-for-the-princess.json](./66048-her-knights-all-for-the-princess.json) |
 | Her Knights: Kyrie Eleison | 145614 | [145614-her-knights-kyrie-eleison.json](./145614-her-knights-kyrie-eleison.json) |
@@ -13209,6 +13211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hubris | 114705 | [114705-hubris.json](./114705-hubris.json) |
 | HubWorld | 135608 | [135608-hubworld.json](./135608-hubworld.json) |
 | Huckleberry Falls | 99125 | [99125-huckleberry-falls.json](./99125-huckleberry-falls.json) |
+| Huckleberry Fields Forever | 188711 | [188711-huckleberry-fields-forever.json](./188711-huckleberry-fields-forever.json) |
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
 | Hüddam | 224956 | [224956-huddam.json](./224956-huddam.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
