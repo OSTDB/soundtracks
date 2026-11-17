@@ -4623,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
 | Where are Leo and Mia? Pirate Island | 420655 | [420655-where-are-leo-and-mia-pirate-island.json](./420655-where-are-leo-and-mia-pirate-island.json) |
+| Where Are My Cats? | 82196 | [82196-where-are-my-cats.json](./82196-where-are-my-cats.json) |
 | Where Are My Friends? | 72517 | [72517-where-are-my-friends.json](./72517-where-are-my-friends.json) |
 | Where are My Mittens | 195005 | [195005-where-are-my-mittens.json](./195005-where-are-my-mittens.json) |
 | Where Are My Pipes? | 89476 | [89476-where-are-my-pipes.json](./89476-where-are-my-pipes.json) |
@@ -6587,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of WW2 | 174112 | [174112-wings-of-ww2.json](./174112-wings-of-ww2.json) |
 | Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
 | Wings Over Europe: Cold War Gone Hot | 23120 | [23120-wings-over-europe-cold-war-gone-hot.json](./23120-wings-over-europe-cold-war-gone-hot.json) |
+| Wings Over Flanders Fields | 80656 | [80656-wings-over-flanders-fields.json](./80656-wings-over-flanders-fields.json) |
 | Wings Over Israel | 73071 | [73071-wings-over-israel.json](./73071-wings-over-israel.json) |
 | Wings over Vietnam | 16320 | [16320-wings-over-vietnam.json](./16320-wings-over-vietnam.json) |
 | Wings Over Water | 397864 | [397864-wings-over-water.json](./397864-wings-over-water.json) |
@@ -6663,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie the Pooh: The Honey Hunt | 78484 | [78484-winnie-the-pooh-the-honey-hunt.json](./78484-winnie-the-pooh-the-honey-hunt.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
 | Winnie the Pooh's Book Writing Speedrunner | 347916 | [347916-winnie-the-poohs-book-writing-speedrunner.json](./347916-winnie-the-poohs-book-writing-speedrunner.json) |
+| Winnie the Pooh's Home Run Derby! | 80666 | [80666-winnie-the-poohs-home-run-derby.json](./80666-winnie-the-poohs-home-run-derby.json) |
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
 | Winnie Witch's Superbroom | 60047 | [60047-winnie-witchs-superbroom.json](./60047-winnie-witchs-superbroom.json) |
 | Winnie-the-Bear: Honey Run | 326697 | [326697-winnie-the-bear-honey-run.json](./326697-winnie-the-bear-honey-run.json) |
@@ -6705,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 7 2013 | 63604 | [63604-winning-post-7-2013.json](./63604-winning-post-7-2013.json) |
 | Winning Post 7 Maximum 2007 | 7484 | [7484-winning-post-7-maximum-2007.json](./7484-winning-post-7-maximum-2007.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
+| Winning Post 8 | 80664 | [80664-winning-post-8.json](./80664-winning-post-8.json) |
 | Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
 | Winning Post 8 2016 | 59618 | [59618-winning-post-8-2016.json](./59618-winning-post-8-2016.json) |
 | Winning Post 8 2017 | 54566 | [54566-winning-post-8-2017.json](./54566-winning-post-8-2017.json) |
