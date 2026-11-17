@@ -21440,6 +21440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypts of Eternity | 259433 | [259433-crypts-of-eternity.json](./259433-crypts-of-eternity.json) |
 | Crypts of Terror | 69750 | [69750-crypts-of-terror.json](./69750-crypts-of-terror.json) |
 | Cryptshooter | 419192 | [419192-cryptshooter.json](./419192-cryptshooter.json) |
+| Cryptwake | 419277 | [419277-cryptwake.json](./419277-cryptwake.json) |
 | Cryptward Online | 422493 | [422493-cryptward-online.json](./422493-cryptward-online.json) |
 | Crysis 2 Remastered | 165126 | [165126-crysis-2-remastered.json](./165126-crysis-2-remastered.json) |
 | Crysis 2: Maximum Edition | 28722 | [28722-crysis-2-maximum-edition.json](./28722-crysis-2-maximum-edition.json) |
@@ -22878,6 +22879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Soul | 117305 | [117305-cursed-soul.json](./117305-cursed-soul.json) |
 | Cursed Soul | 183210 | [183210-cursed-soul.json](./183210-cursed-soul.json) |
 | Cursed Soul | 374330 | [374330-cursed-soul.json](./374330-cursed-soul.json) |
+| Cursed Soulless Vagabonds | 419302 | [419302-cursed-soulless-vagabonds.json](./419302-cursed-soulless-vagabonds.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
 | Cursed Station | 343025 | [343025-cursed-station.json](./343025-cursed-station.json) |
 | Cursed Swamp Escape | 315468 | [315468-cursed-swamp-escape.json](./315468-cursed-swamp-escape.json) |
