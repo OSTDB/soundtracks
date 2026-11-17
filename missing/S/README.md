@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salary Man Mario | 249751 | [249751-salary-man-mario.json](./249751-salary-man-mario.json) |
 | Salary-Mon: Hiro Versus His Demons | 334408 | [334408-salary-mon-hiro-versus-his-demons.json](./334408-salary-mon-hiro-versus-his-demons.json) |
 | Salaryman Rescue! | 268953 | [268953-salaryman-rescue.json](./268953-salaryman-rescue.json) |
+| Salaryman Shi | 188708 | [188708-salaryman-shi.json](./188708-salaryman-shi.json) |
 | Saleblazers | 198241 | [198241-saleblazers.json](./198241-saleblazers.json) |
 | Salem | 23613 | [23613-salem.json](./23613-salem.json) |
 | Salene | 405062 | [405062-salene.json](./405062-salene.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santria | 142619 | [142619-santria.json](./142619-santria.json) |
 | Santy is Home | 326778 | [326778-santy-is-home.json](./326778-santy-is-home.json) |
 | Sanxion | 23045 | [23045-sanxion.json](./23045-sanxion.json) |
+| Sanya | 189157 | [189157-sanya.json](./189157-sanya.json) |
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
@@ -6048,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semi-Sweet Tofu | 96904 | [96904-semi-sweet-tofu.json](./96904-semi-sweet-tofu.json) |
 | Semiaquatic Circus | 255451 | [255451-semiaquatic-circus.json](./255451-semiaquatic-circus.json) |
 | Semicolon Island | 253679 | [253679-semicolon-island.json](./253679-semicolon-island.json) |
+| Semiconductor | 189093 | [189093-semiconductor.json](./189093-semiconductor.json) |
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
 | Semispheres: Blue Cover Limited Edition | 167034 | [167034-semispheres-blue-cover-limited-edition.json](./167034-semispheres-blue-cover-limited-edition.json) |
 | Semispheres: Orange Cover - Limited Edition | 167001 | [167001-semispheres-orange-cover-limited-edition.json](./167001-semispheres-orange-cover-limited-edition.json) |
@@ -7638,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
 | Shadow of Destiny | 208716 | [208716-shadow-of-destiny.json](./208716-shadow-of-destiny.json) |
+| Shadow of Egypt | 188699 | [188699-shadow-of-egypt.json](./188699-shadow-of-egypt.json) |
 | Shadow of Engimor | 289443 | [289443-shadow-of-engimor.json](./289443-shadow-of-engimor.json) |
 | Shadow of Ether | 239767 | [239767-shadow-of-ether.json](./239767-shadow-of-ether.json) |
 | Shadow of Fear | 273425 | [273425-shadow-of-fear.json](./273425-shadow-of-fear.json) |
@@ -8656,6 +8660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Frames 3: Skies Above | 409289 | [409289-shattered-frames-3-skies-above.json](./409289-shattered-frames-3-skies-above.json) |
 | Shattered Frames 4: Micro Worlds | 401442 | [401442-shattered-frames-4-micro-worlds.json](./401442-shattered-frames-4-micro-worlds.json) |
 | Shattered Galaxy | 73258 | [73258-shattered-galaxy.json](./73258-shattered-galaxy.json) |
+| Shattered Gardens | 189091 | [189091-shattered-gardens.json](./189091-shattered-gardens.json) |
 | Shattered God - Quest for the Divine Relic | 41935 | [41935-shattered-god-quest-for-the-divine-relic.json](./41935-shattered-god-quest-for-the-divine-relic.json) |
 | Shattered Haven | 9407 | [9407-shattered-haven.json](./9407-shattered-haven.json) |
 | Shattered Heaven | 207659 | [207659-shattered-heaven.json](./207659-shattered-heaven.json) |
@@ -24999,6 +25004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits & Spells | 4165 | [4165-spirits-and-spells.json](./4165-spirits-and-spells.json) |
 | Spirits Abyss | 118101 | [118101-spirits-abyss.json](./118101-spirits-abyss.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
+| Spirits Chronicles: Born in Flames - Collector's Edition | 188693 | [188693-spirits-chronicles-born-in-flames-collectors-edition.json](./188693-spirits-chronicles-born-in-flames-collectors-edition.json) |
 | Spirits Chronicles: Flower of Hope - Collector's Edition | 208632 | [208632-spirits-chronicles-flower-of-hope-collectors-edition.json](./208632-spirits-chronicles-flower-of-hope-collectors-edition.json) |
 | Spirits Mirror​:​ Digital Possessed | 251348 | [251348-spirits-mirror-digital-possessed.json](./251348-spirits-mirror-digital-possessed.json) |
 | Spirits of Baciu | 313917 | [313917-spirits-of-baciu.json](./313917-spirits-of-baciu.json) |
@@ -25949,6 +25955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprocket Junkie | 65213 | [65213-sprocket-junkie.json](./65213-sprocket-junkie.json) |
 | Sprocket Rocket Rumble | 123028 | [123028-sprocket-rocket-rumble.json](./123028-sprocket-rocket-rumble.json) |
 | Sprocket Rocket: Design and Conquer | 320885 | [320885-sprocket-rocket-design-and-conquer.json](./320885-sprocket-rocket-design-and-conquer.json) |
+| Sprocket Wings | 189155 | [189155-sprocket-wings.json](./189155-sprocket-wings.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sproing! | 263372 | [263372-sproing.json](./263372-sproing.json) |
 | Sproink | 208773 | [208773-sproink.json](./208773-sproink.json) |
@@ -25982,6 +25989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sproutmart: Farm & Grocery Sim | 356298 | [356298-sproutmart-farm-and-grocery-sim.json](./356298-sproutmart-farm-and-grocery-sim.json) |
 | Sprouts Adventure | 146464 | [146464-sprouts-adventure.json](./146464-sprouts-adventure.json) |
+| Spruce | 189156 | [189156-spruce.json](./189156-spruce.json) |
 | Spruce Falls | 397615 | [397615-spruce-falls.json](./397615-spruce-falls.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprung | 20209 | [20209-sprung.json](./20209-sprung.json) |
@@ -40282,6 +40290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sandals II | 58874 | [58874-swords-and-sandals-ii.json](./58874-swords-and-sandals-ii.json) |
 | Swords and Sandals III | 192892 | [192892-swords-and-sandals-iii.json](./192892-swords-and-sandals-iii.json) |
 | Swords and Sandals III Redux | 374559 | [374559-swords-and-sandals-iii-redux.json](./374559-swords-and-sandals-iii-redux.json) |
+| Swords and Sandals Immortals | 188702 | [188702-swords-and-sandals-immortals.json](./188702-swords-and-sandals-immortals.json) |
 | Swords and Sandals IV: Tavern Quests | 180102 | [180102-swords-and-sandals-iv-tavern-quests.json](./180102-swords-and-sandals-iv-tavern-quests.json) |
 | Swords and Sandals Medieval | 67933 | [67933-swords-and-sandals-medieval.json](./67933-swords-and-sandals-medieval.json) |
 | Swords and Sandals Pirates | 112729 | [112729-swords-and-sandals-pirates.json](./112729-swords-and-sandals-pirates.json) |
