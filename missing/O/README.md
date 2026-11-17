@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obama 2048 | 316545 | [316545-obama-2048.json](./316545-obama-2048.json) |
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
 | Obama Alien Defense | 326739 | [326739-obama-alien-defense.json](./326739-obama-alien-defense.json) |
+| Obama Boss Fight | 189097 | [189097-obama-boss-fight.json](./189097-obama-boss-fight.json) |
 | Obama Boss Fight: Bad Trip | 252464 | [252464-obama-boss-fight-bad-trip.json](./252464-obama-boss-fight-bad-trip.json) |
 | Obama Burger Stand | 325796 | [325796-obama-burger-stand.json](./325796-obama-burger-stand.json) |
 | Obama in the Dark | 320263 | [320263-obama-in-the-dark.json](./320263-obama-in-the-dark.json) |
@@ -2451,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One | 6267 | [6267-one.json](./6267-one.json) |
 | One Action Heroes | 177259 | [177259-one-action-heroes.json](./177259-one-action-heroes.json) |
 | One Against the Galaxy | 76106 | [76106-one-against-the-galaxy.json](./76106-one-against-the-galaxy.json) |
+| One against the wind | 188691 | [188691-one-against-the-wind.json](./188691-one-against-the-wind.json) |
 | One and One Story | 133034 | [133034-one-and-one-story.json](./133034-one-and-one-story.json) |
 | One Armed Bandit | 236354 | [236354-one-armed-bandit.json](./236354-one-armed-bandit.json) |
 | One Barbarian Futa Tribe Chapter 1: Violet | 297170 | [297170-one-barbarian-futa-tribe-chapter-1-violet.json](./297170-one-barbarian-futa-tribe-chapter-1-violet.json) |
@@ -3692,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooze Keeper | 318118 | [318118-ooze-keeper.json](./318118-ooze-keeper.json) |
 | Ooze Less | 340825 | [340825-ooze-less.json](./340825-ooze-less.json) |
 | Ooze Odyssey | 260231 | [260231-ooze-odyssey.json](./260231-ooze-odyssey.json) |
+| Ooze Redux | 189089 | [189089-ooze-redux.json](./189089-ooze-redux.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Ooze: Creepy Nites | 71746 | [71746-ooze-creepy-nites.json](./71746-ooze-creepy-nites.json) |
 | Ooze: The Escape | 142019 | [142019-ooze-the-escape.json](./142019-ooze-the-escape.json) |
@@ -6238,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overbold | 318728 | [318728-overbold.json](./318728-overbold.json) |
 | Overbooked | 413044 | [413044-overbooked.json](./413044-overbooked.json) |
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
+| Overbowed | 189098 | [189098-overbowed.json](./189098-overbowed.json) |
 | Overcast - Walden and the Werewolf | 17228 | [17228-overcast-walden-and-the-werewolf.json](./17228-overcast-walden-and-the-werewolf.json) |
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
