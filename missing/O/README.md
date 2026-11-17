@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
 | Olympus Griddlers | 108546 | [108546-olympus-griddlers.json](./108546-olympus-griddlers.json) |
+| Olympus of the Heavens | 421723 | [421723-olympus-of-the-heavens.json](./421723-olympus-of-the-heavens.json) |
 | Olympus Rangers | 399236 | [399236-olympus-rangers.json](./399236-olympus-rangers.json) |
 | Olympus Rising | 408496 | [408496-olympus-rising.json](./408496-olympus-rising.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
@@ -6647,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl's Midnight Journey | 68849 | [68849-owls-midnight-journey.json](./68849-owls-midnight-journey.json) |
 | Owl's Nest | 392736 | [392736-owls-nest.json](./392736-owls-nest.json) |
 | Owlbears | 387518 | [387518-owlbears.json](./387518-owlbears.json) |
+| Owlbound Tomes | 421730 | [421730-owlbound-tomes.json](./421730-owlbound-tomes.json) |
 | OwlBox: Fantasy Gaming System | 359861 | [359861-owlbox-fantasy-gaming-system.json](./359861-owlbox-fantasy-gaming-system.json) |
 | Owlboy | 12597 | [12597-owlboy.json](./12597-owlboy.json) |
 | Owlboy: Collector's Edition | 51858 | [51858-owlboy-collectors-edition.json](./51858-owlboy-collectors-edition.json) |
