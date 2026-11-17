@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Season Pass | 141742 | [141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json](./141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json) |
+| Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Symphony of the Mask | 135912 | [135912-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-symphony-of-the-mask.json](./135912-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-symphony-of-the-mask.json) |
 | Cadentia Farnese | 381955 | [381955-cadentia-farnese.json](./381955-cadentia-farnese.json) |
 | Cadenza: Fame, Theft and Murder - Collector's Edition | 281786 | [281786-cadenza-fame-theft-and-murder-collectors-edition.json](./281786-cadenza-fame-theft-and-murder-collectors-edition.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
@@ -2257,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Ougon Sedai no Chousen | 65166 | [65166-captain-tsubasa-ougon-sedai-no-chousen.json](./65166-captain-tsubasa-ougon-sedai-no-chousen.json) |
 | Captain Tsubasa: Rise of New Champions | 128769 | [128769-captain-tsubasa-rise-of-new-champions.json](./128769-captain-tsubasa-rise-of-new-champions.json) |
 | Captain Tsubasa: Rise of New Champions - Carlos Bara | 226546 | [226546-captain-tsubasa-rise-of-new-champions-carlos-bara.json](./226546-captain-tsubasa-rise-of-new-champions-carlos-bara.json) |
+| Captain Tsubasa: Rise of New Champions - Collector's Edition | 135962 | [135962-captain-tsubasa-rise-of-new-champions-collectors-edition.json](./135962-captain-tsubasa-rise-of-new-champions-collectors-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Edition | 136032 | [136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json](./136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Digital Deluxe Edition | 220894 | [220894-captain-tsubasa-rise-of-new-champions-digital-deluxe-edition.json](./220894-captain-tsubasa-rise-of-new-champions-digital-deluxe-edition.json) |
@@ -3497,9 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrying Carrots | 320089 | [320089-carrying-carrots.json](./320089-carrying-carrots.json) |
 | Cars | 230423 | [230423-cars.json](./230423-cars.json) |
 | Cars | 243201 | [243201-cars.json](./243201-cars.json) |
-| Cars | 243202 | [243202-cars.json](./243202-cars.json) |
 | Cars | 243203 | [243203-cars.json](./243203-cars.json) |
-| Cars | 243204 | [243204-cars.json](./243204-cars.json) |
 | Cars | 243205 | [243205-cars.json](./243205-cars.json) |
 | Cars | 243206 | [243206-cars.json](./243206-cars.json) |
 | Cars | 245506 | [245506-cars.json](./245506-cars.json) |
@@ -14918,6 +14918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos: Ammo Pack | 21942 | [21942-commandos-ammo-pack.json](./21942-commandos-ammo-pack.json) |
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
 | Commandos: Beyond the Call of Duty | 961 | [961-commandos-beyond-the-call-of-duty.json](./961-commandos-beyond-the-call-of-duty.json) |
+| Commandos: Complete Collection | 135951 | [135951-commandos-complete-collection.json](./135951-commandos-complete-collection.json) |
 | Commandos: Origins | 255936 | [255936-commandos-origins.json](./255936-commandos-origins.json) |
 | Commandos: Origins - Deluxe Edition | 339554 | [339554-commandos-origins-deluxe-edition.json](./339554-commandos-origins-deluxe-edition.json) |
 | Commandos: Origins - No Man Left Behind | 399159 | [399159-commandos-origins-no-man-left-behind.json](./399159-commandos-origins-no-man-left-behind.json) |
