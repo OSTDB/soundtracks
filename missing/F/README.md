@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
 | FailFactory | 348515 | [348515-failfactory.json](./348515-failfactory.json) |
+| Failover | 420419 | [420419-failover.json](./420419-failover.json) |
 | FailRooms | 417806 | [417806-failrooms.json](./417806-failrooms.json) |
 | Failspace | 111795 | [111795-failspace.json](./111795-failspace.json) |
 | Failticity Classic | 56348 | [56348-failticity-classic.json](./56348-failticity-classic.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate Seeker: Journey | 228213 | [228213-fate-seeker-journey.json](./228213-fate-seeker-journey.json) |
 | Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
+| Fate Startrail | 420417 | [420417-fate-startrail.json](./420417-fate-startrail.json) |
 | Fate Tectonics | 35079 | [35079-fate-tectonics.json](./35079-fate-tectonics.json) |
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
 | Fate War | 360916 | [360916-fate-war.json](./360916-fate-war.json) |
@@ -9594,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlowerRock | 301227 | [301227-flowerrock.json](./301227-flowerrock.json) |
 | Flowers 2 by Powgi | 140419 | [140419-flowers-2-by-powgi.json](./140419-flowers-2-by-powgi.json) |
 | Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
+| Flowers and Deities: Thief Prince Expansion Pack | 420457 | [420457-flowers-and-deities-thief-prince-expansion-pack.json](./420457-flowers-and-deities-thief-prince-expansion-pack.json) |
 | Flowers and Favours: Florist Simulator | 349016 | [349016-flowers-and-favours-florist-simulator.json](./349016-flowers-and-favours-florist-simulator.json) |
 | Flowers Are Dead | 124342 | [124342-flowers-are-dead.json](./124342-flowers-are-dead.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
@@ -12755,6 +12758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractaloid Attacks! | 389850 | [389850-fractaloid-attacks.json](./389850-fractaloid-attacks.json) |
 | Fractals | 372929 | [372929-fractals.json](./372929-fractals.json) |
 | Fractals of Destiny | 256955 | [256955-fractals-of-destiny.json](./256955-fractals-of-destiny.json) |
+| Fractara: Age of Claimants | 420450 | [420450-fractara-age-of-claimants.json](./420450-fractara-age-of-claimants.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fraction Fever | 40880 | [40880-fraction-fever.json](./40880-fraction-fever.json) |
 | Fraction Munchers | 325302 | [325302-fraction-munchers.json](./325302-fraction-munchers.json) |
@@ -14011,6 +14015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fractions: Game of the Decade Edition - Hop's Iconic Cap | 136516 | [136516-frog-fractions-game-of-the-decade-edition-hops-iconic-cap.json](./136516-frog-fractions-game-of-the-decade-edition-hops-iconic-cap.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Frenzy 2 | 209579 | [209579-frog-frenzy-2.json](./209579-frog-frenzy-2.json) |
+| Frog Frog Parkour | 420299 | [420299-frog-frog-parkour.json](./420299-frog-frog-parkour.json) |
 | Frog Fun | 77553 | [77553-frog-fun.json](./77553-frog-fun.json) |
 | Frog Galaxy Survivor | 314734 | [314734-frog-galaxy-survivor.json](./314734-frog-galaxy-survivor.json) |
 | Frog Game for You | 227908 | [227908-frog-game-for-you.json](./227908-frog-game-for-you.json) |
