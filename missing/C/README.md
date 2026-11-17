@@ -3906,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
 | Casper: Spirit Dimensions | 3850 | [3850-casper-spirit-dimensions.json](./3850-casper-spirit-dimensions.json) |
 | Casper: The Interactive Adventure | 215183 | [215183-casper-the-interactive-adventure.json](./215183-casper-the-interactive-adventure.json) |
+| Casper's Scare School | 43565 | [43565-caspers-scare-school.json](./43565-caspers-scare-school.json) |
 | Casper's Scare School: Spooky Sports Day | 51040 | [51040-caspers-scare-school-spooky-sports-day.json](./51040-caspers-scare-school-spooky-sports-day.json) |
 | Caspers | 337837 | [337837-caspers.json](./337837-caspers.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
@@ -4075,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Crush: Epic Strategy Game | 57221 | [57221-castle-crush-epic-strategy-game.json](./57221-castle-crush-epic-strategy-game.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
+| Castle Defender | 43490 | [43490-castle-defender.json](./43490-castle-defender.json) |
 | Castle Defender Saga | 300665 | [300665-castle-defender-saga.json](./300665-castle-defender-saga.json) |
 | Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
 | Castle Defense | 277158 | [277158-castle-defense.json](./277158-castle-defense.json) |
