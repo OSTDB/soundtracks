@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
 | Warhammer 40,000: Gladius - Tyranids | 124951 | [124951-warhammer-40-000-gladius-tyranids.json](./124951-warhammer-40-000-gladius-tyranids.json) |
 | Warhammer 40,000: Gladius - Ultima Founding | 325158 | [325158-warhammer-40-000-gladius-ultima-founding.json](./325158-warhammer-40-000-gladius-ultima-founding.json) |
+| Warhammer 40,000: Glory in Death | 6293 | [6293-warhammer-40-000-glory-in-death.json](./6293-warhammer-40-000-glory-in-death.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
 | Warhammer 40,000: Inquisitor - Martyr Deluxe Edition | 117983 | [117983-warhammer-40-000-inquisitor-martyr-deluxe-edition.json](./117983-warhammer-40-000-inquisitor-martyr-deluxe-edition.json) |
@@ -10583,6 +10584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K25: WrestleMania 41 Pack | 353991 | [353991-wwe-2k25-wrestlemania-41-pack.json](./353991-wwe-2k25-wrestlemania-41-pack.json) |
 | WWE 2K25: Wyatt Sicks Pack | 353992 | [353992-wwe-2k25-wyatt-sicks-pack.json](./353992-wwe-2k25-wyatt-sicks-pack.json) |
 | WWE 2K26 | 387782 | [387782-wwe-2k26.json](./387782-wwe-2k26.json) |
+| WWE Aftershock | 6295 | [6295-wwe-aftershock.json](./6295-wwe-aftershock.json) |
 | WWE All Stars | 5296 | [5296-wwe-all-stars.json](./5296-wwe-all-stars.json) |
 | WWE Brawl | 94141 | [94141-wwe-brawl.json](./94141-wwe-brawl.json) |
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
