@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Chair Curling | 321220 | [321220-office-chair-curling.json](./321220-office-chair-curling.json) |
 | Office Chimp | 249283 | [249283-office-chimp.json](./249283-office-chimp.json) |
+| Office Combat | 177583 | [177583-office-combat.json](./177583-office-combat.json) |
 | Office Crush Dating Simulator | 318718 | [318718-office-crush-dating-simulator.json](./318718-office-crush-dating-simulator.json) |
 | Office Dating Simulator 2020 | 183255 | [183255-office-dating-simulator-2020.json](./183255-office-dating-simulator-2020.json) |
 | Office Disorders | 92224 | [92224-office-disorders.json](./92224-office-disorders.json) |
