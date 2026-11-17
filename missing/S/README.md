@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls | 255464 | [255464-sakura-bunny-girls.json](./255464-sakura-bunny-girls.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
+| Sakura Christmas Party | 69436 | [69436-sakura-christmas-party.json](./69436-sakura-christmas-party.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
 | Sakura Cupid | 83974 | [83974-sakura-cupid.json](./83974-sakura-cupid.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
@@ -1074,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Trick | 231838 | [231838-sakura-trick.json](./231838-sakura-trick.json) |
 | Sakura Trick: Special Edition | 191564 | [191564-sakura-trick-special-edition.json](./191564-sakura-trick-special-edition.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
+| Sakura Valentine's Day | 69435 | [69435-sakura-valentines-day.json](./69435-sakura-valentines-day.json) |
 | Sakura Wars | 96392 | [96392-sakura-wars.json](./96392-sakura-wars.json) |
 | Sakura Wars: Digital Deluxe Edition | 132971 | [132971-sakura-wars-digital-deluxe-edition.json](./132971-sakura-wars-digital-deluxe-edition.json) |
 | Sakura Wars: Launch Edition | 136013 | [136013-sakura-wars-launch-edition.json](./136013-sakura-wars-launch-edition.json) |
@@ -6214,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
 | Senko no Ronde 2: Rounder Karel | 171145 | [171145-senko-no-ronde-2-rounder-karel.json](./171145-senko-no-ronde-2-rounder-karel.json) |
 | Senko no Ronde 2: Rounder Lili | 172217 | [172217-senko-no-ronde-2-rounder-lili.json](./172217-senko-no-ronde-2-rounder-lili.json) |
+| Senko no Ronde DUO | 67578 | [67578-senko-no-ronde-duo.json](./67578-senko-no-ronde-duo.json) |
 | Senko no Ronde SP | 393832 | [393832-senko-no-ronde-sp.json](./393832-senko-no-ronde-sp.json) |
 | Senkou | 358499 | [358499-senkou.json](./358499-senkou.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
@@ -11136,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutokou Battle Online | 215852 | [215852-shutokou-battle-online.json](./215852-shutokou-battle-online.json) |
 | Shutokou Battle R | 214789 | [214789-shutokou-battle-r.json](./214789-shutokou-battle-r.json) |
+| Shutsudou! Miniskirt Police | 69463 | [69463-shutsudou-miniskirt-police.json](./69463-shutsudou-miniskirt-police.json) |
 | Shutsugeki!! Otometachi no Senjou 2: Yuukoku o Kakeru Koujo no Tsubasa | 43048 | [43048-shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.json](./43048-shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
 | Shutter | 391145 | [391145-shutter.json](./391145-shutter.json) |
