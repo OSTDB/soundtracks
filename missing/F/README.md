@@ -13410,7 +13410,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeOrion | 91478 | [91478-freeorion.json](./91478-freeorion.json) |
 | Freeq | 62573 | [62573-freeq.json](./62573-freeq.json) |
 | Freerice | 140371 | [140371-freerice.json](./140371-freerice.json) |
-| Freeride | 204514 | [204514-freeride.json](./204514-freeride.json) |
 | Freeride Earth | 340151 | [340151-freeride-earth.json](./340151-freeride-earth.json) |
 | FreeRun Masters | 60393 | [60393-freerun-masters.json](./60393-freerun-masters.json) |
 | Freerunners | 220025 | [220025-freerunners.json](./220025-freerunners.json) |
