@@ -8861,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
 | Pit Stoppers | 217155 | [217155-pit-stoppers.json](./217155-pit-stoppers.json) |
 | Pit Viper | 91481 | [91481-pit-viper.json](./91481-pit-viper.json) |
+| Pit-Fighter | 198848 | [198848-pit-fighter.json](./198848-pit-fighter.json) |
 | Pit-Fighter | 307516 | [307516-pit-fighter.json](./307516-pit-fighter.json) |
 | Pit-Fighter | 307835 | [307835-pit-fighter.json](./307835-pit-fighter.json) |
 | Pit-Fighter | 307836 | [307836-pit-fighter.json](./307836-pit-fighter.json) |
@@ -8915,6 +8916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfall: The Lost Expedition | 209384 | [209384-pitfall-the-lost-expedition.json](./209384-pitfall-the-lost-expedition.json) |
 | Pitfall: The Lost Expedition | 4070 | [4070-pitfall-the-lost-expedition.json](./4070-pitfall-the-lost-expedition.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
+| Pitfall! | 198849 | [198849-pitfall.json](./198849-pitfall.json) |
 | Pitfall! | 19908 | [19908-pitfall.json](./19908-pitfall.json) |
 | Pitfall! | 5411 | [5411-pitfall.json](./5411-pitfall.json) |
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
@@ -12584,6 +12586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon CrystalDust | 346232 | [346232-pokemon-crystaldust.json](./346232-pokemon-crystaldust.json) |
 | Pokémon Cursed Version | 384834 | [384834-pokemon-cursed-version.json](./384834-pokemon-cursed-version.json) |
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
+| Pokémon Cyclone 2 | 198851 | [198851-pokemon-cyclone-2.json](./198851-pokemon-cyclone-2.json) |
 | Pokémon D.W. | 147178 | [147178-pokemon-d-w.json](./147178-pokemon-d-w.json) |
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
 | Pokémon Dark Horizon | 399964 | [399964-pokemon-dark-horizon.json](./399964-pokemon-dark-horizon.json) |
