@@ -5387,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fightland | 340072 | [340072-fightland.json](./340072-fightland.json) |
 | Fightmons | 120224 | [120224-fightmons.json](./120224-fightmons.json) |
+| Fightro | 211306 | [211306-fightro.json](./211306-fightro.json) |
 | Fights in Tight Spaces: Complete Edition | 270309 | [270309-fights-in-tight-spaces-complete-edition.json](./270309-fights-in-tight-spaces-complete-edition.json) |
 | Fights in Tight Spaces: Frights in Tight Spaces | 375531 | [375531-fights-in-tight-spaces-frights-in-tight-spaces.json](./375531-fights-in-tight-spaces-frights-in-tight-spaces.json) |
 | Fights in Tight Spaces: K9 Division | 370251 | [370251-fights-in-tight-spaces-k9-division.json](./370251-fights-in-tight-spaces-k9-division.json) |
@@ -14181,6 +14182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogue | 195679 | [195679-frogue.json](./195679-frogue.json) |
 | Froguelike | 244836 | [244836-froguelike.json](./244836-froguelike.json) |
 | Frogun Encore | 242322 | [242322-frogun-encore.json](./242322-frogun-encore.json) |
+| Frogun: Deluxe Edition | 211308 | [211308-frogun-deluxe-edition.json](./211308-frogun-deluxe-edition.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvale | 113600 | [113600-frogvale.json](./113600-frogvale.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
