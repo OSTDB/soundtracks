@@ -5277,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellpunk | 129671 | [129671-hellpunk.json](./129671-hellpunk.json) |
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
 | Hellraid | 3250 | [3250-hellraid.json](./3250-hellraid.json) |
+| Hellraid: The Escape | 69458 | [69458-hellraid-the-escape.json](./69458-hellraid-the-escape.json) |
 | Hellraider | 14899 | [14899-hellraider.json](./14899-hellraider.json) |
 | HellRazor64 | 226352 | [226352-hellrazor64.json](./226352-hellrazor64.json) |
 | Hellreaper | 371214 | [371214-hellreaper.json](./371214-hellreaper.json) |
@@ -7984,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Fairy Tale | 95580 | [95580-hidden-garden-fairy-tale.json](./95580-hidden-garden-fairy-tale.json) |
 | Hidden Garden Forest | 102085 | [102085-hidden-garden-forest.json](./102085-hidden-garden-forest.json) |
 | Hidden Garden Heart Breaker | 235138 | [235138-hidden-garden-heart-breaker.json](./235138-hidden-garden-heart-breaker.json) |
+| Hidden Garden Midnight | 69453 | [69453-hidden-garden-midnight.json](./69453-hidden-garden-midnight.json) |
 | Hidden Garden Paradise | 106349 | [106349-hidden-garden-paradise.json](./106349-hidden-garden-paradise.json) |
 | Hidden Garden Wonderland | 103860 | [103860-hidden-garden-wonderland.json](./103860-hidden-garden-wonderland.json) |
 | Hidden Garden Word Jumble | 89685 | [89685-hidden-garden-word-jumble.json](./89685-hidden-garden-word-jumble.json) |
