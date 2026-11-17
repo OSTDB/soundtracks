@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taking Root: Academic Version | 270089 | [270089-taking-root-academic-version.json](./270089-taking-root-academic-version.json) |
 | Taking the Cross | 309943 | [309943-taking-the-cross.json](./309943-taking-the-cross.json) |
 | Taking Today Off | 384156 | [384156-taking-today-off.json](./384156-taking-today-off.json) |
+| Taking Valhalla VR | 74566 | [74566-taking-valhalla-vr.json](./74566-taking-valhalla-vr.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
 | Takkoman | 135309 | [135309-takkoman.json](./135309-takkoman.json) |
 | Takkyu Tournament Re:Serve | 126707 | [126707-takkyu-tournament-re-serve.json](./126707-takkyu-tournament-re-serve.json) |
@@ -10385,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast and The Furious | 152308 | [152308-the-fast-and-the-furious.json](./152308-the-fast-and-the-furious.json) |
 | The Fast and The Furious | 21383 | [21383-the-fast-and-the-furious.json](./21383-the-fast-and-the-furious.json) |
 | The Fast and the Furious & 2 Fast 2 Furious | 301503 | [301503-the-fast-and-the-furious-and-2-fast-2-furious.json](./301503-the-fast-and-the-furious-and-2-fast-2-furious.json) |
+| The Fast and The Furious: Drift | 72886 | [72886-the-fast-and-the-furious-drift.json](./72886-the-fast-and-the-furious-drift.json) |
 | The Fast and The Furious: Super Bikes | 72919 | [72919-the-fast-and-the-furious-super-bikes.json](./72919-the-fast-and-the-furious-super-bikes.json) |
 | The Fast and The Furious: Tokyo | 222719 | [222719-the-fast-and-the-furious-tokyo.json](./222719-the-fast-and-the-furious-tokyo.json) |
 | The Fast and the Furious: Tokyo Drift | 23083 | [23083-the-fast-and-the-furious-tokyo-drift.json](./23083-the-fast-and-the-furious-tokyo-drift.json) |
@@ -12673,6 +12675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jester's Revenge | 289993 | [289993-the-jesters-revenge.json](./289993-the-jesters-revenge.json) |
 | The Jetsons in By George, in Trouble Again | 46709 | [46709-the-jetsons-in-by-george-in-trouble-again.json](./46709-the-jetsons-in-by-george-in-trouble-again.json) |
 | The Jetsons: Cogswell's Caper | 48153 | [48153-the-jetsons-cogswells-caper.json](./48153-the-jetsons-cogswells-caper.json) |
+| The Jetsons: George Jetson and the Legend of Robotopia | 72873 | [72873-the-jetsons-george-jetson-and-the-legend-of-robotopia.json](./72873-the-jetsons-george-jetson-and-the-legend-of-robotopia.json) |
 | The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
 | The Jetsons: Robot Panic | 48975 | [48975-the-jetsons-robot-panic.json](./48975-the-jetsons-robot-panic.json) |
 | The Jetsons: Space Race | 263937 | [263937-the-jetsons-space-race.json](./263937-the-jetsons-space-race.json) |
@@ -13969,6 +13972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel - Northern War | 259316 | [259316-the-legend-of-heroes-trails-of-cold-steel-northern-war.json](./259316-the-legend-of-heroes-trails-of-cold-steel-northern-war.json) |
 | The Legend of Heroes: Trails of Cold Steel - Shining Pom Bait Pack 2 | 155420 | [155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json](./155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json) |
 | The Legend of Heroes: Trails of Cold Steel I - IV & Trails into Reverie Complete Box | 201066 | [201066-the-legend-of-heroes-trails-of-cold-steel-i-iv-and-trails-into-reverie-complete-box.json](./201066-the-legend-of-heroes-trails-of-cold-steel-i-iv-and-trails-into-reverie-complete-box.json) |
+| The Legend of Heroes: Trails of Cold Steel I - Kai | 75973 | [75973-the-legend-of-heroes-trails-of-cold-steel-i-kai.json](./75973-the-legend-of-heroes-trails-of-cold-steel-i-kai.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
 | The Legend of Heroes: Trails of Cold Steel II - Kai | 78114 | [78114-the-legend-of-heroes-trails-of-cold-steel-ii-kai.json](./78114-the-legend-of-heroes-trails-of-cold-steel-ii-kai.json) |
@@ -36867,6 +36871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tweety's High-Flying Adventure | 49986 | [49986-tweetys-high-flying-adventure.json](./49986-tweetys-high-flying-adventure.json) |
 | Twelfth Life | 211989 | [211989-twelfth-life.json](./211989-twelfth-life.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
+| Twelve : Legend of Sealed Gods during the Turbulent Age | 72864 | [72864-twelve-legend-of-sealed-gods-during-the-turbulent-age.json](./72864-twelve-legend-of-sealed-gods-during-the-turbulent-age.json) |
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
 | Twelve Chairs | 94370 | [94370-twelve-chairs.json](./94370-twelve-chairs.json) |
 | Twelve Containers | 137187 | [137187-twelve-containers.json](./137187-twelve-containers.json) |
@@ -36982,6 +36987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Tower | 182867 | [182867-twilight-tower.json](./182867-twilight-tower.json) |
 | Twilight Towers | 370336 | [370336-twilight-towers.json](./370336-twilight-towers.json) |
 | Twilight Town | 299856 | [299856-twilight-town.json](./299856-twilight-town.json) |
+| Twilight Town | 75971 | [75971-twilight-town.json](./75971-twilight-town.json) |
 | Twilight Town: A Cyberpunk Day In Life | 156741 | [156741-twilight-town-a-cyberpunk-day-in-life.json](./156741-twilight-town-a-cyberpunk-day-in-life.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Treasures | 73063 | [73063-twilight-treasures.json](./73063-twilight-treasures.json) |
