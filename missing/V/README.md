@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vetrex | 194988 | [194988-vetrex.json](./194988-vetrex.json) |
 | Vetrix | 137870 | [137870-vetrix.json](./137870-vetrix.json) |
 | Vetrix Worlds | 235646 | [235646-vetrix-worlds.json](./235646-vetrix-worlds.json) |
+| Vette! | 12488 | [12488-vette.json](./12488-vette.json) |
 | VetVR: Veterinary Simulator | 236025 | [236025-vetvr-veterinary-simulator.json](./236025-vetvr-veterinary-simulator.json) |
 | VEV: Viva Ex Vivo | 19861 | [19861-vev-viva-ex-vivo.json](./19861-vev-viva-ex-vivo.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
@@ -2451,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Raiders | 415427 | [415427-viking-raiders.json](./415427-viking-raiders.json) |
 | Viking Rise | 246290 | [246290-viking-rise.json](./246290-viking-rise.json) |
 | Viking Rush: Clan Defenders' Glory Clash Chronicle | 235147 | [235147-viking-rush-clan-defenders-glory-clash-chronicle.json](./235147-viking-rush-clan-defenders-glory-clash-chronicle.json) |
+| Viking Saga: New World | 34084 | [34084-viking-saga-new-world.json](./34084-viking-saga-new-world.json) |
 | Viking Saga: The Cursed Ring | 34113 | [34113-viking-saga-the-cursed-ring.json](./34113-viking-saga-the-cursed-ring.json) |
 | Viking Sisters | 117812 | [117812-viking-sisters.json](./117812-viking-sisters.json) |
 | Viking Squad | 24837 | [24837-viking-squad.json](./24837-viking-squad.json) |
@@ -3736,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Point | 384047 | [384047-void-point.json](./384047-void-point.json) |
 | VOID PRIEST | 414163 | [414163-void-priest.json](./414163-void-priest.json) |
 | Void Prison | 199274 | [199274-void-prison.json](./199274-void-prison.json) |
+| Void Profit | 429854 | [429854-void-profit.json](./429854-void-profit.json) |
 | Void Protocol | 294505 | [294505-void-protocol.json](./294505-void-protocol.json) |
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
@@ -4301,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
 | VR Batting | 29172 | [29172-vr-batting.json](./29172-vr-batting.json) |
 | VR Battle Grid | 32288 | [32288-vr-battle-grid.json](./32288-vr-battle-grid.json) |
+| VR Battleship Yamato | 55530 | [55530-vr-battleship-yamato.json](./55530-vr-battleship-yamato.json) |
 | VR Black Hole Travel Hypothesis | 172248 | [172248-vr-black-hole-travel-hypothesis.json](./172248-vr-black-hole-travel-hypothesis.json) |
 | VR Blade of Blocks | 334924 | [334924-vr-blade-of-blocks.json](./334924-vr-blade-of-blocks.json) |
 | VR Boxing Master | 170620 | [170620-vr-boxing-master.json](./170620-vr-boxing-master.json) |
