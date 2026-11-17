@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T06:56:21.458Z",
-  "total_soundtracks": 3576,
+  "generated_at": "2026-11-17T07:06:45.149Z",
+  "total_soundtracks": 3585,
   "games": [
     {
       "igdb_id": 292844,
@@ -3089,6 +3089,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/atelier-yumia-the-alchemist-of-memories-the/1837059774?uo=4",
           "album_link_url": "https://album.link/i/1837059774"
+        }
+      ]
+    },
+    {
+      "igdb_id": 252072,
+      "game_name": "Athena Crisis",
+      "game_url": "https://ostdb.net/games/athena-crisis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273987e30da8e003b69621ea76c",
+      "albums": [
+        {
+          "album_name": "Athena Crisis (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0MDkbUi9WmZNG1qCxgckkG",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -8059,6 +8073,20 @@
       ]
     },
     {
+      "igdb_id": 252355,
+      "game_name": "Crashlands 2",
+      "game_url": "https://ostdb.net/games/crashlands-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aec74059074113494e3f6263",
+      "albums": [
+        {
+          "album_name": "Crashlands 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4WN9TNUriULAjsakvxqOfu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11049,
       "game_name": "Crawl",
       "game_url": "https://ostdb.net/games/crawl",
@@ -10237,6 +10265,20 @@
       ]
     },
     {
+      "igdb_id": 251938,
+      "game_name": "Dicefolk",
+      "game_url": "https://ostdb.net/games/dicefolk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732887beb0e49bfc02ddc29c3f",
+      "albums": [
+        {
+          "album_name": "Dicefolk (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2fOoaXFnmyTQhlEFVvZfr9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 13058,
       "game_name": "Dick Tracy",
       "game_url": "https://ostdb.net/games/dick-tracy",
@@ -10711,6 +10753,20 @@
         {
           "album_name": "Dolmen (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/19j4izR5EVvUkN6gQO8t07",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 246622,
+      "game_name": "Dolphin Spirit: Ocean Mission",
+      "game_url": "https://ostdb.net/games/dolphin-spirit-ocean-mission",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fa2f50e488cecd72147a819f",
+      "albums": [
+        {
+          "album_name": "Dolphin Spirit, Ocean Mission (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Ux7kJYRQSK53Yh7BkVtYb",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -22403,6 +22459,20 @@
       ]
     },
     {
+      "igdb_id": 252491,
+      "game_name": "Lysfanga: The Time Shift Warrior",
+      "game_url": "https://ostdb.net/games/lysfanga-the-time-shift-warrior",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e052de2e19ce9cb12ead5b35",
+      "albums": [
+        {
+          "album_name": "Lysfanga: The Time Shift Warrior (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7kf4YdNWLyhe0Jt0fRFGJJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 89773,
       "game_name": "Mable and the Wood",
       "game_url": "https://ostdb.net/games/mable-and-the-wood",
@@ -25621,6 +25691,20 @@
         {
           "album_name": "Need for Speed: Unbound (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7xLyQXqKOix3czQCjrc1tF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 248140,
+      "game_name": "Need for Speed: Undercover",
+      "game_url": "https://ostdb.net/games/need-for-speed-undercover",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c5e2bb5b25fec555d94446e2",
+      "albums": [
+        {
+          "album_name": "Need For Speed: Undercover (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0A5hf3mKdBH6ABzJT9eNRP",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -35359,6 +35443,20 @@
       ]
     },
     {
+      "igdb_id": 252490,
+      "game_name": "Star Trek: Infinite",
+      "game_url": "https://ostdb.net/games/star-trek-infinite",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27334bd9ee29fbb0a8c893362dd",
+      "albums": [
+        {
+          "album_name": "Star Trek: Infinite (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7KBJCeSK22duK9BHv4fqt1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 252787,
       "game_name": "Star Trucker",
       "game_url": "https://ostdb.net/games/star-trucker",
@@ -40407,6 +40505,20 @@
       ]
     },
     {
+      "igdb_id": 248566,
+      "game_name": "The Sims 3",
+      "game_url": "https://ostdb.net/games/the-sims-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e1617f312c1177474cd2cc12",
+      "albums": [
+        {
+          "album_name": "The Sims 3 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3syY41k4hVl9Y0tsKAcPop",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3212,
       "game_name": "The Sims 4",
       "game_url": "https://ostdb.net/games/the-sims-4",
@@ -41537,6 +41649,20 @@
         {
           "album_name": "Tony Hawk's American Wasteland Soundtrack",
           "spotify_url": "https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 248551,
+      "game_name": "Tony Hawk's American Wasteland",
+      "game_url": "https://ostdb.net/games/tony-hawks-american-wasteland",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734c7b0db965cc269670e1c5e2",
+      "albums": [
+        {
+          "album_name": "Tony Hawk's American Wasteland Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0",
           "apple_music_url": "",
           "album_link_url": ""
         }
