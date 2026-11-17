@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Did It All For The Cookie! | 311209 | [311209-i-did-it-all-for-the-cookie.json](./311209-i-did-it-all-for-the-cookie.json) |
 | I did it Mum! 2 | 72434 | [72434-i-did-it-mum-2.json](./72434-i-did-it-mum-2.json) |
 | I Did it Mum! Picture Book | 48040 | [48040-i-did-it-mum-picture-book.json](./48040-i-did-it-mum-picture-book.json) |
+| I did it Mum! Spelling | 67563 | [67563-i-did-it-mum-spelling.json](./67563-i-did-it-mum-spelling.json) |
 | I Did Not Buy This Ticket | 221165 | [221165-i-did-not-buy-this-ticket.json](./221165-i-did-not-buy-this-ticket.json) |
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
 | I Die a Lovely Life | 230162 | [230162-i-die-a-lovely-life.json](./230162-i-die-a-lovely-life.json) |
@@ -1273,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebox: Speedgunner | 56359 | [56359-icebox-speedgunner.json](./56359-icebox-speedgunner.json) |
 | Icebreaker | 4332 | [4332-icebreaker.json](./4332-icebreaker.json) |
 | Icebreaker 2 | 37121 | [37121-icebreaker-2.json](./37121-icebreaker-2.json) |
+| Icebreaker: A Viking Voyage | 69454 | [69454-icebreaker-a-viking-voyage.json](./69454-icebreaker-a-viking-voyage.json) |
 | Icebreakers | 66963 | [66963-icebreakers.json](./66963-icebreakers.json) |
 | Icebroken | 410335 | [410335-icebroken.json](./410335-icebroken.json) |
 | Iceburg | 373525 | [373525-iceburg.json](./373525-iceburg.json) |
