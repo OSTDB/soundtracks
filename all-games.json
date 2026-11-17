@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T03:05:56.662Z",
-  "total_soundtracks": 3511,
+  "generated_at": "2026-11-17T03:15:57.486Z",
+  "total_soundtracks": 3512,
   "games": [
     {
       "igdb_id": 292844,
@@ -36877,6 +36877,20 @@
         {
           "album_name": "Tasty Ramen (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6NbUsuSg9CQk6Exs0KtZkV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 345852,
+      "game_name": "Tavern Talk Stories: Dreamwalker",
+      "game_url": "https://ostdb.net/games/tavern-talk-stories-dreamwalker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739360d59408d4c7aff2d9b521",
+      "albums": [
+        {
+          "album_name": "Tavern Talk Stories: Dreamwalker (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2rzBGv7vqbUoYqPHmT4Vb6",
           "apple_music_url": "",
           "album_link_url": ""
         }
