@@ -4305,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant Royale | 277746 | [277746-peasant-royale.json](./277746-peasant-royale.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Peasant Uprise | 129417 | [129417-peasant-uprise.json](./129417-peasant-uprise.json) |
+| Peasant's Quest | 124318 | [124318-peasants-quest.json](./124318-peasants-quest.json) |
 | Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
 | Peasants War | 380187 | [380187-peasants-war.json](./380187-peasants-war.json) |
 | Pease | 289750 | [289750-pease.json](./289750-pease.json) |
@@ -7847,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Blitz | 289147 | [289147-pinball-blitz.json](./289147-pinball-blitz.json) |
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
 | Pinball Breaker | 115334 | [115334-pinball-breaker.json](./115334-pinball-breaker.json) |
+| Pinball Breaker 2 | 124281 | [124281-pinball-breaker-2.json](./124281-pinball-breaker-2.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
 | Pinball Breaker 4 | 146685 | [146685-pinball-breaker-4.json](./146685-pinball-breaker-4.json) |
 | Pinball Breaker V | 147357 | [147357-pinball-breaker-v.json](./147357-pinball-breaker-v.json) |
@@ -8306,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Panic | 386657 | [386657-pink-panic.json](./386657-pink-panic.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
 | Pink Panther | 8105 | [8105-pink-panther.json](./8105-pink-panther.json) |
+| Pink Panther: Jewel Heist | 124301 | [124301-pink-panther-jewel-heist.json](./124301-pink-panther-jewel-heist.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
 | Pink Panther: Pinkadelic Pursuit | 8108 | [8108-pink-panther-pinkadelic-pursuit.json](./8108-pink-panther-pinkadelic-pursuit.json) |
 | Pink Panther's Magic Island | 66845 | [66845-pink-panthers-magic-island.json](./66845-pink-panthers-magic-island.json) |
