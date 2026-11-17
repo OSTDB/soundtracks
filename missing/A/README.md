@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssmare | 254032 | [254032-abyssmare.json](./254032-abyssmare.json) |
 | Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
+| Abyssrium | 85665 | [85665-abyssrium.json](./85665-abyssrium.json) |
 | Abyssus | 335145 | [335145-abyssus.json](./335145-abyssus.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abyssus Scroll | 338532 | [338532-abyssus-scroll.json](./338532-abyssus-scroll.json) |
@@ -2806,6 +2807,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Real Bout Fatal Fury Special | 78127 | [78127-aca-neo-geo-real-bout-fatal-fury-special.json](./78127-aca-neo-geo-real-bout-fatal-fury-special.json) |
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
+| ACA Neo Geo: Samurai Shodown | 85666 | [85666-aca-neo-geo-samurai-shodown.json](./85666-aca-neo-geo-samurai-shodown.json) |
+| ACA Neo Geo: Samurai Shodown II | 85667 | [85667-aca-neo-geo-samurai-shodown-ii.json](./85667-aca-neo-geo-samurai-shodown-ii.json) |
 | ACA Neo Geo: Samurai Shodown III | 85669 | [85669-aca-neo-geo-samurai-shodown-iii.json](./85669-aca-neo-geo-samurai-shodown-iii.json) |
 | ACA Neo Geo: Samurai Shodown IV | 103848 | [103848-aca-neo-geo-samurai-shodown-iv.json](./103848-aca-neo-geo-samurai-shodown-iv.json) |
 | ACA Neo Geo: Samurai Shodown V | 104993 | [104993-aca-neo-geo-samurai-shodown-v.json](./104993-aca-neo-geo-samurai-shodown-v.json) |
@@ -3549,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active 2048 Body Control | 379473 | [379473-active-2048-body-control.json](./379473-active-2048-body-control.json) |
 | Active Arcade | 382223 | [382223-active-arcade.json](./382223-active-arcade.json) |
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
+| Active Crowds | 87674 | [87674-active-crowds.json](./87674-active-crowds.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
 | Active Defense | 257357 | [257357-active-defense.json](./257357-active-defense.json) |
 | Active Health with Carol Vorderman | 67620 | [67620-active-health-with-carol-vorderman.json](./67620-active-health-with-carol-vorderman.json) |
@@ -4394,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Submarine Uss 101 | 204965 | [204965-adventure-submarine-uss-101.json](./204965-adventure-submarine-uss-101.json) |
 | Adventure Tanks | 262873 | [262873-adventure-tanks.json](./262873-adventure-tanks.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
+| Adventure Thru 8-Bit Land | 85670 | [85670-adventure-thru-8-bit-land.json](./85670-adventure-thru-8-bit-land.json) |
 | Adventure Time | 377497 | [377497-adventure-time.json](./377497-adventure-time.json) |
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
 | Adventure Time Lemon Break | 381998 | [381998-adventure-time-lemon-break.json](./381998-adventure-time-lemon-break.json) |
@@ -6681,6 +6686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Tycoon Evolution | 51344 | [51344-airline-tycoon-evolution.json](./51344-airline-tycoon-evolution.json) |
 | Airliner | 13941 | [13941-airliner.json](./13941-airliner.json) |
 | Airliner Pilot | 46447 | [46447-airliner-pilot.json](./46447-airliner-pilot.json) |
+| Airlines | 87752 | [87752-airlines.json](./87752-airlines.json) |
 | Airlines 2 | 73891 | [73891-airlines-2.json](./73891-airlines-2.json) |
 | Airlines Deluxe | 159217 | [159217-airlines-deluxe.json](./159217-airlines-deluxe.json) |
 | Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
@@ -9209,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Ascent | 283440 | [283440-alpine-ascent.json](./283440-alpine-ascent.json) |
 | Alpine Crawler | 88732 | [88732-alpine-crawler.json](./88732-alpine-crawler.json) |
+| Alpine Crawler Ultimate | 87718 | [87718-alpine-crawler-ultimate.json](./87718-alpine-crawler-ultimate.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Alpine Games | 13308 | [13308-alpine-games.json](./13308-alpine-games.json) |
