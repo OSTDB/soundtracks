@@ -10593,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky | 67070 | [67070-lucky.json](./67070-lucky.json) |
 | Lucky & Wild | 13898 | [13898-lucky-and-wild.json](./13898-lucky-and-wild.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
+| Lucky and a Life Worth Living | 162444 | [162444-lucky-and-a-life-worth-living.json](./162444-lucky-and-a-life-worth-living.json) |
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
 | Lucky Birds City | 254889 | [254889-lucky-birds-city.json](./254889-lucky-birds-city.json) |
 | Lucky Block | 414214 | [414214-lucky-block.json](./414214-lucky-block.json) |
