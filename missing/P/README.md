@@ -11951,6 +11951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Watch | 141929 | [141929-pocket-watch.json](./141929-pocket-watch.json) |
 | Pocket Wheels | 145755 | [145755-pocket-wheels.json](./145755-pocket-wheels.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
+| Pocket Wonder Sport | 180325 | [180325-pocket-wonder-sport.json](./180325-pocket-wonder-sport.json) |
 | Pocket World 3D | 194120 | [194120-pocket-world-3d.json](./194120-pocket-world-3d.json) |
 | Pocket World: Island of Adventure | 208088 | [208088-pocket-world-island-of-adventure.json](./208088-pocket-world-island-of-adventure.json) |
 | Pocket Zaurus: Juu Ouken no Nazo | 48339 | [48339-pocket-zaurus-juu-ouken-no-nazo.json](./48339-pocket-zaurus-juu-ouken-no-nazo.json) |
@@ -18379,6 +18380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Terminus VR | 149838 | [149838-project-terminus-vr.json](./149838-project-terminus-vr.json) |
 | Project Terra | 272733 | [272733-project-terra.json](./272733-project-terra.json) |
 | Project Terrarium | 270433 | [270433-project-terrarium.json](./270433-project-terrarium.json) |
+| Project Tetra | 180327 | [180327-project-tetra.json](./180327-project-tetra.json) |
 | Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
 | Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
 | Project Three | 210785 | [210785-project-three.json](./210785-project-three.json) |
@@ -20174,6 +20176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Apawcalypse | 135317 | [135317-purrfect-apawcalypse.json](./135317-purrfect-apawcalypse.json) |
 | Purrfect Apawcalypse: Ideal Finale!!! | 304124 | [304124-purrfect-apawcalypse-ideal-finale.json](./304124-purrfect-apawcalypse-ideal-finale.json) |
 | Purrfect Apawcalypse: Infamous Furiend?! | 304122 | [304122-purrfect-apawcalypse-infamous-furiend.json](./304122-purrfect-apawcalypse-infamous-furiend.json) |
+| Purrfect Apawcalypse: Invert Frontier! | 180317 | [180317-purrfect-apawcalypse-invert-frontier.json](./180317-purrfect-apawcalypse-invert-frontier.json) |
 | Purrfect Apawcalypse: Love at Furst Bite | 170649 | [170649-purrfect-apawcalypse-love-at-furst-bite.json](./170649-purrfect-apawcalypse-love-at-furst-bite.json) |
 | Purrfect Apawcalypse: Patches' Infurno | 147324 | [147324-purrfect-apawcalypse-patches-infurno.json](./147324-purrfect-apawcalypse-patches-infurno.json) |
 | Purrfect Apawcalypse: Purrgatory Furever | 170648 | [170648-purrfect-apawcalypse-purrgatory-furever.json](./170648-purrfect-apawcalypse-purrgatory-furever.json) |
