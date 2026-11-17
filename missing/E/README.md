@@ -2330,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldertal | 422699 | [422699-eldertal.json](./422699-eldertal.json) |
 | Eldertrail | 197489 | [197489-eldertrail.json](./197489-eldertrail.json) |
 | Eldervire | 414218 | [414218-eldervire.json](./414218-eldervire.json) |
+| Elderwood | 428875 | [428875-elderwood.json](./428875-elderwood.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
 | ElDewrito | 117290 | [117290-eldewrito.json](./117290-eldewrito.json) |
