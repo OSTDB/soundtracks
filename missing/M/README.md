@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | Main Assembly | 121229 | [121229-main-assembly.json](./121229-main-assembly.json) |
 | Main Character Simulator | 107709 | [107709-main-character-simulator.json](./107709-main-character-simulator.json) |
+| Main Competition | 124309 | [124309-main-competition.json](./124309-main-competition.json) |
 | Main Deity Space | 277515 | [277515-main-deity-space.json](./277515-main-deity-space.json) |
 | Main Event: Wrestling Manager | 225201 | [225201-main-event-wrestling-manager.json](./225201-main-event-wrestling-manager.json) |
 | Main Frame | 68460 | [68460-main-frame.json](./68460-main-frame.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
 | Make Me LAG | 131772 | [131772-make-me-lag.json](./131772-make-me-lag.json) |
+| Make Me Laugh | 124288 | [124288-make-me-laugh.json](./124288-make-me-laugh.json) |
 | Make me Laugh! | 311319 | [311319-make-me-laugh.json](./311319-make-me-laugh.json) |
 | Make Me Real | 153777 | [153777-make-me-real.json](./153777-make-me-real.json) |
 | Make Me Real II: Sovereigns | 153778 | [153778-make-me-real-ii-sovereigns.json](./153778-make-me-real-ii-sovereigns.json) |
@@ -23843,6 +23845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovey-Dovey Demon | 262790 | [262790-my-lovey-dovey-demon.json](./262790-my-lovey-dovey-demon.json) |
 | My Loving Wife | 179263 | [179263-my-loving-wife.json](./179263-my-loving-wife.json) |
 | My Low Poly City | 163892 | [163892-my-low-poly-city.json](./163892-my-low-poly-city.json) |
+| My Lucky Koi | 126690 | [126690-my-lucky-koi.json](./126690-my-lucky-koi.json) |
 | My Lust Wish | 160274 | [160274-my-lust-wish.json](./160274-my-lust-wish.json) |
 | My Mad Road | 100627 | [100627-my-mad-road.json](./100627-my-mad-road.json) |
 | My Mad Scientist Roommate Turned Me Into Her Personal Robotic Battle Maiden?!? | 224833 | [224833-my-mad-scientist-roommate-turned-me-into-her-personal-robotic-battle-maiden.json](./224833-my-mad-scientist-roommate-turned-me-into-her-personal-robotic-battle-maiden.json) |
