@@ -9935,7 +9935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Size Terrors: Reverse Blue | 258311 | [258311-bite-size-terrors-reverse-blue.json](./258311-bite-size-terrors-reverse-blue.json) |
 | Bite Size Terrors: Speechless | 258152 | [258152-bite-size-terrors-speechless.json](./258152-bite-size-terrors-speechless.json) |
 | Bite Sized Puzzle | 163527 | [163527-bite-sized-puzzle.json](./163527-bite-sized-puzzle.json) |
-| Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
 | Bite-Sized Scares | 337583 | [337583-bite-sized-scares.json](./337583-bite-sized-scares.json) |
 | Bitefight | 194813 | [194813-bitefight.json](./194813-bitefight.json) |
