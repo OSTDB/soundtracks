@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Evolution: Triple Tree 3D Flight Line | 275765 | [275765-realflight-evolution-triple-tree-3d-flight-line.json](./275765-realflight-evolution-triple-tree-3d-flight-line.json) |
 | RealFlight Evolution: Triple Tree Float Flight Line | 311082 | [311082-realflight-evolution-triple-tree-float-flight-line.json](./311082-realflight-evolution-triple-tree-float-flight-line.json) |
 | RealFlight Evolution: ViperJet | 291110 | [291110-realflight-evolution-viperjet.json](./291110-realflight-evolution-viperjet.json) |
+| RealFlight R/C Simulator Deluxe | 80647 | [80647-realflight-r-c-simulator-deluxe.json](./80647-realflight-r-c-simulator-deluxe.json) |
 | RealFlight RF8 | 112570 | [112570-realflight-rf8.json](./112570-realflight-rf8.json) |
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
 | Realife Simulator | 211323 | [211323-realife-simulator.json](./211323-realife-simulator.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reed the Robotanist Plus | 211642 | [211642-reed-the-robotanist-plus.json](./211642-reed-the-robotanist-plus.json) |
 | Reederei | 94336 | [94336-reederei.json](./94336-reederei.json) |
 | Reeelz | 348952 | [348952-reeelz.json](./348952-reeelz.json) |
+| Reef Aquarium | 80684 | [80684-reef-aquarium.json](./80684-reef-aquarium.json) |
 | Reef Defense | 344610 | [344610-reef-defense.json](./344610-reef-defense.json) |
 | Reef Escape | 56807 | [56807-reef-escape.json](./56807-reef-escape.json) |
 | Reef Light Conundrum | 285405 | [285405-reef-light-conundrum.json](./285405-reef-light-conundrum.json) |
@@ -7845,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Hero | 152869 | [152869-rhythm-hero.json](./152869-rhythm-hero.json) |
 | Rhythm Hive | 143148 | [143148-rhythm-hive.json](./143148-rhythm-hive.json) |
+| Rhythm Horizon | 80657 | [80657-rhythm-horizon.json](./80657-rhythm-horizon.json) |
 | Rhythm Hotel | 334359 | [334359-rhythm-hotel.json](./334359-rhythm-hotel.json) |
 | Rhythm Journey | 188305 | [188305-rhythm-journey.json](./188305-rhythm-journey.json) |
 | Rhythm Jungle | 174481 | [174481-rhythm-jungle.json](./174481-rhythm-jungle.json) |
@@ -11204,6 +11207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
 | Rodeo Stampede: Sky Zoo Safari | 87669 | [87669-rodeo-stampede-sky-zoo-safari.json](./87669-rodeo-stampede-sky-zoo-safari.json) |
+| Rodge Rock In Retroactive | 80669 | [80669-rodge-rock-in-retroactive.json](./80669-rodge-rock-in-retroactive.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rodina | 9946 | [9946-rodina.json](./9946-rodina.json) |
 | Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
