@@ -5632,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
 | Decay: Part 1 | 66480 | [66480-decay-part-1.json](./66480-decay-part-1.json) |
 | Decay: Part 2 | 66479 | [66479-decay-part-2.json](./66479-decay-part-2.json) |
+| Decay: Part 4 | 78124 | [78124-decay-part-4.json](./78124-decay-part-4.json) |
 | Decay: The Mare - Episode 1 | 79950 | [79950-decay-the-mare-episode-1.json](./79950-decay-the-mare-episode-1.json) |
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
 | Decayed | 280301 | [280301-decayed.json](./280301-decayed.json) |
@@ -17054,6 +17055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hunter | 94822 | [94822-dragon-hunter.json](./94822-dragon-hunter.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Hunters | 269734 | [269734-dragon-hunters.json](./269734-dragon-hunters.json) |
+| Dragon Hunters: Die Drachenjäger - Die Prüfung | 78134 | [78134-dragon-hunters-die-drachenjager-die-prufung.json](./78134-dragon-hunters-die-drachenjager-die-prufung.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
 | Dragon Iris | 114231 | [114231-dragon-iris.json](./114231-dragon-iris.json) |
 | Dragon Island | 217472 | [217472-dragon-island.json](./217472-dragon-island.json) |
