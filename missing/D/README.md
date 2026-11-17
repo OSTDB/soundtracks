@@ -10882,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding! Pocket It!: Rogue Simulator | 407657 | [407657-ding-pocket-it-rogue-simulator.json](./407657-ding-pocket-it-rogue-simulator.json) |
 | Ding. | 183932 | [183932-ding.json](./183932-ding.json) |
 | Dingbats | 391092 | [391092-dingbats.json](./391092-dingbats.json) |
+| Dingcade | 425938 | [425938-dingcade.json](./425938-dingcade.json) |
 | Dingdang Rompers Dating Game | 151948 | [151948-dingdang-rompers-dating-game.json](./151948-dingdang-rompers-dating-game.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | DingDongVG's Summer Resort | 312289 | [312289-dingdongvgs-summer-resort.json](./312289-dingdongvgs-summer-resort.json) |
