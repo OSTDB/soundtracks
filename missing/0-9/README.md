@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Blind Mice: A Remediation Game For Improper Children | 126676 | [126676-3-blind-mice-a-remediation-game-for-improper-children.json](./126676-3-blind-mice-a-remediation-game-for-improper-children.json) |
 | 3 Block Match | 359903 | [359903-3-block-match.json](./359903-3-block-match.json) |
 | 3 Bullets | 337553 | [337553-3-bullets.json](./337553-3-bullets.json) |
+| 3 Cards to Dead Time | 65120 | [65120-3-cards-to-dead-time.json](./65120-3-cards-to-dead-time.json) |
 | 3 Chicas in Tech | 328170 | [328170-3-chicas-in-tech.json](./328170-3-chicas-in-tech.json) |
 | 3 Club Golf | 201412 | [201412-3-club-golf.json](./201412-3-club-golf.json) |
 | 3 Coins At School | 32980 | [32980-3-coins-at-school.json](./32980-3-coins-at-school.json) |
@@ -3325,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5-min-Clue | 301472 | [301472-5-min-clue.json](./301472-5-min-clue.json) |
 | 5-Minute Maid | 392314 | [392314-5-minute-maid.json](./392314-5-minute-maid.json) |
 | 5-Nen Kanji Keisan Nigate Hunter DS | 269537 | [269537-5-nen-kanji-keisan-nigate-hunter-ds.json](./269537-5-nen-kanji-keisan-nigate-hunter-ds.json) |
+| 5-nin no Koi Prince: Himitsu no Keiyaku Kekkon | 60150 | [60150-5-nin-no-koi-prince-himitsu-no-keiyaku-kekkon.json](./60150-5-nin-no-koi-prince-himitsu-no-keiyaku-kekkon.json) |
 | 5-Star | 298942 | [298942-5-star.json](./298942-5-star.json) |
 | 5-Star 1000 Top Rated | 91008 | [91008-5-star-1000-top-rated.json](./91008-5-star-1000-top-rated.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
