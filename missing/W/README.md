@@ -10024,6 +10024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
 | Worth Waiting | 177364 | [177364-worth-waiting.json](./177364-worth-waiting.json) |
 | Worthy Opponent | 70275 | [70275-worthy-opponent.json](./70275-worthy-opponent.json) |
+| Worthy or Not | 427705 | [427705-worthy-or-not.json](./427705-worthy-or-not.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten | 107584 | [107584-woten.json](./107584-woten.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
