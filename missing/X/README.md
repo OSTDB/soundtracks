@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuece Border | 112990 | [112990-xuece-border.json](./112990-xuece-border.json) |
 | XueFeng Mountain: Secret Opera | 197539 | [197539-xuefeng-mountain-secret-opera.json](./197539-xuefeng-mountain-secret-opera.json) |
 | Xuěgāo Māo | 157914 | [157914-xuegao-mao.json](./157914-xuegao-mao.json) |
+| Xuéyuàn Táoshēng | 164094 | [164094-xueyuan-taosheng.json](./164094-xueyuan-taosheng.json) |
 | Xuèzhàn Shāchéng: Wángzhě Guīlái | 410638 | [410638-xuezhan-shacheng-wangzhe-guilai.json](./410638-xuezhan-shacheng-wangzhe-guilai.json) |
 | Xuhivan's Autonomous Cube | 216479 | [216479-xuhivans-autonomous-cube.json](./216479-xuhivans-autonomous-cube.json) |
 | Xulaph Kaizo World | 267926 | [267926-xulaph-kaizo-world.json](./267926-xulaph-kaizo-world.json) |
