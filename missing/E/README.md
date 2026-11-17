@@ -5106,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Unnatural Balance | 121484 | [121484-ephemeral-unnatural-balance.json](./121484-ephemeral-unnatural-balance.json) |
 | Ephemeral: Miniature Garden | 222866 | [222866-ephemeral-miniature-garden.json](./222866-ephemeral-miniature-garden.json) |
 | Ephemreal | 166572 | [166572-ephemreal.json](./166572-ephemreal.json) |
+| Ephesus | 152420 | [152420-ephesus.json](./152420-ephesus.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic | 12066 | [12066-epic.json](./12066-epic.json) |
 | Epic | 145151 | [145151-epic.json](./145151-epic.json) |
@@ -7151,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethereal | 307436 | [307436-ethereal.json](./307436-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
 | Ethereal Enigma | 275863 | [275863-ethereal-enigma.json](./275863-ethereal-enigma.json) |
+| Ethereal Estate | 143804 | [143804-ethereal-estate.json](./143804-ethereal-estate.json) |
 | Ethereal Fracture | 295747 | [295747-ethereal-fracture.json](./295747-ethereal-fracture.json) |
 | Ethereal Legends | 33892 | [33892-ethereal-legends.json](./33892-ethereal-legends.json) |
 | Ethereal Rift | 197520 | [197520-ethereal-rift.json](./197520-ethereal-rift.json) |
@@ -8904,7 +8906,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: Perils of Rebirth | 54582 | [54582-exogenesis-perils-of-rebirth.json](./54582-exogenesis-perils-of-rebirth.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
-| Exographer | 295106 | [295106-exographer.json](./295106-exographer.json) |
 | ExoHarvest | 320077 | [320077-exoharvest.json](./320077-exoharvest.json) |
 | ExoHunters: Galaxy | 235001 | [235001-exohunters-galaxy.json](./235001-exohunters-galaxy.json) |
 | Exoide-Z | 41756 | [41756-exoide-z.json](./41756-exoide-z.json) |
