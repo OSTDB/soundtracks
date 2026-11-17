@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Break: Head to Head | 214527 | [214527-taco-break-head-to-head.json](./214527-taco-break-head-to-head.json) |
 | Taco Cat Jump Game | 96935 | [96935-taco-cat-jump-game.json](./96935-taco-cat-jump-game.json) |
 | Taco Cat Taco | 100759 | [100759-taco-cat-taco.json](./100759-taco-cat-taco.json) |
+| Taco Fiction | 60136 | [60136-taco-fiction.json](./60136-taco-fiction.json) |
 | Taco Fun | 213229 | [213229-taco-fun.json](./213229-taco-fun.json) |
 | Taco Gun | 99152 | [99152-taco-gun.json](./99152-taco-gun.json) |
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
@@ -9677,6 +9678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edge of Water | 399144 | [399144-the-edge-of-water.json](./399144-the-edge-of-water.json) |
 | The Edgelands | 28217 | [28217-the-edgelands.json](./28217-the-edgelands.json) |
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
+| The Edifice | 60142 | [60142-the-edifice.json](./60142-the-edifice.json) |
 | The Editor | 239783 | [239783-the-editor.json](./239783-the-editor.json) |
 | The Edutainment Vortex Diner | 424297 | [424297-the-edutainment-vortex-diner.json](./424297-the-edutainment-vortex-diner.json) |
 | The Eerie Adventures of Kally | 76109 | [76109-the-eerie-adventures-of-kally.json](./76109-the-eerie-adventures-of-kally.json) |
@@ -9834,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
+| The Elysium Enigma | 60125 | [60125-the-elysium-enigma.json](./60125-the-elysium-enigma.json) |
 | The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
 | The Ember Saga: A New Fire | 129959 | [129959-the-ember-saga-a-new-fire.json](./129959-the-ember-saga-a-new-fire.json) |
 | The Embodiment of Scarlet Hair Portable: I'm Lovin' It | 403446 | [403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json](./403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json) |
@@ -14601,6 +14604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Trashmaid Puzzletime | 147428 | [147428-the-little-trashmaid-puzzletime.json](./147428-the-little-trashmaid-puzzletime.json) |
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
 | The little vampir | 91093 | [91093-the-little-vampir.json](./91093-the-little-vampir.json) |
+| The Little Vikings | 60163 | [60163-the-little-vikings.json](./60163-the-little-vikings.json) |
 | The Little War | 81791 | [81791-the-little-war.json](./81791-the-little-war.json) |
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
 | The Little Wizard | 206999 | [206999-the-little-wizard.json](./206999-the-little-wizard.json) |
@@ -15071,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School Bus: Oceans | 123459 | [123459-the-magic-school-bus-oceans.json](./123459-the-magic-school-bus-oceans.json) |
 | The Magic Seven | 133480 | [133480-the-magic-seven.json](./133480-the-magic-seven.json) |
 | The Magic Storm | 143896 | [143896-the-magic-storm.json](./143896-the-magic-storm.json) |
+| The Magic Toyshop | 60153 | [60153-the-magic-toyshop.json](./60153-the-magic-toyshop.json) |
 | The Magic World | 367609 | [367609-the-magic-world.json](./367609-the-magic-world.json) |
 | The Magic World 2: Curse of the Ancients | 289985 | [289985-the-magic-world-2-curse-of-the-ancients.json](./289985-the-magic-world-2-curse-of-the-ancients.json) |
 | The Magical Advenenture of Soggy Hoggy | 325195 | [325195-the-magical-advenenture-of-soggy-hoggy.json](./325195-the-magical-advenenture-of-soggy-hoggy.json) |
@@ -15441,6 +15446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mimic | 181460 | [181460-the-mimic.json](./181460-the-mimic.json) |
 | The Mimic | 74254 | [74254-the-mimic.json](./74254-the-mimic.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
+| The Mind Electric | 60146 | [60146-the-mind-electric.json](./60146-the-mind-electric.json) |
 | The Mind of Marlo | 74238 | [74238-the-mind-of-marlo.json](./74238-the-mind-of-marlo.json) |
 | The Mind of Moai | 185482 | [185482-the-mind-of-moai.json](./185482-the-mind-of-moai.json) |
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
@@ -16224,6 +16230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Fork Restaurant DX | 396174 | [396174-the-one-fork-restaurant-dx.json](./396174-the-one-fork-restaurant-dx.json) |
 | The One Penny Adventure | 211039 | [211039-the-one-penny-adventure.json](./211039-the-one-penny-adventure.json) |
 | The One Spell | 182706 | [182706-the-one-spell.json](./182706-the-one-spell.json) |
+| The One That Got Away | 60147 | [60147-the-one-that-got-away.json](./60147-the-one-that-got-away.json) |
 | The One Way Challenge | 259413 | [259413-the-one-way-challenge.json](./259413-the-one-way-challenge.json) |
 | The One We Found | 109827 | [109827-the-one-we-found.json](./109827-the-one-we-found.json) |
 | The One Who Knows | 416695 | [416695-the-one-who-knows.json](./416695-the-one-who-knows.json) |
@@ -28521,6 +28528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
 | Tooned Out Duo Dippin | 373760 | [373760-tooned-out-duo-dippin.json](./373760-tooned-out-duo-dippin.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
+| Toonesia | 60149 | [60149-toonesia.json](./60149-toonesia.json) |
 | Toonie Tennis | 310233 | [310233-toonie-tennis.json](./310233-toonie-tennis.json) |
 | Toonix | 357431 | [357431-toonix.json](./357431-toonix.json) |
 | Toonix Halloween: Candy Capers | 355992 | [355992-toonix-halloween-candy-capers.json](./355992-toonix-halloween-candy-capers.json) |
