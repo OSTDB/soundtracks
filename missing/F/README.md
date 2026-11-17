@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fanatic Zeal | 205742 | [205742-fanatic-zeal.json](./205742-fanatic-zeal.json) |
 | Fanatica | 204555 | [204555-fanatica.json](./204555-fanatica.json) |
 | Fanatical Basketball | 175725 | [175725-fanatical-basketball.json](./175725-fanatical-basketball.json) |
+| Fanatical Star Basketball Game: Slam Dunk Master | 96982 | [96982-fanatical-star-basketball-game-slam-dunk-master.json](./96982-fanatical-star-basketball-game-slam-dunk-master.json) |
 | FanaticBlader | 115699 | [115699-fanaticblader.json](./115699-fanaticblader.json) |
 | Fanbots | 183980 | [183980-fanbots.json](./183980-fanbots.json) |
 | Fanboy & Chum Chum: Arcade Raid | 213702 | [213702-fanboy-and-chum-chum-arcade-raid.json](./213702-fanboy-and-chum-chum-arcade-raid.json) |
@@ -6274,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Demon | 367161 | [367161-find-the-demon.json](./367161-find-the-demon.json) |
 | Find the Difference | 214296 | [214296-find-the-difference.json](./214296-find-the-difference.json) |
 | Find the difference - Very difficult Images | 104725 | [104725-find-the-difference-very-difficult-images.json](./104725-find-the-difference-very-difficult-images.json) |
+| Find the Difference in Pics | 97000 | [97000-find-the-difference-in-pics.json](./97000-find-the-difference-in-pics.json) |
 | Find the Difference: Spot it | 372160 | [372160-find-the-difference-spot-it.json](./372160-find-the-difference-spot-it.json) |
 | Find the Differences 3D | 348809 | [348809-find-the-differences-3d.json](./348809-find-the-differences-3d.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
@@ -9955,6 +9957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Sofa Simulator | 169350 | [169350-flying-sofa-simulator.json](./169350-flying-sofa-simulator.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
 | Flying Soul | 106328 | [106328-flying-soul.json](./106328-flying-soul.json) |
+| Flying Sports Car Simulator | 96983 | [96983-flying-sports-car-simulator.json](./96983-flying-sports-car-simulator.json) |
 | Flying Squadron | 43889 | [43889-flying-squadron.json](./43889-flying-squadron.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Superhero Captain Robot Crime City Battle | 101982 | [101982-flying-superhero-captain-robot-crime-city-battle.json](./101982-flying-superhero-captain-robot-crime-city-battle.json) |
