@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Havoc | 92618 | [92618-battle-havoc.json](./92618-battle-havoc.json) |
 | Battle Healer Hildegard | 422719 | [422719-battle-healer-hildegard.json](./422719-battle-healer-hildegard.json) |
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
+| Battle Hero | 197815 | [197815-battle-hero.json](./197815-battle-hero.json) |
 | Battle Heroin Crisis: Heroin Pack - Satellizer Another & Cassie | 226243 | [226243-battle-heroin-crisis-heroin-pack-satellizer-another-and-cassie.json](./226243-battle-heroin-crisis-heroin-pack-satellizer-another-and-cassie.json) |
 | Battle Heroine Crisis | 189972 | [189972-battle-heroine-crisis.json](./189972-battle-heroine-crisis.json) |
 | Battle High 2 | 19093 | [19093-battle-high-2.json](./19093-battle-high-2.json) |
