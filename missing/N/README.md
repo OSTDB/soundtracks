@@ -3339,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
 | NeuroDancer: Journey into the NeuroNet! | 4320 | [4320-neurodancer-journey-into-the-neuronet.json](./4320-neurodancer-journey-into-the-neuronet.json) |
+| Neurodeck | 131633 | [131633-neurodeck.json](./131633-neurodeck.json) |
 | Neuroflip | 428402 | [428402-neuroflip.json](./428402-neuroflip.json) |
 | Neuroforge | 389534 | [389534-neuroforge.json](./389534-neuroforge.json) |
 | NeuroHex: Hacking, Spying, Sabotage | 129029 | [129029-neurohex-hacking-spying-sabotage.json](./129029-neurohex-hacking-spying-sabotage.json) |
@@ -7355,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonestory P1 | 155395 | [155395-nonestory-p1.json](./155395-nonestory-p1.json) |
 | Nonet Concerto | 137984 | [137984-nonet-concerto.json](./137984-nonet-concerto.json) |
 | Nonet Concerto Distortion | 137992 | [137992-nonet-concerto-distortion.json](./137992-nonet-concerto-distortion.json) |
+| Nonet Ensemble: Magicwork Labyrinth | 129289 | [129289-nonet-ensemble-magicwork-labyrinth.json](./129289-nonet-ensemble-magicwork-labyrinth.json) |
 | Nonet Overture | 429722 | [429722-nonet-overture.json](./429722-nonet-overture.json) |
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
 | Nonetbeat | 374402 | [374402-nonetbeat.json](./374402-nonetbeat.json) |
