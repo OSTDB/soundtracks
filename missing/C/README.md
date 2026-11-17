@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking: Police Office Car | 107289 | [107289-car-parking-police-office-car.json](./107289-car-parking-police-office-car.json) |
 | Car Parkour | 246867 | [246867-car-parkour.json](./246867-car-parkour.json) |
 | Car Parkour 2 Together | 420365 | [420365-car-parkour-2-together.json](./420365-car-parkour-2-together.json) |
+| Car Parkour 3 Together | 420296 | [420296-car-parkour-3-together.json](./420296-car-parkour-3-together.json) |
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
 | Car Physics Simulator | 154085 | [154085-car-physics-simulator.json](./154085-car-physics-simulator.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
