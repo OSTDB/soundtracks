@@ -3964,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battery Check | 242641 | [242641-battery-check.json](./242641-battery-check.json) |
 | Battery Farm | 364982 | [364982-battery-farm.json](./364982-battery-farm.json) |
 | Battery Hunter | 259623 | [259623-battery-hunter.json](./259623-battery-hunter.json) |
+| Battery Low | 203443 | [203443-battery-low.json](./203443-battery-low.json) |
 | Battery Navi | 245248 | [245248-battery-navi.json](./245248-battery-navi.json) |
 | Battery Samurai | 245983 | [245983-battery-samurai.json](./245983-battery-samurai.json) |
 | Battery-out | 193403 | [193403-battery-out.json](./193403-battery-out.json) |
