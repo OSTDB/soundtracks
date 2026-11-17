@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Signal | 257982 | [257982-last-signal.json](./257982-last-signal.json) |
 | Last Signal | 395151 | [395151-last-signal.json](./395151-last-signal.json) |
 | Last Sinner | 187164 | [187164-last-sinner.json](./187164-last-sinner.json) |
+| Last Slice | 131674 | [131674-last-slice.json](./131674-last-slice.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
 | Last Soul | 142925 | [142925-last-soul.json](./142925-last-soul.json) |
 | Last Soul | 343776 | [343776-last-soul.json](./343776-last-soul.json) |
@@ -7379,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Books: The New Kid on the Block | 254862 | [254862-living-books-the-new-kid-on-the-block.json](./254862-living-books-the-new-kid-on-the-block.json) |
 | Living Cell | 253399 | [253399-living-cell.json](./253399-living-cell.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
+| Living Dead | 131654 | [131654-living-dead.json](./131654-living-dead.json) |
 | Living Dead House | 365730 | [365730-living-dead-house.json](./365730-living-dead-house.json) |
 | Living Dead Outbreak | 389910 | [389910-living-dead-outbreak.json](./389910-living-dead-outbreak.json) |
 | Living Dolls Rebirth Alpha | 270030 | [270030-living-dolls-rebirth-alpha.json](./270030-living-dolls-rebirth-alpha.json) |
@@ -9185,6 +9187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
 | Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
 | Lost Exit | 405784 | [405784-lost-exit.json](./405784-lost-exit.json) |
+| Lost Expeditions: Station One | 131624 | [131624-lost-expeditions-station-one.json](./131624-lost-expeditions-station-one.json) |
 | Lost Faces. | 388358 | [388358-lost-faces.json](./388358-lost-faces.json) |
 | Lost Fairy: Spirituality Extincted | 83686 | [83686-lost-fairy-spirituality-extincted.json](./83686-lost-fairy-spirituality-extincted.json) |
 | Lost Fleet | 218589 | [218589-lost-fleet.json](./218589-lost-fleet.json) |
@@ -9413,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
 | Lost Kingdoms II | 3982 | [3982-lost-kingdoms-ii.json](./3982-lost-kingdoms-ii.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
+| Lost Knight | 130433 | [130433-lost-knight.json](./130433-lost-knight.json) |
 | Lost Labyrinth | 65402 | [65402-lost-labyrinth.json](./65402-lost-labyrinth.json) |
 | Lost Labyrinth Extended Version | 34020 | [34020-lost-labyrinth-extended-version.json](./34020-lost-labyrinth-extended-version.json) |
 | Lost Lagoon 2: Cursed and Forgotten | 206651 | [206651-lost-lagoon-2-cursed-and-forgotten.json](./206651-lost-lagoon-2-cursed-and-forgotten.json) |
