@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales Weaver: Second Run | 210417 | [210417-tales-weaver-second-run.json](./210417-tales-weaver-second-run.json) |
 | Talescape | 379423 | [379423-talescape.json](./379423-talescape.json) |
 | Talespinner | 190106 | [190106-talespinner.json](./190106-talespinner.json) |
+| TaleSpire | 57260 | [57260-talespire.json](./57260-talespire.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | Talesshop Puzzle Collection | 123836 | [123836-talesshop-puzzle-collection.json](./123836-talesshop-puzzle-collection.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
@@ -12329,8 +12330,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Festa | 11705 | [11705-the-idolmaster-shiny-festa.json](./11705-the-idolmaster-shiny-festa.json) |
 | The Idolmaster: Shiny Festa - Funky Note | 42797 | [42797-the-idolmaster-shiny-festa-funky-note.json](./42797-the-idolmaster-shiny-festa-funky-note.json) |
 | The Idolmaster: Shiny Festa - Groovy Tune | 42795 | [42795-the-idolmaster-shiny-festa-groovy-tune.json](./42795-the-idolmaster-shiny-festa-groovy-tune.json) |
+| The Idolmaster: Shiny Festa - Harmonic Score | 57275 | [57275-the-idolmaster-shiny-festa-harmonic-score.json](./57275-the-idolmaster-shiny-festa-harmonic-score.json) |
 | The Idolmaster: Shiny Festa - Honey Sound | 42796 | [42796-the-idolmaster-shiny-festa-honey-sound.json](./42796-the-idolmaster-shiny-festa-honey-sound.json) |
 | The Idolmaster: Shiny Festa - Melodic Disc | 60081 | [60081-the-idolmaster-shiny-festa-melodic-disc.json](./60081-the-idolmaster-shiny-festa-melodic-disc.json) |
+| The Idolmaster: Shiny Festa - Rhythmic Record | 57274 | [57274-the-idolmaster-shiny-festa-rhythmic-record.json](./57274-the-idolmaster-shiny-festa-rhythmic-record.json) |
 | The Idolmaster: Shiny TV | 62077 | [62077-the-idolmaster-shiny-tv.json](./62077-the-idolmaster-shiny-tv.json) |
 | The Idolmaster: SideM | 56386 | [56386-the-idolmaster-sidem.json](./56386-the-idolmaster-sidem.json) |
 | The Idolmaster: SideM - Growing Stars | 175617 | [175617-the-idolmaster-sidem-growing-stars.json](./175617-the-idolmaster-sidem-growing-stars.json) |
@@ -15169,6 +15172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man with the Ivory Cane | 121339 | [121339-the-man-with-the-ivory-cane.json](./121339-the-man-with-the-ivory-cane.json) |
 | The Man You See | 378536 | [378536-the-man-you-see.json](./378536-the-man-you-see.json) |
 | The Man, the Alien, and the AI | 231806 | [231806-the-man-the-alien-and-the-ai.json](./231806-the-man-the-alien-and-the-ai.json) |
+| The Mana World | 57290 | [57290-the-mana-world.json](./57290-the-mana-world.json) |
 | The Manager | 79581 | [79581-the-manager.json](./79581-the-manager.json) |
 | The Manaworks | 401052 | [401052-the-manaworks.json](./401052-the-manaworks.json) |
 | The Mandalorian: Chapter 3 - The Sin | 298935 | [298935-the-mandalorian-chapter-3-the-sin.json](./298935-the-mandalorian-chapter-3-the-sin.json) |
@@ -22909,6 +22913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Olympus | 416232 | [416232-throne-of-olympus.json](./416232-throne-of-olympus.json) |
 | Throne of Shadows | 384271 | [384271-throne-of-shadows.json](./384271-throne-of-shadows.json) |
 | Throne of Shards | 397738 | [397738-throne-of-shards.json](./397738-throne-of-shards.json) |
+| Throne of the Dead VR | 55423 | [55423-throne-of-the-dead-vr.json](./55423-throne-of-the-dead-vr.json) |
 | Throne of the Dead VR: Halloween | 161726 | [161726-throne-of-the-dead-vr-halloween.json](./161726-throne-of-the-dead-vr-halloween.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
@@ -36896,6 +36901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve : Legend of Sealed Gods during the Turbulent Age | 72864 | [72864-twelve-legend-of-sealed-gods-during-the-turbulent-age.json](./72864-twelve-legend-of-sealed-gods-during-the-turbulent-age.json) |
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
+| Twelve Absent Men | 57282 | [57282-twelve-absent-men.json](./57282-twelve-absent-men.json) |
 | Twelve Chairs | 94370 | [94370-twelve-chairs.json](./94370-twelve-chairs.json) |
 | Twelve Containers | 137187 | [137187-twelve-containers.json](./137187-twelve-containers.json) |
 | Twelve Easy Pieces | 261485 | [261485-twelve-easy-pieces.json](./261485-twelve-easy-pieces.json) |
@@ -37086,6 +37092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Mind: The Deathly Trick | 416169 | [416169-twin-mind-the-deathly-trick.json](./416169-twin-mind-the-deathly-trick.json) |
 | Twin Mind: The Deathly Trick - Collector's Edition | 337223 | [337223-twin-mind-the-deathly-trick-collectors-edition.json](./337223-twin-mind-the-deathly-trick-collectors-edition.json) |
 | Twin Moons | 88303 | [88303-twin-moons.json](./88303-twin-moons.json) |
+| Twin Mouse | 57286 | [57286-twin-mouse.json](./57286-twin-mouse.json) |
 | Twin Odyssey | 180519 | [180519-twin-odyssey.json](./180519-twin-odyssey.json) |
 | Twin P | 266525 | [266525-twin-p.json](./266525-twin-p.json) |
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
