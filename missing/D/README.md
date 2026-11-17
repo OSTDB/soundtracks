@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Maze Cube | 221255 | [221255-darkness-maze-cube.json](./221255-darkness-maze-cube.json) |
 | Darkness Myth | 299625 | [299625-darkness-myth.json](./299625-darkness-myth.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
+| Darkness Overrun | 98081 | [98081-darkness-overrun.json](./98081-darkness-overrun.json) |
 | Darkness Rainfall | 405953 | [405953-darkness-rainfall.json](./405953-darkness-rainfall.json) |
 | Darkness Reborn | 223427 | [223427-darkness-reborn.json](./223427-darkness-reborn.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
@@ -10022,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dictator: Glory Fatherland | 211498 | [211498-dictator-glory-fatherland.json](./211498-dictator-glory-fatherland.json) |
 | Dictator: Rule the World | 104558 | [104558-dictator-rule-the-world.json](./104558-dictator-rule-the-world.json) |
 | Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
+| Dictator's dreams | 96953 | [96953-dictators-dreams.json](./96953-dictators-dreams.json) |
 | Dictators:No Peace Countryballs | 129040 | [129040-dictators-no-peace-countryballs.json](./129040-dictators-no-peace-countryballs.json) |
 | Diction | 319124 | [319124-diction.json](./319124-diction.json) |
 | Dictionary Blaster | 311507 | [311507-dictionary-blaster.json](./311507-dictionary-blaster.json) |
@@ -13277,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Racer | 282430 | [282430-dodge-racer.json](./282430-dodge-racer.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | Dodge Racing: Charger vs Challenger | 50965 | [50965-dodge-racing-charger-vs-challenger.json](./50965-dodge-racing-charger-vs-challenger.json) |
+| Dodge Show | 96960 | [96960-dodge-show.json](./96960-dodge-show.json) |
 | Dodge Spree | 326170 | [326170-dodge-spree.json](./326170-dodge-spree.json) |
 | Dodge Spree X | 318526 | [318526-dodge-spree-x.json](./318526-dodge-spree-x.json) |
 | Dodge That Anvil | 209117 | [209117-dodge-that-anvil.json](./209117-dodge-that-anvil.json) |
