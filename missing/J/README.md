@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
 | Jai Alai | 86156 | [86156-jai-alai.json](./86156-jai-alai.json) |
 | Jai Kali | 368556 | [368556-jai-kali.json](./368556-jai-kali.json) |
+| Jai-Alai Heroes | 57253 | [57253-jai-alai-heroes.json](./57253-jai-alai-heroes.json) |
 | Jail Break | 28826 | [28826-jail-break.json](./28826-jail-break.json) |
 | Jail Dice: Roll to Break | 347343 | [347343-jail-dice-roll-to-break.json](./347343-jail-dice-roll-to-break.json) |
 | Jail Escape | 322159 | [322159-jail-escape.json](./322159-jail-escape.json) |
