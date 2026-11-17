@@ -7673,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing: Barents Sea - Complete Edition | 125188 | [125188-fishing-barents-sea-complete-edition.json](./125188-fishing-barents-sea-complete-edition.json) |
 | Fishing: Barents Sea - King Crab | 111647 | [111647-fishing-barents-sea-king-crab.json](./111647-fishing-barents-sea-king-crab.json) |
 | Fishing: Barents Sea: Line and Net Ships | 238945 | [238945-fishing-barents-sea-line-and-net-ships.json](./238945-fishing-barents-sea-line-and-net-ships.json) |
+| Fishing: North Atlantic | 139507 | [139507-fishing-north-atlantic.json](./139507-fishing-north-atlantic.json) |
 | Fishing: North Atlantic - A.F. Theriault | 261868 | [261868-fishing-north-atlantic-a-f-theriault.json](./261868-fishing-north-atlantic-a-f-theriault.json) |
 | Fishing: North Atlantic - Complete Edition | 207385 | [207385-fishing-north-atlantic-complete-edition.json](./207385-fishing-north-atlantic-complete-edition.json) |
 | Fishing: North Atlantic - Enhanced Edition | 188055 | [188055-fishing-north-atlantic-enhanced-edition.json](./188055-fishing-north-atlantic-enhanced-edition.json) |
@@ -13571,7 +13572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
 | Fret Smasher | 139272 | [139272-fret-smasher.json](./139272-fret-smasher.json) |
 | Fret's Quest | 389037 | [389037-frets-quest.json](./389037-frets-quest.json) |
-| Fretless: The Wrath of Riffson | 252794 | [252794-fretless-the-wrath-of-riffson.json](./252794-fretless-the-wrath-of-riffson.json) |
 | Frets on Fire | 19283 | [19283-frets-on-fire.json](./19283-frets-on-fire.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
 | Freud's Bones: The Game | 146392 | [146392-freuds-bones-the-game.json](./146392-freuds-bones-the-game.json) |
