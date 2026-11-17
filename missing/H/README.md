@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Hara Katsu! 3: Kozukuri Business Haigyou no Kiki!? | 194478 | [194478-hara-katsu-3-kozukuri-business-haigyou-no-kiki.json](./194478-hara-katsu-3-kozukuri-business-haigyou-no-kiki.json) |
 | Hara Katsu!: Ki ni Naru Ano Ko to Kozukuri Ecchi~ | 194477 | [194477-hara-katsu-ki-ni-naru-ano-ko-to-kozukuri-ecchi.json](./194477-hara-katsu-ki-ni-naru-ano-ko-to-kozukuri-ecchi.json) |
+| Harajuku After Dark | 137156 | [137156-harajuku-after-dark.json](./137156-harajuku-after-dark.json) |
 | Harakatsu 2 | 367026 | [367026-harakatsu-2.json](./367026-harakatsu-2.json) |
 | Harakiri | 232633 | [232633-harakiri.json](./232633-harakiri.json) |
 | Harakiri! Geisha Girls | 195377 | [195377-harakiri-geisha-girls.json](./195377-harakiri-geisha-girls.json) |
@@ -2685,7 +2686,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Hero Origins | 154135 | [154135-harvest-hero-origins.json](./154135-harvest-hero-origins.json) |
 | Harvest Hills | 237221 | [237221-harvest-hills.json](./237221-harvest-hills.json) |
 | Harvest Hollow | 407616 | [407616-harvest-hollow.json](./407616-harvest-hollow.json) |
-| Harvest Hunt | 244410 | [244410-harvest-hunt.json](./244410-harvest-hunt.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island | 133155 | [133155-harvest-island.json](./133155-harvest-island.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
@@ -3535,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He's Nut Your Princess | 216613 | [216613-hes-nut-your-princess.json](./216613-hes-nut-your-princess.json) |
 | He@rtstrings | 248285 | [248285-he-rtstrings.json](./248285-he-rtstrings.json) |
 | Head 2 Head | 150139 | [150139-head-2-head.json](./150139-head-2-head.json) |
+| Head AS Code | 139502 | [139502-head-as-code.json](./139502-head-as-code.json) |
 | Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
 | Head Ball 2 | 99141 | [99141-head-ball-2.json](./99141-head-ball-2.json) |
 | Head Banger | 70526 | [70526-head-banger.json](./70526-head-banger.json) |
@@ -3708,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healing Days: Toshi no Sa Kanojo to no Ama Ama Seikatsu | 402719 | [402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json](./402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healing Simulator | 195000 | [195000-healing-simulator.json](./195000-healing-simulator.json) |
+| Healing Spree | 138278 | [138278-healing-spree.json](./138278-healing-spree.json) |
 | HealQuest | 292186 | [292186-healquest.json](./292186-healquest.json) |
 | Healslut | 217999 | [217999-healslut.json](./217999-healslut.json) |
 | Health & Fitness Club Tycoon | 146200 | [146200-health-and-fitness-club-tycoon.json](./146200-health-and-fitness-club-tycoon.json) |
@@ -4518,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helbreath Apocalypse | 133642 | [133642-helbreath-apocalypse.json](./133642-helbreath-apocalypse.json) |
 | Helbreath Argentina | 306180 | [306180-helbreath-argentina.json](./306180-helbreath-argentina.json) |
 | Helbreath Nemesis | 292432 | [292432-helbreath-nemesis.json](./292432-helbreath-nemesis.json) |
+| Heldenzeit | 138297 | [138297-heldenzeit.json](./138297-heldenzeit.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Heldritch Rush | 422038 | [422038-heldritch-rush.json](./422038-heldritch-rush.json) |
 | Helen | 272210 | [272210-helen.json](./272210-helen.json) |
@@ -13021,6 +13024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive Religious Trauma | 400275 | [400275-how-to-survive-religious-trauma.json](./400275-how-to-survive-religious-trauma.json) |
 | How to Survive the Night shift | 295870 | [295870-how-to-survive-the-night-shift.json](./295870-how-to-survive-the-night-shift.json) |
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
+| How to Survive: El Diablo Islands | 135953 | [135953-how-to-survive-el-diablo-islands.json](./135953-how-to-survive-el-diablo-islands.json) |
 | How to Survive: El Diablo Islands - Host | 172087 | [172087-how-to-survive-el-diablo-islands-host.json](./172087-how-to-survive-el-diablo-islands-host.json) |
 | How to Survive: Heat Wave - Jack's pack | 170744 | [170744-how-to-survive-heat-wave-jacks-pack.json](./170744-how-to-survive-heat-wave-jacks-pack.json) |
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
