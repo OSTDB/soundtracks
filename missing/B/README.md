@@ -4481,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Boros | 115914 | [115914-battle-of-the-boros.json](./115914-battle-of-the-boros.json) |
 | Battle of the Bulge | 13384 | [13384-battle-of-the-bulge.json](./13384-battle-of-the-bulge.json) |
 | Battle of the Bulge | 54654 | [54654-battle-of-the-bulge.json](./54654-battle-of-the-bulge.json) |
+| Battle of the Defenders | 57294 | [57294-battle-of-the-defenders.json](./57294-battle-of-the-defenders.json) |
 | Battle of the Elements | 84782 | [84782-battle-of-the-elements.json](./84782-battle-of-the-elements.json) |
 | Battle of the Eras | 54965 | [54965-battle-of-the-eras.json](./54965-battle-of-the-eras.json) |
 | Battle of the Four Towers | 368012 | [368012-battle-of-the-four-towers.json](./368012-battle-of-the-four-towers.json) |
@@ -6327,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatris | 75949 | [75949-beatris.json](./75949-beatris.json) |
 | Beatrix | 408422 | [408422-beatrix.json](./408422-beatrix.json) |
 | Beatrix | 410613 | [410613-beatrix.json](./410613-beatrix.json) |
+| Beats Advanced Rhythm Game | 57295 | [57295-beats-advanced-rhythm-game.json](./57295-beats-advanced-rhythm-game.json) |
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
 | Beats Fever: Big Apple | 155369 | [155369-beats-fever-big-apple.json](./155369-beats-fever-big-apple.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
