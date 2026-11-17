@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Disaster: A Butterfly's Guide to Mass Destruction | 263238 | [263238-natural-disaster-a-butterflys-guide-to-mass-destruction.json](./263238-natural-disaster-a-butterflys-guide-to-mass-destruction.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
 | Natural Doctrine | 20873 | [20873-natural-doctrine.json](./20873-natural-doctrine.json) |
+| Natural Doctrine: Omochidashi Pack | 186918 | [186918-natural-doctrine-omochidashi-pack.json](./186918-natural-doctrine-omochidashi-pack.json) |
 | Natural Fawn killers | 77401 | [77401-natural-fawn-killers.json](./77401-natural-fawn-killers.json) |
 | Natural Habitat | 154261 | [154261-natural-habitat.json](./154261-natural-habitat.json) |
 | Natural Instincts | 126838 | [126838-natural-instincts.json](./126838-natural-instincts.json) |
@@ -1128,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturalist | 334026 | [334026-naturalist.json](./334026-naturalist.json) |
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
+| Nature | 186939 | [186939-nature.json](./186939-nature.json) |
 | Nature | 227591 | [227591-nature.json](./227591-nature.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
 | Nature | 260368 | [260368-nature.json](./260368-nature.json) |
