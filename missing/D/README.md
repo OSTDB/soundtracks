@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Seijin!? Deru Deru Deru de | 222383 | [222383-dasshutsu-seijin-deru-deru-deru-de.json](./222383-dasshutsu-seijin-deru-deru-deru-de.json) |
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
 | Dassouchuu: Tousou Shita Hannin wo Sagase! | 241189 | [241189-dassouchuu-tousou-shita-hannin-wo-sagase.json](./241189-dassouchuu-tousou-shita-hannin-wo-sagase.json) |
+| Dastardly | 197836 | [197836-dastardly.json](./197836-dastardly.json) |
 | Dastardly & Muttley: Operation - Pigeon Pursuit | 313186 | [313186-dastardly-and-muttley-operation-pigeon-pursuit.json](./313186-dastardly-and-muttley-operation-pigeon-pursuit.json) |
 | Dat Boi 2048 | 202702 | [202702-dat-boi-2048.json](./202702-dat-boi-2048.json) |
 | Dat Gaem | 146749 | [146749-dat-gaem.json](./146749-dat-gaem.json) |
@@ -2951,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Everything!: Lavish DLC | 345712 | [345712-date-everything-lavish-dlc.json](./345712-date-everything-lavish-dlc.json) |
 | Date Everything!: Lavish Edition | 345713 | [345713-date-everything-lavish-edition.json](./345713-date-everything-lavish-edition.json) |
 | Date Kimiko no Virtual Tennis | 42435 | [42435-date-kimiko-no-virtual-tennis.json](./42435-date-kimiko-no-virtual-tennis.json) |
+| Date Knight | 197822 | [197822-date-knight.json](./197822-date-knight.json) |
 | Date Math | 407083 | [407083-date-math.json](./407083-date-math.json) |
 | Date ni Game Tsui Wake Jane! Dungeon Maker Girls Type | 214552 | [214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json](./214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
@@ -7655,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Den-Den: Tokyo Horror | 345507 | [345507-den-den-tokyo-horror.json](./345507-den-den-tokyo-horror.json) |
 | Den-ou Suikoden | 91947 | [91947-den-ou-suikoden.json](./91947-den-ou-suikoden.json) |
 | Den' Rozhdeniya 2 | 336609 | [336609-den-rozhdeniya-2.json](./336609-den-rozhdeniya-2.json) |
+| Den'ei Shoujo: Virtual Girl Lum | 197819 | [197819-denei-shoujo-virtual-girl-lum.json](./197819-denei-shoujo-virtual-girl-lum.json) |
 | DeNapsed | 400661 | [400661-denapsed.json](./400661-denapsed.json) |
 | Denari | 157372 | [157372-denari.json](./157372-denari.json) |
 | Denaris | 12047 | [12047-denaris.json](./12047-denaris.json) |
@@ -13354,6 +13357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dofus Retro | 122562 | [122562-dofus-retro.json](./122562-dofus-retro.json) |
 | Dofus Touch | 96289 | [96289-dofus-touch.json](./96289-dofus-touch.json) |
 | Dofus: Battles | 174334 | [174334-dofus-battles.json](./174334-dofus-battles.json) |
+| Dofus: Battles 2 | 197811 | [197811-dofus-battles-2.json](./197811-dofus-battles-2.json) |
 | Dog | 271842 | [271842-dog.json](./271842-dog.json) |
 | Dog | 309415 | [309415-dog.json](./309415-dog.json) |
 | Dog | 314399 | [314399-dog.json](./314399-dog.json) |
@@ -20579,6 +20583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crawl Tower Run | 260633 | [260633-dungeon-crawl-tower-run.json](./260633-dungeon-crawl-tower-run.json) |
 | Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
 | Dungeon Crawler Daniel | 169028 | [169028-dungeon-crawler-daniel.json](./169028-dungeon-crawler-daniel.json) |
+| Dungeon Crawlers | 197806 | [197806-dungeon-crawlers.json](./197806-dungeon-crawlers.json) |
 | Dungeon Crawlers HD | 35642 | [35642-dungeon-crawlers-hd.json](./35642-dungeon-crawlers-hd.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
 | Dungeon Creator | 241999 | [241999-dungeon-creator.json](./241999-dungeon-creator.json) |
