@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Nexus: Chapter 5 - Tactical Night | 174547 | [174547-tactical-nexus-chapter-5-tactical-night.json](./174547-tactical-nexus-chapter-5-tactical-night.json) |
 | Tactical Operations Force | 189941 | [189941-tactical-operations-force.json](./189941-tactical-operations-force.json) |
 | Tactical Ops: Assault on Terror | 8778 | [8778-tactical-ops-assault-on-terror.json](./8778-tactical-ops-assault-on-terror.json) |
+| Tactical Overload | 427739 | [427739-tactical-overload.json](./427739-tactical-overload.json) |
 | Tactical Poker | 88668 | [88668-tactical-poker.json](./88668-tactical-poker.json) |
 | Tactical Pulse | 426606 | [426606-tactical-pulse.json](./426606-tactical-pulse.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
@@ -5771,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanksgivingistry | 55656 | [55656-thanksgivingistry.json](./55656-thanksgivingistry.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
 | ThanksTaking | 211534 | [211534-thankstaking.json](./211534-thankstaking.json) |
+| Thập Tuyệt Trận | 427742 | [427742-thap-tuyet-tran.json](./427742-thap-tuyet-tran.json) |
 | Thapster | 86224 | [86224-thapster.json](./86224-thapster.json) |
 | Thapster TV | 85831 | [85831-thapster-tv.json](./85831-thapster-tv.json) |
 | Thapster TV: 2nd Wave | 127741 | [127741-thapster-tv-2nd-wave.json](./127741-thapster-tv-2nd-wave.json) |
@@ -15042,6 +15044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lunar Pack | 25502 | [25502-the-lunar-pack.json](./25502-the-lunar-pack.json) |
 | The Lunatic | 181197 | [181197-the-lunatic.json](./181197-the-lunatic.json) |
 | The Lure | 410621 | [410621-the-lure.json](./410621-the-lure.json) |
+| The Lurid Age | 427703 | [427703-the-lurid-age.json](./427703-the-lurid-age.json) |
 | The Lurking Fear | 374242 | [374242-the-lurking-fear.json](./374242-the-lurking-fear.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Lushes Land | 241803 | [241803-the-lushes-land.json](./241803-the-lushes-land.json) |
@@ -19360,6 +19363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Summit Library | 272202 | [272202-the-summit-library.json](./272202-the-summit-library.json) |
 | The Summon | 235710 | [235710-the-summon.json](./235710-the-summon.json) |
 | The Summoner | 156978 | [156978-the-summoner.json](./156978-the-summoner.json) |
+| The Summoning | 427744 | [427744-the-summoning.json](./427744-the-summoning.json) |
 | The Summoning | 50134 | [50134-the-summoning.json](./50134-the-summoning.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
 | The Sun Atop a Column | 225240 | [225240-the-sun-atop-a-column.json](./225240-the-sun-atop-a-column.json) |
@@ -23097,6 +23101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thug Wars | 407084 | [407084-thug-wars.json](./407084-thug-wars.json) |
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thugs Law | 114827 | [114827-thugs-law.json](./114827-thugs-law.json) |
+| Thugs Never Die | 427701 | [427701-thugs-never-die.json](./427701-thugs-never-die.json) |
 | Thugsters Battle Royale | 126233 | [126233-thugsters-battle-royale.json](./126233-thugsters-battle-royale.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thule | 297329 | [297329-thule.json](./297329-thule.json) |
@@ -27059,6 +27064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Hall of the Mountain King | 279524 | [279524-to-the-hall-of-the-mountain-king.json](./279524-to-the-hall-of-the-mountain-king.json) |
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Hell | 121111 | [121111-to-the-hell.json](./121111-to-the-hell.json) |
+| To the Hilt | 427695 | [427695-to-the-hilt.json](./427695-to-the-hilt.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Kingdom | 352287 | [352287-to-the-kingdom.json](./352287-to-the-kingdom.json) |
 | To the Light | 36719 | [36719-to-the-light.json](./36719-to-the-light.json) |
@@ -30556,6 +30562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D: ZBAD Airport | 161309 | [161309-tower-3d-zbad-airport.json](./161309-tower-3d-zbad-airport.json) |
 | Tower.Defense(): Program the Fight | 406215 | [406215-tower-defense-program-the-fight.json](./406215-tower-defense-program-the-fight.json) |
 | Tower's Gate | 416499 | [416499-towers-gate.json](./416499-towers-gate.json) |
+| Tower64 | 427713 | [427713-tower64.json](./427713-tower64.json) |
 | TowerBag | 178708 | [178708-towerbag.json](./178708-towerbag.json) |
 | Towerbloom | 275976 | [275976-towerbloom.json](./275976-towerbloom.json) |
 | Towerbolt | 265269 | [265269-towerbolt.json](./265269-towerbolt.json) |
@@ -35764,6 +35771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
 | True World: Shinjitsu no Sekai | 382570 | [382570-true-world-shinjitsu-no-sekai.json](./382570-true-world-shinjitsu-no-sekai.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
+| Truem | 427716 | [427716-truem.json](./427716-truem.json) |
 | Truer than You | 223316 | [223316-truer-than-you.json](./223316-truer-than-you.json) |
 | TrueScale | 105891 | [105891-truescale.json](./105891-truescale.json) |
 | Truffle Hogs | 159651 | [159651-truffle-hogs.json](./159651-truffle-hogs.json) |
