@@ -412,7 +412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Mechanica | 336163 | [336163-earth-mechanica.json](./336163-earth-mechanica.json) |
 | Earth Missile Defense System | 118246 | [118246-earth-missile-defense-system.json](./118246-earth-missile-defense-system.json) |
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
-| Earth Must Die | 370698 | [370698-earth-must-die.json](./370698-earth-must-die.json) |
 | Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
 | Earth No More | 11579 | [11579-earth-no-more.json](./11579-earth-no-more.json) |
 | Earth of Oryn | 217206 | [217206-earth-of-oryn.json](./217206-earth-of-oryn.json) |
@@ -3700,7 +3699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoticons | 209204 | [209204-emoticons.json](./209204-emoticons.json) |
 | Emotion | 169766 | [169766-emotion.json](./169766-emotion.json) |
 | Emotional flow | 278958 | [278958-emotional-flow.json](./278958-emotional-flow.json) |
-| Emotionless: The Last Ticket | 345425 | [345425-emotionless-the-last-ticket.json](./345425-emotionless-the-last-ticket.json) |
 | Emotions | 114856 | [114856-emotions.json](./114856-emotions.json) |
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emotions: Social MeDie | 391300 | [391300-emotions-social-medie.json](./391300-emotions-social-medie.json) |
@@ -3905,7 +3903,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyre: Earls of the Deep Earth | 289529 | [289529-empyre-earls-of-the-deep-earth.json](./289529-empyre-earls-of-the-deep-earth.json) |
 | Empyre: Lords of the Sea Gates | 47518 | [47518-empyre-lords-of-the-sea-gates.json](./47518-empyre-lords-of-the-sea-gates.json) |
-| Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
 | Empyreal Dawn | 224311 | [224311-empyreal-dawn.json](./224311-empyreal-dawn.json) |
 | Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
 | Empyrean Frontier | 29576 | [29576-empyrean-frontier.json](./29576-empyrean-frontier.json) |
@@ -5809,7 +5806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape 51 | 339766 | [339766-escape-51.json](./339766-escape-51.json) |
 | Escape 9 to 5 | 379291 | [379291-escape-9-to-5.json](./379291-escape-9-to-5.json) |
 | Escape Abstraction | 203980 | [203980-escape-abstraction.json](./203980-escape-abstraction.json) |
-| Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
 | Escape Academy: Escape From the Past | 252683 | [252683-escape-academy-escape-from-the-past.json](./252683-escape-academy-escape-from-the-past.json) |
@@ -7195,7 +7191,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eto-cetera You no Maki | 344267 | [344267-eto-cetera-you-no-maki.json](./344267-eto-cetera-you-no-maki.json) |
 | Etoile Princesse | 70834 | [70834-etoile-princesse.json](./70834-etoile-princesse.json) |
 | Etos | 260546 | [260546-etos.json](./260546-etos.json) |
-| Etrange Overlord | 376699 | [376699-etrange-overlord.json](./376699-etrange-overlord.json) |
 | Etrange Overlord: Launch Edition | 401968 | [401968-etrange-overlord-launch-edition.json](./401968-etrange-overlord-launch-edition.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
@@ -7716,7 +7711,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide: Slavic Fable - Collector's Edition | 426087 | [426087-eventide-slavic-fable-collectors-edition.json](./426087-eventide-slavic-fable-collectors-edition.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
-| Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
 | Ever 17/Never 7 Double Pack | 329448 | [329448-ever-17-never-7-double-pack.json](./329448-ever-17-never-7-double-pack.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
 | Ever After High Boots Trend Girl Games | 103140 | [103140-ever-after-high-boots-trend-girl-games.json](./103140-ever-after-high-boots-trend-girl-games.json) |
@@ -7962,7 +7956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace 2: Alienware Ship Skin | 321946 | [321946-everspace-2-alienware-ship-skin.json](./321946-everspace-2-alienware-ship-skin.json) |
 | Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
 | Everspace 2: Supporter Pack | 311390 | [311390-everspace-2-supporter-pack.json](./311390-everspace-2-supporter-pack.json) |
-| Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
 | Everspace 2: Wrath of the Ancients | 329493 | [329493-everspace-2-wrath-of-the-ancients.json](./329493-everspace-2-wrath-of-the-ancients.json) |
 | Everspace: Encounters | 74892 | [74892-everspace-encounters.json](./74892-everspace-encounters.json) |
 | Everspace: Galactic Edition | 90054 | [90054-everspace-galactic-edition.json](./90054-everspace-galactic-edition.json) |
@@ -9103,7 +9096,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
 | Expelled | 74619 | [74619-expelled.json](./74619-expelled.json) |
 | Expelled from Paradise: The Stellar Angel | 396301 | [396301-expelled-from-paradise-the-stellar-angel.json](./396301-expelled-from-paradise-the-stellar-angel.json) |
-| Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendable | 54012 | [54012-expendable.json](./54012-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
@@ -9205,7 +9197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorer: Adventure Awaits | 297925 | [297925-explorer-adventure-awaits.json](./297925-explorer-adventure-awaits.json) |
 | Explorer: Golden Empire | 247985 | [247985-explorer-golden-empire.json](./247985-explorer-golden-empire.json) |
 | Explorers | 322479 | [322479-explorers.json](./322479-explorers.json) |
-| Explorers Collection: The Oregon Trail & Carmen Sandiego Bundle | 353982 | [353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json](./353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json) |
 | Explorers of Esmar | 323178 | [323178-explorers-of-esmar.json](./323178-explorers-of-esmar.json) |
 | Explorers of Palan | 416843 | [416843-explorers-of-palan.json](./416843-explorers-of-palan.json) |
 | Explorers of Space | 305452 | [305452-explorers-of-space.json](./305452-explorers-of-space.json) |
