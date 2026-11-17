@@ -954,7 +954,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy 5000 | 48120 | [48120-galaxy-5000.json](./48120-galaxy-5000.json) |
 | Galaxy Admirals | 34261 | [34261-galaxy-admirals.json](./34261-galaxy-admirals.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
+| Galaxy Angel Ex | 203462 | [203462-galaxy-angel-ex.json](./203462-galaxy-angel-ex.json) |
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
+| Galaxy Angel II: Eternal Recurrence | 203466 | [203466-galaxy-angel-ii-eternal-recurrence.json](./203466-galaxy-angel-ii-eternal-recurrence.json) |
+| Galaxy Angel II: Gate to the Absolute | 203467 | [203467-galaxy-angel-ii-gate-to-the-absolute.json](./203467-galaxy-angel-ii-gate-to-the-absolute.json) |
+| Galaxy Angel II: Key to the Infinite Corridor | 203465 | [203465-galaxy-angel-ii-key-to-the-infinite-corridor.json](./203465-galaxy-angel-ii-key-to-the-infinite-corridor.json) |
 | Galaxy Angel II: Zettai Ryouiki no Tobira - Deluxe Pack | 428382 | [428382-galaxy-angel-ii-zettai-ryouiki-no-tobira-deluxe-pack.json](./428382-galaxy-angel-ii-zettai-ryouiki-no-tobira-deluxe-pack.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy Annihilation | 36924 | [36924-galaxy-annihilation.json](./36924-galaxy-annihilation.json) |
@@ -3498,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genseki Wakusei | 201191 | [201191-genseki-wakusei.json](./201191-genseki-wakusei.json) |
 | Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
 | Genshi Tou 1930's | 38653 | [38653-genshi-tou-1930s.json](./38653-genshi-tou-1930s.json) |
+| Genshin Funkin' | 203444 | [203444-genshin-funkin.json](./203444-genshin-funkin.json) |
 | Genshin Impact: A Dance of Snowy Tides and Hoarfrost Groves | 356546 | [356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json](./356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json) |
 | Genshin Impact: A New Star Approaches | 256960 | [256960-genshin-impact-a-new-star-approaches.json](./256960-genshin-impact-a-new-star-approaches.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
@@ -4355,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Dragon | 133143 | [133143-ghost-of-dragon.json](./133143-ghost-of-dragon.json) |
 | Ghost of Fall | 219331 | [219331-ghost-of-fall.json](./219331-ghost-of-fall.json) |
 | Ghost of Ice Valley | 219330 | [219330-ghost-of-ice-valley.json](./219330-ghost-of-ice-valley.json) |
+| Ghost of the Bus Stop | 203430 | [203430-ghost-of-the-bus-stop.json](./203430-ghost-of-the-bus-stop.json) |
 | Ghost of the Diced Steak | 364776 | [364776-ghost-of-the-diced-steak.json](./364776-ghost-of-the-diced-steak.json) |
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
 | Ghost of the Seas | 150995 | [150995-ghost-of-the-seas.json](./150995-ghost-of-the-seas.json) |
@@ -4672,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwriter | 249418 | [249418-ghostwriter.json](./249418-ghostwriter.json) |
 | Ghostwriter Hatate-chan | 205733 | [205733-ghostwriter-hatate-chan.json](./205733-ghostwriter-hatate-chan.json) |
 | Ghostwriter Workshop | 330950 | [330950-ghostwriter-workshop.json](./330950-ghostwriter-workshop.json) |
+| Ghostwriters & Co. | 203411 | [203411-ghostwriters-and-co.json](./203411-ghostwriters-and-co.json) |
 | GhostX | 375396 | [375396-ghostx.json](./375396-ghostx.json) |
 | Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
 | Ghosty Ghost | 311382 | [311382-ghosty-ghost.json](./311382-ghosty-ghost.json) |
@@ -8747,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
 | Gran Empire: Amane | 204254 | [204254-gran-empire-amane.json](./204254-gran-empire-amane.json) |
+| Gran Premio | 200628 | [200628-gran-premio.json](./200628-gran-premio.json) |
 | Gran Prix Turbotalina | 193541 | [193541-gran-prix-turbotalina.json](./193541-gran-prix-turbotalina.json) |
 | Gran Saga | 130576 | [130576-gran-saga.json](./130576-gran-saga.json) |
 | Gran Saga Idle: Knights x Knights | 319994 | [319994-gran-saga-idle-knights-x-knights.json](./319994-gran-saga-idle-knights-x-knights.json) |
@@ -10618,6 +10626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: Hidden Sins - Collector's Edition | 117552 | [117552-grim-facade-hidden-sins-collectors-edition.json](./117552-grim-facade-hidden-sins-collectors-edition.json) |
 | Grim Facade: Mystery of Venice | 140215 | [140215-grim-facade-mystery-of-venice.json](./140215-grim-facade-mystery-of-venice.json) |
 | Grim Facade: Mystery of Venice - Collector's Edition | 30525 | [30525-grim-facade-mystery-of-venice-collectors-edition.json](./30525-grim-facade-mystery-of-venice-collectors-edition.json) |
+| Grim Facade: Mystery of Venice & Grim Facade: Sinister Obsession | 201866 | [201866-grim-facade-mystery-of-venice-and-grim-facade-sinister-obsession.json](./201866-grim-facade-mystery-of-venice-and-grim-facade-sinister-obsession.json) |
 | Grim Facade: Sinister Obsession | 140216 | [140216-grim-facade-sinister-obsession.json](./140216-grim-facade-sinister-obsession.json) |
 | Grim Facade: Sinister Obsession - Collector's Edition | 28744 | [28744-grim-facade-sinister-obsession-collectors-edition.json](./28744-grim-facade-sinister-obsession-collectors-edition.json) |
 | Grim Facade: The Artist and The Pretender | 140217 | [140217-grim-facade-the-artist-and-the-pretender.json](./140217-grim-facade-the-artist-and-the-pretender.json) |
@@ -12908,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gussun Oyoyo | 64740 | [64740-gussun-oyoyo.json](./64740-gussun-oyoyo.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
+| Gust of Wind | 203468 | [203468-gust-of-wind.json](./203468-gust-of-wind.json) |
 | Gustav Vasa: Adventure in the Dales | 159487 | [159487-gustav-vasa-adventure-in-the-dales.json](./159487-gustav-vasa-adventure-in-the-dales.json) |
 | Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
 | Gustavo Kingdom Rebirth | 105611 | [105611-gustavo-kingdom-rebirth.json](./105611-gustavo-kingdom-rebirth.json) |
