@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandelions and Me | 343040 | [343040-dandelions-and-me.json](./343040-dandelions-and-me.json) |
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
 | Dander | 36785 | [36785-dander.json](./36785-dander.json) |
+| Dandi World | 195134 | [195134-dandi-world.json](./195134-dandi-world.json) |
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
 | Dandy | 296134 | [296134-dandy.json](./296134-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
@@ -1176,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Mouse in Making Whoopee! | 13570 | [13570-danger-mouse-in-making-whoopee.json](./13570-danger-mouse-in-making-whoopee.json) |
 | Danger Mouse in the Black Forest Chateau | 14025 | [14025-danger-mouse-in-the-black-forest-chateau.json](./14025-danger-mouse-in-the-black-forest-chateau.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
+| Danger of Loss | 192989 | [192989-danger-of-loss.json](./192989-danger-of-loss.json) |
 | Danger Quest! Puzzle Adventure | 96591 | [96591-danger-quest-puzzle-adventure.json](./96591-danger-quest-puzzle-adventure.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger Ranger | 114679 | [114679-danger-ranger.json](./114679-danger-ranger.json) |
@@ -2165,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Seeker of Fire | 238899 | [238899-dark-souls-ii-seeker-of-fire.json](./238899-dark-souls-ii-seeker-of-fire.json) |
 | Dark Souls II: Webhallen Edition | 42996 | [42996-dark-souls-ii-webhallen-edition.json](./42996-dark-souls-ii-webhallen-edition.json) |
 | Dark Souls III: Apocalypse Edition | 41637 | [41637-dark-souls-iii-apocalypse-edition.json](./41637-dark-souls-iii-apocalypse-edition.json) |
+| Dark Souls III: Ascended | 194669 | [194669-dark-souls-iii-ascended.json](./194669-dark-souls-iii-ascended.json) |
 | Dark Souls III: Ashes of Ariandel | 23158 | [23158-dark-souls-iii-ashes-of-ariandel.json](./23158-dark-souls-iii-ashes-of-ariandel.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
 | Dark Souls III: Collector's Edition | 42941 | [42941-dark-souls-iii-collectors-edition.json](./42941-dark-souls-iii-collectors-edition.json) |
@@ -4824,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadNot | 397326 | [397326-deadnot.json](./397326-deadnot.json) |
 | Deadolls | 75673 | [75673-deadolls.json](./75673-deadolls.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
+| Deadoxer | 191941 | [191941-deadoxer.json](./191941-deadoxer.json) |
 | Deadpact | 407818 | [407818-deadpact.json](./407818-deadpact.json) |
 | Deadpoint | 265115 | [265115-deadpoint.json](./265115-deadpoint.json) |
 | DeadPoly | 158761 | [158761-deadpoly.json](./158761-deadpoly.json) |
@@ -6192,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Exploitation | 346545 | [346545-deep-space-exploitation.json](./346545-deep-space-exploitation.json) |
 | Deep Space Gardening | 157817 | [157817-deep-space-gardening.json](./157817-deep-space-gardening.json) |
 | Deep Space Invaders | 101146 | [101146-deep-space-invaders.json](./101146-deep-space-invaders.json) |
+| Deep Space Outpost | 192347 | [192347-deep-space-outpost.json](./192347-deep-space-outpost.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space RPG: Origins | 110502 | [110502-deep-space-rpg-origins.json](./110502-deep-space-rpg-origins.json) |
 | Deep Space Rush | 125189 | [125189-deep-space-rush.json](./125189-deep-space-rush.json) |
@@ -15246,6 +15251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door | 103457 | [103457-door.json](./103457-door.json) |
 | Door 2: Key | 123850 | [123850-door-2-key.json](./123850-door-2-key.json) |
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
+| Door 3: Insignia | 193509 | [193509-door-3-insignia.json](./193509-door-3-insignia.json) |
 | Door Door | 92904 | [92904-door-door.json](./92904-door-door.json) |
 | Door Game Deluxe | 331085 | [331085-door-game-deluxe.json](./331085-door-game-deluxe.json) |
 | Door in the Woods | 126757 | [126757-door-in-the-woods.json](./126757-door-in-the-woods.json) |
