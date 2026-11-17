@@ -8020,6 +8020,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing Together: Multicolor Eye Pain Theme | 290218 | [290218-nothing-together-multicolor-eye-pain-theme.json](./290218-nothing-together-multicolor-eye-pain-theme.json) |
 | Nothing Together: Retro Console Theme | 290221 | [290221-nothing-together-retro-console-theme.json](./290221-nothing-together-retro-console-theme.json) |
 | Nothing_Matters | 230439 | [230439-nothing-matters.json](./230439-nothing-matters.json) |
+| Nothing! | 162451 | [162451-nothing.json](./162451-nothing.json) |
+| Nothing!: Impossible puzzle | 162450 | [162450-nothing-impossible-puzzle.json](./162450-nothing-impossible-puzzle.json) |
 | Nothing.SeriOS | 319035 | [319035-nothing-serios.json](./319035-nothing-serios.json) |
 | NothingElse | 90315 | [90315-nothingelse.json](./90315-nothingelse.json) |
 | Nothmere | 387715 | [387715-nothmere.json](./387715-nothmere.json) |
