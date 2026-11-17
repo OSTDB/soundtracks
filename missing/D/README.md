@@ -3880,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Air | 330949 | [330949-dead-air.json](./330949-dead-air.json) |
 | Dead Air | 380241 | [380241-dead-air.json](./380241-dead-air.json) |
 | Dead Air | 380242 | [380242-dead-air.json](./380242-dead-air.json) |
+| Dead Air | 429518 | [429518-dead-air.json](./429518-dead-air.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
 | Dead Alliance: Multiplayer Edition | 106232 | [106232-dead-alliance-multiplayer-edition.json](./106232-dead-alliance-multiplayer-edition.json) |
@@ -9210,6 +9211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
 | Device Doctor Simulator 2024 | 290862 | [290862-device-doctor-simulator-2024.json](./290862-device-doctor-simulator-2024.json) |
 | Device of Bakudan | 244324 | [244324-device-of-bakudan.json](./244324-device-of-bakudan.json) |
+| Device_Ending | 429514 | [429514-device-ending.json](./429514-device-ending.json) |
 | Devicereign | 166500 | [166500-devicereign.json](./166500-devicereign.json) |
 | Devices Disruptive Offense Simulator | 407480 | [407480-devices-disruptive-offense-simulator.json](./407480-devices-disruptive-offense-simulator.json) |
 | Devices Tycoon | 301230 | [301230-devices-tycoon.json](./301230-devices-tycoon.json) |
@@ -14184,6 +14186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid: The First Toy | 198068 | [198068-dont-be-afraid-the-first-toy.json](./198068-dont-be-afraid-the-first-toy.json) |
 | Don't be crushed | 54846 | [54846-dont-be-crushed.json](./54846-dont-be-crushed.json) |
+| Don't Be Fool | 429529 | [429529-dont-be-fool.json](./429529-dont-be-fool.json) |
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
 | Don't Be Nervous Talking to Girls | 91628 | [91628-dont-be-nervous-talking-to-girls.json](./91628-dont-be-nervous-talking-to-girls.json) |
 | Don't Be Scared Of The Factory | 359637 | [359637-dont-be-scared-of-the-factory.json](./359637-dont-be-scared-of-the-factory.json) |
