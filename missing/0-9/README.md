@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes to the End of the World | 352101 | [352101-15-minutes-to-the-end-of-the-world.json](./352101-15-minutes-to-the-end-of-the-world.json) |
 | 15 Move Hole Puzzle | 94162 | [94162-15-move-hole-puzzle.json](./94162-15-move-hole-puzzle.json) |
 | 15 OS | 83117 | [83117-15-os.json](./83117-15-os.json) |
+| 15 Puzzle | 162446 | [162446-15-puzzle.json](./162446-15-puzzle.json) |
 | 15 Puzzle | 213712 | [213712-15-puzzle.json](./213712-15-puzzle.json) |
 | 15 Puzzle | 245120 | [245120-15-puzzle.json](./245120-15-puzzle.json) |
 | 15 Puzzle | 268864 | [268864-15-puzzle.json](./268864-15-puzzle.json) |
