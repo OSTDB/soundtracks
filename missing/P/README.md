@@ -16506,6 +16506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Arthur for Nintendo Switch | 251488 | [251488-princess-arthur-for-nintendo-switch.json](./251488-princess-arthur-for-nintendo-switch.json) |
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
 | Princess Blue: Hime Kishi Monogatari | 49628 | [49628-princess-blue-hime-kishi-monogatari.json](./49628-princess-blue-hime-kishi-monogatari.json) |
+| Princess Boo - 3D Runner | 99247 | [99247-princess-boo-3d-runner.json](./99247-princess-boo-3d-runner.json) |
 | Princess Bubble Story | 266058 | [266058-princess-bubble-story.json](./266058-princess-bubble-story.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Castle Quest | 122802 | [122802-princess-castle-quest.json](./122802-princess-castle-quest.json) |
@@ -18829,6 +18830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protec | 335024 | [335024-protec.json](./335024-protec.json) |
 | Protect & Defense: Tank Attack | 145154 | [145154-protect-and-defense-tank-attack.json](./145154-protect-and-defense-tank-attack.json) |
 | Protect & Defense: Tower Zone | 145067 | [145067-protect-and-defense-tower-zone.json](./145067-protect-and-defense-tower-zone.json) |
+| Protect balloon | 100386 | [100386-protect-balloon.json](./100386-protect-balloon.json) |
 | Protect Eggs | 161718 | [161718-protect-eggs.json](./161718-protect-eggs.json) |
 | Protect Gloobi | 373286 | [373286-protect-gloobi.json](./373286-protect-gloobi.json) |
 | Protect Grass | 127593 | [127593-protect-grass.json](./127593-protect-grass.json) |
