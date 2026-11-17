@@ -9031,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheltering With You | 148944 | [148944-sheltering-with-you.json](./148944-sheltering-with-you.json) |
 | Shelved | 422069 | [422069-shelved.json](./422069-shelved.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
+| Shelves and Sorcery: Too Many Potions! | 429467 | [429467-shelves-and-sorcery-too-many-potions.json](./429467-shelves-and-sorcery-too-many-potions.json) |
 | Shem Ha Mephorash | 167435 | [167435-shem-ha-mephorash.json](./167435-shem-ha-mephorash.json) |
 | Shén Guǐ Dìguó zhī Èmó Chéng | 404075 | [404075-shen-gui-diguo-zhi-emo-cheng.json](./404075-shen-gui-diguo-zhi-emo-cheng.json) |
 | Shén Guǐ Jiàngshì | 131683 | [131683-shen-gui-jiangshi.json](./131683-shen-gui-jiangshi.json) |
@@ -37243,6 +37244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sled Acer | 421227 | [421227-super-sled-acer.json](./421227-super-sled-acer.json) |
 | Super Slender Balls | 384605 | [384605-super-slender-balls.json](./384605-super-slender-balls.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
+| Super Slime | 429498 | [429498-super-slime.json](./429498-super-slime.json) |
 | Super Slime Adventure | 184367 | [184367-super-slime-adventure.json](./184367-super-slime-adventure.json) |
 | Super Slime Arena | 69486 | [69486-super-slime-arena.json](./69486-super-slime-arena.json) |
 | Super Slime Blitz | 317138 | [317138-super-slime-blitz.json](./317138-super-slime-blitz.json) |
@@ -40492,6 +40494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWR JST DX Selective Memory Erase Effect | 35564 | [35564-swr-jst-dx-selective-memory-erase-effect.json](./35564-swr-jst-dx-selective-memory-erase-effect.json) |
 | Swtchr | 410652 | [410652-swtchr.json](./410652-swtchr.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
+| SX Beyond | 429519 | [429519-sx-beyond.json](./429519-sx-beyond.json) |
 | SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
 | SX-2: Duits Africa Soukou Gundan | 84358 | [84358-sx-2-duits-africa-soukou-gundan.json](./84358-sx-2-duits-africa-soukou-gundan.json) |
