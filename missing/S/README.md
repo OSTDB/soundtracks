@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saimin School Days: Hypnotic School Days | 239000 | [239000-saimin-school-days-hypnotic-school-days.json](./239000-saimin-school-days-hypnotic-school-days.json) |
 | Saiminjutsu o Tameshitara Onaji Mansion no Bakunyuu Hitozuma ga Ore no Mono ni Natta | 59195 | [59195-saiminjutsu-o-tameshitara-onaji-mansion-no-bakunyuu-hitozuma-ga-ore-no-mono-ni-natta.json](./59195-saiminjutsu-o-tameshitara-onaji-mansion-no-bakunyuu-hitozuma-ga-ore-no-mono-ni-natta.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
+| Saint & Greavsie | 417682 | [417682-saint-and-greavsie.json](./417682-saint-and-greavsie.json) |
 | Saint & Sinner | 332478 | [332478-saint-and-sinner.json](./332478-saint-and-sinner.json) |
 | Saint Ceri | 236596 | [236596-saint-ceri.json](./236596-saint-ceri.json) |
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
@@ -5431,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secure | 176815 | [176815-secure.json](./176815-secure.json) |
 | Secure the Skies | 164927 | [164927-secure-the-skies.json](./164927-secure-the-skies.json) |
 | Security 51 | 386228 | [386228-security-51.json](./386228-security-51.json) |
+| Security Alert | 417683 | [417683-security-alert.json](./417683-security-alert.json) |
 | Security Booth | 159045 | [159045-security-booth.json](./159045-security-booth.json) |
 | Security Booth: Director's Cut | 205075 | [205075-security-booth-directors-cut.json](./205075-security-booth-directors-cut.json) |
 | Security Breach | 389334 | [389334-security-breach.json](./389334-security-breach.json) |
@@ -13576,6 +13578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skarab | 336034 | [336034-skarab.json](./336034-skarab.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
+| Skariten | 417702 | [417702-skariten.json](./417702-skariten.json) |
 | Skat | 318386 | [318386-skat.json](./318386-skat.json) |
 | Skat 3D Premium | 369336 | [369336-skat-3d-premium.json](./369336-skat-3d-premium.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
@@ -19008,6 +19011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Overload | 91676 | [91676-solitaire-overload.json](./91676-solitaire-overload.json) |
 | Solitaire Overload Plus | 98625 | [98625-solitaire-overload-plus.json](./98625-solitaire-overload-plus.json) |
 | Solitaire Paradise: Anime Bikini Babes | 410372 | [410372-solitaire-paradise-anime-bikini-babes.json](./410372-solitaire-paradise-anime-bikini-babes.json) |
+| Solitaire Paradise: Furry Waifus | 417913 | [417913-solitaire-paradise-furry-waifus.json](./417913-solitaire-paradise-furry-waifus.json) |
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
 | Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
 | Solitaire Plus! | 88613 | [88613-solitaire-plus.json](./88613-solitaire-plus.json) |
@@ -28975,6 +28979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship | 326758 | [326758-starship.json](./326758-starship.json) |
 | Starship 1 | 28364 | [28364-starship-1.json](./28364-starship-1.json) |
 | Starship 43 | 249957 | [249957-starship-43.json](./249957-starship-43.json) |
+| Starship Andromeda | 417706 | [417706-starship-andromeda.json](./417706-starship-andromeda.json) |
 | Starship Annihilator | 31391 | [31391-starship-annihilator.json](./31391-starship-annihilator.json) |
 | Starship Annihilator: Complete Edition | 53659 | [53659-starship-annihilator-complete-edition.json](./53659-starship-annihilator-complete-edition.json) |
 | Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
@@ -38376,6 +38381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator Store | 377006 | [377006-supermarket-simulator-store.json](./377006-supermarket-simulator-store.json) |
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
 | Supermarket Simulator VR | 312423 | [312423-supermarket-simulator-vr.json](./312423-supermarket-simulator-vr.json) |
+| Supermarket Simulator: Grocery Store | 417911 | [417911-supermarket-simulator-grocery-store.json](./417911-supermarket-simulator-grocery-store.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Spree DX | 413405 | [413405-supermarket-spree-dx.json](./413405-supermarket-spree-dx.json) |
 | Supermarket Surviving Simulator | 326335 | [326335-supermarket-surviving-simulator.json](./326335-supermarket-surviving-simulator.json) |
@@ -38450,6 +38456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
 | Superscout | 296238 | [296238-superscout.json](./296238-superscout.json) |
 | SuperSecret | 163211 | [163211-supersecret.json](./163211-supersecret.json) |
+| SuperSharket | 417907 | [417907-supersharket.json](./417907-supersharket.json) |
 | Supershot | 339476 | [339476-supershot.json](./339476-supershot.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
 | Supershot: Valley Warfare Defense | 345977 | [345977-supershot-valley-warfare-defense.json](./345977-supershot-valley-warfare-defense.json) |
@@ -39837,6 +39844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Jelly Crush Mania | 106935 | [106935-sweet-jelly-crush-mania.json](./106935-sweet-jelly-crush-mania.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Kimono | 367311 | [367311-sweet-kimono.json](./367311-sweet-kimono.json) |
+| Sweet Land Survival | 417908 | [417908-sweet-land-survival.json](./417908-sweet-land-survival.json) |
 | Sweet Lily Dreams | 9273 | [9273-sweet-lily-dreams.json](./9273-sweet-lily-dreams.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
 | Sweet Love Bite | 299652 | [299652-sweet-love-bite.json](./299652-sweet-love-bite.json) |
