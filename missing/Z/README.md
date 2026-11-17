@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Wood's Queen 2019 Table | 158495 | [158495-zaccaria-pinball-woods-queen-2019-table.json](./158495-zaccaria-pinball-woods-queen-2019-table.json) |
 | Zaccaria Pinball: Wood's Queen Table | 158485 | [158485-zaccaria-pinball-woods-queen-table.json](./158485-zaccaria-pinball-woods-queen-table.json) |
 | Zaccaria Pinball: Zankor 2017 Table | 158483 | [158483-zaccaria-pinball-zankor-2017-table.json](./158483-zaccaria-pinball-zankor-2017-table.json) |
+| Zaccaria Pinball: Zankor Deluxe Pinball Table | 174389 | [174389-zaccaria-pinball-zankor-deluxe-pinball-table.json](./174389-zaccaria-pinball-zankor-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Zankor Table | 158491 | [158491-zaccaria-pinball-zankor-table.json](./158491-zaccaria-pinball-zankor-table.json) |
 | Zaccaria Pinball: Zombie Invasion | 208455 | [208455-zaccaria-pinball-zombie-invasion.json](./208455-zaccaria-pinball-zombie-invasion.json) |
 | Zaccaria Pinball: Zombie Invasion Mode | 404563 | [404563-zaccaria-pinball-zombie-invasion-mode.json](./404563-zaccaria-pinball-zombie-invasion-mode.json) |
