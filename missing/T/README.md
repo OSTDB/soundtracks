@@ -5774,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thank You For Your Application! | 347471 | [347471-thank-you-for-your-application.json](./347471-thank-you-for-your-application.json) |
 | Thank You for Your Time | 367486 | [367486-thank-you-for-your-time.json](./367486-thank-you-for-your-time.json) |
 | Thanks For Listening | 126946 | [126946-thanks-for-listening.json](./126946-thanks-for-listening.json) |
+| Thanks for Playing | 418308 | [418308-thanks-for-playing.json](./418308-thanks-for-playing.json) |
 | Thanks for the Soup | 408519 | [408519-thanks-for-the-soup.json](./408519-thanks-for-the-soup.json) |
 | Thanks Merlin | 297344 | [297344-thanks-merlin.json](./297344-thanks-merlin.json) |
 | Thanks Mom | 292463 | [292463-thanks-mom.json](./292463-thanks-mom.json) |
@@ -8007,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cellar Door | 62708 | [62708-the-cellar-door.json](./62708-the-cellar-door.json) |
 | The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
 | The Cemetery Shift | 386536 | [386536-the-cemetery-shift.json](./386536-the-cemetery-shift.json) |
+| The Cenote | 418273 | [418273-the-cenote.json](./418273-the-cenote.json) |
 | The Cenozoic Era | 231303 | [231303-the-cenozoic-era.json](./231303-the-cenozoic-era.json) |
 | The Censor | 303401 | [303401-the-censor.json](./303401-the-censor.json) |
 | The Centennial Case | 250435 | [250435-the-centennial-case.json](./250435-the-centennial-case.json) |
@@ -8624,6 +8626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Call | 339211 | [339211-the-crimson-call.json](./339211-the-crimson-call.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
 | The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
+| The Crimson Deed | 418269 | [418269-the-crimson-deed.json](./418269-the-crimson-deed.json) |
 | The Crimson Diamond | 119214 | [119214-the-crimson-diamond.json](./119214-the-crimson-diamond.json) |
 | The Crimson Diamond: Chapter 1 | 129722 | [129722-the-crimson-diamond-chapter-1.json](./129722-the-crimson-diamond-chapter-1.json) |
 | The Crimson Flower that Divides: Lunar Coupling | 221211 | [221211-the-crimson-flower-that-divides-lunar-coupling.json](./221211-the-crimson-flower-that-divides-lunar-coupling.json) |
@@ -9228,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon's Lust | 263166 | [263166-the-demons-lust.json](./263166-the-demons-lust.json) |
 | The Demon's Room | 330580 | [330580-the-demons-room.json](./330580-the-demons-room.json) |
 | The Demon's Table | 418635 | [418635-the-demons-table.json](./418635-the-demons-table.json) |
+| The Demonic Faces | 418163 | [418163-the-demonic-faces.json](./418163-the-demonic-faces.json) |
 | The Demonized | 340389 | [340389-the-demonized.json](./340389-the-demonized.json) |
 | The Demons Down Under | 314893 | [314893-the-demons-down-under.json](./314893-the-demons-down-under.json) |
 | The Demons of Truth | 262792 | [262792-the-demons-of-truth.json](./262792-the-demons-of-truth.json) |
@@ -11680,6 +11684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
 | The Groundskeeper | 255836 | [255836-the-groundskeeper.json](./255836-the-groundskeeper.json) |
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
+| The Groundskeeper | 418580 | [418580-the-groundskeeper.json](./418580-the-groundskeeper.json) |
 | The Groundz | 176086 | [176086-the-groundz.json](./176086-the-groundz.json) |
 | The Grove | 402113 | [402113-the-grove.json](./402113-the-grove.json) |
 | The Growing Pains of Adrian Mole | 28439 | [28439-the-growing-pains-of-adrian-mole.json](./28439-the-growing-pains-of-adrian-mole.json) |
@@ -14142,6 +14147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Princess | 51305 | [51305-the-legend-of-princess.json](./51305-the-legend-of-princess.json) |
 | The Legend of Protey | 108346 | [108346-the-legend-of-protey.json](./108346-the-legend-of-protey.json) |
 | The Legend of Queen Opala | 26163 | [26163-the-legend-of-queen-opala.json](./26163-the-legend-of-queen-opala.json) |
+| The Legend of Queen Opala II | 418143 | [418143-the-legend-of-queen-opala-ii.json](./418143-the-legend-of-queen-opala-ii.json) |
 | The Legend of Ra | 78325 | [78325-the-legend-of-ra.json](./78325-the-legend-of-ra.json) |
 | The Legend of Relic | 185027 | [185027-the-legend-of-relic.json](./185027-the-legend-of-relic.json) |
 | The Legend of Robin Hood | 267953 | [267953-the-legend-of-robin-hood.json](./267953-the-legend-of-robin-hood.json) |
@@ -21297,6 +21303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Window 8 | 348228 | [348228-the-window-8.json](./348228-the-window-8.json) |
 | The Window 8: Millennium | 369105 | [369105-the-window-8-millennium.json](./369105-the-window-8-millennium.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
+| The Windows Satan Game | 418168 | [418168-the-windows-satan-game.json](./418168-the-windows-satan-game.json) |
 | The Winds Rising | 259875 | [259875-the-winds-rising.json](./259875-the-winds-rising.json) |
 | The Wine Hunt: Aim Fidelity | 257975 | [257975-the-wine-hunt-aim-fidelity.json](./257975-the-wine-hunt-aim-fidelity.json) |
 | The Wine Story | 203685 | [203685-the-wine-story.json](./203685-the-wine-story.json) |
@@ -21960,6 +21967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thera: Legacy of Great Torment | 356250 | [356250-thera-legacy-of-great-torment.json](./356250-thera-legacy-of-great-torment.json) |
 | Therais Book | 164151 | [164151-therais-book.json](./164151-therais-book.json) |
 | Theralite | 329770 | [329770-theralite.json](./329770-theralite.json) |
+| Therapig: Day One | 418550 | [418550-therapig-day-one.json](./418550-therapig-day-one.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | Therapy | 366580 | [366580-therapy.json](./366580-therapy.json) |
@@ -22531,6 +22539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Football 2005 | 43444 | [43444-this-is-football-2005.json](./43444-this-is-football-2005.json) |
 | This is Football Management | 66974 | [66974-this-is-football-management.json](./66974-this-is-football-management.json) |
 | This is Forever | 148292 | [148292-this-is-forever.json](./148292-this-is-forever.json) |
+| This Is Golf | 418186 | [418186-this-is-golf.json](./418186-this-is-golf.json) |
 | This is hard for me | 176255 | [176255-this-is-hard-for-me.json](./176255-this-is-hard-for-me.json) |
 | This is Hell | 221356 | [221356-this-is-hell.json](./221356-this-is-hell.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
@@ -29325,6 +29334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Rome II - Unit Pack: Daughters of Mars | 53827 | [53827-total-war-rome-ii-unit-pack-daughters-of-mars.json](./53827-total-war-rome-ii-unit-pack-daughters-of-mars.json) |
 | Total War: Shogun 2 | 432 | [432-total-war-shogun-2.json](./432-total-war-shogun-2.json) |
 | Total War: Shogun 2 - Blood Pack DLC | 83513 | [83513-total-war-shogun-2-blood-pack-dlc.json](./83513-total-war-shogun-2-blood-pack-dlc.json) |
+| Total War: Shogun 2 - Complete Edition | 418272 | [418272-total-war-shogun-2-complete-edition.json](./418272-total-war-shogun-2-complete-edition.json) |
 | Total War: Shogun 2 - Dragon War Battle Pack | 83517 | [83517-total-war-shogun-2-dragon-war-battle-pack.json](./83517-total-war-shogun-2-dragon-war-battle-pack.json) |
 | Total War: Shogun 2 - Fall of the Samurai | 15155 | [15155-total-war-shogun-2-fall-of-the-samurai.json](./15155-total-war-shogun-2-fall-of-the-samurai.json) |
 | Total War: Shogun 2 - Fall of the Samurai: The Obama Faction Pack | 167648 | [167648-total-war-shogun-2-fall-of-the-samurai-the-obama-faction-pack.json](./167648-total-war-shogun-2-fall-of-the-samurai-the-obama-faction-pack.json) |
@@ -33552,6 +33562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit | 113505 | [113505-transit.json](./113505-transit.json) |
 | Transit | 138371 | [138371-transit.json](./138371-transit.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
+| Transit | 418522 | [418522-transit.json](./418522-transit.json) |
 | Transit City Touch | 103068 | [103068-transit-city-touch.json](./103068-transit-city-touch.json) |
 | Transit King | 75530 | [75530-transit-king.json](./75530-transit-king.json) |
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
@@ -37147,6 +37158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Phenomena: Strange Menagerie - Collector's Edition | 81080 | [81080-twilight-phenomena-strange-menagerie-collectors-edition.json](./81080-twilight-phenomena-strange-menagerie-collectors-edition.json) |
 | Twilight Phenomena: The Incredible Show - Collector's Edition | 95243 | [95243-twilight-phenomena-the-incredible-show-collectors-edition.json](./95243-twilight-phenomena-the-incredible-show-collectors-edition.json) |
 | Twilight Phenomena: The Lodgers of House 13 - Collector's Edition | 29127 | [29127-twilight-phenomena-the-lodgers-of-house-13-collectors-edition.json](./29127-twilight-phenomena-the-lodgers-of-house-13-collectors-edition.json) |
+| Twilight Pretender | 418232 | [418232-twilight-pretender.json](./418232-twilight-pretender.json) |
 | Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
 | Twilight Requiem | 363270 | [363270-twilight-requiem.json](./363270-twilight-requiem.json) |
