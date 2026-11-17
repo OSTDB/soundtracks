@@ -4148,7 +4148,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Hunter | 119760 | [119760-dead-hunter.json](./119760-dead-hunter.json) |
 | Dead Ice | 195544 | [195544-dead-ice.json](./195544-dead-ice.json) |
 | Dead Impact | 375919 | [375919-dead-impact.json](./375919-dead-impact.json) |
-| Dead In Antares | 334669 | [334669-dead-in-antares.json](./334669-dead-in-antares.json) |
 | Dead In Bermuda | 18440 | [18440-dead-in-bermuda.json](./18440-dead-in-bermuda.json) |
 | Dead in the Tropics | 171762 | [171762-dead-in-the-tropics.json](./171762-dead-in-the-tropics.json) |
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
@@ -5257,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Diseased | 179283 | [179283-death-of-the-diseased.json](./179283-death-of-the-diseased.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
+| Death of the Rising Sun | 156739 | [156739-death-of-the-rising-sun.json](./156739-death-of-the-rising-sun.json) |
 | Death off the Cuff | 217579 | [217579-death-off-the-cuff.json](./217579-death-off-the-cuff.json) |
 | Death off the Cuff: Remastered | 174021 | [174021-death-off-the-cuff-remastered.json](./174021-death-off-the-cuff-remastered.json) |
 | Death on a Street Corner: Overdose Simulator | 170062 | [170062-death-on-a-street-corner-overdose-simulator.json](./170062-death-on-a-street-corner-overdose-simulator.json) |
