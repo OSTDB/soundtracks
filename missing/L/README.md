@@ -6294,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Dragon | 46167 | [46167-link-dragon.json](./46167-link-dragon.json) |
 | Link Lab | 406511 | [406511-link-lab.json](./406511-link-lab.json) |
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
+| Link Loop | 424106 | [424106-link-loop.json](./424106-link-loop.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
 | Link Penguins | 391224 | [391224-link-penguins.json](./391224-link-penguins.json) |
 | Link PET_EX | 352778 | [352778-link-pet-ex.json](./352778-link-pet-ex.json) |
@@ -11551,6 +11552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luv Me Buddies Wonderland | 85265 | [85265-luv-me-buddies-wonderland.json](./85265-luv-me-buddies-wonderland.json) |
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
 | Luvocious | 75258 | [75258-luvocious.json](./75258-luvocious.json) |
+| LuvPlace | 424145 | [424145-luvplace.json](./424145-luvplace.json) |
 | LuvSic | 150363 | [150363-luvsic.json](./150363-luvsic.json) |
 | Luvu: Your Desktop Pet | 422210 | [422210-luvu-your-desktop-pet.json](./422210-luvu-your-desktop-pet.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
