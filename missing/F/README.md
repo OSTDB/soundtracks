@@ -8309,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
 | Flame Protector: Sliding Kill | 301873 | [301873-flame-protector-sliding-kill.json](./301873-flame-protector-sliding-kill.json) |
+| Flame Tale | 209042 | [209042-flame-tale.json](./209042-flame-tale.json) |
 | Flame Up | 407022 | [407022-flame-up.json](./407022-flame-up.json) |
 | Flame VS Blaze | 27720 | [27720-flame-vs-blaze.json](./27720-flame-vs-blaze.json) |
 | Flame Zapper Kotsujin | 144086 | [144086-flame-zapper-kotsujin.json](./144086-flame-zapper-kotsujin.json) |
