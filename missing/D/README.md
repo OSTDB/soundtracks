@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Steel | 223604 | [223604-dark-steel.json](./223604-dark-steel.json) |
 | Dark Steel Legends | 372819 | [372819-dark-steel-legends.json](./372819-dark-steel-legends.json) |
 | Dark Stone: The Lightseeker | 157854 | [157854-dark-stone-the-lightseeker.json](./157854-dark-stone-the-lightseeker.json) |
+| Dark Stones: Card Battle RPG | 422944 | [422944-dark-stones-card-battle-rpg.json](./422944-dark-stones-card-battle-rpg.json) |
 | Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
 | Dark Storm | 61490 | [61490-dark-storm.json](./61490-dark-storm.json) |
 | Dark Storm Ascension | 54585 | [54585-dark-storm-ascension.json](./54585-dark-storm-ascension.json) |
@@ -6315,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepStates VR | 154272 | [154272-deepstates-vr.json](./154272-deepstates-vr.json) |
 | Deepstone Rift | 372644 | [372644-deepstone-rift.json](./372644-deepstone-rift.json) |
 | DeepStorm Online | 197121 | [197121-deepstorm-online.json](./197121-deepstorm-online.json) |
+| Deepstrata | 422966 | [422966-deepstrata.json](./422966-deepstrata.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
 | Deepward | 410958 | [410958-deepward.json](./410958-deepward.json) |
 | DeepWeb | 109305 | [109305-deepweb.json](./109305-deepweb.json) |
@@ -11288,6 +11290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diodius: Premonition - Horizon Sacrifice | 174418 | [174418-diodius-premonition-horizon-sacrifice.json](./174418-diodius-premonition-horizon-sacrifice.json) |
 | Diodius: Premonition - Roots of Naka | 174511 | [174511-diodius-premonition-roots-of-naka.json](./174511-diodius-premonition-roots-of-naka.json) |
 | Dion | 338341 | [338341-dion.json](./338341-dion.json) |
+| Diona's Flower Shop | 422942 | [422942-dionas-flower-shop.json](./422942-dionas-flower-shop.json) |
 | Dionysos Wars | 277996 | [277996-dionysos-wars.json](./277996-dionysos-wars.json) |
 | Dionysus | 412410 | [412410-dionysus.json](./412410-dionysus.json) |
 | Diora | 288688 | [288688-diora.json](./288688-diora.json) |
@@ -11882,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored 2: Limited Edition | 255606 | [255606-dishonored-2-limited-edition.json](./255606-dishonored-2-limited-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
+| Dishonored VR Mod | 422927 | [422927-dishonored-vr-mod.json](./422927-dishonored-vr-mod.json) |
 | Dishonored: Complete Collection | 52899 | [52899-dishonored-complete-collection.json](./52899-dishonored-complete-collection.json) |
 | Dishonored: Death of the Outsider Deluxe Bundle | 83510 | [83510-dishonored-death-of-the-outsider-deluxe-bundle.json](./83510-dishonored-death-of-the-outsider-deluxe-bundle.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
