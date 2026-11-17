@@ -4876,7 +4876,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Mars Pack | 226971 | [226971-redout-mars-pack.json](./226971-redout-mars-pack.json) |
 | Redout: Neptune Pack | 226972 | [226972-redout-neptune-pack.json](./226972-redout-neptune-pack.json) |
 | Redout: Solar Challenge Edition | 124807 | [124807-redout-solar-challenge-edition.json](./124807-redout-solar-challenge-edition.json) |
-| Redout: Space Assault | 104238 | [104238-redout-space-assault.json](./104238-redout-space-assault.json) |
 | Redout: Space Assault - Deluxe Edition | 154547 | [154547-redout-space-assault-deluxe-edition.json](./154547-redout-space-assault-deluxe-edition.json) |
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
 | Redout: Ultimate Edition | 201038 | [201038-redout-ultimate-edition.json](./201038-redout-ultimate-edition.json) |
@@ -8423,7 +8422,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
-| Rift Keeper | 99652 | [99652-rift-keeper.json](./99652-rift-keeper.json) |
 | Rift Loopers | 215954 | [215954-rift-loopers.json](./215954-rift-loopers.json) |
 | Rift Loopers: Pyro Class | 253318 | [253318-rift-loopers-pyro-class.json](./253318-rift-loopers-pyro-class.json) |
 | Rift Miner | 375446 | [375446-rift-miner.json](./375446-rift-miner.json) |
@@ -8968,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Ancients | 32459 | [32459-rise-of-the-ancients.json](./32459-rise-of-the-ancients.json) |
 | Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
 | Rise of the Atman | 157275 | [157275-rise-of-the-atman.json](./157275-rise-of-the-atman.json) |
+| Rise of the Badlands | 113778 | [113778-rise-of-the-badlands.json](./113778-rise-of-the-badlands.json) |
 | Rise of the Badlands | 60750 | [60750-rise-of-the-badlands.json](./60750-rise-of-the-badlands.json) |
 | Rise of the Blobs | 22157 | [22157-rise-of-the-blobs.json](./22157-rise-of-the-blobs.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
