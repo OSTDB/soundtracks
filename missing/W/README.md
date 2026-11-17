@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Waterloo 1815 | 159605 | [159605-wars-across-the-world-waterloo-1815.json](./159605-wars-across-the-world-waterloo-1815.json) |
 | Wars Across the World: West Virginia 1861 | 159618 | [159618-wars-across-the-world-west-virginia-1861.json](./159618-wars-across-the-world-west-virginia-1861.json) |
 | Wars Across the World: Zulu 1879 | 242623 | [242623-wars-across-the-world-zulu-1879.json](./242623-wars-across-the-world-zulu-1879.json) |
+| Wars and Battles - Strategy & History | 100384 | [100384-wars-and-battles-strategy-and-history.json](./100384-wars-and-battles-strategy-and-history.json) |
 | Wars and Battles: Normandy | 76439 | [76439-wars-and-battles-normandy.json](./76439-wars-and-battles-normandy.json) |
 | Wars and Battles: October War | 112419 | [112419-wars-and-battles-october-war.json](./112419-wars-and-battles-october-war.json) |
 | Wars and Roses | 187697 | [187697-wars-and-roses.json](./187697-wars-and-roses.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Drug Empire | 340864 | [340864-weed-drug-empire.json](./340864-weed-drug-empire.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
 | Weed Farmer Simulator | 128479 | [128479-weed-farmer-simulator.json](./128479-weed-farmer-simulator.json) |
+| Weed Firm 2: Back to College | 99222 | [99222-weed-firm-2-back-to-college.json](./99222-weed-firm-2-back-to-college.json) |
 | Weed Firm: Replanted | 408490 | [408490-weed-firm-replanted.json](./408490-weed-firm-replanted.json) |
 | Weed Garden Online | 374623 | [374623-weed-garden-online.json](./374623-weed-garden-online.json) |
 | Weed Harvest | 291339 | [291339-weed-harvest.json](./291339-weed-harvest.json) |
