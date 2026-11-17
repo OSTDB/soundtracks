@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backdrop: Behind the curtain | 110209 | [110209-backdrop-behind-the-curtain.json](./110209-backdrop-behind-the-curtain.json) |
 | Backer Reward | 179568 | [179568-backer-reward.json](./179568-backer-reward.json) |
 | Backfire | 134391 | [134391-backfire.json](./134391-backfire.json) |
+| Backfire | 155713 | [155713-backfire.json](./155713-backfire.json) |
 | Backfire | 28865 | [28865-backfire.json](./28865-backfire.json) |
 | BackFire | 135073 | [135073-backfire.json](./135073-backfire.json) |
 | Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
@@ -4652,7 +4653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Strike | 404526 | [404526-battle-strike.json](./404526-battle-strike.json) |
 | Battle Strike World War | 169103 | [169103-battle-strike-world-war.json](./169103-battle-strike-world-war.json) |
 | Battle Submarine | 38185 | [38185-battle-submarine.json](./38185-battle-submarine.json) |
-| Battle Suit Aces | 305021 | [305021-battle-suit-aces.json](./305021-battle-suit-aces.json) |
 | Battle Summoners | 36522 | [36522-battle-summoners.json](./36522-battle-summoners.json) |
 | Battle Summoners VR Basic | 104190 | [104190-battle-summoners-vr-basic.json](./104190-battle-summoners-vr-basic.json) |
 | Battle Support | 197261 | [197261-battle-support.json](./197261-battle-support.json) |
@@ -7430,6 +7430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
 | Benighted | 226251 | [226251-benighted.json](./226251-benighted.json) |
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
+| Beniiro Tenjyo Ayakashi Kitan Futaai | 145091 | [145091-beniiro-tenjyo-ayakashi-kitan-futaai.json](./145091-beniiro-tenjyo-ayakashi-kitan-futaai.json) |
 | Benjamin Blümchen: Das Große Zoofest | 220789 | [220789-benjamin-blumchen-das-gro-e-zoofest.json](./220789-benjamin-blumchen-das-gro-e-zoofest.json) |
 | Benjamin Blumchen: Ein Tag im Zoo | 187076 | [187076-benjamin-blumchen-ein-tag-im-zoo.json](./187076-benjamin-blumchen-ein-tag-im-zoo.json) |
 | Benjamin Blumchen: Torooo im Zoo | 187077 | [187077-benjamin-blumchen-torooo-im-zoo.json](./187077-benjamin-blumchen-torooo-im-zoo.json) |
@@ -8512,6 +8513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Driver: Truck Parking Simulator | 317901 | [317901-big-city-driver-truck-parking-simulator.json](./317901-big-city-driver-truck-parking-simulator.json) |
 | Big City Rigs: Bus Driver | 25456 | [25456-big-city-rigs-bus-driver.json](./25456-big-city-rigs-bus-driver.json) |
 | Big City Rigs: Garbage Truck | 52462 | [52462-big-city-rigs-garbage-truck.json](./52462-big-city-rigs-garbage-truck.json) |
+| Big City Rigs: Garbage Truck Driver | 153478 | [153478-big-city-rigs-garbage-truck-driver.json](./153478-big-city-rigs-garbage-truck-driver.json) |
 | Big City Stories | 24524 | [24524-big-city-stories.json](./24524-big-city-stories.json) |
 | Big Cock Simulator | 156194 | [156194-big-cock-simulator.json](./156194-big-cock-simulator.json) |
 | Big Company: Skytopia | 105526 | [105526-big-company-skytopia.json](./105526-big-company-skytopia.json) |
@@ -10033,6 +10035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiuBiu Jungle | 118209 | [118209-biubiu-jungle.json](./118209-biubiu-jungle.json) |
 | Bivoj | 232263 | [232263-bivoj.json](./232263-bivoj.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
+| Biwenger | 146361 | [146361-biwenger.json](./146361-biwenger.json) |
 | Biyoushi Debut Monogatari: Top Sutairisuto wo Mezasou! | 222546 | [222546-biyoushi-debut-monogatari-top-sutairisuto-wo-mezasou.json](./222546-biyoushi-debut-monogatari-top-sutairisuto-wo-mezasou.json) |
 | Biz Builder Delux | 147773 | [147773-biz-builder-delux.json](./147773-biz-builder-delux.json) |
 | Biz Nouryoku DS Series: Wagokoro no Moto | 269723 | [269723-biz-nouryoku-ds-series-wagokoro-no-moto.json](./269723-biz-nouryoku-ds-series-wagokoro-no-moto.json) |
@@ -11143,6 +11146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Zero II: Copen from "Luminous Avenger iX" | 169043 | [169043-blaster-master-zero-ii-copen-from-luminous-avenger-ix.json](./169043-blaster-master-zero-ii-copen-from-luminous-avenger-ix.json) |
 | Blaster Master Zero II: Empress from "Dragon Marked For Death" | 169044 | [169044-blaster-master-zero-ii-empress-from-dragon-marked-for-death.json](./169044-blaster-master-zero-ii-empress-from-dragon-marked-for-death.json) |
 | Blaster Master Zero III | 145058 | [145058-blaster-master-zero-iii.json](./145058-blaster-master-zero-iii.json) |
+| Blaster Master Zero Trilogy: MetaFight Chronicle | 145059 | [145059-blaster-master-zero-trilogy-metafight-chronicle.json](./145059-blaster-master-zero-trilogy-metafight-chronicle.json) |
 | Blaster Master Zero Trilogy: MetaFight Chronicle - Limited Edition | 166977 | [166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json](./166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json) |
 | Blaster Master Zero: Ex Character - Ekoro | 238159 | [238159-blaster-master-zero-ex-character-ekoro.json](./238159-blaster-master-zero-ex-character-ekoro.json) |
 | Blaster Master Zero: Ex Character - Gunvolt | 238160 | [238160-blaster-master-zero-ex-character-gunvolt.json](./238160-blaster-master-zero-ex-character-gunvolt.json) |
@@ -12286,6 +12290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blocky Parkour 3D | 101089 | [101089-blocky-parkour-3d.json](./101089-blocky-parkour-3d.json) |
 | Blocky Pirates | 82247 | [82247-blocky-pirates.json](./82247-blocky-pirates.json) |
+| Blocky Puzzle | 152429 | [152429-blocky-puzzle.json](./152429-blocky-puzzle.json) |
 | Blocky Racer | 82248 | [82248-blocky-racer.json](./82248-blocky-racer.json) |
 | Blocky Racing | 81582 | [81582-blocky-racing.json](./81582-blocky-racing.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
@@ -14655,6 +14660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Simulator | 372790 | [372790-bonfire-simulator.json](./372790-bonfire-simulator.json) |
 | Bonfire Stories: Faceless Gravedigger | 101119 | [101119-bonfire-stories-faceless-gravedigger.json](./101119-bonfire-stories-faceless-gravedigger.json) |
 | Bonfire Stories: Faceless Gravedigger - Collector's Edition | 381374 | [381374-bonfire-stories-faceless-gravedigger-collectors-edition.json](./381374-bonfire-stories-faceless-gravedigger-collectors-edition.json) |
+| Bonfire Stories: Heartless | 145102 | [145102-bonfire-stories-heartless.json](./145102-bonfire-stories-heartless.json) |
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
 | Bonfires of Azure | 356374 | [356374-bonfires-of-azure.json](./356374-bonfires-of-azure.json) |
