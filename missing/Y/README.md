@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Answers or Your Breakfast! | 181752 | [181752-your-answers-or-your-breakfast.json](./181752-your-answers-or-your-breakfast.json) |
 | Your Average Bear | 244426 | [244426-your-average-bear.json](./244426-your-average-bear.json) |
 | Your Average Old School Shmup | 320852 | [320852-your-average-old-school-shmup.json](./320852-your-average-old-school-shmup.json) |
+| Your Ball Exploded | 103006 | [103006-your-ball-exploded.json](./103006-your-ball-exploded.json) |
 | Your Basic Block | 77779 | [77779-your-basic-block.json](./77779-your-basic-block.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
 | Your Big, Cute Monster Farm | 368810 | [368810-your-big-cute-monster-farm.json](./368810-your-big-cute-monster-farm.json) |
