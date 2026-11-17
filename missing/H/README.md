@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
 | Hard Void | 302886 | [302886-hard-void.json](./302886-hard-void.json) |
+| Hard Way to Heaven | 96963 | [96963-hard-way-to-heaven.json](./96963-hard-way-to-heaven.json) |
 | Hard West: Collector's Edition | 51822 | [51822-hard-west-collectors-edition.json](./51822-hard-west-collectors-edition.json) |
 | Hard West: Complete Edition | 53173 | [53173-hard-west-complete-edition.json](./53173-hard-west-complete-edition.json) |
 | Hard West: Scars of Freedom | 18367 | [18367-hard-west-scars-of-freedom.json](./18367-hard-west-scars-of-freedom.json) |
@@ -5215,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello New World | 283851 | [283851-hello-new-world.json](./283851-hello-new-world.json) |
 | Hello Next Scary Neighbor Home | 103929 | [103929-hello-next-scary-neighbor-home.json](./103929-hello-next-scary-neighbor-home.json) |
 | Hello Nikki: Let's Beauty Up | 324623 | [324623-hello-nikki-lets-beauty-up.json](./324623-hello-nikki-lets-beauty-up.json) |
+| Hello Patrick. Sponge Bob's Neighbor 3D | 96971 | [96971-hello-patrick-sponge-bobs-neighbor-3d.json](./96971-hello-patrick-sponge-bobs-neighbor-3d.json) |
 | Hello Penguin 2 | 352530 | [352530-hello-penguin-2.json](./352530-hello-penguin-2.json) |
 | Hello Penguin 2 HD | 137246 | [137246-hello-penguin-2-hd.json](./137246-hello-penguin-2-hd.json) |
 | Hello Penguin 3D | 352549 | [352549-hello-penguin-3d.json](./352549-hello-penguin-3d.json) |
@@ -8304,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
 | Hidden Objects - Haunted Places | 96336 | [96336-hidden-objects-haunted-places.json](./96336-hidden-objects-haunted-places.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
+| Hidden Objects - Japanese Dream | 96992 | [96992-hidden-objects-japanese-dream.json](./96992-hidden-objects-japanese-dream.json) |
 | Hidden Objects - World Traveler | 89577 | [89577-hidden-objects-world-traveler.json](./89577-hidden-objects-world-traveler.json) |
 | Hidden Objects : Ancient Egyptian Objects | 96445 | [96445-hidden-objects-ancient-egyptian-objects.json](./96445-hidden-objects-ancient-egyptian-objects.json) |
 | Hidden Objects Ancient Greece | 88847 | [88847-hidden-objects-ancient-greece.json](./88847-hidden-objects-ancient-greece.json) |
@@ -8415,6 +8418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Raccoons in Winter | 424619 | [424619-hidden-raccoons-in-winter.json](./424619-hidden-raccoons-in-winter.json) |
 | Hidden Realm of the Enchantress | 369162 | [369162-hidden-realm-of-the-enchantress.json](./369162-hidden-realm-of-the-enchantress.json) |
 | Hidden Relics | 209900 | [209900-hidden-relics.json](./209900-hidden-relics.json) |
+| Hidden Restaurant | 96994 | [96994-hidden-restaurant.json](./96994-hidden-restaurant.json) |
 | Hidden Riddles: Glaciers Mysteries | 383726 | [383726-hidden-riddles-glaciers-mysteries.json](./383726-hidden-riddles-glaciers-mysteries.json) |
 | Hidden Riddles: The Amazon Mystery | 295867 | [295867-hidden-riddles-the-amazon-mystery.json](./295867-hidden-riddles-the-amazon-mystery.json) |
 | Hidden Robo Cats | 287074 | [287074-hidden-robo-cats.json](./287074-hidden-robo-cats.json) |
@@ -12973,6 +12977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
+| How to Color LOL Surprise Dolls | 96980 | [96980-how-to-color-lol-surprise-dolls.json](./96980-how-to-color-lol-surprise-dolls.json) |
 | How to Cope with Boredom and Loneliness | 91280 | [91280-how-to-cope-with-boredom-and-loneliness.json](./91280-how-to-cope-with-boredom-and-loneliness.json) |
 | How to create a witch | 380544 | [380544-how-to-create-a-witch.json](./380544-how-to-create-a-witch.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
