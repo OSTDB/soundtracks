@@ -4941,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
 | Catacombs: The Beginning | 233884 | [233884-catacombs-the-beginning.json](./233884-catacombs-the-beginning.json) |
 | Catacracks | 408400 | [408400-catacracks.json](./408400-catacracks.json) |
+| Catacrypt | 426497 | [426497-catacrypt.json](./426497-catacrypt.json) |
 | Catadel | 125539 | [125539-catadel.json](./125539-catadel.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Catafalque | 191615 | [191615-catafalque.json](./191615-catafalque.json) |
@@ -16858,6 +16859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
+| Core0 | 426525 | [426525-core0.json](./426525-core0.json) |
 | Coreborn | 215168 | [215168-coreborn.json](./215168-coreborn.json) |
 | CoreBreach | 176727 | [176727-corebreach.json](./176727-corebreach.json) |
 | Corebreaker | 219367 | [219367-corebreaker.json](./219367-corebreaker.json) |
@@ -18259,6 +18261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Space Survivors | 275087 | [275087-cozy-space-survivors.json](./275087-cozy-space-survivors.json) |
 | Cozy Stitch Puzzle | 342365 | [342365-cozy-stitch-puzzle.json](./342365-cozy-stitch-puzzle.json) |
 | Cozy Sudoku | 339331 | [339331-cozy-sudoku.json](./339331-cozy-sudoku.json) |
+| Cozy Tales | 426519 | [426519-cozy-tales.json](./426519-cozy-tales.json) |
 | Cozy Tide | 406852 | [406852-cozy-tide.json](./406852-cozy-tide.json) |
 | Cozy Tides | 342366 | [342366-cozy-tides.json](./342366-cozy-tides.json) |
 | Cozy Time | 207424 | [207424-cozy-time.json](./207424-cozy-time.json) |
@@ -22064,6 +22067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
 | Cubex | 361575 | [361575-cubex.json](./361575-cubex.json) |
 | Cubey | 143850 | [143850-cubey.json](./143850-cubey.json) |
+| Cubey Cove | 426471 | [426471-cubey-cove.json](./426471-cubey-cove.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | Cubey: Blockbyte | 361383 | [361383-cubey-blockbyte.json](./361383-cubey-blockbyte.json) |
@@ -22926,6 +22930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curvid Nurntine and the Black Vaccine | 379713 | [379713-curvid-nurntine-and-the-black-vaccine.json](./379713-curvid-nurntine-and-the-black-vaccine.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
+| Curvytron 2 | 426482 | [426482-curvytron-2.json](./426482-curvytron-2.json) |
 | Curyeux | 351514 | [351514-curyeux.json](./351514-curyeux.json) |
 | Curzon Line | 125292 | [125292-curzon-line.json](./125292-curzon-line.json) |
 | Cush's Amazin' Adventure!! | 260532 | [260532-cushs-amazin-adventure.json](./260532-cushs-amazin-adventure.json) |
