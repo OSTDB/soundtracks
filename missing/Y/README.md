@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorbie | 60468 | [60468-yorbie.json](./60468-yorbie.json) |
 | Yorbie: Episode 1 - Payback's a Bolt | 22085 | [22085-yorbie-episode-1-paybacks-a-bolt.json](./22085-yorbie-episode-1-paybacks-a-bolt.json) |
 | Yorda's Quest | 388158 | [388158-yordas-quest.json](./388158-yordas-quest.json) |
+| Yoren | 131657 | [131657-yoren.json](./131657-yoren.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yori's Journey: Forgotten Origins | 304767 | [304767-yoris-journey-forgotten-origins.json](./304767-yoris-journey-forgotten-origins.json) |
 | Yorigami Market | 269580 | [269580-yorigami-market.json](./269580-yorigami-market.json) |
@@ -1198,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Not the Hero | 16909 | [16909-you-are-not-the-hero.json](./16909-you-are-not-the-hero.json) |
 | You are now Possessed | 219099 | [219099-you-are-now-possessed.json](./219099-you-are-now-possessed.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
+| You are Pig Sitter | 126682 | [126682-you-are-pig-sitter.json](./126682-you-are-pig-sitter.json) |
 | You Are Sick | 239671 | [239671-you-are-sick.json](./239671-you-are-sick.json) |
 | You are SpamZapper 3.1 | 210535 | [210535-you-are-spamzapper-3-1.json](./210535-you-are-spamzapper-3-1.json) |
 | You Are Speed | 244139 | [244139-you-are-speed.json](./244139-you-are-speed.json) |
@@ -1297,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Go Boom | 302403 | [302403-you-go-boom.json](./302403-you-go-boom.json) |
 | You Go Golf | 181688 | [181688-you-go-golf.json](./181688-you-go-golf.json) |
 | You Got Crabs | 276817 | [276817-you-got-crabs.json](./276817-you-got-crabs.json) |
+| You Gotta Get Off the Train | 123106 | [123106-you-gotta-get-off-the-train.json](./123106-you-gotta-get-off-the-train.json) |
 | You Green Elephant | 99702 | [99702-you-green-elephant.json](./99702-you-green-elephant.json) |
 | Yóu Guō Jīngmèng | 407317 | [407317-you-guo-jingmeng.json](./407317-you-guo-jingmeng.json) |
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
