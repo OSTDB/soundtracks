@@ -4122,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch Girl | 192529 | [192529-scratch-girl.json](./192529-scratch-girl.json) |
 | Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
 | Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
+| Scratch It! Lucky Cards | 419281 | [419281-scratch-it-lucky-cards.json](./419281-scratch-it-lucky-cards.json) |
 | Scratch Man | 256629 | [256629-scratch-man.json](./256629-scratch-man.json) |
 | Scratch Off! | 396963 | [396963-scratch-off.json](./396963-scratch-off.json) |
 | Scratch the Cat | 344665 | [344665-scratch-the-cat.json](./344665-scratch-the-cat.json) |
@@ -5071,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seconds Till Destruction | 354883 | [354883-seconds-till-destruction.json](./354883-seconds-till-destruction.json) |
 | Seconds Time's the Charm | 326602 | [326602-seconds-times-the-charm.json](./326602-seconds-times-the-charm.json) |
 | Seconds to Square | 55574 | [55574-seconds-to-square.json](./55574-seconds-to-square.json) |
+| Seconds Until You Die | 419266 | [419266-seconds-until-you-die.json](./419266-seconds-until-you-die.json) |
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
 | Secret | 340101 | [340101-secret.json](./340101-secret.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
@@ -8747,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Plains | 279164 | [279164-shattered-plains.json](./279164-shattered-plains.json) |
 | Shattered Reality | 165799 | [165799-shattered-reality.json](./165799-shattered-reality.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
+| Shattered Realms | 419278 | [419278-shattered-realms.json](./419278-shattered-realms.json) |
 | Shattered Realms | 76210 | [76210-shattered-realms.json](./76210-shattered-realms.json) |
 | Shattered Reflections: The Abyss Within | 258276 | [258276-shattered-reflections-the-abyss-within.json](./258276-shattered-reflections-the-abyss-within.json) |
 | Shattered Runes | 151154 | [151154-shattered-runes.json](./151154-shattered-runes.json) |
@@ -11584,6 +11587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Hero: Pirate Pillage | 102028 | [102028-siege-hero-pirate-pillage.json](./102028-siege-hero-pirate-pillage.json) |
 | Siege Island | 273773 | [273773-siege-island.json](./273773-siege-island.json) |
 | Siege Machines Builder | 117596 | [117596-siege-machines-builder.json](./117596-siege-machines-builder.json) |
+| Siege of Akanor | 419245 | [419245-siege-of-akanor.json](./419245-siege-of-akanor.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Centauri | 116002 | [116002-siege-of-centauri.json](./116002-siege-of-centauri.json) |
 | Siege of Darkwood | 139162 | [139162-siege-of-darkwood.json](./139162-siege-of-darkwood.json) |
@@ -16167,6 +16171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
 | Small Cave Action | 391941 | [391941-small-cave-action.json](./391941-small-cave-action.json) |
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
+| Small City | 419269 | [419269-small-city.json](./419269-small-city.json) |
 | Small Crystal | 192200 | [192200-small-crystal.json](./192200-small-crystal.json) |
 | Small Dark House Survival | 195286 | [195286-small-dark-house-survival.json](./195286-small-dark-house-survival.json) |
 | Small Demon | 280107 | [280107-small-demon.json](./280107-small-demon.json) |
@@ -38892,6 +38897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Instinct | 149617 | [149617-survival-instinct.json](./149617-survival-instinct.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Island | 40690 | [40690-survival-island.json](./40690-survival-island.json) |
+| Survival Island | 419251 | [419251-survival-island.json](./419251-survival-island.json) |
 | Survival Island 2017 - Savage 2 | 99254 | [99254-survival-island-2017-savage-2.json](./99254-survival-island-2017-savage-2.json) |
 | Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
 | Survival Island: Evolve Pro! | 97199 | [97199-survival-island-evolve-pro.json](./97199-survival-island-evolve-pro.json) |
