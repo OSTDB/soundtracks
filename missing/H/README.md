@@ -12080,6 +12080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Job 94' | 265228 | [265228-hot-job-94.json](./265228-hot-job-94.json) |
 | Hot Land | 419375 | [419375-hot-land.json](./419375-hot-land.json) |
 | Hot Lap League | 197776 | [197776-hot-lap-league.json](./197776-hot-lap-league.json) |
+| Hot Lap League: Deluxe Edition | 211304 | [211304-hot-lap-league-deluxe-edition.json](./211304-hot-lap-league-deluxe-edition.json) |
 | Hot Lap Racing | 265779 | [265779-hot-lap-racing.json](./265779-hot-lap-racing.json) |
 | Hot Lava | 20149 | [20149-hot-lava.json](./20149-hot-lava.json) |
 | Hot Line | 305458 | [305458-hot-line.json](./305458-hot-line.json) |
@@ -12757,6 +12758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Painting: Simulator | 328513 | [328513-house-painting-simulator.json](./328513-house-painting-simulator.json) |
 | House Party: Business and Pleasure Style Pack | 312251 | [312251-house-party-business-and-pleasure-style-pack.json](./312251-house-party-business-and-pleasure-style-pack.json) |
 | House Party: Detective Liz Katz in a Gritty Kitty Murder Mystery | 249114 | [249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json](./249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json) |
+| House Party: Doja Cat | 210156 | [210156-house-party-doja-cat.json](./210156-house-party-doja-cat.json) |
 | House Party: Halloween Holiday Pack | 230995 | [230995-house-party-halloween-holiday-pack.json](./230995-house-party-halloween-holiday-pack.json) |
 | House Party: New Content Pack | 263127 | [263127-house-party-new-content-pack.json](./263127-house-party-new-content-pack.json) |
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
