@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T08:51:23.199Z",
-  "total_soundtracks": 3663,
+  "generated_at": "2026-11-17T08:57:21.854Z",
+  "total_soundtracks": 3673,
   "games": [
     {
       "igdb_id": 292844,
@@ -1281,6 +1281,20 @@
         {
           "album_name": "Airships: Conquer the Skies (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1bRwyopQizL80wADqJhvoQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 143004,
+      "game_name": "AK-xolotl",
+      "game_url": "https://ostdb.net/games/ak-xolotl",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273080267bed8639c2e57a767aa",
+      "albums": [
+        {
+          "album_name": "AK-xolotl (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/23WLl2h6gUWl7Aqq75BjOg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -11689,6 +11703,20 @@
       ]
     },
     {
+      "igdb_id": 140482,
+      "game_name": "Dude, Where Is My Beer?",
+      "game_url": "https://ostdb.net/games/dude-where-is-my-beer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736ea609c81c1dc0250d8b2c2e",
+      "albums": [
+        {
+          "album_name": "Dude, Where Is My Beer? (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5jrfFyTOog29EstVB2Hc3o",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 17219,
       "game_name": "Duet",
       "game_url": "https://ostdb.net/games/duet",
@@ -12905,6 +12933,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/evil-genius-2-world-domination/1635588885?uo=4",
           "album_link_url": "https://album.link/i/1635588885"
+        }
+      ]
+    },
+    {
+      "igdb_id": 144419,
+      "game_name": "Evil Inside",
+      "game_url": "https://ostdb.net/games/evil-inside",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27370c8b84240948c44b2cc7569",
+      "albums": [
+        {
+          "album_name": "Evil Inside (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1rre4kDPx939OFg60axZzs",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -17285,6 +17327,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/habromania-original-game-soundtrack/1846580881?uo=4",
           "album_link_url": "https://album.link/i/1846580881"
+        }
+      ]
+    },
+    {
+      "igdb_id": 141326,
+      "game_name": "Habroxia 2",
+      "game_url": "https://ostdb.net/games/habroxia-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dd5f4dfaff5c3559544be6c5",
+      "albums": [
+        {
+          "album_name": "Habroxia 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ti1XSYeL2CZ7mkS1oZALk",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -22127,6 +22183,20 @@
       ]
     },
     {
+      "igdb_id": 144552,
+      "game_name": "Lila's Sky Ark",
+      "game_url": "https://ostdb.net/games/lilas-sky-ark",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27382b63ee7ebaaf8a8484290dd",
+      "albums": [
+        {
+          "album_name": "Lila's Sky Ark (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5rYkdcNl4FtVc87m59Aexz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1331,
       "game_name": "Limbo",
       "game_url": "https://ostdb.net/games/limbo",
@@ -25076,6 +25146,20 @@
           "album_name": "Young Legends Learn and Rise",
           "spotify_url": "https://open.spotify.com/album/3tgX8zRIUS2jSogO0g2TU3",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 140436,
+      "game_name": "Möbius Front '83",
+      "game_url": "https://ostdb.net/games/mobius-front-83",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27393370086c8bdb05f51e1e4fd",
+      "albums": [
+        {
+          "album_name": "Möbius Front '83 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5akKzPCA4YIfyMG9ABGHMr",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -32863,6 +32947,20 @@
       ]
     },
     {
+      "igdb_id": 143129,
+      "game_name": "Sands of Aura",
+      "game_url": "https://ostdb.net/games/sands-of-aura",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f16dbac2248eef4f0d4f081",
+      "albums": [
+        {
+          "album_name": "Sands of Aura (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5aBmya9yxlwVcuypzR1rW7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 331215,
       "game_name": "Saros",
       "game_url": "https://ostdb.net/games/saros",
@@ -36079,6 +36177,20 @@
       ]
     },
     {
+      "igdb_id": 143161,
+      "game_name": "Squad 51 vs. the Flying Saucers",
+      "game_url": "https://ostdb.net/games/squad-51-vs-the-flying-saucers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273212944a188079f650724c201",
+      "albums": [
+        {
+          "album_name": "Squad 51 vs. the Flying Saucers (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2shoMia7QJfAG7AqGMLN6J",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 234344,
       "game_name": "Squad Busters",
       "game_url": "https://ostdb.net/games/squad-busters",
@@ -39138,6 +39250,20 @@
           "album_name": "The Alters (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3ioR5U3lseaIqK7ligASmi",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 140559,
+      "game_name": "The Amazing American Circus",
+      "game_url": "https://ostdb.net/games/the-amazing-american-circus",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273761d89e0ffbd4637521db275",
+      "albums": [
+        {
+          "album_name": "The Amazing American Circus (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0oqaB2RS3QbRiymbBE3GOR",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -46247,6 +46373,20 @@
         {
           "album_name": "Wonder Wickets (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0iqeQPSjRHiBOHwaXBex95",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 145078,
+      "game_name": "Woodo",
+      "game_url": "https://ostdb.net/games/woodo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27336570d8d11d610d8c3d14562",
+      "albums": [
+        {
+          "album_name": "Woodo (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1DGCyxkCk6FeOz6t9EHJEl",
           "apple_music_url": "",
           "album_link_url": ""
         }
