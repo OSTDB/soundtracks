@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from Candlekeep: Tomb of Annihilation | 55805 | [55805-tales-from-candlekeep-tomb-of-annihilation.json](./55805-tales-from-candlekeep-tomb-of-annihilation.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
 | Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
+| Tales From Evenfall | 159934 | [159934-tales-from-evenfall.json](./159934-tales-from-evenfall.json) |
 | Tales from Floating Abyss | 377705 | [377705-tales-from-floating-abyss.json](./377705-tales-from-floating-abyss.json) |
 | Tales From Galaxy 34 | 113027 | [113027-tales-from-galaxy-34.json](./113027-tales-from-galaxy-34.json) |
 | Tales from Hazelwood Post | 278899 | [278899-tales-from-hazelwood-post.json](./278899-tales-from-hazelwood-post.json) |
@@ -2959,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari | 196967 | [196967-tatari.json](./196967-tatari.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
+| Tatarian aster | 159932 | [159932-tatarian-aster.json](./159932-tatarian-aster.json) |
 | Tate's Journey | 253232 | [253232-tates-journey.json](./253232-tates-journey.json) |
 | Tater Spud | 207624 | [207624-tater-spud.json](./207624-tater-spud.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
@@ -6692,6 +6694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artefacts lost in the Galaxy | 128158 | [128158-the-artefacts-lost-in-the-galaxy.json](./128158-the-artefacts-lost-in-the-galaxy.json) |
 | The Artful Adventures Bundle | 223738 | [223738-the-artful-adventures-bundle.json](./223738-the-artful-adventures-bundle.json) |
 | The Artifact | 31061 | [31061-the-artifact.json](./31061-the-artifact.json) |
+| The Artifact Hunter | 159918 | [159918-the-artifact-hunter.json](./159918-the-artifact-hunter.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
@@ -7161,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bends | 178538 | [178538-the-bends.json](./178538-the-bends.json) |
 | The Bendy Strawmen Inc. Team Bonding Beach Volley Bonanza | 183911 | [183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json](./183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json) |
 | The Benjamins | 169382 | [169382-the-benjamins.json](./169382-the-benjamins.json) |
+| The Benza RPG | 159922 | [159922-the-benza-rpg.json](./159922-the-benza-rpg.json) |
 | The Berenstain Bears and the Spooky Old Tree | 49311 | [49311-the-berenstain-bears-and-the-spooky-old-tree.json](./49311-the-berenstain-bears-and-the-spooky-old-tree.json) |
 | The Berenstain Bears: A School Day | 66853 | [66853-the-berenstain-bears-a-school-day.json](./66853-the-berenstain-bears-a-school-day.json) |
 | The Berenstain Bears: Big Number Hunt | 65987 | [65987-the-berenstain-bears-big-number-hunt.json](./65987-the-berenstain-bears-big-number-hunt.json) |
@@ -7805,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Calling | 339386 | [339386-the-calling.json](./339386-the-calling.json) |
 | The Calling Past | 405781 | [405781-the-calling-past.json](./405781-the-calling-past.json) |
+| The Callisto | 159935 | [159935-the-callisto.json](./159935-the-callisto.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
 | The Callisto Protocol: Day One Edition | 204904 | [204904-the-callisto-protocol-day-one-edition.json](./204904-the-callisto-protocol-day-one-edition.json) |
 | The Callisto Protocol: Digital Deluxe Edition | 205001 | [205001-the-callisto-protocol-digital-deluxe-edition.json](./205001-the-callisto-protocol-digital-deluxe-edition.json) |
@@ -9562,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drift Challenge | 167570 | [167570-the-drift-challenge.json](./167570-the-drift-challenge.json) |
 | The Drifter | 126870 | [126870-the-drifter.json](./126870-the-drifter.json) |
 | The Drifting Woods | 149705 | [149705-the-drifting-woods.json](./149705-the-drifting-woods.json) |
+| The Drill RPG | 159939 | [159939-the-drill-rpg.json](./159939-the-drill-rpg.json) |
 | The Driver | 65624 | [65624-the-driver.json](./65624-the-driver.json) |
 | The Driver Syndicate | 374545 | [374545-the-driver-syndicate.json](./374545-the-driver-syndicate.json) |
 | The Driver's Mission | 121195 | [121195-the-drivers-mission.json](./121195-the-drivers-mission.json) |
@@ -16268,6 +16274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Only Survivor: Open world | 231887 | [231887-the-only-survivor-open-world.json](./231887-the-only-survivor-open-world.json) |
 | The Only Wise | 157977 | [157977-the-only-wise.json](./157977-the-only-wise.json) |
 | The Oogieloves: Milkshake Mayhem | 307511 | [307511-the-oogieloves-milkshake-mayhem.json](./307511-the-oogieloves-milkshake-mayhem.json) |
+| The Oort Cloud 2020 | 159923 | [159923-the-oort-cloud-2020.json](./159923-the-oort-cloud-2020.json) |
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
 | The Open House | 141389 | [141389-the-open-house.json](./141389-the-open-house.json) |
 | The Open League | 367999 | [367999-the-open-league.json](./367999-the-open-league.json) |
@@ -22795,6 +22802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Heroes | 382485 | [382485-three-kingdoms-heroes.json](./382485-three-kingdoms-heroes.json) |
 | Three Kingdoms Heroes of the World | 429719 | [429719-three-kingdoms-heroes-of-the-world.json](./429719-three-kingdoms-heroes-of-the-world.json) |
 | Three Kingdoms Mushouden | 333827 | [333827-three-kingdoms-mushouden.json](./333827-three-kingdoms-mushouden.json) |
+| Three Kingdoms of MN | 159940 | [159940-three-kingdoms-of-mn.json](./159940-three-kingdoms-of-mn.json) |
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
 | Three Kingdoms Simulator | 168478 | [168478-three-kingdoms-simulator.json](./168478-three-kingdoms-simulator.json) |
 | Three Kingdoms Story: Conussia | 233858 | [233858-three-kingdoms-story-conussia.json](./233858-three-kingdoms-story-conussia.json) |
@@ -24434,6 +24442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP049 | 160877 | [160877-tiger-tank-59-i-air-strike-mp049.json](./160877-tiger-tank-59-i-air-strike-mp049.json) |
 | Tiger Tank 59 I: Air Strike MP050 | 160865 | [160865-tiger-tank-59-i-air-strike-mp050.json](./160865-tiger-tank-59-i-air-strike-mp050.json) |
 | Tiger Tank 59 I: Air Strike MP051 | 160904 | [160904-tiger-tank-59-i-air-strike-mp051.json](./160904-tiger-tank-59-i-air-strike-mp051.json) |
+| Tiger Tank 59 I: Air Strike MP052 | 160913 | [160913-tiger-tank-59-i-air-strike-mp052.json](./160913-tiger-tank-59-i-air-strike-mp052.json) |
 | Tiger Tank 59 I: Air Strike MP053 | 160878 | [160878-tiger-tank-59-i-air-strike-mp053.json](./160878-tiger-tank-59-i-air-strike-mp053.json) |
 | Tiger Tank 59 I: Air Strike MP054 | 160900 | [160900-tiger-tank-59-i-air-strike-mp054.json](./160900-tiger-tank-59-i-air-strike-mp054.json) |
 | Tiger Tank 59 I: Air Strike MP055 | 160884 | [160884-tiger-tank-59-i-air-strike-mp055.json](./160884-tiger-tank-59-i-air-strike-mp055.json) |
@@ -30129,6 +30138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toute l'Aventure 2 | 94662 | [94662-toute-laventure-2.json](./94662-toute-laventure-2.json) |
 | Touzoku to 1000-biki no Pokémon | 61693 | [61693-touzoku-to-1000-biki-no-pokemon.json](./61693-touzoku-to-1000-biki-no-pokemon.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
+| ToVer Defense | 159929 | [159929-tover-defense.json](./159929-tover-defense.json) |
 | Toverblade | 145473 | [145473-toverblade.json](./145473-toverblade.json) |
 | Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
 | Tow n Go | 220248 | [220248-tow-n-go.json](./220248-tow-n-go.json) |
