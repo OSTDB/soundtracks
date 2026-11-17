@@ -3505,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
 | Action Masters | 92808 | [92808-action-masters.json](./92808-action-masters.json) |
+| Action Mogura | 165098 | [165098-action-mogura.json](./165098-action-mogura.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Ninja Dash | 237608 | [237608-action-ninja-dash.json](./237608-action-ninja-dash.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
@@ -18173,6 +18174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Mission Babylon | 358218 | [358218-asterix-and-obelix-mission-babylon.json](./358218-asterix-and-obelix-mission-babylon.json) |
 | Asterix & Obelix: Slap Them All! | 145062 | [145062-asterix-and-obelix-slap-them-all.json](./145062-asterix-and-obelix-slap-them-all.json) |
 | Asterix & Obelix: Slap Them All! - Collector's Edition | 159208 | [159208-asterix-and-obelix-slap-them-all-collectors-edition.json](./159208-asterix-and-obelix-slap-them-all-collectors-edition.json) |
+| Asterix & Obelix: Slap Them All! - Limited Edition | 165094 | [165094-asterix-and-obelix-slap-them-all-limited-edition.json](./165094-asterix-and-obelix-slap-them-all-limited-edition.json) |
 | Asterix & Obelix: Slap Them All! 1+2 | 305494 | [305494-asterix-and-obelix-slap-them-all-1-2.json](./305494-asterix-and-obelix-slap-them-all-1-2.json) |
 | Asterix & Obelix: Slap Them All! 2 - Gold Edition | 283588 | [283588-asterix-and-obelix-slap-them-all-2-gold-edition.json](./283588-asterix-and-obelix-slap-them-all-2-gold-edition.json) |
 | Asterix and Caesar's Challenge | 223048 | [223048-asterix-and-caesars-challenge.json](./223048-asterix-and-caesars-challenge.json) |
@@ -20855,6 +20857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid: Sensory Overload | 17169 | [17169-avoid-sensory-overload.json](./17169-avoid-sensory-overload.json) |
 | Avoid! | 160045 | [160045-avoid.json](./160045-avoid.json) |
 | Avoider | 57056 | [57056-avoider.json](./57056-avoider.json) |
+| Avoider 2D | 165081 | [165081-avoider-2d.json](./165081-avoider-2d.json) |
 | Avoidon | 126435 | [126435-avoidon.json](./126435-avoidon.json) |
 | Avoids | 240851 | [240851-avoids.json](./240851-avoids.json) |
 | Avoidvania | 159802 | [159802-avoidvania.json](./159802-avoidvania.json) |
