@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Adventures - VR Tech Demo | 93872 | [93872-rail-adventures-vr-tech-demo.json](./93872-rail-adventures-vr-tech-demo.json) |
 | Rail Blazers run | 102641 | [102641-rail-blazers-run.json](./102641-rail-blazers-run.json) |
 | Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
+| Rail Chase | 124326 | [124326-rail-chase.json](./124326-rail-chase.json) |
 | Rail Chase 2 | 39469 | [39469-rail-chase-2.json](./39469-rail-chase-2.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Fights | 393247 | [393247-rail-fights.json](./393247-rail-fights.json) |
@@ -4637,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Star Over America | 340710 | [340710-red-star-over-america.json](./340710-red-star-over-america.json) |
 | Red Star Raider | 119880 | [119880-red-star-raider.json](./119880-red-star-raider.json) |
 | Red Steel 2 | 2179 | [2179-red-steel-2.json](./2179-red-steel-2.json) |
+| Red Stone DS: Akaki Ishi ni Michibikareshi Monotachi | 124279 | [124279-red-stone-ds-akaki-ishi-ni-michibikareshi-monotachi.json](./124279-red-stone-ds-akaki-ishi-ni-michibikareshi-monotachi.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
@@ -5573,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relive The Past | 387966 | [387966-relive-the-past.json](./387966-relive-the-past.json) |
 | Relive Your Life | 299703 | [299703-relive-your-life.json](./299703-relive-your-life.json) |
 | Reliving the End | 318155 | [318155-reliving-the-end.json](./318155-reliving-the-end.json) |
+| Relivium | 126681 | [126681-relivium.json](./126681-relivium.json) |
 | Rellion | 406472 | [406472-rellion.json](./406472-rellion.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
@@ -9538,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Engineer | 292948 | [292948-road-engineer.json](./292948-road-engineer.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
+| Road Fighters 3D | 124285 | [124285-road-fighters-3d.json](./124285-road-fighters-3d.json) |
 | Road Fist | 26199 | [26199-road-fist.json](./26199-road-fist.json) |
 | Road Flash | 160008 | [160008-road-flash.json](./160008-road-flash.json) |
 | Road Fury | 145958 | [145958-road-fury.json](./145958-road-fury.json) |
