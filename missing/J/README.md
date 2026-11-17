@@ -4832,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jut | 129578 | [129578-jut.json](./129578-jut.json) |
 | Jutei Senki | 42387 | [42387-jutei-senki.json](./42387-jutei-senki.json) |
 | Jutland | 21179 | [21179-jutland.json](./21179-jutland.json) |
+| Jutsu Online | 143766 | [143766-jutsu-online.json](./143766-jutsu-online.json) |
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juufuutei Raden's Guide for Pixel Museum | 324609 | [324609-juufuutei-radens-guide-for-pixel-museum.json](./324609-juufuutei-radens-guide-for-pixel-museum.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
