@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd One Out Zebra | 100522 | [100522-odd-one-out-zebra.json](./100522-odd-one-out-zebra.json) |
 | Odd Remedy | 323312 | [323312-odd-remedy.json](./323312-odd-remedy.json) |
 | Odd Rhythm: A Fire Emblem Awakening Randomizer | 335569 | [335569-odd-rhythm-a-fire-emblem-awakening-randomizer.json](./335569-odd-rhythm-a-fire-emblem-awakening-randomizer.json) |
+| Odd Rock Out | 427092 | [427092-odd-rock-out.json](./427092-odd-rock-out.json) |
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
 | Odd Shape Out! | 336403 | [336403-odd-shape-out.json](./336403-odd-shape-out.json) |
 | Odd Shop | 424048 | [424048-odd-shop.json](./424048-odd-shop.json) |
@@ -2463,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Barbarian Futa Tribe Chapter 2: Red | 297171 | [297171-one-barbarian-futa-tribe-chapter-2-red.json](./297171-one-barbarian-futa-tribe-chapter-2-red.json) |
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
 | One Beat Min | 222827 | [222827-one-beat-min.json](./222827-one-beat-min.json) |
+| One Big Clump | 427117 | [427117-one-big-clump.json](./427117-one-big-clump.json) |
 | One Billion Ducks | 408542 | [408542-one-billion-ducks.json](./408542-one-billion-ducks.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bit Arena | 86762 | [86762-one-bit-arena.json](./86762-one-bit-arena.json) |
@@ -4422,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbs of Chaos | 290743 | [290743-orbs-of-chaos.json](./290743-orbs-of-chaos.json) |
 | Orbs of Duality | 349114 | [349114-orbs-of-duality.json](./349114-orbs-of-duality.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
+| Orbs Will Help Me Achieve My Goals | 427116 | [427116-orbs-will-help-me-achieve-my-goals.json](./427116-orbs-will-help-me-achieve-my-goals.json) |
 | Orbt XL | 28935 | [28935-orbt-xl.json](./28935-orbt-xl.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
 | Orbtrain: Slot Racing | 151270 | [151270-orbtrain-slot-racing.json](./151270-orbtrain-slot-racing.json) |
