@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
 | Echo: Digital Deluxe Edition | 212910 | [212910-echo-digital-deluxe-edition.json](./212910-echo-digital-deluxe-edition.json) |
+| Echo: Route 65 | 138279 | [138279-echo-route-65.json](./138279-echo-route-65.json) |
 | Echo: Secrets of the Lost Cavern | 76145 | [76145-echo-secrets-of-the-lost-cavern.json](./76145-echo-secrets-of-the-lost-cavern.json) |
 | Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
 | Echo's Climb | 203942 | [203942-echos-climb.json](./203942-echos-climb.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elios VR | 171922 | [171922-elios-vr.json](./171922-elios-vr.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
+| Eliot: Teddy Bear has Disappeared! | 137138 | [137138-eliot-teddy-bear-has-disappeared.json](./137138-eliot-teddy-bear-has-disappeared.json) |
 | Elis in Winterland | 261657 | [261657-elis-in-winterland.json](./261657-elis-in-winterland.json) |
 | Elisa Dragon Hunter | 192527 | [192527-elisa-dragon-hunter.json](./192527-elisa-dragon-hunter.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
@@ -8585,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
 | Excite League | 40112 | [40112-excite-league.json](./40112-excite-league.json) |
 | Excite Mahjong | 80200 | [80200-excite-mahjong.json](./80200-excite-mahjong.json) |
+| Excite Mahjong 2 | 137149 | [137149-excite-mahjong-2.json](./137149-excite-mahjong-2.json) |
 | Excite Mario Bros. | 425809 | [425809-excite-mario-bros.json](./425809-excite-mario-bros.json) |
 | Excite Shoot! | 385804 | [385804-excite-shoot.json](./385804-excite-shoot.json) |
 | Excite Truck | 2635 | [2635-excite-truck.json](./2635-excite-truck.json) |
@@ -8697,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile: Avengers Fire | 220283 | [220283-exile-avengers-fire.json](./220283-exile-avengers-fire.json) |
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
 | Exile: Wicked Phenomenon | 44315 | [44315-exile-wicked-phenomenon.json](./44315-exile-wicked-phenomenon.json) |
+| Exile's Journey | 135930 | [135930-exiles-journey.json](./135930-exiles-journey.json) |
 | Exiled | 283090 | [283090-exiled.json](./283090-exiled.json) |
 | Exiled Ark | 420368 | [420368-exiled-ark.json](./420368-exiled-ark.json) |
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
