@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
 | Saccharine: A Misleading Sim Date | 387038 | [387038-saccharine-a-misleading-sim-date.json](./387038-saccharine-a-misleading-sim-date.json) |
+| Sachi's Quest | 65098 | [65098-sachis-quest.json](./65098-sachis-quest.json) |
 | Sachie: Death Road | 161594 | [161594-sachie-death-road.json](./161594-sachie-death-road.json) |
 | Sachiko's Loner Escape Operation | 303278 | [303278-sachikos-loner-escape-operation.json](./303278-sachikos-loner-escape-operation.json) |
 | Sachin Saga Cricket Champions | 202685 | [202685-sachin-saga-cricket-champions.json](./202685-sachin-saga-cricket-champions.json) |
@@ -638,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saighead | 164183 | [164183-saighead.json](./164183-saighead.json) |
 | Saigo no Nindou | 265040 | [265040-saigo-no-nindou.json](./265040-saigo-no-nindou.json) |
 | Saigo no Uta | 166588 | [166588-saigo-no-uta.json](./166588-saigo-no-uta.json) |
+| Saigo no Yakusoku no Monogatari | 66261 | [66261-saigo-no-yakusoku-no-monogatari.json](./66261-saigo-no-yakusoku-no-monogatari.json) |
 | Saigon: The Final Days | 73871 | [73871-saigon-the-final-days.json](./73871-saigon-the-final-days.json) |
 | Saihai no Yukue | 302503 | [302503-saihai-no-yukue.json](./302503-saihai-no-yukue.json) |
 | Saihai no Yuuke | 58536 | [58536-saihai-no-yuuke.json](./58536-saihai-no-yuuke.json) |
@@ -12121,6 +12123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silph Road | 104578 | [104578-silph-road.json](./104578-silph-road.json) |
 | Silpheed | 5437 | [5437-silpheed.json](./5437-silpheed.json) |
 | Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
+| Silpheed Alternative: Menace from Beyond the Stars | 65124 | [65124-silpheed-alternative-menace-from-beyond-the-stars.json](./65124-silpheed-alternative-menace-from-beyond-the-stars.json) |
 | Silpheed: The Lost Planet | 22009 | [22009-silpheed-the-lost-planet.json](./22009-silpheed-the-lost-planet.json) |
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva | 296410 | [296410-silva.json](./296410-silva.json) |
@@ -13890,6 +13893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skidz | 98828 | [98828-skidz.json](./98828-skidz.json) |
 | Skiers Landing | 363115 | [363115-skiers-landing.json](./363115-skiers-landing.json) |
 | Skies | 337858 | [337858-skies.json](./337858-skies.json) |
+| Skies | 62893 | [62893-skies.json](./62893-skies.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
 | Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
@@ -16254,6 +16258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Ball | 193808 | [193808-smash-ball.json](./193808-smash-ball.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Balls 2 | 395770 | [395770-smash-balls-2.json](./395770-smash-balls-2.json) |
+| Smash Bandits | 62892 | [62892-smash-bandits.json](./62892-smash-bandits.json) |
 | Smash Bandits Racing | 174727 | [174727-smash-bandits-racing.json](./174727-smash-bandits-racing.json) |
 | Smash Bash Crash | 81134 | [81134-smash-bash-crash.json](./81134-smash-bash-crash.json) |
 | Smash Bash: Date with the Desert | 180321 | [180321-smash-bash-date-with-the-desert.json](./180321-smash-bash-date-with-the-desert.json) |
@@ -21659,6 +21664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ace II: Borf's Revenge | 50265 | [50265-space-ace-ii-borfs-revenge.json](./50265-space-ace-ii-borfs-revenge.json) |
 | Space Aces | 207553 | [207553-space-aces.json](./207553-space-aces.json) |
 | Space Aces | 385895 | [385895-space-aces.json](./385895-space-aces.json) |
+| Space Action | 61805 | [61805-space-action.json](./61805-space-action.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 227578 | [227578-space-adventure.json](./227578-space-adventure.json) |
 | Space Adventure | 233389 | [233389-space-adventure.json](./233389-space-adventure.json) |
@@ -22858,6 +22864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trains | 149327 | [149327-space-trains.json](./149327-space-trains.json) |
 | Space Transfer | 109887 | [109887-space-transfer.json](./109887-space-transfer.json) |
 | Space Transport Tycoon | 152737 | [152737-space-transport-tycoon.json](./152737-space-transport-tycoon.json) |
+| Space Trap | 61806 | [61806-space-trap.json](./61806-space-trap.json) |
 | Space Trash Scavenger | 211215 | [211215-space-trash-scavenger.json](./211215-space-trash-scavenger.json) |
 | Space Travel | 11303 | [11303-space-travel.json](./11303-space-travel.json) |
 | Space Travel Idle | 148480 | [148480-space-travel-idle.json](./148480-space-travel-idle.json) |
@@ -26227,6 +26234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqrl Golf II | 325344 | [325344-sqrl-golf-ii.json](./325344-sqrl-golf-ii.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
 | Sqrxz 2 | 62642 | [62642-sqrxz-2.json](./62642-sqrxz-2.json) |
+| Sqrxz 4: Cold Cash | 61803 | [61803-sqrxz-4-cold-cash.json](./61803-sqrxz-4-cold-cash.json) |
 | Sqrxz III | 62640 | [62640-sqrxz-iii.json](./62640-sqrxz-iii.json) |
 | SQRZ | 360212 | [360212-sqrz.json](./360212-sqrz.json) |
 | Squab | 260531 | [260531-squab.json](./260531-squab.json) |
@@ -26454,6 +26462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squelchies | 366451 | [366451-squelchies.json](./366451-squelchies.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
 | Squibble | 38699 | [38699-squibble.json](./38699-squibble.json) |
+| Squibble: The Word Game | 61800 | [61800-squibble-the-word-game.json](./61800-squibble-the-word-game.json) |
 | Squibs Arcade | 92354 | [92354-squibs-arcade.json](./92354-squibs-arcade.json) |
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
 | Squid Arrives II: Make Squid Great Again | 390856 | [390856-squid-arrives-ii-make-squid-great-again.json](./390856-squid-arrives-ii-make-squid-great-again.json) |
@@ -33248,6 +33257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Masters Club | 385077 | [385077-sudoku-masters-club.json](./385077-sudoku-masters-club.json) |
 | Sudoku Micro | 195493 | [195493-sudoku-micro.json](./195493-sudoku-micro.json) |
 | Sudoku Minimalist Infinite | 200014 | [200014-sudoku-minimalist-infinite.json](./200014-sudoku-minimalist-infinite.json) |
+| Sudoku of Mana | 61795 | [61795-sudoku-of-mana.json](./61795-sudoku-of-mana.json) |
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
 | Sudoku Online | 275650 | [275650-sudoku-online.json](./275650-sudoku-online.json) |
 | Sudoku Online With Friends | 386073 | [386073-sudoku-online-with-friends.json](./386073-sudoku-online-with-friends.json) |
@@ -34634,6 +34644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Brawl World | 71180 | [71180-super-brawl-world.json](./71180-super-brawl-world.json) |
 | Super Brawler | 214294 | [214294-super-brawler.json](./214294-super-brawler.json) |
+| Super Bread Box | 61784 | [61784-super-bread-box.json](./61784-super-bread-box.json) |
 | Super Breakout | 12321 | [12321-super-breakout.json](./12321-super-breakout.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout | 239520 | [239520-super-breakout.json](./239520-super-breakout.json) |
@@ -37636,6 +37647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank War | 46289 | [46289-super-tank-war.json](./46289-super-tank-war.json) |
 | Super tanks RPG | 158312 | [158312-super-tanks-rpg.json](./158312-super-tanks-rpg.json) |
 | Super Tanooki Goomba | 323180 | [323180-super-tanooki-goomba.json](./323180-super-tanooki-goomba.json) |
+| Super Taxi Driver | 66264 | [66264-super-taxi-driver.json](./66264-super-taxi-driver.json) |
 | Super Teacher: The Crazy School | 209856 | [209856-super-teacher-the-crazy-school.json](./209856-super-teacher-the-crazy-school.json) |
 | Super Team Games | 48232 | [48232-super-team-games.json](./48232-super-team-games.json) |
 | Super Techpack | 154138 | [154138-super-techpack.json](./154138-super-techpack.json) |
@@ -40621,6 +40633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synergy of Serra | 255644 | [255644-synergy-of-serra.json](./255644-synergy-of-serra.json) |
 | Synergy Strike | 373204 | [373204-synergy-strike.json](./373204-synergy-strike.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
+| Synesthesia Amnesia | 65097 | [65097-synesthesia-amnesia.json](./65097-synesthesia-amnesia.json) |
 | Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
 | Synestia | 134936 | [134936-synestia.json](./134936-synestia.json) |
 | Synkrift | 423949 | [423949-synkrift.json](./423949-synkrift.json) |
