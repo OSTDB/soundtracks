@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rags to Riches | 397233 | [397233-rags-to-riches.json](./397233-rags-to-riches.json) |
 | Rags to Riches | 81174 | [81174-rags-to-riches.json](./81174-rags-to-riches.json) |
 | Ragtag | 114969 | [114969-ragtag.json](./114969-ragtag.json) |
+| Ragtag Adventurers | 76784 | [76784-ragtag-adventurers.json](./76784-ragtag-adventurers.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Ragtag Racing | 165723 | [165723-ragtag-racing.json](./165723-ragtag-racing.json) |
 | Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
@@ -10443,6 +10444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock and Roll Jeopardy! | 78874 | [78874-rock-and-roll-jeopardy.json](./78874-rock-and-roll-jeopardy.json) |
 | Rock and Stone | 368718 | [368718-rock-and-stone.json](./368718-rock-and-stone.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
+| Rock Band | 78100 | [78100-rock-band.json](./78100-rock-band.json) |
 | Rock Band 2 | 2692 | [2692-rock-band-2.json](./2692-rock-band-2.json) |
 | Rock Band 2 Deluxe | 277678 | [277678-rock-band-2-deluxe.json](./277678-rock-band-2-deluxe.json) |
 | Rock Band 2 DX: Guitar Hero Live | 376500 | [376500-rock-band-2-dx-guitar-hero-live.json](./376500-rock-band-2-dx-guitar-hero-live.json) |
