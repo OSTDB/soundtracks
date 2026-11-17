@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,759" src="https://img.shields.io/badge/soundtracks-3%2C759-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,276" src="https://img.shields.io/badge/games-3%2C276-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 362,515" src="https://img.shields.io/badge/missing-362%2C515-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 361,772" src="https://img.shields.io/badge/missing-361%2C772-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/schrodingers-call"><img src="https://i.scdn.co/image/ab67616d0000b273e65c6715b5edbf0af2ba3c7a" width="120" height="120" alt="" /></a><br /><sub><b>Schrödinger's Call</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/welcome-to-paradize"><img src="https://i.scdn.co/image/ab67616d0000b2739c6aa52bcf0a66db17f08d03" width="120" height="120" alt="" /></a><br /><sub><b>Welcome to Paradize</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/monowave"><img src="https://i.scdn.co/image/ab67616d0000b2736fc5f2c56fd8df4768651eb8" width="120" height="120" alt="" /></a><br /><sub><b>Monowave</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/on-your-tail"><img src="https://i.scdn.co/image/ab67616d0000b273114501ebc00c7221cd0b1ac3" width="120" height="120" alt="" /></a><br /><sub><b>On Your Tail</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/thrasher"><img src="https://i.scdn.co/image/ab67616d0000b2733f7d762ea267d0cdbc571a31" width="120" height="120" alt="" /></a><br /><sub><b>Thrasher</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/max-mustard"><img src="https://i.scdn.co/image/ab67616d0000b27307d9edaae3024cc06df32b22" width="120" height="120" alt="" /></a><br /><sub><b>Max Mustard</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ultra-space-battle-brawl"><img src="https://i.scdn.co/image/ab67616d0000b27357a90982d1cfbb9055dfe13f" width="120" height="120" alt="" /></a><br /><sub><b>Ultra Space Battle Brawl</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/newt-one"><img src="https://i.scdn.co/image/ab67616d0000b27359a8d3e10cad1078f2d3375f" width="120" height="120" alt="" /></a><br /><sub><b>Newt One</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dont-die-mr-robot-dx"><img src="https://i.scdn.co/image/ab67616d0000b27388134febe6799cfa85c80c67" width="120" height="120" alt="" /></a><br /><sub><b>Don't Die Mr Robot! DX</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/asemblance-oversight"><img src="https://i.scdn.co/image/ab67616d0000b2730db25839fd76c09f28b3df15" width="120" height="120" alt="" /></a><br /><sub><b>Asemblance: Oversight</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/mindseize"><img src="https://i.scdn.co/image/ab67616d0000b2735dbe54cae61983ad67cb925e" width="120" height="120" alt="" /></a><br /><sub><b>MindSeize</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/wunderling"><img src="https://i.scdn.co/image/ab67616d0000b2739b881ab935732a6f30d1eae2" width="120" height="120" alt="" /></a><br /><sub><b>Wunderling</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/splodey"><img src="https://i.scdn.co/image/ab67616d0000b273da43d2cbb09dfe2d750e0cfe" width="120" height="120" alt="" /></a><br /><sub><b>Splodey</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-elder-scrolls-online-gold-road"><img src="https://i.scdn.co/image/ab67616d0000b273cdb9ee1f6bef1e57aae6b368" width="120" height="120" alt="" /></a><br /><sub><b>The Elder Scrolls Online: Gold Road</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/atomic-owl"><img src="https://i.scdn.co/image/ab67616d0000b273113b5c4d7117e381d3685711" width="120" height="120" alt="" /></a><br /><sub><b>Atomic Owl</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/grunn"><img src="https://i.scdn.co/image/ab67616d0000b273be4648cfc82cc73d8476d4e7" width="120" height="120" alt="" /></a><br /><sub><b>Grunn</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ritual-of-raven"><img src="https://i.scdn.co/image/ab67616d0000b273a5b8e639c7c60485b20a9d86" width="120" height="120" alt="" /></a><br /><sub><b>Ritual of Raven</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/teeto"><img src="https://i.scdn.co/image/ab67616d0000b27354075c4bf8e66597b7a417ef" width="120" height="120" alt="" /></a><br /><sub><b>Teeto</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/walden-a-game"><img src="https://i.scdn.co/image/ab67616d0000b2736880ec75452d190222f21e34" width="120" height="120" alt="" /></a><br /><sub><b>Walden, a game</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/redout-space-assault"><img src="https://i.scdn.co/image/ab67616d0000b273ca190f80ea818dda5e128015" width="120" height="120" alt="" /></a><br /><sub><b>Redout: Space Assault</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rift-keeper"><img src="https://i.scdn.co/image/ab67616d0000b273734a42b2a8d78c89817bd9e3" width="120" height="120" alt="" /></a><br /><sub><b>Rift Keeper</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/along-together"><img src="https://i.scdn.co/image/ab67616d0000b27370b5a45893df4f8841049883" width="120" height="120" alt="" /></a><br /><sub><b>Along Together</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bite-the-bullet"><img src="https://i.scdn.co/image/ab67616d0000b273af12da4a0173b024919cf71d" width="120" height="120" alt="" /></a><br /><sub><b>Bite the Bullet</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/jetstream"><img src="https://i.scdn.co/image/ab67616d0000b2730cb5a797a9a41fac59184efb" width="120" height="120" alt="" /></a><br /><sub><b>Jetstream</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (362,515 games).
+More in **[missing/](missing/README.md)** (361,772 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,759 soundtracks &middot; last updated 2026-11-17T10:46:09.059Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,759 soundtracks &middot; last updated 2026-11-17T12:41:09.971Z</sub>
