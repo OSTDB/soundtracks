@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JekoosWare | 131636 | [131636-jekoosware.json](./131636-jekoosware.json) |
 | Jekyll & Hyde | 10471 | [10471-jekyll-and-hyde.json](./10471-jekyll-and-hyde.json) |
 | Jekyll Hakase no Houma ga Toki | 275067 | [275067-jekyll-hakase-no-houma-ga-toki.json](./275067-jekyll-hakase-no-houma-ga-toki.json) |
+| Jelda | 84368 | [84368-jelda.json](./84368-jelda.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
 | JeliWave | 316862 | [316862-jeliwave.json](./316862-jeliwave.json) |
 | Jelle's Marble League | 187629 | [187629-jelles-marble-league.json](./187629-jelles-marble-league.json) |
