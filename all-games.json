@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T04:30:56.631Z",
-  "total_soundtracks": 3519,
+  "generated_at": "2026-11-17T04:35:56.443Z",
+  "total_soundtracks": 3520,
   "games": [
     {
       "igdb_id": 292844,
@@ -11067,6 +11067,20 @@
         {
           "album_name": "Dreams of Aether (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2qNAeaWAF03RSkDMI4cgB9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 331205,
+      "game_name": "Dreams of Another",
+      "game_url": "https://ostdb.net/games/dreams-of-another",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273403c9c88b3b0a3430aa98d2c",
+      "albums": [
+        {
+          "album_name": "Dreams of Another Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0WcmAUrXESBtYKjymNTVOx",
           "apple_music_url": "",
           "album_link_url": ""
         }
