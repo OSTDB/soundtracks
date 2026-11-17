@@ -6483,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amusement | 380581 | [380581-the-amusement.json](./380581-the-amusement.json) |
 | The Anacrusis | 152067 | [152067-the-anacrusis.json](./152067-the-anacrusis.json) |
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
+| The Analog Collection | 46909 | [46909-the-analog-collection.json](./46909-the-analog-collection.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Anarchic Kingdom | 183705 | [183705-the-anarchic-kingdom.json](./183705-the-anarchic-kingdom.json) |
 | The Ancestral Legacy! | 193983 | [193983-the-ancestral-legacy.json](./193983-the-ancestral-legacy.json) |
@@ -27732,6 +27733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
 | Tom and Jerry: Tom's Trap-O-Matic | 232744 | [232744-tom-and-jerry-toms-trap-o-matic.json](./232744-tom-and-jerry-toms-trap-o-matic.json) |
 | Tom and the Ghost | 66237 | [66237-tom-and-the-ghost.json](./66237-tom-and-the-ghost.json) |
+| Tom Boy | 46900 | [46900-tom-boy.json](./46900-tom-boy.json) |
 | Tom Clancy's 3 Pack | 228965 | [228965-tom-clancys-3-pack.json](./228965-tom-clancys-3-pack.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
 | Tom Clancy's EndWar | 7468 | [7468-tom-clancys-endwar.json](./7468-tom-clancys-endwar.json) |
