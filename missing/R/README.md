@@ -12966,6 +12966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover The Dragonslayer | 32498 | [32498-rover-the-dragonslayer.json](./32498-rover-the-dragonslayer.json) |
 | Rover Wars | 177039 | [177039-rover-wars.json](./177039-rover-wars.json) |
 | Rover Wars: Battle For Mars | 132380 | [132380-rover-wars-battle-for-mars.json](./132380-rover-wars-battle-for-mars.json) |
+| Rover's Day Out | 60135 | [60135-rovers-day-out.json](./60135-rovers-day-out.json) |
 | Rover’s Radventure: The New Millennium | 411733 | [411733-rover-s-radventure-the-new-millennium.json](./411733-rover-s-radventure-the-new-millennium.json) |
 | Rover's Tale | 320052 | [320052-rovers-tale.json](./320052-rovers-tale.json) |
 | Rovercraft 2 | 220195 | [220195-rovercraft-2.json](./220195-rovercraft-2.json) |
