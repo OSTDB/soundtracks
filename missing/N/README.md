@@ -3916,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries: The Outbreak - Collector's Edition | 358093 | [358093-new-york-mysteries-the-outbreak-collectors-edition.json](./358093-new-york-mysteries-the-outbreak-collectors-edition.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
 | New York Nights: Success in the City | 159237 | [159237-new-york-nights-success-in-the-city.json](./159237-new-york-nights-success-in-the-city.json) |
+| New York Race | 25190 | [25190-new-york-race.json](./25190-new-york-race.json) |
 | New York Race | 32551 | [32551-new-york-race.json](./32551-new-york-race.json) |
 | New York Rat Simulator | 181095 | [181095-new-york-rat-simulator.json](./181095-new-york-rat-simulator.json) |
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
@@ -6239,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana X-ROM | 142144 | [142144-nirvana-x-rom.json](./142144-nirvana-x-rom.json) |
 | Nirvana: Game of Life | 191261 | [191261-nirvana-game-of-life.json](./191261-nirvana-game-of-life.json) |
 | Nirvana: Origin of Fate | 360628 | [360628-nirvana-origin-of-fate.json](./360628-nirvana-origin-of-fate.json) |
+| Nirvana: The First Travel | 34859 | [34859-nirvana-the-first-travel.json](./34859-nirvana-the-first-travel.json) |
 | Nise no Chigiri Omoide no Saki He | 221886 | [221886-nise-no-chigiri-omoide-no-saki-he.json](./221886-nise-no-chigiri-omoide-no-saki-he.json) |
 | Nisekoi Majikore!? | 60795 | [60795-nisekoi-majikore.json](./60795-nisekoi-majikore.json) |
 | Nisekoi Yomeiri!? | 86186 | [86186-nisekoi-yomeiri.json](./86186-nisekoi-yomeiri.json) |
