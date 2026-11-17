@@ -10125,6 +10125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shn!p | 44263 | [44263-shn-p.json](./44263-shn-p.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
+| Shoal | 135947 | [135947-shoal.json](./135947-shoal.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
 | Shoalroot | 225492 | [225492-shoalroot.json](./225492-shoalroot.json) |
 | Shobatsu | 336977 | [336977-shobatsu.json](./336977-shobatsu.json) |
@@ -10874,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredd | 128702 | [128702-shredd.json](./128702-shredd.json) |
 | ShredDead | 422474 | [422474-shreddead.json](./422474-shreddead.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
+| Shredded Secrets | 135918 | [135918-shredded-secrets.json](./135918-shredded-secrets.json) |
 | Shredder 6 | 92949 | [92949-shredder-6.json](./92949-shredder-6.json) |
 | Shredder 9 | 92886 | [92886-shredder-9.json](./92886-shredder-9.json) |
 | Shredder Chess for iPad | 88538 | [88538-shredder-chess-for-ipad.json](./88538-shredder-chess-for-ipad.json) |
@@ -15163,6 +15165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender Rising | 95676 | [95676-slender-rising.json](./95676-slender-rising.json) |
 | Slender Rising 2 | 108716 | [108716-slender-rising-2.json](./108716-slender-rising-2.json) |
+| Slender Space | 135934 | [135934-slender-space.json](./135934-slender-space.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: A Crooked Manifestation | 346483 | [346483-slender-a-crooked-manifestation.json](./346483-slender-a-crooked-manifestation.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
@@ -15941,6 +15944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
 | Slumber Party | 375224 | [375224-slumber-party.json](./375224-slumber-party.json) |
 | Slumber Realm | 361957 | [361957-slumber-realm.json](./361957-slumber-realm.json) |
+| Slumber Shine | 135935 | [135935-slumber-shine.json](./135935-slumber-shine.json) |
 | Slumberer's Universe | 226622 | [226622-slumberers-universe.json](./226622-slumberers-universe.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
@@ -39076,6 +39080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Plus | 302236 | [302236-sushi-plus.json](./302236-sushi-plus.json) |
 | Sushi Race | 302005 | [302005-sushi-race.json](./302005-sushi-race.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
+| Sushi Revers! | 135945 | [135945-sushi-revers.json](./135945-sushi-revers.json) |
 | Sushi Run | 188140 | [188140-sushi-run.json](./188140-sushi-run.json) |
 | Sushi Rush | 200844 | [200844-sushi-rush.json](./200844-sushi-rush.json) |
 | Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
