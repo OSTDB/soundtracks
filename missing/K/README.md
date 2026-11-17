@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Zodiac: The Phoenix Returns | 224457 | [224457-knights-of-the-zodiac-the-phoenix-returns.json](./224457-knights-of-the-zodiac-the-phoenix-returns.json) |
 | Knights of Valour | 76639 | [76639-knights-of-valour.json](./76639-knights-of-valour.json) |
 | Knights of Valour | 83926 | [83926-knights-of-valour.json](./83926-knights-of-valour.json) |
+| Knights of Valour 2 | 39890 | [39890-knights-of-valour-2.json](./39890-knights-of-valour-2.json) |
 | Knights of Valour 3 | 112150 | [112150-knights-of-valour-3.json](./112150-knights-of-valour-3.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
 | Knights of Valour Super Heroes | 39289 | [39289-knights-of-valour-super-heroes.json](./39289-knights-of-valour-super-heroes.json) |
@@ -6488,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kozue's Strange Journey | 156812 | [156812-kozues-strange-journey.json](./156812-kozues-strange-journey.json) |
 | Kozue's Strange Journey 2 | 327889 | [327889-kozues-strange-journey-2.json](./327889-kozues-strange-journey-2.json) |
 | Kozui | 196615 | [196615-kozui.json](./196615-kozui.json) |
+| Kozure Ookami | 39913 | [39913-kozure-ookami.json](./39913-kozure-ookami.json) |
 | Kozyrev Horrors | 287477 | [287477-kozyrev-horrors.json](./287477-kozyrev-horrors.json) |
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
 | Kpop idol Dress Up | 420670 | [420670-kpop-idol-dress-up.json](./420670-kpop-idol-dress-up.json) |
