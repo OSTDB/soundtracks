@@ -2224,9 +2224,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBall | 55358 | [55358-hardball.json](./55358-hardball.json) |
 | HardBall '95 | 45782 | [45782-hardball-95.json](./45782-hardball-95.json) |
 | Hardball + Hardball 2 | 336132 | [336132-hardball-hardball-2.json](./336132-hardball-hardball-2.json) |
+| HardBall 4 | 12468 | [12468-hardball-4.json](./12468-hardball-4.json) |
+| HardBall 6 | 12467 | [12467-hardball-6.json](./12467-hardball-6.json) |
 | Hardball 6: 2000 Edition | 205934 | [205934-hardball-6-2000-edition.json](./205934-hardball-6-2000-edition.json) |
 | Hardball 99 | 44983 | [44983-hardball-99.json](./44983-hardball-99.json) |
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
+| HardBall III | 12466 | [12466-hardball-iii.json](./12466-hardball-iii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBall! + HardBall II | 296603 | [296603-hardball-hardball-ii.json](./296603-hardball-hardball-ii.json) |
 | Hardbass Clicker | 370173 | [370173-hardbass-clicker.json](./370173-hardbass-clicker.json) |
@@ -14046,6 +14049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
 | Hustle Castle | 87280 | [87280-hustle-castle.json](./87280-hustle-castle.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
+| Hustle Chumy | 6114 | [6114-hustle-chumy.json](./6114-hustle-chumy.json) |
 | Hustle City | 142224 | [142224-hustle-city.json](./142224-hustle-city.json) |
 | Hustle Game | 157255 | [157255-hustle-game.json](./157255-hustle-game.json) |
 | Hustle Kings VR | 25834 | [25834-hustle-kings-vr.json](./25834-hustle-kings-vr.json) |
