@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Ball | 150483 | [150483-balance-ball.json](./150483-balance-ball.json) |
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
+| Balance Blox | 69444 | [69444-balance-blox.json](./69444-balance-blox.json) |
 | Balance Board | 254203 | [254203-balance-board.json](./254203-balance-board.json) |
 | Balance Breakers | 106690 | [106690-balance-breakers.json](./106690-balance-breakers.json) |
 | Balance Helicopter | 233887 | [233887-balance-helicopter.json](./233887-balance-helicopter.json) |
@@ -2084,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
 | Bam Fu | 175567 | [175567-bam-fu.json](./175567-bam-fu.json) |
 | Bamb | 182860 | [182860-bamb.json](./182860-bamb.json) |
+| Bamba | 69450 | [69450-bamba.json](./69450-bamba.json) |
 | Bamba's Snack Quest | 141093 | [141093-bambas-snack-quest.json](./141093-bambas-snack-quest.json) |
 | Bambas! | 325345 | [325345-bambas.json](./325345-bambas.json) |
 | Bambi: A Life in the Woods | 319325 | [319325-bambi-a-life-in-the-woods.json](./319325-bambi-a-life-in-the-woods.json) |
@@ -8595,6 +8597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big League Sports | 20223 | [20223-big-league-sports.json](./20223-big-league-sports.json) |
 | Big League Sports | 81510 | [81510-big-league-sports.json](./81510-big-league-sports.json) |
 | Big League Sports: Summer | 50926 | [50926-big-league-sports-summer.json](./50926-big-league-sports-summer.json) |
+| Big League Sports: Winter | 67576 | [67576-big-league-sports-winter.json](./67576-big-league-sports-winter.json) |
 | Big Loot | 345048 | [345048-big-loot.json](./345048-big-loot.json) |
 | Big Mac: The Mad Maintenance Man | 47221 | [47221-big-mac-the-mad-maintenance-man.json](./47221-big-mac-the-mad-maintenance-man.json) |
 | Big Market Simulator | 413106 | [413106-big-market-simulator.json](./413106-big-market-simulator.json) |
@@ -20677,6 +20680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido: The Way of the Warrior | 68779 | [68779-bushido-the-way-of-the-warrior.json](./68779-bushido-the-way-of-the-warrior.json) |
 | Bushside Rangers | 335642 | [335642-bushside-rangers.json](./335642-bushside-rangers.json) |
 | Bushy Man | 371295 | [371295-bushy-man.json](./371295-bushy-man.json) |
+| Bushy Tail | 69466 | [69466-bushy-tail.json](./69466-bushy-tail.json) |
 | Busin 0: Wizardry Alternative Neo | 59213 | [59213-busin-0-wizardry-alternative-neo.json](./59213-busin-0-wizardry-alternative-neo.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
 | Business Affairs | 299061 | [299061-business-affairs.json](./299061-business-affairs.json) |
@@ -20872,6 +20876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterflies Episode 2: Getting Up | 176211 | [176211-butterflies-episode-2-getting-up.json](./176211-butterflies-episode-2-getting-up.json) |
 | Butterflies Episode 3: Welcome to the Jungle | 248687 | [248687-butterflies-episode-3-welcome-to-the-jungle.json](./248687-butterflies-episode-3-welcome-to-the-jungle.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
+| Butterfliestry | 69445 | [69445-butterfliestry.json](./69445-butterfliestry.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
 | Butterflowers | 186180 | [186180-butterflowers.json](./186180-butterflowers.json) |
 | Butterfly | 91835 | [91835-butterfly.json](./91835-butterfly.json) |
