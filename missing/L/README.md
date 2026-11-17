@@ -9741,7 +9741,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loud on Planet X | 19849 | [19849-loud-on-planet-x.json](./19849-loud-on-planet-x.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Loud Run | 307239 | [307239-loud-run.json](./307239-loud-run.json) |
-| Loud: My Road to Fame | 241712 | [241712-loud-my-road-to-fame.json](./241712-loud-my-road-to-fame.json) |
 | Loud: My Road to Fame - My Trip to Japan | 241683 | [241683-loud-my-road-to-fame-my-trip-to-japan.json](./241683-loud-my-road-to-fame-my-trip-to-japan.json) |
 | Loud: RockStar Edition | 249565 | [249565-loud-rockstar-edition.json](./249565-loud-rockstar-edition.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
