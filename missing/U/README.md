@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U Evade | 158374 | [158374-u-evade.json](./158374-u-evade.json) |
 | U Host | 85463 | [85463-u-host.json](./85463-u-host.json) |
 | U R Hell | 271998 | [271998-u-r-hell.json](./271998-u-r-hell.json) |
+| U Want Cookie? | 66265 | [66265-u-want-cookie.json](./66265-u-want-cookie.json) |
 | U-Boat | 347698 | [347698-u-boat.json](./347698-u-boat.json) |
 | U-Boat Command | 282442 | [282442-u-boat-command.json](./282442-u-boat-command.json) |
 | U-Boot - submarine game | 87713 | [87713-u-boot-submarine-game.json](./87713-u-boot-submarine-game.json) |
@@ -1612,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Ted | 169380 | [169380-uncle-ted.json](./169380-uncle-ted.json) |
 | Uncle Tony's Spooky Toyland | 426953 | [426953-uncle-tonys-spooky-toyland.json](./426953-uncle-tonys-spooky-toyland.json) |
 | Uncle Unco | 322752 | [322752-uncle-unco.json](./322752-uncle-unco.json) |
+| Uncle Zebulon's Will | 60148 | [60148-uncle-zebulons-will.json](./60148-uncle-zebulons-will.json) |
 | Uncle's Basement | 289927 | [289927-uncles-basement.json](./289927-uncles-basement.json) |
 | Uncle's Basement: Collector's pack | 296249 | [296249-uncles-basement-collectors-pack.json](./296249-uncles-basement-collectors-pack.json) |
 | Uncle's Basement: The Winter House | 384058 | [384058-uncles-basement-the-winter-house.json](./384058-uncles-basement-the-winter-house.json) |
