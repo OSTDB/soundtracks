@@ -9689,7 +9689,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meitantei Shikkaku na Kanojo | 221044 | [221044-meitantei-shikkaku-na-kanojo.json](./221044-meitantei-shikkaku-na-kanojo.json) |
 | Meji Jones y la Última Búsqueda Desesperada | 324144 | [324144-meji-jones-y-la-ultima-busqueda-desesperada.json](./324144-meji-jones-y-la-ultima-busqueda-desesperada.json) |
 | Meka Sigurat | 232931 | [232931-meka-sigurat.json](./232931-meka-sigurat.json) |
-| Mekabolt+ | 192300 | [192300-mekabolt.json](./192300-mekabolt.json) |
 | MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
 | Mekakare | 242063 | [242063-mekakare.json](./242063-mekakare.json) |
 | Mekanikko | 265227 | [265227-mekanikko.json](./265227-mekanikko.json) |
@@ -17308,7 +17307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mona and the Witch's Hat | 195210 | [195210-mona-and-the-witchs-hat.json](./195210-mona-and-the-witchs-hat.json) |
 | Mona and the Witch's Hat Deluxe | 230458 | [230458-mona-and-the-witchs-hat-deluxe.json](./230458-mona-and-the-witchs-hat-deluxe.json) |
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
-| Monaco 2 | 194505 | [194505-monaco-2.json](./194505-monaco-2.json) |
 | Monaco 360: Retro Racing | 68556 | [68556-monaco-360-retro-racing.json](./68556-monaco-360-retro-racing.json) |
 | Monaco GP | 408809 | [408809-monaco-gp.json](./408809-monaco-gp.json) |
 | Monaco Grand Prix | 288257 | [288257-monaco-grand-prix.json](./288257-monaco-grand-prix.json) |
