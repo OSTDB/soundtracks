@@ -5189,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Lover Bundle | 230099 | [230099-catgirl-lover-bundle.json](./230099-catgirl-lover-bundle.json) |
 | Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
 | Catgirl Truckers | 210327 | [210327-catgirl-truckers.json](./210327-catgirl-truckers.json) |
+| Catgirl: NekoChan Adventure! | 137151 | [137151-catgirl-nekochan-adventure.json](./137151-catgirl-nekochan-adventure.json) |
 | Catgirls From My Sweet Dream | 215502 | [215502-catgirls-from-my-sweet-dream.json](./215502-catgirls-from-my-sweet-dream.json) |
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
 | Catgotchi: Virtual Pet | 243364 | [243364-catgotchi-virtual-pet.json](./243364-catgotchi-virtual-pet.json) |
@@ -17503,6 +17504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
 | CosmoNutz | 194173 | [194173-cosmonutz.json](./194173-cosmonutz.json) |
 | CosmoOdyssey: Trip to Mars | 213149 | [213149-cosmoodyssey-trip-to-mars.json](./213149-cosmoodyssey-trip-to-mars.json) |
+| Cosmopax | 138286 | [138286-cosmopax.json](./138286-cosmopax.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmophobia | 330216 | [330216-cosmophobia.json](./330216-cosmophobia.json) |
 | Cosmophony | 35252 | [35252-cosmophony.json](./35252-cosmophony.json) |
@@ -18816,7 +18818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashing Season Run | 237606 | [237606-crashing-season-run.json](./237606-crashing-season-run.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
-| Crashlands 2 | 252355 | [252355-crashlands-2.json](./252355-crashlands-2.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal | 174683 | [174683-crashmetal.json](./174683-crashmetal.json) |
 | CrashMetal: Cyberpunk | 144661 | [144661-crashmetal-cyberpunk.json](./144661-crashmetal-cyberpunk.json) |
