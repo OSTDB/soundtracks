@@ -4414,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Seed | 64584 | [64584-ghost-seed.json](./64584-ghost-seed.json) |
 | Ghost Seeker Hunter Simulation | 270495 | [270495-ghost-seeker-hunter-simulation.json](./270495-ghost-seeker-hunter-simulation.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
+| Ghost Ship | 211829 | [211829-ghost-ship.json](./211829-ghost-ship.json) |
 | Ghost Ship | 287518 | [287518-ghost-ship.json](./287518-ghost-ship.json) |
 | Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
 | Ghost Shock | 346702 | [346702-ghost-shock.json](./346702-ghost-shock.json) |
