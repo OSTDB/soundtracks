@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barkanoid 3 Gold | 69599 | [69599-barkanoid-3-gold.json](./69599-barkanoid-3-gold.json) |
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
 | Barker Bill's Trick Shooting | 9875 | [9875-barker-bills-trick-shooting.json](./9875-barker-bills-trick-shooting.json) |
+| Barketype | 420297 | [420297-barketype.json](./420297-barketype.json) |
 | Barkhan | 199270 | [199270-barkhan.json](./199270-barkhan.json) |
 | Barking from the Dark | 392404 | [392404-barking-from-the-dark.json](./392404-barking-from-the-dark.json) |
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
@@ -19455,6 +19456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build 'm up, Shoot 'm down! | 125065 | [125065-build-m-up-shoot-m-down.json](./125065-build-m-up-shoot-m-down.json) |
 | Build 'n Bump | 35094 | [35094-build-n-bump.json](./35094-build-n-bump.json) |
 | Build 'n Race | 4733 | [4733-build-n-race.json](./4733-build-n-race.json) |
+| Build & Bail | 420429 | [420429-build-and-bail.json](./420429-build-and-bail.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
 | Build & Defend: A Tale of Survival | 51672 | [51672-build-and-defend-a-tale-of-survival.json](./51672-build-and-defend-a-tale-of-survival.json) |
 | Build & Feast Collection | 328561 | [328561-build-and-feast-collection.json](./328561-build-and-feast-collection.json) |
