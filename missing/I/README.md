@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I've Been Holding My Breath Since 2008 | 385031 | [385031-ive-been-holding-my-breath-since-2008.json](./385031-ive-been-holding-my-breath-since-2008.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
 | I've Got a Brand New Pair of Legs | 129498 | [129498-ive-got-a-brand-new-pair-of-legs.json](./129498-ive-got-a-brand-new-pair-of-legs.json) |
+| I've Got Some Balls! | 71635 | [71635-ive-got-some-balls.json](./71635-ive-got-some-balls.json) |
 | I've Got to Run: Complete Edition! | 85188 | [85188-ive-got-to-run-complete-edition.json](./85188-ive-got-to-run-complete-edition.json) |
 | I've Got to Run! | 85189 | [85189-ive-got-to-run.json](./85189-ive-got-to-run.json) |
 | I've Got Your Number | 41535 | [41535-ive-got-your-number.json](./41535-ive-got-your-number.json) |
@@ -2759,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imminent | 384346 | [384346-imminent.json](./384346-imminent.json) |
 | Immoral Quartet | 147316 | [147316-immoral-quartet.json](./147316-immoral-quartet.json) |
 | Immoral Shadows | 236829 | [236829-immoral-shadows.json](./236829-immoral-shadows.json) |
+| Immoral Study Scenario 2: Iijima Yuka | 71616 | [71616-immoral-study-scenario-2-iijima-yuka.json](./71616-immoral-study-scenario-2-iijima-yuka.json) |
 | Immoral Ward | 22483 | [22483-immoral-ward.json](./22483-immoral-ward.json) |
 | Immortal | 121063 | [121063-immortal.json](./121063-immortal.json) |
 | Immortal | 320348 | [320348-immortal.json](./320348-immortal.json) |
