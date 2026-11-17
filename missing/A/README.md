@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day and a Night | 26164 | [26164-a-day-and-a-night.json](./26164-a-day-and-a-night.json) |
 | A Day as a T-Rex | 209185 | [209185-a-day-as-a-t-rex.json](./209185-a-day-as-a-t-rex.json) |
 | A Day at Grandma's House | 65095 | [65095-a-day-at-grandmas-house.json](./65095-a-day-at-grandmas-house.json) |
+| A Day at Grandma's House in Winter | 65096 | [65096-a-day-at-grandmas-house-in-winter.json](./65096-a-day-at-grandmas-house-in-winter.json) |
 | A Day at the Beach | 266051 | [266051-a-day-at-the-beach.json](./266051-a-day-at-the-beach.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A Day at the Library | 102050 | [102050-a-day-at-the-library.json](./102050-a-day-at-the-library.json) |
@@ -2409,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above: Colonies of the Mist | 388001 | [388001-above-colonies-of-the-mist.json](./388001-above-colonies-of-the-mist.json) |
 | Above: The Fallen | 68799 | [68799-above-the-fallen.json](./68799-above-the-fallen.json) |
 | ABPA Backgammon | 5653 | [5653-abpa-backgammon.json](./5653-abpa-backgammon.json) |
+| Abra Academy: Returning Cast | 65134 | [65134-abra-academy-returning-cast.json](./65134-abra-academy-returning-cast.json) |
 | Abra Ca Dabra | 93959 | [93959-abra-ca-dabra.json](./93959-abra-ca-dabra.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
@@ -9123,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Mission | 273028 | [273028-alpha-mission.json](./273028-alpha-mission.json) |
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Mission II | 13681 | [13681-alpha-mission-ii.json](./13681-alpha-mission-ii.json) |
+| Alpha Muse | 61790 | [61790-alpha-muse.json](./61790-alpha-muse.json) |
 | Alpha Nomos | 303133 | [303133-alpha-nomos.json](./303133-alpha-nomos.json) |
 | Alpha One | 173333 | [173333-alpha-one.json](./173333-alpha-one.json) |
 | Alpha One | 249644 | [249644-alpha-one.json](./249644-alpha-one.json) |
@@ -13193,6 +13196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
 | Anzu Castle Gracula | 306863 | [306863-anzu-castle-gracula.json](./306863-anzu-castle-gracula.json) |
 | Ao | 142075 | [142075-ao.json](./142075-ao.json) |
+| Ao no Exorcist: Genkoku no Labyrinth | 65128 | [65128-ao-no-exorcist-genkoku-no-labyrinth.json](./65128-ao-no-exorcist-genkoku-no-labyrinth.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
 | Ao no Kanata no Four Rhythm Extra1+2S | 228057 | [228057-ao-no-kanata-no-four-rhythm-extra1-2s.json](./228057-ao-no-kanata-no-four-rhythm-extra1-2s.json) |
@@ -16708,6 +16712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsolid Productions | 201660 | [201660-arsolid-productions.json](./201660-arsolid-productions.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Arson | 377108 | [377108-arson.json](./377108-arson.json) |
+| Arson & Plunder | 62898 | [62898-arson-and-plunder.json](./62898-arson-and-plunder.json) |
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | Arson and Plunder | 9985 | [9985-arson-and-plunder.json](./9985-arson-and-plunder.json) |
 | Arsonate | 284728 | [284728-arsonate.json](./284728-arsonate.json) |
@@ -17144,6 +17149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AS+CEND | 69521 | [69521-as-cend.json](./69521-as-cend.json) |
 | Asa Delta | 230675 | [230675-asa-delta.json](./230675-asa-delta.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
+| ASA: A Space Adventure | 62901 | [62901-asa-a-space-adventure.json](./62901-asa-a-space-adventure.json) |
 | ASA: A Space Adventure - Remastered Edition | 17969 | [17969-asa-a-space-adventure-remastered-edition.json](./17969-asa-a-space-adventure-remastered-edition.json) |
 | Asadoke no Majo | 398089 | [398089-asadoke-no-majo.json](./398089-asadoke-no-majo.json) |
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
