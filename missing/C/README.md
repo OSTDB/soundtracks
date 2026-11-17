@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caren and the Tangled Tentacles | 344976 | [344976-caren-and-the-tangled-tentacles.json](./344976-caren-and-the-tangled-tentacles.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Carestia | 136143 | [136143-carestia.json](./136143-carestia.json) |
+| Caretaker | 104163 | [104163-caretaker.json](./104163-caretaker.json) |
 | Caretaker | 362014 | [362014-caretaker.json](./362014-caretaker.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Caretaker Sacrifice | 18353 | [18353-caretaker-sacrifice.json](./18353-caretaker-sacrifice.json) |
@@ -12627,6 +12628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
 | Coach Bus Driving Simulator: Comfort Long Road Vehicle | 308840 | [308840-coach-bus-driving-simulator-comfort-long-road-vehicle.json](./308840-coach-bus-driving-simulator-comfort-long-road-vehicle.json) |
 | Coach Bus Driving Simulator: Fast Long Road Vehicle | 308839 | [308839-coach-bus-driving-simulator-fast-long-road-vehicle.json](./308839-coach-bus-driving-simulator-fast-long-road-vehicle.json) |
+| Coach Bus Simulator Parking | 104891 | [104891-coach-bus-simulator-parking.json](./104891-coach-bus-simulator-parking.json) |
 | Coach Fight | 304104 | [304104-coach-fight.json](./304104-coach-fight.json) |
 | Coach K College Basketball | 46226 | [46226-coach-k-college-basketball.json](./46226-coach-k-college-basketball.json) |
 | Coaching Simulator | 312448 | [312448-coaching-simulator.json](./312448-coaching-simulator.json) |
@@ -13742,6 +13744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
+| Color by Numbers - Flowers | 104879 | [104879-color-by-numbers-flowers.json](./104879-color-by-numbers-flowers.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
 | Color by Numbers - Princesses | 89067 | [89067-color-by-numbers-princesses.json](./89067-color-by-numbers-princesses.json) |
 | Color by Numbers - Vehicles | 88683 | [88683-color-by-numbers-vehicles.json](./88683-color-by-numbers-vehicles.json) |
@@ -16206,6 +16209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Shift | 176224 | [176224-control-shift.json](./176224-control-shift.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
 | Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
+| Control Tower | 103026 | [103026-control-tower.json](./103026-control-tower.json) |
 | Control Yourself | 338138 | [338138-control-yourself.json](./338138-control-yourself.json) |
 | Control, I'm Not Coming Back | 401318 | [401318-control-im-not-coming-back.json](./401318-control-im-not-coming-back.json) |
 | Control: AWE | 122313 | [122313-control-awe.json](./122313-control-awe.json) |
