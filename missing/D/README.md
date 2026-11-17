@@ -4927,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deaf Wish | 297883 | [297883-deaf-wish.json](./297883-deaf-wish.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
 | Deal & Wheeler | 241457 | [241457-deal-and-wheeler.json](./241457-deal-and-wheeler.json) |
+| Deal Flipper | 421112 | [421112-deal-flipper.json](./421112-deal-flipper.json) |
 | Deal Me Another Shock | 430031 | [430031-deal-me-another-shock.json](./430031-deal-me-another-shock.json) |
 | Deal of the Dead Final Cut | 292769 | [292769-deal-of-the-dead-final-cut.json](./292769-deal-of-the-dead-final-cut.json) |
 | Deal or No Deal | 203470 | [203470-deal-or-no-deal.json](./203470-deal-or-no-deal.json) |
@@ -17802,6 +17803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake of the 99 Dragons | 5815 | [5815-drake-of-the-99-dragons.json](./5815-drake-of-the-99-dragons.json) |
 | Drake's Dungeon | 247804 | [247804-drakes-dungeon.json](./247804-drakes-dungeon.json) |
+| Drake's Mansion | 421075 | [421075-drakes-mansion.json](./421075-drakes-mansion.json) |
 | Drake's Odds: Survive | 150385 | [150385-drakes-odds-survive.json](./150385-drakes-odds-survive.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
@@ -19547,6 +19549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
 | DropingBalls | 265364 | [265364-dropingballs.json](./265364-dropingballs.json) |
 | Dropkick Navvy | 267716 | [267716-dropkick-navvy.json](./267716-dropkick-navvy.json) |
+| Dropkick Rick | 421084 | [421084-dropkick-rick.json](./421084-dropkick-rick.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
