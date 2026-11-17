@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Toy Factory | 253245 | [253245-safari-toy-factory.json](./253245-safari-toy-factory.json) |
 | Safari Venture | 28608 | [28608-safari-venture.json](./28608-safari-venture.json) |
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
+| Safari-TV | 419700 | [419700-safari-tv.json](./419700-safari-tv.json) |
 | Safari: Evolution | 97162 | [97162-safari-evolution.json](./97162-safari-evolution.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe | 371850 | [371850-safe.json](./371850-safe.json) |
@@ -32249,6 +32250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
 | Strife | 5570 | [5570-strife.json](./5570-strife.json) |
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
+| Strife Sisters | 419672 | [419672-strife-sisters.json](./419672-strife-sisters.json) |
 | Strife: The Expanse | 147544 | [147544-strife-the-expanse.json](./147544-strife-the-expanse.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strifeshadow | 93456 | [93456-strifeshadow.json](./93456-strifeshadow.json) |
@@ -33979,6 +33981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Photo Album | 201440 | [201440-summer-photo-album.json](./201440-summer-photo-album.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
+| Summer Pockets Sunnyside Stories | 419909 | [419909-summer-pockets-sunnyside-stories.json](./419909-summer-pockets-sunnyside-stories.json) |
 | Summer Pop | 296790 | [296790-summer-pop.json](./296790-summer-pop.json) |
 | Summer Pop!+ | 296791 | [296791-summer-pop.json](./296791-summer-pop.json) |
 | Summer Puzzle | 357990 | [357990-summer-puzzle.json](./357990-summer-puzzle.json) |
