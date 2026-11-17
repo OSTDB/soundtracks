@@ -6368,6 +6368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
 | Deer Nightmare | 210978 | [210978-deer-nightmare.json](./210978-deer-nightmare.json) |
 | Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
+| Deer Survivors | 180323 | [180323-deer-survivors.json](./180323-deer-survivors.json) |
 | Deer-Napped | 218621 | [218621-deer-napped.json](./218621-deer-napped.json) |
 | Deer's Revenge | 112655 | [112655-deers-revenge.json](./112655-deers-revenge.json) |
 | DeerHunterFan.com TV: The Season | 219236 | [219236-deerhunterfan-com-tv-the-season.json](./219236-deerhunterfan-com-tv-the-season.json) |
