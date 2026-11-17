@@ -213,7 +213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Noir | 124598 | [124598-x-noir.json](./124598-x-noir.json) |
 | X-Note | 36055 | [36055-x-note.json](./36055-x-note.json) |
 | X-Out | 12631 | [12631-x-out.json](./12631-x-out.json) |
-| X-Out: Resurfaced | 312309 | [312309-x-out-resurfaced.json](./312309-x-out-resurfaced.json) |
 | X-Pack | 261869 | [261869-x-pack.json](./261869-x-pack.json) |
 | X-Perts | 46684 | [46684-x-perts.json](./46684-x-perts.json) |
 | X-Pipes Evolution | 22028 | [22028-x-pipes-evolution.json](./22028-x-pipes-evolution.json) |
