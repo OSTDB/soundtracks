@@ -8322,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Fashion Shop | 82236 | [82236-hidden-objects-fashion-shop.json](./82236-hidden-objects-fashion-shop.json) |
 | Hidden Objects: Ghost Town | 82231 | [82231-hidden-objects-ghost-town.json](./82231-hidden-objects-ghost-town.json) |
 | Hidden Objects: House of Fear | 82226 | [82226-hidden-objects-house-of-fear.json](./82226-hidden-objects-house-of-fear.json) |
+| Hidden Objects: I Love My Pets | 82198 | [82198-hidden-objects-i-love-my-pets.json](./82198-hidden-objects-i-love-my-pets.json) |
 | Hidden Objects: Items Find | 405154 | [405154-hidden-objects-items-find.json](./405154-hidden-objects-items-find.json) |
 | Hidden Objects: London - My Paradise: My Kitchen | 90802 | [90802-hidden-objects-london-my-paradise-my-kitchen.json](./90802-hidden-objects-london-my-paradise-my-kitchen.json) |
 | Hidden Objects: Lost City | 82235 | [82235-hidden-objects-lost-city.json](./82235-hidden-objects-lost-city.json) |
