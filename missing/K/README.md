@@ -4239,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinny and the Star Track Puzzle | 259299 | [259299-kinny-and-the-star-track-puzzle.json](./259299-kinny-and-the-star-track-puzzle.json) |
 | Kino | 383157 | [383157-kino.json](./383157-kino.json) |
 | Kino no Tabi II: The Beautiful World | 141757 | [141757-kino-no-tabi-ii-the-beautiful-world.json](./141757-kino-no-tabi-ii-the-beautiful-world.json) |
+| Kino no Tabi: The Beautiful World | 140688 | [140688-kino-no-tabi-the-beautiful-world.json](./140688-kino-no-tabi-the-beautiful-world.json) |
 | Kino One | 54148 | [54148-kino-one.json](./54148-kino-one.json) |
 | KinoCon! Defend My Sweet Home! | 204396 | [204396-kinocon-defend-my-sweet-home.json](./204396-kinocon-defend-my-sweet-home.json) |
 | Kinoko | 138584 | [138584-kinoko.json](./138584-kinoko.json) |
@@ -5815,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokopa's Atlas | 152182 | [152182-kokopas-atlas.json](./152182-kokopas-atlas.json) |
 | Kokoro Appliqué | 407284 | [407284-kokoro-applique.json](./407284-kokoro-applique.json) |
 | Kokoro Clover Infinite Phantasm | 416056 | [416056-kokoro-clover-infinite-phantasm.json](./416056-kokoro-clover-infinite-phantasm.json) |
+| Kokoro Clover Part1 | 140687 | [140687-kokoro-clover-part1.json](./140687-kokoro-clover-part1.json) |
 | Kokoro Clover Part2 | 142151 | [142151-kokoro-clover-part2.json](./142151-kokoro-clover-part2.json) |
 | Kokoro Clover Season 1 | 204950 | [204950-kokoro-clover-season-1.json](./204950-kokoro-clover-season-1.json) |
 | Kokoro Clover Sun: Prehistoric Invaders! | 321083 | [321083-kokoro-clover-sun-prehistoric-invaders.json](./321083-kokoro-clover-sun-prehistoric-invaders.json) |
