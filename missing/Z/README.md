@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hunter: Mobile Shooting Game | 159239 | [159239-zombie-hunter-mobile-shooting-game.json](./159239-zombie-hunter-mobile-shooting-game.json) |
 | Zombie Hunters | 21552 | [21552-zombie-hunters.json](./21552-zombie-hunters.json) |
 | Zombie Hunters 2 | 21553 | [21553-zombie-hunters-2.json](./21553-zombie-hunters-2.json) |
+| Zombie Hunters VR: Surge of Monsters | 104732 | [104732-zombie-hunters-vr-surge-of-monsters.json](./104732-zombie-hunters-vr-surge-of-monsters.json) |
 | Zombie Hustle | 152632 | [152632-zombie-hustle.json](./152632-zombie-hustle.json) |
 | Zombie I Scream | 63540 | [63540-zombie-i-scream.json](./63540-zombie-i-scream.json) |
 | Zombie in my city | 29451 | [29451-zombie-in-my-city.json](./29451-zombie-in-my-city.json) |
@@ -2335,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
 | Zombies in Metropolis | 230898 | [230898-zombies-in-metropolis.json](./230898-zombies-in-metropolis.json) |
 | Zombies in Space | 143602 | [143602-zombies-in-space.json](./143602-zombies-in-space.json) |
+| Zombies in the Dark | 113786 | [113786-zombies-in-the-dark.json](./113786-zombies-in-the-dark.json) |
 | Zombies in the Forest | 115902 | [115902-zombies-in-the-forest.json](./115902-zombies-in-the-forest.json) |
 | Zombies In Valkeala | 369750 | [369750-zombies-in-valkeala.json](./369750-zombies-in-valkeala.json) |
 | Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
