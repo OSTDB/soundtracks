@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Hiro | 81617 | [81617-factory-hiro.json](./81617-factory-hiro.json) |
 | Factory idle | 95942 | [95942-factory-idle.json](./95942-factory-idle.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
+| Factory Infection | 51469 | [51469-factory-infection.json](./51469-factory-infection.json) |
 | Factory Islands | 288797 | [288797-factory-islands.json](./288797-factory-islands.json) |
 | Factory Life | 359635 | [359635-factory-life.json](./359635-factory-life.json) |
 | Factory Magnate | 142569 | [142569-factory-magnate.json](./142569-factory-magnate.json) |
