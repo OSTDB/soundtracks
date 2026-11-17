@@ -4627,6 +4627,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heliostar: Space Galleon | 387814 | [387814-heliostar-space-galleon.json](./387814-heliostar-space-galleon.json) |
 | Heliotrope: Sore wa Shi ni Itaru Kami no Ai | 68399 | [68399-heliotrope-sore-wa-shi-ni-itaru-kami-no-ai.json](./68399-heliotrope-sore-wa-shi-ni-itaru-kami-no-ai.json) |
 | Heliotropism | 153848 | [153848-heliotropism.json](./153848-heliotropism.json) |
+| Helious | 18634 | [18634-helious.json](./18634-helious.json) |
+| Helious II | 18635 | [18635-helious-ii.json](./18635-helious-ii.json) |
 | Helipopper | 317433 | [317433-helipopper.json](./317433-helipopper.json) |
 | HeliSquad: Covert Operations | 204338 | [204338-helisquad-covert-operations.json](./204338-helisquad-covert-operations.json) |
 | Helium | 33731 | [33731-helium.json](./33731-helium.json) |
