@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Monster: Blue Survivor | 223976 | [223976-rainbow-monster-blue-survivor.json](./223976-rainbow-monster-blue-survivor.json) |
 | Rainbow Moon | 5026 | [5026-rainbow-moon.json](./5026-rainbow-moon.json) |
 | Rainbow Moon + Rainbow Skies Strategy RPG Bundle | 287167 | [287167-rainbow-moon-rainbow-skies-strategy-rpg-bundle.json](./287167-rainbow-moon-rainbow-skies-strategy-rpg-bundle.json) |
+| Rainbow Moon: Limited Edition | 166255 | [166255-rainbow-moon-limited-edition.json](./166255-rainbow-moon-limited-edition.json) |
 | Rainbow Mosaics 11: Helper's Valentine | 337618 | [337618-rainbow-mosaics-11-helpers-valentine.json](./337618-rainbow-mosaics-11-helpers-valentine.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
 | Rainbow Mosaics 13: Detective Helper | 294686 | [294686-rainbow-mosaics-13-detective-helper.json](./294686-rainbow-mosaics-13-detective-helper.json) |
