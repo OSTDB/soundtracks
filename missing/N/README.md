@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N-nyuu | 412028 | [412028-n-nyuu.json](./412028-n-nyuu.json) |
 | N-raged | 180037 | [180037-n-raged.json](./180037-n-raged.json) |
 | N-Sub | 364844 | [364844-n-sub.json](./364844-n-sub.json) |
+| N-Sub | 6120 | [6120-n-sub.json](./6120-n-sub.json) |
 | N-Warp Daisakusen | 37735 | [37735-n-warp-daisakusen.json](./37735-n-warp-daisakusen.json) |
 | N?na, Ha?e F?aith | 128757 | [128757-n-na-ha-e-f-aith.json](./128757-n-na-ha-e-f-aith.json) |
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
@@ -3234,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netherspire | 403686 | [403686-netherspire.json](./403686-netherspire.json) |
 | Netherverse | 235529 | [235529-netherverse.json](./235529-netherverse.json) |
 | Netherworld | 113403 | [113403-netherworld.json](./113403-netherworld.json) |
+| Netherworld | 12451 | [12451-netherworld.json](./12451-netherworld.json) |
 | Netherworld Covenant | 317973 | [317973-netherworld-covenant.json](./317973-netherworld-covenant.json) |
 | Netherworld: Beyond Time I Stand | 172507 | [172507-netherworld-beyond-time-i-stand.json](./172507-netherworld-beyond-time-i-stand.json) |
 | Netherwyn | 423364 | [423364-netherwyn.json](./423364-netherwyn.json) |
@@ -3482,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
 | Neverliria | 106153 | [106153-neverliria.json](./106153-neverliria.json) |
 | Neverlooted Dungeon | 131231 | [131231-neverlooted-dungeon.json](./131231-neverlooted-dungeon.json) |
+| Nevermind | 12452 | [12452-nevermind.json](./12452-nevermind.json) |
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
 | Nevermind This | 244123 | [244123-nevermind-this.json](./244123-nevermind-this.json) |
 | NeverMine | 32306 | [32306-nevermine.json](./32306-nevermine.json) |
@@ -4796,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Hike | 288696 | [288696-night-hike.json](./288696-night-hike.json) |
 | Night Hike | 385376 | [385376-night-hike.json](./385376-night-hike.json) |
 | Night House | 57503 | [57503-night-house.json](./57503-night-house.json) |
+| Night Hunter | 12453 | [12453-night-hunter.json](./12453-night-hunter.json) |
 | Night Hunter | 173380 | [173380-night-hunter.json](./173380-night-hunter.json) |
 | Night in Delirium | 372725 | [372725-night-in-delirium.json](./372725-night-in-delirium.json) |
 | Night in Riverager | 143203 | [143203-night-in-riverager.json](./143203-night-in-riverager.json) |
@@ -5900,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
 | Ninja Prime: Tap Quest | 241632 | [241632-ninja-prime-tap-quest.json](./241632-ninja-prime-tap-quest.json) |
+| Ninja Princess | 6119 | [6119-ninja-princess.json](./6119-ninja-princess.json) |
 | Ninja Prophecy | 289490 | [289490-ninja-prophecy.json](./289490-ninja-prophecy.json) |
 | Ninja Pug | 25770 | [25770-ninja-pug.json](./25770-ninja-pug.json) |
 | Ninja Puzzle | 97066 | [97066-ninja-puzzle.json](./97066-ninja-puzzle.json) |
