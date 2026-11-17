@@ -1659,7 +1659,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Date: Doki-doki Kokuhaku Daisakusen | 360723 | [360723-magical-date-doki-doki-kokuhaku-daisakusen.json](./360723-magical-date-doki-doki-kokuhaku-daisakusen.json) |
 | Magical Days: The Brats' Parade | 358326 | [358326-magical-days-the-brats-parade.json](./358326-magical-days-the-brats-parade.json) |
 | Magical Deathpair | 186855 | [186855-magical-deathpair.json](./186855-magical-deathpair.json) |
-| Magical Delicacy | 238948 | [238948-magical-delicacy.json](./238948-magical-delicacy.json) |
 | Magical Diary: Horse Hall | 28035 | [28035-magical-diary-horse-hall.json](./28035-magical-diary-horse-hall.json) |
 | Magical Diary: Secrets Sharing | 85271 | [85271-magical-diary-secrets-sharing.json](./85271-magical-diary-secrets-sharing.json) |
 | Magical Diary: Wolf Hall | 113743 | [113743-magical-diary-wolf-hall.json](./113743-magical-diary-wolf-hall.json) |
