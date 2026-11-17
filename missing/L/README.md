@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Chaos | 237028 | [237028-labyrinth-of-chaos.json](./237028-labyrinth-of-chaos.json) |
 | Labyrinth of Crete | 25327 | [25327-labyrinth-of-crete.json](./25327-labyrinth-of-crete.json) |
 | Labyrinth of death | 191177 | [191177-labyrinth-of-death.json](./191177-labyrinth-of-death.json) |
+| Labyrinth of Doom | 424746 | [424746-labyrinth-of-doom.json](./424746-labyrinth-of-doom.json) |
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
 | Labyrinth of Galleria: Coven of Dusk - Limited Edition | 166257 | [166257-labyrinth-of-galleria-coven-of-dusk-limited-edition.json](./166257-labyrinth-of-galleria-coven-of-dusk-limited-edition.json) |
 | Labyrinth of Galleria: The Moon Society | 126008 | [126008-labyrinth-of-galleria-the-moon-society.json](./126008-labyrinth-of-galleria-the-moon-society.json) |
