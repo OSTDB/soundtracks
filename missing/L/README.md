@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stonelord | 41911 | [41911-last-stonelord.json](./41911-last-stonelord.json) |
 | Last Stop | 125631 | [125631-last-stop.json](./125631-last-stop.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
+| Last Stop Before Earth | 422274 | [422274-last-stop-before-earth.json](./422274-last-stop-before-earth.json) |
 | Last Stop: Station 66 | 229610 | [229610-last-stop-station-66.json](./229610-last-stop-station-66.json) |
 | Last Story: Dungeon | 320083 | [320083-last-story-dungeon.json](./320083-last-story-dungeon.json) |
 | Last Stretch | 389095 | [389095-last-stretch.json](./389095-last-stretch.json) |
@@ -8125,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lomo Overgrow | 398346 | [398346-lomo-overgrow.json](./398346-lomo-overgrow.json) |
 | Lona: Realm of Colors | 54677 | [54677-lona-realm-of-colors.json](./54677-lona-realm-of-colors.json) |
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
+| Londoleon: Not a Single Penny | 422294 | [422294-londoleon-not-a-single-penny.json](./422294-londoleon-not-a-single-penny.json) |
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London 2012: The Official Video Game | 7055 | [7055-london-2012-the-official-video-game.json](./7055-london-2012-the-official-video-game.json) |
 | London Blitz | 23204 | [23204-london-blitz.json](./23204-london-blitz.json) |
