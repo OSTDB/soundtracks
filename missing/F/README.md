@@ -13124,6 +13124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred Penner's Company Coming | 209566 | [209566-fred-penners-company-coming.json](./209566-fred-penners-company-coming.json) |
 | Fred the Fraud | 108028 | [108028-fred-the-fraud.json](./108028-fred-the-fraud.json) |
 | Fred the Movie: Figglehorn Fling | 320943 | [320943-fred-the-movie-figglehorn-fling.json](./320943-fred-the-movie-figglehorn-fling.json) |
+| Fred the Rubber Ducky | 161452 | [161452-fred-the-rubber-ducky.json](./161452-fred-the-rubber-ducky.json) |
 | Fred Versus | 200044 | [200044-fred-versus.json](./200044-fred-versus.json) |
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
 | Fred's Idle Garden | 373426 | [373426-freds-idle-garden.json](./373426-freds-idle-garden.json) |
@@ -16000,6 +16001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
 | Future Games | 28471 | [28471-future-games.json](./28471-future-games.json) |
 | Future Ghost | 86230 | [86230-future-ghost.json](./86230-future-ghost.json) |
+| Future Girls | 161445 | [161445-future-girls.json](./161445-future-girls.json) |
 | Future GPX Cyber Formula: Road to the Evolution | 4150 | [4150-future-gpx-cyber-formula-road-to-the-evolution.json](./4150-future-gpx-cyber-formula-road-to-the-evolution.json) |
 | Future GPX Cyber Formura Road to the Infinity 2 | 143244 | [143244-future-gpx-cyber-formura-road-to-the-infinity-2.json](./143244-future-gpx-cyber-formura-road-to-the-infinity-2.json) |
 | Future GPX Cyber Formura Road to the Infinity 4 | 143245 | [143245-future-gpx-cyber-formura-road-to-the-infinity-4.json](./143245-future-gpx-cyber-formura-road-to-the-infinity-4.json) |
