@@ -13574,6 +13574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Collidalot | 111148 | [111148-collidalot.json](./111148-collidalot.json) |
 | Collide | 87772 | [87772-collide.json](./87772-collide.json) |
+| Collide-a-Ball | 57291 | [57291-collide-a-ball.json](./57291-collide-a-ball.json) |
 | Collide-a-Ball 2 | 123297 | [123297-collide-a-ball-2.json](./123297-collide-a-ball-2.json) |
 | Collider | 116268 | [116268-collider.json](./116268-collider.json) |
 | Collider | 35186 | [35186-collider.json](./35186-collider.json) |
@@ -22842,6 +22843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Digital Triple Features - Adventure Pack | 99805 | [99805-curve-digital-triple-features-adventure-pack.json](./99805-curve-digital-triple-features-adventure-pack.json) |
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
 | Curve Fever 2 | 63080 | [63080-curve-fever-2.json](./63080-curve-fever-2.json) |
+| Curve Fever 3 | 57255 | [57255-curve-fever-3.json](./57255-curve-fever-3.json) |
 | Curve Fever Pro | 115841 | [115841-curve-fever-pro.json](./115841-curve-fever-pro.json) |
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curveball | 96590 | [96590-curveball.json](./96590-curveball.json) |
