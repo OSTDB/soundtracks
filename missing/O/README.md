@@ -209,7 +209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obesity Simulator | 264705 | [264705-obesity-simulator.json](./264705-obesity-simulator.json) |
 | Obey | 20350 | [20350-obey.json](./20350-obey.json) |
 | Obey Her or Else | 248434 | [248434-obey-her-or-else.json](./248434-obey-her-or-else.json) |
-| Obey Me | 118205 | [118205-obey-me.json](./118205-obey-me.json) |
 | Obey Me: Complete Edition | 225468 | [225468-obey-me-complete-edition.json](./225468-obey-me-complete-edition.json) |
 | Obey Me! Nightbringer | 242916 | [242916-obey-me-nightbringer.json](./242916-obey-me-nightbringer.json) |
 | Obey Me! Sinner's Choice: Lucifer | 396555 | [396555-obey-me-sinners-choice-lucifer.json](./396555-obey-me-sinners-choice-lucifer.json) |
@@ -907,7 +906,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Ash and Dust | 313253 | [313253-of-ash-and-dust.json](./313253-of-ash-and-dust.json) |
 | Of Ash and Steel | 322389 | [322389-of-ash-and-steel.json](./322389-of-ash-and-steel.json) |
 | Of Ash and Steel: Shattered Faith | 418063 | [418063-of-ash-and-steel-shattered-faith.json](./418063-of-ash-and-steel-shattered-faith.json) |
-| Of Bird and Cage | 117848 | [117848-of-bird-and-cage.json](./117848-of-bird-and-cage.json) |
 | Of Blades & Tails | 187655 | [187655-of-blades-and-tails.json](./187655-of-blades-and-tails.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Blood and Shadows | 183109 | [183109-of-blood-and-shadows.json](./183109-of-blood-and-shadows.json) |
@@ -6264,12 +6262,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcoming Obstacles | 146362 | [146362-overcoming-obstacles.json](./146362-overcoming-obstacles.json) |
 | Overcooked: Gourmet Edition | 42933 | [42933-overcooked-gourmet-edition.json](./42933-overcooked-gourmet-edition.json) |
 | Overcooked! + Overcooked! 2 | 135963 | [135963-overcooked-overcooked-2.json](./135963-overcooked-overcooked-2.json) |
-| Overcooked! 2: Campfire Cook Off | 116659 | [116659-overcooked-2-campfire-cook-off.json](./116659-overcooked-2-campfire-cook-off.json) |
 | Overcooked! 2: Chinese New Year | 143177 | [143177-overcooked-2-chinese-new-year.json](./143177-overcooked-2-chinese-new-year.json) |
 | Overcooked! 2: Gourmet Edition | 132976 | [132976-overcooked-2-gourmet-edition.json](./132976-overcooked-2-gourmet-edition.json) |
 | Overcooked! 2: Kevin's Christmas Cracker | 143176 | [143176-overcooked-2-kevins-christmas-cracker.json](./143176-overcooked-2-kevins-christmas-cracker.json) |
 | Overcooked! 2: Moon Harvest | 143180 | [143180-overcooked-2-moon-harvest.json](./143180-overcooked-2-moon-harvest.json) |
-| Overcooked! 2: Night of the Hangry Horde | 120177 | [120177-overcooked-2-night-of-the-hangry-horde.json](./120177-overcooked-2-night-of-the-hangry-horde.json) |
 | Overcooked! 2: Spring Festival | 143179 | [143179-overcooked-2-spring-festival.json](./143179-overcooked-2-spring-festival.json) |
 | Overcooked! 2: Sun's Out Buns Out | 135386 | [135386-overcooked-2-suns-out-buns-out.json](./135386-overcooked-2-suns-out-buns-out.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
