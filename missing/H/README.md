@@ -14171,6 +14171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydroactive | 76372 | [76372-hydroactive.json](./76372-hydroactive.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofoil Surfing | 379251 | [379251-hydrofoil-surfing.json](./379251-hydrofoil-surfing.json) |
+| Hydrofool | 41054 | [41054-hydrofool.json](./41054-hydrofool.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
 | Hydrogen | 295875 | [295875-hydrogen.json](./295875-hydrogen.json) |
 | Hydrogen Game | 295201 | [295201-hydrogen-game.json](./295201-hydrogen-game.json) |
