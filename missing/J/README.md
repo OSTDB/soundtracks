@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy's Fruity Adventure | 288709 | [288709-jimmys-fruity-adventure.json](./288709-jimmys-fruity-adventure.json) |
 | Jimmy's Journey | 121492 | [121492-jimmys-journey.json](./121492-jimmys-journey.json) |
 | Jimmy's Lost Fruits Journey 2: Veggocalypse | 265695 | [265695-jimmys-lost-fruits-journey-2-veggocalypse.json](./265695-jimmys-lost-fruits-journey-2-veggocalypse.json) |
+| Jimmy's Lost His Marbles | 79430 | [79430-jimmys-lost-his-marbles.json](./79430-jimmys-lost-his-marbles.json) |
 | Jimmy's No. 44 House | 356668 | [356668-jimmys-no-44-house.json](./356668-jimmys-no-44-house.json) |
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
 | JimmyQuest | 299146 | [299146-jimmyquest.json](./299146-jimmyquest.json) |
