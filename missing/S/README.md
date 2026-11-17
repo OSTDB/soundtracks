@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
 | Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
 | Samoliotik: Deluxe Edition | 53575 | [53575-samoliotik-deluxe-edition.json](./53575-samoliotik-deluxe-edition.json) |
+| Samopal Protocol | 424101 | [424101-samopal-protocol.json](./424101-samopal-protocol.json) |
 | SamoQ - Quiz Hyoryu Kyoushitsu | 98063 | [98063-samoq-quiz-hyoryu-kyoushitsu.json](./98063-samoq-quiz-hyoryu-kyoushitsu.json) |
 | SamOrai | 314779 | [314779-samorai.json](./314779-samorai.json) |
 | Samorost | 15731 | [15731-samorost.json](./15731-samorost.json) |
@@ -34213,6 +34214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Sundae | 186642 | [186642-sunday-sundae.json](./186642-sunday-sundae.json) |
 | Sunday vs. Magazine: Shuuketsu! Choujou Daikessen | 42841 | [42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json](./42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json) |
 | Sunday x Magazine: Nettou! Dream Nine | 61451 | [61451-sunday-x-magazine-nettou-dream-nine.json](./61451-sunday-x-magazine-nettou-dream-nine.json) |
+| Sundays on the Ridge | 424078 | [424078-sundays-on-the-ridge.json](./424078-sundays-on-the-ridge.json) |
 | Sundel Bolong Revenge | 188343 | [188343-sundel-bolong-revenge.json](./188343-sundel-bolong-revenge.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | Sunder For People Who Don't Have Time To Play Sunder | 296041 | [296041-sunder-for-people-who-dont-have-time-to-play-sunder.json](./296041-sunder-for-people-who-dont-have-time-to-play-sunder.json) |
