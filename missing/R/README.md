@@ -7796,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
 | Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
 | Rhentsu | 193642 | [193642-rhentsu.json](./193642-rhentsu.json) |
+| Rhetoric Public Speaking Game | 197690 | [197690-rhetoric-public-speaking-game.json](./197690-rhetoric-public-speaking-game.json) |
 | Rheum | 101269 | [101269-rheum.json](./101269-rheum.json) |
 | RHI Roller Hockey '95 | 42468 | [42468-rhi-roller-hockey-95.json](./42468-rhi-roller-hockey-95.json) |
 | Rhianna Ford & The Da Vinci Letter | 64620 | [64620-rhianna-ford-and-the-da-vinci-letter.json](./64620-rhianna-ford-and-the-da-vinci-letter.json) |
