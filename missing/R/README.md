@@ -9264,7 +9264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual Bound | 250120 | [250120-ritual-bound.json](./250120-ritual-bound.json) |
 | Ritual Chamber | 317713 | [317713-ritual-chamber.json](./317713-ritual-chamber.json) |
 | Ritual Night | 189853 | [189853-ritual-night.json](./189853-ritual-night.json) |
-| Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual of the Moon | 113185 | [113185-ritual-of-the-moon.json](./113185-ritual-of-the-moon.json) |
 | Ritual on the Eve | 112200 | [112200-ritual-on-the-eve.json](./112200-ritual-on-the-eve.json) |
 | Ritual Party | 339973 | [339973-ritual-party.json](./339973-ritual-party.json) |
