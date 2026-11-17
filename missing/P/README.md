@@ -5747,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrin | 273194 | [273194-petrin.json](./273194-petrin.json) |
 | Petris | 141595 | [141595-petris.json](./141595-petris.json) |
 | Petris | 291946 | [291946-petris.json](./291946-petris.json) |
+| Petro Hunter | 419255 | [419255-petro-hunter.json](./419255-petro-hunter.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
@@ -11479,6 +11480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ploko | 258282 | [258282-ploko.json](./258282-ploko.json) |
 | Plokoth | 133315 | [133315-plokoth.json](./133315-plokoth.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
+| Ploop | 419299 | [419299-ploop.json](./419299-ploop.json) |
 | Plop Saga | 207478 | [207478-plop-saga.json](./207478-plop-saga.json) |
 | Plop, Fizz, Boom! | 297418 | [297418-plop-fizz-boom.json](./297418-plop-fizz-boom.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
@@ -18485,6 +18487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project V6 | 386626 | [386626-project-v6.json](./386626-project-v6.json) |
 | Project Valkyrie | 192204 | [192204-project-valkyrie.json](./192204-project-valkyrie.json) |
+| Project Vanguard | 419259 | [419259-project-vanguard.json](./419259-project-vanguard.json) |
 | Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
 | Project Venus.RP | 165823 | [165823-project-venus-rp.json](./165823-project-venus-rp.json) |
 | Project Veritex | 74839 | [74839-project-veritex.json](./74839-project-veritex.json) |
