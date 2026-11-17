@@ -1644,7 +1644,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazue World | 328056 | [328056-kazue-world.json](./328056-kazue-world.json) |
 | Kazue World 2 | 328055 | [328055-kazue-world-2.json](./328055-kazue-world-2.json) |
 | Kazuma Kaneko: Refined Arts Pack vol.2 | 409943 | [409943-kazuma-kaneko-refined-arts-pack-vol-2.json](./409943-kazuma-kaneko-refined-arts-pack-vol-2.json) |
-| Kazuma Kaneko's Tsukuyomi | 387666 | [387666-kazuma-kanekos-tsukuyomi.json](./387666-kazuma-kanekos-tsukuyomi.json) |
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
 | Kazuma Kaneko's Tsukuyomi: Refined Arts Pack vol.1 | 390919 | [390919-kazuma-kanekos-tsukuyomi-refined-arts-pack-vol-1.json](./390919-kazuma-kanekos-tsukuyomi-refined-arts-pack-vol-1.json) |
 | KBF: Knight Bar Fight | 291820 | [291820-kbf-knight-bar-fight.json](./291820-kbf-knight-bar-fight.json) |
@@ -2306,7 +2305,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keys | 83543 | [83543-keys.json](./83543-keys.json) |
 | Keys and Kastles | 260248 | [260248-keys-and-kastles.json](./260248-keys-and-kastles.json) |
 | Keys of a Gamespace | 330689 | [330689-keys-of-a-gamespace.json](./330689-keys-of-a-gamespace.json) |
-| Keys of Fury | 356993 | [356993-keys-of-fury.json](./356993-keys-of-fury.json) |
 | Keys of The Kingdom | 209840 | [209840-keys-of-the-kingdom.json](./209840-keys-of-the-kingdom.json) |
 | Keys to Wonderland | 399623 | [399623-keys-to-wonderland.json](./399623-keys-to-wonderland.json) |
 | Keys, Please | 272176 | [272176-keys-please.json](./272176-keys-please.json) |
@@ -3166,7 +3164,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone: Shadow Fall | 1937 | [1937-killzone-shadow-fall.json](./1937-killzone-shadow-fall.json) |
 | Killzone: Shadow Fall - Intercept | 21609 | [21609-killzone-shadow-fall-intercept.json](./21609-killzone-shadow-fall-intercept.json) |
 | Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
-| Kiln | 386721 | [386721-kiln.json](./386721-kiln.json) |
 | Kiln People Revelations | 382598 | [382598-kiln-people-revelations.json](./382598-kiln-people-revelations.json) |
 | Kiln: Cats & Dogs Decoration Pack | 407414 | [407414-kiln-cats-and-dogs-decoration-pack.json](./407414-kiln-cats-and-dogs-decoration-pack.json) |
 | Kiln: Pride Decoration Pack | 407415 | [407415-kiln-pride-decoration-pack.json](./407415-kiln-pride-decoration-pack.json) |
@@ -4036,7 +4033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom's Item Shop | 85228 | [85228-kingdoms-item-shop.json](./85228-kingdoms-item-shop.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdom's Life | 233350 | [233350-kingdoms-life.json](./233350-kingdoms-life.json) |
-| Kingdom's Return: Time-Eating Fruit and the Ancient Monster | 381111 | [381111-kingdoms-return-time-eating-fruit-and-the-ancient-monster.json](./381111-kingdoms-return-time-eating-fruit-and-the-ancient-monster.json) |
 | Kingdom's Return: Time-Eating Fruit and the Ancient Monster - "Azure Striker Gunvolt" Crossover Character Skin | 395690 | [395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json](./395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json) |
 | KingdomDefense | 172102 | [172102-kingdomdefense.json](./172102-kingdomdefense.json) |
 | Kingdomfall | 169401 | [169401-kingdomfall.json](./169401-kingdomfall.json) |
