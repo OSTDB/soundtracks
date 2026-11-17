@@ -4827,6 +4827,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Gods Among Us - Blackest Night Pack 1 | 75474 | [75474-injustice-gods-among-us-blackest-night-pack-1.json](./75474-injustice-gods-among-us-blackest-night-pack-1.json) |
 | Injustice: Gods Among Us - Blackest Night Pack 2 | 75476 | [75476-injustice-gods-among-us-blackest-night-pack-2.json](./75476-injustice-gods-among-us-blackest-night-pack-2.json) |
 | Injustice: Gods Among Us - Collector's Edition | 75426 | [75426-injustice-gods-among-us-collectors-edition.json](./75426-injustice-gods-among-us-collectors-edition.json) |
+| Injustice: Gods Among Us - Compat Pack 1: Flashpoint Batman Skin | 422928 | [422928-injustice-gods-among-us-compat-pack-1-flashpoint-batman-skin.json](./422928-injustice-gods-among-us-compat-pack-1-flashpoint-batman-skin.json) |
+| Injustice: Gods Among Us - Compat Pack 2: Luchador Bane Skin | 422929 | [422929-injustice-gods-among-us-compat-pack-2-luchador-bane-skin.json](./422929-injustice-gods-among-us-compat-pack-2-luchador-bane-skin.json) |
+| Injustice: Gods Among Us - Compat Pack 4: Classic Ares Skin | 422930 | [422930-injustice-gods-among-us-compat-pack-4-classic-ares-skin.json](./422930-injustice-gods-among-us-compat-pack-4-classic-ares-skin.json) |
+| Injustice: Gods Among Us - Compat Pack 5: John Stewart Green Lantern Skin | 422931 | [422931-injustice-gods-among-us-compat-pack-5-john-stewart-green-lantern-skin.json](./422931-injustice-gods-among-us-compat-pack-5-john-stewart-green-lantern-skin.json) |
+| Injustice: Gods Among Us - Compat Pack 6: Cyborg Superman Skin | 422933 | [422933-injustice-gods-among-us-compat-pack-6-cyborg-superman-skin.json](./422933-injustice-gods-among-us-compat-pack-6-cyborg-superman-skin.json) |
 | Injustice: Gods Among Us - Flashpoint Skin Pack | 75479 | [75479-injustice-gods-among-us-flashpoint-skin-pack.json](./75479-injustice-gods-among-us-flashpoint-skin-pack.json) |
 | Injustice: Gods Among Us - General Zod | 75440 | [75440-injustice-gods-among-us-general-zod.json](./75440-injustice-gods-among-us-general-zod.json) |
 | Injustice: Gods Among Us - Killing Joke Pack | 75473 | [75473-injustice-gods-among-us-killing-joke-pack.json](./75473-injustice-gods-among-us-killing-joke-pack.json) |
