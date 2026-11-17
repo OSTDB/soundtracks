@@ -641,7 +641,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Come Easy Golf | 145739 | [145739-easy-come-easy-golf.json](./145739-easy-come-easy-golf.json) |
 | Easy Cute Clean Up Lesson | 320469 | [320469-easy-cute-clean-up-lesson.json](./320469-easy-cute-clean-up-lesson.json) |
 | Easy Dungeon | 313938 | [313938-easy-dungeon.json](./313938-easy-dungeon.json) |
-| Easy Flight Simulator | 159385 | [159385-easy-flight-simulator.json](./159385-easy-flight-simulator.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
 | Easy Gems Free: Amazing Match 3 Puzzle | 89177 | [89177-easy-gems-free-amazing-match-3-puzzle.json](./89177-easy-gems-free-amazing-match-3-puzzle.json) |
@@ -750,7 +749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eaves | 244439 | [244439-eaves.json](./244439-eaves.json) |
 | EB Worlds | 153618 | [153618-eb-worlds.json](./153618-eb-worlds.json) |
 | Eba & Egg: A Hatch Trip | 54967 | [54967-eba-and-egg-a-hatch-trip.json](./54967-eba-and-egg-a-hatch-trip.json) |
-| eBall | 117546 | [117546-eball.json](./117546-eball.json) |
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
@@ -764,7 +762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebb | 409903 | [409903-ebb.json](./409903-ebb.json) |
 | Ebbil: Alternative Bible | 284703 | [284703-ebbil-alternative-bible.json](./284703-ebbil-alternative-bible.json) |
 | EBE | 170595 | [170595-ebe.json](./170595-ebe.json) |
-| Ebenezer and the Invisible World | 244457 | [244457-ebenezer-and-the-invisible-world.json](./244457-ebenezer-and-the-invisible-world.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | Eberouge 2 | 171968 | [171968-eberouge-2.json](./171968-eberouge-2.json) |
 | Eberouge Special: Koi to Mahou no Gakuen Seikatsu | 171967 | [171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json](./171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json) |
@@ -2217,7 +2214,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Salar | 332451 | [332451-el-salar.json](./332451-el-salar.json) |
 | El Séquito de Leonor de Aquitania | 321842 | [321842-el-sequito-de-leonor-de-aquitania.json](./321842-el-sequito-de-leonor-de-aquitania.json) |
 | El Shaddai for Android Vol. 1 | 63592 | [63592-el-shaddai-for-android-vol-1.json](./63592-el-shaddai-for-android-vol-1.json) |
-| El Shaddai: Ascension of the Metatron | 212311 | [212311-el-shaddai-ascension-of-the-metatron.json](./212311-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Zero Nine Reversi | 398072 | [398072-el-shaddai-zero-nine-reversi.json](./398072-el-shaddai-zero-nine-reversi.json) |
 | El Silla | 139288 | [139288-el-silla.json](./139288-el-silla.json) |
@@ -2227,7 +2223,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Taco Diablo | 115127 | [115127-el-taco-diablo.json](./115127-el-taco-diablo.json) |
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
 | El Tesoro de Isla Alcachofa | 94443 | [94443-el-tesoro-de-isla-alcachofa.json](./94443-el-tesoro-de-isla-alcachofa.json) |
-| El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
 | El Viaje de Diciembre | 260494 | [260494-el-viaje-de-diciembre.json](./260494-el-viaje-de-diciembre.json) |
 | El Virus | 345396 | [345396-el-virus.json](./345396-el-virus.json) |
 | El-Drifto | 295750 | [295750-el-drifto.json](./295750-el-drifto.json) |
@@ -2318,7 +2313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder's Grace: Rise of the Mobley | 248667 | [248667-elders-grace-rise-of-the-mobley.json](./248667-elders-grace-rise-of-the-mobley.json) |
 | Elder's Grace: Unchained | 266309 | [266309-elders-grace-unchained.json](./266309-elders-grace-unchained.json) |
 | Elder's Will | 293845 | [293845-elders-will.json](./293845-elders-will.json) |
-| Elderand | 151787 | [151787-elderand.json](./151787-elderand.json) |
 | Elderborn: Metal AF Edition | 154951 | [154951-elderborn-metal-af-edition.json](./154951-elderborn-metal-af-edition.json) |
 | Elderborn: Vengeance | 408849 | [408849-elderborn-vengeance.json](./408849-elderborn-vengeance.json) |
 | Eldercraft: Mountaineers | 336591 | [336591-eldercraft-mountaineers.json](./336591-eldercraft-mountaineers.json) |
@@ -2328,7 +2322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elders K.O. | 398379 | [398379-elders-k-o.json](./398379-elders-k-o.json) |
 | Eldertal | 422699 | [422699-eldertal.json](./422699-eldertal.json) |
 | Eldertrail | 197489 | [197489-eldertrail.json](./197489-eldertrail.json) |
-| Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
 | Eldervire | 414218 | [414218-eldervire.json](./414218-eldervire.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
@@ -2608,7 +2601,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Industry | 84033 | [84033-element-industry.json](./84033-element-industry.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Element Runner | 200352 | [200352-element-runner.json](./200352-element-runner.json) |
-| Element Space | 106401 | [106401-element-space.json](./106401-element-space.json) |
 | Element TD 2 | 129388 | [129388-element-td-2.json](./129388-element-td-2.json) |
 | Element TD 2: Mazing Expansion | 228198 | [228198-element-td-2-mazing-expansion.json](./228198-element-td-2-mazing-expansion.json) |
 | Element X | 160009 | [160009-element-x.json](./160009-element-x.json) |
@@ -2687,7 +2679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Survivors: Roguelike | 236472 | [236472-elemental-survivors-roguelike.json](./236472-elemental-survivors-roguelike.json) |
 | Elemental Tiles | 180631 | [180631-elemental-tiles.json](./180631-elemental-tiles.json) |
 | Elemental Towers | 346842 | [346842-elemental-towers.json](./346842-elemental-towers.json) |
-| Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
 | Elemental War 2 | 159268 | [159268-elemental-war-2.json](./159268-elemental-war-2.json) |
 | Elemental War Clash | 343448 | [343448-elemental-war-clash.json](./343448-elemental-war-clash.json) |
 | Elemental War: Dawn of the Crystals | 236275 | [236275-elemental-war-dawn-of-the-crystals.json](./236275-elemental-war-dawn-of-the-crystals.json) |
@@ -3491,7 +3482,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Race | 316932 | [316932-emerald-race.json](./316932-emerald-race.json) |
 | Emerald Rush | 385417 | [385417-emerald-rush.json](./385417-emerald-rush.json) |
 | Emerald Rush | 97157 | [97157-emerald-rush.json](./97157-emerald-rush.json) |
-| Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
 | Emerald Tale | 71930 | [71930-emerald-tale.json](./71930-emerald-tale.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
 | Emerald Wasp | 251268 | [251268-emerald-wasp.json](./251268-emerald-wasp.json) |
@@ -3819,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Four Kingdoms | 38893 | [38893-empire-four-kingdoms.json](./38893-empire-four-kingdoms.json) |
 | Empire: Galaxy Burning | 274622 | [274622-empire-galaxy-burning.json](./274622-empire-galaxy-burning.json) |
 | Empire: Sound of the North | 311511 | [311511-empire-sound-of-the-north.json](./311511-empire-sound-of-the-north.json) |
+| Empire: The Deck Building Strategy Game | 89447 | [89447-empire-the-deck-building-strategy-game.json](./89447-empire-the-deck-building-strategy-game.json) |
 | Empire: Total War - Downloadable Content Collection | 77238 | [77238-empire-total-war-downloadable-content-collection.json](./77238-empire-total-war-downloadable-content-collection.json) |
 | Empire: Total War - Elite Units of America | 82084 | [82084-empire-total-war-elite-units-of-america.json](./82084-empire-total-war-elite-units-of-america.json) |
 | Empire: Total War - Elite Units of the East | 82083 | [82083-empire-total-war-elite-units-of-the-east.json](./82083-empire-total-war-elite-units-of-the-east.json) |
@@ -4061,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encodya | 117310 | [117310-encodya.json](./117310-encodya.json) |
 | Encodya: Neon Edition | 209809 | [209809-encodya-neon-edition.json](./209809-encodya-neon-edition.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
+| Encompassed | 89437 | [89437-encompassed.json](./89437-encompassed.json) |
 | Encore | 274949 | [274949-encore.json](./274949-encore.json) |
 | Encore | 402625 | [402625-encore.json](./402625-encore.json) |
 | Encore | 403601 | [403601-encore.json](./403601-encore.json) |
@@ -4330,7 +4322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Harvest | 423650 | [423650-endless-harvest.json](./423650-endless-harvest.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
-| Endless Horde | 105890 | [105890-endless-horde.json](./105890-endless-horde.json) |
 | Endless Horizon | 99674 | [99674-endless-horizon.json](./99674-endless-horizon.json) |
 | Endless Horizons | 334382 | [334382-endless-horizons.json](./334382-endless-horizons.json) |
 | Endless Immortal Journey | 282178 | [282178-endless-immortal-journey.json](./282178-endless-immortal-journey.json) |
@@ -4571,7 +4562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone: A World Apart - Distant Places | 193755 | [193755-endzone-a-world-apart-distant-places.json](./193755-endzone-a-world-apart-distant-places.json) |
 | Endzone: A World Apart - Prosperity | 159687 | [159687-endzone-a-world-apart-prosperity.json](./159687-endzone-a-world-apart-prosperity.json) |
 | Endzone: A World Apart - Save the World Edition | 154952 | [154952-endzone-a-world-apart-save-the-world-edition.json](./154952-endzone-a-world-apart-save-the-world-edition.json) |
-| Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
 | Enelia: Dawn of Madness | 216688 | [216688-enelia-dawn-of-madness.json](./216688-enelia-dawn-of-madness.json) |
 | Enemies | 173941 | [173941-enemies.json](./173941-enemies.json) |
@@ -5169,7 +5159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
 | Epic Dumpster Bear 1.5 DX: Dumpster Fire Rebirth | 290824 | [290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json](./290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json) |
-| Epic Dumpster Bear 2: He Who Bears Wins | 135146 | [135146-epic-dumpster-bear-2-he-who-bears-wins.json](./135146-epic-dumpster-bear-2-he-who-bears-wins.json) |
 | Epic Dumpster Bear: Dumpster Fire Redux | 99461 | [99461-epic-dumpster-bear-dumpster-fire-redux.json](./99461-epic-dumpster-bear-dumpster-fire-redux.json) |
 | Epic Dungeon | 66241 | [66241-epic-dungeon.json](./66241-epic-dungeon.json) |
 | Epic Empire | 318732 | [318732-epic-empire.json](./318732-epic-empire.json) |
@@ -5874,8 +5863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Fear 2: Hide And Seek Horror | 308637 | [308637-escape-fear-2-hide-and-seek-horror.json](./308637-escape-fear-2-hide-and-seek-horror.json) |
 | Escape Fear: Hide And Seek Horror | 291653 | [291653-escape-fear-hide-and-seek-horror.json](./291653-escape-fear-hide-and-seek-horror.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
-| Escape First 2 | 119545 | [119545-escape-first-2.json](./119545-escape-first-2.json) |
-| Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
 | Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
 | Escape Fishstop 3D | 149614 | [149614-escape-fishstop-3d.json](./149614-escape-fishstop-3d.json) |
 | Escape Floor 13 | 320650 | [320650-escape-floor-13.json](./320650-escape-floor-13.json) |
@@ -5943,7 +5930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Earth | 121458 | [121458-escape-from-earth.json](./121458-escape-from-earth.json) |
 | Escape from Elm Street | 320295 | [320295-escape-from-elm-street.json](./320295-escape-from-elm-street.json) |
 | Escape From Eternity | 186673 | [186673-escape-from-eternity.json](./186673-escape-from-eternity.json) |
-| Escape from Ever After | 211624 | [211624-escape-from-ever-after.json](./211624-escape-from-ever-after.json) |
 | Escape from Ever After: Onboarding | 303521 | [303521-escape-from-ever-after-onboarding.json](./303521-escape-from-ever-after-onboarding.json) |
 | Escape From Exile | 259041 | [259041-escape-from-exile.json](./259041-escape-from-exile.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
@@ -6505,7 +6491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Tsunami For Brainrots | 402007 | [402007-escape-tsunami-for-brainrots.json](./402007-escape-tsunami-for-brainrots.json) |
 | Escape Tsunami: Take Brainrots! | 388523 | [388523-escape-tsunami-take-brainrots.json](./388523-escape-tsunami-take-brainrots.json) |
 | Escape Tung Sahur Backrooms | 343500 | [343500-escape-tung-sahur-backrooms.json](./343500-escape-tung-sahur-backrooms.json) |
-| Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
 | Escape Up | 392557 | [392557-escape-up.json](./392557-escape-up.json) |
 | Escape Vauban | 183179 | [183179-escape-vauban.json](./183179-escape-vauban.json) |
 | Escape Velocity | 113399 | [113399-escape-velocity.json](./113399-escape-velocity.json) |
@@ -6688,7 +6673,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper: The Collection | 23894 | [23894-esper-the-collection.json](./23894-esper-the-collection.json) |
 | Esperia ~ Uprising of the Scarlet Witch ~ | 126925 | [126925-esperia-uprising-of-the-scarlet-witch.json](./126925-esperia-uprising-of-the-scarlet-witch.json) |
 | Espgaluda | 83808 | [83808-espgaluda.json](./83808-espgaluda.json) |
-| Espgaluda II | 152403 | [152403-espgaluda-ii.json](./152403-espgaluda-ii.json) |
 | Espgaluda II | 6989 | [6989-espgaluda-ii.json](./6989-espgaluda-ii.json) |
 | Espgaluda II: Black Label | 80457 | [80457-espgaluda-ii-black-label.json](./80457-espgaluda-ii-black-label.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
@@ -6702,7 +6686,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espionage: Mafia Evolved | 183632 | [183632-espionage-mafia-evolved.json](./183632-espionage-mafia-evolved.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Espire 1: VR Operative | 68569 | [68569-espire-1-vr-operative.json](./68569-espire-1-vr-operative.json) |
-| Espire 2 | 198228 | [198228-espire-2.json](./198228-espire-2.json) |
 | Espire 2: Mixed Reality Update | 253183 | [253183-espire-2-mixed-reality-update.json](./253183-espire-2-mixed-reality-update.json) |
 | Espire: MR Missions | 377649 | [377649-espire-mr-missions.json](./377649-espire-mr-missions.json) |
 | Espitene | 368070 | [368070-espitene.json](./368070-espitene.json) |
@@ -6771,7 +6754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esports History | 172962 | [172962-esports-history.json](./172962-esports-history.json) |
 | eSports Jigsaw Puzzles | 236551 | [236551-esports-jigsaw-puzzles.json](./236551-esports-jigsaw-puzzles.json) |
 | Esports Legend | 107679 | [107679-esports-legend.json](./107679-esports-legend.json) |
-| Esports Life Tycoon | 118522 | [118522-esports-life-tycoon.json](./118522-esports-life-tycoon.json) |
 | eSports Manager | 171381 | [171381-esports-manager.json](./171381-esports-manager.json) |
 | Esports Manager 2026 | 285684 | [285684-esports-manager-2026.json](./285684-esports-manager-2026.json) |
 | Esports Saga | 95836 | [95836-esports-saga.json](./95836-esports-saga.json) |
@@ -7776,7 +7758,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdawn | 377182 | [377182-everdawn.json](./377182-everdawn.json) |
 | Everdawn Isle | 375129 | [375129-everdawn-isle.json](./375129-everdawn-isle.json) |
 | EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
-| Everdeep Aurora | 252778 | [252778-everdeep-aurora.json](./252778-everdeep-aurora.json) |
 | Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
 | Everdream | 307562 | [307562-everdream.json](./307562-everdream.json) |
@@ -7986,7 +7967,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertile: Battle Arena | 122463 | [122463-evertile-battle-arena.json](./122463-evertile-battle-arena.json) |
 | Evertown | 33782 | [33782-evertown.json](./33782-evertown.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
-| Evertried | 142081 | [142081-evertried.json](./142081-evertried.json) |
 | Evertwine | 206877 | [206877-evertwine.json](./206877-evertwine.json) |
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
 | Everwayne | 295617 | [295617-everwayne.json](./295617-everwayne.json) |
@@ -8466,12 +8446,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evorales | 163020 | [163020-evorales.json](./163020-evorales.json) |
 | Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
 | Evoscape | 325301 | [325301-evoscape.json](./325301-evoscape.json) |
-| Evospace | 114069 | [114069-evospace.json](./114069-evospace.json) |
 | EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
 | Evostrike | 288800 | [288800-evostrike.json](./288800-evostrike.json) |
 | Evotactics | 265370 | [265370-evotactics.json](./265370-evotactics.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
-| Evotinction | 115848 | [115848-evotinction.json](./115848-evotinction.json) |
 | EvoTown | 136408 | [136408-evotown.json](./136408-evotown.json) |
 | EvoWars: New Era | 244525 | [244525-evowars-new-era.json](./244525-evowars-new-era.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
@@ -8930,7 +8908,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exon | 380338 | [380338-exon.json](./380338-exon.json) |
 | Exone Rift | 383671 | [383671-exone-rift.json](./383671-exone-rift.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
-| Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
 | Exoplanet War | 65873 | [65873-exoplanet-war.json](./65873-exoplanet-war.json) |
 | Exoplanet: First Contact | 22781 | [22781-exoplanet-first-contact.json](./22781-exoplanet-first-contact.json) |
@@ -9085,7 +9062,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Oregon | 111423 | [111423-expedition-oregon.json](./111423-expedition-oregon.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
 | Expedition Wildlife | 260618 | [260618-expedition-wildlife.json](./260618-expedition-wildlife.json) |
-| Expedition Zero | 142883 | [142883-expedition-zero.json](./142883-expedition-zero.json) |
 | Expedition: Crushing Depth | 276293 | [276293-expedition-crushing-depth.json](./276293-expedition-crushing-depth.json) |
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
 | Expedition: Shadow World | 332939 | [332939-expedition-shadow-world.json](./332939-expedition-shadow-world.json) |
@@ -9544,7 +9520,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExtremeJobs Knight's Assistant | 107107 | [107107-extremejobs-knights-assistant.json](./107107-extremejobs-knights-assistant.json) |
 | Extremely Common Game of Escape | 319895 | [319895-extremely-common-game-of-escape.json](./319895-extremely-common-game-of-escape.json) |
 | Extremely OK Painting Restoration Studio | 185562 | [185562-extremely-ok-painting-restoration-studio.json](./185562-extremely-ok-painting-restoration-studio.json) |
-| Extremely Powerful Capybaras | 211746 | [211746-extremely-powerful-capybaras.json](./211746-extremely-powerful-capybaras.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeRetroArena | 235887 | [235887-extremeretroarena.json](./235887-extremeretroarena.json) |
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
@@ -9560,7 +9535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | ExZeus | 92099 | [92099-exzeus.json](./92099-exzeus.json) |
 | ExZeus 2 | 47129 | [47129-exzeus-2.json](./47129-exzeus-2.json) |
-| ExZeus: The Complete Collection | 173140 | [173140-exzeus-the-complete-collection.json](./173140-exzeus-the-complete-collection.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eyad and Hala | 186182 | [186182-eyad-and-hala.json](./186182-eyad-and-hala.json) |
