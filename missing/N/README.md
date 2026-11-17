@@ -8036,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nottolot | 290648 | [290648-nottolot.json](./290648-nottolot.json) |
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
 | NotZilla Ice Cream Vendor | 179533 | [179533-notzilla-ice-cream-vendor.json](./179533-notzilla-ice-cream-vendor.json) |
+| Nou City | 429912 | [429912-nou-city.json](./429912-nou-city.json) |
 | Nou wo Kitaeru! Nyanko Shashin de Machigai-sagashi | 266166 | [266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json](./266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json) |
 | Nou wo Kitaeru! Zekkei Shashin de Machigai-sagashi | 261371 | [261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json](./261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
