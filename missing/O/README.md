@@ -6264,7 +6264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcooked: Gourmet Edition | 42933 | [42933-overcooked-gourmet-edition.json](./42933-overcooked-gourmet-edition.json) |
 | Overcooked! + Overcooked! 2 | 135963 | [135963-overcooked-overcooked-2.json](./135963-overcooked-overcooked-2.json) |
 | Overcooked! 2: Campfire Cook Off | 116659 | [116659-overcooked-2-campfire-cook-off.json](./116659-overcooked-2-campfire-cook-off.json) |
-| Overcooked! 2: Carnival of Chaos | 122083 | [122083-overcooked-2-carnival-of-chaos.json](./122083-overcooked-2-carnival-of-chaos.json) |
 | Overcooked! 2: Chinese New Year | 143177 | [143177-overcooked-2-chinese-new-year.json](./143177-overcooked-2-chinese-new-year.json) |
 | Overcooked! 2: Gourmet Edition | 132976 | [132976-overcooked-2-gourmet-edition.json](./132976-overcooked-2-gourmet-edition.json) |
 | Overcooked! 2: Kevin's Christmas Cracker | 143176 | [143176-overcooked-2-kevins-christmas-cracker.json](./143176-overcooked-2-kevins-christmas-cracker.json) |
