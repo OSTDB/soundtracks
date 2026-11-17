@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Crazy Stunts | 367648 | [367648-f1-crazy-stunts.json](./367648-f1-crazy-stunts.json) |
 | F1 Douchuuki | 41711 | [41711-f1-douchuuki.json](./41711-f1-douchuuki.json) |
 | F1 Dream | 44327 | [44327-f1-dream.json](./44327-f1-dream.json) |
+| F1 Exhaust Note | 39926 | [39926-f1-exhaust-note.json](./39926-f1-exhaust-note.json) |
 | F1 GP | 243449 | [243449-f1-gp.json](./243449-f1-gp.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
@@ -5249,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fightbox | 43626 | [43626-fightbox.json](./43626-fightbox.json) |
+| Fighter & Attacker | 39922 | [39922-fighter-and-attacker.json](./39922-fighter-and-attacker.json) |
 | Fighter Ace | 209427 | [209427-fighter-ace.json](./209427-fighter-ace.json) |
 | Fighter Ace 3.5 | 50130 | [50130-fighter-ace-3-5.json](./50130-fighter-ace-3-5.json) |
 | Fighter Ace II | 64304 | [64304-fighter-ace-ii.json](./64304-fighter-ace-ii.json) |
@@ -5996,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Lap 2 | 255651 | [255651-final-lap-2.json](./255651-final-lap-2.json) |
 | Final Lap 2000 | 185719 | [185719-final-lap-2000.json](./185719-final-lap-2000.json) |
 | Final Lap 3 | 337555 | [337555-final-lap-3.json](./337555-final-lap-3.json) |
+| Final Lap R | 39921 | [39921-final-lap-r.json](./39921-final-lap-r.json) |
 | Final Lap Special: GT & Formula Machine | 37450 | [37450-final-lap-special-gt-and-formula-machine.json](./37450-final-lap-special-gt-and-formula-machine.json) |
 | Final Lap Twin | 42124 | [42124-final-lap-twin.json](./42124-final-lap-twin.json) |
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
@@ -9838,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyable Heart | 211295 | [211295-flyable-heart.json](./211295-flyable-heart.json) |
 | Flyball | 40329 | [40329-flyball.json](./40329-flyball.json) |
 | FlyBird Leap | 260207 | [260207-flybird-leap.json](./260207-flybird-leap.json) |
+| Flyboy | 39894 | [39894-flyboy.json](./39894-flyboy.json) |
 | Flyboys Squadron | 62305 | [62305-flyboys-squadron.json](./62305-flyboys-squadron.json) |
 | FlyBye | 249931 | [249931-flybye.json](./249931-flybye.json) |
 | Flycatcher | 93528 | [93528-flycatcher.json](./93528-flycatcher.json) |
@@ -15363,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Yuletide Pack | 332471 | [332471-funko-fusion-yuletide-pack.json](./332471-funko-fusion-yuletide-pack.json) |
 | Funko Pop! Blitz | 124356 | [124356-funko-pop-blitz.json](./124356-funko-pop-blitz.json) |
 | Funkscop | 230023 | [230023-funkscop.json](./230023-funkscop.json) |
+| Funky Ball | 39914 | [39914-funky-ball.json](./39914-funky-ball.json) |
 | Funky Barn | 21698 | [21698-funky-barn.json](./21698-funky-barn.json) |
 | Funky Barn 3D | 65333 | [65333-funky-barn-3d.json](./65333-funky-barn-3d.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
