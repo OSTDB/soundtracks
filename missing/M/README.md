@@ -13015,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwinter Springtime | 380141 | [380141-midwinter-springtime.json](./380141-midwinter-springtime.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
 | Miecze Valdgira I+II | 424000 | [424000-miecze-valdgira-i-ii.json](./424000-miecze-valdgira-i-ii.json) |
+| Miedo a Crear | 425311 | [425311-miedo-a-crear.json](./425311-miedo-a-crear.json) |
 | MiedoW | 195510 | [195510-miedow.json](./195510-miedow.json) |
 | Miegakure | 9729 | [9729-miegakure.json](./9729-miegakure.json) |
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
@@ -18381,6 +18382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 3: Monster Roadtrip XXL | 260900 | [260900-monster-prom-3-monster-roadtrip-xxl.json](./260900-monster-prom-3-monster-roadtrip-xxl.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Prom 4: Monster Con XXL | 375413 | [375413-monster-prom-4-monster-con-xxl.json](./375413-monster-prom-4-monster-con-xxl.json) |
+| Monster Prom 5: Monster Retreat | 425266 | [425266-monster-prom-5-monster-retreat.json](./425266-monster-prom-5-monster-retreat.json) |
 | Monster Prom Reverse | 130512 | [130512-monster-prom-reverse.json](./130512-monster-prom-reverse.json) |
 | Monster Prom: Hotseat Edition | 144089 | [144089-monster-prom-hotseat-edition.json](./144089-monster-prom-hotseat-edition.json) |
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
