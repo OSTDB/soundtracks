@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrificial Lighthouse | 146369 | [146369-sacrificial-lighthouse.json](./146369-sacrificial-lighthouse.json) |
 | Sacrificial Run | 183294 | [183294-sacrificial-run.json](./183294-sacrificial-run.json) |
 | Sacrificio | 346311 | [346311-sacrificio.json](./346311-sacrificio.json) |
+| Sacrificio Inc. | 178705 | [178705-sacrificio-inc.json](./178705-sacrificio-inc.json) |
 | Sacrifights | 120907 | [120907-sacrifights.json](./120907-sacrifights.json) |
 | SacriFire | 152268 | [152268-sacrifire.json](./152268-sacrifire.json) |
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
@@ -10439,6 +10440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | Shootout At Old Tucson | 220971 | [220971-shootout-at-old-tucson.json](./220971-shootout-at-old-tucson.json) |
 | Shootout at the OK Galaxy | 24810 | [24810-shootout-at-the-ok-galaxy.json](./24810-shootout-at-the-ok-galaxy.json) |
+| Shootout Inc. | 176519 | [176519-shootout-inc.json](./176519-shootout-inc.json) |
 | Shootout on Cash Island | 28998 | [28998-shootout-on-cash-island.json](./28998-shootout-on-cash-island.json) |
 | Shootout Pool | 317528 | [317528-shootout-pool.json](./317528-shootout-pool.json) |
 | Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
@@ -30360,6 +30362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Sword | 420510 | [420510-sticky-sword.json](./420510-sticky-sword.json) |
 | Sticky Terms | 131731 | [131731-sticky-terms.json](./131731-sticky-terms.json) |
 | Sticky Twig Dash! | 379106 | [379106-sticky-twig-dash.json](./379106-sticky-twig-dash.json) |
+| Sticky Zeitgeist: Episode 2 - Aperitif | 178700 | [178700-sticky-zeitgeist-episode-2-aperitif.json](./178700-sticky-zeitgeist-episode-2-aperitif.json) |
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
@@ -31058,6 +31061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
 | Strand Boy | 228478 | [228478-strand-boy.json](./228478-strand-boy.json) |
 | Stranded | 170908 | [170908-stranded.json](./170908-stranded.json) |
+| Stranded | 178710 | [178710-stranded.json](./178710-stranded.json) |
 | Stranded | 271557 | [271557-stranded.json](./271557-stranded.json) |
 | Stranded | 308327 | [308327-stranded.json](./308327-stranded.json) |
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
@@ -34041,6 +34045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Lawn Seasons | 87206 | [87206-sunday-lawn-seasons.json](./87206-sunday-lawn-seasons.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
+| Sunday Morning Groovin' | 178712 | [178712-sunday-morning-groovin.json](./178712-sunday-morning-groovin.json) |
 | Sunday Never Comes | 224868 | [224868-sunday-never-comes.json](./224868-sunday-never-comes.json) |
 | Sunday Night Suicide | 228923 | [228923-sunday-night-suicide.json](./228923-sunday-night-suicide.json) |
 | Sunday Rivals | 138644 | [138644-sunday-rivals.json](./138644-sunday-rivals.json) |
@@ -39613,6 +39618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Love Bite | 299652 | [299652-sweet-love-bite.json](./299652-sweet-love-bite.json) |
 | Sweet Lyoria: Cozy Homes | 364125 | [364125-sweet-lyoria-cozy-homes.json](./364125-sweet-lyoria-cozy-homes.json) |
 | Sweet Magic Madness | 99774 | [99774-sweet-magic-madness.json](./99774-sweet-magic-madness.json) |
+| Sweet Mania: Yum's Story | 178689 | [178689-sweet-mania-yums-story.json](./178689-sweet-mania-yums-story.json) |
 | Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
 | Sweet Match 3 | 171300 | [171300-sweet-match-3.json](./171300-sweet-match-3.json) |
 | Sweet Math | 381276 | [381276-sweet-math.json](./381276-sweet-math.json) |
