@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi 64 | 128579 | [128579-kiwi-64.json](./128579-kiwi-64.json) |
+| Kiwi Boing | 425298 | [425298-kiwi-boing.json](./425298-kiwi-boing.json) |
 | Kiwi Clicker | 207470 | [207470-kiwi-clicker.json](./207470-kiwi-clicker.json) |
 | Kiwi Climber | 306719 | [306719-kiwi-climber.json](./306719-kiwi-climber.json) |
 | Kiwi Farm | 246101 | [246101-kiwi-farm.json](./246101-kiwi-farm.json) |
@@ -6324,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmonavtes: Academy Escape | 163752 | [163752-kosmonavtes-academy-escape.json](./163752-kosmonavtes-academy-escape.json) |
 | Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
 | Kosmopolska | 92100 | [92100-kosmopolska.json](./92100-kosmopolska.json) |
+| Kosmora | 425305 | [425305-kosmora.json](./425305-kosmora.json) |
 | Kosmos | 354569 | [354569-kosmos.json](./354569-kosmos.json) |
 | Kosmos | 93461 | [93461-kosmos.json](./93461-kosmos.json) |
 | Kosmos Connections | 151316 | [151316-kosmos-connections.json](./151316-kosmos-connections.json) |
