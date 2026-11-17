@@ -13369,6 +13369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
 | Hulk | 3949 | [3949-hulk.json](./3949-hulk.json) |
 | Hulk Hogan's Main Event | 20163 | [20163-hulk-hogans-main-event.json](./20163-hulk-hogans-main-event.json) |
+| Hulk Recompiled | 429468 | [429468-hulk-recompiled.json](./429468-hulk-recompiled.json) |
 | Hull Rupture | 399255 | [399255-hull-rupture.json](./399255-hull-rupture.json) |
 | HullBreach: Uncloaked | 85173 | [85173-hullbreach-uncloaked.json](./85173-hullbreach-uncloaked.json) |
 | Hullbreaker | 329157 | [329157-hullbreaker.json](./329157-hullbreaker.json) |
@@ -14133,6 +14134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid | 53164 | [53164-hybrid.json](./53164-hybrid.json) |
 | Hybrid | 85739 | [85739-hybrid.json](./85739-hybrid.json) |
 | Hybrid 64 | 375336 | [375336-hybrid-64.json](./375336-hybrid-64.json) |
+| Hybrid Angels | 429482 | [429482-hybrid-angels.json](./429482-hybrid-angels.json) |
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
 | Hybrid Harmony | 209304 | [209304-hybrid-harmony.json](./209304-hybrid-harmony.json) |
