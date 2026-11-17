@@ -15050,6 +15050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
 | Arcalast: The world that ends and the fruit of the diva | 117151 | [117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json](./117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json) |
+| Arcan Buster | 421681 | [421681-arcan-buster.json](./421681-arcan-buster.json) |
 | Arcana | 271084 | [271084-arcana.json](./271084-arcana.json) |
 | Arcana | 332308 | [332308-arcana.json](./332308-arcana.json) |
 | Arcana | 347736 | [347736-arcana.json](./347736-arcana.json) |
