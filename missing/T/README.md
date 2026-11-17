@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank: The M1 Abrams Battle Tank Simulation | 69714 | [69714-tank-the-m1-abrams-battle-tank-simulation.json](./69714-tank-the-m1-abrams-battle-tank-simulation.json) |
 | Tank: The M1A1 Abrams Battle Tank Simulation | 90602 | [90602-tank-the-m1a1-abrams-battle-tank-simulation.json](./90602-tank-the-m1a1-abrams-battle-tank-simulation.json) |
 | Tank! Tank! Tank! | 5323 | [5323-tank-tank-tank.json](./5323-tank-tank-tank.json) |
+| Tank/Plane Battle | 18606 | [18606-tank-plane-battle.json](./18606-tank-plane-battle.json) |
 | Tank2 | 94581 | [94581-tank2.json](./94581-tank2.json) |
 | Tankalot | 96240 | [96240-tankalot.json](./96240-tankalot.json) |
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
@@ -9134,6 +9135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deed | 26467 | [26467-the-deed.json](./26467-the-deed.json) |
 | The Deed of Deception | 148941 | [148941-the-deed-of-deception.json](./148941-the-deed-of-deception.json) |
 | The Deed: Dynasty | 33073 | [33073-the-deed-dynasty.json](./33073-the-deed-dynasty.json) |
+| The Deep | 14638 | [14638-the-deep.json](./14638-the-deep.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
 | The Deep | 212387 | [212387-the-deep.json](./212387-the-deep.json) |
 | The Deep | 274009 | [274009-the-deep.json](./274009-the-deep.json) |
@@ -16705,6 +16707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Phantom's Call | 383696 | [383696-the-phantoms-call.json](./383696-the-phantoms-call.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
+| The Pharaoh's Curse | 18660 | [18660-the-pharaohs-curse.json](./18660-the-pharaohs-curse.json) |
 | The Pharaoh's Labyrinth | 236133 | [236133-the-pharaohs-labyrinth.json](./236133-the-pharaohs-labyrinth.json) |
 | The Pharaoh's Tomb | 143468 | [143468-the-pharaohs-tomb.json](./143468-the-pharaohs-tomb.json) |
 | The Pharaoh's Tomb | 290306 | [290306-the-pharaohs-tomb.json](./290306-the-pharaohs-tomb.json) |
@@ -35227,6 +35230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Evolution | 381659 | [381659-tron-evolution.json](./381659-tron-evolution.json) |
 | Tron: Evolution | 7220 | [7220-tron-evolution.json](./7220-tron-evolution.json) |
 | Tron: Journey to the MCP | 58564 | [58564-tron-journey-to-the-mcp.json](./58564-tron-journey-to-the-mcp.json) |
+| Tron: Maze-A-Tron | 18658 | [18658-tron-maze-a-tron.json](./18658-tron-maze-a-tron.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
 | Tronica GK 10: Goal Keeper | 245603 | [245603-tronica-gk-10-goal-keeper.json](./245603-tronica-gk-10-goal-keeper.json) |
