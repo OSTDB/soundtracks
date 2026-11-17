@@ -1142,7 +1142,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy War | 171857 | [171857-galaxy-war.json](./171857-galaxy-war.json) |
 | Galaxy War | 287514 | [287514-galaxy-war.json](./287514-galaxy-war.json) |
 | Galaxy War: The New Colony | 249658 | [249658-galaxy-war-the-new-colony.json](./249658-galaxy-war-the-new-colony.json) |
-| Galaxy Warfighter | 131984 | [131984-galaxy-warfighter.json](./131984-galaxy-warfighter.json) |
 | Galaxy Warrior | 152319 | [152319-galaxy-warrior.json](./152319-galaxy-warrior.json) |
 | Galaxy Wars | 39990 | [39990-galaxy-wars.json](./39990-galaxy-wars.json) |
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
@@ -1177,7 +1176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galduen of the Void | 354738 | [354738-galduen-of-the-void.json](./354738-galduen-of-the-void.json) |
 | Galdur | 103461 | [103461-galdur.json](./103461-galdur.json) |
 | Gale Gunner | 74781 | [74781-gale-gunner.json](./74781-gale-gunner.json) |
-| Gale of Windoria | 208021 | [208021-gale-of-windoria.json](./208021-gale-of-windoria.json) |
 | Gale Racer | 72317 | [72317-gale-racer.json](./72317-gale-racer.json) |
 | Galeao's Dreams | 248374 | [248374-galeaos-dreams.json](./248374-galeaos-dreams.json) |
 | Galeid. | 326895 | [326895-galeid.json](./326895-galeid.json) |
@@ -1551,7 +1549,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Throne: Toilet Simulator | 265998 | [265998-game-of-throne-toilet-simulator.json](./265998-game-of-throne-toilet-simulator.json) |
 | Game of Thrones | 5489 | [5489-game-of-thrones.json](./5489-game-of-thrones.json) |
 | Game of Thrones Beyond the Wall | 120205 | [120205-game-of-thrones-beyond-the-wall.json](./120205-game-of-thrones-beyond-the-wall.json) |
-| Game of Thrones: A Telltale Games Series - Episode 1: Iron From Ice | 127067 | [127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json](./127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json) |
 | Game of Thrones: A Telltale Games Series - Episode 2: The Lost Lords | 127068 | [127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json](./127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json) |
 | Game of Thrones: A Telltale Games Series - Episode 3: The Sword in the Darkness | 127069 | [127069-game-of-thrones-a-telltale-games-series-episode-3-the-sword-in-the-darkness.json](./127069-game-of-thrones-a-telltale-games-series-episode-3-the-sword-in-the-darkness.json) |
 | Game of Thrones: A Telltale Games Series - Episode 4: Sons of Winter | 127070 | [127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json](./127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json) |
@@ -1604,7 +1601,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Show Wizard | 70167 | [70167-game-show-wizard.json](./70167-game-show-wizard.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
-| Game Soup | 112966 | [112966-game-soup.json](./112966-game-soup.json) |
 | Game Stock Car | 63211 | [63211-game-stock-car.json](./63211-game-stock-car.json) |
 | Game Stock Car 2012 | 63210 | [63210-game-stock-car-2012.json](./63210-game-stock-car-2012.json) |
 | Game Stock Car 2013 | 62132 | [62132-game-stock-car-2013.json](./62132-game-stock-car-2013.json) |
@@ -1635,7 +1631,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game Tycoon 1.5 | 16964 | [16964-game-tycoon-1-5.json](./16964-game-tycoon-1-5.json) |
 | Game Type | 35177 | [35177-game-type.json](./35177-game-type.json) |
-| Game Type DX | 208040 | [208040-game-type-dx.json](./208040-game-type-dx.json) |
 | Game With Balls | 356839 | [356839-game-with-balls.json](./356839-game-with-balls.json) |
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
@@ -2128,7 +2123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
 | Garden Hustle | 422127 | [422127-garden-hustle.json](./422127-garden-hustle.json) |
 | Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
-| Garden Life: A Cozy Simulator | 204554 | [204554-garden-life-a-cozy-simulator.json](./204554-garden-life-a-cozy-simulator.json) |
 | Garden Life: Eco-friendly Decoration Set | 286205 | [286205-garden-life-eco-friendly-decoration-set.json](./286205-garden-life-eco-friendly-decoration-set.json) |
 | Garden Life: Garden Party Edition | 286204 | [286204-garden-life-garden-party-edition.json](./286204-garden-life-garden-party-edition.json) |
 | Garden Life: Garden Party Pack | 286203 | [286203-garden-life-garden-party-pack.json](./286203-garden-life-garden-party-pack.json) |
@@ -2175,7 +2169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Rescue | 35868 | [35868-garden-rescue.json](./35868-garden-rescue.json) |
 | Garden Rescue: Christmas Edition | 34078 | [34078-garden-rescue-christmas-edition.json](./34078-garden-rescue-christmas-edition.json) |
 | Garden Shop: Rush Hour! | 24751 | [24751-garden-shop-rush-hour.json](./24751-garden-shop-rush-hour.json) |
-| Garden Simulator | 215944 | [215944-garden-simulator.json](./215944-garden-simulator.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Snap | 320017 | [320017-garden-snap.json](./320017-garden-snap.json) |
 | Garden Song | 133252 | [133252-garden-song.json](./133252-garden-song.json) |
@@ -2271,7 +2264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: Caught in the Act | 19736 | [19736-garfield-caught-in-the-act.json](./19736-garfield-caught-in-the-act.json) |
 | Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
 | Garfield: Lasagna from Heaven | 396168 | [396168-garfield-lasagna-from-heaven.json](./396168-garfield-lasagna-from-heaven.json) |
-| Garfield: Lasagna Party | 218212 | [218212-garfield-lasagna-party.json](./218212-garfield-lasagna-party.json) |
 | Garfield: Lasagna World Tour | 43545 | [43545-garfield-lasagna-world-tour.json](./43545-garfield-lasagna-world-tour.json) |
 | Garfield: Saving Arlene | 43445 | [43445-garfield-saving-arlene.json](./43445-garfield-saving-arlene.json) |
 | Garfield: Survival of the Fattest | 108796 | [108796-garfield-survival-of-the-fattest.json](./108796-garfield-survival-of-the-fattest.json) |
@@ -2302,7 +2294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
 | Gargoyle's Quest | 15934 | [15934-gargoyles-quest.json](./15934-gargoyles-quest.json) |
 | Gargoyle's Quest II | 16141 | [16141-gargoyles-quest-ii.json](./16141-gargoyles-quest-ii.json) |
-| Gargoyles Remastered | 216282 | [216282-gargoyles-remastered.json](./216282-gargoyles-remastered.json) |
 | Gargoyles: Night Flight | 198745 | [198745-gargoyles-night-flight.json](./198745-gargoyles-night-flight.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garisani Detective Agency | 406571 | [406571-garisani-detective-agency.json](./406571-garisani-detective-agency.json) |
@@ -2925,7 +2916,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geki Yaba Runner | 81486 | [81486-geki-yaba-runner.json](./81486-geki-yaba-runner.json) |
 | Geki Yaba Runner Deluxe | 84638 | [84638-geki-yaba-runner-deluxe.json](./84638-geki-yaba-runner-deluxe.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
-| Geki Yaba Runner: Anniversary Edition | 119509 | [119509-geki-yaba-runner-anniversary-edition.json](./119509-geki-yaba-runner-anniversary-edition.json) |
 | Geki-J Pachi-Slot: Chibari yo DX | 225340 | [225340-geki-j-pachi-slot-chibari-yo-dx.json](./225340-geki-j-pachi-slot-chibari-yo-dx.json) |
 | Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
@@ -3043,7 +3033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Warrior R | 392084 | [392084-gem-warrior-r.json](./392084-gem-warrior-r.json) |
 | Gem Wars: Attack of the Jiblets | 35242 | [35242-gem-wars-attack-of-the-jiblets.json](./35242-gem-wars-attack-of-the-jiblets.json) |
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
-| Gem Wizards Tactics | 142742 | [142742-gem-wizards-tactics.json](./142742-gem-wizards-tactics.json) |
 | Gem Worlds | 190026 | [190026-gem-worlds.json](./190026-gem-worlds.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
 | Gem'X | 93210 | [93210-gemx.json](./93210-gemx.json) |
@@ -3243,7 +3232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation of Chaos: Desire | 61249 | [61249-generation-of-chaos-desire.json](./61249-generation-of-chaos-desire.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Ship | 152950 | [152950-generation-ship.json](./152950-generation-ship.json) |
-| Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Xth: Code Breaker | 14683 | [14683-generation-xth-code-breaker.json](./14683-generation-xth-code-breaker.json) |
 | Generation Xth: Code Hazard | 14682 | [14682-generation-xth-code-hazard.json](./14682-generation-xth-code-hazard.json) |
 | Generation Xth: Code Realize | 14684 | [14684-generation-xth-code-realize.json](./14684-generation-xth-code-realize.json) |
@@ -3580,7 +3568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensokyo Daisenso | 213120 | [213120-gensokyo-daisenso.json](./213120-gensokyo-daisenso.json) |
 | Gensokyo Defenders | 96386 | [96386-gensokyo-defenders.json](./96386-gensokyo-defenders.json) |
 | Gensokyo Defenders Plus | 210333 | [210333-gensokyo-defenders-plus.json](./210333-gensokyo-defenders-plus.json) |
-| Gensokyo Night Festival | 121286 | [121286-gensokyo-night-festival.json](./121286-gensokyo-night-festival.json) |
 | Gensokyo Ninja Warrior | 134845 | [134845-gensokyo-ninja-warrior.json](./134845-gensokyo-ninja-warrior.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
@@ -3812,7 +3799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Georgie and Me | 249083 | [249083-georgie-and-me.json](./249083-georgie-and-me.json) |
 | Georgie-Yolkie | 323693 | [323693-georgie-yolkie.json](./323693-georgie-yolkie.json) |
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
-| Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
 | GeoRunner | 311962 | [311962-georunner.json](./311962-georunner.json) |
 | GeoSafari | 85945 | [85945-geosafari.json](./85945-geosafari.json) |
 | GeoSafari: Animals | 79629 | [79629-geosafari-animals.json](./79629-geosafari-animals.json) |
@@ -3835,7 +3821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
 | Gerbil Riot of '67 | 92795 | [92795-gerbil-riot-of-67.json](./92795-gerbil-riot-of-67.json) |
 | Gerçeğin Ötesinde: Beyond Reality | 19152 | [19152-gercegin-otesinde-beyond-reality.json](./19152-gercegin-otesinde-beyond-reality.json) |
-| Gerda: A Flame in Winter - Liva's Story | 250545 | [250545-gerda-a-flame-in-winter-livas-story.json](./250545-gerda-a-flame-in-winter-livas-story.json) |
 | Gerda: A Flame in Winter - Modstand Bundle | 251114 | [251114-gerda-a-flame-in-winter-modstand-bundle.json](./251114-gerda-a-flame-in-winter-modstand-bundle.json) |
 | Gerda: A Flame in Winter - The Resistance Edition | 256013 | [256013-gerda-a-flame-in-winter-the-resistance-edition.json](./256013-gerda-a-flame-in-winter-the-resistance-edition.json) |
 | Gerel: Against the Corvus Empire | 196985 | [196985-gerel-against-the-corvus-empire.json](./196985-gerel-against-the-corvus-empire.json) |
@@ -4004,9 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Over Blood | 148109 | [148109-get-over-blood.json](./148109-get-over-blood.json) |
 | Get Over Here | 34715 | [34715-get-over-here.json](./34715-get-over-here.json) |
 | Get Over Here! | 286794 | [286794-get-over-here.json](./286794-get-over-here.json) |
-| Get Packed | 119248 | [119248-get-packed.json](./119248-get-packed.json) |
 | Get Packed: Couch Chaos | 198012 | [198012-get-packed-couch-chaos.json](./198012-get-packed-couch-chaos.json) |
-| Get Packed: Fully Loaded | 152278 | [152278-get-packed-fully-loaded.json](./152278-get-packed-fully-loaded.json) |
 | Get Puzzled! | 69043 | [69043-get-puzzled.json](./69043-get-puzzled.json) |
 | Get Puzzled! | 69061 | [69061-get-puzzled.json](./69061-get-puzzled.json) |
 | Get Ready for Kindergarten | 230432 | [230432-get-ready-for-kindergarten.json](./230432-get-ready-for-kindergarten.json) |
@@ -4464,7 +4447,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Sweeper | 32214 | [32214-ghost-sweeper.json](./32214-ghost-sweeper.json) |
 | Ghost Sweeper Mikami | 37634 | [37634-ghost-sweeper-mikami.json](./37634-ghost-sweeper-mikami.json) |
 | Ghost Switch | 178907 | [178907-ghost-switch.json](./178907-ghost-switch.json) |
-| Ghost Sync | 150061 | [150061-ghost-sync.json](./150061-ghost-sync.json) |
 | Ghost Tag | 266069 | [266069-ghost-tag.json](./266069-ghost-tag.json) |
 | Ghost Talker | 295768 | [295768-ghost-talker.json](./295768-ghost-talker.json) |
 | Ghost Tappers | 111157 | [111157-ghost-tappers.json](./111157-ghost-tappers.json) |
@@ -4759,7 +4741,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gianpierino Adventures 2 | 410648 | [410648-gianpierino-adventures-2.json](./410648-gianpierino-adventures-2.json) |
 | GiAnt | 33696 | [33696-giant.json](./33696-giant.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
-| Giant Bear Rampage! | 119544 | [119544-giant-bear-rampage.json](./119544-giant-bear-rampage.json) |
 | Giant Blobs From Mars | 157391 | [157391-giant-blobs-from-mars.json](./157391-giant-blobs-from-mars.json) |
 | Giant Boulder of Death | 22263 | [22263-giant-boulder-of-death.json](./22263-giant-boulder-of-death.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
@@ -4992,7 +4973,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimmick in the Chaos Dimension | 144880 | [144880-gimmick-in-the-chaos-dimension.json](./144880-gimmick-in-the-chaos-dimension.json) |
 | Gimmick Land: Tomato Atama no Himitsu | 176001 | [176001-gimmick-land-tomato-atama-no-himitsu.json](./176001-gimmick-land-tomato-atama-no-himitsu.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
-| Gimmick! Special Edition | 213752 | [213752-gimmick-special-edition.json](./213752-gimmick-special-edition.json) |
 | Gimmick's Gadgets | 244406 | [244406-gimmicks-gadgets.json](./244406-gimmicks-gadgets.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
 | Gimmiko | 219329 | [219329-gimmiko.json](./219329-gimmiko.json) |
@@ -5292,7 +5272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
 | Girls, I Just Want to Get Paid! | 378284 | [378284-girls-i-just-want-to-get-paid.json](./378284-girls-i-just-want-to-get-paid.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
-| Girls' civilization | 113267 | [113267-girls-civilization.json](./113267-girls-civilization.json) |
 | Girls' Civilization 2 | 143395 | [143395-girls-civilization-2.json](./143395-girls-civilization-2.json) |
 | Girls' Civilization 3 | 207398 | [207398-girls-civilization-3.json](./207398-girls-civilization-3.json) |
 | Girls' Crush | 220236 | [220236-girls-crush.json](./220236-girls-crush.json) |
@@ -5497,7 +5476,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glam Doll House: Fashion Girls Craft & Exploration | 88025 | [88025-glam-doll-house-fashion-girls-craft-and-exploration.json](./88025-glam-doll-house-fashion-girls-craft-and-exploration.json) |
 | Glam Pursuit | 268279 | [268279-glam-pursuit.json](./268279-glam-pursuit.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
-| Glam's Incredible Run: Escape from Dukha | 146682 | [146682-glams-incredible-run-escape-from-dukha.json](./146682-glams-incredible-run-escape-from-dukha.json) |
 | Glamor | 131112 | [131112-glamor.json](./131112-glamor.json) |
 | Glamor & Girls | 382490 | [382490-glamor-and-girls.json](./382490-glamor-and-girls.json) |
 | Glamour Pinball | 256659 | [256659-glamour-pinball.json](./256659-glamour-pinball.json) |
@@ -5817,7 +5795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
 | Globematcher feat. Tokidoki x Hello Kitty | 256637 | [256637-globematcher-feat-tokidoki-x-hello-kitty.json](./256637-globematcher-feat-tokidoki-x-hello-kitty.json) |
 | Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
-| Globesweeper: Hex Puzzler | 121407 | [121407-globesweeper-hex-puzzler.json](./121407-globesweeper-hex-puzzler.json) |
 | Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
 | GlobeTrotter | 354649 | [354649-globetrotter.json](./354649-globetrotter.json) |
 | Globetrotter 2 | 73878 | [73878-globetrotter-2.json](./73878-globetrotter-2.json) |
@@ -5910,7 +5887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloriana | 169888 | [169888-gloriana.json](./169888-gloriana.json) |
 | Glorious | 169851 | [169851-glorious.json](./169851-glorious.json) |
 | Glorious Cocktails | 394218 | [394218-glorious-cocktails.json](./394218-glorious-cocktails.json) |
-| Glorious Companions | 113839 | [113839-glorious-companions.json](./113839-glorious-companions.json) |
 | Glorious Dawn | 176179 | [176179-glorious-dawn.json](./176179-glorious-dawn.json) |
 | Glorious Day to Die | 199532 | [199532-glorious-day-to-die.json](./199532-glorious-day-to-die.json) |
 | Glorious Golf | 353445 | [353445-glorious-golf.json](./353445-glorious-golf.json) |
@@ -6347,7 +6323,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Nutz | 217271 | [217271-go-nutz.json](./217271-go-nutz.json) |
 | Go on Forever | 179322 | [179322-go-on-forever.json](./179322-go-on-forever.json) |
 | Go or Leave | 131695 | [131695-go-or-leave.json](./131695-go-or-leave.json) |
-| Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Phish | 380970 | [380970-go-phish.json](./380970-go-phish.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
@@ -6524,7 +6499,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
 | Goat Evolution | 103091 | [103091-goat-evolution.json](./103091-goat-evolution.json) |
 | Goat Herd and the Gods | 169889 | [169889-goat-herd-and-the-gods.json](./169889-goat-herd-and-the-gods.json) |
-| Goat Life | 101619 | [101619-goat-life.json](./101619-goat-life.json) |
 | Goat Massacre | 340314 | [340314-goat-massacre.json](./340314-goat-massacre.json) |
 | Goat MMO Simulator | 23191 | [23191-goat-mmo-simulator.json](./23191-goat-mmo-simulator.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
@@ -6676,7 +6650,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Slayer: Endless Hunting | 230617 | [230617-goblin-slayer-endless-hunting.json](./230617-goblin-slayer-endless-hunting.json) |
 | Goblin Solitaire | 409401 | [409401-goblin-solitaire.json](./409401-goblin-solitaire.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
-| Goblin Stone | 144764 | [144764-goblin-stone.json](./144764-goblin-stone.json) |
 | Goblin Storm | 337772 | [337772-goblin-storm.json](./337772-goblin-storm.json) |
 | Goblin Storm | 76705 | [76705-goblin-storm.json](./76705-goblin-storm.json) |
 | Goblin Summer Camp | 130132 | [130132-goblin-summer-camp.json](./130132-goblin-summer-camp.json) |
@@ -6968,7 +6941,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godfall: Ascended Edition | 139946 | [139946-godfall-ascended-edition.json](./139946-godfall-ascended-edition.json) |
 | Godfall: Challenger Edition | 185638 | [185638-godfall-challenger-edition.json](./185638-godfall-challenger-edition.json) |
 | Godfall: Deluxe Edition | 139853 | [139853-godfall-deluxe-edition.json](./139853-godfall-deluxe-edition.json) |
-| Godfall: Fire and Darkness | 152238 | [152238-godfall-fire-and-darkness.json](./152238-godfall-fire-and-darkness.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
 | Godfall: Ultimate Edition | 195237 | [195237-godfall-ultimate-edition.json](./195237-godfall-ultimate-edition.json) |
 | GodFinger | 66697 | [66697-godfinger.json](./66697-godfinger.json) |
@@ -7615,7 +7587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around 2 | 396032 | [396032-golf-around-2.json](./396032-golf-around-2.json) |
-| Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Assassin: Break of Egghead Mafia | 204831 | [204831-golf-assassin-break-of-egghead-mafia.json](./204831-golf-assassin-break-of-egghead-mafia.json) |
 | Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
 | Golf Bash: Online | 304397 | [304397-golf-bash-online.json](./304397-golf-bash-online.json) |
@@ -8198,7 +8169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonect 2 | 400382 | [400382-goonect-2.json](./400382-goonect-2.json) |
 | Gooner on the Orient Express | 292450 | [292450-gooner-on-the-orient-express.json](./292450-gooner-on-the-orient-express.json) |
 | Gooning Aim Trainer | 340320 | [340320-gooning-aim-trainer.json](./340320-gooning-aim-trainer.json) |
-| Goons: Legends & Mayhem | 138643 | [138643-goons-legends-and-mayhem.json](./138643-goons-legends-and-mayhem.json) |
 | Goons.io Knight Warriors | 104275 | [104275-goons-io-knight-warriors.json](./104275-goons-io-knight-warriors.json) |
 | Goontang Chackalaka | 322674 | [322674-goontang-chackalaka.json](./322674-goontang-chackalaka.json) |
 | Goony | 85632 | [85632-goony.json](./85632-goony.json) |
@@ -8266,7 +8236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps HorrorTown | 100554 | [100554-goosebumps-horrortown.json](./100554-goosebumps-horrortown.json) |
 | Goosebumps Night of Scares | 79275 | [79275-goosebumps-night-of-scares.json](./79275-goosebumps-night-of-scares.json) |
 | Goosebumps: Attack of the Mutant | 19667 | [19667-goosebumps-attack-of-the-mutant.json](./19667-goosebumps-attack-of-the-mutant.json) |
-| Goosebumps: Dead of Night | 134371 | [134371-goosebumps-dead-of-night.json](./134371-goosebumps-dead-of-night.json) |
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
 | Goosebumps: Terror in Little Creek - Frightmare Edition | 358668 | [358668-goosebumps-terror-in-little-creek-frightmare-edition.json](./358668-goosebumps-terror-in-little-creek-frightmare-edition.json) |
@@ -8333,7 +8302,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore | 263419 | [263419-gore.json](./263419-gore.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
-| Gore Doctor | 258036 | [258036-gore-doctor.json](./258036-gore-doctor.json) |
 | Gore Grind | 423867 | [423867-gore-grind.json](./423867-gore-grind.json) |
 | Gore In Crayon | 385022 | [385022-gore-in-crayon.json](./385022-gore-in-crayon.json) |
 | Gore Rapture | 349080 | [349080-gore-rapture.json](./349080-gore-rapture.json) |
@@ -8556,7 +8524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Go Fast: Racing Collection | 246572 | [246572-gotta-go-fast-racing-collection.json](./246572-gotta-go-fast-racing-collection.json) |
 | Gotta Protectors | 22461 | [22461-gotta-protectors.json](./22461-gotta-protectors.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
-| Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Gotta Protectors: Cart of Darkness - Ultimate Deluxe Bundle | 199883 | [199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json](./199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json) |
 | Gotta Protectors: Cart of Darkness DLC Bundle Packs 1-4 | 223590 | [223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json](./223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json) |
 | Gotta Protectors: Cart of Darkness DLC Pack 1 | 199878 | [199878-gotta-protectors-cart-of-darkness-dlc-pack-1.json](./199878-gotta-protectors-cart-of-darkness-dlc-pack-1.json) |
@@ -8675,7 +8642,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabover Manor | 419096 | [419096-grabover-manor.json](./419096-grabover-manor.json) |
 | Grace | 128052 | [128052-grace.json](./128052-grace.json) |
 | Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
-| Grace of Letoile | 118166 | [118166-grace-of-letoile.json](./118166-grace-of-letoile.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Grace's Diary | 180877 | [180877-graces-diary.json](./180877-graces-diary.json) |
 | Grace's Quest: To Catch an Art Thief | 54065 | [54065-graces-quest-to-catch-an-art-thief.json](./54065-graces-quest-to-catch-an-art-thief.json) |
@@ -9770,7 +9736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Gems | 93257 | [93257-gravity-gems.json](./93257-gravity-gems.json) |
 | Gravity Ghost | 16669 | [16669-gravity-ghost.json](./16669-gravity-ghost.json) |
-| Gravity Ghost: Deluxe Edition | 120546 | [120546-gravity-ghost-deluxe-edition.json](./120546-gravity-ghost-deluxe-edition.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Goomba | 322904 | [322904-gravity-goomba.json](./322904-gravity-goomba.json) |
@@ -9978,7 +9943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Flame | 273770 | [273770-great-flame.json](./273770-great-flame.json) |
 | Great Football | 46144 | [46144-great-football.json](./46144-great-football.json) |
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
-| Great God Grove | 247082 | [247082-great-god-grove.json](./247082-great-god-grove.json) |
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
 | Great Golf | 46143 | [46143-great-golf.json](./46143-great-golf.json) |
 | Great Golf | 81277 | [81277-great-golf.json](./81277-great-golf.json) |
@@ -9986,7 +9950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Gun Gauntlet | 70881 | [70881-great-gun-gauntlet.json](./70881-great-gun-gauntlet.json) |
 | Great Guns | 40321 | [40321-great-guns.json](./40321-great-guns.json) |
 | Great Harvester | 353807 | [353807-great-harvester.json](./353807-great-harvester.json) |
-| Great Hero's Beard | 109867 | [109867-great-heros-beard.json](./109867-great-heros-beard.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
 | Great Hopes City I | 244390 | [244390-great-hopes-city-i.json](./244390-great-hopes-city-i.json) |
 | Great Houses of Calderia | 192680 | [192680-great-houses-of-calderia.json](./192680-great-houses-of-calderia.json) |
@@ -10226,7 +10189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
 | Green Paras | 412522 | [412522-green-paras.json](./412522-green-paras.json) |
-| Green Phoenix | 148095 | [148095-green-phoenix.json](./148095-green-phoenix.json) |
 | Green Planet | 183405 | [183405-green-planet.json](./183405-green-planet.json) |
 | Green Pond Town | 384294 | [384294-green-pond-town.json](./384294-green-pond-town.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
@@ -10786,7 +10748,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimgig Railway | 322156 | [322156-grimgig-railway.json](./322156-grimgig-railway.json) |
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
 | GrimGraves | 346206 | [346206-grimgraves.json](./346206-grimgraves.json) |
-| GrimGrimoire OnceMore | 197949 | [197949-grimgrimoire-oncemore.json](./197949-grimgrimoire-oncemore.json) |
 | GrimGrimoire OnceMore: Deluxe Edition | 216577 | [216577-grimgrimoire-oncemore-deluxe-edition.json](./216577-grimgrimoire-oncemore-deluxe-edition.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimguard Tactics | 304952 | [304952-grimguard-tactics.json](./304952-grimguard-tactics.json) |
@@ -10948,7 +10909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grip: Digital Deluxe | 118945 | [118945-grip-digital-deluxe.json](./118945-grip-digital-deluxe.json) |
 | Grip: Garage Bundle Pack | 116656 | [116656-grip-garage-bundle-pack.json](./116656-grip-garage-bundle-pack.json) |
 | Gripless: Drift Valley | 386885 | [386885-gripless-drift-valley.json](./386885-gripless-drift-valley.json) |
-| Gripper | 130776 | [130776-gripper.json](./130776-gripper.json) |
 | Gripper's 3D/VR Adventure | 380359 | [380359-grippers-3d-vr-adventure.json](./380359-grippers-3d-vr-adventure.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
 | Grippy | 177179 | [177179-grippy.json](./177179-grippy.json) |
@@ -11267,7 +11227,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Wave | 91687 | [91687-ground-wave.json](./91687-ground-wave.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
-| Ground Zero Hero | 281603 | [281603-ground-zero-hero.json](./281603-ground-zero-hero.json) |
 | Ground Zero: Genesis of a New World | 66552 | [66552-ground-zero-genesis-of-a-new-world.json](./66552-ground-zero-genesis-of-a-new-world.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | Ground Zero: Texas - Nuclear Edition | 187759 | [187759-ground-zero-texas-nuclear-edition.json](./187759-ground-zero-texas-nuclear-edition.json) |
@@ -12708,7 +12667,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns N Stuff 2 | 187415 | [187415-guns-n-stuff-2.json](./187415-guns-n-stuff-2.json) |
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
-| Guns N' Runs | 144927 | [144927-guns-n-runs.json](./144927-guns-n-runs.json) |
 | Guns N' Rushes | 217474 | [217474-guns-n-rushes.json](./217474-guns-n-rushes.json) |
 | Guns n' Souls feat. Song Summoner | 287009 | [287009-guns-n-souls-feat-song-summoner.json](./287009-guns-n-souls-feat-song-summoner.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
@@ -12858,7 +12816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX | 101177 | [101177-gunvolt-chronicles-luminous-avenger-ix.json](./101177-gunvolt-chronicles-luminous-avenger-ix.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Mission: "VS ???" | 170842 | [170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json](./170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Song: "Raison d'être" | 296852 | [296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json](./296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json) |
-| Gunvolt Chronicles: Luminous Avenger iX 2 | 166326 | [166326-gunvolt-chronicles-luminous-avenger-ix-2.json](./166326-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Limited Edition | 186922 | [186922-gunvolt-chronicles-luminous-avenger-ix-2-limited-edition.json](./186922-gunvolt-chronicles-luminous-avenger-ix-2-limited-edition.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC boss "Kohaku Otori" from "COGEN: Sword of Rewind" | 301213 | [301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json](./301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json) |
@@ -12990,7 +12947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutterbrawlers | 242281 | [242281-gutterbrawlers.json](./242281-gutterbrawlers.json) |
 | Gutterspace | 385962 | [385962-gutterspace.json](./385962-gutterspace.json) |
 | Gutting Goblins! | 173066 | [173066-gutting-goblins.json](./173066-gutting-goblins.json) |
-| Gutwhale | 132599 | [132599-gutwhale.json](./132599-gutwhale.json) |
 | Gutz | 13863 | [13863-gutz.json](./13863-gutz.json) |
 | Guucho de Park: Theme Park Monogatari | 410438 | [410438-guucho-de-park-theme-park-monogatari.json](./410438-guucho-de-park-theme-park-monogatari.json) |
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
@@ -13081,7 +13037,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym or Jail? | 285254 | [285254-gym-or-jail.json](./285254-gym-or-jail.json) |
 | Gym Orgasm | 340407 | [340407-gym-orgasm.json](./340407-gym-orgasm.json) |
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
-| Gym Simulator | 101396 | [101396-gym-simulator.json](./101396-gym-simulator.json) |
 | Gym Simulator | 364148 | [364148-gym-simulator.json](./364148-gym-simulator.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
