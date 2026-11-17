@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Blaster | 217620 | [217620-l-a-blaster.json](./217620-l-a-blaster.json) |
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Funk | 117299 | [117299-l-a-funk.json](./117299-l-a-funk.json) |
+| L.A. Law: The Computer Game | 71645 | [71645-l-a-law-the-computer-game.json](./71645-l-a-law-the-computer-game.json) |
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A. Noire: A Slip of the Tongue | 24399 | [24399-l-a-noire-a-slip-of-the-tongue.json](./24399-l-a-noire-a-slip-of-the-tongue.json) |
@@ -4498,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Judgment: Origins | 91794 | [91794-lethal-judgment-origins.json](./91794-lethal-judgment-origins.json) |
 | Lethal Justice | 40334 | [40334-lethal-justice.json](./40334-lethal-justice.json) |
 | Lethal Justice | 428729 | [428729-lethal-justice.json](./428729-lethal-justice.json) |
+| Lethal Labyrinth | 71663 | [71663-lethal-labyrinth.json](./71663-lethal-labyrinth.json) |
 | Lethal Lands | 24397 | [24397-lethal-lands.json](./24397-lethal-lands.json) |
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
