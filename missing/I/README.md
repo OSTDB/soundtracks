@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebreaker | 4332 | [4332-icebreaker.json](./4332-icebreaker.json) |
 | Icebreaker 2 | 37121 | [37121-icebreaker-2.json](./37121-icebreaker-2.json) |
 | Icebreaker: A Viking Voyage | 69454 | [69454-icebreaker-a-viking-voyage.json](./69454-icebreaker-a-viking-voyage.json) |
+| Icebreaker: The Text Adventure | 60175 | [60175-icebreaker-the-text-adventure.json](./60175-icebreaker-the-text-adventure.json) |
 | Icebreakers | 66963 | [66963-icebreakers.json](./66963-icebreakers.json) |
 | Icebroken | 410335 | [410335-icebroken.json](./410335-icebroken.json) |
 | Iceburg | 373525 | [373525-iceburg.json](./373525-iceburg.json) |
@@ -6198,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
 | Invasion 2: Doomed | 150434 | [150434-invasion-2-doomed.json](./150434-invasion-2-doomed.json) |
+| Invasion 2000 A.D. | 60173 | [60173-invasion-2000-a-d.json](./60173-invasion-2000-a-d.json) |
 | Invasion 2037 | 123742 | [123742-invasion-2037.json](./123742-invasion-2037.json) |
 | Invasion 360 | 333665 | [333665-invasion-360.json](./333665-invasion-360.json) |
 | Invasion Deutschland | 125313 | [125313-invasion-deutschland.json](./125313-invasion-deutschland.json) |
