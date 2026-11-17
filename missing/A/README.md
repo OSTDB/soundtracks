@@ -18596,6 +18596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fury | 80047 | [80047-astro-fury.json](./80047-astro-fury.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Golf | 122706 | [122706-astro-golf.json](./122706-astro-golf.json) |
+| Astro Grover | 46912 | [46912-astro-grover.json](./46912-astro-grover.json) |
 | Astro Heist | 260440 | [260440-astro-heist.json](./260440-astro-heist.json) |
 | Astro Ike | 204805 | [204805-astro-ike.json](./204805-astro-ike.json) |
 | Astro Invader | 281221 | [281221-astro-invader.json](./281221-astro-invader.json) |
