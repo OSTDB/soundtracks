@@ -3963,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
 | IndustrialCraft | 232721 | [232721-industrialcraft.json](./232721-industrialcraft.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
+| IndustrialVR - Hoover Dam | 113796 | [113796-industrialvr-hoover-dam.json](./113796-industrialvr-hoover-dam.json) |
 | Industring | 303577 | [303577-industring.json](./303577-industring.json) |
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
 | Industriworks | 126603 | [126603-industriworks.json](./126603-industriworks.json) |
@@ -7726,6 +7727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iterations | 310102 | [310102-iterations.json](./310102-iterations.json) |
 | IterativeCollapse | 365098 | [365098-iterativecollapse.json](./365098-iterativecollapse.json) |
 | Iterazers | 247874 | [247874-iterazers.json](./247874-iterazers.json) |
+| Iterform | 103008 | [103008-iterform.json](./103008-iterform.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
 | Iterum | 237231 | [237231-iterum.json](./237231-iterum.json) |
