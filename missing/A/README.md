@@ -3562,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Life: Magical Carnival | 50686 | [50686-active-life-magical-carnival.json](./50686-active-life-magical-carnival.json) |
 | Active Life: Outdoor Challenge | 50685 | [50685-active-life-outdoor-challenge.json](./50685-active-life-outdoor-challenge.json) |
 | Active Matter | 322158 | [322158-active-matter.json](./322158-active-matter.json) |
+| Active Mummy | 156747 | [156747-active-mummy.json](./156747-active-mummy.json) |
 | Active Neurons | 123871 | [123871-active-neurons.json](./123871-active-neurons.json) |
 | Active Neurons 2 | 133167 | [133167-active-neurons-2.json](./133167-active-neurons-2.json) |
 | Active Neurons 3: Wonders of the World | 143595 | [143595-active-neurons-3-wonders-of-the-world.json](./143595-active-neurons-3-wonders-of-the-world.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Master | 69899 | [69899-adventure-master.json](./69899-adventure-master.json) |
 | Adventure Match | 338910 | [338910-adventure-match.json](./338910-adventure-match.json) |
 | Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
+| Adventure Minesweeper | 153477 | [153477-adventure-minesweeper.json](./153477-adventure-minesweeper.json) |
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
 | Adventure Mosaics: Brazilian Carnival | 338700 | [338700-adventure-mosaics-brazilian-carnival.json](./338700-adventure-mosaics-brazilian-carnival.json) |
 | Adventure Mosaics: Forest Spirits | 123865 | [123865-adventure-mosaics-forest-spirits.json](./123865-adventure-mosaics-forest-spirits.json) |
@@ -11282,6 +11284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels of Death | 26596 | [26596-angels-of-death.json](./26596-angels-of-death.json) |
 | Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
 | Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
+| Angels on Tanks | 156727 | [156727-angels-on-tanks.json](./156727-angels-on-tanks.json) |
 | Angels Online | 84460 | [84460-angels-online.json](./84460-angels-online.json) |
 | Angels Online Global | 402430 | [402430-angels-online-global.json](./402430-angels-online-global.json) |
 | Angels Prayer | 190756 | [190756-angels-prayer.json](./190756-angels-prayer.json) |
@@ -11514,7 +11517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Troll | 122210 | [122210-angry-troll.json](./122210-angry-troll.json) |
 | Angry Troll Simulator 2018 | 110510 | [110510-angry-troll-simulator-2018.json](./110510-angry-troll-simulator-2018.json) |
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
-| Angry Video Game Nerd 8-bit | 329179 | [329179-angry-video-game-nerd-8-bit.json](./329179-angry-video-game-nerd-8-bit.json) |
 | Angry Video Game Nerd Adventures | 7960 | [7960-angry-video-game-nerd-adventures.json](./7960-angry-video-game-nerd-adventures.json) |
 | Angry Video Game Nerd Adventures 2: ASSimilation | 14742 | [14742-angry-video-game-nerd-adventures-2-assimilation.json](./14742-angry-video-game-nerd-adventures-2-assimilation.json) |
 | Angry VS Android | 88075 | [88075-angry-vs-android.json](./88075-angry-vs-android.json) |
@@ -16235,6 +16237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Empires | 21281 | [21281-armageddon-empires.json](./21281-armageddon-empires.json) |
 | Armageddon Man | 65865 | [65865-armageddon-man.json](./65865-armageddon-man.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
+| Armageddon Onslaught | 155720 | [155720-armageddon-onslaught.json](./155720-armageddon-onslaught.json) |
 | Armageddon Operation Dragon | 84978 | [84978-armageddon-operation-dragon.json](./84978-armageddon-operation-dragon.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
 | Armageddon Riders + Planets Under Attack Bundle | 99803 | [99803-armageddon-riders-planets-under-attack-bundle.json](./99803-armageddon-riders-planets-under-attack-bundle.json) |
