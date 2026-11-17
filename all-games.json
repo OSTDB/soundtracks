@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T07:36:41.608Z",
-  "total_soundtracks": 3606,
+  "generated_at": "2026-11-17T07:51:45.265Z",
+  "total_soundtracks": 3615,
   "games": [
     {
       "igdb_id": 292844,
@@ -12519,6 +12519,20 @@
       ]
     },
     {
+      "igdb_id": 211624,
+      "game_name": "Escape from Ever After",
+      "game_url": "https://ostdb.net/games/escape-from-ever-after",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27333fca3a31d5e6860d5b5f314",
+      "albums": [
+        {
+          "album_name": "Escape from Ever After (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Hitu7nKJihaALJxXKhR9A",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 15536,
       "game_name": "Escape from Tarkov",
       "game_url": "https://ostdb.net/games/escape-from-tarkov",
@@ -14249,6 +14263,20 @@
       ]
     },
     {
+      "igdb_id": 215777,
+      "game_name": "Firewall Ultra",
+      "game_url": "https://ostdb.net/games/firewall-ultra",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739ba52f73a90f23b97d1972c8",
+      "albums": [
+        {
+          "album_name": "Firewall Ultra (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6wOxEfqkGtXbee9gXH7NuU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9730,
       "game_name": "Firewatch",
       "game_url": "https://ostdb.net/games/firewatch",
@@ -14370,6 +14398,20 @@
           "album_name": "Flintlock: The Siege of Dawn (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/28JRK04RtUl4Yjj7MDjN1c",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 212809,
+      "game_name": "Flippin Misfits",
+      "game_url": "https://ostdb.net/games/flippin-misfits",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736fc134908e5a68f7c42fcb5d",
+      "albums": [
+        {
+          "album_name": "Flippin Misfits (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/75QJ0qZmHrrcWaFX0YXfJb",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -17875,6 +17917,20 @@
         {
           "album_name": "Heavy Metal Machines (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5UZUIyYf5fwflCcDfIES83",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 211182,
+      "game_name": "HeistGeist",
+      "game_url": "https://ostdb.net/games/heistgeist",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cfefede97a874c1bc9e62c2d",
+      "albums": [
+        {
+          "album_name": "HeistGeist (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3NejBDKtVxHVcqoeAhv02O",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26095,6 +26151,20 @@
       ]
     },
     {
+      "igdb_id": 215620,
+      "game_name": "New Joe & Mac: Caveman Ninja",
+      "game_url": "https://ostdb.net/games/new-joe-and-mac-caveman-ninja",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ead2f66d72fa09352572f634",
+      "albums": [
+        {
+          "album_name": "New Joe and Mac, Caveman Ninja (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3EheTF3eLPadXk9LREkLs6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119403,
       "game_name": "New Super Lucky's Tale",
       "game_url": "https://ostdb.net/games/new-super-luckys-tale",
@@ -27931,6 +28001,20 @@
       ]
     },
     {
+      "igdb_id": 214214,
+      "game_name": "Parry Nightmare",
+      "game_url": "https://ostdb.net/games/parry-nightmare",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737b88fd28530f194e2130e267",
+      "albums": [
+        {
+          "album_name": "Parry Nightmare (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Wz0N2rZj1vIvXBgZkwV9A",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 122047,
       "game_name": "Path of Giants",
       "game_url": "https://ostdb.net/games/path-of-giants",
@@ -28042,6 +28126,20 @@
           "album_name": "PAYDAY 3 Vol. 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1UjTN0TwUS0SxUUmRBdfC4",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 211902,
+      "game_name": "Peaky Blinders: The King's Ransom",
+      "game_url": "https://ostdb.net/games/peaky-blinders-the-kings-ransom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27312654dbbd7823a185854e9dd",
+      "albums": [
+        {
+          "album_name": "Peaky Blinders: The King's Ransom (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1FD6yGzJKh4FGFHw1D8aHy",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -43983,6 +44081,20 @@
       ]
     },
     {
+      "igdb_id": 211688,
+      "game_name": "Void Scrappers",
+      "game_url": "https://ostdb.net/games/void-scrappers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c5b532b44cf7e0797b0db65e",
+      "albums": [
+        {
+          "album_name": "Void Scrappers (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2vVmwLLbKclxpmgBf25buW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 288487,
       "game_name": "Voidwrought",
       "game_url": "https://ostdb.net/games/voidwrought",
@@ -45823,6 +45935,20 @@
         {
           "album_name": "World's End Club Official Soundtrack 1",
           "spotify_url": "https://open.spotify.com/album/7bamjNG7p1Dop060UwpkEo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 214709,
+      "game_name": "Worldless",
+      "game_url": "https://ostdb.net/games/worldless",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ac42f6cb116514ed3f0ceec3",
+      "albums": [
+        {
+          "album_name": "Worldless (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/74U8xYNMDvniz5IcaD2qNb",
           "apple_music_url": "",
           "album_link_url": ""
         }
