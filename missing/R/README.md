@@ -12273,6 +12273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Pirate Cat | 394844 | [394844-rooftop-rascal-the-pirate-cat.json](./394844-rooftop-rascal-the-pirate-cat.json) |
 | Rooftop Rascal: The Spooky Cat | 320373 | [320373-rooftop-rascal-the-spooky-cat.json](./320373-rooftop-rascal-the-spooky-cat.json) |
 | Rooftop Run | 403330 | [403330-rooftop-run.json](./403330-rooftop-run.json) |
+| Rooftop Snipers | 87723 | [87723-rooftop-snipers.json](./87723-rooftop-snipers.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops | 292891 | [292891-rooftops.json](./292891-rooftops.json) |
 | Rooftops 2 | 292892 | [292892-rooftops-2.json](./292892-rooftops-2.json) |
@@ -14023,6 +14024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
 | Run, my little pixel | 74215 | [74215-run-my-little-pixel.json](./74215-run-my-little-pixel.json) |
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
+| Run, Presto! | 89295 | [89295-run-presto.json](./89295-run-presto.json) |
 | Run, Puppet Run! | 413487 | [413487-run-puppet-run.json](./413487-run-puppet-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
 | Run, Sackboy! Run! | 22153 | [22153-run-sackboy-run.json](./22153-run-sackboy-run.json) |
