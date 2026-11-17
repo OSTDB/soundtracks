@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Factory | 153155 | [153155-war-factory.json](./153155-war-factory.json) |
 | War Fantasy | 404616 | [404616-war-fantasy.json](./404616-war-fantasy.json) |
 | War Field | 105682 | [105682-war-field.json](./105682-war-field.json) |
+| War Flags 1 | 180730 | [180730-war-flags-1.json](./180730-war-flags-1.json) |
 | War Flavor | 347992 | [347992-war-flavor.json](./347992-war-flavor.json) |
 | War for Bryndor | 391948 | [391948-war-for-bryndor.json](./391948-war-for-bryndor.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
