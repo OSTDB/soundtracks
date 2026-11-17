@@ -4565,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kita he. Diamond Dust + Kiss is Beginning. | 60399 | [60399-kita-he-diamond-dust-kiss-is-beginning.json](./60399-kita-he-diamond-dust-kiss-is-beginning.json) |
 | Kita he.: Diamond Dust | 60400 | [60400-kita-he-diamond-dust.json](./60400-kita-he-diamond-dust.json) |
 | Kita no Chi to Hitori no Shoujo: Koropokkuru no Negai | 298737 | [298737-kita-no-chi-to-hitori-no-shoujo-koropokkuru-no-negai.json](./298737-kita-no-chi-to-hitori-no-shoujo-koropokkuru-no-negai.json) |
+| Kitabashers United | 200623 | [200623-kitabashers-united.json](./200623-kitabashers-united.json) |
 | Kitahei | 47505 | [47505-kitahei.json](./47505-kitahei.json) |
 | Kitan Iwanaga | 225527 | [225527-kitan-iwanaga.json](./225527-kitan-iwanaga.json) |
 | Kitari and Kimoshi | 223431 | [223431-kitari-and-kimoshi.json](./223431-kitari-and-kimoshi.json) |
