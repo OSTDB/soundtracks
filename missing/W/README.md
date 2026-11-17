@@ -10075,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
 | Wraithmind | 116639 | [116639-wraithmind.json](./116639-wraithmind.json) |
 | WraithRun | 305632 | [305632-wraithrun.json](./305632-wraithrun.json) |
+| Wraiths of Sentinel | 171103 | [171103-wraiths-of-sentinel.json](./171103-wraiths-of-sentinel.json) |
 | Wraithslayer | 115405 | [115405-wraithslayer.json](./115405-wraithslayer.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
 | Wrangle Ranch | 364700 | [364700-wrangle-ranch.json](./364700-wrangle-ranch.json) |
@@ -10119,7 +10120,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrathflame | 415557 | [415557-wrathflame.json](./415557-wrathflame.json) |
 | Wrathline | 414738 | [414738-wrathline.json](./414738-wrathline.json) |
 | WRC 10 | 145735 | [145735-wrc-10.json](./145735-wrc-10.json) |
+| WRC 10: Arena Panzerplatte SSS | 174395 | [174395-wrc-10-arena-panzerplatte-sss.json](./174395-wrc-10-arena-panzerplatte-sss.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
+| WRC 10: Subaru Impreza WRC 1997 | 174394 | [174394-wrc-10-subaru-impreza-wrc-1997.json](./174394-wrc-10-subaru-impreza-wrc-1997.json) |
 | WRC 2: FIA World Rally Championship | 9393 | [9393-wrc-2-fia-world-rally-championship.json](./9393-wrc-2-fia-world-rally-championship.json) |
 | WRC 2: FIA World Rally Championship 2011 | 51296 | [51296-wrc-2-fia-world-rally-championship-2011.json](./51296-wrc-2-fia-world-rally-championship-2011.json) |
 | WRC 3 | 8315 | [8315-wrc-3.json](./8315-wrc-3.json) |
@@ -10140,6 +10143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 8: RWD Legends | 404549 | [404549-wrc-8-rwd-legends.json](./404549-wrc-8-rwd-legends.json) |
 | WRC 9: Audi Quattro A2 1984 | 196111 | [196111-wrc-9-audi-quattro-a2-1984.json](./196111-wrc-9-audi-quattro-a2-1984.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
+| WRC 9: Toyota Corolla 1999 | 174390 | [174390-wrc-9-toyota-corolla-1999.json](./174390-wrc-9-toyota-corolla-1999.json) |
 | WRC Arcade | 84418 | [84418-wrc-arcade.json](./84418-wrc-arcade.json) |
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
 | WRC Collection FIA World Rally Championship | 83770 | [83770-wrc-collection-fia-world-rally-championship.json](./83770-wrc-collection-fia-world-rally-championship.json) |
