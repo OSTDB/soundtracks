@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rope of Chalk | 140181 | [140181-a-rope-of-chalk.json](./140181-a-rope-of-chalk.json) |
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
+| A Rose in the Twilight: Limited Edition | 42671 | [42671-a-rose-in-the-twilight-limited-edition.json](./42671-a-rose-in-the-twilight-limited-edition.json) |
 | A Rum Case in Fogtown | 211806 | [211806-a-rum-case-in-fogtown.json](./211806-a-rum-case-in-fogtown.json) |
 | A Rum Tale | 230384 | [230384-a-rum-tale.json](./230384-a-rum-tale.json) |
 | A Rushed Project | 268351 | [268351-a-rushed-project.json](./268351-a-rushed-project.json) |
@@ -5693,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of the Deep | 303121 | [303121-age-of-the-deep.json](./303121-age-of-the-deep.json) |
 | Age of the Duel | 248385 | [248385-age-of-the-duel.json](./248385-age-of-the-duel.json) |
 | Age of the Fallen | 417235 | [417235-age-of-the-fallen.json](./417235-age-of-the-fallen.json) |
+| Age of the Four Clans | 41063 | [41063-age-of-the-four-clans.json](./41063-age-of-the-four-clans.json) |
 | Age of the Sirens | 236893 | [236893-age-of-the-sirens.json](./236893-age-of-the-sirens.json) |
 | Age of Thrones | 24552 | [24552-age-of-thrones.json](./24552-age-of-thrones.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
@@ -20955,6 +20957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Golf Simulator | 426042 | [426042-awesome-golf-simulator.json](./426042-awesome-golf-simulator.json) |
 | Awesome Happy Heroes | 101826 | [101826-awesome-happy-heroes.json](./101826-awesome-happy-heroes.json) |
 | Awesome Land | 146029 | [146029-awesome-land.json](./146029-awesome-land.json) |
+| Awesome Machine | 43359 | [43359-awesome-machine.json](./43359-awesome-machine.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
 | Awesome Mix Tape | 156835 | [156835-awesome-mix-tape.json](./156835-awesome-mix-tape.json) |
