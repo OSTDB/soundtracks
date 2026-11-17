@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Kanjiro Chapter 2 | 417893 | [417893-adventure-of-kanjiro-chapter-2.json](./417893-adventure-of-kanjiro-chapter-2.json) |
 | Adventure of Leek | 191068 | [191068-adventure-of-leek.json](./191068-adventure-of-leek.json) |
 | Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
+| Adventure of Masters | 107277 | [107277-adventure-of-masters.json](./107277-adventure-of-masters.json) |
 | Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Rikka: The Cursed Kingdom | 190768 | [190768-adventure-of-rikka-the-cursed-kingdom.json](./190768-adventure-of-rikka-the-cursed-kingdom.json) |
@@ -10018,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Battle Dome | 44451 | [44451-american-battle-dome.json](./44451-american-battle-dome.json) |
 | American Billiards | 94656 | [94656-american-billiards.json](./94656-american-billiards.json) |
 | American Camper Simulator | 158792 | [158792-american-camper-simulator.json](./158792-american-camper-simulator.json) |
+| American Car Driving Simulator | 107286 | [107286-american-car-driving-simulator.json](./107286-american-car-driving-simulator.json) |
 | American Car Parking Simulator 2025 | 380705 | [380705-american-car-parking-simulator-2025.json](./380705-american-car-parking-simulator-2025.json) |
 | American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
