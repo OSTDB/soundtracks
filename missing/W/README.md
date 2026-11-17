@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Tank Machine Battle Vehicle Simulator | 249574 | [249574-war-tank-machine-battle-vehicle-simulator.json](./249574-war-tank-machine-battle-vehicle-simulator.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Tech Fighters | 37037 | [37037-war-tech-fighters.json](./37037-war-tech-fighters.json) |
+| War the Knights | 417903 | [417903-war-the-knights.json](./417903-war-the-knights.json) |
 | War Theatre | 76870 | [76870-war-theatre.json](./76870-war-theatre.json) |
 | War Theatre: Blood of Winter | 123944 | [123944-war-theatre-blood-of-winter.json](./123944-war-theatre-blood-of-winter.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warnament | 250764 | [250764-warnament.json](./250764-warnament.json) |
 | Warne Shtartik | 344236 | [344236-warne-shtartik.json](./344236-warne-shtartik.json) |
 | Warner Bros. Space Jam | 198899 | [198899-warner-bros-space-jam.json](./198899-warner-bros-space-jam.json) |
+| Warnet Life | 417905 | [417905-warnet-life.json](./417905-warnet-life.json) |
 | Warning Forever | 50111 | [50111-warning-forever.json](./50111-warning-forever.json) |
 | Warno | 187246 | [187246-warno.json](./187246-warno.json) |
 | Warno: Expansion Pass | 312006 | [312006-warno-expansion-pass.json](./312006-warno-expansion-pass.json) |
@@ -7744,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
 | Wizbirds Online | 145943 | [145943-wizbirds-online.json](./145943-wizbirds-online.json) |
+| Wizboyz | 417904 | [417904-wizboyz.json](./417904-wizboyz.json) |
 | Wizcave | 211683 | [211683-wizcave.json](./211683-wizcave.json) |
 | Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
