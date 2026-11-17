@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt: Old Kingdom | 75230 | [75230-egypt-old-kingdom.json](./75230-egypt-old-kingdom.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
+| Egypte Kids | 94429 | [94429-egypte-kids.json](./94429-egypte-kids.json) |
 | Egyptgington | 306870 | [306870-egyptgington.json](./306870-egyptgington.json) |
 | Egyptian Ball | 71335 | [71335-egyptian-ball.json](./71335-egyptian-ball.json) |
 | Egyptian Challenge | 91543 | [91543-egyptian-challenge.json](./91543-egyptian-challenge.json) |
@@ -2225,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
 | El Taco Diablo | 115127 | [115127-el-taco-diablo.json](./115127-el-taco-diablo.json) |
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
+| El Tesoro de Isla Alcachofa | 94443 | [94443-el-tesoro-de-isla-alcachofa.json](./94443-el-tesoro-de-isla-alcachofa.json) |
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
 | El Viaje de Diciembre | 260494 | [260494-el-viaje-de-diciembre.json](./260494-el-viaje-de-diciembre.json) |
 | El Virus | 345396 | [345396-el-virus.json](./345396-el-virus.json) |
@@ -2985,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
 | Elisa: the Innkeeper | 29916 | [29916-elisa-the-innkeeper.json](./29916-elisa-the-innkeeper.json) |
 | Elisa: The Innkeeper - Prequel | 32622 | [32622-elisa-the-innkeeper-prequel.json](./32622-elisa-the-innkeeper-prequel.json) |
+| Elisabeth I. | 94444 | [94444-elisabeth-i.json](./94444-elisabeth-i.json) |
 | Elise | 245365 | [245365-elise.json](./245365-elise.json) |
 | Elise | 285130 | [285130-elise.json](./285130-elise.json) |
 | Elise and the Spellbinding Marionette | 396388 | [396388-elise-and-the-spellbinding-marionette.json](./396388-elise-and-the-spellbinding-marionette.json) |
@@ -3591,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
 | Emil: A Hero's Journey | 236559 | [236559-emil-a-heros-journey.json](./236559-emil-a-heros-journey.json) |
 | Emiline: The Ghost of White Willow | 249978 | [249978-emiline-the-ghost-of-white-willow.json](./249978-emiline-the-ghost-of-white-willow.json) |
+| Emilio Butragueño 2 | 93233 | [93233-emilio-butragueno-2.json](./93233-emilio-butragueno-2.json) |
 | Emilio Butragueño Fútbol | 81152 | [81152-emilio-butragueno-futbol.json](./81152-emilio-butragueno-futbol.json) |
 | Emilio Sanchez Vicario Grand Slam | 78813 | [78813-emilio-sanchez-vicario-grand-slam.json](./78813-emilio-sanchez-vicario-grand-slam.json) |
 | Emily | 334036 | [334036-emily.json](./334036-emily.json) |
@@ -7237,6 +7241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euclid's Inferno | 304994 | [304994-euclids-inferno.json](./304994-euclids-inferno.json) |
 | Euclid's Nightmare | 277094 | [277094-euclids-nightmare.json](./277094-euclids-nightmare.json) |
 | Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
+| Euclidean Crisis | 92193 | [92193-euclidean-crisis.json](./92193-euclidean-crisis.json) |
 | Euclidean Escape | 195343 | [195343-euclidean-escape.json](./195343-euclidean-escape.json) |
 | Euclidean Lands | 26708 | [26708-euclidean-lands.json](./26708-euclidean-lands.json) |
 | Euclidean Skies | 114482 | [114482-euclidean-skies.json](./114482-euclidean-skies.json) |
