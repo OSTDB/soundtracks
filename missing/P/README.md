@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packets, Please! | 180358 | [180358-packets-please.json](./180358-packets-please.json) |
 | PacketStorm | 115868 | [115868-packetstorm.json](./115868-packetstorm.json) |
 | Packfall Chain Arena | 428146 | [428146-packfall-chain-arena.json](./428146-packfall-chain-arena.json) |
+| Packin Bang Bang | 39907 | [39907-packin-bang-bang.json](./39907-packin-bang-bang.json) |
 | Packin' | 342180 | [342180-packin.json](./342180-packin.json) |
 | Packing House | 184475 | [184475-packing-house.json](./184475-packing-house.json) |
 | Packing Life | 373318 | [373318-packing-life.json](./373318-packing-life.json) |
