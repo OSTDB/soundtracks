@@ -9260,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alsmic Lizzi | 396777 | [396777-alsmic-lizzi.json](./396777-alsmic-lizzi.json) |
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
 | Alstroemeria | 274528 | [274528-alstroemeria.json](./274528-alstroemeria.json) |
+| Alt Oxygen | 166329 | [166329-alt-oxygen.json](./166329-alt-oxygen.json) |
 | Alt Tarot | 178477 | [178477-alt-tarot.json](./178477-alt-tarot.json) |
 | alt:V | 171970 | [171970-alt-v.json](./171970-alt-v.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
@@ -11946,6 +11947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AniMates | 93977 | [93977-animates.json](./93977-animates.json) |
 | Animation Arts Collection | 154611 | [154611-animation-arts-collection.json](./154611-animation-arts-collection.json) |
 | Animation Hangman | 117024 | [117024-animation-hangman.json](./117024-animation-hangman.json) |
+| Animation Studio Manager | 170065 | [170065-animation-studio-manager.json](./170065-animation-studio-manager.json) |
 | Animation Throwdown: The Quest for Cards | 29491 | [29491-animation-throwdown-the-quest-for-cards.json](./29491-animation-throwdown-the-quest-for-cards.json) |
 | Animation Versus | 343466 | [343466-animation-versus.json](./343466-animation-versus.json) |
 | Animators Hell | 159134 | [159134-animators-hell.json](./159134-animators-hell.json) |
