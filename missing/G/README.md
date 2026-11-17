@@ -6340,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Karting Outdoor HD | 175867 | [175867-go-karting-outdoor-hd.json](./175867-go-karting-outdoor-hd.json) |
 | Go Keeper | 382110 | [382110-go-keeper.json](./382110-go-keeper.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
+| Go Marbles! | 427702 | [427702-go-marbles.json](./427702-go-marbles.json) |
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
 | Go Minimal | 186704 | [186704-go-minimal.json](./186704-go-minimal.json) |
 | Go Mission: Space Travel | 21632 | [21632-go-mission-space-travel.json](./21632-go-mission-space-travel.json) |
@@ -9673,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitoid | 114696 | [114696-gravitoid.json](./114696-gravitoid.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton | 183771 | [183771-graviton.json](./183771-graviton.json) |
+| Graviton Core | 427722 | [427722-graviton-core.json](./427722-graviton-core.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
 | Graviton Force | 297263 | [297263-graviton-force.json](./297263-graviton-force.json) |
 | Gravitor | 409271 | [409271-gravitor.json](./409271-gravitor.json) |
@@ -10579,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridrunner | 310566 | [310566-gridrunner.json](./310566-gridrunner.json) |
 | Gridrunner Revolution | 14947 | [14947-gridrunner-revolution.json](./14947-gridrunner-revolution.json) |
 | Gridrunner++ | 61033 | [61033-gridrunner.json](./61033-gridrunner.json) |
+| Gridrush | 427710 | [427710-gridrush.json](./427710-gridrush.json) |
 | Grids | 243731 | [243731-grids.json](./243731-grids.json) |
 | Grids of Thermometers | 296076 | [296076-grids-of-thermometers.json](./296076-grids-of-thermometers.json) |
 | Grids of World | 132269 | [132269-grids-of-world.json](./132269-grids-of-world.json) |
@@ -10871,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire Limbo | 416334 | [416334-grimoire-limbo.json](./416334-grimoire-limbo.json) |
 | Grimoire Melody | 125599 | [125599-grimoire-melody.json](./125599-grimoire-melody.json) |
 | Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
+| Grimoire of Domance | 427692 | [427692-grimoire-of-domance.json](./427692-grimoire-of-domance.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire of Syvnta | 264745 | [264745-grimoire-of-syvnta.json](./264745-grimoire-of-syvnta.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
