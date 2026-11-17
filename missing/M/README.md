@@ -3441,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandalas | 172859 | [172859-mandalas.json](./172859-mandalas.json) |
 | Mandate of Heaven | 374122 | [374122-mandate-of-heaven.json](./374122-mandate-of-heaven.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
+| Mandato | 418174 | [418174-mandato.json](./418174-mandato.json) |
 | Mandatory Fun | 348517 | [348517-mandatory-fun.json](./348517-mandatory-fun.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
@@ -10154,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
 | Memory Booster | 172912 | [172912-memory-booster.json](./172912-memory-booster.json) |
 | Memory Brew: Tales of Underworld | 406573 | [406573-memory-brew-tales-of-underworld.json](./406573-memory-brew-tales-of-underworld.json) |
+| Memory Card | 418524 | [418524-memory-card.json](./418524-memory-card.json) |
 | Memory Card Flip | 417340 | [417340-memory-card-flip.json](./417340-memory-card-flip.json) |
 | Memory Card Monsters | 155293 | [155293-memory-card-monsters.json](./155293-memory-card-monsters.json) |
 | Memory Card Monsters: Expanded Content 3 | 168080 | [168080-memory-card-monsters-expanded-content-3.json](./168080-memory-card-monsters-expanded-content-3.json) |
@@ -13118,6 +13120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
 | Mighty Castles | 191983 | [191983-mighty-castles.json](./191983-mighty-castles.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
+| Mighty Champions | 418164 | [418164-mighty-champions.json](./418164-mighty-champions.json) |
 | Mighty Cuphead Adventure | 404676 | [404676-mighty-cuphead-adventure.json](./404676-mighty-cuphead-adventure.json) |
 | Mighty Doom | 148394 | [148394-mighty-doom.json](./148394-mighty-doom.json) |
 | Mighty Dragons | 184172 | [184172-mighty-dragons.json](./184172-mighty-dragons.json) |
@@ -15105,6 +15108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniRacingOnline | 151834 | [151834-miniracingonline.json](./151834-miniracingonline.json) |
 | Minisaga | 137820 | [137820-minisaga.json](./137820-minisaga.json) |
 | Minishoot' Adventures | 191761 | [191761-minishoot-adventures.json](./191761-minishoot-adventures.json) |
+| Miniskirt World Network: Business Slut Online | 418274 | [418274-miniskirt-world-network-business-slut-online.json](./418274-miniskirt-world-network-business-slut-online.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
 | MiniStrike | 150371 | [150371-ministrike.json](./150371-ministrike.json) |
@@ -16705,6 +16709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
 | MochiMochi | 107533 | [107533-mochimochi.json](./107533-mochimochi.json) |
+| Mochis Army | 418162 | [418162-mochis-army.json](./418162-mochis-army.json) |
 | Moci Over It | 272603 | [272603-moci-over-it.json](./272603-moci-over-it.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
 | Mockbuster Video | 405850 | [405850-mockbuster-video.json](./405850-mockbuster-video.json) |
@@ -24689,6 +24694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of Peak Valley: Case 2 - The White Lady | 171537 | [171537-mysteries-of-peak-valley-case-2-the-white-lady.json](./171537-mysteries-of-peak-valley-case-2-the-white-lady.json) |
 | Mysteries of Peak Valley: Case 3 - The Ruin of Souls | 171538 | [171538-mysteries-of-peak-valley-case-3-the-ruin-of-souls.json](./171538-mysteries-of-peak-valley-case-3-the-ruin-of-souls.json) |
 | Mysteries of Perception | 317583 | [317583-mysteries-of-perception.json](./317583-mysteries-of-perception.json) |
+| Mysteries of Rodion | 418150 | [418150-mysteries-of-rodion.json](./418150-mysteries-of-rodion.json) |
 | Mysteries of Shaola: The Cave | 167361 | [167361-mysteries-of-shaola-the-cave.json](./167361-mysteries-of-shaola-the-cave.json) |
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
 | Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
