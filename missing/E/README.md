@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoch: Underground | 56643 | [56643-enoch-underground.json](./56643-enoch-underground.json) |
 | Enoh | 189921 | [189921-enoh.json](./189921-enoh.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
+| Enoma: A New Beginning | 164102 | [164102-enoma-a-new-beginning.json](./164102-enoma-a-new-beginning.json) |
 | Enormosword | 341427 | [341427-enormosword.json](./341427-enormosword.json) |
 | Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
 | Enotria: The Last Song - Deluxe Edition | 324763 | [324763-enotria-the-last-song-deluxe-edition.json](./324763-enotria-the-last-song-deluxe-edition.json) |
@@ -7556,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
 | Evangeline | 26284 | [26284-evangeline.json](./26284-evangeline.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
+| Evangelion Battlefields | 165100 | [165100-evangelion-battlefields.json](./165100-evangelion-battlefields.json) |
 | Evangelion Shin Gekijouban: 3nd Impact | 56810 | [56810-evangelion-shin-gekijouban-3nd-impact.json](./56810-evangelion-shin-gekijouban-3nd-impact.json) |
 | Evangelion VR: The Throne of Souls | 49119 | [49119-evangelion-vr-the-throne-of-souls.json](./49119-evangelion-vr-the-throne-of-souls.json) |
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
