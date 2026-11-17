@@ -7693,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic Supermarket 2024 | 321487 | [321487-mechanic-supermarket-2024.json](./321487-mechanic-supermarket-2024.json) |
 | Mechanic Supermarket Simulator | 320436 | [320436-mechanic-supermarket-simulator.json](./320436-mechanic-supermarket-simulator.json) |
 | Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
+| Mechanica: A Ballad of the Rabbit and Mercury | 171109 | [171109-mechanica-a-ballad-of-the-rabbit-and-mercury.json](./171109-mechanica-a-ballad-of-the-rabbit-and-mercury.json) |
 | Mechanical Anarchy | 356689 | [356689-mechanical-anarchy.json](./356689-mechanical-anarchy.json) |
 | Mechanical Box | 95534 | [95534-mechanical-box.json](./95534-mechanical-box.json) |
 | Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
@@ -17450,6 +17451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monitor State | 374440 | [374440-monitor-state.json](./374440-monitor-state.json) |
 | Monitor: The Game | 56615 | [56615-monitor-the-game.json](./56615-monitor-the-game.json) |
 | Monitor: The Game - Alix: A Monitor Story | 171352 | [171352-monitor-the-game-alix-a-monitor-story.json](./171352-monitor-the-game-alix-a-monitor-story.json) |
+| Monitor: The Game - Not the Destination | 174397 | [174397-monitor-the-game-not-the-destination.json](./174397-monitor-the-game-not-the-destination.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
 | Monjarmageddon | 81109 | [81109-monjarmageddon.json](./81109-monjarmageddon.json) |
 | Monji | 407448 | [407448-monji.json](./407448-monji.json) |
