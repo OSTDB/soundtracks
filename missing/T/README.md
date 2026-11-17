@@ -4674,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacle Wars | 365194 | [365194-tentacle-wars.json](./365194-tentacle-wars.json) |
 | Tentacle Wars | 90243 | [90243-tentacle-wars.json](./90243-tentacle-wars.json) |
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
+| Tentacles | 78121 | [78121-tentacles.json](./78121-tentacles.json) |
 | Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
 | Tentacles Invasion | 321820 | [321820-tentacles-invasion.json](./321820-tentacles-invasion.json) |
 | Tentacles of Submission | 173362 | [173362-tentacles-of-submission.json](./173362-tentacles-of-submission.json) |
@@ -5313,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test Your Math | 27731 | [27731-test-your-math.json](./27731-test-your-math.json) |
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
+| Test Yourself: Psychology | 78120 | [78120-test-yourself-psychology.json](./78120-test-yourself-psychology.json) |
 | Test Zero | 359131 | [359131-test-zero.json](./359131-test-zero.json) |
 | Test_project | 390815 | [390815-test-project.json](./390815-test-project.json) |
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
@@ -10695,6 +10697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones: Bedrock Bowling | 44987 | [44987-the-flintstones-bedrock-bowling.json](./44987-the-flintstones-bedrock-bowling.json) |
 | The Flintstones: Bedrock Jackpot | 396443 | [396443-the-flintstones-bedrock-jackpot.json](./396443-the-flintstones-bedrock-jackpot.json) |
+| The Flintstones: Bedrock Racing | 78147 | [78147-the-flintstones-bedrock-racing.json](./78147-the-flintstones-bedrock-racing.json) |
 | The Flintstones: Big Trouble in Bedrock | 49194 | [49194-the-flintstones-big-trouble-in-bedrock.json](./49194-the-flintstones-big-trouble-in-bedrock.json) |
 | The Flintstones: Bring Back Bedrock | 98156 | [98156-the-flintstones-bring-back-bedrock.json](./98156-the-flintstones-bring-back-bedrock.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
@@ -13968,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel I - IV & Trails into Reverie Complete Box | 201066 | [201066-the-legend-of-heroes-trails-of-cold-steel-i-iv-and-trails-into-reverie-complete-box.json](./201066-the-legend-of-heroes-trails-of-cold-steel-i-iv-and-trails-into-reverie-complete-box.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
+| The Legend of Heroes: Trails of Cold Steel II - Kai | 78114 | [78114-the-legend-of-heroes-trails-of-cold-steel-ii-kai.json](./78114-the-legend-of-heroes-trails-of-cold-steel-ii-kai.json) |
 | The Legend of Heroes: Trails of Cold Steel II - Relentless Edition | 167087 | [167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json](./167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Digital Deluxe Edition | 238167 | [238167-the-legend-of-heroes-trails-of-cold-steel-iii-digital-deluxe-edition.json](./238167-the-legend-of-heroes-trails-of-cold-steel-iii-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition | 169217 | [169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json](./169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json) |
@@ -21843,6 +21847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | Therapy | 366580 | [366580-therapy.json](./366580-therapy.json) |
+| Therapy | 78125 | [78125-therapy.json](./78125-therapy.json) |
 | Therapy for Orchestra Movement III | 248803 | [248803-therapy-for-orchestra-movement-iii.json](./248803-therapy-for-orchestra-movement-iii.json) |
 | Therapy Game | 260907 | [260907-therapy-game.json](./260907-therapy-game.json) |
 | Therapy Sheep | 132499 | [132499-therapy-sheep.json](./132499-therapy-sheep.json) |
@@ -27815,6 +27820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Rogue Spear | 1843 | [1843-tom-clancys-rainbow-six-rogue-spear.json](./1843-tom-clancys-rainbow-six-rogue-spear.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Urban Operations | 1844 | [1844-tom-clancys-rainbow-six-rogue-spear-urban-operations.json](./1844-tom-clancys-rainbow-six-rogue-spear-urban-operations.json) |
+| Tom Clancy's Rainbow Six: Rogue Spear Mission Pack - Urban Operations | 78136 | [78136-tom-clancys-rainbow-six-rogue-spear-mission-pack-urban-operations.json](./78136-tom-clancys-rainbow-six-rogue-spear-mission-pack-urban-operations.json) |
 | Tom Clancy's Rainbow Six: Shadow Vanguard | 1854 | [1854-tom-clancys-rainbow-six-shadow-vanguard.json](./1854-tom-clancys-rainbow-six-shadow-vanguard.json) |
 | Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six: Take-Down – Missions in Korea | 135591 | [135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json](./135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json) |
@@ -30285,6 +30291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Ice Lich | 326690 | [326690-tower-of-the-ice-lich.json](./326690-tower-of-the-ice-lich.json) |
 | Tower of the Mad Wizard | 251986 | [251986-tower-of-the-mad-wizard.json](./251986-tower-of-the-mad-wizard.json) |
 | Tower of the Sage | 195140 | [195140-tower-of-the-sage.json](./195140-tower-of-the-sage.json) |
+| Tower of the Sorcerer | 78170 | [78170-tower-of-the-sorcerer.json](./78170-tower-of-the-sorcerer.json) |
 | Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
 | Tower of the Wizard: Gameboy Adventure | 106886 | [106886-tower-of-the-wizard-gameboy-adventure.json](./106886-tower-of-the-wizard-gameboy-adventure.json) |
 | Tower of Time | 27359 | [27359-tower-of-time.json](./27359-tower-of-time.json) |
@@ -30811,6 +30818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toyota Celica GT Rally | 69772 | [69772-toyota-celica-gt-rally.json](./69772-toyota-celica-gt-rally.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys | 307649 | [307649-toys.json](./307649-toys.json) |
+| Toys | 78103 | [78103-toys.json](./78103-toys.json) |
 | Toys 'n' Traps | 154044 | [154044-toys-n-traps.json](./154044-toys-n-traps.json) |
 | Toys & Physics | 153314 | [153314-toys-and-physics.json](./153314-toys-and-physics.json) |
 | Toys and Me: Bubble Pop | 98845 | [98845-toys-and-me-bubble-pop.json](./98845-toys-and-me-bubble-pop.json) |
