@@ -15445,6 +15445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
 | Mirror of Heaven | 380979 | [380979-mirror-of-heaven.json](./380979-mirror-of-heaven.json) |
+| Mirror of Immortality | 187421 | [187421-mirror-of-immortality.json](./187421-mirror-of-immortality.json) |
 | Mirror of the Phantom Maiden | 363087 | [363087-mirror-of-the-phantom-maiden.json](./363087-mirror-of-the-phantom-maiden.json) |
 | Mirror Party | 190914 | [190914-mirror-party.json](./190914-mirror-party.json) |
 | Mirror Protocol | 400013 | [400013-mirror-protocol.json](./400013-mirror-protocol.json) |
