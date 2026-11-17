@@ -12280,6 +12280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 6 1998 Nissan Skyline Gt-r 40th Anniversary | 409011 | [409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json](./409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json) |
 | Forza Horizon 6: 1990 Nissan #12 Skyline GT-R (BNR32 Gr.A) JTC | 402245 | [402245-forza-horizon-6-1990-nissan-12-skyline-gt-r-bnr32-gr-a-jtc.json](./402245-forza-horizon-6-1990-nissan-12-skyline-gt-r-bnr32-gr-a-jtc.json) |
 | Forza Horizon 6: Deluxe Edition | 386816 | [386816-forza-horizon-6-deluxe-edition.json](./386816-forza-horizon-6-deluxe-edition.json) |
+| Forza Horizon 6: Expansion 1 | 422303 | [422303-forza-horizon-6-expansion-1.json](./422303-forza-horizon-6-expansion-1.json) |
 | Forza Horizon 6: Italian Passion Car Pack | 402244 | [402244-forza-horizon-6-italian-passion-car-pack.json](./402244-forza-horizon-6-italian-passion-car-pack.json) |
 | Forza Horizon 6: Premium Edition | 386817 | [386817-forza-horizon-6-premium-edition.json](./386817-forza-horizon-6-premium-edition.json) |
 | Forza Horizon 6: Time Attack Car Pack | 401832 | [401832-forza-horizon-6-time-attack-car-pack.json](./401832-forza-horizon-6-time-attack-car-pack.json) |
@@ -13600,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
 | FreshBallFall | 298361 | [298361-freshballfall.json](./298361-freshballfall.json) |
 | FreshCharge Ruru | 250269 | [250269-freshcharge-ruru.json](./250269-freshcharge-ruru.json) |
+| Freshly Caught | 422324 | [422324-freshly-caught.json](./422324-freshly-caught.json) |
 | Freshly Folded: Laundry Shop | 366947 | [366947-freshly-folded-laundry-shop.json](./366947-freshly-folded-laundry-shop.json) |
 | Freshly fried shrimps seemed hot additionally named noth | 55644 | [55644-freshly-fried-shrimps-seemed-hot-additionally-named-noth.json](./55644-freshly-fried-shrimps-seemed-hot-additionally-named-noth.json) |
 | Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
@@ -14591,6 +14593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostland | 401270 | [401270-frostland.json](./401270-frostland.json) |
 | Frostlands | 184168 | [184168-frostlands.json](./184168-frostlands.json) |
 | Frostliner | 358967 | [358967-frostliner.json](./358967-frostliner.json) |
+| Frostmason | 422277 | [422277-frostmason.json](./422277-frostmason.json) |
 | Frostory | 159086 | [159086-frostory.json](./159086-frostory.json) |
 | FrostPanic: Whispers of Sertão | 258657 | [258657-frostpanic-whispers-of-sertao.json](./258657-frostpanic-whispers-of-sertao.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
