@@ -2710,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GCS: Salvage Rat | 361928 | [361928-gcs-salvage-rat.json](./361928-gcs-salvage-rat.json) |
 | Gdleen | 38020 | [38020-gdleen.json](./38020-gdleen.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
+| GE Neuro | 32272 | [32272-ge-neuro.json](./32272-ge-neuro.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Ge.ne.sis: Down the Road of Tales | 228949 | [228949-ge-ne-sis-down-the-road-of-tales.json](./228949-ge-ne-sis-down-the-road-of-tales.json) |
 | Geadows | 155904 | [155904-geadows.json](./155904-geadows.json) |
@@ -3645,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo Zombies | 190799 | [190799-geo-zombies.json](./190799-geo-zombies.json) |
 | Geo-Deux | 340297 | [340297-geo-deux.json](./340297-geo-deux.json) |
 | Geo-Duck | 165078 | [165078-geo-duck.json](./165078-geo-duck.json) |
+| Geo-Fall | 32269 | [32269-geo-fall.json](./32269-geo-fall.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
 | Geo-Political Simulator 5 | 315068 | [315068-geo-political-simulator-5.json](./315068-geo-political-simulator-5.json) |
 | Geo: The Iron Age | 399930 | [399930-geo-the-iron-age.json](./399930-geo-the-iron-age.json) |
@@ -4069,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GET! Boku no Mushi Tsukamaete | 49603 | [49603-get-boku-no-mushi-tsukamaete.json](./49603-get-boku-no-mushi-tsukamaete.json) |
 | Get! Monster | 240110 | [240110-get-monster.json](./240110-get-monster.json) |
 | Get!! Colonies | 67082 | [67082-get-colonies.json](./67082-get-colonies.json) |
+| Get'em Gary | 29232 | [29232-getem-gary.json](./29232-getem-gary.json) |
 | Get'Trump'ed Trivia | 380495 | [380495-gettrumped-trivia.json](./380495-gettrumped-trivia.json) |
 | Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
 | GetAmped Fighters | 225320 | [225320-getamped-fighters.json](./225320-getamped-fighters.json) |
@@ -6635,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Golf | 181689 | [181689-goblin-golf.json](./181689-goblin-golf.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Gourmet | 360029 | [360029-goblin-gourmet.json](./360029-goblin-gourmet.json) |
+| Goblin Harvest - The Mighty Quest | 29269 | [29269-goblin-harvest-the-mighty-quest.json](./29269-goblin-harvest-the-mighty-quest.json) |
 | Goblin Head Golf | 180472 | [180472-goblin-head-golf.json](./180472-goblin-head-golf.json) |
 | Goblin Hotdogs | 304925 | [304925-goblin-hotdogs.json](./304925-goblin-hotdogs.json) |
 | Goblin in the Castle | 318246 | [318246-goblin-in-the-castle.json](./318246-goblin-in-the-castle.json) |
@@ -9428,6 +9432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grav Factor | 236323 | [236323-grav-factor.json](./236323-grav-factor.json) |
 | Grav Grav Gravity | 43163 | [43163-grav-grav-gravity.json](./43163-grav-grav-gravity.json) |
 | Grav My Balls | 345127 | [345127-grav-my-balls.json](./345127-grav-my-balls.json) |
+| Grav\|Lab | 25201 | [25201-grav-lab.json](./25201-grav-lab.json) |
 | Grav1ty | 275994 | [275994-grav1ty.json](./275994-grav1ty.json) |
 | Gravarior | 285496 | [285496-gravarior.json](./285496-gravarior.json) |
 | Gravastar | 125329 | [125329-gravastar.json](./125329-gravastar.json) |
