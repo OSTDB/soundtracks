@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T08:06:44.268Z",
-  "total_soundtracks": 3634,
+  "generated_at": "2026-11-17T08:16:41.097Z",
+  "total_soundtracks": 3643,
   "games": [
     {
       "igdb_id": 292844,
@@ -4233,6 +4233,20 @@
       ]
     },
     {
+      "igdb_id": 194440,
+      "game_name": "Be Funny Now!",
+      "game_url": "https://ostdb.net/games/be-funny-now",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c7df2377e8d12aeae6585547",
+      "albums": [
+        {
+          "album_name": "Be Funny Now! (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/12kTVoYqWJjpKOQxJxZ5SX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11287,
       "game_name": "Beach Buggy Racing",
       "game_url": "https://ostdb.net/games/beach-buggy-racing",
@@ -8039,6 +8053,20 @@
         {
           "album_name": "Cosmic Star Heroine (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5b0MzKoPeFOQIkLk4HW8FI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 194955,
+      "game_name": "Cosmonious High",
+      "game_url": "https://ostdb.net/games/cosmonious-high",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed9c5a33877b33abeff79fe5",
+      "albums": [
+        {
+          "album_name": "Cosmonious High (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1qK50bfoYaSRCDWuhq8kSu",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14397,6 +14425,20 @@
         {
           "album_name": "Five Nights at Freddy's: Security Breach Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1QXxOTu7Ffyzwhb9u9EJoW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 190980,
+      "game_name": "FixFox",
+      "game_url": "https://ostdb.net/games/fixfox",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b9e6e9c98cbbca27503114e1",
+      "albums": [
+        {
+          "album_name": "FixFox (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0kR393PcatiXMyhIioZiQM",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23919,6 +23961,20 @@
       ]
     },
     {
+      "igdb_id": 192300,
+      "game_name": "Mekabolt+",
+      "game_url": "https://ostdb.net/games/mekabolt",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f79678401ad0fe34965a55f7",
+      "albums": [
+        {
+          "album_name": "Mekabolt (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5jokaUiOP7UtjEwwtcmRtL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 157756,
       "game_name": "Melatonin",
       "game_url": "https://ostdb.net/games/melatonin",
@@ -24907,6 +24963,20 @@
         {
           "album_name": "Momodora III ~ Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4IayX1GCPx1CrndGxyjgLW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 194505,
+      "game_name": "Monaco 2",
+      "game_url": "https://ostdb.net/games/monaco-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738365eeb2d54d19806dc588e5",
+      "albums": [
+        {
+          "album_name": "Monaco 2 (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Me1VhUDMmmBrgpsCts23X",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -34799,6 +34869,20 @@
       ]
     },
     {
+      "igdb_id": 189014,
+      "game_name": "Songs of Glimmerwick",
+      "game_url": "https://ostdb.net/games/songs-of-glimmerwick",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738aa7b3f58e34f433c3973de6",
+      "albums": [
+        {
+          "album_name": "Songs of Glimmerwick (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2LCzRcAqADDzHZK05MonCM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2174,
       "game_name": "Sonic & All-Stars Racing Transformed",
       "game_url": "https://ostdb.net/games/sonic-and-all-stars-racing-transformed",
@@ -39567,6 +39651,20 @@
       ]
     },
     {
+      "igdb_id": 195342,
+      "game_name": "The Elder Scrolls Online: High Isle",
+      "game_url": "https://ostdb.net/games/the-elder-scrolls-online-high-isle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d941094255148c85c1ecb35b",
+      "albums": [
+        {
+          "album_name": "The Elder Scrolls Online: High Isle (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0woxy63cFK6HfmFSGxYndV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 472,
       "game_name": "The Elder Scrolls V: Skyrim",
       "game_url": "https://ostdb.net/games/the-elder-scrolls-v-skyrim",
@@ -40175,6 +40273,20 @@
         {
           "album_name": "The Lamplighters League (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5MsYeFYCvYsJjOfCrjVt09",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 189856,
+      "game_name": "The Last Clockwinder",
+      "game_url": "https://ostdb.net/games/the-last-clockwinder",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e75c33a9bb31bdd809631cdc",
+      "albums": [
+        {
+          "album_name": "The Last Clockwinder (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6fOVhdFMNZOREExet9ckEu",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -41345,6 +41457,20 @@
         {
           "album_name": "The Town of Light Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0EjR4L2vDrhLd8FbBDb2Jv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 188808,
+      "game_name": "The Tribe Must Survive",
+      "game_url": "https://ostdb.net/games/the-tribe-must-survive",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d0d0eccc1f95963456d4086c",
+      "albums": [
+        {
+          "album_name": "The Tribe Must Survive OST",
+          "spotify_url": "https://open.spotify.com/album/5nODbcm84zciwMFrsWbkjb",
           "apple_music_url": "",
           "album_link_url": ""
         }
