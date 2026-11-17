@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth | 313840 | [313840-earth.json](./313840-earth.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
 | Earth 2140 | 200884 | [200884-earth-2140.json](./200884-earth-2140.json) |
+| Earth 2140 | 8931 | [8931-earth-2140.json](./8931-earth-2140.json) |
 | Earth 2140 Trilogy | 51765 | [51765-earth-2140-trilogy.json](./51765-earth-2140-trilogy.json) |
 | Earth 2140: Mission Pack | 79658 | [79658-earth-2140-mission-pack.json](./79658-earth-2140-mission-pack.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edengate: The Edge of Life | 217918 | [217918-edengate-the-edge-of-life.json](./217918-edengate-the-edge-of-life.json) |
 | Edengrad | 34968 | [34968-edengrad.json](./34968-edengrad.json) |
 | Edengrall | 129102 | [129102-edengrall.json](./129102-edengrall.json) |
+| Edens Zero | 139185 | [139185-edens-zero.json](./139185-edens-zero.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
 | Edentobi | 188282 | [188282-edentobi.json](./188282-edentobi.json) |
@@ -3424,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers: Last Duel | 219840 | [219840-embers-last-duel.json](./219840-embers-last-duel.json) |
 | Embers: Return to Dragonland | 267273 | [267273-embers-return-to-dragonland.json](./267273-embers-return-to-dragonland.json) |
 | Embershade | 323259 | [323259-embershade.json](./323259-embershade.json) |
+| Embershadow: Forbidden Realm | 430028 | [430028-embershadow-forbidden-realm.json](./430028-embershadow-forbidden-realm.json) |
 | EmberStride | 374137 | [374137-emberstride.json](./374137-emberstride.json) |
 | Embervale.TV | 239577 | [239577-embervale-tv.json](./239577-embervale-tv.json) |
 | Emberville | 272981 | [272981-emberville.json](./272981-emberville.json) |
@@ -8406,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution 2: Far Off Promise | 45858 | [45858-evolution-2-far-off-promise.json](./45858-evolution-2-far-off-promise.json) |
 | Evolution Adventure | 332796 | [332796-evolution-adventure.json](./332796-evolution-adventure.json) |
 | Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
+| Evolution Board Game | 138999 | [138999-evolution-board-game.json](./138999-evolution-board-game.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
 | Evolution Board Game: Flight Expansion | 293827 | [293827-evolution-board-game-flight-expansion.json](./293827-evolution-board-game-flight-expansion.json) |
 | Evolution Climate: Ultimate Bundle | 287181 | [287181-evolution-climate-ultimate-bundle.json](./287181-evolution-climate-ultimate-bundle.json) |
@@ -8568,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excave III: Tower of Destiny | 58726 | [58726-excave-iii-tower-of-destiny.json](./58726-excave-iii-tower-of-destiny.json) |
 | Exceed | 56117 | [56117-exceed.json](./56117-exceed.json) |
 | eXceed 2nd: Vampire | 229550 | [229550-exceed-2nd-vampire.json](./229550-exceed-2nd-vampire.json) |
+| eXceed 2nd: Vampire REX | 9291 | [9291-exceed-2nd-vampire-rex.json](./9291-exceed-2nd-vampire-rex.json) |
 | Exceed 3rd Jade Penetrate | 80380 | [80380-exceed-3rd-jade-penetrate.json](./80380-exceed-3rd-jade-penetrate.json) |
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
