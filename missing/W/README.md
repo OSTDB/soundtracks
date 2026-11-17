@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of the Universe | 247129 | [247129-warriors-of-the-universe.json](./247129-warriors-of-the-universe.json) |
 | Warriors of Titus | 93749 | [93749-warriors-of-titus.json](./93749-warriors-of-titus.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
+| Warriors of Waterdeep | 87685 | [87685-warriors-of-waterdeep.json](./87685-warriors-of-waterdeep.json) |
 | Warriors Orochi | 7242 | [7242-warriors-orochi.json](./7242-warriors-orochi.json) |
 | Warriors Orochi 2 | 7243 | [7243-warriors-orochi-2.json](./7243-warriors-orochi-2.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Pigs Can Fly: Enter The Aporkalypse | 301898 | [301898-when-pigs-can-fly-enter-the-aporkalypse.json](./301898-when-pigs-can-fly-enter-the-aporkalypse.json) |
 | When Pigs Fly | 317432 | [317432-when-pigs-fly.json](./317432-when-pigs-fly.json) |
 | When Pigs Fly | 60658 | [60658-when-pigs-fly.json](./60658-when-pigs-fly.json) |
+| When Pigs Fly 2 | 89294 | [89294-when-pigs-fly-2.json](./89294-when-pigs-fly-2.json) |
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
 | When Sirens Fall Silent | 380417 | [380417-when-sirens-fall-silent.json](./380417-when-sirens-fall-silent.json) |
