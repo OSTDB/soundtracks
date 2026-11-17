@@ -9532,6 +9532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
 | Chromatron 1, 2, 3, 4: The Complete Collection | 93284 | [93284-chromatron-1-2-3-4-the-complete-collection.json](./93284-chromatron-1-2-3-4-the-complete-collection.json) |
 | Chromatron 2 | 371798 | [371798-chromatron-2.json](./371798-chromatron-2.json) |
+| Chromavaders | 180731 | [180731-chromavaders.json](./180731-chromavaders.json) |
 | ChromaZone | 316704 | [316704-chromazone.json](./316704-chromazone.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome | 7873 | [7873-chrome.json](./7873-chrome.json) |
@@ -10040,6 +10041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cielcrosia: Seal of the Lewd Curse | 82864 | [82864-cielcrosia-seal-of-the-lewd-curse.json](./82864-cielcrosia-seal-of-the-lewd-curse.json) |
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
 | Cielo | 181292 | [181292-cielo.json](./181292-cielo.json) |
+| Cielo Segreto | 180738 | [180738-cielo-segreto.json](./180738-cielo-segreto.json) |
 | Cien Años Después | 203333 | [203333-cien-anos-despues.json](./203333-cien-anos-despues.json) |
 | Cienie | 305251 | [305251-cienie.json](./305251-cienie.json) |
 | Cigar Break | 323813 | [323813-cigar-break.json](./323813-cigar-break.json) |
@@ -13417,6 +13419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColecoVision Flashback | 31247 | [31247-colecovision-flashback.json](./31247-colecovision-flashback.json) |
 | Colette's Fall Festival | 384481 | [384481-colettes-fall-festival.json](./384481-colettes-fall-festival.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
+| Colibri | 180319 | [180319-colibri.json](./180319-colibri.json) |
 | Colibricks | 99681 | [99681-colibricks.json](./99681-colibricks.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
 | Colin McRae Rally | 235015 | [235015-colin-mcrae-rally.json](./235015-colin-mcrae-rally.json) |
@@ -21090,6 +21093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushing Depths | 250777 | [250777-crushing-depths.json](./250777-crushing-depths.json) |
 | Crushing Depths | 392473 | [392473-crushing-depths.json](./392473-crushing-depths.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
+| Crushing Reality | 180740 | [180740-crushing-reality.json](./180740-crushing-reality.json) |
 | CrushMon | 110016 | [110016-crushmon.json](./110016-crushmon.json) |
 | Crust Crusaders | 187788 | [187788-crust-crusaders.json](./187788-crust-crusaders.json) |
 | Crust Shump | 321042 | [321042-crust-shump.json](./321042-crust-shump.json) |
