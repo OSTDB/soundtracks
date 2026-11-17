@@ -13531,6 +13531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blupi at Home | 130434 | [130434-blupi-at-home.json](./130434-blupi-at-home.json) |
 | Blupi Explorer | 133563 | [133563-blupi-explorer.json](./133563-blupi-explorer.json) |
+| Blupi's Adventures | 417929 | [417929-blupis-adventures.json](./417929-blupis-adventures.json) |
 | Blupi's Travels | 133558 | [133558-blupis-travels.json](./133558-blupis-travels.json) |
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
 | Blupimania 2 | 182407 | [182407-blupimania-2.json](./182407-blupimania-2.json) |
