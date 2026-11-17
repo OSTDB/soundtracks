@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational Virtual Reality Campus | 341608 | [341608-educational-virtual-reality-campus.json](./341608-educational-virtual-reality-campus.json) |
 | Educative Cash Desk | 101197 | [101197-educative-cash-desk.json](./101197-educative-cash-desk.json) |
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
+| EduKitty ABC - Learn Alphabet | 89300 | [89300-edukitty-abc-learn-alphabet.json](./89300-edukitty-abc-learn-alphabet.json) |
 | EduMath1-Math Games for Kids | 96351 | [96351-edumath1-math-games-for-kids.json](./96351-edumath1-math-games-for-kids.json) |
 | EduNumbers | 167481 | [167481-edunumbers.json](./167481-edunumbers.json) |
 | Edvog Explorer Game | 93667 | [93667-edvog-explorer-game.json](./93667-edvog-explorer-game.json) |
