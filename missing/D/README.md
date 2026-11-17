@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dāi Dāi Dàmàoxiǎn | 368138 | [368138-dai-dai-damaoxian.json](./368138-dai-dai-damaoxian.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price! | 136955 | [136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json](./136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json) |
+| Dai Mahjong | 49546 | [49546-dai-mahjong.json](./49546-dai-mahjong.json) |
 | Dai Meiro: Meikyuu no Tatsujin | 48528 | [48528-dai-meiro-meikyuu-no-tatsujin.json](./48528-dai-meiro-meikyuu-no-tatsujin.json) |
 | Dai Ressya Goutou | 38639 | [38639-dai-ressya-goutou.json](./38639-dai-ressya-goutou.json) |
 | Dai Sengoku Rance | 278773 | [278773-dai-sengoku-rance.json](./278773-dai-sengoku-rance.json) |
@@ -548,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku Exceed II | 83308 | [83308-daisenryaku-exceed-ii.json](./83308-daisenryaku-exceed-ii.json) |
 | Daisenryaku Expert | 44421 | [44421-daisenryaku-expert.json](./44421-daisenryaku-expert.json) |
 | Daisenryaku Expert WWII: War in Europe | 44420 | [44420-daisenryaku-expert-wwii-war-in-europe.json](./44420-daisenryaku-expert-wwii-war-in-europe.json) |
+| Daisenryaku for Game Boy Advance | 49545 | [49545-daisenryaku-for-game-boy-advance.json](./49545-daisenryaku-for-game-boy-advance.json) |
 | Daisenryaku G | 46293 | [46293-daisenryaku-g.json](./46293-daisenryaku-g.json) |
 | Daisenryaku II: Campaign Version | 41781 | [41781-daisenryaku-ii-campaign-version.json](./41781-daisenryaku-ii-campaign-version.json) |
 | Daisenryaku III '90 | 242519 | [242519-daisenryaku-iii-90.json](./242519-daisenryaku-iii-90.json) |
@@ -569,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daishougai Keiba: Exciting Jockey | 83139 | [83139-daishougai-keiba-exciting-jockey.json](./83139-daishougai-keiba-exciting-jockey.json) |
 | Daisia | 74739 | [74739-daisia.json](./74739-daisia.json) |
 | Daisu-Kiss | 65886 | [65886-daisu-kiss.json](./65886-daisu-kiss.json) |
+| Daisuki Teddy | 49543 | [49543-daisuki-teddy.json](./49543-daisuki-teddy.json) |
 | Daisuki: The Her Adonis | 317466 | [317466-daisuki-the-her-adonis.json](./317466-daisuki-the-her-adonis.json) |
 | Daisy Chain | 104137 | [104137-daisy-chain.json](./104137-daisy-chain.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
@@ -760,6 +763,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Dare III: The Escape | 12032 | [12032-dan-dare-iii-the-escape.json](./12032-dan-dare-iii-the-escape.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
 | Dan Dare: Pilot of the Future | 30214 | [30214-dan-dare-pilot-of-the-future.json](./30214-dan-dare-pilot-of-the-future.json) |
+| Dan Doh!! Tobase Shouri no Smile Shot | 49542 | [49542-dan-doh-tobase-shouri-no-smile-shot.json](./49542-dan-doh-tobase-shouri-no-smile-shot.json) |
+| Dan Doh!! Xi | 49541 | [49541-dan-doh-xi.json](./49541-dan-doh-xi.json) |
 | Dan Factory | 253381 | [253381-dan-factory.json](./253381-dan-factory.json) |
 | Dan Kitchen's Tomcat: The F-14 Fighter Simulator | 12344 | [12344-dan-kitchens-tomcat-the-f-14-fighter-simulator.json](./12344-dan-kitchens-tomcat-the-f-14-fighter-simulator.json) |
 | Dan Laser | 334676 | [334676-dan-laser.json](./334676-dan-laser.json) |
@@ -8020,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion 96: Nintendo Breeders Cup You - Uma Data | 234884 | [234884-derby-stallion-96-nintendo-breeders-cup-you-uma-data.json](./234884-derby-stallion-96-nintendo-breeders-cup-you-uma-data.json) |
 | Derby Stallion 98 | 38237 | [38237-derby-stallion-98.json](./38237-derby-stallion-98.json) |
 | Derby Stallion 99 | 123047 | [123047-derby-stallion-99.json](./123047-derby-stallion-99.json) |
+| Derby Stallion Advance | 49540 | [49540-derby-stallion-advance.json](./49540-derby-stallion-advance.json) |
 | Derby Stallion DS | 123049 | [123049-derby-stallion-ds.json](./123049-derby-stallion-ds.json) |
 | Derby Stallion Expert Kit | 123055 | [123055-derby-stallion-expert-kit.json](./123055-derby-stallion-expert-kit.json) |
 | Derby Stallion Gold | 123050 | [123050-derby-stallion-gold.json](./123050-derby-stallion-gold.json) |
@@ -9551,6 +9557,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Di Gi Charat Fantasy | 109070 | [109070-di-gi-charat-fantasy.json](./109070-di-gi-charat-fantasy.json) |
 | Di Gi Charat Fantasy Excellent | 203830 | [203830-di-gi-charat-fantasy-excellent.json](./203830-di-gi-charat-fantasy-excellent.json) |
 | Di Gi Charat RPG | 270602 | [270602-di-gi-charat-rpg.json](./270602-di-gi-charat-rpg.json) |
+| Di Gi Charat: Di Gi Communication | 49539 | [49539-di-gi-charat-di-gi-communication.json](./49539-di-gi-charat-di-gi-communication.json) |
+| Di Gi Communication 2: Datou! Black GemaGema Dan! | 49537 | [49537-di-gi-communication-2-datou-black-gemagema-dan.json](./49537-di-gi-communication-2-datou-black-gemagema-dan.json) |
 | Di-Da-Dobble | 186785 | [186785-di-da-dobble.json](./186785-di-da-dobble.json) |
 | Di-Gata Defenders | 47956 | [47956-di-gata-defenders.json](./47956-di-gata-defenders.json) |
 | Di-Lithium Lift | 137482 | [137482-di-lithium-lift.json](./137482-di-lithium-lift.json) |
@@ -9627,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diacrisis | 117389 | [117389-diacrisis.json](./117389-diacrisis.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Diadra Empty | 17133 | [17133-diadra-empty.json](./17133-diadra-empty.json) |
+| DiaDroids World: Evil Teikoku no Yabou | 49538 | [49538-diadroids-world-evil-teikoku-no-yabou.json](./49538-diadroids-world-evil-teikoku-no-yabou.json) |
 | Diadrum | 92123 | [92123-diadrum.json](./92123-diadrum.json) |
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
 | Diagnosis Murder | 78400 | [78400-diagnosis-murder.json](./78400-diagnosis-murder.json) |
@@ -11829,6 +11838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disharmonia | 199493 | [199493-disharmonia.json](./199493-disharmonia.json) |
 | Disharmony | 168325 | [168325-disharmony.json](./168325-disharmony.json) |
 | Disharmony | 196123 | [196123-disharmony.json](./196123-disharmony.json) |
+| Dishaster | 46901 | [46901-dishaster.json](./46901-dishaster.json) |
 | DishDash | 389968 | [389968-dishdash.json](./389968-dishdash.json) |
 | Dishonest | 120934 | [120934-dishonest.json](./120934-dishonest.json) |
 | Dishonor Thy Neighbor | 105727 | [105727-dishonor-thy-neighbor.json](./105727-dishonor-thy-neighbor.json) |
@@ -19987,6 +19997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Season PC | 119449 | [119449-duck-season-pc.json](./119449-duck-season-pc.json) |
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
+| Duck Shoot | 46899 | [46899-duck-shoot.json](./46899-duck-shoot.json) |
 | Duck Side of the Moon | 318167 | [318167-duck-side-of-the-moon.json](./318167-duck-side-of-the-moon.json) |
 | Duck Simulator | 130547 | [130547-duck-simulator.json](./130547-duck-simulator.json) |
 | Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
