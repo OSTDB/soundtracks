@@ -14069,6 +14069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Sandbox | 111808 | [111808-aquarium-sandbox.json](./111808-aquarium-sandbox.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquarium Sim | 101164 | [101164-aquarium-sim.json](./101164-aquarium-sim.json) |
+| Aquarium Simulator | 104162 | [104162-aquarium-simulator.json](./104162-aquarium-simulator.json) |
 | Aquarium Travels | 152642 | [152642-aquarium-travels.json](./152642-aquarium-travels.json) |
 | Aquarium. | 91325 | [91325-aquarium.json](./91325-aquarium.json) |
 | Aquariums | 345937 | [345937-aquariums.json](./345937-aquariums.json) |
@@ -19494,6 +19495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmospheric Extinction | 259745 | [259745-atmospheric-extinction.json](./259745-atmospheric-extinction.json) |
 | Atmospheric Titan | 405233 | [405233-atmospheric-titan.json](./405233-atmospheric-titan.json) |
 | Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
+| Atmotech: Episode Praeludium | 104889 | [104889-atmotech-episode-praeludium.json](./104889-atmotech-episode-praeludium.json) |
 | ATNRPG | 387687 | [387687-atnrpg.json](./387687-atnrpg.json) |
 | Ato | 132309 | [132309-ato.json](./132309-ato.json) |
 | Atoll | 154117 | [154117-atoll.json](./154117-atoll.json) |
