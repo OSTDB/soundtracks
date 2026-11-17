@@ -11584,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
 | BlindGiRl | 23361 | [23361-blindgirl.json](./23361-blindgirl.json) |
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
+| Blindia | 109799 | [109799-blindia.json](./109799-blindia.json) |
 | Blinding Blade | 114492 | [114492-blinding-blade.json](./114492-blinding-blade.json) |
 | Blinding Dark | 10053 | [10053-blinding-dark.json](./10053-blinding-dark.json) |
 | Blinding Light | 284021 | [284021-blinding-light.json](./284021-blinding-light.json) |
@@ -14775,6 +14776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
 | Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
 | Boobs Puzzle | 107528 | [107528-boobs-puzzle.json](./107528-boobs-puzzle.json) |
+| Boobs Puzzle 2 | 109806 | [109806-boobs-puzzle-2.json](./109806-boobs-puzzle-2.json) |
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Boobs VR | 367875 | [367875-boobs-vr.json](./367875-boobs-vr.json) |
 | Boobs vs Aliens | 229234 | [229234-boobs-vs-aliens.json](./229234-boobs-vs-aliens.json) |
