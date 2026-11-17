@@ -7667,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexLands | 238657 | [238657-hexlands.json](./238657-hexlands.json) |
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | Hexlide | 55562 | [55562-hexlide.json](./55562-hexlide.json) |
+| Hexlock | 419719 | [419719-hexlock.json](./419719-hexlock.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
 | Hexlords: Quantum Warfare | 259998 | [259998-hexlords-quantum-warfare.json](./259998-hexlords-quantum-warfare.json) |
@@ -13624,6 +13625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
 | Hunger Tower | 123710 | [123710-hunger-tower.json](./123710-hunger-tower.json) |
 | Hungover | 131792 | [131792-hungover.json](./131792-hungover.json) |
+| Hungribles | 419697 | [419697-hungribles.json](./419697-hungribles.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
 | Hungro Seal | 180162 | [180162-hungro-seal.json](./180162-hungro-seal.json) |
 | Hungry | 201646 | [201646-hungry.json](./201646-hungry.json) |
