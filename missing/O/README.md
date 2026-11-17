@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oink Royale | 185600 | [185600-oink-royale.json](./185600-oink-royale.json) |
 | Oink Splash Party | 422522 | [422522-oink-splash-party.json](./422522-oink-splash-party.json) |
 | Oink! | 18580 | [18580-oink.json](./18580-oink.json) |
+| Oink! | 41050 | [41050-oink.json](./41050-oink.json) |
 | Oio | 79150 | [79150-oio.json](./79150-oio.json) |
 | Oir | 76219 | [76219-oir.json](./76219-oir.json) |
 | Oiran Survival: Edo Yokai Rush | 391304 | [391304-oiran-survival-edo-yokai-rush.json](./391304-oiran-survival-edo-yokai-rush.json) |
@@ -4712,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Empires: Genghis | 124846 | [124846-oriental-empires-genghis.json](./124846-oriental-empires-genghis.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
 | Oriental Games | 74906 | [74906-oriental-games.json](./74906-oriental-games.json) |
+| Oriental Hero | 41056 | [41056-oriental-hero.json](./41056-oriental-hero.json) |
 | Oriental Immortal | 236765 | [236765-oriental-immortal.json](./236765-oriental-immortal.json) |
 | Oriental Legend | 39575 | [39575-oriental-legend.json](./39575-oriental-legend.json) |
 | Oriental Legend 2 | 82753 | [82753-oriental-legend-2.json](./82753-oriental-legend-2.json) |
@@ -6054,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307928 | [307928-outrun.json](./307928-outrun.json) |
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
 | OutRun 2 | 2052 | [2052-outrun-2.json](./2052-outrun-2.json) |
+| OutRun 2 SP: Special Tours | 43566 | [43566-outrun-2-sp-special-tours.json](./43566-outrun-2-sp-special-tours.json) |
 | OutRun 2006: Coast 2 Coast | 2054 | [2054-outrun-2006-coast-2-coast.json](./2054-outrun-2006-coast-2-coast.json) |
 | OutRun 2019 | 45767 | [45767-outrun-2019.json](./45767-outrun-2019.json) |
 | OutRun 3-D | 46136 | [46136-outrun-3-d.json](./46136-outrun-3-d.json) |
