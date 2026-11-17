@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhyre FPS | 131470 | [131470-valhyre-fps.json](./131470-valhyre-fps.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
 | Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
+| Valiance | 425966 | [425966-valiance.json](./425966-valiance.json) |
 | Valiance Online | 59018 | [59018-valiance-online.json](./59018-valiance-online.json) |
 | Valiant | 136848 | [136848-valiant.json](./136848-valiant.json) |
 | Valiant | 19040 | [19040-valiant.json](./19040-valiant.json) |
