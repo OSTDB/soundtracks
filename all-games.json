@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T06:47:19.176Z",
-  "total_soundtracks": 3570,
+  "generated_at": "2026-11-17T06:56:21.458Z",
+  "total_soundtracks": 3576,
   "games": [
     {
       "igdb_id": 292844,
@@ -2459,6 +2459,20 @@
         {
           "album_name": "As Far As The Eye (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2iq1NslwMRAy0JIS3VbmFZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 256722,
+      "game_name": "As I Began to Dream",
+      "game_url": "https://ostdb.net/games/as-i-began-to-dream",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e18a68c8482e7d9057f77cc4",
+      "albums": [
+        {
+          "album_name": "As I Began To Dream (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0d1z8X3ae4HXkFqc8Pjhsp",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5051,6 +5065,20 @@
       ]
     },
     {
+      "igdb_id": 260402,
+      "game_name": "Bloodthief",
+      "game_url": "https://ostdb.net/games/bloodthief",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731037cb11a3f206897bf6eded",
+      "albums": [
+        {
+          "album_name": "Bloodthief Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1ofdsLUcEkZGCNVyJA3mZP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 4140,
       "game_name": "Bloody Roar 2",
       "game_url": "https://ostdb.net/games/bloody-roar-2",
@@ -6821,6 +6849,20 @@
         {
           "album_name": "Chicken Assassin: Reloaded (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7ladJFCQZn5ndyWkCRzKAR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 258037,
+      "game_name": "Chicken Police: Into the Hive!",
+      "game_url": "https://ostdb.net/games/chicken-police-into-the-hive",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27328408a6986c167a77e762567",
+      "albums": [
+        {
+          "album_name": "Chicken Police: Into The Hive (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Sil6CB2hBsGl0eagjviPB",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14781,6 +14823,20 @@
         {
           "album_name": "Freedom Finger (Music from the Game)",
           "spotify_url": "https://open.spotify.com/album/3egs3PeULuaZ753GSJqIk2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 252794,
+      "game_name": "Fretless: The Wrath of Riffson",
+      "game_url": "https://ostdb.net/games/fretless-the-wrath-of-riffson",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398b8b1c63f8087ac93da8029",
+      "albums": [
+        {
+          "album_name": "Fretless - The Wrath of Riffson (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1VXVxtFzJOUYJypudcF9DN",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37833,6 +37889,20 @@
       ]
     },
     {
+      "igdb_id": 257055,
+      "game_name": "Tenebris Pictura",
+      "game_url": "https://ostdb.net/games/tenebris-pictura",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c78513995f86b663bd6f0885",
+      "albums": [
+        {
+          "album_name": "Tenebris Pictura (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1zEQ7vUbBxJkXHF6Zv4awZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 191430,
       "game_name": "Tentacular",
       "game_url": "https://ostdb.net/games/tentacular",
@@ -39989,6 +40059,20 @@
         {
           "album_name": "The Pedestrian: Original Video Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7tsHKss5CyMo1b0wX7pesZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 258618,
+      "game_name": "The Pirate Queen: With Lucy Liu",
+      "game_url": "https://ostdb.net/games/the-pirate-queen-with-lucy-liu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273054991d8c07feef615cb7ce5",
+      "albums": [
+        {
+          "album_name": "The Pirate Queen with Lucy Liu Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2qBhQvrHHOMv50YeyD3weC",
           "apple_music_url": "",
           "album_link_url": ""
         }
