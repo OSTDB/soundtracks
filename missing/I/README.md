@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Lakes | 20206 | [20206-ice-lakes.json](./20206-ice-lakes.json) |
 | Ice Land | 276843 | [276843-ice-land.json](./276843-ice-land.json) |
+| Ice Land 2 | 25272 | [25272-ice-land-2.json](./25272-ice-land-2.json) |
 | Ice League Hockey | 321439 | [321439-ice-league-hockey.json](./321439-ice-league-hockey.json) |
 | Ice Man | 307838 | [307838-ice-man.json](./307838-ice-man.json) |
 | Ice Master | 92841 | [92841-ice-master.json](./92841-ice-master.json) |
