@@ -6862,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PickCrafter | 76537 | [76537-pickcrafter.json](./76537-pickcrafter.json) |
 | Picker 3D | 387077 | [387077-picker-3d.json](./387077-picker-3d.json) |
 | Picker Bot 42 | 287189 | [287189-picker-bot-42.json](./287189-picker-bot-42.json) |
+| Picker Magnate Simulator | 422968 | [422968-picker-magnate-simulator.json](./422968-picker-magnate-simulator.json) |
 | Pickers | 10572 | [10572-pickers.json](./10572-pickers.json) |
 | Pickers: Adventures in Rust | 209967 | [209967-pickers-adventures-in-rust.json](./209967-pickers-adventures-in-rust.json) |
 | Picket Fences | 262345 | [262345-picket-fences.json](./262345-picket-fences.json) |
@@ -13121,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
 | Pokémon TCG Pocket: Ruler of the Skies | 412413 | [412413-pokemon-tcg-pocket-ruler-of-the-skies.json](./412413-pokemon-tcg-pocket-ruler-of-the-skies.json) |
 | Pokémon Team Rocket Blast Off | 61001 | [61001-pokemon-team-rocket-blast-off.json](./61001-pokemon-team-rocket-blast-off.json) |
+| Pokémon Team Rocket: Jessie & James | 422914 | [422914-pokemon-team-rocket-jessie-and-james.json](./422914-pokemon-team-rocket-jessie-and-james.json) |
 | Pokémon Team Turbo | 64034 | [64034-pokemon-team-turbo.json](./64034-pokemon-team-turbo.json) |
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
 | Pokémon Tectonic | 252431 | [252431-pokemon-tectonic.json](./252431-pokemon-tectonic.json) |
