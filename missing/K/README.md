@@ -5646,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kofoin: Swarm Defense | 374821 | [374821-kofoin-swarm-defense.json](./374821-kofoin-swarm-defense.json) |
 | Kofun ha Ikiteiru: Maholova Club no Shitai Sagashi | 206563 | [206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json](./206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json) |
 | Kogaion | 410646 | [410646-kogaion.json](./410646-kogaion.json) |
+| KoGaMa | 80691 | [80691-kogama.json](./80691-kogama.json) |
 | Koganei-sou to Konjiki no Agehachou | 394580 | [394580-koganei-sou-to-konjiki-no-agehachou.json](./394580-koganei-sou-to-konjiki-no-agehachou.json) |
 | Koganei-sou to Konjiki no Agehachou: First Press Limited Special Edition | 397956 | [397956-koganei-sou-to-konjiki-no-agehachou-first-press-limited-special-edition.json](./397956-koganei-sou-to-konjiki-no-agehachou-first-press-limited-special-edition.json) |
 | Koganei-sou to Konjiki no Agehachou: Sprite Limited Edition | 416020 | [416020-koganei-sou-to-konjiki-no-agehachou-sprite-limited-edition.json](./416020-koganei-sou-to-konjiki-no-agehachou-sprite-limited-edition.json) |
