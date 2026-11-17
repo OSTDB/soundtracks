@@ -2636,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon | 232597 | [232597-neon.json](./232597-neon.json) |
 | Neon | 74181 | [74181-neon.json](./74181-neon.json) |
 | Neon | 78351 | [78351-neon.json](./78351-neon.json) |
+| Neon & Bones | 425914 | [425914-neon-and-bones.json](./425914-neon-and-bones.json) |
 | Neon Abyss | 116100 | [116100-neon-abyss.json](./116100-neon-abyss.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Abyss 2: Archenemy Returns | 375683 | [375683-neon-abyss-2-archenemy-returns.json](./375683-neon-abyss-2-archenemy-returns.json) |
