@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packing House | 184475 | [184475-packing-house.json](./184475-packing-house.json) |
 | Packing Life | 373318 | [373318-packing-life.json](./373318-packing-life.json) |
 | Packing Shift | 419747 | [419747-packing-shift.json](./419747-packing-shift.json) |
+| Packing Up the Rest of Your Stuff on the Last Day at Your Old Apartment | 83070 | [83070-packing-up-the-rest-of-your-stuff-on-the-last-day-at-your-old-apartment.json](./83070-packing-up-the-rest-of-your-stuff-on-the-last-day-at-your-old-apartment.json) |
 | Packit List | 341601 | [341601-packit-list.json](./341601-packit-list.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packonomy | 374196 | [374196-packonomy.json](./374196-packonomy.json) |
@@ -8703,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Girls | 148971 | [148971-pirates-girls.json](./148971-pirates-girls.json) |
 | Pirates Gold | 235539 | [235539-pirates-gold.json](./235539-pirates-gold.json) |
 | Pirates Golden Quest | 300854 | [300854-pirates-golden-quest.json](./300854-pirates-golden-quest.json) |
+| Pirates in Hyperspace / FX | 84362 | [84362-pirates-in-hyperspace-fx.json](./84362-pirates-in-hyperspace-fx.json) |
 | Pirates In Love | 232852 | [232852-pirates-in-love.json](./232852-pirates-in-love.json) |
 | Pirates in Love: Captain's Cut | 232853 | [232853-pirates-in-love-captains-cut.json](./232853-pirates-in-love-captains-cut.json) |
 | Pirates Jigsaw Puzzle for Kids & Toddlers | 203698 | [203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json](./203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json) |
@@ -14186,6 +14188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Hall Pro | 50951 | [50951-pool-hall-pro.json](./50951-pool-hall-pro.json) |
 | Pool House | 54284 | [54284-pool-house.json](./54284-pool-house.json) |
 | Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
+| Pool Island | 84384 | [84384-pool-island.json](./84384-pool-island.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Live Tour: Champions | 56390 | [56390-pool-live-tour-champions.json](./56390-pool-live-tour-champions.json) |
 | Pool Loop | 392596 | [392596-pool-loop.json](./392596-pool-loop.json) |
