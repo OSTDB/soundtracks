@@ -14063,6 +14063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush Hush High | 303555 | [303555-hush-hush-high.json](./303555-hush-hush-high.json) |
 | Hush Hush: Only Your Love Can Save Them | 165135 | [165135-hush-hush-only-your-love-can-save-them.json](./165135-hush-hush-only-your-love-can-save-them.json) |
 | Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
+| Hush Piñata | 422969 | [422969-hush-pinata.json](./422969-hush-pinata.json) |
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
 | Hushaby Baby | 59216 | [59216-hushaby-baby.json](./59216-hushaby-baby.json) |
 | Hushed Walls | 272167 | [272167-hushed-walls.json](./272167-hushed-walls.json) |
