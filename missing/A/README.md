@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accelerator | 13934 | [13934-accelerator.json](./13934-accelerator.json) |
 | Accelerator | 77142 | [77142-accelerator.json](./77142-accelerator.json) |
 | Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
+| Accept Defeat | 427108 | [427108-accept-defeat.json](./427108-accept-defeat.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Acceptance | 282737 | [282737-acceptance.json](./282737-acceptance.json) |
@@ -7216,6 +7217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
 | Akuno Puzzle | 97775 | [97775-akuno-puzzle.json](./97775-akuno-puzzle.json) |
 | Akupara Collection | 324009 | [324009-akupara-collection.json](./324009-akupara-collection.json) |
+| Akupara Hidden Gems | 427124 | [427124-akupara-hidden-gems.json](./427124-akupara-hidden-gems.json) |
 | Akupara: Action Bundle | 222409 | [222409-akupara-action-bundle.json](./222409-akupara-action-bundle.json) |
 | Akuro & Bahaku 2 | 355211 | [355211-akuro-and-bahaku-2.json](./355211-akuro-and-bahaku-2.json) |
 | Akuro & Bahaku: Jungle Adventure | 325060 | [325060-akuro-and-bahaku-jungle-adventure.json](./325060-akuro-and-bahaku-jungle-adventure.json) |
@@ -15697,6 +15699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Maze of Death GG2SMS | 369478 | [369478-arena-maze-of-death-gg2sms.json](./369478-arena-maze-of-death-gg2sms.json) |
 | Arena Monarchy | 367917 | [367917-arena-monarchy.json](./367917-arena-monarchy.json) |
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
+| Arena of Champions | 427105 | [427105-arena-of-champions.json](./427105-arena-of-champions.json) |
 | Arena of cube | 105561 | [105561-arena-of-cube.json](./105561-arena-of-cube.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
 | Arena of Evolution: Red Tides | 123104 | [123104-arena-of-evolution-red-tides.json](./123104-arena-of-evolution-red-tides.json) |
