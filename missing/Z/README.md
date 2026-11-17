@@ -493,7 +493,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zebulon: A Lost Cat | 312036 | [312036-zebulon-a-lost-cat.json](./312036-zebulon-a-lost-cat.json) |
 | Zecha Tactics | 142593 | [142593-zecha-tactics.json](./142593-zecha-tactics.json) |
 | Zector 7 | 299103 | [299103-zector-7.json](./299103-zector-7.json) |
-| Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed | 227650 | [227650-zed.json](./227650-zed.json) |
 | Zed and Zee | 414885 | [414885-zed-and-zee.json](./414885-zed-and-zee.json) |
 | Zed Blade | 39345 | [39345-zed-blade.json](./39345-zed-blade.json) |
