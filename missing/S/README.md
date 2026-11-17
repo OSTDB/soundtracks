@@ -27823,6 +27823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Masters of Teräs Käsi | 18044 | [18044-star-wars-masters-of-teras-kasi.json](./18044-star-wars-masters-of-teras-kasi.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Millennium Falcon CD-ROM Playset | 56979 | [56979-star-wars-millennium-falcon-cd-rom-playset.json](./56979-star-wars-millennium-falcon-cd-rom-playset.json) |
+| Star Wars: Millennium Falcon Challenge | 199005 | [199005-star-wars-millennium-falcon-challenge.json](./199005-star-wars-millennium-falcon-challenge.json) |
 | Star Wars: Monopoly | 68817 | [68817-star-wars-monopoly.json](./68817-star-wars-monopoly.json) |
 | Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
 | Star Wars: Movie Duels | 355148 | [355148-star-wars-movie-duels.json](./355148-star-wars-movie-duels.json) |
@@ -36426,6 +36427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super MiniJolt | 276342 | [276342-super-minijolt.json](./276342-super-minijolt.json) |
 | Super Mining Mechs | 319672 | [319672-super-mining-mechs.json](./319672-super-mining-mechs.json) |
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
+| Super Mirrortroid | 199007 | [199007-super-mirrortroid.json](./199007-super-mirrortroid.json) |
 | Super Missile Attack | 308116 | [308116-super-missile-attack.json](./308116-super-missile-attack.json) |
 | Super Mixtape | 32433 | [32433-super-mixtape.json](./32433-super-mixtape.json) |
 | Super Mogura Tataki!! Pokkun Mogura | 48839 | [48839-super-mogura-tataki-pokkun-mogura.json](./48839-super-mogura-tataki-pokkun-mogura.json) |
@@ -37673,6 +37675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Undercover Slime Agent | 137169 | [137169-super-undercover-slime-agent.json](./137169-super-undercover-slime-agent.json) |
 | Super Universe Brawl | 317503 | [317503-super-universe-brawl.json](./317503-super-universe-brawl.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
+| Super UpTroidDown | 199008 | [199008-super-uptroiddown.json](./199008-super-uptroiddown.json) |
 | Super Urban Wizard | 111414 | [111414-super-urban-wizard.json](./111414-super-urban-wizard.json) |
 | Super Uriel | 226461 | [226461-super-uriel.json](./226461-super-uriel.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
@@ -37900,6 +37903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
 | Superfrog/Arcade Pool | 79510 | [79510-superfrog-arcade-pool.json](./79510-superfrog-arcade-pool.json) |
+| Superfuse | 198852 | [198852-superfuse.json](./198852-superfuse.json) |
 | Supergalactix | 248241 | [248241-supergalactix.json](./248241-supergalactix.json) |
 | SuperGrind RPG | 130977 | [130977-supergrind-rpg.json](./130977-supergrind-rpg.json) |
 | Supergun | 241200 | [241200-supergun.json](./241200-supergun.json) |
