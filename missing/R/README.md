@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raster | 312267 | [312267-raster.json](./312267-raster.json) |
 | Raster Blaster | 24879 | [24879-raster-blaster.json](./24879-raster-blaster.json) |
 | Raster Fahndung | 92992 | [92992-raster-fahndung.json](./92992-raster-fahndung.json) |
+| Raster Prime | 109958 | [109958-raster-prime.json](./109958-raster-prime.json) |
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
 | Raster Runner | 93101 | [93101-raster-runner.json](./93101-raster-runner.json) |
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
@@ -6655,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Manager | 96321 | [96321-restaurant-manager.json](./96321-restaurant-manager.json) |
 | Restaurant Manager Simulator | 211696 | [211696-restaurant-manager-simulator.json](./211696-restaurant-manager-simulator.json) |
 | Restaurant Owner: A Restaurant Simulator | 324530 | [324530-restaurant-owner-a-restaurant-simulator.json](./324530-restaurant-owner-a-restaurant-simulator.json) |
+| Restaurant Paradise | 109959 | [109959-restaurant-paradise.json](./109959-restaurant-paradise.json) |
 | Restaurant Renovation | 118248 | [118248-restaurant-renovation.json](./118248-restaurant-renovation.json) |
 | Restaurant Rush | 351560 | [351560-restaurant-rush.json](./351560-restaurant-rush.json) |
 | Restaurant Scramble | 372524 | [372524-restaurant-scramble.json](./372524-restaurant-scramble.json) |
@@ -7502,6 +7504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Sound Show | 334994 | [334994-reverse-sound-show.json](./334994-reverse-sound-show.json) |
 | Reverse Survivors | 408394 | [408394-reverse-survivors.json](./408394-reverse-survivors.json) |
 | Reverse T-gotchi | 418390 | [418390-reverse-t-gotchi.json](./418390-reverse-t-gotchi.json) |
+| Reverse Time Collapse | 109957 | [109957-reverse-time-collapse.json](./109957-reverse-time-collapse.json) |
 | Reverse Twinkle | 206505 | [206505-reverse-twinkle.json](./206505-reverse-twinkle.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
 | Reverse Woman of Human Ball | 234270 | [234270-reverse-woman-of-human-ball.json](./234270-reverse-woman-of-human-ball.json) |
@@ -12356,6 +12359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
 | Room 42 | 68493 | [68493-room-42.json](./68493-room-42.json) |
 | Room 502 | 351567 | [351567-room-502.json](./351567-room-502.json) |
+| Room 54 | 109813 | [109813-room-54.json](./109813-room-54.json) |
 | Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
 | Room 601 | 393246 | [393246-room-601.json](./393246-room-601.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
@@ -13711,6 +13715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins Survival | 114511 | [114511-ruins-survival.json](./114511-ruins-survival.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | Ruins to Rumble | 117831 | [117831-ruins-to-rumble.json](./117831-ruins-to-rumble.json) |
+| Ruins War | 109800 | [109800-ruins-war.json](./109800-ruins-war.json) |
 | Ruins: The Gate of Rebirth | 284256 | [284256-ruins-the-gate-of-rebirth.json](./284256-ruins-the-gate-of-rebirth.json) |
 | Ruinscape | 369134 | [369134-ruinscape.json](./369134-ruinscape.json) |
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
