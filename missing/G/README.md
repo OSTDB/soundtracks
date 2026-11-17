@@ -3588,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensokyo Rolling Force | 105313 | [105313-gensokyo-rolling-force.json](./105313-gensokyo-rolling-force.json) |
 | Gensokyo: Presumption of Guilt - Pansies Before Dawn | 311149 | [311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json](./311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json) |
 | Gensou Gold Rush | 362023 | [362023-gensou-gold-rush.json](./362023-gensou-gold-rush.json) |
+| Gensou Koro-koro | 428898 | [428898-gensou-koro-koro.json](./428898-gensou-koro-koro.json) |
 | Gensou Maden Saiyuuki Retribution: Hi no Ataru Basho De | 37444 | [37444-gensou-maden-saiyuuki-retribution-hi-no-ataru-basho-de.json](./37444-gensou-maden-saiyuuki-retribution-hi-no-ataru-basho-de.json) |
 | Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi | 49606 | [49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json](./49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json) |
 | Gensou Makyou Kitan | 388734 | [388734-gensou-makyou-kitan.json](./388734-gensou-makyou-kitan.json) |
@@ -4146,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex Trilogy | 256406 | [256406-gex-trilogy.json](./256406-gex-trilogy.json) |
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
+| GexCo Level Pack | 428891 | [428891-gexco-level-pack.json](./428891-gexco-level-pack.json) |
 | Geyser Surpriser | 396166 | [396166-geyser-surpriser.json](./396166-geyser-surpriser.json) |
 | Geyserlands | 341724 | [341724-geyserlands.json](./341724-geyserlands.json) |
 | Gezeichnet: Unsere Flucht 1945 | 244928 | [244928-gezeichnet-unsere-flucht-1945.json](./244928-gezeichnet-unsere-flucht-1945.json) |
@@ -10268,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green: An Orc's Life | 128115 | [128115-green-an-orcs-life.json](./128115-green-an-orcs-life.json) |
 | Green: The Life Algorithm | 120863 | [120863-green-the-life-algorithm.json](./120863-green-the-life-algorithm.json) |
 | Green's Xmas Collection | 80193 | [80193-greens-xmas-collection.json](./80193-greens-xmas-collection.json) |
+| Greenbound | 428899 | [428899-greenbound.json](./428899-greenbound.json) |
 | GreenBulb | 340322 | [340322-greenbulb.json](./340322-greenbulb.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
 | GreenColdBody | 294359 | [294359-greencoldbody.json](./294359-greencoldbody.json) |
