@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | *Hello, Planet. | 142744 | [142744-hello-planet.json](./142744-hello-planet.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | // Down to Earth // | 135081 | [135081-down-to-earth.json](./135081-down-to-earth.json) |
+| // Overdrive | 182413 | [182413-overdrive.json](./182413-overdrive.json) |
 | //Todo: today | 112283 | [112283-todo-today.json](./112283-todo-today.json) |
 | /Connection Haunted | 147872 | [147872-connection-haunted.json](./147872-connection-haunted.json) |
 | /R | 329554 | [329554-r.json](./329554-r.json) |
@@ -2878,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Tunnel | 379615 | [379615-3d-tunnel.json](./379615-3d-tunnel.json) |
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3D Twist & Match | 65551 | [65551-3d-twist-and-match.json](./65551-3d-twist-and-match.json) |
+| 3D Ultra Cool Pool | 183628 | [183628-3d-ultra-cool-pool.json](./183628-3d-ultra-cool-pool.json) |
 | 3D Ultra Lionel Traintown | 10735 | [10735-3d-ultra-lionel-traintown.json](./10735-3d-ultra-lionel-traintown.json) |
 | 3D Ultra Lionel Traintown Deluxe | 205954 | [205954-3d-ultra-lionel-traintown-deluxe.json](./205954-3d-ultra-lionel-traintown-deluxe.json) |
 | 3D Ultra Mini Golf | 77788 | [77788-3d-ultra-mini-golf.json](./77788-3d-ultra-mini-golf.json) |
