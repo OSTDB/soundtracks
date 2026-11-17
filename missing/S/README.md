@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Beach | 35040 | [35040-sakura-beach.json](./35040-sakura-beach.json) |
 | Sakura Beach 2 | 34329 | [34329-sakura-beach-2.json](./34329-sakura-beach-2.json) |
 | Sakura Blade | 313911 | [313911-sakura-blade.json](./313911-sakura-blade.json) |
+| Sakura Blossom | 200626 | [200626-sakura-blossom.json](./200626-sakura-blossom.json) |
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls | 255464 | [255464-sakura-bunny-girls.json](./255464-sakura-bunny-girls.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
@@ -5283,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dark: Mystery of the Ancestral Estate | 63442 | [63442-secrets-of-the-dark-mystery-of-the-ancestral-estate.json](./63442-secrets-of-the-dark-mystery-of-the-ancestral-estate.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
+| Secrets of the Dark: Temple of Night & Secrets of the Dark: Eclipse Mountain | 201865 | [201865-secrets-of-the-dark-temple-of-night-and-secrets-of-the-dark-eclipse-mountain.json](./201865-secrets-of-the-dark-temple-of-night-and-secrets-of-the-dark-eclipse-mountain.json) |
 | Secrets of the Dark: The Dark Flower of Shadow - Collector's Edition | 426442 | [426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json](./426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json) |
 | Secrets of the Dark: The Flower of Shadow | 103992 | [103992-secrets-of-the-dark-the-flower-of-shadow.json](./103992-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dragon Cafe | 188300 | [188300-secrets-of-the-dragon-cafe.json](./188300-secrets-of-the-dragon-cafe.json) |
@@ -8280,6 +8282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanshui | 178485 | [178485-shanshui.json](./178485-shanshui.json) |
 | Shanshui Haven | 273347 | [273347-shanshui-haven.json](./273347-shanshui-haven.json) |
 | Shantae | 8432 | [8432-shantae.json](./8432-shantae.json) |
+| Shantae Advance: Risky Revolution | 203442 | [203442-shantae-advance-risky-revolution.json](./203442-shantae-advance-risky-revolution.json) |
 | Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
 | Shantae and Asha: Dream Fantasia | 321075 | [321075-shantae-and-asha-dream-fantasia.json](./321075-shantae-and-asha-dream-fantasia.json) |
 | Shantae and the Pirate's Curse | 8430 | [8430-shantae-and-the-pirates-curse.json](./8430-shantae-and-the-pirates-curse.json) |
@@ -12559,8 +12562,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 25: The Koushounin | 63626 | [63626-simple-ds-series-vol-25-the-koushounin.json](./63626-simple-ds-series-vol-25-the-koushounin.json) |
 | Simple DS Series Vol. 26: The Quiz 30,000-Mon | 203408 | [203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json](./203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json) |
 | Simple DS Series Vol. 28: The Illust Puzzle & Suuji Puzzle 2 | 203410 | [203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json](./203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json) |
+| Simple DS Series Vol. 29: The Sports Daishuugou - Yakyuu-Tennis-Volleyball-Futsal-Golf | 203412 | [203412-simple-ds-series-vol-29-the-sports-daishuugou-yakyuu-tennis-volleyball-futsal-golf.json](./203412-simple-ds-series-vol-29-the-sports-daishuugou-yakyuu-tennis-volleyball-futsal-golf.json) |
 | Simple DS Series Vol. 30: The Table Game | 98677 | [98677-simple-ds-series-vol-30-the-table-game.json](./98677-simple-ds-series-vol-30-the-table-game.json) |
+| Simple DS Series Vol. 31: The Chou-Dangan!! Custom Sensha | 203413 | [203413-simple-ds-series-vol-31-the-chou-dangan-custom-sensha.json](./203413-simple-ds-series-vol-31-the-chou-dangan-custom-sensha.json) |
+| Simple DS Series Vol. 32: The Zombie Crisis | 203414 | [203414-simple-ds-series-vol-32-the-zombie-crisis.json](./203414-simple-ds-series-vol-32-the-zombie-crisis.json) |
+| Simple DS Series Vol. 33: The Crossword & Kanji Puzzle | 203415 | [203415-simple-ds-series-vol-33-the-crossword-and-kanji-puzzle.json](./203415-simple-ds-series-vol-33-the-crossword-and-kanji-puzzle.json) |
 | Simple DS Series Vol. 34: The Haisha-San | 63624 | [63624-simple-ds-series-vol-34-the-haisha-san.json](./63624-simple-ds-series-vol-34-the-haisha-san.json) |
+| Simple DS Series Vol. 35: The Genshijin DS | 203416 | [203416-simple-ds-series-vol-35-the-genshijin-ds.json](./203416-simple-ds-series-vol-35-the-genshijin-ds.json) |
 | Simple DS Series vol. 39: The Shouboutai | 266677 | [266677-simple-ds-series-vol-39-the-shouboutai.json](./266677-simple-ds-series-vol-39-the-shouboutai.json) |
 | Simple DS Series Vol. 40: The Gekai | 98680 | [98680-simple-ds-series-vol-40-the-gekai.json](./98680-simple-ds-series-vol-40-the-gekai.json) |
 | Simple DS Series Vol. 41: The Bakudan Shori-han | 133486 | [133486-simple-ds-series-vol-41-the-bakudan-shori-han.json](./133486-simple-ds-series-vol-41-the-bakudan-shori-han.json) |
@@ -12633,6 +12641,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Tennis | 306018 | [306018-simple-tennis.json](./306018-simple-tennis.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simple Trains | 214274 | [214274-simple-trains.json](./214274-simple-trains.json) |
+| Simple Wii Series Vol. 1: The Minna de Kart Race | 203420 | [203420-simple-wii-series-vol-1-the-minna-de-kart-race.json](./203420-simple-wii-series-vol-1-the-minna-de-kart-race.json) |
+| Simple Wii Series Vol. 2: The Minna de Bass Tsuri Taikai | 203422 | [203422-simple-wii-series-vol-2-the-minna-de-bass-tsuri-taikai.json](./203422-simple-wii-series-vol-2-the-minna-de-bass-tsuri-taikai.json) |
+| Simple Wii Series Vol. 3: Ason de Wakaru - The Party Casino | 203423 | [203423-simple-wii-series-vol-3-ason-de-wakaru-the-party-casino.json](./203423-simple-wii-series-vol-3-ason-de-wakaru-the-party-casino.json) |
+| Simple Wii Series Vol. 4: The Dokodemo Asoberu - The Shooting Action | 203424 | [203424-simple-wii-series-vol-4-the-dokodemo-asoberu-the-shooting-action.json](./203424-simple-wii-series-vol-4-the-dokodemo-asoberu-the-shooting-action.json) |
+| Simple Wii Series Vol. 5: The Block Kuzushi | 203425 | [203425-simple-wii-series-vol-5-the-block-kuzushi.json](./203425-simple-wii-series-vol-5-the-block-kuzushi.json) |
+| Simple Wii Series Vol. 6: The Wai-wai Combat | 203426 | [203426-simple-wii-series-vol-6-the-wai-wai-combat.json](./203426-simple-wii-series-vol-6-the-wai-wai-combat.json) |
 | Simple Zombie Survival | 368594 | [368594-simple-zombie-survival.json](./368594-simple-zombie-survival.json) |
 | Simplefield | 46475 | [46475-simplefield.json](./46475-simplefield.json) |
 | SimpleMMO | 145898 | [145898-simplemmo.json](./145898-simplemmo.json) |
@@ -21313,6 +21327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Hidden Forest | 212106 | [212106-sound-hidden-forest.json](./212106-sound-hidden-forest.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound It Out Land | 46707 | [46707-sound-it-out-land.json](./46707-sound-it-out-land.json) |
+| Sound It Out Land 2 | 203421 | [203421-sound-it-out-land-2.json](./203421-sound-it-out-land-2.json) |
 | Sound Journal for Lovers | 150215 | [150215-sound-journal-for-lovers.json](./150215-sound-journal-for-lovers.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound Mind | 275662 | [275662-sound-mind.json](./275662-sound-mind.json) |
@@ -22118,6 +22133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hero 50 | 174569 | [174569-space-hero-50.json](./174569-space-hero-50.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
 | Space Hero: Intergalactic Titan | 244552 | [244552-space-hero-intergalactic-titan.json](./244552-space-hero-intergalactic-titan.json) |
+| Space Heroes Universe! | 201867 | [201867-space-heroes-universe.json](./201867-space-heroes-universe.json) |
 | Space Hexcite: Maetel Legend EX | 49808 | [49808-space-hexcite-maetel-legend-ex.json](./49808-space-hexcite-maetel-legend-ex.json) |
 | Space Hit | 37429 | [37429-space-hit.json](./37429-space-hit.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
@@ -23420,6 +23436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speard | 257322 | [257322-speard.json](./257322-speard.json) |
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
 | Spearfishing - Deep Sea Scuba | 107088 | [107088-spearfishing-deep-sea-scuba.json](./107088-spearfishing-deep-sea-scuba.json) |
+| SpearFrog | 201870 | [201870-spearfrog.json](./201870-spearfrog.json) |
 | Spearhead | 200494 | [200494-spearhead.json](./200494-spearhead.json) |
 | Spearhead | 71115 | [71115-spearhead.json](./71115-spearhead.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
@@ -24123,6 +24140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellPunk VR | 132543 | [132543-spellpunk-vr.json](./132543-spellpunk-vr.json) |
 | Spellrain | 235498 | [235498-spellrain.json](./235498-spellrain.json) |
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
+| SpellRogue | 203427 | [203427-spellrogue.json](./203427-spellrogue.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
 | Spellrune: Realm of Portals | 107697 | [107697-spellrune-realm-of-portals.json](./107697-spellrune-realm-of-portals.json) |
 | Spells 'n' Stuff | 33365 | [33365-spells-n-stuff.json](./33365-spells-n-stuff.json) |
@@ -26304,6 +26322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
 | Squarelings | 416009 | [416009-squarelings.json](./416009-squarelings.json) |
 | Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
+| Squarely Blue | 200624 | [200624-squarely-blue.json](./200624-squarely-blue.json) |
 | SquareMan | 191769 | [191769-squareman.json](./191769-squareman.json) |
 | SquareMan-Boy | 190939 | [190939-squareman-boy.json](./190939-squareman-boy.json) |
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
