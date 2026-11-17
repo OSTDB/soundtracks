@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 In Three | 86059 | [86059-3-in-three.json](./86059-3-in-three.json) |
 | 3 in1 Racing Collection | 391258 | [391258-3-in1-racing-collection.json](./391258-3-in1-racing-collection.json) |
 | 3 Islands of Shells | 312238 | [312238-3-islands-of-shells.json](./312238-3-islands-of-shells.json) |
+| 3 Kingdoms | 57277 | [57277-3-kingdoms.json](./57277-3-kingdoms.json) |
 | 3 Kings | 305270 | [305270-3-kings.json](./305270-3-kings.json) |
 | 3 Last Chances | 244883 | [244883-3-last-chances.json](./244883-3-last-chances.json) |
 | 3 Lines of a Delta | 388100 | [388100-3-lines-of-a-delta.json](./388100-3-lines-of-a-delta.json) |
