@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Clicks | 112427 | [112427-war-clicks.json](./112427-war-clicks.json) |
 | War Commander | 202434 | [202434-war-commander.json](./202434-war-commander.json) |
 | War Commander | 54605 | [54605-war-commander.json](./54605-war-commander.json) |
+| War Commander: Rogue Assault | 57276 | [57276-war-commander-rogue-assault.json](./57276-war-commander-rogue-assault.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
 | War Cube | 31342 | [31342-war-cube.json](./31342-war-cube.json) |
 | War Diary | 2620 | [2620-war-diary.json](./2620-war-diary.json) |
@@ -4321,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What-ever Happened to Ruth MacArthur? | 178901 | [178901-what-ever-happened-to-ruth-macarthur.json](./178901-what-ever-happened-to-ruth-macarthur.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
 | What!? My Neighbors Are Demons!!? | 44248 | [44248-what-my-neighbors-are-demons.json](./44248-what-my-neighbors-are-demons.json) |
+| What? Where? When? | 57252 | [57252-what-where-when.json](./57252-what-where-when.json) |
 | What?! | 260515 | [260515-what.json](./260515-what.json) |
 | What's a King to a God | 325899 | [325899-whats-a-king-to-a-god.json](./325899-whats-a-king-to-a-god.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
@@ -4773,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Goats Are | 74252 | [74252-where-the-goats-are.json](./74252-where-the-goats-are.json) |
 | Where the Heart Rests | 378243 | [378243-where-the-heart-rests.json](./378243-where-the-heart-rests.json) |
 | Where the Hell Am I? | 390211 | [390211-where-the-hell-am-i.json](./390211-where-the-hell-am-i.json) |
+| Where the Money Is | 55425 | [55425-where-the-money-is.json](./55425-where-the-money-is.json) |
 | Where the Moon Goes at Night | 130568 | [130568-where-the-moon-goes-at-night.json](./130568-where-the-moon-goes-at-night.json) |
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
 | Where the Music Dies: Mirror of Regret | 277625 | [277625-where-the-music-dies-mirror-of-regret.json](./277625-where-the-music-dies-mirror-of-regret.json) |
@@ -8026,6 +8029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Flick | 53042 | [53042-wonder-flick.json](./53042-wonder-flick.json) |
 | Wonder Gravity | 76189 | [76189-wonder-gravity.json](./76189-wonder-gravity.json) |
 | Wonder House | 130545 | [130545-wonder-house.json](./130545-wonder-house.json) |
+| Wonder Kid | 57284 | [57284-wonder-kid.json](./57284-wonder-kid.json) |
 | Wonder Knights VIP : Retro Shooter RPG | 97209 | [97209-wonder-knights-vip-retro-shooter-rpg.json](./97209-wonder-knights-vip-retro-shooter-rpg.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Land | 231873 | [231873-wonder-land.json](./231873-wonder-land.json) |
