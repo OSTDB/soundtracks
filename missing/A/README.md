@@ -5847,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
+| Agents of Mayhem: Safeword | 75976 | [75976-agents-of-mayhem-safeword.json](./75976-agents-of-mayhem-safeword.json) |
 | Agents of Mayhem: Safeword Agent Pack | 223828 | [223828-agents-of-mayhem-safeword-agent-pack.json](./223828-agents-of-mayhem-safeword-agent-pack.json) |
 | Agents of Mayhem: Total Mayhem Bundle | 83756 | [83756-agents-of-mayhem-total-mayhem-bundle.json](./83756-agents-of-mayhem-total-mayhem-bundle.json) |
 | Agents of Shadow | 357803 | [357803-agents-of-shadow.json](./357803-agents-of-shadow.json) |
@@ -21187,6 +21188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayna: Shattered Truth | 345800 | [345800-ayna-shattered-truth.json](./345800-ayna-shattered-truth.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
+| Ayo: A Rain Tale | 74521 | [74521-ayo-a-rain-tale.json](./74521-ayo-a-rain-tale.json) |
 | Ayon: Split In Time | 320087 | [320087-ayon-split-in-time.json](./320087-ayon-split-in-time.json) |
 | Ayoub | 150474 | [150474-ayoub.json](./150474-ayoub.json) |
 | Ayoub: Episode 2 | 166173 | [166173-ayoub-episode-2.json](./166173-ayoub-episode-2.json) |
