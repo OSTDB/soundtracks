@@ -3943,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstorm | 307635 | [307635-hearthstorm.json](./307635-hearthstorm.json) |
 | Hearthwater | 412947 | [412947-hearthwater.json](./412947-hearthwater.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
+| Heartland | 197813 | [197813-heartland.json](./197813-heartland.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland | 243915 | [243915-heartland.json](./243915-heartland.json) |
 | Heartland | 249049 | [249049-heartland.json](./249049-heartland.json) |
@@ -3993,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Chaos | 30492 | [30492-hearts-of-chaos.json](./30492-hearts-of-chaos.json) |
 | Hearts of Cold: Redemption | 268286 | [268286-hearts-of-cold-redemption.json](./268286-hearts-of-cold-redemption.json) |
 | Hearts of Demons: Baron | 196029 | [196029-hearts-of-demons-baron.json](./196029-hearts-of-demons-baron.json) |
+| Hearts of Demons: Revenant | 197818 | [197818-hearts-of-demons-revenant.json](./197818-hearts-of-demons-revenant.json) |
 | Hearts of Iron | 22227 | [22227-hearts-of-iron.json](./22227-hearts-of-iron.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron Anthology | 72283 | [72283-hearts-of-iron-anthology.json](./72283-hearts-of-iron-anthology.json) |
@@ -10865,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Guardian | 212430 | [212430-honey-guardian.json](./212430-honey-guardian.json) |
 | Honey Guardian | 341651 | [341651-honey-guardian.json](./341651-honey-guardian.json) |
 | Honey Home | 185065 | [185065-honey-home.json](./185065-honey-home.json) |
+| Honey Homer | 197839 | [197839-honey-homer.json](./197839-honey-homer.json) |
 | Honey Homer RPS | 288046 | [288046-honey-homer-rps.json](./288046-honey-homer-rps.json) |
 | Honey Hunt | 179931 | [179931-honey-hunt.json](./179931-honey-hunt.json) |
 | Honey Hunt | 44369 | [44369-honey-hunt.json](./44369-honey-hunt.json) |
