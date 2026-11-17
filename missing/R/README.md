@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Raid | 332160 | [332160-rabbit-raid.json](./332160-rabbit-raid.json) |
 | Rabbit Rampage | 293536 | [293536-rabbit-rampage.json](./293536-rabbit-rampage.json) |
 | Rabbit Riot | 149209 | [149209-rabbit-riot.json](./149209-rabbit-riot.json) |
+| Rabbit Run | 147532 | [147532-rabbit-run.json](./147532-rabbit-run.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
 | Rabbit Run Carrot Hunt | 361347 | [361347-rabbit-run-carrot-hunt.json](./361347-rabbit-run-carrot-hunt.json) |
 | Rabbit Runner | 402228 | [402228-rabbit-runner.json](./402228-rabbit-runner.json) |
@@ -1011,7 +1012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RageChicken | 181414 | [181414-ragechicken.json](./181414-ragechicken.json) |
 | Ragedanger Earth | 203664 | [203664-ragedanger-earth.json](./203664-ragedanger-earth.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
-| Rager | 295512 | [295512-rager.json](./295512-rager.json) |
 | Ragfile vol.1 | 108150 | [108150-ragfile-vol-1.json](./108150-ragfile-vol-1.json) |
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
 | Raging Ball | 157511 | [157511-raging-ball.json](./157511-raging-ball.json) |
@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain in the Month of January | 112019 | [112019-rain-in-the-month-of-january.json](./112019-rain-in-the-month-of-january.json) |
 | Rain Invasion | 129024 | [129024-rain-invasion.json](./129024-rain-invasion.json) |
 | Rain Island | 131762 | [131762-rain-island.json](./131762-rain-island.json) |
+| Rain Island: Orange | 152445 | [152445-rain-island-orange.json](./152445-rain-island-orange.json) |
 | Rain Kills | 334559 | [334559-rain-kills.json](./334559-rain-kills.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
 | Rain of Awakening | 410540 | [410540-rain-of-awakening.json](./410540-rain-of-awakening.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raise: Embrace the Future | 406561 | [406561-raise-embrace-the-future.json](./406561-raise-embrace-the-future.json) |
 | Raised From Hell | 374018 | [374018-raised-from-hell.json](./374018-raised-from-hell.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
+| Raishi Konpeki no Shou | 145064 | [145064-raishi-konpeki-no-shou.json](./145064-raishi-konpeki-no-shou.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
 | Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
 | Raising Archangel | 256133 | [256133-raising-archangel.json](./256133-raising-archangel.json) |
@@ -3501,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
 | RealEscape | 425978 | [425978-realescape.json](./425978-realescape.json) |
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
+| RealFit (VR fitness) | 153471 | [153471-realfit-vr-fitness.json](./153471-realfit-vr-fitness.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
 | RealFlight 8 Horizon: Hobby Edition | 162745 | [162745-realflight-8-horizon-hobby-edition.json](./162745-realflight-8-horizon-hobby-edition.json) |
 | RealFlight 9 | 121855 | [121855-realflight-9.json](./121855-realflight-9.json) |
@@ -4665,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tower | 207704 | [207704-red-tower.json](./207704-red-tower.json) |
 | Red Tractor Tycoon | 114070 | [114070-red-tractor-tycoon.json](./114070-red-tractor-tycoon.json) |
 | Red Trains | 167444 | [167444-red-trains.json](./167444-red-trains.json) |
+| Red Trees | 152425 | [152425-red-trees.json](./152425-red-trees.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
 | Red Trigger 2 | 216538 | [216538-red-trigger-2.json](./216538-red-trigger-2.json) |
@@ -5999,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replica: Temporary Safety | 174218 | [174218-replica-temporary-safety.json](./174218-replica-temporary-safety.json) |
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replicat | 332307 | [332307-replicat.json](./332307-replicat.json) |
+| Replicated | 143794 | [143794-replicated.json](./143794-replicated.json) |
 | Replicators | 98785 | [98785-replicators.json](./98785-replicators.json) |
 | Replicators Defence | 157253 | [157253-replicators-defence.json](./157253-replicators-defence.json) |
 | Replicomica | 361252 | [361252-replicomica.json](./361252-replicomica.json) |
@@ -6318,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 1: Roku's cut | 325945 | [325945-resident-evil-1-rokus-cut.json](./325945-resident-evil-1-rokus-cut.json) |
 | Resident Evil 1.5 | 129858 | [129858-resident-evil-1-5.json](./129858-resident-evil-1-5.json) |
 | Resident Evil 1.5: Battle Coliseum | 400424 | [400424-resident-evil-1-5-battle-coliseum.json](./400424-resident-evil-1-5-battle-coliseum.json) |
+| Resident Evil 10th Anniversary Collection | 145056 | [145056-resident-evil-10th-anniversary-collection.json](./145056-resident-evil-10th-anniversary-collection.json) |
 | Resident Evil 2 | 186400 | [186400-resident-evil-2.json](./186400-resident-evil-2.json) |
 | Resident Evil 2 | 210710 | [210710-resident-evil-2.json](./210710-resident-evil-2.json) |
 | Resident Evil 2 | 217953 | [217953-resident-evil-2.json](./217953-resident-evil-2.json) |
@@ -6492,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Survivor Redux | 313129 | [313129-resident-evil-survivor-redux.json](./313129-resident-evil-survivor-redux.json) |
 | Resident Evil: The Arklay Chronicle | 194785 | [194785-resident-evil-the-arklay-chronicle.json](./194785-resident-evil-the-arklay-chronicle.json) |
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
+| Resident Evil: The Essentials | 145057 | [145057-resident-evil-the-essentials.json](./145057-resident-evil-the-essentials.json) |
 | Resident Evil: The Mercenaries 3D | 976 | [976-resident-evil-the-mercenaries-3d.json](./976-resident-evil-the-mercenaries-3d.json) |
 | Resident Evil: The Missions | 287294 | [287294-resident-evil-the-missions.json](./287294-resident-evil-the-missions.json) |
 | Resident Evil: Triple Pack | 99534 | [99534-resident-evil-triple-pack.json](./99534-resident-evil-triple-pack.json) |
@@ -6505,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residential Evaluation | 404029 | [404029-residential-evaluation.json](./404029-residential-evaluation.json) |
 | Residentvania | 175773 | [175773-residentvania.json](./175773-residentvania.json) |
 | Residiuum: Tales of Coral | 307430 | [307430-residiuum-tales-of-coral.json](./307430-residiuum-tales-of-coral.json) |
+| Residual | 143797 | [143797-residual.json](./143797-residual.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
 | Residual Shift | 383901 | [383901-residual-shift.json](./383901-residual-shift.json) |
 | Residual Wilds | 387049 | [387049-residual-wilds.json](./387049-residual-wilds.json) |
@@ -11490,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Souls | 138438 | [138438-rogue-souls.json](./138438-rogue-souls.json) |
 | Rogue Soulstone | 201659 | [201659-rogue-soulstone.json](./201659-rogue-soulstone.json) |
 | Rogue Spear | 22056 | [22056-rogue-spear.json](./22056-rogue-spear.json) |
+| Rogue Spirit | 152415 | [152415-rogue-spirit.json](./152415-rogue-spirit.json) |
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
 | Rogue Star | 23217 | [23217-rogue-star.json](./23217-rogue-star.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
@@ -11945,6 +11954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Sky | 403281 | [403281-rolling-sky.json](./403281-rolling-sky.json) |
 | Rolling Sky | 57247 | [57247-rolling-sky.json](./57247-rolling-sky.json) |
 | Rolling Sky 2 | 146801 | [146801-rolling-sky-2.json](./146801-rolling-sky-2.json) |
+| Rolling Sky Collection | 145105 | [145105-rolling-sky-collection.json](./145105-rolling-sky-collection.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
 | Rolling Stairs Master-Falling | 223922 | [223922-rolling-stairs-master-falling.json](./223922-rolling-stairs-master-falling.json) |
 | Rolling Star | 329235 | [329235-rolling-star.json](./329235-rolling-star.json) |
@@ -14971,6 +14981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
 | Ryuusei-gou ni Notte | 259311 | [259311-ryuusei-gou-ni-notte.json](./259311-ryuusei-gou-ni-notte.json) |
 | Ryuuteki Gosennen: Dragons of China | 214812 | [214812-ryuuteki-gosennen-dragons-of-china.json](./214812-ryuuteki-gosennen-dragons-of-china.json) |
+| Ryuuyoku no Melodia: Diva With the Blessed Dragonol | 145083 | [145083-ryuuyoku-no-melodia-diva-with-the-blessed-dragonol.json](./145083-ryuuyoku-no-melodia-diva-with-the-blessed-dragonol.json) |
 | Ryza Roads | 135365 | [135365-ryza-roads.json](./135365-ryza-roads.json) |
 | Ryzer: The Reflectors Path | 187561 | [187561-ryzer-the-reflectors-path.json](./187561-ryzer-the-reflectors-path.json) |
 | Ryzy Nyil | 394292 | [394292-ryzy-nyil.json](./394292-ryzy-nyil.json) |
