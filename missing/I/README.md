@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on Observation Duty 2 | 132583 | [132583-im-on-observation-duty-2.json](./132583-im-on-observation-duty-2.json) |
 | I'm on Observation Duty 3 | 141126 | [141126-im-on-observation-duty-3.json](./141126-im-on-observation-duty-3.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
+| I'm on Observation Duty 5 | 198853 | [198853-im-on-observation-duty-5.json](./198853-im-on-observation-duty-5.json) |
 | I'm on Observation Duty 6 | 254443 | [254443-im-on-observation-duty-6.json](./254443-im-on-observation-duty-6.json) |
 | I'm on Observation Duty 7 | 318811 | [318811-im-on-observation-duty-7.json](./318811-im-on-observation-duty-7.json) |
 | I'm on Observation Duty 8 | 369153 | [369153-im-on-observation-duty-8.json](./369153-im-on-observation-duty-8.json) |
@@ -3706,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independant Video Video Game | 194307 | [194307-independant-video-video-game.json](./194307-independant-video-video-game.json) |
 | Independence Day | 19789 | [19789-independence-day.json](./19789-independence-day.json) |
 | Independence Day | 198765 | [198765-independence-day.json](./198765-independence-day.json) |
+| Independence Day | 199001 | [199001-independence-day.json](./199001-independence-day.json) |
 | Independence Day | 205748 | [205748-independence-day.json](./205748-independence-day.json) |
 | Independence Day Break | 153593 | [153593-independence-day-break.json](./153593-independence-day-break.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
