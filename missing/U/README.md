@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ulna Online | 155699 | [155699-ulna-online.json](./155699-ulna-online.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
+| Ulterior | 113961 | [113961-ulterior.json](./113961-ulterior.json) |
 | UltFoot: Football Manager | 358523 | [358523-ultfoot-football-manager.json](./358523-ultfoot-football-manager.json) |
 | Ultidark | 422422 | [422422-ultidark.json](./422422-ultidark.json) |
 | Ultikill | 149476 | [149476-ultikill.json](./149476-ultikill.json) |
@@ -1027,7 +1028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Seven | 44428 | [44428-ultra-seven.json](./44428-ultra-seven.json) |
 | Ultra Seven: Chikyuu Bouei Sakusen | 63959 | [63959-ultra-seven-chikyuu-bouei-sakusen.json](./63959-ultra-seven-chikyuu-bouei-sakusen.json) |
 | Ultra Sharp | 103586 | [103586-ultra-sharp.json](./103586-ultra-sharp.json) |
-| Ultra Space Battle Brawl | 97964 | [97964-ultra-space-battle-brawl.json](./97964-ultra-space-battle-brawl.json) |
 | Ultra Strangeness | 113292 | [113292-ultra-strangeness.json](./113292-ultra-strangeness.json) |
 | Ultra Street Fighter IV: 2014 Challengers Horror Pack | 225145 | [225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json](./225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json) |
 | Ultra Street Fighter IV: 2014 Challengers Vacation Pack | 225146 | [225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json](./225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json) |
@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkindness | 148051 | [148051-unkindness.json](./148051-unkindness.json) |
 | Unknightly | 75520 | [75520-unknightly.json](./75520-unknightly.json) |
 | Unknot! | 334395 | [334395-unknot.json](./334395-unknot.json) |
+| Unknown | 113776 | [113776-unknown.json](./113776-unknown.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown 9: Awakening - Deluxe Edition | 331832 | [331832-unknown-9-awakening-deluxe-edition.json](./331832-unknown-9-awakening-deluxe-edition.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
