@@ -3879,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidwalkers: Astora's Darkness | 170939 | [170939-voidwalkers-astoras-darkness.json](./170939-voidwalkers-astoras-darkness.json) |
 | Voidwalkers: Exodus | 379609 | [379609-voidwalkers-exodus.json](./379609-voidwalkers-exodus.json) |
 | Voidwalkers: Soul Hunters | 170931 | [170931-voidwalkers-soul-hunters.json](./170931-voidwalkers-soul-hunters.json) |
+| Voidwalkers: The Gates of Hell | 171108 | [171108-voidwalkers-the-gates-of-hell.json](./171108-voidwalkers-the-gates-of-hell.json) |
 | Voidwalkers: The Gates of Hell - Death to the Heretics! | 208338 | [208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json](./208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json) |
 | Voidwalkers: The Gates of Hell - Hell's Dungeon | 205036 | [205036-voidwalkers-the-gates-of-hell-hells-dungeon.json](./205036-voidwalkers-the-gates-of-hell-hells-dungeon.json) |
 | Voidwalkers: The Gates of Hell - The Devil's Towers | 205856 | [205856-voidwalkers-the-gates-of-hell-the-devils-towers.json](./205856-voidwalkers-the-gates-of-hell-the-devils-towers.json) |
