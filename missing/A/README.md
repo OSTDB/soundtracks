@@ -17573,6 +17573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asicaso | 134558 | [134558-asicaso.json](./134558-asicaso.json) |
 | Asili Forest | 303897 | [303897-asili-forest.json](./303897-asili-forest.json) |
 | Asimov Incident | 183098 | [183098-asimov-incident.json](./183098-asimov-incident.json) |
+| Asimov Laws | 100390 | [100390-asimov-laws.json](./100390-asimov-laws.json) |
 | Asistent detektiva Zbyška | 391284 | [391284-asistent-detektiva-zbyska.json](./391284-asistent-detektiva-zbyska.json) |
 | Ask Angela | 65019 | [65019-ask-angela.json](./65019-ask-angela.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
