@@ -10098,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Frenzy | 66800 | [66800-pizza-frenzy.json](./66800-pizza-frenzy.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
 | Pizza Game | 122019 | [122019-pizza-game.json](./122019-pizza-game.json) |
+| Pizza Ghest | 159916 | [159916-pizza-ghest.json](./159916-pizza-ghest.json) |
 | Pizza Hero | 262899 | [262899-pizza-hero.json](./262899-pizza-hero.json) |
 | Pizza House Simulator | 406274 | [406274-pizza-house-simulator.json](./406274-pizza-house-simulator.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
