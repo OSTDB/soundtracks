@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
 | Taxi Driver Simulator 2024 | 270476 | [270476-taxi-driver-simulator-2024.json](./270476-taxi-driver-simulator-2024.json) |
 | Taxi Driver Simulator: Car Parking | 234515 | [234515-taxi-driver-simulator-car-parking.json](./234515-taxi-driver-simulator-car-parking.json) |
+| Taxi Driver VR | 419249 | [419249-taxi-driver-vr.json](./419249-taxi-driver-vr.json) |
 | Taxi Driver: The Simulation | 147760 | [147760-taxi-driver-the-simulation.json](./147760-taxi-driver-the-simulation.json) |
 | Taxi Game 2 | 100807 | [100807-taxi-game-2.json](./100807-taxi-game-2.json) |
 | Taxi Goldmania | 336665 | [336665-taxi-goldmania.json](./336665-taxi-goldmania.json) |
@@ -11094,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life: DX Jinsei Game II | 97571 | [97571-the-game-of-life-dx-jinsei-game-ii.json](./97571-the-game-of-life-dx-jinsei-game-ii.json) |
 | The Game of Life: DX Jinsei Game III | 364764 | [364764-the-game-of-life-dx-jinsei-game-iii.json](./364764-the-game-of-life-dx-jinsei-game-iii.json) |
 | The Game of Life: DX Jinsei Game IV | 56096 | [56096-the-game-of-life-dx-jinsei-game-iv.json](./56096-the-game-of-life-dx-jinsei-game-iv.json) |
+| The Game of Life: DX Jinsei Game V | 419256 | [419256-the-game-of-life-dx-jinsei-game-v.json](./419256-the-game-of-life-dx-jinsei-game-v.json) |
 | The Game of Life: Jinsei Game | 97572 | [97572-the-game-of-life-jinsei-game.json](./97572-the-game-of-life-jinsei-game.json) |
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
@@ -35916,6 +35918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust No One | 281923 | [281923-trust-no-one.json](./281923-trust-no-one.json) |
 | Trust The Backrooms | 288554 | [288554-trust-the-backrooms.json](./288554-trust-the-backrooms.json) |
 | Trust the blackbird | 183986 | [183986-trust-the-blackbird.json](./183986-trust-the-blackbird.json) |
+| Trust the System | 419287 | [419287-trust-the-system.json](./419287-trust-the-system.json) |
 | Trust the Watchers | 415497 | [415497-trust-the-watchers.json](./415497-trust-the-watchers.json) |
 | Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
 | Trustfall | 378699 | [378699-trustfall.json](./378699-trustfall.json) |
