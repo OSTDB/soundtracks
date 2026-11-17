@@ -14974,6 +14974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
+| The Lost World: Jurassic Park | 199003 | [199003-the-lost-world-jurassic-park.json](./199003-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 217957 | [217957-the-lost-world-jurassic-park.json](./217957-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 8075 | [8075-the-lost-world-jurassic-park.json](./8075-the-lost-world-jurassic-park.json) |
 | The Lot | 116317 | [116317-the-lot.json](./116317-the-lot.json) |
@@ -16741,6 +16742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pinball of the Dead | 6534 | [6534-the-pinball-of-the-dead.json](./6534-the-pinball-of-the-dead.json) |
 | The Pinecone | 140352 | [140352-the-pinecone.json](./140352-the-pinecone.json) |
 | The Pines | 403885 | [403885-the-pines.json](./403885-the-pines.json) |
+| The Pink Panther | 198847 | [198847-the-pink-panther.json](./198847-the-pink-panther.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
 | The Pink Panther: Hokus Pokus Pink | 8109 | [8109-the-pink-panther-hokus-pokus-pink.json](./8109-the-pink-panther-hokus-pokus-pink.json) |
 | The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
