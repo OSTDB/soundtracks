@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road | 111924 | [111924-lambs-on-the-road.json](./111924-lambs-on-the-road.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
+| Lame & Cheesy | 104877 | [104877-lame-and-cheesy.json](./104877-lame-and-cheesy.json) |
 | Lame Defenders | 159493 | [159493-lame-defenders.json](./159493-lame-defenders.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
 | Lament | 29376 | [29376-lament.json](./29376-lament.json) |
@@ -2599,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Add | 92840 | [92840-learn-to-add.json](./92840-learn-to-add.json) |
 | Learn to Code RPG | 188546 | [188546-learn-to-code-rpg.json](./188546-learn-to-code-rpg.json) |
 | Learn to Dodge | 274344 | [274344-learn-to-dodge.json](./274344-learn-to-dodge.json) |
+| Learn to Drive on Moto Wars | 103011 | [103011-learn-to-drive-on-moto-wars.json](./103011-learn-to-drive-on-moto-wars.json) |
 | Learn to Fly | 141082 | [141082-learn-to-fly.json](./141082-learn-to-fly.json) |
 | Learn to Fly 2 | 58593 | [58593-learn-to-fly-2.json](./58593-learn-to-fly-2.json) |
 | Learn to Fly 3 | 29507 | [29507-learn-to-fly-3.json](./29507-learn-to-fly-3.json) |
@@ -4568,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Beats | 105319 | [105319-lets-beats.json](./105319-lets-beats.json) |
 | Lets call my game slippery!suberu | 391925 | [391925-lets-call-my-game-slippery-suberu.json](./391925-lets-call-my-game-slippery-suberu.json) |
 | Lets Castle | 317559 | [317559-lets-castle.json](./317559-lets-castle.json) |
+| Lets fall | 103022 | [103022-lets-fall.json](./103022-lets-fall.json) |
 | Lets Get Loot | 331988 | [331988-lets-get-loot.json](./331988-lets-get-loot.json) |
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
 | Lets Jump | 108575 | [108575-lets-jump.json](./108575-lets-jump.json) |
@@ -5257,6 +5260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life: the game of chance | 135686 | [135686-life-the-game-of-chance.json](./135686-life-the-game-of-chance.json) |
 | Life's 2 Short: Unhooked | 265192 | [265192-lifes-2-short-unhooked.json](./265192-lifes-2-short-unhooked.json) |
 | Life's a Beach | 366126 | [366126-lifes-a-beach.json](./366126-lifes-a-beach.json) |
+| Life's Playground | 103010 | [103010-lifes-playground.json](./103010-lifes-playground.json) |
 | Life's Too Short | 199909 | [199909-lifes-too-short.json](./199909-lifes-too-short.json) |
 | Life's Too Short GB | 261131 | [261131-lifes-too-short-gb.json](./261131-lifes-too-short-gb.json) |
 | Life's Too Short GB: A Christmas Spirit | 292225 | [292225-lifes-too-short-gb-a-christmas-spirit.json](./292225-lifes-too-short-gb-a-christmas-spirit.json) |
@@ -9324,6 +9328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Space: Dimensions | 250110 | [250110-lost-in-space-dimensions.json](./250110-lost-in-space-dimensions.json) |
 | Lost In Space: infinite frontier | 183387 | [183387-lost-in-space-infinite-frontier.json](./183387-lost-in-space-infinite-frontier.json) |
 | Lost In Space: The First Adventure | 197549 | [197549-lost-in-space-the-first-adventure.json](./197549-lost-in-space-the-first-adventure.json) |
+| Lost in Spice | 103002 | [103002-lost-in-spice.json](./103002-lost-in-spice.json) |
 | Lost In Static | 319080 | [319080-lost-in-static.json](./319080-lost-in-static.json) |
 | Lost In Sweets | 126525 | [126525-lost-in-sweets.json](./126525-lost-in-sweets.json) |
 | Lost in Tandem | 365622 | [365622-lost-in-tandem.json](./365622-lost-in-tandem.json) |
