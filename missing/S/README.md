@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Rising | 214129 | [214129-samurai-rising.json](./214129-samurai-rising.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Sam | 181204 | [181204-samurai-sam.json](./181204-samurai-sam.json) |
+| Samurai Sentai Shinkenger: Battle ga Ippai! Iza Mairu! | 130411 | [130411-samurai-sentai-shinkenger-battle-ga-ippai-iza-mairu.json](./130411-samurai-sentai-shinkenger-battle-ga-ippai-iza-mairu.json) |
 | Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
 | Samurai Shodown | 109277 | [109277-samurai-shodown.json](./109277-samurai-shodown.json) |
@@ -12210,6 +12211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverfall: Earth Awakening | 11353 | [11353-silverfall-earth-awakening.json](./11353-silverfall-earth-awakening.json) |
 | Silverfish DX | 102425 | [102425-silverfish-dx.json](./102425-silverfish-dx.json) |
 | SilverFrame | 110100 | [110100-silverframe.json](./110100-silverframe.json) |
+| Silverio Ragnarok | 130410 | [130410-silverio-ragnarok.json](./130410-silverio-ragnarok.json) |
 | Silverio Saga Series: Artemis Package | 113205 | [113205-silverio-saga-series-artemis-package.json](./113205-silverio-saga-series-artemis-package.json) |
 | Silverio Trinity | 113204 | [113204-silverio-trinity.json](./113204-silverio-trinity.json) |
 | Silverio Trinity: Beyond the Horizon | 113206 | [113206-silverio-trinity-beyond-the-horizon.json](./113206-silverio-trinity-beyond-the-horizon.json) |
@@ -12591,6 +12593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 10: The Doko Demo Kanji Quiz | 203404 | [203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json](./203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json) |
 | Simple DS Series Vol. 11: Mou Ichido Kayoeru - The Otona no Shougakkou | 203405 | [203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json](./203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json) |
 | Simple DS Series Vol. 14: The Jidousha Kyoushuujo DS | 203406 | [203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json](./203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json) |
+| Simple DS Series Vol. 15: The Kanshikikan 2 - Aratanaru 8-tsu no Jiken wo Touch seyo | 130426 | [130426-simple-ds-series-vol-15-the-kanshikikan-2-aratanaru-8-tsu-no-jiken-wo-touch-seyo.json](./130426-simple-ds-series-vol-15-the-kanshikikan-2-aratanaru-8-tsu-no-jiken-wo-touch-seyo.json) |
 | Simple DS Series Vol. 18: The Soukou Kihei Gun Ground | 124411 | [124411-simple-ds-series-vol-18-the-soukou-kihei-gun-ground.json](./124411-simple-ds-series-vol-18-the-soukou-kihei-gun-ground.json) |
 | Simple DS Series Vol. 20: The Senkan | 203407 | [203407-simple-ds-series-vol-20-the-senkan.json](./203407-simple-ds-series-vol-20-the-senkan.json) |
 | Simple DS Series Vol. 25: The Koushounin | 63626 | [63626-simple-ds-series-vol-25-the-koushounin.json](./63626-simple-ds-series-vol-25-the-koushounin.json) |
@@ -17435,6 +17438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy Flying Ace | 21887 | [21887-snoopy-flying-ace.json](./21887-snoopy-flying-ace.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy Pop | 87016 | [87016-snoopy-pop.json](./87016-snoopy-pop.json) |
+| Snoopy Puzzle Journey | 130414 | [130414-snoopy-puzzle-journey.json](./130414-snoopy-puzzle-journey.json) |
 | Snoopy Tennis | 145169 | [145169-snoopy-tennis.json](./145169-snoopy-tennis.json) |
 | Snoopy Tennis | 363311 | [363311-snoopy-tennis.json](./363311-snoopy-tennis.json) |
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
@@ -22965,6 +22969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wing Cadet | 244315 | [244315-space-wing-cadet.json](./244315-space-wing-cadet.json) |
 | Space Wombat | 346213 | [346213-space-wombat.json](./346213-space-wombat.json) |
 | Space World | 103886 | [103886-space-world.json](./103886-space-world.json) |
+| Space World 2020 | 129288 | [129288-space-world-2020.json](./129288-space-world-2020.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | Space Worthy | 201593 | [201593-space-worthy.json](./201593-space-worthy.json) |
 | Space Wrangler | 59246 | [59246-space-wrangler.json](./59246-space-wrangler.json) |
@@ -27458,6 +27463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Scenery Disk: San Francisco Area | 98960 | [98960-star-scenery-disk-san-francisco-area.json](./98960-star-scenery-disk-san-francisco-area.json) |
 | Star Scout | 70399 | [70399-star-scout.json](./70399-star-scout.json) |
 | Star Scum | 292533 | [292533-star-scum.json](./292533-star-scum.json) |
+| Star Seeker | 131638 | [131638-star-seeker.json](./131638-star-seeker.json) |
 | Star Seeker in: the Secret of the Sorcerous Standoff | 139667 | [139667-star-seeker-in-the-secret-of-the-sorcerous-standoff.json](./139667-star-seeker-in-the-secret-of-the-sorcerous-standoff.json) |
 | Star Sentinel Tactics | 67329 | [67329-star-sentinel-tactics.json](./67329-star-sentinel-tactics.json) |
 | Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
