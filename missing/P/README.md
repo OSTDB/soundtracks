@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Room | 33574 | [33574-pandoras-room.json](./33574-pandoras-room.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Pandora's Seed | 417739 | [417739-pandoras-seed.json](./417739-pandoras-seed.json) |
+| Pandora's Tower PC | 425278 | [425278-pandoras-tower-pc.json](./425278-pandoras-tower-pc.json) |
 | Pandora's Toybox | 368614 | [368614-pandoras-toybox.json](./368614-pandoras-toybox.json) |
 | Pandoras Books | 241564 | [241564-pandoras-books.json](./241564-pandoras-books.json) |
 | Pandorex | 148057 | [148057-pandorex.json](./148057-pandorex.json) |
@@ -12896,6 +12897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Outlaw | 129823 | [129823-pokemon-outlaw.json](./129823-pokemon-outlaw.json) |
 | Pokémon Overlord | 383168 | [383168-pokemon-overlord.json](./383168-pokemon-overlord.json) |
 | Pokémon Panteón | 314723 | [314723-pokemon-panteon.json](./314723-pokemon-panteon.json) |
+| Pokémon Paracosm | 425263 | [425263-pokemon-paracosm.json](./425263-pokemon-paracosm.json) |
 | Pokémon Parallel Emerald | 397762 | [397762-pokemon-parallel-emerald.json](./397762-pokemon-parallel-emerald.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
 | Pokémon Party Mini 2 | 282376 | [282376-pokemon-party-mini-2.json](./282376-pokemon-party-mini-2.json) |
@@ -21028,6 +21030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Showdown 4K | 36621 | [36621-puzzle-showdown-4k.json](./36621-puzzle-showdown-4k.json) |
 | Puzzle Shuffle | 77115 | [77115-puzzle-shuffle.json](./77115-puzzle-shuffle.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
+| Puzzle Simulator | 425302 | [425302-puzzle-simulator.json](./425302-puzzle-simulator.json) |
 | Puzzle Sisters Foer | 74572 | [74572-puzzle-sisters-foer.json](./74572-puzzle-sisters-foer.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Soccer | 159418 | [159418-puzzle-soccer.json](./159418-puzzle-soccer.json) |
