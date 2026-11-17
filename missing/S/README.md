@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Zhì: Qúnxióng Zhēngbà | 350017 | [350017-sanguo-zhi-qunxiong-zhengba.json](./350017-sanguo-zhi-qunxiong-zhengba.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sanguo's Ambition 4: Three Kingdoms | 265802 | [265802-sanguos-ambition-4-three-kingdoms.json](./265802-sanguos-ambition-4-three-kingdoms.json) |
+| Sānguózhì 4: Chìbì Fēngyún | 131684 | [131684-sanguozhi-4-chibi-fengyun.json](./131684-sanguozhi-4-chibi-fengyun.json) |
 | Sānguózhì Juéxǐng | 367273 | [367273-sanguozhi-juexing.json](./367273-sanguozhi-juexing.json) |
 | Sānguózhì Měngjiàng Zhuán | 158528 | [158528-sanguozhi-mengjiang-zhuan.json](./158528-sanguozhi-mengjiang-zhuan.json) |
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
@@ -5962,7 +5963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekisai Puzzle Action | 235553 | [235553-sekisai-puzzle-action.json](./235553-sekisai-puzzle-action.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
-| Sektori | 217363 | [217363-sektori.json](./217363-sektori.json) |
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
 | Sel Mounta: Siege the Demon Castle | 259732 | [259732-sel-mounta-siege-the-demon-castle.json](./259732-sel-mounta-siege-the-demon-castle.json) |
 | Sel Quinta: The Six City Quest | 192239 | [192239-sel-quinta-the-six-city-quest.json](./192239-sel-quinta-the-six-city-quest.json) |
@@ -6008,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-care for wizards | 176946 | [176946-self-care-for-wizards.json](./176946-self-care-for-wizards.json) |
+| Self-Checkout Unlimited | 131673 | [131673-self-checkout-unlimited.json](./131673-self-checkout-unlimited.json) |
 | Self-Comb Women: Home Left Behind | 351380 | [351380-self-comb-women-home-left-behind.json](./351380-self-comb-women-home-left-behind.json) |
 | Self-Delusion | 158325 | [158325-self-delusion.json](./158325-self-delusion.json) |
 | Self-indulgence | 273784 | [273784-self-indulgence.json](./273784-self-indulgence.json) |
@@ -9007,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
 | Shem Ha Mephorash | 167435 | [167435-shem-ha-mephorash.json](./167435-shem-ha-mephorash.json) |
 | Shén Guǐ Dìguó zhī Èmó Chéng | 404075 | [404075-shen-gui-diguo-zhi-emo-cheng.json](./404075-shen-gui-diguo-zhi-emo-cheng.json) |
+| Shén Guǐ Jiàngshì | 131683 | [131683-shen-gui-jiangshi.json](./131683-shen-gui-jiangshi.json) |
 | Shén Mó Qìyuē | 164591 | [164591-shen-mo-qiyue.json](./164591-shen-mo-qiyue.json) |
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
 | Shenanigans | 283362 | [283362-shenanigans.json](./283362-shenanigans.json) |
@@ -10691,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
 | Shotgun Knight | 244603 | [244603-shotgun-knight.json](./244603-shotgun-knight.json) |
 | Shotgun Mario 64 | 273745 | [273745-shotgun-mario-64.json](./273745-shotgun-mario-64.json) |
+| Shotgun n Zombies | 131664 | [131664-shotgun-n-zombies.json](./131664-shotgun-n-zombies.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Recovery | 272587 | [272587-shotgun-recovery.json](./272587-shotgun-recovery.json) |
@@ -24050,6 +24053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbearers | 138670 | [138670-spellbearers.json](./138670-spellbearers.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
+| Spellbind Tactics | 131646 | [131646-spellbind-tactics.json](./131646-spellbind-tactics.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
 | Spellbinders | 58708 | [58708-spellbinders.json](./58708-spellbinders.json) |
 | SpellBit | 340186 | [340186-spellbit.json](./340186-spellbit.json) |
@@ -28964,6 +28968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starters Orders 4 Horse Racing: Jumps Edition | 175566 | [175566-starters-orders-4-horse-racing-jumps-edition.json](./175566-starters-orders-4-horse-racing-jumps-edition.json) |
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
 | Starters Orders 7 Horse Racing | 114388 | [114388-starters-orders-7-horse-racing.json](./114388-starters-orders-7-horse-racing.json) |
+| Starters Orders Classic Horse Racing | 131655 | [131655-starters-orders-classic-horse-racing.json](./131655-starters-orders-classic-horse-racing.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
 | Startide | 56685 | [56685-startide.json](./56685-startide.json) |
 | Starting a Village from Zero | 405140 | [405140-starting-a-village-from-zero.json](./405140-starting-a-village-from-zero.json) |
@@ -40218,7 +40223,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
-| Sword of the Vagrant | 225891 | [225891-sword-of-the-vagrant.json](./225891-sword-of-the-vagrant.json) |
 | Sword of Warrior | 246173 | [246173-sword-of-warrior.json](./246173-sword-of-warrior.json) |
 | Sword of Wonder: It's Good to be a King | 224962 | [224962-sword-of-wonder-its-good-to-be-a-king.json](./224962-sword-of-wonder-its-good-to-be-a-king.json) |
 | Sword Phantom | 305761 | [305761-sword-phantom.json](./305761-sword-phantom.json) |
