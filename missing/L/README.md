@@ -6591,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Litter Factory | 376409 | [376409-litter-factory.json](./376409-litter-factory.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
+| Littermates | 423522 | [423522-littermates.json](./423522-littermates.json) |
 | Little | 191414 | [191414-little.json](./191414-little.json) |
 | Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
 | Little Adventure | 159545 | [159545-little-adventure.json](./159545-little-adventure.json) |
