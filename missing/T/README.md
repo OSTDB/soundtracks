@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | Tekkouki Mikazuki Taikenban | 269148 | [269148-tekkouki-mikazuki-taikenban.json](./269148-tekkouki-mikazuki-taikenban.json) |
 | Tekkout2: Balls Of Rust | 355879 | [355879-tekkout2-balls-of-rust.json](./355879-tekkout2-balls-of-rust.json) |
+| Tekkwin's Epic Peggle Pack | 428877 | [428877-tekkwins-epic-peggle-pack.json](./428877-tekkwins-epic-peggle-pack.json) |
 | Tekkyu Fight! The Great Battle Gaiden | 64785 | [64785-tekkyu-fight-the-great-battle-gaiden.json](./64785-tekkyu-fight-the-great-battle-gaiden.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
@@ -4881,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminus | 69962 | [69962-terminus.json](./69962-terminus.json) |
 | Terminus Historia | 207484 | [207484-terminus-historia.json](./207484-terminus-historia.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
+| Terminus: Day Zero | 428884 | [428884-terminus-day-zero.json](./428884-terminus-day-zero.json) |
 | Terminus: Survival | 120651 | [120651-terminus-survival.json](./120651-terminus-survival.json) |
 | Terminus: The Prison Planet | 36683 | [36683-terminus-the-prison-planet.json](./36683-terminus-the-prison-planet.json) |
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
@@ -5584,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrogue Dragons | 164266 | [164266-tetrogue-dragons.json](./164266-tetrogue-dragons.json) |
 | Tetroi | 319535 | [319535-tetroi.json](./319535-tetroi.json) |
 | Tetroid 2012 | 73655 | [73655-tetroid-2012.json](./73655-tetroid-2012.json) |
+| Tetromancer | 428912 | [428912-tetromancer.json](./428912-tetromancer.json) |
 | Tetrominer | 324725 | [324725-tetrominer.json](./324725-tetrominer.json) |
 | Tetromino Attack | 117808 | [117808-tetromino-attack.json](./117808-tetromino-attack.json) |
 | Tetromino Chill | 186197 | [186197-tetromino-chill.json](./186197-tetromino-chill.json) |
@@ -22191,6 +22194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theyest Thou | 129272 | [129272-theyest-thou.json](./129272-theyest-thou.json) |
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
 | Thibalryn | 107469 | [107469-thibalryn.json](./107469-thibalryn.json) |
+| Thicc Magic. Elves' Perverted Beauty Standards.gif | 428925 | [428925-thicc-magic-elves-perverted-beauty-standards-gif.json](./428925-thicc-magic-elves-perverted-beauty-standards-gif.json) |
 | Thicc Wet Paper Layers | 178862 | [178862-thicc-wet-paper-layers.json](./178862-thicc-wet-paper-layers.json) |
 | THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
 | Thiccfoot | 426020 | [426020-thiccfoot.json](./426020-thiccfoot.json) |
@@ -27097,6 +27101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
 | To What End | 128731 | [128731-to-what-end.json](./128731-to-what-end.json) |
 | To You, the Evil Spirit | 349026 | [349026-to-you-the-evil-spirit.json](./349026-to-you-the-evil-spirit.json) |
+| To You, Who I Appreciate. | 428892 | [428892-to-you-who-i-appreciate.json](./428892-to-you-who-i-appreciate.json) |
 | To Your Stations! | 135750 | [135750-to-your-stations.json](./135750-to-your-stations.json) |
 | To-Fu Collection | 206765 | [206765-to-fu-collection.json](./206765-to-fu-collection.json) |
 | To-Fu Fury | 100497 | [100497-to-fu-fury.json](./100497-to-fu-fury.json) |
@@ -34276,6 +34281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Tales | 301261 | [301261-trench-tales.json](./301261-trench-tales.json) |
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
 | Trenchblocks | 417575 | [417575-trenchblocks.json](./417575-trenchblocks.json) |
+| Trenchcoat Adventurer Vol 1 : Gone Rogue | 428911 | [428911-trenchcoat-adventurer-vol-1-gone-rogue.json](./428911-trenchcoat-adventurer-vol-1-gone-rogue.json) |
 | Trenched | 21149 | [21149-trenched.json](./21149-trenched.json) |
 | Trenches | 91866 | [91866-trenches.json](./91866-trenches.json) |
 | Trenches 2 | 23926 | [23926-trenches-2.json](./23926-trenches-2.json) |
@@ -34607,6 +34613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Shot | 96142 | [96142-trick-shot.json](./96142-trick-shot.json) |
 | Trick Shot 2 | 96141 | [96141-trick-shot-2.json](./96141-trick-shot-2.json) |
 | Trick Shot Bowling | 87311 | [87311-trick-shot-bowling.json](./87311-trick-shot-bowling.json) |
+| Trick Shot Cinema | 428897 | [428897-trick-shot-cinema.json](./428897-trick-shot-cinema.json) |
 | Trick Shot Ping Pong | 193555 | [193555-trick-shot-ping-pong.json](./193555-trick-shot-ping-pong.json) |
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
 | Trick Star | 49456 | [49456-trick-star.json](./49456-trick-star.json) |
