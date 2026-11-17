@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Package Inc | 174530 | [174530-package-inc.json](./174530-package-inc.json) |
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Package Man | 131395 | [131395-package-man.json](./131395-package-man.json) |
+| Package Piles: Tidy Up The Warehouse! | 418142 | [418142-package-piles-tidy-up-the-warehouse.json](./418142-package-piles-tidy-up-the-warehouse.json) |
 | Package Resolved | 355971 | [355971-package-resolved.json](./355971-package-resolved.json) |
 | Package Runner | 260615 | [260615-package-runner.json](./260615-package-runner.json) |
 | Package Rush | 215594 | [215594-package-rush.json](./215594-package-rush.json) |
