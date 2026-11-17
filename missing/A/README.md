@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyss: Konmei no Toki | 319645 | [319645-abyss-konmei-no-toki.json](./319645-abyss-konmei-no-toki.json) |
 | Abyss: New Dawn | 283878 | [283878-abyss-new-dawn.json](./283878-abyss-new-dawn.json) |
+| Abyss: The Last Night of the Titania | 421077 | [421077-abyss-the-last-night-of-the-titania.json](./421077-abyss-the-last-night-of-the-titania.json) |
 | Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
 | Abyss: The Wraiths of Eden - Collector's Edition | 357010 | [357010-abyss-the-wraiths-of-eden-collectors-edition.json](./357010-abyss-the-wraiths-of-eden-collectors-edition.json) |
 | Abyssal | 249850 | [249850-abyssal.json](./249850-abyssal.json) |
@@ -4795,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
 | Aerobiz | 5350 | [5350-aerobiz.json](./5350-aerobiz.json) |
 | Aerobiz Supersonic | 5351 | [5351-aerobiz-supersonic.json](./5351-aerobiz-supersonic.json) |
+| AeroBloom | 421136 | [421136-aerobloom.json](./421136-aerobloom.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | AeroChopper | 99034 | [99034-aerochopper.json](./99034-aerochopper.json) |
 | Aerocorp | 379492 | [379492-aerocorp.json](./379492-aerocorp.json) |
@@ -14377,6 +14379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
 | Arcade Archives 2: Chopper 1 | 364793 | [364793-arcade-archives-2-chopper-1.json](./364793-arcade-archives-2-chopper-1.json) |
 | Arcade Archives 2: Combat School | 412762 | [412762-arcade-archives-2-combat-school.json](./412762-arcade-archives-2-combat-school.json) |
+| Arcade Archives 2: Crazy Balloon | 421093 | [421093-arcade-archives-2-crazy-balloon.json](./421093-arcade-archives-2-crazy-balloon.json) |
 | Arcade Archives 2: Cyber Commando | 400162 | [400162-arcade-archives-2-cyber-commando.json](./400162-arcade-archives-2-cyber-commando.json) |
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Dacholer | 419602 | [419602-arcade-archives-2-dacholer.json](./419602-arcade-archives-2-dacholer.json) |
@@ -20683,6 +20686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Collector's Edition | 254222 | [254222-avatar-frontiers-of-pandora-collectors-edition.json](./254222-avatar-frontiers-of-pandora-collectors-edition.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - Deluxe Edition | 283590 | [283590-avatar-frontiers-of-pandora-deluxe-edition.json](./283590-avatar-frontiers-of-pandora-deluxe-edition.json) |
+| Avatar: Frontiers of Pandora - From the Ashes Edition | 421133 | [421133-avatar-frontiers-of-pandora-from-the-ashes-edition.json](./421133-avatar-frontiers-of-pandora-from-the-ashes-edition.json) |
 | Avatar: Frontiers of Pandora - Gold Edition | 254221 | [254221-avatar-frontiers-of-pandora-gold-edition.json](./254221-avatar-frontiers-of-pandora-gold-edition.json) |
 | Avatar: Frontiers of Pandora - Limited Edition | 254220 | [254220-avatar-frontiers-of-pandora-limited-edition.json](./254220-avatar-frontiers-of-pandora-limited-edition.json) |
 | Avatar: Frontiers of Pandora - Season Pass | 317754 | [317754-avatar-frontiers-of-pandora-season-pass.json](./317754-avatar-frontiers-of-pandora-season-pass.json) |
