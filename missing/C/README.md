@@ -5590,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Creatures | 421221 | [421221-cave-creatures.json](./421221-cave-creatures.json) |
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
 | Cave Dave | 391293 | [391293-cave-dave.json](./391293-cave-dave.json) |
+| Cave Days | 71656 | [71656-cave-days.json](./71656-cave-days.json) |
 | Cave Dig 3 | 73113 | [73113-cave-dig-3.json](./73113-cave-dig-3.json) |
 | Cave Digger | 143974 | [143974-cave-digger.json](./143974-cave-digger.json) |
 | Cave Digger 2 | 266177 | [266177-cave-digger-2.json](./266177-cave-digger-2.json) |
@@ -23415,6 +23416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
 | Cyber-Core | 42112 | [42112-cyber-core.json](./42112-cyber-core.json) |
 | Cyber-doge 2077: Meme runner | 167422 | [167422-cyber-doge-2077-meme-runner.json](./167422-cyber-doge-2077-meme-runner.json) |
+| Cyber-Lip | 71622 | [71622-cyber-lip.json](./71622-cyber-lip.json) |
 | Cyber-Wing | 130654 | [130654-cyber-wing.json](./130654-cyber-wing.json) |
 | Cyber: Mind Dive | 255482 | [255482-cyber-mind-dive.json](./255482-cyber-mind-dive.json) |
 | Cyber.one: Trans Car Racing | 126985 | [126985-cyber-one-trans-car-racing.json](./126985-cyber-one-trans-car-racing.json) |
