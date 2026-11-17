@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Aincrad: Genesis Maidens | 416126 | [416126-echoes-of-aincrad-genesis-maidens.json](./416126-echoes-of-aincrad-genesis-maidens.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
 | Echoes of Aincrad: Ultimate Edition | 393968 | [393968-echoes-of-aincrad-ultimate-edition.json](./393968-echoes-of-aincrad-ultimate-edition.json) |
+| Echoes of Aromia | 418551 | [418551-echoes-of-aromia.json](./418551-echoes-of-aromia.json) |
 | Echoes of Baikal | 387622 | [387622-echoes-of-baikal.json](./387622-echoes-of-baikal.json) |
 | Echoes Of Despair | 290494 | [290494-echoes-of-despair.json](./290494-echoes-of-despair.json) |
 | Echoes of Dread | 309940 | [309940-echoes-of-dread.json](./309940-echoes-of-dread.json) |
