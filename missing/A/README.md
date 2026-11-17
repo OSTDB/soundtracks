@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Foreign Land of Us | 410436 | [410436-a-foreign-land-of-us.json](./410436-a-foreign-land-of-us.json) |
 | A Foreign World | 223343 | [223343-a-foreign-world.json](./223343-a-foreign-world.json) |
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
+| A Forest Tail | 420436 | [420436-a-forest-tail.json](./420436-a-forest-tail.json) |
 | A Forest Tale: Porasy | 330330 | [330330-a-forest-tale-porasy.json](./330330-a-forest-tale-porasy.json) |
 | A Forest Walk | 180907 | [180907-a-forest-walk.json](./180907-a-forest-walk.json) |
 | A Foretold Affair | 29614 | [29614-a-foretold-affair.json](./29614-a-foretold-affair.json) |
@@ -12551,6 +12552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Deception | 296712 | [296712-anomalous-deception.json](./296712-anomalous-deception.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Railroad Crossing | 348127 | [348127-anomalous-railroad-crossing.json](./348127-anomalous-railroad-crossing.json) |
+| Anomalous Research | 420461 | [420461-anomalous-research.json](./420461-anomalous-research.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
 | Anomalum | 309839 | [309839-anomalum.json](./309839-anomalum.json) |
@@ -16465,6 +16467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Warfare: Revolution General Pack | 224353 | [224353-armored-warfare-revolution-general-pack.json](./224353-armored-warfare-revolution-general-pack.json) |
 | Armored Warriors | 13688 | [13688-armored-warriors.json](./13688-armored-warriors.json) |
 | Armored Xpress | 149836 | [149836-armored-xpress.json](./149836-armored-xpress.json) |
+| Armorer: Tidy Up the Armory Before Dawn | 420454 | [420454-armorer-tidy-up-the-armory-before-dawn.json](./420454-armorer-tidy-up-the-armory-before-dawn.json) |
 | Armorgeddon | 127407 | [127407-armorgeddon.json](./127407-armorgeddon.json) |
 | Armorik the Viking: The Eight Conquests | 69172 | [69172-armorik-the-viking-the-eight-conquests.json](./69172-armorik-the-viking-the-eight-conquests.json) |
 | Armorines: Project S.W.A.R.M. | 186027 | [186027-armorines-project-s-w-a-r-m.json](./186027-armorines-project-s-w-a-r-m.json) |
