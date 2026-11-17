@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
 | Reach the Ocean | 213664 | [213664-reach-the-ocean.json](./213664-reach-the-ocean.json) |
 | Reach the Sky | 110188 | [110188-reach-the-sky.json](./110188-reach-the-sky.json) |
+| Reach the Summit | 143778 | [143778-reach-the-summit.json](./143778-reach-the-summit.json) |
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
@@ -8663,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring King | 37335 | [37335-ring-king.json](./37335-ring-king.json) |
 | Ring King | 48208 | [48208-ring-king.json](./48208-ring-king.json) |
 | Ring Man in the Castle | 304268 | [304268-ring-man-in-the-castle.json](./304268-ring-man-in-the-castle.json) |
+| Ring Miner | 141910 | [141910-ring-miner.json](./141910-ring-miner.json) |
 | Ring ni Kakero | 38241 | [38241-ring-ni-kakero.json](./38241-ring-ni-kakero.json) |
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
