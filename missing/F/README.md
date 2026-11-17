@@ -15865,6 +15865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
 | Fussball Manager Bundesliga 2001 | 209417 | [209417-fussball-manager-bundesliga-2001.json](./209417-fussball-manager-bundesliga-2001.json) |
+| Fussy Chicken | 181403 | [181403-fussy-chicken.json](./181403-fussy-chicken.json) |
 | Fusterclucks 2015 | 60710 | [60710-fusterclucks-2015.json](./60710-fusterclucks-2015.json) |
 | Fusty Dungeon | 415043 | [415043-fusty-dungeon.json](./415043-fusty-dungeon.json) |
 | Futa Battle TD | 196143 | [196143-futa-battle-td.json](./196143-futa-battle-td.json) |
