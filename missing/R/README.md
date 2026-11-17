@@ -8053,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Morty Presents: Jerry's Game | 74299 | [74299-rick-and-morty-presents-jerrys-game.json](./74299-rick-and-morty-presents-jerrys-game.json) |
 | Rick and Morty: Clone Rumble | 194111 | [194111-rick-and-morty-clone-rumble.json](./194111-rick-and-morty-clone-rumble.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
+| Rick and Morty's Rushed Licensed Adventure | 61792 | [61792-rick-and-mortys-rushed-licensed-adventure.json](./61792-rick-and-mortys-rushed-licensed-adventure.json) |
 | Rick Ardurous | 339019 | [339019-rick-ardurous.json](./339019-rick-ardurous.json) |
 | Rick Astley: The Game | 195335 | [195335-rick-astley-the-game.json](./195335-rick-astley-the-game.json) |
 | Rick Dangerous | 12202 | [12202-rick-dangerous.json](./12202-rick-dangerous.json) |
@@ -9205,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risu | 149860 | [149860-risu.json](./149860-risu.json) |
 | Rita | 302037 | [302037-rita.json](./302037-rita.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
+| Rita James and the Race to Shangri La | 65119 | [65119-rita-james-and-the-race-to-shangri-la.json](./65119-rita-james-and-the-race-to-shangri-la.json) |
 | Rita's Flower Shop | 394136 | [394136-ritas-flower-shop.json](./394136-ritas-flower-shop.json) |
 | Ritbone | 118780 | [118780-ritbone.json](./118780-ritbone.json) |
 | Rite | 135362 | [135362-rite.json](./135362-rite.json) |
@@ -10766,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Mania Deluxe | 27815 | [27815-rocket-mania-deluxe.json](./27815-rocket-mania-deluxe.json) |
 | Rocket Monsters | 222689 | [222689-rocket-monsters.json](./222689-rocket-monsters.json) |
 | Rocket Mouse | 113254 | [113254-rocket-mouse.json](./113254-rocket-mouse.json) |
+| Rocket Narwhal | 65108 | [65108-rocket-narwhal.json](./65108-rocket-narwhal.json) |
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
 | Rocket Panda Panic | 149818 | [149818-rocket-panda-panic.json](./149818-rocket-panda-panic.json) |
