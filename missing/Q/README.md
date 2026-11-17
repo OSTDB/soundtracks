@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Gakumon no Susume | 210808 | [210808-quiz-gakumon-no-susume.json](./210808-quiz-gakumon-no-susume.json) |
 | Quiz Game Museum | 418534 | [418534-quiz-game-museum.json](./418534-quiz-game-museum.json) |
 | Quiz Game Night | 270068 | [270068-quiz-game-night.json](./270068-quiz-game-night.json) |
+| Quiz Impact: Habitto no Daibouken | 141922 | [141922-quiz-impact-habitto-no-daibouken.json](./141922-quiz-impact-habitto-no-daibouken.json) |
 | Quiz It | 102758 | [102758-quiz-it.json](./102758-quiz-it.json) |
 | Quiz Kidou Senshi Gundam: Toi Senshi DX | 62758 | [62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json](./62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json) |
 | Quiz King of Fighters | 51692 | [51692-quiz-king-of-fighters.json](./51692-quiz-king-of-fighters.json) |
