@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
 | Game Market Mayhem | 417159 | [417159-game-market-mayhem.json](./417159-game-market-mayhem.json) |
 | Game Master II | 41747 | [41747-game-master-ii.json](./41747-game-master-ii.json) |
+| Game Master Plus | 115106 | [115106-game-master-plus.json](./115106-game-master-plus.json) |
 | Game Neverending | 60686 | [60686-game-neverending.json](./60686-game-neverending.json) |
 | Game ni Nattayo! Dokuro-chan: Kenkou Shindan Daisakusen | 248390 | [248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json](./248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
@@ -9669,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitron360 | 92060 | [92060-gravitron360.json](./92060-gravitron360.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
 | Gravitum | 187287 | [187287-gravitum.json](./187287-gravitum.json) |
+| Gravitura | 117830 | [117830-gravitura.json](./117830-gravitura.json) |
 | Gravitus Minus | 185311 | [185311-gravitus-minus.json](./185311-gravitus-minus.json) |
 | GraviTV | 187291 | [187291-gravitv.json](./187291-gravitv.json) |
 | Gravitwist | 277443 | [277443-gravitwist.json](./277443-gravitwist.json) |
@@ -10958,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
 | Grisaia Phantom Trigger Vol.4 | 81678 | [81678-grisaia-phantom-trigger-vol-4.json](./81678-grisaia-phantom-trigger-vol-4.json) |
 | Grisaia Phantom Trigger Vol.5 | 104391 | [104391-grisaia-phantom-trigger-vol-5.json](./104391-grisaia-phantom-trigger-vol-5.json) |
+| Grisaia Phantom Trigger Vol.5.5 | 116498 | [116498-grisaia-phantom-trigger-vol-5-5.json](./116498-grisaia-phantom-trigger-vol-5-5.json) |
 | Grisaia Phantom Trigger Vol.6 | 117248 | [117248-grisaia-phantom-trigger-vol-6.json](./117248-grisaia-phantom-trigger-vol-6.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
 | Grisaia Trilogy Package Edition | 123169 | [123169-grisaia-trilogy-package-edition.json](./123169-grisaia-trilogy-package-edition.json) |
@@ -10975,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit Porn Video Tapes | 309745 | [309745-grit-porn-video-tapes.json](./309745-grit-porn-video-tapes.json) |
 | Grit Shot | 414128 | [414128-grit-shot.json](./414128-grit-shot.json) |
 | Grit Under the Eyelid | 299843 | [299843-grit-under-the-eyelid.json](./299843-grit-under-the-eyelid.json) |
+| Grit: Overworld Survival | 117861 | [117861-grit-overworld-survival.json](./117861-grit-overworld-survival.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
 | Gritty Bit VR | 38815 | [38815-gritty-bit-vr.json](./38815-gritty-bit-vr.json) |
 | Gritz: The Pyramid Adventure | 286581 | [286581-gritz-the-pyramid-adventure.json](./286581-gritz-the-pyramid-adventure.json) |
