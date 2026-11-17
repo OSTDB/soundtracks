@@ -17987,6 +17987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Milking Simulator | 74988 | [74988-cow-milking-simulator.json](./74988-cow-milking-simulator.json) |
 | Cow Online World | 364217 | [364217-cow-online-world.json](./364217-cow-online-world.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
+| Cow Rush: Water Adventure | 211302 | [211302-cow-rush-water-adventure.json](./211302-cow-rush-water-adventure.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
 | Cowabunga | 72436 | [72436-cowabunga.json](./72436-cowabunga.json) |
 | CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
