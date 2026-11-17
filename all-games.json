@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T09:26:47.965Z",
-  "total_soundtracks": 3700,
+  "generated_at": "2026-11-17T09:36:35.861Z",
+  "total_soundtracks": 3708,
   "games": [
     {
       "igdb_id": 292844,
@@ -8387,6 +8387,20 @@
       ]
     },
     {
+      "igdb_id": 124391,
+      "game_name": "Crew 167: The Grand Block Odyssey",
+      "game_url": "https://ostdb.net/games/crew-167-the-grand-block-odyssey",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736c8407def1e8c7304a784bfb",
+      "albums": [
+        {
+          "album_name": "Crew 167: The Grand Block Odyssey (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4FRbELCUtmUdma7Yyq1ZaP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 125633,
       "game_name": "Crimson Desert",
       "game_url": "https://ostdb.net/games/crimson-desert",
@@ -9837,6 +9851,20 @@
       ]
     },
     {
+      "igdb_id": 123192,
+      "game_name": "Deceive Inc.",
+      "game_url": "https://ostdb.net/games/deceive-inc",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739e3b44428ee49edf2c089f40",
+      "albums": [
+        {
+          "album_name": "Deceive Inc. Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5LdXQGPHZAJ6K4FtJuHAJw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 74540,
       "game_name": "Deemo: Reborn",
       "game_url": "https://ostdb.net/games/deemo-reborn",
@@ -10553,6 +10581,20 @@
         {
           "album_name": "Dick Tracy (Original Score)",
           "spotify_url": "https://open.spotify.com/album/2XDygZpsekWS5p44DDT2IL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122449,
+      "game_name": "Die by the Blade",
+      "game_url": "https://ostdb.net/games/die-by-the-blade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc8d19a103e9e877d3cb235a",
+      "albums": [
+        {
+          "album_name": "Die by the Blade (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Z2I9vYXbGxMmSkh1JmgY8",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -20449,6 +20491,20 @@
       ]
     },
     {
+      "igdb_id": 124310,
+      "game_name": "Jay and Silent Bob: Mall Brawl",
+      "game_url": "https://ostdb.net/games/jay-and-silent-bob-mall-brawl",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273861b5bb2f0ccfccce21f48af",
+      "albums": [
+        {
+          "album_name": "Jay and Silent Bob: Mall Brawl (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/50F59JYUccIuEexWdZm7Na",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 113836,
       "game_name": "Jet Lancer",
       "game_url": "https://ostdb.net/games/jet-lancer",
@@ -28307,6 +28363,20 @@
       ]
     },
     {
+      "igdb_id": 122083,
+      "game_name": "Overcooked! 2: Carnival of Chaos",
+      "game_url": "https://ostdb.net/games/overcooked-2-carnival-of-chaos",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c50f2e5ed7ec7b0c53d424d3",
+      "albums": [
+        {
+          "album_name": "Overcooked! 2: Carnival of Chaos (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3QmgZb7LhFJUNaBa5C8bM6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 33363,
       "game_name": "Overload",
       "game_url": "https://ostdb.net/games/overload",
@@ -29802,6 +29872,20 @@
           "album_name": "Poppy Playtime Ch. 5 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7swHkPFMV81FRzMhyguryF",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121764,
+      "game_name": "Port Royale 4",
+      "game_url": "https://ostdb.net/games/port-royale-4",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736567406af9a9a636e378b040",
+      "albums": [
+        {
+          "album_name": "Port Royale 4 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1HMGMOlWguFZBSIjBVFBYm",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -44949,6 +45033,20 @@
       ]
     },
     {
+      "igdb_id": 122319,
+      "game_name": "Various Daylife",
+      "game_url": "https://ostdb.net/games/various-daylife",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733890faec4e544a5adf604712",
+      "albums": [
+        {
+          "album_name": "VARIOUS DAYLIFE Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2KhDCeCfWIFLxXl7iwvcXY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 101939,
       "game_name": "Vector 2",
       "game_url": "https://ostdb.net/games/vector-2",
@@ -45991,6 +46089,20 @@
         {
           "album_name": "Wayfinder: Volume 1 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0wtW5VDD9bVRvzzQs21K4g",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 123789,
+      "game_name": "Wayward Strand",
+      "game_url": "https://ostdb.net/games/wayward-strand",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27369768fd80bcb453dd90f3597",
+      "albums": [
+        {
+          "album_name": "Wayward Strand (Original Videogame Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1CtlZjDo9hbXBKIV1qJwMs",
           "apple_music_url": "",
           "album_link_url": ""
         }
