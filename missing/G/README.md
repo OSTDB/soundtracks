@@ -3682,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | GeoFunGames | 402209 | [402209-geofungames.json](./402209-geofungames.json) |
 | GeoFußball | 422707 | [422707-geofu-ball.json](./422707-geofu-ball.json) |
+| Geogames | 165188 | [165188-geogames.json](./165188-geogames.json) |
 | GeoGebra Mixed Reality | 104356 | [104356-geogebra-mixed-reality.json](./104356-geogebra-mixed-reality.json) |
 | Geograficus | 418226 | [418226-geograficus.json](./418226-geograficus.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
@@ -8305,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordinho Adventure | 322675 | [322675-gordinho-adventure.json](./322675-gordinho-adventure.json) |
 | Gordo 106 | 350123 | [350123-gordo-106.json](./350123-gordo-106.json) |
 | Gordo 106 | 40837 | [40837-gordo-106.json](./40837-gordo-106.json) |
+| Gordon Adventure | 165086 | [165086-gordon-adventure.json](./165086-gordon-adventure.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
 | Gordon Freakman 2: Kleiner-Life | 322672 | [322672-gordon-freakman-2-kleiner-life.json](./322672-gordon-freakman-2-kleiner-life.json) |
@@ -10877,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimsonland | 112765 | [112765-grimsonland.json](./112765-grimsonland.json) |
 | Grimstar: Crystals are the New Oil! | 152563 | [152563-grimstar-crystals-are-the-new-oil.json](./152563-grimstar-crystals-are-the-new-oil.json) |
+| Grimstar: The Battle for Green Moon | 164101 | [164101-grimstar-the-battle-for-green-moon.json](./164101-grimstar-the-battle-for-green-moon.json) |
 | Grimstar: Welcome to the savage planet | 211528 | [211528-grimstar-welcome-to-the-savage-planet.json](./211528-grimstar-welcome-to-the-savage-planet.json) |
 | Grimstone | 318307 | [318307-grimstone.json](./318307-grimstone.json) |
 | Grimstone Survivors | 317714 | [317714-grimstone-survivors.json](./317714-grimstone-survivors.json) |
