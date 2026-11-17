@@ -3078,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE:Solver | 192862 | [192862-re-solver.json](./192862-re-solver.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Stage! Prism Step | 77720 | [77720-re-stage-prism-step.json](./77720-re-stage-prism-step.json) |
+| Re:Store the Record Store | 419674 | [419674-re-store-the-record-store.json](./419674-re-store-the-record-store.json) |
 | Re:Take | 151802 | [151802-re-take.json](./151802-re-take.json) |
 | Re:Touring | 244609 | [244609-re-touring.json](./244609-re-touring.json) |
 | Re:Turn - One Way Trip | 138021 | [138021-re-turn-one-way-trip.json](./138021-re-turn-one-way-trip.json) |
@@ -3217,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Contest | 112233 | [112233-ready-contest.json](./112233-ready-contest.json) |
 | Ready for Riot | 210976 | [210976-ready-for-riot.json](./210976-ready-for-riot.json) |
 | Ready Games | 131039 | [131039-ready-games.json](./131039-ready-games.json) |
+| Ready Maid | 419718 | [419718-ready-maid.json](./419718-ready-maid.json) |
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: Dark Waters | 324580 | [324580-ready-or-not-dark-waters.json](./324580-ready-or-not-dark-waters.json) |
@@ -7326,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
 | Revenant | 376823 | [376823-revenant.json](./376823-revenant.json) |
+| Revenant Dawn | 419687 | [419687-revenant-dawn.json](./419687-revenant-dawn.json) |
 | Revenant Dogma | 38505 | [38505-revenant-dogma.json](./38505-revenant-dogma.json) |
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
 | Revenant in the Paradise | 114501 | [114501-revenant-in-the-paradise.json](./114501-revenant-in-the-paradise.json) |
@@ -13678,6 +13681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin and Rebirth | 376031 | [376031-ruin-and-rebirth.json](./376031-ruin-and-rebirth.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin City Gasolina | 55343 | [55343-ruin-city-gasolina.json](./55343-ruin-city-gasolina.json) |
+| Ruin Hacker | 419715 | [419715-ruin-hacker.json](./419715-ruin-hacker.json) |
 | Ruin Hunter Raichi | 392456 | [392456-ruin-hunter-raichi.json](./392456-ruin-hunter-raichi.json) |
 | Ruin Hunters | 149270 | [149270-ruin-hunters.json](./149270-ruin-hunters.json) |
 | Ruin of the Fae Realm | 312314 | [312314-ruin-of-the-fae-realm.json](./312314-ruin-of-the-fae-realm.json) |
