@@ -3896,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom Majestic | 136344 | [136344-kingdom-majestic.json](./136344-kingdom-majestic.json) |
 | Kingdom Majestic: Limited Edition | 146040 | [146040-kingdom-majestic-limited-edition.json](./146040-kingdom-majestic-limited-edition.json) |
+| Kingdom Maker | 197823 | [197823-kingdom-maker.json](./197823-kingdom-maker.json) |
 | Kingdom O' Magic | 73193 | [73193-kingdom-o-magic.json](./73193-kingdom-o-magic.json) |
 | Kingdom of Arcadia | 145539 | [145539-kingdom-of-arcadia.json](./145539-kingdom-of-arcadia.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
