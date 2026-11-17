@@ -10468,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Content Creator Pack: Vehicles of the World | 241100 | [241100-cities-skylines-content-creator-pack-vehicles-of-the-world.json](./241100-cities-skylines-content-creator-pack-vehicles-of-the-world.json) |
 | Cities: Skylines - Country Road Radio | 119958 | [119958-cities-skylines-country-road-radio.json](./119958-cities-skylines-country-road-radio.json) |
 | Cities: Skylines - Deep Focus Radio | 119953 | [119953-cities-skylines-deep-focus-radio.json](./119953-cities-skylines-deep-focus-radio.json) |
+| Cities: Skylines - Deluxe Edition | 52813 | [52813-cities-skylines-deluxe-edition.json](./52813-cities-skylines-deluxe-edition.json) |
 | Cities: Skylines - Deluxe Edition Upgrade Pack | 119968 | [119968-cities-skylines-deluxe-edition-upgrade-pack.json](./119968-cities-skylines-deluxe-edition-upgrade-pack.json) |
 | Cities: Skylines - Downtown Bundle | 215563 | [215563-cities-skylines-downtown-bundle.json](./215563-cities-skylines-downtown-bundle.json) |
 | Cities: Skylines - Downtown Radio | 241099 | [241099-cities-skylines-downtown-radio.json](./241099-cities-skylines-downtown-radio.json) |
@@ -10496,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Premium Edition 2 | 119080 | [119080-cities-skylines-premium-edition-2.json](./119080-cities-skylines-premium-edition-2.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
+| Cities: Skylines - Relaxation Station | 52788 | [52788-cities-skylines-relaxation-station.json](./52788-cities-skylines-relaxation-station.json) |
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
 | Cities: Skylines - Remastered: Industries | 301740 | [301740-cities-skylines-remastered-industries.json](./301740-cities-skylines-remastered-industries.json) |
 | Cities: Skylines - Rock City Radio | 119963 | [119963-cities-skylines-rock-city-radio.json](./119963-cities-skylines-rock-city-radio.json) |
@@ -10509,6 +10511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - World Tour Bundle 2 | 243292 | [243292-cities-skylines-world-tour-bundle-2.json](./243292-cities-skylines-world-tour-bundle-2.json) |
 | Cities: Skylines - Xbox One Edition | 83511 | [83511-cities-skylines-xbox-one-edition.json](./83511-cities-skylines-xbox-one-edition.json) |
 | Cities: Skylines + Surviving Mars | 200826 | [200826-cities-skylines-surviving-mars.json](./200826-cities-skylines-surviving-mars.json) |
+| Cities: Skylines Collection | 52787 | [52787-cities-skylines-collection.json](./52787-cities-skylines-collection.json) |
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
 | Cities: Skylines II - Beach Properties | 292637 | [292637-cities-skylines-ii-beach-properties.json](./292637-cities-skylines-ii-beach-properties.json) |
 | Cities: Skylines II - Bridges & Ports | 294381 | [294381-cities-skylines-ii-bridges-and-ports.json](./294381-cities-skylines-ii-bridges-and-ports.json) |
@@ -10873,6 +10876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityBeat: The Sorority Shuffle | 171990 | [171990-citybeat-the-sorority-shuffle.json](./171990-citybeat-the-sorority-shuffle.json) |
 | Citybound | 18151 | [18151-citybound.json](./18151-citybound.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
+| Citybus Simulator Munich | 52808 | [52808-citybus-simulator-munich.json](./52808-citybus-simulator-munich.json) |
+| Citybus Simulator New York | 52807 | [52807-citybus-simulator-new-york.json](./52807-citybus-simulator-new-york.json) |
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
 | CityDriver | 217210 | [217210-citydriver.json](./217210-citydriver.json) |
 | CityDriver: Alvarez-Lentz Marathon 420 CTI | 252236 | [252236-citydriver-alvarez-lentz-marathon-420-cti.json](./252236-citydriver-alvarez-lentz-marathon-420-cti.json) |
@@ -11442,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claws & Feathers | 35664 | [35664-claws-and-feathers.json](./35664-claws-and-feathers.json) |
 | Claws & Feathers 2 | 30159 | [30159-claws-and-feathers-2.json](./30159-claws-and-feathers-2.json) |
 | Claws & Feathers 3 | 302297 | [302297-claws-and-feathers-3.json](./302297-claws-and-feathers-3.json) |
+| Claws & Feathers III | 52803 | [52803-claws-and-feathers-iii.json](./52803-claws-and-feathers-iii.json) |
 | Claws of Despair | 14005 | [14005-claws-of-despair.json](./14005-claws-of-despair.json) |
 | Claws of Furry | 76436 | [76436-claws-of-furry.json](./76436-claws-of-furry.json) |
 | Claws of the Forest | 363593 | [363593-claws-of-the-forest.json](./363593-claws-of-the-forest.json) |
@@ -12437,6 +12443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
 | Cluck: Hat Pack 3 | 248394 | [248394-cluck-hat-pack-3.json](./248394-cluck-hat-pack-3.json) |
 | Clucking Dubbed to Feathers | 268872 | [268872-clucking-dubbed-to-feathers.json](./268872-clucking-dubbed-to-feathers.json) |
+| Cluckles Adventure: Premium Edition | 52802 | [52802-cluckles-adventure-premium-edition.json](./52802-cluckles-adventure-premium-edition.json) |
 | Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
 | Cluckopia | 422852 | [422852-cluckopia.json](./422852-cluckopia.json) |
@@ -12544,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClusterCluck | 382119 | [382119-clustercluck.json](./382119-clustercluck.json) |
 | ClusterDisaster | 103799 | [103799-clusterdisaster.json](./103799-clusterdisaster.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
+| Clustertruck: Collector's Edition | 52799 | [52799-clustertruck-collectors-edition.json](./52799-clustertruck-collectors-edition.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch | 403990 | [403990-clutch.json](./403990-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
@@ -15001,6 +15009,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2 | 1369 | [1369-company-of-heroes-2.json](./1369-company-of-heroes-2.json) |
 | Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
 | Company of Heroes 2: Ardennes Assault | 8445 | [8445-company-of-heroes-2-ardennes-assault.json](./8445-company-of-heroes-2-ardennes-assault.json) |
+| Company of Heroes 2: Ardennes Assault - Fox Company Rangers | 52794 | [52794-company-of-heroes-2-ardennes-assault-fox-company-rangers.json](./52794-company-of-heroes-2-ardennes-assault-fox-company-rangers.json) |
+| Company of Heroes 2: Case Blue | 52793 | [52793-company-of-heroes-2-case-blue.json](./52793-company-of-heroes-2-case-blue.json) |
 | Company of Heroes 2: Case Blue Mission Pack | 168461 | [168461-company-of-heroes-2-case-blue-mission-pack.json](./168461-company-of-heroes-2-case-blue-mission-pack.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
 | Company of Heroes 2: German Commander - Elite Troops Doctrine | 168276 | [168276-company-of-heroes-2-german-commander-elite-troops-doctrine.json](./168276-company-of-heroes-2-german-commander-elite-troops-doctrine.json) |
@@ -15013,11 +15023,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: German Commander - Osttruppen Doctrine | 168278 | [168278-company-of-heroes-2-german-commander-osttruppen-doctrine.json](./168278-company-of-heroes-2-german-commander-osttruppen-doctrine.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
 | Company of Heroes 2: German Commander - Storm Doctrine | 168277 | [168277-company-of-heroes-2-german-commander-storm-doctrine.json](./168277-company-of-heroes-2-german-commander-storm-doctrine.json) |
+| Company of Heroes 2: Master Collection | 52791 | [52791-company-of-heroes-2-master-collection.json](./52791-company-of-heroes-2-master-collection.json) |
 | Company of Heroes 2: OKW Commander - Elite Armor Doctrine | 168286 | [168286-company-of-heroes-2-okw-commander-elite-armor-doctrine.json](./168286-company-of-heroes-2-okw-commander-elite-armor-doctrine.json) |
 | Company of Heroes 2: OKW Commander - Fortifications Doctrine | 168287 | [168287-company-of-heroes-2-okw-commander-fortifications-doctrine.json](./168287-company-of-heroes-2-okw-commander-fortifications-doctrine.json) |
 | Company of Heroes 2: OKW Commander - Scavenge Doctrine | 168288 | [168288-company-of-heroes-2-okw-commander-scavenge-doctrine.json](./168288-company-of-heroes-2-okw-commander-scavenge-doctrine.json) |
 | Company of Heroes 2: Platinum Edition | 35362 | [35362-company-of-heroes-2-platinum-edition.json](./35362-company-of-heroes-2-platinum-edition.json) |
 | Company of Heroes 2: Red Star Edition | 19461 | [19461-company-of-heroes-2-red-star-edition.json](./19461-company-of-heroes-2-red-star-edition.json) |
+| Company of Heroes 2: Southern Fronts | 52792 | [52792-company-of-heroes-2-southern-fronts.json](./52792-company-of-heroes-2-southern-fronts.json) |
 | Company of Heroes 2: Southern Fronts Mission Pack | 168460 | [168460-company-of-heroes-2-southern-fronts-mission-pack.json](./168460-company-of-heroes-2-southern-fronts-mission-pack.json) |
 | Company of Heroes 2: Soviet Commander - Anti-Infantry Tactics | 168275 | [168275-company-of-heroes-2-soviet-commander-anti-infantry-tactics.json](./168275-company-of-heroes-2-soviet-commander-anti-infantry-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Armored Assault Tactics | 168285 | [168285-company-of-heroes-2-soviet-commander-armored-assault-tactics.json](./168285-company-of-heroes-2-soviet-commander-armored-assault-tactics.json) |
@@ -18415,6 +18427,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Keep VR | 26932 | [26932-craft-keep-vr.json](./26932-craft-keep-vr.json) |
 | Craft Lands | 289776 | [289776-craft-lands.json](./289776-craft-lands.json) |
 | Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
+| Craft of Gods | 52822 | [52822-craft-of-gods.json](./52822-craft-of-gods.json) |
+| Craft of Gods: Edition Deluxe | 52821 | [52821-craft-of-gods-edition-deluxe.json](./52821-craft-of-gods-edition-deluxe.json) |
 | Craft of Survival | 174979 | [174979-craft-of-survival.json](./174979-craft-of-survival.json) |
 | Craft Run - 3D Endless Mine Runner Game | 95302 | [95302-craft-run-3d-endless-mine-runner-game.json](./95302-craft-run-3d-endless-mine-runner-game.json) |
 | Craft Shooting - Battle Royale | 106368 | [106368-craft-shooting-battle-royale.json](./106368-craft-shooting-battle-royale.json) |
@@ -19677,6 +19691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepypasta Land MV Edition | 307888 | [307888-creepypasta-land-mv-edition.json](./307888-creepypasta-land-mv-edition.json) |
 | Creepytape Rewind: Not From Here | 399002 | [399002-creepytape-rewind-not-from-here.json](./399002-creepytape-rewind-not-from-here.json) |
 | Crelabeth: Unholy Lands | 229156 | [229156-crelabeth-unholy-lands.json](./229156-crelabeth-unholy-lands.json) |
+| Crelo Kingdom | 52818 | [52818-crelo-kingdom.json](./52818-crelo-kingdom.json) |
 | Creme de la Creme: A Silver Spoon | 238923 | [238923-creme-de-la-creme-a-silver-spoon.json](./238923-creme-de-la-creme-a-silver-spoon.json) |
 | Creovia | 404626 | [404626-creovia.json](./404626-creovia.json) |
 | Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
@@ -20964,6 +20979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Crash | 48013 | [48013-crusader-crash.json](./48013-crusader-crash.json) |
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
+| Crusader Kings II Collection | 52817 | [52817-crusader-kings-ii-collection.json](./52817-crusader-kings-ii-collection.json) |
 | Crusader Kings II: Charlemagne | 22666 | [22666-crusader-kings-ii-charlemagne.json](./22666-crusader-kings-ii-charlemagne.json) |
 | Crusader Kings II: Conclave | 22669 | [22669-crusader-kings-ii-conclave.json](./22669-crusader-kings-ii-conclave.json) |
 | Crusader Kings II: Conclave Content Pack | 253292 | [253292-crusader-kings-ii-conclave-content-pack.json](./253292-crusader-kings-ii-conclave-content-pack.json) |
@@ -20973,6 +20989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: Finno-Ugric Unit Pack | 168339 | [168339-crusader-kings-ii-finno-ugric-unit-pack.json](./168339-crusader-kings-ii-finno-ugric-unit-pack.json) |
 | Crusader Kings II: Holy Fury | 110889 | [110889-crusader-kings-ii-holy-fury.json](./110889-crusader-kings-ii-holy-fury.json) |
 | Crusader Kings II: Horse Lords | 22668 | [22668-crusader-kings-ii-horse-lords.json](./22668-crusader-kings-ii-horse-lords.json) |
+| Crusader Kings II: Horse Lords Content Pack | 52816 | [52816-crusader-kings-ii-horse-lords-content-pack.json](./52816-crusader-kings-ii-horse-lords-content-pack.json) |
 | Crusader Kings II: Imperial Collection | 253290 | [253290-crusader-kings-ii-imperial-collection.json](./253290-crusader-kings-ii-imperial-collection.json) |
 | Crusader Kings II: Jade Dragon | 149906 | [149906-crusader-kings-ii-jade-dragon.json](./149906-crusader-kings-ii-jade-dragon.json) |
 | Crusader Kings II: Legacy of Rome | 22661 | [22661-crusader-kings-ii-legacy-of-rome.json](./22661-crusader-kings-ii-legacy-of-rome.json) |
