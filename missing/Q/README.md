@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
 | Quarres | 148864 | [148864-quarres.json](./148864-quarres.json) |
 | Quarry Simulator 2020 | 167993 | [167993-quarry-simulator-2020.json](./167993-quarry-simulator-2020.json) |
+| Quarry Truck Simulator | 211305 | [211305-quarry-truck-simulator.json](./211305-quarry-truck-simulator.json) |
 | Quarta Amethyst | 258062 | [258062-quarta-amethyst.json](./258062-quarta-amethyst.json) |
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
 | Quarter Back Scramble: American Football Game | 48823 | [48823-quarter-back-scramble-american-football-game.json](./48823-quarter-back-scramble-american-football-game.json) |
