@@ -18993,6 +18993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Shop Simulator | 414865 | [414865-moon-shop-simulator.json](./414865-moon-shop-simulator.json) |
 | Moon Shuttle | 18701 | [18701-moon-shuttle.json](./18701-moon-shuttle.json) |
 | Moon Slasher | 185108 | [185108-moon-slasher.json](./185108-moon-slasher.json) |
+| Moon Space Station Survival 3D | 106184 | [106184-moon-space-station-survival-3d.json](./106184-moon-space-station-survival-3d.json) |
 | Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
 | Moon Strike | 54575 | [54575-moon-strike.json](./54575-moon-strike.json) |
 | Moon Surfing | 101519 | [101519-moon-surfing.json](./101519-moon-surfing.json) |
@@ -24724,6 +24725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery at Stonyford Bridge | 121333 | [121333-mystery-at-stonyford-bridge.json](./121333-mystery-at-stonyford-bridge.json) |
 | Mystery at the Movie Club | 284178 | [284178-mystery-at-the-movie-club.json](./284178-mystery-at-the-movie-club.json) |
 | Mystery At Woodbrook Hall: Hidden Object Game | 197743 | [197743-mystery-at-woodbrook-hall-hidden-object-game.json](./197743-mystery-at-woodbrook-hall-hidden-object-game.json) |
+| Mystery Baldi: Secret Key | 106189 | [106189-mystery-baldi-secret-key.json](./106189-mystery-baldi-secret-key.json) |
 | Mystery Box | 413367 | [413367-mystery-box.json](./413367-mystery-box.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
