@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbirds | 337052 | [337052-jailbirds.json](./337052-jailbirds.json) |
 | Jailbreak | 81986 | [81986-jailbreak.json](./81986-jailbreak.json) |
 | Jailbreak Assault | 328190 | [328190-jailbreak-assault.json](./328190-jailbreak-assault.json) |
+| Jailbreak Craft | 104166 | [104166-jailbreak-craft.json](./104166-jailbreak-craft.json) |
 | Jailbreak Craft: Cops and Robbers | 100948 | [100948-jailbreak-craft-cops-and-robbers.json](./100948-jailbreak-craft-cops-and-robbers.json) |
 | Jailbreak Lockdown | 113328 | [113328-jailbreak-lockdown.json](./113328-jailbreak-lockdown.json) |
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
