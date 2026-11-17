@@ -3354,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vista Golf Rivals | 106982 | [106982-vista-golf-rivals.json](./106982-vista-golf-rivals.json) |
 | Vista Quest | 418079 | [418079-vista-quest.json](./418079-vista-quest.json) |
 | Vista Quest 2 | 418083 | [418083-vista-quest-2.json](./418083-vista-quest-2.json) |
+| Vista Quest Pocket | 419274 | [419274-vista-quest-pocket.json](./419274-vista-quest-pocket.json) |
 | Vista World | 244372 | [244372-vista-world.json](./244372-vista-world.json) |
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
@@ -3803,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Vikings | 33573 | [33573-void-vikings.json](./33573-void-vikings.json) |
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
 | Void War | 73668 | [73668-void-war.json](./73668-void-war.json) |
+| Void Ward | 419264 | [419264-void-ward.json](./419264-void-ward.json) |
 | Void Warden | 249953 | [249953-void-warden.json](./249953-void-warden.json) |
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
