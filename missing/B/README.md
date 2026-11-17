@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baller Blast | 197456 | [197456-baller-blast.json](./197456-baller-blast.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
+| Ballerburg: Castle Siege | 138302 | [138302-ballerburg-castle-siege.json](./138302-ballerburg-castle-siege.json) |
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
 | Ballerina Salon: Spa, Makeup & Dress Up Makeover | 87492 | [87492-ballerina-salon-spa-makeup-and-dress-up-makeover.json](./87492-ballerina-salon-spa-makeup-and-dress-up-makeover.json) |
 | Ballerina: Haitoku no Kurumi Wari Ningyou | 82586 | [82586-ballerina-haitoku-no-kurumi-wari-ningyou.json](./82586-ballerina-haitoku-no-kurumi-wari-ningyou.json) |
@@ -18093,6 +18094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
 | Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
 | BroChicken | 253806 | [253806-brochicken.json](./253806-brochicken.json) |
+| Brock Crocodile | 139508 | [139508-brock-crocodile.json](./139508-brock-crocodile.json) |
 | Brocula | 139651 | [139651-brocula.json](./139651-brocula.json) |
 | Brodefence | 101324 | [101324-brodefence.json](./101324-brodefence.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
