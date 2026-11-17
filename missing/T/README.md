@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailgate | 314007 | [314007-tailgate.json](./314007-tailgate.json) |
 | Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
 | Tailgunner | 24639 | [24639-tailgunner.json](./24639-tailgunner.json) |
+| Taillights | 420435 | [420435-taillights.json](./420435-taillights.json) |
 | Tailor Hotel | 420406 | [420406-tailor-hotel.json](./420406-tailor-hotel.json) |
 | Tailor Simulator | 374887 | [374887-tailor-simulator.json](./374887-tailor-simulator.json) |
 | Tailor Tales | 110929 | [110929-tailor-tales.json](./110929-tailor-tales.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Tales: Neil Plus | 257536 | [257536-tailor-tales-neil-plus.json](./257536-tailor-tales-neil-plus.json) |
 | TailQuest: Defense | 140798 | [140798-tailquest-defense.json](./140798-tailquest-defense.json) |
 | Tailraise | 348522 | [348522-tailraise.json](./348522-tailraise.json) |
+| Tailrouge | 420444 | [420444-tailrouge.json](./420444-tailrouge.json) |
 | Tails | 22500 | [22500-tails.json](./22500-tails.json) |
 | Tails & Talons | 350677 | [350677-tails-and-talons.json](./350677-tails-and-talons.json) |
 | Tails & Titties: Hot Spring | 192696 | [192696-tails-and-titties-hot-spring.json](./192696-tails-and-titties-hot-spring.json) |
@@ -719,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
 | Tails From Alteria | 190039 | [190039-tails-from-alteria.json](./190039-tails-from-alteria.json) |
 | Tails Gets Trolled | 299115 | [299115-tails-gets-trolled.json](./299115-tails-gets-trolled.json) |
+| Tails in Pairs | 420442 | [420442-tails-in-pairs.json](./420442-tails-in-pairs.json) |
 | Tails in Sonic the Hedgehog | 198529 | [198529-tails-in-sonic-the-hedgehog.json](./198529-tails-in-sonic-the-hedgehog.json) |
 | Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
 | Tails Noir | 97257 | [97257-tails-noir.json](./97257-tails-noir.json) |
@@ -1490,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Rays: Recollection | 242630 | [242630-tales-of-the-rays-recollection.json](./242630-tales-of-the-rays-recollection.json) |
 | Tales of the Tavern | 304568 | [304568-tales-of-the-tavern.json](./304568-tales-of-the-tavern.json) |
 | Tales of the Tiny Planet | 43123 | [43123-tales-of-the-tiny-planet.json](./43123-tales-of-the-tiny-planet.json) |
+| Tales of the Trail | 420424 | [420424-tales-of-the-trail.json](./420424-tales-of-the-trail.json) |
 | Tales of the Traveling Swordsman | 60026 | [60026-tales-of-the-traveling-swordsman.json](./60026-tales-of-the-traveling-swordsman.json) |
 | Tales of the Uncanny | 321248 | [321248-tales-of-the-uncanny.json](./321248-tales-of-the-uncanny.json) |
 | Tales of the Underworld: Legends of Primordial Sea | 186337 | [186337-tales-of-the-underworld-legends-of-primordial-sea.json](./186337-tales-of-the-underworld-legends-of-primordial-sea.json) |
@@ -6655,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Architects of the Universe: The Orphans | 294022 | [294022-the-architects-of-the-universe-the-orphans.json](./294022-the-architects-of-the-universe-the-orphans.json) |
 | The Archive | 387637 | [387637-the-archive.json](./387637-the-archive.json) |
+| The Archive Project | 420423 | [420423-the-archive-project.json](./420423-the-archive-project.json) |
 | The Archives | 244615 | [244615-the-archives.json](./244615-the-archives.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
 | The Archivist | 372814 | [372814-the-archivist.json](./372814-the-archivist.json) |
@@ -12324,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idiot's Tale | 87956 | [87956-the-idiots-tale.json](./87956-the-idiots-tale.json) |
 | The Idle | 290006 | [290006-the-idle.json](./290006-the-idle.json) |
 | The Idle Forces: Army Tycoon | 245288 | [245288-the-idle-forces-army-tycoon.json](./245288-the-idle-forces-army-tycoon.json) |
+| The Idle Shard | 420298 | [420298-the-idle-shard.json](./420298-the-idle-shard.json) |
 | The Idle Undead | 210573 | [210573-the-idle-undead.json](./210573-the-idle-undead.json) |
 | The Idolmaster | 281482 | [281482-the-idolmaster.json](./281482-the-idolmaster.json) |
 | The Idolmaster | 7013 | [7013-the-idolmaster.json](./7013-the-idolmaster.json) |
@@ -13625,6 +13631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Night of Alexisgrad | 230567 | [230567-the-last-night-of-alexisgrad.json](./230567-the-last-night-of-alexisgrad.json) |
 | The Last Ninja | 308996 | [308996-the-last-ninja.json](./308996-the-last-ninja.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
+| The Last Ninja & IK Collection | 420412 | [420412-the-last-ninja-and-ik-collection.json](./420412-the-last-ninja-and-ik-collection.json) |
 | The Last Ninja Collection + Bonus Games | 362742 | [362742-the-last-ninja-collection-bonus-games.json](./362742-the-last-ninja-collection-bonus-games.json) |
 | The Last Ninja Twins | 370282 | [370282-the-last-ninja-twins.json](./370282-the-last-ninja-twins.json) |
 | The Last Node | 408500 | [408500-the-last-node.json](./408500-the-last-node.json) |
@@ -19005,6 +19012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song Out of Space | 188157 | [188157-the-song-out-of-space.json](./188157-the-song-out-of-space.json) |
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
 | The Songs She Sings at the Other End of the Tunnel | 128666 | [128666-the-songs-she-sings-at-the-other-end-of-the-tunnel.json](./128666-the-songs-she-sings-at-the-other-end-of-the-tunnel.json) |
+| The Songtail Society | 420439 | [420439-the-songtail-society.json](./420439-the-songtail-society.json) |
 | The Sophisticated Art of Friendship | 255469 | [255469-the-sophisticated-art-of-friendship.json](./255469-the-sophisticated-art-of-friendship.json) |
 | The Sophomore: Book 1 | 313610 | [313610-the-sophomore-book-1.json](./313610-the-sophomore-book-1.json) |
 | The Sophomore: Book 2 | 313611 | [313611-the-sophomore-book-2.json](./313611-the-sophomore-book-2.json) |
@@ -28230,6 +28238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Slider | 262358 | [262358-tomb-slider.json](./262358-tomb-slider.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
 | Tomb Sweeper | 163696 | [163696-tomb-sweeper.json](./163696-tomb-sweeper.json) |
+| Tomb Tails | 420443 | [420443-tomb-tails.json](./420443-tomb-tails.json) |
 | Tomb Toad | 218604 | [218604-tomb-toad.json](./218604-tomb-toad.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
 | Tomb Typing | 157850 | [157850-tomb-typing.json](./157850-tomb-typing.json) |
@@ -31270,6 +31279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Mix | 176318 | [176318-trail-mix.json](./176318-trail-mix.json) |
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
 | Trail of Destruction | 28880 | [28880-trail-of-destruction.json](./28880-trail-of-destruction.json) |
+| Trail of Gods: The Cursed Island | 420446 | [420446-trail-of-gods-the-cursed-island.json](./420446-trail-of-gods-the-cursed-island.json) |
 | Trail of Nanook | 216696 | [216696-trail-of-nanook.json](./216696-trail-of-nanook.json) |
 | Trail of Pigs | 184951 | [184951-trail-of-pigs.json](./184951-trail-of-pigs.json) |
 | Trail of Singularity | 288575 | [288575-trail-of-singularity.json](./288575-trail-of-singularity.json) |
@@ -31306,6 +31316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailer Shop Simulator | 167354 | [167354-trailer-shop-simulator.json](./167354-trailer-shop-simulator.json) |
 | Trailer Tales | 211609 | [211609-trailer-tales.json](./211609-trailer-tales.json) |
+| Trailkeeper | 420437 | [420437-trailkeeper.json](./420437-trailkeeper.json) |
 | Trailmakers | 29667 | [29667-trailmakers.json](./29667-trailmakers.json) |
 | Trailmakers Hat Pack | 308431 | [308431-trailmakers-hat-pack.json](./308431-trailmakers-hat-pack.json) |
 | Trailmakers: Airborne Expansion | 236449 | [236449-trailmakers-airborne-expansion.json](./236449-trailmakers-airborne-expansion.json) |
