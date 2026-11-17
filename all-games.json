@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T05:36:13.321Z",
-  "total_soundtracks": 3535,
+  "generated_at": "2026-11-17T05:45:58.406Z",
+  "total_soundtracks": 3536,
   "games": [
     {
       "igdb_id": 292844,
@@ -38971,6 +38971,20 @@
         {
           "album_name": "The Knight Witch (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3LyvhlqOIKr1QXrvBjN0oV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 313587,
+      "game_name": "The Knightling",
+      "game_url": "https://ostdb.net/games/the-knightling",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730dcb9dee2a03b360ff45d4ed",
+      "albums": [
+        {
+          "album_name": "The Knightling (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3UimAZEWhNhLc5Q9APr8fc",
           "apple_music_url": "",
           "album_link_url": ""
         }
