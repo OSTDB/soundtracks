@@ -5910,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agony Online | 191799 | [191799-agony-online.json](./191799-agony-online.json) |
+| Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
 | Agora | 179925 | [179925-agora.json](./179925-agora.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
@@ -11649,6 +11650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
 | Animal Crossing: Pocket Camp Complete | 321011 | [321011-animal-crossing-pocket-camp-complete.json](./321011-animal-crossing-pocket-camp-complete.json) |
 | Animal Crossing: Wild World | 2645 | [2645-animal-crossing-wild-world.json](./2645-animal-crossing-wild-world.json) |
+| Animal Crusaders | 197837 | [197837-animal-crusaders.json](./197837-animal-crusaders.json) |
 | Animal Crush | 233429 | [233429-animal-crush.json](./233429-animal-crush.json) |
 | Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
 | Animal Daedal | 180087 | [180087-animal-daedal.json](./180087-animal-daedal.json) |
@@ -13217,6 +13219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOD: Art of Defense | 150369 | [150369-aod-art-of-defense.json](./150369-aod-art-of-defense.json) |
 | AoF Chess Club 2.0 | 34879 | [34879-aof-chess-club-2-0.json](./34879-aof-chess-club-2-0.json) |
 | AoF World Online | 36041 | [36041-aof-world-online.json](./36041-aof-world-online.json) |
+| AOFrost | 197828 | [197828-aofrost.json](./197828-aofrost.json) |
 | Aoharu Distortion: Chapter.1 | 397975 | [397975-aoharu-distortion-chapter-1.json](./397975-aoharu-distortion-chapter-1.json) |
 | Aoharu Distortion: Chapter.2 | 397976 | [397976-aoharu-distortion-chapter-2.json](./397976-aoharu-distortion-chapter-2.json) |
 | Aoharu Distortion: Chapter.3 | 397978 | [397978-aoharu-distortion-chapter-3.json](./397978-aoharu-distortion-chapter-3.json) |
@@ -15600,6 +15603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
 | Areia: Pathway to Dawn | 95151 | [95151-areia-pathway-to-dawn.json](./95151-areia-pathway-to-dawn.json) |
+| Areigna Tactics | 197820 | [197820-areigna-tactics.json](./197820-areigna-tactics.json) |
 | Arel Wars | 38727 | [38727-arel-wars.json](./38727-arel-wars.json) |
 | Arelite Core | 27031 | [27031-arelite-core.json](./27031-arelite-core.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
@@ -17018,6 +17022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artis of Sperm Drinking | 82605 | [82605-artis-of-sperm-drinking.json](./82605-artis-of-sperm-drinking.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan | 309149 | [309149-artisan.json](./309149-artisan.json) |
+| Artisan Adventure | 197810 | [197810-artisan-adventure.json](./197810-artisan-adventure.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artisan TD | 281796 | [281796-artisan-td.json](./281796-artisan-td.json) |
 | Artisan: Going Home Again | 31384 | [31384-artisan-going-home-again.json](./31384-artisan-going-home-again.json) |
