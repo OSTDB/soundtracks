@@ -2175,7 +2175,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear: Legacy | 68161 | [68161-layers-of-fear-legacy.json](./68161-layers-of-fear-legacy.json) |
 | Layers of Fear: Masterpiece Edition | 23177 | [23177-layers-of-fear-masterpiece-edition.json](./23177-layers-of-fear-masterpiece-edition.json) |
 | Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
-| Layers of Fear: The Final Masterpiece Edition | 385133 | [385133-layers-of-fear-the-final-masterpiece-edition.json](./385133-layers-of-fear-the-final-masterpiece-edition.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
 | Layesta | 214076 | [214076-layesta.json](./214076-layesta.json) |
@@ -11635,7 +11634,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyndaria: Lust Adventure | 296699 | [296699-lyndaria-lust-adventure.json](./296699-lyndaria-lust-adventure.json) |
 | Lyne | 5577 | [5577-lyne.json](./5577-lyne.json) |
 | Lynium | 158628 | [158628-lynium.json](./158628-lynium.json) |
-| Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
 | Lynn: The Girl Drawn on Puzzles | 130233 | [130233-lynn-the-girl-drawn-on-puzzles.json](./130233-lynn-the-girl-drawn-on-puzzles.json) |
 | Lynn's Legacy | 266363 | [266363-lynns-legacy.json](./266363-lynns-legacy.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
