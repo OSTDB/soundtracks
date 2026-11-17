@@ -11385,7 +11385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphos | 147027 | [147027-metamorphos.json](./147027-metamorphos.json) |
 | Metamorphoses | 60115 | [60115-metamorphoses.json](./60115-metamorphoses.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
-| Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
 | Metamorphosis | 333893 | [333893-metamorphosis.json](./333893-metamorphosis.json) |
 | Metamorphosis + What the Duck Bundle | 309291 | [309291-metamorphosis-what-the-duck-bundle.json](./309291-metamorphosis-what-the-duck-bundle.json) |
 | Metamorphosis Collection | 346801 | [346801-metamorphosis-collection.json](./346801-metamorphosis-collection.json) |
