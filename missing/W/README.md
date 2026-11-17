@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Getting There | 184317 | [184317-were-getting-there.json](./184317-were-getting-there.json) |
 | We're Going on a Bear Hunt | 102452 | [102452-were-going-on-a-bear-hunt.json](./102452-were-going-on-a-bear-hunt.json) |
+| We're Gonna Need More Fireballs | 429875 | [429875-were-gonna-need-more-fireballs.json](./429875-were-gonna-need-more-fireballs.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
 | We’re In Trouble | 405340 | [405340-we-re-in-trouble.json](./405340-we-re-in-trouble.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird War: The Unknown Episode of World War II | 129543 | [129543-weird-war-the-unknown-episode-of-world-war-ii.json](./129543-weird-war-the-unknown-episode-of-world-war-ii.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
 | Weird West: Definitive Edition | 250504 | [250504-weird-west-definitive-edition.json](./250504-weird-west-definitive-edition.json) |
+| Weird Worlds: Return to Infinite Space | 9200 | [9200-weird-worlds-return-to-infinite-space.json](./9200-weird-worlds-return-to-infinite-space.json) |
 | Weird Wormholes | 323438 | [323438-weird-wormholes.json](./323438-weird-wormholes.json) |
 | Weird-Egg and Crushing Finger | 128700 | [128700-weird-egg-and-crushing-finger.json](./128700-weird-egg-and-crushing-finger.json) |
 | Weird: Truth is Stranger than Fiction | 69217 | [69217-weird-truth-is-stranger-than-fiction.json](./69217-weird-truth-is-stranger-than-fiction.json) |
@@ -4850,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Mommy? | 34215 | [34215-wheres-my-mommy.json](./34215-wheres-my-mommy.json) |
 | Where's My Perry? | 65064 | [65064-wheres-my-perry.json](./65064-wheres-my-perry.json) |
 | Where's My Phone?! | 149863 | [149863-wheres-my-phone.json](./149863-wheres-my-phone.json) |
+| Where's My Red Ball? | 429982 | [429982-wheres-my-red-ball.json](./429982-wheres-my-red-ball.json) |
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
 | Where's My Valentine? | 400612 | [400612-wheres-my-valentine.json](./400612-wheres-my-valentine.json) |
 | Where's My Water? | 13460 | [13460-wheres-my-water.json](./13460-wheres-my-water.json) |
@@ -5771,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Boar Survival | 334373 | [334373-wild-boar-survival.json](./334373-wild-boar-survival.json) |
 | Wild Boater | 254983 | [254983-wild-boater.json](./254983-wild-boater.json) |
 | Wild Bullets | 119292 | [119292-wild-bullets.json](./119292-wild-bullets.json) |
+| Wild Buster | 55583 | [55583-wild-buster.json](./55583-wild-buster.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
 | Wild Card Football: Deluxe Edition | 260012 | [260012-wild-card-football-deluxe-edition.json](./260012-wild-card-football-deluxe-edition.json) |
@@ -7076,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
 | Wishmaker | 305478 | [305478-wishmaker.json](./305478-wishmaker.json) |
 | Wishmaster | 33734 | [33734-wishmaster.json](./33734-wishmaster.json) |
+| Wishmere | 34044 | [34044-wishmere.json](./34044-wishmere.json) |
 | WishPot | 390574 | [390574-wishpot.json](./390574-wishpot.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
 | Wishy Washy | 133163 | [133163-wishy-washy.json](./133163-wishy-washy.json) |
@@ -7083,6 +7088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wison | 277664 | [277664-wison.json](./277664-wison.json) |
 | Wisp Catacombs | 244690 | [244690-wisp-catacombs.json](./244690-wisp-catacombs.json) |
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
+| Wisp: Elemental Conflict | 429989 | [429989-wisp-elemental-conflict.json](./429989-wisp-elemental-conflict.json) |
 | Wisper | 119223 | [119223-wisper.json](./119223-wisper.json) |
 | Wisper | 171155 | [171155-wisper.json](./171155-wisper.json) |
 | Wispera | 216825 | [216825-wispera.json](./216825-wispera.json) |
@@ -7269,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
 | Witches, Heroes and Magic | 35015 | [35015-witches-heroes-and-magic.json](./35015-witches-heroes-and-magic.json) |
 | Witches, Wishes and Whispers | 282193 | [282193-witches-wishes-and-whispers.json](./282193-witches-wishes-and-whispers.json) |
+| Witches' Grove | 429842 | [429842-witches-grove.json](./429842-witches-grove.json) |
 | Witches' Hallow | 270549 | [270549-witches-hallow.json](./270549-witches-hallow.json) |
 | Witches' Hand | 359134 | [359134-witches-hand.json](./359134-witches-hand.json) |
 | Witches' Legacy: Awakening Darkness | 187997 | [187997-witches-legacy-awakening-darkness.json](./187997-witches-legacy-awakening-darkness.json) |
@@ -9465,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Quest: Hidden Cities | 337856 | [337856-world-quest-hidden-cities.json](./337856-world-quest-hidden-cities.json) |
 | World Quiz | 153018 | [153018-world-quiz.json](./153018-world-quiz.json) |
 | World Racing | 205843 | [205843-world-racing.json](./205843-world-racing.json) |
+| World Racing | 9787 | [9787-world-racing.json](./9787-world-racing.json) |
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
 | World Racing 2 | 20559 | [20559-world-racing-2.json](./20559-world-racing-2.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
@@ -9651,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Tank Commander | 205825 | [205825-world-war-ii-tank-commander.json](./205825-world-war-ii-tank-commander.json) |
 | World War II: TCG | 115174 | [115174-world-war-ii-tcg.json](./115174-world-war-ii-tcg.json) |
 | World War II: Underground | 212037 | [212037-world-war-ii-underground.json](./212037-world-war-ii-underground.json) |
+| World War III: Black Gold | 9363 | [9363-world-war-iii-black-gold.json](./9363-world-war-iii-black-gold.json) |
 | World War Legion | 365590 | [365590-world-war-legion.json](./365590-world-war-legion.json) |
 | World War Next | 288093 | [288093-world-war-next.json](./288093-world-war-next.json) |
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
@@ -9863,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Girlfriend Dating Simulator | 329896 | [329896-worm-girlfriend-dating-simulator.json](./329896-worm-girlfriend-dating-simulator.json) |
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
 | Worm in Horror Place | 392856 | [392856-worm-in-horror-place.json](./392856-worm-in-horror-place.json) |
+| Worm Jazz | 139368 | [139368-worm-jazz.json](./139368-worm-jazz.json) |
 | Worm Nom Nom | 182978 | [182978-worm-nom-nom.json](./182978-worm-nom-nom.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Worm Run | 196173 | [196173-worm-run.json](./196173-worm-run.json) |
@@ -10341,6 +10351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WrongKynd | 232223 | [232223-wrongkynd.json](./232223-wrongkynd.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
+| Wrongworld | 55579 | [55579-wrongworld.json](./55579-wrongworld.json) |
 | Wroom Classic | 421437 | [421437-wroom-classic.json](./421437-wroom-classic.json) |
 | Wroom Wroom Bundle! | 96357 | [96357-wroom-wroom-bundle.json](./96357-wroom-wroom-bundle.json) |
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
