@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T05:06:01.689Z",
-  "total_soundtracks": 3524,
+  "generated_at": "2026-11-17T05:16:14.924Z",
+  "total_soundtracks": 3529,
   "games": [
     {
       "igdb_id": 292844,
@@ -7131,6 +7131,20 @@
         {
           "album_name": "Cloak & Dagger (Original Score)",
           "spotify_url": "https://open.spotify.com/album/60Pfn5d1CmZuu6mi3k8pn3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 322126,
+      "game_name": "Clone Drone in the Hyperdome",
+      "game_url": "https://ostdb.net/games/clone-drone-in-the-hyperdome",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273720371beafd7547b47a50e4e",
+      "albums": [
+        {
+          "album_name": "Clone Drone in the Hyperdome (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/50Kt0XXvGrlo3N30YooapM",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19879,6 +19893,20 @@
       ]
     },
     {
+      "igdb_id": 323461,
+      "game_name": "Katanaut",
+      "game_url": "https://ostdb.net/games/katanaut",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e4d0bfb435c734ccb7bfa4e6",
+      "albums": [
+        {
+          "album_name": "Katanaut (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7gm6WUmeHADQZJzctLJihT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 322691,
       "game_name": "Kathy Rain 2: Soothsayer",
       "game_url": "https://ostdb.net/games/kathy-rain-2-soothsayer",
@@ -24409,6 +24437,20 @@
       ]
     },
     {
+      "igdb_id": 324570,
+      "game_name": "Moonlighter 2: The Endless Vault",
+      "game_url": "https://ostdb.net/games/moonlighter-2-the-endless-vault",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273636949f12e5a234305e6e3d9",
+      "albums": [
+        {
+          "album_name": "Moonlighter 2: The Endless Vault (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4D6u4pcj3K9ZORw6UHR8IM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119236,
       "game_name": "Moonlighter: Between Dimensions",
       "game_url": "https://ostdb.net/games/moonlighter-between-dimensions",
@@ -25411,6 +25453,20 @@
         {
           "album_name": "Neon Blood (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5cx4bjS28J8tyyEIBHMPqI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 322701,
+      "game_name": "Neon Inferno",
+      "game_url": "https://ostdb.net/games/neon-inferno",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734cc65995ed8d65906e5b88ad",
+      "albums": [
+        {
+          "album_name": "Neon Inferno Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4P5StA3aZh9DlOjNp3WNFi",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -41535,6 +41591,20 @@
         {
           "album_name": "Trine 4: The Nightmare Prince (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/75nJjVaDH6p2I2FqKvE9TD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 319717,
+      "game_name": "Tron: Catalyst",
+      "game_url": "https://ostdb.net/games/tron-catalyst",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735775da6d8f1d5dfaf6725890",
+      "albums": [
+        {
+          "album_name": "TRON: Catalyst (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2yellB7RaEpgFVCfSIa9Bo",
           "apple_music_url": "",
           "album_link_url": ""
         }
