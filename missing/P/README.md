@@ -3820,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawns into the Dark | 420362 | [420362-pawns-into-the-dark.json](./420362-pawns-into-the-dark.json) |
 | Pawns of War | 341589 | [341589-pawns-of-war.json](./341589-pawns-of-war.json) |
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
+| Pawnshop 90s | 429496 | [429496-pawnshop-90s.json](./429496-pawnshop-90s.json) |
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
 | PawnShop Simulator | 325525 | [325525-pawnshop-simulator.json](./325525-pawnshop-simulator.json) |
 | Pawnshop Together | 424845 | [424845-pawnshop-together.json](./424845-pawnshop-together.json) |
@@ -5590,6 +5591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Soccer | 65105 | [65105-pet-soccer.json](./65105-pet-soccer.json) |
 | Pet Squad Racing | 72397 | [72397-pet-squad-racing.json](./72397-pet-squad-racing.json) |
 | Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
+| Pet Store: Tidy Up Sorting Simulator | 429480 | [429480-pet-store-tidy-up-sorting-simulator.json](./429480-pet-store-tidy-up-sorting-simulator.json) |
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
 | Pet That Dog | 428399 | [428399-pet-that-dog.json](./428399-pet-that-dog.json) |
 | Pet That VTuber! | 403799 | [403799-pet-that-vtuber.json](./403799-pet-that-vtuber.json) |
@@ -12826,6 +12828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Moon Black 2 | 221577 | [221577-pokemon-moon-black-2.json](./221577-pokemon-moon-black-2.json) |
 | Pokémon Moon: Fan Edition | 135978 | [135978-pokemon-moon-fan-edition.json](./135978-pokemon-moon-fan-edition.json) |
+| Pokémon Mundo Misterioso: El Vínculo del Destino | 429466 | [429466-pokemon-mundo-misterioso-el-vinculo-del-destino.json](./429466-pokemon-mundo-misterioso-el-vinculo-del-destino.json) |
 | Pokémon Mundo Misterioso: Relatos de una Phione | 241777 | [241777-pokemon-mundo-misterioso-relatos-de-una-phione.json](./241777-pokemon-mundo-misterioso-relatos-de-una-phione.json) |
 | Pokémon My Ass | 282740 | [282740-pokemon-my-ass.json](./282740-pokemon-my-ass.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
@@ -17698,6 +17701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Anderson & The Legacy of Cthulhu | 25437 | [25437-project-anderson-and-the-legacy-of-cthulhu.json](./25437-project-anderson-and-the-legacy-of-cthulhu.json) |
 | Project Android | 426386 | [426386-project-android.json](./426386-project-android.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
+| Project Angels 2 | 429475 | [429475-project-angels-2.json](./429475-project-angels-2.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
 | Project Ants | 398506 | [398506-project-ants.json](./398506-project-ants.json) |
@@ -20779,6 +20783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Fuzz | 101815 | [101815-puzzle-fuzz.json](./101815-puzzle-fuzz.json) |
 | Puzzle Fuzz: Idle Stories | 102009 | [102009-puzzle-fuzz-idle-stories.json](./102009-puzzle-fuzz-idle-stories.json) |
 | Puzzle Fuzzle | 312651 | [312651-puzzle-fuzzle.json](./312651-puzzle-fuzzle.json) |
+| Puzzle Fuzzy | 429511 | [429511-puzzle-fuzzy.json](./429511-puzzle-fuzzy.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Galaxy | 211315 | [211315-puzzle-galaxy.json](./211315-puzzle-galaxy.json) |
 | Puzzle Galaxy: Animal Album | 212363 | [212363-puzzle-galaxy-animal-album.json](./212363-puzzle-galaxy-animal-album.json) |
