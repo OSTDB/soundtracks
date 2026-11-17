@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
 | Fairway Fever | 209231 | [209231-fairway-fever.json](./209231-fairway-fever.json) |
 | Fairway Solitaire | 94903 | [94903-fairway-solitaire.json](./94903-fairway-solitaire.json) |
+| Fairway Solitaire Blast | 61801 | [61801-fairway-solitaire-blast.json](./61801-fairway-solitaire-blast.json) |
 | Fairway to Hell | 310032 | [310032-fairway-to-hell.json](./310032-fairway-to-hell.json) |
 | Fairway to Hell | 396975 | [396975-fairway-to-hell.json](./396975-fairway-to-hell.json) |
 | Fairy | 94681 | [94681-fairy.json](./94681-fairy.json) |
@@ -3214,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarRock Dodgeball | 159567 | [159567-farrock-dodgeball.json](./159567-farrock-dodgeball.json) |
 | Farscape: The Game | 80029 | [80029-farscape-the-game.json](./80029-farscape-the-game.json) |
 | Farseer's Domain | 144898 | [144898-farseers-domain.json](./144898-farseers-domain.json) |
+| Farsh | 61791 | [61791-farsh.json](./61791-farsh.json) |
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
 | Farsight | 403852 | [403852-farsight.json](./403852-farsight.json) |
 | FarSky | 17164 | [17164-farsky.json](./17164-farsky.json) |
