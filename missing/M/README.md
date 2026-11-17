@@ -15532,7 +15532,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MisBloody | 280620 | [280620-misbloody.json](./280620-misbloody.json) |
 | Misc Timelines | 126824 | [126824-misc-timelines.json](./126824-misc-timelines.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
-| Misc. A Tiny Tale | 138025 | [138025-misc-a-tiny-tale.json](./138025-misc-a-tiny-tale.json) |
 | Mischance | 148937 | [148937-mischance.json](./148937-mischance.json) |
 | Mischief | 294112 | [294112-mischief.json](./294112-mischief.json) |
 | Mischief Castle | 308162 | [308162-mischief-castle.json](./308162-mischief-castle.json) |
