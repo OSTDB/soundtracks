@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories | 146823 | [146823-a-tale-of-synapse-the-chaos-theories.json](./146823-a-tale-of-synapse-the-chaos-theories.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
+| A Tale of Titans | 429834 | [429834-a-tale-of-titans.json](./429834-a-tale-of-titans.json) |
 | A Tale of Two Flowers | 380229 | [380229-a-tale-of-two-flowers.json](./380229-a-tale-of-two-flowers.json) |
 | A Tale of Two Kingdoms | 29264 | [29264-a-tale-of-two-kingdoms.json](./29264-a-tale-of-two-kingdoms.json) |
 | A Tale of Two Lovers | 271116 | [271116-a-tale-of-two-lovers.json](./271116-a-tale-of-two-lovers.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
 | A Valley Without Wind | 1625 | [1625-a-valley-without-wind.json](./1625-a-valley-without-wind.json) |
+| A Valley Without Wind 2 | 9718 | [9718-a-valley-without-wind-2.json](./9718-a-valley-without-wind-2.json) |
 | A Vampire Romance: Paris Stories | 267511 | [267511-a-vampire-romance-paris-stories.json](./267511-a-vampire-romance-paris-stories.json) |
 | A Vampire Tale | 50283 | [50283-a-vampire-tale.json](./50283-a-vampire-tale.json) |
 | A Vampyre Story | 3116 | [3116-a-vampyre-story.json](./3116-a-vampyre-story.json) |
@@ -5145,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner Climax | 20085 | [20085-after-burner-climax.json](./20085-after-burner-climax.json) |
 | After Burner II | 365119 | [365119-after-burner-ii.json](./365119-after-burner-ii.json) |
 | After Burner II | 365123 | [365123-after-burner-ii.json](./365123-after-burner-ii.json) |
+| After Burner II | 5352 | [5352-after-burner-ii.json](./5352-after-burner-ii.json) |
 | After Burner III | 365185 | [365185-after-burner-iii.json](./365185-after-burner-iii.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
 | After Burner: Black Falcon | 23085 | [23085-after-burner-black-falcon.json](./23085-after-burner-black-falcon.json) |
@@ -9078,6 +9081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alonitaire | 387150 | [387150-alonitaire.json](./387150-alonitaire.json) |
 | Aloof | 139610 | [139610-aloof.json](./139610-aloof.json) |
 | Alox Poker | 219766 | [219766-alox-poker.json](./219766-alox-poker.json) |
+| Alpaca Ball: Allstars | 139133 | [139133-alpaca-ball-allstars.json](./139133-alpaca-ball-allstars.json) |
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Evolution | 218527 | [218527-alpaca-evolution.json](./218527-alpaca-evolution.json) |
 | Alpaca Farm! | 219943 | [219943-alpaca-farm.json](./219943-alpaca-farm.json) |
@@ -10706,6 +10710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy Online: Shadowlands | 598 | [598-anarchy-online-shadowlands.json](./598-anarchy-online-shadowlands.json) |
 | Anarchy Park | 262655 | [262655-anarchy-park.json](./262655-anarchy-park.json) |
 | Anarchy Racer | 384135 | [384135-anarchy-racer.json](./384135-anarchy-racer.json) |
+| Anarchy Reigns | 5485 | [5485-anarchy-reigns.json](./5485-anarchy-reigns.json) |
 | Anarchy Reigns: Bayonetta Pack | 246899 | [246899-anarchy-reigns-bayonetta-pack.json](./246899-anarchy-reigns-bayonetta-pack.json) |
 | Anarchy Reigns: Limited Edition | 44663 | [44663-anarchy-reigns-limited-edition.json](./44663-anarchy-reigns-limited-edition.json) |
 | Anarchy Road | 345659 | [345659-anarchy-road.json](./345659-anarchy-road.json) |
@@ -12575,6 +12580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Zone | 126299 | [126299-anomaly-zone.json](./126299-anomaly-zone.json) |
 | Anomaly: Girls Beyond Science | 231417 | [231417-anomaly-girls-beyond-science.json](./231417-anomaly-girls-beyond-science.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
+| Anomaly: Warzone Earth - Mobile Campaign | 8759 | [8759-anomaly-warzone-earth-mobile-campaign.json](./8759-anomaly-warzone-earth-mobile-campaign.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
 | Anomiac. | 229553 | [229553-anomiac.json](./229553-anomiac.json) |
 | Anomie | 55548 | [55548-anomie.json](./55548-anomie.json) |
@@ -12988,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antichrist | 393525 | [393525-antichrist.json](./393525-antichrist.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
+| Anticipation | 8946 | [8946-anticipation.json](./8946-anticipation.json) |
 | Anticitizen: Red | 267738 | [267738-anticitizen-red.json](./267738-anticitizen-red.json) |
 | AnticLove | 299423 | [299423-anticlove.json](./299423-anticlove.json) |
 | Anticorps VR | 120479 | [120479-anticorps-vr.json](./120479-anticorps-vr.json) |
@@ -18169,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Slap Them All! - Collector's Edition | 159208 | [159208-asterix-and-obelix-slap-them-all-collectors-edition.json](./159208-asterix-and-obelix-slap-them-all-collectors-edition.json) |
 | Asterix & Obelix: Slap Them All! - Limited Edition | 165094 | [165094-asterix-and-obelix-slap-them-all-limited-edition.json](./165094-asterix-and-obelix-slap-them-all-limited-edition.json) |
 | Asterix & Obelix: Slap Them All! 1+2 | 305494 | [305494-asterix-and-obelix-slap-them-all-1-2.json](./305494-asterix-and-obelix-slap-them-all-1-2.json) |
+| Asterix & Obelix: Slap Them All! 2 | 254845 | [254845-asterix-and-obelix-slap-them-all-2.json](./254845-asterix-and-obelix-slap-them-all-2.json) |
 | Asterix & Obelix: Slap Them All! 2 - Gold Edition | 283588 | [283588-asterix-and-obelix-slap-them-all-2-gold-edition.json](./283588-asterix-and-obelix-slap-them-all-2-gold-edition.json) |
 | Asterix and Caesar's Challenge | 223048 | [223048-asterix-and-caesars-challenge.json](./223048-asterix-and-caesars-challenge.json) |
 | Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
@@ -19832,6 +19840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
 | Attempt[42] | 30331 | [30331-attempt-42.json](./30331-attempt-42.json) |
 | Attenborough's Antarctic: An Exploration of Life in the Freezer | 262253 | [262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json](./262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json) |
+| Attention Addicted Neet | 430169 | [430169-attention-addicted-neet.json](./430169-attention-addicted-neet.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
 | Attention Heroes! | 151912 | [151912-attention-heroes.json](./151912-attention-heroes.json) |
 | Attention, Dear Passengers | 421563 | [421563-attention-dear-passengers.json](./421563-attention-dear-passengers.json) |
@@ -20741,6 +20750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 4: Greed and Glory | 357534 | [357534-avernum-4-greed-and-glory.json](./357534-avernum-4-greed-and-glory.json) |
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
 | Avernum 6 | 16339 | [16339-avernum-6.json](./16339-avernum-6.json) |
+| Avernum: Escape from the Pit | 8752 | [8752-avernum-escape-from-the-pit.json](./8752-avernum-escape-from-the-pit.json) |
 | Avernum: The Complete Saga | 51709 | [51709-avernum-the-complete-saga.json](./51709-avernum-the-complete-saga.json) |
 | Avernus | 109377 | [109377-avernus.json](./109377-avernus.json) |
 | Averon Rising | 126874 | [126874-averon-rising.json](./126874-averon-rising.json) |
@@ -20798,6 +20808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avici | 208672 | [208672-avici.json](./208672-avici.json) |
 | AVICI | 348242 | [348242-avici.json](./348242-avici.json) |
 | Avicii Invector | 75245 | [75245-avicii-invector.json](./75245-avicii-invector.json) |
+| Avicii Invector: Encore Edition | 139907 | [139907-avicii-invector-encore-edition.json](./139907-avicii-invector-encore-edition.json) |
 | Avicii Invector: Magma Track Pack | 224445 | [224445-avicii-invector-magma-track-pack.json](./224445-avicii-invector-magma-track-pack.json) |
 | Avicii Invector: Tim Track Pack | 224446 | [224446-avicii-invector-tim-track-pack.json](./224446-avicii-invector-tim-track-pack.json) |
 | Avicii Vector | 91028 | [91028-avicii-vector.json](./91028-avicii-vector.json) |
