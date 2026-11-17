@@ -5448,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nijica | 344420 | [344420-nijica.json](./344420-nijica.json) |
 | Nijiiro Twinkle | 389243 | [389243-nijiiro-twinkle.json](./389243-nijiiro-twinkle.json) |
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
+| Nijisanji no Type Shindan | 198856 | [198856-nijisanji-no-type-shindan.json](./198856-nijisanji-no-type-shindan.json) |
 | Nijowari: Where Angels Fall | 126262 | [126262-nijowari-where-angels-fall.json](./126262-nijowari-where-angels-fall.json) |
 | Nijuu Yuumu | 167127 | [167127-nijuu-yuumu.json](./167127-nijuu-yuumu.json) |
 | Nijuubako | 246718 | [246718-nijuubako.json](./246718-nijuubako.json) |
