@@ -9484,6 +9484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Board HD | 100513 | [100513-flower-board-hd.json](./100513-flower-board-hd.json) |
 | Flower Boy Athletic High | 203287 | [203287-flower-boy-athletic-high.json](./203287-flower-boy-athletic-high.json) |
 | Flower Cells | 216447 | [216447-flower-cells.json](./216447-flower-cells.json) |
+| Flower Challenge | 159898 | [159898-flower-challenge.json](./159898-flower-challenge.json) |
 | Flower Daze | 366428 | [366428-flower-daze.json](./366428-flower-daze.json) |
 | Flower Defence | 56761 | [56761-flower-defence.json](./56761-flower-defence.json) |
 | Flower Design | 83864 | [83864-flower-design.json](./83864-flower-design.json) |
@@ -9739,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
 | Fly and Destroy | 22386 | [22386-fly-and-destroy.json](./22386-fly-and-destroy.json) |
 | Fly Away | 29682 | [29682-fly-away.json](./29682-fly-away.json) |
+| Fly Away Baseball | 159907 | [159907-fly-away-baseball.json](./159907-fly-away-baseball.json) |
 | Fly By Knight | 201429 | [201429-fly-by-knight.json](./201429-fly-by-knight.json) |
 | Fly Caster VR | 265347 | [265347-fly-caster-vr.json](./265347-fly-caster-vr.json) |
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
