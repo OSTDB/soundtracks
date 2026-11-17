@@ -5090,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty and the Apron of Magic: Rhythm Cooking | 84525 | [84525-hello-kitty-and-the-apron-of-magic-rhythm-cooking.json](./84525-hello-kitty-and-the-apron-of-magic-rhythm-cooking.json) |
 | Hello Kitty AR Kawaii World | 121933 | [121933-hello-kitty-ar-kawaii-world.json](./121933-hello-kitty-ar-kawaii-world.json) |
 | Hello Kitty Asobi no Omochabako | 226076 | [226076-hello-kitty-asobi-no-omochabako.json](./226076-hello-kitty-asobi-no-omochabako.json) |
+| Hello Kitty Birthday Adventures | 25192 | [25192-hello-kitty-birthday-adventures.json](./25192-hello-kitty-birthday-adventures.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Cafe | 264407 | [264407-hello-kitty-cafe.json](./264407-hello-kitty-cafe.json) |
 | Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
@@ -5145,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Party | 24342 | [24342-hello-kitty-party.json](./24342-hello-kitty-party.json) |
 | Hello Kitty Pocket Camera | 207263 | [207263-hello-kitty-pocket-camera.json](./207263-hello-kitty-pocket-camera.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
+| Hello Kitty Seasons | 25191 | [25191-hello-kitty-seasons.json](./25191-hello-kitty-seasons.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
 | Hello Kitty Tamagotchi | 230066 | [230066-hello-kitty-tamagotchi.json](./230066-hello-kitty-tamagotchi.json) |
 | Hello Kitty to Dear Daniel no Dream Adventure | 57558 | [57558-hello-kitty-to-dear-daniel-no-dream-adventure.json](./57558-hello-kitty-to-dear-daniel-no-dream-adventure.json) |
@@ -9244,6 +9246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HimeYoku: A Sacrifice of Lust and Grace | 215685 | [215685-himeyoku-a-sacrifice-of-lust-and-grace.json](./215685-himeyoku-a-sacrifice-of-lust-and-grace.json) |
 | Himi Nikki | 202359 | [202359-himi-nikki.json](./202359-himi-nikki.json) |
 | Himig | 136989 | [136989-himig.json](./136989-himig.json) |
+| Himiko | 29256 | [29256-himiko.json](./29256-himiko.json) |
 | Himiko-Den Renge | 58779 | [58779-himiko-den-renge.json](./58779-himiko-den-renge.json) |
 | Himiko: I Must Kill Chikushoumaru | 82790 | [82790-himiko-i-must-kill-chikushoumaru.json](./82790-himiko-i-must-kill-chikushoumaru.json) |
 | Himiko's Journey | 270535 | [270535-himikos-journey.json](./270535-himikos-journey.json) |
