@@ -6122,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara Battle Party | 118483 | [118483-sengoku-basara-battle-party.json](./118483-sengoku-basara-battle-party.json) |
 | Sengoku Basara Chronicle Heroes | 65896 | [65896-sengoku-basara-chronicle-heroes.json](./65896-sengoku-basara-chronicle-heroes.json) |
 | Sengoku Basara HD Collection | 43054 | [43054-sengoku-basara-hd-collection.json](./43054-sengoku-basara-hd-collection.json) |
+| Sengoku Basara Sanada Yukimura Den | 78161 | [78161-sengoku-basara-sanada-yukimura-den.json](./78161-sengoku-basara-sanada-yukimura-den.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
 | Sengoku Basara: Battle Heroes | 72563 | [72563-sengoku-basara-battle-heroes.json](./72563-sengoku-basara-battle-heroes.json) |
 | Sengoku Basara: Samurai Heroes | 7455 | [7455-sengoku-basara-samurai-heroes.json](./7455-sengoku-basara-samurai-heroes.json) |
@@ -12490,6 +12491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 119: The Survival Game 2 | 176719 | [176719-simple-2000-series-vol-119-the-survival-game-2.json](./176719-simple-2000-series-vol-119-the-survival-game-2.json) |
 | Simple 2000 Series Vol. 12: The Quiz 20000 Mon | 77013 | [77013-simple-2000-series-vol-12-the-quiz-20000-mon.json](./77013-simple-2000-series-vol-12-the-quiz-20000-mon.json) |
 | Simple 2000 Series Vol. 120: Saigo no Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen | 203340 | [203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json](./203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json) |
+| Simple 2000 Series Vol. 121: The Boku no Machi-Zukuri 2 - Machi-ing Maker 2.1 | 78101 | [78101-simple-2000-series-vol-121-the-boku-no-machi-zukuri-2-machi-ing-maker-2-1.json](./78101-simple-2000-series-vol-121-the-boku-no-machi-zukuri-2-machi-ing-maker-2-1.json) |
 | Simple 2000 Series Vol. 13: The Renai Adventure 2 - Garasu no Mori | 70556 | [70556-simple-2000-series-vol-13-the-renai-adventure-2-garasu-no-mori.json](./70556-simple-2000-series-vol-13-the-renai-adventure-2-garasu-no-mori.json) |
 | Simple 2000 Series Vol. 14: The Billiard | 335904 | [335904-simple-2000-series-vol-14-the-billiard.json](./335904-simple-2000-series-vol-14-the-billiard.json) |
 | Simple 2000 Series Vol. 15: The Rugby | 70555 | [70555-simple-2000-series-vol-15-the-rugby.json](./70555-simple-2000-series-vol-15-the-rugby.json) |
@@ -13521,6 +13523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Die | 12267 | [12267-skate-or-die.json](./12267-skate-or-die.json) |
 | Skate or Die | 218917 | [218917-skate-or-die.json](./218917-skate-or-die.json) |
 | Skate or Die | 40929 | [40929-skate-or-die.json](./40929-skate-or-die.json) |
+| Skate or Die | 78104 | [78104-skate-or-die.json](./78104-skate-or-die.json) |
 | Skate or Die 2: The Search for Double Trouble | 48181 | [48181-skate-or-die-2-the-search-for-double-trouble.json](./48181-skate-or-die-2-the-search-for-double-trouble.json) |
 | Skate or Die: Tour de Thrash | 49020 | [49020-skate-or-die-tour-de-thrash.json](./49020-skate-or-die-tour-de-thrash.json) |
 | Skate or Don't! | 185755 | [185755-skate-or-dont.json](./185755-skate-or-dont.json) |
@@ -16200,6 +16203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Moves | 132947 | [132947-smart-moves.json](./132947-smart-moves.json) |
 | Smart Moves 2 | 149913 | [149913-smart-moves-2.json](./149913-smart-moves-2.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
+| Smart Mummy | 76786 | [76786-smart-mummy.json](./76786-smart-mummy.json) |
 | Smart Porter | 247070 | [247070-smart-porter.json](./247070-smart-porter.json) |
 | Smart Preschool Baby Shapes and Colors by Learning Games for Toddlers | 108597 | [108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json](./108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json) |
 | Smart Preschool Learning Games for Toddlers by Monkey Puzzle Game | 108596 | [108596-smart-preschool-learning-games-for-toddlers-by-monkey-puzzle-game.json](./108596-smart-preschool-learning-games-for-toddlers-by-monkey-puzzle-game.json) |
