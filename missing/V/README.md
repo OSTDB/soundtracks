@@ -706,7 +706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Slayer: New Blood | 192618 | [192618-vampire-slayer-new-blood.json](./192618-vampire-slayer-new-blood.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Story | 241780 | [241780-vampire-story.json](./241780-vampire-story.json) |
-| Vampire Survivors VR | 377650 | [377650-vampire-survivors-vr.json](./377650-vampire-survivors-vr.json) |
 | Vampire Survivors: 1.14 | 375523 | [375523-vampire-survivors-1-14.json](./375523-vampire-survivors-1-14.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
 | Vampire Survivors: Adventures | 279372 | [279372-vampire-survivors-adventures.json](./279372-vampire-survivors-adventures.json) |
@@ -717,8 +716,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: Laborratory Update | 299594 | [299594-vampire-survivors-laborratory-update.json](./299594-vampire-survivors-laborratory-update.json) |
 | Vampire Survivors: Legacy of the Bloodmoon | 404912 | [404912-vampire-survivors-legacy-of-the-bloodmoon.json](./404912-vampire-survivors-legacy-of-the-bloodmoon.json) |
 | Vampire Survivors: Legacy of the Moonspell | 228721 | [228721-vampire-survivors-legacy-of-the-moonspell.json](./228721-vampire-survivors-legacy-of-the-moonspell.json) |
-| Vampire Survivors: Ode to Castlevania | 320770 | [320770-vampire-survivors-ode-to-castlevania.json](./320770-vampire-survivors-ode-to-castlevania.json) |
-| Vampire Survivors: Operation Guns | 296834 | [296834-vampire-survivors-operation-guns.json](./296834-vampire-survivors-operation-guns.json) |
 | Vampire Survivors: Space 54 | 316618 | [316618-vampire-survivors-space-54.json](./316618-vampire-survivors-space-54.json) |
 | Vampire Survivors: The Coop | 339631 | [339631-vampire-survivors-the-coop.json](./339631-vampire-survivors-the-coop.json) |
 | Vampire Survivors: The Darkasso | 316619 | [316619-vampire-survivors-the-darkasso.json](./316619-vampire-survivors-the-darkasso.json) |
@@ -993,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave Vision Quest: Kmart Sepulcher | 144064 | [144064-vaporwave-vision-quest-kmart-sepulcher.json](./144064-vaporwave-vision-quest-kmart-sepulcher.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
+| VAR: Exterminate | 147529 | [147529-var-exterminate.json](./147529-var-exterminate.json) |
 | Var'Alith | 181480 | [181480-varalith.json](./181480-varalith.json) |
 | varBlocks | 91229 | [91229-varblocks.json](./91229-varblocks.json) |
 | Vardia | 275694 | [275694-vardia.json](./275694-vardia.json) |
@@ -3195,7 +3193,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuar Z | 270869 | [270869-virtuar-z.json](./270869-virtuar-z.json) |
 | VirtuaVerse | 36850 | [36850-virtuaverse.json](./36850-virtuaverse.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
-| Virtue and a Sledgehammer | 381077 | [381077-virtue-and-a-sledgehammer.json](./381077-virtue-and-a-sledgehammer.json) |
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtuelle Moorhuhn Jagd | 282432 | [282432-virtuelle-moorhuhn-jagd.json](./282432-virtuelle-moorhuhn-jagd.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
@@ -3763,7 +3760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Runner | 134982 | [134982-void-runner.json](./134982-void-runner.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
 | Void Rush | 378602 | [378602-void-rush.json](./378602-void-rush.json) |
-| Void Sails | 325647 | [325647-void-sails.json](./325647-void-sails.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
 | Void Sanction | 389361 | [389361-void-sanction.json](./389361-void-sanction.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
@@ -3840,7 +3836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidless | 244914 | [244914-voidless.json](./244914-voidless.json) |
 | Voidlifted | 123487 | [123487-voidlifted.json](./123487-voidlifted.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
-| Voidling Bound | 341400 | [341400-voidling-bound.json](./341400-voidling-bound.json) |
 | Voidloop | 388179 | [388179-voidloop.json](./388179-voidloop.json) |
 | Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
 | Voidnomicon | 384031 | [384031-voidnomicon.json](./384031-voidnomicon.json) |
