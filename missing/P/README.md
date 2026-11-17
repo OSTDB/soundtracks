@@ -6166,7 +6166,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Smog | 391083 | [391083-phantom-smog.json](./391083-phantom-smog.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Soldier | 29110 | [29110-phantom-soldier.json](./29110-phantom-soldier.json) |
-| Phantom Spark | 262672 | [262672-phantom-spark.json](./262672-phantom-spark.json) |
 | Phantom Spider | 119434 | [119434-phantom-spider.json](./119434-phantom-spider.json) |
 | Phantom Squad | 291391 | [291391-phantom-squad.json](./291391-phantom-squad.json) |
 | Phantom Stars | 297184 | [297184-phantom-stars.json](./297184-phantom-stars.json) |
@@ -16295,6 +16294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primasia: Chapter One | 213498 | [213498-primasia-chapter-one.json](./213498-primasia-chapter-one.json) |
 | Primate Signal | 143851 | [143851-primate-signal.json](./143851-primate-signal.json) |
 | Primate: Father of Universe | 215329 | [215329-primate-father-of-universe.json](./215329-primate-father-of-universe.json) |
+| Primateria | 139505 | [139505-primateria.json](./139505-primateria.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 214977 | [214977-prime.json](./214977-prime.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
@@ -18868,6 +18868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
 | Protium | 68351 | [68351-protium.json](./68351-protium.json) |
 | Protivostojanie: Opaljonnyj Sneg | 73393 | [73393-protivostojanie-opaljonnyj-sneg.json](./73393-protivostojanie-opaljonnyj-sneg.json) |
+| Protivostoyanie: Voennaya Hronika | 138315 | [138315-protivostoyanie-voennaya-hronika.json](./138315-protivostoyanie-voennaya-hronika.json) |
 | Proto Akane | 197088 | [197088-proto-akane.json](./197088-proto-akane.json) |
 | Proto Bat-Bot: Battle for Gotham City | 299323 | [299323-proto-bat-bot-battle-for-gotham-city.json](./299323-proto-bat-bot-battle-for-gotham-city.json) |
 | Proto Cuckoo 64 | 150982 | [150982-proto-cuckoo-64.json](./150982-proto-cuckoo-64.json) |
