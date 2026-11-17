@@ -85,9 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh | 35585 | [35585-ubermosh.json](./35585-ubermosh.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
 | Ubermosh Vol.5 | 38808 | [38808-ubermosh-vol-5.json](./38808-ubermosh-vol-5.json) |
-| Ubermosh Vol.7 | 115377 | [115377-ubermosh-vol-7.json](./115377-ubermosh-vol-7.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
-| Ubermosh: Santicide | 105620 | [105620-ubermosh-santicide.json](./105620-ubermosh-santicide.json) |
 | Ubermosh: Wraith | 29601 | [29601-ubermosh-wraith.json](./29601-ubermosh-wraith.json) |
 | Uberslaughter | 266308 | [266308-uberslaughter.json](./266308-uberslaughter.json) |
 | Ubersoldier | 296269 | [296269-ubersoldier.json](./296269-ubersoldier.json) |
@@ -213,7 +211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ueki no Housoku: Taosu ze Robert Juudan!! | 228934 | [228934-ueki-no-housoku-taosu-ze-robert-juudan.json](./228934-ueki-no-housoku-taosu-ze-robert-juudan.json) |
 | UemeU | 63133 | [63133-uemeu.json](./63133-uemeu.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
-| uFactory | 115232 | [115232-ufactory.json](./115232-ufactory.json) |
 | UFB 2: Fight & Wrestling Games | 251343 | [251343-ufb-2-fight-and-wrestling-games.json](./251343-ufb-2-fight-and-wrestling-games.json) |
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
 | UFC 4: Fighter Bundle | 227087 | [227087-ufc-4-fighter-bundle.json](./227087-ufc-4-fighter-bundle.json) |
@@ -289,7 +286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: Henfield | 277974 | [277974-ufo-henfield.json](./277974-ufo-henfield.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
 | UFO: Trilogy | 203044 | [203044-ufo-trilogy.json](./203044-ufo-trilogy.json) |
-| UFO: Unidentified Falling Objects | 244473 | [244473-ufo-unidentified-falling-objects.json](./244473-ufo-unidentified-falling-objects.json) |
 | UFO! | 18712 | [18712-ufo.json](./18712-ufo.json) |
 | UFO/Sea Monsters/Break It Down/Rebuild/Shoot | 137926 | [137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json](./137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json) |
 | UFO2 Extraterrestrials: Shadows over Earth | 65459 | [65459-ufo2-extraterrestrials-shadows-over-earth.json](./65459-ufo2-extraterrestrials-shadows-over-earth.json) |
@@ -484,7 +480,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
 | Ultimate Action Triple Pack | 56722 | [56722-ultimate-action-triple-pack.json](./56722-ultimate-action-triple-pack.json) |
-| Ultimate Admiral: Age of Sail | 118323 | [118323-ultimate-admiral-age-of-sail.json](./118323-ultimate-admiral-age-of-sail.json) |
 | Ultimate Admiral: Dreadnoughts | 125374 | [125374-ultimate-admiral-dreadnoughts.json](./125374-ultimate-admiral-dreadnoughts.json) |
 | Ultimate ADOM: Caverns of Chaos | 110243 | [110243-ultimate-adom-caverns-of-chaos.json](./110243-ultimate-adom-caverns-of-chaos.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
@@ -1190,7 +1185,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
 | Ultraviolet Dawn | 239974 | [239974-ultraviolet-dawn.json](./239974-ultraviolet-dawn.json) |
 | Ultrawings | 27323 | [27323-ultrawings.json](./27323-ultrawings.json) |
-| Ultrawings 2 | 173019 | [173019-ultrawings-2.json](./173019-ultrawings-2.json) |
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
 | Ultrawings VR | 75248 | [75248-ultrawings-vr.json](./75248-ultrawings-vr.json) |
 | Ultraworld Exodus | 36184 | [36184-ultraworld-exodus.json](./36184-ultraworld-exodus.json) |
@@ -1211,7 +1205,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umai | 128681 | [128681-umai.json](./128681-umai.json) |
-| Umami Grove | 152645 | [152645-umami-grove.json](./152645-umami-grove.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | Umami Island | 377201 | [377201-umami-island.json](./377201-umami-island.json) |
 | Umamusume Delish Derby | 360111 | [360111-umamusume-delish-derby.json](./360111-umamusume-delish-derby.json) |
@@ -1967,7 +1960,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underdog Arena | 133515 | [133515-underdog-arena.json](./133515-underdog-arena.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdog Futsal | 390205 | [390205-underdog-futsal.json](./390205-underdog-futsal.json) |
-| Underdogs | 251563 | [251563-underdogs.json](./251563-underdogs.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
 | Underdose | 253822 | [253822-underdose.json](./253822-underdose.json) |
 | UnderDread | 24361 | [24361-underdread.json](./24361-underdread.json) |
@@ -2009,7 +2001,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Ernie: International Fun Station | 328423 | [328423-underground-ernie-international-fun-station.json](./328423-underground-ernie-international-fun-station.json) |
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
-| Underground Garage | 156087 | [156087-underground-garage.json](./156087-underground-garage.json) |
 | Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
 | Underground Hangovers | 146470 | [146470-underground-hangovers.json](./146470-underground-hangovers.json) |
 | Underground Keeper II | 171732 | [171732-underground-keeper-ii.json](./171732-underground-keeper-ii.json) |
@@ -2597,7 +2588,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United We Chess | 181635 | [181635-united-we-chess.json](./181635-united-we-chess.json) |
 | United2030 | 405779 | [405779-united2030.json](./405779-united2030.json) |
 | UniteStar | 104375 | [104375-unitestar.json](./104375-unitestar.json) |
-| Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unitrax | 36681 | [36681-unitrax.json](./36681-unitrax.json) |
 | Unitres Dreams | 177154 | [177154-unitres-dreams.json](./177154-unitres-dreams.json) |
@@ -2839,7 +2829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
 | Unlock the Cat | 172276 | [172276-unlock-the-cat.json](./172276-unlock-the-cat.json) |
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
-| Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
 | Unlock the King 3 | 132700 | [132700-unlock-the-king-3.json](./132700-unlock-the-king-3.json) |
 | Unlocked | 148813 | [148813-unlocked.json](./148813-unlocked.json) |
@@ -2992,7 +2981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unpleasant Horse | 66005 | [66005-unpleasant-horse.json](./66005-unpleasant-horse.json) |
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
 | Unplug: The Game | 224958 | [224958-unplug-the-game.json](./224958-unplug-the-game.json) |
-| Unplugged | 153854 | [153854-unplugged.json](./153854-unplugged.json) |
 | Unplugged | 171716 | [171716-unplugged.json](./171716-unplugged.json) |
 | Unplugged | 322446 | [322446-unplugged.json](./322446-unplugged.json) |
 | Unpogable | 210338 | [210338-unpogable.json](./210338-unpogable.json) |
@@ -3694,7 +3682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Fight | 154900 | [154900-urban-fight.json](./154900-urban-fight.json) |
 | Urban Fight: DLC | 168033 | [168033-urban-fight-dlc.json](./168033-urban-fight-dlc.json) |
 | Urban Fighters: Battle Stars | 241804 | [241804-urban-fighters-battle-stars.json](./241804-urban-fighters-battle-stars.json) |
-| Urban Flow | 137659 | [137659-urban-flow.json](./137659-urban-flow.json) |
 | Urban Flow Chaos Control | 385173 | [385173-urban-flow-chaos-control.json](./385173-urban-flow-chaos-control.json) |
 | Urban Flow Content Bundle | 386805 | [386805-urban-flow-content-bundle.json](./386805-urban-flow-content-bundle.json) |
 | Urban Flow Roads To Perfection | 378967 | [378967-urban-flow-roads-to-perfection.json](./378967-urban-flow-roads-to-perfection.json) |
@@ -3793,7 +3780,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Trial Playground: Challenges Pack | 238311 | [238311-urban-trial-playground-challenges-pack.json](./238311-urban-trial-playground-challenges-pack.json) |
 | Urban Trial Playground: Deluxe Edition | 121510 | [121510-urban-trial-playground-deluxe-edition.json](./121510-urban-trial-playground-deluxe-edition.json) |
 | Urban Trial Pocket | 213642 | [213642-urban-trial-pocket.json](./213642-urban-trial-pocket.json) |
-| Urban Trial Tricky | 134783 | [134783-urban-trial-tricky.json](./134783-urban-trial-tricky.json) |
 | Urban Trial Tricky: Deluxe Edition | 152345 | [152345-urban-trial-tricky-deluxe-edition.json](./152345-urban-trial-tricky-deluxe-edition.json) |
 | Urban Undergrounds | 366131 | [366131-urban-undergrounds.json](./366131-urban-undergrounds.json) |
 | Urban Upstart | 297708 | [297708-urban-upstart.json](./297708-urban-upstart.json) |
