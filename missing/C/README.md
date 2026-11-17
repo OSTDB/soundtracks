@@ -8218,7 +8218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Outbreak | 96850 | [96850-chicken-outbreak.json](./96850-chicken-outbreak.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
-| Chicken Police: Into the Hive! | 258037 | [258037-chicken-police-into-the-hive.json](./258037-chicken-police-into-the-hive.json) |
 | Chicken Pox: Scrambled Eggs! | 200074 | [200074-chicken-pox-scrambled-eggs.json](./200074-chicken-pox-scrambled-eggs.json) |
 | Chicken Ranch | 150813 | [150813-chicken-ranch.json](./150813-chicken-ranch.json) |
 | Chicken Range | 84572 | [84572-chicken-range.json](./84572-chicken-range.json) |
@@ -12107,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat 4: Battle of the Bulge | 24125 | [24125-close-combat-4-battle-of-the-bulge.json](./24125-close-combat-4-battle-of-the-bulge.json) |
 | Close Combat 5: Invasion: Normandy - Utah Beach to Cherbourg | 124960 | [124960-close-combat-5-invasion-normandy-utah-beach-to-cherbourg.json](./124960-close-combat-5-invasion-normandy-utah-beach-to-cherbourg.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
+| Close Combat Trilogy | 138307 | [138307-close-combat-trilogy.json](./138307-close-combat-trilogy.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
 | Close Combat: Cross of Iron | 63189 | [63189-close-combat-cross-of-iron.json](./63189-close-combat-cross-of-iron.json) |
 | Close Combat: First to Fight | 5779 | [5779-close-combat-first-to-fight.json](./5779-close-combat-first-to-fight.json) |
@@ -14393,6 +14393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
 | Combat 3D | 206992 | [206992-combat-3d.json](./206992-combat-3d.json) |
 | Combat 3D | 295959 | [295959-combat-3d.json](./295959-combat-3d.json) |
+| Combat 6+1 Pack | 138312 | [138312-combat-6-1-pack.json](./138312-combat-6-1-pack.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
 | Combat Aces | 46155 | [46155-combat-aces.json](./46155-combat-aces.json) |
 | Combat Actions: Vietnam | 108328 | [108328-combat-actions-vietnam.json](./108328-combat-actions-vietnam.json) |
@@ -23564,6 +23565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
 | Cybernetic Hi-School | 73628 | [73628-cybernetic-hi-school.json](./73628-cybernetic-hi-school.json) |
 | Cybernetic Hi-School Part 2: Highway Buster | 70080 | [70080-cybernetic-hi-school-part-2-highway-buster.json](./70080-cybernetic-hi-school-part-2-highway-buster.json) |
+| Cybernetic Hi-School Part 3: Gunbuster | 138300 | [138300-cybernetic-hi-school-part-3-gunbuster.json](./138300-cybernetic-hi-school-part-3-gunbuster.json) |
 | Cybernetic Moon Horse 2071 | 200771 | [200771-cybernetic-moon-horse-2071.json](./200771-cybernetic-moon-horse-2071.json) |
 | Cybernetic Seduction: Season 1 | 384890 | [384890-cybernetic-seduction-season-1.json](./384890-cybernetic-seduction-season-1.json) |
 | Cybernetica | 131694 | [131694-cybernetica.json](./131694-cybernetica.json) |
