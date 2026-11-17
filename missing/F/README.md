@@ -4195,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fedya Mod | 394099 | [394099-fedya-mod.json](./394099-fedya-mod.json) |
 | Fee Payment & Cigarettes | 406282 | [406282-fee-payment-and-cigarettes.json](./406282-fee-payment-and-cigarettes.json) |
 | FeeBay Simulator | 404510 | [404510-feebay-simulator.json](./404510-feebay-simulator.json) |
+| Feeble | 188705 | [188705-feeble.json](./188705-feeble.json) |
 | Feeble Force | 105545 | [105545-feeble-force.json](./105545-feeble-force.json) |
 | Feeble Light | 253636 | [253636-feeble-light.json](./253636-feeble-light.json) |
 | Feeble Origins: Path of a Hero | 115056 | [115056-feeble-origins-path-of-a-hero.json](./115056-feeble-origins-path-of-a-hero.json) |
@@ -15433,6 +15434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Road Chase Simulator | 122029 | [122029-funny-road-chase-simulator.json](./122029-funny-road-chase-simulator.json) |
 | Funny Soccer | 263411 | [263411-funny-soccer.json](./263411-funny-soccer.json) |
 | Funny Soccor | 131025 | [131025-funny-soccor.json](./131025-funny-soccor.json) |
+| Funny Street Football | 188703 | [188703-funny-street-football.json](./188703-funny-street-football.json) |
 | Funny Sunny | 246200 | [246200-funny-sunny.json](./246200-funny-sunny.json) |
 | Funny Truck | 159019 | [159019-funny-truck.json](./159019-funny-truck.json) |
 | Funny UFOs Scene Creator | 396688 | [396688-funny-ufos-scene-creator.json](./396688-funny-ufos-scene-creator.json) |
