@@ -2918,7 +2918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parry Counter | 414476 | [414476-parry-counter.json](./414476-parry-counter.json) |
 | Parry de Bougai! Dual Runner | 355190 | [355190-parry-de-bougai-dual-runner.json](./355190-parry-de-bougai-dual-runner.json) |
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
-| Parry Nightmare | 214214 | [214214-parry-nightmare.json](./214214-parry-nightmare.json) |
 | Parrydox: Battle of the Alamo | 389930 | [389930-parrydox-battle-of-the-alamo.json](./389930-parrydox-battle-of-the-alamo.json) |
 | Parrygon | 424656 | [424656-parrygon.json](./424656-parrygon.json) |
 | ParryMaster | 374810 | [374810-parrymaster.json](./374810-parrymaster.json) |
@@ -3280,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
 | Pasture: The Livestock Simulator | 264740 | [264740-pasture-the-livestock-simulator.json](./264740-pasture-the-livestock-simulator.json) |
 | Pastures New | 309312 | [309312-pastures-new.json](./309312-pastures-new.json) |
+| Pasvan | 131671 | [131671-pasvan.json](./131671-pasvan.json) |
 | Pat & Mat | 16210 | [16210-pat-and-mat.json](./16210-pat-and-mat.json) |
 | Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
@@ -4259,7 +4259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | peakvox Escape Virus HD | 31406 | [31406-peakvox-escape-virus-hd.json](./31406-peakvox-escape-virus-hd.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peaky Blinders: Mastermind | 132634 | [132634-peaky-blinders-mastermind.json](./132634-peaky-blinders-mastermind.json) |
-| Peaky Blinders: The King's Ransom | 211902 | [211902-peaky-blinders-the-kings-ransom.json](./211902-peaky-blinders-the-kings-ransom.json) |
 | Peaky Blinders: The King's Ransom - Complete Edition | 275197 | [275197-peaky-blinders-the-kings-ransom-complete-edition.json](./275197-peaky-blinders-the-kings-ransom-complete-edition.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
 | Peanut | 117921 | [117921-peanut.json](./117921-peanut.json) |
@@ -19035,6 +19034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proximity Shift | 283795 | [283795-proximity-shift.json](./283795-proximity-shift.json) |
 | ProximityMines: Minesweeper Modernized | 95531 | [95531-proximitymines-minesweeper-modernized.json](./95531-proximitymines-minesweeper-modernized.json) |
 | ProxOS | 263184 | [263184-proxos.json](./263184-proxos.json) |
+| Proxy | 133476 | [133476-proxy.json](./133476-proxy.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
 | Proxy Adventure: Small Test | 308676 | [308676-proxy-adventure-small-test.json](./308676-proxy-adventure-small-test.json) |
 | Proxy Air Force | 133108 | [133108-proxy-air-force.json](./133108-proxy-air-force.json) |
@@ -19634,6 +19634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
 | Pulse Codex EP | 260061 | [260061-pulse-codex-ep.json](./260061-pulse-codex-ep.json) |
 | Pulse Drive | 415322 | [415322-pulse-drive.json](./415322-pulse-drive.json) |
+| Pulse Forge VR | 131661 | [131661-pulse-forge-vr.json](./131661-pulse-forge-vr.json) |
 | Pulse Grid | 379787 | [379787-pulse-grid.json](./379787-pulse-grid.json) |
 | Pulse Jumper | 149442 | [149442-pulse-jumper.json](./149442-pulse-jumper.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
