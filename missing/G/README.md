@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganja Farmer | 25801 | [25801-ganja-farmer.json](./25801-ganja-farmer.json) |
 | Ganja Quest RPG | 368359 | [368359-ganja-quest-rpg.json](./368359-ganja-quest-rpg.json) |
 | Ganku Ganku | 251089 | [251089-ganku-ganku.json](./251089-ganku-ganku.json) |
+| Ganryu | 39891 | [39891-ganryu.json](./39891-ganryu.json) |
 | Gansel and Hretel | 99157 | [99157-gansel-and-hretel.json](./99157-gansel-and-hretel.json) |
 | Ganso Family Mahjong | 377545 | [377545-ganso-family-mahjong.json](./377545-ganso-family-mahjong.json) |
 | Ganso Hanjuku Hero | 292029 | [292029-ganso-hanjuku-hero.json](./292029-ganso-hanjuku-hero.json) |
@@ -7292,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Lender Manager | 191375 | [191375-gold-lender-manager.json](./191375-gold-lender-manager.json) |
 | Gold Lining | 320059 | [320059-gold-lining.json](./320059-gold-lining.json) |
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
+| Gold Medalist | 39920 | [39920-gold-medalist.json](./39920-gold-medalist.json) |
 | Gold Mermaid | 421773 | [421773-gold-mermaid.json](./421773-gold-mermaid.json) |
 | Gold Mine | 92929 | [92929-gold-mine.json](./92929-gold-mine.json) |
 | Gold Mine Dash | 311450 | [311450-gold-mine-dash.json](./311450-gold-mine-dash.json) |
@@ -8606,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
 | GP Race | 277642 | [277642-gp-race.json](./277642-gp-race.json) |
+| GP Rider | 39904 | [39904-gp-rider.json](./39904-gp-rider.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | Gpi | 171871 | [171871-gpi.json](./171871-gpi.json) |
@@ -9030,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
 | Grand Prix Simulator 2 | 69725 | [69725-grand-prix-simulator-2.json](./69725-grand-prix-simulator-2.json) |
+| Grand Prix Star | 39925 | [39925-grand-prix-star.json](./39925-grand-prix-star.json) |
 | Grand Prix Story | 65908 | [65908-grand-prix-story.json](./65908-grand-prix-story.json) |
 | Grand Prix Story 2 | 77736 | [77736-grand-prix-story-2.json](./77736-grand-prix-story-2.json) |
 | Grand Prix Tennis | 83378 | [83378-grand-prix-tennis.json](./83378-grand-prix-tennis.json) |
@@ -9392,8 +9396,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grassland Defender Keita | 211074 | [211074-grassland-defender-keita.json](./211074-grassland-defender-keita.json) |
 | Grassland Planet | 354919 | [354919-grassland-planet.json](./354919-grassland-planet.json) |
 | Grassland Survivors | 279796 | [279796-grassland-survivors.json](./279796-grassland-survivors.json) |
+| Grasspin | 39905 | [39905-grasspin.json](./39905-grasspin.json) |
 | Grater | 115629 | [115629-grater.json](./115629-grater.json) |
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
+| Gratia - Second Earth | 39918 | [39918-gratia-second-earth.json](./39918-gratia-second-earth.json) |
 | Gratis | 320624 | [320624-gratis.json](./320624-gratis.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
 | Gratuitous Space Battles | 6256 | [6256-gratuitous-space-battles.json](./6256-gratuitous-space-battles.json) |
