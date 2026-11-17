@@ -11387,6 +11387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunistice 1.5: Accel Coda | 280015 | [280015-lunistice-1-5-accel-coda.json](./280015-lunistice-1-5-accel-coda.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
+| Lunokhod | 419272 | [419272-lunokhod.json](./419272-lunokhod.json) |
 | Lunorbit | 342850 | [342850-lunorbit.json](./342850-lunorbit.json) |
 | Lunorbit Deluxe | 342852 | [342852-lunorbit-deluxe.json](./342852-lunorbit-deluxe.json) |
 | Lunr.Rdio.Taxi | 259454 | [259454-lunr-rdio-taxi.json](./259454-lunr-rdio-taxi.json) |
@@ -11657,6 +11658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lydia Was Here | 385000 | [385000-lydia-was-here.json](./385000-lydia-was-here.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
+| Lyfe of the Blade | 419288 | [419288-lyfe-of-the-blade.json](./419288-lyfe-of-the-blade.json) |
 | Lying Souls | 168508 | [168508-lying-souls.json](./168508-lying-souls.json) |
 | Lykia: The Lost Island | 261625 | [261625-lykia-the-lost-island.json](./261625-lykia-the-lost-island.json) |
 | Lyle in Cube Sector | 137520 | [137520-lyle-in-cube-sector.json](./137520-lyle-in-cube-sector.json) |
