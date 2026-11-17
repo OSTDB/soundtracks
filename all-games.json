@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T00:35:57.281Z",
-  "total_soundtracks": 3504,
+  "generated_at": "2026-11-17T01:00:57.822Z",
+  "total_soundtracks": 3505,
   "games": [
     {
       "igdb_id": 292844,
@@ -35739,6 +35739,20 @@
         {
           "album_name": "Stumble Guys (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2RNAgxRJyqx7QhidGchf1i",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 381212,
+      "game_name": "Stupid Never Dies",
+      "game_url": "https://ostdb.net/games/stupid-never-dies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27368a2e12c7e1ee4cec13fc5be",
+      "albums": [
+        {
+          "album_name": "Stupid Never Dies (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4RzQx5ydrc3eFbqEQvXrLN",
           "apple_music_url": "",
           "album_link_url": ""
         }
