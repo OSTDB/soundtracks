@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic Room | 326871 | [326871-panic-room.json](./326871-panic-room.json) |
+| Panic Room 2: Hide and Seek | 104882 | [104882-panic-room-2-hide-and-seek.json](./104882-panic-room-2-hide-and-seek.json) |
 | Panic Sell | 363132 | [363132-panic-sell.json](./363132-panic-sell.json) |
 | Panic Sell 2 | 422424 | [422424-panic-sell-2.json](./422424-panic-sell-2.json) |
 | Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
@@ -16565,6 +16566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 4 | 72591 | [72591-princess-maker-4.json](./72591-princess-maker-4.json) |
 | Princess Maker 4 DS Special Edition | 122501 | [122501-princess-maker-4-ds-special-edition.json](./122501-princess-maker-4-ds-special-edition.json) |
 | Princess Maker 4 Portable | 205640 | [205640-princess-maker-4-portable.json](./205640-princess-maker-4-portable.json) |
+| Princess Maker 5 Portable | 104734 | [104734-princess-maker-5-portable.json](./104734-princess-maker-5-portable.json) |
 | Princess Maker Collection | 78302 | [78302-princess-maker-collection.json](./78302-princess-maker-collection.json) |
 | Princess Maker for Kakao | 280048 | [280048-princess-maker-for-kakao.json](./280048-princess-maker-for-kakao.json) |
 | Princess Maker Pocket Dai-sakusen | 64809 | [64809-princess-maker-pocket-dai-sakusen.json](./64809-princess-maker-pocket-dai-sakusen.json) |
