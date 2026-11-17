@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day in London: Chapter IV | 167883 | [167883-one-day-in-london-chapter-iv.json](./167883-one-day-in-london-chapter-iv.json) |
 | One Day in London: Chapter V | 167885 | [167885-one-day-in-london-chapter-v.json](./167885-one-day-in-london-chapter-v.json) |
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
+| One Day of an Insurance Agent | 159920 | [159920-one-day-of-an-insurance-agent.json](./159920-one-day-of-an-insurance-agent.json) |
 | One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
 | One Day, the World | 414429 | [414429-one-day-the-world.json](./414429-one-day-the-world.json) |
 | One Death at a Time | 410688 | [410688-one-death-at-a-time.json](./410688-one-death-at-a-time.json) |
@@ -5981,6 +5982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlawyer | 348147 | [348147-outlawyer.json](./348147-outlawyer.json) |
 | OutlawZ: Headhunter | 292362 | [292362-outlawz-headhunter.json](./292362-outlawz-headhunter.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
+| Outlier | 159943 | [159943-outlier.json](./159943-outlier.json) |
 | Outliers: Incrementum | 425175 | [425175-outliers-incrementum.json](./425175-outliers-incrementum.json) |
 | Outline | 134343 | [134343-outline.json](./134343-outline.json) |
 | Outline | 90264 | [90264-outline.json](./90264-outline.json) |
