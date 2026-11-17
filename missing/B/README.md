@@ -5672,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 4 | 357869 | [357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json](./357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json) |
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 5 | 357870 | [357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json](./357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json) |
 | Bear Warrior | 306813 | [306813-bear-warrior.json](./306813-bear-warrior.json) |
+| Bear Winter | 60170 | [60170-bear-winter.json](./60170-bear-winter.json) |
 | Bear With Me | 22397 | [22397-bear-with-me.json](./22397-bear-with-me.json) |
 | Bear With Me: Collector's Edition | 84023 | [84023-bear-with-me-collectors-edition.json](./84023-bear-with-me-collectors-edition.json) |
 | Bear With Me: Episode 1 | 127135 | [127135-bear-with-me-episode-1.json](./127135-bear-with-me-episode-1.json) |
@@ -7000,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
 | Being a DIK: Season 3 | 338648 | [338648-being-a-dik-season-3.json](./338648-being-a-dik-season-3.json) |
 | Being a Penguin | 197026 | [197026-being-a-penguin.json](./197026-being-a-penguin.json) |
+| Being Andrew Plotkin | 60172 | [60172-being-andrew-plotkin.json](./60172-being-andrew-plotkin.json) |
 | Being Ball | 190412 | [190412-being-ball.json](./190412-being-ball.json) |
 | Being Beauteous | 57213 | [57213-being-beauteous.json](./57213-being-beauteous.json) |
 | Being Centered | 169588 | [169588-being-centered.json](./169588-being-centered.json) |
@@ -13215,6 +13217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Breaker Burst: Bishou o Anata to | 43816 | [43816-blue-breaker-burst-bishou-o-anata-to.json](./43816-blue-breaker-burst-bishou-o-anata-to.json) |
 | Blue Breaker Burst: Egao no Asu ni | 43817 | [43817-blue-breaker-burst-egao-no-asu-ni.json](./43817-blue-breaker-burst-egao-no-asu-ni.json) |
 | Blue Breaker: Ken Yorimo Hohoemi wo | 45411 | [45411-blue-breaker-ken-yorimo-hohoemi-wo.json](./45411-blue-breaker-ken-yorimo-hohoemi-wo.json) |
+| Blue Chairs | 60124 | [60124-blue-chairs.json](./60124-blue-chairs.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Crow | 385822 | [385822-blue-crow.json](./385822-blue-crow.json) |
