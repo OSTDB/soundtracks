@@ -4548,7 +4548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helga: Euphorium's Song | 159978 | [159978-helga-euphoriums-song.json](./159978-helga-euphoriums-song.json) |
 | Helga's Cheese Festival | 293349 | [293349-helgas-cheese-festival.json](./293349-helgas-cheese-festival.json) |
 | Helheim | 112866 | [112866-helheim.json](./112866-helheim.json) |
-| Helheim Hassle | 129208 | [129208-helheim-hassle.json](./129208-helheim-hassle.json) |
 | Helherron | 146986 | [146986-helherron.json](./146986-helherron.json) |
 | Helhigan | 360714 | [360714-helhigan.json](./360714-helhigan.json) |
 | Heli 100 | 119417 | [119417-heli-100.json](./119417-heli-100.json) |
