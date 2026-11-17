@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
 | Tahul | 160067 | [160067-tahul.json](./160067-tahul.json) |
+| Tahúr: A Blackjack Adventure | 423498 | [423498-tahur-a-blackjack-adventure.json](./423498-tahur-a-blackjack-adventure.json) |
 | Tai | 187878 | [187878-tai.json](./187878-tai.json) |
 | Tai Chi Game | 392748 | [392748-tai-chi-game.json](./392748-tai-chi-game.json) |
 | Tai Chi Tortoise | 41144 | [41144-tai-chi-tortoise.json](./41144-tai-chi-tortoise.json) |
@@ -13648,6 +13649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Part I: Digital Deluxe Edition | 243296 | [243296-the-last-of-us-part-i-digital-deluxe-edition.json](./243296-the-last-of-us-part-i-digital-deluxe-edition.json) |
 | The Last of Us Part I: Firefly Edition | 215089 | [215089-the-last-of-us-part-i-firefly-edition.json](./215089-the-last-of-us-part-i-firefly-edition.json) |
 | The Last of Us Part II Remastered: Chronological Experience | 382539 | [382539-the-last-of-us-part-ii-remastered-chronological-experience.json](./382539-the-last-of-us-part-ii-remastered-chronological-experience.json) |
+| The Last of Us Part II Remastered: Mr. Guiga's First Person Perspective | 423534 | [423534-the-last-of-us-part-ii-remastered-mr-guigas-first-person-perspective.json](./423534-the-last-of-us-part-ii-remastered-mr-guigas-first-person-perspective.json) |
 | The Last of Us Part II Remastered: Patch 2.0.0 | 382537 | [382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json](./382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json) |
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
 | The Last of Us Part II: Collector's Edition | 135955 | [135955-the-last-of-us-part-ii-collectors-edition.json](./135955-the-last-of-us-part-ii-collectors-edition.json) |
@@ -28219,6 +28221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomba! 3 | 256579 | [256579-tomba-3.json](./256579-tomba-3.json) |
 | Tomba! Special Edition | 256467 | [256467-tomba-special-edition.json](./256467-tomba-special-edition.json) |
 | Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
+| TombaRecomp | 423508 | [423508-tombarecomp.json](./423508-tombarecomp.json) |
 | Tombbound | 382594 | [382594-tombbound.json](./382594-tombbound.json) |
 | Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
@@ -29510,6 +29513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Battle Tank Tag Combat | 36774 | [36774-touch-battle-tank-tag-combat.json](./36774-touch-battle-tank-tag-combat.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch de Rakushou! Pachi-Slot Sengen: Rio de Carnival | 62349 | [62349-touch-de-rakushou-pachi-slot-sengen-rio-de-carnival.json](./62349-touch-de-rakushou-pachi-slot-sengen-rio-de-carnival.json) |
+| Touch de Tanoshimu Hyakunin Isshu: DS Shigureden | 423537 | [423537-touch-de-tanoshimu-hyakunin-isshu-ds-shigureden.json](./423537-touch-de-tanoshimu-hyakunin-isshu-ds-shigureden.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
 | Touch Detective | 20578 | [20578-touch-detective.json](./20578-touch-detective.json) |
 | Touch Detective 2 1/2 | 21237 | [21237-touch-detective-2-1-2.json](./21237-touch-detective-2-1-2.json) |
