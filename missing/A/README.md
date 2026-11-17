@@ -4670,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeolwyn's Legacy | 200707 | [200707-aeolwyns-legacy.json](./200707-aeolwyns-legacy.json) |
 | Aeon | 36635 | [36635-aeon.json](./36635-aeon.json) |
 | Aeon Alpha | 141071 | [141071-aeon-alpha.json](./141071-aeon-alpha.json) |
+| Aeon Avenger | 69447 | [69447-aeon-avenger.json](./69447-aeon-avenger.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Command | 8374 | [8374-aeon-command.json](./8374-aeon-command.json) |
 | Aeon Directive: The Interview | 378687 | [378687-aeon-directive-the-interview.json](./378687-aeon-directive-the-interview.json) |
@@ -20964,6 +20965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesomenauts Assemble!: Fully Loaded Pack | 90661 | [90661-awesomenauts-assemble-fully-loaded-pack.json](./90661-awesomenauts-assemble-fully-loaded-pack.json) |
 | Awesomenauts Overdrive | 109468 | [109468-awesomenauts-overdrive.json](./109468-awesomenauts-overdrive.json) |
 | Awesomenauts Starstorm | 109469 | [109469-awesomenauts-starstorm.json](./109469-awesomenauts-starstorm.json) |
+| Awesum Plus | 69452 | [69452-awesum-plus.json](./69452-awesum-plus.json) |
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Fantasy III | 339242 | [339242-awful-fantasy-iii.json](./339242-awful-fantasy-iii.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
