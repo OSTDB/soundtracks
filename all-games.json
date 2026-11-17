@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T08:16:41.097Z",
-  "total_soundtracks": 3643,
+  "generated_at": "2026-11-17T08:36:41.727Z",
+  "total_soundtracks": 3655,
   "games": [
     {
       "igdb_id": 292844,
@@ -6431,6 +6431,20 @@
       ]
     },
     {
+      "igdb_id": 157712,
+      "game_name": "Captain ToonHead vs. The Punks from Outer Space",
+      "game_url": "https://ostdb.net/games/captain-toonhead-vs-the-punks-from-outer-space",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273020c54ad1f52ec8074a4c1f3",
+      "albums": [
+        {
+          "album_name": "Captain ToonHead Vs The Punks From Outer Space (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0oxR99uen2XkyzLpcvtkhd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 145029,
       "game_name": "Caravan SandWitch",
       "game_url": "https://ostdb.net/games/caravan-sandwitch",
@@ -10969,6 +10983,20 @@
       ]
     },
     {
+      "igdb_id": 188771,
+      "game_name": "Donut Dodo",
+      "game_url": "https://ostdb.net/games/donut-dodo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734b8bfc6aed62d4e730dc8836",
+      "albums": [
+        {
+          "album_name": "Donut Dodo (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7bWMmF7S7J68implummWkz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 76217,
       "game_name": "Doom",
       "game_url": "https://ostdb.net/games/doom",
@@ -12875,6 +12903,20 @@
         {
           "album_name": "Evil Tonight (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2eZ3nraS5CyBtjJfq1xujX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 165389,
+      "game_name": "Evil Wizard",
+      "game_url": "https://ostdb.net/games/evil-wizard",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735c7bf1cb50e620fe1c1bba60",
+      "albums": [
+        {
+          "album_name": "Evil Wizard (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2hXf4a3vPong9MuqeNq3aa",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -20337,6 +20379,20 @@
       ]
     },
     {
+      "igdb_id": 165356,
+      "game_name": "Jumanji: The Curse Returns",
+      "game_url": "https://ostdb.net/games/jumanji-the-curse-returns",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f70c13070b940fc683ba8148",
+      "albums": [
+        {
+          "album_name": "Jumanji: The Curse Returns (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7H7TpmrL4luDjbYeXbnVNh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 86929,
       "game_name": "June's Journey",
       "game_url": "https://ostdb.net/games/junes-journey",
@@ -20899,6 +20955,20 @@
         {
           "album_name": "Kingdom Two Crowns (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4IZBzxRvq3dpatppks4YLO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 175663,
+      "game_name": "Kingdom Two Crowns: Norse Lands",
+      "game_url": "https://ostdb.net/games/kingdom-two-crowns-norse-lands",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273762b340a709435f6efadcfd3",
+      "albums": [
+        {
+          "album_name": "Kingdom Two Crowns: Norse Lands Soundtrack (Extended)",
+          "spotify_url": "https://open.spotify.com/album/2IEBtMYrYwqGfLXYPTSAHn",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23394,6 +23464,20 @@
           "album_name": "Marvel's Wolverine (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2Oa4r4tUaWQMxbFwiUFAcR",
           "apple_music_url": "https://music.apple.com/us/album/marvels-wolverine-original-video-game-soundtrack/6805679904",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 178073,
+      "game_name": "Mask of the Rose",
+      "game_url": "https://ostdb.net/games/mask-of-the-rose",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27362673b9b65429b21ba926101",
+      "albums": [
+        {
+          "album_name": "Mask of The Rose - Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2YrHMVTwjJQDtFnUVLeX3e",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -27069,6 +27153,20 @@
         {
           "album_name": "NUTS (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/751xxVyu3rT1y0RJiB6dWP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 165396,
+      "game_name": "Oaken",
+      "game_url": "https://ostdb.net/games/oaken",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ef446e7721421fedb338e7ef",
+      "albums": [
+        {
+          "album_name": "Oaken (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2bc98MGeRnLYPH8dQb0h1W",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -35939,6 +36037,20 @@
       ]
     },
     {
+      "igdb_id": 157672,
+      "game_name": "Squingle",
+      "game_url": "https://ostdb.net/games/squingle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27379a4f73a9197fc706ebd0cee",
+      "albums": [
+        {
+          "album_name": "Squingle (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6uPYQY0BYDXBWphFn1ty6C",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 213473,
       "game_name": "Squirrel with a Gun",
       "game_url": "https://ostdb.net/games/squirrel-with-a-gun",
@@ -37489,6 +37601,20 @@
         {
           "album_name": "Super Dodge Ball Soundtrack: Dodge This! (Extended)",
           "spotify_url": "https://open.spotify.com/album/2GmlDfMFDym9f5muSXw2qe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 163174,
+      "game_name": "Super Hiking League DX",
+      "game_url": "https://ostdb.net/games/super-hiking-league-dx",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c0f3076c3ca6225013fa57d3",
+      "albums": [
+        {
+          "album_name": "Super Hiking League DX (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Eb3CONUAt7qSybSgwJUQS",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -40835,6 +40961,20 @@
       ]
     },
     {
+      "igdb_id": 181486,
+      "game_name": "The Pale Beyond",
+      "game_url": "https://ostdb.net/games/the-pale-beyond",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b6977a300468c8c4b14caf6b",
+      "albums": [
+        {
+          "album_name": "The Pale Beyond (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0V7yxZRl3Ke6HF8Z2ldrPl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 147340,
       "game_name": "The Past Within",
       "game_url": "https://ostdb.net/games/the-past-within",
@@ -41039,6 +41179,20 @@
         {
           "album_name": "The Secret World (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6ZKnjYquFoDtuIdtpnrg0k",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 165394,
+      "game_name": "The Serpent Rogue",
+      "game_url": "https://ostdb.net/games/the-serpent-rogue",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733bf322a32983bfaf094cc664",
+      "albums": [
+        {
+          "album_name": "The Serpent Rogue (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2aqLJIyuyUmcatBVMlh3oQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -45090,6 +45244,20 @@
           "album_name": "Wasteland 3: Hymns & Ballads (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4UzVvF3JMbxM1svS6Ut8eB",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 165319,
+      "game_name": "Wasteland 3: Cult of the Holy Detonation",
+      "game_url": "https://ostdb.net/games/wasteland-3-cult-of-the-holy-detonation",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c60bb44e8cffa8d924186f2f",
+      "albums": [
+        {
+          "album_name": "Wasteland 3: Cult of the Holy Detonation (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/2nLCahPRcQtW1TeK40t76M",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
