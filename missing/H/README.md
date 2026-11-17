@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Chamber | 252100 | [252100-half-chamber.json](./252100-half-chamber.json) |
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
 | Half-Earth Socialism | 208329 | [208329-half-earth-socialism.json](./208329-half-earth-socialism.json) |
+| Half-Fly3 | 161446 | [161446-half-fly3.json](./161446-half-fly3.json) |
 | Half-Inch Heist | 63919 | [63919-half-inch-heist.json](./63919-half-inch-heist.json) |
 | Half-Life | 228891 | [228891-half-life.json](./228891-half-life.json) |
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
