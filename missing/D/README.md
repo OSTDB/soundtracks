@@ -7717,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis og Bellini: Rævestreger i Hønsegården | 91268 | [91268-dennis-og-bellini-r-vestreger-i-h-nsegarden.json](./91268-dennis-og-bellini-r-vestreger-i-h-nsegarden.json) |
 | Dennis og Bellini: Slapafnien | 91452 | [91452-dennis-og-bellini-slapafnien.json](./91452-dennis-og-bellini-slapafnien.json) |
 | Dennis og Bellini: Stridens Æble | 91451 | [91451-dennis-og-bellini-stridens-ble.json](./91451-dennis-og-bellini-stridens-ble.json) |
+| Dennis the Menace | 14640 | [14640-dennis-the-menace.json](./14640-dennis-the-menace.json) |
 | Dennis the Menace | 198723 | [198723-dennis-the-menace.json](./198723-dennis-the-menace.json) |
 | Dennis the Menace | 248767 | [248767-dennis-the-menace.json](./248767-dennis-the-menace.json) |
 | Dennis the Menace | 311314 | [311314-dennis-the-menace.json](./311314-dennis-the-menace.json) |
@@ -7908,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth: Wilhelm Diver | 171111 | [171111-depth-wilhelm-diver.json](./171111-depth-wilhelm-diver.json) |
 | Depth:Origin | 351787 | [351787-depth-origin.json](./351787-depth-origin.json) |
 | Depthbound Descent | 403793 | [403793-depthbound-descent.json](./403793-depthbound-descent.json) |
+| Depthcharge | 18609 | [18609-depthcharge.json](./18609-depthcharge.json) |
 | DepthLess | 349450 | [349450-depthless.json](./349450-depthless.json) |
 | DepthMera | 55511 | [55511-depthmera.json](./55511-depthmera.json) |
 | Depthqvr Aqua | 174038 | [174038-depthqvr-aqua.json](./174038-depthqvr-aqua.json) |
@@ -8213,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
 | Desert Fox: The Battle of El Alamein | 22261 | [22261-desert-fox-the-battle-of-el-alamein.json](./22261-desert-fox-the-battle-of-el-alamein.json) |
 | Desert Golfing | 22262 | [22262-desert-golfing.json](./22262-desert-golfing.json) |
+| Desert Gun | 18610 | [18610-desert-gun.json](./18610-desert-gun.json) |
 | Desert Gunman | 277708 | [277708-desert-gunman.json](./277708-desert-gunman.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
 | Desert Hawk | 28486 | [28486-desert-hawk.json](./28486-desert-hawk.json) |
@@ -8770,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy_the_devil | 114241 | [114241-destroy-the-devil.json](./114241-destroy-the-devil.json) |
 | Destroyed Aperture | 217184 | [217184-destroyed-aperture.json](./217184-destroyed-aperture.json) |
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
+| Destroyer | 18611 | [18611-destroyer.json](./18611-destroyer.json) |
 | Destroyer | 238894 | [238894-destroyer.json](./238894-destroyer.json) |
 | Destroyer | 26410 | [26410-destroyer.json](./26410-destroyer.json) |
 | Destroyer | 312254 | [312254-destroyer.json](./312254-destroyer.json) |
@@ -10119,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Hard | 245290 | [245290-die-hard.json](./245290-die-hard.json) |
 | Die Hard | 47188 | [47188-die-hard.json](./47188-die-hard.json) |
 | Die Hard | 72331 | [72331-die-hard.json](./72331-die-hard.json) |
+| Die Hard 2: Die Harder | 14641 | [14641-die-hard-2-die-harder.json](./14641-die-hard-2-die-harder.json) |
 | Die Hard 2: Die Harder | 218796 | [218796-die-hard-2-die-harder.json](./218796-die-hard-2-die-harder.json) |
 | Die Hard 2: Die Harder | 245291 | [245291-die-hard-2-die-harder.json](./245291-die-hard-2-die-harder.json) |
 | Die Hard 64 | 136862 | [136862-die-hard-64.json](./136862-die-hard-64.json) |
@@ -11075,6 +11080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino VR : Jurassic World | 108212 | [108212-dino-vr-jurassic-world.json](./108212-dino-vr-jurassic-world.json) |
 | Dino Walk Simulator | 175866 | [175866-dino-walk-simulator.json](./175866-dino-walk-simulator.json) |
 | Dino War: Survival | 99242 | [99242-dino-war-survival.json](./99242-dino-war-survival.json) |
+| Dino Wars | 14648 | [14648-dino-wars.json](./14648-dino-wars.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino World | 257706 | [257706-dino-world.json](./257706-dino-world.json) |
 | Dino Zoo Transport Simulator | 122604 | [122604-dino-zoo-transport-simulator.json](./122604-dino-zoo-transport-simulator.json) |
@@ -11151,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Bones Digging Simulator 2026 | 386366 | [386366-dinosaur-bones-digging-simulator-2026.json](./386366-dinosaur-bones-digging-simulator-2026.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Crossing: Unravel and Discover | 292910 | [292910-dinosaur-crossing-unravel-and-discover.json](./292910-dinosaur-crossing-unravel-and-discover.json) |
+| Dinosaur Detective Agency | 14649 | [14649-dinosaur-detective-agency.json](./14649-dinosaur-detective-agency.json) |
 | Dinosaur Dig | 181552 | [181552-dinosaur-dig.json](./181552-dinosaur-dig.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
 | Dinosaur Discovery | 83779 | [83779-dinosaur-discovery.json](./83779-dinosaur-discovery.json) |
@@ -11553,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disastr_Blastr | 33839 | [33839-disastr-blastr.json](./33839-disastr-blastr.json) |
 | Disavowed | 236031 | [236031-disavowed.json](./236031-disavowed.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
+| Disc | 14650 | [14650-disc.json](./14650-disc.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Creatures | 117532 | [117532-disc-creatures.json](./117532-disc-creatures.json) |
 | Disc Creatures World | 145333 | [145333-disc-creatures-world.json](./145333-disc-creatures-world.json) |
@@ -11742,6 +11750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Yard Investigation | 149368 | [149368-discovery-yard-investigation.json](./149368-discovery-yard-investigation.json) |
 | Discovery Yard Police | 153480 | [153480-discovery-yard-police.json](./153480-discovery-yard-police.json) |
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
+| Discovery: In the Steps of Columbus | 14651 | [14651-discovery-in-the-steps-of-columbus.json](./14651-discovery-in-the-steps-of-columbus.json) |
 | Discovery: Shark Strike | 95720 | [95720-discovery-shark-strike.json](./95720-discovery-shark-strike.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
 | DiscPods | 421017 | [421017-discpods.json](./421017-discpods.json) |
@@ -13953,6 +13962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domain Owner | 312203 | [312203-domain-owner.json](./312203-domain-owner.json) |
 | Domaine | 85756 | [85756-domaine.json](./85756-domaine.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
+| Doman | 14652 | [14652-doman.json](./14652-doman.json) |
 | Dome | 112041 | [112041-dome.json](./112041-dome.json) |
 | Dome City | 59715 | [59715-dome-city.json](./59715-dome-city.json) |
 | Dome Discover | 151523 | [151523-dome-discover.json](./151523-dome-discover.json) |
@@ -13996,6 +14006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominate the Skies | 339545 | [339545-dominate-the-skies.json](./339545-dominate-the-skies.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
+| Domination | 14653 | [14653-domination.json](./14653-domination.json) |
 | Domination | 167914 | [167914-domination.json](./167914-domination.json) |
 | Domination Earth | 106010 | [106010-domination-earth.json](./106010-domination-earth.json) |
 | Domination Wars | 208002 | [208002-domination-wars.json](./208002-domination-wars.json) |
@@ -14041,6 +14052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Dominique Pamplemousse & Dominique Pamplemousse in "Combinatorial Explosion" | 125051 | [125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json](./125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json) |
+| Dominium | 14654 | [14654-dominium.json](./14654-dominium.json) |
 | Dominium | 327053 | [327053-dominium.json](./327053-dominium.json) |
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
 | Domino | 77152 | [77152-domino.json](./77152-domino.json) |
@@ -14095,6 +14107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominoir | 396033 | [396033-dominoir.json](./396033-dominoir.json) |
 | Dominongo | 417318 | [417318-dominongo.json](./417318-dominongo.json) |
 | DomiNoo | 262453 | [262453-dominoo.json](./262453-dominoo.json) |
+| Dominos | 18612 | [18612-dominos.json](./18612-dominos.json) |
 | Dominos | 88431 | [88431-dominos.json](./88431-dominos.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominos Pro | 86873 | [86873-dominos-pro.json](./86873-dominos-pro.json) |
@@ -14577,6 +14590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dongri Shuxia de Huiyi After | 411514 | [411514-dongri-shuxia-de-huiyi-after.json](./411514-dongri-shuxia-de-huiyi-after.json) |
 | Donguri Koen: Jinkou Eisei Head Scissors Whip | 320814 | [320814-donguri-koen-jinkou-eisei-head-scissors-whip.json](./320814-donguri-koen-jinkou-eisei-head-scissors-whip.json) |
 | Donjon Defense | 76498 | [76498-donjon-defense.json](./76498-donjon-defense.json) |
+| Donk!: The Samurai Duck! | 14655 | [14655-donk-the-samurai-duck.json](./14655-donk-the-samurai-duck.json) |
 | Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
 | Donkey Angler | 305439 | [305439-donkey-angler.json](./305439-donkey-angler.json) |
 | Donkey Angler | 305440 | [305440-donkey-angler.json](./305440-donkey-angler.json) |
@@ -14952,6 +14966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle World: Redrawn | 261150 | [261150-doodle-world-redrawn.json](./261150-doodle-world-redrawn.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
+| Doodlebug | 14656 | [14656-doodlebug.json](./14656-doodlebug.json) |
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
 | Doodlebug: Bug Bash II | 80636 | [80636-doodlebug-bug-bash-ii.json](./80636-doodlebug-bug-bash-ii.json) |
 | DoodleParty.io | 137353 | [137353-doodleparty-io.json](./137353-doodleparty-io.json) |
@@ -16340,6 +16355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Pills | 96874 | [96874-dr-pills.json](./96874-dr-pills.json) |
 | Dr. Plague | 338915 | [338915-dr-plague.json](./338915-dr-plague.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
+| Dr. Plummet's House of Flux | 14658 | [14658-dr-plummets-house-of-flux.json](./14658-dr-plummets-house-of-flux.json) |
 | Dr. Popper | 85722 | [85722-dr-popper.json](./85722-dr-popper.json) |
 | Dr. Priori’s Time Escape | 319047 | [319047-dr-priori-s-time-escape.json](./319047-dr-priori-s-time-escape.json) |
 | Dr. Professor Scientist's Weapons Testing Facility | 192482 | [192482-dr-professor-scientists-weapons-testing-facility.json](./192482-dr-professor-scientists-weapons-testing-facility.json) |
@@ -17051,6 +17067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fate: Cards and Minigames | 285615 | [285615-dragon-fate-cards-and-minigames.json](./285615-dragon-fate-cards-and-minigames.json) |
 | Dragon Fight VR | 133389 | [133389-dragon-fight-vr.json](./133389-dragon-fight-vr.json) |
 | Dragon Fighter | 144672 | [144672-dragon-fighter.json](./144672-dragon-fighter.json) |
+| Dragon Fighter | 14662 | [14662-dragon-fighter.json](./14662-dragon-fighter.json) |
 | Dragon Fighter | 328351 | [328351-dragon-fighter.json](./328351-dragon-fighter.json) |
 | Dragon Fighter II | 328353 | [328353-dragon-fighter-ii.json](./328353-dragon-fighter-ii.json) |
 | Dragon Fighter III | 328378 | [328378-dragon-fighter-iii.json](./328378-dragon-fighter-iii.json) |
@@ -17543,9 +17560,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair II: Time Warp | 14660 | [14660-dragons-lair-ii-time-warp.json](./14660-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair III | 81564 | [81564-dragons-lair-iii.json](./81564-dragons-lair-iii.json) |
+| Dragon's Lair III: The Curse of Mordread | 14661 | [14661-dragons-lair-iii-the-curse-of-mordread.json](./14661-dragons-lair-iii-the-curse-of-mordread.json) |
 | Dragon's Lair Part II: Escape from Singe's Castle | 418248 | [418248-dragons-lair-part-ii-escape-from-singes-castle.json](./418248-dragons-lair-part-ii-escape-from-singes-castle.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
+| Dragon's Lair: Escape from Singe's Castle | 14659 | [14659-dragons-lair-escape-from-singes-castle.json](./14659-dragons-lair-escape-from-singes-castle.json) |
 | Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
 | Dragon's Lunch | 55319 | [55319-dragons-lunch.json](./55319-dragons-lunch.json) |
 | Dragon's Playground | 178010 | [178010-dragons-playground.json](./178010-dragons-playground.json) |
@@ -19551,6 +19570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drox Operative | 8753 | [8753-drox-operative.json](./8753-drox-operative.json) |
 | Drox Operative 2 | 134503 | [134503-drox-operative-2.json](./134503-drox-operative-2.json) |
 | Drox Operative: Invasion of the Ancients | 8754 | [8754-drox-operative-invasion-of-the-ancients.json](./8754-drox-operative-invasion-of-the-ancients.json) |
+| Drsná Cesta | 14663 | [14663-drsna-cesta.json](./14663-drsna-cesta.json) |
 | Druaga Online: The Story of Aon | 54947 | [54947-druaga-online-the-story-of-aon.json](./54947-druaga-online-the-story-of-aon.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
 | Drug Business | 369040 | [369040-drug-business.json](./369040-drug-business.json) |
@@ -20228,6 +20248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duga | 111752 | [111752-duga.json](./111752-duga.json) |
 | Dugashoba! | 202251 | [202251-dugashoba.json](./202251-dugashoba.json) |
 | Dugeundugeun Dijeoteu Kape | 220287 | [220287-dugeundugeun-dijeoteu-kape.json](./220287-dugeundugeun-dijeoteu-kape.json) |
+| Dugger | 14664 | [14664-dugger.json](./14664-dugger.json) |
 | Duggy | 192071 | [192071-duggy.json](./192071-duggy.json) |
 | Dui | 263110 | [263110-dui.json](./263110-dui.json) |
 | DUI | 254360 | [254360-dui.json](./254360-dui.json) |
@@ -21955,9 +21976,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dylan Dog: Gli Uccisori | 73160 | [73160-dylan-dog-gli-uccisori.json](./73160-dylan-dog-gli-uccisori.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dylan Dog: La Mummia | 14670 | [14670-dylan-dog-la-mummia.json](./14670-dylan-dog-la-mummia.json) |
+| Dylan Dog: La Regina delle Tenebre | 14665 | [14665-dylan-dog-la-regina-delle-tenebre.json](./14665-dylan-dog-la-regina-delle-tenebre.json) |
 | Dylan Dog: Le Notti della Luna Piena | 72140 | [72140-dylan-dog-le-notti-della-luna-piena.json](./72140-dylan-dog-le-notti-della-luna-piena.json) |
 | Dylan Dog: Maelstrom | 14671 | [14671-dylan-dog-maelstrom.json](./14671-dylan-dog-maelstrom.json) |
 | Dylan Dog: Ombre | 14669 | [14669-dylan-dog-ombre.json](./14669-dylan-dog-ombre.json) |
+| Dylan Dog: Ritorno al Crepuscolo | 14666 | [14666-dylan-dog-ritorno-al-crepuscolo.json](./14666-dylan-dog-ritorno-al-crepuscolo.json) |
+| Dylan Dog: Storia di Nessuno | 14667 | [14667-dylan-dog-storia-di-nessuno.json](./14667-dylan-dog-storia-di-nessuno.json) |
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
 | Dylan the Driller | 232086 | [232086-dylan-the-driller.json](./232086-dylan-the-driller.json) |
 | Dylio's Adventures | 418546 | [418546-dylios-adventures.json](./418546-dylios-adventures.json) |
