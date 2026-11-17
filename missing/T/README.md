@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales in the Taxi | 131697 | [131697-tales-in-the-taxi.json](./131697-tales-in-the-taxi.json) |
 | Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
+| Tales of a Rabbit: The Story of Willie Hop | 171107 | [171107-tales-of-a-rabbit-the-story-of-willie-hop.json](./171107-tales-of-a-rabbit-the-story-of-willie-hop.json) |
 | Tales of a Spymaster | 113573 | [113573-tales-of-a-spymaster.json](./113573-tales-of-a-spymaster.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of a Viking: Episode One | 233086 | [233086-tales-of-a-viking-episode-one.json](./233086-tales-of-a-viking-episode-one.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangrams Deluxe | 91027 | [91027-tangrams-deluxe.json](./91027-tangrams-deluxe.json) |
 | TangramsVR | 55767 | [55767-tangramsvr.json](./55767-tangramsvr.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
+| Tanhaji: The Lion Maratha Warrior of Ch. Shivaji | 174387 | [174387-tanhaji-the-lion-maratha-warrior-of-ch-shivaji.json](./174387-tanhaji-the-lion-maratha-warrior-of-ch-shivaji.json) |
 | Tanigawa Kouji no Shogi Shinan | 63614 | [63614-tanigawa-kouji-no-shogi-shinan.json](./63614-tanigawa-kouji-no-shogi-shinan.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | Tanigawa Kouji no Shogi Shinan III | 48884 | [48884-tanigawa-kouji-no-shogi-shinan-iii.json](./48884-tanigawa-kouji-no-shogi-shinan-iii.json) |
@@ -2731,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
 | Tar Alterra Adventure Game | 165640 | [165640-tar-alterra-adventure-game.json](./165640-tar-alterra-adventure-game.json) |
 | Tarah | 397090 | [397090-tarah.json](./397090-tarah.json) |
+| Tarakan: Point and Click Adventure | 171118 | [171118-tarakan-point-and-click-adventure.json](./171118-tarakan-point-and-click-adventure.json) |
 | Tarakannik 3 | 410521 | [410521-tarakannik-3.json](./410521-tarakannik-3.json) |
 | Taram Baba | 333821 | [333821-taram-baba.json](./333821-taram-baba.json) |
 | Tarantula Virus | 258620 | [258620-tarantula-virus.json](./258620-tarantula-virus.json) |
@@ -8640,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
 | The Cruel King and the Great Hero: Storybook Edition | 146031 | [146031-the-cruel-king-and-the-great-hero-storybook-edition.json](./146031-the-cruel-king-and-the-great-hero-storybook-edition.json) |
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
+| The Cruise 2 | 174385 | [174385-the-cruise-2.json](./174385-the-cruise-2.json) |
 | The Crusade Is Nigh | 303943 | [303943-the-crusade-is-nigh.json](./303943-the-crusade-is-nigh.json) |
 | The Crush House | 295636 | [295636-the-crush-house.json](./295636-the-crush-house.json) |
 | The Crust | 176109 | [176109-the-crust.json](./176109-the-crust.json) |
@@ -12784,6 +12788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Sex | 46561 | [46561-the-joy-of-sex.json](./46561-the-joy-of-sex.json) |
 | The Joycare | 350583 | [350583-the-joycare.json](./350583-the-joycare.json) |
 | The Joylancer: Legendary Motor Knight | 10974 | [10974-the-joylancer-legendary-motor-knight.json](./10974-the-joylancer-legendary-motor-knight.json) |
+| The Joys of Discovery | 173847 | [173847-the-joys-of-discovery.json](./173847-the-joys-of-discovery.json) |
 | The Judge | 352469 | [352469-the-judge.json](./352469-the-judge.json) |
 | The Judgement Chamber | 243656 | [243656-the-judgement-chamber.json](./243656-the-judgement-chamber.json) |
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
@@ -32422,6 +32427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
 | Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
 | Trains and Trucks Tycoon | 92748 | [92748-trains-and-trucks-tycoon.json](./92748-trains-and-trucks-tycoon.json) |
+| Trains Continental | 171113 | [171113-trains-continental.json](./171113-trains-continental.json) |
 | Trains Girl Locomotion | 184798 | [184798-trains-girl-locomotion.json](./184798-trains-girl-locomotion.json) |
 | Trains of the Orient | 109371 | [109371-trains-of-the-orient.json](./109371-trains-of-the-orient.json) |
 | Trains VR | 69456 | [69456-trains-vr.json](./69456-trains-vr.json) |
