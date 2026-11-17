@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
 | Table Top Racing: World Tour - Tropical Ice Pack | 155339 | [155339-table-top-racing-world-tour-tropical-ice-pack.json](./155339-table-top-racing-world-tour-tropical-ice-pack.json) |
+| Table Top Tanks | 65122 | [65122-table-top-tanks.json](./65122-table-top-tanks.json) |
 | Table Top Turrets | 157323 | [157323-table-top-turrets.json](./157323-table-top-turrets.json) |
 | Table Trenches | 175142 | [175142-table-trenches.json](./175142-table-trenches.json) |
 | Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
 | Tales of Morphos | 380137 | [380137-tales-of-morphos.json](./380137-tales-of-morphos.json) |
 | Tales of Morrow | 190124 | [190124-tales-of-morrow.json](./190124-tales-of-morrow.json) |
+| Tales of Mythica: Assertion | 61785 | [61785-tales-of-mythica-assertion.json](./61785-tales-of-mythica-assertion.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Nebezem: Gnomish Plot | 101697 | [101697-tales-of-nebezem-gnomish-plot.json](./101697-tales-of-nebezem-gnomish-plot.json) |
@@ -2673,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapnimals | 102687 | [102687-tapnimals.json](./102687-tapnimals.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
 | Tapophone | 90044 | [90044-tapophone.json](./90044-tapophone.json) |
+| TapOut | 62896 | [62896-tapout.json](./62896-tapout.json) |
 | Tapper | 307534 | [307534-tapper.json](./307534-tapper.json) |
 | Tapper | 307536 | [307536-tapper.json](./307536-tapper.json) |
 | Tapper | 307539 | [307539-tapper.json](./307539-tapper.json) |
@@ -2714,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taps: Beautifully Simple | 175267 | [175267-taps-beautifully-simple.json](./175267-taps-beautifully-simple.json) |
 | Tapsonic Top | 108873 | [108873-tapsonic-top.json](./108873-tapsonic-top.json) |
 | TapSonic World Champion VR | 104185 | [104185-tapsonic-world-champion-vr.json](./104185-tapsonic-world-champion-vr.json) |
+| TapSudoku | 62894 | [62894-tapsudoku.json](./62894-tapsudoku.json) |
 | TapTap Heroes | 96264 | [96264-taptap-heroes.json](./96264-taptap-heroes.json) |
 | TapTapBadger | 262353 | [262353-taptapbadger.json](./262353-taptapbadger.json) |
 | TaptapTaptapTaptapTap | 66764 | [66764-taptaptaptaptaptaptap.json](./66764-taptaptaptaptaptaptap.json) |
@@ -2721,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
 | Tapularity | 101867 | [101867-tapularity.json](./101867-tapularity.json) |
 | Tapventures | 80359 | [80359-tapventures.json](./80359-tapventures.json) |
+| TapWord | 62895 | [62895-tapword.json](./62895-tapword.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Taqoban | 190987 | [190987-taqoban.json](./190987-taqoban.json) |
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
@@ -7482,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
 | The book by the blue | 288723 | [288723-the-book-by-the-blue.json](./288723-the-book-by-the-blue.json) |
 | The Book of Aaru | 214267 | [214267-the-book-of-aaru.json](./214267-the-book-of-aaru.json) |
+| The Book of Biblets: Part 1 - In the Beginning | 65126 | [65126-the-book-of-biblets-part-1-in-the-beginning.json](./65126-the-book-of-biblets-part-1-in-the-beginning.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Bondmaids | 171672 | [171672-the-book-of-bondmaids.json](./171672-the-book-of-bondmaids.json) |
 | The Book of Bondmaids: Tales | 226905 | [226905-the-book-of-bondmaids-tales.json](./226905-the-book-of-bondmaids-tales.json) |
@@ -12602,6 +12608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Crossed Destinies | 353356 | [353356-the-island-of-crossed-destinies.json](./353356-the-island-of-crossed-destinies.json) |
 | The Island of Doctor Morose | 348474 | [348474-the-island-of-doctor-morose.json](./348474-the-island-of-doctor-morose.json) |
 | The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
+| The Island of Dr. Momo | 61813 | [61813-the-island-of-dr-momo.json](./61813-the-island-of-dr-momo.json) |
 | The Island of Dr. Yepstein | 171304 | [171304-the-island-of-dr-yepstein.json](./171304-the-island-of-dr-yepstein.json) |
 | The Island of Earthly Delights | 311919 | [311919-the-island-of-earthly-delights.json](./311919-the-island-of-earthly-delights.json) |
 | The Island of Eternal Struggle | 39277 | [39277-the-island-of-eternal-struggle.json](./39277-the-island-of-eternal-struggle.json) |
@@ -27830,6 +27837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Rogue Spear Mission Pack - Urban Operations | 78136 | [78136-tom-clancys-rainbow-six-rogue-spear-mission-pack-urban-operations.json](./78136-tom-clancys-rainbow-six-rogue-spear-mission-pack-urban-operations.json) |
 | Tom Clancy's Rainbow Six: Shadow Vanguard | 1854 | [1854-tom-clancys-rainbow-six-shadow-vanguard.json](./1854-tom-clancys-rainbow-six-shadow-vanguard.json) |
 | Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
+| Tom Clancy's Rainbow Six: Take-Down - Missions in Korea | 65129 | [65129-tom-clancys-rainbow-six-take-down-missions-in-korea.json](./65129-tom-clancys-rainbow-six-take-down-missions-in-korea.json) |
 | Tom Clancy's Rainbow Six: Take-Down – Missions in Korea | 135591 | [135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json](./135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json) |
 | Tom Clancy's Rainbow Six: Vegas | 196507 | [196507-tom-clancys-rainbow-six-vegas.json](./196507-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
@@ -28642,6 +28650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Hunter: Roddy & Cathy | 46520 | [46520-top-hunter-roddy-and-cathy.json](./46520-top-hunter-roddy-and-cathy.json) |
 | Top Jump | 255584 | [255584-top-jump.json](./255584-top-jump.json) |
 | Top Jump | 259128 | [259128-top-jump.json](./259128-top-jump.json) |
+| Top Landing | 65121 | [65121-top-landing.json](./65121-top-landing.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Management Sannoudai Hen | 237691 | [237691-top-management-sannoudai-hen.json](./237691-top-management-sannoudai-hen.json) |
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
@@ -34362,6 +34371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials HD | 2145 | [2145-trials-hd.json](./2145-trials-hd.json) |
 | Trials HD: Big Thrills | 22950 | [22950-trials-hd-big-thrills.json](./22950-trials-hd-big-thrills.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
+| Trials Legends | 66266 | [66266-trials-legends.json](./66266-trials-legends.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Argolis | 155733 | [155733-trials-of-argolis.json](./155733-trials-of-argolis.json) |
 | Trials of Ascension | 62910 | [62910-trials-of-ascension.json](./62910-trials-of-ascension.json) |
