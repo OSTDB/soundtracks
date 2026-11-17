@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
 | Karaoke Love Song | 368741 | [368741-karaoke-love-song.json](./368741-karaoke-love-song.json) |
 | Karaoke Mugen | 125793 | [125793-karaoke-mugen.json](./125793-karaoke-mugen.json) |
+| Karaoke Ninja | 180739 | [180739-karaoke-ninja.json](./180739-karaoke-ninja.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karaoke Party: Sing & Dance | 324205 | [324205-karaoke-party-sing-and-dance.json](./324205-karaoke-party-sing-and-dance.json) |
 | Karaoke Revolution | 7034 | [7034-karaoke-revolution.json](./7034-karaoke-revolution.json) |
