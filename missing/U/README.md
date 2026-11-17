@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubu | 356618 | [356618-ubu.json](./356618-ubu.json) |
 | Ubusuna | 61174 | [61174-ubusuna.json](./61174-ubusuna.json) |
 | UBV Volley 2011 | 87225 | [87225-ubv-volley-2011.json](./87225-ubv-volley-2011.json) |
+| UC Kart | 153483 | [153483-uc-kart.json](./153483-uc-kart.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | UCaptain2: World of Fishing | 247834 | [247834-ucaptain2-world-of-fishing.json](./247834-ucaptain2-world-of-fishing.json) |
 | Ucchan Nanchan no Honoo no Challenger: Denryuu Iraira Bou | 44053 | [44053-ucchan-nanchan-no-honoo-no-challenger-denryuu-iraira-bou.json](./44053-ucchan-nanchan-no-honoo-no-challenger-denryuu-iraira-bou.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Clyde's Consonant Slides | 285868 | [285868-uncle-clydes-consonant-slides.json](./285868-uncle-clydes-consonant-slides.json) |
 | Uncle Go | 193912 | [193912-uncle-go.json](./193912-uncle-go.json) |
 | Uncle Heff | 200788 | [200788-uncle-heff.json](./200788-uncle-heff.json) |
+| Uncle Henry's Nuclear Waste Dump | 140692 | [140692-uncle-henrys-nuclear-waste-dump.json](./140692-uncle-henrys-nuclear-waste-dump.json) |
 | Uncle Henry's Playhouse | 20197 | [20197-uncle-henrys-playhouse.json](./20197-uncle-henrys-playhouse.json) |
 | Uncle Kenny: The Game | 241264 | [241264-uncle-kenny-the-game.json](./241264-uncle-kenny-the-game.json) |
 | Uncle Lee’s Cookbook: Five Recipes for Disaster | 373161 | [373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json](./373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json) |
@@ -2778,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unko Enzan | 61196 | [61196-unko-enzan.json](./61196-unko-enzan.json) |
 | Unko Technica | 309509 | [309509-unko-technica.json](./309509-unko-technica.json) |
 | Unko Typing | 189128 | [189128-unko-typing.json](./189128-unko-typing.json) |
+| Unko Warriors | 150178 | [150178-unko-warriors.json](./150178-unko-warriors.json) |
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
 | Unlanded | 133122 | [133122-unlanded.json](./133122-unlanded.json) |
 | Unleash | 398974 | [398974-unleash.json](./398974-unleash.json) |
