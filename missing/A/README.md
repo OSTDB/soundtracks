@@ -9905,6 +9905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambulance Rescue | 101678 | [101678-ambulance-rescue.json](./101678-ambulance-rescue.json) |
 | Ambulance Rescue Driving | 108685 | [108685-ambulance-rescue-driving.json](./108685-ambulance-rescue-driving.json) |
+| Ambulance Simulator | 109785 | [109785-ambulance-simulator.json](./109785-ambulance-simulator.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
 | Ambulance Simulator 911 Emergency | 293128 | [293128-ambulance-simulator-911-emergency.json](./293128-ambulance-simulator-911-emergency.json) |
 | Ambulance Simulator 911 Rescue | 370560 | [370560-ambulance-simulator-911-rescue.json](./370560-ambulance-simulator-911-rescue.json) |
