@@ -24147,7 +24147,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
 | My Singing Monsters Karaoke: Day One Pack | 414780 | [414780-my-singing-monsters-karaoke-day-one-pack.json](./414780-my-singing-monsters-karaoke-day-one-pack.json) |
 | My Singing Monsters Karaoke: Rare Pack | 414779 | [414779-my-singing-monsters-karaoke-rare-pack.json](./414779-my-singing-monsters-karaoke-rare-pack.json) |
-| My Singing Monsters Playground | 150135 | [150135-my-singing-monsters-playground.json](./150135-my-singing-monsters-playground.json) |
 | My Singing Monsters: Beat Hereafter Skin Pack | 274839 | [274839-my-singing-monsters-beat-hereafter-skin-pack.json](./274839-my-singing-monsters-beat-hereafter-skin-pack.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
 | My Singing Monsters: Thumpies | 289727 | [289727-my-singing-monsters-thumpies.json](./289727-my-singing-monsters-thumpies.json) |
