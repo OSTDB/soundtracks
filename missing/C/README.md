@@ -16087,6 +16087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Evolution | 50333 | [50333-contra-evolution.json](./50333-contra-evolution.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Online | 306610 | [306610-contra-online.json](./306610-contra-online.json) |
+| Contra Return | 123094 | [123094-contra-return.json](./123094-contra-return.json) |
 | Contra Returns | 174697 | [174697-contra-returns.json](./174697-contra-returns.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra SNES | 377741 | [377741-contra-snes.json](./377741-contra-snes.json) |
@@ -18062,6 +18063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Kidz | 13527 | [13527-cowboy-kidz.json](./13527-cowboy-kidz.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
 | Cowboy Revenge | 41922 | [41922-cowboy-revenge.json](./41922-cowboy-revenge.json) |
+| Cowboy Valley | 123100 | [123100-cowboy-valley.json](./123100-cowboy-valley.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
 | Cowboy vs. Zombies | 292359 | [292359-cowboy-vs-zombies.json](./292359-cowboy-vs-zombies.json) |
 | Cowboy Wanted Deluxe | 87602 | [87602-cowboy-wanted-deluxe.json](./87602-cowboy-wanted-deluxe.json) |
@@ -20883,6 +20885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucifier | 394410 | [394410-crucifier.json](./394410-crucifier.json) |
 | Crucis Fatal Fake | 140686 | [140686-crucis-fatal-fake.json](./140686-crucis-fatal-fake.json) |
 | Crud | 260997 | [260997-crud.json](./260997-crud.json) |
+| Crude | 123099 | [123099-crude.json](./123099-crude.json) |
 | Crude | 171388 | [171388-crude.json](./171388-crude.json) |
 | Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
 | Crude Survivor TD | 370890 | [370890-crude-survivor-td.json](./370890-crude-survivor-td.json) |
