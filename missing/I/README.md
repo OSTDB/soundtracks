@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortals of Aveum | 228531 | [228531-immortals-of-aveum.json](./228531-immortals-of-aveum.json) |
 | Immortals of Aveum: Deluxe Edition | 245934 | [245934-immortals-of-aveum-deluxe-edition.json](./245934-immortals-of-aveum-deluxe-edition.json) |
 | Immortals Revenge | 340507 | [340507-immortals-revenge.json](./340507-immortals-revenge.json) |
+| Immortals: Fenyx Rising - Shadowmaster Edition | 166312 | [166312-immortals-fenyx-rising-shadowmaster-edition.json](./166312-immortals-fenyx-rising-shadowmaster-edition.json) |
 | Immortals: Muv-Luv Alternative | 194560 | [194560-immortals-muv-luv-alternative.json](./194560-immortals-muv-luv-alternative.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortelle | 212825 | [212825-immortelle.json](./212825-immortelle.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Mission | 57018 | [57018-indian-mission.json](./57018-indian-mission.json) |
 | Indian Mutiny: Little Sepoy | 101351 | [101351-indian-mutiny-little-sepoy.json](./101351-indian-mutiny-little-sepoy.json) |
 | Indian Princess: Dress Up! | 320466 | [320466-indian-princess-dress-up.json](./320466-indian-princess-dress-up.json) |
+| Indian Rummy | 170051 | [170051-indian-rummy.json](./170051-indian-rummy.json) |
 | Indian Rummy: Fun Card Game | 88171 | [88171-indian-rummy-fun-card-game.json](./88171-indian-rummy-fun-card-game.json) |
 | Indian Street Food Simulator | 407345 | [407345-indian-street-food-simulator.json](./407345-indian-street-food-simulator.json) |
 | Indian Summer | 111430 | [111430-indian-summer.json](./111430-indian-summer.json) |
@@ -6903,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is It Wrong To Kiss The Bracken?! | 286893 | [286893-is-it-wrong-to-kiss-the-bracken.json](./286893-is-it-wrong-to-kiss-the-bracken.json) |
 | Is It Wrong to Repay the Debt in a Dungeon? | 220040 | [220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json](./220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate | 47160 | [47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json](./47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json) |
+| Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate: Limited Edition | 166317 | [166317-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate-limited-edition.json](./166317-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate-limited-edition.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
 | Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon? | 163130 | [163130-is-it-wrong-to-try-to-shoot-em-up-girls-in-a-dungeon.json](./163130-is-it-wrong-to-try-to-shoot-em-up-girls-in-a-dungeon.json) |
