@@ -5113,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect World International | 50368 | [50368-perfect-world-international.json](./50368-perfect-world-international.json) |
 | Perfect World Mobile | 133769 | [133769-perfect-world-mobile.json](./133769-perfect-world-mobile.json) |
 | Perfect World: Ascend | 333123 | [333123-perfect-world-ascend.json](./333123-perfect-world-ascend.json) |
+| Perfect Zero Puzzle | 174378 | [174378-perfect-zero-puzzle.json](./174378-perfect-zero-puzzle.json) |
 | Perfect! Pool | 93181 | [93181-perfect-pool.json](./93181-perfect-pool.json) |
 | Perfectdom | 403661 | [403661-perfectdom.json](./403661-perfectdom.json) |
 | Perfected Doom 3 | 330775 | [330775-perfected-doom-3.json](./330775-perfected-doom-3.json) |
@@ -11464,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plotonium Explosive Smasher DX: Machine Slayer - Oh Yes! Edition | 362226 | [362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json](./362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json) |
 | Plots! 2 | 93336 | [93336-plots-2.json](./93336-plots-2.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
+| Plotting | 172785 | [172785-plotting.json](./172785-plotting.json) |
 | Plotwords | 394116 | [394116-plotwords.json](./394116-plotwords.json) |
 | Plover | 180432 | [180432-plover.json](./180432-plover.json) |
 | Plow the Snow! | 217105 | [217105-plow-the-snow.json](./217105-plow-the-snow.json) |
