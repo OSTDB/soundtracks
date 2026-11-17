@@ -17388,6 +17388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Death | 176650 | [176650-the-red-death.json](./176650-the-red-death.json) |
 | The Red Devil | 184759 | [184759-the-red-devil.json](./184759-the-red-devil.json) |
 | The Red Door | 134903 | [134903-the-red-door.json](./134903-the-red-door.json) |
+| The Red Exile | 187417 | [187417-the-red-exile.json](./187417-the-red-exile.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Red Front | 68830 | [68830-the-red-front.json](./68830-the-red-front.json) |
 | The Red Hat | 327275 | [327275-the-red-hat.json](./327275-the-red-hat.json) |
@@ -19462,6 +19463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword That Kills Christmas | 231116 | [231116-the-sword-that-kills-christmas.json](./231116-the-sword-that-kills-christmas.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
+| The Swordfish: Knight of the Deep | 188128 | [188128-the-swordfish-knight-of-the-deep.json](./188128-the-swordfish-knight-of-the-deep.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
 | The Swords of Ditto | 36798 | [36798-the-swords-of-ditto.json](./36798-the-swords-of-ditto.json) |
 | The Swords of First Light | 299034 | [299034-the-swords-of-first-light.json](./299034-the-swords-of-first-light.json) |
@@ -21868,6 +21870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theofil | 159400 | [159400-theofil.json](./159400-theofil.json) |
 | Theogony: Crystal Water Blue | 172314 | [172314-theogony-crystal-water-blue.json](./172314-theogony-crystal-water-blue.json) |
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
+| Theomachia | 187428 | [187428-theomachia.json](./187428-theomachia.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
 | Theorists | 261185 | [261185-theorists.json](./261185-theorists.json) |
 | Théoros | 412185 | [412185-theoros.json](./412185-theoros.json) |
@@ -26676,6 +26679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
 | Titan Quest: Atlantis | 118280 | [118280-titan-quest-atlantis.json](./118280-titan-quest-atlantis.json) |
+| Titan Quest: Collector's Edition | 186920 | [186920-titan-quest-collectors-edition.json](./186920-titan-quest-collectors-edition.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
 | Titan Quest: Legendary Edition | 155209 | [155209-titan-quest-legendary-edition.json](./155209-titan-quest-legendary-edition.json) |
 | Titan Quest: Ragnarök | 75999 | [75999-titan-quest-ragnarok.json](./75999-titan-quest-ragnarok.json) |
@@ -27811,6 +27815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Extraction | 119262 | [119262-tom-clancys-rainbow-six-extraction.json](./119262-tom-clancys-rainbow-six-extraction.json) |
 | Tom Clancy's Rainbow Six Extraction United Bundle | 188168 | [188168-tom-clancys-rainbow-six-extraction-united-bundle.json](./188168-tom-clancys-rainbow-six-extraction-united-bundle.json) |
 | Tom Clancy's Rainbow Six Extraction: Deluxe Edition | 152335 | [152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json](./152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json) |
+| Tom Clancy's Rainbow Six Extraction: Guardian Edition | 186924 | [186924-tom-clancys-rainbow-six-extraction-guardian-edition.json](./186924-tom-clancys-rainbow-six-extraction-guardian-edition.json) |
 | Tom Clancy's Rainbow Six Extraction: Limited Edition | 152336 | [152336-tom-clancys-rainbow-six-extraction-limited-edition.json](./152336-tom-clancys-rainbow-six-extraction-limited-edition.json) |
 | Tom Clancy’s Rainbow Six Extraction: React Strike Pack | 255858 | [255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json](./255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json) |
 | Tom Clancy's Rainbow Six Mission Pack: Eagle Watch | 1841 | [1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json](./1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json) |
@@ -29548,6 +29553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tough Beans | 217681 | [217681-tough-beans.json](./217681-tough-beans.json) |
 | Tough Cat | 416966 | [416966-tough-cat.json](./416966-tough-cat.json) |
 | Tough Guy | 80783 | [80783-tough-guy.json](./80783-tough-guy.json) |
+| Tough Law | 187411 | [187411-tough-law.json](./187411-tough-law.json) |
 | Tough Love Arena | 142114 | [142114-tough-love-arena.json](./142114-tough-love-arena.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Sunvival | 103604 | [103604-tough-sunvival.json](./103604-tough-sunvival.json) |
