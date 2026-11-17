@@ -3771,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit RPG Creator: Cuddly Creatures | 288683 | [288683-8-bit-rpg-creator-cuddly-creatures.json](./288683-8-bit-rpg-creator-cuddly-creatures.json) |
 | 8-Bit RPG Creator: Zombies Attack! | 288682 | [288682-8-bit-rpg-creator-zombies-attack.json](./288682-8-bit-rpg-creator-zombies-attack.json) |
 | 8-Bit RTS Series: Complete Collection | 296560 | [296560-8-bit-rts-series-complete-collection.json](./296560-8-bit-rts-series-complete-collection.json) |
+| 8-Bit Selection: Arcade Replay | 419675 | [419675-8-bit-selection-arcade-replay.json](./419675-8-bit-selection-arcade-replay.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 237312 | [237312-8-bit-slasher-4-in-1-horror-demakes.json](./237312-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Waterslide | 101105 | [101105-8-bit-waterslide.json](./101105-8-bit-waterslide.json) |
