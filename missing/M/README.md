@@ -8378,6 +8378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Knockdown | 141397 | [141397-mega-knockdown.json](./141397-mega-knockdown.json) |
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
+| Mega Lo Mania & First Samurai | 138313 | [138313-mega-lo-mania-and-first-samurai.json](./138313-mega-lo-mania-and-first-samurai.json) |
 | Mega Load On | 390573 | [390573-mega-load-on.json](./390573-mega-load-on.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
 | Mega Man | 1738 | [1738-mega-man.json](./1738-mega-man.json) |
@@ -12204,6 +12205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microshaft Winblows 98 | 81214 | [81214-microshaft-winblows-98.json](./81214-microshaft-winblows-98.json) |
 | MicroSoccer | 234062 | [234062-microsoccer.json](./234062-microsoccer.json) |
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
+| Microsoft Adventure | 138303 | [138303-microsoft-adventure.json](./138303-microsoft-adventure.json) |
 | Microsoft Arcade | 94214 | [94214-microsoft-arcade.json](./94214-microsoft-arcade.json) |
 | Microsoft Baseball 2001 | 74046 | [74046-microsoft-baseball-2001.json](./74046-microsoft-baseball-2001.json) |
 | Microsoft Baseball 3D 1998 Edition | 62275 | [62275-microsoft-baseball-3d-1998-edition.json](./62275-microsoft-baseball-3d-1998-edition.json) |
@@ -17776,7 +17778,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
 | Monovert DX | 115350 | [115350-monovert-dx.json](./115350-monovert-dx.json) |
 | Monowars: Red Zone | 106423 | [106423-monowars-red-zone.json](./106423-monowars-red-zone.json) |
-| Monowave | 276631 | [276631-monowave.json](./276631-monowave.json) |
 | Monoyellow Madness | 321443 | [321443-monoyellow-madness.json](./321443-monoyellow-madness.json) |
 | Monpals | 228383 | [228383-monpals.json](./228383-monpals.json) |
 | Monpic: The Hatchling Meets a Girl | 324138 | [324138-monpic-the-hatchling-meets-a-girl.json](./324138-monpic-the-hatchling-meets-a-girl.json) |
