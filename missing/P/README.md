@@ -3432,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
 | Path of the Oxiflame | 319842 | [319842-path-of-the-oxiflame.json](./319842-path-of-the-oxiflame.json) |
 | Path of the Rabbit | 177230 | [177230-path-of-the-rabbit.json](./177230-path-of-the-rabbit.json) |
+| Path of the Retired Adventurer | 421098 | [421098-path-of-the-retired-adventurer.json](./421098-path-of-the-retired-adventurer.json) |
 | Path of The Runecaster | 399839 | [399839-path-of-the-runecaster.json](./399839-path-of-the-runecaster.json) |
 | Path of the Sramana | 132883 | [132883-path-of-the-sramana.json](./132883-path-of-the-sramana.json) |
 | Path of the Tank | 293663 | [293663-path-of-the-tank.json](./293663-path-of-the-tank.json) |
@@ -4634,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Cafe | 132184 | [132184-penguin-cafe.json](./132184-penguin-cafe.json) |
 | Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
 | Penguin Chat 3 | 227928 | [227928-penguin-chat-3.json](./227928-penguin-chat-3.json) |
+| Penguin Clash | 421091 | [421091-penguin-clash.json](./421091-penguin-clash.json) |
 | Penguin Climbing | 150387 | [150387-penguin-climbing.json](./150387-penguin-climbing.json) |
 | Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
 | Penguin Diner 2 | 64615 | [64615-penguin-diner-2.json](./64615-penguin-diner-2.json) |
@@ -11333,6 +11335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please adopt me. # AI needs repair. | 135719 | [135719-please-adopt-me-ai-needs-repair.json](./135719-please-adopt-me-ai-needs-repair.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
 | Please Bang My Wife | 57550 | [57550-please-bang-my-wife.json](./57550-please-bang-my-wife.json) |
+| Please Be Funny | 421099 | [421099-please-be-funny.json](./421099-please-be-funny.json) |
 | Please Be Happy | 152183 | [152183-please-be-happy.json](./152183-please-be-happy.json) |
 | Please Be Kind to the Chickens | 258080 | [258080-please-be-kind-to-the-chickens.json](./258080-please-be-kind-to-the-chickens.json) |
 | Please Care Over Stories: PCOS | 183679 | [183679-please-care-over-stories-pcos.json](./183679-please-care-over-stories-pcos.json) |
@@ -14957,6 +14960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possess Squad | 389247 | [389247-possess-squad.json](./389247-possess-squad.json) |
 | Possessed | 36520 | [36520-possessed.json](./36520-possessed.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
+| Possessed By Fate | 421103 | [421103-possessed-by-fate.json](./421103-possessed-by-fate.json) |
 | Possessed Kingdom | 411313 | [411313-possessed-kingdom.json](./411313-possessed-kingdom.json) |
 | Possession | 343026 | [343026-possession.json](./343026-possession.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
