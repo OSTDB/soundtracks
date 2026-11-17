@@ -6396,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Almost Gone | 74787 | [74787-the-almost-gone.json](./74787-the-almost-gone.json) |
 | The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
 | The Aloha Bakery | 129355 | [129355-the-aloha-bakery.json](./129355-the-aloha-bakery.json) |
+| The Alone Sword | 113965 | [113965-the-alone-sword.json](./113965-the-alone-sword.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Device | 86327 | [86327-the-alpha-device.json](./86327-the-alpha-device.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
@@ -9964,6 +9965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enemy Weapons Are Better | 247369 | [247369-the-enemy-weapons-are-better.json](./247369-the-enemy-weapons-are-better.json) |
 | The Enemy Within | 406038 | [406038-the-enemy-within.json](./406038-the-enemy-within.json) |
 | The Energem Enigma | 61292 | [61292-the-energem-enigma.json](./61292-the-energem-enigma.json) |
+| The Energy Lab | 113798 | [113798-the-energy-lab.json](./113798-the-energy-lab.json) |
 | The Energy Warrior | 274907 | [274907-the-energy-warrior.json](./274907-the-energy-warrior.json) |
 | The Enforcer | 154344 | [154344-the-enforcer.json](./154344-the-enforcer.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
@@ -12505,6 +12507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infinite Black | 32861 | [32861-the-infinite-black.json](./32861-the-infinite-black.json) |
 | The Infinite Black 2 | 221519 | [221519-the-infinite-black-2.json](./221519-the-infinite-black-2.json) |
 | The Infinite Grimoire | 401825 | [401825-the-infinite-grimoire.json](./401825-the-infinite-grimoire.json) |
+| The Infinite Ocean | 113972 | [113972-the-infinite-ocean.json](./113972-the-infinite-ocean.json) |
 | The Infinite Shift: Backrooms | 420953 | [420953-the-infinite-shift-backrooms.json](./420953-the-infinite-shift-backrooms.json) |
 | The Infinite Trial of a Hopeless Man Running | 148233 | [148233-the-infinite-trial-of-a-hopeless-man-running.json](./148233-the-infinite-trial-of-a-hopeless-man-running.json) |
 | The Infinity Road | 341160 | [341160-the-infinity-road.json](./341160-the-infinity-road.json) |
@@ -16829,6 +16832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Planet Crafter: Toxicity | 373883 | [373883-the-planet-crafter-toxicity.json](./373883-the-planet-crafter-toxicity.json) |
 | The Planet of the Vicious Creatures | 31257 | [31257-the-planet-of-the-vicious-creatures.json](./31257-the-planet-of-the-vicious-creatures.json) |
+| The planet's rescuer | 113822 | [113822-the-planets-rescuer.json](./113822-the-planets-rescuer.json) |
 | The Planetarian | 377887 | [377887-the-planetarian.json](./377887-the-planetarian.json) |
 | The Planetary Archive | 406744 | [406744-the-planetary-archive.json](./406744-the-planetary-archive.json) |
 | The Planets | 251367 | [251367-the-planets.json](./251367-the-planets.json) |
@@ -19042,7 +19046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spectre Files: Deathstalker | 156774 | [156774-the-spectre-files-deathstalker.json](./156774-the-spectre-files-deathstalker.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
 | The Spectrum Soup | 183342 | [183342-the-spectrum-soup.json](./183342-the-spectrum-soup.json) |
-| The Spell | 113759 | [113759-the-spell.json](./113759-the-spell.json) |
 | The Spell | 416239 | [416239-the-spell.json](./416239-the-spell.json) |
 | The Spell Brigade | 297683 | [297683-the-spell-brigade.json](./297683-the-spell-brigade.json) |
 | The Spellbinding Kiss | 299054 | [299054-the-spellbinding-kiss.json](./299054-the-spellbinding-kiss.json) |
@@ -20187,6 +20190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower: The Order of XII | 117694 | [117694-the-tower-the-order-of-xii.json](./117694-the-tower-the-order-of-xii.json) |
 | The Towerer | 138445 | [138445-the-towerer.json](./138445-the-towerer.json) |
 | The Towers | 406802 | [406802-the-towers.json](./406802-the-towers.json) |
+| The Town | 113821 | [113821-the-town.json](./113821-the-town.json) |
 | The Town | 80392 | [80392-the-town.json](./80392-the-town.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town of Light: Deluxe Edition | 86237 | [86237-the-town-of-light-deluxe-edition.json](./86237-the-town-of-light-deluxe-edition.json) |
@@ -21244,7 +21248,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wind's Path | 333078 | [333078-the-winds-path.json](./333078-the-winds-path.json) |
 | The Window 8 | 348228 | [348228-the-window-8.json](./348228-the-window-8.json) |
 | The Window 8: Millennium | 369105 | [369105-the-window-8-millennium.json](./369105-the-window-8-millennium.json) |
-| The Window Box | 113850 | [113850-the-window-box.json](./113850-the-window-box.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Winds Rising | 259875 | [259875-the-winds-rising.json](./259875-the-winds-rising.json) |
 | The Wine Hunt: Aim Fidelity | 257975 | [257975-the-wine-hunt-aim-fidelity.json](./257975-the-wine-hunt-aim-fidelity.json) |
@@ -30588,6 +30591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerful Defense: A Rogue TD | 253621 | [253621-towerful-defense-a-rogue-td.json](./253621-towerful-defense-a-rogue-td.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
 | Towerheart | 303076 | [303076-towerheart.json](./303076-towerheart.json) |
+| TowerHex | 113814 | [113814-towerhex.json](./113814-towerhex.json) |
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
 | Towering Inferno | 18771 | [18771-towering-inferno.json](./18771-towering-inferno.json) |
 | Towering Rescue | 363303 | [363303-towering-rescue.json](./363303-towering-rescue.json) |
