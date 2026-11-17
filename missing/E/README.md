@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt II: The Heliopolis Prophecy | 43781 | [43781-egypt-ii-the-heliopolis-prophecy.json](./43781-egypt-ii-the-heliopolis-prophecy.json) |
 | Egypt in Space | 343998 | [343998-egypt-in-space.json](./343998-egypt-in-space.json) |
 | Egypt Jewels Quest | 104362 | [104362-egypt-jewels-quest.json](./104362-egypt-jewels-quest.json) |
+| Egypt Legend - Temple of Anubis | 104733 | [104733-egypt-legend-temple-of-anubis.json](./104733-egypt-legend-temple-of-anubis.json) |
 | Egypt Pharaoh Secret | 109213 | [109213-egypt-pharaoh-secret.json](./109213-egypt-pharaoh-secret.json) |
 | Egypt Picross: Pharaoh's Riddles | 155815 | [155815-egypt-picross-pharaohs-riddles.json](./155815-egypt-picross-pharaohs-riddles.json) |
 | Egypt Picross. Pharaoh's Riddles. | 99990 | [99990-egypt-picross-pharaohs-riddles.json](./99990-egypt-picross-pharaohs-riddles.json) |
