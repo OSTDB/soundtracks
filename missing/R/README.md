@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidborn | 212178 | [212178-raidborn.json](./212178-raidborn.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raidbound | 372957 | [372957-raidbound.json](./372957-raidbound.json) |
+| RaidCast | 423520 | [423520-raidcast.json](./423520-raidcast.json) |
 | Raide | 318238 | [318238-raide.json](./318238-raide.json) |
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden DX | 8857 | [8857-raiden-dx.json](./8857-raiden-dx.json) |
@@ -3148,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
 | Reactor idle | 101858 | [101858-reactor-idle.json](./101858-reactor-idle.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
+| Reactor Zero | 423500 | [423500-reactor-zero.json](./423500-reactor-zero.json) |
 | ReactorX | 138917 | [138917-reactorx.json](./138917-reactorx.json) |
 | ReactorX 3 | 331906 | [331906-reactorx-3.json](./331906-reactorx-3.json) |
 | ReactorX 4 | 428427 | [428427-reactorx-4.json](./428427-reactorx-4.json) |
