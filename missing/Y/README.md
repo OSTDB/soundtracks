@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Picked Your Poison | 397012 | [397012-you-picked-your-poison.json](./397012-you-picked-your-poison.json) |
 | You Pilot a Piece of S***: Gaiden | 149795 | [149795-you-pilot-a-piece-of-s-gaiden.json](./149795-you-pilot-a-piece-of-s-gaiden.json) |
 | You Played Yourself | 184946 | [184946-you-played-yourself.json](./184946-you-played-yourself.json) |
+| You Probably Won't Survive | 180335 | [180335-you-probably-wont-survive.json](./180335-you-probably-wont-survive.json) |
 | You Remembered | 388668 | [388668-you-remembered.json](./388668-you-remembered.json) |
 | You See a Monster Smoking in the Parking Lot | 377666 | [377666-you-see-a-monster-smoking-in-the-parking-lot.json](./377666-you-see-a-monster-smoking-in-the-parking-lot.json) |
 | You See Me? | 312493 | [312493-you-see-me.json](./312493-you-see-me.json) |
