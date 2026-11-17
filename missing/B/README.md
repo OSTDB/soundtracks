@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
 | Bad Status Dragon Rider | 365451 | [365451-bad-status-dragon-rider.json](./365451-bad-status-dragon-rider.json) |
+| Bad Street Brawler | 9169 | [9169-bad-street-brawler.json](./9169-bad-street-brawler.json) |
 | Bad Student Driver: Swing Ride | 259975 | [259975-bad-student-driver-swing-ride.json](./259975-bad-student-driver-swing-ride.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
@@ -3871,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Origins - New Millennium Skins Pack | 75532 | [75532-batman-arkham-origins-new-millennium-skins-pack.json](./75532-batman-arkham-origins-new-millennium-skins-pack.json) |
 | Batman: Arkham Origins - Season Pass | 75529 | [75529-batman-arkham-origins-season-pass.json](./75529-batman-arkham-origins-season-pass.json) |
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
+| Batman: Arkham Trilogy | 254329 | [254329-batman-arkham-trilogy.json](./254329-batman-arkham-trilogy.json) |
 | Batman: Arkham Underworld | 54606 | [54606-batman-arkham-underworld.json](./54606-batman-arkham-underworld.json) |
 | Batman: Arkham VR | 19563 | [19563-batman-arkham-vr.json](./19563-batman-arkham-vr.json) |
 | Batman: Back Street Brawl | 284216 | [284216-batman-back-street-brawl.json](./284216-batman-back-street-brawl.json) |
@@ -16675,6 +16677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainwash Facility | 272116 | [272116-brainwash-facility.json](./272116-brainwash-facility.json) |
 | Brainwashing Academy: The Cursed Person's Pot | 380457 | [380457-brainwashing-academy-the-cursed-persons-pot.json](./380457-brainwashing-academy-the-cursed-persons-pot.json) |
 | Brainwave Trials | 304426 | [304426-brainwave-trials.json](./304426-brainwave-trials.json) |
+| Brainworm Befriend | 429974 | [429974-brainworm-befriend.json](./429974-brainworm-befriend.json) |
 | Brainy Inc. | 382111 | [382111-brainy-inc.json](./382111-brainy-inc.json) |
 | Brainy Joy | 75937 | [75937-brainy-joy.json](./75937-brainy-joy.json) |
 | Brainy Mouse | 90844 | [90844-brainy-mouse.json](./90844-brainy-mouse.json) |
@@ -17708,6 +17711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickMania | 328552 | [328552-brickmania.json](./328552-brickmania.json) |
 | Brickmasters | 240665 | [240665-brickmasters.json](./240665-brickmasters.json) |
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
+| Brickochet | 55483 | [55483-brickochet.json](./55483-brickochet.json) |
 | Brickoid | 357167 | [357167-brickoid.json](./357167-brickoid.json) |
 | BrickOps | 417825 | [417825-brickops.json](./417825-brickops.json) |
 | BrickOut | 174452 | [174452-brickout.json](./174452-brickout.json) |
