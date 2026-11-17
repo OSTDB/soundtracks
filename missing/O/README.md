@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hell of a Ride | 218562 | [218562-one-hell-of-a-ride.json](./218562-one-hell-of-a-ride.json) |
 | One Hell of a Trip | 151553 | [151553-one-hell-of-a-trip.json](./151553-one-hell-of-a-trip.json) |
 | One Hell of a Turnabout | 310419 | [310419-one-hell-of-a-turnabout.json](./310419-one-hell-of-a-turnabout.json) |
+| One Hell of a Week | 197840 | [197840-one-hell-of-a-week.json](./197840-one-hell-of-a-week.json) |
 | One helluva day | 55711 | [55711-one-helluva-day.json](./55711-one-helluva-day.json) |
 | One Helluva Reskin for Pizza Tower | 310667 | [310667-one-helluva-reskin-for-pizza-tower.json](./310667-one-helluva-reskin-for-pizza-tower.json) |
 | One Hit Cowboy | 233097 | [233097-one-hit-cowboy.json](./233097-one-hit-cowboy.json) |
