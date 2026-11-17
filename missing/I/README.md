@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wani Hug that Gator! | 197078 | [197078-i-wani-hug-that-gator.json](./197078-i-wani-hug-that-gator.json) |
 | I Wanna Ascend | 368702 | [368702-i-wanna-ascend.json](./368702-i-wanna-ascend.json) |
 | I Wanna Be A Game Dev! | 302083 | [302083-i-wanna-be-a-game-dev.json](./302083-i-wanna-be-a-game-dev.json) |
+| I Wanna Be a Supernova | 427082 | [427082-i-wanna-be-a-supernova.json](./427082-i-wanna-be-a-supernova.json) |
 | I Wanna Be Car | 402635 | [402635-i-wanna-be-car.json](./402635-i-wanna-be-car.json) |
 | I Wanna Be the Boshy | 50286 | [50286-i-wanna-be-the-boshy.json](./50286-i-wanna-be-the-boshy.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
