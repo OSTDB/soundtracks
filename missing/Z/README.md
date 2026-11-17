@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse: The Last Defense | 211147 | [211147-zombie-apocalypse-the-last-defense.json](./211147-zombie-apocalypse-the-last-defense.json) |
 | Zombie Apocalypse: The Last Fortress | 235067 | [235067-zombie-apocalypse-the-last-fortress.json](./235067-zombie-apocalypse-the-last-fortress.json) |
 | Zombie Area! | 100510 | [100510-zombie-area.json](./100510-zombie-area.json) |
+| Zombie Arena | 180331 | [180331-zombie-arena.json](./180331-zombie-arena.json) |
 | Zombie Arena | 220740 | [220740-zombie-arena.json](./220740-zombie-arena.json) |
 | Zombie Arena Survival | 256599 | [256599-zombie-arena-survival.json](./256599-zombie-arena-survival.json) |
 | Zombie Army 4: Dead War - American Sea Captain Character | 155454 | [155454-zombie-army-4-dead-war-american-sea-captain-character.json](./155454-zombie-army-4-dead-war-american-sea-captain-character.json) |
