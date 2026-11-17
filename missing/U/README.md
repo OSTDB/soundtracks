@@ -2778,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unko Warriors | 150178 | [150178-unko-warriors.json](./150178-unko-warriors.json) |
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
 | Unlanded | 133122 | [133122-unlanded.json](./133122-unlanded.json) |
+| Unlasting Horror | 29243 | [29243-unlasting-horror.json](./29243-unlasting-horror.json) |
 | Unleash | 398974 | [398974-unleash.json](./398974-unleash.json) |
 | Unleash | 72340 | [72340-unleash.json](./72340-unleash.json) |
 | Unleash Hell | 119643 | [119643-unleash-hell.json](./119643-unleash-hell.json) |
@@ -4040,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia, an Essay | 139554 | [139554-utopia-an-essay.json](./139554-utopia-an-essay.json) |
 | Utopia: Birth of The Heroes | 388394 | [388394-utopia-birth-of-the-heroes.json](./388394-utopia-birth-of-the-heroes.json) |
 | Utopia: Origin | 182176 | [182176-utopia-origin.json](./182176-utopia-origin.json) |
+| Utopia: The New Worlds | 14642 | [14642-utopia-the-new-worlds.json](./14642-utopia-the-new-worlds.json) |
 | Utopian Mining | 408744 | [408744-utopian-mining.json](./408744-utopian-mining.json) |
 | Utopias: Navigating Without Coordinates | 132635 | [132635-utopias-navigating-without-coordinates.json](./132635-utopias-navigating-without-coordinates.json) |
 | Utopos | 156635 | [156635-utopos.json](./156635-utopos.json) |
