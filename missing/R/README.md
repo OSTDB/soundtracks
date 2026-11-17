@@ -11039,6 +11039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocks 'n' Diamonds | 80290 | [80290-rocks-n-diamonds.json](./80290-rocks-n-diamonds.json) |
 | Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
 | Rocks and Rockets | 68196 | [68196-rocks-and-rockets.json](./68196-rocks-and-rockets.json) |
+| Rocks in Space | 429495 | [429495-rocks-in-space.json](./429495-rocks-in-space.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocks Tools Hordes | 391009 | [391009-rocks-tools-hordes.json](./391009-rocks-tools-hordes.json) |
