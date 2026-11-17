@@ -12561,6 +12561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch | 403990 | [403990-clutch.json](./403990-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutch Hitter | 369247 | [369247-clutch-hitter.json](./369247-clutch-hitter.json) |
+| Clutch Hitter | 39902 | [39902-clutch-hitter.json](./39902-clutch-hitter.json) |
 | Clutch Hitter GG2SMS | 369508 | [369508-clutch-hitter-gg2sms.json](./369508-clutch-hitter-gg2sms.json) |
 | Clutch-Master | 303420 | [303420-clutch-master.json](./303420-clutch-master.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
