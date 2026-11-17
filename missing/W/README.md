@@ -5775,7 +5775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Biker Boys | 401220 | [401220-wild-biker-boys.json](./401220-wild-biker-boys.json) |
 | Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
 | Wild Blood | 18875 | [18875-wild-blood.json](./18875-wild-blood.json) |
-| Wild Blue Skies | 335296 | [335296-wild-blue-skies.json](./335296-wild-blue-skies.json) |
 | Wild Boar Digging | 423642 | [423642-wild-boar-digging.json](./423642-wild-boar-digging.json) |
 | Wild Boar Survival | 334373 | [334373-wild-boar-survival.json](./334373-wild-boar-survival.json) |
 | Wild Boater | 254983 | [254983-wild-boater.json](./254983-wild-boater.json) |
