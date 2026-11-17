@@ -8852,6 +8852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyctophobia: Fear the Dark | 285444 | [285444-nyctophobia-fear-the-dark.json](./285444-nyctophobia-fear-the-dark.json) |
 | NyctoType | 368797 | [368797-nyctotype.json](./368797-nyctotype.json) |
 | Nyet | 94355 | [94355-nyet.json](./94355-nyet.json) |
+| Nyet 3: Revenge of the Mutant Stones | 18631 | [18631-nyet-3-revenge-of-the-mutant-stones.json](./18631-nyet-3-revenge-of-the-mutant-stones.json) |
 | Nyghtmare: The Ninth King | 300969 | [300969-nyghtmare-the-ninth-king.json](./300969-nyghtmare-the-ninth-king.json) |
 | Nyheim | 30113 | [30113-nyheim.json](./30113-nyheim.json) |
 | Nyjah Huston: #Skatelife | 105907 | [105907-nyjah-huston-skatelife.json](./105907-nyjah-huston-skatelife.json) |
