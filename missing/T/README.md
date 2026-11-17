@@ -7731,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Burning Wheel | 109099 | [109099-the-burning-wheel.json](./109099-the-burning-wheel.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Burrito Quest | 215808 | [215808-the-burrito-quest.json](./215808-the-burrito-quest.json) |
+| The Burrow Massacre | 428246 | [428246-the-burrow-massacre.json](./428246-the-burrow-massacre.json) |
 | The Burst | 253186 | [253186-the-burst.json](./253186-the-burst.json) |
 | The Burton Equation | 325167 | [325167-the-burton-equation.json](./325167-the-burton-equation.json) |
 | The Bus | 143887 | [143887-the-bus.json](./143887-the-bus.json) |
@@ -26191,6 +26192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin Reporter: Cigars of the Pharaoh - Limited Edition | 242368 | [242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json](./242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
+| Tintle's Great Colorful Adventure | 428294 | [428294-tintles-great-colorful-adventure.json](./428294-tintles-great-colorful-adventure.json) |
 | Tiny | 196410 | [196410-tiny.json](./196410-tiny.json) |
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
 | Tiny & Big: Up that Mountain | 184167 | [184167-tiny-and-big-up-that-mountain.json](./184167-tiny-and-big-up-that-mountain.json) |
@@ -28643,6 +28645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
 | Top Down Racer | 172848 | [172848-top-down-racer.json](./172848-top-down-racer.json) |
+| Top Down Rally Racing | 428292 | [428292-top-down-rally-racing.json](./428292-top-down-rally-racing.json) |
 | Top Down Survivor | 111946 | [111946-top-down-survivor.json](./111946-top-down-survivor.json) |
 | Top Down Zombies | 214027 | [214027-top-down-zombies.json](./214027-top-down-zombies.json) |
 | Top Driver | 336225 | [336225-top-driver.json](./336225-top-driver.json) |
@@ -29535,6 +29538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch! Go-Stop DS | 269710 | [269710-touch-go-stop-ds.json](./269710-touch-go-stop-ds.json) |
 | TouchBrickout | 90422 | [90422-touchbrickout.json](./90422-touchbrickout.json) |
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
+| TouchDown | 428234 | [428234-touchdown.json](./428234-touchdown.json) |
 | Touchdown Fever II | 293316 | [293316-touchdown-fever-ii.json](./293316-touchdown-fever-ii.json) |
 | Touchdown Football | 12345 | [12345-touchdown-football.json](./12345-touchdown-football.json) |
 | Touchdown Football | 245601 | [245601-touchdown-football.json](./245601-touchdown-football.json) |
@@ -34872,6 +34876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triogram | 421187 | [421187-triogram.json](./421187-triogram.json) |
 | Trion | 292039 | [292039-trion.json](./292039-trion.json) |
 | Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
+| Trionfi | 428278 | [428278-trionfi.json](./428278-trionfi.json) |
 | Trionix | 91287 | [91287-trionix.json](./91287-trionix.json) |
 | Triopticon | 284281 | [284281-triopticon.json](./284281-triopticon.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
