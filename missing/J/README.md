@@ -4206,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
 | Junkland Jam | 92097 | [92097-junkland-jam.json](./92097-junkland-jam.json) |
 | Junklands | 284897 | [284897-junklands.json](./284897-junklands.json) |
+| Junkman Junior | 93237 | [93237-junkman-junior.json](./93237-junkman-junior.json) |
 | Junkman Simulator | 153971 | [153971-junkman-simulator.json](./153971-junkman-simulator.json) |
 | JunkMetal | 283818 | [283818-junkmetal.json](./283818-junkmetal.json) |
 | Junko | 286124 | [286124-junko.json](./286124-junko.json) |
