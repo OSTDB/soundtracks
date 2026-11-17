@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
 | A Walk Along the Wall | 81955 | [81955-a-walk-along-the-wall.json](./81955-a-walk-along-the-wall.json) |
+| A Walk Among the Wild Garlic | 141916 | [141916-a-walk-among-the-wild-garlic.json](./141916-a-walk-among-the-wild-garlic.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Dark | 16646 | [16646-a-walk-in-the-dark.json](./16646-a-walk-in-the-dark.json) |
 | A Walk in the Night | 372244 | [372244-a-walk-in-the-night.json](./372244-a-walk-in-the-night.json) |
@@ -4724,7 +4725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial_Knight's DropShot | 342901 | [342901-aerial-knights-dropshot.json](./342901-aerial-knights-dropshot.json) |
 | Aerial_Knight's MrFreezy | 410070 | [410070-aerial-knights-mrfreezy.json](./410070-aerial-knights-mrfreezy.json) |
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
-| Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | AerialDrop | 23326 | [23326-aerialdrop.json](./23326-aerialdrop.json) |
 | Aerie: Spirit of the Forest | 293943 | [293943-aerie-spirit-of-the-forest.json](./293943-aerie-spirit-of-the-forest.json) |
 | Aerinde | 197904 | [197904-aerinde.json](./197904-aerinde.json) |
@@ -8078,6 +8078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Front Online | 3711 | [3711-alien-front-online.json](./3711-alien-front-online.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Frontline | 371206 | [371206-alien-frontline.json](./371206-alien-frontline.json) |
+| Alien Function | 141913 | [141913-alien-function.json](./141913-alien-function.json) |
 | Alien Fury | 337812 | [337812-alien-fury.json](./337812-alien-fury.json) |
 | Alien Galaxy Clicker | 58255 | [58255-alien-galaxy-clicker.json](./58255-alien-galaxy-clicker.json) |
 | Alien Garden | 23495 | [23495-alien-garden.json](./23495-alien-garden.json) |
@@ -8486,6 +8487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
 | Alive Alphabet: Letter Tracing | 106938 | [106938-alive-alphabet-letter-tracing.json](./106938-alive-alphabet-letter-tracing.json) |
 | Alive Arrow | 166386 | [166386-alive-arrow.json](./166386-alive-arrow.json) |
+| Alive Hunter | 143799 | [143799-alive-hunter.json](./143799-alive-hunter.json) |
 | Alive Paint | 237102 | [237102-alive-paint.json](./237102-alive-paint.json) |
 | Alive Sharks | 70285 | [70285-alive-sharks.json](./70285-alive-sharks.json) |
 | Alive: New Journey | 28371 | [28371-alive-new-journey.json](./28371-alive-new-journey.json) |
