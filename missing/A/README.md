@@ -17602,6 +17602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asmodeus | 261748 | [261748-asmodeus.json](./261748-asmodeus.json) |
 | Asmodeus: Tajemný kraj Ruthaniolu | 391356 | [391356-asmodeus-tajemny-kraj-ruthaniolu.json](./391356-asmodeus-tajemny-kraj-ruthaniolu.json) |
 | Asmodeus's Hell: Devil in the Sunshine State | 225753 | [225753-asmodeuss-hell-devil-in-the-sunshine-state.json](./225753-asmodeuss-hell-devil-in-the-sunshine-state.json) |
+| Asmosnos | 428227 | [428227-asmosnos.json](./428227-asmosnos.json) |
 | ASMR Food Experience | 217427 | [217427-asmr-food-experience.json](./217427-asmr-food-experience.json) |
 | ASMR Journey: Animated Jigsaw Puzzle | 162215 | [162215-asmr-journey-animated-jigsaw-puzzle.json](./162215-asmr-journey-animated-jigsaw-puzzle.json) |
 | ASMR Journey: Jigsaw Puzzle | 156232 | [156232-asmr-journey-jigsaw-puzzle.json](./156232-asmr-journey-jigsaw-puzzle.json) |
@@ -19447,6 +19448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas | 324945 | [324945-atlas.json](./324945-atlas.json) |
 | Atlas Ablaze | 283951 | [283951-atlas-ablaze.json](./283951-atlas-ablaze.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
+| Atlas Bird | 428281 | [428281-atlas-bird.json](./428281-atlas-bird.json) |
 | Atlas Brave | 341775 | [341775-atlas-brave.json](./341775-atlas-brave.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
 | Atlas Endgames | 253165 | [253165-atlas-endgames.json](./253165-atlas-endgames.json) |
