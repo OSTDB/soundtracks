@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2019: Anniversary Edition | 134217 | [134217-f1-2019-anniversary-edition.json](./134217-f1-2019-anniversary-edition.json) |
 | F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
 | F1 2020 | 132205 | [132205-f1-2020.json](./132205-f1-2020.json) |
+| F1 2020: Deluxe Schumacher Edition | 135961 | [135961-f1-2020-deluxe-schumacher-edition.json](./135961-f1-2020-deluxe-schumacher-edition.json) |
 | F1 2020: Seventy Edition | 134109 | [134109-f1-2020-seventy-edition.json](./134109-f1-2020-seventy-edition.json) |
 | F1 2021 | 145838 | [145838-f1-2021.json](./145838-f1-2021.json) |
 | F1 2021: Deluxe Edition | 154715 | [154715-f1-2021-deluxe-edition.json](./154715-f1-2021-deluxe-edition.json) |
@@ -6215,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
 | Find Match Icons | 174044 | [174044-find-match-icons.json](./174044-find-match-icons.json) |
 | Find Matt's Cats | 269974 | [269974-find-matts-cats.json](./269974-find-matts-cats.json) |
+| Find Me | 135917 | [135917-find-me.json](./135917-find-me.json) |
 | Find Me | 309418 | [309418-find-me.json](./309418-find-me.json) |
 | Find Me | 365427 | [365427-find-me.json](./365427-find-me.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
@@ -9430,6 +9432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flotilla | 8396 | [8396-flotilla.json](./8396-flotilla.json) |
 | Flotilla 2 | 99064 | [99064-flotilla-2.json](./99064-flotilla-2.json) |
 | Flotilla WWII | 36698 | [36698-flotilla-wwii.json](./36698-flotilla-wwii.json) |
+| Flotsam | 135944 | [135944-flotsam.json](./135944-flotsam.json) |
 | Flotsam | 222633 | [222633-flotsam.json](./222633-flotsam.json) |
 | Flotsam | 74527 | [74527-flotsam.json](./74527-flotsam.json) |
 | Flotsam and Jetsam Potion Commotion | 246522 | [246522-flotsam-and-jetsam-potion-commotion.json](./246522-flotsam-and-jetsam-potion-commotion.json) |
@@ -10996,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forefront | 335125 | [335125-forefront.json](./335125-forefront.json) |
 | Forehead Chip | 257939 | [257939-forehead-chip.json](./257939-forehead-chip.json) |
 | Foreign | 123837 | [123837-foreign.json](./123837-foreign.json) |
+| Foreign Affairs | 138280 | [138280-foreign-affairs.json](./138280-foreign-affairs.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Foreign Dreams | 191982 | [191982-foreign-dreams.json](./191982-foreign-dreams.json) |
@@ -11343,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Castle | 113891 | [113891-forgotten-castle.json](./113891-forgotten-castle.json) |
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
 | Forgotten Chambers | 29978 | [29978-forgotten-chambers.json](./29978-forgotten-chambers.json) |
+| Forgotten Depths | 135946 | [135946-forgotten-depths.json](./135946-forgotten-depths.json) |
 | Forgotten Depths | 381034 | [381034-forgotten-depths.json](./381034-forgotten-depths.json) |
 | Forgotten Depths | 401982 | [401982-forgotten-depths.json](./401982-forgotten-depths.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
@@ -11957,6 +11962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Cuddle Buns Pack | 333587 | [333587-fortnite-cuddle-buns-pack.json](./333587-fortnite-cuddle-buns-pack.json) |
 | Fortnite: Dark Reflections Pack | 225374 | [225374-fortnite-dark-reflections-pack.json](./225374-fortnite-dark-reflections-pack.json) |
 | Fortnite: Darkest Grumblings Pack | 331962 | [331962-fortnite-darkest-grumblings-pack.json](./331962-fortnite-darkest-grumblings-pack.json) |
+| Fortnite: Darkfire Bundle | 135967 | [135967-fortnite-darkfire-bundle.json](./135967-fortnite-darkfire-bundle.json) |
 | Fortnite: Deep Freeze Bundle | 110839 | [110839-fortnite-deep-freeze-bundle.json](./110839-fortnite-deep-freeze-bundle.json) |
 | Fortnite: Deluxe Founder's Pack | 90660 | [90660-fortnite-deluxe-founders-pack.json](./90660-fortnite-deluxe-founders-pack.json) |
 | Fortnite: Diamond Diva Pack | 254667 | [254667-fortnite-diamond-diva-pack.json](./254667-fortnite-diamond-diva-pack.json) |
@@ -14877,6 +14883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck You Witch | 293818 | [293818-fuck-you-witch.json](./293818-fuck-you-witch.json) |
 | Fuck's Quest II | 406475 | [406475-fucks-quest-ii.json](./406475-fucks-quest-ii.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
+| Fucker Gamer Scum Get Stabbed | 135914 | [135914-fucker-gamer-scum-get-stabbed.json](./135914-fucker-gamer-scum-get-stabbed.json) |
 | Fucking Hell | 204026 | [204026-fucking-hell.json](./204026-fucking-hell.json) |
 | Fucking Hostile | 271965 | [271965-fucking-hostile.json](./271965-fucking-hostile.json) |
 | Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
