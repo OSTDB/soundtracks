@@ -3096,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Quiz | 223275 | [223275-party-quiz.json](./223275-party-quiz.json) |
 | Party Quiz Mega Q | 45611 | [45611-party-quiz-mega-q.json](./45611-party-quiz-mega-q.json) |
 | Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
+| Party Rush!! | 188701 | [188701-party-rush.json](./188701-party-rush.json) |
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Shift | 236454 | [236454-party-shift.json](./236454-party-shift.json) |
@@ -20203,6 +20204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrtopia | 413852 | [413852-purrtopia.json](./413852-purrtopia.json) |
 | Purrvivors | 409174 | [409174-purrvivors.json](./409174-purrvivors.json) |
 | Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
+| Purry Furry Adventurry | 188695 | [188695-purry-furry-adventurry.json](./188695-purry-furry-adventurry.json) |
 | Pursuer | 115577 | [115577-pursuer.json](./115577-pursuer.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit | 110850 | [110850-pursuit.json](./110850-pursuit.json) |
@@ -20261,6 +20263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the Ball | 277645 | [277645-push-the-ball.json](./277645-push-the-ball.json) |
 | Push the Blocks | 207625 | [207625-push-the-blocks.json](./207625-push-the-blocks.json) |
 | Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
+| Push the Box | 188712 | [188712-push-the-box.json](./188712-push-the-box.json) |
 | Push the Box | 247075 | [247075-push-the-box.json](./247075-push-the-box.json) |
 | Push the Box 3D | 167784 | [167784-push-the-box-3d.json](./167784-push-the-box-3d.json) |
 | Push the Button to Win | 342908 | [342908-push-the-button-to-win.json](./342908-push-the-button-to-win.json) |
