@@ -1210,7 +1210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umai | 128681 | [128681-umai.json](./128681-umai.json) |
-| Umami | 345582 | [345582-umami.json](./345582-umami.json) |
 | Umami Grove | 152645 | [152645-umami-grove.json](./152645-umami-grove.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | Umami Island | 377201 | [377201-umami-island.json](./377201-umami-island.json) |
@@ -1805,7 +1804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Cover | 279393 | [279393-under-cover.json](./279393-under-cover.json) |
 | Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
-| Under Defeat | 321604 | [321604-under-defeat.json](./321604-under-defeat.json) |
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
@@ -1832,7 +1830,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
 | Under Observation | 227871 | [227871-under-observation.json](./227871-under-observation.json) |
 | Under One Wing | 114811 | [114811-under-one-wing.json](./114811-under-one-wing.json) |
-| Under Par Golf Architect | 334365 | [334365-under-par-golf-architect.json](./334365-under-par-golf-architect.json) |
 | Under Party | 127021 | [127021-under-party.json](./127021-under-party.json) |
 | Under Pressure | 206623 | [206623-under-pressure.json](./206623-under-pressure.json) |
 | Under Pressure | 267787 | [267787-under-pressure.json](./267787-under-pressure.json) |
@@ -3114,7 +3111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unscripted | 223383 | [223383-unscripted.json](./223383-unscripted.json) |
 | Unscripted Fate | 295210 | [295210-unscripted-fate.json](./295210-unscripted-fate.json) |
 | Unseal | 404472 | [404472-unseal.json](./404472-unseal.json) |
-| Unsealed: The Mare | 384922 | [384922-unsealed-the-mare.json](./384922-unsealed-the-mare.json) |
 | Unsealed: Vigil | 414948 | [414948-unsealed-vigil.json](./414948-unsealed-vigil.json) |
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unseen | 165918 | [165918-unseen.json](./165918-unseen.json) |
