@@ -4085,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
 | Battle Bound | 11944 | [11944-battle-bound.json](./11944-battle-bound.json) |
 | Battle Bows | 253192 | [253192-battle-bows.json](./253192-battle-bows.json) |
+| Battle Box | 115121 | [115121-battle-box.json](./115121-battle-box.json) |
 | Battle Boys | 419073 | [419073-battle-boys.json](./419073-battle-boys.json) |
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
@@ -5361,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be a Poker Champion! Texas Hold'em | 148102 | [148102-be-a-poker-champion-texas-holdem.json](./148102-be-a-poker-champion-texas-holdem.json) |
 | Be A Rock | 245356 | [245356-be-a-rock.json](./245356-be-a-rock.json) |
+| Be an Archer | 115117 | [115117-be-an-archer.json](./115117-be-an-archer.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
 | Be dog do borks | 181606 | [181606-be-dog-do-borks.json](./181606-be-dog-do-borks.json) |
 | Be Fly | 338229 | [338229-be-fly.json](./338229-be-fly.json) |
@@ -7631,7 +7633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Friend | 133110 | [133110-best-friend.json](./133110-best-friend.json) |
 | Best Friend | 157856 | [157856-best-friend.json](./157856-best-friend.json) |
 | Best Friend | 215489 | [215489-best-friend.json](./215489-best-friend.json) |
-| Best Friend Forever | 121749 | [121749-best-friend-forever.json](./121749-best-friend-forever.json) |
 | Best Friends | 313956 | [313956-best-friends.json](./313956-best-friends.json) |
 | Best Friends | 94526 | [94526-best-friends.json](./94526-best-friends.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
@@ -20539,6 +20540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrows: A Paradise Beyond | 237414 | [237414-burrows-a-paradise-beyond.json](./237414-burrows-a-paradise-beyond.json) |
 | Burst | 36489 | [36489-burst.json](./36489-burst.json) |
 | Burst | 380044 | [380044-burst.json](./380044-burst.json) |
+| Burst Drive | 115101 | [115101-burst-drive.json](./115101-burst-drive.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
 | Burst Into | 95278 | [95278-burst-into.json](./95278-burst-into.json) |
