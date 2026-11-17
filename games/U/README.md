@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27355d409512f9e6d2630e39f46" width="60" /> | [UFO Robot Grendizer: The Feast of the Wolves](https://ostdb.net/games/ufo-robot-grendizer-the-feast-of-the-wolves) | **UFO Robot Grendizer, The Feast of the Wolves (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1otiCRejVmEyIr9LEDVL6O) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/b3/50/43/b350434b-80b7-833d-6de0-8b71ca4a470d/191061044055.jpg/600x600bb.jpg" width="60" /> | [Ultimate Chicken Horse](https://ostdb.net/games/ultimate-chicken-horse) | **Ultimate Chicken Horse (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6aZJusKpK3tdiUJYaTqbv0) · [Apple Music](https://music.apple.com/us/album/ultimate-chicken-horse-original-soundtrack/1175097476) · [Album](https://album.link/i/1175097476) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e37ff636db92ce6a3f5ce4b" width="60" /> | [Ultros](https://ostdb.net/games/ultros) | **Ultros (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0JQy1h1Xmx4zuo3s6I2asL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27324b0e205ca5d10a1f41aaba2" width="60" /> | [Umurangi Generation](https://ostdb.net/games/umurangi-generation) | **Umurangi Generation Official Soundtrack** · [Spotify](https://open.spotify.com/album/02iIjzyhAlM7b5MlnuUdtb) |
