@@ -3476,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
 | Carrot Commotion | 336836 | [336836-carrot-commotion.json](./336836-carrot-commotion.json) |
+| Carrot Count Sheep | 425949 | [425949-carrot-count-sheep.json](./425949-carrot-count-sheep.json) |
 | Carrot Crusade: Mimika's Reckoning | 379312 | [379312-carrot-crusade-mimikas-reckoning.json](./379312-carrot-crusade-mimikas-reckoning.json) |
 | Carrot Fantasy | 279200 | [279200-carrot-fantasy.json](./279200-carrot-fantasy.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
@@ -5133,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catching the Train | 146005 | [146005-catching-the-train.json](./146005-catching-the-train.json) |
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
 | CatchMaker | 380958 | [380958-catchmaker.json](./380958-catchmaker.json) |
+| CatchTail | 425950 | [425950-catchtail.json](./425950-catchtail.json) |
 | Catchup | 250153 | [250153-catchup.json](./250153-catchup.json) |
 | CatchWord | 71420 | [71420-catchword.json](./71420-catchword.json) |
 | Catchy Cheese | 240105 | [240105-catchy-cheese.json](./240105-catchy-cheese.json) |
@@ -20309,6 +20311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc's World 2 | 89170 | [89170-crocs-world-2.json](./89170-crocs-world-2.json) |
 | Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
 | Croc's World 4 | 284758 | [284758-crocs-world-4.json](./284758-crocs-world-4.json) |
+| Croc's World 5 | 425955 | [425955-crocs-world-5.json](./425955-crocs-world-5.json) |
 | Croc's World Construction Kit (Level Maker) | 88729 | [88729-crocs-world-construction-kit-level-maker.json](./88729-crocs-world-construction-kit-level-maker.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | CrocApoca!! Crocodile maiden at the End of the World | 133157 | [133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json](./133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json) |
