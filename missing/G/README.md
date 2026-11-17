@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Saloon Simulator | 370376 | [370376-game-saloon-simulator.json](./370376-game-saloon-simulator.json) |
 | Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
+| Game Shelver 99: I Must Organize My Steam Library and Defend It Against Pirates With a Shotgun | 422308 | [422308-game-shelver-99-i-must-organize-my-steam-library-and-defend-it-against-pirates-with-a-shotgun.json](./422308-game-shelver-99-i-must-organize-my-steam-library-and-defend-it-against-pirates-with-a-shotgun.json) |
 | Game Shop Panic | 413297 | [413297-game-shop-panic.json](./413297-game-shop-panic.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Show Wizard | 70167 | [70167-game-show-wizard.json](./70167-game-show-wizard.json) |
@@ -4966,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilded Gears | 307891 | [307891-gilded-gears.json](./307891-gilded-gears.json) |
 | Gilded Rails | 111572 | [111572-gilded-rails.json](./111572-gilded-rails.json) |
 | Gilded Shadows | 182758 | [182758-gilded-shadows.json](./182758-gilded-shadows.json) |
+| Gildoria: Organize a Dragon's Hoard | 422309 | [422309-gildoria-organize-a-dragons-hoard.json](./422309-gildoria-organize-a-dragons-hoard.json) |
 | Gilgalad | 92638 | [92638-gilgalad.json](./92638-gilgalad.json) |
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
 | GilGul | 339990 | [339990-gilgul.json](./339990-gilgul.json) |
