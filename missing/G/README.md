@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Roses: Summerset | 244917 | [244917-garden-of-roses-summerset.json](./244917-garden-of-roses-summerset.json) |
 | Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
+| Garden of Strife | 180720 | [180720-garden-of-strife.json](./180720-garden-of-strife.json) |
 | Garden of Táozi | 305693 | [305693-garden-of-taozi.json](./305693-garden-of-taozi.json) |
 | Garden of the Atom | 384819 | [384819-garden-of-the-atom.json](./384819-garden-of-the-atom.json) |
 | Garden of the Greek Goddesses: Aphrodite, Artemis & Athena Love Story. | 370809 | [370809-garden-of-the-greek-goddesses-aphrodite-artemis-and-athena-love-story.json](./370809-garden-of-the-greek-goddesses-aphrodite-artemis-and-athena-love-story.json) |
@@ -3065,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemfall | 420027 | [420027-gemfall.json](./420027-gemfall.json) |
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
 | Gemibears | 233997 | [233997-gemibears.json](./233997-gemibears.json) |
+| Gemina Umbra | 180733 | [180733-gemina-umbra.json](./180733-gemina-umbra.json) |
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
 | Gemini | 200761 | [200761-gemini.json](./200761-gemini.json) |
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
@@ -12927,6 +12929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gust of Wind | 203468 | [203468-gust-of-wind.json](./203468-gust-of-wind.json) |
 | Gustav Vasa: Adventure in the Dales | 159487 | [159487-gustav-vasa-adventure-in-the-dales.json](./159487-gustav-vasa-adventure-in-the-dales.json) |
 | Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
+| Gustavo Go! | 180744 | [180744-gustavo-go.json](./180744-gustavo-go.json) |
 | Gustavo Kingdom Rebirth | 105611 | [105611-gustavo-kingdom-rebirth.json](./105611-gustavo-kingdom-rebirth.json) |
 | Gut Eater | 350956 | [350956-gut-eater.json](./350956-gut-eater.json) |
 | Gut Fear Boundary | 393377 | [393377-gut-fear-boundary.json](./393377-gut-fear-boundary.json) |
