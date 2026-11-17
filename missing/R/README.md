@@ -7090,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroTime Playdate | 273675 | [273675-retrotime-playdate.json](./273675-retrotime-playdate.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
 | Retrovirus | 15418 | [15418-retrovirus.json](./15418-retrovirus.json) |
+| RetroWar | 107275 | [107275-retrowar.json](./107275-retrowar.json) |
 | Retrowave | 130243 | [130243-retrowave.json](./130243-retrowave.json) |
 | Retrowave '84 | 214180 | [214180-retrowave-84.json](./214180-retrowave-84.json) |
 | Retrowave 2 | 340694 | [340694-retrowave-2.json](./340694-retrowave-2.json) |
@@ -8129,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddick Bowe Boxing | 365637 | [365637-riddick-bowe-boxing.json](./365637-riddick-bowe-boxing.json) |
 | Riddick Bowe Boxing | 49024 | [49024-riddick-bowe-boxing.json](./49024-riddick-bowe-boxing.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
+| Riddle Clicker | 107310 | [107310-riddle-clicker.json](./107310-riddle-clicker.json) |
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
 | Riddle fidget spinner | 297649 | [297649-riddle-fidget-spinner.json](./297649-riddle-fidget-spinner.json) |
 | Riddle for your Life | 253521 | [253521-riddle-for-your-life.json](./253521-riddle-for-your-life.json) |
@@ -9614,6 +9616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Riot 4WD | 39946 | [39946-road-riot-4wd.json](./39946-road-riot-4wd.json) |
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
 | Road Riot's Revenge | 405263 | [405263-road-riots-revenge.json](./405263-road-riots-revenge.json) |
+| Road Roller | 108525 | [108525-road-roller.json](./108525-road-roller.json) |
 | Road Runner | 277205 | [277205-road-runner.json](./277205-road-runner.json) |
 | Road Runner | 277206 | [277206-road-runner.json](./277206-road-runner.json) |
 | Road Runner | 277208 | [277208-road-runner.json](./277208-road-runner.json) |
