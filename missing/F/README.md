@@ -11475,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
 | Fork Truck Challenge | 35140 | [35140-fork-truck-challenge.json](./35140-fork-truck-challenge.json) |
 | Fork-U | 319255 | [319255-fork-u.json](./319255-fork-u.json) |
+| Forkdrift | 165089 | [165089-forkdrift.json](./165089-forkdrift.json) |
 | Forking Hell | 133906 | [133906-forking-hell.json](./133906-forking-hell.json) |
 | ForkJump | 156951 | [156951-forkjump.json](./156951-forkjump.json) |
 | Forklift & Box | 164262 | [164262-forklift-and-box.json](./164262-forklift-and-box.json) |
@@ -12718,6 +12719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracture | 273730 | [273730-fracture.json](./273730-fracture.json) |
 | Fracture | 374888 | [374888-fracture.json](./374888-fracture.json) |
 | Fracture | 6996 | [6996-fracture.json](./6996-fracture.json) |
+| Fracture Hell | 165088 | [165088-fracture-hell.json](./165088-fracture-hell.json) |
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
 | Fracture the Flag | 26551 | [26551-fracture-the-flag.json](./26551-fracture-the-flag.json) |
