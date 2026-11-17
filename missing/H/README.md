@@ -11341,6 +11341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Springs Hotel: Whisper Of Winter | 310013 | [310013-hope-springs-hotel-whisper-of-winter.json](./310013-hope-springs-hotel-whisper-of-winter.json) |
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
 | Hope Town | 359108 | [359108-hope-town.json](./359108-hope-town.json) |
+| Hope Trigger | 172797 | [172797-hope-trigger.json](./172797-hope-trigger.json) |
 | Hope VR: Emotional Intelligence Assistant | 169926 | [169926-hope-vr-emotional-intelligence-assistant.json](./169926-hope-vr-emotional-intelligence-assistant.json) |
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
 | Hope with Island | 283094 | [283094-hope-with-island.json](./283094-hope-with-island.json) |
