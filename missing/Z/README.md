@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Cubes | 111169 | [111169-zombie-cubes.json](./111169-zombie-cubes.json) |
 | Zombie Cubes | 231997 | [231997-zombie-cubes.json](./231997-zombie-cubes.json) |
 | Zombie Cure Lab | 165153 | [165153-zombie-cure-lab.json](./165153-zombie-cure-lab.json) |
+| Zombie Daisuki | 183625 | [183625-zombie-daisuki.json](./183625-zombie-daisuki.json) |
 | Zombie Dash | 221551 | [221551-zombie-dash.json](./221551-zombie-dash.json) |
 | Zombie Dash | 328390 | [328390-zombie-dash.json](./328390-zombie-dash.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
 | Zombie Is Planting | 180976 | [180976-zombie-is-planting.json](./180976-zombie-is-planting.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
+| Zombie Island | 182405 | [182405-zombie-island.json](./182405-zombie-island.json) |
 | Zombie Island | 372065 | [372065-zombie-island.json](./372065-zombie-island.json) |
 | Zombie Island Paradise | 298971 | [298971-zombie-island-paradise.json](./298971-zombie-island-paradise.json) |
 | Zombie Isle | 343474 | [343474-zombie-isle.json](./343474-zombie-isle.json) |
