@@ -3141,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
 | Haunted House Builder | 270514 | [270514-haunted-house-builder.json](./270514-haunted-house-builder.json) |
 | Haunted House Escape | 192543 | [192543-haunted-house-escape.json](./192543-haunted-house-escape.json) |
+| Haunted House II 3D | 46905 | [46905-haunted-house-ii-3d.json](./46905-haunted-house-ii-3d.json) |
 | Haunted House Mobile | 86182 | [86182-haunted-house-mobile.json](./86182-haunted-house-mobile.json) |
 | Haunted House Mysteries | 122103 | [122103-haunted-house-mysteries.json](./122103-haunted-house-mysteries.json) |
 | Haunted House of Rock | 338149 | [338149-haunted-house-of-rock.json](./338149-haunted-house-of-rock.json) |
