@@ -6570,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Comes the Swarm | 361846 | [361846-here-comes-the-swarm.json](./361846-here-comes-the-swarm.json) |
 | Here Comes the Wiji Waji | 197622 | [197622-here-comes-the-wiji-waji.json](./197622-here-comes-the-wiji-waji.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
+| Here Goes Muffin | 143774 | [143774-here-goes-muffin.json](./143774-here-goes-muffin.json) |
 | Here I Come | 157279 | [157279-here-i-come.json](./157279-here-i-come.json) |
 | Here Is Where I Carve My Heart | 272053 | [272053-here-is-where-i-carve-my-heart.json](./272053-here-is-where-i-carve-my-heart.json) |
 | Here Nya | 108054 | [108054-here-nya.json](./108054-here-nya.json) |
@@ -11390,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoping Forest | 236896 | [236896-hoping-forest.json](./236896-hoping-forest.json) |
 | Hoping This Finds You Well | 288091 | [288091-hoping-this-finds-you-well.json](./288091-hoping-this-finds-you-well.json) |
 | Hopkins FBI | 93389 | [93389-hopkins-fbi.json](./93389-hopkins-fbi.json) |
+| Hoplegs | 141904 | [141904-hoplegs.json](./141904-hoplegs.json) |
 | Hoples | 152504 | [152504-hoples.json](./152504-hoples.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
 | Hoplite | 30019 | [30019-hoplite.json](./30019-hoplite.json) |
@@ -13724,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt in Town | 137840 | [137840-hunt-in-town.json](./137840-hunt-in-town.json) |
 | Hunt Me | 305972 | [305972-hunt-me.json](./305972-hunt-me.json) |
+| Hunt N Cloak | 141908 | [141908-hunt-n-cloak.json](./141908-hunt-n-cloak.json) |
 | Hunt of the Reptorians | 211344 | [211344-hunt-of-the-reptorians.json](./211344-hunt-of-the-reptorians.json) |
 | Hunt or Die! | 389506 | [389506-hunt-or-die.json](./389506-hunt-or-die.json) |
 | Hunt or Hunted Bundle | 330439 | [330439-hunt-or-hunted-bundle.json](./330439-hunt-or-hunted-bundle.json) |
