@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T10:06:47.917Z",
-  "total_soundtracks": 3735,
+  "generated_at": "2026-11-17T10:16:32.275Z",
+  "total_soundtracks": 3742,
   "games": [
     {
       "igdb_id": 292844,
@@ -5971,6 +5971,20 @@
         {
           "album_name": "Bubble Bobble 4 Friends Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1e1QOxdOcSwyBptAge5xSw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112934,
+      "game_name": "Bubbles the Cat",
+      "game_url": "https://ostdb.net/games/bubbles-the-cat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ccb3f36deb30b2fe47788393",
+      "albums": [
+        {
+          "album_name": "Bubbles The Cat (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4736XFHg9LQrlkBDR1hQzZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19225,6 +19239,20 @@
       ]
     },
     {
+      "igdb_id": 112385,
+      "game_name": "Hotel Sowls",
+      "game_url": "https://ostdb.net/games/hotel-sowls",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cacae1fa1580eb445f99189d",
+      "albums": [
+        {
+          "album_name": "Hotel Sowls (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1CrqD12RasXPQLtWsDJcLI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2126,
       "game_name": "Hotline Miami 2: Wrong Number",
       "game_url": "https://ostdb.net/games/hotline-miami-2-wrong-number",
@@ -20205,6 +20233,20 @@
       ]
     },
     {
+      "igdb_id": 110011,
+      "game_name": "Interstellar Space: Genesis",
+      "game_url": "https://ostdb.net/games/interstellar-space-genesis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e397f8ef7e0ebe100c23839",
+      "albums": [
+        {
+          "album_name": "Interstellar Space: Genesis (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/10G16tBEDWzOS1IT4VG6gD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 36138,
       "game_name": "Into Blue Valley",
       "game_url": "https://ostdb.net/games/into-blue-valley",
@@ -20891,6 +20933,20 @@
         {
           "album_name": "Kao the Kangaroo Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2nT2n4q87Ktp8Kxu5MHwfB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112770,
+      "game_name": "Kaori After Story",
+      "game_url": "https://ostdb.net/games/kaori-after-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27300554534909fc54a4d2a928a",
+      "albums": [
+        {
+          "album_name": "Kaori After Story (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5bU8XNXUdRJZknAbM1FXEg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28379,6 +28435,20 @@
       ]
     },
     {
+      "igdb_id": 111878,
+      "game_name": "Our Lovely Escape",
+      "game_url": "https://ostdb.net/games/our-lovely-escape",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732e203890f1b4054ebc6787b8",
+      "albums": [
+        {
+          "album_name": "Our Lovely Escape (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5aWNuvbrq4cAybLTt09N6K",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9878,
       "game_name": "Out There Somewhere",
       "game_url": "https://ostdb.net/games/out-there-somewhere",
@@ -32975,6 +33045,20 @@
       ]
     },
     {
+      "igdb_id": 109592,
+      "game_name": "Romancing SaGa 3",
+      "game_url": "https://ostdb.net/games/romancing-saga-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736c27691e99df154068a412b6",
+      "albums": [
+        {
+          "album_name": "Romancing SaGa 3 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0sxgBK6HcvObdt5gJpYMKe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 438,
       "game_name": "Rome: Total War",
       "game_url": "https://ostdb.net/games/rome-total-war",
@@ -35109,6 +35193,20 @@
         {
           "album_name": "Skeleton Boomerang (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1k7VWZCmGFsVQwKwWqQktk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113101,
+      "game_name": "Skellboy",
+      "game_url": "https://ostdb.net/games/skellboy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730d0ec5cf1b9bc1091719fc2d",
+      "albums": [
+        {
+          "album_name": "Skellboy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3G1ieYt7rKbFF9HPUWaKe5",
           "apple_music_url": "",
           "album_link_url": ""
         }
