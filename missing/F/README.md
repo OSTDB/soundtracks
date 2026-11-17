@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
 | Faceless | 54586 | [54586-faceless.json](./54586-faceless.json) |
 | Faceless Assassin | 397448 | [397448-faceless-assassin.json](./397448-faceless-assassin.json) |
+| Faceless Date | 418552 | [418552-faceless-date.json](./418552-faceless-date.json) |
 | Faceless: Prologue | 320880 | [320880-faceless-prologue.json](./320880-faceless-prologue.json) |
 | Facemaker | 326621 | [326621-facemaker.json](./326621-facemaker.json) |
 | Facemaker | 40897 | [40897-facemaker.json](./40897-facemaker.json) |
@@ -4858,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Clashers | 242762 | [242762-field-clashers.json](./242762-field-clashers.json) |
 | Field Combat | 206086 | [206086-field-combat.json](./206086-field-combat.json) |
 | Field Combat | 4613 | [4613-field-combat.json](./4613-field-combat.json) |
+| Field Combat 3D | 418181 | [418181-field-combat-3d.json](./418181-field-combat-3d.json) |
 | Field Combat DX | 361327 | [361327-field-combat-dx.json](./361327-field-combat-dx.json) |
 | Field Command | 387908 | [387908-field-command.json](./387908-field-command.json) |
 | Field Commander | 42873 | [42873-field-commander.json](./42873-field-commander.json) |
@@ -15336,6 +15338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funerama | 400090 | [400090-funerama.json](./400090-funerama.json) |
 | Funerary Services Marquez Paz | 197424 | [197424-funerary-services-marquez-paz.json](./197424-funerary-services-marquez-paz.json) |
 | Funereal Funeral Car | 104726 | [104726-funereal-funeral-car.json](./104726-funereal-funeral-car.json) |
+| FunFab | 418145 | [418145-funfab.json](./418145-funfab.json) |
 | Funfair | 32333 | [32333-funfair.json](./32333-funfair.json) |
 | Funfair | 348041 | [348041-funfair.json](./348041-funfair.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
