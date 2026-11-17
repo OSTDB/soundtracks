@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Ball 1 Cup | 59435 | [59435-1-ball-1-cup.json](./59435-1-ball-1-cup.json) |
 | 1 Bit Chaos | 412734 | [412734-1-bit-chaos.json](./412734-1-bit-chaos.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
+| 1 Bit, 2 Bit, 3 Bit, Four. | 178703 | [178703-1-bit-2-bit-3-bit-four.json](./178703-1-bit-2-bit-3-bit-four.json) |
 | 1 Button 2 Language | 401606 | [401606-1-button-2-language.json](./401606-1-button-2-language.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
 | 1 Date Danger | 255815 | [255815-1-date-danger.json](./255815-1-date-danger.json) |
