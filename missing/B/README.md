@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Cat Good Dog Alien Force | 310879 | [310879-bad-cat-good-dog-alien-force.json](./310879-bad-cat-good-dog-alien-force.json) |
 | Bad Cat Sam | 233372 | [233372-bad-cat-sam.json](./233372-bad-cat-sam.json) |
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
+| Bad Cats | 84370 | [84370-bad-cats.json](./84370-bad-cats.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
 | Bad Company | 11932 | [11932-bad-company.json](./11932-bad-company.json) |
@@ -7093,6 +7094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellhop | 284714 | [284714-bellhop.json](./284714-bellhop.json) |
 | Belling Coins | 149441 | [149441-belling-coins.json](./149441-belling-coins.json) |
 | Bellini: The Mad Magician | 91447 | [91447-bellini-the-mad-magician.json](./91447-bellini-the-mad-magician.json) |
+| Bellinis Bikini | 84363 | [84363-bellinis-bikini.json](./84363-bellinis-bikini.json) |
 | Bellocco | 411709 | [411709-bellocco.json](./411709-bellocco.json) |
 | Belloncho Body Inspection | 264657 | [264657-belloncho-body-inspection.json](./264657-belloncho-body-inspection.json) |
 | Bells 'n' Whistles | 283364 | [283364-bells-n-whistles.json](./283364-bells-n-whistles.json) |
@@ -8934,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bille & Trille: Da Fantasien slap løs | 78394 | [78394-bille-and-trille-da-fantasien-slap-l-s.json](./78394-bille-and-trille-da-fantasien-slap-l-s.json) |
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
+| Bille & Trille: Wacky Woods | 84364 | [84364-bille-and-trille-wacky-woods.json](./84364-bille-and-trille-wacky-woods.json) |
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
 | Billiard | 266630 | [266630-billiard.json](./266630-billiard.json) |
 | Billiard | 86266 | [86266-billiard.json](./86266-billiard.json) |
@@ -9589,6 +9592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie King 3 | 40289 | [40289-birdie-king-3.json](./40289-birdie-king-3.json) |
 | Birdie Nest | 277667 | [277667-birdie-nest.json](./277667-birdie-nest.json) |
 | Birdie Putt | 243827 | [243827-birdie-putt.json](./243827-birdie-putt.json) |
+| Birdie Shoot | 84381 | [84381-birdie-shoot.json](./84381-birdie-shoot.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
 | Birdie Wing: Golf Girls' Story | 244074 | [244074-birdie-wing-golf-girls-story.json](./244074-birdie-wing-golf-girls-story.json) |
@@ -19366,6 +19370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugz! | 158823 | [158823-bugz.json](./158823-bugz.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
 | Buhoi Batya | 111594 | [111594-buhoi-batya.json](./111594-buhoi-batya.json) |
+| Buhumi | 84375 | [84375-buhumi.json](./84375-buhumi.json) |
 | Buhumi II | 91581 | [91581-buhumi-ii.json](./91581-buhumi-ii.json) |
 | Buichi Terasawa's Takeru: Letter of the Law | 79537 | [79537-buichi-terasawas-takeru-letter-of-the-law.json](./79537-buichi-terasawas-takeru-letter-of-the-law.json) |
 | Buick PGA Tour Courses | 100136 | [100136-buick-pga-tour-courses.json](./100136-buick-pga-tour-courses.json) |
@@ -20991,6 +20996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzzy Bee | 274854 | [274854-buzzy-bee.json](./274854-buzzy-bee.json) |
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
+| BVE Trainsim | 84390 | [84390-bve-trainsim.json](./84390-bve-trainsim.json) |
 | Bvoid | 91079 | [91079-bvoid.json](./91079-bvoid.json) |
 | BVOVB: Bruising Vengeance of the Vintage Boxer | 55125 | [55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json](./55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json) |
 | Bvrger Van | 105138 | [105138-bvrger-van.json](./105138-bvrger-van.json) |
