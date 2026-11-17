@@ -5589,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlassSmash | 117114 | [117114-glasssmash.json](./117114-glasssmash.json) |
 | GlassSmash 2 | 162438 | [162438-glasssmash-2.json](./162438-glasssmash-2.json) |
 | Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
+| Glasswake | 419294 | [419294-glasswake.json](./419294-glasswake.json) |
 | Glasswinged Ascension | 46484 | [46484-glasswinged-ascension.json](./46484-glasswinged-ascension.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | GLave | 393072 | [393072-glave.json](./393072-glave.json) |
@@ -12626,6 +12627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunKinger Bonanza | 22016 | [22016-gunkinger-bonanza.json](./22016-gunkinger-bonanza.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunkprotocol | 241767 | [241767-gunkprotocol.json](./241767-gunkprotocol.json) |
+| Gunlands | 419289 | [419289-gunlands.json](./419289-gunlands.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlimb | 80115 | [80115-gunlimb.json](./80115-gunlimb.json) |
 | GunLives Shooting | 241808 | [241808-gunlives-shooting.json](./241808-gunlives-shooting.json) |
