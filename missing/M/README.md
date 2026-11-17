@@ -2189,6 +2189,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Fantasy | 104413 | [104413-mahjong-fantasy.json](./104413-mahjong-fantasy.json) |
 | Mahjong Fest: Winterland | 113163 | [113163-mahjong-fest-winterland.json](./113163-mahjong-fest-winterland.json) |
 | Mahjong Fight Club | 79689 | [79689-mahjong-fight-club.json](./79689-mahjong-fight-club.json) |
+| Mahjong Fight Club 2 | 67571 | [67571-mahjong-fight-club-2.json](./67571-mahjong-fight-club-2.json) |
+| Mahjong Fight Club 3 | 67570 | [67570-mahjong-fight-club-3.json](./67570-mahjong-fight-club-3.json) |
+| Mahjong Fight Club 4 | 67569 | [67569-mahjong-fight-club-4.json](./67569-mahjong-fight-club-4.json) |
+| Mahjong Fight Club 5 | 67568 | [67568-mahjong-fight-club-5.json](./67568-mahjong-fight-club-5.json) |
+| Mahjong Fight Club 6 | 67566 | [67566-mahjong-fight-club-6.json](./67566-mahjong-fight-club-6.json) |
+| Mahjong Fight Club 7 | 67567 | [67567-mahjong-fight-club-7.json](./67567-mahjong-fight-club-7.json) |
+| Mahjong Fight Club 7.77 | 67565 | [67565-mahjong-fight-club-7-77.json](./67565-mahjong-fight-club-7-77.json) |
+| Mahjong Fight Club DS: Wi-Fi Taiou | 67564 | [67564-mahjong-fight-club-ds-wi-fi-taiou.json](./67564-mahjong-fight-club-ds-wi-fi-taiou.json) |
 | Mahjong Fight Club SP | 212649 | [212649-mahjong-fight-club-sp.json](./212649-mahjong-fight-club-sp.json) |
 | Mahjong Fight Club Union | 373574 | [373574-mahjong-fight-club-union.json](./373574-mahjong-fight-club-union.json) |
 | Mahjong Fight Club Wii: Wi-Fi Taiou | 125914 | [125914-mahjong-fight-club-wii-wi-fi-taiou.json](./125914-mahjong-fight-club-wii-wi-fi-taiou.json) |
