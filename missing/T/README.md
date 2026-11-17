@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Factory Simulator | 297878 | [297878-tank-factory-simulator.json](./297878-tank-factory-simulator.json) |
 | Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
 | Tank Fighter League 3D | 95521 | [95521-tank-fighter-league-3d.json](./95521-tank-fighter-league-3d.json) |
+| Tank Firing | 156734 | [156734-tank-firing.json](./156734-tank-firing.json) |
 | Tank Force | 39504 | [39504-tank-force.json](./39504-tank-force.json) |
 | Tank Force | 68378 | [68378-tank-force.json](./68378-tank-force.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
@@ -5954,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 3D Gamemaker | 270689 | [270689-the-3d-gamemaker.json](./270689-the-3d-gamemaker.json) |
 | The 3D Machine | 196817 | [196817-the-3d-machine.json](./196817-the-3d-machine.json) |
 | The 3rd Birthday | 7359 | [7359-the-3rd-birthday.json](./7359-the-3rd-birthday.json) |
+| The 3rd Building | 146359 | [146359-the-3rd-building.json](./146359-the-3rd-building.json) |
 | The 3rd Millennium | 109262 | [109262-the-3rd-millennium.json](./109262-the-3rd-millennium.json) |
 | The 3rd Night | 281684 | [281684-the-3rd-night.json](./281684-the-3rd-night.json) |
 | The 4 Masters of Melody | 259767 | [259767-the-4-masters-of-melody.json](./259767-the-4-masters-of-melody.json) |
@@ -8277,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
 | The Cold War Era | 32133 | [32133-the-cold-war-era.json](./32133-the-cold-war-era.json) |
 | The Cold War Era 2 | 132791 | [132791-the-cold-war-era-2.json](./132791-the-cold-war-era-2.json) |
+| The Cold White | 156730 | [156730-the-cold-white.json](./156730-the-cold-white.json) |
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
 | The Colditz Story | 14008 | [14008-the-colditz-story.json](./14008-the-colditz-story.json) |
 | The Collaborative: Automaton #0059 | 124542 | [124542-the-collaborative-automaton-0059.json](./124542-the-collaborative-automaton-0059.json) |
@@ -9625,6 +9628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition | 146166 | [146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json](./146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
+| The Dungeon of Naheulbeuk: The Amulet of Chaos - Ruins of Limis | 152426 | [152426-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ruins-of-limis.json](./152426-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ruins-of-limis.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Ultimate Edition | 159705 | [159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json](./159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json) |
 | The Dungeon Paradox | 114806 | [114806-the-dungeon-paradox.json](./114806-the-dungeon-paradox.json) |
 | The Dungeon Power | 44204 | [44204-the-dungeon-power.json](./44204-the-dungeon-power.json) |
@@ -15386,6 +15390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meridian Under the Heaven: Valhalla | 285311 | [285311-the-meridian-under-the-heaven-valhalla.json](./285311-the-meridian-under-the-heaven-valhalla.json) |
 | The Merlies | 265820 | [265820-the-merlies.json](./265820-the-merlies.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
+| The Mermaid of Zennor | 156736 | [156736-the-mermaid-of-zennor.json](./156736-the-mermaid-of-zennor.json) |
 | The Merry Christmassy Doom Project | 257171 | [257171-the-merry-christmassy-doom-project.json](./257171-the-merry-christmassy-doom-project.json) |
 | The Merry Fairy | 309530 | [309530-the-merry-fairy.json](./309530-the-merry-fairy.json) |
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
@@ -17994,6 +17999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Will Claim Everything | 36051 | [36051-the-sea-will-claim-everything.json](./36051-the-sea-will-claim-everything.json) |
 | The Sea-Demon | 371628 | [371628-the-sea-demon.json](./371628-the-sea-demon.json) |
 | The Seabed's Shining Star | 331181 | [331181-the-seabeds-shining-star.json](./331181-the-seabeds-shining-star.json) |
+| The Seagull | 152444 | [152444-the-seagull.json](./152444-the-seagull.json) |
 | The Seal Hunter | 345555 | [345555-the-seal-hunter.json](./345555-the-seal-hunter.json) |
 | The Seal of Hades | 47536 | [47536-the-seal-of-hades.json](./47536-the-seal-of-hades.json) |
 | The Sealed Ampoule | 139138 | [139138-the-sealed-ampoule.json](./139138-the-sealed-ampoule.json) |
@@ -21618,6 +21624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Youthdrainers | 34701 | [34701-the-youthdrainers.json](./34701-the-youthdrainers.json) |
 | The Yukon Trail | 73782 | [73782-the-yukon-trail.json](./73782-the-yukon-trail.json) |
 | The Z Axis: Continuum | 104794 | [104794-the-z-axis-continuum.json](./104794-the-z-axis-continuum.json) |
+| The Z Land: FPS Survival | 153472 | [153472-the-z-land-fps-survival.json](./153472-the-z-land-fps-survival.json) |
 | The Zachtronics Puzzle Pack | 263588 | [263588-the-zachtronics-puzzle-pack.json](./263588-the-zachtronics-puzzle-pack.json) |
 | The Zachtronics Solitaire Collection | 214973 | [214973-the-zachtronics-solitaire-collection.json](./214973-the-zachtronics-solitaire-collection.json) |
 | The Zebra Z | 233018 | [233018-the-zebra-z.json](./233018-the-zebra-z.json) |
@@ -22106,6 +22113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Coming Zombie Defense | 234460 | [234460-they-are-coming-zombie-defense.json](./234460-they-are-coming-zombie-defense.json) |
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
 | They are Confined | 229758 | [229758-they-are-confined.json](./229758-they-are-confined.json) |
+| They Are Here: Alien Abduction Horror | 152446 | [152446-they-are-here-alien-abduction-horror.json](./152446-they-are-here-alien-abduction-horror.json) |
 | They Are Hundreds | 87954 | [87954-they-are-hundreds.json](./87954-they-are-hundreds.json) |
 | They are in the Trees | 224640 | [224640-they-are-in-the-trees.json](./224640-they-are-in-the-trees.json) |
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
@@ -22212,6 +22220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Bird | 109614 | [109614-thief-bird.json](./109614-thief-bird.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief Collection | 53796 | [53796-thief-collection.json](./53796-thief-collection.json) |
+| Thief Dog | 156732 | [156732-thief-dog.json](./156732-thief-dog.json) |
 | Thief Girls Quartet | 151378 | [151378-thief-girls-quartet.json](./151378-thief-girls-quartet.json) |
 | Thief Gold | 9227 | [9227-thief-gold.json](./9227-thief-gold.json) |
 | Thief II: The Metal Age | 1 | [1-thief-ii-the-metal-age.json](./1-thief-ii-the-metal-age.json) |
@@ -22919,6 +22928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrillgate | 130160 | [130160-thrillgate.json](./130160-thrillgate.json) |
 | Thrilling Racing | 367090 | [367090-thrilling-racing.json](./367090-thrilling-racing.json) |
 | Thrilling Stories Collection | 279878 | [279878-thrilling-stories-collection.json](./279878-thrilling-stories-collection.json) |
+| Thrilling Triple Treat | 155719 | [155719-thrilling-triple-treat.json](./155719-thrilling-triple-treat.json) |
 | ThrillKings | 338971 | [338971-thrillkings.json](./338971-thrillkings.json) |
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
 | Thrillville | 281901 | [281901-thrillville.json](./281901-thrillville.json) |
@@ -27339,7 +27349,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
 | ToeJam & Earl: Back in the Groove | 11122 | [11122-toejam-and-earl-back-in-the-groove.json](./11122-toejam-and-earl-back-in-the-groove.json) |
 | Toem | 118193 | [118193-toem.json](./118193-toem.json) |
-| Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
 | Toey Weedz Smoke Dead Mirror | 386534 | [386534-toey-weedz-smoke-dead-mirror.json](./386534-toey-weedz-smoke-dead-mirror.json) |
 | Toey Weedz Smoke One | 338959 | [338959-toey-weedz-smoke-one.json](./338959-toey-weedz-smoke-one.json) |
@@ -28264,6 +28273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy Thunder | 47736 | [47736-tommy-thunder.json](./47736-tommy-thunder.json) |
 | Tommy Tronic | 15010 | [15010-tommy-tronic.json](./15010-tommy-tronic.json) |
 | Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
+| Tommy's Tragedy | 156744 | [156744-tommys-tragedy.json](./156744-tommys-tragedy.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tommyknockers | 90005 | [90005-tommyknockers.json](./90005-tommyknockers.json) |
 | Tommyrot | 416523 | [416523-tommyrot.json](./416523-tommyrot.json) |
@@ -31005,6 +31015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Racing: The Holy Rosary | 275133 | [275133-track-racing-the-holy-rosary.json](./275133-track-racing-the-holy-rosary.json) |
 | Track Star | 284441 | [284441-track-star.json](./284441-track-star.json) |
 | Track Star | 395754 | [395754-track-star.json](./395754-track-star.json) |
+| Track: Breakthrough Gaming Arcade | 152410 | [152410-track-breakthrough-gaming-arcade.json](./152410-track-breakthrough-gaming-arcade.json) |
 | Track: Breakthrough Gaming Arcade - Challenge Mode Edition | 207049 | [207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json](./207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | Trackday Manager | 35821 | [35821-trackday-manager.json](./35821-trackday-manager.json) |
@@ -32399,6 +32410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Super Edition | 324360 | [324360-train-traffic-manager-super-edition.json](./324360-train-traffic-manager-super-edition.json) |
 | Train Traffic Manager: Upgrade Edition | 320669 | [320669-train-traffic-manager-upgrade-edition.json](./320669-train-traffic-manager-upgrade-edition.json) |
 | Train Train Train | 158548 | [158548-train-train-train.json](./158548-train-train-train.json) |
+| Train Travel Simulator | 152447 | [152447-train-travel-simulator.json](./152447-train-travel-simulator.json) |
 | Train Trip | 179462 | [179462-train-trip.json](./179462-train-trip.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley | 12638 | [12638-train-valley.json](./12638-train-valley.json) |
@@ -33863,6 +33875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Riddles: Trip to India | 29230 | [29230-travel-riddles-trip-to-india.json](./29230-travel-riddles-trip-to-india.json) |
 | Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
 | Travel Sickness | 383628 | [383628-travel-sickness.json](./383628-travel-sickness.json) |
+| Travel Solar | 153473 | [153473-travel-solar.json](./153473-travel-solar.json) |
 | Travel story | 119864 | [119864-travel-story.json](./119864-travel-story.json) |
 | Travel the Countries | 154358 | [154358-travel-the-countries.json](./154358-travel-the-countries.json) |
 | Travel the Words | 205736 | [205736-travel-the-words.json](./205736-travel-the-words.json) |
@@ -35748,6 +35761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Reporter: Mystery of Mistwood | 278000 | [278000-true-reporter-mystery-of-mistwood.json](./278000-true-reporter-mystery-of-mistwood.json) |
 | True Skate | 29010 | [29010-true-skate.json](./29010-true-skate.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
+| True Spring Love | 153475 | [153475-true-spring-love.json](./153475-true-spring-love.json) |
 | True Stalker | 280962 | [280962-true-stalker.json](./280962-true-stalker.json) |
 | True Story Time | 294317 | [294317-true-story-time.json](./294317-true-story-time.json) |
 | True Surf | 110577 | [110577-true-surf.json](./110577-true-surf.json) |
@@ -36106,6 +36120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukimi Planet | 124355 | [124355-tsukimi-planet.json](./124355-tsukimi-planet.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
 | Tsukisas Arena | 149225 | [149225-tsukisas-arena.json](./149225-tsukisas-arena.json) |
+| Tsukitomo Tsukiuta 12 Memories | 145103 | [145103-tsukitomo-tsukiuta-12-memories.json](./145103-tsukitomo-tsukiuta-12-memories.json) |
 | Tsukiyo ni Karen | 389803 | [389803-tsukiyo-ni-karen.json](./389803-tsukiyo-ni-karen.json) |
 | Tsukiyo no Mura | 77724 | [77724-tsukiyo-no-mura.json](./77724-tsukiyo-no-mura.json) |
 | Tsukkomi! Magical Balls | 82554 | [82554-tsukkomi-magical-balls.json](./82554-tsukkomi-magical-balls.json) |
@@ -37084,6 +37099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Tower | 182867 | [182867-twilight-tower.json](./182867-twilight-tower.json) |
 | Twilight Towers | 370336 | [370336-twilight-towers.json](./370336-twilight-towers.json) |
 | Twilight Town | 299856 | [299856-twilight-town.json](./299856-twilight-town.json) |
+| Twilight Town: A Cyberpunk Day In Life | 156741 | [156741-twilight-town-a-cyberpunk-day-in-life.json](./156741-twilight-town-a-cyberpunk-day-in-life.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Treasures | 73063 | [73063-twilight-treasures.json](./73063-twilight-treasures.json) |
 | Twilight Tunnels | 167528 | [167528-twilight-tunnels.json](./167528-twilight-tunnels.json) |
