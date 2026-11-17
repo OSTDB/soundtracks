@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
 | Galactic Economy | 314445 | [314445-galactic-economy.json](./314445-galactic-economy.json) |
 | Galactic Empire | 13065 | [13065-galactic-empire.json](./13065-galactic-empire.json) |
+| Galactic Empire | 18619 | [18619-galactic-empire.json](./18619-galactic-empire.json) |
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Empires | 176370 | [176370-galactic-empires.json](./176370-galactic-empires.json) |
 | Galactic Escape | 208829 | [208829-galactic-escape.json](./208829-galactic-escape.json) |
@@ -8614,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP Race | 277642 | [277642-gp-race.json](./277642-gp-race.json) |
 | GP Rider | 39904 | [39904-gp-rider.json](./39904-gp-rider.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
+| GP-1 | 18613 | [18613-gp-1.json](./18613-gp-1.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | Gpi | 171871 | [171871-gpi.json](./171871-gpi.json) |
 | GPMoto Challenge | 370607 | [370607-gpmoto-challenge.json](./370607-gpmoto-challenge.json) |
