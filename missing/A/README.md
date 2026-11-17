@@ -14943,7 +14943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade Space Shooter 2 in 1 | 152522 | [152522-arcade-space-shooter-2-in-1.json](./152522-arcade-space-shooter-2-in-1.json) |
 | Arcade Space Survivor | 303342 | [303342-arcade-space-survivor.json](./303342-arcade-space-survivor.json) |
-| Arcade Spirits: The New Challengers | 145278 | [145278-arcade-spirits-the-new-challengers.json](./145278-arcade-spirits-the-new-challengers.json) |
 | Arcade Sports | 51093 | [51093-arcade-sports.json](./51093-arcade-sports.json) |
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
 | Arcade Style Bot Ball Shooting Multiplayer Game | 28462 | [28462-arcade-style-bot-ball-shooting-multiplayer-game.json](./28462-arcade-style-bot-ball-shooting-multiplayer-game.json) |
