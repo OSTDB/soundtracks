@@ -7188,7 +7188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dementium: The Ward | 269363 | [269363-dementium-the-ward.json](./269363-dementium-the-ward.json) |
 | Demeo | 144763 | [144763-demeo.json](./144763-demeo.json) |
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
-| Demeo x Dungeons & Dragons: Battlemarked | 346959 | [346959-demeo-x-dungeons-and-dragons-battlemarked.json](./346959-demeo-x-dungeons-and-dragons-battlemarked.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
 | Demeritocracy or the Two Faces of Arias Ruth | 68388 | [68388-demeritocracy-or-the-two-faces-of-arias-ruth.json](./68388-demeritocracy-or-the-two-faces-of-arias-ruth.json) |
 | Demersus | 406473 | [406473-demersus.json](./406473-demersus.json) |
