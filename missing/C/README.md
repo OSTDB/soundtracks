@@ -11762,6 +11762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
 | Click! Safari | 90447 | [90447-click-safari.json](./90447-click-safari.json) |
+| Click.O.Fast | 100400 | [100400-click-o-fast.json](./100400-click-o-fast.json) |
 | Click&Fight | 81795 | [81795-click-and-fight.json](./81795-click-and-fight.json) |
 | Clickable Coffee Shop | 120127 | [120127-clickable-coffee-shop.json](./120127-clickable-coffee-shop.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
@@ -13743,6 +13744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Cars + | 87188 | [87188-color-by-numbers-cars.json](./87188-color-by-numbers-cars.json) |
 | Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
+| Color by Numbers - Dinosaurs | 100397 | [100397-color-by-numbers-dinosaurs.json](./100397-color-by-numbers-dinosaurs.json) |
 | Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
 | Color by Numbers - Flowers | 104879 | [104879-color-by-numbers-flowers.json](./104879-color-by-numbers-flowers.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
