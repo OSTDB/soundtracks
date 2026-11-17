@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hassle 1977 | 140132 | [140132-hassle-1977.json](./140132-hassle-1977.json) |
 | Hassle Online | 208166 | [208166-hassle-online.json](./208166-hassle-online.json) |
 | HassleHeart | 35732 | [35732-hassleheart.json](./35732-hassleheart.json) |
+| Hasta La Muerte | 78175 | [78175-hasta-la-muerte.json](./78175-hasta-la-muerte.json) |
 | Hastafa Invaders | 305392 | [305392-hastafa-invaders.json](./305392-hastafa-invaders.json) |
 | Haste | 167266 | [167266-haste.json](./167266-haste.json) |
 | Haste | 221845 | [221845-haste.json](./221845-haste.json) |
@@ -10325,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
 | Hollywood or Bust | 13878 | [13878-hollywood-or-bust.json](./13878-hollywood-or-bust.json) |
 | Hollywood Pets | 209914 | [209914-hollywood-pets.json](./209914-hollywood-pets.json) |
+| Hollywood Pictures | 78102 | [78102-hollywood-pictures.json](./78102-hollywood-pictures.json) |
 | Hollywood Pictures II | 53208 | [53208-hollywood-pictures-ii.json](./53208-hollywood-pictures-ii.json) |
 | Hollywood Pinball | 49862 | [49862-hollywood-pinball.json](./49862-hollywood-pinball.json) |
 | Hollywood Poker | 131291 | [131291-hollywood-poker.json](./131291-hollywood-poker.json) |
