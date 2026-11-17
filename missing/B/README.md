@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Apple!! | 45683 | [45683-bad-apple.json](./45683-bad-apple.json) |
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
 | Bad ass babes | 31265 | [31265-bad-ass-babes.json](./31265-bad-ass-babes.json) |
+| Bad Asteroid | 107281 | [107281-bad-asteroid.json](./107281-bad-asteroid.json) |
 | Bad Atom Episode 1 | 70622 | [70622-bad-atom-episode-1.json](./70622-bad-atom-episode-1.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
 | Bad Badger | 380966 | [380966-bad-badger.json](./380966-bad-badger.json) |
@@ -6171,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Mons! | 153135 | [153135-beat-the-mons.json](./153135-beat-the-mons.json) |
 | Beat the Nettles! | 382714 | [382714-beat-the-nettles.json](./382714-beat-the-nettles.json) |
 | Beat the Nightmare: Evil Dreams Simulator VR | 172236 | [172236-beat-the-nightmare-evil-dreams-simulator-vr.json](./172236-beat-the-nightmare-evil-dreams-simulator-vr.json) |
+| Beat the Song | 107311 | [107311-beat-the-song.json](./107311-beat-the-song.json) |
 | Beat the Soul Z | 237714 | [237714-beat-the-soul-z.json](./237714-beat-the-soul-z.json) |
 | Beat the Wall | 323848 | [323848-beat-the-wall.json](./323848-beat-the-wall.json) |
 | Beat Them All | 166676 | [166676-beat-them-all.json](./166676-beat-them-all.json) |
@@ -19590,6 +19592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull King of Circus | 243741 | [243741-bull-king-of-circus.json](./243741-bull-king-of-circus.json) |
 | Bull Looney | 310238 | [310238-bull-looney.json](./310238-bull-looney.json) |
+| Bull Racing & Riding | 106185 | [106185-bull-racing-and-riding.json](./106185-bull-racing-and-riding.json) |
 | Bull Riding | 281685 | [281685-bull-riding.json](./281685-bull-riding.json) |
 | Bull Riding Challenge 3 | 235129 | [235129-bull-riding-challenge-3.json](./235129-bull-riding-challenge-3.json) |
 | Bull Run | 282451 | [282451-bull-run.json](./282451-bull-run.json) |
