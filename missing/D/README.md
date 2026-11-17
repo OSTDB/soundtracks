@@ -3502,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona USA | 177619 | [177619-daytona-usa.json](./177619-daytona-usa.json) |
 | Daytona USA | 177622 | [177622-daytona-usa.json](./177622-daytona-usa.json) |
 | Daytona USA | 198613 | [198613-daytona-usa.json](./198613-daytona-usa.json) |
+| Daytona USA | 199000 | [199000-daytona-usa.json](./199000-daytona-usa.json) |
 | Daytona USA | 22007 | [22007-daytona-usa.json](./22007-daytona-usa.json) |
 | Daytona USA 2: Battle on the Edge | 39291 | [39291-daytona-usa-2-battle-on-the-edge.json](./39291-daytona-usa-2-battle-on-the-edge.json) |
 | Daytona USA 2: Power Edition | 349356 | [349356-daytona-usa-2-power-edition.json](./349356-daytona-usa-2-power-edition.json) |
@@ -7515,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Souls: Deluxe Edition | 43010 | [43010-demons-souls-deluxe-edition.json](./43010-demons-souls-deluxe-edition.json) |
 | Demon's Souls: Digital Deluxe Edition | 336469 | [336469-demons-souls-digital-deluxe-edition.json](./336469-demons-souls-digital-deluxe-edition.json) |
 | Demon's Souls: Red-Eye Knight Armor | 344306 | [344306-demons-souls-red-eye-knight-armor.json](./344306-demons-souls-red-eye-knight-armor.json) |
+| Demon's Sperm | 198855 | [198855-demons-sperm.json](./198855-demons-sperm.json) |
 | Demon's Sword | 127653 | [127653-demons-sword.json](./127653-demons-sword.json) |
 | Demon's Sword Snakes: Sweet Dreams of the Cursed Snake | 173849 | [173849-demons-sword-snakes-sweet-dreams-of-the-cursed-snake.json](./173849-demons-sword-snakes-sweet-dreams-of-the-cursed-snake.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
@@ -12135,6 +12137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Classic Games | 205612 | [205612-disneys-classic-games.json](./205612-disneys-classic-games.json) |
 | Disney's Darkwing Duck | 145266 | [145266-disneys-darkwing-duck.json](./145266-disneys-darkwing-duck.json) |
+| Disney's Darkwing Duck | 198995 | [198995-disneys-darkwing-duck.json](./198995-disneys-darkwing-duck.json) |
 | Disney's Darkwing Duck | 81487 | [81487-disneys-darkwing-duck.json](./81487-disneys-darkwing-duck.json) |
 | Disney's Darkwing Duck | 8452 | [8452-disneys-darkwing-duck.json](./8452-disneys-darkwing-duck.json) |
 | Disney's Dinosaur | 46446 | [46446-disneys-dinosaur.json](./46446-disneys-dinosaur.json) |
@@ -12198,6 +12201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Pinocchio | 38844 | [38844-disneys-pinocchio.json](./38844-disneys-pinocchio.json) |
 | Disney's PK: Out of the Shadows | 3887 | [3887-disneys-pk-out-of-the-shadows.json](./3887-disneys-pk-out-of-the-shadows.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
+| Disney's Pocahontas | 198850 | [198850-disneys-pocahontas.json](./198850-disneys-pocahontas.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
 | Disney's Pooh and Tigger's Hunny Safari | 50008 | [50008-disneys-pooh-and-tiggers-hunny-safari.json](./50008-disneys-pooh-and-tiggers-hunny-safari.json) |
 | Disney's Pooh's Party Game: In Search of the Treasure | 43724 | [43724-disneys-poohs-party-game-in-search-of-the-treasure.json](./43724-disneys-poohs-party-game-in-search-of-the-treasure.json) |
@@ -12250,6 +12254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
 | Disney's The Little Mermaid: Ariel's Undersea Adventure | 60692 | [60692-disneys-the-little-mermaid-ariels-undersea-adventure.json](./60692-disneys-the-little-mermaid-ariels-undersea-adventure.json) |
 | Disney's The Little Mermaid: Magic in Two Kingdoms | 49404 | [49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json](./49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json) |
+| Disney's The Rescuers Down Under | 198996 | [198996-disneys-the-rescuers-down-under.json](./198996-disneys-the-rescuers-down-under.json) |
 | Disney's Tigger Activity Center | 209031 | [209031-disneys-tigger-activity-center.json](./209031-disneys-tigger-activity-center.json) |
 | Disney's Tigger's Honey Hunt | 3613 | [3613-disneys-tiggers-honey-hunt.json](./3613-disneys-tiggers-honey-hunt.json) |
 | Disney's Timon & Pumbaa's Jungle Games | 72032 | [72032-disneys-timon-and-pumbaas-jungle-games.json](./72032-disneys-timon-and-pumbaas-jungle-games.json) |
