@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Brooklyn Bridge Tycoon | 297964 | [297964-new-brooklyn-bridge-tycoon.json](./297964-new-brooklyn-bridge-tycoon.json) |
 | New Bust-A-Move | 64296 | [64296-new-bust-a-move.json](./64296-new-bust-a-move.json) |
 | New Campaign Trail | 313157 | [313157-new-campaign-trail.json](./313157-new-campaign-trail.json) |
+| New Canon: The Mane-Tailed Wolf and the Unspeakable Truth of the Universe | 420425 | [420425-new-canon-the-mane-tailed-wolf-and-the-unspeakable-truth-of-the-universe.json](./420425-new-canon-the-mane-tailed-wolf-and-the-unspeakable-truth-of-the-universe.json) |
 | New Carnival Games | 4057 | [4057-new-carnival-games.json](./4057-new-carnival-games.json) |
 | New Centurions | 93507 | [93507-new-centurions.json](./93507-new-centurions.json) |
 | New Century Galaxy Legend | 192824 | [192824-new-century-galaxy-legend.json](./192824-new-century-galaxy-legend.json) |
