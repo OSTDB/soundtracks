@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
 | Legends of Pegasus | 10389 | [10389-legends-of-pegasus.json](./10389-legends-of-pegasus.json) |
 | Legends of Persia | 10390 | [10390-legends-of-persia.json](./10390-legends-of-persia.json) |
+| Legends of Pindorama | 197835 | [197835-legends-of-pindorama.json](./197835-legends-of-pindorama.json) |
 | Legends of Pixelia | 35227 | [35227-legends-of-pixelia.json](./35227-legends-of-pixelia.json) |
 | Legends of Runeterra | 124701 | [124701-legends-of-runeterra.json](./124701-legends-of-runeterra.json) |
 | Legends of Savvarah: Children of the Sun | 261599 | [261599-legends-of-savvarah-children-of-the-sun.json](./261599-legends-of-savvarah-children-of-the-sun.json) |
