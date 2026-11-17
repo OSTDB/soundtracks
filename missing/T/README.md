@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin 8 | 276405 | [276405-taiko-no-tatsujin-8.json](./276405-taiko-no-tatsujin-8.json) |
 | Taiko no Tatsujin 9 | 276409 | [276409-taiko-no-tatsujin-9.json](./276409-taiko-no-tatsujin-9.json) |
 | Taiko no Tatsujin Arcade | 85872 | [85872-taiko-no-tatsujin-arcade.json](./85872-taiko-no-tatsujin-arcade.json) |
+| Taiko no Tatsujin DS: Dororon! Yokai Daikessen!! | 84401 | [84401-taiko-no-tatsujin-ds-dororon-yokai-daikessen.json](./84401-taiko-no-tatsujin-ds-dororon-yokai-daikessen.json) |
 | Taiko no Tatsujin Plus: Shinkyoku Tori Houdai! | 175036 | [175036-taiko-no-tatsujin-plus-shinkyoku-tori-houdai.json](./175036-taiko-no-tatsujin-plus-shinkyoku-tori-houdai.json) |
 | Taiko no Tatsujin Portable | 60365 | [60365-taiko-no-tatsujin-portable.json](./60365-taiko-no-tatsujin-portable.json) |
 | Taiko no Tatsujin Portable 2 | 60363 | [60363-taiko-no-tatsujin-portable-2.json](./60363-taiko-no-tatsujin-portable-2.json) |
@@ -19739,6 +19740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thirst Road | 318735 | [318735-the-thirst-road.json](./318735-the-thirst-road.json) |
 | The Thirteenth Floor | 177309 | [177309-the-thirteenth-floor.json](./177309-the-thirteenth-floor.json) |
 | The Thirty Nine Steps | 63664 | [63664-the-thirty-nine-steps.json](./63664-the-thirty-nine-steps.json) |
+| The Thompson Twins Adventure | 84397 | [84397-the-thompson-twins-adventure.json](./84397-the-thompson-twins-adventure.json) |
 | The Thor Trilogy | 71967 | [71967-the-thor-trilogy.json](./71967-the-thor-trilogy.json) |
 | The Thorn of Warldia | 190886 | [190886-the-thorn-of-warldia.json](./190886-the-thorn-of-warldia.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
