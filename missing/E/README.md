@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
 | Eastern Europe Train Sim | 231672 | [231672-eastern-europe-train-sim.json](./231672-eastern-europe-train-sim.json) |
 | Eastern Europe Train Sim 2 | 272398 | [272398-eastern-europe-train-sim-2.json](./272398-eastern-europe-train-sim-2.json) |
+| Eastern Europe Truck Simulator | 197417 | [197417-eastern-europe-truck-simulator.json](./197417-eastern-europe-truck-simulator.json) |
 | Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
 | Eastern Front | 260544 | [260544-eastern-front.json](./260544-eastern-front.json) |
 | Eastern Front | 73914 | [73914-eastern-front.json](./73914-eastern-front.json) |
