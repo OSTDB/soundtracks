@@ -11461,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
 | Plinko: Ball Falling | 264795 | [264795-plinko-ball-falling.json](./264795-plinko-ball-falling.json) |
 | Plinkomancy | 389199 | [389199-plinkomancy.json](./389199-plinkomancy.json) |
+| Plinth | 423539 | [423539-plinth.json](./423539-plinth.json) |
 | Plith | 10706 | [10706-plith.json](./10706-plith.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
 | Plobb! | 99826 | [99826-plobb.json](./99826-plobb.json) |
@@ -19893,6 +19894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punirunzu | 205721 | [205721-punirunzu.json](./205721-punirunzu.json) |
+| Punish Inc | 423511 | [423511-punish-inc.json](./423511-punish-inc.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
 | Punished Talents: Dark Knowledge - Collector's Edition | 228253 | [228253-punished-talents-dark-knowledge-collectors-edition.json](./228253-punished-talents-dark-knowledge-collectors-edition.json) |
 | Punished Talents: Seven Muses | 140275 | [140275-punished-talents-seven-muses.json](./140275-punished-talents-seven-muses.json) |
@@ -20374,6 +20376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pusheep | 190283 | [190283-pusheep.json](./190283-pusheep.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pusher | 54276 | [54276-pusher.json](./54276-pusher.json) |
+| Pusher of Cube! | 423480 | [423480-pusher-of-cube.json](./423480-pusher-of-cube.json) |
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
 | PushieBlocks | 132047 | [132047-pushieblocks.json](./132047-pushieblocks.json) |
 | Pushika | 334241 | [334241-pushika.json](./334241-pushika.json) |
@@ -21405,6 +21408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyracubes | 175055 | [175055-pyracubes.json](./175055-pyracubes.json) |
 | Pyracurse | 28483 | [28483-pyracurse.json](./28483-pyracurse.json) |
 | Pyradice | 302337 | [302337-pyradice.json](./302337-pyradice.json) |
+| Pyralinks | 423535 | [423535-pyralinks.json](./423535-pyralinks.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
 | Pyramax | 12726 | [12726-pyramax.json](./12726-pyramax.json) |
 | PyraMaze | 177850 | [177850-pyramaze.json](./177850-pyramaze.json) |
