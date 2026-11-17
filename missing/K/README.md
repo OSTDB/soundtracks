@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ki ni Naru Otoko no Ko? | 398061 | [398061-ki-ni-naru-otoko-no-ko.json](./398061-ki-ni-naru-otoko-no-ko.json) |
 | Ki_swpr | 184586 | [184586-ki-swpr.json](./184586-ki-swpr.json) |
 | Ki(n)ds | 27902 | [27902-ki-n-ds.json](./27902-ki-n-ds.json) |
+| Ki11er Clutter | 159915 | [159915-ki11er-clutter.json](./159915-ki11er-clutter.json) |
 | Kiai Resonance | 35487 | [35487-kiai-resonance.json](./35487-kiai-resonance.json) |
 | Kiaidan 00 | 42011 | [42011-kiaidan-00.json](./42011-kiaidan-00.json) |
 | Kiana & Biscuit: Pirates on a Visit! | 411888 | [411888-kiana-and-biscuit-pirates-on-a-visit.json](./411888-kiana-and-biscuit-pirates-on-a-visit.json) |
@@ -7195,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwari | 21544 | [21544-kwari.json](./21544-kwari.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
 | Kwark: Online and Multiplayer | 298129 | [298129-kwark-online-and-multiplayer.json](./298129-kwark-online-and-multiplayer.json) |
+| Kwarn Armada Tactics | 159937 | [159937-kwarn-armada-tactics.json](./159937-kwarn-armada-tactics.json) |
 | Kwartikum | 387654 | [387654-kwartikum.json](./387654-kwartikum.json) |
 | Kwazy Kwaks | 93129 | [93129-kwazy-kwaks.json](./93129-kwazy-kwaks.json) |
 | Kwik Snax | 14491 | [14491-kwik-snax.json](./14491-kwik-snax.json) |
