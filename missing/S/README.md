@@ -33709,7 +33709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | SuMine | 118163 | [118163-sumine.json](./118163-sumine.json) |
 | Sumio Mondo Namaz Simulator | 278583 | [278583-sumio-mondo-namaz-simulator.json](./278583-sumio-mondo-namaz-simulator.json) |
-| Sumire | 137960 | [137960-sumire.json](./137960-sumire.json) |
 | Sumire's Secret | 403603 | [403603-sumires-secret.json](./403603-sumires-secret.json) |
 | Summa Expeditionis | 216869 | [216869-summa-expeditionis.json](./216869-summa-expeditionis.json) |
 | Summer | 78868 | [78868-summer.json](./78868-summer.json) |
@@ -39283,6 +39282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Svetlograd | 207022 | [207022-svetlograd.json](./207022-svetlograd.json) |
 | SVG-001 Puzzle | 312687 | [312687-svg-001-puzzle.json](./312687-svg-001-puzzle.json) |
 | Svoboda | 100101 | [100101-svoboda.json](./100101-svoboda.json) |
+| Svoboda 1945: Liberation | 119798 | [119798-svoboda-1945-liberation.json](./119798-svoboda-1945-liberation.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
 | Swabby | 312224 | [312224-swabby.json](./312224-swabby.json) |
 | Swaddle | 408318 | [408318-swaddle.json](./408318-swaddle.json) |
