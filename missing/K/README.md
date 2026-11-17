@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karl's Tiny Adventure | 58505 | [58505-karls-tiny-adventure.json](./58505-karls-tiny-adventure.json) |
 | Karl's Treasure Hunt | 39103 | [39103-karls-treasure-hunt.json](./39103-karls-treasure-hunt.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
+| Karloman and His Iced Muffins | 113795 | [113795-karloman-and-his-iced-muffins.json](./113795-karloman-and-his-iced-muffins.json) |
 | Karls Kavern | 348944 | [348944-karls-kavern.json](./348944-karls-kavern.json) |
 | Karlson | 129033 | [129033-karlson.json](./129033-karlson.json) |
 | Karlson 2D | 177372 | [177372-karlson-2d.json](./177372-karlson-2d.json) |
@@ -4733,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Cat Squash | 192691 | [192691-kitty-cat-squash.json](./192691-kitty-cat-squash.json) |
 | Kitty Cat Tycoon | 169125 | [169125-kitty-cat-tycoon.json](./169125-kitty-cat-tycoon.json) |
 | Kitty Cat: Jigsaw Puzzles | 32122 | [32122-kitty-cat-jigsaw-puzzles.json](./32122-kitty-cat-jigsaw-puzzles.json) |
+| Kitty Cat's Drag Race | 113772 | [113772-kitty-cats-drag-race.json](./113772-kitty-cats-drag-race.json) |
 | Kitty Catsanova | 101694 | [101694-kitty-catsanova.json](./101694-kitty-catsanova.json) |
 | Kitty Cauldron | 375773 | [375773-kitty-cauldron.json](./375773-kitty-cauldron.json) |
 | Kitty Champion | 241706 | [241706-kitty-champion.json](./241706-kitty-champion.json) |
@@ -6830,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KuloNiku: Bowl Up! | 346735 | [346735-kuloniku-bowl-up.json](./346735-kuloniku-bowl-up.json) |
 | Kult of Ktulu: Olympic | 29629 | [29629-kult-of-ktulu-olympic.json](./29629-kult-of-ktulu-olympic.json) |
 | Kult: Heretic Kingdoms | 9675 | [9675-kult-heretic-kingdoms.json](./9675-kult-heretic-kingdoms.json) |
+| Kulzas Tomb | 109796 | [109796-kulzas-tomb.json](./109796-kulzas-tomb.json) |
 | Kuma 2015 | 232115 | [232115-kuma-2015.json](./232115-kuma-2015.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
 | Kuma no Puutarou: Takara Sagashi da Ohiri Game Battle! | 228600 | [228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json](./228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json) |
