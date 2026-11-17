@@ -5300,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EpicDuel | 61774 | [61774-epicduel.json](./61774-epicduel.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicenter VR | 212168 | [212168-epicenter-vr.json](./212168-epicenter-vr.json) |
+| Epicentrum: Hunt. Stream. Invade. | 193511 | [193511-epicentrum-hunt-stream-invade.json](./193511-epicentrum-hunt-stream-invade.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
 | EpicRecovery | 202721 | [202721-epicrecovery.json](./202721-epicrecovery.json) |
