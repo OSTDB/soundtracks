@@ -11346,6 +11346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Eagle | 327540 | [327540-the-golden-eagle.json](./327540-the-golden-eagle.json) |
 | The Golden Eyed Ghosts | 200521 | [200521-the-golden-eyed-ghosts.json](./200521-the-golden-eyed-ghosts.json) |
 | The Golden Gate | 398701 | [398701-the-golden-gate.json](./398701-the-golden-gate.json) |
+| The Golden Girl Case | 424737 | [424737-the-golden-girl-case.json](./424737-the-golden-girl-case.json) |
 | The Golden Girl Cloud Top Board | 385014 | [385014-the-golden-girl-cloud-top-board.json](./385014-the-golden-girl-cloud-top-board.json) |
 | The Golden Girl Pulls and Licks the Dog | 256061 | [256061-the-golden-girl-pulls-and-licks-the-dog.json](./256061-the-golden-girl-pulls-and-licks-the-dog.json) |
 | The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
@@ -11602,6 +11603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greedy Cave 2: Time Gate | 208123 | [208123-the-greedy-cave-2-time-gate.json](./208123-the-greedy-cave-2-time-gate.json) |
 | The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
+| The Green Hill 8 | 424681 | [424681-the-green-hill-8.json](./424681-the-green-hill-8.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Green Hornet: Wheels of Justice | 66022 | [66022-the-green-hornet-wheels-of-justice.json](./66022-the-green-hornet-wheels-of-justice.json) |
 | The Green Legion | 179776 | [179776-the-green-legion.json](./179776-the-green-legion.json) |
@@ -16899,6 +16901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pogo Witch | 416551 | [416551-the-pogo-witch.json](./416551-the-pogo-witch.json) |
 | The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
 | The Pointless Car Chase: Refueled | 193607 | [193607-the-pointless-car-chase-refueled.json](./193607-the-pointless-car-chase-refueled.json) |
+| The Pointy End | 424742 | [424742-the-pointy-end.json](./424742-the-pointy-end.json) |
 | The Poisoned Roots | 151929 | [151929-the-poisoned-roots.json](./151929-the-poisoned-roots.json) |
 | The Poisoner | 118825 | [118825-the-poisoner.json](./118825-the-poisoner.json) |
 | The Poisoner: Complete Story | 174431 | [174431-the-poisoner-complete-story.json](./174431-the-poisoner-complete-story.json) |
@@ -17986,6 +17989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
 | The Scrap | 247669 | [247669-the-scrap.json](./247669-the-scrap.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
+| The Scratcher | 424705 | [424705-the-scratcher.json](./424705-the-scratcher.json) |
 | The Scream | 119552 | [119552-the-scream.json](./119552-the-scream.json) |
 | The Scream of Darkness | 379397 | [379397-the-scream-of-darkness.json](./379397-the-scream-of-darkness.json) |
 | The ScreaMaze | 114230 | [114230-the-screamaze.json](./114230-the-screamaze.json) |
@@ -34086,6 +34090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 274715 | [274715-treasure-island.json](./274715-treasure-island.json) |
 | Treasure Island | 282746 | [282746-treasure-island.json](./282746-treasure-island.json) |
 | Treasure Island | 364791 | [364791-treasure-island.json](./364791-treasure-island.json) |
+| Treasure Island | 424706 | [424706-treasure-island.json](./424706-treasure-island.json) |
 | Treasure Island | 44397 | [44397-treasure-island.json](./44397-treasure-island.json) |
 | Treasure Island | 52523 | [52523-treasure-island.json](./52523-treasure-island.json) |
 | Treasure Island | 79649 | [79649-treasure-island.json](./79649-treasure-island.json) |
