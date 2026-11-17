@@ -19147,6 +19147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATCsimulator | 80922 | [80922-atcsimulator.json](./80922-atcsimulator.json) |
 | ATCsimulator2 | 92872 | [92872-atcsimulator2.json](./92872-atcsimulator2.json) |
 | Atelier ~Alchemists of Arland 1-2-3~ DX | 106294 | [106294-atelier-alchemists-of-arland-1-2-3-dx.json](./106294-atelier-alchemists-of-arland-1-2-3-dx.json) |
+| Atelier Agnes | 189154 | [189154-atelier-agnes.json](./189154-atelier-agnes.json) |
 | Atelier Ayesha Plus: The Alchemist of Dusk | 44473 | [44473-atelier-ayesha-plus-the-alchemist-of-dusk.json](./44473-atelier-ayesha-plus-the-alchemist-of-dusk.json) |
 | Atelier Ayesha: The Alchemist of Dusk | 7278 | [7278-atelier-ayesha-the-alchemist-of-dusk.json](./7278-atelier-ayesha-the-alchemist-of-dusk.json) |
 | Atelier Ayesha: The Alchemist of Dusk DX | 122748 | [122748-atelier-ayesha-the-alchemist-of-dusk-dx.json](./122748-atelier-ayesha-the-alchemist-of-dusk-dx.json) |
