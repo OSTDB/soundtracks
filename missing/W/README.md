@@ -2538,7 +2538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland 2: Director's Cut - Digital Classic Edition | 124999 | [124999-wasteland-2-directors-cut-digital-classic-edition.json](./124999-wasteland-2-directors-cut-digital-classic-edition.json) |
 | Wasteland 2: Director's Cut - Digital Deluxe Edition | 53134 | [53134-wasteland-2-directors-cut-digital-deluxe-edition.json](./53134-wasteland-2-directors-cut-digital-deluxe-edition.json) |
 | Wasteland 3: Colorado Collection | 165320 | [165320-wasteland-3-colorado-collection.json](./165320-wasteland-3-colorado-collection.json) |
-| Wasteland 3: Cult of the Holy Detonation | 165319 | [165319-wasteland-3-cult-of-the-holy-detonation.json](./165319-wasteland-3-cult-of-the-holy-detonation.json) |
 | Wasteland 3: Day One Edition | 139893 | [139893-wasteland-3-day-one-edition.json](./139893-wasteland-3-day-one-edition.json) |
 | Wasteland 3: Deluxe Edition | 154225 | [154225-wasteland-3-deluxe-edition.json](./154225-wasteland-3-deluxe-edition.json) |
 | Wasteland Alone | 373640 | [373640-wasteland-alone.json](./373640-wasteland-alone.json) |
@@ -2921,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waver: A Typing Adventure | 165302 | [165302-waver-a-typing-adventure.json](./165302-waver-a-typing-adventure.json) |
 | Waverly Hills | 150920 | [150920-waverly-hills.json](./150920-waverly-hills.json) |
 | WaveRun | 246600 | [246600-waverun.json](./246600-waverun.json) |
+| WaveRunner GP | 124325 | [124325-waverunner-gp.json](./124325-waverunner-gp.json) |
 | Waves | 104354 | [104354-waves.json](./104354-waves.json) |
 | Waves | 13547 | [13547-waves.json](./13547-waves.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
@@ -9769,7 +9769,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
 | Worldkampf '72 | 425430 | [425430-worldkampf-72.json](./425430-worldkampf-72.json) |
 | Worldle | 193524 | [193524-worldle.json](./193524-worldle.json) |
-| Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
 | Worldless - Mercenaries | 127598 | [127598-worldless-mercenaries.json](./127598-worldless-mercenaries.json) |
 | Worldly: Country & Maps Quiz | 406058 | [406058-worldly-country-and-maps-quiz.json](./406058-worldly-country-and-maps-quiz.json) |
 | WorldNeverlan: Elnea Kingdom - Bee Apparel Set | 304808 | [304808-worldneverlan-elnea-kingdom-bee-apparel-set.json](./304808-worldneverlan-elnea-kingdom-bee-apparel-set.json) |
