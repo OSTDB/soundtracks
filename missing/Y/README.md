@@ -380,7 +380,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarrow Valley | 225250 | [225250-yarrow-valley.json](./225250-yarrow-valley.json) |
 | Yarrr Royale | 422177 | [422177-yarrr-royale.json](./422177-yarrr-royale.json) |
 | Yars Rising | 298314 | [298314-yars-rising.json](./298314-yars-rising.json) |
-| Yars: Recharged | 211321 | [211321-yars-recharged.json](./211321-yars-recharged.json) |
 | Yars' Return | 130702 | [130702-yars-return.json](./130702-yars-return.json) |
 | Yars' Revenge | 151837 | [151837-yars-revenge.json](./151837-yars-revenge.json) |
 | Yars' Revenge | 9757 | [9757-yars-revenge.json](./9757-yars-revenge.json) |
@@ -569,7 +568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeoubul | 166754 | [166754-yeoubul.json](./166754-yeoubul.json) |
 | Yep It's More Skiing | 304141 | [304141-yep-its-more-skiing.json](./304141-yep-its-more-skiing.json) |
 | Yerah | 72445 | [72445-yerah.json](./72445-yerah.json) |
-| Yerba Buena | 249016 | [249016-yerba-buena.json](./249016-yerba-buena.json) |
 | Yerba Mate Tycoon | 153755 | [153755-yerba-mate-tycoon.json](./153755-yerba-mate-tycoon.json) |
 | Yerevan Drive | 214551 | [214551-yerevan-drive.json](./214551-yerevan-drive.json) |
 | Yerr Out | 201401 | [201401-yerr-out.json](./201401-yerr-out.json) |
@@ -619,7 +617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Hentai Puzzle: Cyberpunk | 319257 | [319257-yet-another-hentai-puzzle-cyberpunk.json](./319257-yet-another-hentai-puzzle-cyberpunk.json) |
 | Yet Another Hentai Puzzle: PTSD | 245846 | [245846-yet-another-hentai-puzzle-ptsd.json](./245846-yet-another-hentai-puzzle-ptsd.json) |
 | Yet Another Hero Legend | 118988 | [118988-yet-another-hero-legend.json](./118988-yet-another-hero-legend.json) |
-| Yet Another Hero Story | 120105 | [120105-yet-another-hero-story.json](./120105-yet-another-hero-story.json) |
 | Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
 | Yet Another Jumping Game | 395082 | [395082-yet-another-jumping-game.json](./395082-yet-another-jumping-game.json) |
 | Yet Another Killing Game | 329407 | [329407-yet-another-killing-game.json](./329407-yet-another-killing-game.json) |
@@ -634,7 +631,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yet Another Sonic the Hedgehog Minigame | 326830 | [326830-yet-another-sonic-the-hedgehog-minigame.json](./326830-yet-another-sonic-the-hedgehog-minigame.json) |
 | Yet Another Survival Game | 114929 | [114929-yet-another-survival-game.json](./114929-yet-another-survival-game.json) |
-| Yet another tower defence | 110367 | [110367-yet-another-tower-defence.json](./110367-yet-another-tower-defence.json) |
 | Yet Another Tuesday | 154746 | [154746-yet-another-tuesday.json](./154746-yet-another-tuesday.json) |
 | Yet Another Vanilla SMA2 Hack | 342622 | [342622-yet-another-vanilla-sma2-hack.json](./342622-yet-another-vanilla-sma2-hack.json) |
 | Yet Another World | 34190 | [34190-yet-another-world.json](./34190-yet-another-world.json) |
@@ -842,7 +838,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
 | Yogenkyo | 402840 | [402840-yogenkyo.json](./402840-yogenkyo.json) |
 | Yogho Yogho spel | 78953 | [78953-yogho-yogho-spel.json](./78953-yogho-yogho-spel.json) |
-| Yogi Bear | 259278 | [259278-yogi-bear.json](./259278-yogi-bear.json) |
 | Yogi Bear | 54667 | [54667-yogi-bear.json](./54667-yogi-bear.json) |
 | Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
 | Yogi Bear and Friends in the Greed Monster | 196222 | [196222-yogi-bear-and-friends-in-the-greed-monster.json](./196222-yogi-bear-and-friends-in-the-greed-monster.json) |
@@ -1027,7 +1022,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
 | Yoomp! | 230603 | [230603-yoomp.json](./230603-yoomp.json) |
 | Yoomp! 64 | 196372 | [196372-yoomp-64.json](./196372-yoomp-64.json) |
-| Yoomurjak's Ring | 117716 | [117716-yoomurjaks-ring.json](./117716-yoomurjaks-ring.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
 | Yoot Tower | 7520 | [7520-yoot-tower.json](./7520-yoot-tower.json) |
@@ -1391,7 +1385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Weren't Invited | 421021 | [421021-you-werent-invited.json](./421021-you-werent-invited.json) |
 | You Will Die | 66639 | [66639-you-will-die.json](./66639-you-will-die.json) |
 | You Will Die a Lot Buddy, Trust Me! | 197103 | [197103-you-will-die-a-lot-buddy-trust-me.json](./197103-you-will-die-a-lot-buddy-trust-me.json) |
-| You Will Die Here Tonight | 157359 | [157359-you-will-die-here-tonight.json](./157359-you-will-die-here-tonight.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
 | You Will Fall | 396969 | [396969-you-will-fall.json](./396969-you-will-fall.json) |
 | You Will Never Get This Achievement | 81848 | [81848-you-will-never-get-this-achievement.json](./81848-you-will-never-get-this-achievement.json) |
@@ -1424,7 +1417,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
 | You're Cookin', Good Lookin'! | 264403 | [264403-youre-cookin-good-lookin.json](./264403-youre-cookin-good-lookin.json) |
 | You're Doomed | 112154 | [112154-youre-doomed.json](./112154-youre-doomed.json) |
-| You're Fired | 99082 | [99082-youre-fired.json](./99082-youre-fired.json) |
 | You're Fired! | 367368 | [367368-youre-fired.json](./367368-youre-fired.json) |
 | You're Fired! Revenge! | 231582 | [231582-youre-fired-revenge.json](./231582-youre-fired-revenge.json) |
 | You're Full of It | 202180 | [202180-youre-full-of-it.json](./202180-youre-full-of-it.json) |
@@ -1590,7 +1582,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Friendly Neighborhood Vampire Detective | 184772 | [184772-your-friendly-neighborhood-vampire-detective.json](./184772-your-friendly-neighborhood-vampire-detective.json) |
 | Your Friends vs. Hidebehind | 424624 | [424624-your-friends-vs-hidebehind.json](./424624-your-friends-vs-hidebehind.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
-| Your Future Self | 115498 | [115498-your-future-self.json](./115498-your-future-self.json) |
 | Your Gay Monster Family | 185226 | [185226-your-gay-monster-family.json](./185226-your-gay-monster-family.json) |
 | Your Girl | 118997 | [118997-your-girl.json](./118997-your-girl.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
@@ -2083,7 +2074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuligans: Christmas is Coming! | 151455 | [151455-yuligans-christmas-is-coming.json](./151455-yuligans-christmas-is-coming.json) |
 | Yùlóng zài Tiān: Pínghéng Guózhàn Bǎn | 118295 | [118295-yulong-zai-tian-pingheng-guozhan-ban.json](./118295-yulong-zai-tian-pingheng-guozhan-ban.json) |
 | Yum Collector | 192287 | [192287-yum-collector.json](./192287-yum-collector.json) |
-| Yum Yum Cookstar | 218884 | [218884-yum-yum-cookstar.json](./218884-yum-yum-cookstar.json) |
 | Yum Yum Line | 147266 | [147266-yum-yum-line.json](./147266-yum-yum-line.json) |
 | Yum Yum! Dating Show | 204456 | [204456-yum-yum-dating-show.json](./204456-yum-yum-dating-show.json) |
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
@@ -2208,7 +2198,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:After | 132943 | [132943-yumeutsutsu-re-after.json](./132943-yumeutsutsu-re-after.json) |
 | Yumeutsutsu Re:Idol | 132939 | [132939-yumeutsutsu-re-idol.json](./132939-yumeutsutsu-re-idol.json) |
-| Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
 | Yumeutsutsu Re:Master Bundle Pack | 144205 | [144205-yumeutsutsu-re-master-bundle-pack.json](./144205-yumeutsutsu-re-master-bundle-pack.json) |
 | Yumezame no Kasetsu | 316667 | [316667-yumezame-no-kasetsu.json](./316667-yumezame-no-kasetsu.json) |
 | Yumi's Adventure | 348211 | [348211-yumis-adventure.json](./348211-yumis-adventure.json) |
@@ -2331,7 +2320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yusetsu | 211178 | [211178-yusetsu.json](./211178-yusetsu.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
 | Yusha: Heaven's Gate | 44868 | [44868-yusha-heavens-gate.json](./44868-yusha-heavens-gate.json) |
-| Yuso | 104233 | [104233-yuso.json](./104233-yuso.json) |
 | Yut Yut | 120601 | [120601-yut-yut.json](./120601-yut-yut.json) |
 | Yuu Maze | 41307 | [41307-yuu-maze.json](./41307-yuu-maze.json) |
 | Yuu Yuu Jinsei | 37649 | [37649-yuu-yuu-jinsei.json](./37649-yuu-yuu-jinsei.json) |
