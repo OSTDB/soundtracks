@@ -13458,6 +13458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaretti | 242396 | [242396-polaretti.json](./242396-polaretti.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
+| Polaris | 18650 | [18650-polaris.json](./18650-polaris.json) |
 | Polaris | 251308 | [251308-polaris.json](./251308-polaris.json) |
 | Polaris | 276428 | [276428-polaris.json](./276428-polaris.json) |
 | Polaris | 276429 | [276429-polaris.json](./276429-polaris.json) |
@@ -15180,6 +15181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pottis Dream Forge | 108045 | [108045-pottis-dream-forge.json](./108045-pottis-dream-forge.json) |
 | Potty Knight Saga | 289778 | [289778-potty-knight-saga.json](./289778-potty-knight-saga.json) |
 | Potty Painter | 301529 | [301529-potty-painter.json](./301529-potty-painter.json) |
+| Potty Pigeon | 18633 | [18633-potty-pigeon.json](./18633-potty-pigeon.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Potty Training Game | 100688 | [100688-potty-training-game.json](./100688-potty-training-game.json) |
