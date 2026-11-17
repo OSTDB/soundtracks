@@ -3945,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstorm | 307635 | [307635-hearthstorm.json](./307635-hearthstorm.json) |
 | Hearthwater | 412947 | [412947-hearthwater.json](./412947-hearthwater.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
+| Heartland | 180725 | [180725-heartland.json](./180725-heartland.json) |
 | Heartland | 197813 | [197813-heartland.json](./197813-heartland.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland | 243915 | [243915-heartland.json](./243915-heartland.json) |
@@ -5384,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Wanted: 50 Wacky Jobs! | 21190 | [21190-help-wanted-50-wacky-jobs.json](./21190-help-wanted-50-wacky-jobs.json) |
 | Help Will Come Tomorrow | 121989 | [121989-help-will-come-tomorrow.json](./121989-help-will-come-tomorrow.json) |
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
+| Help Zombies | 180329 | [180329-help-zombies.json](./180329-help-zombies.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help: The Game | 32624 | [32624-help-the-game.json](./32624-help-the-game.json) |
 | Help! | 224862 | [224862-help.json](./224862-help.json) |
