@@ -4249,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What is this Thing?: Episode 2 | 323216 | [323216-what-is-this-thing-episode-2.json](./323216-what-is-this-thing-episode-2.json) |
 | What is this Thing?: Episode 3 | 323218 | [323218-what-is-this-thing-episode-3.json](./323218-what-is-this-thing-episode-3.json) |
 | What Isn't Saved (will be lost) | 135316 | [135316-what-isnt-saved-will-be-lost.json](./135316-what-isnt-saved-will-be-lost.json) |
+| What Killed Rachel | 422329 | [422329-what-killed-rachel.json](./422329-what-killed-rachel.json) |
 | What Kokkuri-san says will come true | 376878 | [376878-what-kokkuri-san-says-will-come-true.json](./376878-what-kokkuri-san-says-will-come-true.json) |
 | What Lies Behind | 271858 | [271858-what-lies-behind.json](./271858-what-lies-behind.json) |
 | What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
@@ -4414,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Estate | 419722 | [419722-wheel-estate.json](./419722-wheel-estate.json) |
 | Wheel Make It | 402549 | [402549-wheel-make-it.json](./402549-wheel-make-it.json) |
+| Wheel of Death | 422317 | [422317-wheel-of-death.json](./422317-wheel-of-death.json) |
 | Wheel of Fate | 122104 | [122104-wheel-of-fate.json](./122104-wheel-of-fate.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
 | Wheel of Fortune | 116896 | [116896-wheel-of-fortune.json](./116896-wheel-of-fortune.json) |
