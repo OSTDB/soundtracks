@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
+| Necromancer Accountant | 74565 | [74565-necromancer-accountant.json](./74565-necromancer-accountant.json) |
 | Necromancer Delivery Service | 406309 | [406309-necromancer-delivery-service.json](./406309-necromancer-delivery-service.json) |
 | Necromancer for a Week | 303930 | [303930-necromancer-for-a-week.json](./303930-necromancer-for-a-week.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
@@ -4382,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHL Supercard | 21625 | [21625-nhl-supercard.json](./21625-nhl-supercard.json) |
+| NHL SuperCard 2K18 | 74536 | [74536-nhl-supercard-2k18.json](./74536-nhl-supercard-2k18.json) |
 | NHL: 19 Legends Edition | 48400 | [48400-nhl-19-legends-edition.json](./48400-nhl-19-legends-edition.json) |
 | NHL: Legacy Edition | 36848 | [36848-nhl-legacy-edition.json](./36848-nhl-legacy-edition.json) |
 | NHLPA Hockey 93 | 42479 | [42479-nhlpa-hockey-93.json](./42479-nhlpa-hockey-93.json) |
@@ -6080,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninpaw | 296320 | [296320-ninpaw.json](./296320-ninpaw.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
+| Ninpu Sentai Hurricanger | 72887 | [72887-ninpu-sentai-hurricanger.json](./72887-ninpu-sentai-hurricanger.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
 | Ninquest | 235020 | [235020-ninquest.json](./235020-ninquest.json) |
 | Ninshi Masuta | 131617 | [131617-ninshi-masuta.json](./131617-ninshi-masuta.json) |
@@ -6354,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nnnnnight | 319059 | [319059-nnnnnight.json](./319059-nnnnnight.json) |
 | Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
 | No 1 Lives | 195878 | [195878-no-1-lives.json](./195878-no-1-lives.json) |
+| No Action Jackson | 72878 | [72878-no-action-jackson.json](./72878-no-action-jackson.json) |
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
@@ -6443,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Going Back | 170637 | [170637-no-going-back.json](./170637-no-going-back.json) |
+| No Gravity | 72869 | [72869-no-gravity.json](./72869-no-gravity.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Greater Glory: The American Civil War | 72017 | [72017-no-greater-glory-the-american-civil-war.json](./72017-no-greater-glory-the-american-civil-war.json) |
 | No Happy Days | 318355 | [318355-no-happy-days.json](./318355-no-happy-days.json) |
