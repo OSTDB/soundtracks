@@ -3252,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
 | FartPart | 172231 | [172231-fartpart.json](./172231-fartpart.json) |
+| Fartpuzzler | 419709 | [419709-fartpuzzler.json](./419709-fartpuzzler.json) |
 | Farty Bird | 148805 | [148805-farty-bird.json](./148805-farty-bird.json) |
 | Farty Rocket | 177182 | [177182-farty-rocket.json](./177182-farty-rocket.json) |
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
@@ -9814,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Hands | 291090 | [291090-fly-hands.json](./291090-fly-hands.json) |
 | Fly Hard | 306372 | [306372-fly-hard.json](./306372-fly-hard.json) |
 | Fly Hard | 381027 | [381027-fly-hard.json](./381027-fly-hard.json) |
+| Fly Hard! | 419682 | [419682-fly-hard.json](./419682-fly-hard.json) |
 | Fly Harder | 38847 | [38847-fly-harder.json](./38847-fly-harder.json) |
 | Fly High | 110161 | [110161-fly-high.json](./110161-fly-high.json) |
 | Fly High | 273713 | [273713-fly-high.json](./273713-fly-high.json) |
