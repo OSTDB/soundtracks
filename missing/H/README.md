@@ -112,7 +112,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
 | Habroxia | 122654 | [122654-habroxia.json](./122654-habroxia.json) |
-| Habroxia 2 | 141326 | [141326-habroxia-2.json](./141326-habroxia-2.json) |
 | Habu Meijin no Omoshiro Shogi | 38013 | [38013-habu-meijin-no-omoshiro-shogi.json](./38013-habu-meijin-no-omoshiro-shogi.json) |
 | Habu Yoshiharu Shogi de Kitaeru: Ketsudanryoku DS | 124543 | [124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json](./124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json) |
 | Haccer | 223616 | [223616-haccer.json](./223616-haccer.json) |
@@ -3120,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Phoenix | 99994 | [99994-haunted-hotel-phoenix.json](./99994-haunted-hotel-phoenix.json) |
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
 | Haunted Hotel: Room 18 | 139201 | [139201-haunted-hotel-room-18.json](./139201-haunted-hotel-room-18.json) |
+| Haunted Hotel: Room 18 - Collector's Edition | 126672 | [126672-haunted-hotel-room-18-collectors-edition.json](./126672-haunted-hotel-room-18-collectors-edition.json) |
 | Haunted Hotel: Silent Waters | 182280 | [182280-haunted-hotel-silent-waters.json](./182280-haunted-hotel-silent-waters.json) |
 | Haunted Hotel: Silent Waters - Collector's Edition | 186678 | [186678-haunted-hotel-silent-waters-collectors-edition.json](./186678-haunted-hotel-silent-waters-collectors-edition.json) |
 | Haunted Hotel: Stay in the Light | 43149 | [43149-haunted-hotel-stay-in-the-light.json](./43149-haunted-hotel-stay-in-the-light.json) |
@@ -5447,7 +5447,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
 | Hench: The Mix Master | 62635 | [62635-hench-the-mix-master.json](./62635-hench-the-mix-master.json) |
 | Henchman For Hire | 132489 | [132489-henchman-for-hire.json](./132489-henchman-for-hire.json) |
-| Henchman Story | 151303 | [151303-henchman-story.json](./151303-henchman-story.json) |
 | Hendecad | 124711 | [124711-hendecad.json](./124711-hendecad.json) |
 | Hendichen | 414705 | [414705-hendichen.json](./414705-hendichen.json) |
 | Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
@@ -8553,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Run | 147535 | [147535-hide-and-run.json](./147535-hide-and-run.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
+| Hide and Secret: The Lost World | 126687 | [126687-hide-and-secret-the-lost-world.json](./126687-hide-and-secret-the-lost-world.json) |
 | Hide and Seek | 114212 | [114212-hide-and-seek.json](./114212-hide-and-seek.json) |
 | Hide and Seek | 131331 | [131331-hide-and-seek.json](./131331-hide-and-seek.json) |
 | Hide and Seek | 150318 | [150318-hide-and-seek.json](./150318-hide-and-seek.json) |
