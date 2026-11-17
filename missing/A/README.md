@@ -5086,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Premiership Coach 2010 | 66019 | [66019-afl-premiership-coach-2010.json](./66019-afl-premiership-coach-2010.json) |
 | AFL Premiership Coach 2011 | 66018 | [66018-afl-premiership-coach-2011.json](./66018-afl-premiership-coach-2011.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
+| Aflutter | 428922 | [428922-aflutter.json](./428922-aflutter.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
 | AFPS: Airplane Flight Pilot Sim | 251339 | [251339-afps-airplane-flight-pilot-sim.json](./251339-afps-airplane-flight-pilot-sim.json) |
 | Afraid Gear | 59331 | [59331-afraid-gear.json](./59331-afraid-gear.json) |
@@ -15901,6 +15902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arida: Backland's Awakening | 106433 | [106433-arida-backlands-awakening.json](./106433-arida-backlands-awakening.json) |
 | Arida: Backland's Awakening - Definitive Edition | 322655 | [322655-arida-backlands-awakening-definitive-edition.json](./322655-arida-backlands-awakening-definitive-edition.json) |
 | AridFortress | 102224 | [102224-aridfortress.json](./102224-aridfortress.json) |
+| Ariduna | 428888 | [428888-ariduna.json](./428888-ariduna.json) |
 | Arie: Moonprayer | 258534 | [258534-arie-moonprayer.json](./258534-arie-moonprayer.json) |
 | Ariel | 33319 | [33319-ariel.json](./33319-ariel.json) |
 | Ariel Cleanomancer and the Eldritch Sweep | 184980 | [184980-ariel-cleanomancer-and-the-eldritch-sweep.json](./184980-ariel-cleanomancer-and-the-eldritch-sweep.json) |
