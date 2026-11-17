@@ -10522,6 +10522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines Remastered - Campus | 301332 | [301332-cities-skylines-remastered-campus.json](./301332-cities-skylines-remastered-campus.json) |
 | Cities: VR - Enhanced Edition | 225958 | [225958-cities-vr-enhanced-edition.json](./225958-cities-vr-enhanced-edition.json) |
 | CitiesCorp Concept - Build Everything on Your Own | 33484 | [33484-citiescorp-concept-build-everything-on-your-own.json](./33484-citiescorp-concept-build-everything-on-your-own.json) |
+| Citizen | 60169 | [60169-citizen.json](./60169-citizen.json) |
 | Citizen Burger Disorder | 60868 | [60868-citizen-burger-disorder.json](./60868-citizen-burger-disorder.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
 | Citizen Kane 64 | 332210 | [332210-citizen-kane-64.json](./332210-citizen-kane-64.json) |
@@ -13926,6 +13927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
 | Colorami | 378517 | [378517-colorami.json](./378517-colorami.json) |
 | Coloratura | 410054 | [410054-coloratura.json](./410054-coloratura.json) |
+| Coloratura | 60129 | [60129-coloratura.json](./60129-coloratura.json) |
 | Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
 | ColorBlend FX: Desaturation | 95024 | [95024-colorblend-fx-desaturation.json](./95024-colorblend-fx-desaturation.json) |
 | Colorblind - An Eye For An Eye | 96996 | [96996-colorblind-an-eye-for-an-eye.json](./96996-colorblind-an-eye-for-an-eye.json) |
@@ -21318,6 +21320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptosnake | 191448 | [191448-cryptosnake.json](./191448-cryptosnake.json) |
 | Cryptower | 260282 | [260282-cryptower.json](./260282-cryptower.json) |
 | CryptoZoo | 234364 | [234364-cryptozoo.json](./234364-cryptozoo.json) |
+| Cryptozookeeper | 60123 | [60123-cryptozookeeper.json](./60123-cryptozookeeper.json) |
 | Cryptozootography | 178742 | [178742-cryptozootography.json](./178742-cryptozootography.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
 | Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
