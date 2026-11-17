@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Frog Game | 67066 | [67066-a-frog-game.json](./67066-a-frog-game.json) |
 | A Frog in a Small Pond | 382709 | [382709-a-frog-in-a-small-pond.json](./382709-a-frog-in-a-small-pond.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
+| A Frog Took My Sister | 180735 | [180735-a-frog-took-my-sister.json](./180735-a-frog-took-my-sister.json) |
 | A Frog's Guide to Eating Flies | 180424 | [180424-a-frogs-guide-to-eating-flies.json](./180424-a-frogs-guide-to-eating-flies.json) |
 | A Frog's Job | 211397 | [211397-a-frogs-job.json](./211397-a-frogs-job.json) |
 | A Frog's Job 2: Froggina | 400419 | [400419-a-frogs-job-2-froggina.json](./400419-a-frogs-job-2-froggina.json) |
@@ -18602,6 +18603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Duel Deluxe + Astro Duel 2 | 386215 | [386215-astro-duel-deluxe-astro-duel-2.json](./386215-astro-duel-deluxe-astro-duel-2.json) |
 | Astro Empires | 124660 | [124660-astro-empires.json](./124660-astro-empires.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
+| Astro Error | 180722 | [180722-astro-error.json](./180722-astro-error.json) |
 | Astro Escape: Free | 24067 | [24067-astro-escape-free.json](./24067-astro-escape-free.json) |
 | Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
 | Astro Fantasia | 83352 | [83352-astro-fantasia.json](./83352-astro-fantasia.json) |
@@ -18837,6 +18839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroPop | 3755 | [3755-astropop.json](./3755-astropop.json) |
 | AstroPop Deluxe | 27813 | [27813-astropop-deluxe.json](./27813-astropop-deluxe.json) |
 | AstroPork | 407734 | [407734-astropork.json](./407734-astropork.json) |
+| Astropover | 180742 | [180742-astropover.json](./180742-astropover.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
 | Astropulse: Reincarnation | 327646 | [327646-astropulse-reincarnation.json](./327646-astropulse-reincarnation.json) |
 | AstroRock | 62394 | [62394-astrorock.json](./62394-astrorock.json) |
