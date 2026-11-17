@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall off Reach | 415337 | [415337-fall-off-reach.json](./415337-fall-off-reach.json) |
 | Fall or Nothing | 361934 | [361934-fall-or-nothing.json](./361934-fall-or-nothing.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
+| Fall Queen | 427697 | [427697-fall-queen.json](./427697-fall-queen.json) |
 | Fall Squad Guys: Stumble Knockout Royale | 314016 | [314016-fall-squad-guys-stumble-knockout-royale.json](./314016-fall-squad-guys-stumble-knockout-royale.json) |
 | Fall Up | 188897 | [188897-fall-up.json](./188897-fall-up.json) |
 | Fall Valley | 267843 | [267843-fall-valley.json](./267843-fall-valley.json) |
@@ -3818,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fates Forever | 19247 | [19247-fates-forever.json](./19247-fates-forever.json) |
 | Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
 | Fates: Determination | 224823 | [224823-fates-determination.json](./224823-fates-determination.json) |
+| Fatespun | 427731 | [427731-fatespun.json](./427731-fatespun.json) |
 | Fateweaver: Smash or Pass | 238598 | [238598-fateweaver-smash-or-pass.json](./238598-fateweaver-smash-or-pass.json) |
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
 | FateZ | 413296 | [413296-fatez.json](./413296-fatez.json) |
@@ -5351,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy: The Warlock of Firetop Mountain | 81501 | [81501-fighting-fantasy-the-warlock-of-firetop-mountain.json](./81501-fighting-fantasy-the-warlock-of-firetop-mountain.json) |
 | Fighting Fiends | 180488 | [180488-fighting-fiends.json](./180488-fighting-fiends.json) |
 | Fighting For Food | 72357 | [72357-fighting-for-food.json](./72357-fighting-for-food.json) |
+| Fighting for Justice: Episode 1 | 427704 | [427704-fighting-for-justice-episode-1.json](./427704-fighting-for-justice-episode-1.json) |
 | Fighting For One Piece | 65911 | [65911-fighting-for-one-piece.json](./65911-fighting-for-one-piece.json) |
 | Fighting for Singleship: I am Chased by a Bunch of Women But I Just Want to Play Video Games | 274558 | [274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json](./274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json) |
 | Fighting Force | 2542 | [2542-fighting-force.json](./2542-fighting-force.json) |
@@ -14481,6 +14484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Frontline Force | 259421 | [259421-frontline-force.json](./259421-frontline-force.json) |
+| Frontline Frenzy | 427693 | [427693-frontline-frenzy.json](./427693-frontline-frenzy.json) |
 | Frontline Fury: Trenches, Mud & Blood | 332965 | [332965-frontline-fury-trenches-mud-and-blood.json](./332965-frontline-fury-trenches-mud-and-blood.json) |
 | Frontline Gallop | 247265 | [247265-frontline-gallop.json](./247265-frontline-gallop.json) |
 | Frontline Grunt | 211516 | [211516-frontline-grunt.json](./211516-frontline-grunt.json) |
