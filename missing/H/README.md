@@ -4865,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Yeah! Pocket Inferno | 78672 | [78672-hell-yeah-pocket-inferno.json](./78672-hell-yeah-pocket-inferno.json) |
 | Hell Yeah! Virtual Rabbit: Missions | 174135 | [174135-hell-yeah-virtual-rabbit-missions.json](./174135-hell-yeah-virtual-rabbit-missions.json) |
 | Hell Yeah! Wrath of the Dead Rabbit | 5618 | [5618-hell-yeah-wrath-of-the-dead-rabbit.json](./5618-hell-yeah-wrath-of-the-dead-rabbit.json) |
+| Hell-A | 422302 | [422302-hell-a.json](./422302-hell-a.json) |
 | Hell-Copter | 94302 | [94302-hell-copter.json](./94302-hell-copter.json) |
 | Hell-Hell | 206182 | [206182-hell-hell.json](./206182-hell-hell.json) |
 | Hell-IX | 110238 | [110238-hell-ix.json](./110238-hell-ix.json) |
@@ -5070,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Again | 83400 | [83400-hello-again.json](./83400-hello-again.json) |
 | Hello Anxiety | 357276 | [357276-hello-anxiety.json](./357276-hello-anxiety.json) |
 | Hello Baby! | 47898 | [47898-hello-baby.json](./47898-hello-baby.json) |
+| Hello Baron | 422279 | [422279-hello-baron.json](./422279-hello-baron.json) |
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
@@ -8987,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Runners | 200269 | [200269-highway-runners.json](./200269-highway-runners.json) |
 | Highway Sniper Shooter | 107545 | [107545-highway-sniper-shooter.json](./107545-highway-sniper-shooter.json) |
 | Highway Speeder | 231167 | [231167-highway-speeder.json](./231167-highway-speeder.json) |
+| Highway Station Simulator | 422316 | [422316-highway-station-simulator.json](./422316-highway-station-simulator.json) |
 | Highway Terror | 322600 | [322600-highway-terror.json](./322600-highway-terror.json) |
 | Highway to Heal | 344445 | [344445-highway-to-heal.json](./344445-highway-to-heal.json) |
 | Highway to Hell-th | 413748 | [413748-highway-to-hell-th.json](./413748-highway-to-hell-th.json) |
