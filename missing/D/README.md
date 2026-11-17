@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy: Or a Brief Glimpse into the Life of the Candy Alchemist | 34975 | [34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Dandy: Zeuon no Fukkatsu | 41244 | [41244-dandy-zeuon-no-fukkatsu.json](./41244-dandy-zeuon-no-fukkatsu.json) |
+| Danelaw | 425290 | [425290-danelaw.json](./425290-danelaw.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
 | Daneta3 | 98173 | [98173-daneta3.json](./98173-daneta3.json) |
@@ -10952,6 +10953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis Rebirth | 389501 | [389501-dino-crisis-rebirth.json](./389501-dino-crisis-rebirth.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
+| Dino Crisis: Modern Edition | 425281 | [425281-dino-crisis-modern-edition.json](./425281-dino-crisis-modern-edition.json) |
 | Dino Cub | 188914 | [188914-dino-cub.json](./188914-dino-cub.json) |
 | Dino D-Day | 8701 | [8701-dino-d-day.json](./8701-dino-d-day.json) |
 | Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
@@ -18853,6 +18855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress Up Bear | 96029 | [96029-dress-up-bear.json](./96029-dress-up-bear.json) |
 | Dress Up Games for Girls & Kids: Fun Beauty Salon | 107562 | [107562-dress-up-games-for-girls-and-kids-fun-beauty-salon.json](./107562-dress-up-games-for-girls-and-kids-fun-beauty-salon.json) |
 | Dress Up Rush | 53981 | [53981-dress-up-rush.json](./53981-dress-up-rush.json) |
+| Dress Your Meat | 425284 | [425284-dress-your-meat.json](./425284-dress-your-meat.json) |
 | Dress-up | 103672 | [103672-dress-up.json](./103672-dress-up.json) |
 | Dress-Up Pups | 87895 | [87895-dress-up-pups.json](./87895-dress-up-pups.json) |
 | Dress-Up With Helene | 344113 | [344113-dress-up-with-helene.json](./344113-dress-up-with-helene.json) |
@@ -20889,6 +20892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Monsters | 207986 | [207986-dungeon-monsters.json](./207986-dungeon-monsters.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Munchies | 114484 | [114484-dungeon-munchies.json](./114484-dungeon-munchies.json) |
+| Dungeon Munchies 2 | 425264 | [425264-dungeon-munchies-2.json](./425264-dungeon-munchies-2.json) |
 | Dungeon Munchies: Collector's Edition | 289355 | [289355-dungeon-munchies-collectors-edition.json](./289355-dungeon-munchies-collectors-edition.json) |
 | Dungeon Munchies: Deluxe Edition | 300483 | [300483-dungeon-munchies-deluxe-edition.json](./300483-dungeon-munchies-deluxe-edition.json) |
 | Dungeon Mutation | 252518 | [252518-dungeon-mutation.json](./252518-dungeon-mutation.json) |
