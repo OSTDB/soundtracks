@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get off Work | 304911 | [304911-get-off-work.json](./304911-get-off-work.json) |
 | Get Off Work | 379031 | [379031-get-off-work.json](./379031-get-off-work.json) |
 | Get Ogre It | 141747 | [141747-get-ogre-it.json](./141747-get-ogre-it.json) |
+| Get Ogre It: Escape Dungeons | 197804 | [197804-get-ogre-it-escape-dungeons.json](./197804-get-ogre-it-escape-dungeons.json) |
 | Get on da Mic | 20186 | [20186-get-on-da-mic.json](./20186-get-on-da-mic.json) |
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
 | Get on Top! | 97452 | [97452-get-on-top.json](./97452-get-on-top.json) |
@@ -4255,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
 | Ghost Frequency | 319487 | [319487-ghost-frequency.json](./319487-ghost-frequency.json) |
 | Ghost Girl Ghussy: XXXL Edition | 271042 | [271042-ghost-girl-ghussy-xxxl-edition.json](./271042-ghost-girl-ghussy-xxxl-edition.json) |
+| Ghost Girl Lasling | 197420 | [197420-ghost-girl-lasling.json](./197420-ghost-girl-lasling.json) |
 | Ghost Girl Lasling | 204035 | [204035-ghost-girl-lasling.json](./204035-ghost-girl-lasling.json) |
 | Ghost Girl Lasling: Chibi Stickers | 291134 | [291134-ghost-girl-lasling-chibi-stickers.json](./291134-ghost-girl-lasling-chibi-stickers.json) |
 | Ghost Girl Room | 98609 | [98609-ghost-girl-room.json](./98609-ghost-girl-room.json) |
@@ -6342,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Quest | 400528 | [400528-go-quest.json](./400528-go-quest.json) |
 | Go Quirk! | 340552 | [340552-go-quirk.json](./340552-go-quirk.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
+| Go Rally | 197691 | [197691-go-rally.json](./197691-go-rally.json) |
 | Go Rescue | 238293 | [238293-go-rescue.json](./238293-go-rescue.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | Go Rollo Go | 295188 | [295188-go-rollo-go.json](./295188-go-rollo-go.json) |
