@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sail the Seas | 302219 | [302219-sail-the-seas.json](./302219-sail-the-seas.json) |
+| Sail: Evolved Tides | 420416 | [420416-sail-evolved-tides.json](./420416-sail-evolved-tides.json) |
 | Sailaway III | 272590 | [272590-sailaway-iii.json](./272590-sailaway-iii.json) |
 | Sailboat Championship | 208721 | [208721-sailboat-championship.json](./208721-sailboat-championship.json) |
 | Sailboat Explorer | 181121 | [181121-sailboat-explorer.json](./181121-sailboat-explorer.json) |
@@ -16660,6 +16661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoking Simulator | 276168 | [276168-smoking-simulator.json](./276168-smoking-simulator.json) |
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
 | Smokkehed | 368788 | [368788-smokkehed.json](./368788-smokkehed.json) |
+| Smoky Sails | 420427 | [420427-smoky-sails.json](./420427-smoky-sails.json) |
 | Smoky White | 326777 | [326777-smoky-white.json](./326777-smoky-white.json) |
 | Smokyflex | 207693 | [207693-smokyflex.json](./207693-smokyflex.json) |
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
@@ -16883,6 +16885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snailshell | 386352 | [386352-snailshell.json](./386352-snailshell.json) |
 | SnailShock Grand Supreme Tournament | 338413 | [338413-snailshock-grand-supreme-tournament.json](./338413-snailshock-grand-supreme-tournament.json) |
+| Snaily | 420440 | [420440-snaily.json](./420440-snaily.json) |
 | Snaip of Doomsday | 412902 | [412902-snaip-of-doomsday.json](./412902-snaip-of-doomsday.json) |
 | Snak | 151979 | [151979-snak.json](./151979-snak.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
@@ -21560,6 +21563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Soup! | 161612 | [161612-soup.json](./161612-soup.json) |
+| Soup's Tail | 420438 | [420438-soups-tail.json](./420438-soups-tail.json) |
 | Soupcosis | 342510 | [342510-soupcosis.json](./342510-soupcosis.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
 | Souper Man | 137965 | [137965-souper-man.json](./137965-souper-man.json) |
@@ -25977,6 +25981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spray Girl | 111779 | [111779-spray-girl.json](./111779-spray-girl.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
+| Spray to Grail | 420410 | [420410-spray-to-grail.json](./420410-spray-to-grail.json) |
 | Spray Trace | 422480 | [422480-spray-trace.json](./422480-spray-trace.json) |
 | Spread | 210961 | [210961-spread.json](./210961-spread.json) |
 | Spread Eagle Cross the Block! | 144611 | [144611-spread-eagle-cross-the-block.json](./144611-spread-eagle-cross-the-block.json) |
@@ -30594,6 +30599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Stars Echo | 369703 | [369703-still-stars-echo.json](./369703-still-stars-echo.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
+| Still Trails: Camping | 420433 | [420433-still-trails-camping.json](./420433-still-trails-camping.json) |
 | Still Warm | 405791 | [405791-still-warm.json](./405791-still-warm.json) |
 | Still Waters | 342913 | [342913-still-waters.json](./342913-still-waters.json) |
 | Still Winter | 389855 | [389855-still-winter.json](./389855-still-winter.json) |
