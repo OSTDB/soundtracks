@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cairn: Stone Towers | 374385 | [374385-cairn-stone-towers.json](./374385-cairn-stone-towers.json) |
 | Cairns | 374398 | [374398-cairns.json](./374398-cairns.json) |
 | Cairo ShootOut! | 229800 | [229800-cairo-shootout.json](./229800-cairo-shootout.json) |
+| Cairo Stark: Crocs Hunter | 161448 | [161448-cairo-stark-crocs-hunter.json](./161448-cairo-stark-crocs-hunter.json) |
 | Cairo's Tale: The Big Egg | 156114 | [156114-cairos-tale-the-big-egg.json](./156114-cairos-tale-the-big-egg.json) |
 | Caislean: Paranormal | 251787 | [251787-caislean-paranormal.json](./251787-caislean-paranormal.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
@@ -1889,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium Packs 1, 2, and 3 | 164749 | [164749-capcom-arcade-stadium-packs-1-2-and-3.json](./164749-capcom-arcade-stadium-packs-1-2-and-3.json) |
 | Capcom Arcade Stadium: 1941 - Counter Attack | 148748 | [148748-capcom-arcade-stadium-1941-counter-attack.json](./148748-capcom-arcade-stadium-1941-counter-attack.json) |
 | Capcom Arcade Stadium: 1942 | 148754 | [148754-capcom-arcade-stadium-1942.json](./148754-capcom-arcade-stadium-1942.json) |
+| Capcom Arcade Stadium: 19XX - The War Against Destiny | 161441 | [161441-capcom-arcade-stadium-19xx-the-war-against-destiny.json](./161441-capcom-arcade-stadium-19xx-the-war-against-destiny.json) |
 | Capcom Arcade Stadium: Battle Circuit | 234302 | [234302-capcom-arcade-stadium-battle-circuit.json](./234302-capcom-arcade-stadium-battle-circuit.json) |
 | Capcom Arcade Stadium: Bionic Commando | 148760 | [148760-capcom-arcade-stadium-bionic-commando.json](./148760-capcom-arcade-stadium-bionic-commando.json) |
 | Capcom Arcade Stadium: Carrier Air Wing | 148746 | [148746-capcom-arcade-stadium-carrier-air-wing.json](./148746-capcom-arcade-stadium-carrier-air-wing.json) |
@@ -1898,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium: Forgotten Worlds | 148752 | [148752-capcom-arcade-stadium-forgotten-worlds.json](./148752-capcom-arcade-stadium-forgotten-worlds.json) |
 | Capcom Arcade Stadium: Ghosts 'n Goblins | 173796 | [173796-capcom-arcade-stadium-ghosts-n-goblins.json](./173796-capcom-arcade-stadium-ghosts-n-goblins.json) |
 | Capcom Arcade Stadium: Ghouls 'n Ghosts | 148751 | [148751-capcom-arcade-stadium-ghouls-n-ghosts.json](./148751-capcom-arcade-stadium-ghouls-n-ghosts.json) |
+| Capcom Arcade Stadium: Giga Wing | 161442 | [161442-capcom-arcade-stadium-giga-wing.json](./161442-capcom-arcade-stadium-giga-wing.json) |
 | Capcom Arcade Stadium: Legendary Wings | 148757 | [148757-capcom-arcade-stadium-legendary-wings.json](./148757-capcom-arcade-stadium-legendary-wings.json) |
 | Capcom Arcade Stadium: Mega Twins | 150656 | [150656-capcom-arcade-stadium-mega-twins.json](./150656-capcom-arcade-stadium-mega-twins.json) |
 | Capcom Arcade Stadium: Pirate Ship Higemaru | 148756 | [148756-capcom-arcade-stadium-pirate-ship-higemaru.json](./148756-capcom-arcade-stadium-pirate-ship-higemaru.json) |
@@ -4687,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Lab! | 344527 | [344527-cat-lab.json](./344527-cat-lab.json) |
 | Cat Lady | 119282 | [119282-cat-lady.json](./119282-cat-lady.json) |
 | Cat Lady: The Card Game | 129839 | [129839-cat-lady-the-card-game.json](./129839-cat-lady-the-card-game.json) |
+| Cat Leather Jackets | 162435 | [162435-cat-leather-jackets.json](./162435-cat-leather-jackets.json) |
 | Cat Legend | 274554 | [274554-cat-legend.json](./274554-cat-legend.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Life Simulator | 267486 | [267486-cat-life-simulator.json](./267486-cat-life-simulator.json) |
