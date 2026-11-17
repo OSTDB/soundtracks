@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umami Island | 377201 | [377201-umami-island.json](./377201-umami-island.json) |
 | Umamusume Delish Derby | 360111 | [360111-umamusume-delish-derby.json](./360111-umamusume-delish-derby.json) |
 | Umamusume: Pretty Derby | 97494 | [97494-umamusume-pretty-derby.json](./97494-umamusume-pretty-derby.json) |
+| Umamusume: Pretty Derby - Party Dash | 254354 | [254354-umamusume-pretty-derby-party-dash.json](./254354-umamusume-pretty-derby-party-dash.json) |
 | Umamusume: Pretty Derby - Party Dash Team Bundle | 362544 | [362544-umamusume-pretty-derby-party-dash-team-bundle.json](./362544-umamusume-pretty-derby-party-dash-team-bundle.json) |
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 1 - Team Iris | 316227 | [316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json](./316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json) |
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 2 - Team Geranium | 361492 | [361492-umamusume-pretty-derby-party-dash-dlc-vol-2-team-geranium.json](./361492-umamusume-pretty-derby-party-dash-dlc-vol-2-team-geranium.json) |
@@ -3324,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled RPG from WolfEye Studios | 313175 | [313175-untitled-rpg-from-wolfeye-studios.json](./313175-untitled-rpg-from-wolfeye-studios.json) |
 | Untitled Runeterra MMO | 225568 | [225568-untitled-runeterra-mmo.json](./225568-untitled-runeterra-mmo.json) |
 | Untitled Shantae Game | 375612 | [375612-untitled-shantae-game.json](./375612-untitled-shantae-game.json) |
+| Untitled Shop Game | 429830 | [429830-untitled-shop-game.json](./429830-untitled-shop-game.json) |
 | Untitled Sonic Fangame | 369196 | [369196-untitled-sonic-fangame.json](./369196-untitled-sonic-fangame.json) |
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
 | Untitled Star Fox Minihack 2 | 259342 | [259342-untitled-star-fox-minihack-2.json](./259342-untitled-star-fox-minihack-2.json) |
