@@ -5501,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Puzzle V: Masyu | 64933 | [64933-nikoli-no-puzzle-v-masyu.json](./64933-nikoli-no-puzzle-v-masyu.json) |
 | Nikoli no Puzzle V: Museum | 178713 | [178713-nikoli-no-puzzle-v-museum.json](./178713-nikoli-no-puzzle-v-museum.json) |
 | Nikoli no Puzzle V: Numberlink | 178757 | [178757-nikoli-no-puzzle-v-numberlink.json](./178757-nikoli-no-puzzle-v-numberlink.json) |
+| Nikoli no Puzzle V: Nurikabe | 65101 | [65101-nikoli-no-puzzle-v-nurikabe.json](./65101-nikoli-no-puzzle-v-nurikabe.json) |
 | Nikoli no Puzzle V: Shikaku ni Kire | 178756 | [178756-nikoli-no-puzzle-v-shikaku-ni-kire.json](./178756-nikoli-no-puzzle-v-shikaku-ni-kire.json) |
 | Nikoli no Puzzle V: Yajilin | 178758 | [178758-nikoli-no-puzzle-v-yajilin.json](./178758-nikoli-no-puzzle-v-yajilin.json) |
 | Nikoli no Sudoku 3D Dai-ni-Shuu: 8-tsu no Puzzle de 1000-Mon | 222475 | [222475-nikoli-no-sudoku-3d-dai-ni-shuu-8-tsu-no-puzzle-de-1000-mon.json](./222475-nikoli-no-sudoku-3d-dai-ni-shuu-8-tsu-no-puzzle-de-1000-mon.json) |
@@ -5969,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Teleport | 410094 | [410094-ninja-teleport.json](./410094-ninja-teleport.json) |
 | Ninja Thea | 213441 | [213441-ninja-thea.json](./213441-ninja-thea.json) |
 | Ninja Throw HD | 20647 | [20647-ninja-throw-hd.json](./20647-ninja-throw-hd.json) |
+| Ninja Time Pirates | 61781 | [61781-ninja-time-pirates.json](./61781-ninja-time-pirates.json) |
 | Ninja Tobu | 281273 | [281273-ninja-tobu.json](./281273-ninja-tobu.json) |
 | Ninja Torappu | 62192 | [62192-ninja-torappu.json](./62192-ninja-torappu.json) |
 | Ninja Toy Warrior - Legendary Ninja Fight | 100935 | [100935-ninja-toy-warrior-legendary-ninja-fight.json](./100935-ninja-toy-warrior-legendary-ninja-fight.json) |
@@ -8786,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyamiru to Bonzu no Daibouken | 73109 | [73109-nyamiru-to-bonzu-no-daibouken.json](./73109-nyamiru-to-bonzu-no-daibouken.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyamon Tamer: Retro Edition | 289513 | [289513-nyamon-tamer-retro-edition.json](./289513-nyamon-tamer-retro-edition.json) |
+| Nyan Cat Adventure | 65131 | [65131-nyan-cat-adventure.json](./65131-nyan-cat-adventure.json) |
 | Nyan Cat FLY! | 313545 | [313545-nyan-cat-fly.json](./313545-nyan-cat-fly.json) |
 | Nyan Cat: Candy Match | 264965 | [264965-nyan-cat-candy-match.json](./264965-nyan-cat-candy-match.json) |
 | Nyan Cat: Jump! | 64259 | [64259-nyan-cat-jump.json](./64259-nyan-cat-jump.json) |
