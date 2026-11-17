@@ -10602,6 +10602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Domain's Monkey King | 83721 | [83721-digital-domains-monkey-king.json](./83721-digital-domains-monkey-king.json) |
 | Digital Dreams | 308068 | [308068-digital-dreams.json](./308068-digital-dreams.json) |
 | Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
+| Digital Druid | 423528 | [423528-digital-druid.json](./423528-digital-druid.json) |
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
 | Digital Eclipse Arcade: Jollyball | 259395 | [259395-digital-eclipse-arcade-jollyball.json](./259395-digital-eclipse-arcade-jollyball.json) |
@@ -12535,6 +12536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | District 187: Sin Streets | 64236 | [64236-district-187-sin-streets.json](./64236-district-187-sin-streets.json) |
 | District 7 | 74282 | [74282-district-7.json](./74282-district-7.json) |
 | District 99 | 160259 | [160259-district-99.json](./160259-district-99.json) |
+| District Null | 423515 | [423515-district-null.json](./423515-district-null.json) |
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
 | District VR | 285560 | [285560-district-vr.json](./285560-district-vr.json) |
@@ -16346,6 +16348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario & Puzzle League | 22549 | [22549-dr-mario-and-puzzle-league.json](./22549-dr-mario-and-puzzle-league.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
+| Dr. Mario 64 Recompiled | 423509 | [423509-dr-mario-64-recompiled.json](./423509-dr-mario-64-recompiled.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
 | Dr. Mario Decloned | 324635 | [324635-dr-mario-decloned.json](./324635-dr-mario-decloned.json) |
 | Dr. Mario DX | 276341 | [276341-dr-mario-dx.json](./276341-dr-mario-dx.json) |
@@ -19841,6 +19844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | DS Puzzler: Nanpure Fan & Oekaki Logic - Wi-Fi Taiou | 269709 | [269709-ds-puzzler-nanpure-fan-and-oekaki-logic-wi-fi-taiou.json](./269709-ds-puzzler-nanpure-fan-and-oekaki-logic-wi-fi-taiou.json) |
+| DS Rakubiki Jiten | 423538 | [423538-ds-rakubiki-jiten.json](./423538-ds-rakubiki-jiten.json) |
 | DS Uranai Seikatsu | 265904 | [265904-ds-uranai-seikatsu.json](./265904-ds-uranai-seikatsu.json) |
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DS Yukemuri Suspense Series: Free Writer Tachibana Maki - "Touyako, Nanatsu no Yu, Okuyu no Sato" Shuzai Techou | 124517 | [124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json](./124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json) |
