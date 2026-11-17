@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Silent Waters | 182280 | [182280-haunted-hotel-silent-waters.json](./182280-haunted-hotel-silent-waters.json) |
 | Haunted Hotel: Silent Waters - Collector's Edition | 186678 | [186678-haunted-hotel-silent-waters-collectors-edition.json](./186678-haunted-hotel-silent-waters-collectors-edition.json) |
 | Haunted Hotel: Stay in the Light | 43149 | [43149-haunted-hotel-stay-in-the-light.json](./43149-haunted-hotel-stay-in-the-light.json) |
+| Haunted Hotel: The Axiom Butcher | 181965 | [181965-haunted-hotel-the-axiom-butcher.json](./181965-haunted-hotel-the-axiom-butcher.json) |
 | Haunted Hotel: The Axiom Butcher - Collector's Edition | 171308 | [171308-haunted-hotel-the-axiom-butcher-collectors-edition.json](./171308-haunted-hotel-the-axiom-butcher-collectors-edition.json) |
 | Haunted Hotel: The Evil Inside | 105700 | [105700-haunted-hotel-the-evil-inside.json](./105700-haunted-hotel-the-evil-inside.json) |
 | Haunted Hotel: The Thirteenth | 182281 | [182281-haunted-hotel-the-thirteenth.json](./182281-haunted-hotel-the-thirteenth.json) |
