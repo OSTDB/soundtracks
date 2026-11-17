@@ -17326,7 +17326,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asema | 401989 | [401989-asema.json](./401989-asema.json) |
 | Asemblance | 19167 | [19167-asemblance.json](./19167-asemblance.json) |
 | Asemblance Collection | 110582 | [110582-asemblance-collection.json](./110582-asemblance-collection.json) |
-| Asemblance: Oversight | 99164 | [99164-asemblance-oversight.json](./99164-asemblance-oversight.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
 | Asfalia: Panic at the Mansion | 258347 | [258347-asfalia-panic-at-the-mansion.json](./258347-asfalia-panic-at-the-mansion.json) |
