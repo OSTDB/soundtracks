@@ -528,7 +528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Engine | 27557 | [27557-quantum-engine.json](./27557-quantum-engine.json) |
 | Quantum Entanglement | 332277 | [332277-quantum-entanglement.json](./332277-quantum-entanglement.json) |
 | Quantum Era | 407392 | [407392-quantum-era.json](./407392-quantum-era.json) |
-| Quantum Error | 132226 | [132226-quantum-error.json](./132226-quantum-error.json) |
 | Quantum Eternity | 169237 | [169237-quantum-eternity.json](./169237-quantum-eternity.json) |
 | Quantum Eye | 391737 | [391737-quantum-eye.json](./391737-quantum-eye.json) |
 | Quantum Flux | 34608 | [34608-quantum-flux.json](./34608-quantum-flux.json) |
@@ -540,7 +539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Joe | 326098 | [326098-quantum-joe.json](./326098-quantum-joe.json) |
 | Quantum Knights | 258570 | [258570-quantum-knights.json](./258570-quantum-knights.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
-| Quantum League | 118789 | [118789-quantum-league.json](./118789-quantum-league.json) |
 | Quantum Legend - vr show | 115604 | [115604-quantum-legend-vr-show.json](./115604-quantum-legend-vr-show.json) |
 | Quantum Lock | 34189 | [34189-quantum-lock.json](./34189-quantum-lock.json) |
 | Quantum Loop | 394483 | [394483-quantum-loop.json](./394483-quantum-loop.json) |
@@ -822,7 +820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Conquest | 157390 | [157390-queens-conquest.json](./157390-queens-conquest.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Crown 2 | 38734 | [38734-queens-crown-2.json](./38734-queens-crown-2.json) |
-| Queen's Domain | 258775 | [258775-queens-domain.json](./258775-queens-domain.json) |
 | Queen's Gamble | 411234 | [411234-queens-gamble.json](./411234-queens-gamble.json) |
 | Queen's Garden | 54269 | [54269-queens-garden.json](./54269-queens-garden.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
@@ -852,7 +849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Tales: The Beast and the Nightingale | 140280 | [140280-queens-tales-the-beast-and-the-nightingale.json](./140280-queens-tales-the-beast-and-the-nightingale.json) |
 | Queen's Tales: The Beast and the Nightingale - Collector's Edition | 29189 | [29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json](./29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json) |
 | Queen's Wish 2: The Tormentor | 203743 | [203743-queens-wish-2-the-tormentor.json](./203743-queens-wish-2-the-tormentor.json) |
-| Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queen’s Wish: The Judgment | 387078 | [387078-queen-s-wish-the-judgment.json](./387078-queen-s-wish-the-judgment.json) |
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
 | Queendoom | 31049 | [31049-queendoom.json](./31049-queendoom.json) |
@@ -866,7 +862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queens Master | 342547 | [342547-queens-master.json](./342547-queens-master.json) |
 | Queens Road | 109106 | [109106-queens-road.json](./109106-queens-road.json) |
 | Queensrÿche's Promised Land | 71465 | [71465-queensryches-promised-land.json](./71465-queensryches-promised-land.json) |
-| Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
 | Queer and Chill | 149965 | [149965-queer-and-chill.json](./149965-queer-and-chill.json) |
 | Queer Man Peering Into A Rock Pool.jpg | 192610 | [192610-queer-man-peering-into-a-rock-pool-jpg.json](./192610-queer-man-peering-into-a-rock-pool-jpg.json) |
 | Queer Power | 128690 | [128690-queer-power.json](./128690-queer-power.json) |
@@ -987,7 +982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest of the Hero | 348988 | [348988-quest-of-the-hero.json](./348988-quest-of-the-hero.json) |
 | Quest of the Space Beagle | 24678 | [24678-quest-of-the-space-beagle.json](./24678-quest-of-the-space-beagle.json) |
-| Quest of Vidhuraa | 99591 | [99591-quest-of-vidhuraa.json](./99591-quest-of-vidhuraa.json) |
 | Quest of Wizard | 188909 | [188909-quest-of-wizard.json](./188909-quest-of-wizard.json) |
 | Quest of Yipe! | 139159 | [139159-quest-of-yipe.json](./139159-quest-of-yipe.json) |
 | Quest of Yipe! II | 139160 | [139160-quest-of-yipe-ii.json](./139160-quest-of-yipe-ii.json) |
