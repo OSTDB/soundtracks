@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videocart-9: Drag Strip | 41213 | [41213-videocart-9-drag-strip.json](./41213-videocart-9-drag-strip.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
 | Videogame 12 Jogos | 287573 | [287573-videogame-12-jogos.json](./287573-videogame-12-jogos.json) |
+| VideoGame Construction Set | 104885 | [104885-videogame-construction-set.json](./104885-videogame-construction-set.json) |
 | Videogame Heardle | 203193 | [203193-videogame-heardle.json](./203193-videogame-heardle.json) |
 | Videogames! The Videogame Trivia Videogame | 64217 | [64217-videogames-the-videogame-trivia-videogame.json](./64217-videogames-the-videogame-trivia-videogame.json) |
 | VideoHeroeS | 228857 | [228857-videoheroes.json](./228857-videoheroes.json) |
