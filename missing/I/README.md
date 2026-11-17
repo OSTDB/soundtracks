@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol-Mahjong: Final Romance R | 221438 | [221438-idol-mahjong-final-romance-r.json](./221438-idol-mahjong-final-romance-r.json) |
 | Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
 | Idolaters | 401470 | [401470-idolaters.json](./401470-idolaters.json) |
+| Idolish7 | 57270 | [57270-idolish7.json](./57270-idolish7.json) |
 | Idolish7 Twelve Fantasia! | 136760 | [136760-idolish7-twelve-fantasia.json](./136760-idolish7-twelve-fantasia.json) |
 | Idolize | 258148 | [258148-idolize.json](./258148-idolize.json) |
 | Idols Galore! | 92700 | [92700-idols-galore.json](./92700-idols-galore.json) |
