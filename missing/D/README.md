@@ -47,7 +47,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Return | 92112 | [92112-d-return.json](./92112-d-return.json) |
 | D-Star's | 130793 | [130793-d-stars.json](./130793-d-stars.json) |
 | D-Sudoku | 312937 | [312937-d-sudoku.json](./312937-d-sudoku.json) |
-| D-topia | 369840 | [369840-d-topia.json](./369840-d-topia.json) |
 | D-Unit Drift Racing | 44678 | [44678-d-unit-drift-racing.json](./44678-d-unit-drift-racing.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
