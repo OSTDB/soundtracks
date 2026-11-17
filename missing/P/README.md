@@ -8159,7 +8159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine Creek: The Book of Judith | 253215 | [253215-pine-creek-the-book-of-judith.json](./253215-pine-creek-the-book-of-judith.json) |
 | Pine Grove | 241566 | [241566-pine-grove.json](./241566-pine-grove.json) |
 | Pine Harbor | 257929 | [257929-pine-harbor.json](./257929-pine-harbor.json) |
-| Pine Hearts | 204528 | [204528-pine-hearts.json](./204528-pine-hearts.json) |
 | Pine Point: Insomniac | 334011 | [334011-pine-point-insomniac.json](./334011-pine-point-insomniac.json) |
 | Pine Racer | 244808 | [244808-pine-racer.json](./244808-pine-racer.json) |
 | Pine Seekers | 44288 | [44288-pine-seekers.json](./44288-pine-seekers.json) |
