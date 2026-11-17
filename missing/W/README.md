@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Remastered | 129143 | [129143-wasteland-remastered.json](./129143-wasteland-remastered.json) |
 | Wasteland Spirit | 383139 | [383139-wasteland-spirit.json](./383139-wasteland-spirit.json) |
 | Wasteland Story | 249179 | [249179-wasteland-story.json](./249179-wasteland-story.json) |
+| Wasteland Survival | 116464 | [116464-wasteland-survival.json](./116464-wasteland-survival.json) |
 | Wasteland Survival | 284617 | [284617-wasteland-survival.json](./284617-wasteland-survival.json) |
 | Wasteland Travelers | 356730 | [356730-wasteland-travelers.json](./356730-wasteland-travelers.json) |
 | Wasteland Warden | 190434 | [190434-wasteland-warden.json](./190434-wasteland-warden.json) |
