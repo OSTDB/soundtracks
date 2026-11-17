@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms | 396972 | [396972-backrooms.json](./396972-backrooms.json) |
 | Backrooms (2026) | 410930 | [410930-backrooms-2026.json](./410930-backrooms-2026.json) |
 | Backrooms [Redacted]: Chapter 1 | 409747 | [409747-backrooms-redacted-chapter-1.json](./409747-backrooms-redacted-chapter-1.json) |
+| Backrooms 95 | 422322 | [422322-backrooms-95.json](./422322-backrooms-95.json) |
 | Backrooms Abyss | 253419 | [253419-backrooms-abyss.json](./253419-backrooms-abyss.json) |
 | Backrooms Adventure | 420917 | [420917-backrooms-adventure.json](./420917-backrooms-adventure.json) |
 | Backrooms Anomaly | 374836 | [374836-backrooms-anomaly.json](./374836-backrooms-anomaly.json) |
@@ -13754,6 +13755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba | 355857 | [355857-boba.json](./355857-boba.json) |
 | Boba Avoider | 413031 | [413031-boba-avoider.json](./413031-boba-avoider.json) |
 | Boba Bar: Bubble Tea Tycoon | 276209 | [276209-boba-bar-bubble-tea-tycoon.json](./276209-boba-bar-bubble-tea-tycoon.json) |
+| Boba Bears | 422321 | [422321-boba-bears.json](./422321-boba-bears.json) |
 | Boba Boyz | 258270 | [258270-boba-boyz.json](./258270-boba-boyz.json) |
 | Boba Buba | 384999 | [384999-boba-buba.json](./384999-boba-buba.json) |
 | Boba Cafe Simulator | 346644 | [346644-boba-cafe-simulator.json](./346644-boba-cafe-simulator.json) |
