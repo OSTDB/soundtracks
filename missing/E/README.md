@@ -5565,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erebound | 393875 | [393875-erebound.json](./393875-erebound.json) |
 | Erebus | 36919 | [36919-erebus.json](./36919-erebus.json) |
 | Erebus-9 | 371166 | [371166-erebus-9.json](./371166-erebus-9.json) |
+| Erebus: The Northwest Passage | 425318 | [425318-erebus-the-northwest-passage.json](./425318-erebus-the-northwest-passage.json) |
 | Erect! | 77726 | [77726-erect.json](./77726-erect.json) |
 | Erectus | 204839 | [204839-erectus.json](./204839-erectus.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
