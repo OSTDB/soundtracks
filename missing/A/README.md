@@ -5762,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent 07: Spy Revenge | 344298 | [344298-agent-07-spy-revenge.json](./344298-agent-07-spy-revenge.json) |
 | Agent 079 | 64202 | [64202-agent-079.json](./64202-agent-079.json) |
 | Agent 64: Spies Never Die | 148270 | [148270-agent-64-spies-never-die.json](./148270-agent-64-spies-never-die.json) |
+| Agent 9 | 113742 | [113742-agent-9.json](./113742-agent-9.json) |
 | Agent 9 | 282865 | [282865-agent-9.json](./282865-agent-9.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
 | Agent A: A Puzzle In Disguise | 58042 | [58042-agent-a-a-puzzle-in-disguise.json](./58042-agent-a-a-puzzle-in-disguise.json) |
@@ -9060,7 +9061,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along the Edge | 32136 | [32136-along-the-edge.json](./32136-along-the-edge.json) |
 | Along the Edge of the Sky | 337818 | [337818-along-the-edge-of-the-sky.json](./337818-along-the-edge-of-the-sky.json) |
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
-| Along Together | 102166 | [102166-along-together.json](./102166-along-together.json) |
 | AlongLong Road | 319415 | [319415-alonglong-road.json](./319415-alonglong-road.json) |
 | Alongside | 243599 | [243599-alongside.json](./243599-alongside.json) |
 | Alonitaire | 387150 | [387150-alonitaire.json](./387150-alonitaire.json) |
