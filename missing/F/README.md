@@ -4506,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenrir Banquet | 359136 | [359136-fenrir-banquet.json](./359136-fenrir-banquet.json) |
 | Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
 | Fenrir's Prelude | 143510 | [143510-fenrirs-prelude.json](./143510-fenrirs-prelude.json) |
+| Fenrisulfr Puzzle | 87753 | [87753-fenrisulfr-puzzle.json](./87753-fenrisulfr-puzzle.json) |
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Fer.al | 134534 | [134534-fer-al.json](./134534-fer-al.json) |
