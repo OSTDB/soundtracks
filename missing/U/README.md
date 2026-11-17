@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Imposer | 155894 | [155894-ultra-imposer.json](./155894-ultra-imposer.json) |
 | Ultra Instinct Master | 208099 | [208099-ultra-instinct-master.json](./208099-ultra-instinct-master.json) |
 | Ultra Jet Girl | 320795 | [320795-ultra-jet-girl.json](./320795-ultra-jet-girl.json) |
+| Ultra Kaiju Monster Rancher | 206833 | [206833-ultra-kaiju-monster-rancher.json](./206833-ultra-kaiju-monster-rancher.json) |
 | Ultra Kaiju Monster Rancher: Starter Pack | 221697 | [221697-ultra-kaiju-monster-rancher-starter-pack.json](./221697-ultra-kaiju-monster-rancher-starter-pack.json) |
 | Ultra Kaiju: Battle Breeders | 223965 | [223965-ultra-kaiju-battle-breeders.json](./223965-ultra-kaiju-battle-breeders.json) |
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
