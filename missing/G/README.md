@@ -5338,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Me Strength | 165563 | [165563-give-me-strength.json](./165563-give-me-strength.json) |
 | Give Me Toilet Paper! | 240369 | [240369-give-me-toilet-paper.json](./240369-give-me-toilet-paper.json) |
 | Give Me Your Coins | 112686 | [112686-give-me-your-coins.json](./112686-give-me-your-coins.json) |
+| Give My Ball Back | 87722 | [87722-give-my-ball-back.json](./87722-give-my-ball-back.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
 | Give the Taste of Defeat to This Loose Goddess! I'll Never Succumb to a Slut's Seduction ADV | 83113 | [83113-give-the-taste-of-defeat-to-this-loose-goddess-ill-never-succumb-to-a-sluts-seduction-adv.json](./83113-give-the-taste-of-defeat-to-this-loose-goddess-ill-never-succumb-to-a-sluts-seduction-adv.json) |
@@ -9746,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Guy 2 | 64142 | [64142-gravity-guy-2.json](./64142-gravity-guy-2.json) |
 | Gravity Guy Race | 237733 | [237733-gravity-guy-race.json](./237733-gravity-guy-race.json) |
 | Gravity Heroes | 116512 | [116512-gravity-heroes.json](./116512-gravity-heroes.json) |
+| Gravity Hood | 87743 | [87743-gravity-hood.json](./87743-gravity-hood.json) |
 | Gravity Hook | 182716 | [182716-gravity-hook.json](./182716-gravity-hook.json) |
 | Gravity Hook | 242824 | [242824-gravity-hook.json](./242824-gravity-hook.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
