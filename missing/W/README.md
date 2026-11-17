@@ -3269,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Ski & Snowboard | 5276 | [5276-we-ski-and-snowboard.json](./5276-we-ski-and-snowboard.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
 | We Stay Behind | 121827 | [121827-we-stay-behind.json](./121827-we-stay-behind.json) |
+| We Surrender! | 427109 | [427109-we-surrender.json](./427109-we-surrender.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We Survive Tonight | 199227 | [199227-we-survive-tonight.json](./199227-we-survive-tonight.json) |
 | We Suspect Foul Play | 293338 | [293338-we-suspect-foul-play.json](./293338-we-suspect-foul-play.json) |
@@ -5186,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
 | White Chocolate | 330247 | [330247-white-chocolate.json](./330247-white-chocolate.json) |
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
+| White Clothes: Purify | 427140 | [427140-white-clothes-purify.json](./427140-white-clothes-purify.json) |
 | White Clouds | 414152 | [414152-white-clouds.json](./414152-white-clouds.json) |
 | White Coat, Red Hands | 415479 | [415479-white-coat-red-hands.json](./415479-white-coat-red-hands.json) |
 | White Creek | 411214 | [411214-white-creek.json](./411214-white-creek.json) |
@@ -10011,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Worst Case Z | 23156 | [23156-worst-case-z.json](./23156-worst-case-z.json) |
 | Worst Chess: Esther Sauce | 183423 | [183423-worst-chess-esther-sauce.json](./183423-worst-chess-esther-sauce.json) |
+| Worst Class Ever | 427100 | [427100-worst-class-ever.json](./427100-worst-class-ever.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
 | Worst Game Ever | 397356 | [397356-worst-game-ever.json](./397356-worst-game-ever.json) |
