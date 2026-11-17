@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T03:46:02.767Z",
-  "total_soundtracks": 3515,
+  "generated_at": "2026-11-17T03:55:55.341Z",
+  "total_soundtracks": 3516,
   "games": [
     {
       "igdb_id": 292844,
@@ -13027,6 +13027,20 @@
         {
           "album_name": "Farthest Frontier (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/46vaDiXVRntcCwKLEf0ntU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 338093,
+      "game_name": "Fast Fusion",
+      "game_url": "https://ostdb.net/games/fast-fusion",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273305f2944050ce263c9cd5ef3",
+      "albums": [
+        {
+          "album_name": "Fast Fusion (Extended Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/263cACTBSTamI2ma1osCjZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
