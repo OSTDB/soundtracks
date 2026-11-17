@@ -5029,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Eiyuu Densetsu: Senjutsu Simulation | 80806 | [80806-ginga-eiyuu-densetsu-senjutsu-simulation.json](./80806-ginga-eiyuu-densetsu-senjutsu-simulation.json) |
 | Ginga Force | 7810 | [7810-ginga-force.json](./7810-ginga-force.json) |
 | Ginga Fukei Densetsu Sapphire | 37613 | [37613-ginga-fukei-densetsu-sapphire.json](./37613-ginga-fukei-densetsu-sapphire.json) |
+| Ginga Hyouryuu Vifam | 94434 | [94434-ginga-hyouryuu-vifam.json](./94434-ginga-hyouryuu-vifam.json) |
 | Ginga Kagekidan | 121391 | [121391-ginga-kagekidan.json](./121391-ginga-kagekidan.json) |
 | Ginga Ninkyouden | 38647 | [38647-ginga-ninkyouden.json](./38647-ginga-ninkyouden.json) |
 | Ginga no San-nin | 48503 | [48503-ginga-no-san-nin.json](./48503-ginga-no-san-nin.json) |
@@ -8305,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gord: Hold Your Ground | 262038 | [262038-gord-hold-your-ground.json](./262038-gord-hold-your-ground.json) |
 | Gord: The Alliance | 297114 | [297114-gord-the-alliance.json](./297114-gord-the-alliance.json) |
 | Gord: Ultimate Edition | 401939 | [401939-gord-ultimate-edition.json](./401939-gord-ultimate-edition.json) |
+| Gord@k | 93232 | [93232-gord-k.json](./93232-gord-k.json) |
 | Gordi's Magical Movie Adventure | 335049 | [335049-gordis-magical-movie-adventure.json](./335049-gordis-magical-movie-adventure.json) |
 | Gordian | 351586 | [351586-gordian.json](./351586-gordian.json) |
 | Gordian Quest | 125048 | [125048-gordian-quest.json](./125048-gordian-quest.json) |
