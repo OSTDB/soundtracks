@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtraction Royale | 115728 | [115728-xtraction-royale.json](./115728-xtraction-royale.json) |
 | Xtractor Defender | 111672 | [111672-xtractor-defender.json](./111672-xtractor-defender.json) |
 | Xtrek | 93368 | [93368-xtrek.json](./93368-xtrek.json) |
+| Xtreme Aces Racing | 186928 | [186928-xtreme-aces-racing.json](./186928-xtreme-aces-racing.json) |
 | Xtreme Air Racing | 61165 | [61165-xtreme-air-racing.json](./61165-xtreme-air-racing.json) |
 | Xtreme Air Racing 2 | 24110 | [24110-xtreme-air-racing-2.json](./24110-xtreme-air-racing-2.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
