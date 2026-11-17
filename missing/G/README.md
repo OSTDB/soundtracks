@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gesshizu: Mori no Chiisana Nakama-tachi | 136966 | [136966-gesshizu-mori-no-chiisana-nakama-tachi.json](./136966-gesshizu-mori-no-chiisana-nakama-tachi.json) |
 | Gesshoku | 273346 | [273346-gesshoku.json](./273346-gesshoku.json) |
 | Gessou! Dangun Racer Onsoku Buster: Dangun Tama | 281457 | [281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json](./281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json) |
+| Gestalt Odin | 107322 | [107322-gestalt-odin.json](./107322-gestalt-odin.json) |
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
 | Gestalt: Memoria | 400000 | [400000-gestalt-memoria.json](./400000-gestalt-memoria.json) |
 | Gestalt: Steam & Cinder | 130076 | [130076-gestalt-steam-and-cinder.json](./130076-gestalt-steam-and-cinder.json) |
@@ -4577,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostie Quest | 51854 | [51854-ghostie-quest.json](./51854-ghostie-quest.json) |
 | Ghostie Town | 423257 | [423257-ghostie-town.json](./423257-ghostie-town.json) |
 | Ghostie's Escape | 340299 | [340299-ghosties-escape.json](./340299-ghosties-escape.json) |
+| Ghosting Gun S | 107298 | [107298-ghosting-gun-s.json](./107298-ghosting-gun-s.json) |
 | Ghosting Vandal | 235036 | [235036-ghosting-vandal.json](./235036-ghosting-vandal.json) |
 | Ghostist | 157754 | [157754-ghostist.json](./157754-ghostist.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
@@ -6178,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Garden Collection | 284868 | [284868-gnomes-garden-collection.json](./284868-gnomes-garden-collection.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
+| Gnomes Garden: Christmas Story | 107290 | [107290-gnomes-garden-christmas-story.json](./107290-gnomes-garden-christmas-story.json) |
 | Gnomes Garden: Halloween | 110372 | [110372-gnomes-garden-halloween.json](./110372-gnomes-garden-halloween.json) |
 | Gnomes Garden: Life Seeds - Collector's Edition | 255922 | [255922-gnomes-garden-life-seeds-collectors-edition.json](./255922-gnomes-garden-life-seeds-collectors-edition.json) |
 | Gnomes Garden: Mask of the Rat King | 420582 | [420582-gnomes-garden-mask-of-the-rat-king.json](./420582-gnomes-garden-mask-of-the-rat-king.json) |
