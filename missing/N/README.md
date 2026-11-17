@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekokoro | 105289 | [105289-nekokoro.json](./105289-nekokoro.json) |
 | Nekoland Studio | 119855 | [119855-nekoland-studio.json](./119855-nekoland-studio.json) |
+| Nekolpos: Colossal Cat Care Simulation | 428885 | [428885-nekolpos-colossal-cat-care-simulation.json](./428885-nekolpos-colossal-cat-care-simulation.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
 | Nekomancer of Nowhere | 325512 | [325512-nekomancer-of-nowhere.json](./325512-nekomancer-of-nowhere.json) |
 | Nekomancer: Seeded by Darkness | 211554 | [211554-nekomancer-seeded-by-darkness.json](./211554-nekomancer-seeded-by-darkness.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
 | Neon Tea | 363169 | [363169-neon-tea.json](./363169-neon-tea.json) |
+| Neon Terrarium | 428915 | [428915-neon-terrarium.json](./428915-neon-terrarium.json) |
 | Neon the Ninja | 55773 | [55773-neon-the-ninja.json](./55773-neon-the-ninja.json) |
 | Neon Tide | 120912 | [120912-neon-tide.json](./120912-neon-tide.json) |
 | Neon Tower Blast | 120757 | [120757-neon-tower-blast.json](./120757-neon-tower-blast.json) |
