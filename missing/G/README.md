@@ -9727,6 +9727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Dash | 287225 | [287225-gravity-dash.json](./287225-gravity-dash.json) |
 | Gravity Dash 2 | 91092 | [91092-gravity-dash-2.json](./91092-gravity-dash-2.json) |
 | Gravity Dash 2 | 93499 | [93499-gravity-dash-2.json](./93499-gravity-dash-2.json) |
+| Gravity Daze 2: First-Press Limited Edition | 166310 | [166310-gravity-daze-2-first-press-limited-edition.json](./166310-gravity-daze-2-first-press-limited-edition.json) |
 | Gravity Defied: Trial Racing | 151054 | [151054-gravity-defied-trial-racing.json](./151054-gravity-defied-trial-racing.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Drop | 317761 | [317761-gravity-drop.json](./317761-gravity-drop.json) |
