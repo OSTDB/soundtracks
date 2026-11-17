@@ -3835,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mara's Quest | 211008 | [211008-maras-quest.json](./211008-maras-quest.json) |
 | Marabundle | 238596 | [238596-marabundle.json](./238596-marabundle.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
+| Maracaibo Digital | 197692 | [197692-maracaibo-digital.json](./197692-maracaibo-digital.json) |
 | Maraiyum: Rise of the Setting Sun | 32026 | [32026-maraiyum-rise-of-the-setting-sun.json](./32026-maraiyum-rise-of-the-setting-sun.json) |
 | Maraka | 267703 | [267703-maraka.json](./267703-maraka.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
@@ -7200,6 +7201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Workout: Lost Urban Exit Game - Trials 1 | 167930 | [167930-maze-workout-lost-urban-exit-game-trials-1.json](./167930-maze-workout-lost-urban-exit-game-trials-1.json) |
 | Maze Workout: Lost Urban Exit Game - Trials2 | 394432 | [394432-maze-workout-lost-urban-exit-game-trials2.json](./394432-maze-workout-lost-urban-exit-game-trials2.json) |
 | Maze Workout: Urban Lost Solo Car Racer | 390167 | [390167-maze-workout-urban-lost-solo-car-racer.json](./390167-maze-workout-urban-lost-solo-car-racer.json) |
+| Maze Workout: Western Lost Solo Car Racer | 197418 | [197418-maze-workout-western-lost-solo-car-racer.json](./197418-maze-workout-western-lost-solo-car-racer.json) |
 | Maze Zen | 175296 | [175296-maze-zen.json](./175296-maze-zen.json) |
 | Maze: A VR Adventure | 160151 | [160151-maze-a-vr-adventure.json](./160151-maze-a-vr-adventure.json) |
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
@@ -9850,6 +9852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
 | Melty Blood: Type Lumina - DLC: Aoko Aozaki Round Announcements | 302294 | [302294-melty-blood-type-lumina-dlc-aoko-aozaki-round-announcements.json](./302294-melty-blood-type-lumina-dlc-aoko-aozaki-round-announcements.json) |
+| Melty Blood: Type Lumina - Mario Playable Character | 197841 | [197841-melty-blood-type-lumina-mario-playable-character.json](./197841-melty-blood-type-lumina-mario-playable-character.json) |
 | Melty Blood: Type Lumina - Melty Blood Archives | 153649 | [153649-melty-blood-type-lumina-melty-blood-archives.json](./153649-melty-blood-type-lumina-melty-blood-archives.json) |
 | Melty Blood: Type Lumina - Powered Ciel Playable Character | 197842 | [197842-melty-blood-type-lumina-powered-ciel-playable-character.json](./197842-melty-blood-type-lumina-powered-ciel-playable-character.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
@@ -18560,6 +18563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
 | Monsteria | 55341 | [55341-monsteria.json](./55341-monsteria.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
+| MonsterKill | 197807 | [197807-monsterkill.json](./197807-monsterkill.json) |
 | Monsterland 2 | 332292 | [332292-monsterland-2.json](./332292-monsterland-2.json) |
 | Monsterland: Junior vs. Senior | 423411 | [423411-monsterland-junior-vs-senior.json](./423411-monsterland-junior-vs-senior.json) |
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
