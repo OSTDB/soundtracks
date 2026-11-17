@@ -3156,7 +3156,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactoryx | 330375 | [330375-reactoryx.json](./330375-reactoryx.json) |
 | Read and Learn Bible | 209232 | [209232-read-and-learn-bible.json](./209232-read-and-learn-bible.json) |
 | Read Only Memories: Double Pack | 323983 | [323983-read-only-memories-double-pack.json](./323983-read-only-memories-double-pack.json) |
-| Read Only Memories: Neurodiver | 119401 | [119401-read-only-memories-neurodiver.json](./119401-read-only-memories-neurodiver.json) |
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
 | Read This When You Turn 15 | 329289 | [329289-read-this-when-you-turn-15.json](./329289-read-this-when-you-turn-15.json) |
@@ -9278,7 +9277,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
 | Ritual Tides | 321319 | [321319-ritual-tides.json](./321319-ritual-tides.json) |
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
-| Ritual: Crown of Horns | 117897 | [117897-ritual-crown-of-horns.json](./117897-ritual-crown-of-horns.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
 | Ritual: Sorcerer Angel | 119884 | [119884-ritual-sorcerer-angel.json](./119884-ritual-sorcerer-angel.json) |
 | Ritualis: Summoner Simulator | 391955 | [391955-ritualis-summoner-simulator.json](./391955-ritualis-summoner-simulator.json) |
