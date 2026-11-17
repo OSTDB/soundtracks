@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality End | 164286 | [164286-reality-end.json](./164286-reality-end.json) |
 | Reality Falls | 110861 | [110861-reality-falls.json](./110861-reality-falls.json) |
 | Reality Fighters | 20732 | [20732-reality-fighters.json](./20732-reality-fighters.json) |
+| Reality Incognita | 29238 | [29238-reality-incognita.json](./29238-reality-incognita.json) |
 | Reality Layer Zero | 207414 | [207414-reality-layer-zero.json](./207414-reality-layer-zero.json) |
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
 | Reality Noclip: The Backrooms | 223221 | [223221-reality-noclip-the-backrooms.json](./223221-reality-noclip-the-backrooms.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of the Ruthless | 125610 | [125610-realm-of-the-ruthless.json](./125610-realm-of-the-ruthless.json) |
 | Realm of the Tempest | 153608 | [153608-realm-of-the-tempest.json](./153608-realm-of-the-tempest.json) |
 | Realm of the Titans | 91797 | [91797-realm-of-the-titans.json](./91797-realm-of-the-titans.json) |
+| Realm of the Trolls | 14657 | [14657-realm-of-the-trolls.json](./14657-realm-of-the-trolls.json) |
 | Realm of the Undead | 273799 | [273799-realm-of-the-undead.json](./273799-realm-of-the-undead.json) |
 | Realm of the Undead | 73594 | [73594-realm-of-the-undead.json](./73594-realm-of-the-undead.json) |
 | Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
@@ -10185,6 +10187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Dinosaurs That Shoot Beams When They Roar | 378445 | [378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json](./378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json) |
 | Robot Dir | 249768 | [249768-robot-dir.json](./249768-robot-dir.json) |
 | Robot Escape | 401567 | [401567-robot-escape.json](./401567-robot-escape.json) |
+| Robot Exploration Squad | 34709 | [34709-robot-exploration-squad.json](./34709-robot-exploration-squad.json) |
 | Robot Farm | 111857 | [111857-robot-farm.json](./111857-robot-farm.json) |
 | Robot Female Hero 1 | 115573 | [115573-robot-female-hero-1.json](./115573-robot-female-hero-1.json) |
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
@@ -13385,6 +13388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber | 217272 | [217272-rubber.json](./217272-rubber.json) |
 | Rubber & Lead | 10351 | [10351-rubber-and-lead.json](./10351-rubber-and-lead.json) |
+| Rubber Ball VR | 29254 | [29254-rubber-ball-vr.json](./29254-rubber-ball-vr.json) |
 | Rubber Bandits | 139684 | [139684-rubber-bandits.json](./139684-rubber-bandits.json) |
 | Rubber Bandits: Animal Bandits | 297456 | [297456-rubber-bandits-animal-bandits.json](./297456-rubber-bandits-animal-bandits.json) |
 | Rubber Bandits: Go Wild Pack | 225071 | [225071-rubber-bandits-go-wild-pack.json](./225071-rubber-bandits-go-wild-pack.json) |
