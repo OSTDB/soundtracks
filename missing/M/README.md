@@ -12614,7 +12614,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroSstep | 265907 | [265907-microsstep.json](./265907-microsstep.json) |
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
 | Microtopia | 293155 | [293155-microtopia.json](./293155-microtopia.json) |
-| MicroTown | 120024 | [120024-microtown.json](./120024-microtown.json) |
 | Microtransaction Simulator | 56631 | [56631-microtransaction-simulator.json](./56631-microtransaction-simulator.json) |
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
@@ -13940,7 +13939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindscapes VR | 347298 | [347298-mindscapes-vr.json](./347298-mindscapes-vr.json) |
 | Mindscorn | 374753 | [374753-mindscorn.json](./374753-mindscorn.json) |
 | Mindseeker | 48427 | [48427-mindseeker.json](./48427-mindseeker.json) |
-| MindSeize | 104683 | [104683-mindseize.json](./104683-mindseize.json) |
 | Mindset | 253171 | [253171-mindset.json](./253171-mindset.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
 | MindsEye | 320873 | [320873-mindseye.json](./320873-mindseye.json) |
