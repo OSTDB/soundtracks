@@ -5365,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tether | 272709 | [272709-tether.json](./272709-tether.json) |
 | Tether | 333088 | [333088-tether.json](./333088-tether.json) |
 | Tether | 343598 | [343598-tether.json](./343598-tether.json) |
+| Tether & Talon | 426472 | [426472-tether-and-talon.json](./426472-tether-and-talon.json) |
 | Tether Brawl | 266583 | [266583-tether-brawl.json](./266583-tether-brawl.json) |
 | Tethered | 25336 | [25336-tethered.json](./25336-tethered.json) |
 | Tethered: Deluxe Edition | 53715 | [53715-tethered-deluxe-edition.json](./53715-tethered-deluxe-edition.json) |
@@ -7163,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bell | 120254 | [120254-the-bell.json](./120254-the-bell.json) |
 | The Bell Echoes | 304655 | [304655-the-bell-echoes.json](./304655-the-bell-echoes.json) |
 | The Bell of Time | 303940 | [303940-the-bell-of-time.json](./303940-the-bell-of-time.json) |
+| The Bell Tolls | 426493 | [426493-the-bell-tolls.json](./426493-the-bell-tolls.json) |
 | The Belligerence | 290051 | [290051-the-belligerence.json](./290051-the-belligerence.json) |
 | The Bellows | 31238 | [31238-the-bellows.json](./31238-the-bellows.json) |
 | The Bells | 13392 | [13392-the-bells.json](./13392-the-bells.json) |
@@ -10761,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Floor Is Still Really Cheap Lava | 126981 | [126981-the-floor-is-still-really-cheap-lava.json](./126981-the-floor-is-still-really-cheap-lava.json) |
 | The Floor is Wet | 269883 | [269883-the-floor-is-wet.json](./269883-the-floor-is-wet.json) |
+| The Florida Trail | 426501 | [426501-the-florida-trail.json](./426501-the-florida-trail.json) |
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flow Experience | 191071 | [191071-the-flow-experience.json](./191071-the-flow-experience.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
@@ -22657,6 +22660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
 | Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
 | Thorns: Police never sleeps | 296294 | [296294-thorns-police-never-sleeps.json](./296294-thorns-police-never-sleeps.json) |
+| ThornSin | 426484 | [426484-thornsin.json](./426484-thornsin.json) |
 | Thornspell | 401464 | [401464-thornspell.json](./401464-thornspell.json) |
 | Thorny Times | 320194 | [320194-thorny-times.json](./320194-thorny-times.json) |
 | Thornyway | 28656 | [28656-thornyway.json](./28656-thornyway.json) |
