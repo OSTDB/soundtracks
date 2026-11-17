@@ -3246,7 +3246,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In My Orbit | 351200 | [351200-in-my-orbit.json](./351200-in-my-orbit.json) |
 | In My Shadow | 140488 | [140488-in-my-shadow.json](./140488-in-my-shadow.json) |
 | In Next Life | 184276 | [184276-in-next-life.json](./184276-in-next-life.json) |
-| In Nightmare | 115862 | [115862-in-nightmare.json](./115862-in-nightmare.json) |
 | In Orbit | 114301 | [114301-in-orbit.json](./114301-in-orbit.json) |
 | In Other Waters: Xenobiologist Edition | 227179 | [227179-in-other-waters-xenobiologist-edition.json](./227179-in-other-waters-xenobiologist-edition.json) |
 | In Our Parlor | 416821 | [416821-in-our-parlor.json](./416821-in-our-parlor.json) |
