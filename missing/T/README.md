@@ -3234,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
 | Tea for the King | 238103 | [238103-tea-for-the-king.json](./238103-tea-for-the-king.json) |
 | Tea for the Soul | 386497 | [386497-tea-for-the-soul.json](./386497-tea-for-the-soul.json) |
+| Tea For Two: A Detective Logan Game | 137161 | [137161-tea-for-two-a-detective-logan-game.json](./137161-tea-for-two-a-detective-logan-game.json) |
 | Tea Garden Simulator | 139647 | [139647-tea-garden-simulator.json](./139647-tea-garden-simulator.json) |
 | Tea House Simulator | 326338 | [326338-tea-house-simulator.json](./326338-tea-house-simulator.json) |
 | Tea Party for 4 | 425118 | [425118-tea-party-for-4.json](./425118-tea-party-for-4.json) |
@@ -13837,6 +13838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Laundry That Won’t Open | 404664 | [404664-the-laundry-that-won-t-open.json](./404664-the-laundry-that-won-t-open.json) |
 | The Lavarish Facility | 341647 | [341647-the-lavarish-facility.json](./341647-the-lavarish-facility.json) |
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
+| The Law Man: Secure the Law | 137160 | [137160-the-law-man-secure-the-law.json](./137160-the-law-man-secure-the-law.json) |
 | The Lawn Zapper | 249095 | [249095-the-lawn-zapper.json](./249095-the-lawn-zapper.json) |
 | The Lawnmover Massacre | 409834 | [409834-the-lawnmover-massacre.json](./409834-the-lawnmover-massacre.json) |
 | The Lawnmower Man | 295046 | [295046-the-lawnmower-man.json](./295046-the-lawnmower-man.json) |
@@ -14480,6 +14482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Light Of Our Yearning | 382968 | [382968-the-light-of-our-yearning.json](./382968-the-light-of-our-yearning.json) |
+| The Light of Summer | 137154 | [137154-the-light-of-summer.json](./137154-the-light-of-summer.json) |
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
 | The Light of the Darkness: Renascence | 24706 | [24706-the-light-of-the-darkness-renascence.json](./24706-the-light-of-the-darkness-renascence.json) |
 | The Light Prince | 362791 | [362791-the-light-prince.json](./362791-the-light-prince.json) |
@@ -15806,6 +15809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Blackthorn Castle | 89766 | [89766-the-mystery-of-blackthorn-castle.json](./89766-the-mystery-of-blackthorn-castle.json) |
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
 | The Mystery of Caketropolis | 157738 | [157738-the-mystery-of-caketropolis.json](./157738-the-mystery-of-caketropolis.json) |
+| The Mystery of Castle Super Beast | 138281 | [138281-the-mystery-of-castle-super-beast.json](./138281-the-mystery-of-castle-super-beast.json) |
 | The Mystery of Devils House | 95236 | [95236-the-mystery-of-devils-house.json](./95236-the-mystery-of-devils-house.json) |
 | The Mystery of Doomsday Valley | 398557 | [398557-the-mystery-of-doomsday-valley.json](./398557-the-mystery-of-doomsday-valley.json) |
 | The Mystery Of Eigengrau | 296798 | [296798-the-mystery-of-eigengrau.json](./296798-the-mystery-of-eigengrau.json) |
@@ -18526,7 +18530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: University | 13126 | [13126-the-sims-2-university.json](./13126-the-sims-2-university.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
 | The Sims 3 | 141634 | [141634-the-sims-3.json](./141634-the-sims-3.json) |
-| The Sims 3 | 248566 | [248566-the-sims-3.json](./248566-the-sims-3.json) |
 | The Sims 3 | 248567 | [248567-the-sims-3.json](./248567-the-sims-3.json) |
 | The Sims 3 | 264365 | [264365-the-sims-3.json](./264365-the-sims-3.json) |
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
@@ -20446,6 +20449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Sonic Bundle | 165855 | [165855-the-ultimate-sonic-bundle.json](./165855-the-ultimate-sonic-bundle.json) |
 | The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
 | The Ultimate Strategy Game Collection I | 137184 | [137184-the-ultimate-strategy-game-collection-i.json](./137184-the-ultimate-strategy-game-collection-i.json) |
+| The Ultimate Strategy Game Collection II | 138296 | [138296-the-ultimate-strategy-game-collection-ii.json](./138296-the-ultimate-strategy-game-collection-ii.json) |
 | The Ultimate Stuntman | 48264 | [48264-the-ultimate-stuntman.json](./48264-the-ultimate-stuntman.json) |
 | The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
@@ -20891,6 +20895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Telltale Series Collection | 77489 | [77489-the-walking-dead-the-telltale-series-collection.json](./77489-the-walking-dead-the-telltale-series-collection.json) |
 | The Walking Evil | 128157 | [128157-the-walking-evil.json](./128157-the-walking-evil.json) |
 | The Walking Fish | 232911 | [232911-the-walking-fish.json](./232911-the-walking-fish.json) |
+| The Walking Fish 2: Final Frontier | 137143 | [137143-the-walking-fish-2-final-frontier.json](./137143-the-walking-fish-2-final-frontier.json) |
 | The Walking Hero | 194816 | [194816-the-walking-hero.json](./194816-the-walking-hero.json) |
 | The Walking Pet | 348503 | [348503-the-walking-pet.json](./348503-the-walking-pet.json) |
 | The Walking Stick | 189785 | [189785-the-walking-stick.json](./189785-the-walking-stick.json) |
@@ -28392,7 +28397,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
-| Tony Hawk's American Wasteland | 248551 | [248551-tony-hawks-american-wasteland.json](./248551-tony-hawks-american-wasteland.json) |
 | Tony Hawk's American Wasteland: Collector's Edition | 43395 | [43395-tony-hawks-american-wasteland-collectors-edition.json](./43395-tony-hawks-american-wasteland-collectors-edition.json) |
 | Tony Hawk's Downhill Jam | 210449 | [210449-tony-hawks-downhill-jam.json](./210449-tony-hawks-downhill-jam.json) |
 | Tony Hawk's Downhill Jam | 210450 | [210450-tony-hawks-downhill-jam.json](./210450-tony-hawks-downhill-jam.json) |
@@ -28579,6 +28583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toonix | 357431 | [357431-toonix.json](./357431-toonix.json) |
 | Toonix Halloween: Candy Capers | 355992 | [355992-toonix-halloween-candy-capers.json](./355992-toonix-halloween-candy-capers.json) |
 | Toonix Totem | 355886 | [355886-toonix-totem.json](./355886-toonix-totem.json) |
+| Toonix World | 138287 | [138287-toonix-world.json](./138287-toonix-world.json) |
 | Toonix: Food Fight! | 355885 | [355885-toonix-food-fight.json](./355885-toonix-food-fight.json) |
 | Toonix: Grubby Runaway | 355994 | [355994-toonix-grubby-runaway.json](./355994-toonix-grubby-runaway.json) |
 | Toonix: Speak English! | 357445 | [357445-toonix-speak-english.json](./357445-toonix-speak-english.json) |
@@ -31922,6 +31927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Tamns VTG Wagon Pack | 293393 | [293393-train-simulator-classic-tamns-vtg-wagon-pack.json](./293393-train-simulator-classic-tamns-vtg-wagon-pack.json) |
 | Train Simulator Classic: Taurus Mountains - Ulukışla: Yenice Route Add-On | 226687 | [226687-train-simulator-classic-taurus-mountains-uluk-sla-yenice-route-add-on.json](./226687-train-simulator-classic-taurus-mountains-uluk-sla-yenice-route-add-on.json) |
 | Train Simulator Classic: Tennessee Pass | 297736 | [297736-train-simulator-classic-tennessee-pass.json](./297736-train-simulator-classic-tennessee-pass.json) |
+| Train Simulator Classic: The Pump Car Add-On | 138276 | [138276-train-simulator-classic-the-pump-car-add-on.json](./138276-train-simulator-classic-the-pump-car-add-on.json) |
 | Train Simulator Classic: Tohoku High Speed & Main Line Route | 195435 | [195435-train-simulator-classic-tohoku-high-speed-and-main-line-route.json](./195435-train-simulator-classic-tohoku-high-speed-and-main-line-route.json) |
 | Train Simulator Classic: Tokyo Commuter - Keihin–Tohoku & Utsunomiya Lines Route Add-On | 357297 | [357297-train-simulator-classic-tokyo-commuter-keihin-tohoku-and-utsunomiya-lines-route-add-on.json](./357297-train-simulator-classic-tokyo-commuter-keihin-tohoku-and-utsunomiya-lines-route-add-on.json) |
 | Train Simulator Classic: U-Bahn Hamburg U1 - Norderstedt Mitte - Ohlstedt & Großhansdorf Route Add-On | 357294 | [357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json](./357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json) |
