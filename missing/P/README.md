@@ -15005,6 +15005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
 | Post Mortem | 14359 | [14359-post-mortem.json](./14359-post-mortem.json) |
 | Post Office Simulator | 326373 | [326373-post-office-simulator.json](./326373-post-office-simulator.json) |
+| Post Office: Tidy Up | 419710 | [419710-post-office-tidy-up.json](./419710-post-office-tidy-up.json) |
 | Post Office: Tidy Up! | 419829 | [419829-post-office-tidy-up.json](./419829-post-office-tidy-up.json) |
 | Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
