@@ -10561,6 +10561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock On, Raccoon! | 392697 | [392697-rock-on-raccoon.json](./392697-rock-on-raccoon.json) |
 | Rock on: A SongPop Adventure | 232090 | [232090-rock-on-a-songpop-adventure.json](./232090-rock-on-a-songpop-adventure.json) |
 | Rock On! Island | 318739 | [318739-rock-on-island.json](./318739-rock-on-island.json) |
+| Rock Painting Story | 102997 | [102997-rock-painting-story.json](./102997-rock-painting-story.json) |
 | Rock Paper Clash | 364441 | [364441-rock-paper-clash.json](./364441-rock-paper-clash.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
 | Rock Paper Everything | 312010 | [312010-rock-paper-everything.json](./312010-rock-paper-everything.json) |
@@ -13782,6 +13783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules: Politically Incorrect | 191978 | [191978-rules-politically-incorrect.json](./191978-rules-politically-incorrect.json) |
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
 | Ruling Horsestown | 357858 | [357858-ruling-horsestown.json](./357858-ruling-horsestown.json) |
+| Rullo | 101790 | [101790-rullo.json](./101790-rullo.json) |
 | Rulue's Iron-Fist Spring Break | 253719 | [253719-rulues-iron-fist-spring-break.json](./253719-rulues-iron-fist-spring-break.json) |
 | Rum & Gun | 127620 | [127620-rum-and-gun.json](./127620-rum-and-gun.json) |
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
