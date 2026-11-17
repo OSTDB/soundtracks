@@ -7521,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Hult | 409893 | [409893-wizard-hult.json](./409893-wizard-hult.json) |
 | Wizard Hunter 2348 | 55743 | [55743-wizard-hunter-2348.json](./55743-wizard-hunter-2348.json) |
 | Wizard Hunter: The End of the Magic World | 283218 | [283218-wizard-hunter-the-end-of-the-magic-world.json](./283218-wizard-hunter-the-end-of-the-magic-world.json) |
+| Wizard is Rolling | 197799 | [197799-wizard-is-rolling.json](./197799-wizard-is-rolling.json) |
 | Wizard King | 29840 | [29840-wizard-king.json](./29840-wizard-king.json) |
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
 | Wizard Land | 205842 | [205842-wizard-land.json](./205842-wizard-land.json) |
@@ -8122,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland Adventures | 145906 | [145906-wonderland-adventures.json](./145906-wonderland-adventures.json) |
 | Wonderland Adventures: Mysteries of Fire Island | 210813 | [210813-wonderland-adventures-mysteries-of-fire-island.json](./210813-wonderland-adventures-mysteries-of-fire-island.json) |
 | Wonderland Adventures: Planet of the Z-Bots | 229388 | [229388-wonderland-adventures-planet-of-the-z-bots.json](./229388-wonderland-adventures-planet-of-the-z-bots.json) |
+| Wonderland Days Sim Date | 196221 | [196221-wonderland-days-sim-date.json](./196221-wonderland-days-sim-date.json) |
 | Wonderland Dizzy | 152001 | [152001-wonderland-dizzy.json](./152001-wonderland-dizzy.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
 | Wonderland Nights: White Rabbit's Diary | 151705 | [151705-wonderland-nights-white-rabbits-diary.json](./151705-wonderland-nights-white-rabbits-diary.json) |
