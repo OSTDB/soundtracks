@@ -6318,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find You | 244978 | [244978-find-you.json](./244978-find-you.json) |
 | Find You | 53137 | [53137-find-you.json](./53137-find-you.json) |
 | Find Your Friends | 374948 | [374948-find-your-friends.json](./374948-find-your-friends.json) |
+| Find Your Girlfriend | 179754 | [179754-find-your-girlfriend.json](./179754-find-your-girlfriend.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
 | Find Your Own Way Home | 10320 | [10320-find-your-own-way-home.json](./10320-find-your-own-way-home.json) |
 | Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
@@ -15658,6 +15659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Milfs | 248815 | [248815-furry-milfs.json](./248815-furry-milfs.json) |
 | Furry Myth | 262750 | [262750-furry-myth.json](./262750-furry-myth.json) |
 | Furry Necromancer | 270046 | [270046-furry-necromancer.json](./270046-furry-necromancer.json) |
+| Furry Night Funkin' RTX | 178707 | [178707-furry-night-funkin-rtx.json](./178707-furry-night-funkin-rtx.json) |
 | Furry Nights | 201585 | [201585-furry-nights.json](./201585-furry-nights.json) |
 | Furry No Revolution | 402070 | [402070-furry-no-revolution.json](./402070-furry-no-revolution.json) |
 | Furry Nya | 170664 | [170664-furry-nya.json](./170664-furry-nya.json) |
