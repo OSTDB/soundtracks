@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T08:36:41.727Z",
-  "total_soundtracks": 3655,
+  "generated_at": "2026-11-17T08:51:23.199Z",
+  "total_soundtracks": 3663,
   "games": [
     {
       "igdb_id": 292844,
@@ -2261,6 +2261,20 @@
         {
           "album_name": "Arcade Spirits (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2g8AEAbUFAZJvpEAjz1CCX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 145278,
+      "game_name": "Arcade Spirits: The New Challengers",
+      "game_url": "https://ostdb.net/games/arcade-spirits-the-new-challengers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730cad50603f954ee3c1661b15",
+      "albums": [
+        {
+          "album_name": "Arcade Spirits: The New Challengers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/49h0NVB46jHzROF3PBLxTZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13509,6 +13523,20 @@
       ]
     },
     {
+      "igdb_id": 148788,
+      "game_name": "Farewell North",
+      "game_url": "https://ostdb.net/games/farewell-north",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c5fe66eea6ac90488145371",
+      "albums": [
+        {
+          "album_name": "Farewell North (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3LtgQrQETJBNMzxcFQ8ipC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 19575,
       "game_name": "Farpoint",
       "game_url": "https://ostdb.net/games/farpoint",
@@ -18291,6 +18319,20 @@
       ]
     },
     {
+      "igdb_id": 151303,
+      "game_name": "Henchman Story",
+      "game_url": "https://ostdb.net/games/henchman-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739044c3cfce5e4b5c6df6df58",
+      "albums": [
+        {
+          "album_name": "Henchman Story (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6ZXawpjXpQtDALi90jNHqv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 314271,
       "game_name": "Herdling",
       "game_url": "https://ostdb.net/games/herdling",
@@ -21891,6 +21933,20 @@
         {
           "album_name": "Levelhead (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/13Z4a855TiqXvCMUiFJKRU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 157375,
+      "game_name": "Liberte",
+      "game_url": "https://ostdb.net/games/liberte",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27336ba48eb8ebeebdbbe8f5ab2",
+      "albums": [
+        {
+          "album_name": "Liberté (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5QDFH9dnoV002eq47ODj6Z",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25747,6 +25803,20 @@
         {
           "album_name": "My Singing Monsters, Vol. 1 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3wEJY4wSWnjy1pFhleHgs5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 150135,
+      "game_name": "My Singing Monsters Playground",
+      "game_url": "https://ostdb.net/games/my-singing-monsters-playground",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b28dc5c5534403a70c6f62e4",
+      "albums": [
+        {
+          "album_name": "My Singing Monsters Playground (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7Kj86Qs3MlG863ng577iK5",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -32541,6 +32611,20 @@
       ]
     },
     {
+      "igdb_id": 154856,
+      "game_name": "RWBY: Arrowfell",
+      "game_url": "https://ostdb.net/games/rwby-arrowfell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736239ac9353d0e003222b372e",
+      "albums": [
+        {
+          "album_name": "RWBY: Arrowfell (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5w1ERnVbXGo23zdScHdlHS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 342566,
       "game_name": "S.p.l.i.t",
       "game_url": "https://ostdb.net/games/s-p-l-i-t",
@@ -37905,6 +37989,20 @@
       ]
     },
     {
+      "igdb_id": 152220,
+      "game_name": "Sweet Surrender",
+      "game_url": "https://ostdb.net/games/sweet-surrender",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273171a6dd01420c1d9e9275ce6",
+      "albums": [
+        {
+          "album_name": "Sweet Surrender (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3blASydg9wYFjBUxGQaSO0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 125885,
       "game_name": "Sword of the Necromancer",
       "game_url": "https://ostdb.net/games/sword-of-the-necromancer",
@@ -39465,6 +39563,20 @@
         {
           "album_name": "The Coma: Recut - Original SoundTrack",
           "spotify_url": "https://open.spotify.com/album/1hIvrKBLWph0V2oBQZHxBM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 150054,
+      "game_name": "The Company Man",
+      "game_url": "https://ostdb.net/games/the-company-man",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734549c5a03330c392f520f78c",
+      "albums": [
+        {
+          "album_name": "The Company Man (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4eUPPCBtIqRN7Qul4Wuziq",
           "apple_music_url": "",
           "album_link_url": ""
         }
