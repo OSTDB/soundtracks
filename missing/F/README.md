@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tennis Advance | 49581 | [49581-family-tennis-advance.json](./49581-family-tennis-advance.json) |
 | Family Tetris | 251359 | [251359-family-tetris.json](./251359-family-tetris.json) |
 | Family Ties | 281068 | [281068-family-ties.json](./281068-family-ties.json) |
+| Family Time | 417698 | [417698-family-time.json](./417698-family-time.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Trainer | 142814 | [142814-family-trainer.json](./142814-family-trainer.json) |
 | Family Trainer: Fuuun! Takeshi-jou 2 | 64499 | [64499-family-trainer-fuuun-takeshi-jou-2.json](./64499-family-trainer-fuuun-takeshi-jou-2.json) |
@@ -2637,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far North | 168469 | [168469-far-north.json](./168469-far-north.json) |
 | Far North Survival | 146065 | [146065-far-north-survival.json](./146065-far-north-survival.json) |
 | Far Out: Selene | 258028 | [258028-far-out-selene.json](./258028-far-out-selene.json) |
+| Far Primal Survival | 417899 | [417899-far-primal-survival.json](./417899-far-primal-survival.json) |
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Far Side Moon: Chikyuu Boueigun II | 400832 | [400832-far-side-moon-chikyuu-boueigun-ii.json](./400832-far-side-moon-chikyuu-boueigun-ii.json) |
 | Far Side of the Mirror | 368511 | [368511-far-side-of-the-mirror.json](./368511-far-side-of-the-mirror.json) |
@@ -10272,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoMO | 272771 | [272771-fomo.json](./272771-fomo.json) |
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
 | Fomon | 333336 | [333336-fomon.json](./333336-fomon.json) |
+| Fonda del Diablo | 417933 | [417933-fonda-del-diablo.json](./417933-fonda-del-diablo.json) |
 | FOnline: Ashes of Phoenix | 146067 | [146067-fonline-ashes-of-phoenix.json](./146067-fonline-ashes-of-phoenix.json) |
 | FOnline: Reloaded | 50785 | [50785-fonline-reloaded.json](./50785-fonline-reloaded.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
@@ -11518,6 +11521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten: The Game | 173967 | [173967-forgotten-the-game.json](./173967-forgotten-the-game.json) |
 | Forgotten: The Source | 414909 | [414909-forgotten-the-source.json](./414909-forgotten-the-source.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
+| Forgotten: Whispers of the Past | 417934 | [417934-forgotten-whispers-of-the-past.json](./417934-forgotten-whispers-of-the-past.json) |
 | Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
 | Fork in the Road | 294155 | [294155-fork-in-the-road.json](./294155-fork-in-the-road.json) |
 | Fork Knights | 119757 | [119757-fork-knights.json](./119757-fork-knights.json) |
