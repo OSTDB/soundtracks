@@ -4401,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Pilots | 39734 | [39734-ghost-pilots.json](./39734-ghost-pilots.json) |
 | Ghost Platform | 404371 | [404371-ghost-platform.json](./404371-ghost-platform.json) |
 | Ghost Platoon | 84060 | [84060-ghost-platoon.json](./84060-ghost-platoon.json) |
+| Ghost Pop! | 96998 | [96998-ghost-pop.json](./96998-ghost-pop.json) |
 | Ghost Protocol | 181532 | [181532-ghost-protocol.json](./181532-ghost-protocol.json) |
 | Ghost Puncher | 211171 | [211171-ghost-puncher.json](./211171-ghost-puncher.json) |
 | Ghost Punishment | 121590 | [121590-ghost-punishment.json](./121590-ghost-punishment.json) |
@@ -10178,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Five | 244989 | [244989-green-five.json](./244989-green-five.json) |
 | Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Garden | 226359 | [226359-green-garden.json](./226359-green-garden.json) |
+| Green General | 96967 | [96967-green-general.json](./96967-green-general.json) |
 | Green Glass | 174609 | [174609-green-glass.json](./174609-green-glass.json) |
 | Green Green | 125742 | [125742-green-green.json](./125742-green-green.json) |
 | Green Green 2: Koi no Special Summer | 294616 | [294616-green-green-2-koi-no-special-summer.json](./294616-green-green-2-koi-no-special-summer.json) |
@@ -12543,6 +12545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Young Gun Grave | 273300 | [273300-gungrave-g-o-r-e-ultimate-enhanced-edition-young-gun-grave.json](./273300-gungrave-g-o-r-e-ultimate-enhanced-edition-young-gun-grave.json) |
 | Gungrave VR | 71456 | [71456-gungrave-vr.json](./71456-gungrave-vr.json) |
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
+| Gungrave VR: Complete Edition | 98083 | [98083-gungrave-vr-complete-edition.json](./98083-gungrave-vr-complete-edition.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gungrave: Overdose | 22452 | [22452-gungrave-overdose.json](./22452-gungrave-overdose.json) |
 | Gungriffon | 46054 | [46054-gungriffon.json](./46054-gungriffon.json) |
@@ -12566,6 +12569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunita | 360309 | [360309-gunita.json](./360309-gunita.json) |
 | Gunja Tteokbokki | 395730 | [395730-gunja-tteokbokki.json](./395730-gunja-tteokbokki.json) |
 | Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
+| Gunjack 2: End of Shift | 98078 | [98078-gunjack-2-end-of-shift.json](./98078-gunjack-2-end-of-shift.json) |
 | Gunjack Next (working title) | 100070 | [100070-gunjack-next-working-title.json](./100070-gunjack-next-working-title.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
 | Gunjitsu | 17099 | [17099-gunjitsu.json](./17099-gunjitsu.json) |
