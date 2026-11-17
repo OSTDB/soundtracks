@@ -9904,6 +9904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empty House: A Dementia Interactive Experience | 342014 | [342014-the-empty-house-a-dementia-interactive-experience.json](./342014-the-empty-house-a-dementia-interactive-experience.json) |
 | The Empty Inn | 34869 | [34869-the-empty-inn.json](./34869-the-empty-inn.json) |
 | The Empty Kingdom | 102033 | [102033-the-empty-kingdom.json](./102033-the-empty-kingdom.json) |
+| The Empty Suitcase | 421703 | [421703-the-empty-suitcase.json](./421703-the-empty-suitcase.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
 | The Emulator | 113306 | [113306-the-emulator.json](./113306-the-emulator.json) |
 | The Enchanted Books | 88172 | [88172-the-enchanted-books.json](./88172-the-enchanted-books.json) |
@@ -14474,6 +14475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library | 274430 | [274430-the-library.json](./274430-the-library.json) |
 | The Library | 339191 | [339191-the-library.json](./339191-the-library.json) |
+| The Library Assistant | 421717 | [421717-the-library-assistant.json](./421717-the-library-assistant.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
 | The Library of Babel | 201214 | [201214-the-library-of-babel.json](./201214-the-library-of-babel.json) |
 | The Library of Babel: Deluxe Edition | 231576 | [231576-the-library-of-babel-deluxe-edition.json](./231576-the-library-of-babel-deluxe-edition.json) |
@@ -15672,6 +15674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon is our Friend | 344075 | [344075-the-moon-is-our-friend.json](./344075-the-moon-is-our-friend.json) |
 | The Moon Looks Beautiful Tonight | 257487 | [257487-the-moon-looks-beautiful-tonight.json](./257487-the-moon-looks-beautiful-tonight.json) |
 | The Moon Looks Beautiful Tonight: Definitive Edition | 383600 | [383600-the-moon-looks-beautiful-tonight-definitive-edition.json](./383600-the-moon-looks-beautiful-tonight-definitive-edition.json) |
+| The Moon My Destination | 421686 | [421686-the-moon-my-destination.json](./421686-the-moon-my-destination.json) |
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
 | The Moon or Bust! | 112522 | [112522-the-moon-or-bust.json](./112522-the-moon-or-bust.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
@@ -17541,6 +17544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rescue Squad | 164916 | [164916-the-rescue-squad.json](./164916-the-rescue-squad.json) |
 | The Research Age Deluxe | 170684 | [170684-the-research-age-deluxe.json](./170684-the-research-age-deluxe.json) |
 | The Research Facility No.507 | 90576 | [90576-the-research-facility-no-507.json](./90576-the-research-facility-no-507.json) |
+| The Reserve | 421691 | [421691-the-reserve.json](./421691-the-reserve.json) |
 | The Reshaping of Googol 1B: The Tower | 299157 | [299157-the-reshaping-of-googol-1b-the-tower.json](./299157-the-reshaping-of-googol-1b-the-tower.json) |
 | The Resident | 366283 | [366283-the-resident.json](./366283-the-resident.json) |
 | The Residents: Freak Show | 74045 | [74045-the-residents-freak-show.json](./74045-the-residents-freak-show.json) |
@@ -19247,6 +19251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stone Cutter and the Mountain Spirit | 207352 | [207352-the-stone-cutter-and-the-mountain-spirit.json](./207352-the-stone-cutter-and-the-mountain-spirit.json) |
 | The Stone of Anamara: First Chapter | 186145 | [186145-the-stone-of-anamara-first-chapter.json](./186145-the-stone-of-anamara-first-chapter.json) |
 | The Stone of Destiny | 284322 | [284322-the-stone-of-destiny.json](./284322-the-stone-of-destiny.json) |
+| The Stone of Eternity | 421705 | [421705-the-stone-of-eternity.json](./421705-the-stone-of-eternity.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
 | The Stone of Madness: Special Edition | 331255 | [331255-the-stone-of-madness-special-edition.json](./331255-the-stone-of-madness-special-edition.json) |
 | The Stone of Sisyphus | 24902 | [24902-the-stone-of-sisyphus.json](./24902-the-stone-of-sisyphus.json) |
@@ -23529,6 +23534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidewell | 413884 | [413884-tidewell.json](./413884-tidewell.json) |
 | Tidewoken | 133334 | [133334-tidewoken.json](./133334-tidewoken.json) |
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
+| Tidy & Bright: Together at the Christmas Market | 421718 | [421718-tidy-and-bright-together-at-the-christmas-market.json](./421718-tidy-and-bright-together-at-the-christmas-market.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Backpack: In the Faraway Lands | 412003 | [412003-tidy-backpack-in-the-faraway-lands.json](./412003-tidy-backpack-in-the-faraway-lands.json) |
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
@@ -33791,6 +33797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Taste: The Boys Order Pizza | 214957 | [214957-trash-taste-the-boys-order-pizza.json](./214957-trash-taste-the-boys-order-pizza.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
 | Trash Time | 115155 | [115155-trash-time.json](./115155-trash-time.json) |
+| Trash to Trees: Tidy Up the Forest! | 421719 | [421719-trash-to-trees-tidy-up-the-forest.json](./421719-trash-to-trees-tidy-up-the-forest.json) |
 | Trash Trek Simulator | 334556 | [334556-trash-trek-simulator.json](./334556-trash-trek-simulator.json) |
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
 | Trash Tycoon | 204416 | [204416-trash-tycoon.json](./204416-trash-tycoon.json) |
