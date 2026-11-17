@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dunk Shooter | 360735 | [360735-ultimate-dunk-shooter.json](./360735-ultimate-dunk-shooter.json) |
 | Ultimate Dunker | 57203 | [57203-ultimate-dunker.json](./57203-ultimate-dunker.json) |
 | Ultimate Epic Battle Simulator 2 | 164250 | [164250-ultimate-epic-battle-simulator-2.json](./164250-ultimate-epic-battle-simulator-2.json) |
+| Ultimate Evil | 180324 | [180324-ultimate-evil.json](./180324-ultimate-evil.json) |
 | Ultimate Farm Simulator | 102478 | [102478-ultimate-farm-simulator.json](./102478-ultimate-farm-simulator.json) |
 | Ultimate Fatal Octopus | 289232 | [289232-ultimate-fatal-octopus.json](./289232-ultimate-fatal-octopus.json) |
 | Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
