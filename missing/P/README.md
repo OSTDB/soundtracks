@@ -17388,6 +17388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Problematic | 409388 | [409388-problematic.json](./409388-problematic.json) |
 | Problemlöser | 277936 | [277936-problemloser.json](./277936-problemloser.json) |
 | Problems and Solutions | 342733 | [342733-problems-and-solutions.json](./342733-problems-and-solutions.json) |
+| Problems Colecionador | 420456 | [420456-problems-colecionador.json](./420456-problems-colecionador.json) |
+| Problems Jogo | 420453 | [420453-problems-jogo.json](./420453-problems-jogo.json) |
 | Probo Rush | 235876 | [235876-probo-rush.json](./235876-probo-rush.json) |
 | ProBoon | 109425 | [109425-proboon.json](./109425-proboon.json) |
 | Probot Soccer | 276829 | [276829-probot-soccer.json](./276829-probot-soccer.json) |
