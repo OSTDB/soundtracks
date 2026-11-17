@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Mario's A-Maze-ing Game | 341043 | [341043-baby-marios-a-maze-ing-game.json](./341043-baby-marios-a-maze-ing-game.json) |
 | Baby Monkey | 93453 | [93453-baby-monkey.json](./93453-baby-monkey.json) |
 | Baby Ninja | 88554 | [88554-baby-ninja.json](./88554-baby-ninja.json) |
+| Baby Ninja Jump | 89292 | [89292-baby-ninja-jump.json](./89292-baby-ninja-jump.json) |
 | Baby Nom Nom | 20916 | [20916-baby-nom-nom.json](./20916-baby-nom-nom.json) |
 | Baby Pac-Man | 388306 | [388306-baby-pac-man.json](./388306-baby-pac-man.json) |
 | Baby Pals | 91753 | [91753-baby-pals.json](./91753-baby-pals.json) |
@@ -7808,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better to Upload Two Souls | 134863 | [134863-better-to-upload-two-souls.json](./134863-better-to-upload-two-souls.json) |
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
+| Better Your Bridge | 87711 | [87711-better-your-bridge.json](./87711-better-your-bridge.json) |
 | BetterEd Element Master | 106754 | [106754-bettered-element-master.json](./106754-bettered-element-master.json) |
 | BetterGH3 | 404482 | [404482-bettergh3.json](./404482-bettergh3.json) |
 | Betterified VI: Bestified | 278057 | [278057-betterified-vi-bestified.json](./278057-betterified-vi-bestified.json) |
@@ -10624,6 +10626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
 | Blackout | 284008 | [284008-blackout.json](./284008-blackout.json) |
 | Blackout | 406395 | [406395-blackout.json](./406395-blackout.json) |
+| Blackout | 85674 | [85674-blackout.json](./85674-blackout.json) |
 | BlackOut | 63061 | [63061-blackout.json](./63061-blackout.json) |
 | Blackout Arena | 390436 | [390436-blackout-arena.json](./390436-blackout-arena.json) |
 | Blackout Hospital | 238533 | [238533-blackout-hospital.json](./238533-blackout-hospital.json) |
