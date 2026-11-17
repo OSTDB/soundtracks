@@ -9229,6 +9229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosiovania | 361258 | [361258-explosiovania.json](./361258-explosiovania.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
 | Explosive Candy World | 158317 | [158317-explosive-candy-world.json](./158317-explosive-candy-world.json) |
+| Explosive Demolition Truck | 99256 | [99256-explosive-demolition-truck.json](./99256-explosive-demolition-truck.json) |
 | Explosive Dinosaurs | 104792 | [104792-explosive-dinosaurs.json](./104792-explosive-dinosaurs.json) |
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
 | Explosive Fighter Patton | 11449 | [11449-explosive-fighter-patton.json](./11449-explosive-fighter-patton.json) |
