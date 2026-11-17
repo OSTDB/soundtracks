@@ -8104,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Kills | 383201 | [383201-ricochet-kills.json](./383201-ricochet-kills.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Kills: Noir | 29397 | [29397-ricochet-kills-noir.json](./29397-ricochet-kills-noir.json) |
+| Ricochet Ranger | 183626 | [183626-ricochet-ranger.json](./183626-ricochet-ranger.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Riders | 404995 | [404995-ricochet-riders.json](./404995-ricochet-riders.json) |
 | Ricochet Rodeo | 223419 | [223419-ricochet-rodeo.json](./223419-ricochet-rodeo.json) |
@@ -10644,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Blasters | 76306 | [76306-rocket-blasters.json](./76306-rocket-blasters.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Boots Mania: Space Train | 332909 | [332909-rocket-boots-mania-space-train.json](./332909-rocket-boots-mania-space-train.json) |
+| Rocket Bot Royale | 185712 | [185712-rocket-bot-royale.json](./185712-rocket-bot-royale.json) |
 | Rocket Bots | 155941 | [155941-rocket-bots.json](./155941-rocket-bots.json) |
 | Rocket Bowl | 209105 | [209105-rocket-bowl.json](./209105-rocket-bowl.json) |
 | Rocket Bowl | 209106 | [209106-rocket-bowl.json](./209106-rocket-bowl.json) |
