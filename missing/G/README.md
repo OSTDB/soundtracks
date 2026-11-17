@@ -12107,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulf Storm | 40154 | [40154-gulf-storm.json](./40154-gulf-storm.json) |
 | Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
 | Gulf War II | 40317 | [40317-gulf-war-ii.json](./40317-gulf-war-ii.json) |
+| Gulf War: Operation Desert Hammer | 80681 | [80681-gulf-war-operation-desert-hammer.json](./80681-gulf-war-operation-desert-hammer.json) |
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
 | Gullet | 319926 | [319926-gullet.json](./319926-gullet.json) |
@@ -12574,6 +12575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | GunMaster Onslaught 2.0 | 387925 | [387925-gunmaster-onslaught-2-0.json](./387925-gunmaster-onslaught-2-0.json) |
 | Gunmen Wars | 62095 | [62095-gunmen-wars.json](./62095-gunmen-wars.json) |
+| Gunmetal | 80695 | [80695-gunmetal.json](./80695-gunmetal.json) |
 | Gunmetal Arcadia Zero | 22713 | [22713-gunmetal-arcadia-zero.json](./22713-gunmetal-arcadia-zero.json) |
 | Gunmetal Gothic | 252581 | [252581-gunmetal-gothic.json](./252581-gunmetal-gothic.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
