@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
 | Land of Warfare: Battle Maps | 196762 | [196762-land-of-warfare-battle-maps.json](./196762-land-of-warfare-battle-maps.json) |
 | Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
+| Land of Wars | 425301 | [425301-land-of-wars.json](./425301-land-of-wars.json) |
 | Land of Wind and Shade | 217616 | [217616-land-of-wind-and-shade.json](./217616-land-of-wind-and-shade.json) |
 | Land of Zombies | 245777 | [245777-land-of-zombies.json](./245777-land-of-zombies.json) |
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeftWay 2 | 158798 | [158798-leftway-2.json](./158798-leftway-2.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
+| Leg Day | 425317 | [425317-leg-day.json](./425317-leg-day.json) |
 | Leg Day: Four Steps Through Hell | 415992 | [415992-leg-day-four-steps-through-hell.json](./415992-leg-day-four-steps-through-hell.json) |
 | Leg It: Don't Stop | 421604 | [421604-leg-it-dont-stop.json](./421604-leg-it-dont-stop.json) |
 | Legacies | 132469 | [132469-legacies.json](./132469-legacies.json) |
@@ -10987,6 +10989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
 | LumberReborn | 217822 | [217822-lumberreborn.json](./217822-lumberreborn.json) |
 | Lumboo | 397093 | [397093-lumboo.json](./397093-lumboo.json) |
+| Lumbric | 425289 | [425289-lumbric.json](./425289-lumbric.json) |
 | Lume | 302056 | [302056-lume.json](./302056-lume.json) |
 | Lume | 9211 | [9211-lume.json](./9211-lume.json) |
 | Lume and the Shifting Void | 122952 | [122952-lume-and-the-shifting-void.json](./122952-lume-and-the-shifting-void.json) |
