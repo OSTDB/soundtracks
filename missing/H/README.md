@@ -4488,7 +4488,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist! | 78287 | [78287-heist.json](./78287-heist.json) |
 | Heist.exe | 350880 | [350880-heist-exe.json](./350880-heist-exe.json) |
 | Heistfest | 237136 | [237136-heistfest.json](./237136-heistfest.json) |
-| HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
 | Heisting: Complete Edition | 300892 | [300892-heisting-complete-edition.json](./300892-heisting-complete-edition.json) |
@@ -6732,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
 | Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
+| Hero Index | 131640 | [131640-hero-index.json](./131640-hero-index.json) |
 | Hero Jumper | 220034 | [220034-hero-jumper.json](./220034-hero-jumper.json) |
 | Hero Keeper | 125183 | [125183-hero-keeper.json](./125183-hero-keeper.json) |
 | Hero Kid | 70871 | [70871-hero-kid.json](./70871-hero-kid.json) |
