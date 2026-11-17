@@ -6706,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beehive Bedlam | 262024 | [262024-beehive-bedlam.json](./262024-beehive-bedlam.json) |
 | Beeing | 368917 | [368917-beeing.json](./368917-beeing.json) |
 | Beeing Hive | 407030 | [407030-beeing-hive.json](./407030-beeing-hive.json) |
+| Beek: Familiar Spirit | 178695 | [178695-beek-familiar-spirit.json](./178695-beek-familiar-spirit.json) |
 | Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beeknighted | 242717 | [242717-beeknighted.json](./242717-beeknighted.json) |
@@ -15056,6 +15057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boooost!!!! | 197444 | [197444-boooost.json](./197444-boooost.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boop a Cat | 303356 | [303356-boop-a-cat.json](./303356-boop-a-cat.json) |
+| Boop the Snoot | 178696 | [178696-boop-the-snoot.json](./178696-boop-the-snoot.json) |
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
 | Booper Bowling | 417838 | [417838-booper-bowling.json](./417838-booper-bowling.json) |
 | Booper, Get Home! | 38949 | [38949-booper-get-home.json](./38949-booper-get-home.json) |
