@@ -4025,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leprechaun | 23511 | [23511-leprechaun.json](./23511-leprechaun.json) |
 | Leprechaun Shadow | 111698 | [111698-leprechaun-shadow.json](./111698-leprechaun-shadow.json) |
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
+| Leprechauns | 78122 | [78122-leprechauns.json](./78122-leprechauns.json) |
 | Lepur | 81765 | [81765-lepur.json](./81765-lepur.json) |
 | Lepus | 376121 | [376121-lepus.json](./376121-lepus.json) |
 | Lern Island Letters | 322768 | [322768-lern-island-letters.json](./322768-lern-island-letters.json) |
