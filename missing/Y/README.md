@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are SpamZapper 3.1 | 210535 | [210535-you-are-spamzapper-3-1.json](./210535-you-are-spamzapper-3-1.json) |
 | You Are Speed | 244139 | [244139-you-are-speed.json](./244139-you-are-speed.json) |
 | You are standing in a cave... | 57471 | [57471-you-are-standing-in-a-cave.json](./57471-you-are-standing-in-a-cave.json) |
+| You Are Super Mega Legend Phoenix | 426521 | [426521-you-are-super-mega-legend-phoenix.json](./426521-you-are-super-mega-legend-phoenix.json) |
 | You are the Apple of My Eye | 99028 | [99028-you-are-the-apple-of-my-eye.json](./99028-you-are-the-apple-of-my-eye.json) |
 | You Are the Bomb: A Game About Rolling Bombs | 372437 | [372437-you-are-the-bomb-a-game-about-rolling-bombs.json](./372437-you-are-the-bomb-a-game-about-rolling-bombs.json) |
 | You Are the Castle | 66303 | [66303-you-are-the-castle.json](./66303-you-are-the-castle.json) |
