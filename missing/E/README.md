@@ -5711,6 +5711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
 | Error: Human Not Found | 81851 | [81851-error-human-not-found.json](./81851-error-human-not-found.json) |
 | Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
+| Error#54 | 182404 | [182404-error-54.json](./182404-error-54.json) |
 | Error143 | 207032 | [207032-error143.json](./207032-error143.json) |
 | Error143 DLC | 260460 | [260460-error143-dlc.json](./260460-error143-dlc.json) |
 | Error422 | 280743 | [280743-error422.json](./280743-error422.json) |
@@ -6679,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espionage | 285027 | [285027-espionage.json](./285027-espionage.json) |
 | Espionage Activity | 291148 | [291148-espionage-activity.json](./291148-espionage-activity.json) |
 | Espionage Island | 13645 | [13645-espionage-island.json](./13645-espionage-island.json) |
+| Espionage: Mafia Evolved | 183632 | [183632-espionage-mafia-evolved.json](./183632-espionage-mafia-evolved.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Espire 1: VR Operative | 68569 | [68569-espire-1-vr-operative.json](./68569-espire-1-vr-operative.json) |
 | Espire 2 | 198228 | [198228-espire-2.json](./198228-espire-2.json) |
