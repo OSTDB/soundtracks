@@ -11916,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling for Romance | 273954 | [273954-rolling-for-romance.json](./273954-rolling-for-romance.json) |
 | Rolling Gauntlet | 33697 | [33697-rolling-gauntlet.json](./33697-rolling-gauntlet.json) |
 | Rolling Gunner | 119445 | [119445-rolling-gunner.json](./119445-rolling-gunner.json) |
+| Rolling Gunner + Over Power | 165092 | [165092-rolling-gunner-over-power.json](./165092-rolling-gunner-over-power.json) |
 | Rolling Gunner Over Power | 142846 | [142846-rolling-gunner-over-power.json](./142846-rolling-gunner-over-power.json) |
 | Rolling Hamster | 139528 | [139528-rolling-hamster.json](./139528-rolling-hamster.json) |
 | Rolling Hare | 359904 | [359904-rolling-hare.json](./359904-rolling-hare.json) |
@@ -14440,6 +14441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running With Rifles: Pacific | 174405 | [174405-running-with-rifles-pacific.json](./174405-running-with-rifles-pacific.json) |
 | RunningDead | 29650 | [29650-runningdead.json](./29650-runningdead.json) |
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
+| RunningMarty | 164108 | [164108-runningmarty.json](./164108-runningmarty.json) |
 | Runnordai | 254844 | [254844-runnordai.json](./254844-runnordai.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runny Egg | 58339 | [58339-runny-egg.json](./58339-runny-egg.json) |
