@@ -4004,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marcella Moon: Secret on the Hill | 172088 | [172088-marcella-moon-secret-on-the-hill.json](./172088-marcella-moon-secret-on-the-hill.json) |
 | Marcella Moon: The Phantom of Harvest Grove | 373762 | [373762-marcella-moon-the-phantom-of-harvest-grove.json](./373762-marcella-moon-the-phantom-of-harvest-grove.json) |
 | March Forward | 123936 | [123936-march-forward.json](./123936-march-forward.json) |
+| March March! | 203455 | [203455-march-march.json](./203455-march-march.json) |
 | March of Empires | 58926 | [58926-march-of-empires.json](./58926-march-of-empires.json) |
 | March of Empires: War of Lords | 181988 | [181988-march-of-empires-war-of-lords.json](./181988-march-of-empires-war-of-lords.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
@@ -7934,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot DS: Kuwagata Version | 204249 | [204249-medarot-ds-kuwagata-version.json](./204249-medarot-ds-kuwagata-version.json) |
 | Medarot Dual: Kabuto Version | 61977 | [61977-medarot-dual-kabuto-version.json](./61977-medarot-dual-kabuto-version.json) |
+| Medarot Dual: Kuwagata Version | 203434 | [203434-medarot-dual-kuwagata-version.json](./203434-medarot-dual-kuwagata-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medarot G: Kuwagata Version | 79757 | [79757-medarot-g-kuwagata-version.json](./79757-medarot-g-kuwagata-version.json) |
 | Medarot Girls Mission | 56992 | [56992-medarot-girls-mission.json](./56992-medarot-girls-mission.json) |
@@ -9939,6 +9941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memo Raise: Memory Game | 232307 | [232307-memo-raise-memory-game.json](./232307-memo-raise-memory-game.json) |
 | Memo to the Underlord | 364374 | [364374-memo-to-the-underlord.json](./364374-memo-to-the-underlord.json) |
 | Memocratie | 322636 | [322636-memocratie.json](./322636-memocratie.json) |
+| Memoir | 203453 | [203453-memoir.json](./203453-memoir.json) |
 | Memoir | 97173 | [97173-memoir.json](./97173-memoir.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
