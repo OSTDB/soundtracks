@@ -3527,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technician Ted: The Megamix | 133533 | [133533-technician-ted-the-megamix.json](./133533-technician-ted-the-megamix.json) |
 | Technicity | 186619 | [186619-technicity.json](./186619-technicity.json) |
 | Technicolor Antichrist Box | 410523 | [410523-technicolor-antichrist-box.json](./410523-technicolor-antichrist-box.json) |
+| Technicolor Difficulties | 427112 | [427112-technicolor-difficulties.json](./427112-technicolor-difficulties.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Technikiller | 219567 | [219567-technikiller.json](./219567-technikiller.json) |
 | Technitive | 196997 | [196997-technitive.json](./196997-technitive.json) |
@@ -12350,6 +12351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Colors - A.X.E.8: Alstroemeria | 415588 | [415588-the-idolmaster-shiny-colors-a-x-e-8-alstroemeria.json](./415588-the-idolmaster-shiny-colors-a-x-e-8-alstroemeria.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Houkago Climax Girls | 420789 | [420789-the-idolmaster-shiny-colors-a-x-e-8-houkago-climax-girls.json](./420789-the-idolmaster-shiny-colors-a-x-e-8-houkago-climax-girls.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
+| The Idolmaster: Shiny Colors - A.X.E.8: Noctchill | 427075 | [427075-the-idolmaster-shiny-colors-a-x-e-8-noctchill.json](./427075-the-idolmaster-shiny-colors-a-x-e-8-noctchill.json) |
 | The Idolmaster: Shiny Colors - Itsuka Kaze ga Yamu Sono Hi made | 415460 | [415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json](./415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json) |
 | The Idolmaster: Shiny Colors - Moshimo, L'Antica ja Nakattara | 420792 | [420792-the-idolmaster-shiny-colors-moshimo-lantica-ja-nakattara.json](./420792-the-idolmaster-shiny-colors-moshimo-lantica-ja-nakattara.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
@@ -16048,6 +16050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Night Route | 414729 | [414729-the-night-route.json](./414729-the-night-route.json) |
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
+| The Night Shift | 427106 | [427106-the-night-shift.json](./427106-the-night-shift.json) |
 | The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
 | The Night That Speaks | 141421 | [141421-the-night-that-speaks.json](./141421-the-night-that-speaks.json) |
 | The Night the Carsons Disappeared | 30764 | [30764-the-night-the-carsons-disappeared.json](./30764-the-night-the-carsons-disappeared.json) |
@@ -22398,6 +22401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
 | Thirst | 337315 | [337315-thirst.json](./337315-thirst.json) |
 | Thirst For Life | 111372 | [111372-thirst-for-life.json](./111372-thirst-for-life.json) |
+| Thirst Trap | 427115 | [427115-thirst-trap.json](./427115-thirst-trap.json) |
 | Thirstchasm | 278566 | [278566-thirstchasm.json](./278566-thirstchasm.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
 | Thirsty Bird | 403784 | [403784-thirsty-bird.json](./403784-thirsty-bird.json) |
@@ -36198,6 +36202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsurupika Hagemaru: Mezase! Tsuruseko no Akashi | 48874 | [48874-tsurupika-hagemaru-mezase-tsuruseko-no-akashi.json](./48874-tsurupika-hagemaru-mezase-tsuruseko-no-akashi.json) |
 | Tsushima | 93195 | [93195-tsushima.json](./93195-tsushima.json) |
 | Tsutawaru! Manaberu! Nyanko Manga de Eikaiwa | 279199 | [279199-tsutawaru-manaberu-nyanko-manga-de-eikaiwa.json](./279199-tsutawaru-manaberu-nyanko-manga-de-eikaiwa.json) |
+| Tsuugakuro: Natsu Mado - Summer Window | 427078 | [427078-tsuugakuro-natsu-mado-summer-window.json](./427078-tsuugakuro-natsu-mado-summer-window.json) |
 | Tsuukai Gyaguabanchuuru: Naruto Maki Hichou | 67264 | [67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json](./67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json) |
 | TsuukaI!! Slot Shooting | 346936 | [346936-tsuukai-slot-shooting.json](./346936-tsuukai-slot-shooting.json) |
 | Tsuushin Taikyoku: Hayazashi Shogi Sandan | 344460 | [344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json](./344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json) |
