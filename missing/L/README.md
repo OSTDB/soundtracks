@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
 | Latin Heat | 394330 | [394330-latin-heat.json](./394330-latin-heat.json) |
 | Latin Shadows: The Visitor | 404073 | [404073-latin-shadows-the-visitor.json](./404073-latin-shadows-the-visitor.json) |
+| Latish Destroyer | 183635 | [183635-latish-destroyer.json](./183635-latish-destroyer.json) |
 | Latitude 76: Land of the Onkilons | 352428 | [352428-latitude-76-land-of-the-onkilons.json](./352428-latitude-76-land-of-the-onkilons.json) |
 | Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
 | Latte Stand Tycoon | 113802 | [113802-latte-stand-tycoon.json](./113802-latte-stand-tycoon.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Monde de Nadia | 149280 | [149280-le-monde-de-nadia.json](./149280-le-monde-de-nadia.json) |
 | Le Monde de Titeuf | 149279 | [149279-le-monde-de-titeuf.json](./149279-le-monde-de-titeuf.json) |
 | Le Morte D'Arthur | 338944 | [338944-le-morte-darthur.json](./338944-le-morte-darthur.json) |
+| Le mur de Berlin va sauter | 182421 | [182421-le-mur-de-berlin-va-sauter.json](./182421-le-mur-de-berlin-va-sauter.json) |
 | Le Mystère de Kikekankoi | 93005 | [93005-le-mystere-de-kikekankoi.json](./93005-le-mystere-de-kikekankoi.json) |
 | Le Mystère de la fleur de verre | 413039 | [413039-le-mystere-de-la-fleur-de-verre.json](./413039-le-mystere-de-la-fleur-de-verre.json) |
 | Le Pacte | 304056 | [304056-le-pacte.json](./304056-le-pacte.json) |
@@ -4395,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Mit Deutschen Hits | 146150 | [146150-lets-sing-2021-mit-deutschen-hits.json](./146150-lets-sing-2021-mit-deutschen-hits.json) |
 | Let's Sing 2021: Platinum Edition | 175532 | [175532-lets-sing-2021-platinum-edition.json](./175532-lets-sing-2021-platinum-edition.json) |
 | Let's Sing 2022 | 168550 | [168550-lets-sing-2022.json](./168550-lets-sing-2022.json) |
+| Let's Sing 2022 with German Hits: Platinum Edition | 185711 | [185711-lets-sing-2022-with-german-hits-platinum-edition.json](./185711-lets-sing-2022-with-german-hits-platinum-edition.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
 | Let's Sing 2022: Platinum Edition | 185980 | [185980-lets-sing-2022-platinum-edition.json](./185980-lets-sing-2022-platinum-edition.json) |
