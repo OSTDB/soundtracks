@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eien | 246738 | [246738-eien.json](./246738-eien.json) |
 | Eien | 392743 | [392743-eien.json](./392743-eien.json) |
 | Eien no Aselia Expansion: The Spirit of Eternity Sword | 63445 | [63445-eien-no-aselia-expansion-the-spirit-of-eternity-sword.json](./63445-eien-no-aselia-expansion-the-spirit-of-eternity-sword.json) |
+| Eien no Aselia: Kono Daichi no Hate de | 138301 | [138301-eien-no-aselia-kono-daichi-no-hate-de.json](./138301-eien-no-aselia-kono-daichi-no-hate-de.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
 | Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko - Game de Asobou! Eiga no Sekai | 171550 | [171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json](./171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json) |
@@ -4556,7 +4557,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzeit | 115145 | [115145-endzeit.json](./115145-endzeit.json) |
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
 | Endzone | 13643 | [13643-endzone.json](./13643-endzone.json) |
-| Endzone 2 | 262528 | [262528-endzone-2.json](./262528-endzone-2.json) |
 | Endzone: A World Apart - Complete Edition | 218504 | [218504-endzone-a-world-apart-complete-edition.json](./218504-endzone-a-world-apart-complete-edition.json) |
 | Endzone: A World Apart - Distant Places | 193755 | [193755-endzone-a-world-apart-distant-places.json](./193755-endzone-a-world-apart-distant-places.json) |
 | Endzone: A World Apart - Prosperity | 159687 | [159687-endzone-a-world-apart-prosperity.json](./159687-endzone-a-world-apart-prosperity.json) |
