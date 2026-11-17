@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
 | Ultrabugs | 116793 | [116793-ultrabugs.json](./116793-ultrabugs.json) |
+| Ultracapitalism | 424119 | [424119-ultracapitalism.json](./424119-ultracapitalism.json) |
 | UltraCook | 293795 | [293795-ultracook.json](./293795-ultracook.json) |
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
 | Ultracore: Collector's Edition | 116153 | [116153-ultracore-collectors-edition.json](./116153-ultracore-collectors-edition.json) |
