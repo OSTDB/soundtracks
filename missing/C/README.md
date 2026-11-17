@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
 | Call of Beauty | 389044 | [389044-call-of-beauty.json](./389044-call-of-beauty.json) |
 | Call of Bieber | 392330 | [392330-call-of-bieber.json](./392330-call-of-bieber.json) |
+| Call of Bitcoin | 96961 | [96961-call-of-bitcoin.json](./96961-call-of-bitcoin.json) |
 | Call of Blood | 418084 | [418084-call-of-blood.json](./418084-call-of-blood.json) |
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
 | Call of Booty | 105617 | [105617-call-of-booty.json](./105617-call-of-booty.json) |
@@ -10647,6 +10648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
 | City Eater | 206421 | [206421-city-eater.json](./206421-city-eater.json) |
 | City Escape | 417128 | [417128-city-escape.json](./417128-city-escape.json) |
+| City Escaper | 96969 | [96969-city-escaper.json](./96969-city-escaper.json) |
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
 | City Eye | 87967 | [87967-city-eye.json](./87967-city-eye.json) |
@@ -13959,6 +13961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloratura | 410054 | [410054-coloratura.json](./410054-coloratura.json) |
 | Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
 | ColorBlend FX: Desaturation | 95024 | [95024-colorblend-fx-desaturation.json](./95024-colorblend-fx-desaturation.json) |
+| Colorblind - An Eye For An Eye | 96996 | [96996-colorblind-an-eye-for-an-eye.json](./96996-colorblind-an-eye-for-an-eye.json) |
 | Colorboration | 390884 | [390884-colorboration.json](./390884-colorboration.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | Colorbox Mustard | 330035 | [330035-colorbox-mustard.json](./330035-colorbox-mustard.json) |
@@ -20068,6 +20071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Sea | 5792 | [5792-crimson-sea.json](./5792-crimson-sea.json) |
 | Crimson Sea 2 | 22166 | [22166-crimson-sea-2.json](./22166-crimson-sea-2.json) |
 | Crimson Seer | 378400 | [378400-crimson-seer.json](./378400-crimson-seer.json) |
+| Crimson Shift | 96964 | [96964-crimson-shift.json](./96964-crimson-shift.json) |
 | Crimson Shroud | 20839 | [20839-crimson-shroud.json](./20839-crimson-shroud.json) |
 | Crimson Skies | 15863 | [15863-crimson-skies.json](./15863-crimson-skies.json) |
 | Crimson Skies: High Road to Revenge | 5793 | [5793-crimson-skies-high-road-to-revenge.json](./5793-crimson-skies-high-road-to-revenge.json) |
@@ -21927,6 +21931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube XL | 91222 | [91222-cube-xl.json](./91222-cube-xl.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
 | Cube Zone | 320655 | [320655-cube-zone.json](./320655-cube-zone.json) |
+| Cube Zone | 96958 | [96958-cube-zone.json](./96958-cube-zone.json) |
 | Cube-C: VR Game Collection | 74204 | [74204-cube-c-vr-game-collection.json](./74204-cube-c-vr-game-collection.json) |
 | Cube-e | 159420 | [159420-cube-e.json](./159420-cube-e.json) |
 | Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
