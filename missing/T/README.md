@@ -4401,7 +4401,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebris | 377187 | [377187-tenebris.json](./377187-tenebris.json) |
 | TenebriS | 158128 | [158128-tenebris.json](./158128-tenebris.json) |
 | Tenebris Lake | 288272 | [288272-tenebris-lake.json](./288272-tenebris-lake.json) |
-| Tenebris Pictura | 257055 | [257055-tenebris-pictura.json](./257055-tenebris-pictura.json) |
 | Tenebris Somnia | 216692 | [216692-tenebris-somnia.json](./216692-tenebris-somnia.json) |
 | Tenebris: Terra Incognita | 235777 | [235777-tenebris-terra-incognita.json](./235777-tenebris-terra-incognita.json) |
 | Tenebrix | 403651 | [403651-tenebrix.json](./403651-tenebrix.json) |
@@ -16765,7 +16764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirate King | 152731 | [152731-the-pirate-king.json](./152731-the-pirate-king.json) |
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirate Queen | 127725 | [127725-the-pirate-queen.json](./127725-the-pirate-queen.json) |
-| The Pirate Queen: With Lucy Liu | 258618 | [258618-the-pirate-queen-with-lucy-liu.json](./258618-the-pirate-queen-with-lucy-liu.json) |
 | The Pirate: Caribbean Hunt | 31726 | [31726-the-pirate-caribbean-hunt.json](./31726-the-pirate-caribbean-hunt.json) |
 | The Pirate: Plague of the Dead | 72503 | [72503-the-pirate-plague-of-the-dead.json](./72503-the-pirate-plague-of-the-dead.json) |
 | The Pirate: Republic of Nassau | 396461 | [396461-the-pirate-republic-of-nassau.json](./396461-the-pirate-republic-of-nassau.json) |
