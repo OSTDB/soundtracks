@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family of Heroes for Kids | 104174 | [104174-family-of-heroes-for-kids.json](./104174-family-of-heroes-for-kids.json) |
 | Family Park | 113217 | [113217-family-park.json](./113217-family-park.json) |
 | Family Park Tycoon | 123310 | [123310-family-park-tycoon.json](./123310-family-park-tycoon.json) |
+| Family Party 90 Great Games | 25194 | [25194-family-party-90-great-games.json](./25194-family-party-90-great-games.json) |
 | Family Party: 30 Great Games | 50964 | [50964-family-party-30-great-games.json](./50964-family-party-30-great-games.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Outdoor Fun | 50999 | [50999-family-party-30-great-games-outdoor-fun.json](./50999-family-party-30-great-games-outdoor-fun.json) |
@@ -3791,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Retrace: Operation Ascension | 286865 | [286865-fated-retrace-operation-ascension.json](./286865-fated-retrace-operation-ascension.json) |
 | Fated Souls | 35250 | [35250-fated-souls.json](./35250-fated-souls.json) |
 | Fated Souls 2 | 31407 | [31407-fated-souls-2.json](./31407-fated-souls-2.json) |
+| Fated Souls 3 | 29281 | [29281-fated-souls-3.json](./29281-fated-souls-3.json) |
 | Fated Thread | 333826 | [333826-fated-thread.json](./333826-fated-thread.json) |
 | Fated: The Silent Oath | 19013 | [19013-fated-the-silent-oath.json](./19013-fated-the-silent-oath.json) |
 | Fateel | 226504 | [226504-fateel.json](./226504-fateel.json) |
@@ -3836,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fathom | 13892 | [13892-fathom.json](./13892-fathom.json) |
 | Fathom | 400599 | [400599-fathom.json](./400599-fathom.json) |
 | Fathom: The Game of Tiles | 70065 | [70065-fathom-the-game-of-tiles.json](./70065-fathom-the-game-of-tiles.json) |
+| Fathom's 40 | 25250 | [25250-fathoms-40.json](./25250-fathoms-40.json) |
 | Fathom's End | 396401 | [396401-fathoms-end.json](./396401-fathoms-end.json) |
 | Fathomless | 280009 | [280009-fathomless.json](./280009-fathomless.json) |
 | Fathomless | 415095 | [415095-fathomless.json](./415095-fathomless.json) |
@@ -11275,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge Squad | 157748 | [157748-forge-squad.json](./157748-forge-squad.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
+| Forged Adventure | 29277 | [29277-forged-adventure.json](./29277-forged-adventure.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
 | Forged Battalion | 74528 | [74528-forged-battalion.json](./74528-forged-battalion.json) |
 | Forged Cards | 422467 | [422467-forged-cards.json](./422467-forged-cards.json) |
@@ -13280,6 +13284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
 | Free Time Puzzle | 422516 | [422516-free-time-puzzle.json](./422516-free-time-puzzle.json) |
 | Free to Fit | 351346 | [351346-free-to-fit.json](./351346-free-to-fit.json) |
+| Free Towns | 29275 | [29275-free-towns.json](./29275-free-towns.json) |
 | Free Trader | 298407 | [298407-free-trader.json](./298407-free-trader.json) |
 | Free War | 188326 | [188326-free-war.json](./188326-free-war.json) |
 | Free Wheels | 416737 | [416737-free-wheels.json](./416737-free-wheels.json) |
