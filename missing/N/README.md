@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Steam: The Shattered Continent | 51198 | [51198-neo-steam-the-shattered-continent.json](./51198-neo-steam-the-shattered-continent.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Titan | 399362 | [399362-neo-titan.json](./399362-neo-titan.json) |
+| Neo Trick | 419301 | [419301-neo-trick.json](./419301-neo-trick.json) |
 | Neo Turf Masters | 20323 | [20323-neo-turf-masters.json](./20323-neo-turf-masters.json) |
 | Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
@@ -2957,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonPlat's Cosmic Adventure | 59825 | [59825-neonplats-cosmic-adventure.json](./59825-neonplats-cosmic-adventure.json) |
 | NeonPowerUp! | 267841 | [267841-neonpowerup.json](./267841-neonpowerup.json) |
 | Neonscape | 251777 | [251777-neonscape.json](./251777-neonscape.json) |
+| Neonsky | 419262 | [419262-neonsky.json](./419262-neonsky.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
 | Neonverse Defenders | 150933 | [150933-neonverse-defenders.json](./150933-neonverse-defenders.json) |
