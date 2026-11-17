@@ -14233,6 +14233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloropus | 415758 | [415758-coloropus.json](./415758-coloropus.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | ColorPixel: Color by Number, Pixel Art | 101658 | [101658-colorpixel-color-by-number-pixel-art.json](./101658-colorpixel-color-by-number-pixel-art.json) |
+| ColorRest | 177596 | [177596-colorrest.json](./177596-colorrest.json) |
 | Colors | 377345 | [377345-colors.json](./377345-colors.json) |
 | Colors | 85889 | [85889-colors.json](./85889-colors.json) |
 | Colors -Break Bricks- | 62009 | [62009-colors-break-bricks.json](./62009-colors-break-bricks.json) |
