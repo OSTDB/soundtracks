@@ -6242,7 +6242,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
 | Nira Oni | 122929 | [122929-nira-oni.json](./122929-nira-oni.json) |
 | Niramare Quest: Saving a World That Loves Hating Me | 390434 | [390434-niramare-quest-saving-a-world-that-loves-hating-me.json](./390434-niramare-quest-saving-a-world-that-loves-hating-me.json) |
-| Niravasi | 206735 | [206735-niravasi.json](./206735-niravasi.json) |
 | Niraya of | 309326 | [309326-niraya-of.json](./309326-niraya-of.json) |
 | Nirih | 348325 | [348325-nirih.json](./348325-nirih.json) |
 | Nirin | 380177 | [380177-nirin.json](./380177-nirin.json) |
