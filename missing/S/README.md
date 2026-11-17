@@ -19390,7 +19390,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest: Yulan | 387743 | [387743-songs-of-conquest-yulan.json](./387743-songs-of-conquest-yulan.json) |
 | Songs of Death | 236888 | [236888-songs-of-death.json](./236888-songs-of-death.json) |
 | Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
-| Songs of Glimmerwick | 189014 | [189014-songs-of-glimmerwick.json](./189014-songs-of-glimmerwick.json) |
 | Songs of Life | 247823 | [247823-songs-of-life.json](./247823-songs-of-life.json) |
 | Songs of Rats | 323072 | [323072-songs-of-rats.json](./323072-songs-of-rats.json) |
 | Songs of Silence | 238460 | [238460-songs-of-silence.json](./238460-songs-of-silence.json) |
