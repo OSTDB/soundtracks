@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemezis: Mysterious Journey III | 139607 | [139607-nemezis-mysterious-journey-iii.json](./139607-nemezis-mysterious-journey-iii.json) |
 | Nemezis: Mysterious Journey III - Deluxe Edition | 159692 | [159692-nemezis-mysterious-journey-iii-deluxe-edition.json](./159692-nemezis-mysterious-journey-iii-deluxe-edition.json) |
 | Nemire | 199306 | [199306-nemire.json](./199306-nemire.json) |
+| Nemithia: Tale of the Legendary Saviors | 159926 | [159926-nemithia-tale-of-the-legendary-saviors.json](./159926-nemithia-tale-of-the-legendary-saviors.json) |
 | Nemixar | 396003 | [396003-nemixar.json](./396003-nemixar.json) |
 | Nemiza's Verdict | 335832 | [335832-nemizas-verdict.json](./335832-nemizas-verdict.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
