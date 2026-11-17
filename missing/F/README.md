@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: A Devil's Due | 233588 | [233588-fallen-london-a-devils-due.json](./233588-fallen-london-a-devils-due.json) |
 | Fallen London: A Little Pandemonium | 191710 | [191710-fallen-london-a-little-pandemonium.json](./191710-fallen-london-a-little-pandemonium.json) |
 | Fallen London: A Stretch in the Sky | 191903 | [191903-fallen-london-a-stretch-in-the-sky.json](./191903-fallen-london-a-stretch-in-the-sky.json) |
+| Fallen London: A Trade in Faces | 191937 | [191937-fallen-london-a-trade-in-faces.json](./191937-fallen-london-a-trade-in-faces.json) |
 | Fallen London: Adornment | 191795 | [191795-fallen-london-adornment.json](./191795-fallen-london-adornment.json) |
 | Fallen London: All Things Must End | 191606 | [191606-fallen-london-all-things-must-end.json](./191606-fallen-london-all-things-must-end.json) |
 | Fallen London: Borrowed Glory | 191734 | [191734-fallen-london-borrowed-glory.json](./191734-fallen-london-borrowed-glory.json) |
@@ -1260,17 +1261,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: The Brass Grail | 191882 | [191882-fallen-london-the-brass-grail.json](./191882-fallen-london-the-brass-grail.json) |
 | Fallen London: The Calendar Code | 191587 | [191587-fallen-london-the-calendar-code.json](./191587-fallen-london-the-calendar-code.json) |
 | Fallen London: The Century Exhibition | 191594 | [191594-fallen-london-the-century-exhibition.json](./191594-fallen-london-the-century-exhibition.json) |
+| Fallen London: The Ceremony | 191927 | [191927-fallen-london-the-ceremony.json](./191927-fallen-london-the-ceremony.json) |
 | Fallen London: The Chimney Pot Wars | 191586 | [191586-fallen-london-the-chimney-pot-wars.json](./191586-fallen-london-the-chimney-pot-wars.json) |
 | Fallen London: The Clay Man's Arm | 191596 | [191596-fallen-london-the-clay-mans-arm.json](./191596-fallen-london-the-clay-mans-arm.json) |
 | Fallen London: The Committee | 191730 | [191730-fallen-london-the-committee.json](./191730-fallen-london-the-committee.json) |
 | Fallen London: The Court of Cats | 191534 | [191534-fallen-london-the-court-of-cats.json](./191534-fallen-london-the-court-of-cats.json) |
 | Fallen London: The Crocodile Who Would Be King | 191793 | [191793-fallen-london-the-crocodile-who-would-be-king.json](./191793-fallen-london-the-crocodile-who-would-be-king.json) |
 | Fallen London: The Dilettante's Debut | 191752 | [191752-fallen-london-the-dilettantes-debut.json](./191752-fallen-london-the-dilettantes-debut.json) |
+| Fallen London: The Empress' Shadow | 191938 | [191938-fallen-london-the-empress-shadow.json](./191938-fallen-london-the-empress-shadow.json) |
 | Fallen London: The Exile's Chalice | 221853 | [221853-fallen-london-the-exiles-chalice.json](./221853-fallen-london-the-exiles-chalice.json) |
 | Fallen London: The Fair Unknown | 191783 | [191783-fallen-london-the-fair-unknown.json](./191783-fallen-london-the-fair-unknown.json) |
 | Fallen London: The Final Curtain | 191591 | [191591-fallen-london-the-final-curtain.json](./191591-fallen-london-the-final-curtain.json) |
 | Fallen London: The Frequently Deceased | 191555 | [191555-fallen-london-the-frequently-deceased.json](./191555-fallen-london-the-frequently-deceased.json) |
 | Fallen London: The Garden Embassy | 191719 | [191719-fallen-london-the-garden-embassy.json](./191719-fallen-london-the-garden-embassy.json) |
+| Fallen London: The Gift | 191924 | [191924-fallen-london-the-gift.json](./191924-fallen-london-the-gift.json) |
 | Fallen London: The Haunting at the Marsh-House | 191529 | [191529-fallen-london-the-haunting-at-the-marsh-house.json](./191529-fallen-london-the-haunting-at-the-marsh-house.json) |
 | Fallen London: The Heart, the Devil and the Zee | 191597 | [191597-fallen-london-the-heart-the-devil-and-the-zee.json](./191597-fallen-london-the-heart-the-devil-and-the-zee.json) |
 | Fallen London: The Heretic of Hollow Street | 191728 | [191728-fallen-london-the-heretic-of-hollow-street.json](./191728-fallen-london-the-heretic-of-hollow-street.json) |
@@ -1283,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: The Mushroom's Dream | 233591 | [233591-fallen-london-the-mushrooms-dream.json](./233591-fallen-london-the-mushrooms-dream.json) |
 | Fallen London: The Pentecost Predicament | 191557 | [191557-fallen-london-the-pentecost-predicament.json](./191557-fallen-london-the-pentecost-predicament.json) |
 | Fallen London: The Persona Engine | 191592 | [191592-fallen-london-the-persona-engine.json](./191592-fallen-london-the-persona-engine.json) |
+| Fallen London: The Poisoner's Library | 191936 | [191936-fallen-london-the-poisoners-library.json](./191936-fallen-london-the-poisoners-library.json) |
 | Fallen London: The Price of Loss | 191712 | [191712-fallen-london-the-price-of-loss.json](./191712-fallen-london-the-price-of-loss.json) |
 | Fallen London: The Pursuit of Moths | 191701 | [191701-fallen-london-the-pursuit-of-moths.json](./191701-fallen-london-the-pursuit-of-moths.json) |
 | Fallen London: The Queen of the Elephants | 199619 | [199619-fallen-london-the-queen-of-the-elephants.json](./199619-fallen-london-the-queen-of-the-elephants.json) |
