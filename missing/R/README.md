@@ -7213,6 +7213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Ruins | 142828 | [142828-return-to-ruins.json](./142828-return-to-ruins.json) |
 | Return to Sector 9 | 311280 | [311280-return-to-sector-9.json](./311280-return-to-sector-9.json) |
 | Return to Sector 9 | 73778 | [73778-return-to-sector-9.json](./73778-return-to-sector-9.json) |
+| Return to Sender | 131639 | [131639-return-to-sender.json](./131639-return-to-sender.json) |
 | Return to Sender | 241224 | [241224-return-to-sender.json](./241224-return-to-sender.json) |
 | Return to Sender | 336560 | [336560-return-to-sender.json](./336560-return-to-sender.json) |
 | Return to Shironagasu Island | 128159 | [128159-return-to-shironagasu-island.json](./128159-return-to-shironagasu-island.json) |
@@ -9307,6 +9308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Pirates | 218608 | [218608-rival-pirates.json](./218608-rival-pirates.json) |
 | Rival Rampage | 75278 | [75278-rival-rampage.json](./75278-rival-rampage.json) |
 | Rival Realms | 70472 | [70472-rival-realms.json](./70472-rival-realms.json) |
+| Rival Rebels | 130435 | [130435-rival-rebels.json](./130435-rival-rebels.json) |
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
 | Rival Roads Car Racing | 402660 | [402660-rival-roads-car-racing.json](./402660-rival-roads-car-racing.json) |
