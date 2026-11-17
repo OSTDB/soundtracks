@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Aces | 320919 | [320919-radical-aces.json](./320919-radical-aces.json) |
 | Radical Bomber!! Jirai-kun | 41392 | [41392-radical-bomber-jirai-kun.json](./41392-radical-bomber-jirai-kun.json) |
 | Radical Castle | 171241 | [171241-radical-castle.json](./171241-radical-castle.json) |
+| Radical Centrists | 422971 | [422971-radical-centrists.json](./422971-radical-centrists.json) |
 | Radical Chess | 134207 | [134207-radical-chess.json](./134207-radical-chess.json) |
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
 | Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
@@ -1696,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising the Flag on Mount Yo Momma | 78402 | [78402-raising-the-flag-on-mount-yo-momma.json](./78402-raising-the-flag-on-mount-yo-momma.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raisond'etre | 324849 | [324849-raisondetre.json](./324849-raisondetre.json) |
+| Raita no Growing Up | 422920 | [422920-raita-no-growing-up.json](./422920-raita-no-growing-up.json) |
 | Raivo | 161514 | [161514-raivo.json](./161514-raivo.json) |
 | Raji Pazu | 179227 | [179227-raji-pazu.json](./179227-raji-pazu.json) |
 | Raji: An Ancient Epic | 70828 | [70828-raji-an-ancient-epic.json](./70828-raji-an-ancient-epic.json) |
@@ -9678,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Valor: Empires | 208074 | [208074-road-to-valor-empires.json](./208074-road-to-valor-empires.json) |
 | Road to Valor: WW2 | 169274 | [169274-road-to-valor-ww2.json](./169274-road-to-valor-ww2.json) |
 | Road to Vegas | 123402 | [123402-road-to-vegas.json](./123402-road-to-vegas.json) |
+| Road to Verdant | 422949 | [422949-road-to-verdant.json](./422949-road-to-verdant.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
 | Road to Your City | 114041 | [114041-road-to-your-city.json](./114041-road-to-your-city.json) |
@@ -9825,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roasting Report: A Professor Murder | 204255 | [204255-roasting-report-a-professor-murder.json](./204255-roasting-report-a-professor-murder.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
 | Rob & Run | 211731 | [211731-rob-and-run.json](./211731-rob-and-run.json) |
+| Rob and Dog: Puzzle Adventure | 422945 | [422945-rob-and-dog-puzzle-adventure.json](./422945-rob-and-dog-puzzle-adventure.json) |
 | Rob Blanc I: Better Days of a Defender of the Universe | 171551 | [171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json](./171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json) |
 | Rob Blanc II: Planet of the Pasteurised Pestilence | 171552 | [171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json](./171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json) |
 | Rob Blanc III: The Temporal Terrorists | 171553 | [171553-rob-blanc-iii-the-temporal-terrorists.json](./171553-rob-blanc-iii-the-temporal-terrorists.json) |
@@ -13144,6 +13148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Garden Tales | 95801 | [95801-royal-garden-tales.json](./95801-royal-garden-tales.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
+| Royal Gems | 422940 | [422940-royal-gems.json](./422940-royal-gems.json) |
 | Royal Guard | 84351 | [84351-royal-guard.json](./84351-royal-guard.json) |
 | Royal Hentai: Boobs & Pussies | 366538 | [366538-royal-hentai-boobs-and-pussies.json](./366538-royal-hentai-boobs-and-pussies.json) |
 | Royal Heroes | 33559 | [33559-royal-heroes.json](./33559-royal-heroes.json) |
