@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
 | Dark Fable | 116861 | [116861-dark-fable.json](./116861-dark-fable.json) |
 | Dark Facets | 149114 | [149114-dark-facets.json](./149114-dark-facets.json) |
+| Dark Fairies | 103012 | [103012-dark-fairies.json](./103012-dark-fairies.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
 | Dark Fairy Tale: Dreamland Survivors | 344626 | [344626-dark-fairy-tale-dreamland-survivors.json](./344626-dark-fairy-tale-dreamland-survivors.json) |
