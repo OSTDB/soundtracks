@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cacorm Mini | 345352 | [345352-cacorm-mini.json](./345352-cacorm-mini.json) |
 | Cactboy | 423648 | [423648-cactboy.json](./423648-cactboy.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
+| Cactu-sama | 203463 | [203463-cactu-sama.json](./203463-cactu-sama.json) |
 | Cactu-sama 2 | 204542 | [204542-cactu-sama-2.json](./204542-cactu-sama-2.json) |
 | Cactus | 261719 | [261719-cactus.json](./261719-cactus.json) |
 | Cactus | 357740 | [357740-cactus.json](./357740-cactus.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
 | Captain America: Sentinel of Liberty | 65603 | [65603-captain-america-sentinel-of-liberty.json](./65603-captain-america-sentinel-of-liberty.json) |
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
+| Captain America: Super Soldier | 203432 | [203432-captain-america-super-soldier.json](./203432-captain-america-super-soldier.json) |
 | Captain America: Super Soldier | 248739 | [248739-captain-america-super-soldier.json](./248739-captain-america-super-soldier.json) |
 | Captain America: Super Soldier | 4745 | [4745-captain-america-super-soldier.json](./4745-captain-america-super-soldier.json) |
 | Captain Backwater | 54870 | [54870-captain-backwater.json](./54870-captain-backwater.json) |
@@ -8913,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chojiro | 253147 | [253147-chojiro.json](./253147-chojiro.json) |
 | Choju Giga Wars | 56103 | [56103-choju-giga-wars.json](./56103-choju-giga-wars.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
+| Choke on my Groundhog, You Bastard Robots | 203456 | [203456-choke-on-my-groundhog-you-bastard-robots.json](./203456-choke-on-my-groundhog-you-bastard-robots.json) |
 | Choker: Chess & Poker | 144646 | [144646-choker-chess-and-poker.json](./144646-choker-chess-and-poker.json) |
 | Chokkan Asonde Rilakkuma | 279117 | [279117-chokkan-asonde-rilakkuma.json](./279117-chokkan-asonde-rilakkuma.json) |
 | Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
@@ -14920,6 +14923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commit Arson Now | 191506 | [191506-commit-arson-now.json](./191506-commit-arson-now.json) |
 | Committed: Mystery at Shady Pines | 18890 | [18890-committed-mystery-at-shady-pines.json](./18890-committed-mystery-at-shady-pines.json) |
 | Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
+| Committed: Mystery at Shady Pines / Farm Mystery: The Happy Orchard Nightmare | 201868 | [201868-committed-mystery-at-shady-pines-farm-mystery-the-happy-orchard-nightmare.json](./201868-committed-mystery-at-shady-pines-farm-mystery-the-happy-orchard-nightmare.json) |
 | Commodoor | 214365 | [214365-commodoor.json](./214365-commodoor.json) |
 | Commodore | 131119 | [131119-commodore.json](./131119-commodore.json) |
 | Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
@@ -16432,6 +16436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama World: Combo Pack Volume 2 | 56332 | [56332-cooking-mama-world-combo-pack-volume-2.json](./56332-cooking-mama-world-combo-pack-volume-2.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Cookstar | 121516 | [121516-cooking-mama-cookstar.json](./121516-cooking-mama-cookstar.json) |
+| Cooking Mama: Cuisine! | 203461 | [203461-cooking-mama-cuisine.json](./203461-cooking-mama-cuisine.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
 | Cooking Mama: Sweet Shop | 27190 | [27190-cooking-mama-sweet-shop.json](./27190-cooking-mama-sweet-shop.json) |
@@ -18220,6 +18225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CPU Invaders: Cyber Arcade | 413136 | [413136-cpu-invaders-cyber-arcade.json](./413136-cpu-invaders-cyber-arcade.json) |
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
 | CPU Invaders: Movie Attack | 396210 | [396210-cpu-invaders-movie-attack.json](./396210-cpu-invaders-movie-attack.json) |
+| CR Galaxy Angel | 203464 | [203464-cr-galaxy-angel.json](./203464-cr-galaxy-angel.json) |
 | CR Godzilla 3S-T Battle | 75894 | [75894-cr-godzilla-3s-t-battle.json](./75894-cr-godzilla-3s-t-battle.json) |
 | CR Hissatsu Shigotonin Pachitte Chonmage @ VPACHI | 283332 | [283332-cr-hissatsu-shigotonin-pachitte-chonmage-vpachi.json](./283332-cr-hissatsu-shigotonin-pachitte-chonmage-vpachi.json) |
 | CR Nettou Pawapuro-kun: Pachitte Chonmage Tatsujin | 97614 | [97614-cr-nettou-pawapuro-kun-pachitte-chonmage-tatsujin.json](./97614-cr-nettou-pawapuro-kun-pachitte-chonmage-tatsujin.json) |
@@ -21903,6 +21909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubelander | 190919 | [190919-cubelander.json](./190919-cubelander.json) |
 | Cubelands | 66307 | [66307-cubelands.json](./66307-cubelands.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
+| CubeLoop | 203460 | [203460-cubeloop.json](./203460-cubeloop.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
 | Cubelz: Cars | 168714 | [168714-cubelz-cars.json](./168714-cubelz-cars.json) |
 | Cubemash | 25961 | [25961-cubemash.json](./25961-cubemash.json) |
