@@ -5333,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testament | 100039 | [100039-testament.json](./100039-testament.json) |
 | Testament | 237303 | [237303-testament.json](./237303-testament.json) |
 | Testament | 415737 | [415737-testament.json](./415737-testament.json) |
+| Testament II | 124306 | [124306-testament-ii.json](./124306-testament-ii.json) |
 | Testament: The Order of High-Human | 250466 | [250466-testament-the-order-of-high-human.json](./250466-testament-the-order-of-high-human.json) |
 | Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
 | Tested on Humans: Escape Room | 143171 | [143171-tested-on-humans-escape-room.json](./143171-tested-on-humans-escape-room.json) |
@@ -30428,6 +30429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower Tactics: Celestial Dawn | 247699 | [247699-tower-tactics-celestial-dawn.json](./247699-tower-tactics-celestial-dawn.json) |
 | Tower Tactics: Liberation | 171196 | [171196-tower-tactics-liberation.json](./171196-tower-tactics-liberation.json) |
+| Tower Tag | 124307 | [124307-tower-tag.json](./124307-tower-tag.json) |
 | Tower Tales | 244963 | [244963-tower-tales.json](./244963-tower-tales.json) |
 | Tower Tank: TD Reversal | 113396 | [113396-tower-tank-td-reversal.json](./113396-tower-tank-td-reversal.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
@@ -35159,6 +35161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Trog! | 48270 | [48270-trog.json](./48270-trog.json) |
 | Trogday Micro Game | 200949 | [200949-trogday-micro-game.json](./200949-trogday-micro-game.json) |
+| Trogdor! | 124317 | [124317-trogdor.json](./124317-trogdor.json) |
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trogloxene | 178256 | [178256-trogloxene.json](./178256-trogloxene.json) |
 | Troid Blaster | 25121 | [25121-troid-blaster.json](./25121-troid-blaster.json) |
