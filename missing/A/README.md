@@ -4452,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure to Fate: Quest to the Future JRPG | 134376 | [134376-adventure-to-fate-quest-to-the-future-jrpg.json](./134376-adventure-to-fate-quest-to-the-future-jrpg.json) |
 | Adventure Town | 38907 | [38907-adventure-town.json](./38907-adventure-town.json) |
 | Adventure Trip | 128344 | [128344-adventure-trip.json](./128344-adventure-trip.json) |
+| Adventure Trip: Amazing Wildlife - Collector's Edition | 417718 | [417718-adventure-trip-amazing-wildlife-collectors-edition.json](./417718-adventure-trip-amazing-wildlife-collectors-edition.json) |
 | Adventure Trip: Amazing World 2 | 234683 | [234683-adventure-trip-amazing-world-2.json](./234683-adventure-trip-amazing-world-2.json) |
 | Adventure Trip: Amazing World 3 | 382908 | [382908-adventure-trip-amazing-world-3.json](./382908-adventure-trip-amazing-world-3.json) |
 | Adventure Trip: Amazing World 3 - Collector's Edition | 283900 | [283900-adventure-trip-amazing-world-3-collectors-edition.json](./283900-adventure-trip-amazing-world-3-collectors-edition.json) |
@@ -14448,6 +14449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Arabian | 144673 | [144673-arcade-archives-arabian.json](./144673-arcade-archives-arabian.json) |
 | Arcade Archives: Argus | 107556 | [107556-arcade-archives-argus.json](./107556-arcade-archives-argus.json) |
 | Arcade Archives: Ark Area | 121425 | [121425-arcade-archives-ark-area.json](./121425-arcade-archives-ark-area.json) |
+| Arcade Archives: Arkanoid Revenge of Doh | 417926 | [417926-arcade-archives-arkanoid-revenge-of-doh.json](./417926-arcade-archives-arkanoid-revenge-of-doh.json) |
 | Arcade Archives: Armadillo Racing | 411152 | [411152-arcade-archives-armadillo-racing.json](./411152-arcade-archives-armadillo-racing.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
 | Arcade Archives: Assault | 218969 | [218969-arcade-archives-assault.json](./218969-arcade-archives-assault.json) |
@@ -19377,6 +19379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | Atelier's Key | 407743 | [407743-ateliers-key.json](./407743-ateliers-key.json) |
 | AteloPhobia:The Story Begins | 201501 | [201501-atelophobia-the-story-begins.json](./201501-atelophobia-the-story-begins.json) |
+| Atemporal Silentium | 417930 | [417930-atemporal-silentium.json](./417930-atemporal-silentium.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
 | Atex Brawl | 100425 | [100425-atex-brawl.json](./100425-atex-brawl.json) |
 | ATF: Advanced Tactical Fighter | 13344 | [13344-atf-advanced-tactical-fighter.json](./13344-atf-advanced-tactical-fighter.json) |
