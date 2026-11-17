@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T06:31:31.763Z",
-  "total_soundtracks": 3554,
+  "generated_at": "2026-11-17T06:36:23.640Z",
+  "total_soundtracks": 3560,
   "games": [
     {
       "igdb_id": 292844,
@@ -23073,6 +23073,20 @@
       ]
     },
     {
+      "igdb_id": 278411,
+      "game_name": "Max Mustard",
+      "game_url": "https://ostdb.net/games/max-mustard",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27307d9edaae3024cc06df32b22",
+      "albums": [
+        {
+          "album_name": "Max Mustard (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7EfVLpV9ML0OesCNQqbTuD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 960,
       "game_name": "Max Payne 3",
       "game_url": "https://ostdb.net/games/max-payne-3",
@@ -24403,6 +24417,20 @@
         {
           "album_name": "Monochroma (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3KQ7C2J7f6ZrF2c5G5y72k",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 276631,
+      "game_name": "Monowave",
+      "game_url": "https://ostdb.net/games/monowave",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736fc5f2c56fd8df4768651eb8",
+      "albums": [
+        {
+          "album_name": "MONOWAVE (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4ZutG3OAqs2bXguBIjAAzv",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26687,6 +26715,20 @@
         {
           "album_name": "Omno (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/67B8xQqA3K2I98vqhYQdzA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 276507,
+      "game_name": "On Your Tail",
+      "game_url": "https://ostdb.net/games/on-your-tail",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273114501ebc00c7221cd0b1ac3",
+      "albums": [
+        {
+          "album_name": "On Your Tail (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2UXOG1etTgddfTNrXnOYq5",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31967,6 +32009,20 @@
         {
           "album_name": "SCHiM (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7yuIdwEWlOAl8aeqkJMr3w",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 276832,
+      "game_name": "Schrödinger's Call",
+      "game_url": "https://ostdb.net/games/schrodingers-call",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e65c6715b5edbf0af2ba3c7a",
+      "albums": [
+        {
+          "album_name": "Schrödinger's Call Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5ueLX5pMrCDD1YKkZnVzS5",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -40809,6 +40865,20 @@
       ]
     },
     {
+      "igdb_id": 279618,
+      "game_name": "Thrasher",
+      "game_url": "https://ostdb.net/games/thrasher",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733f7d762ea267d0cdbc571a31",
+      "albums": [
+        {
+          "album_name": "Thrasher (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/13VytCzYtqIQfIPlBfU74c",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 107300,
       "game_name": "Thronebreaker: The Witcher Tales",
       "game_url": "https://ostdb.net/games/thronebreaker-the-witcher-tales",
@@ -44255,6 +44325,20 @@
         {
           "album_name": "Welcome to Hanwell (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3CQvc2evO4xAVAkHXqVgZL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 276792,
+      "game_name": "Welcome to Paradize",
+      "game_url": "https://ostdb.net/games/welcome-to-paradize",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739c6aa52bcf0a66db17f08d03",
+      "albums": [
+        {
+          "album_name": "Welcome to ParadiZe (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4tpFUugojfrJnm3rRKq1hm",
           "apple_music_url": "",
           "album_link_url": ""
         }
