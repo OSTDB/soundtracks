@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminate | 306757 | [306757-illuminate.json](./306757-illuminate.json) |
 | Illuminate Frame | 267457 | [267457-illuminate-frame.json](./267457-illuminate-frame.json) |
 | Illuminati | 231135 | [231135-illuminati.json](./231135-illuminati.json) |
+| Illuminati Adventure | 423540 | [423540-illuminati-adventure.json](./423540-illuminati-adventure.json) |
 | Illuminati Online | 304837 | [304837-illuminati-online.json](./304837-illuminati-online.json) |
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminati Tycoon | 184859 | [184859-illuminati-tycoon.json](./184859-illuminati-tycoon.json) |
