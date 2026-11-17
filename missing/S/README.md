@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotophobia | 320514 | [320514-scotophobia.json](./320514-scotophobia.json) |
 | Scott Adams Scoops | 70319 | [70319-scott-adams-scoops.json](./70319-scott-adams-scoops.json) |
 | Scott Adams' Graphic Adventure #1: Adventureland | 73138 | [73138-scott-adams-graphic-adventure-1-adventureland.json](./73138-scott-adams-graphic-adventure-1-adventureland.json) |
+| Scott Adams' Graphic Adventure #10: Savage Island Part One | 138309 | [138309-scott-adams-graphic-adventure-10-savage-island-part-one.json](./138309-scott-adams-graphic-adventure-10-savage-island-part-one.json) |
 | Scott Adams' Graphic Adventure #2: Pirate Adventure | 56114 | [56114-scott-adams-graphic-adventure-2-pirate-adventure.json](./56114-scott-adams-graphic-adventure-2-pirate-adventure.json) |
 | Scott Adams' Graphic Adventure #3: Secret Mission | 70292 | [70292-scott-adams-graphic-adventure-3-secret-mission.json](./70292-scott-adams-graphic-adventure-3-secret-mission.json) |
 | Scott Adams' Graphic Adventure #4: Voodoo Castle | 73747 | [73747-scott-adams-graphic-adventure-4-voodoo-castle.json](./73747-scott-adams-graphic-adventure-4-voodoo-castle.json) |
@@ -6323,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Soccer Skillz | 165478 | [165478-sensible-soccer-skillz.json](./165478-sensible-soccer-skillz.json) |
 | Sensible Soccer: European Champions | 13257 | [13257-sensible-soccer-european-champions.json](./13257-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Champions | 165408 | [165408-sensible-soccer-european-champions.json](./165408-sensible-soccer-european-champions.json) |
+| Sensible Soccer: European Champions - 92/93 Edition | 138304 | [138304-sensible-soccer-european-champions-92-93-edition.json](./138304-sensible-soccer-european-champions-92-93-edition.json) |
 | Sensible Soccer: European Club Edition | 79250 | [79250-sensible-soccer-european-club-edition.json](./79250-sensible-soccer-european-club-edition.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensible World of Soccer | 10121 | [10121-sensible-world-of-soccer.json](./10121-sensible-world-of-soccer.json) |
