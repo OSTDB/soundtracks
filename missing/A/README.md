@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bloody Party | 114125 | [114125-a-bloody-party.json](./114125-a-bloody-party.json) |
 | A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
 | A Bomb Called Darkipt | 218627 | [218627-a-bomb-called-darkipt.json](./218627-a-bomb-called-darkipt.json) |
+| A Bomb Zone | 96989 | [96989-a-bomb-zone.json](./96989-a-bomb-zone.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bone To Pick | 325297 | [325297-a-bone-to-pick.json](./325297-a-bone-to-pick.json) |
 | A Boney Night | 313569 | [313569-a-boney-night.json](./313569-a-boney-night.json) |
@@ -8761,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All World Pro Wrestling: Bonus Stories | 196054 | [196054-all-world-pro-wrestling-bonus-stories.json](./196054-all-world-pro-wrestling-bonus-stories.json) |
 | All World Pro Wrestling: Bonus Stories 2 | 210906 | [210906-all-world-pro-wrestling-bonus-stories-2.json](./210906-all-world-pro-wrestling-bonus-stories-2.json) |
 | All You Can Eat | 27896 | [27896-all-you-can-eat.json](./27896-all-you-can-eat.json) |
+| All You Can Feed: Sushi Bar | 96962 | [96962-all-you-can-feed-sushi-bar.json](./96962-all-you-can-feed-sushi-bar.json) |
 | All You Can Fish! | 398056 | [398056-all-you-can-fish.json](./398056-all-you-can-fish.json) |
 | All You Can Play: 10 Action-Games | 137502 | [137502-all-you-can-play-10-action-games.json](./137502-all-you-can-play-10-action-games.json) |
 | All You Can Play: 10 Handels-Simulationen | 138306 | [138306-all-you-can-play-10-handels-simulationen.json](./138306-all-you-can-play-10-handels-simulationen.json) |
@@ -12486,6 +12488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anodyne Franchise Bundle | 405119 | [405119-anodyne-franchise-bundle.json](./405119-anodyne-franchise-bundle.json) |
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
+| Anoix | 96954 | [96954-anoix.json](./96954-anoix.json) |
 | Anokye | 393581 | [393581-anokye.json](./393581-anokye.json) |
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
@@ -13055,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antitetrise | 111427 | [111427-antitetrise.json](./111427-antitetrise.json) |
 | Antithesis | 164885 | [164885-antithesis.json](./164885-antithesis.json) |
 | Antitower | 140097 | [140097-antitower.json](./140097-antitower.json) |
+| Antitype | 97003 | [97003-antitype.json](./97003-antitype.json) |
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antivira | 283919 | [283919-antivira.json](./283919-antivira.json) |
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
