@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous: Angela's Fashion Fever | 31039 | [31039-fabulous-angelas-fashion-fever.json](./31039-fabulous-angelas-fashion-fever.json) |
 | Fabulous: Angela's High School Reunion | 38039 | [38039-fabulous-angelas-high-school-reunion.json](./38039-fabulous-angelas-high-school-reunion.json) |
 | Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
+| Fabulous: Angela's True Colors | 113769 | [113769-fabulous-angelas-true-colors.json](./113769-fabulous-angelas-true-colors.json) |
 | Fabulous: Angela's Wedding Disaster | 99076 | [99076-fabulous-angelas-wedding-disaster.json](./99076-fabulous-angelas-wedding-disaster.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
 | Facade | 127495 | [127495-facade.json](./127495-facade.json) |
@@ -4237,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed My Raptor VR | 391839 | [391839-feed-my-raptor-vr.json](./391839-feed-my-raptor-vr.json) |
 | Feed of Comfort | 176238 | [176238-feed-of-comfort.json](./176238-feed-of-comfort.json) |
 | Feed Pete | 323606 | [323606-feed-pete.json](./323606-feed-pete.json) |
+| Feed Some Ducks | 113973 | [113973-feed-some-ducks.json](./113973-feed-some-ducks.json) |
 | Feed Sort | 246530 | [246530-feed-sort.json](./246530-feed-sort.json) |
 | Feed That Dragon | 22926 | [22926-feed-that-dragon.json](./22926-feed-that-dragon.json) |
 | Feed the AI | 398585 | [398585-feed-the-ai.json](./398585-feed-the-ai.json) |
@@ -8779,6 +8781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flewfies Adventure | 148814 | [148814-flewfies-adventure.json](./148814-flewfies-adventure.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
 | Flex | 61727 | [61727-flex.json](./61727-flex.json) |
+| Flex Apocalypse Racing | 113806 | [113806-flex-apocalypse-racing.json](./113806-flex-apocalypse-racing.json) |
 | Flex Armstrong | 354385 | [354385-flex-armstrong.json](./354385-flex-armstrong.json) |
 | Flex City | 358973 | [358973-flex-city.json](./358973-flex-city.json) |
 | Flex Disc Golf | 268303 | [268303-flex-disc-golf.json](./268303-flex-disc-golf.json) |
@@ -9568,6 +9571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers for You: a pleasant walk | 148028 | [148028-flowers-for-you-a-pleasant-walk.json](./148028-flowers-for-you-a-pleasant-walk.json) |
 | Flowers Garden Solitaire | 284558 | [284558-flowers-garden-solitaire.json](./284558-flowers-garden-solitaire.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
+| Flowers in Dark | 113783 | [113783-flowers-in-dark.json](./113783-flowers-in-dark.json) |
 | Flowers Mosaics | 294388 | [294388-flowers-mosaics.json](./294388-flowers-mosaics.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
 | Flowers of Crystal | 12105 | [12105-flowers-of-crystal.json](./12105-flowers-of-crystal.json) |
@@ -11311,7 +11315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forget-Me-Not R | 210561 | [210561-forget-me-not-r.json](./210561-forget-me-not-r.json) |
 | ForgeTax | 429391 | [429391-forgetax.json](./429391-forgetax.json) |
-| Forgetful Dictator | 120083 | [120083-forgetful-dictator.json](./120083-forgetful-dictator.json) |
 | Forgetmenots | 341857 | [341857-forgetmenots.json](./341857-forgetmenots.json) |
 | Forgetter | 151280 | [151280-forgetter.json](./151280-forgetter.json) |
 | Forgetting | 183960 | [183960-forgetting.json](./183960-forgetting.json) |
@@ -12443,6 +12446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Lights: The 4th World - Märchen Route | 411774 | [411774-four-lights-the-4th-world-marchen-route.json](./411774-four-lights-the-4th-world-marchen-route.json) |
 | Four Million B.C. | 94719 | [94719-four-million-b-c.json](./94719-four-million-b-c.json) |
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
+| Four Minutes to Midnight | 111082 | [111082-four-minutes-to-midnight.json](./111082-four-minutes-to-midnight.json) |
 | Four Nights at Omori | 255560 | [255560-four-nights-at-omori.json](./255560-four-nights-at-omori.json) |
 | Four of a Kind: A Short Horror Anthology | 395831 | [395831-four-of-a-kind-a-short-horror-anthology.json](./395831-four-of-a-kind-a-short-horror-anthology.json) |
 | Four Plus | 106782 | [106782-four-plus.json](./106782-four-plus.json) |
@@ -14267,6 +14271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
 | From Next Door | 56408 | [56408-from-next-door.json](./56408-from-next-door.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
+| From Orbit | 109810 | [109810-from-orbit.json](./109810-from-orbit.json) |
 | From Other Suns | 27516 | [27516-from-other-suns.json](./27516-from-other-suns.json) |
 | From Out of a Dark Night Sky | 65881 | [65881-from-out-of-a-dark-night-sky.json](./65881-from-out-of-a-dark-night-sky.json) |
 | From Paris with Love 2: Passion with view | 196113 | [196113-from-paris-with-love-2-passion-with-view.json](./196113-from-paris-with-love-2-passion-with-view.json) |
@@ -15804,6 +15809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuse | 381030 | [381030-fuse.json](./381030-fuse.json) |
 | Fuse Balls | 89416 | [89416-fuse-balls.json](./89416-fuse-balls.json) |
 | Fuse The Bomb | 329088 | [329088-fuse-the-bomb.json](./329088-fuse-the-bomb.json) |
+| Fused | 113805 | [113805-fused.json](./113805-fused.json) |
 | Fused 240 | 337906 | [337906-fused-240.json](./337906-fused-240.json) |
 | Fuseless | 297107 | [297107-fuseless.json](./297107-fuseless.json) |
 | Fusem | 189784 | [189784-fusem.json](./189784-fusem.json) |
