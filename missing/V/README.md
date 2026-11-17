@@ -3328,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vispo: Video Spot the Difference | 369185 | [369185-vispo-video-spot-the-difference.json](./369185-vispo-video-spot-the-difference.json) |
 | Vissekom | 142427 | [142427-vissekom.json](./142427-vissekom.json) |
 | Visser | 129520 | [129520-visser.json](./129520-visser.json) |
+| Vista Game Box | 84396 | [84396-vista-game-box.json](./84396-vista-game-box.json) |
 | Vista Golf | 95551 | [95551-vista-golf.json](./95551-vista-golf.json) |
 | Vista Golf Rivals | 106982 | [106982-vista-golf-rivals.json](./106982-vista-golf-rivals.json) |
 | Vista Quest | 418079 | [418079-vista-quest.json](./418079-vista-quest.json) |
