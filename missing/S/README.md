@@ -13663,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skelethrone: The Chronicles of Ericona - The Jewel in the Skull | 343209 | [343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json](./343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json) |
 | Skelethrone: The Prey | 234405 | [234405-skelethrone-the-prey.json](./234405-skelethrone-the-prey.json) |
+| Skeleton | 46897 | [46897-skeleton.json](./46897-skeleton.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
 | Skeleton Bros | 280042 | [280042-skeleton-bros.json](./280042-skeleton-bros.json) |
 | Skeleton Crew | 122069 | [122069-skeleton-crew.json](./122069-skeleton-crew.json) |
@@ -25750,6 +25751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Games | 399790 | [399790-sports-games.json](./399790-sports-games.json) |
 | Sports Games Collection | 403725 | [403725-sports-games-collection.json](./403725-sports-games-collection.json) |
 | Sports Girl: Village | 319890 | [319890-sports-girl-village.json](./319890-sports-girl-village.json) |
+| Sports Goofy | 46907 | [46907-sports-goofy.json](./46907-sports-goofy.json) |
 | Sports Heads: Basketball | 230612 | [230612-sports-heads-basketball.json](./230612-sports-heads-basketball.json) |
 | Sports Heads: Football | 230609 | [230609-sports-heads-football.json](./230609-sports-heads-football.json) |
 | Sports Heads: Football Championship | 230610 | [230610-sports-heads-football-championship.json](./230610-sports-heads-football-championship.json) |
