@@ -3951,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn Souls | 201589 | [201589-reborn-souls.json](./201589-reborn-souls.json) |
 | Reborn to Veer | 236244 | [236244-reborn-to-veer.json](./236244-reborn-to-veer.json) |
 | Reborn Tribe | 189253 | [189253-reborn-tribe.json](./189253-reborn-tribe.json) |
+| Reborn: A Samurai Awakens | 51460 | [51460-reborn-a-samurai-awakens.json](./51460-reborn-a-samurai-awakens.json) |
 | Reborn: Dragona PH | 296412 | [296412-reborn-dragona-ph.json](./296412-reborn-dragona-ph.json) |
 | Reborn: Episode 1 - New Life | 296702 | [296702-reborn-episode-1-new-life.json](./296702-reborn-episode-1-new-life.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
@@ -14234,6 +14235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runemage | 182580 | [182580-runemage.json](./182580-runemage.json) |
 | Runemals | 80775 | [80775-runemals.json](./80775-runemals.json) |
 | Runemancer | 272245 | [272245-runemancer.json](./272245-runemancer.json) |
+| Runemaster | 52789 | [52789-runemaster.json](./52789-runemaster.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
@@ -14704,6 +14706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
 | Rust & Roots | 370442 | [370442-rust-and-roots.json](./370442-rust-and-roots.json) |
 | Rust and Resolve | 244213 | [244213-rust-and-resolve.json](./244213-rust-and-resolve.json) |
+| Rust Buccaneers | 52812 | [52812-rust-buccaneers.json](./52812-rust-buccaneers.json) |
 | Rust Bucket | 59281 | [59281-rust-bucket.json](./59281-rust-bucket.json) |
 | Rust Dungeon | 421552 | [421552-rust-dungeon.json](./421552-rust-dungeon.json) |
 | Rust in Peace | 271765 | [271765-rust-in-peace.json](./271765-rust-in-peace.json) |
