@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild | 242115 | [242115-wild.json](./242115-wild.json) |
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
 | WiLD | 7608 | [7608-wild.json](./7608-wild.json) |
+| Wild & Adventure Pinball | 186934 | [186934-wild-and-adventure-pinball.json](./186934-wild-and-adventure-pinball.json) |
 | Wild & Horror Pinball | 173126 | [173126-wild-and-horror-pinball.json](./173126-wild-and-horror-pinball.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Adventures | 195621 | [195621-wild-adventures.json](./195621-wild-adventures.json) |
@@ -10526,6 +10527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
 | WWE 2K22 | 145780 | [145780-wwe-2k22.json](./145780-wwe-2k22.json) |
 | WWE 2K22 SuperCharger | 231673 | [231673-wwe-2k22-supercharger.json](./231673-wwe-2k22-supercharger.json) |
+| WWE 2K22: Amazon Steelbook Edition | 188130 | [188130-wwe-2k22-amazon-steelbook-edition.json](./188130-wwe-2k22-amazon-steelbook-edition.json) |
 | WWE 2K22: Banzai Pack | 226571 | [226571-wwe-2k22-banzai-pack.json](./226571-wwe-2k22-banzai-pack.json) |
 | WWE 2K22: Clowning Around Pack | 226572 | [226572-wwe-2k22-clowning-around-pack.json](./226572-wwe-2k22-clowning-around-pack.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
