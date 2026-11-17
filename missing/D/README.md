@@ -5865,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decwar | 66735 | [66735-decwar.json](./66735-decwar.json) |
 | Decypher | 290633 | [290633-decypher.json](./290633-decypher.json) |
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
+| Ded Guy | 178709 | [178709-ded-guy.json](./178709-ded-guy.json) |
 | Ded Inside | 120776 | [120776-ded-inside.json](./120776-ded-inside.json) |
 | Deda | 383905 | [383905-deda.json](./383905-deda.json) |
 | Dedale | 73435 | [73435-dedale.json](./73435-dedale.json) |
