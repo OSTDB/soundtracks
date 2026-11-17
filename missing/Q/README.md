@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Wish 2: The Tormentor | 203743 | [203743-queens-wish-2-the-tormentor.json](./203743-queens-wish-2-the-tormentor.json) |
 | Queen’s Wish: The Judgment | 387078 | [387078-queen-s-wish-the-judgment.json](./387078-queen-s-wish-the-judgment.json) |
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
+| Queendomia: Black & Pink | 421138 | [421138-queendomia-black-and-pink.json](./421138-queendomia-black-and-pink.json) |
 | Queendoom | 31049 | [31049-queendoom.json](./31049-queendoom.json) |
 | Queenlash | 352161 | [352161-queenlash.json](./352161-queenlash.json) |
 | Queens | 242695 | [242695-queens.json](./242695-queens.json) |
