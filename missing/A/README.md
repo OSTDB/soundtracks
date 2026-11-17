@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flicker of Light | 188449 | [188449-a-flicker-of-light.json](./188449-a-flicker-of-light.json) |
 | A Flipping Good Time | 92592 | [92592-a-flipping-good-time.json](./92592-a-flipping-good-time.json) |
+| A Floof's Adventure | 200666 | [200666-a-floofs-adventure.json](./200666-a-floofs-adventure.json) |
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
 | A Flutter of Silicon Wings | 185380 | [185380-a-flutter-of-silicon-wings.json](./185380-a-flutter-of-silicon-wings.json) |
 | A Fly in the Array | 387613 | [387613-a-fly-in-the-array.json](./387613-a-fly-in-the-array.json) |
@@ -16152,6 +16153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3 Creator DLC: Western Sahara | 254840 | [254840-arma-3-creator-dlc-western-sahara.json](./254840-arma-3-creator-dlc-western-sahara.json) |
 | Arma 3 Karts | 54786 | [54786-arma-3-karts.json](./54786-arma-3-karts.json) |
 | Arma 3: Apex | 19547 | [19547-arma-3-apex.json](./19547-arma-3-apex.json) |
+| Arma 3: Art of War Charity Pack | 203431 | [203431-arma-3-art-of-war-charity-pack.json](./203431-arma-3-art-of-war-charity-pack.json) |
 | Arma 3: Art of War Charity Pack | 224348 | [224348-arma-3-art-of-war-charity-pack.json](./224348-arma-3-art-of-war-charity-pack.json) |
 | Arma 3: Contact | 121163 | [121163-arma-3-contact.json](./121163-arma-3-contact.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
