@@ -3996,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rec Center Tycoon | 28694 | [28694-rec-center-tycoon.json](./28694-rec-center-tycoon.json) |
 | Rec in Peace | 390458 | [390458-rec-in-peace.json](./390458-rec-in-peace.json) |
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
+| Rec Room Games | 84360 | [84360-rec-room-games.json](./84360-rec-room-games.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
 | Recalhorn | 257330 | [257330-recalhorn.json](./257330-recalhorn.json) |
@@ -11754,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
 | Roller Coaster | 22523 | [22523-roller-coaster.json](./22523-roller-coaster.json) |
 | Roller Coaster | 363625 | [363625-roller-coaster.json](./363625-roller-coaster.json) |
+| Roller Coaster | 84350 | [84350-roller-coaster.json](./84350-roller-coaster.json) |
 | Roller Coaster 3D | 88492 | [88492-roller-coaster-3d.json](./88492-roller-coaster-3d.json) |
 | Roller Coaster Apocalypse VR | 96876 | [96876-roller-coaster-apocalypse-vr.json](./96876-roller-coaster-apocalypse-vr.json) |
 | Roller Coaster Egypt VR | 90159 | [90159-roller-coaster-egypt-vr.json](./90159-roller-coaster-egypt-vr.json) |
@@ -12767,6 +12769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotisserie Relapse | 181413 | [181413-rotisserie-relapse.json](./181413-rotisserie-relapse.json) |
 | ROTN Quiz game 2 | 71168 | [71168-rotn-quiz-game-2.json](./71168-rotn-quiz-game-2.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
+| Roto Pool | 84352 | [84352-roto-pool.json](./84352-roto-pool.json) |
 | Roto16 | 234055 | [234055-roto16.json](./234055-roto16.json) |
 | RotoBrix | 125079 | [125079-rotobrix.json](./125079-rotobrix.json) |
 | RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
@@ -13096,6 +13099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Garden Tales | 95801 | [95801-royal-garden-tales.json](./95801-royal-garden-tales.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
+| Royal Guard | 84351 | [84351-royal-guard.json](./84351-royal-guard.json) |
 | Royal Hentai: Boobs & Pussies | 366538 | [366538-royal-hentai-boobs-and-pussies.json](./366538-royal-hentai-boobs-and-pussies.json) |
 | Royal Heroes | 33559 | [33559-royal-heroes.json](./33559-royal-heroes.json) |
 | Royal Idiots | 210789 | [210789-royal-idiots.json](./210789-royal-idiots.json) |
