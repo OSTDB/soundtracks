@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
 | Lea | 269228 | [269228-lea.json](./269228-lea.json) |
 | Lea | 310112 | [310112-lea.json](./310112-lea.json) |
+| Lea Born for Adventure | 89301 | [89301-lea-born-for-adventure.json](./89301-lea-born-for-adventure.json) |
 | Lead | 258843 | [258843-lead.json](./258843-lead.json) |
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
 | Lead Haul | 185066 | [185066-lead-haul.json](./185066-lead-haul.json) |
