@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
 | Nebulas Lasso | 116898 | [116898-nebulas-lasso.json](./116898-nebulas-lasso.json) |
 | Nebulas ray | 39456 | [39456-nebulas-ray.json](./39456-nebulas-ray.json) |
+| NebulaSky Crossing | 419678 | [419678-nebulasky-crossing.json](./419678-nebulasky-crossing.json) |
 | NebulasRay | 39715 | [39715-nebulasray.json](./39715-nebulasray.json) |
 | NebulaStrike | 376152 | [376152-nebulastrike.json](./376152-nebulastrike.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Miko Kaibyo Shioki No Emaki | 406901 | [406901-neko-miko-kaibyo-shioki-no-emaki.json](./406901-neko-miko-kaibyo-shioki-no-emaki.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
 | Neko Min | 150196 | [150196-neko-min.json](./150196-neko-min.json) |
+| Neko na Kankei | 419696 | [419696-neko-na-kankei.json](./419696-neko-na-kankei.json) |
 | Neko Navy | 29482 | [29482-neko-navy.json](./29482-neko-navy.json) |
 | Neko Navy: Daydream Edition | 110318 | [110318-neko-navy-daydream-edition.json](./110318-neko-navy-daydream-edition.json) |
 | Neko Neko | 219036 | [219036-neko-neko.json](./219036-neko-neko.json) |
@@ -2289,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Neko Love | 348693 | [348693-neko-neko-love.json](./348693-neko-neko-love.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Neko Rampage | 231304 | [231304-neko-neko-rampage.json](./231304-neko-neko-rampage.json) |
+| Neko Neko Shop | 419680 | [419680-neko-neko-shop.json](./419680-neko-neko-shop.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
 | Neko Ningen Eugene | 349439 | [349439-neko-ningen-eugene.json](./349439-neko-ningen-eugene.json) |
 | Neko no Famires: Nyanko-tachi to Issho ni Omise wo Moriageyou!!~ | 214382 | [214382-neko-no-famires-nyanko-tachi-to-issho-ni-omise-wo-moriageyou.json](./214382-neko-no-famires-nyanko-tachi-to-issho-ni-omise-wo-moriageyou.json) |
@@ -8494,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nukklerma: Robot Warfare | 29988 | [29988-nukklerma-robot-warfare.json](./29988-nukklerma-robot-warfare.json) |
 | Nuklear Klone | 279805 | [279805-nuklear-klone.json](./279805-nuklear-klone.json) |
 | Nuko | 410612 | [410612-nuko.json](./410612-nuko.json) |
+| Nukumori no Naka de in the Warmth | 419698 | [419698-nukumori-no-naka-de-in-the-warmth.json](./419698-nukumori-no-naka-de-in-the-warmth.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
 | Null | 245655 | [245655-null.json](./245655-null.json) |
 | Null | 279802 | [279802-null.json](./279802-null.json) |
