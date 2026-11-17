@@ -4944,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeternum Grand Plaza | 350210 | [350210-aeternum-grand-plaza.json](./350210-aeternum-grand-plaza.json) |
 | Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
 | Aeternum Vale | 163783 | [163783-aeternum-vale.json](./163783-aeternum-vale.json) |
+| Aethel Online | 429465 | [429465-aethel-online.json](./429465-aethel-online.json) |
 | Aethelgard: Galactic Guardian | 404804 | [404804-aethelgard-galactic-guardian.json](./404804-aethelgard-galactic-guardian.json) |
 | Aether | 254916 | [254916-aether.json](./254916-aether.json) |
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
@@ -12167,6 +12168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime School Zombie Simulator | 296754 | [296754-anime-school-zombie-simulator.json](./296754-anime-school-zombie-simulator.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
+| Anime Shop Chaos: Tidy Up! | 429483 | [429483-anime-shop-chaos-tidy-up.json](./429483-anime-shop-chaos-tidy-up.json) |
 | Anime Shop Simulator | 326485 | [326485-anime-shop-simulator.json](./326485-anime-shop-simulator.json) |
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
 | Anime Slayer | 258352 | [258352-anime-slayer.json](./258352-anime-slayer.json) |
@@ -17487,6 +17489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity: Escalation Gold | 52605 | [52605-ashes-of-the-singularity-escalation-gold.json](./52605-ashes-of-the-singularity-escalation-gold.json) |
 | Ashes of the Union | 309710 | [309710-ashes-of-the-union.json](./309710-ashes-of-the-union.json) |
 | Ashes of Vaelmoor | 412591 | [412591-ashes-of-vaelmoor.json](./412591-ashes-of-vaelmoor.json) |
+| Ashes of Valhalla | 429486 | [429486-ashes-of-valhalla.json](./429486-ashes-of-valhalla.json) |
 | Ashes of War | 369665 | [369665-ashes-of-war.json](./369665-ashes-of-war.json) |
 | Ashes of Xun | 377678 | [377678-ashes-of-xun.json](./377678-ashes-of-xun.json) |
 | Ashes Remember Us | 372746 | [372746-ashes-remember-us.json](./372746-ashes-remember-us.json) |
