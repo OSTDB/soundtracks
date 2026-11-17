@@ -12563,6 +12563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
 | Anomaly Archives | 420936 | [420936-anomaly-archives.json](./420936-anomaly-archives.json) |
 | Anomaly Bus | 344866 | [344866-anomaly-bus.json](./344866-anomaly-bus.json) |
+| Anomaly Center | 419279 | [419279-anomaly-center.json](./419279-anomaly-center.json) |
 | Anomaly Collapse | 270344 | [270344-anomaly-collapse.json](./270344-anomaly-collapse.json) |
 | Anomaly Collapse: Special Correspondent Constan | 353602 | [353602-anomaly-collapse-special-correspondent-constan.json](./353602-anomaly-collapse-special-correspondent-constan.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
