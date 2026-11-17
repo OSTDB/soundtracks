@@ -8679,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Quiet in the Trenches | 245905 | [245905-all-quiet-in-the-trenches.json](./245905-all-quiet-in-the-trenches.json) |
 | All Quiet Roads 4743 | 192715 | [192715-all-quiet-roads-4743.json](./192715-all-quiet-roads-4743.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
+| All Roads | 60144 | [60144-all-roads.json](./60144-all-roads.json) |
 | All Roads Connected | 391018 | [391018-all-roads-connected.json](./391018-all-roads-connected.json) |
 | All Round Hunter | 4668 | [4668-all-round-hunter.json](./4668-all-round-hunter.json) |
 | All She Wants For Christmas Is You | 283322 | [283322-all-she-wants-for-christmas-is-you.json](./283322-all-she-wants-for-christmas-is-you.json) |
@@ -11047,7 +11048,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda | 86149 | [86149-andromeda.json](./86149-andromeda.json) |
 | Andromeda 2 Zombies | 169492 | [169492-andromeda-2-zombies.json](./169492-andromeda-2-zombies.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
+| Andromeda Apocalypse | 60133 | [60133-andromeda-apocalypse.json](./60133-andromeda-apocalypse.json) |
+| Andromeda Ascending | 60134 | [60134-andromeda-ascending.json](./60134-andromeda-ascending.json) |
+| Andromeda Awakening | 60132 | [60132-andromeda-awakening.json](./60132-andromeda-awakening.json) |
 | Andromeda Conquest | 18665 | [18665-andromeda-conquest.json](./18665-andromeda-conquest.json) |
+| Andromeda Dreaming | 60131 | [60131-andromeda-dreaming.json](./60131-andromeda-dreaming.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
 | Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
 | Andromeda One Zombies | 170634 | [170634-andromeda-one-zombies.json](./170634-andromeda-one-zombies.json) |
@@ -13277,6 +13282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aopii | 179018 | [179018-aopii.json](./179018-aopii.json) |
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aotai Traverse: Survival Simulator | 427851 | [427851-aotai-traverse-survival-simulator.json](./427851-aotai-traverse-survival-simulator.json) |
+| Aotearoa | 60137 | [60137-aotearoa.json](./60137-aotearoa.json) |
 | Aotenjo: Infinite Hands | 309815 | [309815-aotenjo-infinite-hands.json](./309815-aotenjo-infinite-hands.json) |
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Meikyuu | 33908 | [33908-aozora-meikyuu.json](./33908-aozora-meikyuu.json) |
@@ -19793,6 +19799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack! | 356281 | [356281-attack.json](./356281-attack.json) |
 | Attack!! Hiroko-Chan | 67372 | [67372-attack-hiroko-chan.json](./67372-attack-hiroko-chan.json) |
 | Attacker-chan! | 211082 | [211082-attacker-chan.json](./211082-attacker-chan.json) |
+| Attacking Zegeta | 60152 | [60152-attacking-zegeta.json](./60152-attacking-zegeta.json) |
 | Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
 | AttackNoids | 116478 | [116478-attacknoids.json](./116478-attacknoids.json) |
 | Attactics | 318310 | [318310-attactics.json](./318310-attactics.json) |
