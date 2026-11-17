@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Dream | 386519 | [386519-pachinko-dream.json](./386519-pachinko-dream.json) |
 | Pachinko Fan: Shouri Sengen | 42236 | [42236-pachinko-fan-shouri-sengen.json](./42236-pachinko-fan-shouri-sengen.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
+| Pachinko Hissatsu Shigotonin IV: Kyoraku Collection Vol. 2 | 143802 | [143802-pachinko-hissatsu-shigotonin-iv-kyoraku-collection-vol-2.json](./143802-pachinko-hissatsu-shigotonin-iv-kyoraku-collection-vol-2.json) |
 | Pachinko Hisshou Guide: Pocket Parlor | 47621 | [47621-pachinko-hisshou-guide-pocket-parlor.json](./47621-pachinko-hisshou-guide-pocket-parlor.json) |
 | Pachinko Hissou Guide: Data no Ou-sama | 282469 | [282469-pachinko-hissou-guide-data-no-ou-sama.json](./282469-pachinko-hissou-guide-data-no-ou-sama.json) |
 | Pachinko II | 6124 | [6124-pachinko-ii.json](./6124-pachinko-ii.json) |
@@ -2008,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
 | Paperback: The Game | 75826 | [75826-paperback-the-game.json](./75826-paperback-the-game.json) |
 | Paperball | 128202 | [128202-paperball.json](./128202-paperball.json) |
+| Paperball Deluxe | 143780 | [143780-paperball-deluxe.json](./143780-paperball-deluxe.json) |
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperball: Deep Sea Pack | 166423 | [166423-paperball-deep-sea-pack.json](./166423-paperball-deep-sea-pack.json) |
 | Paperball: Secret Spy Pack | 170591 | [170591-paperball-secret-spy-pack.json](./170591-paperball-secret-spy-pack.json) |
@@ -3556,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
 | Pathos | 117922 | [117922-pathos.json](./117922-pathos.json) |
 | Pathos | 75594 | [75594-pathos.json](./75594-pathos.json) |
+| Pathos: Nethack Codex | 141917 | [141917-pathos-nethack-codex.json](./141917-pathos-nethack-codex.json) |
 | Pathosis | 95265 | [95265-pathosis.json](./95265-pathosis.json) |
 | Pathotaxia: Pandora | 399211 | [399211-pathotaxia-pandora.json](./399211-pathotaxia-pandora.json) |
 | PathPix | 62462 | [62462-pathpix.json](./62462-pathpix.json) |
@@ -9715,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Space | 35182 | [35182-pixel-space.json](./35182-pixel-space.json) |
 | Pixel Space Battles | 75316 | [75316-pixel-space-battles.json](./75316-pixel-space-battles.json) |
+| Pixel Speedrun | 145109 | [145109-pixel-speedrun.json](./145109-pixel-speedrun.json) |
 | Pixel Star | 35311 | [35311-pixel-star.json](./35311-pixel-star.json) |
 | Pixel Stars | 97224 | [97224-pixel-stars.json](./97224-pixel-stars.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
@@ -9834,7 +9838,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeline: I Pixieland | 354746 | [354746-pixeline-i-pixieland.json](./354746-pixeline-i-pixieland.json) |
 | Pixeline: I Pixieland | 49766 | [49766-pixeline-i-pixieland.json](./49766-pixeline-i-pixieland.json) |
 | Pixeline: i Sommerhuset | 147877 | [147877-pixeline-i-sommerhuset.json](./147877-pixeline-i-sommerhuset.json) |
+| Pixeline: og Hulen i Træet | 143768 | [143768-pixeline-og-hulen-i-tr-et.json](./143768-pixeline-og-hulen-i-tr-et.json) |
+| Pixeline: Og Huset I Eventyrskoven | 143770 | [143770-pixeline-og-huset-i-eventyrskoven.json](./143770-pixeline-og-huset-i-eventyrskoven.json) |
 | Pixeline: og Kong Gulerod | 147882 | [147882-pixeline-og-kong-gulerod.json](./147882-pixeline-og-kong-gulerod.json) |
+| Pixeline: På Bedstemors Loft | 143769 | [143769-pixeline-pa-bedstemors-loft.json](./143769-pixeline-pa-bedstemors-loft.json) |
 | Pixeline: Star Hotel | 64503 | [64503-pixeline-star-hotel.json](./64503-pixeline-star-hotel.json) |
 | Pixeline: Syng, Leg og Lær | 143751 | [143751-pixeline-syng-leg-og-l-r.json](./143751-pixeline-syng-leg-og-l-r.json) |
 | Pixelines Lillebror | 285816 | [285816-pixelines-lillebror.json](./285816-pixelines-lillebror.json) |
@@ -10039,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PiyoShogi | 388512 | [388512-piyoshogi.json](./388512-piyoshogi.json) |
 | Piyotama | 21882 | [21882-piyotama.json](./21882-piyotama.json) |
 | Piyotan Oyashiki Sennyuu Daisakusen! | 204656 | [204656-piyotan-oyashiki-sennyuu-daisakusen.json](./204656-piyotan-oyashiki-sennyuu-daisakusen.json) |
+| Pizz.Uno | 141909 | [141909-pizz-uno.json](./141909-pizz-uno.json) |
 | Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
 | Pizza Agent | 379948 | [379948-pizza-agent.json](./379948-pizza-agent.json) |
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
@@ -12504,6 +12512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Blaze Black | 141482 | [141482-pokemon-blaze-black.json](./141482-pokemon-blaze-black.json) |
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
 | Pokémon Blaze Black 2 Redux | 198025 | [198025-pokemon-blaze-black-2-redux.json](./198025-pokemon-blaze-black-2-redux.json) |
+| Pokémon Blaze Online | 145096 | [145096-pokemon-blaze-online.json](./145096-pokemon-blaze-online.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
 | Pokémon Blessed Shield | 314550 | [314550-pokemon-blessed-shield.json](./314550-pokemon-blessed-shield.json) |
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
@@ -12680,7 +12689,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fire Red Randomizer | 329885 | [329885-pokemon-fire-red-randomizer.json](./329885-pokemon-fire-red-randomizer.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
+| Pokémon FireRed Omega | 143757 | [143757-pokemon-firered-omega.json](./143757-pokemon-firered-omega.json) |
 | Pokémon FireRed VR Missions | 214216 | [214216-pokemon-firered-vr-missions.json](./214216-pokemon-firered-vr-missions.json) |
+| Pokémon FireRed: Rocket Edition | 143758 | [143758-pokemon-firered-rocket-edition.json](./143758-pokemon-firered-rocket-edition.json) |
 | Pokémon Flora Sky | 129817 | [129817-pokemon-flora-sky.json](./129817-pokemon-flora-sky.json) |
 | Pokémon Floral Tempus EX | 240005 | [240005-pokemon-floral-tempus-ex.json](./240005-pokemon-floral-tempus-ex.json) |
 | Pokemon Flux | 250199 | [250199-pokemon-flux.json](./250199-pokemon-flux.json) |
@@ -12946,6 +12957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ranger Star | 387058 | [387058-pokemon-ranger-star.json](./387058-pokemon-ranger-star.json) |
 | Pokémon Ranger: Guardian Signs | 4565 | [4565-pokemon-ranger-guardian-signs.json](./4565-pokemon-ranger-guardian-signs.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
+| Pokémon Raptor EX | 143763 | [143763-pokemon-raptor-ex.json](./143763-pokemon-raptor-ex.json) |
 | Pokemon RBGenesis+ | 327773 | [327773-pokemon-rbgenesis.json](./327773-pokemon-rbgenesis.json) |
 | Pokemon RE:Call | 314714 | [314714-pokemon-re-call.json](./314714-pokemon-re-call.json) |
 | Pokémon Re:Union | 270629 | [270629-pokemon-re-union.json](./270629-pokemon-re-union.json) |
@@ -13035,6 +13047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Snap: Rith Essa | 268696 | [268696-pokemon-snap-rith-essa.json](./268696-pokemon-snap-rith-essa.json) |
 | Pokémon Sodateyasan Mini | 92306 | [92306-pokemon-sodateyasan-mini.json](./92306-pokemon-sodateyasan-mini.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
+| Pokémon Solar Light & Lunar Dark | 143764 | [143764-pokemon-solar-light-and-lunar-dark.json](./143764-pokemon-solar-light-and-lunar-dark.json) |
 | Pokémon Sombras de Arceus | 314718 | [314718-pokemon-sombras-de-arceus.json](./314718-pokemon-sombras-de-arceus.json) |
 | Pokémon Sors | 214221 | [214221-pokemon-sors.json](./214221-pokemon-sors.json) |
 | Pokémon Sors 2 | 360194 | [360194-pokemon-sors-2.json](./360194-pokemon-sors-2.json) |
@@ -13054,6 +13067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Star Sapphire | 288074 | [288074-pokemon-star-sapphire.json](./288074-pokemon-star-sapphire.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
 | Pokémon Steam | 145809 | [145809-pokemon-steam.json](./145809-pokemon-steam.json) |
+| Pokémon Storm Silver | 143765 | [143765-pokemon-storm-silver.json](./143765-pokemon-storm-silver.json) |
 | Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
 | Pokémon Strike! Yellow Version | 308708 | [308708-pokemon-strike-yellow-version.json](./308708-pokemon-strike-yellow-version.json) |
 | Pokémon Study: Hikaruze! Pokémon Typing PC | 327714 | [327714-pokemon-study-hikaruze-pokemon-typing-pc.json](./327714-pokemon-study-hikaruze-pokemon-typing-pc.json) |
@@ -13095,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
 | Pokémon Tourmaline | 378601 | [378601-pokemon-tourmaline.json](./378601-pokemon-tourmaline.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
+| Pokémon Tower Defense | 143767 | [143767-pokemon-tower-defense.json](./143767-pokemon-tower-defense.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game | 4567 | [4567-pokemon-trading-card-game.json](./4567-pokemon-trading-card-game.json) |
 | Pokémon Trading Card Game Live | 171816 | [171816-pokemon-trading-card-game-live.json](./171816-pokemon-trading-card-game-live.json) |
@@ -16834,6 +16849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison of Lies | 183422 | [183422-prison-of-lies.json](./183422-prison-of-lies.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
 | Prison of Son | 128999 | [128999-prison-of-son.json](./128999-prison-of-son.json) |
+| Prison of the Magi: Ch. 0 | 159366 | [159366-prison-of-the-magi-ch-0.json](./159366-prison-of-the-magi-ch-0.json) |
 | Prison of the Mind | 199750 | [199750-prison-of-the-mind.json](./199750-prison-of-the-mind.json) |
 | Prison Out | 365071 | [365071-prison-out.json](./365071-prison-out.json) |
 | Prison Planet | 123808 | [123808-prison-planet.json](./123808-prison-planet.json) |
@@ -17010,6 +17026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2016: US Edition | 34160 | [34160-pro-basketball-manager-2016-us-edition.json](./34160-pro-basketball-manager-2016-us-edition.json) |
 | Pro Basketball Manager 2017 | 30926 | [30926-pro-basketball-manager-2017.json](./30926-pro-basketball-manager-2017.json) |
 | Pro Basketball Manager 2019 | 111574 | [111574-pro-basketball-manager-2019.json](./111574-pro-basketball-manager-2019.json) |
+| Pro Basketball Manager 2021 | 140694 | [140694-pro-basketball-manager-2021.json](./140694-pro-basketball-manager-2021.json) |
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
 | Pro Basketball Manager 2024 | 267826 | [267826-pro-basketball-manager-2024.json](./267826-pro-basketball-manager-2024.json) |
@@ -18767,6 +18784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
 | Prophétie | 345202 | [345202-prophetie.json](./345202-prophetie.json) |
 | Prophour23 | 17731 | [17731-prophour23.json](./17731-prophour23.json) |
+| Prophunt | 153467 | [153467-prophunt.json](./153467-prophunt.json) |
 | PropHunter | 165107 | [165107-prophunter.json](./165107-prophunter.json) |
 | Propis | 194290 | [194290-propis.json](./194290-propis.json) |
 | Propnight | 176677 | [176677-propnight.json](./176677-propnight.json) |
@@ -18806,6 +18824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
 | Protec | 335024 | [335024-protec.json](./335024-protec.json) |
 | Protect & Defense: Tank Attack | 145154 | [145154-protect-and-defense-tank-attack.json](./145154-protect-and-defense-tank-attack.json) |
+| Protect & Defense: Tower Zone | 145067 | [145067-protect-and-defense-tower-zone.json](./145067-protect-and-defense-tower-zone.json) |
 | Protect Eggs | 161718 | [161718-protect-eggs.json](./161718-protect-eggs.json) |
 | Protect Gloobi | 373286 | [373286-protect-gloobi.json](./373286-protect-gloobi.json) |
 | Protect Grass | 127593 | [127593-protect-grass.json](./127593-protect-grass.json) |
@@ -18860,6 +18879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Akane | 197088 | [197088-proto-akane.json](./197088-proto-akane.json) |
 | Proto Bat-Bot: Battle for Gotham City | 299323 | [299323-proto-bat-bot-battle-for-gotham-city.json](./299323-proto-bat-bot-battle-for-gotham-city.json) |
 | Proto Cuckoo 64 | 150982 | [150982-proto-cuckoo-64.json](./150982-proto-cuckoo-64.json) |
+| Proto Dere .Nes | 141912 | [141912-proto-dere-nes.json](./141912-proto-dere-nes.json) |
 | Proto Garden | 304525 | [304525-proto-garden.json](./304525-proto-garden.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
@@ -20074,6 +20094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Shooter | 360687 | [360687-pure-shooter.json](./360687-pure-shooter.json) |
 | Pure Sniper | 252978 | [252978-pure-sniper.json](./252978-pure-sniper.json) |
 | Pure Song Garden! | 194575 | [194575-pure-song-garden.json](./194575-pure-song-garden.json) |
+| Pure Soul: The Journey of the Witch Emily | 143792 | [143792-pure-soul-the-journey-of-the-witch-emily.json](./143792-pure-soul-the-journey-of-the-witch-emily.json) |
 | Pure Stat College Basketball | 47212 | [47212-pure-stat-college-basketball.json](./47212-pure-stat-college-basketball.json) |
 | Pure White Chord | 230386 | [230386-pure-white-chord.json](./230386-pure-white-chord.json) |
 | Pure x Connect | 60203 | [60203-pure-x-connect.json](./60203-pure-x-connect.json) |
@@ -20525,6 +20546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzz 3D: Notre Dame Cathedral | 61183 | [61183-puzz-3d-notre-dame-cathedral.json](./61183-puzz-3d-notre-dame-cathedral.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
 | Puzz 3D: Victorian Mansion | 65692 | [65692-puzz-3d-victorian-mansion.json](./65692-puzz-3d-victorian-mansion.json) |
+| Puzz Grid | 143779 | [143779-puzz-grid.json](./143779-puzz-grid.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
 | Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
 | Puzz'l | 229803 | [229803-puzzl.json](./229803-puzzl.json) |
@@ -20920,6 +20942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: The Pattern | 340834 | [340834-puzzle-piecer-the-pattern.json](./340834-puzzle-piecer-the-pattern.json) |
 | Puzzle Piecer: The Sky Above | 349422 | [349422-puzzle-piecer-the-sky-above.json](./349422-puzzle-piecer-the-sky-above.json) |
 | Puzzle Piecer: The World Below | 330806 | [330806-puzzle-piecer-the-world-below.json](./330806-puzzle-piecer-the-world-below.json) |
+| Puzzle Pieces | 143775 | [143775-puzzle-pieces.json](./143775-puzzle-pieces.json) |
 | Puzzle Pieces 4: Farewell Dear Winter | 238281 | [238281-puzzle-pieces-4-farewell-dear-winter.json](./238281-puzzle-pieces-4-farewell-dear-winter.json) |
 | Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
 | Puzzle Pipes | 152519 | [152519-puzzle-pipes.json](./152519-puzzle-pipes.json) |
