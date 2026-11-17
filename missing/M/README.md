@@ -9625,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meimon! Tako Nishi Ouendan | 48779 | [48779-meimon-tako-nishi-ouendan.json](./48779-meimon-tako-nishi-ouendan.json) |
 | Meimou Halloween | 261072 | [261072-meimou-halloween.json](./261072-meimou-halloween.json) |
 | Meimu | 239557 | [239557-meimu.json](./239557-meimu.json) |
+| Mein eigener Hund | 84380 | [84380-mein-eigener-hund.json](./84380-mein-eigener-hund.json) |
 | Mein Eigenes Kätzchen | 91564 | [91564-mein-eigenes-katzchen.json](./91564-mein-eigenes-katzchen.json) |
 | Mein eigenes Pony | 91565 | [91565-mein-eigenes-pony.json](./91565-mein-eigenes-pony.json) |
 | Mein neues Leben Abenteuer auf Tropicana | 152028 | [152028-mein-neues-leben-abenteuer-auf-tropicana.json](./152028-mein-neues-leben-abenteuer-auf-tropicana.json) |
@@ -16462,6 +16463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam - Blood of Zeon | 45808 | [45808-mobile-suit-gundam-blood-of-zeon.json](./45808-mobile-suit-gundam-blood-of-zeon.json) |
 | Mobile Suit Gundam 00: Gundam Meisters | 72982 | [72982-mobile-suit-gundam-00-gundam-meisters.json](./72982-mobile-suit-gundam-00-gundam-meisters.json) |
 | Mobile Suit Gundam 0079 Card Builder | 79013 | [79013-mobile-suit-gundam-0079-card-builder.json](./79013-mobile-suit-gundam-0079-card-builder.json) |
+| Mobile Suit Gundam 0083 Card Builder | 84398 | [84398-mobile-suit-gundam-0083-card-builder.json](./84398-mobile-suit-gundam-0083-card-builder.json) |
 | Mobile Suit Gundam AGE: Cosmic Drive | 75722 | [75722-mobile-suit-gundam-age-cosmic-drive.json](./75722-mobile-suit-gundam-age-cosmic-drive.json) |
 | Mobile Suit Gundam AGE: Universe Accel | 75721 | [75721-mobile-suit-gundam-age-universe-accel.json](./75721-mobile-suit-gundam-age-universe-accel.json) |
 | Mobile Suit Gundam Battle Operation 3 | 426387 | [426387-mobile-suit-gundam-battle-operation-3.json](./426387-mobile-suit-gundam-battle-operation-3.json) |
@@ -20807,6 +20809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Actor Trivia | 250864 | [250864-movie-actor-trivia.json](./250864-movie-actor-trivia.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
 | Movie Business: Die Welt der Filme | 388716 | [388716-movie-business-die-welt-der-filme.json](./388716-movie-business-die-welt-der-filme.json) |
+| Movie Challenge | 84373 | [84373-movie-challenge.json](./84373-movie-challenge.json) |
 | Movie Cinema Simulator | 276630 | [276630-movie-cinema-simulator.json](./276630-movie-cinema-simulator.json) |
 | Movie Crosswords | 248406 | [248406-movie-crosswords.json](./248406-movie-crosswords.json) |
 | Movie Games | 51062 | [51062-movie-games.json](./51062-movie-games.json) |
@@ -22169,6 +22172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MurmAllmaus | 249541 | [249541-murmallmaus.json](./249541-murmallmaus.json) |
 | Murmel TCG | 408398 | [408398-murmel-tcg.json](./408398-murmel-tcg.json) |
 | Murmeln und mehr ... | 86061 | [86061-murmeln-und-mehr.json](./86061-murmeln-und-mehr.json) |
+| Murmeln und Mehr 2 | 84382 | [84382-murmeln-und-mehr-2.json](./84382-murmeln-und-mehr-2.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Murmuring of Moth Mouth | 417596 | [417596-murmuring-of-moth-mouth.json](./417596-murmuring-of-moth-mouth.json) |
 | Murmurs | 380643 | [380643-murmurs.json](./380643-murmurs.json) |
