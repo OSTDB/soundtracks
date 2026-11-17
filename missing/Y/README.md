@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogi Bear | 259278 | [259278-yogi-bear.json](./259278-yogi-bear.json) |
 | Yogi Bear | 54667 | [54667-yogi-bear.json](./54667-yogi-bear.json) |
 | Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
+| Yogi Bear and Friends in the Greed Monster | 196222 | [196222-yogi-bear-and-friends-in-the-greed-monster.json](./196222-yogi-bear-and-friends-in-the-greed-monster.json) |
 | Yogi Bear in Yogi Bear's Goldrush | 46299 | [46299-yogi-bear-in-yogi-bears-goldrush.json](./46299-yogi-bear-in-yogi-bears-goldrush.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
 | Yogi Bear's Gold Rush | 49053 | [49053-yogi-bears-gold-rush.json](./49053-yogi-bears-gold-rush.json) |
