@@ -10549,6 +10549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2022 | 168537 | [168537-football-manager-2022.json](./168537-football-manager-2022.json) |
 | Football Manager 2022 Mobile | 187830 | [187830-football-manager-2022-mobile.json](./187830-football-manager-2022-mobile.json) |
 | Football Manager 2022 Touch | 180977 | [180977-football-manager-2022-touch.json](./180977-football-manager-2022-touch.json) |
+| Football Manager 2022: Xbox Edition | 206868 | [206868-football-manager-2022-xbox-edition.json](./206868-football-manager-2022-xbox-edition.json) |
 | Football Manager 2023 | 216178 | [216178-football-manager-2023.json](./216178-football-manager-2023.json) |
 | Football Manager 2023 Touch | 226336 | [226336-football-manager-2023-touch.json](./226336-football-manager-2023-touch.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
