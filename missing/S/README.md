@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred of Gates: Tinder | 340674 | [340674-sacred-of-gates-tinder.json](./340674-sacred-of-gates-tinder.json) |
 | Sacred Plus | 53570 | [53570-sacred-plus.json](./53570-sacred-plus.json) |
 | Sacred Safar | 294327 | [294327-sacred-safar.json](./294327-sacred-safar.json) |
+| Sacred Saga Online | 109803 | [109803-sacred-saga-online.json](./109803-sacred-saga-online.json) |
 | Sacred Seasons | 175627 | [175627-sacred-seasons.json](./175627-sacred-seasons.json) |
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
 | Sacred Siren | 121913 | [121913-sacred-siren.json](./121913-sacred-siren.json) |
@@ -4255,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll Shop | 418707 | [418707-scroll-shop.json](./418707-scroll-shop.json) |
 | Scroll Survival | 276611 | [276611-scroll-survival.json](./276611-scroll-survival.json) |
 | Scroll the Pain Away | 274340 | [274340-scroll-the-pain-away.json](./274340-scroll-the-pain-away.json) |
+| Scroll2Read | 113770 | [113770-scroll2read.json](./113770-scroll2read.json) |
 | Scrollden | 298456 | [298456-scrollden.json](./298456-scrollden.json) |
 | Scrolling Ball in Sky | 100979 | [100979-scrolling-ball-in-sky.json](./100979-scrolling-ball-in-sky.json) |
 | Scrolling Survivor | 177163 | [177163-scrolling-survivor.json](./177163-scrolling-survivor.json) |
@@ -5508,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology | 331515 | [331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json](./331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json) |
 | Seeds of Resilience | 103435 | [103435-seeds-of-resilience.json](./103435-seeds-of-resilience.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
+| Seeds: The Magic Garden | 109956 | [109956-seeds-the-magic-garden.json](./109956-seeds-the-magic-garden.json) |
 | Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
 | Seedsow Lullaby | 308306 | [308306-seedsow-lullaby.json](./308306-seedsow-lullaby.json) |
 | Seedverse | 409234 | [409234-seedverse.json](./409234-seedverse.json) |
@@ -6191,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
 | Sengoku Princess | 208707 | [208707-sengoku-princess.json](./208707-sengoku-princess.json) |
+| Sengoku Providence | 109955 | [109955-sengoku-providence.json](./109955-sengoku-providence.json) |
 | Sengoku Rance | 37138 | [37138-sengoku-rance.json](./37138-sengoku-rance.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
 | Sengoku Rance: Sanbiki ga Kittari Tsuitari Moyashitari - Slash! Thrust! Burn! | 259312 | [259312-sengoku-rance-sanbiki-ga-kittari-tsuitari-moyashitari-slash-thrust-burn.json](./259312-sengoku-rance-sanbiki-ga-kittari-tsuitari-moyashitari-slash-thrust-burn.json) |
@@ -6396,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
 | Sentinel Returns | 45303 | [45303-sentinel-returns.json](./45303-sentinel-returns.json) |
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
+| Sentinel Zero | 109816 | [109816-sentinel-zero.json](./109816-sentinel-zero.json) |
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
 | Sentinel: Descendants in Time | 24260 | [24260-sentinel-descendants-in-time.json](./24260-sentinel-descendants-in-time.json) |
 | Sentinel: Holiday Special | 177639 | [177639-sentinel-holiday-special.json](./177639-sentinel-holiday-special.json) |
@@ -8120,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
 | Shakedown Rally | 287031 | [287031-shakedown-rally.json](./287031-shakedown-rally.json) |
+| Shakes & Fidget - The Adventure | 109953 | [109953-shakes-and-fidget-the-adventure.json](./109953-shakes-and-fidget-the-adventure.json) |
 | Shakes and Fidget | 18090 | [18090-shakes-and-fidget.json](./18090-shakes-and-fidget.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shakes on a Plane | 111988 | [111988-shakes-on-a-plane.json](./111988-shakes-on-a-plane.json) |
@@ -11518,6 +11524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siebenstreich's Nerdventure | 150270 | [150270-siebenstreichs-nerdventure.json](./150270-siebenstreichs-nerdventure.json) |
 | Siege | 394227 | [394227-siege.json](./394227-siege.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
+| Siege - Battle of Ashington | 109797 | [109797-siege-battle-of-ashington.json](./109797-siege-battle-of-ashington.json) |
 | Siege 'n Sow | 287429 | [287429-siege-n-sow.json](./287429-siege-n-sow.json) |
 | Siege 1K | 406429 | [406429-siege-1k.json](./406429-siege-1k.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
@@ -16193,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Dart | 246281 | [246281-smart-dart.json](./246281-smart-dart.json) |
 | Smart Decoy | 221657 | [221657-smart-decoy.json](./221657-smart-decoy.json) |
 | Smart Educational Games for Mac | 100607 | [100607-smart-educational-games-for-mac.json](./100607-smart-educational-games-for-mac.json) |
+| Smart Factory | 109784 | [109784-smart-factory.json](./109784-smart-factory.json) |
 | Smart Factory Tycoon | 187061 | [187061-smart-factory-tycoon.json](./187061-smart-factory-tycoon.json) |
 | Smart Farm | 390078 | [390078-smart-farm.json](./390078-smart-farm.json) |
 | Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
@@ -17835,6 +17843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snuff | 215256 | [215256-snuff.json](./215256-snuff.json) |
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
 | Snuff Puppy Shelter | 400607 | [400607-snuff-puppy-shelter.json](./400607-snuff-puppy-shelter.json) |
+| Snuffles & Co. | 109817 | [109817-snuffles-and-co.json](./109817-snuffles-and-co.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
 | Snufkin: Melody of Moominvalley - Fuddler's Courtship | 322884 | [322884-snufkin-melody-of-moominvalley-fuddlers-courtship.json](./322884-snufkin-melody-of-moominvalley-fuddlers-courtship.json) |
 | Snug | 375366 | [375366-snug.json](./375366-snug.json) |
@@ -17935,6 +17944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sobor | 80753 | [80753-sobor.json](./80753-sobor.json) |
 | Sobosuba | 293517 | [293517-sobosuba.json](./293517-sobosuba.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
+| SoccAR | 109951 | [109951-soccar.json](./109951-soccar.json) |
 | Soccer | 172399 | [172399-soccer.json](./172399-soccer.json) |
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
 | Soccer | 18441 | [18441-soccer.json](./18441-soccer.json) |
@@ -18879,6 +18889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Jack Frost: Winter Adventures 3 | 124384 | [124384-solitaire-jack-frost-winter-adventures-3.json](./124384-solitaire-jack-frost-winter-adventures-3.json) |
 | Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
 | Solitaire Journey | 220162 | [220162-solitaire-journey.json](./220162-solitaire-journey.json) |
+| Solitaire King: Klondike | 111083 | [111083-solitaire-king-klondike.json](./111083-solitaire-king-klondike.json) |
 | Solitaire Kingdom Supreme | 175323 | [175323-solitaire-kingdom-supreme.json](./175323-solitaire-kingdom-supreme.json) |
 | Solitaire Kingdom Supreme HD | 104383 | [104383-solitaire-kingdom-supreme-hd.json](./104383-solitaire-kingdom-supreme-hd.json) |
 | Solitaire Klondike Black | 114046 | [114046-solitaire-klondike-black.json](./114046-solitaire-klondike-black.json) |
@@ -23739,6 +23750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Car Racing Offline Game | 296772 | [296772-speed-car-racing-offline-game.json](./296772-speed-car-racing-offline-game.json) |
 | Speed Card Eatery | 424697 | [424697-speed-card-eatery.json](./424697-speed-card-eatery.json) |
 | Speed Card: Slam Card Game | 87435 | [87435-speed-card-slam-card-game.json](./87435-speed-card-slam-card-game.json) |
+| Speed cars - racing championship | 109792 | [109792-speed-cars-racing-championship.json](./109792-speed-cars-racing-championship.json) |
 | Speed Challenge: Jacques Villeneuve's Racing Vision | 4162 | [4162-speed-challenge-jacques-villeneuves-racing-vision.json](./4162-speed-challenge-jacques-villeneuves-racing-vision.json) |
 | Speed Chasing | 95812 | [95812-speed-chasing.json](./95812-speed-chasing.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
@@ -24870,6 +24882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
 | SpiralGo | 360871 | [360871-spiralgo.json](./360871-spiralgo.json) |
 | Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
+| Spiraloid | 109952 | [109952-spiraloid.json](./109952-spiraloid.json) |
 | Spire | 226910 | [226910-spire.json](./226910-spire.json) |
 | Spire | 312244 | [312244-spire.json](./312244-spire.json) |
 | Spire | 61767 | [61767-spire.json](./61767-spire.json) |
@@ -27705,6 +27718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Versus | 48352 | [48352-star-versus.json](./48352-star-versus.json) |
 | Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
 | Star Vikings: Deluxe Edition | 53665 | [53665-star-vikings-deluxe-edition.json](./53665-star-vikings-deluxe-edition.json) |
+| Star Viper | 109949 | [109949-star-viper.json](./109949-star-viper.json) |
 | Star Virgin | 41734 | [41734-star-virgin.json](./41734-star-virgin.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Vortex | 213833 | [213833-star-vortex.json](./213833-star-vortex.json) |
@@ -29411,6 +29425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | Steamboy | 77551 | [77551-steamboy.json](./77551-steamboy.json) |
 | Steamburg | 74585 | [74585-steamburg.json](./74585-steamburg.json) |
+| SteamCity | 109950 | [109950-steamcity.json](./109950-steamcity.json) |
 | SteamCity Chronicles: Rise of the Rose | 123959 | [123959-steamcity-chronicles-rise-of-the-rose.json](./123959-steamcity-chronicles-rise-of-the-rose.json) |
 | Steamcore | 213821 | [213821-steamcore.json](./213821-steamcore.json) |
 | Steamcraft | 113835 | [113835-steamcraft.json](./113835-steamcraft.json) |
