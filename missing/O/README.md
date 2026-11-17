@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OldbI tyt? | 286796 | [286796-oldbi-tyt.json](./286796-oldbi-tyt.json) |
 | OldComputerArchive.zip | 183178 | [183178-oldcomputerarchive-zip.json](./183178-oldcomputerarchive-zip.json) |
 | Olden Peak | 272654 | [272654-olden-peak.json](./272654-olden-peak.json) |
+| Olden Retriever | 419248 | [419248-olden-retriever.json](./419248-olden-retriever.json) |
 | Olden War | 261994 | [261994-olden-war.json](./261994-olden-war.json) |
 | Olden: Card Game | 161453 | [161453-olden-card-game.json](./161453-olden-card-game.json) |
 | Oldentide | 57892 | [57892-oldentide.json](./57892-oldentide.json) |
