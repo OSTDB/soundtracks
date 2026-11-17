@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Editarrr | 270519 | [270519-editarrr.json](./270519-editarrr.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
 | Editor in Chief: Level 1 | 100967 | [100967-editor-in-chief-level-1.json](./100967-editor-in-chief-level-1.json) |
+| Editor in Chief: Level 2 | 108526 | [108526-editor-in-chief-level-2.json](./108526-editor-in-chief-level-2.json) |
 | Editor-dle | 249539 | [249539-editor-dle.json](./249539-editor-dle.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
 | EDM Ballistics | 374021 | [374021-edm-ballistics.json](./374021-edm-ballistics.json) |
@@ -9136,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experimental Shooter 2 | 406407 | [406407-experimental-shooter-2.json](./406407-experimental-shooter-2.json) |
 | Experimentation | 260274 | [260274-experimentation.json](./260274-experimentation.json) |
 | Expert | 43796 | [43796-expert.json](./43796-expert.json) |
+| Expert Animal Sniper | 107285 | [107285-expert-animal-sniper.json](./107285-expert-animal-sniper.json) |
 | Expert Chess | 93361 | [93361-expert-chess.json](./93361-expert-chess.json) |
 | Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
