@@ -8204,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five: Champions of Canaan | 32324 | [32324-five-champions-of-canaan.json](./32324-five-champions-of-canaan.json) |
 | Five: Esports Manager Game | 199957 | [199957-five-esports-manager-game.json](./199957-five-esports-manager-game.json) |
 | Five: Guardians of David | 20205 | [20205-five-guardians-of-david.json](./20205-five-guardians-of-david.json) |
+| FiveFold Fury | 419254 | [419254-fivefold-fury.json](./419254-fivefold-fury.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
 | Fives | 397478 | [397478-fives.json](./397478-fives.json) |
 | FiveSeven | 222727 | [222727-fiveseven.json](./222727-fiveseven.json) |
@@ -8901,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight 787: Advanced | 197630 | [197630-flight-787-advanced.json](./197630-flight-787-advanced.json) |
 | Flight Academy | 62999 | [62999-flight-academy.json](./62999-flight-academy.json) |
 | Flight Assignment: Airline Transport Pilot | 80275 | [80275-flight-assignment-airline-transport-pilot.json](./80275-flight-assignment-airline-transport-pilot.json) |
+| Flight Assist Off Race | 419300 | [419300-flight-assist-off-race.json](./419300-flight-assist-off-race.json) |
 | Flight Attendant Simulator | 153905 | [153905-flight-attendant-simulator.json](./153905-flight-attendant-simulator.json) |
 | Flight Attendant Simulator: Onboard Tasks | 310365 | [310365-flight-attendant-simulator-onboard-tasks.json](./310365-flight-attendant-simulator-onboard-tasks.json) |
 | Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
