@@ -8542,6 +8542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exaverse | 397601 | [397601-exaverse.json](./397601-exaverse.json) |
 | Exc. Reigai Jishou Kanshikyoku | 405018 | [405018-exc-reigai-jishou-kanshikyoku.json](./405018-exc-reigai-jishou-kanshikyoku.json) |
 | Exc.: Reigai Jishou Kanshikyoku | 401157 | [401157-exc-reigai-jishou-kanshikyoku.json](./401157-exc-reigai-jishou-kanshikyoku.json) |
+| Exc3lsior | 39899 | [39899-exc3lsior.json](./39899-exc3lsior.json) |
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
 | Excalibots | 135712 | [135712-excalibots.json](./135712-excalibots.json) |
 | ExcaliBug | 71155 | [71155-excalibug.json](./71155-excalibug.json) |
@@ -9425,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Dash | 262468 | [262468-extreme-dash.json](./262468-extreme-dash.json) |
 | Extreme Dash: Reloaded | 99453 | [99453-extreme-dash-reloaded.json](./99453-extreme-dash-reloaded.json) |
 | Extreme Demolition | 78541 | [78541-extreme-demolition.json](./78541-extreme-demolition.json) |
+| Extreme Downhill | 39898 | [39898-extreme-downhill.json](./39898-extreme-downhill.json) |
 | Extreme Drift Car Driving | 108226 | [108226-extreme-drift-car-driving.json](./108226-extreme-drift-car-driving.json) |
 | Extreme Drifters | 105161 | [105161-extreme-drifters.json](./105161-extreme-drifters.json) |
 | Extreme Escape | 135660 | [135660-extreme-escape.json](./135660-extreme-escape.json) |
@@ -9554,6 +9556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | ExZeus | 92099 | [92099-exzeus.json](./92099-exzeus.json) |
 | ExZeus 2 | 47129 | [47129-exzeus-2.json](./47129-exzeus-2.json) |
+| Exzisus | 39896 | [39896-exzisus.json](./39896-exzisus.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eyad and Hala | 186182 | [186182-eyad-and-hala.json](./186182-eyad-and-hala.json) |
