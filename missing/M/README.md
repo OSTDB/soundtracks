@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dojo | 29627 | [29627-mad-dojo.json](./29627-mad-dojo.json) |
 | Mad Donna | 40366 | [40366-mad-donna.json](./40366-mad-donna.json) |
 | Mad Driver | 55708 | [55708-mad-driver.json](./55708-mad-driver.json) |
+| Mad Dvizhuha: Benzovoz | 425906 | [425906-mad-dvizhuha-benzovoz.json](./425906-mad-dvizhuha-benzovoz.json) |
 | Mad Ever After | 412748 | [412748-mad-ever-after.json](./412748-mad-ever-after.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
@@ -2577,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Mailbound | 345796 | [345796-mailbound.json](./345796-mailbound.json) |
 | Mailbox | 126719 | [126719-mailbox.json](./126719-mailbox.json) |
+| Mailed It! | 425924 | [425924-mailed-it.json](./425924-mailed-it.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
 | Mailing List | 86168 | [86168-mailing-list.json](./86168-mailing-list.json) |
 | Mailman | 203577 | [203577-mailman.json](./203577-mailman.json) |
@@ -14693,6 +14695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Mario & Friends: Amiibo Challenge | 18195 | [18195-mini-mario-and-friends-amiibo-challenge.json](./18195-mini-mario-and-friends-amiibo-challenge.json) |
 | Mini Market Design | 329426 | [329426-mini-market-design.json](./329426-mini-market-design.json) |
+| Mini Market Tidy Up | 425926 | [425926-mini-market-tidy-up.json](./425926-mini-market-tidy-up.json) |
 | Mini Mart | 216606 | [216606-mini-mart.json](./216606-mini-mart.json) |
 | Mini Mart Survivors | 413122 | [413122-mini-mart-survivors.json](./413122-mini-mart-survivors.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
@@ -22050,6 +22053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa: Revenant Blades | 405445 | [405445-muramasa-revenant-blades.json](./405445-muramasa-revenant-blades.json) |
 | Muramasa: The Demon Blade | 2266 | [2266-muramasa-the-demon-blade.json](./2266-muramasa-the-demon-blade.json) |
 | Muraphilic Monophobic Multiban | 422172 | [422172-muraphilic-monophobic-multiban.json](./422172-muraphilic-monophobic-multiban.json) |
+| Murarz | 425917 | [425917-murarz.json](./425917-murarz.json) |
 | Murasa no Block Puzzle | 210419 | [210419-murasa-no-block-puzzle.json](./210419-murasa-no-block-puzzle.json) |
 | Murasaki | 34678 | [34678-murasaki.json](./34678-murasaki.json) |
 | Murasaki Baby | 19926 | [19926-murasaki-baby.json](./19926-murasaki-baby.json) |
