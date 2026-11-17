@@ -12293,6 +12293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Cars Online | 86145 | [86145-blocky-cars-online.json](./86145-blocky-cars-online.json) |
 | Blocky Cars Speed Racer: Underground Highway Reckless Edition | 175504 | [175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json](./175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json) |
 | Blocky Castle: Tower Challenge | 188304 | [188304-blocky-castle-tower-challenge.json](./188304-blocky-castle-tower-challenge.json) |
+| Blocky Colony | 426512 | [426512-blocky-colony.json](./426512-blocky-colony.json) |
 | Blocky Cops | 102697 | [102697-blocky-cops.json](./102697-blocky-cops.json) |
 | Blocky Dungeon | 203913 | [203913-blocky-dungeon.json](./203913-blocky-dungeon.json) |
 | Blocky Fills | 255168 | [255168-blocky-fills.json](./255168-blocky-fills.json) |
@@ -15335,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreas | 258571 | [258571-boreas.json](./258571-boreas.json) |
 | Bored Meeting | 80262 | [80262-bored-meeting.json](./80262-bored-meeting.json) |
 | Bored of the Rings | 12941 | [12941-bored-of-the-rings.json](./12941-bored-of-the-rings.json) |
+| Bored to Depth | 426470 | [426470-bored-to-depth.json](./426470-bored-to-depth.json) |
 | Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | Boredom Survivors | 365264 | [365264-boredom-survivors.json](./365264-boredom-survivors.json) |
@@ -15370,6 +15372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boris the Mutant Bear with a Gun | 104024 | [104024-boris-the-mutant-bear-with-a-gun.json](./104024-boris-the-mutant-bear-with-a-gun.json) |
 | Boris the Rocket | 139602 | [139602-boris-the-rocket.json](./139602-boris-the-rocket.json) |
 | Boris the Sloth | 192328 | [192328-boris-the-sloth.json](./192328-boris-the-sloth.json) |
+| Bork: A Text Adventure | 426500 | [426500-bork-a-text-adventure.json](./426500-bork-a-text-adventure.json) |
 | Born 2 Run : Legend of Destiny | 118203 | [118203-born-2-run-legend-of-destiny.json](./118203-born-2-run-legend-of-destiny.json) |
 | Born Again | 241695 | [241695-born-again.json](./241695-born-again.json) |
 | Born Anew | 211257 | [211257-born-anew.json](./211257-born-anew.json) |
