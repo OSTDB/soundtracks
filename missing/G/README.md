@@ -5103,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Adventure | 181738 | [181738-girl-adventure.json](./181738-girl-adventure.json) |
 | Girl Agent | 157429 | [157429-girl-agent.json](./157429-girl-agent.json) |
 | Girl Amazon Survival | 35159 | [35159-girl-amazon-survival.json](./35159-girl-amazon-survival.json) |
+| Girl and Boy dressup miraculous games | 99249 | [99249-girl-and-boy-dressup-miraculous-games.json](./99249-girl-and-boy-dressup-miraculous-games.json) |
 | Girl and Chainsaw | 219328 | [219328-girl-and-chainsaw.json](./219328-girl-and-chainsaw.json) |
 | Girl and chocolate | 82519 | [82519-girl-and-chocolate.json](./82519-girl-and-chocolate.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
@@ -12688,6 +12689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Arcade: City Crisis VR | 307424 | [307424-guns-arcade-city-crisis-vr.json](./307424-guns-arcade-city-crisis-vr.json) |
 | Guns are Funs | 309835 | [309835-guns-are-funs.json](./309835-guns-are-funs.json) |
 | Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
+| Guns Battle Royale | 99236 | [99236-guns-battle-royale.json](./99236-guns-battle-royale.json) |
 | Guns Blazing | 157370 | [157370-guns-blazing.json](./157370-guns-blazing.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Cant Walk | 365365 | [365365-guns-cant-walk.json](./365365-guns-cant-walk.json) |
