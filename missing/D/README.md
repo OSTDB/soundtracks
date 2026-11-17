@@ -7304,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Burst | 396713 | [396713-demon-burst.json](./396713-demon-burst.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
 | Demon Castle Story | 381568 | [381568-demon-castle-story.json](./381568-demon-castle-story.json) |
+| Demon Chaos | 72861 | [72861-demon-chaos.json](./72861-demon-chaos.json) |
 | Demon Club | 115814 | [115814-demon-club.json](./115814-demon-club.json) |
 | Demon Compass | 323594 | [323594-demon-compass.json](./323594-demon-compass.json) |
 | Demon Contract Warrior | 367677 | [367677-demon-contract-warrior.json](./367677-demon-contract-warrior.json) |
@@ -17301,6 +17302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
 | Dragon Saikyou Ouzukan: Battle Colosseum | 306192 | [306192-dragon-saikyou-ouzukan-battle-colosseum.json](./306192-dragon-saikyou-ouzukan-battle-colosseum.json) |
 | Dragon Saiyan Warrior | 100783 | [100783-dragon-saiyan-warrior.json](./100783-dragon-saiyan-warrior.json) |
+| Dragon Scape | 74557 | [74557-dragon-scape.json](./74557-dragon-scape.json) |
 | Dragon Scroll | 233256 | [233256-dragon-scroll.json](./233256-dragon-scroll.json) |
 | Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
 | Dragon Seeds | 45008 | [45008-dragon-seeds.json](./45008-dragon-seeds.json) |
