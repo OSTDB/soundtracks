@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Meisters | 60100 | [60100-magic-meisters.json](./60100-magic-meisters.json) |
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
 | Magic Mermaid | 89201 | [89201-magic-mermaid.json](./89201-magic-mermaid.json) |
+| Magic Mess: Restore Order to the Wizard's Tower! | 419676 | [419676-magic-mess-restore-order-to-the-wizards-tower.json](./419676-magic-mess-restore-order-to-the-wizards-tower.json) |
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
 | Magic Miguel | 59539 | [59539-magic-miguel.json](./59539-magic-miguel.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Mancalero | 413333 | [413333-mancalero.json](./413333-mancalero.json) |
+| Mancave | 419691 | [419691-mancave.json](./419691-mancave.json) |
 | Mancers of Magic | 295765 | [295765-mancers-of-magic.json](./295765-mancers-of-magic.json) |
 | Manchester Beat | 245104 | [245104-manchester-beat.json](./245104-manchester-beat.json) |
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
@@ -16838,6 +16840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
 | Modular Combat | 174412 | [174412-modular-combat.json](./174412-modular-combat.json) |
 | Modular Delight | 413218 | [413218-modular-delight.json](./413218-modular-delight.json) |
+| Modularis | 419699 | [419699-modularis.json](./419699-modularis.json) |
 | Modularity | 395260 | [395260-modularity.json](./395260-modularity.json) |
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
@@ -23611,6 +23614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home - Design Dreams | 107000 | [107000-my-home-design-dreams.json](./107000-my-home-design-dreams.json) |
 | My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
 | My Home Dream | 384769 | [384769-my-home-dream.json](./384769-my-home-dream.json) |
+| My Home Dream 2 | 419694 | [419694-my-home-dream-2.json](./419694-my-home-dream-2.json) |
 | My Home Makeover: House Games | 294634 | [294634-my-home-makeover-house-games.json](./294634-my-home-makeover-house-games.json) |
 | My Home Poltergeist | 158692 | [158692-my-home-poltergeist.json](./158692-my-home-poltergeist.json) |
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
