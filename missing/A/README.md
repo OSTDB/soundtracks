@@ -5072,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
 | AFK Summoner | 179206 | [179206-afk-summoner.json](./179206-afk-summoner.json) |
+| AFK: Army For Keyboard | 418144 | [418144-afk-army-for-keyboard.json](./418144-afk-army-for-keyboard.json) |
 | AFKTower | 420200 | [420200-afktower.json](./420200-afktower.json) |
 | AFL | 4662 | [4662-afl.json](./4662-afl.json) |
 | AFL '98 | 79493 | [79493-afl-98.json](./79493-afl-98.json) |
@@ -6004,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agujero | 296846 | [296846-agujero.json](./296846-agujero.json) |
 | Aguni: Unmei no Saki | 413839 | [413839-aguni-unmei-no-saki.json](./413839-aguni-unmei-no-saki.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
+| Agustín Malandra TCG | 418177 | [418177-agustin-malandra-tcg.json](./418177-agustin-malandra-tcg.json) |
 | AGwaK Adventures | 313574 | [313574-agwak-adventures.json](./313574-agwak-adventures.json) |
 | AGX GP | 387614 | [387614-agx-gp.json](./387614-agx-gp.json) |
 | Ah Diddums | 13940 | [13940-ah-diddums.json](./13940-ah-diddums.json) |
