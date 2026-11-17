@@ -12660,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy Trouble | 374444 | [374444-foxy-trouble.json](./374444-foxy-trouble.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
+| Foxy's Potion Shop | 421697 | [421697-foxys-potion-shop.json](./421697-foxys-potion-shop.json) |
 | Foxyland 2 | 116875 | [116875-foxyland-2.json](./116875-foxyland-2.json) |
 | Foxyland Collection | 137252 | [137252-foxyland-collection.json](./137252-foxyland-collection.json) |
 | FoxyRush | 289658 | [289658-foxyrush.json](./289658-foxyrush.json) |
