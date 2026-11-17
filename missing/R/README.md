@@ -7977,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
 | Ribbon | 121779 | [121779-ribbon.json](./121779-ribbon.json) |
 | Ribbon Hero 2: Clippy's Second Chance | 307359 | [307359-ribbon-hero-2-clippys-second-chance.json](./307359-ribbon-hero-2-clippys-second-chance.json) |
+| Ribbon Level Pack! | 428894 | [428894-ribbon-level-pack.json](./428894-ribbon-level-pack.json) |
 | Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
 | Ribbon Racer | 110664 | [110664-ribbon-racer.json](./110664-ribbon-racer.json) |
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
@@ -14722,6 +14723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russpuppy Kid Games | 107522 | [107522-russpuppy-kid-games.json](./107522-russpuppy-kid-games.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
+| Rust & Reveal: Restoration Simulator | 428916 | [428916-rust-and-reveal-restoration-simulator.json](./428916-rust-and-reveal-restoration-simulator.json) |
 | Rust & Roots | 370442 | [370442-rust-and-roots.json](./370442-rust-and-roots.json) |
 | Rust and Resolve | 244213 | [244213-rust-and-resolve.json](./244213-rust-and-resolve.json) |
 | Rust Buccaneers | 52812 | [52812-rust-buccaneers.json](./52812-rust-buccaneers.json) |
