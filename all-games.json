@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T05:26:06.091Z",
-  "total_soundtracks": 3532,
+  "generated_at": "2026-11-17T05:36:13.321Z",
+  "total_soundtracks": 3535,
   "games": [
     {
       "igdb_id": 292844,
@@ -2011,6 +2011,20 @@
         {
           "album_name": "ANTONBLAST Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4x4PyTOPgMtIVjRyoxTSzj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 314709,
+      "game_name": "Apartment Story",
+      "game_url": "https://ostdb.net/games/apartment-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ee8efd0c1205ad81e82698d1",
+      "albums": [
+        {
+          "album_name": "Apartment Story (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6s5hKm8YVCBC5iubrHpEs2",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31949,6 +31963,20 @@
       ]
     },
     {
+      "igdb_id": 314929,
+      "game_name": "Sea of Stars: Throes of the Watchmaker",
+      "game_url": "https://ostdb.net/games/sea-of-stars-throes-of-the-watchmaker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730fce84e8e73f5ae5254b7e34",
+      "albums": [
+        {
+          "album_name": "Sea Of Stars: Throes of the Watchmaker (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0YMfJb4Ijht4dKLEVHUU2D",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11137,
       "game_name": "Sea of Thieves",
       "game_url": "https://ostdb.net/games/sea-of-thieves",
@@ -44217,6 +44245,20 @@
         {
           "album_name": "WILL: Follow the Light (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0H4P5hrvaTONKH5Jv6nr3M",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 314431,
+      "game_name": "Wilmot Works It Out",
+      "game_url": "https://ostdb.net/games/wilmot-works-it-out",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eca0921372ff56c24bb3abea",
+      "albums": [
+        {
+          "album_name": "Wilmot Works It Out (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3DMP0kFQt5BFaK3M5B7WM6",
           "apple_music_url": "",
           "album_link_url": ""
         }
