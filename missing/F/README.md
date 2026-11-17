@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Legion: Flames of Rebellion | 52018 | [52018-fallen-legion-flames-of-rebellion.json](./52018-fallen-legion-flames-of-rebellion.json) |
 | Fallen Legion: Rise to Glory | 78128 | [78128-fallen-legion-rise-to-glory.json](./78128-fallen-legion-rise-to-glory.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
+| Fallen Legion: Rise to Glory - Exemplary Edition | 78129 | [78129-fallen-legion-rise-to-glory-exemplary-edition.json](./78129-fallen-legion-rise-to-glory-exemplary-edition.json) |
 | Fallen Legion: Rise to Glory / Fallen Legion Revenants - Deluxe Edition | 197611 | [197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json](./197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json) |
 | Fallen Legion: Sins of an Empire | 19617 | [19617-fallen-legion-sins-of-an-empire.json](./19617-fallen-legion-sins-of-an-empire.json) |
 | Fallen Light | 297956 | [297956-fallen-light.json](./297956-fallen-light.json) |
