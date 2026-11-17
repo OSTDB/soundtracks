@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical Mic Duel: Senpai, Hear My Spell | 288167 | [288167-magical-mic-duel-senpai-hear-my-spell.json](./288167-magical-mic-duel-senpai-hear-my-spell.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
+| Magical Miri | 131682 | [131682-magical-miri.json](./131682-magical-miri.json) |
 | Magical Mishaps | 397501 | [397501-magical-mishaps.json](./397501-magical-mishaps.json) |
 | Magical Monster Land | 110671 | [110671-magical-monster-land.json](./110671-magical-monster-land.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
@@ -4909,7 +4910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marki Game Collection | 260243 | [260243-marki-game-collection.json](./260243-marki-game-collection.json) |
 | Markiplier Montage | 378843 | [378843-markiplier-montage.json](./378843-markiplier-montage.json) |
 | Marko | 19774 | [19774-marko.json](./19774-marko.json) |
-| Marko: Beyond Brave | 223167 | [223167-marko-beyond-brave.json](./223167-marko-beyond-brave.json) |
 | Marko's Magic Football | 368608 | [368608-markos-magic-football.json](./368608-markos-magic-football.json) |
 | Markov Alg | 178829 | [178829-markov-alg.json](./178829-markov-alg.json) |
 | Marks of Ki | 384349 | [384349-marks-of-ki.json](./384349-marks-of-ki.json) |
@@ -7380,6 +7380,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
 | Me && Mory | 341287 | [341287-me-and-and-mory.json](./341287-me-and-and-mory.json) |
 | Me Alone Reissue | 203843 | [203843-me-alone-reissue.json](./203843-me-alone-reissue.json) |
+| Me and (My) Cat's Castle | 131666 | [131666-me-and-my-cats-castle.json](./131666-me-and-my-cats-castle.json) |
+| Me and (My) Cat's Castle X | 131665 | [131665-me-and-my-cats-castle-x.json](./131665-me-and-my-cats-castle-x.json) |
 | Me and Dungeons | 103772 | [103772-me-and-dungeons.json](./103772-me-and-dungeons.json) |
 | Me and Gamer Girl | 323102 | [323102-me-and-gamer-girl.json](./323102-me-and-gamer-girl.json) |
 | Me And Gamer Girl: Gamer-joshi to Hikikomori | 324197 | [324197-me-and-gamer-girl-gamer-joshi-to-hikikomori.json](./324197-me-and-gamer-girl-gamer-joshi-to-hikikomori.json) |
@@ -10545,6 +10547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Saga Chronicles: Physical Edition | 109435 | [109435-mercenaries-saga-chronicles-physical-edition.json](./109435-mercenaries-saga-chronicles-physical-edition.json) |
 | Mercenaries Saga: Will of the White Lions | 258121 | [258121-mercenaries-saga-will-of-the-white-lions.json](./258121-mercenaries-saga-will-of-the-white-lions.json) |
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
+| Mercenaries VR | 131659 | [131659-mercenaries-vr.json](./131659-mercenaries-vr.json) |
 | Mercenaries Wings: The False Phoenix | 104789 | [104789-mercenaries-wings-the-false-phoenix.json](./104789-mercenaries-wings-the-false-phoenix.json) |
 | Mercenaries: 4th Generation Warfare | 212677 | [212677-mercenaries-4th-generation-warfare.json](./212677-mercenaries-4th-generation-warfare.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
@@ -13978,6 +13981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Combat | 213819 | [213819-mine-combat.json](./213819-mine-combat.json) |
 | Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
+| Mine Dungeon | 131648 | [131648-mine-dungeon.json](./131648-mine-dungeon.json) |
 | Mine Dungeon 2: Rurumu's trip | 169620 | [169620-mine-dungeon-2-rurumus-trip.json](./169620-mine-dungeon-2-rurumus-trip.json) |
 | Mine Empire | 404432 | [404432-mine-empire.json](./404432-mine-empire.json) |
 | Mine Escape | 409713 | [409713-mine-escape.json](./409713-mine-escape.json) |
