@@ -3079,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malice | 246008 | [246008-malice.json](./246008-malice.json) |
 | Malice | 5908 | [5908-malice.json](./5908-malice.json) |
 | Malice & Greed | 143568 | [143568-malice-and-greed.json](./143568-malice-and-greed.json) |
+| Malice for Quake | 71652 | [71652-malice-for-quake.json](./71652-malice-for-quake.json) |
 | Malice in Wonderland | 403366 | [403366-malice-in-wonderland.json](./403366-malice-in-wonderland.json) |
 | Malice Within | 337590 | [337590-malice-within.json](./337590-malice-within.json) |
 | Malice: Two Sisters | 125641 | [125641-malice-two-sisters.json](./125641-malice-two-sisters.json) |
@@ -3912,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Madness | 301853 | [301853-marble-madness.json](./301853-marble-madness.json) |
 | Marble Madness / Klax | 79831 | [79831-marble-madness-klax.json](./79831-marble-madness-klax.json) |
 | Marble Madness Construction Set | 72280 | [72280-marble-madness-construction-set.json](./72280-marble-madness-construction-set.json) |
+| Marble Madness: Deluxe Edition | 71633 | [71633-marble-madness-deluxe-edition.json](./71633-marble-madness-deluxe-edition.json) |
 | Marble Mage | 166709 | [166709-marble-mage.json](./166709-marble-mage.json) |
 | Marble Magicks | 259750 | [259750-marble-magicks.json](./259750-marble-magicks.json) |
 | Marble Maid | 160223 | [160223-marble-maid.json](./160223-marble-maid.json) |
@@ -5234,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes | 220262 | [220262-marvel-heroes.json](./220262-marvel-heroes.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
 | Marvel Heroes | 50867 | [50867-marvel-heroes.json](./50867-marvel-heroes.json) |
+| Marvel Heroes | 70517 | [70517-marvel-heroes.json](./70517-marvel-heroes.json) |
 | Marvel Heroes Omega | 28080 | [28080-marvel-heroes-omega.json](./28080-marvel-heroes-omega.json) |
 | Marvel Heroes: 001 - Character: Spider-Man | 363438 | [363438-marvel-heroes-001-character-spider-man.json](./363438-marvel-heroes-001-character-spider-man.json) |
 | Marvel Heroes: 002 - Character: Captain America | 363439 | [363439-marvel-heroes-002-character-captain-america.json](./363439-marvel-heroes-002-character-captain-america.json) |
@@ -8297,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Apocalypse | 22525 | [22525-mega-apocalypse.json](./22525-mega-apocalypse.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Balls | 126711 | [126711-mega-balls.json](./126711-mega-balls.json) |
+| Mega Blast | 71664 | [71664-mega-blast.json](./71664-mega-blast.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bloks Halo | 26731 | [26731-mega-bloks-halo.json](./26731-mega-bloks-halo.json) |
 | Mega Bloks: Diego's Build and Rescue | 209111 | [209111-mega-bloks-diegos-build-and-rescue.json](./209111-mega-bloks-diegos-build-and-rescue.json) |
