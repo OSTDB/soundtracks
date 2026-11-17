@@ -2002,6 +2002,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vholume | 378143 | [378143-vholume.json](./378143-vholume.json) |
 | VHS | 309466 | [309466-vhs.json](./309466-vhs.json) |
 | VHS Bodycam: The Torture Machine | 369152 | [369152-vhs-bodycam-the-torture-machine.json](./369152-vhs-bodycam-the-torture-machine.json) |
+| VHS Chaos: XXX | 429479 | [429479-vhs-chaos-xxx.json](./429479-vhs-chaos-xxx.json) |
+| VHS Chaos: XXX+ | 429477 | [429477-vhs-chaos-xxx.json](./429477-vhs-chaos-xxx.json) |
 | VHS Collection: Goodnight Me | 321460 | [321460-vhs-collection-goodnight-me.json](./321460-vhs-collection-goodnight-me.json) |
 | VHS Nights: The Tidy Up Shift | 419889 | [419889-vhs-nights-the-tidy-up-shift.json](./419889-vhs-nights-the-tidy-up-shift.json) |
 | VHS Platform: 2D | 193133 | [193133-vhs-platform-2d.json](./193133-vhs-platform-2d.json) |
