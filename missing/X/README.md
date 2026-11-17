@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xyphoe’s Nightmare | 354587 | [354587-xyphoe-s-nightmare.json](./354587-xyphoe-s-nightmare.json) |
 | Xyphoes Fantasy | 10854 | [10854-xyphoes-fantasy.json](./10854-xyphoes-fantasy.json) |
 | Xyphr | 71812 | [71812-xyphr.json](./71812-xyphr.json) |
+| Xyphus | 25231 | [25231-xyphus.json](./25231-xyphus.json) |
 | Xyz Crossing | 214149 | [214149-xyz-crossing.json](./214149-xyz-crossing.json) |
 | XYZ Toy | 400381 | [400381-xyz-toy.json](./400381-xyz-toy.json) |
 | Xyzolog | 41766 | [41766-xyzolog.json](./41766-xyzolog.json) |
