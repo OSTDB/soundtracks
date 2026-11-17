@@ -8006,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertech Sandbox | 102662 | [102662-evertech-sandbox.json](./102662-evertech-sandbox.json) |
 | Evertile: Battle Arena | 122463 | [122463-evertile-battle-arena.json](./122463-evertile-battle-arena.json) |
 | Evertown | 33782 | [33782-evertown.json](./33782-evertown.json) |
+| Evertrail | 420409 | [420409-evertrail.json](./420409-evertrail.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
 | Evertwine | 206877 | [206877-evertwine.json](./206877-evertwine.json) |
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
