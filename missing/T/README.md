@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tauronos | 50543 | [50543-tauronos.json](./50543-tauronos.json) |
 | Taurus VR | 127776 | [127776-taurus-vr.json](./127776-taurus-vr.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
+| Taut | 145069 | [145069-taut.json](./145069-taut.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
 | Tavern Adventures | 391397 | [391397-tavern-adventures.json](./391397-tavern-adventures.json) |
 | Tavern Brawl: Tactics | 239981 | [239981-tavern-brawl-tactics.json](./239981-tavern-brawl-tactics.json) |
@@ -13200,7 +13201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
 | The Knight's Path | 258981 | [258981-the-knights-path.json](./258981-the-knights-path.json) |
 | The Knight's Tour | 422008 | [422008-the-knights-tour.json](./422008-the-knights-tour.json) |
-| The Knightling | 313587 | [313587-the-knightling.json](./313587-the-knightling.json) |
 | The Knights of Dice | 184469 | [184469-the-knights-of-dice.json](./184469-the-knights-of-dice.json) |
 | The Knights of the Cross | 394556 | [394556-the-knights-of-the-cross.json](./394556-the-knights-of-the-cross.json) |
 | The Knights Quest | 143467 | [143467-the-knights-quest.json](./143467-the-knights-quest.json) |
@@ -14713,6 +14713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Path | 220693 | [220693-the-longest-path.json](./220693-the-longest-path.json) |
 | The Longest Road | 177846 | [177846-the-longest-road.json](./177846-the-longest-road.json) |
 | The Longest Road | 364671 | [364671-the-longest-road.json](./364671-the-longest-road.json) |
+| The Longest Road on Earth | 145079 | [145079-the-longest-road-on-earth.json](./145079-the-longest-road-on-earth.json) |
 | The Longest Road on Earth: Backstage Edition | 159695 | [159695-the-longest-road-on-earth-backstage-edition.json](./159695-the-longest-road-on-earth-backstage-edition.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
 | The Longest Tale | 338110 | [338110-the-longest-tale.json](./338110-the-longest-tale.json) |
