@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Logic 3D | 206036 | [206036-magic-logic-3d.json](./206036-magic-logic-3d.json) |
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Madness | 337527 | [337527-magic-madness.json](./337527-magic-madness.json) |
+| Magic Madness | 51466 | [51466-magic-madness.json](./51466-magic-madness.json) |
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
 | Magic Manny | 159513 | [159513-magic-manny.json](./159513-magic-manny.json) |
 | Magic Mansion | 113952 | [113952-magic-mansion.json](./113952-magic-mansion.json) |
@@ -19029,6 +19030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moondust: Knuckles Tech Demos | 127835 | [127835-moondust-knuckles-tech-demos.json](./127835-moondust-knuckles-tech-demos.json) |
 | Moonfall | 190794 | [190794-moonfall.json](./190794-moonfall.json) |
 | Moonfall | 270603 | [270603-moonfall.json](./270603-moonfall.json) |
+| Moonfall | 51470 | [51470-moonfall.json](./51470-moonfall.json) |
 | Moonfall Voyage | 264052 | [264052-moonfall-voyage.json](./264052-moonfall-voyage.json) |
 | MoonFall: Butterfly Lovers | 190099 | [190099-moonfall-butterfly-lovers.json](./190099-moonfall-butterfly-lovers.json) |
 | Moonfang | 175751 | [175751-moonfang.json](./175751-moonfang.json) |
