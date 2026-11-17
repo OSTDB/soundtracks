@@ -13414,6 +13414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends Mobile | 118210 | [118210-apex-legends-mobile.json](./118210-apex-legends-mobile.json) |
 | Apex Legends Mobile: Champions | 236657 | [236657-apex-legends-mobile-champions.json](./236657-apex-legends-mobile-champions.json) |
 | Apex Legends Mobile: Cold Snap | 211298 | [211298-apex-legends-mobile-cold-snap.json](./211298-apex-legends-mobile-cold-snap.json) |
+| Apex Legends Mobile: Distortion | 211299 | [211299-apex-legends-mobile-distortion.json](./211299-apex-legends-mobile-distortion.json) |
 | Apex Legends Mobile: Prime Time | 211297 | [211297-apex-legends-mobile-prime-time.json](./211297-apex-legends-mobile-prime-time.json) |
 | Apex Legends Overclocked | 408527 | [408527-apex-legends-overclocked.json](./408527-apex-legends-overclocked.json) |
 | Apex Legends Showdown | 396542 | [396542-apex-legends-showdown.json](./396542-apex-legends-showdown.json) |
@@ -19643,6 +19644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrium Mortis | 372500 | [372500-atrium-mortis.json](./372500-atrium-mortis.json) |
 | Atrius Star | 149673 | [149673-atrius-star.json](./149673-atrius-star.json) |
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
+| Atrocity | 206870 | [206870-atrocity.json](./206870-atrocity.json) |
 | Atrocity Arise | 271535 | [271535-atrocity-arise.json](./271535-atrocity-arise.json) |
 | Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
 | Atrofil: The Key | 127243 | [127243-atrofil-the-key.json](./127243-atrofil-the-key.json) |
