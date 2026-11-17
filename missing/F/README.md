@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith | 84197 | [84197-faith.json](./84197-faith.json) |
 | Faith & Shield: 4044 Tower Defense | 201519 | [201519-faith-and-shield-4044-tower-defense.json](./201519-faith-and-shield-4044-tower-defense.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
+| Faith and a .45 | 80705 | [80705-faith-and-a-45.json](./80705-faith-and-a-45.json) |
 | Faith Fighter | 71391 | [71391-faith-fighter.json](./71391-faith-fighter.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
 | Faith in Despair | 287907 | [287907-faith-in-despair.json](./287907-faith-in-despair.json) |
@@ -4025,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
 | Fear Me: The Silent | 331355 | [331355-fear-me-the-silent.json](./331355-fear-me-the-silent.json) |
+| Fear Mythos: The RPG | 80648 | [80648-fear-mythos-the-rpg.json](./80648-fear-mythos-the-rpg.json) |
 | Fear Night Tales: Camp Story | 429363 | [429363-fear-night-tales-camp-story.json](./429363-fear-night-tales-camp-story.json) |
 | Fear Night Tales: Do You Like Coffee? | 389521 | [389521-fear-night-tales-do-you-like-coffee.json](./389521-fear-night-tales-do-you-like-coffee.json) |
 | Fear Odyssey | 290887 | [290887-fear-odyssey.json](./290887-fear-odyssey.json) |
@@ -4992,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA International Soccer | 240239 | [240239-fifa-international-soccer.json](./240239-fifa-international-soccer.json) |
 | FIFA Manager 06 | 20675 | [20675-fifa-manager-06.json](./20675-fifa-manager-06.json) |
 | FIFA Manager 07 | 20676 | [20676-fifa-manager-07.json](./20676-fifa-manager-07.json) |
+| FIFA Manager 07: Extra Time | 80678 | [80678-fifa-manager-07-extra-time.json](./80678-fifa-manager-07-extra-time.json) |
 | FIFA Manager 08 | 20678 | [20678-fifa-manager-08.json](./20678-fifa-manager-08.json) |
 | FIFA Manager 09 | 20679 | [20679-fifa-manager-09.json](./20679-fifa-manager-09.json) |
 | FIFA Manager 10 | 20680 | [20680-fifa-manager-10.json](./20680-fifa-manager-10.json) |
@@ -15633,6 +15636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Immersion | 227608 | [227608-furry-immersion.json](./227608-furry-immersion.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
 | Furry Knight Break | 221479 | [221479-furry-knight-break.json](./221479-furry-knight-break.json) |
+| Furry Legends | 80652 | [80652-furry-legends.json](./80652-furry-legends.json) |
 | Furry Legends: Beginnings | 67733 | [67733-furry-legends-beginnings.json](./67733-furry-legends-beginnings.json) |
 | Furry Love | 137228 | [137228-furry-love.json](./137228-furry-love.json) |
 | Furry Love | 266571 | [266571-furry-love.json](./266571-furry-love.json) |
@@ -15964,6 +15968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Card Buddyfight: Yuujou no Bakunetsu Fight! | 222457 | [222457-future-card-buddyfight-yuujou-no-bakunetsu-fight.json](./222457-future-card-buddyfight-yuujou-no-bakunetsu-fight.json) |
 | Future Cat Sailor | 298814 | [298814-future-cat-sailor.json](./298814-future-cat-sailor.json) |
 | Future City Coaster | 93753 | [93753-future-city-coaster.json](./93753-future-city-coaster.json) |
+| Future Classics Collection | 80687 | [80687-future-classics-collection.json](./80687-future-classics-collection.json) |
 | Future Classics: 1986 Edition | 61840 | [61840-future-classics-1986-edition.json](./61840-future-classics-1986-edition.json) |
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
 | Future Daoshi | 226565 | [226565-future-daoshi.json](./226565-future-daoshi.json) |
