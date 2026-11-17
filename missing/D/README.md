@@ -3274,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DawnCraft | 272073 | [272073-dawncraft.json](./272073-dawncraft.json) |
 | Dawndusk Dream Sewer | 134773 | [134773-dawndusk-dream-sewer.json](./134773-dawndusk-dream-sewer.json) |
 | Dawnfall | 129925 | [129925-dawnfall.json](./129925-dawnfall.json) |
+| Dawnforge Nightfall | 426520 | [426520-dawnforge-nightfall.json](./426520-dawnforge-nightfall.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawngazer | 419735 | [419735-dawngazer.json](./419735-dawngazer.json) |
 | Dawngrown | 148578 | [148578-dawngrown.json](./148578-dawngrown.json) |
@@ -13672,6 +13673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon Journey | 21121 | [21121-dokapon-journey.json](./21121-dokapon-journey.json) |
 | Dokapon Kingdom | 4816 | [4816-dokapon-kingdom.json](./4816-dokapon-kingdom.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
+| Dokapon Kingdom: Connect 2 | 426508 | [426508-dokapon-kingdom-connect-2.json](./426508-dokapon-kingdom-connect-2.json) |
 | Dokapon the World | 63153 | [63153-dokapon-the-world.json](./63153-dokapon-the-world.json) |
 | Dokapon UP! Mugen no Roulette | 139184 | [139184-dokapon-up-mugen-no-roulette.json](./139184-dokapon-up-mugen-no-roulette.json) |
 | Dokapon UP! Mugen no Roulette: Premium Limited Edition | 167014 | [167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json](./167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json) |
