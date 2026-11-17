@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bash Sports Online Bowling | 214339 | [214339-bash-sports-online-bowling.json](./214339-bash-sports-online-bowling.json) |
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
 | Bash The Party | 381960 | [381960-bash-the-party.json](./381960-bash-the-party.json) |
+| Bash the Teacher! | 186927 | [186927-bash-the-teacher.json](./186927-bash-the-teacher.json) |
 | Bash Your Lord | 58118 | [58118-bash-your-lord.json](./58118-bash-your-lord.json) |
 | Basha Baloot | 126270 | [126270-basha-baloot.json](./126270-basha-baloot.json) |
 | Basha Card Game Collection | 126272 | [126272-basha-card-game-collection.json](./126272-basha-card-game-collection.json) |
@@ -5808,6 +5809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
 | Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
 | Beastie Bay | 22184 | [22184-beastie-bay.json](./22184-beastie-bay.json) |
+| Beastie Bay DX | 186930 | [186930-beastie-bay-dx.json](./186930-beastie-bay-dx.json) |
 | Beastie Land | 148922 | [148922-beastie-land.json](./148922-beastie-land.json) |
 | Beastieball | 252492 | [252492-beastieball.json](./252492-beastieball.json) |
 | Beasties | 192384 | [192384-beasties.json](./192384-beasties.json) |
@@ -8841,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikepark: The Riders Game | 60945 | [60945-bikepark-the-riders-game.json](./60945-bikepark-the-riders-game.json) |
 | Biker Bash | 84990 | [84990-biker-bash.json](./84990-biker-bash.json) |
 | Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
+| Biker Garage: Mechanic Simulator | 186935 | [186935-biker-garage-mechanic-simulator.json](./186935-biker-garage-mechanic-simulator.json) |
 | Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
 | Biker Mice from Mars | 217747 | [217747-biker-mice-from-mars.json](./217747-biker-mice-from-mars.json) |
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
@@ -10004,6 +10007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bittos-e | 67065 | [67065-bittos-e.json](./67065-bittos-e.json) |
 | Bittos+ | 21753 | [21753-bittos.json](./21753-bittos.json) |
 | Bitty Knight | 284006 | [284006-bitty-knight.json](./284006-bitty-knight.json) |
+| BitUp | 188131 | [188131-bitup.json](./188131-bitup.json) |
 | Bitvania | 407038 | [407038-bitvania.json](./407038-bitvania.json) |
 | BitVault | 129682 | [129682-bitvault.json](./129682-bitvault.json) |
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
@@ -17139,6 +17143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadventure | 362504 | [362504-breadventure.json](./362504-breadventure.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break | 170611 | [170611-break.json](./170611-break.json) |
+| Break | 187414 | [187414-break.json](./187414-break.json) |
 | Break | 206489 | [206489-break.json](./206489-break.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
 | Break a Leg | 119934 | [119934-break-a-leg.json](./119934-break-a-leg.json) |
