@@ -9369,6 +9369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Race | 76107 | [76107-christmas-race.json](./76107-christmas-race.json) |
 | Christmas Race 2 | 88197 | [88197-christmas-race-2.json](./88197-christmas-race-2.json) |
 | Christmas Racing | 186573 | [186573-christmas-racing.json](./186573-christmas-racing.json) |
+| Christmas Rampage | 141911 | [141911-christmas-rampage.json](./141911-christmas-rampage.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas Rock'n'Roll | 67848 | [67848-christmas-rocknroll.json](./67848-christmas-rocknroll.json) |
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
@@ -11945,6 +11946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clinical Trial | 326760 | [326760-clinical-trial.json](./326760-clinical-trial.json) |
 | Clinically Dead | 107474 | [107474-clinically-dead.json](./107474-clinically-dead.json) |
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
+| Clint is Not an Incel: A Word on Fatness and Masculinity | 141918 | [141918-clint-is-not-an-incel-a-word-on-fatness-and-masculinity.json](./141918-clint-is-not-an-incel-a-word-on-fatness-and-masculinity.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clioneko | 150188 | [150188-clioneko.json](./150188-clioneko.json) |
@@ -20051,6 +20053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Snow Deluxe | 310030 | [310030-crimson-snow-deluxe.json](./310030-crimson-snow-deluxe.json) |
 | Crimson Song | 239818 | [239818-crimson-song.json](./239818-crimson-song.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
+| Crimson Spires | 143790 | [143790-crimson-spires.json](./143790-crimson-spires.json) |
 | Crimson Spirit | 258153 | [258153-crimson-spirit.json](./258153-crimson-spirit.json) |
 | Crimson Standard | 205865 | [205865-crimson-standard.json](./205865-crimson-standard.json) |
 | Crimson Survival | 89635 | [89635-crimson-survival.json](./89635-crimson-survival.json) |
@@ -20879,6 +20882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucible Trails: Initial Rupture | 87767 | [87767-crucible-trails-initial-rupture.json](./87767-crucible-trails-initial-rupture.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Crucifier | 394410 | [394410-crucifier.json](./394410-crucifier.json) |
+| Crucis Fatal Fake | 140686 | [140686-crucis-fatal-fake.json](./140686-crucis-fatal-fake.json) |
 | Crud | 260997 | [260997-crud.json](./260997-crud.json) |
 | Crude | 171388 | [171388-crude.json](./171388-crude.json) |
 | Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
