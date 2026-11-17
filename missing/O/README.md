@@ -5729,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
 | Outbreak Bundle | 83761 | [83761-outbreak-bundle.json](./83761-outbreak-bundle.json) |
 | Outbreak Co-Op Anthology | 164710 | [164710-outbreak-co-op-anthology.json](./164710-outbreak-co-op-anthology.json) |
+| Outbreak Co-Op Nightmares | 207943 | [207943-outbreak-co-op-nightmares.json](./207943-outbreak-co-op-nightmares.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak Contagion Complete Collection | 341383 | [341383-outbreak-contagion-complete-collection.json](./341383-outbreak-contagion-complete-collection.json) |
 | Outbreak Definitive Collection | 164738 | [164738-outbreak-definitive-collection.json](./164738-outbreak-definitive-collection.json) |
