@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Cat | 119294 | [119294-captain-cat.json](./119294-captain-cat.json) |
 | Captain CigArrr | 192498 | [192498-captain-cigarrr.json](./192498-captain-cigarrr.json) |
 | Captain Clive: Danger From Dione | 138413 | [138413-captain-clive-danger-from-dione.json](./138413-captain-clive-danger-from-dione.json) |
+| Captain Coco: Treasure Island | 428919 | [428919-captain-coco-treasure-island.json](./428919-captain-coco-treasure-island.json) |
 | Captain Coffer 2D | 157474 | [157474-captain-coffer-2d.json](./157474-captain-coffer-2d.json) |
 | Captain CoinCoin | 289281 | [289281-captain-coincoin.json](./289281-captain-coincoin.json) |
 | Captain Collision | 165748 | [165748-captain-collision.json](./165748-captain-collision.json) |
@@ -9909,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chucky: Slash & Dash | 307138 | [307138-chucky-slash-and-dash.json](./307138-chucky-slash-and-dash.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chucky: Wanna Play? | 242162 | [242162-chucky-wanna-play.json](./242162-chucky-wanna-play.json) |
+| Chud Life | 428880 | [428880-chud-life.json](./428880-chud-life.json) |
 | Chud Worm | 421776 | [421776-chud-worm.json](./421776-chud-worm.json) |
 | Chug the Tiny Tugboat | 213548 | [213548-chug-the-tiny-tugboat.json](./213548-chug-the-tiny-tugboat.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
@@ -10783,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
 | City of Wars Powered by Ryu ga Gotoku | 316324 | [316324-city-of-wars-powered-by-ryu-ga-gotoku.json](./316324-city-of-wars-powered-by-ryu-ga-gotoku.json) |
 | City of Wonder | 65952 | [65952-city-of-wonder.json](./65952-city-of-wonder.json) |
+| City Painter | 428906 | [428906-city-painter.json](./428906-city-painter.json) |
 | City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
 | City Park Play Date | 309939 | [309939-city-park-play-date.json](./309939-city-park-play-date.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
@@ -13173,6 +13176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin Rot Brewing Co. | 121291 | [121291-coffin-rot-brewing-co.json](./121291-coffin-rot-brewing-co.json) |
 | Coffin Valley | 400210 | [400210-coffin-valley.json](./400210-coffin-valley.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
+| CoFishing | 428927 | [428927-cofishing.json](./428927-cofishing.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
 | Cog Foo | 310234 | [310234-cog-foo.json](./310234-cog-foo.json) |
 | Cog Hero | 251733 | [251733-cog-hero.json](./251733-cog-hero.json) |
