@@ -3755,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman | 304097 | [304097-batman.json](./304097-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
 | Batman & Robin | 198673 | [198673-batman-and-robin.json](./198673-batman-and-robin.json) |
+| Batman & Robin | 198997 | [198997-batman-and-robin.json](./198997-batman-and-robin.json) |
 | Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
 | Batman & Robin | 234179 | [234179-batman-and-robin.json](./234179-batman-and-robin.json) |
 | Batman & Robin | 79820 | [79820-batman-and-robin.json](./79820-batman-and-robin.json) |
@@ -3770,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Beyond: Return of the Joker | 3444 | [3444-batman-beyond-return-of-the-joker.json](./3444-batman-beyond-return-of-the-joker.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
 | Batman Forever | 19856 | [19856-batman-forever.json](./19856-batman-forever.json) |
+| Batman Forever | 198998 | [198998-batman-forever.json](./198998-batman-forever.json) |
 | Batman Forever | 20809 | [20809-batman-forever.json](./20809-batman-forever.json) |
 | Batman Forever | 77237 | [77237-batman-forever.json](./77237-batman-forever.json) |
 | Batman Forever | 77350 | [77350-batman-forever.json](./77350-batman-forever.json) |
@@ -4008,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena | 358274 | [358274-battle-arena.json](./358274-battle-arena.json) |
 | Battle Arena Nitoushinden | 44773 | [44773-battle-arena-nitoushinden.json](./44773-battle-arena-nitoushinden.json) |
 | Battle Arena Soccer | 188862 | [188862-battle-arena-soccer.json](./188862-battle-arena-soccer.json) |
+| Battle Arena Toshinden | 198999 | [198999-battle-arena-toshinden.json](./198999-battle-arena-toshinden.json) |
 | Battle Arena Toshinden | 217927 | [217927-battle-arena-toshinden.json](./217927-battle-arena-toshinden.json) |
 | Battle Arena Toshinden | 225275 | [225275-battle-arena-toshinden.json](./225275-battle-arena-toshinden.json) |
 | Battle Arena Toshinden 2 | 1414 | [1414-battle-arena-toshinden-2.json](./1414-battle-arena-toshinden-2.json) |
