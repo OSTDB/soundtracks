@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saviors of Sapphire Wings/Stranger of Sword City Revisited: Limited Edition | 138565 | [138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json](./138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json) |
 | Saviour of Humanity | 187413 | [187413-saviour-of-humanity.json](./187413-saviour-of-humanity.json) |
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
+| Savoir-Faire | 60128 | [60128-savoir-faire.json](./60128-savoir-faire.json) |
 | Savoring Sword | 296718 | [296718-savoring-sword.json](./296718-savoring-sword.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Savvy Fisher | 260475 | [260475-savvy-fisher.json](./260475-savvy-fisher.json) |
@@ -3454,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Trip | 181022 | [181022-school-trip.json](./181022-school-trip.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Wars | 218785 | [218785-school-wars.json](./218785-school-wars.json) |
+| School Wars: All Series Pack Honpen & Sotsugyou Sensen | 60154 | [60154-school-wars-all-series-pack-honpen-and-sotsugyou-sensen.json](./60154-school-wars-all-series-pack-honpen-and-sotsugyou-sensen.json) |
 | School Wars: Sotsugyou Sensen | 218786 | [218786-school-wars-sotsugyou-sensen.json](./218786-school-wars-sotsugyou-sensen.json) |
 | School Wonders Romance | 299639 | [299639-school-wonders-romance.json](./299639-school-wonders-romance.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
@@ -15881,6 +15883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Up Mania | 65302 | [65302-slotter-up-mania.json](./65302-slotter-up-mania.json) |
 | Slottoki | 423976 | [423976-slottoki.json](./423976-slottoki.json) |
 | Slottso Party | 79574 | [79574-slottso-party.json](./79574-slottso-party.json) |
+| Slouching Towards Bedlam | 60141 | [60141-slouching-towards-bedlam.json](./60141-slouching-towards-bedlam.json) |
 | SlovSurvival | 240588 | [240588-slovsurvival.json](./240588-slovsurvival.json) |
 | Slow and Steady | 157486 | [157486-slow-and-steady.json](./157486-slow-and-steady.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
@@ -16626,6 +16629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMS | 393174 | [393174-sms.json](./393174-sms.json) |
 | SMS 207 | 420490 | [420490-sms-207.json](./420490-sms-207.json) |
 | SMS Master Blaster! | 53619 | [53619-sms-master-blaster.json](./53619-sms-master-blaster.json) |
+| SMS Racing | 60161 | [60161-sms-racing.json](./60161-sms-racing.json) |
 | SMS Returns | 421213 | [421213-sms-returns.json](./421213-sms-returns.json) |
 | SMS-Pong | 60736 | [60736-sms-pong.json](./60736-sms-pong.json) |
 | Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
@@ -24676,6 +24680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike's Water Balloons | 46512 | [46512-spikes-water-balloons.json](./46512-spikes-water-balloons.json) |
 | Spikeball Smash | 314980 | [314980-spikeball-smash.json](./314980-spikeball-smash.json) |
 | SpikeDislike | 61775 | [61775-spikedislike.json](./61775-spikedislike.json) |
+| SpikeDislike 3 | 60167 | [60167-spikedislike-3.json](./60167-spikedislike-3.json) |
 | SpikeDislike2: Everybody Likes SpikeDislike | 61773 | [61773-spikedislike2-everybody-likes-spikedislike.json](./61773-spikedislike2-everybody-likes-spikedislike.json) |
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
 | SpikeOut: Digital Battle Online | 39474 | [39474-spikeout-digital-battle-online.json](./39474-spikeout-digital-battle-online.json) |
@@ -29802,6 +29807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Fox | 113941 | [113941-stellar-fox.json](./113941-stellar-fox.json) |
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Freight: Endless Horizon | 395520 | [395520-stellar-freight-endless-horizon.json](./395520-stellar-freight-endless-horizon.json) |
+| Stellar Frontier | 60166 | [60166-stellar-frontier.json](./60166-stellar-frontier.json) |
 | Stellar Ghosts Settlers | 270486 | [270486-stellar-ghosts-settlers.json](./270486-stellar-ghosts-settlers.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
 | Stellar Horizon | 108185 | [108185-stellar-horizon.json](./108185-stellar-horizon.json) |
@@ -30489,6 +30495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stinger Table Hockey | 96823 | [96823-stinger-table-hockey.json](./96823-stinger-table-hockey.json) |
 | Stinger: Episode 1 | 363123 | [363123-stinger-episode-1.json](./363123-stinger-episode-1.json) |
 | Stingray | 299545 | [299545-stingray.json](./299545-stingray.json) |
+| Stingray | 60159 | [60159-stingray.json](./60159-stingray.json) |
 | Stink Bug Plague | 133304 | [133304-stink-bug-plague.json](./133304-stink-bug-plague.json) |
 | Stink Eye | 68379 | [68379-stink-eye.json](./68379-stink-eye.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
@@ -37134,6 +37141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sized Mario Bros | 286640 | [286640-super-sized-mario-bros.json](./286640-super-sized-mario-bros.json) |
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
 | Super Skateboardin' | 12341 | [12341-super-skateboardin.json](./12341-super-skateboardin.json) |
+| Super Skeleman | 60160 | [60160-super-skeleman.json](./60160-super-skeleman.json) |
 | Super Skelemania | 74875 | [74875-super-skelemania.json](./74875-super-skelemania.json) |
 | Super Skeleton Butler | 237191 | [237191-super-skeleton-butler.json](./237191-super-skeleton-butler.json) |
 | Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
