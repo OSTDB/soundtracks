@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
 | Path Zero | 363634 | [363634-path-zero.json](./363634-path-zero.json) |
 | Path: Through the Forest | 151598 | [151598-path-through-the-forest.json](./151598-path-through-the-forest.json) |
+| Path//Hack | 424719 | [424719-path-hack.json](./424719-path-hack.json) |
 | PathBlasters | 251886 | [251886-pathblasters.json](./251886-pathblasters.json) |
 | Pathbreakers: Roaming Blades | 344141 | [344141-pathbreakers-roaming-blades.json](./344141-pathbreakers-roaming-blades.json) |
 | PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
@@ -4637,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
 | Penguin Diner 2 | 64615 | [64615-penguin-diner-2.json](./64615-penguin-diner-2.json) |
 | Penguin Diner: Restaurant Dash | 188560 | [188560-penguin-diner-restaurant-dash.json](./188560-penguin-diner-restaurant-dash.json) |
+| Penguin Drop | 424676 | [424676-penguin-drop.json](./424676-penguin-drop.json) |
 | Penguin Escape | 326236 | [326236-penguin-escape.json](./326236-penguin-escape.json) |
 | Penguin Festival | 335130 | [335130-penguin-festival.json](./335130-penguin-festival.json) |
 | Penguin Flight | 328443 | [328443-penguin-flight.json](./328443-penguin-flight.json) |
@@ -8566,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipunka the Jumper | 297255 | [297255-pipunka-the-jumper.json](./297255-pipunka-the-jumper.json) |
 | Pipyakas | 216396 | [216396-pipyakas.json](./216396-pipyakas.json) |
 | Piquant Bathing | 111575 | [111575-piquant-bathing.json](./111575-piquant-bathing.json) |
+| Pique! Hook'd on Fishing | 424727 | [424727-pique-hookd-on-fishing.json](./424727-pique-hookd-on-fishing.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
 | PiraCrash! | 132517 | [132517-piracrash.json](./132517-piracrash.json) |
 | Piracy | 41199 | [41199-piracy.json](./41199-piracy.json) |
@@ -9730,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Slime U | 84817 | [84817-pixel-slime-u.json](./84817-pixel-slime-u.json) |
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
+| Pixel Solo Ops | 424733 | [424733-pixel-solo-ops.json](./424733-pixel-solo-ops.json) |
 | Pixel Space | 35182 | [35182-pixel-space.json](./35182-pixel-space.json) |
 | Pixel Space Battles | 75316 | [75316-pixel-space-battles.json](./75316-pixel-space-battles.json) |
 | Pixel Speedrun | 145109 | [145109-pixel-speedrun.json](./145109-pixel-speedrun.json) |
@@ -11385,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
 | Please, Spin | 403337 | [403337-please-spin.json](./403337-please-spin.json) |
 | Please, Stay Away | 362864 | [362864-please-stay-away.json](./362864-please-stay-away.json) |
+| Please, Tell Me Why? | 424735 | [424735-please-tell-me-why.json](./424735-please-tell-me-why.json) |
 | Please, Touch the Artwork | 148945 | [148945-please-touch-the-artwork.json](./148945-please-touch-the-artwork.json) |
 | Please, Visit Grandma | 138545 | [138545-please-visit-grandma.json](./138545-please-visit-grandma.json) |
 | Please, Watch the Artwork | 347601 | [347601-please-watch-the-artwork.json](./347601-please-watch-the-artwork.json) |
@@ -16823,6 +16828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison City | 226729 | [226729-prison-city.json](./226729-prison-city.json) |
 | Prison Colony: A Convict's Tale | 260554 | [260554-prison-colony-a-convicts-tale.json](./260554-prison-colony-a-convicts-tale.json) |
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
+| Prison Escape | 424724 | [424724-prison-escape.json](./424724-prison-escape.json) |
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
 | Prison Escape Puzzle Adventure | 348749 | [348749-prison-escape-puzzle-adventure.json](./348749-prison-escape-puzzle-adventure.json) |
