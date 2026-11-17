@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
 | Eiyuden Chronicle: Rising | 152245 | [152245-eiyuden-chronicle-rising.json](./152245-eiyuden-chronicle-rising.json) |
 | Eiyuu Densetsu Saga | 85787 | [85787-eiyuu-densetsu-saga.json](./85787-eiyuu-densetsu-saga.json) |
+| Eiyuu Densetsu: Sora no Kiseki - Kizuna | 130425 | [130425-eiyuu-densetsu-sora-no-kiseki-kizuna.json](./130425-eiyuu-densetsu-sora-no-kiseki-kizuna.json) |
 | Eiyuu Shigan: Gal Act Heroism | 91760 | [91760-eiyuu-shigan-gal-act-heroism.json](./91760-eiyuu-shigan-gal-act-heroism.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
 | Eizoku | 134519 | [134519-eizoku.json](./134519-eizoku.json) |
@@ -6265,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Ninja | 172819 | [172819-escape-ninja.json](./172819-escape-ninja.json) |
 | Escape North Korea | 418924 | [418924-escape-north-korea.json](./418924-escape-north-korea.json) |
 | Escape Observation | 333182 | [333182-escape-observation.json](./333182-escape-observation.json) |
+| Escape of Mari: The Polar Ladybug | 131644 | [131644-escape-of-mari-the-polar-ladybug.json](./131644-escape-of-mari-the-polar-ladybug.json) |
 | Escape of Pig | 230931 | [230931-escape-of-pig.json](./230931-escape-of-pig.json) |
 | Escape of Pinball | 339769 | [339769-escape-of-pinball.json](./339769-escape-of-pinball.json) |
 | Escape of The Hammer Princess | 312767 | [312767-escape-of-the-hammer-princess.json](./312767-escape-of-the-hammer-princess.json) |
@@ -8173,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dead: The Game - Who's Your Daddy Bundle | 252206 | [252206-evil-dead-the-game-whos-your-daddy-bundle.json](./252206-evil-dead-the-game-whos-your-daddy-bundle.json) |
 | Evil Dead: Virtual Nightmare | 106683 | [106683-evil-dead-virtual-nightmare.json](./106683-evil-dead-virtual-nightmare.json) |
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
+| Evil Democracy: 1932 | 131672 | [131672-evil-democracy-1932.json](./131672-evil-democracy-1932.json) |
 | Evil Diary | 265468 | [265468-evil-diary.json](./265468-evil-diary.json) |
 | Evil Doll | 304919 | [304919-evil-doll.json](./304919-evil-doll.json) |
 | Evil Draws Close | 288420 | [288420-evil-draws-close.json](./288420-evil-draws-close.json) |
