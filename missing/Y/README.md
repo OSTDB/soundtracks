@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Have Time | 121054 | [121054-you-dont-have-time.json](./121054-you-dont-have-time.json) |
 | You Don't Know Jack | 100072 | [100072-you-dont-know-jack.json](./100072-you-dont-know-jack.json) |
 | You Don't Know Jack | 144785 | [144785-you-dont-know-jack.json](./144785-you-dont-know-jack.json) |
+| You Don't Know Jack | 198993 | [198993-you-dont-know-jack.json](./198993-you-dont-know-jack.json) |
 | You Don't Know Jack | 5304 | [5304-you-dont-know-jack.json](./5304-you-dont-know-jack.json) |
 | You Don't Know Jack Movies | 16785 | [16785-you-dont-know-jack-movies.json](./16785-you-dont-know-jack-movies.json) |
 | You Don't Know Jack Presented by Masatoshi Hamada | 391562 | [391562-you-dont-know-jack-presented-by-masatoshi-hamada.json](./391562-you-dont-know-jack-presented-by-masatoshi-hamada.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack: Jumbo | 205804 | [205804-you-dont-know-jack-jumbo.json](./205804-you-dont-know-jack-jumbo.json) |
 | You Don't Know Jack: Louder! Faster! Funnier! | 73213 | [73213-you-dont-know-jack-louder-faster-funnier.json](./73213-you-dont-know-jack-louder-faster-funnier.json) |
 | You Don't Know Jack: Mock 2 | 77326 | [77326-you-dont-know-jack-mock-2.json](./77326-you-dont-know-jack-mock-2.json) |
+| You Don't Know Jack: Movies Expansion | 198994 | [198994-you-dont-know-jack-movies-expansion.json](./198994-you-dont-know-jack-movies-expansion.json) |
 | You Don't Know Jack: Offline | 77791 | [77791-you-dont-know-jack-offline.json](./77791-you-dont-know-jack-offline.json) |
 | You Don't Know Jack: Question Pack | 144792 | [144792-you-dont-know-jack-question-pack.json](./144792-you-dont-know-jack-question-pack.json) |
 | You Don't Know Jack: The In-Your-Face (Book) Trivia Game | 297611 | [297611-you-dont-know-jack-the-in-your-face-book-trivia-game.json](./297611-you-dont-know-jack-the-in-your-face-book-trivia-game.json) |
