@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | PancitoMerge | 347847 | [347847-pancitomerge.json](./347847-pancitomerge.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
+| PanCom OS | 178704 | [178704-pancom-os.json](./178704-pancom-os.json) |
 | Panda | 287539 | [287539-panda.json](./287539-panda.json) |
 | Panda | 373877 | [373877-panda.json](./373877-panda.json) |
 | Panda & Crow: A Paraglide Adventure | 267438 | [267438-panda-and-crow-a-paraglide-adventure.json](./267438-panda-and-crow-a-paraglide-adventure.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Payback time | 154106 | [154106-payback-time.json](./154106-payback-time.json) |
+| Payblood | 177588 | [177588-payblood.json](./177588-payblood.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
 | Payday 2 VR | 150511 | [150511-payday-2-vr.json](./150511-payday-2-vr.json) |
 | Payday 2: Armored Transport | 167696 | [167696-payday-2-armored-transport.json](./167696-payday-2-armored-transport.json) |
@@ -8851,6 +8853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Fighter Tycoon | 216683 | [216683-pit-fighter-tycoon.json](./216683-pit-fighter-tycoon.json) |
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
+| Pit of Babel | 178702 | [178702-pit-of-babel.json](./178702-pit-of-babel.json) |
 | Pit of Evil | 101230 | [101230-pit-of-evil.json](./101230-pit-of-evil.json) |
 | Pit of Fears | 346504 | [346504-pit-of-fears.json](./346504-pit-of-fears.json) |
 | Pit of Gerstan | 319880 | [319880-pit-of-gerstan.json](./319880-pit-of-gerstan.json) |
@@ -11570,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus Alpha | 40090 | [40090-plus-alpha.json](./40090-plus-alpha.json) |
 | Plus Belle la Vie: Le Secret du Dr Livia | 349054 | [349054-plus-belle-la-vie-le-secret-du-dr-livia.json](./349054-plus-belle-la-vie-le-secret-du-dr-livia.json) |
 | Plus City | 281416 | [281416-plus-city.json](./281416-plus-city.json) |
+| Plus Kingdom Jailbreak | 178694 | [178694-plus-kingdom-jailbreak.json](./178694-plus-kingdom-jailbreak.json) |
 | Plus One | 313894 | [313894-plus-one.json](./313894-plus-one.json) |
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
 | Plus Plum 2 Again | 263958 | [263958-plus-plum-2-again.json](./263958-plus-plum-2-again.json) |
@@ -16113,7 +16117,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Princess Party | 135339 | [135339-pretty-princess-party.json](./135339-pretty-princess-party.json) |
 | Pretty Princess: Magical Garden Island | 248295 | [248295-pretty-princess-magical-garden-island.json](./248295-pretty-princess-magical-garden-island.json) |
 | Pretty Princess' Castle Escape | 305733 | [305733-pretty-princess-castle-escape.json](./305733-pretty-princess-castle-escape.json) |
+| Pretty Rhythm: Mini Skirt | 177590 | [177590-pretty-rhythm-mini-skirt.json](./177590-pretty-rhythm-mini-skirt.json) |
 | Pretty Rhythm: My Deco Rainbow Wedding | 141150 | [141150-pretty-rhythm-my-deco-rainbow-wedding.json](./141150-pretty-rhythm-my-deco-rainbow-wedding.json) |
+| Pretty Rhythm: Rainbow Live Kira-kira My Design | 177581 | [177581-pretty-rhythm-rainbow-live-kira-kira-my-design.json](./177581-pretty-rhythm-rainbow-live-kira-kira-my-design.json) |
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Pretty Soldier Sailor Moon | 46788 | [46788-pretty-soldier-sailor-moon.json](./46788-pretty-soldier-sailor-moon.json) |
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
@@ -19057,6 +19063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudoregalia: Jam Ver. | 259465 | [259465-pseudoregalia-jam-ver.json](./259465-pseudoregalia-jam-ver.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
 | PSFootball | 89084 | [89084-psfootball.json](./89084-psfootball.json) |
+| Pshnggg! | 177589 | [177589-pshnggg.json](./177589-pshnggg.json) |
 | Psi | 232733 | [232733-psi.json](./232733-psi.json) |
 | Psi 5 Trading Company | 26285 | [26285-psi-5-trading-company.json](./26285-psi-5-trading-company.json) |
 | Psi Academy: Orientation | 341439 | [341439-psi-academy-orientation.json](./341439-psi-academy-orientation.json) |
