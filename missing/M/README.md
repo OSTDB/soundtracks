@@ -8258,6 +8258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
 | Meet The Animals | 293840 | [293840-meet-the-animals.json](./293840-meet-the-animals.json) |
 | Meet the Girls | 181801 | [181801-meet-the-girls.json](./181801-meet-the-girls.json) |
+| Meet the Grumps | 429513 | [429513-meet-the-grumps.json](./429513-meet-the-grumps.json) |
 | Meet the Letters - Lowercase | 102644 | [102644-meet-the-letters-lowercase.json](./102644-meet-the-letters-lowercase.json) |
 | Meet the Letters - Uppercase | 102643 | [102643-meet-the-letters-uppercase.json](./102643-meet-the-letters-uppercase.json) |
 | Meet the Letters Flashcards: Lowercase | 101569 | [101569-meet-the-letters-flashcards-lowercase.json](./101569-meet-the-letters-flashcards-lowercase.json) |
@@ -21154,6 +21155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Secret Agent | 215408 | [215408-mr-secret-agent.json](./215408-mr-secret-agent.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Speedy | 60300 | [60300-mr-speedy.json](./60300-mr-speedy.json) |
+| Mr Sticky's Ragdoll Launch | 429494 | [429494-mr-stickys-ragdoll-launch.json](./429494-mr-stickys-ragdoll-launch.json) |
 | Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
 | Mr Success | 388648 | [388648-mr-success.json](./388648-mr-success.json) |
 | Mr The Killer | 294526 | [294526-mr-the-killer.json](./294526-mr-the-killer.json) |
@@ -24906,6 +24908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
 | Mystery of the Mummy | 12690 | [12690-mystery-of-the-mummy.json](./12690-mystery-of-the-mummy.json) |
 | Mystery of the Murderous Dreams | 215279 | [215279-mystery-of-the-murderous-dreams.json](./215279-mystery-of-the-murderous-dreams.json) |
+| Mystery of the Mysterious Futayuri Mystery Dungeon | 429503 | [429503-mystery-of-the-mysterious-futayuri-mystery-dungeon.json](./429503-mystery-of-the-mysterious-futayuri-mystery-dungeon.json) |
 | Mystery of the Nile | 54591 | [54591-mystery-of-the-nile.json](./54591-mystery-of-the-nile.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of the Opera: The Phantom's Secret | 181525 | [181525-mystery-of-the-opera-the-phantoms-secret.json](./181525-mystery-of-the-opera-the-phantoms-secret.json) |
