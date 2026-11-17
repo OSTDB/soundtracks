@@ -9909,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitions: Birth of a President | 140568 | [140568-ambitions-birth-of-a-president.json](./140568-ambitions-birth-of-a-president.json) |
 | Ambitious | 196755 | [196755-ambitious.json](./196755-ambitious.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
+| Ambitious Mission After Episode 2 | 424694 | [424694-ambitious-mission-after-episode-2.json](./424694-ambitious-mission-after-episode-2.json) |
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
 | Amborettio | 170892 | [170892-amborettio.json](./170892-amborettio.json) |
 | Ambre | 28661 | [28661-ambre.json](./28661-ambre.json) |
@@ -13170,6 +13171,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis Dungeon | 76495 | [76495-anubis-dungeon.json](./76495-anubis-dungeon.json) |
 | Anubis II | 4677 | [4677-anubis-ii.json](./4677-anubis-ii.json) |
 | Anubis of the Moon's Surface | 38017 | [38017-anubis-of-the-moons-surface.json](./38017-anubis-of-the-moons-surface.json) |
+| Anubis Temple: La Perla de Egipto | 424729 | [424729-anubis-temple-la-perla-de-egipto.json](./424729-anubis-temple-la-perla-de-egipto.json) |
+| Anubis Temple: Skin Dinosaurio (Niña) | 424731 | [424731-anubis-temple-skin-dinosaurio-nina.json](./424731-anubis-temple-skin-dinosaurio-nina.json) |
 | Anubis' Challenge | 111787 | [111787-anubis-challenge.json](./111787-anubis-challenge.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
@@ -13911,6 +13914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APT | 35534 | [35534-apt.json](./35534-apt.json) |
 | Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
 | Apt. Map | 227438 | [227438-apt-map.json](./227438-apt-map.json) |
+| Aptacris: Dipolos Anomalia | 424732 | [424732-aptacris-dipolos-anomalia.json](./424732-aptacris-dipolos-anomalia.json) |
 | Aptamirror | 425825 | [425825-aptamirror.json](./425825-aptamirror.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Aptoide | 39268 | [39268-aptoide.json](./39268-aptoide.json) |
