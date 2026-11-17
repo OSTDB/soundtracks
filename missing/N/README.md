@@ -4515,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nichiyoubi ni Uchuujin ga…? | 77544 | [77544-nichiyoubi-ni-uchuujin-ga.json](./77544-nichiyoubi-ni-uchuujin-ga.json) |
 | Nicholas' Weird Adventure | 387941 | [387941-nicholas-weird-adventure.json](./387941-nicholas-weird-adventure.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
+| Nick Beard: The Fedora of Destiny | 104880 | [104880-nick-beard-the-fedora-of-destiny.json](./104880-nick-beard-the-fedora-of-destiny.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
 | Nick Bounty: The Goat in the Grey Fedora | 72541 | [72541-nick-bounty-the-goat-in-the-grey-fedora.json](./72541-nick-bounty-the-goat-in-the-grey-fedora.json) |
