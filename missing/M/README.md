@@ -11495,6 +11495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
 | Meteoric Shower | 47176 | [47176-meteoric-shower.json](./47176-meteoric-shower.json) |
 | Meteoric VR | 207725 | [207725-meteoric-vr.json](./207725-meteoric-vr.json) |
+| Meteorite | 60171 | [60171-meteorite.json](./60171-meteorite.json) |
 | Meteorite Defense Command | 101235 | [101235-meteorite-defense-command.json](./101235-meteorite-defense-command.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
 | Meteorite Fall | 372944 | [372944-meteorite-fall.json](./372944-meteorite-fall.json) |
@@ -15839,6 +15840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission LunaTrix | 338048 | [338048-mission-lunatrix.json](./338048-mission-lunatrix.json) |
 | Mission Mars | 147390 | [147390-mission-mars.json](./147390-mission-mars.json) |
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
+| Mission Mars | 60165 | [60165-mission-mars.json](./60165-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
 | Mission Massive Migration | 177735 | [177735-mission-massive-migration.json](./177735-mission-massive-migration.json) |
 | Mission NAR-6 | 228839 | [228839-mission-nar-6.json](./228839-mission-nar-6.json) |
@@ -21930,6 +21932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munch Man | 44389 | [44389-munch-man.json](./44389-munch-man.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munch Planet | 286878 | [286878-munch-planet.json](./286878-munch-planet.json) |
+| Munch Time 2 | 60168 | [60168-munch-time-2.json](./60168-munch-time-2.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Muncher Mania Classic | 146445 | [146445-muncher-mania-classic.json](./146445-muncher-mania-classic.json) |
@@ -22505,6 +22508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musicle | 153538 | [153538-musicle.json](./153538-musicle.json) |
 | Musicle | 205777 | [205777-musicle.json](./205777-musicle.json) |
 | Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
+| Musicology | 60156 | [60156-musicology.json](./60156-musicology.json) |
 | MusicRunner | 374574 | [374574-musicrunner.json](./374574-musicrunner.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
