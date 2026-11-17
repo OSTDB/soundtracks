@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Musou: Former Army | 302817 | [302817-mahjong-musou-former-army.json](./302817-mahjong-musou-former-army.json) |
 | Mahjong Mysteries of the Past | 25289 | [25289-mahjong-mysteries-of-the-past.json](./25289-mahjong-mysteries-of-the-past.json) |
 | Mahjong Mysteries: Ancient Athena | 85267 | [85267-mahjong-mysteries-ancient-athena.json](./85267-mahjong-mysteries-ancient-athena.json) |
+| Mahjong Mystery: Escape the Spooky Mansion | 74530 | [74530-mahjong-mystery-escape-the-spooky-mansion.json](./74530-mahjong-mystery-escape-the-spooky-mansion.json) |
 | Mahjong Nagomi | 152004 | [152004-mahjong-nagomi.json](./152004-mahjong-nagomi.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
@@ -10766,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meritous | 78479 | [78479-meritous.json](./78479-meritous.json) |
 | Meriwether: An American Epic | 61526 | [61526-meriwether-an-american-epic.json](./61526-meriwether-an-american-epic.json) |
 | Merk Mayhem | 291696 | [291696-merk-mayhem.json](./291696-merk-mayhem.json) |
+| Merkava Avalance | 74541 | [74541-merkava-avalance.json](./74541-merkava-avalance.json) |
 | Merkava: The Sacred Armour of Meirav | 355966 | [355966-merkava-the-sacred-armour-of-meirav.json](./355966-merkava-the-sacred-armour-of-meirav.json) |
 | Merlin | 362581 | [362581-merlin.json](./362581-merlin.json) |
 | Merlin | 50034 | [50034-merlin.json](./50034-merlin.json) |
@@ -13120,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: The Fighting Edition | 3287 | [3287-mighty-morphin-power-rangers-the-fighting-edition.json](./3287-mighty-morphin-power-rangers-the-fighting-edition.json) |
 | Mighty Morphin Power Rangers: The Movie | 75980 | [75980-mighty-morphin-power-rangers-the-movie.json](./75980-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
+| Mighty Morphin Power Rangers: The Movie | 75982 | [75982-mighty-morphin-power-rangers-the-movie.json](./75982-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 01: Zords | 362570 | [362570-mighty-morphin-power-rangers-tiger-barcodzz-01-zords.json](./362570-mighty-morphin-power-rangers-tiger-barcodzz-01-zords.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 02: Zords | 362574 | [362574-mighty-morphin-power-rangers-tiger-barcodzz-02-zords.json](./362574-mighty-morphin-power-rangers-tiger-barcodzz-02-zords.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 03: Megazord | 362562 | [362562-mighty-morphin-power-rangers-tiger-barcodzz-03-megazord.json](./362562-mighty-morphin-power-rangers-tiger-barcodzz-03-megazord.json) |
@@ -16832,6 +16835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Outbreak | 184267 | [184267-moe-outbreak.json](./184267-moe-outbreak.json) |
 | Moe Reversi | 113482 | [113482-moe-reversi.json](./113482-moe-reversi.json) |
 | Moe Slot Beach no Shizuku | 292088 | [292088-moe-slot-beach-no-shizuku.json](./292088-moe-slot-beach-no-shizuku.json) |
+| Moe Star: Moeru Toudai Eigojuku | 72867 | [72867-moe-star-moeru-toudai-eigojuku.json](./72867-moe-star-moeru-toudai-eigojuku.json) |
 | Moe Waifu H | 240179 | [240179-moe-waifu-h.json](./240179-moe-waifu-h.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
 | Moe Waifu H: Fantasy | 328442 | [328442-moe-waifu-h-fantasy.json](./328442-moe-waifu-h-fantasy.json) |
@@ -21477,6 +21481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness 2 | 306632 | [306632-ms-pac-man-maze-madness-2.json](./306632-ms-pac-man-maze-madness-2.json) |
+| Ms. Pac-Man: Maze Madness/Pac-Man World | 72874 | [72874-ms-pac-man-maze-madness-pac-man-world.json](./72874-ms-pac-man-maze-madness-pac-man-world.json) |
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
 | Ms. Pac-Man: Special Color Edition | 49834 | [49834-ms-pac-man-special-color-edition.json](./49834-ms-pac-man-special-color-edition.json) |
 | Ms. Pac-Man: Speedup | 308393 | [308393-ms-pac-man-speedup.json](./308393-ms-pac-man-speedup.json) |
