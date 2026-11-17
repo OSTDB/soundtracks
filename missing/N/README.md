@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural | 189065 | [189065-natural.json](./189065-natural.json) |
 | Natural 2: Duo | 49750 | [49750-natural-2-duo.json](./49750-natural-2-duo.json) |
 | Natural Balance: Chronicles | 131787 | [131787-natural-balance-chronicles.json](./131787-natural-balance-chronicles.json) |
+| Natural Born Idiots with Naver Webtoon | 113781 | [113781-natural-born-idiots-with-naver-webtoon.json](./113781-natural-born-idiots-with-naver-webtoon.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
 | Natural Corde | 351267 | [351267-natural-corde.json](./351267-natural-corde.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
@@ -4001,7 +4002,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newspaper Toss: Paperboy Edition | 261856 | [261856-newspaper-toss-paperboy-edition.json](./261856-newspaper-toss-paperboy-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newt | 228901 | [228901-newt.json](./228901-newt.json) |
-| Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
 | Newt's Voyage | 115971 | [115971-newts-voyage.json](./115971-newts-voyage.json) |
 | Newton | 113932 | [113932-newton.json](./113932-newton.json) |
 | Newton | 324251 | [324251-newton.json](./324251-newton.json) |
@@ -5261,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Survival | 158257 | [158257-nightmare-survival.json](./158257-nightmare-survival.json) |
 | Nightmare Tale | 292758 | [292758-nightmare-tale.json](./292758-nightmare-tale.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
+| Nightmare Trails | 113823 | [113823-nightmare-trails.json](./113823-nightmare-trails.json) |
 | Nightmare Train | 383878 | [383878-nightmare-train.json](./383878-nightmare-train.json) |
 | Nightmare traveler | 178819 | [178819-nightmare-traveler.json](./178819-nightmare-traveler.json) |
 | Nightmare Trek: The Next Level Challenge | 275850 | [275850-nightmare-trek-the-next-level-challenge.json](./275850-nightmare-trek-the-next-level-challenge.json) |
