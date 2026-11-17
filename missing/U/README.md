@@ -1705,7 +1705,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Factory: Zombie Pandemic | 88114 | [88114-undead-factory-zombie-pandemic.json](./88114-undead-factory-zombie-pandemic.json) |
 | Undead Hero | 56849 | [56849-undead-hero.json](./56849-undead-hero.json) |
 | Undead Horde | 88250 | [88250-undead-horde.json](./88250-undead-horde.json) |
-| Undead Horde 2: Necropolis | 217181 | [217181-undead-horde-2-necropolis.json](./217181-undead-horde-2-necropolis.json) |
 | Undead Hunter | 36640 | [36640-undead-hunter.json](./36640-undead-hunter.json) |
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
 | Undead Inc.: Worky DLC | 310006 | [310006-undead-inc-worky-dlc.json](./310006-undead-inc-worky-dlc.json) |
@@ -4036,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia | 390549 | [390549-utopia.json](./390549-utopia.json) |
 | Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
 | Utopia City | 36659 | [36659-utopia-city.json](./36659-utopia-city.json) |
+| Utopia Colony | 131680 | [131680-utopia-colony.json](./131680-utopia-colony.json) |
 | Utopia Gatekeeper | 412617 | [412617-utopia-gatekeeper.json](./412617-utopia-gatekeeper.json) |
 | Utopia Must Fall | 301870 | [301870-utopia-must-fall.json](./301870-utopia-must-fall.json) |
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
