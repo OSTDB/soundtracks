@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I was rebuilt | 415821 | [415821-i-was-rebuilt.json](./415821-i-was-rebuilt.json) |
 | I Was Seen as the Weakest Hero But I Can Secretly Edit the Metadata of the World?!? | 413410 | [413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json](./413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json) |
 | I Was the Cat | 240138 | [240138-i-was-the-cat.json](./240138-i-was-the-cat.json) |
+| I Was Trying to Make a Game, But My Dog Was Sitting On My Lap | 135924 | [135924-i-was-trying-to-make-a-game-but-my-dog-was-sitting-on-my-lap.json](./135924-i-was-trying-to-make-a-game-but-my-dog-was-sitting-on-my-lap.json) |
 | I Was Wrong | 207499 | [207499-i-was-wrong.json](./207499-i-was-wrong.json) |
 | I Will Be a Star | 359140 | [359140-i-will-be-a-star.json](./359140-i-will-be-a-star.json) |
 | I Will Be There | 180634 | [180634-i-will-be-there.json](./180634-i-will-be-there.json) |
@@ -3272,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search of the Golden Crops | 321596 | [321596-in-search-of-the-golden-crops.json](./321596-in-search-of-the-golden-crops.json) |
 | In Search of the Ice Pop | 378539 | [378539-in-search-of-the-ice-pop.json](./378539-in-search-of-the-ice-pop.json) |
 | In Search of the Lost Temple | 54113 | [54113-in-search-of-the-lost-temple.json](./54113-in-search-of-the-lost-temple.json) |
+| In Search of the Lost Words | 135910 | [135910-in-search-of-the-lost-words.json](./135910-in-search-of-the-lost-words.json) |
 | In Search of the Most Amazing Thing | 69820 | [69820-in-search-of-the-most-amazing-thing.json](./69820-in-search-of-the-most-amazing-thing.json) |
 | In Search Of You | 314375 | [314375-in-search-of-you.json](./314375-in-search-of-you.json) |
 | In Search Of... | 159715 | [159715-in-search-of.json](./159715-in-search-of.json) |
@@ -3582,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incoming | 195828 | [195828-incoming.json](./195828-incoming.json) |
 | Incoming Evil | 122020 | [122020-incoming-evil.json](./122020-incoming-evil.json) |
 | Incoming Forces | 10434 | [10434-incoming-forces.json](./10434-incoming-forces.json) |
+| Incoming Message | 139492 | [139492-incoming-message.json](./139492-incoming-message.json) |
 | Incoming War | 211979 | [211979-incoming-war.json](./211979-incoming-war.json) |
 | Incoming! | 67893 | [67893-incoming.json](./67893-incoming.json) |
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
