@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A.W. | 91855 | [91855-l-a-w.json](./91855-l-a-w.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.C.O.S. | 181431 | [181431-l-c-o-s.json](./181431-l-c-o-s.json) |
+| L.C.U.: Life Containment Unit | 422954 | [422954-l-c-u-life-containment-unit.json](./422954-l-c-u-life-containment-unit.json) |
 | L.E.D. Storm | 39704 | [39704-l-e-d-storm.json](./39704-l-e-d-storm.json) |
 | L.E.M. | 269166 | [269166-l-e-m.json](./269166-l-e-m.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
@@ -2722,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leeroy | 294105 | [294105-leeroy.json](./294105-leeroy.json) |
 | Leet Hacker Simulator 2018 | 108791 | [108791-leet-hacker-simulator-2018.json](./108791-leet-hacker-simulator-2018.json) |
 | Leeward Episode 1 | 406336 | [406336-leeward-episode-1.json](./406336-leeward-episode-1.json) |
+| Leeway | 422960 | [422960-leeway.json](./422960-leeway.json) |
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 2Die | 94045 | [94045-left-2die.json](./94045-left-2die.json) |
