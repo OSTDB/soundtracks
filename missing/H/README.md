@@ -8095,6 +8095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Classic Mysteries 4 | 198084 | [198084-hidden-object-classic-mysteries-4.json](./198084-hidden-object-classic-mysteries-4.json) |
 | Hidden Object Classic Mysteries 6 | 198080 | [198080-hidden-object-classic-mysteries-6.json](./198080-hidden-object-classic-mysteries-6.json) |
 | Hidden Object Classic Treasures 3 | 198082 | [198082-hidden-object-classic-treasures-3.json](./198082-hidden-object-classic-treasures-3.json) |
+| Hidden Object Classic: Adventures III | 209038 | [209038-hidden-object-classic-adventures-iii.json](./209038-hidden-object-classic-adventures-iii.json) |
 | Hidden Object Classic: Treasures II | 209037 | [209037-hidden-object-classic-treasures-ii.json](./209037-hidden-object-classic-treasures-ii.json) |
 | Hidden Object Crosswords | 107056 | [107056-hidden-object-crosswords.json](./107056-hidden-object-crosswords.json) |
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
