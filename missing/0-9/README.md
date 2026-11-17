@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1K Othello | 83130 | [83130-1k-othello.json](./83130-1k-othello.json) |
 | 1K ZX Chess | 391019 | [391019-1k-zx-chess.json](./391019-1k-zx-chess.json) |
 | 1Kanoid | 83131 | [83131-1kanoid.json](./83131-1kanoid.json) |
+| 1Key Minigolf | 93236 | [93236-1key-minigolf.json](./93236-1key-minigolf.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
 | 1Line One-Stroke Puzzle Game | 87044 | [87044-1line-one-stroke-puzzle-game.json](./87044-1line-one-stroke-puzzle-game.json) |
 | 1M84 | 173018 | [173018-1m84.json](./173018-1m84.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Body Adventure | 129505 | [129505-3-d-body-adventure.json](./129505-3-d-body-adventure.json) |
 | 3-D Bomberman | 85953 | [85953-3-d-bomberman.json](./85953-3-d-bomberman.json) |
 | 3-D Bowling | 72431 | [72431-3-d-bowling.json](./72431-3-d-bowling.json) |
+| 3-D Brickaway | 94427 | [94427-3-d-brickaway.json](./94427-3-d-brickaway.json) |
 | 3-D Dinosaur Adventure | 2294 | [2294-3-d-dinosaur-adventure.json](./2294-3-d-dinosaur-adventure.json) |
 | 3-D Docking Mission | 342821 | [342821-3-d-docking-mission.json](./342821-3-d-docking-mission.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
