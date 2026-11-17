@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong 2: Yomigaeru Densetsu | 41689 | [41689-king-kong-2-yomigaeru-densetsu.json](./41689-king-kong-2-yomigaeru-densetsu.json) |
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
 | King Kong of Skull Island | 234788 | [234788-king-kong-of-skull-island.json](./234788-king-kong-of-skull-island.json) |
+| King Kong Remastered | 424666 | [424666-king-kong-remastered.json](./424666-king-kong-remastered.json) |
 | King Kong: The Official Mobile Game of the Movie | 227627 | [227627-king-kong-the-official-mobile-game-of-the-movie.json](./227627-king-kong-the-official-mobile-game-of-the-movie.json) |
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
 | King Leo | 178782 | [178782-king-leo.json](./178782-king-leo.json) |
@@ -4042,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdom's Life | 233350 | [233350-kingdoms-life.json](./233350-kingdoms-life.json) |
 | Kingdom's Return: Time-Eating Fruit and the Ancient Monster - "Azure Striker Gunvolt" Crossover Character Skin | 395690 | [395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json](./395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json) |
+| Kingdom's Return: Time-Eating Fruit and the Ancient Monster - "Gal*Gun: Double Peace" Crossover Character Skin | 424738 | [424738-kingdoms-return-time-eating-fruit-and-the-ancient-monster-gal-gun-double-peace-crossover-character-skin.json](./424738-kingdoms-return-time-eating-fruit-and-the-ancient-monster-gal-gun-double-peace-crossover-character-skin.json) |
 | KingdomDefense | 172102 | [172102-kingdomdefense.json](./172102-kingdomdefense.json) |
 | Kingdomfall | 169401 | [169401-kingdomfall.json](./169401-kingdomfall.json) |
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
@@ -5516,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
 | Knuckle Bash | 39370 | [39370-knuckle-bash.json](./39370-knuckle-bash.json) |
 | Knuckle Busters | 36658 | [36658-knuckle-busters.json](./36658-knuckle-busters.json) |
+| Knuckle Busters | 424680 | [424680-knuckle-busters.json](./424680-knuckle-busters.json) |
 | Knuckle Creek | 408543 | [408543-knuckle-creek.json](./408543-knuckle-creek.json) |
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
