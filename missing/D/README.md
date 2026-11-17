@@ -6958,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverance: Stormlord II | 71998 | [71998-deliverance-stormlord-ii.json](./71998-deliverance-stormlord-ii.json) |
 | Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
 | Delivered on Time | 357172 | [357172-delivered-on-time.json](./357172-delivered-on-time.json) |
+| Delivered! | 117829 | [117829-delivered.json](./117829-delivered.json) |
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
 | Delivering Letters | 227137 | [227137-delivering-letters.json](./227137-delivering-letters.json) |
 | DeliverwarTH | 372229 | [372229-deliverwarth.json](./372229-deliverwarth.json) |
@@ -10063,7 +10064,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Bücher Luzifers | 268865 | [268865-die-bucher-luzifers.json](./268865-die-bucher-luzifers.json) |
 | Die Bücher Luzifers 2 | 268871 | [268871-die-bucher-luzifers-2.json](./268871-die-bucher-luzifers-2.json) |
 | Die by Anything | 328099 | [328099-die-by-anything.json](./328099-die-by-anything.json) |
-| Die by the Blade | 122449 | [122449-die-by-the-blade.json](./122449-die-by-the-blade.json) |
 | Die by the Sword: Limb from Limb | 10913 | [10913-die-by-the-sword-limb-from-limb.json](./10913-die-by-the-sword-limb-from-limb.json) |
 | Die by the Sword: White Label Edition | 137376 | [137376-die-by-the-sword-white-label-edition.json](./137376-die-by-the-sword-white-label-edition.json) |
 | Die CD-ROM mit der Maus 1 | 250609 | [250609-die-cd-rom-mit-der-maus-1.json](./250609-die-cd-rom-mit-der-maus-1.json) |
@@ -11275,6 +11275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: The Museum | 357154 | [357154-diorama-builder-the-museum.json](./357154-diorama-builder-the-museum.json) |
 | Diorama Detective | 121252 | [121252-diorama-detective.json](./121252-diorama-detective.json) |
 | Diorama Drift | 296897 | [296897-diorama-drift.json](./296897-diorama-drift.json) |
+| Diorama Dungeoncrawl | 117833 | [117833-diorama-dungeoncrawl.json](./117833-diorama-dungeoncrawl.json) |
 | Diorama Knight | 135413 | [135413-diorama-knight.json](./135413-diorama-knight.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Diorama No.1 - Blocked In | 33799 | [33799-diorama-no-1-blocked-in.json](./33799-diorama-no-1-blocked-in.json) |
