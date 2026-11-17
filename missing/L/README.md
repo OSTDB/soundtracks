@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Llave y Fabián Shones | 323227 | [323227-la-llave-y-fabian-shones.json](./323227-la-llave-y-fabian-shones.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
 | LA Machine Guns | 66785 | [66785-la-machine-guns.json](./66785-la-machine-guns.json) |
+| La Madriguera | 203439 | [203439-la-madriguera.json](./203439-la-madriguera.json) |
 | La maison perdue de l’oncle Ernest | 287328 | [287328-la-maison-perdue-de-l-oncle-ernest.json](./287328-la-maison-perdue-de-l-oncle-ernest.json) |
 | La makinita | 182879 | [182879-la-makinita.json](./182879-la-makinita.json) |
 | La Malédiction | 275086 | [275086-la-malediction.json](./275086-la-malediction.json) |
