@@ -2696,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Beast | 101841 | [101841-caravan-beast.json](./101841-caravan-beast.json) |
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
+| Caravan Carnage: Fruity Road | 428247 | [428247-caravan-carnage-fruity-road.json](./428247-caravan-carnage-fruity-road.json) |
 | Caravan Chaos | 139526 | [139526-caravan-chaos.json](./139526-caravan-chaos.json) |
 | Caravan Journey | 225957 | [225957-caravan-journey.json](./225957-caravan-journey.json) |
 | Caravan Journey: Nitro | 226089 | [226089-caravan-journey-nitro.json](./226089-caravan-journey-nitro.json) |
@@ -3167,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Manager: Forklift Simulator | 308647 | [308647-cargo-manager-forklift-simulator.json](./308647-cargo-manager-forklift-simulator.json) |
 | Cargo Master Transporter | 296714 | [296714-cargo-master-transporter.json](./296714-cargo-master-transporter.json) |
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
+| Cargo Rail Tycoon | 428286 | [428286-cargo-rail-tycoon.json](./428286-cargo-rail-tycoon.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
 | Cargo Rush | 197989 | [197989-cargo-rush.json](./197989-cargo-rush.json) |
 | Cargo Shop Simulator | 368208 | [368208-cargo-shop-simulator.json](./368208-cargo-shop-simulator.json) |
@@ -4737,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat on a Diet | 33408 | [33408-cat-on-a-diet.json](./33408-cat-on-a-diet.json) |
+| Cat on the Jungle Path | 428259 | [428259-cat-on-the-jungle-path.json](./428259-cat-on-the-jungle-path.json) |
 | Cat or Bread? | 29975 | [29975-cat-or-bread.json](./29975-cat-or-bread.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
 | Cat Pack | 409900 | [409900-cat-pack.json](./409900-cat-pack.json) |
@@ -10845,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
 | City Traffic Driver | 187482 | [187482-city-traffic-driver.json](./187482-city-traffic-driver.json) |
 | City Traffic Driver 2 | 215311 | [215311-city-traffic-driver-2.json](./215311-city-traffic-driver-2.json) |
+| City Transport Manager | 428263 | [428263-city-transport-manager.json](./428263-city-transport-manager.json) |
 | City Transport Map Volumes 1 & 2 - 2009 | 85032 | [85032-city-transport-map-volumes-1-and-2-2009.json](./85032-city-transport-map-volumes-1-and-2-2009.json) |
 | City Transport Simulator 2026 | 397389 | [397389-city-transport-simulator-2026.json](./397389-city-transport-simulator-2026.json) |
 | City Transport Simulator 2026: Bus DLC - Citybus C2 | 399274 | [399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json](./399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json) |
@@ -20373,6 +20377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crop Crusaders | 332987 | [332987-crop-crusaders.json](./332987-crop-crusaders.json) |
 | Crop Dusta | 125757 | [125757-crop-dusta.json](./125757-crop-dusta.json) |
 | Crop Empire | 413040 | [413040-crop-empire.json](./413040-crop-empire.json) |
+| Crop Guardian | 428251 | [428251-crop-guardian.json](./428251-crop-guardian.json) |
 | Crop Haven | 287626 | [287626-crop-haven.json](./287626-crop-haven.json) |
 | Crop Rotation | 241883 | [241883-crop-rotation.json](./241883-crop-rotation.json) |
 | Cropacalypse | 379058 | [379058-cropacalypse.json](./379058-cropacalypse.json) |
@@ -22606,6 +22611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Aros | 124372 | [124372-curse-of-aros.json](./124372-curse-of-aros.json) |
 | Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
 | Curse of Babylon | 283360 | [283360-curse-of-babylon.json](./283360-curse-of-babylon.json) |
+| Curse of Baghdad | 428288 | [428288-curse-of-baghdad.json](./428288-curse-of-baghdad.json) |
 | Curse of Black Bone | 211873 | [211873-curse-of-black-bone.json](./211873-curse-of-black-bone.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
