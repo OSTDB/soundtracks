@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Break: Timeless Collector's Edition | 103387 | [103387-quantum-break-timeless-collectors-edition.json](./103387-quantum-break-timeless-collectors-edition.json) |
+| Quantum Bummer Blues | 206846 | [206846-quantum-bummer-blues.json](./206846-quantum-bummer-blues.json) |
 | Quantum Castle | 145409 | [145409-quantum-castle.json](./145409-quantum-castle.json) |
 | Quantum Chess | 33252 | [33252-quantum-chess.json](./33252-quantum-chess.json) |
 | Quantum Coffee Conundrum: Director's Cut | 400937 | [400937-quantum-coffee-conundrum-directors-cut.json](./400937-quantum-coffee-conundrum-directors-cut.json) |
