@@ -469,7 +469,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cajun Cop: The French Quarter Caper | 417496 | [417496-cajun-cop-the-french-quarter-caper.json](./417496-cajun-cop-the-french-quarter-caper.json) |
 | Cake | 338487 | [338487-cake.json](./338487-cake.json) |
 | Cake Bakery | 245204 | [245204-cake-bakery.json](./245204-cake-bakery.json) |
-| Cake Bash | 113826 | [113826-cake-bash.json](./113826-cake-bash.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Cat | 180160 | [180160-cake-cat.json](./180160-cake-cat.json) |
 | Cake Clicker | 183290 | [183290-cake-clicker.json](./183290-cake-clicker.json) |
@@ -19701,7 +19700,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crelabeth: Unholy Lands | 229156 | [229156-crelabeth-unholy-lands.json](./229156-crelabeth-unholy-lands.json) |
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Creme de la Creme: A Silver Spoon | 238923 | [238923-creme-de-la-creme-a-silver-spoon.json](./238923-creme-de-la-creme-a-silver-spoon.json) |
-| Creo God Simulator | 115401 | [115401-creo-god-simulator.json](./115401-creo-god-simulator.json) |
 | Creovia | 404626 | [404626-creovia.json](./404626-creovia.json) |
 | Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
 | Crepitations | 275210 | [275210-crepitations.json](./275210-crepitations.json) |
@@ -21789,6 +21787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Dancer | 165364 | [165364-cube-dancer.json](./165364-cube-dancer.json) |
 | Cube de Grace | 244063 | [244063-cube-de-grace.json](./244063-cube-de-grace.json) |
 | Cube Decider | 203966 | [203966-cube-decider.json](./203966-cube-decider.json) |
+| Cube Defender | 113811 | [113811-cube-defender.json](./113811-cube-defender.json) |
 | Cube Defender 2000 | 110123 | [110123-cube-defender-2000.json](./110123-cube-defender-2000.json) |
 | Cube Defense | 113574 | [113574-cube-defense.json](./113574-cube-defense.json) |
 | Cube Destroyer | 33577 | [33577-cube-destroyer.json](./33577-cube-destroyer.json) |
