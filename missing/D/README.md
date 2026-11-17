@@ -3006,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DateBoy | 376656 | [376656-dateboy.json](./376656-dateboy.json) |
 | DateJournal | 133117 | [133117-datejournal.json](./133117-datejournal.json) |
 | Dateless Love: Love Story Behind the Restoration | 270803 | [270803-dateless-love-love-story-behind-the-restoration.json](./270803-dateless-love-love-story-behind-the-restoration.json) |
+| Datenshi Kyouko | 66268 | [66268-datenshi-kyouko.json](./66268-datenshi-kyouko.json) |
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
 | Datepixel: A Nopixel Dating Sim | 184205 | [184205-datepixel-a-nopixel-dating-sim.json](./184205-datepixel-a-nopixel-dating-sim.json) |
@@ -4606,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadcraft: It Came From the Junkyard | 199859 | [199859-deadcraft-it-came-from-the-junkyard.json](./199859-deadcraft-it-came-from-the-junkyard.json) |
 | Deadcraft: Jessie's Wasteland Wares | 199860 | [199860-deadcraft-jessies-wasteland-wares.json](./199860-deadcraft-jessies-wasteland-wares.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
+| DeadEnd: Cerebral Vortex | 65110 | [65110-deadend-cerebral-vortex.json](./65110-deadend-cerebral-vortex.json) |
 | Deadenders | 250230 | [250230-deadenders.json](./250230-deadenders.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
@@ -5166,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
 | Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
+| Death in Candlewood | 61796 | [61796-death-in-candlewood.json](./61796-death-in-candlewood.json) |
 | Death in Excess | 222623 | [222623-death-in-excess.json](./222623-death-in-excess.json) |
 | Death in Sakkara: An Egyptian Adventure | 387813 | [387813-death-in-sakkara-an-egyptian-adventure.json](./387813-death-in-sakkara-an-egyptian-adventure.json) |
 | Death in sands | 190850 | [190850-death-in-sands.json](./190850-death-in-sands.json) |
@@ -8127,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Descent Into the Abyss | 268883 | [268883-descent-into-the-abyss.json](./268883-descent-into-the-abyss.json) |
 | Descent Maximum | 20130 | [20130-descent-maximum.json](./20130-descent-maximum.json) |
+| Descent Mission Builder | 65114 | [65114-descent-mission-builder.json](./65114-descent-mission-builder.json) |
 | Descent Of Lunaris | 375453 | [375453-descent-of-lunaris.json](./375453-descent-of-lunaris.json) |
 | Descent of Man | 120120 | [120120-descent-of-man.json](./120120-descent-of-man.json) |
 | Descent of the Hunted | 274319 | [274319-descent-of-the-hunted.json](./274319-descent-of-the-hunted.json) |
@@ -14158,6 +14162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Buy This | 18668 | [18668-dont-buy-this.json](./18668-dont-buy-this.json) |
 | Don't Byte Your Tongue | 239460 | [239460-dont-byte-your-tongue.json](./239460-dont-byte-your-tongue.json) |
 | Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
+| Don't Call Me Skyfish | 65132 | [65132-dont-call-me-skyfish.json](./65132-dont-call-me-skyfish.json) |
 | Don't Chat With Strangers | 26739 | [26739-dont-chat-with-strangers.json](./26739-dont-chat-with-strangers.json) |
 | Don't Cheat on Me | 142662 | [142662-dont-cheat-on-me.json](./142662-dont-cheat-on-me.json) |
 | Don't Choke | 180754 | [180754-dont-choke.json](./180754-dont-choke.json) |
@@ -15826,7 +15831,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Romance | 172424 | [172424-double-romance.json](./172424-double-romance.json) |
 | Double S.T.E.A.L.: The Second Clash | 63028 | [63028-double-s-t-e-a-l-the-second-clash.json](./63028-double-s-t-e-a-l-the-second-clash.json) |
+| Double Score: Cattleya x Narcissus | 62903 | [62903-double-score-cattleya-x-narcissus.json](./62903-double-score-cattleya-x-narcissus.json) |
 | Double Score: Cosmos x Camellia | 62917 | [62917-double-score-cosmos-x-camellia.json](./62917-double-score-cosmos-x-camellia.json) |
+| Double Score: Marguerite x Tulip | 62902 | [62902-double-score-marguerite-x-tulip.json](./62902-double-score-marguerite-x-tulip.json) |
 | Double Sequence: The Q-Virus Invasion | 47884 | [47884-double-sequence-the-q-virus-invasion.json](./47884-double-sequence-the-q-virus-invasion.json) |
 | Double Shot | 107857 | [107857-double-shot.json](./107857-double-shot.json) |
 | Double Shot Gals | 196361 | [196361-double-shot-gals.json](./196361-double-shot-gals.json) |
@@ -19264,6 +19271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drol | 6098 | [6098-drol.json](./6098-drol.json) |
 | Drolf | 104737 | [104737-drolf.json](./104737-drolf.json) |
 | Drom | 225821 | [225821-drom.json](./225821-drom.json) |
+| Drome | 61802 | [61802-drome.json](./61802-drome.json) |
 | Drome Racers | 22244 | [22244-drome-racers.json](./22244-drome-racers.json) |
 | Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
 | Drome van Slange Bundle | 331558 | [331558-drome-van-slange-bundle.json](./331558-drome-van-slange-bundle.json) |
