@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xonix32 | 355988 | [355988-xonix32.json](./355988-xonix32.json) |
 | Xonotic | 9587 | [9587-xonotic.json](./9587-xonotic.json) |
 | Xonox - Robin Hood/Sir Lancelot | 40579 | [40579-xonox-robin-hood-sir-lancelot.json](./40579-xonox-robin-hood-sir-lancelot.json) |
+| Xonox Double Ender: Artillery Duel/Ghost Manor | 124302 | [124302-xonox-double-ender-artillery-duel-ghost-manor.json](./124302-xonox-double-ender-artillery-duel-ghost-manor.json) |
 | Xonox Double-Ender: Robin Hood & Sir Lancelot | 60937 | [60937-xonox-double-ender-robin-hood-and-sir-lancelot.json](./60937-xonox-double-ender-robin-hood-and-sir-lancelot.json) |
 | Xonox Double-Ender: Tomarc the Barbarian & Motocross Racer | 40743 | [40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json](./40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json) |
 | Xontainer Meta Space | 329156 | [329156-xontainer-meta-space.json](./329156-xontainer-meta-space.json) |
