@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween: October 31st | 176786 | [176786-halloween-october-31st.json](./176786-halloween-october-31st.json) |
 | Halloween: October 31st Demake | 218575 | [218575-halloween-october-31st-demake.json](./218575-halloween-october-31st-demake.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
+| Halloween: Tidy Up | 425275 | [425275-halloween-tidy-up.json](./425275-halloween-tidy-up.json) |
 | Halloween: Trick or Treat 2 | 61361 | [61361-halloween-trick-or-treat-2.json](./61361-halloween-trick-or-treat-2.json) |
 | Halloween: Trick or Treat 3 Collectors Edition | 375506 | [375506-halloween-trick-or-treat-3-collectors-edition.json](./375506-halloween-trick-or-treat-3-collectors-edition.json) |
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
