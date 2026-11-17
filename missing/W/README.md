@@ -4988,7 +4988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisker Cowboy | 385625 | [385625-whisker-cowboy.json](./385625-whisker-cowboy.json) |
 | Whisker President | 302880 | [302880-whisker-president.json](./302880-whisker-president.json) |
 | Whisker Squadron | 145504 | [145504-whisker-squadron.json](./145504-whisker-squadron.json) |
-| Whisker Squadron: Survivor | 229193 | [229193-whisker-squadron-survivor.json](./229193-whisker-squadron-survivor.json) |
 | Whisker Tinkers | 426955 | [426955-whisker-tinkers.json](./426955-whisker-tinkers.json) |
 | Whisker Wanderlust: The Wondrous Journey | 349100 | [349100-whisker-wanderlust-the-wondrous-journey.json](./349100-whisker-wanderlust-the-wondrous-journey.json) |
 | Whisker Wanderlust: Unwritten Chapter | 391183 | [391183-whisker-wanderlust-unwritten-chapter.json](./391183-whisker-wanderlust-unwritten-chapter.json) |
@@ -10685,6 +10684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Online | 20487 | [20487-wwii-online.json](./20487-wwii-online.json) |
 | WWII Online: Chokepoint | 154269 | [154269-wwii-online-chokepoint.json](./154269-wwii-online-chokepoint.json) |
 | WWII Online: Paratrooper Pack | 227013 | [227013-wwii-online-paratrooper-pack.json](./227013-wwii-online-paratrooper-pack.json) |
+| WWII Partisanen | 131681 | [131681-wwii-partisanen.json](./131681-wwii-partisanen.json) |
 | WWII Simulator 3D | 303093 | [303093-wwii-simulator-3d.json](./303093-wwii-simulator-3d.json) |
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
 | WWII Tanks Battle: World War 2 Heroes Troopers Machines Sim | 274520 | [274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json](./274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json) |
