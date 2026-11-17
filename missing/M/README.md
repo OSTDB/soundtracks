@@ -18858,7 +18858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin-dani no Okurimono | 97404 | [97404-moomin-dani-no-okurimono.json](./97404-moomin-dani-no-okurimono.json) |
 | Moomin: Welcome to Moominvalley | 203477 | [203477-moomin-welcome-to-moominvalley.json](./203477-moomin-welcome-to-moominvalley.json) |
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
-| Moomintroll: Winter's Warmth | 348272 | [348272-moomintroll-winters-warmth.json](./348272-moomintroll-winters-warmth.json) |
 | MooMoo.io | 111895 | [111895-moomoo-io.json](./111895-moomoo-io.json) |
 | Moon | 188135 | [188135-moon.json](./188135-moon.json) |
 | Moon | 212774 | [212774-moon.json](./212774-moon.json) |
