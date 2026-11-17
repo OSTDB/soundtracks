@@ -4306,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What The Pak?! | 292350 | [292350-what-the-pak.json](./292350-what-the-pak.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
+| What the Tune?! | 426479 | [426479-what-the-tune.json](./426479-what-the-tune.json) |
 | What the Zombies?! | 172846 | [172846-what-the-zombies.json](./172846-what-the-zombies.json) |
 | What The?! Party Trivia Game | 68245 | [68245-what-the-party-trivia-game.json](./68245-what-the-party-trivia-game.json) |
 | What They Don't Sea | 223345 | [223345-what-they-dont-sea.json](./223345-what-they-dont-sea.json) |
@@ -4493,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
 | Wheelie King 5 | 238712 | [238712-wheelie-king-5.json](./238712-wheelie-king-5.json) |
 | Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
+| Wheelie King 9 | 426516 | [426516-wheelie-king-9.json](./426516-wheelie-king-9.json) |
 | Wheelie King Online | 166883 | [166883-wheelie-king-online.json](./166883-wheelie-king-online.json) |
 | Wheelie King VR | 118035 | [118035-wheelie-king-vr.json](./118035-wheelie-king-vr.json) |
 | Wheelie Life | 249720 | [249720-wheelie-life.json](./249720-wheelie-life.json) |
@@ -7197,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Sword | 81963 | [81963-witch-sword.json](./81963-witch-sword.json) |
 | Witch the Showdown | 398388 | [398388-witch-the-showdown.json](./398388-witch-the-showdown.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
+| Witch Time | 426478 | [426478-witch-time.json](./426478-witch-time.json) |
 | Witch Tower: Flash | 281614 | [281614-witch-tower-flash.json](./281614-witch-tower-flash.json) |
 | Witch Trainer | 251384 | [251384-witch-trainer.json](./251384-witch-trainer.json) |
 | Witch Trials | 76874 | [76874-witch-trials.json](./76874-witch-trials.json) |
@@ -7283,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Hand | 359134 | [359134-witches-hand.json](./359134-witches-hand.json) |
 | Witches' Legacy: Awakening Darkness | 187997 | [187997-witches-legacy-awakening-darkness.json](./187997-witches-legacy-awakening-darkness.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
+| Witches' Legacy: Covered by the Night | 426505 | [426505-witches-legacy-covered-by-the-night.json](./426505-witches-legacy-covered-by-the-night.json) |
 | Witches' Legacy: Dark Days to Come | 415975 | [415975-witches-legacy-dark-days-to-come.json](./415975-witches-legacy-dark-days-to-come.json) |
 | Witches' Legacy: Dark Days to Come - Collector's Edition | 415974 | [415974-witches-legacy-dark-days-to-come-collectors-edition.json](./415974-witches-legacy-dark-days-to-come-collectors-edition.json) |
 | Witches' Legacy: Hunter and the Hunted | 140205 | [140205-witches-legacy-hunter-and-the-hunted.json](./140205-witches-legacy-hunter-and-the-hunted.json) |
@@ -7291,6 +7295,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Lair of the Witch Queen | 140206 | [140206-witches-legacy-lair-of-the-witch-queen.json](./140206-witches-legacy-lair-of-the-witch-queen.json) |
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
 | Witches' Legacy: Lair of the Witch Queen & Witches' Legacy: Hunter and the Hunted | 201072 | [201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json](./201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json) |
+| Witches' Legacy: Rise of the Ancient | 426506 | [426506-witches-legacy-rise-of-the-ancient.json](./426506-witches-legacy-rise-of-the-ancient.json) |
+| Witches' Legacy: Secret Enemy | 426507 | [426507-witches-legacy-secret-enemy.json](./426507-witches-legacy-secret-enemy.json) |
 | Witches' Legacy: Slumbering Darkness | 140207 | [140207-witches-legacy-slumbering-darkness.json](./140207-witches-legacy-slumbering-darkness.json) |
 | Witches' Legacy: Slumbering Darkness - Collector's Edition | 29618 | [29618-witches-legacy-slumbering-darkness-collectors-edition.json](./29618-witches-legacy-slumbering-darkness-collectors-edition.json) |
 | Witches' Legacy: Slumbering Darkness HD | 100519 | [100519-witches-legacy-slumbering-darkness-hd.json](./100519-witches-legacy-slumbering-darkness-hd.json) |
