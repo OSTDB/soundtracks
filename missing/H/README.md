@@ -4282,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Metal Babes | 172332 | [172332-heavy-metal-babes.json](./172332-heavy-metal-babes.json) |
 | Heavy Metal Death Can | 386835 | [386835-heavy-metal-death-can.json](./386835-heavy-metal-death-can.json) |
 | Heavy Metal Paradroid | 296216 | [296216-heavy-metal-paradroid.json](./296216-heavy-metal-paradroid.json) |
+| Heavy Metal Tennis Training | 108522 | [108522-heavy-metal-tennis-training.json](./108522-heavy-metal-tennis-training.json) |
 | Heavy Metal Thunder | 56142 | [56142-heavy-metal-thunder.json](./56142-heavy-metal-thunder.json) |
 | Heavy Metal Titans | 252256 | [252256-heavy-metal-titans.json](./252256-heavy-metal-titans.json) |
 | Heavy Metal: F.A.K.K. 2 | 8290 | [8290-heavy-metal-f-a-k-k-2.json](./8290-heavy-metal-f-a-k-k-2.json) |
@@ -5380,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Me! | 336959 | [336959-help-me.json](./336959-help-me.json) |
 | Help Newton | 197228 | [197228-help-newton.json](./197228-help-newton.json) |
 | Help Police: Pull the Pins | 290461 | [290461-help-police-pull-the-pins.json](./290461-help-police-pull-the-pins.json) |
+| Help Purple | 107312 | [107312-help-purple.json](./107312-help-purple.json) |
 | Help Rococo | 333345 | [333345-help-rococo.json](./333345-help-rococo.json) |
 | Help the Cats | 290657 | [290657-help-the-cats.json](./290657-help-the-cats.json) |
 | Help the Cats to Go Home ! - Use the Cats Food to Help Them ! | 197680 | [197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json](./197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json) |
@@ -13623,6 +13625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
 | Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
 | Hungry Dogs | 252251 | [252251-hungry-dogs.json](./252251-hungry-dogs.json) |
+| Hungry Dragon | 107320 | [107320-hungry-dragon.json](./107320-hungry-dragon.json) |
 | Hungry Ducks | 177291 | [177291-hungry-ducks.json](./177291-hungry-ducks.json) |
 | Hungry Fish | 167389 | [167389-hungry-fish.json](./167389-hungry-fish.json) |
 | Hungry Fish Evolution | 96629 | [96629-hungry-fish-evolution.json](./96629-hungry-fish-evolution.json) |
@@ -13846,6 +13849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter X Hunter - Michibikareshi Mono | 37439 | [37439-hunter-x-hunter-michibikareshi-mono.json](./37439-hunter-x-hunter-michibikareshi-mono.json) |
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
 | Hunter x Hunter: Battle Allstars | 58385 | [58385-hunter-x-hunter-battle-allstars.json](./58385-hunter-x-hunter-battle-allstars.json) |
+| Hunter X Hunter: Greed Adventure | 107319 | [107319-hunter-x-hunter-greed-adventure.json](./107319-hunter-x-hunter-greed-adventure.json) |
 | Hunter X Hunter: Greed Island | 37440 | [37440-hunter-x-hunter-greed-island.json](./37440-hunter-x-hunter-greed-island.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
 | Hunter X Hunter: Ishi o Tsugomono | 37503 | [37503-hunter-x-hunter-ishi-o-tsugomono.json](./37503-hunter-x-hunter-ishi-o-tsugomono.json) |
