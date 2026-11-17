@@ -8914,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lore of the Frog | 309957 | [309957-lore-of-the-frog.json](./309957-lore-of-the-frog.json) |
 | Lore Restore | 368477 | [368477-lore-restore.json](./368477-lore-restore.json) |
 | Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
+| Lore: Core Fear | 427098 | [427098-lore-core-fear.json](./427098-lore-core-fear.json) |
 | Lore: Curse of the Elemental | 244770 | [244770-lore-curse-of-the-elemental.json](./244770-lore-curse-of-the-elemental.json) |
 | Lore: The Hunt | 144066 | [144066-lore-the-hunt.json](./144066-lore-the-hunt.json) |
 | Lored | 329455 | [329455-lored.json](./329455-lored.json) |
@@ -11622,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lycans | 272501 | [272501-lycans.json](./272501-lycans.json) |
+| Lycans 2 | 427096 | [427096-lycans-2.json](./427096-lycans-2.json) |
 | Lycanthorn | 139511 | [139511-lycanthorn.json](./139511-lycanthorn.json) |
 | Lycanthorn II: Rain of Beasts | 149688 | [149688-lycanthorn-ii-rain-of-beasts.json](./149688-lycanthorn-ii-rain-of-beasts.json) |
 | Lycanthorn III | 239592 | [239592-lycanthorn-iii.json](./239592-lycanthorn-iii.json) |
