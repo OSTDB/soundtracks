@@ -26608,7 +26608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinysss! | 216293 | [216293-tinysss.json](./216293-tinysss.json) |
 | TinyTan Tamagotchi | 230080 | [230080-tinytan-tamagotchi.json](./230080-tinytan-tamagotchi.json) |
 | TinyTiny | 235820 | [235820-tinytiny.json](./235820-tinytiny.json) |
-| Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinytown | 226387 | [226387-tinytown.json](./226387-tinytown.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
 | TinyWar | 83280 | [83280-tinywar.json](./83280-tinywar.json) |
@@ -37106,7 +37105,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Blades: The Reaping Vanguard | 19890 | [19890-twin-blades-the-reaping-vanguard.json](./19890-twin-blades-the-reaping-vanguard.json) |
 | Twin Blue Moons | 88191 | [88191-twin-blue-moons.json](./88191-twin-blue-moons.json) |
 | Twin Brats | 289132 | [289132-twin-brats.json](./289132-twin-brats.json) |
-| Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
 | Twin Breaker: A Sacred Symbols Adventure - Limited Edition | 166254 | [166254-twin-breaker-a-sacred-symbols-adventure-limited-edition.json](./166254-twin-breaker-a-sacred-symbols-adventure-limited-edition.json) |
 | Twin Bros | 30641 | [30641-twin-bros.json](./30641-twin-bros.json) |
 | Twin Brothers | 55473 | [55473-twin-brothers.json](./55473-twin-brothers.json) |
