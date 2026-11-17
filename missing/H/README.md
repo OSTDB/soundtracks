@@ -14415,6 +14415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
 | Hyper Slasher | 81021 | [81021-hyper-slasher.json](./81021-hyper-slasher.json) |
 | Hyper Space | 59807 | [59807-hyper-space.json](./59807-hyper-space.json) |
+| Hyper Sphere | 419263 | [419263-hyper-sphere.json](./419263-hyper-sphere.json) |
 | Hyper Sports | 278584 | [278584-hyper-sports.json](./278584-hyper-sports.json) |
 | Hyper Sports | 278585 | [278585-hyper-sports.json](./278585-hyper-sports.json) |
 | Hyper Sports | 278586 | [278586-hyper-sports.json](./278586-hyper-sports.json) |
