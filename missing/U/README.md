@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Above | 250917 | [250917-underground-above.json](./250917-underground-above.json) |
 | Underground Adventure | 214421 | [214421-underground-adventure.json](./214421-underground-adventure.json) |
 | Underground Base | 271959 | [271959-underground-base.json](./271959-underground-base.json) |
+| Underground Bundle: Dungeon Adventure and Miners Races | 186932 | [186932-underground-bundle-dungeon-adventure-and-miners-races.json](./186932-underground-bundle-dungeon-adventure-and-miners-races.json) |
 | Underground Business | 406924 | [406924-underground-business.json](./406924-underground-business.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
@@ -3190,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstrange | 386829 | [386829-unstrange.json](./386829-unstrange.json) |
 | Unstrayed | 289924 | [289924-unstrayed.json](./289924-unstrayed.json) |
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
+| Unstrong: Space Calamity | 186933 | [186933-unstrong-space-calamity.json](./186933-unstrong-space-calamity.json) |
 | Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
 | UnSummoning: the Spectral Horde | 34058 | [34058-unsummoning-the-spectral-horde.json](./34058-unsummoning-the-spectral-horde.json) |
 | Unsung Ballads | 244618 | [244618-unsung-ballads.json](./244618-unsung-ballads.json) |
