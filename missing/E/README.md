@@ -4197,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enderal: Forgotten Stories - Special Edition | 153743 | [153743-enderal-forgotten-stories-special-edition.json](./153743-enderal-forgotten-stories-special-edition.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Enders Gate | 229995 | [229995-enders-gate.json](./229995-enders-gate.json) |
+| Enders Project | 65113 | [65113-enders-project.json](./65113-enders-project.json) |
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
 | Endgame | 23774 | [23774-endgame.json](./23774-endgame.json) |
@@ -6146,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the XX | 378147 | [378147-escape-from-the-xx.json](./378147-escape-from-the-xx.json) |
 | Escape from the Yellow Room 3 | 220216 | [220216-escape-from-the-yellow-room-3.json](./220216-escape-from-the-yellow-room-3.json) |
 | Escape From This Planet | 224550 | [224550-escape-from-this-planet.json](./224550-escape-from-this-planet.json) |
+| Escape from Thunder Island | 65123 | [65123-escape-from-thunder-island.json](./65123-escape-from-thunder-island.json) |
 | Escape From Timokha 2: Army | 334199 | [334199-escape-from-timokha-2-army.json](./334199-escape-from-timokha-2-army.json) |
 | Escape from Titan | 113358 | [113358-escape-from-titan.json](./113358-escape-from-titan.json) |
 | Escape from Toilets | 265769 | [265769-escape-from-toilets.json](./265769-escape-from-toilets.json) |
@@ -6578,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaping Diddler | 321528 | [321528-escaping-diddler.json](./321528-escaping-diddler.json) |
 | Escaping Hell | 138642 | [138642-escaping-hell.json](./138642-escaping-hell.json) |
 | Escaping maze | 148784 | [148784-escaping-maze.json](./148784-escaping-maze.json) |
+| Escaping Titan | 61794 | [61794-escaping-titan.json](./61794-escaping-titan.json) |
 | Escaping Wonderland | 306956 | [306956-escaping-wonderland.json](./306956-escaping-wonderland.json) |
 | Escapism Ltd. | 308869 | [308869-escapism-ltd.json](./308869-escapism-ltd.json) |
 | Escapology | 174582 | [174582-escapology.json](./174582-escapology.json) |
