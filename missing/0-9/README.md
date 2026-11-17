@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12, Memory Lane | 379392 | [379392-12-memory-lane.json](./379392-12-memory-lane.json) |
 | 12.12.25 | 339078 | [339078-12-12-25.json](./339078-12-12-25.json) |
 | 12+ | 98424 | [98424-12.json](./98424-12.json) |
+| 120 Yen Stories | 188713 | [188713-120-yen-stories.json](./188713-120-yen-stories.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 121 N | 98421 | [98421-121-n.json](./98421-121-n.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
@@ -3989,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Nendohan: Eitango Center 1500 | 133254 | [133254-99-nendohan-eitango-center-1500.json](./133254-99-nendohan-eitango-center-1500.json) |
 | 99 Nights In The Apocalypse | 414522 | [414522-99-nights-in-the-apocalypse.json](./414522-99-nights-in-the-apocalypse.json) |
 | 99 no Namida | 66970 | [66970-99-no-namida.json](./66970-99-no-namida.json) |
+| 99 Pixel Cats | 188700 | [188700-99-pixel-cats.json](./188700-99-pixel-cats.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
 | 99 Seconds | 221992 | [221992-99-seconds.json](./221992-99-seconds.json) |
 | 99 Species | 309158 | [309158-99-species.json](./309158-99-species.json) |
