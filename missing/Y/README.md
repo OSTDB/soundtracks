@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokaizer: Kaiki-dou | 385721 | [385721-yokaizer-kaiki-dou.json](./385721-yokaizer-kaiki-dou.json) |
 | Yokaizer: Kouki-dou | 385911 | [385911-yokaizer-kouki-dou.json](./385911-yokaizer-kouki-dou.json) |
 | Yokaizer: Yuuki-dou | 385720 | [385720-yokaizer-yuuki-dou.json](./385720-yokaizer-yuuki-dou.json) |
+| Yokaze | 150179 | [150179-yokaze.json](./150179-yokaze.json) |
 | YokeLight | 103421 | [103421-yokelight.json](./103421-yokelight.json) |
 | Yokiyo | 399855 | [399855-yokiyo.json](./399855-yokiyo.json) |
 | Yokiyo | 399856 | [399856-yokiyo.json](./399856-yokiyo.json) |
@@ -1800,7 +1801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Unique Mask Set | 411025 | [411025-ys-ix-monstrum-nox-unique-mask-set.json](./411025-ys-ix-monstrum-nox-unique-mask-set.json) |
 | Ys IX: Monstrum Nox - Variety Mask Set | 411026 | [411026-ys-ix-monstrum-nox-variety-mask-set.json](./411026-ys-ix-monstrum-nox-variety-mask-set.json) |
 | Ys IX: Monstrum Nox - White Cat's "Monstrum Troupe" Costume | 411027 | [411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json](./411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json) |
-| Ys Memoire: Revelations in Celceta | 363998 | [363998-ys-memoire-revelations-in-celceta.json](./363998-ys-memoire-revelations-in-celceta.json) |
 | Ys Memoire: The Oath in Felghana | 232700 | [232700-ys-memoire-the-oath-in-felghana.json](./232700-ys-memoire-the-oath-in-felghana.json) |
 | Ys Online: The Ark of Napishtim | 214085 | [214085-ys-online-the-ark-of-napishtim.json](./214085-ys-online-the-ark-of-napishtim.json) |
 | Ys Online: The Call of Solum | 15458 | [15458-ys-online-the-call-of-solum.json](./15458-ys-online-the-call-of-solum.json) |
@@ -1820,7 +1820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
 | Ys VIII: Lacrimosa of Dana - Ultimate Resource Bundle | 124905 | [124905-ys-viii-lacrimosa-of-dana-ultimate-resource-bundle.json](./124905-ys-viii-lacrimosa-of-dana-ultimate-resource-bundle.json) |
 | Ys vs. Sora no Kiseki: Alternative Saga | 42772 | [42772-ys-vs-sora-no-kiseki-alternative-saga.json](./42772-ys-vs-sora-no-kiseki-alternative-saga.json) |
-| Ys vs. Trails in the Sky: Alternative Saga | 326629 | [326629-ys-vs-trails-in-the-sky-alternative-saga.json](./326629-ys-vs-trails-in-the-sky-alternative-saga.json) |
 | Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
 | Ys X: Nordics - Advanced Pack | 324357 | [324357-ys-x-nordics-advanced-pack.json](./324357-ys-x-nordics-advanced-pack.json) |
 | Ys X: Nordics - Attachment Pack | 324355 | [324355-ys-x-nordics-attachment-pack.json](./324355-ys-x-nordics-attachment-pack.json) |
@@ -1847,7 +1846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Nordics - Starter Pack | 324351 | [324351-ys-x-nordics-starter-pack.json](./324351-ys-x-nordics-starter-pack.json) |
 | Ys X: Nordics - Summer Adventure | 291126 | [291126-ys-x-nordics-summer-adventure.json](./291126-ys-x-nordics-summer-adventure.json) |
 | Ys X: Nordics - The Pikkard Set | 291099 | [291099-ys-x-nordics-the-pikkard-set.json](./291099-ys-x-nordics-the-pikkard-set.json) |
-| Ys X: Proud Nordics | 326507 | [326507-ys-x-proud-nordics.json](./326507-ys-x-proud-nordics.json) |
 | Ys X: Proud Nordics - Balduq Mascot Set | 393070 | [393070-ys-x-proud-nordics-balduq-mascot-set.json](./393070-ys-x-proud-nordics-balduq-mascot-set.json) |
 | Ys X: Proud Nordics - Costume Pack | 402141 | [402141-ys-x-proud-nordics-costume-pack.json](./402141-ys-x-proud-nordics-costume-pack.json) |
 | Ys X: Proud Nordics - Deluxe Edition | 402124 | [402124-ys-x-proud-nordics-deluxe-edition.json](./402124-ys-x-proud-nordics-deluxe-edition.json) |
@@ -1914,7 +1912,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories | 56978 | [56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json](./56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json) |
 | Yu-Gi-Oh! Duel Monsters Saikyo Card Battle | 58652 | [58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json](./58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json) |
 | Yu-Gi-Oh! Dungeon Dice Monsters | 49211 | [49211-yu-gi-oh-dungeon-dice-monsters.json](./49211-yu-gi-oh-dungeon-dice-monsters.json) |
-| Yu-Gi-Oh! Early Days Collection | 309038 | [309038-yu-gi-oh-early-days-collection.json](./309038-yu-gi-oh-early-days-collection.json) |
 | Yu-Gi-Oh! Forbidden Memories | 4108 | [4108-yu-gi-oh-forbidden-memories.json](./4108-yu-gi-oh-forbidden-memories.json) |
 | Yu-Gi-Oh! Forbidden Memories II Ultimate | 308412 | [308412-yu-gi-oh-forbidden-memories-ii-ultimate.json](./308412-yu-gi-oh-forbidden-memories-ii-ultimate.json) |
 | Yu-Gi-Oh! Forbidden Memories: Alpha Mod | 308396 | [308396-yu-gi-oh-forbidden-memories-alpha-mod.json](./308396-yu-gi-oh-forbidden-memories-alpha-mod.json) |
