@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn virgins | 35537 | [35537-damn-virgins.json](./35537-damn-virgins.json) |
 | Damn Zombies | 248234 | [248234-damn-zombies.json](./248234-damn-zombies.json) |
 | Damn, what was yesterday? | 157919 | [157919-damn-what-was-yesterday.json](./157919-damn-what-was-yesterday.json) |
+| Damnatio Memoriae | 60127 | [60127-damnatio-memoriae.json](./60127-damnatio-memoriae.json) |
 | Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
 | Damnation84 | 401184 | [401184-damnation84.json](./401184-damnation84.json) |
@@ -2047,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quiet Death | 185869 | [185869-dark-quiet-death.json](./185869-dark-quiet-death.json) |
 | Dark Rage | 147019 | [147019-dark-rage.json](./147019-dark-rage.json) |
 | Dark Raid | 17238 | [17238-dark-raid.json](./17238-dark-raid.json) |
+| Dark Raid: Bot Wars | 60164 | [60164-dark-raid-bot-wars.json](./60164-dark-raid-bot-wars.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Rail | 410670 | [410670-dark-rail.json](./410670-dark-rail.json) |
 | Dark Realm 2: Princess of Ice | 46957 | [46957-dark-realm-2-princess-of-ice.json](./46957-dark-realm-2-princess-of-ice.json) |
@@ -7120,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delusion Out of Space | 247891 | [247891-delusion-out-of-space.json](./247891-delusion-out-of-space.json) |
 | Delusional | 211015 | [211015-delusional.json](./211015-delusional.json) |
 | Delusional | 377584 | [377584-delusional.json](./377584-delusional.json) |
+| Delusions | 60145 | [60145-delusions.json](./60145-delusions.json) |
 | Delusions of a Lost Soul | 196949 | [196949-delusions-of-a-lost-soul.json](./196949-delusions-of-a-lost-soul.json) |
 | Deluxe Flame Party Pack | 295446 | [295446-deluxe-flame-party-pack.json](./295446-deluxe-flame-party-pack.json) |
 | Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
