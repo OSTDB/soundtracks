@@ -4147,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Impact | 375919 | [375919-dead-impact.json](./375919-dead-impact.json) |
 | Dead In Bermuda | 18440 | [18440-dead-in-bermuda.json](./18440-dead-in-bermuda.json) |
 | Dead in the Tropics | 171762 | [171762-dead-in-the-tropics.json](./171762-dead-in-the-tropics.json) |
+| Dead in the Water | 22846 | [22846-dead-in-the-water.json](./22846-dead-in-the-water.json) |
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
 | Dead In Vinland | 54820 | [54820-dead-in-vinland.json](./54820-dead-in-vinland.json) |
 | Dead in Vinland: Endless Mode - Battle of the Heodenings | 155312 | [155312-dead-in-vinland-endless-mode-battle-of-the-heodenings.json](./155312-dead-in-vinland-endless-mode-battle-of-the-heodenings.json) |
@@ -4274,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive | 210621 | [210621-dead-or-alive.json](./210621-dead-or-alive.json) |
 | Dead or Alive | 317067 | [317067-dead-or-alive.json](./317067-dead-or-alive.json) |
+| Dead or Alive ++ | 46821 | [46821-dead-or-alive.json](./46821-dead-or-alive.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
 | Dead or Alive 2 Millennium | 39623 | [39623-dead-or-alive-2-millennium.json](./39623-dead-or-alive-2-millennium.json) |
 | Dead or Alive 2 Ultimate | 47302 | [47302-dead-or-alive-2-ultimate.json](./47302-dead-or-alive-2-ultimate.json) |
@@ -5496,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deaths Dawn | 380764 | [380764-deaths-dawn.json](./380764-deaths-dawn.json) |
 | Deaths of Peck | 398425 | [398425-deaths-of-peck.json](./398425-deaths-of-peck.json) |
 | Deaths Toll | 258064 | [258064-deaths-toll.json](./258064-deaths-toll.json) |
+| Deathscape | 41033 | [41033-deathscape.json](./41033-deathscape.json) |
 | Deathsmashers 4 | 185558 | [185558-deathsmashers-4.json](./185558-deathsmashers-4.json) |
 | Deathsmiles | 6963 | [6963-deathsmiles.json](./6963-deathsmiles.json) |
 | Deathsmiles I & II | 139183 | [139183-deathsmiles-i-and-ii.json](./139183-deathsmiles-i-and-ii.json) |
@@ -6909,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium | 234755 | [234755-delirium.json](./234755-delirium.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
+| Delirium | 55369 | [55369-delirium.json](./55369-delirium.json) |
 | Delirium VR | 116224 | [116224-delirium-vr.json](./116224-delirium-vr.json) |
 | Delirium: Bad Trip Edition | 86570 | [86570-delirium-bad-trip-edition.json](./86570-delirium-bad-trip-edition.json) |
 | Delirium: Chase Scene | 128719 | [128719-delirium-chase-scene.json](./128719-delirium-chase-scene.json) |
@@ -8907,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Dunkadoo | 386965 | [386965-detective-dunkadoo.json](./386965-detective-dunkadoo.json) |
 | Detective escape1 | 111958 | [111958-detective-escape1.json](./111958-detective-escape1.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
+| Detective Evangelion | 72826 | [72826-detective-evangelion.json](./72826-detective-evangelion.json) |
 | Detective Face | 279175 | [279175-detective-face.json](./279175-detective-face.json) |
 | Detective Failure | 103768 | [103768-detective-failure.json](./103768-detective-failure.json) |
 | Detective Fantasia DX | 207572 | [207572-detective-fantasia-dx.json](./207572-detective-fantasia-dx.json) |
@@ -9519,6 +9524,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon DD | 182337 | [182337-dezaemon-dd.json](./182337-dezaemon-dd.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
+| Dezeni Land | 67551 | [67551-dezeni-land.json](./67551-dezeni-land.json) |
+| Dezeni World | 67549 | [67549-dezeni-world.json](./67549-dezeni-world.json) |
 | Dezinsector | 170665 | [170665-dezinsector.json](./170665-dezinsector.json) |
 | Dezlooca Anthology | 186498 | [186498-dezlooca-anthology.json](./186498-dezlooca-anthology.json) |
 | Dezzan | 117118 | [117118-dezzan.json](./117118-dezzan.json) |
@@ -11501,6 +11508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disappearance: Takeshi. You were right. That Abandoned Village is Too Bad | 283096 | [283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json](./283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json) |
 | Disappeared | 348120 | [348120-disappeared.json](./348120-disappeared.json) |
 | Disarmed | 158866 | [158866-disarmed.json](./158866-disarmed.json) |
+| Disassembled | 55404 | [55404-disassembled.json](./55404-disassembled.json) |
 | Disassembly Line | 77161 | [77161-disassembly-line.json](./77161-disassembly-line.json) |
 | Disassembly VR | 114256 | [114256-disassembly-vr.json](./114256-disassembly-vr.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
@@ -13802,6 +13810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokkaebi Kiugi: Bangchihyeong Geim | 228166 | [228166-dokkaebi-kiugi-bangchihyeong-geim.json](./228166-dokkaebi-kiugi-bangchihyeong-geim.json) |
 | Dokkaebi-ga Ganda | 39916 | [39916-dokkaebi-ga-ganda.json](./39916-dokkaebi-ga-ganda.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
+| Doko demo Chocobo | 22903 | [22903-doko-demo-chocobo.json](./22903-doko-demo-chocobo.json) |
 | Doko Demo Issho Portable | 246063 | [246063-doko-demo-issho-portable.json](./246063-doko-demo-issho-portable.json) |
 | Doko Demo Issho: Let's Gakkou! | 72561 | [72561-doko-demo-issho-lets-gakkou.json](./72561-doko-demo-issho-lets-gakkou.json) |
 | Doko Demo Issho: Toro to Ippai | 246061 | [246061-doko-demo-issho-toro-to-ippai.json](./246061-doko-demo-issho-toro-to-ippai.json) |
@@ -13818,6 +13827,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokoban | 290327 | [290327-dokoban.json](./290327-dokoban.json) |
 | Dokoda | 306325 | [306325-dokoda.json](./306325-dokoda.json) |
 | Dokodemo Chinchin | 59127 | [59127-dokodemo-chinchin.json](./59127-dokodemo-chinchin.json) |
+| Dokodemo Chocobo 2: Dasshutsu! Yuureisen | 22900 | [22900-dokodemo-chocobo-2-dasshutsu-yuureisen.json](./22900-dokodemo-chocobo-2-dasshutsu-yuureisen.json) |
+| Dokodemo Chocobo 3: Taose! Niji-iro Daimaou | 22902 | [22902-dokodemo-chocobo-3-taose-niji-iro-daimaou.json](./22902-dokodemo-chocobo-3-taose-niji-iro-daimaou.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
 | Dokodemo Hamster | 37514 | [37514-dokodemo-hamster.json](./37514-dokodemo-hamster.json) |
@@ -16017,6 +16028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doujins and Dragons | 186158 | [186158-doujins-and-dragons.json](./186158-doujins-and-dragons.json) |
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
 | Doukoku Soshite... | 227429 | [227429-doukoku-soshite.json](./227429-doukoku-soshite.json) |
+| Doukoku Soshite... | 70508 | [70508-doukoku-soshite.json](./70508-doukoku-soshite.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
 | Doukutsu Randamu | 216421 | [216421-doukutsu-randamu.json](./216421-doukutsu-randamu.json) |
 | Doukutsu-rs | 399245 | [399245-doukutsu-rs.json](./399245-doukutsu-rs.json) |
@@ -16387,6 +16399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Slump | 44828 | [44828-dr-slump.json](./44828-dr-slump.json) |
 | Dr. Slump: Arale-chan | 138108 | [138108-dr-slump-arale-chan.json](./138108-dr-slump-arale-chan.json) |
 | Dr. Slump: Arale-chan | 61519 | [61519-dr-slump-arale-chan.json](./61519-dr-slump-arale-chan.json) |
+| Dr. Slump: Bubble Daisakusen | 67552 | [67552-dr-slump-bubble-daisakusen.json](./67552-dr-slump-bubble-daisakusen.json) |
 | Dr. Smart Space Adventure: In the Space | 241413 | [241413-dr-smart-space-adventure-in-the-space.json](./241413-dr-smart-space-adventure-in-the-space.json) |
 | Dr. Spacezoo | 35220 | [35220-dr-spacezoo.json](./35220-dr-spacezoo.json) |
 | Dr. Splorchy Presents Space Heroes | 106211 | [106211-dr-splorchy-presents-space-heroes.json](./106211-dr-splorchy-presents-space-heroes.json) |
@@ -17360,6 +17373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Scroll | 233256 | [233256-dragon-scroll.json](./233256-dragon-scroll.json) |
 | Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
 | Dragon Seeds | 45008 | [45008-dragon-seeds.json](./45008-dragon-seeds.json) |
+| Dragon Shadow Spell | 72814 | [72814-dragon-shadow-spell.json](./72814-dragon-shadow-spell.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Sim Online | 107340 | [107340-dragon-sim-online.json](./107340-dragon-sim-online.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
@@ -18866,6 +18880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Cars Zombie Crusher | 263864 | [263864-drift-cars-zombie-crusher.json](./263864-drift-cars-zombie-crusher.json) |
 | Drift Cart | 365239 | [365239-drift-cart.json](./365239-drift-cart.json) |
 | Drift City | 259514 | [259514-drift-city.json](./259514-drift-city.json) |
+| Drift City | 72831 | [72831-drift-city.json](./72831-drift-city.json) |
 | Drift City Underground | 235662 | [235662-drift-city-underground.json](./235662-drift-city-underground.json) |
 | Drift Clash Online Racing | 227241 | [227241-drift-clash-online-racing.json](./227241-drift-clash-online-racing.json) |
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
@@ -20603,6 +20618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Cleaners | 357041 | [357041-dungeon-cleaners.json](./357041-dungeon-cleaners.json) |
 | Dungeon Cleaners | 68211 | [68211-dungeon-cleaners.json](./68211-dungeon-cleaners.json) |
+| Dungeon Cleaners 2 | 72804 | [72804-dungeon-cleaners-2.json](./72804-dungeon-cleaners-2.json) |
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
 | Dungeon Clicker | 150405 | [150405-dungeon-clicker.json](./150405-dungeon-clicker.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
