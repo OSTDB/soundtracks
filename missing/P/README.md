@@ -6040,7 +6040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Portable 2 | 19256 | [19256-phantasy-star-portable-2.json](./19256-phantasy-star-portable-2.json) |
 | Phantasy Star Portable 2 Infinity | 79771 | [79771-phantasy-star-portable-2-infinity.json](./79771-phantasy-star-portable-2-infinity.json) |
 | Phantasy Star Universe | 7129 | [7129-phantasy-star-universe.json](./7129-phantasy-star-universe.json) |
-| Phantasy Star Universe: Ambition of the Illuminus | 21501 | [21501-phantasy-star-universe-ambition-of-the-illuminus.json](./21501-phantasy-star-universe-ambition-of-the-illuminus.json) |
 | Phantasy Star Zero Mini | 69330 | [69330-phantasy-star-zero-mini.json](./69330-phantasy-star-zero-mini.json) |
 | Phantasy Star: Fukkoku-ban | 45529 | [45529-phantasy-star-fukkoku-ban.json](./45529-phantasy-star-fukkoku-ban.json) |
 | Phantasy Star... 20 Years Past | 313784 | [313784-phantasy-star-20-years-past.json](./313784-phantasy-star-20-years-past.json) |
@@ -12072,7 +12071,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Daily Sudoku | 354988 | [354988-pogo-daily-sudoku.json](./354988-pogo-daily-sudoku.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
 | Pogo Girlfriend | 238133 | [238133-pogo-girlfriend.json](./238133-pogo-girlfriend.json) |
-| Pogo Island | 21401 | [21401-pogo-island.json](./21401-pogo-island.json) |
 | Pogo Joe | 23937 | [23937-pogo-joe.json](./23937-pogo-joe.json) |
 | Pogo Joins the Circus | 239839 | [239839-pogo-joins-the-circus.json](./239839-pogo-joins-the-circus.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
