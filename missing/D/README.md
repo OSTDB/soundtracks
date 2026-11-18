@@ -6903,7 +6903,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Home Sweet Home | 30387 | [30387-delicious-emilys-home-sweet-home.json](./30387-delicious-emilys-home-sweet-home.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
 | Delicious: Emily's Hopes & Fears | 30684 | [30684-delicious-emilys-hopes-and-fears.json](./30684-delicious-emilys-hopes-and-fears.json) |
-| Delicious: Emily's Message in a Bottle | 30960 | [30960-delicious-emilys-message-in-a-bottle.json](./30960-delicious-emilys-message-in-a-bottle.json) |
 | Delicious: Emily's Miracle of Life | 54527 | [54527-delicious-emilys-miracle-of-life.json](./54527-delicious-emilys-miracle-of-life.json) |
 | Delicious: Emily's Moms vs. Dads | 80946 | [80946-delicious-emilys-moms-vs-dads.json](./80946-delicious-emilys-moms-vs-dads.json) |
 | Delicious: Emily's New Beginning | 30917 | [30917-delicious-emilys-new-beginning.json](./30917-delicious-emilys-new-beginning.json) |
