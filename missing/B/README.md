@@ -4012,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Academy: Rommel in Normandy | 168435 | [168435-battle-academy-rommel-in-normandy.json](./168435-battle-academy-rommel-in-normandy.json) |
 | Battle Ace | 38103 | [38103-battle-ace.json](./38103-battle-ace.json) |
 | Battle Aces | 305024 | [305024-battle-aces.json](./305024-battle-aces.json) |
+| Battle Against the Acolytes of Science | 346820 | [346820-battle-against-the-acolytes-of-science.json](./346820-battle-against-the-acolytes-of-science.json) |
 | Battle Ages | 58634 | [58634-battle-ages.json](./58634-battle-ages.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
 | Battle AirForce | 337410 | [337410-battle-airforce.json](./337410-battle-airforce.json) |
@@ -6185,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Mons! | 153135 | [153135-beat-the-mons.json](./153135-beat-the-mons.json) |
 | Beat the Nettles! | 382714 | [382714-beat-the-nettles.json](./382714-beat-the-nettles.json) |
 | Beat the Nightmare: Evil Dreams Simulator VR | 172236 | [172236-beat-the-nightmare-evil-dreams-simulator-vr.json](./172236-beat-the-nightmare-evil-dreams-simulator-vr.json) |
+| Beat the Odds | 357474 | [357474-beat-the-odds.json](./357474-beat-the-odds.json) |
 | Beat the Rhythm VR | 100388 | [100388-beat-the-rhythm-vr.json](./100388-beat-the-rhythm-vr.json) |
 | Beat the Song | 107311 | [107311-beat-the-song.json](./107311-beat-the-song.json) |
 | Beat the Soul Z | 237714 | [237714-beat-the-soul-z.json](./237714-beat-the-soul-z.json) |
@@ -11725,6 +11727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg 3 | 10243 | [10243-blitzkrieg-3.json](./10243-blitzkrieg-3.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
 | Blitzkrieg Anthology | 36259 | [36259-blitzkrieg-anthology.json](./36259-blitzkrieg-anthology.json) |
+| Blitzkrieg Express | 346819 | [346819-blitzkrieg-express.json](./346819-blitzkrieg-express.json) |
 | Blitzkrieg Fire | 175128 | [175128-blitzkrieg-fire.json](./175128-blitzkrieg-fire.json) |
 | Blitzkrieg May 1940 | 15702 | [15702-blitzkrieg-may-1940.json](./15702-blitzkrieg-may-1940.json) |
 | Blitzkrieg: Battle at the Ardennes | 14318 | [14318-blitzkrieg-battle-at-the-ardennes.json](./14318-blitzkrieg-battle-at-the-ardennes.json) |
@@ -14117,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolas e Cores | 230643 | [230643-bolas-e-cores.json](./230643-bolas-e-cores.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
 | Bold Blade | 81010 | [81010-bold-blade.json](./81010-bold-blade.json) |
+| Bold Ideas | 357470 | [357470-bold-ideas.json](./357470-bold-ideas.json) |
 | Bold Moves | 249384 | [249384-bold-moves.json](./249384-bold-moves.json) |
 | Bold Moves+ | 269352 | [269352-bold-moves.json](./269352-bold-moves.json) |
 | Bold New World | 29726 | [29726-bold-new-world.json](./29726-bold-new-world.json) |
@@ -14558,6 +14562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bon Bon Paradise | 109481 | [109481-bon-bon-paradise.json](./109481-bon-bon-paradise.json) |
 | Bon Vivant: Plan the Perfect Party | 410695 | [410695-bon-vivant-plan-the-perfect-party.json](./410695-bon-vivant-plan-the-perfect-party.json) |
 | Bon Voyage | 415295 | [415295-bon-voyage.json](./415295-bon-voyage.json) |
+| Bon's Origins | 346830 | [346830-bons-origins.json](./346830-bons-origins.json) |
 | Bona Fido | 321415 | [321415-bona-fido.json](./321415-bona-fido.json) |
 | Bonanit: A Menorcan Horror Story | 319753 | [319753-bonanit-a-menorcan-horror-story.json](./319753-bonanit-a-menorcan-horror-story.json) |
 | Bonanza Bros. | 4511 | [4511-bonanza-bros.json](./4511-bonanza-bros.json) |
@@ -15836,6 +15841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Ball Battle | 425134 | [425134-bouncy-ball-battle.json](./425134-bouncy-ball-battle.json) |
 | Bouncy Ball NG | 103703 | [103703-bouncy-ball-ng.json](./103703-bouncy-ball-ng.json) |
 | Bouncy Ball: The Impossible Tile Game | 93824 | [93824-bouncy-ball-the-impossible-tile-game.json](./93824-bouncy-ball-the-impossible-tile-game.json) |
+| Bouncy Basketball | 383306 | [383306-bouncy-basketball.json](./383306-bouncy-basketball.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
 | Bouncy Bee Learns Letters | 71698 | [71698-bouncy-bee-learns-letters.json](./71698-bouncy-bee-learns-letters.json) |
 | Bouncy Bob | 53092 | [53092-bouncy-bob.json](./53092-bouncy-bob.json) |
@@ -16324,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
 | Boxing Live 2014 | 102051 | [102051-boxing-live-2014.json](./102051-boxing-live-2014.json) |
 | Boxing Live: Round 2 | 101860 | [101860-boxing-live-round-2.json](./101860-boxing-live-round-2.json) |
+| Boxing Machine VR | 346839 | [346839-boxing-machine-vr.json](./346839-boxing-machine-vr.json) |
 | Boxing Manager | 13430 | [13430-boxing-manager.json](./13430-boxing-manager.json) |
 | Boxing Manager | 200310 | [200310-boxing-manager.json](./200310-boxing-manager.json) |
 | Boxing Match | 310986 | [310986-boxing-match.json](./310986-boxing-match.json) |
@@ -20074,6 +20081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnies vs. Bunnies | 198410 | [198410-bunnies-vs-bunnies.json](./198410-bunnies-vs-bunnies.json) |
 | Bunnies vs. Bunnies: Ukraine Edition | 198411 | [198411-bunnies-vs-bunnies-ukraine-edition.json](./198411-bunnies-vs-bunnies-ukraine-edition.json) |
 | Bunniiies | 296695 | [296695-bunniiies.json](./296695-bunniiies.json) |
+| Bunnimon | 351283 | [351283-bunnimon.json](./351283-bunnimon.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
 | Bunny | 339974 | [339974-bunny.json](./339974-bunny.json) |
 | Bunny | 354653 | [354653-bunny.json](./354653-bunny.json) |
