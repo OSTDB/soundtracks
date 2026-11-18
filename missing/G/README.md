@@ -514,7 +514,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
 | Gal Guardians: Servants of the Dark | 317701 | [317701-gal-guardians-servants-of-the-dark.json](./317701-gal-guardians-servants-of-the-dark.json) |
 | Gal Gun: Double Peace Bilingal | 218892 | [218892-gal-gun-double-peace-bilingal.json](./218892-gal-gun-double-peace-bilingal.json) |
-| Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal | 57142 | [57142-gal-metal.json](./57142-gal-metal.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal Pani | 423971 | [423971-gal-pani.json](./423971-gal-pani.json) |
@@ -3584,7 +3583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Yonbaiken: Tenshi no Daigyakushu | 207177 | [207177-genso-yonbaiken-tenshi-no-daigyakushu.json](./207177-genso-yonbaiken-tenshi-no-daigyakushu.json) |
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
 | Gensokyo Daisenso | 213120 | [213120-gensokyo-daisenso.json](./213120-gensokyo-daisenso.json) |
-| Gensokyo Defenders | 96386 | [96386-gensokyo-defenders.json](./96386-gensokyo-defenders.json) |
 | Gensokyo Defenders Plus | 210333 | [210333-gensokyo-defenders-plus.json](./210333-gensokyo-defenders-plus.json) |
 | Gensokyo Ninja Warrior | 134845 | [134845-gensokyo-ninja-warrior.json](./134845-gensokyo-ninja-warrior.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
@@ -6709,7 +6707,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
 | Goblin Village | 353718 | [353718-goblin-village.json](./353718-goblin-village.json) |
 | Goblin Vyke: The Thief Tycoon | 347465 | [347465-goblin-vyke-the-thief-tycoon.json](./347465-goblin-vyke-the-thief-tycoon.json) |
-| Goblin Walker | 96420 | [96420-goblin-walker.json](./96420-goblin-walker.json) |
 | Goblin: Mutation | 366331 | [366331-goblin-mutation.json](./366331-goblin-mutation.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
@@ -7013,7 +7010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godling | 91017 | [91017-godling.json](./91017-godling.json) |
-| Godly Corp | 88122 | [88122-godly-corp.json](./88122-godly-corp.json) |
 | Godly Survivors | 272623 | [272623-godly-survivors.json](./272623-godly-survivors.json) |
 | GodMod | 215581 | [215581-godmod.json](./215581-godmod.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
@@ -8554,7 +8550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic: The Dark Secrets | 234383 | [234383-gothic-the-dark-secrets.json](./234383-gothic-the-dark-secrets.json) |
 | Gothic: Universe Edition | 53073 | [53073-gothic-universe-edition.json](./53073-gothic-universe-edition.json) |
 | Gothica: The Devil's Shadow | 217257 | [217257-gothica-the-devils-shadow.json](./217257-gothica-the-devils-shadow.json) |
-| Gothicc Breaker | 93744 | [93744-gothicc-breaker.json](./93744-gothicc-breaker.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Gothik | 14098 | [14098-gothik.json](./14098-gothik.json) |
