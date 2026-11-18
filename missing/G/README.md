@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Me Your Coins | 112686 | [112686-give-me-your-coins.json](./112686-give-me-your-coins.json) |
 | Give My Ball Back | 87722 | [87722-give-my-ball-back.json](./87722-give-my-ball-back.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
+| Give or Take: Pawn Shop | 429549 | [429549-give-or-take-pawn-shop.json](./429549-give-or-take-pawn-shop.json) |
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
 | Give the Taste of Defeat to This Loose Goddess! I'll Never Succumb to a Slut's Seduction ADV | 83113 | [83113-give-the-taste-of-defeat-to-this-loose-goddess-ill-never-succumb-to-a-sluts-seduction-adv.json](./83113-give-the-taste-of-defeat-to-this-loose-goddess-ill-never-succumb-to-a-sluts-seduction-adv.json) |
 | Give Up | 200841 | [200841-give-up.json](./200841-give-up.json) |
@@ -10821,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimKeep | 339144 | [339144-grimkeep.json](./339144-grimkeep.json) |
 | Grimland | 202513 | [202513-grimland.json](./202513-grimland.json) |
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
+| Grimlane | 429584 | [429584-grimlane.json](./429584-grimlane.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimlord | 204833 | [204833-grimlord.json](./204833-grimlord.json) |
 | Grimm | 16678 | [16678-grimm.json](./16678-grimm.json) |
@@ -13023,6 +13025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutterball 3D | 70245 | [70245-gutterball-3d.json](./70245-gutterball-3d.json) |
 | Gutterball: Golden Pin Bowling HD | 103149 | [103149-gutterball-golden-pin-bowling-hd.json](./103149-gutterball-golden-pin-bowling-hd.json) |
 | Gutterbrawlers | 242281 | [242281-gutterbrawlers.json](./242281-gutterbrawlers.json) |
+| Gutterglow | 429574 | [429574-gutterglow.json](./429574-gutterglow.json) |
 | Gutterspace | 385962 | [385962-gutterspace.json](./385962-gutterspace.json) |
 | Gutting Goblins! | 173066 | [173066-gutting-goblins.json](./173066-gutting-goblins.json) |
 | Gutz | 13863 | [13863-gutz.json](./13863-gutz.json) |
@@ -13177,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
+| Gyudon Shop Simulator | 429587 | [429587-gyudon-shop-simulator.json](./429587-gyudon-shop-simulator.json) |
 | Gyvolver | 248141 | [248141-gyvolver.json](./248141-gyvolver.json) |
 | Gyzer-0: Rising Edge | 184822 | [184822-gyzer-0-rising-edge.json](./184822-gyzer-0-rising-edge.json) |
 | GZ P.T. | 186713 | [186713-gz-p-t.json](./186713-gz-p-t.json) |
