@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
+| Yello Bandana | 55418 | [55418-yello-bandana.json](./55418-yello-bandana.json) |
 | Yellow | 385396 | [385396-yellow.json](./385396-yellow.json) |
 | Yellow | 83717 | [83717-yellow.json](./83717-yellow.json) |
 | Yellow Ballman | 153920 | [153920-yellow-ballman.json](./153920-yellow-ballman.json) |
@@ -792,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo, Matias: Sueños Peligrosos | 343311 | [343311-yo-matias-suenos-peligrosos.json](./343311-yo-matias-suenos-peligrosos.json) |
 | Yo! Joe! Beat the Ghosts | 12630 | [12630-yo-joe-beat-the-ghosts.json](./12630-yo-joe-beat-the-ghosts.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
+| Yo! Noid | 19612 | [19612-yo-noid.json](./19612-yo-noid.json) |
 | Yo! Noid 2 | 116635 | [116635-yo-noid-2.json](./116635-yo-noid-2.json) |
 | Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
 | Yo! Noid 4: Episode 3 | 316597 | [316597-yo-noid-4-episode-3.json](./316597-yo-noid-4-episode-3.json) |
@@ -1064,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Tanks | 320227 | [320227-yoshi-tanks.json](./320227-yoshi-tanks.json) |
 | Yoshi Tanks Kawaii | 368748 | [368748-yoshi-tanks-kawaii.json](./368748-yoshi-tanks-kawaii.json) |
+| Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi Touch & Go | 231475 | [231475-yoshi-touch-and-go.json](./231475-yoshi-touch-and-go.json) |
 | Yoshi vs. Plants | 422762 | [422762-yoshi-vs-plants.json](./422762-yoshi-vs-plants.json) |
 | Yoshi vs. Windows | 141624 | [141624-yoshi-vs-windows.json](./141624-yoshi-vs-windows.json) |
@@ -1855,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: Memories of Celceta - Timeless Adventurer Edition | 200610 | [200610-ys-memories-of-celceta-timeless-adventurer-edition.json](./200610-ys-memories-of-celceta-timeless-adventurer-edition.json) |
 | Ys: The Oath in Felghana - Premium Edition | 42690 | [42690-ys-the-oath-in-felghana-premium-edition.json](./42690-ys-the-oath-in-felghana-premium-edition.json) |
 | Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
+| Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
 | Ys: Wanderers from Ys | 206523 | [206523-ys-wanderers-from-ys.json](./206523-ys-wanderers-from-ys.json) |
 | Ys: Wanderers from Ys | 375461 | [375461-ys-wanderers-from-ys.json](./375461-ys-wanderers-from-ys.json) |
 | YSFlight | 50309 | [50309-ysflight.json](./50309-ysflight.json) |
@@ -1953,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! Special Edition | 225342 | [225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json](./225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json) |
 | Yu-Gi-Oh! Tag Force GX | 417178 | [417178-yu-gi-oh-tag-force-gx.json](./417178-yu-gi-oh-tag-force-gx.json) |
+| Yu-Gi-Oh! The Eternal Duelist Soul | 11672 | [11672-yu-gi-oh-the-eternal-duelist-soul.json](./11672-yu-gi-oh-the-eternal-duelist-soul.json) |
 | Yu-Gi-Oh! The Falsebound Kingdom | 4582 | [4582-yu-gi-oh-the-falsebound-kingdom.json](./4582-yu-gi-oh-the-falsebound-kingdom.json) |
 | Yu-Gi-Oh! The Sacred Cards | 6697 | [6697-yu-gi-oh-the-sacred-cards.json](./6697-yu-gi-oh-the-sacred-cards.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
