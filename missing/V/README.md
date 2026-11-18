@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vahluna Corp. | 262623 | [262623-vahluna-corp.json](./262623-vahluna-corp.json) |
 | Vahnora | 403128 | [403128-vahnora.json](./403128-vahnora.json) |
 | Vai Juliette! | 248758 | [248758-vai-juliette.json](./248758-vai-juliette.json) |
+| Vail | 142985 | [142985-vail.json](./142985-vail.json) |
 | Vail: Enigmia Pack | 290780 | [290780-vail-enigmia-pack.json](./290780-vail-enigmia-pack.json) |
 | Vain Ascendance | 210436 | [210436-vain-ascendance.json](./210436-vain-ascendance.json) |
 | Vain Dream | 238483 | [238483-vain-dream.json](./238483-vain-dream.json) |
