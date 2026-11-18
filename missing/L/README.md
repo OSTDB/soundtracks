@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazerz | 294282 | [294282-lazerz.json](./294282-lazerz.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazlet | 82550 | [82550-lazlet.json](./82550-lazlet.json) |
+| Lazlos' Leap | 61363 | [61363-lazlos-leap.json](./61363-lazlos-leap.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazriel the Demon's Fall | 195968 | [195968-lazriel-the-demons-fall.json](./195968-lazriel-the-demons-fall.json) |
 | LazuLight: By Your Side | 201749 | [201749-lazulight-by-your-side.json](./201749-lazulight-by-your-side.json) |
@@ -6869,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little League Baseball: Championship Series | 48283 | [48283-little-league-baseball-championship-series.json](./48283-little-league-baseball-championship-series.json) |
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
 | Little League World Series Baseball 2009 | 51067 | [51067-little-league-world-series-baseball-2009.json](./51067-little-league-world-series-baseball-2009.json) |
+| Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
 | Little League World Series Baseball 2022 | 204905 | [204905-little-league-world-series-baseball-2022.json](./204905-little-league-world-series-baseball-2022.json) |
 | Little League World Series Double Play | 51071 | [51071-little-league-world-series-double-play.json](./51071-little-league-world-series-double-play.json) |
 | Little Learning Machines | 217150 | [217150-little-learning-machines.json](./217150-little-learning-machines.json) |
