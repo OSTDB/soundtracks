@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Shot 2 | 403487 | [403487-face-shot-2.json](./403487-face-shot-2.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
 | Face the Immortal | 392243 | [392243-face-the-immortal.json](./392243-face-the-immortal.json) |
+| Face the Puzzle: Masked Journey | 416305 | [416305-face-the-puzzle-masked-journey.json](./416305-face-the-puzzle-masked-journey.json) |
 | Face to Face | 340167 | [340167-face-to-face.json](./340167-face-to-face.json) |
 | Face Training: Facial Exercises to Strengthen and Relax from Fumiko Inudo | 91846 | [91846-face-training-facial-exercises-to-strengthen-and-relax-from-fumiko-inudo.json](./91846-face-training-facial-exercises-to-strengthen-and-relax-from-fumiko-inudo.json) |
 | Face Word | 232482 | [232482-face-word.json](./232482-face-word.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
 | Falcon Squad | 227953 | [227953-falcon-squad.json](./227953-falcon-squad.json) |
 | Falcon: The Renegade Lord | 14062 | [14062-falcon-the-renegade-lord.json](./14062-falcon-the-renegade-lord.json) |
+| Falconers' Gate | 416318 | [416318-falconers-gate.json](./416318-falconers-gate.json) |
 | Falconet | 189102 | [189102-falconet.json](./189102-falconet.json) |
 | Falcons | 24884 | [24884-falcons.json](./24884-falcons.json) |
 | Falcross | 371454 | [371454-falcross.json](./371454-falcross.json) |
@@ -9026,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
 | Flint | 369680 | [369680-flint.json](./369680-flint.json) |
 | Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
+| Flint: Treasure of Oblivion - Digital Deluxe Edition | 401945 | [401945-flint-treasure-of-oblivion-digital-deluxe-edition.json](./401945-flint-treasure-of-oblivion-digital-deluxe-edition.json) |
 | Flint's Hints | 296271 | [296271-flints-hints.json](./296271-flints-hints.json) |
 | Flintlock: The Siege of Dawn - Deluxe Edition | 305332 | [305332-flintlock-the-siege-of-dawn-deluxe-edition.json](./305332-flintlock-the-siege-of-dawn-deluxe-edition.json) |
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
@@ -13378,7 +13381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Bomber | 362929 | [362929-freedom-bomber.json](./362929-freedom-bomber.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
 | Freedom Cry | 34653 | [34653-freedom-cry.json](./34653-freedom-cry.json) |
-| Freedom Defender | 55380 | [55380-freedom-defender.json](./55380-freedom-defender.json) |
 | Freedom Drive | 220023 | [220023-freedom-drive.json](./220023-freedom-drive.json) |
 | Freedom Fall | 16829 | [16829-freedom-fall.json](./16829-freedom-fall.json) |
 | Freedom Farming: The American Way | 226723 | [226723-freedom-farming-the-american-way.json](./226723-freedom-farming-the-american-way.json) |
