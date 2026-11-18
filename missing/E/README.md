@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eighth Day Kishimoto-kun | 349991 | [349991-eighth-day-kishimoto-kun.json](./349991-eighth-day-kishimoto-kun.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | Eighth Heaven | 411306 | [411306-eighth-heaven.json](./411306-eighth-heaven.json) |
+| Eighthwell | 394905 | [394905-eighthwell.json](./394905-eighthwell.json) |
 | EightMan | 40976 | [40976-eightman.json](./40976-eightman.json) |
 | Eightrun | 242523 | [242523-eightrun.json](./242523-eightrun.json) |
 | Eights | 354652 | [354652-eights.json](./354652-eights.json) |
@@ -6377,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
 | Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
 | Escape Route | 147871 | [147871-escape-route.json](./147871-escape-route.json) |
+| Escape Ruin | 395300 | [395300-escape-ruin.json](./395300-escape-ruin.json) |
 | Escape Sand Dunes | 193514 | [193514-escape-sand-dunes.json](./193514-escape-sand-dunes.json) |
 | Escape Sequence | 164293 | [164293-escape-sequence.json](./164293-escape-sequence.json) |
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
