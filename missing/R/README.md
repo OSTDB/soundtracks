@@ -2399,7 +2399,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat on a Jet Ski | 100383 | [100383-rat-on-a-jet-ski.json](./100383-rat-on-a-jet-ski.json) |
 | Rat on a Scooter XL | 101114 | [101114-rat-on-a-scooter-xl.json](./101114-rat-on-a-scooter-xl.json) |
 | Rat on a Skateboard | 90439 | [90439-rat-on-a-skateboard.json](./90439-rat-on-a-skateboard.json) |
-| Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
 | Rat Prison | 169584 | [169584-rat-prison.json](./169584-rat-prison.json) |
 | Rat Protocol | 402614 | [402614-rat-protocol.json](./402614-rat-protocol.json) |
@@ -2981,7 +2980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
 | Re-wind 2006 | 70546 | [70546-re-wind-2006.json](./70546-re-wind-2006.json) |
 | Re;flection | 191675 | [191675-re-flection.json](./191675-re-flection.json) |
-| Re;Lord 1: The Witch of Herfort and Stuffed Animals | 90256 | [90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json](./90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json) |
 | Re;Lord 3: The Demon Lord of Groessen and The Final Witch | 305390 | [305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json](./305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json) |
 | Re;member | 145461 | [145461-re-member.json](./145461-re-member.json) |
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
@@ -6617,7 +6615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respawn Kingdom: Team Shooter | 216057 | [216057-respawn-kingdom-team-shooter.json](./216057-respawn-kingdom-team-shooter.json) |
 | Respawn Man | 34527 | [34527-respawn-man.json](./34527-respawn-man.json) |
 | Respawnables Heroes | 149317 | [149317-respawnables-heroes.json](./149317-respawnables-heroes.json) |
-| Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
 | Respect The Horde | 417143 | [417143-respect-the-horde.json](./417143-respect-the-horde.json) |
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
 | Respite 2.0 | 135364 | [135364-respite-2-0.json](./135364-respite-2-0.json) |
@@ -8772,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio Blackjack | 77271 | [77271-rio-blackjack.json](./77271-rio-blackjack.json) |
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
 | Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
+| Rio Run | 416392 | [416392-rio-run.json](./416392-rio-run.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Match 3 Party | 109178 | [109178-rio-match-3-party.json](./109178-rio-match-3-party.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
@@ -13996,7 +13994,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Jojo Siwa | 95848 | [95848-run-jojo-siwa.json](./95848-run-jojo-siwa.json) |
 | Run Jump Climb Disarm | 344486 | [344486-run-jump-climb-disarm.json](./344486-run-jump-climb-disarm.json) |
 | Run Jump Die Repeat | 47230 | [47230-run-jump-die-repeat.json](./47230-run-jump-die-repeat.json) |
-| Run Jump Fail | 97029 | [97029-run-jump-fail.json](./97029-run-jump-fail.json) |
 | Run Jump Rabbit Turtle | 117789 | [117789-run-jump-rabbit-turtle.json](./117789-run-jump-rabbit-turtle.json) |
 | Run Kelvin: Penguin Escape | 257797 | [257797-run-kelvin-penguin-escape.json](./257797-run-kelvin-penguin-escape.json) |
 | Run Kitty Run | 122445 | [122445-run-kitty-run.json](./122445-run-kitty-run.json) |
