@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undungeon Arena | 141971 | [141971-undungeon-arena.json](./141971-undungeon-arena.json) |
 | Undusted: Letters from the Past | 295734 | [295734-undusted-letters-from-the-past.json](./295734-undusted-letters-from-the-past.json) |
 | UnDuster | 281911 | [281911-unduster.json](./281911-unduster.json) |
+| Undying | 119360 | [119360-undying.json](./119360-undying.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
 | Undying Flame | 404173 | [404173-undying-flame.json](./404173-undying-flame.json) |
 | Undying Flower | 329481 | [329481-undying-flower.json](./329481-undying-flower.json) |
