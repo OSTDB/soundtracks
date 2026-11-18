@@ -5459,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 130749 | [130749-tetris.json](./130749-tetris.json) |
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
+| Tetris | 178293 | [178293-tetris.json](./178293-tetris.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
 | Tetris | 203099 | [203099-tetris.json](./203099-tetris.json) |
@@ -5668,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex Murphy: Martian Memorandum | 5543 | [5543-tex-murphy-martian-memorandum.json](./5543-tex-murphy-martian-memorandum.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
+| Tex Murphy: The Pandora Directive | 17424 | [17424-tex-murphy-the-pandora-directive.json](./17424-tex-murphy-the-pandora-directive.json) |
 | Tex Murphy: Under a Killing Moon | 955 | [955-tex-murphy-under-a-killing-moon.json](./955-tex-murphy-under-a-killing-moon.json) |
 | Tex Turbo and the Big Bug Battles | 419114 | [419114-tex-turbo-and-the-big-bug-battles.json](./419114-tex-turbo-and-the-big-bug-battles.json) |
 | Tex-Mechs | 129324 | [129324-tex-mechs.json](./129324-tex-mechs.json) |
@@ -10134,6 +10136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Essential Selection: Sport | 73538 | [73538-the-essential-selection-sport.json](./73538-the-essential-selection-sport.json) |
 | The Eternal Adventure | 73679 | [73679-the-eternal-adventure.json](./73679-the-eternal-adventure.json) |
 | The Eternal Battlefields | 194530 | [194530-the-eternal-battlefields.json](./194530-the-eternal-battlefields.json) |
+| The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
 | The Eternal City | 143241 | [143241-the-eternal-city.json](./143241-the-eternal-city.json) |
 | The Eternal Cylinder | 121715 | [121715-the-eternal-cylinder.json](./121715-the-eternal-cylinder.json) |
 | The Eternal Dagger | 44148 | [44148-the-eternal-dagger.json](./44148-the-eternal-dagger.json) |
@@ -10908,6 +10911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest of Love | 207455 | [207455-the-forest-of-love.json](./207455-the-forest-of-love.json) |
 | The Forest of Noise | 362798 | [362798-the-forest-of-noise.json](./362798-the-forest-of-noise.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
+| The Forest Quartet | 159958 | [159958-the-forest-quartet.json](./159958-the-forest-quartet.json) |
 | The Forest Ranger | 290030 | [290030-the-forest-ranger.json](./290030-the-forest-ranger.json) |
 | The Forest Watches | 383947 | [383947-the-forest-watches.json](./383947-the-forest-watches.json) |
 | The Forestale | 102875 | [102875-the-forestale.json](./102875-the-forestale.json) |
@@ -12602,6 +12606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ingenious Machine: New and Improved Edition | 50220 | [50220-the-ingenious-machine-new-and-improved-edition.json](./50220-the-ingenious-machine-new-and-improved-edition.json) |
 | The Inheritance | 281364 | [281364-the-inheritance.json](./281364-the-inheritance.json) |
 | The Inheritance II: Chaos in Scotland | 36562 | [36562-the-inheritance-ii-chaos-in-scotland.json](./36562-the-inheritance-ii-chaos-in-scotland.json) |
+| The Inheritance of Crimson Manor | 149163 | [149163-the-inheritance-of-crimson-manor.json](./149163-the-inheritance-of-crimson-manor.json) |
 | The Inheritance of Crimson Manor: Victorian Edition | 324776 | [324776-the-inheritance-of-crimson-manor-victorian-edition.json](./324776-the-inheritance-of-crimson-manor-victorian-edition.json) |
 | The Inheritance: Panic in Las Vegas | 36561 | [36561-the-inheritance-panic-in-las-vegas.json](./36561-the-inheritance-panic-in-las-vegas.json) |
 | The Initiate: The First Interviews | 109555 | [109555-the-initiate-the-first-interviews.json](./109555-the-initiate-the-first-interviews.json) |
@@ -18612,6 +18617,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
 | The Sims 2: Castaway | 5156 | [5156-the-sims-2-castaway.json](./5156-the-sims-2-castaway.json) |
+| The Sims 2: Celebration! Stuff | 13131 | [13131-the-sims-2-celebration-stuff.json](./13131-the-sims-2-celebration-stuff.json) |
+| The Sims 2: Family Fun Stuff | 13128 | [13128-the-sims-2-family-fun-stuff.json](./13128-the-sims-2-family-fun-stuff.json) |
+| The Sims 2: Glamour Life Stuff | 13129 | [13129-the-sims-2-glamour-life-stuff.json](./13129-the-sims-2-glamour-life-stuff.json) |
 | The Sims 2: H&M Fashion Stuff | 13132 | [13132-the-sims-2-h-and-m-fashion-stuff.json](./13132-the-sims-2-h-and-m-fashion-stuff.json) |
 | The Sims 2: Happy Holiday Pack | 13127 | [13127-the-sims-2-happy-holiday-pack.json](./13127-the-sims-2-happy-holiday-pack.json) |
 | The Sims 2: Happy Holiday Stuff | 13130 | [13130-the-sims-2-happy-holiday-stuff.json](./13130-the-sims-2-happy-holiday-stuff.json) |
@@ -18654,6 +18662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Starter Pack | 202308 | [202308-the-sims-3-starter-pack.json](./202308-the-sims-3-starter-pack.json) |
 | The Sims 3: Supernatural | 425776 | [425776-the-sims-3-supernatural.json](./425776-the-sims-3-supernatural.json) |
 | The Sims 3: Supernatural | 7645 | [7645-the-sims-3-supernatural.json](./7645-the-sims-3-supernatural.json) |
+| The Sims 3: Town Life Stuff | 13120 | [13120-the-sims-3-town-life-stuff.json](./13120-the-sims-3-town-life-stuff.json) |
 | The Sims 3: University Life | 3158 | [3158-the-sims-3-university-life.json](./3158-the-sims-3-university-life.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4 Love & Family Bundle | 366930 | [366930-the-sims-4-love-and-family-bundle.json](./366930-the-sims-4-love-and-family-bundle.json) |
@@ -18699,6 +18708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Deluxe Party Edition | 85510 | [85510-the-sims-4-deluxe-party-edition.json](./85510-the-sims-4-deluxe-party-edition.json) |
 | The Sims 4: Desert Luxe Kit | 217801 | [217801-the-sims-4-desert-luxe-kit.json](./217801-the-sims-4-desert-luxe-kit.json) |
 | The Sims 4: Dine Out | 24373 | [24373-the-sims-4-dine-out.json](./24373-the-sims-4-dine-out.json) |
+| The Sims 4: Discover University | 126182 | [126182-the-sims-4-discover-university.json](./126182-the-sims-4-discover-university.json) |
 | The Sims 4: EA Play Edition | 384181 | [384181-the-sims-4-ea-play-edition.json](./384181-the-sims-4-ea-play-edition.json) |
 | The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
@@ -18760,6 +18770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Poolside Splash Kit | 265704 | [265704-the-sims-4-poolside-splash-kit.json](./265704-the-sims-4-poolside-splash-kit.json) |
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
 | The Sims 4: Premium Edition | 159073 | [159073-the-sims-4-premium-edition.json](./159073-the-sims-4-premium-edition.json) |
+| The Sims 4: Realm of Magic | 122317 | [122317-the-sims-4-realm-of-magic.json](./122317-the-sims-4-realm-of-magic.json) |
 | The Sims 4: Refined Living Room Kit | 330395 | [330395-the-sims-4-refined-living-room-kit.json](./330395-the-sims-4-refined-living-room-kit.json) |
 | The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
 | The Sims 4: Riviera Retreat Kit | 303887 | [303887-the-sims-4-riviera-retreat-kit.json](./303887-the-sims-4-riviera-retreat-kit.json) |
@@ -18775,6 +18786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Spooky Stuff | 13150 | [13150-the-sims-4-spooky-stuff.json](./13150-the-sims-4-spooky-stuff.json) |
 | The Sims 4: Starter Bundle | 159338 | [159338-the-sims-4-starter-bundle.json](./159338-the-sims-4-starter-bundle.json) |
 | The Sims 4: Storybook Nursery Kit | 317647 | [317647-the-sims-4-storybook-nursery-kit.json](./317647-the-sims-4-storybook-nursery-kit.json) |
+| The Sims 4: StrangerVille | 116594 | [116594-the-sims-4-strangerville.json](./116594-the-sims-4-strangerville.json) |
 | The Sims 4: Stuff Bundle | 159340 | [159340-the-sims-4-stuff-bundle.json](./159340-the-sims-4-stuff-bundle.json) |
 | The Sims 4: Sweet Allure Kit | 341861 | [341861-the-sims-4-sweet-allure-kit.json](./341861-the-sims-4-sweet-allure-kit.json) |
 | The Sims 4: Sweet Slumber Party Kit | 330390 | [330390-the-sims-4-sweet-slumber-party-kit.json](./330390-the-sims-4-sweet-slumber-party-kit.json) |
@@ -18796,6 +18808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Medieval | 408282 | [408282-the-sims-medieval.json](./408282-the-sims-medieval.json) |
 | The Sims Medieval: Deluxe Edition | 202062 | [202062-the-sims-medieval-deluxe-edition.json](./202062-the-sims-medieval-deluxe-edition.json) |
 | The Sims Medieval: Limited Edition | 281804 | [281804-the-sims-medieval-limited-edition.json](./281804-the-sims-medieval-limited-edition.json) |
+| The Sims Medieval: Pirates and Nobles | 13137 | [13137-the-sims-medieval-pirates-and-nobles.json](./13137-the-sims-medieval-pirates-and-nobles.json) |
 | The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
 | The Sims Social | 15748 | [15748-the-sims-social.json](./15748-the-sims-social.json) |
@@ -20588,6 +20601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
 | The Uncanny X-Men: Days of the Future Past | 62067 | [62067-the-uncanny-x-men-days-of-the-future-past.json](./62067-the-uncanny-x-men-days-of-the-future-past.json) |
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
+| The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
 | The Uncertain: VR Experience | 28269 | [28269-the-uncertain-vr-experience.json](./28269-the-uncertain-vr-experience.json) |
 | The Uncertainty Machine | 73056 | [73056-the-uncertainty-machine.json](./73056-the-uncertainty-machine.json) |
 | The Uncle Who Works for Nintendo | 60754 | [60754-the-uncle-who-works-for-nintendo.json](./60754-the-uncle-who-works-for-nintendo.json) |
@@ -20966,6 +20980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead Arcade | 131053 | [131053-the-walking-dead-arcade.json](./131053-the-walking-dead-arcade.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
 | The Walking Dead: A New Frontier - Episode 1: Ties That Bind - Part One | 127062 | [127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json](./127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json) |
+| The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
 | The Walking Dead: A New Frontier - Episode 4: Thicker Than Water | 127065 | [127065-the-walking-dead-a-new-frontier-episode-4-thicker-than-water.json](./127065-the-walking-dead-a-new-frontier-episode-4-thicker-than-water.json) |
 | The Walking Dead: A New Frontier - Episode 5: From the Gallows | 127066 | [127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json](./127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json) |
@@ -21010,6 +21025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Survivors | 142749 | [142749-the-walking-dead-survivors.json](./142749-the-walking-dead-survivors.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Dead: The Final Season - Episode 1: Done Running | 107114 | [107114-the-walking-dead-the-final-season-episode-1-done-running.json](./107114-the-walking-dead-the-final-season-episode-1-done-running.json) |
+| The Walking Dead: The Final Season - Episode 2: Suffer the Children | 110328 | [110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json](./110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json) |
 | The Walking Dead: The Final Season - Episode 3: Broken Toys | 113295 | [113295-the-walking-dead-the-final-season-episode-3-broken-toys.json](./113295-the-walking-dead-the-final-season-episode-3-broken-toys.json) |
 | The Walking Dead: The Final Season - Episode 4: Take Us Back | 114209 | [114209-the-walking-dead-the-final-season-episode-4-take-us-back.json](./114209-the-walking-dead-the-final-season-episode-4-take-us-back.json) |
 | The Walking Dead: The Telltale Definitive Series | 117514 | [117514-the-walking-dead-the-telltale-definitive-series.json](./117514-the-walking-dead-the-telltale-definitive-series.json) |
@@ -21458,6 +21474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher: Crimson Trail | 187249 | [187249-the-witcher-crimson-trail.json](./187249-the-witcher-crimson-trail.json) |
 | The Witcher: Enhanced Edition – Platinum Edition | 357524 | [357524-the-witcher-enhanced-edition-platinum-edition.json](./357524-the-witcher-enhanced-edition-platinum-edition.json) |
 | The Witcher: Enhanced Edition Director's Cut | 27832 | [27832-the-witcher-enhanced-edition-directors-cut.json](./27832-the-witcher-enhanced-edition-directors-cut.json) |
+| The Witcher: Monster Slayer | 137125 | [137125-the-witcher-monster-slayer.json](./137125-the-witcher-monster-slayer.json) |
 | The Witcher: Project Sirius | 220276 | [220276-the-witcher-project-sirius.json](./220276-the-witcher-project-sirius.json) |
 | The Witcher: Rise of the White Wolf | 80342 | [80342-the-witcher-rise-of-the-white-wolf.json](./80342-the-witcher-rise-of-the-white-wolf.json) |
 | The Witcher: Side Effects | 224493 | [224493-the-witcher-side-effects.json](./224493-the-witcher-side-effects.json) |
@@ -22065,6 +22082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
 | There Is No Game | 28336 | [28336-there-is-no-game.json](./28336-there-is-no-game.json) |
+| There Is No Game: Jam Edition 2015 | 132522 | [132522-there-is-no-game-jam-edition-2015.json](./132522-there-is-no-game-jam-edition-2015.json) |
 | There Is No Game: Wrong Dimension | 132907 | [132907-there-is-no-game-wrong-dimension.json](./132907-there-is-no-game-wrong-dimension.json) |
 | There is No GreenDam | 126532 | [126532-there-is-no-greendam.json](./126532-there-is-no-greendam.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
@@ -26494,6 +26512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Knight and the Corrupted Crystal | 425187 | [425187-tiny-knight-and-the-corrupted-crystal.json](./425187-tiny-knight-and-the-corrupted-crystal.json) |
 | Tiny Knights | 180481 | [180481-tiny-knights.json](./180481-tiny-knights.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
+| Tiny Lands | 142488 | [142488-tiny-lands.json](./142488-tiny-lands.json) |
 | Tiny Lands & Not Not: A Brain Buster | 334979 | [334979-tiny-lands-and-not-not-a-brain-buster.json](./334979-tiny-lands-and-not-not-a-brain-buster.json) |
 | Tiny Lands 2 | 305077 | [305077-tiny-lands-2.json](./305077-tiny-lands-2.json) |
 | Tiny Lands: Deluxe Edition | 332347 | [332347-tiny-lands-deluxe-edition.json](./332347-tiny-lands-deluxe-edition.json) |
@@ -29391,6 +29410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Rome II - Ultimate Edition | 391794 | [391794-total-war-rome-ii-ultimate-edition.json](./391794-total-war-rome-ii-ultimate-edition.json) |
 | Total War: Rome II - Unit Pack: Beasts of War | 167635 | [167635-total-war-rome-ii-unit-pack-beasts-of-war.json](./167635-total-war-rome-ii-unit-pack-beasts-of-war.json) |
 | Total War: Rome II - Unit Pack: Daughters of Mars | 53827 | [53827-total-war-rome-ii-unit-pack-daughters-of-mars.json](./53827-total-war-rome-ii-unit-pack-daughters-of-mars.json) |
+| Total War: Rome Remastered | 145004 | [145004-total-war-rome-remastered.json](./145004-total-war-rome-remastered.json) |
 | Total War: Shogun 2 | 432 | [432-total-war-shogun-2.json](./432-total-war-shogun-2.json) |
 | Total War: Shogun 2 - Blood Pack DLC | 83513 | [83513-total-war-shogun-2-blood-pack-dlc.json](./83513-total-war-shogun-2-blood-pack-dlc.json) |
 | Total War: Shogun 2 - Complete Edition | 418272 | [418272-total-war-shogun-2-complete-edition.json](./418272-total-war-shogun-2-complete-edition.json) |
@@ -30834,6 +30854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townseek | 177316 | [177316-townseek.json](./177316-townseek.json) |
 | Townseek: Jam Version | 237782 | [237782-townseek-jam-version.json](./237782-townseek-jam-version.json) |
 | TownsFolk | 377956 | [377956-townsfolk.json](./377956-townsfolk.json) |
+| Township | 19526 | [19526-township.json](./19526-township.json) |
 | Townslife | 390881 | [390881-townslife.json](./390881-townslife.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
 | Townsmen 4 | 136540 | [136540-townsmen-4.json](./136540-townsmen-4.json) |
@@ -32505,6 +32526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Song | 141305 | [141305-train-song.json](./141305-train-song.json) |
 | Train Station 2 | 233385 | [233385-train-station-2.json](./233385-train-station-2.json) |
 | Train Station Project | 334234 | [334234-train-station-project.json](./334234-train-station-project.json) |
+| Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: First Job | 132415 | [132415-train-station-renovation-first-job.json](./132415-train-station-renovation-first-job.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
 | Train Station Simulator | 75616 | [75616-train-station-simulator.json](./75616-train-station-simulator.json) |
@@ -37606,6 +37628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Digits | 35217 | [35217-two-digits.json](./35217-two-digits.json) |
 | Two Dollar Suits | 390753 | [390753-two-dollar-suits.json](./390753-two-dollar-suits.json) |
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
+| Two Dots | 14047 | [14047-two-dots.json](./14047-two-dots.json) |
 | Two Envelopes | 188165 | [188165-two-envelopes.json](./188165-two-envelopes.json) |
 | Two Escapes | 55286 | [55286-two-escapes.json](./55286-two-escapes.json) |
 | Two Eyes | 175271 | [175271-two-eyes.json](./175271-two-eyes.json) |
