@@ -4455,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Jurassic island roller coaster | 208645 | [208645-vr-jurassic-island-roller-coaster.json](./208645-vr-jurassic-island-roller-coaster.json) |
 | VR Kanojo | 75900 | [75900-vr-kanojo.json](./75900-vr-kanojo.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
+| VR Karts | 35536 | [35536-vr-karts.json](./35536-vr-karts.json) |
 | VR Karts SteamVR | 34002 | [34002-vr-karts-steamvr.json](./34002-vr-karts-steamvr.json) |
 | VR Karts: Sprint | 123103 | [123103-vr-karts-sprint.json](./123103-vr-karts-sprint.json) |
 | VR Katherine | 368402 | [368402-vr-katherine.json](./368402-vr-katherine.json) |
@@ -4641,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
 | Vrast! | 137153 | [137153-vrast.json](./137153-vrast.json) |
 | VRbloX | 32296 | [32296-vrblox.json](./32296-vrblox.json) |
+| VRC Pro | 36141 | [36141-vrc-pro.json](./36141-vrc-pro.json) |
 | VRC Pro: Bashing & Crawling Car & Track Pack | 274612 | [274612-vrc-pro-bashing-and-crawling-car-and-track-pack.json](./274612-vrc-pro-bashing-and-crawling-car-and-track-pack.json) |
 | VRC Pro: Deluxe Americas On-Road Tracks | 161763 | [161763-vrc-pro-deluxe-americas-on-road-tracks.json](./161763-vrc-pro-deluxe-americas-on-road-tracks.json) |
 | VRC Pro: Deluxe Asia On-Road Tracks | 161764 | [161764-vrc-pro-deluxe-asia-on-road-tracks.json](./161764-vrc-pro-deluxe-asia-on-road-tracks.json) |
