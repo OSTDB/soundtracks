@@ -16824,6 +16824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
 | The Pink Panther: Hokus Pokus Pink | 8109 | [8109-the-pink-panther-hokus-pokus-pink.json](./8109-the-pink-panther-hokus-pokus-pink.json) |
 | The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
+| The Pink Robot | 389156 | [389156-the-pink-robot.json](./389156-the-pink-robot.json) |
 | The Pinkman Files | 350710 | [350710-the-pinkman-files.json](./350710-the-pinkman-files.json) |
 | The Pinkman Files | 391523 | [391523-the-pinkman-files.json](./391523-the-pinkman-files.json) |
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
@@ -26567,7 +26568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Terrors | 375205 | [375205-tiny-terrors.json](./375205-tiny-terrors.json) |
 | Tiny the Mole | 322539 | [322539-tiny-the-mole.json](./322539-tiny-the-mole.json) |
 | Tiny Thief | 7554 | [7554-tiny-thief.json](./7554-tiny-thief.json) |
-| Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Thor's Revenge | 30970 | [30970-tiny-thors-revenge.json](./30970-tiny-thors-revenge.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tiles | 205195 | [205195-tiny-tiles.json](./205195-tiny-tiles.json) |
@@ -28345,6 +28345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachi Life: Living the Dream | 337036 | [337036-tomodachi-life-living-the-dream.json](./337036-tomodachi-life-living-the-dream.json) |
 | Tomodachi Life: The Gay Mod | 350609 | [350609-tomodachi-life-the-gay-mod.json](./350609-tomodachi-life-the-gay-mod.json) |
 | Tomodachi no Haha: Jukujuku Taru Omoi | 409420 | [409420-tomodachi-no-haha-jukujuku-taru-omoi.json](./409420-tomodachi-no-haha-jukujuku-taru-omoi.json) |
+| Tomodachi Sex: Kareshi ni Naisho de Dousei Seikatsu! | 389140 | [389140-tomodachi-sex-kareshi-ni-naisho-de-dousei-seikatsu.json](./389140-tomodachi-sex-kareshi-ni-naisho-de-dousei-seikatsu.json) |
 | Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomohigara | 376873 | [376873-tomohigara.json](./376873-tomohigara.json) |
