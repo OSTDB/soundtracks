@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Pool | 230170 | [230170-wario-pool.json](./230170-wario-pool.json) |
 | Wario Time! | 314119 | [314119-wario-time.json](./314119-wario-time.json) |
 | Wario vs. Windows | 256411 | [256411-wario-vs-windows.json](./256411-wario-vs-windows.json) |
+| Wario: Master of Disguise | 1701 | [1701-wario-master-of-disguise.json](./1701-wario-master-of-disguise.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
 | Wario's Adventure | 267614 | [267614-warios-adventure.json](./267614-warios-adventure.json) |
 | Wario's Crazy Caps | 231550 | [231550-warios-crazy-caps.json](./231550-warios-crazy-caps.json) |
@@ -5273,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
 | White Sands | 236228 | [236228-white-sands.json](./236228-white-sands.json) |
+| White Shadows | 138208 | [138208-white-shadows.json](./138208-white-shadows.json) |
 | White Shirts Red Blood | 148137 | [148137-white-shirts-red-blood.json](./148137-white-shirts-red-blood.json) |
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
 | White Sky | 151583 | [151583-white-sky.json](./151583-white-sky.json) |
@@ -7811,6 +7813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
 | Wobbly Heist | 411623 | [411623-wobbly-heist.json](./411623-wobbly-heist.json) |
 | Wobbly Jungle | 33656 | [33656-wobbly-jungle.json](./33656-wobbly-jungle.json) |
+| Wobbly Life | 133344 | [133344-wobbly-life.json](./133344-wobbly-life.json) |
 | WobblyStack for Arcore | 95762 | [95762-wobblystack-for-arcore.json](./95762-wobblystack-for-arcore.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wobolob Classic | 180477 | [180477-wobolob-classic.json](./180477-wobolob-classic.json) |
