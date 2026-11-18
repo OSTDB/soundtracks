@@ -4195,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screensavers VR | 400373 | [400373-screensavers-vr.json](./400373-screensavers-vr.json) |
 | Screenside Fisher | 419423 | [419423-screenside-fisher.json](./419423-screenside-fisher.json) |
 | Screenside Station | 349089 | [349089-screenside-station.json](./349089-screenside-station.json) |
+| ScreenSpace | 161414 | [161414-screenspace.json](./161414-screenspace.json) |
 | Screeps: Arena | 121571 | [121571-screeps-arena.json](./121571-screeps-arena.json) |
 | Screw Box Jam: Bus Out | 338662 | [338662-screw-box-jam-bus-out.json](./338662-screw-box-jam-bus-out.json) |
 | Screw Dive | 362807 | [362807-screw-dive.json](./362807-screw-dive.json) |
@@ -5003,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seclusa | 215798 | [215798-seclusa.json](./215798-seclusa.json) |
 | Seclusion | 289734 | [289734-seclusion.json](./289734-seclusion.json) |
 | Seclusion | 29817 | [29817-seclusion.json](./29817-seclusion.json) |
+| Seclusion Sword | 161432 | [161432-seclusion-sword.json](./161432-seclusion-sword.json) |
 | Seclusion: Islesbury | 28147 | [28147-seclusion-islesbury.json](./28147-seclusion-islesbury.json) |
 | Second Base | 388257 | [388257-second-base.json](./388257-second-base.json) |
 | Second Battle of El Alamein | 100769 | [100769-second-battle-of-el-alamein.json](./100769-second-battle-of-el-alamein.json) |
@@ -7626,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Gunner: The Robot Wars | 144188 | [144188-shadow-gunner-the-robot-wars.json](./144188-shadow-gunner-the-robot-wars.json) |
 | Shadow Hawk One | 282140 | [282140-shadow-hawk-one.json](./282140-shadow-hawk-one.json) |
 | Shadow Hearts | 4170 | [4170-shadow-hearts.json](./4170-shadow-hearts.json) |
+| Shadow Hearts 2: Director's Cut | 147517 | [147517-shadow-hearts-2-directors-cut.json](./147517-shadow-hearts-2-directors-cut.json) |
 | Shadow Hearts: Covenant | 4171 | [4171-shadow-hearts-covenant.json](./4171-shadow-hearts-covenant.json) |
 | Shadow Hearts: From the New World | 4172 | [4172-shadow-hearts-from-the-new-world.json](./4172-shadow-hearts-from-the-new-world.json) |
 | Shadow Heroes | 212072 | [212072-shadow-heroes.json](./212072-shadow-heroes.json) |
@@ -9124,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
 | Sherbet Thieves | 93634 | [93634-sherbet-thieves.json](./93634-sherbet-thieves.json) |
 | Sheriff | 91662 | [91662-sheriff.json](./91662-sheriff.json) |
+| Sheriff Exam | 147523 | [147523-sheriff-exam.json](./147523-sheriff-exam.json) |
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
 | Sheriff of Mahjong | 182057 | [182057-sheriff-of-mahjong.json](./182057-sheriff-of-mahjong.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
@@ -14182,6 +14186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull's Solitude | 128093 | [128093-skulls-solitude.json](./128093-skulls-solitude.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | SkullBall | 412892 | [412892-skullball.json](./412892-skullball.json) |
+| Skullbangers! | 147521 | [147521-skullbangers.json](./147521-skullbangers.json) |
 | Skullborn | 192615 | [192615-skullborn.json](./192615-skullborn.json) |
 | Skullboy Master | 237574 | [237574-skullboy-master.json](./237574-skullboy-master.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
@@ -20028,6 +20033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic NXT | 331979 | [331979-sonic-nxt.json](./331979-sonic-nxt.json) |
 | Sonic of the Ring Tutorials Room | 370242 | [370242-sonic-of-the-ring-tutorials-room.json](./370242-sonic-of-the-ring-tutorials-room.json) |
 | Sonic Omega | 331710 | [331710-sonic-omega.json](./331710-sonic-omega.json) |
+| Sonic Omens | 147512 | [147512-sonic-omens.json](./147512-sonic-omens.json) |
 | Sonic on Angel Island | 302960 | [302960-sonic-on-angel-island.json](./302960-sonic-on-angel-island.json) |
 | Sonic On Rush | 321066 | [321066-sonic-on-rush.json](./321066-sonic-on-rush.json) |
 | Sonic One-Shot | 324700 | [324700-sonic-one-shot.json](./324700-sonic-one-shot.json) |
@@ -31095,6 +31101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoryArcana | 138842 | [138842-storyarcana.json](./138842-storyarcana.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
+| Storybook Brawl | 147511 | [147511-storybook-brawl.json](./147511-storybook-brawl.json) |
 | Storybook of Tactics | 258612 | [258612-storybook-of-tactics.json](./258612-storybook-of-tactics.json) |
 | Storybook Weaver | 252083 | [252083-storybook-weaver.json](./252083-storybook-weaver.json) |
 | Storybook Weaver Deluxe | 93096 | [93096-storybook-weaver-deluxe.json](./93096-storybook-weaver-deluxe.json) |
