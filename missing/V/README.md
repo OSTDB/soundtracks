@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles: Remastered - Europa Edition | 42957 | [42957-valkyria-chronicles-remastered-europa-edition.json](./42957-valkyria-chronicles-remastered-europa-edition.json) |
 | Valkyria Chronicles: Remastered - Steelbook Edition | 38491 | [38491-valkyria-chronicles-remastered-steelbook-edition.json](./38491-valkyria-chronicles-remastered-steelbook-edition.json) |
 | Valkyria Chronicles: Selveria's Mission - Behind Her Blue Flame | 138835 | [138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json](./138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json) |
+| Valkyria Revolution | 14673 | [14673-valkyria-revolution.json](./14673-valkyria-revolution.json) |
 | Valkyria Revolution Scenario Pack: Maxim and Remembrance | 138818 | [138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json](./138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json) |
 | Valkyria Revolution Scenario Pack: Princess and Valkyria DLC | 138815 | [138815-valkyria-revolution-scenario-pack-princess-and-valkyria-dlc.json](./138815-valkyria-revolution-scenario-pack-princess-and-valkyria-dlc.json) |
 | Valkyria Revolution Scenario Pack: Vanargand Bundle DLC | 138817 | [138817-valkyria-revolution-scenario-pack-vanargand-bundle-dlc.json](./138817-valkyria-revolution-scenario-pack-vanargand-bundle-dlc.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilant | 131051 | [131051-vigilant.json](./131051-vigilant.json) |
 | Vigilant | 322466 | [322466-vigilant.json](./322466-vigilant.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
+| Vigilante | 10444 | [10444-vigilante.json](./10444-vigilante.json) |
 | Vigilante | 398283 | [398283-vigilante.json](./398283-vigilante.json) |
 | Vigilante 8 | 3332 | [3332-vigilante-8.json](./3332-vigilante-8.json) |
 | Vigilante 8 | 75423 | [75423-vigilante-8.json](./75423-vigilante-8.json) |
@@ -3924,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcano Hunter | 71940 | [71940-volcano-hunter.json](./71940-volcano-hunter.json) |
 | Volcano Jumper | 351767 | [351767-volcano-jumper.json](./351767-volcano-jumper.json) |
 | Volcano Planet | 250677 | [250677-volcano-planet.json](./250677-volcano-planet.json) |
+| Volcano Princess | 164994 | [164994-volcano-princess.json](./164994-volcano-princess.json) |
 | Volcano Snek | 185604 | [185604-volcano-snek.json](./185604-volcano-snek.json) |
 | Volcano Tower | 101242 | [101242-volcano-tower.json](./101242-volcano-tower.json) |
 | Volcano Valley | 317799 | [317799-volcano-valley.json](./317799-volcano-valley.json) |
