@@ -5001,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reels of the Damned | 411589 | [411589-reels-of-the-damned.json](./411589-reels-of-the-damned.json) |
 | Reenchant | 365732 | [365732-reenchant.json](./365732-reenchant.json) |
+| Reentry: A Space Flight Simulator | 107906 | [107906-reentry-a-space-flight-simulator.json](./107906-reentry-a-space-flight-simulator.json) |
 | Reese's Pac-Man | 172487 | [172487-reeses-pac-man.json](./172487-reeses-pac-man.json) |
 | Reese’s Puffs x Ambush Breakfastverse | 236682 | [236682-reese-s-puffs-x-ambush-breakfastverse.json](./236682-reese-s-puffs-x-ambush-breakfastverse.json) |
 | Reese's Snake | 213155 | [213155-reeses-snake.json](./213155-reeses-snake.json) |
@@ -11268,6 +11269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Assault | 404373 | [404373-rogue-assault.json](./404373-rogue-assault.json) |
 | Rogue Balls | 388658 | [388658-rogue-balls.json](./388658-rogue-balls.json) |
+| Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
 | Rogue Blight | 212912 | [212912-rogue-blight.json](./212912-rogue-blight.json) |
 | Rogue Bones | 184451 | [184451-rogue-bones.json](./184451-rogue-bones.json) |
@@ -12018,6 +12020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Triumph | 186413 | [186413-roman-triumph.json](./186413-roman-triumph.json) |
 | Roman Wars: Deck Building Game | 189867 | [189867-roman-wars-deck-building-game.json](./189867-roman-wars-deck-building-game.json) |
 | Roman Way | 137888 | [137888-roman-way.json](./137888-roman-way.json) |
+| Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
 | Romance | 153739 | [153739-romance.json](./153739-romance.json) |
 | Romance | 213728 | [213728-romance.json](./213728-romance.json) |
 | Romance - Hidden Object Games | 86918 | [86918-romance-hidden-object-games.json](./86918-romance-hidden-object-games.json) |
@@ -13059,6 +13062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Affairs | 235926 | [235926-royal-affairs.json](./235926-royal-affairs.json) |
 | Royal Affairs: AI Romance | 290672 | [290672-royal-affairs-ai-romance.json](./290672-royal-affairs-ai-romance.json) |
 | Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
+| Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
 | Royal Area | 121795 | [121795-royal-area.json](./121795-royal-area.json) |
 | Royal Assault | 122546 | [122546-royal-assault.json](./122546-royal-assault.json) |
 | Royal Battleground IO | 158959 | [158959-royal-battleground-io.json](./158959-royal-battleground-io.json) |
@@ -13769,6 +13773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rum Skulls | 294063 | [294063-rum-skulls.json](./294063-rum-skulls.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumba Lumber | 272680 | [272680-rumba-lumber.json](./272680-rumba-lumber.json) |
+| Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble | 132991 | [132991-rumble.json](./132991-rumble.json) |
 | Rumble | 426980 | [426980-rumble.json](./426980-rumble.json) |
 | Rumble Academy | 62850 | [62850-rumble-academy.json](./62850-rumble-academy.json) |
