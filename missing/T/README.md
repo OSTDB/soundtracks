@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails & Trails | 415775 | [415775-tails-and-trails.json](./415775-tails-and-trails.json) |
 | Tails 64 Revamped | 335635 | [335635-tails-64-revamped.json](./335635-tails-64-revamped.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
+| Tails Adventure | 19715 | [19715-tails-adventure.json](./19715-tails-adventure.json) |
 | Tails Adventure Remake | 265890 | [265890-tails-adventure-remake.json](./265890-tails-adventure-remake.json) |
 | Tails Adventure: Armada | 333895 | [333895-tails-adventure-armada.json](./333895-tails-adventure-armada.json) |
 | Tails Adventure: Fire of Robollion | 267216 | [267216-tails-adventure-fire-of-robollion.json](./267216-tails-adventure-fire-of-robollion.json) |
@@ -3746,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
 | Teenage Mutant Ninja Turtles HD | 243435 | [243435-teenage-mutant-ninja-turtles-hd.json](./243435-teenage-mutant-ninja-turtles-hd.json) |
+| Teenage Mutant Ninja Turtles II: Back from the Sewers | 18639 | [18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json](./18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json) |
 | Teenage Mutant Ninja Turtles II: Splinter Speaks | 218929 | [218929-teenage-mutant-ninja-turtles-ii-splinter-speaks.json](./218929-teenage-mutant-ninja-turtles-ii-splinter-speaks.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
 | Teenage Mutant Ninja Turtles III: Radical Rescue | 48927 | [48927-teenage-mutant-ninja-turtles-iii-radical-rescue.json](./48927-teenage-mutant-ninja-turtles-iii-radical-rescue.json) |
@@ -3807,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: The Legend Returns | 379624 | [379624-teenage-mutant-ninja-turtles-the-legend-returns.json](./379624-teenage-mutant-ninja-turtles-the-legend-returns.json) |
 | Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
 | Teenage Mutant Ninja Turtles: The Shredder Reborn | 78280 | [78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json](./78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json) |
+| Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 354768 | [354768-teenage-mutant-ninja-turtles-tournament-fighters.json](./354768-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 48274 | [48274-teenage-mutant-ninja-turtles-tournament-fighters.json](./48274-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Training Lair | 61291 | [61291-teenage-mutant-ninja-turtles-training-lair.json](./61291-teenage-mutant-ninja-turtles-training-lair.json) |
@@ -3886,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
 | Tekken 3 | 306134 | [306134-tekken-3.json](./306134-tekken-3.json) |
 | Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
+| Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
 | Tekken 5: Dark Resurrection | 1235 | [1235-tekken-5-dark-resurrection.json](./1235-tekken-5-dark-resurrection.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
@@ -5080,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraRealms: The Discovery - Episode I | 122732 | [122732-terrarealms-the-discovery-episode-i.json](./122732-terrarealms-the-discovery-episode-i.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
+| Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
 | Terraria: Collector's Edition | 201885 | [201885-terraria-collectors-edition.json](./201885-terraria-collectors-edition.json) |
 | Terraria: Fargo's Souls Mod | 241156 | [241156-terraria-fargos-souls-mod.json](./241156-terraria-fargos-souls-mod.json) |
 | Terraria: Journey's End | 295662 | [295662-terraria-journeys-end.json](./295662-terraria-journeys-end.json) |
@@ -5303,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive Unlimited 2 | 7216 | [7216-test-drive-unlimited-2.json](./7216-test-drive-unlimited-2.json) |
 | Test Drive Unlimited Gold | 215404 | [215404-test-drive-unlimited-gold.json](./215404-test-drive-unlimited-gold.json) |
+| Test Drive Unlimited Solar Crown | 135671 | [135671-test-drive-unlimited-solar-crown.json](./135671-test-drive-unlimited-solar-crown.json) |
 | Test Drive Unlimited Solar Crown: DLC Solar Content | 311729 | [311729-test-drive-unlimited-solar-crown-dlc-solar-content.json](./311729-test-drive-unlimited-solar-crown-dlc-solar-content.json) |
 | Test Drive Unlimited Solar Crown: Ford GT 2006 | 311727 | [311727-test-drive-unlimited-solar-crown-ford-gt-2006.json](./311727-test-drive-unlimited-solar-crown-ford-gt-2006.json) |
 | Test Drive Unlimited Solar Crown: Gold Edition | 331836 | [331836-test-drive-unlimited-solar-crown-gold-edition.json](./331836-test-drive-unlimited-solar-crown-gold-edition.json) |
@@ -5444,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetripank | 96431 | [96431-tetripank.json](./96431-tetripank.json) |
 | TetriPlus | 181954 | [181954-tetriplus.json](./181954-tetriplus.json) |
 | Tetripz | 93215 | [93215-tetripz.json](./93215-tetripz.json) |
+| Tetris | 130749 | [130749-tetris.json](./130749-tetris.json) |
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
@@ -11039,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fruit | 392165 | [392165-the-fruit.json](./392165-the-fruit.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
 | The Fruit Merchant's Diary | 391976 | [391976-the-fruit-merchants-diary.json](./391976-the-fruit-merchants-diary.json) |
+| The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
 | The Fruit Stealing Girls | 290812 | [290812-the-fruit-stealing-girls.json](./290812-the-fruit-stealing-girls.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
 | The Fruitless Flower | 86254 | [86254-the-fruitless-flower.json](./86254-the-fruitless-flower.json) |
@@ -11491,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gravity Effect | 68422 | [68422-the-gravity-effect.json](./68422-the-gravity-effect.json) |
 | The Gravity Trickster | 257328 | [257328-the-gravity-trickster.json](./257328-the-gravity-trickster.json) |
 | The Gray Cowl of Nocturnal | 320928 | [320928-the-gray-cowl-of-nocturnal.json](./320928-the-gray-cowl-of-nocturnal.json) |
+| The Gray Garden | 118308 | [118308-the-gray-garden.json](./118308-the-gray-garden.json) |
 | The Gray Garden Remake | 212574 | [212574-the-gray-garden-remake.json](./212574-the-gray-garden-remake.json) |
 | The Gray Man | 226599 | [226599-the-gray-man.json](./226599-the-gray-man.json) |
 | The Gray Painter | 396848 | [396848-the-gray-painter.json](./396848-the-gray-painter.json) |
@@ -11682,6 +11691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grimoire of Alice | 134858 | [134858-the-grimoire-of-alice.json](./134858-the-grimoire-of-alice.json) |
 | The Grimsworth Reports: Woodfall | 75004 | [75004-the-grimsworth-reports-woodfall.json](./75004-the-grimsworth-reports-woodfall.json) |
 | The Grimwood Hex | 399943 | [399943-the-grimwood-hex.json](./399943-the-grimwood-hex.json) |
+| The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
 | The Grinch | 265046 | [265046-the-grinch.json](./265046-the-grinch.json) |
 | The Grinch 2: Saving Christmas | 409510 | [409510-the-grinch-2-saving-christmas.json](./409510-the-grinch-2-saving-christmas.json) |
 | The Grinch Scooby-Doo Pong | 325799 | [325799-the-grinch-scooby-doo-pong.json](./325799-the-grinch-scooby-doo-pong.json) |
@@ -15281,6 +15291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Many Deaths of Lily Kosen | 217109 | [217109-the-many-deaths-of-lily-kosen.json](./217109-the-many-deaths-of-lily-kosen.json) |
 | The Many Faces of Go | 73868 | [73868-the-many-faces-of-go.json](./73868-the-many-faces-of-go.json) |
 | The Many Misfortunes of Kyran Pierre Cadenza the First | 211764 | [211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json](./211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json) |
+| The Many Pieces of Mr. Coo | 142959 | [142959-the-many-pieces-of-mr-coo.json](./142959-the-many-pieces-of-mr-coo.json) |
 | The Many Pieces of Mr. Coo: Coollector Edition | 247195 | [247195-the-many-pieces-of-mr-coo-coollector-edition.json](./247195-the-many-pieces-of-mr-coo-coollector-edition.json) |
 | The Many Pieces of Mr. Coo: Fantabulous Edition | 247194 | [247194-the-many-pieces-of-mr-coo-fantabulous-edition.json](./247194-the-many-pieces-of-mr-coo-fantabulous-edition.json) |
 | The Many Sins of House Ocampo | 251651 | [251651-the-many-sins-of-house-ocampo.json](./251651-the-many-sins-of-house-ocampo.json) |
@@ -15360,6 +15371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
 | The Matrix Online | 1005 | [1005-the-matrix-online.json](./1005-the-matrix-online.json) |
+| The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
 | The Matrix: Path of Neo | 1004 | [1004-the-matrix-path-of-neo.json](./1004-the-matrix-path-of-neo.json) |
 | The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
 | The Matter of Being | 354402 | [354402-the-matter-of-being.json](./354402-the-matter-of-being.json) |
@@ -16479,6 +16491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
 | The Outer Worlds: Board-Approved Bundle | 146157 | [146157-the-outer-worlds-board-approved-bundle.json](./146157-the-outer-worlds-board-approved-bundle.json) |
 | The Outer Worlds: Expansion Pass | 293732 | [293732-the-outer-worlds-expansion-pass.json](./293732-the-outer-worlds-expansion-pass.json) |
+| The Outer Worlds: Murder on Eridanos | 136430 | [136430-the-outer-worlds-murder-on-eridanos.json](./136430-the-outer-worlds-murder-on-eridanos.json) |
 | The Outer Worlds: Non-Mandatory Corporate-Sponsored Bundle | 140668 | [140668-the-outer-worlds-non-mandatory-corporate-sponsored-bundle.json](./140668-the-outer-worlds-non-mandatory-corporate-sponsored-bundle.json) |
 | The Outer Worlds: Peril on Gorgon | 135996 | [135996-the-outer-worlds-peril-on-gorgon.json](./135996-the-outer-worlds-peril-on-gorgon.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
@@ -17294,6 +17307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Flat | 416368 | [416368-the-quiet-flat.json](./416368-the-quiet-flat.json) |
 | The Quiet Hum of a Lonely Heart | 361976 | [361976-the-quiet-hum-of-a-lonely-heart.json](./361976-the-quiet-hum-of-a-lonely-heart.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
+| The Quiet Man | 103313 | [103313-the-quiet-man.json](./103313-the-quiet-man.json) |
 | The Quiet Order | 410549 | [410549-the-quiet-order.json](./410549-the-quiet-order.json) |
 | The Quiet Pelagian | 401316 | [401316-the-quiet-pelagian.json](./401316-the-quiet-pelagian.json) |
 | The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
@@ -17795,6 +17809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room Three | 18222 | [18222-the-room-three.json](./18222-the-room-three.json) |
 | The Room Tribute | 92463 | [92463-the-room-tribute.json](./92463-the-room-tribute.json) |
 | The Room Two | 11276 | [11276-the-room-two.json](./11276-the-room-two.json) |
+| The Room VR: A Dark Matter | 123991 | [123991-the-room-vr-a-dark-matter.json](./123991-the-room-vr-a-dark-matter.json) |
 | The Room Where You Can't Leave Without Drinking Water | 417175 | [417175-the-room-where-you-cant-leave-without-drinking-water.json](./417175-the-room-where-you-cant-leave-without-drinking-water.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Rooster Files | 382502 | [382502-the-rooster-files.json](./382502-the-rooster-files.json) |
@@ -18386,6 +18401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
 | The Shapeshifter | 259640 | [259640-the-shapeshifter.json](./259640-the-shapeshifter.json) |
 | The Shapeshifter 2 | 259644 | [259644-the-shapeshifter-2.json](./259644-the-shapeshifter-2.json) |
+| The Shapeshifting Detective | 105629 | [105629-the-shapeshifting-detective.json](./105629-the-shapeshifting-detective.json) |
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
 | The Shattered | 332369 | [332369-the-shattered.json](./332369-the-shattered.json) |
@@ -18602,6 +18618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Hidden Springs | 14564 | [14564-the-sims-3-hidden-springs.json](./14564-the-sims-3-hidden-springs.json) |
 | The Sims 3: High-End Loft Stuff | 13117 | [13117-the-sims-3-high-end-loft-stuff.json](./13117-the-sims-3-high-end-loft-stuff.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
+| The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
 | The Sims 3: Katy Perry's Sweet Treats | 13122 | [13122-the-sims-3-katy-perrys-sweet-treats.json](./13122-the-sims-3-katy-perrys-sweet-treats.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
 | The Sims 3: Monte Vista | 14582 | [14582-the-sims-3-monte-vista.json](./14582-the-sims-3-monte-vista.json) |
@@ -18683,6 +18700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Horse Ranch | 253116 | [253116-the-sims-4-horse-ranch.json](./253116-the-sims-4-horse-ranch.json) |
 | The Sims 4: Incheon Arrivals Kit | 178212 | [178212-the-sims-4-incheon-arrivals-kit.json](./178212-the-sims-4-incheon-arrivals-kit.json) |
 | The Sims 4: Industrial Loft Kit | 165538 | [165538-the-sims-4-industrial-loft-kit.json](./165538-the-sims-4-industrial-loft-kit.json) |
+| The Sims 4: Island Living | 119318 | [119318-the-sims-4-island-living.json](./119318-the-sims-4-island-living.json) |
 | The Sims 4: Journey to Batuu | 137294 | [137294-the-sims-4-journey-to-batuu.json](./137294-the-sims-4-journey-to-batuu.json) |
 | The Sims 4: Jungle Adventure | 120981 | [120981-the-sims-4-jungle-adventure.json](./120981-the-sims-4-jungle-adventure.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
@@ -20922,6 +20940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: A New Frontier - Episode 1: Ties That Bind - Part One | 127062 | [127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json](./127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
 | The Walking Dead: A New Frontier - Episode 4: Thicker Than Water | 127065 | [127065-the-walking-dead-a-new-frontier-episode-4-thicker-than-water.json](./127065-the-walking-dead-a-new-frontier-episode-4-thicker-than-water.json) |
+| The Walking Dead: A New Frontier - Episode 5: From the Gallows | 127066 | [127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json](./127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: All-Stars | 208122 | [208122-the-walking-dead-all-stars.json](./208122-the-walking-dead-all-stars.json) |
 | The Walking Dead: Assault | 22173 | [22173-the-walking-dead-assault.json](./22173-the-walking-dead-assault.json) |
@@ -20948,7 +20967,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Season One - Episode 2: Starved for Help | 114941 | [114941-the-walking-dead-season-one-episode-2-starved-for-help.json](./114941-the-walking-dead-season-one-episode-2-starved-for-help.json) |
 | The Walking Dead: Season One - Episode 3: Long Road Ahead | 114942 | [114942-the-walking-dead-season-one-episode-3-long-road-ahead.json](./114942-the-walking-dead-season-one-episode-3-long-road-ahead.json) |
 | The Walking Dead: Season One - Episode 4: Around Every Corner | 114943 | [114943-the-walking-dead-season-one-episode-4-around-every-corner.json](./114943-the-walking-dead-season-one-episode-4-around-every-corner.json) |
+| The Walking Dead: Season One - Episode 5: No Time Left | 114944 | [114944-the-walking-dead-season-one-episode-5-no-time-left.json](./114944-the-walking-dead-season-one-episode-5-no-time-left.json) |
 | The Walking Dead: Season Two - Episode 1: All That Remains | 127057 | [127057-the-walking-dead-season-two-episode-1-all-that-remains.json](./127057-the-walking-dead-season-two-episode-1-all-that-remains.json) |
+| The Walking Dead: Season Two - Episode 2: A House Divided | 127058 | [127058-the-walking-dead-season-two-episode-2-a-house-divided.json](./127058-the-walking-dead-season-two-episode-2-a-house-divided.json) |
 | The Walking Dead: Streets of Survival | 409384 | [409384-the-walking-dead-streets-of-survival.json](./409384-the-walking-dead-streets-of-survival.json) |
 | The Walking Dead: Streets of Survival - Arcade Apocalypse Pack | 412574 | [412574-the-walking-dead-streets-of-survival-arcade-apocalypse-pack.json](./412574-the-walking-dead-streets-of-survival-arcade-apocalypse-pack.json) |
 | The Walking Dead: Streets of Survival - Deluxe Edition | 412573 | [412573-the-walking-dead-streets-of-survival-deluxe-edition.json](./412573-the-walking-dead-streets-of-survival-deluxe-edition.json) |
@@ -21475,6 +21496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 2639 | [2639-the-wonderful-101.json](./2639-the-wonderful-101.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
+| The Wonderful 101: Remastered | 129240 | [129240-the-wonderful-101-remastered.json](./129240-the-wonderful-101-remastered.json) |
 | The Wonderful 101: Remastered - The Prince Vorkken | 196065 | [196065-the-wonderful-101-remastered-the-prince-vorkken.json](./196065-the-wonderful-101-remastered-the-prince-vorkken.json) |
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 2 | 251116 | [251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json](./251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json) |
@@ -21568,6 +21590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Easyest Game | 313542 | [313542-the-worlds-easyest-game.json](./313542-the-worlds-easyest-game.json) |
 | The World's Egg: For Those Who Dream | 278355 | [278355-the-worlds-egg-for-those-who-dream.json](./278355-the-worlds-egg-for-those-who-dream.json) |
 | The World's Greatest Baseball Game | 25790 | [25790-the-worlds-greatest-baseball-game.json](./25790-the-worlds-greatest-baseball-game.json) |
+| The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
 | The World's Hardest Game 2 | 224510 | [224510-the-worlds-hardest-game-2.json](./224510-the-worlds-hardest-game-2.json) |
 | The World's Hardest Game 3 | 231713 | [231713-the-worlds-hardest-game-3.json](./231713-the-worlds-hardest-game-3.json) |
 | The World's Hardest Game 3D | 169757 | [169757-the-worlds-hardest-game-3d.json](./169757-the-worlds-hardest-game-3d.json) |
@@ -27559,6 +27582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Time Trial | 105194 | [105194-toki-time-trial.json](./105194-toki-time-trial.json) |
 | Toki Tori | 194909 | [194909-toki-tori.json](./194909-toki-tori.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
+| Toki Tori 2+ | 16282 | [16282-toki-tori-2.json](./16282-toki-tori-2.json) |
 | Toki Tori 3D | 85449 | [85449-toki-tori-3d.json](./85449-toki-tori-3d.json) |
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
 | Toki Tori: Ultimate Edition | 342781 | [342781-toki-tori-ultimate-edition.json](./342781-toki-tori-ultimate-edition.json) |
@@ -35312,6 +35336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trom | 288316 | [288316-trom.json](./288316-trom.json) |
 | Troma Presents Poultrygeist | 305952 | [305952-troma-presents-poultrygeist.json](./305952-troma-presents-poultrygeist.json) |
 | Tromaball | 93143 | [93143-tromaball.json](./93143-tromaball.json) |
+| Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
 | Trombone Champ: Celeste Song Pack | 382677 | [382677-trombone-champ-celeste-song-pack.json](./382677-trombone-champ-celeste-song-pack.json) |
 | Trombone Champ: Undertale + Deltarune | 382679 | [382679-trombone-champ-undertale-deltarune.json](./382679-trombone-champ-undertale-deltarune.json) |
 | Trombone Champ: Unflattened - Celeste Song Pack | 382719 | [382719-trombone-champ-unflattened-celeste-song-pack.json](./382719-trombone-champ-unflattened-celeste-song-pack.json) |
@@ -36393,6 +36418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuk Tuk Trials | 109502 | [109502-tuk-tuk-trials.json](./109502-tuk-tuk-trials.json) |
 | Tukiyono | 205668 | [205668-tukiyono.json](./205668-tukiyono.json) |
 | Tukki & Champ | 188812 | [188812-tukki-and-champ.json](./188812-tukki-and-champ.json) |
+| Tukoni: Forest Keepers | 141273 | [141273-tukoni-forest-keepers.json](./141273-tukoni-forest-keepers.json) |
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
 | Tulak | 183757 | [183757-tulak.json](./183757-tulak.json) |
@@ -36853,12 +36879,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 2: Seeds of Evil | 1326 | [1326-turok-2-seeds-of-evil.json](./1326-turok-2-seeds-of-evil.json) |
 | Turok 2: Seeds of Evil | 146696 | [146696-turok-2-seeds-of-evil.json](./146696-turok-2-seeds-of-evil.json) |
 | Turok 2: Seeds of Evil | 27508 | [27508-turok-2-seeds-of-evil.json](./27508-turok-2-seeds-of-evil.json) |
+| Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
 | Turok 3: Shadow of Oblivion | 142996 | [142996-turok-3-shadow-of-oblivion.json](./142996-turok-3-shadow-of-oblivion.json) |
 | Turok Bundle | 103215 | [103215-turok-bundle.json](./103215-turok-bundle.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Evolution | 1329 | [1329-turok-evolution.json](./1329-turok-evolution.json) |
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
+| Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
 | Turok: Rage Wars | 146987 | [146987-turok-rage-wars.json](./146987-turok-rage-wars.json) |
 | Turovero: The Celestial Tower | 218278 | [218278-turovero-the-celestial-tower.json](./218278-turovero-the-celestial-tower.json) |
 | Turpedo | 188420 | [188420-turpedo.json](./188420-turpedo.json) |
