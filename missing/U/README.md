@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMS: The Universal Military Simulator - Vietnam | 72460 | [72460-ums-the-universal-military-simulator-vietnam.json](./72460-ums-the-universal-military-simulator-vietnam.json) |
 | Umurangi Generation VR | 279410 | [279410-umurangi-generation-vr.json](./279410-umurangi-generation-vr.json) |
 | Umurangi Generation: Macro | 139015 | [139015-umurangi-generation-macro.json](./139015-umurangi-generation-macro.json) |
+| Umurangi Generation: Special Edition | 151766 | [151766-umurangi-generation-special-edition.json](./151766-umurangi-generation-special-edition.json) |
 | Un indien dans la ville | 117973 | [117973-un-indien-dans-la-ville.json](./117973-un-indien-dans-la-ville.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un Lugar Otro Que El Cielo | 271430 | [271430-un-lugar-otro-que-el-cielo.json](./271430-un-lugar-otro-que-el-cielo.json) |
@@ -3266,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Then: Deluxe Edition | 407104 | [407104-until-then-deluxe-edition.json](./407104-until-then-deluxe-edition.json) |
 | Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
 | Until Tomorrow | 182022 | [182022-until-tomorrow.json](./182022-until-tomorrow.json) |
+| Until We Die | 127240 | [127240-until-we-die.json](./127240-until-we-die.json) |
 | Until You Fall | 115478 | [115478-until-you-fall.json](./115478-until-you-fall.json) |
 | Until You Return to the Earth | 339430 | [339430-until-you-return-to-the-earth.json](./339430-until-you-return-to-the-earth.json) |
 | UntilZombieDown | 287759 | [287759-untilzombiedown.json](./287759-untilzombiedown.json) |
@@ -3525,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Upgrader | 235531 | [235531-upgrader.json](./235531-upgrader.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
+| UpGun | 152406 | [152406-upgun.json](./152406-upgun.json) |
 | Uph! | 157123 | [157123-uph.json](./157123-uph.json) |
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
