@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Waddle Throttle | 419962 | [419962-waddle-throttle.json](./419962-waddle-throttle.json) |
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
+| Waddle Words | 383288 | [383288-waddle-words.json](./383288-waddle-words.json) |
 | Wade | 243832 | [243832-wade.json](./243832-wade.json) |
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
 | Wade Hixton's Counter Punch | 6676 | [6676-wade-hixtons-counter-punch.json](./6676-wade-hixtons-counter-punch.json) |
@@ -411,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk It Out! | 50660 | [50660-walk-it-out.json](./50660-walk-it-out.json) |
 | Walk It! | 364614 | [364614-walk-it.json](./364614-walk-it.json) |
 | Walk Master | 165342 | [165342-walk-master.json](./165342-walk-master.json) |
+| Walk of Fire | 346823 | [346823-walk-of-fire.json](./346823-walk-of-fire.json) |
 | Walk of Life | 346648 | [346648-walk-of-life.json](./346648-walk-of-life.json) |
 | Walk of Shame | 154104 | [154104-walk-of-shame.json](./154104-walk-of-shame.json) |
 | Walk on Arrow | 104956 | [104956-walk-on-arrow.json](./104956-walk-on-arrow.json) |
@@ -1048,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Criminals | 89969 | [89969-war-of-criminals.json](./89969-war-of-criminals.json) |
 | War of Crown | 76567 | [76567-war-of-crown.json](./76567-war-of-crown.json) |
 | War of Deities | 208103 | [208103-war-of-deities.json](./208103-war-of-deities.json) |
+| War of Dots | 383268 | [383268-war-of-dots.json](./383268-war-of-dots.json) |
 | War of Dragons 2016 | 231891 | [231891-war-of-dragons-2016.json](./231891-war-of-dragons-2016.json) |
 | War of Eclipse | 64101 | [64101-war-of-eclipse.json](./64101-war-of-eclipse.json) |
 | War of Freedom | 158523 | [158523-war-of-freedom.json](./158523-war-of-freedom.json) |
@@ -5233,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Feathers | 142536 | [142536-white-feathers.json](./142536-white-feathers.json) |
 | White Flame Inna: Daughter of the Void | 256583 | [256583-white-flame-inna-daughter-of-the-void.json](./256583-white-flame-inna-daughter-of-the-void.json) |
 | White Flower | 234974 | [234974-white-flower.json](./234974-white-flower.json) |
+| White Forest | 363580 | [363580-white-forest.json](./363580-white-forest.json) |
 | White Girl | 165598 | [165598-white-girl.json](./165598-white-girl.json) |
 | White Hat | 267112 | [267112-white-hat.json](./267112-white-hat.json) |
 | White Haven Mysteries | 17201 | [17201-white-haven-mysteries.json](./17201-white-haven-mysteries.json) |
@@ -5662,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Subway | 371615 | [371615-wicked-subway.json](./371615-wicked-subway.json) |
 | Wicked Surfing | 200674 | [200674-wicked-surfing.json](./200674-wicked-surfing.json) |
 | Wicked Tuna | 248700 | [248700-wicked-tuna.json](./248700-wicked-tuna.json) |
+| Wicked West | 383281 | [383281-wicked-west.json](./383281-wicked-west.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
 | Wicked Witches | 34186 | [34186-wicked-witches.json](./34186-wicked-witches.json) |
 | Wicked World #1 | 197780 | [197780-wicked-world-1.json](./197780-wicked-world-1.json) |
@@ -8188,6 +8193,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland X: Next Dream | 326196 | [326196-wonderland-x-next-dream.json](./326196-wonderland-x-next-dream.json) |
 | WonderLang English | 390263 | [390263-wonderlang-english.json](./390263-wonderlang-english.json) |
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
+| WonderLang German | 383275 | [383275-wonderlang-german.json](./383275-wonderlang-german.json) |
+| WonderLang Italian | 383276 | [383276-wonderlang-italian.json](./383276-wonderlang-italian.json) |
 | WonderLang Japanese | 360710 | [360710-wonderlang-japanese.json](./360710-wonderlang-japanese.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
 | WonderLang Mandarin Chinese | 395258 | [395258-wonderlang-mandarin-chinese.json](./395258-wonderlang-mandarin-chinese.json) |
@@ -10221,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreck-It Ralph: The Video Game | 51655 | [51655-wreck-it-ralph-the-video-game.json](./51655-wreck-it-ralph-the-video-game.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
+| Wreckborn | 383282 | [383282-wreckborn.json](./383282-wreckborn.json) |
 | Wreckboy | 229632 | [229632-wreckboy.json](./229632-wreckboy.json) |
 | Wreckdigger | 188922 | [188922-wreckdigger.json](./188922-wreckdigger.json) |
 | Wrecked | 333503 | [333503-wrecked.json](./333503-wrecked.json) |
