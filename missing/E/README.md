@@ -4593,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone: A World Apart - Distant Places | 193755 | [193755-endzone-a-world-apart-distant-places.json](./193755-endzone-a-world-apart-distant-places.json) |
 | Endzone: A World Apart - Prosperity | 159687 | [159687-endzone-a-world-apart-prosperity.json](./159687-endzone-a-world-apart-prosperity.json) |
 | Endzone: A World Apart - Save the World Edition | 154952 | [154952-endzone-a-world-apart-save-the-world-edition.json](./154952-endzone-a-world-apart-save-the-world-edition.json) |
+| Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
 | Enelia: Dawn of Madness | 216688 | [216688-enelia-dawn-of-madness.json](./216688-enelia-dawn-of-madness.json) |
 | Enemies | 173941 | [173941-enemies.json](./173941-enemies.json) |
