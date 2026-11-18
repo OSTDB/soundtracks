@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Driver | 242764 | [242764-tap-tap-driver.json](./242764-tap-tap-driver.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
 | Tap Tap Evil Mastermind | 290286 | [290286-tap-tap-evil-mastermind.json](./290286-tap-tap-evil-mastermind.json) |
+| Tap Tap Fish: AbyssRium | 86983 | [86983-tap-tap-fish-abyssrium.json](./86983-tap-tap-fish-abyssrium.json) |
 | Tap Tap Fish: Abyssrium Pole | 223003 | [223003-tap-tap-fish-abyssrium-pole.json](./223003-tap-tap-fish-abyssrium-pole.json) |
 | Tap Tap Glee | 64779 | [64779-tap-tap-glee.json](./64779-tap-tap-glee.json) |
 | Tap Tap Goose | 413077 | [413077-tap-tap-goose.json](./413077-tap-tap-goose.json) |
@@ -2734,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Donut | 135088 | [135088-tappy-donut.json](./135088-tappy-donut.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tappy Lap | 243640 | [243640-tappy-lap.json](./243640-tappy-lap.json) |
+| Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
 | Tappy Shots 2018 | 100871 | [100871-tappy-shots-2018.json](./100871-tappy-shots-2018.json) |
 | Tappy Tilt | 295466 | [295466-tappy-tilt.json](./295466-tappy-tilt.json) |
 | Tappy Town | 25872 | [25872-tappy-town.json](./25872-tappy-town.json) |
@@ -31263,6 +31265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
 | Toy War: Cannon | 286857 | [286857-toy-war-cannon.json](./286857-toy-war-cannon.json) |
 | Toy Warfare | 355888 | [355888-toy-warfare.json](./355888-toy-warfare.json) |
+| Toy Wars | 86979 | [86979-toy-wars.json](./86979-toy-wars.json) |
 | Toy Wars Gold Edition: The Story of Army Heroes | 102504 | [102504-toy-wars-gold-edition-the-story-of-army-heroes.json](./102504-toy-wars-gold-edition-the-story-of-army-heroes.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toy Wars: Story of Heroes | 140321 | [140321-toy-wars-story-of-heroes.json](./140321-toy-wars-story-of-heroes.json) |
