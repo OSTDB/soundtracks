@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted SchoolBoy Hacker | 409305 | [409305-uncharted-schoolboy-hacker.json](./409305-uncharted-schoolboy-hacker.json) |
 | Uncharted Sectors | 375254 | [375254-uncharted-sectors.json](./375254-uncharted-sectors.json) |
 | Uncharted Space: Project 3062 | 204891 | [204891-uncharted-space-project-3062.json](./204891-uncharted-space-project-3062.json) |
+| Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
 | Uncharted Tides: Port Royal | 400940 | [400940-uncharted-tides-port-royal.json](./400940-uncharted-tides-port-royal.json) |
 | Uncharted Waters | 340800 | [340800-uncharted-waters.json](./340800-uncharted-waters.json) |
 | Uncharted Waters | 351120 | [351120-uncharted-waters.json](./351120-uncharted-waters.json) |
