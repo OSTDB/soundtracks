@@ -2911,12 +2911,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zup! 5: DLC | 169708 | [169708-zup-5-dlc.json](./169708-zup-5-dlc.json) |
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
+| Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
 | Zup! Q | 247058 | [247058-zup-q.json](./247058-zup-q.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
 | Zup! X | 101515 | [101515-zup-x.json](./101515-zup-x.json) |
 | Zup! Y | 316678 | [316678-zup-y.json](./316678-zup-y.json) |
 | Zup! Z | 168955 | [168955-zup-z.json](./168955-zup-z.json) |
 | Zup! Zero | 29099 | [29099-zup-zero.json](./29099-zup-zero.json) |
+| Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
 | Zup! Zero: DLC | 167890 | [167890-zup-zero-dlc.json](./167890-zup-zero-dlc.json) |
 | Zup!: DLC | 169712 | [169712-zup-dlc.json](./169712-zup-dlc.json) |
 | Zupapa! | 47577 | [47577-zupapa.json](./47577-zupapa.json) |
