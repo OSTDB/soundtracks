@@ -7341,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyukyoku TigerHeli: Toaplan Arcade Garage | 399782 | [399782-kyukyoku-tigerheli-toaplan-arcade-garage.json](./399782-kyukyoku-tigerheli-toaplan-arcade-garage.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyun! | 184268 | [184268-kyun.json](./184268-kyun.json) |
+| Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
 | Kyuryutou | 361660 | [361660-kyuryutou.json](./361660-kyuryutou.json) |
 | Kyushu Jade | 128314 | [128314-kyushu-jade.json](./128314-kyushu-jade.json) |
 | Kyuukai Douchuuki | 45724 | [45724-kyuukai-douchuuki.json](./45724-kyuukai-douchuuki.json) |
