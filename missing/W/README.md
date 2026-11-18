@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario's Whack Attack | 231531 | [231531-warios-whack-attack.json](./231531-warios-whack-attack.json) |
 | Wario's Wonderful Walk | 214949 | [214949-warios-wonderful-walk.json](./214949-warios-wonderful-walk.json) |
 | Wario's Woods | 1711 | [1711-warios-woods.json](./1711-warios-woods.json) |
+| WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Gold | 90108 | [90108-warioware-gold.json](./90108-warioware-gold.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | WarioWare, Inc.: Mega Microgame$! | 1703 | [1703-warioware-inc-mega-microgame.json](./1703-warioware-inc-mega-microgame.json) |
@@ -3514,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Supermarket Simulator | 383739 | [383739-weed-supermarket-simulator.json](./383739-weed-supermarket-simulator.json) |
 | Weed Syndicate Empire | 347066 | [347066-weed-syndicate-empire.json](./347066-weed-syndicate-empire.json) |
 | Weed Tycoon - The Ultimate Marijuana Sim Cannabis Game | 90778 | [90778-weed-tycoon-the-ultimate-marijuana-sim-cannabis-game.json](./90778-weed-tycoon-the-ultimate-marijuana-sim-cannabis-game.json) |
+| Weedcraft Inc | 110486 | [110486-weedcraft-inc.json](./110486-weedcraft-inc.json) |
 | Weedcraft Inc & Big Pharm Pharmacy Tycoon Bundle | 267143 | [267143-weedcraft-inc-and-big-pharm-pharmacy-tycoon-bundle.json](./267143-weedcraft-inc-and-big-pharm-pharmacy-tycoon-bundle.json) |
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weedcraft Inc + Bio Inc. Redemption: Medical Herbs Bundle | 292619 | [292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json](./292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json) |
@@ -6981,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout In the Zone | 20166 | [20166-wipeout-in-the-zone.json](./20166-wipeout-in-the-zone.json) |
 | Wipeout Merge | 234231 | [234231-wipeout-merge.json](./234231-wipeout-merge.json) |
 | Wipeout Portable Collection | 345819 | [345819-wipeout-portable-collection.json](./345819-wipeout-portable-collection.json) |
+| Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
 | Wipeout Pure: Classic Pack | 241254 | [241254-wipeout-pure-classic-pack.json](./241254-wipeout-pure-classic-pack.json) |
 | Wipeout Pure: Delta Pack | 241253 | [241253-wipeout-pure-delta-pack.json](./241253-wipeout-pure-delta-pack.json) |
 | Wipeout Pure: Gamma Pack | 241252 | [241252-wipeout-pure-gamma-pack.json](./241252-wipeout-pure-gamma-pack.json) |
@@ -8292,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Tree 2: Deluxe Plus | 194438 | [194438-woodle-tree-2-deluxe-plus.json](./194438-woodle-tree-2-deluxe-plus.json) |
 | Woodle Tree 2: Deluxe+ | 127629 | [127629-woodle-tree-2-deluxe.json](./127629-woodle-tree-2-deluxe.json) |
 | Woodle Tree 2: Worlds | 32250 | [32250-woodle-tree-2-worlds.json](./32250-woodle-tree-2-worlds.json) |
+| Woodle Tree Adventures | 15325 | [15325-woodle-tree-adventures.json](./15325-woodle-tree-adventures.json) |
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodlock Manor | 207490 | [207490-woodlock-manor.json](./207490-woodlock-manor.json) |
@@ -9200,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Fighter | 220373 | [220373-world-of-fighter.json](./220373-world-of-fighter.json) |
 | World of Final Fantasy: Balthier | 405196 | [405196-world-of-final-fantasy-balthier.json](./405196-world-of-final-fantasy-balthier.json) |
 | World of Final Fantasy: Limited Edition | 41841 | [41841-world-of-final-fantasy-limited-edition.json](./41841-world-of-final-fantasy-limited-edition.json) |
+| World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
 | World of Final Fantasy: Meli-Melo | 76160 | [76160-world-of-final-fantasy-meli-melo.json](./76160-world-of-final-fantasy-meli-melo.json) |
 | World of Fishing | 33988 | [33988-world-of-fishing.json](./33988-world-of-fishing.json) |
 | World of Football | 230297 | [230297-world-of-football.json](./230297-world-of-football.json) |
@@ -10154,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 8: Ford Escort MkII 1800 (1979) | 404551 | [404551-wrc-8-ford-escort-mkii-1800-1979.json](./404551-wrc-8-ford-escort-mkii-1800-1979.json) |
 | WRC 8: Lancia Delta HF Integrale Evoluzione (1992) | 404550 | [404550-wrc-8-lancia-delta-hf-integrale-evoluzione-1992.json](./404550-wrc-8-lancia-delta-hf-integrale-evoluzione-1992.json) |
 | WRC 8: RWD Legends | 404549 | [404549-wrc-8-rwd-legends.json](./404549-wrc-8-rwd-legends.json) |
+| WRC 9 | 133773 | [133773-wrc-9.json](./133773-wrc-9.json) |
 | WRC 9: Audi Quattro A2 1984 | 196111 | [196111-wrc-9-audi-quattro-a2-1984.json](./196111-wrc-9-audi-quattro-a2-1984.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
 | WRC 9: Toyota Corolla 1999 | 174390 | [174390-wrc-9-toyota-corolla-1999.json](./174390-wrc-9-toyota-corolla-1999.json) |
