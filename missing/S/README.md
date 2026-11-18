@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Forest Girls | 146061 | [146061-sakura-forest-girls.json](./146061-sakura-forest-girls.json) |
 | Sakura Forest Girls 2 | 153039 | [153039-sakura-forest-girls-2.json](./153039-sakura-forest-girls-2.json) |
 | Sakura Forest Girls 3 | 193263 | [193263-sakura-forest-girls-3.json](./193263-sakura-forest-girls-3.json) |
+| Sakura Fox Adventure | 123910 | [123910-sakura-fox-adventure.json](./123910-sakura-fox-adventure.json) |
 | Sakura Gamer | 57032 | [57032-sakura-gamer.json](./57032-sakura-gamer.json) |
 | Sakura Gozen | 391440 | [391440-sakura-gozen.json](./391440-sakura-gozen.json) |
 | Sakura Gym Girls | 237172 | [237172-sakura-gym-girls.json](./237172-sakura-gym-girls.json) |
@@ -5117,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent Dorito | 141593 | [141593-secret-agent-dorito.json](./141593-secret-agent-dorito.json) |
 | Secret Agent Files: Miami | 84858 | [84858-secret-agent-files-miami.json](./84858-secret-agent-files-miami.json) |
 | Secret Agent Game: The 5 Keys | 175559 | [175559-secret-agent-game-the-5-keys.json](./175559-secret-agent-game-the-5-keys.json) |
+| Secret Agent HD | 153815 | [153815-secret-agent-hd.json](./153815-secret-agent-hd.json) |
 | Secret Agent No. 6 | 254040 | [254040-secret-agent-no-6.json](./254040-secret-agent-no-6.json) |
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
 | Secret Agent Spy Game: Hotel Assassination Mission | 196334 | [196334-secret-agent-spy-game-hotel-assassination-mission.json](./196334-secret-agent-spy-game-hotel-assassination-mission.json) |
@@ -7696,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Lost | 155889 | [155889-shadow-lost.json](./155889-shadow-lost.json) |
 | Shadow Madness | 44969 | [44969-shadow-madness.json](./44969-shadow-madness.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
+| Shadow Man Remastered | 131889 | [131889-shadow-man-remastered.json](./131889-shadow-man-remastered.json) |
 | Shadow Man: 2econd Coming | 3599 | [3599-shadow-man-2econd-coming.json](./3599-shadow-man-2econd-coming.json) |
 | Shadow Mansion | 306385 | [306385-shadow-mansion.json](./306385-shadow-mansion.json) |
 | Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
@@ -9330,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shields of Asgard | 223252 | [223252-shields-of-asgard.json](./223252-shields-of-asgard.json) |
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
+| Shieldwall | 129697 | [129697-shieldwall.json](./129697-shieldwall.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
 | Shieldwall Chronicles: Realm of Madness | 158884 | [158884-shieldwall-chronicles-realm-of-madness.json](./158884-shieldwall-chronicles-realm-of-madness.json) |
 | Shieldwall Chronicles: Swords of the North | 112849 | [112849-shieldwall-chronicles-swords-of-the-north.json](./112849-shieldwall-chronicles-swords-of-the-north.json) |
@@ -13064,6 +13068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single Spark | 346389 | [346389-single-spark.json](./346389-single-spark.json) |
 | Single-handedly Challenge Ultimate World | 329095 | [329095-single-handedly-challenge-ultimate-world.json](./329095-single-handedly-challenge-ultimate-world.json) |
 | Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
+| Singled Out | 122145 | [122145-singled-out.json](./122145-singled-out.json) |
 | Singles 2: Triple Trouble | 27606 | [27606-singles-2-triple-trouble.json](./27606-singles-2-triple-trouble.json) |
 | Singles' Generation | 150479 | [150479-singles-generation.json](./150479-singles-generation.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
@@ -14374,6 +14379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Break | 25300 | [25300-sky-break.json](./25300-sky-break.json) |
 | Sky Bumper | 41104 | [41104-sky-bumper.json](./41104-sky-bumper.json) |
 | Sky Burger | 233909 | [233909-sky-burger.json](./233909-sky-burger.json) |
+| Sky Cannoneer | 127441 | [127441-sky-cannoneer.json](./127441-sky-cannoneer.json) |
 | Sky Captain's Return | 213454 | [213454-sky-captains-return.json](./213454-sky-captains-return.json) |
 | Sky Caravan | 189891 | [189891-sky-caravan.json](./189891-sky-caravan.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
@@ -15930,6 +15936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slope Car | 238989 | [238989-slope-car.json](./238989-slope-car.json) |
 | Slope Down | 97185 | [97185-slope-down.json](./97185-slope-down.json) |
+| Slopecrashers | 154403 | [154403-slopecrashers.json](./154403-slopecrashers.json) |
 | Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
 | Slopeside Kings | 389658 | [389658-slopeside-kings.json](./389658-slopeside-kings.json) |
 | Slopestyle | 37226 | [37226-slopestyle.json](./37226-slopestyle.json) |
@@ -17525,6 +17532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs. Capcom Card Fighters' Clash - Capcom Card Fighter's Version | 28398 | [28398-snk-vs-capcom-card-fighters-clash-capcom-card-fighters-version.json](./28398-snk-vs-capcom-card-fighters-clash-capcom-card-fighters-version.json) |
 | SNK vs. Capcom Card Fighters' Clash - SNK Card Fighter's Version | 28399 | [28399-snk-vs-capcom-card-fighters-clash-snk-card-fighters-version.json](./28399-snk-vs-capcom-card-fighters-clash-snk-card-fighters-version.json) |
 | SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
+| SNK vs. Capcom: Card Fighters' Clash | 186758 | [186758-snk-vs-capcom-card-fighters-clash.json](./186758-snk-vs-capcom-card-fighters-clash.json) |
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
 | SNK vs. Capcom: SVC Chaos | 6184 | [6184-snk-vs-capcom-svc-chaos.json](./6184-snk-vs-capcom-svc-chaos.json) |
 | Snk's Cool Cool Toon | 45820 | [45820-snks-cool-cool-toon.json](./45820-snks-cool-cool-toon.json) |
@@ -19503,6 +19511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror - Episode 4 | 135153 | [135153-song-of-horror-episode-4.json](./135153-song-of-horror-episode-4.json) |
 | Song of Horror - Episode 5 | 135158 | [135158-song-of-horror-episode-5.json](./135158-song-of-horror-episode-5.json) |
 | Song of Horror Episodes 2-5 | 135160 | [135160-song-of-horror-episodes-2-5.json](./135160-song-of-horror-episodes-2-5.json) |
+| Song of Horror: Complete Edition | 135162 | [135162-song-of-horror-complete-edition.json](./135162-song-of-horror-complete-edition.json) |
 | Song of Horror: Deluxe Edition | 146789 | [146789-song-of-horror-deluxe-edition.json](./146789-song-of-horror-deluxe-edition.json) |
 | Song of Horror: Episode 2 | 135149 | [135149-song-of-horror-episode-2.json](./135149-song-of-horror-episode-2.json) |
 | Song of Horror: One Shot Challenge | 273565 | [273565-song-of-horror-one-shot-challenge.json](./273565-song-of-horror-one-shot-challenge.json) |
@@ -24485,6 +24494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker | 4621 | [4621-spelunker.json](./4621-spelunker.json) |
 | Spelunker Black | 81451 | [81451-spelunker-black.json](./81451-spelunker-black.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
+| Spelunker HD Deluxe | 145280 | [145280-spelunker-hd-deluxe.json](./145280-spelunker-hd-deluxe.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
 | Spelunker HD: Ultimate Edition | 99946 | [99946-spelunker-hd-ultimate-edition.json](./99946-spelunker-hd-ultimate-edition.json) |
 | Spelunker II | 41096 | [41096-spelunker-ii.json](./41096-spelunker-ii.json) |
@@ -25992,6 +26002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Scramble | 123205 | [123205-sports-scramble.json](./123205-sports-scramble.json) |
 | Sports Shooting USA | 39431 | [39431-sports-shooting-usa.json](./39431-sports-shooting-usa.json) |
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
+| Sports Story | 127303 | [127303-sports-story.json](./127303-sports-story.json) |
 | Sports Superbike | 43789 | [43789-sports-superbike.json](./43789-sports-superbike.json) |
 | Sports Superbike 2 | 44908 | [44908-sports-superbike-2.json](./44908-sports-superbike-2.json) |
 | Sports Supermarket | 322503 | [322503-sports-supermarket.json](./322503-sports-supermarket.json) |
@@ -28015,6 +28026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Pinball | 86260 | [86260-star-wars-pinball.json](./86260-star-wars-pinball.json) |
 | Star Wars Pinball 7 | 380936 | [380936-star-wars-pinball-7.json](./380936-star-wars-pinball-7.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
+| Star Wars Pinball VR | 146363 | [146363-star-wars-pinball-vr.json](./146363-star-wars-pinball-vr.json) |
 | Star Wars PS3 Mega Bundle | 119920 | [119920-star-wars-ps3-mega-bundle.json](./119920-star-wars-ps3-mega-bundle.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
@@ -32191,6 +32203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All - Skull Noir Bundle | 259809 | [259809-street-outlaws-2-winner-takes-all-skull-noir-bundle.json](./259809-street-outlaws-2-winner-takes-all-skull-noir-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Steel Thunder Bundle | 226699 | [226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json](./226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json) |
 | Street Outlaws 2: Winner Takes All - The 70s Bundle | 225945 | [225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json](./225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json) |
+| Street Outlaws: The List | 122442 | [122442-street-outlaws-the-list.json](./122442-street-outlaws-the-list.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Posse Showdown | 33589 | [33589-street-posse-showdown.json](./33589-street-posse-showdown.json) |
 | Street Pursuit | 266174 | [266174-street-pursuit.json](./266174-street-pursuit.json) |
@@ -32899,6 +32912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SturmFront: The Mutant War - Übel Edition | 52764 | [52764-sturmfront-the-mutant-war-ubel-edition.json](./52764-sturmfront-the-mutant-war-ubel-edition.json) |
 | Sturmjäger | 422546 | [422546-sturmjager.json](./422546-sturmjager.json) |
 | Sturmwind | 9126 | [9126-sturmwind.json](./9126-sturmwind.json) |
+| Sturmwind Ex | 123738 | [123738-sturmwind-ex.json](./123738-sturmwind-ex.json) |
 | Stygia | 139412 | [139412-stygia.json](./139412-stygia.json) |
 | Stygia II: The Sisters of Stygia | 139413 | [139413-stygia-ii-the-sisters-of-stygia.json](./139413-stygia-ii-the-sisters-of-stygia.json) |
 | Stygian | 141784 | [141784-stygian.json](./141784-stygian.json) |
@@ -33870,6 +33884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suitcase Stories | 391198 | [391198-suitcase-stories.json](./391198-suitcase-stories.json) |
 | Suitchi | 110087 | [110087-suitchi.json](./110087-suitchi.json) |
 | Suite 1303 | 336484 | [336484-suite-1303.json](./336484-suite-1303.json) |
+| Suite 776 | 127003 | [127003-suite-776.json](./127003-suite-776.json) |
 | Suite Macabre | 360119 | [360119-suite-macabre.json](./360119-suite-macabre.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Suite PreCure: Melody Collection | 124063 | [124063-suite-precure-melody-collection.json](./124063-suite-precure-melody-collection.json) |
@@ -39697,6 +39712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | SwapTiles | 100664 | [100664-swaptiles.json](./100664-swaptiles.json) |
 | Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
+| Swarm | 145549 | [145549-swarm.json](./145549-swarm.json) |
 | Swarm | 149182 | [149182-swarm.json](./149182-swarm.json) |
 | Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
 | Swarm Arena | 15025 | [15025-swarm-arena.json](./15025-swarm-arena.json) |
@@ -40729,6 +40745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syberia Collection | 83154 | [83154-syberia-collection.json](./83154-syberia-collection.json) |
 | Syberia II | 6185 | [6185-syberia-ii.json](./6185-syberia-ii.json) |
+| Syberia Trilogy | 125404 | [125404-syberia-trilogy.json](./125404-syberia-trilogy.json) |
 | Syberia VR | 377653 | [377653-syberia-vr.json](./377653-syberia-vr.json) |
 | Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
