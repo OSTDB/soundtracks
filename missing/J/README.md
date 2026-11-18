@@ -984,7 +984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaxon the Thief | 120823 | [120823-jaxon-the-thief.json](./120823-jaxon-the-thief.json) |
 | Jaxx Blorgin's UFO Jam | 391306 | [391306-jaxx-blorgins-ufo-jam.json](./391306-jaxx-blorgins-ufo-jam.json) |
 | Jay and Silent Bob in: Let Us Dance | 64859 | [64859-jay-and-silent-bob-in-let-us-dance.json](./64859-jay-and-silent-bob-in-let-us-dance.json) |
-| Jay and Silent Bob: Chronic Blunt Punch | 28284 | [28284-jay-and-silent-bob-chronic-blunt-punch.json](./28284-jay-and-silent-bob-chronic-blunt-punch.json) |
 | Jay and Silent Bob's: Joint Venture | 411541 | [411541-jay-and-silent-bobs-joint-venture.json](./411541-jay-and-silent-bobs-joint-venture.json) |
 | Jay Arnold's Immortal Quest | 179427 | [179427-jay-arnolds-immortal-quest.json](./179427-jay-arnolds-immortal-quest.json) |
 | Jay Fighter | 80118 | [80118-jay-fighter.json](./80118-jay-fighter.json) |
