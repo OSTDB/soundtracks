@@ -10461,7 +10461,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet destroyer | 123867 | [123867-planet-destroyer.json](./123867-planet-destroyer.json) |
 | Planet Dexter's Grossology | 71322 | [71322-planet-dexters-grossology.json](./71322-planet-dexters-grossology.json) |
-| Planet Diver | 34069 | [34069-planet-diver.json](./34069-planet-diver.json) |
 | Planet Divers | 307633 | [307633-planet-divers.json](./307633-planet-divers.json) |
 | Planet DOB | 93917 | [93917-planet-dob.json](./93917-planet-dob.json) |
 | Planet Driller | 25363 | [25363-planet-driller.json](./25363-planet-driller.json) |
