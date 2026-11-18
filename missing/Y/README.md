@@ -84,7 +84,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzee Electronic | 293736 | [293736-yahtzee-electronic.json](./293736-yahtzee-electronic.json) |
 | Yahtzee Girl | 272877 | [272877-yahtzee-girl.json](./272877-yahtzee-girl.json) |
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
-| Yahtzee With Buddies | 88777 | [88777-yahtzee-with-buddies.json](./88777-yahtzee-with-buddies.json) |
 | Yahtzee, Parcheesi & Aggravation Collection | 92836 | [92836-yahtzee-parcheesi-and-aggravation-collection.json](./92836-yahtzee-parcheesi-and-aggravation-collection.json) |
 | Yahtzee: Roll the Bones | 67758 | [67758-yahtzee-roll-the-bones.json](./67758-yahtzee-roll-the-bones.json) |
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
@@ -676,7 +675,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yggdrasil Jigsaw Puzzle | 116825 | [116825-yggdrasil-jigsaw-puzzle.json](./116825-yggdrasil-jigsaw-puzzle.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
 | YGO Omega | 139411 | [139411-ygo-omega.json](./139411-ygo-omega.json) |
-| Yi and the Thousand Moons | 74779 | [74779-yi-and-the-thousand-moons.json](./74779-yi-and-the-thousand-moons.json) |
 | Yī Jiàn Zhǎn Xiān | 165724 | [165724-yi-jian-zhan-xian.json](./165724-yi-jian-zhan-xian.json) |
 | Yì Shìjiè Wúlítóu Shēnghuó 2 | 367429 | [367429-yi-shijie-wulitou-shenghuo-2.json](./367429-yi-shijie-wulitou-shenghuo-2.json) |
 | Yi Xian: The Cultivation Card Game | 205717 | [205717-yi-xian-the-cultivation-card-game.json](./205717-yi-xian-the-cultivation-card-game.json) |
@@ -1724,7 +1722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life - Music Channel | 87467 | [87467-youtubers-life-music-channel.json](./87467-youtubers-life-music-channel.json) |
 | Youtubers Life 3 | 344644 | [344644-youtubers-life-3.json](./344644-youtubers-life-3.json) |
 | Youtubers Life: Fashion | 212413 | [212413-youtubers-life-fashion.json](./212413-youtubers-life-fashion.json) |
-| Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Yóuxì Rénshēng: Xīnmó | 154332 | [154332-youxi-rensheng-xinmo.json](./154332-youxi-rensheng-xinmo.json) |
 | Youxing Continent | 326292 | [326292-youxing-continent.json](./326292-youxing-continent.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
