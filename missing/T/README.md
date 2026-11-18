@@ -10161,7 +10161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exclusion Zone Online | 153925 | [153925-the-exclusion-zone-online.json](./153925-the-exclusion-zone-online.json) |
 | The Excrawlers | 216514 | [216514-the-excrawlers.json](./216514-the-excrawlers.json) |
 | The Execution of Anne Boleyn | 171843 | [171843-the-execution-of-anne-boleyn.json](./171843-the-execution-of-anne-boleyn.json) |
-| The Executioner | 89375 | [89375-the-executioner.json](./89375-the-executioner.json) |
 | The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
 | The Executioner: Watchmaker's Son | 170839 | [170839-the-executioner-watchmakers-son.json](./170839-the-executioner-watchmakers-son.json) |
 | The Executive | 90812 | [90812-the-executive.json](./90812-the-executive.json) |
