@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | _________ (What Even Is That Thing?) | 186066 | [186066-what-even-is-that-thing.json](./186066-what-even-is-that-thing.json) |
 | __________ | 176875 | [176875-.json](./176875-.json) |
 | _-_ | 92204 | [92204-.json](./92204-.json) |
+| _Access | 79403 | [79403-access.json](./79403-access.json) |
 | _Dive | 104895 | [104895-dive.json](./104895-dive.json) |
 | _Message: | 273453 | [273453-message.json](./273453-message.json) |
 | _Prism | 95694 | [95694-prism.json](./95694-prism.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | =7 | 197674 | [197674-7.json](./197674-7.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
 | >//:System.Hack | 30473 | [30473-system-hack.json](./30473-system-hack.json) |
+| >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
 | >Delivery | 397010 | [397010-delivery.json](./397010-delivery.json) |
 | >Meow | 315386 | [315386-meow.json](./315386-meow.json) |
 | >Start ai | 366670 | [366670-start-ai.json](./366670-start-ai.json) |
@@ -734,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Kills Challenge | 278175 | [278175-100-kills-challenge.json](./278175-100-kills-challenge.json) |
 | 100 Kills Challenge: Origins | 294244 | [294244-100-kills-challenge-origins.json](./294244-100-kills-challenge-origins.json) |
+| 100 Kilometri | 83058 | [83058-100-kilometri.json](./83058-100-kilometri.json) |
 | 100 Korea Cats | 301030 | [301030-100-korea-cats.json](./301030-100-korea-cats.json) |
 | 100 Korea Cats: Extra Content | 325505 | [325505-100-korea-cats-extra-content.json](./325505-100-korea-cats-extra-content.json) |
 | 100 Korean Hidden Cats | 410093 | [410093-100-korean-hidden-cats.json](./410093-100-korean-hidden-cats.json) |
@@ -837,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100-Player Twitch Chat Party Pack | 146456 | [146456-100-player-twitch-chat-party-pack.json](./146456-100-player-twitch-chat-party-pack.json) |
 | 100,000 Games | 67177 | [67177-100-000-games.json](./67177-100-000-games.json) |
 | 100! | 99089 | [99089-100.json](./99089-100.json) |
+| 100! Block Puzzle | 83061 | [83061-100-block-puzzle.json](./83061-100-block-puzzle.json) |
 | 100% Accurate Youtuber Simulator | 376884 | [376884-100-accurate-youtuber-simulator.json](./376884-100-accurate-youtuber-simulator.json) |
 | 100% Challenge | 243469 | [243469-100-challenge.json](./243469-100-challenge.json) |
 | 100% Clean Inc. | 372901 | [372901-100-clean-inc.json](./372901-100-clean-inc.json) |
@@ -1308,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1234 Connect Puzzle | 357975 | [357975-1234-connect-puzzle.json](./357975-1234-connect-puzzle.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
 | 124 Handle of the World | 309169 | [309169-124-handle-of-the-world.json](./309169-124-handle-of-the-world.json) |
+| 1248 | 115082 | [115082-1248.json](./115082-1248.json) |
 | 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
 | 125 Monkey Games | 203204 | [203204-125-monkey-games.json](./203204-125-monkey-games.json) |
 | 128 Linedefs, 64 Things | 260890 | [260890-128-linedefs-64-things.json](./260890-128-linedefs-64-things.json) |
@@ -1443,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Faces: School HP! | 420698 | [420698-16-faces-school-hp.json](./420698-16-faces-school-hp.json) |
 | 16 Greens | 181704 | [181704-16-greens.json](./181704-16-greens.json) |
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
+| 16 Planes:Return | 112980 | [112980-16-planes-return.json](./112980-16-planes-return.json) |
 | 16 Shot! Shooting Watch | 84687 | [84687-16-shot-shooting-watch.json](./84687-16-shot-shooting-watch.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
 | 16 Tales: Vol. 2 | 143075 | [143075-16-tales-vol-2.json](./143075-16-tales-vol-2.json) |
@@ -1538,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
 | 19:03 Ueno Hatsu Yakou Ressha | 112552 | [112552-19-03-ueno-hatsu-yakou-ressha.json](./112552-19-03-ueno-hatsu-yakou-ressha.json) |
 | 1900 | 253249 | [253249-1900.json](./253249-1900.json) |
+| 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
 | 1914 Shells of Fury | 52359 | [52359-1914-shells-of-fury.json](./52359-1914-shells-of-fury.json) |
 | 1914: Prelude to Chaos | 28642 | [28642-1914-prelude-to-chaos.json](./28642-1914-prelude-to-chaos.json) |
@@ -1563,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942 Delta | 191285 | [191285-1942-delta.json](./191285-1942-delta.json) |
 | 1942 Mission | 13931 | [13931-1942-mission.json](./13931-1942-mission.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
+| 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
 | 1942 Wing Baron | 159403 | [159403-1942-wing-baron.json](./159403-1942-wing-baron.json) |
 | 1942: Joint Strike | 21346 | [21346-1942-joint-strike.json](./21346-1942-joint-strike.json) |
 | 1942: Joint Strike Elefunk | 99980 | [99980-1942-joint-strike-elefunk.json](./99980-1942-joint-strike-elefunk.json) |
@@ -1701,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Cars | 397280 | [397280-2-cars.json](./397280-2-cars.json) |
 | 2 Cats & 1 Dog | 203696 | [203696-2-cats-and-1-dog.json](./203696-2-cats-and-1-dog.json) |
 | 2 Cooks 1 Mess | 387173 | [387173-2-cooks-1-mess.json](./387173-2-cooks-1-mess.json) |
+| 2 Cubes 1 Ball | 107206 | [107206-2-cubes-1-ball.json](./107206-2-cubes-1-ball.json) |
 | 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
 | 2 Disney Games: Disney Sports Skateboarding + Disney Sports Football | 147310 | [147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json](./147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json) |
 | 2 Disney Games: Phineas and Ferb + Phineas and Ferb Ride Again | 416337 | [416337-2-disney-games-phineas-and-ferb-phineas-and-ferb-ride-again.json](./416337-2-disney-games-phineas-and-ferb-phineas-and-ferb-ride-again.json) |
@@ -1764,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 In 1 Game Pack: Tony Hawk's Underground + Kelly Slater's Pro Surfer | 80114 | [80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json](./80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json) |
 | 2 in 1 Hidden Object Worlds | 366272 | [366272-2-in-1-hidden-object-worlds.json](./366272-2-in-1-hidden-object-worlds.json) |
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
+| 2 in 1 I My Pet Hotel & My Vet Practice: In the Country | 127329 | [127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json](./127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json) |
 | 2 in 1 Pack: St. Thomas - Elisabeth I. | 137498 | [137498-2-in-1-pack-st-thomas-elisabeth-i.json](./137498-2-in-1-pack-st-thomas-elisabeth-i.json) |
 | 2 in 1 Pack: Super Bubsy/Lollypop | 182328 | [182328-2-in-1-pack-super-bubsy-lollypop.json](./182328-2-in-1-pack-super-bubsy-lollypop.json) |
 | 2 in 1 Series: SL - Gyakushuu Chika Teikoku | 225252 | [225252-2-in-1-series-sl-gyakushuu-chika-teikoku.json](./225252-2-in-1-series-sl-gyakushuu-chika-teikoku.json) |
@@ -1922,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2004: Space Becherovka | 391035 | [391035-2004-space-becherovka.json](./391035-2004-space-becherovka.json) |
 | 2004Scape | 331042 | [331042-2004scape.json](./331042-2004scape.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
+| 2005 Real Soccer | 116345 | [116345-2005-real-soccer.json](./116345-2005-real-soccer.json) |
 | 2005: A Game of Macroeconomics | 299559 | [299559-2005-a-game-of-macroeconomics.json](./299559-2005-a-game-of-macroeconomics.json) |
 | 2006 FIFA World Cup | 240282 | [240282-2006-fifa-world-cup.json](./240282-2006-fifa-world-cup.json) |
 | 2006 FIFA World Cup | 240284 | [240284-2006-fifa-world-cup.json](./240284-2006-fifa-world-cup.json) |
@@ -2117,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 22 Space monster | 27225 | [27225-22-space-monster.json](./27225-22-space-monster.json) |
 | 22/7 Ongaku no Jikan | 341856 | [341856-22-7-ongaku-no-jikan.json](./341856-22-7-ongaku-no-jikan.json) |
 | 221B Baker Street | 2293 | [2293-221b-baker-street.json](./2293-221b-baker-street.json) |
+| 222 | 115087 | [115087-222.json](./115087-222.json) |
 | 222 Hearts | 74462 | [74462-222-hearts.json](./74462-222-hearts.json) |
 | 222.22 | 366269 | [366269-222-22.json](./366269-222-22.json) |
 | 2222 Abyss of the Universe | 329437 | [329437-2222-abyss-of-the-universe.json](./329437-2222-abyss-of-the-universe.json) |
@@ -2189,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 26AZ: The Enigma of Shadows | 299676 | [299676-26az-the-enigma-of-shadows.json](./299676-26az-the-enigma-of-shadows.json) |
 | 27 Electronic table football | 27219 | [27219-27-electronic-table-football.json](./27219-27-electronic-table-football.json) |
 | 27 Pages | 159927 | [159927-27-pages.json](./159927-27-pages.json) |
+| 27 Solitaire Games | 91976 | [91976-27-solitaire-games.json](./91976-27-solitaire-games.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
 | 27 Tele-games | 98803 | [98803-27-tele-games.json](./98803-27-tele-games.json) |
 | 270 \| Two Seventy US Election | 102432 | [102432-270-two-seventy-us-election.json](./102432-270-two-seventy-us-election.json) |
@@ -2228,10 +2241,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Solomonar's Apprentice | 298543 | [298543-2d-solomonars-apprentice.json](./298543-2d-solomonars-apprentice.json) |
 | 2D Top Racing | 304445 | [304445-2d-top-racing.json](./304445-2d-top-racing.json) |
 | 2D Ver. Mega Man Legends 3: The Prologue! | 394414 | [394414-2d-ver-mega-man-legends-3-the-prologue.json](./394414-2d-ver-mega-man-legends-3-the-prologue.json) |
+| 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2D?! | 288399 | [288399-2d.json](./288399-2d.json) |
 | 2Dark | 26847 | [26847-2dark.json](./26847-2dark.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
 | 2Deez | 349772 | [349772-2deez.json](./349772-2deez.json) |
+| 2DGameManias Taken | 109652 | [109652-2dgamemanias-taken.json](./109652-2dgamemanias-taken.json) |
 | 2do Arukotoha Sand-R | 45451 | [45451-2do-arukotoha-sand-r.json](./45451-2do-arukotoha-sand-r.json) |
 | 2Dom! | 407054 | [407054-2dom.json](./407054-2dom.json) |
 | 2econds to Starlivht: Forever My Diamond | 144193 | [144193-2econds-to-starlivht-forever-my-diamond.json](./144193-2econds-to-starlivht-forever-my-diamond.json) |
@@ -2579,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360 Mega App Pack HD | 78352 | [78352-360-mega-app-pack-hd.json](./78352-360-mega-app-pack-hd.json) |
 | 360 Mega Pack HD Remix | 98814 | [98814-360-mega-pack-hd-remix.json](./98814-360-mega-pack-hd-remix.json) |
 | 360 No Scope Arena | 104905 | [104905-360-no-scope-arena.json](./104905-360-no-scope-arena.json) |
+| 360 No Scope! | 107867 | [107867-360-no-scope.json](./107867-360-no-scope.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 360Hexaworld | 328169 | [328169-360hexaworld.json](./328169-360hexaworld.json) |
 | 36200 | 241994 | [241994-36200.json](./241994-36200.json) |
@@ -2672,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Crosswords | 268507 | [268507-3d-crosswords.json](./268507-3d-crosswords.json) |
 | 3D Cube Hopper | 408462 | [408462-3d-cube-hopper.json](./408462-3d-cube-hopper.json) |
 | 3D Custom Girl | 92660 | [92660-3d-custom-girl.json](./92660-3d-custom-girl.json) |
+| 3D Custom Lady Maker | 128010 | [128010-3d-custom-lady-maker.json](./128010-3d-custom-lady-maker.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Dark-Stalker: Destruction Simulator | 180330 | [180330-3d-dark-stalker-destruction-simulator.json](./180330-3d-dark-stalker-destruction-simulator.json) |
 | 3D Deer Sniper Hunting Game 2017 | 94783 | [94783-3d-deer-sniper-hunting-game-2017.json](./94783-3d-deer-sniper-hunting-game-2017.json) |
@@ -3010,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3X3 Puzzle | 249269 | [249269-3x3-puzzle.json](./249269-3x3-puzzle.json) |
 | 3x3 the Adventure Game | 169343 | [169343-3x3-the-adventure-game.json](./169343-3x3-the-adventure-game.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
+| 3x3x3: A Mermaid's Tale | 128611 | [128611-3x3x3-a-mermaids-tale.json](./128611-3x3x3-a-mermaids-tale.json) |
 | 3x64 | 187649 | [187649-3x64.json](./187649-3x64.json) |
 | 3x9 Kingdom: Road of Adventures | 296229 | [296229-3x9-kingdom-road-of-adventures.json](./296229-3x9-kingdom-road-of-adventures.json) |
 | 3XN: Number Puzzle | 109990 | [109990-3xn-number-puzzle.json](./109990-3xn-number-puzzle.json) |
@@ -3715,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7imit5 | 308032 | [308032-7imit5.json](./308032-7imit5.json) |
 | 7Komada | 423287 | [423287-7komada.json](./423287-7komada.json) |
 | 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
+| 7Rhythm | 124268 | [124268-7rhythm.json](./124268-7rhythm.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
 | 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
@@ -3767,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
 | 8 More Lives | 370984 | [370984-8-more-lives.json](./370984-8-more-lives.json) |
 | 8 Player 8-bit Racing | 95286 | [95286-8-player-8-bit-racing.json](./95286-8-player-8-bit-racing.json) |
+| 8 Queens | 112358 | [112358-8-queens.json](./112358-8-queens.json) |
 | 8 Realms | 92383 | [92383-8-realms.json](./92383-8-realms.json) |
 | 8 To Glory | 125321 | [125321-8-to-glory.json](./125321-8-to-glory.json) |
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
@@ -4063,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
 | 994 W 24th | 31147 | [31147-994-w-24th.json](./31147-994-w-24th.json) |
 | 996 de Zhēnshí Laǒbǎn Piān | 119101 | [119101-996-de-zhenshi-laoban-pian.json](./119101-996-de-zhenshi-laoban-pian.json) |
+| 999 | 104675 | [104675-999.json](./104675-999.json) |
 | 999 Hidden Cats: Brazil Together | 349281 | [349281-999-hidden-cats-brazil-together.json](./349281-999-hidden-cats-brazil-together.json) |
 | 9999 | 423334 | [423334-9999.json](./423334-9999.json) |
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
