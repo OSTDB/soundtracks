@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Wuxia | 58616 | [58616-tale-of-wuxia.json](./58616-tale-of-wuxia.json) |
 | Tale of Wuxia: The Pre-Sequel | 83832 | [83832-tale-of-wuxia-the-pre-sequel.json](./83832-tale-of-wuxia-the-pre-sequel.json) |
 | Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
+| Tale Sweeper | 430464 | [430464-tale-sweeper.json](./430464-tale-sweeper.json) |
 | Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
 | Tale's Edge | 346476 | [346476-tales-edge.json](./346476-tales-edge.json) |
 | Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
@@ -6655,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment | 281032 | [281032-the-apartment.json](./281032-the-apartment.json) |
 | The Apartment | 364742 | [364742-the-apartment.json](./364742-the-apartment.json) |
+| The Apartment | 430240 | [430240-the-apartment.json](./430240-the-apartment.json) |
 | The Apartment | 81900 | [81900-the-apartment.json](./81900-the-apartment.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
 | The Apartment Next Door | 415499 | [415499-the-apartment-next-door.json](./415499-the-apartment-next-door.json) |
@@ -10660,6 +10662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Quadrant | 14064 | [14064-the-fifth-quadrant.json](./14064-the-fifth-quadrant.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
+| The Fight Business | 430179 | [430179-the-fight-business.json](./430179-the-fight-business.json) |
 | The Fight for Beardlandia | 423330 | [423330-the-fight-for-beardlandia.json](./423330-the-fight-for-beardlandia.json) |
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
 | The Fight Of Escaper | 370032 | [370032-the-fight-of-escaper.json](./370032-the-fight-of-escaper.json) |
@@ -17027,6 +17030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit | 250539 | [250539-the-pit.json](./250539-the-pit.json) |
 | The Pit | 351422 | [351422-the-pit.json](./351422-the-pit.json) |
 | The Pit | 419089 | [419089-the-pit.json](./419089-the-pit.json) |
+| The Pit | 430116 | [430116-the-pit.json](./430116-the-pit.json) |
 | The Pit | 78596 | [78596-the-pit.json](./78596-the-pit.json) |
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
@@ -17959,6 +17963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rondo of Oblivion | 299007 | [299007-the-rondo-of-oblivion.json](./299007-the-rondo-of-oblivion.json) |
 | The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
 | The Rookery Way | 286047 | [286047-the-rookery-way.json](./286047-the-rookery-way.json) |
+| The Rookie Prince's Defense Trials | 430103 | [430103-the-rookie-princes-defense-trials.json](./430103-the-rookie-princes-defense-trials.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room | 220561 | [220561-the-room.json](./220561-the-room.json) |
 | The Room | 8468 | [8468-the-room.json](./8468-the-room.json) |
@@ -21580,6 +21585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
 | The Wit.nes | 79140 | [79140-the-wit-nes.json](./79140-the-wit-nes.json) |
 | The Witch | 292633 | [292633-the-witch.json](./292633-the-witch.json) |
+| The Witch | 430416 | [430416-the-witch.json](./430416-the-witch.json) |
 | The Witch & the 66 Mushrooms | 105643 | [105643-the-witch-and-the-66-mushrooms.json](./105643-the-witch-and-the-66-mushrooms.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Bottle of Concept | 272895 | [272895-the-witch-and-the-bottle-of-concept.json](./272895-the-witch-and-the-bottle-of-concept.json) |
@@ -22256,6 +22262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Can Only be Two | 235711 | [235711-there-can-only-be-two.json](./235711-there-can-only-be-two.json) |
 | There Exists | 365927 | [365927-there-exists.json](./365927-there-exists.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
+| There Goes the Kingdom | 430323 | [430323-there-goes-the-kingdom.json](./430323-there-goes-the-kingdom.json) |
 | There Is A Bomb | 210830 | [210830-there-is-a-bomb.json](./210830-there-is-a-bomb.json) |
 | There Is A Genie In My Szechuan Sauce | 75317 | [75317-there-is-a-genie-in-my-szechuan-sauce.json](./75317-there-is-a-genie-in-my-szechuan-sauce.json) |
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
@@ -28928,6 +28935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooka Laydee | 101902 | [101902-tooka-laydee.json](./101902-tooka-laydee.json) |
 | Tooki | 76409 | [76409-tooki.json](./76409-tooki.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
+| Tool Tidy | 430223 | [430223-tool-tidy.json](./430223-tool-tidy.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
 | ToolBoy | 116869 | [116869-toolboy.json](./116869-toolboy.json) |
 | Toolkid Creation | 310664 | [310664-toolkid-creation.json](./310664-toolkid-creation.json) |
