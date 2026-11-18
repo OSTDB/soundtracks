@@ -6659,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Brigade | 71140 | [71140-fire-brigade.json](./71140-fire-brigade.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
 | Fire Chat: K-BulMung | 372216 | [372216-fire-chat-k-bulmung.json](./372216-fire-chat-k-bulmung.json) |
+| Fire Chess | 430206 | [430206-fire-chess.json](./430206-fire-chess.json) |
 | Fire Chief | 264441 | [264441-fire-chief.json](./264441-fire-chief.json) |
 | Fire Combat | 381297 | [381297-fire-combat.json](./381297-fire-combat.json) |
 | Fire Commander | 145075 | [145075-fire-commander.json](./145075-fire-commander.json) |
