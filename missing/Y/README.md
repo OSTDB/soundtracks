@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yqriel | 229565 | [229565-yqriel.json](./229565-yqriel.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
 | Yrkkey's Paradise | 279712 | [279712-yrkkeys-paradise.json](./279712-yrkkeys-paradise.json) |
+| Yrminsul | 24038 | [24038-yrminsul.json](./24038-yrminsul.json) |
 | Yrsa Major | 178752 | [178752-yrsa-major.json](./178752-yrsa-major.json) |
 | Ys | 206128 | [206128-ys.json](./206128-ys.json) |
 | Ys | 206826 | [206826-ys.json](./206826-ys.json) |
