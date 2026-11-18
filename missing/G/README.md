@@ -4125,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting It Up | 182383 | [182383-getting-it-up.json](./182383-getting-it-up.json) |
 | Getting Nuts | 254591 | [254591-getting-nuts.json](./254591-getting-nuts.json) |
 | Getting out Alive | 264109 | [264109-getting-out-alive.json](./264109-getting-out-alive.json) |
+| Getting Over Goombas | 397312 | [397312-getting-over-goombas.json](./397312-getting-over-goombas.json) |
 | Getting Over It with Bennett Foddy | 72373 | [72373-getting-over-it-with-bennett-foddy.json](./72373-getting-over-it-with-bennett-foddy.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
 | Getting There | 151990 | [151990-getting-there.json](./151990-getting-there.json) |
@@ -5122,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl and chocolate | 82519 | [82519-girl-and-chocolate.json](./82519-girl-and-chocolate.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
 | Girl and Goblin | 103810 | [103810-girl-and-goblin.json](./103810-girl-and-goblin.json) |
+| Girl as Sweet as Candy | 392515 | [392515-girl-as-sweet-as-candy.json](./392515-girl-as-sweet-as-candy.json) |
 | Girl Blonde | 74178 | [74178-girl-blonde.json](./74178-girl-blonde.json) |
 | Girl Cafe Gun | 139383 | [139383-girl-cafe-gun.json](./139383-girl-cafe-gun.json) |
 | Girl Card Battle | 340301 | [340301-girl-card-battle.json](./340301-girl-card-battle.json) |
@@ -5297,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
 | Girls vs Zombies | 219326 | [219326-girls-vs-zombies.json](./219326-girls-vs-zombies.json) |
 | Girls vs. Tentacles | 340302 | [340302-girls-vs-tentacles.json](./340302-girls-vs-tentacles.json) |
+| Girls Wars 1939 | 411164 | [411164-girls-wars-1939.json](./411164-girls-wars-1939.json) |
 | Girls Who Are Totally Into Me | 400165 | [400165-girls-who-are-totally-into-me.json](./400165-girls-who-are-totally-into-me.json) |
 | Girls Will Bite | 260068 | [260068-girls-will-bite.json](./260068-girls-will-bite.json) |
 | Girls With Secrets | 294397 | [294397-girls-with-secrets.json](./294397-girls-with-secrets.json) |
