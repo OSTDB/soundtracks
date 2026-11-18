@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongus: Mystery of Fortescue | 316192 | [316192-mahjongus-mystery-of-fortescue.json](./316192-mahjongus-mystery-of-fortescue.json) |
 | Mahjongus: The Warlock Within | 405900 | [405900-mahjongus-the-warlock-within.json](./405900-mahjongus-the-warlock-within.json) |
 | Mahlone One | 98481 | [98481-mahlone-one.json](./98481-mahlone-one.json) |
+| Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
 | Maho Shojo Ai | 97724 | [97724-maho-shojo-ai.json](./97724-maho-shojo-ai.json) |
 | Maho Shojo Pretty Sammy: Heart no Kimochi | 61330 | [61330-maho-shojo-pretty-sammy-heart-no-kimochi.json](./61330-maho-shojo-pretty-sammy-heart-no-kimochi.json) |
 | Mahogen | 328053 | [328053-mahogen.json](./328053-mahogen.json) |
@@ -14963,6 +14964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minikin | 400020 | [400020-minikin.json](./400020-minikin.json) |
 | Miniland | 211544 | [211544-miniland.json](./211544-miniland.json) |
 | Miniland Adventure | 283256 | [283256-miniland-adventure.json](./283256-miniland-adventure.json) |
+| MiniLaw: Ministry of Law | 32024 | [32024-minilaw-ministry-of-law.json](./32024-minilaw-ministry-of-law.json) |
 | MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
 | Minim | 178877 | [178877-minim.json](./178877-minim.json) |
 | Minima | 183358 | [183358-minima.json](./183358-minima.json) |
@@ -18941,6 +18943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Chronicles: Episode 1 | 84596 | [84596-moon-chronicles-episode-1.json](./84596-moon-chronicles-episode-1.json) |
 | Moon Chronicles: Episodes 2-4 | 84595 | [84595-moon-chronicles-episodes-2-4.json](./84595-moon-chronicles-episodes-2-4.json) |
 | Moon Coffee Conspiracy | 414680 | [414680-moon-coffee-conspiracy.json](./414680-moon-coffee-conspiracy.json) |
+| Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
 | Moon Colony | 311531 | [311531-moon-colony.json](./311531-moon-colony.json) |
 | Moon Commanders | 427221 | [427221-moon-commanders.json](./427221-moon-commanders.json) |
@@ -23083,6 +23086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bunny Girl | 211068 | [211068-my-bunny-girl.json](./211068-my-bunny-girl.json) |
 | My Burden to Keep | 134194 | [134194-my-burden-to-keep.json](./134194-my-burden-to-keep.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
+| My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Cabin | 185291 | [185291-my-cabin.json](./185291-my-cabin.json) |
 | My Cabin and I | 112386 | [112386-my-cabin-and-i.json](./112386-my-cabin-and-i.json) |
 | My Café Manager Simulator | 326462 | [326462-my-cafe-manager-simulator.json](./326462-my-cafe-manager-simulator.json) |
@@ -25123,6 +25127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Destinies: Serendipity of Aeons - Tatsuya | 168498 | [168498-mystic-destinies-serendipity-of-aeons-tatsuya.json](./168498-mystic-destinies-serendipity-of-aeons-tatsuya.json) |
 | Mystic Destinies: Serendipity of Aeons - Tatsuya Epilogue | 168499 | [168499-mystic-destinies-serendipity-of-aeons-tatsuya-epilogue.json](./168499-mystic-destinies-serendipity-of-aeons-tatsuya-epilogue.json) |
 | Mystic Diamonds | 146571 | [146571-mystic-diamonds.json](./146571-mystic-diamonds.json) |
+| Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Diary: Wizard's Legacy | 416491 | [416491-mystic-diary-wizards-legacy.json](./416491-mystic-diary-wizards-legacy.json) |
 | Mystic Duel: Heroes Realm | 299419 | [299419-mystic-duel-heroes-realm.json](./299419-mystic-duel-heroes-realm.json) |
 | Mystic Emporium | 56906 | [56906-mystic-emporium.json](./56906-mystic-emporium.json) |
