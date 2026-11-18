@@ -5410,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Heat: Summer Fling | 234737 | [234737-cats-in-heat-summer-fling.json](./234737-cats-in-heat-summer-fling.json) |
 | Cats in Heat: Sunshine Resort | 297947 | [297947-cats-in-heat-sunshine-resort.json](./297947-cats-in-heat-sunshine-resort.json) |
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
+| Cats in Paint | 376364 | [376364-cats-in-paint.json](./376364-cats-in-paint.json) |
 | Cats in Pixels by Louisselle | 363168 | [363168-cats-in-pixels-by-louisselle.json](./363168-cats-in-pixels-by-louisselle.json) |
 | Cats In Space | 150365 | [150365-cats-in-space.json](./150365-cats-in-space.json) |
 | Cats in the Ancient City of Gu Su | 294358 | [294358-cats-in-the-ancient-city-of-gu-su.json](./294358-cats-in-the-ancient-city-of-gu-su.json) |
@@ -5702,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaveBugBoy | 128145 | [128145-cavebugboy.json](./128145-cavebugboy.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveDare | 110907 | [110907-cavedare.json](./110907-cavedare.json) |
+| CaveDive | 389159 | [389159-cavedive.json](./389159-cavedive.json) |
 | Cavedude | 397940 | [397940-cavedude.json](./397940-cavedude.json) |
 | CaveDuel | 74569 | [74569-caveduel.json](./74569-caveduel.json) |
 | Cavefall | 128851 | [128851-cavefall.json](./128851-cavefall.json) |
@@ -5982,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestay Craft&Slowlife | 399260 | [399260-celestay-craft-and-slowlife.json](./399260-celestay-craft-and-slowlife.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
 | Celeste Advance | 364546 | [364546-celeste-advance.json](./364546-celeste-advance.json) |
+| Celeste Blue Wizard Luna | 383293 | [383293-celeste-blue-wizard-luna.json](./383293-celeste-blue-wizard-luna.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
 | Celeste Classic | 267178 | [267178-celeste-classic.json](./267178-celeste-classic.json) |
 | Celeste Classic | 370630 | [370630-celeste-classic.json](./370630-celeste-classic.json) |
@@ -7896,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
 | Chess Up! Checkmate With Friends | 385121 | [385121-chess-up-checkmate-with-friends.json](./385121-chess-up-checkmate-with-friends.json) |
+| Chess v Checkers | 376362 | [376362-chess-v-checkers.json](./376362-chess-v-checkers.json) |
 | Chess Valley | 159534 | [159534-chess-valley.json](./159534-chess-valley.json) |
 | Chess Valley 2 | 152577 | [152577-chess-valley-2.json](./152577-chess-valley-2.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
@@ -9289,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas | 228669 | [228669-christmas.json](./228669-christmas.json) |
 | Christmas - Color Your Puzzle and Paint for Kids | 87617 | [87617-christmas-color-your-puzzle-and-paint-for-kids.json](./87617-christmas-color-your-puzzle-and-paint-for-kids.json) |
 | Christmas Across America | 417584 | [417584-christmas-across-america.json](./417584-christmas-across-america.json) |
+| Christmas Across America: Collector's Edition | 383278 | [383278-christmas-across-america-collectors-edition.json](./383278-christmas-across-america-collectors-edition.json) |
 | Christmas Adventure of Rocket Penguin | 85027 | [85027-christmas-adventure-of-rocket-penguin.json](./85027-christmas-adventure-of-rocket-penguin.json) |
 | Christmas Adventure: Candy Storm | 33159 | [33159-christmas-adventure-candy-storm.json](./33159-christmas-adventure-candy-storm.json) |
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
@@ -13152,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee flavor of love | 166882 | [166882-coffee-flavor-of-love.json](./166882-coffee-flavor-of-love.json) |
 | Coffee For Cthulhu | 295232 | [295232-coffee-for-cthulhu.json](./295232-coffee-for-cthulhu.json) |
 | Coffee For Robots | 219740 | [219740-coffee-for-robots.json](./219740-coffee-for-robots.json) |
+| Coffee Fox Kim Samwol | 376400 | [376400-coffee-fox-kim-samwol.json](./376400-coffee-fox-kim-samwol.json) |
 | Coffee Fun | 228765 | [228765-coffee-fun.json](./228765-coffee-fun.json) |
 | Coffee Golf | 252420 | [252420-coffee-golf.json](./252420-coffee-golf.json) |
 | Coffee House Chaos! | 206983 | [206983-coffee-house-chaos.json](./206983-coffee-house-chaos.json) |
@@ -20864,6 +20870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
+| Crown Clash | 376370 | [376370-crown-clash.json](./376370-crown-clash.json) |
 | Crown Clicker | 142145 | [142145-crown-clicker.json](./142145-crown-clicker.json) |
 | Crown Code Chronicles | 294285 | [294285-crown-code-chronicles.json](./294285-crown-code-chronicles.json) |
 | Crown Delights Deli | 190120 | [190120-crown-delights-deli.json](./190120-crown-delights-deli.json) |
@@ -21756,6 +21763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu | 89336 | [89336-cthulhu.json](./89336-cthulhu.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
 | Cthulhu Clicker | 58162 | [58162-cthulhu-clicker.json](./58162-cthulhu-clicker.json) |
+| Cthulhu Dungeon | 383279 | [383279-cthulhu-dungeon.json](./383279-cthulhu-dungeon.json) |
 | Cthulhu Go Teaching | 405091 | [405091-cthulhu-go-teaching.json](./405091-cthulhu-go-teaching.json) |
 | Cthulhu Keeper | 276511 | [276511-cthulhu-keeper.json](./276511-cthulhu-keeper.json) |
 | Cthulhu Kitan: Ryuuguu no Shi The Game - Insuma Machi-hen | 355534 | [355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json](./355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json) |
