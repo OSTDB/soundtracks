@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh | 35585 | [35585-ubermosh.json](./35585-ubermosh.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
+| Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
 | Uberslaughter | 266308 | [266308-uberslaughter.json](./266308-uberslaughter.json) |
 | Ubersoldier | 296269 | [296269-ubersoldier.json](./296269-ubersoldier.json) |
 | UberSoldier | 92970 | [92970-ubersoldier.json](./92970-ubersoldier.json) |
