@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardens and Girls | 161426 | [161426-gardens-and-girls.json](./161426-gardens-and-girls.json) |
 | Gardens Inc. 2: The Road to Fame | 17398 | [17398-gardens-inc-2-the-road-to-fame.json](./17398-gardens-inc-2-the-road-to-fame.json) |
 | Gardens Inc. 3: A Bridal Pursuit | 88826 | [88826-gardens-inc-3-a-bridal-pursuit.json](./88826-gardens-inc-3-a-bridal-pursuit.json) |
+| Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
 | Gardens of a New World | 394450 | [394450-gardens-of-a-new-world.json](./394450-gardens-of-a-new-world.json) |
 | Gardens Of Celestial Globes | 278311 | [278311-gardens-of-celestial-globes.json](./278311-gardens-of-celestial-globes.json) |
 | Gardens of the Void | 280924 | [280924-gardens-of-the-void.json](./280924-gardens-of-the-void.json) |
@@ -9405,6 +9406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Life Sim 2 | 374910 | [374910-grass-life-sim-2.json](./374910-grass-life-sim-2.json) |
 | Grass Max | 33831 | [33831-grass-max.json](./33831-grass-max.json) |
 | Grass Mud Horse | 131797 | [131797-grass-mud-horse.json](./131797-grass-mud-horse.json) |
+| Grass Simulator | 36193 | [36193-grass-simulator.json](./36193-grass-simulator.json) |
 | Grass Toucher | 373091 | [373091-grass-toucher.json](./373091-grass-toucher.json) |
 | Grassassins | 310049 | [310049-grassassins.json](./310049-grassassins.json) |
 | GrassChopper | 405840 | [405840-grasschopper.json](./405840-grasschopper.json) |
@@ -10939,6 +10941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Survivors | 361967 | [361967-grind-survivors.json](./361967-grind-survivors.json) |
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
 | Grind X Grind | 400552 | [400552-grind-x-grind.json](./400552-grind-x-grind.json) |
+| Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
 | Grindcore | 407721 | [407721-grindcore.json](./407721-grindcore.json) |
 | GrindCraft | 218110 | [218110-grindcraft.json](./218110-grindcraft.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
@@ -12640,6 +12643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunMaster Onslaught 2.0 | 387925 | [387925-gunmaster-onslaught-2-0.json](./387925-gunmaster-onslaught-2-0.json) |
 | Gunmen Wars | 62095 | [62095-gunmen-wars.json](./62095-gunmen-wars.json) |
 | Gunmetal | 80695 | [80695-gunmetal.json](./80695-gunmetal.json) |
+| Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
 | Gunmetal Arcadia Zero | 22713 | [22713-gunmetal-arcadia-zero.json](./22713-gunmetal-arcadia-zero.json) |
 | Gunmetal Gothic | 252581 | [252581-gunmetal-gothic.json](./252581-gunmetal-gothic.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
@@ -12849,6 +12853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunspell | 323149 | [323149-gunspell.json](./323149-gunspell.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
 | Gunspell 2: Match 3 Puzzle RPG | 163550 | [163550-gunspell-2-match-3-puzzle-rpg.json](./163550-gunspell-2-match-3-puzzle-rpg.json) |
+| Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
 | Gunsport | 52239 | [52239-gunsport.json](./52239-gunsport.json) |
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
 | Gunstable Mayhem | 180872 | [180872-gunstable-mayhem.json](./180872-gunstable-mayhem.json) |
