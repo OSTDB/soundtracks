@@ -4728,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls Underground | 126800 | [126800-ghouls-underground.json](./126800-ghouls-underground.json) |
 | Ghouls vs Humans: Classic Reborn | 361501 | [361501-ghouls-vs-humans-classic-reborn.json](./361501-ghouls-vs-humans-classic-reborn.json) |
 | GhoulScrapers | 316008 | [316008-ghoulscrapers.json](./316008-ghoulscrapers.json) |
+| GhoulxCards | 430178 | [430178-ghoulxcards.json](./430178-ghoulxcards.json) |
 | Ghox | 39733 | [39733-ghox.json](./39733-ghox.json) |
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Ghunter | 322112 | [322112-ghunter.json](./322112-ghunter.json) |
@@ -7365,6 +7366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold, Silver, Bronze | 70300 | [70300-gold-silver-bronze.json](./70300-gold-silver-bronze.json) |
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Gold's Gym: Cardio Workout | 4893 | [4893-golds-gym-cardio-workout.json](./4893-golds-gym-cardio-workout.json) |
+| Goldbar In A Shitstack | 430037 | [430037-goldbar-in-a-shitstack.json](./430037-goldbar-in-a-shitstack.json) |
 | Goldbeard | 24547 | [24547-goldbeard.json](./24547-goldbeard.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Goldberg Smash & Bash Wrestling Game Fear the Spear | 198748 | [198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json](./198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json) |
@@ -8289,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoPets | 203176 | [203176-gopets.json](./203176-gopets.json) |
 | GoPets: Vacation Island | 124019 | [124019-gopets-vacation-island.json](./124019-gopets-vacation-island.json) |
 | Gopher | 22764 | [22764-gopher.json](./22764-gopher.json) |
+| Gopher It | 430313 | [430313-gopher-it.json](./430313-gopher-it.json) |
 | Gopher Squish! | 70501 | [70501-gopher-squish.json](./70501-gopher-squish.json) |
 | Gophers | 185035 | [185035-gophers.json](./185035-gophers.json) |
 | Gophirith the Mirror Master | 334449 | [334449-gophirith-the-mirror-master.json](./334449-gophirith-the-mirror-master.json) |
@@ -9743,6 +9746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Cat | 32853 | [32853-gravity-cat.json](./32853-gravity-cat.json) |
 | Gravity Changing | 424251 | [424251-gravity-changing.json](./424251-gravity-changing.json) |
+| Gravity Chaos: Video Store | 430127 | [430127-gravity-chaos-video-store.json](./430127-gravity-chaos-video-store.json) |
 | Gravity Chase | 125656 | [125656-gravity-chase.json](./125656-gravity-chase.json) |
 | Gravity Circuit | 106534 | [106534-gravity-circuit.json](./106534-gravity-circuit.json) |
 | Gravity Circuit 2 | 403884 | [403884-gravity-circuit-2.json](./403884-gravity-circuit-2.json) |
