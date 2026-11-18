@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T01:06:25.575Z",
-  "total_soundtracks": 3792,
+  "generated_at": "2026-11-18T01:26:16.855Z",
+  "total_soundtracks": 3800,
   "games": [
     {
       "igdb_id": 292844,
@@ -3701,6 +3701,20 @@
       ]
     },
     {
+      "igdb_id": 51472,
+      "game_name": "Bang! Howdy",
+      "game_url": "https://ostdb.net/games/bang-howdy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273941eff9c569bf48de84199e2",
+      "albums": [
+        {
+          "album_name": "Bang! Howdy (Original Soundtrack #1)",
+          "spotify_url": "https://open.spotify.com/album/6i2Zcmd9BW4ATpsvtzRG7O",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 97932,
       "game_name": "Banner of the Maid",
       "game_url": "https://ostdb.net/games/banner-of-the-maid",
@@ -3716,6 +3730,20 @@
     },
     {
       "igdb_id": 70395,
+      "game_name": "Bannerman",
+      "game_url": "https://ostdb.net/games/bannerman",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273284056d689a7a8a87acd548f",
+      "albums": [
+        {
+          "album_name": "Bannerman (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6f8zKBNTmTAvfnI81iN47U",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 44277,
       "game_name": "Bannerman",
       "game_url": "https://ostdb.net/games/bannerman",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273284056d689a7a8a87acd548f",
@@ -15599,6 +15627,20 @@
       ]
     },
     {
+      "igdb_id": 55380,
+      "game_name": "Freedom Defender",
+      "game_url": "https://ostdb.net/games/freedom-defender",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273edc1882a0a7851ed7f0d6eb3",
+      "albums": [
+        {
+          "album_name": "Freedom Defender OST",
+          "spotify_url": "https://open.spotify.com/album/1EZSfkvgbZY16P6b8UTi5A",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115925,
       "game_name": "Freedom Finger",
       "game_url": "https://ostdb.net/games/freedom-finger",
@@ -23907,6 +23949,20 @@
       ]
     },
     {
+      "igdb_id": 55804,
+      "game_name": "Manifest 99",
+      "game_url": "https://ostdb.net/games/manifest-99",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27322d3d22286b5eeb2a87940b3",
+      "albums": [
+        {
+          "album_name": "Manifest 99 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/65Z1okop0rSdJtoBOwdMge",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 260528,
       "game_name": "Manny's",
       "game_url": "https://ostdb.net/games/mannys",
@@ -32195,6 +32251,20 @@
       ]
     },
     {
+      "igdb_id": 36495,
+      "game_name": "Remember, Remember",
+      "game_url": "https://ostdb.net/games/remember-remember",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fbac76eec01f540c8afec7cc",
+      "albums": [
+        {
+          "album_name": "Remember Remember (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/06pfhjHuIHC3QPiuRLfmFM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115393,
       "game_name": "Remorse: The List",
       "game_url": "https://ostdb.net/games/remorse-the-list",
@@ -33334,6 +33404,20 @@
           "album_name": "Rocket League: Sideswipe (Original Soundtrack), Vol. 1",
           "spotify_url": "https://open.spotify.com/album/7jIRopIWDP8zwlq6RfsWpS",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36630,
+      "game_name": "Rocket Wars",
+      "game_url": "https://ostdb.net/games/rocket-wars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733194c3bffc96bf7b62610e92",
+      "albums": [
+        {
+          "album_name": "Rocket Wars (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/06uvjEZ0mVlYhrjZ6c9O2y",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -35025,6 +35109,20 @@
       ]
     },
     {
+      "igdb_id": 56678,
+      "game_name": "Shift Quantum",
+      "game_url": "https://ostdb.net/games/shift-quantum",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e4c99f4b36e891526500b77d",
+      "albums": [
+        {
+          "album_name": "Shift Quantum, Vol. 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0s2Xy3lfeHSwh4TeNXQ4D6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 21074,
       "game_name": "Shin Megami Tensei",
       "game_url": "https://ostdb.net/games/shin-megami-tensei",
@@ -35403,6 +35501,20 @@
         {
           "album_name": "SILENT HILL: The Short Message ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/0a1JBUSmKoQvCJdu2ETjwP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 55390,
+      "game_name": "Silicon Zeroes",
+      "game_url": "https://ostdb.net/games/silicon-zeroes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738a9f8544db0c7b58e0c123e6",
+      "albums": [
+        {
+          "album_name": "Silicon Zeroes (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/26pLVcEFtX1ol4pPmvnvdi",
           "apple_music_url": "",
           "album_link_url": ""
         }
