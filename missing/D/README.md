@@ -1828,7 +1828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Front | 378597 | [378597-dark-front.json](./378597-dark-front.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
 | Dark Fusion | 12036 | [12036-dark-fusion.json](./12036-dark-fusion.json) |
-| Dark Future: Blood Red States | 35251 | [35251-dark-future-blood-red-states.json](./35251-dark-future-blood-red-states.json) |
 | Dark Galaxy | 261566 | [261566-dark-galaxy.json](./261566-dark-galaxy.json) |
 | Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
 | Dark Gaze: Curse of the Black Nazar | 279853 | [279853-dark-gaze-curse-of-the-black-nazar.json](./279853-dark-gaze-curse-of-the-black-nazar.json) |
