@@ -4573,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferdinand: Unstoppabull | 114680 | [114680-ferdinand-unstoppabull.json](./114680-ferdinand-unstoppabull.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
+| Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
 | Fermata on the Pithos | 208234 | [208234-fermata-on-the-pithos.json](./208234-fermata-on-the-pithos.json) |
 | Fermion: Mirai kara no Houmonsha | 387532 | [387532-fermion-mirai-kara-no-houmonsha.json](./387532-fermion-mirai-kara-no-houmonsha.json) |
 | Fern Flower | 132104 | [132104-fern-flower.json](./132104-fern-flower.json) |
