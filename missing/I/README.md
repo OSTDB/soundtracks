@@ -4971,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Chains | 12206 | [12206-inner-chains.json](./12206-inner-chains.json) |
 | Inner City Kids | 52245 | [52245-inner-city-kids.json](./52245-inner-city-kids.json) |
 | Inner Darkness | 275373 | [275373-inner-darkness.json](./275373-inner-darkness.json) |
+| Inner Demons | 414628 | [414628-inner-demons.json](./414628-inner-demons.json) |
 | Inner Eko | 422724 | [422724-inner-eko.json](./422724-inner-eko.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
 | Inner Growth | 403134 | [403134-inner-growth.json](./403134-inner-growth.json) |
@@ -5179,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insector X | 322289 | [322289-insector-x.json](./322289-insector-x.json) |
 | Insector X | 39455 | [39455-insector-x.json](./39455-insector-x.json) |
 | Insector X | 70757 | [70757-insector-x.json](./70757-insector-x.json) |
+| Insectorama | 415553 | [415553-insectorama.json](./415553-insectorama.json) |
 | Insects | 112800 | [112800-insects.json](./112800-insects.json) |
 | Insects Awaken | 278794 | [278794-insects-awaken.json](./278794-insects-awaken.json) |
 | Insects in Space | 12613 | [12613-insects-in-space.json](./12613-insects-in-space.json) |
@@ -5859,7 +5861,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Pilot 2 | 236167 | [236167-interstellar-pilot-2.json](./236167-interstellar-pilot-2.json) |
 | Interstellar Pioneering | 318108 | [318108-interstellar-pioneering.json](./318108-interstellar-pioneering.json) |
 | Interstellar Plunderer | 287003 | [287003-interstellar-plunderer.json](./287003-interstellar-plunderer.json) |
-| Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
 | Interstellar Rangers | 268827 | [268827-interstellar-rangers.json](./268827-interstellar-rangers.json) |
 | Interstellar Rift | 35476 | [35476-interstellar-rift.json](./35476-interstellar-rift.json) |
 | Interstellar Rogue | 119457 | [119457-interstellar-rogue.json](./119457-interstellar-rogue.json) |
@@ -7182,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Questaway: Jungle Farm | 233472 | [233472-island-questaway-jungle-farm.json](./233472-island-questaway-jungle-farm.json) |
 | Island Racer | 30039 | [30039-island-racer.json](./30039-island-racer.json) |
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
+| Island Raiders | 417025 | [417025-island-raiders.json](./417025-island-raiders.json) |
 | Island Raiders: War of Legends | 323150 | [323150-island-raiders-war-of-legends.json](./323150-island-raiders-war-of-legends.json) |
 | Island Realms | 54118 | [54118-island-realms.json](./54118-island-realms.json) |
 | Island Rescue | 335548 | [335548-island-rescue.json](./335548-island-rescue.json) |
@@ -7793,7 +7795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ItsyRealm | 212012 | [212012-itsyrealm.json](./212012-itsyrealm.json) |
 | Itta | 89378 | [89378-itta.json](./89378-itta.json) |
 | Ittle Dew | 7964 | [7964-ittle-dew.json](./7964-ittle-dew.json) |
-| Ittle Dew 2+ | 75286 | [75286-ittle-dew-2.json](./75286-ittle-dew-2.json) |
 | Ittle Dew no Densetsu: Ushinawareta Reta Shima to Nazo no Shiro | 222317 | [222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json](./222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json) |
 | Itty Bitty Little Kitties | 344550 | [344550-itty-bitty-little-kitties.json](./344550-itty-bitty-little-kitties.json) |
 | Itty Bitty Tiny Town | 184892 | [184892-itty-bitty-tiny-town.json](./184892-itty-bitty-tiny-town.json) |
