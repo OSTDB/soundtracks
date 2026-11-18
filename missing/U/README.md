@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbrella Girl | 279545 | [279545-umbrella-girl.json](./279545-umbrella-girl.json) |
 | Umesawa Yukari no Igo Seminar | 54939 | [54939-umesawa-yukari-no-igo-seminar.json](./54939-umesawa-yukari-no-igo-seminar.json) |
 | Umezawa Yukari no Taikyoku Igo - Heisei Kiin II | 286087 | [286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json](./286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json) |
+| Umezma | 395302 | [395302-umezma.json](./395302-umezma.json) |
 | Umi no Nushi Tsuri | 37774 | [37774-umi-no-nushi-tsuri.json](./37774-umi-no-nushi-tsuri.json) |
 | Umi no Nushi Tsuri 2 | 61848 | [61848-umi-no-nushi-tsuri-2.json](./61848-umi-no-nushi-tsuri-2.json) |
 | Umi no Nushi Tsuri: Takara-jima ni Mukatte | 61850 | [61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json](./61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unseen: Someone | 406416 | [406416-unseen-someone.json](./406416-unseen-someone.json) |
 | Unsent | 343314 | [343314-unsent.json](./343314-unsent.json) |
 | Unsettled | 59244 | [59244-unsettled.json](./59244-unsettled.json) |
+| Unsettled: Night Shift | 397305 | [397305-unsettled-night-shift.json](./397305-unsettled-night-shift.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
 | Unshaken | 217405 | [217405-unshaken.json](./217405-unshaken.json) |
 | Unshaken | 372823 | [372823-unshaken.json](./372823-unshaken.json) |
@@ -3942,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usersleepwalker | 352134 | [352134-usersleepwalker.json](./352134-usersleepwalker.json) |
 | Usher. | 268936 | [268936-usher.json](./268936-usher.json) |
 | Ushinawareta Mirai wo Motomete | 76601 | [76601-ushinawareta-mirai-wo-motomete.json](./76601-ushinawareta-mirai-wo-motomete.json) |
+| Ushio and Tora | 395303 | [395303-ushio-and-tora.json](./395303-ushio-and-tora.json) |
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
 | Ushio to Tora: Shinen no Daiyou | 48554 | [48554-ushio-to-tora-shinen-no-daiyou.json](./48554-ushio-to-tora-shinen-no-daiyou.json) |
 | Ushiro | 92685 | [92685-ushiro.json](./92685-ushiro.json) |
