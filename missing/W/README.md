@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: USS Arkansas Pack | 284692 | [284692-war-thunder-uss-arkansas-pack.json](./284692-war-thunder-uss-arkansas-pack.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
+| War Titans | 147487 | [147487-war-titans.json](./147487-war-titans.json) |
 | War to the Core | 249815 | [249815-war-to-the-core.json](./249815-war-to-the-core.json) |
 | War Tortoise | 144548 | [144548-war-tortoise.json](./144548-war-tortoise.json) |
 | War Tortoise 2 | 144549 | [144549-war-tortoise-2.json](./144549-war-tortoise-2.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Architects | 311844 | [311844-warrior-architects.json](./311844-warrior-architects.json) |
 | Warrior Beneath Heaven | 156536 | [156536-warrior-beneath-heaven.json](./156536-warrior-beneath-heaven.json) |
 | Warrior Blade: Rastan Saga Episode III | 69102 | [69102-warrior-blade-rastan-saga-episode-iii.json](./69102-warrior-blade-rastan-saga-episode-iii.json) |
+| Warrior Bloodline: Path of Survival | 161416 | [161416-warrior-bloodline-path-of-survival.json](./161416-warrior-bloodline-path-of-survival.json) |
 | Warrior Boy | 164844 | [164844-warrior-boy.json](./164844-warrior-boy.json) |
 | Warrior Cats: Clans of the Forest - Feral Edition | 418332 | [418332-warrior-cats-clans-of-the-forest-feral-edition.json](./418332-warrior-cats-clans-of-the-forest-feral-edition.json) |
 | Warrior Cats: Clans of the Forest - Prophecy Pack | 421804 | [421804-warrior-cats-clans-of-the-forest-prophecy-pack.json](./421804-warrior-cats-clans-of-the-forest-prophecy-pack.json) |
@@ -4390,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whatever We Decide to Call this Game | 313452 | [313452-whatever-we-decide-to-call-this-game.json](./313452-whatever-we-decide-to-call-this-game.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | WhatRogue: Exile Land | 319760 | [319760-whatrogue-exile-land.json](./319760-whatrogue-exile-land.json) |
+| Whats wrong with me? | 164041 | [164041-whats-wrong-with-me.json](./164041-whats-wrong-with-me.json) |
 | Whatsamusic | 228599 | [228599-whatsamusic.json](./228599-whatsamusic.json) |
 | WhatsSlot Halloween | 232269 | [232269-whatsslot-halloween.json](./232269-whatsslot-halloween.json) |
 | Whatta Frogs? | 381648 | [381648-whatta-frogs.json](./381648-whatta-frogs.json) |
@@ -7953,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WolfQuest: Anniversary Edition - Tower Fall | 429512 | [429512-wolfquest-anniversary-edition-tower-fall.json](./429512-wolfquest-anniversary-edition-tower-fall.json) |
 | Wolfram | 319118 | [319118-wolfram.json](./319118-wolfram.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
+| Wolfsbane | 171101 | [171101-wolfsbane.json](./171101-wolfsbane.json) |
 | Wolfsbane | 71702 | [71702-wolfsbane.json](./71702-wolfsbane.json) |
 | Wolfschanze | 81168 | [81168-wolfschanze.json](./81168-wolfschanze.json) |
 | Wolfschanze II | 27646 | [27646-wolfschanze-ii.json](./27646-wolfschanze-ii.json) |
