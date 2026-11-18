@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Anarchy | 116591 | [116591-dark-anarchy.json](./116591-dark-anarchy.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
 | Dark and Darker | 207266 | [207266-dark-and-darker.json](./207266-dark-and-darker.json) |
+| Dark and Deep | 273962 | [273962-dark-and-deep.json](./273962-dark-and-deep.json) |
 | Dark and Evil | 277773 | [277773-dark-and-evil.json](./277773-dark-and-evil.json) |
 | Dark and Forgotten | 262599 | [262599-dark-and-forgotten.json](./262599-dark-and-forgotten.json) |
 | Dark and Light | 251093 | [251093-dark-and-light.json](./251093-dark-and-light.json) |
@@ -6270,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepest Fear | 324579 | [324579-deepest-fear.json](./324579-deepest-fear.json) |
 | Deepest Grievances | 397865 | [397865-deepest-grievances.json](./397865-deepest-grievances.json) |
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
+| Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
 | Deepest Research | 428134 | [428134-deepest-research.json](./428134-deepest-research.json) |
 | Deepest Sword | 146544 | [146544-deepest-sword.json](./146544-deepest-sword.json) |
 | Deepest Trench | 310281 | [310281-deepest-trench.json](./310281-deepest-trench.json) |
@@ -11928,6 +11930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Coloring World | 351311 | [351311-disney-coloring-world.json](./351311-disney-coloring-world.json) |
 | Disney Crossy Road | 58672 | [58672-disney-crossy-road.json](./58672-disney-crossy-road.json) |
 | Disney Dreamlight Valley: A Festival of Friendship | 237836 | [237836-disney-dreamlight-valley-a-festival-of-friendship.json](./237836-disney-dreamlight-valley-a-festival-of-friendship.json) |
+| Disney Dreamlight Valley: A Rift in Time | 275132 | [275132-disney-dreamlight-valley-a-rift-in-time.json](./275132-disney-dreamlight-valley-a-rift-in-time.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle | 279238 | [279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json](./279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 2: The Spark of Imagination | 279443 | [279443-disney-dreamlight-valley-a-rift-in-time-chapter-2-the-spark-of-imagination.json](./279443-disney-dreamlight-valley-a-rift-in-time-chapter-2-the-spark-of-imagination.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 3: Treasures of Time | 279444 | [279444-disney-dreamlight-valley-a-rift-in-time-chapter-3-treasures-of-time.json](./279444-disney-dreamlight-valley-a-rift-in-time-chapter-3-treasures-of-time.json) |
@@ -17805,6 +17808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
 | Drakerider | 342797 | [342797-drakerider.json](./342797-drakerider.json) |
 | Drakerz: Confrontation | 16876 | [16876-drakerz-confrontation.json](./16876-drakerz-confrontation.json) |
+| Drakheir | 279389 | [279389-drakheir.json](./279389-drakheir.json) |
 | Drakkar | 13611 | [13611-drakkar.json](./13611-drakkar.json) |
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
 | DrakkenRidge | 371365 | [371365-drakkenridge.json](./371365-drakkenridge.json) |
