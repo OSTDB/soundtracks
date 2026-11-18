@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T00:16:03.805Z",
-  "total_soundtracks": 3767,
+  "generated_at": "2026-11-18T00:26:05.280Z",
+  "total_soundtracks": 3770,
   "games": [
     {
       "igdb_id": 292844,
@@ -14809,6 +14809,20 @@
       ]
     },
     {
+      "igdb_id": 86863,
+      "game_name": "Fish Out of Water!",
+      "game_url": "https://ostdb.net/games/fish-out-of-water",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27358f51de71d4a2d213be0b165",
+      "albums": [
+        {
+          "album_name": "Fish out of Water (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4d8CmSIYD2OROVOpptSUDK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 250627,
       "game_name": "Five Nights at Freddy's: Help Wanted 2",
       "game_url": "https://ostdb.net/games/five-nights-at-freddys-help-wanted-2",
@@ -28317,6 +28331,20 @@
       ]
     },
     {
+      "igdb_id": 88006,
+      "game_name": "One Deck Dungeon",
+      "game_url": "https://ostdb.net/games/one-deck-dungeon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dd6309e5c375150d9dd43b36",
+      "albums": [
+        {
+          "album_name": "One Deck Dungeon: Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0YtH4iJ5TVrlFbxsh6t8Vh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 103408,
       "game_name": "One Hand Clapping",
       "game_url": "https://ostdb.net/games/one-hand-clapping",
@@ -31703,6 +31731,20 @@
           "spotify_url": "https://open.spotify.com/album/2RVAztnGDcmO51LE7YBohk",
           "apple_music_url": "https://music.apple.com/us/album/red-dead-redemption-undead-nightmare-original-soundtrack/1655222747",
           "album_link_url": "https://album.link/i/1655222747"
+        }
+      ]
+    },
+    {
+      "igdb_id": 86440,
+      "game_name": "Red Embrace",
+      "game_url": "https://ostdb.net/games/red-embrace",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273148bd1471e2ae445dfd33d4f",
+      "albums": [
+        {
+          "album_name": "Red Embrace (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2IJRN36FTSpzDMjKhatjG8",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
