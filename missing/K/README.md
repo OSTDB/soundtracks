@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Tenshi Angelic Layer | 49643 | [49643-kidou-tenshi-angelic-layer.json](./49643-kidou-tenshi-angelic-layer.json) |
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids & Family Movie Trivia | 303202 | [303202-kids-and-family-movie-trivia.json](./303202-kids-and-family-movie-trivia.json) |
+| Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids ABC Games: Toddler Boys & Girls Learning | 88798 | [88798-kids-abc-games-toddler-boys-and-girls-learning.json](./88798-kids-abc-games-toddler-boys-and-girls-learning.json) |
 | Kids ABC Letter Trains | 90438 | [90438-kids-abc-letter-trains.json](./90438-kids-abc-letter-trains.json) |
 | Kids ABC Order | 175314 | [175314-kids-abc-order.json](./175314-kids-abc-order.json) |
