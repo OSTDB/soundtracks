@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
 | Sally's Salon: Kiss & Make-Up 💋 | 104453 | [104453-sallys-salon-kiss-and-make-up.json](./104453-sallys-salon-kiss-and-make-up.json) |
 | Sally's Spa HD | 87725 | [87725-sallys-spa-hd.json](./87725-sallys-spa-hd.json) |
+| Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Sally2 | 125595 | [125595-sally2.json](./125595-sally2.json) |
 | Sally6 | 124723 | [124723-sally6.json](./124723-sally6.json) |
@@ -19508,6 +19509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of Phoenix | 123086 | [123086-son-of-phoenix.json](./123086-son-of-phoenix.json) |
+| Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
 | Son of Sparta | 258077 | [258077-son-of-sparta.json](./258077-son-of-sparta.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Son of the Dragon King | 266027 | [266027-son-of-the-dragon-king.json](./266027-son-of-the-dragon-king.json) |
@@ -26141,6 +26143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Them All | 409930 | [409930-spot-them-all.json](./409930-spot-them-all.json) |
 | Spot Venture | 243170 | [243170-spot-venture.json](./243170-spot-venture.json) |
 | Spot Zero | 338744 | [338744-spot-zero.json](./338744-spot-zero.json) |
+| Spot: The Cool Adventure | 66020 | [66020-spot-the-cool-adventure.json](./66020-spot-the-cool-adventure.json) |
 | Spot: The Video Game | 339277 | [339277-spot-the-video-game.json](./339277-spot-the-video-game.json) |
 | Spot: The Video Game | 48075 | [48075-spot-the-video-game.json](./48075-spot-the-video-game.json) |
 | SpotCat vs. The Cheddar Mafia Back To Past | 388198 | [388198-spotcat-vs-the-cheddar-mafia-back-to-past.json](./388198-spotcat-vs-the-cheddar-mafia-back-to-past.json) |
@@ -27244,6 +27247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand by Me: Otome Isekai Rpg | 346477 | [346477-stand-by-me-otome-isekai-rpg.json](./346477-stand-by-me-otome-isekai-rpg.json) |
 | Stand Firm | 188734 | [188734-stand-firm.json](./188734-stand-firm.json) |
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
+| Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
 | Stand O'Food City: Virtual Frenzy | 88628 | [88628-stand-ofood-city-virtual-frenzy.json](./88628-stand-ofood-city-virtual-frenzy.json) |
 | Stand of Arms | 159527 | [159527-stand-of-arms.json](./159527-stand-of-arms.json) |
