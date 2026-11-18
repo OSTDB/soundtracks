@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Tavern | 373282 | [373282-tabletop-tavern.json](./373282-tabletop-tavern.json) |
 | Tabletop Towers | 95778 | [95778-tabletop-towers.json](./95778-tabletop-towers.json) |
 | Tabletop Warriors | 190884 | [190884-tabletop-warriors.json](./190884-tabletop-warriors.json) |
+| Tabletopia | 34469 | [34469-tabletopia.json](./34469-tabletopia.json) |
 | Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
 | Tabletopia: Argent - the Consortium | 162882 | [162882-tabletopia-argent-the-consortium.json](./162882-tabletopia-argent-the-consortium.json) |
@@ -3697,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Floppy Ear | 64894 | [64894-teddy-floppy-ear.json](./64894-teddy-floppy-ear.json) |
 | Teddy Floppy Ear: Kayaking | 36003 | [36003-teddy-floppy-ear-kayaking.json](./36003-teddy-floppy-ear-kayaking.json) |
 | Teddy Floppy Ear: Mountain Adventure | 36002 | [36002-teddy-floppy-ear-mountain-adventure.json](./36002-teddy-floppy-ear-mountain-adventure.json) |
+| Teddy Floppy Ear: The Race | 35223 | [35223-teddy-floppy-ear-the-race.json](./35223-teddy-floppy-ear-the-race.json) |
 | Teddy Gangs | 124072 | [124072-teddy-gangs.json](./124072-teddy-gangs.json) |
 | Teddy Horses | 374149 | [374149-teddy-horses.json](./374149-teddy-horses.json) |
 | Teddy Is Coming | 400421 | [400421-teddy-is-coming.json](./400421-teddy-is-coming.json) |
@@ -6361,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Tintin: Prisoners of the Sun | 249145 | [249145-the-adventures-of-tintin-prisoners-of-the-sun.json](./249145-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: The Game | 6473 | [6473-the-adventures-of-tintin-the-game.json](./6473-the-adventures-of-tintin-the-game.json) |
+| The Adventures of Tree | 35630 | [35630-the-adventures-of-tree.json](./35630-the-adventures-of-tree.json) |
 | The Adventures of Valdo and Marie | 56968 | [56968-the-adventures-of-valdo-and-marie.json](./56968-the-adventures-of-valdo-and-marie.json) |
 | The Adventures of Victor & Garu | 22133 | [22133-the-adventures-of-victor-and-garu.json](./22133-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Victor and Garu | 22091 | [22091-the-adventures-of-victor-and-garu.json](./22091-the-adventures-of-victor-and-garu.json) |
@@ -9659,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Team: 3 on 3 Challenge | 80049 | [80049-the-dream-team-3-on-3-challenge.json](./80049-the-dream-team-3-on-3-challenge.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
+| The Dreamatorium of Dr. Magnus 2 | 34698 | [34698-the-dreamatorium-of-dr-magnus-2.json](./34698-the-dreamatorium-of-dr-magnus-2.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamcatcher | 119094 | [119094-the-dreamcatcher.json](./119094-the-dreamcatcher.json) |
 | The Dreamer | 323211 | [323211-the-dreamer.json](./323211-the-dreamer.json) |
@@ -14245,6 +14249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Mystery: High Cultures | 78799 | [78799-the-legend-of-mystery-high-cultures.json](./78799-the-legend-of-mystery-high-cultures.json) |
 | The Legend of Mystic Zone | 274112 | [274112-the-legend-of-mystic-zone.json](./274112-the-legend-of-mystic-zone.json) |
 | The Legend of Mythos | 195674 | [195674-the-legend-of-mythos.json](./195674-the-legend-of-mythos.json) |
+| The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Nayuta: Boundless Trails - Deluxe Edition | 284594 | [284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json](./284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json) |
 | The Legend of Nayuta: Boundless Trails - Limited Edition | 284595 | [284595-the-legend-of-nayuta-boundless-trails-limited-edition.json](./284595-the-legend-of-nayuta-boundless-trails-limited-edition.json) |
 | The Legend of Neverland | 159100 | [159100-the-legend-of-neverland.json](./159100-the-legend-of-neverland.json) |
@@ -15147,6 +15152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Uncle | 236334 | [236334-the-lost-uncle.json](./236334-the-lost-uncle.json) |
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
 | The Lost Valley | 252295 | [252295-the-lost-valley.json](./252295-the-lost-valley.json) |
+| The Lost Valley | 35429 | [35429-the-lost-valley.json](./35429-the-lost-valley.json) |
 | The Lost Vikings | 144422 | [144422-the-lost-vikings.json](./144422-the-lost-vikings.json) |
 | The Lost Vikings | 144423 | [144423-the-lost-vikings.json](./144423-the-lost-vikings.json) |
 | The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
@@ -15334,6 +15340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maitre D | 137732 | [137732-the-maitre-d.json](./137732-the-maitre-d.json) |
 | The Majesti | 157734 | [157734-the-majesti.json](./157734-the-majesti.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
+| The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
 | The Majesty of Colors Remastered | 95084 | [95084-the-majesty-of-colors-remastered.json](./95084-the-majesty-of-colors-remastered.json) |
 | The Majors Pro Baseball | 45795 | [45795-the-majors-pro-baseball.json](./45795-the-majors-pro-baseball.json) |
 | The Maker of Masks | 323561 | [323561-the-maker-of-masks.json](./323561-the-maker-of-masks.json) |
@@ -15551,6 +15558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memory of Mallet | 310119 | [310119-the-memory-of-mallet.json](./310119-the-memory-of-mallet.json) |
 | The Memory Thieves | 321599 | [321599-the-memory-thieves.json](./321599-the-memory-thieves.json) |
 | The Memphis Chronicles | 405199 | [405199-the-memphis-chronicles.json](./405199-the-memphis-chronicles.json) |
+| The Men of Yoshiwara: Kikuya | 34964 | [34964-the-men-of-yoshiwara-kikuya.json](./34964-the-men-of-yoshiwara-kikuya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Menagerie | 80053 | [80053-the-menagerie.json](./80053-the-menagerie.json) |
 | The Mending | 263739 | [263739-the-mending.json](./263739-the-mending.json) |
@@ -25645,6 +25653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Kart 3D | 108703 | [108703-tiki-kart-3d.json](./108703-tiki-kart-3d.json) |
 | Tiki Kart Island | 96381 | [96381-tiki-kart-island.json](./96381-tiki-kart-island.json) |
 | Tiki Magic Mini Golf | 79961 | [79961-tiki-magic-mini-golf.json](./79961-tiki-magic-mini-golf.json) |
+| Tiki Man | 35065 | [35065-tiki-man.json](./35065-tiki-man.json) |
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Party: Quiz Game with Friends | 211319 | [211319-tiki-party-quiz-game-with-friends.json](./211319-tiki-party-quiz-game-with-friends.json) |
 | Tiki Resort | 92444 | [92444-tiki-resort.json](./92444-tiki-resort.json) |
@@ -26844,6 +26853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Train Tycoon | 381355 | [381355-tiny-train-tycoon.json](./381355-tiny-train-tycoon.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Traps | 109994 | [109994-tiny-traps.json](./109994-tiny-traps.json) |
+| Tiny Trax | 36542 | [36542-tiny-trax.json](./36542-tiny-trax.json) |
 | Tiny Treasure Hunt | 283219 | [283219-tiny-treasure-hunt.json](./283219-tiny-treasure-hunt.json) |
 | Tiny Treasure Hunt DX | 308631 | [308631-tiny-treasure-hunt-dx.json](./308631-tiny-treasure-hunt-dx.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
@@ -29480,6 +29490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Extreme Wrestling 2005 | 73007 | [73007-total-extreme-wrestling-2005.json](./73007-total-extreme-wrestling-2005.json) |
 | Total Extreme Wrestling 2007 | 73021 | [73021-total-extreme-wrestling-2007.json](./73021-total-extreme-wrestling-2007.json) |
 | Total Extreme Wrestling 2008 | 73010 | [73010-total-extreme-wrestling-2008.json](./73010-total-extreme-wrestling-2008.json) |
+| Total Extreme Wrestling 2010 | 35871 | [35871-total-extreme-wrestling-2010.json](./35871-total-extreme-wrestling-2010.json) |
 | Total Extreme Wrestling 2013 | 31239 | [31239-total-extreme-wrestling-2013.json](./31239-total-extreme-wrestling-2013.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Extreme Wrestling 2020 | 134545 | [134545-total-extreme-wrestling-2020.json](./134545-total-extreme-wrestling-2020.json) |
@@ -29879,6 +29890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind BMX 2 | 99835 | [99835-touchgrind-bmx-2.json](./99835-touchgrind-bmx-2.json) |
 | Touchgrind BMX 3: Rivals | 364425 | [364425-touchgrind-bmx-3-rivals.json](./364425-touchgrind-bmx-3-rivals.json) |
 | Touchgrind Scooter | 243313 | [243313-touchgrind-scooter.json](./243313-touchgrind-scooter.json) |
+| Touchgrind Skate 2 | 41517 | [41517-touchgrind-skate-2.json](./41517-touchgrind-skate-2.json) |
 | Touching Cloth At The End Of Time | 322011 | [322011-touching-cloth-at-the-end-of-time.json](./322011-touching-cloth-at-the-end-of-time.json) |
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
 | Touching Lights | 175608 | [175608-touching-lights.json](./175608-touching-lights.json) |
@@ -33903,6 +33915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transpose | 109417 | [109417-transpose.json](./109417-transpose.json) |
 | Transputer Man | 85958 | [85958-transputer-man.json](./85958-transputer-man.json) |
 | Transregnum | 338950 | [338950-transregnum.json](./338950-transregnum.json) |
+| TransRoad: USA | 36614 | [36614-transroad-usa.json](./36614-transroad-usa.json) |
 | Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
 | Transversion | 57343 | [57343-transversion.json](./57343-transversion.json) |
 | Transworld | 78435 | [78435-transworld.json](./78435-transworld.json) |
