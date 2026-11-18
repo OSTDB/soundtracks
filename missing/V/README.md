@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Hunters | 27642 | [27642-vampire-hunters.json](./27642-vampire-hunters.json) |
 | Vampire Huntress: Lament of the Sun | 327013 | [327013-vampire-huntress-lament-of-the-sun.json](./327013-vampire-huntress-lament-of-the-sun.json) |
 | Vampire Hurts | 198317 | [198317-vampire-hurts.json](./198317-vampire-hurts.json) |
+| Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
 | Vampire Legacy | 304968 | [304968-vampire-legacy.json](./304968-vampire-legacy.json) |
 | Vampire Legends: Power of Three | 18308 | [18308-vampire-legends-power-of-three.json](./18308-vampire-legends-power-of-three.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Source Origins | 368963 | [368963-void-source-origins.json](./368963-void-source-origins.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
 | Void Step | 419159 | [419159-void-step.json](./419159-void-step.json) |
+| Void Stranger | 178900 | [178900-void-stranger.json](./178900-void-stranger.json) |
 | Void Strife | 244209 | [244209-void-strife.json](./244209-void-strife.json) |
 | Void Surfer | 157096 | [157096-void-surfer.json](./157096-void-surfer.json) |
 | Void Survivors | 260525 | [260525-void-survivors.json](./260525-void-survivors.json) |
