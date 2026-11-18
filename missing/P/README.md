@@ -1761,13 +1761,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Freezeria HD | 88886 | [88886-papas-freezeria-hd.json](./88886-papas-freezeria-hd.json) |
 | Papa's Freezeria to Go! | 95739 | [95739-papas-freezeria-to-go.json](./95739-papas-freezeria-to-go.json) |
 | Papa's Hot Doggeria | 210491 | [210491-papas-hot-doggeria.json](./210491-papas-hot-doggeria.json) |
-| Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Hot Doggeria to Go! | 101417 | [101417-papas-hot-doggeria-to-go.json](./101417-papas-hot-doggeria-to-go.json) |
 | Papa's Mocharia Deluxe | 399974 | [399974-papas-mocharia-deluxe.json](./399974-papas-mocharia-deluxe.json) |
 | Papa's Mocharia to Go! | 185727 | [185727-papas-mocharia-to-go.json](./185727-papas-mocharia-to-go.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
-| Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pastaria To Go! | 420003 | [420003-papas-pastaria-to-go.json](./420003-papas-pastaria-to-go.json) |
 | Papa's Pizzeria | 206853 | [206853-papas-pizzeria.json](./206853-papas-pizzeria.json) |
@@ -2245,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Beach Girls | 202208 | [202208-paradise-beach-girls.json](./202208-paradise-beach-girls.json) |
 | Paradise Beyond the Nightmare | 368932 | [368932-paradise-beyond-the-nightmare.json](./368932-paradise-beyond-the-nightmare.json) |
 | Paradise Café | 256504 | [256504-paradise-cafe.json](./256504-paradise-cafe.json) |
+| Paradise Chateau | 416373 | [416373-paradise-chateau.json](./416373-paradise-chateau.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
 | Paradise Checkers VR | 105098 | [105098-paradise-checkers-vr.json](./105098-paradise-checkers-vr.json) |
 | Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
@@ -3638,7 +3637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrician IV | 7506 | [7506-patrician-iv.json](./7506-patrician-iv.json) |
 | Patrician IV: Gold Edition | 53454 | [53454-patrician-iv-gold-edition.json](./53454-patrician-iv-gold-edition.json) |
 | Patrician IV: Rise of a Dynasty | 10689 | [10689-patrician-iv-rise-of-a-dynasty.json](./10689-patrician-iv-rise-of-a-dynasty.json) |
-| Patrician IV: Steam Special Edition | 90478 | [90478-patrician-iv-steam-special-edition.json](./90478-patrician-iv-steam-special-edition.json) |
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patrick and the Maze | 245705 | [245705-patrick-and-the-maze.json](./245705-patrick-and-the-maze.json) |
@@ -6986,7 +6984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picowings | 290297 | [290297-picowings.json](./290297-picowings.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
 | PicPu Dog Puzzle | 89293 | [89293-picpu-dog-puzzle.json](./89293-picpu-dog-puzzle.json) |
-| Picrastination | 88119 | [88119-picrastination.json](./88119-picrastination.json) |
 | PicRoad - Pixel art puzzle | 95943 | [95943-picroad-pixel-art-puzzle.json](./95943-picroad-pixel-art-puzzle.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | Picross | 311698 | [311698-picross.json](./311698-picross.json) |
@@ -11747,7 +11744,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Bravery MD | 414847 | [414847-pocket-bravery-md.json](./414847-pocket-bravery-md.json) |
 | Pocket Bravery: Rick | 389552 | [389552-pocket-bravery-rick.json](./389552-pocket-bravery-rick.json) |
 | Pocket Breeder: Oguri Cap II-sei | 284458 | [284458-pocket-breeder-oguri-cap-ii-sei.json](./284458-pocket-breeder-oguri-cap-ii-sei.json) |
-| Pocket Build | 88881 | [88881-pocket-build.json](./88881-pocket-build.json) |
 | Pocket Button Soccer | 207969 | [207969-pocket-button-soccer.json](./207969-pocket-button-soccer.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
@@ -14470,7 +14466,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop-up Pilgrams | 87677 | [87677-pop-up-pilgrams.json](./87677-pop-up-pilgrams.json) |
-| Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
 | POP: Methodology Experiment One | 17515 | [17515-pop-methodology-experiment-one.json](./17515-pop-methodology-experiment-one.json) |
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
 | Pop! | 147195 | [147195-pop.json](./147195-pop.json) |
@@ -14598,6 +14593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popgoes Arcade | 140319 | [140319-popgoes-arcade.json](./140319-popgoes-arcade.json) |
 | Popgoes Arcade 2 | 208516 | [208516-popgoes-arcade-2.json](./208516-popgoes-arcade-2.json) |
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
+| Popgoes Arcade: VR | 417014 | [417014-popgoes-arcade-vr.json](./417014-popgoes-arcade-vr.json) |
 | Popgoes Encore! | 238959 | [238959-popgoes-encore.json](./238959-popgoes-encore.json) |
 | Popgoes Evergreen | 234342 | [234342-popgoes-evergreen.json](./234342-popgoes-evergreen.json) |
 | Popgoes Finale | 208573 | [208573-popgoes-finale.json](./208573-popgoes-finale.json) |
@@ -14961,7 +14957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Positive! Hapili Link | 334370 | [334370-positive-hapili-link.json](./334370-positive-hapili-link.json) |
 | Positron | 35107 | [35107-positron.json](./35107-positron.json) |
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
-| PositronX | 88302 | [88302-positronx.json](./88302-positronx.json) |
 | Posledniy Den' v Uryupinske | 368254 | [368254-posledniy-den-v-uryupinske.json](./368254-posledniy-den-v-uryupinske.json) |
 | Posse of 3 | 391091 | [391091-posse-of-3.json](./391091-posse-of-3.json) |
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
