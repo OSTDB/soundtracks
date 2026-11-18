@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | Ballistic Protection | 30995 | [30995-ballistic-protection.json](./30995-ballistic-protection.json) |
 | Ballistic Showdown | 259933 | [259933-ballistic-showdown.json](./259933-ballistic-showdown.json) |
+| Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
 | Ballistic Tilt | 363667 | [363667-ballistic-tilt.json](./363667-ballistic-tilt.json) |
 | Ballistic Zen | 211087 | [211087-ballistic-zen.json](./211087-ballistic-zen.json) |
 | Ballistic: Ecks vs. Sever | 49196 | [49196-ballistic-ecks-vs-sever.json](./49196-ballistic-ecks-vs-sever.json) |
