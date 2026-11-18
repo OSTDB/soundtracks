@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Sudoku Together | 344490 | [344490-daily-sudoku-together.json](./344490-daily-sudoku-together.json) |
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
+| Daily War Online | 415554 | [415554-daily-war-online.json](./415554-daily-war-online.json) |
 | Daimadou Senryaku Monogatari '95 | 253714 | [253714-daimadou-senryaku-monogatari-95.json](./253714-daimadou-senryaku-monogatari-95.json) |
 | Daimakaimura | 213187 | [213187-daimakaimura.json](./213187-daimakaimura.json) |
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Town : Invisible Danger | 75015 | [75015-dark-town-invisible-danger.json](./75015-dark-town-invisible-danger.json) |
 | Dark Town Secrets: Lost Lulu | 417841 | [417841-dark-town-secrets-lost-lulu.json](./417841-dark-town-secrets-lost-lulu.json) |
 | Dark Town Secrets: Lost Lulu - Collector's Edition | 389078 | [389078-dark-town-secrets-lost-lulu-collectors-edition.json](./389078-dark-town-secrets-lost-lulu-collectors-edition.json) |
+| Dark Town Secrets: The Last Burger - Collector's Edition | 411163 | [411163-dark-town-secrets-the-last-burger-collectors-edition.json](./411163-dark-town-secrets-the-last-burger-collectors-edition.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
 | Dark Train: Coupe | 51436 | [51436-dark-train-coupe.json](./51436-dark-train-coupe.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
@@ -3911,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Body Falls | 120331 | [120331-dead-body-falls.json](./120331-dead-body-falls.json) |
 | Dead Body Killer | 151444 | [151444-dead-body-killer.json](./151444-dead-body-killer.json) |
 | Dead Box | 153885 | [153885-dead-box.json](./153885-dead-box.json) |
+| Dead Broke | 413293 | [413293-dead-broke.json](./413293-dead-broke.json) |
 | Dead But Alive! Southern England | 26469 | [26469-dead-but-alive-southern-england.json](./26469-dead-but-alive-southern-england.json) |
 | Dead But Dreaming | 257162 | [257162-dead-but-dreaming.json](./257162-dead-but-dreaming.json) |
 | Dead But Dreaming | 271337 | [271337-dead-but-dreaming.json](./271337-dead-but-dreaming.json) |
@@ -6057,7 +6060,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep GachiGasm | 75271 | [75271-deep-gachigasm.json](./75271-deep-gachigasm.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
+| Deep Haul | 415544 | [415544-deep-haul.json](./415544-deep-haul.json) |
 | Deep Hole | 115373 | [115373-deep-hole.json](./115373-deep-hole.json) |
+| Deep Hope | 398598 | [398598-deep-hope.json](./398598-deep-hope.json) |
 | Deep Horizon | 41969 | [41969-deep-horizon.json](./41969-deep-horizon.json) |
 | Deep Horrors of Fishing | 323724 | [323724-deep-horrors-of-fishing.json](./323724-deep-horrors-of-fishing.json) |
 | Deep Hunger | 390443 | [390443-deep-hunger.json](./390443-deep-hunger.json) |
@@ -7951,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Providence | 412560 | [412560-depths-of-providence.json](./412560-depths-of-providence.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
 | Depths Unseen | 365271 | [365271-depths-unseen.json](./365271-depths-unseen.json) |
+| Depths' Tale | 416315 | [416315-depths-tale.json](./416315-depths-tale.json) |
 | Depthscraper | 183890 | [183890-depthscraper.json](./183890-depthscraper.json) |
 | Deputinization | 219240 | [219240-deputinization.json](./219240-deputinization.json) |
 | Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
@@ -10623,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Expo Center | 154899 | [154899-digital-expo-center.json](./154899-digital-expo-center.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
 | Digital ez LG | 238912 | [238912-digital-ez-lg.json](./238912-digital-ez-lg.json) |
+| Digital Figure Iina | 414553 | [414553-digital-figure-iina.json](./414553-digital-figure-iina.json) |
 | Digital Football League | 327525 | [327525-digital-football-league.json](./327525-digital-football-league.json) |
 | Digital Frida | 226513 | [226513-digital-frida.json](./226513-digital-frida.json) |
 | Digital Girlfriend | 384841 | [384841-digital-girlfriend.json](./384841-digital-girlfriend.json) |
@@ -11120,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobasher | 248847 | [248847-dinobasher.json](./248847-dinobasher.json) |
 | DinoBlaster | 37415 | [37415-dinoblaster.json](./37415-dinoblaster.json) |
 | Dinoblits | 219244 | [219244-dinoblits.json](./219244-dinoblits.json) |
+| DinoBones: Tidy Up the Museum | 414637 | [414637-dinobones-tidy-up-the-museum.json](./414637-dinobones-tidy-up-the-museum.json) |
 | Dinobot and Tiara Present: ApplePop | 240826 | [240826-dinobot-and-tiara-present-applepop.json](./240826-dinobot-and-tiara-present-applepop.json) |
 | DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
@@ -12170,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Ariel: The Little Mermaid | 45628 | [45628-disneys-ariel-the-little-mermaid.json](./45628-disneys-ariel-the-little-mermaid.json) |
 | Disney's Atlantis: The Lost Empire | 248624 | [248624-disneys-atlantis-the-lost-empire.json](./248624-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 248625 | [248625-disneys-atlantis-the-lost-empire.json](./248625-disneys-atlantis-the-lost-empire.json) |
+| Disney's Atlantis: The Lost Empire | 413288 | [413288-disneys-atlantis-the-lost-empire.json](./413288-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire - Search for the Journal | 71876 | [71876-disneys-atlantis-the-lost-empire-search-for-the-journal.json](./71876-disneys-atlantis-the-lost-empire-search-for-the-journal.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
