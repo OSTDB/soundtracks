@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisho Romance Theater | 366031 | [366031-taisho-romance-theater.json](./366031-taisho-romance-theater.json) |
 | Taisho Taxi Service | 274938 | [274938-taisho-taxi-service.json](./274938-taisho-taxi-service.json) |
 | Taisho x Alice Epilogue | 153498 | [153498-taisho-x-alice-epilogue.json](./153498-taisho-x-alice-epilogue.json) |
+| Taisho x Alice Episode 1 | 130067 | [130067-taisho-x-alice-episode-1.json](./130067-taisho-x-alice-episode-1.json) |
 | Taisho x Alice: Episode 2 | 158955 | [158955-taisho-x-alice-episode-2.json](./158955-taisho-x-alice-episode-2.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho x Alice: Heads & Tails! | 201613 | [201613-taisho-x-alice-heads-and-tails.json](./201613-taisho-x-alice-heads-and-tails.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
+| Taur | 128799 | [128799-taur.json](./128799-taur.json) |
 | Tauren maze | 164057 | [164057-tauren-maze.json](./164057-tauren-maze.json) |
 | Taurian Defense | 283433 | [283433-taurian-defense.json](./283433-taurian-defense.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
@@ -8739,6 +8741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Cruciball | 359927 | [359927-the-cruciball.json](./359927-the-cruciball.json) |
 | The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
+| The Cruel King and the Great Hero | 144208 | [144208-the-cruel-king-and-the-great-hero.json](./144208-the-cruel-king-and-the-great-hero.json) |
 | The Cruel King and the Great Hero: Storybook Edition | 146031 | [146031-the-cruel-king-and-the-great-hero-storybook-edition.json](./146031-the-cruel-king-and-the-great-hero-storybook-edition.json) |
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
 | The Cruise 2 | 174385 | [174385-the-cruise-2.json](./174385-the-cruise-2.json) |
@@ -10350,6 +10353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fabled Woods | 133140 | [133140-the-fabled-woods.json](./133140-the-fabled-woods.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The fabulous Animal Playground | 101003 | [101003-the-fabulous-animal-playground.json](./101003-the-fabulous-animal-playground.json) |
+| The Fabulous Fear Machine | 190197 | [190197-the-fabulous-fear-machine.json](./190197-the-fabulous-fear-machine.json) |
 | The Fabulous Screech | 60521 | [60521-the-fabulous-screech.json](./60521-the-fabulous-screech.json) |
 | The Fabulous Wanda and the Secret of Life, the Universe, and Everything | 25854 | [25854-the-fabulous-wanda-and-the-secret-of-life-the-universe-and-everything.json](./25854-the-fabulous-wanda-and-the-secret-of-life-the-universe-and-everything.json) |
 | The face of hope: Underground | 30882 | [30882-the-face-of-hope-underground.json](./30882-the-face-of-hope-underground.json) |
@@ -10808,6 +10812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
 | The Fisherman and the Sea | 175385 | [175385-the-fisherman-and-the-sea.json](./175385-the-fisherman-and-the-sea.json) |
 | The Fisherman: A Codfish Tale | 325877 | [325877-the-fisherman-a-codfish-tale.json](./325877-the-fisherman-a-codfish-tale.json) |
+| The Fisherman: Fishing Planet | 122433 | [122433-the-fisherman-fishing-planet.json](./122433-the-fisherman-fishing-planet.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
 | The Fisherman: Fishing Planet - Trophy Catch Pack | 224254 | [224254-the-fisherman-fishing-planet-trophy-catch-pack.json](./224254-the-fisherman-fishing-planet-trophy-catch-pack.json) |
 | The Fisherman's Secret | 410641 | [410641-the-fishermans-secret.json](./410641-the-fishermans-secret.json) |
@@ -13804,6 +13809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Order: Dungeons | 155826 | [155826-the-last-order-dungeons.json](./155826-the-last-order-dungeons.json) |
 | The Last Ores | 415421 | [415421-the-last-ores.json](./415421-the-last-ores.json) |
 | The Last Orgasm | 392897 | [392897-the-last-orgasm.json](./392897-the-last-orgasm.json) |
+| The Last Oricru | 152073 | [152073-the-last-oricru.json](./152073-the-last-oricru.json) |
 | The Last Orpheus | 276758 | [276758-the-last-orpheus.json](./276758-the-last-orpheus.json) |
 | The Last Patient | 29442 | [29442-the-last-patient.json](./29442-the-last-patient.json) |
 | The Last Phoenix | 375447 | [375447-the-last-phoenix.json](./375447-the-last-phoenix.json) |
@@ -13988,6 +13994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wizard | 106140 | [106140-the-last-wizard.json](./106140-the-last-wizard.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last Word | 53755 | [53755-the-last-word.json](./53755-the-last-word.json) |
+| The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
 | The Last World | 217060 | [217060-the-last-world.json](./217060-the-last-world.json) |
 | The Last World | 275821 | [275821-the-last-world.json](./275821-the-last-world.json) |
 | The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
@@ -14195,6 +14202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails through Daybreak - Limited Edition | 267629 | [267629-the-legend-of-heroes-trails-through-daybreak-limited-edition.json](./267629-the-legend-of-heroes-trails-through-daybreak-limited-edition.json) |
 | The Legend of Heroes: Trails through Daybreak - Ultimate Edition | 300883 | [300883-the-legend-of-heroes-trails-through-daybreak-ultimate-edition.json](./300883-the-legend-of-heroes-trails-through-daybreak-ultimate-edition.json) |
 | The Legend of Heroes: Trails through Daybreak - Voice Set | 310686 | [310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json](./310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json) |
+| The Legend of Heroes: Trails Through Daybreak II | 185864 | [185864-the-legend-of-heroes-trails-through-daybreak-ii.json](./185864-the-legend-of-heroes-trails-through-daybreak-ii.json) |
 | The Legend of Heroes: Trails through Daybreak II - Deluxe Edition | 313763 | [313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json](./313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json) |
 | The Legend of Heroes: Trails through Daybreak II - Limited Edition | 313762 | [313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json](./313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json) |
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
@@ -18302,6 +18310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Da Vinci | 101024 | [101024-the-secrets-of-da-vinci.json](./101024-the-secrets-of-da-vinci.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
+| The Secrets of Jesus | 122495 | [122495-the-secrets-of-jesus.json](./122495-the-secrets-of-jesus.json) |
 | The Secrets of Skellig | 260264 | [260264-the-secrets-of-skellig.json](./260264-the-secrets-of-skellig.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Secrets of the Forest | 99451 | [99451-the-secrets-of-the-forest.json](./99451-the-secrets-of-the-forest.json) |
@@ -18972,6 +18981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Sisterhood Pasture | 327527 | [327527-the-sisterhood-pasture.json](./327527-the-sisterhood-pasture.json) |
 | The Sisters Collection | 284733 | [284733-the-sisters-collection.json](./284733-the-sisters-collection.json) |
+| The Sisters: Party of the Year | 144079 | [144079-the-sisters-party-of-the-year.json](./144079-the-sisters-party-of-the-year.json) |
 | The Sisyphus Journey | 334366 | [334366-the-sisyphus-journey.json](./334366-the-sisyphus-journey.json) |
 | The Site: Night Shift | 373986 | [373986-the-site-night-shift.json](./373986-the-site-night-shift.json) |
 | The Six Dragons | 82572 | [82572-the-six-dragons.json](./82572-the-six-dragons.json) |
@@ -19214,6 +19224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul of Too Birds Game | 270033 | [270033-the-soul-of-too-birds-game.json](./270033-the-soul-of-too-birds-game.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The Soul Stone Escape | 315793 | [315793-the-soul-stone-escape.json](./315793-the-soul-stone-escape.json) |
+| The Soul Stone War | 128922 | [128922-the-soul-stone-war.json](./128922-the-soul-stone-war.json) |
 | The Soul Stone War 2 | 186404 | [186404-the-soul-stone-war-2.json](./186404-the-soul-stone-war-2.json) |
 | The Soul Stone War 2: Web of Shadows | 193512 | [193512-the-soul-stone-war-2-web-of-shadows.json](./193512-the-soul-stone-war-2-web-of-shadows.json) |
 | The Soul Stone War 3 | 344280 | [344280-the-soul-stone-war-3.json](./344280-the-soul-stone-war-3.json) |
@@ -19752,6 +19763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
 | The Tale of a Man named Tom | 57147 | [57147-the-tale-of-a-man-named-tom.json](./57147-the-tale-of-a-man-named-tom.json) |
 | The Tale of Alltynex Deluxe Edition | 368370 | [368370-the-tale-of-alltynex-deluxe-edition.json](./368370-the-tale-of-alltynex-deluxe-edition.json) |
+| The Tale of Bistun | 152395 | [152395-the-tale-of-bistun.json](./152395-the-tale-of-bistun.json) |
 | The Tale of Bistun: Digital Collector's Edition | 227172 | [227172-the-tale-of-bistun-digital-collectors-edition.json](./227172-the-tale-of-bistun-digital-collectors-edition.json) |
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
 | The Tale of Destiny Island | 291283 | [291283-the-tale-of-destiny-island.json](./291283-the-tale-of-destiny-island.json) |
@@ -27650,6 +27662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
 | Togabito no Senritsu | 222107 | [222107-togabito-no-senritsu.json](./222107-togabito-no-senritsu.json) |
 | Togainu no Chi | 17267 | [17267-togainu-no-chi.json](./17267-togainu-no-chi.json) |
+| Togainu no Chi: Lost Blood | 128480 | [128480-togainu-no-chi-lost-blood.json](./128480-togainu-no-chi-lost-blood.json) |
 | Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
 | Togainu no Chi: Typing | 237424 | [237424-togainu-no-chi-typing.json](./237424-togainu-no-chi-typing.json) |
 | Toganeyobi | 387702 | [387702-toganeyobi.json](./387702-toganeyobi.json) |
@@ -28220,6 +28233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Blacklist - Ultimate Edition | 99926 | [99926-tom-clancys-splinter-cell-blacklist-ultimate-edition.json](./99926-tom-clancys-splinter-cell-blacklist-ultimate-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Ultimatum Edition | 42971 | [42971-tom-clancys-splinter-cell-blacklist-ultimatum-edition.json](./42971-tom-clancys-splinter-cell-blacklist-ultimatum-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Upper Echelon Edition | 76983 | [76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json](./76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json) |
+| Tom Clancy's Splinter Cell: Chaos Theory | 194234 | [194234-tom-clancys-splinter-cell-chaos-theory.json](./194234-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 243020 | [243020-tom-clancys-splinter-cell-chaos-theory.json](./243020-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 243021 | [243021-tom-clancys-splinter-cell-chaos-theory.json](./243021-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory HD | 100004 | [100004-tom-clancys-splinter-cell-chaos-theory-hd.json](./100004-tom-clancys-splinter-cell-chaos-theory-hd.json) |
@@ -29584,6 +29598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Three Kingdoms - A World Betrayed | 167647 | [167647-total-war-three-kingdoms-a-world-betrayed.json](./167647-total-war-three-kingdoms-a-world-betrayed.json) |
 | Total War: Three Kingdoms - Eight Princes | 167640 | [167640-total-war-three-kingdoms-eight-princes.json](./167640-total-war-three-kingdoms-eight-princes.json) |
 | Total War: Three Kingdoms - Fates Divided | 227713 | [227713-total-war-three-kingdoms-fates-divided.json](./227713-total-war-three-kingdoms-fates-divided.json) |
+| Total War: Three Kingdoms - Mandate of Heaven | 127548 | [127548-total-war-three-kingdoms-mandate-of-heaven.json](./127548-total-war-three-kingdoms-mandate-of-heaven.json) |
 | Total War: Three Kingdoms - Reign of Blood | 167645 | [167645-total-war-three-kingdoms-reign-of-blood.json](./167645-total-war-three-kingdoms-reign-of-blood.json) |
 | Total War: Three Kingdoms - Royal Edition | 139841 | [139841-total-war-three-kingdoms-royal-edition.json](./139841-total-war-three-kingdoms-royal-edition.json) |
 | Total War: Three Kingdoms - Shi Xie | 167644 | [167644-total-war-three-kingdoms-shi-xie.json](./167644-total-war-three-kingdoms-shi-xie.json) |
@@ -31131,6 +31146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
 | Toy soldier: Bastion | 102241 | [102241-toy-soldier-bastion.json](./102241-toy-soldier-bastion.json) |
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
+| Toy Soldiers HD | 147308 | [147308-toy-soldiers-hd.json](./147308-toy-soldiers-hd.json) |
 | Toy Soldiers: Boot Camp | 65424 | [65424-toy-soldiers-boot-camp.json](./65424-toy-soldiers-boot-camp.json) |
 | Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
 | Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
@@ -31473,6 +31489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Jam | 360114 | [360114-traffic-jam.json](./360114-traffic-jam.json) |
 | Traffic Jam | 42135 | [42135-traffic-jam.json](./42135-traffic-jam.json) |
 | Traffic Jammy | 179581 | [179581-traffic-jammy.json](./179581-traffic-jammy.json) |
+| Traffic Jams | 135112 | [135112-traffic-jams.json](./135112-traffic-jams.json) |
 | Traffic Jelly | 88377 | [88377-traffic-jelly.json](./88377-traffic-jelly.json) |
 | Traffic Manager | 53945 | [53945-traffic-manager.json](./53945-traffic-manager.json) |
 | Traffic Master | 288574 | [288574-traffic-master.json](./288574-traffic-master.json) |
@@ -38019,6 +38036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Her to Sleep | 366032 | [366032-type-her-to-sleep.json](./366032-type-her-to-sleep.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
+| Type Knight | 124180 | [124180-type-knight.json](./124180-type-knight.json) |
 | Type One | 338601 | [338601-type-one.json](./338601-type-one.json) |
 | Type or Die | 426434 | [426434-type-or-die.json](./426434-type-or-die.json) |
 | Type Ride | 374374 | [374374-type-ride.json](./374374-type-ride.json) |
