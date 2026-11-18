@@ -738,6 +738,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road | 111924 | [111924-lambs-on-the-road.json](./111924-lambs-on-the-road.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
+| Lambslide | 415540 | [415540-lambslide.json](./415540-lambslide.json) |
+| LambyLand | 414562 | [414562-lambyland.json](./414562-lambyland.json) |
 | Lame & Cheesy | 104877 | [104877-lame-and-cheesy.json](./104877-lame-and-cheesy.json) |
 | Lame Defenders | 159493 | [159493-lame-defenders.json](./159493-lame-defenders.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
@@ -6075,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lims | 226166 | [226166-lims.json](./226166-lims.json) |
 | Limscape | 322097 | [322097-limscape.json](./322097-limscape.json) |
 | Limsod | 177308 | [177308-limsod.json](./177308-limsod.json) |
+| Lin Ling | 414641 | [414641-lin-ling.json](./414641-lin-ling.json) |
 | Lin Zexu: No Smoking | 268892 | [268892-lin-zexu-no-smoking.json](./268892-lin-zexu-no-smoking.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linares: Bullet Fever | 220392 | [220392-linares-bullet-fever.json](./220392-linares-bullet-fever.json) |
@@ -10746,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
+| Lucky Tower 2 | 398530 | [398530-lucky-tower-2.json](./398530-lucky-tower-2.json) |
 | Lucky Tower Ultimate | 165270 | [165270-lucky-tower-ultimate.json](./165270-lucky-tower-ultimate.json) |
 | Lucky Villager | 196753 | [196753-lucky-villager.json](./196753-lucky-villager.json) |
 | Lucky VS Aliens | 95221 | [95221-lucky-vs-aliens.json](./95221-lucky-vs-aliens.json) |
