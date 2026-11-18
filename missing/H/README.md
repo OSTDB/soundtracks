@@ -7779,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HgmGame-Lion | 363636 | [363636-hgmgame-lion.json](./363636-hgmgame-lion.json) |
 | HgmGame-Snail | 363632 | [363632-hgmgame-snail.json](./363632-hgmgame-snail.json) |
 | HgmGame-Tiger | 363630 | [363630-hgmgame-tiger.json](./363630-hgmgame-tiger.json) |
+| HHG Heart Heat Girls | 394856 | [394856-hhg-heart-heat-girls.json](./394856-hhg-heart-heat-girls.json) |
 | hhGregg's Quest for Coupons | 125942 | [125942-hhgreggs-quest-for-coupons.json](./125942-hhgreggs-quest-for-coupons.json) |
 | HHHalloween | 289471 | [289471-hhhalloween.json](./289471-hhhalloween.json) |
 | Hi Color | 228450 | [228450-hi-color.json](./228450-hi-color.json) |
@@ -14060,6 +14061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurtful Tower | 178223 | [178223-hurtful-tower.json](./178223-hurtful-tower.json) |
 | Hurtworld | 15443 | [15443-hurtworld.json](./15443-hurtworld.json) |
 | Huru Beach Party | 24769 | [24769-huru-beach-party.json](./24769-huru-beach-party.json) |
+| Hus: The 4-Row Mancala | 397314 | [397314-hus-the-4-row-mancala.json](./397314-hus-the-4-row-mancala.json) |
 | Husbandry | 138403 | [138403-husbandry.json](./138403-husbandry.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
