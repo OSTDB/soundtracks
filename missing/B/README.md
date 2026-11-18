@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbar Bar | 36828 | [36828-barbar-bar.json](./36828-barbar-bar.json) |
 | Barbara vs. Zombies | 232232 | [232232-barbara-vs-zombies.json](./232232-barbara-vs-zombies.json) |
 | Barbara-ian | 35006 | [35006-barbara-ian.json](./35006-barbara-ian.json) |
+| Barbaria | 196210 | [196210-barbaria.json](./196210-barbaria.json) |
 | Barbarian | 11941 | [11941-barbarian.json](./11941-barbarian.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
 | Barbarian | 217448 | [217448-barbarian.json](./217448-barbarian.json) |
@@ -5191,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads GG2SMS | 369487 | [369487-battletoads-gg2sms.json](./369487-battletoads-gg2sms.json) |
 | Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
 | Battletoads in Ragnarok's World | 48924 | [48924-battletoads-in-ragnaroks-world.json](./48924-battletoads-in-ragnaroks-world.json) |
+| Battletoads: Legacy Cartridge Collection | 196206 | [196206-battletoads-legacy-cartridge-collection.json](./196206-battletoads-legacy-cartridge-collection.json) |
 | Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
 | BattleTrucks | 29299 | [29299-battletrucks.json](./29299-battletrucks.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
@@ -7632,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besöket | 415488 | [415488-besoket.json](./415488-besoket.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Bespoken | 289814 | [289814-bespoken.json](./289814-bespoken.json) |
+| Bessarabian Nightmares | 188690 | [188690-bessarabian-nightmares.json](./188690-bessarabian-nightmares.json) |
 | Besser Essen: Leben Leicht Gemacht | 269715 | [269715-besser-essen-leben-leicht-gemacht.json](./269715-besser-essen-leben-leicht-gemacht.json) |
 | Best Adventure 4-in-1 Bundle | 267152 | [267152-best-adventure-4-in-1-bundle.json](./267152-best-adventure-4-in-1-bundle.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
@@ -8405,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Brain Games | 84461 | [84461-big-bang-brain-games.json](./84461-big-bang-brain-games.json) |
 | Big Bang Mini | 18549 | [18549-big-bang-mini.json](./18549-big-bang-mini.json) |
 | Big Bang Pictures | 87616 | [87616-big-bang-pictures.json](./87616-big-bang-pictures.json) |
+| Big Bang Pro Wrestling | 196188 | [196188-big-bang-pro-wrestling.json](./196188-big-bang-pro-wrestling.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
 | Big Bang Racing | 58023 | [58023-big-bang-racing.json](./58023-big-bang-racing.json) |
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
@@ -10950,6 +10954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blair Witch Volume 3: The Elly Kedward Tale | 18491 | [18491-blair-witch-volume-3-the-elly-kedward-tale.json](./18491-blair-witch-volume-3-the-elly-kedward-tale.json) |
 | Blair Witch VR | 164320 | [164320-blair-witch-vr.json](./164320-blair-witch-vr.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
+| Blair Witch: Limited Edition | 166244 | [166244-blair-witch-limited-edition.json](./166244-blair-witch-limited-edition.json) |
 | Blair Witch: Oculus Quest Edition | 193692 | [193692-blair-witch-oculus-quest-edition.json](./193692-blair-witch-oculus-quest-edition.json) |
 | Blake & Mortimer: The Tables of Babylon | 10051 | [10051-blake-and-mortimer-the-tables-of-babylon.json](./10051-blake-and-mortimer-the-tables-of-babylon.json) |
 | Blake and Mortimer: The Curse of the Thirty Denarii | 89374 | [89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json](./89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json) |
@@ -12211,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks That Matter | 8984 | [8984-blocks-that-matter.json](./8984-blocks-that-matter.json) |
 | Blocks Tracks Trains | 224594 | [224594-blocks-tracks-trains.json](./224594-blocks-tracks-trains.json) |
 | Blocks With Letters On | 128669 | [128669-blocks-with-letters-on.json](./128669-blocks-with-letters-on.json) |
+| Blocks: Block Puzzle Games | 181955 | [181955-blocks-block-puzzle-games.json](./181955-blocks-block-puzzle-games.json) |
 | Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
 | Blocks: Richard III | 120791 | [120791-blocks-richard-iii.json](./120791-blocks-richard-iii.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
@@ -16695,6 +16701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brand New World | 290613 | [290613-brand-new-world.json](./290613-brand-new-world.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
+| Brandish 2: Expert | 191918 | [191918-brandish-2-expert.json](./191918-brandish-2-expert.json) |
 | Brandish 2: The Planet Buster | 381268 | [381268-brandish-2-the-planet-buster.json](./381268-brandish-2-the-planet-buster.json) |
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandish 3: Spirit of Balcan | 67851 | [67851-brandish-3-spirit-of-balcan.json](./67851-brandish-3-spirit-of-balcan.json) |
@@ -18866,6 +18873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pop It ASMR | 195838 | [195838-bubble-pop-it-asmr.json](./195838-bubble-pop-it-asmr.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
+| Bubble Pop Star | 181952 | [181952-bubble-pop-star.json](./181952-bubble-pop-star.json) |
 | Bubble Pop World | 85009 | [85009-bubble-pop-world.json](./85009-bubble-pop-world.json) |
 | Bubble Pop: Shoot Bubbles | 97067 | [97067-bubble-pop-shoot-bubbles.json](./97067-bubble-pop-shoot-bubbles.json) |
 | Bubble Pop! | 181592 | [181592-bubble-pop.json](./181592-bubble-pop.json) |
