@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardening Mama 2: Forest Friends | 6357 | [6357-gardening-mama-2-forest-friends.json](./6357-gardening-mama-2-forest-friends.json) |
 | GardenLand Tycoon | 146615 | [146615-gardenland-tycoon.json](./146615-gardenland-tycoon.json) |
 | Gardens | 205919 | [205919-gardens.json](./205919-gardens.json) |
+| Gardens and Girls | 161426 | [161426-gardens-and-girls.json](./161426-gardens-and-girls.json) |
 | Gardens Inc. 2: The Road to Fame | 17398 | [17398-gardens-inc-2-the-road-to-fame.json](./17398-gardens-inc-2-the-road-to-fame.json) |
 | Gardens Inc. 3: A Bridal Pursuit | 88826 | [88826-gardens-inc-3-a-bridal-pursuit.json](./88826-gardens-inc-3-a-bridal-pursuit.json) |
 | Gardens of a New World | 394450 | [394450-gardens-of-a-new-world.json](./394450-gardens-of-a-new-world.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Wars: Waves | 4886 | [4886-geometry-wars-waves.json](./4886-geometry-wars-waves.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
 | Geometry World | 55575 | [55575-geometry-world.json](./55575-geometry-world.json) |
+| Geometry World Dasher | 181957 | [181957-geometry-world-dasher.json](./181957-geometry-world-dasher.json) |
 | Geometry Worlds 2 | 208180 | [208180-geometry-worlds-2.json](./208180-geometry-worlds-2.json) |
 | GeometryBricks | 166917 | [166917-geometrybricks.json](./166917-geometrybricks.json) |
 | Geomeun Jeonseol | 220282 | [220282-geomeun-jeonseol.json](./220282-geomeun-jeonseol.json) |
@@ -10094,6 +10096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedland | 237194 | [237194-greedland.json](./237194-greedland.json) |
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | GreeDrill | 423497 | [423497-greedrill.json](./423497-greedrill.json) |
+| Greedroid | 147506 | [147506-greedroid.json](./147506-greedroid.json) |
 | Greedshot | 287812 | [287812-greedshot.json](./287812-greedshot.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
@@ -12360,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun.Dog.Revenge | 384129 | [384129-gun-dog-revenge.json](./384129-gun-dog-revenge.json) |
 | Gun.Smoke | 1288 | [1288-gun-smoke.json](./1288-gun-smoke.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
+| Gun'eM | 147526 | [147526-gunem.json](./147526-gunem.json) |
 | Gun&Dun | 160089 | [160089-gun-and-dun.json](./160089-gun-and-dun.json) |
 | Gunball | 288641 | [288641-gunball.json](./288641-gunball.json) |
 | Gunball | 40507 | [40507-gunball.json](./40507-gunball.json) |
@@ -12858,6 +12862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Records Cychronicle: Song Pack 5 | 293436 | [293436-gunvolt-records-cychronicle-song-pack-5.json](./293436-gunvolt-records-cychronicle-song-pack-5.json) |
 | Gunvolt Records Cychronicle: Song Pack 6 | 294845 | [294845-gunvolt-records-cychronicle-song-pack-6.json](./294845-gunvolt-records-cychronicle-song-pack-6.json) |
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
+| GunWagon | 191920 | [191920-gunwagon.json](./191920-gunwagon.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | GunWorld: Xbox One Edition | 82544 | [82544-gunworld-xbox-one-edition.json](./82544-gunworld-xbox-one-edition.json) |
