@@ -2010,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitol Hill | 94621 | [94621-capitol-hill.json](./94621-capitol-hill.json) |
 | Capoeira Fighter | 291503 | [291503-capoeira-fighter.json](./291503-capoeira-fighter.json) |
 | Capoeira Fighter 3 | 93988 | [93988-capoeira-fighter-3.json](./93988-capoeira-fighter-3.json) |
+| Capoeira Legends: Path to Freedom - Chapter 1 | 196192 | [196192-capoeira-legends-path-to-freedom-chapter-1.json](./196192-capoeira-legends-path-to-freedom-chapter-1.json) |
 | Capoeira Origins | 366874 | [366874-capoeira-origins.json](./366874-capoeira-origins.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Capone | 14375 | [14375-capone.json](./14375-capone.json) |
@@ -2252,8 +2253,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Digital Deluxe Edition | 220894 | [220894-captain-tsubasa-rise-of-new-champions-digital-deluxe-edition.json](./220894-captain-tsubasa-rise-of-new-champions-digital-deluxe-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Digital Ultimate Edition | 267226 | [267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json](./267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json) |
+| Captain Tsubasa: Rise of New Champions - Hikaru Matsuyama Mission | 196201 | [196201-captain-tsubasa-rise-of-new-champions-hikaru-matsuyama-mission.json](./196201-captain-tsubasa-rise-of-new-champions-hikaru-matsuyama-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Jun Misugi | 226547 | [226547-captain-tsubasa-rise-of-new-champions-jun-misugi.json](./226547-captain-tsubasa-rise-of-new-champions-jun-misugi.json) |
+| Captain Tsubasa: Rise of New Champions - Karl Heinz Schneider Mission | 196199 | [196199-captain-tsubasa-rise-of-new-champions-karl-heinz-schneider-mission.json](./196199-captain-tsubasa-rise-of-new-champions-karl-heinz-schneider-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Kojiro Hyuga | 226548 | [226548-captain-tsubasa-rise-of-new-champions-kojiro-hyuga.json](./226548-captain-tsubasa-rise-of-new-champions-kojiro-hyuga.json) |
 | Captain Tsubasa: Rise of New Champions - Mark Owairan | 167745 | [167745-captain-tsubasa-rise-of-new-champions-mark-owairan.json](./167745-captain-tsubasa-rise-of-new-champions-mark-owairan.json) |
 | Captain Tsubasa: Rise of New Champions - Pepe | 167743 | [167743-captain-tsubasa-rise-of-new-champions-pepe.json](./167743-captain-tsubasa-rise-of-new-champions-pepe.json) |
@@ -2265,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Stefan Levin | 167744 | [167744-captain-tsubasa-rise-of-new-champions-stefan-levin.json](./167744-captain-tsubasa-rise-of-new-champions-stefan-levin.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Taichi Nakanishi | 167739 | [167739-captain-tsubasa-rise-of-new-champions-taichi-nakanishi.json](./167739-captain-tsubasa-rise-of-new-champions-taichi-nakanishi.json) |
+| Captain Tsubasa: Rise of New Champions - Taro Misaki Mission | 196200 | [196200-captain-tsubasa-rise-of-new-champions-taro-misaki-mission.json](./196200-captain-tsubasa-rise-of-new-champions-taro-misaki-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Xiao Junguang | 167741 | [167741-captain-tsubasa-rise-of-new-champions-xiao-junguang.json](./167741-captain-tsubasa-rise-of-new-champions-xiao-junguang.json) |
@@ -2434,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Drift Racing Game Pro | 360239 | [360239-car-drift-racing-game-pro.json](./360239-car-drift-racing-game-pro.json) |
 | Car Drive | 149842 | [149842-car-drive.json](./149842-car-drive.json) |
 | Car Driver 5 | 414471 | [414471-car-driver-5.json](./414471-car-driver-5.json) |
+| Car Driver Ultimate | 196179 | [196179-car-driver-ultimate.json](./196179-car-driver-ultimate.json) |
 | Car Driving School Simulator | 90233 | [90233-car-driving-school-simulator.json](./90233-car-driving-school-simulator.json) |
 | Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
 | Car Eats Car | 429516 | [429516-car-eats-car.json](./429516-car-eats-car.json) |
@@ -10555,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | Citizens of Earth | 8598 | [8598-citizens-of-earth.json](./8598-citizens-of-earth.json) |
 | Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
+| Citizens: Far Lands | 171100 | [171100-citizens-far-lands.json](./171100-citizens-far-lands.json) |
 | Citizens: On Mars | 249037 | [249037-citizens-on-mars.json](./249037-citizens-on-mars.json) |
 | Citres | 274515 | [274515-citres.json](./274515-citres.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
@@ -10662,6 +10668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
 | City Island 3 - Building Sim | 87426 | [87426-city-island-3-building-sim.json](./87426-city-island-3-building-sim.json) |
 | City Island 4 | 88498 | [88498-city-island-4.json](./88498-city-island-4.json) |
+| City Island 5 | 181960 | [181960-city-island-5.json](./181960-city-island-5.json) |
 | City Island 6: Building Life | 293302 | [293302-city-island-6-building-life.json](./293302-city-island-6-building-life.json) |
 | City Island: Paradise Sim | 181653 | [181653-city-island-paradise-sim.json](./181653-city-island-paradise-sim.json) |
 | City Killer | 92884 | [92884-city-killer.json](./92884-city-killer.json) |
@@ -14961,6 +14968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
 | Common Wealth | 294942 | [294942-common-wealth.json](./294942-common-wealth.json) |
 | Common'hood | 111600 | [111600-commonhood.json](./111600-commonhood.json) |
+| Commoners | 164038 | [164038-commoners.json](./164038-commoners.json) |
 | Commonplace | 205594 | [205594-commonplace.json](./205594-commonplace.json) |
 | Commonwealth Games | 13705 | [13705-commonwealth-games.json](./13705-commonwealth-games.json) |
 | Commune Corvidae | 142399 | [142399-commune-corvidae.json](./142399-commune-corvidae.json) |
@@ -16439,6 +16447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Dash Deluxe | 361999 | [361999-cooking-dash-deluxe.json](./361999-cooking-dash-deluxe.json) |
 | Cooking Dash: DinerTown Studios | 142003 | [142003-cooking-dash-dinertown-studios.json](./142003-cooking-dash-dinertown-studios.json) |
 | Cooking Dash: Thrills & Spills Deluxe | 362000 | [362000-cooking-dash-thrills-and-spills-deluxe.json](./362000-cooking-dash-thrills-and-spills-deluxe.json) |
+| Cooking Diary: Restaurant Game | 181956 | [181956-cooking-diary-restaurant-game.json](./181956-cooking-diary-restaurant-game.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
 | Cooking Dream | 227455 | [227455-cooking-dream.json](./227455-cooking-dream.json) |
 | Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
@@ -17641,6 +17650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Guardian Force Saturn Tribute: Special Edition | 166980 | [166980-cotton-guardian-force-saturn-tribute-special-edition.json](./166980-cotton-guardian-force-saturn-tribute-special-edition.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Plicker | 364135 | [364135-cotton-plicker.json](./364135-cotton-plicker.json) |
+| Cotton Reboot!: Limited Edition | 166245 | [166245-cotton-reboot-limited-edition.json](./166245-cotton-reboot-limited-edition.json) |
 | Cotton Rock 'n' Roll: 30th Anniversary - Limited Edition | 153648 | [153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json](./153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json) |
 | Cotton Rock n Roll 2 | 336949 | [336949-cotton-rock-n-roll-2.json](./336949-cotton-rock-n-roll-2.json) |
 | Cotton Rock with You: Oriental Night Dreams | 409886 | [409886-cotton-rock-with-you-oriental-night-dreams.json](./409886-cotton-rock-with-you-oriental-night-dreams.json) |
@@ -21534,6 +21544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
 | Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
+| Crystal sword | 164032 | [164032-crystal-sword.json](./164032-crystal-sword.json) |
 | Crystal Tales Tactics: Echoes of the Libertas War | 212090 | [212090-crystal-tales-tactics-echoes-of-the-libertas-war.json](./212090-crystal-tales-tactics-echoes-of-the-libertas-war.json) |
 | Crystal the Witch | 133705 | [133705-crystal-the-witch.json](./133705-crystal-the-witch.json) |
 | Crystal Tower Defense | 251998 | [251998-crystal-tower-defense.json](./251998-crystal-tower-defense.json) |
