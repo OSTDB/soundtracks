@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tartaria: The forgotten tale | 192554 | [192554-tartaria-the-forgotten-tale.json](./192554-tartaria-the-forgotten-tale.json) |
 | Tartaron | 167429 | [167429-tartaron.json](./167429-tartaron.json) |
 | Tartaros | 320403 | [320403-tartaros.json](./320403-tartaros.json) |
+| Tartaros | 79399 | [79399-tartaros.json](./79399-tartaros.json) |
 | Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
 | Tartarus Engine | 357513 | [357513-tartarus-engine.json](./357513-tartarus-engine.json) |
@@ -4196,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Revi | 248941 | [248941-temple-of-revi.json](./248941-temple-of-revi.json) |
 | Temple of ROM | 42132 | [42132-temple-of-rom.json](./42132-temple-of-rom.json) |
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
+| Temple of Rust | 106020 | [106020-temple-of-rust.json](./106020-temple-of-rust.json) |
 | Temple of Sandur | 376454 | [376454-temple-of-sandur.json](./376454-temple-of-sandur.json) |
 | Temple of Shadows | 301417 | [301417-temple-of-shadows.json](./301417-temple-of-shadows.json) |
 | Temple Of Snek | 127777 | [127777-temple-of-snek.json](./127777-temple-of-snek.json) |
@@ -8360,6 +8362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Come Up | 116587 | [116587-the-come-up.json](./116587-the-come-up.json) |
 | The Comeback King | 400273 | [400273-the-comeback-king.json](./400273-the-comeback-king.json) |
 | The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
+| The Comet Game | 79411 | [79411-the-comet-game.json](./79411-the-comet-game.json) |
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Commission 1920 | 143304 | [143304-the-commission-1920.json](./143304-the-commission-1920.json) |
@@ -10339,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
 | The Fall of the Kingdom | 179509 | [179509-the-fall-of-the-kingdom.json](./179509-the-fall-of-the-kingdom.json) |
 | The Fall: Act I | 318971 | [318971-the-fall-act-i.json](./318971-the-fall-act-i.json) |
+| The Fall: Last Days of Gaia | 76775 | [76775-the-fall-last-days-of-gaia.json](./76775-the-fall-last-days-of-gaia.json) |
 | The Fall: Mutant City | 304254 | [304254-the-fall-mutant-city.json](./304254-the-fall-mutant-city.json) |
 | The Fall: Zombie Survival | 365218 | [365218-the-fall-zombie-survival.json](./365218-the-fall-zombie-survival.json) |
 | The Fallen | 130104 | [130104-the-fallen.json](./130104-the-fallen.json) |
@@ -17312,6 +17316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Radio Wave Bureau | 280433 | [280433-the-radio-wave-bureau.json](./280433-the-radio-wave-bureau.json) |
 | The Raft | 36788 | [36788-the-raft.json](./36788-the-raft.json) |
 | The Ragdoll | 108272 | [108272-the-ragdoll.json](./108272-the-ragdoll.json) |
+| The Rage | 76756 | [76756-the-rage.json](./76756-the-rage.json) |
 | The Rage of Valhalla | 213779 | [213779-the-rage-of-valhalla.json](./213779-the-rage-of-valhalla.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Raiden Project | 20301 | [20301-the-raiden-project.json](./20301-the-raiden-project.json) |
@@ -19556,6 +19561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Food | 246983 | [246983-the-tale-of-food.json](./246983-the-tale-of-food.json) |
 | The Tale of Galariel | 228304 | [228304-the-tale-of-galariel.json](./228304-the-tale-of-galariel.json) |
 | The Tale of Greenbrier | 117819 | [117819-the-tale-of-greenbrier.json](./117819-the-tale-of-greenbrier.json) |
+| The Tale of Imerion | 79421 | [79421-the-tale-of-imerion.json](./79421-the-tale-of-imerion.json) |
 | The Tale of Knightess Milia | 82922 | [82922-the-tale-of-knightess-milia.json](./82922-the-tale-of-knightess-milia.json) |
 | The Tale of Lukas | 178188 | [178188-the-tale-of-lukas.json](./178188-the-tale-of-lukas.json) |
 | The Tale of Lumi | 263990 | [263990-the-tale-of-lumi.json](./263990-the-tale-of-lumi.json) |
@@ -22402,6 +22408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third World War | 46408 | [46408-third-world-war.json](./46408-third-world-war.json) |
 | Third World: The Bottom Dimension | 253830 | [253830-third-world-the-bottom-dimension.json](./253830-third-world-the-bottom-dimension.json) |
 | Third-person Shooter and Platform Jumping and Level-based Adventure | 345931 | [345931-third-person-shooter-and-platform-jumping-and-level-based-adventure.json](./345931-third-person-shooter-and-platform-jumping-and-level-based-adventure.json) |
+| Thirdmage | 99209 | [99209-thirdmage.json](./99209-thirdmage.json) |
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | ThirdPlace: Kon and Pon | 288621 | [288621-thirdplace-kon-and-pon.json](./288621-thirdplace-kon-and-pon.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
@@ -22644,6 +22651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor.n | 77713 | [77713-thor-n.json](./77713-thor-n.json) |
 | Thor's Ascension: Nine Realms | 262770 | [262770-thors-ascension-nine-realms.json](./262770-thors-ascension-nine-realms.json) |
 | Thor's Breakout | 320097 | [320097-thors-breakout.json](./320097-thors-breakout.json) |
+| Thor's Hammer | 79401 | [79401-thors-hammer.json](./79401-thors-hammer.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
 | Thorgal | 290773 | [290773-thorgal.json](./290773-thorgal.json) |
 | Thorgard | 288610 | [288610-thorgard.json](./288610-thorgard.json) |
@@ -22712,6 +22720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
 | Thoughtless | 405814 | [405814-thoughtless.json](./405814-thoughtless.json) |
 | Thoughts | 416575 | [416575-thoughts.json](./416575-thoughts.json) |
+| Thousand | 83060 | [83060-thousand.json](./83060-thousand.json) |
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
 | Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
@@ -35658,6 +35667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucking Star | 188317 | [188317-trucking-star.json](./188317-trucking-star.json) |
 | Trucks | 145381 | [145381-trucks.json](./145381-trucks.json) |
 | Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
+| Trucks and Skulls | 92170 | [92170-trucks-and-skulls.json](./92170-trucks-and-skulls.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
 | TruckSimulation 16 | 99937 | [99937-trucksimulation-16.json](./99937-trucksimulation-16.json) |
