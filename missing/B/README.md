@@ -9291,6 +9291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biodetention | 350109 | [350109-biodetention.json](./350109-biodetention.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | BioDive | 292457 | [292457-biodive.json](./292457-biodive.json) |
+| Biodome Bastion | 417060 | [417060-biodome-bastion.json](./417060-biodome-bastion.json) |
 | Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
 | BioEden | 404905 | [404905-bioeden.json](./404905-bioeden.json) |
 | BioEntity | 82328 | [82328-bioentity.json](./82328-bioentity.json) |
@@ -10823,6 +10824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade Dancer: Lineage of Light | 23115 | [23115-blade-dancer-lineage-of-light.json](./23115-blade-dancer-lineage-of-light.json) |
 | Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
+| Blade Dodger | 417040 | [417040-blade-dodger.json](./417040-blade-dodger.json) |
 | Blade Eagle 3-D | 45663 | [45663-blade-eagle-3-d.json](./45663-blade-eagle-3-d.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Fantasy | 213192 | [213192-blade-fantasy.json](./213192-blade-fantasy.json) |
@@ -17591,6 +17593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewery | 13981 | [13981-brewery.json](./13981-brewery.json) |
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
+| Brewhaha | 417049 | [417049-brewhaha.json](./417049-brewhaha.json) |
 | Brewing Drawings | 184891 | [184891-brewing-drawings.json](./184891-brewing-drawings.json) |
 | Brewing Haus | 267744 | [267744-brewing-haus.json](./267744-brewing-haus.json) |
 | Brewmaster | 145287 | [145287-brewmaster.json](./145287-brewmaster.json) |
@@ -18122,6 +18125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Brixby | 338424 | [338424-brixby.json](./338424-brixby.json) |
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
+| Brixonia | 417024 | [417024-brixonia.json](./417024-brixonia.json) |
 | Brixout XP | 92788 | [92788-brixout-xp.json](./92788-brixout-xp.json) |
 | Brköut | 56602 | [56602-brkout.json](./56602-brkout.json) |
 | Brno Transit | 351502 | [351502-brno-transit.json](./351502-brno-transit.json) |
@@ -21163,6 +21167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte | 301066 | [301066-byte.json](./301066-byte.json) |
 | Byte & Brew | 382729 | [382729-byte-and-brew.json](./382729-byte-and-brew.json) |
+| Byte Bistro | 417062 | [417062-byte-bistro.json](./417062-byte-bistro.json) |
 | Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
 | Byte Breach | 293509 | [293509-byte-breach.json](./293509-byte-breach.json) |
 | Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
