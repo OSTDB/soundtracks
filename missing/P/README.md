@@ -7075,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictorial 2 | 212408 | [212408-pictorial-2.json](./212408-pictorial-2.json) |
 | Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
 | Pictosaurus | 102710 | [102710-pictosaurus.json](./102710-pictosaurus.json) |
+| Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
 | Pictura | 164072 | [164072-pictura.json](./164072-pictura.json) |
 | Picture Builder | 200617 | [200617-picture-builder.json](./200617-picture-builder.json) |
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
@@ -11920,6 +11921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pusher: The Citadel | 316387 | [316387-pocket-pusher-the-citadel.json](./316387-pocket-pusher-the-citadel.json) |
 | Pocket Pusher: The Warehouse | 298273 | [298273-pocket-pusher-the-warehouse.json](./298273-pocket-pusher-the-warehouse.json) |
 | Pocket Puyo Puyo Sun | 86739 | [86739-pocket-puyo-puyo-sun.json](./86739-pocket-puyo-puyo-sun.json) |
+| Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
 | Pocket Puyo Puyo~n | 249125 | [249125-pocket-puyo-puyo-n.json](./249125-pocket-puyo-puyo-n.json) |
 | Pocket Puzzle | 249935 | [249935-pocket-puzzle.json](./249935-pocket-puzzle.json) |
 | Pocket Quest | 225207 | [225207-pocket-quest.json](./225207-pocket-quest.json) |
