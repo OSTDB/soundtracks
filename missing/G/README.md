@@ -5564,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade: Inceptions Puzzle Pack | 163498 | [163498-glass-masquerade-inceptions-puzzle-pack.json](./163498-glass-masquerade-inceptions-puzzle-pack.json) |
 | Glass Masquerade: Lunar Year Puzzle | 163496 | [163496-glass-masquerade-lunar-year-puzzle.json](./163496-glass-masquerade-lunar-year-puzzle.json) |
 | Glass Masquerade: Origins | 239953 | [239953-glass-masquerade-origins.json](./239953-glass-masquerade-origins.json) |
+| Glass of Water | 415531 | [415531-glass-of-water.json](./415531-glass-of-water.json) |
 | Glass Painting: Winter Art | 111942 | [111942-glass-painting-winter-art.json](./111942-glass-painting-winter-art.json) |
 | Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
@@ -6579,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat's Tale Plus | 187173 | [187173-goats-tale-plus.json](./187173-goats-tale-plus.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
 | GoatCart | 409178 | [409178-goatcart.json](./409178-goatcart.json) |
+| GOATier.io | 414528 | [414528-goatier-io.json](./414528-goatier-io.json) |
 | Goatlings | 166460 | [166460-goatlings.json](./166460-goatlings.json) |
 | GoatPunks | 33929 | [33929-goatpunks.json](./33929-goatpunks.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
@@ -7601,7 +7603,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem Builder | 235401 | [235401-golem-builder.json](./235401-golem-builder.json) |
 | Golem Creation Kit | 54990 | [54990-golem-creation-kit.json](./54990-golem-creation-kit.json) |
 | Golem Epic Adventures | 238297 | [238297-golem-epic-adventures.json](./238297-golem-epic-adventures.json) |
-| Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
 | Golem no Maigo | 64705 | [64705-golem-no-maigo.json](./64705-golem-no-maigo.json) |
 | Golem Rage | 96378 | [96378-golem-rage.json](./96378-golem-rage.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
@@ -10935,6 +10936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimtale Island | 55278 | [55278-grimtale-island.json](./55278-grimtale-island.json) |
 | Grimtrace | 383197 | [383197-grimtrace.json](./383197-grimtrace.json) |
 | Grimvalor | 110417 | [110417-grimvalor.json](./110417-grimvalor.json) |
+| Grimvane | 416297 | [416297-grimvane.json](./416297-grimvane.json) |
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
 | Grimwalker | 244887 | [244887-grimwalker.json](./244887-grimwalker.json) |
 | Grimwar | 343915 | [343915-grimwar.json](./343915-grimwar.json) |
@@ -13032,6 +13034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutterspace | 385962 | [385962-gutterspace.json](./385962-gutterspace.json) |
 | Gutting Goblins! | 173066 | [173066-gutting-goblins.json](./173066-gutting-goblins.json) |
 | Gutz | 13863 | [13863-gutz.json](./13863-gutz.json) |
+| Gutz | 413283 | [413283-gutz.json](./413283-gutz.json) |
 | Guucho de Park: Theme Park Monogatari | 410438 | [410438-guucho-de-park-theme-park-monogatari.json](./410438-guucho-de-park-theme-park-monogatari.json) |
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
 | Guus is Jarig | 350016 | [350016-guus-is-jarig.json](./350016-guus-is-jarig.json) |
