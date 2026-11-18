@@ -3258,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virüs Saldırısı | 346464 | [346464-virus-sald-r-s.json](./346464-virus-sald-r-s.json) |
 | Virus Shooter XX | 65317 | [65317-virus-shooter-xx.json](./65317-virus-shooter-xx.json) |
 | Virus Survivor | 368201 | [368201-virus-survivor.json](./368201-virus-survivor.json) |
+| Virus Wars | 22867 | [22867-virus-wars.json](./22867-virus-wars.json) |
 | Virus X | 407840 | [407840-virus-x.json](./407840-virus-x.json) |
 | Virus Z | 43098 | [43098-virus-z.json](./43098-virus-z.json) |
 | Virus-Farm | 80025 | [80025-virus-farm.json](./80025-virus-farm.json) |
