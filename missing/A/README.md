@@ -6008,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agustín Malandra TCG | 418177 | [418177-agustin-malandra-tcg.json](./418177-agustin-malandra-tcg.json) |
 | AGwaK Adventures | 313574 | [313574-agwak-adventures.json](./313574-agwak-adventures.json) |
 | AGX GP | 387614 | [387614-agx-gp.json](./387614-agx-gp.json) |
+| Agyaat | 376368 | [376368-agyaat.json](./376368-agyaat.json) |
 | Ah Diddums | 13940 | [13940-ah-diddums.json](./13940-ah-diddums.json) |
 | Ah Eikou No Koushien | 39536 | [39536-ah-eikou-no-koushien.json](./39536-ah-eikou-no-koushien.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
