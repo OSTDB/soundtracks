@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander III | 337029 | [337029-salamander-iii.json](./337029-salamander-iii.json) |
 | Salamander Portable | 42869 | [42869-salamander-portable.json](./42869-salamander-portable.json) |
 | Salamander: The Lost Kitty | 178893 | [178893-salamander-the-lost-kitty.json](./178893-salamander-the-lost-kitty.json) |
+| Salammbo: Battle for Carthage | 36310 | [36310-salammbo-battle-for-carthage.json](./36310-salammbo-battle-for-carthage.json) |
 | Salann | 379033 | [379033-salann.json](./379033-salann.json) |
 | Salary Man Champ Tatakau Salary man | 383718 | [383718-salary-man-champ-tatakau-salary-man.json](./383718-salary-man-champ-tatakau-salary-man.json) |
 | Salary Man Escape | 104678 | [104678-salary-man-escape.json](./104678-salary-man-escape.json) |
@@ -2858,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior Syndrome: The Crimson Sun | 377929 | [377929-savior-syndrome-the-crimson-sun.json](./377929-savior-syndrome-the-crimson-sun.json) |
 | Savior's Hand | 313022 | [313022-saviors-hand.json](./313022-saviors-hand.json) |
 | Saviorless | 25338 | [25338-saviorless.json](./25338-saviorless.json) |
+| Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
 | Saviors of Sapphire Wings/Stranger of Sword City Revisited | 138763 | [138763-saviors-of-sapphire-wings-stranger-of-sword-city-revisited.json](./138763-saviors-of-sapphire-wings-stranger-of-sword-city-revisited.json) |
 | Saviors of Sapphire Wings/Stranger of Sword City Revisited: Limited Edition | 138565 | [138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json](./138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json) |
@@ -5230,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Havendor | 374382 | [374382-secret-of-havendor.json](./374382-secret-of-havendor.json) |
 | Secret of Kandar | 60267 | [60267-secret-of-kandar.json](./60267-secret-of-kandar.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
+| Secret of Magia | 34597 | [34597-secret-of-magia.json](./34597-secret-of-magia.json) |
 | Secret of Mana Turbo | 259893 | [259893-secret-of-mana-turbo.json](./259893-secret-of-mana-turbo.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of Qwerty | 124581 | [124581-secret-of-qwerty.json](./124581-secret-of-qwerty.json) |
@@ -9192,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes Consulting Detective Complete | 147288 | [147288-sherlock-holmes-consulting-detective-complete.json](./147288-sherlock-holmes-consulting-detective-complete.json) |
 | Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
 | Sherlock Holmes Consulting Detective: The Case of Banker's Final Debt | 259177 | [259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json](./259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json) |
+| Sherlock Holmes Consulting Detective: The Case of the Mystified Murderess | 35063 | [35063-sherlock-holmes-consulting-detective-the-case-of-the-mystified-murderess.json](./35063-sherlock-holmes-consulting-detective-the-case-of-the-mystified-murderess.json) |
 | Sherlock Holmes Consulting Detective: Volume III | 73685 | [73685-sherlock-holmes-consulting-detective-volume-iii.json](./73685-sherlock-holmes-consulting-detective-volume-iii.json) |
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
@@ -10240,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
+| Shock Troopers | 35377 | [35377-shock-troopers.json](./35377-shock-troopers.json) |
 | Shock Troopers | 47598 | [47598-shock-troopers.json](./47598-shock-troopers.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
 | Shock Troops | 212303 | [212303-shock-troops.json](./212303-shock-troops.json) |
@@ -10315,6 +10320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun Soul: Legendary Puzzle | 330615 | [330615-shogun-soul-legendary-puzzle.json](./330615-shogun-soul-legendary-puzzle.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
+| Shogun: Total War - Gold Edition | 35893 | [35893-shogun-total-war-gold-edition.json](./35893-shogun-total-war-gold-edition.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
 | Shogun: Total War - Warlord Edition | 206025 | [206025-shogun-total-war-warlord-edition.json](./206025-shogun-total-war-warlord-edition.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
@@ -10799,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun II: Double Barrel | 321233 | [321233-shotgun-ii-double-barrel.json](./321233-shotgun-ii-double-barrel.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
 | Shotgun Knight | 244603 | [244603-shotgun-knight.json](./244603-shotgun-knight.json) |
+| Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shotgun Mario 64 | 273745 | [273745-shotgun-mario-64.json](./273745-shotgun-mario-64.json) |
 | Shotgun n Zombies | 131664 | [131664-shotgun-n-zombies.json](./131664-shotgun-n-zombies.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
@@ -13237,6 +13244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinkr 2 | 111667 | [111667-sinkr-2.json](./111667-sinkr-2.json) |
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | SinkSub | 61013 | [61013-sinksub.json](./61013-sinksub.json) |
+| Sinless | 36004 | [36004-sinless.json](./36004-sinless.json) |
 | Sinless Night | 172943 | [172943-sinless-night.json](./172943-sinless-night.json) |
 | Sinless: Remastered | 197237 | [197237-sinless-remastered.json](./197237-sinless-remastered.json) |
 | Sinned | 217411 | [217411-sinned.json](./217411-sinned.json) |
@@ -15187,6 +15195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sledding Game | 327758 | [327758-sledding-game.json](./327758-sledding-game.json) |
 | Sledge | 310868 | [310868-sledge.json](./310868-sledge.json) |
 | Sledge 3D | 44303 | [44303-sledge-3d.json](./44303-sledge-3d.json) |
+| Sledgehammer | 36369 | [36369-sledgehammer.json](./36369-sledgehammer.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
 | Sleengster | 30412 | [30412-sleengster.json](./30412-sleengster.json) |
 | Sleengster 2 | 30403 | [30403-sleengster-2.json](./30403-sleengster-2.json) |
@@ -25480,6 +25489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
 | Spleen | 118140 | [118140-spleen.json](./118140-spleen.json) |
 | Spleen | 419990 | [419990-spleen.json](./419990-spleen.json) |
+| Splendor | 35058 | [35058-splendor.json](./35058-splendor.json) |
 | Splendor & Misery | 385439 | [385439-splendor-and-misery.json](./385439-splendor-and-misery.json) |
 | Splendor Blast | 40164 | [40164-splendor-blast.json](./40164-splendor-blast.json) |
 | Splendor Blast II | 267759 | [267759-splendor-blast-ii.json](./267759-splendor-blast-ii.json) |
@@ -25765,6 +25775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
 | Spooky Bodies | 343392 | [343392-spooky-bodies.json](./343392-spooky-bodies.json) |
+| Spooky Bonus | 34804 | [34804-spooky-bonus.json](./34804-spooky-bonus.json) |
 | Spooky Bricks | 192582 | [192582-spooky-bricks.json](./192582-spooky-bricks.json) |
 | Spooky Bundle: From Shadow & Apocalipsis | 267773 | [267773-spooky-bundle-from-shadow-and-apocalipsis.json](./267773-spooky-bundle-from-shadow-and-apocalipsis.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
@@ -29466,6 +29477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay | 261689 | [261689-stay.json](./261689-stay.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
 | STAY | 150507 | [150507-stay.json](./150507-stay.json) |
+| Stay Alight | 35890 | [35890-stay-alight.json](./35890-stay-alight.json) |
 | Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
 | Stay Alive | 201419 | [201419-stay-alive.json](./201419-stay-alive.json) |
 | Stay Alive | 242832 | [242832-stay-alive.json](./242832-stay-alive.json) |
@@ -29963,6 +29975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep X Games: Gold Edition | 164854 | [164854-steep-x-games-gold-edition.json](./164854-steep-x-games-gold-edition.json) |
 | Steep: Extreme Pack | 168476 | [168476-steep-extreme-pack.json](./168476-steep-extreme-pack.json) |
 | Steep: Gold Edition | 53668 | [53668-steep-gold-edition.json](./53668-steep-gold-edition.json) |
+| Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steep: Rocket Wings DLC | 168475 | [168475-steep-rocket-wings-dlc.json](./168475-steep-rocket-wings-dlc.json) |
 | Steep: Winter Games - Gold Edition | 202879 | [202879-steep-winter-games-gold-edition.json](./202879-steep-winter-games-gold-edition.json) |
 | Steep: Winter Games Edition | 83776 | [83776-steep-winter-games-edition.json](./83776-steep-winter-games-edition.json) |
@@ -33406,6 +33419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Sticks | 88552 | [88552-sudden-sticks.json](./88552-sudden-sticks.json) |
 | Sudden Strike | 11794 | [11794-sudden-strike.json](./11794-sudden-strike.json) |
 | Sudden Strike 2 | 22063 | [22063-sudden-strike-2.json](./22063-sudden-strike-2.json) |
+| Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
 | Sudden Strike 3: The Last Stand | 155243 | [155243-sudden-strike-3-the-last-stand.json](./155243-sudden-strike-3-the-last-stand.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
@@ -35914,6 +35928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Killer Hornet: Resurrection | 10932 | [10932-super-killer-hornet-resurrection.json](./10932-super-killer-hornet-resurrection.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kingcrab Simulator | 345804 | [345804-super-kingcrab-simulator.json](./345804-super-kingcrab-simulator.json) |
+| Super Kinky | 37386 | [37386-super-kinky.json](./37386-super-kinky.json) |
 | Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
 | Super Kit: To the Top | 207643 | [207643-super-kit-to-the-top.json](./207643-super-kit-to-the-top.json) |
 | Super Kittens | 138489 | [138489-super-kittens.json](./138489-super-kittens.json) |
@@ -39690,6 +39705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap: Mobile Edition | 250439 | [250439-swap-mobile-edition.json](./250439-swap-mobile-edition.json) |
 | Swap! Swap! Swap! | 106405 | [106405-swap-swap-swap.json](./106405-swap-swap-swap.json) |
 | Swap. | 232037 | [232037-swap.json](./232037-swap.json) |
+| Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swapdown | 266054 | [266054-swapdown.json](./266054-swapdown.json) |
 | Swaperoo | 46973 | [46973-swaperoo.json](./46973-swaperoo.json) |
 | Swapette Showdown | 108706 | [108706-swapette-showdown.json](./108706-swapette-showdown.json) |
@@ -40861,6 +40877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphonia: Student Project, 2020 | 135508 | [135508-symphonia-student-project-2020.json](./135508-symphonia-student-project-2020.json) |
 | Symphonic Mayhem | 110631 | [110631-symphonic-mayhem.json](./110631-symphonic-mayhem.json) |
 | Symphonic Rain | 262202 | [262202-symphonic-rain.json](./262202-symphonic-rain.json) |
+| Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonica 64 | 110266 | [110266-symphonica-64.json](./110266-symphonica-64.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
