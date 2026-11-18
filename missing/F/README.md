@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faker Crime: Elysion | 82709 | [82709-faker-crime-elysion.json](./82709-faker-crime-elysion.json) |
 | Fakespearean: Overdramatic | 118254 | [118254-fakespearean-overdramatic.json](./118254-fakespearean-overdramatic.json) |
 | Fakeway | 268292 | [268292-fakeway.json](./268292-fakeway.json) |
+| Fakin It XL | 422318 | [422318-fakin-it-xl.json](./422318-fakin-it-xl.json) |
 | Fakin' It All Night Long | 376219 | [376219-fakin-it-all-night-long.json](./376219-fakin-it-all-night-long.json) |
 | Fakutori | 309309 | [309309-fakutori.json](./309309-fakutori.json) |
 | Falafel King | 416735 | [416735-falafel-king.json](./416735-falafel-king.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falco Tunes | 301843 | [301843-falco-tunes.json](./301843-falco-tunes.json) |
 | Falco Xolon | 330474 | [330474-falco-xolon.json](./330474-falco-xolon.json) |
 | Falcom Classics | 78765 | [78765-falcom-classics.json](./78765-falcom-classics.json) |
+| Falcom Classics II | 70504 | [70504-falcom-classics-ii.json](./70504-falcom-classics-ii.json) |
 | Falcomaster3000: Episode 1 | 179605 | [179605-falcomaster3000-episode-1.json](./179605-falcomaster3000-episode-1.json) |
 | Falcon | 12088 | [12088-falcon.json](./12088-falcon.json) |
 | Falcon | 214900 | [214900-falcon.json](./214900-falcon.json) |
@@ -1041,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Down | 96230 | [96230-fall-down.json](./96230-fall-down.json) |
 | Fall Down! Deluxe | 234493 | [234493-fall-down-deluxe.json](./234493-fall-down-deluxe.json) |
 | Fall Dudes 3D | 136946 | [136946-fall-dudes-3d.json](./136946-fall-dudes-3d.json) |
+| Fall Fear Fly Redemption | 55396 | [55396-fall-fear-fly-redemption.json](./55396-fall-fear-fly-redemption.json) |
 | Fall for Greed | 145255 | [145255-fall-for-greed.json](./145255-fall-for-greed.json) |
 | Fall For You | 190760 | [190760-fall-for-you.json](./190760-fall-for-you.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
@@ -1798,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud: Decades | 6679 | [6679-family-feud-decades.json](./6679-family-feud-decades.json) |
 | Family Fishing | 85644 | [85644-family-fishing.json](./85644-family-fishing.json) |
 | Family Fitness Challenge | 421396 | [421396-family-fitness-challenge.json](./421396-family-fitness-challenge.json) |
+| Family Fortunes | 67561 | [67561-family-fortunes.json](./67561-family-fortunes.json) |
 | Family Fun Football | 50651 | [50651-family-fun-football.json](./50651-family-fun-football.json) |
 | Family Fun Game Collection | 209247 | [209247-family-fun-game-collection.json](./209247-family-fun-game-collection.json) |
 | Family Fun Pack | 100092 | [100092-family-fun-pack.json](./100092-family-fun-pack.json) |
@@ -3415,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Gear | 358998 | [358998-fast-gear.json](./358998-fast-gear.json) |
 | Fast Hands | 411239 | [411239-fast-hands.json](./411239-fast-hands.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
+| Fast Lane | 46829 | [46829-fast-lane.json](./46829-fast-lane.json) |
 | Fast Lane Bowling | 198739 | [198739-fast-lane-bowling.json](./198739-fast-lane-bowling.json) |
 | Fast Lane Carnage | 54021 | [54021-fast-lane-carnage.json](./54021-fast-lane-carnage.json) |
 | Fast Lane! The Spice Engineering Challenge | 60684 | [60684-fast-lane-the-spice-engineering-challenge.json](./60684-fast-lane-the-spice-engineering-challenge.json) |
@@ -3876,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatty In Trouble | 238398 | [238398-fatty-in-trouble.json](./238398-fatty-in-trouble.json) |
 | Fatty Maze's Adventures | 35723 | [35723-fatty-mazes-adventures.json](./35723-fatty-mazes-adventures.json) |
+| Fatty Rabbit Hole | 55378 | [55378-fatty-rabbit-hole.json](./55378-fatty-rabbit-hole.json) |
 | Fatty Shark | 179340 | [179340-fatty-shark.json](./179340-fatty-shark.json) |
 | Fatum | 407302 | [407302-fatum.json](./407302-fatum.json) |
 | Fatum Betula | 133175 | [133175-fatum-betula.json](./133175-fatum-betula.json) |
@@ -6015,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Kick | 137712 | [137712-final-kick.json](./137712-final-kick.json) |
 | Final Knight | 219308 | [219308-final-knight.json](./219308-final-knight.json) |
 | Final Lap | 218367 | [218367-final-lap.json](./218367-final-lap.json) |
+| Final Lap | 46830 | [46830-final-lap.json](./46830-final-lap.json) |
 | Final Lap 2 | 255651 | [255651-final-lap-2.json](./255651-final-lap-2.json) |
 | Final Lap 2000 | 185719 | [185719-final-lap-2000.json](./185719-final-lap-2000.json) |
 | Final Lap 3 | 337555 | [337555-final-lap-3.json](./337555-final-lap-3.json) |
@@ -7774,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist Fighter | 41007 | [41007-fist-fighter.json](./41007-fist-fighter.json) |
 | Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
+| Fist II: The Legend Continues | 40954 | [40954-fist-ii-the-legend-continues.json](./40954-fist-ii-the-legend-continues.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of Brave | 86231 | [86231-fist-of-brave.json](./86231-fist-of-brave.json) |
 | Fist of Fury | 344295 | [344295-fist-of-fury.json](./344295-fist-of-fury.json) |
@@ -7866,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing | 103371 | [103371-fitness-boxing.json](./103371-fitness-boxing.json) |
 | Fitness Boxing 2: Rhythm & Exercise | 138952 | [138952-fitness-boxing-2-rhythm-and-exercise.json](./138952-fitness-boxing-2-rhythm-and-exercise.json) |
 | Fitness Boxing 3: Your Personal Trainer | 314941 | [314941-fitness-boxing-3-your-personal-trainer.json](./314941-fitness-boxing-3-your-personal-trainer.json) |
+| Fitness Boxing 3: Your Personal Trainer - Nintendo Switch 2 Edition | 402033 | [402033-fitness-boxing-3-your-personal-trainer-nintendo-switch-2-edition.json](./402033-fitness-boxing-3-your-personal-trainer-nintendo-switch-2-edition.json) |
 | Fitness Boxing feat. Hatsune Miku | 266725 | [266725-fitness-boxing-feat-hatsune-miku.json](./266725-fitness-boxing-feat-hatsune-miku.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Boxing: Fist of the North Star - Expansion Pack | 279869 | [279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json](./279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json) |
@@ -9983,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Tank | 260602 | [260602-flying-tank.json](./260602-flying-tank.json) |
 | Flying Things | 151402 | [151402-flying-things.json](./151402-flying-things.json) |
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
+| Flying Tiger | 46828 | [46828-flying-tiger.json](./46828-flying-tiger.json) |
 | Flying Tigers | 269764 | [269764-flying-tigers.json](./269764-flying-tigers.json) |
 | Flying Tigers II | 269763 | [269763-flying-tigers-ii.json](./269763-flying-tigers-ii.json) |
 | Flying Tigers: Shadows Over China | 35361 | [35361-flying-tigers-shadows-over-china.json](./35361-flying-tigers-shadows-over-china.json) |
@@ -13403,6 +13413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
 | FreeFlight | 95153 | [95153-freeflight.json](./95153-freeflight.json) |
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
+| FreeFly Burning | 55397 | [55397-freefly-burning.json](./55397-freefly-burning.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
 | FreeGen | 290380 | [290380-freegen.json](./290380-freegen.json) |
 | Freegglers | 185159 | [185159-freegglers.json](./185159-freegglers.json) |
@@ -14225,6 +14236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogs | 229253 | [229253-frogs.json](./229253-frogs.json) |
 | Frogs | 318688 | [318688-frogs.json](./318688-frogs.json) |
 | Frogs | 394324 | [394324-frogs.json](./394324-frogs.json) |
+| Frogs | 46803 | [46803-frogs.json](./46803-frogs.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogs In Love | 79986 | [79986-frogs-in-love.json](./79986-frogs-in-love.json) |
 | Frogs vs. Storks | 10336 | [10336-frogs-vs-storks.json](./10336-frogs-vs-storks.json) |
@@ -14584,6 +14596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrostPanic: Whispers of Sertão | 258657 | [258657-frostpanic-whispers-of-sertao.json](./258657-frostpanic-whispers-of-sertao.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
+| Frostpunk 2: Breach of Trust | 397575 | [397575-frostpunk-2-breach-of-trust.json](./397575-frostpunk-2-breach-of-trust.json) |
 | Frostpunk 2: Deluxe Edition | 376982 | [376982-frostpunk-2-deluxe-edition.json](./376982-frostpunk-2-deluxe-edition.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
 | Frostpunk Pico | 284128 | [284128-frostpunk-pico.json](./284128-frostpunk-pico.json) |
@@ -15557,6 +15570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fur Squadron Phoenix | 275562 | [275562-fur-squadron-phoenix.json](./275562-fur-squadron-phoenix.json) |
 | Fur the Game | 100427 | [100427-fur-the-game.json](./100427-fur-the-game.json) |
+| Fur Up | 55414 | [55414-fur-up.json](./55414-fur-up.json) |
 | Fura-fura Bouken Flan-chan | 205069 | [205069-fura-fura-bouken-flan-chan.json](./205069-fura-fura-bouken-flan-chan.json) |
 | Fura-fura Bouken Flan-chan: Kaizoku Zaihou Tanken-tai | 205070 | [205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json](./205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json) |
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
