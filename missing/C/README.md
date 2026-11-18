@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Me Demon Lord | 196390 | [196390-call-me-demon-lord.json](./196390-call-me-demon-lord.json) |
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
 | Call Me Hero | 305924 | [305924-call-me-hero.json](./305924-call-me-hero.json) |
+| Call Me Master | 320427 | [320427-call-me-master.json](./320427-call-me-master.json) |
 | Call Me Psycho | 13988 | [13988-call-me-psycho.json](./13988-call-me-psycho.json) |
 | Call Me Skyfish | 54334 | [54334-call-me-skyfish.json](./54334-call-me-skyfish.json) |
 | Call Me Under | 154649 | [154649-call-me-under.json](./154649-call-me-under.json) |
@@ -4860,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat World | 201988 | [201988-cat-world.json](./201988-cat-world.json) |
 | Cat-a-strophic | 354914 | [354914-cat-a-strophic.json](./354914-cat-a-strophic.json) |
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
+| Cat-Astrophy | 318082 | [318082-cat-astrophy.json](./318082-cat-astrophy.json) |
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
 | Cat-Like Concentration | 276721 | [276721-cat-like-concentration.json](./276721-cat-like-concentration.json) |
 | Cat-o-Combo!! | 117431 | [117431-cat-o-combo.json](./117431-cat-o-combo.json) |
@@ -13979,6 +13981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
 | Color War | 158846 | [158846-color-war.json](./158846-color-war.json) |
 | Color Wars | 99908 | [99908-color-wars.json](./99908-color-wars.json) |
+| Color Water Sort | 302262 | [302262-color-water-sort.json](./302262-color-water-sort.json) |
 | Color Water Sort: Calm | 302298 | [302298-color-water-sort-calm.json](./302298-color-water-sort-calm.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Water Sort: Fast | 302299 | [302299-color-water-sort-fast.json](./302299-color-water-sort-fast.json) |
@@ -17880,6 +17883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CounterSpy | 7612 | [7612-counterspy.json](./7612-counterspy.json) |
 | Counterweight | 412316 | [412316-counterweight.json](./412316-counterweight.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
+| Countess in Crimson: The Black Dawn | 318076 | [318076-countess-in-crimson-the-black-dawn.json](./318076-countess-in-crimson-the-black-dawn.json) |
 | Countess Thalia Solitaire | 99309 | [99309-countess-thalia-solitaire.json](./99309-countess-thalia-solitaire.json) |
 | Counties Work | 207836 | [207836-counties-work.json](./207836-counties-work.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
@@ -18499,6 +18503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft & Deliver | 406889 | [406889-craft-and-deliver.json](./406889-craft-and-deliver.json) |
 | Craft & Dungeon | 95279 | [95279-craft-and-dungeon.json](./95279-craft-and-dungeon.json) |
 | Craft & Survive | 172296 | [172296-craft-and-survive.json](./172296-craft-and-survive.json) |
+| Craft Archeology Simulator: Pyramid to Polar | 302257 | [302257-craft-archeology-simulator-pyramid-to-polar.json](./302257-craft-archeology-simulator-pyramid-to-polar.json) |
 | Craft Away! - Idle Mining Game | 99337 | [99337-craft-away-idle-mining-game.json](./99337-craft-away-idle-mining-game.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
 | Craft Carnage | 267125 | [267125-craft-carnage.json](./267125-craft-carnage.json) |
@@ -20344,6 +20349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
 | Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
+| Croaktopia | 318084 | [318084-croaktopia.json](./318084-croaktopia.json) |
 | Croakwood | 305069 | [305069-croakwood.json](./305069-croakwood.json) |
 | Croatan | 311378 | [311378-croatan.json](./311378-croatan.json) |
 | Croc | 143008 | [143008-croc.json](./143008-croc.json) |
