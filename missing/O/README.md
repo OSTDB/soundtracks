@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Stroke - one tap connect | 86941 | [86941-one-stroke-one-tap-connect.json](./86941-one-stroke-one-tap-connect.json) |
 | One Stroke Hunter | 412753 | [412753-one-stroke-hunter.json](./412753-one-stroke-hunter.json) |
+| One Summer Holiday | 383300 | [383300-one-summer-holiday.json](./383300-one-summer-holiday.json) |
 | One Synth | 114059 | [114059-one-synth.json](./114059-one-synth.json) |
 | One Tank Army | 223717 | [223717-one-tank-army.json](./223717-one-tank-army.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
@@ -5511,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Mountain | 212093 | [212093-our-mountain.json](./212093-our-mountain.json) |
 | Our Nation's Miner | 35485 | [35485-our-nations-miner.json](./35485-our-nations-miner.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
+| Our Ordinary Home | 376373 | [376373-our-ordinary-home.json](./376373-our-ordinary-home.json) |
 | Our Passing Thoughts | 219414 | [219414-our-passing-thoughts.json](./219414-our-passing-thoughts.json) |
 | Our Past | 151367 | [151367-our-past.json](./151367-our-past.json) |
 | Our Personal Space | 163204 | [163204-our-personal-space.json](./163204-our-personal-space.json) |
