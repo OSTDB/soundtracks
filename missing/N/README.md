@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty List | 341359 | [341359-naughty-list.json](./341359-naughty-list.json) |
 | Naughty Memories: Asian Beauty | 172267 | [172267-naughty-memories-asian-beauty.json](./172267-naughty-memories-asian-beauty.json) |
 | Naughty Monster Story | 174692 | [174692-naughty-monster-story.json](./174692-naughty-monster-story.json) |
+| Naughty mouse | 46816 | [46816-naughty-mouse.json](./46816-naughty-mouse.json) |
 | Naughty Nate: Cosplay | 382090 | [382090-naughty-nate-cosplay.json](./382090-naughty-nate-cosplay.json) |
 | Naughty New Year | 393385 | [393385-naughty-new-year.json](./393385-naughty-new-year.json) |
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
@@ -1220,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Naui Yeou Yukseong Ilji | 219833 | [219833-naui-yeou-yukseong-ilji.json](./219833-naui-yeou-yukseong-ilji.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
+| Naumachia: Space Warfare | 67554 | [67554-naumachia-space-warfare.json](./67554-naumachia-space-warfare.json) |
 | Nauruan Dominatrixes Are the Best | 392978 | [392978-nauruan-dominatrixes-are-the-best.json](./392978-nauruan-dominatrixes-are-the-best.json) |
 | Naus | 304916 | [304916-naus.json](./304916-naus.json) |
 | Nauseous Pines | 126906 | [126906-nauseous-pines.json](./126906-nauseous-pines.json) |
@@ -1274,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
 | Naval Front-Line | 56234 | [56234-naval-front-line.json](./56234-naval-front-line.json) |
 | Naval Hurricane | 217324 | [217324-naval-hurricane.json](./217324-naval-hurricane.json) |
+| Naval Ops: Commander | 72819 | [72819-naval-ops-commander.json](./72819-naval-ops-commander.json) |
 | Naval Ops: Warship Gunner 2 | 20496 | [20496-naval-ops-warship-gunner-2.json](./20496-naval-ops-warship-gunner-2.json) |
 | Naval Power | 230676 | [230676-naval-power.json](./230676-naval-power.json) |
 | Naval Tactics | 102593 | [102593-naval-tactics.json](./102593-naval-tactics.json) |
@@ -2194,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neji-Shiki | 243918 | [243918-neji-shiki.json](./243918-neji-shiki.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
 | Nekketsu Fighting Legend | 48410 | [48410-nekketsu-fighting-legend.json](./48410-nekketsu-fighting-legend.json) |
+| Nekketsu High School Dodgeball Club | 46817 | [46817-nekketsu-high-school-dodgeball-club.json](./46817-nekketsu-high-school-dodgeball-club.json) |
 | Nekketsu High School Dodgeball Club: Soccer Story | 191639 | [191639-nekketsu-high-school-dodgeball-club-soccer-story.json](./191639-nekketsu-high-school-dodgeball-club-soccer-story.json) |
 | Nekketsu Inou Bukatsutan Trigger Kiss | 61534 | [61534-nekketsu-inou-bukatsutan-trigger-kiss.json](./61534-nekketsu-inou-bukatsutan-trigger-kiss.json) |
 | Nekketsu Judo | 41713 | [41713-nekketsu-judo.json](./41713-nekketsu-judo.json) |
@@ -4200,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Head Coach | 5963 | [5963-nfl-head-coach.json](./5963-nfl-head-coach.json) |
 | NFL Head Coach 09 | 7117 | [7117-nfl-head-coach-09.json](./7117-nfl-head-coach-09.json) |
 | NFL Instant Replay | 46574 | [46574-nfl-instant-replay.json](./46574-nfl-instant-replay.json) |
+| NFL Kicker | 22860 | [22860-nfl-kicker.json](./22860-nfl-kicker.json) |
 | NFL Kicker 13 | 62170 | [62170-nfl-kicker-13.json](./62170-nfl-kicker-13.json) |
 | NFL Kicker 15 | 58179 | [58179-nfl-kicker-15.json](./58179-nfl-kicker-15.json) |
 | NFL Kicker! | 79679 | [79679-nfl-kicker.json](./79679-nfl-kicker.json) |
@@ -5168,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare in Squidville | 255627 | [255627-nightmare-in-squidville.json](./255627-nightmare-in-squidville.json) |
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
 | Nightmare in the Old Mansion | 303911 | [303911-nightmare-in-the-old-mansion.json](./303911-nightmare-in-the-old-mansion.json) |
+| Nightmare in the Toy Factory | 72816 | [72816-nightmare-in-the-toy-factory.json](./72816-nightmare-in-the-toy-factory.json) |
 | Nightmare Inside | 227610 | [227610-nightmare-inside.json](./227610-nightmare-inside.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Journey | 331056 | [331056-nightmare-journey.json](./331056-nightmare-journey.json) |
