@@ -14020,6 +14020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Safari 2 | 87332 | [87332-ski-safari-2.json](./87332-ski-safari-2.json) |
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
 | Ski Simulator: Winter Sports | 281906 | [281906-ski-simulator-winter-sports.json](./281906-ski-simulator-winter-sports.json) |
+| Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Ski Sport: Jumping VR | 29700 | [29700-ski-sport-jumping-vr.json](./29700-ski-sport-jumping-vr.json) |
 | Ski Stunt Simulator | 143271 | [143271-ski-stunt-simulator.json](./143271-ski-stunt-simulator.json) |
 | Ski Yeet | 409831 | [409831-ski-yeet.json](./409831-ski-yeet.json) |
@@ -16357,6 +16358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Terrors: Galdor's Bluff HD | 93912 | [93912-small-town-terrors-galdors-bluff-hd.json](./93912-small-town-terrors-galdors-bluff-hd.json) |
 | Small Town Terrors: Livingston | 33771 | [33771-small-town-terrors-livingston.json](./33771-small-town-terrors-livingston.json) |
 | Small Town Terrors: Pilgrim's Hook | 79249 | [79249-small-town-terrors-pilgrims-hook.json](./79249-small-town-terrors-pilgrims-hook.json) |
+| Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
 | Small Void | 365200 | [365200-small-void.json](./365200-small-void.json) |
 | Small War | 161507 | [161507-small-war.json](./161507-small-war.json) |
 | Small Wars: Mohicans | 294376 | [294376-small-wars-mohicans.json](./294376-small-wars-mohicans.json) |
@@ -35136,6 +35138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chase H.Q. | 38422 | [38422-super-chase-h-q.json](./38422-super-chase-h-q.json) |
 | Super Chase: Criminal Termination | 40430 | [40430-super-chase-criminal-termination.json](./40430-super-chase-criminal-termination.json) |
 | Super Chesslike Adventure | 142141 | [142141-super-chesslike-adventure.json](./142141-super-chesslike-adventure.json) |
+| Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
 | Super Chicken Catchers | 113430 | [113430-super-chicken-catchers.json](./113430-super-chicken-catchers.json) |
 | Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
@@ -41425,5 +41428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
 | Szikra | 309826 | [309826-szikra.json](./309826-szikra.json) |
 | Szkeletal | 404576 | [404576-szkeletal.json](./404576-szkeletal.json) |
+| sZone Online | 36250 | [36250-szone-online.json](./36250-szone-online.json) |
 | Szrot | 212559 | [212559-szrot.json](./212559-szrot.json) |
 | Szybowcowa '87 | 237050 | [237050-szybowcowa-87.json](./237050-szybowcowa-87.json) |
