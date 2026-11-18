@@ -13136,7 +13136,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singstar: Svenska Stjärnor | 43023 | [43023-singstar-svenska-stjarnor.json](./43023-singstar-svenska-stjarnor.json) |
 | SingStar: Take That | 15193 | [15193-singstar-take-that.json](./15193-singstar-take-that.json) |
 | Singstar: The Dome | 15093 | [15093-singstar-the-dome.json](./15093-singstar-the-dome.json) |
+| SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
+| SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
 | SingStar: Vol. 3 | 15185 | [15185-singstar-vol-3.json](./15185-singstar-vol-3.json) |
 | Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
 | SingStar: Wiggles | 15179 | [15179-singstar-wiggles.json](./15179-singstar-wiggles.json) |
@@ -13615,6 +13617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skader | 224626 | [224626-skader.json](./224626-skader.json) |
 | Skadonk Showdown | 74718 | [74718-skadonk-showdown.json](./74718-skadonk-showdown.json) |
 | Skala | 217395 | [217395-skala.json](./217395-skala.json) |
+| Skald: Against the Black Priory | 125250 | [125250-skald-against-the-black-priory.json](./125250-skald-against-the-black-priory.json) |
 | Skald: Against the Black Priory - Deluxe Edition | 380152 | [380152-skald-against-the-black-priory-deluxe-edition.json](./380152-skald-against-the-black-priory-deluxe-edition.json) |
 | Skald: Against the Black Priory - Reinforcement Pack | 311994 | [311994-skald-against-the-black-priory-reinforcement-pack.json](./311994-skald-against-the-black-priory-reinforcement-pack.json) |
 | Skaldsong | 349517 | [349517-skaldsong.json](./349517-skaldsong.json) |
@@ -17210,6 +17213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
 | Snappy Turtle Ultimate | 81042 | [81042-snappy-turtle-ultimate.json](./81042-snappy-turtle-ultimate.json) |
 | Snaps | 310029 | [310029-snaps.json](./310029-snaps.json) |
+| Snapshot | 12776 | [12776-snapshot.json](./12776-snapshot.json) |
 | Snapshot | 159776 | [159776-snapshot.json](./159776-snapshot.json) |
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
 | SnapShot | 298808 | [298808-snapshot.json](./298808-snapshot.json) |
@@ -18793,6 +18797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier | 345936 | [345936-soldier.json](./345936-soldier.json) |
 | Soldier | 394277 | [394277-soldier.json](./394277-soldier.json) |
 | Soldier Adventure | 378120 | [378120-soldier-adventure.json](./378120-soldier-adventure.json) |
+| Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
@@ -21604,6 +21609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
 | Soundmarine | 180889 | [180889-soundmarine.json](./180889-soundmarine.json) |
 | Soundodger 2 | 140864 | [140864-soundodger-2.json](./140864-soundodger-2.json) |
+| Soundodger+ | 14408 | [14408-soundodger.json](./14408-soundodger.json) |
 | Soundpatch | 135354 | [135354-soundpatch.json](./135354-soundpatch.json) |
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
 | Sounds & Rhythms | 345219 | [345219-sounds-and-rhythms.json](./345219-sounds-and-rhythms.json) |
@@ -22305,6 +22311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Geekz: The Crunchy Flakes Conspiracy | 74258 | [74258-space-geekz-the-crunchy-flakes-conspiracy.json](./74258-space-geekz-the-crunchy-flakes-conspiracy.json) |
 | Space Genesis | 198328 | [198328-space-genesis.json](./198328-space-genesis.json) |
 | Space Ghost Pirate Zombie Slayer | 30603 | [30603-space-ghost-pirate-zombie-slayer.json](./30603-space-ghost-pirate-zombie-slayer.json) |
+| Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
 | Space Girl Salon | 101001 | [101001-space-girl-salon.json](./101001-space-girl-salon.json) |
 | Space Girls | 258820 | [258820-space-girls.json](./258820-space-girls.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
@@ -26223,6 +26230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprocket Rocket Rumble | 123028 | [123028-sprocket-rocket-rumble.json](./123028-sprocket-rocket-rumble.json) |
 | Sprocket Rocket: Design and Conquer | 320885 | [320885-sprocket-rocket-design-and-conquer.json](./320885-sprocket-rocket-design-and-conquer.json) |
 | Sprocket Wings | 189155 | [189155-sprocket-wings.json](./189155-sprocket-wings.json) |
+| Sproggiwood | 14686 | [14686-sproggiwood.json](./14686-sproggiwood.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sproing! | 263372 | [263372-sproing.json](./263372-sproing.json) |
 | Sproink | 208773 | [208773-sproink.json](./208773-sproink.json) |
@@ -31215,6 +31223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
 | Story Me: Interactive Novel | 257188 | [257188-story-me-interactive-novel.json](./257188-story-me-interactive-novel.json) |
 | Story of a Cube | 19108 | [19108-story-of-a-cube.json](./19108-story-of-a-cube.json) |
+| Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
 | Story of a Hunter | 309778 | [309778-story-of-a-hunter.json](./309778-story-of-a-hunter.json) |
 | Story of a Line | 391850 | [391850-story-of-a-line.json](./391850-story-of-a-line.json) |
 | Story of a Pawn | 183262 | [183262-story-of-a-pawn.json](./183262-story-of-a-pawn.json) |
@@ -35970,6 +35979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mad Champ | 42356 | [42356-super-mad-champ.json](./42356-super-mad-champ.json) |
 | Super Mado Paf!! | 229655 | [229655-super-mado-paf.json](./229655-super-mado-paf.json) |
 | Super Mafia Land | 294559 | [294559-super-mafia-land.json](./294559-super-mafia-land.json) |
+| Super Magbot | 132921 | [132921-super-magbot.json](./132921-super-magbot.json) |
 | Super Magbot: Digital Deluxe Edition | 242608 | [242608-super-magbot-digital-deluxe-edition.json](./242608-super-magbot-digital-deluxe-edition.json) |
 | Super Magic Ball! Home Run Derby | 409316 | [409316-super-magic-ball-home-run-derby.json](./409316-super-magic-ball-home-run-derby.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
