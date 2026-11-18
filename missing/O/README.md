@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Evil | 151110 | [151110-old-evil.json](./151110-old-evil.json) |
 | Old Forest Ranch | 240829 | [240829-old-forest-ranch.json](./240829-old-forest-ranch.json) |
 | Old Friend | 30092 | [30092-old-friend.json](./30092-old-friend.json) |
+| Old Friend | 342934 | [342934-old-friend.json](./342934-old-friend.json) |
 | Old Friends Dog Game | 159311 | [159311-old-friends-dog-game.json](./159311-old-friends-dog-game.json) |
 | Old Future: Post-Apocalyptic Times | 196882 | [196882-old-future-post-apocalyptic-times.json](./196882-old-future-post-apocalyptic-times.json) |
 | Old Gay Cats Look at Old Photos | 264353 | [264353-old-gay-cats-look-at-old-photos.json](./264353-old-gay-cats-look-at-old-photos.json) |
@@ -4072,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Polarity Hook | 75592 | [75592-operation-polarity-hook.json](./75592-operation-polarity-hook.json) |
 | Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
 | Operation: Polygon Storm - The Train | 317163 | [317163-operation-polygon-storm-the-train.json](./317163-operation-polygon-storm-the-train.json) |
+| Operation: Solar Flare | 332715 | [332715-operation-solar-flare.json](./332715-operation-solar-flare.json) |
 | Operation: Strike & Secure | 341515 | [341515-operation-strike-and-secure.json](./341515-operation-strike-and-secure.json) |
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
 | Operation: Tango - Challenge Mode | 182256 | [182256-operation-tango-challenge-mode.json](./182256-operation-tango-challenge-mode.json) |
@@ -4293,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbi's Chronicles | 149342 | [149342-orbis-chronicles.json](./149342-orbis-chronicles.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
+| Orbifold | 365317 | [365317-orbifold.json](./365317-orbifold.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
 | Orbis - Throw them all! | 134980 | [134980-orbis-throw-them-all.json](./134980-orbis-throw-them-all.json) |
 | Orbis Alterni | 422139 | [422139-orbis-alterni.json](./422139-orbis-alterni.json) |
@@ -5810,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Shades of Horror Chromatic Split Compatriots Collection | 331421 | [331421-outbreak-shades-of-horror-chromatic-split-compatriots-collection.json](./331421-outbreak-shades-of-horror-chromatic-split-compatriots-collection.json) |
 | Outbreak: Shades of Horror Chromatic Split Infection Collection | 331420 | [331420-outbreak-shades-of-horror-chromatic-split-infection-collection.json](./331420-outbreak-shades-of-horror-chromatic-split-infection-collection.json) |
 | Outbreak: Shades of Horror Chromatic Split Integral Collection | 331422 | [331422-outbreak-shades-of-horror-chromatic-split-integral-collection.json](./331422-outbreak-shades-of-horror-chromatic-split-integral-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Lost Lives Collection | 336787 | [336787-outbreak-shades-of-horror-chromatic-split-lost-lives-collection.json](./336787-outbreak-shades-of-horror-chromatic-split-lost-lives-collection.json) |
 | Outbreak: Shades of Horror Chromatic Split Origins Collection | 333694 | [333694-outbreak-shades-of-horror-chromatic-split-origins-collection.json](./333694-outbreak-shades-of-horror-chromatic-split-origins-collection.json) |
 | Outbreak: Shades of Horror Chromatic Split Retro Collection | 331423 | [331423-outbreak-shades-of-horror-chromatic-split-retro-collection.json](./331423-outbreak-shades-of-horror-chromatic-split-retro-collection.json) |
 | Outbreak: Shades of Horror Chromatic Split Undead Cheer Collection | 331424 | [331424-outbreak-shades-of-horror-chromatic-split-undead-cheer-collection.json](./331424-outbreak-shades-of-horror-chromatic-split-undead-cheer-collection.json) |
