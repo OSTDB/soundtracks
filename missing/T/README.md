@@ -6655,7 +6655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archipelago Promise | 233275 | [233275-the-archipelago-promise.json](./233275-the-archipelago-promise.json) |
 | The Architect | 35128 | [35128-the-architect.json](./35128-the-architect.json) |
 | The Architect Pack | 348520 | [348520-the-architect-pack.json](./348520-the-architect-pack.json) |
-| The Architect: Paris | 74414 | [74414-the-architect-paris.json](./74414-the-architect-paris.json) |
 | The Architect's Game | 166356 | [166356-the-architects-game.json](./166356-the-architects-game.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Architects of the Universe: The Orphans | 294022 | [294022-the-architects-of-the-universe-the-orphans.json](./294022-the-architects-of-the-universe-the-orphans.json) |
@@ -8311,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
 | The Collective | 416835 | [416835-the-collective.json](./416835-the-collective.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
+| The Collector | 414625 | [414625-the-collector.json](./414625-the-collector.json) |
 | The Collector | 68424 | [68424-the-collector.json](./68424-the-collector.json) |
 | The Collector’s Curio Cabinet: Toy Soldiers | 416776 | [416776-the-collector-s-curio-cabinet-toy-soldiers.json](./416776-the-collector-s-curio-cabinet-toy-soldiers.json) |
 | The Collector's Legends | 211853 | [211853-the-collectors-legends.json](./211853-the-collectors-legends.json) |
@@ -16531,7 +16531,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pactmaker | 402637 | [402637-the-pactmaker.json](./402637-the-pactmaker.json) |
 | The Paddock | 320078 | [320078-the-paddock.json](./320078-the-paddock.json) |
 | The Paddy Field | 328934 | [328934-the-paddy-field.json](./328934-the-paddy-field.json) |
-| The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
 | The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
 | The Pagemaster | 218022 | [218022-the-pagemaster.json](./218022-the-pagemaster.json) |
 | The Pagemaster | 49032 | [49032-the-pagemaster.json](./49032-the-pagemaster.json) |
@@ -22822,6 +22821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Digits | 24037 | [24037-three-digits.json](./24037-three-digits.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Dirty Dwarves | 45480 | [45480-three-dirty-dwarves.json](./45480-three-dirty-dwarves.json) |
+| Three Doors | 413290 | [413290-three-doors.json](./413290-three-doors.json) |
 | Three Doors: Labyrinth of Fear | 338974 | [338974-three-doors-labyrinth-of-fear.json](./338974-three-doors-labyrinth-of-fear.json) |
 | Three Fairies' Hoppin' Flappin' Great Journey! | 165726 | [165726-three-fairies-hoppin-flappin-great-journey.json](./165726-three-fairies-hoppin-flappin-great-journey.json) |
 | Three Feet From Death | 381093 | [381093-three-feet-from-death.json](./381093-three-feet-from-death.json) |
@@ -30319,7 +30319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Fall | 211643 | [211643-tower-fall.json](./211643-tower-fall.json) |
 | Tower Field | 302328 | [302328-tower-field.json](./302328-tower-field.json) |
 | Tower Forge: Dark Defense | 262740 | [262740-tower-forge-dark-defense.json](./262740-tower-forge-dark-defense.json) |
-| Tower Fortress | 75968 | [75968-tower-fortress.json](./75968-tower-fortress.json) |
 | Tower FRA | 55985 | [55985-tower-fra.json](./55985-tower-fra.json) |
 | Tower Girls | 344125 | [344125-tower-girls.json](./344125-tower-girls.json) |
 | Tower Gun: Zombie Shooter 3D | 243992 | [243992-tower-gun-zombie-shooter-3d.json](./243992-tower-gun-zombie-shooter-3d.json) |
@@ -36127,6 +36126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TSE: Reloaded | 288553 | [288553-tse-reloaded.json](./288553-tse-reloaded.json) |
 | Tserof | 288552 | [288552-tserof.json](./288552-tserof.json) |
 | Tsetseg's Adventure | 242183 | [242183-tsetsegs-adventure.json](./242183-tsetsegs-adventure.json) |
+| TShip Online | 414509 | [414509-tship-online.json](./414509-tship-online.json) |
 | TSI Cycles | 125274 | [125274-tsi-cycles.json](./125274-tsi-cycles.json) |
 | Tsioque | 34700 | [34700-tsioque.json](./34700-tsioque.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
