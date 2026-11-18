@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakurazaka Shouboutai | 137323 | [137323-sakurazaka-shouboutai.json](./137323-sakurazaka-shouboutai.json) |
 | Sakusaku Daigoutou Returns | 66313 | [66313-sakusaku-daigoutou-returns.json](./66313-sakusaku-daigoutou-returns.json) |
 | SakuSaku Witch | 425931 | [425931-sakusaku-witch.json](./425931-sakusaku-witch.json) |
+| Sakuya Izayoi Gives You Advice and Dabs | 129389 | [129389-sakuya-izayoi-gives-you-advice-and-dabs.json](./129389-sakuya-izayoi-gives-you-advice-and-dabs.json) |
 | Sakuya Izayoi Gives You Advice and Dabs: Nitori Kawashiro Offers You Advice in Exchange for Cucumbers and Eats the Cucumbers | 150236 | [150236-sakuya-izayoi-gives-you-advice-and-dabs-nitori-kawashiro-offers-you-advice-in-exchange-for-cucumbers-and-eats-the-cucumbers.json](./150236-sakuya-izayoi-gives-you-advice-and-dabs-nitori-kawashiro-offers-you-advice-in-exchange-for-cucumbers-and-eats-the-cucumbers.json) |
 | Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
 | Sakuya-san Crisis 2: The Linkage Of Servant Trial | 210553 | [210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json](./210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander | 261905 | [261905-salamander.json](./261905-salamander.json) |
 | Salamander | 261906 | [261906-salamander.json](./261906-salamander.json) |
 | Salamander | 261907 | [261907-salamander.json](./261907-salamander.json) |
+| Salamander 2 | 1483 | [1483-salamander-2.json](./1483-salamander-2.json) |
 | Salamander Capital | 257549 | [257549-salamander-capital.json](./257549-salamander-capital.json) |
 | Salamander County Public Television | 207443 | [207443-salamander-county-public-television.json](./207443-salamander-county-public-television.json) |
 | Salamander Deluxe Pack Plus | 58294 | [58294-salamander-deluxe-pack-plus.json](./58294-salamander-deluxe-pack-plus.json) |
@@ -6357,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Shoujo-tachi no Shinei | 47625 | [47625-senran-kagura-shoujo-tachi-no-shinei.json](./47625-senran-kagura-shoujo-tachi-no-shinei.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
+| Senren Banka | 128513 | [128513-senren-banka.json](./128513-senren-banka.json) |
 | Senritsu no Stratus | 65953 | [65953-senritsu-no-stratus.json](./65953-senritsu-no-stratus.json) |
 | Senryaku Shidan: Tora! Tora! Tora! Rikusen-hen | 414196 | [414196-senryaku-shidan-tora-tora-tora-rikusen-hen.json](./414196-senryaku-shidan-tora-tora-tora-rikusen-hen.json) |
 | SenS | 200614 | [200614-sens.json](./200614-sens.json) |
@@ -7627,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Dungeon | 391813 | [391813-shadow-dungeon.json](./391813-shadow-dungeon.json) |
 | Shadow Dwellers: Deliverance | 391729 | [391729-shadow-dwellers-deliverance.json](./391729-shadow-dwellers-deliverance.json) |
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
+| Shadow Empire | 125692 | [125692-shadow-empire.json](./125692-shadow-empire.json) |
 | Shadow Empire: Oceania | 225088 | [225088-shadow-empire-oceania.json](./225088-shadow-empire-oceania.json) |
 | Shadow Era | 92268 | [92268-shadow-era.json](./92268-shadow-era.json) |
 | Shadow Escaper | 63805 | [63805-shadow-escaper.json](./63805-shadow-escaper.json) |
@@ -13321,6 +13325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Lancelot | 23574 | [23574-sir-lancelot.json](./23574-sir-lancelot.json) |
 | Sir Lancelot | 354729 | [354729-sir-lancelot.json](./354729-sir-lancelot.json) |
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
+| Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Magical Jelly | 197027 | [197027-sir-magical-jelly.json](./197027-sir-magical-jelly.json) |
 | Sir Mathew | 180173 | [180173-sir-mathew.json](./180173-sir-mathew.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
@@ -14306,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
 | Skullwake | 414057 | [414057-skullwake.json](./414057-skullwake.json) |
 | SkullX: Aibohphobia | 346314 | [346314-skullx-aibohphobia.json](./346314-skullx-aibohphobia.json) |
+| Skully | 133902 | [133902-skully.json](./133902-skully.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
 | Skully Pinball | 117183 | [117183-skully-pinball.json](./117183-skully-pinball.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
@@ -17032,6 +17038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
 | Snake Hunt | 112110 | [112110-snake-hunt.json](./112110-snake-hunt.json) |
 | Snake II | 10141 | [10141-snake-ii.json](./10141-snake-ii.json) |
+| Snake III | 133870 | [133870-snake-iii.json](./133870-snake-iii.json) |
 | Snake in the Cube | 158070 | [158070-snake-in-the-cube.json](./158070-snake-in-the-cube.json) |
 | Snake in the Dark | 325381 | [325381-snake-in-the-dark.json](./325381-snake-in-the-dark.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
@@ -20835,6 +20842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
 | Sorcer Striker | 39960 | [39960-sorcer-striker.json](./39960-sorcer-striker.json) |
 | Sorcerech | 423349 | [423349-sorcerech.json](./423349-sorcerech.json) |
+| Sorcerer | 1948 | [1948-sorcerer.json](./1948-sorcerer.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer Kid Adventure | 403896 | [403896-sorcerer-kid-adventure.json](./403896-sorcerer-kid-adventure.json) |
 | Sorcerer King | 9472 | [9472-sorcerer-king.json](./9472-sorcerer-king.json) |
@@ -22185,6 +22193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Empires II | 15650 | [15650-space-empires-ii.json](./15650-space-empires-ii.json) |
 | Space Empires III | 15651 | [15651-space-empires-iii.json](./15651-space-empires-iii.json) |
 | Space Empires IV | 15611 | [15611-space-empires-iv.json](./15611-space-empires-iv.json) |
+| Space Empires IV Deluxe | 19350 | [19350-space-empires-iv-deluxe.json](./19350-space-empires-iv-deluxe.json) |
 | Space Empires V | 15614 | [15614-space-empires-v.json](./15614-space-empires-v.json) |
 | Space Empires: Starfury | 15652 | [15652-space-empires-starfury.json](./15652-space-empires-starfury.json) |
 | Space Encounters | 39975 | [39975-space-encounters.json](./39975-space-encounters.json) |
@@ -22474,6 +22483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Extreme | 8198 | [8198-space-invaders-extreme.json](./8198-space-invaders-extreme.json) |
 | Space Invaders Extreme 2 | 8199 | [8199-space-invaders-extreme-2.json](./8199-space-invaders-extreme-2.json) |
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
+| Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
 | Space Invaders Forever: Special Edition | 171859 | [171859-space-invaders-forever-special-edition.json](./171859-space-invaders-forever-special-edition.json) |
 | Space Invaders Frenzy | 54762 | [54762-space-invaders-frenzy.json](./54762-space-invaders-frenzy.json) |
 | Space Invaders Get Even | 21789 | [21789-space-invaders-get-even.json](./21789-space-invaders-get-even.json) |
@@ -24288,6 +24298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbreak: Chapter 1 - The Spellstorm | 183141 | [183141-spellbreak-chapter-1-the-spellstorm.json](./183141-spellbreak-chapter-1-the-spellstorm.json) |
 | Spellbreak: Chapter 2 - The Fracture | 183140 | [183140-spellbreak-chapter-2-the-fracture.json](./183140-spellbreak-chapter-2-the-fracture.json) |
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
+| Spellbreaker | 1949 | [1949-spellbreaker.json](./1949-spellbreaker.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | Spellbroken | 152012 | [152012-spellbroken.json](./152012-spellbroken.json) |
 | Spellbrush’s Tactical Game | 402685 | [402685-spellbrush-s-tactical-game.json](./402685-spellbrush-s-tactical-game.json) |
@@ -25313,6 +25324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiritVale | 356138 | [356138-spiritvale.json](./356138-spiritvale.json) |
 | Spiritwell | 222348 | [222348-spiritwell.json](./222348-spiritwell.json) |
 | Spiritwish | 171760 | [171760-spiritwish.json](./171760-spiritwish.json) |
+| Spirou | 19757 | [19757-spirou.json](./19757-spirou.json) |
 | Spirou | 368890 | [368890-spirou.json](./368890-spirou.json) |
 | Spirou | 368891 | [368891-spirou.json](./368891-spirou.json) |
 | Spirou: The Robot Invasion | 97487 | [97487-spirou-the-robot-invasion.json](./97487-spirou-the-robot-invasion.json) |
@@ -27957,6 +27969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Galaxies: Ancient Empire | 376116 | [376116-star-wars-galaxies-ancient-empire.json](./376116-star-wars-galaxies-ancient-empire.json) |
 | Star Wars Galaxies: Evolve | 290279 | [290279-star-wars-galaxies-evolve.json](./290279-star-wars-galaxies-evolve.json) |
 | Star Wars Galaxies: Jump to Lightspeed | 147 | [147-star-wars-galaxies-jump-to-lightspeed.json](./147-star-wars-galaxies-jump-to-lightspeed.json) |
+| Star Wars Galaxies: Rage of the Wookiees | 146 | [146-star-wars-galaxies-rage-of-the-wookiees.json](./146-star-wars-galaxies-rage-of-the-wookiees.json) |
 | Star Wars Galaxies: The Complete Online Adventures | 150523 | [150523-star-wars-galaxies-the-complete-online-adventures.json](./150523-star-wars-galaxies-the-complete-online-adventures.json) |
 | Star Wars Galaxies: Trials of Obi-Wan | 206 | [206-star-wars-galaxies-trials-of-obi-wan.json](./206-star-wars-galaxies-trials-of-obi-wan.json) |
 | Star Wars Genesis | 383446 | [383446-star-wars-genesis.json](./383446-star-wars-genesis.json) |
@@ -29020,6 +29033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars, Stripes and Subgames: Collector's Edition | 308494 | [308494-stars-stripes-and-subgames-collectors-edition.json](./308494-stars-stripes-and-subgames-collectors-edition.json) |
 | Stars, Stripes, and Subgames | 253540 | [253540-stars-stripes-and-subgames.json](./253540-stars-stripes-and-subgames.json) |
 | Stars! | 94399 | [94399-stars.json](./94399-stars.json) |
+| Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsation | 150987 | [150987-starsation.json](./150987-starsation.json) |
 | StarSavior | 350191 | [350191-starsavior.json](./350191-starsavior.json) |
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
@@ -29107,6 +29121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Survivor | 252310 | [252310-starship-survivor.json](./252310-starship-survivor.json) |
 | Starship Survivor | 30399 | [30399-starship-survivor.json](./30399-starship-survivor.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
+| Starship Titanic | 1362 | [1362-starship-titanic.json](./1362-starship-titanic.json) |
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
 | Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
@@ -30751,6 +30766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitched Together | 285303 | [285303-stitched-together.json](./285303-stitched-together.json) |
 | Stitched: Mother's Nightmare | 152636 | [152636-stitched-mothers-nightmare.json](./152636-stitched-mothers-nightmare.json) |
 | Stitchlings | 399879 | [399879-stitchlings.json](./399879-stitchlings.json) |
+| Stitchy in Tooki Trouble | 145804 | [145804-stitchy-in-tooki-trouble.json](./145804-stitchy-in-tooki-trouble.json) |
 | Stivenelvro Legends | 238701 | [238701-stivenelvro-legends.json](./238701-stivenelvro-legends.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | StixWorld | 76141 | [76141-stixworld.json](./76141-stixworld.json) |
@@ -31775,6 +31791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamchat: Horror Live | 405699 | [405699-streamchat-horror-live.json](./405699-streamchat-horror-live.json) |
 | Streamdle | 194383 | [194383-streamdle.json](./194383-streamdle.json) |
 | Streamer Content: A Simple Mechanic, a Simple Game | 358361 | [358361-streamer-content-a-simple-mechanic-a-simple-game.json](./358361-streamer-content-a-simple-mechanic-a-simple-game.json) |
+| Streamer Daily | 130275 | [130275-streamer-daily.json](./130275-streamer-daily.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
 | Streamer Girl Simulator | 249080 | [249080-streamer-girl-simulator.json](./249080-streamer-girl-simulator.json) |
 | Streamer Life Simulator | 137529 | [137529-streamer-life-simulator.json](./137529-streamer-life-simulator.json) |
@@ -38825,6 +38842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Unlimited | 417669 | [417669-surge-unlimited.json](./417669-surge-unlimited.json) |
 | Surgeball | 148167 | [148167-surgeball.json](./148167-surgeball.json) |
 | Surgeon Life: A Hospital Simulator | 200813 | [200813-surgeon-life-a-hospital-simulator.json](./200813-surgeon-life-a-hospital-simulator.json) |
+| Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
 | Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator 2: Deluxe Edition | 227355 | [227355-surgeon-simulator-2-deluxe-edition.json](./227355-surgeon-simulator-2-deluxe-edition.json) |
 | Surgeon Simulator CPR | 106111 | [106111-surgeon-simulator-cpr.json](./106111-surgeon-simulator-cpr.json) |
