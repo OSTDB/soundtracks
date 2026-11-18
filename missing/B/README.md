@@ -3390,7 +3390,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2006 | 23801 | [23801-baseball-mogul-2006.json](./23801-baseball-mogul-2006.json) |
 | Baseball Mogul 2007 | 50122 | [50122-baseball-mogul-2007.json](./50122-baseball-mogul-2007.json) |
 | Baseball Mogul 2008 | 72673 | [72673-baseball-mogul-2008.json](./72673-baseball-mogul-2008.json) |
-| Baseball Mogul 2009 | 21378 | [21378-baseball-mogul-2009.json](./21378-baseball-mogul-2009.json) |
 | Baseball Mogul 2010 | 69259 | [69259-baseball-mogul-2010.json](./69259-baseball-mogul-2010.json) |
 | Baseball Mogul 2011 | 66813 | [66813-baseball-mogul-2011.json](./66813-baseball-mogul-2011.json) |
 | Baseball Mogul 2012 | 65218 | [65218-baseball-mogul-2012.json](./65218-baseball-mogul-2012.json) |
@@ -6681,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee O' Factory | 359641 | [359641-bee-o-factory.json](./359641-bee-o-factory.json) |
 | Bee Space | 408433 | [408433-bee-space.json](./408433-bee-space.json) |
+| Bee Storm: DoDonPachi II | 123085 | [123085-bee-storm-dodonpachi-ii.json](./123085-bee-storm-dodonpachi-ii.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | Bee Welcome! | 291595 | [291595-bee-welcome.json](./291595-bee-welcome.json) |
 | Bee With Gun | 411149 | [411149-bee-with-gun.json](./411149-bee-with-gun.json) |
@@ -7073,7 +7073,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
 | Belial Red | 236211 | [236211-belial-red.json](./236211-belial-red.json) |
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
-| Belief & Betrayal | 21459 | [21459-belief-and-betrayal.json](./21459-belief-and-betrayal.json) |
 | Believe | 165632 | [165632-believe.json](./165632-believe.json) |
 | Believe: Paranormal Psychic Adventure | 118014 | [118014-believe-paranormal-psychic-adventure.json](./118014-believe-paranormal-psychic-adventure.json) |
 | Believer Clubhouse | 313581 | [313581-believer-clubhouse.json](./313581-believer-clubhouse.json) |
@@ -16455,7 +16454,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Beats | 147202 | [147202-brain-beats.json](./147202-brain-beats.json) |
 | Brain Bistro | 414069 | [414069-brain-bistro.json](./414069-brain-bistro.json) |
 | Brain Boom | 338438 | [338438-brain-boom.json](./338438-brain-boom.json) |
-| Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
 | Brain Boost Buddies | 378819 | [378819-brain-boost-buddies.json](./378819-brain-boost-buddies.json) |
 | Brain Boost: Beta Wave | 47836 | [47836-brain-boost-beta-wave.json](./47836-brain-boost-beta-wave.json) |
 | Brain Boost: Gamma Wave | 44064 | [44064-brain-boost-gamma-wave.json](./44064-brain-boost-gamma-wave.json) |
@@ -16597,7 +16595,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Training!! Number Search | 308651 | [308651-brain-training-number-search.json](./308651-brain-training-number-search.json) |
 | Brain Urge | 278556 | [278556-brain-urge.json](./278556-brain-urge.json) |
 | Brain Vomits Garden | 203897 | [203897-brain-vomits-garden.json](./203897-brain-vomits-garden.json) |
-| Brain Voyage | 21483 | [21483-brain-voyage.json](./21483-brain-voyage.json) |
 | Brain Voyagers: Ricochet | 30665 | [30665-brain-voyagers-ricochet.json](./30665-brain-voyagers-ricochet.json) |
 | Brain vs Zombies | 128993 | [128993-brain-vs-zombies.json](./128993-brain-vs-zombies.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
@@ -21027,7 +21024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Quiz TV | 7283 | [7283-buzz-quiz-tv.json](./7283-buzz-quiz-tv.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | Buzz!: Quiz World | 7284 | [7284-buzz-quiz-world.json](./7284-buzz-quiz-world.json) |
-| Buzz!: The Pop Quiz | 21360 | [21360-buzz-the-pop-quiz.json](./21360-buzz-the-pop-quiz.json) |
 | Buzzard | 38617 | [38617-buzzard.json](./38617-buzzard.json) |
 | Buzzard Bait | 25353 | [25353-buzzard-bait.json](./25353-buzzard-bait.json) |
 | Buzzed | 203490 | [203490-buzzed.json](./203490-buzzed.json) |
