@@ -572,7 +572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
 | XCOM 2: War of the Chosen - Tactical Legacy Pack | 110871 | [110871-xcom-2-war-of-the-chosen-tactical-legacy-pack.json](./110871-xcom-2-war-of-the-chosen-tactical-legacy-pack.json) |
 | XCOM Legends | 159035 | [159035-xcom-legends.json](./159035-xcom-legends.json) |
-| XCOM: Enemy Unknown - Elite Edition | 88607 | [88607-xcom-enemy-unknown-elite-edition.json](./88607-xcom-enemy-unknown-elite-edition.json) |
 | XCOM: Enemy Unknown - Elite Soldier Pack | 286623 | [286623-xcom-enemy-unknown-elite-soldier-pack.json](./286623-xcom-enemy-unknown-elite-soldier-pack.json) |
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
 | XCOM: Enemy Unknown - The Complete Edition | 52118 | [52118-xcom-enemy-unknown-the-complete-edition.json](./52118-xcom-enemy-unknown-the-complete-edition.json) |
@@ -607,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xel: Save the World Edition | 210946 | [210946-xel-save-the-world-edition.json](./210946-xel-save-the-world-edition.json) |
 | Xelan Force | 277340 | [277340-xelan-force.json](./277340-xelan-force.json) |
 | Xelphi: Second Limit | 213894 | [213894-xelphi-second-limit.json](./213894-xelphi-second-limit.json) |
+| Xelvita | 398600 | [398600-xelvita.json](./398600-xelvita.json) |
 | Xemo: Robot Sim | 30939 | [30939-xemo-robot-sim.json](./30939-xemo-robot-sim.json) |
 | Xen | 312536 | [312536-xen.json](./312536-xen.json) |
 | Xen the Alien | 113567 | [113567-xen-the-alien.json](./113567-xen-the-alien.json) |
