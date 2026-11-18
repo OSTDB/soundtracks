@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am the Captain Now | 153402 | [153402-i-am-the-captain-now.json](./153402-i-am-the-captain-now.json) |
 | I Am The Caretaker | 177315 | [177315-i-am-the-caretaker.json](./177315-i-am-the-caretaker.json) |
 | I Am the Exorcist | 243560 | [243560-i-am-the-exorcist.json](./243560-i-am-the-exorcist.json) |
+| I Am the Hero | 32172 | [32172-i-am-the-hero.json](./32172-i-am-the-hero.json) |
 | I Am The Landlord | 368695 | [368695-i-am-the-landlord.json](./368695-i-am-the-landlord.json) |
 | I am the Law | 289682 | [289682-i-am-the-law.json](./289682-i-am-the-law.json) |
 | I Am the Prosecutor: No Evidence? No Problem! | 151338 | [151338-i-am-the-prosecutor-no-evidence-no-problem.json](./151338-i-am-the-prosecutor-no-evidence-no-problem.json) |
@@ -6300,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invert Y | 183190 | [183190-invert-y.json](./183190-invert-y.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Inverted | 187236 | [187236-inverted.json](./187236-inverted.json) |
+| Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
 | Inverted Angel | 294356 | [294356-inverted-angel.json](./294356-inverted-angel.json) |
 | Inverted Dreams | 390111 | [390111-inverted-dreams.json](./390111-inverted-dreams.json) |
 | Inverted Journey | 295886 | [295886-inverted-journey.json](./295886-inverted-journey.json) |
@@ -6382,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Inc.: Contingency Plan | 68275 | [68275-invisible-inc-contingency-plan.json](./68275-invisible-inc-contingency-plan.json) |
 | Invisible Love | 286774 | [286774-invisible-love.json](./286774-invisible-love.json) |
 | Invisible Man | 161498 | [161498-invisible-man.json](./161498-invisible-man.json) |
+| Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
 | Invisible Opus | 407841 | [407841-invisible-opus.json](./407841-invisible-opus.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
 | Invisible Places: Pixel Art Jigsaw Puzzle | 287478 | [287478-invisible-places-pixel-art-jigsaw-puzzle.json](./287478-invisible-places-pixel-art-jigsaw-puzzle.json) |
