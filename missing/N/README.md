@@ -5425,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihariely's Spatial Adventure | 156728 | [156728-niharielys-spatial-adventure.json](./156728-niharielys-spatial-adventure.json) |
 | Nihil | 201332 | [201332-nihil.json](./201332-nihil.json) |
 | Nihil Ignis Incident 48 | 285400 | [285400-nihil-ignis-incident-48.json](./285400-nihil-ignis-incident-48.json) |
+| Nihiland | 336802 | [336802-nihiland.json](./336802-nihiland.json) |
 | Nihilism | 71163 | [71163-nihilism.json](./71163-nihilism.json) |
 | Nihilist | 37287 | [37287-nihilist.json](./37287-nihilist.json) |
 | Nihilist Simulator | 72337 | [72337-nihilist-simulator.json](./72337-nihilist-simulator.json) |
