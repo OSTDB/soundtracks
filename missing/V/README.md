@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
 | Vegas Tales | 185974 | [185974-vegas-tales.json](./185974-vegas-tales.json) |
 | Vegas World | 131312 | [131312-vegas-world.json](./131312-vegas-world.json) |
+| Vegas: Make It Big | 15725 | [15725-vegas-make-it-big.json](./15725-vegas-make-it-big.json) |
 | VegasTowers | 92553 | [92553-vegastowers.json](./92553-vegastowers.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
 | Vegelypse | 388472 | [388472-vegelypse.json](./388472-vegelypse.json) |
@@ -1674,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdant Idea | 336213 | [336213-verdant-idea.json](./336213-verdant-idea.json) |
 | Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
 | Verde | 318170 | [318170-verde.json](./318170-verde.json) |
+| Verde Station | 17859 | [17859-verde-station.json](./17859-verde-station.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
 | Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
 | Verdict Guilty | 78368 | [78368-verdict-guilty.json](./78368-verdict-guilty.json) |
