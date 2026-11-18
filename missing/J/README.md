@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jingle Balls | 235393 | [235393-jingle-balls.json](./235393-jingle-balls.json) |
 | Jingle Brawl | 210347 | [210347-jingle-brawl.json](./210347-jingle-brawl.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
+| Jingle Janitor | 430143 | [430143-jingle-janitor.json](./430143-jingle-janitor.json) |
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
 | Jinglebug Journey | 409835 | [409835-jinglebug-journey.json](./409835-jinglebug-journey.json) |
 | Jingo Jango | 76140 | [76140-jingo-jango.json](./76140-jingo-jango.json) |
