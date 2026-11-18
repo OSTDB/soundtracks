@@ -4949,7 +4949,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Ticket Basketball 2003 | 73623 | [73623-season-ticket-basketball-2003.json](./73623-season-ticket-basketball-2003.json) |
 | Season Ticket Football 2003 | 79522 | [79522-season-ticket-football-2003.json](./79522-season-ticket-football-2003.json) |
 | Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
-| Season's Beatings | 76350 | [76350-seasons-beatings.json](./76350-seasons-beatings.json) |
 | Season's Greetings from The Smoke Room Team! | 186013 | [186013-seasons-greetings-from-the-smoke-room-team.json](./186013-seasons-greetings-from-the-smoke-room-team.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonal Assistant | 147731 | [147731-seasonal-assistant.json](./147731-seasonal-assistant.json) |
@@ -10286,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoka | 304075 | [304075-shoka.json](./304075-shoka.json) |
 | Shokendo | 208701 | [208701-shokendo.json](./208701-shokendo.json) |
 | Shoko | 296338 | [296338-shoko.json](./296338-shoko.json) |
+| Shokou no Shima | 414578 | [414578-shokou-no-shima.json](./414578-shokou-no-shima.json) |
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shoku Pain | 415986 | [415986-shoku-pain.json](./415986-shoku-pain.json) |
@@ -13745,6 +13745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
 | Skeleton Punchers | 220497 | [220497-skeleton-punchers.json](./220497-skeleton-punchers.json) |
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
+| Skeleton Quest II: Aye! Aye! Capt'n Rugal | 415458 | [415458-skeleton-quest-ii-aye-aye-captn-rugal.json](./415458-skeleton-quest-ii-aye-aye-captn-rugal.json) |
 | Skeleton Rebellion | 279468 | [279468-skeleton-rebellion.json](./279468-skeleton-rebellion.json) |
 | Skeleton Rider | 61285 | [61285-skeleton-rider.json](./61285-skeleton-rider.json) |
 | Skeleton Runner | 367669 | [367669-skeleton-runner.json](./367669-skeleton-runner.json) |
@@ -28495,7 +28496,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starhack | 291013 | [291013-starhack.json](./291013-starhack.json) |
 | Starhawk | 23202 | [23202-starhawk.json](./23202-starhawk.json) |
 | Starhawk | 7461 | [7461-starhawk.json](./7461-starhawk.json) |
-| StarHawk | 79624 | [79624-starhawk.json](./79624-starhawk.json) |
 | Starhawk: Ultimate Edition | 99947 | [99947-starhawk-ultimate-edition.json](./99947-starhawk-ultimate-edition.json) |
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
@@ -30596,6 +30596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
+| Still Rain: The Arrival | 414626 | [414626-still-rain-the-arrival.json](./414626-still-rain-the-arrival.json) |
 | Still Remember | 424726 | [424726-still-remember.json](./424726-still-remember.json) |
 | Still Ridge | 191307 | [191307-still-ridge.json](./191307-still-ridge.json) |
 | Still Rolling | 409423 | [409423-still-rolling.json](./409423-still-rolling.json) |
@@ -34339,6 +34340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunlit Trail: Complete Edition | 410674 | [410674-sunlit-trail-complete-edition.json](./410674-sunlit-trail-complete-edition.json) |
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
 | Sunlust | 132998 | [132998-sunlust.json](./132998-sunlust.json) |
+| Sunlust: The Way We Remember It | 414631 | [414631-sunlust-the-way-we-remember-it.json](./414631-sunlust-the-way-we-remember-it.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunny Beach Dolls | 418836 | [418836-sunny-beach-dolls.json](./418836-sunny-beach-dolls.json) |
@@ -35526,6 +35528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
 | Super Idle Imagination | 407691 | [407691-super-idle-imagination.json](./407691-super-idle-imagination.json) |
+| Super Idle Poop Clicker | 413286 | [413286-super-idle-poop-clicker.json](./413286-super-idle-poop-clicker.json) |
 | Super Igo Go-ou | 37828 | [37828-super-igo-go-ou.json](./37828-super-igo-go-ou.json) |
 | Super II Sonik | 342990 | [342990-super-ii-sonik.json](./342990-super-ii-sonik.json) |
 | Super Ileheart Quest | 113435 | [113435-super-ileheart-quest.json](./113435-super-ileheart-quest.json) |
@@ -35783,7 +35786,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
 | Super Knight World | 293882 | [293882-super-knight-world.json](./293882-super-knight-world.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
-| Super Knockoff! VS | 81131 | [81131-super-knockoff-vs.json](./81131-super-knockoff-vs.json) |
 | Super Knockout | 311001 | [311001-super-knockout.json](./311001-super-knockout.json) |
 | Super KO Boxing 2 | 38732 | [38732-super-ko-boxing-2.json](./38732-super-ko-boxing-2.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
