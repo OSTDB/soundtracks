@@ -4769,7 +4769,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GiAnt | 33696 | [33696-giant.json](./33696-giant.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
 | Giant Blobs From Mars | 157391 | [157391-giant-blobs-from-mars.json](./157391-giant-blobs-from-mars.json) |
-| Giant Boulder of Death | 22263 | [22263-giant-boulder-of-death.json](./22263-giant-boulder-of-death.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Celebration | 112707 | [112707-giant-celebration.json](./112707-giant-celebration.json) |
 | Giant Chase | 272446 | [272446-giant-chase.json](./272446-giant-chase.json) |
@@ -7682,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Guys: Party | 277902 | [277902-golf-guys-party.json](./277902-golf-guys-party.json) |
 | Golf Guys: Party Edition | 297300 | [297300-golf-guys-party-edition.json](./297300-golf-guys-party-edition.json) |
 | Golf Guys: Space | 277901 | [277901-golf-guys-space.json](./277901-golf-guys-space.json) |
+| Golf Guys: Space Edition | 302264 | [302264-golf-guys-space-edition.json](./302264-golf-guys-space-edition.json) |
 | Golf Hero | 244106 | [244106-golf-hero.json](./244106-golf-hero.json) |
 | Golf Impact | 236997 | [236997-golf-impact.json](./236997-golf-impact.json) |
 | Golf in Paper | 117115 | [117115-golf-in-paper.json](./117115-golf-in-paper.json) |
