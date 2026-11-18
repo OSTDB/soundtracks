@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iii: Revolving Wonderland | 151701 | [151701-iii-revolving-wonderland.json](./151701-iii-revolving-wonderland.json) |
 | Iin | 133920 | [133920-iin.json](./133920-iin.json) |
 | Iintwo | 395368 | [395368-iintwo.json](./395368-iintwo.json) |
+| IIslands of War | 126162 | [126162-iislands-of-war.json](./126162-iislands-of-war.json) |
 | Iiwake Docchi!? | 251621 | [251621-iiwake-docchi.json](./251621-iiwake-docchi.json) |
 | iJezzball | 88218 | [88218-ijezzball.json](./88218-ijezzball.json) |
 | Iji | 9778 | [9778-iji.json](./9778-iji.json) |
