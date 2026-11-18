@@ -9930,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Scions of Ithelia | 296825 | [296825-the-elder-scrolls-online-scions-of-ithelia.json](./296825-the-elder-scrolls-online-scions-of-ithelia.json) |
 | The Elder Scrolls Online: Scribes of Fate | 251417 | [251417-the-elder-scrolls-online-scribes-of-fate.json](./251417-the-elder-scrolls-online-scribes-of-fate.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
+| The Elder Scrolls Online: Season Two - Echoes of Skyrim | 429560 | [429560-the-elder-scrolls-online-season-two-echoes-of-skyrim.json](./429560-the-elder-scrolls-online-season-two-echoes-of-skyrim.json) |
 | The Elder Scrolls Online: Shadows of the Hist | 128476 | [128476-the-elder-scrolls-online-shadows-of-the-hist.json](./128476-the-elder-scrolls-online-shadows-of-the-hist.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
 | The Elder Scrolls Online: Summerset | 95058 | [95058-the-elder-scrolls-online-summerset.json](./95058-the-elder-scrolls-online-summerset.json) |
@@ -9961,6 +9962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Elder Trolls V: Pierim | 135462 | [135462-the-elder-trolls-v-pierim.json](./135462-the-elder-trolls-v-pierim.json) |
 | The Elderseed | 244571 | [244571-the-elderseed.json](./244571-the-elderseed.json) |
+| The Eldian Labyrinths | 429571 | [429571-the-eldian-labyrinths.json](./429571-the-eldian-labyrinths.json) |
 | The Eldritch Ascent | 374787 | [374787-the-eldritch-ascent.json](./374787-the-eldritch-ascent.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
 | The Eldritch Zookeeper | 43074 | [43074-the-eldritch-zookeeper.json](./43074-the-eldritch-zookeeper.json) |
@@ -14880,6 +14882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loneliest Artist | 166862 | [166862-the-loneliest-artist.json](./166862-the-loneliest-artist.json) |
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
+| The Lonely Architect | 429583 | [429583-the-lonely-architect.json](./429583-the-lonely-architect.json) |
 | The Lonely Dog Yearns For Love | 401251 | [401251-the-lonely-dog-yearns-for-love.json](./401251-the-lonely-dog-yearns-for-love.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely Hacker | 244180 | [244180-the-lonely-hacker.json](./244180-the-lonely-hacker.json) |
@@ -15991,6 +15994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Museum | 231807 | [231807-the-museum.json](./231807-the-museum.json) |
 | The Museum | 348961 | [348961-the-museum.json](./348961-the-museum.json) |
 | The Museum of Anything Goes | 123122 | [123122-the-museum-of-anything-goes.json](./123122-the-museum-of-anything-goes.json) |
+| The Museum of Everything | 429575 | [429575-the-museum-of-everything.json](./429575-the-museum-of-everything.json) |
 | The Museum of Hauntology | 339183 | [339183-the-museum-of-hauntology.json](./339183-the-museum-of-hauntology.json) |
 | The Museum of Mid 2000s Forum Signatures | 269050 | [269050-the-museum-of-mid-2000s-forum-signatures.json](./269050-the-museum-of-mid-2000s-forum-signatures.json) |
 | The Museum Of Mr. Pence | 377934 | [377934-the-museum-of-mr-pence.json](./377934-the-museum-of-mr-pence.json) |
@@ -21122,6 +21126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The Vorezkor Hack | 273417 | [273417-the-vorezkor-hack.json](./273417-the-vorezkor-hack.json) |
 | The Vorlec | 266289 | [266289-the-vorlec.json](./266289-the-vorlec.json) |
+| The Vorleif | 429554 | [429554-the-vorleif.json](./429554-the-vorleif.json) |
 | The Vortex | 192496 | [192496-the-vortex.json](./192496-the-vortex.json) |
 | The Vortex Factor | 36579 | [36579-the-vortex-factor.json](./36579-the-vortex-factor.json) |
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
@@ -31457,6 +31462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trackminia | 336260 | [336260-trackminia.json](./336260-trackminia.json) |
 | TrackRace | 208230 | [208230-trackrace.json](./208230-trackrace.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
+| TrackRush | 429565 | [429565-trackrush.json](./429565-trackrush.json) |
 | Tracks and Turrets | 110247 | [110247-tracks-and-turrets.json](./110247-tracks-and-turrets.json) |
 | Tracks n' Turrets | 272899 | [272899-tracks-n-turrets.json](./272899-tracks-n-turrets.json) |
 | Tracks of the Arcana | 270831 | [270831-tracks-of-the-arcana.json](./270831-tracks-of-the-arcana.json) |
