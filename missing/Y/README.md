@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YAYS: Your Adventure Your Story | 295719 | [295719-yays-your-adventure-your-story.json](./295719-yays-your-adventure-your-story.json) |
 | Yaysuu's X-Treme Adventure | 316697 | [316697-yaysuus-x-treme-adventure.json](./316697-yaysuus-x-treme-adventure.json) |
 | Yaz | 263145 | [263145-yaz.json](./263145-yaz.json) |
+| Yazuke: Destroy The Halloween | 430160 | [430160-yazuke-destroy-the-halloween.json](./430160-yazuke-destroy-the-halloween.json) |
 | Yazz | 184794 | [184794-yazz.json](./184794-yazz.json) |
 | Yazzie | 141112 | [141112-yazzie.json](./141112-yazzie.json) |
 | YBit | 65790 | [65790-ybit.json](./65790-ybit.json) |
