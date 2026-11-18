@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 3.2 - Their Secret Histories | 417098 | [417098-zenless-zone-zero-update-3-2-their-secret-histories.json](./417098-zenless-zone-zero-update-3-2-their-secret-histories.json) |
 | Zenless Zone Zero: Update 3.3 - Journey to the Sky | 422423 | [422423-zenless-zone-zero-update-3-3-journey-to-the-sky.json](./422423-zenless-zone-zero-update-3-3-journey-to-the-sky.json) |
 | Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
+| Zeno | 186429 | [186429-zeno.json](./186429-zeno.json) |
 | Zeno | 281232 | [281232-zeno.json](./281232-zeno.json) |
 | Zeno Archives | 52109 | [52109-zeno-archives.json](./52109-zeno-archives.json) |
 | Zeno Clash | 6360 | [6360-zeno-clash.json](./6360-zeno-clash.json) |
@@ -1551,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac XX | 136612 | [136612-zodiac-xx.json](./136612-zodiac-xx.json) |
 | Zodiac XX Leo | 305066 | [305066-zodiac-xx-leo.json](./305066-zodiac-xx-leo.json) |
 | Zodiac: Hellish Memory | 241675 | [241675-zodiac-hellish-memory.json](./241675-zodiac-hellish-memory.json) |
+| Zodiacats | 187534 | [187534-zodiacats.json](./187534-zodiacats.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
 | Zodiack | 40000 | [40000-zodiack.json](./40000-zodiack.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
