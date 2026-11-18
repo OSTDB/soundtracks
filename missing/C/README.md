@@ -5264,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catjong 5: Paw Canyon | 402100 | [402100-catjong-5-paw-canyon.json](./402100-catjong-5-paw-canyon.json) |
 | CatJump | 256139 | [256139-catjump.json](./256139-catjump.json) |
 | Catkanoid | 373297 | [373297-catkanoid.json](./373297-catkanoid.json) |
+| Catlandia: Crisis at Fort Pawprint | 129259 | [129259-catlandia-crisis-at-fort-pawprint.json](./129259-catlandia-crisis-at-fort-pawprint.json) |
 | CatLands | 391950 | [391950-catlands.json](./391950-catlands.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
 | Catlateral Damage: Remeowstered | 135589 | [135589-catlateral-damage-remeowstered.json](./135589-catlateral-damage-remeowstered.json) |
@@ -6129,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellscape | 366205 | [366205-cellscape.json](./366205-cellscape.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
 | Cellular City | 304977 | [304977-cellular-city.json](./304977-cellular-city.json) |
+| Cellular Harvest | 137118 | [137118-cellular-harvest.json](./137118-cellular-harvest.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
 | Cellular Survival | 296346 | [296346-cellular-survival.json](./296346-cellular-survival.json) |
 | Cellveillance | 362743 | [362743-cellveillance.json](./362743-cellveillance.json) |
@@ -23168,6 +23170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | Cuties Hacked: Oh No Someone Stole My Photos! | 214279 | [214279-cuties-hacked-oh-no-someone-stole-my-photos.json](./214279-cuties-hacked-oh-no-someone-stole-my-photos.json) |
 | Cuties Monster Girl | 297081 | [297081-cuties-monster-girl.json](./297081-cuties-monster-girl.json) |
+| Cutish | 129277 | [129277-cutish.json](./129277-cutish.json) |
 | Cutlass | 43093 | [43093-cutlass.json](./43093-cutlass.json) |
 | Cutlass Call | 286031 | [286031-cutlass-call.json](./286031-cutlass-call.json) |
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
