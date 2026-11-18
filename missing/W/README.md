@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhall | 182239 | [182239-warhall.json](./182239-warhall.json) |
 | Warhalla | 100589 | [100589-warhalla.json](./100589-warhalla.json) |
 | Warhammer 40,000: Agents of Death | 32602 | [32602-warhammer-40-000-agents-of-death.json](./32602-warhammer-40-000-agents-of-death.json) |
+| Warhammer 40,000: Armageddon | 17609 | [17609-warhammer-40-000-armageddon.json](./17609-warhammer-40-000-armageddon.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
 | Warhammer 40,000: Armageddon - Glory of Macragge | 53890 | [53890-warhammer-40-000-armageddon-glory-of-macragge.json](./53890-warhammer-40-000-armageddon-glory-of-macragge.json) |
 | Warhammer 40,000: Armageddon - Golgotha | 53891 | [53891-warhammer-40-000-armageddon-golgotha.json](./53891-warhammer-40-000-armageddon-golgotha.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
 | Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
 | Warhammer 40,000: Space Wolf - Wrath of the Damned | 155353 | [155353-warhammer-40-000-space-wolf-wrath-of-the-damned.json](./155353-warhammer-40-000-space-wolf-wrath-of-the-damned.json) |
+| Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
 | Warhammer 40,000: Storm of Vengeance | 9389 | [9389-warhammer-40-000-storm-of-vengeance.json](./9389-warhammer-40-000-storm-of-vengeance.json) |
 | Warhammer 40,000: Tacticus | 203274 | [203274-warhammer-40-000-tacticus.json](./203274-warhammer-40-000-tacticus.json) |
 | Warhammer 40,000: Tacticus - Machines of War | 302170 | [302170-warhammer-40-000-tacticus-machines-of-war.json](./302170-warhammer-40-000-tacticus-machines-of-war.json) |
@@ -2191,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Fighter | 110520 | [110520-warrior-fighter.json](./110520-warrior-fighter.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Is Just Going | 422701 | [422701-warrior-is-just-going.json](./422701-warrior-is-just-going.json) |
+| Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
 | Warrior Kings: Battles | 24179 | [24179-warrior-kings-battles.json](./24179-warrior-kings-battles.json) |
 | Warrior Lords | 295180 | [295180-warrior-lords.json](./295180-warrior-lords.json) |
 | Warrior Mage or Rogue alike | 359352 | [359352-warrior-mage-or-rogue-alike.json](./359352-warrior-mage-or-rogue-alike.json) |
@@ -3089,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
 | Wayward Sky | 24878 | [24878-wayward-sky.json](./24878-wayward-sky.json) |
+| Wayward Souls: Curse of Shadow | 19270 | [19270-wayward-souls-curse-of-shadow.json](./19270-wayward-souls-curse-of-shadow.json) |
 | Wayward Terran Frontier: Zero Falls | 34680 | [34680-wayward-terran-frontier-zero-falls.json](./34680-wayward-terran-frontier-zero-falls.json) |
 | Wayward Tide | 94066 | [94066-wayward-tide.json](./94066-wayward-tide.json) |
 | WaywaY | 76925 | [76925-wayway.json](./76925-wayway.json) |
@@ -6130,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
 | Wildlife Match | 152612 | [152612-wildlife-match.json](./152612-wildlife-match.json) |
 | Wildlife Matters | 280438 | [280438-wildlife-matters.json](./280438-wildlife-matters.json) |
+| Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
 | Wildlife Park 2 - Horses | 36286 | [36286-wildlife-park-2-horses.json](./36286-wildlife-park-2-horses.json) |
 | Wildlife Park 2: Crazy Zoo | 17524 | [17524-wildlife-park-2-crazy-zoo.json](./17524-wildlife-park-2-crazy-zoo.json) |
 | Wildlife Park 2: Dino World | 17551 | [17551-wildlife-park-2-dino-world.json](./17551-wildlife-park-2-dino-world.json) |
@@ -10064,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worry Eaters: Dada Land | 88804 | [88804-worry-eaters-dada-land.json](./88804-worry-eaters-dada-land.json) |
 | Worry_Bead | 233039 | [233039-worry-bead.json](./233039-worry-bead.json) |
+| Worse Than Death | 115447 | [115447-worse-than-death.json](./115447-worse-than-death.json) |
 | Worse Things Happen At Sea | 46039 | [46039-worse-things-happen-at-sea.json](./46039-worse-things-happen-at-sea.json) |
 | Worship | 144971 | [144971-worship.json](./144971-worship.json) |
 | Worship The Demon Lord With Friends | 301721 | [301721-worship-the-demon-lord-with-friends.json](./301721-worship-the-demon-lord-with-friends.json) |
