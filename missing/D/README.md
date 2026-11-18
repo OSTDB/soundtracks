@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Damned Hours | 54493 | [54493-damned-hours.json](./54493-damned-hours.json) |
 | Damned House | 280669 | [280669-damned-house.json](./280669-damned-house.json) |
+| Damning Details | 430196 | [430196-damning-details.json](./430196-damning-details.json) |
 | Damnosaur | 112789 | [112789-damnosaur.json](./112789-damnosaur.json) |
 | Damnview Stories: No Vacancy | 146092 | [146092-damnview-stories-no-vacancy.json](./146092-damnview-stories-no-vacancy.json) |
 | Damnview: Built From Nothing | 107269 | [107269-damnview-built-from-nothing.json](./107269-damnview-built-from-nothing.json) |
@@ -19128,6 +19129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Pro Tycoon | 87997 | [87997-drink-pro-tycoon.json](./87997-drink-pro-tycoon.json) |
 | Drink Stand Tycoon | 367653 | [367653-drink-stand-tycoon.json](./367653-drink-stand-tycoon.json) |
 | Drink Tea or Die!!! | 56202 | [56202-drink-tea-or-die.json](./56202-drink-tea-or-die.json) |
+| Drink the Ocean | 429986 | [429986-drink-the-ocean.json](./429986-drink-the-ocean.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drinking Medieval | 359633 | [359633-drinking-medieval.json](./359633-drinking-medieval.json) |
