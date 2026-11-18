@@ -1972,7 +1972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends: Kingdom | 248183 | [248183-kemono-friends-kingdom.json](./248183-kemono-friends-kingdom.json) |
 | Kemono Friends: Neko to Wakai se yo | 254533 | [254533-kemono-friends-neko-to-wakai-se-yo.json](./254533-kemono-friends-neko-to-wakai-se-yo.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
-| Kemono Heroes | 96440 | [96440-kemono-heroes.json](./96440-kemono-heroes.json) |
 | Kemono Labyrinth | 225729 | [225729-kemono-labyrinth.json](./225729-kemono-labyrinth.json) |
 | Kemono Mahjong | 96534 | [96534-kemono-mahjong.json](./96534-kemono-mahjong.json) |
 | Kemono Naki Yoru no Ori nite | 370555 | [370555-kemono-naki-yoru-no-ori-nite.json](./370555-kemono-naki-yoru-no-ori-nite.json) |
@@ -3791,7 +3790,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Chronicles HD | 102651 | [102651-kingdom-chronicles-hd.json](./102651-kingdom-chronicles-hd.json) |
 | Kingdom City Drowning Ep1 - The Champion | 55463 | [55463-kingdom-city-drowning-ep1-the-champion.json](./55463-kingdom-city-drowning-ep1-the-champion.json) |
 | Kingdom Clicker | 180926 | [180926-kingdom-clicker.json](./180926-kingdom-clicker.json) |
-| Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
 | Kingdom Coins - Dozer of Coins Arcade Game | 88707 | [88707-kingdom-coins-dozer-of-coins-arcade-game.json](./88707-kingdom-coins-dozer-of-coins-arcade-game.json) |
 | Kingdom Coins Lucky Vegas - Dozer of Coins Arcade Game | 87080 | [87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json](./87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json) |
 | Kingdom Coins: Dozer of Coins Arcade Game - Pirate Booty Edition | 100028 | [100028-kingdom-coins-dozer-of-coins-arcade-game-pirate-booty-edition.json](./100028-kingdom-coins-dozer-of-coins-arcade-game-pirate-booty-edition.json) |
@@ -3982,8 +3980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush 5: Alliance TD - Wukong's Journey | 382581 | [382581-kingdom-rush-5-alliance-td-wukongs-journey.json](./382581-kingdom-rush-5-alliance-td-wukongs-journey.json) |
 | Kingdom Rush 5: Alliance TD+ | 355895 | [355895-kingdom-rush-5-alliance-td.json](./355895-kingdom-rush-5-alliance-td.json) |
 | Kingdom Rush Frontiers | 6006 | [6006-kingdom-rush-frontiers.json](./6006-kingdom-rush-frontiers.json) |
-| Kingdom Rush Frontiers HD | 88258 | [88258-kingdom-rush-frontiers-hd.json](./88258-kingdom-rush-frontiers-hd.json) |
-| Kingdom Rush HD | 88320 | [88320-kingdom-rush-hd.json](./88320-kingdom-rush-hd.json) |
 | Kingdom Rush Origins | 41496 | [41496-kingdom-rush-origins.json](./41496-kingdom-rush-origins.json) |
 | Kingdom Rush Vengeance | 111393 | [111393-kingdom-rush-vengeance.json](./111393-kingdom-rush-vengeance.json) |
 | Kingdom Rush Vengeance - Hammerhold Campaign | 277264 | [277264-kingdom-rush-vengeance-hammerhold-campaign.json](./277264-kingdom-rush-vengeance-hammerhold-campaign.json) |
@@ -4938,7 +4934,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
 | Klondike 3D | 89030 | [89030-klondike-3d.json](./89030-klondike-3d.json) |
-| Klondike Adventures | 96916 | [96916-klondike-adventures.json](./96916-klondike-adventures.json) |
 | Klondike Classic | 411167 | [411167-klondike-classic.json](./411167-klondike-classic.json) |
 | Klondike Forever | 87121 | [87121-klondike-forever.json](./87121-klondike-forever.json) |
 | Klondike Planet | 87229 | [87229-klondike-planet.json](./87229-klondike-planet.json) |
