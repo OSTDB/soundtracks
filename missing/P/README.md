@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact | 207683 | [207683-pact.json](./207683-pact.json) |
 | Pact | 230082 | [230082-pact.json](./230082-pact.json) |
 | Pact | 393154 | [393154-pact.json](./393154-pact.json) |
+| Pact Between Us | 357466 | [357466-pact-between-us.json](./357466-pact-between-us.json) |
 | Pact of Blood | 351487 | [351487-pact-of-blood.json](./351487-pact-of-blood.json) |
 | Pact of Darkness | 217188 | [217188-pact-of-darkness.json](./217188-pact-of-darkness.json) |
 | Pact of Joy | 211619 | [211619-pact-of-joy.json](./211619-pact-of-joy.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paletta | 133822 | [133822-paletta.json](./133822-paletta.json) |
 | Palette | 185576 | [185576-palette.json](./185576-palette.json) |
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
+| Palette Cleanser | 346814 | [346814-palette-cleanser.json](./346814-palette-cleanser.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
 | Palette: Cards & Chaos | 347947 | [347947-palette-cards-and-chaos.json](./347947-palette-cards-and-chaos.json) |
 | Palette: Glass Shard Mosaic | 410046 | [410046-palette-glass-shard-mosaic.json](./410046-palette-glass-shard-mosaic.json) |
@@ -1314,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
 | Pandarama: The Lost Toys | 30326 | [30326-pandarama-the-lost-toys.json](./30326-pandarama-the-lost-toys.json) |
 | Pandarunium | 291343 | [291343-pandarunium.json](./291343-pandarunium.json) |
+| Pandas Contrast | 346836 | [346836-pandas-contrast.json](./346836-pandas-contrast.json) |
 | Pandas Die | 110458 | [110458-pandas-die.json](./110458-pandas-die.json) |
 | Pandas vs Ninjas | 92019 | [92019-pandas-vs-ninjas.json](./92019-pandas-vs-ninjas.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
@@ -3317,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patati Patatá: Laptop Infantil | 294485 | [294485-patati-patata-laptop-infantil.json](./294485-patati-patata-laptop-infantil.json) |
 | Patch | 391686 | [391686-patch.json](./391686-patch.json) |
 | Patch Catch | 256196 | [256196-patch-catch.json](./256196-patch-catch.json) |
+| Patch Me if You Can | 357464 | [357464-patch-me-if-you-can.json](./357464-patch-me-if-you-can.json) |
 | Patch Quest | 141561 | [141561-patch-quest.json](./141561-patch-quest.json) |
 | Patch Tarot | 105775 | [105775-patch-tarot.json](./105775-patch-tarot.json) |
 | Patch the Pipe | 328686 | [328686-patch-the-pipe.json](./328686-patch-the-pipe.json) |
@@ -6196,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Spider | 119434 | [119434-phantom-spider.json](./119434-phantom-spider.json) |
 | Phantom Squad | 291391 | [291391-phantom-squad.json](./291391-phantom-squad.json) |
 | Phantom Stars | 297184 | [297184-phantom-stars.json](./297184-phantom-stars.json) |
+| Phantom Streets | 346810 | [346810-phantom-streets.json](./346810-phantom-streets.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
 | Phantom Tank | 40576 | [40576-phantom-tank.json](./40576-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
@@ -21067,6 +21072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series Vol. 7: Crossword 2 | 83301 | [83301-puzzle-series-vol-7-crossword-2.json](./83301-puzzle-series-vol-7-crossword-2.json) |
 | Puzzle Series Vol. 8: Nankuro | 83407 | [83407-puzzle-series-vol-8-nankuro.json](./83407-puzzle-series-vol-8-nankuro.json) |
 | Puzzle Series Vol. 9: Sudoku 2 Deluxe | 83411 | [83411-puzzle-series-vol-9-sudoku-2-deluxe.json](./83411-puzzle-series-vol-9-sudoku-2-deluxe.json) |
+| Puzzle Series: Jigsaw Puzzle - Koinu Mekuri-hen | 346831 | [346831-puzzle-series-jigsaw-puzzle-koinu-mekuri-hen.json](./346831-puzzle-series-jigsaw-puzzle-koinu-mekuri-hen.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Seventeen | 346910 | [346910-puzzle-seventeen.json](./346910-puzzle-seventeen.json) |
 | Puzzle Showdown 4K | 36621 | [36621-puzzle-showdown-4k.json](./36621-puzzle-showdown-4k.json) |
