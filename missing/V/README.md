@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibe City Islands Architect | 374849 | [374849-vibe-city-islands-architect.json](./374849-vibe-city-islands-architect.json) |
 | Vibe Clicker | 352311 | [352311-vibe-clicker.json](./352311-vibe-clicker.json) |
 | Vibe or Dare | 404046 | [404046-vibe-or-dare.json](./404046-vibe-or-dare.json) |
+| Vibe Punch | 383302 | [383302-vibe-punch.json](./383302-vibe-punch.json) |
 | Vibe Taxi | 419449 | [419449-vibe-taxi.json](./419449-vibe-taxi.json) |
 | Vibe Train | 425133 | [425133-vibe-train.json](./425133-vibe-train.json) |
 | Vibes | 354901 | [354901-vibes.json](./354901-vibes.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
 | Vigil | 182812 | [182812-vigil.json](./182812-vigil.json) |
 | Vigil | 185032 | [185032-vigil.json](./185032-vigil.json) |
+| Vigil | 351281 | [351281-vigil.json](./351281-vigil.json) |
 | Vigil in the Mist | 409755 | [409755-vigil-in-the-mist.json](./409755-vigil-in-the-mist.json) |
 | Vigil of Glory - Part I | 130255 | [130255-vigil-of-glory-part-i.json](./130255-vigil-of-glory-part-i.json) |
 | Vigil RPG | 175491 | [175491-vigil-rpg.json](./175491-vigil-rpg.json) |
@@ -4148,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox | 16686 | [16686-vox.json](./16686-vox.json) |
 | Vox Battles | 282026 | [282026-vox-battles.json](./282026-vox-battles.json) |
 | Vox in Tenebris | 349314 | [349314-vox-in-tenebris.json](./349314-vox-in-tenebris.json) |
+| Vox Manipuli | 365319 | [365319-vox-manipuli.json](./365319-vox-manipuli.json) |
 | Vox Populi Vox Dei 2 | 35892 | [35892-vox-populi-vox-dei-2.json](./35892-vox-populi-vox-dei-2.json) |
 | Vox Populi, Vox Dei | 242914 | [242914-vox-populi-vox-dei.json](./242914-vox-populi-vox-dei.json) |
 | Vox Populi: Australia 2025 | 371806 | [371806-vox-populi-australia-2025.json](./371806-vox-populi-australia-2025.json) |
