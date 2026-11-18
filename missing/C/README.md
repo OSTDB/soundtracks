@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cal III | 94313 | [94313-cal-iii.json](./94313-cal-iii.json) |
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
 | Cal Ripken's Real Baseball | 65253 | [65253-cal-ripkens-real-baseball.json](./65253-cal-ripkens-real-baseball.json) |
+| Cal Towns | 123083 | [123083-cal-towns.json](./123083-cal-towns.json) |
 | Cala a Boca, Galvão! | 260069 | [260069-cala-a-boca-galvao.json](./260069-cala-a-boca-galvao.json) |
 | Caladria Chronicles | 114913 | [114913-caladria-chronicles.json](./114913-caladria-chronicles.json) |
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
@@ -5131,7 +5132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
 | Catching a Ride | 173057 | [173057-catching-a-ride.json](./173057-catching-a-ride.json) |
 | Catching Fairies | 184742 | [184742-catching-fairies.json](./184742-catching-fairies.json) |
-| Catching Features | 21465 | [21465-catching-features.json](./21465-catching-features.json) |
 | Catching Spirits | 236769 | [236769-catching-spirits.json](./236769-catching-spirits.json) |
 | Catching the Train | 146005 | [146005-catching-the-train.json](./146005-catching-the-train.json) |
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
@@ -6612,7 +6612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambers: The Outlaw | 275759 | [275759-chambers-the-outlaw.json](./275759-chambers-the-outlaw.json) |
 | Chameleon | 120875 | [120875-chameleon.json](./120875-chameleon.json) |
 | Chameleon | 214466 | [214466-chameleon.json](./214466-chameleon.json) |
-| Chameleon | 21452 | [21452-chameleon.json](./21452-chameleon.json) |
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
 | Chameleon Dummy Hunt | 411812 | [411812-chameleon-dummy-hunt.json](./411812-chameleon-dummy-hunt.json) |
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
@@ -10335,7 +10334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Charlie | 25692 | [25692-circus-charlie.json](./25692-circus-charlie.json) |
 | Circus Convoy | 376721 | [376721-circus-convoy.json](./376721-circus-convoy.json) |
 | Circus Electrique: Deluxe Edition | 210935 | [210935-circus-electrique-deluxe-edition.json](./210935-circus-electrique-deluxe-edition.json) |
-| Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
 | Circus Games | 12004 | [12004-circus-games.json](./12004-circus-games.json) |
 | Circus Games | 159042 | [159042-circus-games.json](./159042-circus-games.json) |
 | Circus Interstellar | 80745 | [80745-circus-interstellar.json](./80745-circus-interstellar.json) |
@@ -12148,7 +12146,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat: Cross of Iron | 63189 | [63189-close-combat-cross-of-iron.json](./63189-close-combat-cross-of-iron.json) |
 | Close Combat: First to Fight | 5779 | [5779-close-combat-first-to-fight.json](./5779-close-combat-first-to-fight.json) |
 | Close Combat: Gateway to Caen | 17346 | [17346-close-combat-gateway-to-caen.json](./17346-close-combat-gateway-to-caen.json) |
-| Close Combat: Modern Tactics | 21519 | [21519-close-combat-modern-tactics.json](./21519-close-combat-modern-tactics.json) |
 | Close Combat: RAF Regiment | 63190 | [63190-close-combat-raf-regiment.json](./63190-close-combat-raf-regiment.json) |
 | Close Combat: The Longest Day | 63186 | [63186-close-combat-the-longest-day.json](./63186-close-combat-the-longest-day.json) |
 | Close Combat: Wacht am Rhein | 63187 | [63187-close-combat-wacht-am-rhein.json](./63187-close-combat-wacht-am-rhein.json) |
@@ -18951,7 +18948,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
 | Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
 | Crayola Scribble Scrubbie Pets | 355892 | [355892-crayola-scribble-scrubbie-pets.json](./355892-crayola-scribble-scrubbie-pets.json) |
-| Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
 | Crayola: Create a World | 66850 | [66850-crayola-create-a-world.json](./66850-crayola-create-a-world.json) |
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
 | Crayon Animal | 385157 | [385157-crayon-animal.json](./385157-crayon-animal.json) |
@@ -22277,7 +22273,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
 | Cukies World | 237319 | [237319-cukies-world.json](./237319-cukies-world.json) |
 | Cul-De-Sac | 288989 | [288989-cul-de-sac.json](./288989-cul-de-sac.json) |
-| Culcept Saga | 21498 | [21498-culcept-saga.json](./21498-culcept-saga.json) |
 | Culdcept | 138069 | [138069-culdcept.json](./138069-culdcept.json) |
 | Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
 | Culdcept | 78415 | [78415-culdcept.json](./78415-culdcept.json) |
