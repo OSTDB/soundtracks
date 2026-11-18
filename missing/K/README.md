@@ -3083,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Boys | 334368 | [334368-killing-boys.json](./334368-killing-boys.json) |
 | Killing Bullet | 272242 | [272242-killing-bullet.json](./272242-killing-bullet.json) |
 | Killing Day | 68223 | [68223-killing-day.json](./68223-killing-day.json) |
+| Killing Dead | 395301 | [395301-killing-dead.json](./395301-killing-dead.json) |
 | Killing Dreamworks | 256042 | [256042-killing-dreamworks.json](./256042-killing-dreamworks.json) |
 | Killing Floor | 2949 | [2949-killing-floor.json](./2949-killing-floor.json) |
 | Killing Floor | 306881 | [306881-killing-floor.json](./306881-killing-floor.json) |
