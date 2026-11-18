@@ -2676,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
 | Leaves: The Return | 30064 | [30064-leaves-the-return.json](./30064-leaves-the-return.json) |
+| Leaves. | 137134 | [137134-leaves.json](./137134-leaves.json) |
 | Leavin' Teramis | 12662 | [12662-leavin-teramis.json](./12662-leavin-teramis.json) |
 | Leaving | 154622 | [154622-leaving.json](./154622-leaving.json) |
 | Leaving | 183720 | [183720-leaving.json](./183720-leaving.json) |
@@ -5643,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out: TPP Shooter | 216546 | [216546-lights-out-tpp-shooter.json](./216546-lights-out-tpp-shooter.json) |
 | Lights Out! | 376190 | [376190-lights-out.json](./376190-lights-out.json) |
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
+| Lights, Camera, Reaction! | 129275 | [129275-lights-camera-reaction.json](./129275-lights-camera-reaction.json) |
 | Lights, Camera, Reaction!: IRL Edition | 193578 | [193578-lights-camera-reaction-irl-edition.json](./193578-lights-camera-reaction-irl-edition.json) |
 | Lights! | 311983 | [311983-lights.json](./311983-lights.json) |
 | Lightsaver | 388384 | [388384-lightsaver.json](./388384-lightsaver.json) |
