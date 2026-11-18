@@ -3936,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth TD | 413336 | [413336-rebirth-td.json](./413336-rebirth-td.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
 | Rebirth: Beware of Mr.Wang | 174114 | [174114-rebirth-beware-of-mr-wang.json](./174114-rebirth-beware-of-mr-wang.json) |
+| Rebirth: I Became the Emperor of America by Creating Toktik | 346822 | [346822-rebirth-i-became-the-emperor-of-america-by-creating-toktik.json](./346822-rebirth-i-became-the-emperor-of-america-by-creating-toktik.json) |
 | Rebirth: Mr Wang | 169105 | [169105-rebirth-mr-wang.json](./169105-rebirth-mr-wang.json) |
 | ReBirth: Rebuild & Resist | 426001 | [426001-rebirth-rebuild-and-resist.json](./426001-rebirth-rebuild-and-resist.json) |
 | Rebirth! New Lover | 309841 | [309841-rebirth-new-lover.json](./309841-rebirth-new-lover.json) |
@@ -8915,6 +8916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Castles | 305848 | [305848-rise-of-castles.json](./305848-rise-of-castles.json) |
 | Rise of Champions | 60495 | [60495-rise-of-champions.json](./60495-rise-of-champions.json) |
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
+| Rise of Commander | 346832 | [346832-rise-of-commander.json](./346832-rise-of-commander.json) |
 | Rise of Crustaceans | 102337 | [102337-rise-of-crustaceans.json](./102337-rise-of-crustaceans.json) |
 | Rise of Cultures | 222983 | [222983-rise-of-cultures.json](./222983-rise-of-cultures.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
@@ -11597,6 +11599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueClick | 192352 | [192352-rogueclick.json](./192352-rogueclick.json) |
 | Roguecraft | 315735 | [315735-roguecraft.json](./315735-roguecraft.json) |
 | RogueCraft | 345812 | [345812-roguecraft.json](./345812-roguecraft.json) |
+| Roguecraft DX | 346807 | [346807-roguecraft-dx.json](./346807-roguecraft-dx.json) |
 | Roguecraft GB | 391265 | [391265-roguecraft-gb.json](./391265-roguecraft-gb.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | RogueCube | 138921 | [138921-roguecube.json](./138921-roguecube.json) |
@@ -12398,6 +12401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 54 | 109813 | [109813-room-54.json](./109813-room-54.json) |
 | Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
 | Room 601 | 393246 | [393246-room-601.json](./393246-room-601.json) |
+| Room 808 | 346835 | [346835-room-808.json](./346835-room-808.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
 | Room 9 | 128758 | [128758-room-9.json](./128758-room-9.json) |
 | Room and a Half | 326559 | [326559-room-and-a-half.json](./326559-room-and-a-half.json) |
@@ -13842,6 +13846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
 | Rumble Beavers | 421375 | [421375-rumble-beavers.json](./421375-rumble-beavers.json) |
 | Rumble Box | 71498 | [71498-rumble-box.json](./71498-rumble-box.json) |
+| Rumble Burst | 346824 | [346824-rumble-burst.json](./346824-rumble-burst.json) |
 | Rumble City | 60213 | [60213-rumble-city.json](./60213-rumble-city.json) |
 | Rumble Club: Founder's Pack - Bronze | 311414 | [311414-rumble-club-founders-pack-bronze.json](./311414-rumble-club-founders-pack-bronze.json) |
 | Rumble Club: Founder's Pack - Gold | 311415 | [311415-rumble-club-founders-pack-gold.json](./311415-rumble-club-founders-pack-gold.json) |
