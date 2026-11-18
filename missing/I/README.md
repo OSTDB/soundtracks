@@ -3355,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Groove | 43609 | [43609-in-the-groove.json](./43609-in-the-groove.json) |
 | In the Groove 2 | 240539 | [240539-in-the-groove-2.json](./240539-in-the-groove-2.json) |
 | In the Groove 2 | 70591 | [70591-in-the-groove-2.json](./70591-in-the-groove-2.json) |
+| In The Gym | 383280 | [383280-in-the-gym.json](./383280-in-the-gym.json) |
 | In the Hole | 195023 | [195023-in-the-hole.json](./195023-in-the-hole.json) |
 | In the Hollow of the Valley | 202569 | [202569-in-the-hollow-of-the-valley.json](./202569-in-the-hollow-of-the-valley.json) |
 | In The Hours of Darkness | 351349 | [351349-in-the-hours-of-darkness.json](./351349-in-the-hours-of-darkness.json) |
@@ -7801,6 +7802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itty Bitty Little Kitties | 344550 | [344550-itty-bitty-little-kitties.json](./344550-itty-bitty-little-kitties.json) |
 | Itty Bitty Tiny Town | 184892 | [184892-itty-bitty-tiny-town.json](./184892-itty-bitty-tiny-town.json) |
 | Itty Bitty Toilet Kitty | 332973 | [332973-itty-bitty-toilet-kitty.json](./332973-itty-bitty-toilet-kitty.json) |
+| Ittzy Fearless | 376360 | [376360-ittzy-fearless.json](./376360-ittzy-fearless.json) |
 | ITYH: A Horror Otome | 215187 | [215187-ityh-a-horror-otome.json](./215187-ityh-a-horror-otome.json) |
 | ItzaBitza | 16108 | [16108-itzabitza.json](./16108-itzabitza.json) |
 | ItzaZoo | 16109 | [16109-itzazoo.json](./16109-itzazoo.json) |
