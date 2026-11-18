@@ -4370,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Legend | 102755 | [102755-infinite-legend.json](./102755-infinite-legend.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Life Simulation | 318116 | [318116-infinite-life-simulation.json](./318116-infinite-life-simulation.json) |
+| Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
 | Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
 | Infinite Loop: Backrooms | 366952 | [366952-infinite-loop-backrooms.json](./366952-infinite-loop-backrooms.json) |
 | Infinite Loop: Kojou ga Miseta Yume | 56825 | [56825-infinite-loop-kojou-ga-miseta-yume.json](./56825-infinite-loop-kojou-ga-miseta-yume.json) |
