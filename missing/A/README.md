@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Train Full of Money | 177769 | [177769-a-train-full-of-money.json](./177769-a-train-full-of-money.json) |
 | A Train Mystery | 299682 | [299682-a-train-mystery.json](./299682-a-train-mystery.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
+| A Trans-Siberian Tea | 417055 | [417055-a-trans-siberian-tea.json](./417055-a-trans-siberian-tea.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
 | A Trap Game | 144477 | [144477-a-trap-game.json](./144477-a-trap-game.json) |
 | A Traveler to Unknown Thule | 237726 | [237726-a-traveler-to-unknown-thule.json](./237726-a-traveler-to-unknown-thule.json) |
@@ -2263,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducidos | 312868 | [312868-abducidos.json](./312868-abducidos.json) |
 | Abduct 'em | 392218 | [392218-abduct-em.json](./392218-abduct-em.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
+| Abductables | 417066 | [417066-abductables.json](./417066-abductables.json) |
 | Abducted | 350206 | [350206-abducted.json](./350206-abducted.json) |
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
 | Abducted Toad 2 | 321866 | [321866-abducted-toad-2.json](./321866-abducted-toad-2.json) |
@@ -5182,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After End | 409348 | [409348-after-end.json](./409348-after-end.json) |
 | After Eternity | 415810 | [415810-after-eternity.json](./415810-after-eternity.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
+| After Frame | 417028 | [417028-after-frame.json](./417028-after-frame.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
 | After Gloom | 126772 | [126772-after-gloom.json](./126772-after-gloom.json) |
@@ -12270,6 +12273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Aniquiz | 409619 | [409619-aniquiz.json](./409619-aniquiz.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
+| Anispo | 417061 | [417061-anispo.json](./417061-anispo.json) |
 | Anisto | 249941 | [249941-anisto.json](./249941-anisto.json) |
 | Anita's Camp | 310539 | [310539-anitas-camp.json](./310539-anitas-camp.json) |
 | Anita's Job | 310538 | [310538-anitas-job.json](./310538-anitas-job.json) |
@@ -16647,6 +16651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World 2: Travel to Canada - Collector's Edition | 332324 | [332324-around-the-world-2-travel-to-canada-collectors-edition.json](./332324-around-the-world-2-travel-to-canada-collectors-edition.json) |
 | Around the World 3: Amazing Countries | 338046 | [338046-around-the-world-3-amazing-countries.json](./338046-around-the-world-3-amazing-countries.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
+| Around the World 4: Family Tour | 417013 | [417013-around-the-world-4-family-tour.json](./417013-around-the-world-4-family-tour.json) |
 | Around the World 4: Family Tour - Collector's Edition | 386208 | [386208-around-the-world-4-family-tour-collectors-edition.json](./386208-around-the-world-4-family-tour-collectors-edition.json) |
 | Around the World 5: Beautiful America | 338045 | [338045-around-the-world-5-beautiful-america.json](./338045-around-the-world-5-beautiful-america.json) |
 | Around the World 5: Beautiful America - Collector's Edition | 363162 | [363162-around-the-world-5-beautiful-america-collectors-edition.json](./363162-around-the-world-5-beautiful-america-collectors-edition.json) |
@@ -16663,6 +16668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World Mosaics | 296811 | [296811-around-the-world-mosaics.json](./296811-around-the-world-mosaics.json) |
 | Around the World Mosaics II | 296812 | [296812-around-the-world-mosaics-ii.json](./296812-around-the-world-mosaics-ii.json) |
 | Around the World Puzzle | 362184 | [362184-around-the-world-puzzle.json](./362184-around-the-world-puzzle.json) |
+| Around the World with the Johnson Family | 417015 | [417015-around-the-world-with-the-johnson-family.json](./417015-around-the-world-with-the-johnson-family.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around The World: Travel To Brazil - Collector's Edition | 291645 | [291645-around-the-world-travel-to-brazil-collectors-edition.json](./291645-around-the-world-travel-to-brazil-collectors-edition.json) |
 | Around The World: Travel To Canada - Collector's Edition | 315947 | [315947-around-the-world-travel-to-canada-collectors-edition.json](./315947-around-the-world-travel-to-canada-collectors-edition.json) |
