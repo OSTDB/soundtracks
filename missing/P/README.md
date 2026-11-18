@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
 | Pantheon | 228624 | [228624-pantheon.json](./228624-pantheon.json) |
 | Pantheon of War | 268874 | [268874-pantheon-of-war.json](./268874-pantheon-of-war.json) |
+| Pantheon Rift | 336794 | [336794-pantheon-rift.json](./336794-pantheon-rift.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Pantheon: Rise of the Fallen | 75421 | [75421-pantheon-rise-of-the-fallen.json](./75421-pantheon-rise-of-the-fallen.json) |
 | Panther | 100285 | [100285-panther.json](./100285-panther.json) |
@@ -9257,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Oma2ri Adventure | 195867 | [195867-pixel-game-maker-series-oma2ri-adventure.json](./195867-pixel-game-maker-series-oma2ri-adventure.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
 | Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
+| Pixel Game Maker Series: RTA Quest | 332711 | [332711-pixel-game-maker-series-rta-quest.json](./332711-pixel-game-maker-series-rta-quest.json) |
 | Pixel Game Maker Series: Rumble Dragon | 192057 | [192057-pixel-game-maker-series-rumble-dragon.json](./192057-pixel-game-maker-series-rumble-dragon.json) |
 | Pixel Game Maker Series: Shiki-Shiki! Haunted Dungeon | 375468 | [375468-pixel-game-maker-series-shiki-shiki-haunted-dungeon.json](./375468-pixel-game-maker-series-shiki-shiki-haunted-dungeon.json) |
 | Pixel Game Maker Series: Storm Swordsman | 277520 | [277520-pixel-game-maker-series-storm-swordsman.json](./277520-pixel-game-maker-series-storm-swordsman.json) |
