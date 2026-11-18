@@ -2527,7 +2527,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
 | One Day, the World | 414429 | [414429-one-day-the-world.json](./414429-one-day-the-world.json) |
 | One Death at a Time | 410688 | [410688-one-death-at-a-time.json](./410688-one-death-at-a-time.json) |
-| One Deck Dungeon | 88006 | [88006-one-deck-dungeon.json](./88006-one-deck-dungeon.json) |
 | One Deck Dungeon: Abyssal Depths | 163255 | [163255-one-deck-dungeon-abyssal-depths.json](./163255-one-deck-dungeon-abyssal-depths.json) |
 | One Deck Dungeon: Caliana | 163257 | [163257-one-deck-dungeon-caliana.json](./163257-one-deck-dungeon-caliana.json) |
 | One Deck Dungeon: Cinder Plains | 163258 | [163258-one-deck-dungeon-cinder-plains.json](./163258-one-deck-dungeon-cinder-plains.json) |
