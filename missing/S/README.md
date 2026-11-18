@@ -87,11 +87,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Luxury Edition | 409979 | [409979-s-n-i-p-e-r-hunter-scope-luxury-edition.json](./409979-s-n-i-p-e-r-hunter-scope-luxury-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Mega Edition | 317241 | [317241-s-n-i-p-e-r-hunter-scope-mega-edition.json](./317241-s-n-i-p-e-r-hunter-scope-mega-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Neon Strike | 302284 | [302284-s-n-i-p-e-r-hunter-scope-neon-strike.json](./302284-s-n-i-p-e-r-hunter-scope-neon-strike.json) |
 | S.N.I.P.E.R.: Hunter Scope - Platinum Edition | 246886 | [246886-s-n-i-p-e-r-hunter-scope-platinum-edition.json](./246886-s-n-i-p-e-r-hunter-scope-platinum-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Premium Edition | 243362 | [243362-s-n-i-p-e-r-hunter-scope-premium-edition.json](./243362-s-n-i-p-e-r-hunter-scope-premium-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Prime Edition | 274490 | [274490-s-n-i-p-e-r-hunter-scope-prime-edition.json](./274490-s-n-i-p-e-r-hunter-scope-prime-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Pro Edition | 399827 | [399827-s-n-i-p-e-r-hunter-scope-pro-edition.json](./399827-s-n-i-p-e-r-hunter-scope-pro-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Silver Edition | 250394 | [250394-s-n-i-p-e-r-hunter-scope-silver-edition.json](./250394-s-n-i-p-e-r-hunter-scope-silver-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Special Ops | 302285 | [302285-s-n-i-p-e-r-hunter-scope-special-ops.json](./302285-s-n-i-p-e-r-hunter-scope-special-ops.json) |
 | S.N.I.P.E.R.: Hunter Scope - Summer Edition | 257711 | [257711-s-n-i-p-e-r-hunter-scope-summer-edition.json](./257711-s-n-i-p-e-r-hunter-scope-summer-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Supreme Edition | 324369 | [324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json](./324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Throne Edition | 410859 | [410859-s-n-i-p-e-r-hunter-scope-throne-edition.json](./410859-s-n-i-p-e-r-hunter-scope-throne-edition.json) |
@@ -2434,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
 | Satelum | 349530 | [349530-satelum.json](./349530-satelum.json) |
+| Satilla Composite | 318072 | [318072-satilla-composite.json](./318072-satilla-composite.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
 | Satisfaction Drone | 330340 | [330340-satisfaction-drone.json](./330340-satisfaction-drone.json) |
 | Satisfactory 1.1 | 402387 | [402387-satisfactory-1-1.json](./402387-satisfactory-1-1.json) |
@@ -4356,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpt People: Complete Edition | 292924 | [292924-sculpt-people-complete-edition.json](./292924-sculpt-people-complete-edition.json) |
 | Sculpt People: Creative Edition | 308789 | [308789-sculpt-people-creative-edition.json](./308789-sculpt-people-creative-edition.json) |
 | Sculpt People: Custom Look | 289188 | [289188-sculpt-people-custom-look.json](./289188-sculpt-people-custom-look.json) |
+| Sculpt People: Famous Edition | 302274 | [302274-sculpt-people-famous-edition.json](./302274-sculpt-people-famous-edition.json) |
 | Sculpt People: Moulding Stars | 289189 | [289189-sculpt-people-moulding-stars.json](./289189-sculpt-people-moulding-stars.json) |
 | Sculptor | 122286 | [122286-sculptor.json](./122286-sculptor.json) |
 | Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
@@ -6710,7 +6714,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent | 49021 | [49021-serpent.json](./49021-serpent.json) |
 | Serpent at the Vernissage | 353386 | [353386-serpent-at-the-vernissage.json](./353386-serpent-at-the-vernissage.json) |
 | Serpent Fusion | 126110 | [126110-serpent-fusion.json](./126110-serpent-fusion.json) |
-| Serpent in the Staglands | 23440 | [23440-serpent-in-the-staglands.json](./23440-serpent-in-the-staglands.json) |
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
 | Serpent Showdown | 137698 | [137698-serpent-showdown.json](./137698-serpent-showdown.json) |
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
@@ -12459,6 +12462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
 | Simp Simulator | 165916 | [165916-simp-simulator.json](./165916-simp-simulator.json) |
 | Simp Simulator 2023 | 253857 | [253857-simp-simulator-2023.json](./253857-simp-simulator-2023.json) |
+| Simp: Leveling Up on a Dating App | 329802 | [329802-simp-leveling-up-on-a-dating-app.json](./329802-simp-leveling-up-on-a-dating-app.json) |
 | SIMP: Super Infection Massive Pathology | 336586 | [336586-simp-super-infection-massive-pathology.json](./336586-simp-super-infection-massive-pathology.json) |
 | SimPark | 16613 | [16613-simpark.json](./16613-simpark.json) |
 | Simpatico | 339011 | [339011-simpatico.json](./339011-simpatico.json) |
@@ -16432,6 +16436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Remix | 132637 | [132637-smash-remix.json](./132637-smash-remix.json) |
 | Smash Remix +Extra | 413132 | [413132-smash-remix-extra.json](./413132-smash-remix-extra.json) |
 | Smash Remix: Project Galleon | 399949 | [399949-smash-remix-project-galleon.json](./399949-smash-remix-project-galleon.json) |
+| Smash Remix: Shino Patch | 296119 | [296119-smash-remix-shino-patch.json](./296119-smash-remix-shino-patch.json) |
 | Smash Remix: Spider-Man | 281802 | [281802-smash-remix-spider-man.json](./281802-smash-remix-spider-man.json) |
 | Smash Remix: Version 1.1.0 | 255783 | [255783-smash-remix-version-1-1-0.json](./255783-smash-remix-version-1-1-0.json) |
 | Smash Remix: Version 1.2.0 | 255784 | [255784-smash-remix-version-1-2-0.json](./255784-smash-remix-version-1-2-0.json) |
@@ -17878,6 +17883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 10 - Fix & Connect | 231246 | [231246-snowrunner-season-10-fix-and-connect.json](./231246-snowrunner-season-10-fix-and-connect.json) |
 | SnowRunner: Season 11 - Lights & Cameras | 231243 | [231243-snowrunner-season-11-lights-and-cameras.json](./231243-snowrunner-season-11-lights-and-cameras.json) |
 | SnowRunner: Season 12 - Public Energy | 231244 | [231244-snowrunner-season-12-public-energy.json](./231244-snowrunner-season-12-public-energy.json) |
+| SnowRunner: Season 13 - Dig & Drill | 302283 | [302283-snowrunner-season-13-dig-and-drill.json](./302283-snowrunner-season-13-dig-and-drill.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
 | SnowRunner: Season 15 - Oil & Dirt | 361784 | [361784-snowrunner-season-15-oil-and-dirt.json](./361784-snowrunner-season-15-oil-and-dirt.json) |
 | SnowRunner: Season 16 - High Voltage | 397654 | [397654-snowrunner-season-16-high-voltage.json](./397654-snowrunner-season-16-high-voltage.json) |
@@ -18819,6 +18825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
 | Soleil | 259381 | [259381-soleil.json](./259381-soleil.json) |
 | Soleil Survivor | 340355 | [340355-soleil-survivor.json](./340355-soleil-survivor.json) |
+| Solely Puzzle | 296115 | [296115-solely-puzzle.json](./296115-solely-puzzle.json) |
 | Solemn | 254801 | [254801-solemn.json](./254801-solemn.json) |
 | Solemn Knights: Entirely Ours | 254421 | [254421-solemn-knights-entirely-ours.json](./254421-solemn-knights-entirely-ours.json) |
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
@@ -19381,6 +19388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnokid | 201114 | [201114-somnokid.json](./201114-somnokid.json) |
 | Somnosec | 399017 | [399017-somnosec.json](./399017-somnosec.json) |
 | Somnus | 243503 | [243503-somnus.json](./243503-somnus.json) |
+| Somnus | 329850 | [329850-somnus.json](./329850-somnus.json) |
 | Somnus Corporation | 405782 | [405782-somnus-corporation.json](./405782-somnus-corporation.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Somny & Yawn: Dream Detectives | 132604 | [132604-somny-and-yawn-dream-detectives.json](./132604-somny-and-yawn-dream-detectives.json) |
@@ -25570,6 +25578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Legend of the Lost Spatula | 2760 | [2760-spongebob-squarepants-legend-of-the-lost-spatula.json](./2760-spongebob-squarepants-legend-of-the-lost-spatula.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 248553 | [248553-spongebob-squarepants-lights-camera-pants.json](./248553-spongebob-squarepants-lights-camera-pants.json) |
+| SpongeBob SquarePants: Lights, Camera, Pants! | 320418 | [320418-spongebob-squarepants-lights-camera-pants.json](./320418-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Lost In Time - Dunces and Dragons | 389504 | [389504-spongebob-squarepants-lost-in-time-dunces-and-dragons.json](./389504-spongebob-squarepants-lost-in-time-dunces-and-dragons.json) |
 | SpongeBob SquarePants: Model Sponge | 228488 | [228488-spongebob-squarepants-model-sponge.json](./228488-spongebob-squarepants-model-sponge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
@@ -27522,6 +27531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Pool | 131012 | [131012-star-pool.json](./131012-star-pool.json) |
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
+| Star Project | 296120 | [296120-star-project.json](./296120-star-project.json) |
 | Star Project | 32068 | [32068-star-project.json](./32068-star-project.json) |
 | Star Prospector | 125178 | [125178-star-prospector.json](./125178-star-prospector.json) |
 | Star Puzzle | 161642 | [161642-star-puzzle.json](./161642-star-puzzle.json) |
@@ -28598,6 +28608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starliners | 424858 | [424858-starliners.json](./424858-starliners.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | StarLines Inc. | 71281 | [71281-starlines-inc.json](./71281-starlines-inc.json) |
+| Starling | 329812 | [329812-starling.json](./329812-starling.json) |
 | Starlink | 80737 | [80737-starlink.json](./80737-starlink.json) |
 | Starlink Battle For Atlas: Lance Starship Pack | 305232 | [305232-starlink-battle-for-atlas-lance-starship-pack.json](./305232-starlink-battle-for-atlas-lance-starship-pack.json) |
 | Starlink Battle For Atlas: Neptune Starship Pack | 308752 | [308752-starlink-battle-for-atlas-neptune-starship-pack.json](./308752-starlink-battle-for-atlas-neptune-starship-pack.json) |
@@ -28611,6 +28622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlit Bottle | 379816 | [379816-starlit-bottle.json](./379816-starlit-bottle.json) |
 | Starlit Kart Racing | 215153 | [215153-starlit-kart-racing.json](./215153-starlit-kart-racing.json) |
 | Starlit On Wheels: Super Kart | 239614 | [239614-starlit-on-wheels-super-kart.json](./239614-starlit-on-wheels-super-kart.json) |
+| Starlit Promises | 299033 | [299033-starlit-promises.json](./299033-starlit-promises.json) |
 | Starlit Stories | 304825 | [304825-starlit-stories.json](./304825-starlit-stories.json) |
 | Starlit World | 400322 | [400322-starlit-world.json](./400322-starlit-world.json) |
 | Starlit: Colony | 116198 | [116198-starlit-colony.json](./116198-starlit-colony.json) |
@@ -34977,6 +34989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Citycon: City Builder | 232541 | [232541-super-citycon-city-builder.json](./232541-super-citycon-city-builder.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Classics HD Bundle | 276867 | [276867-super-classics-hd-bundle.json](./276867-super-classics-hd-bundle.json) |
+| Super Clew Land | 329808 | [329808-super-clew-land.json](./329808-super-clew-land.json) |
 | Super Climb Up | 123400 | [123400-super-climb-up.json](./123400-super-climb-up.json) |
 | Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
 | Super Clone: cyberpunk roguelike action | 143170 | [143170-super-clone-cyberpunk-roguelike-action.json](./143170-super-clone-cyberpunk-roguelike-action.json) |
@@ -35460,6 +35473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super GunWorld 2 | 27300 | [27300-super-gunworld-2.json](./27300-super-gunworld-2.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
+| Super Hack Attack! | 318074 | [318074-super-hack-attack.json](./318074-super-hack-attack.json) |
 | Super Hammer Bros. | 381758 | [381758-super-hammer-bros.json](./381758-super-hammer-bros.json) |
 | Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
 | Super Hamster Havoc | 197197 | [197197-super-hamster-havoc.json](./197197-super-hamster-havoc.json) |
@@ -35933,6 +35947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario /v/orld 2: Moot Point | 333702 | [333702-super-mario-v-orld-2-moot-point.json](./333702-super-mario-v-orld-2-moot-point.json) |
 | Super Mario /v/orld: New Vegas | 234146 | [234146-super-mario-v-orld-new-vegas.json](./234146-super-mario-v-orld-new-vegas.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
+| Super Mario & the Elemental Orbs | 318073 | [318073-super-mario-and-the-elemental-orbs.json](./318073-super-mario-and-the-elemental-orbs.json) |
 | Super Mario & The Rainbow Stars | 307658 | [307658-super-mario-and-the-rainbow-stars.json](./307658-super-mario-and-the-rainbow-stars.json) |
 | Super Mario 127 | 142753 | [142753-super-mario-127.json](./142753-super-mario-127.json) |
 | Super Mario 14 | 134517 | [134517-super-mario-14.json](./134517-super-mario-14.json) |
@@ -36038,6 +36053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge | 241025 | [241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json](./241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - An Aqueous Adventure | 241020 | [241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json](./241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Armored Airship | 241005 | [241005-super-mario-advance-4-super-mario-bros-3-e-armored-airship.json](./241005-super-mario-advance-4-super-mario-bros-3-e-armored-airship.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Blue Green Switch | 296128 | [296128-super-mario-advance-4-super-mario-bros-3-e-blue-green-switch.json](./296128-super-mario-advance-4-super-mario-bros-3-e-blue-green-switch.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bombarded by Bob-ombs | 240998 | [240998-super-mario-advance-4-super-mario-bros-3-e-bombarded-by-bob-ombs.json](./240998-super-mario-advance-4-super-mario-bros-3-e-bombarded-by-bob-ombs.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 1 | 241023 | [241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json](./241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 2 | 241024 | [241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json](./241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json) |
@@ -36058,6 +36074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Koopaling Confusion | 241022 | [241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json](./241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Magical Note Blocks | 240999 | [240999-super-mario-advance-4-super-mario-bros-3-e-magical-note-blocks.json](./240999-super-mario-advance-4-super-mario-bros-3-e-magical-note-blocks.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - No Time to Dawdle | 241026 | [241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json](./241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Orange Switch | 296129 | [296129-super-mario-advance-4-super-mario-bros-3-e-orange-switch.json](./296129-super-mario-advance-4-super-mario-bros-3-e-orange-switch.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Para Beetle Challenge | 241003 | [241003-super-mario-advance-4-super-mario-bros-3-e-para-beetle-challenge.json](./241003-super-mario-advance-4-super-mario-bros-3-e-para-beetle-challenge.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Piped Full of Plants | 241001 | [241001-super-mario-advance-4-super-mario-bros-3-e-piped-full-of-plants.json](./241001-super-mario-advance-4-super-mario-bros-3-e-piped-full-of-plants.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Puzzling Pipe Maze | 241013 | [241013-super-mario-advance-4-super-mario-bros-3-e-puzzling-pipe-maze.json](./241013-super-mario-advance-4-super-mario-bros-3-e-puzzling-pipe-maze.json) |
@@ -37239,6 +37256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
 | Super Rocket Ride | 129092 | [129092-super-rocket-ride.json](./129092-super-rocket-ride.json) |
 | Super Rocket Shootout | 40852 | [40852-super-rocket-shootout.json](./40852-super-rocket-shootout.json) |
+| Super Roll Out | 296121 | [296121-super-roll-out.json](./296121-super-roll-out.json) |
 | Super Rolling Heroes | 190880 | [190880-super-rolling-heroes.json](./190880-super-rolling-heroes.json) |
 | Super Rolling Heroes Deluxe | 288055 | [288055-super-rolling-heroes-deluxe.json](./288055-super-rolling-heroes-deluxe.json) |
 | Super RPS | 270888 | [270888-super-rps.json](./270888-super-rps.json) |
@@ -39547,6 +39565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swan Song | 318921 | [318921-swan-song.json](./318921-swan-song.json) |
 | Swan Song | 46977 | [46977-swan-song.json](./46977-swan-song.json) |
+| Swan's Room | 320416 | [320416-swans-room.json](./320416-swans-room.json) |
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swanfield Survival | 395322 | [395322-swanfield-survival.json](./395322-swanfield-survival.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
