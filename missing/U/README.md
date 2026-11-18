@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.B. Funkeys | 66744 | [66744-u-b-funkeys.json](./66744-u-b-funkeys.json) |
 | U.F.F.C: Ultra Fuckin' Fuckable Championship | 411058 | [411058-u-f-f-c-ultra-fuckin-fuckable-championship.json](./411058-u-f-f-c-ultra-fuckin-fuckable-championship.json) |
 | U.F.O: Unfortunately Fortunate Organisms | 29630 | [29630-u-f-o-unfortunately-fortunate-organisms.json](./29630-u-f-o-unfortunately-fortunate-organisms.json) |
+| U.F.O. | 41034 | [41034-u-f-o.json](./41034-u-f-o.json) |
 | U.F.O. K.O. Tower Defense | 152907 | [152907-u-f-o-k-o-tower-defense.json](./152907-u-f-o-k-o-tower-defense.json) |
 | U.F.O. Kamen Yakisoban: Kettler no Kuroi Inbou | 44445 | [44445-u-f-o-kamen-yakisoban-kettler-no-kuroi-inbou.json](./44445-u-f-o-kamen-yakisoban-kettler-no-kuroi-inbou.json) |
 | U.F.O.M.O. | 184084 | [184084-u-f-o-m-o.json](./184084-u-f-o-m-o.json) |
@@ -2392,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappy Raccoon | 221431 | [221431-unhappy-raccoon.json](./221431-unhappy-raccoon.json) |
 | Unharvest | 420600 | [420600-unharvest.json](./420600-unharvest.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
+| Unheard | 109148 | [109148-unheard.json](./109148-unheard.json) |
 | Unheard Screams: King Leopold II's Rule Over the Congo | 35383 | [35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json](./35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
 | Unheard: Voices of Crime Edition | 237752 | [237752-unheard-voices-of-crime-edition.json](./237752-unheard-voices-of-crime-edition.json) |
@@ -2529,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unique Ladies | 339873 | [339873-unique-ladies.json](./339873-unique-ladies.json) |
 | Unique Lady | 370345 | [370345-unique-lady.json](./370345-unique-lady.json) |
 | Unique Sylvie Game | 422748 | [422748-unique-sylvie-game.json](./422748-unique-sylvie-game.json) |
+| Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
@@ -2856,8 +2859,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmatched: Digital Edition - Soho | 248701 | [248701-unmatched-digital-edition-soho.json](./248701-unmatched-digital-edition-soho.json) |
 | Unmatched: Digital Edition - Yukon | 248715 | [248715-unmatched-digital-edition-yukon.json](./248715-unmatched-digital-edition-yukon.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
+| Unmechanical | 16368 | [16368-unmechanical.json](./16368-unmechanical.json) |
 | Unmechanical: Extended Edition | 20310 | [20310-unmechanical-extended-edition.json](./20310-unmechanical-extended-edition.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
+| UnMetal | 132312 | [132312-unmetal.json](./132312-unmetal.json) |
 | UnMetal: Collector's Edition | 240034 | [240034-unmetal-collectors-edition.json](./240034-unmetal-collectors-edition.json) |
 | UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
 | Unmetaverse | 190251 | [190251-unmetaverse.json](./190251-unmetaverse.json) |
@@ -3219,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Dawn: Steelbook Edition | 42946 | [42946-until-dawn-steelbook-edition.json](./42946-until-dawn-steelbook-edition.json) |
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
 | Until Death Do We Part | 416800 | [416800-until-death-do-we-part.json](./416800-until-death-do-we-part.json) |
+| Until Her Amorous Body Corrupts | 83067 | [83067-until-her-amorous-body-corrupts.json](./83067-until-her-amorous-body-corrupts.json) |
 | Until It's Undone | 185345 | [185345-until-its-undone.json](./185345-until-its-undone.json) |
 | Until It’s Undone: Unmastered | 282260 | [282260-until-it-s-undone-unmastered.json](./282260-until-it-s-undone-unmastered.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
@@ -3736,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Nightmare | 387442 | [387442-urban-nightmare.json](./387442-urban-nightmare.json) |
 | Urban Ninja | 343488 | [343488-urban-ninja.json](./343488-urban-ninja.json) |
 | Urban Project | 348877 | [348877-urban-project.json](./348877-urban-project.json) |
+| Urban Reign | 19776 | [19776-urban-reign.json](./19776-urban-reign.json) |
 | Urban Rivals World | 64821 | [64821-urban-rivals-world.json](./64821-urban-rivals-world.json) |
 | Urban Runner | 13789 | [13789-urban-runner.json](./13789-urban-runner.json) |
 | Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
