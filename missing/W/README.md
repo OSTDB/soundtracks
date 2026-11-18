@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waymantale Adventure | 389689 | [389689-waymantale-adventure.json](./389689-waymantale-adventure.json) |
 | Wayne Gretzky and Brett Hull Shootout Hockey | 198953 | [198953-wayne-gretzky-and-brett-hull-shootout-hockey.json](./198953-wayne-gretzky-and-brett-hull-shootout-hockey.json) |
 | Wayne Gretzky and the NHLPA All-Stars | 19759 | [19759-wayne-gretzky-and-the-nhlpa-all-stars.json](./19759-wayne-gretzky-and-the-nhlpa-all-stars.json) |
+| Wayne Gretzky Hockey | 15509 | [15509-wayne-gretzky-hockey.json](./15509-wayne-gretzky-hockey.json) |
 | Wayne Gretzky Hockey 2 | 15510 | [15510-wayne-gretzky-hockey-2.json](./15510-wayne-gretzky-hockey-2.json) |
 | Wayne Gretzky Hockey 3 | 15511 | [15511-wayne-gretzky-hockey-3.json](./15511-wayne-gretzky-hockey-3.json) |
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW Sting | 217952 | [217952-wcw-sting.json](./217952-wcw-sting.json) |
 | WCW SuperBrawl Wrestling | 38404 | [38404-wcw-superbrawl-wrestling.json](./38404-wcw-superbrawl-wrestling.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
+| WCW vs. the World | 18316 | [18316-wcw-vs-the-world.json](./18316-wcw-vs-the-world.json) |
 | WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
 | WCW World Championship Wrestling: The Main Event | 117971 | [117971-wcw-world-championship-wrestling-the-main-event.json](./117971-wcw-world-championship-wrestling-the-main-event.json) |
 | WCW: The Main Event | 48918 | [48918-wcw-the-main-event.json](./48918-wcw-the-main-event.json) |
@@ -10152,6 +10154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Skeletar: Last Breath | 398605 | [398605-wrath-of-skeletar-last-breath.json](./398605-wrath-of-skeletar-last-breath.json) |
 | Wrath of Sweetheart | 399350 | [399350-wrath-of-sweetheart.json](./399350-wrath-of-sweetheart.json) |
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
+| Wrath of the Black Manta | 10761 | [10761-wrath-of-the-black-manta.json](./10761-wrath-of-the-black-manta.json) |
 | Wrath of the Demon | 12832 | [12832-wrath-of-the-demon.json](./12832-wrath-of-the-demon.json) |
 | Wrath of the Gods | 73492 | [73492-wrath-of-the-gods.json](./73492-wrath-of-the-gods.json) |
 | Wrath of the Goliaths: Dinosaurs | 108634 | [108634-wrath-of-the-goliaths-dinosaurs.json](./108634-wrath-of-the-goliaths-dinosaurs.json) |
