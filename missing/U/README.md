@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Uncover It | 72535 | [72535-uncover-it.json](./72535-uncover-it.json) |
+| Uncover the Smoking Gun | 274275 | [274275-uncover-the-smoking-gun.json](./274275-uncover-the-smoking-gun.json) |
 | Uncover the Triad of Terror | 309052 | [309052-uncover-the-triad-of-terror.json](./309052-uncover-the-triad-of-terror.json) |
 | Uncover: Featuring Tatjanna | 45903 | [45903-uncover-featuring-tatjanna.json](./45903-uncover-featuring-tatjanna.json) |
 | Uncovered: 1945 | 282258 | [282258-uncovered-1945.json](./282258-uncovered-1945.json) |
@@ -2798,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unleashed | 334938 | [334938-unleashed.json](./334938-unleashed.json) |
 | Unleashed | 80858 | [80858-unleashed.json](./80858-unleashed.json) |
 | Unleashed Project | 145130 | [145130-unleashed-project.json](./145130-unleashed-project.json) |
+| Unleaving | 274707 | [274707-unleaving.json](./274707-unleaving.json) |
 | Unless | 314962 | [314962-unless.json](./314962-unless.json) |
 | Unless Terminalia | 399081 | [399081-unless-terminalia.json](./399081-unless-terminalia.json) |
 | Unlich | 315711 | [315711-unlich.json](./315711-unlich.json) |
