@@ -1785,7 +1785,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canto I | 312784 | [312784-canto-i.json](./312784-canto-i.json) |
 | Cantrip | 186070 | [186070-cantrip.json](./186070-cantrip.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
-| Canvaleon | 85017 | [85017-canvaleon.json](./85017-canvaleon.json) |
 | Canvas | 326568 | [326568-canvas.json](./326568-canvas.json) |
 | Canvas 2: Niji-iro no Sketch | 269410 | [269410-canvas-2-niji-iro-no-sketch.json](./269410-canvas-2-niji-iro-no-sketch.json) |
 | Canvas 3: Tanshoku no Pastel | 269411 | [269411-canvas-3-tanshoku-no-pastel.json](./269411-canvas-3-tanshoku-no-pastel.json) |
