@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Banker | 58139 | [58139-bad-banker.json](./58139-bad-banker.json) |
 | Bad Beat | 377115 | [377115-bad-beat.json](./377115-bad-beat.json) |
 | Bad Ben | 182250 | [182250-bad-ben.json](./182250-bad-ben.json) |
+| Bad Billy 2D VR | 115083 | [115083-bad-billy-2d-vr.json](./115083-bad-billy-2d-vr.json) |
 | Bad Birds | 205962 | [205962-bad-birds.json](./205962-bad-birds.json) |
 | Bad Birds | 302774 | [302774-bad-birds.json](./302774-bad-birds.json) |
 | Bad birthday | 30642 | [30642-bad-birthday.json](./30642-bad-birthday.json) |
@@ -6342,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatris | 75949 | [75949-beatris.json](./75949-beatris.json) |
 | Beatrix | 408422 | [408422-beatrix.json](./408422-beatrix.json) |
 | Beatrix | 410613 | [410613-beatrix.json](./410613-beatrix.json) |
+| Beats | 79415 | [79415-beats.json](./79415-beats.json) |
 | Beats Advanced Rhythm Game | 57295 | [57295-beats-advanced-rhythm-game.json](./57295-beats-advanced-rhythm-game.json) |
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
 | Beats Fever: Big Apple | 155369 | [155369-beats-fever-big-apple.json](./155369-beats-fever-big-apple.json) |
@@ -6512,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty List | 92133 | [92133-beauty-list.json](./92133-beauty-list.json) |
 | Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
 | Beauty Paradise | 201467 | [201467-beauty-paradise.json](./201467-beauty-paradise.json) |
+| Beauty Queen Makeover | 99214 | [99214-beauty-queen-makeover.json](./99214-beauty-queen-makeover.json) |
 | Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
 | Beauty Riddle | 309694 | [309694-beauty-riddle.json](./309694-beauty-riddle.json) |
 | Beauty Salon | 367878 | [367878-beauty-salon.json](./367878-beauty-salon.json) |
@@ -13760,6 +13763,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobby | 189997 | [189997-bobby.json](./189997-bobby.json) |
 | Bobby | 214017 | [214017-bobby.json](./214017-bobby.json) |
 | Bobby Bearing | 13415 | [13415-bobby-bearing.json](./13415-bobby-bearing.json) |
+| Bobby Carrot | 92169 | [92169-bobby-carrot.json](./92169-bobby-carrot.json) |
+| Bobby Carrot 2: Winterland | 92168 | [92168-bobby-carrot-2-winterland.json](./92168-bobby-carrot-2-winterland.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
 | Bobby Carrot 4: Flower Power | 135939 | [135939-bobby-carrot-4-flower-power.json](./135939-bobby-carrot-4-flower-power.json) |
 | Bobby Carrot Forever | 51083 | [51083-bobby-carrot-forever.json](./51083-bobby-carrot-forever.json) |
@@ -14387,6 +14392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman 2004 | 198196 | [198196-bomberman-2004.json](./198196-bomberman-2004.json) |
 | Bomberman 3D | 198032 | [198032-bomberman-3d.json](./198032-bomberman-3d.json) |
 | Bomberman 3D BT Wide-ban | 198213 | [198213-bomberman-3d-bt-wide-ban.json](./198213-bomberman-3d-bt-wide-ban.json) |
+| Bomberman 3DS | 92177 | [92177-bomberman-3ds.json](./92177-bomberman-3ds.json) |
 | Bomberman 64 | 3451 | [3451-bomberman-64.json](./3451-bomberman-64.json) |
 | Bomberman 64 | 80368 | [80368-bomberman-64.json](./80368-bomberman-64.json) |
 | Bomberman 64: The Second Attack! | 3452 | [3452-bomberman-64-the-second-attack.json](./3452-bomberman-64-the-second-attack.json) |
@@ -15565,6 +15571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Flip 3D | 119199 | [119199-bottle-flip-3d.json](./119199-bottle-flip-3d.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
+| Bottle Flip vs Glowing Hot Knife Simulator | 99211 | [99211-bottle-flip-vs-glowing-hot-knife-simulator.json](./99211-bottle-flip-vs-glowing-hot-knife-simulator.json) |
 | Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
 | Bottle Grannies | 244148 | [244148-bottle-grannies.json](./244148-bottle-grannies.json) |
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
@@ -15727,6 +15734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
 | Bounce Me | 27078 | [27078-bounce-me.json](./27078-bounce-me.json) |
 | Bounce Merge | 214300 | [214300-bounce-merge.json](./214300-bounce-merge.json) |
+| Bounce On | 76763 | [76763-bounce-on.json](./76763-bounce-on.json) |
 | Bounce On 2: Drallo's Demise | 182297 | [182297-bounce-on-2-drallos-demise.json](./182297-bounce-on-2-drallos-demise.json) |
 | Bounce on Back | 262895 | [262895-bounce-on-back.json](./262895-bounce-on-back.json) |
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
@@ -18919,6 +18927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter Pop! | 370357 | [370357-bubble-shooter-pop.json](./370357-bubble-shooter-pop.json) |
 | Bubble Shooter Star | 214288 | [214288-bubble-shooter-star.json](./214288-bubble-shooter-star.json) |
 | Bubble Shooter World | 328729 | [328729-bubble-shooter-world.json](./328729-bubble-shooter-world.json) |
+| Bubble Shooter: Classic Pop | 106022 | [106022-bubble-shooter-classic-pop.json](./106022-bubble-shooter-classic-pop.json) |
 | Bubble Shooter: Color Splash | 413361 | [413361-bubble-shooter-color-splash.json](./413361-bubble-shooter-color-splash.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter: HD | 175505 | [175505-bubble-shooter-hd.json](./175505-bubble-shooter-hd.json) |
@@ -18937,6 +18946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Strike | 106195 | [106195-bubble-strike.json](./106195-bubble-strike.json) |
 | Bubble Struggle | 199207 | [199207-bubble-struggle.json](./199207-bubble-struggle.json) |
 | Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
+| Bubble Struggle: Adventures | 76779 | [76779-bubble-struggle-adventures.json](./76779-bubble-struggle-adventures.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Symphony | 39422 | [39422-bubble-symphony.json](./39422-bubble-symphony.json) |
 | Bubble Tale | 194852 | [194852-bubble-tale.json](./194852-bubble-tale.json) |
@@ -19213,6 +19223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Alliance | 304438 | [304438-bug-alliance.json](./304438-bug-alliance.json) |
 | Bug Attack | 18747 | [18747-bug-attack.json](./18747-bug-attack.json) |
+| Bug Attack! | 79416 | [79416-bug-attack.json](./79416-bug-attack.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
 | Bug Bait | 349031 | [349031-bug-bait.json](./349031-bug-bait.json) |
 | Bug Ball | 274364 | [274364-bug-ball.json](./274364-bug-ball.json) |
@@ -20719,6 +20730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Game: Monopolist | 104406 | [104406-business-game-monopolist.json](./104406-business-game-monopolist.json) |
 | Business Heroes: Street Grub | 136088 | [136088-business-heroes-street-grub.json](./136088-business-heroes-street-grub.json) |
+| Business Inc. | 106026 | [106026-business-inc.json](./106026-business-inc.json) |
 | Business Inc. 3D Simulator | 175450 | [175450-business-inc-3d-simulator.json](./175450-business-inc-3d-simulator.json) |
 | Business Magnate | 112754 | [112754-business-magnate.json](./112754-business-magnate.json) |
 | Business Man 2000 | 69933 | [69933-business-man-2000.json](./69933-business-man-2000.json) |
