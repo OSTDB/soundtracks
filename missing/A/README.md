@@ -5378,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afteroids | 13292 | [13292-afteroids.json](./13292-afteroids.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | Afterpulse | 58625 | [58625-afterpulse.json](./58625-afterpulse.json) |
+| Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
 | Afterschool Adventurers Club | 235398 | [235398-afterschool-adventurers-club.json](./235398-afterschool-adventurers-club.json) |
@@ -6794,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Fever | 233467 | [233467-airport-fever.json](./233467-airport-fever.json) |
 | Airport Fire Department: The Simulation | 32041 | [32041-airport-fire-department-the-simulation.json](./32041-airport-fire-department-the-simulation.json) |
 | Airport Firefighter Simulator | 62469 | [62469-airport-firefighter-simulator.json](./62469-airport-firefighter-simulator.json) |
+| Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Ground Handling Simulator VR | 212673 | [212673-airport-ground-handling-simulator-vr.json](./212673-airport-ground-handling-simulator-vr.json) |
 | Airport Inc. | 60667 | [60667-airport-inc.json](./60667-airport-inc.json) |
