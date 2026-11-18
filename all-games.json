@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T02:45:58.826Z",
-  "total_soundtracks": 3836,
+  "generated_at": "2026-11-18T03:55:58.402Z",
+  "total_soundtracks": 3837,
   "games": [
     {
       "igdb_id": 292844,
@@ -12637,6 +12637,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/its-no-problem-easy-delivery-co-original-soundtrack-single/1844623248?uo=4",
           "album_link_url": "https://album.link/i/1844623248"
+        }
+      ]
+    },
+    {
+      "igdb_id": 24053,
+      "game_name": "Echoes of the Fey: The Fox's Trail",
+      "game_url": "https://ostdb.net/games/echoes-of-the-fey-the-foxs-trail",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c3283b3d332de660cb624298",
+      "albums": [
+        {
+          "album_name": "Echoes of the Fey: The Fox's Trail Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0DoQF2OdjzbQa6BCjuHjRj",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
