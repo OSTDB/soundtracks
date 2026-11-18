@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
 | Vampire Memories | 247954 | [247954-vampire-memories.json](./247954-vampire-memories.json) |
+| Vampire Moon: The Mystery of the Hidden Sun | 23663 | [23663-vampire-moon-the-mystery-of-the-hidden-sun.json](./23663-vampire-moon-the-mystery-of-the-hidden-sun.json) |
 | Vampire Mukuro | 424744 | [424744-vampire-mukuro.json](./424744-vampire-mukuro.json) |
 | Vampire Night | 13902 | [13902-vampire-night.json](./13902-vampire-night.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
@@ -2388,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilante 8 | 3332 | [3332-vigilante-8.json](./3332-vigilante-8.json) |
 | Vigilante 8 | 75423 | [75423-vigilante-8.json](./75423-vigilante-8.json) |
 | Vigilante 8: 2nd Offense | 3333 | [3333-vigilante-8-2nd-offense.json](./3333-vigilante-8-2nd-offense.json) |
+| Vigilante 8: Arcade | 23035 | [23035-vigilante-8-arcade.json](./23035-vigilante-8-arcade.json) |
 | Vigilante Racer | 265262 | [265262-vigilante-racer.json](./265262-vigilante-racer.json) |
 | Vigilante Ranger | 315942 | [315942-vigilante-ranger.json](./315942-vigilante-ranger.json) |
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
