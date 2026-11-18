@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gassy Getaway | 310076 | [310076-gassy-getaway.json](./310076-gassy-getaway.json) |
 | Gassy Man | 137364 | [137364-gassy-man.json](./137364-gassy-man.json) |
 | Gassy Mob | 59816 | [59816-gassy-mob.json](./59816-gassy-mob.json) |
+| Gast | 79417 | [79417-gast.json](./79417-gast.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastro Force | 197221 | [197221-gastro-force.json](./197221-gastro-force.json) |
 | Gastro Rush | 122088 | [122088-gastro-rush.json](./122088-gastro-rush.json) |
@@ -4460,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Town | 18522 | [18522-ghost-town.json](./18522-ghost-town.json) |
 | Ghost Town | 303288 | [303288-ghost-town.json](./303288-ghost-town.json) |
 | Ghost Town | 335127 | [335127-ghost-town.json](./335127-ghost-town.json) |
+| Ghost Town | 92178 | [92178-ghost-town.json](./92178-ghost-town.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
 | Ghost Town Mysteries: Bodie | 53081 | [53081-ghost-town-mysteries-bodie.json](./53081-ghost-town-mysteries-bodie.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
@@ -6096,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gniffel | 144479 | [144479-gniffel.json](./144479-gniffel.json) |
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
 | Gninja Pig | 237129 | [237129-gninja-pig.json](./237129-gninja-pig.json) |
+| Gnoblins | 79406 | [79406-gnoblins.json](./79406-gnoblins.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
 | GNOM | 347377 | [347377-gnom.json](./347377-gnom.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
@@ -6409,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go, Diego, Go!: Diego's Underwater Adventure | 413701 | [413701-go-diego-go-diegos-underwater-adventure.json](./413701-go-diego-go-diegos-underwater-adventure.json) |
 | Go, Go Cowboy | 149669 | [149669-go-go-cowboy.json](./149669-go-go-cowboy.json) |
 | Go, Go, Knight! | 195004 | [195004-go-go-knight.json](./195004-go-go-knight.json) |
+| Go, Poliwrath! | 79385 | [79385-go-poliwrath.json](./79385-go-poliwrath.json) |
 | Go, Smile | 246336 | [246336-go-smile.json](./246336-go-smile.json) |
 | Go, Sprout! | 200397 | [200397-go-sprout.json](./200397-go-sprout.json) |
 | Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
