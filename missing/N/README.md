@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Squadron | 391986 | [391986-nano-squadron.json](./391986-nano-squadron.json) |
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
 | Nano4x: Supremacy | 176618 | [176618-nano4x-supremacy.json](./176618-nano4x-supremacy.json) |
+| NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
 | Nanobotic | 111962 | [111962-nanobotic.json](./111962-nanobotic.json) |
 | Nanobots | 143456 | [143456-nanobots.json](./143456-nanobots.json) |
 | Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
@@ -3027,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptune's Secret | 65136 | [65136-neptunes-secret.json](./65136-neptunes-secret.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia | 69908 | [69908-neptunia.json](./69908-neptunia.json) |
+| Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
 | Neptunia Game Maker R:Evolution / Neptunia: Sisters vs. Sisters: Day One Edition - Dual Pack Plus | 300752 | [300752-neptunia-game-maker-r-evolution-neptunia-sisters-vs-sisters-day-one-edition-dual-pack-plus.json](./300752-neptunia-game-maker-r-evolution-neptunia-sisters-vs-sisters-day-one-edition-dual-pack-plus.json) |
 | Neptunia GameMaker R:Evolution | 247467 | [247467-neptunia-gamemaker-r-evolution.json](./247467-neptunia-gamemaker-r-evolution.json) |
 | Neptunia GameMaker R:Evolution - Digital Deluxe Edition | 255521 | [255521-neptunia-gamemaker-r-evolution-digital-deluxe-edition.json](./255521-neptunia-gamemaker-r-evolution-digital-deluxe-edition.json) |
