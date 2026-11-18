@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007 Legends: Skyfall | 110398 | [110398-007-legends-skyfall.json](./110398-007-legends-skyfall.json) |
 | 007: Everything or Nothing - XBE Recomp | 426038 | [426038-007-everything-or-nothing-xbe-recomp.json](./426038-007-everything-or-nothing-xbe-recomp.json) |
 | 007: Licence to Spell Doom | 312971 | [312971-007-licence-to-spell-doom.json](./312971-007-licence-to-spell-doom.json) |
+| 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
 | 007: Quantum of Solace | 156079 | [156079-007-quantum-of-solace.json](./156079-007-quantum-of-solace.json) |
 | 007: Quantum of Solace - Collector's Edition | 47468 | [47468-007-quantum-of-solace-collectors-edition.json](./47468-007-quantum-of-solace-collectors-edition.json) |
 | 007: Sonic Secret Agent | 266705 | [266705-007-sonic-secret-agent.json](./266705-007-sonic-secret-agent.json) |
@@ -690,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
 | 100 Hidden Birds 2 | 173342 | [173342-100-hidden-birds-2.json](./173342-100-hidden-birds-2.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
+| 100 Hidden Cats 2 | 160177 | [160177-100-hidden-cats-2.json](./160177-100-hidden-cats-2.json) |
 | 100 Hidden Cats in America | 330686 | [330686-100-hidden-cats-in-america.json](./330686-100-hidden-cats-in-america.json) |
 | 100 Hidden Cats in China | 283044 | [283044-100-hidden-cats-in-china.json](./283044-100-hidden-cats-in-china.json) |
 | 100 Hidden Cats in Games | 301590 | [301590-100-hidden-cats-in-games.json](./301590-100-hidden-cats-in-games.json) |
@@ -1505,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
 | 18 Wheels of Steel: Across America | 26814 | [26814-18-wheels-of-steel-across-america.json](./26814-18-wheels-of-steel-across-america.json) |
 | 18 Wheels of Steel: Convoy | 31696 | [31696-18-wheels-of-steel-convoy.json](./31696-18-wheels-of-steel-convoy.json) |
+| 18 Wheels of Steel: Extreme Trucker | 11428 | [11428-18-wheels-of-steel-extreme-trucker.json](./11428-18-wheels-of-steel-extreme-trucker.json) |
 | 18 Wheels of Steel: Haulin' | 31697 | [31697-18-wheels-of-steel-haulin.json](./31697-18-wheels-of-steel-haulin.json) |
 | 18 Wheels of Steel: Pedal to the Metal | 37046 | [37046-18-wheels-of-steel-pedal-to-the-metal.json](./37046-18-wheels-of-steel-pedal-to-the-metal.json) |
 | 18: Dream World | 56137 | [56137-18-dream-world.json](./56137-18-dream-world.json) |
@@ -1698,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1v1 Arcade Soccer | 58469 | [58469-1v1-arcade-soccer.json](./58469-1v1-arcade-soccer.json) |
 | 1v1 Battle | 188080 | [188080-1v1-battle.json](./188080-1v1-battle.json) |
 | 1v1 Cube Game | 135143 | [135143-1v1-cube-game.json](./135143-1v1-cube-game.json) |
+| 1v1.LOL | 130457 | [130457-1v1-lol.json](./130457-1v1-lol.json) |
 | 1vs1: Battle Royale for the throne | 116226 | [116226-1vs1-battle-royale-for-the-throne.json](./116226-1vs1-battle-royale-for-the-throne.json) |
 | 1Week | 235880 | [235880-1week.json](./235880-1week.json) |
 | 1x! Space Adventure | 169847 | [169847-1x-space-adventure.json](./169847-1x-space-adventure.json) |
@@ -1994,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2045, Tsuki yori. | 278568 | [278568-2045-tsuki-yori.json](./278568-2045-tsuki-yori.json) |
 | 2045: Wasteland Rebuild | 194028 | [194028-2045-wasteland-rebuild.json](./194028-2045-wasteland-rebuild.json) |
 | 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
+| 2048 | 143267 | [143267-2048.json](./143267-2048.json) |
 | 2048 | 181593 | [181593-2048.json](./181593-2048.json) |
 | 2048 | 214042 | [214042-2048.json](./214042-2048.json) |
 | 2048 | 256775 | [256775-2048.json](./256775-2048.json) |
@@ -3633,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days to Die: The Desert Armor Set | 353298 | [353298-7-days-to-die-the-desert-armor-set.json](./353298-7-days-to-die-the-desert-armor-set.json) |
 | 7 Days to Die: The Hoarder Armor Set | 353300 | [353300-7-days-to-die-the-hoarder-armor-set.json](./353300-7-days-to-die-the-hoarder-armor-set.json) |
 | 7 Days to Die: The Marauder Armor Set | 353299 | [353299-7-days-to-die-the-marauder-armor-set.json](./353299-7-days-to-die-the-marauder-armor-set.json) |
+| 7 Days to End with You | 189888 | [189888-7-days-to-end-with-you.json](./189888-7-days-to-end-with-you.json) |
 | 7 Days to Save the World | 189016 | [189016-7-days-to-save-the-world.json](./189016-7-days-to-save-the-world.json) |
 | 7 Days To Think About It | 366280 | [366280-7-days-to-think-about-it.json](./366280-7-days-to-think-about-it.json) |
 | 7 days with Death | 73082 | [73082-7-days-with-death.json](./73082-7-days-with-death.json) |
