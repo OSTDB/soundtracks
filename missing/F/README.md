@@ -9432,6 +9432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florafarm | 428119 | [428119-florafarm.json](./428119-florafarm.json) |
 | Floragram | 186585 | [186585-floragram.json](./186585-floragram.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
+| Floral Aroma in the Shrine | 107699 | [107699-floral-aroma-in-the-shrine.json](./107699-floral-aroma-in-the-shrine.json) |
 | Floral Disaffect | 386065 | [386065-floral-disaffect.json](./386065-floral-disaffect.json) |
 | Floral Flowlove | 98085 | [98085-floral-flowlove.json](./98085-floral-flowlove.json) |
 | Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
