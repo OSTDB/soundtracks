@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vade Retro Satana | 366360 | [366360-vade-retro-satana.json](./366360-vade-retro-satana.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
 | Vader Immortal: A Star Wars VR Series - Special Retail Edition | 166260 | [166260-vader-immortal-a-star-wars-vr-series-special-retail-edition.json](./166260-vader-immortal-a-star-wars-vr-series-special-retail-edition.json) |
+| Vader Immortal: Episode II | 122633 | [122633-vader-immortal-episode-ii.json](./122633-vader-immortal-episode-ii.json) |
 | Vader Immortal: Episode III | 126168 | [126168-vader-immortal-episode-iii.json](./126168-vader-immortal-episode-iii.json) |
 | Vader Immortal: Lightsaber Dojo - A Star Wars VR Experience | 150053 | [150053-vader-immortal-lightsaber-dojo-a-star-wars-vr-experience.json](./150053-vader-immortal-lightsaber-dojo-a-star-wars-vr-experience.json) |
 | Vaders | 54554 | [54554-vaders.json](./54554-vaders.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Games: Midnight Madness | 206204 | [206204-vegas-games-midnight-madness.json](./206204-vegas-games-midnight-madness.json) |
 | Vegas Girls | 45902 | [45902-vegas-girls.json](./45902-vegas-girls.json) |
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
+| Vegas Infinite by PokerStars | 110104 | [110104-vegas-infinite-by-pokerstars.json](./110104-vegas-infinite-by-pokerstars.json) |
 | Vegas Jackpot | 416711 | [416711-vegas-jackpot.json](./416711-vegas-jackpot.json) |
 | Vegas Jackpot Gold | 131030 | [131030-vegas-jackpot-gold.json](./131030-vegas-jackpot-gold.json) |
 | Vegas Nights | 383989 | [383989-vegas-nights.json](./383989-vegas-nights.json) |
@@ -2898,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter CG Portrait Series Vol.6: Lau Chan | 97597 | [97597-virtua-fighter-cg-portrait-series-vol-6-lau-chan.json](./97597-virtua-fighter-cg-portrait-series-vol-6-lau-chan.json) |
 | Virtua Fighter Cool Champ | 295133 | [295133-virtua-fighter-cool-champ.json](./295133-virtua-fighter-cool-champ.json) |
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
+| Virtua Fighter Kids | 1549 | [1549-virtua-fighter-kids.json](./1549-virtua-fighter-kids.json) |
 | Virtua Fighter Recomp | 423261 | [423261-virtua-fighter-recomp.json](./423261-virtua-fighter-recomp.json) |
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
@@ -3845,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidHue | 403319 | [403319-voidhue.json](./403319-voidhue.json) |
 | Voidhunter | 184221 | [184221-voidhunter.json](./184221-voidhunter.json) |
 | Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
+| Voidigo | 143639 | [143639-voidigo.json](./143639-voidigo.json) |
 | Voidland Mystery Goodnight | 215225 | [215225-voidland-mystery-goodnight.json](./215225-voidland-mystery-goodnight.json) |
 | Voidless | 244914 | [244914-voidless.json](./244914-voidless.json) |
 | Voidlifted | 123487 | [123487-voidlifted.json](./123487-voidlifted.json) |
@@ -4234,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxie Survivor | 407861 | [407861-voxie-survivor.json](./407861-voxie-survivor.json) |
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
+| Voxiom.io | 139381 | [139381-voxiom-io.json](./139381-voxiom-io.json) |
 | VoxLand | 410640 | [410640-voxland.json](./410640-voxland.json) |
 | Voxmons | 425869 | [425869-voxmons.json](./425869-voxmons.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
