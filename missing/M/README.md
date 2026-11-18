@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
 | Magical Drop CPC | 170778 | [170778-magical-drop-cpc.json](./170778-magical-drop-cpc.json) |
+| Magical Drop DX | 171096 | [171096-magical-drop-dx.json](./171096-magical-drop-dx.json) |
 | Magical Drop F: Daibouken Mo Raku Janai! | 44790 | [44790-magical-drop-f-daibouken-mo-raku-janai.json](./44790-magical-drop-f-daibouken-mo-raku-janai.json) |
 | Magical Drop for WonderSwan | 37573 | [37573-magical-drop-for-wonderswan.json](./37573-magical-drop-for-wonderswan.json) |
 | Magical Drop II | 39348 | [39348-magical-drop-ii.json](./39348-magical-drop-ii.json) |
@@ -1664,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
 | Magical Drop Pocket | 43993 | [43993-magical-drop-pocket.json](./43993-magical-drop-pocket.json) |
+| Magical Drop Touch | 171095 | [171095-magical-drop-touch.json](./171095-magical-drop-touch.json) |
 | Magical Drop Yurutto | 67846 | [67846-magical-drop-yurutto.json](./67846-magical-drop-yurutto.json) |
 | Magical Error wo Sagase | 268846 | [268846-magical-error-wo-sagase.json](./268846-magical-error-wo-sagase.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
@@ -2450,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
 | Mahoujin Guru-guru | 44440 | [44440-mahoujin-guru-guru.json](./44440-mahoujin-guru-guru.json) |
 | Mahoujin Guru-guru 2 | 44439 | [44439-mahoujin-guru-guru-2.json](./44439-mahoujin-guru-guru-2.json) |
+| Mahoujin Guru-guru: Yuusha to Kukuri no Daibouken | 196216 | [196216-mahoujin-guru-guru-yuusha-to-kukuri-no-daibouken.json](./196216-mahoujin-guru-guru-yuusha-to-kukuri-no-daibouken.json) |
 | Mahouka Koukou no Rettousei: Lost Zero | 60965 | [60965-mahouka-koukou-no-rettousei-lost-zero.json](./60965-mahouka-koukou-no-rettousei-lost-zero.json) |
 | Mahouka Koukou no Rettousei: Out of Order | 61996 | [61996-mahouka-koukou-no-rettousei-out-of-order.json](./61996-mahouka-koukou-no-rettousei-out-of-order.json) |
 | Mahouka Koukou no Rettousei: School Magicus Battle | 60828 | [60828-mahouka-koukou-no-rettousei-school-magicus-battle.json](./60828-mahouka-koukou-no-rettousei-school-magicus-battle.json) |
@@ -3436,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandew vs the Colorless Curse | 156840 | [156840-mandew-vs-the-colorless-curse.json](./156840-mandew-vs-the-colorless-curse.json) |
 | Mandew vs the Upside Down Machine | 419303 | [419303-mandew-vs-the-upside-down-machine.json](./419303-mandew-vs-the-upside-down-machine.json) |
 | Mandew vs. The Forever Rain+ | 257773 | [257773-mandew-vs-the-forever-rain.json](./257773-mandew-vs-the-forever-rain.json) |
+| Mandinga: A Tale of Banzo | 171099 | [171099-mandinga-a-tale-of-banzo.json](./171099-mandinga-a-tale-of-banzo.json) |
 | Mandora | 63939 | [63939-mandora.json](./63939-mandora.json) |
 | Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
@@ -7711,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Relations Ep 2 | 398691 | [398691-mechanical-relations-ep-2.json](./398691-mechanical-relations-ep-2.json) |
 | Mechanical Siege | 244146 | [244146-mechanical-siege.json](./244146-mechanical-siege.json) |
 | Mechanical Siege | 283845 | [283845-mechanical-siege.json](./283845-mechanical-siege.json) |
+| Mechanical Star Astra | 140677 | [140677-mechanical-star-astra.json](./140677-mechanical-star-astra.json) |
 | Mechanical Successor Bizameka | 417978 | [417978-mechanical-successor-bizameka.json](./417978-mechanical-successor-bizameka.json) |
 | Mechanical Sunset | 202452 | [202452-mechanical-sunset.json](./202452-mechanical-sunset.json) |
 | Mechanical Throb | 356340 | [356340-mechanical-throb.json](./356340-mechanical-throb.json) |
@@ -8409,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2 Mobile | 103892 | [103892-mega-man-2-mobile.json](./103892-mega-man-2-mobile.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
 | Mega Man 2 Revamped | 391133 | [391133-mega-man-2-revamped.json](./391133-mega-man-2-revamped.json) |
+| Mega Man 2: 30th Anniversary Classic Cartridge | 196208 | [196208-mega-man-2-30th-anniversary-classic-cartridge.json](./196208-mega-man-2-30th-anniversary-classic-cartridge.json) |
 | Mega Man 2: Atari De-Make | 242748 | [242748-mega-man-2-atari-de-make.json](./242748-mega-man-2-atari-de-make.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
 | Mega Man 2.5D | 27306 | [27306-mega-man-2-5d.json](./27306-mega-man-2-5d.json) |
@@ -10268,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memrrtiks, Suashem | 358789 | [358789-memrrtiks-suashem.json](./358789-memrrtiks-suashem.json) |
 | Men Are From Mars, Women Are From Venus: The CD-ROM Game | 60351 | [60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json](./60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json) |
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
+| Men Bang | 161417 | [161417-men-bang.json](./161417-men-bang.json) |
 | Men Busters | 129469 | [129469-men-busters.json](./129469-men-busters.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
 | Men In Black | 199004 | [199004-men-in-black.json](./199004-men-in-black.json) |
@@ -14661,6 +14668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Lunar Ball | 304236 | [304236-mini-lunar-ball.json](./304236-mini-lunar-ball.json) |
 | Mini Madness | 162733 | [162733-mini-madness.json](./162733-mini-madness.json) |
 | Mini Magic Match | 393810 | [393810-mini-magic-match.json](./393810-mini-magic-match.json) |
+| Mini Maker: Make A Thing | 161434 | [161434-mini-maker-make-a-thing.json](./161434-mini-maker-make-a-thing.json) |
 | Mini Mania | 341238 | [341238-mini-mania.json](./341238-mini-mania.json) |
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Mario & Friends: Amiibo Challenge | 18195 | [18195-mini-mario-and-friends-amiibo-challenge.json](./18195-mini-mario-and-friends-amiibo-challenge.json) |
@@ -16086,6 +16094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsubachi Gakuen | 107646 | [107646-mitsubachi-gakuen.json](./107646-mitsubachi-gakuen.json) |
 | Mitsugasero! Joon-chan!! | 277653 | [277653-mitsugasero-joon-chan.json](./277653-mitsugasero-joon-chan.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
+| Mitsuiro no Yuki | 181947 | [181947-mitsuiro-no-yuki.json](./181947-mitsuiro-no-yuki.json) |
 | Mitsukete! Keroro Gunsou: Machigai Sagashi Daisakusen de Arimasu! | 294619 | [294619-mitsukete-keroro-gunsou-machigai-sagashi-daisakusen-de-arimasu.json](./294619-mitsukete-keroro-gunsou-machigai-sagashi-daisakusen-de-arimasu.json) |
 | Mitsukikuzushi | 98020 | [98020-mitsukikuzushi.json](./98020-mitsukikuzushi.json) |
 | Mitsume | 376398 | [376398-mitsume.json](./376398-mitsume.json) |
@@ -20811,6 +20820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move My Moc | 251881 | [251881-move-my-moc.json](./251881-move-my-moc.json) |
 | Move Nature | 234735 | [234735-move-nature.json](./234735-move-nature.json) |
+| Move On | 140663 | [140663-move-on.json](./140663-move-on.json) |
 | Move On | 237261 | [237261-move-on.json](./237261-move-on.json) |
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
 | Move or Die: Unleashed | 324846 | [324846-move-or-die-unleashed.json](./324846-move-or-die-unleashed.json) |
@@ -23080,6 +23090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Colony | 111097 | [111097-my-colony.json](./111097-my-colony.json) |
 | My Colony 2 | 200723 | [200723-my-colony-2.json](./200723-my-colony-2.json) |
 | My Coloring Book | 147836 | [147836-my-coloring-book.json](./147836-my-coloring-book.json) |
+| My Coloring Book 2 | 196184 | [196184-my-coloring-book-2.json](./196184-my-coloring-book-2.json) |
 | My Coloring Book: Animals | 68658 | [68658-my-coloring-book-animals.json](./68658-my-coloring-book-animals.json) |
 | My Coloring Book: Professions | 82285 | [82285-my-coloring-book-professions.json](./82285-my-coloring-book-professions.json) |
 | My Coloring Book: Transport | 81110 | [81110-my-coloring-book-transport.json](./81110-my-coloring-book-transport.json) |
@@ -23116,6 +23127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
 | My Curry BoyFriend | 299628 | [299628-my-curry-boyfriend.json](./299628-my-curry-boyfriend.json) |
+| My Cute Commissar | 161429 | [161429-my-cute-commissar.json](./161429-my-cute-commissar.json) |
 | My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
 | My Cute Girls | 385017 | [385017-my-cute-girls.json](./385017-my-cute-girls.json) |
 | My Cute Pagangirl | 153037 | [153037-my-cute-pagangirl.json](./153037-my-cute-pagangirl.json) |
