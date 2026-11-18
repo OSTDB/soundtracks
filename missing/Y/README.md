@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
 | Yatagarasu | 80617 | [80617-yatagarasu.json](./80617-yatagarasu.json) |
 | Yatagarasu Enter the Eastward | 282127 | [282127-yatagarasu-enter-the-eastward.json](./282127-yatagarasu-enter-the-eastward.json) |
+| Yatagarasu: Attack on Cataclysm | 17763 | [17763-yatagarasu-attack-on-cataclysm.json](./17763-yatagarasu-attack-on-cataclysm.json) |
 | Yatai 8 | 414075 | [414075-yatai-8.json](./414075-yatai-8.json) |
 | YATB: You Are the Best - Egypt Chapter | 143943 | [143943-yatb-you-are-the-best-egypt-chapter.json](./143943-yatb-you-are-the-best-egypt-chapter.json) |
 | YATC | 62029 | [62029-yatc.json](./62029-yatc.json) |
@@ -1771,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys II Complete | 124500 | [124500-ys-ii-complete.json](./124500-ys-ii-complete.json) |
 | Ys II DS | 112196 | [112196-ys-ii-ds.json](./112196-ys-ii-ds.json) |
 | Ys II Eternal | 124502 | [124502-ys-ii-eternal.json](./124502-ys-ii-eternal.json) |
+| Ys II: Ancient Ys Vanished - The Final Chapter | 15449 | [15449-ys-ii-ancient-ys-vanished-the-final-chapter.json](./15449-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
 | Ys II: Ancient Ys Vanished - The Final Chapter | 206639 | [206639-ys-ii-ancient-ys-vanished-the-final-chapter.json](./206639-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
 | Ys III | 206522 | [206522-ys-iii.json](./206522-ys-iii.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
