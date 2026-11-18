@@ -23336,7 +23336,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
 | Spacetug | 179028 | [179028-spacetug.json](./179028-spacetug.json) |
 | Spaceum | 356050 | [356050-spaceum.json](./356050-spaceum.json) |
-| SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | SpaceVibes | 129120 | [129120-spacevibes.json](./129120-spacevibes.json) |
 | Spacewalk Defender | 133664 | [133664-spacewalk-defender.json](./133664-spacewalk-defender.json) |
 | SpaceWalker | 81065 | [81065-spacewalker.json](./81065-spacewalker.json) |
