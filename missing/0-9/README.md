@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 200 Klassische Bucher | 269539 | [269539-200-klassische-bucher.json](./269539-200-klassische-bucher.json) |
 | 200 Line Massacre: The Slaughtering | 273262 | [273262-200-line-massacre-the-slaughtering.json](./273262-200-line-massacre-the-slaughtering.json) |
 | 200 Tolerance | 247119 | [247119-200-tolerance.json](./247119-200-tolerance.json) |
+| 200% Mixed Juice! | 14048 | [14048-200-mixed-juice.json](./14048-200-mixed-juice.json) |
 | 2000:1 - A Space Felony: Or How I Came to Value My Life and Murder Mercilessly | 69515 | [69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json](./69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json) |
 | 20000 Atmospheres | 44084 | [44084-20000-atmospheres.json](./44084-20000-atmospheres.json) |
 | 2000s Rock Legends: Music Pack | 325822 | [325822-2000s-rock-legends-music-pack.json](./325822-2000s-rock-legends-music-pack.json) |
@@ -3751,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Domain: Tree of Chaos | 308917 | [308917-7th-domain-tree-of-chaos.json](./308917-7th-domain-tree-of-chaos.json) |
 | 7th Dragon 2020 | 11823 | [11823-7th-dragon-2020.json](./11823-7th-dragon-2020.json) |
 | 7th Dragon 2020-II | 11826 | [11826-7th-dragon-2020-ii.json](./11826-7th-dragon-2020-ii.json) |
+| 7th Dragon III Code: VFD | 11828 | [11828-7th-dragon-iii-code-vfd.json](./11828-7th-dragon-iii-code-vfd.json) |
 | 7th Dragon III Code: VFD - Launch Edition | 44019 | [44019-7th-dragon-iii-code-vfd-launch-edition.json](./44019-7th-dragon-iii-code-vfd-launch-edition.json) |
 | 7th Floor | 305696 | [305696-7th-floor.json](./305696-7th-floor.json) |
 | 7th Legion | 9895 | [9895-7th-legion.json](./9895-7th-legion.json) |
@@ -3925,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit-Collection Data East Vol. 01 | 97886 | [97886-8bit-collection-data-east-vol-01.json](./97886-8bit-collection-data-east-vol-01.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8bit-Collection Jaleco Vol. 02 | 97884 | [97884-8bit-collection-jaleco-vol-02.json](./97884-8bit-collection-jaleco-vol-02.json) |
+| 8BitBoy | 17331 | [17331-8bitboy.json](./17331-8bitboy.json) |
 | 8bitWar: Apokalyps | 134313 | [134313-8bitwar-apokalyps.json](./134313-8bitwar-apokalyps.json) |
 | 8bitWar: Necropolis | 103112 | [103112-8bitwar-necropolis.json](./103112-8bitwar-necropolis.json) |
 | 8bitWar: Netherworld | 134312 | [134312-8bitwar-netherworld.json](./134312-8bitwar-netherworld.json) |
