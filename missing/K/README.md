@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karmen's Interactive Playplace | 212366 | [212366-karmens-interactive-playplace.json](./212366-karmens-interactive-playplace.json) |
 | Karmen's Interactive Playplace: Redux | 212375 | [212375-karmens-interactive-playplace-redux.json](./212375-karmens-interactive-playplace-redux.json) |
 | Karmx | 371198 | [371198-karmx.json](./371198-karmx.json) |
+| Karmzah | 429586 | [429586-karmzah.json](./429586-karmzah.json) |
 | Karnaaj Rally | 6489 | [6489-karnaaj-rally.json](./6489-karnaaj-rally.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
 | Karnage.io | 126064 | [126064-karnage-io.json](./126064-karnage-io.json) |
@@ -6152,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
 | Kopi | 351307 | [351307-kopi.json](./351307-kopi.json) |
 | KopiCat | 364237 | [364237-kopicat.json](./364237-kopicat.json) |
+| Kopno | 429573 | [429573-kopno.json](./429573-kopno.json) |
 | Koppotate's Rescue Mission | 294581 | [294581-koppotates-rescue-mission.json](./294581-koppotates-rescue-mission.json) |
 | Koppotate's Rescue Mission 2: The Path to Eradication | 313367 | [313367-koppotates-rescue-mission-2-the-path-to-eradication.json](./313367-koppotates-rescue-mission-2-the-path-to-eradication.json) |
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
