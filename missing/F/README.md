@@ -14378,6 +14378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission | 47718 | [47718-front-mission.json](./47718-front-mission.json) |
 | Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
 | Front Mission 2 | 1500 | [1500-front-mission-2.json](./1500-front-mission-2.json) |
+| Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Mission 2089 | 1504 | [1504-front-mission-2089.json](./1504-front-mission-2089.json) |
 | Front Mission 2089-II | 1507 | [1507-front-mission-2089-ii.json](./1507-front-mission-2089-ii.json) |
 | Front Mission 2089: Border of Madness | 72662 | [72662-front-mission-2089-border-of-madness.json](./72662-front-mission-2089-border-of-madness.json) |
