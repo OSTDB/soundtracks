@@ -8785,6 +8785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripit Hook | 199145 | [199145-ripit-hook.json](./199145-ripit-hook.json) |
 | Ripley Remembered | 355842 | [355842-ripley-remembered.json](./355842-ripley-remembered.json) |
 | Ripley's Believe It or Not!: The Riddle of Master Lu | 12472 | [12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json](./12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json) |
+| Riposte! | 129284 | [129284-riposte.json](./129284-riposte.json) |
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
 | Ripped Pants at Work | 76273 | [76273-ripped-pants-at-work.json](./76273-ripped-pants-at-work.json) |
 | Ripped Pixel Dungeon | 313945 | [313945-ripped-pixel-dungeon.json](./313945-ripped-pixel-dungeon.json) |
@@ -11464,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Stormers | 17374 | [17374-rogue-stormers.json](./17374-rogue-stormers.json) |
 | Rogue Stormers & Giana Sisters Bundle | 201726 | [201726-rogue-stormers-and-giana-sisters-bundle.json](./201726-rogue-stormers-and-giana-sisters-bundle.json) |
 | Rogue Suits | 423228 | [423228-rogue-suits.json](./423228-rogue-suits.json) |
+| Rogue Summoner | 137136 | [137136-rogue-summoner.json](./137136-rogue-summoner.json) |
 | Rogue Sundown | 396638 | [396638-rogue-sundown.json](./396638-rogue-sundown.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
@@ -13698,6 +13700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule The Beach Volleyball | 324832 | [324832-rule-the-beach-volleyball.json](./324832-rule-the-beach-volleyball.json) |
 | Rule the Dungeon | 398777 | [398777-rule-the-dungeon.json](./398777-rule-the-dungeon.json) |
 | Rule the Kingdom | 343760 | [343760-rule-the-kingdom.json](./343760-rule-the-kingdom.json) |
+| Rule the Rail! | 129263 | [129263-rule-the-rail.json](./129263-rule-the-rail.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3 | 249172 | [249172-rule-the-waves-3.json](./249172-rule-the-waves-3.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
