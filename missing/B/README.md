@@ -7582,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Berry Festival | 331199 | [331199-berry-berry-festival.json](./331199-berry-berry-festival.json) |
 | Berry Berry Mew Mew | 289359 | [289359-berry-berry-mew-mew.json](./289359-berry-berry-mew-mew.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
+| Berry Busy Tidy Up! | 430195 | [430195-berry-busy-tidy-up.json](./430195-berry-busy-tidy-up.json) |
 | Berry Couple | 334799 | [334799-berry-couple.json](./334799-berry-couple.json) |
 | Berry Fall | 143836 | [143836-berry-fall.json](./143836-berry-fall.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
