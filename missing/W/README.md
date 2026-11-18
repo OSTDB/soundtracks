@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warno: Expansion Pass | 312006 | [312006-warno-expansion-pass.json](./312006-warno-expansion-pass.json) |
 | Warno: Gold Edition | 402945 | [402945-warno-gold-edition.json](./402945-warno-gold-edition.json) |
 | Warno: Landjut | 398828 | [398828-warno-landjut.json](./398828-warno-landjut.json) |
+| Warno: Nemesis #1 - Air Assault | 336800 | [336800-warno-nemesis-1-air-assault.json](./336800-warno-nemesis-1-air-assault.json) |
 | Warno: Nemesis #2 | 311393 | [311393-warno-nemesis-2.json](./311393-warno-nemesis-2.json) |
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
 | Warno: Nemesis #4 - Capital Defence | 376081 | [376081-warno-nemesis-4-capital-defence.json](./376081-warno-nemesis-4-capital-defence.json) |
@@ -5858,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Gunman Remake | 411646 | [411646-wild-gunman-remake.json](./411646-wild-gunman-remake.json) |
 | Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
+| Wild Harmony | 336803 | [336803-wild-harmony.json](./336803-wild-harmony.json) |
 | Wild Haven | 320603 | [320603-wild-haven.json](./320603-wild-haven.json) |
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
 | Wild Hearts | 218793 | [218793-wild-hearts.json](./218793-wild-hearts.json) |
@@ -9895,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldwide Boxing Manager | 53106 | [53106-worldwide-boxing-manager.json](./53106-worldwide-boxing-manager.json) |
 | Worldwide Combos | 83427 | [83427-worldwide-combos.json](./83427-worldwide-combos.json) |
 | WorldWide FlightSimulator | 213215 | [213215-worldwide-flightsimulator.json](./213215-worldwide-flightsimulator.json) |
+| Worldwide Rush | 342928 | [342928-worldwide-rush.json](./342928-worldwide-rush.json) |
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
 | Worldwide Soccer 2 | 47112 | [47112-worldwide-soccer-2.json](./47112-worldwide-soccer-2.json) |
 | Worldwide Soccer: Sega International Victory Goal Edition | 19755 | [19755-worldwide-soccer-sega-international-victory-goal-edition.json](./19755-worldwide-soccer-sega-international-victory-goal-edition.json) |
