@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlike | 151151 | [151151-warlike.json](./151151-warlike.json) |
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
 | Warlock | 13044 | [13044-warlock.json](./13044-warlock.json) |
+| Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
 | Warlock and Boobs | 262027 | [262027-warlock-and-boobs.json](./262027-warlock-and-boobs.json) |
 | Warlock Bentspine: Toilet Edition | 143144 | [143144-warlock-bentspine-toilet-edition.json](./143144-warlock-bentspine-toilet-edition.json) |
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
@@ -2906,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wavecade: Ships Pack | 263085 | [263085-wavecade-ships-pack.json](./263085-wavecade-ships-pack.json) |
 | WaveCrash!! | 97951 | [97951-wavecrash.json](./97951-wavecrash.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
+| Waveform | 15273 | [15273-waveform.json](./15273-waveform.json) |
 | Waveform Wipeout | 105687 | [105687-waveform-wipeout.json](./105687-waveform-wipeout.json) |
 | Waveform: Eris | 168945 | [168945-waveform-eris.json](./168945-waveform-eris.json) |
 | Wavefront | 384120 | [384120-wavefront.json](./384120-wavefront.json) |
@@ -8977,6 +8979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Snooker 2002 | 72788 | [72788-world-championship-snooker-2002.json](./72788-world-championship-snooker-2002.json) |
 | World Championship Snooker 2003 | 14547 | [14547-world-championship-snooker-2003.json](./14547-world-championship-snooker-2003.json) |
 | World Championship Snooker 2004 | 70728 | [70728-world-championship-snooker-2004.json](./70728-world-championship-snooker-2004.json) |
+| World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
 | World Championship Soccer | 300560 | [300560-world-championship-soccer.json](./300560-world-championship-soccer.json) |
 | World Championship Soccer II | 46686 | [46686-world-championship-soccer-ii.json](./46686-world-championship-soccer-ii.json) |
 | World Championship Spelling | 205880 | [205880-world-championship-spelling.json](./205880-world-championship-spelling.json) |
@@ -10211,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreck-It Ralph: The Video Game | 51655 | [51655-wreck-it-ralph-the-video-game.json](./51655-wreck-it-ralph-the-video-game.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
+| Wreckateer | 18052 | [18052-wreckateer.json](./18052-wreckateer.json) |
 | Wreckborn | 383282 | [383282-wreckborn.json](./383282-wreckborn.json) |
 | Wreckboy | 229632 | [229632-wreckboy.json](./229632-wreckboy.json) |
 | Wreckdigger | 188922 | [188922-wreckdigger.json](./188922-wreckdigger.json) |
