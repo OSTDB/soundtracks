@@ -11268,7 +11268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuyaku ni Narenai Boku-tachi ha Kadan de Kaeru wo Tsubusunda. | 314849 | [314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json](./314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json) |
 | Shuyaku Sentai Irem Fighter | 210800 | [210800-shuyaku-sentai-irem-fighter.json](./210800-shuyaku-sentai-irem-fighter.json) |
 | Shuyaku wa Zenigata | 66203 | [66203-shuyaku-wa-zenigata.json](./66203-shuyaku-wa-zenigata.json) |
-| Shuyan Saga | 27692 | [27692-shuyan-saga.json](./27692-shuyan-saga.json) |
 | Shuyan Saga: All Episodes | 103995 | [103995-shuyan-saga-all-episodes.json](./103995-shuyan-saga-all-episodes.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
 | Shuzle | 233728 | [233728-shuzle.json](./233728-shuzle.json) |
