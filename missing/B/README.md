@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Pet Rescue | 200589 | [200589-barbie-pet-rescue.json](./200589-barbie-pet-rescue.json) |
 | Barbie Photo Designer | 200606 | [200606-barbie-photo-designer.json](./200606-barbie-photo-designer.json) |
 | Barbie Project Friendship | 312287 | [312287-barbie-project-friendship.json](./312287-barbie-project-friendship.json) |
+| Barbie Rewind | 405096 | [405096-barbie-rewind.json](./405096-barbie-rewind.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie Super Model GG2SMS | 369482 | [369482-barbie-super-model-gg2sms.json](./369482-barbie-super-model-gg2sms.json) |
@@ -12498,6 +12499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Drive | 380025 | [380025-blood-drive.json](./380025-blood-drive.json) |
 | Blood Drive | 6922 | [6922-blood-drive.json](./6922-blood-drive.json) |
 | Blood Drop | 151911 | [151911-blood-drop.json](./151911-blood-drop.json) |
+| Blood Dungeon | 404724 | [404724-blood-dungeon.json](./404724-blood-dungeon.json) |
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
 | Blood Exile | 226106 | [226106-blood-exile.json](./226106-blood-exile.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
