@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T01:46:02.533Z",
-  "total_soundtracks": 3808,
+  "generated_at": "2026-11-18T01:51:03.545Z",
+  "total_soundtracks": 3810,
   "games": [
     {
       "igdb_id": 292844,
@@ -1991,6 +1991,20 @@
         {
           "album_name": "Angry Video Game Nerd (I & II Deluxe Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0rN9gNgOeAy4dexE0aByHg",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 33165,
+      "game_name": "Angus Hates Aliens",
+      "game_url": "https://ostdb.net/games/angus-hates-aliens",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27301909ba035845c6acd1a87de",
+      "albums": [
+        {
+          "album_name": "Angus Hates Aliens (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2OpIYMB7GSN9hVtdxLLw8z",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26587,6 +26601,20 @@
         {
           "album_name": "Moving Out 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1w9tj0XtqARue3oDLioW9M",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 31780,
+      "game_name": "Mu Cartographer",
+      "game_url": "https://ostdb.net/games/mu-cartographer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e571f06ac6015fcf0127b4ba",
+      "albums": [
+        {
+          "album_name": "Mu Cartographer (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4A3GuebC0BWAQXJi6KuSAd",
           "apple_music_url": "",
           "album_link_url": ""
         }
