@@ -3922,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: New Operative | 202740 | [202740-scp-new-operative.json](./202740-scp-new-operative.json) |
 | SCP: Nine-Tailed Fox | 165324 | [165324-scp-nine-tailed-fox.json](./165324-scp-nine-tailed-fox.json) |
 | SCP: November 2010 | 337593 | [337593-scp-november-2010.json](./337593-scp-november-2010.json) |
+| SCP: One More Life | 129262 | [129262-scp-one-more-life.json](./129262-scp-one-more-life.json) |
 | SCP: Pale Weaver | 405867 | [405867-scp-pale-weaver.json](./405867-scp-pale-weaver.json) |
 | SCP: Permafrost | 409328 | [409328-scp-permafrost.json](./409328-scp-permafrost.json) |
 | SCP: Recontainment | 132290 | [132290-scp-recontainment.json](./132290-scp-recontainment.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Terror Hunt | 203471 | [203471-scp-terror-hunt.json](./203471-scp-terror-hunt.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
 | SCP: The Endurance | 228377 | [228377-scp-the-endurance.json](./228377-scp-the-endurance.json) |
+| SCP: The Foundation | 137122 | [137122-scp-the-foundation.json](./137122-scp-the-foundation.json) |
 | SCP: The Paranormal | 212210 | [212210-scp-the-paranormal.json](./212210-scp-the-paranormal.json) |
 | SCP: Undeads Winter's | 169737 | [169737-scp-undeads-winters.json](./169737-scp-undeads-winters.json) |
 | SCP: Unity | 130903 | [130903-scp-unity.json](./130903-scp-unity.json) |
@@ -9122,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherds of the Abyss | 33623 | [33623-shepherds-of-the-abyss.json](./33623-shepherds-of-the-abyss.json) |
 | Shephy | 41893 | [41893-shephy.json](./41893-shephy.json) |
 | Sheppard Software Geography | 108806 | [108806-sheppard-software-geography.json](./108806-sheppard-software-geography.json) |
+| Sheptun | 129255 | [129255-sheptun.json](./129255-sheptun.json) |
 | Shera and the 40 Thieves | 148393 | [148393-shera-and-the-40-thieves.json](./148393-shera-and-the-40-thieves.json) |
 | Shera and the Three Treasures | 118293 | [118293-shera-and-the-three-treasures.json](./118293-shera-and-the-three-treasures.json) |
 | Sherberia | 190452 | [190452-sherberia.json](./190452-sherberia.json) |
@@ -11206,6 +11209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter Island | 76992 | [76992-shutter-island.json](./76992-shutter-island.json) |
 | Shutter Labs | 211045 | [211045-shutter-labs.json](./211045-shutter-labs.json) |
 | Shutter Nyan!: Enhanced Edition | 220881 | [220881-shutter-nyan-enhanced-edition.json](./220881-shutter-nyan-enhanced-edition.json) |
+| Shutter Nyang | 129283 | [129283-shutter-nyang.json](./129283-shutter-nyang.json) |
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
@@ -19385,6 +19389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Master | 42404 | [42404-song-master.json](./42404-song-master.json) |
 | Song of a Spirit | 120465 | [120465-song-of-a-spirit.json](./120465-song-of-a-spirit.json) |
 | Song of Asirra | 140800 | [140800-song-of-asirra.json](./140800-song-of-asirra.json) |
+| Song of Bloom | 137135 | [137135-song-of-bloom.json](./137135-song-of-bloom.json) |
 | Song of Calamity | 142966 | [142966-song-of-calamity.json](./142966-song-of-calamity.json) |
 | Song of Eriel | 292208 | [292208-song-of-eriel.json](./292208-song-of-eriel.json) |
 | Song of Feathers | 337579 | [337579-song-of-feathers.json](./337579-song-of-feathers.json) |
@@ -22104,6 +22109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Escaper | 231796 | [231796-space-escaper.json](./231796-space-escaper.json) |
 | Space Evader | 38879 | [38879-space-evader.json](./38879-space-evader.json) |
 | Space Evolver | 417943 | [417943-space-evolver.json](./417943-space-evolver.json) |
+| Space Exodus | 129268 | [129268-space-exodus.json](./129268-space-exodus.json) |
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
 | Space Explore | 149758 | [149758-space-explore.json](./149758-space-explore.json) |
@@ -38442,6 +38448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Support | 425434 | [425434-support.json](./425434-support.json) |
 | Suppress Academician | 309393 | [309393-suppress-academician.json](./309393-suppress-academician.json) |
 | Suppressed | 30976 | [30976-suppressed.json](./30976-suppressed.json) |
+| Suppressor | 129282 | [129282-suppressor.json](./129282-suppressor.json) |
 | Supra Binyot Lande 2: Melpert's Quest for Booti | 334637 | [334637-supra-binyot-lande-2-melperts-quest-for-booti.json](./334637-supra-binyot-lande-2-melperts-quest-for-booti.json) |
 | Supra Mayro 64 FM | 354110 | [354110-supra-mayro-64-fm.json](./354110-supra-mayro-64-fm.json) |
 | Supra Mayro Bross: Legend of the Lost Kingdom | 321902 | [321902-supra-mayro-bross-legend-of-the-lost-kingdom.json](./321902-supra-mayro-bross-legend-of-the-lost-kingdom.json) |
