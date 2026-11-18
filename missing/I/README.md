@@ -6433,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
 | Invizimals: The Resistance | 42687 | [42687-invizimals-the-resistance.json](./42687-invizimals-the-resistance.json) |
 | Invizimals: The Trilogy | 148657 | [148657-invizimals-the-trilogy.json](./148657-invizimals-the-trilogy.json) |
+| Invocation | 351292 | [351292-invocation.json](./351292-invocation.json) |
 | Invocation: Ghost Photography | 390057 | [390057-invocation-ghost-photography.json](./390057-invocation-ghost-photography.json) |
 | Invocation: The Festival of Souls | 221084 | [221084-invocation-the-festival-of-souls.json](./221084-invocation-the-festival-of-souls.json) |
 | inVokeR | 36821 | [36821-invoker.json](./36821-invoker.json) |
@@ -7098,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Architect | 424556 | [424556-island-architect.json](./424556-island-architect.json) |
 | Island Artist | 185581 | [185581-island-artist.json](./185581-island-artist.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
+| Island Beekeeper | 365314 | [365314-island-beekeeper.json](./365314-island-beekeeper.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
 | Island Berry | 188843 | [188843-island-berry.json](./188843-island-berry.json) |
 | Island Build Masters | 72422 | [72422-island-build-masters.json](./72422-island-build-masters.json) |
