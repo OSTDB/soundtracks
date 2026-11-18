@@ -7119,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
 | Nodes Escape | 256603 | [256603-nodes-escape.json](./256603-nodes-escape.json) |
 | Nodes Machine Escape | 315754 | [315754-nodes-machine-escape.json](./315754-nodes-machine-escape.json) |
+| Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Nodes of Yesod: 25th Anniversary Edition | 264975 | [264975-nodes-of-yesod-25th-anniversary-edition.json](./264975-nodes-of-yesod-25th-anniversary-edition.json) |
 | Nodeshifter | 136547 | [136547-nodeshifter.json](./136547-nodeshifter.json) |
 | Nodevious | 181163 | [181163-nodevious.json](./181163-nodevious.json) |
@@ -7646,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | North Tower | 220231 | [220231-north-tower.json](./220231-north-tower.json) |
 | North Town | 143902 | [143902-north-town.json](./143902-north-town.json) |
+| North vs. South: The Great American Civil War | 22834 | [22834-north-vs-south-the-great-american-civil-war.json](./22834-north-vs-south-the-great-american-civil-war.json) |
 | North Wind: Eien no Yakusoku | 331050 | [331050-north-wind-eien-no-yakusoku.json](./331050-north-wind-eien-no-yakusoku.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
 | Northanger Abbey | 426609 | [426609-northanger-abbey.json](./426609-northanger-abbey.json) |
