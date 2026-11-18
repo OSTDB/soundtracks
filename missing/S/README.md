@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety Driving Simulator: Car | 33311 | [33311-safety-driving-simulator-car.json](./33311-safety-driving-simulator-car.json) |
 | Safety Driving Simulator: Motorbike | 33312 | [33312-safety-driving-simulator-motorbike.json](./33312-safety-driving-simulator-motorbike.json) |
 | Safety Driving: The Safety Simulation - Car | 10804 | [10804-safety-driving-the-safety-simulation-car.json](./10804-safety-driving-the-safety-simulation-car.json) |
+| Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
 | Safety for Kid - Getting Lost | 93651 | [93651-safety-for-kid-getting-lost.json](./93651-safety-for-kid-getting-lost.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
 | Safety: Life Is A Maze | 218616 | [218616-safety-life-is-a-maze.json](./218616-safety-life-is-a-maze.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scawy Game | 414867 | [414867-scawy-game.json](./414867-scawy-game.json) |
 | SCE_2 | 392835 | [392835-sce-2.json](./392835-sce-2.json) |
+| Scéal | 31951 | [31951-sceal.json](./31951-sceal.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
 | Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
 | Scene Investigators | 146404 | [146404-scene-investigators.json](./146404-scene-investigators.json) |
@@ -10619,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Empire Galaxy | 95959 | [95959-shop-empire-galaxy.json](./95959-shop-empire-galaxy.json) |
 | Shop Empire Underground | 101805 | [101805-shop-empire-underground.json](./101805-shop-empire-underground.json) |
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
+| Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shop Heroes Legends: Idle RPG | 233118 | [233118-shop-heroes-legends-idle-rpg.json](./233118-shop-heroes-legends-idle-rpg.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
 | Shop it Up! | 377253 | [377253-shop-it-up.json](./377253-shop-it-up.json) |
@@ -31560,6 +31563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange Midnight | 164649 | [164649-strange-midnight.json](./164649-strange-midnight.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
+| Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
 | Strange Night ll | 81778 | [81778-strange-night-ll.json](./81778-strange-night-ll.json) |
 | Strange Nightmares | 161895 | [161895-strange-nightmares.json](./161895-strange-nightmares.json) |
 | Strange Ocean | 291806 | [291806-strange-ocean.json](./291806-strange-ocean.json) |
@@ -36781,6 +36785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Marisa World | 77351 | [77351-super-marisa-world.json](./77351-super-marisa-world.json) |
 | Super Marisa World Fusion | 322790 | [322790-super-marisa-world-fusion.json](./322790-super-marisa-world-fusion.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
+| Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
 | Super Marlin Bros | 294279 | [294279-super-marlin-bros.json](./294279-super-marlin-bros.json) |
 | Super Marshmallow Kingdom | 403108 | [403108-super-marshmallow-kingdom.json](./403108-super-marshmallow-kingdom.json) |
 | Super Maruo | 238973 | [238973-super-maruo.json](./238973-super-maruo.json) |
@@ -37913,6 +37918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stacker 3 | 165263 | [165263-super-stacker-3.json](./165263-super-stacker-3.json) |
 | Super Stadia | 355884 | [355884-super-stadia.json](./355884-super-stadia.json) |
 | Super Stamp | 19826 | [19826-super-stamp.json](./19826-super-stamp.json) |
+| Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
 | Super Star Adventure | 385286 | [385286-super-star-adventure.json](./385286-super-star-adventure.json) |
 | Super Star Battle | 350332 | [350332-super-star-battle.json](./350332-super-star-battle.json) |
 | Super Star Battle Royale | 382973 | [382973-super-star-battle-royale.json](./382973-super-star-battle-royale.json) |
@@ -38771,6 +38777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
 | Supesu 2 | 123923 | [123923-supesu-2.json](./123923-supesu-2.json) |
 | Supfly Delivery Simulator | 140158 | [140158-supfly-delivery-simulator.json](./140158-supfly-delivery-simulator.json) |
+| Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Suplex | 131036 | [131036-suplex.json](./131036-suplex.json) |
 | Suplex Saga | 54633 | [54633-suplex-saga.json](./54633-suplex-saga.json) |
@@ -39890,6 +39897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweater? Ok! | 31024 | [31024-sweater-ok.json](./31024-sweater-ok.json) |
 | Sweater? Ok! 2 | 81022 | [81022-sweater-ok-2.json](./81022-sweater-ok-2.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
+| SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
 | Sweaty Palms | 63739 | [63739-sweaty-palms.json](./63739-sweaty-palms.json) |
 | Sweave | 317144 | [317144-sweave.json](./317144-sweave.json) |
@@ -40386,6 +40394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiss Knife | 126358 | [126358-swiss-knife.json](./126358-swiss-knife.json) |
 | Switch | 27364 | [27364-switch.json](./27364-switch.json) |
 | Switch - Black & White | 105208 | [105208-switch-black-and-white.json](./105208-switch-black-and-white.json) |
+| Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch & Ditch | 113872 | [113872-switch-and-ditch.json](./113872-switch-and-ditch.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
 | Switch Box | 368592 | [368592-switch-box.json](./368592-switch-box.json) |
