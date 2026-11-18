@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddington: The World Mystery Tour | 124343 | [124343-paddington-the-world-mystery-tour.json](./124343-paddington-the-world-mystery-tour.json) |
 | Paddington's Early Visit | 83251 | [83251-paddingtons-early-visit.json](./83251-paddingtons-early-visit.json) |
 | Paddington's Garden Game | 83250 | [83250-paddingtons-garden-game.json](./83250-paddingtons-garden-game.json) |
+| Paddle Baddle | 76757 | [76757-paddle-baddle.json](./76757-paddle-baddle.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
 | Paddle Battle | 44086 | [44086-paddle-battle.json](./44086-paddle-battle.json) |
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
@@ -1773,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
 | Papa's Scooperia HD | 106198 | [106198-papas-scooperia-hd.json](./106198-papas-scooperia-hd.json) |
+| Papa's Scooperia to Go! | 106183 | [106183-papas-scooperia-to-go.json](./106183-papas-scooperia-to-go.json) |
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
 | Papa's Taco Mia To Go! | 345835 | [345835-papas-taco-mia-to-go.json](./345835-papas-taco-mia-to-go.json) |
@@ -5632,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petals of Doom | 133682 | [133682-petals-of-doom.json](./133682-petals-of-doom.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
 | Petals to Petals | 364384 | [364384-petals-to-petals.json](./364384-petals-to-petals.json) |
+| Petank Party | 79410 | [79410-petank-party.json](./79410-petank-party.json) |
 | Pétanque 2026 | 401828 | [401828-petanque-2026.json](./401828-petanque-2026.json) |
 | Pétanque Master | 93518 | [93518-petanque-master.json](./93518-petanque-master.json) |
 | Pétanque Master 2 | 81755 | [81755-petanque-master-2.json](./81755-petanque-master-2.json) |
@@ -5868,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Planet | 129479 | [129479-pew-pew-planet.json](./129479-pew-pew-planet.json) |
 | Pew Pew Pod | 65252 | [65252-pew-pew-pod.json](./65252-pew-pew-pod.json) |
 | Pew Pew Puzzle Defense | 120033 | [120033-pew-pew-puzzle-defense.json](./120033-pew-pew-puzzle-defense.json) |
+| Pew Pew Rocket | 115079 | [115079-pew-pew-rocket.json](./115079-pew-pew-rocket.json) |
 | Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
 | Pew Pew vs. Monsters | 292178 | [292178-pew-pew-vs-monsters.json](./292178-pew-pew-vs-monsters.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
@@ -6685,6 +6689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pi | 68497 | [68497-pi.json](./68497-pi.json) |
 | Pi Fu Fighter | 239106 | [239106-pi-fu-fighter.json](./239106-pi-fu-fighter.json) |
 | Pi in the Sky | 354647 | [354647-pi-in-the-sky.json](./354647-pi-in-the-sky.json) |
+| Pi is Everything | 96947 | [96947-pi-is-everything.json](./96947-pi-is-everything.json) |
 | Pi R Squared | 41147 | [41147-pi-r-squared.json](./41147-pi-r-squared.json) |
 | Pi Story | 93987 | [93987-pi-story.json](./93987-pi-story.json) |
 | Pi There! | 354730 | [354730-pi-there.json](./354730-pi-there.json) |
@@ -9807,6 +9812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
 | Pixelcalypse: Pixel Art Game | 145128 | [145128-pixelcalypse-pixel-art-game.json](./145128-pixelcalypse-pixel-art-game.json) |
+| PixelCanvas.io | 79413 | [79413-pixelcanvas-io.json](./79413-pixelcanvas-io.json) |
 | Pixelcraft Dungeons | 196289 | [196289-pixelcraft-dungeons.json](./196289-pixelcraft-dungeons.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
 | PixelCraft VR | 126542 | [126542-pixelcraft-vr.json](./126542-pixelcraft-vr.json) |
@@ -11813,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket League Story | 65685 | [65685-pocket-league-story.json](./65685-pocket-league-story.json) |
 | Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
 | Pocket Legends | 22969 | [22969-pocket-legends.json](./22969-pocket-legends.json) |
+| Pocket Legends Adventures | 76769 | [76769-pocket-legends-adventures.json](./76769-pocket-legends-adventures.json) |
 | Pocket Legends Adventures | 77609 | [77609-pocket-legends-adventures.json](./77609-pocket-legends-adventures.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Lint | 350227 | [350227-pocket-lint.json](./350227-pocket-lint.json) |
@@ -15126,6 +15133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
 | Potion in Motion | 341559 | [341559-potion-in-motion.json](./341559-potion-in-motion.json) |
+| Potion island | 109775 | [109775-potion-island.json](./109775-potion-island.json) |
 | Potion Knight | 387805 | [387805-potion-knight.json](./387805-potion-knight.json) |
 | Potion Lore | 56919 | [56919-potion-lore.json](./56919-potion-lore.json) |
 | Potion Maker | 119210 | [119210-potion-maker.json](./119210-potion-maker.json) |
