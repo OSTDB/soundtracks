@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VaporPunk | 334309 | [334309-vaporpunk.json](./334309-vaporpunk.json) |
 | Vaporspace | 115981 | [115981-vaporspace.json](./115981-vaporspace.json) |
 | Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
+| Vaporum: Lockdown | 126812 | [126812-vaporum-lockdown.json](./126812-vaporum-lockdown.json) |
 | Vaporware | 259891 | [259891-vaporware.json](./259891-vaporware.json) |
 | Vaporware Odyssey | 280366 | [280366-vaporware-odyssey.json](./280366-vaporware-odyssey.json) |
 | Vaporwave | 149882 | [149882-vaporwave.json](./149882-vaporwave.json) |
@@ -1896,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesnith Tapes | 350942 | [350942-vesnith-tapes.json](./350942-vesnith-tapes.json) |
 | Vesp: a History of Sapphic Scaphism | 192348 | [192348-vesp-a-history-of-sapphic-scaphism.json](./192348-vesp-a-history-of-sapphic-scaphism.json) |
 | Vespa's Test | 211655 | [211655-vespas-test.json](./211655-vespas-test.json) |
+| Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
 | Vesper | 377291 | [377291-vesper.json](./377291-vesper.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
 | Vesper: Ether Saga | 158673 | [158673-vesper-ether-saga.json](./158673-vesper-ether-saga.json) |
@@ -3180,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
 | Virtual Villagers 3 | 200316 | [200316-virtual-villagers-3.json](./200316-virtual-villagers-3.json) |
 | Virtual Villagers 3 for iPad | 90870 | [90870-virtual-villagers-3-for-ipad.json](./90870-virtual-villagers-3-for-ipad.json) |
+| Virtual Villagers 3: The Secret City | 14910 | [14910-virtual-villagers-3-the-secret-city.json](./14910-virtual-villagers-3-the-secret-city.json) |
 | Virtual Villagers Origins 2 | 110988 | [110988-virtual-villagers-origins-2.json](./110988-virtual-villagers-origins-2.json) |
 | Virtual Villagers: A New Home | 14909 | [14909-virtual-villagers-a-new-home.json](./14909-virtual-villagers-a-new-home.json) |
 | Virtual Villagers: A New Home | 200811 | [200811-virtual-villagers-a-new-home.json](./200811-virtual-villagers-a-new-home.json) |
